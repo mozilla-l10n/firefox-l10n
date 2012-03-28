@@ -100,7 +100,7 @@
 <!ENTITY updateCmd.accesskey                "C">
 <!ENTITY aboutCmd.label					"關於 &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"A">
-<!ENTITY aboutCommPluginsCmd.label			"關於 Plug-ins">
+<!ENTITY aboutCommPluginsCmd.label			"關於外掛程式">
 <!ENTITY aboutCommPluginsCmd.accesskey			"P">
 
 <!ENTITY direct.label                                   "連線（Proxy: 無）">

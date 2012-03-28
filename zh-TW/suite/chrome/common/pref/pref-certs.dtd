@@ -37,11 +37,11 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  managecerts.caption      "管理憑證">
-<!ENTITY  managecerts.text         "用此憑證管理員以管理你的個人憑證、其它人的憑證，和憑證機構資訊。">
+<!ENTITY  managecerts.text         "使用憑證管理員以管理您個人的、其它人的憑證，以及憑證機構等資訊。">
 <!ENTITY  managecerts.button       "管理憑證…">
 <!ENTITY  managecerts.accesskey    "M">
 <!ENTITY  managedevices.caption    "管理安全裝置">
-<!ENTITY  managedevices.text       "按此按鈕以管理你的安全裝置，像 smart card 等等。">
+<!ENTITY  managedevices.text       "使用此按鈕管理您的安全裝置，諸如智慧卡等。">
 <!ENTITY  managedevices.button     "管理安全裝置…">
 <!ENTITY  managedevices.accesskey  "S">
 

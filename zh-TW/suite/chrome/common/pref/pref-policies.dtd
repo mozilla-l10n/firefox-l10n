@@ -1,7 +1,7 @@
 
 <!ENTITY  pref.policies.title "安全性原則">
 
-<!ENTITY  zoneIntro.label     "&brandShortName; 予許你設定存取各個網站時的安全性原則，包括 Java 與 JavaScript 等等。">
+<!ENTITY  zoneIntro.label     "&brandShortName; 允許您針對各個網站設定存取時的安全性原則，包括指令碼與 Java 等等。">
 
 <!ENTITY  policies.label      "政策:">
 <!ENTITY  default.label       "預設政策">

@@ -1,13 +1,13 @@
 <!ENTITY securityTitle.label "安全性">
 <!ENTITY securityTab.label "安全性">
-<!ENTITY securityHeading.label "要收發有簽章或加密的郵件，您必須指定數位簽章及加密憑證。">
+<!ENTITY securityHeading.label "您必須指定簽署用以及加密用的憑證才能收發含簽章或加密過的訊息。">
 <!ENTITY encryptionGroupTitle.label "加密">
 <!ENTITY encryptionChoiceLabel.label "寄送郵件時預設加密設定:">
 <!ENTITY neverEncrypt.label "不使用 (不加密)">
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "必要 (除非所有收件者都有憑證否則不寄出)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "使用下面的個人憑證以加解密寄給您的郵件:">
+<!ENTITY encryptionCert.message "使用此憑證來加解密寄給您的郵件:">
 <!ENTITY digitalSign.certificate.button "選擇…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "清除">

@@ -2,7 +2,7 @@
 
 <!ENTITY MsgSynchronize.label "下載及同步郵件">
 <!ENTITY MsgSelect.label "選擇可離線閱讀的項目">
-<!ENTITY MsgSyncDesc.label "如果您已經選好了要離線閱讀的郵件匣或新聞群組，您可以立刻下載或執行同步化。否則請按「選擇」以選擇要離線閱讀的郵件匣與新聞群組。">
+<!ENTITY MsgSyncDesc.label "如果您已經選好了要離線閱讀的郵件匣或新聞群組，您可以立刻下載或進行同步。否則請按「選擇」以選擇要離線閱讀的郵件匣與新聞群組。">
 <!ENTITY MsgSyncDirections.label "下載與同步下列項目:">
 <!ENTITY syncTypeMail.label "郵件">
 <!ENTITY syncTypeMail.accesskey "M">
