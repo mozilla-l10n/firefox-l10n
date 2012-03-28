@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "正在設定 &brandShortName;\u2026">
+<!ENTITY  splash_settingup "正在設定您的 &brandShortName;">
+<!ENTITY  splash_bookmarks_history "我們正在更新您的書籤與歷史紀錄，可能需要花上幾分鐘。">
 
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">

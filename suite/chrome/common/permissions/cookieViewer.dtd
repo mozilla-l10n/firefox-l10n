@@ -1,7 +1,7 @@
 <!ENTITY     tab.cookiesonsystem.label      "已存 Cookies">
 <!ENTITY     tab.bannedservers.label        "Cookie 網站設定">
 <!ENTITY     div.bannedservers.label        "選擇可以或不可以使用 Cookie 的網站。">
-<!ENTITY     div.cookiesonsystem.label      "檢視與移除存在你的電腦上的 Cookies。">
+<!ENTITY     div.cookiesonsystem.label      "檢視並移除儲存於您電腦上的 Cookie。">
 <!ENTITY     treehead.cookiename.label      "Cookie 名稱">
 <!ENTITY     treehead.cookiedomain.label    "網站">
 <!ENTITY     treehead.cookieexpires.label   "有效期限">
@@ -40,5 +40,5 @@
 <!ENTITY     removeallpermissions.label     "移除所有網站">
 <!ENTITY     removeallpermissions.accesskey "e">
 
-<!ENTITY     futureCookies.label            "不允許已被移除 cookie 的網站在未來設定 cookie。">
+<!ENTITY     futureCookies.label            "不允許已被移除 Cookie 的網站在未來設定 Cookie。">
 <!ENTITY     futureCookies.accesskey        "D">

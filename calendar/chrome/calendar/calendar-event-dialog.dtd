@@ -200,13 +200,13 @@
 <!ENTITY event.calendar.label                             "行事曆:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "與會者:" >
-<!ENTITY event.attendees.accesskey                        "A" >
+<!ENTITY event.attendees.accesskey                        "I" >
 <!ENTITY event.alldayevent.label                          "全天事件" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "開始:" >
 <!ENTITY event.from.accesskey                             "S">
 <!ENTITY task.from.label                                  "開始:" >
-<!ENTITY task.from.accesskey                              "S">
+<!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "結束:" >
 <!ENTITY event.to.accesskey                               "n">
 <!ENTITY task.to.label                                    "到期日:" >

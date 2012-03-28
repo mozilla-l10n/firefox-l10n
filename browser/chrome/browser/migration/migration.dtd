@@ -27,7 +27,7 @@
 <!ENTITY migrating.title                "匯入中…">
 <!ENTITY migrating.label                "正在匯入下列項目…">
 
-<!ENTITY selectProfile.title            "選取設定檔 (Profile)">
+<!ENTITY selectProfile.title            "選取設定檔">
 <!ENTITY selectProfile.label            "可匯入下列設定檔的內容:">
 
 <!ENTITY done.title                     "匯入完成">

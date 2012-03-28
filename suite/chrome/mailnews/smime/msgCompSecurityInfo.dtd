@@ -2,7 +2,7 @@
 
 <!ENTITY title.label "郵件安全">
 <!ENTITY subject.plaintextWarning "請注意: 郵件的標題不會被編碼。">
-<!ENTITY status.heading "你的郵件內文會依下列方式寄送:">
+<!ENTITY status.heading "您的訊息內容將以下列方式寄送:">
 <!ENTITY status.signed "數位簽署:">
 <!ENTITY status.encrypted "已編碼:">
 <!ENTITY status.certificates "憑證:">

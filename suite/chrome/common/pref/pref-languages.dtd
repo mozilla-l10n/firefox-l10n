@@ -1,9 +1,9 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY languages.customize.prefLangDescript           "有些網頁會提供多種語言的版本，此處可設定你偏好的語言順序。">
+<!ENTITY languages.customize.prefLangDescript           "有些網頁會提供多種語言的版本，您可於此處設定偏好的顯示語言順序。">
 <!ENTITY languages.customize.title                      "語言">
 <!ENTITY langtitle.label                                "網頁所使用的語言">
-<!ENTITY languages.customize.prefAddLangDescript        "選取你想要增加的語言。">
+<!ENTITY languages.customize.prefAddLangDescript        "選擇您想要新增的語言。">
 <!ENTITY languages.customize.addButton.label            "新增…">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 <!ENTITY languages.customize.deleteButton.label         "移除">
