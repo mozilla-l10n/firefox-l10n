@@ -459,6 +459,7 @@
 <!ENTITY importCmd.accesskey "И">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "н">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Параметры учётной записи…">
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY accountManagerCmdUnix.accesskey "м">
