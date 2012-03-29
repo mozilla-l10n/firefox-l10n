@@ -120,3 +120,7 @@
 <!ENTITY abouthome_about_sync "ਆਪਣੇ ਹੋਰ ਜੰਤਰਾਂ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਸੈਟ ਅੱਪ ਕਰੋ">
 <!ENTITY abouthome_sync_bold_name "ਫਾਇਰਫਾਕਸ ਸਿੰਕ">
 
+<!ENTITY filepicker_title "ਫਾਇਲ ਚੁਣੋ">
+<!ENTITY filepicker_audio_title "ਸਾਊਂਡ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
+<!ENTITY filepicker_image_title "ਤਸਵੀਰ ਚੁਣੋ ਜਾਂ  ਖਿੱਚੋ">
+<!ENTITY filepicker_video_title "ਵਿਡੀਓ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
