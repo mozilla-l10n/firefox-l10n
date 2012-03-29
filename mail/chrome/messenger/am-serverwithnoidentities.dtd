@@ -5,7 +5,7 @@
 <!ENTITY messageStorage.label "郵件儲存">
 <!ENTITY emptyTrashOnExit.label "結束時清空垃圾桶">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY localPath.label "本機目錄:">
+<!ENTITY localPath.label "本地目錄:">
 <!ENTITY localFolderPicker.label "選取本機郵件匣">
 <!ENTITY browseFolder.label "瀏覽…">
 <!ENTITY browseFolder.accesskey "B">
