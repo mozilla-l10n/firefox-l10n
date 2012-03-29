@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "a">
 <!ENTITY chooseFolderMac.label        "Kiezen…">
 <!ENTITY chooseFolderMac.accesskey    "z">
+
+<!ENTITY attachments.incoming.label   "Inkomend">
+<!ENTITY attachments.outgoing.label   "Uitgaand">
+
+<!ENTITY addCloudFileAccount.label        "Toevoegen">
+<!ENTITY addCloudFileAccount.accesskey    "T">
+<!ENTITY addCloudFileAccount.description  "Een nieuwe Filelink opslagdienst toevoegen">
+<!ENTITY removeCloudFileAccount.label     "Verwijderen">
+<!ENTITY removeCloudFileAccount.accesskey "V">
+<!ENTITY authRequired.description         "Uw authorizatie is vereist om de instellingen van deze opslagdienst te zien.">
+<!ENTITY authRequired.button.label        "Autoriseer">
+<!ENTITY authRequired.button.accesskey    "u">
+
+<!ENTITY enableCloudFileAccountOffer.label "Biedt delen aan bij bestanden groter dan">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

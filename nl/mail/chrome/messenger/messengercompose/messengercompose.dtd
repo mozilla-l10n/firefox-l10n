@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Bestand(en)…">
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Webpagina…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -271,6 +273,14 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestand(en) koppelen…">
 <!ENTITY attachFile.accesskey "B">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Converteren naar…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Uploaden annuleren">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Standaard bijlage">
+<!ENTITY convertRegularAttachment.accesskey "b">
 <!ENTITY attachPage.label "Webpagina koppelen…">
 <!ENTITY attachPage.accesskey "W">
 
