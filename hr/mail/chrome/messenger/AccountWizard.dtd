@@ -34,20 +34,25 @@
 
 <!-- Entities for Server page -->
 
-<!ENTITY serverTitle.label "Informacije o poslužitelju">
+<!ENTITY incomingTitle.label "Informacije o dolaznom poslužitelju">
 <!ENTITY incomingServerTypeDesc.label "Odabrite koju vrstu dolaznog poslužitelja koristite.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Upišite ime dolaznog poslužitlja (na primjer, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Dolazni poslužitelj:">
-<!ENTITY incomingServerLabel.accesskey "s">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Upišite ime poslužitelja interesnih grupa (NNTP) (na primjer, &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Upišite ime odlaznog poslužitelja (SMTP) (na primjer, &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "Odlazni poslužitelj:">
-<!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "Poslužitelj interesnih grupa:">
 <!ENTITY newsServerLabel.accesskey "n">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Informacije o odlaznom poslužitelju">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Upišite ime odlaznog poslužitelja (SMTP) (na primjer, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Odlazni poslužitelj:">
+<!ENTITY outgoingServer.accesskey "O">
+<!ENTITY outgoingUsername.description "Upišite korisničko ime za slanje pošte koje vam je dao vaš pružatelj usluge (često je isto kao i korisničko ime za primanje pošte).">
+<!ENTITY outgoingUsername.label "Odlazno korisničko ime:">
+<!ENTITY outgoingUsername.accesskey "O">
+
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,7 +65,14 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Zadano:">
 <!ENTITY defaultPortValue.label "">
-
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Upišite ime dolaznog poslužitelja (na primjer, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Dolazni poslužitelj:">
+<!ENTITY incomingServer.accesskey "s">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Upišite korisničko ime za primanje pošte koje vam je dao vaš pružatelj usluge (na primjer, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Korisničko ime:">
+<!ENTITY incomingUsername.accesskey "K">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
@@ -71,15 +83,6 @@
 
 <!-- Entities for Login page -->
 
-<!ENTITY loginTitle.label "Korisnička imena">
-<!ENTITY usernameDesc.label "Upišite korisničko ime za primanje pošte koje vam je dao vaš pružatelj usluge ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(na primjer, &quot;jsmith&quot;).">
-<!ENTITY usernameLabel.label "Dolazno korisničko ime:">
-<!ENTITY usernameLabel.accesskey "i">
-<!ENTITY usernameSmtpDesc.label "Upišite korisničko ime za slanje pošte koje vam je dao vaš pružatelj usluge (ono je obično isto kao i dolazno korisničko ime).">
-<!ENTITY usernameSmtpLabel.label "Odlazno korisničko ime:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
