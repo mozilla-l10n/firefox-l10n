@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Reŝargi la paĝon">
 <!ENTITY reloadPlugin.post                                   " por klopodi denove.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…kaj sendi raporton pri paneo">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Sendi raporton pri paneo">
 <!ENTITY report.submitting                                   "Raporto sendata…">
 <!ENTITY report.submitted                                    "Raporto pri paneo estis sendita.">
 <!ENTITY report.disabled                                     "Raportado de paneoj ne estas aktiva.">

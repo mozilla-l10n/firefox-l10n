@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "Mi estos singarda, mi promesas!">
 <!ENTITY aboutWarningCheckbox.label "Montri tiun ĉi atentigon venontan fojon">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Serĉi:">
+<!ENTITY searchPrefs.accesskey "s">
 <!ENTITY focusSearch.key "r">
 
 <!-- Columns -->

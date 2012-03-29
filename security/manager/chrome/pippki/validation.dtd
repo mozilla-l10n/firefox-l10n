@@ -46,7 +46,7 @@
 <!ENTITY  validation.deletecrl.accesskey          "D">
 <!ENTITY  validation.updatecrl.label              "Ĝisdatigi">
 <!ENTITY  validation.updatecrl.accesskey          "U">
-<!ENTITY  validation.advanced.label               "Settings">
+<!ENTITY  validation.advanced.label               "Agordoj">
 <!ENTITY  validation.advanced.accesskey           "S">
 
 <!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
@@ -64,4 +64,4 @@
 <!ENTITY  crl.import.nextupdate.label             "Next Update On: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Details of Last Update Failure: ">
-<!ENTITY  edit.button                             "Settings">
+<!ENTITY  edit.button                             "Agordoj">

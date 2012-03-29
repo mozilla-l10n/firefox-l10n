@@ -64,7 +64,7 @@
 <!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
 <!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
 <!ENTITY rights.locationawarebrowsing-term1a "En la adresa strio tajpu ">
-<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term1b "pri:agordo">
 <!ENTITY rights.locationawarebrowsing-term2 "Tajpu geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Duoble alklaku la preferon geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">

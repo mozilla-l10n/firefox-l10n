@@ -11,12 +11,12 @@
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Kopii">
 <!ENTITY copyCmd.key               "K">
-<!ENTITY copyCmd.accesskey         "c">
+<!ENTITY copyCmd.accesskey         "K">
 <!ENTITY pasteCmd.label            "Alglui">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "g">
 <!ENTITY deleteCmd.label           "Forviŝi">
-<!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY deleteCmd.accesskey       "f">
 <!ENTITY selectAllCmd.label        "Elekti ĉion">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "E">

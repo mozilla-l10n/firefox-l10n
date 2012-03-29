@@ -144,7 +144,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksButton.label          "Legosignoj">
 <!ENTITY bookmarksButton.tooltip        "Montri viajn legosignojn">
-<!ENTITY bookmarksButton.accesskey      "L">
+<!ENTITY bookmarksButton.accesskey  "L">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
@@ -213,17 +213,30 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Inspekti">
-<!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Fermi inspektilon">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopii enan HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "e">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopii eksteran HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "k">
+
+<!ENTITY inspectorHTMLDelete.label          "Forigi nodon">
+<!ENTITY inspectorHTMLDelete.accesskey      "F">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Vido 3D">
+<!ENTITY inspect3DViewButton.accesskey "V">
+
 <!ENTITY inspectStyleButton.label     "Stilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Style Editor">
-<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.label            "Redaktado de stiloj">
+<!ENTITY styleeditor.accesskey        "i">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
@@ -280,8 +293,8 @@ can reach it easily. -->
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Ilaraj strioj"> 
 <!ENTITY viewToolbarsMenu.accesskey     "I"> 
-<!ENTITY viewSidebarMenu.label        "Flanka strio">
-<!ENTITY viewSidebarMenu.accesskey      "F">
+<!ENTITY viewSidebarMenu.label "Flanka strio">
+<!ENTITY viewSidebarMenu.accesskey "F">
 <!ENTITY viewCustomizeToolbar.label       "Persone agordi…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY viewTabsOnTop.label            "Folioj supre">
@@ -592,3 +605,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Fermi strion de aldonaĵoj">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "Panelo de HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">

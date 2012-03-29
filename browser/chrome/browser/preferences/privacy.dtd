@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Legosignoj">
 <!ENTITY  locbar.nothing.label          "Nenio">
 
-
 <!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
 <!ENTITY  acceptCookies.accesskey       "A">
 
@@ -30,7 +29,7 @@
 <!ENTITY  askEachTime.label             "demandi al mi ĉiun fojon">
 
 <!ENTITY  cookieExceptions.label        "Esceptoj…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "t">
 
 <!ENTITY  showCookies.label             "Montri kuketojn…">
 <!ENTITY  showCookies.accesskey         "M">
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Ĉiam uzi la reĝimon de privata retesplorado">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Memori mian retesploran historion">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Memori mian elŝutan historion">
-<!ENTITY  rememberDownload.accesskey     "e">
+<!ENTITY  rememberHistory2.label      "Memori mian historion de retesplorado kaj elŝutado">
+<!ENTITY  rememberHistory2.accesskey  "m">
 
 <!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
 <!ENTITY  rememberSearchForm.accesskey   "s">
