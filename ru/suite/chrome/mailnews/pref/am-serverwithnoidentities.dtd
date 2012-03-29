@@ -6,6 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
 <!ENTITY emptyTrashOnExit.accesskey "О">
 <!ENTITY localPath.label "Локальный каталог:">
-<!ENTITY localFolderPicker.label "Расположение локальных папок">
+<!ENTITY localFolderPicker.label "Выбор локального каталога">
 <!ENTITY browseFolder.label "Обзор…">
 <!ENTITY browseFolder.accesskey "б">

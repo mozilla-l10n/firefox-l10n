@@ -57,7 +57,7 @@
 <!ENTITY advancedButton.label "Дополнительно…">
 <!ENTITY advancedButton.accesskey "п">
 <!ENTITY serverDefaultCharset.label "Кодировка по умолчанию:">
-<!ENTITY localFolderPicker.label "Расположение локальных папок">
+<!ENTITY localFolderPicker.label "Выбор локального каталога">
 <!ENTITY browseFolder.label "Обзор…">
 <!ENTITY browseFolder.accesskey "б">
 <!ENTITY newsrcPicker.label "Выбрать файл newsrc">
