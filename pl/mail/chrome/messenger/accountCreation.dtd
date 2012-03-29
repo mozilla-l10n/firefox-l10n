@@ -52,8 +52,8 @@
 <!ENTITY technicaldetails.label   "Szczegóły">
 <!ENTITY confirmWarning.label     "Rozumiem ryzyko.">
 <!ENTITY confirmWarning.accesskey "R">
-<!ENTITY createAccount.label      "Utwórz konto">
-<!ENTITY createAccount.accesskey  "U">
+<!ENTITY doneAccount.label "Gotowe">
+<!ENTITY doneAccount.accesskey "G">
 <!ENTITY changeSettings.label     "Zmień ustawienia">
 <!ENTITY changeSettings.accesskey "Z">
 
