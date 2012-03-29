@@ -43,30 +43,6 @@
 <!ENTITY editMenu.label               "Redakti">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Malfari">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "M">
-
-<!ENTITY redoCmd.label                "Refari">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "Eltondi">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "Kopii">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Algui">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "K">
-
-<!ENTITY selectAllCmd.label           "Elekti ĉion">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "l">
-
 <!ENTITY run.label                    "Ruli">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
@@ -100,6 +76,18 @@
   -->
 <!ENTITY browserContext.label         "Retesplorilo">
 <!ENTITY browserContext.accesskey     "R">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Helpo">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Helpo">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "Helpo pri la Malneta redaktilo ĉe MDN">
+<!ENTITY documentationLink.accesskey  "M">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

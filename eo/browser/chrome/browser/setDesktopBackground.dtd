@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Fonero">
 <!ENTITY center.label               "Centre">
 <!ENTITY stretch.label              "Etendi">
+<!ENTITY fill.label                 "Plenigi">
+<!ENTITY fit.label                  "Adapti">
 <!ENTITY preview.label              "Antaŭvidi">
 <!ENTITY color.label                "Koloro:">
 <!ENTITY setDesktopBackground.title "Difini labortablan fonon">

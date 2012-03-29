@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Pri &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; estas prova version kaj povas esti nestabila.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "It automatically sends information about performance, hardware, usage and customizations back to &vendorShortName; to help make &brandShortName; better.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " estas ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "tutmonda komunumo">
+<!ENTITY community.exp.end          " kiu kunlaboras por konservi la Teksaĵon malfermita, publika kaj alirebla por ĉiuj.">
+
 <!ENTITY community.start2           "&brandShortName; estas projektita de ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "tutmonda komunumo">
-<!ENTITY community.end2             " kiu kunlaboras por igi la Interreton pli bona. Ni kredas ke la Interreto devus esti malfermita, publika kaj alirebla por ĉiuj, sen limigoj.">
+<!ENTITY community.end3             " kiu kunlaboras por konservi la Teksaĵon malfermita, publika kaj alirebla por ĉiuj.">
 
 <!ENTITY contribute.start           "Ĉu tio aspektas interesa? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

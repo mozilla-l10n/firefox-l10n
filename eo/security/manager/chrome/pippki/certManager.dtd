@@ -139,7 +139,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Servilo">
 <!ENTITY exceptionMgr.certlocation.url        "Retadreso:">
 <!ENTITY exceptionMgr.certlocation.download   "Ricevi atestilon">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certlocation.accesskey  "R">
 <!ENTITY exceptionMgr.certstatus.caption      "Stato de atestilo">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Vidi…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
