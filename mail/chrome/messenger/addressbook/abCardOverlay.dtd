@@ -37,9 +37,9 @@
 
 <!ENTITY Contact.tab                     "Kontakt">
 <!ENTITY Contact.accesskey               "K">
-<!ENTITY Name.box                        "Navn"> 
+<!ENTITY Name.box                        "Navn">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -48,13 +48,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Fornavn:">
 <!ENTITY NameField1.accesskey           "F">
@@ -65,14 +65,14 @@
 <!ENTITY DisplayName.label              "Fullt navn:">
 <!ENTITY DisplayName.accesskey          "u">
 <!ENTITY preferDisplayName.label        "Alltid foretrekk fullt navn foran navnet i meldingshodet">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.accesskey    "d">
 <!ENTITY NickName.label                 "Kallenavn:">
 <!ENTITY NickName.accesskey             "K">
 
 <!ENTITY PrimaryEmail.label             "E-postadresse:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Annen e-post:">
-<!ENTITY SecondEmail.accesskey          "A">
+<!ENTITY SecondEmail.accesskey          "n">
 <!ENTITY PreferMailFormat.label         "Foretrekker å motta meldinger formatert som:">
 <!ENTITY PreferMailFormat.accesskey     "r">
 <!ENTITY PlainText.label                "Ren tekst">
@@ -96,7 +96,7 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "k">
 <!ENTITY PagerNumber.label              "Personsøker:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "o">
 <!ENTITY CellularNumber.label           "Mobiltelefon:">
 <!ENTITY CellularNumber.accesskey       "M">
 
@@ -148,7 +148,7 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY WorkWebPage.accesskey          "N">
 
 <!ENTITY Other.tab                      "Annet">
-<!ENTITY Other.accesskey                "A">
+<!ENTITY Other.accesskey                "t">
 <!ENTITY Custom1.label                  "Egendefinert 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Egendefinert 2:">
