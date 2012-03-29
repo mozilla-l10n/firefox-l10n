@@ -1,7 +1,7 @@
-<!ENTITY  pref.history.title                "瀏覽記錄">
+<!ENTITY  pref.history.title                "歷史記錄">
 
 <!ENTITY  pref.history.caption              "瀏覽記錄">
-<!ENTITY  historyPages.label                "「瀏覽記錄」會記下你所有去過的網址方便日後查詢。">
+<!ENTITY  historyPages.label                "歷史記錄是您先前造訪過的網頁清單。">
 <!ENTITY  enableHistory.label               "記住瀏覽過的網頁">
 <!ENTITY  enableHistory.accesskey           "R">
 <!ENTITY  clearHistory.label                "清除瀏覽記錄">

@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "輸入網頁位址(URL)或是你想開啟的檔案:">
+<!ENTITY enter.label "請輸入網址 (URL) 或指定您想開啟的檔案:">
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->

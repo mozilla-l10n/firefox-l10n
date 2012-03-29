@@ -17,7 +17,7 @@
 <!ENTITY attachFileCmd.label "檔案…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "檔案鏈結">
+<!ENTITY attachCloudCmd.label "雲端鏈結">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "網頁…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -272,7 +272,7 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "附加檔案…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachCloud.label "檔案鏈結…">
+<!ENTITY attachCloud.label "雲端鏈結…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "轉換成…">
 <!ENTITY convertCloud.accesskey "C">
