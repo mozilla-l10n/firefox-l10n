@@ -55,9 +55,9 @@
 <!ENTITY importShortDesc.label    "從其它程式匯入郵件、通訊錄、設定、篩選器">
 
 <!ENTITY importDescription1.label "此精靈可以從其它程式匯入郵件、通訊錄、設定檔及篩選條件到 &brandShortName; 裡。">
-<!ENTITY importDescription2.label "匯入成功後，你就能從 &brandShortName; 裡面存取之前的信件或通訊錄等設定。">
+<!ENTITY importDescription2.label "匯入成功後，您就能從 &brandShortName; 裡面存取之前的郵件或通訊錄等設定。">
 
-<!ENTITY selectDescription.label  "請選擇你想匯入的程式資料:">
+<!ENTITY selectDescription.label  "請選擇您想匯入的程式資料類型:">
 <!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; 上一步">

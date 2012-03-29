@@ -14,8 +14,8 @@
 <!ENTITY importItems.title               "要匯入的項目">
 <!ENTITY importItems.label               "選取要匯入的項目:">
 
-<!ENTITY selectProfile.title             "選取設定檔 (Profile)">
-<!ENTITY selectProfile.label             "可由下列個人設定檔 (Profile) 匯入設定:">
+<!ENTITY selectProfile.title             "選取設定檔">
+<!ENTITY selectProfile.label             "可匯入下列設定檔的內容:">
 
 <!ENTITY migrating.title                 "匯入中…">
 <!ENTITY migrating.label                 "正在匯入下列項目…">

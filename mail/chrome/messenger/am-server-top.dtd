@@ -63,7 +63,7 @@
 <!ENTITY alwaysAuthenticate.label "連線到此伺服器時一律要求認證">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc 檔:">
-<!ENTITY localPath.label "本機目錄:">
+<!ENTITY localPath.label "本地目錄:">
 <!ENTITY abbreviate.label "資料夾顯示新聞群組名稱的方式:">
 <!ENTITY abbreviateOn.label "完整名稱 (例: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "縮寫 (例: 'n.p.m.mail-news')">
