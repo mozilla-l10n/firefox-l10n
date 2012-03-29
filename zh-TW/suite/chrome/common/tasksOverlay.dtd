@@ -43,7 +43,7 @@
 <!ENTITY addOnsManagerCmd.accesskey "A">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 
-<!ENTITY switchProfileCmd.label "切換設定檔 (Profile)…">
+<!ENTITY switchProfileCmd.label "切換設定檔…">
 <!ENTITY switchProfileCmd.accesskey "h">
 
 <!ENTITY syncBrand.shortName.label "Sync">

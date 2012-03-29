@@ -40,7 +40,7 @@
 <!ENTITY sidebar.panels.label           "側邊欄">
 <!ENTITY sidebar.reload.label           "重新載入">
 <!ENTITY sidebar.reload.accesskey       "R">
-<!ENTITY sidebar.picker.label           "分頁">
+<!ENTITY sidebar.picker.label           "標籤">
 <!ENTITY sidebar.customize.label        "自訂側邊欄…">
 <!ENTITY sidebar.customize.accesskey    "u">
 <!ENTITY sidebar.hide.label             "隱藏面板">
@@ -55,8 +55,8 @@
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
 <!ENTITY sidebar.no-panels.state     "側邊欄目前是空的。">
-<!ENTITY sidebar.no-panels.add       '你可以按「面板」以加入新面板。'>
-<!ENTITY sidebar.no-panels.hide      '如果你完全不想使用側邊欄，請從選單的「檢視」選取「側邊欄」。'>
+<!ENTITY sidebar.no-panels.add       '您可以按「標籤」按鈕以加入新標籤。'>
+<!ENTITY sidebar.no-panels.hide      '如果您完全不想使用側邊欄，請從「檢視」選單當中的「顯示/隱藏」子選單選擇「側邊欄」。'>
 <!ENTITY sidebar.sbDirectory.label   "側邊欄目錄…">
 
 <!ENTITY sidebar.pagenotfound.label  "現在無法使用此面版。">

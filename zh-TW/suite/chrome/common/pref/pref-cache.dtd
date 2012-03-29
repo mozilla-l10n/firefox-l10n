@@ -3,7 +3,7 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "快取">
 <!ENTITY pref.cache.caption              "快取選項">
-<!ENTITY cachePara                       "快取會把常看的網頁存入你的硬碟以加速瀏覽。 按下「重新載入」按鈕會然後顯示最新的版本。 ">
+<!ENTITY cachePara                       "快取會把常看的網頁存入您的硬碟以加速瀏覽。（按下「重新載入」按鈕可以顯示網頁最新的內容。）">
 <!ENTITY cacheCheck.label                "讓 &brandShortName; 管理我的快取大小">
 <!ENTITY cacheCheck.accesskey            "L">
 <!ENTITY diskCacheUpTo.label             "最多使用">

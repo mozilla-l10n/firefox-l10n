@@ -21,7 +21,7 @@
 <!ENTITY acceptForSession.label         "只接受此次連線">
 <!ENTITY acceptForSession.accesskey     "s">
 
-<!ENTITY acceptforNDays.label           "接受 cookie 於">
+<!ENTITY acceptforNDays.label           "接受 Cookie 於">
 <!ENTITY acceptforNDays.accesskey       "f">
 <!ENTITY days.label                     "天">
 
@@ -31,7 +31,7 @@
 <!ENTITY forCurrentSession.accesskey    "e">
 
 <!ENTITY manageCookies.label            "管理 Cookie 與網站">
-<!ENTITY manageCookiesDescription.label "允許您檢視與管理已存的 cookie 和設定各網站是否能存取 cookie。">
+<!ENTITY manageCookiesDescription.label "允許您檢視與管理已存的 Cookie 和設定各網站是否能存取 Cookie。">
 
 <!ENTITY viewCookies.label              "Cookie 管理員">
 <!ENTITY viewCookies.accesskey          "M">

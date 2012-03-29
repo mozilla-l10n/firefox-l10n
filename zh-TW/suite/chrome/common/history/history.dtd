@@ -1,6 +1,6 @@
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY historyWindowTitle.label       "瀏覽記錄">
+<!ENTITY historyWindowTitle.label       "歷史記錄">
 <!ENTITY menuBar.tooltip                "選單列">
 <!ENTITY searchBar.tooltip              "搜尋工具列">
 

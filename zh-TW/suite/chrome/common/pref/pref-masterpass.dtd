@@ -38,7 +38,7 @@
 
 <!ENTITY  pref.masterpass.title                  "主密碼">
 <!ENTITY  managepassword.caption                 "主密碼已過期">
-<!ENTITY  managepassword.text                    "&brandShortName; 會詢問你主密碼:">
+<!ENTITY  managepassword.text                    "&brandShortName; 會詢問您的主控密碼:">
 <!ENTITY  managepassword.askfirsttime            "第一次需要的時候">
 <!ENTITY  managepassword.askfirsttime.accesskey  "T">
 <!ENTITY  managepassword.askeverytime            "每次需要的時候">
@@ -48,11 +48,11 @@
 <!ENTITY  managepassword.timeout.unit            "分鐘或更長">
 
 <!ENTITY  changepassword.caption                 "更改主密碼">
-<!ENTITY  changepassword.text                    "你的主密碼可用來保護重要資料像網頁密碼和憑證等。">
+<!ENTITY  changepassword.text                    "您的主控密碼可用來保護重要資料，諸如網頁密碼和憑證等。">
 <!ENTITY  changepassword.button                  "變更密碼…">
 <!ENTITY  changepassword.accesskey               "C">
 
 <!ENTITY  resetpassword.caption                  "重設主密碼">
-<!ENTITY  resetpassword.text                     "如果你重設主密碼，所有你已存的網頁密碼、表單資料、個人憑證和Private Key都會消失。">
+<!ENTITY  resetpassword.text                     "若您重設主控密碼，您所有的網頁與電子郵件密碼、表單資料、個人憑證以及私鑰都將會消失。">
 <!ENTITY  resetpassword.button                   "重設密碼">
 <!ENTITY  resetpassword.accesskey                "R">

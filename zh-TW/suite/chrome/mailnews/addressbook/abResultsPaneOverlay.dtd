@@ -68,7 +68,7 @@
 <!ENTITY sortDescending.accesskey              "D">
 
 <!-- context menu -->
-<!ENTITY composeEmail.label                    "發送Email到">
+<!ENTITY composeEmail.label                    "發送 Email 到">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY copyAddress.label                     "複製電子郵件地址">
 <!ENTITY copyAddress.accesskey                 "a">

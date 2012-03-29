@@ -75,7 +75,7 @@
 <!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "純文字">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "未知的">
+<!ENTITY Unknown.label                  "未知">
 <!ENTITY ScreenName.label               "網路代號:">
 <!ENTITY ScreenName.accesskey           "S">
 

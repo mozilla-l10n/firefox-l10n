@@ -497,7 +497,7 @@
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
 <!ENTITY contextForward.label "轉寄">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "以附件(Attachment)方式轉寄">
+<!ENTITY contextForwardAsAttachment.label "以附件方式轉寄">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextArchive.label "備存">
 <!ENTITY contextArchive.accesskey "A">
