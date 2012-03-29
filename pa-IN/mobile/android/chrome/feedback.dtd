@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "ਚੰਗਾ">
 <!ENTITY feedback.feedback.bad          "ਮਾੜਾ">
 
-<!ENTITY feedback.information.title     "ਹੋਰ ਜਾਣਕਾਰੀ">
-<!ENTITY feedback.about.title           "ਇਹ ਬੀਟਾ ਬਾਰੇ">
-<!ENTITY feedback.about.button          "ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
-
 <!ENTITY feedback.tools.title           "ਟੂਲ">
+<!ENTITY feedback.allowTelemetry.title  "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
 <!ENTITY feedback.forceCompat.title     "ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਲਈ ਮਜਬੂਰ">
 <!ENTITY feedback.errorConsole.title    "ਗਲਤੀ ਕਨਸੋਲ ਯੋਗ">
