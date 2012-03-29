@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Osnove aplikacije">
 <!ENTITY aboutSupport.appBasicsName "Naziv">
 <!ENTITY aboutSupport.appBasicsVersion "Inačica">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktorij profila">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Direktorij profila">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogućeni priključci">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build konfiguracija">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
@@ -38,6 +44,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementalni GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Inačice biblioteke">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Povijest instalacija">
 <!ENTITY aboutSupport.updateHistoryTitle "Povijest ažuriranja">
