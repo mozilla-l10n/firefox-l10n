@@ -93,7 +93,7 @@
 <!ENTITY folderSharingTab.label                  "分享">
 <!ENTITY privileges.button.label                 "權限…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "你有下列的 權限:">
+<!ENTITY permissionsDesc.label                   "您有下列權限:">
 <!ENTITY folderType.label                        "資料夾型態:">
 
 <!ENTITY folderQuotaTab.label                    "配額">

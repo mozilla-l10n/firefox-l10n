@@ -17,7 +17,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "已完成的研究">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "研究結果">
 <!ENTITY testpilot.studiesWindow.settings.label         "設定">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "正在載入中，請稍候…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "載入中，請稍候…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: 原始資料">

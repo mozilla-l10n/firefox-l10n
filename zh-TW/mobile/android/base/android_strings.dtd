@@ -119,3 +119,8 @@
 <!ENTITY abouthome_no_top_sites "目前還無法列出您最常瀏覽的網站。請點下標題列開始瀏覽。">
 <!ENTITY abouthome_about_sync "設定 Firefox Sync 以自您其他裝置上存取書籤、瀏覽紀錄與分頁標籤。">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "選擇檔案">
+<!ENTITY filepicker_audio_title "選擇或錄製一段聲音檔">
+<!ENTITY filepicker_image_title "選擇或拍攝一張照片">
+<!ENTITY filepicker_video_title "選擇或錄製一段影片">
