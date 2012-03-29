@@ -58,3 +58,8 @@
 <!ENTITY forwardCmd.accesskey "P">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
+<!ENTITY copyLinkCmd.accesskey "V">
+<!ENTITY copyEmailCmd.label "Kopjo Adresën Email">
+<!ENTITY copyEmailCmd.accesskey "E">

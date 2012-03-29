@@ -17,6 +17,12 @@
 <!ENTITY aboutSupport.appBasicsName "Emër">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsProfileDir "Drejtoria e Profilit">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dosje Profili">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Shtojca të Aktivizuara">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Formësim Montimi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agjent Përdoruesi">
@@ -38,6 +44,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Vlerë">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikë">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC Rritës">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versione Librarie">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historik Instalimesh">
 <!ENTITY aboutSupport.updateHistoryTitle "Historik Përditësimesh">
