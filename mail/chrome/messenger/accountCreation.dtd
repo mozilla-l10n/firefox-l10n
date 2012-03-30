@@ -10,8 +10,8 @@
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasinal">
 <!ENTITY password.text                   "Opcional, só se usará para validar o nome de usuario">
-<!ENTITY rememberPassword.label          "Recordar contrasinal">
-<!ENTITY rememberPassword.accesskey      "c">
+<!ENTITY rememberPassword.label          "Lembrar contrasinal">
+<!ENTITY rememberPassword.accesskey      "m">
 
 <!ENTITY imapLong.label                  "IMAP (cartafoles remotos)">
 <!ENTITY pop3Long.label                  "POP3 (manter o correo no seu computador)">
@@ -62,11 +62,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Entendo os riscos.">
 <!ENTITY confirmWarning.accesskey        "t">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Crear conta">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY doneAccount.label               "Feito">
+<!ENTITY doneAccount.accesskey           "i">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
