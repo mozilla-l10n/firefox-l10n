@@ -1,5 +1,3 @@
-<!ENTITY accountTitle.label "Configuración de cuenta">
-
 <!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
 <!ENTITY biffStart.accesskey "B">
 <!ENTITY biffEnd.label "minutos">
