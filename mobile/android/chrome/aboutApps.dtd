@@ -1,0 +1,4 @@
+<!ENTITY aboutApps.title "Ваши приложения">
+<!ENTITY aboutApps.noApps.pre "Ни одного веб-приложения не установлено. Вы можете установить их из ">
+<!ENTITY aboutApps.noApps.middle "магазина приложений">
+<!ENTITY aboutApps.noApps.post ".">
