@@ -12,3 +12,4 @@
 <!ENTITY abouthome.addonsButton.label "Дополнения">
 <!ENTITY abouthome.appsButton.label "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Загрузки">
+<!ENTITY abouthome.syncButton.label "Синхронизация">
