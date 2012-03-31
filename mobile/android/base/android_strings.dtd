@@ -1,4 +1,6 @@
-<!ENTITY  splash_firstrun "&brandShortName; ਸੈਟ ਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ\u2026">
+
+<!ENTITY  splash_settingup "ਤੁਹਾਡਾ &brandShortName; ਸੈਟਅੱਪ">
+<!ENTITY  splash_bookmarks_history "ਅਸੀਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਨੂੰ ਅੱਪਡੇਟ ਕਰ ਰਹੇ ਹਾਂ, ਜਿਸ ਨੂੰ ਇੱਕ ਮਿੰਟ ਜਾਂ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ।">
 <!ENTITY  no_space_to_start_error "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
