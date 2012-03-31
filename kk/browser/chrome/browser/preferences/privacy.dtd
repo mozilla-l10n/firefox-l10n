@@ -63,10 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Әрқашан жекелік шолу режимін қолдану">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ж">
 
-<!ENTITY  rememberDownload.label     "Шолу тарихымды сақтау">
-<!ENTITY  rememberDownload.accesskey "о">
-<!ENTITY  rememberHistory.label      "Жүктемелер тарихын сақтау">
-<!ENTITY  rememberHistory.accesskey  "к">
+<!ENTITY  rememberHistory2.label      "Менің шолу тарихымды және жүктемелер тарихын сақтау">
+<!ENTITY  rememberHistory2.accesskey  "М">
 
 <!ENTITY  rememberSearchForm.label       "Іздеу және формалар тарих сақтау">
 <!ENTITY  rememberSearchForm.accesskey   "з">
