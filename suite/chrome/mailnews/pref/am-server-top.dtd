@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Stockage des messages">
 <!ENTITY securitySettings.label "Paramètres de sécurité">
 <!ENTITY serverSettings.label "Paramètres du serveur">
 <!ENTITY serverType.label "Type de serveur :">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Toujours demander une authentification lors de la connexion à ce serveur">
 <!ENTITY alwaysAuthenticate.accesskey "j">
 <!ENTITY newsrcFilePath.label "Fichier newsrc :">
-<!ENTITY localPath.label "Répertoire local :">
+<!ENTITY newsrcPicker.label "Sélectionner un fichier newsrc">
 <!ENTITY abbreviate.label "Afficher les noms des groupes de discussion dans le panneau des dossiers de courrier comme :">
 <!ENTITY abbreviateOn.label "des noms complets (par exemple « mozilla.dev.apps.seamonkey »)">
 <!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.seamonkey »)">
 <!ENTITY advancedButton.label "Avancé…">
 <!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY localPath.label "Répertoire local :">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Parcourir…">
 <!ENTITY browseFolder.accesskey "P">
-<!ENTITY newsrcPicker.label "Sélectionner un fichier newsrc">
 <!ENTITY browseNewsrc.label "Parcourir…">
 <!ENTITY browseNewsrc.accesskey "a">
+
+<!ENTITY accountTitle.label "Paramètres du compte">
+<!ENTITY accountSettingsDesc.label  "Ce compte est spécial, aucune identité ne lui est associée.">

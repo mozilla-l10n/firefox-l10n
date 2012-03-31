@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Paramètres du compte">
-<!ENTITY accountSettingsDesc.label "Ce compte est spécial, aucune identité ne lui est associée.">
 <!ENTITY accountName.label "Nom du compte :">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Stockage des messages">
-<!ENTITY emptyTrashOnExit.label "Vider la corbeille en quittant">
-<!ENTITY emptyTrashOnExit.accesskey "V">
-<!ENTITY localPath.label "Répertoire local :">
-<!ENTITY localFolderPicker.label "Sélection du répertoire local">
-<!ENTITY browseFolder.label "Parcourir…">
-<!ENTITY browseFolder.accesskey "P">
