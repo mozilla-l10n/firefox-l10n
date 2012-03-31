@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Skriv in ett namn">
-<!ENTITY webapps.permissions "Tillåt åtkomst:">
-<!ENTITY webapps.perm.geolocation "Platsberoende webbsurfning">
-<!ENTITY webapps.perm.offline "Lagring av nedkopplad data">
-<!ENTITY webapps.perm.notifications "Skrivbordsnotifieringar">
-<!ENTITY webapps.perm.requestedHint "(begärd)">
-<!ENTITY webapps.add-homescreen "Lägg till på startsidan">
