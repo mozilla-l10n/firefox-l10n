@@ -21,7 +21,7 @@
 <!ENTITY authMethod.label "Метод аутентификации:">
 <!ENTITY authMethod.accesskey "е">
 <!ENTITY leaveOnServer.label "Оставлять копии сообщений на сервере">
-<!ENTITY leaveOnServer.accesskey "т">
+<!ENTITY leaveOnServer.accesskey "с">
 <!ENTITY headersOnly.label "Загружать только заголовки сообщений">
 <!ENTITY headersOnly.accesskey "г">
 <!ENTITY deleteByAgeFromServer.label "Не более">
@@ -34,7 +34,7 @@
 <!ENTITY username.label "Ваше регистрационное имя">
 <!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
 <!ENTITY modelMoveToTrash.label "Переместить его в папку:">
-<!ENTITY modelMoveToTrash.accesskey "м">
+<!ENTITY modelMoveToTrash.accesskey "и">
 <!ENTITY modelMarkDeleted.label "Отметить его как удалённое">
 <!ENTITY modelMarkDeleted.accesskey "т">
 <!ENTITY modelDeleteImmediately.label "Удалить его сразу">

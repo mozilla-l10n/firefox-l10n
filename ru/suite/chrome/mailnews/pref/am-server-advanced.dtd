@@ -1,29 +1,29 @@
 <!ENTITY serverAdvanced.label "Дополнительные параметры учётной записи">
 <!ENTITY serverDirectory.label "Каталог IMAP-сервера:">
-<!ENTITY serverDirectory.accesskey "К">
+<!ENTITY serverDirectory.accesskey "а">
 <!ENTITY usingSubscription.label "Показывать только папки на которые вы подписаны">
-<!ENTITY usingSubscription.accesskey "П">
+<!ENTITY usingSubscription.accesskey "о">
 <!ENTITY dualUseFolders.label "Сервер поддерживает папки, содержащие вложенные папки и сообщения">
 <!ENTITY dualUseFolders.accesskey "е">
 <!ENTITY useIdle.label "Использовать команду IDLE, если её поддерживает сервер">
-<!ENTITY useIdle.accesskey "И">
+<!ENTITY useIdle.accesskey "п">
 <!ENTITY maximumConnectionsNumber.label "Максимальное число кэшируемых соединений">
-<!ENTITY maximumConnectionsNumber.accesskey "М">
+<!ENTITY maximumConnectionsNumber.accesskey "к">
 <!ENTITY namespaceDesc.label "Эти настройки определяют пространства имён на вашем IMAP-сервере">
 <!ENTITY personalNamespace.label "Личное пространство имён:">
-<!ENTITY personalNamespace.accesskey "Л">
+<!ENTITY personalNamespace.accesskey "ч">
 <!ENTITY publicNamespace.label "Общее (совместно используемое):">
-<!ENTITY publicNamespace.accesskey "О">
+<!ENTITY publicNamespace.accesskey "б">
 <!ENTITY otherUsersNamespace.label "Другие пользователи:">
-<!ENTITY otherUsersNamespace.accesskey "Д">
+<!ENTITY otherUsersNamespace.accesskey "у">
 <!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
-<!ENTITY overrideNamespaces.accesskey "Р">
+<!ENTITY overrideNamespaces.accesskey "з">
 <!ENTITY pop3Desc.label "При получении почты c данного сервера POP3, помещать её в следующую папку:">
 <!ENTITY globalInbox.label "Общая папка «Входящие» (находится в «Локальных папках»)">
-<!ENTITY globalInbox.accesskey "О">
+<!ENTITY globalInbox.accesskey "я">
 <!ENTITY accountDirectory.label "«Входящие» для данной учётной записи">
 <!ENTITY accountDirectory.accesskey "д">
 <!ENTITY deferToServer.label "«Входящие» для другой учётной записи">
-<!ENTITY deferToServer.accesskey "д">
+<!ENTITY deferToServer.accesskey "х">
 <!ENTITY deferGetNewMail.label "Загружать почту с данного сервера">
-<!ENTITY deferGetNewMail.accesskey "З">
+<!ENTITY deferGetNewMail.accesskey "ж">
