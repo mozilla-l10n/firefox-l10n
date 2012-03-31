@@ -24,3 +24,4 @@
 <!ENTITY abouthome.addonsButton.label    "Aldonaĵoj">
 <!ENTITY abouthome.appsButton.label      "Foirejo">
 <!ENTITY abouthome.downloadsButton.label "Elŝutoj">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
