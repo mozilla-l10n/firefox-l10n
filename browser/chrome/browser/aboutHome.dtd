@@ -24,3 +24,4 @@
 <!ENTITY abouthome.addonsButton.label    "Tillägg">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Filhämtningar">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
