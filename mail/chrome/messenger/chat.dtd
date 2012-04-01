@@ -6,7 +6,7 @@
 <!ENTITY chat.noConv.description       "Gebruik de contactlijst in het linkerpaneel om een conversatie te starten.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; heeft momenteel geen vorige conversaties opgeslagen voor dit contact.">
 <!ENTITY chat.noAccount.title             "U heeft nog geen chataccount ingesteld.">
-<!ENTITY chat.noAccount.description       "Laat &brandShortName; u door het proces van het instellen van uw chataccount leiden.">
+<!ENTITY chat.noAccount.description       "Laat &brandShortName; u door het instelproces van uw chataccount leiden.">
 <!ENTITY chat.accountWizard.button       "Beginnen">
 <!ENTITY chat.noConnectedAccount.title             "Uw chataccounts zijn niet verbonden.">
 <!ENTITY chat.noConnectedAccount.description       "U kunt verbinden via de 'Chatstatus' venster:">

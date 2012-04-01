@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Algemeen">
 <!ENTITY paneDisplay.title        "Weergave">
 <!ENTITY paneComposition.title    "Opstellen">
+<!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Bijlagen">
 <!ENTITY paneSecurity.title       "Beveiliging">
 <!ENTITY paneAdvanced.title       "Geavanceerd">
