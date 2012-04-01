@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Tämän päivän tapahtumat">
 <!ENTITY calendar.events.filter.future.label "Kaikki tulevat tapahtumat">
 <!ENTITY calendar.events.filter.current.label "Valittuna oleva päivä">
-<!ENTITY calender.events.filter.currentview.label "Tapahtumat nykyisessä näkymässä">
+<!ENTITY calendar.events.filter.currentview.label "Tapahtumat nykyisessä näkymässä">
 <!ENTITY calendar.events.filter.next7Days.label "Seuraavien 7 päivän tapahtumat">
 <!ENTITY calendar.events.filter.next14Days.label "Seuraavien 14 päivän tapahtumat">
 <!ENTITY calendar.events.filter.next31Days.label "Seuraavien 31 päivän tapahtumat">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "p">
 <!ENTITY calendar.context.postpone.1week.label      "Yksi viikko">
 <!ENTITY calendar.context.postpone.1week.accesskey  "v">
+
+<!ENTITY calendar.copylink.label       "Kopioi linkin osoite">
+<!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
