@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Impostazioni account">
-<!ENTITY accountSettingsDesc.label "Il seguente è un account speciale. Non ci sono identità associate ad esso.">
 <!ENTITY accountName.label "Nome account :">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Memorizzazione messaggio">
-<!ENTITY emptyTrashOnExit.label "Svuota il Cestino prima di uscire">
-<!ENTITY emptyTrashOnExit.accesskey "S">
-<!ENTITY localPath.label "Cartella locale:">
-<!ENTITY localFolderPicker.label "Selezione cartella locale">
-<!ENTITY browseFolder.label "Scegli cartella…">
-<!ENTITY browseFolder.accesskey "r">
