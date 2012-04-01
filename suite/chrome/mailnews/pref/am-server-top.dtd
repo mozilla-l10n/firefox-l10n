@@ -1,3 +1,4 @@
+<!ENTITY messageStorage.label "Archiviazione messaggi">
 <!ENTITY securitySettings.label "Impostazioni sicurezza">
 <!ENTITY serverSettings.label "Impostazioni server">
 <!ENTITY serverType.label "Tipo di server:">
@@ -50,16 +51,18 @@
 <!ENTITY alwaysAuthenticate.label "Chiedi sempre l'autenticazione quando ci si connette a questo server">
 <!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "File newsrc:">
-<!ENTITY localPath.label "Cartella locale:">
+<!ENTITY newsrcPicker.label "Selezionare file newsrc">
 <!ENTITY abbreviate.label "Visualizza i nomi dei gruppi di discussione nel pannello cartelle come:">
 <!ENTITY abbreviateOn.label "Nomi completi (Ad esempio, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomi abbreviati (Ad esempio, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY serverDefaultCharset.label "Codifica caratteri predefinita:">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY localPath.label "Cartella locale:">
 <!ENTITY localFolderPicker.label "Selezione cartella locale">
 <!ENTITY browseFolder.label "Scegli cartella…">
 <!ENTITY browseFolder.accesskey "r">
-<!ENTITY newsrcPicker.label "Selezionare file newsrc">
 <!ENTITY browseNewsrc.label "Seleziona…">
 <!ENTITY browseNewsrc.accesskey "z">
+<!ENTITY accountTitle.label "Impostazioni account">
+<!ENTITY accountSettingsDesc.label "Questo è un account speciale. Non ci sono identità associate.">
