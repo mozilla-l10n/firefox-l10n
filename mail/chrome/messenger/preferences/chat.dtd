@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Nuair a thòisicheas &brandShortName;:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Cum na cunntasan cabadich agam far loidhne">
+<!ENTITY  startupConnectAuto.label    "Dèan ceangal ris na cunntasan cabadaich agam gu fèin-obrachail">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Nochd dhan luchd-aithne agam gu bheil mi 'nam thàmh an dèidh">
+<!ENTITY  reportIdleAfter.accesskey     "N">
+<!ENTITY  idleTime                      "mionaid(ean) 's mi gun dad a dhèanamh">
+
+<!ENTITY  andSetStatusToAway.label      "agus cuir an teachdaireachd a leanas ris a' chomharra "Air falbh":">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
+
+<!ENTITY  sendTyping.label              "Nochd ann an còmhradh ma bhios cuideigin a' sgrìobhadh rud">
+<!ENTITY  sendTyping.accesskey          "c">

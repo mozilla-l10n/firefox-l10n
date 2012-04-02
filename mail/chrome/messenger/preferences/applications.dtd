@@ -17,3 +17,19 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Tagh…">
 <!ENTITY chooseFolderMac.accesskey    "T">
+
+
+<!ENTITY attachments.incoming.label   "A-steach">
+<!ENTITY attachments.outgoing.label   "A-mach">
+
+<!ENTITY addCloudFileAccount.label        "Cuir ris">
+<!ENTITY addCloudFileAccount.accesskey    "C">
+<!ENTITY addCloudFileAccount.description  "Cuir seirbheis stòrais Filelink ùr ris">
+<!ENTITY removeCloudFileAccount.label     "Thoir air falbh">
+<!ENTITY removeCloudFileAccount.accesskey "T">
+<!ENTITY authRequired.description         "Tha feum air ùghdarras uat mus faic thu roghainnean na seirbheise stòrais seo.">
+<!ENTITY authRequired.button.label        "Thoir ùghdarras">
+<!ENTITY authRequired.button.accesskey    "h">
+
+<!ENTITY enableCloudFileAccountOffer.label "Mol co-roinneadh airson faidhlichean a tha nas motha na">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
