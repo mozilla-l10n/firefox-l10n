@@ -28,7 +28,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "שרת">
-<!ENTITY serverType.main.label      "שרת &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "ברירת מחדל: שרת &syncBrand.fullName.label; של Mozilla">
 <!ENTITY serverType.custom2.label   "השתמש בשרת מותאם אישית…">
 <!ENTITY signIn.account2.label      "חשבון">
 <!ENTITY signIn.account2.accesskey  "ח">

@@ -58,50 +58,6 @@
 <!ENTITY editMenu.label               "עריכה">
 <!ENTITY editMenu.accesskey           "ע">
 
-<!ENTITY undoCmd.label                "ביטול פעולה אחרונה">
-<!ENTITY undoCmd.key                  "ב">
-<!ENTITY undoCmd.accesskey            "ב">
-
-<!ENTITY redoCmd.label                "ביצוע חוזר">
-<!ENTITY redoCmd.key                  "ב">
-<!ENTITY redoCmd.accesskey            "ב">
-
-<!ENTITY cutCmd.label                 "גזירה">
-<!ENTITY cutCmd.key                   "ג">
-<!ENTITY cutCmd.accesskey             "ג">
-
-<!ENTITY copyCmd.label                "העתקה">
-<!ENTITY copyCmd.key                  "ה">
-<!ENTITY copyCmd.accesskey            "ה">
-
-<!ENTITY pasteCmd.label               "הדבקה">
-<!ENTITY pasteCmd.key                 "ה">
-<!ENTITY pasteCmd.accesskey           "ה">
-
-<!ENTITY selectAllCmd.label           "בחר הכול">
-<!ENTITY selectAllCmd.key             "ב">
-<!ENTITY selectAllCmd.accesskey       "ב">
-
-<!ENTITY findCmd.label                "מצא…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "מ">
-
-<!ENTITY findAgainCmd.label           "חיפוש חוזר…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "ח">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "קפיצה לשורה…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "ק">
-
 <!ENTITY run.label                    "הרצה">
 <!ENTITY run.accesskey                "ר">
 <!ENTITY run.key                      "R">
@@ -135,6 +91,18 @@
   -->
 <!ENTITY browserContext.label         "דפדפן">
 <!ENTITY browserContext.accesskey     "ד">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "עזרה">
+<!ENTITY helpMenu.accesskey           "ע">
+<!ENTITY helpMenuWin.label            "עזרה">
+<!ENTITY helpMenuWin.accesskey        "ע">
+
+<!ENTITY documentationLink.label      "עזרה עבור דף טיוטא ב־MDN">
+<!ENTITY documentationLink.accesskey  "ע">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

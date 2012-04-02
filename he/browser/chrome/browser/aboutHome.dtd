@@ -6,17 +6,16 @@
 # elad <el.il@doom.co.il>
 #
 -->
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "דף הפתיחה של &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "חיפוש">
-
-<!ENTITY abouthome.aboutMozilla "אודות Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -27,6 +26,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "קל להתאים את ה־Firefox שלך בדיוק לצרכים שלך. <a>בחר מאלפי תוספות</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "התקנת Sync">
-<!ENTITY abouthome.pairDevice.label  "שייך התקן">
+<!ENTITY abouthome.bookmarksButton.label "סימניות">
+<!ENTITY abouthome.historyButton.label   "היסטוריה">
+<!ENTITY abouthome.settingsButton.label  "הגדרות">
+<!ENTITY abouthome.addonsButton.label    "תוספות">
+<!ENTITY abouthome.appsButton.label      "שוק">
+<!ENTITY abouthome.downloadsButton.label "הורדות">
 

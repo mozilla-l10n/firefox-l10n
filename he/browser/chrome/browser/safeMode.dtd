@@ -51,6 +51,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; מצב בטוח של">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; נסגר באופן לא צפוי במהלך ההפעלה">
+<!ENTITY autoSafeModeDescription.label "אנו מצטערים על אי הנוחות. &brandShortName; הופעל במצב בטוח, שביטל באופן זמני את ההגדרות ההגדרות המותאמות אישית שלך, את ערכות הנושא ואת התוספות.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; פועל כעת במצב בטוח, המנטרל זמנית את ההרחבות, ערכות הנושא, ואת ההגדרות המותאמות אישית שלך.">
 <!ENTITY safeModeDescription2.label   "ביכולתך להגדיר שינוים אלה או חלקם באופן קבוע:">
 

@@ -10,7 +10,7 @@
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
 -->
-<!ENTITY  engineManager.title       "נהל את רשימת מנועי החיפוש">
+<!ENTITY  engineManager.title       "ניהול רשימת מנועי החיפוש">
 <!ENTITY  engineManager.style       "min-width: 35em;">
 <!ENTITY  engineManager.intro       "מנועי החיפוש הבאים מותקנים כעת בדפדפן:">
 
@@ -18,21 +18,21 @@
 <!ENTITY  columnLabel.keyword       "מילת מפתח">
 
 <!-- Buttons -->
-<!ENTITY  up.label                  "הזז מעלה">
+<!ENTITY  up.label                  "הזזה מעלה">
 <!ENTITY  up.accesskey              "ע">
-<!ENTITY  dn.label                  "הזז מטה">
+<!ENTITY  dn.label                  "הזזה מטה">
 <!ENTITY  dn.accesskey              "מ">
-<!ENTITY  remove.label              "הסר">
+<!ENTITY  remove.label              "הסרה">
 <!ENTITY  remove.accesskey          "ה">
-<!ENTITY  edit.label                "ערוך מילת מפתח...">
+<!ENTITY  edit.label                "עריכת מילת מפתח...">
 <!ENTITY  edit.accesskey            "ע">
 
-<!ENTITY  addEngine.label           "השג מנועי חיפוש נוספים...">
+<!ENTITY  addEngine.label           "קבלת מנועי חיפוש נוספים...">
 <!ENTITY  addEngine.accesskey       "מ">
 
-<!ENTITY  enableSuggest.label       "הצג המלצות חיפוש">
+<!ENTITY  enableSuggest.label       "הצגת המלצות חיפוש">
 <!ENTITY  enableSuggest.accesskey   "צ">
 
-<!ENTITY  restoreDefaults.label     "שחזר ברירת מחדל">
+<!ENTITY  restoreDefaults.label     "שחזור ברירת מחדל">
 <!ENTITY  restoreDefaults.accesskey "ש">
 
