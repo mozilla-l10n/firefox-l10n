@@ -9,7 +9,7 @@
 <!ENTITY chat.noAccount.description       "Leig le &brandShortName; do stiùireadh tron phròiseas gu cunntas cabadaich a chur air dòigh dhut.">
 <!ENTITY chat.accountWizard.button       "Toiseach tòiseachaidh">
 <!ENTITY chat.noConnectedAccount.title             "Chan eil na cunntasan cabadaich agad air ceangal.">
-<!ENTITY chat.noConnectedAccount.description       "\\'S urrainn dhut an ceangal on chòmhradh \\"Staid na cabadaich\\":">
+<!ENTITY chat.noConnectedAccount.description       "'S urrainn dhut an ceangal on chòmhradh &quot;Staid na cabadaich&quot;:">
 <!ENTITY chat.showAccountManager.button       "Seall staid na cabadaich">
 
 <!ENTITY chat.participants             "Com-pàirtichean:">
