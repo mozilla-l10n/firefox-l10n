@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "a">
 <!ENTITY newExistingEmailAccountCmd.label "Cunntas puist a tha agad mu thràth…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "u">
+<!ENTITY newIMAccountCmd.label "Cunntas cabadaich…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Fosgail teachdaireachd a chaidh a shàbhaladh…">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Ceanglachain">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Air ais">
 <!ENTITY goBackCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Cabadaich">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Teachdaireachd le rionnag">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Pasgan">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "a">
 <!ENTITY activitymanager.label "Manaidsear gnìomhachd">
 <!ENTITY activitymanager.accesskey "M">
+<!ENTITY imAccountsStatus.label "Staid cabadaich">
+<!ENTITY imAccountsStatus.accesskey "c">
+<!ENTITY imStatus.available          "An làthair">
+<!ENTITY imStatus.unavailable        "Trang">
+<!ENTITY imStatus.offline            "Far loidhne">
+<!ENTITY imStatus.showAccounts       "Seall na cunntasan…">
 <!ENTITY savedFiles.label "Faidhlichean a chaidh a shàbhaladh">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -503,7 +514,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Faidhle">
 <!ENTITY archiveButton.label "Tasg-lann">
 <!ENTITY nextButton.label "Air adhart">
+<!ENTITY nextButtonToolbarItem.label "An ath-theachdaireachd gun leughadh">
+<!ENTITY nextMsgButton.label "Air adhart">
 <!ENTITY previousButton.label "Air ais">
+<!ENTITY previousButtonToolbarItem.label "An teachdaireachd roimhe gun leughadh">
+<!ENTITY previousMsgButton.label "Air ais">
 <!ENTITY backButton1.label "Air ais">
 <!ENTITY goForwardButton1.label "Air adhart">
 <!ENTITY deleteItem.title "Sguab às">
@@ -517,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Truilleis">
 <!ENTITY notJunkButton.label "Post còir">
 <!ENTITY addressBookButton.label "Leabhar nan seòladh">
+<!ENTITY chatButton.label "Cabadaich">
 <!ENTITY glodaSearch.title "Lorg uile-choitcheann">
 <!ENTITY searchItem.title "Lorg luath">
 <!ENTITY mailViewsToolbarItem.title "Tursan a chaidh coimhead air">
@@ -537,7 +553,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Faidhlich an teachdaireachd a thagh thu">
 <!ENTITY archiveButton.tooltip "Cuir na teachdaireachdan a thagh thu san tasg-lann">
 <!ENTITY nextButton.tooltip "Gluais dhan ath-theachdaireachd nach deach a leughadh">
+<!ENTITY nextMsgButton.tooltip "Gluais dhan ath-theachdaireachd">
 <!ENTITY previousButton.tooltip "Gluais dhan teachdaireachd roimhe nach deach a leughadh">
+<!ENTITY previousMsgButton.tooltip "Gluais dhan teachdaireachd roimhe">
 <!ENTITY goForwardButton.tooltip "Aon teachdaireachd air adhart">
 <!ENTITY goBackButton.tooltip "Aon teachdaireachd air ais">
 <!ENTITY deleteButton.tooltip "Sguab às an teachdaireachd no am pasgan a thagh thu">
@@ -548,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Cuir comharra gur e truilleis a tha anns na teachdaireachdan a thagh thu">
 <!ENTITY notJunkButton.tooltip "Cuir comharra gur e post còir a tha anns na teachdaireachdan a thagh thu">
 <!ENTITY addressBookButton.tooltip "Rach do leabhar nan seòladh">
+<!ENTITY chatButton.tooltip "Seall taba na cabadaich">
 <!ENTITY tagButton.tooltip "Cuir taga ris na teachdaireachdan">
 <!ENTITY compactButton.tooltip "Thoir air falbh na teachdaireachdan a chaidh an sguabadh às on phasgan a thagh thu">
 
@@ -789,19 +808,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Lorg anns a h-uile teachdaireachd… #1">
+<!ENTITY search.label.base "Lorg… #1">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Cuir ri leabhar nan seòladh…">
