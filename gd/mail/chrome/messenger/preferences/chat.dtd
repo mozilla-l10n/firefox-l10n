@@ -13,7 +13,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "N">
 <!ENTITY  idleTime                      "mionaid(ean) 's mi gun dad a dhèanamh">
 
-<!ENTITY  andSetStatusToAway.label      "agus cuir an teachdaireachd a leanas ris a' chomharra "Air falbh":">
+<!ENTITY  andSetStatusToAway.label      "agus cuir an teachdaireachd a leanas ris a' chomharra \\"Air falbh\\":">
 <!ENTITY  andSetStatusToAway.accesskey  "A">
 
 <!ENTITY  sendTyping.label              "Nochd ann an còmhradh ma bhios cuideigin a' sgrìobhadh rud">
