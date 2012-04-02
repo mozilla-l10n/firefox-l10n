@@ -14,7 +14,3 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "לשונית חדשה">
 
-<!ENTITY newtab.show "הצגת דף לשונית חדשה">
-<!ENTITY newtab.hide "הסתרת דף לשונית חדשה">
-<!ENTITY newtab.reset "איפוס דף לשונית חדשה">
-

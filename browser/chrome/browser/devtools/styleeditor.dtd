@@ -8,6 +8,7 @@
 # Reviewer(s):
 #
 # Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
@@ -64,3 +65,4 @@
 
 <!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
 <!ENTITY closeCmd.key                  "W">
+

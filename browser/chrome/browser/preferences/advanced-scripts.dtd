@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY advancedJSDialog.title         "הגדרות JavaScript מתקדמות">
-<!ENTITY window.width                   "20em">
+<!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "אפשר לתסריטים לבצע את הפעולות הבאות:">
 
