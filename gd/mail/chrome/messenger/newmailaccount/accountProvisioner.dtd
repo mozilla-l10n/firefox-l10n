@@ -1,5 +1,5 @@
 <!ENTITY window.title "Fàilte gu &brandShortName;">
-<!ENTITY header.label "A bheil thu ag iarraidh seòladh puist-dhealain ùr?">
+<!ENTITY header2.label "A bheil thu ag iarraidh seòladh puist-dhealain ùr?">
 <!ENTITY other.languages "Chan fhaic thu an-seo ach na solaraichean san sgìre agad.  Briog an-seo gus a h-uile solaraiche fhaicinn.">
 <!ENTITY error.line1 "Duilich, cha b' urrainn dhuinn moladh a lorg airson puist-dhealain dhut.">
 <!ENTITY error.line2 "'S urrainn dhut far-ainmean no briathran eile a chur a-steach gus roghainn eile de phost-d fhaicinn">
