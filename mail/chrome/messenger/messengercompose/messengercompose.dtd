@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Faidhl(ichean)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Duilleag-lìn…">
 <!ENTITY attachPageCmd.accesskey "D">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Cuir faidhle/faidhlichean ris…">
 <!ENTITY attachFile.accesskey "f">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Iompaich 'na…">
+<!ENTITY convertCloud.accesskey "I">
+<!ENTITY cancelUpload.label "Sguir dhen luchdadh suas">
+<!ENTITY cancelUpload.accesskey "d">
+<!ENTITY convertRegularAttachment.label "Ceanglachan àbhaisteach">
+<!ENTITY convertRegularAttachment.accesskey "b">
 <!ENTITY attachPage.label "Cuir duilleag-lìn ris…">
 <!ENTITY attachPage.accesskey "C">
 
