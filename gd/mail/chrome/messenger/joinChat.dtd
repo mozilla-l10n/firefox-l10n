@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Rach a chabadaich">
+<!ENTITY name.label                     "Seòmar">
+<!ENTITY optional.label                 "(roghainneil)">
+<!ENTITY account.label                  "Cunntas">
+<!ENTITY autojoin.label                 "Dèan auto-join san t-seòmar chabadaich seo">
+<!ENTITY autojoin.accesskey             "D">
