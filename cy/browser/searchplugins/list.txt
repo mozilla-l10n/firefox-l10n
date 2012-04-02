@@ -1,7 +1,8 @@
-amazondotcom
-bing
-eBay
+amazon-en-GB
+creativecommons
+eBay-en-GB
 google
-twitter
-wikipedia
-yahoo
+palasprint
+termau
+wikipedia-cy
+yahoo-en-GB
