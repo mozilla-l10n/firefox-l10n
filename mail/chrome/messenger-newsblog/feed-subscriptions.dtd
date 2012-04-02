@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Fo-sgrìobhaidhean an inbhir">
 <!ENTITY subscriptionDesc.label "Aire: Cha bhi buaidh ann air artagailean a luchdaich thu a-nuas roimhe ma bheir thu air falbh no ma dh'atharraicheas tu am pasgan airson inbhir.">
-<!ENTITY feedTitle.label "Tiotal:">
-<!ENTITY location.label  "Seòladh:">
 
-<!ENTITY button.addFeed.label       "Cuir ris">
-<!ENTITY button.addFeed.accesskey   "C">
-<!ENTITY button.editFeed.label      "Deasaich">
-<!ENTITY button.editFeed.accesskey  "e">
-<!ENTITY button.removeFeed.label "Thoir air falbh">
+<!ENTITY feedTitle.label             "Tiotal:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "URL in inbhir:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Cuir URL dligheach de dh'inbhir a-steach gus a chur ris">
+
+<!ENTITY feedFolder.label            "Stòir artaigilean ann an:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Seall gearr-chunntas na h-artaigil 's na luchdaich an duilleag-lìn">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY validateText.label          "Sgrudaich an dearbhadh is faigh URL dligheach.">
+
+<!ENTITY button.addFeed.label          "Cuir ris">
+<!ENTITY button.addFeed.accesskey      "C">
+<!ENTITY button.editFeed.label         "Deasaich">
+<!ENTITY button.editFeed.accesskey     "e">
+<!ENTITY button.removeFeed.label       "Thoir air falbh">
 <!ENTITY button.removeFeed.accesskey   "r">
-<!ENTITY button.importOPML.label "Ion-phortaich">
+<!ENTITY button.importOPML.label       "Ion-phortaich">
 <!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Às-phortaich">
+<!ENTITY button.exportOPML.label       "Às-phortaich">
 <!ENTITY button.exportOPML.accesskey   "À">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close.commandKey          "w">
