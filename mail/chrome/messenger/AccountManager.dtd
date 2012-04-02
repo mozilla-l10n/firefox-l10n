@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "a">
 <!ENTITY addMailAccountButton.label "Cuir cunntas puist-dhealain ris…">
 <!ENTITY addMailAccountButton.accesskey "a">
+<!ENTITY addIMAccountButton.label "Cuir cunntas cabadaich ris…">
+<!ENTITY addIMAccountButton.accesskey "u">
 <!ENTITY addOtherAccountButton.label "Cuir cunntas eile ris…">
 <!ENTITY addOtherAccountButton.accesskey "C">
 <!ENTITY setDefaultButton.label "Suidhich e mar an roghainn bhunaiteach">
