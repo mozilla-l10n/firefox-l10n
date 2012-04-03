@@ -40,30 +40,6 @@
 <!ENTITY editMenu.label               "Editar">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Desfacer">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "D">
-
-<!ENTITY redoCmd.label                "Refacer">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "Cortar">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "Copiar">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "Apegar">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "p">
-
-<!ENTITY selectAllCmd.label           "Esbillar too">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "t">
-
 <!ENTITY inspect.label                "Inspeicionar">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
@@ -92,16 +68,8 @@
 <!ENTITY resetContext2.accesskey       "R">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 <!ENTITY webConsoleCmd.commandkey     "k">
-<!ENTITY findCmd.label "Guetar…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "G">
-<!ENTITY findAgainCmd.label "Repetir la gueta…">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "t">
-<!ENTITY findPreviousCmd.key "G">
-<!ENTITY gotoLineCmd.label "Saltar a la llinia…">
-<!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "S">
+
+
 <!ENTITY helpMenu.label "Ayuda">
 <!ENTITY helpMenu.accesskey "y">
 <!ENTITY helpMenuWin.label "Ayuda">
