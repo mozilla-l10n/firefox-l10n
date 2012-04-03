@@ -24,3 +24,4 @@
 <!ENTITY abouthome.addonsButton.label    "Modules">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Téléchargements">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
