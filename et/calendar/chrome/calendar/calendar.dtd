@@ -56,14 +56,14 @@
 <!ENTITY calendar.tomorrow.button.label       "Homme">
 <!ENTITY calendar.soon.button.label           "Varsti">
 
-<!ENTITY calendar.events.filter.all.label "Kõik sündmused">
-<!ENTITY calendar.events.filter.today.label "Tänased sündmused">
-<!ENTITY calendar.events.filter.future.label "Kõik tulevased sündmused">
-<!ENTITY calendar.events.filter.current.label "Valitud päeva sündmused">
-<!ENTITY calender.events.filter.currentview.label "Sündmused aktiivses vaates">
-<!ENTITY calendar.events.filter.next7Days.label "Sündmused lähima 7 päeva jooksul">
-<!ENTITY calendar.events.filter.next14Days.label "Sündmused lähima 14 päeva jooksul">
-<!ENTITY calendar.events.filter.next31Days.label "Sündmused lähima 31 päeva jooksul">
+<!ENTITY calendar.events.filter.all.label               "Kõik sündmused">
+<!ENTITY calendar.events.filter.today.label             "Tänased sündmused">
+<!ENTITY calendar.events.filter.future.label            "Kõik tulevased sündmused">
+<!ENTITY calendar.events.filter.current.label           "Valitud päeva sündmused">
+<!ENTITY calendar.events.filter.currentview.label       "Sündmused aktiivses vaates">
+<!ENTITY calendar.events.filter.next7Days.label         "Sündmused lähima 7 päeva jooksul">
+<!ENTITY calendar.events.filter.next14Days.label        "Sündmused lähima 14 päeva jooksul">
+<!ENTITY calendar.events.filter.next31Days.label        "Sündmused lähima 31 päeva jooksul">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Selle kuu sündmused">
 
 <!ENTITY calendar.unifinder.tree.done.label          "Valmis">
@@ -248,6 +248,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "p">
 <!ENTITY calendar.context.postpone.1week.label      "1 nädal">
 <!ENTITY calendar.context.postpone.1week.accesskey  "n">
+
+<!ENTITY calendar.copylink.label       "Kopeeri lingi asukoht">
+<!ENTITY calendar.copylink.accesskey   "o">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

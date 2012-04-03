@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Näita sündmusi tänaste tegemiste paneelil">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Näita ülesandeid tänaste tegemiste paneelil ja ülesanderežiimis">
 <!ENTITY lightning.calendarproperties.email.label               "E-post:">
 
 <!-- iMIP Bar (meeting support) -->
