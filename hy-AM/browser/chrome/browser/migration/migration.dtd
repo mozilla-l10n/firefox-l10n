@@ -53,7 +53,7 @@
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromFirefox.accesskey    "x">
 <!ENTITY importFromHTMLFile.label       "HTML ֆայլից">
 <!ENTITY importFromHTMLFile.accesskey   "H">
 

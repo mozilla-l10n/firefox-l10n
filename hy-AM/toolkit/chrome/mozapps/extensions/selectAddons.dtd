@@ -39,13 +39,13 @@
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
-<!ENTITY checking.heading            "Checking Your Add-ons">
-<!ENTITY checking.progress.label     "Checking your add-ons for compatibility with this version of &brandShortName;.">
+<!ENTITY checking.heading            "Ստուգվում են հավելումները">
+<!ENTITY checking.progress.label     "Ստուգվում է հավելումների համատեղելիությունը &brandShortName;-ի վերջին տարբերակի հետ։">
 
-<!ENTITY select.heading              "Select Your Add-ons">
+<!ENTITY select.heading              "Ընտրեք Ձեր Հավելումները">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
+<!ENTITY select.description          "Դարձրեք &brandShortName;-ը էլ ավելի արագ՝ պասսիվացնելով չօգտագործվող հավելումները։ Երրորդ կողմի հավելումները կպասսիվացվեն, քանի դեռ Դուք չհաստատեք։">
 <!ENTITY select.keep                 "Keep">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -61,23 +61,23 @@
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
-<!ENTITY confirm.heading             "Select Your Add-ons">
+<!ENTITY confirm.heading             "Ընտրեք Ձեր Հավելումները">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
+<!ENTITY confirm.description         "Դարձրեք &brandShortName;-ը էլ ավելի արագ՝ պասսիվացնելով չօգտագործվող հավելումները։ Երրորդ կողմի հավելումները կպասսիվացվեն, քանի դեռ Դուք չհաստատեք։">
 
-<!ENTITY action.disable.heading      "The following add-ons will be disabled:">
-<!ENTITY action.incompatible.heading "The following add-ons are disabled, but will be enabled as soon as they are compatible:">
-<!ENTITY action.update.heading       "The following add-ons will be updated:">
-<!ENTITY action.enable.heading       "The following add-ons will be enabled:">
+<!ENTITY action.disable.heading      "Հետևյալ հավելումները պասսիվացվել են.">
+<!ENTITY action.incompatible.heading "Հետևյալ հավելումները պասսիվացվել են, կաշխատեն, երբ կլինեն համատեղելի.">
+<!ENTITY action.update.heading       "Հետևյալ հավելումները կթարմացվեն.">
+<!ENTITY action.enable.heading       "Հետևյալ Հավելումները կմիացվեն.">
 
-<!ENTITY update.heading              "Updating Your Add-ons">
-<!ENTITY update.progress.label       "Downloading and installing updates for your selected add-ons.">
+<!ENTITY update.heading              "Հավելումների թարմացում">
+<!ENTITY update.progress.label       "Բեռնվում է և տեղակայվում Ձեր ընտրած Հավելման թարմացումը։">
 
-<!ENTITY errors.heading              "&brandShortName; could not update some of your add-ons.">
-<!ENTITY errors.description          "Installing updates for some of your add-ons failed. &brandShortName; will automatically try to update them again later.">
+<!ENTITY errors.heading              "&brandShortName;-ը չի կարողանում թարմացնել Ձեր հավելումները։">
+<!ENTITY errors.description          "Որոշ հավելումների թարմացումների տեղակայումը ձախողվեց։ &brandShortName;-ը հետո կրկին կփորձի թարմացնել դրանք։">
 
-<!ENTITY footer.label                "You can always change your add-ons by going to the Add-ons Manager.">
+<!ENTITY footer.label                "Հետո կարող եք փոփոխել Ձեր հավելումները՝ Հավելումների Կառավարչից։">
 <!ENTITY cancel.label                "Չեղարկել">
 <!ENTITY back.label                  "Հետ">
 <!ENTITY next.label                  "Հաջորդ">

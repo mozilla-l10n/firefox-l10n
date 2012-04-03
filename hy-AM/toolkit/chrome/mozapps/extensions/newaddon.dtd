@@ -37,14 +37,12 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY title           "Install Add-on">
-<!ENTITY intro           "Another program on your computer would like to modify
-                          &brandShortName; with the following add-on:">
+<!ENTITY title           "Տեղադրել Հավելումը">
+<!ENTITY intro           "Այլ ծրագիր փորձում է փոփոխել &brandShortName;-ի հետևյալ հավելումը.">
 <!ENTITY warning         "Զետեղել միայն այն հավելումները որոնց հեղինակներին ես վստահում եմ:">
 <!ENTITY allow           "Allow this installation">
-<!ENTITY later           "You can always change your mind at any time by going
-                          to the Add-ons Manager.">
+<!ENTITY later           "Կարող եք փոփոխել հետագայում Հավելումների Կառավարչում։">
 <!ENTITY continue        "Շարունակել">
-<!ENTITY restartMessage  "You must restart &brandShortName; to finish installing this add-on.">
+<!ENTITY restartMessage  "Պետք է վերամեկնարկեք &brandShortName;-ը՝ հավելման տեղադրումը ավարտելու համար։">
 <!ENTITY restartButton   "Վերսկսել &brandShortName; -ը">
 <!ENTITY cancelButton    "Չեղարկել">

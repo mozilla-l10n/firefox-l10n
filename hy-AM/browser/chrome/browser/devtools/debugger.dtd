@@ -56,7 +56,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
   -  button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton      "Close">
+<!ENTITY debuggerUI.closeButton      "Փակել">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->

@@ -465,7 +465,7 @@ can reach it easily. -->
 <!ENTITY sendVideoCmd.accesskey       "Ո">
 <!ENTITY sendAudioCmd.label           "Ուղարկել Ձայնագրություն...">
 <!ENTITY sendAudioCmd.accesskey       "Ո">
-<!ENTITY copyLinkCmd.label            "Կրկնել Հղման Հասցեն">
+<!ENTITY copyLinkCmd.label            "Պատճենել հղման հասցեն">
 <!ENTITY copyLinkCmd.accesskey        "Կ">
 <!ENTITY copyImageCmd.label           "Կրկնել Նկարի Հասցեն">
 <!ENTITY copyImageCmd.accesskey       "Կ">
@@ -475,7 +475,7 @@ can reach it easily. -->
 <!ENTITY copyVideoURLCmd.accesskey    "Կ">
 <!ENTITY copyAudioURLCmd.label        "Կրկնօրինակել  Ձայնագրության Հասցեն">
 <!ENTITY copyAudioURLCmd.accesskey    "Կ">
-<!ENTITY copyEmailCmd.label           "Կրկնօրինակել Մեյլի Հասցեն">
+<!ENTITY copyEmailCmd.label           "Պատճենել Էլ. փոստի հասցեն">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Այս շրջանակում">
 <!ENTITY thisFrameMenu.accesskey          "Ա">
@@ -484,7 +484,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Play">
+<!ENTITY mediaPlay.label             "Խաղարկել">
 <!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Ընդմիջել">
 <!ENTITY mediaPause.accesskey        "p">
@@ -498,7 +498,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Show Controls">
+<!ENTITY mediaShowControls.label     "Ցուցադրել ղեկավարիչներին">
 <!ENTITY mediaShowControls.accesskey "Ց">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
 <!ENTITY mediaHideControls.accesskey "Թ">
@@ -651,7 +651,7 @@ activates the Web Developer->Inspect UI's HTML Tree Panel. -->
 
 <!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
 hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "HTML panel">
+<!ENTITY htmlPanel.tooltiptext        "HTML վահանակ">
 
 <!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
 toolbar button -->

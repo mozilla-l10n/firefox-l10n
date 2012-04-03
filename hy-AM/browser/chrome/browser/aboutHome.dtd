@@ -57,9 +57,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Հեշտությոմբ կարող եք հարմարեցնել ձեր Ֆայրֆոքսը այնպես, ինչպես ցանկանում եք:<a>Ընտրեք հազարավոր հավելումներից</a>:">
 
-<!ENTITY abouthome.bookmarksButton.label "Bookmarks">
-<!ENTITY abouthome.historyButton.label   "History">
-<!ENTITY abouthome.settingsButton.label  "Settings">
-<!ENTITY abouthome.addonsButton.label    "Add-ons">
+<!ENTITY abouthome.bookmarksButton.label "Էջանիշներ">
+<!ENTITY abouthome.historyButton.label   "Պատմություն">
+<!ENTITY abouthome.settingsButton.label  "Կարգավորումներ">
+<!ENTITY abouthome.addonsButton.label    "Հավելումներ">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
-<!ENTITY abouthome.downloadsButton.label "Downloads">
+<!ENTITY abouthome.downloadsButton.label "Բեռնումներ">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

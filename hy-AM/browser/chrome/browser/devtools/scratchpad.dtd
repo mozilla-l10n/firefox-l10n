@@ -119,10 +119,10 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<!ENTITY helpMenu.label               "Help">
-<!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "Help">
-<!ENTITY helpMenuWin.accesskey        "H">
+<!ENTITY helpMenu.label               "Օգնություն">
+<!ENTITY helpMenu.accesskey           "Օ">
+<!ENTITY helpMenuWin.label            "Օգնություն">
+<!ENTITY helpMenuWin.accesskey        "Օ">
 
 <!ENTITY documentationLink.label      "Scratchpad Help on MDN">
 <!ENTITY documentationLink.accesskey  "D">
