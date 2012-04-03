@@ -45,6 +45,6 @@
 <!ENTITY calendar.invitations.list.recurrentevent.text                  "Korduv sündmus">
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Kogu päeva kestev sündmus">
 <!ENTITY calendar.invitations.list.location.text                        "Asukoht: ">
-<!ENTITY calendar.invitations.list.organizer.text                       "Organiseerija: ">
+<!ENTITY calendar.invitations.list.organizer.text                       "Korraldaja: ">
 <!ENTITY calendar.invitations.list.attendee.text                        "Osaleja: ">
 <!ENTITY calendar.invitations.list.none.text                            "Puudub"> 

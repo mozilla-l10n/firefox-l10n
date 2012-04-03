@@ -136,9 +136,9 @@
 
 <!ENTITY  event.menu.options.label                            "Valikud">
 <!ENTITY  event.menu.options.accesskey                        "V">
-<!ENTITY  event.menu.options.attachments.label                "Kaasa veebileht…">
+<!ENTITY  event.menu.options.attachments.label                "Veebilehe kaasamine…">
 <!ENTITY  event.menu.options.attachments.accesskey            "b">
-<!ENTITY  event.menu.options.attendees.label                  "Kutsu osalejad…">
+<!ENTITY  event.menu.options.attendees.label                  "Osalejate kutsumine…">
 <!ENTITY  event.menu.options.attendees.accesskey              "o">
 <!ENTITY  event.menu.options.spellcheck.label                 "Kontrolli õigekirja…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "k">
@@ -146,8 +146,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "j">
 <!ENTITY  event.menu.options.link.label                       "Lisa viide…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Ajavöönd">
-<!ENTITY  event.menu.options.timezone.accesskey               "n">
+<!ENTITY  event.menu.options.timezone2.label                  "Ajavööndite kuvamine">
+<!ENTITY  event.menu.options.timezone2.accesskey              "A">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteet">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Määramata">
@@ -352,7 +352,7 @@
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Osalejate kutsumine">
-<!ENTITY event.organizer.label                  "Organiseerija">
+<!ENTITY event.organizer.label                  "Korraldaja">
 <!ENTITY event.freebusy.suggest.slot            "Paku aeg:">
 <!ENTITY event.freebusy.next.slot               "Järgmine aeg " >
 <!ENTITY event.freebusy.previous.slot           " Eelmine aeg" >
@@ -369,6 +369,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ajavööndi määramine">
+<!ENTITY event.timezone.custom.label     "Veel ajavööndeid…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Üldine">
@@ -380,7 +381,7 @@
 <!ENTITY read.only.repeat.label          "Kordumine:">
 <!ENTITY read.only.location.label        "Asukoht:">
 <!ENTITY read.only.category.label        "Kategooria:">
-<!ENTITY read.only.organizer.label       "Organiseerija:">
+<!ENTITY read.only.organizer.label       "Korraldaja:">
 <!ENTITY read.only.reply.label           "Vasta:">
 <!ENTITY read.only.accept.label          "Osalen">
 <!ENTITY read.only.decline.label         "Ei osale">
