@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Ohjelman perustiedot">
 <!ENTITY aboutSupport.appBasicsName "Nimi">
 <!ENTITY aboutSupport.appBasicsVersion "Versio">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Profiilikansio">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profiilikansio">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Käytössä olevat liitännäiset">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Koostamisasetukset">
 <!ENTITY aboutSupport.appBasicsUserAgent "Selaintunniste">
@@ -24,7 +30,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Muistin käyttö">
 
 <!ENTITY aboutSupport.showDir.label "Avaa kansio">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -38,6 +43,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Arvo">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafiikka">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Jatkuva roskienkeräys">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Kirjastojen versiot">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Asennushistoria">
 <!ENTITY aboutSupport.updateHistoryTitle "Päivityshistoria">
