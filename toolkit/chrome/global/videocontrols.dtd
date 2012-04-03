@@ -41,7 +41,7 @@
 <!ENTITY playButton.pauseLabel "Սպասել">
 <!ENTITY muteButton.muteLabel "Սսկել">
 <!ENTITY muteButton.unmuteLabel "Ձայն">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Ամբողջ էկրանով">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
 
 <!ENTITY stats.media "Media">

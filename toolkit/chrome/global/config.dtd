@@ -82,8 +82,8 @@
 <!ENTITY aboutWarningButton.label "Խոստանում եմ, կլինեմ զգույշ!">
 <!ENTITY aboutWarningCheckbox.label "Ցույց տալ այս զգուշացումը հաջորդ անգամ">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Փնտրել.">
+<!ENTITY searchPrefs.accesskey "Փ">
 <!ENTITY focusSearch.key "r">
 
 <!-- Columns -->

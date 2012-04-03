@@ -114,7 +114,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "L">
-<!ENTITY copyEmailCmd.label "Copy Email Address">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyLinkCmd.label "Պատճենել հղման հասցեն">
+<!ENTITY copyLinkCmd.accesskey "Պ">
+<!ENTITY copyEmailCmd.label "Պատճենել Էլ. փոստի հասցեն">
+<!ENTITY copyEmailCmd.accesskey "Պ">
