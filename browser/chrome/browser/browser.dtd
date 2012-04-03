@@ -155,13 +155,15 @@
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectPanelTitle.label "HTML">
-<!ENTITY inspectButton.label "Inspeicionar">
-<!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectCloseButton.tooltiptext "Zarrar Inspector">
 <!ENTITY inspectStyleButton.label     "Estilu">
 <!ENTITY inspectStyleButton.accesskey "S">
-
+<!ENTITY inspectorHTMLCopyInner.label "Copiar HTML internu">
+<!ENTITY inspectorHTMLCopyInner.accesskey "">
+<!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML esternu">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "">
+<!ENTITY inspectorHTMLDelete.label "Desaniciar nodu">
+<!ENTITY inspectorHTMLDelete.accesskey "n">
 <!ENTITY inspectContextMenu.label "Inspeicionar Elementu">
 <!ENTITY inspectContextMenu.accesskey "n">
 <!ENTITY getMoreDevtoolsCmd.label "Obtener más Ferramientes">
@@ -437,3 +439,6 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Zarrar la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key        "/">
+<!ENTITY htmlPanel.label "HTML">
+<!ENTITY htmlPanel.tooltiptext "Panel HTML">
+<!ENTITY htmlPanel.accesskey "">
