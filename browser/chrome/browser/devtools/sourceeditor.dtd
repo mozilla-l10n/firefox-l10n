@@ -11,6 +11,6 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "Spring naar regel…">
-<!ENTITY gotoLineCmd.key           "S">
-<!ENTITY gotoLineCmd.accesskey     "J">
+<!ENTITY gotoLineCmd.key           "J">
+<!ENTITY gotoLineCmd.accesskey     "S">
 
