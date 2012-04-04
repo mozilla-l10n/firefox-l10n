@@ -28,9 +28,9 @@
 <!ENTITY confirm.description         "&brandShortName; bãdze chòdzëc chùtczi żlë wëłączisz niebrëkòwóné dodôwczi. Dodôwczi bùtnowëch firmów òstaną automatno wëłączóné, chòba że je zaklëkniész pòniżi.">
 
 <!ENTITY action.disable.heading      "Nôslédné dodôwczi òstaną wëłączóné:">
-<!ENTITY action.incompatible.heading "Nôslédné dodôwczi òstaną nazôd włączóné pò tim jak bãdą kòmpatibilné:">
+<!ENTITY action.incompatible.heading "Nôslédné dodôwczi òstaną nazôd włączoné pò tim jak bãdą kòmpatibilné:">
 <!ENTITY action.update.heading       "Nôslédné dodôwczi òstaną zaktualnioné:">
-<!ENTITY action.enable.heading       "Nôslédné dodôwczi òstaną włączóné:">
+<!ENTITY action.enable.heading       "Nôslédné dodôwczi òstaną włączoné:">
 
 <!ENTITY update.heading              "Zaktualnianié dodôwków">
 <!ENTITY update.progress.label       "Zladënk aktualizacji dlô wëbrónëch dodôwków.">

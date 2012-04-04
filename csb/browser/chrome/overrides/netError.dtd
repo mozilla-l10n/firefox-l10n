@@ -25,7 +25,7 @@
 <!ENTITY deniedPortAccess.title "Pòrt je zastrzeżóny z przëczënë bezpiekù">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Ni szło nalezc serwera">
+<!ENTITY dnsNotFound.title "Nie szło nalezc serwera">
 <!ENTITY dnsNotFound.longDesc "<p>Przezérnik ni mógł nalezc serwera dlô pòdónégò adresu.</p><ul><li>Nót je ùgwësnic sã, że wprowôdzony adres je dobri (np. <q><strong>www</strong>.mozilla.org</q>, a ni <q><strong>ww</strong>.mozilla.org</q>)</li><li>Czë abë na gwës strona  dali egzystëje? Czas ji registracji mógł ju ùńc.</li><li>Ni mòże òbzerac jinszich stronów? Nót je sprôwdzëc swòje sparłãczenié z sécą jakno ë nastôwë serwerów DNS.</li><li>Czë kòmpùtr brëkòwnika abò séc je zabezpieczonô przez ògniową zapòrã abò serwer proxy? Jich lëchô kònfigùracjô mòże doprowôdzac do problemów z przezéranim jinternetowëch stronów.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nie jidze nalezc lopka">

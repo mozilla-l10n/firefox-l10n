@@ -61,7 +61,7 @@
 <!ENTITY limitCacheSizeAfter.label       "MB môla">
 <!ENTITY clearCacheNow.label             "Wëczëszczë terô">
 <!ENTITY clearCacheNow.accesskey         "c">
-<!ENTITY overrideSmartCacheSize.label    "Nôdpiszë automaticzné sprôwianié pòdrãczną pamiãcą">
+<!ENTITY overrideSmartCacheSize.label    "Nadpiszë automaticzné sprôwianié pòdrãczną pamiãcą">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY clearOfflineAppCacheNow.label   "Wëczëszczë terô">

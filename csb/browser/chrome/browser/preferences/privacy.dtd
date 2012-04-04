@@ -18,13 +18,13 @@
 
 <!ENTITY  history.label                 "Historiô">
 
-<!ENTITY  locationBar.label             "Lëstew adresë">
+<!ENTITY  locationBar.label             "Lëstew adresu">
 
 <!ENTITY  rememberHistory2.label      "Pamiãtôj historiã zladënków">
 <!ENTITY  rememberHistory2.accesskey  "z">
 
 
-<!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresë òpierôj na:">
+<!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresu òpierôj na:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "historii ë załóżkach">

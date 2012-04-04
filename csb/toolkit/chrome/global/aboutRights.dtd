@@ -76,10 +76,10 @@
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pòłóżenié-wiédné przezéranié: ">
 <!ENTITY rights.locationawarebrowsing-b "je wiedno sugerowónô. Wëdowiédzô ò pòłóżenim nigdë nie je séloné bez pòzwòleniô. Jeżlë jednak chcesz czësto wëłączëc ną òptacjã, trzim sã pòniższëch kroków:">
-<!ENTITY rights.locationawarebrowsing-term1a "W lëstwie adresë URL, wpiszë ">
+<!ENTITY rights.locationawarebrowsing-term1a "W lëstwie adresu URL, wpiszë ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "ôrt geo.włączony">
-<!ENTITY rights.locationawarebrowsing-term3 "Dwaklëkni na geo.włączóné nastôwë">
+<!ENTITY rights.locationawarebrowsing-term3 "Dwaklëkni na geo.włączoné nastôwë">
 <!ENTITY rights.locationawarebrowsing-term4 "Pòłóżenié-wiedné przezéranié je terô włączonô">
 
 <!-- intro paragraph for unbranded builds -->

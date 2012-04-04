@@ -9,10 +9,10 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Zladënk">
 
-<!ENTITY cmd.pause.label                  "Pùza">
+<!ENTITY cmd.pause.label                  "Paùza">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Biéj dali">
-<!ENTITY cmd.resume.accesskey             "B">
+<!ENTITY cmd.resume.label                 "Znowi">
+<!ENTITY cmd.resume.accesskey             "Z">
 <!ENTITY cmd.cancel.label                 "Òprzestóń">
 <!ENTITY cmd.cancel.accesskey             "p">
 <!ENTITY cmd.show.label                   "Òtemkni zamëkający w se katalog">

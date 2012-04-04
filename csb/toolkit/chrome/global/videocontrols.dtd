@@ -21,7 +21,7 @@
 <!ENTITY error.aborted "Scygаnié filmù òstało przerwóné.">
 <!ENTITY error.srcNotSupported "Fòrmat wideò abò ôrt MIME nie je òbsłëgiwóny.">
 <!ENTITY error.noSource2 "Ni mógł nalezc widełów w òbsłëgiwónym fòrmace ë ôrce MIME.">
-<!ENTITY error.decode "Wideò nie mòże bëc skòpiowóné bò lopk je felerny.">
+<!ENTITY error.decode "Wideò ni mòże bëc skòpiowóné bò lopk je felerny.">
 <!ENTITY error.generic "Òdgriwanié filmù òstało przerwóné dlô nieżdóny felë.">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Fùlny ekran.">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Wińdzë z fùlnégò ekranu.">

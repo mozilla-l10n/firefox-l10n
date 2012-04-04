@@ -36,3 +36,4 @@
 <!ENTITY abouthome.appsButton.label      "Króm">
 <!ENTITY abouthome.downloadsButton.label "Zladënczi">
 <!ENTITY abouthome.settingsButton.label  "Nastôwë">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
