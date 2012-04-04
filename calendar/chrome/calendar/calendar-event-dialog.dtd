@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Koppeling toevoegen…">
 <!ENTITY  event.menu.options.link.accesskey                   "K">
-<!ENTITY  event.menu.options.timezone.label                   "Tijdzone">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                  "Tijdzones tonen">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Niet gespecificeerd">
@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Volgend vrij tijdstip " >
 <!ENTITY event.freebusy.previous.slot           " Vorig vrij tijdstip" >
 <!ENTITY event.freebusy.zoom                    "Zoomen:">
-<!ENTITY event.freebusy.plus                    "Volgend uur" >
-<!ENTITY event.freebusy.minus                   "Vorig uur" >
 <!ENTITY event.freebusy.legend.free             "Beschikbaar" >
 <!ENTITY event.freebusy.legend.busy             "Bezet" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Voorlopig bezet" >
@@ -374,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Specificeer de tijdzone">
+<!ENTITY event.timezone.custom.label     "Meer tijdzones…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemeen">
