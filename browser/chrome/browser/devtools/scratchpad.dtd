@@ -37,30 +37,6 @@
 <!ENTITY editMenu.label               "Rediģēt">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Atsaukt">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
-
-<!ENTITY redoCmd.label                "Pādarīt">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "Izgriezt">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "g">
-
-<!ENTITY copyCmd.label                "Kopēt">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Ielīmēt">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "l">
-
-<!ENTITY selectAllCmd.label           "Iezīmēt visu">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "v">
-
 <!ENTITY inspect.label                "Inspicēt">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
@@ -97,21 +73,6 @@
 <!ENTITY findCmd.key                  "M">
 <!ENTITY findCmd.accesskey            "M">
 
-<!ENTITY findAgainCmd.label           "Meklēt vēlreiz…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "v">
-<!ENTITY findAgainCmd.accesskey       "v">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "t">
-
-<!ENTITY gotoLineCmd.label            "Pāriet uz rindiņu…">
-<!ENTITY gotoLineCmd.key              "P">
-<!ENTITY gotoLineCmd.accesskey        "P">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
