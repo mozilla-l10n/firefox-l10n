@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Datoteku(e)…">
 <!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Web stranicu…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Priloži datoteku(e)…">
 <!ENTITY attachFile.accesskey "l">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Pretvori u…">
+<!ENTITY convertCloud.accesskey "e">
+<!ENTITY cancelUpload.label "Otkaži prijenos">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Normalni privitak">
+<!ENTITY convertRegularAttachment.accesskey "m">
 <!ENTITY attachPage.label "Priloži web stranicu…">
 <!ENTITY attachPage.accesskey "w">
 
