@@ -40,3 +40,31 @@
 <!ENTITY lightning.toolbar.task.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Synchroniseren">
+<!ENTITY lightning.toolbar.delete.label "Verwijderen">
+<!ENTITY lightning.toolbar.edit.label "Bewerken">
+<!ENTITY lightning.toolbar.gototoday.label "Naar vandaag gaan">
+<!ENTITY lightning.toolbar.print.label "Afdrukken">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "E-mail">
+<!ENTITY lightning.toolbar.mail.accesskey     "m">
+<!ENTITY lightning.toolbar.calendar.label     "Agenda">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Wisselen naar het agendatabblad">
+<!ENTITY lightning.toolbar.calendar.accesskey "A">
+<!ENTITY lightning.toolbar.task.label         "Taken">
+<!ENTITY lightning.toolbar.task.tooltip       "Wisselen naar het takentabblad">
+<!ENTITY lightning.toolbar.task.accesskey     "k">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Gebeurtenis">
+<!ENTITY lightning.toolbar.newtask.label      "Taak">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Dag">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Week">
+<!ENTITY lightning.toolbar.week.accesskey            "k">
+<!ENTITY lightning.toolbar.multiweek.label           "Meerdere weken">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "e">
+<!ENTITY lightning.toolbar.month.label               "Maand">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
