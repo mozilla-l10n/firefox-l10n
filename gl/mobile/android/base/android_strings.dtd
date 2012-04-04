@@ -1,5 +1,5 @@
 
-<!ENTITY  splash_firstrun "Configurando &brandShortName;">
+<!ENTITY  splash_settingup "Configurando &brandShortName;">
 <!ENTITY  splash_bookmarks_history "Estamos actualizando os seus marcadores e o historial, isto pode levarlle un minuto ou dous.">
 
 <!ENTITY  no_space_to_start_error "Non hai suficiente espazo para iniciar &brandShortName;.">
