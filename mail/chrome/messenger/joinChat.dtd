@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Započmi razgovor">
+<!ENTITY name.label                     "Soba">
+<!ENTITY optional.label                 "(po izboru)">
+<!ENTITY account.label                  "Račun">
+<!ENTITY autojoin.label                 "Automatski se spoji u ovu sobu">
+<!ENTITY autojoin.accesskey             "A">
