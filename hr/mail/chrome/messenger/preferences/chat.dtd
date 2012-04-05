@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Kada se &brandShortName; pokrene:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Ostavi moj račun za razgovore odjavljenim">
+<!ENTITY  startupConnectAuto.label    "Automatski spoji moje računa za razgovor">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and idleTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Obavjesti moje kontakte da sam neaktivan nakon">
+<!ENTITY  reportIdleAfter.accesskey     "i">
+<!ENTITY  idleTime                      "minuta neaktivnosti">
+
+<!ENTITY  andSetStatusToAway.label      "i postavi moj status na Odsutan sa ovom porukom:">
+<!ENTITY  andSetStatusToAway.accesskey  "a">
+
+<!ENTITY  sendTyping.label              "Šalji obavjest o tipkanju u razgovorima">
+<!ENTITY  sendTyping.accesskey          "t">
