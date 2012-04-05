@@ -69,11 +69,6 @@
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 
-<!ENTITY findCmd.label                "Meklēt…">
-<!ENTITY findCmd.key                  "M">
-<!ENTITY findCmd.accesskey            "M">
-
-
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
