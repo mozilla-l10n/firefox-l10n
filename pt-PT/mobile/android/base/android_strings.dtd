@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "A configurar o &brandShortName;\u2026">
+<!ENTITY  splash_settingup "A configurar o &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Estamos a atualizar os seus marcadores e histórico, o que pode demorar alguns minutos.">
 
 <!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
@@ -119,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Ainda não tem sítios top. Toque na barra de título para iniciar a navegação.">
 <!ENTITY abouthome_about_sync "Configurar o Firefox Sync para aceder a marcadores, histórico e separadores de outros dispositivos">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Escolha um ficheiro">
+<!ENTITY filepicker_audio_title "Escolher ou gravar um som">
+<!ENTITY filepicker_image_title "Escolher ou tirar uma foto">
+<!ENTITY filepicker_video_title "Escolher ou gravar um vídeo">
