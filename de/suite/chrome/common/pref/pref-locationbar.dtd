@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "Nur an Wortgrenzen">
 <!ENTITY autoCompleteMatchStart                "Nur am Beginn von Adresse oder Titel">
 
+<!ENTITY formatting.label                      "Formatierung">
+<!ENTITY domainFormatting.label                "Die effektive Domain für Websites und FTP-Server hervorheben">
+<!ENTITY domainFormatting.accesskey            "D">
+
 <!ENTITY searchEngine.label                    "Internet-Suchmaschine">
 <!ENTITY showSearchEngine.label                "Standard-Suchmaschine anzeigen">
 <!ENTITY showSearchEngine.accesskey            "S">

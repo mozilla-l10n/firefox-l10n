@@ -41,10 +41,10 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Client-Zertifikat-Auswahl">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl3                        "SSL Version 3 aktivieren">
-<!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls                         "TLS aktivieren">
-<!ENTITY enable.tls.accesskey               "T">
+<!ENTITY enable.ssl30.label                 "SSL 3.0 aktivieren">
+<!ENTITY enable.ssl30.accesskey             "3">
+<!ENTITY enable.tls10.label                 "TLS 1.0 aktivieren">
+<!ENTITY enable.tls10.accesskey             "T">
 
 <!ENTITY warn.description                   "&brandShortName; kann Sie über den Sicherheitsstatus von Webseiten, die Sie ansehen, informieren. Anzeigen einer Warnung und Frage um Erlaubnis aktivieren vor:">
 <!ENTITY warn.enteringsecure                "Laden einer Seite, die Verschlüsselung unterstützt">
