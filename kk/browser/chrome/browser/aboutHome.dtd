@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; іске қосылу парағы">
 
 <!ENTITY abouthome.searchEngineButton.label "Іздеу">
-
-<!ENTITY abouthome.aboutMozilla "Mozilla туралы">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox-ты өзіңізге лайықты етіп баптауға болады. <a>Мыңдаған кеңейтулер арасынан таңдаңыз</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Sync баптау">
-<!ENTITY abouthome.pairDevice.label  "Құрылғыны жұптау">
+<!ENTITY abouthome.bookmarksButton.label "Бетбелгілер">
+<!ENTITY abouthome.historyButton.label   "Тарихы">
+<!ENTITY abouthome.settingsButton.label  "Баптаулар">
+<!ENTITY abouthome.addonsButton.label    "Қосымшалар">
+<!ENTITY abouthome.appsButton.label      "Базар">
+<!ENTITY abouthome.downloadsButton.label "Жүктемелер">
