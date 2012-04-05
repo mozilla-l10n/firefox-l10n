@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Pretplate kanala">
-<!ENTITY subscriptionDesc.label "Napomena: uklanjanje ili promjena direktorija kanala neće utjecati na već preuzete članke.">
-<!ENTITY feedTitle.label "Naslov:">
-<!ENTITY location.label  "Lokacija:">
+<!ENTITY feedSubscriptions.label     "Pretplate kanala">
+<!ENTITY subscriptionDesc.label      "Napomena: uklanjanje ili promjena direktorija kanala neće utjecati na već preuzete članke.">
 
-<!ENTITY button.addFeed.label       "Dodaj">
-<!ENTITY button.addFeed.accesskey   "a">
-<!ENTITY button.editFeed.label      "Uredi">
-<!ENTITY button.editFeed.accesskey  "e">
-<!ENTITY button.removeFeed.label "Ukloni">
-<!ENTITY button.removeFeed.accesskey   "U">
-<!ENTITY button.importOPML.label "Uvezi">
-<!ENTITY button.importOPML.accesskey   "i">
-<!ENTITY button.exportOPML.label "Izvezi">
-<!ENTITY button.exportOPML.accesskey   "z">
+<!ENTITY feedTitle.label             "Naslov:">
+<!ENTITY feedTitle.accesskey         "N">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "URL kanala:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Unesite ispravnu web adresu kanala za dodati">
+
+<!ENTITY feedFolder.label            "Spremi članke u:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Prikaži kratki pregled članka umjesto učitavanja web stranice">
+<!ENTITY quickMode.accesskey         "r">
+
+<!ENTITY validateText.label          "Provjeri ispravnost i dohvati ispravan url.">
+
+<!ENTITY button.addFeed.label        "Dodaj">
+<!ENTITY button.addFeed.accesskey    "a">
+<!ENTITY button.editFeed.label       "Uredi">
+<!ENTITY button.editFeed.accesskey   "e">
+<!ENTITY button.removeFeed.label     "Ukloni">
+<!ENTITY button.removeFeed.accesskey "U">
+<!ENTITY button.importOPML.label     "Uvezi">
+<!ENTITY button.importOPML.accesskey "i">
+<!ENTITY button.exportOPML.label     "Izvezi">
+<!ENTITY button.exportOPML.accesskey "z">
+
+<!ENTITY cmd.close.commandKey        "w">
