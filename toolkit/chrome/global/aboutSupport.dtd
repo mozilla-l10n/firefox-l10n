@@ -47,6 +47,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Өспелі GC">
 
+<!ENTITY aboutSupport.libraryVersionsTitle "Жинақтар нұсқалары">
+
 <!ENTITY aboutSupport.installationHistoryTitle "Орнатулар тарихы">
 <!ENTITY aboutSupport.updateHistoryTitle "Тарихты жаңарту">
 
