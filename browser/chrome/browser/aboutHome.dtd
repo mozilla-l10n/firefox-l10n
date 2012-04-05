@@ -24,3 +24,4 @@
 <!ENTITY abouthome.addonsButton.label    "Extras">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Transferências">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
