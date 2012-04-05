@@ -33,6 +33,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Rādīt ar Finder">
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profila mape">
 
+<!ENTITY aboutSupport.libraryVersionsTitle "Bibliotēkas versijas">
+
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Svarīgie modificētie iestatījumi">
 <!ENTITY aboutSupport.modifiedPrefsName "Nosaukums">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vērtība">
