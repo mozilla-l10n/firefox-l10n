@@ -75,6 +75,8 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "u">
 
 <!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Gebeurtenissen tonen in venster Vandaag">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Taken tonen in venster Vandaag en takenmodus">
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->

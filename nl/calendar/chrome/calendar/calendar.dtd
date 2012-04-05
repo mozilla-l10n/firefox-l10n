@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Gebeurtenissen van vandaag">
 <!ENTITY calendar.events.filter.future.label "Alle komende gebeurtenissen">
 <!ENTITY calendar.events.filter.current.label "Momenteel geselecteerde dag">
-<!ENTITY calendar.events.filter.currentview.label "Gebeurtenissen in huidige overzicht">
+<!ENTITY calender.events.filter.currentview.label "Gebeurtenissen in huidige overzicht">
 <!ENTITY calendar.events.filter.next7Days.label "Gebeurtenissen in de komende 7 dagen">
 <!ENTITY calendar.events.filter.next14Days.label "Gebeurtenissen in de komende 14 dagen">
 <!ENTITY calendar.events.filter.next31Days.label "Gebeurtenissen in de komende 31 dagen">
@@ -252,9 +252,6 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
 <!ENTITY calendar.context.postpone.1week.label      "1 week">
 <!ENTITY calendar.context.postpone.1week.accesskey  "w">
-
-<!ENTITY calendar.copylink.label       "Koppelingslocatie kopiëren">
-<!ENTITY calendar.copylink.accesskey   "k">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

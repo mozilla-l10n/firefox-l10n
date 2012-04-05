@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Koppeling toevoegen…">
 <!ENTITY  event.menu.options.link.accesskey                   "K">
-<!ENTITY  event.menu.options.timezone2.label                  "Tijdzones tonen">
-<!ENTITY  event.menu.options.timezone2.accesskey              "z">
+<!ENTITY  event.menu.options.timezone.label                   "Tijdzone">
+<!ENTITY  event.menu.options.timezone.accesskey               "z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Niet gespecificeerd">
