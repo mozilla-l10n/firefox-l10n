@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Жаңа бет">
-
-<!ENTITY newtab.show "Жаңа бет парағын көрсету">
-<!ENTITY newtab.hide "Жаңа бет парағын сөндіру">
-<!ENTITY newtab.reset "Жаңа бет парағын тастау">

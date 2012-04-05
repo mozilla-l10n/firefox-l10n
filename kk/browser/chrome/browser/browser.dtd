@@ -213,10 +213,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Бақылау">
-<!ENTITY inspectButton.accesskey        "Б">
 <!ENTITY inspectCloseButton.tooltiptext "Бақылаушыны жабу">
+
+<!ENTITY inspectorHTMLCopyInner.label       "р">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "р">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Сыртқы HTML көшіру">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "С">
+
+<!ENTITY inspectorHTMLDelete.label          "Ноданы өшіру">
+<!ENTITY inspectorHTMLDelete.accesskey      "Н">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -274,7 +280,7 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.label               "Соңғы тарихты өшіру…">
 <!ENTITY clearRecentHistory.accesskey           "о">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Жекелік шолу режимін бастау">
 <!ENTITY privateBrowsingCmd.start.accesskey     "Ж">
 <!ENTITY privateBrowsingCmd.stop.label          "Жекелік шолу режимін аяқтау">
@@ -599,3 +605,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Кеңейтулер панелін жабу">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML панель">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
