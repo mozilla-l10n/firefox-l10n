@@ -9,5 +9,5 @@
 <!ENTITY resetProfile.dialog.button.label "Lähtesta &brandShortName;">
 
 <!ENTITY resetProfile.title               "Lähtesta &brandShortName; algsesse seisu">
-<!ENTITY resetProfile.description         "Kui oled kogemas tõsiseid probleeme, mida sa ei suuda lahendada, siis alusta puhtalt lehelt säilitades ainult vajalikud andmed.">
+<!ENTITY resetProfile.description         "Kui sind tabavad tõsised probleemid, mida sa ei suuda lahendada, alusta puhtalt lehelt, säilitades ainult vajalikud andmed.">
 <!ENTITY resetProfile.button.label        "Lähtesta &brandShortName;">
