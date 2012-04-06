@@ -24,3 +24,4 @@
 <!ENTITY abouthome.addonsButton.label    "Tuilleadain">
 <!ENTITY abouthome.appsButton.label      "A' mhargaid">
 <!ENTITY abouthome.downloadsButton.label "Luchdaidhean a-nuas">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
