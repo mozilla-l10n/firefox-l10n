@@ -36,8 +36,11 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName;i turvaline režiim">
+<!ENTITY safeModeDialog.title         "&brandShortName;i ohutu režiim">
 <!ENTITY window.width                 "37em">
+
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; sulgus käivitumisel ootamatult">
+<!ENTITY autoSafeModeDescription.label "Palume juhtunu pärast siiralt vabandust. &brandShortName; töötab nüüd ohutus režiimisis, mis ajutiselt keelas sinu kohandatud sätted, teemad ja laiendused.">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; töötab turvalises režiimis, mis keelab ajutiselt kõik kohandatud sätted, teemad ja laiendused.">
 <!ENTITY safeModeDescription2.label   "Sa võid muuta kõik või mõned järgnevad sätted püsivaks:">

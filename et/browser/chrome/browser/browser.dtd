@@ -186,8 +186,8 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey               "V">
 <!ENTITY errorConsoleCmd.commandkey              "j">
 
-<!ENTITY webConsoleCmd.label                     "Veebikonsool">
-<!ENTITY webConsoleCmd.accesskey                 "k">
+<!ENTITY webConsoleCmd.label                     "Web Console">
+<!ENTITY webConsoleCmd.accesskey                 "W">
 <!ENTITY webConsoleCmd.commandkey                "k">
 
 <!ENTITY inspectMenu.label                       "Inspekteeri">
@@ -207,15 +207,21 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label                        "Töötuba">
-<!ENTITY scratchpad.accesskey                    "u">
+<!ENTITY scratchpad.label                        "Scratchpad">
+<!ENTITY scratchpad.accesskey                    "S">
 <!ENTITY scratchpad.keycode                      "VK_F4">
 <!ENTITY scratchpad.keytext                      "F4">
 
-<!ENTITY inspectPanelTitle.label                 "HTML">
-<!ENTITY inspectButton.label                     "Inspekteeri">
-<!ENTITY inspectButton.accesskey                 "I">
 <!ENTITY inspectCloseButton.tooltiptext          "Sulge inspekteerija">
+
+<!ENTITY inspectorHTMLCopyInner.label            "Kopeeri sisemine HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey        "s">
+
+<!ENTITY inspectorHTMLCopyOuter.label            "Kopeeri välimine HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey        "v">
+
+<!ENTITY inspectorHTMLDelete.label               "Kustuta sõlm">
+<!ENTITY inspectorHTMLDelete.accesskey           "u">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -228,8 +234,8 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
-<!ENTITY styleeditor.label                       "Stiiliredaktor">
-<!ENTITY styleeditor.accesskey                   "r">
+<!ENTITY styleeditor.label                       "Style Editor">
+<!ENTITY styleeditor.accesskey                   "y">
 <!ENTITY styleeditor.keycode                     "VK_F7">
 <!ENTITY styleeditor.keytext                     "F7">
 
@@ -601,3 +607,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip             "Sulge lisade riba">
 <!ENTITY toggleAddonBarCmd.key                   "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label                         "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext                   "HTMLi paneel">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey                     "H">

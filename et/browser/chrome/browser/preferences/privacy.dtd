@@ -63,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label        "Alati kasutatakse privaatse veebilehitsemise režiimi">
 <!ENTITY  privateBrowsingPermanent2.accesskey    "p">
 
-<!ENTITY  rememberHistory.label                  "Lehitsemise ajalugu säilitatakse">
-<!ENTITY  rememberHistory.accesskey              "L">
-
-<!ENTITY  rememberDownload.label                 "Allalaadimiste ajalugu säilitatakse">
-<!ENTITY  rememberDownload.accesskey             "d">
+<!ENTITY  rememberHistory2.label                 "Lehitsemise ja allalaadimiste ajalugu säilitatakse">
+<!ENTITY  rememberHistory2.accesskey             "L">
 
 <!ENTITY  rememberSearchForm.label               "Vormide ja otsingu ajalugu säilitatakse">
 <!ENTITY  rememberSearchForm.accesskey           "V">

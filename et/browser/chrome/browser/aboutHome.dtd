@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle                     "&brandFullName;i avaleht">
 
 <!ENTITY abouthome.searchEngineButton.label      "Otsi">
-
-<!ENTITY abouthome.aboutMozilla                  "Mozillast">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1            "Firefoxi endale meelepäraseks kujundamine on lihtne. <a>Selleks leidub tuhandeid lisasid</a>.">
 
-<!ENTITY abouthome.syncSetup.label               "Seadista sünkroniseerimine">
-<!ENTITY abouthome.pairDevice.label              "Lisa seade">
+<!ENTITY abouthome.bookmarksButton.label         "Järjehoidjad">
+<!ENTITY abouthome.historyButton.label           "Ajalugu">
+<!ENTITY abouthome.settingsButton.label          "Sätted">
+<!ENTITY abouthome.addonsButton.label            "Lisad">
+<!ENTITY abouthome.appsButton.label              "Marketplace">
+<!ENTITY abouthome.downloadsButton.label         "Allalaadimised">
+<!ENTITY abouthome.syncButton.label              "&syncBrand.shortName.label;">
