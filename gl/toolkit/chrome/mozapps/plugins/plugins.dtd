@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ten que reiniciar para que funcionen os engadidos.">
 
 <!ENTITY missingPlugin                                       "Precísase un engadido para visualizar este contido.">
-<!ENTITY clickToPlayPlugin                                   "Pulse aquí para activar o engadido.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Pulse aquí para activar o engadido.">
+<!ENTITY clickToPlayPlugins                                  "Prema aquí para activar os engadidos.">
 <!ENTITY disabledPlugin                                      "Este engadido está desactivado.">
 <!ENTITY blockedPlugin.label                                 "Bloqueouse este engadido por protección.">
 
