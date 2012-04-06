@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Account-Einstellungen">
-<!ENTITY accountSettingsDesc.label "Der folgende ist ein spezieller Account.  Es gibt keine Identitäten, die damit verbunden sind.">
 <!ENTITY accountName.label "Account-Name:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY messageStorage.label "Nachrichtenspeicher">
-<!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
-<!ENTITY emptyTrashOnExit.accesskey "P">
-<!ENTITY localPath.label "Lokaler Ordner:">
-<!ENTITY localFolderPicker.label "Lokalen Ordner wählen">
-<!ENTITY browseFolder.label "Durchsuchen…">
-<!ENTITY browseFolder.accesskey "D">
