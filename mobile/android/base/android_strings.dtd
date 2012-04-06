@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Asennetaan &brandShortName;ia\u2026">
+<!ENTITY  splash_settingup "Asennetaan &brandShortName;ia">
+<!ENTITY  splash_bookmarks_history "Päivitetään kirjanmerkkejä ja sivuhistoriaa. Tämä voi kestää reilun minuutin.">
 
 <!ENTITY  no_space_to_start_error "Laitteella oleva tila ei riitä &brandShortName;in käynnistymiseen.">
 <!ENTITY  error_loading_file "Tapahtui virhe ladattaessa &brandShortName;in käynnistämiseen tarvittavia tiedostoja">
@@ -27,9 +28,13 @@
 
 <!ENTITY awesomebar_default_text "Kirjoita hakutermi tai osoite">
 
+<!ENTITY remote_tabs "Synkronoidut välilehdet">
+<!ENTITY remote_tabs_show_all "Näytä kaikki välilehdet">
+
 <!ENTITY bookmark "Kirjanmerkki">
 <!ENTITY bookmark_added "Lisättiin kirjanmerkki">
 <!ENTITY bookmark_removed "Poistettiin kirjanmerkki">
+<!ENTITY bookmark_updated "Päivitettiin kirjanmerkki">
 
 <!ENTITY history_today_section "Tänään">
 <!ENTITY history_yesterday_section "Eilen">
@@ -79,12 +84,19 @@
 <!ENTITY char_encoding "Merkistökoodaus">
 
 <!ENTITY share "Jaa">
+<!ENTITY share_title "Jaa palvelulla">
 <!ENTITY save_as_pdf "Tallenna PDF-muodossa">
 
 <!ENTITY contextmenu_open_new_tab "Avaa uuteen välilehteen">
 <!ENTITY contextmenu_remove_bookmark "Poista">
 <!ENTITY contextmenu_add_to_launcher "Lisää kotinäkymään">
 <!ENTITY contextmenu_share "Jaa">
+<!ENTITY contextmenu_edit_bookmark "Muokkaa">
+
+<!ENTITY bookmark_edit_title "Muokkaa kirjanmerkkiä">
+<!ENTITY bookmark_edit_name "Nimi">
+<!ENTITY bookmark_edit_location "Osoite">
+<!ENTITY bookmark_edit_keyword "Avainsana">
 
 <!ENTITY site_settings_title        "Poista sivuston asetukset">
 <!ENTITY site_settings_cancel       "Peruuta">
@@ -108,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Useimmin avattuja sivustoja ei ole vielä kertynyt. Aloita selaaminen painamalla otsikkopalkkia.">
 <!ENTITY abouthome_about_sync "Ota Firefox Sync-palvelu käyttöön päästäksesi käsiksi muiden laitteidesi kirjanmerkkeihin, sivuhistoriaan ja välilehtiin">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Valitse tiedosto">
+<!ENTITY filepicker_audio_title "Valitse tai äänitä ääni">
+<!ENTITY filepicker_image_title "Valitse tai ota kuva">
+<!ENTITY filepicker_video_title "Valitse tai nauhoita video">
