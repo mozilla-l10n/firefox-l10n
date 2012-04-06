@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; güvenli kip">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; başlatılırken beklenmeyen şekilde kapandı">
+<!ENTITY autoSafeModeDescription.label "Bu aksaklıktan dolayı özür dileriz. &brandShortName; şu anda güvenli kipte çalışıyor. Bu kipte kişisel ayarlarınız, temalarınız ve eklentileriniz geçici olarak devre dışıdır.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; şimdi güvenli kipte çalıştırıldı. Bu kipte ayarlarınız, temalarınız ve eklentileriniz devre dışı durumundadır.">
 <!ENTITY safeModeDescription2.label   "Aşağıdaki değişiklikleri yapabilirsiniz:">
 
