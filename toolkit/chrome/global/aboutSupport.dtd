@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle           "Rakendusest">
 <!ENTITY aboutSupport.appBasicsName            "Nimi">
 <!ENTITY aboutSupport.appBasicsVersion         "Versioon">
+
 <!ENTITY aboutSupport.appBasicsProfileDir      "Profiili kaust">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profiili kaust">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins  "Lubatud pluginad">
 <!ENTITY aboutSupport.appBasicsBuildConfig     "Kompileerimise konfiguratsioon">
 <!ENTITY aboutSupport.appBasicsUserAgent       "Identifikaator">
@@ -24,7 +30,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse       "Mälukasutus">
 
 <!ENTITY aboutSupport.showDir.label            "Ava kaust">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -38,6 +43,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue       "Väärtus">
 
 <!ENTITY aboutSupport.graphicsTitle            "Graafika">
+
+<!ENTITY aboutSupport.jsTitle                  "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC          "Inkrementaalne GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle     "Teekide versioonid">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Paigalduste ajalugu">
 <!ENTITY aboutSupport.updateHistoryTitle       "Uuenduste ajalugu">
