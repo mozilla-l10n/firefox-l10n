@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Kirjanmerkeistä">
 <!ENTITY  locbar.nothing.label          "Ei mistään">
 
-
 <!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
 <!ENTITY  acceptCookies.accesskey       "v">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Selaa aina yksityinen selaus -tilassa">
 <!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
-<!ENTITY  rememberHistory.label      "Säilytä selaushistoriani">
-<!ENTITY  rememberHistory.accesskey  "e">
-
-<!ENTITY  rememberDownload.label         "Säilytä tieto ladatuista tiedostoista">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Säilytä selaushistoria ja tieto latauksista">
+<!ENTITY  rememberHistory2.accesskey  "e">
 
 <!ENTITY  rememberSearchForm.label       "Säilytä lomakkeiden ja hakupalkin tiedot">
 <!ENTITY  rememberSearchForm.accesskey   "o">

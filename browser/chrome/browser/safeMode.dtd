@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName;in vikasietotila">
 <!ENTITY window.width                 "38em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; yllättäen sulkeutui käynnistettäessä">
+<!ENTITY autoSafeModeDescription.label "Olemme pahoillamme ongelmista. &brandShortName; on käynnistetty vikasietotilaan, jossa käyttäjän asetukset, laajennukset ja teemat ovat väliaikaiset poissa käytöstä.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; on käynnistetty vikasietotilaan, jossa käyttäjän asetukset, laajennukset ja teemat ovat väliaikaiset poissa käytöstä.">
 <!ENTITY safeModeDescription2.label   "Voit tehdä joistain tai kaikista alla olevista muutoksista pysyviä:">
 

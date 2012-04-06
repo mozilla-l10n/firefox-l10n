@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Palvelin">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; -palvelin">
+<!ENTITY serverType.default.label      "Oletus: Mozilla &syncBrand.fullName.label; -palvelin">
 <!ENTITY serverType.custom2.label   "Käytä omaa palvelinta…">
 <!ENTITY signIn.account2.label      "Tili">
 <!ENTITY signIn.account2.accesskey  "T">
