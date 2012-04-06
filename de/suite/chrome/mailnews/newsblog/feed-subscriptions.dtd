@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Die Artikel-Zusammenfassung anzeigen, anstatt die Webseite zu laden">
 <!ENTITY quickMode.accesskey         "Z">
 
+<!ENTITY locationValidate.label      "Validieren">
 <!ENTITY validateText.label          "Validierung überprüfen und eine gültige URL beziehen.">
 
 <!ENTITY button.addFeed.label        "Hinzufügen">

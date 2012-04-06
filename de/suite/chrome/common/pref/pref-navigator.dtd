@@ -15,7 +15,7 @@
 <!ENTITY restoreSessionRadio.label      "Vorherige Sitzung wiederherstellen">
 <!ENTITY restoreSessionRadio.accesskey  "V">
 
-<!ENTITY restoreSessionIntro.label      "Bein Wiederherstellen von Sitzungen und Fenstern">
+<!ENTITY restoreSessionIntro.label      "Beim Wiederherstellen von Sitzungen und Fenstern">
 <!ENTITY restoreImmediately.label       "Alle Tabs sofort wiederherstellen">
 <!ENTITY restoreImmediately.accesskey   "w">
 <!-- LOCALIZATION NOTE (restoreTabs.label): This will concatenate to

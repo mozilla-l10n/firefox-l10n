@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Nachrichtenspeicher">
 <!ENTITY securitySettings.label "Sicherheits-Einstellungen">
 <!ENTITY serverSettings.label "Server-Einstellungen">
 <!ENTITY serverType.label "Server-Typ:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Beim Verbinden mit diesem Server immer Authentifizierung verlangen">
 <!ENTITY alwaysAuthenticate.accesskey "B">
 <!ENTITY newsrcFilePath.label "newsrc-Datei:">
-<!ENTITY localPath.label "Lokaler Ordner:">
+<!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY abbreviate.label "Newsgroups im Mailordner-Fenster anzeigen mit:">
 <!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY serverDefaultCharset.label "Standard-Zeichensatz:">
 <!ENTITY advancedButton.accesskey "E">
+<!ENTITY localPath.label "Lokaler Ordner:">
 <!ENTITY localFolderPicker.label "Lokalen Ordner wählen">
 <!ENTITY browseFolder.label "Durchsuchen…">
 <!ENTITY browseFolder.accesskey "D">
-<!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY browseNewsrc.label "Durchsuchen…">
 <!ENTITY browseNewsrc.accesskey "D">
+
+<!ENTITY accountTitle.label "Account-Einstellungen">
+<!ENTITY accountSettingsDesc.label "Der folgende ist ein spezieller Account. Mit ihm sind keine Identitäten verbunden.">
