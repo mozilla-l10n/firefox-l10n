@@ -16,87 +16,43 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Töötuba">
+<!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "Fail">
+<!ENTITY fileMenu.label               "File">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "Uus aken">
-<!ENTITY newWindowCmd.accesskey       "U">
+<!ENTITY newWindowCmd.label           "New Window">
+<!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Ava fail…">
-<!ENTITY openFileCmd.accesskey        "A">
+<!ENTITY openFileCmd.label            "Open File…">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Salvesta">
+<!ENTITY saveFileCmd.label            "Save">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Salvesta kui…">
-<!ENTITY saveFileAsCmd.accesskey      "l">
+<!ENTITY saveFileAsCmd.label          "Save As…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "Sulge">
+<!ENTITY closeCmd.label               "Close">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "u">
+<!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY editMenu.label               "Redigeerimine">
-<!ENTITY editMenu.accesskey           "R">
+<!ENTITY editMenu.label               "Edit">
+<!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Võta tagasi">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "V">
-
-<!ENTITY redoCmd.label                "Tee uuesti">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "T">
-
-<!ENTITY cutCmd.label                 "Lõika">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "L">
-
-<!ENTITY copyCmd.label                "Kopeeri">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Aseta">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "A">
-
-<!ENTITY selectAllCmd.label           "Vali kõik">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "V">
-
-<!ENTITY findCmd.label                "Leia…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "e">
-
-<!ENTITY findAgainCmd.label           "Leia veel…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "l">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Mine reale…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "M">
-
-<!ENTITY run.label                    "Käivita">
-<!ENTITY run.accesskey                "K">
+<!ENTITY run.label                    "Run">
+<!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspekteeri">
+<!ENTITY inspect.label                "Inspect">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Kuva">
-<!ENTITY display.accesskey            "u">
+<!ENTITY display.label                "Display">
+<!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -105,12 +61,12 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Keskkond">
-<!ENTITY environmentMenu.accesskey    "K">
+<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Sisu">
-<!ENTITY contentContext.accesskey     "S">
+<!ENTITY contentContext.label         "Content">
+<!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -118,17 +74,29 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Brauser">
+<!ENTITY browserContext.label         "Browser">
 <!ENTITY browserContext.accesskey     "B">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Help">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Help">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
+<!ENTITY documentationLink.accesskey  "D">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Lähtesta muutujad">
-<!ENTITY resetContext2.accesskey      "L">
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY executeMenu.label            "Käivitamine">
-<!ENTITY executeMenu.accesskey        "K">
+<!ENTITY executeMenu.label            "Execute">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
