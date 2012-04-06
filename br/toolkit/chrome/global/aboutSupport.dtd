@@ -12,7 +12,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Arventennoù diazez an arload">
 <!ENTITY aboutSupport.appBasicsName "Anv">
 <!ENTITY aboutSupport.appBasicsVersion "Handelv">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Kavlec'h an aelad">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Teuliad an aelad">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Enlugelladoù gweredekaet">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Kefluniad kempunadur">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gwazour arveriad">
@@ -34,6 +40,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Talvoud">
 
 <!ENTITY aboutSupport.graphicsTitle "Reizhiad kevregañ">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Karzher azvuiadel">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Handelvoù ar mezarc'hioù">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Roll istor staliadur">
 <!ENTITY aboutSupport.updateHistoryTitle "Roll istor hizivadur">

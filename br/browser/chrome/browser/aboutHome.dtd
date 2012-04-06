@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Pennbajenn &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Klask">
-
-<!ENTITY abouthome.aboutMozilla "A-zivout Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Aes eo da bersonelaat ho Firefox evel ma fell deoc'h henn ober. <a>Dibabit e-touez miliadoù a askouezhioù</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Kefluniañ Sync">
-<!ENTITY abouthome.pairDevice.label  "Koublañ un trevnad">
+<!ENTITY abouthome.bookmarksButton.label "Sinedoù">
+<!ENTITY abouthome.historyButton.label   "Roll istor">
+<!ENTITY abouthome.settingsButton.label  "Arventennoù">
+<!ENTITY abouthome.addonsButton.label    "Askouezhioù">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Pellgargadurioù">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

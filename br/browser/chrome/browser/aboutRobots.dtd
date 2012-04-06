@@ -8,7 +8,7 @@
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
 <!ENTITY robots.pagetitle  "Gort ! Klaatu barada nikto !">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
-<!ENTITY robots.errorTitleText "Degemer mat Mab-Den !">
+<!ENTITY robots.errorTitleText "Donemat Mab-Den !">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "E peoc'h ha gant youl vat ez omp deuet d'ho kwelout !">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->

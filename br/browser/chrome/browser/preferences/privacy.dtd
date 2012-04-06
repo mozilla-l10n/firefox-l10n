@@ -64,11 +64,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Atav arverañ mod merdeiñ prevez">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Derc'hel soñj ma roll istor">
-<!ENTITY  rememberHistory.accesskey  "r">
-
-<!ENTITY  rememberDownload.label         "Derc'hel soñj ar pellgargadurioù">
-<!ENTITY  rememberDownload.accesskey     "c">
+<!ENTITY  rememberHistory2.label      "Derc'hel soñj ma roll istor ha ma fellgargadurioù">
+<!ENTITY  rememberHistory2.accesskey  "r">
 
 <!ENTITY  rememberSearchForm.label       "Derc'hel soñj ar c'hlaskoù hag ar furmskridoù">
 <!ENTITY  rememberSearchForm.accesskey   "h">

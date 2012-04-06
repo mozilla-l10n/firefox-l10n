@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Degemer mat ! Ma n'hoc'h eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
+<!ENTITY setup.pickSetupType.description2 "Donemat ! Ma n'hoc'h eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
 <!ENTITY button.createNewAccount.label "Krouiñ ur gont nevez">
 <!ENTITY button.haveAccount.label      "Ur gont am eus endeo">
 
@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Dafariad">
-<!ENTITY serverType.main.label      "Dafariad &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Diouer : Dafariad Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Grit gant un dafariad personelaet…">
 <!ENTITY signIn.account2.label      "Kont">
 <!ENTITY signIn.account2.accesskey  "K">
