@@ -11,10 +11,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Para activar o novo dispositivo, seleccione “Configurar &syncBrand.shortName.label;” no dispositivo.'>
-
 <!ENTITY sync.subtitle.header.label 'Escriba este código no seu computador'>
 <!ENTITY sync.subtitle.connectlocation.label 'Seleccione “&sync.title.pair.label;” na sección &syncBrand.shortName.label; das opcións do seu Firefox de escritorio.'>
-
 <!ENTITY sync.subtitle.pair.label 'Para activalo, no outro dispositivo seleccione “Asociar un dispositivo”.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -72,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Só está permitida unha conta de &syncBrand.fullName.label;.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Chave de recuperación incorrecta. Tente de novo.'>
