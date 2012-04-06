@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Gosofd &brandShortName;\u2026">
+<!ENTITY  splash_settingup "Gosod &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Rydym yn diweddaru eich nodau tudalen a hanes, gall hyn gymryd munud neu ddau.">
 
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
@@ -119,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Does gennych chi ddim gwefannau gorau eto. Tapiwch y Bar Teitl i gychwn pori.">
 <!ENTITY abouthome_about_sync "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a tabiau eich dyfeisiau eraill">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Dewis Ffeil">
+<!ENTITY filepicker_audio_title "Dewis neu recordio sain">
+<!ENTITY filepicker_image_title "Dewis neu dynnu llun">
+<!ENTITY filepicker_video_title "Dewis neu recordio fideo">
