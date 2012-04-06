@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Uus kaart">
-
-<!ENTITY newtab.show      "Näita uue kaardi lehte">
-<!ENTITY newtab.hide      "Peida uue kaardi leht">
-<!ENTITY newtab.reset     "Lähtesta uue kaardi leht">
