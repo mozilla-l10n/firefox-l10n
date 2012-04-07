@@ -35,7 +35,7 @@
                                            informerer deg når de er tilgjengelige.">
 
 <!ENTITY  finished.wizard.title           "Oppdatering fullført">
-<!ENTITY  finished.top.label              "&brandShortName; har installert de tilgjengelige oppdateringene.">
+<!ENTITY  finished.top.label              "&brandShortName; har installert oppdateringene.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; kan jevnlig se etter og gi informasjon når
                                            oppdateringer blir tilgjengelige.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; ser jevnlig etter oppdateringer, og gir informasjon når

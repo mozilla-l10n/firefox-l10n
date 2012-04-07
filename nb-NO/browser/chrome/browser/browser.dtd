@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
-<!ENTITY domFullScreenWarning.label "Trykk ESC for å forlate fullskjermmodus">
+<!ENTITY domFullScreenWarning.label "Trykk ESC for å avslutte fullskjermmodus">
 
 <!ENTITY closeWindow.label "Lukk vindu">
 <!ENTITY closeWindow.accesskey "L">

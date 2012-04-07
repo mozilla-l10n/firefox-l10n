@@ -1,5 +1,5 @@
 <!ENTITY window.title "Velkommen til &brandShortName;">
-<!ENTITY header.label "Ønsker du en ny e-postadresse som du kan bruke med &brandShortName;?">
+<!ENTITY header.label "Ønsker du en ny e-postadresse?">
 <!ENTITY other.languages "Vi viser bare tilbyderne som tilbyr adresser i ditt område.  Trykk her for å vise alle tilbydere.">
 <!ENTITY error.line1 "Vi klarte ikke finne noen foreslåtte e-postadresser.">
 <!ENTITY error.line2 "Du kan søke etter kallenavn eller andre nøkkelord for å finne flere adresser">
@@ -21,8 +21,8 @@
 <!ENTITY partnership.description "I partnerskap med flere tilbydere kan &brandShortName; tilby deg en ny e-postkonto. Bare fyll inn fornavn og etternavn, og evt. andre ord du ønsker, i feltene nedenfor for å komme i gang.">
 <!ENTITY existing.header "Har du allerede en adresse du ønsker å bruke?">
 <!ENTITY tinyheader.title "Har adresse?">
-<!ENTITY tinyheader.existing "Bruk min eksisterende e-postadresse isteden">
-<!ENTITY content.close "Jeg konfigurerer kontoen senere isteden.">
+<!ENTITY tinyheader.existing "Hopp over og bruk eksisterende adresse">
+<!ENTITY content.close "Jeg konfigurerer kontoen senere.">
 <!ENTITY successful.title "Gratulerer!">
 <!ENTITY successful.successMessage "Du har nå satt opp kontoen.">
 <!ENTITY successful.write "Skriv en e-post">
