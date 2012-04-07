@@ -70,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "Un seul compte &syncBrand.fullName.label; peut être géré.">
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Clé de récupération incorrecte. Veuillez essayer à nouveau.'>
