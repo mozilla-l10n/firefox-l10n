@@ -272,10 +272,8 @@
 <!ENTITY selectAll.accesskey "v">
 <!ENTITY attachFile.label "Pridėti failų…">
 <!ENTITY attachFile.accesskey "f">
-<!--
-<!ENTITY attachCloud.label "Failo saitą…">
+<!ENTITY attachCloud.label "Pridėti saitų į failus debesyje…">
 <!ENTITY attachCloud.accesskey "s">
--->
 <!ENTITY convertCloud.label "Konvertuoti į…">
 <!ENTITY convertCloud.accesskey "K">
 <!ENTITY cancelUpload.label "Nutraukti įkėlimą">
