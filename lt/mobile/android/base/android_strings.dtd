@@ -1,4 +1,5 @@
-<!ENTITY splash_firstrun "Užbaigiamas programos „&brandShortName;“ diegimas…">
+<!ENTITY splash_settingup "Programa „&brandShortName;“ konigūruojama">
+<!ENTITY splash_bookmarks_history "Luktelėkite, kol bus atnaujintas Jūsų adresynas ir žurnalas.">
 
 <!ENTITY no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
 <!ENTITY error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
@@ -118,3 +119,8 @@
 <!ENTITY abouthome_no_top_sites "Dažniausiai lankomų svetainių sąrašas kol kas tuščias. Bakstelėkite antraštės juostą ir pradėkite naršymą.">
 <!ENTITY abouthome_about_sync "Sukonfigūruokite „Firefox Sync“ ir galėsite naudotis savo adresynu, žurnalu ir kortelėmis iš kitų įrenginių">
 <!ENTITY abouthome_sync_bold_name "Sinchronizavimas">
+
+<!ENTITY filepicker_title "Parinkite failą">
+<!ENTITY filepicker_audio_title "Parinkite arba įrašykite garsą">
+<!ENTITY filepicker_image_title "Parinkite arba nufotografuokite paveikslą">
+<!ENTITY filepicker_video_title "Parinkite arba įrašykite vaizdo įrašą">
