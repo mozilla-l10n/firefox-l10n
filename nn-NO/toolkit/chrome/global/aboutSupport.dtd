@@ -14,19 +14,22 @@
 <!ENTITY aboutSupport.appBasicsVersion "Versjon">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Påslåtte programtillegg">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfigurasjon">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Bygginnstillingar">
 <!ENTITY aboutSupport.appBasicsUserAgent "Brukaragent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Krasjrapportar">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Minnebruk">
 
-<!ENTITY aboutSupport.show.label "Opne mappa med fila">
+<!ENTITY aboutSupport.showDir.label "Opne mappe">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Vis i Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Vis mappe">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Endra innstillingar">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Viktige endra innstillingar">
 <!ENTITY aboutSupport.modifiedPrefsName "Namn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Verdi">
 

@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Legg til i ordbok">
 <!ENTITY spellAddToDictionary.accesskey "L">
+<!ENTITY spellUndoAddToDictionary.label "Angre tillegg i ordbok">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Stavekontroll">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Ingen forslag)">

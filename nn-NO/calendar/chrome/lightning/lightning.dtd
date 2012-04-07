@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Hendingar og oppgåver">
 <!ENTITY lightning.menu.eventtask.accesskey            "e">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-post">
-<!ENTITY lightning.toolbar.mail.accesskey     "p">
-<!ENTITY lightning.toolbar.calendar.label     "Kalender">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Byt til kalenderfana">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Oppgåver">
-<!ENTITY lightning.toolbar.task.tooltip       "Byt til oppgåvefana">
-<!ENTITY lightning.toolbar.task.accesskey     "O">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Hending">
-<!ENTITY lightning.toolbar.newtask.label      "Oppgåve">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Dag">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Veke">
-<!ENTITY lightning.toolbar.week.accesskey            "V">
-<!ENTITY lightning.toolbar.multiweek.label           "Fleire veker">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "F">
-<!ENTITY lightning.toolbar.month.label               "Månad">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Vis hendingar i i dag-ruta">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Vis oppgåver i I dag-ruta og i Oppgåve-modus">
