@@ -1,5 +1,6 @@
 
-<!ENTITY splash_firstrun "Nastavení &brandShortName;\u2026">
+<!ENTITY splash_settingup "Nastavení &brandShortName;">
+<!ENTITY splash_bookmarks_history "Záložky a historie jsou aktualizovány, což může chvilku trvat.">
 
 <!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
 <!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
