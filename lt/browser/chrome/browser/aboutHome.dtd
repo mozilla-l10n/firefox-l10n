@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "„&brandFullName;“ pradžios tinklalapis">
 
 <!ENTITY abouthome.searchEngineButton.label "Ieškoti">
-
-<!ENTITY abouthome.aboutMozilla "Apie „Mozillą“">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Pritaikyti „Firefox“ savo poreikiams ypatingai lengva. <a>Rinkitės iš tūkstančių priedų</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Konfigūruoti sinchronizavimą">
-<!ENTITY abouthome.pairDevice.label  "Suporuoti įrenginį">
+<!ENTITY abouthome.bookmarksButton.label "Adresynas">
+<!ENTITY abouthome.historyButton.label   "Žurnalas">
+<!ENTITY abouthome.settingsButton.label  "Nuostatos">
+<!ENTITY abouthome.addonsButton.label    "Priedai">
+<!ENTITY abouthome.appsButton.label      "Krautuvė">
+<!ENTITY abouthome.downloadsButton.label "Atsiuntimai">
+<!ENTITY abouthome.syncButton.label      "Sinchronizavimas">
