@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Status instant poruka">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Novi račun">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Zatvori">
+<!ENTITY accountManager.close.accesskey      "t">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Niti jedan račun još nije podešen">
+<!ENTITY accountManager.noAccount.description "Kliknite na &accountManager.newAccount.label; tipku kako bi vas &brandShortName; proveo kroz proces podešavanja računa.">
+<!ENTITY account.autoSignOn.label     "Prijavi se prilikom pokretanja">
+<!ENTITY account.autoSignOn.accesskey "r">
+<!ENTITY account.connect.label        "Poveži">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Prekini vezu">
+<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.edit.label           "Postavke">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "Pomakni gore">
+<!ENTITY account.movedown.label       "Pomakni dolje">
+<!ENTITY account.cancelReconnection.label         "Otkaži ponovno povezivanje">
+<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.connecting           "Povezivanje…">
+<!ENTITY account.disconnecting        "Prekidanje veze…">
+<!ENTITY account.disconnected         "Nije povezano">
