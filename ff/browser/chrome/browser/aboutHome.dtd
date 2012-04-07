@@ -1,13 +1,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!-- These strings are used in the about:home page -->
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; Hello Naatirngo">
 
 <!ENTITY abouthome.searchEngineButton.label "Yiylo">
-
-<!ENTITY abouthome.aboutMozilla "Baɗte Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -18,5 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Feŋtaade Firefox haa nannda e no njiɗir-ɗaa ena weeɓi sanne. <a>Suɓo ɓeyditte e nder ujunnaaji</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Teelto Sync">
-<!ENTITY abouthome.pairDevice.label  "Jokkondir Kaɓirɗi">
+<!ENTITY abouthome.bookmarksButton.label "Maantore">
+<!ENTITY abouthome.historyButton.label   "Aslol">
+<!ENTITY abouthome.settingsButton.label  "Teelte">
+<!ENTITY abouthome.addonsButton.label    "Ɓeyditte">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Gaawte">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

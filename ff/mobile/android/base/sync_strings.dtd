@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sanngoɗin">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Seŋo e &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Ɓeydu Konte &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Jokkondir Kaɓirɗi">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Ngam hurminde kaɓirgol maa kesol ngol, labo “Set up &syncBrand.shortName.label;” e kaɓirgol ngol.">
+<!ENTITY sync.subtitle.header.label "Naatnu ngol dokkol e ngaanndi maa">
+<!ENTITY sync.subtitle.connectlocation.label "Labo “&sync.title.pair.label;” e rogere &syncBrand.shortName.label; e nder cuɓe maa Firefox biro.">
+<!ENTITY sync.subtitle.pair.label "Ngam hurminde, labo “Jokkondir Kaɓirɗi” e kaɓirgol maa ngola.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Hollu no waɗirtee.">
+<!ENTITY sync.link.advancedsetup.label "Teelte ceeɓtore…">
+<!ENTITY sync.link.nodevice.label "Mi jogaaki kaɓirgol ngol jooni…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Nana sabbii kabirgol goɗngol ngol…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Naatnu humpito konte maa &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Innde Konte">
+<!ENTITY sync.input.password.label "Finnde">
+<!ENTITY sync.input.key.label "Kelal jiytirgal">
+<!ENTITY sync.checkbox.server.label "Huutoro sarworde feŋtorde">
+<!ENTITY sync.input.server.label "URL Sarworde">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Horiima teeltaade set-up &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; horiima seŋaade e sarworde ndee. Aɗa yiɗi etaade goɗngol?">
+<!ENTITY sync.button.tryagain.label "Eto goɗngol">
+<!ENTITY sync.button.manual.label "Teelte junngol">
+<!ENTITY sync.subtitle.nointernet.label "Alaa ceŋol enternet woodi">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Teeltagol Gasii">
+<!ENTITY sync.subtitle.success.label "Keɓe maa ngoni jooni ko e aawteede e cakkitol. Aɗa waawi yahde to Teelte ngam toppitaade konte maa.">
+<!ENTITY sync.settings.label "Teelte">
+<!ENTITY sync.subtitle.manage.label "Konte maa &syncBrand.fullName.label; teeltanooma kisa. Yah to Teelte ngam toppitaade konte maa.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Tiiɗno fuɗɗito.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Cuɓe">
+<!ENTITY sync.summary.pair.label "Seŋ kaɓirgol goɗngol e konte maa &syncBrand.shortName.label;">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Haaytu">
+<!ENTITY sync.button.connect.label "Seŋondir">
+<!ENTITY sync.button.ok.label "OK">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Dosol Maantore">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Tage">
+<!ENTITY bookmarks.folder.toolbar.label "Palal Maantore">
+<!ENTITY bookmarks.folder.unfiled.label "Maantore ɗe Leemtaaka">
+<!ENTITY bookmarks.folder.desktop.label "Maantore Biro">
+<!ENTITY bookmarks.folder.mobile.label "Maantore Cinndel">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Ko konte &syncBrand.fullName.label; goote tan tammbitaa.">

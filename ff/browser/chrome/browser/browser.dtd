@@ -213,10 +213,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Yuurnito">
-<!ENTITY inspectButton.accesskey        "Y">
 <!ENTITY inspectCloseButton.tooltiptext "Uddu Ƴeewtorde">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Natto HTML Nderndero">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "N">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Natto HTML Booweejo">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "B">
+
+<!ENTITY inspectorHTMLDelete.label          "Momtu Siifannde">
+<!ENTITY inspectorHTMLDelete.accesskey      "M">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -600,3 +606,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Uddu palal Ɓeyditte">
 <!ENTITY toggleAddonBarCmd.key        "/">
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+
+<!ENTITY htmlPanel.label              "HTML">
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+
+<!ENTITY htmlPanel.tooltiptext        "Tiimtorde HTML">
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+
+<!ENTITY htmlPanel.accesskey          "H">

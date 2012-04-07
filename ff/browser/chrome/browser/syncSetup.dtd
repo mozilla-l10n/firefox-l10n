@@ -12,7 +12,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Sarworde">
-<!ENTITY serverType.main.label      "Sarworde &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Goowaaɗo: sarworde Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Huutor sarworde feŋtorde…">
 <!ENTITY signIn.account2.label      "Konte">
 <!ENTITY signIn.account2.accesskey  "K">

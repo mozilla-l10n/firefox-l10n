@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Mbayka Koolnol">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Uddii e Bettere Tuma nde Hurmata">
+<!ENTITY autoSafeModeDescription.label "Amin njaafnoo e ɗee caɗeele sanne. &brandShortName; woni ko e Mbayka Koolnol, ɗum ena daaƴa teelte peŋtore, wutteeji e ɓeyditte maa dumunna.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; woni ko e Mbayka Koolnol, ɗum ena daaƴa teelte peŋtore, wutteeji e ɓeyditte maa dumunna.">
 <!ENTITY safeModeDescription2.label   "Aɗa waawi waɗde haa fof walla yoga e bayle ɗee woosde:">
 

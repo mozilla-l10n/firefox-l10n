@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Maantore">
 <!ENTITY  locbar.nothing.label          "Hay huunde">
 
-
 <!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwɗi e lowe">
 <!ENTITY  acceptCookies.accesskey       "J">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Huutoro peeragol suturo sahaa kala">
 <!ENTITY  privateBrowsingPermanent2.accesskey "H">
 
-<!ENTITY  rememberHistory.label      "Tesko alsol peeragol am">
-<!ENTITY  rememberHistory.accesskey  "k">
-
-<!ENTITY  rememberDownload.label         "Tesko aslol gawtagol">
-<!ENTITY  rememberDownload.accesskey     "g">
+<!ENTITY  rememberHistory2.label      "Siiftor peeragol am tee aawto aslol">
+<!ENTITY  rememberHistory2.accesskey  "t">
 
 <!ENTITY  rememberSearchForm.label       "Tesko aslol njiylawu e porme">
 <!ENTITY  rememberSearchForm.accesskey   "p">
