@@ -120,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Zatím nemáte žádné top stránky. Brouzdání začnete klepnutím na pole titulku.">
 <!ENTITY abouthome_about_sync "Nastavte si Firefox Sync a přistupujte ke svým záložkám, historii a panelům ze svých ostatních zařízení">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Vyberte soubor">
+<!ENTITY filepicker_audio_title "Vyberte nebo nahrajte zvuk">
+<!ENTITY filepicker_image_title "Vyberte nebo vyfoťte obrázek">
+<!ENTITY filepicker_video_title "Vyberte nebo natočte video">
