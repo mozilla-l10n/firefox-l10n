@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Bane:">
 <!ENTITY     props.secure.label             "Send til:">
 <!ENTITY     props.expires.label            "Går ut:">
-<!ENTITY     props.policy.label             "Val:"> 
 
 <!ENTITY     button.allow.label             "Tillat">
 <!ENTITY     button.allow.accesskey         "T">
@@ -13,6 +12,6 @@
 <!ENTITY     button.deny.label              "Avslå">
 <!ENTITY     button.deny.accesskey          "A">
 
-<!ENTITY     dialog.title                   "Stadfest">
+<!ENTITY     dialog.title                   "Stadfest infokapsel">
 <!ENTITY     dialog.remember.label          "Bruk dette valet for alle infokapslar frå denne nettstaden">
 <!ENTITY     dialog.remember.accesskey      "B">

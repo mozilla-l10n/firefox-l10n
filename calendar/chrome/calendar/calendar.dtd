@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Hendingar i dag">
 <!ENTITY calendar.events.filter.future.label "Alle hendingar i framtida">
 <!ENTITY calendar.events.filter.current.label "Vald dag">
+<!ENTITY calender.events.filter.currentview.label "Hendingar i denne visinga">
 <!ENTITY calendar.events.filter.next7Days.label "Hendingar dei neste 7 dagane">
 <!ENTITY calendar.events.filter.next14Days.label "Hendingar dei neste 14 dagane">
 <!ENTITY calendar.events.filter.next31Days.label "Hendingar dei neste 31 dagane">
@@ -179,6 +180,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Merk valde oppgåver som fullførde">
 <!ENTITY calendar.task.priority.button.tooltip  "Endre prioritet">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrer oppgåver … #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Skift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: Ferdig">
 
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "F">
 <!ENTITY calendar.context.priority.label              "Prioritet">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Utsett oppgåve">
+<!ENTITY calendar.context.postpone.accesskey          "U">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Høg">
 <!ENTITY priority.level.high.accesskey      "H">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Hour">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "t">
+<!ENTITY calendar.context.postpone.1day.label       "1 dag">
+<!ENTITY calendar.context.postpone.1day.accesskey   "d">
+<!ENTITY calendar.context.postpone.1week.label      "1 veke">
+<!ENTITY calendar.context.postpone.1week.accesskey  "v">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
