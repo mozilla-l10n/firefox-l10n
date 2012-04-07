@@ -44,3 +44,4 @@
 <!ENTITY bookmarks.folder.desktop.label "Закладки десктопа">
 <!ENTITY bookmarks.folder.mobile.label "Мобильные закладки">
 <!ENTITY sync.notification.oneaccount.label "Только одна учётная запись &syncBrand.fullName.label; поддерживается.">
+<!ENTITY sync.new.recoverykey.status.incorrect "Некорректный ключ восстановления. Пожалуйста, попробуйте ещё раз.">
