@@ -20,8 +20,10 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Ver más información sobre plugins o buscar manualmente los plugins faltantes.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; necesita reiniciarse para que funcionen los plugins.">
   
-<!ENTITY missingPlugin                                       "Se necesita un pluin para mostrar este contenido.">
-<!ENTITY clickToPlayPlugin                                   "Pulse aquí para activar el plugin.">
+<!ENTITY missingPlugin                                       "Se necesita un plugin para mostrar este contenido.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Pulsá aquí para activar el plugin.">
+<!ENTITY clickToPlayPlugins                                  "Clic aquí para activar plugins.">
 <!ENTITY disabledPlugin                                      "Este plugin ha sido deshabilitado.">
 <!ENTITY blockedPlugin.label                                 "Este plugin ha sido bloqueado para su protección.">
 
