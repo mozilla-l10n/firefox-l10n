@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title "Vlastnosti účtu">
+<!ENTITY accountWindow.width "300">
+<!ENTITY account.general "Obecné">
+<!ENTITY account.advanced "Pokročilé">
+<!ENTITY account.name "Uživatelské jméno:">
+<!ENTITY account.password "Heslo:">
+<!ENTITY account.alias "Přezdívka:">
+<!ENTITY account.newMailNotification "Upozornit na novou poštu">
+<!ENTITY account.autojoin "Automaticky připojované kanály:">
+<!ENTITY account.proxySettings.caption "Nastavení proxy:">
+<!ENTITY account.proxySettings.change.label "Změnit…">
+<!ENTITY account.proxySettings.change.accessKey "Z">

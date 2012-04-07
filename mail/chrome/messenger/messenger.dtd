@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "Z">
 <!ENTITY newExistingEmailAccountCmd.label "Existující poštovní účet…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Účet chatu…">
+<!ENTITY newIMAccountCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Přílohy">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Zpět">
 <!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Zpráva s hvězdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
 <!ENTITY folderMenu.label "Složka">
@@ -468,8 +473,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "D">
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "k">
+<!ENTITY imAccountsStatus.label "Stav chatu">
+<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imStatus.available "Dostupný">
+<!ENTITY imStatus.unavailable "Nedostupný">
+<!ENTITY imStatus.offline "Offline">
+<!ENTITY imStatus.showAccounts "Zobrazit účty…">
 <!ENTITY savedFiles.label "Uložené soubory">
-<!ENTITY savedFiles.accesskey "l	">
+<!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filtry zpráv…">
 <!ENTITY filtersCmd.accesskey "F">
@@ -521,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Nevyžádané">
 <!ENTITY notJunkButton.label "Není nevyžádaná">
 <!ENTITY addressBookButton.label "Adresář">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globální hledání">
 <!ENTITY searchItem.title "Rychlé hledání">
 <!ENTITY mailViewsToolbarItem.title "Pohledy pošty">
@@ -554,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
 <!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
 <!ENTITY addressBookButton.tooltip "Přejde do Adresáře">
+<!ENTITY chatButton.tooltip "Zobrazí panel chatu">
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
 

@@ -1,0 +1,20 @@
+<!ENTITY startupAction.label "Při startu aplikace &brandShortName;:">
+<!ENTITY startupAction.accesskey "s">
+<!ENTITY startupOffline.label "Ponechat účty chatu offline">
+<!ENTITY startupConnectAuto.label "Připojit automaticky účty chatu">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY reportIdleAfter.label "Dát kontaktům vědět, pokud jsem pryč více než">
+<!ENTITY reportIdleAfter.accesskey "D">
+<!ENTITY idleTime "minut">
+
+<!ENTITY andSetStatusToAway.label "a nastavit stavu pryč tuto zprávu:">
+<!ENTITY andSetStatusToAway.accesskey  "n">
+
+<!ENTITY sendTyping.label "Odesílat upozornění na psaní v konverzaci">
+<!ENTITY sendTyping.accesskey "d">
