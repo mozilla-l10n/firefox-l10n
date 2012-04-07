@@ -41,13 +41,13 @@
 <!ENTITY reminder.remove.accesskey                         "E">
 
 <!ENTITY reminder.reminderDetails.label                    "Meeldetuletuse üksikasjad">
-<!ENTITY reminder.action.label                             "Vali meeldetuletuse tegevus">
+<!ENTITY reminder.action.label                             "Meeldetuletuse tegevus">
 
 <!ENTITY reminder.relation.before.label                    "enne" >
 <!ENTITY reminder.relation.after.label                     "pärast" >
 
-<!ENTITY reminder.action.alert.label                       "Kuva teade">
-<!ENTITY reminder.action.email.label                       "Saada kiri">
+<!ENTITY reminder.action.alert.label                       "Teate kuvamine">
+<!ENTITY reminder.action.email.label                       "Kirja saatmine">
 
 <!ENTITY alarm.units.minutes                               "minutit" >
 <!ENTITY alarm.units.hours                                 "tundi" >

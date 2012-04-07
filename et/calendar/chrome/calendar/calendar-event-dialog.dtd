@@ -289,7 +289,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "reedel" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "laupäeval" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "päeval">
-<!ENTITY event.recurrence.repeat.recur.label            "Kordub järgmistel päevadel">
+<!ENTITY event.recurrence.repeat.recur.label            "järgmistel päevadel">
 
 <!ENTITY event.recurrence.every.label                        "iga" >
 <!ENTITY repeat.units.years.both                             "aasta järel" >
@@ -345,15 +345,15 @@
 
 <!ENTITY event.recurrence.range.label                   "Kordumise ajavahemik">
 <!ENTITY event.recurrence.forever.label                 "Lõpu kuupäev puudub" >
-<!ENTITY event.recurrence.repeat.for.label              "Määra" >
-<!ENTITY event.recurrence.appointments.label            "kohtumine/st" >
-<!ENTITY event.repeat.until.label                       "Korda kuni" >
+<!ENTITY event.recurrence.repeat.for.label              "Kohtumisi kokku" >
+<!ENTITY event.recurrence.appointments.label            "" >
+<!ENTITY event.repeat.until.label                       "Korratakse kuni" >
 <!ENTITY event.recurrence.preview.label                 "Eelvaade">
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Osalejate kutsumine">
 <!ENTITY event.organizer.label                  "Korraldaja">
-<!ENTITY event.freebusy.suggest.slot            "Paku aeg:">
+<!ENTITY event.freebusy.suggest.slot            "Aja pakkumine:">
 <!ENTITY event.freebusy.next.slot               "Järgmine aeg " >
 <!ENTITY event.freebusy.previous.slot           " Eelmine aeg" >
 <!ENTITY event.freebusy.zoom                    "Suurendamine/Vähendamine:">
