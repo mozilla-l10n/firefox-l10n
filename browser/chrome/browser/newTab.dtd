@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nov tab">
-
-<!ENTITY newtab.show "Mussar la pagina per novs tabs">
-<!ENTITY newtab.hide "Zuppentar la pagina per novs tabs">
-<!ENTITY newtab.reset "Redefinir la pagina per novs tabs">

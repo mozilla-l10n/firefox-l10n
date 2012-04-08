@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "Modus segirà da &brandShortName;">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; è sa serra nunspetgadamain durant aviar">
+<!ENTITY autoSafeModeDescription.label "Stgisa quest incap. &brandShortName; è ussa en il modus segirà che deactivescha temporarmain tias preferenzas persunalas, tes designs e tias extensiuns.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; sa chatta actualmain en il modus segirà. Tut las preferenzas persunalisadas, ils designs e las extensiuns èn vegnids deactivads temporarmain.">
 <!ENTITY safeModeDescription2.label   "Ti pos mantegnair tuttas u intginas da questas midadas:">
 
