@@ -3,7 +3,7 @@
 <!ENTITY  popupExceptions.label       "例外…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  loadImages.label            "自动载入图片">
+<!ENTITY  loadImages.label            "自动载入图像">
 <!ENTITY  loadImages.accesskey        "I">
 <!ENTITY  exceptions.label            "例外…">
 <!ENTITY  exceptions.accesskey        "x">

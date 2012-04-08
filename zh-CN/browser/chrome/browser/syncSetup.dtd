@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "服务器">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; 服务器">
+<!ENTITY serverType.default.label      "默认：Mozilla &syncBrand.fullName.label; 服务器">
 <!ENTITY serverType.custom2.label   "使用自定义服务器…">
 <!ENTITY signIn.account2.label      "帐户">
 <!ENTITY signIn.account2.accesskey  "A">
