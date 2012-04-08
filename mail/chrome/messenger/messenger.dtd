@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "已有电子邮件帐号…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "聊天帐号…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "打开已保存消息…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -90,7 +92,7 @@
 <!ENTITY deleteFolderCmd.label "删除文件夹">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "取消订阅">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "选择">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "全部">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "后退">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "聊天">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "已加星标之消息">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "文件夹">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "活动管理器">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "聊天状态">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "可用">
+<!ENTITY imStatus.unavailable        "不可用">
+<!ENTITY imStatus.offline            "脱机">
+<!ENTITY imStatus.showAccounts       "显示帐号…">
 <!ENTITY savedFiles.label "已保存的文件">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -503,7 +514,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "移动">
 <!ENTITY archiveButton.label "归档">
 <!ENTITY nextButton.label "下一个">
+<!ENTITY nextButtonToolbarItem.label "下一条未读">
+<!ENTITY nextMsgButton.label "下一个">
 <!ENTITY previousButton.label "上一个">
+<!ENTITY previousButtonToolbarItem.label "上一条未读">
+<!ENTITY previousMsgButton.label "上一个">
 <!ENTITY backButton1.label "后退">
 <!ENTITY goForwardButton1.label "前进">
 <!ENTITY deleteItem.title "删除">
@@ -517,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
 <!ENTITY addressBookButton.label "通讯录">
+<!ENTITY chatButton.label "聊天">
 <!ENTITY glodaSearch.title "全局搜索">
 <!ENTITY searchItem.title "快速搜索">
 <!ENTITY mailViewsToolbarItem.title "邮件视图">
@@ -537,7 +553,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "移动选择的消息">
 <!ENTITY archiveButton.tooltip "归档选中的消息">
 <!ENTITY nextButton.tooltip "转至下一条未读消息">
+<!ENTITY nextMsgButton.tooltip "移动到下一条信息">
 <!ENTITY previousButton.tooltip "转到上一条未读消息">
+<!ENTITY previousMsgButton.tooltip "移动到上一条信息">
 <!ENTITY goForwardButton.tooltip "前进至下一条消息">
 <!ENTITY goBackButton.tooltip "后退至上一条消息">
 <!ENTITY deleteButton.tooltip "删除选择的消息或文件夹">
@@ -548,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
 <!ENTITY notJunkButton.tooltip "将所选消息标记为非垃圾邮件">
 <!ENTITY addressBookButton.tooltip "转到通讯录">
+<!ENTITY chatButton.tooltip "显示聊天选项卡">
 <!ENTITY tagButton.tooltip "为消息添加标签">
 <!ENTITY compactButton.tooltip "从选中文件夹移除已删除消息">
 
@@ -780,28 +799,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "搜索全部消息… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "搜索… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "将地址添加到通讯录…">
@@ -834,7 +853,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "链接另存为…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "图片另存为…">
+<!ENTITY saveImageAsCmd.label "图像另存为…">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey "C">

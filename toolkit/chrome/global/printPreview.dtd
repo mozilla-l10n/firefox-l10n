@@ -62,7 +62,7 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "定制…">
+<!ENTITY Custom.label         "自定义…">
 <!ENTITY ShrinkToFit.label    "调整到适合">
 <!ENTITY customPrompt.title   "自定义比例…">
 

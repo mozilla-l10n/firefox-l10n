@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "新标签页">
-
-<!ENTITY newtab.show "显示新标签页页面">
-<!ENTITY newtab.hide "隐藏新标签页页面">
-<!ENTITY newtab.reset "重置新标签页页面">
