@@ -31,10 +31,10 @@
 <!ENTITY numCopies.label "份数：">
 <!ENTITY numCopies.accesskey "c">
 
-<!ENTITY printframeGroup.label "打印多帧">
+<!ENTITY printframeGroup.label "打印框架">
 <!ENTITY aslaidoutRadio.label "如屏幕所示布局">
 <!ENTITY aslaidoutRadio.accesskey "u">
-<!ENTITY selectedframeRadio.label  "所选帧">
+<!ENTITY selectedframeRadio.label  "所选框架">
 <!ENTITY selectedframeRadio.accesskey  "m">
-<!ENTITY eachframesepRadio.label  "分开打印各帧">
+<!ENTITY eachframesepRadio.label  "分开打印每个框架">
 <!ENTITY eachframesepRadio.accesskey  "E">
