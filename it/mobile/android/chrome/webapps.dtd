@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Inserire un titolo">
-<!ENTITY webapps.permissions "Consenti accesso:">
-<!ENTITY webapps.perm.geolocation "Navigazione geolocalizzata">
-<!ENTITY webapps.perm.offline "Archiviazione dati non in linea">
-<!ENTITY webapps.perm.notifications "Notifiche desktop">
-<!ENTITY webapps.perm.requestedHint "(richiesto)">
-<!ENTITY webapps.add-homescreen "Aggiungi alla schermata iniziale">
