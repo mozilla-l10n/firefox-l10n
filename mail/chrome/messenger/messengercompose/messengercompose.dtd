@@ -14,14 +14,16 @@
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Připojit">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Připojit soubor…">
-<!ENTITY attachFileCmd.accesskey "s">
+<!ENTITY attachFileCmd.label "Soubor…">
+<!ENTITY attachFileCmd.accesskey "S">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachPageCmd.label "Připojit WWW stránku…">
+<!ENTITY attachCloudCmd.label "Soubor přes úložiště">
+<!ENTITY attachCloudCmd.accesskey "b">
+<!ENTITY attachPageCmd.label "WWW stránka…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Osobní vizitka (vCard)">
-<!ENTITY attachVCardCmd.accesskey "v">
+<!ENTITY attachVCardCmd.accesskey "O">
 <!ENTITY closeCmd.label "Zavřít">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
@@ -268,10 +270,18 @@
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY selectAll.label "Vybrat vše">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Připojit soubor(y)…">
+<!ENTITY attachFile.label "Připojit soubor…">
 <!ENTITY attachFile.accesskey "s">
-<!ENTITY attachPage.label "Připojit WWW stránku…">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachCloud.label "Soubor přes úložiště…">
+<!ENTITY attachCloud.accesskey "b">
+<!ENTITY convertCloud.label "Převést na…">
+<!ENTITY convertCloud.accesskey "e">
+<!ENTITY cancelUpload.label "Zrušit nahrávání">
+<!ENTITY cancelUpload.accesskey "r">
+<!ENTITY convertRegularAttachment.label "Obvyklá příloha">
+<!ENTITY convertRegularAttachment.accesskey "O">
+<!ENTITY attachPage.label "Připojit webovou stránku…">
+<!ENTITY attachPage.accesskey "w">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Přidat slovníky…">
@@ -279,3 +289,4 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresář">
+
