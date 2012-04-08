@@ -119,7 +119,7 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Allontanarsi da questo sito">
 <!ENTITY securityOverride.exceptionButtonLabel "Aggiungi eccezione…">
 <!ENTITY securityOverride.warningContent "
-<p>Non si dovrebbe aggiungere un'eccezione se si utilizza una connessione ad internet di cui non ci si fida completamente o se non è usuale ricevere un avvertimento per questo server.</p>
+<p>È sconsigliato aggiungere un'eccezione nel caso in cui si stia utilizzando una connessione non completamente affidabile oppure se è la prima volta che questi avvisi di sicurezza appaiono con questo server.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>

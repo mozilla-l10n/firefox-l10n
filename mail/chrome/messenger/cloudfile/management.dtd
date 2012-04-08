@@ -1,0 +1,5 @@
+<!ENTITY cloudfileMgmt.privacyPolicy "Informativa sulla privacy">
+<!ENTITY cloudfileMgmt.termsOfService "Condizioni di utilizzo del servizio">
+<!ENTITY cloudfileMgmt.usedSpace "Spazio occupato:">
+<!ENTITY cloudfileMgmt.unusedSpace "Spazio libero:">
+<!ENTITY cloudfileMgmt.upgradeOffer "Ottieni più spazio">

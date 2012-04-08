@@ -52,8 +52,8 @@
 <!ENTITY newsrcFilePath.label "File newsrc:">
 <!ENTITY localPath.label "Cartella locale:">
 <!ENTITY abbreviate.label "Mostra nome del gruppo di discussione nel pannello della posta così:">
-<!ENTITY abbreviateOn.label "Nomi completi (Per esempio, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "Nomi abbreviati (Per esempio, 'n.p.m.mail-news')">
+<!ENTITY abbreviateOn.label "Nomi completi (ad esempio, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nomi abbreviati (ad esempio, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Codifica carattere predefinita:">
