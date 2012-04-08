@@ -44,3 +44,4 @@
 <!ENTITY bookmarks.folder.desktop.label "Segnalibri pc desktop">
 <!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
 <!ENTITY sync.notification.oneaccount.label "È possibile utilizzare un solo account &syncBrand.fullName.label;.">
+<!ENTITY sync.new.recoverykey.status.incorrect "Chiave di ripristino errata, riprovare.">
