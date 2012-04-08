@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey "P">
 <!ENTITY chooseFolderMac.label "Vybrat…">
 <!ENTITY chooseFolderMac.accesskey "V">
+
+<!ENTITY attachments.incoming.label "Příchozí">
+<!ENTITY attachments.outgoing.label "Odchozí">
+
+<!ENTITY addCloudFileAccount.label "Přidat">
+<!ENTITY addCloudFileAccount.accesskey "P">
+<!ENTITY addCloudFileAccount.description "Přidejte službu online úložiště, kterou chcete použít pro odesílání velkých příloh.">
+<!ENTITY removeCloudFileAccount.label "Odebrat">
+<!ENTITY removeCloudFileAccount.accesskey "d">
+<!ENTITY authRequired.description "Tato služba pro zobrazení nastavení vyžaduje přihlášení.">
+<!ENTITY authRequired.button.label "Přihlásit">
+<!ENTITY authRequired.button.accesskey "h">
+
+<!ENTITY enableCloudFileAccountOffer.label "Nabízet nahrávání na úložiště pro soubory větší než">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
