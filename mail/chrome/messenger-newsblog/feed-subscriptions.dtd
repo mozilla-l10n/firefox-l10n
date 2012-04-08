@@ -2,19 +2,7 @@
 <!ENTITY feedSubscriptions.label     "Feed-Abonnements">
 <!ENTITY subscriptionDesc.label      "Hinweis: Entfernen oder Ändern des Ordners für einen Feed hat keinen Einfluss auf zuvor abgerufene Artikel.">
 <!ENTITY feedTitle.label             "Titel:">
-<!ENTITY feedTitle.accesskey         "T">
-
-<!ENTITY feedLocation.label          "Feed-URL:">
-<!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Gültige Feed-URL eingeben">
-
-<!ENTITY feedFolder.label            "Artikel speichern in:">
-<!ENTITY feedFolder.accesskey        "s">
-
-<!ENTITY quickMode.label             "Artikel-Zusammenfassung anstelle der Webseite anzeigen">
-<!ENTITY quickMode.accesskey         "A">
-
-<!ENTITY validateText.label          "Prüfe Gültigkeit und rufe gültige URL ab.">
+<!ENTITY location.label              "Adresse:">
 
 <!ENTITY button.addFeed.label        "Hinzufügen">
 <!ENTITY button.addFeed.accesskey    "H">
