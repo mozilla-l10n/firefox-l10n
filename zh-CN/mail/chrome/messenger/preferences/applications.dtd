@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "选择…">
 <!ENTITY chooseFolderMac.accesskey    "C">
+
+<!ENTITY attachments.incoming.label   "接收">
+<!ENTITY attachments.outgoing.label   "发送">
+
+<!ENTITY addCloudFileAccount.label        "添加">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "添加一个新的“文件链接”存储服务">
+<!ENTITY removeCloudFileAccount.label     "移除">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "您需要授权才能看到此存储服务的设置。">
+<!ENTITY authRequired.button.label        "授权">
+<!ENTITY authRequired.button.accesskey    "U">
+
+<!ENTITY enableCloudFileAccountOffer.label "大于此数值的文件提议分享：">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

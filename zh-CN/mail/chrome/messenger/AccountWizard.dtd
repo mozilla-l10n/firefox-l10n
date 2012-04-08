@@ -32,22 +32,10 @@
 <!ENTITY emailLabel.label "电子邮件地址:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "服务器信息">
+<!ENTITY incomingTitle.label "接收服务器信息">
 <!ENTITY incomingServerTypeDesc.label "选择您使用的接收服务器类型。">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "输入接收服务器名。（例如，&quot;pop.netscape.net&quot;）">
-<!ENTITY incomingServerLabel.label "接收服务器:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "输入新闻 (NNTP) 服务器名。（例如，&quot;news.netscape.net&quot;。）">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "输入发送服务器 (SMTP) 名。（例如，&quot;smtp.netscape.net&quot;）">
-<!ENTITY smtpServerLabel.label "外发服务器:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "新闻组服务器:">
-<!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,6 +48,29 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "默认：">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "输入接收服务器名。（例如，&quot;pop.netscape.net&quot;）">
+<!ENTITY incomingServer.label "接收服务器:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "输入邮件服务商给你的收信用户名（例如, &quot;jsmith&quot;）。">
+<!ENTITY incomingUsername.label "用户名：">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "输入新闻 (NNTP) 服务器名。（例如，&quot;news.netscape.net&quot;。）">
+<!ENTITY newsServerLabel.label "新闻组服务器:">
+<!ENTITY newsServerLabel.accesskey "S">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "发信服务器信息">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "输入发送服务器 (SMTP) 名。（例如，&quot;smtp.netscape.net&quot;）">
+<!ENTITY outgoingServer.label "外发服务器:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "请输入您的电子邮件服务提供者提供给您的外发用户名 （通常即为您的接收用户名）。">
+<!ENTITY outgoingUsername.label "外发用户名：">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -71,18 +82,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "将使用您当前的外发服务器(SMTP)， &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot; ，将会被使用。">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "用户名 ">
-<!ENTITY usernameDesc.label "请输入您的电子邮件服务提供者提供给您的接收用户名。">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "（例如，&quot;jsmith&quot;）">
-<!ENTITY usernameLabel.label "接收用户名:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "请输入您的电子邮件服务提供者提供给您的外发用户名 （通常即为您的接收用户名）。">
-<!ENTITY usernameSmtpLabel.label "外发用户名：">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
