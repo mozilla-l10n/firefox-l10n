@@ -7,7 +7,7 @@
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; trenutno nema pohranjenih starih razgovora za ovaj kontakt.">
 <!ENTITY chat.noAccount.title             "Niste još postavili račun razgovora.">
 <!ENTITY chat.noAccount.description       "Dozvolite da vas &brandShortName; vodi kroz proces postavljanja vašeg računa za razgovor.">
-<!ENTITY chat.accountWizard.button       "Započmi">
+<!ENTITY chat.accountWizard.button       "Započni">
 <!ENTITY chat.noConnectedAccount.title             "Vaši računi za razgovor nisu povezani.">
 <!ENTITY chat.noConnectedAccount.description       "Možete ih povezati iz okvira 'Status razgovora':">
 <!ENTITY chat.showAccountManager.button       "Prikaži status razgovora">
@@ -16,7 +16,7 @@
 <!ENTITY chat.previousConversations    "Prethodni razgovori:">
 <!ENTITY chat.ongoingConversation      "Razgovor u tijeku">
 
-<!ENTITY openConversationCmd.label     "Započmi razgovor">
+<!ENTITY openConversationCmd.label     "Započni razgovor">
 <!ENTITY openConversationCmd.accesskey "Z">
 <!ENTITY closeConversationCmd.label    "Zatvori razgovor">
 <!ENTITY closeConversationCmd.accesskey "Z">
@@ -25,11 +25,11 @@
 <!ENTITY deleteCmd.label               "Ukloni kontakt">
 <!ENTITY deleteCmd.accesskey           "U">
 
-<!ENTITY openConversationButton.tooltip  "Započmi razgovor">
+<!ENTITY openConversationButton.tooltip  "Započni razgovor">
 <!ENTITY closeConversationButton.tooltip "Zatvori razgovor">
 
 <!ENTITY addBuddyButton.label          "Dodaj kontakt">
-<!ENTITY joinChatButton.label          "Započmi razgovor">
+<!ENTITY joinChatButton.label          "Započni razgovor">
 <!ENTITY chatAccountsButton.label      "Prikaži račune">
 
 <!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
