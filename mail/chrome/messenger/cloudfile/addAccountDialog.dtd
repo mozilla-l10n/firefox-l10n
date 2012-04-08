@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Nastavitev veze za datoteke">
+<!ENTITY addAccountDialog.menuTitle "Izberite spletno storitev za shranjevanje podatkov">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Ime računa:">
+<!ENTITY addAccountDialog.noAccountText "Žal trenutna različica &brandShortName; dovoljuje le en račun za vsako spletno storitev za shranjevanje podatkov.">
+<!ENTITY addAccountDialog.createAccountText "">
+<!ENTITY addAccountDialog.authorizing "Preverjanje dovoljenja ...">
+<!ENTITY addAccountDialog.error "Med odpiranjem računa je prišlo do napake!">
+<!ENTITY addAccountDialog.acceptButton.label "Uredite račun">
