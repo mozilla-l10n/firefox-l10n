@@ -13,7 +13,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Shërbyes">
-<!ENTITY serverType.main.label      "Shërbyes &syncBrand.fullName.label;-u">
+<!ENTITY serverType.default.label      "Parazgjedhje: Shërbyes Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Përdorni një shërbyes vetjak…">
 <!ENTITY signIn.account2.label      "Llogari">
 <!ENTITY signIn.account2.accesskey  "L">

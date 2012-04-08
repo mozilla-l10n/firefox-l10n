@@ -37,50 +37,6 @@
 <!ENTITY editMenu.label               "Përpunoni">
 <!ENTITY editMenu.accesskey           "P">
 
-<!ENTITY undoCmd.label                "Zhbëje">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "Z">
-
-<!ENTITY redoCmd.label                "Ribëje">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "Prije">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "P">
-
-<!ENTITY copyCmd.label                "Kopjoje">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Ngjite">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "t">
-
-<!ENTITY selectAllCmd.label           "Përzgjidhe Krejt">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "ë">
-
-<!ENTITY findCmd.label                "Gjeni…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "G">
-
-<!ENTITY findAgainCmd.label           "Gjejeni Sërish…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "G">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Kaloni te rreshti…">
-<!ENTITY gotoLineCmd.key              "K">
-<!ENTITY gotoLineCmd.accesskey        "K">
-
 <!ENTITY run.label                    "Xhiroje">
 <!ENTITY run.accesskey                "X">
 <!ENTITY run.key                      "r">
@@ -135,3 +91,15 @@
   -  the same name in browser.dtd.
   -->
 <!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY documentationLink.label      "Ndihmë te MDN për Fletën e Papastër">
+<!ENTITY documentationLink.accesskey  "N">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Ndihmë">
+<!ENTITY helpMenu.accesskey           "N">
+<!ENTITY helpMenuWin.label            "Ndihmë">
+<!ENTITY helpMenuWin.accesskey        "N">
+

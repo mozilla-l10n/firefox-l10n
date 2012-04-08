@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Pllaka">
 <!ENTITY center.label               "Qendër">
 <!ENTITY stretch.label              "Tendosur">
+<!ENTITY fill.label                 "Mbushe">
+<!ENTITY fit.label                  "Sa e Nxë">
 <!ENTITY preview.label              "Paraparje">
 <!ENTITY color.label                "Ngjyrë:">
 <!ENTITY setDesktopBackground.title "Rregulloni Sfond Desktopi">

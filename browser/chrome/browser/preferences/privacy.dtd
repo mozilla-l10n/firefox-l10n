@@ -36,9 +36,6 @@
 <!ENTITY  rememberSearchForm.label       "Mba mend historik shfletimesh dhe formularësh">
 <!ENTITY  rememberSearchForm.accesskey   "u">
 
-<!ENTITY  rememberDownload.label         "Mba mend historik shkarkimesh">
-<!ENTITY  rememberDownload.accesskey     "h">
-
 <!ENTITY  clearOnCloseSettings.label     "Rregullime…">
 <!ENTITY  clearOnCloseSettings.accesskey "R">
 
@@ -76,5 +73,5 @@
 <!ENTITY  privateBrowsingPermanent2.label "Përdor përherë mënyrën e shfletimit vetjak">
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "Mba mend historikun tim të shfletimit">
-<!ENTITY  rememberHistory.accesskey  "t">
+<!ENTITY  rememberHistory2.label      "Mba mend historikun tim të shfletimit dhe shkarkimeve">
+<!ENTITY  rememberHistory2.accesskey  "t">

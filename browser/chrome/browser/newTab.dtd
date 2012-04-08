@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Skedë e Re">
-
-<!ENTITY newtab.show "Shfaq Faqen e Skedës së Re">
-<!ENTITY newtab.hide "Fshihe Faqen e Skedës së Re">
-<!ENTITY newtab.reset "Ricaktoni Faqen e Skedës së Re">
