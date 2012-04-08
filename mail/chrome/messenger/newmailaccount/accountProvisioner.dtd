@@ -1,5 +1,5 @@
 <!ENTITY window.title "欢迎使用 &brandShortName;">
-<!ENTITY header.label "要给 &brandShortName; 设置新的电子邮件地址？">
+<!ENTITY header2.label "需要一个新的电子邮件地址吗？">
 <!ENTITY other.languages "我们仅显示您所在区域的地址提供商。点击此处即可查看全部提供商。">
 <!ENTITY error.line1 "对不起，我们无法找到任何推荐的电子邮件地址。">
 <!ENTITY error.line2 "您可以尝试搜索昵称或者其他词语来找到更多电子邮件">

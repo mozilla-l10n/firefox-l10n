@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label    "在线的联系人">
+<!ENTITY offlineContactsHeader.label   "离线的联系人">
+<!ENTITY conversationsHeader.label     "对话">
+<!ENTITY searchResultConversation.label "搜索结果">
+<!ENTITY chat.noConv.title             "对话会显示在这里。">
+<!ENTITY chat.noConv.description       "使用左侧的联系人列表开始一次对话。">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; 目前没有存储任何以前与此联系人的对话。">
+<!ENTITY chat.noAccount.title             "您还没有设置聊天帐号。">
+<!ENTITY chat.noAccount.description       "让 &brandShortName; 引导您完成设置您的聊天帐号的流程。">
+<!ENTITY chat.accountWizard.button       "入门">
+<!ENTITY chat.noConnectedAccount.title             "您的聊天帐号没有连接。">
+<!ENTITY chat.noConnectedAccount.description       "您可以从“聊天状态”对话框联系他们：">
+<!ENTITY chat.showAccountManager.button       "显示聊天状态">
+
+<!ENTITY chat.participants             "参与者：">
+<!ENTITY chat.previousConversations    "以前的对话：">
+<!ENTITY chat.ongoingConversation      "正在进行的对话">
+
+<!ENTITY openConversationCmd.label     "开始一个对话">
+<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY closeConversationCmd.label    "关闭对话">
+<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY aliasCmd.label                "重命名">
+<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY deleteCmd.label               "移除联系人">
+<!ENTITY deleteCmd.accesskey           "v">
+
+<!ENTITY openConversationButton.tooltip  "开始一个对话">
+<!ENTITY closeConversationButton.tooltip "关闭对话">
+
+<!ENTITY addBuddyButton.label          "添加联系人">
+<!ENTITY joinChatButton.label          "加入聊天">
+<!ENTITY chatAccountsButton.label      "显示帐号">
+
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllChatMessages.label.base "搜索所有对话… #1">
+
+<!ENTITY status.available          "可用">
+<!ENTITY status.unavailable        "不可用">
+<!ENTITY status.offline            "脱机">
+
+<!ENTITY openLinkCmd.label            "打开链接…">
+<!ENTITY openLinkCmd.accesskey        "O">

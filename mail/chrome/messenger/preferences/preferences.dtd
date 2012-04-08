@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "常规">
 <!ENTITY paneDisplay.title        "显示">
 <!ENTITY paneComposition.title    "编写">
+<!ENTITY paneChat.title           "聊天">
 <!ENTITY paneAttachments.title    "附件">
 <!ENTITY paneSecurity.title       "安全">
 <!ENTITY paneAdvanced.title       "高级">

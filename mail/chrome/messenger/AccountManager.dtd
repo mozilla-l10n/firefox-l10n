@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "添加邮件帐户…">
 <!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "添加聊天帐户…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "添加其他账户…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "设置为默认帐户">
