@@ -459,10 +459,16 @@
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Shqyrtoje">
-<!ENTITY inspectButton.accesskey      "q">
 <!ENTITY inspectCloseButton.tooltiptext "Mbylleni Shqyrtuesin">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopjo HTML-në e Brendshme">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "B">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopjo HTML-në e Jashtme">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "J">
+
+<!ENTITY inspectorHTMLDelete.label          "Fshije Nyjen">
+<!ENTITY inspectorHTMLDelete.accesskey      "F">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -557,6 +563,19 @@ can reach it easily. -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Mbylleni Shtyllën e Shtesave">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "Panel HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
+
 
 <!ENTITY getMoreDevtoolsCmd.label        "Merrni Më Tepër Mjete">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
