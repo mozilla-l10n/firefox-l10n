@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Lastnosti računa">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "Splošno">
+<!ENTITY account.advanced              "Dodatne možnosti">
+<!ENTITY account.name                  "Uporabniško ime:">
+<!ENTITY account.password              "Geslo:">
+<!ENTITY account.alias                 "Drugo ime:">
+<!ENTITY account.newMailNotification   "Obveščaj o novi pošti">
+<!ENTITY account.autojoin              "Samodejno združeni kanali:">
+<!ENTITY account.proxySettings.caption "Nastavitve za posrednika:">
+<!ENTITY account.proxySettings.change.label     "Spremeni ...">
+<!ENTITY account.proxySettings.change.accessKey "K">
