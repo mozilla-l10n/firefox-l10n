@@ -1,6 +1,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -37,30 +43,6 @@
 <!ENTITY editMenu.label               "Uredi">
 <!ENTITY editMenu.accesskey           "e">
 
-<!ENTITY undoCmd.label                "Vrati">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "V">
-
-<!ENTITY redoCmd.label                "Ponovi">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "P">
-
-<!ENTITY cutCmd.label                 "Izreži">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "ž">
-
-<!ENTITY copyCmd.label                "Kopiraj">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Zalijepi">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "p">
-
-<!ENTITY selectAllCmd.label           "Označi sve">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "a">
-
 <!ENTITY run.label                    "Pokreni">
 <!ENTITY run.accesskey                "r">
 <!ENTITY run.key                      "r">
@@ -68,26 +50,6 @@
 <!ENTITY inspect.label                "Ispitaj">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
-
-<!ENTITY findCmd.label                "Traži…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "T">
-
-<!ENTITY findAgainCmd.label           "Ponovno traži…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "P">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Idi na redak…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "I">
 
 <!ENTITY display.label                "Prikaži">
 <!ENTITY display.accesskey            "k">
@@ -114,6 +76,17 @@
   -->
 <!ENTITY browserContext.label         "Preglednik">
 <!ENTITY browserContext.accesskey     "g">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Pomoć">
+<!ENTITY helpMenu.accesskey           "m">
+<!ENTITY helpMenuWin.label            "Pomoć">
+<!ENTITY helpMenuWin.accesskey        "m">
+
+<!ENTITY documentationLink.label      "Scratchpad pomoć pri MDN-u">
+<!ENTITY documentationLink.accesskey  "d">
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
