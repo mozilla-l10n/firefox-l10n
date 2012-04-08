@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "订阅收取点">
-<!ENTITY subscriptionDesc.label "说明：移除或者改变收取点的文件夹不会影响已下载的文章。">
-<!ENTITY feedTitle.label "标题:">
-<!ENTITY location.label  "地址:">
+<!ENTITY feedSubscriptions.label     "订阅收取点">
+<!ENTITY subscriptionDesc.label      "说明：移除或者改变收取点的文件夹不会影响已下载的文章。">
 
-<!ENTITY button.addFeed.label       "添加">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "编辑">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "移除">
-<!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "导入">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "导出">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY feedTitle.label             "标题:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "收取点网址：">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "输入要添加的有效的收取点网址">
+
+<!ENTITY feedFolder.label            "文章存储在：">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "显示文章概述而不载入全部网页。">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY validateText.label          "检查验证并获取一个有效的网址。">
+
+<!ENTITY button.addFeed.label        "添加">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "编辑">
+<!ENTITY button.editFeed.accesskey   "U">
+<!ENTITY button.removeFeed.label     "移除">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label     "导入">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "导出">
+<!ENTITY button.exportOPML.accesskey "X">
+
+<!ENTITY cmd.close.commandKey        "w">

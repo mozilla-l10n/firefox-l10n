@@ -9,7 +9,7 @@
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "清空列表">
-<!ENTITY cmd.clearList.tooltip           "从列表中移除已完成、已取消或已失败下载项">
+<!ENTITY cmd.clearList.tooltip           "移除列表中已完成、已取消以及已失败的下载项">
 <!ENTITY cmd.clearList.accesskey         "C">
 
 <!ENTITY col.name.label                  "类别">

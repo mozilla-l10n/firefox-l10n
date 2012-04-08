@@ -43,6 +43,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "增量式垃圾收集器">
 
+<!ENTITY aboutSupport.libraryVersionsTitle "库版本">
+
 <!ENTITY aboutSupport.installationHistoryTitle "安装历史记录">
 <!ENTITY aboutSupport.updateHistoryTitle "更新历史">
 

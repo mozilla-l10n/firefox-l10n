@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; 需要重启以启用插件。">
 
 <!ENTITY missingPlugin                                       "需要一个插件来显示此内容。">
-<!ENTITY clickToPlayPlugin                                   "轻击此处即可激活插件。">
+<!ENTITY clickToPlayPlugin                                   "单击此处即可激活插件。">
 <!ENTITY disabledPlugin                                      "此插件已禁用。">
 <!ENTITY blockedPlugin.label                                 "为保护您的信息安全，此插件已被阻止">
 

@@ -41,10 +41,10 @@
 <!ENTITY  SSLClientAuthMethod.caption       "客户证书选择">
 
 <!ENTITY pref.ssl.title                     "安全套接字层 (SSL)">
-<!ENTITY enable.ssl3                        "启用SSL版本3">
-<!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls                         "启用TLS">
-<!ENTITY enable.tls.accesskey               "T">
+<!ENTITY enable.ssl30.label                 "启用 SSL 3.0">
+<!ENTITY enable.ssl30.accesskey             "3">
+<!ENTITY enable.tls10.label                 "启用 TLS 1.0">
+<!ENTITY enable.tls10.accesskey             "T">
 
 <!ENTITY warn.description                   "&brandShortName; 能警告您关于您查看的网页的安全信息。让 &brandShortName; 显示警告或者请求权限，当: ">
 <!ENTITY warn.enteringsecure                "载入支持加密的页">
