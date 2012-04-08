@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Feed-Einstellungen">
+
+<!ENTITY feedFolder.label         "Artikel speichern in: ">
+<!ENTITY feedFolder.accesskey     "s">
+
+<!ENTITY feedLocation.label       "Feed-URL: ">
+<!ENTITY feedLocation.accesskey   "F">
+
+<!ENTITY choosethisfolder.label   "diesen Ordner benutzen">
+
+<!ENTITY quickMode.label          "Artikel-Zusammenfassung anstelle der Webseite anzeigen">
+<!ENTITY quickMode.accesskey      "Z">
+
+<!ENTITY copyLinkCmd.label        "Link-Adresse kopieren">
+<!ENTITY copyLinkCmd.accesskey    "L">
+
+<!ENTITY pasteLinkCmd.label       "Einfügen">
+<!ENTITY pasteLinkCmd.accesskey   "E">
