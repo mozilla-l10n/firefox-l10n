@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey  "K">
 <!ENTITY addMailAccountButton.label      "Lisa e-posti konto…">
 <!ENTITY addMailAccountButton.accesskey  "L">
+<!ENTITY addIMAccountButton.label        "Lisa kiirsuhtluse konto…">
+<!ENTITY addIMAccountButton.accesskey    "k">
 <!ENTITY addOtherAccountButton.label     "Lisa muu konto…">
 <!ENTITY addOtherAccountButton.accesskey "i">
 <!ENTITY setDefaultButton.label          "Määra vaikeväärtuseks">

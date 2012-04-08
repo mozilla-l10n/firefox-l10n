@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label           "&brandShortName;i käivitumisel:">
+<!ENTITY  startupAction.accesskey       "k">
+<!ENTITY  startupOffline.label          "jäetakse kiirsuhtluse kontod ühendamata">
+<!ENTITY  startupConnectAuto.label      "ühendatakse kiirsuhtluse kontod automaatselt">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Kontaktidele antakse jõudeolekust teada">
+<!ENTITY  reportIdleAfter.accesskey     "o">
+<!ENTITY  idleTime                      "minuti möödumisel">
+
+<!ENTITY  andSetStatusToAway.label      "ning eemaloleku teateks määratakse järgnev:">
+<!ENTITY  andSetStatusToAway.accesskey  "n">
+
+<!ENTITY  sendTyping.label              "Teist poolt teavitatakse teksti sisestamisest vestlustes">
+<!ENTITY  sendTyping.accesskey          "T">
