@@ -41,7 +41,7 @@
 
 <!ENTITY ListType.label "Vrsta popisa">
 <!ENTITY bulletStyle.label "Stil grafičke oznake:">
-<!ENTITY startingNumber.label "Započmi na:">
+<!ENTITY startingNumber.label "Započni na:">
 <!ENTITY startingNumber.accessKey "Z">
 <!ENTITY none.value "Niti jedan">
 <!ENTITY bulletList.value "Popis sa grafička oznaka (bez brojeva)">
