@@ -8,5 +8,5 @@
 <!ENTITY account.newMailNotification   "Obavjesti o novoj pošti">
 <!ENTITY account.autojoin              "Automatsko spojeni kanali:">
 <!ENTITY account.proxySettings.caption "Proxy postavke:">
-<!ENTITY account.proxySettings.change.label     "Promjeni…">
+<!ENTITY account.proxySettings.change.label     "Promijeni…">
 <!ENTITY account.proxySettings.change.accessKey "P">
