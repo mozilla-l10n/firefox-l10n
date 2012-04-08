@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
-<!ENTITY serverType.main.label      "Server da &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Standard: Server da Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Utilisar in agen server…">
 <!ENTITY signIn.account2.label      "Conto">
 <!ENTITY signIn.account2.accesskey  "C">

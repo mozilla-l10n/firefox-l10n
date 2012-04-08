@@ -17,6 +17,10 @@
 <!ENTITY aboutSupport.appBasicsName "Num">
 <!ENTITY aboutSupport.appBasicsVersion "Versiun">
 <!ENTITY aboutSupport.appBasicsProfileDir "Ordinatur dal profil">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Ordinatur dal profil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plug-ins activads">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
@@ -38,6 +42,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Valur">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiuns da bibliotecas">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Cronologia da l'installaziun">
 <!ENTITY aboutSupport.updateHistoryTitle "Cronologia d'actualisaziun">
