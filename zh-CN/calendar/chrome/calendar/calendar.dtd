@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "今日事件">
 <!ENTITY calendar.events.filter.future.label "全部未来事件">
 <!ENTITY calendar.events.filter.current.label "已选日期">
-<!ENTITY calender.events.filter.currentview.label "当前视图中的事件">
+<!ENTITY calendar.events.filter.currentview.label "当前视图中的事件">
 <!ENTITY calendar.events.filter.next7Days.label "后7天事件">
 <!ENTITY calendar.events.filter.next14Days.label "后14天事件">
 <!ENTITY calendar.events.filter.next31Days.label "后31天事件">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "D">
 <!ENTITY calendar.context.postpone.1week.label      "1 周">
 <!ENTITY calendar.context.postpone.1week.accesskey  "W">
+
+<!ENTITY calendar.copylink.label       "复制链接地址">
+<!ENTITY calendar.copylink.accesskey   "C">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
