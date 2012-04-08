@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Poslužitelj">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; poslužitelj">
+<!ENTITY serverType.default.label      "Zadano: Mozilla &syncBrand.fullName.label; poslužitelj">
 <!ENTITY signIn.account2.label      "Korisnički račun">
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Lozinka">

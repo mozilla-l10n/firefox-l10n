@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Sigurni način rada">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; se neočekivano zatvorio prilikom pokretanja">
+<!ENTITY autoSafeModeDescription.label "Iskreno se ispričavamo zbog neugodnosti. &brandShortName; je sada pokrenut u sigurnom načinu rada, koji privremeno onemogućuje vaše prilagođene postavke, teme i dodatke.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; je pokrenut u Sigurnom načinu rada, koji privremeno onemogućava vaše postavke, teme i dodatke.">
 <!ENTITY safeModeDescription2.label   "Dio ili sve promjene u nastavku možete učiniti trajnima:">
 
