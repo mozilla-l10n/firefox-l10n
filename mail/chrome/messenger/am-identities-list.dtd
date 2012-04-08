@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey   "E">
 <!ENTITY identitiesListDelete.label     "Kustuta">
 <!ENTITY identitiesListDelete.accesskey "K">
+<!ENTITY identitiesListClose.label      "Sulge">
+<!ENTITY identitiesListClose.accesskey  "S">

@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label                 "Fail(id)...">
 <!ENTITY attachFileCmd.accesskey             "F">
 <!ENTITY attachFileCmd.key                   "A">
+<!ENTITY attachCloudCmd.label                "Fail(id) kasutades teenust">
+<!ENTITY attachCloudCmd.accesskey            "i">
 <!ENTITY attachPageCmd.label                 "Veebileht...">
 <!ENTITY attachPageCmd.accesskey             "e">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -68,11 +70,11 @@
 <!ENTITY pasteCmd.accesskey                  "A">
 <!ENTITY pasteNoFormattingCmd.key            "V">
 <!ENTITY pasteAsQuotationCmd.key             "o">
-<!ENTITY editRewrapCmd.label                 "Teisenda tavatekstiks">
-<!ENTITY editRewrapCmd.key                   "R">
 <!ENTITY editRewrapCmd.accesskey             "T">
 <!ENTITY deleteCmd.label                     "Kustuta">
 <!ENTITY deleteCmd.accesskey                 "u">
+<!ENTITY editRewrapCmd.label                 "Teisenda tavatekstiks">
+<!ENTITY editRewrapCmd.key                   "R">
 <!ENTITY renameAttachmentCmd.label           "Nimeta manus ümber…">
 <!ENTITY renameAttachmentCmd.accesskey       "e">
 <!ENTITY selectAllCmd.label                  "Vali kõik">
@@ -268,8 +270,16 @@
 <!ENTITY renameAttachment.accesskey          "N">
 <!ENTITY selectAll.label                     "Vali kõik">
 <!ENTITY selectAll.accesskey                 "l">
-<!ENTITY attachFile.label                    "Lisa manus(ed)...">
+<!ENTITY attachFile.label                    "Lisa fail(id)...">
 <!ENTITY attachFile.accesskey                "i">
+<!ENTITY attachCloud.label                   "Lisa fail(id) kasutades teenust…">
+<!ENTITY attachCloud.accesskey               "k">
+<!ENTITY convertCloud.label                  "Liiguta pilve või pilvest tavaliseks manuseks…">
+<!ENTITY convertCloud.accesskey              "p">
+<!ENTITY cancelUpload.label                  "Katkesta üleslaadimine">
+<!ENTITY cancelUpload.accesskey              "t">
+<!ENTITY convertRegularAttachment.label      "Tavaline manus">
+<!ENTITY convertRegularAttachment.accesskey  "v">
 <!ENTITY attachPage.label                    "Lisa veebileht...">
 <!ENTITY attachPage.accesskey                "S">
 
