@@ -2,9 +2,9 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanu
-  težav. Če iščete odgovore na splošna vprašanja o brskalniku
-  &brandShortName;, obiščite <a id='supportLink'>strani s podporo</a>.
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Razširitve">
@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Osnovni podatki">
 <!ENTITY aboutSupport.appBasicsName "Ime">
 <!ENTITY aboutSupport.appBasicsVersion "Različica">
-<!ENTITY aboutSupport.appBasicsProfileDir "Mapa profila">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Imenik s profilom">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Mapa s profilom">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogočeni vstavki">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitev gradnje">
 <!ENTITY aboutSupport.appBasicsUserAgent "Uporabniški agent">
@@ -24,20 +30,24 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Poraba pomnilnika">
 
 <!ENTITY aboutSupport.showDir.label "Odpri mapo">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.showDir.label. This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Pokaži v Finderju">
+<!ENTITY aboutSupport.showMac.label "Prikaži v Finderju">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "Pokaži mapo">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Pomembne sremenjene nastavitve">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Pomembne spremenjene nastavitve">
 <!ENTITY aboutSupport.modifiedPrefsName "Ime">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrednost">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementalen GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Različice knjižnic">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Zgodovina namestitev">
 <!ENTITY aboutSupport.updateHistoryTitle "Zgodovina posodobitev">
