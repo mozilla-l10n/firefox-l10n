@@ -71,6 +71,19 @@
 <!ENTITY selectHeaderType.label "Zvolte typ hlavičky odpovědi:">
 <!ENTITY selectHeaderType.accesskey "e">
 <!ENTITY noReplyOption.label "Bez hlavičky">
+<!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the 
+  mailnews.reply_header_authorwrote preference. [Author] needs to be 
+  translated. -->
 <!ENTITY authorWroteOption.label "[Autor] napsal:">
-<!ENTITY onDateWroteOption.label "[Dne] [autor] napsal:">
-<!ENTITY authorOnDateWroteOption.label "[Autor] [dne] napsal:">
+<!-- LOCALIZATION NOTE (onDateAuthorWroteOption.label): this is tied to the 
+  combination of the mailnews.reply_header_ondate(On [date]), 
+  mailnews.reply_header_separator (a comma in this case) and 
+  mailnews.reply_header_authorwrote([Author] wrote) preferences. [date] and 
+  [Author] need to be translated, and the correct  separator put in. -->
+<!ENTITY onDateAuthorWroteOption.label "[Dne] [autor] napsal:">
+<!-- LOCALIZATION NOTE (authorWroteOnDateOption.label): this is tied to the 
+  combination of the mailnews.reply_header_authorwrote([Author] wrote), 
+  mailnews.reply_header_separator (a comma in this case), and 
+  mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
+  need to be translated, and the correct separator put in. -->
+<!ENTITY authorWroteOnDateOption.label "[Autor] napsal [dne]:">
