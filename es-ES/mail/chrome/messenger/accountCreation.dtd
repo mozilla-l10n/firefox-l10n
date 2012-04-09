@@ -48,8 +48,8 @@
 <!ENTITY technicaldetails.label "Detalles técnicos">
 <!ENTITY confirmWarning.label "Entiendo los riesgos.">
 <!ENTITY confirmWarning.accesskey "E">
-<!ENTITY createAccount.label "Crear cuenta">
-<!ENTITY createAccount.accesskey "u">
+<!ENTITY doneAccount.label "Hecho">
+<!ENTITY doneAccount.accesskey "H">
 <!ENTITY changeSettings.label "Cambiar configuración">
 <!ENTITY changeSettings.accesskey "b">
 <!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Thunderbird para más información.">
