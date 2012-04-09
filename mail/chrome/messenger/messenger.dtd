@@ -369,10 +369,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToListMsgCmd.label "Responder á lista">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
 <!ENTITY replyToListMsgCmd.key  "t">
-<!ENTITY forwardMsgCmd.label "Reencamiñar">
+<!ENTITY forwardMsgCmd.label "Reenviar">
 <!ENTITY forwardMsgCmd.accesskey "R">
 <!ENTITY forwardMsgCmd.key  "l">
-<!ENTITY forwardAsMenu.label "Reencamiñar como">
+<!ENTITY forwardAsMenu.label "Reenviar como">
 <!ENTITY forwardAsMenu.accesskey "r">
 <!ENTITY forwardAsInline.label "Inserida">
 <!ENTITY forwardAsInline.accesskey "s">
@@ -514,7 +514,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Responder a todos">
 <!ENTITY replyListButton.label "Responder á lista">
-<!ENTITY forwardButton.label "Reencamiñar">
+<!ENTITY forwardButton.label "Reenviar">
 <!ENTITY fileButton.label "Ficheiro">
 <!ENTITY archiveButton.label "Arquivar">
 <!ENTITY nextButton.label "Seguinte">
@@ -553,7 +553,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyButton.tooltip "Responder á mensaxe">
 <!ENTITY replyAllButton.tooltip "Responder ao remitente e a todos os destinatarios">
 <!ENTITY replyListButton.tooltip "Responder á lista de correo">
-<!ENTITY forwardButton.tooltip "Reencamiñar mensaxe seleccionada">
+<!ENTITY forwardButton.tooltip "Reenviar a mensaxe seleccionada">
 <!ENTITY fileButton.tooltip "Gardar mensaxe seleccionada">
 <!ENTITY archiveButton.tooltip "Arquivar mensaxes seleccionadas">
 <!ENTITY nextButton.tooltip "Ir á seguinte mensaxe non lida">
@@ -698,9 +698,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplyList.label "Responder á lista">
 <!ENTITY contextReplyList.accesskey "l">
-<!ENTITY contextForward.label "Reencamiñar">
+<!ENTITY contextForward.label "Reenviar">
 <!ENTITY contextForward.accesskey "r">
-<!ENTITY contextForwardAsAttachment.label "Reencamiñar como anexos">
+<!ENTITY contextForwardAsAttachment.label "Reenviar como anexos">
 <!ENTITY contextForwardAsAttachment.accesskey "x">
 <!ENTITY contextMoveMsgMenu.label "Mover a">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
