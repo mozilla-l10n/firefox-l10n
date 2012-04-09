@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Գլխավորը">
 <!ENTITY paneDisplay.title        "Տեսքը">
 <!ENTITY paneComposition.title    "Նամակը">
+<!ENTITY paneChat.title           "Զրույց">
 <!ENTITY paneAttachments.title    "Կցորդներ">
 <!ENTITY paneSecurity.title       "Անվտանգությունը">
 <!ENTITY paneAdvanced.title       "Ընդլայնված">

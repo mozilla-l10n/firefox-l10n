@@ -42,7 +42,7 @@
 <!ENTITY safeModeDescription.label        "&brandShortName; այժմ գործում է անվտանգ եղանակում, որը ժամանակավորապես անջատում է Ձեր անհատական կարգավորումները, թեմաներն ու հավելումները:">
 <!ENTITY safeModeDescription2.label       "Դուք կարող էք այս փոփոխությունների մի մասը կամ ամբողջը դարձնել մշտական`">
 
-<!ENTITY disableAddons.label              "Անջատել բոլոր օժանդակիչները">
+<!ENTITY disableAddons.label              "Անջատել բոլոր հավելումները">
 <!ENTITY disableAddons.accesskey          "D">
 
 <!ENTITY resetToolbars.label              "Ետարկել գործիքները և կառավարիչները">
