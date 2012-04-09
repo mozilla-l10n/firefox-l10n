@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; Startside">
 
 <!ENTITY abouthome.searchEngineButton.label "Søg">
-
-<!ENTITY abouthome.aboutMozilla "Om Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Det er nemt at tilpasse din Firefox til præcis dine behov. <a>Vælg mellem tusinder af tilføjelser</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Opsæt Sync">
-<!ENTITY abouthome.pairDevice.label  "Tilføj enhed">
+<!ENTITY abouthome.bookmarksButton.label "Bogmærker">
+<!ENTITY abouthome.historyButton.label   "Historik">
+<!ENTITY abouthome.settingsButton.label  "Indstillinger">
+<!ENTITY abouthome.addonsButton.label    "Tilføjelser">
+<!ENTITY abouthome.appsButton.label      "Markedsplads">
+<!ENTITY abouthome.downloadsButton.label "Filhentning">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
