@@ -4,12 +4,12 @@
 <!ENTITY feedTitle.accesskey "T">
 <!ENTITY feedLocation.label "URL per il feed:">
 <!ENTITY feedLocation.accesskey "U">
-<!ENTITY feedLocation.placeholder "Inserire un URL di Feed valido da aggiungere">
+<!ENTITY feedLocation.placeholder "Inserire un URL valido per il feed da aggiungere">
 <!ENTITY feedFolder.label "Memorizza gli articoli su:">
 <!ENTITY feedFolder.accesskey "o">
 <!ENTITY quickMode.label "Mostra il sommario dell'articolo invece di caricare la pagina web">
 <!ENTITY quickMode.accesskey "r">
-<!ENTITY validateText.label "Controllare la correttezza e ottenere un url valido.">
+<!ENTITY validateText.label "Controlla la correttezza e ottieni un url valido.">
 <!ENTITY button.addFeed.label "Aggiungi">
 <!ENTITY button.addFeed.accesskey "A">
 <!ENTITY button.editFeed.label "Modifica">

@@ -241,7 +241,7 @@
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Converti in…">
 <!ENTITY convertCloud.accesskey "C">
-<!ENTITY cancelUpload.label "Interrompere invio">
+<!ENTITY cancelUpload.label "Interrompi invio">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Allegato normale">
 <!ENTITY convertRegularAttachment.accesskey "A">
