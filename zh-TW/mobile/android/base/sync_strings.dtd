@@ -70,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '僅支援一個 &syncBrand.fullName.label; 帳號。'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect '救援金鑰不正確，請再試一次。'>
