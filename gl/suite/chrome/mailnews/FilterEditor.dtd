@@ -80,7 +80,7 @@
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mover mensaxe a">
 <!ENTITY copyMessage.label "Copiar mensaxe en">
-<!ENTITY forwardTo.label "Reencamiñar mensaxe para">
+<!ENTITY forwardTo.label "Reenviar mensaxe a">
 <!ENTITY replyWithTemplate.label "Responder co modelo">
 <!ENTITY markMessageRead.label "Marcar como lido">
 <!ENTITY markMessageUnread.label "Marcar como non lido">
