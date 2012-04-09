@@ -5,5 +5,5 @@
 <!ENTITY addAccountDialog.noAccountText "Purtroppo questa versione di &brandShortName; consente solo un account per ogni servizio di archiviazione online.">
 <!ENTITY addAccountDialog.createAccountText "Questa funzione offre la possibilità di inviare allegati di grandi dimensioni utilizzando uno dei servizi di archiviazione online. È possibile connettersi ad un account esistente o crearne uno nuovo.">
 <!ENTITY addAccountDialog.authorizing "Controllo autorizzazione…">
-<!ENTITY addAccountDialog.error "Si è verificato un errore impostando l'account!">
+<!ENTITY addAccountDialog.error "Si è verificato un errore durante la configurazione dell'account!">
 <!ENTITY addAccountDialog.acceptButton.label "Impostazioni account">

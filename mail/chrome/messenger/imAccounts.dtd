@@ -6,12 +6,12 @@
 <!ENTITY accountManager.close.accesskey "C">
 <!ENTITY accountManager.close.commandkey "a">
 <!ENTITY accountManager.noAccount.title "Nessun account configurato">
-<!ENTITY accountManager.noAccount.description "Fare Clic sul pulsante &accountManager.newAccount.label; per far si che &brandShortName; guidi attraverso i passaggi per configurarne uno.">
+<!ENTITY accountManager.noAccount.description "Fare clic sul pulsante &accountManager.newAccount.label; per utilizzare la procedura guidata di  &brandShortName; per la configurazione di un nuovo account.">
 <!ENTITY account.autoSignOn.label "Autenticazione all'avvio">
 <!ENTITY account.autoSignOn.accesskey "A">
-<!ENTITY account.connect.label "Collegare">
+<!ENTITY account.connect.label "Collega">
 <!ENTITY account.connect.accesskey "o">
-<!ENTITY account.disconnect.label "Scollegare">
+<!ENTITY account.disconnect.label "Scollega">
 <!ENTITY account.disconnect.accesskey "o">
 <!ENTITY account.edit.label "Proprietà">
 <!ENTITY account.edit.accesskey "P">
@@ -20,5 +20,5 @@
 <!ENTITY account.cancelReconnection.label "Annulla la riconnessione">
 <!ENTITY account.cancelReconnection.accesskey "a">
 <!ENTITY account.connecting "Connessione…">
-<!ENTITY account.disconnecting "Scollegamento…">
+<!ENTITY account.disconnecting "Disconnessione…">
 <!ENTITY account.disconnected "Non collegato">

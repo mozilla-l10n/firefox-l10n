@@ -508,9 +508,9 @@
 <!ENTITY fileButton.tooltip "Sposta il messaggio selezionato">
 <!ENTITY archiveButton.tooltip "Archivia i messaggi selezionati">
 <!ENTITY nextButton.tooltip "Vai al messaggio successivo non letto">
-<!ENTITY nextMsgButton.tooltip "Passare al messaggio successivo">
+<!ENTITY nextMsgButton.tooltip "Passa al messaggio successivo">
 <!ENTITY previousButton.tooltip "Vai al precedente messaggio non letto ">
-<!ENTITY previousMsgButton.tooltip "Spostarsi al messaggio precedente">
+<!ENTITY previousMsgButton.tooltip "Sposta al messaggio precedente">
 <!ENTITY goForwardButton.tooltip "Avanti di un messaggio">
 <!ENTITY goBackButton.tooltip "Indietro di un messaggio">
 <!ENTITY deleteButton.tooltip "Elimina i messaggi o le cartelle selezionate">
@@ -521,7 +521,7 @@
 <!ENTITY junkButton.tooltip "Segna il messaggio selezionato come posta indesiderata">
 <!ENTITY notJunkButton.tooltip "Rimuovi il marchio posta indesiderata">
 <!ENTITY addressBookButton.tooltip "Apri la rubrica">
-<!ENTITY chatButton.tooltip "Mostrare la scheda della chat">
+<!ENTITY chatButton.tooltip "Mostra scheda della chat">
 <!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
 <!ENTITY addNewTag.label "Nuova etichetta…">
