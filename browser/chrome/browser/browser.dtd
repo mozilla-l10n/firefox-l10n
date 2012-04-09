@@ -414,7 +414,7 @@ can reach it easily. -->
 <!ENTITY sendImageCmd.label           "Send billede…">
 <!ENTITY sendImageCmd.accesskey       "S">
 <!ENTITY sendVideoCmd.label           "Send video…">
-<!ENTITY sendVideoCmd.accesskey       "S">
+<!ENTITY sendVideoCmd.accesskey       "d">
 <!ENTITY sendAudioCmd.label           "Send lyd…">
 <!ENTITY sendAudioCmd.accesskey       "S">
 <!ENTITY copyLinkCmd.label            "Kopier linkadresse">

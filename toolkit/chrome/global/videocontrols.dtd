@@ -22,7 +22,7 @@
 
 <!ENTITY error.aborted "Indlæsning af video stoppet.">
 <!ENTITY error.network "Afspilning af video stoppet på grund af en netværksfejl.">
-<!ENTITY error.decode "Videoen kan ikke afspilles fordi filen er korrupt.">
+<!ENTITY error.decode "Videoen kan ikke afspilles fordi filen er ødelagt.">
 <!ENTITY error.srcNotSupported "Videoformat eller MIME-type understøttes ikke.">
 <!ENTITY error.noSource2 "Ingen videokilde med understøttet MIME-type fundet.">
 <!ENTITY error.generic "Afspilning af video  stoppet på grund af ukendt fejl.">
