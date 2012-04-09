@@ -323,8 +323,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Ответить отправителю">
 <!ENTITY replySenderCmd.accesskey "ь">
-<!ENTITY replyNewsgroupCmd.label "Ответить в группу новостей">
-<!ENTITY replyNewsgroupCmd.accesskey "г">
+<!ENTITY replyNewsgroupCmd2.label "Ответить в группу новостей">
+<!ENTITY replyNewsgroupCmd2.accesskey "г">
 <!ENTITY replyToAllMsgCmd.label "Ответить всем">
 <!ENTITY replyToAllMsgCmd.accesskey "в">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -626,8 +626,8 @@
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Ответить отправителю">
 <!ENTITY contextReplySender.accesskey "О">
-<!ENTITY contextReplyNewsgroup.label "Ответить в группу новостей">
-<!ENTITY contextReplyNewsgroup.accesskey "г">
+<!ENTITY contextReplyNewsgroup2.label "Ответить в группу новостей">
+<!ENTITY contextReplyNewsgroup2.accesskey "г">
 <!ENTITY contextReplyAll.label "Ответить всем">
 <!ENTITY contextReplyAll.accesskey "в">
 <!ENTITY contextReplyList.label "Ответить в рассылку">
