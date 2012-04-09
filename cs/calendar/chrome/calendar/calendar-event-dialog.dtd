@@ -148,8 +148,8 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "A">
 <!ENTITY event.menu.options.link.label "Přidat odkaz…">
 <!ENTITY event.menu.options.link.accesskey "P">
-<!ENTITY event.menu.options.timezone.label "Časová zóna">
-<!ENTITY event.menu.options.timezone.accesskey "z">
+<!ENTITY event.menu.options.timezone2.label "Zobrazit časové zóny">
+<!ENTITY event.menu.options.timezone2.accesskey "Z">
 <!ENTITY event.menu.options.priority2.label "Priorita">
 <!ENTITY event.menu.options.priority2.accesskey "r">
 <!ENTITY event.menu.options.priority.notspecified.label "Není určena">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Vyberte prosím časovou zónu">
+<!ENTITY event.timezone.custom.label "Více časových zón…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label "Obecný">
