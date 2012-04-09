@@ -4,7 +4,7 @@
 <!ENTITY searchResultConversation.label "Rezultat iskanja">
 <!ENTITY chat.noConv.title             "Pogovore se bo prikazovalo tu.">
 <!ENTITY chat.noConv.description       "Uporabite seznam stikov na levi strani, da začnete pogovor.">
-<!ENTITY chat.noPreviousConv.description       "& BrandShortName; trenutno za ta stik nima shranjenih nobenih predhodnih pogovorov.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; trenutno za ta stik nima shranjenih nobenih predhodnih pogovorov.">
 <!ENTITY chat.noAccount.title             "Računa za klepete še niste odprli.">
 <!ENTITY chat.noAccount.description       "Pustite, da vas &brandShortName; vodi skozi postopek priprave vašega računa za klepete.">
 <!ENTITY chat.accountWizard.button       "Začnimo">
@@ -41,7 +41,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllChatMessages.label.base "Preišči vse pogovore ... #1">
+<!ENTITY searchAllChatMessages.label.base "Preišči vse pogovore … #1">
 
 <!ENTITY status.available          "Na razpolago">
 <!ENTITY status.unavailable        "Ni na razpolago">
