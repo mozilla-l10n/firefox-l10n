@@ -10,4 +10,4 @@
 <!ENTITY blocklist.accept.accesskey  "G">
 
 <!ENTITY blocklist.blocked.label     "Blokeret">
-<!ENTITY blocklist.checkbox.label    "Deaktver">
+<!ENTITY blocklist.checkbox.label    "Deaktiver">
