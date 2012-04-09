@@ -27,6 +27,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Ответить отправителю и всем получателям">
 <!ENTITY hdrReplyListButton1.label "Ответить в рассылку">
 <!ENTITY hdrReplyListButton1.tooltip "Ответить в список рассылки">
+<!ENTITY hdrFollowupButton1.label "Ответ в">
+<!ENTITY hdrFollowupButton1.tooltip "Отправить ответ в эту группу новостей">
 <!ENTITY hdrForwardButton1.label "Переслать">
 <!ENTITY hdrForwardButton1.tooltip "Переслать это сообщение">
 <!ENTITY hdrJunkButton1.label "Спам">
