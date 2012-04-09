@@ -2,7 +2,7 @@
 <!ENTITY itemAutoComplete.label              "Enderezos">
 <!ENTITY itemSpellCheck.label                "Ortografía">
 
-<!ENTITY forwardMsg.label                     "Reencamiñar mensaxes:">
+<!ENTITY forwardMsg.label                     "Reenviar mensaxes:">
 <!ENTITY forwardMsg.accesskey                 "e">
 <!ENTITY inline.label                         "Inseridas">
 <!ENTITY asAttachment.label                   "Como anexo">
