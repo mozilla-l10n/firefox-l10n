@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Գրության կարգը">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Նոր փոստարկղ">
+<!ENTITY accountManager.newAccount.accesskey "Ն">
+<!ENTITY accountManager.close.label          "Փակել">
+<!ENTITY accountManager.close.accesskey      "Փ">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "Փ">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Փոստարկղեր չկան">
+<!ENTITY accountManager.noAccount.description "Սեղմեք &accountManager.newAccount.label; կոճակը, որպեսզի &brandShortName;-ը օգնի Ձեզ կարգավորելու հարցում։">
+<!ENTITY account.autoSignOn.label     "Մուտք գործել բացելիս">
+<!ENTITY account.autoSignOn.accesskey "Մ">
+<!ENTITY account.connect.label        "Միանալ">
+<!ENTITY account.connect.accesskey    "Մ">
+<!ENTITY account.disconnect.label     "Անջատվել">
+<!ENTITY account.disconnect.accesskey "Ա">
+<!ENTITY account.edit.label           "Հատկություններ">
+<!ENTITY account.edit.accesskey       "Հ">
+<!ENTITY account.moveup.label         "Վեր">
+<!ENTITY account.movedown.label       "Վար">
+<!ENTITY account.cancelReconnection.label         "Չեղարկել վերամիացումը">
+<!ENTITY account.cancelReconnection.accesskey     "Չ">
+<!ENTITY account.connecting           "Միանում է...">
+<!ENTITY account.disconnecting        "Անջատվում է...">
+<!ENTITY account.disconnected         "Միացած չէ">

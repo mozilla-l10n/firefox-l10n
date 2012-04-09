@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label    "Առցանց">
+<!ENTITY offlineContactsHeader.label   "Անցանց">
+<!ENTITY conversationsHeader.label     "Երկխոսություններ">
+<!ENTITY searchResultConversation.label "Փնտրման արդյունքը">
+<!ENTITY chat.noConv.title             "Երկխոսությունները կցուցադրվեն այստեղ։">
+<!ENTITY chat.noConv.description       "Use the contact list in the left panel to start a conversation.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName;-ը չունի որևէ երկխոսություն։">
+<!ENTITY chat.noAccount.title             "Փոստարկղեր չկան։">
+<!ENTITY chat.noAccount.description       "Let &brandShortName; guide you through the process of setting up your chat account.">
+<!ENTITY chat.accountWizard.button       "Սկիզբը">
+<!ENTITY chat.noConnectedAccount.title             "Your chat accounts are not connected.">
+<!ENTITY chat.noConnectedAccount.description       "You can connect them from the 'Chat status' dialog:">
+<!ENTITY chat.showAccountManager.button       "Ցուցադրել զրույցի վիճակը">
+
+<!ENTITY chat.participants             "Մասնակիցներ.">
+<!ENTITY chat.previousConversations    "Նախորդ երկխոսությունները.">
+<!ENTITY chat.ongoingConversation      "Ելքային երկխոսություն">
+
+<!ENTITY openConversationCmd.label     "Սկսել երկխոսություն">
+<!ENTITY openConversationCmd.accesskey "Ս">
+<!ENTITY closeConversationCmd.label    "Ավարտել երկխոսությունը">
+<!ENTITY closeConversationCmd.accesskey "Ա">
+<!ENTITY aliasCmd.label                "Անվանափոխել">
+<!ENTITY aliasCmd.accesskey            "Ա">
+<!ENTITY deleteCmd.label               "Remove Contact">
+<!ENTITY deleteCmd.accesskey           "v">
+
+<!ENTITY openConversationButton.tooltip  "Սկսել երկխոսությունը">
+<!ENTITY closeConversationButton.tooltip "Փակել երկխոսությունը">
+
+<!ENTITY addBuddyButton.label          "Add Contact">
+<!ENTITY joinChatButton.label          "Միանալ Զրույցին">
+<!ENTITY chatAccountsButton.label      "Ցուցադրել փոստարկղերը">
+
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllChatMessages.label.base "Փնտրել բոլոր երկխոսությունները... #1">
+
+<!ENTITY status.available          "Հասանելի">
+<!ENTITY status.unavailable        "Անհասանելի">
+<!ENTITY status.offline            "Անցանց">
+
+<!ENTITY openLinkCmd.label            "Բացել հղումը">
+<!ENTITY openLinkCmd.accesskey        "Բ">
