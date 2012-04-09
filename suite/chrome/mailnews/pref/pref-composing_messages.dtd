@@ -38,7 +38,7 @@
 
 <!ENTITY pref.composing.messages.title        "Redacción">
 <!ENTITY generalComposing.label               "Xeral">
-<!ENTITY forwardMsg.label                     "Reencamiñar mensaxes:">
+<!ENTITY forwardMsg.label                     "Reenviar mensaxes:">
 <!ENTITY inline.label                         "Inserida">
 <!ENTITY inline.accesskey                     "n">
 <!ENTITY asAttachment.label                   "Como anexo">
