@@ -363,8 +363,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Répondre à l'exp. seulement">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Répondre dans le groupe">
-<!ENTITY replyNewsgroupCmd.accesskey "g">
+<!ENTITY replyNewsgroupCmd2.label "Faire suivre au groupe">
+<!ENTITY replyNewsgroupCmd2.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Répondre à tous">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -695,8 +695,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Répondre à l'expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup2.label "Faire suivre au groupe">
+<!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Répondre à tout le monde">
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplyList.label "Répondre à la liste">
