@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Ավելացնել փոստարկղ...">
 <!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "Ավելացնել Զրույցի հաշվեկշիռ...">
+<!ENTITY addIMAccountButton.accesskey "Ա">
 <!ENTITY addOtherAccountButton.label "Ավելացնել փոստարկղ...">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Նշել որպես հիմնական">

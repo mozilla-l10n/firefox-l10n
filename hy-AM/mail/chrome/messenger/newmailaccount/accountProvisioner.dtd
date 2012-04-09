@@ -1,5 +1,5 @@
 <!ENTITY window.title "Բարի Գալուստ &brandShortName;">
-<!ENTITY header.label "Would you like a new email address?">
+<!ENTITY header2.label "Would you like a new email address?">
 <!ENTITY other.languages "Այստեղ ներկայացված են միայն Ձեր շրջանի էլ. հասցեների մատակարարները։ Սեղմեք այստեղ՝ բոլորը ցուցադրելու համար։">
 <!ENTITY error.line1 "Կներեք, չենք կարող գտնել առաջարկվող էլ. հասցեները։">
 <!ENTITY error.line2 "Կարող եք փորձել փնտրել մականուններ կամ այլ բառ՝ էլ. լրացուցիչ հասցեների համար">

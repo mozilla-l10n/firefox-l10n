@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Ընտրել…">
 <!ENTITY chooseFolderMac.accesskey    "C">
+
+<!ENTITY attachments.incoming.label   "Մուտքյին">
+<!ENTITY attachments.outgoing.label   "Ելքային">
+
+<!ENTITY addCloudFileAccount.label        "Ավելացնել">
+<!ENTITY addCloudFileAccount.accesskey    "Ա">
+<!ENTITY addCloudFileAccount.description  "Ավելացնել նոր Ֆայլի հղման կրիչ սարք">
+<!ENTITY removeCloudFileAccount.label     "Ջնջել">
+<!ENTITY removeCloudFileAccount.accesskey "Ջ">
+<!ENTITY authRequired.description         "Պահանջվում է ներկայացում՝ տեսնելու շարժական սարքի կարգավորումները։">
+<!ENTITY authRequired.button.label        "Ներկայացում">
+<!ENTITY authRequired.button.accesskey    "Ն">
+
+<!ENTITY enableCloudFileAccountOffer.label "Առաջարկել տարածել ֆայլերչը, որոնք մեծ են՝">
+<!ENTITY enableCloudFileAccountOffer.mb "ՄԲ">
