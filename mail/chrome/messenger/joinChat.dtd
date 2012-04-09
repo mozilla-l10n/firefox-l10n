@@ -1,0 +1,7 @@
+<!ENTITY joinChatWindow.title           "Միանալ զրույցին
+">
+<!ENTITY name.label                     "Սենյակը">
+<!ENTITY optional.label                 "Կամայական">
+<!ENTITY account.label                  "Փոստարկղ">
+<!ENTITY autojoin.label                 "Մուտք գործել այս Զրույցի սենյակ">
+<!ENTITY autojoin.accesskey             "Մ">

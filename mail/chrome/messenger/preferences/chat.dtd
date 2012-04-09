@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "&brandShortName; -ի մեկնարկի ժամանակ`">
+<!ENTITY  startupAction.accesskey     "S">
+<!ENTITY  startupOffline.label        "Պահել Զրույցի իմ հաշվեկշիռը անցանց">
+<!ENTITY  startupConnectAuto.label    "Միանալ Զրույցի իմ հաշվեկշռին միանգամից">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Իմաց տալ իմ կոնտակներին, որ ես Թաքնված եմ՝">
+<!ENTITY  reportIdleAfter.accesskey     "Ի">
+<!ENTITY  idleTime                      "րոպե պասսիվ լինելուց հետո">
+
+<!ENTITY  andSetStatusToAway.label      "և դարձնել իմ կարգավիճակը Հեռու եմ այս գրությամբ.">
+<!ENTITY  andSetStatusToAway.accesskey  "և">
+
+<!ENTITY  sendTyping.label              "Ուղարկել տեղեկացման նշումը երկխոսությունում">
+<!ENTITY  sendTyping.accesskey          "Ո">
