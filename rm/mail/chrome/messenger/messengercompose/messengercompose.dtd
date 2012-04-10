@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Datoteca(s)…">
 <!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Servetschs per memorisar datotecas">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pagina web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey "u">
 <!ENTITY attachFile.label "Agiuntar datoteca(s)…">
 <!ENTITY attachFile.accesskey "d">
+<!ENTITY attachCloud.label "Servetschs per memorisar datotecas…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Convertar a…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Interrumper da chargiar si">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Agiunta regulara">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Agiuntar ina pagina web…">
 <!ENTITY attachPage.accesskey "W">
 

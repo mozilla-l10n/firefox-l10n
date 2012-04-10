@@ -30,6 +30,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "R">
 <!ENTITY newExistingEmailAccountCmd.label "In conto d'e-mail existent…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Conto da chat…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Avrir ina datoteca…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Agiuntas">
@@ -331,6 +333,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Enavos">
 <!ENTITY goBackCmd.accesskey "O">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Messadi cun staila">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Ordinatur">
@@ -472,6 +477,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "S">
 <!ENTITY activitymanager.label "Activitads">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Status da chat">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Disponibel">
+<!ENTITY imStatus.unavailable        "Betg disponibel">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Mussar ils contos…">
 <!ENTITY savedFiles.label "Datotecas memorisadas">
 <!ENTITY savedFiles.accesskey "m">
 <!ENTITY savedFiles.key "j">
@@ -507,9 +518,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Datoteca">
 <!ENTITY archiveButton.label "Archivar">
 <!ENTITY nextButton.label "Enavant">
-<!ENTITY previousButton.label "Ensi">
+<!ENTITY nextButtonToolbarItem.label "Proxim nunlegì">
+<!ENTITY nextMsgButton.label "Proxim">
+<!ENTITY previousButton.label "Enavos">
+<!ENTITY previousButtonToolbarItem.label "Nunlegì precedent">
+<!ENTITY previousMsgButton.label "Precedent">
 <!ENTITY backButton1.label "Enavos">
-<!ENTITY goForwardButton1.label "Vinavant">
+<!ENTITY goForwardButton1.label "Enavant">
 <!ENTITY deleteItem.title "Stizzar">
 <!ENTITY deleteButton.label "Stizzar">
 <!ENTITY undeleteButton.label "Restaurar">
@@ -521,6 +536,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Nungiavischà">
 <!ENTITY notJunkButton.label "Betg nungiavischà">
 <!ENTITY addressBookButton.label "Cudeschet d'adressas">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Tschertga globala">
 <!ENTITY searchItem.title "Tschertga svelta">
 <!ENTITY mailViewsToolbarItem.title "Vistas">
@@ -541,7 +557,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Archivar il messadi tschernì">
 <!ENTITY archiveButton.tooltip "Archivar ils messadis tschernids">
 <!ENTITY nextButton.tooltip "Ir al proxim messadi nunlegì">
+<!ENTITY nextMsgButton.tooltip "Ir al proxim messadi">
 <!ENTITY previousButton.tooltip "Ir al messadi nunlegì precedent">
+<!ENTITY previousMsgButton.tooltip "Ir al messadi precedent">
 <!ENTITY goForwardButton.tooltip "Ir al proxim messadi">
 <!ENTITY goBackButton.tooltip "Ir al messadi precedent">
 <!ENTITY deleteButton.tooltip "Stizzar il messadi u l'ordinatur tschernì">
@@ -552,6 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marcar ils messadis tschernids sco nungiavischads">
 <!ENTITY notJunkButton.tooltip "Betg pli marcar ils messadis tschernids sco nungiavischads">
 <!ENTITY addressBookButton.tooltip "Avrir il cudeschet d'adressas">
+<!ENTITY chatButton.tooltip "Mussar il tab da chat">
 <!ENTITY tagButton.tooltip "(De)etichettar ils messadis">
 <!ENTITY compactButton.tooltip "Eliminar definitivamain ils messadis stizzads da l'ordinatur tschernì">
 
@@ -780,28 +799,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Tschertga globala en tut ils contos… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Tschertgar… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Agiuntar al cudeschet d'adressas…">
