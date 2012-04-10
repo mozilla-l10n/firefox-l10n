@@ -22,3 +22,5 @@
 <!ENTITY account.connecting           "Po lidhet…">
 <!ENTITY account.disconnecting        "Po shkëputet…">
 <!ENTITY account.disconnected         "I palidhur">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">

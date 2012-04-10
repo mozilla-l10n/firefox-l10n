@@ -29,3 +29,6 @@
 <!ENTITY authRequired.description         "Lypset autorizimi juaj që të mund të shihni rregullimet për këtë shërbim depozitimesh.">
 <!ENTITY authRequired.button.label        "Autorizojeni">
 <!ENTITY authRequired.button.accesskey    "A">
+
+<!ENTITY enableCloudFileAccountOffer.label "Ofroni për ndarje kartela më të mëdha">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

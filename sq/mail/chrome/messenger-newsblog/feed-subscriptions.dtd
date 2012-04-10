@@ -1,8 +1,9 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Pajtime Në Prurje">
 <!ENTITY subscriptionDesc.label "Shënim: Heqja apo ndryshimi i dosjes për prurjet nuk do të prekë artikuj të shkarkuar më parë.">
-<!ENTITY feedTitle.label "Titull:">
-<!ENTITY location.label  "Vendndodhje:">
+
+<!ENTITY feedTitle.label 	     "Titull:">
+<!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label       "URL Prurjeje: ">
 <!ENTITY feedLocation.accesskey   "U">
