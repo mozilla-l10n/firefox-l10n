@@ -1,18 +1,30 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Abunaments da feeds">
-<!ENTITY subscriptionDesc.label "Remartga: Allontanar u midar l'ordinatur per in feed na pertutga betg artitgels telechargiads pli baud.">
-<!ENTITY feedTitle.label "Titel:">
-<!ENTITY location.label  "Adressa:">
+<!ENTITY feedSubscriptions.label     "Abunaments da feeds">
+<!ENTITY subscriptionDesc.label      "Remartga: Allontanar u midar l'ordinatur per in feed na pertutga betg artitgels telechargiads pli baud.">
+<!ENTITY feedTitle.label             "Titel:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY button.addFeed.label       "Agiuntar">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Modifitgar">
-<!ENTITY button.editFeed.accesskey  "M">
-<!ENTITY button.removeFeed.label "Allontanar">
-<!ENTITY button.removeFeed.accesskey   "l">
-<!ENTITY button.importOPML.label "Import">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Export">
-<!ENTITY button.exportOPML.accesskey   "E">
+<!ENTITY feedLocation.label          "URL dal feed:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Endatar ina URL valida per agiuntar">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedFolder.label            "Memorisar ils artitgels en:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Mussar la resumaziun da l'artitgel empè da chargiar la website">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY validateText.label          "Controllar la validaziun e retschaiver ina URL valida.">
+
+<!ENTITY button.addFeed.label        "Agiuntar">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Modifitgar">
+<!ENTITY button.editFeed.accesskey   "M">
+<!ENTITY button.removeFeed.label     "Allontanar">
+<!ENTITY button.removeFeed.accesskey "l">
+<!ENTITY button.importOPML.label     "Import">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Export">
+<!ENTITY button.exportOPML.accesskey "E">
+
+<!ENTITY cmd.close.commandKey        "w">

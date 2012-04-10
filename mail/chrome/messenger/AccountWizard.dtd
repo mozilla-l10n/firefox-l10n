@@ -32,22 +32,10 @@
 <!ENTITY emailLabel.label "Adressa d'e-mail:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Infurmaziun dal server">
+<!ENTITY incomingTitle.label "Infurmaziun dal server per messadis che entran">
 <!ENTITY incomingServerTypeDesc.label "Tscherna il tip da server d'entrada che ti utiliseschas.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Endatescha il num da tes server d'entrada (per exempel &quot;pop.gmail.com&quot;).">
-<!ENTITY incomingServerLabel.label "Server d'entrada:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Endatescha il num da tes server da novitads (NNTP) (per exempel, &quot;news.exempel.ch&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Endatescha il num da tes server d'extrada (SMTP) (per exempel &quot;smtp.gmail.com&quot;).">
-<!ENTITY smtpServerLabel.label "Server d'extrada:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "Server da gruppas da discussiun:">
-<!ENTITY newsServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,6 +48,29 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "EEndatescha il num da tes server d'entrada (per exempel &quot;pop.gmail.com&quot;).">
+<!ENTITY incomingServer.label "Server d'entrada:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Endatescha il num d'utilisader d'entrada che ti has reschavì da tes provider d'e-mails (per exempel &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Num d'utilisader:">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Endatescha il num da tes server da novitads (NNTP) (per exempel, &quot;news.exempel.ch&quot;).">
+<!ENTITY newsServerLabel.label "Server da novitads:">
+<!ENTITY newsServerLabel.accesskey "S">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Infurmaziun dal server per messadis che sortan">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Endatescha il num da tes server d'extrada (SMTP) (per exempel &quot;smtp.gmail.com&quot;).">
+<!ENTITY outgoingServer.label "Server d'extrada:">
+<!ENTITY outgoingServer.accesskey "x">
+<!ENTITY outgoingUsername.description "Endatescha il num d'utilisader da sortida che ti has retschavì da tes provider d'e-mails (quai è per ordinari il medem sco il num d'utilisader d'entrada).">
+<!ENTITY outgoingUsername.label "Num d'utilisader da sortida:">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -72,17 +83,6 @@
 <!ENTITY haveSmtp1.prefix "Tes server existent per messadis che sortan (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, vegn a vegnir utilisà. ">
 
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Nums d'utilisader">
-<!ENTITY usernameDesc.label "Endatescha il num d'utilisader d'entrada che tes provider t'ha dà ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(per exempel, &quot;gcadieli&quot;).">
-<!ENTITY usernameLabel.label "Num d'utilisader d'entrada:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Endatescha il num d'utilisader d'extrada che tes provider t'ha dà (quai è normalmain il medem sco il num d'utilisader d'entrada).">
-<!ENTITY usernameSmtpLabel.label "Num d'utilisader d'extrada:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

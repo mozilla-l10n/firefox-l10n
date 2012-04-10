@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Agiuntar in conto dad e-mail…">
 <!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "Agiuntar in conto da chat…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "Agiuntar in auter conto…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Definir sco standard">
