@@ -39,7 +39,7 @@
 <!ENTITY reuseExpRadio0.accesskey "u">
 <!ENTITY reuseExpRadio1.label "nella stessa finestra">
 <!ENTITY reuseExpRadio1.accesskey "n">
-<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si cancella">
+<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si elimina">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">

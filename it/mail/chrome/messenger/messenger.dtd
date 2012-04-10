@@ -434,7 +434,7 @@
 <!ENTITY addons.accesskey "c">
 <!ENTITY activitymanager.label "Registro attività">
 <!ENTITY activitymanager.accesskey "v">
-<!ENTITY imAccountsStatus.label "Status della chat">
+<!ENTITY imAccountsStatus.label "Stato chat">
 <!ENTITY imAccountsStatus.accesskey "S">
 <!ENTITY imStatus.available "Disponibile">
 <!ENTITY imStatus.unavailable "Non disponibile">

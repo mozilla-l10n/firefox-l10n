@@ -5,7 +5,7 @@
 <!ENTITY reportIdleAfter.label "Consenti che i miei contatti sappiano che sono Inattivo dopo">
 <!ENTITY reportIdleAfter.accesskey "C">
 <!ENTITY idleTime "minuti di inattività">
-<!ENTITY andSetStatusToAway.label "ed imposta il mio status come 'Non disponibile' con questo messaggio:">
+<!ENTITY andSetStatusToAway.label "ed imposta il mio stato come 'Non disponibile' con questo messaggio:">
 <!ENTITY andSetStatusToAway.accesskey "e">
 <!ENTITY sendTyping.label "Mostra le notifiche di scrittura nelle conversazioni">
 <!ENTITY sendTyping.accesskey "M">
