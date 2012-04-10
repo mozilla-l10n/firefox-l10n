@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "À propos de &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; est expérimental et peut être instable.">
+<!ENTITY aboutPage.telemetryStart               " Il envoie automatiquement des informations sur les performances, le matériel, l'utilisation et les personnalisations à ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " pour aider à améliorer &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Assistance">
 <!ENTITY aboutPage.privacyPolicy.label          "Politique de confidentialité">
