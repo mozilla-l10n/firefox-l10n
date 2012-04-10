@@ -24,17 +24,17 @@
 <!ENTITY rights.intro-point2.5 "&brandShortName; tarayıcısındaki Çökme Raporlayıcısı gibi bazı özellikler size &vendorShortName;'ya geri bildirimde bulunma seçeneği sunar. Geri bildirimde bulunmayı tercih ederseniz, &vendorShortName;'ya ürünlerini geliştirmek için bu geri bildirimi kullanma, geri bildirimi web sitelerinde yayımlama ve geri bildirimi dağıtma izni vermiş olursunuz.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Kişisel bilgilerinizi ve &brandShortName; üzerinden &vendorShortName;'ya gönderdiğiniz geri bildirimleri nasıl kullandığımız şurada açıklanmıştır: ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Gizlilik İlkeleri">
-<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights2.intro-point3a "Kişisel bilgilerinizi ve &brandShortName; üzerinden &vendorShortName;'ya gönderdiğiniz geri bildirimleri nasıl kullandığımız ">
+<!ENTITY rights2.intro-point3b "&brandShortName; Gizlilik İlkelerinde">
+<!ENTITY rights.intro-point3c " açıklanmıştır.">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Bu ürünle ilgili tüm gizlilik ilkeleri burada listelenmelidir.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Bazı &brandShortName; özellikleri web tabanlı bilgi hizmetlerinden yararlanır, ancak bunların tamamen doğru ve hatasız olduklarını garanti edemeyiz. Bu hizmetleri kullanan özelliklerin devre dışı bırakılmasıyla ilgili daha fazla bilgiyi şuraya bulabilirsiniz: ">
+<!ENTITY rights2.intro-point4a "Bazı &brandShortName; özellikleri web tabanlı bilgi hizmetlerinden yararlanır, ancak bunların tamamen doğru ve hatasız olduklarını garanti edemeyiz. Bu hizmetleri kullanan özelliklerin devre dışı bırakılmasıyla ilgili daha fazla bilgiyi ">
 <!ENTITY rights.intro-point4b "hizmet koşulları">
-<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4c " sayfasında bulabilirsiniz.">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Bu ürün web hizmetleriyle bağlantı kuruyorsa, hizmet(ler) ile ilgili tüm hizmet koşulları ">
@@ -48,9 +48,9 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; bu ikili &brandShortName; sürümünde kullanımınıza sunulan bazı özellikler için, aşağıdaki açıklanan koşullar kapsamında web tabanlı bilgi hizmetlerinden (&quot;Hizmetler&quot;) yararlanır. Hizmetlerden birini veya birkaçını kullanmak istemiyorsanız veya aşağıdaki koşulları kabul etmiyorsanız ilgili özelliği ve Hizmet(ler)i devre dışı bırakabilirsiniz. Özellik veya Hizmetleri devre dışı bırakmanız için izleyebileceğiniz yönergeler şurada bulunabilir: ">
-<!ENTITY rights2.webservices-b "burada listelenmelidir">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights2.webservices-a "&brandFullName; bu ikili &brandShortName; sürümünde kullanımınıza sunulan bazı özellikler için, aşağıdaki açıklanan koşullar kapsamında web tabanlı bilgi hizmetlerinden (&quot;Hizmetler&quot;) yararlanır. Hizmetlerden birini veya birkaçını kullanmak istemiyorsanız veya aşağıdaki koşulları kabul etmiyorsanız ilgili özelliği ve Hizmet(ler)i devre dışı bırakabilirsiniz. Özellik veya Hizmetleri devre dışı bırakmanız için izleyebileceğiniz yönergeler ">
+<!ENTITY rights2.webservices-b "burada">
+<!ENTITY rights2.webservices-c " bulunabilir.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "GüvenliTarama: ">
@@ -58,7 +58,7 @@
 <!ENTITY rights.safebrowsing-term1 "Uygulama tercihlerini açın">
 <!ENTITY rights.safebrowsing-term2 "Güvenlik bölümünü seçin">
 <!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; ve &quot;&blockWebForgeries.label;&quot; seçeneklerinin işaretlerini kaldırın">
-<!ENTITY rights.safebrowsing-term4 "Güvenli Tarama artık devre dışı">
+<!ENTITY rights.safebrowsing-term4 "Güvenli Tarama artık devre dışıdır">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Konuma Duyarlı Tarama: ">
@@ -67,7 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled yazın">
 <!ENTITY rights.locationawarebrowsing-term3 "geo.enabled tercihine çift tıklayın">
-<!ENTITY rights.locationawarebrowsing-term4 "Konuma Duyarlı Tarama artık devre dışı">
+<!ENTITY rights.locationawarebrowsing-term4 "Konuma Duyarlı Tarama artık devre dışıdır">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir.">

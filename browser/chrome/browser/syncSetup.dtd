@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Sunucu">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; sunucusu">
+<!ENTITY serverType.default.label      "Varsayılan: Mozilla &syncBrand.fullName.label; sunucusu">
 <!ENTITY serverType.custom2.label   "Özel sunucu kullan…">
 <!ENTITY signIn.account2.label      "Hesap">
 <!ENTITY signIn.account2.accesskey  "a">
@@ -36,8 +36,8 @@
 <!ENTITY setup.tosLink.label        "Kullanım Koşullarını">
 <!ENTITY setup.tosAgree2.label      "ve">
 <!ENTITY setup.ppLink.label         "Gizlilik Anlaşmasını">
-<!ENTITY setup.tosAgree3.label      "kabul ediyorum">
-<!ENTITY setup.tosAgree2.accesskey  "k">
+<!ENTITY setup.tosAgree3.label      "kabul ediyorum.">
+<!ENTITY setup.tosAgree2.accesskey  "K">
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; gizliliğinize önem verir">
@@ -67,7 +67,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Oturum aç">
-<!ENTITY existingRecoveryKey.description "Kurtarma anahtarınızın bir kopyasını edinmek için diğer aygıtınızda &syncBrand.fullName.label; Seçenekleri'ne girin ve &#x0022;Hesabı yönet&#x0022; altından &#x0022;Kurtarma anahtarım&#x0022;ı seçin.">
+<!ENTITY existingRecoveryKey.description "Kurtarma anahtarınızın bir kopyasını edinmek için diğer aygıtınızda &syncBrand.shortName.label; Seçenekleri'ne girin ve &#x0022;Hesabı yönet&#x0022; altından &#x0022;Kurtarma anahtarım&#x0022;ı seçin.">
 <!ENTITY verifying.label              "Doğrulanıyor…">
 <!ENTITY resetPassword.label          "Parolayı sıfırla">
 <!ENTITY resetSyncKey.label           "Diğer aygıtımı kaybettim.">
