@@ -8,7 +8,7 @@
 <!ENTITY aboutSupport.extensionName "Adı">
 <!ENTITY aboutSupport.extensionEnabled "Devrede">
 <!ENTITY aboutSupport.extensionVersion "Sürüm">
-<!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.extensionId "Kimlik">
 
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">
@@ -42,7 +42,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Çizimler">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Artırımlı GC">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Kitaplık sürümleri">
 
