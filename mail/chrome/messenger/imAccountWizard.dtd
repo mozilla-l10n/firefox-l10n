@@ -8,7 +8,7 @@
 <!ENTITY accountPasswordTitle.label "Password">
 <!ENTITY accountPasswordInfo.label "Digitare la password nel campo sottostante.">
 <!ENTITY accountPasswordField.label "Password:">
-<!ENTITY accountPasswordManager.label "La password digitata sarà memorizzata nel Gestore Password. Lasciare questo campo vuoto se si desidera che questa password sia richiesta tutte le volte che si ci collega con questo account.">
+<!ENTITY accountPasswordManager.label "La password digitata sarà memorizzata nel Gestore Password. Lasciare questo campo vuoto se si desidera che questa password sia richiesta tutte le volte che ci si collega con questo account.">
 <!ENTITY accountAdvancedTitle.label "Opzioni avanzate">
 <!ENTITY accountAdvancedInfo.label "È possibile saltare questo passaggio se lo si desidera.">
 <!ENTITY accountAdvanced.newMailNotification.label "Notifica arrivo nuovi messaggi">

@@ -9,8 +9,8 @@
 <!ENTITY chat.noAccount.description "Consenti a &brandShortName; di guidarti attraverso la configurazione del tuo account di chat.">
 <!ENTITY chat.accountWizard.button "Iniziare">
 <!ENTITY chat.noConnectedAccount.title "Nessun account di chat collegato.">
-<!ENTITY chat.noConnectedAccount.description "È possibile collegarli attraverso la finestra di dialogo 'chat status':">
-<!ENTITY chat.showAccountManager.button "Mostra lo status della chat">
+<!ENTITY chat.noConnectedAccount.description "È possibile collegarli attraverso la finestra di dialogo 'Stato chat':">
+<!ENTITY chat.showAccountManager.button "Mostra lo stato della chat">
 <!ENTITY chat.participants "Partecipanti:">
 <!ENTITY chat.previousConversations "Conversazioni precedenti:">
 <!ENTITY chat.ongoingConversation "Conversazione in corso">

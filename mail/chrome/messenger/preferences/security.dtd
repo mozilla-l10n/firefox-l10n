@@ -16,7 +16,7 @@
 <!ENTITY enableJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Mostra registro attività">
 <!ENTITY openJunkLog.accesskey "S">
-<!ENTITY resetTrainingData.label "Cancella i dati di autoistruzione">
+<!ENTITY resetTrainingData.label "Elimina i dati di autoistruzione">
 <!ENTITY resetTrainingData.accesskey "z">
 <!ENTITY phishingDetector1.intro "&brandShortName; è in grado di analizzare i messaggi alla ricerca di possibili tentativi di frode, individuando le tecniche più comuni per questo tipo di truffe.">
 <!ENTITY enablePhishingDetector1.label "Avvisa sempre se il messaggio che si sta leggendo è un possibile tentativo di frode">

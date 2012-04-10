@@ -1,4 +1,4 @@
-<!ENTITY accountsWindow.title "Status messaggeria istantanea">
+<!ENTITY accountsWindow.title "Stato messaggeria istantanea">
 <!ENTITY accountsWindow.style "width: 28em; height: 19em;">
 <!ENTITY accountManager.newAccount.label "Nuovo account">
 <!ENTITY accountManager.newAccount.accesskey "N">
