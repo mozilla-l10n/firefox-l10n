@@ -1,4 +1,3 @@
-<!ENTITY bookmark "Faqeruaje">
 <!ENTITY downloads "Shkarkime">
 <!ENTITY pref_plugins "Shtojca">
 <!ENTITY pref_plugins_enabled "Aktive">
@@ -33,8 +32,10 @@
 
 <!ENTITY awesomebar_default_text "Jepni Term Kërkimi ose Adresë">
 
+<!ENTITY bookmark "Faqeruaje">
 <!ENTITY bookmark_added "Faqerojtësi u shtua">
 <!ENTITY bookmark_removed "Faqerojtësi u hoq">
+<!ENTITY bookmark_updated "Faqeruajtësi u përditësua">
 
 <!ENTITY history_today_section "Sot">
 <!ENTITY history_yesterday_section "Dje">
@@ -84,6 +85,13 @@
 <!ENTITY contextmenu_remove_bookmark "Hiqe">
 <!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
 <!ENTITY contextmenu_share "Ndajeni me të tjerët">
+<!ENTITY contextmenu_edit_bookmark "Përpunojeni">
+
+<!ENTITY bookmark_edit_title "Përpunoni Faqerojtësin">
+<!ENTITY bookmark_edit_name "Emër">
+<!ENTITY bookmark_edit_location "Vend">
+<!ENTITY bookmark_edit_keyword "Fjalëkyç">
+
 
 <!ENTITY site_settings_title        "Pastroji Rregullimet për Site-e">
 <!ENTITY site_settings_cancel       "Anuloje">
@@ -107,3 +115,8 @@
 <!ENTITY abouthome_no_top_sites "Nuk keni ende \&quot;site\&quot;-e kryesues. Që të filloni shfletimin prekni Shtyllën e Titullit.">
 <!ENTITY abouthome_about_sync "Rregulloni Firefox Sync-un që të mund të përdorni faqerojtësit, historikun dhe skedat prej pajisjeve tuaja të tjera">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Zgjidhni Kartelë">
+<!ENTITY filepicker_audio_title "Zgjidhni ose regjistroni një tingull">
+<!ENTITY filepicker_image_title "Zgjidhni ose bëni një foto">
+<!ENTITY filepicker_video_title "Zgjidhni ose regjistroni një video">
