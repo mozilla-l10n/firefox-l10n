@@ -266,6 +266,8 @@
 <!ENTITY selectAll.accesskey "T">
 <!ENTITY attachFile.label "Bashkangjitni Kartelë(a)…">
 <!ENTITY attachFile.accesskey "a">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "F">
 <!ENTITY convertCloud.label "Shndërrojeni në…">
