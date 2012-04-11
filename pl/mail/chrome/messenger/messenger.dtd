@@ -352,8 +352,8 @@
 <!ENTITY replyMsgCmd.key                "r">
 <!ENTITY replySenderCmd.label           "Odpowiedz tylko nadawcy">
 <!ENTITY replySenderCmd.accesskey       "i">
-<!ENTITY replyNewsgroupCmd.label        "Odpowiedz grupie dyskusyjnej">
-<!ENTITY replyNewsgroupCmd.accesskey    "g">
+<!ENTITY replyNewsgroupCmd2.label "Odpowiedz grupie dyskusyjnej">
+<!ENTITY replyNewsgroupCmd2.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label         "Odpowiedz wszystkim">
 <!ENTITY replyToAllMsgCmd.accesskey     "m">
 <!ENTITY replyToAllMsgCmd.key           "r">
@@ -674,8 +674,8 @@
 <!ENTITY contextArchive.accesskey        "A">
 <!ENTITY contextReplySender.label        "Odpowiedz tylko nadawcy">
 <!ENTITY contextReplySender.accesskey    "n">
-<!ENTITY contextReplyNewsgroup.label     "Odpowiedz grupie dyskusyjnej">
-<!ENTITY contextReplyNewsgroup.accesskey "s">
+<!ENTITY contextReplyNewsgroup2.label "Odpowiedz grupie dyskusyjnej">
+<!ENTITY contextReplyNewsgroup2.accesskey "s">
 <!ENTITY contextReplyAll.label           "Odpowiedz wszystkim">
 <!ENTITY contextReplyAll.accesskey       "w">
 <!ENTITY contextReplyList.label          "Odpowiedz liście dyskusyjnej">
