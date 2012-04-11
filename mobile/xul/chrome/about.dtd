@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "عن &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "الأسئلة الأكثر شيوعًا">
+<!ENTITY aboutPage.support.label                "الدعم">
+<!ENTITY aboutPage.privacyPolicy.label          "سياسة الخصوصية">
+<!ENTITY aboutPage.rights.label                 "اعرف حقوقك">
+<!ENTITY aboutPage.relNotes.label               "ملاحظات الإصدار">
+<!ENTITY aboutPage.credits.label                "المساهمون">
+<!ENTITY aboutPage.checkForUpdates.button       "التمس التحديثات">
+<!ENTITY aboutPage.checkForUpdates.checking     "يبحث عن التحديثات…">
+<!ENTITY aboutPage.checkForUpdates.none         "لا تحديثات متوفرة">
+<!ENTITY aboutPage.checkForUpdates.found        "هناك تحديث متوفر">
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+
+
+<!ENTITY aboutPage.licenseLink                  "معلومات الترخيص">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "أدوات التعليق">
+
+<!ENTITY feedback.communicate.title     "تواصل معنا!">
+<!ENTITY feedback.feedback.title        "أخبرنا بتعليقاتك">
+<!ENTITY feedback.feedback.good         "جيد">
+<!ENTITY feedback.feedback.bad          "سيئ">
+
+<!ENTITY feedback.tools.title           "أدوات">
+<!ENTITY feedback.allowTelemetry.title  "أرسِل بيانات الأداء">
+<!ENTITY feedback.forceCompat.title     "اجعل توافقية الإضافات قسريّة">
+<!ENTITY feedback.errorConsole.title    "فعّل معراض الأخطاء">
