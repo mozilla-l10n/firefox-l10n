@@ -353,9 +353,9 @@ can reach it easily. -->
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Àrvi in nêuvo féuggio">
+<!ENTITY openLinkCmdInTab.label       "Àrvi drénto nêuvo féuggio">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
-<!ENTITY openLinkCmd.label            "Àrvi in nêuvo barcón">
+<!ENTITY openLinkCmd.label            "Àrvi drénto nêuvo barcón">
 <!ENTITY openLinkCmd.accesskey        "v">
 <!ENTITY openLinkCmdInCurrent.label     "Àrvi colegamento">
 <!ENTITY openLinkCmdInCurrent.accesskey "v">

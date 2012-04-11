@@ -51,9 +51,9 @@
 
 <!ENTITY cmd.open.label                  "Àrvi">
 <!ENTITY cmd.open.accesskey              "v">
-<!ENTITY cmd.open_window.label           "Àrvi in nêuvo barcón">
+<!ENTITY cmd.open_window.label           "Àrvi drénto nêuvo barcón">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_tab.label              "Àrvi in nêuvo féuggio">
+<!ENTITY cmd.open_tab.label              "Àrvi drénto nêuvo féuggio">
 <!ENTITY cmd.open_tab.accesskey          "v">
 <!ENTITY cmd.open_all_in_tabs.label      "Àrvi tùtto inti féuggi">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
