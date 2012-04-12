@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Caracteristicas dal conto">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "General">
+<!ENTITY account.advanced              "Opziuns extendidas">
+<!ENTITY account.name                  "Num d'utilisader:">
+<!ENTITY account.password              "Pled-clav:">
+<!ENTITY account.alias                 "Alias:">
+<!ENTITY account.newMailNotification   "M'infurmar davart novs e-mails">
+<!ENTITY account.autojoin              "Chanals per entrar automaticamain:">
+<!ENTITY account.proxySettings.caption "Preferenzas da proxy:">
+<!ENTITY account.proxySettings.change.label     "Midar…">
+<!ENTITY account.proxySettings.change.accessKey "M">
