@@ -70,3 +70,6 @@
 <!ENTITY  privateBrowsingPermanent2.label "नेहमी व्यक्तिगत ब्राउजिंग मोडचा वापर करा">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
+<!ENTITY  rememberHistory2.label      "माझी ब्राऊजिंग व डाऊनलोड इतिहास लक्षात ठेवा">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
