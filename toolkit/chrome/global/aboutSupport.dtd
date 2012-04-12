@@ -47,3 +47,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showWin.label "फोल्डर दाखवा">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वाचे संपादित पसंती">
 
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "प्रोफाइल फोल्डर">
+<!ENTITY aboutSupport.jsTitle "जावास्क्रिप्ट">
+<!ENTITY aboutSupport.jsIncrementalGC "वाढीव GC">
+<!ENTITY aboutSupport.libraryVersionsTitle "लाइब्ररि आवृत्ती">
+
