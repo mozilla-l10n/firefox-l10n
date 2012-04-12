@@ -36,6 +36,7 @@
 <!ENTITY abouthome.defaultSnippet2.v1 "पसंतीप्रमाणे फायरफॉक्स्ला संरचीत करणे सोपे आहे. <a>नीवडण्यासाठी हजारो ॲडऑन्स् उपलब्ध</a>.">
 
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!ENTITY abouthome.bookmarksButton.label "वाचनखूणा">
 <!ENTITY abouthome.historyButton.label   "इतिहास">
 <!ENTITY abouthome.settingsButton.label  "सेटिंग्स्">
