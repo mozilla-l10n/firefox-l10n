@@ -13,7 +13,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "o">
 <!ENTITY  idleTime                      "minuti möödumisel">
 
-<!ENTITY  andSetStatusToAway.label      "ning eemaloleku teateks määratakse järgnev:">
+<!ENTITY  andSetStatusToAway.label      "ning eemaloleku teateks määratakse:">
 <!ENTITY  andSetStatusToAway.accesskey  "n">
 
 <!ENTITY  sendTyping.label              "Teist poolt teavitatakse teksti sisestamisest vestlustes">
