@@ -16,8 +16,10 @@
 <!ENTITY attachMenu.accesskey "s">
 <!ENTITY attachFileCmd.label "Restr(où)…">
 <!ENTITY attachFileCmd.accesskey "r">
-<!ENTITY attachPageCmd.label "Pajenn Internet …">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachPageCmd.label "Pajenn Internet …">
 <!ENTITY attachPageCmd.accesskey "n">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Fichenn bersonel (vCard)">
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Kenstagañ restr(où)…">
 <!ENTITY attachFile.accesskey "r">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Amdreiñ…">
+<!ENTITY convertCloud.accesskey "A">
+<!ENTITY cancelUpload.label "Nullañ ar c'hargañ">
+<!ENTITY cancelUpload.accesskey "N">
+<!ENTITY convertRegularAttachment.label "Kenstagadur reizh">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Kenstagañ ar bajennad…">
 <!ENTITY attachPage.accesskey "s">
 

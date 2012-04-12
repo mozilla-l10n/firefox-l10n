@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Pa loc'h &brandShortName; :">
+<!ENTITY  startupAction.accesskey     "l">
+<!ENTITY  startupOffline.label        "Mirout ma c'hontoù postelerezh prim ezlinenn">
+<!ENTITY  startupConnectAuto.label    "Kennaskañ ma c'hontoù postelerezh prim ent emgefreek">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Reiñ da c'houzout da'm darempredoù ez eo dioberiant ma c'hont goude">
+<!ENTITY  reportIdleAfter.accesskey     "R">
+<!ENTITY  idleTime                      "a vunutennoù eus dioberiantiz">
+
+<!ENTITY  andSetStatusToAway.label      "ha kemmañ ma stad da Ezvezant gant ar gemennadenn da-heul :">
+<!ENTITY  andSetStatusToAway.accesskey  "E">
+
+<!ENTITY  sendTyping.label              "Kas rebuziñ e-barzh ar c'haozeadennoù pa'z emaon o vizskrivañ">
+<!ENTITY  sendTyping.accesskey          "b">

@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "K">
 <!ENTITY newExistingEmailAccountCmd.label "Ar gont postel zo anezhi endeo…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "A">
+<!ENTITY newIMAccountCmd.label "Kont postelerezh prim…">
+<!ENTITY newIMAccountCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Teulioù kenstag">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Kent">
 <!ENTITY goBackCmd.accesskey "K">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Postelerezh prim">
+<!ENTITY goChatCmd.accesskey "p">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Kemennadenn gant ur steredenn">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Teuliad">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Oberiantiz">
 <!ENTITY activitymanager.accesskey "O">
+<!ENTITY imAccountsStatus.label "Stadoù ar postelerezh prim">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Hegerz">
+<!ENTITY imStatus.unavailable        "Ac'hubet">
+<!ENTITY imStatus.offline            "Ezlinenn">
+<!ENTITY imStatus.showAccounts       "Diskouez ar c'hontoù…">
 <!ENTITY savedFiles.label "Restroù enrollet">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -503,7 +514,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Restr">
 <!ENTITY archiveButton.label "Diellaouiñ">
 <!ENTITY nextButton.label "War-lerc'h">
+<!ENTITY nextButtonToolbarItem.label "Anlennet war-lerc'h">
+<!ENTITY nextMsgButton.label "War-lerc'h">
 <!ENTITY previousButton.label "Kent">
+<!ENTITY previousButtonToolbarItem.label "Anlennet kent">
+<!ENTITY previousMsgButton.label "Kent">
 <!ENTITY backButton1.label "Kent">
 <!ENTITY goForwardButton1.label "Lakaat da dremen">
 <!ENTITY deleteItem.title "Dilemel">
@@ -517,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Lastez">
 <!ENTITY notJunkButton.label "Prizius">
 <!ENTITY addressBookButton.label "Chomlec'hioù">
+<!ENTITY chatButton.label "Postelerezh prim">
 <!ENTITY glodaSearch.title "Klask hollek">
 <!ENTITY searchItem.title "Klask prim">
 <!ENTITY mailViewsToolbarItem.title "Gwelioù ar posteloù">
@@ -536,8 +552,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.tooltip "Adkas ar gemennadenn diuzet">
 <!ENTITY fileButton.tooltip "Leuniañ ar gemennadenn diuzet">
 <!ENTITY archiveButton.tooltip "Diellaouiñ ar c'hemennadennoù diuzet">
-<!ENTITY nextButton.tooltip "Dilec'hiañ d'ar gemennadenn ket lennet war-lerc'h">
-<!ENTITY previousButton.tooltip "Dilec'hiañ d'ar gemennadenn ket lennet kent">
+<!ENTITY nextButton.tooltip "Mont d'ar gemennadenn anlennet war-lerc'h">
+<!ENTITY nextMsgButton.tooltip "Mont d'ar gemennadenn war-lerc'h">
+<!ENTITY previousButton.tooltip "Mont d'ar gemennadenn anlennet kent">
+<!ENTITY previousMsgButton.tooltip "Mont d'ar gemennadenn kent">
 <!ENTITY goForwardButton.tooltip "Mont d'ar gemennadenn war-lerc'h">
 <!ENTITY goBackButton.tooltip "Mont d'ar gemennadenn gent">
 <!ENTITY deleteButton.tooltip "Dilemel ar gemennadenn pe an teuliad diuzet">
@@ -548,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Merkañ ar gemennadenn diuzet evel lastez">
 <!ENTITY notJunkButton.tooltip "Merkañ ar gemennadenn diuzet evel 'Prizius'">
 <!ENTITY addressBookButton.tooltip "Mont d'ar c'harned chomlec'hioù">
+<!ENTITY chatButton.tooltip "Diskouez an ivinell postelerezh prim">
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
 
@@ -780,28 +799,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Klask en holl gemennadennoù… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Klask… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Ouzhpennañ d'ar c'harned chomlec'hioù…">

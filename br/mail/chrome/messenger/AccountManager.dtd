@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "M">
 <!ENTITY addMailAccountButton.label "Ouzhpennañ ur gont bostel…">
 <!ENTITY addMailAccountButton.accesskey "O">
+<!ENTITY addIMAccountButton.label "Ouzhpennañ ur gont postelerezh prim…">
+<!ENTITY addIMAccountButton.accesskey "p">
 <!ENTITY addOtherAccountButton.label "Ouzhpennañ ur gont all…">
 <!ENTITY addOtherAccountButton.accesskey "u">
 <!ENTITY setDefaultButton.label "Lakaat dre ziouer">

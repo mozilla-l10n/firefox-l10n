@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "F">
 <!ENTITY chooseFolderMac.label        "Dibab…">
 <!ENTITY chooseFolderMac.accesskey    "D">
+
+<!ENTITY attachments.incoming.label   "Oc'h ebarzhiñ">
+<!ENTITY attachments.outgoing.label   "Oc'h ermaeziañ">
+
+<!ENTITY addCloudFileAccount.label        "Ouzhpennañ">
+<!ENTITY addCloudFileAccount.accesskey    "O">
+<!ENTITY addCloudFileAccount.description  "Ouzhpennañ ur gwazerezh kadaviñ Filelink nevez">
+<!ENTITY removeCloudFileAccount.label     "Lemel">
+<!ENTITY removeCloudFileAccount.accesskey "L">
+<!ENTITY authRequired.description         "Azgoulennet eo ho aotre a-benn gwelout an arventennoù evit ar gwazerezh kadaviñ-mañ.">
+<!ENTITY authRequired.button.label        "Aotren">
+<!ENTITY authRequired.button.accesskey    "A">
+
+<!ENTITY enableCloudFileAccountOffer.label "Kinnig evit rannañ restroù vrasoc'h eget">
+<!ENTITY enableCloudFileAccountOffer.mb "Me">
