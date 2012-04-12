@@ -22,7 +22,7 @@
 <!ENTITY button.editFeed.label       "Upraviť">
 <!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "Odstrániť">
-<!ENTITY button.removeFeed.accesskey "O">
+<!ENTITY button.removeFeed.accesskey "d">
 <!ENTITY button.importOPML.label     "Importovať">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportovať">

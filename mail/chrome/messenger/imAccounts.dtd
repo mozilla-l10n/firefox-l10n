@@ -10,9 +10,9 @@
 <!ENTITY accountManager.noAccount.title      "Zatiaľ nie je nastavený žiadny účet">
 <!ENTITY accountManager.noAccount.description "Po kliknutí na tlačidlo &accountManager.newAccount.label; vás &brandShortName; prevedie procesom konfigurácie účtu.">
 <!ENTITY account.autoSignOn.label     "Pripojiť pri spustení">
-<!ENTITY account.autoSignOn.accesskey "r">
+<!ENTITY account.autoSignOn.accesskey "P">
 <!ENTITY account.connect.label        "Pripojiť">
-<!ENTITY account.connect.accesskey    "P">
+<!ENTITY account.connect.accesskey    "r">
 <!ENTITY account.disconnect.label     "Odpojiť">
 <!ENTITY account.disconnect.accesskey "O">
 <!ENTITY account.edit.label           "Vlastnosti">
