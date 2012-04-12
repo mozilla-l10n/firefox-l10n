@@ -1,7 +1,7 @@
 <!ENTITY accountWindow.title                    "Konto sätted">
 <!ENTITY accountWindow.width                    "300">
 <!ENTITY account.general                        "Üldine">
-<!ENTITY account.advanced                       "Täpsemad seaded">
+<!ENTITY account.advanced                       "Täpsemad sätted">
 <!ENTITY account.name                           "Kasutajanimi:">
 <!ENTITY account.password                       "Parool:">
 <!ENTITY account.alias                          "Alias:">
