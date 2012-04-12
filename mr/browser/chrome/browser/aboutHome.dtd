@@ -17,18 +17,21 @@
 <!--
 <!ENTITY abouthome.searchEngineLinks.advanced "प्रगत शोध">
 <!ENTITY abouthome.searchEngineLinks.preferences "पसंती">
--->
+
 
 <!ENTITY abouthome.aboutMozilla "Mozilla विषयी">
 
-<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 <!ENTITY abouthome.defaultSnippet1.v1 "फायरफॉक्स नीवडल्याबद्दल धन्यवाद! ब्राउजरला आणखी सुरेख बनवण्यासाठी, <a>नुकतेच गुणविशेष</a> विषयी अधिक जाणून घ्या.">
+
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
--->
-<!ENTITY abouthome.defaultSnippet2.v1 "पसंतीप्रमाणे फायरफॉक्स्ला संरचीत करणे सोपे आहे. <a>नीवडण्यासाठी हजारो ॲडऑन्स् उपलब्ध</a>.">
+
 <!ENTITY abouthome.syncSetup.label   "सिंक सेटअप करा">
 <!ENTITY abouthome.pairDevice.label  "साधनाशी जोडणी करा">
+-->
+
+<!ENTITY abouthome.defaultSnippet2.v1 "पसंतीप्रमाणे फायरफॉक्स्ला संरचीत करणे सोपे आहे. <a>नीवडण्यासाठी हजारो ॲडऑन्स् उपलब्ध</a>.">
 

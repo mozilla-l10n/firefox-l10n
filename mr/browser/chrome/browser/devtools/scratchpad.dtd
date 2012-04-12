@@ -42,7 +42,7 @@
 
 <!ENTITY editMenu.label               "संपादित करा">
 <!ENTITY editMenu.accesskey           "E">
-
+<!--
 <!ENTITY undoCmd.label                "पूर्ववत् करा">
 <!ENTITY undoCmd.key                  "Z">
 <!ENTITY undoCmd.accesskey            "U">
@@ -72,20 +72,25 @@
 <!ENTITY findCmd.accesskey            "F">
 
 <!ENTITY findAgainCmd.label           "पुन्हा शोधा…">
+-->
 <!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
   -  Windows and Linux builds use the F3 key which is not localizable on purpose.
   -->
+<!--
 <!ENTITY findAgainCmd.key             "G">
 <!ENTITY findAgainCmd.accesskey       "g">
+-->
 <!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
   -  Windows and Linux builds use the Shift-F3 key which is not localizable on
   -  purpose.
   -->
+<!--
 <!ENTITY findPreviousCmd.key          "G">
 
 <!ENTITY gotoLineCmd.label            "ओळीवर जा…">
 <!ENTITY gotoLineCmd.key              "J">
 <!ENTITY gotoLineCmd.accesskey        "J">
+-->
 
 <!ENTITY run.label                    "चालवा">
 <!ENTITY run.accesskey                "R">

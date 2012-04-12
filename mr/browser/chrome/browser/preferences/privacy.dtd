@@ -43,8 +43,12 @@
 <!ENTITY  dontrememberActions.pre.label          "तुम्ही खालिल देखिल करू शकता">
 <!ENTITY  dontrememberActions.clearHistory.label "सर्व वर्तमान इतिहास नष्ट करा">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!--
 <!ENTITY  rememberDownload.label         "डाऊनलोड इतिहास लक्षात ठेवा">
 <!ENTITY  rememberDownload.accesskey     "d">
+-->
+
 <!ENTITY  rememberSearchForm.label       "शोध व फॉर्म इतिहास लक्षात ठेवा">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 <!ENTITY  clearOnClose.label             "&brandShortName; बंद झाल्यावर इतिहास पूसा">
@@ -55,10 +59,11 @@
 <!--
 <!ENTITY  privateBrowsingPermanent.label "कायमचे व्यक्तिगत ब्राउजिंग मोड">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
--->
 
 <!ENTITY  rememberHistory.label      "माझा ब्राउजिंग इतिहास लक्षात ठेवा">
 <!ENTITY  rememberHistory.accesskey  "b">
+-->
+
 <!ENTITY tracking.label                 "ट्रॅकिंग">
 <!ENTITY doNotTrack.label               "संकेतस्थळांनी मला ट्रॅक करायचे नाही">
 <!ENTITY doNotTrack.accesskey           "d">

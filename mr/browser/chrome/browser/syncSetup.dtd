@@ -14,13 +14,13 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "सर्व्हर">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; सर्व्हर">
-<!-- <!ENTITY serverType.custom.label    "पसंतीचे सर्व्हरचा वापर करा"> -->
-<!--
+<!-- 
+ <!ENTITY serverType.main.label      "&syncBrand.fullName.label; सर्व्हर">
+ <!ENTITY serverType.custom.label    "पसंतीचे सर्व्हरचा वापर करा">
  <!ENTITY signIn.account.label       "ईमेल पत्ता / वापरकर्त्याचे नाव">
+ <!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.password.label      "पासवर्ड"> 
 -->
-<!-- <!ENTITY signIn.account.accesskey   "E">
-<!ENTITY signIn.password.label      "पासवर्ड"> -->
 <!ENTITY signIn.password.accesskey  "P">
 <!-- <!ENTITY signIn.serverURL.label     "सर्व्हर URL">
 <!ENTITY signIn.serverURL.accesskey "L"> -->

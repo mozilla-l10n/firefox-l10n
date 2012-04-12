@@ -510,22 +510,26 @@
 <!ENTITY inspectMenu.label            "तपास">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!--
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "तपास">
 <!ENTITY inspectButton.accesskey      "I">
-<!--
 <!ENTITY inspectNextButton.label      "पुढे">
 <!ENTITY inspectNextButton.accesskey  "N">
 <!ENTITY inspectPreviousButton.label  "मागील">
 <!ENTITY inspectPreviousButton.accesskey "P">
 -->
+
 <!ENTITY inspectStyleButton.label     "शैली">
 <!ENTITY inspectStyleButton.accesskey "S">
+
 <!--
 <!ENTITY inspectStylePanelTitle.label  "शैली">
 <!ENTITY inspectObjectButton.label       "ऑबजेक्ट">
 <!ENTITY inspectObjectButton.accesskey   "O">
 -->
+
 <!ENTITY clearRecentHistory.label               "ताजा इतिहास नष्ट करा…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 <!ENTITY viewTabGroups.label            "गटांना टॅबमध्ये लावा">
