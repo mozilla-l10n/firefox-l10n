@@ -38,4 +38,4 @@
 
 pref("general.useragent.locale", "@AB_CD@");
 pref("spellchecker.dictionary", "@AB_CD@");
-pref("mailnews.reply_header_separator", "");
+pref("mailnews.reply_header_separator", " ");

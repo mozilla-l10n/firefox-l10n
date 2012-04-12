@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "Vaše aplikácie">
+
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.noApps.pre "Nie sú nainštalované žiadne webové aplikácie. Nainštalovať si ich môžete z ">
+<!ENTITY aboutApps.noApps.middle "archívu aplikácií">
+<!ENTITY aboutApps.noApps.post ".">
