@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "События на сегодня">
 <!ENTITY calendar.events.filter.future.label "Все будущие события">
 <!ENTITY calendar.events.filter.current.label "События на выбранный день">
-<!ENTITY calender.events.filter.currentview.label "События в текущем обзоре">
+<!ENTITY calendar.events.filter.currentview.label "События в текущем обзоре">
 <!ENTITY calendar.events.filter.next7Days.label "События на следующие 7 дней">
 <!ENTITY calendar.events.filter.next14Days.label "События на следующие 14 дней">
 <!ENTITY calendar.events.filter.next31Days.label "События на следующие 31 дней">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "д">
 <!ENTITY calendar.context.postpone.1week.label      "1 неделю">
 <!ENTITY calendar.context.postpone.1week.accesskey  "н">
+
+<!ENTITY calendar.copylink.label       "Копировать ссылку">
+<!ENTITY calendar.copylink.accesskey   "К">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

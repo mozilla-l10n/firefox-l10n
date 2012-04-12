@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "и">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Показывать события в Мероприятиях">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Показывать задачи в Мероприятиях и в режиме Задачи">
 <!ENTITY lightning.calendarproperties.email.label               "Эл. Почта:">
 
 <!-- iMIP Bar (meeting support) -->
