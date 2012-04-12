@@ -324,7 +324,7 @@ can reach it easily. -->
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Siirry verkkosivulle">
-<!ENTITY urlbar.accesskey             "S">
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Siirry välilehteen:">
 
 <!-- 
