@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Úložisko správ">
 <!ENTITY securitySettings.label "Bezpečnostné nastavenia">
 <!ENTITY serverSettings.label "Nastavenie servera">
 <!ENTITY serverType.label "Typ servera:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Pri pripájaní sa na tento server vždy vyžadovať overenie">
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Súbor newsrc:">
-<!ENTITY localPath.label "Lokálny priečinok:">
 <!ENTITY abbreviate.label "Zobraziť názvy diskusných skupín ako :">
 <!ENTITY abbreviateOn.label "Úplný názov (napr. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skratky (napr. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Pokročilé…">
 <!ENTITY advancedButton.accesskey "i">
 <!ENTITY serverDefaultCharset.label "Štandardné kódovanie:">
+<!ENTITY localPath.label "Lokálny priečinok:">
 <!ENTITY localFolderPicker.label "Výber lokálneho priečinka">
 <!ENTITY browseFolder.label "Prehľadávať…">
 <!ENTITY browseFolder.accesskey "h">
 <!ENTITY newsrcPicker.label "Vyberte súbor newsrc">
 <!ENTITY browseNewsrc.label "Prehľadávať…">
 <!ENTITY browseNewsrc.accesskey "d">
+
+<!ENTITY accountTitle.label "Nastavenia účtu">
+<!ENTITY accountSettingsDesc.label "Toto je špeciálny účet, s ktorým nie sú asociované žiadne identity.">
