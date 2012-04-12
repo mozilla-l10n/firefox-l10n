@@ -146,3 +146,12 @@
   -  the same name in browser.dtd.
   -->
 <!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY helpMenu.label               "मदत">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "मदत">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "MDN वरील स्क्रॅचपॅड मदत">
+<!ENTITY documentationLink.accesskey  "D">
+
