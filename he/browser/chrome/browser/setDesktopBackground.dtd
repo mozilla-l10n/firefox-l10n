@@ -6,11 +6,13 @@
 -->
 <!ENTITY position.label             "מיקום:">
 <!ENTITY tile.label                 "פרוש">
-<!ENTITY center.label               "מרכז">
+<!ENTITY center.label               "ממורכז">
 <!ENTITY stretch.label              "מתוח">
+<!ENTITY fill.label                 "מילוי">
+<!ENTITY fit.label                  "התאמה">
 <!ENTITY preview.label              "תצוגה מקדימה">
 <!ENTITY color.label                "צבע:">
-<!ENTITY setDesktopBackground.title "קבע כרקע שולחן העבודה">
-<!ENTITY openDesktopPrefs.label     "פתח מאפייני שולחן עבודה">
+<!ENTITY setDesktopBackground.title "קביע כרקע שולחן העבודה">
+<!ENTITY openDesktopPrefs.label     "פתיחת מאפייני שולחן עבודה">
 <!ENTITY closeWindow.key            "w">
 

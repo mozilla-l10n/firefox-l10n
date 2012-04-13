@@ -73,19 +73,16 @@
 <!ENTITY  dontrememberActions.clearHistory.label "לנקות את כל ההיסטוריה הנוכחית">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "השתמש תמיד במצב גלישה פרטית">
+<!ENTITY  privateBrowsingPermanent2.label "שימוש תמידי במצב גלישה פרטית">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ה">
 
-<!ENTITY  rememberHistory.label      "שמור את היסטורית הגלישה שלי">
-<!ENTITY  rememberHistory.accesskey  "ש">
+<!ENTITY  rememberHistory2.label      "שמירת היסטורית גלישה והורדות">
+<!ENTITY  rememberHistory2.accesskey  "ג">
 
-<!ENTITY  rememberDownload.label         "זכור היסטורית הורדות">
-<!ENTITY  rememberDownload.accesskey     "ז">
-
-<!ENTITY  rememberSearchForm.label       "זכור חיפושים והיסטורית טפסים">
+<!ENTITY  rememberSearchForm.label       "שמירת חיפושים והיסטורית טפסים">
 <!ENTITY  rememberSearchForm.accesskey   "ט">
 
-<!ENTITY  clearOnClose.label             "מחק היסטוריה כאשר &brandShortName; נסגר">
+<!ENTITY  clearOnClose.label             "מחיקת היסטוריה כאשר &brandShortName; נסגר">
 <!ENTITY  clearOnClose.accesskey         "נ">
 
 <!ENTITY  clearOnCloseSettings.label     "הגדרות…">

@@ -230,10 +230,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "חקור">
-<!ENTITY inspectButton.accesskey        "ח">
 <!ENTITY inspectCloseButton.tooltiptext "סגור את החוקר">
+
+<!ENTITY inspectorHTMLCopyInner.label       "העתקת HTML פנימי">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "פ">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "העתקת HTML חיצוני">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "ח">
+
+<!ENTITY inspectorHTMLDelete.label          "מחיקת צומת">
+<!ENTITY inspectorHTMLDelete.accesskey      "צ">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the

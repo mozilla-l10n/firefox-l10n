@@ -27,6 +27,11 @@
 <!ENTITY aboutSupport.appBasicsName "שם">
 <!ENTITY aboutSupport.appBasicsVersion "גרסה">
 <!ENTITY aboutSupport.appBasicsProfileDir "תיקיית פרופיל">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "תיקיית פרופיל">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "תוספים חיצוניים פעילים">
 <!ENTITY aboutSupport.appBasicsBuildConfig "הגדרות בנייה">
 <!ENTITY aboutSupport.appBasicsUserAgent "סוכן משתמש">
