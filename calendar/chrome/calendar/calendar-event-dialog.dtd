@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "다음 슬롯 " >
 <!ENTITY event.freebusy.previous.slot           "이전 슬롯" >
 <!ENTITY event.freebusy.zoom                    "확대:">
-<!ENTITY event.freebusy.plus                    "다음 시간" >
-<!ENTITY event.freebusy.minus                   "이전 시간" >
 <!ENTITY event.freebusy.legend.free             "일정 없음" >
 <!ENTITY event.freebusy.legend.busy             "일정 있음" >
 <!ENTITY event.freebusy.legend.busy_tentative   "임시" >
