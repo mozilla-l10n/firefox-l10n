@@ -22,14 +22,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Összeomlás-bejelentés">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memóriahasználat">
 
-<!ENTITY aboutSupport.show.label "A profilkönyvtárt tartalmazó mappa megnyitása">
+<!ENTITY aboutSupport.showDir.label "Könyvtár megnyitása">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Megjelenítés a Finderben">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Mappa megjelenítése">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Módosított beállítások">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Fontos, módosított beállítások">
 <!ENTITY aboutSupport.modifiedPrefsName "Név">
 <!ENTITY aboutSupport.modifiedPrefsValue "Érték">
 
