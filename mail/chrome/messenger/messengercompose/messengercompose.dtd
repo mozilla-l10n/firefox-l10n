@@ -68,6 +68,8 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "재보호">
 <!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY renameAttachmentCmd.label	"첨부 파일 이름 변경…">
+<!ENTITY renameAttachmentCmd.accesskey	"e">
 <!ENTITY deleteCmd.label "삭제">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "전체 선택">

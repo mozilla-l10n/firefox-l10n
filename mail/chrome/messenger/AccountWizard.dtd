@@ -39,7 +39,8 @@
 <!ENTITY defaultPortValue.label		"">
 
 <!ENTITY haveSmtp1.prefix "메일 서버 (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
+<!ENTITY haveSmtp1.suffix3		"&quot; 사용합니다.">
+
 <!ENTITY loginTitle.label "사용자 이름">
 <!ENTITY usernameDesc.label "사용자의 로그인 이름을 입력하십시오.">
 <!ENTITY usernameExample.label "(예, &quot;jsmith&quot;)">
@@ -48,10 +49,13 @@
 <!ENTITY usernameSmtpDesc.label "메일 서비스 업체에서 제공한 계정 이름을 입력하십시오. (일반적으로 계정 아이디와 동일).">
 <!ENTITY usernameSmtpLabel.label "계정 아이디:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
+
 <!ENTITY haveSmtp2.prefix "계정 아이디 &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
+<!ENTITY haveSmtp1.suffix3      "&quot; 사용합니다.">
+
 <!ENTITY haveSmtp3.prefix "메일 서버 (SMTP) &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;은(는) 메일 서버로 확인되었습니다. 계정 사용이 허가되었습니다. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
+<!ENTITY haveSmtp3.suffix3		"&quot;는 수신 서버와 동일하기 때문에 송신 서버의 접근에도 수신 서버의 계정을 사용합니다.">
+
 <!ENTITY accnameTitle.label "계정 이름">
 <!ENTITY accnameDesc.label "참조할 계정 이름을 입력하십시오.">
 <!ENTITY accnameLabel.label "계정 이름:">
