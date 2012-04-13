@@ -71,8 +71,6 @@
 <!ENTITY imagemapBox.label "그림맵">
 <!ENTITY removeImageMapButton.label "제거">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "편집...">
-<!ENTITY editImageMapButton.tooltip "그림에 핫스팟을 만듭니다.">
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "그림에 텍스트 맞춤">
 <!ENTITY bottomPopup.value "아래쪽">
