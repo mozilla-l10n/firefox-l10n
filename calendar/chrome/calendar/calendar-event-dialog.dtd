@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Következő hely " >
 <!ENTITY event.freebusy.previous.slot           " Előző hely" >
 <!ENTITY event.freebusy.zoom                    "Nagyítás:">
-<!ENTITY event.freebusy.plus                    "Következő óra" >
-<!ENTITY event.freebusy.minus                   "Előző óra" >
 <!ENTITY event.freebusy.legend.free             "Szabad" >
 <!ENTITY event.freebusy.legend.busy             "Elfoglalt" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Nem megerősített" >

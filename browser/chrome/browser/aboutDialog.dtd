@@ -12,7 +12,7 @@
 <!ENTITY community.exp.middle       " egy ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "nemzetközi közösség">
-<!ENTITY community.exp.end          ", amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.">
+<!ENTITY community.exp.end          " amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.">
 
 <!ENTITY community.start2           "A &brandShortName;ot a ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -20,7 +20,7 @@
 <!ENTITY community.middle2          "tervezte, egy ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "nemzetközi közösség">
-<!ENTITY community.end3             ", amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.">
+<!ENTITY community.end3             " amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.">
 
 <!ENTITY contribute.start           "Érdekesen hangzik? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

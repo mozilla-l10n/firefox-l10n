@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey    "v">
 
 <!ENTITY CopyMessageId.label "Message-ID másolása">
+<!ENTITY CopyMessageId.accesskey "m">
 <!ENTITY OpenMessageForMsgId.label "Az ID-hoz tartozó üzenet megnyitása">
+<!ENTITY OpenMessageForMsgId.accesskey "z">
 <!ENTITY OpenBrowserWithMsgId.label "Böngésző megnyitása a Message-ID-hoz">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">

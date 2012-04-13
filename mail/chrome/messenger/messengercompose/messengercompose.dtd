@@ -68,11 +68,13 @@
 <!ENTITY pasteCmd.accesskey "B">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Újratördelés">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Törlés">
 <!ENTITY deleteCmd.accesskey "T">
+<!ENTITY editRewrapCmd.label "Újratördelés">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Melléklet átnevezése...">
+<!ENTITY renameAttachmentCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Minden kijelölése">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "d"> 
