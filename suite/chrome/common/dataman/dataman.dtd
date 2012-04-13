@@ -80,6 +80,7 @@
 <!ENTITY perm.AskAlways "Всегда спрашивать">
 <!ENTITY perm.NeverSave "Никогда не сохранять">
 <!ENTITY perm.Allow "Разрешить">
+<!ENTITY perm.AllowSameDomain "Разрешить для того же домена">
 <!ENTITY perm.AllowSession "Разрешить на сессию">
 <!ENTITY perm.Block "Блокировать">
 <!ENTITY perm.host.placeholder "Введите имя узла">

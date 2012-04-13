@@ -7,3 +7,4 @@
 <!ENTITY addAccountDialog.authorizing "Проверка авторизации...">
 <!ENTITY addAccountDialog.error "При настройке учётной записи произошла ошибка!">
 <!ENTITY addAccountDialog.acceptButton.label "Настроить учётную запись">
+<!ENTITY addAccountDialog.learnMore "Подробнее…">
