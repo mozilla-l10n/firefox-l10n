@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label                 "Sa oled avamiseks valinud faili">
+<!ENTITY intro.label                 "Avamiseks on valitud fail">
 <!ENTITY from.label                  "asukohas">
 <!ENTITY actionQuestion.label        "Mida peaks &brandShortName; selle failiga tegema?">
 
@@ -58,4 +58,4 @@
 <!ENTITY chooseHandler.label         "Otsi...">
 <!ENTITY chooseHandler.accesskey     "O">
 
-<!ENTITY unknownPromptText.label     "Soovid sa salvestada selle faili?">
+<!ENTITY unknownPromptText.label     "Kas soovid selle faili salvestada?">
