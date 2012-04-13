@@ -32,4 +32,5 @@
 <!ENTITY abouthome.addonsButton.label    "תוספות">
 <!ENTITY abouthome.appsButton.label      "שוק">
 <!ENTITY abouthome.downloadsButton.label "הורדות">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
