@@ -280,4 +280,5 @@ Existing Account Page 1: Add Device (incl. Add a Device dialog strings)
 <!ENTITY engine.addons.label        "ॲडऑन्स्">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY setup.pickSetupType.description2 "स्वागत आहे, याअगोदर कधिही &syncBrand.fullName.label; याचा वापर न केले असल्यास, तुम्हाला नवीन खाते निर्माण करावे लागेल.">
+<!ENTITY serverType.default.label      "पूर्वनिर्धारीत: मोझिला &syncBrand.fullName.label; सर्व्हर">
 
