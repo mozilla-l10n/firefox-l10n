@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Hozzáadás a szótárhoz">
 <!ENTITY spellAddToDictionary.accesskey "H">
+<!ENTITY spellUndoAddToDictionary.label "Törlés a szótárból">
+<!ENTITY spellUndoAddToDictionary.accesskey "T">
 <!ENTITY spellCheckEnable.label "Helyesírás-ellenőrzés">
 <!ENTITY spellCheckEnable.accesskey "e">
 <!ENTITY spellNoSuggestions.label "(Nincs javaslat)">
