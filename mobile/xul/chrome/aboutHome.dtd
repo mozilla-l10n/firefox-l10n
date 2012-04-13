@@ -12,7 +12,7 @@
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
 -->
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>התחלת השימוש ב־</span><span>&brandShortName; </span>">
 <!ENTITY aboutHome.recentTabs                   "הלשוניות שלך מן הפעם הקודמת">
 <!ENTITY aboutHome.remoteTabs                   "לשוניות מן המחשבים האחרים שלך">
 <!ENTITY aboutHome.recommendedAddons2           "תוספות עבור ה־&brandShortName; שלך">

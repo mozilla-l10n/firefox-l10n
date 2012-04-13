@@ -13,7 +13,7 @@
 # Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
-<!-- Don"t localize these. They"re here until they have
+<!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
@@ -36,7 +36,7 @@
 <!ENTITY sync.link.nodevice.label "ההתקן אינו עימי…">
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label "במתנה להתקן אחר…">
+<!ENTITY sync.jpake.subtitle.waiting.label "בהמתנה להתקן אחר…">
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label "נא להכניס את פרטי חשבון &syncBrand.fullName.label; שלך">
