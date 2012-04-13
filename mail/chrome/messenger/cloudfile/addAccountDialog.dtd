@@ -10,3 +10,4 @@
 <!ENTITY addAccountDialog.authorizing "正在檢查授權...">
 <!ENTITY addAccountDialog.error "設定帳號時發生錯誤！">
 <!ENTITY addAccountDialog.acceptButton.label "設定帳號">
+<!ENTITY addAccountDialog.learnMore "更多資訊…">
