@@ -24,10 +24,19 @@
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "- শাৰীলৈ যাওক...">
 <!ENTITY goToLineCmd.accesskey "G">
@@ -59,17 +68,14 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY backCmd.label "পিছলৈ">
-<!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY backCmd.accesskey "B">
-<!ENTITY textReset.commandkey2 "">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY textReduce.commandkey2 "">
-<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardCmd.label "আগলৈ">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label "লিঙ্ক অৱস্থান কপি কৰক">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "ই-মেইল ঠিকনা কপি কৰক">
+<!ENTITY copyEmailCmd.accesskey "E">

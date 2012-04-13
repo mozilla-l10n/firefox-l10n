@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; পৃষ্ঠা আৰম্ভ কৰক">
 
 <!ENTITY abouthome.searchEngineButton.label "সন্ধান কৰক">
-
-<!ENTITY abouthome.aboutMozilla "Mozilla ৰ বিষয়ে">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "আপোনাৰ  Firefox ক আপুনি বিচৰা দৰে অতি সহজে স্বনিৰ্বাচিত কৰিব পাৰি। <a> হাজাৰটা এড-অনসমূহৰ পৰা বাচি লওক। </a>।">
 
-<!ENTITY abouthome.syncSetup.label   "সংমিহলি সংস্থাপন কৰক">
-<!ENTITY abouthome.pairDevice.label  "এটা ডিভাইচ সংযুক্ত কৰক">
+<!ENTITY abouthome.bookmarksButton.label "পত্ৰচিহ্নসমূহ">
+<!ENTITY abouthome.historyButton.label   "ইতিহাস">
+<!ENTITY abouthome.settingsButton.label  "সংহতিসমূহ">
+<!ENTITY abouthome.addonsButton.label    "এড-অনসমূহ">
+<!ENTITY abouthome.appsButton.label      "বজাৰ">
+<!ENTITY abouthome.downloadsButton.label "ডাউনল'ডসমূহ">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
