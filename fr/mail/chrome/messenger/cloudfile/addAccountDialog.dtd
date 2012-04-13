@@ -10,3 +10,4 @@
 <!ENTITY addAccountDialog.authorizing "Vérification de l'autorisation…">
 <!ENTITY addAccountDialog.error "Une erreur est survenue lors du paramétrage de votre compte !">
 <!ENTITY addAccountDialog.acceptButton.label "Paramétrer le compte">
+<!ENTITY addAccountDialog.learnMore "En apprendre plus…">
