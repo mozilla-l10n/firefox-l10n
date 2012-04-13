@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Események és feladatok">
 <!ENTITY lightning.menu.eventtask.accesskey            "E">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Levelek">
-<!ENTITY lightning.toolbar.mail.accesskey     "L">
-<!ENTITY lightning.toolbar.calendar.label     "Naptár">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Átváltás a naptár lapra">
-<!ENTITY lightning.toolbar.calendar.accesskey "N">
-<!ENTITY lightning.toolbar.task.label         "Feladatok">
-<!ENTITY lightning.toolbar.task.tooltip       "Átváltás a feladatok lapra">
-<!ENTITY lightning.toolbar.task.accesskey     "F">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Esemény">
-<!ENTITY lightning.toolbar.newtask.label      "Feladat">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Nap">
-<!ENTITY lightning.toolbar.day.accesskey             "N">
-<!ENTITY lightning.toolbar.week.label                "Hét">
-<!ENTITY lightning.toolbar.week.accesskey            "H">
-<!ENTITY lightning.toolbar.multiweek.label           "Több hét">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "T">
-<!ENTITY lightning.toolbar.month.label               "Hónap">
-<!ENTITY lightning.toolbar.month.accesskey           "p">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Események megjelenítése a Ma panelen">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Feladatok megjelenítése a Ma panelen és a Feladat módban">

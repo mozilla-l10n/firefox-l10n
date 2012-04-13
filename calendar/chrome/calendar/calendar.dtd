@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Mai események">
 <!ENTITY calendar.events.filter.future.label "Az összes jövőbeli esemény">
 <!ENTITY calendar.events.filter.current.label "A most kiválasztott nap">
+<!ENTITY calender.events.filter.currentview.label "Események az Aktuális nézetben">
 <!ENTITY calendar.events.filter.next7Days.label "Események a következő 7 napban">
 <!ENTITY calendar.events.filter.next14Days.label "Események a következő 14 napban">
 <!ENTITY calendar.events.filter.next31Days.label "Események a következő 31 napban">
@@ -179,6 +180,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Kijelölt feladatok befejezettnek jelölése">
 <!ENTITY calendar.task.priority.button.tooltip  "Prioritás változtatása">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Feladatok szűrése... #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokumentum: kész">
 
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "K">
 <!ENTITY calendar.context.priority.label              "Prioritás">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Feladat elhalasztása">
+<!ENTITY calendar.context.postpone.accesskey          "e">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Magas">
 <!ENTITY priority.level.high.accesskey      "M">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 óra">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "r">
+<!ENTITY calendar.context.postpone.1day.label       "1 nap">
+<!ENTITY calendar.context.postpone.1day.accesskey   "n">
+<!ENTITY calendar.context.postpone.1week.label      "1 hét">
+<!ENTITY calendar.context.postpone.1week.accesskey  "h">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

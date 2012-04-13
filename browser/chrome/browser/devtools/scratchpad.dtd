@@ -67,6 +67,26 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "i">
 
+<!ENTITY findCmd.label                "Keresés...">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "K">
+
+<!ENTITY findAgainCmd.label           "Következő keresése...">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "k">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "Ugrás sorra...">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "U">
+
 <!ENTITY run.label                    "Futtatás">
 <!ENTITY run.accesskey                "F">
 <!ENTITY run.key                      "r">

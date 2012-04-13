@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Hivatkozástérkép">
 <!ENTITY removeImageMapButton.label "Eltávolítás">
 <!ENTITY removeImageMapButton.accessKey "E">
-<!ENTITY editImageMapButton.label "Szerkesztés...">
-<!ENTITY editImageMapButton.tooltip "Hivatkozástérkép létrehozása ehhez a képhez">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Szöveg a kép körül">
