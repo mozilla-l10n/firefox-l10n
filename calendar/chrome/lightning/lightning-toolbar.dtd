@@ -3,6 +3,10 @@
 <!ENTITY lightning.toolbar.task.accesskey	"T">
 
 <!ENTITY lightning.toolbar.sync.label		"동기화">
+<!ENTITY lightning.toolbar.delete.label		"삭제">
+<!ENTITY lightning.toolbar.edit.label		"편집">
+<!ENTITY lightning.toolbar.gototoday.label	"오늘로 이동">
+<!ENTITY lightning.toolbar.print.label		"인쇄">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "메일">

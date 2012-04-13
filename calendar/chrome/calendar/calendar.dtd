@@ -172,8 +172,8 @@
 <!ENTITY calendar.task.priority.button.tooltip  "중요도 변경">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base		"할일 추출... #1"><!-- #1: emptytext.keylabel.* -->
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac	"<Ctrl+Shift+K>">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac	"<&#x21E7;&#x2318;K>">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac	"&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac	"&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "문서: 완료">
