@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "পত্ৰচিহ্নসমূহ">
 <!ENTITY  locbar.nothing.label          "একো নাই">
 
-
 <!ENTITY  acceptCookies.label           "ছাইটসমূহৰ পৰা কুকি গ্ৰহন কৰক">
 <!ENTITY  acceptCookies.accesskey       "A">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "সদায় ব্যক্তিগত ব্ৰাউছিং অৱস্থা ব্যৱহাৰ কৰিব">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "মোৰ ব্ৰাউছিং ইতিহাস মনত ৰাখিব">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "ডাউনল'ড ইতিহাস মনত ৰাখিব">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "মোৰ ব্ৰাউছিং আৰু ডাউনল'ড ইতিহাস মনত ৰাখিব">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "সন্ধান আৰু বিন্যাস ইতিহাস মনত ৰাখিব">
 <!ENTITY  rememberSearchForm.accesskey   "f">

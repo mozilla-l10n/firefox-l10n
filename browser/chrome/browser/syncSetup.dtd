@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "চাৰ্ভাৰ">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; চাৰ্ভাৰ">
+<!ENTITY serverType.default.label      "অবিকল্পিত: Mozilla &syncBrand.fullName.label; চাৰ্ভাৰ">
 <!ENTITY serverType.custom2.label   "এটা স্বনিৰ্বাচিত চাৰ্ভাৰ ব্যৱহাৰ কৰক…">
 <!ENTITY signIn.account2.label      "একাওন্ট">
 <!ENTITY signIn.account2.accesskey  "A">

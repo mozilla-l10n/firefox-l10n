@@ -39,7 +39,10 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; সুৰক্ষিত ধৰণ">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; এতিয়া সুৰক্ষিত ধৰণত চলি আছে,যি অস্থায়ীভাবে আপোনাৰ ব্যক্তিগত পছন্দ, থিম,আৰু সম্প্ৰসাৰণসমূহ নিষ্ক্ৰীয় কৰে ।">
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; আৰম্ভ হওতে অপ্ৰত্যাশিতভাৱে বন্ধ হল">
+<!ENTITY autoSafeModeDescription.label "আমি অসুবিধাৰ বাবে ক্ষমা বিচাৰিছো &brandShortName; এতিয়া সুৰক্ষিত অৱস্থাত চলি আছে, যি অস্থায়ীভাৱে আপোনাৰ স্বনিৰ্বাচিত সংহতিসমূহ, থীমসমূহ আৰু সম্প্ৰসাৰণসমূহ অসামৰ্থবান কৰে।">
+
+<!ENTITY safeModeDescription.label    "&brandShortName; এতিয়া সুৰক্ষিত ধৰণত চলি আছে,যি অস্থায়ীভাবে আপোনাৰ ব্যক্তিগত পছন্দ, থীম,আৰু সম্প্ৰসাৰণসমূহ নিষ্ক্ৰীয় কৰে।">
 <!ENTITY safeModeDescription2.label   "আপুনি কিছু বা সকলো সাল সলনি চিৰস্থায়ী কৰিব পাৰে:">
 
 <!ENTITY disableAddons.label          "সকলো এড-অন নিষ্ক্ৰীয় কৰক">

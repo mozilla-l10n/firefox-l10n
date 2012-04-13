@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "টাইল">
 <!ENTITY center.label               "মাজত">
 <!ENTITY stretch.label              "দীঘল কৰক">
+<!ENTITY fill.label                 "পূৰ্ণ কৰক">
+<!ENTITY fit.label                  "খাপ খুৱাওক">
 <!ENTITY preview.label              "পূৰ্বপ্ৰদৰ্শন">
 <!ENTITY color.label                "ৰং:">
 <!ENTITY setDesktopBackground.title "ডেষ্কট'পৰ পৃষ্ঠভুমি নিৰ্দ্দিষ্ট কৰক">
