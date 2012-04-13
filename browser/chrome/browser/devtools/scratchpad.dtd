@@ -60,6 +60,26 @@
 <!ENTITY selectAllCmd.key		"A">
 <!ENTITY selectAllCmd.accesskey		"A">
 
+<!ENTITY findCmd.label			"검색…">
+<!ENTITY findCmd.key			"F">
+<!ENTITY findCmd.accesskey		"F">
+
+<!ENTITY findAgainCmd.label		"다시 검색…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+-  Windows and Linux builds use the F3 key which is not localizable on purpose.
+-->
+<!ENTITY findAgainCmd.key		"G">
+<!ENTITY findAgainCmd.accesskey		"g">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+-->
+<!ENTITY findPreviousCmd.key		"G">
+
+<!ENTITY gotoLineCmd.label		"지정행 이동…">
+<!ENTITY gotoLineCmd.key		"J">
+<!ENTITY gotoLineCmd.accesskey		"J">
+
 <!ENTITY run.label			"실행">
 <!ENTITY run.accesskey			"R">
 <!ENTITY run.key			"r">

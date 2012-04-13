@@ -429,8 +429,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "문서 검사">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "검사기 닫기">
-<!ENTITY inspect3DButton.label		"3D">
-<!ENTITY inspect3DButton.accesskey	"M">
+<!ENTITY inspect3DViewButton.label		"3D 보기">
+<!ENTITY inspect3DViewButton.accesskey	"W">
 <!ENTITY inspectStyleButton.label	"스타일">
 <!ENTITY inspectStyleButton.accesskey "S">
 
