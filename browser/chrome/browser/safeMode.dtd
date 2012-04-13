@@ -27,3 +27,6 @@
 <!ENTITY disableAddons.label          "सर्व ऍड-ऑन अकार्यान्वीत करा">
 <!ENTITY deleteBookmarks.label        "बॅकअप्स् वगळता सर्व ओळखचिन्हे नष्ट करा">
 <!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY autoSafeModeIntro.label      "सुरू करतेवेळी &brandShortName; अनपेक्षीतरित्या बंद झाले">
+<!ENTITY autoSafeModeDescription.label "गैरसोय झाल्याबद्दल आम्ही प्रामाणिकपणे दिलगिरी व्यक्त करतो. &brandShortName; आता सेफ मोडमध्ये सुरू आहे, जे तात्पुर्ते पसंतीच्या सेटिंग्स्, थिम्स्, व एक्सटेंशन्स् बंद करते.">
+

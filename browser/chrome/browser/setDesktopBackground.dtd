@@ -7,3 +7,5 @@
 <!ENTITY setDesktopBackground.title "डेस्कटॉपची पार्श्वभूमी विशद करा">
 <!ENTITY openDesktopPrefs.label "डेस्कटॉपवरील प्रधान्यता उघडा">
 <!ENTITY closeWindow.key "w">
+<!ENTITY fill.label                 "भरा">
+<!ENTITY fit.label                  "बसवा">
