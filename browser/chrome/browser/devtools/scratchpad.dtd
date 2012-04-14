@@ -27,7 +27,7 @@
 <!ENTITY display.accesskey "V">
 <!ENTITY display.key "l">
 <!ENTITY environmentMenu.label "Ambiente">
-<!ENTITY environmentMenu.accesskey "A">
+<!ENTITY environmentMenu.accesskey "b">
 <!ENTITY contentContext.label "Contenuto">
 <!ENTITY contentContext.accesskey "C">
 <!ENTITY browserContext.label "Browser">
