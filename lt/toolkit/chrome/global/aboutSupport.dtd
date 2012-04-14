@@ -18,6 +18,11 @@
 <!ENTITY aboutSupport.appBasicsName                "Pavadinimas">
 <!ENTITY aboutSupport.appBasicsVersion             "Laida">
 <!ENTITY aboutSupport.appBasicsProfileDir          "Profilio aplankas">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac    "Profilio aplankas">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins      "Įjungti priedai">
 <!ENTITY aboutSupport.appBasicsBuildConfig         "Darinio konfigūracija">
 <!ENTITY aboutSupport.appBasicsUserAgent           "Naršyklės identifikacinė eilutė">
@@ -39,6 +44,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue           "Reikšmė">
 
 <!ENTITY aboutSupport.graphicsTitle                "Grafika">
+
+<!ENTITY aboutSupport.jsTitle                      "„JavaScript“">
+<!ENTITY aboutSupport.jsIncrementalGC              "Inkrementinis šiukšlių rinkimas">
+
+<!ENTITY aboutSupport.libraryVersionsTitle         "Bibliotekų versijos">
 
 <!ENTITY aboutSupport.installationHistoryTitle     "Įdiegimo žurnalas">
 <!ENTITY aboutSupport.updateHistoryTitle           "Atnaujinimo žurnalas">

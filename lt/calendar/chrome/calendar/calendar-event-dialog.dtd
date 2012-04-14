@@ -103,8 +103,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "R">
 <!ENTITY  event.menu.options.link.label                       "Pridėti saitą…">
 <!ENTITY  event.menu.options.link.accesskey                   "s">
-<!ENTITY  event.menu.options.timezone.label                   "Laiko juosta">
-<!ENTITY  event.menu.options.timezone.accesskey               "j">
+<!ENTITY  event.menu.options.timezone2.label                  "Rodyti laiko juostas">
+<!ENTITY  event.menu.options.timezone2.accesskey              "j">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritetas">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Neapibrėžtas">
@@ -327,6 +327,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Prašom parinkti laiko juostą">
+<!ENTITY event.timezone.custom.label     "Daugiau laiko juostų…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Įvykis">

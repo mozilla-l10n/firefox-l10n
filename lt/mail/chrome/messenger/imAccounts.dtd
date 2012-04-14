@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Tikralaikių pokalbių būsena">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Kurti paskyrą">
+<!ENTITY accountManager.newAccount.accesskey "K">
+<!ENTITY accountManager.close.label          "Užverti">
+<!ENTITY accountManager.close.accesskey      "U">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Sukurtų paskyrų dar nėra">
+<!ENTITY accountManager.noAccount.description "Kad programoje „&brandShortName;“ galėtumėte kalbėtis, turite pirma susikurti pokalbių paskyrą.">
+<!ENTITY account.autoSignOn.label     "Prisijungti paleidžiant programą">
+<!ENTITY account.autoSignOn.accesskey "p">
+<!ENTITY account.connect.label        "Prisijungti">
+<!ENTITY account.connect.accesskey    "j">
+<!ENTITY account.disconnect.label     "Atsijungti">
+<!ENTITY account.disconnect.accesskey "j">
+<!ENTITY account.edit.label           "Savybės">
+<!ENTITY account.edit.accesskey       "S">
+<!ENTITY account.moveup.label         "Pakelti">
+<!ENTITY account.movedown.label       "Nuleisti">
+<!ENTITY account.cancelReconnection.label         "Nutraukti bandymą prisijungti">
+<!ENTITY account.cancelReconnection.accesskey     "t">
+<!ENTITY account.connecting           "Prisijungiama…">
+<!ENTITY account.disconnecting        "Atsijungiama…">
+<!ENTITY account.disconnected         "Neprisijungta">

@@ -213,10 +213,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label           "HTML">
-<!ENTITY inspectButton.label               "Tirti">
-<!ENTITY inspectButton.accesskey           "T">
 <!ENTITY inspectCloseButton.tooltiptext    "Užverti tyriklį">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopijuoti vidinį HTML kodą">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "v">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopijuoti išorinį HTML kodą">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "i">
+
+<!ENTITY inspectorHTMLDelete.label          "Šalinti elementą">
+<!ENTITY inspectorHTMLDelete.accesskey      "Š">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -383,7 +389,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label        "Padaryti darbastalio fono piešiniu…">
+<!ENTITY setDesktopBackgroundCmd.label        "Naudoti kaip darbastalio fono piešinį…">
 <!ENTITY setDesktopBackgroundCmd.accesskey    "d">
 <!ENTITY bookmarkPageCmd2.label           "Tinklalapį įrašyti į adresyną">
 <!ENTITY bookmarkPageCmd2.accesskey       "r">
@@ -586,3 +592,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Užverti priedų juostą">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML polangis">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">

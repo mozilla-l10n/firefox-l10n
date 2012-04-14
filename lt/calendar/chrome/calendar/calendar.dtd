@@ -16,7 +16,7 @@
 <!ENTITY calendar.events.filter.today.label "Šios dienos įvykiai">
 <!ENTITY calendar.events.filter.future.label "Visi būsimieji įvykiai">
 <!ENTITY calendar.events.filter.current.label "Pažymėtos dienos įvykiai">
-<!ENTITY calender.events.filter.currentview.label "Įvykiai aktyviame rodinyje">
+<!ENTITY calendar.events.filter.currentview.label "Įvykiai aktyviame rodinyje">
 <!ENTITY calendar.events.filter.next7Days.label "Įvykiai per artimiausias 7 dienas">
 <!ENTITY calendar.events.filter.next14Days.label "Įvykiai per artimiausias 14 dienų">
 <!ENTITY calendar.events.filter.next31Days.label "Įvykiai per artimiausią 31 dieną">
@@ -205,6 +205,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
 <!ENTITY calendar.context.postpone.1week.label      "1 savaitei">
 <!ENTITY calendar.context.postpone.1week.accesskey  "s">
+
+<!ENTITY calendar.copylink.label       "Kopijuoti saito adresą">
+<!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nauja kortelė">
-
-<!ENTITY newtab.show "Rodyti naujos kortelės tinklalapį">
-<!ENTITY newtab.hide "Nerodyti naujos kortelės tinklalapio">
-<!ENTITY newtab.reset "Atstatyti naujos kortelės tinklalapį į pradinę būseną">
