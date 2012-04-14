@@ -1,166 +1,125 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
-<title>SSL nuostatos</title>
+<?xml version="1.0" encoding="utf-8"?>
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
 
-<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css"></head>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SSL Settings</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
+</head>
 <body>
 
+<h1 id="ssl_settings">SSL Settings</h1>
 
-<hr>
-<a name="settings:SSLIDX"></a>
-<a name="ssl_settings"></a>
-<h1>SSL nuostatos</h1>
-<p>Čia aprašoma, kaip parinkti saugiųjų sujungimo lygmens (SSL) protokolo ir šifrų nuostatas.</p>
+<p>This section describes how to set your SSL preferences.</p>
 
-<table summary="list of headings" cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-<tbody><tr>
-<td class="inthissections">
-<p><a href="#ssl_prefs">Privatumo ir saugumo nuostatos. SSL</a></p>
-<p><a href="#cipher_help">Šifrų nuostatos</a></p>
-</td>
-</tr>
-</tbody></table>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#privacy_and_security_preferences_ssl">Privacy &amp; Security
+      Preferences - SSL</a></li>
+  </ul>
+</div>
 
-<p> </p>
-<hr><a name="preferences:SSLIDX"></a>
-<a name="ssl_prefs"></a>
-<a name="SSL:preferencesIDX"></a>
-<h2>Privatumo ir saugumo nuostatos. SSL</h2>
-<p>Šiame skyriuje aprašomas nuostatų langas <i>SSL</i>. Jei jis dar
-neatvertas, atlikite šiuos veiksmus:
+<h2 id="privacy_and_security_preferences_ssl">Privacy &amp; Security
+  Preferences - SSL</h2>
 
-</p><ol>
-	<li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
-	</li><li>Pažymėkite grupės <i>Privatumas ir saugumas</i>  pogrupį <i>SSL</i>.
-      (Jei pogrupio <i>SSL</i> nesimato, spustelėkite ženkliuką (pliusą
-      arba trikampėlį) šalia grupės pavadinimo.)</li>
+<p>This section describes how to use the SSL preferences panel. If you are not
+  already viewing the panel, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click SSL. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
 </ol>
 
-<p><i>SSL </i>nuostatų langas suskirstytas į dvi dalis:</p>
-<table summary="list of headings" cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-<tbody><tr>
-<td class="inthissections">
-<p><a href="#SSL_Protocol_Versions">SSL protokolo versijos</a></p>
-<p><a href="#SSL_Warnings">SSL įspėjimai</a></p>
-</td>
-</tr>
-</tbody></table>
+<h3 id="ssl_protocol_versions">SSL Protocol Versions</h3>
 
-<p> </p>
-<a name="SSL_Protocol_Versions"></a>
-<h3>SSL protokolo versijos</h3>
+<p>The Secure Sockets Layer (SSL) protocol defines rules governing mutual
+  authentication between a web site and browser software and the encryption of
+  information that flows between them. The Transport Layer Security (TLS)
+  protocol is an IETF standard based on SSL. TLS 1.0 can be thought of as SSL
+  3.1.</p>
 
-<p>Saugiųjų sujungimų lygmens (SSL) protokolas apibrėžia taisykles, pagal
-kurias vyksta abipusis tapatumo nustatymas tarp svetainės ir naršyklės bei šifruotas ryšys tarp kompiuterių. Naujas IETF
-transporto lygmens saugumo standartas TLS yra sukurtas SSL pagrindu. Protokolo TLS
-versija 1.0 maždaug atitinka SSL 3.1 versiją.</p><p>Tam, kad būtų užtikrintas
-normalus naršyklės darbas ir su senais, ir su naujais saityno
-serveriais, turėtų būti pažymėti visi trys langeliai:
-</p><ul>
-	<li><b><i> SSL 2.</i></b> Leidžia naršyklei dirbti su senesniais saityno
-      serveriais.
-	</li><li><b><i> SSL 3.</i></b> Leidžia naršyklei dirbti su naujesniais saityno
-      serveriais.
-	</li><li><b><i>TLS.</i></b> Leidžia naršyklei dirbti su saityno
-      serveriais, veikiančiais TLS protokolu, ir pasinaudoti šio protokolo
-      teikiamais privalumais.</li>
-</ul>
-
-<p>Jei norite pakeisti šifrų nuostatas, t. y. įjungti arba išjungti tam
-tikrus šifrus, spustelėkite mygtuką <i>Šifrų nuostatos</i>:
-
-</p><ul><li><i><b>Šifrų nuostatos.</b></i> Be reikalo keisti šifrų nuostatas nerekomenduotina, nebent tiksliai žinote, ką darote arba
-    aptarėte norimus padaryti pakeitimus su sistemos administratoriumi. Apie
-    tai, kaip tvarkyti šifrus, žr. <a href="#cipher_help">Šifrų nuostatos</a>. </li></ul>
-
-<p><i><b>Pastaba.</b></i> Pasitaiko serverių, kuriuose
-neteisingai realizuotas SSL. Tuomet, bendraujant su klientu, jie naudoja SSL
-protokolą, net jei kliento programinė įranga (pvz., naršyklė) suderinta
-darbui su TLS protokolu. Tokie serveriai vadinami <i>TLS netoleruojančiais</i>.</p><p>Jei
-SSL nuostatų lange pažymėta parinktis <i>TLS</i>, tai prisijungdama serverio
-saugiuoju ryšiu, naršyklė bando panaudoti TLS protokolą. Jei serveris
-netoleruoja TLS, tai naršyklė naudoja SSL 3.0 protokolą.
-
-
-
-</p><p> </p>
-<a name="SSL_Warnings"></a>
-<h3>SSL įspėjimai</h3>
-
-<p>Sužinoti, ar svetainė naudoja šifruotą ryšį su Jūsų kompiuteriu, nėra
-sudėtinga. Jei ryšys
-šifruotas, tai naršyklės pagrindinio lango dešiniajame apatiniame kampe
-rodomas užrakintos spynos ženkliukas. Jei ryšys nešifruotas, vaizduojamas
-atrakintos spynos ženkliukas.</p> 
-
-<p>Jei norite, kad naršyklė daugiau informuotų apie svetainės naudojamo ryšio
-saugumą, SSL nuostatų lange pažymėkite vieną ar kelis žymimuosius
-langelius. (Pastebėta, kad kai kuriuos žmones tokie naršyklės įspėjimai
-erzina.)</p><p>Jei norite suaktyvinti tam tikrą naršyklės įspėjimą, pažymėkite
-jį atitinkantį langelį:
-</p>
+<p>You should normally leave all of the following checkboxes selected to ensure
+  that both older and newer web servers can work with the browser:</p>
 
 <ul>
-	<li><b><i>Įkeliant tinklalapį, turintį šifravimo priemones.</i></b> Pažymėkite
-      šį langelį, jei norite, kad naršyklė informuotų, kai bus įkeliamas
-      tinklalapis, turintis šifravimo priemones.
-	</li><li><b><i>Įkeliant tinklalapį, turintį žemo lygio šifravimo priemones.</i></b>
-      Šį langelį pažymėkite, jei norite, kad kiekvieną kartą, kai bus įkeliamas
-      tinklalapis, turintis žemo lygio šifravimo priemones, naršyklė
-      informuotų apie tai. (Žemo lygio šifravimas yra silpniausias šifravimas
-      40 bitų raktais.) 
-	</li><li><b><i>Užveriant tinklalapį, turintį šifravimo priemones.</i></b> Pažymėkite
-      šį langelį, jei norite, kad naršyklė informuotų, kai iš
-      tinklalapio, turinčio šifravimo priemones, bandysite pereiti į tinklalapį,
-      neturintį šifravimo.
-	</li><li><b><i>Persiunčiant formų duomenis tarp dviejų nešifruotų tinklalapių.</i></b>
-      Jei pažymėsite šį langelį, tai naršyklė įspės, kai užpildytą
-      tinklalapio formą bus bandoma siųsti nešifruotu ryšiu. Siunčiant
-      duomenis nešifruotu pavidalu, juos nesunkiai gali sužinoti pašaliniai.
-	</li><li><b><i>Peržiūrint tinklalapį, turintį nešifruotų duomenų.</i></b>
-      Jei pažymėsite šį langelį, tai naršyklė informuos, kai peržiūrimas
-      tinklalapis turės bent kiek nešifruotų duomenų. 
-</li></ul>
+  <li><strong>Enable SSL 3.0</strong>: Allows web servers that support SSL 3.0
+    to work with the browser.</li>
+  <li><strong>Enable TLS 1.0</strong>: Allows newer web servers that support TLS
+    to take advantage of it.</li>
+</ul>
 
-<p>Jei norite sužinoti trumpus svarbesnių sąvokų apibrėžimus, spustelėkite: <a href="glossary.html#authentication">tapatumo
-nustatymas</a>, <a href="glossary.html#encryption">šifravimas</a>, <a href="glossary.html#certificate">liudijimas</a>.</p>
+<p><strong>Important note regarding TLS</strong>: Some servers that do not
+  implement SSL correctly cannot negotiate the SSL handshake with client
+  software (such as the browser) that supports TLS. Such servers are known as
+  <q>TLS intolerant</q>.</p>
 
+<p>When the Enable TLS 1.0 option in the SSL preferences panel is selected, the
+  browser attempts to use the TLS protocol when making secure connections with
+  a server. If that connection fails because the server is TLS intolerant, the
+  browser will fall back to using SSL 3.0 (if enabled).</p>
 
-<hr>
-<a name="cipher_help"></a>
-<a name="SSL:ciphersIDX"></a>
-<a name="encryption:technologiesIDX"></a>
-<a name="encryption_technologiesSDX"></a>
-<h2>Šifrų nuostatos</h2>
-<p>Čia aprašomas dialogo langas <i>Šifrų nuostatos</i>. Jei jis dar
-neatvertas, atlikite šiuos veiksmus:
+<h3 id="ssl_warnings">SSL Warnings</h3>
 
-</p><ol>
-	<li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
-	</li><li>Pažymėkite grupės <i> Privatumas ir saugumas</i>  pogrupį <i>SSL</i>.
-      (Jei pogrupio <i>SSL</i> nesimato, spustelėkite ženkliuką (pliusą
-      arba trikampėlį) šalia grupės pavadinimo.)
-	</li><li>Spustelėkite mygtuką <i>Šifrų nuostatos</i>.
-</li></ol>
+<p>It&apos;s easy to tell when the web site you are viewing is using an encrypted
+  connection. If the connection is encrypted, the lock icon in the lower-right
+  corner of the browser window is locked. If the connection is not encrypted,
+  the lock icon is unlocked.</p>
 
-<p>Lange <i>Šifrų nuostatos</i> galima įjungti arba išjungti turimus šifrus,
-arba <a href="glossary.html#cryptographic_algorithm">kriptografinius algoritmus</a>.
-Prieš keičiant šifrų nuostatas rekomenduotina pasitarti su sistemos
-administratoriumi.</p><p>Kiekvienas šifrų tvarkymo lange esantis žymimasis
-langelis atitinka šifrų grupę (kriptografinių algoritmų rinkinį).</p><p>Daugiau
-informacijos apie šifravimą ir šifrus galima rasti šiuose tinklalapiuose (anglų kalba):
+<p>If you want additional warnings, you can select one or more of the warning
+  checkboxes in the SSL preferences panel. Some people find these warnings
+  annoying.</p>
 
-</p><ul>
-	<li><a href="http://developer.netscape.com/docs/manuals/security/pkin/index.htm" target="_blank">Įvadas
-      į kriptografiją viešuoju raktu</a>
-	</li><li><a href="http://developer.netscape.com/docs/manuals/security/sslin/index.htm" target="_blank">Įvadas
-      į SSL</a>
-	</li><li><a href="http://www.mozilla.org/projects/security/pki/nss/nss-3.4/nss-3.4-algorithms.html" target="_blank"> NSS
-      3.4 šifravimo technologijos</a>.
-</li></ul>
-<p> </p>
-<hr>
-<p>Copyright © 1998–2003 The Mozilla Foundation.</p>
-<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2003</p>
-</body></html>
+<p>To activate any of these warnings, select the corresponding checkbox:</p>
+
+<ul>
+  <li><strong>Loading a page that supports encryption</strong>: Select this
+    warning if you want to be reminded whenever you are loading a page that
+    supports encryption.</li>
+  <li><strong>Loading a page that uses low-grade encryption</strong>: Select
+    this warning if you want to be reminded whenever you are loading a page
+    that supports low-grade encryption. (Low-grade encryption is the weakest
+    encryption available, using 40-bit keys.)</li>
+  <li><strong>Leaving a page that supports encryption</strong>: Select this
+    warning if you want to be reminded whenever you are leaving a page that
+    supports encryption for one that does not.</li>
+  <li><strong>Sending form data from an unencrypted page to an unencrypted
+    page</strong>: Select this warning if you want to be reminded whenever you
+    are submitting data over an unencrypted connection. If you send unencrypted
+    information over the Internet, it can easily be intercepted by other
+    people.</li>
+  <li><strong>Viewing a page with an encrypted/unencrypted mix</strong>:
+    Select this warning if you want to be alerted whenever you are viewing a
+    page that includes any information that&apos;s not encrypted.</li>
+</ul>
+
+<p>For short definitions, click
+  <a href="glossary.xhtml#authentication">authentication</a>,
+  <a href="glossary.xhtml#encryption">encryption</a>, or
+  <a href="glossary.xhtml#certificate">certificate</a>.</p>
+
+<p>For more information about ciphers and encryption, see the following online
+  documents:</p>
+
+<ul>
+  <li>
+    <a href="http://developer.mozilla.org/en/Introduction_to_Public-Key_Cryptography">Introduction
+    to Public-Key Cryptography</a></li>
+  <li>
+    <a href="http://developer.mozilla.org/en/Introduction_to_SSL">Introduction
+    to SSL</a></li>
+  <li>
+    <a href="http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html">Encryption
+    Technologies Available in NSS 3.11</a>.</li>
+</ul>
+
+</body>
+</html>
