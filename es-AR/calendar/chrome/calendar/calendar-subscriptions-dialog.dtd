@@ -36,11 +36,11 @@
 -->
 
 <!-- Calendar Subscriptions Dialog -->
-<!ENTITY calendar.subscriptions.dialog.title                            "Sucribir calendarios">
+<!ENTITY calendar.subscriptions.dialog.title                            "Suscribir calendarios">
 <!ENTITY calendar.subscriptions.dialog.search.label.value               "Mostrar calendarios que contengan:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Buscar">
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Seleccionar calendarios a los que suscribirse:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Subscribirse">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Suscribirse">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Desuscribirse">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Buscar…">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "No hay coincidencias.">
