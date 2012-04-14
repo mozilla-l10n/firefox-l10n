@@ -69,7 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Bladwijzer gemaakt">
 <!ENTITY bookmarkRemove.label      "Verwijderen">
 <!ENTITY bookmarkEdit.label        "Bewerken">
-<!ENTITY bookmarkShortcut.label    "Toevoegen aan thuisscherm">
+<!ENTITY bookmarkShortcut.label    "Toevoegen aan startpagina">
 
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo2 "Verbonden met">
@@ -108,7 +108,7 @@
 <!ENTITY contextFullScreen.label      "Volledig scherm">
 <!ENTITY contextEditBookmark.label    "Bewerken">
 <!ENTITY contextRemoveBookmark.label  "Verwijderen">
-<!ENTITY contextShortcutBookmark.label "Toevoegen aan thuisscherm">
+<!ENTITY contextShortcutBookmark.label "Toevoegen aan startpagina">
 
 <!ENTITY pageactions.saveas.pdf      "Opslaan als PDF">
 <!ENTITY pageactions.share.page      "Pagina delen">
