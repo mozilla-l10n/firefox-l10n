@@ -391,7 +391,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Gwelout ar skeudenn drekleur">
 <!ENTITY viewBGImageCmd.accesskey     "d">
-<!ENTITY setDesktopBackgroundCmd.label      "Arventenniñ evel Drekleur ar burev…">
+<!ENTITY setDesktopBackgroundCmd.label      "Arventennañ evel Drekleur ar burev…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "l">
 <!ENTITY bookmarkPageCmd2.label       "Lakaat ur sined evit ar bajennad-mañ">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
