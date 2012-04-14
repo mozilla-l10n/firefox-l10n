@@ -140,8 +140,8 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "Grupos de pestañas">
 <!ENTITY tabGroupsButton.tooltip      "Agrupar pestañas">
 
-<!ENTITY feedButton.label             "Subscribirse">
-<!ENTITY feedButton.tooltip           "Subscribirse a esta página…">
+<!ENTITY feedButton.label             "Suscribirse">
+<!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
