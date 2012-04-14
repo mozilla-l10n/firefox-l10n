@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "ר">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "הצג אירועים בפאנל היום">
-<!ENTITY lightning.calendarproperties.showtasks.label           "הצג משימות בפאנל היום ואת מצבן">
 <!ENTITY lightning.calendarproperties.email.label               "דוא״ל">
 
 <!-- iMIP Bar (meeting support) -->

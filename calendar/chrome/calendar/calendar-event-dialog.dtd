@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "ת">
 <!ENTITY  event.menu.options.link.label                       "הוסף קישור…">
 <!ENTITY  event.menu.options.link.accesskey                   "ק">
-<!ENTITY  event.menu.options.timezone.label                   "אזור זמן">
-<!ENTITY  event.menu.options.timezone.accesskey               "ז">
+<!ENTITY  event.menu.options.timezone2.label                  "הצגת אזורי זמן">
+<!ENTITY  event.menu.options.timezone2.accesskey              "ז">
 <!ENTITY  event.menu.options.priority2.label                  "דחיפות">
 <!ENTITY  event.menu.options.priority2.accesskey              "ד">
 <!ENTITY  event.menu.options.priority.notspecified.label      "לא צוינה">
@@ -371,7 +371,8 @@
 <!ENTITY event.attendee.role.nonparticipant     "ללא השתתפות">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "בבקשה ציין אזור זמן">
+<!ENTITY timezone.title.label            "בבקשה לציין את אזור הזמן">
+<!ENTITY event.timezone.custom.label     "אזורי זמן נוספים…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "כללי">

@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "אירועים היום">
 <!ENTITY calendar.events.filter.future.label "כל האירועים העתידיים">
 <!ENTITY calendar.events.filter.current.label "היום המסומן הנוכחי">
-<!ENTITY calender.events.filter.currentview.label "אירועים בתצוגה נוכחית">
+<!ENTITY calendar.events.filter.currentview.label "אירועים בתצוגה נוכחית">
 <!ENTITY calendar.events.filter.next7Days.label "אירועים בשבעת הימים הבאים">
 <!ENTITY calendar.events.filter.next14Days.label "אירועים בשבועיים הקרובים">
 <!ENTITY calendar.events.filter.next31Days.label "אירועים בחודש הקרוב">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "י">
 <!ENTITY calendar.context.postpone.1week.label      "שבוע">
 <!ENTITY calendar.context.postpone.1week.accesskey  "ב">
+
+<!ENTITY calendar.copylink.label       "העתקת מיקום קישור">
+<!ENTITY calendar.copylink.accesskey   "מ">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
