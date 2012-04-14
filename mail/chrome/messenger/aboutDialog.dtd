@@ -60,7 +60,7 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Du benytter i øjeblikket ">
-<!ENTITY channel.description.end    " opdateringskanal ">
+<!ENTITY channel.description.start  "Du er i øjeblikket på opdateringskanalen: ">
+<!ENTITY channel.description.end    ".">
 
 <!ENTITY cmdCloseMac.commandKey "w">
