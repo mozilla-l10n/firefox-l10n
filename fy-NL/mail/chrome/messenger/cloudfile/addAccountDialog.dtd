@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Filelink ynstelle">
+<!ENTITY addAccountDialog.menuTitle "Selektearje in online opslachtsjinst">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Accountnamme:">
+<!ENTITY addAccountDialog.noAccountText "It spyt ús mar de aktuele ferzje fan &brandShortName; lit mar ien account per online opslachtsjinst ta.">
+<!ENTITY addAccountDialog.createAccountText "Dizze funksje jout de mooglikheid om grutte bylagen te ferstjoeren fia ien fan de online opslachstsjinsten. Jo kinne ferbine fia in besteand account of in nij account ynstelle.">
+<!ENTITY addAccountDialog.authorizing "Autorisaasje kontrolearje...">
+<!ENTITY addAccountDialog.error "Der is in flater bard by it ynstellen fan it account!">
+<!ENTITY addAccountDialog.acceptButton.label "Account ynstelle">
