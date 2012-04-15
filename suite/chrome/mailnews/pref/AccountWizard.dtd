@@ -7,8 +7,8 @@
 
 <!ENTITY accountSetupInfo2.label "Mielőtt üzeneteket kaphatna, először be kell állítania egy postafiókot.">
 <!ENTITY accountTypeTitle.label "Új postafiók beállítása">
-<!ENTITY accountTypeDesc2.label "Ez a varázsló a postafiókok beállításához szükséges információkat gyűjti össze. Ha nem tud válaszolni a feltett kérdésekre, lépjen kapcsolatba a
- rendszergazdával vagy az internetszolgáltatójával.">
+<!ENTITY accountTypeDesc2.label "Ez a varázsló a postafiókok beállításához szükséges információkat gyűjti össze. Ha nem tud válaszolni a feltett kérdésekre, lépjen kapcsolatba a 
+rendszergazdával vagy az internetszolgáltatójával.">
 <!ENTITY accountTypeDirections.label "Válassza ki a beállítandó postafiók típusát:">
 <!ENTITY accountTypeMail.label "Levelező postafiók">
 <!ENTITY accountTypeMail.accesskey "L">
@@ -55,20 +55,23 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Üzenetek megtartása a kiszolgálón">
-<!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!ENTITY portNum.label "Port:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Alapértelmezett:">
 <!ENTITY defaultPortValue.label "">
-
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!ENTITY leaveMsgsOnSrvr.label "Üzenetek megtartása a kiszolgálón">
+<!ENTITY leaveMsgsOnSrvr.accesskey "m">
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-<!ENTITY haveSmtp1.prefix "Már be van állítva a kimenő leveleket kezelő (SMTP) kiszolgáló: &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, will be used. You can modify outgoing server settings by choosing Mail &amp; Newsgroups Account Settings from the Edit menu.">
+<!ENTITY modifyOutgoing.suffix "You can modify outgoing server settings from within Mail &amp; Newsgroups Account Settings.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Már be van állítva a kimenő leveleket kezelő (SMTP) kiszolgáló: „">
+<!ENTITY haveSmtp1.suffix3 "” lesz használva.">
 <!-- Entities for Login page -->
 
 
@@ -81,18 +84,18 @@
 <!ENTITY usernameSmtpDesc.label "Írja be az e-mail szolgáltatója által megadott kimenő felhasználói nevét (ez általában ugyanaz, mint a bejövő felhasználói név).">
 <!ENTITY usernameSmtpLabel.label "Kimenő felhasználó név:">
 <!ENTITY usernameSmtpLabel.accesskey "K">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "A meglévő kimenő (SMTP) felhasználói neve, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, will be used. You can modify outgoing server settings by choosing Mail &amp; Newsgroups Account Settings from the Edit menu.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.prefix "A meglévő kimenő (SMTP) felhasználói neve, „">
+<!ENTITY haveSmtp2.suffix3 "” lesz használva.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "A kimenő (SMTP) kiszolgálója, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, is identical to your incoming server, your incoming user name will be used to access it. You can modify outgoing server settings by choosing Mail &amp; Newsgroups Account Settings from the Edit menu.">
+<!ENTITY haveSmtp2.suffix3 "” ugyanaz, mint a bejövő kiszolgálója, és a bejövő felhasználó neve lesz használva az eléréséhez.">
 <!-- Entities for Account name page -->
 
 
