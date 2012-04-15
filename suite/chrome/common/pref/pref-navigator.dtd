@@ -8,14 +8,14 @@
 
 <!ENTITY blankPageRadio.label           "Blank side">
 <!ENTITY blankPageRadio.accesskey       "B">
-<!ENTITY homePageRadio.label            "Hjemmeside">
-<!ENTITY homePageRadio.accesskey        "H">
+<!ENTITY homePageRadio.label            "Startside">
+<!ENTITY homePageRadio.accesskey        "t">
 <!ENTITY lastPageRadio.label            "Sist besøkte side">
 <!ENTITY lastPageRadio.accesskey        "S">
 <!ENTITY restoreSessionRadio.label      "Gjenopprett forrige programøkt">
 <!ENTITY restoreSessionRadio.accesskey  "G">
 
-<!ENTITY header2.label                  "Hjemmeside">
+<!ENTITY header2.label                  "Startside">
 <!ENTITY homePageIntro.label            "Når du trykker på Hjem-knappen vil denne gruppen av sider bli vist.">
 <!ENTITY useCurrent.label               "Bruk aktiv side">
 <!ENTITY useCurrent.accesskey           "u">
