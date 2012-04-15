@@ -6,12 +6,12 @@
 <!ENTITY error.line1 "Niestety nie znaleziono żadnego adresu e-mail dla tego zapytania.">
 <!ENTITY error.line2 "Można spróbować z innymi sugestiami nazw użytkownika, aby znaleźć więcej dostępnych adresów.">
 
-<!ENTITY error.suggest.before "Można także spróbować u">
+<!ENTITY error.suggest.before "Można także spróbować u ">
 <!ENTITY error.suggest.middle "dostawców darmowych usług pocztowych">
 <!ENTITY error.suggest.after  ".">
 
 <!ENTITY success.title.before      "Witaj ">
-<!ENTITY success.title.after       ", następujące adresy e-mail są dostępne:">
+<!ENTITY success.title.after       " następujące adresy e-mail są dostępne:">
 <!ENTITY success.tip               "(Można spróbować z innymi sugestiami, aby znaleźć więcej dostępnych adresów)">
 <!ENTITY partnership.description   "We współpracy z kilkoma dostawcami usług pocztowych, program &brandShortName; może pomóc w założeniu nowego adresu e-mail. Wystarczy wprowadzić w pole wyszukiwania imię i nazwisko, pseudonim lub dowolne inne sugestie nazwy użytkownika, aby wyszukać dostępne adresy.">
 <!ENTITY existing.header           "Posiadasz już adres e-mail?">
