@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Berichtenopslag">
 <!ENTITY securitySettings.label "Beveiligingsinstellingen">
 <!ENTITY serverSettings.label "Serverinstellingen">
 <!ENTITY serverType.label "Servertype:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Altijd om authenticatie vragen bij verbinden met deze server">
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "newsrc-bestand:">
-<!ENTITY localPath.label "Lokale map:">
+<!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
 <!ENTITY abbreviate.label "Nieuwsgroepnamen in het berichtenmapvenster tonen als:">
 <!ENTITY abbreviateOn.label "Volledige namen (bijvoorbeeld ‘netscape.public.mozilla.mail-news’)">
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY advancedButton.accesskey "G">
 <!ENTITY serverDefaultCharset.label "Standaard tekenset:">
+<!ENTITY localPath.label "Lokale map:">
 <!ENTITY localFolderPicker.label "Lokale map selecteren">
 <!ENTITY browseFolder.label "Bladeren…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
 <!ENTITY browseNewsrc.label "Bladeren…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Accountinstellingen">
+<!ENTITY accountSettingsDesc.label "Dit is een speciale account. Er zijn geen identiteiten mee verbonden.">
