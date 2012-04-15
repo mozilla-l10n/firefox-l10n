@@ -4,6 +4,6 @@
 
 <!ENTITY cloudfileMgmt.privacyPolicy "Zasady ochrony prywatności">
 <!ENTITY cloudfileMgmt.termsOfService "Warunki korzystania z serwisu">
-<!ENTITY cloudfileMgmt.usedSpace "Wykorzystana przestrzeń:">
-<!ENTITY cloudfileMgmt.unusedSpace "Niewykorzystana przestrzeń:">
+<!ENTITY cloudfileMgmt.usedSpace "Wykorzystana przestrzeń: ">
+<!ENTITY cloudfileMgmt.unusedSpace "Niewykorzystana przestrzeń: ">
 <!ENTITY cloudfileMgmt.upgradeOffer "Powiększ przestrzeń">
