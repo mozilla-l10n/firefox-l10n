@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Biztonsági házirend">
 <!ENTITY mousewheel.label "Egérgörgő">
 <!ENTITY scriptsAndWindows.label "Parancsfájlok és bővítmények">
+<!ENTITY spellingPane.label  "Helyesírás-ellenőrzés">
 
 <!ENTITY focusSearch.key "f">

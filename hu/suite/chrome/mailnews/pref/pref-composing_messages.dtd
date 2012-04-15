@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey "t">
 <!ENTITY char.label "karakter szélesre">
 
-<!ENTITY spellingHeader.label "Helyesírás-ellenőrzés">
-<!ENTITY spellCheck.label "Helyesírás ellenőrzése küldés előtt">
-<!ENTITY spellCheck.accesskey "H">
-<!ENTITY spellCheckInline.label "Helyesírás-ellenőrzés beírás közben">
-<!ENTITY spellCheckInline.accesskey "b">
-<!ENTITY languagePopup.label "Nyelv:">
-<!ENTITY languagePopup.accessKey "N">
-<!ENTITY moreDictionaries.label "További szótárak letöltése...">
-
 <!ENTITY defaultMessagesHeader.label "HTML-üzenetek beállításai">
 <!ENTITY font.label "Betű:">
 <!ENTITY font.accesskey "B">
