@@ -1,24 +1,26 @@
 <!-- extracted from content/pref-scripts.xul -->
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 
-<!ENTITY pref.scripts.title "Parancsfájlok és bővítmények">
+<!ENTITY pref.scripts.title              "Parancsfájlok és bővítmények">
 
-<!ENTITY navigator.label "Böngésző">
-<!ENTITY navigator.accesskey "B">
+<!ENTITY navigator.label                 "Böngésző">
+<!ENTITY navigator.accesskey             "B">
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 
-<!ENTITY enableJavaScript.label "JavaScript engedélyezése">
-<!ENTITY allowScripts.label "A parancsfájlok számára engedélyezett:">
-<!ENTITY allowScripts.accesskey "p">
-<!ENTITY allowWindowMoveResize.label "Létező ablakok áthelyezése vagy átméretezése">
-<!ENTITY allowWindowFlip.label "Ablakok előtérbe vagy háttérbe helyezése">
-<!ENTITY allowWindowStatusChange.label "Állapotsor szövegének megváltoztatása">
+<!ENTITY enableJavaScript.label          "JavaScript engedélyezése">
+<!ENTITY allowScripts.label              "A parancsfájlok számára engedélyezett:">
+<!ENTITY allowScripts.accesskey          "p">
+<!ENTITY allowWindowMoveResize.label     "Létező ablakok áthelyezése vagy átméretezése">
+<!ENTITY allowWindowFlip.label           "Ablakok előtérbe vagy háttérbe helyezése">
+<!ENTITY allowWindowStatusChange.label   "Állapotsor szövegének megváltoztatása">
 <!ENTITY allowWindowImageSrcChange.label "Képek megváltoztatása">
-<!ENTITY allowContextmenuDisable.label "Előugró menük letiltása vagy cseréje">
-<!ENTITY allowHideStatusBar.label "Állapotsor elrejtése">
+<!ENTITY allowContextmenuDisable.label   "Előugró menük letiltása vagy cseréje">
+<!ENTITY allowHideStatusBar.label        "Állapotsor elrejtése">
 
-<!ENTITY enablePlugin.label "Bővítmények engedélyezése">
+<!ENTITY enablePlugin.label              "Bővítmények engedélyezése">
+<!ENTITY enablePluginForSuite.label      "Suite">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label "Amennyiben további Bővítmény telepítése szükséges">
-<!ENTITY displayNotification.label "Értesítés megjelenítése az ablak tetején">
-<!ENTITY displayNotification.accesskey "m">
+<!ENTITY whenPluginsRequired.label       "Amennyiben további Bővítmény telepítése szükséges">
+<!ENTITY displayNotification.label       "Értesítés megjelenítése az ablak tetején">
+<!ENTITY displayNotification.accesskey   "m">
