@@ -246,7 +246,7 @@
 <!ENTITY priority.level.high                "Høg">
 <!ENTITY priority.level.high.accesskey      "H">
 
-<!ENTITY calendar.context.postpone.1hour.label      "1 Hour">
+<!ENTITY calendar.context.postpone.1hour.label      "1 time">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "t">
 <!ENTITY calendar.context.postpone.1day.label       "1 dag">
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
