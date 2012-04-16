@@ -7,9 +7,9 @@
 <!ENTITY useCursorNavigation.label       "Always use the cursor keys to navigate within pages">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Search for text when I start typing">
-<!ENTITY searchStartTyping.accesskey     "S">
+<!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey      "W">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Browsing">
 
@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label            "System Defaults">
 <!ENTITY alwaysCheckDefault.label        "Always check to see if &brandShortName; is the default browser on startup"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "b">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "Check Now">
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Submit crash reports">
@@ -74,7 +74,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
 <!ENTITY updateHistory.label             "Show Update History">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.accesskey         "U">
 
 <!ENTITY useService.label                "Use a background service to install updates">
 <!ENTITY useService.accesskey            "b">
@@ -86,7 +86,7 @@
 <!ENTITY offlineNotify.label             "Tell me when a website asks to store data for offline use">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "Exceptions…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height          "7em">
