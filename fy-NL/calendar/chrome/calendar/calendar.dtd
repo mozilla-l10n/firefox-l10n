@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Barrens fan hjoed">
 <!ENTITY calendar.events.filter.future.label "Alle kommende barrens">
 <!ENTITY calendar.events.filter.current.label "No selektearre dei">
-<!ENTITY calender.events.filter.currentview.label "Barrens yn aktuele byld">
+<!ENTITY calendar.events.filter.currentview.label "Barrens yn aktuele byld">
 <!ENTITY calendar.events.filter.next7Days.label "Barrens yn de kommende 7 dagen">
 <!ENTITY calendar.events.filter.next14Days.label "Barrens yn de kommende 14 dagen">
 <!ENTITY calendar.events.filter.next31Days.label "Barrens yn de kommende 31 dagen">
@@ -253,6 +253,9 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 wike">
 <!ENTITY calendar.context.postpone.1week.accesskey  "w">
 
+<!ENTITY calendar.copylink.label       "Keppelingslokaasje kopiearje">
+<!ENTITY calendar.copylink.accesskey   "k">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
@@ -338,7 +341,7 @@
 <!ENTITY calendarproperties.firealarms.label 		"Alarmen toane">
 <!ENTITY calendarproperties.cache2.label    			"Buffer">
 <!ENTITY calendarproperties.enabled.label  			"Dizze aginda ynskeakelje">
-<!ENTITY calendarproperties.forceDisabled.label		"De útjouwer foar dizze aginda koe net fûn wurde. Dit bart faak as jo bepaalde útwreidings útskeakele of de-ynstallearre hawwe.">
+<!ENTITY calendarproperties.forceDisabled.label		"De útjouwer foar dizze aginda koe net fûn wurde. Dit bart faak as jo bepaalde útwreidingen útskeakele of de-ynstallearre hawwe.">
 <!ENTITY calendarproperties.unsubscribe.label		"Utskriuwe">
 <!ENTITY calendarproperties.unsubscribe.accesskey	"U">
 
@@ -366,7 +369,7 @@
 <!ENTITY calendar.print.custom.label "Oanpast datumberyk:">
 <!ENTITY calendar.print.from.label "Fan:">
 <!ENTITY calendar.print.to.label "Oant:">
-<!ENTITY calendar.print.settingsGroup.label "Ofdrukynstellings">
+<!ENTITY calendar.print.settingsGroup.label "Ofdrukynstellingen">
 <!ENTITY calendar.print.optionsGroup.label "Opsjes">
 <!ENTITY calendar.print.taskswithnoduedate.label "Taken sûnder eindatum">
 <!ENTITY calendar.print.completedtasks.label "Foltôge taken">

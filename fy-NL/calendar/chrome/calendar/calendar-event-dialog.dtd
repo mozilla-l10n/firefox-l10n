@@ -105,7 +105,7 @@
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
 <!ENTITY  event.menu.item.delete.label                    "Fuortsmite…">
 <!ENTITY  event.menu.item.delete.accesskey                "F">
-<!ENTITY  event.menu.item.page.setup.label                "Side-ynstellings">
+<!ENTITY  event.menu.item.page.setup.label                "Side-ynstellingen">
 <!ENTITY  event.menu.item.page.setup.accesskey            "i">
 <!ENTITY  event.menu.item.print.label                     "Ofdrukke">
 <!ENTITY  event.menu.item.print.accesskey                 "d">
@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Keppeling tafoegje…">
 <!ENTITY  event.menu.options.link.accesskey                   "K">
-<!ENTITY  event.menu.options.timezone.label                   "Tiidsône">
-<!ENTITY  event.menu.options.timezone.accesskey               "s">
+<!ENTITY  event.menu.options.timezone2.label                   "Tiidsônes toane">
+<!ENTITY  event.menu.options.timezone2.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Net spesifisearre">
@@ -245,7 +245,7 @@
 <!ENTITY event.reminder.1week.before.label                "1 wike dêrfoar" >
 <!ENTITY event.reminder.custom.label                      "Oanpast…" >
 
-<!ENTITY event.reminder.multiple.label                    "Mear warskôgings…" >
+<!ENTITY event.reminder.multiple.label                    "Mear warskôgingen…" >
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Werhelling bewurkje">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spesifisearje de tiidsoane">
+ <!ENTITY event.timezone.custom.label     "Mear tiidsônes…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemien">
