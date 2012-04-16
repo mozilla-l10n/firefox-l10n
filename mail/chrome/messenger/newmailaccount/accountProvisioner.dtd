@@ -1,5 +1,5 @@
 <!ENTITY window.title "Dobrošli v &brandShortName;u">
-<!ENTITY header.label "Potrebujete nov e-poštni naslov za &brandShortName;?">
+<!ENTITY header.label "Potrebujete nov e-poštni naslov?">
 <!ENTITY other.languages "Kažemo samo ponudnike na vašem področju. Kliknite tu za vse ponudnike.">
 <!ENTITY error.line1 "Na žalost ni bilo najti nobenega od predlaganih e-naslovov.">
 <!ENTITY error.line2 "Poizkusite iskati z vzdevki ali s kakim drugim izrazom, če želite še več e-poštnih naslovov">
