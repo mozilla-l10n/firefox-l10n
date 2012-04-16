@@ -3,7 +3,7 @@
 <!ENTITY conversationsHeader.label     "Conversaziuns">
 <!ENTITY searchResultConversation.label "Resultat da tschertgar">
 <!ENTITY chat.noConv.title             "Las conversaziuns vegnan mussadas qua.">
-<!ENTITY chat.noConv.description       "Utilisescha la glista da contacts da vart sanestra per cumenzar ina conversaziun."Use the contact list in the left panel to start a conversation.">
+<!ENTITY chat.noConv.description       "Utilisescha la glista da contacts da vart sanestra per cumenzar ina conversaziun.">
 <!ENTITY chat.noPreviousConv.description       "Actualmain n'èn naginas conversaziuns anteriuras cun quest contact memorisadas en &brandShortName;.">
 <!ENTITY chat.noAccount.title             "Ti n'has anc betg endrizzà in conto da chat.">
 <!ENTITY chat.noAccount.description       "Lascha guidar &brandShortName; tai atras il process dad endrizzar in conto da chat.">
