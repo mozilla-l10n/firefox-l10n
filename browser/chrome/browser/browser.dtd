@@ -732,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY openLinkCmdInCurrent.label     "कड़ी खोलू">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 
-<!ENTITY  pinAppTab.label                    "बतौर अनुप्रयोग टैब पिन करू">
+<!ENTITY  pinAppTab.label                    "अनुप्रयोग रूपेँ टैब पिन करू">
 <!ENTITY  pinAppTab.accesskey                "P">
 
 
