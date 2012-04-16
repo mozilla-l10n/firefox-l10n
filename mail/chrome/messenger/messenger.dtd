@@ -329,7 +329,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Klepet">
 <!ENTITY goChatCmd.accesskey "k">
-<!ENTITY goChatCmd.commandKey "K">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
 <!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY folderMenu.label "Mapa">
