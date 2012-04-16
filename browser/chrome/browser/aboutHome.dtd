@@ -2,6 +2,10 @@
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
 
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+
+ %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ଆରମ୍ଭ ପୃଷ୍ଠା">
@@ -12,8 +16,14 @@
 
 <!ENTITY abouthome.searchEngineButton.label "ସନ୍ଧାନ କରନ୍ତୁ">
 
+<!ENTITY abouthome.addonsButton.label    "ଏଡ-ଅନଗୁଡ଼ିକ">
+<!ENTITY abouthome.appsButton.label      "ବ୍ୟାପାର ସ୍ଥାନ">
+<!ENTITY abouthome.bookmarksButton.label "ଚିହ୍ନିତ ସ୍ଥାନ">
+<!ENTITY abouthome.downloadsButton.label "ଆହରଣଗୁଡ଼ିକ">
+<!ENTITY abouthome.historyButton.label   "ପୁରୁଣା ତଥ୍ୟ">
+<!ENTITY abouthome.settingsButton.label  "ସଂରଚନା">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
-<!ENTITY abouthome.aboutMozilla "Mozilla ବିଷୟରେ">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -24,6 +34,6 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "ଆପଣଙ୍କ ଇଚ୍ଛା ଅନୁସାରେ Firefox କୁ ରଚନା କରିବା ସହଜ। <a>ହଜାର ହଜାର ଏଡ-ଅନଗୁଡ଼ିକ ମଧ୍ଯରୁ ବାଛନ୍ତୁ</a>.">
 
- <!ENTITY abouthome.syncSetup.label   "ସନ୍ତୁଳନକୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
 
-<!ENTITY abouthome.pairDevice.label  "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ">
+
+

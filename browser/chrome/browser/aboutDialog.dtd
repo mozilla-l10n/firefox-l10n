@@ -1,3 +1,12 @@
+<!ENTITY community.end3             " ୱେବକୁ ମୁକ୍ତ, ସର୍ବସାଧାରଣ ଏବଂ ସମସ୍ତଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଏକା ସହିତ ମିଶି କାମ କରୁଅଛୁ।">
+<!ENTITY community.exp.creditsLink  "ବିଶ୍ୱବ୍ୟାପି ସମ୍ପ୍ରଦାୟ">
+<!ENTITY community.exp.end          " ୱେବକୁ ମୁକ୍ତ, ସର୍ବସାଧାରଣ ଏବଂ ସମସ୍ତଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟ ରଖିବା ପାଇଁ ଏକା ସହିତ କାମ କରୁଅଛୁ।">
+<!ENTITY community.exp.middle       " ଏକ ଅଟେ ">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.start        "">
+<!ENTITY warningDesc.telemetry      "ଏହା ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପରୀକ୍ଷା ସୂଚନାକୁ &vendorShortName; ପାଖକୁ &brandShortName; କୁ ଅଧିକ ଉତ୍ତମ କରିବା ପାଇଁ ପଠାଇଥାଏ।">
+<!ENTITY warningDesc.version        "&brandShortName; ଟି ପରୀକ୍ଷାମୂଳକ ସ୍ଥିତିରେ ଅଛି ଏବଂ ହୁଏତଃ ଅସ୍ଥାୟୀ ହୋଇଥିବ।">
+
 <!ENTITY aboutDialog.title      "&brandFullName; ବିଷୟରେ">
 <!ENTITY bottomLinks.license        "ଅନୁମତି ପତ୍ର ସୂଚନା">
 <!ENTITY bottomLinks.rights         "ଚାଳକ ସୂଚନା">
@@ -8,7 +17,7 @@
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ବିଶ୍ୱ ସମ୍ପ୍ରଦାୟ">
-<!ENTITY community.end2             " ଏକା ସହିତ ଇଣ୍ଟରନେଟକୁ ଉତ୍ତମ କରିବା ପାଇଁ କାର୍ଯ୍ୟକରୁଛନ୍ତି। ଆମେ ବିଶ୍ୱାସ କରୁଛୁ ଯେ ଇଣ୍ଟରନେଟକୁ ସର୍ବସାଧାରଣ ପାଇଁ ମୁକ୍ତ ରଖିବା ଉଚିତ, ଏବଂ କୌଣସି ପ୍ରତିବନ୍ଧ ବିନା ସମସ୍ତ ପାଇଁ ଅଭିଗମ୍ୟ ହୋଇପାରୁଥିବା ଉଚିତ।">
+
 
 <!ENTITY contribute.start           "ଭଲ ହୋଇଥିବା ପରି ଲାଗୁଛି? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
