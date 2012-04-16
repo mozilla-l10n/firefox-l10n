@@ -93,10 +93,11 @@
 <!ENTITY cookies.blockOnRemove.accesskey "w">
 
 <!-- permissions -->
-<!ENTITY perm.UseDefault "Usar predefinido">
+<!ENTITY perm.UseDefault "Usar predeterminado">
 <!ENTITY perm.AskAlways "Preguntar sempre">
 <!ENTITY perm.NeverSave "Non gardar nunca">
 <!ENTITY perm.Allow "Permitir">
+<!ENTITY perm.AllowSameDomain "Permitir no mesmo dominio">
 <!ENTITY perm.AllowSession "Permitir nesta sesión">
 <!ENTITY perm.Block "Bloquear">
 
