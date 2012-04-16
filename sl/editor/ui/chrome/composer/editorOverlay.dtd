@@ -149,7 +149,7 @@
 <!ENTITY styleUnderlineCmd.accesskey "U">
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Prečrtano">
-<!ENTITY styleStrikeThruCmd.accesskey "e">
+<!ENTITY styleStrikeThruCmd.accesskey "H">
 <!ENTITY styleSuperscriptCmd.label "Nadpisano">
 <!ENTITY styleSuperscriptCmd.accesskey "N">
 <!ENTITY styleSubscriptCmd.label "Podpisano">
