@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Sche &brandShortName; aviescha:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Restar offline cun mes contos">
+<!ENTITY  startupConnectAuto.label    "Connectar automaticamain mes contos da chat">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Laschar savair mes contacts ch'jau sun inactiv suenter">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "minutas inactivitad">
+
+<!ENTITY  andSetStatusToAway.label      "e midar mes status sin 'Absent' cun quest messadi da status:">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
+
+<!ENTITY  sendTyping.label              "Trametter notificaziuns davart il tippar en conversaziuns">
+<!ENTITY  sendTyping.accesskey          "t">

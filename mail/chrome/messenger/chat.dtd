@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label    "Contacts online">
+<!ENTITY offlineContactsHeader.label   "Contacts offline">
+<!ENTITY conversationsHeader.label     "Conversaziuns">
+<!ENTITY searchResultConversation.label "Resultat da tschertgar">
+<!ENTITY chat.noConv.title             "Las conversaziuns vegnan mussadas qua.">
+<!ENTITY chat.noConv.description       "Utilisescha la glista da contacts da vart sanestra per cumenzar ina conversaziun."Use the contact list in the left panel to start a conversation.">
+<!ENTITY chat.noPreviousConv.description       "Actualmain n'èn naginas conversaziuns anteriuras cun quest contact memorisadas en &brandShortName;.">
+<!ENTITY chat.noAccount.title             "Ti n'has anc betg endrizzà in conto da chat.">
+<!ENTITY chat.noAccount.description       "Lascha guidar &brandShortName; tai atras il process dad endrizzar in conto da chat.">
+<!ENTITY chat.accountWizard.button       "Cumenzar">
+<!ENTITY chat.noConnectedAccount.title             "Tes contos da chat n'èn betg colliads.">
+<!ENTITY chat.noConnectedAccount.description       "Ti als pos colliar en il dialog 'Status da chat':">
+<!ENTITY chat.showAccountManager.button       "Mussar il status da chat">
+
+<!ENTITY chat.participants             "Participants:">
+<!ENTITY chat.previousConversations    "Conversaziuns anteriuras:">
+<!ENTITY chat.ongoingConversation      "Conversaziun actuala">
+
+<!ENTITY openConversationCmd.label     "Cumenzar ina conversaziun">
+<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY closeConversationCmd.label    "Serrar la conversaziun">
+<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY aliasCmd.label                "Renumnar">
+<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY deleteCmd.label               "Allontanar il contact">
+<!ENTITY deleteCmd.accesskey           "l">
+
+<!ENTITY openConversationButton.tooltip  "Cumenzar ina conversaziun">
+<!ENTITY closeConversationButton.tooltip "Serrar la conversaziun">
+
+<!ENTITY addBuddyButton.label          "Agiuntar in contact">
+<!ENTITY joinChatButton.label          "Ta participar al chat">
+<!ENTITY chatAccountsButton.label      "Mussar ils contos">
+
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllChatMessages.label.base "Tschertgar en tut las conversaziuns… #1">
+
+<!ENTITY status.available          "Disponibel">
+<!ENTITY status.unavailable        "Occupà">
+<!ENTITY status.offline            "Offline">
+
+<!ENTITY openLinkCmd.label            "Avrir ina colliaziun…">
+<!ENTITY openLinkCmd.accesskey        "O">
