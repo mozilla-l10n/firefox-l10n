@@ -471,9 +471,7 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "ଯାଞ୍ଚ କରନ୍ତୁ">
-<!ENTITY inspectButton.accesskey      "I">
+
 <!ENTITY  listAllTabs.label      "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY menubarCmd.label "ତାଲିକା ପଟି">
@@ -565,9 +563,8 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY videoShowStats.label        "ପରିସଂଖ୍ୟାନ ଦର୍ଶାନ୍ତୁ">
 
 <!ENTITY videoShowStats.accesskey    "t">
- <!ENTITY inspect3DButton.label        "3D">
 
- <!ENTITY inspect3DButton.accesskey    "M">
+
 <!ENTITY styleeditor.label            "ଶୈଳୀ ସମ୍ପାଦକ">
 
 <!ENTITY styleeditor.accesskey        "y">
@@ -576,4 +573,18 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 
 <!ENTITY styleeditor.keytext          "F7">
 
+
+<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY htmlPanel.label              "HTML">
+
+<!ENTITY htmlPanel.tooltiptext        "HTML ପ୍ୟାନେଲ">
+<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspect3DViewButton.label     "3D ଦୃଶ୍ୟ">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY inspectorHTMLCopyInner.label       "ଭିତର HTML କୁ ନକଲ କରନ୍ତୁ">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLCopyOuter.label       "ବାହାର HTML କୁ ନକଲ କରନ୍ତୁ">
+<!ENTITY inspectorHTMLDelete.label          "ନୋଡକୁ ଅପସାରଣ କରନ୍ତୁ">
+
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
 
