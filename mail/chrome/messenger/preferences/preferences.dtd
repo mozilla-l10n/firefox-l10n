@@ -8,6 +8,7 @@
 <!ENTITY paneGeneral.title        "Algemien">
 <!ENTITY paneDisplay.title        "Werjefte">
 <!ENTITY paneComposition.title    "Opstelle">
+<!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Bylagen">
 <!ENTITY paneSecurity.title       "Feilichheid">
 <!ENTITY paneAdvanced.title       "Avansearre">

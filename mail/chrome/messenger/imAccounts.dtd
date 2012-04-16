@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Instant messagingsteat">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Nij account">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Slute">
+<!ENTITY accountManager.close.accesskey      "l">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Noch gjin account konfigurearre!">
+<!ENTITY accountManager.noAccount.description "Klik op de knop &accountManager.newAccount.label; om &brandShortName; jo troch it accountkonfiguraasjeproses liede te litten.">
+<!ENTITY account.autoSignOn.label     "Oanmelde by opstarten">
+<!ENTITY account.autoSignOn.accesskey "s">
+<!ENTITY account.connect.label        "Ferbine">
+<!ENTITY account.connect.accesskey    "F">
+<!ENTITY account.disconnect.label     "Ferbining ferbrekke">
+<!ENTITY account.disconnect.accesskey "b">
+<!ENTITY account.edit.label           "Eigenskippen">
+<!ENTITY account.edit.accesskey       "E">
+<!ENTITY account.moveup.label         "Omheech ferpleatse">
+<!ENTITY account.movedown.label       "Omleech ferpleatse">
+<!ENTITY account.cancelReconnection.label         "Opnij ferbine annulearje">
+<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.connecting           "Ferbine…">
+<!ENTITY account.disconnecting        "Ferbining ferbrekke…">
+<!ENTITY account.disconnected         "Net ferbûn">

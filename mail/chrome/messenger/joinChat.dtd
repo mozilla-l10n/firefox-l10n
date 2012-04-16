@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Chat bywenje">
+<!ENTITY name.label                     "Chatromte">
+<!ENTITY optional.label                 "(opsjoneel)">
+<!ENTITY account.label                  "Account">
+<!ENTITY autojoin.label                 "Dizze chatromte automatysk bywenje">
+<!ENTITY autojoin.accesskey             "D">
