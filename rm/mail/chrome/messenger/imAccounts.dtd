@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Status dals contos da chat">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Nov conto">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Serrar">
+<!ENTITY accountManager.close.accesskey      "r">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Anc configurà nagin conto">
+<!ENTITY accountManager.noAccount.description "Clicca sin il buttun '&accountManager.newAccount.label;' per laschar guidar &brandShortName; tia atras il process da configurar in.">
+<!ENTITY account.autoSignOn.label     "S'annunziar cun aviar">
+<!ENTITY account.autoSignOn.accesskey "S">
+<!ENTITY account.connect.label        "Connectar">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Interrumper la connexiun">
+<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.edit.label           "Caracteristicas">
+<!ENTITY account.edit.accesskey       "C">
+<!ENTITY account.moveup.label         "Ensi">
+<!ENTITY account.movedown.label       "Engiu">
+<!ENTITY account.cancelReconnection.label         "Interrumper da reconnectar">
+<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.connecting           "Connectar…">
+<!ENTITY account.disconnecting        "Interrumper la connexiun…">
+<!ENTITY account.disconnected         "Betg collià">

@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Ta participar al chat">
+<!ENTITY name.label                     "Local">
+<!ENTITY optional.label                 "(opziunal)">
+<!ENTITY account.label                  "Conto">
+<!ENTITY autojoin.label                 "Entrar automaticamain en quest local">
+<!ENTITY autojoin.accesskey             "A">
