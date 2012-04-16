@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Today's Events">
 <!ENTITY calendar.events.filter.future.label "All Future Events">
 <!ENTITY calendar.events.filter.current.label "Currently Selected Day">
+<!ENTITY calender.events.filter.currentview.label "Events in Current View">
 <!ENTITY calendar.events.filter.next7Days.label "Events in the Next 7 Days">
 <!ENTITY calendar.events.filter.next14Days.label "Events in the Next 14 Days">
 <!ENTITY calendar.events.filter.next31Days.label "Events in the Next 31 Days">
@@ -179,6 +180,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Mark selected tasks completed">
 <!ENTITY calendar.task.priority.button.tooltip  "Change the priority">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tasks… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document: Done">
 
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Priority">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Postpone Task">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "High">
 <!ENTITY priority.level.high.accesskey      "H">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Hour">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 Day">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Week">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
