@@ -37,30 +37,6 @@
 <!ENTITY editMenu.label               "ସମ୍ପାଦନ କରନ୍ତୁ">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "ପଦକ୍ଷେପକୁ ବାତିଲ କରନ୍ତୁ">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
-
-<!ENTITY redoCmd.label                "ପଦକ୍ଷେପକୁ ପୁଣିଥରେ କରନ୍ତୁ">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "କାଟନ୍ତୁ">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "ନକଲ କରନ୍ତୁ">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "ଲଗାନ୍ତୁ">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "ସମସ୍ତଙ୍କୁ ବାଛନ୍ତୁ">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
-
 <!ENTITY run.label                    "ଚଲାନ୍ତୁ">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
@@ -121,3 +97,15 @@
 <!ENTITY resetContext2.label          "ପ୍ରାଚଳଗୁଡ଼ିକୁ ପୁଣି ସେଟ କରନ୍ତୁ">
 
 <!ENTITY resetContext2.accesskey      "T">
+
+<!ENTITY documentationLink.label      "MDN ଉପରେ ସ୍କ୍ରାଚପ୍ୟାଡ ସହାୟତା">
+
+<!ENTITY documentationLink.accesskey  "D">
+<!ENTITY helpMenu.label               "ସହାୟତା">
+
+<!ENTITY helpMenu.accesskey           "H">
+
+<!ENTITY helpMenuWin.label            "ସହାୟତା">
+
+<!ENTITY helpMenuWin.accesskey        "H">
+
