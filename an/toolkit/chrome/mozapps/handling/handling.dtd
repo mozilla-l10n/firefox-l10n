@@ -1,5 +1,0 @@
-<!ENTITY window.emWidth "26em">
-<!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Trigar una aplicación">
-<!ENTITY ChooseApp.label "Trigar…">
-<!ENTITY ChooseApp.accessKey "T">
