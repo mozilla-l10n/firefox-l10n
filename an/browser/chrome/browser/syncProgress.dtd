@@ -1,0 +1,10 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+<!-- These strings are used in the sync progress upload page -->
+
+<!ENTITY syncProgress.pageTitle    "A primer Sync">
+<!ENTITY syncProgress.textBlurb    "Agora os suyos datos se son zifrando y se son puyando ta o servidor en un segundo plan. Puede zarrar ista pestanya y continar utilizando o &brandShortName;.">
+<!ENTITY syncProgress.closeButton  "Zarrar">
+<!ENTITY syncProgress.logoAltText  "Logotipo d'o &brandShortName;">
+<!ENTITY syncProgress.diffText     "O &brandShortName; s'actualizará automaticament en un segundo plan.  Puede zarrar ista pestanya ta continar fendo servir o &brandShortName;.">
+

@@ -1,0 +1,7 @@
+<!ENTITY crashes.title              "Informes de fallos ninviaus">
+<!ENTITY id.heading                 "Identificador de l'informe">
+<!ENTITY date.heading               "Calendata de ninvio">
+<!ENTITY noReports.label            "No s'ha ninviau informes de fallo.">
+<!ENTITY noConfig.label             "Ista aplicación ye configurada ta amostrar informes de fallos. Cal configurar a preferencia <code>breakpad.reportURL</code>.">
+<!ENTITY clearAllReports.label      "Eliminar totz os informes">
+
