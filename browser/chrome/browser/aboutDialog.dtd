@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          ", ಒಂದು ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ಜಾಗತಿಕ ಸಮುದಾಯ">
-<!ENTITY community.end2             " ಅಂತರಜಾಲವನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ಒಂದುಗೂಡಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ. ಅಂತರಜಾಲವು ಮುಕ್ತ, ಸಾರ್ವಜನಿಕ, ಹಾಗು ಯಾವು ನಿರ್ಬಂಧಗಳಿಲ್ಲದೆ ಎಲ್ಲರಿಗೂ ಎಟಕುವಂತಿರಬೇಕು ಎಂಬುದು ನಮ್ಮ ವಿಚಾರ.">
+<!--ENTITY community.end2             " ಅಂತರಜಾಲವನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ಒಂದುಗೂಡಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ. ಅಂತರಜಾಲವು ಮುಕ್ತ, ಸಾರ್ವಜನಿಕ, ಹಾಗು ಯಾವು ನಿರ್ಬಂಧಗಳಿಲ್ಲದೆ ಎಲ್ಲರಿಗೂ ಎಟಕುವಂತಿರಬೇಕು ಎಂಬುದು ನಮ್ಮ ವಿಚಾರ."-->
 
 <!ENTITY contribute.start           "ಆಸಕ್ತಿಕರ ಎನಿಸುತ್ತದೆಯೆ? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
