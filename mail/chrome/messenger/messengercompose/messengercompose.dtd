@@ -274,7 +274,7 @@
 <!ENTITY attachFile.accesskey "d">
 <!ENTITY attachCloud.label "Servetschs per memorisar datotecas…">
 <!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Convertar a…">
+<!ENTITY convertCloud.label "Convertir a…">
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Interrumper da chargiar si">
 <!ENTITY cancelUpload.accesskey "n">

@@ -14,7 +14,7 @@
 <!ENTITY accountPasswordManager.label "Il pled-clav endatà qua vegn memorisà en l'administratur da pleds-clav. Lascha vid quest champ sche ti vuls vegnir dumandà mintga giada sche ti collias per tes pled-clav.">
 
 <!ENTITY accountAdvancedTitle.label   "Opziuns extendidas">
-<!ENTITY accountAdvancedInfo.label    "Ti pos surseglir quest pass sche ti vuls.">
+<!ENTITY accountAdvancedInfo.label    "Ti pos sursiglir quest pass sche ti vuls.">
 <!ENTITY accountAdvanced.newMailNotification.label   "M'infurmar davart novs e-mails">
 <!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">

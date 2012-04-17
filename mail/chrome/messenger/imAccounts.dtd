@@ -1,5 +1,5 @@
 <!ENTITY accountsWindow.title                "Status dals contos da chat">
-<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountsWindow.style                "width: 35em; height: 19em;">
 <!ENTITY accountManager.newAccount.label     "Nov conto">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Serrar">
@@ -8,7 +8,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Anc configurà nagin conto">
-<!ENTITY accountManager.noAccount.description "Clicca sin il buttun '&accountManager.newAccount.label;' per laschar guidar &brandShortName; tia atras il process da configurar in.">
+<!ENTITY accountManager.noAccount.description "Clicca sin il buttun '&accountManager.newAccount.label;' per laschar guidar &brandShortName; tai atras il process da configurar in.">
 <!ENTITY account.autoSignOn.label     "S'annunziar cun aviar">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Connectar">

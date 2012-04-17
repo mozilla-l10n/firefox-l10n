@@ -480,7 +480,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imAccountsStatus.label "Status da chat">
 <!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available          "Disponibel">
-<!ENTITY imStatus.unavailable        "Betg disponibel">
+<!ENTITY imStatus.unavailable        "Occupà">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Mussar ils contos…">
 <!ENTITY savedFiles.label "Datotecas memorisadas">
