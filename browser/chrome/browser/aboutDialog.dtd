@@ -60,6 +60,20 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "ನೀವು ಈಗ ">
 <!ENTITY channel.description.end    " ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌ನಲ್ಲಿದ್ದೀರಿ. ">
+<!ENTITY community.end3             " ಅಂತರಜಾಲವು ಮುಕ್ತ, ಸಾರ್ವಜನಿಕ, ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟಕುವಂತಿರಬೇಕು ಎಂದು ಒಂದುಗೂಡಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ.">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "ಜಾಗತಿಕ ಸಮುದಾಯ">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.middle       " ಎನ್ನುವುದು ">
+<!ENTITY community.exp.end          " ಅಂತರಜಾಲವು ಮುಕ್ತ, ಸಾರ್ವಜನಿಕ, ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟಕುವಂತಿರಬೇಕು ಎಂದು ಒಂದುಗೂಡಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ.">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "ಇದು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪರೀಕ್ಷೆಯ ಮಾಹಿತಿಯನ್ನು &vendorShortName; ಗೆ ಮರಳಿ ಕಳುಹಿಸುತ್ತದೆ ಆ ಮೂಲಕ &brandShortName;  ಉತ್ತಮಗೊಳ್ಳಲು ಸಹಾಯಮಾಡುತ್ತದೆ.">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; ಪ್ರಾಯೋಗಿಕವಾಗಿದೆ ಆದ್ದರಿಂದ ಅಸ್ಥಿರವಾಗಿರಬಹುದು.">
 
 <!--ENTITY channel.change             "ಬದಲಾಯಿಸು"-->
 
