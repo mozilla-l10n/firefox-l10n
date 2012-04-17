@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "เซิร์ฟเวอร์">
-<!ENTITY serverType.main.label      "เซิร์ฟเวอร์ &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label   "ปริยาย: เซิร์ฟเวอร์ Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "ใช้เซิร์ฟเวอร์ที่กำหนดเอง…">
 <!ENTITY signIn.account2.label      "บัญชีผู้ใช้">
 <!ENTITY signIn.account2.accesskey  "บ">

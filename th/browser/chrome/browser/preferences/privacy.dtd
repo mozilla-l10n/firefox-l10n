@@ -64,11 +64,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "ใช้การดูเว็บแบบส่วนตัวเสมอ">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ม">
 
-<!ENTITY  rememberHistory.label      "จำประวัติการท่องเว็บของฉัน">
-<!ENTITY  rememberHistory.accesskey  "จ">
-
-<!ENTITY  rememberDownload.label         "จำประวัติการดาวน์โหลด">
-<!ENTITY  rememberDownload.accesskey     "ด">
+<!ENTITY  rememberHistory2.label      "จำประวัติการท่องเว็บและการดาวน์โหลดของฉัน">
+<!ENTITY  rememberHistory2.accesskey  "จ">
 
 <!ENTITY  rememberSearchForm.label       "จำประวัติการค้นหาและการกรอกฟอร์ม">
 <!ENTITY  rememberSearchForm.accesskey   "ฟ">
