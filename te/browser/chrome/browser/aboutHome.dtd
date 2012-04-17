@@ -1,6 +1,8 @@
 <!ENTITY % brandDTD
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
@@ -10,14 +12,7 @@
      brandShortName must be in a <span/>
 -->
 
-
 <!ENTITY abouthome.searchEngineButton.label "శోధించు">
-
-
-
-
-<!ENTITY abouthome.aboutMozilla "మొజిల్లా గురించి">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -26,3 +21,12 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "మీ ఫైర్‌ఫాక్స్ ను ఖచ్చితంగా మీకు కావలసినట్లు మలచుకొనుటకు సులువైనది. <a>వేల కొద్ది యాడ్-ఆన్లనుండి యెంచుకొనుము</a>.">
+<!ENTITY abouthome.addonsButton.label    "పొడిగింతలు">
+<!ENTITY abouthome.appsButton.label      "మార్కెట్‌స్థలం">
+<!ENTITY abouthome.bookmarksButton.label "ఇష్టాంశములు">
+<!ENTITY abouthome.downloadsButton.label "దింపుకోళ్ళు">
+<!ENTITY abouthome.historyButton.label   "చరిత్ర">
+<!ENTITY abouthome.settingsButton.label  "అమరికలు">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
+
