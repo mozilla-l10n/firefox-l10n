@@ -23,3 +23,4 @@
 <!ENTITY abouthome.addonsButton.label "Viðbætur">
 <!ENTITY abouthome.appsButton.label "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Niðurhal">
+<!ENTITY abouthome.syncButton.label "&syncBrand.shortName.label;">

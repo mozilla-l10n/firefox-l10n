@@ -21,7 +21,7 @@
 <!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY helpTroubleshootingInfo.label "Upplýsingar fyrir úrræðaleit">
 <!ENTITY helpTroubleshootingInfo.accesskey "U">
-<!ENTITY helpFeedbackPage.label "Senda viðbrögð…">
+<!ENTITY helpFeedbackPage.label "Senda álit…">
 <!ENTITY helpFeedbackPage.accesskey "S">
 <!ENTITY preferencesCmdMac.label "Valkostir…">
 <!ENTITY preferencesCmdMac.commandkey ",">

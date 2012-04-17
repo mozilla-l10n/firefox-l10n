@@ -1,0 +1,17 @@
+<!ENTITY startupAction.label "Þegar &brandShortName; ræsist:">
+<!ENTITY startupAction.accesskey "s">
+<!ENTITY startupOffline.label "Aftengja spjallreikninga">
+<!ENTITY startupConnectAuto.label "Tengja spjallreikninga sjálfvirkt">
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY reportIdleAfter.label "Tilkynna tengiliðum ef ég er aðgerðalaus í">
+<!ENTITY reportIdleAfter.accesskey "i">
+<!ENTITY idleTime "mínútur óvirkur">
+<!ENTITY andSetStatusToAway.label "og setja stöðu sem fjarverandi með skilaboðum:">
+<!ENTITY andSetStatusToAway.accesskey "a">
+<!ENTITY sendTyping.label "Senda tilkynningu um innslátt í spjalli">
+<!ENTITY sendTyping.accesskey "t">

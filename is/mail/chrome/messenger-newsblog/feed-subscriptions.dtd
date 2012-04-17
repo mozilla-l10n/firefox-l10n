@@ -2,7 +2,15 @@
 <!ENTITY feedSubscriptions.label "Straumaáskriftir">
 <!ENTITY subscriptionDesc.label "Athugið: Fjarlægja eða breyta á möppu fyrir straum mun ekki hafa áhrif á áður niðurhalaðar greinar.">
 <!ENTITY feedTitle.label "Titill:">
-<!ENTITY location.label "Staðsetning:">
+<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedLocation.label "Straumslóð:">
+<!ENTITY feedLocation.accesskey "u">
+<!ENTITY feedLocation.placeholder "Sláðu inn löglegan straum tengil til að bæta við">
+<!ENTITY feedFolder.label "Geyma greinar í:">
+<!ENTITY feedFolder.accesskey "G">
+<!ENTITY quickMode.label "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
+<!ENTITY quickMode.accesskey "h">
+<!ENTITY validateText.label "Athuga sannprófun og ná í rétt veffang.">
 <!ENTITY button.addFeed.label "Bæta við">
 <!ENTITY button.addFeed.accesskey "æ">
 <!ENTITY button.editFeed.label "Breyta">

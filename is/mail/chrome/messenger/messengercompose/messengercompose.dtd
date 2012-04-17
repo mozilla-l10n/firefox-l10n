@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Skrá…">
 <!ENTITY attachFileCmd.accesskey "S">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Tengill í skrá">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Vefsíðu…">
 <!ENTITY attachPageCmd.accesskey "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -285,6 +287,14 @@
 <!ENTITY selectAll.accesskey "j">
 <!ENTITY attachFile.label "Bæta við skrá(m)…">
 <!ENTITY attachFile.accesskey "B">
+<!ENTITY attachCloud.label "Tengill í skrá…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Breyta í…">
+<!ENTITY convertCloud.accesskey "B">
+<!ENTITY cancelUpload.label "Hætta við">
+<!ENTITY cancelUpload.accesskey "H">
+<!ENTITY convertRegularAttachment.label "Venjulegt viðhengi">
+<!ENTITY convertRegularAttachment.accesskey "V">
 <!ENTITY attachPage.label "Bæta við vefsíðu…">
 <!ENTITY attachPage.accesskey "v">
 <!-- Spell checker context menu items -->
