@@ -1,5 +1,5 @@
-
-<!ENTITY  splash_firstrun "กำลังตั้งค่า &brandShortName;\u2026">
+<!ENTITY  splash_settingup "กำลังตั้งค่า &brandShortName; ของคุณ">
+<!ENTITY  splash_bookmarks_history "เรากำลังอัปเดตที่คั่นหน้าและประวัติการท่องเว็บของคุณ ซึ่งอาจใช้เวลาสักครู่">
 
 <!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
@@ -119,3 +119,9 @@
 <!ENTITY abouthome_no_top_sites "ตอนนี้คุณยังไม่มีเว็บเด่น แตะที่แถบหัวเรื่องเพื่อเริ่มการท่องเว็บ">
 <!ENTITY abouthome_about_sync "ตั้งค่า Firefox Sync เพื่อเข้าถึงที่คั่นหน้า, ประวัติการท่องเว็บ และแท็บจากอุปกรณ์อื่นของคุณ">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+
+<!ENTITY filepicker_title "เลือกแฟ้ม">
+<!ENTITY filepicker_audio_title "เลือกหรืออัดเสียง">
+<!ENTITY filepicker_image_title "เลือกหรือถ่ายรูป">
+<!ENTITY filepicker_video_title "เลือกหรือถ่ายวิดีโอ">

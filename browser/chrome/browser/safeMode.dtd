@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title "&brandShortName; โหมดปลอดภัย">
 <!ENTITY window.width "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; ปิดตัวเองอย่างไม่คาดคิดระหว่างเริ่มทำงาน">
+<!ENTITY autoSafeModeDescription.label "เราต้องขออภัยในความไม่สะดวก ขณะนี้ &brandShortName; กำลังทำงานอยู่ในโหมดปลอดภัย ซึ่งจะปิดใช้งานการตั้งค่าด้วยตัวเอง, ชุดตกแต่ง และส่วนขยาย เป็นการชั่วคราว">
+
 <!ENTITY safeModeDescription.label "&brandShortName; กำลังทำงานอยู่ในโหมดปลอดภัย ซึ่งจะปิดการใช้งานค่าที่คุณตั้งเอง ชุดตกแต่งและส่วนขยายชั่วคราว">
 <!ENTITY safeModeDescription2.label "คุณสามารถเปลี่ยนแปลงสิ่งเหล่านี้อย่างถาวรทั้งหมดหรือบางส่วน :">
 
