@@ -11,7 +11,7 @@
 
 <!ENTITY abouthome.searchEngineButton.label "શોધો">
 
-<!ENTITY abouthome.aboutMozilla "Mozilla વિશે">
+
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -22,5 +22,11 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "જે રીતે તમે ઇચ્છો છો તે રીતે જ તમારા Firefox ને વૈવિધ્યપૂર્ણ બનાવવાનું સરળ છે . <a>ઍડ-ઑનનાં હજારોમાંથી પસંદ કરો</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "સુમેળ કરવાનું સુયોજીત કરો">
-<!ENTITY abouthome.pairDevice.label  "ઉપકરણ જોડો">
+<!ENTITY abouthome.addonsButton.label    "ઍડ-ઑન">
+<!ENTITY abouthome.appsButton.label      "માર્કેટપ્લેસ">
+<!ENTITY abouthome.bookmarksButton.label "બુકમાર્ક">
+<!ENTITY abouthome.downloadsButton.label "ડાઉનલોડDownloads">
+<!ENTITY abouthome.historyButton.label   "ઇતિહાસ">
+<!ENTITY abouthome.settingsButton.label  "સુયોજનો">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
