@@ -1,11 +1,5 @@
-<!ENTITY accountTitle.label "Configurações de Conta">
-<!ENTITY accountSettingsDesc.label "A seguinte conta é uma conta especial. Não há identidades associadas a ela.">
 <!ENTITY accountName.label "Nome da Conta:">
 <!ENTITY accountName.accesskey "t">
-<!ENTITY messageStorage.label "Guardar mensagem">
-<!ENTITY emptyTrashOnExit.label "Esvaziar Lixo ao Sair">
-<!ENTITY emptyTrashOnExit.accesskey "z">
-<!ENTITY localPath.label "Pasta Local:">
-<!ENTITY localFolderPicker.label "Seleccione Pasta Local">
-<!ENTITY browseFolder.label "Explorar...">
-<!ENTITY browseFolder.accesskey "p">
+
+
+
