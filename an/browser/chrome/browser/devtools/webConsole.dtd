@@ -1,0 +1,22 @@
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
+<!ENTITY networkPanel.requestURL                  "URL de demanda">
+<!ENTITY networkPanel.requestMethod               "Metodo de demanda">
+<!ENTITY networkPanel.statusCode                  "Codigo d'estau">
+
+<!ENTITY networkPanel.requestHeaders              "Cabecera d'a demanda">
+<!ENTITY networkPanel.requestCookie               "Cookie ninviada">
+<!ENTITY networkPanel.requestBody                 "Cuerpo d'a demanda">
+<!ENTITY networkPanel.requestFormData             "Datos d'o formulario ninviau">
+
+<!ENTITY networkPanel.responseHeaders             "Cabeceras d'a respuesta">
+<!ENTITY networkPanel.responseBody                "Cuerpo d'a respuesta">
+<!ENTITY networkPanel.responseBodyCached          "Datos en a caché">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tipo de conteniu desconoixiu">
+<!ENTITY networkPanel.responseNoBody              "No i hai garra cuerpo d'a respuesta">
+<!ENTITY networkPanel.responseImage               "Imachen recibida">
+<!ENTITY networkPanel.responseImageCached         "Imachen en a caché">

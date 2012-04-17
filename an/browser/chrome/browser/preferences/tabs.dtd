@@ -1,0 +1,17 @@
+<!ENTITY newWindowsAsTabs.label       "Ubrir as nuevas finestras millor en pestanyas">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "Alvertir en zarrar multiples pestanyas">
+<!ENTITY warnCloseMultipleTabs.accesskey  "A">
+
+<!ENTITY warnOpenManyTabs.label       "Alvertir en ubrir multiples pestanyas que puedan ralentir o &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "v">
+
+<!ENTITY showTabBar.label             "Amostrar siempre a barra de pestanyas">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "En ubrir un vinclo en una pestanya nueva, cambiar ta ista immediatament">
+<!ENTITY switchToNewTabs.accesskey    "c">
+
+<!ENTITY showTabsInTaskbar.label          "Amostrar miniaturas d'as pestanyas en a barra de quefers de Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "n">
