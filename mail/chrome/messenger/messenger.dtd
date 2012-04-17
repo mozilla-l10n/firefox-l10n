@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "L">
 <!ENTITY newExistingEmailAccountCmd.label "Badagoen posta-kontua…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "B">
+<!ENTITY newIMAccountCmd.label "Txat-kontua…">
+<!ENTITY newIMAccountCmd.accesskey "T">
 <!ENTITY openMessageFileCmd.label "Ireki gordetako mezua…">
 <!ENTITY openMessageFileCmd.accesskey "I">
 <!ENTITY openAttachmentCmd.label "Eranskinak">
@@ -326,6 +328,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Atzera">
 <!ENTITY goBackCmd.accesskey "z">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Txata">
+<!ENTITY goChatCmd.accesskey "T">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Izardun mezura">
 <!ENTITY prevStarredMsgCmd.accesskey "z">
 <!ENTITY folderMenu.label "Karpeta">
@@ -469,6 +474,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "G">
 <!ENTITY activitymanager.label "Jarduera-kudeatzailea">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY imAccountsStatus.label "Txataren egoera">
+<!ENTITY imAccountsStatus.accesskey "T">
+<!ENTITY imStatus.available          "Erabilgarri">
+<!ENTITY imStatus.unavailable        "Ez dago erabilgarri">
+<!ENTITY imStatus.offline            "Lineaz kanpo">
+<!ENTITY imStatus.showAccounts       "Erakutsi kontuak…">
 <!ENTITY savedFiles.label "Gordetako fitxategiak">
 <!ENTITY savedFiles.accesskey "t">
 <!ENTITY savedFiles.key "j">
@@ -504,7 +515,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Artxibatu">
 <!ENTITY archiveButton.label "Artxibatu">
 <!ENTITY nextButton.label "Hurrengoa">
+<!ENTITY nextButtonToolbarItem.label "Irakurri gabeko hurrengoa">
+<!ENTITY nextMsgButton.label "Hurrengoa">
 <!ENTITY previousButton.label "Aurrekoa">
+<!ENTITY previousButtonToolbarItem.label "Irakurri gabeko aurrekoa">
+<!ENTITY previousMsgButton.label "Aurrekoa">
 <!ENTITY backButton1.label "Atzera">
 <!ENTITY goForwardButton1.label "Aurrera">
 <!ENTITY deleteItem.title "Ezabatu">
@@ -518,6 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Zabor-posta">
 <!ENTITY notJunkButton.label "Ez da zaborra">
 <!ENTITY addressBookButton.label "Helbide-liburua">
+<!ENTITY chatButton.label "Txata">
 <!ENTITY glodaSearch.title "Bilaketa orokorra">
 <!ENTITY searchItem.title "Bilaketa bizkorra">
 <!ENTITY mailViewsToolbarItem.title "Postaren ikuspegiak">
@@ -538,7 +554,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Artxibatu hautatutako mezua">
 <!ENTITY archiveButton.tooltip "Artxibatu hautatutako mezuak">
 <!ENTITY nextButton.tooltip "Mugitu irakurri gabeko hurrengo mezura">
+<!ENTITY nextMsgButton.tooltip "Joan hurrengo mezura">
 <!ENTITY previousButton.tooltip "Mugitu irakurri gabeko aurreko mezura">
+<!ENTITY previousMsgButton.tooltip "Joan aurreko mezura">
 <!ENTITY goForwardButton.tooltip "Joan mezu bat aurrera">
 <!ENTITY goBackButton.tooltip "Joan mezu bat atzera">
 <!ENTITY deleteButton.tooltip "Ezabatu hautatutako mezua edo karpeta">
@@ -549,6 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Markatu aukeratutako mezuak zabor-posta gisa">
 <!ENTITY notJunkButton.tooltip "Markatu aukeratutako mezuak ez zabor-posta gisa">
 <!ENTITY addressBookButton.tooltip "Joan helbide-liburura">
+<!ENTITY chatButton.tooltip "Erakutsi txataren fitxa">
 <!ENTITY tagButton.tooltip "Etiketatu mezuak">
 <!ENTITY compactButton.tooltip "Kendu ezabatutako mezuak hautatutako karpetatik">
 <!-- Tags Menu Popup -->
@@ -781,28 +800,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      -->
 
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Bilatu mezu guztiak… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Bilatu… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ktrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ktrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Gehitu Helbide-liburuan…">

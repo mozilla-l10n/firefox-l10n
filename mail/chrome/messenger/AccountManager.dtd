@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "K">
 <!ENTITY addMailAccountButton.label "Gehitu posta-kontua…">
 <!ENTITY addMailAccountButton.accesskey "G">
+<!ENTITY addIMAccountButton.label "Gehitu txat-kontua…">
+<!ENTITY addIMAccountButton.accesskey "t">
 <!ENTITY addOtherAccountButton.label "Gehitu bestelako kontua…">
 <!ENTITY addOtherAccountButton.accesskey "b">
 <!ENTITY setDefaultButton.label "Ezarri lehenetsi gisa">

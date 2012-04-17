@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Orokorra">
 <!ENTITY paneDisplay.title        "Bistaratzea">
 <!ENTITY paneComposition.title    "Mezu-prestatzea">
+<!ENTITY paneChat.title           "Txata">
 <!ENTITY paneAttachments.title    "Eranskinak">
 <!ENTITY paneSecurity.title       "Segurtasuna">
 <!ENTITY paneAdvanced.title       "Aurreratua">
