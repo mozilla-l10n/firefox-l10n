@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Fitxa berria">
-
-<!ENTITY newtab.show "Erakutsi fitxa berriaren orria">
-<!ENTITY newtab.hide "Ezkutatu fitxa berriaren orria">
-<!ENTITY newtab.reset "Berrezarri fitxa berriaren orria">

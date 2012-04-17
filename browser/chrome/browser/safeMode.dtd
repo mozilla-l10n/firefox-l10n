@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; modu segurua">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; espero gabe itxi da abiaraztean">
+<!ENTITY autoSafeModeDescription.label "Sentitzen dugu eragozpena. &brandShortName; modu seguruan ari da exekutatzen orain eta behin-behinean zure ezarpen pertsonalizatuak, gaiak eta hedapenak desgaituta egongo dira.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; momentu honetan modu seguruan dago. Modu honetan zure ezarpenak, gaiak eta gehiagarriak desgaituta daude.">
 <!ENTITY safeModeDescription2.label   "Ondorengo ekintzetatik batzuk betirako ezar ditzakezu:">
 

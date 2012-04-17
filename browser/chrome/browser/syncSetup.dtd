@@ -12,7 +12,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Zerbitzaria">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; zerbitzaria">
+<!ENTITY serverType.default.label      "Lehenetsia: Mozilla &syncBrand.fullName.label; zerbitzaria">
 <!ENTITY serverType.custom2.label   "Erabili zerbitzari pertsonalizatua…">
 <!ENTITY signIn.account2.label      "Kontua">
 <!ENTITY signIn.account2.accesskey  "K">

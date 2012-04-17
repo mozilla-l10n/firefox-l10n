@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Laster-markak">
 <!ENTITY  locbar.nothing.label          "Ezer ez">
 
-
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookie-ak">
 <!ENTITY  acceptCookies.accesskey       "O">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Erabili beti nabigatze pribatuko modua">
 <!ENTITY  privateBrowsingPermanent2.accesskey "a">
 
-<!ENTITY  rememberHistory.label      "Gogoratu nabigatze-historia">
-<!ENTITY  rememberHistory.accesskey  "r">
-
-<!ENTITY  rememberDownload.label         "Gogoratu deskarga-historia">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Gogoratu nire nabigazioaren eta deskargen historia">
+<!ENTITY  rememberHistory2.accesskey  "G">
 
 <!ENTITY  rememberSearchForm.label       "Gogoratu bilaketa- eta inprimaki-historia">
 <!ENTITY  rememberSearchForm.accesskey   "n">
