@@ -129,7 +129,7 @@ can reach it easily. -->
 <!ENTITY locationItem.title           "Adressa">
 <!ENTITY searchItem.title             "Tschertgar">
 <!ENTITY throbberItem.title           "Indicaziun da l'activitad">
-<!ENTITY bookmarksItem.title          "Segnapagina">
+<!ENTITY bookmarksItem.title          "Segnapaginas">
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">

@@ -49,11 +49,11 @@
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "EEndatescha il num da tes server d'entrada (per exempel &quot;pop.gmail.com&quot;).">
+<!ENTITY incomingServer.description "Endatescha il num da tes server d'entrada (per exempel &quot;pop.gmail.com&quot;).">
 <!ENTITY incomingServer.label "Server d'entrada:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Endatescha il num d'utilisader d'entrada che ti has reschavì da tes provider d'e-mails (per exempel &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.description "Endatescha il num d'utilisader d'entrada che ti has retschavì da tes provider d'e-mails (per exempel &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Num d'utilisader:">
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
