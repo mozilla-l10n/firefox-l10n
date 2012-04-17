@@ -78,7 +78,7 @@
 <!ENTITY caCertExists.message "Skilríkið er þegar til.">
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Beiðni um auðkenni notanda">
-<!ENTITY clientAuthAsk.message1 "Þetta vefsvæði bað um að þú auðkennir sjálfan þig með skilríki:">
+<!ENTITY clientAuthAsk.message1 "Þetta vefsvæði bað um að þú auðkennir þig með skilríki:">
 <!ENTITY clientAuthAsk.message2 "Veldu skilríki til að sýna sem auðkenni:">
 <!ENTITY clientAuthAsk.message3 "Upplýsingar um valið skilríki:">
 <!-- Strings for the cert picker dialog -->

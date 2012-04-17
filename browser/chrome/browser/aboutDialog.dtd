@@ -10,14 +10,14 @@
 <!ENTITY community.exp.middle " er ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink "samfélag">
-<!ENTITY community.exp.end " sem vinnur að því að gera vefinn opinn, opinberan og aðgengilegan öllum.">
+<!ENTITY community.exp.end " sem vinnur að því að gera vefinn opinn, frjálsan og aðgengilegan öllum.">
 <!ENTITY community.start2 "&brandShortName; er hannað af ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", sem er ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink "samfélag">
-<!ENTITY community.end3 " sem vinnur að því að gera vefinn opinn, opinberan og aðgengilegan öllum.">
+<!ENTITY community.end3 " sem vinnur að því að gera vefinn opinn, frjálsan og aðgengilegan öllum.">
 <!ENTITY contribute.start "Hljómar vel? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Taktu þátt!">

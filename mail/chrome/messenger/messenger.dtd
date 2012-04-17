@@ -24,6 +24,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "g">
 <!ENTITY newExistingEmailAccountCmd.label "Póstreikningur sem er þegar til…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
+<!ENTITY newIMAccountCmd.label "Spjallreikningur…">
+<!ENTITY newIMAccountCmd.accesskey "S">
 <!ENTITY openMessageFileCmd.label "Opna vistaðan póst…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Viðhengi">
@@ -309,6 +311,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Til baka">
 <!ENTITY goBackCmd.accesskey "b">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Spjall">
+<!ENTITY goChatCmd.accesskey "S">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Stjörnumerktur póstur">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Mappa">
@@ -449,6 +454,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "b">
 <!ENTITY activitymanager.label "Yfirlit aðgerða">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY imAccountsStatus.label "Staða spjalls">
+<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imStatus.available "Tiltækt">
+<!ENTITY imStatus.unavailable "Ófáanlegt">
+<!ENTITY imStatus.offline "Ónettengdur">
+<!ENTITY imStatus.showAccounts "Sýna reikninga…">
 <!ENTITY savedFiles.label "Vistaðar skrár">
 <!ENTITY savedFiles.accesskey "V">
 <!ENTITY savedFiles.key "j">
@@ -483,7 +494,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Skrá">
 <!ENTITY archiveButton.label "Skjalasafn">
 <!ENTITY nextButton.label "Næsta">
+<!ENTITY nextButtonToolbarItem.label "Næsta ólesið">
+<!ENTITY nextMsgButton.label "Næsti">
 <!ENTITY previousButton.label "Fyrri">
+<!ENTITY previousButtonToolbarItem.label "Fyrri ólesin">
+<!ENTITY previousMsgButton.label "Fyrri">
 <!ENTITY backButton1.label "Til baka">
 <!ENTITY goForwardButton1.label "Áfram">
 <!ENTITY deleteItem.title "Eyða">
@@ -497,6 +512,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Ruslpóstur">
 <!ENTITY notJunkButton.label "Ekki ruslpóstur">
 <!ENTITY addressBookButton.label "Nafnaskrá">
+<!ENTITY chatButton.label "Spjall">
 <!ENTITY glodaSearch.title "Víðtæk leit">
 <!ENTITY searchItem.title "Flýtileit">
 <!ENTITY mailViewsToolbarItem.title "Póstsýn">
@@ -516,7 +532,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Vista valinn póst">
 <!ENTITY archiveButton.tooltip "Setja valinn póst í skjalasafn">
 <!ENTITY nextButton.tooltip "Fara yfir á næsta ólesna póst">
+<!ENTITY nextMsgButton.tooltip "Fara á næstu skilaboð">
 <!ENTITY previousButton.tooltip "Fara til baka í fyrri ólesin póst">
+<!ENTITY previousMsgButton.tooltip "Fara á fyrri skilaboð">
 <!ENTITY goForwardButton.tooltip "Áfram um einn póst">
 <!ENTITY goBackButton.tooltip "Til baka um einn póst">
 <!ENTITY deleteButton.tooltip "Eyða völdum pósti eða möppu">
@@ -527,6 +545,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Merkja valinn póst sem ruslpóst">
 <!ENTITY notJunkButton.tooltip "Merkja valinn póst sem ekki ruslpóstur">
 <!ENTITY addressBookButton.tooltip "Fara í nafnaskrá">
+<!ENTITY chatButton.tooltip "Sýna spjallflipann">
 <!ENTITY tagButton.tooltip "Flokka póst">
 <!ENTITY compactButton.tooltip "Eyða eyddum póstum frá valinni möppu">
 <!-- Tags Menu Popup -->
@@ -742,28 +761,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Leita í pósti… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Leita… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Bæta við nafnaskrá…">
 <!ENTITY AddToAddressBook.accesskey "B">

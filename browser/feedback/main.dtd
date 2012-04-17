@@ -22,7 +22,7 @@
 <!ENTITY testpilot.notification.close.tooltip "Loka">
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label "Virkja notendakannanir">
-<!ENTITY testpilot.feedbackbutton.label "Skoðun">
+<!ENTITY testpilot.feedbackbutton.label "Álit">
 <!ENTITY testpilot.happy.label "Ég er ánægður með Firefox vegna þess að…">
 <!ENTITY testpilot.sad.label "Ég er óánægður með Firefox vegna þess að…">
 <!ENTITY testpilot.broken.label "Tilkynna að þetta vefsvæði sé bilað…">

@@ -13,3 +13,15 @@
 <!ENTITY chooseFolderWin.accesskey "V">
 <!ENTITY chooseFolderMac.label "Velja…">
 <!ENTITY chooseFolderMac.accesskey "V">
+<!ENTITY attachments.incoming.label "Utanaðkomandi">
+<!ENTITY attachments.outgoing.label "Útsent">
+<!ENTITY addCloudFileAccount.label "Bæta við">
+<!ENTITY addCloudFileAccount.accesskey "a">
+<!ENTITY addCloudFileAccount.description "Bæta við nýrri geymsluþjónustu fyrir skrár">
+<!ENTITY removeCloudFileAccount.label "Fjarlægja">
+<!ENTITY removeCloudFileAccount.accesskey "r">
+<!ENTITY authRequired.description "Þarfnast auðkenningar til að sjá stillingar fyrir þessa geymsluþjónustu.">
+<!ENTITY authRequired.button.label "Heimila">
+<!ENTITY authRequired.button.accesskey "H">
+<!ENTITY enableCloudFileAccountOffer.label "Bjóðast til að deila stærri skrám en">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

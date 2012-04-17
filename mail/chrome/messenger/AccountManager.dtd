@@ -5,6 +5,8 @@
 <!ENTITY accountActionsButton.accesskey "R">
 <!ENTITY addMailAccountButton.label "Bæta við póstreikningi…">
 <!ENTITY addMailAccountButton.accesskey "B">
+<!ENTITY addIMAccountButton.label "Bæta við spjallreikningi…">
+<!ENTITY addIMAccountButton.accesskey "s">
 <!ENTITY addOtherAccountButton.label "Bæta við öðrum reikningi…">
 <!ENTITY addOtherAccountButton.accesskey "ö">
 <!ENTITY setDefaultButton.label "Setja sem sjálfgefinn">

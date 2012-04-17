@@ -6,6 +6,7 @@
 <!ENTITY paneGeneral.title "Almennt">
 <!ENTITY paneDisplay.title "Sýn">
 <!ENTITY paneComposition.title "Samsetning">
+<!ENTITY paneChat.title "Spjall">
 <!ENTITY paneAttachments.title "Viðhengi">
 <!ENTITY paneSecurity.title "Öryggi">
 <!ENTITY paneAdvanced.title "Ítarlegt">

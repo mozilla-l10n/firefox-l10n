@@ -93,4 +93,4 @@
 <!ENTITY password.tooltip "Lykilorðið sem er tengt við notandanafnið">
 <!ENTITY savePassword.label "Vista lykilorð">
 <!ENTITY savePassword.accesskey "s">
-<!ENTITY savePassword.tooltip "Veldu þetta til að vista lykilorðið þitt á öruggan hátt með því að nota lykilorðastjóra">
+<!ENTITY savePassword.tooltip "Veldu þetta til að vista lykilorðið þitt á öruggan hátt með því að nota lykilorðageymslu">
