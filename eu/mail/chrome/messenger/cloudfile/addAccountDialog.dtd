@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Konfiguratu Filelink">
+<!ENTITY addAccountDialog.menuTitle "Hautatu lineako biltegiratze-zerbitzua">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Kontuaren izena:">
+<!ENTITY addAccountDialog.noAccountText "Sentitzen dugu baina uneko &brandShortName; bertsioak lineako biltegiratze-zerbitzu bakoitzerako kontu bakarra onartzen du.">
+<!ENTITY addAccountDialog.createAccountText "Eginbide honen bitartez eranskin handiak bidal ditzakezu lineako biltegiratze-zerbitzuetako bat erabilita. Dagoen kontu batera konektatu edo kontu berria sor dezakezu.">
+<!ENTITY addAccountDialog.authorizing "Baimena egiaztatzen…">
+<!ENTITY addAccountDialog.error "Errorea gertatu da kontua konfiguratzean!">
+<!ENTITY addAccountDialog.acceptButton.label "Konfiguratu kontua">

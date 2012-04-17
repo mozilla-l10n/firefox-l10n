@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "A">
 <!ENTITY chooseFolderMac.label        "Hautatu…">
 <!ENTITY chooseFolderMac.accesskey    "H">
+
+<!ENTITY attachments.incoming.label   "Sarrerakoa">
+<!ENTITY attachments.outgoing.label   "Irteerakoa">
+
+<!ENTITY addCloudFileAccount.label        "Gehitu">
+<!ENTITY addCloudFileAccount.accesskey    "G">
+<!ENTITY addCloudFileAccount.description  "Gehitu 'Filelink' biltegiratze-zerbitzu berria">
+<!ENTITY removeCloudFileAccount.label     "Kendu">
+<!ENTITY removeCloudFileAccount.accesskey "K">
+<!ENTITY authRequired.description         "Beharrezkoa da zure baimena biltegiratze-zerbitzu honen ezarpenak ikusteko.">
+<!ENTITY authRequired.button.label        "Baimendu">
+<!ENTITY authRequired.button.accesskey    "a">
+
+<!ENTITY enableCloudFileAccountOffer.label "Eskaini partekatzea hau baino handiagoak diren fitxategientzat:">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

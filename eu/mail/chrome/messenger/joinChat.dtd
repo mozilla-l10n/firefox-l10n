@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Batu txatera">
+<!ENTITY name.label                     "Gela">
+<!ENTITY optional.label                 "(aukerakoa)">
+<!ENTITY account.label                  "Kontua">
+<!ENTITY autojoin.label                 "Batu automatikoki txat-gela honetara">
+<!ENTITY autojoin.accesskey             "a">

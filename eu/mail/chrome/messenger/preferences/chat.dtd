@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "&brandShortName; abiatzean:">
+<!ENTITY  startupAction.accesskey     "a">
+<!ENTITY  startupOffline.label        "Mantendu txat-kontuak deskonektatuta">
+<!ENTITY  startupConnectAuto.label    "Konektatu txat-kontuak automatikoki">
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+
+<!ENTITY  reportIdleAfter.label         "Jakinarazi nire kontaktuei inaktibo nagoela">
+<!ENTITY  reportIdleAfter.accesskey     "i">
+<!ENTITY  idleTime                      "minutu ondoren">
+
+<!ENTITY  andSetStatusToAway.label      "eta ezarri nire egoera 'kanpoan' egoera-mezu honekin:">
+<!ENTITY  andSetStatusToAway.accesskey  "k">
+
+<!ENTITY  sendTyping.label              "Bidali idazketa-jakinarazpenak berriketetan">
+<!ENTITY  sendTyping.accesskey          "d">

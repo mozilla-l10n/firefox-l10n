@@ -1,5 +1,5 @@
 <!ENTITY window.title "Ongi etorri &brandShortName;(e)ra">
-<!ENTITY header.label "Helbide elektroniko berria nahi duzu &brandShortName;(e)rako?">
+<!ENTITY header2.label "Helbide elektroniko berria nahi duzu?">
 <!ENTITY other.languages "Zure inguruan helbideak eskaintzen dituzten hornitzaileak bistaratzen ditugu soilik. Egin klik hemen hornitzaile guztiak erakusteko.">
 <!ENTITY error.line1 "Sentitzen dugu, ezin izan dugu gomendatutako helbide elektronikorik aurkitu.">
 <!ENTITY error.line2 "Goitizenak edo bestelako terminoak bilatzen saia zaitezke helbide elektroniko gehiago aurkitzeko">

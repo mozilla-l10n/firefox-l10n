@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Jario harpidetzak">
-<!ENTITY subscriptionDesc.label "Oharra: Jario batentzat karpeta ezabatu edo aldatzeak ez du aurretik deskargatutako artikuluengan eraginik izango.">
-<!ENTITY feedTitle.label "Izenburua:">
-<!ENTITY location.label  "Kokalekua:">
+<!ENTITY feedSubscriptions.label     "Jario harpidetzak">
+<!ENTITY subscriptionDesc.label      "Oharra: Jario batentzat karpeta ezabatu edo aldatzeak ez du aurretik deskargatutako artikuluengan eraginik izango.">
 
-<!ENTITY button.addFeed.label       "Gehitu">
-<!ENTITY button.addFeed.accesskey   "G">
-<!ENTITY button.editFeed.label      "Editatu">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Ezabatu">
-<!ENTITY button.removeFeed.accesskey   "z">
-<!ENTITY button.importOPML.label "Inportatu">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Esportatu">
-<!ENTITY button.exportOPML.accesskey   "s">
+<!ENTITY feedTitle.label             "Izenburua:">
+<!ENTITY feedTitle.accesskey         "I">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Jarioaren URLa:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Idatzi gehitzeko baliozko jario URLa">
+
+<!ENTITY feedFolder.label            "Gorde artikuluak hemen:">
+<!ENTITY feedFolder.accesskey        "G">
+
+<!ENTITY quickMode.label             "Lehenespenez, erakutsi artikuluaren laburpena web orria kargatu ordez">
+<!ENTITY quickMode.accesskey         "L">
+
+<!ENTITY validateText.label          "Egiaztatu balidazioa eta eskuratu baliozko URLa.">
+
+<!ENTITY button.addFeed.label        "Gehitu">
+<!ENTITY button.addFeed.accesskey    "G">
+<!ENTITY button.editFeed.label       "Editatu">
+<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.removeFeed.label     "Ezabatu">
+<!ENTITY button.removeFeed.accesskey "z">
+<!ENTITY button.importOPML.label     "Inportatu">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Esportatu">
+<!ENTITY button.exportOPML.accesskey "s">
+
+<!ENTITY cmd.close.commandKey        "w">
