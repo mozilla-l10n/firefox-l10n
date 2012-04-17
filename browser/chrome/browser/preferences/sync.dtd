@@ -42,3 +42,6 @@
 <!ENTITY myRecoveryKey.label          "ମୋର ପୁନରୁଦ୍ଧାର କି">
 <!ENTITY resetSync2.label             "ସନ୍ତୁଳନକୁ ପୁନସ୍ଥାପନ କରନ୍ତୁ…">
 <!ENTITY unlinkDevice.label           "ଏହି ଉପକରଣକୁ  ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ">
+<!ENTITY engine.addons.label        "ଏଡ-ଅନଗୁଡ଼ିକ">
+<!ENTITY engine.addons.accesskey    "A">
+

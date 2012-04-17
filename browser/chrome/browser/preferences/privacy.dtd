@@ -11,8 +11,6 @@
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
 
-<!ENTITY  rememberHistory.label      "ମୋର ବ୍ରାଉଜର ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖନ୍ତୁ">
-<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "ସନ୍ଧାନ ଏବଂ ଫର୍ମ ପୁରୁମା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
@@ -23,8 +21,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ବ୍ୟକ୍ତିଗତ କୁକିଗୁଡ଼ିକୁ କାଢି ପାରନ୍ତି">
 <!ENTITY  rememberActions.post.label          ".">
 <!ENTITY  rememberDescription.label      "&brandShortName; ଆପଣଙ୍କର ବ୍ରାଉଜିଙ୍ଗ, ଆହରଣ, ଫର୍ମ ଏବଂ ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟକୁ କୁ ମନେ ରଖିବ, ଏବଂ ଆପଣ ପରିଦର୍ଶନ କରିଥିବା ୱେବ ସାଇଟଗୁଡ଼ିକର କୁକିଗୁଡ଼ିକୁ ରଖିବ।">
-<!ENTITY  rememberDownload.label         "ଆହରଣ ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖନ୍ତୁ">
-<!ENTITY  rememberDownload.accesskey     "d">
+
 
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପରି ସମାନ ସଂରଚନାକୁ ବ୍ୟବହାର କରିବ, ଏବଂ ଆପଣ ବ୍ରାଉଜ କରୁଥିବା ସମୟରେ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖିବ ନାହିଁ।">
@@ -81,5 +78,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "ସର୍ବଦା ବ୍ଯକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପଦ୍ଧତିକୁ ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
+<!ENTITY  rememberHistory2.label      "ମୋର ବ୍ରାଉଜର ଏବଂ  ଆହରଣ ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖନ୍ତୁ">
 
+<!ENTITY  rememberHistory2.accesskey  "b">
 

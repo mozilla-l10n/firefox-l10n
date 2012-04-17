@@ -34,7 +34,6 @@
 <!ENTITY connectionSettings.label        "ବିନ୍ୟାସ…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "ଅଫ ଲାଇନ ଭଣ୍ଡାର">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -64,8 +63,8 @@
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "ବ୍ୟତିକ୍ରମ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList.label           "ନିମ୍ନଲିଖିତ ୱେବ ସାଇଟଗୁଡ଼ିକ ଅଫ ଲାଇନ ବ୍ୟବହାର ପାଇଁ ତଥ୍ୟ ସଞ୍ଚୟ କରିସାରିଛନ୍ତି:">
+<!ENTITY offlineStorage2.label           "ଅଫଲାଇନ ୱେବ ବିଷୟବସ୍ତୁ ଏବଂ ଚାଳକ ତଥ୍ୟ">
+<!ENTITY offlineAppsList2.label           "ନିମ୍ନଲିଖିତ ୱେବ ସାଇଟଗୁଡ଼ିକ ଅଫ ଲାଇନ ବ୍ୟବହାର ପାଇଁ ତଥ୍ୟ ସଞ୍ଚୟ କରିବାକୁ ଅନୁମତି ପ୍ରାପ୍ତ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "କାଢ଼ନ୍ତୁ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -106,3 +105,27 @@
 
 <!ENTITY submitTelemetry.label           "କାର୍ଯ୍ୟଦକ୍ଷତା ତଥ୍ୟକୁ ଦାଖଲ କରନ୍ତୁ">
 <!ENTITY submitTelemetry.accesskey       "P">
+
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+
+<!ENTITY overrideSmartCacheSize.label    "ସ୍ୱୟଂଚାଳିତ କ୍ୟାଶେ ପରିଚାଳନାକୁ ନବଲିଖନ କରନ୍ତୁ">
+<!ENTITY httpCache.label                 "କ୍ୟାଶେରେ ଥିବା ୱେବ ବିଷୟବସ୍ତୁ">
+<!ENTITY updateApp.label                 "&brandShortName; ଅଦ୍ୟତନଗୁଡ଼ିକ:">
+<!ENTITY updateAuto.accesskey            "A">
+
+<!ENTITY updateCheck.label               "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ, କିନ୍ତୁ ସେଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବି କି ନାହିଁ ତାହା ମୋତେ ବାଛିବାକୁ ଦିଅନ୍ତୁ">
+
+<!ENTITY updateAutoAddonWarn.label       "ଯଦି ଏହା କୌଣସି ଏଡ-ଅନକୁ ନିଷ୍କ୍ରିୟ କରୁଛି ତେବେ ମୋତେ ସୂଚନା ଦିଅନ୍ତୁ">
+
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "ଅଦ୍ୟତନଗୁଡ଼ିକୁ କଦାପି ଦେଖନ୍ତୁ ନାହିଁ (ପରାମର୍ଶିତ ନୁହଁ: ସୁରକ୍ଷା ଜନିତ ବିପଦ)">
+
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateOthers.label              "ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅଦ୍ୟତନ କରନ୍ତୁ:">
+<!ENTITY useService.label                "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବା ପାଇଁ ଏକ ପୃଷ୍ଠଭୂମି ସର୍ଭିସକୁ ବ୍ୟବହାର କରନ୍ତୁ">
+
+<!ENTITY useService.accesskey            "b">
+
