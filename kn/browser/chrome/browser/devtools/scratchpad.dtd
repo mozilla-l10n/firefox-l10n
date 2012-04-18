@@ -37,30 +37,6 @@
 <!ENTITY editMenu.label               "ಸಂಪಾದನೆ">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "ರದ್ದುಮಾಡು">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
-
-<!ENTITY redoCmd.label                "ಪುನಃ ಮಾಡು">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "ಕತ್ತರಿಸು">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "ಕಾಪಿ ಮಾಡು">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "ಅಂಟಿಸು">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
-
 <!ENTITY run.label                    "ಚಲಾಯಿಸು">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
@@ -98,6 +74,9 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+<!ENTITY resetContext2.label          "ವೇರಿಯೇಬಲ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸು">
+<!ENTITY resetContext2.accesskey      "T">
+
 <!ENTITY executeMenu.label            "ಕಾರ್ಯಗತಗೊಳಿಸು">
 <!ENTITY executeMenu.accesskey        "X">
 
@@ -111,3 +90,13 @@
   -->
 <!--ENTITY textbox.placeholder1         "// ಒಂದು ಜಾವಾಸ್ಕ್ರಿಪ್ಟನ್ನು ನಮೂದಿಸಿ, ಅದನ್ನು ಆರಿಸಿ, ಮೌಸ್‌ನ ಬಲಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಹಾಗು ಚಲಾಯಿಸು, ಪರಿಶೀಲಿಸು ಅಥವ ಪ್ರದರ್ಶಿಸು ಅನ್ನು ಆರಿಸಿ."-->
 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "ನೆರವು">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "ನೆರವು">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "MDN ನಲ್ಲಿ ಸ್ಕ್ರಾಚ್‌ಪ್ಯಾಡ್">
+<!ENTITY documentationLink.accesskey  "D">
