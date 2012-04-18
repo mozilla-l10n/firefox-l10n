@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nov zavihek">
-
-<!ENTITY newtab.show "Prikaži stran Nov zavihek">
-<!ENTITY newtab.hide "Skrij stran Nov zavihek">
-<!ENTITY newtab.reset "Ponastavi stran Nov zavihek">

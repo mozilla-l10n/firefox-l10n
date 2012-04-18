@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Zaznamke">
 <!ENTITY  locbar.nothing.label          "Nič">
 
-
 <!ENTITY  acceptCookies.label "Dovoli stranem, da ustvarijo piškote.">
 <!ENTITY  acceptCookies.accesskey "p">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Vedno uporabljaj zasebno brskanje">
 <!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
-<!ENTITY  rememberHistory.label      "Shranjuj zgodovino brskanja">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Shranjuj zgodovino prenosov">
-<!ENTITY  rememberDownload.accesskey     "p">
+<!ENTITY  rememberHistory2.label      "Shranjuj zgodovino brskanja in prenosov">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Shranjuj zgodovino iskanja in obrazcev">
 <!ENTITY  rememberSearchForm.accesskey   "i">
