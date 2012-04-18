@@ -16,7 +16,7 @@
 <!-- ENTITY abouthome.searchEngineLinks.advanced "উন্নত অনুসন্ধান" -->
 <!-- ENTITY abouthome.searchEngineLinks.preferences "পছন্দ" -->
 
-<!ENTITY abouthome.aboutMozilla "Mozilla পরিচিতি">
+<!-- ENTITY abouthome.aboutMozilla "Mozilla পরিচিতি" -->
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com

@@ -11,12 +11,12 @@
 <!-- ENTITY importFromPhoenix.accesskey    "P" -->
 <!ENTITY importFromNothing.label        "কিছু ইম্পোর্ট করা হবে না">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 অথবা Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
+<!-- ENTITY importFromSeamonkey.label      "Netscape 6, 7 অথবা Mozilla 1.x" -->
+<!-- ENTITY importFromSeamonkey.accesskey  "N" -->
 <!-- ENTITY importFromNetscape4.label      "Netscape 4.x" -->
 <!-- ENTITY importFromNetscape4.accesskey  "4" -->
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
+<!-- ENTITY importFromOpera.label          "Opera" -->
+<!-- ENTITY importFromOpera.accesskey      "O" -->
 <!-- ENTITY importFromCamino.label         "Camino" -->
 <!-- ENTITY importFromCamino.accesskey     "C" -->
 <!ENTITY importFromSafari.label         "Safari">

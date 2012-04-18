@@ -39,10 +39,10 @@
 <!ENTITY cmd.findCurrent.label          "বর্তমানে সংকলনের মধ্যে অনুসন্ধান…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "HTML এক্সপোর্ট করুন…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "HTML ইম্পোর্ট করুন…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!-- ENTITY cmd.exportHTML.label           "HTML এক্সপোর্ট করুন…" -->
+<!-- ENTITY cmd.exportHTML.accesskey       "E" -->
+<!-- ENTITY cmd.importHTML.label           "HTML ইম্পোর্ট করুন…" -->
+<!-- ENTITY cmd.importHTML.accesskey       "I" -->
 
 <!ENTITY cmd.backup.label               "ব্যাক-আপ করুন…">
 <!ENTITY cmd.backup.accesskey           "B">

@@ -1,8 +1,8 @@
-<!ENTITY viewLog.title "Filter Log">
-<!ENTITY viewLogInfo.text "The Filter Log documents the filters that have been run for this account. Use the check box below to enable logging.">
-<!ENTITY clearLog.label "Clear Log">
+<!ENTITY viewLog.title "ফিল্টার কার্যবিবরণী করুন">
+<!ENTITY viewLogInfo.text "ফিল্টার লগ ফিল্টার এই একাউন্টের জন্য চালানো হয়েছে নথি. চেক বক্সে নিচের লগিং ব্যবহার করুন.">
+<!ENTITY clearLog.label "পরিষ্কার কার্যবিবরণী করুন">
 <!ENTITY clearLog.accesskey "C">
-<!ENTITY enableLog.label "Enable the Filter Log">
+<!ENTITY enableLog.label "ফিল্টার কার্যবিবরণী সক্রিয় করুন">
 <!ENTITY enableLog.accesskey "E">
-<!ENTITY closeLog.label "Close">
+<!ENTITY closeLog.label "বন্ধ করুন">
 <!ENTITY closeLog.accesskey "o">

@@ -37,29 +37,29 @@
 <!ENTITY editMenu.label               "সম্পাদনা">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "পূর্বাবস্থা">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
+<!-- ENTITY undoCmd.label                "পূর্বাবস্থা" -->
+<!-- ENTITY undoCmd.key                  "Z" -->
+<!-- ENTITY undoCmd.accesskey            "U" -->
 
-<!ENTITY redoCmd.label                "পুনরাবৃত্তি">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
+<!-- ENTITY redoCmd.label                "পুনরাবৃত্তি" -->
+<!-- ENTITY redoCmd.key                  "Y" -->
+<!-- ENTITY redoCmd.accesskey            "R" -->
 
-<!ENTITY cutCmd.label                 "কাট করুন">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
+<!-- ENTITY cutCmd.label                 "কাট করুন" -->
+<!-- ENTITY cutCmd.key                   "X" -->
+<!-- ENTITY cutCmd.accesskey             "t" -->
 
-<!ENTITY copyCmd.label                "কপি করুন">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
+<!-- ENTITY copyCmd.label                "কপি করুন" -->
+<!-- ENTITY copyCmd.key                  "C" -->
+<!-- ENTITY copyCmd.accesskey            "C" -->
 
-<!ENTITY pasteCmd.label               "পেস্ট করুন">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
+<!-- ENTITY pasteCmd.label               "পেস্ট করুন" -->
+<!-- ENTITY pasteCmd.key                 "V" -->
+<!-- ENTITY pasteCmd.accesskey           "P" -->
 
-<!ENTITY selectAllCmd.label           "সমগ্র নির্বাচন">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!-- ENTITY selectAllCmd.label           "সমগ্র নির্বাচন" -->
+<!-- ENTITY selectAllCmd.key             "A" -->
+<!-- ENTITY selectAllCmd.accesskey       "A" -->
 
 <!ENTITY run.label                    "সঞ্চালনা">
 <!ENTITY run.accesskey                "R">
@@ -98,26 +98,26 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "পুনরায় নির্ধারণ">
-<!ENTITY resetContext.accesskey       "R">
+<!-- ENTITY resetContext.label           "পুনরায় নির্ধারণ" -->
+<!-- ENTITY resetContext.accesskey       "R" -->
 
 <!ENTITY executeMenu.label            "কর্ম সঞ্চালন">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "সরঞ্জাম">
-<!ENTITY toolsMenu.accesskey          "T">
+<!-- ENTITY toolsMenu.label              "সরঞ্জাম" -->
+<!-- ENTITY toolsMenu.accesskey          "T" -->
 
-<!ENTITY errorConsoleCmd.label        "Error কনসোল">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!-- ENTITY errorConsoleCmd.label        "Error কনসোল" -->
+<!-- ENTITY errorConsoleCmd.accesskey    "C" -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ওয়েব কনসোল">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- ENTITY webConsoleCmd.label          "ওয়েব কনসোল" -->
+<!-- ENTITY webConsoleCmd.accesskey      "W" -->
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
+<!-- ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display." -->
 

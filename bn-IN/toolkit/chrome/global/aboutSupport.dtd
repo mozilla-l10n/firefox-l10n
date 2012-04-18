@@ -21,14 +21,14 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "বিল্ডের কনফিগারেশন">
 <!ENTITY aboutSupport.appBasicsUserAgent "ইউজার এজেন্ট">
 
-<!ENTITY aboutSupport.show.label "ধারণকারী ফোল্ডার খুলুন">
+<!-- ENTITY aboutSupport.show.label "ধারণকারী ফোল্ডার খুলুন" -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Finder-র মধ্যে প্রদর্শন করা হবে">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "পরিবর্তিত পছন্দ">
+<!-- ENTITY aboutSupport.modifiedPrefsTitle "পরিবর্তিত পছন্দ" -->
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
 <!ENTITY aboutSupport.modifiedPrefsValue "মান">
 

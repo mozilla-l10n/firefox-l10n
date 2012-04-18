@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "টুলবারের পছন্দসই বিন্যাস">
-<!ENTITY dialog.style  "width: 635px; height: 400px;">
+<!-- ENTITY dialog.style  "width: 635px; height: 400px;" -->
 <!ENTITY instructions.description "টুলবার থেকে বস্তু টেনে এনে অথবা ফেলে আপনি সেগুলি যোগ করতে অথবা সরিয়ে ফেলতে পারেন।">
 <!ENTITY show.label               "প্রদর্শন:">
 <!ENTITY iconsAndText.label       "আইকন ও টেক্সট">

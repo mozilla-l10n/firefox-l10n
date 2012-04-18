@@ -79,22 +79,22 @@
 <!ENTITY channel.description.start  "আপনি বর্তমানে ">
 <!ENTITY channel.description.end    " আপডেট চ্যানেলে রয়েছেন। ">
 
-<!ENTITY channel.change             "পরিবর্তন করুন">
+<!-- ENTITY channel.change             "পরিবর্তন করুন" -->
 
-<!ENTITY channel.release.description       "বিশ্বের বিভিন্ন কোণে উপস্থিত হাজার হাজার ব্যবহারকারীদের দ্বারা ব্যবহৃত ও পরীক্ষিত চুড়ান্ত রিলিজ সংস্করণ ব্যবহার করুন। দ্রুত গতি, সহজে করণীয় পরিবর্তন ও আধুনিক ওয়েব প্রযুক্তির সাহায্যে অন-লাইন অবস্থায় নিজের ব্যবহারক্ষমতা নিয়ন্ত্রণ করুন।">
-<!ENTITY channel.beta.description          "আধুনিক বৈশিষ্ট্যগুলিকে অনেক বেশি স্থায়ী পরিবেশে উপভোগ করুন। চুড়ান্ত রিলিজ সংস্করণকে উন্নত করার জন্য আপনার মতামত জানান।">
-<!ENTITY channel.aurora.description        "অস্থায়ী পরিবেশের অধীন আধুনিক প্রযুক্তিগুলি ব্যবহার করুন। চুড়ান্ত রিলিজ সংস্করণকে উন্নত করার জন্য বিভিন্ন বৈশিষ্ট্য ও বর্তমান কর্মক্ষমতা সম্পর্কে আপনার মতামত জানান।">
+<!-- ENTITY channel.release.description       "বিশ্বের বিভিন্ন কোণে উপস্থিত হাজার হাজার ব্যবহারকারীদের দ্বারা ব্যবহৃত ও পরীক্ষিত চুড়ান্ত রিলিজ সংস্করণ ব্যবহার করুন। দ্রুত গতি, সহজে করণীয় পরিবর্তন ও আধুনিক ওয়েব প্রযুক্তির সাহায্যে অন-লাইন অবস্থায় নিজের ব্যবহারক্ষমতা নিয়ন্ত্রণ করুন।" -->
+<!-- ENTITY channel.beta.description          "আধুনিক বৈশিষ্ট্যগুলিকে অনেক বেশি স্থায়ী পরিবেশে উপভোগ করুন। চুড়ান্ত রিলিজ সংস্করণকে উন্নত করার জন্য আপনার মতামত জানান।" -->
+<!-- ENTITY channel.aurora.description        "অস্থায়ী পরিবেশের অধীন আধুনিক প্রযুক্তিগুলি ব্যবহার করুন। চুড়ান্ত রিলিজ সংস্করণকে উন্নত করার জন্য বিভিন্ন বৈশিষ্ট্য ও বর্তমান কর্মক্ষমতা সম্পর্কে আপনার মতামত জানান।" -->
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
      This is all in one line, so try to make the localized text short.
      example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "চিহ্নিত">
-<!ENTITY channel.selector.end            "আপডেট চ্যানেলে পরিবর্তন করুন।">
+<!-- ENTITY channel.selector.start          "চিহ্নিত" -->
+<!-- ENTITY channel.selector.end            "আপডেট চ্যানেলে পরিবর্তন করুন।" -->
 
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
      to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "প্রয়োগ করে আপডেট করুন">
-<!ENTITY channel.selector.cancelButton   "বাতিল করুন">
+<!-- ENTITY channel.selector.applyButton    "প্রয়োগ করে আপডেট করুন" -->
+<!-- ENTITY channel.selector.cancelButton   "বাতিল করুন" -->
 
 

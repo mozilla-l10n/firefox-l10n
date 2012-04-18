@@ -15,17 +15,17 @@
 <!ENTITY manageAccount.label          "অ্যাকাউন্ট পরিচালনা">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "বরাদ্দ মান দেখুন">
-<!ENTITY changePassword.label         "পাসওয়ার্ড পরিবর্তন করুন">
-<!ENTITY mySyncKey.label              "আমার সিংক-কি">
-<!ENTITY resetSync.label              "সিংক পুনরায় নির্ধারণ করুন">
+<!-- ENTITY changePassword.label         "পাসওয়ার্ড পরিবর্তন করুন" -->
+<!-- ENTITY mySyncKey.label              "আমার সিংক-কি" -->
+<!-- ENTITY resetSync.label              "সিংক পুনরায় নির্ধারণ করুন" -->
 <!-- ENTITY stopUsingAccount.label       "এই অ্যাকাউন্টের ব্যবহার বন্ধ করুন" -->
-<!ENTITY addDevice.label              "একটি ডিভাইস যোগ করুন">
+<!-- ENTITY addDevice.label              "একটি ডিভাইস যোগ করুন" -->
 
 <!-- Sync Settings -->
 <!-- ENTITY syncPrefsCaption.label       "ব্রাউজার সুসংগতি" -->
 <!ENTITY syncComputerName.label       "কম্পিউটারের নাম:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "এই ডিভাইসটি নিষ্ক্রিয় করা হবে">
+<!-- ENTITY deactivateDevice.label       "এই ডিভাইসটি নিষ্ক্রিয় করা হবে" -->
 
 <!ENTITY syncMy.label               "সুসংগত করা হবে">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক">
