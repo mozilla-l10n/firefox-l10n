@@ -18,3 +18,7 @@
 <!ENTITY spellNoSuggestions.label "(କୌଣସି ବନାନ ପ୍ରସ୍ତାବ ନାହିଁ)">
 <!ENTITY spellDictionaries.label "ଭାଷା">
 <!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellUndoAddToDictionary.label "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ ପଦକ୍ଷେପକୁ ବାତିଲ କରନ୍ତୁ">
+
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+
