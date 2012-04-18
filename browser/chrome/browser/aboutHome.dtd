@@ -12,8 +12,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "खोजें">
 
-<!ENTITY abouthome.aboutMozilla "मोज़िल्ला का परिचय">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
