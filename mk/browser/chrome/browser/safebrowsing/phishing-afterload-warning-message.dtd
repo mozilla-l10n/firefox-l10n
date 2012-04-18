@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Да бегаме!">
 <!ENTITY safeb.palm.accept.statustext "Оди до мојата домашната страница">
 <!ENTITY safeb.palm.decline.label "Игнорирај го ова предупредување">
-<!ENTITY safeb.palm.decline.statustext "Затвори го предупредувањето">
+<!ENTITY safeb.palm.decline.statustext "Затвори го предупредувањето" >
 <!ENTITY safeb.palm.notforgery.label2 "Ова не е мрежна измама…">
 <!ENTITY safeb.palm.reportPage.label "Зошто беше блокирана оваа страна?">
 

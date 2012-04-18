@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Внесете ја мрежнa локацијата (URL), или наведете ја локалната датотека која сакате да ја отворите:">
+<!ENTITY enter.label "Внесете ја мрежнa локацијата (URL), или наведете ја локалната датотека која сакате да ја отворите:">  
 <!ENTITY chooseFile.label "Избери датотека…">
 <!ENTITY newTab.label "Ново јазиче">
 <!ENTITY newWindow.label "Нов прозорец">

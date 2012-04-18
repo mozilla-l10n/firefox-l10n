@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Додај во речник">
 <!ENTITY spellAddToDictionary.accesskey "о">
+<!ENTITY spellUndoAddToDictionary.label "Врати и додај во речник">
+<!ENTITY spellUndoAddToDictionary.accesskey "р">
 <!ENTITY spellCheckEnable.label "Провери правопис">
 <!ENTITY spellCheckEnable.accesskey "с">
 <!ENTITY spellNoSuggestions.label "(Нема предлози)">

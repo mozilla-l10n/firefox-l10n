@@ -1,51 +1,35 @@
 
-<!ENTITY migrationWizard.title "Волшебник за увоз">
+<!ENTITY migrationWizard.title          "Волшебник за увоз">
 
-<!ENTITY importFrom.label "Увези опции, обележувачи, историја, лозинки и други податоци од:">
-<!ENTITY importFromUnix.label "Увези преференции, обележувачи, историја, лозинки и други податоци од:">
-<!ENTITY importFromBookmarks.label "Увези обележувачи од:">
+<!ENTITY importFrom.label               "Увези опции, обележувачи, историја, лозинки и други податоци од:">
+<!ENTITY importFromUnix.label           "Увези преференции, обележувачи, историја, лозинки и други податоци од:">
+<!ENTITY importFromBookmarks.label      "Увези обележувачи од:">
 
-<!ENTITY importFromIE.label "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird или Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "Не увезувај ништо">
-<!ENTITY importFromNothing.accesskey "Н">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 или Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromHTMLFile.label "Од HTML датотека">
-<!ENTITY importFromHTMLFile.accesskey "О">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromNothing.label        "Не увезувај ништо">
+<!ENTITY importFromNothing.accesskey    "Н">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromHTMLFile.label       "Од HTML датотека">
+<!ENTITY importFromHTMLFile.accesskey   "О">
 
-<!ENTITY noMigrationSources.label "Не може да се пронајдат програми кои содржат обележувачи, историја или лозинки.">
+<!ENTITY noMigrationSources.label       "Не може да се пронајдат програми кои содржат обележувачи, историја или лозинки.">
 
-<!ENTITY importSource.title "Увезување на поставки и податоци">
-<!ENTITY importItems.title "Што ќе се увезе?">
-<!ENTITY importItems.label "Изберете што да се увезе:">
+<!ENTITY importSource.title             "Увезување на поставки и податоци">
+<!ENTITY importItems.title              "Што ќе се увезе?">
+<!ENTITY importItems.label              "Изберете што да се увезе:">
 
-<!ENTITY migrating.title "Увезување…">
-<!ENTITY migrating.label "Следниве елементи моментално се увезуваат…">
+<!ENTITY migrating.title                "Увезување…">
+<!ENTITY migrating.label                "Следниве елементи моментално се увезуваат…">
 
-<!ENTITY selectProfile.title "Избор на профил">
-<!ENTITY selectProfile.label "Увоз може да се направи од следниве профили:">
+<!ENTITY selectProfile.title            "Избор на профил">
+<!ENTITY selectProfile.label            "Увоз може да се направи од следниве профили:">
 
-<!ENTITY done.title "Увозот заврши">
-<!ENTITY done.label "Следниве елементи беа успешно увезени:">
+<!ENTITY done.title                     "Увозот заврши">
+<!ENTITY done.label                     "Следниве елементи беа успешно увезени:">
 

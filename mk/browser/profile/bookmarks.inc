@@ -22,17 +22,6 @@
 #define getting_started Да почнеме!
 
 
-# LOCALIZATION NOTE (latest_headlines):
-
-# link title for the live bookmarks sample, a redirect on
-
-# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
-
-# Changing the redirect is subject to approval of l10n-drivers.
-
-#define latest_headlines Најнови вести
-
-
 # LOCALIZATION NOTE (firefox_heading):
 
 # Firefox links folder name
