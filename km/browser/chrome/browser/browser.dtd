@@ -119,7 +119,7 @@ can reach it easily. -->
 <!ENTITY reloadButton.tooltip         "ផ្ទុក​ទំព័រ​បច្ចុប្បន្ន​ឡើងវិញ">
 <!ENTITY stopCmd.label                "បញ្ឈប់">
 <!ENTITY stopCmd.accesskey            "ប">
-<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopCmd.macCommandKey        "។">
 <!ENTITY stopButton.tooltip           "បញ្ឈប់​ការ​​ផ្ទុក​ទំព័រ​នេះ">
 <!ENTITY goEndCap.tooltip             "ទៅ​កាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង">
 <!ENTITY printButton.label            "បោះពុម្ព">
@@ -213,10 +213,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "ត្រួតពិនិត្យ">
-<!ENTITY inspectButton.accesskey        "ត">
 <!ENTITY inspectCloseButton.tooltiptext "បិទ​កម្មវិធី​ត្រួតពិនិត្យ">
+
+<!ENTITY inspectorHTMLCopyInner.label       "ចម្លង Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "ចម្លង Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "លុប Node">
+<!ENTITY inspectorHTMLDelete.accesskey      "ល">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -599,4 +605,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "បិទ​របារ​កម្មវិធី​បន្ថែម">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "បន្ទះ HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
 

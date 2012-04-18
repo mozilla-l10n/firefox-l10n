@@ -1,6 +1,6 @@
 <!ENTITY  colorsDialog.title              "ពណ៌">
 <!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "41em">
+<!ENTITY  window.macWidth                 "48.38em">
 
 <!ENTITY  allowPagesToUse.label           "​អនុញ្ញាត​ឲ្យ​ទំព័រ​ជ្រើស​ពណ៌​ដោយ​ខ្លួន​ឯង ជំនួស​ឲ្យ​ជម្រើស​ខាង​លើ​របស់​ខ្ញុំ">
 <!ENTITY  allowPagesToUse.accesskey       "A">

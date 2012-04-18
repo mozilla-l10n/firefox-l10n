@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "របៀប​សុវត្ថិភាព &brandShortName;">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; បាន​បិទ​ដោយ​មិន​រំពឹង​ទុក នៅ​ពេល​ចាប់ផ្ដើម">
+<!ENTITY autoSafeModeDescription.label "យើង​សូម​អភ័យ​ទោស​ចំពោះ​ភាព​មិន​ប្រក្រតី ។ &brandShortName; ឥឡូវ​នេះ​កំពុង​ដំណើរ​ការ​ក្នុង​របស់​សុវត្ថិភាព Safe Mode ដែល​ជា​បណ្ដោះ​អាសន្ន​បិទ​ការ​កំណត់​ផ្ទាល់​ខ្លួន រូបរាង និង​ផ្នែក​បន្ថែម​របស់​អ្នក ។">
+
 <!ENTITY safeModeDescription.label    "ឥឡូវនេះ &brandShortName; កំពុងតែ​ដំណើរការ​នៅ​ក្នុង​របៀប​សុវត្ថិភាព ដែល​នឹង​បិទ​ការ​កំណត់​ផ្ទាល់ខ្លួន ស្បែក និង​ផ្នែក​បន្ថែម​របស់​អ្នក ។">
 <!ENTITY safeModeDescription2.label   "អ្នក​អាច​ធ្វើឲ្យ​មាន​ការ​ផ្លាស់ប្ដូរ​ខ្លះ​ៗ ឬ​ផ្លាស់ប្ដូរ​ទាំងអស់​ជា​អចិន្ត្រៃយ៍ ៖">
 

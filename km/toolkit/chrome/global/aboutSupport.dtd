@@ -15,7 +15,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "មូលដ្ឋាន​គ្រឹះ​របស់​កម្មវិធី">
 <!ENTITY aboutSupport.appBasicsName "ឈ្មោះ">
 <!ENTITY aboutSupport.appBasicsVersion "កំណែ">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "ថត​​​ទម្រង់">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "ថត​ទម្រង់">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "កម្មវិធី​ជំនួយ​ដែល​បាន​បើក">
 <!ENTITY aboutSupport.appBasicsBuildConfig "ស្ថាបនា​ការ​កំណត់​រចនាសម្ព័ន្ធ">
 <!ENTITY aboutSupport.appBasicsUserAgent "ភ្នាក់ងារ​អ្នកប្រើ">
@@ -23,7 +29,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "អង្គ​ចងចាំ​ដែល​ប្រើ">
 
 <!ENTITY aboutSupport.showDir.label "បើក​ថត">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -37,6 +42,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "តម្លៃ">
 
 <!ENTITY aboutSupport.graphicsTitle "ក្រាហ្វិក">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC បន្ថែម">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "កំណែ​បណ្ណាល័យ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ប្រវត្តិ​នៃ​ការ​ដំឡើង">
 <!ENTITY aboutSupport.updateHistoryTitle "ប្រវត្តិ​នៃ​ការ​ធ្វើ​បច្ចុប្បន្នភាព">

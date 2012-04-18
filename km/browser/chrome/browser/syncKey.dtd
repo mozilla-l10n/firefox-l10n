@@ -8,8 +8,8 @@
 <!ENTITY syncKey.keepItSafe3.description  "យើង​មិន​អាច​ជួយ​អ្នក​ក្នុង​ការ​យក​វា​មក​វិញ​បាន​ទេ">
 <!ENTITY syncKey.keepItSafe4.description  " ប្រសិនបើ​វា​បាត់បង់ ។ អ្នក​នឹង​ត្រូវ​ចាំបាច់​ប្រើ​ពាក្យ​គន្លឹះ​នេះ​គ្រប់​ពេល​ដែល​អ្នក​តភ្ជាប់​កុំព្យូទ័រ ឬ​ឧបករណ៍​ថ្មី​ទៅកាន់ &syncBrand.fullName.label; ។">
 <!ENTITY syncKey.findOutMore1.label       "សិក្សា​បន្ថែម​អំពី &syncBrand.fullName.label; និង​ការ​សម្ងាត់​របស់​អ្នក​នៅ​ឯ ">
-<!ENTITY syncKey.findOutMore2.label       "។">
+<!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "លក្ខខ័ណ្ឌ​សេវាកម្ម​របស់ &syncBrand.fullName.label; អាច​រក​បាន​នៅ​ឯ ">
 <!ENTITY syncKey.footer2.label            "។ គោលនយោបាយ​ផ្ទាល់ខ្លួន អាច​រក​បាន​នៅ​ឯ ">
-<!ENTITY syncKey.footer3.label            "។">
+<!ENTITY syncKey.footer3.label            ".">
 

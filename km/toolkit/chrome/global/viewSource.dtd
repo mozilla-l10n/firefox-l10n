@@ -75,3 +75,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "ចម្លង​ទីតាំង​តំណ">
+<!ENTITY copyLinkCmd.accesskey "ត">
+<!ENTITY copyEmailCmd.label "ចម្លងអាសយដ្ឋាន​អ៊ីមែល">
+<!ENTITY copyEmailCmd.accesskey "អ">
+

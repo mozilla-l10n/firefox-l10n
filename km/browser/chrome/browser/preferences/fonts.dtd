@@ -1,7 +1,7 @@
 <!ENTITY  fontsDialog.title                       "ពុម្ពអក្សរ">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  window.unixWidth                        "48.38em">
 
 <!ENTITY  language.label                          "​ពុម្ព​អក្សរ​សម្រាប់ ៖">
 <!ENTITY  language.accesskey                      "ស">

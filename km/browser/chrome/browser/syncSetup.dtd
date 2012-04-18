@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ម៉ាស៊ីន​បម្រើ">
-<!ENTITY serverType.main.label      "ម៉ាស៊ីន​បម្រើ &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "លំនាំ​ដើម ៖ ម៉ាស៊ីន​បម្រើ &syncBrand.fullName.label;  Mozilla">
 <!ENTITY serverType.custom2.label   "ប្រើ​ម៉ាស៊ីន​បម្រើ​ផ្ទាល់ខ្លួន...">
 <!ENTITY signIn.account2.label      "គណនី">
 <!ENTITY signIn.account2.accesskey  "Հ">

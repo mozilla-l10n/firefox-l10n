@@ -89,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.accesskey "ង">
 
 <!ENTITY offlineAppsList2.label          "តំបន់​បណ្ដាញ​ដូច​ខាងក្រោម​នេះ ត្រូវ​បាន​អនុញ្ញាត​ឲ្យ​ទុក​ទិន្នន័យ​សម្រាប់​ការ​ប្រើ​ក្រៅ​បណ្ដាញ ៖">
-<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsList.height          "10em">
 <!ENTITY offlineAppsListRemove.label     "យក​ចេញ...">
 <!ENTITY offlineAppsListRemove.accesskey "ញ">
 <!ENTITY offlineAppRemove.confirm        "យក​ទិន្នន័យ​ក្រៅ​បណ្ដាញ​ចេញ">

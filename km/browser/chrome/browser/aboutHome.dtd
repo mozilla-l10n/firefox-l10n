@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "ទំព័រ​ចាប់ផ្ដើម​របស់ &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "ស្វែងរក">
-
-<!ENTITY abouthome.aboutMozilla "អំពី Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,6 +18,11 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "វា​ងាយស្រួល​ប្ដូរ​ Firefox របស់​អ្នក​តាម​បំណង​តាមវិធី​ដែល​អ្នក​ចង់​បាន ។ <a>ជ្រើស​រើស​ពី​ផ្នែក​បន្ថែម​ដែល​មាន​រាប់ពាន់</a> ។">
 
-<!ENTITY abouthome.syncSetup.label   "រៀបចំ​សមកាលកម្ម">
-<!ENTITY abouthome.pairDevice.label  "ផ្គូ​ឧបករណ៍">
+<!ENTITY abouthome.bookmarksButton.label "ចំណាំ">
+<!ENTITY abouthome.historyButton.label   "ប្រវត្តិ">
+<!ENTITY abouthome.settingsButton.label  "ការ​កំណត់">
+<!ENTITY abouthome.addonsButton.label    "កម្មវិធី​បន្ថែម">
+<!ENTITY abouthome.appsButton.label      "ទីផ្សារ">
+<!ENTITY abouthome.downloadsButton.label "ទាញយក">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
