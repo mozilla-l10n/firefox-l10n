@@ -35,7 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY lightning.toolbar.calendar.name "Egutegiaren tresna-barra">
-<!ENTITY lightning.toolbar.calendar.accesskey "E">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Zereginen tresna-barra">
 <!ENTITY lightning.toolbar.task.accesskey "T">
 
