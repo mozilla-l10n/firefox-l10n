@@ -427,13 +427,11 @@
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY appMenuButton.tooltip "&brandShortName; මෙනුව විවෘත කරන්න">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspect3DViewButton.label     "ත්‍රිමාන (3D) පෙනුම">
 <!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY syncSetup.label "&syncBrand.shortName.label; සකසන්න…">
 <!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY inspectButton.label "පරීක්ෂා කරන්න">
 <!ENTITY inspectCloseButton.tooltiptext "පරීක්ෂක වසන්න">
 <!ENTITY inspectStyleButton.label     "මෝස්තරය">
 <!ENTITY inspectStyleButton.accesskey "S">
@@ -486,7 +484,6 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY undoCloseTab.label "ටැබ් වැසීම අහෝසි කරන්න">
 <!ENTITY inspectMenu.commandkey "I">
-<!ENTITY inspectButton.accesskey "I">
 <!ENTITY syncSyncNowItem.label "දැන් සම්මුහුර්ත කරන්න">
 <!ENTITY zoomControls.label "විශාලන පාලක">
 <!ENTITY videoFullScreen.accesskey "F">
@@ -523,6 +520,15 @@
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
+<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Delete Node">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
 <!ENTITY unsortedBookmarksCmd.label "පිළිවෙල නොකළ පිටුසළකුණු">
 
 <!ENTITY webDeveloperMenu.label       "වෙබ් සංවර්ධකයා">
@@ -531,3 +537,15 @@
 <!ENTITY backForwardButtonMenuMac.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න">
 <!ENTITY inspectContextMenu.label     "මෙම අංගය පරීක්ෂා කරන්න">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML පැනලය">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">

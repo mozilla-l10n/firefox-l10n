@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "ටයිල්">
 <!ENTITY center.label               "මැදින්">
 <!ENTITY stretch.label              "ඇදෙන සේ">
+<!ENTITY fill.label                 "පිරවීම">
+<!ENTITY fit.label                  "සවිකිරීම">
 <!ENTITY preview.label              "පෙර පෙන්වීම">
 <!ENTITY color.label                "වර්ණය">
 <!ENTITY setDesktopBackground.title "තිරයේ පසුබිමට සැකසීම">

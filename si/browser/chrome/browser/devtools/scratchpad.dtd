@@ -1,6 +1,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -19,7 +25,7 @@
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "ගොනුව වාවෘත කරන්න…">
+<!ENTITY openFileCmd.label            "තොනුවක් විවෘත කරන්න…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
@@ -27,69 +33,25 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "සුරකින්නේ මෙලෙස…">
+<!ENTITY saveFileAsCmd.label          "සුරකින අයුර…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "වසන්න">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY editMenu.label               "සැකසුම්">
+<!ENTITY editMenu.label               "සැනසුම්">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "අහෝසි කරන්න">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
-
-<!ENTITY redoCmd.label                "යළි කරන්න">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "කපන්න">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "පිටපත් කරන්න">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "අලවන්න">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "සියල්ල තෝරන්න">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
-
-<!ENTITY findCmd.label                "සොයන්න…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "F">
-
-<!ENTITY findAgainCmd.label           "නැවත සොයන්න…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "g">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "මෙම පේලියට යන්න…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "J">
-
-<!ENTITY run.label                    "Run">
+<!ENTITY run.label                    "දුවවන්න">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "පරීක්ෂා කරන්න">
+<!ENTITY inspect.label                "පරීක්ෂාව">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "පෙන්වන්න">
+<!ENTITY display.label                "පෙන්වීම">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
@@ -115,16 +77,35 @@
 <!ENTITY browserContext.label         "බ්‍රව්සරය">
 <!ENTITY browserContext.accesskey     "B">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "උදව්">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "උදව්">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
+<!ENTITY documentationLink.accesskey  "D">
+
+
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.label          "විචල්‍යයන් යළි-සකසන්න">
 <!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY executeMenu.label            "ක්‍රියාත්මක කරන්න">
 <!ENTITY executeMenu.accesskey        "X">
 
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
-

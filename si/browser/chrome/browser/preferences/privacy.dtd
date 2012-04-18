@@ -60,9 +60,6 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 
-<!ENTITY  rememberDownload.label         "බාගැනීම් අතීතයන් මතක තබාගන්න">
-<!ENTITY  rememberDownload.accesskey     "d">
-
 <!ENTITY  rememberSearchForm.label       "සෙවීම් සහ පෝරම අතීතයන් මතක තබාගන්න">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
@@ -88,8 +85,8 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY rememberHistory.label "මගේ ගවේෂණ ඉතිහාසය මතක තබාගන්න">
-<!ENTITY rememberHistory.accesskey "b">
+<!ENTITY rememberHistory2.label "මගේ ගවේෂණ ඉතිහාසය සහ බාගැනීම් මතක තබාගන්න">
+<!ENTITY rememberHistory2.accesskey "b">
 
 
 <!--
