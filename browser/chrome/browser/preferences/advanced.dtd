@@ -50,26 +50,26 @@
 
 <!ENTITY updateTab.label                 "আপডেট">
 
-<!ENTITY autoCheck.label                 "নিম্নলিখিত সামগ্রীর জন্য স্বয়ংক্রিয়রূপে আপডেট পরীক্ষা করা হবে:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!-- ENTITY autoCheck.label                 "নিম্নলিখিত সামগ্রীর জন্য স্বয়ংক্রিয়রূপে আপডেট পরীক্ষা করা হবে:" -->
+<!-- ENTITY enableAppUpdate.label           "&brandShortName;" -->
+<!-- ENTITY enableAppUpdate.accesskey       "F" -->
 <!-- ENTITY enableAddonsUpdate.label        "ইনস্টল করা অতিরিক্ত সামগ্রী" -->
 <!-- ENTITY enableAddonsUpdate.accesskey    "n" -->
 <!ENTITY enableSearchUpdate.label        "অনুসন্ধান ব্যবস্থা">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "&brandShortName;-র আপডেট সনাক্ত করা হলে:">
-<!ENTITY askMe.label                     "পরবর্তী পদক্ষেপ সম্বন্ধে জিজ্ঞাসা করা হবে">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "স্বয়ংক্রিয়রূপে আপডেট ডাউনলোড করে ইনস্টল করা হবে">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "এর ফলে অতিরিক্ত সামগ্রী নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!-- ENTITY whenUpdatesFound.label          "&brandShortName;-র আপডেট সনাক্ত করা হলে:" -->
+<!-- ENTITY askMe.label                     "পরবর্তী পদক্ষেপ সম্বন্ধে জিজ্ঞাসা করা হবে" -->
+<!-- ENTITY askMe.accesskey                 "k" -->
+<!-- ENTITY modeAutomatic.label             "স্বয়ংক্রিয়রূপে আপডেট ডাউনলোড করে ইনস্টল করা হবে" -->
+<!-- ENTITY modeAutomatic.accesskey         "d" -->
+<!-- ENTITY modeAutoAddonWarn.label         "এর ফলে অতিরিক্ত সামগ্রী নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে" -->
+<!-- ENTITY modeAutoAddonWarn.accesskey     "W" -->
 <!ENTITY updateHistory.label             "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
 <!ENTITY updateHistory.accesskey         "p">
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY enableAddonsUpdate2.label       "অতিরিক্ত সামগ্রী">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!-- ENTITY enableAddonsUpdate2.label       "অতিরিক্ত সামগ্রী" -->
+<!-- ENTITY enableAddonsUpdate2.accesskey   "n" -->
 <!ENTITY encryptionTab.label             "এনক্রিপশন">
 
 <!ENTITY protocols.label                 "প্রোটোকল">
@@ -101,7 +101,7 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "বিপর্যয়ের রিপোর্ট দায়ের করা হবে">
 <!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY offlineStorage.label            "অফ-লাইন অবস্থায় সংরক্ষণ">
+<!-- ENTITY offlineStorage.label            "অফ-লাইন অবস্থায় সংরক্ষণ" -->
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -123,7 +123,7 @@
 <!ENTITY offlineNotifyExceptions.label   "ব্যতিক্রম…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "নিম্নলিখিত ওয়েব-সাইটগুলি দ্বারা অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে তথ্য সংরক্ষণ করা হয়েছে:">
+<!-- ENTITY offlineAppsList.label           "নিম্নলিখিত ওয়েব-সাইটগুলি দ্বারা অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে তথ্য সংরক্ষণ করা হয়েছে:" -->
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "মুছে ফেলুন…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

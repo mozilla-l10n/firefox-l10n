@@ -12,8 +12,8 @@
 <!ENTITY useCurrentPage.label      "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে">
-<!ENTITY useBookmark.label         "বুকমার্ক প্রয়োগ করা হবে">
-<!ENTITY useBookmark.accesskey     "B">
+<!-- ENTITY useBookmark.label         "বুকমার্ক প্রয়োগ করা হবে" -->
+<!-- ENTITY useBookmark.accesskey     "B" -->
 <!ENTITY restoreDefault.label      "ডিফল্ট মান পুনরায় স্থাপন করা হবে">
 <!ENTITY restoreDefault.accesskey  "R">
 

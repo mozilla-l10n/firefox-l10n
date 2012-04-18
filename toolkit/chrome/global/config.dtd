@@ -44,9 +44,9 @@
 <!ENTITY aboutWarningCheckbox.label "পরবর্তীবার এই সতর্কবার্তা প্রদর্শন করা হবে">
 
 
-<!ENTITY filterPrefs.label "ফিল্টার:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!-- ENTITY filterPrefs.label "ফিল্টার:" -->
+<!-- ENTITY filterPrefs.accesskey "F" -->
+<!-- ENTITY focusFilter.key "f" -->
 <!-- ENTITY showAll.label "সমস্ত প্রদর্শন করা হবে" -->
 <!-- ENTITY showAll.accesskey "W" -->
 
