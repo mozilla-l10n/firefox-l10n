@@ -1,6 +1,4 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "නව ටැබය">
 
-<!ENTITY newtab.show "නව ටැබ පිටුව පෙන්වන්න">
-<!ENTITY newtab.hide "නව ටැබ පිටුව වසන්න">
-<!ENTITY newtab.reset "නව ටැබ පිටුව ප්‍රතිසැකසුම් කරන්න">
+

@@ -11,6 +11,11 @@ variant of aboutSupport.showDir.label. -->
   trying to solve a problem. If you are looking for answers to common questions
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "ෆ්‍රොපයිල ෆෝල්ඩරය">
+
 <!ENTITY aboutSupport.extensionsTitle "දිගුකිරීම්">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ප්ලගීන බලැති (Enable) කරන්න">
@@ -31,3 +36,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ආයාතකළ වෙනස්කළ මනාපයන්">
 <!ENTITY aboutSupport.appBasicsCrashIDs "බිඳවැටුම් වාර්තා">
 <!ENTITY aboutSupport.appBasicsMemoryUse "මෙමරි භාවිතය">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "පුස්තකාල නිකුතුව">
+
