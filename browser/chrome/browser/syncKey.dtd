@@ -5,7 +5,7 @@
 <!ENTITY syncKey.keepItSafe.heading       "La tegna bain en salv">
 <!ENTITY syncKey.keepItSafe1.description  "Betg perda questa clav.">
 <!ENTITY syncKey.keepItSafe2.description  " Nus na faschain nagina copia da tia clav (lura na fiss ella betg pli secreta!), perquai ">
-<!ENTITY syncKey.keepItSafe3.description  "na pudain nus betg la restituir">
+<!ENTITY syncKey.keepItSafe3.description  "na pudain nus betg la restaurar">
 <!ENTITY syncKey.keepItSafe4.description  " sche ti la perdas. Ti dovras questa clav mintga giada sche ti collias in computer u in apparat cun tes conto da &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Ve a savair dapli davart &syncBrand.fullName.label; e tia sfera privata sin ">
 <!ENTITY syncKey.findOutMore2.label       ".">

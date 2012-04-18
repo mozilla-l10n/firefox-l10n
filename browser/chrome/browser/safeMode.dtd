@@ -57,7 +57,7 @@
 <!ENTITY resetUserPrefs.label         "Redefinir tut las preferenzas persunalisadas">
 <!ENTITY resetUserPrefs.accesskey     "R">
 
-<!ENTITY restoreSearch.label          "Restituir las maschinas da tschertgar da standard">
+<!ENTITY restoreSearch.label          "Restaurar las maschinas da tschertgar da standard">
 <!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Exequir las midadas e reaviar">
