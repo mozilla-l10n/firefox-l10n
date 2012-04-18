@@ -449,12 +449,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullScreenButton.tooltip       "સંપૂર્ણ સ્ક્રીનમાં વિન્ડોને દર્શાવો">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY historyRestoreLastSession.label "પહેલાનાં સત્રને પુન:સંગ્રહો">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectButton.label          "તપાસો">
+
+
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 <!ENTITY inspectMenu.label            "તપાસો">
-<!ENTITY inspectPanelTitle.label      "HTML">
+
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStyleButton.label     "શૈલી">
 <!ENTITY  listAllTabs.label      "બધા ટૅબની યાદી કરો">
@@ -543,3 +543,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY videoSaveImage.label        "ચિત્ર આ પ્રમાણે સંગ્રહો…">
 <!ENTITY videoShowStats.label        "પરિસ્થિતિ બતાવો">
 <!ENTITY videoShowStats.accesskey    "t">
+
+<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY htmlPanel.label              "HTML">
+<!ENTITY htmlPanel.tooltiptext        "HTML પેનલ">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY inspectorHTMLCopyInner.label       "ઇનર HTML ની નકલ કરો">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLCopyOuter.label       "આઉટર HTML ની નકલ કરો">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!ENTITY inspectorHTMLDelete.label          "નોડને કાઢી નાંખો">
