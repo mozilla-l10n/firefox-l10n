@@ -20,3 +20,14 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "अपने फ़ायरफ़ॉक्स को मनमाफिक अनुकूलित करना अब आसान है. <a>हजारों सहयुक्तियों में से चुनें</a>.">
+
+<!ENTITY abouthome.bookmarksButton.label "पुस्तचिह्न">
+<!ENTITY abouthome.historyButton.label   "इतिहास">
+<!ENTITY abouthome.settingsButton.label  "सेटिंग्स">
+<!ENTITY abouthome.addonsButton.label    "सहयुक्ति">
+<!ENTITY abouthome.appsButton.label      "मार्केटप्लेस">
+<!ENTITY abouthome.downloadsButton.label "डाउनलोड">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
+
