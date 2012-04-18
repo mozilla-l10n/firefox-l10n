@@ -29,4 +29,5 @@
 <!ENTITY abouthome.historyButton.label   "ઇતિહાસ">
 <!ENTITY abouthome.settingsButton.label  "સુયોજનો">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 
