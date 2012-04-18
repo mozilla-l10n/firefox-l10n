@@ -43,17 +43,16 @@
 <!ENTITY netInterrupt.title "Врската беше прекината">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Документот е застарен">
+<!ENTITY notCached.longDesc "<p>Бараниот документ не е достапен во кешот на &brandShortName;.
+</p><ul><li>Заради безбедност &brandShortName; автоматски не
+побарува осетливи документи.</li><li>Кликнете на „Обиди се повторно“ за повторно да го побарате документот од мрежното место.</li></ul>">
+
 <!ENTITY netOffline.title "Локален режим">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Притиснете на „Обиди се повторно“ за да преминете во мрежен режим и 
+да ја превчитате страницата.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Грешка во кодната страница на содржината">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -132,6 +131,11 @@
 <!ENTITY cspFrameAncestorBlocked.title "Блокирано од политика за безбедност на содржина">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;  ја спречи страницата да се вчита на ваков начин бидејќи таа има безбедносна политика за содржина што го забранува тоа.</p>">
 
+<!ENTITY corruptedContentError.title "Грешка поради корумпирана содржина">
+<!ENTITY corruptedContentError.longDesc "<p>Страницата што сакате да ја видите не може да се прикаже
+поради грешка во пренеост на податоците.</p><ul><li>Контактирајтесо сопствениците на страницата за да ги известите за овој проблем.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Или додај исклучок…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Однеси ме на сигурно!">
 <!ENTITY securityOverride.exceptionButtonLabel "Додај исклучок..">
@@ -145,3 +149,7 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Мрежен XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да
+ги информирате за овој проблем.</li></ul></p>">

@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Ќе внимавам! Ветувам!">
 <!ENTITY aboutWarningCheckbox.label "Прикажи го ова предупредување и следниот пат">
 
-<!ENTITY filterPrefs.label "Филтер:">
-<!ENTITY filterPrefs.accesskey "и">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Барај:">
+<!ENTITY searchPrefs.accesskey "р">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Име на преференција">
@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Вредност">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Кликнете за да подредите">
-<!ENTITY columnChooser.tooltip "Кликнете за да изберете колони за приказ">
+<!ENTITY prefColumnHeader.tooltip "Кликнете за да подредите"> 
+<!ENTITY columnChooser.tooltip "Кликнете за да изберете колони за приказ"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

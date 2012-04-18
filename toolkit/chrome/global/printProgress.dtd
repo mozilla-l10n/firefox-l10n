@@ -1,11 +1,11 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Печатење">
-<!ENTITY title "Наслов:">
+<!ENTITY printWindow.title "Печатење"> 
+<!ENTITY title    "Наслов:"> 
 <!ENTITY progress "Прогрес:">
 <!ENTITY preparing "се изработува…">
 <!ENTITY printComplete "Печатењето заврши.">
 
-<!ENTITY dialogCancel.label "Откажи">
+<!ENTITY dialogCancel.label "Откажи"> 
 <!ENTITY dialogClose.label "Затвори">
 <!-- LOCALIZATION NOTE (percentPrint):
 

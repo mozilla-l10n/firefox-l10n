@@ -18,15 +18,20 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Овозможени приклучоци">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација на изданието">
 <!ENTITY aboutSupport.appBasicsUserAgent "Кориснички агент">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Извештаи за уривање">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Искористеност на меморија">
 
-<!ENTITY aboutSupport.show.label "Отвори ја папката од профилот">
+<!ENTITY aboutSupport.showDir.label "Отвори директориум">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 
 <!ENTITY aboutSupport.showMac.label "Покажи во Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Покажи папка">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Изменети преференции">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променети преференции">
 <!ENTITY aboutSupport.modifiedPrefsName "Име">
 <!ENTITY aboutSupport.modifiedPrefsValue "Вредност">
 

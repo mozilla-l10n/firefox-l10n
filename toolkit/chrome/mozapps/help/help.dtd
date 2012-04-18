@@ -1,31 +1,31 @@
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label "Назад">
-<!ENTITY backButton.accesskey "Н">
-<!ENTITY backButton.tooltip "Оди една страница назад">
-<!ENTITY forwardButton.label "Напред">
-<!ENTITY forwardButton.accesskey "а">
-<!ENTITY forwardButton.tooltip "Оди една страница напред">
-<!ENTITY copyCmd.label "Копирај">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY selectAllCmd.label "Избери сè">
-<!ENTITY selectAllCmd.accesskey "с">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Дома">
-<!ENTITY homeButton.tooltip "Оди до почетната страница на помошта">
-<!ENTITY printButton.label "Печати">
-<!ENTITY printButton.tooltip "Ја печати оваа страница">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY backButton.label               "Назад">
+<!ENTITY backButton.accesskey           "Н">
+<!ENTITY backButton.tooltip             "Оди една страница назад">
+<!ENTITY forwardButton.label            "Напред">
+<!ENTITY forwardButton.accesskey        "а">
+<!ENTITY forwardButton.tooltip          "Оди една страница напред">
+<!ENTITY copyCmd.label                  "Копирај">
+<!ENTITY copyCmd.accesskey              "К">
+<!ENTITY selectAllCmd.label             "Избери сè">
+<!ENTITY selectAllCmd.accesskey         "с">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Дома">
+<!ENTITY homeButton.tooltip             "Оди до почетната страница на помошта">
+<!ENTITY printButton.label              "Печати">
+<!ENTITY printButton.tooltip            "Ја печати оваа страница">
+<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext "Пребарување">
-<!ENTITY searchHeader.label "Резултати од пребарувањето">
-<!ENTITY toctab.label "Содржина">
-<!ENTITY toctab.accesskey "С">
+<!ENTITY search.emptytext               "Пребарување">
+<!ENTITY searchHeader.label             "Резултати од пребарувањето">
+<!ENTITY toctab.label                   "Содржина">
+<!ENTITY toctab.accesskey               "С">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -33,21 +33,21 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label "Секогаш најгоре">
-<!ENTITY zLevel.accesskey "г">
+<!ENTITY zLevel.label                   "Секогаш најгоре">
+<!ENTITY zLevel.accesskey               "г">
 
-<!ENTITY fullZoomReduceBtn.label "Намали">
-<!ENTITY fullZoomReduceBtn.accesskey "м">
-<!ENTITY fullZoomEnlargeBtn.label "Зголеми">
-<!ENTITY fullZoomEnlargeBtn.accesskey "г">
+<!ENTITY fullZoomReduceBtn.label        "Намали">
+<!ENTITY fullZoomReduceBtn.accesskey    "м">
+<!ENTITY fullZoomEnlargeBtn.label       "Зголеми">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "г">
