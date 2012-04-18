@@ -2,9 +2,9 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
+  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanu
+  težav. Če iščete odgovore na splošna vprašanja o programu
+  &brandShortName;, obiščite <a id='supportLink'>strani za podporo uporabnikom</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Razširitve">
@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Ime">
 <!ENTITY aboutSupport.appBasicsVersion "Različica">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Imenik s profilom">
+<!ENTITY aboutSupport.appBasicsProfileDir "Mapa s profilom">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
