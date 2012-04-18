@@ -432,9 +432,6 @@
 <!ENTITY historyRestoreLastSession.label "ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY historyUndoWindowMenu.label "ಇತ್ತೀಚಿಗೆ ಮುಚ್ಚಲಾದ ವಿಂಡೋಗಳು">
 
-<!ENTITY inspectButton.label          "ಪರಿಶೀಲಿಸು">
-<!ENTITY inspectButton.accesskey      "I">
-
 <!ENTITY inspectMenu.label            "ಪರಿಶೀಲಿಸು">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
@@ -449,8 +446,6 @@
   -  titlebar: object.objectPanelTitle. -->
 <!--ENTITY inspectObjectButton.label       "ವಸ್ತು"-->
 <!--ENTITY inspectObjectButton.accesskey   "O"-->
-
-<!ENTITY inspectPanelTitle.label      "HTML">
 
 <!--ENTITY inspectStyleButton.label     "ಶೈಲಿ"-->
 <!--ENTITY inspectStyleButton.accesskey "S"-->
@@ -568,3 +563,56 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "ಜಾಲ ವಿಕಸನೆಗಾರ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY backForwardButtonMenu.tooltip "ಇತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಮೌಸ್‌ನ ಬಲಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಅಥವ ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ">
+<!ENTITY backForwardButtonMenuMac.tooltip "ತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ">
+<!ENTITY domFullScreenWarning.label "ಪೂರ್ಣತೆರೆ-ಸ್ಥಿತಿಯಿಂದ ಹೊರಬರಲು ESC ಅನ್ನು ಒತ್ತಿ">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML ಪಟ್ಟಿ">
+
+<!ENTITY inspect3DViewButton.label     "3D ನೋಟ">
+<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspectCloseButton.tooltiptext "ಪರೀಕ್ಷಕವನ್ನು ಮುಚ್ಚು">
+
+<!ENTITY inspectContextMenu.label     "ಪರೀಕ್ಷಕ ಘಟಕ">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY inspectStyleButton.label     "ಶೈಲಿ">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY htmlPanel.label              "HTML">
+
+<!ENTITY inspectorHTMLCopyInner.label       "ಒಳಗಿನ HTML ಅನ್ನು ಪ್ರತಿ ಮಾಡು">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "ಹೊರಗಿನ HTML ಅನ್ನು ಪ್ರತಿ ಮಾಡು">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "ನೋಡ್ ಅನ್ನು ಅಳಸು">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!ENTITY searchFocus.commandkey2      "e">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "ಶೈಲಿ ಸಂಪಾದಕ">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY videoSaveImage.label        "ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…">
+<!ENTITY videoSaveImage.accesskey    "S">
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "ಅಂಕಿಅಂಶಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "ಅಂಕಿಅಂಶಗಳನ್ನು ಅಡಗಿಸು">
+<!ENTITY videoHideStats.accesskey    "t">
