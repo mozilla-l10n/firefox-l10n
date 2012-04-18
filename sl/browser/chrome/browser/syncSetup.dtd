@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Strežnik">
-<!ENTITY serverType.main.label      "Strežnik storitve &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label   "Privzet strežnik Mozille: &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Uporabi strežnik po meri …">
 <!ENTITY signIn.account2.label      "Račun">
 <!ENTITY signIn.account2.accesskey  "R">
@@ -77,7 +77,7 @@
 <!ENTITY syncComputerName.label       "Ime računalnika:">
 <!ENTITY syncComputerName.accesskey   "r">
 
-<!ENTITY syncMy.label               "Uskladi">
+<!ENTITY syncMy.label               "Usklajuj:">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Zavihke">
@@ -88,7 +88,7 @@
 <!ENTITY engine.passwords.accesskey "G">
 <!ENTITY engine.prefs.label         "Nastavitve">
 <!ENTITY engine.prefs.accesskey     "N">
-<!ENTITY engine.addons.label        "Dodatki">
+<!ENTITY engine.addons.label        "Dodatke">
 <!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "Združi podatke tega računalnika in storitve &syncBrand.shortName.label;">
