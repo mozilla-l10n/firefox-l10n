@@ -8,6 +8,6 @@
 <!ENTITY resetProfile.dialog.footer.label "Atosóidh &brandShortName; agus bainfear gach rud eile.">
 <!ENTITY resetProfile.dialog.button.label "Athshocraigh &brandShortName;">
 
-<!ENTITY resetProfile.title "Reset &brandShortName; to its default state">
+<!ENTITY resetProfile.title "Fill ar réamhshocruithe &brandShortName;">
 <!ENTITY resetProfile.description "Má tá fadhbanna móra agat agus ní féidir leat iad a réiteach, tosaigh as úire le d'fhaisnéis riachtanach amháin.">
 <!ENTITY resetProfile.button.label "Athshocraigh &brandShortName;">
