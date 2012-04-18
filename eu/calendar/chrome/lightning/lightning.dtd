@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "r">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Ikusi zereginak gaur panelean">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Ikusi zereginak gaur panelean eta ataza moduan">
 <!ENTITY lightning.calendarproperties.email.label               "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 

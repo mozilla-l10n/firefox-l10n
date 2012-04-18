@@ -72,7 +72,7 @@
 <!ENTITY  FTPport.accesskey             "k">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Proxyrik ez honentzat:">
-<!ENTITY  noproxy.accesskey             "g">
+<!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Adibidea: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Erabili proxy-zerbitzari hau protokolo guztientzat">
 <!ENTITY  shareproxy.accesskey          "x">

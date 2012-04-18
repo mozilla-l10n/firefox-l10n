@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "Z">
 <!ENTITY  event.menu.options.link.label                       "Esteka gehitu…">
 <!ENTITY  event.menu.options.link.accesskey                   "E">
-<!ENTITY  event.menu.options.timezone.label                   "Ordu-zonaldea">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                  "Erakutsi ordu-zonak">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Lehentasuna">
 <!ENTITY  event.menu.options.priority2.accesskey              "h">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Zehaztu gabea">
@@ -372,6 +372,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Mesedez zehaztu ordu-zonaldea">
+<!ENTITY event.timezone.custom.label     "Ordu-zona gehiago…">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Orokorra">

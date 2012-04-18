@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Gaurko gertaerak">
 <!ENTITY calendar.events.filter.future.label "Etorkizuneko gertaera guztiak">
 <!ENTITY calendar.events.filter.current.label "Hautaturiko eguna">
-<!ENTITY calender.events.filter.currentview.label "Gertaerak uneko ikuspegian">
+<!ENTITY calendar.events.filter.currentview.label "Uneko ikuspegiko gertaerak">
 <!ENTITY calendar.events.filter.next7Days.label "Hurrengo 7 egunetako gertaerak">
 <!ENTITY calendar.events.filter.next14Days.label "Hurrengo 14 egunetako gertaerak">
 <!ENTITY calendar.events.filter.next31Days.label "Hurrengo 31 egunetako gertaerak">
@@ -253,6 +253,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "g">
 <!ENTITY calendar.context.postpone.1week.label      "aste bat">
 <!ENTITY calendar.context.postpone.1week.accesskey  "a">
+
+<!ENTITY calendar.copylink.label       "Kopiatu loturaren helbidea">
+<!ENTITY calendar.copylink.accesskey   "K">
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
