@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "ସ୍ୱାଗତ, ଯଦି ଆପଣ  &syncBrand.fullName.label; କୁ ପୂର୍ବରୁ କଦାପି ବ୍ୟବହାର କରିନାହାନ୍ତି, ତେବେ ଆପଣଙ୍କୁ ଗୋଟିଏ ନୂତନ ଖାତା ପ୍ରସ୍ତୁତ କରିବାକୁ ହେବ।">
+
 <!ENTITY button.createNewAccount.label "ନୂତନ ଖାତା ପ୍ରସ୍ତୁତ କରନ୍ତୁ">
 
 <!ENTITY setup.choicePage.title.label     "ଆପଣ ପୂର୍ବରୁ &syncBrand.fullName.label; କୁ ବ୍ୟବହାର କରିଛନ୍ତି କି?">
@@ -11,7 +11,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ସର୍ଭର">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; ସର୍ଭର">
+
 
 
 
@@ -44,7 +44,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ ଗୋଟିଏ ରବର୍ଟ ନୁହଁନ୍ତି">
+
 
 <!-- Existing Account Page 1: Login -->
 
@@ -92,20 +92,19 @@
 <!ENTITY setup.successPage.title "ସଂରଚନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି">
 <!ENTITY changeOptions.label "ଆପଣ ନିମ୍ନରେ ଥିବା Sync ବିକଳ୍ପକୁ ବାଛିକରି ଏହି ପସନ୍ଦକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ।">
 <!ENTITY continueUsing.label "ଆପଣ ବର୍ତ୍ତମାନ &brandShortName; କୁ ବ୍ୟବହାର କରିପାରିବେ।">
-<!ENTITY addDevice.dialog.description.label "ଆପଣଙ୍କର ନୂତନ ଉପକରଣଟିକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣରେ ଥିବା &syncBrand.shortName.label; ବିକଳ୍ପଗୁଡ଼ିକୁ ଯାଆନ୍ତୁ ଏବଂ &#x0022;ସଂଯୋଗ କରନ୍ତୁ&#x0022; କୁ ବାଛନ୍ତୁ।">
+
 <!ENTITY addDevice.dialog.enterCode.label   "ଉପକରଣଟି ପ୍ରଦାନ କରିଥିବା ସଂକେତକୁ ଭରଣ କରନ୍ତୁ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।">
 <!ENTITY addDevice.dialog.successful.label  "ଏହି ଉପକରଣଟିକୁ ସଫଳତାର ସହିତ ଯୋଗକରାଯାଇଛି। ପ୍ରାରମ୍ଭିକ ସନ୍ତୁଳନ ପାଇଁ ଅନେକ ସମୟ ଲାଗିପାରେ ଏବଂ ପୃଷ୍ଠଭୂମିରେ ସମାପ୍ତ ହୋଇଥାଏ।">
 <!ENTITY addDevice.dialog.connected.label   "ଉପକରଣଟି ସଂଯୁକ୍ତ ହୋଇଛି">
 <!ENTITY addDevice.dontHaveDevice.label     "ମୋ ପାଖରେ ସେହି ଉପକରଣଟି ନାହିଁ">
-<!ENTITY addDevice.setup.description.label  "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କ ଅନ୍ୟ ଉପକରଣରେ ଥିବା &syncBrand.shortName.label; ବିକଳ୍ପଗୁଡ଼ିକୁ ଯାଆନ୍ତୁ ଏବଂ  &#x0022; କୁ ବାଛିକରି ଗୋଟିଏ &#x0022;ଉପକରଣକୁ ଯୋଡନ୍ତୁ।">
 <!ENTITY addDevice.setup.enterCode.label    "ତାପରେ, ଏହି ସଂକେତକୁ ଭରଣ କରନ୍ତୁ:">
 <!ENTITY addDevice.showMeHow.label          "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ।">
-<!ENTITY addDevice.title.label              "ଗୋଟିଏ ଉପକରଣ ଯୋଡନ୍ତୁ">
-<!ENTITY button.connect.label    "ସଂଯୋଗ କରନ୍ତୁ">
+
+
 
 <!ENTITY serverType.custom2.label   "ଗୋଟିଏ ଇଚ୍ଛାରୂପଣ ସର୍ଭର ବ୍ୟବହାର କରନ୍ତୁ…">
-<!ENTITY setup.haveAccount.label "ମୋ ପାଖରେ ପୂର୍ବରୁ ଗୋଟିଏ &syncBrand.fullName.label; ଖାତା ଅଛି।">
+
 <!ENTITY setup.signInPage.title.label "ସାଇନ ଇନ">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.account2.label      "ଖାତା">
@@ -127,3 +126,12 @@
 <!ENTITY signIn.recoveryKey.label       "ପୁନରୁଦ୍ଧାର କି">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 <!ENTITY addDevice.dialog.recoveryKey.label     "ଆପଣଙ୍କର ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ ଆପଣଙ୍କୁ ନିଜର ପୁନରୁଦ୍ଧାର କି ଭରଣ କରିବାକୁ ହେବ। ଦୟାକରି ଏହି କି କୁ ମୁଦ୍ରଣ କରନ୍ତୁ କିମ୍ବା ସଂରକ୍ଷଣ କରନ୍ତୁ  ଏବଂ ତାହାକୁ ଆପଣଙ୍କ ପାଖରେ ରଖନ୍ତୁ।">
+
+<!ENTITY button.haveAccount.label      "ମୋର ଗୋଟିଏ ଖାତା ଅଛି">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addons.label        "ଏଡ-ଅନଗୁଡ଼ିକ">
+<!ENTITY pairDevice.dialog.description.label "ଆପଣଙ୍କର ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣ ଉପରେ  &#x0022;Set Up Sync&#x0022; ବାଛନ୍ତୁ।">
+<!ENTITY pairDevice.setup.description.label  "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣରେ &#x0022;Pair a Device&#x0022; ବାଛନ୍ତୁ।">
+<!ENTITY pairDevice.title.label             "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ।">
+<!ENTITY serverType.default.label      "ପୂର୍ବନିର୍ଦ୍ଧାରିତ: Mozilla &syncBrand.fullName.label; ସର୍ଭର">
+<!ENTITY setup.pickSetupType.description2 "ସ୍ୱାଗତମ! ଯଦି ଆପଣ କଦାପି &syncBrand.fullName.label; ପୂର୍ବରୁ ବ୍ୟବହାର କରିନାହାନ୍ତି, ତେବେ ଆପଣଙ୍କୁ ଏକ ନୂତନ ଖାତା ସୃଷ୍ଟି କରିବା ଆବଶ୍ୟକ।">

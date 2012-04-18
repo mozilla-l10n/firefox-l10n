@@ -45,17 +45,8 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!ENTITY updateTab.label                 "ଅଦ୍ୟତନ କରନ୍ତୁ">
-
-
-
-
 <!ENTITY enableSearchUpdate.label        "ଖୋଜା ଯନ୍ତ୍ର">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-
-
-
-
-
 <!ENTITY updateHistory.label             "ଅଦ୍ୟତନ ଇତିହାସ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -128,4 +119,7 @@
 <!ENTITY useService.label                "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବା ପାଇଁ ଏକ ପୃଷ୍ଠଭୂମି ସର୍ଭିସକୁ ବ୍ୟବହାର କରନ୍ତୁ">
 
 <!ENTITY useService.accesskey            "b">
+
+<!ENTITY clearOfflineAppCacheNow.label   "ବର୍ତ୍ତମାନ ସଫା କରନ୍ତୁ">
+<!ENTITY updateAuto.label                "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରିଥାଏ (ପରାମର୍ଶିତ: ଉନ୍ନତ ସୁରକ୍ଷା)">
 
