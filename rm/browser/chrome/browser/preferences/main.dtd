@@ -15,7 +15,7 @@
 <!ENTITY useMultiple.label         "Utilisar las paginas actualas">
 <!ENTITY chooseBookmark.label      "Utilisar segnapaginas…">
 <!ENTITY chooseBookmark.accesskey  "l">
-<!ENTITY restoreDefault.label      "Restituir il standard">
+<!ENTITY restoreDefault.label      "Restaurar il standard">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Telechargiadas">

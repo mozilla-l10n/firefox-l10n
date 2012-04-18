@@ -37,7 +37,7 @@
 
 <!ENTITY cmd.backup.label               "Copia da segirezza…">
 <!ENTITY cmd.backup.accesskey           "C">
-<!ENTITY cmd.restore2.label             "Restituir">
+<!ENTITY cmd.restore2.label             "Restaurar">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Tscherner ina datoteca">
 <!ENTITY cmd.restoreFromFile.accesskey  "d">

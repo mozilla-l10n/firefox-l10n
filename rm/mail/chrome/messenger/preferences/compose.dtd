@@ -18,7 +18,7 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Colur dal fund:">
 <!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "Restituir la successiun da standard">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar la successiun da standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 <!ENTITY spellCheck.label                     "Controllar l'ortografia avant che trametter">

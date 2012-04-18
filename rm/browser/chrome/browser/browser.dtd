@@ -142,7 +142,7 @@ can reach it easily. -->
 <!ENTITY feedButton.label             "Abunar">
 <!ENTITY feedButton.tooltip           "Abunar questa pagina…">
 
-<!ENTITY bookmarksButton.label         "Segnapagina">
+<!ENTITY bookmarksButton.label         "Segnapaginas">
 <!ENTITY bookmarksButton.tooltip       "Avra tia glista dals segnapaginas">
 <!ENTITY bookmarksButton.accesskey     "S">
 <!ENTITY bookmarksCmd.commandkey       "b">

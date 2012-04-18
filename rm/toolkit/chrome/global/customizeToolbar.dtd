@@ -6,7 +6,7 @@
 <!ENTITY icons.label              "Simbols">
 <!ENTITY text.label               "Text">
 <!ENTITY useSmallIcons.label      "Simbols pitschens">
-<!ENTITY restoreDefaultSet.label  "Restituir il standard">
+<!ENTITY restoreDefaultSet.label  "Restaurar il standard">
 <!ENTITY addNewToolbar.label      "Nova trav da simbols">
 <!ENTITY saveChanges.label        "Finì">
 <!ENTITY undoChanges.label        "Refusar las midadas">
