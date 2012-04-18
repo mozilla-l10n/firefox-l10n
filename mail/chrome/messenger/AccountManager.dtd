@@ -8,6 +8,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "තැපැල් ගිණුමක් එක් කරන්න…">
 <!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "චැට් ගිණුමක් එක් කරන්න…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "වෙනත් ගිණුමක් එක් කරන්න…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "පෙරනිමි ලෙස සකසන්න">

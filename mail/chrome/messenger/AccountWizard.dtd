@@ -38,9 +38,13 @@
 <!ENTITY serverTitle.label "සේවාදායක ‌තොරතූරු">
 <!ENTITY incomingServerTypeDesc.label "ඔබ භාවිතා කරන එවුම් සේවාදායක‌යේ වර්ගය ‌තෝරන්න.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "එවුම් සේවාදායක‌යේ නම ඇතුළත් කරන්න (උදාහරණයක් ‌ලෙස, &quot;mail.example.lk&quot;).">
-<!ENTITY incomingServerLabel.label "එවුම් සේවාදායකය:">
-<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY incomingServer.description "එවුම් සේවාදායක‌යේ නම ඇතුළත් කරන්න (උදාහරණයක් ‌ලෙස, &quot;mail.example.lk&quot;).">
+<!ENTITY incomingServer.label "එවුම් සේවාදායකය:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "ඊමේල් සේවා සපයන්නා ඔබට ලබා දුන් එවුම් සේවාදායක‌ පරිශීලක නම ඇතුළත් කරන්න (උදාහරණයක් ‌ලෙස, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "පරිශීලක නම:">
+<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "ඔබගේ පුවත් සේවාදායක‌යේ නම ඇතුළත් කරන්න (NNTP) (උදාහරණයක් ‌ලෙස, &quot;news.example.lk&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
@@ -73,17 +77,6 @@
 <!ENTITY haveSmtp1.prefix "ඔබගේ දැනට පචතින යැවුම් සේවාදායකය (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, භාවිතා වනු ඇත.">
 
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "පරිශීලක නම්">
-<!ENTITY usernameDesc.label "ඔබ‌ට ලැබී ඇති විද්‍යුත් තැපැල් එවුම් පරිශීලක නම ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(උදාහරණයක් ‌ලෙස, &quot;rohanad&quot;).">
-<!ENTITY usernameLabel.label "එවුම් පරිශීලක නම:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "ඔබ‌ට ලබා දී ඇති යැවුම් පරිශීලක නම (මෙය ‌බො‌හෝ විට ඔබගේ එවුම් පරිශීලක නම ම ‌වේ).">
-<!ENTITY usernameSmtpLabel.label "යැවුම් පරිශීලක නම:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
@@ -108,6 +101,17 @@
 <!ENTITY accnameDesc.label "මෙම ගිණූම සඳහා භාවිතා කිරිමට ඔබ කැමති නමක් ‌යොදන්න. (උදාහරණයක් ‌ලෙස, &quot;කාර්යාලීය ගිණුම&quot;, &quot;නිවසේ ගිණුම&quot; හෝ &quot;පුවත් ගිණුම&quot;).">
 <!ENTITY accnameLabel.label "ගිණු‌මේ නම:">
 <!ENTITY accnameLabel.accesskey "A">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
+<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- Entities for Done (Congratulations) page -->
 
