@@ -1,0 +1,34 @@
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY quitApplicationCmdWin.label "Выход">
+<!ENTITY quitApplicationCmdWin.accesskey "х">
+<!ENTITY quitApplicationCmd.label "Выход">
+<!ENTITY quitApplicationCmd.accesskey "ы">
+<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY hideThisAppCmdMac.key "H">
+<!ENTITY hideOtherAppsCmdMac.label "Скрыть остальные">
+<!ENTITY hideOtherAppsCmdMac.key "H">
+<!ENTITY showAllAppsCmdMac.label "Показать все">
+<!ENTITY editMenu.label "Правка">
+<!ENTITY editMenu.accesskey "П">
+<!ENTITY undoCmd.label "Отменить">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "О">
+<!ENTITY redoCmd.label "Повторить">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "р">
+<!ENTITY cutCmd.label "Вырезать">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "В">
+<!ENTITY copyCmd.label "Копировать">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY pasteCmd.label "Вставить">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "с">
+<!ENTITY deleteCmd.label "Удалить">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY selectAllCmd.label "Выделить всё">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "д">
