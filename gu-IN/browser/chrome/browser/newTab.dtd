@@ -1,6 +1,5 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "નવી ટૅબ">
 
-<!ENTITY newtab.show "નવી ટૅબ પાનું બતાવો">
-<!ENTITY newtab.hide "નવી ટૅબ પાનું છુપાવો">
-<!ENTITY newtab.reset "નવી ટૅબ પાનું પુનઃસુયોજીત કરો">
+
+
