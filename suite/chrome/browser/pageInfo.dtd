@@ -61,7 +61,7 @@
 <!ENTITY  generalEncoding       "語系編碼方式:">
 <!ENTITY  generalMetaName       "名稱">
 <!ENTITY  generalMetaContent    "內容">
-<!ENTITY  generalSecurityDetails           "細節">
+<!ENTITY  generalSecurityDetails           "詳細資訊">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "表單">
@@ -114,7 +114,7 @@
 <!ENTITY  permUseDefault        "使用預設值">
 <!ENTITY  permAskAlways         "每次詢問">
 <!ENTITY  permAllow             "允許">
-<!ENTITY  permAllowSession      "允許此次連線 (Session)">
+<!ENTITY  permAllowSession      "允許於此瀏覽階段">
 <!ENTITY  permBlock             "封鎖">
 <!ENTITY  permissionsFor        "此網站權限設定:">
 <!ENTITY  permImage             "載入圖片">
