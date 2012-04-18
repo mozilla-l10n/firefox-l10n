@@ -57,7 +57,7 @@
 <!ENTITY resetUserPrefs.label         "重設所有設定為 &brandShortName; 預設值">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "重設為預設搜尋引擎">
+<!ENTITY restoreSearch.label          "回復預設搜尋引擎">
 <!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "執行變更項目並重新啟動">

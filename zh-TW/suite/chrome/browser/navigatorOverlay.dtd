@@ -63,7 +63,7 @@
 <!ENTITY recentWindows.label "最近關閉的視窗">
 <!ENTITY recentWindows.accesskey "W">
 <!ENTITY recentWindows.commandkey "y">
-<!ENTITY historyRestoreLastSession.label "還原先前的瀏覽紀錄">
+<!ENTITY historyRestoreLastSession.label "回復先前的瀏覽狀態">
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "來自其他電腦的分頁">
 <!ENTITY syncTabsMenu.accesskey "o">

@@ -512,7 +512,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.label "全部回覆">
 <!ENTITY replyListButton.label "回覆至清單">
 <!ENTITY forwardButton.label "轉寄">
-<!ENTITY fileButton.label "歸檔">
+<!ENTITY fileButton.label "檔案">
 <!ENTITY archiveButton.label "備存">
 <!ENTITY nextButton.label "下一封">
 <!ENTITY nextButtonToolbarItem.label "下一封未讀">

@@ -15,7 +15,7 @@
 <!ENTITY results.label               "結果">
 <!ENTITY fileHereMenu.label          "歸檔此處">
 <!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "歸檔">
+<!ENTITY fileButton.label            "檔案">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "在資料夾開啟">
