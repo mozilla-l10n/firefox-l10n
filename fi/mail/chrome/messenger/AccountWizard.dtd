@@ -32,34 +32,45 @@
 <!ENTITY emailLabel.label  "Sähköpostiosoite:">
 <!ENTITY emailLabel.accesskey  "S">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label  "Palvelimen tiedot">
+<!ENTITY incomingTitle.label "Saapuvan postin palvelimen tiedot">
 <!ENTITY incomingServerTypeDesc.label "Valitse saapuvan postin palvelimen tyyppi.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label  "Kirjoita saapuvan postin palvelimen nimi (esimerkiksi &quot;mail.esimerkki.net&quot;).">
-<!ENTITY incomingServerLabel.label  "Saapuvan postin palvelin:">
-<!ENTITY incomingServerLabel.accesskey  "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label  "Kirjoita keskusteluryhmäpalvelimesi (NNTP) nimi (esimerkiksi &quot;news.esimerkki.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label  "Kirjoita lähtevän postin palvelimen (SMTP) nimi (esimerkiksi &quot;smtp.esimerkki.net&quot;).">
-<!ENTITY smtpServerLabel.label  "Lähtevän postin palvelin:">
-<!ENTITY smtpServerLabel.accesskey  "L">
-<!ENTITY newsServerLabel.label  "NNTP-palvelin:">
-<!ENTITY newsServerLabel.accesskey  "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label  "IMAP">
-<!ENTITY imapType.accesskey  "I">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label  "POP">
-<!ENTITY popType.accesskey  "P">
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Jätä viestit palvelimelle">
 <!ENTITY leaveMsgsOnSrvr.accesskey "J">
 <!ENTITY portNum.label "Portti:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Oletus:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Kirjoita saapuvan postin palvelimen nimi (esimerkiksi &quot;pop.example.net&quot;).">
+<!ENTITY incomingServer.label "Saapuvan postin palvelin:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Kirjoita sähköpostipalveluntarjoajasi antama saapuvan postin palvelimen käyttäjätunnus (esimerkiksi, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Käyttäjätunnus:">
+<!ENTITY incomingUsername.accesskey "K">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Kirjoita keskusteluryhmäpalvelimesi (NNTP) nimi (esimerkiksi &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "Keskusteluryhmäpalvelin:">
+<!ENTITY newsServerLabel.accesskey "e">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Lähtevän postin palvelimen tiedot">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Kirjoita lähtevän postin palvelimen (SMTP) nimi (esimerkiksi &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Lähtevän postin palvelin:">
+<!ENTITY outgoingServer.accesskey "L">
+<!ENTITY outgoingUsername.description "Kirjoita sähköpostipalveluntarjoajasi antama lähtevän postin palvelimen käyttäjätunnus (yleensä sama kuin saapuvan postin tunnus).">
+<!ENTITY outgoingUsername.label "Lähtevän postin käyttäjätunnus:">
+<!ENTITY outgoingUsername.accesskey "k">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -69,32 +80,20 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix  "Tällä hetkellä käytössä olevaa lähtevän postin palvelinta (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix3  "&quot; käytetään.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label  "Käyttäjätunnus">
-<!ENTITY usernameDesc.label  "Kirjoita sähköpostipalveluntarjoajasi antama käyttäjätunnus, jota käytetään viestejä noudettaessa ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label  "(esimerkiksi &quot;erkki&quot;).">
-<!ENTITY usernameLabel.label  "Saapuvan postin käyttäjätunnus:">
-<!ENTITY usernameLabel.accesskey  "S">
-<!ENTITY usernameSmtpDesc.label  "Kirjoita sähköpostipalveluntarjoajasi antama lähtevän postin palvelimen käyttäjätunnus (yleensä sama kuin saapuvan postin tunnus).">
-<!ENTITY usernameSmtpLabel.label  "Lähtevän postin käyttäjätunnus:">
-<!ENTITY usernameSmtpLabel.accesskey  "L">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!ENTITY haveSmtp1.prefix "Tällä hetkellä käytössä olevaa lähtevän postin palvelinta (SMTP) &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot; käytetään.">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix  "Tällä hetkellä käytössä olevaa lähtevän postin palvelimen (SMTP) käyttäjätunnustasi &quot;">
-<!ENTITY haveSmtp2.suffix3 "&quot;, käytetään.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.prefix "Tällä hetkellä käytössä olevaa lähtevän postin käyttäjätunnusta &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot; käytetään.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix  "Lähtevän postin palvelimesi (SMTP) &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot; on sama kuin saapuvan postin palvelimesi, jonka käyttäjätunnusta käytetään nyt myös lähtevien postien lähettämiseen.">
+<!ENTITY haveSmtp3.prefix "Lähtevän postin palvelimen (SMTP) osoite &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot; on sama kuin saapuvan postin palvelimen osoite, joten saapuvan postin käyttäjätunnusta käytetään.">
 
 <!-- Entities for Account name page -->
 

@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Liity keskusteluun">
+<!ENTITY name.label                     "Huone">
+<!ENTITY optional.label                 "(valinnainen)">
+<!ENTITY account.label                  "Tili">
+<!ENTITY autojoin.label                 "Liity keskusteluhuoneeseen automaattisesti">
+<!ENTITY autojoin.accesskey             "L">
