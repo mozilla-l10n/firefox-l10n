@@ -90,7 +90,7 @@
 <!ENTITY  permUseDefault        "使用預設值">
 <!ENTITY  permAskAlways         "每次詢問">
 <!ENTITY  permAllow             "允許">
-<!ENTITY  permAllowSession      "允許此次連線 (Session)">
+<!ENTITY  permAllowSession      "此瀏覽階段中允許">
 <!ENTITY  permBlock             "封鎖">
 <!ENTITY  permissionsFor        "此網站權限設定:">
 <!ENTITY  permImage             "載入圖片">
