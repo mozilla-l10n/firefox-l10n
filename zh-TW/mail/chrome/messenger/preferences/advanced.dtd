@@ -21,7 +21,7 @@
 <!ENTITY configEditDesc.label          "進階組態">
 <!ENTITY configEdit.label              "組態編輯器…">
 <!ENTITY configEdit.accesskey          "C">
-<!ENTITY returnReceiptsInfo.label      "決定 &brandShortName; 如何處理收件回執 (Return Receipts)">
+<!ENTITY returnReceiptsInfo.label      "決定 &brandShortName; 要如何處理收件回執">
 <!ENTITY showReturnReceipts.label      "收件回執…">
 <!ENTITY showReturnReceipts.accesskey  "R">
 

@@ -43,7 +43,7 @@
 
 <!ENTITY  viewDetails.tooltip             "檢視此更新的相關細節">
 
-<!ENTITY  details.link                    "細節">
+<!ENTITY  details.link                    "詳細資訊">
 
 <!ENTITY  error.title                     "更新失敗">
 
@@ -72,6 +72,6 @@
 <!ENTITY  installed.intro                 "已成功安裝更新。">
 <!ENTITY  whatsnew.label                  "深入閱讀新版不同之處…">
 
-<!ENTITY  update.details.label            "細節">
+<!ENTITY  update.details.label            "詳細資訊">
 <!ENTITY  update.installedOn.label        "安裝於:">
 <!ENTITY  update.status.label             "狀態:">
