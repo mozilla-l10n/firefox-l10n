@@ -6,10 +6,12 @@
 <!ENTITY accountActionsButton.accesskey "T">
 <!ENTITY addMailAccountButton.label "Lisää sähköpostitili…">
 <!ENTITY addMailAccountButton.accesskey "L">
+<!ENTITY addIMAccountButton.label "Lisää pikaviestitili…">
+<!ENTITY addIMAccountButton.accesskey "p">
 <!ENTITY addOtherAccountButton.label "Lisää muu tili…">
 <!ENTITY addOtherAccountButton.accesskey "m">
 <!ENTITY setDefaultButton.label  "Aseta oletukseksi">
-<!ENTITY setDefaultButton.accesskey  "o">
+<!ENTITY setDefaultButton.accesskey  "A">
 <!ENTITY removeButton.label  "Poista tili">
 <!ENTITY removeButton.accesskey  "o">
 
