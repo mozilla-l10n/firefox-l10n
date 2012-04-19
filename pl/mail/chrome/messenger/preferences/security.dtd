@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "u">
 <!ENTITY markAsReadOnSpam.label         "Oznaczaj wiadomości uznane za niechciane jako przeczytane">
 <!ENTITY markAsReadOnSpam.accesskey     "z">
-<!ENTITY enableJunkLogging.label        "Włącz dziennik niechcianej poczty">
-<!ENTITY enableJunkLogging.accesskey    "d">
+<!ENTITY enableAdaptiveJunkLogging.label "Włącz dziennik filtru niechcianej poczty">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "d">
 <!ENTITY openJunkLog.label              "Wyświetl dziennik">
 <!ENTITY openJunkLog.accesskey          "k">
 <!ENTITY resetTrainingData.label        "Zresetuj dane treningowe">
