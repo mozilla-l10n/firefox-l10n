@@ -11,12 +11,8 @@
 <!--ENTITY importFromPhoenix.accesskey    "P"-->
 <!ENTITY importFromNothing.label        "ಏನನ್ನೂ ಆಮದು ಮಾಡಿಕೊಳ್ಳಬೇಡ">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "ನೆಟ್‍ಸ್ಕೇಪ್‍ 6, 7 ಅಥವ ಮೊಝಿಲ್ಲಾ 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
 <!--ENTITY importFromNetscape4.label      "ನೆಟ್‍ಸ್ಕೇಪ್‍ 4.x"-->
 <!--ENTITY importFromNetscape4.accesskey  "4"-->
-<!ENTITY importFromOpera.label          "ಒಪೆರಾ">
-<!ENTITY importFromOpera.accesskey      "O">
 <!--ENTITY importFromCamino.label         "ಕೆಮಿನೊ"-->
 <!--ENTITY importFromCamino.accesskey     "C"-->
 <!ENTITY importFromSafari.label         "ಸಫಾರಿ">
@@ -31,6 +27,10 @@
 <!--ENTITY importFromEpiphany.accesskey   "E"-->
 <!--ENTITY importFromGaleon.label         "ಗೆಲೆಯಾನ್‌"-->
 <!--ENTITY importFromGaleon.accesskey     "G"-->
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "ಫೈರ್ಫಾಕ್ಸ್">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "ಕ್ರೋಮ್">
 
 <!ENTITY noMigrationSources.label       "ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು, ಇತಿಹಾಸ, ಅಥವ ಗುಪ್ತಪದವನ್ನು ಹೊಂದಿರುವ ಯಾವುದೆ ಪ್ರೊಗ್ರಾಂ ಕಂಡು ಬಂದಿಲ್ಲ.">
 
