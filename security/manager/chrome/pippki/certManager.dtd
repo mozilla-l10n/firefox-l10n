@@ -54,7 +54,7 @@
 
 <!ENTITY certmgr.detail.general_tab.title     "一般">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "細節">
+<!ENTITY certmgr.detail.prettyprint_tab.title "詳細資訊">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "正在驗證憑證…">
