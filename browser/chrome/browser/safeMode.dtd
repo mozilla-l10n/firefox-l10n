@@ -60,3 +60,5 @@
 
 <!ENTITY changeAndRestartButton.label "మార్పులుచేయి మరియు పునఃప్రారంభించు">
 <!ENTITY continueButton.label         "రక్షితరీతి నందు కొనసాగించు">
+<!ENTITY autoSafeModeIntro.label      "ప్రారంభించునప్పుడు &brandShortName; అనుకోకుండా మూయబడింది">
+<!ENTITY autoSafeModeDescription.label "అసౌకర్యానికి మేము చింతిస్తున్నాము. &brandShortName; యిప్పుడు రక్షణ రీతితో నడుస్తోంది, అది తాత్కాలికంగా మీ వినియోగదారి అమరికలను, థీమ్సును, మరియు విస్తరింపులను అచేతనం చేయును.">
