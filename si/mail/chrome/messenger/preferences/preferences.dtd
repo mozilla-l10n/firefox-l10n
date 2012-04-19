@@ -8,6 +8,7 @@
 <!ENTITY paneGeneral.title        "සාමාන්‍ය">
 <!ENTITY paneDisplay.title        "පෙන්වීම">
 <!ENTITY paneComposition.title    "ලිපි ලිවීම">
+<!ENTITY paneChat.title           "චැට්">
 <!ENTITY paneAttachments.title    "ඇමුණුම්">
 <!ENTITY paneSecurity.title       "ආරක්ෂාව">
 <!ENTITY paneAdvanced.title       "වැඩිමනත්">
