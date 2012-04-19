@@ -11,7 +11,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "સર્વર">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; સર્વર">
+
 
 
 
@@ -118,3 +118,4 @@
 <!ENTITY setup.pickSetupType.description2 "તમારું સ્વાગત છે! જો તમે પહેલાં ક્યારેય &syncBrand.fullName.label; વાપર્યું નહિં હોય, તો તમારે નવું ખાતું બનાવવાની જરૂર રહેશે.">
 <!ENTITY signIn.recoveryKey.label       "પુનઃપ્રાપ્તિ ચાવી">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY serverType.default.label      "મૂળભૂત: Mozilla &syncBrand.fullName.label; સર્વર">
