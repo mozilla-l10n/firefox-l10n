@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label  "Tiedostot…">
 <!ENTITY attachFileCmd.accesskey  "T">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Linkitä tiedosto">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label  "Verkkosivu…">
 <!ENTITY attachPageCmd.accesskey  "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey  "V">
 <!ENTITY attachFile.label  "Liitä tiedostot…">
 <!ENTITY attachFile.accesskey  "L">
+<!ENTITY attachCloud.label "Linkitetty liitetiedosto…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Muunna muotoon…">
+<!ENTITY convertCloud.accesskey "M">
+<!ENTITY cancelUpload.label "Peruuta siirto">
+<!ENTITY cancelUpload.accesskey "P">
+<!ENTITY convertRegularAttachment.label "Normaali liitetiedosto">
+<!ENTITY convertRegularAttachment.accesskey "N">
 <!ENTITY attachPage.label  "Liitä verkkosivu">
 <!ENTITY attachPage.accesskey  "t">
 
