@@ -305,7 +305,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "最近關閉的分頁">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "最近關閉的視窗">
-<!ENTITY historyRestoreLastSession.label "還原先前的瀏覽紀錄">
+<!ENTITY historyRestoreLastSession.label "回復先前的瀏覽狀態">
 
 <!ENTITY historyHomeCmd.label "首頁">
 <!ENTITY showAllHistoryCmd2.label "顯示所有瀏覽記錄">

@@ -12,7 +12,7 @@
 <!ENTITY homePageRadio.accesskey        "m">
 <!ENTITY lastPageRadio.label            "最後一次開啟的網頁">
 <!ENTITY lastPageRadio.accesskey        "L">
-<!ENTITY restoreSessionRadio.label      "還原先前的瀏覽紀錄">
+<!ENTITY restoreSessionRadio.label      "回復先前的瀏覽狀態">
 <!ENTITY restoreSessionRadio.accesskey  "P">
 
 <!ENTITY restoreSessionIntro.label      "還原視窗與瀏覽階段時">
@@ -28,7 +28,7 @@
 <!ENTITY restoreDeferred.accesskey      "O">
 
 <!ENTITY homePageIntro.label            "當按下「首頁」按鈕時會自動瀏覽此(組)網址">
-<!ENTITY useCurrent.label               "使用目前的網頁">
+<!ENTITY useCurrent.label               "使用目前頁面">
 <!ENTITY useCurrent.accesskey           "U">
 <!ENTITY useCurrentGroup.label          "使用目前分頁組">
 <!ENTITY useCurrentGroup.accesskey      "G">
