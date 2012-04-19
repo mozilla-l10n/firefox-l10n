@@ -64,3 +64,9 @@
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.label "ઇમેઇલ સરનામાંની નકલ કરો">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyLinkCmd.label "કડી સ્થાનની નકલ કરો">
