@@ -4,7 +4,7 @@
 <!ENTITY account.advanced "Ítarlegir valkostir">
 <!ENTITY account.name "Notandanafn:">
 <!ENTITY account.password "Lykilorð:">
-<!ENTITY account.alias "Samnefni:">
+<!ENTITY account.alias "Auðkenni:">
 <!ENTITY account.newMailNotification "Tilkynna nýjan póst">
 <!ENTITY account.autojoin "Sjálfvirkt tengdar rásir:">
 <!ENTITY account.proxySettings.caption "Staðgengilsstillingar:">
