@@ -7,3 +7,7 @@
 <!ENTITY setDesktopBackground.title "ડેસ્કટોપ પાશ્વ ભાગ સુયોજિત કરો">
 <!ENTITY openDesktopPrefs.label     "ડેસ્કટોપ પસંદગીઓ ખોલો">
 <!ENTITY closeWindow.key            "w">
+
+<!ENTITY fill.label                 "ભરો">
+<!ENTITY fit.label                  "યોગ્ય">
+
