@@ -2,7 +2,19 @@
 <!ENTITY feedSubscriptions.label "පෝෂක දායකත්වයන්">
 <!ENTITY subscriptionDesc.label "සටහන: පෝෂකයක් සඳහා ෆෝල්ඩරය ඉවත් කිරීම හෝ වෙනස් කිරීම පෙරදී භාගත කළ ලිපි (articles) වලට බල නොපායි.">
 <!ENTITY feedTitle.label "සිරස්තලය:">
-<!ENTITY location.label  "ස්ථානය:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "පෝෂක URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "එක් කිරීමට ලංගු පෝෂක URL ක් ඇතුළු කරන්න">
+
+<!ENTITY feedFolder.label            "ලිපි (articles) තැන්පත් කරන්නේ මෙතුළ">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "වෙබ් පිටුව පූරණය කරනවා වෙනුවට ලිපි සාරාංශය (article summary) පෙන්වන්න">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY validateText.label          "වලංගුතාවය පරීක්ෂා කර url ලබාගන්න.">
 
 <!ENTITY button.addFeed.label       "එක් කරන්න">
 <!ENTITY button.addFeed.accesskey   "A">
