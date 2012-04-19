@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "මකන්න">
 <!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListClose.label "වසන්න">
+<!ENTITY identitiesListClose.accesskey "C">

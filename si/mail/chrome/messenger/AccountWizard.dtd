@@ -35,7 +35,7 @@
 
 <!-- Entities for Server page -->
 
-<!ENTITY serverTitle.label "සේවාදායක ‌තොරතූරු">
+<!ENTITY incomingTitle.label "එවුම් සේවාදායක‌යේ">
 <!ENTITY incomingServerTypeDesc.label "ඔබ භාවිතා කරන එවුම් සේවාදායක‌යේ වර්ගය ‌තෝරන්න.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "එවුම් සේවාදායක‌යේ නම ඇතුළත් කරන්න (උදාහරණයක් ‌ලෙස, &quot;mail.example.lk&quot;).">
@@ -47,11 +47,6 @@
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "ඔබගේ පුවත් සේවාදායක‌යේ නම ඇතුළත් කරන්න (NNTP) (උදාහරණයක් ‌ලෙස, &quot;news.example.lk&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "ඔබගේ  යැවුම් සේවාදායක‌යේ නම ඇතුළත් කරන්න (SMTP) (උදාහරණයක් ‌ලෙස, &quot;smtp.example.lk&quot;).">
-<!ENTITY smtpServerLabel.label "යැවුම් සේවාදායකය:">
-<!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "පුවත්සමූහ සේවාදායකය:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
