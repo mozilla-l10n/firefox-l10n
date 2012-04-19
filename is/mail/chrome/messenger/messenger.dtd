@@ -456,9 +456,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Staða spjalls">
 <!ENTITY imAccountsStatus.accesskey "S">
-<!ENTITY imStatus.available "Tiltækt">
-<!ENTITY imStatus.unavailable "Ófáanlegt">
-<!ENTITY imStatus.offline "Ónettengdur">
+<!ENTITY imStatus.available "Tengdur">
+<!ENTITY imStatus.unavailable "Upptekinn">
+<!ENTITY imStatus.offline "Ótengdur">
 <!ENTITY imStatus.showAccounts "Sýna reikninga…">
 <!ENTITY savedFiles.label "Vistaðar skrár">
 <!ENTITY savedFiles.accesskey "V">

@@ -6,7 +6,7 @@
 <!ENTITY accountUsernameTitle.label "Notandanafn">
 <!ENTITY accountUsernameDuplicate.label "Þegar er búið að stilla þennan reikning!">
 <!ENTITY accountPasswordTitle.label "Lykilorð">
-<!ENTITY accountPasswordInfo.label "Sláðu lykilorðið í kassann hér fyrir neðan.">
+<!ENTITY accountPasswordInfo.label "Sláðu lykilorðið í svæðið hér fyrir neðan.">
 <!ENTITY accountPasswordField.label "Lykilorð:">
 <!ENTITY accountPasswordManager.label "Innslegið lykilorð verður geymt í lykilorðageymslu. Hafðu þetta svæði tómt ef þú vilt alltaf verða spurður um lykilorð í hvert sinn sem tengst er þessum reikningi.">
 <!ENTITY accountAdvancedTitle.label "Ítarlegir valkostir">
