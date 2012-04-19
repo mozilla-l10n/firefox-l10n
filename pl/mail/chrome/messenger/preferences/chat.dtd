@@ -1,7 +1,7 @@
 <!ENTITY startupAction.label "Po uruchomieniu programu &brandShortName;:">
 <!ENTITY startupAction.accesskey "P">
-<!ENTITY startupOffline.label "nie łącz z kontami czat">
-<!ENTITY startupConnectAuto.label "łącz z kontami czat automatycznie">
+<!ENTITY startupOffline.label "nie łącz z kontami czatu">
+<!ENTITY startupConnectAuto.label "łącz z kontami czatu automatycznie">
 
 <!ENTITY reportIdleAfter.label "Wyświetlaj informacje o mojej niekatywności po">
 <!ENTITY reportIdleAfter.accesskey "W">
