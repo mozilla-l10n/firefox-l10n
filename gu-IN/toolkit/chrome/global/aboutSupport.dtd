@@ -37,3 +37,8 @@
 <!ENTITY aboutSupport.showDir.label "ડિરેક્ટરી ખોલો">
 <!ENTITY aboutSupport.showWin.label "ફોલ્ડર બતાવો">
 
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "રૂપરેખા ફોલ્ડર">
+<!ENTITY aboutSupport.jsIncrementalGC "વધતુ જતુ GC">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.libraryVersionsTitle "લાઇબ્રેરી આવૃત્તિ">
+
