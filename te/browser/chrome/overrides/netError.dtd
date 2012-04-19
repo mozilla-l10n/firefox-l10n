@@ -146,17 +146,6 @@
 <!ENTITY cspFrameAncestorBlocked.title "కాంటెంట్ రక్షణ విధానము చేత నిలిపివేయబడెను">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
 
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>&quot;ఆఫ్‌లైన్‌గా పనిచేయి&quot; అను మెనూ అంశము అన్‌చెక్  చేసి,అప్పుడు మరలా ప్రయత్నించండి..</li>
-</ul>
-">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -170,3 +159,33 @@ functionality specific to firefox. -->
 ">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
+<!ENTITY corruptedContentError.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలుపండి.</li></ul>">
+<!ENTITY corruptedContentError.title "పాడైన విషయ దోషం">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>ఆన్‌లైన్ రీతినకు మారి పేజీను తిరిగి లోడ్ చేయుటకు  &quot;మరలా ప్రయత్నించు&quot; వత్తుము.</li>
+</ul>
+">
+<!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
+<!ENTITY notCached.title "పత్రము గడువుతీరినది">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
