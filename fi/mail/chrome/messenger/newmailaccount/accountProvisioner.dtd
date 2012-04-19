@@ -1,5 +1,5 @@
 <!ENTITY window.title "Tervetuloa &brandShortName;in käyttäjäksi">
-<!ENTITY header.label "Haluatko uuden sähköpostiosoitteen &brandShortName;iin?">
+<!ENTITY header2.label "Haluatko uuden sähköpostiosoitteen?">
 <!ENTITY other.languages "Esillä ovat sähköpostipalveluntarjoajat alueeltasi. Tarkastele koko listaa napsauttamalla tästä.">
 <!ENTITY error.line1 "Ikävä kyllä emme löytäneet ehdotettuja sähköpostiosoitteita.">
 <!ENTITY error.line2 "Voit etsiä muita sähköpostiosoitteita lempinimillä tai muilla hakutermeillä">
