@@ -22,6 +22,10 @@
 <!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Izvještaji o rušenju">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Direktorij profila">
 
 <!ENTITY aboutSupport.showDir.label "Otvori direktorij">
 
@@ -38,6 +42,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementalni GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Verzije biblioteke">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historija instalacije">
 <!ENTITY aboutSupport.updateHistoryTitle "Historijat updatea">

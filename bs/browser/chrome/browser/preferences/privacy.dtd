@@ -65,11 +65,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Uvijek koristi režim privatnog surfanja">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Pamti moju historiju surfanja">
-<!ENTITY  rememberHistory.accesskey  "P">
-
-<!ENTITY  rememberDownload.label         "Pamti historiju preuzimanja">
-<!ENTITY  rememberDownload.accesskey     "P">
+<!ENTITY  rememberHistory2.label      "Pamti moju historiju surfanja i preuzimanja">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Pamti historiju formi i pretrage">
 <!ENTITY  rememberSearchForm.accesskey   "f">
