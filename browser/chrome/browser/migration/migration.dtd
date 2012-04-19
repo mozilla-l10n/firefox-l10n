@@ -9,23 +9,18 @@
 
 <!ENTITY importFromNothing.label "कुछ भी आयात न करें (D)">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "नेटस्केप 6, 7 या मोजिला 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
 
 
-<!ENTITY importFromOpera.label "ओपरा">
-<!ENTITY importFromOpera.accesskey "O">
 
 
 <!ENTITY importFromSafari.label "सफारी">
 <!ENTITY importFromSafari.accesskey "S">
 
 
-
-
-
-
-
+<!ENTITY importFromFirefox.label        "फ़ायरफ़ॉक्स">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromChrome.label         "क्रोम">
+<!ENTITY importFromChrome.accesskey     "C">
 
 
 
