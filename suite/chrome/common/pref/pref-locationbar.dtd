@@ -10,18 +10,22 @@
 <!ENTITY autoCompleteShowPopup.accesskey "L">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Csak az előzőleg begépelt webhelyek megjelenítése">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "C">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Only match locations, not website titles">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Egyezés a webhely helyével, a weboldal címének figyelmen kívül hagyásával">
 <!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
 -->
-<!ENTITY autoCompleteMatch.label "Match">
-<!ENTITY autoCompleteMatch.accesskey "M">
-<!ENTITY autoCompleteMatchAnywhere "Anywhere in the location or title">
-<!ENTITY autoCompleteMatchWordsFirst "Anywhere but preferring word boundaries">
-<!ENTITY autoCompleteMatchWords "Only on word boundaries">
-<!ENTITY autoCompleteMatchStart "Only at the beginning of the location or title">
+<!ENTITY autoCompleteMatch.label "Egyezés">
+<!ENTITY autoCompleteMatch.accesskey "E">
+<!ENTITY autoCompleteMatchAnywhere "Egyezés bárhol a webhely helyében és címében">
+<!ENTITY autoCompleteMatchWordsFirst "Egyezés bárhol, de a szöveghatárok előnyben részesítésével">
+<!ENTITY autoCompleteMatchWords "Csak a szöveghatárokon">
+<!ENTITY autoCompleteMatchStart "Csak a webhely helynek és címének elején">
+
+<!ENTITY formatting.label                      "Formátum">
+<!ENTITY domainFormatting.label                "Webhelyek és FTP-kiszolgálók tartománynevének jelzése">
+<!ENTITY domainFormatting.accesskey            "W">
 
 <!ENTITY searchEngine.label "Internetes keresőszolgáltatás">
 <!ENTITY showSearchEngine.label "Alapértelmezett keresőszolgáltatás megjelenítése">
