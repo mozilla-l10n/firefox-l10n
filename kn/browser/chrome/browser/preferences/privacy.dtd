@@ -52,7 +52,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "ಯಾವಾಗಲೂ ಖಾಸಗಿ ವೀಕ್ಷಣೆ ಕ್ರಮವನ್ನು ಬಳಸು">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ನಿಮ್ಮ ವೀಕ್ಷಣೆ, ಡೌನ್‌ಲೋಡ್, ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ ಹಾಗು ನೀವು ಭೇಟಿ ನೀಡುವ ತಾಣಗಳ ಕುಕಿಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳುತ್ತದೆ.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ನಿಮ್ಮ ವೀಕ್ಷಣೆ, ಇಳಿಕೆ, ಫಾರ್ಮ್ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ ಹಾಗು ನೀವು ಭೇಟಿ ನೀಡುವ ತಾಣಗಳ ಕುಕಿಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳುತ್ತದೆ.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -63,12 +63,6 @@
 <!ENTITY  rememberActions.removeCookies.label "ಪ್ರತ್ಯೇಕ ಕುಕಿಗಳನ್ನು ತೆಗೆದು ಹಾಕಬಹುದು">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  rememberHistory.label      "ನನ್ನ ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "ನನ್ನ ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
-<!ENTITY  rememberDownload.accesskey     "d">
-
 <!ENTITY  rememberSearchForm.label       "ಹುಡುಕು ಹಾಗು ಫಾರ್ಮ್ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -76,6 +70,8 @@
 <!ENTITY doNotTrack.accesskey           "d">
 <!ENTITY doNotTrack.label               "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸಬೇಡಿ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸು">
 <!ENTITY tracking.label                 "ಜಾಡು ಇರಿಸುವಿಕೆ">
+<!ENTITY  rememberHistory2.label      "ನನ್ನ ಜಾಲವೀಕ್ಷಣಾ ಮತ್ತು ಇಳಿಕೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
+ <!ENTITY  rememberHistory2.accesskey  "b">
 
 
 
