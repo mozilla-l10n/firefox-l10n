@@ -34,7 +34,7 @@
 <!ENTITY connectionSettings.label        "सेटिंग…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "ऑफ़लाइन भंडार">
+
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -47,19 +47,12 @@
 
 <!ENTITY updateTab.label                 "अद्यतन">
 
-<!ENTITY autoCheck.label                 "यहाँ अद्यतन के लिए स्वतः जाँचें:">
+
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableSearchUpdate.label        "खोज इंजन">
+
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "जब &brandShortName; का अद्यतन पाया जाता है:">
-<!ENTITY askMe.label                     "मुझसे पूछें कि मैं क्या चाहता हूं">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "अद्यतन स्वतः डाउनलोड कर स्थापित करें">
-<!ENTITY modeAutomatic.accesskey         "d">
+
 <!ENTITY modeAutoAddonWarn.label         "मुझे चेताएँ यदि इससे मेरी कोई सहयुक्तियाँ निष्क्रिय होती हैं">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
-<!ENTITY updateHistory.label             "अद्यतन इतिहास दिखाएँ">
 <!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY offlineNotify.label             "मुझे बताएँ कि कब वेबसाइट ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा करने के लिए पूछता है">
@@ -67,7 +60,7 @@
 <!ENTITY offlineNotifyExceptions.label   "अपवाद…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "निम्नलिखित वेबसाइट ने ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा किया है:">
+
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाएँ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -99,8 +92,6 @@
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "h">
 
-<!ENTITY enableAddonsUpdate2.label       "सहयुक्तियाँ">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -121,3 +112,30 @@
 
 <!ENTITY submitCrashes.label             "क्रैश रिपोर्ट सुपुर्द करें">
 <!ENTITY submitCrashes.accesskey         "S">
+
+<!ENTITY clearOfflineAppCacheNow.label   "अभी साफ करें">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+
+<!ENTITY httpCache.label                 "कैश्च वेब कंटेंट">
+
+<!ENTITY offlineAppsList2.label          "निम्नलिखित वेबसाइट ऑफलाइन उपयोग के लिए आँकड़ा जमा करने में सक्षम है:">
+
+<!ENTITY offlineStorage2.label           "ऑफ़ाइल वेबकंटेंट और उपयोक्ता आँकड़े">
+<!ENTITY updateApp.label                 "&brandShortName; अद्यतन:">
+
+<!ENTITY updateAuto.label                "अद्यतन स्वतः संस्थापित करें (अनुशंसित: बेहतर सुरक्षा)">
+<!ENTITY updateAuto.accesskey            "A">
+
+<!ENTITY updateAutoAddonWarn.label       "मुझे चताएँ यदि यह किसी सहयुक्ति को निष्क्रिय करता है">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateCheck.label               "अद्यतन जाँचें लेकिन मुझे चुनने दें कि कहाँ उन्हें संस्थापित करना है">
+<!ENTITY updateCheck.accesskey           "C">
+
+<!ENTITY updateManual.label              "अद्यतन के लिए कभी मत जाँचें (अनुशंसित नहीं: सुरक्षा जोखिम)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateOthers.label              "स्वतः अद्यतन:">
+
+<!ENTITY useService.label                "अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें">
+<!ENTITY useService.accesskey            "b">
