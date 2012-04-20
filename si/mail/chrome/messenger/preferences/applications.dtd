@@ -18,17 +18,17 @@
 
 <!ENTITY filter.placeholder "සෙවීම">
 
-<!ENTITY attachments.incoming.label   "Incoming">
-<!ENTITY attachments.outgoing.label   "Outgoing">
+<!ENTITY attachments.incoming.label   "ලැබෙන">
+<!ENTITY attachments.outgoing.label   "යවන">
 
-<!ENTITY addCloudFileAccount.label        "Add">
+<!ENTITY addCloudFileAccount.label        "එක්කරන්න">
 <!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
-<!ENTITY removeCloudFileAccount.label     "Remove">
+<!ENTITY addCloudFileAccount.description  "නව ගොනු-ඈඳුම් සංචිත සේවයක් එක්කරන්න">
+<!ENTITY removeCloudFileAccount.label     "ඉවත්කරන්න">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorize">
+<!ENTITY authRequired.description         "මෙම සංචිත සේවය සඳහා සැකසුම් බැලීමට ඔබගේ අවසරය අවශ්‍යව ඇත.">
+<!ENTITY authRequired.button.label        "බලය පවරන්න">
 <!ENTITY authRequired.button.accesskey    "U">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.label "මෙයට වඩා විශාල ගොනු සඳහා බෙදාගන්න">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
