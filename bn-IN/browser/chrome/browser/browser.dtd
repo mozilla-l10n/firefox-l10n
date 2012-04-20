@@ -631,7 +631,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
+<!-- ENTITY inspectPanelTitle.label      "HTML" -->
 <!-- ENTITY inspectButton.label          "তদারকি" -->
 <!-- ENTITY inspectButton.accesskey      "I" -->
 <!-- ENTITY inspectNextButton.label      "পরবর্তী" -->

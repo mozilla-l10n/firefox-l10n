@@ -70,7 +70,7 @@
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!-- ENTITY addDevice.title.label              "একটি ডিভাইস যোগ করুন" -->
 <!ENTITY addDevice.dialog.successful.label  "ডিভাইসটি সাফল্যের সাথে যোগ করা হয়েছে। প্রথমবার সুসংগতির সময় বেশ কয়েক মিনিট সময় ব্যয় হতে পারে এবং এই কাজ পটভূমিতে সঞ্চালিত হবে।">
-<!ENTITY addDevice.dialog.description.label "নতুন ডিভাইসটি সক্রিয় করার জন্য, ডিভাইসের মধ্যে &syncBrand.shortName.label; Options-এ গিয়ে  &#x0022;Connect.&#x0022; নির্বাচন করুন।">
+<!-- ENTITY addDevice.dialog.description.label "নতুন ডিভাইসটি সক্রিয় করার জন্য, ডিভাইসের মধ্যে &syncBrand.shortName.label; Options-এ গিয়ে  &#x0022;Connect.&#x0022; নির্বাচন করুন।" -->
 <!-- ENTITY addDevice.setup.description.label  "সক্রিয় করার জন্য, অন্য ডিভাইসটির মধ্যে To activate, go to &syncBrand.shortName.label; Options-এ গিয়ে &#x0022;Add a Device&#x0022; নির্বাচন করুন।" -->
 <!ENTITY addDevice.showMeHow.label          "প্রণালী জেনে নিন।">
 <!ENTITY addDevice.setup.enterCode.label    "এর পরে, এই কোডটি লিখুন:">
@@ -87,7 +87,7 @@
 
 <!-- ENTITY connecting.label             "সংযোগ স্থাপন করা হচ্ছে…" -->
 <!ENTITY setup.signInPage.title.label "লগ-ইন করুন">
-<!-- ENTITY existingSyncKey.description "অন্য ডিভাইসটির মধ্যে &syncBrand.shortName.label; Options-এ গিয়ে &#x0022;Manage Account&#x0022;-র অধীন &#x0022;My Sync Key&#x0022;  নির্বাচন করে সিংক-কি-র একটি প্রতিলিপি প্রাপ্ত করতে পারেন।" ->
+<!-- ENTITY existingSyncKey.description "অন্য ডিভাইসটির মধ্যে &syncBrand.shortName.label; Options-এ গিয়ে &#x0022;Manage Account&#x0022;-র অধীন &#x0022;My Sync Key&#x0022;  নির্বাচন করে সিংক-কি-র একটি প্রতিলিপি প্রাপ্ত করতে পারেন।" -->
 <!-- Existing Account Page 2: Sync Key -->
 <!-- ENTITY setup.existingSyncKeyPage.title "অনুগ্রহ করে নিজের সিংক-কি লিখুন" -->
 <!-- ENTITY setup.existingSyncKeyPage.description "&syncBrand.fullName.label; প্রথমবার ব্যবহারের সময় সিংক-কি প্রস্তুত করা হয়েছে, অথবা আপনি তা স্বয়ং উল্লেখ করেছেন। এটি পাসওয়ার্ডের থেকে ভিন্ন একটি মান।" -->

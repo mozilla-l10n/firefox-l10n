@@ -5,7 +5,7 @@
 <!ENTITY community.middle2          " দ্বারা, একটি ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "বিশ্বব্যাপী সম্প্রদায়">
-<!ENTITY community.end2             " যা ইন্টারনেটকে উন্নত করার উদ্দেশ্যে একযোগে কাজ করে চলেছে। আমরা বিশ্বাস করি যে ইন্টারনেটের ব্যবহার সর্বসাধারণের জন্য মুক্ত হওয়া উচিত ও কোনো ধরনের বাধা এই পরিবেশে উপস্থিত থাকা বাঞ্ছনীয় নয়।">
+<!-- ENTITY community.end2             " যা ইন্টারনেটকে উন্নত করার উদ্দেশ্যে একযোগে কাজ করে চলেছে। আমরা বিশ্বাস করি যে ইন্টারনেটের ব্যবহার সর্বসাধারণের জন্য মুক্ত হওয়া উচিত ও কোনো ধরনের বাধা এই পরিবেশে উপস্থিত থাকা বাঞ্ছনীয় নয়।" -->
 
 <!ENTITY contribute.start           "আকর্ষক মনে হচ্ছে কি? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
