@@ -33,8 +33,8 @@
 <!ENTITY alwaysAsk.label               "My altyd freegje wêr't bestannen bewarre wurde moatte">
 <!ENTITY alwaysAsk.accesskey           "f">
 
-<!ENTITY addonsMgr.label            "Tafoegings">
-<!ENTITY manageAddonsDescWin.label     "Opsjes fan jo tafoegings oanpasse.">
-<!ENTITY manageAddonsDescUnix2.label "Foarkarren fan jo tafoegings oanpasse.">
-<!ENTITY manageAddons.label         "Tafoegings beheare…">
+<!ENTITY addonsMgr.label            "Tafoegingen">
+<!ENTITY manageAddonsDescWin.label     "Opsjes fan jo tafoegingen oanpasse.">
+<!ENTITY manageAddonsDescUnix2.label "Foarkarren fan jo tafoegingen oanpasse.">
+<!ENTITY manageAddons.label         "Tafoegingen beheare…">
 <!ENTITY manageAddons.accesskey     "T">

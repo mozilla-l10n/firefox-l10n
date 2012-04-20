@@ -1,16 +1,16 @@
 <!ENTITY  blockPopups.label           "Pop-upfinsters blokkearje">
 <!ENTITY  blockPopups.accesskey       "P">
-<!ENTITY  popupExceptions.label       "Utsûnderings...">
+<!ENTITY  popupExceptions.label       "Utsûnderingen...">
 <!ENTITY  popupExceptions.accesskey   "U">
 
-<!ENTITY  loadImages.label            "Ofbyldings automatysk laden">
+<!ENTITY  loadImages.label            "Ofbyldingen automatysk laden">
 <!ENTITY  loadImages.accesskey        "O">
-<!ENTITY  exceptions.label            "Utsûnderings...">
+<!ENTITY  exceptions.label            "Utsûnderingen…">
 <!ENTITY  exceptions.accesskey        "t">
 
 <!ENTITY  enableJavaScript.label      "JavaSkript ynskeakelje">
 <!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Avansearre...">
+<!ENTITY  advancedJS.label            "Avansearre…">
 <!ENTITY  advancedJS.accesskey        "A">
 
 <!ENTITY  enableJava.label            "Java ynskeakelje">
@@ -24,14 +24,14 @@
 <!ENTITY  defaultSize.label           "Grutte:">
 <!ENTITY  defaultSize.accesskey       "G">
 
-<!ENTITY  advancedFonts.label         "Avansearre...">
+<!ENTITY  advancedFonts.label         "Avansearre…">
 <!ENTITY  advancedFonts.accesskey     "v">
 
-<!ENTITY  colors.label                "Kleuren...">
+<!ENTITY  colors.label                "Kleuren…">
 <!ENTITY  colors.accesskey            "K">
 
 
 <!ENTITY languages.label                 "Talen">
 <!ENTITY chooseLanguage.label            "Talen kieze dêr't websteeën yn werjûn wurde moatte.">
-<!ENTITY chooseButton.label              "Kies...">
+<!ENTITY chooseButton.label              "Kies…">
 <!ENTITY chooseButton.accesskey          "i">
