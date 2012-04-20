@@ -160,7 +160,7 @@
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
 <!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "п">
-<!ENTITY inspectorHTMLCopyOuter.label "Копировать наружный HTML">
+<!ENTITY inspectorHTMLCopyOuter.label "Копировать внешний HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "о">
 <!ENTITY inspectorHTMLDelete.label "Удалить узел">
 <!ENTITY inspectorHTMLDelete.accesskey "д">
@@ -438,6 +438,5 @@
 <!ENTITY syncToolbarButton.label "Синхронизация">
 <!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
 <!ENTITY toggleAddonBarCmd.key "\">
-<!ENTITY htmlPanel.label "HTML">
-<!ENTITY htmlPanel.tooltiptext "Панель HTML">
-<!ENTITY htmlPanel.accesskey "H">
+<!ENTITY markupButton.arialabel "Разметка">
+<!ENTITY markupButton.accesskey "а">
