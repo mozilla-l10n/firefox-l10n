@@ -33,7 +33,7 @@
 <!ENTITY cmd.copyDownloadLink.label       "Copier le lien de téléchargement">
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">
 <!ENTITY cmd.removeFromList.label         "Enlever de la liste">
-<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.removeFromList.accesskey     "E">
 <!ENTITY cmd.clearList.label              "Effacer la liste">
 <!ENTITY cmd.clearList.accesskey          "l">
 
