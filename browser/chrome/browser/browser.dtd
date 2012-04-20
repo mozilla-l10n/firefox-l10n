@@ -438,6 +438,5 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Chiudi la barra dei componenti aggiuntivi">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY htmlPanel.label "HTML">
-<!ENTITY htmlPanel.tooltiptext "Pannello HTML">
-<!ENTITY htmlPanel.accesskey "H">
+<!ENTITY markupButton.arialabel "Codice">
+<!ENTITY markupButton.accesskey "C">
