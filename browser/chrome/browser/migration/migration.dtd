@@ -49,4 +49,4 @@
 
 <!ENTITY importFromHTMLFile.label       "ಒಂದು HTML ಕಡತದಿಂದ">
 <!ENTITY importFromHTMLFile.accesskey   "F">
-
+<!ENTITY importFromFirefox.accesskey    "X">
