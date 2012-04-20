@@ -60,6 +60,9 @@
 <!-- ENTITY  rememberHistory.label      "ব্রাউজিং সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে" -->
 <!-- ENTITY  rememberHistory.accesskey  "b" -->
 
+<!ENTITY  rememberHistory2.label      "ব্রাউজিং ও ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
 <!ENTITY  rememberSearchForm.label       "অনুসন্ধান ও ফর্ম সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
@@ -68,6 +71,9 @@
 <!ENTITY  dontrememberActions.pre.label          "আপনি ">
 <!ENTITY  dontrememberActions.clearHistory.label "সাম্প্রতিক ব্যবহার সংক্রান্ত পূর্ববর্তী তথ্য মুছে ফেলতে পারেন">
 <!ENTITY  dontrememberActions.post.label         "।">
+
+<!ENTITY  privateBrowsingPermanent2.label "ব্যক্তিগত ব্রাউজিং মোড সর্বদা ব্যবহার করা হবে">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!-- ENTITY  privateBrowsingPermanent.label "ব্যক্তিগত ব্রাউজিং মোডের স্থায়ী ব্যবহার" -->
 <!-- ENTITY  privateBrowsingPermanent.accesskey "P" -->
