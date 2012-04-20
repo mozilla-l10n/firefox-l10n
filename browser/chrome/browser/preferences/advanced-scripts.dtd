@@ -35,7 +35,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "Avansearre JavaScript-ynstellings">
+<!ENTITY advancedJSDialog.title         "Avansearre JavaScript-ynstellingen">
 <!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "Stean scripts ta om:">

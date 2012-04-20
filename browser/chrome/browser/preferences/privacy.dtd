@@ -29,10 +29,10 @@
 <!ENTITY  close.label                   "ik &brandShortName; ôfslút">
 <!ENTITY  askEachTime.label             "my elke kear freegje">
 
-<!ENTITY  cookieExceptions.label        "Utsûnderings...">
+<!ENTITY  cookieExceptions.label        "Utsûnderingen…">
 <!ENTITY  cookieExceptions.accesskey    "U">
 
-<!ENTITY  showCookies.label             "Cookies sjen litte...">
+<!ENTITY  showCookies.label             "Cookies sjen litte…">
 <!ENTITY  showCookies.accesskey         "t">
 
 
@@ -40,7 +40,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Skiednis ûnthâlde">
 <!ENTITY  historyHeader.dontremember.label "Noait skiednis ûnthâlde">
-<!ENTITY  historyHeader.custom.label       "Brûk oanpaste ynstellings foar skiednis">
+<!ENTITY  historyHeader.custom.label       "Brûk oanpaste ynstellingen foar skiednis">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; sil jo browsing, ynladen bestannen, formulier- en sykskiednis ûnthâlde en cookies fan websteeën dy't jo besykje bewarje.">
@@ -54,7 +54,7 @@
 <!ENTITY  rememberActions.removeCookies.label "yndividuele cookies fuortsmite">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; sil deselde ynstellings brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -83,5 +83,5 @@
 <!ENTITY  clearOnClose.label             "Wiskje skiednis as &brandShortName; ôfslút">
 <!ENTITY  clearOnClose.accesskey         "w">
 
-<!ENTITY  clearOnCloseSettings.label     "Ynstellings…">
+<!ENTITY  clearOnCloseSettings.label     "Ynstellingen…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
