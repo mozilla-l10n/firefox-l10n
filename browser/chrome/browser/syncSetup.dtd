@@ -1,6 +1,6 @@
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; అమర్పు">
 <!-- First page of the wizard -->
-<!ENTITY setup.pickSetupType.description "స్వాగతం, మీరు యింతకు మునుపెన్నడు &syncBrand.fullName.label; వుపయోగించకపోతే, మీరు కొత్త ఖాతాను సృష్టించవలసి వుంటుంది.">
+
 <!ENTITY button.createNewAccount.label "కొత్త ఖాతాను సృష్టించుము">
 <!ENTITY setup.choicePage.title.label     "మీరు &syncBrand.fullName.label; ను యింతకు ముందు వుపయోగించారా?">
 <!ENTITY setup.choicePage.new.label       "నేను యింతకు ముందెన్నడూ &syncBrand.shortName.label; వుపయోగించలేదు">
