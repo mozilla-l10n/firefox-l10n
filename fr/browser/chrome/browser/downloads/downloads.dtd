@@ -37,5 +37,5 @@
 <!ENTITY cmd.clearList.label              "Effacer la liste">
 <!ENTITY cmd.clearList.accesskey          "l">
 
-<!ENTITY downloadshistory.label           "Montrer tous les téléchargements">
-<!ENTITY downloadshistory.accesskey       "M">
+<!ENTITY downloadshistory.label           "Afficher tous les téléchargements">
+<!ENTITY downloadshistory.accesskey       "i">
