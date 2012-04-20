@@ -75,6 +75,7 @@
 <!-- ENTITY enableAppUpdate.accesskey       "F" -->
 <!-- ENTITY enableAddonsUpdate.label        "ইনস্টল করা অতিরিক্ত সামগ্রী" -->
 <!-- ENTITY enableAddonsUpdate.accesskey    "n" -->
+<!ENTITY updateOthers.label              "স্বয়ংক্রিয়রূপে আপডেট করা হবে:">
 <!ENTITY enableSearchUpdate.label        "অনুসন্ধান ব্যবস্থা">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!-- ENTITY whenUpdatesFound.label          "&brandShortName;-র আপডেট সনাক্ত করা হলে:" -->

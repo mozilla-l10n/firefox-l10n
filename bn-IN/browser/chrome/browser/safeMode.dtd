@@ -39,7 +39,11 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; নিরাপদ মোড">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; বর্তমানে নিরাপদ মোডে চলছে যার ফলে সাময়িকভাবে আপনার পছন্দ অনুসারে নির্ধারিত বৈশিষ্ট্য, থিম ও এক্সটেনশন নিষ্ক্রিয় করা হবে।">
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; আরম্ভ করার সময় অপ্রত্যাশিতভাবে বন্ধ হয়েছে">
+<!ENTITY autoSafeModeDescription.label "এই সমস্যার জন্য আমরা অতিশয় দুঃখিত। &brandShortName; বর্তমানে নিরাপদ মোডে সঞ্চালিত হচ্ছে, এবং এর ফলে আপনার স্বনির্ধারিত বৈশিষ্ট্য, থিম ও অতিরিক্ত সামগ্রীগুলি সাময়িকভাবে নিষ্ক্রিয় অবস্থায় রয়েছে।">
+
+
+<!ENTITY safeModeDescription.label    "&brandShortName; বর্তমানে নিরাপদ মোডে চলছে যার ফলে সাময়িকভাবে আপনার পছন্দ অনুসারে নির্ধারিত বৈশিষ্ট্য, থিম ও অতিরিক্ত সামগ্রীগুলি নিষ্ক্রিয় করা হবে।">
 <!ENTITY safeModeDescription2.label   "আপনি নিম্নলিখিত পরিবর্তনগুলি স্থায়ীরূপে প্রয়োগ করতে পারবেন:">
 
 <!ENTITY disableAddons.label          "অতিরিক্ত সব সামগ্রী নিষ্ক্রিয় করা হবে">

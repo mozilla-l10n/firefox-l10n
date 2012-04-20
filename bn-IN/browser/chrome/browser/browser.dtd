@@ -643,6 +643,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "সামগ্রী নিরীক্ষণ করুন">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
 <!-- ENTITY inspectPanelTitle.label      "HTML" -->
 <!-- ENTITY inspectButton.label          "তদারকি" -->
 <!-- ENTITY inspectButton.accesskey      "I" -->
@@ -728,3 +731,7 @@ activates the Web Developer->Inspect UI's HTML Tree Panel. -->
 <!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
 hovers over the HTML panel's toolbar button. -->
 <!ENTITY htmlPanel.tooltiptext        "HTML প্যানেল">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
