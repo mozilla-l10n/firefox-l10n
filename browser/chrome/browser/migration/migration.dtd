@@ -31,6 +31,10 @@
 <!-- ENTITY importFromEpiphany.accesskey   "E" -->
 <!-- ENTITY importFromGaleon.label         "Galeon" -->
 <!-- ENTITY importFromGaleon.accesskey     "G" -->
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromHTMLFile.label       "HTML ফাইল থেকে">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 <!-- ENTITY importFromFile.label           "ফাইল থেকে" -->

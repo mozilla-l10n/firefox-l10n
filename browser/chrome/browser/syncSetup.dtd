@@ -47,7 +47,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!-- ENTITY setup.newSyncKeyPage.title.label "&brandShortName; আপনার গোপনীয় তথ্যের নিরাপত্তা সম্পর্কে বিশেষভাবে সচেতন">
+<!-- ENTITY setup.newSyncKeyPage.title.label "&brandShortName; আপনার গোপনীয় তথ্যের নিরাপত্তা সম্পর্কে বিশেষভাবে সচেতন" -->
 <!-- ENTITY setup.newSyncKeyPage.description.label "তথ্যের গোপনীয়তা বজায় রাখার জন্য, আপলোড করার পূর্বে তা সম্পূর্ণরূপে এনক্রিপ্ট করা হয়। তথ্য ডিক্রিপ্ট করার জন্য ব্যবহারযোগ্য সিংক-কি-টি আপলোড করা হয় না।" -->
 <!-- ENTITY syncKeyEntry.label        "আপনার সিংক-কি" -->
 <!-- ENTITY syncKeyEntry.accesskey    "K" -->
