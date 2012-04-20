@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "ପ୍ରତିଜ୍ଞା କରୁଛି,ମୁଁ ସାବଧାନ ରହିବି!">
 <!ENTITY aboutWarningCheckbox.label "ଏହି ଚେତାବନୀକୁ ପରବର୍ତ୍ତି ସମୟରେ ଦର୍ଶାନ୍ତୁ">
 
-<!ENTITY filterPrefs.label "ଛାଣନ୍ତୁ:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+
+
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ପସନ୍ଦ ନାମ">
@@ -79,3 +79,8 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "ବୁଲିଆନ">
 <!ENTITY boolean.accesskey "B">
+<!ENTITY focusSearch.key "r">
+<!ENTITY searchPrefs.label "ସନ୍ଧାନ କରନ୍ତୁ:">
+
+<!ENTITY searchPrefs.accesskey "r">
+

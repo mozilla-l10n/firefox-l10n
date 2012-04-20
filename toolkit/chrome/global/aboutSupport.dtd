@@ -21,14 +21,14 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "ନିର୍ମିତ ସଂରଚନା">
 <!ENTITY aboutSupport.appBasicsUserAgent "ଚାଳକ ଯନ୍ତ୍ର">
 
-<!ENTITY aboutSupport.show.label "ଧାରଣକରିଥିବା ଫୋଲଡରକୁ ଖୋଲନ୍ତୁ">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "ସନ୍ଧାନକାରୀରେ ଦର୍ଶନ୍ତୁ">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "ପରିବର୍ତ୍ତିତ ପସନ୍ଦଗୁଡ଼ିକ">
+
 <!ENTITY aboutSupport.modifiedPrefsName "ନାମ">
 <!ENTITY aboutSupport.modifiedPrefsValue "ମୂଲ୍ୟ">
 
@@ -41,3 +41,11 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 
 <!ENTITY aboutSupport.appBasicsCrashIDs "ନଷ୍ଟ ବିବରଣୀ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ସ୍ମୃତିସ୍ଥାନ ବ୍ୟବହାର">
+
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "ରୂପରେଖା ଫୋଲଡର">
+<!ENTITY aboutSupport.jsIncrementalGC "କ୍ରମବର୍ଦ୍ଧିଷ୍ଣୁ GC">
+<!ENTITY aboutSupport.jsTitle "Java ସ୍କ୍ରିପ୍ଟ">
+<!ENTITY aboutSupport.libraryVersionsTitle "ଲାଇବ୍ରେରୀ ସଂସ୍କରଣଗୁଡ଼ିକ">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ଆବଶ୍ୟକୀୟ ପରିବର୍ତ୍ତିତ ପସନ୍ଦଗୁଡ଼ିକ">
+<!ENTITY aboutSupport.showDir.label "ଡିରେକ୍ଟୋରୀ ଖୋଲନ୍ତୁ">
+<!ENTITY aboutSupport.showWin.label "ଫୋଲଡର ଦର୍ଶାନ୍ତୁ">
