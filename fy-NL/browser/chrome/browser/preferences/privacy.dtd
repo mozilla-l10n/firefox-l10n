@@ -65,17 +65,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Altyd permaninte privee sneupsesje brûke">
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.label      "Unthâld myn sneupskiednis">
-<!ENTITY  rememberHistory.accesskey  "h">
-
-<!ENTITY  rememberDownload.label         "Unthâld ynlaadskiednis">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Myn navigaasje- en ynlaadskiednis ûnthâlde">
+<!ENTITY  rememberHistory2.accesskey  "h">
 
 <!ENTITY  rememberSearchForm.label       "Unthâld syk- en formulierskiednis">
 <!ENTITY  rememberSearchForm.accesskey   "f">

@@ -1,6 +1,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -10,7 +16,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Skriuwblok">
+<!ENTITY window.title                 "Skrasblok">
 
 <!ENTITY fileMenu.label               "Bestân">
 <!ENTITY fileMenu.accesskey           "B">
@@ -36,50 +42,6 @@
 
 <!ENTITY editMenu.label               "Bewurkje">
 <!ENTITY editMenu.accesskey           "B">
-
-<!ENTITY undoCmd.label                "Ungedien meitsje">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
-
-<!ENTITY redoCmd.label                "Op 'e nij">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "O">
-
-<!ENTITY cutCmd.label                 "Knippe">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "n">
-
-<!ENTITY copyCmd.label                "Kopiearje">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Plakke">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "Selektearje alles">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
-
-<!ENTITY findCmd.label                "Sykje…">
-<!ENTITY findCmd.key                  "S">
-<!ENTITY findCmd.accesskey            "F">
-
-<!ENTITY findAgainCmd.label           "Opnij sykje…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "g">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Ljep nei rigel…">
-<!ENTITY gotoLineCmd.key              "L">
-<!ENTITY gotoLineCmd.accesskey        "J">
 
 <!ENTITY run.label 		              "Utfiere">
 <!ENTITY run.accesskey		          "U">
@@ -114,6 +76,17 @@
   -->
 <!ENTITY browserContext.label         "Browser">
 <!ENTITY browserContext.accesskey     "B">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Help">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Help">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "Skrasblokhelp op MDN">
+<!ENTITY documentationLink.accesskey  "D">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.

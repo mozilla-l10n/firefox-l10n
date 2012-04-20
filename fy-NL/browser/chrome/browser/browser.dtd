@@ -213,10 +213,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Ynspektearje">
-<!ENTITY inspectButton.accesskey      "Y">
 <!ENTITY inspectCloseButton.tooltiptext "Ynspektor slute">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopiearje Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopiearje Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Node fuortsmite">
+<!ENTITY inspectorHTMLDelete.accesskey      "F">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
