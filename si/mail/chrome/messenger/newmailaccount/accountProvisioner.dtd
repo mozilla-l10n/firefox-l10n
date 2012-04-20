@@ -1,7 +1,7 @@
-<!ENTITY window.title "Welcome to &brandShortName;">
-<!ENTITY header2.label "Would you like a new email address?">
+<!ENTITY window.title "&brandShortName; වෙත සාදරයෙන් පිළිගනිමු">
+<!ENTITY header2.label "ඔබ නව ඊමේල් ලිපිනයකට කැමතිද?">
 <!ENTITY other.languages "We are only displaying the providers offering addresses in your area.  Click here to show all providers.">
-<!ENTITY error.line1 "Sorry, we could not find any suggested email addresses.">
+<!ENTITY error.line1 "කණගාටුයි, අපිට කිසිඳු යෝජිත ඊමේල් ලිපිනයක් සොයාගත නොහැකි විය.">
 <!ENTITY error.line2 "You try can search for nicknames or any other term to find more emails">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
@@ -31,9 +31,9 @@
 <!ENTITY successful.customize.desc "There are thousands of add-ons that let you customize &brandShortName; to make it fit your specific needs.">
 <!ENTITY successful.attach "Attach a personal signature to my email">
 <!ENTITY successful.attach.desc "You can automatically attach a quote or some information about yourself to the end of every message you send.">
-<!ENTITY successful.close "Close this window.">
-<!ENTITY input.namePlaceholder "Your name, or nickname">
-<!ENTITY input.search "Search">
-<!ENTITY search_engine.title "Customize your search engine">
+<!ENTITY successful.close "මෙම කවුළුව වසන්න.">
+<!ENTITY input.namePlaceholder "ඔබගේ නම හෝ අන්වර්ථ නම">
+<!ENTITY input.search "සොයන්න">
+<!ENTITY search_engine.title "ඔබගේ සෙවුම් යන්ත්‍රය රිසිකරණය">
 <!ENTITY search_engine.message "Your email provider can also provide you with web search capabilities.">
-<!ENTITY search_engine.button "Finish">
+<!ENTITY search_engine.button "අවසානයි">
