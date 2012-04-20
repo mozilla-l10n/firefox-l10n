@@ -1,8 +1,21 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Feed Subscriptions">
 <!ENTITY subscriptionDesc.label "Megjegyzés: A hírforrás mappájának eltávolítása vagy módosítása nincs hatással a már letöltött cikkekre.">
+
 <!ENTITY feedTitle.label "Cím:">
-<!ENTITY location.label "Hely:">
+<!ENTITY feedTitle.accesskey         "C">
+
+<!ENTITY feedLocation.label "Hírforrás URL: ">
+<!ENTITY feedLocation.accesskey "H">
+<!ENTITY feedLocation.placeholder    "Érvényes hírforrás hozzáadása">
+
+<!ENTITY feedFolder.label "Letöltött cikkek tárolása: ">
+<!ENTITY feedFolder.accesskey "L">
+
+<!ENTITY quickMode.label "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
+<!ENTITY quickMode.accesskey "c">
+
+<!ENTITY validateText.label          "Ellenőrzés és érvényes URL letöltése.">
 
 <!ENTITY button.addFeed.label "Hozzáadás">
 <!ENTITY button.addFeed.accesskey "H">
