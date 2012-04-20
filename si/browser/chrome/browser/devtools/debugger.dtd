@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
   -  widget that displays the source code for the script that is currently
   -  being inspected in the debugger. -->
-<!ENTITY debuggerUI.scriptTitle      "Script">
+<!ENTITY debuggerUI.scriptTitle      "ස්ක්‍රිප්ට් (Script)">
 
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
