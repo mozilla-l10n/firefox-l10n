@@ -115,19 +115,19 @@
 <!ENTITY submitTelemetry.label           "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಮಾಹಿತಿಯನ್ನು ಸಲ್ಲಿಸು">
 <!ENTITY submitTelemetry.accesskey       "P">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY httpCache.label                 "Cached Web Content">
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY clearOfflineAppCacheNow.label   "ಈಗಲೆ ಅಳಿಸು">
+<!ENTITY httpCache.label                 "ಕ್ಯಾಶ್ ಮಾಡಲಾದ ಜಾಲದ ವಿಷಯಗಳು">
+<!ENTITY offlineAppsList2.label          "ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಮಾಹಿತಿಯನ್ನು ಶೇಖರಿಸಿಟ್ಟುಕೊಳ್ಳಲು ಈ ಕೆಳಗಿನ ಜಾಲತಾಣಗಳಿಗೆ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗಿದೆ:">
+<!ENTITY offlineStorage2.label           "ಆಫ್‌ಲೈನ್ ಜಾಲದ ವಿಷಯಗಳು ಮತ್ತು ಬಳಕೆದಾರ ಮಾಹಿತಿ">
+<!ENTITY updateApp.label                 "&brandShortName; ಅಪ್‌ಡೇಟ್‌ಗಳು:">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.label                "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸು (ಸಲಹೆ ಮಾಡಲಾಗಿದೆ: ಉತ್ತಮಗೊಳಿಸಲಾದ ಸುರಕ್ಷತೆ)">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.label       "ನನ್ನ ಯಾವುದೆ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಇದು ಅಶಕ್ತಗೊಳಿಸಿದಲ್ಲಿ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.label               "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕು, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವದನ್ನು ನಿರ್ಧರಿಸಲು ನನಗೆ ಬಿಡು">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY updateManual.label              "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಎಂದಿಗೂ ಪರಿಶೀಲಿಸಬೇಡ (ಸಲಹೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ: ಸುರಕ್ಷತಾ ಅಪಾಯ)">
+<!ENTITY updateOthers.label              "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್ ಮಾಡು:">
 <!ENTITY useService.accesskey            "b">
-<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.label                "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು">
