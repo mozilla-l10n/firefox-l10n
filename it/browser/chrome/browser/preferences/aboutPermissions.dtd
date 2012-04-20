@@ -16,5 +16,6 @@
 <!ENTITY cookie.manage "Gestione cookie…">
 <!ENTITY cookie.removeAll "Rimuovi tutti i cookie">
 <!ENTITY geo.label "Comunicare posizione attuale">
+<!ENTITY plugins.label "Plugin">
 <!ENTITY indexedDB.label "Archiviare dati non in linea">
 <!ENTITY popup.label "Aprire finestre pop-up">

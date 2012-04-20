@@ -55,6 +55,7 @@
 <!ENTITY permCookie "Impostare cookie">
 <!ENTITY permInstall "Installare estensioni o temi">
 <!ENTITY permGeo "Comunicare posizione attuale">
+<!ENTITY permPlugins "Attivare plugin">
 <!ENTITY permIndexedDB "Archiviare dati non in linea">
 <!ENTITY permClearStorage "Cancella i dati">
 <!ENTITY permClearStorage.accesskey "C">
