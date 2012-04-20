@@ -48,11 +48,10 @@
 <!ENTITY updateTab.label                 "अद्यतन">
 
 
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
+
 
 <!ENTITY enableSearchUpdate.accesskey    "h">
 
-<!ENTITY modeAutoAddonWarn.label         "मुझे चेताएँ यदि इससे मेरी कोई सहयुक्तियाँ निष्क्रिय होती हैं">
 <!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY offlineNotify.label             "मुझे बताएँ कि कब वेबसाइट ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा करने के लिए पूछता है">
@@ -139,3 +138,6 @@
 
 <!ENTITY useService.label                "अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें">
 <!ENTITY useService.accesskey            "b">
+
+<!ENTITY enableSearchUpdate.label        "खोज इंजन">
+<!ENTITY updateHistory.label             "अद्यतन इतिहास दिखाएँ">
