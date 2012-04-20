@@ -35,22 +35,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "config:గురించి">
-
-<!ENTITY filterPrefs.label "ఫిల్టర్:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
-
-
 <!-- Columns -->
 <!ENTITY prefColumn.label "అభీష్టం  నామము">
 <!ENTITY lockColumn.label "స్థితి">
 <!ENTITY typeColumn.label "రకం">
 <!ENTITY valueColumn.label "విలువ">
-
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "క్రమపరుచుటకు  నొక్కండి"> 
 <!ENTITY columnChooser.tooltip "నిలువువరుసలను  ఎంపికచేసి  ప్రదర్శించుటకు  నొక్కండి"> 
-
 <!-- Context Menu -->
 <!ENTITY copyName.label "నామమును నకలుతీయుము">
 <!ENTITY copyName.accesskey "N">
@@ -78,3 +70,7 @@
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "నకలుతీయి">
 <!ENTITY copyPref.accesskey "C">
+<!ENTITY focusSearch.key "r">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "అన్వేషించు:">
+

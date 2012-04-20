@@ -149,15 +149,10 @@
 <!ENTITY updates.updating.label               "యాడ్-ఆన్స్ నవీకరించుచున్నది">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.viewUpdates.label            "ఇటీవలి నవీకరణలను దర్శించుము">
-<!ENTITY view.appearance2.label               "ఆకారం">
 <!ENTITY view.availableUpdates.label          "అందుబాటులోని నవీకరణలు">
 <!ENTITY view.discover.label                  "యాడ్-ఆన్స్ పొందుము">
-<!ENTITY view.features.label                  "పొడిగింపులు">
-<!ENTITY view.locales.label                   "భాషలు">
-<!ENTITY view.plugins.label                   "ప్లగిన్స్">
 <!ENTITY view.recentUpdates.label             "ఇటీవలి నవీకరణలు">
 <!ENTITY view.search.label                    "వెతుకు">
-<!ENTITY view.searchengines.label             "యాంత్రికముగా వెతుకునవి">
 <!ENTITY warning.checkcompatibility.enable.label   "చేతనపరచు">
 <!ENTITY warning.checkcompatibility.enable.tooltip "యాడ్-ఆన్ సారూప్యతా పరిశీలనను చేతనపరచు">
 <!ENTITY warning.checkcompatibility.label          "యాడ్-ఆన్ సారూప్యతా పరిశీలన అచేతనమైంది. మీరు సారూప్యతలేని యాడ్-ఆన్స్ కలిగివుండ వచ్చును.">
@@ -165,4 +160,10 @@
 <!ENTITY warning.updatesecurity.enable.label       "చేతనపరచు">
 <!ENTITY warning.updatesecurity.enable.tooltip     "యాడ్-ఆన్ నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి">
 <!ENTITY warning.updatesecurity.label              "యాడ్-ఆన్ నవీకరణ రక్షణ పరిశీలన అచేతనమైంది. మీ జోక్యంలేకుండా నవీకరణలు జరుగవచ్చు.">
+<!ENTITY info.plugincheck.label                 "మీ చొప్పింతలు తాజాగా వున్నాయో లేదో చూడుము">
+<!ENTITY info.plugincheck.tooltip               "మీ చొప్పింతలు తాజాగా వున్నాయో లేదో చూడుము">
+<!-- LOCALIZATION NOTE (search.commandKey):
+The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+<!ENTITY settings.path.button.label           "విహరించు…">
 

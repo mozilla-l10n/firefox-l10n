@@ -68,3 +68,7 @@
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.label "ఈమెయిల్ చిరునామా నకలుతీయి">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyLinkCmd.label "లింకు స్థానము నకలుతీయి">

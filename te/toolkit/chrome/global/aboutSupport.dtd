@@ -19,14 +19,14 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "నిర్మామ ఆకృతీకరణ">
 <!ENTITY aboutSupport.appBasicsUserAgent "వాడుకరి ప్రతినిధి">
 
-<!ENTITY aboutSupport.show.label "కలిగివున్న సంచయంను తెరువుము">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "ఫైండర్ నందు తెరువుము">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "సవరించిన అభీష్టములు">
+
 <!ENTITY aboutSupport.modifiedPrefsName "పేరు">
 <!ENTITY aboutSupport.modifiedPrefsValue "విలువ">
 
@@ -36,3 +36,19 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "నవీకరణ చరిత్ర">
 
 <!ENTITY aboutSupport.copyToClipboard.label "అన్నిటిని క్లిప్‌బోర్డునకు నకలుతీయుము">
+<!ENTITY aboutSupport.appBasicsCrashIDs "క్రాష్ నివేదికలు">
+<!ENTITY aboutSupport.appBasicsMemoryUse "మెమొరీ వినియోగం">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "ప్రొఫైల్ సంచయం">
+<!ENTITY aboutSupport.jsIncrementalGC "ప్రవర్ధమాన GC">
+<!ENTITY aboutSupport.jsTitle "జావాస్క్రిప్ట్">
+<!ENTITY aboutSupport.libraryVersionsTitle "లైబ్రరీ వర్షన్స్">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ముఖ్యంగా సవరించిన అభీష్టాలు">
+<!ENTITY aboutSupport.showDir.label "నిఘంటువు తెరువు">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "సంచయం చూపు">
+
