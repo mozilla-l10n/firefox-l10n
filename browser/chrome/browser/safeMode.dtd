@@ -58,3 +58,5 @@
 <!ENTITY continueButton.label         "સુરક્ષિત સ્થિતિમાં ચાલુ રાખો">
 <!ENTITY deleteBookmarks.accesskey    "b">
 <!ENTITY deleteBookmarks.label        "બેકઅપોને બાદ કરતા બધા બુકમાર્કોને કાઢી નાંખો">
+<!ENTITY autoSafeModeDescription.label "અમે આપની અસુવિધા માટે દિલગીર છીએ. &brandShortName; હવે સલામત સ્થિતિમાં ચાલી રહ્યુ છે, કે જે તમારાં વૈવિધ્ય સુયોજનો, થીમ, અને ઍક્સટેન્શનને કામચલાઉ નિષ્ક્રિય કરે છે.">
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; અનિચ્છિત રીતે બંધ થયેલ છે જ્યારે શરૂ કરી રહ્યા હોય">
