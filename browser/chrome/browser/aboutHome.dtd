@@ -16,7 +16,7 @@
 <!-- ENTITY abouthome.searchEngineLinks.advanced "മെച്ചപ്പെട്ട തെരച്ചില്‍" -->
 <!-- ENTITY abouthome.searchEngineLinks.preferences "മുന്‍ഗണനകള്‍" -->
 
-<!ENTITY abouthome.aboutMozilla "മോസില്ല സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍">
+<!-- ENTITY abouthome.aboutMozilla "മോസില്ല സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍" -->
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com

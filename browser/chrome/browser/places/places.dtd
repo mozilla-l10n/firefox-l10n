@@ -37,10 +37,10 @@
 <!ENTITY cmd.findCurrent.label          "നിലവിലുള്ള കൂട്ടത്തില്‍ കണ്ടുപിടിക്കുക…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "എച്ടിഎംഎല്‍ എക്സ്പോര്‍ട്ട് ചെയ്യുക…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "എച്ടിഎംഎല്‍ ഇംപോര്‍ട്ട് ചെയ്യുക…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!-- ENTITY cmd.exportHTML.label           "എച്ടിഎംഎല്‍ എക്സ്പോര്‍ട്ട് ചെയ്യുക…" -->
+<!-- ENTITY cmd.exportHTML.accesskey       "E" -->
+<!-- ENTITY cmd.importHTML.label           "എച്ടിഎംഎല്‍ ഇംപോര്‍ട്ട് ചെയ്യുക…" -->
+<!-- ENTITY cmd.importHTML.accesskey       "I" -->
 
 <!ENTITY cmd.backup.label               "ബാക്കപ്പ്…">
 <!ENTITY cmd.backup.accesskey           "B">

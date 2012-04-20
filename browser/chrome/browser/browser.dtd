@@ -18,8 +18,8 @@
 <!ENTITY printCmd.label "പ്രിന്റ് ചെയ്യുക...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "ഇറക്കുമതി ചെയ്യുക">
-<!ENTITY import.accesskey "I">
+<!-- ENTITY import.label "ഇറക്കുമതി ചെയ്യുക" -->
+<!-- ENTITY import.accesskey "I" -->
 <!ENTITY goOfflineCmd.label "ഓഫ്‌ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുക">
 <!ENTITY goOfflineCmd.accesskey "w">
 <!ENTITY navbarCmd.label "നാവിഗേഷന്‍ ടൂള്‍ബാര്‍">
@@ -455,22 +455,22 @@
 
 <!ENTITY feedButton.label             "അംഗമാകുക">
 <!ENTITY historyRestoreLastSession.label "മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectButton.label          "പരിശോധിയ്ക്കുക">
+<!-- ENTITY inspectButton.accesskey      "I" -->
+<!-- ENTITY inspectButton.label          "പരിശോധിയ്ക്കുക" -->
 <!ENTITY inspectMenu.label            "പരിശോധന">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
-<!ENTITY inspectNextButton.label      "അടുത്തതു്">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectObjectButton.label       "വസ്തു">
-<!ENTITY inspectObjectButton.accesskey   "O">
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectPreviousButton.label  "മുമ്പുള്ളതു്">
-<!ENTITY inspectPreviousButton.accesskey "P">
+<!-- ENTITY inspectNextButton.label      "അടുത്തതു്" -->
+<!-- ENTITY inspectNextButton.accesskey  "N" -->
+<!-- ENTITY inspectObjectButton.label       "വസ്തു" -->
+<!-- ENTITY inspectObjectButton.accesskey   "O" -->
+<!-- ENTITY inspectPanelTitle.label      "HTML" -->
+<!-- ENTITY inspectPreviousButton.label  "മുമ്പുള്ളതു്" -->
+<!-- ENTITY inspectPreviousButton.accesskey "P" -->
 <!ENTITY inspectStyleButton.label     "ശൈലി">
 <!ENTITY inspectStyleButton.accesskey "S">
 
-<!ENTITY inspectStylePanelTitle.label  "ശൈലി">
+<!-- ENTITY inspectStylePanelTitle.label  "ശൈലി" -->
 <!ENTITY  listAllTabs.label      "എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക">
 <!ENTITY  moveToGroup.label                  "ഗ്രൂപ്പിലേക്കു് നീക്കുക">
 <!ENTITY  moveToGroup.accesskey              "M">
