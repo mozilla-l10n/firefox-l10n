@@ -64,6 +64,15 @@
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "সম্পূর্ণ পর্দায় প্রদর্শন">
 <!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "নতুন রূপে স্ন্যাপ-শট সংরক্ষণ করুন…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "পরিসংখ্যান প্রদর্শন করা হবে">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "পরিসংখ্যান আড়াল করা হবে">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কর্ম">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -131,6 +140,8 @@
 <!ENTITY forwardCmd.label             "পরবর্তী">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন">
+<!ENTITY backForwardButtonMenu.tooltip "পূর্ববর্তী তথ্য প্রদর্শনের জন্য মাউসের ডানদিকের বাটক ক্লিক করুন অথবা মেনু টেনে নামান">
+<!ENTITY backForwardButtonMenuMac.tooltip "পূর্ববর্তী তথ্য প্রদর্শনের জন্য মেনু টেনে নামান">
 <!ENTITY reloadCmd.label              "নতুন করে প্রদর্শন">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "বর্তমান পৃষ্ঠা নতুন করে প্রদর্শন করা হবে">
@@ -352,7 +363,7 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!-- ENTITY searchFocus.commandkey2      "e" -->
+<!ENTITY searchFocus.commandkey2      "e" >
 <!ENTITY searchFocusUnix.commandkey   "j">
 <!ENTITY tabView.commandkey           "e">
 
@@ -474,6 +485,7 @@
 <!ENTITY copyButton.tooltip             "কপি করুন">
 <!ENTITY pasteButton.tooltip            "পেস্ট করুন">
 <!ENTITY fullScreenButton.tooltip       "সম্পূর্ণ পর্দা জুড়ে উইন্ডোটি প্রদর্শন করা হবে">
+<!ENTITY domFullScreenWarning.label "সম্পূর্ণ পর্দা জুড়ে প্রদর্শনের মোড থেকে প্রস্থান করার জন্য ESC টিপুন">
 
 <!ENTITY zoomOutButton.tooltip          "ছোট মাপে প্রদর্শন">
 <!ENTITY zoomInButton.tooltip           "বড় মাপে প্রদর্শন">
@@ -638,9 +650,33 @@ can reach it easily. -->
 <!-- ENTITY inspectNextButton.accesskey  "N" -->
 <!-- ENTITY inspectPreviousButton.label  "পূর্ববর্তী" -->
 <!-- ENTITY inspectPreviousButton.accesskey "P" -->
+<!ENTITY inspectCloseButton.tooltiptext "Inspector বন্ধ করুন">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Inner HTML কপি করুন">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Outer HTML কপি করুন">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "নোড মুছে ফেলুন">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "৩-ডি প্রদর্শন">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
 <!ENTITY inspectStyleButton.label     "বিন্যাস">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!-- ENTITY inspectStylePanelTitle.label  "বিন্যাস" -->
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "বিন্যাস সম্পাদনা">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -684,3 +720,11 @@ can reach it easily. -->
 
 <!ENTITY addonBarCloseButton.tooltip  "অতিরিক্ত সামগ্রীর বার বন্ধ করুন">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML প্যানেল">

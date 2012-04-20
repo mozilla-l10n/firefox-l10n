@@ -6,11 +6,21 @@
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "বিশ্বব্যাপী সম্প্রদায়">
 <!-- ENTITY community.end2             " যা ইন্টারনেটকে উন্নত করার উদ্দেশ্যে একযোগে কাজ করে চলেছে। আমরা বিশ্বাস করি যে ইন্টারনেটের ব্যবহার সর্বসাধারণের জন্য মুক্ত হওয়া উচিত ও কোনো ধরনের বাধা এই পরিবেশে উপস্থিত থাকা বাঞ্ছনীয় নয়।" -->
+<!ENTITY community.end3             " যা ওয়েবকে মুক্ত, সার্বজনীন ও সকলের ব্যবহারযোগ্য করার উদ্দেশ্যে একযোগে কাজ করে চলেছে।">
 
 <!ENTITY contribute.start           "আকর্ষক মনে হচ্ছে কি? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "আসুন, যোগ দিন!">
 <!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " দ্বারা, একটি ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "বিশ্বব্যাপী সম্প্রদায়">
+<!ENTITY community.exp.end          " যা ওয়েবকে মুক্ত, সার্বজনীন ও সকলের ব্যবহারযোগ্য করার উদ্দেশ্যে একযোগে কাজ করে চলেছে।">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "লাইসেন্স সংক্রান্ত তথ্য">

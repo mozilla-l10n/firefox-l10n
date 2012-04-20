@@ -44,6 +44,13 @@
 <!-- ENTITY cmd.importHTML.label           "HTML ইম্পোর্ট করুন…" -->
 <!-- ENTITY cmd.importHTML.accesskey       "I" -->
 
+<!ENTITY importBookmarksFromHTML.label     "HTML থেকে বুকমার্ক ইম্পোর্ট করুন…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "HTML-এ বুকমার্ক এক্সপোর্ট করুন…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "অন্য ব্রাউজার থেকে তথ্য ইম্পোর্ট করুন…">
+<!ENTITY importOtherBrowser.accesskey      "A">
+
 <!ENTITY cmd.backup.label               "ব্যাক-আপ করুন…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "পুনরুদ্ধার">

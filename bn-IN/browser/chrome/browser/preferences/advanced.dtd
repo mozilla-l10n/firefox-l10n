@@ -35,6 +35,10 @@
 <!ENTITY connectionSettings.label        "বৈশিষ্ট্যাবলী...">
 <!ENTITY connectionSettings.accesskey    "e">
 
+<!ENTITY httpCache.label                 "ক্যাশে-তে সংরক্ষিত ওয়েবের তথ্য">
+
+<!ENTITY offlineStorage2.label           "ওয়েবে অফ-লাইন তথ্য ও ব্যবহারকারীর তথ্য">
+
 <!-- ENTITY cache.label "ক্যাশে" -->
 
 <!-- LOCALIZATION NOTE:
@@ -49,6 +53,22 @@
 
 
 <!ENTITY updateTab.label                 "আপডেট">
+<!ENTITY updateApp.label                 "&brandShortName;-র আপডেট:">
+<!ENTITY updateAuto.label                "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে (প্রস্তাবিত: উন্নত নিরাপত্তার খাতিরে)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "আপডেট পরীক্ষা করা হবে, কিন্তু ইনস্টল করা হবে কি না তা ব্যবহারকারী স্বয়ং নির্বাচন করবেন">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "কখনো আপডেট পরীক্ষা করা হবে না (প্রস্তাবিত নয়: বিপজ্জনক)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "উপস্থিত কোনো অতিরিক্ত সামগ্রী এর ফলে নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateHistory.label             "আপডেট সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "আপডেট ইনস্টল করার জন্য পটভূমির পরিসেবা ব্যবহার করা হবে">
+<!ENTITY useService.accesskey            "b">
 
 <!-- ENTITY autoCheck.label                 "নিম্নলিখিত সামগ্রীর জন্য স্বয়ংক্রিয়রূপে আপডেট পরীক্ষা করা হবে:" -->
 <!-- ENTITY enableAppUpdate.label           "&brandShortName;" -->
@@ -102,6 +122,8 @@
 <!ENTITY submitCrashes.label             "বিপর্যয়ের রিপোর্ট দায়ের করা হবে">
 <!ENTITY submitCrashes.accesskey         "S">
 <!-- ENTITY offlineStorage.label            "অফ-লাইন অবস্থায় সংরক্ষণ" -->
+<!ENTITY submitTelemetry.label           "কর্মক্ষমতা সংক্রান্ত তথ্য দাখিল করা হবে">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -115,6 +137,8 @@
 
 <!ENTITY clearCacheNow.label             "এই মুহূর্তে মুছে ফেলা হবে">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "এই মুহূর্তে মুছে ফেলা হবে">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "স্বয়ংক্রিয় ক্যাশে পরিচালন ব্যবস্থা উপেক্ষা করা হবে">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -124,6 +148,7 @@
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!-- ENTITY offlineAppsList.label           "নিম্নলিখিত ওয়েব-সাইটগুলি দ্বারা অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে তথ্য সংরক্ষণ করা হয়েছে:" -->
+<!ENTITY offlineAppsList2.label          "অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে নিম্নলিখিত ওয়েব-সাইটগুলি তথ্য সংরক্ষণ করতে অনুমোদিত রয়েছে:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "মুছে ফেলুন…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

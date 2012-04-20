@@ -95,6 +95,24 @@
 <!ENTITY browserContext.label         "ব্রাউজার">
 <!ENTITY browserContext.accesskey     "B">
 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "সাহায্য">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "সাহায্য">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "MDN-এ উপস্থিত Scratchpad-র সাহায্য">
+<!ENTITY documentationLink.accesskey  "D">
+
+
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext2.label          "ভেরিয়েবলের মান পুনরায় নির্ধারণ করুন">
+<!ENTITY resetContext2.accesskey      "T">
+
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
