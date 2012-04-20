@@ -34,7 +34,7 @@
 <!ENTITY connectionSettings.label "ക്രമീകരണങ്ങള്‍ ">
 <!ENTITY connectionSettings.accesskey "e">
 
-<!ENTITY offlineStorage.label            "ഓഫ്‌ലൈന്‍ സംഭരണം">
+<!-- ENTITY offlineStorage.label            "ഓഫ്‌ലൈന്‍ സംഭരണം" -->
 
 <!-- ENTITY cache.label "കാഷ് " -->
 <!-- ENTITY useCacheBefore.label "ഇതുവരെ ഉപയോഗിക്കുക" -->
@@ -43,20 +43,20 @@
 <!ENTITY clearCacheNow.label             "ഉടന്‍ വെടിപ്പാക്കുക">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY updateTab.label "പരിഷ്കരിക്കുക">
-<!ENTITY autoCheck.label "സ്വയം പരിഷ്കരണങ്ങള്‍ക്കായി തെരയുക:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
+<!-- ENTITY autoCheck.label "സ്വയം പരിഷ്കരണങ്ങള്‍ക്കായി തെരയുക:" -->
+<!-- ENTITY enableAppUpdate.label "&brandShortName;" -->
+<!-- ENTITY enableAppUpdate.accesskey "F" -->
 <!-- ENTITY enableAddonsUpdate.label "ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌-ഓണുകള്‍ " -->
 <!-- ENTITY enableAddonsUpdate.accesskey "n" -->
 <!ENTITY enableSearchUpdate.label "തെരച്ചിലിനുള്ള പ്രയോഗങ്ങള്‍">
 <!ENTITY enableSearchUpdate.accesskey "h">
-<!ENTITY whenUpdatesFound.label "&brandShortName;-നുള്ള പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുമ്പോള്‍">
-<!ENTITY askMe.label "എന്തു് ചെയ്യണം എന്നു ചോദിക്കുക">
-<!ENTITY askMe.accesskey "k">
-<!ENTITY modeAutomatic.label "സ്വയം ഡൌണ്‍ലോഡ്‌ ചെയ്തു പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക:">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "ഇതു് ഏതെങ്കിലും ആഡ്‌-ഓണിനെ നിര്‍വീര്യമാക്കുമെങ്കില്‍  മുന്നറിയിപ്പു് നല്‍കുക ">
-<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!-- ENTITY whenUpdatesFound.label "&brandShortName;-നുള്ള പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുമ്പോള്‍" -->
+<!-- ENTITY askMe.label "എന്തു് ചെയ്യണം എന്നു ചോദിക്കുക" -->
+<!-- ENTITY askMe.accesskey "k" -->
+<!-- ENTITY modeAutomatic.label "സ്വയം ഡൌണ്‍ലോഡ്‌ ചെയ്തു പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക:" -->
+<!-- ENTITY modeAutomatic.accesskey "d" -->
+<!-- ENTITY modeAutoAddonWarn.label "ഇതു് ഏതെങ്കിലും ആഡ്‌-ഓണിനെ നിര്‍വീര്യമാക്കുമെങ്കില്‍  മുന്നറിയിപ്പു് നല്‍കുക " -->
+<!-- ENTITY modeAutoAddonWarn.accesskey "W" -->
 <!ENTITY updateHistory.label "പരിഷ്കരണ വിശദാംശങ്ങള്‍ (ഹിസ്റ്ററി) കാണിക്കുക ">
 <!ENTITY updateHistory.accesskey "p">
 
@@ -65,7 +65,7 @@
 <!ENTITY offlineNotifyExceptions.label   "ഒഴിവാക്കേണ്ടവ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "ഓഫ്‌ലൈന്‍ ആകുമ്പോള്‍ ഉപയോഗിക്കുന്നതിനായി, ഈ വെബ്സൈറ്റുകള്‍ ഡേറ്റാ സൂക്ഷിക്കുന്നു:">
+<!-- ENTITY offlineAppsList.label           "ഓഫ്‌ലൈന്‍ ആകുമ്പോള്‍ ഉപയോഗിക്കുന്നതിനായി, ഈ വെബ്സൈറ്റുകള്‍ ഡേറ്റാ സൂക്ഷിക്കുന്നു:" -->
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "നീക്കം ചെയ്യുക…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -94,8 +94,8 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label "സുരക്ഷാ ഉപകരണങ്ങള്‍ ">
 <!ENTITY viewSecurityDevices.accesskey "y">
-<!ENTITY enableAddonsUpdate2.label       "ആഡോണുകള്‍">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!-- ENTITY enableAddonsUpdate2.label       "ആഡോണുകള്‍" -->
+<!-- ENTITY enableAddonsUpdate2.accesskey   "n" -->
 
 <!ENTITY allowHWAccel.label              "ലഭ്യമാകുമ്പോള്‍ ഹാര്‍ഡ്‌വെയര്‍ ആക്സിലറേഷന്‍ ഉപയോഗിയ്ക്കുക">
 <!ENTITY allowHWAccel.accesskey          "h">

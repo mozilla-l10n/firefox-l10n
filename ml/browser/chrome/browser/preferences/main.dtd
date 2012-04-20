@@ -9,8 +9,8 @@
 <!ENTITY useCurrentPage.label "ഇപ്പോഴത്തെ താള്‍ ഉപയോഗിക്കുക ">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക">
-<!ENTITY useBookmark.label "അടയാളം ഉപയോഗിക്കുക">
-<!ENTITY useBookmark.accesskey "B">
+<!-- ENTITY useBookmark.label "അടയാളം ഉപയോഗിക്കുക" -->
+<!-- ENTITY useBookmark.accesskey "B" -->
 <!ENTITY restoreDefault.label "ഡിഫോള്‍ട്ടിലേക്ക്‌ പുനസ്ഥാപിക്കുക ">
 <!ENTITY restoreDefault.accesskey "R">
 <!ENTITY downloads.label "ഡൌണ്‍ലോഡുകള്‍">
