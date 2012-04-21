@@ -7,3 +7,6 @@
 <!ENTITY setDesktopBackground.title "Afitar como fondu d'escritoriu">
 <!ENTITY openDesktopPrefs.label     "Abrir preferencies d'escritoriu">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY fill.label                 "Rellenar">
+<!ENTITY fit.label                  "Axustar">
+

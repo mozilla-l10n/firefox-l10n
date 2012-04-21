@@ -8,7 +8,7 @@
 <!ENTITY engine.addons.label "Complementos">
 <!ENTITY engine.addons.accesskey "C">
 <!ENTITY server.label "Sirvidor">
-<!ENTITY serverType.main.label "Sirvidor de &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label "Predetermináu: Sirvidor de Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label "Usar un sirvidor personalizáu…">
 <!ENTITY signIn.account2.label "Cuenta">
 <!ENTITY signIn.account2.accesskey "a">
