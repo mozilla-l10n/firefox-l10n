@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "L">
 <!ENTITY showSearchToolbarCmd.label "Keresősáv">
 <!ENTITY showSearchToolbarCmd.accesskey "K">
+<!ENTITY showTabsToolbarCmd.label "Lapok eszköztár">
+<!ENTITY showTabsToolbarCmd.accesskey "t">
 
 <!ENTITY messagePaneLayoutStyle.label "Elrendezés">
 <!ENTITY messagePaneLayoutStyle.accesskey "E">
