@@ -3,11 +3,11 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY resetProfile.dialog.title        "Redefinir &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "Es ti segir che ti vuls redefinir &brandShortName; en ses stadi inizial?">
+<!ENTITY resetProfile.dialog.description  "Es ti segir che ti vuls redefinir il stadi original da &brandShortName;?">
 <!ENTITY resetProfile.dialog.items.label  "Suandantas datas vegnan mantegnidas:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; vegn a reaviar e tut las autras datas vegnan allontanadas.">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; vegn a reaviar e tut las autras datas vegnan stizzadas.">
 <!ENTITY resetProfile.dialog.button.label "Redefinir &brandShortName;">
 
-<!ENTITY resetProfile.title               "Refedinir &brandShortName; en il stadi da standard">
-<!ENTITY resetProfile.description         "Sche ti has problems pli gronds che ti na pos betg schliar pos ti redefinir Firefox e mantegnair be las datas essenzialas.">
+<!ENTITY resetProfile.title               "Refedinir il stadi original da &brandShortName;">
+<!ENTITY resetProfile.description         "Sche'i dat problems pli gronds che ti na pos betg schliar pos ti redefinir Firefox e mantegnair be las datas essenzialas.">
 <!ENTITY resetProfile.button.label        "Redefinir &brandShortName;">

@@ -34,7 +34,7 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingTitle.label "Infurmaziun dal server per messadis che entran">
+<!ENTITY incomingTitle.label "Infurmaziuns dal server d'entrada">
 <!ENTITY incomingServerTypeDesc.label "Tscherna il tip da server d'entrada che ti utiliseschas.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -53,7 +53,7 @@
 <!ENTITY incomingServer.label "Server d'entrada:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Endatescha il num d'utilisader d'entrada che ti has retschavì da tes provider d'e-mails (per exempel &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.description "Endatescha il num d'utilisader per il server d'entrada che ti has retschavì da tes purschider dad e-mail (per exempel &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Num d'utilisader:">
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -63,13 +63,13 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Infurmaziun dal server per messadis che sortan">
+<!ENTITY outgoingTitle.label "Infurmaziuns dal server da sortida">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Endatescha il num da tes server d'extrada (SMTP) (per exempel &quot;smtp.gmail.com&quot;).">
-<!ENTITY outgoingServer.label "Server d'extrada:">
+<!ENTITY outgoingServer.description "Endatescha il num da tes server da sortida (SMTP) (per exempel &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Server da sortida:">
 <!ENTITY outgoingServer.accesskey "x">
-<!ENTITY outgoingUsername.description "Endatescha il num d'utilisader da sortida che ti has retschavì da tes provider d'e-mails (quai è per ordinari il medem sco il num d'utilisader d'entrada).">
-<!ENTITY outgoingUsername.label "Num d'utilisader da sortida:">
+<!ENTITY outgoingUsername.description "Endatescha il num d'utilisader per il server da sortida che ti has retschavì da tes purschider dad e-mail (quai è per ordinari il medem sco il num d'utilisader dal server d'entrada).">
+<!ENTITY outgoingUsername.label "Num d'utilisader dal server da sortida:">
 <!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of

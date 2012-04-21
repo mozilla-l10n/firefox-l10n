@@ -16,7 +16,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Utensils per tut ils supplements">
 
-<!ENTITY cmd.back.tooltip                     "Ir anavos ina pagina">
+<!ENTITY cmd.back.tooltip                     "Ir enavos ina pagina">
 <!ENTITY cmd.forward.tooltip                  "Ir anavant ina pagina">
 
 <!-- global warnings -->
