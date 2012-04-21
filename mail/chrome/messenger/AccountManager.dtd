@@ -1,11 +1,13 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Accountynstellings">
+<!ENTITY accountManagerTitle.label "Accountynstellingen">
 
 <!ENTITY accountActionsButton.label "Accountaksjes">
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "E-mailaccount tafoegje…">
 <!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY addIMAccountButton.label "Chataccount tafoegje…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "In oar account tafoegje…">
 <!ENTITY addOtherAccountButton.accesskey "I">
 <!ENTITY setDefaultButton.label "Ynstelle as standert">
