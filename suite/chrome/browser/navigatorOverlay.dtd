@@ -17,11 +17,11 @@
 
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
 <!ENTITY printSetupCmd.accesskey "O">
-
 <!-- Edit Menu -->
-<!ENTITY findOnCmd.label "Keresés ezen az oldalon...">
 
+<!ENTITY findOnCmd.label "Keresés ezen az oldalon...">
 <!-- View Menu -->
+
 <!ENTITY toolbarsCmd.label "Megjelenítés/Elrejtés">
 <!ENTITY toolbarsCmd.accesskey "E">
 <!ENTITY tabbarCmd.label "Fülek sávja">
@@ -33,7 +33,7 @@
 
 <!ENTITY fullScreenCmd.label "Teljes képernyős üzemmód">
 <!ENTITY fullScreenCmd.accesskey "n">
- 
+
 <!ENTITY useStyleSheetMenu.label "Stíluslapok használata">
 <!ENTITY useStyleSheetMenu.accesskey "u">
 <!ENTITY useStyleSheetNone.label "Nincs">
@@ -48,23 +48,15 @@
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "a">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY historyCmd.label "Előzmények">
-<!ENTITY historyCmd.accesskey "l">
-
 <!-- Go Menu -->
+
 <!ENTITY goMenu.label "Ugrás">
 <!ENTITY goMenu.accesskey "U">
 <!ENTITY goHomeCmd.label "Kezdőlap">
 <!ENTITY goHomeCmd.accesskey "K">
-
-<!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése...">
-<!ENTITY clearPrivateDataCmd.accesskey "S">
 <!ENTITY historyCmd.label "Előzmények">
 <!ENTITY historyCmd.accesskey "l">
 <!ENTITY history.commandKey "h">
-<!ENTITY syncTabsMenu.label     "Lapok más számítógépekről">
-<!ENTITY syncTabsMenu.accesskey     "L">
-
 <!ENTITY recentTabs.label "Nemrég bezárt lapok">
 <!ENTITY recentTabs.accesskey "N">
 <!ENTITY recentTabs.commandkey "l">
@@ -72,11 +64,11 @@
 <!ENTITY recentWindows.accesskey "r">
 <!ENTITY recentWindows.commandkey "b">
 <!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
-<!ENTITY historyRestoreLastSession.accesskey "R">
+<!ENTITY historyRestoreLastSession.accesskey "r">
 <!ENTITY syncTabsMenu.label "Lapok más számítógépekről">
 <!ENTITY syncTabsMenu.accesskey "m">
-
 <!-- Bookmarks Menu -->
+
 <!ENTITY bookmarksMenu.label "Könyvjelzők">
 <!ENTITY bookmarksMenu.accesskey "K">
 <!ENTITY addCurPageCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
@@ -89,15 +81,14 @@
 <!ENTITY manBookmarksCmd.label "Könyvjelzők kezelése...">
 <!ENTITY manBookmarksCmd.accesskey "z">
 <!ENTITY manBookmarksCmd.commandkey "b">
-
 <!-- Tools Menu -->
+
 <!ENTITY searchInternetCmd.label "Keresés a weben">
 <!ENTITY searchInternetCmd.accesskey "K">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Oldal fordítása">
 <!ENTITY translateMenu.accesskey "f">
 
-<!-- the following is for the task menu overlay -->
 <!ENTITY cookieMessageTitle.label "A sütiengedélyek megváltoztak">
 <!ENTITY cookieDisplayCookiesCmd.label "Tárolt sütik kezelése">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "T">

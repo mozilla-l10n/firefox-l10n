@@ -1,8 +1,10 @@
 
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Üzenet">
-<!ENTITY newMessageCmd.accesskey "Ü">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Üzenet">
+<!ENTITY  newMessageCmd.accesskey         "Ü">
  
-<!ENTITY newContactCmd.label "Contact…">
-<!ENTITY newContactCmd.accesskey "C">
-
+<!ENTITY  newContactCmd.label             "Névjegykártya...">
+<!ENTITY  newContactCmd.accesskey         "N">
+ 
+<!ENTITY printButton.label "Nyomtatás">
+<!ENTITY printButton.tooltip "Az üzenet kinyomtatása">

@@ -41,7 +41,7 @@
 <!ENTITY confirmMove.accesskey "J">
 <!ENTITY preserveThreading.label "Témacsoportok megőrzése az üzenetek rendezésekor">
 <!ENTITY preserveThreading.accesskey "T">
-<!ENTITY mailBiffOnNewWindow.label "Only check for new mail after opening Mail &amp; Newsgroups">
+<!ENTITY mailBiffOnNewWindow.label "Új üzenetek letöltése csak a Levelező és hírolvasó megnyitása után">
 <!ENTITY mailBiffOnNewWindow.accesskey "O">
 
 <!ENTITY defaultMailSettings.description "A &brandShortName; az alapértelmezett alkalmazás a következőkhöz:">
