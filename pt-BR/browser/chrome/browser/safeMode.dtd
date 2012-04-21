@@ -40,6 +40,9 @@
 <!ENTITY safeModeDialog.title         "Modo de segurança do &brandShortName;">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "O &brandShortName; fechou repentinamente ao iniciar">
+<!ENTITY autoSafeModeDescription.label "Nós pedimos desculpas pelo incômodo. O &brandShortName; está sendo executado no modo seguro, que temporariamente desativa algumas preferências, temas e extensões.">
+
 <!ENTITY safeModeDescription.label    "O &brandShortName; está sendo executado no modo de segurança. Preferências, extensões e temas estão temporariamente desativados.">
 <!ENTITY safeModeDescription2.label   "Você pode fazer com que todas ou algumas destas alterações sejam permanentes: ">
 

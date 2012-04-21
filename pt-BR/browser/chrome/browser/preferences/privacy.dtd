@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Favoritos">
 <!ENTITY  locbar.nothing.label          "Nada">
 
-
 <!ENTITY  acceptCookies.label           "Sites podem definir cookies">
 <!ENTITY  acceptCookies.accesskey       "S">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Usar sempre navegação privativa">
 <!ENTITY  privateBrowsingPermanent2.accesskey "v">
 
-<!ENTITY  rememberHistory.label      "Memorizar histórico">
-<!ENTITY  rememberHistory.accesskey  "r">
-
-<!ENTITY  rememberDownload.label         "Memorizar downloads efetuados">
-<!ENTITY  rememberDownload.accesskey     "M">
+<!ENTITY  rememberHistory2.label      "Memorizar histórico e downloads efetuados">
+<!ENTITY  rememberHistory2.accesskey  "M">
 
 <!ENTITY  rememberSearchForm.label       "Memorizar dados fornecidos a páginas e ao campo de pesquisa">
 <!ENTITY  rememberSearchForm.accesskey   "z">
