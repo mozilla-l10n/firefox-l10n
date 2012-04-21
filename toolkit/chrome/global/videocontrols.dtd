@@ -24,7 +24,7 @@
 <!ENTITY error.network "Execução do vídeo interrompida por um erro de rede.">
 <!ENTITY error.decode "O vídeo não pode ser executado porque o arquivo está corrompido.">
 <!ENTITY error.srcNotSupported "Formato de vídeo ou tipo MIME não suportado.">
-<!ENTITY error.noSource2 "Nenhum vídeo encontrado com formato ou tipo MIME suportado.">
+<!ENTITY error.noSource2 "Não há nenhum vídeo com formato ou tipo MIME suportados.">
 <!ENTITY error.generic "Execução do vídeo interrompida por um erro desconhecido.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
