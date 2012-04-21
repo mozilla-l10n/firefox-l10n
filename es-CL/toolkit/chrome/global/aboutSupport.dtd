@@ -17,6 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta de perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de Build">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
@@ -38,6 +39,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiones de libs">
+
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
