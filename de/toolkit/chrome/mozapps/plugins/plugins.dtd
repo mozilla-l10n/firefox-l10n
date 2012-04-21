@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; muss neugestartet werden, damit installierte Plugins funktionieren.">
 
 <!ENTITY missingPlugin                                       "Ein Plugin wird benötigt, um diese Inhalte darzustellen.">
-<!ENTITY clickToPlayPlugin                                   "Tippen Sie hier, um das Plugin zu aktivieren.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tippen Sie hier, um das Plugin zu aktivieren.">
+<!ENTITY clickToPlayPlugins                                  "Klicken Sie hier, um Plugins zu aktivieren.">
 <!ENTITY disabledPlugin                                      "Dieses Plugin ist deaktiviert.">
 <!ENTITY blockedPlugin.label                                 "Dieses Plugin wurde zu Ihrem Schutz blockiert.">
 
