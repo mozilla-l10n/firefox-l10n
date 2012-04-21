@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Cookies instellen">
 <!ENTITY  permInstall           "Extensies of thema’s installeren">
 <!ENTITY  permGeo               "Locatie doorgeven">
+<!ENTITY  permPlugins           "Plug-ins activeren">
 
 <!ENTITY  permIndexedDB              "Offlineopslag onderhouden">
 <!ENTITY  permClearStorage           "Opslag wissen">
