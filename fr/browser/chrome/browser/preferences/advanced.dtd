@@ -83,7 +83,7 @@
 <!ENTITY enableSearchUpdate.label        "les moteurs de recherche">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
-<!ENTITY offlineNotify.label             "Avertir lorsqu'un site demande de conserver des données pour une utilisation hors connexion">
+<!ENTITY offlineNotify.label             "Avertir lorsqu'un site souhaite conserver des données pour une utilisation hors connexion">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "Exceptions…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
