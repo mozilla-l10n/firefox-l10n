@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Bestân(nen)…">
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Webstee…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -42,7 +44,7 @@
 <!ENTITY sendLaterCmd.label "Letter ferstjoere">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "s">
-<!ENTITY printSetupCmd.label "Side-ynstellings…">
+<!ENTITY printSetupCmd.label "Side-ynstellingen…">
 <!ENTITY printSetupCmd.accesskey "S">
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.key "P">
@@ -169,7 +171,7 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Accountynstellings…">
+<!ENTITY accountManagerCmd.label "Accountynstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "i">
 <!ENTITY preferencesCmd.label "Opsjes…">
@@ -218,9 +220,12 @@
 <!ENTITY followupAddr.label "Reaksjes nei:">
 <!ENTITY subject.label "Underwerp:">
 <!ENTITY subject.accesskey "n">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "a">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "In glimke ynfoegje">
 <!ENTITY smiley1Cmd.label "Glimke">
 <!ENTITY smiley2Cmd.label "Tryst">
@@ -268,6 +273,14 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestân(nen) keppelje…">
 <!ENTITY attachFile.accesskey "B">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY convertCloud.label "Konvertearje nei…">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Opladen annulearje">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Standert bylage">
+<!ENTITY convertRegularAttachment.accesskey "b">
+<!ENTITY attachCloud.accesskey "i">
 <!ENTITY attachPage.label "Webside keppelje…">
 <!ENTITY attachPage.accesskey "W">
 
