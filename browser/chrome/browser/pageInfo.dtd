@@ -87,7 +87,7 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Usar predefinido">
+<!ENTITY  permUseDefault        "Usar predeterminado">
 <!ENTITY  permAskAlways         "Preguntar sempre">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Permitir nesta sesión">
@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Estabelecer cookies">
 <!ENTITY  permInstall           "Instalar extensións ou temas">
 <!ENTITY  permGeo               "Compartir localización">
+<!ENTITY  permPlugins           "Activar engadidos">
 
 <!ENTITY  permIndexedDB              "Manter o almacenamento sen conexión">
 <!ENTITY  permClearStorage           "Limpar o almacenamento">
