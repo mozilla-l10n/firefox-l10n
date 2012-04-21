@@ -80,6 +80,7 @@
 <!ENTITY perm.AskAlways "Preguntar siempre">
 <!ENTITY perm.NeverSave "No guardar nunca">
 <!ENTITY perm.Allow "Permitir">
+<!ENTITY perm.AllowSameDomain "Permitir del mismo dominio">
 <!ENTITY perm.AllowSession "Permitir durante la sesión">
 <!ENTITY perm.Block "Bloquear">
 <!ENTITY perm.host.placeholder "Introduzca un nombre de servidor">
