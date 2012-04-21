@@ -74,11 +74,6 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label 'Ruptura tras imágenes (&lt;br clear="all"&gt;)'>
 <!ENTITY insertBreakAllCmd.accesskey "u">
-<!ENTITY spellCheckNoSuggestions.label "(No hay sugerencias)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorar palabra">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Añadir al diccionario">
-<!ENTITY spellCheckAddToDictionary.accesskey "A">
 <!ENTITY createLinkCmd.label "Crear enlace…">
 <!ENTITY createLinkCmd.accesskey "n">
 <!ENTITY editLinkCmd.label "Editar enlace en ventana de Composer nueva">
