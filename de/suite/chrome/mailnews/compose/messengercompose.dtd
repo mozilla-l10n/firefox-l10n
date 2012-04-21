@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "Aktuelle Übertragung stoppen"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(Keine Vorschläge gefunden)">
-<!ENTITY spellCheckIgnoreWord.label "Wort ignorieren">
-<!ENTITY spellCheckIgnoreWord.accesskey "W">
-<!ENTITY spellCheckAddToDictionary.label "Zu Wörterbuch hinzufügen">
-<!ENTITY spellCheckAddToDictionary.accesskey "Z">
-
 <!ENTITY openAttachment.label "Öffnen">
 <!ENTITY openAttachment.accesskey "Ö">
 <!ENTITY renameAttachment.label "Umbenennen…">
