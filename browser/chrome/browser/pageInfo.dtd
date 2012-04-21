@@ -99,6 +99,7 @@
 <!ENTITY  permCookie            "Sätta kakor">
 <!ENTITY  permInstall           "Installera tillägg eller teman">
 <!ENTITY  permGeo               "Uppge position">
+<!ENTITY  permPlugins           "Aktivera insticksmoduler">
 
 <!ENTITY  permIndexedDB              "Lagra för nedkopplat läge">
 <!ENTITY  permClearStorage           "Rensa lagring">
