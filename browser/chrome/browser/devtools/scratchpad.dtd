@@ -37,15 +37,6 @@
 <!ENTITY editMenu.label               "Editar">
 <!ENTITY editMenu.accesskey           "E">
 
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-   -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-   -  purpose.
-   -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Ir a línea…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "I">
 
 <!ENTITY run.label                    "Ejecutar">
 <!ENTITY run.accesskey                "E">
@@ -80,6 +71,17 @@
   -->
 <!ENTITY browserContext.label         "Navegador">
 <!ENTITY browserContext.accesskey     "N">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+ -  for the help button in the menubar but Gnome does not.
+ -->
+<!ENTITY helpMenu.label               "Ayuda">
+<!ENTITY helpMenu.accesskey           "u">
+<!ENTITY helpMenuWin.label            "Ayuda">
+<!ENTITY helpMenuWin.accesskey        "u">
+<!ENTITY documentationLink.label      "Ayuda del borrador en MDN">
+<!ENTITY documentationLink.accesskey  "d">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
