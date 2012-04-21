@@ -221,7 +221,7 @@ can reach it easily. -->
 <!ENTITY inspectorHTMLCopyOuter.label       "Copiar il HTML extern">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "E">
 
-<!ENTITY inspectorHTMLDelete.label          "Stizzar il Nuf">
+<!ENTITY inspectorHTMLDelete.label          "Stizzar il nuf">
 <!ENTITY inspectorHTMLDelete.accesskey      "z">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an

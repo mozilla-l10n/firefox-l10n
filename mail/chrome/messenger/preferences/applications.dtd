@@ -26,9 +26,9 @@
 <!ENTITY addCloudFileAccount.description  "Agiuntar in nov servetsch per memorisar datotecas">
 <!ENTITY removeCloudFileAccount.label     "Allontanar">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Tia autorisaziun è necessaria per vesair las ils parameters per quest servetsch per memorisar datotecas.">
+<!ENTITY authRequired.description         "Tia autorisaziun è necessaria per vesair ils parameters da quest servetsch per memorisar datotecas.">
 <!ENTITY authRequired.button.label        "Autorisar">
 <!ENTITY authRequired.button.accesskey    "U">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offrir da cundivider per datotecas pli grondas che">
+<!ENTITY enableCloudFileAccountOffer.label "Proponer da cundivider per datotecas pli grondas che">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
