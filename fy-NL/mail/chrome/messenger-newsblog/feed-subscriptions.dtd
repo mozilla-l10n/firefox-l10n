@@ -1,8 +1,21 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label		"Feed-abonneminten">
-<!ENTITY subscriptionDesc.label			"Opmerking: it fuortsmiten of feroarjen fan in feedmap hat gjin ynfloed op artikels dy't al ynladen binne.">
+<!ENTITY subscriptionDesc.label			"Opmerking: it fuortsmiten of feroarjen fan in feedmap hat gjin ynfloed op artikelen dy't al ynladen binne.">
+
 <!ENTITY feedTitle.label				"Titel:">
 <!ENTITY location.label					"Lokaasje:">
+
+<!ENTITY feedLocation.label          "Feed-URL:">
+<!ENTITY feedLocation.accesskey      "F">
+<!ENTITY feedLocation.placeholder    "Fier in jildige feed-url yn om ta te foegjen">
+
+<!ENTITY feedFolder.label            "Artikelen bewarje yn:">
+<!ENTITY feedFolder.accesskey        "b">
+
+<!ENTITY quickMode.label             "Artikelgearfetting werjaan y.s.f de webside lade">
+<!ENTITY quickMode.accesskey         "A">
+
+<!ENTITY validateText.label          "Kontrolearje falidaasje en helje in jildige url op.">
 
 <!ENTITY button.addFeed.label			"Tafoegje">
 <!ENTITY button.addFeed.accesskey		"T">

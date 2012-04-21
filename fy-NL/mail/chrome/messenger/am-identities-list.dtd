@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "B">
 <!ENTITY identitiesListDelete.label "Fuortsmite">
 <!ENTITY identitiesListDelete.accesskey "F">
+<!ENTITY identitiesListClose.label "Slute">
+<!ENTITY identitiesListClose.accesskey "S">
