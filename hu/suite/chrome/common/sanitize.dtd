@@ -3,7 +3,7 @@
 
 <!ENTITY itemHistory.label "Böngészés előzményei">
 <!ENTITY itemHistory.accesskey "B">
-<!ENTITY itemUrlBar.label "Location Bar History">
+<!ENTITY itemUrlBar.label "Címsor előzményei">
 <!ENTITY itemUrlBar.accesskey "L">
 <!ENTITY itemDownloads.label "Letöltési előzmények">
 <!ENTITY itemDownloads.accesskey "L">

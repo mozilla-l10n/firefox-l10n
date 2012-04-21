@@ -1,32 +1,25 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY languages.customize.prefLangDescript "A weboldalak néha több nyelven is elérhetőek. Adja meg sorrendben azokat a nyelveket, amelyeken a weboldalakat meg szeretné tekinteni.">
-<!ENTITY languages.customize.title "Nyelvek">
-<!ENTITY langtitle.label "A weboldalak nyelve">
-<!ENTITY languages.customize.prefAddLangDescript "Jelölje ki a hozzáadandó nyelv(ek)et.">
-<!ENTITY languages.customize.addButton.label "Hozzáadás...">
-<!ENTITY languages.customize.addButton.accesskey "H">
-<!ENTITY languages.customize.deleteButton.label "Eltávolítás">
-<!ENTITY languages.customize.deleteButton.accesskey "E">
-<!ENTITY languages.customize.add.title.label "Nyelvek hozzáadása">
-<!ENTITY languages.customize.available.label "Nyelvek:">
-<!ENTITY languages.customize.active.label "Nyelvek sorrendje:">
-<!ENTITY languages.customize.active.accesskey "l">
-<!ENTITY languages.customize.others.label "Egyéb:">
-<!ENTITY languages.customize.others.accesskey "E">
-<!ENTITY languages.customize.Charset.grouplabel "Karakterkódolás">
-<!ENTITY languages.customize.DefaultCharset.label "Alapértelmezett karakterkódolás:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "A">
+<!ENTITY languages.customize.prefLangDescript           "A weboldalak néha több nyelven is elérhetőek. Adja meg sorrendben azokat a nyelveket, amelyeken a weboldalakat meg szeretné tekinteni.">
+<!ENTITY languages.customize.title                      "Nyelvek">
+<!ENTITY langtitle.label                                "A weboldalak nyelve">
+<!ENTITY languages.customize.prefAddLangDescript        "Jelölje ki a hozzáadandó nyelv(ek)et.">
+<!ENTITY languages.customize.addButton.label            "Hozzáadás...">
+<!ENTITY languages.customize.addButton.accesskey        "H">
+<!ENTITY languages.customize.deleteButton.label         "Eltávolítás">
+<!ENTITY languages.customize.deleteButton.accesskey     "E">
+<!ENTITY languages.customize.add.title.label            "Nyelvek hozzáadása">
+<!ENTITY languages.customize.available.label            "Nyelvek:">
+<!ENTITY languages.customize.active.label               "Nyelvek sorrendje:">
+<!ENTITY languages.customize.active.accesskey           "l">
+<!ENTITY languages.customize.others.label               "Egyéb:">
+<!ENTITY languages.customize.others.accesskey           "E">
+<!ENTITY languages.customize.Charset.grouplabel         "Karakterkódolás">
+<!ENTITY languages.customize.DefaultCharset.label       "Alapértelmezett karakterkódolás:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "A">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
-<!ENTITY languages.customize.others.examples "például: en-bz, ar-jo">
-<!ENTITY languages.customize.moveUp.label "Mozgatás felfelé">
-<!ENTITY languages.customize.moveUp.accesskey "f">
-<!ENTITY languages.customize.moveDown.label "Mozgatás lefelé">
-<!ENTITY languages.customize.moveDown.accesskey "l">
-
-<!ENTITY spelling.label "Helyesírás-ellenőrzés">
-<!ENTITY checkSpelling.label "Helyesírás-ellenőrzés beíráskor:">
-<!ENTITY checkSpelling.accesskey "H">
-<!ENTITY dontCheckSpelling.label "Soha">
-<!ENTITY multilineCheckSpelling.label "Többsoros mezőket">
-<!ENTITY alwaysCheckSpelling.label "Minden mezőt">
+<!ENTITY languages.customize.others.examples            "például: en-bz, ar-jo">
+<!ENTITY languages.customize.moveUp.label               "Mozgatás felfelé">
+<!ENTITY languages.customize.moveUp.accesskey           "f">
+<!ENTITY languages.customize.moveDown.label             "Mozgatás lefelé">
+<!ENTITY languages.customize.moveDown.accesskey         "l">

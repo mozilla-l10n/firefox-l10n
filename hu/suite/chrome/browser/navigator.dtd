@@ -16,54 +16,54 @@
 
 <!ENTITY navbarCmd.label "Böngésző eszköztár">
 <!ENTITY navbarCmd.accesskey "B">
-<!ENTITY personalbarCmd.label "Személyes eszköztár">
-<!ENTITY personalbarCmd.accesskey "S">
+<!ENTITY bookmarksToolbarCmd.label     "Könyvjelző eszköztár">
+<!ENTITY bookmarksToolbarCmd.accesskey "K">
 
 <!ENTITY closeWindow.label "Ablak bezárása">
 <!ENTITY closeWindow.accesskey "A">
 
-<!ENTITY minimizeButton.tooltip "Kis méret">
-<!ENTITY restoreButton.tooltip "Visszaállítás">
+<!ENTITY minimizeButton.tooltip       "Kis méret">
+<!ENTITY restoreButton.tooltip        "Visszaállítás">
 
 <!ENTITY feedsMenu.label "Feliratkozás erre az oldalra">
 <!ENTITY feedsMenu.accesskey "F">
 
-<!ENTITY menuBar.tooltip "Menüsor">
-<!ENTITY personalToolbar.tooltip "Személyes eszköztár">
-<!ENTITY navigationToolbar.tooltip "Böngésző eszköztár">
+<!ENTITY menuBar.tooltip                  "Menüsor">
+<!ENTITY bookmarksToolbar.tooltip         "Könyvjelző eszköztár">
+<!ENTITY navigationToolbar.tooltip        "Böngésző eszköztár">
 <!-- Toolbar items --> 
 
-<!ENTITY backButton.label "Vissza">
-<!ENTITY backButton.tooltip "Ugrás az előző oldalra">
-<!ENTITY forwardButton.label "Előre">
-<!ENTITY forwardButton.tooltip "Ugrás a következő oldalra">
-<!ENTITY reloadButton.label "Frissítés">
-<!ENTITY reloadButton.tooltip "Aktuális oldal újratöltése">
-<!ENTITY stopButton.label "Leállítás">
-<!ENTITY stopButton.tooltip "Oldal letöltésének megszakítása">
-<!ENTITY searchButton.label "Keresés">
-<!ENTITY searchButton.tooltip "Írja be a keresendő szót a mezőbe, majd kattintson a Keresés gombra">
-<!ENTITY goButton.label "Ugrás">
-<!ENTITY goButton.tooltip "Írja be a weboldal címét a mezőbe, majd kattintson az Ugrás gombra">
-<!ENTITY printButton.label "Nyomtatás">
-<!ENTITY printButton.tooltip "Oldal kinyomtatása">
+<!ENTITY backButton.label             "Vissza">
+<!ENTITY backButton.tooltip           "Ugrás az előző oldalra">
+<!ENTITY forwardButton.label          "Előre">
+<!ENTITY forwardButton.tooltip        "Ugrás a következő oldalra">
+<!ENTITY reloadButton.label           "Frissítés">
+<!ENTITY reloadButton.tooltip         "Aktuális oldal újratöltése">
+<!ENTITY stopButton.label             "Leállítás">
+<!ENTITY stopButton.tooltip           "Oldal letöltésének megszakítása">
+<!ENTITY searchButton.label           "Keresés">
+<!ENTITY searchButton.tooltip         "Írja be a keresendő szót a mezőbe, majd kattintson a Keresés gombra">
+<!ENTITY goButton.label               "Ugrás">
+<!ENTITY goButton.tooltip             "Írja be a weboldal címét a mezőbe, majd kattintson az Ugrás gombra">
+<!ENTITY printButton.label            "Nyomtatás">
+<!ENTITY printButton.tooltip          "Oldal kinyomtatása">
 
-<!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
+<!ENTITY throbber.tooltip             "Ugrás a &vendorShortName; honlapjára">
 
-<!ENTITY locationBar.tooltip "Írja be a keresendő szót, a kulcsszót vagy a webcímet">
-<!ENTITY locationBar.accesskey "d">
-<!ENTITY locationBar.title "Hely">
-<!ENTITY proxyIcon.tooltip "Az ikon áthúzásával hivatkozást hozhat létre erre az oldalra">
+<!ENTITY locationBar.tooltip          "Írja be a keresendő szót, a kulcsszót vagy a webcímet">
+<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.title            "Hely">
+<!ENTITY proxyIcon.tooltip            "Az ikon áthúzásával hivatkozást hozhat létre erre az oldalra">
 
-<!ENTITY searchItem.title "Keresés">
+<!ENTITY searchItem.title             "Keresés">
 
-<!ENTITY bookmarksButton.label "Könyvjelzők">
-<!ENTITY bookmarksButton.tooltip "Könyvjelzők listája">
-<!ENTITY homeButton.label "Kezdőlap">
-<!ENTITY bookmarksToolbarItem.label "Könyvjelző eszköztár elemei">
+<!ENTITY bookmarksButton.label        "Könyvjelzők">
+<!ENTITY bookmarksButton.tooltip      "Könyvjelzők listája">
+<!ENTITY homeButton.label             "Kezdőlap">
+<!ENTITY bookmarksToolbarItem.label   "Könyvjelző eszköztár elemei">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 <!-- Statusbar -->
 
-<!ENTITY statusText.label "Kész">
+<!ENTITY  statusText.label            "Kész">
 
-<!ENTITY popupIcon.tooltiptext "A webhely felugró ablakainak engedélyezése">
+<!ENTITY popupIcon.tooltiptext      "A webhely felugró ablakainak engedélyezése">
