@@ -88,11 +88,6 @@
 <!ENTITY attachButton.tooltip "Adjuntar un archivo a este mensaje">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
-<!ENTITY spellCheckNoSuggestions.label "(no hay sugerencias)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorar palabra">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Añadir al diccionario">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Renombrar…">
