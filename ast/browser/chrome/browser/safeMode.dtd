@@ -41,6 +41,8 @@
 
 <!ENTITY safeModeDescription.label    "&brandShortName; ta agora executándose en mou seguru, lo que fai que s'inhabiliten temporalmente los parámetros personalizaos, temes, y estensiones.">
 <!ENTITY safeModeDescription2.label   "Pues facer permanentes toos o dalgunos de los siguientes cambeos:">
+<!ENTITY autoSafeModeIntro.label "&brandShortName; zarróse de mou inesperáu cuando taba aniciándose">
+<!ENTITY autoSafeModeDescription.label "Sentimos l'inconveniente, pero &brandShortName; ta funcionando agora en mou seguru, que desactiva de forma temporal les tos preferencies, temes y estensiones.">
 
 <!ENTITY disableAddons.label          "Desactivar tolos complementos">
 <!ENTITY disableAddons.accesskey      "D">

@@ -9,6 +9,10 @@
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Direutoriu de perfil ">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
+<!ENTITY aboutSupport.jsIncrementalGC "Recoyida de basoria incremental">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiones de biblioteques">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activaos">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Axente d'usuariu">
