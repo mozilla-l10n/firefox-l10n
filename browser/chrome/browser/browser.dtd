@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "O">
 <!ENTITY fullScreenExit.label "Sair do modo tela inteira">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY domFullScreenWarning.label "Pressione ESC para sair do modo tela inteira">
+<!ENTITY domFullScreenWarning.label "Tecle ESC para sair da tela inteira">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "h">
@@ -192,7 +192,7 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.commandkey     "K">
 
 <!ENTITY inspectMenu.label            "Inspecionar">
-<!ENTITY inspectMenu.accesskey        "n">
+<!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "i">
 
 <!ENTITY inspectContextMenu.label     "Inspecionar elemento">
@@ -213,10 +213,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Inspecionar">
-<!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Ocultar inspeção">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML interno">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "C">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copiar HTML externo">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
+
+<!ENTITY inspectorHTMLDelete.label          "Excluir nó">
+<!ENTITY inspectorHTMLDelete.accesskey      "x">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -599,3 +605,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Ocultar a barra de extensões">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "Painel HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
