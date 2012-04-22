@@ -64,11 +64,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Brug altid Privat browsing-tilstand">
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "Husk min browserhistorik">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Husk filhentningshistorik">
-<!ENTITY  rememberDownload.accesskey     "H">
+<!ENTITY  rememberHistory2.label      "Husk min browser- og filhentningshistorik">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Husk formular- og søgehistorik">
 <!ENTITY  rememberSearchForm.accesskey   "f">
