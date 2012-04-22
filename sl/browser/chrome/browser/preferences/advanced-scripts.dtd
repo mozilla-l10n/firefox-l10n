@@ -38,7 +38,7 @@
 <!ENTITY advancedJSDialog.title "Napredne nastavitve JavaScript">
 <!ENTITY window.width "39em">
 
-<!ENTITY allowScripts.label "Dovoli, da skripta:">
+<!ENTITY allowScripts.label "Dovoli, da skripti:">
 
 <!ENTITY moveResizePopupWindows.label     "Spreminjajo položaj in velikost oken">
 <!ENTITY moveResizePopupWindows.accesskey "P">
