@@ -16,5 +16,6 @@
 <!ENTITY cookie.manage "Administrar cookies…">
 <!ENTITY cookie.removeAll "Eliminar todas las cookies">
 <!ENTITY geo.label "Compartir ubicación">
+<!ENTITY plugins.label "Plugins">
 <!ENTITY indexedDB.label "Mantener almacenamiento en modo sin conexión">
 <!ENTITY popup.label "Abrir ventanas emergentes">
