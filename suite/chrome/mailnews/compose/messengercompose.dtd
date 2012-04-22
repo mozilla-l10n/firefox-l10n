@@ -88,11 +88,6 @@
 <!ENTITY attachButton.tooltip "Вложить файл в это сообщение">
 <!ENTITY saveButton.tooltip "Сохранить это сообщение">
 <!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
-<!ENTITY spellCheckNoSuggestions.label "Вариантов не найдено">
-<!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
-<!ENTITY spellCheckIgnoreWord.accesskey "п">
-<!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">
-<!ENTITY spellCheckAddToDictionary.accesskey "с">
 <!ENTITY openAttachment.label "Открыть">
 <!ENTITY openAttachment.accesskey "т">
 <!ENTITY renameAttachment.label "Переименовать…">
