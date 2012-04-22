@@ -55,6 +55,7 @@
 <!ENTITY permCookie "Establecer cookies">
 <!ENTITY permInstall "Instalar extensiones o temas">
 <!ENTITY permGeo "Compartir ubicación">
+<!ENTITY permPlugins "Activar plugins">
 <!ENTITY permIndexedDB "Mantener almacenamiento en modo sin conexión">
 <!ENTITY permClearStorage "Limpiar almacenamiento">
 <!ENTITY permClearStorage.accesskey "c">

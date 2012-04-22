@@ -438,6 +438,5 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerrar la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY htmlPanel.label "HTML">
-<!ENTITY htmlPanel.tooltiptext "Panel HTML">
-<!ENTITY htmlPanel.accesskey "H">
+<!ENTITY markupButton.arialabel "Marcado">
+<!ENTITY markupButton.accesskey "M">
