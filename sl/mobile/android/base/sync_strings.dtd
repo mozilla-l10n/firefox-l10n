@@ -13,7 +13,7 @@
 <!ENTITY sync.subtitle.connect.label "Da aktivirate novo napravo, izberite “Nastavi ;&syncBrand.shortName.label;” na njej.">
 <!ENTITY sync.subtitle.header.label "Vnesite to kodo v svoj računalnik.">
 <!ENTITY sync.subtitle.connectlocation.label "Izberite na namiznem računalniku v nastavitvah za Firefox, pano &syncBrand.shortName.label;,  “&syncBrand.shortName.label;”.">
-<!ENTITY sync.subtitle.pair.label "Za aktivacijo izberite “Poveži napravo&” na svoji drugi napravi.">
+<!ENTITY sync.subtitle.pair.label "Za aktivacijo izberite “Poveži napravo” na svoji drugi napravi.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Pokaži mi, kako.">
