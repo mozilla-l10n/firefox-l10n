@@ -3,8 +3,7 @@
 <!ENTITY     props.domain.label             "ಅತಿಥೇಯ:">
 <!ENTITY     props.path.label               "ಮಾರ್ಗ:">
 <!ENTITY     props.secure.label             "ಇಲ್ಲಿಗೆ ಕಳುಹಿಸಲ್ಪಟ್ಟಿದೆ:">
-<!ENTITY     props.expires.label            "ಕಾಲಾವಧಿ ಯಅಂತ್ಯ:">
-<!ENTITY     props.policy.label             "ಕಾಯ್ದೆ:"> 
+<!ENTITY     props.expires.label            "ಕಾಲಾವಧಿಯ ಅಂತ್ಯ:">
 
 <!ENTITY     button.allow.label             "ಅನುಮತಿಸು">
 <!ENTITY     button.allow.accesskey         "A">
