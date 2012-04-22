@@ -3,7 +3,7 @@
 <!ENTITY subscriptionDesc.label			"Opmerking: it fuortsmiten of feroarjen fan in feedmap hat gjin ynfloed op artikelen dy't al ynladen binne.">
 
 <!ENTITY feedTitle.label				"Titel:">
-<!ENTITY location.label					"Lokaasje:">
+<!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "Feed-URL:">
 <!ENTITY feedLocation.accesskey      "F">
