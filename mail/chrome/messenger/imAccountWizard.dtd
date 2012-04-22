@@ -1,6 +1,6 @@
 <!ENTITY windowTitle.label            "Assistent per contos da chat">
 
-<!ENTITY accountProtocolTitle.label   "Rait dal chat">
+<!ENTITY accountProtocolTitle.label   "Rait da chat">
 <!ENTITY accountProtocolInfo.label    "Tscherna per plaschair la rait da tes conto da chat.">
 <!ENTITY accountProtocolField.label   "Rait:">
 <!ENTITY accountProtocolGetMore.label "Dapli…">
@@ -11,7 +11,7 @@
 <!ENTITY accountPasswordTitle.label   "Pled-clav">
 <!ENTITY accountPasswordInfo.label    "Endatescha per plaschair tes pled-clav en il champ sutvart.">
 <!ENTITY accountPasswordField.label   "Pled-clav:">
-<!ENTITY accountPasswordManager.label "Il pled-clav endatà qua vegn memorisà en l'administratur da pleds-clav. Lascha vid quest champ sche tes pled-clav duai vegnir dumandà mintga giada sche ti connecteschas.">
+<!ENTITY accountPasswordManager.label "Il pled-clav endatà qua vegn memorisà en l'administratur da pleds-clav. Lascha vid quest champ sche tes pled-clav duai vegnir dumandà mintga giada che ti connecteschas.">
 
 <!ENTITY accountAdvancedTitle.label   "Opziuns extendidas">
 <!ENTITY accountAdvancedInfo.label    "Ti pos sursiglir quest pass sche ti vuls.">
@@ -19,7 +19,7 @@
 <!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "Quai cumpara mo en tia conversaziun, tes contacts na vegnan betg a vesair quai.">
-<!ENTITY accountProxySettings.caption "Opziuns da Proxy">
+<!ENTITY accountProxySettings.caption "Configuraziun da Proxy">
 <!ENTITY accountProxySettings.change.label     "Midar…">
 <!ENTITY accountProxySettings.change.accessKey "M">
 

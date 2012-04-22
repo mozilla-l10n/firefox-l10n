@@ -276,7 +276,7 @@
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Convertir en…">
 <!ENTITY convertCloud.accesskey "C">
-<!ENTITY cancelUpload.label "Interrumper da chargiar si">
+<!ENTITY cancelUpload.label "Interrumper il transferiment">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Agiunta normala">
 <!ENTITY convertRegularAttachment.accesskey "A">

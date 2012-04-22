@@ -7,6 +7,6 @@
 <!ENTITY account.alias                 "Alias:">
 <!ENTITY account.newMailNotification   "M'infurmar davart novs e-mails">
 <!ENTITY account.autojoin              "Chanals per entrar automaticamain:">
-<!ENTITY account.proxySettings.caption "Preferenzas da proxy:">
+<!ENTITY account.proxySettings.caption "Configuraziun da proxy:">
 <!ENTITY account.proxySettings.change.label     "Midar…">
 <!ENTITY account.proxySettings.change.accessKey "M">
