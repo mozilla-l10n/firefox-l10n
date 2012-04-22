@@ -1,8 +1,21 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Tilatut syötteet">
 <!ENTITY subscriptionDesc.label  "Huom.: Syötteen kansion poistaminen tai vaihtaminen ei vaikuta aiemmin ladattuihin artikkeleihin.">
+
 <!ENTITY feedTitle.label  "Otsikko:">
-<!ENTITY location.label   "Osoite:">
+<!ENTITY feedTitle.accesskey         "O">
+
+<!ENTITY feedLocation.label          "Syötteen osoite:">
+<!ENTITY feedLocation.accesskey      "S">
+<!ENTITY feedLocation.placeholder    "Kirjoita kelvollinen syötteen osoite">
+
+<!ENTITY feedFolder.label            "Säilytä artikkeleita:">
+<!ENTITY feedFolder.accesskey        "a">
+
+<!ENTITY quickMode.label             "Älä lataa artikkelin verkkosivua vaan näytä artikkelin yhteenveto">
+<!ENTITY quickMode.accesskey         "v">
+
+<!ENTITY validateText.label          "Varmista ja hae kelvollinen osoite.">
 
 <!ENTITY button.addFeed.label        "Lisää">
 <!ENTITY button.addFeed.accesskey    "L">
