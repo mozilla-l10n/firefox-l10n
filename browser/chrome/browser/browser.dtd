@@ -68,8 +68,7 @@
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "जाँचू">
-<!ENTITY inspectButton.accesskey      "I">
+
 
 
 
@@ -690,7 +689,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
+
 <!ENTITY inspectButton.label          "जाँचू">
 <!ENTITY inspectButton.accesskey      "I">
 
@@ -723,7 +722,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY  moveToGroup.label                  "समूह मे घसकाउ">
+<!ENTITY  moveToGroup.label                  "समूहमे घसकाउ">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "नव समूह">
 <!ENTITY  moveToNewWindow.label              "नव विंडो मे घसकाउ">
@@ -756,21 +755,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "तुल्यकालित करू">
 
 <!ENTITY tabGroupsButton.label        "टैब समूह">
-<!ENTITY tabGroupsButton.tooltip      "अपन टैब क समूह बनाउ">
+<!ENTITY tabGroupsButton.tooltip      "अपन टैबक समूह बनाउ">
 
 <!ENTITY tabView.commandkey           "e">
 <!ENTITY tabsToolbar.label "ब्राउजर टैब">
 
-<!ENTITY  undoCloseTab.label                 "बंद टैब वापस लिअ'">
+<!ENTITY  undoCloseTab.label                 "बन्न टैब वापिस लिअ'">
 <!ENTITY  undoCloseTab.accesskey             "U">
 
 <!ENTITY  unpinAppTab.label                  "टैब सँ पिन निकालू">
 <!ENTITY  unpinAppTab.accesskey              "b">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "कोनो वेबसाइट मे जाउ">
+<!ENTITY urlbar.placeholder           "कोनो वेबसाइटमे जाउ">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "टैब मे जाउ:">
+<!ENTITY urlbar.switchToTab.label     "टैबमे जाउ:">
 
 
 
@@ -800,7 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label             "आकार नियंत्रण">
 
 
-<!ENTITY  unpinAppTab.label                  "टैब क पिन निकालू">
+<!ENTITY  unpinAppTab.label                  "टैबक पिन निकालू">
 <!ENTITY  unpinAppTab.accesskey              "b">
 
 
@@ -837,9 +836,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "आडियो स्थान क नकल लिअ' ">
+<!ENTITY copyAudioURLCmd.label        "आडियो स्थानक नकल लिअ' ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyVideoURLCmd.label        "वीडियो स्थान क नकल लिअ' ">
+<!ENTITY copyVideoURLCmd.label        "वीडियो स्थानक नकल लिअ' ">
 
 <!ENTITY saveVideoCmd.label           "एहिना वीडियो सहेजू…">
 <!ENTITY saveVideoCmd.accesskey       "v">
@@ -869,7 +868,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY backCmd.label                "पाछाँ">
 <!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "एक पृष्ठ पाछाँ जाउ">
+<!ENTITY backButton.tooltip           "एकगोट पृष्ठ पाछाँ जाउ">
 <!ENTITY forwardCmd.label             "अग्रेषित करू">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "एक पृष्ठ आगाँ जाउ">
@@ -881,7 +880,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ई पृष्ठ लोड कएनाइ रोकू">
-<!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पता मे जाउ">
+<!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पतामे जाउ">
 <!ENTITY printButton.label            "छापू">
 <!ENTITY printButton.tooltip          "ई पृष्ठ छापू">
 
@@ -914,7 +913,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY search.label                 "वेब खोज">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "डाउनलोड">
-<!ENTITY downloads.tooltip            "निरंतर डाउनलोड क प्रगति देखाउ">
+<!ENTITY downloads.tooltip            "निरंतर डाउनलोडक प्रगति देखाउ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -1061,13 +1060,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "छवि पठाउ…">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "कड़ी स्थान क नकल लिअ'">
+<!ENTITY copyLinkCmd.label            "कड़ी स्थानक नकल लिअ'">
 <!ENTITY copyLinkCmd.accesskey        "a">
 
 
-<!ENTITY copyImageCmd.label           "छवि स्थान क नकल लिअ'">
+<!ENTITY copyImageCmd.label           "छवि स्थानक नकल लिअ'">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "छवि क नकल लिअ'">
+<!ENTITY copyImageContentsCmd.label   "छविक नकल लिअ'">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 
 <!ENTITY  bookmarkAllTabs.label              "सभटा टैब पुस्तकचिह्नित करू…">
@@ -1262,4 +1261,60 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "सहयुक्ति पट्टी बन्न करू">
 
+
+<!ENTITY backForwardButtonMenu.tooltip "इतिहास देखाबैक लेल दाहिना क्लिक करू अथवा पुल डाउन करू">
+
+<!ENTITY backForwardButtonMenuMac.tooltip "इतिहास देखाबैक लेल पुल डाउन करू">
+<!ENTITY domFullScreenWarning.label "ESC केँ पूर्ण स्क्रीन विधि छोड़बाक लेल दबाउ">
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML पटल">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D दृश्य">
+<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspectCloseButton.tooltiptext "इंस्पेक्टर बन्न करू">
+<!ENTITY inspectContextMenu.label     "तत्व जाँचू">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY inspectStyleButton.label     "शैली">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectCloseButton.tooltiptext "इंस्पेक्टर बन्न करू">
+
+<!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नकल लिअ">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "बाहरी HTML क' नकल लिअ">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "नोड मेटाउ">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!ENTITY searchFocus.commandkey2      "e">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "शैली संपादक">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "आँकड़ा देखाउ">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "आँकड़ा नुकाउ">
+<!ENTITY videoHideStats.accesskey    "t">
+
+<!ENTITY videoSaveImage.label        "चित्र एहिना सहेजू…">
+<!ENTITY videoSaveImage.accesskey    "S">
 
