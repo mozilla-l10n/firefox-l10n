@@ -59,3 +59,6 @@
 
 <!ENTITY restoreSearch.label          "पूर्वनिर्धारित खोज इंजन फेर वापस करू ">
 <!ENTITY restoreSearch.accesskey      "s">
+
+<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; अचानक सँ आरंभ करबाक समय बन्न भए गेल">
