@@ -68,3 +68,8 @@
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label "লিংকের অবস্থান কপি করুন">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "ই-মেইল ঠিকানা কপি করুন">
+<!ENTITY copyEmailCmd.accesskey "E">

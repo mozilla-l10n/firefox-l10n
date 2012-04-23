@@ -20,6 +20,19 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "সক্রিয় প্লাগ-ইন">
 <!ENTITY aboutSupport.appBasicsBuildConfig "বিল্ডের কনফিগারেশন">
 <!ENTITY aboutSupport.appBasicsUserAgent "ইউজার এজেন্ট">
+<!ENTITY aboutSupport.appBasicsCrashIDs "বিপর্যয়ের রিপোর্ট">
+<!ENTITY aboutSupport.appBasicsMemoryUse "মেমরির ব্যবহার">
+
+<!ENTITY aboutSupport.showDir.label "ডিরেক্টরি খুলুন">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ফোল্ডার প্রদর্শন">
 
 <!-- ENTITY aboutSupport.show.label "ধারণকারী ফোল্ডার খুলুন" -->
 
@@ -28,11 +41,17 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Finder-র মধ্যে প্রদর্শন করা হবে">
 
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "পরিবর্তিত গুরুত্বপূর্ণ পছন্দ">
 <!-- ENTITY aboutSupport.modifiedPrefsTitle "পরিবর্তিত পছন্দ" -->
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
 <!ENTITY aboutSupport.modifiedPrefsValue "মান">
 
 <!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "লাইব্রেরির সংস্করণ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ইনস্টলেশনের পূর্ববর্তী তথ্য">
 <!ENTITY aboutSupport.updateHistoryTitle "আপডেট সংক্রান্ত পূর্ববর্তী তথ্য">
