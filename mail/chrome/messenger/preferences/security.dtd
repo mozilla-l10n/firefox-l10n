@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "s">
 <!ENTITY markAsReadOnSpam.label "Marquer les messages détectés indésirables comme lus">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Activer la journalisation du filtre des indésirables">
-<!ENTITY enableJunkLogging.accesskey "c">
+<!ENTITY enableAdaptiveJunkLogging.label "Activer la journalisation du filtre adaptatif des indésirables">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "c">
 <!ENTITY openJunkLog.label "Afficher le journal">
 <!ENTITY openJunkLog.accesskey "A">
 <!ENTITY resetTrainingData.label "Réinitialiser les données d'apprentissage">
