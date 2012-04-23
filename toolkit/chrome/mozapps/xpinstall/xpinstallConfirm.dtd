@@ -1,9 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title            "साफ्टवेयर संस्थापन">
-<!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningSecondary.label  "दुर्भावना पूर्ण साफ़्टवेयर अहाँक कंप्यूटर केँ क्षति पहुंचाए सकैत छी अथवा अहाँक निजता क उल्लंघन कए सकैत अछि.">
-
-<!ENTITY from.label "एकरासँ:">
-<!ENTITY warningPrimary.label    "सिर्फ ओहि सहयुक्ति केँ संस्थापित करू जकरा लेखक केँ अहाँ भरोस करैत छी.">
-
