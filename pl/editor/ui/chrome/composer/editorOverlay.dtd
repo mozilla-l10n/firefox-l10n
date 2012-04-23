@@ -85,11 +85,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label       "(brak podpowiedzi)">
-<!ENTITY spellCheckIgnoreWord.label          "Zignoruj słowo">
-<!ENTITY spellCheckIgnoreWord.accesskey      "Z">
-<!ENTITY spellCheckAddToDictionary.label     "Dodaj do słownika">
-<!ENTITY spellCheckAddToDictionary.accesskey "D">
 <!ENTITY createLinkCmd.label                 "Wstaw odnośnik…">
 <!ENTITY createLinkCmd.accesskey             "W">
 <!ENTITY editLinkCmd.label                   "Edytuj odnośnik w nowym oknie Kompozytora Stron">
