@@ -9,4 +9,4 @@
 <!ENTITY addNewToolbar.label "नई औज़ारपट्टी जोड़ें">
 <!ENTITY saveChanges.label "संपन्न">
 <!ENTITY undoChanges.label "परिवर्तन पहले जैसा बनाएँ">
-<!ENTITY dialog.style             "width: 635px; height: 400px;">
+

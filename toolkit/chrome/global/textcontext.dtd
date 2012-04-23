@@ -17,3 +17,8 @@
 <!ENTITY spellDictionaries.accesskey "l">
 <!ENTITY spellCheckEnable.label "वर्तनी जाँचें">
 <!ENTITY spellCheckEnable.accesskey "S">
+
+<!ENTITY spellUndoAddToDictionary.label "शब्दकोश में जोड़ें को पहले जैसा करें">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+
+
