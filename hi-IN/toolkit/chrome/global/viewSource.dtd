@@ -65,3 +65,10 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
+
+<!ENTITY copyLinkCmd.label "कड़ी स्थान की नक़ल लें">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "ईमेल पता की नक़ल लें">
+<!ENTITY copyEmailCmd.accesskey "E">
+
+
