@@ -72,9 +72,9 @@
 
 <!ENTITY certmgr.editcert.title               "Redigeer sekuriteitsertifikaatopstelling">
 <!ENTITY certmgr.editcacert.title             "Redigeer SO-sertifikaatvertroueopstelling">
-<!ENTITY certmgr.editsslcert.title            "Edit website certificate trust settings">
+<!ENTITY certmgr.editsslcert.title            "Redigeer webwerf-sertifikaatvertroueopstelling">
 <!ENTITY certmgr.editcert.edittrust           "Redigeer vertroueopstelling:">
-<!ENTITY certmgr.editcert.trustssl            "This certificate can identify websites.">
+<!ENTITY certmgr.editcert.trustssl            "Hierdie sertifikaat kan webwerwe identifiseer.">
 <!ENTITY certmgr.editcert.trustemail          "Hierdie sertifikaat kan e-posgebruikers identifiseer.">
 <!ENTITY certmgr.editcert.trustobjsign        "Hierdie sertifikaat kan sagtewarevervaardigers identifiseer.">
 <!ENTITY certmgr.editsslcert.edittrust        "Redigeer sertifikaatvertroueopstelling:">

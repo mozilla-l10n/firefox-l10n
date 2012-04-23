@@ -70,7 +70,7 @@
 
 <!ENTITY downloadCert.title "Sertifikate aflaai">
 <!ENTITY downloadCert.message1 "U is gevra om 'n nuwe sertifikaatowerheid (SO) te vertrou.">
-<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
+<!ENTITY downloadCert.trustSSL "Vertrou hierdie SO om webwerwe te identifiseer.">
 <!ENTITY downloadCert.trustEmail "Vertrou hierdie SO om e-posgebruikers te identifiseer.">
 <!ENTITY downloadCert.trustObjSign "Vertrou hierdie SO om sagtewareontwikkelaars te identifiseer.">
 <!ENTITY downloadCert.message3 "Voordat u hierdie SO vir enige doeleinde vertrou, behoort u sy sertifikaat en sy beleid en prosedures (indien beskikbaar) te ondersoek.">
