@@ -12,7 +12,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Bediener">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-bediener">
+<!ENTITY serverType.default.label      "Verstek: Mozilla &syncBrand.fullName.label;-bediener">
 <!ENTITY serverType.custom2.label   "Gebruik 'n doelgemaakte bediener…">
 <!ENTITY signIn.account2.label      "Rekening">
 <!ENTITY signIn.account2.accesskey  "R">

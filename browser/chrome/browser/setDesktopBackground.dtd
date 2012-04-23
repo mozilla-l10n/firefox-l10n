@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Teël">
 <!ENTITY center.label               "Sentreer">
 <!ENTITY stretch.label              "Rek">
+<!ENTITY fill.label                 "Fill">
+<!ENTITY fit.label                  "Pas">
 <!ENTITY preview.label              "Voorskou">
 <!ENTITY color.label                "Kleur:">
 <!ENTITY setDesktopBackground.title "As werkskermagtergrond">

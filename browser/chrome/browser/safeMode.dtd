@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName;- veilige modus">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; het onverwags afgesluit tydens begin">
+<!ENTITY autoSafeModeDescription.label "Ons vra om verskoning vir die ongerief. &brandShortName; loop nou in veilige modus, wat tydelik u doelgemaakte opstelling, temas en uitbreidings deaktiveer.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; loop nou in veilige modus, wat tydelik u doelgemaakte opstelling, temas en uitbreidings deaktiveer.">
 <!ENTITY safeModeDescription2.label   "U kan sekere van of al hierdie wysigings permanent maak:">
 
