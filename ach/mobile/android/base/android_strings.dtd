@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Tero &brandShortName;\u2026">
+<!ENTITY  splash_settingup "Tero &brandShortName;mamegi">
+<!ENTITY  splash_bookmarks_history "Wan watye ka mino ngec mamegi me alama me buk ki lok mukato, maromo tero dakika keken onyo dong.">
 
 <!ENTITY  no_space_to_start_error "Kabedo tye manok pi &brandShortName; pi cako.">
 <!ENTITY  error_loading_file "Bal otime ikare me temo pango fail mamite pi tic i &brandShortName;">
@@ -23,13 +24,17 @@
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Tic me Web">
 <!ENTITY  launcher_shortcuts_empty "Tic me kakube me web pe ononge">
 
-<!ENTITY choose_file "Yer File">
+<!ENTITY choose_file "Yer Pwail">
 
 <!ENTITY awesomebar_default_text "Ket Yeny onyo Kanonge">
+
+<!ENTITY remote_tabs "Ditija matidi me Synced">
+<!ENTITY remote_tabs_show_all "Nyut dirija matidi weng">
 
 <!ENTITY bookmark "Alama me buk">
 <!ENTITY bookmark_added "Kimedo Alama me buk">
 <!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
+<!ENTITY bookmark_updated "Kimedo Alama me buk">
 
 <!ENTITY history_today_section "Tin">
 <!ENTITY history_yesterday_section "Lawo">
@@ -79,12 +84,19 @@
 <!ENTITY char_encoding "Kit ma Kicoyo Kwede">
 
 <!ENTITY share "Nywak">
+<!ENTITY share_title "Nywak kun beo">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
 
 <!ENTITY contextmenu_open_new_tab "Yab ki iyi Tab Manyen">
 <!ENTITY contextmenu_remove_bookmark "Kwany woko">
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
 <!ENTITY contextmenu_share "Nywak">
+<!ENTITY contextmenu_edit_bookmark "Yubi">
+
+<!ENTITY bookmark_edit_title "Yub Alama buk">
+<!ENTITY bookmark_edit_name "Nying">
+<!ENTITY bookmark_edit_location "Kabedo">
+<!ENTITY bookmark_edit_keyword "Lok mapire tek">
 
 <!ENTITY site_settings_title        "Jwa woko Tero Kakube">
 <!ENTITY site_settings_cancel       "Jwik">
@@ -108,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "I pe ki kakube maloyo kombedi. Gwet Bao me Nying wek ocak yenyo.">
 <!ENTITY abouthome_about_sync "Ter kit ma Firefox neno kwede pi donyo i alama buk mapol, lok mukato ki tab ki jami me tic megi mapatpat">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Yer Pwail">
+<!ENTITY filepicker_audio_title "Yer onyo ket tekod me dwon">
+<!ENTITY filepicker_image_title "Yer onyo ter cal">
+<!ENTITY filepicker_video_title "Yer onyo ket video">

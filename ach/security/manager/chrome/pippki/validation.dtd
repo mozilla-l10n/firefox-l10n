@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  validation.crlmanager.label             " Loo CRLs">
+<!ENTITY  validation.crlmanager.label             "Loo CRLs">
 <!ENTITY  validation.crlmanager.description       "Certificate magi me reevocation lists ni ki gwokogi i database megi:">
 <!ENTITY  validation.crlname.label                "Nying">
 <!ENTITY  validation.crllastupdate.label          "Ngec ma ogiko">

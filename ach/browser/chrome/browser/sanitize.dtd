@@ -16,7 +16,7 @@
 <!ENTITY clearTimeDuration.everything     "Jami weng">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "Leb munu">
+<!ENTITY clearTimeDuration.suffix         "">
 <!ENTITY clearTimeDuration.dateColumn     "Nino dwe me limo">
 <!ENTITY clearTimeDuration.nameColumn     "Nying">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys

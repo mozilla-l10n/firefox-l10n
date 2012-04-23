@@ -10,7 +10,7 @@
      is used to dynamically update the Style Editor window title with the title
      of the web page it is editing. -->
 
-<!ENTITY window.title               "Layub Kite">
+<!ENTITY window.title               "Layub Kit">
 
 <!ENTITY newButton.label            "Nyen">
 <!ENTITY newButton.tooltip          "Cwe ki i med kit pot buk manyen i kom coc acoya">

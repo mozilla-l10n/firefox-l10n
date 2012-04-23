@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label; Yubo">
+<!ENTITY sync.title.connect.label "Kub i &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Med Akaunti me &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Ket Jami tic aryo ayo">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Me miyo Jami tic megi manyen, '' Yer &syncBrand.shortName.label;” ikum jami tic">
+<!ENTITY sync.subtitle.header.label "Ket nyig coc ma eni ni i kom kompiuta mamegi">
+<!ENTITY sync.subtitle.connectlocation.label "Yer '' &sync.title.pair.label;” iyi &syncBrand.shortName.label; dul me cal me ayera pi Firefox ma i kompiuta mamegi.">
+<!ENTITY sync.subtitle.pair.label "Me miyo tic, yer '' Ket jami tic aryo aryo '' ikom jami tic megi mapat.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Nyuta yore mene.">
+<!ENTITY sync.link.advancedsetup.label "Ter me rwom ma lamal…">
+<!ENTITY sync.link.nodevice.label "Ape\ ki jami tic bota...">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Tye ka kuro jami tic mukene...">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Ket ngec pa akaunti megi i &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Nying akaunti">
+<!ENTITY sync.input.password.label "I cwil me donyo">
+<!ENTITY sync.input.key.label "Lagony mega me Nongo">
+<!ENTITY sync.checkbox.server.label "Tii ki cik pa lapok tic">
+<!ENTITY sync.input.server.label "Lapok tic me URL">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Ter &syncBrand.shortName.label;…">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; pe onongo romo kube ki lapok tic. I mito temo ne doki?">
+<!ENTITY sync.button.tryagain.label "Tem doki">
+<!ENTITY sync.button.manual.label "Tera me cing">
+<!ENTITY sync.subtitle.nointernet.label "Intanet pe okube.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Tero Otyeko">
+<!ENTITY sync.subtitle.success.label "Tic mamegi kombedi tye ka golo i cal ma nen. I romo wot i Tero pi loyo akaunti mamegi.">
+<!ENTITY sync.settings.label "Tero">
+<!ENTITY sync.subtitle.manage.label "&syncBrand.fullName.label; akaunti mamegi kutyeko tero woko. Wot I tero pi loyo akaunti mamegi.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Tim ber item doki.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Me ayera">
+<!ENTITY sync.summary.pair.label "Kub jami tic mukene i akaunti me &syncBrand.shortName.label;">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Jwik">
+<!ENTITY sync.button.connect.label "Kub">
+<!ENTITY sync.button.ok.label "Kakare">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Ket Alama Buk me Acaki">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Dan">
+<!ENTITY bookmarks.folder.toolbar.label "Keto alama me me Gitic">
+<!ENTITY bookmarks.folder.unfiled.label "Alam me Pot buk mape Kiyero">
+<!ENTITY bookmarks.folder.desktop.label "Alama buk me Cal ma i kompiuta">
+<!ENTITY bookmarks.folder.mobile.label "Alama me pot buk ma kiwoto kwede">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Kicwako ka akaunti pa &syncBrand.fullName.label; acel keken.">

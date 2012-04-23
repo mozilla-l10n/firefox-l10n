@@ -4,7 +4,7 @@
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Yik kite me neno intanet">
-<!ENTITY  noProxyTypeRadio.label        "proxy peke">
+<!ENTITY  noProxyTypeRadio.label        "Proxy peke">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Tii ki proxy me nyonyo">
 <!ENTITY  systemTypeRadio.accesskey     "T">

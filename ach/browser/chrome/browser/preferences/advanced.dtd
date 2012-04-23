@@ -53,7 +53,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Mi ka gwoko obed manok">
 <!ENTITY limitCacheSizeBefore.accesskey  "M">
-<!ENTITY limitCacheSizeAfter.label       "rwom kabedo me MB">
+<!ENTITY limitCacheSizeAfter.label       "Rwom kabedo me MB">
 <!ENTITY clearCacheNow.label             "Kwany Kombedi">
 <!ENTITY clearCacheNow.accesskey         "K">
 <!ENTITY clearOfflineAppCacheNow.label   "Kwany Kombedi">

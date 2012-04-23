@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Yoo me tic maber">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Kiloro woko atura kun tye kacako">
+<!ENTITY autoSafeModeDescription.label "Ada wa kwayo kica pi balo bedo, &brandShortName; tye bene katic i Kit ma ogwoke maber, ma juko woko tera ni pi tutunu, gin akwana, ki nyaa ne.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; Dong tye ka ngwec i yoo me tic maber.">
 <!ENTITY safeModeDescription2.label   "Itwero yubo mogo onyo iweko aloka loka magi ducu bedo matwal:">
 

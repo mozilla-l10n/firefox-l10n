@@ -5,8 +5,8 @@
 <!ENTITY restorepage.errorTitle     "Kakare, man obedo me lewic.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; tye ki ayela i kelo dirica ki lanyik mamegi. Man pol kare pot buk me web en aye kelo.">
 <!ENTITY restorepage.tryThis        "I romo temo ne:">
-<!ENTITY restorepage.restoreSome    " Kwanyo acel onyo lanyik mapol ma itamo ni twero kelo peko">
-<!ENTITY restorepage.startNew       " Cako kare manyen me yabo weng">
+<!ENTITY restorepage.restoreSome    "Kwanyo acel onyo lanyik mapol ma itamo ni twero kelo peko">
+<!ENTITY restorepage.startNew       "Cako kare manyen me yabo weng">
 
 <!ENTITY restorepage.tryagainButton "Dwogo">
 <!ENTITY restorepage.restore.access "R">
