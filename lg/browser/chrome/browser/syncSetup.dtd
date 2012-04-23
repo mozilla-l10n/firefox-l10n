@@ -12,7 +12,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Kompyuta efuga zinazo">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Kompyuta efuga zinazo">
+<!ENTITY serverType.default.label      "Ekyenkalakalira: Engabizi ya Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Kozesa Kompyuta efuga zinazo nga yanjawulo…">
 <!ENTITY signIn.account2.label      "Akaunta">
 <!ENTITY signIn.account2.accesskey  "A">

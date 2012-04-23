@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Okutusaganya Firefox">
+<!ENTITY syncBrand.shortName.label "Tusaganya">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Yunga ku &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Youngera Account ya &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Yunga Ekyuma">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label 'Okutandika ekyuma ekipya, londa "Tegeka &syncBrand.shortName.label;” ku kyuma.'>
+<!ENTITY sync.subtitle.header.label "Yingiza kodi eno mu kumpyuta yo">
+<!ENTITY sync.subtitle.connectlocation.label "Londa “&sync.title.pair.label;” mu kitundu kya &syncBrand.shortName.label; ekye bilondebwako by Firefox.">
+<!ENTITY sync.subtitle.pair.label 'Okutandika, londa "Yunga a ekyuma" ku kyuma kyo ekirala.'>
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Ndaga nga.">
+<!ENTITY sync.link.advancedsetup.label "Okutegeka Okwawagulu...">
+<!ENTITY sync.link.nodevice.label "Sirina ekyuma wano nange...">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Okulindirira ekyuma ekyirala…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Tekamu ebikukwata ko mu akaunta yo eya &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Elinya lya Akaunti">
+<!ENTITY sync.input.password.label "Ekisumuluzo">
+<!ENTITY sync.input.key.label "Akasumuluzo Kange Akazaobujja">
+<!ENTITY sync.checkbox.server.label "Kozesa engabizi jjewetegekedde">
+<!ENTITY sync.input.server.label "URL Yengabizi">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Tekisoboka okutegeka &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; tesoobode kuyunga ku ngabizi. Wandiyagade okugezako nate?">
+<!ENTITY sync.button.tryagain.label "Ddamu ogezeeko">
+<!ENTITY sync.button.manual.label "Okwetegekera">
+<!ENTITY sync.subtitle.nointernet.label "Tewali mukutu gwa yintanet guliwo.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Okutekamu Kuwede">
+<!ENTITY sync.subtitle.success.label "Bwino wo kati awanulwa emabega. Oyinza okugenda muntegeka oku dukanya akaunta yo.">
+<!ENTITY sync.settings.label "Enteegeka">
+<!ENTITY sync.subtitle.manage.label "Akaunta yo eya &syncBrand.fullName.label; ewede okutegeka. Genda mu ntegeka okudukanya akaunta yo.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Bambi gezako nate.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Okweroboza">
+<!ENTITY sync.summary.pair.label "Yunga ekyuma ekirala ku akaunta yo eya &syncBrand.shortName.label;">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Sazaamu">
+<!ENTITY sync.button.connect.label "Yunga">
+<!ENTITY sync.button.ok.label "OK">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Obulambe Obulondwako">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Ta'aga">
+<!ENTITY bookmarks.folder.toolbar.label "Akabawo Kebikola">
+<!ENTITY bookmarks.folder.unfiled.label "Obulambe Obutannasunsulwa">
+<!ENTITY bookmarks.folder.desktop.label "Obulambe bwo Kumeza">
+<!ENTITY bookmarks.folder.mobile.label "Obulambe Obukyuka">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Akaunta emu yoka eya &syncBrand.fullName.label; ewagirwa.">

@@ -60,7 +60,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Ekibanja kikkiriza okusaba kw'enkwataganya mu ngeri etasuubirwa era akanoonya tekasobodde kweyongerayo.</p>">
 
 <!ENTITY nssFailure2.title "Okunnyungibwa Okwesigika Kuganye">
-<!ENTITY nssFailure2.longDesc "<p>Omuko gw'ogezaako okulaba teguyinza kulagibwa, kubanga ensibuko y'ebiwandiiko tesoobola kukakasibbwa .</p><ul><li>Bambi tukirira bananyini kibanja kino okubategeeza ku kizibu kino.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Omuko gw'ogezaako okulaba teguyinza kulabibwa, kubanga ensibuko y'ebiwandiiko tesoobola kukakasibbwa .</p><ul><li>Bambi tukirira bananyini kibanja kino okubategeeza ku kizibu kino.</li></ul>">
 
 <!ENTITY nssBadCert.title "Okunnyungibwa Okwesigika Kugaanye">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

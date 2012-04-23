@@ -41,7 +41,7 @@
 # LOCALIZATION NOTE (bookmarks_support):
 
 
-# link title for https://support.mozilla.com/mobile
+# link title for https://support.mozilla.org/mobile
 
 
 #define bookmarks_support Firefox: Okwa Obuyambi

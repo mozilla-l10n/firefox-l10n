@@ -14,7 +14,13 @@ ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyam
 <!ENTITY aboutSupport.appBasicsTitle "Ebyangu ku plogulaamu">
 <!ENTITY aboutSupport.appBasicsName "Erinnya">
 <!ENTITY aboutSupport.appBasicsVersion "Enkola">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Eteerekero Lya Profailo">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Ebaasa yo´Omukoozesa">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ebyongerwamu ebitandikidwa">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Zzimba Entekateka">
 <!ENTITY aboutSupport.appBasicsUserAgent "Akayamba Omukozesa">
@@ -25,7 +31,6 @@ ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyam
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Laga mu Kizuula">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
@@ -36,6 +41,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Omuwendo">
 
 <!ENTITY aboutSupport.graphicsTitle "Ebifananyi">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC Ekula">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Enkola eyomu Terekero">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Ebifudeyo mu Kutekamu">
 <!ENTITY aboutSupport.updateHistoryTitle "Ebyayita Ebijja">

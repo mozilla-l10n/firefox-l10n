@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Obulambe">
 <!ENTITY  locbar.nothing.label          "Tewali">
 
-
 <!ENTITY  acceptCookies.label           "Kkiriza kkuki kuva kubibanja">
 <!ENTITY  acceptCookies.accesskey       "k">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Kozesanga okunonya okutongozeddwa ebiseera byoona">
 <!ENTITY  privateBrowsingPermanent2.accesskey "k">
 
-<!ENTITY  rememberHistory.label      "Jukira ebifudeyo mu kunonya kwange">
-<!ENTITY  rememberHistory.accesskey  "a">
-
-<!ENTITY  rememberDownload.label         "Jjukira owanule ebyafaayo">
-<!ENTITY  rememberDownload.accesskey     "o">
+<!ENTITY  rememberHistory2.label      "Jjukira ebifudeyo mu kunoonya no okutikula kwange ">
+<!ENTITY  rememberHistory2.accesskey  "u">
 
 <!ENTITY  rememberSearchForm.label       "Jjukira enonyeddwa nebi genze mu fomu">
 <!ENTITY  rememberSearchForm.accesskey   "f">

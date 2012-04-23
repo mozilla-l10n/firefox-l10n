@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Munkola Etalina Mutawana">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Yegadewo Nga Tekisubirwa Nga Etandika">
+<!ENTITY autoSafeModeDescription.label "Onotusunyiwa olwokusumbuwa kwona. &brandShortName; kakati edukira mu Safe Mode, ejjako entegeka zo, endabika ne byongerwako.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; likozesebwa Munkola Etaliimu Mutawaana, eyimiriza enteekateekayo mukiseera ekitono, omulamwa, n'ebyongerwako.">
 <!ENTITY safeModeDescription2.label   "Oyinza okukola ezimu oba enkyukakyuka zino zonna ez'enkalakkalira:">
 
