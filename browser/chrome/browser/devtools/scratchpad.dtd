@@ -85,8 +85,9 @@
 <!ENTITY helpMenuWin.label            "Help">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "Scratchpadhelp op MDN">
+<!ENTITY documentationLink.label      "Kladblokhulp op MDN">
 <!ENTITY documentationLink.accesskey  "D">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
