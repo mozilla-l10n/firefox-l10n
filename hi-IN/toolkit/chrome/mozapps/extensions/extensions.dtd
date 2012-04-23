@@ -191,3 +191,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "स्वीकारें और संस्थापित करें…">
+
+<!ENTITY search.commandkey                    "f">
