@@ -1,5 +1,5 @@
 <!ENTITY window.title "Bem vindo aoo &brandShortName;">
-<!ENTITY header.label "Quer um novo endereço de correio para o &brandShortName;?">
+<!ENTITY header2.label "Quer um novo endereço de correio?">
 <!ENTITY other.languages "Apenas estamos a fornecer fornecedores que oferecem endereços na sua área.  Clique aqui para mostrar todos os fornecedores.">
 <!ENTITY error.line1 "Desculpe, não conseguimos encontrar nenhuma sugestão de endereço de correio.">
 <!ENTITY error.line2 "Pode experimentar procurar alcunhas ou outro termo para encontrar mais nomes">
