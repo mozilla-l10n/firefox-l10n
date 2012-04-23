@@ -74,11 +74,6 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "A capo dopo immagini">
 <!ENTITY insertBreakAllCmd.accesskey "o">
-<!ENTITY spellCheckNoSuggestions.label "(Nessun suggerimento)">
-<!ENTITY spellCheckIgnoreWord.label "Ignora la parola">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Aggiungi al dizionario">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Crea collegamento…">
 <!ENTITY createLinkCmd.accesskey "o">
 <!ENTITY editLinkCmd.label "Modifica collegamento in Composer">
