@@ -8,10 +8,10 @@
 <!ENTITY  crash_message "&brandShortName; ezikiridde. Awadirira wo walina okuba ku lukala lwa &brandShortName; Tandika omuko nga kompyuta etandise nate.">
 <!ENTITY  crash_help_message "Bambi tuyambe okutereeza ensobi!">
 <!ENTITY  crash_send_report_message "Wereeza Mozilla alipota yokuzikirira">
-<!ENTITY  crash_include_url "Tekamu endagiriro y'omuko">
+<!ENTITY  crash_include_url "Tekamu endagiriro y\'omuko">
 <!ENTITY  crash_close_label "Ggalawo">
 <!ENTITY  crash_restart_label "Tandikka buto &brandShortName;">
-<!ENTITY  sending_crash_report "Okuweereza alipota yo'kuziikirira\u2026">
+<!ENTITY  sending_crash_report "Okuweereza alipota yo\'kuziikirira\u2026">
 <!ENTITY  exit_label "Fulumamu">
 <!ENTITY  continue_label "Weyongereyo">
 
