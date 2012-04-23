@@ -154,6 +154,8 @@
 <!ENTITY signIn.recoveryKey.label       "पुनर्पाप्ति कुँजी">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 
+<!ENTITY setup.pickSetupType.description2 "आपका स्वागत है! यदि आपने &syncBrand.fullName.label; को पहले कभी उपयोग नहीं किया है, तो आपको नया खाता बनाना होगा.">
+
 
 
 

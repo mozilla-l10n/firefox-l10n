@@ -49,3 +49,7 @@
 <!ENTITY pairDevice.label             "युक्ति युग्मित करें">
 <!ENTITY unlinkDevice.label           "इस युक्ति को कड़ीविहीन करें">
 
+
+<!ENTITY changePassword2.label        "कूटशब्द बदलें…">
+<!ENTITY resetSync2.label             "सिंक फिर सेट करें…">
+
