@@ -19,14 +19,14 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "ನಿರ್ಮಾಣದ ಸಂರಚನೆ">
 <!ENTITY aboutSupport.appBasicsUserAgent "ಬಳಕೆದಾರ ಮಧ್ಯವರ್ತಿ">
 
-<!ENTITY aboutSupport.show.label "ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ">
+<!--ENTITY aboutSupport.show.label "ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ"-->
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "ಶೋಧಕದಲ್ಲಿ ತೋರಿಸು">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "ಮಾರ್ಪಡಿಸಲಾದ ಆದ್ಯತೆಗಳು">
+<!--ENTITY aboutSupport.modifiedPrefsTitle "ಮಾರ್ಪಡಿಸಲಾದ ಆದ್ಯತೆಗಳು"-->
 <!ENTITY aboutSupport.modifiedPrefsName "ಹೆಸರು">
 <!ENTITY aboutSupport.modifiedPrefsValue "ಮೌಲ್ಯ">
 
@@ -35,4 +35,13 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "ಅನುಸ್ಥಾಪನಾ ಇತಿಹಾಸ">
 <!ENTITY aboutSupport.updateHistoryTitle "ಅಪ್‌ಡೇಟ್‌ ಇತಿಹಾಸ">
 
-<!ENTITY aboutSupport.copyToClipboard.label "ಎಲ್ಲವನ್ನೂ ಕ್ಲಿಪ್‌ಬೋರ್ಡಿಗೆ ಕಾಪಿ ಮಾಡು">
+<!ENTITY aboutSupport.copyToClipboard.label "ಎಲ್ಲವನ್ನೂ ಕ್ಲಿಪ್‌ಬೋರ್ಡಿಗೆ ಪ್ರತಿ ಮಾಡು">
+<!ENTITY aboutSupport.appBasicsCrashIDs "ಕುಸಿತ ವರದಿಗಳು">
+<!ENTITY aboutSupport.appBasicsMemoryUse "ಮೆಮೊರಿಯ ಬಳಕೆ">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "ಪ್ರೊಫೈಲ್ ಕಡತಕೋಶ">
+<!ENTITY aboutSupport.jsIncrementalGC "ಏರಿಕೆಯ GC">
+    47 <!ENTITY aboutSupport.jsTitle "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‍">
+<!ENTITY aboutSupport.libraryVersionsTitle "ಲೈಬ್ರರಿ ಆವೃತ್ತಿಗಳು">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ಪ್ರಮುಖ ಮಾರ್ಪಡಿಕೆ ಮಾಡಲಾದ ಆದ್ಯತೆಗಳು">
+<!ENTITY aboutSupport.showDir.label "ಕೋಶವನ್ನು ತೆರೆ">
+ <!ENTITY aboutSupport.showWin.label "ಕಡತಕೋಶವನ್ನು ತೋರಿಸು">
