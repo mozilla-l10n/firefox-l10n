@@ -5,7 +5,7 @@
 <!ENTITY  no_space_to_start_error "Za zagon &brandShortName; ni na voljo dovolj pomnilnika.">
 <!ENTITY  error_loading_file "Med poizkusom nalaganja datoteke, ki so potrebne za zagon &brandShortName;, je prišlo do napake">
 
-<!ENTITY  awesomebar_all_pages_title "Najbolj obiskane strani">
+<!ENTITY  awesomebar_all_pages_title "Top strani">
 <!ENTITY  awesomebar_bookmarks_title "Zaznamki">
 <!ENTITY  awesomebar_history_title "Zgodovina">
 <!ENTITY  awesomebar_search_engine "Išči \&quot;&#037;s\&quot;">
@@ -53,7 +53,7 @@
 <!ENTITY pref_category_privacy "Zasebnost &amp; varnost">
 <!ENTITY pref_category_content "Vsebina">
 <!ENTITY pref_about_firefox "O &brandShortName;">
-<!ENTITY pref_do_not_track "Povej stranem, naj mi ne sledijo">
+<!ENTITY pref_do_not_track "Strani naj mi ne sledijo">
 <!ENTITY pref_telemetry "Pošiljaj podatke o zmogljivosti">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
 <!ENTITY pref_cookies "Omogoči piškote">
