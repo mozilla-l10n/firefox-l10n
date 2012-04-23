@@ -68,7 +68,7 @@
 <!ENTITY updateAuto.accesskey            "I">
 <!ENTITY updateCheck.label               "Kontroleer vir bywerkings, maar laat my kies of ek dit wil installeer">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateManual.label              "Moet nooi kontroleer vir bywerkings nie (sekuriteitsrisiko)">
+<!ENTITY updateManual.label              "Moet nooit kontroleer vir bywerkings nie (sekuriteitsrisiko)">
 <!ENTITY updateManual.accesskey          "n">
 
 <!ENTITY updateAutoAddonWarn.label       "Waarsku my as dit enige van my byvoegings sal deaktiveer">
