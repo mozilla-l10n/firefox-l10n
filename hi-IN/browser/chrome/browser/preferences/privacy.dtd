@@ -70,11 +70,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "हमेशा निजी ब्राउजिंग विधि का उपयोग करें">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "मेरे ब्राउज़िंग इतिहास याद रखें">
-<!ENTITY  rememberHistory.accesskey  "b">
 
-<!ENTITY  rememberDownload.label         "डाउनलोड इतिहास याद रखें">
-<!ENTITY  rememberDownload.accesskey     "d">
+
 
 <!ENTITY  rememberSearchForm.label       "खोज और फ़ॉर्म इतिहास याद रखें">
 <!ENTITY  rememberSearchForm.accesskey   "f">

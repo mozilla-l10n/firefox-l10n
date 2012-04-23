@@ -98,7 +98,7 @@
 <!ENTITY continueUsing.label "आप &brandShortName; का उपयोग करना जारी रख सकते हैं.">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करें कि आप रोबोट नहीं हैं">
+
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 
 <!ENTITY addDevice.showMeHow.label          "मुझे दिखाएँ कि कैसे.">
@@ -151,10 +151,6 @@
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;आपकी गोपनीयता का सम्मान करता है">
 
-
-#<!ENTITY setup.pickSetupType.description "आपका स्वागत है, यदि आपने कभी भी पहले &syncBrand.fullName.label; का उपयोग नहीं किया है, आपको नया खाता बनाने की जरूरत है.">
-
-<!ENTITY setup.pickSetupType.description2 "आपका स्वागत है! यदि आपने &syncBrand.fullName.label; को पहले कभी उपयोग नहीं किया है, आपको एक खाता खोलने की जरूरत होगी.">
 <!ENTITY signIn.recoveryKey.label       "पुनर्पाप्ति कुँजी">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 
