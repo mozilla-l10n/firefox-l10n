@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Ga &brandShortName;\u2026 kayandi">
+<!ENTITY  splash_settingup "Setting up your &brandShortName;">
+<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
 
 <!ENTITY  no_space_to_start_error "Doo barantaa ši wasa &brandShortName; tunandiroo še.">
 <!ENTITY  error_loading_file "Firka foo bangay waati kaŋ a ceeci ka tukey zumandi kaŋ ka waažibi &brandShortName; dirandiroo še">
@@ -23,13 +24,17 @@
 <!ENTITY  launcher_shortcuts_title "&brandShortName; web porogaramey ">
 <!ENTITY  launcher_shortcuts_empty "Web porogaram kul ši duwandi">
 
-<!ENTITY choose_file "Tuku suuba">
+<!ENTITY choose_file "Choose File">
 
 <!ENTITY awesomebar_default_text "Ceeciyan wala aderesu dam">
+
+<!ENTITY remote_tabs "Synced Tabs">
+<!ENTITY remote_tabs_show_all "Show all tabs">
 
 <!ENTITY bookmark "Doo-šilbay">
 <!ENTITY bookmark_added "Doo-šilbay tontonandi">
 <!ENTITY bookmark_removed "Doo-šilbaa tuusandi">
+<!ENTITY bookmark_updated "Bookmark updated">
 
 <!ENTITY history_today_section "Hõ">
 <!ENTITY history_yesterday_section "Bi">
@@ -79,12 +84,19 @@
 <!ENTITY char_encoding "Harfu hawyan">
 
 <!ENTITY share "Žemna">
+<!ENTITY share_title "Share via">
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
 
 <!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
 <!ENTITY contextmenu_remove_bookmark "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
+<!ENTITY contextmenu_edit_bookmark "Edit">
+
+<!ENTITY bookmark_edit_title "Doo-šilbaa fasal">
+<!ENTITY bookmark_edit_name "Maa">
+<!ENTITY bookmark_edit_location "Gorodoo">
+<!ENTITY bookmark_edit_keyword "Kufalkalima">
 
 <!ENTITY site_settings_title        "Nungoo kayandiyaney tuusu">
 <!ENTITY site_settings_cancel       "Naŋ">
@@ -108,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "War ši nungu kaasayaŋ kul jina. Tiira-maa žeeroo naagu ka naarumi šintin.">
 <!ENTITY abouthome_about_sync "Firefox Sync kayandi ka duu doo-šilbawey, taarikoo nda nor lokey war jinay taney ga">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Choose File">
+<!ENTITY filepicker_audio_title "Choose or record a sound">
+<!ENTITY filepicker_image_title "Choose or take a picture">
+<!ENTITY filepicker_video_title "Choose or record a video">

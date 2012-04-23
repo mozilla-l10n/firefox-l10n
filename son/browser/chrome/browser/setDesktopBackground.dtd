@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Cenbu">
 <!ENTITY center.label               "Game">
 <!ENTITY stretch.label              "Cendi">
+<!ENTITY fill.label                 "Fill">
+<!ENTITY fit.label                  "Fit">
 <!ENTITY preview.label              "Jineguna">
 <!ENTITY color.label                "Noone:">
 <!ENTITY setDesktopBackground.title "Goytaabal bandafaari kayandi">

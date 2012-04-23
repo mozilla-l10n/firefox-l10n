@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "Fasal">
 <!ENTITY editMenu.accesskey           "F">
 
-<!ENTITY undoCmd.label                "Taafeeri">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "T">
-
-<!ENTITY redoCmd.label                "Tee taaga">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "T">
-
-<!ENTITY cutCmd.label                 "Dunbu">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "D">
-
-<!ENTITY copyCmd.label                "Berandi">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "B">
-
-<!ENTITY pasteCmd.label               "Dobu">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "D">
-
-<!ENTITY selectAllCmd.label           "Kul suuba">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "K">
-
-<!ENTITY findCmd.label                "Ceeci…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "C">
-
-<!ENTITY findAgainCmd.label           "Ceeci koyne...">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "k">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Sar žeero ga…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "S">
-
 <!ENTITY run.label                    "Dirandi">
 <!ENTITY run.accesskey                "r">
 <!ENTITY run.key                      "r">
@@ -120,9 +76,21 @@
 
 <!ENTITY browserContext.label         "Ceecikaw">
 <!ENTITY browserContext.accesskey     "w">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+
+<!ENTITY helpMenu.label               "Help">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Help">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
+<!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+
 
 <!ENTITY resetContext2.label          "Barmayantey yeeti">
 <!ENTITY resetContext2.accesskey      "t">

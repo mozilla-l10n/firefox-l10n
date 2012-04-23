@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Doo-šilbawey">
 <!ENTITY  locbar.nothing.label          "Baffoo">
 
-
 <!ENTITY  acceptCookies.label           "Dogey aleewawey taa">
 <!ENTITY  acceptCookies.accesskey       "t">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Wa goy sutura naarumi alhaali ra waati kul">
 <!ENTITY  privateBrowsingPermanent2.accesskey "s">
 
-<!ENTITY  rememberHistory.label      "Honga ay naarumi taarikoo">
-<!ENTITY  rememberHistory.accesskey  "g">
-
-<!ENTITY  rememberDownload.label         "Honga zumandiyan taariki">
-<!ENTITY  rememberDownload.accesskey     "z">
+<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Honga ceeci nda takari taariku">
 <!ENTITY  rememberSearchForm.accesskey   "t">

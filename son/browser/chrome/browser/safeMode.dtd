@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; saajaw alhaali">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Closed Unexpectedly While Starting">
+<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; ga dira saajaw alhaali ra, kaŋ ga war boŋ-hanseyaney, furarey nda dobuyaney kayandi waati kayna še.">
 <!ENTITY safeModeDescription2.label   "War ga hin ka barmawey jerey wala ikul tee duumante:">
 
