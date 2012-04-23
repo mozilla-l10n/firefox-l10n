@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Responde ao remetente e a todos os destinatários">
 <!ENTITY hdrReplyListButton1.label "Responder à lista">
 <!ENTITY hdrReplyListButton1.tooltip "Responder a lista de correio">
+<!ENTITY hdrFollowupButton1.label "Responder">
+<!ENTITY hdrFollowupButton1.tooltip "Responder a este grupo de discussão">
 <!ENTITY hdrForwardButton1.label "Reencaminhar">
 <!ENTITY hdrForwardButton1.tooltip "Reencaminha esta mensagem">
 <!ENTITY hdrJunkButton1.label "Lixo">

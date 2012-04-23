@@ -1,11 +1,11 @@
-<!ENTITY itemJunk.label          "Lixo Electrónico">
+<!ENTITY itemJunk.label          "Lixo Eletrónico">
 <!ENTITY itemPhishing.label      "Mensagens de Engodo">
 <!ENTITY itemPasswords.label     "Senhas">
 <!ENTITY itemAntiVirus.label     "Anti-vírus">
 <!ENTITY itemCookies.label       "Conteúdo web">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Configure as suas pré-definições para o lixo electrónico. Configurações específicas de lixo electrónico podem ser efectuadas nas configurações de conta.">
+<!ENTITY junkMail.intro "Configure as suas pré-definições para o lixo eletrónico. Configurações específicas de lixo eletrónico podem ser efectuadas nas configurações de conta.">
 <!ENTITY manualMark.label "Quando marcar uma mensagem como lixo:">
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Movê-las para a pasta &quot;Lixo&quot; da conta">
@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "l">
 <!ENTITY markAsReadOnSpam.label "Marcar as mensagens marcadas como lixo, como lidas">
 <!ENTITY markAsReadOnSpam.accesskey "m">
-<!ENTITY enableJunkLogging.label "Activar o registo do filtro do lixo">
-<!ENTITY enableJunkLogging.accesskey "x">
+<!ENTITY enableAdaptiveJunkLogging.label "Ativar o registo inteligente do filtro do lixo">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "x">
 <!ENTITY openJunkLog.label "Mostrar Registo">
 <!ENTITY openJunkLog.accesskey "g">
 <!ENTITY resetTrainingData.label "Reiniciar dados de treino">
@@ -52,7 +52,7 @@
 <!ENTITY expire.label                   "que expirem">
 <!ENTITY close.label                    "eu fechar o &brandShortName;">
 <!ENTITY askEachTime.label              "perguntar-me sempre">
-<!ENTITY cookieExceptions.label         "Excepções…">
+<!ENTITY cookieExceptions.label         "Exceções…">
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Mostrar Cookies…">
 <!ENTITY showCookies.accesskey          "s">

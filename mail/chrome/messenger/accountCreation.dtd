@@ -5,7 +5,7 @@
 <!ENTITY name.text                       "O seu nome, como apresentado aos outros">
 <!ENTITY email.label                     "Endereço de correio:">
 <!ENTITY email.accesskey                 "n">
-<!ENTITY email.placeholder               "correio@examplo.com">
+<!ENTITY email.placeholder               "correio@exemplo.com">
 <!ENTITY password.label                  "Senha:">
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Senha">
@@ -33,8 +33,8 @@
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label               "Configuração avançada…">
-<!ENTITY advancedSetup.accesskey           "a">
+<!ENTITY advancedSetup.label             "Configuração avançada…">
+<!ENTITY advancedSetup.accesskey         "a">
 <!ENTITY cancel.label                    "Cancelar">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Continuar">
@@ -62,11 +62,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Eu compreendo os riscos.">
 <!ENTITY confirmWarning.accesskey        "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Criar conta">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY doneAccount.label               "Feito">
+<!ENTITY doneAccount.accesskey           "F">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
@@ -79,6 +79,6 @@
 <!ENTITY insecureServer.tooltip.title    "Aviso! Este servidor não é seguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">
 
-<!ENTITY insecureUnencrypted.description   "O seu correio electrónico e a autenticação são enviados sem cifra, assim a sua senha (e a sua mensagem) podem ser facilmente lidos por outras pessoas. O &brandShortName; deixa-o obter o seu correio, mas devia contactar o seu fornecedor de correio para configurar o servidor com uma ligação segura.">
+<!ENTITY insecureUnencrypted.description "O seu correio electrónico e a autenticação são enviados sem cifra, assim a sua senha (e a sua mensagem) podem ser facilmente lidos por outras pessoas. O &brandShortName; deixa-o obter o seu correio, mas devia contactar o seu fornecedor de correio para configurar o servidor com uma ligação segura.">
 <!ENTITY insecureSelfSigned.description  "O servidor usa um certificado que não é de confiança, por isso não podemos ter a certeza se alguém está a interceptar o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; deixa-o obter o seu correio, mas devia contactar o seu fornecedor de correio para configurar o servidor com um certificado de confiança.">
 <!ENTITY secureServer.description        "Parabéns! Este servidor é seguro.">
