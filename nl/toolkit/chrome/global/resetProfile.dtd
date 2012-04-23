@@ -3,12 +3,11 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY resetProfile.dialog.title        "&brandShortName; herinitialiseren">
-<!ENTITY resetProfile.dialog.description  "Weet u zeker dat u &brandShortName; wilt herinitialiseren naar de initiële staat?">
+<!ENTITY resetProfile.dialog.description  "Weet u zeker dat u &brandShortName; naar de oorspronkelijke toestand wilt herinitialiseren?">
 <!ENTITY resetProfile.dialog.items.label  "Het volgende wordt behouden:">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; zal herstarten en al het andere wordt verwijderd.">
 <!ENTITY resetProfile.dialog.button.label "&brandShortName; herinitialiseren">
 
-<!ENTITY resetProfile.title               "&brandShortName; herinitialiseren naar de standaard staat">
-<!ENTITY resetProfile.description         "Als u onoplosbare problemen heeft, start fris met alleen uw essentiële informatie.">
+<!ENTITY resetProfile.title               "&brandShortName; herinitialiseren naar de standaardtoestand">
+<!ENTITY resetProfile.description         "Als u grote en onoplosbare problemen ondervindt, begin dan opnieuw met alleen uw essentiële gegevens.">
 <!ENTITY resetProfile.button.label        "&brandShortName; herinitialiseren">
-
