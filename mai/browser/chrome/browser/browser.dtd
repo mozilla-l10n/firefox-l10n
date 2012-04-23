@@ -67,15 +67,6 @@
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY  listAllTabs.label      "सभटा टैब सूचीबद्ध  करू ">
@@ -688,12 +679,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectMenu.label            "जाँचू">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
-
-
-<!ENTITY inspectButton.label          "जाँचू">
-<!ENTITY inspectButton.accesskey      "I">
-
-
 
 
 
