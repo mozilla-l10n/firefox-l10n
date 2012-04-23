@@ -13,7 +13,7 @@
 
 <!ENTITY abouthome.searchEngineButton.label "खोजू">
 
-<!ENTITY abouthome.aboutMozilla "मोजिल्लाक परिचय">
+<!ENTITY abouthome.aboutMozilla "मोजिला परिचय">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -23,3 +23,13 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "अपन फायरफाक्सकेँ मनपसिन्न बनैनाइ बेसी आसान अछि जहिना अहाँक मन करैछ. <a>हजारसँ बेसी सहयुक्तिसभसँ चुनू</a>.">
+
+<!ENTITY abouthome.bookmarksButton.label "पुस्तकचिह्न">
+<!ENTITY abouthome.historyButton.label   "इतिहास">
+<!ENTITY abouthome.settingsButton.label  "सेटिंग्स">
+<!ENTITY abouthome.addonsButton.label    "सहयुक्ति">
+<!ENTITY abouthome.appsButton.label      "मार्केटप्लेस">
+<!ENTITY abouthome.downloadsButton.label "डाउनलोड">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;

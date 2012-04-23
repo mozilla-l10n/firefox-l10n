@@ -6,23 +6,23 @@
 <!ENTITY community.middle2          ", एकटा ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "वैश्विक समुदायक द्वारा">
-<!ENTITY community.end2             " जे इंटरनेट केँ लगातार बेहतर बनाबै क लेल एकेसँग काज करैत अछि. हमार भरोस अछि जे इंटरनेट केँ सभ लोकनिक लेल बिनु कोनो प्रतिबंधक मुक्त, सार्वजनिक आओर पहुँच योग्य होनाइ चाही.">
+
 
 <!ENTITY contribute.start           "सच्चे नीक गप्प? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "शामिल होउ!">
+<!ENTITY contribute.getInvolvedLink "जुड़ू!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "ला एकर सिंक सूचना">
+<!ENTITY bottomLinks.license        "लाए एकर सिंक सूचना">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "अंत्य प्रयोक्ता बेसी">
+<!ENTITY bottomLinks.rights         "अंत प्रयोक्ता बेसी">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "अहाँ अखन एतए छी ">
+<!ENTITY channel.description.start  "अहाँ अखन एतए अछि ">
 <!ENTITY channel.description.end    " चैनल अद्यतन करू. ">
 
 
@@ -52,7 +52,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "अद्यतन एतय उपलब्ध छी ">
+<!ENTITY update.manual.start        "अद्यतन एतय मोजुद अछि ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -62,6 +62,21 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "अद्यतन डाउनलोड कए रहल अछि — ">
 <!ENTITY update.downloading.end     "">
+
+<!ENTITY community.end3             " जे वेब केँ खुलल, सार्वजनिक आओर सभटाक पहुँचक लेल बनए रहै देबाक लेल काज करैत अछि.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " एकगोट ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "वैश्विक समुदाय अछि">
+<!ENTITY community.exp.end          " जे वेब केँ खुलल, सार्वजनिक आओर सभटाक पहुँचक लेल बनए रहै देबाक लेल काज करैत अछि.">
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; प्रायोगिक स्तर पर अछि आओर अस्थिर भए सकैत अछि.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "ई स्वतः जाँच सूचना &vendorShortName; केँ भेजैत अछि जाहिसँ &brandShortName;आओर नीक बनि सकै.">
 
 
 

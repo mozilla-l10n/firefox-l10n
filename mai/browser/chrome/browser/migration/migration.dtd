@@ -7,11 +7,10 @@
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label "किछु आयात नहि करू (D)">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "नेटस्केप 6, 7 अथवा मोज़िला 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
 
-<!ENTITY importFromOpera.label "ओपेरा">
-<!ENTITY importFromOpera.accesskey "O">
+
+
+
 
 <!ENTITY importFromSafari.label "सफारी">
 
@@ -26,7 +25,7 @@
 <!ENTITY importItems.title "आयातक वस्तुसभ">
 <!ENTITY importItems.label "आयातक वस्तुक चयन  करू ">
 <!ENTITY migrating.title "आयात कए रहल अछि ...">
-<!ENTITY migrating.label "वर्तमान मे ई वस्तुसभ आयात कएल जाए रहल अछि ...">
+<!ENTITY migrating.label "अखन ई वस्तुसभ आयात कएल जाए रहल अछि ...">
 <!ENTITY selectProfile.title "प्रोफाइलक चयन करू ">
 <!ENTITY selectProfile.label "एतयसँ आयात करबाक लेल ई प्रोफाइल उपलब्ध अछि :">
 <!ENTITY done.title "आयात संपन्न">
@@ -35,4 +34,10 @@
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
 <!ENTITY importFromSafari.accesskey     "S">
+
+<!ENTITY importFromFirefox.label        "फायरफाक्स">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromChrome.label         "क्रोम">
+<!ENTITY importFromChrome.accesskey     "C">
+
 
