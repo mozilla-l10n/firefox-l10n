@@ -44,7 +44,7 @@
 <!ENTITY connectionSettings.label        "सेटिंग…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "आफलाइन भंडार">
+
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -58,21 +58,11 @@
 
 <!ENTITY updateTab.label                 "अद्यतन  करू ">
 
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableAddonsUpdate2.label       "सहयुक्ति">
-
-<!ENTITY autoCheck.label                 "एतय अद्यतनक लेल स्वतः जाँचू:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "जखन &brandShortName; क अद्यतन पाओल जाएत  अछि :">
-<!ENTITY askMe.label                     "हमरासँ पूछू जे हम की चाहैत छी">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "अद्यतन स्वतः डाउनलोड कए स्थापित  करू ">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "हमरा चेताउ जँ एकरासँ हमर कोनो सहयुक्ति निष्क्रिय होइछ">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+
+
+
 <!ENTITY updateHistory.label             "अद्यतन इतिहास देखाउ">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -81,7 +71,7 @@
 <!ENTITY offlineNotifyExceptions.label   "अपवाद…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "निम्नलिखित वेबसाइट आफलाइन प्रयोगक लेल आँकड़ा जमा कएने अछि:">
+
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाउ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -124,3 +114,22 @@
 
 <!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधनकेँ अधिरोहित  करू ">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY updateAuto.label                "अद्यतन स्वतः संस्थापित करू (अनुशंसित: आओर नीक सुरक्षा)">
+<!ENTITY updateAuto.accesskey            "A">
+
+<!ENTITY updateAutoAddonWarn.label       "हमरा चेताउ जँ ई कोनो सहयुक्ति केँ निष्क्रिय करैत अछि">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateCheck.label               "अद्यतन जाँचू मुदा हमरा चुनै दिअ जे कतए ओकरा संस्थापित कएनाइ अछि">
+<!ENTITY updateCheck.accesskey           "C">
+
+<!ENTITY updateManual.label              "अद्यतन क लेल कखनो नहि जाँचू (अनुशंसित नहि: सुरक्षा जोखिम)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateOthers.label              "स्वतः अद्यतन:">
+
+<!ENTITY useService.label                "अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू">
+<!ENTITY useService.accesskey            "b">
+
+

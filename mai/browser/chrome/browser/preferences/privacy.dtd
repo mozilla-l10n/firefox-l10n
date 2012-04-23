@@ -59,8 +59,6 @@
 
 
 
-<!ENTITY  rememberDownload.label         "डाउनलोड इतिहास याद राखू">
-<!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  rememberSearchForm.label       "खोज आओर फार्म इतिहास याद राखू">
 <!ENTITY  rememberSearchForm.accesskey   "f">
@@ -106,9 +104,8 @@
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न">
 <!ENTITY  locbar.nothing.label          "किछु नहि">
 
-
-<!ENTITY  rememberHistory.label      "हमर ब्राउजिंग इतिहास याद राखू">
-<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "हमर ब्राउजिंग आओर डाउनलोड इतिहास याद राखू">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 
 

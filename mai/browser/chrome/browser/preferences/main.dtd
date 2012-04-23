@@ -9,8 +9,7 @@
 <!ENTITY useCurrentPage.label      " मोजुदा पृष्ठक प्रयोग  करू ">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         " मोजुदा पृष्ठक प्रयोग  करू ">
-<!ENTITY useBookmark.label         "पुस्तकचिह्नक प्रयोग  करू ">
-<!ENTITY useBookmark.accesskey     "B">
+
 <!ENTITY restoreDefault.label      "पूर्वनिर्धारित मे फेर जमा  करू ">
 <!ENTITY restoreDefault.accesskey  "R">
 
@@ -36,3 +35,8 @@
 <!ENTITY manageAddons.accesskey        "M">
 <!ENTITY homepage.label            "पहिल पन्ना:">
 <!ENTITY homepage.accesskey        "P">
+
+<!ENTITY chooseBookmark.label      "पुस्तकचिह्नक प्रयोग करू…">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreOnDemand.label     "जखन तकि चुनल नहि जाए टैब लोड नहि करू">
+<!ENTITY restoreOnDemand.accesskey "l">
