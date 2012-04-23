@@ -79,9 +79,9 @@
 <!ENTITY perm.UseDefault "Utilizza predefiniti">
 <!ENTITY perm.AskAlways "Chiedi ogni volta">
 <!ENTITY perm.NeverSave "Non salvare mai">
-<!ENTITY perm.Allow "Accetta">
+<!ENTITY perm.Allow "Permetti">
 <!ENTITY perm.AllowSameDomain "Permetti per lo stesso dominio">
-<!ENTITY perm.AllowSession "Accetta per la sessione">
+<!ENTITY perm.AllowSession "Permetti per la sessione">
 <!ENTITY perm.Block "Blocca">
 <!ENTITY perm.host.placeholder "Inserisci nome host">
 <!ENTITY perm.button.add.label "Aggiungi">

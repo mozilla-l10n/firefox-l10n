@@ -1,6 +1,6 @@
 <!ENTITY popupWindowRejectCmd.label "Respingi pop-up da questo sito">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label "Consenti pop-up da questo sito">
+<!ENTITY popupWindowAllowCmd.label "Permetti pop-up da questo sito">
 <!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Apri in nuova finestra">
 <!ENTITY openLinkCmd.accesskey "A">
