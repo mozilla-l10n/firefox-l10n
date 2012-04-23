@@ -7,7 +7,7 @@
 <!ENTITY accountManager.close.accesskey "Z">
 <!ENTITY accountManager.close.commandkey "a">
 <!ENTITY accountManager.noAccount.title "Brak skonfigurowanych kont">
-<!ENTITY accountManager.noAccount.description "Skorzystaj z przycisku „&accountManager.newAccount.label;”, aby program &brandShortName; pomógł przeprowadzić Ciebie przez proces konfiguracji konta.">
+<!ENTITY accountManager.noAccount.description "Skorzystaj z przycisku „&accountManager.newAccount.label;”, aby skonfigurować konto czatu w programie &brandShortName;.">
 <!ENTITY account.autoSignOn.label "Loguj przy starcie">
 <!ENTITY account.autoSignOn.accesskey "L">
 <!ENTITY account.connect.label "Połącz">
