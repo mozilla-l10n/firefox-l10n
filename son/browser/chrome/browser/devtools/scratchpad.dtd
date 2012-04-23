@@ -80,12 +80,12 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Help">
-<!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "Help">
-<!ENTITY helpMenuWin.accesskey        "H">
+<!ENTITY helpMenu.label               "Faaba">
+<!ENTITY helpMenu.accesskey           "b">
+<!ENTITY helpMenuWin.label            "Faaba?">
+<!ENTITY helpMenuWin.accesskey        "b">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
+<!ENTITY documentationLink.label      "Gaasadew faaba MDN ga">
 <!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

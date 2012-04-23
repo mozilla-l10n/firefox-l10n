@@ -39,8 +39,8 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; saajaw alhaali">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; Closed Unexpectedly While Starting">
-<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; daaba bila nda šaawar tunandiroo waate">
+<!ENTITY autoSafeModeDescription.label "Wa hansa k'alhaa naŋ nda mise laalaa woo. &brandShortName; ga dira sohõ saajaw alhaali ra, kaŋ ga too war boŋ fasal kayandiyaney, furarey nda dobey ga kay waati foo.">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; ga dira saajaw alhaali ra, kaŋ ga war boŋ-hanseyaney, furarey nda dobuyaney kayandi waati kayna še.">
 <!ENTITY safeModeDescription2.label   "War ga hin ka barmawey jerey wala ikul tee duumante:">

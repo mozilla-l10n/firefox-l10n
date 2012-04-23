@@ -60,7 +60,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Nungoo na sankaa hãayano zaabi nda taka kaŋ mana hongandi, nda ceecikaa ši hin ka goy jine.</p>">
 
 <!ENTITY nssFailure2.title "Ciyari saajante kay">
-<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Moɲoo kaŋ war ga ceeci k'a guna ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi.</p><ul><li>Taare war Interneti nungu koyey šaawar ka šendaa woo alhabar tee i še.</li></ul>">
 
 <!ENTITY nssBadCert.title "Ciyari saajante kay">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

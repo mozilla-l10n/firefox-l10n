@@ -18,7 +18,7 @@ ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney še
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Alhaali foolo">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Sukari tunantey">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cinari hanseyan">
@@ -42,9 +42,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Bii takarey">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Tonton cindi-kurmakaw">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "Tiirahugu dumey">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Taariki sinjiyan">
 <!ENTITY aboutSupport.updateHistoryTitle "Taariki taagandi">
