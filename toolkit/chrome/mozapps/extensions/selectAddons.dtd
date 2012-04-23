@@ -1,45 +1,45 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
-<!ENTITY checking.heading            "Checking Your Add-ons">
-<!ENTITY checking.progress.label     "Checking your add-ons for compatibility with this version of &brandShortName;.">
+<!ENTITY checking.heading            "ನಿಮ್ಮ ಆಡ್ಆನ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ">
+<!ENTITY checking.progress.label     "&brandShortName; ನ ಈ ಆವೃತ್ತಿಯೊಂದಿಗೆ ನಿಮ್ಮ ಆಡ್‌-ಆನ್‌ಗಳು ಹೊಂದಿಕೆಯಾಗುತ್ತವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ.">
 
-<!ENTITY select.heading              "Select Your Add-ons">
+<!ENTITY select.heading              "ನಿಮ್ಮ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಆರಿಸಿ">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
-<!ENTITY select.keep                 "Keep">
+<!ENTITY select.description          "ನೀವು ಬಳಸದೆ ಇರುವ ಆಡ್-ಆನ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವ ಮೂಲಕ &brandShortName; ಅನ್ನು ಇನ್ನೂ ವೇಗವಾಗಿಸಿ. ತರ್ಡ್ ಪಾರ್ಟಿಗಳಿಂದ ಅನುಸ್ಥಾಪಿಸಲಾದ ಆಡ್-ಆನ್‌ಗಳನ್ನು ನೀವು ಈ ಕೆಳಗೆ ಆಯ್ಕೆ ಮಾಡದೆ ಹೋದಲ್ಲಿ ಅವುಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳ್ಳುತ್ತವೆ.">
+<!ENTITY select.keep                 "ಇರಿಸಿಕೊ">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
-<!ENTITY select.action               "Action">
+<!ENTITY select.action               "ಕ್ರಿಯೆ">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
-<!ENTITY select.source               "Installed By">
-<!ENTITY select.name                 "Name">
+<!ENTITY select.source               "ಅನುಸ್ಥಾಪಿಸಿದ್ದು">
+<!ENTITY select.name                 "ಹೆಸರು">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
-<!ENTITY confirm.heading             "Select Your Add-ons">
+<!ENTITY confirm.heading             "ನಿಮ್ಮ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಆರಿಸಿ">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
+<!ENTITY confirm.description         "ನೀವು ಬಳಸದೆ ಇರುವ ಆಡ್-ಆನ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವ ಮೂಲಕ &brandShortName; ಅನ್ನು ಇನ್ನೂ ವೇಗವಾಗಿಸಿ. ತರ್ಡ್ ಪಾರ್ಟಿಗಳಿಂದ ಅನುಸ್ಥಾಪಿಸಲಾದ ಆಡ್-ಆನ್‌ಗಳನ್ನು ನೀವು ಈ ಕೆಳಗೆ ಆಯ್ಕೆ ಮಾಡದೆ ಹೋದಲ್ಲಿ ಅವುಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳ್ಳುತ್ತವೆ.">
 
-<!ENTITY action.disable.heading      "The following add-ons will be disabled:">
-<!ENTITY action.incompatible.heading "The following add-ons are disabled, but will be enabled as soon as they are compatible:">
-<!ENTITY action.update.heading       "The following add-ons will be updated:">
-<!ENTITY action.enable.heading       "The following add-ons will be enabled:">
+<!ENTITY action.disable.heading      "ಈ ಕೆಳಗಿನ ಆಡ್-ಆನ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ:">
+<!ENTITY action.incompatible.heading "ಈ ಕೆಳಗಿನ ಆಡ್-ಆನ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, ಆದರೆ ಅವು ಹೊಂದಿಕೆಯಾಗುತ್ತಿದ್ದಂತೆಯೆ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ:">
+<!ENTITY action.update.heading       "ಈ ಕೆಳಗಿನ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತದೆ:">
+<!ENTITY action.enable.heading       "ಈ ಕೆಳಗಿನ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ:">
 
-<!ENTITY update.heading              "Updating Your Add-ons">
-<!ENTITY update.progress.label       "Downloading and installing updates for your selected add-ons.">
+<!ENTITY update.heading              "ನಿಮ್ಮ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
+<!ENTITY update.progress.label       "ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ ಆಡ್-ಆನ್‌ಗಳಿಗಾಗಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಇಳಿಸಿಕೊಂಡು ನಂತರ ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ.">
 
-<!ENTITY errors.heading              "&brandShortName; could not update some of your add-ons.">
-<!ENTITY errors.description          "Installing updates for some of your add-ons failed. &brandShortName; will automatically try to update them again later.">
+<!ENTITY errors.heading              "&brandShortName; ನಿಂದ ನಿಮ್ಮ ಕೆಲವು ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.">
+<!ENTITY errors.description          "ನಿಮ್ಮ ಕೆಲವು ಆಡ್-ಆನ್‌ಗಳಿಗಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುವುದು ವಿಫಲಗೊಂಡಿದೆ. &brandShortName;  ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅವುಗಳನ್ನು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.">
 
-<!ENTITY footer.label                "You can always change your add-ons by going to the Add-ons Manager.">
-<!ENTITY cancel.label                "Cancel">
-<!ENTITY back.label                  "Back">
-<!ENTITY next.label                  "Next">
-<!ENTITY done.label                  "Done">
+<!ENTITY footer.label                "ಆಡ್-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕಕ್ಕೆ ತೆರಳಿ ಯಾವಾಗ ಬೇಕಿದ್ದರೂ ನಿಮ್ಮ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದಾಗಿರುತ್ತದೆ.">
+<!ENTITY cancel.label                "ರದ್ದುಗೊಳಿಸು">
+<!ENTITY back.label                  "ಹಿಂದಕ್ಕೆ">
+<!ENTITY next.label                  "ಮುಂದಕ್ಕೆ">
+<!ENTITY done.label                  "ಮುಗಿಯಿತು">
