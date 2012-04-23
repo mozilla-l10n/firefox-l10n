@@ -42,4 +42,5 @@
 <!ENTITY report.disabled                                     "Desactiváu informe de fallu.">
 <!ENTITY report.failed                                       "Falló l'unviu.">
 <!ENTITY report.unavailable                                  "Informe non disponible.">
-<!ENTITY clickToPlayPlugin                                   "Fai click equí p'activar el complementu.">
+<!ENTITY clickToPlayPlugins                                  "Calca equí p'activar los plugins.">
+<!ENTITY tapToPlayPlugin                                     "Toca equí p'activar el plugin.">
