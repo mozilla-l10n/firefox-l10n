@@ -49,3 +49,5 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+<!ENTITY aboutSupport.showDir.label "खुली निर्देशिका">
+<!ENTITY aboutSupport.showWin.label "फ़ोल्डर दिखाएँ">

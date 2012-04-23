@@ -81,3 +81,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग्स…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  rememberHistory2.label      "मेरे ब्राउज़िंग और डाउनलोड इतिहास याद रखें">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+

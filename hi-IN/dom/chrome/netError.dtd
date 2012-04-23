@@ -96,3 +96,7 @@
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट स्वामी को इस समस्या के बारे में सूचित करने के संपर्क करें.</li></ul></p>">
 
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY notCached.title "दस्तावेज़ का समय समाप्त">
+
