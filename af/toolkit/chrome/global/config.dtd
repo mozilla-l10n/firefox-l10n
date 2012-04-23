@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "Toemaar, ek sal versigtig wees.">
 <!ENTITY aboutWarningCheckbox.label "Wys volgende keer weer hierdie waarskuwing">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Soek:">
+<!ENTITY searchPrefs.accesskey "o">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
