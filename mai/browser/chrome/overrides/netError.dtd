@@ -138,7 +138,7 @@
 
 <!ENTITY malwareBlocked.title "संदेहास्पद हमला साइट!">
 <!ENTITY malwareBlocked.longDesc "
-<p>हमला साइट उन प्रोग्रामकेँ संस्थापित करबाक कोशिश करैत अछि जे निज सूचना चुराबै अछि, अहाँक कंप्यूटरक प्रयोग दोसर पर हमलाक लेल करैत अछि, अथवा अहाँक सिस्टम केँ क्षति पहुंचाबैत अछि.</p>
+<p>हमला साइट उन प्रोग्रामकेँ संस्थापित करबाक कोशिश करैत अछि जे निज जानकारी चुराबै अछि, अहाँक कंप्यूटरक प्रयोग दोसर पर हमलाक लेल करैत अछि, अथवा अहाँक सिस्टम केँ क्षति पहुंचाबैत अछि.</p>
 <p>वेब साइटक मालिक जे विश्वास करैत छी जे हुनका साइट ककरो गलतीक वजह सँ हमला साइटक रूपेँ रिपोर्ट कएल गेल अछि ओ <a href='http://www.stopbadware.org/home/reviewinfo' >समीक्षाक लेल आग्रह</a> कए सकैत अछि.</p>
 ">
 
@@ -181,4 +181,8 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
+
+
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "दस्तावेजक समय खतम भेल">
 
