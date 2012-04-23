@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Mbukmaak">
 <!ENTITY  locbar.nothing.label          "Hwee">
 
-
 <!ENTITY  acceptCookies.label           "Gye nkuki firi nsaet">
 <!ENTITY  acceptCookies.accesskey       "G">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Fa tebea praevet a wɔde brawse di dwuma abere biara">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Kae me brawsen abakɔsɛm">
-<!ENTITY  rememberHistory.accesskey  "K">
-
-<!ENTITY  rememberDownload.label         "Kae abakɔsɛm fa ntwe ho">
-<!ENTITY  rememberDownload.accesskey     "w">
+<!ENTITY  rememberHistory2.label      "Kae m'abrawse ne atwe ho abakɔsɛm ">
+<!ENTITY  rememberHistory2.accesskey  "K">
 
 <!ENTITY  rememberSearchForm.label       "Kae abakɔsɛm fa nhwehwɛ ne fɔɔm ho">
 <!ENTITY  rememberSearchForm.accesskey   "f">

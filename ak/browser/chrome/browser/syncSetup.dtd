@@ -12,7 +12,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Server">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; sɛɛva">
+<!ENTITY serverType.default.label      "Difɔlt: Mozilla &syncBrand.fullName.label; somfo">
 <!ENTITY serverType.custom2.label   "Fa sɛɛva kɔstɔm di dwuma…">
 <!ENTITY signIn.account2.label      "Akawnt">
 <!ENTITY signIn.account2.accesskey  "A">
