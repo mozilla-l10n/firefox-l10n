@@ -1,5 +1,5 @@
 
-<!ENTITY  splash_settingup "A' suidheachadh am &brandShortName; agad">
+<!ENTITY  splash_settingup "A\' suidheachadh am &brandShortName; agad">
 <!ENTITY  splash_bookmarks_history "Tha sinn ag ùrachadh nan comharran-lìn agad agus faodaidh gum feum sinn mionaid no dhà.">
 
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
