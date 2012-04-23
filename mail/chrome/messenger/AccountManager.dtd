@@ -11,3 +11,5 @@
 <!ENTITY removeButton.accesskey "R">
 <!ENTITY accountManager.size "width: 120ch; height: 56em;">
 <!ENTITY accountTree.width "width: 31ch;">
+<!ENTITY addIMAccountButton.label "Amestar cuenta de chat…">
+<!ENTITY addIMAccountButton.accesskey "C">

@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "Desaniciar">
 <!ENTITY identitiesListDelete.accesskey "r">
+<!ENTITY identitiesListClose.label "Zarrar">
+<!ENTITY identitiesListClose.accesskey "Z">
