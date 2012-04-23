@@ -1,8 +1,9 @@
 ﻿<!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Mensagem de armazenamento">
 <!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Configurações do servidor">
-<!ENTITY serverType.label "Tipo servidor:">
+<!ENTITY serverType.label "Tipo de servidor:">
 <!ENTITY serverName.label "Nome do servidor:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Nome de utilizador:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Seleccionar ficheiro newsrc">
 <!ENTITY browseNewsrc.label "Explorar...">
 <!ENTITY browseNewsrc.accesskey "E">
+
+<!ENTITY accountTitle.label "Definições da conta">
+<!ENTITY accountSettingsDesc.label "A conta seguinte é uma conta especial.  Não existem identidades associadas a ela.">
