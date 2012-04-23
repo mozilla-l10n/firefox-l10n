@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY showSearchToolbarCmd.label "Pasek narzędzi wyszukiwania">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
+<!ENTITY showTabsToolbarCmd.label "Pasek kart">
+<!ENTITY showTabsToolbarCmd.accesskey "k">
 
 <!ENTITY messagePaneLayoutStyle.label "Układ">
 <!ENTITY messagePaneLayoutStyle.accesskey "U">
