@@ -4,7 +4,7 @@
 <!ENTITY props.path.label "पथ:">
 <!ENTITY props.secure.label "क लेल पठाउ: ">
 <!ENTITY props.expires.label "समाप्ति:">
-<!ENTITY props.policy.label "नीति:">
+
 <!ENTITY button.allow.label "स्वीकार करू (A)">
 <!ENTITY button.allow.accesskey "A">
 <!ENTITY button.session.label "सत्र क लेल स्वीकृत करू (S)">

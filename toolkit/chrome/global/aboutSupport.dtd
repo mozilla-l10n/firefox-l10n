@@ -21,14 +21,10 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड विन्यास">
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोक्ता प्रतिनिधि">
 
-<!ENTITY aboutSupport.show.label "शामिल करैबला फोल्डर खोलू">
 
-<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
-"Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "फाइंडर मे पता  करू ">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "रूपांतरित वरीयता">
+
 <!ENTITY aboutSupport.modifiedPrefsName "नाम">
 <!ENTITY aboutSupport.modifiedPrefsValue "मान">
 
@@ -38,3 +34,20 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "अद्यतन इतिहास">
 
 <!ENTITY aboutSupport.copyToClipboard.label "सभटा क क्लिपबोर्ड मे नकल लिअ">
+
+<!ENTITY aboutSupport.appBasicsCrashIDs "क्रैश रिपोर्ट">
+<!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति के उपयोग">
+<!ENTITY aboutSupport.appBasicsProfileDir "प्रोफाइल निर्देशिका">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "प्रोफाइल फोल्डर">
+<!ENTITY aboutSupport.jsIncrementalGC "संवर्द्धित GC">
+<!ENTITY aboutSupport.jsTitle "जावा स्क्रिप्ट">
+<!ENTITY aboutSupport.libraryVersionsTitle "लाइब्रेरी संस्करण">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वपूर्ण रूपांतरित वरीयता">
+
+
+<!ENTITY aboutSupport.showDir.label "खुलल निर्देशिका">
+<!ENTITY aboutSupport.showWin.label "फोल्डर देखाउ">
+

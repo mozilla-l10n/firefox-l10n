@@ -43,8 +43,7 @@
 <!ENTITY aboutWarningButton.label "I'll be careful, I promise!">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
-<!ENTITY filterPrefs.label "फ़िल्टर:">
-<!ENTITY filterPrefs.accesskey "F">
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "वरीयता नाम">
@@ -58,7 +57,7 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY focusFilter.key "f">
+
 <!ENTITY copyPref.label "नक़ल लिअ">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "नाम क नक़ल लिअ">
@@ -79,3 +78,9 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "बुलियन">
 <!ENTITY boolean.accesskey "B">
+
+<!ENTITY searchPrefs.label "खोजू:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+
+

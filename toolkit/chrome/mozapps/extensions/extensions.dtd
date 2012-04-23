@@ -194,3 +194,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "स्वीकारू आओर संस्थापित करू…">
+
+<!ENTITY search.commandkey                    "f">
