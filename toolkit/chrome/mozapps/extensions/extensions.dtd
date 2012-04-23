@@ -181,7 +181,7 @@
 <!ENTITY addon.releaseNotes.label             "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು:">
 <!ENTITY addon.loadingReleaseNotes.label      "ಲೋಡ್ ಆಗುತ್ತಿದೆ…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "ಕ್ಷಮಿಸಿ, ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ಒಂದು ದೋಷ ಉಂಟಾಗಿದೆ.">
-
+<!ENTITY search.commandkey                    "f">
 <!ENTITY addon.createdBy.label                "ಇವರಿಂದ ">
 
 
