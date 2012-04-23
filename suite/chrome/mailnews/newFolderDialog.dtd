@@ -41,7 +41,7 @@
 <!ENTITY description.label "Crea come sottocartella di:">
 <!ENTITY description.accesskey "C">
 <!ENTITY folderRestriction1.label "Questo server restringe i tipi di cartelle a due tipi speciali.">
-<!ENTITY folderRestriction2.label "Consenti alla nuova cartella di contenere:">
+<!ENTITY folderRestriction2.label "Permetti alla nuova cartella di contenere:">
 <!ENTITY foldersOnly.label "Solo cartelle">
 <!ENTITY messagesOnly.label "Solo messaggi">
 <!ENTITY accept.label "Crea cartella">

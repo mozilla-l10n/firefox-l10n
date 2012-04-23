@@ -9,7 +9,7 @@
 <!ENTITY moveToSent.label "Spostala nella cartella &quot;Inviati&quot;">
 <!ENTITY moveToSent.accesskey "S">
 <!ENTITY requestMDN.label "Quando si riceve la richiesta di una ricevuta di ritorno:">
-<!ENTITY returnSome.label "Restituisci una ricevuta per alcuni messaggi">
+<!ENTITY returnSome.label "Permetti ricevuta di ritorno per alcuni messaggi">
 <!ENTITY returnSome.accesskey "R">
 <!ENTITY never.label "Non restituire mai una ricevuta">
 <!ENTITY never.accesskey "N">
