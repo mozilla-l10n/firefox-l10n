@@ -1,6 +1,6 @@
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "Teelto &brandShortName; maa">
+<!ENTITY  splash_bookmarks_history "Min ngoni ko e hesɗitinde maantore e aslol maa, ena waawi ɓamde hojom walla ɓura.">
 
 <!ENTITY  no_space_to_start_error "Boowal mbeɗu ena ŋakki ngam &brandShortName; waawa hurmude.">
 <!ENTITY  error_loading_file "Juumre waɗii tuma nde piille coklaaɗe etaa looweede ngam hurminde &brandShortName;">
@@ -24,7 +24,7 @@
 <!ENTITY  launcher_shortcuts_title "Jaaɓirɗe Geese &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Alaa jaaɓirɗe geese njiytaa">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Labo Fiilde">
 
 <!ENTITY awesomebar_default_text "Naatnu Njiilaw walla Ñiiɓirde">
 
@@ -121,7 +121,7 @@
 <!ENTITY abouthome_about_sync "Teelto Firefox Sync ngam naatde e maantore, aslol e tabbe ummoraade e kaɓirɗi goɗɗei">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_title "Labo Fiilde">
+<!ENTITY filepicker_audio_title "Labo walla nanngito ojoo">
+<!ENTITY filepicker_image_title "Labo walla ɓam natal">
+<!ENTITY filepicker_video_title "Labo walla fiil widewoo">
