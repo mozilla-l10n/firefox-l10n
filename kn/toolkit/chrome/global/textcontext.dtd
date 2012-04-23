@@ -1,6 +1,6 @@
 <!ENTITY cutCmd.label "ಕತ್ತರಿಸು">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyCmd.label "ಪ್ರತಿ ಮಾಡು">
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "ಅಂಟಿಸು">
 <!ENTITY pasteCmd.accesskey "p">
@@ -17,3 +17,5 @@
 <!ENTITY spellDictionaries.accesskey "l">
 <!ENTITY spellCheckEnable.label "ಕಾಗುಣಿತವನ್ನು ಪರೀಕ್ಷಿಸು">
 <!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label "ಶಬ್ಧಕೋಶಕ್ಕೆ ಸೇರಿಸಿದ್ದನ್ನು ಅಳಿಸು">
