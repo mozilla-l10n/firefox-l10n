@@ -1,5 +1,5 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY rights.locale-direction "De i Chwith">
+<!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Ynghylch eich hawliau">
 <!ENTITY rights.intro "Mae &brandFullName; yn feddalwedd cod agored rhydd a rhad, wedi ei adeiladu gan gymuned o filoedd o bobl ar draws y byd i gyd. Mae yna rhai pethau i chi gael gwybod:">

@@ -9,8 +9,8 @@
 <!ENTITY networkPanel.statusCode                  "Cod Statws">
 
 <!ENTITY networkPanel.requestHeaders              "Pennyn Gofyn">
-<!ENTITY networkPanel.requestCookie               "Cwci wedi ei anfon">
-<!ENTITY networkPanel.requestBody                 "Corff sy'n gofyn">
+<!ENTITY networkPanel.requestCookie               "Cwci wedi ei Anfon">
+<!ENTITY networkPanel.requestBody                 "Corff sy'n Gofyn">
 <!ENTITY networkPanel.requestFormData             "Data Ffurflen Anfonwyd">
 
 <!ENTITY networkPanel.responseHeaders             "Pennyn Ymateb">
