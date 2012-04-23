@@ -33,7 +33,7 @@
 <!ENTITY action.enable.heading       "Los siguientes complementos serán habilitados:">
 
 <!ENTITY update.heading              "Actualizar sus complementos">
-<!ENTITY update.progress.label       "Bajando e instalando actualizaciones para los complementos seleccionados.">
+<!ENTITY update.progress.label       "Descargando e instalando actualizaciones para los complementos seleccionados.">
 
 <!ENTITY errors.heading              "&brandShortName; no pudo actualizar algunos de los complementos.">
 <!ENTITY errors.description          "Falló la instalación de actualizaciones para algunos de los complementos. &brandShortName; luego intentará actualizarlos automáticamnte.">
