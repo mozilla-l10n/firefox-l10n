@@ -376,10 +376,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killThreadMenu.label "සබැඳුම නොසලකා හරින්න">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
+<!ENTITY killSubthreadMenu.label "උප-සබැඳි නොසලකා හරින්න">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Watch Thread">
+<!ENTITY watchThreadMenu.label "සබැඳි බලන්න">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "මෙහි ගොනුගත කරන්න">
@@ -425,10 +425,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "ලිපිය විවෘත කරන්න">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Open in Conversation">
+<!ENTITY openConversationCmd.label "සංවාදය තුළ විවෘත කරන්න">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.label "පෝෂත ලිපිය විවෘත කරන්න">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "වෙබ් පිටුව නව කවුළුවක">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Apply columns to…">
+<!ENTITY columnPicker.applyTo.label "මේවාට තීරු ආදේශ කරන්න…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside

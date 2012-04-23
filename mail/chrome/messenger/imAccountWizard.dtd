@@ -14,11 +14,11 @@
 <!ENTITY accountPasswordManager.label "මෙහි ඇතුළත් කළ රහස්පදය රහස්පද කළමණාකරු තුළ සුරැකෙනු ඇත. මෙම ගිණුමට සම්බන්ධ වන සෑම විටම රහස්පදය විමසිය යුතු නම් මෙම කොටුව හිස්ව තබායන්න.">
 
 <!ENTITY accountAdvancedTitle.label   "වැඩිමනත් වරණ">
-<!ENTITY accountAdvancedInfo.label    "Feel free to skip this step if you want to.">
+<!ENTITY accountAdvancedInfo.label    "ඔබට අවශ්‍ය නම් මෙම පියවර මඟහැර යන්න.">
 <!ENTITY accountAdvanced.newMailNotification.label   "නව ලිපි ලැබුණු විට දන්වන්න">
 <!ENTITY accountAliasGroupbox.caption "Local Alias">
 <!ENTITY accountAliasField.label      "Alias:">
-<!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
+<!ENTITY accountAliasInfo.label       "ඔබගේ සංවාදයන්හි ඔබ කතා තරක විට මෙය පෙන්වනු ඇත අතර දුරස්ථ සබඳතාවයන් එය දකින්නේ නැත.">
 <!ENTITY accountProxySettings.caption "ප්‍රොක්සි සැකසුම්">
 <!ENTITY accountProxySettings.change.label     "වෙනස් කරන්න…">
 <!ENTITY accountProxySettings.change.accessKey "C">
