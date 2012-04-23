@@ -12,7 +12,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label "Da aktivirate novo napravo, izberite “Nastavi ;&syncBrand.shortName.label;” na njej.">
 <!ENTITY sync.subtitle.header.label "Vnesite to kodo v svoj računalnik.">
-<!ENTITY sync.subtitle.connectlocation.label "Izberite na namiznem računalniku v nastavitvah za Firefox, pano &syncBrand.shortName.label;,  “&syncBrand.shortName.label;”.">
+<!ENTITY sync.subtitle.connectlocation.label "Izberite v nastavitvah za Firefox na namiznem računalniku “&syncBrand.shortName.label;” v panoju &syncBrand.shortName.label;.">
 <!ENTITY sync.subtitle.pair.label "Za aktivacijo izberite “Poveži napravo” na svoji drugi napravi.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -42,14 +42,14 @@
 <!ENTITY sync.title.success.label "Nastavitev končana">
 <!ENTITY sync.subtitle.success.label "Vaši podatki se sedaj prenašajo v ozadju. Sedaj lahko skočite v Nastavitve, da uredite svoj račun..">
 <!ENTITY sync.settings.label "Nastavitve">
-<!ENTITY sync.subtitle.manage.label "Vaš račun za &syncBrand.fullName.label;  je že odprt. Sedaj lahko skočite v Nastavitve, da uredite svoj račun.">
+<!ENTITY sync.subtitle.manage.label "Vaš račun za &syncBrand.fullName.label; je že odprt. Sedaj lahko skočite v Nastavitve, da uredite svoj račun.">
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "Poskusite ponovno.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label "Možnosti">
-<!ENTITY sync.summary.pair.label "Povežite nadaljnjo napravo s svojim računom za &syncBrand.fullName.label; ">
+<!ENTITY sync.summary.pair.label "Povežite nadaljnjo napravo s svojim računom za &syncBrand.shortName.label; ">
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Prekliči">
@@ -69,4 +69,4 @@
 <!ENTITY bookmarks.folder.mobile.label "Mobilni zaznamki">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "Za &syncBrand.fullName.label;  se podpira en sam račun.">
+<!ENTITY sync.notification.oneaccount.label "Za &syncBrand.fullName.label; se podpira en sam račun.">
