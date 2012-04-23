@@ -18,6 +18,10 @@
 <!ENTITY autoCompleteMatchWords "Wyłącznie na granicach słów">
 <!ENTITY autoCompleteMatchStart "Wyłącznie na początku adresu bądź tytułu">
 
+<!ENTITY formatting.label "Formatowanie">
+<!ENTITY domainFormatting.label "Wyróżniaj domeny witryn i serwerów FTP">
+<!ENTITY domainFormatting.accesskey "W">
+
 <!ENTITY searchEngine.label "Wyszukiwarka internetowa">
 <!ENTITY showSearchEngine.label "Wyświetlaj domyślną wyszukiwarkę internetową">
 <!ENTITY showSearchEngine.accesskey "e">
