@@ -17,7 +17,6 @@
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
-
 <!ENTITY aboutSupport.showMac.label "Amosar en Finder">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencies importantes modificaes">
 <!ENTITY aboutSupport.showDir.label "Abrir direutoriu">
@@ -28,3 +27,4 @@
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instalaciones">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'anovamientos">
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar too al cartafueyu">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiones de biblioteques">
