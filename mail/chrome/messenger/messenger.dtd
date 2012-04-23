@@ -505,9 +505,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.label "චැට්">
 <!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
 <!ENTITY addressBookButton.label "ලිපින පොත">
-<!ENTITY glodaSearch.title "Global Search">
+<!ENTITY glodaSearch.title "පොදු (Global) සෙවුම Search">
 <!ENTITY searchItem.title "ඉක්මන් සෙවුම">
-<!ENTITY mailViewsToolbarItem.title "ලිපි දැකුම්">
+<!ENTITY mailViewsToolbarItem.title "ලිපි පෙනුම">
 <!ENTITY folderLocationToolbarItem.title "ෆෝල්ඩර ස්ථානය">
 <!ENTITY tagButton.label "ටැග">
 <!ENTITY compactButton.label "සංයුක්ත">
@@ -685,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
-<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+<!ENTITY columnPicker.resetToInbox.label "තීරු පෙරනිමියට යළි-සකසන්න">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and

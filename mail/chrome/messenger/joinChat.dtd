@@ -1,6 +1,6 @@
-<!ENTITY joinChatWindow.title           "Join chat">
-<!ENTITY name.label                     "Room">
-<!ENTITY optional.label                 "(optional)">
-<!ENTITY account.label                  "Account">
-<!ENTITY autojoin.label                 "Auto-join this Chat Room">
+<!ENTITY joinChatWindow.title           "චැට් එකට සම්බන්ධ වන්න">
+<!ENTITY name.label                     "කාමරය">
+<!ENTITY optional.label                 "(වරණීය)">
+<!ENTITY account.label                  "ගිණුම">
+<!ENTITY autojoin.label                 "මෙම චැට් කාමරයට ස්වයංක්‍රීයව සම්බන්ධ වන්න">
 <!ENTITY autojoin.accesskey             "A">
