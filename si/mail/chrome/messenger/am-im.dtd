@@ -1,12 +1,12 @@
-<!ENTITY accountWindow.title           "Account properties">
+<!ENTITY accountWindow.title           "ගිණුම් ලක්ෂණ">
 <!ENTITY accountWindow.width           "300">
-<!ENTITY account.general               "General">
-<!ENTITY account.advanced              "Advanced Options">
-<!ENTITY account.name                  "Username:">
-<!ENTITY account.password              "Password:">
-<!ENTITY account.alias                 "Alias:">
-<!ENTITY account.newMailNotification   "Notify on new Mail">
-<!ENTITY account.autojoin              "Auto-Joined Channels:">
-<!ENTITY account.proxySettings.caption "Proxy Settings:">
-<!ENTITY account.proxySettings.change.label     "Change…">
+<!ENTITY account.general               "සාමාන්‍ය">
+<!ENTITY account.advanced              "විඩිමනත් වරණ">
+<!ENTITY account.name                  "පරිශීලක නම:">
+<!ENTITY account.password              "රහස්පදය:">
+<!ENTITY account.alias                 "අන්වර්ථ නම්:">
+<!ENTITY account.newMailNotification   "නව ලිපි ලැබීමේදී දන්වන්න">
+<!ENTITY account.autojoin              "ස්වයං-සම්බන්ධ චැනල:">
+<!ENTITY account.proxySettings.caption "ප්‍රොක්සි සැකසුම්:">
+<!ENTITY account.proxySettings.change.label     "වෙනස් කරන්න…">
 <!ENTITY account.proxySettings.change.accessKey "C">

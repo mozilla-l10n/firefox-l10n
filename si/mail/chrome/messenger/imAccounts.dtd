@@ -1,26 +1,26 @@
 <!ENTITY accountsWindow.title                "Instant messaging status">
 <!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
-<!ENTITY accountManager.newAccount.label     "New Account">
+<!ENTITY accountManager.newAccount.label     "නව ගිණුමක්">
 <!ENTITY accountManager.newAccount.accesskey "N">
-<!ENTITY accountManager.close.label          "Close">
+<!ENTITY accountManager.close.label          "වසන්න">
 <!ENTITY accountManager.close.accesskey      "l">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title      "No account configured yet">
-<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
+<!ENTITY accountManager.noAccount.title      "තවම ගිණුමක් වින්‍යාස කර නැත">
+<!ENTITY accountManager.noAccount.description " &accountManager.newAccount.label; මත ක්ලික් කර වින්‍යාස කිරීම සඳහා ඔට මඟ පෙන්වීමට &brandShortName; ට ඉඩදෙන්න.">
 <!ENTITY account.autoSignOn.label     "Sign-on at startup">
 <!ENTITY account.autoSignOn.accesskey "S">
-<!ENTITY account.connect.label        "Connect">
+<!ENTITY account.connect.label        "සම්බන්ධ වන්න">
 <!ENTITY account.connect.accesskey    "o">
-<!ENTITY account.disconnect.label     "Disconnect">
+<!ENTITY account.disconnect.label     "විසන්ධි කරන්න">
 <!ENTITY account.disconnect.accesskey "i">
-<!ENTITY account.edit.label           "Properties">
+<!ENTITY account.edit.label           "ලක්ෂණ">
 <!ENTITY account.edit.accesskey       "P">
-<!ENTITY account.moveup.label         "Move up">
-<!ENTITY account.movedown.label       "Move down">
-<!ENTITY account.cancelReconnection.label         "Cancel reconnection">
+<!ENTITY account.moveup.label         "ඉහළට ගෙනයන්න">
+<!ENTITY account.movedown.label       "පහළට ගෙනයන්න">
+<!ENTITY account.cancelReconnection.label         "නැවත සම්බන්ධවීම එපා">
 <!ENTITY account.cancelReconnection.accesskey     "a">
-<!ENTITY account.connecting           "Connecting…">
-<!ENTITY account.disconnecting        "Disconnecting…">
-<!ENTITY account.disconnected         "Not Connected">
+<!ENTITY account.connecting           "සම්බන්ධ වේ…">
+<!ENTITY account.disconnecting        "විසන්ධි වේ…">
+<!ENTITY account.disconnected         "සම්බන්ධව නැත">

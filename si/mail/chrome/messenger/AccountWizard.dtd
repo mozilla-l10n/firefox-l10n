@@ -99,13 +99,13 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!ENTITY outgoingTitle.label "යැවුම් සේවාදායක තොරතුරු">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.description " ඔබගේ යැවුම් සේවාදායක (SMTP) නම ඇතුළු කරන්න (උදාහරණයක් ලෙස, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label " යැවුම් සේවාදායකය:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
-<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.description "සොවාදායකයා ලබාදුන් ඔබගේ යැවුම් පරිශීලක නම ඇතුළු කරන්න (මෙය සාමාන්‍යයෙන් එවුම් පරිශීලක නමටම සමාන වනු ඇත).">
+<!ENTITY outgoingUsername.label " යැවුම් පරිශීලක නම:">
 <!ENTITY outgoingUsername.accesskey "U">
 
 <!-- Entities for Done (Congratulations) page -->
@@ -119,16 +119,11 @@
 <!ENTITY downloadOnLogin.label "දැන් ලිපි භාගත කරන්න">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Untick this box to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account.">
-<!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
+<!ENTITY deferStorage.label "පොදු ලදලිපි භාවිතා කරන්න (ලිපි සමීප ෆෝල්ඩර (Local Folders) තුළ ගබඩා කරන්න)">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "නිමි ‌බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">
-<!ENTITY clickFinish.labelMac "කළා බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">
+<!ENTITY clickFinish.labelMac "කළා බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඉවත්විමට ඔබට හැකිය.">
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY leaveMsgsOnSrvr.label "ලිපි සේවාදායකැ තුළ ඉතිරි කරන්න">
+<!ENTITY leaveMsgsOnSrvr.label "ලිපි සේවාදායකය තුළ ඉතිරි කරන්න">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
