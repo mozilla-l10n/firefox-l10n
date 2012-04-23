@@ -1,28 +1,28 @@
-<!ENTITY windowTitle.label            "Chat Account Wizard">
+<!ENTITY windowTitle.label            "චැට් ගිණුම් විශාරද">
 
-<!ENTITY accountProtocolTitle.label   "Chat network">
-<!ENTITY accountProtocolInfo.label    "Please choose the network of your chat account.">
-<!ENTITY accountProtocolField.label   "Network:">
-<!ENTITY accountProtocolGetMore.label "Get more…">
+<!ENTITY accountProtocolTitle.label   "චැට් ජාලය">
+<!ENTITY accountProtocolInfo.label    "ඔබගේ චැට් ගිණුමේ ජාලය තෝරන්න.">
+<!ENTITY accountProtocolField.label   "ජාලය:">
+<!ENTITY accountProtocolGetMore.label "තවත් ලබාගන්න…">
 
-<!ENTITY accountUsernameTitle.label   "Username">
-<!ENTITY accountUsernameDuplicate.label "This account is already configured!">
+<!ENTITY accountUsernameTitle.label   "පරිශීලක නම">
+<!ENTITY accountUsernameDuplicate.label "මෙම ගිණුම දැනටම වින්‍යාස කර ඇත!">
 
-<!ENTITY accountPasswordTitle.label   "Password">
-<!ENTITY accountPasswordInfo.label    "Please enter your password in the box below.">
-<!ENTITY accountPasswordField.label   "Password:">
-<!ENTITY accountPasswordManager.label "The password entered here will be stored in the Password Manager. Leave this box empty if you want to be prompted for your password each time this account is connected.">
+<!ENTITY accountPasswordTitle.label   "රහස්පදය">
+<!ENTITY accountPasswordInfo.label    "ඔබගේ රහස්පදය පහත කොටුවේ ඇතුළු කරන්න.">
+<!ENTITY accountPasswordField.label   "රහස්පදය:">
+<!ENTITY accountPasswordManager.label "මෙහි ඇතුළත් කළ රහස්පදය රහස්පද කළමණාකරු තුළ සුරැකෙනු ඇත. මෙම ගිණුමට සම්බන්ධ වන සෑම විටම රහස්පදය විමසිය යුතු නම් මෙම කොටුව හිස්ව තබායන්න.">
 
-<!ENTITY accountAdvancedTitle.label   "Advanced Options">
+<!ENTITY accountAdvancedTitle.label   "වැඩිමනත් වරණ">
 <!ENTITY accountAdvancedInfo.label    "Feel free to skip this step if you want to.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Notify on new Mail">
+<!ENTITY accountAdvanced.newMailNotification.label   "නව ලිපි ලැබුණු විට දන්වන්න">
 <!ENTITY accountAliasGroupbox.caption "Local Alias">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
-<!ENTITY accountProxySettings.caption "Proxy Settings">
-<!ENTITY accountProxySettings.change.label     "Change…">
+<!ENTITY accountProxySettings.caption "ප්‍රොක්සි සැකසුම්">
+<!ENTITY accountProxySettings.change.label     "වෙනස් කරන්න…">
 <!ENTITY accountProxySettings.change.accessKey "C">
 
-<!ENTITY accountSummaryTitle.label   "Summary">
-<!ENTITY accountSummaryInfo.label    "A summary of the information you entered is displayed below. Please check it before the account is created.">
-<!ENTITY accountSummary.connectNow.label "Connect this account now.">
+<!ENTITY accountSummaryTitle.label   "සාරාංශය">
+<!ENTITY accountSummaryInfo.label    "ඔබ ඇතුළ කළ තොරතුරු සාරාංශය පහත දැක්වේ. ගිණුම සෑදීමට පෙර එය පරීක්ෂා කරන්න.">
+<!ENTITY accountSummary.connectNow.label "මෙම ගිණුමට දැන් සම්බන්ධවන්න.">
