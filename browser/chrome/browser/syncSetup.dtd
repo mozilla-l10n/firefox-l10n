@@ -2,7 +2,6 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "आपका स्वागत है, यदि आपने कभी भी पहले &syncBrand.fullName.label; का उपयोग नहीं किया है, आपको नया खाता बनाने की जरूरत है.">
 <!ENTITY button.createNewAccount.label "एक नया खाता बनाएँ">
 
 
@@ -12,7 +11,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "सर्वर">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; सर्वर">
+
 
 
 
@@ -38,17 +37,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; आपकी गोपनीयता का सम्मान करता है">
-<!ENTITY setup.newSyncKeyPage.description.label "आपकी समग्र गोपनीयता बनाए रखने के लिए, आपके सभी आँकड़े अपलोड किए जाने के पहले सभी आँकड़े गोपित हैं. सिंक कुंजी आपके आँकड़े को विगोपित करने के लिए जरूरी हैं कि वे अपलोड नहीं किए गए हैं.">
-<!ENTITY syncKeyEntry.label        "आपकी सिंक कुंजी">
-<!ENTITY syncKeyEntry.accesskey    "K">
 
 <!ENTITY setup.choosePassword.label      "कोई कूटशब्द चुनें">
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY syncGenerateNewKey.label  "एक नयी कुँजी उत्पन्न करें">
 
 
-<!ENTITY syncKeyBackup.description "आपकी सिंक कुंजी दूसरे मशीन पर &syncBrand.fullName.label; की पहुँच के लिए जरूरी है. कृपया एक बैकअप कॉपी बनाएँ. हम आपकी सिंक कुंजी को वापस पाने आपकी मदद कर सकते हैं.">
 
 <!ENTITY button.syncKeyBackup.print.label     "छापें…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -56,7 +50,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करें कि आप रोबोट नहीं हैं">
+
 
 <!-- Existing Account Page 1: Login -->
 
@@ -106,28 +100,64 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करें कि आप रोबोट नहीं हैं">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "कोई युक्ति जोड़ें">
+
 <!ENTITY addDevice.showMeHow.label          "मुझे दिखाएँ कि कैसे.">
 <!ENTITY addDevice.dontHaveDevice.label     "मेरे पास युक्ति नहीं है">
-<!ENTITY addDevice.setup.description.label  "सक्रिय करने के लिए, &syncBrand.shortName.label; विकल्प पर जाएँ अपने दूसरे युक्तियों के और &#x0022;Add कोई&#x0022;. युक्ति जोड़ें">
 <!ENTITY addDevice.setup.enterCode.label    "फिर इस कोड को डालें:">
-<!ENTITY addDevice.dialog.description.label "अपनी नई युक्ति को सक्रिय करने के लिए,  युक्ति के &syncBrand.shortName.label; विकल्प पर जाएँ और चुनें &#x0022;Connect.&#x0022;">
+
 <!ENTITY addDevice.dialog.enterCode.label   "उन कोड को प्रदान करें जो युक्ति देता है:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया फिर कोशिश करें.">
 <!ENTITY addDevice.dialog.successful.label  "यह युक्ति सफलतापूर्वक जोड़ी गई है. आरंभिक तुल्यकालन कई मिनट ले सकता है और पृष्ठभूमि में समाप्त हो सकता है.">
-<!ENTITY addDevice.dialog.syncKey.label     "अपनी युक्ति को सक्रिय करने के लिए आपको अपनी सिंक कुंजी दाखिल करनी होगी. कृपया इस कुँजी को छापें या सहेजें और इसे अपने साथ ले जाएँ.">
 <!ENTITY addDevice.dialog.connected.label   "युक्तियाँ कनेक्टेड">
 
-<!ENTITY button.connect.label    "कनेक्ट करें">
-<!ENTITY existingSyncKey.description "आप अपनी सिंक कुंजी की नक़ल ले सकते हैं &syncBrand.shortName.label; विकल्प पर अपने दूसरे युक्ति पर जाकर, और &#x0022;My सिंक कुंजी&#x0022; को &#x0022;Manage खाता&#x0022;. में चुनकर">
+
+
 
 <!ENTITY serverType.custom2.label   "मनपसंद सर्वर का उपयोग करें…">
-<!ENTITY setup.haveAccount.label "मेरे पास पहले से &syncBrand.fullName.label; खाता है.">
+
 <!ENTITY setup.signInPage.title.label "साइन इन">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.account2.label      "खाता">
-<!ENTITY signIn.syncKey.label       "सिंक">
-<!ENTITY signIn.syncKey.accesskey   "K">
+
+
 
 <!ENTITY resetSyncKey.label           "मेरी अन्य युक्तियाँ गुम हो गई हैं.">
+
+
+<!ENTITY addDevice.dialog.recoveryKey.label     "अपनी युक्ति को सक्रिय करने के लिए आपको अपनी पुनर्प्राप्ति कुंजी दाखिल करनी होगी. कृपया इस कुँजी को छापें या सहेजें और इसे अपने साथ ले जाएँ.">
+
+<!ENTITY button.haveAccount.label      "मेरे पास एक खाता है">
+<!ENTITY engine.addons.label        "सहयुक्तियाँ">
+<!ENTITY engine.addons.accesskey    "A">
+
+<!ENTITY existingRecoveryKey.description "आप अपनी पुनर्प्राप्ति कुंजी की नक़ल ले सकते हैं &syncBrand.shortName.label; विकल्प पर अपने दूसरे युक्ति पर जाकर, और &#x0022;मेरा पुनर्प्राप्ति कुंजी&#x0022; को &#x0022;खाता प्रबंधन&#x0022;. में चुनकर.">
+
+
+
+<!ENTITY pairDevice.dialog.description.label "अपनी युक्ति को सक्रिय करने के लिए, &#x0022;सिंक सेटअप करें&#x0022; को युक्ति पर चुनें.">
+
+<!ENTITY pairDevice.setup.description.label  "सक्रिय करने के लिए &#x0022;युक्ति युग्मित करें&#x0022; को अपने अन्य युक्ति पर चुनें.">
+
+<!ENTITY pairDevice.title.label             "युक्ति युग्मित करें">
+
+<!ENTITY recoveryKeyBackup.description "आपकी पुनर्प्राप्ति कुंजी दूसरे मशीन पर &syncBrand.fullName.label; की पहुँच के लिए जरूरी है. कृपया एक बैकअप कॉपी बनाएँ. हम आपकी पुनर्प्राप्ति कुंजी को वापस पाने आपकी मदद कर सकते हैं.">
+
+<!ENTITY recoveryKeyEntry.label        "आपकी पुनर्पाप्ति कुंजी">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+
+
+<!ENTITY setup.newRecoveryKeyPage.description.label "आपकी समग्र गोपनीयता बनाए रखने के लिए, आपके सभी आँकड़े अपलोड किए जाने के पहले सभी आँकड़े गोपित हैं. पुनर्प्राप्ति कुंजी आपके आँकड़े को विगोपित करने के लिए जरूरी हैं कि वे अपलोड नहीं किए गए हैं.">
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;आपकी गोपनीयता का सम्मान करता है">
+
+
+#<!ENTITY setup.pickSetupType.description "आपका स्वागत है, यदि आपने कभी भी पहले &syncBrand.fullName.label; का उपयोग नहीं किया है, आपको नया खाता बनाने की जरूरत है.">
+
+<!ENTITY setup.pickSetupType.description2 "आपका स्वागत है! यदि आपने &syncBrand.fullName.label; को पहले कभी उपयोग नहीं किया है, आपको एक खाता खोलने की जरूरत होगी.">
+<!ENTITY signIn.recoveryKey.label       "पुनर्पाप्ति कुँजी">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
+
+
+
 
