@@ -59,3 +59,6 @@
 
 <!ENTITY deleteBookmarks.label        "सिवाय बैकअप के सभी पुस्तचिह्न मिटाएँ">
 <!ENTITY deleteBookmarks.accesskey    "b">
+
+<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; अचानक से आरंभ करने के समय बंद हो गया">

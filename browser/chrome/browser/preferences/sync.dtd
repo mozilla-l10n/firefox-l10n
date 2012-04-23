@@ -15,9 +15,9 @@
 <!ENTITY manageAccount.label          "खाता प्रबंधित करें">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "कोटा देखें">
-<!ENTITY changePassword.label         "कूटशब्द बदलें">
-<!ENTITY mySyncKey.label              "मेरा सिंक कुंजी">
-<!ENTITY resetSync.label              "सिंक फिर सेट करें">
+
+
+
 
 
 <!-- Sync Settings -->
@@ -42,6 +42,10 @@
 <!ENTITY prefs.tosLink.label        "सेवा शर्त">
 <!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
 
-<!ENTITY addDevice.label              "कोई युक्ति जोड़ें">
 
-<!ENTITY deactivateDevice.label       "इस युक्ति को निष्क्रिय करें">
+<!ENTITY engine.addons.label        "सहयुक्तियाँ">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY myRecoveryKey.label          "मेरी पुनर्प्राप्ति कुँजी">
+<!ENTITY pairDevice.label             "युक्ति युग्मित करें">
+<!ENTITY unlinkDevice.label           "इस युक्ति को कड़ीविहीन करें">
+
