@@ -17,3 +17,8 @@
 <!ENTITY spellDictionaries.accesskey "l">
 <!ENTITY spellCheckEnable.label "वर्तनी जाँचू">
 <!ENTITY spellCheckEnable.accesskey "S">
+
+<!ENTITY spellUndoAddToDictionary.label "शब्दकोशमे जोड़बा केँ पहिने एहिना करू">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+
+
