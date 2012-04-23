@@ -2,7 +2,6 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "अहाँक स्वागत अछि, जँ अहाँ कहियो पहिने &syncBrand.fullName.label; क उपयोग नहि कएने छी, अहाँकेँ नव खाता बनाबैक जरूरत अछि.">
 <!ENTITY button.createNewAccount.label "एकटा नव खाता बनाउ">
 
 
@@ -100,7 +99,7 @@
 <!ENTITY continueUsing.label "अहाँ &brandShortName; क उपयोग कएनाइ जारी राखि सकैत छी.">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 
 <!ENTITY addDevice.showMeHow.label          "देखाउ जे कहिना.">

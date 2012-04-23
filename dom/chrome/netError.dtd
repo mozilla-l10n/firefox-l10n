@@ -94,3 +94,7 @@
 
 <!ENTITY netOffline.longDesc2 "<p>ब्राउजर अखन आफलाइन विधिमे अछि अथवा निवेदित मदसँ संपर्क नहि भए सकैत अछि.</p><ul><li>की कंप्यूटर कोनो सक्रिय संजालसँ जुड़ल अछि?</li><li>&quot;फेनु कोशिश करू&quot; दबाउ आनलाइन विधिमे आबैक लेल आओर फेनु पृष्ठक लोड करबाक लेल.</li></ul>">
 
+
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY notCached.title "दस्तावेजक समय समाप्त">

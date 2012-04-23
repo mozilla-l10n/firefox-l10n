@@ -132,4 +132,15 @@
 <!ENTITY useService.label                "अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY httpCache.label                 "Cached Web Content">
+
+<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+
+<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+
+
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+
 
