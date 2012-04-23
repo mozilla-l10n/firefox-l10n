@@ -1,4 +1,4 @@
 <!ENTITY appManager.title     "કાર્યક્રમ વિગતો">
-<!ENTITY appManager.style     "પહોળાઇ: 30em; ન્યૂનત્તમ-ઊંચાઇ: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "દૂર કરો">
 <!ENTITY remove.accesskey     "R">
