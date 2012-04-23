@@ -10,10 +10,10 @@
 <!ENTITY sync.title.pair.label "Ket Jami tic aryo ayo">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Me miyo Jami tic megi manyen, '' Yer &syncBrand.shortName.label;” ikum jami tic">
+<!ENTITY sync.subtitle.connect.label "Me miyo Jami tic megi manyen, “Yer &syncBrand.shortName.label;” ikum jami tic">
 <!ENTITY sync.subtitle.header.label "Ket nyig coc ma eni ni i kom kompiuta mamegi">
-<!ENTITY sync.subtitle.connectlocation.label "Yer '' &sync.title.pair.label;” iyi &syncBrand.shortName.label; dul me cal me ayera pi Firefox ma i kompiuta mamegi.">
-<!ENTITY sync.subtitle.pair.label "Me miyo tic, yer '' Ket jami tic aryo aryo '' ikom jami tic megi mapat.">
+<!ENTITY sync.subtitle.connectlocation.label "Yer “&sync.title.pair.label;” iyi &syncBrand.shortName.label; dul me cal me ayera pi Firefox ma i kompiuta mamegi.">
+<!ENTITY sync.subtitle.pair.label "Me miyo tic, yer “Ket jami tic aryo aryo” ikom jami tic megi mapat.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Nyuta yore mene.">
