@@ -8,3 +8,6 @@
 <!ENTITY setDesktopBackground.title "ഡസ്ക് ടോപ്പ് പശ്ചാത്തലം ക്റമികരിക്കുക">
 <!ENTITY openDesktopPrefs.label "ഡസ്ക് ടോപ്പ്  മുന്‍ഗണനകള്‍ തുറക്കുക ">
 <!ENTITY closeWindow.key "w">
+
+<!ENTITY fill.label                 "നിറയ്ക്കുക">
+<!ENTITY fit.label                  "പാകത്തിനാക്കുക">

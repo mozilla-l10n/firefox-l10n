@@ -31,6 +31,12 @@
 <!-- ENTITY systemDefaults.label "സിസ്റ്റം ഡിഫോള്‍ട്ടുകള്‍ " -->
 <!-- ENTITY alwaysCheckDefault.label "&brandShortName; ഡിഫോള്‍ട്ട്‌ ബ്രൌസര്‍ ആണോ എന്നത്‌ സ്റ്റാര്‍ട്ട്‌ ചെയ്യുമ്പോള്‍ എല്ലാ തവണയും പരിശോധിക്കുക" -->
 <!-- ENTITY alwaysCheckDefault.accesskey "y" -->
+
+<!ENTITY chooseBookmark.label      "അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreOnDemand.label     "തെരഞ്ഞെടുക്കാത്തിടത്തോളം റ്റാബുകള്‍ ലഭ്യമാക്കേണ്ട">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!-- ENTITY alwaysCheckDefault.height "3em" -->
 <!-- ENTITY checkNow.label "ഇപ്പോള്‍ പരിശോധിക്കുക " -->
 <!-- ENTITY checkNow.accesskey "N" -->

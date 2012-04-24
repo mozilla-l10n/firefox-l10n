@@ -81,3 +81,17 @@
 <!-- ENTITY channel.selector.start          "പരിഷ്കരിച്ച ചാനലിലേക്കു്" -->
 <!-- ENTITY channel.selector.end            "മാറുക." -->
 
+<!ENTITY community.end3             " വെബ് ഓപ്പണും പബ്ലിയ്ക്കാക്കുന്നതിനും എല്ലാര്‍ക്കും ലഭ്യമാക്കുന്നതിനും ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
+
+<!ENTITY community.exp.creditsLink  "ഗ്ലോബല്‍ സമൂഹം">
+
+<!ENTITY community.exp.end          " വെബ് ഓപ്പണും പബ്ലിയ്ക്കാക്കുന്നതിനും എല്ലാര്‍ക്കും ലഭ്യമാക്കുന്നതിനും ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
+<!ENTITY community.exp.middle       " ">
+
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.start        "">
+
+<!ENTITY warningDesc.telemetry      "&brandShortName; മെച്ചമാക്കുന്നതിനായി &vendorShortName;-ലേക്കു് പരീക്ഷിച്ച വിവരങ്ങള്‍ തിരികെ സ്വയമായി അയയ്ക്കുന്നു.">
+
+<!ENTITY warningDesc.version        "&brandShortName; പരീക്ഷണാര്‍ത്ഥമുള്ളതാകുന്നു, അതിനാല്‍ അസ്ഥിരവുമാകുന്നു.">
+

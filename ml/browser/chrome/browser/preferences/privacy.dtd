@@ -115,3 +115,9 @@
 <!ENTITY doNotTrack.label               "നിരീക്ഷണത്തിന്റെ ആവശ്യമില്ലെന്നു് വെബ് സൈറ്റുകളെ അറിയിയ്ക്കുക">
 <!ENTITY doNotTrack.accesskey           "d">
 
+
+<!ENTITY  privateBrowsingPermanent2.label "എപ്പോഴും സ്വകാര്യ ബ്രൌസിങ് മോഡ് ഉപയോഗിയ്ക്കുക">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
+<!ENTITY  rememberHistory2.label      "ബ്രൌസ് ചെയ്തതും ഡൌണ്‍ലോഡ് ചെയ്തതുമായ നാള്‍വഴി സൂക്ഷിയ്ക്കുക">
+<!ENTITY  rememberHistory2.accesskey  "b">

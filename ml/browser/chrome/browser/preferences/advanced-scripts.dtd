@@ -48,3 +48,5 @@
 <!-- ENTITY hideStatusBar.accesskey "H" -->
 <!-- ENTITY changeStatusBar.label "സ്ഥിതിവിവര പട്ടയിലെ ടെക്സ്റ്റ്‌ മാറ്റുക" -->
 <!-- ENTITY changeStatusBar.accesskey "C" -->
+<!ENTITY moveResizePopupWindows.label     "പോപ്പപ്പ് ജാലകങ്ങള്‍ നീക്കുക അല്ലെങ്കില്‍ വ്യാപ്തി മാറ്റുക">
+<!ENTITY moveResizePopupWindows.accesskey "M">

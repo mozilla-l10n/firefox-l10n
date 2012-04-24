@@ -544,5 +544,34 @@
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 
+<!ENTITY backForwardButtonMenu.tooltip "നാള്‍വഴിയ്ക്കായി റൈറ്റ് ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കില്‍ താഴേയ്ക്കു് വലിയ്ക്കുക">
+<!ENTITY backForwardButtonMenuMac.tooltip "നാള്‍വഴിയ്ക്കായി താഴേയ്ക്കു് വലിയ്ക്കുക">
+<!ENTITY domFullScreenWarning.label "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍ നിന്നും മാറ്റുന്നതിനായി ESC അമര്‍ത്തുക">
+<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY htmlPanel.label              "എച്ടിഎംഎല്‍">
+<!ENTITY htmlPanel.tooltiptext        "എച്ടിഎംഎല്‍ പാനല്‍">
+<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspect3DViewButton.label     "ത്രിഡി കാഴ്ച">
 
+<!ENTITY inspectCloseButton.tooltiptext "പരിശോധകന്‍ അടയ്ക്കുക">
+<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "എലമെന്റ് പരിശോധിയ്ക്കുക">
+<!ENTITY inspectorHTMLCopyInner.label       "അകത്തുള്ള എച്ടിഎംഎല്‍ പകര്‍ത്തുക">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY inspectorHTMLCopyOuter.label       "പുറത്തുള്ള എച്ടിഎംഎല്‍ പകര്‍ത്തുക">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLDelete.label          "നോഡ് വെട്ടിനീക്കുക">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
 
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY styleeditor.label            "സ്റ്റൈല്‍ ഏഡിറ്റര്‍">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+<!ENTITY videoShowStats.label        "സ്ഥിതിവിവരക്കണക്കുകള്‍ കാണിയ്ക്കുക">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "സ്ഥിതിവിവരക്കണക്കുകള്‍ മറയ്ക്കുക">
+<!ENTITY videoHideStats.accesskey    "t">
+
+<!ENTITY videoSaveImage.label        "സ്നാപ്പ്ഷോട്ട് ഇങ്ങനെ സൂക്ഷിയ്ക്കുക…">
+<!ENTITY videoSaveImage.accesskey    "S">
