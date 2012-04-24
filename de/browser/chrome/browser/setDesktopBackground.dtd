@@ -1,7 +1,9 @@
 <!ENTITY position.label             "Position:">
-<!ENTITY tile.label                 "Kacheln">
+<!ENTITY tile.label                 "Nebeneinander">
 <!ENTITY center.label               "Zentriert">
-<!ENTITY stretch.label              "Strecken">
+<!ENTITY stretch.label              "Gestreckt">
+<!ENTITY fill.label                 "Gefüllt">
+<!ENTITY fit.label                  "Angepasst">
 <!ENTITY preview.label              "Vorschau">
 <!ENTITY color.label                "Farbe:">
 <!ENTITY setDesktopBackground.title "Hintergrundbild einrichten">

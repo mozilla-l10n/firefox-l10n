@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName;-Abgesicherter Modus">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; wurde beim Starten unerwartet beendet">
+<!ENTITY autoSafeModeDescription.label "Wir entschuldigen uns aufrichtig für diese Unannehmlichkeit. &brandShortName; läuft nun im abgesicherten Modus, welcher temporär benutzerdefinierte Einstellungen, Themes und Erweiterungen deaktiviert.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; befindet sich momentan im abgesicherten Modus. Alle Benutzereinstellungen, Themes und Erweiterungen wurden vorübergehend deaktiviert.">
 <!ENTITY safeModeDescription2.label   "Sie können alle oder einige dieser Änderungen auch dauerhaft beibehalten:">
 
