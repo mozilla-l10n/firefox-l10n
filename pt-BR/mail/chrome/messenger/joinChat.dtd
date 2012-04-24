@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Entrar no bate-papo">
+<!ENTITY name.label                     "Sala">
+<!ENTITY optional.label                 "(opcional)">
+<!ENTITY account.label                  "Conta">
+<!ENTITY autojoin.label                 "Entrar automaticamente nesta sala de bate-papo">
+<!ENTITY autojoin.accesskey             "E">
