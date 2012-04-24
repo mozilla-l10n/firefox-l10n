@@ -34,7 +34,7 @@
 <!ENTITY report.failed                                       "രേഖപ്പെടുത്തല്‍ പരാജയപ്പെട്ടു.">
 <!ENTITY report.unavailable                                  "റിപ്പോര്‍ട്ട് ലഭ്യമല്ല.">
 
-!ENTITY missingPlugin                                       "ഇതു് കാണുന്നതിനായി ഒരു പ്ലഗിന്‍ ആവശ്യമുണ്ടു്.">
+<!ENTITY missingPlugin                                       "ഇതു് കാണുന്നതിനായി ഒരു പ്ലഗിന്‍ ആവശ്യമുണ്ടു്.">
 <!ENTITY clickToPlayPlugin                                   "പ്ലഗിന്‍ സജീവമാക്കുന്നതിനായി ഇവിടെ അമര്‍ത്തുക.">
 <!ENTITY disabledPlugin                                      "ഈ പ്ലഗിന്‍ പ്രവര്‍ത്തന രഹിതമാകുന്നു.">
 
