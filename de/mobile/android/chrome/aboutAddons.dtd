@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Add-ons-Manager">
+<!ENTITY aboutAddons.header2                    "Ihre Add-ons">
+<!ENTITY aboutAddons.options                    "Einstellungen">
+
+<!ENTITY addonAction.enable                     "Aktivieren">
+<!ENTITY addonAction.disable                    "Deaktivieren">
+<!ENTITY addonAction.uninstall                  "Deinstallieren">
+<!ENTITY addonAction.cancel                     "Rückgängig">
