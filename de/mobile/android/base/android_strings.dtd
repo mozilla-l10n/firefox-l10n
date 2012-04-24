@@ -1,9 +1,15 @@
 
-<!ENTITY  splash_screen_loading "Lädt">
-<!ENTITY  splash_screen_installing_libs "Libraries werden installiert\u2026">
-<!ENTITY  splash_firstrun "&brandShortName; wird eingerichtet\u2026">
+<!ENTITY  splash_settingup "&brandShortName; wird eingerichtet\u2026">
+<!ENTITY  splash_bookmarks_history "Ihre Lesezeichen und Chronik wird aktualisiert, dies kann eine Minute in Anspruch nehmen.">
+
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
 <!ENTITY  error_loading_file "Beim Versuch, Dateien zu laden, die &brandShortName; benötigt, ist ein Fehler aufgetreten">
+
+<!ENTITY  awesomebar_all_pages_title "Meistbesuchte Seiten">
+<!ENTITY  awesomebar_bookmarks_title "Lesezeichen">
+<!ENTITY  awesomebar_history_title "Chronik">
+<!ENTITY  awesomebar_search_engine "Suche für \&quot;&#037;s\&quot;">
+
 <!ENTITY  crash_reporter_title "&brandShortName;-Absturz-Melder">
 <!ENTITY  crash_message "&brandShortName; ist abgestürzt. Ihre Tabs sollten auf der &brandShortName;-Startseite angezeigt werden, wenn Sie neu starten.">
 <!ENTITY  crash_help_message "Bitte helfen Sie uns, dieses Problem zu beheben!">
@@ -19,3 +25,103 @@
 <!ENTITY  launcher_shortcuts_empty "Es wurden keine Web-Apps gefunden">
 
 <!ENTITY choose_file "Datei wählen">
+
+<!ENTITY awesomebar_default_text "Suche oder Adresse eingeben">
+
+<!ENTITY remote_tabs "Synchronisierte Tabs">
+<!ENTITY remote_tabs_show_all "Alle Tabs anzeigen">
+
+<!ENTITY bookmark "Lesezeichen">
+<!ENTITY bookmark_added "Lesezeichen hinzugefügt">
+<!ENTITY bookmark_removed "Lesezeichen gelöscht">
+<!ENTITY bookmark_updated "Lesezeichen aktualisiert">
+
+<!ENTITY history_today_section "Heute">
+<!ENTITY history_yesterday_section "Gestern">
+<!ENTITY history_week_section "Letzte 7 Tage">
+<!ENTITY history_older_section "Älter als 7 Tage">
+
+<!ENTITY reload "Neu laden">
+<!ENTITY forward "Eine Seite vor">
+
+<!ENTITY new_tab "Neuer Tab">
+<!ENTITY new_tab_opened "Neuer Tab geöffnet">
+
+<!ENTITY settings "Einstellungen">
+<!ENTITY settings_title "Einstellungen">
+<!ENTITY pref_category_general "Allgemein">
+<!ENTITY pref_category_privacy "Privatsphäre &amp; Sicherheit">
+<!ENTITY pref_category_content "Inhalt">
+<!ENTITY pref_about_firefox "Über &brandShortName;">
+<!ENTITY pref_do_not_track "Website mitteilen, dass ich nicht verfolgt werden möchte">
+<!ENTITY pref_telemetry "Performanz-Daten senden">
+<!ENTITY pref_remember_signons "Passwörter speichern">
+<!ENTITY pref_cookies "Cookies akzeptieren">
+<!ENTITY pref_char_encoding "Zeichenkodierung">
+<!ENTITY pref_char_encoding_on "Im Menü anzeigen">
+<!ENTITY pref_char_encoding_off "Nicht im Menü anzeigen">
+<!ENTITY pref_clear_history "Chronik löschen">
+<!ENTITY pref_clear_history_confirm "Die Browserchronik wird gelöscht">
+<!ENTITY pref_clear_private_data "Private Daten löschen">
+<!ENTITY pref_clear_private_data_confirm "Seitenspezifische Daten wie Passwörter und Cookies werden gelöscht>
+<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins_enabled "Aktiviert">
+<!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
+<!ENTITY pref_plugins_disabled "Deaktiviert">
+<!ENTITY pref_text_size "Textgröße">
+<!ENTITY pref_font_size_tiny "Winzig">
+<!ENTITY pref_font_size_small "Klein">
+<!ENTITY pref_font_size_medium "Mittel">
+<!ENTITY pref_font_size_large "Groß">
+<!ENTITY pref_font_size_xlarge "Riesig">
+<!ENTITY pref_use_master_password "Master-Passwort benutzen">
+<!ENTITY pref_sync "Sync">
+
+<!ENTITY quit "Beenden">
+
+<!ENTITY addons "Add-ons">
+<!ENTITY downloads "Downloads">
+<!ENTITY char_encoding "Zeichenkodierung">
+
+<!ENTITY share "Teilen">
+<!ENTITY share_title "Teilen mittels">
+<!ENTITY save_as_pdf "Als PDF speichern">
+
+<!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
+<!ENTITY contextmenu_remove_bookmark "Löschen">
+<!ENTITY contextmenu_add_to_launcher "Zu Startbildschirm hinzufügen">
+<!ENTITY contextmenu_share "Teilen">
+<!ENTITY contextmenu_edit_bookmark "Bearbeiten">
+
+<!ENTITY bookmark_edit_title "Lesezeichen bearbeiten">
+<!ENTITY bookmark_edit_name "Name">
+<!ENTITY bookmark_edit_location "Adresse">
+<!ENTITY bookmark_edit_keyword "Schlagwort">
+
+<!ENTITY site_settings_title        "Seiteneinstellungen löschen">
+<!ENTITY site_settings_cancel       "Abbrechen">
+<!ENTITY site_settings_clear        "Löschen">
+<!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar.">
+
+<!ENTITY masterpassword_create_title "Master-Passwort festlegen">
+<!ENTITY masterpassword_remove_title "Master-Passwort entfernen">
+<!ENTITY masterpassword_password "Passwort">
+<!ENTITY masterpassword_confirm "Passwort bestätigen">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Abbrechen">
+
+<!ENTITY abouthome_addons_title "Add-ons für &brandShortName;">
+<!ENTITY abouthome_addons_browse "Alle &brandShortName;-Add-ons durchsehen">
+<!ENTITY abouthome_last_tabs_title "Ihre Tabs der letzten Sitzung">
+<!ENTITY abouthome_last_tabs_open "Alle Tabs der letzten Sitzung öffnen">
+<!ENTITY abouthome_top_sites_title "Meistbesuchte Seiten">
+<!ENTITY abouthome_top_sites_browse "Alle häufig besuchten Seiten durchsehen">
+<!ENTITY abouthome_no_top_sites "Sie vefügen noch nicht über meistbesuchte Seiten. Tippen Sie auf Titelleiste, um mit dem Surfen zu beginnen.">
+<!ENTITY abouthome_about_sync "Richten Sie Firefox-Sync ein, um auf Lesezeichen, Chronik und Tabs von anderen Geräten aus zuzugreifen">
+<!ENTITY abouthome_sync_bold_name "Firefox-Sync">
+
+<!ENTITY filepicker_title "Datei auswählen">
+<!ENTITY filepicker_audio_title "Einen Ton auswählen oder aufnehmen">
+<!ENTITY filepicker_image_title "Ein Bild auswählen oder aufnehmen">
+<!ENTITY filepicker_video_title "Ein Video auswählen oder aufnehmen">
