@@ -1,0 +1,21 @@
+
+<!ENTITY  splash_firstrun "Inasanidi &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Hakuna nafasi ya kutosha inayopatikana ya &brandShortName; ili kuanza.">
+<!ENTITY  error_loading_file "Hitilafu ilitokea ikijaribu kupakia faili zinazohitajika kuendesha &brandShortName;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Ripoti ya Mvurugo">
+<!ENTITY  crash_message "&brandShortName; imevuruga. Vichupo zako zinafaa kuorodheshwa kwenye &brandShortName;Ukurasa wa kuanza unapo washa upya.">
+<!ENTITY  crash_help_message "Tafadhali tusaidie kutatua tatizo hili!">
+<!ENTITY  crash_send_report_message "Tumia Mozilla ripoti ya mvurugo">
+<!ENTITY  crash_include_url "Jumuisha anwani ya ukurasa">
+<!ENTITY  crash_close_label "Funga">
+<!ENTITY  crash_restart_label "Anzisha upya &brandShortName;">
+<!ENTITY  sending_crash_report "Inatuma ripoti ya mvurugo\u2026">
+<!ENTITY  exit_label "Toka">
+<!ENTITY  continue_label "Endelea">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Programu za Wavuti">
+<!ENTITY  launcher_shortcuts_empty "Hakuna programu za wavuti zilizopatikana">
+
+<!ENTITY choose_file "Chagua Faili">

@@ -1,0 +1,25 @@
+<!ENTITY safeb.palm.warning.title "Inakisiwa kuwa Ughushi wa Tovuti">
+
+<!ENTITY safeb.palm.message.p1 "Ukurasa huu umeripotiwa kama ughushi wa wavuti ulioumbwa kudanganya watumiaji kugawiza maelezo ya kibinafsi au ya kifedha. Kuingiza maelezo ya kibinafsi kwenye ukurasa huu kutasababisha wizi wa utambulishi au udanganyifu mwingine. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Soma zaidi &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Soma zaidi &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Aina hizi za ughuzhi wa wavuti zinatumiwa na ushambulizi unaojulikana kama utapeli data, ambapo kurasa za tovuti zisizo za kweli na barua pepe hutumiwa kuiga chanzo unachoamini. Unaweza kutafuta maelezo zaidi kuhusu ">
+<!ENTITY safeb.palm.message.p2.linkText "jinsi &brandShortName; inakulinda">
+<!ENTITY safeb.palm.message.p2.end " dhidi ya ushambulizi wa utapeli data.">
+
+<!ENTITY safeb.palm.accept.label "Niondoe hapa!">
+<!ENTITY safeb.palm.accept.statustext "Abiri kwa ukurasa maskani">
+<!ENTITY safeb.palm.decline.label "Puuza onyo hili">
+<!ENTITY safeb.palm.decline.statustext "Funga onyo" >
+<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
+<!ENTITY safeb.palm.reportPage.label "Kwa nini ukurasa huu umezuiliwa?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Ukurasa umeripotiwa kuwa Shambulizi!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Ukurasa huu katika <span id='malware_sitename'/> umeripotiwa kuwa ukurasa shambulizi na umezuiliwa ukizingatia mapendeleo yako ya kiusalama.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kurasa shambulizi hujaribu kusakinisha programu zinazoiba maelezo ya kibinafsi, kutumia tarakilishi yako kushambulia zingine, au kudhuru mfumo wako.</p><p>Kurasa zingine za ushambulizi husambaza maksudi programu mbaya, lakini nyingi zinaafikiana bila ujuzi au ruhusa ya mmiliki.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Suspected Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
