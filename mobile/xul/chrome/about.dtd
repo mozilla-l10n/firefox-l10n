@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Thông tin về &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Hỗ trợ">
+<!ENTITY aboutPage.privacyPolicy.label          "Chính sách Riêng tư">
+<!ENTITY aboutPage.rights.label                 "Biết Về Quyền Của Bạn">
+<!ENTITY aboutPage.relNotes.label               "Ghi chú Phát hành">
+<!ENTITY aboutPage.credits.label                "Công trạng">
+<!ENTITY aboutPage.checkForUpdates.button       "Kiểm tra Cập nhật">
+<!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
+<!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
+<!ENTITY aboutPage.checkForUpdates.found        "Có cập nhật">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Thông tin giấy phép">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

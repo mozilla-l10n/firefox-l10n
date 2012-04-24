@@ -1,0 +1,18 @@
+
+<!ENTITY  splash_screen_loading "Đang tải">
+<!ENTITY  splash_screen_installing_libs "Đang cài đặt thư viện\u2026">
+<!ENTITY  splash_firstrun "Thiết lập &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Không có đủ dung lượng trống để &brandShortName; khởi động.">
+<!ENTITY  error_loading_file "Một lỗi xảy ra khi đang cố tải các tập tin để chạy &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Trình báo cáo Lỗi &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; đã bị đổ vỡ. Thẻ của bạn sẽ được liệt kê trên trang Khởi Động &brandShortName; khi bạn khởi động lại.">
+<!ENTITY  crash_help_message "Vui lòng giúp chúng tôi sửa vấn đề này!">
+<!ENTITY  crash_send_report_message "Gửi Mozilla một báo cáo đổ vỡ">
+<!ENTITY  crash_include_url "Bao gồm địa chỉ trang">
+<!ENTITY  crash_close_label "Đóng">
+<!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
+<!ENTITY  sending_crash_report "Đang gửi báo cáo lỗi\u2026">
+<!ENTITY  exit_label "Thoát">
+<!ENTITY  continue_label "Tiếp tục">

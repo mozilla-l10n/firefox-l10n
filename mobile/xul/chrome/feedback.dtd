@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader2.label          "Công cụ Phản hồi">
+
+<!ENTITY feedback.communicate.title     "Liên lạc với Chúng tôi!">
+<!ENTITY feedback.feedback.title        "Gửi phản hồi">
+<!ENTITY feedback.feedback.good         "Tốt">
+<!ENTITY feedback.feedback.bad          "Dở">
+
+<!ENTITY feedback.information.title     "Thông tin Chi tiết">
+<!ENTITY feedback.about.title           "Thông tin về bản Beta này">
+<!ENTITY feedback.about.button          "Chuyển đến Trang">
+
+<!ENTITY feedback.tools.title           "Công cụ">
+<!ENTITY feedback.forceCompat.title     "Bắt buộc sự tương thích của tiện ích">
+<!ENTITY feedback.errorConsole.title    "Kích hoạt Bảng kiểm soát Lỗi">

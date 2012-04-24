@@ -1,0 +1,15 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Bắt đầu</span>">
+<!ENTITY aboutHome.recentTabs                   "Các thẻ từ lần dùng cuối của bạn">
+<!ENTITY aboutHome.remoteTabs                   "Thẻ từ máy tính khác của bạn">
+<!ENTITY aboutHome.recommendedAddons2           "Tiện ích cho &brandShortName; của bạn">
+<!ENTITY aboutHome.giveFeedback                 "Gửi phản hồi">
+<!ENTITY aboutHome.getHelp                      "Tìm trợ giúp">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "Mở tất cả trong thẻ">
+<!ENTITY aboutHome.noTabs                       "Không có thẻ nào từ lần dùng trước">
+<!ENTITY aboutHome.noAddons                     "Không có tiện ích được khuyên dùng">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
+<!ENTITY aboutHome.promoButton                  "Chơi">
