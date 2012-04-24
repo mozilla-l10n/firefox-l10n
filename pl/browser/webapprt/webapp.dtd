@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Plik">
+<!ENTITY fileMenu.accesskey                 "P">
+
+<!ENTITY quitApplicationCmdWin.label        "Zakończ">
+<!ENTITY quitApplicationCmdWin.accesskey    "k">
+<!ENTITY quitApplicationCmd.label           "Zakończ">
+<!ENTITY quitApplicationCmd.accesskey       "k">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Ukryj pozostałe">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Pokaż wszystkie">
+
+<!ENTITY editMenu.label                     "Edycja">
+<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY undoCmd.label                      "Cofnij">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "C">
+<!ENTITY redoCmd.label                      "Przywróć">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "P">
+<!ENTITY cutCmd.label                       "Wytnij">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "W">
+<!ENTITY copyCmd.label                      "Kopiuj">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "K">
+<!ENTITY pasteCmd.label                     "Wklej">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "e">
+<!ENTITY deleteCmd.label                    "Usuń">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "U">
+<!ENTITY selectAllCmd.label                 "Zaznacz wszystko">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "a">
