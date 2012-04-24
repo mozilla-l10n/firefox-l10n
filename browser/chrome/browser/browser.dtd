@@ -220,10 +220,16 @@ can reach it easily. -->
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
-<!ENTITY inspectPanelTitle.label      	"HTML">
-<!ENTITY inspectButton.label          	"Untersuchen">
-<!ENTITY inspectButton.accesskey      	"U">
 <!ENTITY inspectCloseButton.tooltiptext "Inspektor schließen">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Nur vom Knoten umschlossenes HTML kopieren">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "u">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Knoten mit innerem HTML kopieren">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
+
+<!ENTITY inspectorHTMLDelete.label          "Knoten löschen">
+<!ENTITY inspectorHTMLDelete.accesskey      "s">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -598,3 +604,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Add-on-Leiste schließen">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML-Konsole">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
