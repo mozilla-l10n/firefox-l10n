@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName;-Start">
 <!ENTITY homepage.currentpage                      "Aktuelle Seite verwenden">
 <!ENTITY showCharsetEncoding.title                 "Zeichenkodierung anzeigen">
+<!ENTITY actionbar.default                         "Einstellungen für &brandShortName;">
