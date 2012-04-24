@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Cites d'avui">
 <!ENTITY calendar.events.filter.future.label "Totes les cites futures">
 <!ENTITY calendar.events.filter.current.label "Dia seleccionat actualment">
-<!ENTITY calender.events.filter.currentview.label "Cites en la vista actual">
+<!ENTITY calendar.events.filter.currentview.label "Cites a la vista actual">
 <!ENTITY calendar.events.filter.next7Days.label "Cites en els propers 7 dies">
 <!ENTITY calendar.events.filter.next14Days.label "Cites en els propers 14 dies">
 <!ENTITY calendar.events.filter.next31Days.label "Cites en els propers 31 dies">
@@ -253,6 +253,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
 <!ENTITY calendar.context.postpone.1week.label      "1 setmana">
 <!ENTITY calendar.context.postpone.1week.accesskey  "s">
+
+<!ENTITY calendar.copylink.label       "Copia l'enllaç">
+<!ENTITY calendar.copylink.accesskey   "C">
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->

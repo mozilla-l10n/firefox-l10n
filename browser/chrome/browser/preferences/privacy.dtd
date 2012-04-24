@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Adreces d'interès">
 <!ENTITY  locbar.nothing.label          "Res">
 
-
 <!ENTITY  acceptCookies.label           "Accepta galetes dels llocs web">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Utilitza sempre el mode de navegació privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Recorda el meu historial de navegació">
-<!ENTITY  rememberHistory.accesskey  "n">
-
-<!ENTITY  rememberDownload.label         "Recorda l'historial de baixades">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Recorda el meu historial de navegació i baixades">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Recorda l'historial de cerca i formularis">
 <!ENTITY  rememberSearchForm.accesskey   "f">

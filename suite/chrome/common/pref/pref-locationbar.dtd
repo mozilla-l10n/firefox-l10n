@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "Només paraules senceres">
 <!ENTITY autoCompleteMatchStart                "Només al principi de l'adreça o el títol">
 
+<!ENTITY formatting.label                      "Formatació">
+<!ENTITY domainFormatting.label                "Ressalta l'adreça dels llocs web i dels servidors FTP.">
+<!ENTITY domainFormatting.accesskey            "d">
+
 <!ENTITY searchEngine.label                    "Motor de cerca d'Internet">
 <!ENTITY showSearchEngine.label                "Mostra el motor de cerca per defecte">
 <!ENTITY showSearchEngine.accesskey            "e">

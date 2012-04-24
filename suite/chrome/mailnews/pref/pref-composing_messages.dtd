@@ -67,3 +67,23 @@
 <!ENTITY fontColor.accesskey                  "e">
 <!ENTITY bgColor.label                        "Fons:">
 <!ENTITY bgColor.accesskey                    "F">
+
+<!ENTITY selectHeaderType.label               "Seleccioneu el tipus de capçalera de resposta:">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "Sense capçalera de resposta">
+<!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the 
+  mailnews.reply_header_authorwrote preference. [Author] needs to be 
+  translated. -->
+<!ENTITY authorWroteOption.label              "[L'autor/ora] ha escrit:">
+<!-- LOCALIZATION NOTE (onDateAuthorWroteOption.label): this is tied to the 
+  combination of the mailnews.reply_header_ondate(On [date]), 
+  mailnews.reply_header_separator (a comma in this case) and 
+  mailnews.reply_header_authorwrote([Author] wrote) preferences. [date] and 
+  [Author] need to be translated, and the correct  separator put in. -->
+<!ENTITY onDateAuthorWroteOption.label        "En la [data], [l'autor/ora] ha escrit:">
+<!-- LOCALIZATION NOTE (authorWroteOnDateOption.label): this is tied to the 
+  combination of the mailnews.reply_header_authorwrote([Author] wrote), 
+  mailnews.reply_header_separator (a comma in this case), and 
+  mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
+  need to be translated, and the correct separator put in. -->
+<!ENTITY authorWroteOnDateOption.label        "[L'autor/ora] ha escrit, en la [data]:">

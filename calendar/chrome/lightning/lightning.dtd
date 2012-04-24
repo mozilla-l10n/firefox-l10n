@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "i">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostra les cites en el Plafó d'avui">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Mostra les tasques en el Plafó d'avui en mode Tasques">
 <!ENTITY lightning.calendarproperties.email.label               "Correu electrònic:">
 <!-- iMIP Bar (meeting support) -->
 
