@@ -68,7 +68,7 @@
 <!ENTITY rights.intro-point2-b "యిక్కడ చూడవచ్చు">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "&brandShortName; నందు కొన్ని విశేషణములు, క్రాష్ నివేదిక వంటిది, యిది మీరు &vendorShortName;కు స్పందనను అందించు ఐచ్చికమును యిచ్చును. స్పందనను అప్పజెప్పుము యెంచుకొనుట ద్వారా, మీరు &vendorShortName; కు దాని వుత్పత్తులను మెరుగుపరచుకొనుటకు స్పందనను వుపయోగించు అనుమతిని యిచ్చెదరు, మీరు స్పందనను దాని వెబ్‌సైట్లపై ప్రచురించుటకు, మరియు పంపిణీ చేయుటకు కూడా అనుమతినిచ్చెదరు.">
+<!ENTITY rights.intro-point2.5 "&brandShortName; నందు కొన్ని విశేషణములు, క్రాష్ నివేదిక వంటిది, యిది మీరు &vendorShortName;కు స్పందనను అందించు ఐచ్ఛికమును యిచ్చును. స్పందనను అప్పజెప్పుము యెంచుకొనుట ద్వారా, మీరు &vendorShortName; కు దాని వుత్పత్తులను మెరుగుపరచుకొనుటకు స్పందనను వుపయోగించు అనుమతిని యిచ్చెదరు, మీరు స్పందనను దాని వెబ్‌సైట్లపై ప్రచురించుటకు, మరియు పంపిణీ చేయుటకు కూడా అనుమతినిచ్చెదరు.">
 <!ENTITY rights.locationawarebrowsing-a "స్థానము తెలిసిన బ్రౌజింగ్: ">
 <!ENTITY rights.locationawarebrowsing-b "మీ అనుమతి లేకుండా యెప్పుడూ కూడా స్థానము సమాచారము పంపబడదు. ఈ సౌలభ్యమును మీరు పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించుము:">
 <!ENTITY rights.locationawarebrowsing-term1a "URL పట్టీనందు, యిది టైపు చేయుము ">
@@ -80,7 +80,7 @@
 <!ENTITY rights.safebrowsing-b "రక్షిత బ్రౌజింగ్ సౌలభ్యమును అచేతనము చేయుట సిఫార్సు చేయుటలేదు యెంచేతంటే అది మీరు సురక్షితంకాని సైటులకు వెళ్ళుటకు కారణం కావచ్చును. మీరు యీ సౌలభ్యమును పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించుము:">
 <!ENTITY rights.safebrowsing-term1 "అనువర్తనము అభీష్టాలను తెరువుము">
 <!ENTITY rights.safebrowsing-term2 "రక్షమ యెంపికను యెంపికచేయుము">
-<!ENTITY rights.safebrowsing-term3 "ఐచ్చికములను &quot;&blockAttackSites.label;&quot; కు మరియు &quot;&blockWebForgeries.label;&quot; కు అన్‌చెక్ చేయుము">
+<!ENTITY rights.safebrowsing-term3 "ఐచ్ఛికములను &quot;&blockAttackSites.label;&quot; కు మరియు &quot;&blockWebForgeries.label;&quot; కు అన్‌చెక్ చేయుము">
 <!ENTITY rights.safebrowsing-term4 "రక్షణ బ్రౌజింగ్ యిప్పుడు అచేతనము చేయబడింది">
 <!ENTITY rights2.intro-point3a "మీరు &vendorShortName; కు &brandShortName; ద్వారా అప్పజెప్పిన మీ వ్యక్తిగత సమాచారము మరియు స్పందనను మేము యెలా వుపయోగిస్తామో యిక్కడ తెలుపబడెను">
 <!ENTITY rights2.intro-point3b "&brandShortName; గోప్యతా విధానం">

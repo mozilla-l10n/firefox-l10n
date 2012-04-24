@@ -15,7 +15,7 @@
 <!ENTITY aboutSupport.appBasicsName "పేరు">
 <!ENTITY aboutSupport.appBasicsVersion "రూపాంతరం">
 <!ENTITY aboutSupport.appBasicsProfileDir "ప్రొఫైల్ డైరెక్టరీ">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "చేతనపరచిన ప్లగిన్స్">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "చేతనపరచిన చొప్పింతలు">
 <!ENTITY aboutSupport.appBasicsBuildConfig "నిర్మామ ఆకృతీకరణ">
 <!ENTITY aboutSupport.appBasicsUserAgent "వాడుకరి ప్రతినిధి">
 

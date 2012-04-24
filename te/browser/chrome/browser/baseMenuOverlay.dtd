@@ -40,7 +40,7 @@
 <!ENTITY helpFeedbackPage.accesskey  "S">
 <!ENTITY helpFeedbackPage.label      "స్పందనను తెలుపండి…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.label       "యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించుము…">
+<!ENTITY helpSafeMode.label       "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY helpTroubleshootingInfo.label      "సమస్యాపరిష్కారపు సమాచారము">
 

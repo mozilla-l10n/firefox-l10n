@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "సైటులు యాడ్-ఆన్స్ ను సంస్థాపించుటకు ప్రయత్నించునపుడు నన్నుహెచ్చరించు">
+<!ENTITY  warnAddonInstall.label        "సైటులు పొడిగింతలను సంస్థాపించుటకు ప్రయత్నించునపుడు నన్నుహెచ్చరించు">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):

@@ -64,7 +64,7 @@
 <!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళుము">
 <!ENTITY forwardCmd.label             "ముందుకు">
 <!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళము">
+<!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళుము">
 <!ENTITY reloadCmd.label              "తిరిగిలోడుచేయి">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "ప్రస్తుత పేజీని తిరిగిలోడుచేయి">
@@ -106,7 +106,7 @@
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "యాడ్-ఆన్స్">
+<!ENTITY addons.label                 "పొడిగింతలు">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY errorConsoleCmd.label        "తప్పుల తెర">
 <!ENTITY errorConsoleCmd.accesskey    "C">
@@ -138,7 +138,7 @@
 <!ENTITY selectAllCmd.label         "అన్నిటిని ఎన్నుకొనుము">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "ఐచ్చికాలు">
+<!ENTITY preferencesCmd2.label       "ఐచ్ఛికాలు">
 <!ENTITY preferencesCmdUnix.label       "అభీష్టాలు">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 <!ENTITY preferencesCmd2.accesskey     "O">
@@ -284,7 +284,7 @@
 <!ENTITY copyButton.tooltip             "నకలుతీయి">
 <!ENTITY pasteButton.tooltip            "అతికించు">
 <!ENTITY fullScreenButton.tooltip       "విండోలను పూర్తి తెరలో చూపించు">
-<!ENTITY quitApplicationCmdWin.label       "బయటకు"> 
+<!ENTITY quitApplicationCmdWin.label       "నిష్క్రమించు"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -307,7 +307,7 @@
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "పాప్అప్ బ్లాకరు ఆభీష్టాలను సరిచేయి...">
-<!ENTITY editPopupSettings.label "పాప్అప్ బ్లాకరు ఐచ్చికాలను సరిచేయి...">
+<!ENTITY editPopupSettings.label "పాప్అప్ బ్లాకరు ఐచ్ఛికాలను సరిచేయి...">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 <!ENTITY bidiSwitchPageDirectionItem.label        "పేజీ దిశను మార్చు">
@@ -372,12 +372,12 @@
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageInfoCmd.label       "చిత్రము సమాచారాన్ని దర్శించుము">
 <!ENTITY addonBarCmd.accesskey "A">
-<!ENTITY addonBarCmd.label "యాడ్-ఆన్ పట్టీ">
+<!ENTITY addonBarCmd.label "పొడిగింత పట్టీ">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY appMenuFind.label "కనుగొను…">
 <!ENTITY appMenuGettingStarted.label "ప్రారంభమునకు సిద్దమౌతోంది">
 <!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY appMenuSafeMode.label "యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించుము…">
+<!ENTITY appMenuSafeMode.label "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY appMenuSidebars.label "పక్కపట్టీలు">
 <!ENTITY appMenuToolbarLayout.label "సాధనపట్టీ నమూనా…">
 <!ENTITY appMenuUnsorted.label "క్రమపరచని యిష్టాంశములు">
@@ -437,7 +437,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "టాబ్ సమూహములు">
 <!ENTITY tabGroupsButton.tooltip      "మీ టాబ్‌లను సమూహపరచుము">
 <!ENTITY tabView.commandkey           "e">
-<!ENTITY tabsToolbar.label "బ్రౌజర్ టాబ్‌లు">
+<!ENTITY tabsToolbar.label "విహారిణి టాబ్‌లు">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  undoCloseTab.label                 "మూసినటాబ్ తిరిగివుంచు">
 <!ENTITY  unpinAppTab.accesskey              "b">
@@ -458,7 +458,7 @@ can reach it easily. -->
 <!ENTITY zoomControls.label             "జూమ్ నియంత్రికలు">
 <!ENTITY zoomInButton.tooltip           "జూమ్ పెంచు">
 <!ENTITY zoomOutButton.tooltip          "జూమ్ తగ్గించు">
-<!ENTITY addonBarCloseButton.tooltip  "ఏడ్-ఆన్ బార్ మూయి">
+<!ENTITY addonBarCloseButton.tooltip  "పొడిగింత బార్ మూయి">
 <!ENTITY toggleAddonBarCmd.key        "/">
 <!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూపుటకు కుడి-నొక్కు నొక్కండి లేదా కిందికి లాగండి">
 <!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూపుటకు కిందకు లాగండి">

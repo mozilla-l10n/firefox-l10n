@@ -22,10 +22,10 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ఫైల్సు ఎక్కడ భద్రపరచాలో ఎప్పుడూ నన్ను ఆడుగు">
 <!ENTITY alwaysAsk.accesskey "A">
-<!ENTITY addonsMgr.label               "యాడ్-ఆన్స్">
-<!ENTITY manageAddonsDescWin.label     "మీ యాడ్-ఆన్స్ కొరకు ఐచ్చికాలను మార్చండి">
-<!ENTITY manageAddonsDescUnix2.label   "మీ యాడ్-ఆన్స్ కొరకు అభీష్టాలను మార్చండి">
-<!ENTITY manageAddons.label            "యాడ్-ఆన్స్ నిర్వహించండి…">
+<!ENTITY addonsMgr.label               "పొడిగింతలు">
+<!ENTITY manageAddonsDescWin.label     "మీ పొడిగింతల కొరకు ఐచ్ఛికాలను మార్చండి">
+<!ENTITY manageAddonsDescUnix2.label   "మీ పొడిగింతల కొరకు అభీష్టాలను మార్చండి">
+<!ENTITY manageAddons.label            "పొడిగింతలు నిర్వహించండి…">
 <!ENTITY manageAddons.accesskey        "M">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY homepage.label            "నివాస పేజీ:">

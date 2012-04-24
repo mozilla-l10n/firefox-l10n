@@ -2,7 +2,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "ప్రోక్సీలు ఇంటర్నెట్‌ను వాడుకొనునట్లు ఆకృతీకరించు">
+<!ENTITY  proxyTitle.label              "ప్రోక్సీలు అంతర్జాలమును వాడుకొనునట్లు ఆకృతీకరించు">
 <!ENTITY  WPADTypeRadio.label           "ఈ నెట్వర్క్  కొరకు స్వయంచాలక -గుర్తింపు ప్రోక్సీ అమరికలు">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "మానవీయంగా ప్రోక్సీ ఆకృతీకరణ:">

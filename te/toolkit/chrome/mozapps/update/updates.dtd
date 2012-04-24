@@ -5,9 +5,9 @@
 
 <!ENTITY  checking.title                  "నవీకరణల  కొరకు  పరిశీలిస్తున్నది">
 <!ENTITY  updateCheck.label               "&brandShortName; ఇప్పుడు  నవీకరణల కొరకు  పరిశీలిస్తున్నది…">
-<!ENTITY  pluginupdatesfound.title        "ప్లగ్‌ఇన్స్  కు నవీకరణలు  కనబడినవి">
-<!ENTITY  pluginupdatesfound.label        "ఒకటి లేక మరిన్న మీ ప్లగ్‌ఇన్స్ కి తాజా రూపాంతరములు  కనబడినవి.">
-<!ENTITY  pluginupdateslink.label         "మీ ప్లగ్‌ఇన్స్  నవీకరించడం కోసం చూడండి.">
+<!ENTITY  pluginupdatesfound.title        "చొప్పింతలు  కు నవీకరణలు  కనబడినవి">
+<!ENTITY  pluginupdatesfound.label        "ఒకటి లేక మరిన్న మీ చొప్పింతలు కి తాజా రూపాంతరములు  కనబడినవి.">
+<!ENTITY  pluginupdateslink.label         "మీ చొప్పింతలు  నవీకరించడం కోసం చూడండి.">
 
 
 <!ENTITY  noupdatesfound.title            "ఏ  నవీకరణలు  కనుగొనబడలేదు">
@@ -32,7 +32,7 @@
 <!ENTITY  license.decline                 "నేను  విధాన  వొప్పందపత్రం యొక్క  నిభందనలను  ఆమోదించుటలేదు">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  incompatibleList.title          " సరిపోని యాడ్  ఆన్ లు  కనబడినవి ">
+<!ENTITY  incompatibleList.title          " సరిపోని పొడిగింతలు  కనబడినవి ">
 
 
 <!ENTITY  downloading.intro               "నవీకరణను  డౌనులోడుచేస్తోంది...">
@@ -55,8 +55,7 @@
 <!ENTITY  finishedPage.text               " &brandShortName;  పునఃప్రారంభం    చేసినపుడు ఈ నవీకరణ స్థాపించబడుతుంది . మీరు 
                                            &brandShortName;ను ఇప్పుడు   పునఃప్రారంభం చేయండి లేక  పని కొనసాగించి ఆతరువాత   పునఃప్రారంభం చేయండి.">
 
-<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
-                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; కొరకు వొక రక్షణ మరియు స్థిరత్వపు నవీకరణ దింపుకొనబడింది మరియు సంస్థాపనకు సిద్ధంగా వుంది.">
 
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         " &brandShortName;  పునఃప్రారంభం    చేసినపుడు ఈ నవీకరణ స్థాపించబడుతుంది . మీరు 
