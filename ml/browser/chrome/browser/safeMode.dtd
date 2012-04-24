@@ -37,7 +37,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-!ENTITY autoSafeModeIntro.label      "ആരംഭത്തില്‍ തന്നെ അപ്രതീക്ഷിതമായി &brandShortName;-ല്‍ നിന്നും പുറത്തു് കടന്നു">
+<!ENTITY autoSafeModeIntro.label      "ആരംഭത്തില്‍ തന്നെ അപ്രതീക്ഷിതമായി &brandShortName;-ല്‍ നിന്നും പുറത്തു് കടന്നു">
 <!ENTITY autoSafeModeDescription.label "&brandShortName; ഇപ്പോള്‍ സേഫ് മോഡില്‍ പ്രവര്‍ത്തിയ്ക്കുന്നു. ഇതു് നിങ്ങളുടെ യഥേഷ്ടമുള്ള സജ്ജീകരണങ്ങള്‍, പ്രമേയങ്ങള്‍, എക്സ്റ്റെന്‍ഷനുകള്‍ എന്നിവ താല്‍ക്കാലികമായി പ്രവര്‍ത്തന രഹിതമാക്കുന്നു. അസൌകര്യങ്ങള്‍ക്കു് ദയവായി ക്ഷമിയ്ക്കുക">
 
 
@@ -59,5 +59,3 @@
 <!ENTITY continueButton.label "സേഫ്‌ മോഡില്‍ തുടരുക ">
 <!ENTITY deleteBookmarks.label        "ബാക്കപ്പുകളൊഴികെ ബാക്കിയെല്ലാ അടയാളക്കുറിപ്പുകളും വെട്ടി നീക്കുക">
 <!ENTITY deleteBookmarks.accesskey    "b">
-
-<
