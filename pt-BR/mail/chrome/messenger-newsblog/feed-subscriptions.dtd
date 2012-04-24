@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Inscrições RSS">
-<!ENTITY subscriptionDesc.label "Nota: excluir ou alterar a pasta de um RSS não afetará os itens já recebidos.">
-<!ENTITY feedTitle.label "Título:">
-<!ENTITY location.label  "Endereço:">
+<!ENTITY feedSubscriptions.label     "Inscrições RSS">
+<!ENTITY subscriptionDesc.label      "Nota: excluir ou alterar a pasta de um RSS não afetará os itens já recebidos.">
 
-<!ENTITY button.addFeed.label       "Novo">
-<!ENTITY button.addFeed.accesskey   "N">
-<!ENTITY button.editFeed.label      "Editar">
-<!ENTITY button.editFeed.accesskey  "e">
-<!ENTITY button.removeFeed.label "Excluir">
-<!ENTITY button.removeFeed.accesskey   "x">
-<!ENTITY button.importOPML.label "Importar">
-<!ENTITY button.importOPML.accesskey   "i">
-<!ENTITY button.exportOPML.label "Exportar">
-<!ENTITY button.exportOPML.accesskey   "t">
+<!ENTITY feedTitle.label             "Título:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "W">
+<!ENTITY feedLocation.label          "URL do RSS:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Forneça uma URL de RSS válida a adicionar">
+
+<!ENTITY feedFolder.label            "Armazenar artigos em:">
+<!ENTITY feedFolder.accesskey        "r">
+
+<!ENTITY quickMode.label             "Exibir o conteúdo do item em vez de carregar a página web">
+<!ENTITY quickMode.accesskey         "E">
+
+<!ENTITY validateText.label          "Verificar validação e carregar uma URL válida.">
+
+<!ENTITY button.addFeed.label        "Novo">
+<!ENTITY button.addFeed.accesskey    "N">
+<!ENTITY button.editFeed.label       "Atualizar">
+<!ENTITY button.editFeed.accesskey   "A">
+<!ENTITY button.removeFeed.label     "Excluir">
+<!ENTITY button.removeFeed.accesskey "x">
+<!ENTITY button.importOPML.label     "Importar">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Exportar">
+<!ENTITY button.exportOPML.accesskey "o">
+
+<!ENTITY cmd.close.commandKey        "W">
