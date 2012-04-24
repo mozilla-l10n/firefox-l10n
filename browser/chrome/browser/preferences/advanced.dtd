@@ -109,3 +109,26 @@
 
 <!-- ENTITY doNotTrack.label                "നിരീക്ഷിയ്ക്കേണ്ടതില്ലെന്നു് വെബ് സൈറ്റുകള്‍ക്കു് നിര്‍ദ്ദേശം നല്‍കുക" -->
 <!-- ENTITY doNotTrack.accesskey            "d" -->
+
+
+
+<!ENTITY clearOfflineAppCacheNow.label   "ഉടന്‍ വെടിപ്പാക്കുക">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY httpCache.label                 "കാഷ് ചെയ്ത വെബ് ഉള്ളടക്കം">
+<!ENTITY offlineAppsList2.label          "ഓഫ്ലൈന്‍ ഉപയോഗത്തിനു് ഡേറ്റാ സൂക്ഷിയ്ക്കുവാന്‍ ഈ വെബ്സൈറ്റുകളെ അനുവദിയ്ക്കുന്നു:">
+<!ENTITY offlineStorage2.label           "ഓഫ്ലൈന്‍ വെബ് ഉള്ളടക്കവും ഉപയോക്താവിനുള്ള ഡേറ്റയും">
+<!ENTITY submitTelemetry.label           "പ്രവര്‍ത്തന ഡേറ്റ സമര്‍പ്പിയ്ക്കുക">
+<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY updateApp.label                 "&brandShortName; പരിഷ്കരണങ്ങള്‍:">
+<!ENTITY updateAuto.label                "സ്വയമായി പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക (ഉചിതമായതു്: മെച്ചപ്പെട്ട സുരക്ഷ)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക, പക്ഷേ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനു് മുമ്പു് ചോദിയ്ക്കുക">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കേണ്ട (ഉചിതമല്ല: സുരക്ഷ പ്രശ്നം)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "ഏതെങ്കിലും ആഡ്-ഓണുകള്‍ ഇതു് പ്രവര്‍ത്തന രഹിതമാക്കുമെങ്കില്‍ ദയവായി മുന്നറിയിപ്പു് നല്‍കുക">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateOthers.label              "സ്വയമായി പരിഷ്കരിയ്ക്കുക:">
+<!ENTITY useService.label                "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക">
+<!ENTITY useService.accesskey            "b">

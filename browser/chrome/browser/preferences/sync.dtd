@@ -44,3 +44,13 @@
 <!ENTITY prefs.ppLink.label         "സ്വകാര്യ പോളിസി">
 
 <!-- ENTITY addDevice.label              "ഒരു ഡിവൈസ് ചേര്‍ക്കുക" -->
+
+<!ENTITY changePassword2.label        "രഹസ്യവാക്ക് മാറ്റുക…">
+<!ENTITY engine.addons.label        "ആഡ്-ഓണുകള്‍">
+<!ENTITY engine.addons.accesskey    "A">
+
+<!ENTITY myRecoveryKey.label          "എന്റെ വീണ്ടെടുക്കല്‍ കീ">
+<!ENTITY pairDevice.label             "ഒരു ഡിവൈസുമായി പെയര്‍ ചെയ്യുക">
+
+<!ENTITY resetSync2.label             "സിന്‍ക് വീണ്ടും സജ്ജമാക്കുക…">
+<!ENTITY unlinkDevice.label           "ഈ ഡിവൈസ് അണ്‍ലിങ്ക് ചെയ്യുക">

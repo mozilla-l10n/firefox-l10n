@@ -241,3 +241,11 @@
 <!ENTITY view.label               "കാഴ്ച">
 <!ENTITY view.accesskey           "w">
 <!ENTITY views.tooltip                  "കാഴ്ചകള്‍ മാറ്റുക">
+
+<!ENTITY importBookmarksFromHTML.label     "എച്ടിഎംഎല്ലില്‍ നിന്നും അടയാളക്കുറിപ്പുകള്‍ ഇംപോര്‍ട്ട് ചെയ്യുക…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "എച്ടിഎംഎല്ലില്‍ നിന്നും അടയാളക്കുറിപ്പുകള്‍ എക്സ്പോര്‍ട്ട് ചെയ്യുക…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "മറ്റൊരു ബ്രൌസറില്‍ നിന്നും ഡേറ്റാ ഇംപോര്‍ട്ട് ചെയ്യുക…">
+<!ENTITY importOtherBrowser.accesskey      "A">
+

@@ -42,3 +42,8 @@
 <!ENTITY selectProfile.label "താഴെപ്പറയുന്ന പ്രൊഫൈലുകള്‍ ഇവിടെ നിന്നും ഇറക്കുമതി ചെയ്യുവാന്‍ ലഭ്യമാണ്‌ :">
 <!ENTITY done.title "Import പൂര്‍ണ്ണം">
 <!ENTITY done.label "താഴെപ്പറയുന്ന ഐറ്റങ്ങള്‍ വിജയകരമായി ഇറക്കുമതി ചെയ്തിരിക്കുന്നു:">
+
+<!ENTITY importFromChrome.label         "ക്രോം">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "ഫയര്‍ഫോക്സ്">
+<!ENTITY importFromFirefox.accesskey    "X">
