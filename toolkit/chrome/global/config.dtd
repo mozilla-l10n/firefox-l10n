@@ -96,3 +96,7 @@
 <!-- ENTITY unlock.label "അണ്‍ലോക്ക്‌ ചെയ്യുക" -->
 
 <!-- ENTITY unlock.accesskey "U" -->
+
+<!ENTITY searchPrefs.label "തെരയുക:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">

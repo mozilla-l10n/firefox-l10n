@@ -58,3 +58,9 @@
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+
+<!ENTITY copyLinkCmd.label "കണ്ണിയുടെ സ്ഥാനം പകര്‍ത്തുക">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "ഈമെയില്‍ വിലാസം പകര്‍ത്തുക">
+<!ENTITY copyEmailCmd.accesskey "E">

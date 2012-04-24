@@ -10,3 +10,4 @@
 <!ENTITY addNewToolbar.label "പുതിയ ഉപകരണപ്പട്ട ചേര്‍ക്കുക ">
 <!ENTITY saveChanges.label "കഴിഞ്ഞിരിക്കുന്നു ">
 <!ENTITY undoChanges.label "മാറ്റങ്ങള്‍ പൂര്‍വ്വാവസ്ഥയിലാക്കുക">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">

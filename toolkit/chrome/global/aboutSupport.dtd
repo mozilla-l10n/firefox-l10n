@@ -38,3 +38,14 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "നാള്‍വഴി പുതുക്കുക">
 
 <!ENTITY aboutSupport.copyToClipboard.label "എല്ലാം ക്ലിപ്പ് ബോര്‍ഡിലേക്ക് പകര്‍ത്തുക">
+
+<!ENTITY aboutSupport.appBasicsCrashIDs "ക്രാഷ് റിപ്പോര്‍ട്ടുകള്‍">
+<!ENTITY aboutSupport.appBasicsMemoryUse "മെമ്മറിയുടെ ഉപയോഗം">
+
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "പ്രൊഫൈല്‍ ഫോള്‍ഡര്‍">
+<!ENTITY aboutSupport.jsIncrementalGC "വര്‍ദ്ധിച്ച ജിസി">
+<!ENTITY aboutSupport.jsTitle "ജാവാസ്ക്രിപ്റ്റ്">
+<!ENTITY aboutSupport.libraryVersionsTitle "ലൈബ്രറി പതിപ്പുകള്‍">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍">
+!ENTITY aboutSupport.showDir.label "ഡയറക്ടറി തുറക്കുക">
+<!ENTITY aboutSupport.showWin.label "ഫോള്‍ഡര്‍ കാണിയ്ക്കുക">
