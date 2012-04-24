@@ -1,0 +1,10 @@
+<!ENTITY aboutPage.licenseLink "Информације о лиценцирању">
+<!ENTITY aboutPage.faq.label "ЧПП">
+<!ENTITY aboutPage.copyrightInfo1 "&#169;1998-2009 приложници. Сва права задржана. (">
+<!ENTITY aboutPage.rights.label "Ваша права">
+<!ENTITY aboutPage.relNotes.label "Белешке о издању">
+<!ENTITY aboutPage.support.label "Подршка">
+<!ENTITY aboutPage.copyrightInfo2 ").">
+<!ENTITY aboutPage.title "О &brandShortName;">
+<!ENTITY aboutPage.credits.label "Заслуге">
+<!ENTITY aboutPage.privacyPolicy.label "Полиса о приватности">
