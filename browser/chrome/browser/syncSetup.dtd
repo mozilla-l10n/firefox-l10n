@@ -128,3 +128,24 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!-- ENTITY signIn.syncKey.label       "സിന്‍ക് കീ" -->
 <!-- ENTITY signIn.syncKey.accesskey   "K" -->
+
+<!ENTITY addDevice.dialog.recoveryKey.label     "നിങ്ങളുടെ ഡിവൈസ് സജീവമാക്കുന്നതിനായി, വീണ്ടെടുക്കല്‍ കീ നല്‍കേണ്ടതുണ്ടു്. ദയവായി ഈ കീ പ്രിന്റ് ചെയ്യുക അല്ലെങ്കില്‍ ഇതു് സൂക്ഷിച്ചു് നിങ്ങളുടെ പക്കല്‍ വയ്ക്കുക.">
+<!ENTITY button.haveAccount.label      "ഒരു അക്കൌണ്ടുണ്ടു്">
+<!ENTITY engine.addons.label        "ആഡ്-ഓണുകള്‍">
+<!ENTITY engine.addons.accesskey    "A">
+
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "പുതിയ ഡിവൈസ് സജീവമാക്കുന്നതിനായി, ഡിവൈസില്‍  &#x0022;Set Up Sync&#x0022; തെരഞ്ഞെടുക്കുക.">
+<!ENTITY pairDevice.setup.description.label  "സജീവമാക്കുന്നതിനായി, നിങ്ങളുടെ ഡിവൈസില്‍ &#x0022;Pair a Device&#x0022; തെരഞ്ഞെടുക്കുക.">
+<!ENTITY pairDevice.title.label             "ഒരു ഡിവൈസ് പെയര്‍ ചെയ്യുക">
+<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+<!ENTITY setup.choosePassword.label      "ഒരു രഹസ്യവാക്ക് നല്‍കുക">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; നിങ്ങളുടെ സ്വകാര്യതയെ മാനിയ്ക്കുന്നു">
+<!ENTITY setup.pickSetupType.description2 "സ്വാഗതം! മുമ്പു് നിങ്ങള്‍ &syncBrand.fullName.label; ഉപയോഗിച്ചിട്ടില്ലെങ്കില്‍, ദയവായി പുതിയൊരു അക്കൌണ്ട് തയ്യാറാക്കുക.">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "വീണ്ടെടുക്കല്‍ കീ">
+<!ENTITY syncGenerateNewKey.label  "ഒരു പുതിയ കീ ലഭ്യമാക്കുക">
