@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "K">
 <!ENTITY addMailAccountButton.label "E-Mail-Konto hinzufügen…">
 <!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY addIMAccountButton.label "Chat-Konto hinzufügen…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "Anderes Konto hinzufügen…">
 <!ENTITY addOtherAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">

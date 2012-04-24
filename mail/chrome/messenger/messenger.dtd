@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "E">
 <!ENTITY newExistingEmailAccountCmd.label "Existierendes E-Mail-Konto…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "x">
+<!ENTITY newIMAccountCmd.label "Chat-Konto…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
@@ -326,6 +328,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Zurück">
 <!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "h">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY prevStarredMsgCmd.accesskey "G">
 <!ENTITY folderMenu.label "Ordner">
@@ -469,6 +474,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Aktivitäten">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Chat-Status">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Verfügbar">
+<!ENTITY imStatus.unavailable        "Beschäftigt">
+<!ENTITY imStatus.offline            "Nicht verbunden">
+<!ENTITY imStatus.showAccounts       "Konten anzeigen…">
 <!ENTITY savedFiles.label "Gespeicherte Dateien">
 <!ENTITY savedFiles.accesskey "G">
 <!ENTITY savedFiles.key "j">
@@ -522,6 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Kein Junk">
 <!ENTITY addressBookButton.label "Adressbuch">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globale Suche">
 <!ENTITY searchItem.title "Schnellsuche">
 <!ENTITY mailViewsToolbarItem.title "Ansichten">
@@ -553,6 +565,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Gewählte Nachricht(en) als Junk einstufen">
 <!ENTITY notJunkButton.tooltip "Gewählte Nachricht(en) als &quot;Kein Junk&quot; einstufen">
 <!ENTITY addressBookButton.tooltip "Adressbuch öffnen">
+<!ENTITY chatButton.tooltip "Chat-Tab öffnen">
 <!ENTITY tagButton.tooltip "Bei gewählten Nachrichten Schlagwörter hinzufügen/entfernen">
 <!ENTITY compactButton.tooltip "Gelöschte Nachrichten endgültig aus dem gewählten Ordner entfernen">
 
