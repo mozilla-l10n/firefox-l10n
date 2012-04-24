@@ -141,11 +141,11 @@
 <!ENTITY cspFrameAncestorBlocked.title "ഉള്ളടക്കത്തിലുള്ള സുരക്ഷാ പോളിസി കാരണം തടഞ്ഞിരിയ്ക്കുന്നു">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>ഈ താളിന്റെ ഉള്ളടക്ക സുരക്ഷാ പോളിസി ഈ തരത്തില്‍ താള്‍ ലഭ്യമാക്കുന്നതു് അനുവദിയ്ക്കുന്നതല്ല, അതിനാല്‍ &brandShortName; ഇതു് തടയുന്നു.</p>">
 
-<!ENTITY netOffline.overrideLongDesc "
+<!-- ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>&quot;Work Offline&quot; മെനു വസ്തു തെരഞ്ഞടുത്തു് വേണ്ടെന്നു് വച്ചു്, വീണ്ടും ശ്രമിയ്ക്കുക.</li>
 </ul>
-">
+" -->
 
 <!ENTITY securityOverride.warningContent "
 <p>ഈ സര്‍വറില്‍ നിന്നും മുന്നറിയിപ്പുകള്‍ ലഭ്യമാകാറില്ല, അല്ലെങ്കില്‍ വിശ്വസനീയമല്ലാത്തൊരു ഇന്റര്‍നെറ്റ് കണക്ഷനാണുപയോഗിയ്ക്കുന്നതു് എങ്കില്‍ എക്സെപ്ഷന്‍ ചേര്‍ക്കരുതു്.</p>
