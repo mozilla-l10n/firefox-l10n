@@ -152,7 +152,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>మీరు పూర్తిగా నమ్మని ఇంటర్‌నెట్  అనుసంధానంను ఉపయోగిస్తున్నా లేదా ఈ సేవికగురించి హెచ్చరికను చూడకపోయినా మీరు ఆక్షేపనను జతచేయకూడదు.</p>
+<p>మీరు పూర్తిగా నమ్మని అంతర్జాలము  అనుసంధానంను ఉపయోగిస్తున్నా లేదా ఈ సేవికగురించి హెచ్చరికను చూడకపోయినా మీరు ఆక్షేపనను జతచేయకూడదు.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
@@ -168,24 +168,4 @@ functionality specific to firefox. -->
 ">
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 <!ENTITY notCached.title "పత్రము గడువుతీరినది">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

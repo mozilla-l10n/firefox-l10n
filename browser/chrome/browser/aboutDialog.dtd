@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "నవీకరణలు మీ సిస్టమ్ నిర్వహణాధికారిచే అచేతనము చేయబడినవి">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "యాడ్-ఆన్ సారూప్యతను పరిశీలించుచున్నది…">
+<!ENTITY update.checkingAddonCompat "పొడిగింత సారూప్యతను పరిశీలించుచున్నది…">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "నవీకరణల కొరకు పరిశీలించుచున్నది…">
 
@@ -71,7 +71,3 @@
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "అంతర్జాతీయ సమూహం">
 <!ENTITY community.exp.end          " వెబ్‌ను అందరికీ అనుకూలంగా, అనువుగా వుంచేందుకు కలిసి పనిచేద్దాం.">
-
-
-
-

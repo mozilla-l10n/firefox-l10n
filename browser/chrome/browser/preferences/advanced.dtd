@@ -15,7 +15,7 @@
 <!ENTITY checkSpelling.accesskey         "t">
 <!ENTITY networkTab.label                "నెట్వర్క్ ">
 <!ENTITY connection.label                "అనుసంధానము">
-<!ENTITY connectionDesc.label            "&brandShortName; ఎలా ఇంటర్నెట్‌కు అనుసంధానించ బడుతోందో ఆకృతీకరించు">
+<!ENTITY connectionDesc.label            "&brandShortName; ఎలా అంతర్జాలమునకు అనుసంధానించ బడుతోందో ఆకృతీకరించు">
 <!ENTITY connectionSettings.label        "అమరికలు...">
 <!ENTITY connectionSettings.accesskey    "e">
 <!ENTITY updateTab.label                 "నవీకరణ">
@@ -54,7 +54,7 @@
 <!ENTITY clearCacheNow.label             "ఇప్పుడు శుభ్రపరచు">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY alwaysCheckDefault.label        "&brandShortName; ప్రారంభం అన్వేషణి అవునోకాదో ఎల్లప్పుడు పరిశీలించు">
+<!ENTITY alwaysCheckDefault.label        "&brandShortName; ప్రారంభం విహారిణి అవునోకాదో ఎల్లప్పుడు పరిశీలించు">
 <!ENTITY offlineNotifyExceptions.label   "ఆక్షేపణలు…">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY offlineNotify.accesskey         "T">

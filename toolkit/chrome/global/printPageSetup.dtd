@@ -2,7 +2,7 @@
 <!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "పేజీ అమర్పు">
-<!ENTITY basic.tab           "&amp; రూపంయొక్క  ఐచ్చికాలు">
+<!ENTITY basic.tab           "&amp; రూపంయొక్క  ఐచ్ఛికాలు">
 <!ENTITY formatGroup.label   "రూపం">
 <!ENTITY orientation.label   "తీరు:">
 
@@ -16,7 +16,7 @@
 
 <!ENTITY shrinkToFit.label   "పేజీ వెడల్పుకు  సరిపోవునట్లు  కుచింపుము">
 <!ENTITY shrinkToFit.accesskey "W">
-<!ENTITY optionsGroup.label  "ఐచ్చికాలు">
+<!ENTITY optionsGroup.label  "ఐచ్ఛికాలు">
 
 <!ENTITY printBG.label       "ముద్రణ  బ్యాక్‌గ్రౌండ్ (వర్ణాలు  &amp; చిత్రాలు)">
 <!ENTITY printBG.accesskey   "B">
