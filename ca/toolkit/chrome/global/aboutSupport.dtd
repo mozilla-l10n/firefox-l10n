@@ -13,7 +13,13 @@ del &brandShortName;, visiteu el nostre <a id='supportLink'>lloc web d'assistèn
 <!ENTITY aboutSupport.appBasicsTitle "Paràmetres bàsics de l'aplicació">
 <!ENTITY aboutSupport.appBasicsName "Nom">
 <!ENTITY aboutSupport.appBasicsVersion "Versió">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Directori del perfil">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Connectors habilitats">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuració de la versió">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent d'usuari">
@@ -24,7 +30,6 @@ del &brandShortName;, visiteu el nostre <a id='supportLink'>lloc web d'assistèn
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Mostra-ho en el Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
@@ -35,6 +40,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 
 <!ENTITY aboutSupport.graphicsTitle "Gràfics">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Context Gràfic (GC) incremental">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versions de la llibreria">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instal·lació">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'actualització">

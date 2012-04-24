@@ -1,5 +1,5 @@
 <!ENTITY window.title "Benvingut al &brandShortName;">
-<!ENTITY header.label "Voleu una adreça electrònica nova pel &brandShortName;?">
+<!ENTITY header2.label "Would you like a new email address?">
 <!ENTITY other.languages "Només s'estan mostrant els proveïdors que ofereixen adreces a la vostra regió.  Feu clic aquí per mostrar tots els proveïdors.">
 <!ENTITY error.line1 "No s'ha pogut suggerir cap adreça electrònica.">
 <!ENTITY error.line2 "Podeu provar de cercar noms o pseudònims per trobar més adreces electròniques">

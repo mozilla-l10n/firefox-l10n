@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "S\'està configurant el &brandShortName;\u2026">
+<!ENTITY  splash_settingup "S\'està configurant el vostre &brandShortName;">
+<!ENTITY  splash_bookmarks_history "S\'estan actualitzant les adreces d\'interès i l\'historial; això pot trigar una estona.">
 
 <!ENTITY  no_space_to_start_error "No hi ha prou espai disponible per al &brandShortName; per iniciar-se.">
 <!ENTITY  error_loading_file "S\'ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
@@ -27,9 +28,13 @@
 
 <!ENTITY awesomebar_default_text "Escriviu una cerca o una adreça">
 
+<!ENTITY remote_tabs "Pestanyes sincronitzades">
+<!ENTITY remote_tabs_show_all "Mostra totes les pestanyes">
+
 <!ENTITY bookmark "Adreça d\'interès">
 <!ENTITY bookmark_added "S\'ha afegit l\'adreça d\'interès">
 <!ENTITY bookmark_removed "S\'ha suprimit l\'adreça d\'interès">
+<!ENTITY bookmark_updated "S\'ha actualitzat l\'adreça d\'interès">
 
 <!ENTITY history_today_section "Avui">
 <!ENTITY history_yesterday_section "Ahir">
@@ -79,12 +84,19 @@
 <!ENTITY char_encoding "Codificació dels caràcters">
 
 <!ENTITY share "Comparteix">
+<!ENTITY share_title "Comparteix mitjançant">
 <!ENTITY save_as_pdf "Desa com a PDF">
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
 <!ENTITY contextmenu_remove_bookmark "Suprimeix">
 <!ENTITY contextmenu_add_to_launcher "Afegeix-ho a la pantalla inicial">
 <!ENTITY contextmenu_share "Comparteix">
+<!ENTITY contextmenu_edit_bookmark "Edita">
+
+<!ENTITY bookmark_edit_title "Edita l\'adreça d\'interès">
+<!ENTITY bookmark_edit_name "Nom">
+<!ENTITY bookmark_edit_location "Ubicació">
+<!ENTITY bookmark_edit_keyword "Paraula clau">
 
 <!ENTITY site_settings_title        "Neteja les opcions del lloc">
 <!ENTITY site_settings_cancel       "Cancel·la">
@@ -108,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Encara no teniu cap lloc seleccionat. Toqueu la barra del títol per seleccionar-lo.">
 <!ENTITY abouthome_about_sync "Configureu el Firefox Sync per accedir a les adreces d\'interès, l\'historial i les pestanyes dels altres dispositius que teniu">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Trieu un fitxer">
+<!ENTITY filepicker_audio_title "Trieu o enregistreu un so">
+<!ENTITY filepicker_image_title "Trieu o feu una foto">
+<!ENTITY filepicker_video_title "Trieu o enregistreu un vídeo">

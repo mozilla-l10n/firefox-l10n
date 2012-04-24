@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Afegeix un enllaç…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone.label                   "Fus horari">
-<!ENTITY  event.menu.options.timezone.accesskey               "F">
+<!ENTITY  event.menu.options.timezone2.label                  "Mostra el fus horari">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritat">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "No especificada">
@@ -372,6 +372,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Especifiqueu el fus horari">
+<!ENTITY event.timezone.custom.label     "Més fusos horaris">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "General">

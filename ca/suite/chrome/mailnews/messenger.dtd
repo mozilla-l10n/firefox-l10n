@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "r">
 <!ENTITY showSearchToolbarCmd.label "Barra de cerca">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
+<!ENTITY showTabsToolbarCmd.label "Barra de tasques de les pestanyes">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Format">
 <!ENTITY messagePaneLayoutStyle.accesskey "F">

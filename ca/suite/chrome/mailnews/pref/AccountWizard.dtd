@@ -31,23 +31,11 @@
 
 <!ENTITY emailLabel.label "Adreça electrònica:">
 <!ENTITY emailLabel.accesskey "t">
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
 
-<!ENTITY serverTitle.label "Informació del servidor">
+<!ENTITY incomingTitle.label "Informació del servidor d'entrada">
 <!ENTITY incomingServerTypeDesc.label "Seleccioneu el tipus de servidor d'entrada que utilitzeu.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Introduïu el nom del servidor d'entrada (per exemple, &quot;pop.exemple.net&quot;).">
-<!ENTITY incomingServerLabel.label "Servidor d'entrada:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introduïu el nom del servidor de grups de discussió (NNTP) (per exemple, &quot;news.exemple.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Introduïu el nom del vostre servidor de sortida (SMTP) (per exemple, &quot;smtp.exemple.net&quot;).">
-<!ENTITY smtpServerLabel.label "Servidor de sortida:">
-<!ENTITY smtpServerLabel.accesskey "o">
-<!ENTITY newsServerLabel.label "Servidor de grups de discussió:">
-<!ENTITY newsServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -58,8 +46,31 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Predeterminat:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Introduïu el nom del servidor d'entrada (per exemple, «mail.example.net»).">
+<!ENTITY incomingServer.label "Servidor d'entrada:">
+<!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Deixa els missatges al servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "l">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Introduïu el nom d'usuari d'entrada proporcionat pel vostre proveïdor de correu (per exemple, «jsmith»).">
+<!ENTITY incomingUsername.label "Nom d'usuari:">
+<!ENTITY incomingUsername.accesskey "u">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Introduïu el nom del servidor de grups de discussió (NNTP) (per exemple, &quot;news.exemple.net&quot;).">
+<!ENTITY newsServerLabel.label "Servidor de grups de discussió:">
+<!ENTITY newsServerLabel.accesskey "S">
+<!-- Entities for Outgoing Server page -->
+
+
+<!ENTITY outgoingTitle.label "Informació del servidor de sortida">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Introduïu el nom del servidor de sortida (SMTP) (per exemple, «;smtp.example.net»).">
+<!ENTITY outgoingServer.label "Servidor de sortida:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Introduïu el nom d'usuari de sortida proporcionat pel vostre proveïdor de correu (normalment és el mateix que el nom d'usuari d'entrada).">
+<!ENTITY outgoingUsername.label "Nom d'usuari de sortida:">
+<!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
@@ -71,18 +82,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "S'utilitzarà el vostre servidor de sortida (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
-<!-- Entities for Login page -->
-
-
-<!ENTITY loginTitle.label "Nom d'usuari">
-<!ENTITY usernameDesc.label "Introduïu el nom d'usuari d'entrada que us ha donat el vostre proveïdor de correu electrònic ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(per exemple, &quot;jpoquet&quot;).">
-<!ENTITY usernameLabel.label "Nom d'usuari d'entrada:">
-<!ENTITY usernameLabel.accesskey "u">
-<!ENTITY usernameSmtpDesc.label "Introduïu el nom d'usuari de sortida que us ha donat el vostre proveïdor de correu electrònic (aquest típicament és el mateix que el nom d'usuari d'entrada).">
-<!ENTITY usernameSmtpLabel.label "Nom d'usuari de sortida:">
-<!ENTITY usernameSmtpLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

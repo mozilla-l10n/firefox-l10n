@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Mosaic">
 <!ENTITY center.label               "Centre">
 <!ENTITY stretch.label              "Amplia">
+<!ENTITY fill.label                 "Omple">
+<!ENTITY fit.label                  "Ajusta">
 <!ENTITY preview.label              "Previsualització">
 <!ENTITY color.label                "Color:">
 <!ENTITY setDesktopBackground.title "Defineix com a fons d'escriptori">
