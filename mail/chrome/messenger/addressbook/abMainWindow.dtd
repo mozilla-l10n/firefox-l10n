@@ -142,7 +142,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
 <!ENTITY editButton2.tooltip                            "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
-<!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou chat">
+<!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
 <!ENTITY deleteButton2.tooltip                           "Excluir item selecionado">
 
 <!-- Dir Tree header -->

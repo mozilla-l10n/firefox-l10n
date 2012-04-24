@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Nova conta de email…">
 <!ENTITY addMailAccountButton.accesskey "N">
+<!ENTITY addIMAccountButton.label "Nova conta de bate-papo…">
+<!ENTITY addIMAccountButton.accesskey "v">
 <!ENTITY addOtherAccountButton.label "Nova conta de outro tipo…">
 <!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Definir como conta padrão">

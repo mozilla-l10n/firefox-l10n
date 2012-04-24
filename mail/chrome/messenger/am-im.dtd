@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Propriedades da conta">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "Geral">
+<!ENTITY account.advanced              "Opções avançadas">
+<!ENTITY account.name                  "Nome de usuário:">
+<!ENTITY account.password              "Senha:">
+<!ENTITY account.alias                 "Apelido:">
+<!ENTITY account.newMailNotification   "Notificar sobre novas mensagens">
+<!ENTITY account.autojoin              "Entrar automaticamente nestes canais:">
+<!ENTITY account.proxySettings.caption "Configurações de proxy:">
+<!ENTITY account.proxySettings.change.label     "Modificar…">
+<!ENTITY account.proxySettings.change.accessKey "M">
