@@ -21,7 +21,7 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 <!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
 
 <!ENTITY stats.media "മീഡിയാ">
-<!ENTITY stats.size ‌"വ്യാപ്തി">
+<!ENTITY stats.size "Size">
 <!ENTITY stats.activity "പ്രവര്‍ത്തി">
 <!ENTITY stats.activityPaused "തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തിയിരിയ്ക്കുന്നു">
 <!ENTITY stats.activityPlaying "പ്രവര്‍ത്തിയ്ക്കുന്നു">

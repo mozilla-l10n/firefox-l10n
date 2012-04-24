@@ -47,5 +47,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.jsTitle "ജാവാസ്ക്രിപ്റ്റ്">
 <!ENTITY aboutSupport.libraryVersionsTitle "ലൈബ്രറി പതിപ്പുകള്‍">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍">
-!ENTITY aboutSupport.showDir.label "ഡയറക്ടറി തുറക്കുക">
+<!ENTITY aboutSupport.showDir.label "ഡയറക്ടറി തുറക്കുക">
 <!ENTITY aboutSupport.showWin.label "ഫോള്‍ഡര്‍ കാണിയ്ക്കുക">
