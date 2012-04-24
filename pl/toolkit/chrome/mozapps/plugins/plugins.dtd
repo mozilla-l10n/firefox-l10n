@@ -21,7 +21,10 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Aby wtyczka została uruchomiona, niezbędne jest ponowne uruchomienie programu &brandShortName;.">
 
 <!ENTITY missingPlugin                                       "Do wyświetlenia treści tego typu konieczna jest wtyczka.">
-<!ENTITY clickToPlayPlugin                                   "Stuknij tutaj, by aktywować wtyczkę.">
+
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Stuknij tutaj, by aktywować wtyczkę.">
+<!ENTITY clickToPlayPlugins                                  "Kliknij tutaj, by aktywować wtyczkę.">
 <!ENTITY disabledPlugin                                      "Ta wtyczka jest wyłączona">
 <!ENTITY blockedPlugin.label                                 "Wtyczka zablokowana z przyczyn bezpieczeństwa.">
 
