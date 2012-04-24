@@ -99,6 +99,7 @@
 <!ENTITY  permCookie            "Zapisywanie ciasteczek">
 <!ENTITY  permInstall           "Instalacja rozszerzeń i motywów">
 <!ENTITY  permGeo               "Udostępnij położenie">
+<!ENTITY  permPlugins           "Aktywuj wtyczki">
 
 <!ENTITY  permIndexedDB              "Zarządzanie danymi offline">
 <!ENTITY  permClearStorage           "Wyczyść dane offline">
