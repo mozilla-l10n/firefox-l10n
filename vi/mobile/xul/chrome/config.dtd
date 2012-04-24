@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Tìm kiếm">
+<!ENTITY newpref.label          "Thêm một Tùy chỉnh Mới">
+<!ENTITY addpref.name           "Tên">
+<!ENTITY addpref.value          "Giá trị">
+
+<!ENTITY cancel.label           "Hủy bỏ">
+<!ENTITY reset.label            "Mặc định">
+<!ENTITY done.label             "Xong">
+
+<!ENTITY integer.label          "Số nguyên">
+<!ENTITY string.label           "Chuỗi">
+<!ENTITY boolean.label          "Luận lí">
