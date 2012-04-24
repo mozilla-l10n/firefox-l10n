@@ -158,5 +158,17 @@
 <!ENTITY remoteXUL.title "റിമോട്ട് XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ദയവായി വെബ് സൈറ്റ് ഉടമസ്ഥാക്കളെ ഈ പ്രശ്നത്തെപ്പറ്റി അറിയിയ്ക്കുക.</li></ul></p>">
 
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>ഓണ്‍ലൈന്‍ മോഡില്‍ തിരികെ ചെന്നു് താള്‍ വീണ്ടും ലഭ്യമാക്കുന്നതിനായി  &quot;Try Again&quot; അമര്‍ത്തുക.</li>
+</ul>
+">
+
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY notCached.title "രേഖയുടെ കാലാവധി കഴിഞ്ഞിരിയ്ക്കുന്നു">
+
 
 
