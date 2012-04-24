@@ -63,7 +63,7 @@
 <!ENTITY pref_clear_history "Chronik löschen">
 <!ENTITY pref_clear_history_confirm "Die Browserchronik wird gelöscht">
 <!ENTITY pref_clear_private_data "Private Daten löschen">
-<!ENTITY pref_clear_private_data_confirm "Seitenspezifische Daten wie Passwörter und Cookies werden gelöscht>
+<!ENTITY pref_clear_private_data_confirm "Seitenspezifische Daten wie Passwörter und Cookies werden gelöscht">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiviert">
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
