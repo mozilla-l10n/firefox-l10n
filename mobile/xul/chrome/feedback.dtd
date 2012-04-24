@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Зворотній зв’язок">
+
+<!ENTITY feedback.communicate.title     "Поговоріть з нами!">
+<!ENTITY feedback.feedback.title        "Надіслати відгук">
+<!ENTITY feedback.feedback.good         "Добрий">
+<!ENTITY feedback.feedback.bad          "Поганий">
+
+<!ENTITY feedback.tools.title           "Інструменти">
+<!ENTITY feedback.allowTelemetry.title  "Надсилати дані про швидкодію">
+<!ENTITY feedback.forceCompat.title     "Примусова сумісність додатків">
+<!ENTITY feedback.errorConsole.title    "Увімкнути консоль помилок">

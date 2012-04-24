@@ -1,0 +1,21 @@
+
+<!ENTITY  splash_firstrun "Налаштування &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Недостатньо місця для запуску &brandShortName;.">
+<!ENTITY  error_loading_file "Сталась помилка під час завантаження файлів, необхідних для запуску &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Доповідач про аварії &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; впав. Ваші вкладки мають бути показані на початковій сторінці &brandShortName; після перезапуску.">
+<!ENTITY  crash_help_message "Будь ласка, допоможіть нам виправити цю проблему!">
+<!ENTITY  crash_send_report_message "Надіслати в Mozilla звіт про аварію">
+<!ENTITY  crash_include_url "Включно з адресою сторінки">
+<!ENTITY  crash_close_label "Закрити">
+<!ENTITY  crash_restart_label "Перезапустити &brandShortName;">
+<!ENTITY  sending_crash_report "Відсилання звіту про аварію\u2026">
+<!ENTITY  exit_label "Вийти">
+<!ENTITY  continue_label "Продовжити">
+
+<!ENTITY  launcher_shortcuts_title "Веб-програми &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Веб-програм не знайдено">
+
+<!ENTITY choose_file "Виберіть файл">
