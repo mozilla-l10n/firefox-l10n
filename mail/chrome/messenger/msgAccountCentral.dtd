@@ -5,6 +5,9 @@
 <!ENTITY newsSectionHdr.label         "Groupes de discussion">
 <!ENTITY subscribeNewsLink.label      "Gérer les abonnements aux groupes de discussion">
 
+<!ENTITY feedsSectionHdr.label        "Nouvelles et Blogs">
+<!ENTITY subscribeFeeds.label         "Gérer les abonnements">
+
 <!ENTITY accountsSectionHdr.label     "Comptes">
 
 <!ENTITY subscribeImapFolders.label   "Gérer les abonnements aux dossiers">
@@ -16,6 +19,3 @@
 <!ENTITY filtersLink.label            "Gérer les filtres de messages">
 <!ENTITY junkSettings.label           "Paramètres des courriers indésirables">
 <!ENTITY offlineLink.label            "Paramètres hors connexion">
-
-<!ENTITY feedsSectionHdr.label        "Nouvelles et Blogs">
-<!ENTITY subscribeFeeds.label         "Gérer les abonnements">
