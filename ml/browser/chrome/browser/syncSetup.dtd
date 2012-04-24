@@ -149,3 +149,5 @@
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 <!ENTITY signIn.recoveryKey.label       "വീണ്ടെടുക്കല്‍ കീ">
 <!ENTITY syncGenerateNewKey.label  "ഒരു പുതിയ കീ ലഭ്യമാക്കുക">
+
+<!ENTITY recoveryKeyEntry.label        "നിങ്ങളുടെ വീണ്ടെടുക്കല്‍ കീ">
