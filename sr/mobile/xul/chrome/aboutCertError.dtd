@@ -1,0 +1,22 @@
+<!ENTITY certerror.pagetitle "Веза није од поверења">
+<!ENTITY certerror.expert.contentPara2 "Немојте додавати изузетке осим ако
+знате да постоји добар разлог зашто сајт не користи идентификацију од поверења.">
+<!ENTITY certerror.getMeOutOfHere.label "Желим да напустим сајт!">
+<!ENTITY certerror.addTemporaryException.label "Посети сајт">
+<!ENTITY certerror.introPara2 "Најчешће, када пробате да се повежете безбедно,
+сајтови ће послати идентификацију од поверења како би доказали да сте
+дошли на право место.  Међутим, идентитет овог сајта није могуће проверити.">
+<!ENTITY certerror.whatShouldIDo.heading "Шта да радим?">
+<!ENTITY certerror.introPara1 "Тражили сте да се &brandShortName; безбедно повеже
+на <b>#1</b>, али не можемо да потврдимо да је веза од поверења.">
+<!ENTITY certerror.technical.heading "Техничке информације">
+<!ENTITY certerror.expert.heading "Прихватам ризик">
+<!ENTITY certerror.addPermanentException.label "Додај трајно у изузетке">
+<!ENTITY certerror.longpagetitle "Ова веза није од поверења">
+<!ENTITY certerror.whatShouldIDo.content "Ако се обично повезујете
+са овим сајтом без проблема, ова грешка може да значи да неко покушава
+да се представи као овај сајт, тако да не треба да настављате с повезивањем.">
+<!ENTITY certerror.expert.content "Ако Вам је јасно шта се догађа,
+можете да наложите програму &brandShortName; да верује идентификацији сајта.
+<b>Чак и ако верујете сајту, ова грешка може да значи да неко покушава
+да манипулише Вашом везом.</b>">
