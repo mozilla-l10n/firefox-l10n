@@ -1,7 +1,5 @@
-<!ENTITY accountTitle.label "Configuración da conta">
-
 <!ENTITY biffStart.label "Comprobar se hai novos artigos cada ">
-<!ENTITY biffStart.accesskey "C">
+<!ENTITY biffStart.accesskey "g">
 <!ENTITY biffEnd.label "minutos">
 
 <!ENTITY loginAtStartup.label "Comprobar se hai novos artigos ao iniciar"> 
