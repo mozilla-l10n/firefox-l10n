@@ -6,6 +6,7 @@
 <!ENTITY paneGeneral.title "Generale">
 <!ENTITY paneDisplay.title "Visualizzazione">
 <!ENTITY paneComposition.title "Composizione">
+<!ENTITY paneChat.title "Chat">
 <!ENTITY paneAttachments.title "Allegati">
 <!ENTITY paneSecurity.title "Sicurezza">
 <!ENTITY paneAdvanced.title "Avanzate">

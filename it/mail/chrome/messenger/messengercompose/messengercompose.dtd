@@ -14,6 +14,8 @@
 <!ENTITY attachFileCmd.label "File…">
 <!ENTITY attachFileCmd.accesskey "f">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pagina web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!ENTITY attachVCardCmd.label "Biglietto da visita elettronico (vCard)">
@@ -234,7 +236,15 @@
 <!ENTITY selectAll.label "Seleziona tutto">
 <!ENTITY selectAll.accesskey "z">
 <!ENTITY attachFile.label "Allega file…">
-<!ENTITY attachFile.accesskey "f">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Converti in…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Interrompi invio">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Allegato normale">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Allega pagina web…">
 <!ENTITY attachPage.accesskey "w">
 <!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
