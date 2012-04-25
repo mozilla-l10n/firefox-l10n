@@ -1,17 +1,17 @@
 <!ENTITY autoconfigWizard.title "Настройка учётной записи почты">
 <!ENTITY name.label "Ваше имя:">
-<!ENTITY name.accesskey "м">
+<!ENTITY name.accesskey "ш">
 <!ENTITY name.placeholder "Имя Фамилия">
 <!ENTITY name.text "Ваше имя, как оно отображается у других">
 <!ENTITY email.label "Адрес эл. почты:">
-<!ENTITY email.accesskey "р">
+<!ENTITY email.accesskey "д">
 <!ENTITY email.placeholder "email@example.ru">
 <!ENTITY password.label "Пароль:">
 <!ENTITY password.accesskey "р">
 <!ENTITY password.placeholder "Пароль">
 <!ENTITY password.text "Необязательно, будет использоваться только для проверки имени пользователя">
 <!ENTITY rememberPassword.label "Запомнить пароль">
-<!ENTITY rememberPassword.accesskey "п">
+<!ENTITY rememberPassword.accesskey "н">
 <!ENTITY imapLong.label "IMAP (удалённый доступ к папкам)">
 <!ENTITY pop3Long.label "POP3 (хранить почту на вашем компьютере)">
 <!ENTITY incoming.label "Входящая:">
@@ -29,29 +29,29 @@
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
 <!ENTITY advancedSetup.label "Дополнительная настройка">
-<!ENTITY advancedSetup.accesskey "п">
+<!ENTITY advancedSetup.accesskey "л">
 <!ENTITY cancel.label "Отмена">
-<!ENTITY cancel.accesskey "т">
+<!ENTITY cancel.accesskey "м">
 <!ENTITY continue.label "Продолжить">
-<!ENTITY continue.accesskey "д">
+<!ENTITY continue.accesskey "ж">
 <!ENTITY stop.label "Стоп">
-<!ENTITY stop.accesskey "т">
+<!ENTITY stop.accesskey "п">
 <!ENTITY half-manual-test.label "Перетестировать">
 <!ENTITY half-manual-test.accesskey "е">
 <!ENTITY manual-edit.label "Настройка вручную">
-<!ENTITY manual-edit.accesskey "с">
+<!ENTITY manual-edit.accesskey "а">
 <!ENTITY switch-to-provisioner.label "Получить новую учётную запись">
-<!ENTITY switch-to-provisioner.accesskey "л">
+<!ENTITY switch-to-provisioner.accesskey "ч">
 <!ENTITY warning.label "Предупреждение!">
 <!ENTITY incomingSettings.label "Параметры входящей почты:">
 <!ENTITY outgoingSettings.label "Параметры исходящей почты:">
 <!ENTITY technicaldetails.label "Технические детали">
 <!ENTITY confirmWarning.label "Я понимаю риск.">
-<!ENTITY confirmWarning.accesskey "н">
-<!ENTITY createAccount.label "Создать учётную запись">
-<!ENTITY createAccount.accesskey "з">
+<!ENTITY confirmWarning.accesskey "и">
+<!ENTITY doneAccount.label "Готово">
+<!ENTITY doneAccount.accesskey "о">
 <!ENTITY changeSettings.label "Изменить настройки">
-<!ENTITY changeSettings.accesskey "м">
+<!ENTITY changeSettings.accesskey "з">
 <!ENTITY contactYourProvider.description "Вы можете забирать свою почту с помощью &brandShortName;, используя предоставленные конфигурации. Тем не менее мы рекомендуем вам связаться с вашим администратором или провайдером электронной почты в связи с небезопасностью работы по этим соединениям. Для получения более подробной информации обратитесь к Thunderbird FAQ.">
 <!ENTITY insecureServer.tooltip.title "Предупреждение! Это незащищённый сервер.">
 <!ENTITY insecureServer.tooltip.details "Для получения подробностей щёлкните по кружку.">
