@@ -70,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Fel återställningsnyckel. Försök igen.'>
