@@ -8,7 +8,7 @@
 #define bookmarks_heading Sinedoù
 
 #define bookmarks_toolbarfolder Barrenn ostilhoù ar sinedoù
-#define bookmarks_toolbarfolder_description Ouzhpennit sinedoù en teuliad-mañ evit diskouez anezho er varren ostilhoù ar sinedoù
+#define bookmarks_toolbarfolder_description Ouzhpennit sinedoù en teuliad-mañ evit diskouez anezho er varrenn ostilhoù ar sinedoù
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/

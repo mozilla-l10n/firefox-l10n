@@ -109,7 +109,7 @@
 <!ENTITY escrowWarn.title "Eilad an alc'hwez enrinegañ">
 <!ENTITY escrowWarn.message1 "Pouezus : An aotrouniezh testeniañ-mañ he deus goulennet un atoriñ evit hoc'h alc'hwez enrinegañ.">
 <!ENTITY escrowWarn.benefit1 "Ar splet zo mar bez kollet ho haeziñ betek hoc'h alc'hwez enrinegañ prevez e c'hallot azgoulenn un eilad anezhi diouzh an aotrouniezh testeniañ-mañ.">
-<!ENTITY escrowWarn.message2 "Forzh penaos e vo kadaviet hoc'h alc'hwez prevez enrinegañ gant an aotrouniezh testeniañ hag arveret e c'hallfe bezañ evit lenn ho posteloù pe deulioù enrinek hep hoc'h aotre.">
+<!ENTITY escrowWarn.message2 "Forzh penaos e vo kadavet hoc'h alc'hwez prevez enrinegañ gant an aotrouniezh testeniañ hag arveret e c'hallfe bezañ evit lenn ho posteloù pe deulioù enrinek hep hoc'h aotre.">
 <!ENTITY examineCert.label "Gwelout an testeni">
 <!ENTITY examineCert.accesskey "w">
 
