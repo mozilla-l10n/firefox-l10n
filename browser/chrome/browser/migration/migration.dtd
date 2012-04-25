@@ -12,8 +12,6 @@
 <!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromFirefox.label "Firefox">
 <!ENTITY importFromFirefox.accesskey "X">
-<!ENTITY importFromHTMLFile.label "HTML-файла">
-<!ENTITY importFromHTMLFile.accesskey "ф">
 <!ENTITY noMigrationSources.label "Ни одной программы, содержащей закладки, журнал или пароли, не найдено.">
 <!ENTITY importSource.title "Импорт настроек и данных">
 <!ENTITY importItems.title "Объекты для импорта">
