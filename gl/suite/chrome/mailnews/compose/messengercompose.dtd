@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "Deter a transferencia actual"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(Non se atoparon suxestións)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorar a palabra">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Engadir ao dicionario">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Renomear…">
