@@ -54,8 +54,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "HTML ֆայլից">
-<!ENTITY importFromHTMLFile.accesskey   "H">
 
 <!ENTITY noMigrationSources.label       "Չգտնվեց գետ մեկ ծրագիր որը պարունակում է էջանիշեր, պատմություն կամ գաղտնաբառ:">
 
