@@ -16,5 +16,6 @@
 <!ENTITY cookie.manage "Управление куками…">
 <!ENTITY cookie.removeAll "Удалить все куки">
 <!ENTITY geo.label "Узнавать местоположение">
+<!ENTITY plugins.label "Плагины">
 <!ENTITY indexedDB.label "Управлять автономным хранилищем">
 <!ENTITY popup.label "Открывать всплывающие окна">

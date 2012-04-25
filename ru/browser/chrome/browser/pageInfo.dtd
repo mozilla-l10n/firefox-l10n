@@ -55,6 +55,7 @@
 <!ENTITY permCookie "Устанавливать куки">
 <!ENTITY permInstall "Устанавливать расширения или темы">
 <!ENTITY permGeo "Узнавать местоположение">
+<!ENTITY permPlugins "Включать плагины">
 <!ENTITY permIndexedDB "Управлять автономным хранилищем">
 <!ENTITY permClearStorage "Очистить хранилище">
 <!ENTITY permClearStorage.accesskey "ч">
