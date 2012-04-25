@@ -12,8 +12,6 @@
 <!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromFirefox.label "Firefox">
 <!ENTITY importFromFirefox.accesskey "x">
-<!ENTITY importFromHTMLFile.label "Da un file HTML">
-<!ENTITY importFromHTMLFile.accesskey "D">
 <!ENTITY noMigrationSources.label "Non è stato trovato alcun programma contenente segnalibri, cronologie o password.">
 <!ENTITY importSource.title "Importa impostazioni e dati">
 <!ENTITY importItems.title "Oggetti da importare">
