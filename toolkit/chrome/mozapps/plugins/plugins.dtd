@@ -60,7 +60,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName;­ը պիտի վերագործարկվի բաղադիրներն աշխատացնելու համար:">
 
 <!ENTITY missingPlugin                                       "Պլագին է անհրաժեշտ պարունակությունը ցուցադրելու համար:">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugins                                  "Click here to activate plugins.">
 <!ENTITY disabledPlugin                                      "Այս պլագինը անջատված է:">
 <!ENTITY blockedPlugin.label                                 "Անվտանգության նկատառումներով այս պլագինը կասեցվել է:">
 

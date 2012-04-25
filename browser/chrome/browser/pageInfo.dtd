@@ -137,6 +137,7 @@
 <!ENTITY  permCookie            "Տեղադրել Քուուկի">
 <!ENTITY  permInstall           "Տեղակայել Ընդլայնումներ կամ Թեմաներ">
 <!ENTITY  permGeo               "Ցուցադրել Տեղամասը">
+<!ENTITY  permPlugins           "Activate Plugins">
 
 <!ENTITY  permIndexedDB              "Պահպանել օֆլայն պահոցը">
 <!ENTITY  permClearStorage           "Մաքրել պահոցը">

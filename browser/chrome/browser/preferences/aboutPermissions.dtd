@@ -67,6 +67,8 @@
 
 <!ENTITY geo.label                       "Հայտնել գտնվելու վայրը">
 
+<!ENTITY plugins.label                   "Plugins">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Պահպանել օֆլայն պահոցը">
