@@ -13,3 +13,15 @@
 <!ENTITY chooseFolderWin.accesskey "o">
 <!ENTITY chooseFolderMac.label "Scegliere…">
 <!ENTITY chooseFolderMac.accesskey "e">
+<!ENTITY attachments.incoming.label "In arrivo">
+<!ENTITY attachments.outgoing.label "In uscita">
+<!ENTITY addCloudFileAccount.label "Aggiungi">
+<!ENTITY addCloudFileAccount.accesskey "A">
+<!ENTITY addCloudFileAccount.description "Aggiungi un nuovo servizio di archiviazione Filelink">
+<!ENTITY removeCloudFileAccount.label "Elimina">
+<!ENTITY removeCloudFileAccount.accesskey "E">
+<!ENTITY authRequired.description "È indispensabie l'autorizzazione per visualizzare le impostazioni di questo servizio di archiviazione.">
+<!ENTITY authRequired.button.label "Autorizza">
+<!ENTITY authRequired.button.accesskey "U">
+<!ENTITY enableCloudFileAccountOffer.label "Offrire la condivisione per file più grandi di">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

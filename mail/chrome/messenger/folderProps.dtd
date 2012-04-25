@@ -24,6 +24,8 @@
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
    -   
+   -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -47,7 +49,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label "Ricostruisci il file indice">
 <!ENTITY folderRebuildSummaryFile2.label "Ripara la cartella">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
-<!ENTITY folderRebuildSummaryFile.explanation "Può succedere che il file indice delle cartelle risulti danneggiato e qualche messaggio non venga visualizzato o messaggi già cancellati vengano comunque visualizzati; riparare la cartella può risolvere questo tipo di problema.">
+<!ENTITY folderRebuildSummaryFile.explanation "Può succedere che il file indice delle cartelle risulti danneggiato e qualche messaggio non venga visualizzato o messaggi già eliminati vengano comunque visualizzati; riparare la cartella può risolvere questo tipo di problema.">
 <!ENTITY folderIncludeInGlobalSearch.label "Includi i messaggi di questa cartella nei risultati di Ricerca globale">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "I">
 <!ENTITY retention.label "Politica di conservazione">
