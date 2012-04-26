@@ -32,7 +32,7 @@
 
 <!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item
      when the stylesheet uses the scoped attribute on the <style> element. -->
-<!ENTITY scoped.label               "I skop.">
+<!ENTITY scoped.label               "Scoped.">
 
 <!ENTITY editorTextbox.placeholder  "Skriv CSS her.">
 
