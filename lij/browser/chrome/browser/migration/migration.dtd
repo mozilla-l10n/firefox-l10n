@@ -15,8 +15,7 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label       "Da un file HTML">
-<!ENTITY importFromHTMLFile.accesskey   "f">
+
 
 <!ENTITY noMigrationSources.label       "Nisciùnn-a aplicaçión che a contegne di segnalìbbri, stöia ò paròlle segrétte peu êse trovâ.">
 
