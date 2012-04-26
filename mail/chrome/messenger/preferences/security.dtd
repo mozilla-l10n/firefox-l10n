@@ -5,7 +5,7 @@
 <!ENTITY itemCookies.label       "Contido web">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Defina a configuración predefinida para o correo lixo. As configuracións específicas de cada conta poden configurarse en Configuracións da conta.">
+<!ENTITY junkMail.intro "Defina a configuración predeterminada para o correo lixo. As configuracións específicas de cada conta poden configurarse en Configuracións da conta.">
 <!ENTITY manualMark.label "Cando marco mensaxes como lixo:">
 <!ENTITY manualMark.accesskey "c">
 <!ENTITY manualMarkModeMove.label "Movelas para o cartafol &quot;Lixo&quot; da conta">
@@ -13,11 +13,11 @@
 <!ENTITY manualMarkModeDelete.label "Eliminalas">
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Marcar como lidas as mensaxes identificadas como lixo">
-<!ENTITY markAsReadOnSpam.accesskey "l">
-<!ENTITY enableJunkLogging.label "Activar o rexistro do filtro de lixo">
-<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Activar o rexistro do filtro adaptábel do lixo">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "e">
 <!ENTITY openJunkLog.label "Mostrar o rexistro">
-<!ENTITY openJunkLog.accesskey "M">
+<!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Restabelecer os datos de adestramento">
 <!ENTITY resetTrainingData.accesskey "R">
 
