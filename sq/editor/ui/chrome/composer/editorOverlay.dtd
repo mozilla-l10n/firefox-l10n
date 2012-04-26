@@ -37,7 +37,7 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Shenja dhe Simbole…">
 <!ENTITY insertCharsCmd.accesskey "S">
-<!ENTITY insertBreakAllCmd.label "Ndërprerje Nën Figurë(at)">
+<!ENTITY insertBreakAllCmd.label "Ndërprerje Nën Figurë">
 <!ENTITY insertBreakAllCmd.accesskey "N">
 
 <!-- Used just in context popup. -->
