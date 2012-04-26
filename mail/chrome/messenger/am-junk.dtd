@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Paramètres pour les indésirables">
-<!ENTITY trainingWarning.label "Quand cette fonctionnalité est activée, vous devez entraîner d'abord &brandShortName; à identifier les courriels indésirables en utilisant le bouton « Indésirables » de la barre d'outils pour marquer les messages comme indésirables ou pas. Vous devez identifier à la fois les courriels indésirables et ceux qui ne le sont pas.">
+<!ENTITY trainingDescription.label "Quand cette fonctionnalité est activée, vous devez d'abord entraîner &brandShortName; à identifier les courriels indésirables en utilisant le bouton « Indésirables » de la barre d'outils pour marquer les messages comme indésirables ou pas. Vous devez identifier à la fois les courriels indésirables et ceux qui ne le sont pas. Par la suite, &brandShortName; sera en mesure de détecter les indésirables automatiquement.">
 <!ENTITY level.label "Activer les contrôles adaptatifs de courriels indésirables pour ce compte">
 <!ENTITY level.accesskey "A">
 
@@ -13,8 +13,12 @@
 <!ENTITY purge1.accesskey "S">
 <!ENTITY purge2.label "jours">
 
-<!ENTITY whitelist.label "Ne pas marquer les messages comme indésirables si l'expéditeur est dans : ">
+<!ENTITY whitelistHeader.label "Ne pas marquer automatiquement les messages comme indésirables si l'expéditeur est dans : ">
 <!ENTITY whitelist.accesskey "N">
 
+<!ENTITY ispHeadersWarning.label "Quand cette fonctionnalité est activée, &brandShortName; considère automatiquement les messages désignés par cet outil externe comme indésirables.">
 <!ENTITY ispHeaders.label "Se fier aux en-têtes de courrier indésirable placés par : ">
 <!ENTITY ispHeaders.accesskey "f">
+
+<!ENTITY junkClassification.label "Sélection">
+<!ENTITY junkActions.label "Destination et rétention">
