@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Neuer Tab">
-
-<!ENTITY newtab.show "Seite für neuen Tab anzeigen">
-<!ENTITY newtab.hide "Seite für neuen Tab ausblenden">
-<!ENTITY newtab.reset "Seite auf Standardeinstellungen zurücksetzen">

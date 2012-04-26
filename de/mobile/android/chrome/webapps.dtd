@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Offline-Daten">
 <!ENTITY webapps.perm.notifications "Desktop-Hinweise">
 <!ENTITY webapps.perm.requestedHint "(angefordert)">
+<!ENTITY webapps.add-homescreen "Zu Startbildschirm hinzufügen">

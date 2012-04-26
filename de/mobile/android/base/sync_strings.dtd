@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Verbinden mit &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label;-Konto hinzufügen'>
+<!ENTITY sync.title.pair.label 'Gerät verbinden'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Zum Aktivieren, wählen Sie \"Gerät verbinden\" auf Ihrem Gerät.'>
+<!ENTITY sync.subtitle.header.label 'Geben Sie dann folgenden Code auf Ihrem Computer ein'>
+<!ENTITY sync.subtitle.connectlocation.label 'Wählen Sie \"&sync.title.pair.label;\" im Abschnitt \"&syncBrand.shortName.label;\" der Einstellungen Ihres Desktop-Firefox.'>
+<!ENTITY sync.subtitle.pair.label 'Zum Aktivieren, wählen Sie \"Gerät verbinden\" auf Ihrem anderen Gerät.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Anleitung.'>
+<!ENTITY sync.link.advancedsetup.label 'Erweiterte Einrichtung…'>
+<!ENTITY sync.link.nodevice.label 'Ich habe das Gerät nicht bei mir…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Warten auf anderes Gerät…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Geben Sie Ihre &syncBrand.fullName.label;-Kontoinformationen ein'>
+<!ENTITY sync.input.username.label 'Benuzerkonto'>
+<!ENTITY sync.input.password.label 'Passwort'>
+<!ENTITY sync.input.key.label 'Wiederherstellungsschlüssel'>
+<!ENTITY sync.checkbox.server.label 'Eigenen Server verwenden'>
+<!ENTITY sync.input.server.label 'Serveradresse'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Kann &syncBrand.shortName.label; nicht einrichten'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; konnte nicht zum Server verbinden. Wollen Sie es erneut versuchen?'>
+<!ENTITY sync.button.tryagain.label 'Erneut versuchen'>
+<!ENTITY sync.button.manual.label 'Manuelle Einrichtung'>
+<!ENTITY sync.subtitle.nointernet.label 'Keine Internetverbindung verfügbar.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Einrichtung abgeschlossen'>
+<!ENTITY sync.subtitle.success.label 'Ihre Daten werden nun im Hintergrund heruntergeladen. Sie können Ihr Konto in den Einstellungen verwalten.'>
+<!ENTITY sync.settings.label 'Einstellungen'>
+<!ENTITY sync.subtitle.manage.label 'Ihr &syncBrand.fullName.label;-Konto ist bereits eingerichtet. Gehen Sie zum Verwalten des Kontos in die Einstellungen.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Bitte erneut versuchen.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Einstellungen'>
+<!ENTITY sync.summary.pair.label 'Ein weiteres Gerät mit Ihrem &syncBrand.shortName.label;-Konto verbinden'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Abbrechen'>
+<!ENTITY sync.button.connect.label 'Verbinden'>
+<!ENTITY sync.button.ok.label 'OK'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Lesezeichen-Menü'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Schlagwörter'>
+<!ENTITY bookmarks.folder.toolbar.label 'Lesezeichen-Symbolleiste'>
+<!ENTITY bookmarks.folder.unfiled.label 'Unsortierte Lesezeichen'>
+<!ENTITY bookmarks.folder.desktop.label 'Desktop-Lesezeichen'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobile Lesezeichen'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Es wird nur ein &syncBrand.fullName.label;-Konto unterstützt.'>
