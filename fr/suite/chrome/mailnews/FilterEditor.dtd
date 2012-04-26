@@ -93,4 +93,7 @@
 <!ENTITY ignoreThread.label "Ignorer la discussion">
 <!ENTITY ignoreSubthread.label "Ignorer le sous-fil de discussion">
 <!ENTITY watchThread.label "Surveiller la discussion">
-<!ENTITY stopExecution.label "Arrêter l'exécution du filtrage">
+<!ENTITY stopExecution.label "Arrêter l'exécution du filtre">
+
+<!ENTITY addAction.tooltip "Ajouter une nouvelle action">
+<!ENTITY removeAction.tooltip "Supprimer cette action">
