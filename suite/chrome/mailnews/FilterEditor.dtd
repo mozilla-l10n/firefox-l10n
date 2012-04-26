@@ -36,3 +36,5 @@
 <!ENTITY ignoreSubthread.label "Пропустить ветку обсуждения">
 <!ENTITY watchThread.label "Отслеживать обсуждение">
 <!ENTITY stopExecution.label "Остановить выполнение фильтра">
+<!ENTITY addAction.tooltip "Добавить новое действие">
+<!ENTITY removeAction.tooltip "Удалить это действие">

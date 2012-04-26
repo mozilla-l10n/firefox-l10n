@@ -32,6 +32,7 @@
 <!ENTITY history_older_section "Более 7 дней назад">
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
+<!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY new_tab "Новая вкладка">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
