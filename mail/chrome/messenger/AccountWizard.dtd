@@ -34,18 +34,10 @@
 
 <!-- Entities for Server page -->
 
-<!ENTITY serverTitle.label "Server-Informationen">
+<!ENTITY incomingTitle.label "Informationen über Posteingang-Server">
 <!ENTITY incomingServerTypeDesc.label "Wählen Sie den Typ Ihres Posteingang-Server.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Geben Sie den Posteingang-Server ein (zum Beispiel &quot;mail.example.com&quot;).">
-<!ENTITY incomingServerLabel.label "Posteingang-Server:">
-<!ENTITY incomingServerLabel.accesskey "e">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Geben Sie den News-Server (NNTP) ein (zum Beispiel &quot;news.example.com&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Geben Sie den Postausgang-Server (SMTP) ein (zum Beispiel &quot;smtp.example.com&quot;).">
-<!ENTITY smtpServerLabel.label "Postausgang-Server (SMTP):">
-<!ENTITY smtpServerLabel.accesskey "a">
 <!ENTITY newsServerLabel.label "Newsgruppen-Server:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
@@ -60,6 +52,25 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Geben Sie den Posteingang-Server ein (zum Beispiel &quot;mail.example.com&quot;).">
+<!ENTITY incomingServer.label "Posteingang-Server:">
+<!ENTITY incomingServer.accesskey "e">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Geben Sie den Benutzernamen ein, der Ihnen vom Anbieter des E-Mail-Diensts gegeben wurde (zum Beispiel &quot;hmaier&quot;).">
+<!ENTITY incomingUsername.label "Posteingang-Server Benutzername:">
+<!ENTITY incomingUsername.accesskey "B">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Informationen über Postausgang-Server">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Geben Sie den Postausgang-Server (SMTP) ein (zum Beispiel &quot;smtp.example.com&quot;).">
+<!ENTITY outgoingServer.label "Postausgang-Server (SMTP)::">
+<!ENTITY outgoingServer.accesskey "a">
+<!ENTITY outgoingUsername.description "Geben Sie Ihren Benutzernamen für den Postausgang-Server (SMTP) ein (meist der gleiche wie beim Posteingang-Server).">
+<!ENTITY outgoingUsername.label "Postausgang-Server (SMTP) Benutzername:">
+<!ENTITY outgoingUsername.accesskey "n">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -74,15 +85,6 @@
 
 <!-- Entities for Login page -->
 
-<!ENTITY loginTitle.label "Benutzernamen">
-<!ENTITY usernameDesc.label "Geben Sie den Benutzernamen ein, der Ihnen vom Anbieter des E-Mail-Diensts gegeben wurde">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(zum Beispiel &quot;hmaier&quot;).">
-<!ENTITY usernameLabel.label "Posteingang-Server Benutzername:">
-<!ENTITY usernameLabel.accesskey "B">
-<!ENTITY usernameSmtpDesc.label "Geben Sie Ihren Benutzernamen für den Postausgang-Server (SMTP) ein (meist der gleiche wie beim Posteingang-Server).">
-<!ENTITY usernameSmtpLabel.label "Postausgang-Server (SMTP) Benutzername:">
-<!ENTITY usernameSmtpLabel.accesskey "A">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

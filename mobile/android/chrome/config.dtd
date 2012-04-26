@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Suchen">
-<!ENTITY newpref.label          "Neue Einstellung hinzufügen">
-<!ENTITY addpref.name           "Name">
-<!ENTITY addpref.value          "Wert">
-
-<!ENTITY cancel.label           "Abbrechen">
-<!ENTITY reset.label            "Zurücksetzen">
-<!ENTITY done.label             "Fertig">
-
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY search.placeholder2    "Einstellungen durchsuchen">
+<!ENTITY clear.altText          "Leeren">
+<!ENTITY newpref.label2         "Neue Einstellung hinzufügen">

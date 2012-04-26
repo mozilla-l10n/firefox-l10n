@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "u">
 <!ENTITY chooseFolderMac.label        "Auswählen…">
 <!ENTITY chooseFolderMac.accesskey    "w">
+
+<!ENTITY attachments.incoming.label   "Empfang">
+<!ENTITY attachments.outgoing.label   "Versand">
+
+<!ENTITY addCloudFileAccount.label        "Hinzufügen">
+<!ENTITY addCloudFileAccount.accesskey    "H">
+<!ENTITY addCloudFileAccount.description  "Einen Filelink-Speicherdienst hinzufügen">
+<!ENTITY removeCloudFileAccount.label     "Entfernen">
+<!ENTITY removeCloudFileAccount.accesskey "E">
+<!ENTITY authRequired.description         "Für die Anzeige der Einstellungen dieses Speicherdienstes wird Ihre Autorisierung benötigt.">
+<!ENTITY authRequired.button.label        "Autorisieren">
+<!ENTITY authRequired.button.accesskey    "A">
+
+<!ENTITY enableCloudFileAccountOffer.label "Hochladen für Dateien größer als">
+<!ENTITY enableCloudFileAccountOffer.mb "MB anbieten">

@@ -65,11 +65,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Immer den privaten Modus verwenden">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label          "Besuchte Seiten speichern">
-<!ENTITY  rememberHistory.accesskey      "B">
-
-<!ENTITY  rememberDownload.label         "Download-Chronik speichern">
-<!ENTITY  rememberDownload.accesskey     "D">
+<!ENTITY  rememberHistory2.label      "Besuchte Seiten und Download-Chronik speichern">
+<!ENTITY  rememberHistory2.accesskey  "B">
 
 <!ENTITY  rememberSearchForm.label       "Eingegebene Suchbegriffe und Formulardaten speichern">
 <!ENTITY  rememberSearchForm.accesskey   "S">
