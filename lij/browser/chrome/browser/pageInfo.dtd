@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Inpòsta cookie">
 <!ENTITY  permInstall           "Instàlla estenscioìn ò têmi">
 <!ENTITY  permGeo               "Condivìddi Indirìsso">
+<!ENTITY  permPlugins           "Atîva i Plugin">
 
 <!ENTITY  permIndexedDB              "Tégni o sarvatàggio fêua lìnia">
 <!ENTITY  permClearStorage           "Scancélla o sarvataggio">

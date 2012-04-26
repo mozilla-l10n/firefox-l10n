@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; o dêve êse avèrto tórna pe fâ louâ i plugin.">
 
 <!ENTITY missingPlugin                                       "Pe védde sto contegnûo t'æ bezéugno de 'n plugin.">
-<!ENTITY clickToPlayPlugin                                   "Sciàcca chi pe ativâ o plugin.">
+<!ENTITY tapToPlayPlugin                                     "Bàtti chi pe ativâ i plugin.">
+<!ENTITY clickToPlayPlugins                                  "Sciàcca chi pe ativâ i plugin.">
+
 <!ENTITY disabledPlugin                                      "O plugin o l'é dizabilitòu.">
 <!ENTITY blockedPlugin.label                                 "O plugin o l'é stæto blocòu pe-a teu proteçión.">
 
