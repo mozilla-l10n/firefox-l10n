@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Odgovori samo pošiljatelju">
 <!ENTITY replySenderCmd.accesskey "r">
-<!ENTITY replyNewsgroupCmd.label "Odgovori na interesnu grupu">
-<!ENTITY replyNewsgroupCmd.accesskey  "g">
+<!ENTITY replyNewsgroupCmd2.label "Nastavak - za interesnu grupu">
+<!ENTITY replyNewsgroupCmd2.accesskey  "g">
 <!ENTITY replyToAllMsgCmd.label "Odgovori svima">
 <!ENTITY replyToAllMsgCmd.accesskey  "d">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "U">
 <!ENTITY errorConsoleCmd.label "Konzola grešaka">
 <!ENTITY errorConsoleCmd.accesskey "e">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Postavke računa…">
 <!ENTITY accountManagerCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
 <!ENTITY contextReplySender.accesskey "O">
-<!ENTITY contextReplyNewsgroup.label "Odgovori na interesnu grupu">
-<!ENTITY contextReplyNewsgroup.accesskey "d">
+<!ENTITY contextReplyNewsgroup2.label "Nastavak - za interesnu grupu">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Odgovori svima">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Odgovori na listu">
