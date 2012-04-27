@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Zapisnik neželjene pošte">
-<!ENTITY junkLogInfo.label "Zapisnik kontrole aktivnosti neželjene pošte.">
+<!ENTITY adaptiveJunkLog.title "Prilagodljiv zapisnik neželjene pošte">
+<!ENTITY adaptiveJunkLogInfo.label "Zapisnik prilagodljive kontrole aktivnosti neželjene pošte.">
 <!ENTITY clearLog.label "Očisti zapisnik">
 <!ENTITY clearLog.accesskey "O">
 <!ENTITY closeLog.label "Zatvori">
