@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mora biti ponovno pokrenut da bi priključak/ci mogli raditi.">
   
 <!ENTITY missingPlugin                                       "Za prikaz ovog sadržaja potreban je priključak.">
-<!ENTITY clickToPlayPlugin                                   "Pritisnite ovdje da biste aktivirali priključak.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Pritisnite ovdje da biste aktivirali priključak.">
+<!ENTITY clickToPlayPlugins                                  "Pritisnite ovdje da biste aktivirali priključke.">
 <!ENTITY disabledPlugin                                      "Ovaj je priključak onemogućen.">
 <!ENTITY blockedPlugin.label                                 "Ovaj je priključak blokiran radi vaše sigurnosti.">
 
