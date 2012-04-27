@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Prikaži kratki pregled članka umjesto učitavanja web stranice">
 <!ENTITY quickMode.accesskey         "r">
 
+<!ENTITY locationValidate.label      "Provjeri ispravnost">
 <!ENTITY validateText.label          "Provjeri ispravnost i dohvati ispravan url.">
 
 <!ENTITY button.addFeed.label        "Dodaj">
