@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Naziv računa:">
 <!ENTITY addAccountDialog.noAccountText "Trenutna inačica &brandShortName;a dopušta samo jedan račun na svakoj mrežnoj usluzi pohrane.">
-<!ENTITY addAccountDialog.createAccountText "Ova mogućnost vam omogućava slanje slanje velikih privitaka koristeći jednu od nekoliko mrežnih usluga pohrane. Možete se spojiti na postojeći račun ili prijaviti novi račun.">
+<!ENTITY addAccountDialog.createAccountText2 "Možete slati velike privitke koristeći jednu od nekoliko mrežnih usluga pohrane. Spojite se na postojeći račun ili prijavite novi račun.">
 <!ENTITY addAccountDialog.authorizing "Provjera autentifikacije...">
 <!ENTITY addAccountDialog.error "Dogodila se greška prilikom postavljanja računa!">
 <!ENTITY addAccountDialog.acceptButton.label "Postavi račun">
+<!ENTITY addAccountDialog.learnMore "Saznajte više…">
