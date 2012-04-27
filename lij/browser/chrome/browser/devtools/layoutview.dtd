@@ -8,14 +8,14 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY elementSize.label      "Dimenscioìn de l'eleménto: ">
+<!ENTITY elementSize.label      "DimenscioÃ¬n de l'elemÃ©nto: ">
 
 
 <!-- LOCALIZATION NOTE (*.tooltip): These tooltips are not regular tooltips.
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
 
-<!ENTITY margins.tooltip        "zìnn-e">
-<!ENTITY borders.tooltip        "oexìn">
-<!ENTITY padding.tooltip        "pìn">
-<!ENTITY content.tooltip        "contegnûo">
+<!ENTITY margins.tooltip        "zÃ¬nn-e">
+<!ENTITY borders.tooltip        "oexÃ¬n">
+<!ENTITY padding.tooltip        "pÃ¬n">
+<!ENTITY content.tooltip        "contegnÃ»o">
