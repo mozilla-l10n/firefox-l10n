@@ -2,8 +2,6 @@
 <!ENTITY done.title "Importim i Plotësuar">
 <!ENTITY importFrom.label "Importo Mundësi, Faqerojtësa, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
 <!ENTITY importFromBookmarks.label "Importo Faqerojtës prej:">
-<!ENTITY importFromHTMLFile.label       "Prej Kartele HTML">
-<!ENTITY importFromHTMLFile.accesskey   "P">
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromNothing.accesskey "J">
