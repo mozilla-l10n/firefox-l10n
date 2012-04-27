@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY addAccountDialog.title   "Filelink instellen">
-<!ENTITY addAccountDialog.menuTitle "Selecteer een online opslagdienst">
+<!ENTITY addAccountDialog.menuTitle "Een online opslagservice selecteren">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Accountnaam:">
-<!ENTITY addAccountDialog.noAccountText "Het spijt ons maar de huidige versie van &brandShortName; staat maar één account per online opslagdienst toe.">
-<!ENTITY addAccountDialog.createAccountText "Deze functie geeft de mogelijkheid om grote bijlagen te versturen via één van de vele online opslagsdiensten. U kunt verbinden via een bestaand account of een nieuw account instellen.">
-<!ENTITY addAccountDialog.authorizing "Autorisatie controleren...">
-<!ENTITY addAccountDialog.error "Er is een fout opgetreden bij het instellen van het account!">
+<!ENTITY addAccountDialog.noAccountText "Het spijt ons, maar de huidige versie van &brandShortName; staat maar één account per online opslagservice toe.">
+<!ENTITY addAccountDialog.createAccountText "Deze functie geeft de mogelijkheid om grote bijlagen te versturen via één van de vele online opslagservices. U kunt verbinding maken via een bestaande account, of een nieuwe account instellen.">
+<!ENTITY addAccountDialog.authorizing "Autorisatie controleren…">
+<!ENTITY addAccountDialog.error "Er is een fout opgetreden bij het instellen van de account!">
 <!ENTITY addAccountDialog.acceptButton.label "Account instellen">

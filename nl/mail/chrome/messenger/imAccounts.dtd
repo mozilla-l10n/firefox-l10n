@@ -1,4 +1,4 @@
-<!ENTITY accountsWindow.title                "Instant messagingstatus">
+<!ENTITY accountsWindow.title                "Instant-messagingstatus">
 <!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
 <!ENTITY accountManager.newAccount.label     "Nieuwe account">
 <!ENTITY accountManager.newAccount.accesskey "N">
