@@ -21,7 +21,12 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.removeFromList.label         "Lêva da Lìsta">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
+<!ENTITY cmd.clearList.label              "Scancélla lìsta">
 <!ENTITY cmd.clearList.accesskey          "c">
+
+<!ENTITY cmd.retry.label                  "Prêuva tórna">
 
 <!ENTITY downloadshistory.label           "Fànni védde tùtti i descaregaménti">
 <!ENTITY downloadshistory.accesskey       "t">
+
+<!ENTITY indicator.tooltiptext            "Descaregaménti">
