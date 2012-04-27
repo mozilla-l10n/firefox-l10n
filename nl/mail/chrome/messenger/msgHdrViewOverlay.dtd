@@ -42,7 +42,6 @@
 <!ENTITY replyToField3.label "Antwoord-naar ">
 
 <!ENTITY subjectField3.label "Onderwerp ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField3.label "Cc ">
 <!ENTITY bccField3.label "Bcc ">
 <!ENTITY newsgroupsField3.label "Nieuwsgroepen ">
@@ -51,7 +50,7 @@
 <!ENTITY dateField3.label "Datum ">
 <!ENTITY userAgentField3.label "Useragent ">
 <!ENTITY referencesField3.label "Referenties ">
-<!ENTITY messageIdField3.label "Message-id ">
+<!ENTITY messageIdField3.label "Bericht-ID ">
 <!ENTITY inReplyToField3.label "In-antwoord-op ">
 <!ENTITY originalWebsite3.label "Website ">
 
@@ -118,7 +117,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Alles verwijderen…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "v">
 
-<!ENTITY openAttachment.tooltip "Bijlagebestand openen">
+<!ENTITY openAttachment.tooltip "Het gekoppelde bestand openen">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Opslaan">

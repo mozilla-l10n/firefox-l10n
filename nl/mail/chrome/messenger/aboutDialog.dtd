@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          ", een ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wereldwijde gemeenschap">
-<!ENTITY community.end2             " die samenwerkt om het internet beter te maken. We vinden dat het internet open, openbaar en zonder restricties voor iedereen toegankelijk moet zijn.">
+<!ENTITY community.end2             " die samenwerkt om het internet te verbeteren. We vinden dat het internet open, openbaar en zonder restricties voor iedereen toegankelijk moet zijn.">
 
 <!ENTITY contribute.start           "Interessant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -44,9 +44,9 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Updates beschikbaar op ">
+<!ENTITY update.manual.start        "De ">
 <!ENTITY update.manual.linkText     "nieuwste versie">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.end          " downloaden">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

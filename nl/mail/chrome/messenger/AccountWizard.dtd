@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo2.label "Om berichten te kunnen ontvangen dient u eerst een account aan te maken.">
 <!ENTITY accountTypeTitle.label "Nieuwe account aanmaken">
-<!ENTITY accountTypeDesc2.label "Deze wizard verzamelt de informatie die nodig is om een account aan te maken. Als u niet over de gevraagde informatie beschikt, neem dan contact op met uw systeembeheerder of internetprovider.">
+<!ENTITY accountTypeDesc2.label "Deze wizard verzamelt de gegevens die nodig zijn om een account aan te maken. Als u niet over de gevraagde gegevens beschikt, neem dan contact op met uw systeembeheerder of internetprovider.">
 <!ENTITY accountTypeDirections.label "Selecteer het type account dat u wilt aanmaken:">
 <!ENTITY accountTypeMail.label "E-mailaccount">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -34,7 +34,7 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingTitle.label "Inkomende serverinformatie">
+<!ENTITY incomingTitle.label "Gegevens van inkomende server">
 <!ENTITY incomingServerTypeDesc.label "Selecteer het type van uw inkomende server.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -49,23 +49,23 @@
 <!ENTITY defaultPortLabel.label "Standaard:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Voer de naam in van uw inkomende server (bijvoorbeeld &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.description "Voer de naam in van uw inkomende server (bijvoorbeeld “mail.example.net”).">
 <!ENTITY incomingServer.label "Inkomende server:">
 <!ENTITY incomingServer.accesskey "o">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Voer de inkomende gebruikersnaam in die u van uw e-mailprovider hebt gekregen (bijvoorbeeld &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.description "Voer de inkomende gebruikersnaam in die u van uw e-mailprovider hebt gekregen (bijvoorbeeld “jsmit”).">
 <!ENTITY incomingUsername.label "Gebruikersnaam:">
 <!ENTITY incomingUsername.accesskey "G">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld &quot;news.example.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld “news.example.net”).">
 <!ENTITY newsServerLabel.label "Nieuwsgroepserver:">
 <!ENTITY newsServerLabel.accesskey "N">
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Uitgaande serverinformatie">
+<!ENTITY outgoingTitle.label "Gegevens van uitgaande server">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Voer de naam in van uw uitgaande server (SMTP) (bijvoorbeeld &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.description "Voer de naam in van uw uitgaande server (SMTP) (bijvoorbeeld “smtp.example.net”).">
 <!ENTITY outgoingServer.label "Uitgaande server:">
 <!ENTITY outgoingServer.accesskey "d">
 <!ENTITY outgoingUsername.description "Voer de uitgaande gebruikersnaam in die u van uw e-mailprovider hebt gekregen (dit is meestal dezelfde als uw inkomende gebruikersnaam).">
