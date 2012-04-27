@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Sett opp Filelink">
+<!ENTITY addAccountDialog.menuTitle "Velg en lagringstjeneste på nettet">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Kontonavn:">
+<!ENTITY addAccountDialog.noAccountText "Vi beklager, denne versjonen av &brandShortName; tillater bare en konto for hver lagringstjeneste.">
+<!ENTITY addAccountDialog.createAccountText "Denne funksjonen lar deg sende store vedlegg med en av flere lagringstjenester på nettet. Du kan enten koble til med en eksisterende konto, eller du kan registrere en ny konto.">
+<!ENTITY addAccountDialog.authorizing "Kontrollerer autorisasjon ...">
+<!ENTITY addAccountDialog.error "En feil oppstod ved oppsett av kontoen!">
+<!ENTITY addAccountDialog.acceptButton.label "Kontooppsett">
