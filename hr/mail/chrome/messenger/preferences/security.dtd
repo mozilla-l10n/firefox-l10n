@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "O">
 <!ENTITY markAsReadOnSpam.label "Poruke za koje se utvrdi da su neželjena pošta označi kao pročitane">
 <!ENTITY markAsReadOnSpam.accesskey "u">
-<!ENTITY enableJunkLogging.label "Omogući zapisnik filtera neželjene pošte">
-<!ENTITY enableJunkLogging.accesskey "m">
+<!ENTITY enableAdaptiveJunkLogging.label "Omogući prilagodljivi zapisnik filtera neželjene pošte">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "m">
 <!ENTITY openJunkLog.label "Prikaži zapisnik">
 <!ENTITY openJunkLog.accesskey "P">
 <!ENTITY resetTrainingData.label "Vrati na početne postavke">
