@@ -1,9 +1,9 @@
 <!ENTITY aboutDialog.title          "Rreth &brandFullName;-it">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; është eksperimentale dhe mund të jetë e paqendrueshme.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "I dërgon vetvetiu të dhënat e provës te &vendorShortName; për të ndihmuar në përmirësimin e &brandShortName;-s.">
+<!ENTITY warningDesc.version        "&brandShortName; është eksperimentale dhe mund të jetë e paqëndrueshme.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Dërgon vetvetiu te &vendorShortName; të dhëna mbi funksionimin, hardware-in, përdorimin dhe personalizimet, për të ndihmuar në përmirësimin e &brandShortName;-it.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
