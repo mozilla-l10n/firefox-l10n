@@ -114,6 +114,7 @@ can reach it easily. -->
 <!ENTITY forwardButton.tooltip "Avanzar una página">
 <!ENTITY backForwardButtonMenu.tooltip "Botón derecho o descolgar para mostrar historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Descolgar para mostrar historial">
+
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Recargar la página actual">
@@ -395,6 +396,7 @@ can reach it easily. -->
 <!ENTITY setDesktopBackgroundCmd.accesskey "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar esta página">
 <!ENTITY bookmarkPageCmd2.accesskey   "M">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Marcar este enlace">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcar este marco…">
@@ -442,23 +444,14 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey "c">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Reproducir">
 <!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Pausa">
 <!ENTITY mediaPause.accesskey        "P">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mudo">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Unmute">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Mostrar controles">
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ocultar controles">
@@ -467,9 +460,6 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.accesskey   "n">
 <!ENTITY videoSaveImage.label        "Guardar captura como…">
 <!ENTITY videoSaveImage.accesskey    "G">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Mostrar estadísticas">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ocultar estadisticas">
@@ -606,15 +596,12 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY addonBarCloseButton.tooltip  "Cerrar barra de complementos">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "Panel HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.accesskey          "M">
 

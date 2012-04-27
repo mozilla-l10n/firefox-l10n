@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Almacenamiento de mensajes">
 <!ENTITY securitySettings.label "Opciones de seguridad">
 <!ENTITY serverSettings.label "Configuración del servidor">
 <!ENTITY serverType.label "Tipo de servidor:">
@@ -76,3 +77,7 @@
 <!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
 <!ENTITY browseNewsrc.label "Examinar…">
 <!ENTITY browseNewsrc.accesskey "E">
+
+<!ENTITY accountTitle.label "Configuración de cuenta">
+<!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas.">
+

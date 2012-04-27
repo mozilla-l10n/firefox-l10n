@@ -114,13 +114,6 @@
 <!ENTITY saveButton.tooltip "Guardar este mensaje"> 
 <!ENTITY stopButton.tooltip "Detener la transferencia actual"> 
 
-<!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(No hay sugerencias)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorar palabra">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Agregar al diccionario">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Renombrar…">
