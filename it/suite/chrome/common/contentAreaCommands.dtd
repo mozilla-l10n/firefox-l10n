@@ -55,7 +55,7 @@
 <!ENTITY bookmarkPageCmd.label "Aggiungi pagina nei segnalibri…">
 <!ENTITY bookmarkPageCmd.accesskey "b">
 <!ENTITY bookmarkLinkCmd.label "Aggiungi link nei segnalibri…">
-<!ENTITY bookmarkLinkCmd.accesskey "o">
+<!ENTITY bookmarkLinkCmd.accesskey "k">
 <!ENTITY bookmarkFrameCmd.label "Aggiungi questo riquadro nei segnalibri…">
 <!ENTITY bookmarkFrameCmd.accesskey "b">
 <!ENTITY savePageAsCmd.label "Salva pagina con nome…">
