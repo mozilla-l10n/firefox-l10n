@@ -5,8 +5,9 @@
 <!ENTITY addAccountDialog.menuTitle "Seleccione un servicio de almacenamiento en línea">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nombre de cuenta:">
-<!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
-<!ENTITY addAccountDialog.createAccountText "This feature allows you to send large attachments using one of several online storage services. You can either connect to an existing account, or sign up for a new account.">
+<!ENTITY addAccountDialog.noAccountText "Lo sentimos, pero la versión actual de &brandShortName; solamente permite una cuenta de cada servicio de almacentamiento en línea.">
+<!ENTITY addAccountDialog.createAccountText "Esta característica permite enviar adjuntos grandes usando uno de varios servicios de almacenamiento en línea. Puede conectarse a una cuenta existente o registrarse para una cuenta nueva.">
 <!ENTITY addAccountDialog.authorizing "Verificando autorización...">
-<!ENTITY addAccountDialog.error "An error occurred while setting up the account!">
+<!ENTITY addAccountDialog.error "¡Ocurrió un error configurando la cuenta!">
 <!ENTITY addAccountDialog.acceptButton.label "Configurar cuenta">
+<!ENTITY addAccountDialog.learnMore "Learn more…">
