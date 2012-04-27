@@ -43,6 +43,7 @@
 <!ENTITY reload "Recharger">
 <!ENTITY forward "Page suivante">
 
+<!ENTITY close_tab "Fermer l'onglet">
 <!ENTITY new_tab "Nouvel onglet">
 <!ENTITY new_tab_opened "Nouvel onglet ouvert">
 
