@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Postavke računa">
-<!ENTITY accountSettingsDesc.label "Sljedeći račun je poseban.  Nijedan identitet nije povezan s njime.">
 <!ENTITY accountName.label "Naziv računa:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Spremnik poruka">
-<!ENTITY emptyTrashOnExit.label "Isprazni smeće prilikom izlaza">
-<!ENTITY emptyTrashOnExit.accesskey "z">
-<!ENTITY localPath.label "Lokalna mapa:">
-<!ENTITY localFolderPicker.label "Odaberi lokalnu mapu">
-<!ENTITY browseFolder.label "Odaberi…">
-<!ENTITY browseFolder.accesskey "b">
