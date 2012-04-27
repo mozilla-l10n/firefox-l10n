@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Nettprat-status">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Ny konto">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Lukk">
+<!ENTITY accountManager.close.accesskey      "L">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Ingen kontoer er konfigurert ennå">
+<!ENTITY accountManager.noAccount.description "Trykk på &accountManager.newAccount.label;-knappen for å la &brandShortName; guide deg gjennom prosessen å opprette en.">
+<!ENTITY account.autoSignOn.label     "Koble til ved oppstart">
+<!ENTITY account.autoSignOn.accesskey "o">
+<!ENTITY account.connect.label        "Koble til">
+<!ENTITY account.connect.accesskey    "b">
+<!ENTITY account.disconnect.label     "Koble fra">
+<!ENTITY account.disconnect.accesskey "f">
+<!ENTITY account.edit.label           "Egenskaper">
+<!ENTITY account.edit.accesskey       "E">
+<!ENTITY account.moveup.label         "Flytt opp">
+<!ENTITY account.movedown.label       "Flytt ned">
+<!ENTITY account.cancelReconnection.label         "Avbryt ny tilkobling">
+<!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.connecting           "Kobler til …">
+<!ENTITY account.disconnecting        "Kobler fra …">
+<!ENTITY account.disconnected         "Ikke tilkoblet">
