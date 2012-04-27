@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Spremnik poruka">
 <!ENTITY securitySettings.label "Postavke sigurnosti">
 <!ENTITY serverSettings.label "Postavke poslužitelja">
 <!ENTITY serverType.label "Vrsta poslužitelja:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Odaberi newsrc datoteku">
 <!ENTITY browseNewsrc.label "Odaberi…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Postavke računa">
+<!ENTITY accountSettingsDesc.label "Sljedeći račun je poseban.  Nijedan identitet nije povezan s njime.">
