@@ -36,7 +36,8 @@
 <!ENTITY report.disabled                                     "Avārijas ziņojumi ir deaktivizēti.">
 <!ENTITY report.failed                                       "Nosūtīšana neizdevās.">
 <!ENTITY report.unavailable                                  "Ziņojumi nav pieejami.">
-<!ENTITY clickToPlayPlugin                                   "Klikšķiniet šeit, lai aktivizētu spraudni.">
+<!ENTITY clickToPlayPlugins                                  "Klikšķiniet šeit, lai aktivizētu spraudņus.">
+<!ENTITY tapToPlayPlugin                                     "Pieskarieties šeit, lai aktivizētu spraudni.">
 
 <!ENTITY installPlugin                                       "Instalēt spraudni…">
 <!ENTITY managePlugins                                       "Pārvaldīt spraudņus…">
