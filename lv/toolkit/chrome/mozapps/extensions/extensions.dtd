@@ -26,9 +26,9 @@
 <!ENTITY info.plugincheck.tooltip               "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.contribute.label                 "Dot ieguldījumu">
-<!ENTITY cmd.contribute.accesskey             "D">
-<!ENTITY cmd.contribute.tooltip               "Dot ieguldījumu šī papildinājuma izstrādē">
+<!ENTITY cmd.contribute.label                 "Atbalstīt">
+<!ENTITY cmd.contribute.accesskey             "A">
+<!ENTITY cmd.contribute.tooltip               "Atbalstīt šī papildinājuma izstrādi">
 <!ENTITY cmd.findUpdates.label                "Meklēt atjauninājumus">
 <!ENTITY cmd.findUpdates.accesskey            "M">
 
@@ -36,8 +36,8 @@
 <!ENTITY cmd.enableAddon.accesskey "E">
 <!ENTITY cmd.disableAddon.label "Atslēgt">
 <!ENTITY cmd.disableAddon.accesskey "T">
-<!ENTITY cmd.uninstallAddon.label             "Atinstalēt">
-<!ENTITY cmd.uninstallAddon.accesskey         "A">
+<!ENTITY cmd.uninstallAddon.label             "Noņemt">
+<!ENTITY cmd.uninstallAddon.accesskey         "N">
 
 <!ENTITY cmd.about.label "Par šo papildinājumu">
 <!ENTITY cmd.about.accesskey "P">
