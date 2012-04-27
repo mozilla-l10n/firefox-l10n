@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "Atklāt atrašanās vietu">
 
+<!ENTITY plugins.label                   "Spraudņi">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Uzturēt datu glabātuvi datorā">
