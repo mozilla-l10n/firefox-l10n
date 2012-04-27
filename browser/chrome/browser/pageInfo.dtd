@@ -69,6 +69,7 @@
 
 <!ENTITY  permAskAlways         "Jautāt katru reizi">
 <!ENTITY  permGeo               "Atklāt atrašanās vietu">
+<!ENTITY  permPlugins           "Aktivizēt spraudņus">
 
 <!ENTITY mediaTab "Multivide">
 <!ENTITY mediaTab.accesskey "M">
