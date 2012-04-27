@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label    "Tilkoblede kontakter">
+<!ENTITY offlineContactsHeader.label   "Frakoblede kontakter">
+<!ENTITY conversationsHeader.label     "Samtaler">
+<!ENTITY searchResultConversation.label "Søkeresultat">
+<!ENTITY chat.noConv.title             "Samtaler vil vises her.">
+<!ENTITY chat.noConv.description       "Bruk kontaktlisten i det venstre panelet for å starte en samtale.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; har ingen tidligere samtaler lagret for denne kontakten.">
+<!ENTITY chat.noAccount.title             "Du har ikke satt opp en nettprat-konto ennå.">
+<!ENTITY chat.noAccount.description       "La &brandShortName; guide deg gjennom å sette opp en nettprat-konto.">
+<!ENTITY chat.accountWizard.button       "Kom i gang">
+<!ENTITY chat.noConnectedAccount.title             "Nettpratkontoene dine er nå tilkoblet.">
+<!ENTITY chat.noConnectedAccount.description       "Du kan koble dem til fra 'Nettpratstatus'-dialogen:">
+<!ENTITY chat.showAccountManager.button       "Vis nettpratstatus">
+
+<!ENTITY chat.participants             "Deltakere:">
+<!ENTITY chat.previousConversations    "Tidligere samtaler:">
+<!ENTITY chat.ongoingConversation      "Aktive samtaler">
+
+<!ENTITY openConversationCmd.label     "Start en samtale">
+<!ENTITY openConversationCmd.accesskey "t">
+<!ENTITY closeConversationCmd.label    "Lukk samtale">
+<!ENTITY closeConversationCmd.accesskey "L">
+<!ENTITY aliasCmd.label                "Endre navn">
+<!ENTITY aliasCmd.accesskey            "E">
+<!ENTITY deleteCmd.label               "Slett kontakt">
+<!ENTITY deleteCmd.accesskey           "S">
+
+<!ENTITY openConversationButton.tooltip  "Start en samtale">
+<!ENTITY closeConversationButton.tooltip "Lukk samtale">
+
+<!ENTITY addBuddyButton.label          "Legg til kontakt">
+<!ENTITY joinChatButton.label          "Bli med i nettprat">
+<!ENTITY chatAccountsButton.label      "Vis kontoer">
+
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllChatMessages.label.base "Søk i alle samtaler … #1">
+
+<!ENTITY status.available          "Tilgjengelig">
+<!ENTITY status.unavailable        "Utilgjengelig">
+<!ENTITY status.offline            "Frakoblet">
+
+<!ENTITY openLinkCmd.label            "Åpne lenke …">
+<!ENTITY openLinkCmd.accesskey        "Å">
