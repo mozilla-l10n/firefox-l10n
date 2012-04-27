@@ -7,7 +7,7 @@
 <!ENTITY closeTabCmd2.label "Tabblad sluiten">
 <!ENTITY closeTabCmd2.accesskey "s">
 <!ENTITY closeOtherTabsCmd2.label "Overige tabbladen sluiten">
-<!ENTITY closeOtherTabsCmd2.accesskey "O">
+<!ENTITY closeOtherTabsCmd2.accesskey "e">
 <!ENTITY recentlyClosedTabsCmd.label "Onlangs gesloten tabbladen">
 <!ENTITY recentlyClosedTabsCmd.accesskey "O">
 
@@ -22,9 +22,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newOtherAccountsCmd.label "Andere accounts…">
 <!ENTITY newOtherAccountsCmd.accesskey "A">
-<!ENTITY newCreateEmailAccountCmd.label "Nieuw e-mailaccount ophalen…">
+<!ENTITY newCreateEmailAccountCmd.label "Nieuwe e-mailaccount verkrijgen…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "N">
-<!ENTITY newExistingEmailAccountCmd.label "Bestaand E-mailaccount…">
+<!ENTITY newExistingEmailAccountCmd.label "Bestaande e-mailaccount…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "B">
 <!ENTITY newIMAccountCmd.label "Chataccount…">
 <!ENTITY newIMAccountCmd.accesskey "C">
@@ -231,10 +231,10 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
-<!ENTITY bodyAllParts.label "Alle berichtopmaak">
+<!ENTITY bodyAllParts.label "Alle berichttekstdelen">
 <!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "Feedberichtopmaak als">
+<!ENTITY bodyMenuFeed.label "Feedberichttekst als">
 <!ENTITY bodyMenuFeed.accesskey "b">
 <!ENTITY viewFeedWebPage.label "Webpagina">
 <!ENTITY viewFeedWebPage.accesskey "W">
@@ -328,14 +328,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.accesskey "e">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
-<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.accesskey "C">
 <!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Bericht met ster">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Map">
-<!ENTITY folderMenu.accesskey "m">
+<!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Deze map">
-<!ENTITY thisFolder.accesskey "m">
+<!ENTITY thisFolder.accesskey "a">
 <!ENTITY goRecentlyClosedTabs.label "Onlangs gesloten tabbladen">
 <!ENTITY goRecentlyClosedTabs.accesskey "t">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
@@ -566,7 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 <!ENTITY addressBookButton.tooltip "Naar het adresboek gaan">
-<!ENTITY chatButton.tooltip "Chattabblad tonen">
+<!ENTITY chatButton.tooltip "Het chattabblad tonen">
 <!ENTITY tagButton.tooltip "Berichten labelen">
 <!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map verwijderen">
 

@@ -2,7 +2,7 @@
 <!ENTITY feedSubscriptions.label     "Feedabonnementen">
 <!ENTITY subscriptionDesc.label      "Opmerking: het verwijderen of wijzigen van een feedmap heeft geen invloed op eerder gedownloade artikelen.">
 
-<!ENTITY feedTitle.label             "Title:">
+<!ENTITY feedTitle.label             "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "Feed-URL:">

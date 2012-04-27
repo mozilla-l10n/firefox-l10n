@@ -11,7 +11,7 @@
 <!ENTITY accountPasswordTitle.label   "Wachtwoord">
 <!ENTITY accountPasswordInfo.label    "Voer uw wachtwoord in het onderstaande veld in.">
 <!ENTITY accountPasswordField.label   "Wachtwoord:">
-<!ENTITY accountPasswordManager.label "Het ingevoerde wachtwoord wordt opgeslagen in de wachtwoordenbeheerder. Laat dit veld leeg als u elke keer als u met dit account verbinding maakt uw wachtwoord wilt invullen.">
+<!ENTITY accountPasswordManager.label "Het ingevoerde wachtwoord wordt opgeslagen in de wachtwoordenbeheerder. Laat dit veld leeg als u telkens wanneer u met deze account verbinding maakt uw wachtwoord wilt invullen.">
 
 <!ENTITY accountAdvancedTitle.label   "Geavanceerde opties">
 <!ENTITY accountAdvancedInfo.label    "Voel u vrij om deze stap over te slaan, als u dat wilt.">
