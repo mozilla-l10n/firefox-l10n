@@ -16,4 +16,4 @@
 <!ENTITY editContactPanelDone.label "Klaar">
 <!ENTITY editContactPanelDone.accesskey "K">
 
-<!ENTITY contactMoveDisabledWarning.description "U kunt het adresboek niet veranderen omdat het contact in een mailinglijst staat.">
+<!ENTITY contactMoveDisabledWarning.description "U kunt het adresboek niet wijzigen, omdat het contact in een mailinglijst staat.">

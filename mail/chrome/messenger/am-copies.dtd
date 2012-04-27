@@ -25,9 +25,9 @@
 <!ENTITY archivesTitle.label "Berichtarchieven">
 <!ENTITY keepArchives.label "Berichtarchieven bewaren in:">
 <!ENTITY keepArchives.accesskey "B">
-<!ENTITY archiveHierarchyButton.label "Archiverenopties…">
+<!ENTITY archiveHierarchyButton.label "Archiveringsopties…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY archivesFolderOn.label "Map &quot;Archieven&quot; in on:">
+<!ENTITY archivesFolderOn.label "Map “Archieven” in:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Anders:">
 <!ENTITY archiveInOtherFolder.accesskey "e">
@@ -44,4 +44,3 @@
 <!ENTITY templatesFolderOn.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Anders:">
 <!ENTITY templateInOtherFolder.accesskey "d">
-

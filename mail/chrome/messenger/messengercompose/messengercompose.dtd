@@ -225,7 +225,6 @@
 <!ENTITY attachments.accesskey "a">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "Een smiley invoegen">
 <!ENTITY smiley1Cmd.label "Glimlach">
 <!ENTITY smiley2Cmd.label "Frons">
@@ -279,7 +278,7 @@
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Uploaden annuleren">
 <!ENTITY cancelUpload.accesskey "n">
-<!ENTITY convertRegularAttachment.label "Standaard bijlage">
+<!ENTITY convertRegularAttachment.label "Normale bijlage">
 <!ENTITY convertRegularAttachment.accesskey "b">
 <!ENTITY attachPage.label "Webpagina koppelen…">
 <!ENTITY attachPage.accesskey "W">

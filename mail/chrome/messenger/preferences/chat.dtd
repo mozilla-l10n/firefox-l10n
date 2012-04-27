@@ -1,6 +1,6 @@
 <!ENTITY startupAction.label         "Als &brandShortName; start:">
 <!ENTITY startupAction.accesskey     "s">
-<!ENTITY startupOffline.label        "De accountbeheerder openen">
+<!ENTITY startupOffline.label        "Mijn chataccounts offline houden">
 <!ENTITY startupConnectAuto.label    "Mijn accounts automatisch verbinden">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then

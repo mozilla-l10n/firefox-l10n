@@ -90,10 +90,10 @@
 <!ENTITY layoutMenu.label                               "Vormgeving">
 <!ENTITY layoutMenu.accesskey                           "V">
 <!ENTITY showDirectoryPane.label                        "Directoryvenster">
-<!ENTITY showDirectoryPane.accesskey                    "M">
+<!ENTITY showDirectoryPane.accesskey                    "r">
 <!ENTITY showContactPane2.label                         "Contactvenster">
 <!ENTITY showContactPane2.accesskey                     "C">
-<!ENTITY menu_ShowNameAs.label                          "Namen tonen als">
+<!ENTITY menu_ShowNameAs.label                          "Naam tonen als">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
