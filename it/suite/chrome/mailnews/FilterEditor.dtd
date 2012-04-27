@@ -36,3 +36,5 @@
 <!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
 <!ENTITY watchThread.label "Segui argomento">
 <!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">
+<!ENTITY addAction.tooltip "Aggiungi una nuova azione">
+<!ENTITY removeAction.tooltip "Rimuovi questa azione">

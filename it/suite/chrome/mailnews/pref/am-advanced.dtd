@@ -1,5 +1,5 @@
 <!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
-<!ENTITY smtpDesc.label "È necessario specificare un solo server (SMTP) in uscita, anche se si possiedono altri account di posta. Inserire il nome del server per la posta in uscita.">
+<!ENTITY smtpDescription.label "Quando si gestiscono le identità è possibile selezionare un server di questa lista da usare come Server in uscita (SMTP), oppure è possibile usare il server predefinito selezionando &quot;Utilizza il server predefinito&quot;.">
 <!ENTITY smtpListAdd.label "Aggiungi…">
 <!ENTITY smtpListAdd.accesskey "u">
 <!ENTITY smtpListEdit.label "Modifica…">
