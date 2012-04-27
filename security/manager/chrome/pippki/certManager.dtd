@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title "Pievienot drošības izņēmumu">
 <!ENTITY exceptionMgr.exceptionButton.label   "Apstiprināt drošības izņēmumu">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "A">
-<!ENTITY exceptionMgr.supplementalWarning "Likumīgas bankas, veikali un citas publiskas vietnes jums nekad nelūgs darīt šo.">
+<!ENTITY exceptionMgr.supplementalWarning "Īstās bankas, veikali un citas publiskas vietnes jums nekad nelūgs darīt šo.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Serveris">
 <!ENTITY exceptionMgr.certlocation.url "Atrašanās vieta:">
 <!ENTITY exceptionMgr.certlocation.download "Ielādēt sertifikātu">

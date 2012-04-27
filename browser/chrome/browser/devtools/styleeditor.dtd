@@ -12,7 +12,7 @@
      of the web page it is editing. -->
 <!ENTITY window.title               "Stila redaktors">
 
-<!ENTITY newButton.label            "Nauns">
+<!ENTITY newButton.label            "Jauns">
 <!ENTITY newButton.tooltip          "Izveidot un pievienot dokumentam jaunu stila failu">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "n">
