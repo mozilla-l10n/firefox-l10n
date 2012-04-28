@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Mensagem de armazenamento">
 <!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Configurações do servidor">
 <!ENTITY serverType.label "Tipo de servidor:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Pedir sempre autenticação ao ligar a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "ç">
 <!ENTITY newsrcFilePath.label "Ficheiro newsrc:">
-<!ENTITY localPath.label "Pasta local:">
+<!ENTITY newsrcPicker.label "Selecione o ficheiro newsrc">
 <!ENTITY abbreviate.label "Mostrar nomes do grupo de discussão no painel da pasta de correio como:">
 <!ENTITY abbreviateOn.label "Nomes completos (Por exemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abrevie nomes (Por exemplo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avançadas...">
 <!ENTITY advancedButton.accesskey "a">
 <!ENTITY serverDefaultCharset.label "Codificação pré-definida:">
+<!ENTITY localPath.label "Pasta local:">
 <!ENTITY localFolderPicker.label "Seleccione pasta local">
 <!ENTITY browseFolder.label "Navegar...">
 <!ENTITY browseFolder.accesskey "N">
-<!ENTITY newsrcPicker.label "Seleccionar ficheiro newsrc">
 <!ENTITY browseNewsrc.label "Navegar...">
 <!ENTITY browseNewsrc.accesskey "g">
+
+<!ENTITY accountTitle.label "Definições da conta">
+<!ENTITY accountSettingsDesc.label "A conta seguinte é uma conta especial.  Não existem identidades associadas a ela.">
