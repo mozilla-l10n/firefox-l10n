@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Registo do Lixo electrónico">
-<!ENTITY junkLogInfo.label "Controlo da actividade do registo do lixo electrónico.">
+<!ENTITY adaptiveJunkLog.title "Registo inteligente do Lixo electrónico">
+<!ENTITY adaptiveJunkLogInfo.label "Controlo da actividade do registo adaptativo do lixo electrónico.">
 <!ENTITY clearLog.label "Limpar Registo">
 <!ENTITY clearLog.accesskey "L">
 <!ENTITY closeLog.label "Fechar">
