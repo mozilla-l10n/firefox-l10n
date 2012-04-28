@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nombre de cuenta:">
 <!ENTITY addAccountDialog.noAccountText "Lo sentimos, pero la versión actual de &brandShortName; solamente permite una cuenta de cada servicio de almacentamiento en línea.">
-<!ENTITY addAccountDialog.createAccountText "Esta característica permite enviar adjuntos grandes usando uno de varios servicios de almacenamiento en línea. Puede conectarse a una cuenta existente o registrarse para una cuenta nueva.">
+ <!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
+<!ENTITY addAccountDialog.createAccountText "Puee enviar adjuntos grandes usando uno de varios servicios de almacenamiento en línea. Configure una cuenta existente o regístrese para una cuenta nueva.">
 <!ENTITY addAccountDialog.authorizing "Verificando autorización...">
 <!ENTITY addAccountDialog.error "¡Ocurrió un error configurando la cuenta!">
 <!ENTITY addAccountDialog.acceptButton.label "Configurar cuenta">
