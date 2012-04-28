@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "ਟਰੈਕਿੰਗ">
+
+<!ENTITY doNotTrack.label               "ਵੈੱਬ ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦਾ">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "ਅਤੀਤ">
 
 <!ENTITY  locationBar.label             "ਟਿਕਾਣਾ ਪੱਟੀ">
@@ -56,14 +61,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ਸਭ ਮੌਜੂਦਾ ਅਤੀਤ ਸਾਫ਼ ਕਰਨਾ">
 <!ENTITY  dontrememberActions.post.label         "।">
 
-<!ENTITY  privateBrowsingPermanent.label "ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਵਰਤੋਂ">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "ਹਮੇਸ਼ਾ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਹੀ ਵਰਤੋਂ">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "ਮੇਰੀ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "ਡਾਊਨਲੋਡ ਅਤੀਤ  ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberSearchForm.accesskey   "f">

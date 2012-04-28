@@ -6,30 +6,14 @@
 
 <!ENTITY importFromIE.label             "ਮਾਈਕ੍ਰੋਸਾਫਟ ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "ਫਾਇਰਫਾਕਸ ੦.੮, ਫਾਇਰਬਰਡ ਜਾਂ Phoenix">
-<!ENTITY importFromPhoenix.accesskey    "P">
 <!ENTITY importFromNothing.label        "ਕੁਝ ਵੀ ਇੰਪੋਰਟ ਨਾ ਕਰੋ">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ਜਾਂ  Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
-<!ENTITY importFromOpera.label          "ਓਪਰਾ">
-<!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "Camino">
-<!ENTITY importFromCamino.accesskey     "C">
 <!ENTITY importFromSafari.label         "ਸਫ਼ਾਰੀ">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromOmniWeb.label        "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey    "W">
-<!ENTITY importFromICab.label           "iCab">
-<!ENTITY importFromICab.accesskey       "i">
-<!ENTITY importFromKonqueror.label      "ਕੋਨਕਿਊਰੋਰ">
-<!ENTITY importFromKonqueror.accesskey  "K">
-<!ENTITY importFromEpiphany.label       "ਏਪਾਫਨੀ">
-<!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "Galeon">
-<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromChrome.label         "ਕਰੋਮ">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "ਫਾਇਰਫਾਕਸ">
+<!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromHTMLFile.label       "ਇੱਕ HTML ਫਾਇਲ ਤੋਂ">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 

@@ -23,7 +23,6 @@
 <!ENTITY checkSpelling.label             "ਜਿਵੇਂ ਮੈਂ ਲਿਖਾਂ ਤਦੇ ਹੀ ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkSpelling.accesskey         "t">
 
-
 <!ENTITY systemDefaults.label            "ਸਿਸਟਮ ਡਿਫਾਲਟ">
 <!ENTITY alwaysCheckDefault.label        "ਸਟਾਰਟ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ  &brandShortName; ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਹੈ">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
@@ -31,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜੋ">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
+<!ENTITY submitTelemetry.accesskey       "P">
 <!ENTITY networkTab.label                "ਨੈੱਟਵਰਕ">
 
 <!ENTITY connection.label                "ਕੁਨੈਕਸ਼ਨ">
@@ -39,7 +40,11 @@
 <!ENTITY connectionSettings.label        "ਸੈਟਿੰਗ…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "ਆਫਲਾਈਨ ਸਟੋਰੇਜ਼">
+<!ENTITY httpCache.label                 "ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ">
+
+
+<!ENTITY offlineStorage2.label           "ਆਫਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਅਤੇ ਯੂਜ਼ਰ ਡਾਟਾ">
+
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -52,25 +57,37 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "ਕੈਸ਼ ਪਰਬੰਧ ਆਟੋਮੈਟਿਕ ਅਣਡਿੱਠਾ ਕਰੋ">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "ਅੱਪਡੇਟ">
 
-<!ENTITY autoCheck.label                 "ਅੱਪਡੇਟ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਚੈੱਕ ਕਰੋ:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "ਐਡ-ਆਨ">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY updateApp.label                 "&brandShortName; ਅੱਪਡੇਟ:">
+<!ENTITY updateAuto.label                "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ: ਵਧੀਆ ਬਣਾਈ ਗਈ ਸੁਰੱਖਿਆ)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਕਰੋ, ਪਰ ਮੈਨੂੰ ਚੁਣਨ ਦਿਉ ਕਿ ਕੀ ਉਹਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨਾ ਹੈ">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "ਅੱਪਡੇਟ ਲਈ ਕਦੇ ਜਾਂਚ ਨਾ ਕਰੋ (ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ: ਸੁਰੱਖਿਆ ਲਈ ਖਤਰਾ)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ ਜੇ ਇਹ ਮੇਰੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਨੂੰ ਬੰਦ ਕਰ ਦੇਵੇ">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖਾਓ">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਕਰੋ:">
+
+
 <!ENTITY enableSearchUpdate.label        "ਖੋਜ ਇੰਜਣ">
-<!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "ਜਦੋਂ &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲੇ ਤਾਂ:">
-<!ENTITY askMe.label                     "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਮੈਂ ਕੀ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾ">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜੇ ਇਹ ਮੇਰੇ ਕਿਸੇ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕਰੇਗਾ">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 <!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -79,7 +96,7 @@
 <!ENTITY offlineNotifyExceptions.label   "ਛੋਟ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਇਟਾਂ ਨੇ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਇੰਸਟਾਲ ਕੀਤਾ ਹੈ:">
+<!ENTITY offlineAppsList2.label          "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਹੈ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ਹਟਾਓ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

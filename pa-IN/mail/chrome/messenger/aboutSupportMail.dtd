@@ -1,0 +1,15 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "ਐਪਲੀਕੇਸ਼ਨ ਬਿਲਡ ID">
+
+<!ENTITY aboutSupport.accountsTitle "ਮੇਲ ਅਤੇ ਨਿਊਜ਼ ਅਕਾਊਂਟ">
+<!ENTITY aboutSupport.showPrivateData.mainText "ਅਕਾਊਂਟ ਨਾਂ ਸਮੇਤ">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "ਨਾਂ">
+<!ENTITY aboutSupport.accountsIncomingServer "ਆਉਣ ਸਰਵਰ">
+<!ENTITY aboutSupport.accountsOutgoingServers "ਭੇਜਣ ਸਰਵਰ">
+<!ENTITY aboutSupport.accountsServerName "ਨਾਂ">
+<!ENTITY aboutSupport.accountsConnSecurity "ਕੁਨੈਕਸ਼ਨ ਸੁਰੱਖਿਆ">
+<!ENTITY aboutSupport.accountsAuthMethod "ਪਰਮਾਣਕਿਤਾ ਢੰਗ">
+<!ENTITY aboutSupport.accountsDefault "ਡਿਫਾਲਟ?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "ਈਮੇਲ ਰਾਹੀਂ ਭੇਜੋ">

@@ -16,12 +16,17 @@
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Dan Haddix (dan6992@hotmail.com)
-   -   Brian King (briano9@yahoo.com)
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -   Charles Manske (cmanske@netscape.com)
+   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,22 +42,37 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Window title -->
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Open Web Location…">
+<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "Recent Pages">
+<!ENTITY fileRecentMenu.accesskey "R">
+<!ENTITY saveCmd.label "Save">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "Save As…">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY publishCmd.label "Publish">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Publish As…">
+<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY fileRevert.label "Revert">
+<!ENTITY fileRevert.accesskey "t">
 
-<!ENTITY windowTitle.label "ਹਾਟਸਪਾਟ ਵਿਸ਼ੇਸ਼ਤਾ">
+<!-- Edit menu items -->
+<!ENTITY publishSettings.label "Publishing Site Settings…">
+<!ENTITY publishSettings.accesskey "b">
 
-<!ENTITY link.label				"ਹਾਟ-ਸਪਾਟ ਲਿੰਕ">
-<!ENTITY urlFieldset.label		"ਹਾਟ-ਸਪਾਟ URL:">
-<!ENTITY altFieldset.label		"ਹਾਟ-ਸਪਾਟ Alt ਟੈਕਸਟ:">
-<!ENTITY browseButton.label		"ਝਲਕ...">
-<!ENTITY targetFieldset.label	"ਟਿਕਾਣਾ ਸੈਟਿੰਗ">
-<!ENTITY target.label			"ਹਾਟ-ਸਪਾਟ ਟਿਕਾਣਾ">
-
-<!-- Targets -->
-<!ENTITY commonFieldset.label	"ਆਮ ਨਿਸ਼ਾਨਾ:">
-<!ENTITY none.value				"(ਕੋਈ ਨਹੀਂ)">
-<!ENTITY same.value				"ਇਹੀ ਫਰੇਮ">
-<!ENTITY whole.value			"ਪੂਰਾ ਪੇਜ਼">
-<!ENTITY new.value				"ਨਵੀਂ ਵਿੰਡੋ">
-<!ENTITY parent.value			"ਮੁੱਖ ਫਰੇਮ">
-
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "New">
+<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
+<!ENTITY openToolbarCmd.label "Open">
+<!ENTITY openToolbarCmd.tooltip "Open a local file">
+<!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
+<!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">

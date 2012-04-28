@@ -1,78 +1,85 @@
-<!ENTITY autoconfigWizard.title          "Mail Account Setup">
-<!ENTITY name.label                      "Your name:">
+<!ENTITY autoconfigWizard.title          "ਮੇਲ ਅਕਾਊਂਟ ਸੈਟਅੱਪ">
+<!ENTITY name.label                      "ਤੁਹਾਡਾ ਨਾਂ:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "First Last">
-<!ENTITY name.text                       "Your name, as shown to others">
-<!ENTITY email.label                     "Email address:">
+<!ENTITY name.placeholder                "ਪਹਿਲਾਂ  ਆਖਰੀ">
+<!ENTITY name.text                       "ਤੁਹਾਡਾ ਨਾਂ, ਜੋ ਹੋਰਾਂ ਨੂੰ ਵੇਖਾਈ ਦੇਵੇਗਾ">
+<!ENTITY email.label                     "ਈਮੇਲ ਐਡਰੈਸ:">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder               "email@example.com">
-<!ENTITY password.label                  "Password:">
+<!ENTITY password.label                  "ਪਾਸਵਰਡ:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.placeholder            "Password">
+<!ENTITY password.placeholder            "ਪਾਸਵਰਡ">
 <!ENTITY password.text                   "Optional, will only be used to validate the username">
+<!ENTITY rememberPassword.label          "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
+<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY accountInformation.label        "Account Information">
-<!ENTITY username2.label                 "Username:">
-<!ENTITY incoming.label                  "Incoming:">
-<!ENTITY outgoing.label                  "Outgoing:">
-<!ENTITY noEncryption.label              "None">
+<!ENTITY imapLong.label                  "IMAP (ਰਿਮੋਟ ਫੋਲਡਰ)">
+<!ENTITY pop3Long.label                  "POP3 (ਮੇਲ ਆਪਣੇ ਫੋਲਡਰ ਉੱਤੇ ਰੱਖੋ)">
+
+<!ENTITY incoming.label                  "ਆਉਣ:">
+<!ENTITY outgoing.label                  "ਭੇਜਣ:">
+<!ENTITY username.label                  "ਯੂਜ਼ਰ ਨਾਂ:">
+<!ENTITY hostname.label                  "ਸਰਵਰ ਹੋਸਟ ਨਾਂ">
+<!ENTITY port.label                      "ਪੋਰਟ">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "ਪਰਮਾਣਕਿਤਾ">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "ਆਪੇ-ਖੋਜੋ">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "ਕੋਈ ਨਹੀਂ">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Access folders and messages from multiple computers">
-<!ENTITY pop.description                 "POP - Download all messages onto this computer, folders are local only">
-<!ENTITY recommended-appendix.label      "(recommended)">
-
-<!ENTITY manualSetup.label               "Manual Setup…">
-<!ENTITY manualSetup.accesskey           "S">
-<!ENTITY cancel.label                    "Cancel">
+<!ENTITY advancedSetup.label             "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
+<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY cancel.label                    "ਰੱਦ ਕਰੋ">
 <!ENTITY cancel.accesskey                "a">
-<!ENTITY continue.label                  "Continue">
+<!ENTITY continue.label                  "ਜਾਰੀ ਰੱਖੋ">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "Start over">
-<!ENTITY startOver.accesskey             "o">
-<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.label                      "ਰੋਕੋ">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Re-test Configuration">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit">
-<!ENTITY edit.accesskey                  "E">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "ਮੁੜ-ਟੈਸਟ">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "ਖੁਦ ਸੰਰਚਨਾ ਕਰੋ">
+<!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "ਇੱਕ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
+<!ENTITY switch-to-provisioner.accesskey "G">
 
-<!ENTITY rememberPassword.label          "Remember password">
-<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY warning.label                   "Warning!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!ENTITY technicaldetails.label          "Technical Details">
+<!ENTITY warning.label                   "ਸਾਵਧਾਨ!">
+<!ENTITY incomingSettings.label          "ਆਉਣ ਸੈਟਿੰਗ:">
+<!ENTITY outgoingSettings.label          "ਭੇਜਣ ਸੈਟਿੰਗ:">
+<!ENTITY technicaldetails.label          "ਤਕਨੀਕੀ ਵੇਰਵਾ">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "I understand the risks.">
+<!ENTITY confirmWarning.label            "ਮੈਂ ਖਤਰਾ ਸਮਝਦਾ ਹਾਂ।">
 <!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Create Account">
+<!ENTITY createAccount.label             "ਅਕਾਊਂਟ ਬਣਾਓ">
 <!ENTITY createAccount.accesskey         "C">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Change Settings">
+<!ENTITY changeSettings.label            "ਸੈਟਿੰਗ ਬਦਲੋ">
 <!ENTITY changeSettings.accesskey        "S">
 
 <!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
 
-<!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.title    "ਸਾਵਧਾਨ! ਇਹ ਅਸੁਰੱਖਿਅਤ ਸਰਵਰ ਹੈ।">
+<!ENTITY insecureServer.tooltip.details  "ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਚੱਕਰ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।">
 
 <!ENTITY insecureUnencrypted.description "Your email and authentication are sent unencrypted, so your password (and your message) could easily be read by other people. &brandShortName; will let you get to your mail, but you should contact your email provider about configuring the server with a secure connection.">
 <!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+<!ENTITY secureServer.description        "ਵਧਾਈਆਂ! ਇਹ ਸੁਰੱਖਿਅਤ ਸਰਵਰ ਹੈ।">
+
