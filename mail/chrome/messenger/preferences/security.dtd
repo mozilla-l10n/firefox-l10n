@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "B">
 <!ENTITY markAsReadOnSpam.label "Marcar los mensajes determinados como basura como ya leídos">
 <!ENTITY markAsReadOnSpam.accesskey "a">
-<!ENTITY enableJunkLogging.label "Habilitar el registro del filtro basura">
-<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY enableAdaptiveJunkLogging.label "Habilitar el registro del filtro de basura adaptivo">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "Mostrar el registro">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Borrar entrenamiento">
