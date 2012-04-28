@@ -115,19 +115,13 @@
 <!ENTITY stopButton.tooltip "Keskeytä lataus"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(Ei ehdotuksia)">
-<!ENTITY spellCheckIgnoreWord.label "Ohita sana">
-<!ENTITY spellCheckIgnoreWord.accesskey "O">
-<!ENTITY spellCheckAddToDictionary.label "Lisää sanastoon">
-<!ENTITY spellCheckAddToDictionary.accesskey "s">
-
 <!ENTITY openAttachment.label "Avaa">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Nimeä uudelleen…">
 <!ENTITY renameAttachment.accesskey "N">
 <!ENTITY deleteAttachment.accesskey "P">
 <!ENTITY selectAllAttachments.accesskey "V">
-<!ENTITY attachFile.label "Lisää liitetiedosto(ja)…">
+<!ENTITY attachFile.label "Lisää liitetiedosto…">
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachPage.label "Lisää verkkosivu liitetiedostoksi">
 <!ENTITY attachPage.accesskey "L">

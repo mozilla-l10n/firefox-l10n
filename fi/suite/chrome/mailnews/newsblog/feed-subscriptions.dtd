@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Näytä artikkelin yhteenveto verkkosivun lataamisen asemesta">
 <!ENTITY quickMode.accesskey         "n">
 
+<!ENTITY locationValidate.label      "Tarkista">
 <!ENTITY validateText.label          "Tarkista voimassaolo ja hae voimassaoleva osoite.">
 
 <!ENTITY button.addFeed.label        "Lisää">

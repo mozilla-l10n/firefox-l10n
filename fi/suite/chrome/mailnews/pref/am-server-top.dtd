@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Viestien tallessapito">
 <!ENTITY securitySettings.label "Suojausasetukset">
 <!ENTITY serverSettings.label "Palvelinasetukset">
 <!ENTITY serverType.label "Palvelintyyppi:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Valitse newsrc-tiedosto">
 <!ENTITY browseNewsrc.label "Selaa…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Tilien asetukset">
+<!ENTITY accountSettingsDesc.label "Tämä on erikoistili, johon ei liity lainkaan käyttäjätietoja.">
