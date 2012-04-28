@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Einstellungen des Servers für ausgehende Nachrichten (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Es muß nur ein Server für ausgehende Nachrichten (SMTP) angegeben werden, auch wenn Sie mehrere Mail-Accounts betreiben. Geben Sie den Namen des Servers für ausgehende Nachrichten an.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Beim Verwalten Ihrer Identitäten können Sie einen Server aus dieser Liste verwenden, indem Sie ihn als den Ausgangsserver (SMTP) auswählen, oder Sie können den Standardserver aus dieser Liste verwenden, indem Sie &quot;Standardserver verwenden&quot; auswählten.">
 
 <!ENTITY smtpListAdd.label  "Hinzufügen…">
 <!ENTITY smtpListAdd.accesskey  "H">
