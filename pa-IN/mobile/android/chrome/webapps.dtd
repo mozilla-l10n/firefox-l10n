@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "ਨਾਂ ਦਿਓ">
-<!ENTITY webapps.permissions "ਅਸੈਸ ਮਨਜ਼ੂਰ:">
-<!ENTITY webapps.perm.geolocation "ਟਿਕਾਣਾ-ਜਾਣਕਾਰੀ ਸਮੇਤ ਬਰਾਊਜ਼ਿੰਗ">
-<!ENTITY webapps.perm.offline "ਆਫਲਾਈਨ ਡਾਟਾ ਸਟੋਰੇਜ਼">
-<!ENTITY webapps.perm.notifications "ਡੈਸਕਟਾਪ ਨੋਟੀਫਿਕੇਸ਼ਨ">
-<!ENTITY webapps.perm.requestedHint "(ਮੰਗ ਕੀਤੀ)">
-<!ENTITY webapps.add-homescreen "ਮੁੱਖ ਸਕੀਰਨ ਵਿੱਚ ਜੋੜੋ">
