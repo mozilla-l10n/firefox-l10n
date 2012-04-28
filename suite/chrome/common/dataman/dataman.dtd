@@ -97,6 +97,7 @@
 <!ENTITY perm.AskAlways "Kysy aina">
 <!ENTITY perm.NeverSave "Älä koskaan tallenna">
 <!ENTITY perm.Allow "Salli">
+<!ENTITY perm.AllowSameDomain "Salli samalta verkkoalueelta">
 <!ENTITY perm.AllowSession "Salli istunnon ajaksi">
 <!ENTITY perm.Block "Estä">
 
