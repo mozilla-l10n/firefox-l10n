@@ -4,4 +4,4 @@
 <!ENTITY webapps.perm.offline "Offlinegegevensopslag">
 <!ENTITY webapps.perm.notifications "Desktopnotificaties">
 <!ENTITY webapps.perm.requestedHint "(verzocht)">
-<!ENTITY webapps.add-homescreen "Toevoegen aan thuisscherm">
+<!ENTITY webapps.add-homescreen "Toevoegen aan startpagina">

@@ -43,4 +43,4 @@
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Scope variabelen">
+<!ENTITY debuggerUI.propertiesTitle  "Scope-variabelen">

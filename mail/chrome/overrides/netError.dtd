@@ -52,12 +52,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document verlopen">
-<!ENTITY notCached.longDesc "<p>Het verzochte document is niet beschikbaar in de buffer.</p><ul><li>Vanwege een veiligheidsvoorzorgmaatregel zal &brandShortName; vertrouwelijke documenten niet automatisch opnieuw aanvragen.</li><li>Klik om het document opnieuw aan te vragen van de website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer.</p><ul><li>Als veiligheidsvoorzorgmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Druk op “Opnieuw proberen” om naar onlinemodus over te schakelen en vernieuw de pagina.</li>
+  <li>Druk op “Opnieuw proberen” om naar de onlinemodus over te schakelen en vernieuw de pagina.</li>
 </ul>
 ">
 
@@ -127,8 +127,8 @@
 <!ENTITY nssFailure2.title "Beveiligde verbinding mislukt">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>De pagina die u wilt bekijken kan niet worden weergegeven omdat de echtheid van de ontvangen gegevens niet kon worden geverifieerd.</li>
-  <li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem. U kunt ook de opdracht in het helpmenu gebruiken om deze defecte website te rapporteren.</li>
+  <li>De pagina die u wilt bekijken kan niet worden weergegeven, omdat de echtheid van de ontvangen gegevens niet kon worden geverifieerd.</li>
+  <li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li>
 </ul>
 ">
 
@@ -168,7 +168,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; heeft voorkomen dat de pagina op deze manier werd geladen, omdat de pagina een inhoudbeveiligingsbeleid heeft dat dit niet toestaat.</p>">
 
 <!ENTITY corruptedContentError.title "Beschadigde-inhoudsfout">
-<!ENTITY corruptedContentError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>De inhoud die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Of u kunt een uitzondering toevoegen…">
@@ -189,4 +189,3 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul></p>">
-

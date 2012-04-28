@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Bladwijzers">
 <!ENTITY  locbar.nothing.label          "Niets">
 
-
 <!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
 <!ENTITY  acceptCookies.accesskey       "C">
 
@@ -64,7 +63,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Altijd de privénavigatiemodus gebruiken">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "Mijn navigatiegeschiedenis en downloadgeschiedenis onthouden">
+<!ENTITY  rememberHistory2.label      "Mijn navigatie- en downloadgeschiedenis onthouden">
 <!ENTITY  rememberHistory2.accesskey  "n">
 
 <!ENTITY  rememberSearchForm.label       "Zoek- en formuliergeschiedenis onthouden">
