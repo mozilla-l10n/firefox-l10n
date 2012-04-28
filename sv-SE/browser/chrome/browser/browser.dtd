@@ -246,6 +246,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Stäng inspektör">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Stäng Utvecklarfältet">
+<!ENTITY devToolbarMenu.label "Utvecklarfältet">
+<!ENTITY devToolbarMenu.accesskey "U">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY webConsoleButton.label "Webbkonsolen">
+<!ENTITY inspectorButton.label "Inspektören">
+<!ENTITY scriptsButton.label "Skript">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Kopiera Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
