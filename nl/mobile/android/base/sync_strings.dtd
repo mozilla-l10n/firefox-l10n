@@ -70,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Er wordt maar één &syncBrand.fullName.label;-account ondersteund.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Herstelsleutel onjuist. Probeer het opnieuw.'>

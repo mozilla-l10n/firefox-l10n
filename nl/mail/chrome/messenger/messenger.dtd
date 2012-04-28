@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
 <!ENTITY replySenderCmd.accesskey "a">
-<!ENTITY replyNewsgroupCmd.label "Nieuwsgroep beantwoorden">
-<!ENTITY replyNewsgroupCmd.accesskey "r">
+<!ENTITY replyNewsgroupCmd2.label "Reageer naar nieuwsgroep">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Foutconsole">
 <!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Accountinstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
-<!ENTITY contextReplyNewsgroup.label "Nieuwsgroep beantwoorden">
-<!ENTITY contextReplyNewsgroup.accesskey "r">
+<!ENTITY contextReplyNewsgroup2.label "Reageer naar nieuwsgroep">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
 <!ENTITY contextReplyAll.accesskey "e">
 <!ENTITY contextReplyList.label "Lijst beantwoorden">
