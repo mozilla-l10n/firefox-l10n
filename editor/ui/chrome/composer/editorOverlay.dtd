@@ -41,83 +41,26 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-<!ENTITY fileMenu.label "ਫਾਇਲ">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "ਕੰਪੋਜ਼ਰ ਪੇਜ਼">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "ਨਵਾਂ">
-<!ENTITY openFileCmd.label "…ਫਾਇਲ ਖੋਲ੍ਹੋ">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "…ਵੈੱਬ ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "ਤਾਜ਼ਾ ਪੇਜ਼">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "ਵਾਪਸ ਲਵੋ">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "ਸੰਭਾਲੋ">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "…ਵਾਂਗ ਸੰਭਾਲੋ">
-<!ENTITY saveAsCmd.accesskey "A">
-
-<!ENTITY publishCmd.label "ਪਬਲਿਸ਼">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "…ਵਾਂਗ ਪਬਲਿਸ਼ ਕਰੋ">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "…ਟੈਕਸਟ ਲਈ ਐਕਸਪੋਰਟ">
-<!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY saveAsChangeEncodingCmd.label "ਸੰਭਾਲੋ ਅਤੇ ਕਰੈਕਟਰ ਇੰਕੋਡਿੰਗ ਬਦਲੋ">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "ਪੇਜ਼ ਬਰਾਊਜ਼ ਕਰੋ">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "…ਪੇਜ਼ ਭੇਜੋ">
-<!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "…ਪੇਜ਼ ਸੈੱਟਅੱਪ">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "ਬੰਦ ਕਰੋ">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
-
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "ਸੋਧ">
-<!ENTITY editMenu.accesskey "E">
-<!ENTITY pasteNoFormatting.label "ਬਿਨਾਂ ਫਾਰਮੈਟ ਹੀ ਚੇਪੋ">
-<!ENTITY pasteNoFormatting.accesskey "o">
+
+<!ENTITY pasteNoFormatting.label "ਬਿਨਾਂ ਫਾਰਮੈਟ ਦੇ ਹੀ ਚੇਪੋ">
+<!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "ਇੰਝ ਚੇਪੋ">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "ਪਬਲਿਸ਼ ਕਰਨ ਲਈ ਸਾਇਟ ਸੈਟਿੰਗ…">
-<!ENTITY publishSettings.accesskey "b">
-<!ENTITY pasteAsQuotationCmd.label "ਹਵਾਲੇ ਵਾਂਗ ਚੇਪੋ">
+
+
+<!ENTITY pasteAsQuotationCmd.label "ਹਵਾਲੇ ਵਜੋਂ ਚੇਪੋ">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "ਲੱਭੋ ਅਤੇ ਬਦਲੋ…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "ਮੁੜ ਲੱਭੋ">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "ਪਿੱਛੇ ਲੱਭੋ">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY enableInlineSpellChecker.label "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ ਨਾਲ ਹੀ ਸਪੈਲ ਚੈੱਕ ਕਰੋ">
+<!ENTITY enableInlineSpellChecker.label "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਉਵੇਂ ਹੀ ਸਪੈਲਚੈੱਕ ਕਰੋ">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "ਸਪੈਲਿੰਗ ਚੈੱਕ">
+<!ENTITY checkSpellingCmd2.label "ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML ਵੈਧਤਾ">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ਸ਼ਾਮਲ">
@@ -125,11 +68,11 @@
 <!ENTITY insertLinkCmd.label "ਲਿੰਕ…">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "ਨਾਮੀ ਐਂਕਰ…">
+<!ENTITY insertAnchorCmd.label "ਨਾਂ ਸਮੇਤ ਐਂਕਰ…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "ਚਿੱਤਰ…">
 <!ENTITY insertImageCmd.accesskey "I">
-<!ENTITY insertHLineCmd.label "ਹਰੀਜੱਟਲ ਲਾਈਨ">
+<!ENTITY insertHLineCmd.label "ਲੇਟਵੀਂ ਲਾਈਨ">
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "ਟੇਬਲ…">
 <!ENTITY insertTableCmd.accesskey "T">
@@ -137,68 +80,52 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "ਅੱਖਰ ਅਤੇ ਨਿਸ਼ਾਨ…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakAllCmd.label "ਚਿੱਤਰ ਦੇ ਬਾਅਦ ਫਾਸਲਾ">
+<!ENTITY insertBreakAllCmd.label "ਚਿੱਤਰ ਹੇਠਾਂ ਵੰਡੋ">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(ਕੋਈ ਸੁਝਾਅ ਨਹੀਂ ਮਿਲਿਆ)">
+<!ENTITY spellCheckNoSuggestions.label "(ਕੋਈ ਸੁਝਾਅ ਨਹੀਂ)">
 <!ENTITY spellCheckIgnoreWord.label "ਸ਼ਬਦ ਅਣਡਿੱਠਾ">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY spellCheckAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ 'ਚ ਜੋੜੋ">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY createLinkCmd.label "ਲਿੰਕ ਬਣਾਓ…">
+<!ENTITY createLinkCmd.label "…ਲਿੰਕ ਬਣਾਓ">
 <!ENTITY createLinkCmd.accesskey "k">
-<!ENTITY editLinkCmd.label "ਨਵੇਂ ਕੰਪੋਜ਼ਰ ਵਿੱਚ ਲਿੰਕ ਸੋਧੋ">
+<!ENTITY editLinkCmd.label "ਨਵੀਂ ਲਿਖਣ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਸੋਧੋ">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "ਵਾਪਸ">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "ਮੁੜ ਪਹਿਲਾਂ">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "ਕੱਟੋ">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "ਚੇਪੋ">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "ਹਟਾਓ">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY clearCmd.label "ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
-<!ENTITY selectAllCmd.accesskey "A">
+
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "ਇੱਕ ਫੋਂਟ ਚੁਣੋ">
+<!ENTITY FontFaceSelect.tooltip "ਫੋਂਟ ਚੁਣੋ">
 <!ENTITY fontfaceMenu.label "ਫੋਂਟ">
 <!ENTITY fontfaceMenu.accesskey "F">
-<!ENTITY fontVarWidth.label "ਲਚਕੀਲੀ ਚੌੜਾਈ">
+<!ENTITY fontVarWidth.label "ਬਦਲਵੀਂ ਚੌੜਾਈ">
 <!ENTITY fontVarWidth.accesskey "V">
 <!ENTITY fontFixedWidth.label "ਸਥਿਰ ਚੌੜਾਈ">
 <!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
-<!ENTITY fontTimes.label "ਟਾਈਮਜ਼">
+<!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
-<!ENTITY fontCourier.label "ਕੁਰੀਅਰ">
+<!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "ਇੱਕ ਫੋਂਟ ਸਾਈਜ਼ ਚੁਣੋ">
+<!ENTITY FontSizeSelect.tooltip "ਫੋਂਟ ਆਕਾਰ ਚੁਣੋ">
 <!ENTITY decreaseFontSize.label "ਹੋਰ ਛੋਟੇ">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "ਹੋਰ ਵੱਡੇ">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key2 "=">
 
-<!ENTITY fontSizeMenu.label "ਸਾਈਜ਼">
+<!ENTITY fontSizeMenu.label "ਆਕਾਰ">
 <!ENTITY fontSizeMenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "xx-ਛੋਟੇ">
+<!ENTITY size-xx-smallCmd.label "xx-ਛੋਟਾ">
 <!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-ਛੋਟੇ">
+<!ENTITY size-x-smallCmd.label "x-ਛੋਟਾ">
 <!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "ਛੋਟੇ">
 <!ENTITY size-smallCmd.accesskey "s">
@@ -212,7 +139,7 @@
 <!ENTITY size-xx-largeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
-<!ENTITY fontStyleMenu.label "ਟੈਕਸਟ ਸਟਾਈਲ">
+<!ENTITY fontStyleMenu.label "ਟੈਕਸਟ ਸਟਾਇਲ">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "ਗੂੜ੍ਹੇ">
 <!ENTITY styleBoldCmd.accesskey "B">
@@ -229,21 +156,21 @@
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "ਪੈਰ ਵਿੱਚ">
 <!ENTITY styleSubscriptCmd.accesskey "S">
-<!ENTITY styleNonbreakingCmd.label "ਬਿਨਾਂ ਫਾਸਲੇ">
+<!ENTITY styleNonbreakingCmd.label "ਬਿਨ-ਬਰੇਕ">
 <!ENTITY styleNonbreakingCmd.accesskey "N">
-<!ENTITY styleEm.label "ਬਲ">
+<!ENTITY styleEm.label "Emphasis">
 <!ENTITY styleEm.accesskey "E">
-<!ENTITY styleStrong.label "ਜ਼ੋਰਦਾਰ ਬਲ">
+<!ENTITY styleStrong.label "Stronger Emphasis">
 <!ENTITY styleStrong.accesskey "t">
-<!ENTITY styleCite.label "ਹਵਾਲਾ">
+<!ENTITY styleCite.label "Citation">
 <!ENTITY styleCite.accesskey "C">
-<!ENTITY styleAbbr.label "ਸੰਖੇਪ">
+<!ENTITY styleAbbr.label "Abbreviation">
 <!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "Acronym">
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "ਕੋਡ">
 <!ENTITY styleCode.accesskey "o">
-<!ENTITY styleSamp.label "ਸੈਂਪਲ ਆਉਟਪੁੱਟ">
+<!ENTITY styleSamp.label "ਸਧਾਰਨ ਆਉਟਪੁੱਟ">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "ਵੇਰੀਬਲ">
 <!ENTITY styleVar.accesskey "V">
@@ -255,11 +182,12 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "ਨਾਮੀ ਐਂਕਰ ਹਟਾਓ">
+<!ENTITY formatRemoveNamedAnchors.label "ਨਾਂ ਵਾਲੇ ਐਂਕਰ ਹਟਾਓ">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
-<!ENTITY paragraphMenu.label "ਪ੍ਹੈਰਾਗਰਾਫ਼">
+
+<!ENTITY paragraphMenu.label "ਪ੍ਹੈਰਾ">
 <!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "ਪ੍ਹੈਰਾਗਰਾਫ਼">  
 <!ENTITY paragraphParagraphCmd.accesskey "P">
@@ -275,7 +203,7 @@
 <!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "ਹੈਡਿੰਗ 6">
 <!ENTITY heading6Cmd.accesskey "6">
-<!ENTITY paragraphAddressCmd.label "ਐਡਰੈੱਸ">
+<!ENTITY paragraphAddressCmd.label "ਐਡਰੈਸ">
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "ਪ੍ਰੀ-ਫਾਰਮੈਟ">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
@@ -287,18 +215,18 @@
 <!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "ਬਿੰਦੀਆਂ">
 <!ENTITY listBulletCmd.accesskey "B">
-<!ENTITY listNumberedCmd.label "ਗਿਣਤੀ">
+<!ENTITY listNumberedCmd.label "ਅੰਕ">
 <!ENTITY listNumberedCmd.accesskey "m">
-<!ENTITY listTermCmd.label "ਸ਼ਬਦ">
+<!ENTITY listTermCmd.label "ਟਰਮ">
 <!ENTITY listTermCmd.accesskey "T">
-<!ENTITY listDefinitionCmd.label "ਪਰਿਭਾਸ਼ਾ">
+<!ENTITY listDefinitionCmd.label "ਪ੍ਰੀਭਾਸ਼ਾ">
 <!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "ਲਿਸਟ ਵਿਸ਼ੇਸ਼ਤਾ…">
 <!ENTITY listPropsCmd.accesskey "L">
 
-<!ENTITY ParagraphSelect.tooltip "ਇੱਕ ਪ੍ਹੈਰਾਗਰਾਫ਼ ਫਾਰਮੈਟ ਚੁਣੋ">
+<!ENTITY ParagraphSelect.tooltip "ਪ੍ਹੈਰਾਗਰਾਫ਼ ਫਾਰਮੈਟ ਚੁਣੋ">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "ਬਾਡੀ ਟੈਕਸਟ">
+<!ENTITY bodyTextCmd.label "ਮੁੱਖ ਭਾਗ ਟੈਕਸਟ">
 <!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "ਤਕਨੀਕੀ ਵਿਸ਼ੇਸ਼ਤਾ">
@@ -309,35 +237,30 @@
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "ਖੱਬੇ">
 <!ENTITY alignLeft.accesskey "L">
-<!ENTITY alignLeft.tooltip "ਖੱਬੇ ਇਕਸਾਰ ਕਰੋ">
+<!ENTITY alignLeft.tooltip "ਖੱਬੇ ਪਾਸੇ ਸੈੱਟ ਕਰੋ">
 <!ENTITY alignCenter.label "ਸੈਂਟਰ">
 <!ENTITY alignCenter.accesskey "C">
-<!ENTITY alignCenter.tooltip "ਸੈਂਟਰ ਵਿੱਚ ਇਕਸਾਰ ਕਰੋ">
+<!ENTITY alignCenter.tooltip "ਸੈਂਟਰ ਵਿੱਚ ਸੈੱਟ ਕਰੋ">
 <!ENTITY alignRight.label "ਸੱਜੇ">
 <!ENTITY alignRight.accesskey "R">
-<!ENTITY alignRight.tooltip "ਸੱਜੇ ਪਾਸੇ ਰੱਖੋ">
-<!ENTITY alignJustify.label "ਅਨੁਕੂਲ">
+<!ENTITY alignRight.tooltip "ਸੱਜੇ ਪਾਸੇ ਸੈੱਟ ਕਰੋ">
+<!ENTITY alignJustify.label "ਲੋੜ ਮੁਤਾਬਕ">
 <!ENTITY alignJustify.accesskey "J">
-<!ENTITY alignJustify.tooltip "ਅਨੁਕੂਲ ਬਣਾਓ">
+<!ENTITY alignJustify.tooltip "Justified ਸੈੱਟ ਕਰੋ">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "ਲੇਅਰ">
 <!ENTITY layerSendToBack.tooltip "ਪਿੱਛੇ ਭੇਜੋ">
-<!ENTITY layerBringToFront.tooltip "ਅੱਗੇ ਲੈ ਕੇ ਆਓ">
+<!ENTITY layerBringToFront.tooltip "ਅੱਗੇ ਲਿਆਓ">
 
 <!ENTITY increaseIndent.label "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰੀ ਵਧਾਓ">
 <!ENTITY increaseIndent.accesskey "I">
 <!ENTITY increaseIndent.key "]">
-<!ENTITY decreaseIndent.label "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ ਘਟਾਓ">
+<!ENTITY decreaseIndent.label "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰੀ ਘਟਾਓ">
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "ਸਥਿਤੀ ਗਰਿੱਡ">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "ਪੇਜ਼ ਟਾਇਟਲ ਅਤੇ ਵਿਸ਼ੇਸ਼ਤਾ…">
-<!ENTITY pageProperties.accesskey "g">
-<!ENTITY colorsAndBackground.label "ਪੇਜ਼ ਰੰਗ ਅਤੇ ਬੈਕਗਰਾਊਂਡ…">
+<!ENTITY colorsAndBackground.label "ਸਫ਼ਾ ਰੰਗ ਅਤੇ ਬੈਕਗਰਾਊਂਡ…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
@@ -350,9 +273,9 @@
 
 <!ENTITY tableSelectMenu2.label "ਟੇਬਲ ਚੁਣੋ">
 <!ENTITY tableSelectMenu2.accesskey "S">
-<!ENTITY tableInsertMenu2.label "ਟੇਬਲ ਸ਼ਾਮਲ">
+<!ENTITY tableInsertMenu2.label "ਟੇਬਲ ਸ਼ਾਮਲ ਕਰੋ">
 <!ENTITY tableInsertMenu2.accesskey "I">
-<!ENTITY tableDeleteMenu2.label "ਟੇਬਲ ਹਟਾਓ">
+<!ENTITY tableDeleteMenu2.label "ਟੇਬ ਹਟਾਓ">
 <!ENTITY tableDeleteMenu2.accesskey "D">
 
 <!-- Insert SubMenu -->
@@ -383,7 +306,7 @@
 <!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "ਸੈੱਲ ਪਹਿਲਾਂ">
 <!ENTITY tableCellBefore.accesskey "C">
-<!ENTITY tableCellAfter.label "ਸੈੱਲ ਬਾਅਦ ਵਿੱਚ">
+<!ENTITY tableCellAfter.label "ਸੈੱਲ ਬਾਅਦ">
 <!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "ਹਟਾਓ">
@@ -404,79 +327,51 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "ਮੇਨੂ ਬਾਰ">
-<!ENTITY compositionToolbar.tooltip "ਕੰਪੋਜ਼ਿਸ਼ਨ ਟੂਲਬਾਰ">
-<!ENTITY formatToolbar.tooltip "ਫਾਰਮੈਟ ਟੂਲਬਾਰ">
-<!ENTITY newToolbarCmd.tooltip "ਇੱਕ ਨਵਾਂ ਕੰਪੋਜ਼ਰ ਪੇਜ਼ ਬਣਾਓ">
-<!ENTITY openToolbarCmd.label "ਖੋਲ੍ਹੋ">
-<!ENTITY openToolbarCmd.tooltip "ਇੱਕ ਲੋਕਲ ਫਾਇਲ ਖੋਲ੍ਹੋ">
-<!ENTITY saveToolbarCmd.tooltip "ਇੱਕ ਲੋਕਲ ਟਿਕਾਣੇ ਉੱਤੇ ਫਾਇਲ ਸੰਭਾਲੋ">
-<!ENTITY publishToolbarCmd.tooltip "ਫਾਇਲ ਰਿਮੋਟ ਟਿਕਾਣੇ ਉੱਤੇ ਅੱਪਲੋਡ ਕਰੋ">
-<!ENTITY previewToolbarCmd.label "ਝਲਕ">
-<!ENTITY previewToolbarCmd.tooltip "ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਇਹ ਪੇਜ਼ ਲੋਡ ਕਰੋ">
-<!ENTITY printToolbarCmd.label "ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY printToolbarCmd.tooltip "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY findToolbarCmd.label "ਲੱਭੋ">
-<!ENTITY findToolbarCmd.tooltip "ਪੇਜ਼ ਵਿੱਚ ਟੈਕਸਟ ਲੱਭੋ">
-<!ENTITY spellToolbarCmd.label "ਸਪੈੱਲ">
-<!ENTITY spellToolbarCmd.tooltip "ਚੋਣ ਜਾਂ ਪੂਰੇ ਪੇਜ਼ ਲਈ ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
+<!ENTITY menuBar.tooltip "ਮੁੱਖ ਪੱਟੀ">
+<!ENTITY formatToolbar.tooltip "ਫਾਰਮੈਟਿੰਗ ਟੂਲਬਾਰ">
+
+
+
+<!ENTITY cutToolbarCmd.tooltip "ਕੱਟੋ">
+<!ENTITY copyToolbarCmd.tooltip "ਕਾਪੀ ਕਰੋ">
+<!ENTITY pasteToolbarCmd.tooltip "ਚੇਪੋ">
+<!ENTITY printToolbarCmd.label "ਪ੍ਰਿੰਟ ਕਰੋ">
+<!ENTITY printToolbarCmd.tooltip "ਇਹ ਸਫ਼ਾ ਪ੍ਰਿੰਟ ਕਰੋ">
+<!ENTITY findToolbarCmd.label "ਖੋਜ">
+<!ENTITY findToolbarCmd.tooltip "ਸਫ਼ੇ ਵਿੱਚ ਟੈਕਸਟ ਲੱਭੋ">
+<!ENTITY spellToolbarCmd.label "ਸਪੈਲ">
+<!ENTITY spellToolbarCmd.tooltip "ਚੋਣ ਜਾਂ ਪੂਰੇ ਸਫ਼ੇ ਲਈ ਸਪੈਲ ਚੈੱਕ ਕਰੋ">
 <!ENTITY imageToolbarCmd.label "ਚਿੱਤਰ">
-<!ENTITY imageToolbarCmd.tooltip "ਨਵਾਂ ਚਿੱਤਰ ਸ਼ਾਮਲ ਕਰੋ ਜਾਂ ਚੁਣੇ ਚਿੱਤਰ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧੋ">
-<!ENTITY hruleToolbarCmd.label "ਹਰੀਜੱਟਲ ਲਾਈਨ">
-<!ENTITY hruleToolbarCmd.tooltip "ਹਰੀਜੱਟਲ ਲਾਈਨ ਲਗਾਉ ਜਾਂ ਚੁਣੀ ਲਾਈਨ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧੋ">
+<!ENTITY imageToolbarCmd.tooltip "Insert new image or edit selected image's properties">
+<!ENTITY hruleToolbarCmd.label "ਲੇਟਵੀਂ ਲਾਈਨ">
+<!ENTITY hruleToolbarCmd.tooltip "Insert horizontal line or edit selected line's properties">
 <!ENTITY tableToolbarCmd.label "ਟੇਬਲ">
-<!ENTITY tableToolbarCmd.tooltip "ਨਵਾਂ ਟੇਬਲ ਬਣਾਓ ਜਾਂ ਚੁਣੇ ਟੇਬਲ ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧੋ">
+<!ENTITY tableToolbarCmd.tooltip "Insert new table or edit selected table's properties">
 <!ENTITY linkToolbarCmd.label "ਲਿੰਕ">
-<!ENTITY linkToolbarCmd.tooltip "ਨਵਾਂ ਲਿੰਕ ਸ਼ਾਮਲ ਕਰੋ ਜਾਂ ਚੁਣੇ ਲਿੰਕ ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧੋ">
+<!ENTITY linkToolbarCmd.tooltip "Insert new link or edit selected link's properties">
 <!ENTITY anchorToolbarCmd.label "ਐਂਕਰ">
-<!ENTITY anchorToolbarCmd.tooltip "ਨਵਾਂ ਐਂਕਰ ਸ਼ਾਮਲ ਕਰੋ ਜਾਂ ਚੁਣੇ ਐਂਕਰ ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧੋ">
+<!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
 <!ENTITY TextColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਰੰਗ ਚੁਣੋ">
 <!ENTITY BackgroundColorButton.tooltip "ਬੈਕਗਰਾਊਂਡ ਲਈ ਰੰਗ ਚੁਣੋ">
-<!ENTITY throbber.tooltip "&vendorShortName; ਦੇ ਮੁੱਖ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY throbber.tooltip "&vendorShortName; ਦੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY HighlightColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਹਾਈਲਾਈਟ ਰੰਗ ਚੁਣੋ">
 
 <!-- Editor toolbar -->
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "ਛੋਟਾ ਫੋਂਟ ਸਾਈਜ਼">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "ਵੱਡਾ ਫੋਂਟ ਸਾਈਜ਼">
-<!ENTITY boldToolbarCmd.tooltip "ਗੂੜ੍ਹੇ">
-<!ENTITY italicToolbarCmd.tooltip "ਤਿਰਛੇ">
-<!ENTITY underlineToolbarCmd.tooltip "ਹੇਠਾਂ ਲਾਈਨ">
-<!ENTITY bulletListToolbarCmd.tooltip "ਬਿੰਦੀਆਂ ਵਾਲੀ ਲਿਸਟ ਬਣਾਓ ਜਾਂ ਹਟਾਓ">
-<!ENTITY numberListToolbarCmd.tooltip "ਗਿਣਤੀ ਵਾਲੀ ਲਿਸਟ ਬਣਾਓ ਜਾਂ ਹਟਾਓ">
-<!ENTITY outdentToolbarCmd.tooltip "ਟੈਕਸਟ ਹਾਸ਼ੀਏ ਦੇ ਨੇੜੇ (ਖੱਬੇ ਪਾਸੇ ਭੇਜੋ)">
-<!ENTITY indentToolbarCmd.tooltip "ਟੈਕਸਟ ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ (ਸੱਜੇ ਪਾਸੇ ਭੇਜੋ)">
-<!ENTITY AlignPopupButton.tooltip "ਟੈਕਸਟ ਇਕਸਾਰਤਾ ਚੁਣੋ">
-<!ENTITY InsertPopupButton.tooltip "ਇੱਕ ਲਿੰਕ, ਐਂਕਰ, ਚਿੱਤਰ, ਹਰੀਜੱਟਲ ਲਾਈਨ ਜਾਂ ਟੇਬਲ ਸ਼ਾਮਲ ਕਰੋ">
-<!ENTITY alignLeftButton.tooltip "ਟੈਕਸਟ ਨੂੰ ਖੱਬੇ ਹਾਸ਼ੀਏ ਨਾਲ ਲਗਾਓ">
-<!ENTITY alignCenterButton.tooltip "ਟੈਕਸਟ ਸੈਂਟਰ ਵਿੱਚ ਰੱਖੋ">
-<!ENTITY alignRightButton.tooltip "ਟੈਕਸਟ ਨੂੰ ਸੱਜੇ ਹਾਸ਼ੀਏ ਨਾਲ ਲਗਾਓ">
-<!ENTITY alignjustifyButton.tooltip "ਟੈਕਸਟ ਨੂੰ ਖੱਬੇ ਅਤੇ ਸੱਜੇ ਹਾਸ਼ੀਏ ਨਾਲ ਫਿੱਟ ਕਰੋ">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "ਸਧਾਰਨ">
-<!ENTITY NormalMode.label "ਸਧਾਰਨ ਸੋਧ ਮੋਡ">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "ਟੇਬਲ ਬਾਰਡਰ ਅਤੇ ਨਾਮੀ ਐਂਕਰ ਵੇਖੋ">
-<!ENTITY AllTagsMode.label "HTML ਟੈਗ">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "ਸਭ HTML ਟੈਗਾਂ ਲਈ ਆਈਕਾਨ ਵੇਖੋ">
-
-<!ENTITY HTMLSourceMode.label "HTML ਸਰੋਤ">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "ਸਰੋਤ">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "HTML ਸਰੋਤ ਸੋਧ">
-<!ENTITY PreviewMode.label "ਝਲਕ">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip " WYSIWYG ਵਾਂਗ ਵੇਖੋ (ਜਿਵੇਂ ਕਿ ਬਰਾਊਜ਼ਰ ਵਿੱਚ)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "ਫੋਂਟ ਆਕਾਰ ਹੋਰ ਛੋਟਾ">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "ਫੋਂਟ ਆਕਾਰ ਹੋਰ ਵੱਡਾ">
+<!ENTITY boldToolbarCmd.tooltip "ਗੂੜ੍ਹਾ ਬਣਾਓ">
+<!ENTITY italicToolbarCmd.tooltip "ਤਿਰਛੇ ਬਣਾਓ">
+<!ENTITY underlineToolbarCmd.tooltip "ਹੇਠਾਂ ਲਾਈਨ ਲਗਾਓ">
+<!ENTITY bulletListToolbarCmd.tooltip "ਬਿੰਦੀਆਂ ਵਾਲੀ ਲਿਸਟ ਲਾਗੂ ਕਰੋ ਜਾਂ ਹਟਾਓ">
+<!ENTITY numberListToolbarCmd.tooltip "ਗਿਣਤੀ ਲਿਸਟ ਲਾਗੂ ਕਰੋ ਜਾਂ ਹਟਾਓ">
+<!ENTITY outdentToolbarCmd.tooltip "Outdent text (move left)">
+<!ENTITY indentToolbarCmd.tooltip "Indent text (move right)">
+<!ENTITY AlignPopupButton.tooltip "Choose text alignment">
+<!ENTITY InsertPopupButton.tooltip "Insert a Link, Anchor, Image, Horizontal Line, or Table">
+<!ENTITY alignLeftButton.tooltip "Align text along left margin">
+<!ENTITY alignCenterButton.tooltip "Align text centered">
+<!ENTITY alignRightButton.tooltip "Align text along right margin">
+<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "ਚੁਣੋ">
@@ -495,3 +390,4 @@
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "ਤਤਕਰਾ…">
 <!ENTITY tocMenu.accesskey        "b">
+

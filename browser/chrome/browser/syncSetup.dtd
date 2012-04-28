@@ -1,25 +1,24 @@
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; ਸੈਟਅੱਪ">
 
-<!-- First page of the wizard -->
+<!ENTITY setup.pickSetupType.description2 "ਜੀ ਆਇਆਂ ਨੂੰ! ਜੇ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਕਦੇ ਨਹੀਂ ਵਰਤਿਆ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਉਣਾ ਪਵੇਗਾ।">
+<!ENTITY button.createNewAccount.label "ਇੱਕ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
+<!ENTITY button.haveAccount.label      "ਮੇਰੇ ਕੋਲ ਅਕਾਊਂਟ ਹੈ">
 
-<!ENTITY setup.pickSetupType.description "ਜੀ ਆਇਆਂ ਨੂੰ, ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਦੇ &syncBrand.fullName.label; ਨਹੀਂ ਵਰਤਿਆ ਤਾਂ ਤੁਹਾਨੂੰ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਉਣਾ ਪਵੇਗਾ।">
-<!ENTITY button.createNewAccount.label "ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
-<!ENTITY setup.haveAccount.label "ਮੇਰੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੈ">
-<!ENTITY button.connect.label    "ਕੁਨੈਕਟ ਕਰੋ">
+
 <!ENTITY setup.choicePage.title.label     "ਕੀ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਵਰਤਿਆ ਹੈ?">
 <!ENTITY setup.choicePage.new.label       "ਮੈਂ &syncBrand.shortName.label; ਨੂੰ ਪਹਿਲਾਂ ਕਦੇ ਨਹੀਂ ਵਰਤਿਆ">
 <!ENTITY setup.choicePage.existing.label  "ਮੈਂ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਉੱਤੇ ਪਹਿਲਾਂ ਹੀ &syncBrand.shortName.label; ਵਰਤ ਰਿਹਾ ਹਾਂ">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ਸਰਵਰ">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; ਸਰਵਰ">
+<!ENTITY serverType.default.label      "ਡਿਫਾਲਟ: Mozilla &syncBrand.fullName.label; ਸਰਵਰ">
 <!ENTITY serverType.custom2.label   "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ…">
 <!ENTITY signIn.account2.label      "ਅਕਾਊਂਟ">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "ਪਾਸਵਰਡ">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "ਸਿੰਕ ਕੁੰਜੀ">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "ਰਿਕਵਰੀ ਕੁੰਜੀ">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "ਅਕਾਊਂਟ ਵੇਰਵਾ">
@@ -27,6 +26,8 @@
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "ਈਮੇਲ ਐਡਰੈੱਸ">
 <!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "ਪਾਸਵਰਡ ਚੁਣੋ">
+<!ENTITY setup.choosePassword.accesskey  "P">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "ਮੈਂ ">
@@ -38,33 +39,30 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਦੀ ਖਿਆਲ ਰੱਖਦਾ ਹੈ">
-<!ENTITY setup.newSyncKeyPage.description.label "ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ, ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸਿੰਕ ਕੁੰਜੀ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਡੀ-ਕ੍ਰਿਪਟ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਹੈ, ਅੱਪਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।">
-<!ENTITY syncKeyEntry.label        "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "ਬਣਾਓ">
-<!ENTITY syncKeyBackup.description "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਹੋਰ ਮਸ਼ੀਨਾਂ ਉੱਤੇ &syncBrand.fullName.label; ਵਰਤਣ ਲਈ ਲੋੜੀਦੀ ਹੈ। ਬੈਕਅੱਪ ਕਾਪੀ ਬਣਾ ਲਵੋ ਜੀ। ਅਸੀਂ ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਮੱਦਦ ਨਹੀਂ ਕਰ ਸਕਾਂਗੇ।">
-
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਦਾ ਖਿਆਲ ਰੱਖਦਾ ਹੈ">
+<!ENTITY setup.newRecoveryKeyPage.description.label "ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ,  ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਇੰਕ੍ਰਿਪਟ ਕਰ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ। ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਖੋਲ੍ਹਣ (ਡਿਕ੍ਰਿਪਟ ਕਰਨ) ਲਈ ਲੋੜੀਦੀ ਰਿਕਵਰੀ ਕੁੰਜੀ ਨੂੰ ਅੱਪਲੋਡ ਹੀ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।">
+<!ENTITY recoveryKeyEntry.label        "ਤੁਹਾਡੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY syncGenerateNewKey.label  "ਇੱਕ ਨਵੀਂ ਕੁੰਜੀ ਬਣਾਓ">
+<!ENTITY recoveryKeyBackup.description "ਤੁਹਾਡੀ ਰਿਕਵਰੀ ਕੁੰਜੀ  ਹੋਰ ਮਸ਼ੀਨਾਂ ਉੱਤੇ &syncBrand.fullName.label; ਦੀ ਵਰਤੋਂ ਲਈ ਚਾਹੀਦੀ ਹੈ। ਧਿਆਨ ਨਾਲ ਬੈਕਅੱਪ ਕਾਪੀ ਬਣਾ ਲਵੋ। ਤੁਹਾਡੀ ਰਿਕਵਰੀ ਕੁੰਜੀ ਲਈ ਅਸੀਂ ਤੁਹਾਡੀ ਮੱਦਦ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵਾਂਗੇ।">
 <!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "ਸੰਭਾਲੋ…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਰੋਬੋਟ ਮਸ਼ੀਨ ਨਹੀਂ ਹੋ">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY pairDevice.title.label             "ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ">
 <!ENTITY addDevice.showMeHow.label          "ਮੈਨੂੰ ਦੱਸੋ ਕਿਵੇਂ।">
 <!ENTITY addDevice.dontHaveDevice.label     "ਇਸ ਸਮੇਂ ਮੇਰੇ ਕੋਲ ਜੰਤਰ ਨਹੀਂ ਹੈ।">
-<!ENTITY addDevice.setup.description.label  "ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਨੂੰ ਚੁਣੋ।">
+<!ENTITY pairDevice.setup.description.label  "ਸਰਗਰਮ ਕਰਨ ਲਈ, ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਤੋਂ &#x0022;ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ&#x0022; ਚੁਣੋ।">
 <!ENTITY addDevice.setup.enterCode.label    "ਤਦ, ਇਹ ਕੋਡ ਦਿਉ:">
-<!ENTITY addDevice.dialog.description.label "ਆਪਣਾ ਨਵਾਂ ਜੰਤਰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਕੁਨੈਕਟ ਕਰੋ&#x0022; ਨੂੰ ਚੁਣੋ।">
+<!ENTITY pairDevice.dialog.description.label "ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ  &#x0022;ਸਿੰਕ ਸੈਟਅੱਪ&#x0022; ਚੁਣੋ।">
+
 <!ENTITY addDevice.dialog.enterCode.label   "ਕੋਡ ਦਿਉ, ਜੋ ਜੰਤਰ ਨੇ ਦਿੱਤਾ ਹੈ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ">
 <!ENTITY addDevice.dialog.successful.label  "ਜੰਤਰ ਠੀਕ ਤਰ੍ਹਾਂ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। ਸ਼ੁਰੂਆਤੀ ਸਿੰਕ ਕਰਨ ਲਈ ਲੰਮਾ ਸਮਾਂ ਲੱਗਾ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਭ ਕੁਝ ਬੈਕਗਰਾਊਂਡ 'ਚ ਮੁਕੰਮਲ ਹੋ ਜਾਵੇਗਾ।">
-<!ENTITY addDevice.dialog.syncKey.label     "ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦੇਣੀ ਪਵੇਗੀ। ਇਹ ਕੁੰਜੀ ਨੂੰ ਪਰਿੰਟ ਕਰੋ ਜਾਂ ਸੰਭਾਲੋ ਤੇ ਆਪਣੇ ਨਾਲ ਰੱਖੋ।">
-<!ENTITY addDevice.dialog.connected.label   "ਜੰਤਰ ਕੁਨੈਕਟ">
+<!ENTITY addDevice.dialog.recoveryKey.label     "ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀ ਰਿਕਵਰੀ ਕੁੰਜੀ ਦੇਣੀ ਪਵੇਗੀ। ਇਹ ਕੁੰਜੀ ਪ੍ਰਿੰਟ ਕਰੋ ਜਾਂ ਸੰਭਾਲੋ ਅਤੇ ਆਪਣੇ ਨਾਲ ਰੱਖੋ।">
+<!ENTITY addDevice.dialog.connected.label   "ਜੰਤਰ ਕੁਨੈਕਟ ਹੈ">
 
 <!-- Existing Account Page 1: Login -->
 
@@ -73,7 +71,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "ਸਾਈਨ ਇਨ">
-<!ENTITY existingSyncKey.description "ਤੁਸੀਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਜਾ ਕੇ  &#x0022;ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ&#x0022; ਵਿੱਚੋਂ &#x0022;ਅਕਾਊਂਟ ਪਰਬੰਧ&#x0022; ਰਾਹੀਂ ਵੇਖ ਸਕਦੇ ਹੋ।">
+<!ENTITY existingRecoveryKey.description "ਤੁਸੀਂ ਆਪਣੀ ਰਿਕਵਰੀ ਕੁੰਜੀ ਦੀ ਕਾਪੀ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਉੱਤੇ ਜਾ ਕੇ  &syncBrand.shortName.label; ਚੋਣਾਂ ਤੋਂ &#x0022;ਅਕਾਊਂਟ ਪਰਬੰਧ&#x0022; ਦੇ ਵਿੱਚ &#x0022;ਰਿਕਵਰੀ ਕੁੰਜੀ&#x0022; ਰਾਹੀਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।">
 <!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
 <!-- Sync Options -->
@@ -92,6 +90,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "ਐਡ-ਆਨ">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਡਾਟੇ ਨੂੰ ਮੇਰੇ &syncBrand.shortName.label; ਡਾਟੇ ਨਾਲ ਮਿਲਾਉ">
 <!ENTITY choice2.merge.recommended.label "ਸਿਫਾਰਸ਼ੀ:">

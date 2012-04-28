@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "&brandFullName; ਬਾਰੇ">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "ਇਹ ਆਟੋਮੈਟਿਕ ਹੀ ਟੈਸਟ ਜਾਣਕਾਰੀ ਨੂੰ ਵਾਪਸ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ ਤਾਂ ਕਿ  &brandShortName; ਨੂੰ ਵਧੀਆ ਬਣਾਇਆ ਜਾ ਸਕੇ।">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " ਇੱਕ ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "ਗਲੋਬਲ ਕਮਿਊਨਟੀ">
+<!ENTITY community.exp.end          " ਹੈ ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।">
+
 <!ENTITY community.start2           "&brandShortName; ਨੂੰ ਤਿਆਰ ਕੀਤਾ ਹੈ ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " ਨੇ, ਜੋ ਇੱਕ ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "ਗਲੋਬਲ ਕਮਿਊਨਟੀ ਹੈ">
-<!ENTITY community.end2             " ਇਹ ਇੰਟਰਨੈੱਟ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਇੱਕਠੀ ਰਲ ਕੇ ਕੰਮ ਕਰ ਰਹੀ ਹੈ। ਅਸੀਂ ਮੰਨਦੇ ਹਾਂ ਕਿ ਇੰਟਰਨੈੱਟ ਹਰ ਕਿਸੇ ਲਈ ਬਿਨਾਂ ਕਿਸੇ ਪਾਬੰਦੀ ਦੇ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ  ਵਰਤਣਯੋਗ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।">
+<!ENTITY community.creditsLink      "ਗਲੋਬਲ ਕਮਿਊਨਟੀ ਹੈ,">
+<!ENTITY community.end3             " ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।">
 
 <!ENTITY contribute.start           "ਦਿਲਚਸਪ ਲੱਗਾ? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -54,27 +68,10 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — ">
 <!ENTITY update.downloading.end     "">
+
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਹੋ ">
-<!ENTITY channel.description.end    " ਅੱਪਡੇਟ ਚੈਨਲ ਉੱਤੇ। ">
-
-<!ENTITY channel.change             "ਬਦਲੋ">
-
-<!ENTITY channel.release.description       "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
-<!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
-<!ENTITY channel.aurora.description        "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "ਅੱਪਡੇਟ ਚੈਨਲ">
-<!ENTITY channel.selector.end            "ਲਈ ਬਦਲੋ।">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "ਲਾਗੂ ਅਤੇ ਅੱਪਡੇਟ ਕਰੋ">
-<!ENTITY channel.selector.cancelButton   "ਰੱਦ ਕਰੋ">
+<!ENTITY channel.description.start  "ਇਸ ਸਮੇਂ ਤੁਸੀਂ ">
+<!ENTITY channel.description.end    " ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ। ">
 

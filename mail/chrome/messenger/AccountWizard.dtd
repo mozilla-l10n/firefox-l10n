@@ -4,10 +4,9 @@
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
-
-<!ENTITY accountSetupInfo.label "ਮੇਲ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਇੱਕ ਮੇਲ ਜਾਂ ਨਿਊਜ਼ਗਰੁੱਪ ਅਕਾਊਂਟ ਸੰਰਚਿਤ ਕਰਨਾ ਪਵੇਗਾ।">
+<!ENTITY accountSetupInfo2.label "ਸੁਨੇਹੇ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਲਈ, ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਇੱਕ ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਕਰਨਾ ਪਵੇਗਾ।">
 <!ENTITY accountTypeTitle.label "ਨਵਾਂ ਅਕਾਊਂਟ ਸੈੱਟਅੱਪ">
-<!ENTITY accountTypeDesc.label "ਇਹ ਸਹਾਇਕ ਮੇਲ ਜਾਂ ਨਿਊਜ਼ਗਰੁੱਪ ਅਕਾਊਂਟ ਬਣਾਉਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇੱਕਠੀ ਕਰੇਗਾ। ਜੇਕਰ ਤੁਸੀਂ ਲੋੜੀਦੀਂ ਜਾਣਕਾਰੀ ਬਾਰੇ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਆਪਣੇ ਸਿਸਟਮ ਐਡਮਿਨ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧ ਕਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।">
+<!ENTITY accountTypeDesc2.label "ਇਹ ਸਹਾਇਕ ਅਕਾਊਂਟ ਬਣਾਉਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇੱਕਠੀ ਕਰੇਗਾ। ਜੇਕਰ ਤੁਸੀਂ ਲੋੜੀਦੀਂ ਜਾਣਕਾਰੀ ਬਾਰੇ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਆਪਣੇ ਸਿਸਟਮ ਐਡਮਿਨ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧ ਕਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ">
 <!ENTITY accountTypeDirections.label "ਕਿਸ ਕਿਸਮ ਦਾ ਅਕਾਊਂਟ ਤੁਸੀਂ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ:">
 <!ENTITY accountTypeMail.label "ਈ-ਮੇਲ ਅਕਾਊਂਟ">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -33,29 +32,48 @@
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Server page -->
-
-<!ENTITY serverTitle.label "ਸਰਵਰ ਜਾਣਕਾਰੀ">
+<!ENTITY incomingTitle.label "Incoming Server Information">
 <!ENTITY incomingServerTypeDesc.label "ਆਉਣ ਵਾਲੇ ਸਰਵਰ ਦੀ ਕਿਸਮ, ਜਿਸ ਦੀ ਤੁਸੀਂ ਵਰਤੋਂ ਕਰਦੇ ਹੋ, ਚੁਣੋ।">
 
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "ਆਪਣੇ ਲਿਆਉਣ ਵਾਲੇ ਸਰਵਰ ਦਾ ਨਾਂ ਦਿਉ (ਜਿਵੇਂ, &quot;mail.example.net&quot;)">
-<!ENTITY incomingServerLabel.label "ਲਿਆਉਣ ਵਾਲਾ ਸਰਵਰ:">
-<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Incoming Server:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "User Name:">
+<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "ਆਪਣੇ ਖਬਰ ਸਰਵਰ ਦਾ ਨਾਂ ਦਿਉ (NNTP) (ਉਦਾਹਰਨ ਲਈ, &quot;news.example.net&quot;)">
 
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "ਆਪਣੇ ਬਾਹਰ ਭੇਜਣ ਵਾਲੇ ਸਰਵਰ ਦਾ ਨਾਂ ਦਿਉ (SMTP) (ਜਿਵੇਂ,  &quot;smtp.example.net&quot;)">
-<!ENTITY smtpServerLabel.label "ਬਾਹਰ ਭੇਜਣ ਵਾਲਾ ਸਰਵਰ:">
-<!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "ਨਿਊਜ਼ਗਰੁੱਪ ਸਰਵਰ:">
 <!ENTITY newsServerLabel.accesskey "N">
+
+
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
+<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.accesskey "U">
+
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "ਸੁਨੇਹੇ ਸਰਵਰ ਉੱਤੇ ਰਹਿਣ ਦਿਓ">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Default:">
+<!ENTITY defaultPortValue.label "">
 
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
@@ -67,34 +85,31 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਭੇਜਣ ਵਾਲਾ ਸਰਵਰ (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
 
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "ਯੂਜ਼ਰ ਲਾਗਇਨ ਨਾਂ">
-<!ENTITY usernameDesc.label "ਆਉਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ ਦਿਉ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਈ-ਮੇਲ ਪਰੋਵਾਈਡਰ ਨੇ ਦਿੱਤਾ ਹੈ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(ਜਿਵੇਂ, &quot;jsmith&quot;)">
-<!ENTITY usernameLabel.label "ਆਉਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "ਭੇਜਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ ਦਿਓ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਈ-ਮੇਲ ਪਰੋਵਾਈਡਰ ਨੇ ਦਿੱਤਾ ਹੈ (ਇਹ ਅਕਸਰ ਤੁਹਾਡਾ ਆਉਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ ਹੀ ਹੁੰਦਾ ਹੈ)।">
-<!ENTITY usernameSmtpLabel.label "ਭੇਜਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY haveSmtp2.prefix "ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਭੇਜਣ ਵਾਲਾ (SMTP) ਯੂਜ਼ਰ ਨਾਂ, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
+<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Your existing outgoing server (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
+
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Your existing outgoing (SMTP) username, &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;, will be used.">
 
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "ਤੁਹਾਡਾ ਭੇਜਣ ਵਾਲਾ (SMTP) ਸਰਵਰ, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, is identical to your incoming server, your incoming user name will be used to access it. You can change outgoing servers in the account settings.">
-
+<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "ਅਕਾਊਂਟ ਨਾਂ">

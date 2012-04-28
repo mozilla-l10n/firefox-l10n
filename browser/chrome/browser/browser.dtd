@@ -56,8 +56,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "…ਇੰਪੋਰਟ">
-<!ENTITY import.accesskey "I">
 <!ENTITY menubarCmd.label "ਮੇਨੂ ਬਾਰੇ">
 <!ENTITY menubarCmd.accesskey "M">
 
@@ -91,6 +89,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰੋ">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਨੂੰ ਛੱਡਣ ਲਈ ESC ਦੱਬੋ।">
 
 <!ENTITY closeWindow.label "ਵਿੰਡੋ ਬੰਦ ਕਰੋ">
 <!ENTITY closeWindow.accesskey "d">
@@ -103,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "…ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
 <!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
-<!ENTITY unsortedBookmarksCmd.label "ਬਿਨ-ਲੜੀਬੱਧ ਕੀਤੇ ਬੁੱਕਮਾਰਕ">
+<!ENTITY unsortedBookmarksCmd.label "ਗ਼ੈਰ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕਗ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
@@ -112,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ਇੱਕ ਪੇਜ਼ ਅੱਗੇ ਜਾਓ">
+<!ENTITY backForwardButtonMenu.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਹੇਠਾਂ ਖਿੱਚੋ">
+<!ENTITY backForwardButtonMenuMac.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "ਮੌਜੂਦਾ ਪੇਜ਼ ਮੁੜ ਲੋਡ ਕਰੋ">
@@ -180,6 +181,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "ਵੈੱਬ ਡਿਵੈਲਪਰ">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
 <!ENTITY errorConsoleCmd.label        "ਗਲਤੀ ਕਨਸੋਂਲ">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -193,23 +197,54 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "ਜਾਂਚ">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "ਅੱਗੇ">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "ਪਿੱਛੇ">
-<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectContextMenu.label     "ਐਲੀਮੈਂਟ ਜਾਂਚ">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "ਸਕਰੈਚਪੈਡ">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectCloseButton.tooltiptext "ਇੰਸਪੈਕਟਰ ਬੰਦ ਕਰੋ">
+
+<!ENTITY inspectorHTMLCopyInner.label       "ਅੰਦਰੂਨੀ HTML ਕਾਪੀ ਕਰੋ">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "ਬਾਹਰੀ HTML ਕਾਪੀ ਕਰੋ">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "ਨੋਡ ਹਟਾਓ">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D ਝਲਕ">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
 <!ENTITY inspectStyleButton.label     "ਸਟਾਈਲ">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "ਸਟਾਈਲ">
 
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "ਆਬਜੈਕਟ">
-<!ENTITY inspectObjectButton.accesskey   "O">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "ਸਟਾਈਲ ਐਡੀਟਰ">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY getMoreDevtoolsCmd.label        "ਹੋਰ ਟੂਲ ਲਵੋ">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey       "F">
@@ -319,6 +354,7 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -429,6 +465,16 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "ਪੂਰੀ ਸਕਰੀਨ">
 <!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "ਸਨੈਪਸ਼ਾਟ ਇੰਝ ਸੰਭਾਲੋ…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "ਅੰਕੜੇ ਵੇਖਾਓ">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "ਅੰਕੜੇ ਓਹਲੇ ਕਰੋ">
+<!ENTITY videoHideStats.accesskey    "t">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -464,7 +510,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "ਕੱਟੋ">
 <!ENTITY copyButton.tooltip             "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
-<!ENTITY fullScreenButton.tooltip       "ਵਿੰਡੋ ਪੂਰੀ ਸਕਰਨੀ 'ਚ ਵੇਖੋ">
+<!ENTITY fullScreenButton.tooltip       "ਵਿੰਡੋ ਪੂਰੀ ਸਕਰੀਨ'ਚ ਵੇਖੋ">
 
 
 <!ENTITY zoomOutButton.tooltip          "ਜ਼ੂਮ ਆਉਟ">
@@ -571,3 +617,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "ਐਡ-ਆਨ ਪੱਟੀ ਬੰਦ ਕਰੋ">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML ਪੈਨਲ">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">

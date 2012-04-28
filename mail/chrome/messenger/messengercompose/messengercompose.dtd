@@ -16,6 +16,9 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "ਫਾਇਲ…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "ਵੈੱਬ ਪੇਜ਼…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -72,6 +75,8 @@
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY renameAttachmentCmd.label "ਅਟੈਚਮੈਂਟ ਨਾਂ ਬਦਲੋ…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -91,7 +96,9 @@
 <!ENTITY viewMenu.label "ਵੇਖੋ"> 
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "ਟੂਲਬਾਰ"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY menubarCmd.label "ਮੇਨੂ ਪੱਟੀ">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "ਕੰਪੋਜ਼ਿਸ਼ਨ ਟੂਲਬਾਰ">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "ਫਾਰਮੈਟ ਟੂਲਬਾਰ">
@@ -192,13 +199,15 @@
 <!ENTITY sendlaterButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਬਾਅਦ ਵਿੱਚ ਭੇਜੋ"> 
 <!ENTITY quoteButton.tooltip "ਪਿਛਲੇ ਸੁਨੇਹਾ ਦਾ ਹਵਾਲਾ"> 
 <!ENTITY addressButton.tooltip "ਪ੍ਰਾਪਤ ਕਰਤਾ ਨੂੰ ਐਡਰੈਸ ਬੁੱਕ ਤੋਂ ਚੁਣੋ"> 
-<!ENTITY attachButton.tooltip "ਅਟੈਚਮੈਂਟ ਸਮੇਤ"> 
-<!ENTITY saveButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਸੰਭਾਲੋ"> 
+<!ENTITY attachButton.tooltip "ਅਟੈਚਮੈਂਟ ਸਮੇਤ">
+<!ENTITY saveButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਸੰਭਾਲੋ">
+<!ENTITY spellingButton.tooltip "ਚੋਣ ਜਾਂ ਪੂਰੇ ਸੁਨੇਹੇ ਲਈ ਸਪੈੱਲ ਚੈੱਕ ਕਰੋ">
 <!ENTITY cutButton.tooltip              "ਕੱਟੋ">
 <!ENTITY copyButton.tooltip             "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
 
 <!-- Headers -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "ਵਲੋਂ:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "ਵੱਲ:"> 
@@ -209,7 +218,7 @@
 <!ENTITY followupAddr.label "Followup-To:"> 
 <!ENTITY subject.label "ਵਿਸ਼ਾ:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "ਅਟੈਚਮੈਂਟ:">
+
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -252,7 +261,7 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "ਹਟਾਓ">
 <!ENTITY delete.accesskey "D">
-<!ENTITY removeAttachment.label "Remove Attachment">
+<!ENTITY removeAttachment.label "ਅਟੈਚਮੈਂਟ ਹਟਾਓ">
 <!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "ਨਾਂ ਬਦਲੋ…">
 <!ENTITY renameAttachment.accesskey "R">
@@ -260,8 +269,20 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "ਫਾਇਲਾਂ ਅਟੈਚ…">
 <!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label "ਫਾਇਲ ਲਿੰਕ…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "…ਵਿੱਚ ਬਦਲੋ">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "ਅੱਪਲੋਡ ਰੱਦ ਕਰੋ">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "ਨਿਯਮਤ ਅਟੈਚਮੈਂਟ">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "ਵੈੱਬ ਪੇਜ਼ ਅਟੈਚ…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "ਸੰਪਰਕ">

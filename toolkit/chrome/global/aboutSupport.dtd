@@ -17,22 +17,37 @@
 <!ENTITY aboutSupport.appBasicsName "ਨਾਂ">
 <!ENTITY aboutSupport.appBasicsVersion "ਵਰਜਨ">
 <!ENTITY aboutSupport.appBasicsProfileDir "ਪਰੋਫਾਇਲ ਡਾਇਰੈਕਟਰੀ">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "ਪਰੋਫਾਇਲ ਫੋਲਡਰ">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ਚਾਲੂ ਪਲੱਗਇਨ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "ਬਿਲਡ ਸੰਰਚਨਾ">
 <!ENTITY aboutSupport.appBasicsUserAgent "ਯੂਜ਼ਰ ਏਜੰਟ">
+<!ENTITY aboutSupport.appBasicsCrashIDs "ਕਰੈਸ਼ ਰਿਪੋਰਟ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "ਮੈਮੋਰੀ ਵਰਤੋਂ">
 
-<!ENTITY aboutSupport.show.label "ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
+<!ENTITY aboutSupport.showDir.label "ਡਾਇਰੈਕਟਰੀ ਖੋਲ੍ਹੋ">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Finder ਵਿੱਚ ਵੇਖੋ">
+<!ENTITY aboutSupport.showMac.label "Finder ਵਿੱਚ ਵੇਖਾਓ">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ਫੋਲਡਰ ਵੇਖਾਓ">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "ਬਦਲੀ ਗਈ ਪਸੰਦ">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ਖਾਸ ਬਦਲੀਆਂ ਗਈਆਂ ਪਸੰਦ">
+
 <!ENTITY aboutSupport.modifiedPrefsName "ਨਾਂ">
 <!ENTITY aboutSupport.modifiedPrefsValue "ਮੁੱਲ">
 
 <!ENTITY aboutSupport.graphicsTitle "ਗਰਾਫਿਕਸ">
+<!ENTITY aboutSupport.jsTitle "ਜਾਵਾਸਕ੍ਰਿਪਟ">
+<!ENTITY aboutSupport.jsIncrementalGC "ਵਾਧਾ GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "ਲਾਇਬਰੇਰੀ ਵਰਜਨ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ਇੰਸਟਾਲੇਸ਼ਨ ਅਤੀਤ">
 <!ENTITY aboutSupport.updateHistoryTitle "ਅੱਪਡੇਟ ਅਤੀਤ">

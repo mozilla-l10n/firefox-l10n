@@ -1,75 +1,88 @@
-<!ENTITY messengerWindow.title "Mail &amp; Newsgroups">
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Folder…">
+<!ENTITY newFolderCmd.label "ਫੋਲਡਰ…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd.label "Close Tab">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Close Other Tabs">
-<!ENTITY closeOtherTabsCmd.accesskey "L">
-<!ENTITY newVirtualFolderCmd.label "Saved Search…">
+<!ENTITY closeTabCmd2.label "ਟੈਬ ਬੰਦ ਕਰੋ">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "ਹੋਰ ਟੈਬਾਂ ਬੰਦ ਕਰੋ">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ">
+<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY newVirtualFolderCmd.label "ਖੋਜ ਸੰਭਾਲੋ…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
+<!ENTITY newOtherAccountsCmd.label "ਹੋਰ ਅਕਾਊਂਟ…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "Mail Account…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
-<!ENTITY openMessageFileCmd.label "Open Saved Message…">
+<!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Chat Account…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY openMessageFileCmd.label "ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Attachments">
+<!ENTITY openAttachmentCmd.label "ਅਟੈਚਮੈਂਟ">
 <!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsMenu.label "Save As">
+<!ENTITY saveAsMenu.label "ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "File">
+<!ENTITY saveAsFileCmd.label "ਫਾਇਲ">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
-<!ENTITY saveAsTemplateCmd.label "Template">
+<!ENTITY saveAsTemplateCmd.label "ਟੈਪਲੇਟ">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "Get New Messages for">
+<!ENTITY getNewMsgForCmd.label "ਨਵੇਂ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "ਸਭ ਅਕਾਊਂਟ">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "ਮੌਜੂਦਾ ਅਕਾਊਂਟ">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
+<!ENTITY getNextNMsgCmd.label "ਅਗਲੇ 500 ਨਿਊਜ਼ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY getNextNMsgCmd.accesskey "t">
-<!ENTITY sendUnsentCmd.label "Send Unsent Messages">
+<!ENTITY sendUnsentCmd.label "ਨਾ-ਭੇਜੇ ਸੁਨੇਹੇ ਭੇਜੋ">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<!ENTITY subscribeCmd.label "Subscribe…">
+<!ENTITY subscribeCmd.label "ਮੈਂਬਰ ਬਣੋ…">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "Delete Folder">
+<!ENTITY deleteFolder.label "ਫੋਲਡਰ ਹਟਾਓ">
 <!ENTITY deleteFolder.accesskey "e">
-<!ENTITY renameFolder.label "Rename Folder…">
+<!ENTITY renameFolder.label "ਫੋਲਡਰ ਨਾਂ ਬਦਲੋ…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "Compact Folders">
+<!ENTITY compactFolders.label "ਫੋਲਡਰ ਸੁੰਘੜੋ">
 <!ENTITY compactFolders.accesskey    "F">
-<!ENTITY emptyTrashCmd.label "Empty Trash">
+<!ENTITY emptyTrashCmd.label "ਰੱਦੀ ਖਾਲੀ ਕਰੋ">
 <!ENTITY emptyTrashCmd.accesskey    "y">
-<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.label "ਆਫਲਾਈਨ">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Work Offline">
+<!ENTITY offlineGoOfflineCmd.label "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
-<!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
+<!ENTITY synchronizeOfflineCmd.label "ਹੁਣੇ ਡਾਊਨਲੋਡ/ਸਿੰਕ ਕਰੋ…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Offline Settings…">
+<!ENTITY settingsOfflineCmd.label "ਆਫਲਾਈਨ ਸੈਟਿੰਗ…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "Get Selected Messages">
+<!ENTITY downloadSelectedCmd.label "ਚੁਣੇ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Get Starred Messages">
+<!ENTITY downloadStarredCmd.label "ਤਾਰਾ ਲੱਗੇ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY downloadStarredCmd.accesskey "a">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.label "ਪ੍ਰਿੰਟ ਕਰੋ…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "ਪ੍ਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.label "ਸਫ਼ਾ ਸੈਟਅੱਪ…">
 <!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Delete Message">
+<!ENTITY deleteMsgCmd.label "ਸੁਨੇਹਾ ਹਟਾਓ">
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY undeleteMsgCmd.label "Undelete Message">
 <!ENTITY undeleteMsgCmd.accesskey "d">
@@ -77,24 +90,24 @@
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "Undelete Selected Messages">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY deleteFolderCmd.label "Delete Folder">
+<!ENTITY deleteFolderCmd.label "ਫੋਲਡਰ ਹਟਾਓ">
 <!ENTITY deleteFolderCmd.accesskey "D">
-<!ENTITY unsubscribeNewsgroupCmd.label "Unsubscribe">
+<!ENTITY unsubscribeNewsgroupCmd.label "ਮੈਂਬਰੀ ਹਟਾਓ">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
-<!ENTITY selectMenu.label "Select">
+<!ENTITY selectMenu.label "ਚੁਣੋ">
 <!ENTITY selectMenu.accesskey "S">
-<!ENTITY all.label "All">
+<!ENTITY all.label "ਸਭ">
 <!ENTITY all.accesskey "A">
-<!ENTITY selectThreadCmd.label "Thread">
+<!ENTITY selectThreadCmd.label "ਥਰਿੱਡ">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Starred Messages">
+<!ENTITY selectFlaggedCmd.label "ਤਾਰਾ ਲਗਾਏ ਸੁਨੇਹੇ">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Favorite Folder">
+<!ENTITY menuFavoriteFolder.label "ਪਸੰਦੀਦਾ ਫੋਲਡਰ">
 <!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd.label "Properties…">
-<!ENTITY folderPropsFolderCmd.label "Folder Properties…">
-<!ENTITY folderPropsNewsgroupCmd.label "Newsgroup Properties…">
+<!ENTITY folderPropsCmd.label "ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY folderPropsFolderCmd.label "ਫੋਲਡਰ ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY folderPropsNewsgroupCmd.label "ਨਿਊਜ਼ਗਰੁੱਪ ਵਿਸ਼ੇਸ਼ਤਾ…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Undo Delete Message">
 <!ENTITY redoDeleteMsgCmd.label "Redo Delete Message">
@@ -104,128 +117,134 @@
 <!ENTITY redoCopyMsgCmd.label "Redo Copy Message">
 <!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
 <!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
-<!ENTITY undoDefaultCmd.label "Undo">
+<!ENTITY undoDefaultCmd.label "ਵਾਪਸ ਲਵੋ">
 <!ENTITY undoDefaultCmd.accesskey "U">
-<!ENTITY redoDefaultCmd.label "Redo">
+<!ENTITY redoDefaultCmd.label "ਫੇਰ ਪਰਤਾਓ">
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Mail Toolbar">
+<!ENTITY menubarCmd.label "ਮੇਨੂ ਪੱਟੀ">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "ਮੇਲ ਟੂਲਬਾਰ">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
-<!ENTITY customizeToolbar.label "Customize…">
+<!ENTITY customizeToolbar.label "ਕਸਟਮਾਈਜ਼…">
 <!ENTITY customizeToolbar.accesskey "C">
 
-<!ENTITY messagePaneLayoutStyle.label "Layout">
+<!ENTITY messagePaneLayoutStyle.label "ਲੇਆਉਟ">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
-<!ENTITY messagePaneClassic.label "Classic View">
+<!ENTITY messagePaneClassic.label "ਕਲਾਸਿਕ ਝਲਕ">
 <!ENTITY messagePaneClassic.accesskey "C">
-<!ENTITY messagePaneWide.label "Wide View">
+<!ENTITY messagePaneWide.label "ਚੌੜੀ ਝਲਕ">
 <!ENTITY messagePaneWide.accesskey "W">
-<!ENTITY messagePaneVertical.label "Vertical View">
+<!ENTITY messagePaneVertical.label "ਖੜਵੀਂ ਝਲਕ">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showFolderPaneCmd.label "ਫੋਲਡਰ ਬਾਹੀ">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showMessageCmd.label "ਸੁਨੇਹਾ ਭਾਗ">
 <!ENTITY showMessageCmd.accesskey "M">
 
-<!ENTITY folderView.label "Folders">
+<!ENTITY folderView.label "ਫੋਲਡਰ">
 <!ENTITY folderView.accesskey "F">
 <!ENTITY unifiedFolders.label "Unified">
 <!ENTITY unifiedFolders.accesskey "n">
-<!ENTITY allFolders.label "All">
+<!ENTITY allFolders.label "ਸਭ">
 <!ENTITY allFolders.accesskey "A">
-<!ENTITY unreadFolders.label "Unread">
+<!ENTITY unreadFolders.label "ਨਾ-ਪੜ੍ਹੇ">
 <!ENTITY unreadFolders.accesskey "U">
-<!ENTITY favoriteFolders.label "Favorite">
+<!ENTITY favoriteFolders.label "ਪਸੰਦੀਦਾ">
 <!ENTITY favoriteFolders.accesskey "F">
-<!ENTITY recentFolders.label "Recent">
+<!ENTITY recentFolders.label "ਤਾਜ਼ਾ">
 <!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "Sort by">
+<!ENTITY sortMenu.label "ਲੜੀਬੱਧ">
 <!ENTITY sortMenu.accesskey "S">
-<!ENTITY sortByDateCmd.label "Date">
+<!ENTITY sortByDateCmd.label "ਮਿਤੀ">
 <!ENTITY sortByDateCmd.accesskey "e">
-<!ENTITY sortByReceivedCmd.label "Received">
+<!ENTITY sortByReceivedCmd.label "ਪ੍ਰਾਪਤੀ">
 <!ENTITY sortByReceivedCmd.accesskey "v">
-<!ENTITY sortByStarCmd.label "Star">
+<!ENTITY sortByStarCmd.label "ਤਾਰਾ">
 <!ENTITY sortByStarCmd.accesskey "S">
-<!ENTITY sortByAttachmentsCmd.label "Attachments">
+<!ENTITY sortByAttachmentsCmd.label "ਅਟੈਚਮੈਂਟ">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
-<!ENTITY sortByPriorityCmd.label "Priority">
+<!ENTITY sortByPriorityCmd.label "ਤਰਜੀਹ">
 <!ENTITY sortByPriorityCmd.accesskey "P">
-<!ENTITY sortBySizeCmd.label "Size">
+<!ENTITY sortBySizeCmd.label "ਆਕਾਰ">
 <!ENTITY sortBySizeCmd.accesskey "z">
-<!ENTITY sortByStatusCmd.label "Status">
+<!ENTITY sortByStatusCmd.label "ਹਾਲਤ">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Tags">
+<!ENTITY sortByTagsCmd.label "ਟੈਗ">
 <!ENTITY sortByTagsCmd.accesskey "g">
-<!ENTITY sortByJunkStatusCmd.label "Junk Status">
+<!ENTITY sortByJunkStatusCmd.label "ਜੰਕ ਹਾਲਤ">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
-<!ENTITY sortBySubjectCmd.label "Subject">
+<!ENTITY sortBySubjectCmd.label "ਵਿਸ਼ਾ">
 <!ENTITY sortBySubjectCmd.accesskey "b">
-<!ENTITY sortByFromCmd.label "From">
+<!ENTITY sortByFromCmd.label "ਵਲੋਂ">
 <!ENTITY sortByFromCmd.accesskey "F">
-<!ENTITY sortByRecipientCmd.label "Recipient">
+<!ENTITY sortByRecipientCmd.label "ਪ੍ਰਾਪਤ ਕਰਤਾ">
 <!ENTITY sortByRecipientCmd.accesskey "c">
-<!ENTITY sortByUnreadCmd.label "Read">
+<!ENTITY sortByUnreadCmd.label "ਪੜ੍ਹੇ">
 <!ENTITY sortByUnreadCmd.accesskey "R">
-<!ENTITY sortByOrderReceivedCmd.label "Order Received">
+<!ENTITY sortByOrderReceivedCmd.label "ਪ੍ਰਾਪਤੀ ਕ੍ਰਮ">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
-<!ENTITY sortAscending.label "Ascending">
+<!ENTITY sortAscending.label "ਵੱਧਦਾ ਕ੍ਰਮ">
 <!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "Descending">
+<!ENTITY sortDescending.label "ਘੱਟਦਾ ਕ੍ਰਮ">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "Threaded">
+<!ENTITY sortThreaded.label "ਥਰਿੱਡ">
 <!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "Unthreaded">
+<!ENTITY sortUnthreaded.label "ਬਿਨ-ਥਰਿੱਡ">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "Grouped By Sort">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY msgsMenu.label "Messages">
+<!ENTITY msgsMenu.label "ਸੁਨੇਹੇ">
 <!ENTITY msgsMenu.accesskey "M">
-<!ENTITY threads.label "Threads">
+<!ENTITY threads.label "ਥਰਿੱਡ">
 <!ENTITY threads.accesskey "e">
-<!ENTITY allMsgsCmd.label "All">
+<!ENTITY allMsgsCmd.label "ਸਭ">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "Expand All Threads">
+<!ENTITY expandAllThreadsCmd.label "ਸਭ ਥਰਿੱਡ ਫੈਲਾਓ">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Collapse All Threads">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Unread">
+<!ENTITY unreadMsgsCmd.label "ਨਾ-ਪੜ੍ਹੇ">
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "Threads with Unread">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "Ignored Threads">
+<!ENTITY ignoredThreadsCmd.label "ਅਣਡਿੱਠੇ ਕੀਤੇ ਥਰਿੱਡ">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
-<!ENTITY headersMenu.label "Headers">
+<!ENTITY headersMenu.label "ਹੈੱਡਰ">
 <!ENTITY headersMenu.accesskey "H">
-<!ENTITY headersAllCmd.label "All">
+<!ENTITY headersAllCmd.label "ਸਭ">
 <!ENTITY headersAllCmd.accesskey "A">
-<!ENTITY headersNormalCmd.label "Normal">
+<!ENTITY headersNormalCmd.label "ਸਧਾਰਨ">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Message Body As">
+<!ENTITY bodyMenu.label "ਸੁਨੇਹਾ ਮੁੱਖ ਭਾਗ">
 <!ENTITY bodyMenu.accesskey "B">
-<!ENTITY bodyAllowHTML.label "Original HTML">
+<!ENTITY bodyAllowHTML.label "ਅਸਲੀ HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
-<!ENTITY bodySanitized.label "Simple HTML">
+<!ENTITY bodySanitized.label "ਸਧਾਰਨ HTML">
 <!ENTITY bodySanitized.accesskey "S">
-<!ENTITY bodyAsPlaintext.label "Plain Text">
+<!ENTITY bodyAsPlaintext.label "ਪਲੇਨ ਟੈਕਸਟ">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "ਸਭ ਮੁੱਖ ਭਾਗ">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feed Message Body As">
 <!ENTITY bodyMenuFeed.accesskey "B">
-<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.label "ਵੈੱਬ ਸਫ਼ਾ">
 <!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.label "ਸੰਖੇਪ">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "ਡਿਫਾਲਟ ਫਾਰਮੈਟ">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Display Attachments Inline">
+<!ENTITY viewAttachmentsInlineCmd.label "ਅਟੈਚਮੈਂਟ ਇਨਲਾਈਨ ਵੇਖਾਓ">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
 <!-- LOCALIZATION NOTE :
@@ -234,152 +253,159 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Zoom In">
+<!ENTITY fullZoomEnlargeCmd.label       "ਜ਼ੂਮ ਇਨ">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zoom Out">
+<!ENTITY fullZoomReduceCmd.label        "ਜ਼ੂਮ ਆਉਟ">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.label         "ਮੁੜ-ਸੈੱਟ">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom Text Only">
+<!ENTITY fullZoomToggleCmd.label        "ਕੇਵਲ ਟੈਕਸਟ ਹੀ ਜ਼ੂਮ ਕਰੋ">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.label                 "ਜ਼ੂਮ">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY pageSourceCmd.label "Message Source">
+<!ENTITY pageSourceCmd.label "ਸੁਨੇਹਾ ਸਰੋਤ">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
-<!ENTITY findMenu.label "Find">
+<!ENTITY findMenu.label "ਖੋਜ">
 <!ENTITY findMenu.accesskey "F">
-<!ENTITY findCmd.label "Find in This Message…">
+<!ENTITY findCmd.label "ਇਹ ਸੁਨੇਹੇ ਵਿੱਚ ਲੱਭੋ…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Find Again">
+<!ENTITY findAgainCmd.label "ਮੁੜ ਲੱਭੋ">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Search Messages…">
+<!ENTITY searchMailCmd.label "ਸੁਨੇਹੇ ਲੱਭੋ…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Search Addresses…">
+<!ENTITY searchAddressesCmd.label "ਐਡਰੈਸ ਲੱਭੋ…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Go">
+<!ENTITY goMenu.label "ਜਾਓ">
 <!ENTITY goMenu.accesskey "G">
-<!ENTITY nextMenu.label "Next">
+<!ENTITY nextMenu.label "ਅੱਗੇ">
 <!ENTITY nextMenu.accesskey "N">
-<!ENTITY nextMsgCmd.label "Message">
+<!ENTITY nextMsgCmd.label "ਸੁਨੇਹਾ">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Unread Message">
+<!ENTITY nextUnreadMsgCmd.label "ਨਾ-ਪੜ੍ਹਿਆ ਸੁਨੇਹਾ">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Starred Message">
+<!ENTITY nextStarredMsgCmd.label "ਤਾਰਾ ਲੱਗਾ ਸੁਨੇਹਾ">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "Unread Thread">
+<!ENTITY nextUnreadThread.label "ਨਾ-ਪੜ੍ਹੇ ਥਰੈੱਡ">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "Previous">
+<!ENTITY prevMenu.label "ਪਿੱਛੇ">
 <!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "Message">
+<!ENTITY prevMsgCmd.label "ਸੁਨੇਹਾ">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Unread Message">
+<!ENTITY prevUnreadMsgCmd.label "ਨਾ-ਪੜ੍ਹੇ ਸੁਨੇਹਾ">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Forward">
+<!ENTITY goForwardCmd.label "ਅੱਗੇ">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "Back">
+<!ENTITY goBackCmd.label "ਪਿੱਛੇ">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Starred Message">
+<!ENTITY goChatCmd.label "ਗੱਲਬਾਤ">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY prevStarredMsgCmd.label "ਤਾਰੇ ਵਾਲਾ ਸੁਨੇਹਾ">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
-<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.label "ਫੋਲਡਰ">
 <!ENTITY folderMenu.accesskey "O">
-<!ENTITY thisFolder.label "This Folder">
+<!ENTITY thisFolder.label "ਇਹ ਫੋਲਡਰ">
 <!ENTITY thisFolder.accesskey "F">
-<!ENTITY startPageCmd.label "Mail Start Page">
+<!ENTITY goRecentlyClosedTabs.label "ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
+<!ENTITY startPageCmd.label "ਮੇਲ ਸ਼ੁਰੂਆਤੀ ਸਫ਼ਾ">
 <!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
-<!ENTITY msgMenu.label "Message">
+<!ENTITY msgMenu.label "ਸੁਨੇਹਾ">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "New Message">
+<!ENTITY newMsgCmd.label "ਨਵਾਂ ਸੁਨੇਹਾ">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "Message">
+<!ENTITY newNewMsgCmd.label "ਸੁਨੇਹਾ">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.label "ਅਕਾਇਵ">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
-<!ENTITY cancelNewsMsgCmd.label "Cancel Message">
+<!ENTITY cancelNewsMsgCmd.label "ਸੁਨੇਹਾ ਰੱਦ ਕਰੋ">
 <!ENTITY cancelNewsMsgCmd.accesskey "C">
-<!ENTITY replyMsgCmd.label "Reply">
+<!ENTITY replyMsgCmd.label "ਜਵਾਬ">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
-<!ENTITY replySenderCmd.label "Reply to Sender Only">
+<!ENTITY replySenderCmd.label "ਕੇਵਲ ਭੇਜਣ ਵਾਲੇ ਨੂੰ ਜਵਾਬ">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Reply to Newsgroup">
+<!ENTITY replyNewsgroupCmd.label "ਨਿਊਜ਼ਗਰੁੱਪ ਲਈ ਜਵਾਬ">
 <!ENTITY replyNewsgroupCmd.accesskey  "y">
-<!ENTITY replyToAllMsgCmd.label "Reply to All">
+<!ENTITY replyToAllMsgCmd.label "ਸਭ ਨੂੰ ਜਵਾਬ">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
-<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.label "ਲਿਸਟ ਨੂੰ ਜਵਾਬ">
 <!ENTITY replyToListMsgCmd.accesskey  "L">
 <!ENTITY replyToListMsgCmd.key  "l">
-<!ENTITY forwardMsgCmd.label "Forward">
+<!ENTITY forwardMsgCmd.label "ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
-<!ENTITY forwardAsMenu.label "Forward As">
+<!ENTITY forwardAsMenu.label "ਅੱਗੇ ਇੰਝ ਭੇਜੋ">
 <!ENTITY forwardAsMenu.accesskey "w">
-<!ENTITY forwardAsInline.label "Inline">
+<!ENTITY forwardAsInline.label "ਲਾਈਨ ਵਿੱਚ">
 <!ENTITY forwardAsInline.accesskey "I">
-<!ENTITY forwardAsAttachmentCmd.label "Attachment">
+<!ENTITY forwardAsAttachmentCmd.label "ਅਟੈਚਮੈਂਟ ਵਜੋਂ">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "Edit Message As New">
+<!ENTITY editMsgAsNewCmd.label "ਸੁਨੇਹੇ ਨੂੰ ਨਵੇਂ ਵਜੋਂ ਸੋਧੋ">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Create Filter From Message…">
+<!ENTITY createFilter.label "…ਸੁਨੇਹੇ ਤੋਂ ਫਿਲਟਰ ਬਣਾਓ">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY moveMsgToMenu.label "ਇੱਥੇ ਭੇਜੋ">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "Recent">
+<!ENTITY moveCopyMsgRecentMenu.label "ਤਾਜ਼ਾ">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY copyMessageLocation.label "Copy Message Location">
+<!ENTITY copyMessageLocation.label "ਸੁਨੇਹਾ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY copyMsgToMenu.label "ਇੱਥੇ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyMsgToMenu.accesskey "C">
-<!ENTITY moveToFolderAgain.label "Move Again">
+<!ENTITY moveToFolderAgain.label "ਫੇਰ ਭੇਜੋ">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Ignore Thread">
+<!ENTITY killThreadMenu.label "ਥਰਿੱਡ ਅਣਡਿੱਠਾ">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
+<!ENTITY killSubthreadMenu.label "ਅਧੀਨ-ਥਰਿੱਡ ਅਣਡਿੱਠਾ ਕਰੋ">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Watch Thread">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "File Here">
+<!ENTITY fileHereMenu.label "ਇੱਥੇ ਫਾਇਲ ਕਰੋ">
 <!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "Copy Here">
+<!ENTITY copyHereMenu.label "ਇੱਥੇ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyHereMenu.accesskey "C">
-<!ENTITY tagMenu.label "Tag">
+<!ENTITY tagMenu.label "ਟੈਗ">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -391,225 +417,237 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
-<!ENTITY markMenu.label "Mark">
+<!ENTITY markMenu.label "ਨਿਸ਼ਾਨ">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY markAsReadCmd.label "As Read">
+<!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsReadCmd.label "ਪੜ੍ਹੇ ਵਜੋਂ">
 <!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsReadCmd.key "m">
-<!ENTITY markThreadAsReadCmd.label "Thread As Read">
+<!ENTITY markAsUnreadCmd.label "ਨਾ-ਪੜ੍ਹੇ ਵਜੋਂ">
+<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markThreadAsReadCmd.label "ਥਰਿੱਡ ਪੜ੍ਹੇ ਵਜੋਂ">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "As Read by Date…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "All Read">
+<!ENTITY markAllReadCmd.label "ਸਭ ਪੜ੍ਹੇ">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Add Star">
+<!ENTITY markStarredCmd.label "ਤਾਰਾ ਲਗਾਓ">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "As Junk">
+<!ENTITY markAsJunkCmd.label "ਜੰਕ ਵਜੋਂ">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "As Not Junk">
+<!ENTITY markAsNotJunkCmd.label "ਜੰਕ ਨਹੀਂ ਵਜੋਂ">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Run Junk Mail Controls">
+<!ENTITY recalculateJunkScoreCmd.label "ਜੰਕ ਮੇਲ ਕੰਟਰੋਲ ਚਲਾਓ">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
-<!ENTITY openMessageWindowCmd.label "Open Message">
+<!ENTITY openMessageWindowCmd.label "ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Open in Conversation">
+<!ENTITY openConversationCmd.label "ਗੱਲਬਾਤ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.label "ਫੀਡ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ">
 <!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.label "ਵੈੱਬ ਸਫ਼ਾ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.label "ਸੰਖੇਪ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ">
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.label "ਸੁਨੇਹਾ ਹਿੱਸੇ ਵਿੱਚ ਵੈੱਬ ਸਫ਼ਾ ਅਤੇ ਸੰਖੇਪ ਨੂੰ ਬਦਲੋ">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
-<!ENTITY windowMenu.label "Window">
+<!ENTITY windowMenu.label "ਵਿੰਡੋ">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Tools">
+<!ENTITY tasksMenu.label "ਟੂਲ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.label "ਮੇਲ &amp; ਨਿਊਜ਼ਗਰੁੱਪ">
 <!ENTITY messengerCmd.accesskey "N">
-<!ENTITY addressBookCmd.label "Address Book">
+<!ENTITY addressBookCmd.label "ਐਡਰੈੱਸ ਬੁੱਕ">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "A">
-<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.label "ਸਰਗਰਮੀ ਮੈਨੇਜਰ">
 <!ENTITY activitymanager.accesskey "v">
-<!ENTITY savedFiles.label "Saved Files">
+<!ENTITY imAccountsStatus.label "ਗੱਲਬਾਤ ਸਥਿਤੀ">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "ਉਪਲੱਬਧ">
+<!ENTITY imStatus.unavailable        "ਨਾ-ਉਪਲੱਬਧ">
+<!ENTITY imStatus.offline            "ਆਫਲਾਈਨ">
+<!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
+<!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
+<!ENTITY savedFiles.label "ਸੰਭਾਲੀਆਂ ਫਾਇਲਾਂ">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Message Filters…">
+<!ENTITY filtersCmd.label "ਸੁਨੇਹਾ ਫਿਲਟਰ…">
 <!ENTITY filtersCmd.accesskey "F">
-<!ENTITY filtersApply.label "Run Filters on Folder">
+<!ENTITY filtersApply.label "ਫੋਲਡਰ ਉੱਤੇ ਫਿਲਟਰ ਚਲਾਓ">
 <!ENTITY filtersApply.accesskey "R">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.label "ਚੁਣੇ ਸੁਨੇਹਿਆਂ ਉੱਤੇ ਫਿਲਟਰ ਚਲਾਓ">
 <!ENTITY filtersApplyToSelection.accesskey "u">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToMessage.label "ਸੁਨੇਹੇ ਉੱਤੇ ਫਿਲਟਰ ਚਲਾਓ">
 <!ENTITY filtersApplyToMessage.accesskey "u">
-<!ENTITY runJunkControls.label "Run Junk Mail Controls on Folder">
+<!ENTITY runJunkControls.label "ਫੋਲਡਰ ਉੱਤੇ ਜੰਕ ਮੇਲ ਕੰਟਰੋਲ ਚਲਾਓ">
 <!ENTITY runJunkControls.accesskey "C">
-<!ENTITY deleteJunk.label "Delete Mail Marked as Junk in Folder">
+<!ENTITY deleteJunk.label "ਫੋਲਡਰ ਵਿੱਚ ਜੰਕ ਵਜੋਂ ਨਿਸ਼ਾਨਬੱਧ ਮੇਲ ਹਟਾਓ">
 <!ENTITY deleteJunk.accesskey "D">
-<!ENTITY importCmd.label "Import…">
+<!ENTITY importCmd.label "ਇੰਪੋਰਟ ਕਰੋ…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.label "ਗਲਤੀ ਕਨਸੋਲ">
 <!ENTITY errorConsoleCmd.accesskey "E">
-<!ENTITY accountManagerCmd.label "Account Settings…">
+<!ENTITY accountManagerCmd.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Get Mail">
-<!ENTITY newMsgButton.label "Write">
-<!ENTITY replyButton.label "Reply">
-<!ENTITY replyAllButton.label "Reply All">
-<!ENTITY replyListButton.label "Reply to List">
-<!ENTITY forwardButton.label "Forward">
-<!ENTITY fileButton.label "File">
-<!ENTITY archiveButton.label "Archive">
-<!ENTITY nextButton.label "Next">
-<!ENTITY previousButton.label "Previous">
-<!ENTITY backButton1.label "Back">
-<!ENTITY goForwardButton1.label "Forward">
-<!ENTITY deleteButton.label "Delete">
-<!ENTITY undeleteButton.label "Undelete">
-<!ENTITY markButton.label "Mark">
-<!ENTITY printButton.label "Print">
-<!ENTITY stopButton.label "Stop">
-<!ENTITY throbberItem.title "Activity Indicator">
-<!ENTITY junkButton.label "Junk">
-<!ENTITY notJunkButton.label "Not Junk">
-<!ENTITY addressBookButton.label "Address Book">
-<!ENTITY glodaSearch.title "Global Search">
-<!ENTITY searchItem.title "Quick Search">
-<!ENTITY mailViewsToolbarItem.title "Mail Views">
-<!ENTITY folderLocationToolbarItem.title "Folder Location">
-<!ENTITY tagButton.label "Tag">
-<!ENTITY compactButton.label "Compact">
+<!ENTITY getMsgButton.label "ਮੇਲ ਲਵੋ">
+<!ENTITY newMsgButton.label "ਲਿਖੋ">
+<!ENTITY replyButton.label "ਜਵਾਬ">
+<!ENTITY replyAllButton.label "ਸਭ ਨੂੰ ਜਵਾਬ">
+<!ENTITY replyListButton.label "ਲਿਸਟ ਨੂੰ ਜਵਾਬ">
+<!ENTITY forwardButton.label "ਅੱਗੇ ਭੇਜੋ">
+<!ENTITY fileButton.label "ਫਾਇਲ">
+<!ENTITY archiveButton.label "ਅਕਾਇਵ">
+<!ENTITY nextButton.label "ਅੱਗੇ">
+<!ENTITY previousButton.label "ਪਿੱਛੇ">
+<!ENTITY backButton1.label "ਪਿੱਛੇ">
+<!ENTITY goForwardButton1.label "ਅੱਗੇ">
+<!ENTITY deleteItem.title "ਹਟਾਓ">
+<!ENTITY deleteButton.label "ਹਟਾਓ">
+<!ENTITY undeleteButton.label "ਹਟਾਉਣਾ ਰੱਦ ਕਰੋ">
+<!ENTITY markButton.label "ਨਿਸ਼ਾਨਬੱਧ">
+<!ENTITY printButton.label "ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY stopButton.label "ਰੋਕੋ">
+<!ENTITY throbberItem.title "ਸਰਗਰਮੀ ਇੰਡੀਕੇਟਰ">
+<!ENTITY junkItem.title "ਜੰਕ">
+<!ENTITY junkButton.label "ਜੰਕ">
+<!ENTITY notJunkButton.label "ਜੰਕ ਨਹੀਂ">
+<!ENTITY addressBookButton.label "ਐਡਰੈੱਸ ਬੁੱਕ">
+<!ENTITY chatButton.label "ਗੱਲਬਾਤ">
+<!ENTITY glodaSearch.title "ਗਲੋਬਲ ਖੋਜ">
+<!ENTITY searchItem.title "ਤੁਰੰਤ ਖੋਜ">
+<!ENTITY mailViewsToolbarItem.title "ਮੇਲ ਝਲਕ">
+<!ENTITY folderLocationToolbarItem.title "ਫੋਲਡਰ ਟਿਕਾਣਾ">
+<!ENTITY tagButton.label "ਟੈਗ">
+<!ENTITY compactButton.label "ਸੰਖੇਪ">
 
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "Advanced message search">
-<!ENTITY getMsgButton.tooltip "Get new messages">
-<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
+<!ENTITY advancedButton.tooltip "ਤਕਨੀਕੀ ਸੁਨੇਹਾ ਖੋਜ">
+<!ENTITY getMsgButton.tooltip "ਨਵੇਂ ਸੁਨੇਹੇ ਲਵੋ">
+<!ENTITY getAllNewMsgCmd.label "ਸਭ ਨਵੇਂ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "t">
-<!ENTITY newMsgButton.tooltip "Create a new message">
-<!ENTITY replyButton.tooltip "Reply to the message">
-<!ENTITY replyAllButton.tooltip "Reply to sender and all recipients">
-<!ENTITY replyListButton.tooltip "Reply to mailing list">
-<!ENTITY forwardButton.tooltip "Forward selected message">
-<!ENTITY fileButton.tooltip "File selected message">
-<!ENTITY archiveButton.tooltip "Archive selected messages">
+<!ENTITY newMsgButton.tooltip "ਨਵਾਂ ਸੁਨੇਹਾ ਬਣਾਓ">
+<!ENTITY replyButton.tooltip "ਸੁਨੇਹੇ ਨੂੰ ਜਵਾਬ ਦਿਓ">
+<!ENTITY replyAllButton.tooltip "ਭੇਜਣ ਵਾਲੇ ਅਤੇ ਸਭ ਪ੍ਰਾਪਤ ਕਰਤਾ ਨੂੰ ਜਵਾਬ ਦਿਓ">
+<!ENTITY replyListButton.tooltip "ਮੇਲਿੰਗ ਲਿਸਟ ਨੂੰ ਜਵਾਬ ਦਿਓ">
+<!ENTITY forwardButton.tooltip "ਚੁਣਿਆ ਸੁਨੇਹਾ ਅੱਗੇ ਭੇਜੋ">
+<!ENTITY fileButton.tooltip "ਚੁਣਿਆ ਸੁਨੇਹਾ ਫਾਇਲ ਕਰੋ">
+<!ENTITY archiveButton.tooltip "ਚੁਣੇ ਸੁਨੇਹੇ ਨੂੰ ਅਕਾਇਵ ਬਣਾਓ">
 <!ENTITY nextButton.tooltip "Move to the next unread message">
 <!ENTITY previousButton.tooltip "Move to the previous unread message">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
 <!ENTITY deleteButton.tooltip "Delete selected message or folder">
 <!ENTITY undeleteButton.tooltip "Undelete selected message">
-<!ENTITY markButton.tooltip "Mark messages">
-<!ENTITY printButton.tooltip "Print this message">
-<!ENTITY stopButton.tooltip "Stop the current transfer">
+<!ENTITY markButton.tooltip "ਸੁਨੇਹੇ ਨਿਸ਼ਾਨਬੱਧ">
+<!ENTITY printButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਪ੍ਰਿੰਟ ਕਰੋ">
+<!ENTITY stopButton.tooltip "ਮੌਜੂਦਾ ਟਰਾਂਸਫਰ ਰੋਕੋ">
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
-<!ENTITY addressBookButton.tooltip "Go to the address book">
-<!ENTITY tagButton.tooltip "Tag messages">
-<!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
+<!ENTITY addressBookButton.tooltip "ਐਡਰੈਸ ਬੁੱਕ ਉੱਤੇ ਜਾਓ">
+<!ENTITY chatButton.tooltip "ਗੱਲਬਾਤ ਟੈਬ ਵੇਖਾਓ">
+<!ENTITY tagButton.tooltip "ਸੁਨੇਹੇ ਟੈਗ ਕਰੋ">
+<!ENTITY compactButton.tooltip "ਚੁਣੇ ਫੋਲਡਰ ਤੋਂ ਹਟਾਏ ਗਏ ਸੁਨੇਹੇ ਹਟਾਓ">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "New Tag…">
+<!ENTITY addNewTag.label "ਨਵਾਂ ਟੈਗ…">
 <!ENTITY addNewTag.accesskey "N">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Name">
-<!ENTITY folderSizeColumn.label "Size">
+<!ENTITY folderColumn.label "ਨਾਂ">
+<!ENTITY folderSizeColumn.label "ਅਕਾਰ">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Get Messages">
+<!ENTITY folderContextGetMessages.label "ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextOpenNewWindow.label "Open">
+<!ENTITY folderContextOpenNewWindow.label "ਖੋਲ੍ਹੋ">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "Open in New Tab">
+<!ENTITY folderContextOpenNewTab.label "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
-<!ENTITY folderContextNew.label "New Subfolder…">
+<!ENTITY folderContextNew.label "ਨਵਾਂ ਸਬ-ਫੋਲਡਰ…">
 <!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextRename.label "Rename">
+<!ENTITY folderContextRename.label "ਨਾਂ ਬਦਲੋ">
 <!ENTITY folderContextRename.accesskey "R">
-<!ENTITY folderContextRemove.label "Delete">
+<!ENTITY folderContextRemove.label "ਹਟਾਓ">
 <!ENTITY folderContextRemove.accesskey "D">
 <!ENTITY folderContextCompact.label "Compact">
 <!ENTITY folderContextCompact.accesskey "C">
-<!ENTITY folderContextEmptyTrash.label "Empty Trash">
+<!ENTITY folderContextEmptyTrash.label "ਰੱਦੀ ਖਾਲੀ ਕਰੋ">
 <!ENTITY folderContextEmptyTrash.accesskey "y">
-<!ENTITY folderContextEmptyJunk.label "Empty Junk">
+<!ENTITY folderContextEmptyJunk.label "ਜੰਕ ਖਾਲੀ ਕਰੋ">
 <!ENTITY folderContextEmptyJunk.accesskey "J">
-<!ENTITY folderContextSendUnsentMessages.label "Send Unsent Messages">
+<!ENTITY folderContextSendUnsentMessages.label "ਨਾ-ਭੇਜੇ ਗਏ ਸੁਨੇਹੇ ਭੇਜੋ">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "Unsubscribe">
+<!ENTITY folderContextUnsubscribe.label "ਮੈਂਬਰੀ ਹਟਾਓ">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
 <!ENTITY folderContextMarkNewsgroupRead.label "Mark Newsgroup Read">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "Mark Folder Read">
+<!ENTITY folderContextMarkMailFolderRead.label "ਫੋਲਡਰ ਪੜ੍ਹਿਆ ਬਣਾਓ">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
-<!ENTITY folderContextSubscribe.label "Subscribe…">
+<!ENTITY folderContextSubscribe.label "ਮੈਂਬਰ ਬਣੋ…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Search…">
-<!ENTITY folderContextSearchMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Properties…">
+<!ENTITY folderContextSearchForMessages.label "Search Messages…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextProperties.label "ਵਿਸ਼ੇਸ਼ਤਾ…">
 <!ENTITY folderContextProperties.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
+<!ENTITY folderContextFavoriteFolder.label "ਪਸੰਦੀਦਾ ਫੋਲਡਰ">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Settings…">
+<!ENTITY folderContextSettings.label "ਸੈਟਿੰਗ…">
 <!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Name or Email contains:">
+<!ENTITY SearchNameOrEmail.label "ਨਾਂ ਜਾਂ ਈਮੇਲ ਰੱਖਦਾ ਹੈ:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Search messages…">
+<!ENTITY glodaSearchBar.placeholder "ਸੁਨੇਹੇ ਖੋਜੋ…">
 
 <!-- Quick Search Menu Bar -->
-<!ENTITY searchSubjectMenu.label "Subject">
-<!ENTITY searchFromMenu.label "From">
-<!ENTITY searchSubjectOrFromMenu.label "Subject or From">
-<!ENTITY searchRecipient.label "To or Cc">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
-<!ENTITY searchMessageBody.label "Entire Message">
-<!ENTITY saveAsVirtualFolderMenu.label "Save Search as a Folder…">
+<!ENTITY searchSubjectMenu.label "ਵਿਸ਼ਾ">
+<!ENTITY searchFromMenu.label "ਵਲੋਂ">
+<!ENTITY searchSubjectOrFromMenu.label "ਵਿਸ਼ਾ ਜਾਂ ਵਲੋਂ">
+<!ENTITY searchRecipient.label "ਵੱਲ ਜਾਂ Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "ਵਿਸ਼ਾ, ਵੱਲ ਜਾਂ Cc">
+<!ENTITY searchMessageBody.label "ਪੂਰਾ ਸੁਨੇਹਾ">
+<!ENTITY saveAsVirtualFolderMenu.label "ਖੋਜ ਨੂੰ ਫੋਲਡਰ ਵਜੋਂ ਸੰਭਾਲੋ…">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Thread">
-<!ENTITY fromColumn.label "From">
-<!ENTITY recipientColumn.label "Recipient">
-<!ENTITY subjectColumn.label "Subject">
-<!ENTITY dateColumn.label "Date">
-<!ENTITY priorityColumn.label "Priority">
-<!ENTITY tagsColumn.label "Tag">
-<!ENTITY accountColumn.label "Account">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Size">
-<!ENTITY junkStatusColumn.label "Junk Status">
-<!ENTITY unreadColumn.label "Unread">
-<!ENTITY totalColumn.label "Total">
-<!ENTITY readColumn.label "Read">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY threadColumn.label "ਥਰਿੱਡ">
+<!ENTITY fromColumn.label "ਵਲੋਂ">
+<!ENTITY recipientColumn.label "ਪ੍ਰਾਪਤ ਕਰਤਾ">
+<!ENTITY subjectColumn.label "ਵਿਸ਼ਾ">
+<!ENTITY dateColumn.label "ਮਿਤੀ">
+<!ENTITY priorityColumn.label "ਤਰਜੀਹ">
+<!ENTITY tagsColumn.label "ਟੈਗ">
+<!ENTITY accountColumn.label "ਅਕਾਊਂਟ">
+<!ENTITY statusColumn.label "ਹਾਲਤ">
+<!ENTITY sizeColumn.label "ਆਕਾਰ">
+<!ENTITY junkStatusColumn.label "ਜੰਕ ਹਾਲਤ">
+<!ENTITY unreadColumn.label "ਨਾ-ਪੜ੍ਹੇ">
+<!ENTITY totalColumn.label "ਕੁੱਲ">
+<!ENTITY readColumn.label "ਪੜ੍ਹੇ">
+<!ENTITY receivedColumn.label "ਪ੍ਰਾਪਤ ਹੋਏ">
 <!ENTITY starredColumn.label "Starred">
-<!ENTITY locationColumn.label "Location">
-<!ENTITY idColumn.label "Order Received">
-<!ENTITY attachmentColumn.label "Attachments">
+<!ENTITY locationColumn.label "ਟਿਕਾਣਾ">
+<!ENTITY idColumn.label "ਪ੍ਰਾਪਤੀ ਕ੍ਰਮ">
+<!ENTITY attachmentColumn.label "ਅਟੈਚਮੈਂਟ">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Click to select columns to display">
@@ -634,39 +672,43 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.tooltip "Click to sort by attachments">
 
 <!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label "Open Message in New Window">
+<!ENTITY contextOpenNewWindow.label "ਸੁਨੇਹਾ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextOpenNewWindow.accesskey "W">
-<!ENTITY contextOpenNewTab.label "Open Message in New Tab">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
+<!ENTITY contextOpenNewTab.label "ਸੁਨੇਹਾ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextOpenConversation.label "Open Message in Conversation">
+<!ENTITY contextOpenConversation.label "ਸੁਨੇਹਾ ਸੰਵਾਦ ਦੇ ਰੂਪ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Edit As New…">
+<!ENTITY contextEditAsNew.label "ਨਵੇਂ ਵਜੋਂ ਸੋਧੋ…">
 <!ENTITY contextEditAsNew.accesskey "E">
-<!ENTITY contextArchive.label "Archive">
+<!ENTITY contextArchive.label "ਅਕਾਇਵ">
 <!ENTITY contextArchive.accesskey "h">
-<!ENTITY contextReplySender.label "Reply to Sender Only">
+<!ENTITY contextReplySender.label "ਕੇਵਲ ਭੇਜਣ ਵਾਲੇ ਨੂੰ ਜਵਾਬ ਦਿਓ">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Reply to Newsgroup">
+<!ENTITY contextReplyNewsgroup.label "ਨਿਊਜ਼ਗਰੁੱਪ ਨੂੰ ਜਵਾਬ ਦਿਓ">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
-<!ENTITY contextReplyAll.label "Reply to All">
+<!ENTITY contextReplyAll.label "ਸਭ ਨੂੰ ਜਵਾਬ">
 <!ENTITY contextReplyAll.accesskey "A">
-<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.label "ਲਿਸਟ ਨੂੰ ਜਵਾਬ">
 <!ENTITY contextReplyList.accesskey "L">
-<!ENTITY contextForward.label "Forward">
+<!ENTITY contextForward.label "ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "Forward as Attachments">
+<!ENTITY contextForwardAsAttachment.label "ਅਟੈਚਮੈਂਟ ਵਜੋਂ ਭੇਜੋ">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
-<!ENTITY contextMoveMsgMenu.label "Move To">
+<!ENTITY contextMoveMsgMenu.label "ਇੱਥੇ ਭੇਜੋ">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "ਤਾਜ਼ਾ">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextCopyMsgMenu.label "Copy To">
+<!ENTITY contextCopyMsgMenu.label "ਇੱਥੇ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextSaveAs.label "Save As…">
+<!ENTITY contextSaveAs.label "…ਵਜੋਂ ਸੰਭਾਲੋ">
 <!ENTITY contextSaveAs.accesskey "S">
-<!ENTITY contextPrint.label "Print…">
+<!ENTITY contextPrint.label "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY contextPrint.accesskey "P">
-<!ENTITY contextPrintPreview.label "Print Preview">
+<!ENTITY contextPrintPreview.label "ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Thread Pane Column Picker -->
@@ -674,7 +716,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
-<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+<!ENTITY columnPicker.resetToInbox.label "ਕਾਲਮ ਨੂੰ ਡਿਫਾਲਟ ਵਜੋਂ ਮੁੜ-ਸੈੱਟ ਕਰੋeset columns to default">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -683,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Apply columns to…">
+<!ENTITY columnPicker.applyTo.label "ਕਾਲਮ ਲਾਗੂ ਕਰੋ…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -692,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    that the user selects using the same widget as the move to/copy to
    mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolder.label "Folder…">
+<!ENTITY columnPicker.applyToFolder.label "ਫੋਲਡਰ…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -701,7 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "ਫੋਲਡਰ ਅਤੇ ਇਸ ਦੇ ਅੰਦਰ…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -713,37 +755,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    items are "This folder", "B", and "C".  This is the equivalent of the
    "File here" option for the move to/copy to widge.t
   -->
-<!ENTITY columnPicker.thisFolder.label "This folder">
+<!ENTITY columnPicker.thisFolder.label "ਇਹ ਫੋਲਡਰ">
 
 
 <!-- Media (video/audio) controls -->
-<!ENTITY contextPlay.label "Play">
+<!ENTITY contextPlay.label "ਚਲਾਓ">
 <!ENTITY contextPlay.accesskey "P">
-<!ENTITY contextPause.label "Pause">
+<!ENTITY contextPause.label "ਵਿਰਾਮ">
 <!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Mute">
+<!ENTITY contextMute.label "ਚੁੱਪ">
 <!ENTITY contextMute.accesskey "M">
-<!ENTITY contextUnmute.label "Unmute">
+<!ENTITY contextUnmute.label "ਸੁਣਾਓ">
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Junk Mail">
-<!ENTITY junkBarButton1.label "Not Junk">
+<!ENTITY junkBarMessage1.label "ਜੰਕ ਮੇਲ">
+<!ENTITY junkBarButton1.label "ਜੰਕ ਨਹੀਂ">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage2.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
-<!ENTITY loadRemoteContentButton3.label "Show Remote Content">
+<!ENTITY loadRemoteContentButton3.label "ਰਿਮੋਟ ਸਮੱਗਰੀ ਵੇਖਾਓ">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "This message may be a scam.">
 <!ENTITY removePhishingBarButton1.label "Ignore Warning">
+<!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
 <!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
-<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
-<!ENTITY mdnBarSendButton.label "Send Receipt">
+<!ENTITY mdnBarIgnoreButton2.label "ਅਣਡਿੱਠਾ">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "ਵਾਪਸੀ ਰਸੀਦ ਭੇਜੋ">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -751,100 +795,107 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Search all messages… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "ਖੋਜ… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
-
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Add to Address Book…">
+<!ENTITY AddToAddressBook.label "ਐਡਰੈੱਸ ਬੁੱਕ 'ਚ ਸ਼ਾਮਲ ਕਰੋ…">
 <!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
+<!ENTITY AddDirectlyToAddressBook.label "ਐਡਰੈੱਸ ਬੁੱਕ ਵਿੱਚ ਸ਼ਾਮਲ">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Edit Contact…">
+<!ENTITY EditContact.label "ਸੰਪਰਕ ਸੋਧ…">
 <!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "View Contact">
+<!ENTITY ViewContact.label "ਸੰਪਰਕ ਵੇਖਾਓ">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Subscribe to Newsgroup">
+<!ENTITY SubscribeToNewsgroup.label "ਨਿਊਜ਼ਗਰੁੱਪ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
-<!ENTITY SendMessageTo.label "Compose Message To">
+<!ENTITY SendMessageTo.label "ਇਸ ਨੂੰ ਸੁਨੇਹਾ ਲਿਖੋ">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Copy Email Address">
+<!ENTITY CopyEmailAddress.label "ਈਮੇਲ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
+<!ENTITY CopyNewsgroupName.label "ਨਿਊਜ਼ਗਰੁੱਪ ਨਾਂ ਕਾਪੀ ਕਰੋ">
 <!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Copy Newsgroup URL">
+<!ENTITY CopyNewsgroupURL.label "ਨਿਊਜ਼ਗਰੁੱਪ URL ਕਾਪੀ ਕਰੋ">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Create Filter From…">
+<!ENTITY CreateFilterFrom.label "…ਤੋਂ ਫਿਲਟਰ ਬਣਾਓ">
 <!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY reportPhishingURL.label "Report Email Scam">
+<!ENTITY reportPhishingURL.label "ਈਮੇਲ ਘਪਲੇ ਦੀ ਰਿਪੋਰਟ ਕਰੋ">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ ਕਰੋ…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Save Link As…">
+<!ENTITY saveLinkAsCmd.label "ਲਿੰਕ ਇੰਝ ਸੰਭਾਲੋ…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Save Image As…">
+<!ENTITY saveImageAsCmd.label "ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY cutCmd.label "Cut">
-<!ENTITY cutCmd.accesskey "u">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Paste">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY copyLinkCmd.label "Copy Link Location">
+<!ENTITY copyLinkCmd.label "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageAllCmd.label "Copy Image">
+<!ENTITY copyImageAllCmd.label "ਚਿੱਤਰ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyImageAllCmd.accesskey "I">
-<!ENTITY copyEmailCmd.label "Copy Email Address">
+<!ENTITY copyEmailCmd.label "ਈਮੇਲ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.label "ਰੋਕੋ">
 <!ENTITY stopCmd.accesskey "S">
-<!ENTITY reloadCmd.label "Reload">
+<!ENTITY reloadCmd.label "ਮੁੜ-ਲੋਡ">
 <!ENTITY reloadCmd.accesskey "R">
-<!ENTITY openInBrowser.label "Open In Browser">
+<!ENTITY openInBrowser.label "ਬਰਾਊਜ਼ਰ 'ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openInBrowser.accesskey "O">
-<!ENTITY openLinkInBrowser.label "Open Link In Browser">
+<!ENTITY openLinkInBrowser.label "ਲਿੰਕ ਨੂੰ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Done">
+<!ENTITY statusText.label "ਮੁਕੰਮਲ">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "Minimize">
+<!ENTITY minimizeWindow.label "ਘੱਟੋ-ਘੱਟ">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bring All to Front">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY bringAllToFront.label "ਸਭ ਅੱਗੇ ਲਿਆਓ">
+<!ENTITY zoomWindow.label "ਜ਼ੂਮ">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Preferences…">
+<!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
-<!ENTITY servicesMenuMac.label          "Services">
-<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY servicesMenuMac.label          "ਸਰਵਿਸਾਂ">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ਓਹਲੇ">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label      "ਹੋਰ ਓਹਲੇ ਕਰੋ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Show All">
+<!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖਾਓ">
+
+
+<!ENTITY previousMsgButton.label "Previous">
+<!ENTITY previousButtonToolbarItem.label "Previous Unread">
+<!ENTITY previousMsgButton.tooltip "Move to the previous message">
+
+<!ENTITY nextMsgButton.label "Next">
+<!ENTITY nextMsgButton.tooltip "Move to the next message">
+
+<!ENTITY nextButtonToolbarItem.label "Next Unread">
+
+
 
