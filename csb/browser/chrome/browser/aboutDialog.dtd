@@ -22,7 +22,7 @@
 
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.end " wëspółrobiącą bë Jinternet béł bëlniészi. Mómë wiarã, że Jnternet mùszi bëc òtemkłi, pùbliczny ë przistãpny dlô wszëtczich bez niżódnëch restrikcjów.">
+<!ENTITY community.exp.end " wëspółrobiącą bë Jinternet béł bëlniészi. Mómë wiarã, że Jinternet mùszi bëc òtemkłi, pùbliczny ë przistãpny dlô wszëtczich bez niżódnëch restrikcjów.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink "swiatowô spòlëznã">
 <!ENTITY community.creditsLink      "swiatowô spòlëznã">
