@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "De huidige overdracht stoppen"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "Geen suggesties gevonden">
-<!ENTITY spellCheckIgnoreWord.label "Woord negeren">
-<!ENTITY spellCheckIgnoreWord.accesskey "d">
-<!ENTITY spellCheckAddToDictionary.label "Toevoegen aan woordenboek">
-<!ENTITY spellCheckAddToDictionary.accesskey "T">
-
 <!ENTITY openAttachment.label "Openen">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "Hernoemen…">

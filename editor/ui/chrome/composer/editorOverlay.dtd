@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "e">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Geen suggesties gevonden)">
-<!ENTITY spellCheckIgnoreWord.label "Woord negeren">
-<!ENTITY spellCheckIgnoreWord.accesskey "n">
-<!ENTITY spellCheckAddToDictionary.label "Toevoegen aan woordenboek">
-<!ENTITY spellCheckAddToDictionary.accesskey "T">
 <!ENTITY createLinkCmd.label "Koppeling maken…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Koppeling bewerken in nieuw Composer-venster">
