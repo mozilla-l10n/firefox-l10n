@@ -335,9 +335,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.label "Map">
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Deze map">
-<!ENTITY thisFolder.accesskey "a">
+<!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Onlangs gesloten tabbladen">
-<!ENTITY goRecentlyClosedTabs.accesskey "t">
+<!ENTITY goRecentlyClosedTabs.accesskey "O">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
 
@@ -422,7 +422,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Als gelezen">
 <!ENTITY markAsReadCmd.accesskey "z">
 <!ENTITY markAsUnreadCmd.label "Als ongelezen">
-<!ENTITY markAsUnreadCmd.accesskey "o">
+<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Conversatie als gelezen">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "r">
