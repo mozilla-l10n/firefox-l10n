@@ -215,14 +215,14 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Inspector sluiten">
 
-<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY inspectorHTMLCopyInner.label       "Binnenste HTML kopiëren">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLCopyOuter.label       "Buitenste HTML kopiëren">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "u">
 
 <!ENTITY inspectorHTMLDelete.label          "Node verwijderen">
-<!ENTITY inspectorHTMLDelete.accesskey      "V">
+<!ENTITY inspectorHTMLDelete.accesskey      "v">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the

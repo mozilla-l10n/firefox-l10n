@@ -40,7 +40,7 @@
 <!ENTITY window.width                 "37em">
 
 <!ENTITY autoSafeModeIntro.label      "&brandShortName; is onverwacht gesloten tijdens het opstarten">
-<!ENTITY autoSafeModeDescription.label "Onze welgemeende excuses voor het ongemak. &brandShortName; draait nu in de veilige modus die tijdelijk uw aangepaste instellingen, thema's en extensies uitgeschakeld.">
+<!ENTITY autoSafeModeDescription.label "Onze welgemeende excuses voor het ongemak. &brandShortName; werkt nu in veilige modus, waardoor uw persoonlijke instellingen, thema’s en extensies tijdelijk zijn uitgeschakeld.">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; werkt nu in veilige modus, waardoor uw persoonlijke instellingen, thema’s en extensies tijdelijk zijn uitgeschakeld.">
 <!ENTITY safeModeDescription2.label   "U kunt alle of enkele van deze wijzigingen permanent maken:">

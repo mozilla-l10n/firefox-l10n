@@ -1,7 +1,7 @@
 <!ENTITY autoconfigWizard.title          "E-mailaccountset-up">
 <!ENTITY name.label                      "Uw naam:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Voornaam achternaam">
+<!ENTITY name.placeholder                "Voornaam Achternaam">
 <!ENTITY name.text                       "Uw naam, zoals getoond aan anderen">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "E">
@@ -49,8 +49,9 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Handmatige config">
 <!ENTITY manual-edit.accesskey           "H">
-<!ENTITY switch-to-provisioner.label     "Nieuw account ophalen">
+<!ENTITY switch-to-provisioner.label     "Nieuwe account verkrijgen">
 <!ENTITY switch-to-provisioner.accesskey "o">
+
 
 <!ENTITY warning.label                   "Waarschuwing!">
 <!ENTITY incomingSettings.label          "Instellingen inkomend:">

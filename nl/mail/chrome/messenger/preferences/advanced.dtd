@@ -48,7 +48,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "Een bestaand berichtvenster">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Berichtvenster / -tabblad sluiten bij verplaatsen of verwijderen">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Berichtvenster/-tabblad sluiten bij verplaatsen of verwijderen">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
 
 <!-- Update -->

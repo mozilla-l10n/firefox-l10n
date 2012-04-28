@@ -1,6 +1,6 @@
 
-<!ENTITY  splash_settingup "&brandShortName; instellen">
-<!ENTITY  splash_bookmarks_history "We werken uw bladwijzers en geschiedenis bij, wat een paar minuten kan duren.">
+<!ENTITY  splash_settingup "Uw &brandShortName; instellen">
+<!ENTITY  splash_bookmarks_history "We werken uw bladwijzers en geschiedenis bij, wat enkele minuten kan duren.">
 
 <!ENTITY  no_space_to_start_error "Er is niet genoeg ruimte beschikbaar om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;.">
@@ -89,7 +89,7 @@
 
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
-<!ENTITY contextmenu_add_to_launcher "Toevoegen aan thuisscherm">
+<!ENTITY contextmenu_add_to_launcher "Toevoegen aan startpagina">
 <!ENTITY contextmenu_share "Delen">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
 
@@ -122,6 +122,6 @@
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
 <!ENTITY filepicker_title "Bestand kiezen">
-<!ENTITY filepicker_audio_title "Kies of neem een geluid op">
-<!ENTITY filepicker_image_title "Kies of maak een foto">
-<!ENTITY filepicker_video_title "Kies of neem een video op">
+<!ENTITY filepicker_audio_title "Een geluid kiezen of opnemen">
+<!ENTITY filepicker_image_title "Een foto kiezen of maken">
+<!ENTITY filepicker_video_title "Een video kiezen of opnemen">
