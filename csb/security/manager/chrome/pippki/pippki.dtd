@@ -104,7 +104,7 @@
 <!ENTITY pkcs12.setpassword.message  "Wëbrónô parola certifikatu zazychrowaniô òchróni lopczi, chtërne bãdą zapisóné. Brëkùjesz wëbrac parolã bë dokuńczëc zazychrowónié.">
 <!ENTITY pkcs12.setpassword.label1 "Parola certifikatu zazychrowaniô:">
 <!ENTITY pkcs12.setpassword.label2 "Parola czertifikatù zazychrowaniô (jesz rôz):">
-<!ENTITY pkcs12.setpassword.reminder "Wôżné: żlë òbôczysz parolã certifikatu zazychrowaniô, nie bãdzesz w sztãdze doprowadzëc negò zazychrowaniô pòzdze nazôd. Proszã zapiszë ną parolã w bezpiecznym môlu.">
+<!ENTITY pkcs12.setpassword.reminder "Wôżné: żlë òbaczysz parolã certifikatu zazychrowaniô, nie bãdzesz w sztãdze doprowadzëc negò zazychrowaniô pòzdze nazôd. Proszã zapiszë ną parolã w bezpiecznym môlu.">
 
 <!ENTITY pkcs12.getpassword.title  "Òkno pòdaniô parolë">
 <!ENTITY pkcs12.getpassword.message "Proszã pòdôj parolã chtërna bëła ùżëtô do zaszifrowaniô certifikatu zazychrowaniô.">

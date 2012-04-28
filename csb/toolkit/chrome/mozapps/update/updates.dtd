@@ -11,7 +11,7 @@
 
 <!ENTITY  pluginupdatesfound.title        "Nalazłé zaktualnienié dlô wtëkôczów">
 <!ENTITY  pluginupdatesfound.label        "Nalazłé nowszé wersje wjinstalowónëch wtëkôczów.">
-<!ENTITY  pluginupdateslink.label         "Òbôczë jak zaktualnic wtëkôcze.">
+<!ENTITY  pluginupdateslink.label         "Òbaczë jak zaktualnic wtëkôcze.">
 
 <!ENTITY  noupdatesfound.title            "Nie nalazłé niżódné aktualizacje">
 <!ENTITY  noupdatesautoenabled.intro      "Felënk przistãpnëch aktualizacji. Program &brandShortName; bãdze

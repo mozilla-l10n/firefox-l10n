@@ -23,6 +23,8 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
+
+
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(priwatné przezéranié)">
 
 <!-- Tab context menu -->
@@ -376,7 +378,7 @@ can reach it easily. -->
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Zladëjë ramã znowa">
 <!ENTITY reloadFrameCmd.accesskey     "Z">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Wëskrzëni zdrój wëbierkù">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Wëskrzëni zdrój wëbiérkù">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Wëskrzëni zdrój MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
@@ -603,16 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Zamkni lëstwã dodôwków">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "Panel HTML">
 
 
-
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
-toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.arialabel          "Znakòwnik">
+<!ENTITY markupButton.accesskey          "n">

@@ -36,7 +36,7 @@
 <!ENTITY generic.longDesc "<p>Dodôwnô wëdowiédzô ò tim problemie abò felë nie są terô przistãpné.</p>">
 
 <!ENTITY malformedURI.title "Lëchi adres">
-<!ENTITY malformedURI.longDesc "<p>Pòdóny adres je w nieznónym fòrmace. Nót je òbôczëc, czë w adresowi lëstwie ni mô felów, a pò tim spróbòwac jesz rôz.</p>">
+<!ENTITY malformedURI.longDesc "<p>Pòdóny adres je w nieznónym fòrmace. Nót je òbaczëc, czë w adresowi lëstwie ni mô felów, a pò tim spróbòwac jesz rôz.</p>">
 
 <!ENTITY netInterrupt.title "Òprzestóné sélanié pòdôwków">
 <!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczył sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżesz téż òbzérac jinszëch stronów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã jinternetowëch ùsłëżnotów.</li></ul>">

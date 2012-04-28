@@ -19,8 +19,6 @@
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromHTMLFile.label       "Z lopka HTML">
-<!ENTITY importFromHTMLFile.accesskey   "Z">
 
 <!ENTITY noMigrationSources.label       "To nie dô programów z jaczéch bë sã dało zajimpòrtowac załóżczi, historiã czë parole.">
 

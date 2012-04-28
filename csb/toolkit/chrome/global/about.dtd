@@ -8,7 +8,7 @@
 <!ENTITY about.version                "wersjô">
 
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
-<!ENTITY about.credits.beforeLink     "Òbôczë lëstã">
+<!ENTITY about.credits.beforeLink     "Òbaczë lëstã">
 <!ENTITY about.credits.linkTitle      "rozwijôrzóm">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.credits.afterLink      "ùdbë Mozilla.">
@@ -26,7 +26,7 @@
 <!ENTITY about.relnotes.afterTheLink  " dlô ti wersji.">
 
 <!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
-<!ENTITY about.buildconfig.beforeTheLink "Òbôczë ">
+<!ENTITY about.buildconfig.beforeTheLink "Òbaczë ">
 <!ENTITY about.buildconfig.linkTitle     "Kònfigùracjã brëkòwóną do kòmpilacji">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.buildconfig.afterTheLink  " negò wëdôwka.">

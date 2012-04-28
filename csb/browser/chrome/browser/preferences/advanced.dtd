@@ -82,7 +82,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "Ò">
 <!ENTITY updateManual.label              "Nie sprawdzôj przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiekù)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY enableSearchUpdate.label        "Szëkôsze">
+<!ENTITY enableSearchUpdate.label        "Szëkôcze">
 <!ENTITY enableSearchUpdate.accesskey    "k">
 <!ENTITY updateHistory.label             "Wëskrzëni histroriã aktualizacji">
 <!ENTITY updateHistory.accesskey         "h">
