@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Ongewensteberichtenlogboek">
-<!ENTITY junkLogInfo.label "Activiteitsregistratie van de ongewensteberichtenverwerking.">
+<!ENTITY adaptiveJunkLog.title "Zelflerende ongewensteberichtenlogboek">
+<!ENTITY adaptiveJunkLogInfo.label "Activiteitsregistratie van de Zelflerende ongewensteberichtenverwerking.">
 <!ENTITY clearLog.label "Logboek wissen">
 <!ENTITY clearLog.accesskey "w">
 <!ENTITY closeLog.label "Sluiten">

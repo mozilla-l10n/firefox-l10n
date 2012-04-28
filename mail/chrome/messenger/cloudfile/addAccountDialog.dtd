@@ -10,3 +10,4 @@
 <!ENTITY addAccountDialog.authorizing "Autorisatie controleren…">
 <!ENTITY addAccountDialog.error "Er is een fout opgetreden bij het instellen van de account!">
 <!ENTITY addAccountDialog.acceptButton.label "Account instellen">
+<!ENTITY addAccountDialog.learnMore "Meer info…">

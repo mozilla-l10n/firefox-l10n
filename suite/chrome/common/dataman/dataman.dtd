@@ -97,6 +97,7 @@
 <!ENTITY perm.AskAlways "Altijd vragen">
 <!ENTITY perm.NeverSave "Nooit opslaan">
 <!ENTITY perm.Allow "Toestaan">
+<!ENTITY perm.AllowSameDomain "Toestaan voor het zelfde domein">
 <!ENTITY perm.AllowSession "Toestaan voor sessie">
 <!ENTITY perm.Block "Blokkeren">
 

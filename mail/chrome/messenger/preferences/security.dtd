@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "v">
 <!ENTITY markAsReadOnSpam.label "Berichten die zijn gedetecteerd als ongewenst, markeren als gelezen">
 <!ENTITY markAsReadOnSpam.accesskey "B">
-<!ENTITY enableJunkLogging.label "Ongewensteberichtenlogboek activeren">
-<!ENTITY enableJunkLogging.accesskey "O">
+<!ENTITY enableAdaptiveJunkLogging.label "Zelflerende ongewensteberichtenlogboek activeren">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "o">
 <!ENTITY openJunkLog.label "Logboek tonen">
 <!ENTITY openJunkLog.accesskey "L">
 <!ENTITY resetTrainingData.label "Trainingsgegevens herinitialiseren">

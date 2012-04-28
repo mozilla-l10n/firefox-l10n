@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Accountinstellingen">
-<!ENTITY accountSettingsDesc.label "Dit is een speciale account. Er zijn geen identiteiten mee verbonden.">
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY messageStorage.label "Berichtenopslag">
-<!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
-<!ENTITY emptyTrashOnExit.accesskey "P">
-<!ENTITY localPath.label "Lokale map:">
-<!ENTITY localFolderPicker.label "Lokale map selecteren">
-<!ENTITY browseFolder.label "Bladeren…">
-<!ENTITY browseFolder.accesskey "B">
