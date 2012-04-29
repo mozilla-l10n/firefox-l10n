@@ -1,4 +1,5 @@
 <!ENTITY debuggerMenu.label "Отладчик сценариев">
+<!ENTITY remoteDebuggerMenu.label "Удалённый отладчик">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton "Закрыть">
 <!ENTITY debuggerUI.stepOverButton "Перешагнуть">
@@ -7,3 +8,4 @@
 <!ENTITY debuggerUI.stackTitle "Стек вызовов">
 <!ENTITY debuggerUI.scriptTitle "Сценарий">
 <!ENTITY debuggerUI.propertiesTitle "Переменные по области действия">
+<!ENTITY debuggerUI.emptyFilterText "Фильтр сценариев">
