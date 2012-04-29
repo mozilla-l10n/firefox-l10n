@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "Bare på starten/slutten av ord">
 <!ENTITY autoCompleteMatchStart                "Bare på starten av adressene eller titlene">
 
+<!ENTITY formatting.label                      "Formatering">
+<!ENTITY domainFormatting.label                "Uthever domenenavnet på nettsted og FTP-tjenere">
+<!ENTITY domainFormatting.accesskey            "U">
+
 <!ENTITY searchEngine.label                    "Internett-søkemotor">
 <!ENTITY showSearchEngine.label                "Vis standard søkemotor">
 <!ENTITY showSearchEngine.accesskey            "a">

@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Konfigurerer &brandShortName; \u2026">
+<!ENTITY  splash_settingup "Konfigurer din &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Vi oppdaterer bokmerkene og historikken din, som kan ta en liten stund.">
 
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
@@ -27,9 +28,13 @@
 
 <!ENTITY awesomebar_default_text "Skriv inn søkeord eller adresse">
 
+<!ENTITY remote_tabs "Synkroniserte faner">
+<!ENTITY remote_tabs_show_all "Vis alle faner">
+
 <!ENTITY bookmark "Bokmerke">
 <!ENTITY bookmark_added "Bokmerke er lagt til">
 <!ENTITY bookmark_removed "Bokmerke fjernet">
+<!ENTITY bookmark_updated "Bokmerke oppdatert">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -79,12 +84,19 @@
 <!ENTITY char_encoding "Tegnkoding">
 
 <!ENTITY share "Del">
+<!ENTITY share_title "Del via">
 <!ENTITY save_as_pdf "Lagre som PDF">
 
 <!ENTITY contextmenu_open_new_tab "Åpne i ny fane">
 <!ENTITY contextmenu_remove_bookmark "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på forsiden">
 <!ENTITY contextmenu_share "Del">
+<!ENTITY contextmenu_edit_bookmark "Rediger">
+
+<!ENTITY bookmark_edit_title "Rediger bokmerke">
+<!ENTITY bookmark_edit_name "Navn">
+<!ENTITY bookmark_edit_location "Adresse">
+<!ENTITY bookmark_edit_keyword "Nøkkelord">
 
 <!ENTITY site_settings_title        "Tøm nettstedsinnstillinger">
 <!ENTITY site_settings_cancel       "Avbryt">
@@ -108,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Du har ingen øverste nettsted ennå. Trykk på tittellinjen for å starte bruke nettet.">
 <!ENTITY abouthome_about_sync "Sett opp Firefox Sync for å hente bokmerker, historikk og faner fra dine andre enheter">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Velg fil">
+<!ENTITY filepicker_audio_title "Velg eller spill inn en lyd">
+<!ENTITY filepicker_image_title "Velg eller ta et bilde">
+<!ENTITY filepicker_video_title "Velg eller spill inn en video">

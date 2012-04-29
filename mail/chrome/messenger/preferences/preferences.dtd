@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Generelt">
 <!ENTITY paneDisplay.title        "Utseende">
 <!ENTITY paneComposition.title    "Skriving">
+<!ENTITY paneChat.title           "Nettprat">
 <!ENTITY paneAttachments.title    "Vedlegg">
 <!ENTITY paneSecurity.title       "Sikkerhet">
 <!ENTITY paneAdvanced.title       "Avansert">
