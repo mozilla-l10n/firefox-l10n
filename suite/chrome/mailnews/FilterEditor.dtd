@@ -95,3 +95,6 @@
 <!ENTITY ignoreSubthread.label "Subconversatie negeren"> 
 <!ENTITY watchThread.label "Conversatie volgen">
 <!ENTITY stopExecution.label "Uitvoeren van filter stoppen">
+
+<!ENTITY addAction.tooltip "Nieuwe actie toevoegen">
+<!ENTITY removeAction.tooltip "Deze actie verwijderen">
