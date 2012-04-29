@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "Q">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Nenhuma sugestão encontrada)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorar Palavra">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Adicionar ao Dicionário">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Criar Ligação...">
 <!ENTITY createLinkCmd.accesskey "ç">
 <!ENTITY editLinkCmd.label "Editar Ligação num novo Compositor">
