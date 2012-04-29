@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Registro de correo no deseado">
-<!ENTITY junkLogInfo.label "Registro de la actividad de control de correo no deseado.">
+<!ENTITY adaptiveJunkLog.title "Registro de correo basura adaptativo">
+<!ENTITY adaptiveJunkLogInfo.label "Registro de la actividad de control de correo basura adaptativo.">
 <!ENTITY clearLog.label "Limpiar registro">
 <!ENTITY clearLog.accesskey "L">
 <!ENTITY closeLog.label "Cerrar">

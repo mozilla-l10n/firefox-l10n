@@ -12,8 +12,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Marcar como leídos los mensajes calificados como no deseados">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Activar registro del filtro de correo no deseado">
-<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY enableAdaptiveJunkLogging.label "Activar el registro del filtro adaptativo de correo basura">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Mostrar el registro">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Reiniciar datos de entrenamiento">

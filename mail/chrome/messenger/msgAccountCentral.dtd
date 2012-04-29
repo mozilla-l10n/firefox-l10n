@@ -3,6 +3,8 @@
 <!ENTITY composeMsgLink.label "Redactar un nuevo mensaje">
 <!ENTITY newsSectionHdr.label "Grupos de noticias">
 <!ENTITY subscribeNewsLink.label "Administrar suscripciones a grupos de noticias">
+<!ENTITY feedsSectionHdr.label "Canales">
+<!ENTITY subscribeFeeds.label "Administrar suscripciones">
 <!ENTITY accountsSectionHdr.label "Cuentas">
 <!ENTITY subscribeImapFolders.label "Administrar suscripciones a carpetas">
 <!ENTITY settingsLink.label "Ver configuración de esta cuenta">
@@ -12,5 +14,3 @@
 <!ENTITY filtersLink.label "Administrar filtros de mensajes">
 <!ENTITY junkSettings.label "Correo no deseado">
 <!ENTITY offlineLink.label "Configuración sin conexión">
-<!ENTITY feedsSectionHdr.label "Canales">
-<!ENTITY subscribeFeeds.label "Administrar suscripciones">
