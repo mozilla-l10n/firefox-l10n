@@ -4,7 +4,7 @@
 <!ENTITY select.heading "Selecciona tus complementos">
 <!ENTITY select.description "Haz que &brandShortName; sea aún más rápido desactivando los complementos que ya no usas. Los complementos de terceros ya instalados se desactivarán automáticamente, a menos que los selecciones a continuación.">
 <!ENTITY select.keep "Mantener">
-<!ENTITY select.keep.style "width: 6ch;">
+<!ENTITY select.keep.style "width: 13ch;">
 <!ENTITY select.action "Acción">
 <!ENTITY select.action.style "width: 35ch;">
 <!ENTITY select.source "Instalado por">
