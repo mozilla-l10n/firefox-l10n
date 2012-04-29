@@ -1,3 +1,4 @@
+<!ENTITY messageStorage.label "Almacenamiento de mensajes">
 <!ENTITY securitySettings.label "Configuración de seguridad">
 <!ENTITY serverSettings.label "Configuración del servidor">
 <!ENTITY serverType.label "Tipo de servidor:">
@@ -50,16 +51,18 @@
 <!ENTITY alwaysAuthenticate.label "Siempre solicitar identificación cuando se conecte con este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "p">
 <!ENTITY newsrcFilePath.label "archivo newsrc:">
-<!ENTITY localPath.label "Directorio local:">
+<!ENTITY newsrcPicker.label "Seleccionar fichero newsrc">
 <!ENTITY abbreviate.label "Mostar los nombres de los grupos de noticas en la carpeta de correo como:">
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Juego de caracteres predeterminado:">
+<!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Seleccione directorio local">
 <!ENTITY browseFolder.label "Examinar…">
 <!ENTITY browseFolder.accesskey "x">
-<!ENTITY newsrcPicker.label "Seleccionar fichero newsrc">
 <!ENTITY browseNewsrc.label "Examinar…">
 <!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY accountTitle.label "Configuración de cuenta">
+<!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas con ella.">
