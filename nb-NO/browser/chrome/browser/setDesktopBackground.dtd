@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Side ved side">
 <!ENTITY center.label               "Midtstilt">
 <!ENTITY stretch.label              "Strukket">
+<!ENTITY fill.label                 "Fyll">
+<!ENTITY fit.label                  "Pass">
 <!ENTITY preview.label              "Forhåndsvisning">
 <!ENTITY color.label                "Farge:">
 <!ENTITY setDesktopBackground.title "Sett skrivebordsbakgrunn">

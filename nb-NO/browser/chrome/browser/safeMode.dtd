@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; sikker modus">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; stoppet uventet mens den startet">
+<!ENTITY autoSafeModeDescription.label "Vi beklager det inntrufne. &brandShortName; kjører nå i sikker modus, som midlertidig slår av egne innstillinger, temaer og utvidelser.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; kjører nå i sikker modus, som midlertidig slår av egendefinerte innstillinger, temaer og utvidelser.">
 <!ENTITY safeModeDescription2.label   "Du kan gjøre noen eller alle av disse endringene permanente:">
 

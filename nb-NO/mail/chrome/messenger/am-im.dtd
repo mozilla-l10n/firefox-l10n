@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Kontoinnstillinger">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "Generelt">
+<!ENTITY account.advanced              "Avanserte innstillinger">
+<!ENTITY account.name                  "Brukernavn:">
+<!ENTITY account.password              "Passord:">
+<!ENTITY account.alias                 "Alias:">
+<!ENTITY account.newMailNotification   "Varsle ved ny e-post">
+<!ENTITY account.autojoin              "Koble til kanaler automatisk:">
+<!ENTITY account.proxySettings.caption "Mellomtjenerinnstillinger:">
+<!ENTITY account.proxySettings.change.label     "Endre …">
+<!ENTITY account.proxySettings.change.accessKey "E">

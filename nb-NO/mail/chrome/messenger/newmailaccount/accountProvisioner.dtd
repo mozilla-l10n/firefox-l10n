@@ -1,5 +1,5 @@
 <!ENTITY window.title "Velkommen til &brandShortName;">
-<!ENTITY header.label "Ønsker du en ny e-postadresse?">
+<!ENTITY header2.label "Vil du ha en ny e-postadresse?">
 <!ENTITY other.languages "Vi viser bare tilbyderne som tilbyr adresser i ditt område.  Trykk her for å vise alle tilbydere.">
 <!ENTITY error.line1 "Vi klarte ikke finne noen foreslåtte e-postadresser.">
 <!ENTITY error.line2 "Du kan søke etter kallenavn eller andre nøkkelord for å finne flere adresser">
