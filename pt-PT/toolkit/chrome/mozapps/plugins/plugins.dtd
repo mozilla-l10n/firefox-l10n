@@ -21,9 +21,11 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "O &brandShortName; necessita de ser reiniciado para que o(s) plugin(s) funcione(m).">
 
 <!ENTITY missingPlugin                                       "Clique aqui para transferir o plugin.">
-<!ENTITY clickToPlayPlugin                                   "Toque aqui para ativar o plugin.">
-<!ENTITY disabledPlugin                                      "O plugin para este conteúdo foi desactivado. Clique aqui para gerir os seus plugins.">
-<!ENTITY blockedPlugin.label                                 "Este plugin foi bloqueado para sua protecção.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Toque aqui para ativar o plugin.">
+<!ENTITY clickToPlayPlugins                                  "Clique aqui para ativar os plugins.">
+<!ENTITY disabledPlugin                                      "Este plugin foi desativado.">
+<!ENTITY blockedPlugin.label                                 "Este plugin foi bloqueado para sua proteção.">
 
 <!ENTITY installPlugin                                       "Instalar plugin…">
 <!ENTITY managePlugins                                       "Gerir plugins…">
