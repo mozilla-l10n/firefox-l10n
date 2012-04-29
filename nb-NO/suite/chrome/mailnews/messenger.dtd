@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY showSearchToolbarCmd.label "Søkelinje">
 <!ENTITY showSearchToolbarCmd.accesskey "S">
+<!ENTITY showTabsToolbarCmd.label "Fane-verktøylinje">
+<!ENTITY showTabsToolbarCmd.accesskey "F">
 
 <!ENTITY messagePaneLayoutStyle.label "Utseende">
 <!ENTITY messagePaneLayoutStyle.accesskey "U">
