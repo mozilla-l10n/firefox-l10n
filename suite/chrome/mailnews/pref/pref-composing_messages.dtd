@@ -67,3 +67,23 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Bakgrunn:">
 <!ENTITY bgColor.accesskey                    "B">
+
+<!ENTITY selectHeaderType.label               "Velg type svar-overskrift:">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "Ingen svar-overskrift">
+<!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the 
+  mailnews.reply_header_authorwrote preference. [Author] needs to be 
+  translated. -->
+<!ENTITY authorWroteOption.label              "[Forfatter] skrev:">
+<!-- LOCALIZATION NOTE (onDateAuthorWroteOption.label): this is tied to the 
+  combination of the mailnews.reply_header_ondate(On [date]), 
+  mailnews.reply_header_separator (a comma in this case) and 
+  mailnews.reply_header_authorwrote([Author] wrote) preferences. [date] and 
+  [Author] need to be translated, and the correct  separator put in. -->
+<!ENTITY onDateAuthorWroteOption.label        "Den [dato], skrev [forfatter]:">
+<!-- LOCALIZATION NOTE (authorWroteOnDateOption.label): this is tied to the 
+  combination of the mailnews.reply_header_authorwrote([Author] wrote), 
+  mailnews.reply_header_separator (a comma in this case), and 
+  mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
+  need to be translated, and the correct separator put in. -->
+<!ENTITY authorWroteOnDateOption.label        "[Forfatter] skrev den [dato]:">

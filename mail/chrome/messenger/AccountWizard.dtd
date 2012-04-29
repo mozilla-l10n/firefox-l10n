@@ -106,7 +106,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gratulerer!">
-<!ENTITY completionText.label "Kontroller at informasjonen nedenfor er korrekt.">
+<!ENTITY completionText.label "Kontroller at informasjonen under er korrekt.">
 <!ENTITY serverTypePrefix.label "Type:">
 <!ENTITY serverNamePrefix.label "Innkommende tjener:">
 <!ENTITY smtpServerNamePrefix.label "Utgående tjenernavn (SMTP):">
@@ -115,6 +115,6 @@
 <!ENTITY downloadOnLogin.accesskey "L">
 <!ENTITY deferStorageDesc.label "Fjern avkryssing fra denne boksen for å lagre e-post i egen mappe. Det vil gjøre at denne kontoen blir synlig i mappelisten. Dersom den er avkrysset vil kontoen bli en del av kontoen «Lokale mapper».">
 <!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i kontoen «Lokale mapper»)">
-<!ENTITY deferStorage.accesskey "G">
+<!ENTITY deferStorage.accesskey "B">
 <!ENTITY clickFinish.label "Trykk Fullfør for å opprette kontoen og lukke veiviseren.">
 <!ENTITY clickFinish.labelMac "Trykk Fullfør for å opprette kontoen og lukke veiviseren.">
