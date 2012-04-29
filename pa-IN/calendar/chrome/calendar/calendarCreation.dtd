@@ -33,17 +33,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title             "Create New Calendar" >
+<!ENTITY wizard.title             "ਨਵਾਂ ਕੈਲੰਡਰ ਬਣਾਓ " >
 <!ENTITY wizard.label             "Create a new calendar" >
 <!ENTITY wizard.description       "Locate your calendar" >
 
 <!ENTITY initialpage.description    "Your calendar can be stored on your computer or be stored on a server in order to access it remotely or share it with your friends or co-workers." >
-<!ENTITY initialpage.computer.label  "On My Computer">
+<!ENTITY initialpage.computer.label  "ਮੇਰੇ ਕੰਪਿਊਟਰ ਉੱਤੇ">
 <!ENTITY initialpage.network.label  "On the Network">
 
 <!ENTITY locationpage.description         "Provide info about what is needed to access your remote calendar" >
 <!ENTITY locationpage.login.description   "Optional: enter an username and password" >
-<!ENTITY locationpage.username.label      "Username:" >
+<!ENTITY locationpage.username.label      "ਯੂਜ਼ਰ-ਨਾਂ:" >
 <!ENTITY locationpage.password.label      "Password:" >
 
 <!ENTITY custompage.shortdescription  "Customize your calendar" >
