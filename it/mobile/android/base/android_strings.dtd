@@ -32,6 +32,7 @@
 <!ENTITY history_older_section "Più vecchi di 7 giorni">
 <!ENTITY reload "Ricarica">
 <!ENTITY forward "Avanti">
+<!ENTITY close_tab "Chiudi scheda">
 <!ENTITY new_tab "Nuova scheda">
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY settings "Impostazioni">
