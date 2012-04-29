@@ -44,6 +44,7 @@
 <!ENTITY reload "Vernieuwen">
 <!ENTITY forward "Vooruit">
 
+<!ENTITY close_tab "Tabblad sluiten">
 <!ENTITY new_tab "Nieuw tabblad">
 <!ENTITY new_tab_opened "Nieuw tabblad geopend">
 
