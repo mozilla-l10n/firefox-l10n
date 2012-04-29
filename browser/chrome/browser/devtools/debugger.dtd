@@ -1,4 +1,5 @@
 <!ENTITY debuggerMenu.label "Debugger script">
+<!ENTITY remoteDebuggerMenu.label "Debug remoto">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton "Chiudi">
 <!ENTITY debuggerUI.stepOverButton "Ignora">
@@ -7,3 +8,4 @@
 <!ENTITY debuggerUI.stackTitle "Stack chiamata">
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ambito variabili">
+<!ENTITY debuggerUI.emptyFilterText "Filtro script">
