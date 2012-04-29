@@ -1,23 +1,23 @@
-<!ENTITY indicator.tooltiptext "Downloads">
-<!ENTITY downloads.title "Downloads">
-<!ENTITY cmd.pause.label "Pause">
+<!ENTITY indicator.tooltiptext "Descargas">
+<!ENTITY downloads.title "Descargas">
+<!ENTITY cmd.pause.label "Pausar">
 <!ENTITY cmd.pause.accesskey "P">
-<!ENTITY cmd.resume.label "Resume">
-<!ENTITY cmd.resume.accesskey "R">
-<!ENTITY cmd.cancel.label "Cancel">
+<!ENTITY cmd.resume.label "Continuar">
+<!ENTITY cmd.resume.accesskey "C">
+<!ENTITY cmd.cancel.label "Cancelar">
 <!ENTITY cmd.cancel.accesskey "C">
-<!ENTITY cmd.show.label "Open Containing Folder">
-<!ENTITY cmd.show.accesskey "F">
-<!ENTITY cmd.showMac.label "Show In Finder">
+<!ENTITY cmd.show.label "Abrir carpeta contenedora">
+<!ENTITY cmd.show.accesskey "A">
+<!ENTITY cmd.showMac.label "Mostrar en Finder  ">
 <!ENTITY cmd.showMac.accesskey "F">
-<!ENTITY cmd.retry.label "Retry">
-<!ENTITY cmd.goToDownloadPage.label "Go To Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey "G">
-<!ENTITY cmd.copyDownloadLink.label "Copy Download Link">
+<!ENTITY cmd.retry.label "Reintentar">
+<!ENTITY cmd.goToDownloadPage.label "Ir a la página de descarga">
+<!ENTITY cmd.goToDownloadPage.accesskey "I">
+<!ENTITY cmd.copyDownloadLink.label "Copiar enlace de descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey "L">
-<!ENTITY cmd.removeFromList.label "Remove From List">
-<!ENTITY cmd.removeFromList.accesskey "e">
-<!ENTITY cmd.clearList.label "Clear List">
+<!ENTITY cmd.removeFromList.label "Quitar de la lista">
+<!ENTITY cmd.removeFromList.accesskey "q">
+<!ENTITY cmd.clearList.label "Limpiar lista">
 <!ENTITY cmd.clearList.accesskey "a">
-<!ENTITY downloadshistory.label "Show All Downloads">
-<!ENTITY downloadshistory.accesskey "S">
+<!ENTITY downloadshistory.label "Mostrar todas las descargas">
+<!ENTITY downloadshistory.accesskey "T">
