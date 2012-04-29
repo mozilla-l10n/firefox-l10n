@@ -8,8 +8,8 @@
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY saveFileCmd.label "Guardar">
-<!ENTITY saveFileCmd.accesskey "S">
-<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY saveFileCmd.accesskey "G">
+<!ENTITY saveFileCmd.commandkey "g">
 <!ENTITY saveFileAsCmd.label "Guardar como…">
 <!ENTITY saveFileAsCmd.accesskey "A">
 <!ENTITY closeCmd.label "Cerrar">
@@ -17,34 +17,6 @@
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Deshacer">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Rehacer">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Pegar">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findCmd.label "Buscar…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "Buscar nuevamente…">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findPreviousCmd.key "G">
-<!ENTITY gotoLineCmd.label "Saltar a la linea…">
-<!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "J">
 <!ENTITY run.label "Ejecutar">
 <!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">
