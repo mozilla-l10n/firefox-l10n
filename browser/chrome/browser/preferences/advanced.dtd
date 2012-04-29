@@ -56,7 +56,7 @@
 <!ENTITY useService.accesskey "b">
 <!ENTITY updateOthers.label "Actualizar automáticamente:">
 <!ENTITY enableSearchUpdate.label "Motores de búsqueda">
-<!ENTITY enableSearchUpdate.accesskey "E">
+<!ENTITY enableSearchUpdate.accesskey "M">
 <!ENTITY offlineNotify.label "Avisarme si un sitio desea guardar datos para usarlos sin conexión">
 <!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Excepciones…">
