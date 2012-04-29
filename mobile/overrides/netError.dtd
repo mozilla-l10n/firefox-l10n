@@ -112,7 +112,7 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.title "ਸਰਵਰ ਤੋਂ ਗਲਤ ਜਵਾਬ">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Check to make sure your system has the Personal Security Manager

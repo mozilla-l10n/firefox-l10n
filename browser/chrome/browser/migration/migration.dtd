@@ -14,8 +14,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "ਫਾਇਰਫਾਕਸ">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label       "ਇੱਕ HTML ਫਾਇਲ ਤੋਂ">
-<!ENTITY importFromHTMLFile.accesskey   "F">
 
 <!ENTITY noMigrationSources.label       "ਕੋਈ ਵੀ ਅਜੇਹਾ ਪਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ ਹੈ, ਜੋ  ਕਿ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਰੱਖਦਾ ਹੋਵੇ।">
 

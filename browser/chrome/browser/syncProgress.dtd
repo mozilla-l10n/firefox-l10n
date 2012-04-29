@@ -3,9 +3,9 @@
     %brandDTD;
 
 <!-- These strings are used in the sync progress upload page -->
-<!ENTITY syncProgress.pageTitle    "Your First Sync">
-<!ENTITY syncProgress.textBlurb    "Your data is now being encrypted and uploaded in the background. You can close this tab and continue using &brandShortName;.">
-<!ENTITY syncProgress.closeButton  "Close">
-<!ENTITY syncProgress.logoAltText  "&brandShortName; logo">
-<!ENTITY syncProgress.diffText     "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
+<!ENTITY syncProgress.pageTitle    "ਤੁਹਾਡਾ ਪਹਿਲਾਂ ਸਿੰਕ">
+<!ENTITY syncProgress.textBlurb    "ਤੁਹਾਡਾ ਡਾਟਾ ਹੁਣ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਇੰਕ੍ਰਿਪਟ ਕਰਕੇ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਤੁਸੀਂ ਇਹ ਟੈਬ ਬੰਦ ਕਰਕੇ &brandShortName; ਦੀ ਵਰਤੋਂ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।">
+<!ENTITY syncProgress.closeButton  "ਬੰਦ ਕਰੋ">
+<!ENTITY syncProgress.logoAltText  "&brandShortName; ਲੋਗੋ">
+<!ENTITY syncProgress.diffText     "&brandShortName; ਹੁਣ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਸਿੰਕ ਕਰੇਗਾ। ਤੁਸੀਂ ਇਹ ਟੈਬ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ &brandShortName; ਨੂੰ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।">
 
