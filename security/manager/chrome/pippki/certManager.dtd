@@ -43,7 +43,7 @@
 <!ENTITY certmgr.tab.orphan2 "Otros">
 <!ENTITY certmgr.ca.builtins "CAs integradas">
 <!ENTITY certmgr.ca.mycas "CAs gestionadas por ti">
-<!ENTITY certmgr.mine "Tiene certificados de estas organizaciones que le identifican a usted:">
+<!ENTITY certmgr.mine "Tienes certificados de estas organizaciones que te identifican:">
 <!ENTITY certmgr.others "Tiene certificados archivados que identifican a estas personas:">
 <!ENTITY certmgr.websites2 "Tiene certificados en el archivo que identifican estos servidores:">
 <!ENTITY certmgr.cas "Tiene certificados archivados que identifican a estas autoridades certificadoras:">
