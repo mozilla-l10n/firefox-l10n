@@ -1,5 +1,5 @@
 <!ENTITY smtpServer.label "Configuración del servidor de salida (SMTP)">
-<!ENTITY smtpDesc.label "Aunque puede especificar más de un servidor de salida (SMTP), esto sólo se recomienda para usuarios avanzados. Configurar múltiples servidores SMTP puede causar errores al enviar mensajes.">
+<!ENTITY smtpDescription.label "Al administrar sus identidades puede usar un servidor de esta lista seleccionándolo como servidor de salida (SMTP), o puede usar el servidor predeterminado seleccionando en esta lista &quot;Usar servidor predeterminado&quot;.">
 <!ENTITY smtpListAdd.label "Añadir…">
 <!ENTITY smtpListAdd.accesskey "d">
 <!ENTITY smtpListEdit.label "Editar…">

@@ -4,7 +4,7 @@
 <!ENTITY systemPrefCheck.accesskey "U">
 <!ENTITY systemPref.desc "Con esta opción, &brandShortName; hereda las preferencias del sistema. Los valores globales del sistema prevalecerán sobre las preferencias de &brandShortName;.">
 <!ENTITY prefCheckDefault.caption "Integración con el sistema">
-<!ENTITY prefCheckDefaultClient.label "Comprobar configuración de aplicaciones predeterminadas al iniciar">
+<!ENTITY prefCheckDefaultClient.label "Comprobar la condición de aplicación predeterminada al iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
 <!ENTITY crashReports.caption "Agente de informe de fallos">
 <!ENTITY submitCrashes.label "Enviar informes de fallo">
