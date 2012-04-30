@@ -1,22 +1,22 @@
 <!ENTITY editMenu.label            "Modifi">
-<!ENTITY editMenu.accesskey        "m">
+<!ENTITY editMenu.accesskey        "M">
 <!ENTITY undoCmd.label             "Malfari">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "f">
+<!ENTITY undoCmd.accesskey         "M">
 <!ENTITY redoCmd.label             "Refari">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
+<!ENTITY redoCmd.accesskey         "R">
 <!ENTITY cutCmd.label              "Eltondi">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Kopii">
-<!ENTITY copyCmd.key               "K">
-<!ENTITY copyCmd.accesskey         "c">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "K">
 <!ENTITY pasteCmd.label            "Alglui">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "g">
 <!ENTITY deleteCmd.label           "Forviŝi">
-<!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY deleteCmd.accesskey       "F">
 <!ENTITY selectAllCmd.label        "Elekti ĉion">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "E">
@@ -26,6 +26,6 @@
 <!ENTITY findAgainCmd.label        "Serĉi denove">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "e">
+<!ENTITY findAgainCmd.accesskey    "n">
 <!ENTITY findPreviousCmd.label     "Serĉi antaŭan">
 <!ENTITY findPreviousCmd.accesskey "a">
