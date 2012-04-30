@@ -271,11 +271,11 @@ can reach it easily. -->
 <!ENTITY deleteCmd.accesskey        "F"> 
 <!ENTITY selectAllCmd.label         "Elekti ĉion">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "ĉ"> 
+<!ENTITY selectAllCmd.accesskey       "E"> 
 <!ENTITY preferencesCmd2.label       "Opcioj">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
-<!ENTITY preferencesCmdUnix.accesskey     "j"> 
+<!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
 <!ENTITY clearRecentHistory.label               "Forigi ĵusan historion…">
 <!ENTITY clearRecentHistory.accesskey           "H">
