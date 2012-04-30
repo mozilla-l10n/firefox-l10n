@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Cuir tiotal a-steach">
-<!ENTITY webapps.permissions "Ceadaich inntrigeadh dha:">
-<!ENTITY webapps.perm.geolocation "Brabhsadh a mhothaicheas dha d' àite">
-<!ENTITY webapps.perm.offline "Stòradh dàta far loidhne">
-<!ENTITY webapps.perm.notifications "Brathan air an deasg">
-<!ENTITY webapps.perm.requestedHint "(air iarraidh)">
-<!ENTITY webapps.add-homescreen "Cuir ris an sgrìn mhòr">

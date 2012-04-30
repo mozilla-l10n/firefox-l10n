@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Mu &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "Thathar ag obair air &brandShortName; fhathast agus faodaidh nach bi iad buileach seasmhach.">
+<!ENTITY aboutPage.telemetryStart               " Cuiridh seo dàta mu dhèanadas, bathar-cruaidh, cleachdadh is gnàthachaidhean air ais gu ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " gus ar cuideachadh le leasachadh &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "CÀBHA">
 <!ENTITY aboutPage.support.label                "Taic">
 <!ENTITY aboutPage.privacyPolicy.label          "Am Poileasaidh Prìobhaideachd">
