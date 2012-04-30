@@ -44,6 +44,7 @@
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Adiante">
 
+<!ENTITY close_tab "Pechar lapela">
 <!ENTITY new_tab "Nova lapela">
 <!ENTITY new_tab_opened "Abriuse unha nova lapela">
 
