@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Feumaidh &brandShortName; ath-thòiseachadh mus obair am plugan/na plugain.">
 
 <!ENTITY missingPlugin                                       "Feumaidh tu plugan gus an t-susbaint seo fhaicinn.">
-<!ENTITY clickToPlayPlugin                                   "Gnog an-seo gus am plugan a chur an gnìomh.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Gnog an-seo gus am plugan a chur an gnìomh.">
+<!ENTITY clickToPlayPlugins                                  "Briog an-seo gus na plugain a chur an gnìomh.">
 <!ENTITY disabledPlugin                                      "Chaidh am plugan seo a chur à comas.">
 <!ENTITY blockedPlugin.label                                 "Chaidh cas a chur air a' phlugan seo a chum do thèarainteachd.">
 

@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Suidheachadh de bhriosgaidean">
 <!ENTITY  permInstall           "Stàladh de leudachan no coltasan">
 <!ENTITY  permGeo               "Nochdadh an àite">
+<!ENTITY  permPlugins           "Cuir na plugain an gnìomh">
 
 <!ENTITY  permIndexedDB              "Rianaich an stòras far loidhne">
 <!ENTITY  permClearStorage           "Glan an stòras">

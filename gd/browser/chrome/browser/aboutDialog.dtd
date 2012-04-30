@@ -2,8 +2,8 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 <!ENTITY warningDesc.version        "Thathar ag obair air &brandShortName; fhathast agus faodaidh nach bi iad buileach seasmhach.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "Cuiridh e dàta gu &vendorShortName; gus taic a chur ri leasachadh &brandShortName;.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Cuiridh seo dàta mu dhèanadas, bathar-cruaidh, cleachdadh is gnàthachaidhean air ais gu &vendorShortName; gus taic a chumail riutha le leasachadh &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">

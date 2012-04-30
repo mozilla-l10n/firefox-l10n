@@ -27,6 +27,8 @@
 <!ENTITY cookie.removeAll                "Thoir air falbh a h-uile briosgaid">
 
 <!ENTITY geo.label                       "Nochd d' àite">
+
+<!ENTITY plugins.label                   "Plugain">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 

@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "Na h-aplacaidean agad">
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+
+<!ENTITY aboutApps.noApps.pre "Chan eil aplacaid sam bith air stàladh agad. Faigh feadhainn o ">
+<!ENTITY aboutApps.noApps.middle "bhùth nan aplacaidean">
+<!ENTITY aboutApps.noApps.post ".">
