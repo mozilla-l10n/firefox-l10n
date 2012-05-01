@@ -3,8 +3,8 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "寄件伺服器 (SMTP) 設定">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "雖然您可設定多個寄件伺服器 (SMTP)，但通常設定一個就夠了，設定過多易造成寄送錯誤。">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "管理您的身分時，您可以自此清單選擇一個伺服器作為外寄郵件（SMTP）伺服器，或是選擇「使用預設伺服器」以使用此清單當中的預設伺服器。">
 
 <!ENTITY smtpListAdd.label  "新增…">
 <!ENTITY smtpListAdd.accesskey  "d">

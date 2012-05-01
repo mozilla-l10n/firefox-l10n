@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(無拼字建議)">
-<!ENTITY spellCheckIgnoreWord.label "忽略單字">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "新增到字典">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "建立鏈結…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "用新編輯器視窗編輯此鏈結">
