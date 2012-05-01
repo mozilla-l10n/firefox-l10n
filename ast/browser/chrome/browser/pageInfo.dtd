@@ -101,6 +101,7 @@
 <!ENTITY  permIndexedDB "Caltener almacenamientu en mou ensin conexón">
 <!ENTITY  permClearStorage "Llimpiar almacenamientu">
 <!ENTITY  permClearStorage.accesskey "c">
+<!ENTITY  permPlugins "Activar plugins">
 <!ENTITY  securityTab           "Seguridá">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Información de seguridá pa esta páxina">
