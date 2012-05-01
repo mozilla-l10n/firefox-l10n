@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Baɗte &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ko ƴeewditorde tee ena waawi waasde yamɗude.">
+<!ENTITY aboutPage.telemetryStart               " Neldat humpito e jaajol baɗte moƴƴugol, masiŋeeri, kuutorgol e keertine to ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " ngam ɓeydude &brandShortName; moƴƴude.">
 <!ENTITY aboutPage.checkForUpdates.link         "Yuurno Kesɗitine »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Nana yiyloo kesɗitine…">
 <!ENTITY aboutPage.checkForUpdates.none         "Alaa kesɗitine ngoodi">

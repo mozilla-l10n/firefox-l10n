@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Teelto Kukiije">
 <!ENTITY  permInstall           "Loow Timmitte e Wutteeji">
 <!ENTITY  permGeo               "Simmin Nokkuure">
+<!ENTITY  permPlugins           "Hurmin Ceŋe">
 
 <!ENTITY  permIndexedDB              "Duumnu Mooftol Ceŋtol">
 <!ENTITY  permClearStorage           "Momtu Mooftol">

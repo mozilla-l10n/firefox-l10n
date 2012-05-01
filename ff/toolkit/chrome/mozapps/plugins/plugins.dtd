@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ena sokli hurmitineede ngam ceŋe(ol) mbaawa dogde.">
 
 <!ENTITY missingPlugin                                       "Ceŋol ena soklaa ngam jaytinde ndii loowdi.">
-<!ENTITY clickToPlayPlugin                                   "Tappu ɗoo ngam daaƴtude ceŋol.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tappu ɗoo ngam daaƴtude ceŋol.">
+<!ENTITY clickToPlayPlugins                                  "Dobo ɗoo ngam daaƴtude ceŋe.">
 <!ENTITY disabledPlugin                                      "Ngol ceŋol ko daaƴangol.">
 <!ENTITY blockedPlugin.label                                 "Ngol ceŋol daaƴaama ngam reende kisal maa.">
 

@@ -27,6 +27,8 @@
 <!ENTITY cookie.removeAll                "Momtu Kukiije Fof">
 
 <!ENTITY geo.label                       "Simmin Nokkuure">
+
+<!ENTITY plugins.label                   "Ceŋe">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
