@@ -71,7 +71,7 @@
 <!ENTITY cmd.moveBookmarks.label                  "移動…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY col.title.label         "名稱">
+<!ENTITY col.title.label         "開啟">
 <!ENTITY col.tags.label          "標籤">
 <!ENTITY col.url.label           "網址">
 <!ENTITY col.lastvisit.label     "瀏覽日期">
@@ -86,7 +86,7 @@
 
 <!ENTITY search.in.label                           "尋找:">
 <!ENTITY search.scopeFolder.label                  "所選的資料夾">
-<!ENTITY search.scopeFolder.accesskey              "S">
+<!ENTITY search.scopeFolder.accesskey              "m">
 <!ENTITY search.scopeBookmarks.label               "書籤">
 <!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY saveSearch.label                          "儲存">

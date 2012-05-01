@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "透露地理位置">
 
+<!ENTITY plugins.label                   "外掛程式">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "使用離線儲存空間">

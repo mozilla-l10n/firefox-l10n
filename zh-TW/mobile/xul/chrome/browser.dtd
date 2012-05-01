@@ -25,7 +25,7 @@
 
 <!ENTITY allPagesHeader.label      "所有頁面">
 <!ENTITY bookmarksHeader.label     "書籤">
-<!ENTITY historyHeader.label       "瀏覽記錄">
+<!ENTITY historyHeader.label       "歷史">
 <!ENTITY desktopHeader.label       "桌面">
 
 <!ENTITY editBookmarkDialog.title  "編輯書籤">
@@ -40,7 +40,7 @@
 <!ENTITY addonsRepo.label          "取得元件">
 <!ENTITY addonsRecommended.label   "推薦元件">
 <!ENTITY addonsSearch.label        "搜尋">
-<!ENTITY addonsSearch2.emptytext   "搜尋">
+<!ENTITY addonsSearch2.emptytext   "搜尋分類">
 <!ENTITY addonsSearch.recommended  "推薦元件">
 
 <!ENTITY addonOptions.label        "選項">
@@ -61,7 +61,7 @@
 <!ENTITY downloadRetry.label       "重試">
 <!ENTITY downloadRemove.label      "移除">
 <!ENTITY downloadDelete.label      "刪除">
-<!ENTITY downloadFailed.label      "下載失敗">
+<!ENTITY downloadFailed.label      "失敗">
 
 <!ENTITY noResults.label           "沒有結果">
 <!ENTITY allBookmarks.label        "顯示所有書籤">
@@ -72,7 +72,7 @@
 <!ENTITY bookmarkShortcut.label    "新增至裝置主畫面">
 
 <!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
-<!ENTITY identity.connectedTo2 "連線到">
+<!ENTITY identity.connectedTo2 "已連線到">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string

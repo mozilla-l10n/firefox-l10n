@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "關於 &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; 是一個實驗用的測試版本，可能不夠穩定。">
+<!ENTITY aboutPage.telemetryStart               " 這將會自動傳送與效能、硬體設定、使用程度，以及自訂選項的相關資訊給 ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " 以幫助 &brandShortName; 變得更好。">
 <!ENTITY aboutPage.checkForUpdates.link         "檢查更新 »">
 <!ENTITY aboutPage.checkForUpdates.checking     "正在尋找更新…">
 <!ENTITY aboutPage.checkForUpdates.none         "沒有可用的更新">
