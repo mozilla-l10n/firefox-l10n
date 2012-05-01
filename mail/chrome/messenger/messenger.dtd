@@ -26,7 +26,7 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "現有的電子郵件帳號…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<!ENTITY newIMAccountCmd.label "停止重新連線">
+<!ENTITY newIMAccountCmd.label "聊天帳號…">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "開啟已存郵件…">
 <!ENTITY openMessageFileCmd.accesskey "O">
@@ -327,7 +327,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "上一頁">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "聊天帳號…">
+<!ENTITY goChatCmd.label "聊天">
 <!ENTITY goChatCmd.accesskey "C">
 <!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "已加星號郵件">
@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "只回覆給寄件者">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "回覆給新聞群組">
-<!ENTITY replyNewsgroupCmd.accesskey  "y">
+<!ENTITY replyNewsgroupCmd2.label "加入郵件群組討論">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "回覆給所有人">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -473,7 +473,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "活動管理員">
 <!ENTITY activitymanager.accesskey "v">
-<!ENTITY imAccountsStatus.label "聊天帳號…">
+<!ENTITY imAccountsStatus.label "聊天狀態">
 <!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available          "有空">
 <!ENTITY imStatus.unavailable        "沒空">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "錯誤主控台">
 <!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "帳號設定…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "回信給寄件者">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "回覆給新聞群組">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyNewsgroup2.label "加入郵件群組討論">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "回信給所有人">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "回覆至清單">

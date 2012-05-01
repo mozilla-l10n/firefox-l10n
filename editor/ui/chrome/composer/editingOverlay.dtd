@@ -62,7 +62,7 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "發佈為…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY fileRevert.label "還原舊版">
+<!ENTITY fileRevert.label "反向">
 <!ENTITY fileRevert.accesskey "t">
 
 <!-- Edit menu items -->

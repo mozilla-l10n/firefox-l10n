@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "郵件儲存">
 <!ENTITY securitySettings.label "安全設定">
 <!ENTITY serverSettings.label "伺服器設定">
 <!ENTITY serverType.label "伺服器類型:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "連線到此伺服器時一律要求認證">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc 檔:">
-<!ENTITY localPath.label "本地目錄:">
+<!ENTITY newsrcPicker.label "選取 newsrc 檔">
 <!ENTITY abbreviate.label "資料夾顯示新聞群組名稱的方式:">
 <!ENTITY abbreviateOn.label "完整名稱 (例: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "縮寫 (例: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "進階…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "預設字元編碼方式:">
+<!ENTITY localPath.label "本地目錄:">
 <!ENTITY localFolderPicker.label "選取本機郵件匣">
 <!ENTITY browseFolder.label "瀏覽…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "選取 newsrc 檔">
 <!ENTITY browseNewsrc.label "瀏覽…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "帳號設定">
+<!ENTITY accountSettingsDesc.label "這是沒有任何身份資訊的特殊帳號。">

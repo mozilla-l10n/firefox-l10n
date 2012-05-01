@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "停止傳送"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(無拼字建議)">
-<!ENTITY spellCheckIgnoreWord.label "忽略此字">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "新增到字典">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "開啟">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "重新命名…">

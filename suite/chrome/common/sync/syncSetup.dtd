@@ -37,7 +37,7 @@
 <!ENTITY setup.tosAgree2.label      "我同意">
 <!ENTITY setup.ppLink.label         "隱私權保護政策">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 在乎您的隱私">

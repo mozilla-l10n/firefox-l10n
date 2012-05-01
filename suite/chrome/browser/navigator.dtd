@@ -51,7 +51,7 @@
 <!ENTITY throbber.tooltip             "&vendorShortName; 的首頁">
 
 <!ENTITY locationBar.tooltip          "輸入網址及搜尋欄位">
-<!ENTITY locationBar.accesskey        "L">
+<!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "網址">
 <!ENTITY proxyIcon.tooltip            "拖放圖示以建立此頁鏈結">
 

@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "帳號設定">
-<!ENTITY accountSettingsDesc.label "這是沒有任何身份資訊的特殊帳號。">
 <!ENTITY accountName.label "帳號名稱:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY messageStorage.label "郵件儲存">
-<!ENTITY emptyTrashOnExit.label "結束時清空垃圾桶">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY localPath.label "本地目錄:">
-<!ENTITY localFolderPicker.label "選取本地目錄">
-<!ENTITY browseFolder.label "瀏覽…">
-<!ENTITY browseFolder.accesskey "B">
