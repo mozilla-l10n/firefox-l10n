@@ -1,9 +1,9 @@
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
-<!ENTITY toAddr.label   "A:"> 
-<!ENTITY ccAddr.label   "Cc:"> 
-<!ENTITY bccAddr.label  "Cco:"> 
-<!ENTITY replyAddr.label   "Respon-A:"> 
-<!ENTITY newsgroupsAddr.label   "Grup de discussió:"> 
-<!ENTITY followupAddr.label   "Seguiment-A:"> 
+<!ENTITY toAddr.label   "A:">
+<!ENTITY ccAddr.label   "Cc:">
+<!ENTITY bccAddr.label  "Cco:">
+<!ENTITY replyAddr.label   "Respon-A:">
+<!ENTITY newsgroupsAddr.label   "Grup de discussió:">
+<!ENTITY followupAddr.label   "Seguiment-A:">
 
