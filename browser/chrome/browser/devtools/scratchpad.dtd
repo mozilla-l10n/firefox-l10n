@@ -37,7 +37,7 @@
 <!ENTITY helpMenuWin.label "Ayuda">
 <!ENTITY helpMenuWin.accesskey "y">
 <!ENTITY documentationLink.label "Ayuda de borrador en MDN">
-<!ENTITY documentationLink.accesskey "">
+<!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Restablecer">
 <!ENTITY resetContext2.accesskey "R">
 <!ENTITY executeMenu.label "Acción">

@@ -159,9 +159,9 @@
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar el Inspector">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
-<!ENTITY inspectorHTMLCopyInner.accesskey "">
+<!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "O">
 <!ENTITY inspectorHTMLDelete.label "Eliminar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "m">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
@@ -438,6 +438,5 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerrar la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY htmlPanel.label "HTML">
-<!ENTITY htmlPanel.tooltiptext "Panel HTML">
-<!ENTITY htmlPanel.accesskey "">
+<!ENTITY markupButton.arialabel "Marcado">
+<!ENTITY markupButton.accesskey "M">

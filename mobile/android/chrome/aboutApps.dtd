@@ -1,0 +1,4 @@
+<!ENTITY aboutApps.title "Sus aplicaciones">
+<!ENTITY aboutApps.noApps.pre "No se han encontrado aplicaciones instaladas. Consiga algunas desde ">
+<!ENTITY aboutApps.noApps.middle "la tienda de aplicaciones">
+<!ENTITY aboutApps.noApps.post ".">
