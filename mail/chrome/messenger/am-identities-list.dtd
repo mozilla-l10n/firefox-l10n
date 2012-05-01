@@ -5,5 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "Suprimeix">
 <!ENTITY identitiesListDelete.accesskey "S">
-<!ENTITY identitiesListClose.label "Close">
-<!ENTITY identitiesListClose.accesskey "C">
+<!ENTITY identitiesListClose.label "Tanca">
+<!ENTITY identitiesListClose.accesskey "c">

@@ -17,7 +17,7 @@
 <!ENTITY fileHereMenu.accesskey      "A">
 <!ENTITY fileButton.label            "Arxiva">
 <!ENTITY fileButton.accesskey        "A">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Obre a la carpeta">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Desa com una carpeta de cerca">
@@ -54,7 +54,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
-<!ENTITY threadColumn.tooltip "Feu un clic per visualitzar les cadenes de missatges"> 
+<!ENTITY threadColumn.tooltip "Feu un clic per visualitzar les cadenes de missatges">
 <!ENTITY fromColumn.tooltip "Feu un clic per ordenar per remitent">
 <!ENTITY recipientColumn.tooltip "Feu un clic per ordenar per destinatari">
 <!ENTITY subjectColumn.tooltip "Feu un clic per ordenar per assumpte">
