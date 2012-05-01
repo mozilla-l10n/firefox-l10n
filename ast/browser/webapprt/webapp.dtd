@@ -1,0 +1,34 @@
+<!ENTITY fileMenu.label "Ficheru">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY quitApplicationCmdWin.label "Colar">
+<!ENTITY quitApplicationCmdWin.accesskey "C">
+<!ENTITY quitApplicationCmd.label "Quitar">
+<!ENTITY quitApplicationCmd.accesskey "u">
+<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY hideThisAppCmdMac.key "A">
+<!ENTITY hideOtherAppsCmdMac.label "Anubrir otros">
+<!ENTITY hideOtherAppsCmdMac.key "A">
+<!ENTITY showAllAppsCmdMac.label "Amosar too">
+<!ENTITY editMenu.label "Editar">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Desfacer">
+<!ENTITY undoCmd.key "f">
+<!ENTITY undoCmd.accesskey "r">
+<!ENTITY redoCmd.label "Refacer">
+<!ENTITY redoCmd.key "e">
+<!ENTITY redoCmd.accesskey "e">
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Apegar">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "Desaniciar">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "n">
+<!ENTITY selectAllCmd.label "Esbillar too">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "b">
