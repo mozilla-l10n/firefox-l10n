@@ -69,7 +69,7 @@
 <!ENTITY tableCaptionNone.label           "無">
 <!ENTITY tableInheritColor.label           "(使用頁面顏色)">
 
-<!ENTITY cellSelection.label              "選取">
+<!ENTITY cellSelection.label              "選取範圍">
 <!ENTITY cellSelectCell.label             "資料格">
 <!ENTITY cellSelectRow.label              "列數">
 <!ENTITY cellSelectColumn.label           "欄數">

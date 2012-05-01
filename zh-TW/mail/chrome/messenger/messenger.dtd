@@ -774,7 +774,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "垃圾郵件">
+<!ENTITY junkBarMessage2.label "&brandShortName; 認為此訊息是垃圾信。">
 <!ENTITY junkBarButton1.label "非垃圾信">
 <!ENTITY junkInfoButton.label "?">
 
