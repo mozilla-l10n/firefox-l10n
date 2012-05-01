@@ -1,4 +1,4 @@
-<!ENTITY elementSize.label "Tamaño del elemento">
+<!ENTITY elementSize.label "Tamaño del elemento: ">
 <!ENTITY margins.tooltip "márgenes">
 <!ENTITY borders.tooltip "Borde">
 <!ENTITY padding.tooltip "padding">
