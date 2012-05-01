@@ -20,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "u">
 <!ENTITY overrideNamespaces.label "Permet que el servidor substitueixi aquests espais de noms">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Quan es baixi el correu POP d'aquest servidor, utilitza la carpeta següent per al correu nou:" >
+<!ENTITY pop3Desc.label "Quan es baixi el correu POP d'aquest servidor, utilitza la carpeta següent per al correu nou:">
 <!ENTITY globalInbox.label "Safata d'entrada global (compte de les carpetes locals)">
 <!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Safata d'entrada per al compte d'aquest servidor">

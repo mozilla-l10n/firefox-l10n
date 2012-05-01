@@ -18,17 +18,17 @@
 <!ENTITY chooseFolderMac.label        "Tria…">
 <!ENTITY chooseFolderMac.accesskey    "T">
 
-<!ENTITY attachments.incoming.label   "Incoming">
-<!ENTITY attachments.outgoing.label   "Outgoing">
+<!ENTITY attachments.incoming.label   "Entrada">
+<!ENTITY attachments.outgoing.label   "Sortida">
 
-<!ENTITY addCloudFileAccount.label        "Add">
+<!ENTITY addCloudFileAccount.label        "Afegeix">
 <!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
-<!ENTITY removeCloudFileAccount.label     "Remove">
-<!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorize">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY addCloudFileAccount.description  "Afegeix un servei d'emmagatzemament Filelink nou">
+<!ENTITY removeCloudFileAccount.label     "Suprimeix">
+<!ENTITY removeCloudFileAccount.accesskey "r">
+<!ENTITY authRequired.description         "Cal la vostra autorització per veure els paràmetres d'aquest dispositiu d'emmagatzemament.">
+<!ENTITY authRequired.button.label        "Autoritza">
+<!ENTITY authRequired.button.accesskey    "u">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.label "Ofereix compartir fitxer més grans de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
