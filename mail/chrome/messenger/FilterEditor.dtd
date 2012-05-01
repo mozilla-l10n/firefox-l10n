@@ -39,4 +39,7 @@
 <!ENTITY ignoreThread.label "Ignorar fío">
 <!ENTITY ignoreSubthread.label "Ignorar fío secundario">
 <!ENTITY watchThread.label "Mostrar fío">
-<!ENTITY stopExecution.label "Parar a execución do filtro">
+<!ENTITY stopExecution.label "Deter a execución do filtro">
+
+<!ENTITY addAction.tooltip "Engadir unha nova acción">
+<!ENTITY removeAction.tooltip "Retirar esta acción">
