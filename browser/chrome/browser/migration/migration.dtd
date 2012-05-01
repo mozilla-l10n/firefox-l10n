@@ -12,8 +12,6 @@
 <!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromFirefox.label "Firefox">
 <!ENTITY importFromFirefox.accesskey "X">
-<!ENTITY importFromHTMLFile.label "Desde un archivo HTML">
-<!ENTITY importFromHTMLFile.accesskey "v">
 <!ENTITY noMigrationSources.label "No se pudieron encontrar programas que contuvieran marcadores, historial o datos de contraseñas.">
 <!ENTITY importSource.title "Importar configuración y datos">
 <!ENTITY importItems.title "Elementos a importar">
