@@ -158,6 +158,13 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar el Inspector">
+<!ENTITY devToolbarCloseButton.tooltiptext "Cerrar la barra de desarrolladores">
+<!ENTITY devToolbarMenu.label "Barra de desarrolladores">
+<!ENTITY devToolbarMenu.accesskey "b">
+<!ENTITY devToolbar.commandkey "v">
+<!ENTITY webConsoleButton.label "Consola web">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY scriptsButton.label "Scripts">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">

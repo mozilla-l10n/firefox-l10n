@@ -1,7 +1,7 @@
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY quitApplicationCmdWin.label "Salir">
-<!ENTITY quitApplicationCmdWin.accesskey "C">
+<!ENTITY quitApplicationCmdWin.accesskey "s">
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY quitApplicationCmdMac.key "Q">
@@ -12,10 +12,10 @@
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Deshacer">
-<!ENTITY undoCmd.key "h">
-<!ENTITY undoCmd.accesskey "U">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "h">
 <!ENTITY redoCmd.label "Rehacer">
-<!ENTITY redoCmd.key "h">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
