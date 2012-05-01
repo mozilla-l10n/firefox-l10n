@@ -26,8 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Compte de correu existent...">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
-<!ENTITY newIMAccountCmd.label "Chat Account…">
-<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMAccountCmd.label "Compte de xat…">
+<!ENTITY newIMAccountCmd.accesskey "x">
 <!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Adjuncions">
@@ -256,7 +256,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "g">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Redueix">
@@ -328,9 +328,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Enrere">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Chat">
-<!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.label "Xat">
+<!ENTITY goChatCmd.accesskey "x">
+<!ENTITY goChatCmd.commandKey "X">
 <!ENTITY prevStarredMsgCmd.label "Missatge destacat">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Carpeta">
@@ -474,12 +474,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "m">
 <!ENTITY activitymanager.label "Gestor d'activitat">
 <!ENTITY activitymanager.accesskey "a">
-<!ENTITY imAccountsStatus.label "Chat status">
-<!ENTITY imAccountsStatus.accesskey "C">
-<!ENTITY imStatus.available          "Available">
-<!ENTITY imStatus.unavailable        "Unavailable">
-<!ENTITY imStatus.offline            "Offline">
-<!ENTITY imStatus.showAccounts       "Show Accounts…">
+<!ENTITY imAccountsStatus.label "Estat del xat">
+<!ENTITY imAccountsStatus.accesskey "x">
+<!ENTITY imStatus.available          "Disponible">
+<!ENTITY imStatus.unavailable        "No disponible">
+<!ENTITY imStatus.offline            "Fora de línia">
+<!ENTITY imStatus.showAccounts       "Mostra els comptes…">
 <!ENTITY savedFiles.label "Fitxers desats">
 <!ENTITY savedFiles.accesskey "d">
 <!ENTITY savedFiles.key "j">
@@ -515,11 +515,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Mou">
 <!ENTITY archiveButton.label "Arxiva">
 <!ENTITY nextButton.label "Següent">
-<!ENTITY nextButtonToolbarItem.label "Next Unread">
-<!ENTITY nextMsgButton.label "Next">
+<!ENTITY nextButtonToolbarItem.label "Per llegir següent">
+<!ENTITY nextMsgButton.label "Següent">
 <!ENTITY previousButton.label "Anterior">
-<!ENTITY previousButtonToolbarItem.label "Previous Unread">
-<!ENTITY previousMsgButton.label "Previous">
+<!ENTITY previousButtonToolbarItem.label "Per llegir anterior">
+<!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY backButton1.label "Enrere">
 <!ENTITY goForwardButton1.label "Endavant">
 <!ENTITY deleteItem.title "Suprimeix">
@@ -533,7 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Correu brossa">
 <!ENTITY notJunkButton.label "És correu legítim">
 <!ENTITY addressBookButton.label "Llibreta d'adreces">
-<!ENTITY chatButton.label "Chat">
+<!ENTITY chatButton.label "Xat">
 <!ENTITY glodaSearch.title "Cerca global">
 <!ENTITY searchItem.title "Cerca ràpida">
 <!ENTITY mailViewsToolbarItem.title "Vistes de la missatgeria">
@@ -554,9 +554,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Mou el missatge seleccionat">
 <!ENTITY archiveButton.tooltip "Arxiva els missatges seleccionats">
 <!ENTITY nextButton.tooltip "Vés al següent missatge per llegir">
-<!ENTITY nextMsgButton.tooltip "Move to the next message">
+<!ENTITY nextMsgButton.tooltip "Vés al missatge següent">
 <!ENTITY previousButton.tooltip "Vés a l'anterior missatge per llegir">
-<!ENTITY previousMsgButton.tooltip "Move to the previous message">
+<!ENTITY previousMsgButton.tooltip "Vés al missatge anterior">
 <!ENTITY goForwardButton.tooltip "Vés endavant un missatge">
 <!ENTITY goBackButton.tooltip "Vés enrere un missatge">
 <!ENTITY deleteButton.tooltip "Suprimeix el missatge o carpeta seleccionada">
@@ -567,7 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a brossa">
 <!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a legítims">
 <!ENTITY addressBookButton.tooltip "Vés a la llibreta d'adreces">
-<!ENTITY chatButton.tooltip "Show the Chat tab">
+<!ENTITY chatButton.tooltip "Mostra la pestanya de xat">
 <!ENTITY tagButton.tooltip "Etiqueta els missatges">
 <!ENTITY compactButton.tooltip "Treu els missatges suprimits de la carpeta seleccionada">
 <!-- Tags Menu Popup -->
@@ -809,7 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Search… #1">
+<!ENTITY search.label.base "Cerca… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
