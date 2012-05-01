@@ -18,3 +18,4 @@
 <!ENTITY geo.label "Compartir llocalización">
 <!ENTITY indexedDB.label "Caltener almacenamientu en mou ensin conexón">
 <!ENTITY popup.label "Abrir ventanes emerxentes">
+<!ENTITY plugins.label                   "Plugins">

@@ -15,8 +15,6 @@
 <!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromHTMLFile.label       "Dende un ficheru HTML">
-<!ENTITY importFromHTMLFile.accesskey   "D">
 
 <!ENTITY noMigrationSources.label       "Nun se pudieron atopar programes que contuvieran marcadores, historial o datos de contraseñes.">
 

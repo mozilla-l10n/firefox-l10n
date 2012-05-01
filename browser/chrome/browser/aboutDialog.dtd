@@ -13,7 +13,7 @@
 <!ENTITY community.exp.creditsLink "comunidá global">
 <!ENTITY community.exp.end " que trabaya xunida pa caltener la Web abierta, pública y accesible pa toos.">
 <!ENTITY warningDesc.version "&brandShortName; ye esperimental y pue ser inestable.">
-<!ENTITY warningDesc.telemetry "Automáticamente unvia información de test a &vendorShortName; pa facer &brandShortName; meyor.">
+<!ENTITY warningDesc.telemetryDesc "Manda automáticamente información tocante al rendimientu, hardware, usu y personalizaciones a &vendorShortName; pa facer meyor &brandShortName;.">
 <!ENTITY contribute.start "¿Suénate interesante? ">
 <!ENTITY contribute.getInvolvedLink "¡Xúnite a nós!">
 <!ENTITY contribute.end "">
