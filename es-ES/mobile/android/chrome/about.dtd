@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title "Acerca de &brandShortName;">
+<!ENTITY aboutPage.warningVersion "&brandShortName; es experimental y puede ser inestable.">
+<!ENTITY aboutPage.telemetryStart " Manda automáticamente información acerca del rendimiento, hardware, uso y personalizaciones a ">
+<!ENTITY aboutPage.telemetryMozillaLink "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd " para ayudar a hacer &brandShortName; mejor.">
 <!ENTITY aboutPage.checkForUpdates.link "Buscar actualizaciones »">
 <!ENTITY aboutPage.checkForUpdates.checking "Buscando actualizaciones…">
 <!ENTITY aboutPage.checkForUpdates.none "No hay actualizaciones">
@@ -9,4 +13,4 @@
 <!ENTITY aboutPage.rights.label "Conozca sus derechos">
 <!ENTITY aboutPage.relNotes.label "Notas de publicación">
 <!ENTITY aboutPage.credits.label "Créditos">
-<!ENTITY aboutPage.license.label "Información de licencia">
+<!ENTITY aboutPage.license.label "Información sobre la licencia">

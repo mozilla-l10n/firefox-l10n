@@ -44,3 +44,4 @@
 <!ENTITY bookmarks.folder.desktop.label "Marcadores de escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
 <!ENTITY sync.notification.oneaccount.label "Sólo está permitida una cuenta de &syncBrand.fullName.label;.">
+<!ENTITY sync.new.recoverykey.status.incorrect "">
