@@ -775,7 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY contextUnmute.accesskey "A">
 
 <!-- junk bar -->
-<!ENTITY junkBarMessage1.label "Message indésirable">
+<!ENTITY junkBarMessage2.label "&brandShortName; pense que ce message est indésirable.">
 <!ENTITY junkBarButton1.label "Acceptable">
 <!ENTITY junkInfoButton.label "?">
 
