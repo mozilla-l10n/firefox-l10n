@@ -215,6 +215,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Inspector sluiten">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Developer werkbalk sluiten">
+<!ENTITY devToolbarMenu.label "Developer werkbalk">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY webConsoleButton.label "Webconsole">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY scriptsButton.label "Scripts">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Binnenste HTML kopiëren">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "i">
 
