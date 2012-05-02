@@ -7,4 +7,5 @@
 <!ENTITY debuggerUI.stepOverButton "Saltar">
 <!ENTITY debuggerUI.stepInButton "Entrar">
 <!ENTITY debuggerUI.stepOutButton "Colar">
-
+<!ENTITY debuggerUI.emptyFilterText "Filtrar scripts">
+<!ENTITY remoteDebuggerMenu.label "Depurador remotu">
