@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "R">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Ei ehdotuksia)">
-<!ENTITY spellCheckIgnoreWord.label "Ohita sana">
-<!ENTITY spellCheckIgnoreWord.accesskey "h">
-<!ENTITY spellCheckAddToDictionary.label "Lisää sanastoon">
-<!ENTITY spellCheckAddToDictionary.accesskey "s">
 <!ENTITY createLinkCmd.label "Luo linkki…">
 <!ENTITY createLinkCmd.accesskey "n">
 <!ENTITY editLinkCmd.label "Muokkaa linkkiä uudessa Composer-ikkunassa">
