@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Emër Llogarie:">
 <!ENTITY addAccountDialog.noAccountText "Na ndjeni, por versioni i tanishëm i &brandShortName;-it lejon vetëm një llogari për çdo shërbim depozitimi në rrjet.">
-<!ENTITY addAccountDialog.createAccountText "Kjo veçori ju lejon të dërgoni bashkangjitje të mëdha duke përdorur një ose disa shërbime depozitimi në rrjet. Mundeni ose të lidheni te një llogari ekzistuese, ose të regjistroheni për një llogari të re.">
+<!ENTITY addAccountDialog.createAccountText2 "Duke përdorur një ose disa shërbime depozitimi në rrjet, mundeni të dërgoni bashkangjitje të mëdha. Ju lutemi, ose rregulloni një llogari ekzistuese, ose regjistrohuni për një llogari të ri.">
 <!ENTITY addAccountDialog.authorizing "Po kontrollohet autorizimi...">
 <!ENTITY addAccountDialog.error "Ndodhi një gabim gjatë rregullimit të llogarisë!">
 <!ENTITY addAccountDialog.acceptButton.label "Rregulloje Llogarinë">
+<!ENTITY addAccountDialog.learnMore "Mësoni më tepër…">

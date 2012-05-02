@@ -1,3 +1,7 @@
+spellCheckNoSuggestions.label
+
+
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
@@ -41,11 +45,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "N">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Nuk u Gjetën Këshillime)">
-<!ENTITY spellCheckIgnoreWord.label "Shpërfille Fjalën">
-<!ENTITY spellCheckIgnoreWord.accesskey "S">
-<!ENTITY spellCheckAddToDictionary.label "Shtoje në Fjalor">
-<!ENTITY spellCheckAddToDictionary.accesskey "t">
 <!ENTITY createLinkCmd.label "Krijoni Lidhje…">
 <!ENTITY createLinkCmd.accesskey "K">
 <!ENTITY editLinkCmd.label "Përpunojeni Lidhjen në Hartues të Ri">

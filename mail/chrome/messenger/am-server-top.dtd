@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Depozitim Mesazhesh">
 <!ENTITY securitySettings.label "Rregullime Sigurie">
 <!ENTITY serverSettings.label "Rregullime Shërbyesi">
 <!ENTITY serverType.label "Lloj Shërbyesi:">
@@ -78,3 +79,6 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, në pastë">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
+
+<!ENTITY accountTitle.label "Rregullime Llogarie">
+<!ENTITY accountSettingsDesc.label "Kjo që vijon është një llogari speciale.  Nuk ka identitete që i përshoqërohen asaj.">
