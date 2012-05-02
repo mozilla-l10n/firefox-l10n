@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Сервер">
-<!ENTITY serverType.default.label   "&syncBrand.fullName.label; сервері">
+<!ENTITY serverType.default.label      "Бастапқы: Mozilla &syncBrand.fullName.label; сервері">
 <!ENTITY serverType.custom2.label   "Басқа серверді қолдану…">
 <!ENTITY signIn.account2.label      "Тіркелгі">
 <!ENTITY signIn.account2.accesskey  "Т">
