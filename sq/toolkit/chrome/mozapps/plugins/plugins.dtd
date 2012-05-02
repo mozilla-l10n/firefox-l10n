@@ -27,9 +27,9 @@
 <!ENTITY report.disabled                                     "Noftimi i vithisjeve është çaktivizuar.">
 <!ENTITY report.failed                                       "Parashtrimi dështoi.">
 <!ENTITY report.unavailable                                  "Nuk njoftim.">
-
 <!ENTITY missingPlugin                                       "Që të shfaqet kjo lëndë, lypset një shtojcë.">
-<!ENTITY clickToPlayPlugin                                   "Prekeni këtu që të aktivizohet shtojca.">
+<!ENTITY tapToPlayPlugin                                     "Prekeni këtu që të aktivizohet shtojca.">
+<!ENTITY clickToPlayPlugins                                  "Klikoni këtu që të aktivizohen shtojcat.">
 <!ENTITY disabledPlugin                                      "Kjo shtojcë është e çaktivizuar.">
 <!ENTITY installPlugin                                       "Instaloni shtojca…">
 <!ENTITY managePlugins                                       "Administroni shtojca…">
