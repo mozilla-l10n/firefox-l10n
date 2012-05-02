@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Jepini një titull">
-<!ENTITY webapps.permissions "Lejoji:">
-<!ENTITY webapps.perm.geolocation "Shfletim të ndjeshëm ndaj vendit">
-<!ENTITY webapps.perm.offline "Depozitim të dhënash offline">
-<!ENTITY webapps.perm.notifications "Njoftime desktopi">
-<!ENTITY webapps.perm.requestedHint "(e domosdoshme)">
-<!ENTITY webapps.add-homescreen "Shtoje te skena hyrëse">

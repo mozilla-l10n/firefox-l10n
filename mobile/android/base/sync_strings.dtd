@@ -70,3 +70,5 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Mbulohet vetëm një llogari &syncBrand.fullName.label;.'>
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Kyç i pasaktë Riparimi. Ju lutemi, riprovoni.'>
