@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nueva pestanya">
-
-<!ENTITY newtab.show "Amostrar a pachina d'a nueva pestanya">
-<!ENTITY newtab.hide "Amagar a pachina d'a nueva pestanya">
-<!ENTITY newtab.reset "Restaurar a pachina d'a nueva pestanya">

@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "marcapachinas">
 <!ENTITY  locbar.nothing.label          "cosa">
 
-
 <!ENTITY  acceptCookies.label           "Acceptar cookies d'os puestos web">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Emplegar siempre o modo de navegación privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Remerar o mío historial de navegación">
-<!ENTITY  rememberHistory.accesskey  "v">
-
-<!ENTITY  rememberDownload.label         "Remerar l'historial de descargas">
-<!ENTITY  rememberDownload.accesskey     "R">
+<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Remerar l'historial de formularios y buscas">
 <!ENTITY  rememberSearchForm.accesskey   "f">
