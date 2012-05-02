@@ -2,8 +2,8 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; сынама түрі және тұрақсыз болуы мүмкін.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "Ол &vendorShortName; адресіне сынаудың нәтижелерін автоматты түрде жіберіп, &brandShortName; жақсартуға көмектеседі.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Ол автоматты түрде &vendorShortName; адресіне өнімділік, құрылғылар, қолданыс пен баптаулар ақпаратын жіберіп отырады, &brandShortName; жақсарту мақсатында.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
