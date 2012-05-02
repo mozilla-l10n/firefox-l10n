@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Csevegés kezdése">
+<!ENTITY name.label                     "Szoba">
+<!ENTITY optional.label                 "(opcionális">
+<!ENTITY account.label                  "Fiók">
+<!ENTITY autojoin.label                 "Automatikus belépés ebbe a szobába">
+<!ENTITY autojoin.accesskey             "A">
