@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Rreth &brandShortName;-ut">
+<!ENTITY aboutPage.warningVersion               "&brandShortName;-u është eksperimental dhe mund të jetë i paqëndrueshëm.">
+<!ENTITY aboutPage.telemetryStart               " Ai dërgon automatikisht të dhëna mbi funksionimin, hardware-in, përdorimin dhe personalizimin te ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " për të ndihmuar në përmirësimin e &brandShortName;-ut.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Asistencë">
 <!ENTITY aboutPage.privacyPolicy.label          "Rregulla Vetësie">
@@ -15,4 +19,11 @@
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
 <!ENTITY aboutPage.licenseLink                  "Të dhëna lejimi">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Licensing information">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">

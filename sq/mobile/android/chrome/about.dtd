@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Rreth &brandShortName;-ut">
+<!ENTITY aboutPage.warningVersion               "&brandShortName;-u është eksperimental dhe mund të jetë i paqëndrueshëm.">
+<!ENTITY aboutPage.telemetryStart               " Ai dërgon automatikisht të dhëna rreth funksionimit, hardware-it, përdorimit dhe personalizimit te ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " për të ndihmuar në përmirësimin e &brandShortName;-it.">
 <!ENTITY aboutPage.checkForUpdates.link         "Kontrollo për Përditësime »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Po shihet për përditësime…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nuk ka përditësime të passhme">
@@ -10,6 +14,8 @@
 <!ENTITY aboutPage.relNotes.label               "Shënime Versioni">
 <!ENTITY aboutPage.credits.label                "Falënderime">
 <!ENTITY aboutPage.license.label                "Të dhëna Lejimi">
+
+
 
 
 
