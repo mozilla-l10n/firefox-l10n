@@ -14,7 +14,7 @@
 <!ENTITY purge2.label "días">
 
 <!ENTITY whitelistHeader.label "Non marcar automaticamente como lixo os correos enviados por: ">
-<!ENTITY whitelist.accesskey "d">
+<!ENTITY whitelistHeader.accesskey "d">
 
 <!ENTITY ispHeadersWarning.label "Se activa esta opción, automaticamente o &brandShortName; considerará as mensaxes marcadas por este clasificador externo como lixo.">
 <!ENTITY ispHeaders.label "Confiar nas cabeceiras definidas como lixo por: ">
