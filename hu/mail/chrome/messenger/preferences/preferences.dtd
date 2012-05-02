@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Általános">
 <!ENTITY paneDisplay.title        "Megjelenítés">
 <!ENTITY paneComposition.title    "Szerkesztés">
+<!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Mellékletek">
 <!ENTITY paneSecurity.title       "Biztonság">
 <!ENTITY paneAdvanced.title       "Haladó">

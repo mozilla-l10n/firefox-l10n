@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Mozaik">
 <!ENTITY center.label               "Középre">
 <!ENTITY stretch.label              "Nyújtás">
+<!ENTITY fill.label                 "Fill">
+<!ENTITY fit.label                  "Fit">
 <!ENTITY preview.label              "Előnézet">
 <!ENTITY color.label                "Szín:">
 <!ENTITY setDesktopBackground.title "Asztalháttér beállítása">
