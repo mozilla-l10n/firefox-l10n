@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
 <!ENTITY warningDesc.version "&brandShortName; es experimental y podría ser inestable.">
-<!ENTITY warningDesc.telemetryDesc "It automatically sends information about performance, hardware, usage and customizations back to &vendorShortName; to help make &brandShortName; better.">
+<!ENTITY warningDesc.telemetryDesc "Envía automáticamente información acerca del rendimiento, hardware, uso y personalizaciones a &vendorShortName; para hacer &brandShortName; mejor.">
 <!ENTITY community.exp.start "">
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">
 <!ENTITY community.exp.middle " es una ">
