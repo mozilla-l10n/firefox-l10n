@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                 "Käynnistä &brandShortName; uudestaan, jotta liitännäiset rupeaisivat toimimaan.">
 
 <!ENTITY missingPlugin                                       "Sivun sisällön näyttämiseen tarvitaan liitännäinen.">
-<!ENTITY clickToPlayPlugin                                   "Käynnistä liitännäinen napsauttamalla tätä.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Käynnistä liitännäinen napsauttamalla tätä.">
+<!ENTITY clickToPlayPlugins                                   "Käynnistä liitännäiset napsauttamalla tätä.">
 <!ENTITY disabledPlugin                                      "Liitännäinen on poistettu käytöstä.">
 <!ENTITY blockedPlugin.label                                 "Tämä liitännäinen on estetty turvallisuusyistä.">
 
