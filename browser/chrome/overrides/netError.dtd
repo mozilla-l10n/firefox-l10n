@@ -27,7 +27,7 @@
 <!ENTITY generic.title "哎呀。">
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
 
-<!ENTITY malformedURI.title "非法地址">
+<!ENTITY malformedURI.title "无效的地址">
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>网页地址通常格式为

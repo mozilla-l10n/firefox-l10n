@@ -18,7 +18,7 @@
 <!ENTITY generic.title "无法完成请求">
 <!ENTITY generic.longDesc "<p>暂无关于此问题或错误的其他信息。</p>">
 
-<!ENTITY malformedURI.title "非法地址">
+<!ENTITY malformedURI.title "无效的地址">
 <!ENTITY malformedURI.longDesc "<p>无法辨认提供的地址。请检查地址栏中是否有错并重试。</p>">
 
 <!ENTITY netInterrupt.title "数据传送被中断">
