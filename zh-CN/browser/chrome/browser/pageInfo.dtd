@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "设置 Cookie">
 <!ENTITY  permInstall           "安装扩展或主题">
 <!ENTITY  permGeo               "共享方位信息">
+<!ENTITY  permPlugins           "激活插件">
 
 <!ENTITY  permIndexedDB              "维护离线存储">
 <!ENTITY  permClearStorage           "清除存储">
