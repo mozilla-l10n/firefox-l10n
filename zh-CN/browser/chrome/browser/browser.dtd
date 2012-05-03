@@ -102,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "订阅此页">
 <!ENTITY subscribeToPageMenuitem.label "订阅此页…">
 <!ENTITY addCurPagesCmd.label "将所有标签页加入书签…">
-<!ENTITY showAllBookmarks2.label "显示所有书签">
+<!ENTITY showAllBookmarks2.label "管理所有书签">
 <!ENTITY unsortedBookmarksCmd.label "未分类书签">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
@@ -280,7 +280,7 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.label               "清空最近历史记录…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "进入隐私浏览模式">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "退出隐私浏览模式">
@@ -308,7 +308,7 @@ can reach it easily. -->
 <!ENTITY historyRestoreLastSession.label "恢复上一次会话">
 
 <!ENTITY historyHomeCmd.label "主页">
-<!ENTITY showAllHistoryCmd2.label "显示所有历史">
+<!ENTITY showAllHistoryCmd2.label "管理所有历史记录">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "编辑">
@@ -606,14 +606,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "关闭附加组件栏">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "HTML 面板">
-
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "标记">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.accesskey          "M">

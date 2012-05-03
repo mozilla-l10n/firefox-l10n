@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "共享位置信息">
 
+<!ENTITY plugins.label                   "插件">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "维护离线存储">

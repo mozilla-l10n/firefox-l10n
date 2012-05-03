@@ -168,7 +168,7 @@
 
 <!ENTITY addon.homepage                       "主页">
 <!ENTITY addon.details.label                  "更多">
-<!ENTITY addon.details.tooltip                "显示该附加组件的更多详情">
+<!ENTITY addon.details.tooltip                "显示此附加组件的更多细节">
 <!ENTITY addon.unknownDate                    "未知">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -193,7 +193,7 @@
 <!ENTITY addon.checkingForUpdates.label       "正在检查更新…">
 <!ENTITY addon.releaseNotes.label             "发行说明：">
 <!ENTITY addon.loadingReleaseNotes.label      "载入中…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，载入该发行说明时发生了一个错误。">
+<!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，载入发行说明时发生错误。">
 
 <!ENTITY addon.createdBy.label                "创建者 ">
 
