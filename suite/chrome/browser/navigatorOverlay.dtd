@@ -43,7 +43,7 @@
 <!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "x">
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "Z">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informácie o stránke">
 <!ENTITY pageInfoCmd.accesskey "I">

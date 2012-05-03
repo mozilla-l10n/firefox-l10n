@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos">
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "Neboli nájdené žiadne návrhy">
-<!ENTITY spellCheckIgnoreWord.label "Ignorovať slovo">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Pridať do slovníka">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "Otvoriť">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "Premenovať…">

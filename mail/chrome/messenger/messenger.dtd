@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Odpovedať odosielateľovi">
 <!ENTITY replySenderCmd.accesskey "d">
-<!ENTITY replyNewsgroupCmd.label "Odpovedať do diskusnej skupiny">
-<!ENTITY replyNewsgroupCmd.accesskey "O">
+<!ENTITY replyNewsgroupCmd2.label "Reagovať do diskusnej skupiny">
+<!ENTITY replyNewsgroupCmd2.accesskey  "o">
 <!ENTITY replyToAllMsgCmd.label "Odpovedať všetkým">
 <!ENTITY replyToAllMsgCmd.accesskey "m">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "r">
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Nastavenie účtov…">
 <!ENTITY accountManagerCmd.accesskey "N">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
 <!ENTITY contextReplySender.accesskey "i">
-<!ENTITY contextReplyNewsgroup.label "Odpovedať do diskusnej skupiny">
-<!ENTITY contextReplyNewsgroup.accesskey "s">
+<!ENTITY contextReplyNewsgroup2.label "Reagovať do diskusnej skupiny">
+<!ENTITY contextReplyNewsgroup2.accesskey "s">
 <!ENTITY contextReplyAll.label "Odpovedať všetkým">
 <!ENTITY contextReplyAll.accesskey "v">
 <!ENTITY contextReplyList.label "Odpovedať zoznamu">
