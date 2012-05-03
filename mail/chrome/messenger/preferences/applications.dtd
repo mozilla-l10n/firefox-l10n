@@ -11,7 +11,7 @@
 
 <!ENTITY saveTo.label                 "保存文件至">
 <!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "总是询问我保存文件到哪">
+<!ENTITY alwaysAsk.label              "总是询问保存文件的位置">
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY chooseFolderWin.label        "浏览…">
 <!ENTITY chooseFolderWin.accesskey    "B">

@@ -15,8 +15,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "将垃圾消息自动标记为已读">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "启用垃圾过滤日志">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "启用自适应垃圾邮件过滤日志">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "显示日志">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "重置训练数据">
