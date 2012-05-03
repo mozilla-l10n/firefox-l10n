@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "消息存储">
 <!ENTITY securitySettings.label "安全设置">
 <!ENTITY serverSettings.label "服务器设置">
 <!ENTITY serverType.label "服务器类型：">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "链接到该服务器时总是请求认证">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc 文件：">
-<!ENTITY localPath.label "本地目录：">
+<!ENTITY newsrcPicker.label "选择 newsrc 文件">
 <!ENTITY abbreviate.label "在“邮件夹”中显示新闻组名为：">
 <!ENTITY abbreviateOn.label "全名（例如，'netscape.public.mozilla.mail-news'）">
 <!ENTITY abbreviateOff.label "缩写名（例如，'n.p.m.mail-news'）">
 <!ENTITY advancedButton.label "高级…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "默认字符编码:">
+<!ENTITY localPath.label "本地目录：">
 <!ENTITY localFolderPicker.label "选择本地文件夹">
 <!ENTITY browseFolder.label "浏览…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "选择 newsrc 文件">
 <!ENTITY browseNewsrc.label "浏览…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "帐户设置">
+<!ENTITY accountSettingsDesc.label "以下是特殊帐户。没有相关标识。">
