@@ -1,6 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Menubar.tooltip    "Hlavná ponuka">
 <!ENTITY Toolbar.tooltip    "Hlavný panel nástrojov">
-
 
 <!ENTITY multiline-expand.tooltip   "Zmeniť pole na viacriadkové (Ctrl+Up)">
 <!ENTITY multiline-contract.tooltip "Zmeniť pole na jednoriadkové (Ctrl+Down)">

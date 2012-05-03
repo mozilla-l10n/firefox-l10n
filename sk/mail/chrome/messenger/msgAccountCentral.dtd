@@ -5,6 +5,9 @@
 <!ENTITY newsSectionHdr.label         "Diskusné skupiny">
 <!ENTITY subscribeNewsLink.label      "Správa odoberania diskusných skupín">
 
+<!ENTITY feedsSectionHdr.label        "Informačné kanály">
+<!ENTITY subscribeFeeds.label         "Správa odoberania">
+
 <!ENTITY accountsSectionHdr.label     "Účty">
 <!ENTITY subscribeImapFolders.label   "Správa odoberania priečinkov">
 <!ENTITY settingsLink.label           "Zobraziť nastavenia tohto účtu">
@@ -15,6 +18,3 @@
 <!ENTITY filtersLink.label            "Správa filtrov správ">
 <!ENTITY junkSettings.label           "Nastavenie rozpoznávania nevyžiadanej pošty">
 <!ENTITY offlineLink.label            "Nastavenie režimu offline">
-
-<!ENTITY feedsSectionHdr.label        "Informačné kanály">
-<!ENTITY subscribeFeeds.label         "Správa odoberania">

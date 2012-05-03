@@ -41,3 +41,6 @@
 <!ENTITY ignoreSubthread.label "Ignorovať podvlákno">
 <!ENTITY watchThread.label "Sledovať vlákno">
 <!ENTITY stopExecution.label "Zastaviť vykonávanie filtra">
+
+<!ENTITY addAction.tooltip "Pridať novú akciu">
+<!ENTITY removeAction.tooltip "Odstrániť túto akciu">

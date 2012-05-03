@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Názov účtu:">
 <!ENTITY addAccountDialog.noAccountText "Ospravedlňujeme sa, aktuálna verzia e-mailového klienta &brandShortName; umožňuje používať len jeden účet pre každú zo služieb online úložiska.">
-<!ENTITY addAccountDialog.createAccountText "Táto funkcia umožňuje odosielať veľké prílohy využitím niektorej zo služieb poskytujúcich online úložiská. Môžete pri tom použiť váš existujúci účet, alebo si môžete založiť nový účet.">
+<!ENTITY addAccountDialog.createAccountText2 "Prostredníctvom služieb poskytujúcich online úložiská môžete odosielať aj veľké prílohy. Nastavte si svoj existujúci účet alebo si založte nový a môžete začať.">
 <!ENTITY addAccountDialog.authorizing "Overuje sa autorizácia…">
 <!ENTITY addAccountDialog.error "Pri nastavení účtu sa vyskytla chyba.">
 <!ENTITY addAccountDialog.acceptButton.label "Nastaviť účet">
+<!ENTITY addAccountDialog.learnMore "Ďalšie informácie…">

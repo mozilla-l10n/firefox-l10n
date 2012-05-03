@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "Prezradenie polohy">
 
+<!ENTITY plugins.label                   "Zásuvné moduly">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Správa ukladacieho priestoru pre režim offline">
