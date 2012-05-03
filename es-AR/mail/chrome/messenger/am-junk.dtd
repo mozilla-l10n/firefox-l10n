@@ -16,5 +16,10 @@
 <!ENTITY whitelistHeader.label "No marcar automáticamente el correo como basura si el remitente está en: ">
 <!ENTITY whitelistHeader.accesskey "N">
 
+<!ENTITY ispHeadersWarning.label "Si se habilita, &brandShortName; considerará automáticamente los mensajes marcados por este clasificador externo como basura.">
 <!ENTITY ispHeaders.label "Confiar en los encabezados de basura de: ">
 <!ENTITY ispHeaders.accesskey "C">
+
+<!ENTITY junkClassification.label "Selección">
+<!ENTITY junkActions.label "Destino y retención">
+
