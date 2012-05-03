@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "帐户名称：">
 <!ENTITY addAccountDialog.noAccountText "很抱歉，但目前的 &brandShortName; 版本对每个在线存储服务只允许一个帐号。">
-<!ENTITY addAccountDialog.createAccountText "此功能允许您使用这些在线存储服务之一来发送大的附件。您可以连接到现有的帐号，或者注册一个新帐号。">
+<!ENTITY addAccountDialog.createAccountText2 "您可以使用一些在线存储服务发送超大的附件。请输入一个已存在的账户或者注册新的账户。">
 <!ENTITY addAccountDialog.authorizing "正在检查授权...">
 <!ENTITY addAccountDialog.error "设立帐户时发生错误！">
 <!ENTITY addAccountDialog.acceptButton.label "设立帐号">
+<!ENTITY addAccountDialog.learnMore "了解更多…">
