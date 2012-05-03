@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "O programe &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "Zostavenie &brandShortName; je experimentálne a môže byť nestabilné.">
+<!ENTITY aboutPage.telemetryStart               " Zároveň spoločnosti ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " automaticky odosiela údaje o výkonnosti, hardvérovej konfigurácii, využívaní funkcií a nastavení prehliadača s cieľom vylepšiť budúce verzie prehliadača &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "Často kladené otázky">
 <!ENTITY aboutPage.support.label                "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label          "Zásady ochrany súkromia">

@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Odpovedať odosielateľovi a všetkým príjemcom">
 <!ENTITY hdrReplyListButton1.label "Odpovedať zoznamu">
 <!ENTITY hdrReplyListButton1.tooltip "Odpovedať do rozosielacieho zoznamu">
+<!ENTITY hdrFollowupButton1.label "Reagovať">
+<!ENTITY hdrFollowupButton1.tooltip "Odoslať reakciu do tejto diskusnej skupiny">
 <!ENTITY hdrForwardButton1.label "Odoslať ďalej">
 <!ENTITY hdrForwardButton1.tooltip "Odoslať túto správu ďalej">
 <!ENTITY hdrJunkButton1.label "Nevyžiadaná">

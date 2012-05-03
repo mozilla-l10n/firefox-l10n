@@ -1,7 +1,7 @@
 <!ENTITY  startupAction.label         "Pri spustení programu &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "P">
-<!ENTITY  startupOffline.label        "Ponechať všetky moje účty konverzácii v stave offline">
-<!ENTITY  startupConnectAuto.label    "Automaticky pripojiť všetky účty konverzácií">
+<!ENTITY  startupOffline.label        "ponechať všetky moje účty konverzácii v stave offline">
+<!ENTITY  startupConnectAuto.label    "automaticky pripojiť všetky účty konverzácií">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is

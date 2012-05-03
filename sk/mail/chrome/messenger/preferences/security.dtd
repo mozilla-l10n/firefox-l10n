@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey        "d">
 <!ENTITY markAsReadOnSpam.label                "Označiť správy identifikované ako nevyžiadané za prečítané">
 <!ENTITY markAsReadOnSpam.accesskey            "O">
-<!ENTITY enableJunkLogging.label               "Povoliť protokol z rozpoznávania nevyžiadanej pošty">
-<!ENTITY enableJunkLogging.accesskey           "P">
+<!ENTITY enableAdaptiveJunkLogging.label       "Povoliť protokol z adaptívneho rozpoznávania nevyžiadanej pošty">
+<!ENTITY enableAdaptiveJunkLogging.accesskey   "P">
 <!ENTITY openJunkLog.label                     "Zobraziť protokol">
 <!ENTITY openJunkLog.accesskey                 "Z">
 <!ENTITY resetTrainingData.label               "Vymazať zozbierané údaje">

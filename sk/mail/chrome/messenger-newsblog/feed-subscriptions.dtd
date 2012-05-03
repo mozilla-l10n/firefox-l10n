@@ -10,11 +10,12 @@
 <!ENTITY feedLocation.placeholder    "Zadajte platnú adresu kanála">
 
 <!ENTITY feedFolder.label            "Články ukladať v:">
-<!ENTITY feedFolder.accesskey        "k">
+<!ENTITY feedFolder.accesskey        "n">
 
 <!ENTITY quickMode.label             "Zobraziť stručný súhrn príspevku namiesto načítania celej webovej stránky">
 <!ENTITY quickMode.accesskey         "Z">
 
+<!ENTITY locationValidate.label      "Overiť">
 <!ENTITY validateText.label          "Overiť platnosť kanálu a získať platnú adresu URL.">
 
 <!ENTITY button.addFeed.label        "Pridať">

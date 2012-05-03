@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Zadajte názov">
-<!ENTITY webapps.permissions "Povoliť prístup k:">
-<!ENTITY webapps.perm.geolocation "Prezradenie polohy">
-<!ENTITY webapps.perm.offline "Úložisko pre režim offline">
-<!ENTITY webapps.perm.notifications "Desktopové notifikácie">
-<!ENTITY webapps.perm.requestedHint "(vyžadované)">
-<!ENTITY webapps.add-homescreen "Pridať na úvodnú stránku">
