@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Responder sólo al remitente">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Responder al grupo de noticias">
-<!ENTITY replyNewsgroupCmd.accesskey "g">
+<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
+<!ENTITY replyNewsgroupCmd2.accesskey  "g">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "p">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Configuración de cuentas…">
 <!ENTITY accountManagerCmd.accesskey "f">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -688,8 +689,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Responder sólo al remitente">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Responder al grupo de noticias">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Responder a todos">
 <!ENTITY contextReplyAll.accesskey "p">
 <!ENTITY contextReplyList.label "Responder a lista">
