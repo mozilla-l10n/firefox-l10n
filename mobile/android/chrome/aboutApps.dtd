@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "您的应用">
+
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.noApps.pre "还未安装 Web 应用。获取一些，从 ">
+<!ENTITY aboutApps.noApps.middle "应用商店">
+<!ENTITY aboutApps.noApps.post ".">
