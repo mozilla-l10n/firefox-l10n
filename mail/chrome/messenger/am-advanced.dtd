@@ -3,8 +3,8 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Server odchádzajúcej pošty (SMTP)">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Pre odosielanú poštu (SMTP) stačí uviesť jeden server aj v prípade, že máte niekoľko e-mailových účtov. Zadajte názov servera, ktorý používate najčastejšie.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Pri správe svojich identít môžete použiť server z tohto zoznamu jeho zvolením ako Server odchádzajúcej pošty (SMTP), alebo môžete použiť tu nastavený predvolený server zvolením položky &quot;Použiť predvolený server&quot;.">
 
 <!ENTITY smtpListAdd.label "Pridať…">
 <!ENTITY smtpListAdd.accesskey "r">

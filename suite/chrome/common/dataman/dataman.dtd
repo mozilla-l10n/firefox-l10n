@@ -97,6 +97,7 @@
 <!ENTITY perm.AskAlways "Vždy sa opýtať">
 <!ENTITY perm.NeverSave "Nikdy neukladať">
 <!ENTITY perm.Allow "Povoliť">
+<!ENTITY perm.AllowSameDomain "Povoliť pre rovnakú doménu">
 <!ENTITY perm.AllowSession "Povoliť pre reláciu">
 <!ENTITY perm.Block "Blokovať">
 

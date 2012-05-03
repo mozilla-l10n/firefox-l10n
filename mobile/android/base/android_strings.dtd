@@ -44,6 +44,7 @@
 <!ENTITY reload "Obnoviť">
 <!ENTITY forward "Dopredu">
 
+<!ENTITY close_tab "Zavrieť kartu">
 <!ENTITY new_tab "Nová karta">
 <!ENTITY new_tab_opened "Nová karta otvorená">
 
