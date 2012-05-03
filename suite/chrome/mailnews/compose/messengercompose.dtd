@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "停止当前传送"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "（无可用建议）">
-<!ENTITY spellCheckIgnoreWord.label "忽略该词">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "添加至字典">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "打开
 ">
 <!ENTITY openAttachment.accesskey "O">
