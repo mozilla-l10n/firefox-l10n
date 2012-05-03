@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "关于 &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; 是实验性的，可能不稳定。">
+<!ENTITY aboutPage.telemetryStart               " 它会自动回传有关性能、硬件、使用情况和定制的信息到 ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " 以帮助 &brandShortName; 变得更好。">
 <!ENTITY aboutPage.faq.label                    "常见问题">
 <!ENTITY aboutPage.support.label                "支持">
 <!ENTITY aboutPage.privacyPolicy.label          "隐私条款">
