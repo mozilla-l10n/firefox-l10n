@@ -79,11 +79,6 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Saltu baxo les imáxenes">
 <!ENTITY insertBreakAllCmd.accesskey "u">
-<!ENTITY spellCheckNoSuggestions.label "(Nun hai suxerencies)">
-<!ENTITY spellCheckIgnoreWord.label "Inorar pallabra">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Amestar al diccionariu">
-<!ENTITY spellCheckAddToDictionary.accesskey "A">
 <!ENTITY createLinkCmd.label "Crear enllaz…">
 <!ENTITY createLinkCmd.accesskey "n">
 <!ENTITY editLinkCmd.label "Editar enllaz en ventana de Composer nueva">

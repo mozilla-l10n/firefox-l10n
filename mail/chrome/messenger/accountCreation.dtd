@@ -48,8 +48,8 @@
 <!ENTITY technicaldetails.label "Detalles téunicos">
 <!ENTITY confirmWarning.label "Atalanto los riesgos.">
 <!ENTITY confirmWarning.accesskey "A">
-<!ENTITY createAccount.label "Crear cuenta">
-<!ENTITY createAccount.accesskey "u">
+<!ENTITY doneAccount.label "Fecho">
+<!ENTITY doneAccount.accesskey "F">
 <!ENTITY changeSettings.label "Camudar configuración">
 <!ENTITY changeSettings.accesskey "b">
 <!ENTITY contactYourProvider.description "&brandShortName; permite recuperar el corréu usando la configuración proporcionada. Sicasí, tendríes de contautar col to alministrador o fornidor de corréu-e en rellación a estes conexones inadecuaes. Llei la FAQ de Thunderbird pa más información.">
