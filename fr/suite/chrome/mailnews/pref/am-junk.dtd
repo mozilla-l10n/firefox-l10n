@@ -14,7 +14,7 @@
 <!ENTITY purge2.label "jours">
 
 <!ENTITY whitelistHeader.label "Ne pas marquer automatiquement les messages comme indésirables si l'expéditeur est dans : ">
-<!ENTITY whitelist.accesskey "N">
+<!ENTITY whitelistHeader.accesskey "N">
 
 <!ENTITY ispHeadersWarning.label "Quand cette fonctionnalité est activée, &brandShortName; considère automatiquement les messages désignés par cet outil externe comme indésirables.">
 <!ENTITY ispHeaders.label "Se fier aux en-têtes de courrier indésirable placés par : ">
