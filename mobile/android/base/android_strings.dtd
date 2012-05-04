@@ -125,3 +125,18 @@
 <!ENTITY filepicker_audio_title "Choisir ou enregistrer un son">
 <!ENTITY filepicker_image_title "Choisir une image ou faire une copie d\u0027écran">
 <!ENTITY filepicker_video_title "Choisir ou enregistrer une vidéo">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Vous vous trouvez sur">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "dont le détenteur est">
