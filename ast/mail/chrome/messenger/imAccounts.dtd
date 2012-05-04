@@ -1,0 +1,24 @@
+<!ENTITY accountsWindow.title "Estáu de la mensaxería nel intre">
+<!ENTITY accountsWindow.style "width: 61em; height: 41em;">
+<!ENTITY accountManager.newAccount.label "Nueva cuenta">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label "Zarrar">
+<!ENTITY accountManager.close.accesskey "Z">
+<!ENTITY accountManager.close.commandkey "a">
+<!ENTITY accountManager.noAccount.title "Entá nun hai denguna cuenta configurada">
+<!ENTITY accountManager.noAccount.description "Calca nel botón &accountManager.newAccount.label; pa permitir a &brandShortName; guiate a traviés del procesu de configuración d'una.">
+<!ENTITY account.autoSignOn.label "Aniciar sesión al arrancar">
+<!ENTITY account.autoSignOn.accesskey "A">
+<!ENTITY account.connect.label "Coneutar">
+<!ENTITY account.connect.accesskey "o">
+<!ENTITY account.disconnect.label "Desconeutar">
+<!ENTITY account.disconnect.accesskey "D">
+<!ENTITY account.edit.label "Propiedaes">
+<!ENTITY account.edit.accesskey "P">
+<!ENTITY account.moveup.label "Arriba">
+<!ENTITY account.movedown.label "Abaxo">
+<!ENTITY account.cancelReconnection.label "Encaboxar reconexón">
+<!ENTITY account.cancelReconnection.accesskey "a">
+<!ENTITY account.connecting "Coneutando…">
+<!ENTITY account.disconnecting "Desconeutando…">
+<!ENTITY account.disconnected "Desconeutáu">
