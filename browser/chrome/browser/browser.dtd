@@ -441,10 +441,3 @@
 <!ENTITY toggleAddonBarCmd.key        "/">
 <!ENTITY markupButton.arialabel "Marcáu">
 <!ENTITY markupButton.accesskey "M">
-<!ENTITY devToolbarCloseButton.tooltiptext "Zarrar la barra de desendolcadores">
-<!ENTITY devToolbarMenu.label "Barra de desendolcadores">
-<!ENTITY devToolbarMenu.accesskey "b">
-<!ENTITY devToolbar.commandkey "v">
-<!ENTITY webConsoleButton.label "Consola web">
-<!ENTITY inspectorButton.label "Inspeutor">
-<!ENTITY scriptsButton.label "Scripts">
