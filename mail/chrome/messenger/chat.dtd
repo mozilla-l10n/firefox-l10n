@@ -3,7 +3,7 @@
 <!ENTITY conversationsHeader.label     "Samtaler">
 <!ENTITY searchResultConversation.label "Søkeresultat">
 <!ENTITY chat.noConv.title             "Samtaler vil vises her.">
-<!ENTITY chat.noConv.description       "Bruk kontaktlisten i det venstre panelet for å starte en samtale.">
+<!ENTITY chat.noConv.description       "Bruk kontaktlisten panelet til venstre for å starte en samtale.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; har ingen tidligere samtaler lagret for denne kontakten.">
 <!ENTITY chat.noAccount.title             "Du har ikke satt opp en nettprat-konto ennå.">
 <!ENTITY chat.noAccount.description       "La &brandShortName; guide deg gjennom å sette opp en nettprat-konto.">
@@ -29,7 +29,7 @@
 <!ENTITY closeConversationButton.tooltip "Lukk samtale">
 
 <!ENTITY addBuddyButton.label          "Legg til kontakt">
-<!ENTITY joinChatButton.label          "Bli med i nettprat">
+<!ENTITY joinChatButton.label          "Start nettprat">
 <!ENTITY chatAccountsButton.label      "Vis kontoer">
 
 <!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
