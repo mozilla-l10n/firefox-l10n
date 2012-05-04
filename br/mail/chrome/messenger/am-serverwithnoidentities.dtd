@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Arventennoù kont">
-<!ENTITY accountSettingsDesc.label "Dibar eo ar gont da-heul. N'eus pivelezh ebet stag outi.">
 <!ENTITY accountName.label "Anv kont :">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY messageStorage.label "Kadaviñ ar c'hemennadoù">
-<!ENTITY emptyTrashOnExit.label "Goullonderiñ ar gest en ur guitaat">
-<!ENTITY emptyTrashOnExit.accesskey "G">
-<!ENTITY localPath.label "Kavlec'hiad lec'hel:">
-<!ENTITY localFolderPicker.label "Diuzañ an teuliadoù lec'hel :">
-<!ENTITY browseFolder.label "Furchal…">
-<!ENTITY browseFolder.accesskey "F">

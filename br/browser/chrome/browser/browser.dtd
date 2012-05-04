@@ -221,7 +221,7 @@ can reach it easily. -->
 <!ENTITY inspectorHTMLCopyOuter.label       "Eilañ an HTML diavaez">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "v">
 
-<!ENTITY inspectorHTMLDelete.label          "Dilemel ar skoulm">
+<!ENTITY inspectorHTMLDelete.label          "Dilemel ar c'hlom">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
@@ -594,14 +594,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Serriñ barrenn an askouezh">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "Penel HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "Klav">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.accesskey          "K">

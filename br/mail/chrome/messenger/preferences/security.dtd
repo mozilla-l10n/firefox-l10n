@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Merkañ evel bet lennet ar c'hemennadennoù despizet evel lastez">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Gweredekaat ar c'herzhlevr evit sil al lastez">
-<!ENTITY enableJunkLogging.accesskey "G">
+<!ENTITY enableAdaptiveJunkLogging.label "Gweredekaat ar c'herzhlevr evit sil azasaus al lastez">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "G">
 <!ENTITY openJunkLog.label "Diskwel ar c'herzhlevr">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Adderaouekaat ar pleustriñ war ar roadennoù">

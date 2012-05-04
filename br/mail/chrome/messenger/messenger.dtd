@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Respont d'ar c'haser hepken">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Respont d'ar strollad-keleier">
-<!ENTITY replyNewsgroupCmd.accesskey  "s">
+<!ENTITY replyNewsgroupCmd2.label "Respont d'ar strollad-keleier">
+<!ENTITY replyNewsgroupCmd2.accesskey  "s">
 <!ENTITY replyToAllMsgCmd.label "Respont d'an holl">
 <!ENTITY replyToAllMsgCmd.accesskey  "a">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.label "Penel ar fazioù">
 <!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Arventennoù ar c'hontoù…">
 <!ENTITY accountManagerCmd.accesskey "A">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Respont d'ar c'haser hepken">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Respont d'ar strollad-keleier">
-<!ENTITY contextReplyNewsgroup.accesskey "s">
+<!ENTITY contextReplyNewsgroup2.label "Respont d'ar strollad-keleier">
+<!ENTITY contextReplyNewsgroup2.accesskey "s">
 <!ENTITY contextReplyAll.label "Respont d'an holl">
 <!ENTITY contextReplyAll.accesskey "R">
 <!ENTITY contextReplyList.label "Respont d'ar roll">

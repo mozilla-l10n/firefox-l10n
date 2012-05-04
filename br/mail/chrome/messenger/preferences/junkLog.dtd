@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Kerzhlevr ar posteloù lastez">
-<!ENTITY junkLogInfo.label "Kerzhlevr oberiantiz reoliañ ar posteloù lastez.">
+<!ENTITY adaptiveJunkLog.title "Kerzhlevr ar posteloù lastez">
+<!ENTITY adaptiveJunkLogInfo.label "Kerzhlevr an oberiantiz eus reoliañ azasaus ar posteloù lastez.">
 <!ENTITY clearLog.label "Skarzhañ ar c'herzhlevr">
 <!ENTITY clearLog.accesskey "k">
 <!ENTITY closeLog.label "Serriñ">

@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Respont d'ar c'haser ha d'an holl zegemerien">
 <!ENTITY hdrReplyListButton1.label "Respont d'ar roll">
 <!ENTITY hdrReplyListButton1.tooltip "Respont d'ar roll skignañ">
+<!ENTITY hdrFollowupButton1.label "Respont d'ar strollad-keleier">
+<!ENTITY hdrFollowupButton1.tooltip "Kas ur respont d'ar strollad-keleier-mañ">
 <!ENTITY hdrForwardButton1.label "Lakaat da dremen">
 <!ENTITY hdrForwardButton1.tooltip "Lakaat da dremen ar gemennadenn-mañ">
 <!ENTITY hdrJunkButton1.label "Lastez">

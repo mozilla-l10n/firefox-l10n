@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Diskouez krennad ar pennad e lec'h kargañ ar bajennad web">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY locationValidate.label      "Talvoudañ">
 <!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">
 
 <!ENTITY button.addFeed.label        "Ouzhpennañ">

@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Evit ma labour an enlugellad(où) eo ret adloc'hañ &brandShortName;.">
 
 <!ENTITY missingPlugin                                       "Un enlugellad zo ret evit skrammañ an endalc'had-mañ.">
-<!ENTITY clickToPlayPlugin                                   "Klikit amañ a-benn gweredekaat an enlugellad.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Stokit ouzh amañ a-benn gweredekaat an enlugellad.">
+<!ENTITY clickToPlayPlugins                                  "Klikit amañ a-benn gweredekaat an enlugelladoù.">
 <!ENTITY disabledPlugin                                      "Diweredekaet eo an enlugellad-mañ.">
 <!ENTITY blockedPlugin.label                                 "Harzet eo bet an enlugellad-mañ evit ho tiogel.">
 

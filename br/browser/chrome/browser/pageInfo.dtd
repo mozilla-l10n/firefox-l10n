@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Arventennañ an toupinoù">
 <!ENTITY  permInstall           "Staliañ askouezhioù pe neuzioù">
 <!ENTITY  permGeo               "Rannañ ho lec'hiadur">
+<!ENTITY  permPlugins           "Gweredekaat an enlugelladoù">
 
 <!ENTITY  permIndexedDB              "Mirout ar c'hadaviñ ezlinenn">
 <!ENTITY  permClearStorage           "Skarzhañ ar c'hadaviñ">

@@ -19,6 +19,18 @@
   -  button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton      "Serriñ">
 
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
+  -  button that steps over a function call. -->
+<!ENTITY debuggerUI.stepOverButton   "Tremen e-biou">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+  -  button that steps into a function call. -->
+<!ENTITY debuggerUI.stepInButton     "Mont e-barzh">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
+  -  button that steps out of a function call. -->
+<!ENTITY debuggerUI.stepOutButton    "Mont er-maez">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 <!ENTITY debuggerUI.stackTitle       "Torn ar galvoù">

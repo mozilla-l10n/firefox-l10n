@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Kadaviñ ar c'hemennadennoù">
 <!ENTITY securitySettings.label "Arventennoù diogelroez">
 <!ENTITY serverSettings.label "Arventennoù an dafariad">
 <!ENTITY serverType.label "Rizh an dafariad :">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Dizuañ ar restr newsrc">
 <!ENTITY browseNewsrc.label "Furchal…">
 <!ENTITY browseNewsrc.accesskey "F">
+
+<!ENTITY accountTitle.label "Arventennoù ar gont">
+<!ENTITY accountSettingsDesc.label "Dibar eo ar gont da-heul. N'eus pivelezh ebet stag outi.">
