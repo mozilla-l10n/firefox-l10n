@@ -15,8 +15,8 @@
 <!ENTITY account.connect.accesskey    "b">
 <!ENTITY account.disconnect.label     "Koble fra">
 <!ENTITY account.disconnect.accesskey "f">
-<!ENTITY account.edit.label           "Egenskaper">
-<!ENTITY account.edit.accesskey       "E">
+<!ENTITY account.edit.label           "Innstillinger">
+<!ENTITY account.edit.accesskey       "I">
 <!ENTITY account.moveup.label         "Flytt opp">
 <!ENTITY account.movedown.label       "Flytt ned">
 <!ENTITY account.cancelReconnection.label         "Avbryt ny tilkobling">
