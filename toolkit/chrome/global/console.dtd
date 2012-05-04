@@ -56,13 +56,13 @@
 <!ENTITY evaluate.label     "Avalua">
 <!ENTITY evaluate.accesskey "v">
 
-<!ENTITY copyCmd.label       "Copia">  
-<!ENTITY copyCmd.accesskey   "C"> 
-<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY copyCmd.label       "Copia">
+<!ENTITY copyCmd.accesskey   "C">
+<!ENTITY copyCmd.commandkey  "C">
 <!ENTITY sortFirst.label     "Ordre: del primer a l'últim">
 <!ENTITY sortFirst.accesskey "p">
 <!ENTITY sortLast.label      "Ordre: de l'últim al primer">
 <!ENTITY sortLast.accesskey  "l">
-<!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "l">  
-<!ENTITY focus2.commandkey   "d">  
+<!ENTITY closeCmd.commandkey "w">
+<!ENTITY focus1.commandkey   "l">
+<!ENTITY focus2.commandkey   "d">

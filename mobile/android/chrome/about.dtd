@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Quant al &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; és experimental i podria ser inestable.">
+<!ENTITY aboutPage.telemetryStart               " envia automàticament informació del rendiment, maquinari, ús i personalització a ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " ajudeu a millorar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Cerca actualitzacions »">
 <!ENTITY aboutPage.checkForUpdates.checking     "S'està mirant si hi ha actualitzacions…">
 <!ENTITY aboutPage.checkForUpdates.none         "No hi ha cap actualització">

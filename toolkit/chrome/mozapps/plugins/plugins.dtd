@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Cal que es reiniciï el &brandShortName; per a que els connectors funcionin.">
 
 <!ENTITY missingPlugin                                       "Cal un connector per mostrar aquest contingut.">
-<!ENTITY clickToPlayPlugin                                   "Fes un toc aquí per activar el connector.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Toqueu aquí per activar el connector.">
+<!ENTITY clickToPlayPlugins                                  "Feu clic aquí per activar els connectors.">
 <!ENTITY disabledPlugin                                      "S'ha inhabilitat el connector.">
 <!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
 
