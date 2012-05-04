@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Файл">
+<!ENTITY fileMenu.accesskey                 "Ф">
+
+<!ENTITY quitApplicationCmdWin.label        "Шығу">
+<!ENTITY quitApplicationCmdWin.accesskey    "Ш">
+<!ENTITY quitApplicationCmd.label           "Шығу">
+<!ENTITY quitApplicationCmd.accesskey       "Ш">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Басқаларын жасыру">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Барлығын көрсету">
+
+<!ENTITY editMenu.label                     "Түзету">
+<!ENTITY editMenu.accesskey                 "Т">
+<!ENTITY undoCmd.label                      "Болдырмау">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "Б">
+<!ENTITY redoCmd.label                      "Қайталау">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "й">
+<!ENTITY cutCmd.label                       "Қиып алу">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "и">
+<!ENTITY copyCmd.label                      "Көшіру">
+<!ENTITY copyCmd.key                        "С">
+<!ENTITY copyCmd.accesskey                  "К">
+<!ENTITY pasteCmd.label                     "Кірістіру">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "р">
+<!ENTITY deleteCmd.label                    "Өшіру">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "ш">
+<!ENTITY selectAllCmd.label                 "Барлығын таңдау">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "Б">
