@@ -1,7 +1,7 @@
-<!ENTITY header.label     "Títol breu"> 
+<!ENTITY header.label     "Títol breu">
 <!ENTITY message.label    "Aquí hi van alguns texts de mostra.">
-<!ENTITY editfield0.label "Nom d'usuari:"> 
-<!ENTITY editfield1.label "Contrasenya:"> 
+<!ENTITY editfield0.label "Nom d'usuari:">
+<!ENTITY editfield1.label "Contrasenya:">
 <!ENTITY checkbox.label   "Comprova">
 <!ENTITY copyCmd.label    "Copia">
 <!ENTITY copyCmd.accesskey "C">

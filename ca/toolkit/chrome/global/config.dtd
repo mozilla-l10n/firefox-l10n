@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Valor">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Feu clic per ordenar"> 
-<!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar"> 
+<!ENTITY prefColumnHeader.tooltip "Feu clic per ordenar">
+<!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

@@ -1,11 +1,11 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "S'està imprimint"> 
-<!ENTITY title    "Títol:"> 
+<!ENTITY printWindow.title "S'està imprimint">
+<!ENTITY title    "Títol:">
 <!ENTITY progress "Progrés:">
 <!ENTITY preparing "S'està preparant…">
 <!ENTITY printComplete "Ha finalitzat la impressió.">
 
-<!ENTITY dialogCancel.label "Cancel·la"> 
+<!ENTITY dialogCancel.label "Cancel·la">
 <!ENTITY dialogClose.label "Tanca">
 <!-- LOCALIZATION NOTE (percentPrint):
 
