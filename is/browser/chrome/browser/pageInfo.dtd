@@ -93,6 +93,7 @@
 <!ENTITY permCookie "Setja smákökur">
 <!ENTITY permInstall "Setja inn viðbætur eða þema">
 <!ENTITY permGeo "Deila staðsetningu">
+<!ENTITY permPlugins "Virkja viðbætur">
 <!ENTITY permIndexedDB "Nota ónettengda geymslu">
 <!ENTITY permClearStorage "Hreinsa geymslu">
 <!ENTITY permClearStorage.accesskey "H">

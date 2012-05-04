@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label "Skrá">
+<!ENTITY fileMenu.accesskey "S">
+<!ENTITY quitApplicationCmdWin.label "Hætta">
+<!ENTITY quitApplicationCmdWin.accesskey "H">
+<!ENTITY quitApplicationCmd.label "Hætta">
+<!ENTITY quitApplicationCmd.accesskey "H">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY hideThisAppCmdMac.key "H">
+<!ENTITY hideOtherAppsCmdMac.label "Fela aðra">
+<!ENTITY hideOtherAppsCmdMac.key "H">
+<!ENTITY showAllAppsCmdMac.label "Sýna allt">
+<!ENTITY editMenu.label "Breyta">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Afturkalla">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "Endurtaka">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "n">
+<!ENTITY cutCmd.label "Klippa">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY copyCmd.label "Afrita">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "A">
+<!ENTITY pasteCmd.label "Líma">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "L">
+<!ENTITY deleteCmd.label "Eyða">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY selectAllCmd.label "Velja allt">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">

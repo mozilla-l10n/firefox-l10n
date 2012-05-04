@@ -341,8 +341,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Svara sendanda">
 <!ENTITY replySenderCmd.accesskey "r">
-<!ENTITY replyNewsgroupCmd.label "Svara á fréttahóp">
-<!ENTITY replyNewsgroupCmd.accesskey "v">
+<!ENTITY replyNewsgroupCmd2.label "Svara fréttahóp">
+<!ENTITY replyNewsgroupCmd2.accesskey "v">
 <!ENTITY replyToAllMsgCmd.label "Svara öllum">
 <!ENTITY replyToAllMsgCmd.accesskey "ö">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -479,6 +479,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "g">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Stillingar reiknings…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -662,8 +663,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "n">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
 <!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplyNewsgroup.label "Svara á fréttahóp">
-<!ENTITY contextReplyNewsgroup.accesskey "h">
+<!ENTITY contextReplyNewsgroup2.label "Svara fréttahóp">
+<!ENTITY contextReplyNewsgroup2.accesskey "v">
 <!ENTITY contextReplyAll.label "Svara öllum">
 <!ENTITY contextReplyAll.accesskey "ö">
 <!ENTITY contextReplyList.label "Svara póstlista">

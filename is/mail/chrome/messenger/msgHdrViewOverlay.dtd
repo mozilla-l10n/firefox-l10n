@@ -63,6 +63,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Svara sendanda og öllum viðtakendum">
 <!ENTITY hdrReplyListButton1.label "Svarlisti">
 <!ENTITY hdrReplyListButton1.tooltip "Svara póstlista">
+<!ENTITY hdrFollowupButton1.label "Eftirfylgni">
+<!ENTITY hdrFollowupButton1.tooltip "Pósta svari á þennan fréttahóp">
 <!ENTITY hdrForwardButton1.label "Áfram">
 <!ENTITY hdrForwardButton1.tooltip "Áframsenda þennan póst">
 <!ENTITY hdrJunkButton1.label "Ruslpóstur">

@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Ruslpósts atburðaskrá">
-<!ENTITY junkLogInfo.label "Atburðaskrá fyrir ruslpósts virkni.">
+<!ENTITY adaptiveJunkLog.title "Atburðaskrá fyrir þjálfaða ruslpóstsíu">
+<!ENTITY adaptiveJunkLogInfo.label "Atburðaskrá sem sýnir aðgerðir þjálfaðrar ruslpóstsíu.">
 <!ENTITY clearLog.label "Hreinsa atburðaskrá">
 <!ENTITY clearLog.accesskey "H">
 <!ENTITY closeLog.label "Loka">

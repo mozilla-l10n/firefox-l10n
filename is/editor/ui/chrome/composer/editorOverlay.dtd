@@ -80,11 +80,6 @@
 <!ENTITY insertBreakAllCmd.label "Lína fyrir neðan mynd(ir)">
 <!ENTITY insertBreakAllCmd.accesskey "y">
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Engar tillögur fundust)">
-<!ENTITY spellCheckIgnoreWord.label "Hunsa orð">
-<!ENTITY spellCheckIgnoreWord.accesskey "H">
-<!ENTITY spellCheckAddToDictionary.label "Bæta við orðasafn">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Búa til tengil…">
 <!ENTITY createLinkCmd.accesskey "B">
 <!ENTITY editLinkCmd.label "Breyta tengli í nýjum ritli">

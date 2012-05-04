@@ -13,8 +13,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Merkja staðfestan ruslpóst sem lesinn">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Virkja kladda fyrir ruslpóstssíu">
-<!ENTITY enableJunkLogging.accesskey "V">
+<!ENTITY enableAdaptiveJunkLogging.label "Virkja atburðaskrá fyrir þjálfaða ruslpóstsíu">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "V">
 <!ENTITY openJunkLog.label "Sýna kladda">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Endursetja þjálfunargögn">

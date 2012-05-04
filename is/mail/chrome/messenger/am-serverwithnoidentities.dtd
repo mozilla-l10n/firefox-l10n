@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Stillingar reiknings">
-<!ENTITY accountSettingsDesc.label "Eftirfarandi er sérstakur reikningur.  Engin auðkenni eru tengd við hann.">
 <!ENTITY accountName.label "Heiti reiknings:">
 <!ENTITY accountName.accesskey "H">
-<!ENTITY messageStorage.label "Póstgeymsla">
-<!ENTITY emptyTrashOnExit.label "Tæma rusl þegar forriti er lokað">
-<!ENTITY emptyTrashOnExit.accesskey "r">
-<!ENTITY localPath.label "Staðbundin mappa:">
-<!ENTITY localFolderPicker.label "Veldu staðbundna möppu">
-<!ENTITY browseFolder.label "Velja…">
-<!ENTITY browseFolder.accesskey "V">
