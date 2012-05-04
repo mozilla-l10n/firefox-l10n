@@ -23,11 +23,6 @@
 <!ENTITY view.sortDescending.label      "Алфавит бойынша кері сұрыптау">
 <!ENTITY view.sortDescending.accesskey  "т">
 
-<!ENTITY cmd.findInBookmarks.label      "Бетбелгілер ішінен іздеу…">
-<!ENTITY cmd.findInBookmarks.accesskey  "н">
-<!ENTITY cmd.findCurrent.label          "Ағымдағы топтама ішінен іздеу…">
-<!ENTITY cmd.findCurrent.accesskey      "з">
-
 <!ENTITY importBookmarksFromHTML.label     "Бетбелгілерді HTML ішінен импорттау…">
 <!ENTITY importBookmarksFromHTML.accesskey "и">
 <!ENTITY exportBookmarksToHTML.label       "Бетбелгілерді HTML ішіне экспорттау…">
