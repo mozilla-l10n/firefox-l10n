@@ -56,3 +56,8 @@
 <!ENTITY cookieExceptions.accesskey     "x">
 <!ENTITY showCookies.label              "Afficher les cookies…">
 <!ENTITY showCookies.accesskey          "k">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Indiquer aux sites Web de ne pas me pister">
+<!ENTITY doNotTrack.accesskey           "d">
+
