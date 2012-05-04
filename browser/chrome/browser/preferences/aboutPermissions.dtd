@@ -19,6 +19,7 @@
 <!ENTITY cookie.manage "Sýsla með smákökur…">
 <!ENTITY cookie.removeAll "Fjarlægja allar smákökur">
 <!ENTITY geo.label "Deila staðsetningu">
+<!ENTITY plugins.label "Tengiforrit">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label "Nota ónettengda geymslu">

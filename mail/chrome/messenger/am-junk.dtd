@@ -1,6 +1,6 @@
 <!ENTITY junkSettings.label "Ruslpóstsstillingar">
 <!ENTITY trainingWarning.label "Ef þetta er gert virkt, verðurðu fyrst að þjálfa &brandShortName; til að bera kennsl á ruslpóst með því að nota ruslpóststakkann. Þú verður bæði að bera kennsl á ruslpóst og venjulegan póst.">
-<!ENTITY level.label "Virkja ruslpóstsstjórnun með aðlögunarhæfni fyrir þennan reikning">
+<!ENTITY level.label "Virkja þjálfaða ruslpóstssíu fyrir þennan reikning">
 <!ENTITY level.accesskey "e">
 <!ENTITY move.label "Færa ruslpóst í:">
 <!ENTITY move.accesskey "F">

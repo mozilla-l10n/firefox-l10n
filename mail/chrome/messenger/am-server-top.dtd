@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Póstgeymsla">
 <!ENTITY securitySettings.label "Öryggisstillingar">
 <!ENTITY serverSettings.label "Stillingar netþjóns">
 <!ENTITY serverType.label "Gerð netþjóns:">
@@ -63,16 +64,18 @@
 <!ENTITY alwaysAuthenticate.label "Alltaf krefjast öruggs auðkennis þegar tengst er við þennan netþjón">
 <!ENTITY alwaysAuthenticate.accesskey "A">
 <!ENTITY newsrcFilePath.label "newsrc skrá:">
-<!ENTITY localPath.label "Staðbundin mappa:">
+<!ENTITY newsrcPicker.label "Veldu newsrc skrá">
 <!ENTITY abbreviate.label "Sýna nöfn fréttahópa í póstmöppu hliðslá sem:">
 <!ENTITY abbreviateOn.label "Fullt nafn (Til dæmis, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skammstafa nöfn (Til dæmis, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Frekari stillingar…">
 <!ENTITY advancedButton.accesskey "F">
 <!ENTITY serverDefaultCharset.label "Sjálfgefin stafatafla:">
+<!ENTITY localPath.label "Staðbundin mappa:">
 <!ENTITY localFolderPicker.label "Veldu staðbundna möppu">
 <!ENTITY browseFolder.label "Velja…">
 <!ENTITY browseFolder.accesskey "V">
-<!ENTITY newsrcPicker.label "Veldu newsrc skrá">
 <!ENTITY browseNewsrc.label "Velja…">
 <!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY accountTitle.label "Stillingar reiknings">
+<!ENTITY accountSettingsDesc.label "Eftirfarandi er sérstakur reikningur.  Engin auðkenni eru tengd við hann.">

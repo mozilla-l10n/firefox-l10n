@@ -10,6 +10,7 @@
 <!ENTITY feedFolder.accesskey "G">
 <!ENTITY quickMode.label "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
 <!ENTITY quickMode.accesskey "h">
+<!ENTITY locationValidate.label "Sannreyna">
 <!ENTITY validateText.label "Athuga sannprófun og ná í rétt veffang.">
 <!ENTITY button.addFeed.label "Bæta við">
 <!ENTITY button.addFeed.accesskey "æ">

@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Heiti reiknings:">
 <!ENTITY addAccountDialog.noAccountText "Því miður, en núverandi útgáfa af &brandShortName; leyfir aðeins einn reikning.">
-<!ENTITY addAccountDialog.createAccountText "Þessi eiginleiki gerir þér kleyft að senda stór viðhengi með því að nota eina af þeim nettengdum geymsluþjónustum sem eru í boði. Þú getur annaðhvort tengst við reikning sem er þegar til, eða skráð þig fyrir nýjum reikningi.">
+<!ENTITY addAccountDialog.createAccountText2 "Þú getur sent stór viðhengi með því að nota eina af mörgum geymslusþjónustum á netinu. Settu annaðhvort upp reikning sem er þegar til, eða nýskráðu þig fyrir nýjum reikning.">
 <!ENTITY addAccountDialog.authorizing "Athuga aðgang...">
 <!ENTITY addAccountDialog.error "Upp kom villa þegar verið var að setja upp reikning!">
 <!ENTITY addAccountDialog.acceptButton.label "Setja upp reikning">
+<!ENTITY addAccountDialog.learnMore "Fræðast meira…">
