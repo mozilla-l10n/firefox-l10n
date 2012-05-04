@@ -1,0 +1,5 @@
+<!ENTITY cloudfileMgmt.privacyPolicy "Política de privacidá">
+<!ENTITY cloudfileMgmt.termsOfService "Términos del Serviciu">
+<!ENTITY cloudfileMgmt.usedSpace "Espaciu usáu:">
+<!ENTITY cloudfileMgmt.unusedSpace "Espaciu non usáu:">
+<!ENTITY cloudfileMgmt.upgradeOffer "Obtener más espaciu">
