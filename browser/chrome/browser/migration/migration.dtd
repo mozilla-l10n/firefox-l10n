@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "HTML файлдан">
-<!ENTITY importFromHTMLFile.accesskey   "ф">
 
 <!ENTITY noMigrationSources.label       "Құрамында бетбелгілер, тарихы немесе парольдері бар бірде-бір бағдарлама табылмаған.">
 
