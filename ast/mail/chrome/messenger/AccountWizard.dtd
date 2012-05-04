@@ -16,15 +16,14 @@
 <!ENTITY fullnameLabel.accesskey "N">
 <!ENTITY emailLabel.label "Direición de corréu-e:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY serverTitle.label "Información de sirvidor">
+
 <!ENTITY incomingServerTypeDesc.label "Seleiciona la triba de sirvidor d'entrada que tas usando.">
 <!ENTITY incomingServerNameDesc.label "Introduz el nome del sirvidor d'entrada (por exemplu, &quot;mail.exemplu.net&quot;).">
-<!ENTITY incomingServerLabel.label "Sirvidor d'entrada:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!ENTITY newsServerNameDesc.label "Introduz el nome del sirvidor de noticies (NNTP) (por exemplu, &quot;news.exemplu.net&quot;).">
-<!ENTITY smtpServerDesc.label "Introduz el nome del sirvidor de salida (SMTP) (por exemplu, &quot;smtp.exemplu.net&quot;).">
-<!ENTITY smtpServerLabel.label "Sirvidor de corréu de salida:">
-<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY incomingServer.description "Introduz el nome del to sirvidor d'entrada (por exemplu, &quot;mail.exemplu.net&quot;).">
+<!ENTITY incomingServer.label "Sirvidor d'entrada:">
+<!ENTITY incomingServer.accesskey "S">
+
+
 <!ENTITY newsServerLabel.label "Sirvidor de noticies:">
 <!ENTITY newsServerLabel.accesskey "n">
 <!ENTITY imapType.label "IMAP">
@@ -35,14 +34,10 @@
 <!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!ENTITY haveSmtp1.prefix "El sirvidor de salida (SMTP) esistente, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
-<!ENTITY loginTitle.label "Nomes d'usuariu">
-<!ENTITY usernameDesc.label "Introduz el nome d'usuariu entrante facilitáu pol to fornidor de corréu-e ">
-<!ENTITY usernameExample.label "(por exemplu, &quot;xfueyo&quot;).">
-<!ENTITY usernameLabel.label "Nome d'usuariu entrante:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Introduz el nome d'usuariu saliente facilitáu pol to fornidor de corréu-e (normalmente ye'l mesmu que l'entrante).">
-<!ENTITY usernameSmtpLabel.label "Nome d'usuariu saliente:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
+<!ENTITY incomingTitle.label "Información del sirvidor entrante">
+<!ENTITY incomingUsername.description "Introduz el nome d'usuariu entrante facilitáu pol to fornidor de corréu-e (por exemplu, &quot;xfueyo&quot;).">
+<!ENTITY incomingUsername.label "Nome d'usuariu:">
+<!ENTITY incomingUsername.accesskey "U">
 <!ENTITY haveSmtp2.prefix "El to nome d'usuariu saliente (SMTP) esistente, &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;.">
 <!ENTITY haveSmtp3.prefix "El to sirvidor saliente (SMTP), &quot;">
@@ -69,3 +64,10 @@
 <!ENTITY defaultPortLabel.label "Predetermináu:">
 <!ENTITY defaultPortValue.label "">
 <!ENTITY modifyOutgoing.suffix "Pues cambiar los sirvidores de salida na configuración de cuentes.">
+<!ENTITY outgoingTitle.label "Información del sirvidor saliente">
+<!ENTITY outgoingServer.description "Introduz el nome del to sirvidor de salida (SMTP) (por exemplu, &quot;smtp.exemplu.net&quot;).">
+<!ENTITY outgoingServer.label "Sirvidor de corréu de salida:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Introduz el nome d'usuariu saliente facilitáu pol fornidor de corréu-e (normalmente ye'l mesmu que l'entrante).">
+<!ENTITY outgoingUsername.label "Nome d'usuariu saliente:">
+<!ENTITY outgoingUsername.accesskey "U">
