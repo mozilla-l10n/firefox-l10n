@@ -57,3 +57,6 @@
 <!ENTITY showCookies.label              "顯示 Cookie…">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "告訴網站我不想被追蹤">
+<!ENTITY doNotTrack.accesskey           "d">

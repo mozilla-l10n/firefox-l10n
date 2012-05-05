@@ -23,11 +23,6 @@
 <!ENTITY view.sortDescending.label      "遞減排序 (Z > A)">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "在書籤中尋找…">
-<!ENTITY cmd.findInBookmarks.accesskey  "F">
-<!ENTITY cmd.findCurrent.label          "在目前書籤集中尋找…">
-<!ENTITY cmd.findCurrent.accesskey      "i">
-
 <!ENTITY importBookmarksFromHTML.label     "自 HTML 匯入書籤…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "匯出書籤成 HTML…">
