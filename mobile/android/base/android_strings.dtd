@@ -118,10 +118,10 @@
 
 
 
-<!ENTITY abouthome_about_sync "Opsæt Firefox Sync til at få adgang til bogmærker, historik og faneblade fra dine andre enheder">
+<!ENTITY abouthome_about_sync "Opsæt Firefox Sync for at få adgang til bogmærker, historik og faneblade fra dine andre enheder">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
 <!ENTITY filepicker_title "Vælg fil">
-<!ENTITY filepicker_audio_title "Vælg eller optag en lyd">
+<!ENTITY filepicker_audio_title "Vælg eller optag et lydklip">
 <!ENTITY filepicker_image_title "Vælg eller tag et billede">
 <!ENTITY filepicker_video_title "Vælg eller optag en video">
