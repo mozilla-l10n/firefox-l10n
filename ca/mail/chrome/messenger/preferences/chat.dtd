@@ -1,7 +1,7 @@
-<!ENTITY  startupAction.label         "En iniciar el &brandShortName;:">
+<!ENTITY  startupAction.label         "When &brandShortName; starts:">
 <!ENTITY  startupAction.accesskey     "s">
-<!ENTITY  startupOffline.label        "Mantén el meus comptes de xat fora de línia">
-<!ENTITY  startupConnectAuto.label    "Connecta als meus comptes de xat automàticament">
+<!ENTITY  startupOffline.label        "Keep my Chat Accounts offline">
+<!ENTITY  startupConnectAuto.label    "Connect my chat accounts automatically">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
@@ -9,12 +9,12 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  reportIdleAfter.label         "Fes saber als meus contactes que estic absent després de">
-<!ENTITY  reportIdleAfter.accesskey     "b">
-<!ENTITY  idleTime                      "minuts d'inactivitat">
+<!ENTITY  reportIdleAfter.label         "Let my contacts know that I am Idle after">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "minutes of inactivity">
 
-<!ENTITY  andSetStatusToAway.label      "i posa el meu estat com a no disponibles amb el missatge d'estat:">
-<!ENTITY  andSetStatusToAway.accesskey  "n">
+<!ENTITY  andSetStatusToAway.label      "and set my status to Away with this status message:">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
 
-<!ENTITY  sendTyping.label              "Envia notificacions de tecleig en les converses">
+<!ENTITY  sendTyping.label              "Send typing notifications in conversations">
 <!ENTITY  sendTyping.accesskey          "t">

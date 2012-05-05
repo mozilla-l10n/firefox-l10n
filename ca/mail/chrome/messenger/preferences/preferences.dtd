@@ -7,7 +7,7 @@
 <!ENTITY paneGeneral.title        "General">
 <!ENTITY paneDisplay.title        "Visualització">
 <!ENTITY paneComposition.title    "Redacció">
-<!ENTITY paneChat.title           "Xat">
+<!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Adjuncions">
 <!ENTITY paneSecurity.title       "Seguretat">
 <!ENTITY paneAdvanced.title       "Avançat">

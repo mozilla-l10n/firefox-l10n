@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Respon al remitent i a tots els destinataris">
 <!ENTITY hdrReplyListButton1.label "Respon a la llista">
 <!ENTITY hdrReplyListButton1.tooltip "Respon a la llista de correus">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
 <!ENTITY hdrForwardButton1.label "Reenvia">
 <!ENTITY hdrForwardButton1.tooltip "Reenvia aquest missatge">
 <!ENTITY hdrJunkButton1.label "Brossa">

@@ -26,4 +26,4 @@
 <!ENTITY choosethisnewsserver.label "tria aquest servidor de grups de discussió">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "j">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 

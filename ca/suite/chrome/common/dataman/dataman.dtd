@@ -97,6 +97,7 @@
 <!ENTITY perm.AskAlways "Demana-m'ho sempre">
 <!ENTITY perm.NeverSave "Mai ho desis">
 <!ENTITY perm.Allow "Permet">
+<!ENTITY perm.AllowSameDomain "Permetre pel mateix domini">
 <!ENTITY perm.AllowSession "Permet per a la sessió">
 <!ENTITY perm.Block "Bloca">
 

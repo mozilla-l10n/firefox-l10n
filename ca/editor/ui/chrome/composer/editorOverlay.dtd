@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "g">
 <!-- Used just in context popup. -->
 
-<!ENTITY spellCheckNoSuggestions.label "(No s'ha trobat cap suggeriment)">
-<!ENTITY spellCheckIgnoreWord.label "Ignora el mot">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Afegeix al diccionari">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Crea un enllaç…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Edita l'enllaç en una pàgina del redactor">
