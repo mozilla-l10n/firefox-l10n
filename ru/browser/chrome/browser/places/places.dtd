@@ -20,10 +20,6 @@
 <!ENTITY view.sortAscending.accesskey "С">
 <!ENTITY view.sortDescending.label "В обратном порядке">
 <!ENTITY view.sortDescending.accesskey "о">
-<!ENTITY cmd.findInBookmarks.label "Найти в Закладках…">
-<!ENTITY cmd.findInBookmarks.accesskey "й">
-<!ENTITY cmd.findCurrent.label "Найти в текущей коллекции…">
-<!ENTITY cmd.findCurrent.accesskey "а">
 <!ENTITY importBookmarksFromHTML.label "Импорт закладок из HTML-файла…">
 <!ENTITY importBookmarksFromHTML.accesskey "И">
 <!ENTITY exportBookmarksToHTML.label "Экспорт закладок в HTML-файл…">
