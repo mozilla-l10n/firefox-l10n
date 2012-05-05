@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  pref.editing.title        "הגדרות דף חדש">
 
 <!ENTITY  authorName.label          "מחבר:">
@@ -25,6 +31,5 @@
 <!ENTITY backgroundImage.accesskey  "m">
 <!ENTITY chooseFile.label           "בחר קובץ...">
 <!ENTITY chooseFile.accesskey       "o">
-
 
 
