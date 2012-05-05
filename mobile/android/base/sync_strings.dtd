@@ -1,0 +1,75 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Forbind til &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Tilføj en &syncBrand.fullName.label;-konto'>
+<!ENTITY sync.title.pair.label 'Tilføj enhed'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'For at aktivere din nye enhed, vælg “Opsæt &syncBrand.shortName.label;” på enheden.'>
+<!ENTITY sync.subtitle.header.label 'Indtast denne kode på din computer'>
+
+<!ENTITY sync.subtitle.pair.label 'For at aktivere, vælg “Tilføj enhed” på din anden enhed.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Vis mig hvordan.'>
+<!ENTITY sync.link.advancedsetup.label 'Avanceret opsætning…'>
+<!ENTITY sync.link.nodevice.label 'Jeg har ikke enheden med mig…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Venter på den anden enhed…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Indtast dine &syncBrand.fullName.label;-kontodetaljer'>
+<!ENTITY sync.input.username.label 'Kontonavn'>
+<!ENTITY sync.input.password.label 'Adgangskode'>
+<!ENTITY sync.input.key.label 'Gendannelsesnøgle'>
+<!ENTITY sync.checkbox.server.label 'Brug en anden server'>
+<!ENTITY sync.input.server.label 'Server URL'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Kan ikke sætte &syncBrand.shortName.label; op'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; kunne ikke forbinde til serveren. Vil du prøve igen?'>
+<!ENTITY sync.button.tryagain.label 'Prøv igen'>
+<!ENTITY sync.button.manual.label 'Manuel opsætning'>
+<!ENTITY sync.subtitle.nointernet.label 'Ingen internetforbindelse tilgængelig.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Opsætning fuldført'>
+<!ENTITY sync.subtitle.success.label 'Din data hentes i baggrunden. Du kan gå til Indstillinger for at administrere din konto.'>
+<!ENTITY sync.settings.label 'Indstillinger'>
+<!ENTITY sync.subtitle.manage.label 'Din &syncBrand.fullName.label;-konto er allerede sat op. Gå til Indstillinger for at administrere din konto.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Prøv igen.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Indstillinger'>
+
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Annuller'>
+<!ENTITY sync.button.connect.label 'Forbind'>
+<!ENTITY sync.button.ok.label 'OK'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Bogmærkemenuen'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Mærkater'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bogmærkelinjen'>
+<!ENTITY bookmarks.folder.unfiled.label 'Usorterede bogmærker'>
+
+<!ENTITY bookmarks.folder.mobile.label 'Bogmærker på mobilen'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Kun én &syncBrand.fullName.label;-konto er understøttet.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Forkert gendannelsesnøgle. Prøv igen.'>

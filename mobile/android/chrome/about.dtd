@@ -1,18 +1,17 @@
 <!ENTITY aboutPage.title                        "Om &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentel og kan være ustabil.">
+<!ENTITY aboutPage.telemetryStart               " Programmet sender automatisk information om ydelse, hardware, brug og tilpasninger tilbage til ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;,">
+<!ENTITY aboutPage.telemetryEnd                 " hvilket hjælper med at forbedre &brandShortName;.">
+<!ENTITY aboutPage.checkForUpdates.link         "Søg efter opdateringer »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Søger efter opdatering…">
+<!ENTITY aboutPage.checkForUpdates.none         "Ingen opdatering fundet">
+<!ENTITY aboutPage.checkForUpdates.found        "Opdatering klar">
 <!ENTITY aboutPage.faq.label                    "OSS">
 <!ENTITY aboutPage.support.label                "Support">
 <!ENTITY aboutPage.privacyPolicy.label          "Privatlivspolitik">
 <!ENTITY aboutPage.rights.label                 "Kend dine rettigheder">
 <!ENTITY aboutPage.relNotes.label               "Udgivelsesnoter">
 <!ENTITY aboutPage.credits.label                "Tak til">
-<!ENTITY aboutPage.checkForUpdates.button       "Søg efter opdatering">
-<!ENTITY aboutPage.checkForUpdates.checking     "Søger efter opdatering…">
-<!ENTITY aboutPage.checkForUpdates.none         "Ingen opdatering fundet">
-<!ENTITY aboutPage.checkForUpdates.found        "Opdatering klar">
+<!ENTITY aboutPage.license.label                "Licensinformation">
 
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
--->
-<!ENTITY aboutPage.licenseLink                  "Licensinformation">
-<!ENTITY aboutPage.licenseLinkSuffix            ".">
