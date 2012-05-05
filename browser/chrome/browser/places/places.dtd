@@ -23,11 +23,6 @@
 <!ENTITY view.sortDescending.label      "Ordna Ö > A">
 <!ENTITY view.sortDescending.accesskey  "Ö">
 
-<!ENTITY cmd.findInBookmarks.label      "Sök i Bokmärken…">
-<!ENTITY cmd.findInBookmarks.accesskey  "S">
-<!ENTITY cmd.findCurrent.label          "Sök i aktuell grupp…">
-<!ENTITY cmd.findCurrent.accesskey      "ö">
-
 <!ENTITY importBookmarksFromHTML.label     "Importera bokmärken från HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Exportera bokmärken till HTML…">
