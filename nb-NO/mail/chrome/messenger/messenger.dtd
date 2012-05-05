@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Svar til avsender">
 <!ENTITY replySenderCmd.accesskey "v">
-<!ENTITY replyNewsgroupCmd.label "Svar til nyhetsgruppe">
-<!ENTITY replyNewsgroupCmd.accesskey  "y">
+<!ENTITY replyNewsgroupCmd2.label "Følg opp til nyhetsgruppe">
+<!ENTITY replyNewsgroupCmd2.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "Svar til alle">
 <!ENTITY replyToAllMsgCmd.accesskey  "t">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Feilmeldinger">
 <!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
 <!ENTITY accountManagerCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsender">
 <!ENTITY contextReplySender.accesskey "S">
-<!ENTITY contextReplyNewsgroup.label "Svar til nyhetsgruppe">
-<!ENTITY contextReplyNewsgroup.accesskey "n">
+<!ENTITY contextReplyNewsgroup2.label "Følg opp til nyhetsgruppe">
+<!ENTITY contextReplyNewsgroup2.accesskey "ø">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Svar til liste">

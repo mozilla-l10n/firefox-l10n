@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Meldingslagring">
 <!ENTITY securitySettings.label "Sikkerhetsinnstillinger">
 <!ENTITY serverSettings.label "Tjenerinnstillinger">
 <!ENTITY serverType.label "Tjenertype:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Alltid spør etter autentisering ved tilkobling til denne tjeneren">
 <!ENTITY alwaysAuthenticate.accesskey "A">
 <!ENTITY newsrcFilePath.label "newsrc-fil:">
-<!ENTITY localPath.label "Lokal mappe:">
+<!ENTITY newsrcPicker.label "Velg newsrc-fil">
 <!ENTITY abbreviate.label "Vis navn i mappelisten med">
 <!ENTITY abbreviateOn.label "fulle navn (for eksempel «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "forkortede navn (for eksempel «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset.label "Standard tegnkoding:">
+<!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Velg lokal mappe:">
 <!ENTITY browseFolder.label "Bla gjennom …">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Velg newsrc-fil">
 <!ENTITY browseNewsrc.label "Bla gjennom …">
-<!ENTITY browseNewsrc.accesskey "B">
+<!ENTITY browseNewsrc.accesskey "l">
+
+<!ENTITY accountTitle.label "Kontoinnstillinger">
+<!ENTITY accountSettingsDesc.label "Dette er en spesiell konto.  Ingen identiteter er tilknyttet den.">
