@@ -78,7 +78,7 @@
 <!ENTITY viewMenu.label                                 "Visualitza">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barres d'eines">
-<!ENTITY viewToolbarsMenu.accesskey                     "i">
+<!ENTITY viewToolbarsMenu.accesskey                     "i"> 
 <!ENTITY menubarCmd.label                               "Barra de menú">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Barra d'eines de la llibreta d'adreces">
@@ -94,11 +94,11 @@
 <!ENTITY showContactPane2.label                         "Contactes">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Mostra el nom com a">
-<!ENTITY menu_ShowNameAs.accesskey                      "n">
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Nom i cognoms">
-<!ENTITY firstLastCmd2.accesskey                        "N">
+<!ENTITY firstLastCmd2.accesskey                        "N"> 
 <!ENTITY lastFirstCmd.label                             "Cognoms, Nom">
 <!ENTITY lastFirstCmd.accesskey                         "C">
 <!ENTITY displayNameCmd.label                           "Nom a mostrar">

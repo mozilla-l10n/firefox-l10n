@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Treu-me d'aquí!">
 <!ENTITY safeb.palm.accept.statustext "Navega cap a la meva pàgina d'inici">
 <!ENTITY safeb.palm.decline.label "Ignora aquest avís">
-<!ENTITY safeb.palm.decline.statustext "Tanca aquest avís">
+<!ENTITY safeb.palm.decline.statustext "Tanca aquest avís" >
 <!ENTITY safeb.palm.notforgery.label2 "No és cap falsificació web…">
 <!ENTITY safeb.palm.reportPage.label "Per què s'ha blocat aquest lloc?">
 

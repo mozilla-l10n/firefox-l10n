@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Missatge d'emmagatzematge">
 <!ENTITY securitySettings.label "Paràmetres de seguretat">
 <!ENTITY serverSettings.label "Paràmetres del servidor">
 <!ENTITY serverType.label "Tipus de servidor:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Sol·licita sempre autenticació en connectar amb aquest servidor">
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "Fitxer newsrc:">
-<!ENTITY localPath.label "Directori local:">
+<!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
 <!ENTITY abbreviate.label "Mostra els noms dels grups de discussió a la subfinestra de la carpeta de la Missatgeria com a:">
 <!ENTITY abbreviateOn.label "Noms sencers (per exemple, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
+<!ENTITY localPath.label "Directori local:">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
 <!ENTITY browseFolder.label "Navega…">
 <!ENTITY browseFolder.accesskey "N">
-<!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
 <!ENTITY browseNewsrc.label "Navega…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Opcions del compte">
+<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">

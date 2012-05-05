@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "Atura la transferència actual"> 
 <!-- context menu items -->
 
-<!ENTITY spellCheckNoSuggestions.label "No s'ha trobat cap suggeriment">
-<!ENTITY spellCheckIgnoreWord.label "Ignora la paraula">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Afegeix al diccionari">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "Obre">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "Reanomena…">

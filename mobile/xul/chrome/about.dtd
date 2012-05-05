@@ -1,6 +1,6 @@
 <!ENTITY aboutPage.title                        "Quant al &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; és experimental i pot ser inestable.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryStart               " Envia automàticament informació sobre el rendiment, maquinari, ús i personalització a">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " ajudeu a millorar &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "PMF">

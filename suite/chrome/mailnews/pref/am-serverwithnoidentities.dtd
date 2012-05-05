@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Paràmetres del compte">
-<!ENTITY accountSettingsDesc.label "El compte següent és especial; no hi ha cap identitat que hi estigui associada.">
 <!ENTITY accountName.label "Nom del compte:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Emmagatzematge dels missatges">
-<!ENTITY emptyTrashOnExit.label "Buida la paperera en sortir">
-<!ENTITY emptyTrashOnExit.accesskey "B">
-<!ENTITY localPath.label "Directori local:">
-<!ENTITY localFolderPicker.label "Ubicació de les carpetes locals:">
-<!ENTITY browseFolder.label "Navega...">
-<!ENTITY browseFolder.accesskey "v">

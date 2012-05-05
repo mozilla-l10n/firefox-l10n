@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "Des d'un fitxer HTML">
-<!ENTITY importFromHTMLFile.accesskey   "f">
 
 <!ENTITY noMigrationSources.label       "No s'ha trobat cap programa que contingui adreces d'interès, o dades d'historial o contrasenyes.">
 

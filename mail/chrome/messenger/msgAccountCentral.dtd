@@ -5,6 +5,9 @@
 <!ENTITY newsSectionHdr.label         "Grups de discussió">
 <!ENTITY subscribeNewsLink.label      "Subscriu-me als grups de discussió">
 
+<!ENTITY feedsSectionHdr.label        "Canals">
+<!ENTITY subscribeFeeds.label         "Gestiona les subscripcions">
+
 <!ENTITY accountsSectionHdr.label     "Comptes">
 <!ENTITY subscribeImapFolders.label   "Gestiona les subscripcions de carpeta">
 <!ENTITY settingsLink.label           "Paràmetres d'aquest compte">
@@ -15,6 +18,3 @@
 <!ENTITY filtersLink.label            "Crea filtres de missatge">
 <!ENTITY junkSettings.label           "Paràmetres del correu brossa…">
 <!ENTITY offlineLink.label            "Paràmetres de fora de línia">
-
-<!ENTITY feedsSectionHdr.label        "Canals">
-<!ENTITY subscribeFeeds.label         "Gestiona les subscripcions">

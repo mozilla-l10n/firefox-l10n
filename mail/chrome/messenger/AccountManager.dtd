@@ -6,8 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Afegeix un compte de correu…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Afegeix un compte de xat…">
-<!ENTITY addIMAccountButton.accesskey "x">
+<!ENTITY addIMAccountButton.label "Add Chat Account…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "Afegeix un altre tipus de compte…">
 <!ENTITY addOtherAccountButton.accesskey "t">
 <!ENTITY setDefaultButton.label "Defineix com a predeterminat">

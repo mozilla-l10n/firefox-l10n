@@ -1,16 +1,14 @@
-<!ENTITY accountTitle.label "Paràmetres del compte RSS">
-
 <!ENTITY biffStart.label "Comprova si hi ha nous articles cada ">
 <!ENTITY biffStart.accesskey "a">
 <!ENTITY biffEnd.label "minuts">
 
-<!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha nous articles">
+<!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha nous articles"> 
 <!ENTITY loginAtStartup.accesskey "i">
 
-<!ENTITY useQuickMode.label "Per defecte, mostra el resum de l'article en comptes de carregar la pàgina web">
+<!ENTITY useQuickMode.label "Per defecte, mostra el resum de l'article en comptes de carregar la pàgina web"> 
 <!ENTITY useQuickMode.accesskey "f">
 
-<!ENTITY manageSubscriptions.label "Gestiona les subscripcions…">
+<!ENTITY manageSubscriptions.label "Gestiona les subscripcions…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 <!-- entities from rss.rdf -->
 

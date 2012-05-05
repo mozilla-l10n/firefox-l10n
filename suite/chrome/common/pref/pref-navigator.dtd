@@ -25,7 +25,7 @@
 <!ENTITY restoreTabs.accesskey          "s">
 <!ENTITY restoreTabsAtATime.label       "pestanyes al mateix temps">
 <!ENTITY restoreDeferred.label          "Restaura les pestanyes només quan siguin seleccionades">
-<!ENTITY restoreDeferred.accesskey      "O">
+<!ENTITY restoreDeferred.accesskey      "o">
 
 <!ENTITY homePageIntro.label            "En prémer el botó Inici, anireu a aquest grup de pàgines:">
 <!ENTITY useCurrent.label               "Utilitza la pàgina actual">
