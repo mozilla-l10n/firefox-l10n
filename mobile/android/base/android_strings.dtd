@@ -34,7 +34,7 @@
 <!ENTITY bookmark "Adreça d\'interès">
 <!ENTITY bookmark_added "S\'ha afegit l\'adreça d\'interès">
 <!ENTITY bookmark_removed "S\'ha suprimit l\'adreça d\'interès">
-<!ENTITY bookmark_updated "S'ha actualitzat l\'adreça d\'interès">
+<!ENTITY bookmark_updated "S\'ha actualitzat l\'adreça d\'interès">
 
 <!ENTITY history_today_section "Avui">
 <!ENTITY history_yesterday_section "Ahir">
@@ -93,7 +93,7 @@
 <!ENTITY contextmenu_share "Comparteix">
 <!ENTITY contextmenu_edit_bookmark "Edita">
 
-<!ENTITY bookmark_edit_title "Edita l'adreça d'interès">
+<!ENTITY bookmark_edit_title "Edita l\'adreça d\'interès">
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Ubicació">
 <!ENTITY bookmark_edit_keyword "Paraula clau">
