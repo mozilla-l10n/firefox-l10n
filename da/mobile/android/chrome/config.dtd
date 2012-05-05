@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Søg">
-<!ENTITY newpref.label          "Tilføj en ny indstilling">
-<!ENTITY addpref.name           "Navn">
-<!ENTITY addpref.value          "Værdi">
-
-<!ENTITY cancel.label           "Afbryd">
-<!ENTITY reset.label            "Nulstil">
-<!ENTITY done.label             "Færdig">
-
-<!ENTITY integer.label          "Heltal">
-<!ENTITY string.label           "Tekst">
-<!ENTITY boolean.label          "Sand/Falsk">
+<!ENTITY search.placeholder2    "Søgeindstillinger">
+<!ENTITY clear.altText          "Ryd">
+<!ENTITY newpref.label2         "Tilføj en ny indstilling">

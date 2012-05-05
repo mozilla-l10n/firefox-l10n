@@ -1,7 +1,14 @@
-<!ENTITY  splash_firstrun "Konfigurerer &brandShortName;\u2026">
+
+<!ENTITY  splash_settingup "Konfigurer din &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Vi opdaterer dine bogmærker og historik, hvilket kan tage et minut eller deromkring.">
 
 <!ENTITY  no_space_to_start_error "Der er ikke nok tilgængelig plads til at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
+
+
+<!ENTITY  awesomebar_bookmarks_title "Bogmærker">
+<!ENTITY  awesomebar_history_title "Historik">
+<!ENTITY  awesomebar_search_engine "Søg efter \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Fejlraportør">
 <!ENTITY  crash_message "&brandShortName; gik ned. Dine faneblade bør blive vist på &brandShortName; Start-siden når du genstarter.">
@@ -18,3 +25,103 @@
 <!ENTITY  launcher_shortcuts_empty "Ingen webapplikationer fundet">
 
 <!ENTITY choose_file "Vælg fil">
+
+<!ENTITY awesomebar_default_text "Indtast søgeord eller adresse">
+
+<!ENTITY remote_tabs "Synkroniserede faneblade">
+<!ENTITY remote_tabs_show_all "Vis alle faneblade">
+
+<!ENTITY bookmark "Bogmærke">
+<!ENTITY bookmark_added "Bogmærke tilføjet">
+<!ENTITY bookmark_removed "Bogmærke fjernet">
+<!ENTITY bookmark_updated "Bogmærke opdateret">
+
+<!ENTITY history_today_section "I dag">
+<!ENTITY history_yesterday_section "I går">
+<!ENTITY history_week_section "Seneste 7 dage">
+<!ENTITY history_older_section "Ældre end 7 dage">
+
+<!ENTITY reload "Genindlæs">
+<!ENTITY forward "Fremad">
+
+<!ENTITY new_tab "Nyt faneblad">
+<!ENTITY new_tab_opened "Et nyt faneblad blev åbnet">
+
+<!ENTITY settings "Indstillinger">
+<!ENTITY settings_title "Indstillinger">
+<!ENTITY pref_category_general "Generelt">
+<!ENTITY pref_category_privacy "Privatliv &amp; sikkerhed">
+<!ENTITY pref_category_content "Indhold">
+<!ENTITY pref_about_firefox "Om &brandShortName;">
+
+<!ENTITY pref_telemetry "Indsend ydelsesdata">
+<!ENTITY pref_remember_signons "Husk adgangskoder">
+
+<!ENTITY pref_char_encoding "Tegnkodning">
+<!ENTITY pref_char_encoding_on "Vis menu">
+<!ENTITY pref_char_encoding_off "Vis ikke menu">
+<!ENTITY pref_clear_history "Ryd historik">
+<!ENTITY pref_clear_history_confirm "Browserhistorik vil blive slettet">
+<!ENTITY pref_clear_private_data "Ryd private data">
+
+<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins_enabled "Aktiveret">
+<!ENTITY pref_plugins_tap_to_play "Tryk her for at afspille">
+<!ENTITY pref_plugins_disabled "Deaktiveret">
+<!ENTITY pref_text_size "Tekststørrelse">
+<!ENTITY pref_font_size_tiny "Ekstra lille">
+<!ENTITY pref_font_size_small "Lille">
+<!ENTITY pref_font_size_medium "Mellem">
+<!ENTITY pref_font_size_large "Stor">
+<!ENTITY pref_font_size_xlarge "Ekstra Stor">
+<!ENTITY pref_use_master_password "Brug hovedadgangskode">
+<!ENTITY pref_sync "Sync">
+
+<!ENTITY quit "Afslut">
+
+<!ENTITY addons "Tilføjelser">
+<!ENTITY downloads "Filhentninger">
+<!ENTITY char_encoding "Tegnkodning">
+
+<!ENTITY share "Del">
+<!ENTITY share_title "Del via">
+<!ENTITY save_as_pdf "Gem som PDF">
+
+<!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
+<!ENTITY contextmenu_remove_bookmark "Fjern">
+<!ENTITY contextmenu_add_to_launcher "Føj til startskærmen">
+<!ENTITY contextmenu_share "Del">
+<!ENTITY contextmenu_edit_bookmark "Rediger">
+
+<!ENTITY bookmark_edit_title "Rediger bogmærke">
+<!ENTITY bookmark_edit_name "Navn">
+<!ENTITY bookmark_edit_location "Placering">
+<!ENTITY bookmark_edit_keyword "Stikord">
+
+<!ENTITY site_settings_title        "Ryd webstedsindstillinger">
+<!ENTITY site_settings_cancel       "Annuller">
+<!ENTITY site_settings_clear        "Ryd">
+<!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
+
+<!ENTITY masterpassword_create_title "Opret hovedadgangskode">
+<!ENTITY masterpassword_remove_title "Fjern hovedadgangskode">
+<!ENTITY masterpassword_password "Adgangskode">
+<!ENTITY masterpassword_confirm "Bekræft adgangskode">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Annuller">
+
+<!ENTITY abouthome_addons_title "Tilføjelser til din &brandShortName;">
+<!ENTITY abouthome_addons_browse "Gennemse alle tilføjelser til &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Dine faneblade fra sidst">
+<!ENTITY abouthome_last_tabs_open "Åbn alle faneblade fra sidst">
+
+
+
+<!ENTITY abouthome_about_sync "Opsæt Firefox Sync til at få adgang til bogmærker, historik og faneblade fra dine andre enheder">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Vælg fil">
+<!ENTITY filepicker_audio_title "Vælg eller optag en lyd">
+<!ENTITY filepicker_image_title "Vælg eller tag et billede">
+<!ENTITY filepicker_video_title "Vælg eller optag en video">

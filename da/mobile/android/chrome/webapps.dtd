@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Indtast en titel">
-<!ENTITY webapps.permissions "Tillad adresse:">
-<!ENTITY webapps.perm.geolocation "Stedbestemt surf">
-<!ENTITY webapps.perm.offline "Offline datalager">
-<!ENTITY webapps.perm.notifications "Systembeskeder">
-<!ENTITY webapps.perm.requestedHint "(forespurgt)">
-<!ENTITY webapps.add-homescreen "Føj til startskærmen">

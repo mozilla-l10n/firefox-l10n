@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Om &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentel og kan være ustabil.">
+<!ENTITY aboutPage.telemetryStart               " Programmet sender automatisk information om ydelse, hardware, brug og tilpasninger tilbage til  ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;,">
+<!ENTITY aboutPage.telemetryEnd                 " hvilket hjælper med at forbedre &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "OSS">
 <!ENTITY aboutPage.support.label                "Support">
 <!ENTITY aboutPage.privacyPolicy.label          "Privatlivspolitik">
