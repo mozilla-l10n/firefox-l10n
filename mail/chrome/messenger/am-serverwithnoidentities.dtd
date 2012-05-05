@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Kontoinnstillinger">
-<!ENTITY accountSettingsDesc.label "Dette er en spesiell konto. Det er ingen identitet forbundet med den.">
 <!ENTITY accountName.label "Kontonavn:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY messageStorage.label "Meldingslagring">
-<!ENTITY emptyTrashOnExit.label "Tøm søppelkassen ved avslutning">
-<!ENTITY emptyTrashOnExit.accesskey "ø">
-<!ENTITY localPath.label "Lokal mappe:">
-<!ENTITY localFolderPicker.label "Velg lokal mappe:">
-<!ENTITY browseFolder.label "Bla gjennom …">
-<!ENTITY browseFolder.accesskey "B">

@@ -1,5 +1,3 @@
-<!ENTITY accountTitle.label "Kontoinnstillinger">
-
 <!ENTITY biffStart.label "Se etter nye artikler med ">
 <!ENTITY biffStart.accesskey "e">
 <!ENTITY biffEnd.label "minutters mellomrom">
