@@ -661,7 +661,7 @@
 <!ENTITY contextMute.accesskey "б">
 <!ENTITY contextUnmute.label "Восстановить звук">
 <!ENTITY contextUnmute.accesskey "т">
-<!ENTITY junkBarMessage1.label "Спам">
+<!ENTITY junkBarMessage2.label "&brandShortName; думает, что это сообщение является спамом.">
 <!ENTITY junkBarButton1.label "Не спам">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "В целях безопасности &brandShortName; заблокировал в этом сообщении загрузку содержимого из сети.">

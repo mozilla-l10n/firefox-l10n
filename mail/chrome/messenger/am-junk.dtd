@@ -12,7 +12,7 @@
 <!ENTITY purge1.accesskey "в">
 <!ENTITY purge2.label "дней">
 <!ENTITY whitelistHeader.label "Не помечать автоматически сообщения как спам, если отправитель находится в адресных книгах: ">
-<!ENTITY whitelist.accesskey "е">
+<!ENTITY whitelistHeader.accesskey "е">
 <!ENTITY ispHeadersWarning.label "Если включено, &brandShortName; будет автоматически считать спамом сообщения, помеченные этим внешним классификатором.">
 <!ENTITY ispHeaders.label "Использовать поля в заголовках писем установленные:">
 <!ENTITY ispHeaders.accesskey "с">

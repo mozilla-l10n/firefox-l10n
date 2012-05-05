@@ -103,3 +103,5 @@
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
+<!ENTITY identity_connected_to "Вы соединены с">
+<!ENTITY identity_run_by "который управляется">

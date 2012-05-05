@@ -25,10 +25,10 @@
 <!ENTITY useDownloadedList.accesskey "п">
 <!ENTITY savedPasswords.intro "&brandShortName; может запоминать пароли для всех ваших учетных записей.">
 <!ENTITY useMasterPassword.label "Использовать мастер-пароль">
-<!ENTITY useMasterPassword.accesskey "И">
+<!ENTITY useMasterPassword.accesskey "о">
 <!ENTITY masterPassword.intro "Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в сессию.">
 <!ENTITY changeMasterPassword.label "Сменить мастер-пароль…">
-<!ENTITY changeMasterPassword.accesskey "м">
+<!ENTITY changeMasterPassword.accesskey "е">
 <!ENTITY savedPasswords.label "Сохранённые пароли…">
 <!ENTITY savedPasswords.accesskey "х">
 <!ENTITY antiVirus.intro "&brandShortName; может облегчить работу антивируса при проверке входящих сообщений на наличие вирусов перед тем, как сохранить их в почтовые папки.">
@@ -38,7 +38,7 @@
 <!ENTITY acceptCookies.label "Принимать куки с сайтов">
 <!ENTITY acceptCookies.accesskey "р">
 <!ENTITY keepUntil.label "Сохранять куки:">
-<!ENTITY keepUntil.accesskey "х">
+<!ENTITY keepUntil.accesskey "я">
 <!ENTITY expire.label "до истечения срока их действия">
 <!ENTITY close.label "до закрытия мною &brandShortName;">
 <!ENTITY askEachTime.label "спрашивать каждый раз">
@@ -46,3 +46,5 @@
 <!ENTITY cookieExceptions.accesskey "к">
 <!ENTITY showCookies.label "Показать куки…">
 <!ENTITY showCookies.accesskey "а">
+<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы за мной следили">
+<!ENTITY doNotTrack.accesskey "щ">
