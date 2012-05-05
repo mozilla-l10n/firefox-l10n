@@ -34,7 +34,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "יש להפעיל מחדש את &brandShortName; כדי שהתוספים החיצוניים יתפקדו.">
 
 <!ENTITY missingPlugin                                       "נחוץ תוסף חיצוני כדי להציג תוכן זה.">
-<!ENTITY clickToPlayPlugin                                   "הקש כאן להפעלת התוסף.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugins                                  "נא ללחוץ כאן כדי להפעיל תוספים חיצוניים.">
 <!ENTITY disabledPlugin                                      "תוסף חיצוני זה אינו פעיל.">
 <!ENTITY blockedPlugin.label                                 "תוסף זה נחסם כדי להגן עליך.">
 

@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "קובץ">
+<!ENTITY fileMenu.accesskey                 "ק">
+
+<!ENTITY quitApplicationCmdWin.label        "יציאה">
+<!ENTITY quitApplicationCmdWin.accesskey    "י">
+<!ENTITY quitApplicationCmd.label           "יציאה">
+<!ENTITY quitApplicationCmd.accesskey       "י">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "הסתרת אחרים">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "הצג הכול">
+
+<!ENTITY editMenu.label                     "עריכה">
+<!ENTITY editMenu.accesskey                 "ע">
+<!ENTITY undoCmd.label                      "ביטול">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "ב">
+<!ENTITY redoCmd.label                      "ביצוע שוב">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "ש">
+<!ENTITY cutCmd.label                       "גזירה">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "ג">
+<!ENTITY copyCmd.label                      "העתקה">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "ע">
+<!ENTITY pasteCmd.label                     "הדבקה">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "ד">
+<!ENTITY deleteCmd.label                    "מחיקה">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "מ">
+<!ENTITY selectAllCmd.label                 "בחירת הכול">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "כ">
+
