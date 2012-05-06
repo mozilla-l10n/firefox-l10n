@@ -9,14 +9,14 @@
 <!ENTITY selectAllCmd.label "Elekti ĉion">
 <!ENTITY selectAllCmd.accesskey "E">
 <!ENTITY deleteCmd.label "Forviŝi">
-<!ENTITY deleteCmd.accesskey "f">
+<!ENTITY deleteCmd.accesskey "F">
 
 <!ENTITY spellAddToDictionary.label "Aldoni al vortaro">
-<!ENTITY spellAddToDictionary.accesskey "a">
+<!ENTITY spellAddToDictionary.accesskey "d">
 <!ENTITY spellUndoAddToDictionary.label "Malfari aldonadon al vortaro">
-<!ENTITY spellUndoAddToDictionary.accesskey "M">
+<!ENTITY spellUndoAddToDictionary.accesskey "d">
 <!ENTITY spellCheckEnable.label "Kontroli literumadon">
-<!ENTITY spellCheckEnable.accesskey "L">
+<!ENTITY spellCheckEnable.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(Neniu sugesto pri literumado)">
 <!ENTITY spellDictionaries.label "Lingvoj">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellDictionaries.accesskey "L">
