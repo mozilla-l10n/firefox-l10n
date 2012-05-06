@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Ní mór &brandShortName; a atosú chun an forlíontán (na forlíontáin) a chur ag obair.">
 
 <!ENTITY missingPlugin "Teastaíonn breiseán uait chun an t-ábhar seo a chur ar taispeáint.">
-<!ENTITY clickToPlayPlugin "Cnag anseo chun an forlíontán a chur i ngníomh.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin "Cnag anseo chun an forlíontán a chur i ngníomh.">
+<!ENTITY clickToPlayPlugins "Cliceáil anseo chun forlíontáin a chur i ngníomh.">
 <!ENTITY disabledPlugin "Tá an forlíontán seo díchumasaithe.">
 <!ENTITY blockedPlugin.label "Tá cosc curtha ar an bhforlíontán seo le tú a chosaint.">
 

@@ -98,6 +98,7 @@
 <!ENTITY permCookie "Socraigh Fianáin">
 <!ENTITY permInstall "Suiteáil Eisínteachtaí nó Téamaí">
 <!ENTITY permGeo "Ceadaigh">
+<!ENTITY permPlugins "Activate Plugins">
 
 <!ENTITY permIndexedDB "Coinnigh Stóras As Líne">
 <!ENTITY permClearStorage "Glan an Stóras">

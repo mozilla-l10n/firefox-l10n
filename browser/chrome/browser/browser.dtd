@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -130,7 +130,7 @@ can reach it easily. -->
 <!ENTITY searchItem.title "Cuardaigh">
 <!ENTITY throbberItem.title "Táscaire Gníomhaíochta">
 <!ENTITY bookmarksItem.title "Leabharmharcanna">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY appMenuButton.label "Roghchlár">
 <!ENTITY appMenuButton.tooltip "Oscail roghchlár &brandShortName;">
@@ -279,7 +279,7 @@ can reach it easily. -->
 
 <!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
 <!ENTITY clearRecentHistory.accesskey "S">
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label "Tosaigh Brabhsáil Phríobháideach">
 <!ENTITY privateBrowsingCmd.start.accesskey "P">
@@ -606,15 +606,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip "Dún Barra na mBreiseán">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
 
-<!ENTITY htmlPanel.label "HTML">
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-
-<!ENTITY htmlPanel.tooltiptext "Painéal HTML">
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!ENTITY markupButton.arialabel "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-
-<!ENTITY htmlPanel.accesskey "H">
+<!ENTITY markupButton.accesskey "B">

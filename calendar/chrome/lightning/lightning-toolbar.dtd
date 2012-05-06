@@ -35,7 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barra Féilirí">
-<!ENTITY lightning.toolbar.calendar.accesskey "B">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Barra Tascanna">
 <!ENTITY lightning.toolbar.task.accesskey "T">
 
@@ -50,7 +50,7 @@
 <!ENTITY lightning.toolbar.mail.accesskey "m">
 <!ENTITY lightning.toolbar.calendar.label "Féilire">
 <!ENTITY lightning.toolbar.calendar.tooltip "Féach ar chluaisín an fhéilire">
-<!ENTITY lightning.toolbar.calendar.accesskey "B">
+<!ENTITY lightning.toolbar.calendar.accesskey "F">
 <!ENTITY lightning.toolbar.task.label "Tascanna">
 <!ENTITY lightning.toolbar.task.tooltip "Féach ar chluaisín na dtascanna">
 <!ENTITY lightning.toolbar.task.accesskey "T">

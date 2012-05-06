@@ -278,7 +278,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
-<!ENTITY getAllNewMessagesCmd.key "Y">
+<!ENTITY getAllNewMessagesCmd.key "T">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Aimsigh">
@@ -359,8 +359,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "f">
 <!ENTITY replySenderCmd.label "Freagair an Seoltóir Amháin">
 <!ENTITY replySenderCmd.accesskey "r">
-<!ENTITY replyNewsgroupCmd.label "Freagair an Grúpa Nuachta">
-<!ENTITY replyNewsgroupCmd.accesskey "g">
+<!ENTITY replyNewsgroupCmd2.label "Freagair an Grúpa Nuachta">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
 <!ENTITY replyToAllMsgCmd.label "Freagair Cách">
 <!ENTITY replyToAllMsgCmd.accesskey "a">
 <!ENTITY replyToAllMsgCmd.key "a">
@@ -499,6 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
 <!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Socruithe an Chuntais…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -693,8 +694,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Freagair an Seoltóir Amháin">
 <!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplyNewsgroup.label "Freagair an Grúpa Nuachta">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Freagair Cách">
 <!ENTITY contextReplyAll.accesskey "r">
 <!ENTITY contextReplyList.label "Freagra chuig an Liosta">

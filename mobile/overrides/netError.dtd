@@ -13,11 +13,11 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Freastalaí gan aimsiú">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<!ENTITY dnsNotFound.longDesc2 "<ul>
 <li>Scrúdaigh an seoladh le haghaidh botún cosúil le 
 <strong>ww</strong>.sampla.com in áit 
-<strong>www</strong>.sampla.com</li> 
-<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar do cheangal líonra nó do cheangal gan sreang.</li> 
+<strong>www</strong>.sampla.com</li>
+<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar do cheangal líonra nó do cheangal gan sreang.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Comhad gan aimsiú">
@@ -37,8 +37,8 @@
 <!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Bain triail eile as. Déanfaidh &brandShortName; iarracht ceangal a bhunú agus an leathanach a luchtú arís.</li> 
+<!ENTITY netOffline.longDesc2 "<ul>
+<li>Bain triail eile as. Déanfaidh &brandShortName; iarracht ceangal a bhunú agus an leathanach a luchtú arís.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
@@ -60,9 +60,9 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> <li>Téigh i dteagmháil le do riarthóir líonra le bheith cinnte go bhfuil an seachfhreastalaí ag obair.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Ní féidir an seachfhreastalaí a aimsiú">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> 
-<li>Cinntigh go bhfuil ceangal líonra nó ceangal gan sreang do ríomhaire ag obair.</li> 
+<!ENTITY proxyResolveFailure.longDesc2 "<ul>
+<li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li>
+<li>Cinntigh go bhfuil ceangal líonra nó ceangal gan sreang do ríomhaire ag obair.</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Níl an leathanach ag atreorú i gceart">
@@ -72,17 +72,17 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
 
 <!ENTITY nssFailure2.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
-<!ENTITY nssFailure2.longDesc '<ul> 
-<li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li> 
-<li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil, nó úsáid an t-ordú ar an roghchlár "Cabhair" chun tuairisc faoin suíomh briste seo a sheoladh.</li> 
+<!ENTITY nssFailure2.longDesc '<ul>
+<li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li>
+<li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil, nó úsáid an t-ordú ar an roghchlár "Cabhair" chun tuairisc faoin suíomh briste seo a sheoladh.</li>
 </ul>'>
 
 <!ENTITY nssBadCert.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir go bhfuil duine éigin ag déanamh aithris ar an bhfreastalaí.</li> <li>Má d'éirigh leat ceangal leis an bhfreastalaí seo roimhe seo, b'fhéidir gur fadhb shealadach atá ann agus is féidir leat iarracht a dhéanamh níos déanaí.</li> </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> 
-<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra nó ceangal gan sreang do ghléis shoghluaiste.</li> 
+<!ENTITY sharedLongDesc2 "<ul>
+<li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li>
+<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra nó ceangal gan sreang do ghléis shoghluaiste.</li>
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
@@ -100,9 +100,9 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ná cruthaigh eisceacht mura bhfuil muinín agat as do cheangal Idirlín nó mura fheiceann tú rabhadh maidir leis an bhfreastalaí seo go rialta.</p> 
+<!ENTITY securityOverride.warningContent "<p>Ná cruthaigh eisceacht mura bhfuil muinín agat as do cheangal Idirlín nó mura fheiceann tú rabhadh maidir leis an bhfreastalaí seo go rialta.</p>
  
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL Cianda">

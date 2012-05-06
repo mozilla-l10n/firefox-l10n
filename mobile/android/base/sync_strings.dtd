@@ -70,3 +70,6 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ní thacaítear ach aon chuntas &syncBrand.fullName.label; amháin.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>

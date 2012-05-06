@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "s">
 <!-- Used just in context popup. -->
 
-<!ENTITY spellCheckNoSuggestions.label "(Níl Aon Mholadh)">
-<!ENTITY spellCheckIgnoreWord.label "Tabhair neamhaird ar an bhFocal Seo">
-<!ENTITY spellCheckIgnoreWord.accesskey "i">
-<!ENTITY spellCheckAddToDictionary.label "Cuir san Fhoclóir">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Cruthaigh Nasc…">
 <!ENTITY createLinkCmd.accesskey "N">
 <!ENTITY editLinkCmd.label "Cuir Nasc in Eagar i gCumadóir Nua">
@@ -179,7 +174,7 @@
 <!ENTITY tableOrCellColor.label "Dath Cúlra an Tábla nó na Cille…">
 <!ENTITY tableOrCellColor.accesskey "b">
 
-<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveStyles.key "T">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Bain Ancairí Ainmnithe">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">

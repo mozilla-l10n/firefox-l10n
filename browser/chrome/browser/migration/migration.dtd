@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromFirefox.label "Firefox">
 <!ENTITY importFromFirefox.accesskey "x">
-<!ENTITY importFromHTMLFile.label "Ó Chomhad HTML">
-<!ENTITY importFromHTMLFile.accesskey "C">
 
 <!ENTITY noMigrationSources.label "Níorbh fhéidir ríomhchláir ina bhfuil leabharmharcanna, stair nó sonraí focal faire a aimsiú.">
 
