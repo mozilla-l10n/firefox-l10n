@@ -11,6 +11,10 @@
   -  application menu item that opens the debugger UI. -->
 <!ENTITY debuggerMenu.label          "Script-debugger">
 
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI. -->
+<!ENTITY chromeDebuggerMenu.label   "Browser-debugger">
+
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey     "S">
