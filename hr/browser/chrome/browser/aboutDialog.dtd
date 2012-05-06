@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; je eksperimentalna inačica i može biti nestabilna.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "Automatski šalje informacije testova &vendorShortName;i kako bi &brandShortName; bio bolji.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Automatski šalje informacije o performansama, hardveru, korištenju i prilagodbama na &vendorShortName; poslužitelj, kako biste pomogli učiniti &brandShortName; još boljim.">
 
 <!ENTITY aboutDialog.title          "O &brandFullName;">
 <!ENTITY bottomLinks.license        "Informacije o licenciranju">
