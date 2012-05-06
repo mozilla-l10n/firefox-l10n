@@ -318,8 +318,6 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Retrucar namái al remitente">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Retrucar al grupu de noticies">
-<!ENTITY replyNewsgroupCmd.accesskey "s">
 <!ENTITY replyToAllMsgCmd.label "Retrucar a toos">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -606,8 +604,6 @@
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Retrucar namái al remitente">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Retrucar al grupu">
-<!ENTITY contextReplyNewsgroup.accesskey "u">
 <!ENTITY contextReplyAll.label "Retrucar a toos">
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplyList.label "Retrucar a la llista">
@@ -655,9 +651,6 @@
 <!ENTITY mdnBarSendButton2.label "Unviar acuse de recibu">
 <!ENTITY mdnBarSendButton2.accesskey "v">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label.base "Guetar en tolos mensaxes… #1">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Amestar a la llibreta de direiciones…">
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Amestar a la llibreta de direiciones">
@@ -716,3 +709,30 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Amosar too">
+<!ENTITY chatButton.label "Charrar">
+<!ENTITY chatButton.tooltip "Amosar la llingüeta de chat">
+<!ENTITY contextReplyNewsgroup2.label "Retrucar nel grupu de noticies">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY goChatCmd.label "Charrar">
+<!ENTITY goChatCmd.accesskey "h">
+<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY imAccountsStatus.label "Estáu de chat">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available "Disponible">
+<!ENTITY imStatus.unavailable "Non disponible">
+<!ENTITY imStatus.offline "Ensin conexón">
+<!ENTITY imStatus.showAccounts "Amosar cuentes…">
+<!ENTITY newIMAccountCmd.label "Cuenta de chat…">
+<!ENTITY newIMAccountCmd.accesskey "h">
+<!ENTITY nextButtonToolbarItem.label "Siguiente non lleíu">
+<!ENTITY nextMsgButton.label "Siguiente">
+<!ENTITY nextMsgButton.tooltip "Movese al mensaxe siguiente">
+<!ENTITY previousButtonToolbarItem.label "Anterior non lleíu">
+<!ENTITY previousMsgButton.label "Anterior">
+<!ENTITY previousMsgButton.tooltip "Movese al mensaxe anterior">
+<!ENTITY replyNewsgroupCmd2.label "Retrucar nel grupu de noticies">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
+<!ENTITY search.label.base "Guetar… #1">
