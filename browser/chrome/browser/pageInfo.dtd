@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Sette infokapsler">
 <!ENTITY  permInstall           "Installere utvidelser og temaer">
 <!ENTITY  permGeo               "Tillat stedsangivelse">
+<!ENTITY  permPlugins           "Aktiver programtillegg">
 
 <!ENTITY  permIndexedDB              "Behandle frakoblet lager">
 <!ENTITY  permClearStorage           "Tøm lager">
