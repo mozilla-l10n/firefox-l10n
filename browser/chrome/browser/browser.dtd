@@ -168,7 +168,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.accesskey          "I"> 
 
 <!ENTITY keywordfield.label           "Aldoni kategorian vorton por tiu ĉi serĉado…">
-<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY keywordfield.accesskey       "v">
 <!ENTITY search.label                 "TTTa serĉado">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Elŝutoj">
@@ -196,7 +196,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
-<!ENTITY inspectContextMenu.accesskey "I">
+<!ENTITY inspectContextMenu.accesskey "n">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -278,7 +278,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
 <!ENTITY clearRecentHistory.label               "Forigi ĵusan historion…">
-<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.accesskey           "h">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Komenci privatan retesploradon">

@@ -14,7 +14,7 @@
 <!ENTITY copyCmd.accesskey         "K">
 <!ENTITY pasteCmd.label            "Alglui">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "g">
+<!ENTITY pasteCmd.accesskey        "A">
 <!ENTITY deleteCmd.label           "Forviŝi">
 <!ENTITY deleteCmd.accesskey       "F">
 <!ENTITY selectAllCmd.label        "Elekti ĉion">
