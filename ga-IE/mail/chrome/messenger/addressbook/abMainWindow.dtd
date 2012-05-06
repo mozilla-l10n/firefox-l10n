@@ -42,7 +42,7 @@
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "l">
 <!ENTITY redoCmd.label "Athfheidhmigh">
-<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.key "T">
 <!ENTITY redoCmd.accesskey "f">
 <!ENTITY cutCmd.label "Gearr">
 <!ENTITY cutCmd.key "X">
@@ -122,7 +122,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd.accesskey "R">
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label "Teagmháil Nua">
 <!ENTITY newContactButton.accesskey "T">

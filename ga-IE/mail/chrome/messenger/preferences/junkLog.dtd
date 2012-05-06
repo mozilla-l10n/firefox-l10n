@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Loga Dramhphoist">
-<!ENTITY junkLogInfo.label "Loga smachtú an dramhphoist">
+<!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
+<!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
 <!ENTITY clearLog.label "Glan an Loga">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY closeLog.label "Dún">

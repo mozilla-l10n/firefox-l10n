@@ -2,8 +2,8 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 <!ENTITY warningDesc.version "Is táirge turgnamhach é &brandShortName; agus seans nach mbeidh sé cobhsaí.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry "Seolann sé faisnéis chuig &vendorShortName; go huathoibríoch, chun cabhrú linn feabhas a chur ar &brandShortName;.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc "Seolann sé faisnéis maidir le feidhmíocht, crua-earraí, úsáid, agus saincheapadh chuig &vendorShortName; go huathoibríoch, chun cabhrú linn feabhas a chur ar &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start "Seo é ">

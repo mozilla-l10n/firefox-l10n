@@ -27,6 +27,8 @@
 <!ENTITY cookie.removeAll "Bain Gach Fianán">
 
 <!ENTITY geo.label "Ceadaigh">
+
+<!ENTITY plugins.label "Forlíontáin">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 

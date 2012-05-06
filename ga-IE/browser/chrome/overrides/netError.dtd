@@ -14,13 +14,13 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Freastalaí gan aimsiú">
-<!ENTITY dnsNotFound.longDesc "<ul> 
+<!ENTITY dnsNotFound.longDesc "<ul>
 <li>Scrúdaigh an seoladh le haghaidh botún cosúil le 
 <strong>ww</strong>.sampla.com in áit 
-<strong>www</strong>.sampla.com</li> 
-<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra do ríomhaire.</li> 
+<strong>www</strong>.sampla.com</li>
+<li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra do ríomhaire.</li>
 <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh 
-go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li> 
+go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Comhad gan aimsiú">
@@ -40,8 +40,8 @@ go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li>
 <!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Brúigh &quot;Déan Iarracht Arís&quot; chun dul ar líne agus an leathanach a luchtú arís.</li> 
+<!ENTITY netOffline.longDesc2 "<ul>
+<li>Brúigh &quot;Déan Iarracht Arís&quot; chun dul ar líne agus an leathanach a luchtú arís.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
@@ -72,9 +72,9 @@ go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
 
 <!ENTITY nssFailure2.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
-<!ENTITY nssFailure2.longDesc '<ul> 
-<li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li> 
-<li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil, nó úsáid an t-ordú ar an roghchlár "Cabhair" chun tuairisc faoin suíomh briste seo a sheoladh.</li> 
+<!ENTITY nssFailure2.longDesc '<ul>
+<li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li>
+<li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil, nó úsáid an t-ordú ar an roghchlár "Cabhair" chun tuairisc faoin suíomh briste seo a sheoladh.</li>
 </ul>'>
 
 <!ENTITY nssBadCert.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
@@ -104,9 +104,9 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ná cruthaigh eisceacht mura bhfuil muinín agat as do cheangal Idirlín nó mura fheiceann tú rabhadh maidir leis an bhfreastalaí seo go rialta.</p> 
+<!ENTITY securityOverride.warningContent "<p>Ná cruthaigh eisceacht mura bhfuil muinín agat as do cheangal Idirlín nó mura fheiceann tú rabhadh maidir leis an bhfreastalaí seo go rialta.</p>
  
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL Cianda">

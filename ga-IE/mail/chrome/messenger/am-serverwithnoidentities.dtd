@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Socruithe Cuntais">
-<!ENTITY accountSettingsDesc.label "Cuntas speisialta é seo. Níl aon aitheantas comhcheangailte leis.">
 <!ENTITY accountName.label "Ainm an Chuntais:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY messageStorage.label "Stóráil na dTeachtaireachtaí">
-<!ENTITY emptyTrashOnExit.label "Folmhaigh an Bruscar ag an Scor">
-<!ENTITY emptyTrashOnExit.accesskey "S">
-<!ENTITY localPath.label "Comhadlann logánta:">
-<!ENTITY localFolderPicker.label "Roghnaigh Comhadlann Logánta">
-<!ENTITY browseFolder.label "Brabhsáil…">
-<!ENTITY browseFolder.accesskey "B">

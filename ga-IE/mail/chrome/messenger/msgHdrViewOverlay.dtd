@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Freagair an seoltóir agus gach faighteoir">
 <!ENTITY hdrReplyListButton1.label "Freagra Chuig Liosta">
 <!ENTITY hdrReplyListButton1.tooltip "Seol freagra chuig liosta ríomhphoist">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
 <!ENTITY hdrForwardButton1.label "Ar Aghaidh">
 <!ENTITY hdrForwardButton1.tooltip "Cuir an teachtaireacht seo ar aghaidh">
 <!ENTITY hdrJunkButton1.label "Dramhphost">
