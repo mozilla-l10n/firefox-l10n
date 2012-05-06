@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Datoteka">
+<!ENTITY fileMenu.accesskey                 "D">
+
+<!ENTITY quitApplicationCmdWin.label        "Izlaz">
+<!ENTITY quitApplicationCmdWin.accesskey    "z">
+<!ENTITY quitApplicationCmd.label           "Izlaz">
+<!ENTITY quitApplicationCmd.accesskey       "z">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Sakrij ostale">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Prikaži sve">
+
+<!ENTITY editMenu.label                     "Uredi">
+<!ENTITY editMenu.accesskey                 "e">
+<!ENTITY undoCmd.label                      "Vrati">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "V">
+<!ENTITY redoCmd.label                      "Ponovi">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "o">
+<!ENTITY cutCmd.label                       "Izreži">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "I">
+<!ENTITY copyCmd.label                      "Kopiraj">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "K">
+<!ENTITY pasteCmd.label                     "Zalijepi">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "p">
+<!ENTITY deleteCmd.label                    "Obriši">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "b">
+<!ENTITY selectAllCmd.label                 "Označi sve">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "a">
