@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Cuir teideal isteach">
-<!ENTITY webapps.permissions "Tabhair rochtain:">
-<!ENTITY webapps.perm.geolocation "Brabhsáil láthair-eolach">
-<!ENTITY webapps.perm.offline "Stóras as líne">
-<!ENTITY webapps.perm.notifications "Fógairt deisce">
-<!ENTITY webapps.perm.requestedHint "(iarrtha)">
-<!ENTITY webapps.add-homescreen "Cuir leis an scáileán baile é">
