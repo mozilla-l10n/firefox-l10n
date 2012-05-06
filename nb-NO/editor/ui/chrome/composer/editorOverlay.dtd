@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Ingen forslag)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorer ord">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Legg til i ordbok">
-<!ENTITY spellCheckAddToDictionary.accesskey "e">
 <!ENTITY createLinkCmd.label "Lag lenke …">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Rediger lenke i nytt nettsideutvikler-vindu">
