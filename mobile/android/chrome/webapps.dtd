@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Նշեք անունը">
-<!ENTITY webapps.permissions "Թույլատրել մուտքը.">
-<!ENTITY webapps.perm.geolocation "Տեղադրության դիտում">
-<!ENTITY webapps.perm.offline "Ցանցից դուրս տվյալների տեղը">
-<!ENTITY webapps.perm.notifications "Աշխատաշրջանի տեղեկացումներ">
-<!ENTITY webapps.perm.requestedHint "(պահանջվում է)">
-<!ENTITY webapps.add-homescreen "Ավելացնել տնային էկրանին">

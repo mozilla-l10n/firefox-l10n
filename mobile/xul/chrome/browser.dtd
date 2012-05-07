@@ -1,8 +1,8 @@
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Նշեք Որոնում կամ հասցեն">
 
 <!ENTITY back.label            "Հետ">
 <!ENTITY forward.label         "Առաջ">
-<!ENTITY reload.label          "Վերբեռնել">
+<!ENTITY reload.label          "Վերաբեռնել">
 <!ENTITY stop.label            "Կանգնեցնել">
 <!ENTITY go.label              "Անցնել">
 <!ENTITY star.label            "Աստղ">
@@ -16,12 +16,12 @@
 <!ENTITY copyAll.label         "Պատճենել բոլորը">
 <!ENTITY copylink.label        "Պատճենել հղման հասցեն">
 <!ENTITY paste.label           "Տեղադրել">
-<!ENTITY pasteAndGo.label      "Paste &amp; Go">
+<!ENTITY pasteAndGo.label      "Տեղադրել և&amp; Առաջ">
 <!ENTITY delete.label          "Ջնջել">
 <!ENTITY selectAll.label       "Ընտրել բոլորը">
 <!ENTITY noSuggestions.label   "(Առաջարկություն չկա)">
 <!ENTITY addToDictionary.label "Ավելացնել բառարանում">
-<!ENTITY inputMethod.label     "Select Input Method">
+<!ENTITY inputMethod.label     "Ընտրեք ներմուծման մեթոդը">
 
 <!ENTITY allPagesHeader.label      "Բոլոր Էջերը">
 <!ENTITY bookmarksHeader.label     "Էջանիշեր">
@@ -40,7 +40,7 @@
 <!ENTITY addonsRepo.label          "Ձեռք բերել հավելումներ">
 <!ENTITY addonsRecommended.label   "Երաշխավորվող">
 <!ENTITY addonsSearch.label        "Փնտրել">
-<!ENTITY addonsSearch2.emptytext   "Search Catalog">
+<!ENTITY addonsSearch2.emptytext   "Փնտրել Բաժին">
 <!ENTITY addonsSearch.recommended  "Երաշխավորվող">
 
 <!ENTITY addonOptions.label        "Ընտրանքներ">
@@ -69,7 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Ավելացվեց էջանիշերում">
 <!ENTITY bookmarkRemove.label      "Ջնջել">
 <!ENTITY bookmarkEdit.label        "Խմբագրել">
-<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
+<!ENTITY bookmarkShortcut.label    "Ավելացնել Առաջին էջում">
 
 <!ENTITY identity.unverifiedsite2 "Այս վեբ կայքը չի տրամադրում ին նույնացման ինֆորմացիան:">
 <!ENTITY identity.connectedTo2 "Միացված է՝">
@@ -108,10 +108,10 @@
 <!ENTITY contextFullScreen.label      "Ամբողջ էկրանով">
 <!ENTITY contextEditBookmark.label    "Խմբագրել">
 <!ENTITY contextRemoveBookmark.label  "Ջնջել">
-<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
+<!ENTITY contextShortcutBookmark.label "Ավելացնել Առաջին էջում">
 
 <!ENTITY pageactions.saveas.pdf      "Պահպանել որպես PDF">
-<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.share.page      "Տարածել էջը">
 <!ENTITY pageactions.password.forget "Գաղտնաբառը մոռացել եմ">
 <!ENTITY pageactions.quit            "Փակել">
 <!ENTITY pageactions.reset           "Մաքրել կայքի կարգավորումները">
