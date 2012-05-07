@@ -41,3 +41,6 @@
 <!ENTITY ignoreSubthread.label    "Ignoruj odpowiedzi">
 <!ENTITY watchThread.label        "Śledź wątek">
 <!ENTITY stopExecution.label      "Zatrzymaj wykonywanie filtru">
+
+<!ENTITY addAction.tooltip "Dodaj nową czynność">
+<!ENTITY removeAction.tooltip "Usuń tę czynność">
