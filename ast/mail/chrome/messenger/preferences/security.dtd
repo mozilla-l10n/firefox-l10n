@@ -12,8 +12,6 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Conseñar como lleíos los mensaxes calificaos como puxarra">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Activar rexistru del filtru de corréu puxarra">
-<!ENTITY enableJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Amosar el rexistru">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Reaniciar datos d'entrenamientu">
@@ -46,3 +44,5 @@
 <!ENTITY cookieExceptions.accesskey "s">
 <!ENTITY showCookies.label "Amosar cookies…">
 <!ENTITY showCookies.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Activar el rexistru del filtru adautativu de corréu puxarra">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
