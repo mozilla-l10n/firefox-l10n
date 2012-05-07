@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "কুকি প্ৰতিষ্ঠা কৰক">
 <!ENTITY  permInstall           "থিম বা সম্প্ৰসাৰণ ইনস্টল কৰক">
 <!ENTITY  permGeo               "স্থান অংশীদাৰ কৰক">
+<!ENTITY  permPlugins           "প্লাগিনসমূহ সক্ৰিয় কৰক">
 
 <!ENTITY  permIndexedDB              "অফলাইন সংৰক্ষণ অব্যাহত ৰাখক">
 <!ENTITY  permClearStorage           "সংৰক্ষণ পৰিষ্কাৰ কৰক">

@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "অৱস্থান অংশীদাৰী কৰক">
 
+<!ENTITY plugins.label                   "প্লাগিনসমূহ">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "অফলাইন সংৰক্ষণ বজায় ৰাখক">
