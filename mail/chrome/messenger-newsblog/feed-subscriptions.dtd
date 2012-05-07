@@ -5,7 +5,7 @@
 <!ENTITY feedLocation.label "URL de la canal:">
 <!ENTITY feedLocation.accesskey "L">
 <!ENTITY feedLocation.placeholder "Introduz una URL de canal válida p'amestar">
-<!ENTITY locationValidate.label "Validar">
+
 <!ENTITY button.addFeed.label "Amestar">
 <!ENTITY button.addFeed.accesskey "A">
 <!ENTITY button.editFeed.label "Editar">
@@ -20,3 +20,5 @@
 <!ENTITY quickMode.label "Amosar el resume del artículu en cuenta de la páxina web">
 <!ENTITY quickMode.accesskey "M">
 <!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
+<!ENTITY feedFolder.label "Guardar artículos en:">
+<!ENTITY feedFolder.accesskey "G">

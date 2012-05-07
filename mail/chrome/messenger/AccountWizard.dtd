@@ -18,7 +18,7 @@
 <!ENTITY emailLabel.accesskey "E">
 
 <!ENTITY incomingServerTypeDesc.label "Seleiciona la triba de sirvidor d'entrada que tas usando.">
-<!ENTITY incomingServerNameDesc.label "Introduz el nome del sirvidor d'entrada (por exemplu, &quot;mail.exemplu.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Introduz el nome del to sirvidor de noticies (NNTP) (por exemplu, &quot;news.exemplu.net&quot;).">
 <!ENTITY incomingServer.description "Introduz el nome del to sirvidor d'entrada (por exemplu, &quot;mail.exemplu.net&quot;).">
 <!ENTITY incomingServer.label "Sirvidor d'entrada:">
 <!ENTITY incomingServer.accesskey "S">

@@ -6,3 +6,4 @@
 <!ENTITY addAccountDialog.authorizing "Comprobando autorización...">
 <!ENTITY addAccountDialog.error "¡Hebo un fallu configurando la cuenta!">
 <!ENTITY addAccountDialog.acceptButton.label "Configurar cuenta">
+<!ENTITY addAccountDialog.createAccountText2 "Pues unviar axuntos de gran tamañu usando ún d'ente varios servicios d'almacenamientu en llinia. Por favor, configura una cuenta esistente, o rexístrate pa crear una cuenta nueva.">
