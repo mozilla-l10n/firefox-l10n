@@ -711,9 +711,8 @@
 <!ENTITY showAllAppsCmdMac.label "Amosar too">
 <!ENTITY chatButton.label "Charrar">
 <!ENTITY chatButton.tooltip "Amosar la llingüeta de chat">
-<!ENTITY contextReplyNewsgroup2.label "Retrucar nel grupu de noticies">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
-<!ENTITY errorConsoleCmd.commandkey "j">
+
+
 <!ENTITY goChatCmd.label "Charrar">
 <!ENTITY goChatCmd.accesskey "h">
 <!ENTITY goChatCmd.commandKey "C">
@@ -731,8 +730,10 @@
 <!ENTITY previousButtonToolbarItem.label "Anterior non lleíu">
 <!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY previousMsgButton.tooltip "Movese al mensaxe anterior">
-<!ENTITY replyNewsgroupCmd2.label "Retrucar nel grupu de noticies">
-<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY contextReplyNewsgroup.label "Retrucar al grupu">
+<!ENTITY contextReplyNewsgroup.accesskey "u">
+<!ENTITY replyNewsgroupCmd.label "Retrucar al grupu de noticies">
+<!ENTITY replyNewsgroupCmd.accesskey "e">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
 <!ENTITY search.label.base "Guetar… #1">
