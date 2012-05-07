@@ -715,7 +715,7 @@
 <!ENTITY contextUnmute.accesskey "P">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Niechciana wiadomość">
+<!ENTITY junkBarMessage2.label "Program &brandShortName; uznał tę wiadomość za niechcianą.">
 <!ENTITY junkBarButton1.label  "Pożądana wiadomość">
 <!ENTITY junkInfoButton.label  "Dlaczego?">
 
