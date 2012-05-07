@@ -70,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Mar ien &syncBrand.fullName.label;-account wurdt stipe.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Werstelkaai net goed. Probearje it opnij.'>

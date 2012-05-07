@@ -1,13 +1,17 @@
 <!ENTITY aboutPage.title                        "Oer &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; is eksperimenteel en kin net stabyl wêze.">
+<!ENTITY aboutPage.telemetryStart               " Der wurdt automatysk ynformaasje oer prestaasjes, hardware, gebrûk en oanpassingen werom nei ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " weromstjoerd, sadat &brandShortName; ferbettere wurde kin.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Stipe">
 <!ENTITY aboutPage.privacyPolicy.label          "Privacybelied">
 <!ENTITY aboutPage.rights.label                 "Ken jo rjochten">
-<!ENTITY aboutPage.relNotes.label               "Utjefte-opmerkings">
+<!ENTITY aboutPage.relNotes.label               "Utjefte-opmerkingen">
 <!ENTITY aboutPage.credits.label                "Meiwurkers">
-<!ENTITY aboutPage.checkForUpdates.button       "Kontrolearje op fernijings">
-<!ENTITY aboutPage.checkForUpdates.checking     "Siket nei fernijings…">
-<!ENTITY aboutPage.checkForUpdates.none         "Gjin fernijings beskikber">
+<!ENTITY aboutPage.checkForUpdates.button       "Kontrolearje op fernijingen">
+<!ENTITY aboutPage.checkForUpdates.checking     "Siket nei fernijingen…">
+<!ENTITY aboutPage.checkForUpdates.none         "Gjin fernijingen beskikber">
 <!ENTITY aboutPage.checkForUpdates.found        "Fernijing beskikber">
 
 
