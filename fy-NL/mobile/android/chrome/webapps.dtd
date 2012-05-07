@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Fier in titel yn">
-<!ENTITY webapps.permissions "Tagong tastean:">
-<!ENTITY webapps.perm.geolocation "Lokaasjebewust navigearje">
-<!ENTITY webapps.perm.offline "Offlinegegevensûnthâld">
-<!ENTITY webapps.perm.notifications "DesktopNotifikaasjes">
-<!ENTITY webapps.perm.requestedHint "(fersocht)">
-<!ENTITY webapps.add-homescreen "Tafoegje oan startskerm">

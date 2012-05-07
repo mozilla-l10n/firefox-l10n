@@ -1,7 +1,11 @@
 <!ENTITY aboutPage.title                        "Oer &brandShortName;">
-<!ENTITY aboutPage.checkForUpdates.link         "Kontrolearje op fernijings »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Fernijings sykje…">
-<!ENTITY aboutPage.checkForUpdates.none         "Gjin fernijings beskikber">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; is eksperimenteel en kin net stabyl wêze.">
+<!ENTITY aboutPage.telemetryStart               " Der wurdt automatysk ynformaasje oer prestaasjes, hardware, gebrûk en oanpassingen werom nei ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " weromstjoerd, sadat &brandShortName; ferbettere wurde kin.">
+<!ENTITY aboutPage.checkForUpdates.link         "Kontrolearje op fernijingen »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Fernijingen sykje…">
+<!ENTITY aboutPage.checkForUpdates.none         "Gjin fernijingen beskikber">
 <!ENTITY aboutPage.checkForUpdates.found        "Fernijing beskikber">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Stipe">
