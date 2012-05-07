@@ -16,7 +16,7 @@
 <!ENTITY purge2.label           "dni">
 
 <!ENTITY whitelistHeader.label "Nie oznaczaj wiadomości automatycznie jako niechcianej, jeżeli adres nadawcy znajduje się w: ">
-<!ENTITY whitelist.accesskey "z">
+<!ENTITY whitelistHeader.accesskey "z">
 
 <!ENTITY ispHeadersWarning.label "Gdy zaznaczone, program &brandShortName; będzie automatycznie uznawał wiadomości za niechciane na podstawie danych od zewnętrznego dostawcy.">
 <!ENTITY ispHeaders.label     "Ufaj nagłówkom niechcianej poczty dołączonym przez: ">
