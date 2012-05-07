@@ -1,10 +1,10 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
-<!ENTITY mainWindow.title "&brandFullName;"> 
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
-<!ENTITY mainWindow.titlemodifier "&brandFullName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
@@ -214,15 +214,6 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Fermer l'inspecteur">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Fermer la Barre de développement">
-<!ENTITY devToolbarMenu.label "Barre de développement">
-<!ENTITY devToolbarMenu.accesskey "v">
-<!ENTITY devToolbar.commandkey "v">
-
-<!ENTITY webConsoleButton.label "Console web">
-<!ENTITY inspectorButton.label "Inspecteur">
-<!ENTITY scriptsButton.label "Scripts">
-
 <!ENTITY inspectorHTMLCopyInner.label       "Copier innerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "C">
 
@@ -338,7 +329,7 @@ can reach it easily. -->
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Aller à l'onglet :">
 
-<!-- 
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -348,7 +339,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -381,7 +372,7 @@ can reach it easily. -->
 <!ENTITY reloadFrameCmd.accesskey     "c">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Code source de la sélection">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Code MathML de la sélection">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Code source de la page">
