@@ -1,14 +1,14 @@
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "Կարգավորեք &brandShortName;-ը">
+<!ENTITY  splash_bookmarks_history "Թարմացվում են էջանիշները և պատմությունը, սպասեք մի րոպե:">
 
 <!ENTITY  no_space_to_start_error "Չկա ազատ տեղ՝ &brandShortName;-ը սկսելու համար։">
 <!ENTITY  error_loading_file "Սխալ՝ &brandShortName;-ը բացելու համար պահանջվող ֆայլերը բեռնելիս">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
+<!ENTITY  awesomebar_all_pages_title "Հայտնի կայքերը">
 <!ENTITY  awesomebar_bookmarks_title "Էջանիշներ">
 <!ENTITY  awesomebar_history_title "Պատմություն">
-<!ENTITY  awesomebar_search_engine "Search for \&quot;&#037;s\&quot;">
+<!ENTITY  awesomebar_search_engine "Փնտրել \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-ի Վթարի Զեկուցիչ">
 <!ENTITY  crash_message "&brandShortName;-ը ձախողվել է։ Ձեր էջերը կերևան &brandShortName;-ում Մեկնարկային էջը վերագործարկելիս։">
@@ -26,26 +26,26 @@
 
 <!ENTITY choose_file "Ընտրել Ֆայլը">
 
-<!ENTITY awesomebar_default_text "Enter Search or Address">
+<!ENTITY awesomebar_default_text "Նշեք Որոնում կամ հասցեն">
 
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs "Սինք էջեր">
+<!ENTITY remote_tabs_show_all "Ցուցադրել բոլոր էջերը">
 
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_added "Էջանիշ է ավելացվել">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark_removed "Էջանիշը հեռացվել է">
+<!ENTITY bookmark_updated "Էջանիշը թարմացվել է">
 
 <!ENTITY history_today_section "Այսօր">
 <!ENTITY history_yesterday_section "Երեկ">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "7 օր առաջ">
+<!ENTITY history_older_section "7 օրից հին ">
 
-<!ENTITY reload "Կրկնել">
+<!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
 
 <!ENTITY new_tab "Նոր էջ">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY new_tab_opened "Նոր էջ է բացվել">
 
 <!ENTITY settings "Կարգավորումներ">
 <!ENTITY settings_title "Կարգավորումներ">
@@ -56,24 +56,24 @@
 <!ENTITY pref_do_not_track "Հաղորդել կայքերի մասին">
 <!ENTITY pref_telemetry "Ուղարկել արտադրողականության տվյալը">
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառը">
-<!ENTITY pref_cookies "Enable cookies">
+<!ENTITY pref_cookies "Միացնել cookie-ները">
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_history "Clear history">
-<!ENTITY pref_clear_history_confirm "Browsing history will be deleted">
+<!ENTITY pref_char_encoding_on "Ցուցադրել ընտրացանկը">
+<!ENTITY pref_char_encoding_off "Չցուցադրե\լ ընտրացանկը">
+<!ENTITY pref_clear_history "Մաքրել պատմությունը">
+<!ENTITY pref_clear_history_confirm "Դիտարկման պատմությունը կջնջվի">
 <!ENTITY pref_clear_private_data "Մաքրել անձնական տվյալը">
-<!ENTITY pref_clear_private_data_confirm "Browsing settings, including passwords and cookies, will be deleted">
+<!ENTITY pref_clear_private_data_confirm "Դիտարկման կարգավորումները, այդ թվում և գաղտնաբառերը և cookie-ները կջնջվեն:">
 <!ENTITY pref_plugins "Պլագիններ">
 <!ENTITY pref_plugins_enabled "Միացված">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
+<!ENTITY pref_plugins_tap_to_play "Խաղարկել">
 <!ENTITY pref_plugins_disabled "Անջատված">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
+<!ENTITY pref_text_size "Տեքստի չափը">
+<!ENTITY pref_font_size_tiny "Փոքրիկ">
+<!ENTITY pref_font_size_small "Փոքր">
+<!ENTITY pref_font_size_medium "Միջին">
+<!ENTITY pref_font_size_large "Մեծ">
+<!ENTITY pref_font_size_xlarge "Շատ մեծ">
 <!ENTITY pref_use_master_password "Օգտ. գաղտնաբառերի պահոցը">
 <!ENTITY pref_sync "Սինք">
 
@@ -84,12 +84,12 @@
 <!ENTITY char_encoding "Գրանշանների Կոդավորումը">
 
 <!ENTITY share "Տարածել">
-<!ENTITY share_title "Share via">
+<!ENTITY share_title "Տարածել՝">
 <!ENTITY save_as_pdf "Պահպանել որպես PDF">
 
 <!ENTITY contextmenu_open_new_tab "Բացել նոր էջում">
 <!ENTITY contextmenu_remove_bookmark "Ջնջել">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
+<!ENTITY contextmenu_add_to_launcher "Ավելացնել Առաջին էջում">
 <!ENTITY contextmenu_share "Տարածել">
 <!ENTITY contextmenu_edit_bookmark "Խմբագրել">
 
@@ -98,30 +98,30 @@
 <!ENTITY bookmark_edit_location "Տեղադրությունը">
 <!ENTITY bookmark_edit_keyword "Հիմնաբառ">
 
-<!ENTITY site_settings_title        "Clear Site Settings">
+<!ENTITY site_settings_title        "Մաքրել կայքի կարգավորումները">
 <!ENTITY site_settings_cancel       "Չեղարկել">
 <!ENTITY site_settings_clear        "Մաքրել">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_no_settings  "Չկան կարգավորումներ՝ ջնջելու համար:">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
+<!ENTITY masterpassword_create_title "Ստեղծել Հիմնական գաղտնաբառ">
 <!ENTITY masterpassword_remove_title "Հեռացնել Հիմնական Գաղտնաբառը">
 <!ENTITY masterpassword_password "Գաղտնաբառը">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_confirm "Կրկնեք գաղտնաբառը">
 
 <!ENTITY button_ok "ԼԱՎ">
 <!ENTITY button_cancel "Չեղարկել">
 
 <!ENTITY abouthome_addons_title "&brandShortName;-ի Հավելումները">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
+<!ENTITY abouthome_addons_browse "Նայել &brandShortName;-ի  բոլոր հավելումները ">
 <!ENTITY abouthome_last_tabs_title "Ձեր բացած վերջին էջերը">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
+<!ENTITY abouthome_last_tabs_open "Բացել վերջին բոլոր էջերը">
+<!ENTITY abouthome_top_sites_title "Հայտնի կայքերը">
+<!ENTITY abouthome_top_sites_browse "Բացել բոլոր հայտնի կայքերը">
+<!ENTITY abouthome_no_top_sites "Դուք չունեք ընտրած հայտնի կայքեր: ">
+<!ENTITY abouthome_about_sync "Կարգավորեք Firefox Սինքը՝ մուտք ունենալու համար այլ սարքերի էջանիշներին, պատմությանը և էջերին">
 <!ENTITY abouthome_sync_bold_name "Firefox Սինք">
 
 <!ENTITY filepicker_title "Ընտրել Ֆայլը">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք ձայն">
+<!ENTITY filepicker_image_title "Ընտրեք կամ նկարեք">
+<!ENTITY filepicker_video_title "Ընտրեք կամ տեսագրեք տեսանյութ">

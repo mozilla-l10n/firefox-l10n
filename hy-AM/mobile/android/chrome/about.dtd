@@ -1,5 +1,9 @@
 <!ENTITY aboutPage.title                        "&brandShortName;-ի մասին">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+<!ENTITY aboutPage.warningVersion               "&brandShortName;-ը փորձնական է և կայուն չի աշխատի:">
+<!ENTITY aboutPage.telemetryStart               "Միանգամից տեղեկություն է ուղարկվում արտադրողականության, սարքակազմի, օգտագործման և կարգավորումների մասին՝">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 "&brandShortName;-ը էլ ավելի կատարելագործելու համար:">
+<!ENTITY aboutPage.checkForUpdates.link         "Ստուգել թարմացումները  »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Թարմացումների որոնում…">
 <!ENTITY aboutPage.checkForUpdates.none         "Թարմացումներ չկան">
 <!ENTITY aboutPage.checkForUpdates.found        "Հասանելի է թարմացում">

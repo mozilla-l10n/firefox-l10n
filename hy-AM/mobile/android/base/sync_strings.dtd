@@ -1,30 +1,30 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox Սինք">
-<!ENTITY syncBrand.shortName.label "Սինք">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Սարքի միացում'>
+<!ENTITY sync.title.connect.label 'Միանալ &syncBrand.shortName.label;-ին'>
+<!ENTITY sync.title.adddevice.label 'Ավելացնել &syncBrand.fullName.label; հաշվեկշիռ'>
+<!ENTITY sync.title.pair.label 'Կցված սարք'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Ակտիվացնելու համար նոր սարքը, ընտրեք “Կարգավորել &syncBrand.shortName.label;” Ձեր սարքում։'>
+<!ENTITY sync.subtitle.header.label 'Մուտքագրեք այս կոդը Ձեր համակարգչում'>
+<!ENTITY sync.subtitle.connectlocation.label 'Ընտրեք “&sync.title.pair.label;” &syncBrand.shortName.label;-ում համակարգչային Firefox-ի ընտրանքներում:'>
+<!ENTITY sync.subtitle.pair.label 'Ակտիվացնելու համար ընտրեք “Կցված սարք” Ձեր այլ սարքում:'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Ցույց տվեք, թե ինչպես:'>
 <!ENTITY sync.link.advancedsetup.label 'Ընդլայնված...'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label 'Ես չ\&apos;ունեմ սարք ինձ մոտ...'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Սպասում է այլ սարքի...'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
+<!ENTITY sync.subtitle.account.label 'Նշեք Ձեր &syncBrand.fullName.label; հաշվեկշռի տեղեկությունը'>
 <!ENTITY sync.input.username.label 'Փոստարկղի անունը'>
 <!ENTITY sync.input.password.label 'Գաղտնաբառը'>
 <!ENTITY sync.input.key.label 'Վերականգնել բանալին'>
@@ -32,24 +32,24 @@
 <!ENTITY sync.input.server.label 'Սպասարկիչի URL-ն'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.title.fail.label 'Հնարավոր չէ կարգավորել &syncBrand.shortName.label;-ը'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label;-ը չի կարողանում միանալ սպասարկիչին: Կրկի՞ն փորձել:'>
 <!ENTITY sync.button.tryagain.label 'Կրկին փորձել'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!ENTITY sync.button.manual.label 'Ձեռադիր կարգավորում'>
+<!ENTITY sync.subtitle.nointernet.label 'Ինտերնետ կապը հասանելի չէ:'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Տեղադրումը ավարտված է'>
-<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
+<!ENTITY sync.subtitle.success.label 'Ֆայլերը բեռնվում են խորապատկերում: Փոփոխությունները Կարգավորումներ բաժնում:'>
 <!ENTITY sync.settings.label 'Կարգավորումներ'>
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.subtitle.manage.label 'Ձեր &syncBrand.fullName.label; հաշվեկշիռը արդեն տեղակայվել է: Փոփոխությունները Կարգավորումներ բաժնում:'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Խնդրում ենք, կրկին փորձեք:'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Ընտրանքներ'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.summary.pair.label 'Կցել այլ սարք Ձեր &syncBrand.shortName.label; հաշվեկշռին'>
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Չեղարկել'>
@@ -65,8 +65,11 @@
 <!ENTITY bookmarks.folder.tags.label 'Կցապիտակներ'>
 <!ENTITY bookmarks.folder.toolbar.label 'Էջանիշների Վահանակ'>
 <!ENTITY bookmarks.folder.unfiled.label 'Չկարգավորված Էջանիշեր'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+<!ENTITY bookmarks.folder.desktop.label 'Էջանիշներ'>
 <!ENTITY bookmarks.folder.mobile.label 'Բջջային էջանիշեր'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label 'Հնարավոր է միայն մեկ &syncBrand.fullName.label; հաշվեկշիռ:'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Վերականգնման բանալին սխալ է: կրկին փորձեք:'>

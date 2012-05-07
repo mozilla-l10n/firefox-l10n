@@ -21,7 +21,7 @@
 <!ENTITY sync.setup.tutorial        "Ցուցադրել, ինչպես">
 <!ENTITY sync.setup.waiting2        "Սպասում է այլ սարքի...">
 
-<!ENTITY sync.pair.title            "Սարքի միացում">
+<!ENTITY sync.pair.title            "Կցված սարք">
 <!ENTITY sync.pair.description      "Ակտիվացնելու համար նոր սարքը, ընտրեք &#x0022;Կարգ. Սինքը&#x0022; Ձեր սարքում։">
 <!ENTITY sync.setup.close           "Փակել">
 <!ENTITY sync.setup.waitingdownload "Տվյալները այժմ կբեռնվեն խորապատկերում։ Կարող եք փակել այս պատուհանը։">

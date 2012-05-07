@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "&brandShortName;-ի մասին">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; փորձնական է և ստաբիլ չի աշխատի:">
+<!ENTITY aboutPage.telemetryStart               "Միանգամից տեղեկություն է ուղարկվում արտադրողականության, սարքակազմի, օգտագործման և կարգավորումների մասին՝">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 "&brandShortName;-ը էլ ավելի կատարելագործելու համար:">
 <!ENTITY aboutPage.faq.label                    "ՀՃՀ">
 <!ENTITY aboutPage.support.label                "Աջակցություն">
 <!ENTITY aboutPage.privacyPolicy.label          "Գաղտնիության Դրույթները">
