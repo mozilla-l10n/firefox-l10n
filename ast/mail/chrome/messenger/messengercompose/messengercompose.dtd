@@ -240,9 +240,9 @@
 <!ENTITY spellAddDictionaries.label "Amestar diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY addressesSidebarTitle.label "Contautos">
-<!ENTITY attachCloud.label "EnllazFicheru…">
+<!ENTITY attachCloud.label "FileLink…">
 <!ENTITY attachCloud.accesskey "n">
-<!ENTITY attachCloudCmd.label "EnllazFicheru">
+<!ENTITY attachCloudCmd.label "FileLink">
 <!ENTITY attachCloudCmd.accesskey "n">
 <!ENTITY cancelUpload.label "Encaboxar xuba">
 <!ENTITY cancelUpload.accesskey "b">
