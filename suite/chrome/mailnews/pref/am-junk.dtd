@@ -12,7 +12,7 @@
 <!ENTITY purge1.accesskey "C">
 <!ENTITY purge2.label "giorni">
 <!ENTITY whitelistHeader.label "Non contrassegnare automaticamente i messaggi come spam se il mittente è in:">
-<!ENTITY whitelist.accesskey "N">
+<!ENTITY whitelistHeader.accesskey "N">
 <!ENTITY ispHeadersWarning.label "Se abilitata, &brandShortName; considererà automaticamente i messaggi marcati con questo classificatore esterno come spam.">
 <!ENTITY ispHeaders.label "Utilizza le intestazioni spam impostate da:">
 <!ENTITY ispHeaders.accesskey "U">
