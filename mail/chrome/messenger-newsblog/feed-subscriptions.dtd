@@ -1,7 +1,13 @@
 <!ENTITY feedSubscriptions.label "Soscripciones a canales">
 <!ENTITY subscriptionDesc.label "Nota: desaniciar o camudar la carpeta d'una canal nun va afeutar a los artículos descargaos previamente.">
 <!ENTITY feedTitle.label "Títulu:">
-<!ENTITY location.label "Llocalización:">
+<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedLocation.label "URL de la canal:">
+<!ENTITY feedLocation.accesskey "L">
+<!ENTITY feedLocation.placeholder "Introduz una URL de canal válida p'amestar">
+<!ENTITY feedFolder.label "Guardar artículos en:">
+<!ENTITY feedFolder.accesskey "G">
+<!ENTITY locationValidate.label "Validar">
 <!ENTITY button.addFeed.label "Amestar">
 <!ENTITY button.addFeed.accesskey "A">
 <!ENTITY button.editFeed.label "Editar">
@@ -13,3 +19,6 @@
 <!ENTITY button.exportOPML.label "Esportar">
 <!ENTITY button.exportOPML.accesskey "S">
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY quickMode.label "Amosar el resume del artículu en cuenta de la páxina web">
+<!ENTITY quickMode.accesskey "M">
+<!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
