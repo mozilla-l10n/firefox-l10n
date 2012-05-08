@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; skal genstartes for at de nye plugins kan blive aktiveret.">
 
 <!ENTITY missingPlugin                                       "Et plugin er nødvendigt for at vise dette indhold.">
-<!ENTITY clickToPlayPlugin                                   "Tryk her for at aktivere plugin.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tap her for at aktivere plugin.">
+<!ENTITY clickToPlayPlugins                                  "Tryk her for at aktivere plugins.">
 <!ENTITY disabledPlugin                                      "Dette plugin er deaktiveret.">
 <!ENTITY blockedPlugin.label                                 "Plugin'et er blevet blokeret for din sikkerhed.">
 
