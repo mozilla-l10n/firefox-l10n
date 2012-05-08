@@ -14,6 +14,7 @@
 <!ENTITY quickMode.label          "Visa artikelsammanfattningen i stället för att hämta webbsidan">
 <!ENTITY quickMode.accesskey      "V">
 
+<!ENTITY locationValidate.label      "Kontrollera">
 <!ENTITY validateText.label          "Kontrollera giltighet och hämta en giltig url.">
 
 <!ENTITY button.addFeed.label       "Lägg till">
