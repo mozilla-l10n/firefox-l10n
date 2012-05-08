@@ -15,6 +15,10 @@
   -  application menu item that opens the remote debugger UI. -->
 <!ENTITY remoteDebuggerMenu.label    "Débogueur distant">
 
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI. -->
+<!ENTITY chromeDebuggerMenu.label    "Débogueur du navigateur">
+
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey     "S">
@@ -35,6 +39,8 @@
   -  button that steps out of a function call. -->
 <!ENTITY debuggerUI.stepOutButton    "Sortir">
 
+<!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
+  -  widget that displays the call stack frames in the debugger. -->
 <!ENTITY debuggerUI.stackTitle       "Pile d'appels">
 
 <!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
