@@ -20,7 +20,7 @@
 <!ENTITY  awesomebar_all_pages_title "אתרים פופולריים">
 <!ENTITY  awesomebar_bookmarks_title "סימניות">
 <!ENTITY  awesomebar_history_title "היסטוריה">
-<!ENTITY  awesomebar_search_engine "חיפוש עבור \u0022&#037;s\\u0022">
+<!ENTITY  awesomebar_search_engine "חיפוש עבור \u0022&#037;s\u0022">
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; קרס. הלשוניות שלך יופיעו ברשימה בעמוד ההתחלה של &brandShortName; לאחר הפעלה מחדש.">
