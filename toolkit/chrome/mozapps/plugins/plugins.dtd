@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; devas esti rekomencita antaŭ ol la kromprogramo(j) funkcios.">
 
 <!ENTITY missingPlugin                                       "Kromprogramo estas bezonata por montri tiun ĉi enhavon.">
-<!ENTITY clickToPlayPlugin                                   "Tuŝu ĉi tie por aktivigi la kromprogramon.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tuŝetu ĉi tie por aktivigi komprogramon.">
+<!ENTITY clickToPlayPlugins                                   "Alklaku ĉi tie por aktivigi kromprogramojn.">
 <!ENTITY disabledPlugin                                      "Tiu ĉi kromprogramo estas malaktivigita.">
 <!ENTITY blockedPlugin.label                                 "Tiu ĉi kromprogramo estis blokita por protekti vin.">
 
