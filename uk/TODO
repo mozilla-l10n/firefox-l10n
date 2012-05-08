@@ -50,3 +50,5 @@ M mail/chrome/overrides/netError.dtd
 
 toolkit/chrome/global/aboutSupport.dtd
 перевірити aboutSupport.showDir.label на різних системах
+
+dom/chrome/accessibility/AccessFu.properties
