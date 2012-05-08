@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Введіть назву">
-<!ENTITY webapps.permissions "Дозволити доступ до:">
-<!ENTITY webapps.perm.geolocation "Отримання місцезнаходження">
-<!ENTITY webapps.perm.offline "Позамережного зберігання даних">
-<!ENTITY webapps.perm.notifications "Сповіщеннь на робочий стіл">
-<!ENTITY webapps.perm.requestedHint "(вимагається)">
-<!ENTITY webapps.add-homescreen "Додати на домашню сторінку">
