@@ -1,18 +1,16 @@
 <!ENTITY aboutPage.title                        "Про &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; є експериментальним і може бути нестабільним.">
+<!ENTITY aboutPage.telemetryStart               " Він автоматично надсилатиме інформацію про швидкодію, обладнання, використання та вподобання до  ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " щоб допомогти зробити &brandShortName; кращим.">
+<!ENTITY aboutPage.checkForUpdates.link         "Перевірити оновлення »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Пошук оновлень…">
+<!ENTITY aboutPage.checkForUpdates.none         "Оновлень не знайдено">
+<!ENTITY aboutPage.checkForUpdates.found        "Доступне оновлення">
 <!ENTITY aboutPage.faq.label                    "ЧаП">
 <!ENTITY aboutPage.support.label                "Підтримка">
 <!ENTITY aboutPage.privacyPolicy.label          "Угода конфіденційності">
 <!ENTITY aboutPage.rights.label                 "Знайте ваші права">
 <!ENTITY aboutPage.relNotes.label               "Інформація про випуск">
 <!ENTITY aboutPage.credits.label                "Учасники проекту">
-<!ENTITY aboutPage.checkForUpdates.button       "Перевірити оновлення">
-<!ENTITY aboutPage.checkForUpdates.checking     "Пошук оновлень…">
-<!ENTITY aboutPage.checkForUpdates.none         "Оновлень не знайдено">
-<!ENTITY aboutPage.checkForUpdates.found        "Доступне оновлення">
-
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
--->
-<!ENTITY aboutPage.licenseLink                  "Інформація про ліцензії">
-<!ENTITY aboutPage.licenseLinkSuffix            ".">
+<!ENTITY aboutPage.license.label                "Ліцензійна інформація">

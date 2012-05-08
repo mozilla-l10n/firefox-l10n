@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Про &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; є експериментальним і може бути нестабільним.">
+<!ENTITY aboutPage.telemetryStart               " Він автоматично надсилатиме інформацію про швидкодію, обладнання, використання та вподобання до ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " щоб допомогти зробити &brandShortName; кращим.">
 <!ENTITY aboutPage.faq.label                    "ЧаП">
 <!ENTITY aboutPage.support.label                "Підтримка">
 <!ENTITY aboutPage.privacyPolicy.label          "Угода конфіденційності">

@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Шукати">
-<!ENTITY newpref.label          "Додати нову настройку">
-<!ENTITY addpref.name           "Назва">
-<!ENTITY addpref.value          "Значення">
-
-<!ENTITY cancel.label           "Скасувати">
-<!ENTITY reset.label            "Скинути">
-<!ENTITY done.label             "Готово">
-
-<!ENTITY integer.label          "Ціле">
-<!ENTITY string.label           "Рядок">
-<!ENTITY boolean.label          "Логічне">
+<!ENTITY search.placeholder2    "Настройки пошуку">
+<!ENTITY clear.altText          "Очистити">
+<!ENTITY newpref.label2         "Додати нову настройку">
