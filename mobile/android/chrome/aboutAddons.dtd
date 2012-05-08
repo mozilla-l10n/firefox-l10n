@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Керівник додатками">
+<!ENTITY aboutAddons.header2                    "Ваші додатки">
+<!ENTITY aboutAddons.options                    "Настройки">
+
+<!ENTITY addonAction.enable                     "Увімкнути">
+<!ENTITY addonAction.disable                    "Вимкнути">
+<!ENTITY addonAction.uninstall                  "Вилучити">
+<!ENTITY addonAction.cancel                     "Скасувати">
