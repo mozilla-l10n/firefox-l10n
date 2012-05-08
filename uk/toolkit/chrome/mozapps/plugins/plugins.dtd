@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Для роботи плагіна(ів) потрібно перезапустити &brandShortName;. ">
 
 <!ENTITY missingPlugin                                       "Для відображення цього вмісту потрібен плагін.">
-<!ENTITY clickToPlayPlugin                                   "Тицьніть сюди щоб активувати плагін.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Тицьніть сюди щоб активувати плагін.">
+<!ENTITY clickToPlayPlugins                                  "Клацніть сюди щоб активувати плагіни.">
 <!ENTITY disabledPlugin                                      "Цей плагін вимкнено.">
 <!ENTITY blockedPlugin.label                                 "Цей плагін був блокований задля вашого захисту.">
 
