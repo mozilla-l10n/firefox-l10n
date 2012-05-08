@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label       "en HTML-fil…">
-<!ENTITY importFromHTMLFile.accesskey   "H">
 
 <!ENTITY noMigrationSources.label       "Der blev ikke fundet nogle programmer, der indeholder bogmærker, historik eller adgangskoder.">
 

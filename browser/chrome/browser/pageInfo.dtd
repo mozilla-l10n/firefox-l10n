@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Sætte cookies">
 <!ENTITY  permInstall           "Installere udvidelser eller temaer">
 <!ENTITY  permGeo               "Dele placering">
+<!ENTITY  permPlugins           "Aktivere plugins">
 
 <!ENTITY  permIndexedDB              "Administrer Offline-lager">
 <!ENTITY  permClearStorage           "Ryd lager">
