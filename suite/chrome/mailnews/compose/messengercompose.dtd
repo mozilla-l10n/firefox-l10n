@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "Avbryt den aktuella överföringen">
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "Inga förslag hittades">
-<!ENTITY spellCheckIgnoreWord.label "Ignorera ord">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Lägg till i ordbok">
-<!ENTITY spellCheckAddToDictionary.accesskey "ä">
-
 <!ENTITY openAttachment.label "Öppna">
 <!ENTITY openAttachment.accesskey "Ö">
 <!ENTITY renameAttachment.label "Byt namn…">
