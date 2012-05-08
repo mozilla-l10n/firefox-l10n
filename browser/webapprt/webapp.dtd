@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Fil">
+<!ENTITY fileMenu.accesskey                 "F">
+
+<!ENTITY quitApplicationCmdWin.label        "Afslut">
+<!ENTITY quitApplicationCmdWin.accesskey    "A">
+<!ENTITY quitApplicationCmd.label           "Afslut">
+<!ENTITY quitApplicationCmd.accesskey       "A">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Skjul andre">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Vis alle">
+
+<!ENTITY editMenu.label                     "Rediger">
+<!ENTITY editMenu.accesskey                 "R">
+<!ENTITY undoCmd.label                      "Fortryd">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "r">
+<!ENTITY redoCmd.label                      "Gentag">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "G">
+<!ENTITY cutCmd.label                       "Klip">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "K">
+<!ENTITY copyCmd.label                      "Kopier">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "o">
+<!ENTITY pasteCmd.label                     "Indsæt">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "æ">
+<!ENTITY deleteCmd.label                    "Slet">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "S">
+<!ENTITY selectAllCmd.label                 "Marker alt">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "A">
