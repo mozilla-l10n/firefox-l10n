@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Difini kuketojn">
 <!ENTITY  permInstall           "Instali etendoprogramojn aŭ temojn">
 <!ENTITY  permGeo               "Diskonigi lokon">
+<!ENTITY  permPlugins           "Aktivigi komprogramojn">
 
 <!ENTITY  permIndexedDB              "Konservi memoro por malkonektitaĵoj">
 <!ENTITY  permClearStorage           "Malplenigi memoron">
