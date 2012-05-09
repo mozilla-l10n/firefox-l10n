@@ -68,7 +68,10 @@
 <!ENTITY fullScreenAutohide.accesskey "O">
 <!ENTITY fullScreenExit.label "Salir del modo pantalla completa">
 <!ENTITY fullScreenExit.accesskey "c">
-<!ENTITY domFullScreenWarning.label "Presiona ESC para salir del modo pantalla completa">
+<!ENTITY fullscreenAllowButton.label "Allow">
+<!ENTITY fullscreenExitButton.label "Deny">
+<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
@@ -158,13 +161,6 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
-<!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de herramientas de desarollador">
-<!ENTITY devToolbarMenu.label "Barra de herramientas de desarollador">
-<!ENTITY devToolbarMenu.accesskey "v">
-<!ENTITY devToolbar.commandkey "v">
-<!ENTITY webConsoleButton.label "Consola web">
-<!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
