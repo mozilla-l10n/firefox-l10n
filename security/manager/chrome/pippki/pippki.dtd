@@ -86,9 +86,9 @@
 <!ENTITY chooseToken.title "Diálogo de selección de objeto">
 <!ENTITY chooseToken.message1 "Selecciona un objeto.">
 <!ENTITY escrowWarn.title "Copia de la clave de cifrado">
-<!ENTITY escrowWarn.message1 "Importante: Esta autoridad certificadora ha pedido hacer una copia de respaldo de su clave privada de cifrado.">
-<!ENTITY escrowWarn.benefit1 "El beneficio es que si pierde el acceso a su clave privada de cifrado, podrá pedir una copia desde esta autoridad certificadora.">
-<!ENTITY escrowWarn.message2 "Sin embargo, su clave privada de cifrado será almacenada por la autoridad certificadora, y podría ser utilizada para leer sus documentos o correos cifrados sin su consentimiento.">
+<!ENTITY escrowWarn.message1 "Importante: Esta autoridad certificadora ha pedido hacer una copia de respaldo de tu clave privada de cifrado.">
+<!ENTITY escrowWarn.benefit1 "El beneficio es que si pierdes el acceso a su clave privada de cifrado, podrás pedir una copia desde esta autoridad certificadora.">
+<!ENTITY escrowWarn.message2 "Sin embargo, tu clave privada de cifrado será almacenada por la autoridad certificadora, y podría ser utilizada para leer tus documentos o correos cifrados sin tu consentimiento.">
 <!ENTITY examineCert.label "Ver certificado">
 <!ENTITY examineCert.accesskey "V">
 <!ENTITY serverCrlNextupdate.message "Solicita apoyo del administrador del sistema">
@@ -102,5 +102,5 @@
 <!ENTITY protectedAuth.msg "Identifícate con el token. El método de identificación dependerá de su tipo.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
 <!ENTITY certErrorDlg.title "Falló la conexión segura">
-<!ENTITY certErrorDlg.info1 "Esto puede ser un problema con la configuración del Servidor o, en el peor de los casos, un programa o una persona tratando de suplantar su identidad.">
+<!ENTITY certErrorDlg.info1 "Esto puede ser un problema con la configuración del Servidor o, en el peor de los casos, un programa o una persona tratando de suplantar tu identidad.">
 <!ENTITY certErrorDlg.info2 "Si ha realizado conexiones con éxito a este Servidor, este error pudiera ser temporal, intente conectarse en unos momentos.">
