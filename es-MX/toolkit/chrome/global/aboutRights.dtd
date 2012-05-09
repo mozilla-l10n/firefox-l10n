@@ -20,7 +20,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Servicios de sitios web">
 <!ENTITY rights.intro-point4c-unbranded " sección.">
 <!ENTITY rights2.webservices-header "Servicios de información de &brandFullName; basados en web">
-<!ENTITY rights2.webservices-a "&brandFullName; utiliza los (&quot;Servicios&quot;) de información basados en WEb para proporcionar algunas de las características previstas para su uso con esta versión binaria de &brandShortName; bajo los términos descritos a continuación. Si no desea usar uno o más servicios o los términos que figuran abajo son inaceptables, es posible desactivar la función o servicio. Las instrucciones sobre cómo desactivar una característica particular o de un servicio se pueden encontrar ">
+<!ENTITY rights2.webservices-a "&brandFullName; utiliza los (&quot;Servicios&quot;) de información basados en Web para proporcionar algunas de las características previstas para tu uso con esta versión binaria de &brandShortName; bajo los términos descritos a continuación. Si no deseas usar uno o más servicios o los términos que figuran abajo son inaceptables, es posible desactivar la función o servicio. Las instrucciones sobre cómo desactivar una característica particular o de un servicio se pueden encontrar ">
 <!ENTITY rights2.webservices-b "aquí">
 <!ENTITY rights2.webservices-c ".">
 <!ENTITY rights.safebrowsing-a "Navegación segura: ">

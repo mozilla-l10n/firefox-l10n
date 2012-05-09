@@ -1,8 +1,8 @@
 <!ENTITY resetProfile.dialog.title "Restablecer &brandShortName;">
-<!ENTITY resetProfile.dialog.description "Are you sure you want to reset &brandShortName; to its initial state?">
-<!ENTITY resetProfile.dialog.items.label "The following will be preserved:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; will restart and everything else will be removed.">
+<!ENTITY resetProfile.dialog.description "¿Estás seguro de que quieres reiniciar &brandShortName; a su estado inicial?">
+<!ENTITY resetProfile.dialog.items.label "Se preserverá lo siguiente:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; se reiniciará y todo lo demás será eliminado.">
 <!ENTITY resetProfile.dialog.button.label "Restablecer &brandShortName;">
-<!ENTITY resetProfile.title "Reset &brandShortName; to its default state">
-<!ENTITY resetProfile.description "If you're having major problems which you can't resolve, start fresh with only your essential information.">
+<!ENTITY resetProfile.title "Reiniciar &brandShortName; a su estado predeterminado">
+<!ENTITY resetProfile.description "Si estás teniendo problemas graves que no puedes resolver, inicia otra vez con tu información esencial únicamente.">
 <!ENTITY resetProfile.button.label "Restablecer &brandShortName;">
