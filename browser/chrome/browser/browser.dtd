@@ -158,23 +158,23 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label "Developer Toolbar">
+<!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de herramientas de desarollador">
+<!ENTITY devToolbarMenu.label "Barra de herramientas de desarollador">
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.commandkey "v">
-<!ENTITY webConsoleButton.label "Web Console">
+<!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY scriptsButton.label "Scripts">
-<!ENTITY inspectorHTMLCopyInner.label "Copy Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
-<!ENTITY inspectorHTMLCopyOuter.label "Copy Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "O">
 <!ENTITY inspectorHTMLDelete.label "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "B">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Estilo">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStyleButton.accesskey "E">
 <!ENTITY styleeditor.label "Editor de estilos">
 <!ENTITY styleeditor.accesskey "y">
 <!ENTITY styleeditor.keycode "VK_F7">
@@ -357,7 +357,7 @@
 <!ENTITY videoFullScreen.label "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey "P">
 <!ENTITY videoSaveImage.label "Guardar captura como…">
-<!ENTITY videoSaveImage.accesskey "S">
+<!ENTITY videoSaveImage.accesskey "G">
 <!ENTITY videoShowStats.label "Mostrar estadísticas">
 <!ENTITY videoShowStats.accesskey "t">
 <!ENTITY videoHideStats.label "Ocultar estadísticas">
@@ -445,5 +445,5 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY markupButton.arialabel "Markup">
+<!ENTITY markupButton.arialabel "Marcado">
 <!ENTITY markupButton.accesskey "M">

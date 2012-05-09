@@ -11,7 +11,7 @@
 <!ENTITY permission.block "Bloquear">
 <!ENTITY password.label "Guardar contraseñas">
 <!ENTITY password.manage "Administrar contraseñas…">
-<!ENTITY cookie.label "Establecer Cookies">
+<!ENTITY cookie.label "Establecer cookies">
 <!ENTITY cookie.remove "Eliminar cookies">
 <!ENTITY cookie.manage "Administrar Cookies…">
 <!ENTITY cookie.removeAll "Eliminar todo">

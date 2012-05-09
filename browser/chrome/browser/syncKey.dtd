@@ -4,7 +4,7 @@
 <!ENTITY syncKey.keepItSecret.description "Tu cuenta de &syncBrand.fullName.label; se cifra para proteger tu privacidad. Sin esta clave, se necesitarían años para que cualquiera pueda decodificar tu información personal. Tú eres la única persona que posee esta clave. Esto significa que eres el único que puede acceder a sus datos de &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading "Mantener su seguridad">
 <!ENTITY syncKey.keepItSafe1.description "No pierda esta clave.">
-<!ENTITY syncKey.keepItSafe2.description "No guardamos una copia de su clave (¡que no se mantenga en secreto!) y ">
+<!ENTITY syncKey.keepItSafe2.description " No guardamos una copia de tu clave (¡que no se mantenga en secreto!) y ">
 <!ENTITY syncKey.keepItSafe3.description "no podemos ayudatr ayudarte a recuperar">
 <!ENTITY syncKey.keepItSafe4.description "si se pierde. Tendrás que usar esta clave cada vez que conectes un nuevo dispositivo o equipo para &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label "Para saber más acerca de &syncBrand.fullName.label; y tu privacidad en ">
