@@ -5,17 +5,17 @@
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "Deshacer">
-<!ENTITY undoCmd.accesskey "D">
+<!ENTITY undoCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY deleteCmd.accesskey "e">
 <!ENTITY spellAddToDictionary.label "Agregar al diccionario">
 <!ENTITY spellAddToDictionary.accesskey "o">
-<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.label "Deshacer Agregar al diccionario">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Revisar ortografía">
-<!ENTITY spellCheckEnable.accesskey "s">
+<!ENTITY spellCheckEnable.accesskey "R">
 <!ENTITY spellNoSuggestions.label "(No hay sugerencias de ortografía)">
 <!ENTITY spellDictionaries.label "Idiomas">
-<!ENTITY spellDictionaries.accesskey "I">
+<!ENTITY spellDictionaries.accesskey "i">
