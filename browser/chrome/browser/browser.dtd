@@ -121,7 +121,10 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "D">
 <!ENTITY fullScreenExit.label "Avsluta helskärmsläget">
 <!ENTITY fullScreenExit.accesskey "A">
-<!ENTITY domFullScreenWarning.label "Tryck ESC för att lämna helskärmsläget">
+<!ENTITY fullscreenAllowButton.label "Tillåt">
+<!ENTITY fullscreenExitButton.label "Neka">
+<!ENTITY fullscreenApproval.value "Tillåt helskärm?">
+<!ENTITY fullscreenExitHint.value "Tryck ESC om du vill lämna helskärmsläget">
 
 <!ENTITY closeWindow.label "Stäng fönster">
 <!ENTITY closeWindow.accesskey "t">
