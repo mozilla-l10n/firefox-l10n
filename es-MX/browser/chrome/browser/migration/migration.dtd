@@ -5,15 +5,13 @@
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label "No importar nada">
-<!ENTITY importFromNothing.accesskey "p">
+<!ENTITY importFromNothing.accesskey "N">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
 <!ENTITY importFromChrome.label "Chrome">
 <!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromFirefox.label "Firefox">
 <!ENTITY importFromFirefox.accesskey "X">
-<!ENTITY importFromHTMLFile.label "Desde un archivo con extensión HTML">
-<!ENTITY importFromHTMLFile.accesskey "v">
 <!ENTITY noMigrationSources.label "No se encontraron programas que contengan marcadores, historial o contraseñas.">
 <!ENTITY importSource.title "Importar configuraciones y datos">
 <!ENTITY importItems.title "Elementos a importar">

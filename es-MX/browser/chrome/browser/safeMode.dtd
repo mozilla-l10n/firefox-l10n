@@ -39,7 +39,9 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY safeModeDialog.title "Modo seguro de &brandShortName;">
 <!ENTITY window.width "37em">
-<!ENTITY safeModeDescription.label "&brandShortName; se está ejecutando en modo seguro, por esta razón, tus parámetros personalizados, temas y complementos estarán deshabilitados temporalmente.">
+<!ENTITY autoSafeModeIntro.label "&brandShortName; se cerró de forma inesperada cuando estaba iniciándose">
+<!ENTITY autoSafeModeDescription.label "Sentimos el inconveniente, pero &brandShortName; está funcionando ahora en modo seguro, que desactiva de forma temporal tus preferencias, temas y extensiones.">
+<!ENTITY safeModeDescription.label "&brandShortName; está ejecutándose en modo seguro, por esta razón, tus parámetros personalizados, temas y complementos estarán deshabilitados temporalmente.">
 <!ENTITY safeModeDescription2.label "Puedes hacer permanentes todos o algunos de los siguientes cambios:">
 <!ENTITY disableAddons.label "Desactivar todos los complementos">
 <!ENTITY disableAddons.accesskey "D">
