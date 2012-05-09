@@ -33,8 +33,6 @@
 <!ENTITY joinChatButton.label "Dołącz do czatu">
 <!ENTITY chatAccountsButton.label "Pokaż konta">
 
-<!ENTITY searchAllChatMessages.label.base "Szukaj w rozmowach… #1">
-
 <!ENTITY status.available "Dostępny">
 <!ENTITY status.unavailable "Niedostępny">
 <!ENTITY status.offline "Poza siecią">
