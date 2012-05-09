@@ -11,10 +11,11 @@
 <!ENTITY permission.block "Bloquear">
 <!ENTITY password.label "Guardar contraseñas">
 <!ENTITY password.manage "Administrar contraseñas…">
-<!ENTITY cookie.label "Establecer Cookies">
+<!ENTITY cookie.label "Establecer cookies">
 <!ENTITY cookie.remove "Eliminar cookies">
 <!ENTITY cookie.manage "Administrar Cookies…">
 <!ENTITY cookie.removeAll "Eliminar todo">
 <!ENTITY geo.label "Compartir">
+<!ENTITY plugins.label "Plugins">
 <!ENTITY indexedDB.label "Mantener el almacenamiento fuera de línea">
 <!ENTITY popup.label "Abrir ventanas emergentes">
