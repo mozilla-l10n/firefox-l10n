@@ -1,12 +1,12 @@
 <!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
-<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
+<!ENTITY setup.pickSetupType.description2 "¡Bienvenido! Si nunca antes has usado &syncBrand.fullName.label;, necesitas crear una cuenta nueva.">
 <!ENTITY button.createNewAccount.label "Crear una cuenta nueva">
 <!ENTITY button.haveAccount.label "Ya tengo una cuenta">
 <!ENTITY setup.choicePage.title.label "¿Has utilizado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label "Nunca antes he usado &syncBrand.shortName.label; ">
 <!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otra computadora">
 <!ENTITY server.label "Servidor">
-<!ENTITY serverType.main.label "&syncBrand.fullName.label; Servidor">
+<!ENTITY serverType.main.label "Servidor de &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label "Usar un servidor personalizado…">
 <!ENTITY signIn.account2.label "Cuenta">
 <!ENTITY signIn.account2.accesskey "A">
@@ -51,7 +51,7 @@
 <!ENTITY addDevice.dialog.connected.label "Dispositivo conectado">
 <!ENTITY setup.signInPage.title.label "Iniciar sesión">
 <!ENTITY existingRecoveryKey.description 'Puedes obtener una copia de tu clave de recuperación dirigiendote a Opciones de &syncBrand.shortName.label; en tu otro dispositivo, y seleccionando "Mi clave de recuperación" dentro de "Manejar cuenta".'>
-<!ENTITY verifying.label "Verifying…">
+<!ENTITY verifying.label "Verificando…">
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY resetSyncKey.label "He perdido mi otro dispositivo.">
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
@@ -61,7 +61,7 @@
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">
-<!ENTITY engine.tabs.accesskey "T">
+<!ENTITY engine.tabs.accesskey "P">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.passwords.label "Contraseñas">
@@ -69,7 +69,7 @@
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
-<!ENTITY engine.addons.accesskey "A">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY choice2.merge.main.label "Combinar los datos de este equipo con mis datos de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
 <!ENTITY choice2.client.main.label "Reemplazar todos los datos en este equipo con mis datos de &syncBrand.shortName.label;">
