@@ -20,10 +20,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY cmd.findInBookmarks.label "Trova nei segnalibri:">
-<!ENTITY cmd.findInBookmarks.accesskey "T">
-<!ENTITY cmd.findCurrent.label "Cerca nella collezione corrente…">
-<!ENTITY cmd.findCurrent.accesskey "e">
 <!ENTITY importBookmarksFromHTML.label "Importa segnalibri da HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label "Esporta segnalibri in HTML…">
