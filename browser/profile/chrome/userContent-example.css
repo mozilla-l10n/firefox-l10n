@@ -1,35 +1,35 @@
 /*
- * Edit this file and copy it as userContent.css into your
+ * Edita este fichero y copialo como userContent.css dentro de tu
  * profile-directory/chrome/
  */
 
 /*
- * This file can be used to apply a style to all web pages you view
- * Rules without !important are overruled by author rules if the
- * author sets any.  Rules with !important overrule author rules.
+ * Este archivo puede ser usado para aplicar estilo a todas las páginas web que veas
+ * Las reglas sin !important son sobreescritas por las reglas del autor
+ * si el autor las declara. Las reglas con !important serán sobreescritas con las reglas del autor.
  */
 
 /*
- * example: turn off "blink" element blinking
+ * ejemplo: turn off "blink" element blinking
  *
  * blink { text-decoration: none ! important; }
  *
  */
 
 /*
- * example: give all tables a 2px border
+ * ejemplo:  darle un borde de 2px a todas las tablas
  *
  * table { border: 2px solid; }
  */
 
 /*
- * example: turn off "marquee" element
+ * ejemplo:  turn off "marquee" element
  *
  * marquee { -moz-binding: none; }
  *
  */
  
 /* 
- * For more examples see http://www.mozilla.org/unix/customizing.html
+ * Puedes ver más ejemplos(en) en: http://www.mozilla.org/unix/customizing.html
  */
 

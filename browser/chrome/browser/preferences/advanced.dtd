@@ -29,7 +29,7 @@
 <!ENTITY connectionDesc.label "Configurar cómo se conecta &brandShortName; a internet">
 <!ENTITY connectionSettings.label "Configurar…">
 <!ENTITY connectionSettings.accesskey "C">
-<!ENTITY httpCache.label "Cached Web Content">
+<!ENTITY httpCache.label "Contenido web cacheado">
 <!ENTITY offlineStorage2.label "Contenido web sin conexión y datos de usuario">
 <!ENTITY limitCacheSizeBefore.label "Caché limitado a">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
@@ -37,7 +37,7 @@
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
 <!ENTITY clearOfflineAppCacheNow.label "Limpiar ahora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.accesskey "L">
 <!ENTITY overrideSmartCacheSize.label "Anulación de administración de caché automático">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY updateTab.label "Actualizar">

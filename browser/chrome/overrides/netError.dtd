@@ -140,7 +140,7 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Salir de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 <!ENTITY securityOverride.warningContent "
-<p>No debes agregar una excepción si estás usando una conexión a Internet en la que usted no confía completamente o si no están acostumbrados a ver una advertencia para este servidor.</p>
+<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>

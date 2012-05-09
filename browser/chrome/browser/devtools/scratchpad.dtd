@@ -38,7 +38,7 @@
 <!ENTITY findCmd.label "Buscar…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "Buscar nuevamente…">
+<!ENTITY findAgainCmd.label "Buscar de nuevo…">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findPreviousCmd.key "G">

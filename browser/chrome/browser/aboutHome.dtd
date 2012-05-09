@@ -1,5 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!ENTITY abouthome.pageTitle "Página de inicio de &brandFullName;">
 <!ENTITY abouthome.searchEngineButton.label "Buscar">
 <!ENTITY abouthome.aboutMozilla "Acerca de Mozilla">
