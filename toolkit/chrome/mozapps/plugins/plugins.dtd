@@ -17,7 +17,7 @@
 <!ENTITY tapToPlayPlugin "Pulsa aquí para activar el plugin.">
 <!ENTITY clickToPlayPlugins "Clic aquí para activar los plugins.">
 <!ENTITY disabledPlugin "Este plugin está desactivado.">
-<!ENTITY blockedPlugin.label "Este plugin se bloqueó para su protección.">
+<!ENTITY blockedPlugin.label "Este plugin se bloqueó para tu protección.">
 <!ENTITY installPlugin "Instalar plugin…">
 <!ENTITY managePlugins "Administrar plugins…">
 <!ENTITY reloadPlugin.pre "">
