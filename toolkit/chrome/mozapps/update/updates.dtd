@@ -1,16 +1,16 @@
 <!ENTITY  updateWizard.title              "Programma-fernijing">
 
-<!ENTITY  checking.title                  "Kontrolearje op fernijings">
-<!ENTITY  updateCheck.label               "Kontrolearret no op fernijings fan &brandShortName;...">
+<!ENTITY  checking.title                  "Kontrolearje op fernijingen">
+<!ENTITY  updateCheck.label               "Kontrolearret no op fernijingen fan &brandShortName;...">
 
-<!ENTITY  pluginupdatesfound.title        "Fernijings fûn foar ynstekkers">
+<!ENTITY  pluginupdatesfound.title        "Fernijingen fûn foar ynstekkers">
 <!ENTITY  pluginupdatesfound.label        "Der binne nijere ferzjes fûn foar ien of mear fan jo ynstekkers.">
 <!ENTITY  pluginupdateslink.label         "Sjoch hoe't jo jo ynstekkers fernije kinne.">
 
-<!ENTITY  noupdatesfound.title            "Gjin fernijings fûn">
-<!ENTITY  noupdatesautoenabled.intro      "Der binne gjin fernijings beskikber. &brandShortName; sil
-                                           periodiek kontrolearje op fernijings.">
-<!ENTITY  noupdatesautodisabled.intro     "Der binne gjin fernijings beskikber. Kontrolearje it letter op 'e nij of skeakel
+<!ENTITY  noupdatesfound.title            "Gjin fernijingen fûn">
+<!ENTITY  noupdatesautoenabled.intro      "Der binne gjin fernijingen beskikber. &brandShortName; sil
+                                           periodiek kontrolearje op fernijingen.">
+<!ENTITY  noupdatesautodisabled.intro     "Der binne gjin fernijingen beskikber. Kontrolearje it letter op 'e nij of skeakel
                                            &brandShortName; syn automatyske fernijingskontrole yn.">
 
 <!ENTITY  manualUpdate.title              "Net yn steat om te fernijen">
@@ -22,8 +22,8 @@
                                            hawwe net genôch skiifromte om it te ynstallearjen.">
 <!ENTITY  manualUpdateGetMsg.label        "Jo kinne altyd de lêste ferzje fan &brandShortName; krije fanôf:">
 
-<!ENTITY  incompatibleCheck.title         "Kontrolearret tafoegings kompatibiliteit">
-<!ENTITY  incompatibleCheck.label         "Siket nei fernijings fan jo tafoegings">
+<!ENTITY  incompatibleCheck.title         "Kontrolearret tafoegingen kompatibiliteit">
+<!ENTITY  incompatibleCheck.label         "Siket nei fernijingen fan jo tafoegingen">
 
 <!ENTITY  clickHere.label                 "Besjoch mear ynformaasje oer dizze fernijing">
 
@@ -41,7 +41,7 @@
 <!ENTITY  license.decline                 "Ik akseptearje de betingsten fan de lisinsje-oerienkomst NET">
 <!ENTITY  license.decline.accesskey       "N">
 
-<!ENTITY  incompatibleList.title          "Ynkompatibele tafoegings fûn">
+<!ENTITY  incompatibleList.title          "Ynkompatibele tafoegingen fûn">
 
 <!ENTITY  downloadPage.title              "&brandShortName; wurdt ynladen">
 <!ENTITY  downloading.intro               "Fernijing ynlade...">
