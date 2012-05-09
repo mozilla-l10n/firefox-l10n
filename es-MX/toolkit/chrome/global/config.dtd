@@ -20,7 +20,7 @@
    -
    - Contributor(s):
    -   Mozilla México - Roberto Alvarado
-   -   Mozilla México - Roberto Alvarado
+   -   Mauricio Navarro - mautematico@mozilla-mexico.org
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -41,7 +41,7 @@
 <!ENTITY aboutWarningButton.label "Ingresar">
 <!ENTITY aboutWarningCheckbox.label "Mostrar siempre esta advertencia.">
 <!ENTITY searchPrefs.label "Buscar:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.accesskey "B">
 <!ENTITY focusSearch.key "r">
 <!ENTITY prefColumn.label "Nombre">
 <!ENTITY lockColumn.label "Estado">

@@ -4,10 +4,10 @@ Esta página presenta información técnica que puede ser de ayuda si necesitas 
 ">
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nombre">
-<!ENTITY aboutSupport.extensionEnabled "Activado">
+<!ENTITY aboutSupport.extensionEnabled "Activada">
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Configuración básica de la aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">

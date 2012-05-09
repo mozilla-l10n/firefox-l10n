@@ -18,10 +18,10 @@
 <!ENTITY stats.framesDecoded "Cuadros decodificados">
 <!ENTITY stats.framesPresented "Cuadros mostrados">
 <!ENTITY stats.framesPainted "Cuadros mostrados">
-<!ENTITY error.aborted "Video loading stopped.">
-<!ENTITY error.network "Video playback aborted due to a network error.">
-<!ENTITY error.decode "Video can't be played because the file is corrupt.">
-<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
-<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
-<!ENTITY error.generic "Video playback aborted due to an unknown error.">
+<!ENTITY error.aborted "Se detuvo la carga del video.">
+<!ENTITY error.network "Reproducción de video interrumpida por un error de red.">
+<!ENTITY error.decode "No puede reproducirse el video porque el archivo está corrupto.">
+<!ENTITY error.srcNotSupported "El formato o tipo MIME del video no se admite.">
+<!ENTITY error.noSource2 "No se ha encontrado ningún video que tenga un formato y tipo MIME compatibles.">
+<!ENTITY error.generic "La reproducción del video se detuvo por un error desconocido.">
 <!ENTITY scrubberScale.nameFormat "#1 de #2 transcurrido">
