@@ -1,5 +1,6 @@
 <!ENTITY debuggerMenu.label "Debugger script">
 <!ENTITY remoteDebuggerMenu.label "Debug remoto">
+<!ENTITY chromeDebuggerMenu.label "Debug browser">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton "Chiudi">
 <!ENTITY debuggerUI.stepOverButton "Ignora">
