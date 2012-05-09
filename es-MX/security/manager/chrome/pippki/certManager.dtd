@@ -21,7 +21,7 @@
    - Contributor(s):
    -   Ian McGreer <mcgreer@netscape.com>
    -   Mozilla México - Roberto Alvarado
-   -   Mozilla México - Roberto Alvarado
+   -   Mozilla México - Mauricio Navarro <mautematico@mozilla-mexico.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,7 +44,7 @@
 <!ENTITY certmgr.tab.orphan2 "Otros">
 <!ENTITY certmgr.ca.builtins "CAs integradas">
 <!ENTITY certmgr.ca.mycas "CAs gestionadas por ti">
-<!ENTITY certmgr.mine "Tiene certificados de estas organizaciones que le identifican a usted:">
+<!ENTITY certmgr.mine "Tienes certificados de estas organizaciones que te identifican:">
 <!ENTITY certmgr.others "Tiene certificados archivados que identifican a estas personas:">
 <!ENTITY certmgr.websites2 "Tiene certificados en el archivo que identifican estos servidores:">
 <!ENTITY certmgr.cas "Tiene certificados archivados que identifican a estas autoridades certificadoras:">
@@ -82,7 +82,7 @@
 <!ENTITY certmgr.deletecert.title "Eliminar certificado">
 <!ENTITY certmgr.deletecert.beforename "Ha pedido que se elimine este certificado:">
 <!ENTITY certmgr.deletecert.aftername "¿Realmente quieres eliminar este certificado?">
-<!ENTITY certmgr.deleteusercert.title "Eliminar su certificado">
+<!ENTITY certmgr.deleteusercert.title "Eliminar tu certificado">
 <!ENTITY certmgr.deleteusercert.beforename "Ha pedido la eliminación de este certificado:">
 <!ENTITY certmgr.deleteusercert.aftername "Una vez haya eliminado este certificado, no podrá leer el correo que haya sido cifrado con él.">
 <!ENTITY certmgr.certname "Nombre del certificado">

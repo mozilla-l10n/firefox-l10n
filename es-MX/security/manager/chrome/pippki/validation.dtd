@@ -21,7 +21,7 @@
    - Contributor(s):
    -   David P. Drinan (ddrinan@netscape.com)
    -   Mozilla México - Roberto Alvarado
-   -   Mozilla México - Roberto Alvarado
+   -   Mozilla México - Mauricio Navarro <mautematico@mozilla-mexico.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,7 +37,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY validation.crlmanager.label "Administrar CRLs">
-<!ENTITY validation.crlmanager.description "Estas listas de revocación de certificados (CRL) se guardan en su base de datos de certificados:">
+<!ENTITY validation.crlmanager.description "Estas listas de revocación de certificados (CRL) se guardan en tu base de datos de certificados:">
 <!ENTITY validation.crlname.label "Nombre">
 <!ENTITY validation.crllastupdate.label "Última actualización">
 <!ENTITY validation.crlnextupdate.label "Próxima actualización">
