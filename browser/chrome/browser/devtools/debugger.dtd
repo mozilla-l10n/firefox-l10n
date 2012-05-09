@@ -1,5 +1,6 @@
 <!ENTITY debuggerMenu.label "Depurador de scripts">
 <!ENTITY remoteDebuggerMenu.label "Depurador remoto">
+<!ENTITY chromeDebuggerMenu.label "Browser Debugger">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton "Cerrar">
 <!ENTITY debuggerUI.stepOverButton "Saltar">

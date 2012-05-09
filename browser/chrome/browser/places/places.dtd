@@ -20,10 +20,6 @@
 <!ENTITY view.sortAscending.accesskey "a">
 <!ENTITY view.sortDescending.label "Ordenar Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY cmd.findInBookmarks.label "Encontrar en marcadores…">
-<!ENTITY cmd.findInBookmarks.accesskey "m">
-<!ENTITY cmd.findCurrent.label "Buscar en la colección actual…">
-<!ENTITY cmd.findCurrent.accesskey "u">
 <!ENTITY importBookmarksFromHTML.label "Importar Marcadores de HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label "Exportar Marcadores a HTML…">
