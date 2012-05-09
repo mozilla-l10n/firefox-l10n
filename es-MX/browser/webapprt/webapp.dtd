@@ -1,34 +1,34 @@
-<!ENTITY fileMenu.label "File">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY quitApplicationCmdWin.label "Exit">
-<!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label "Quit">
+<!ENTITY fileMenu.label "Archivo">
+<!ENTITY fileMenu.accesskey "A">
+<!ENTITY quitApplicationCmdWin.label "Salir">
+<!ENTITY quitApplicationCmdWin.accesskey "C">
+<!ENTITY quitApplicationCmd.label "Quitar">
 <!ENTITY quitApplicationCmd.accesskey "Q">
 <!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY hideThisAppCmdMac.key "H">
-<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label "Ocultar otros">
 <!ENTITY hideOtherAppsCmdMac.key "H">
-<!ENTITY showAllAppsCmdMac.label "Show All">
-<!ENTITY editMenu.label "Edit">
+<!ENTITY showAllAppsCmdMac.label "Mostrar todo">
+<!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Undo">
-<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.label "Deshacer">
+<!ENTITY undoCmd.key "h">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Redo">
-<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.label "Rehacer">
+<!ENTITY redoCmd.key "h">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Paste">
+<!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Delete">
+<!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY deleteCmd.accesskey "m">
+<!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">

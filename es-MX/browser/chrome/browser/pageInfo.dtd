@@ -53,11 +53,11 @@
 <!ENTITY permImage "Cargar imágenes">
 <!ENTITY permPopup "Abrir ventanas emergentes">
 <!ENTITY permCookie "Establecer cookies">
-<!ENTITY permInstall "Instalar complementos o temas">
-<!ENTITY permGeo "Compartir">
-<!ENTITY permPlugins "Activate Plugins">
-<!ENTITY permIndexedDB "Mantener el almacenamiento fuera de línea">
-<!ENTITY permClearStorage "Borrar almacenamiento">
+<!ENTITY permInstall "Instalar extensioens o temas">
+<!ENTITY permGeo "Compartir ubicación">
+<!ENTITY permPlugins "Activar plugins">
+<!ENTITY permIndexedDB "Mantener almacenamiento en modo sin conexión">
+<!ENTITY permClearStorage "Limpiar almacenamiento">
 <!ENTITY permClearStorage.accesskey "C">
 <!ENTITY securityTab "Seguridad">
 <!ENTITY securityTab.accesskey "S">

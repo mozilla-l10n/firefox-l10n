@@ -2,8 +2,8 @@
 <!ENTITY downloads.title "Descargas">
 <!ENTITY cmd.pause.label "Pausar">
 <!ENTITY cmd.pause.accesskey "P">
-<!ENTITY cmd.resume.label "Continuar">
-<!ENTITY cmd.resume.accesskey "C">
+<!ENTITY cmd.resume.label "Reanudar">
+<!ENTITY cmd.resume.accesskey "R">
 <!ENTITY cmd.cancel.label "Cancelar">
 <!ENTITY cmd.cancel.accesskey "C">
 <!ENTITY cmd.show.label "Abrir carpeta contenedora">
@@ -20,4 +20,4 @@
 <!ENTITY cmd.clearList.label "Limpiar lista">
 <!ENTITY cmd.clearList.accesskey "a">
 <!ENTITY downloadshistory.label "Mostrar todas las descargas">
-<!ENTITY downloadshistory.accesskey "T">
+<!ENTITY downloadshistory.accesskey "M">

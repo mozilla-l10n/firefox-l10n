@@ -1,11 +1,11 @@
 <!ENTITY debuggerMenu.label "Depurador de scripts">
-<!ENTITY remoteDebuggerMenu.label "Remote Debugger">
+<!ENTITY remoteDebuggerMenu.label "Depurador remoto">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton "Cerrar">
-<!ENTITY debuggerUI.stepOverButton "Step Over">
-<!ENTITY debuggerUI.stepInButton "Step In">
-<!ENTITY debuggerUI.stepOutButton "Step Out">
+<!ENTITY debuggerUI.stepOverButton "Saltar">
+<!ENTITY debuggerUI.stepInButton "Entrar">
+<!ENTITY debuggerUI.stepOutButton "Salir">
 <!ENTITY debuggerUI.stackTitle "Pila de llamadas">
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ámbito de las variables">
-<!ENTITY debuggerUI.emptyFilterText "Filter scripts">
+<!ENTITY debuggerUI.emptyFilterText "Filtrar scripts">
