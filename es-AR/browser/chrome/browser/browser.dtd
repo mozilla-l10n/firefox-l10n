@@ -90,7 +90,10 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Salir de pantalla completa">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY domFullScreenWarning.label "Pulse ESC para salir de pantalla completa">
+<!ENTITY fullscreenAllowButton.label "Permitir">
+<!ENTITY fullscreenExitButton.label "Denegar">
+<!ENTITY fullscreenApproval.value "¿Permitir pantalla completa?">
+<!ENTITY fullscreenExitHint.value "Pulse ESC en cualquier momento para salir de pantalla completa">
 
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "C">
