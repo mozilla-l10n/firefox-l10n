@@ -24,9 +24,9 @@
 <!ENTITY showCookies.label "Mostrar cookies…">
 <!ENTITY showCookies.accesskey "M">
 <!ENTITY historyHeader.pre.label "&brandShortName; podrá:">
-<!ENTITY historyHeader.pre.accesskey "h">
-<!ENTITY historyHeader.remember.label "Recordará el historial">
-<!ENTITY historyHeader.dontremember.label "Nunca lo recordará">
+<!ENTITY historyHeader.pre.accesskey "p">
+<!ENTITY historyHeader.remember.label "Recordar el historial">
+<!ENTITY historyHeader.dontremember.label "No recordar el historial">
 <!ENTITY historyHeader.custom.label "Usar una configuración personalizada para el historial">
 <!ENTITY historyHeader.post.label "">
 <!ENTITY rememberDescription.label "&brandShortName; recordará tu historial de navegación, descargas, datos ingresados en formularios, búsquedas y mantendrá las cookies de los sitios web visitados.">
@@ -41,10 +41,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent2.label "Siempre usar modo de navegación privada">
 <!ENTITY privateBrowsingPermanent2.accesskey "p">
-<!ENTITY rememberHistory.label "Recordar mi historial de navegación">
-<!ENTITY rememberHistory.accesskey "n">
-<!ENTITY rememberDownload.label "Recordar el historial de descargas">
-<!ENTITY rememberDownload.accesskey "d">
+<!ENTITY rememberHistory2.label "Recordar mi historial de navegación y decargas">
+<!ENTITY rememberHistory2.accesskey "b">
 <!ENTITY rememberSearchForm.label "Recordar el historial de búsquedas y formularios">
 <!ENTITY rememberSearchForm.accesskey "f">
 <!ENTITY clearOnClose.label "Borrar el historial al cerrar &brandShortName;">
