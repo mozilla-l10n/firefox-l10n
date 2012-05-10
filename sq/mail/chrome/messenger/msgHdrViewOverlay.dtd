@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Përgjigjiuni dërguesit dhe tërë marrësve">
 <!ENTITY hdrReplyListButton1.label "Përgjigju te Lista">
 <!ENTITY hdrReplyListButton1.tooltip "Përgjigjuni te lista e postimeve">
+<!ENTITY hdrFollowupButton1.label "Vazhdim">
+<!ENTITY hdrFollowupButton1.tooltip "Postoni një vazhdim te ky grup lajmesh">
 <!ENTITY hdrForwardButton1.label "Përcille">
 <!ENTITY hdrForwardButton1.tooltip "Përcilleni këtë mesazh">
 <!ENTITY hdrJunkButton1.label "I pavlerë">

@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Regjistër Poste Hedhurinë">
-<!ENTITY junkLogInfo.label "Regjistrim kontrolli veprimtarie poste hedhurinë.">
+<!ENTITY adaptiveJunkLog.title "Regjistër Poste Hedhurinë">
+<!ENTITY adaptiveJunkLogInfo.label "Regjistrim kontrolli veprimtarie poste hedhurinë.">
 <!ENTITY clearLog.label "Pastroje Regjistrin">
 <!ENTITY clearLog.accesskey "P">
 <!ENTITY closeLog.label "Mbylle">

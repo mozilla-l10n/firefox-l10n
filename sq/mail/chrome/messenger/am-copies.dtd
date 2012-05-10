@@ -25,7 +25,7 @@
 <!ENTITY templateInOtherFolder.label "Tjetër:">
 <!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY keepTemplates.label "Gjedhet për mesazhe mbaji në:">
-<!ENTITY fccReplyFollowsParent.label "Vendose përgjigjen te dosja e mesazhit të cilit po i përgjigjem">
+<!ENTITY fccReplyFollowsParent.label "Vendose përgjigjjen te dosja e mesazhit të cilit po i përgjigjem">
 <!ENTITY fccReplyFollowsParent.accesskey "V">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc këto adresa email:">
