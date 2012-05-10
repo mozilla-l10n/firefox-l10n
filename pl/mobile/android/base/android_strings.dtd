@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "&brandShortName; — Przygotowywanie\u2026">
+<!ENTITY  splash_settingup "Przygotowywanie programu &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Trwa synchronizacja twoich zakładek i historii przeglądania. Może to potrwać około minuty.">
 
 <!ENTITY  no_space_to_start_error "Na dysku jest za mało wolnego miejsca aby uruchomić program &brandShortName;">
 <!ENTITY  error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
@@ -27,9 +28,13 @@
 
 <!ENTITY awesomebar_default_text "Wpisz zapytanie lub adres">
 
+<!ENTITY remote_tabs "Karty z innych urządzeń">
+<!ENTITY remote_tabs_show_all "Pokaż wszystkie karty">
+
 <!ENTITY bookmark "Dodaj zakładkę">
 <!ENTITY bookmark_added "Zakładka dodana">
 <!ENTITY bookmark_removed "Zakładka usunięta">
+<!ENTITY bookmark_updated "Zakładka uaktualniona">
 
 <!ENTITY history_today_section "Dziś">
 <!ENTITY history_yesterday_section "Wczoraj">
@@ -84,8 +89,14 @@
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
 <!ENTITY contextmenu_remove_bookmark "Usuń zakładkę">
-<!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu domowego">
+<!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu głównego">
 <!ENTITY contextmenu_share "Udostępnij">
+<!ENTITY contextmenu_edit_bookmark "Zmień">
+
+<!ENTITY bookmark_edit_title "Zmień zakładkę">
+<!ENTITY bookmark_edit_name "Nazwa">
+<!ENTITY bookmark_edit_location "Adres URL">
+<!ENTITY bookmark_edit_keyword "Słowa kluczowe">
 
 <!ENTITY site_settings_title        "Wyczyść ustawienia witryny">
 <!ENTITY site_settings_cancel       "Anuluj">
@@ -109,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Nie masz jeszcze najczęściej odwiedzanych stron. Dotknij paska adresu, aby zacząć przeglądać Sieć.">
 <!ENTITY abouthome_about_sync "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Wybierz plik">
+<!ENTITY filepicker_audio_title "Wybierz istniejący lub nagraj nowy dźwięk">
+<!ENTITY filepicker_image_title "Wybierz istniejące lub zrób nowe zdjęcie">
+<!ENTITY filepicker_video_title "Wybierz istniejące lub nagraj nowe wideo">
