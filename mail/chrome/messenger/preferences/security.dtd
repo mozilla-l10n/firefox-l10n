@@ -54,6 +54,9 @@
 <!ENTITY askEachTime.label              "perguntar-me sempre">
 <!ENTITY cookieExceptions.label         "Exceções…">
 <!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Mostrar Cookies…">
+<!ENTITY showCookies.label              "Mostrar cookies…">
 <!ENTITY showCookies.accesskey          "s">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Dizer aos sítios web que não quero ser seguido">
+<!ENTITY doNotTrack.accesskey           "d">
