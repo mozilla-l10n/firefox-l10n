@@ -99,6 +99,7 @@
 <!ENTITY  permInstall           "Instalar extensiones o temas">
 <!ENTITY  permGeo               "Compartir ubicación">
 <!ENTITY  permPlugins           "Activar plugins">
+<!ENTITY  permFullscreen        "Pasar a pantalla completa">
 
 <!ENTITY  permIndexedDB              "Mantener almacenamiento sin conexión">
 <!ENTITY  permClearStorage           "Limpiar almacenamiento">
