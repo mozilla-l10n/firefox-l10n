@@ -2,8 +2,8 @@
 <!ENTITY typeColumn.accesskey "о">
 <!ENTITY actionColumn2.label "Действие">
 <!ENTITY actionColumn2.accesskey "е">
-<!ENTITY focusSearch1.key "">
-<!ENTITY focusSearch2.key "">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
 <!ENTITY filter.placeholder "Поиск">
 <!ENTITY saveTo.label "Путь для сохранения файлов">
 <!ENTITY saveTo.accesskey "х">
