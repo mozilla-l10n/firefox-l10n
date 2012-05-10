@@ -1,5 +1,5 @@
 <!ENTITY accountsWindow.title "Статус мгновенных сообщений">
-<!ENTITY accountsWindow.style "width: 28em; height: 19em;">
+<!ENTITY accountsWindow2.style "width: 41em; height: 27em;">
 <!ENTITY accountManager.newAccount.label "Создать учетную запись">
 <!ENTITY accountManager.newAccount.accesskey "з">
 <!ENTITY accountManager.close.label "Закрыть">
