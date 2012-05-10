@@ -99,6 +99,7 @@
 <!ENTITY  permInstall           "Installer des extensions ou des thèmes">
 <!ENTITY  permGeo               "Partager la localisation">
 <!ENTITY  permPlugins           "Activer les plugins">
+<!ENTITY  permFullscreen        "Passer en mode plein écran">
 
 <!ENTITY  permIndexedDB              "Conserver des données hors connexion">
 <!ENTITY  permClearStorage           "Supprimer les données">
