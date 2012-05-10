@@ -19,3 +19,4 @@
 <!ENTITY plugins.label "Плагины">
 <!ENTITY indexedDB.label "Управлять автономным хранилищем">
 <!ENTITY popup.label "Открывать всплывающие окна">
+<!ENTITY fullscreen.label "Полноэкранный режим">

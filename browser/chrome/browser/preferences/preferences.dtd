@@ -11,3 +11,5 @@
 <!ENTITY paneSecurity.title "Защита">
 <!ENTITY paneAdvanced.title "Дополнительные">
 <!ENTITY paneSync.title "Синхронизация">
+<!ENTITY buttonForward.tooltip "На следующую страницу">
+<!ENTITY buttonBack.tooltip "На предыдущую страницу">

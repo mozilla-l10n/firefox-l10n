@@ -27,7 +27,6 @@
 <!ENTITY addBuddyButton.label "Добавить собеседника">
 <!ENTITY joinChatButton.label "Присоединиться к чату">
 <!ENTITY chatAccountsButton.label "Показать учётные записи">
-<!ENTITY searchAllChatMessages.label.base "Поиск во всех разговорах… #1">
 <!ENTITY status.available "Доступен">
 <!ENTITY status.unavailable "Занят">
 <!ENTITY status.offline "Отключён">
