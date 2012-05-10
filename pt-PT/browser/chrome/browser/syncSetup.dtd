@@ -56,18 +56,18 @@
 <!ENTITY pairDevice.title.label             "Emparelhar um dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Mostrar-me como.">
 <!ENTITY addDevice.dontHaveDevice.label     "Não tenho o dispositivo comigo">
-<!ENTITY pairDevice.setup.description.label "Para activar, seleccione &#x0022;Emparelhar um dispositivo&#x0022; no seu outro dispositivo.">
+<!ENTITY pairDevice.setup.description.label "Para ativar, selecione &#x0022;Emparelhar um dispositivo&#x0022; no seu outro dispositivo.">
 <!ENTITY addDevice.setup.enterCode.label    "Então, escreva este código:">
-<!ENTITY pairDevice.dialog.description.label "Para activar o seu novo dispositivo, seleccione &#x0022;Configurar Sync&#x0022; no dispositivo">
+<!ENTITY pairDevice.dialog.description.label "Para ativar o seu novo dispositivo, selecione &#x0022;Configurar Sync&#x0022; no dispositivo">
 <!ENTITY addDevice.dialog.enterCode.label   "Escreva o código que o dispositivo forneceu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Por favor, tente de novo.">
 <!ENTITY addDevice.dialog.successful.label  "O dispositivo foi adicionado com sucesso. A sincronização inicial pode demorar alguns minutos e irá terminar em segundo plano.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Para activar o seu dispositivo tem de introduzir a sua chave de recuperação. Por favor, imprima ou guarde esta chave e leve-a consigo.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Para ativar o seu dispositivo tem de introduzir a sua chave de recuperação. Por favor, imprima ou guarde esta chave e leve-a consigo.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo ligado">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Iniciar sessão">
-<!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave de recuperação indo às opções do &syncBrand.shortName.label; do seu outro dispositivo, e seleccionar  &#x0022;A minha chave de recuperação&#x0022; em &#x0022;Gerir conta&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave de recuperação indo às opções do &syncBrand.shortName.label; do seu outro dispositivo, e selecionar  &#x0022;A minha chave de recuperação&#x0022; em &#x0022;Gerir conta&#x0022;.">
 <!ENTITY verifying.label              "A verificar…">
 <!ENTITY resetPassword.label          "Reiniciar a minha senha">
 <!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo.">
@@ -105,5 +105,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Configuração terminada">
-<!ENTITY changeOptions.label "Pode alterar esta preferência seleccionando opções do Sync em baixo.">
+<!ENTITY changeOptions.label "Pode alterar esta preferência selecionando opções do Sync em baixo.">
 <!ENTITY continueUsing.label "Pode agora continuar a usar o &brandShortName;.">
