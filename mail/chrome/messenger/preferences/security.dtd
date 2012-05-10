@@ -13,8 +13,9 @@
 <!ENTITY manualMarkModeDelete.accesskey "F">
 <!ENTITY markAsReadOnSpam.label "Mesazhet, për të cilat është përcaktuar se janë Të pavlera, shënoji si të lexuar">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Aktivizo regjistrim nga filtrat për të pavlerat">
-<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY enableAdaptiveJunkLogging.label "Aktivizo regjistrim nga filtrat për të pavlerat">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
+
 <!ENTITY openJunkLog.label "Shfaq regjistrimin">
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Rirregulloni të Dhëna Stërvitjeje">

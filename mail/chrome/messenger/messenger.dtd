@@ -359,13 +359,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Anuloje Mesazhin">
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
-<!ENTITY replyMsgCmd.label "Përgjigju">
+<!ENTITY replyMsgCmd.label "Përgjigjuni">
 <!ENTITY replyMsgCmd.accesskey "P">
 <!ENTITY replyMsgCmd.key  "r">
-<!ENTITY replySenderCmd.label "Përgjigjiu Vetëm Dërguesit">
+<!ENTITY replySenderCmd.label "Përgjigjiuni Vetëm Dërguesit">
 <!ENTITY replySenderCmd.accesskey "D">
-<!ENTITY replyNewsgroupCmd.label "Përgjigju te Grupi i Lajmeve">
-<!ENTITY replyNewsgroupCmd.accesskey  "G">
+<!ENTITY replyNewsgroupCmd2.label "Përgjigjuni te Grupi i Lajmeve">
+<!ENTITY replyNewsgroupCmd2.accesskey  "G">
 <!ENTITY replyToAllMsgCmd.label "Përgjigjiu të Tërëve">
 <!ENTITY replyToAllMsgCmd.accesskey  "T">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -505,6 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
 <!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Rregullime Llogarish…">
 <!ENTITY accountManagerCmd.accesskey "u">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -696,8 +697,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Përgjigjiu Vetëm Dërguesit">
 <!ENTITY contextReplySender.accesskey "G">
-<!ENTITY contextReplyNewsgroup.label "Përgjigju te Grupi i Lajmeve">
-<!ENTITY contextReplyNewsgroup.accesskey "L">
+<!ENTITY contextReplyNewsgroup2.label "Përgjigjuni te Grupi i Lajmeve">
+<!ENTITY contextReplyNewsgroup2.accesskey "L">
 <!ENTITY contextReplyAll.label "Përgjigjiu të Tërëve">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextReplyList.label "Përgjigjuni te Lista">
