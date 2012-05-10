@@ -42,7 +42,7 @@
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "l">
 <!ENTITY redoCmd.label "Athfheidhmigh">
-<!ENTITY redoCmd.key "T">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "f">
 <!ENTITY cutCmd.label "Gearr">
 <!ENTITY cutCmd.key "X">

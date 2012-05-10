@@ -5,12 +5,12 @@
      Tooltip for the indicator that displays the progress of ongoing downloads.
      -->
 
-<!ENTITY indicator.tooltiptext "Downloads">
+<!ENTITY indicator.tooltiptext "Íosluchtuithe">
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title "Downloads">
+<!ENTITY downloads.title "Íosluchtuithe">
 
 <!ENTITY cmd.pause.label "Cuir ar Shos">
 <!ENTITY cmd.pause.accesskey "S">
@@ -25,17 +25,17 @@
      -->
 <!ENTITY cmd.show.label "Oscail an Fillteán Coinneála">
 <!ENTITY cmd.show.accesskey "F">
-<!ENTITY cmd.showMac.label "Show In Finder">
+<!ENTITY cmd.showMac.label "Taispeáin Sa Finder">
 <!ENTITY cmd.showMac.accesskey "F">
 <!ENTITY cmd.retry.label "Atriail">
-<!ENTITY cmd.goToDownloadPage.label "Go To Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey "G">
+<!ENTITY cmd.goToDownloadPage.label "Leathanach Íosluchtaithe">
+<!ENTITY cmd.goToDownloadPage.accesskey "L">
 <!ENTITY cmd.copyDownloadLink.label "Cóipeáil Nasc Íosluchtaithe">
 <!ENTITY cmd.copyDownloadLink.accesskey "N">
 <!ENTITY cmd.removeFromList.label "Bain den Liosta">
 <!ENTITY cmd.removeFromList.accesskey "B">
-<!ENTITY cmd.clearList.label "Clear List">
+<!ENTITY cmd.clearList.label "Glan an Liosta">
 <!ENTITY cmd.clearList.accesskey "a">
 
-<!ENTITY downloadshistory.label "Show All Downloads">
-<!ENTITY downloadshistory.accesskey "S">
+<!ENTITY downloadshistory.label "Taispeáin Gach Íosluchtú">
+<!ENTITY downloadshistory.accesskey "T">

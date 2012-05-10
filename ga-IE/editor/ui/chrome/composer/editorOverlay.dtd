@@ -174,7 +174,7 @@
 <!ENTITY tableOrCellColor.label "Dath Cúlra an Tábla nó na Cille…">
 <!ENTITY tableOrCellColor.accesskey "b">
 
-<!ENTITY formatRemoveStyles.key "T">
+<!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Bain Ancairí Ainmnithe">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
