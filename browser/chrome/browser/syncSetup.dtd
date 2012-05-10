@@ -6,7 +6,7 @@
 <!ENTITY setup.choicePage.new.label "Nunca antes he usado &syncBrand.shortName.label; ">
 <!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otra computadora">
 <!ENTITY server.label "Servidor">
-<!ENTITY serverType.main.label "Servidor de &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label "Predeterminado: Servidor &syncBrand.fullName.label; de Mozilla">
 <!ENTITY serverType.custom2.label "Usar un servidor personalizado…">
 <!ENTITY signIn.account2.label "Cuenta">
 <!ENTITY signIn.account2.accesskey "A">
