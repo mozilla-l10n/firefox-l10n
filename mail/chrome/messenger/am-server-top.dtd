@@ -1,3 +1,6 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY messageStorage.label "Meddelelsesopbevaring">
 <!ENTITY securitySettings.label "Sikkerhedsindstillinger">
 <!ENTITY serverSettings.label "Serverindstillinger">
 <!ENTITY serverType.label "Servertype:">
@@ -63,3 +66,6 @@
 <!ENTITY newsrcPicker.label "Vælg newsrc fil">
 <!ENTITY browseNewsrc.label "Gennemse…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Kontoindstillinger">
+<!ENTITY accountSettingsDesc.label "Det følgende er en speciel konto. Der er ingen identiteter knyttet til den.">

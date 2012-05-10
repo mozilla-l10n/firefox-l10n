@@ -361,8 +361,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Svar kun afsenderen">
 <!ENTITY replySenderCmd.accesskey "S">
-<!ENTITY replyNewsgroupCmd.label "Svar nyhedsgruppen">
-<!ENTITY replyNewsgroupCmd.accesskey "n">
+<!ENTITY replyNewsgroupCmd2.label "Svar nyhedsgruppen">
+<!ENTITY replyNewsgroupCmd2.accesskey  "n">
 <!ENTITY replyToAllMsgCmd.label "Svar alle">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -501,6 +501,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Fejlkonsol">
 <!ENTITY errorConsoleCmd.accesskey "j">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Kontoindstillinger…">
 <!ENTITY accountManagerCmd.accesskey "o">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -691,8 +692,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "r">
 <!ENTITY contextReplySender.label "Svar kun afsenderen">
 <!ENTITY contextReplySender.accesskey "e">
-<!ENTITY contextReplyNewsgroup.label "Svar til nyhedsgruppen">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyNewsgroup2.label "Svar til nyhedsgruppen">
+<!ENTITY contextReplyNewsgroup2.accesskey "y">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Svar til liste">
@@ -795,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base):

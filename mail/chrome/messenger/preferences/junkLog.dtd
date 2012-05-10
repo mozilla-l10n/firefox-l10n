@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Spam-log">
-<!ENTITY junkLogInfo.label "Logning af spam-aktivitet.">
+<!ENTITY adaptiveJunkLog.title "Spam-log">
+<!ENTITY adaptiveJunkLogInfo.label "Logning af spam-aktivitet.">
 <!ENTITY clearLog.label "Ryd log">
 <!ENTITY clearLog.accesskey "R">
 <!ENTITY closeLog.label "Luk">

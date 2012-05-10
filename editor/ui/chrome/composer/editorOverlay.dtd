@@ -84,11 +84,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Ingen forslag fundet)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorer ord">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Føj til ordbogen">
-<!ENTITY spellCheckAddToDictionary.accesskey "F">
 <!ENTITY createLinkCmd.label "Opret link…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Rediger linket i vinduet &quot;Ny meddelelse&quot;">
@@ -310,7 +305,7 @@
 <!ENTITY tableDeleteMenu.label "Slet">
 <!ENTITY tableDeleteMenu.accesskey "s">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly

@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "S">
 <!ENTITY markAsReadOnSpam.label "Marker spam-meddelelser som læste">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Aktiver logning af spam-filter">
-<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY enableAdaptiveJunkLogging.label "Aktiver logning af spam-filter">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Vis log">
 <!ENTITY openJunkLog.accesskey "V">
 <!ENTITY resetTrainingData.label "Nulstil indlærte data">
