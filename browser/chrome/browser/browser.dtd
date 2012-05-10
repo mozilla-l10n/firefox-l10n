@@ -90,7 +90,10 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "M">
 <!ENTITY fullScreenExit.label "Quitter le mode plein écran">
 <!ENTITY fullScreenExit.accesskey "Q">
-<!ENTITY domFullScreenWarning.label "Appuyer sur Échap pour quitter le mode plein écran">
+<!ENTITY fullscreenAllowButton.label "Autoriser">
+<!ENTITY fullscreenExitButton.label "Interdire">
+<!ENTITY fullscreenApproval.value "Autoriser le mode plein écran ?">
+<!ENTITY fullscreenExitHint.value "Appuyez sur Échap à tout moment pour quitter le mode plein écran.">
 
 <!ENTITY closeWindow.label "Fermer la fenêtre">
 <!ENTITY closeWindow.accesskey "r">
