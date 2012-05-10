@@ -84,7 +84,7 @@
 <!ENTITY calendar.undo.accesskey "l">
 
 <!ENTITY calendar.redo.label "Athfheidhmigh">
-<!ENTITY calendar.redo.key "T">
+<!ENTITY calendar.redo.key "Y">
 <!ENTITY calendar.redo.accesskey "f">
 
 <!ENTITY calendar.cut.label "Gearr">

@@ -80,7 +80,7 @@
 <!ENTITY event.dialog.saveandclose.key "L">
 <!ENTITY event.dialog.print.key "R">
 <!ENTITY event.dialog.undo.key "Z">
-<!ENTITY event.dialog.redo.key "T">
+<!ENTITY event.dialog.redo.key "Y">
 <!ENTITY event.dialog.cut.key "X">
 <!ENTITY event.dialog.copy.key "C">
 <!ENTITY event.dialog.paste.key "V">

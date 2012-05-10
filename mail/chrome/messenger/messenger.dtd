@@ -278,7 +278,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
-<!ENTITY getAllNewMessagesCmd.key "T">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Aimsigh">
@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Freagair an Seoltóir Amháin">
 <!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.label "Freagair an Grúpa Nuachta">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Freagair Cách">
 <!ENTITY contextReplyAll.accesskey "r">

@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "d">
 <!ENTITY markAsReadOnSpam.label "Marcáil teachtaireachtaí ar Dramhphost iad mar léite">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
-<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "Cumasaigh logáil don scagaire dramhphoist">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "C">
 <!ENTITY openJunkLog.label "Taispeáin an logchomhad">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Glan na Sonraí Traenála">

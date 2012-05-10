@@ -1,8 +1,8 @@
 <!ENTITY aboutPage.title "Maidir le &brandShortName;">
 <!ENTITY aboutPage.warningVersion "Is táirge turgnamhach é &brandShortName; agus seans nach mbeidh sé cobhsaí.">
-<!ENTITY aboutPage.telemetryStart " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryStart " Seolann sé faisnéis maidir le feidhmíocht, crua-earraí, úsáid, agus saincheapadh chuig ">
 <!ENTITY aboutPage.telemetryMozillaLink "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd " to help make &brandShortName; better.">
+<!ENTITY aboutPage.telemetryEnd " chun feabhas a chur ar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link "Lorg Nuashonruithe »">
 <!ENTITY aboutPage.checkForUpdates.checking "Nuashonruithe á lorg…">
 <!ENTITY aboutPage.checkForUpdates.none "Níl aon nuashonruithe ar fáil">
