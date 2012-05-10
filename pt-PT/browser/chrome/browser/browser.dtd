@@ -90,7 +90,10 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "E">
 <!ENTITY fullScreenExit.label "Sair de Modo de Ecrã Inteiro">
 <!ENTITY fullScreenExit.accesskey "I">
-<!ENTITY domFullScreenWarning.label "Pressione ESC para sair do modo de ecrã inteiro">
+<!ENTITY fullscreenAllowButton.label "Permitir">
+<!ENTITY fullscreenExitButton.label "Negar">
+<!ENTITY fullscreenApproval.value "Permitir ecrã inteiro?">
+<!ENTITY fullscreenExitHint.value "Pressione, a qualquer momento, ESC para sair do modo de ecrã inteiro">
 
 <!ENTITY closeWindow.label "Fechar Janela">
 <!ENTITY closeWindow.accesskey "J">
@@ -606,14 +609,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Fechar barra dos extras">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "HTML panel">
-
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "Marcar">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.accesskey          "M">
