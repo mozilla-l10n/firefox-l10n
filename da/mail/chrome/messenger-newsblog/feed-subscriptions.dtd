@@ -1,7 +1,23 @@
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Feed-abonnementer">
 <!ENTITY subscriptionDesc.label "Bemærk, at hvis du fjerner eller ændrer en feed-mappe, vil det ikke påvirke tidligere hentede artikler.">
+
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY feedTitle.accesskey "T">
+
+<!ENTITY feedLocation.label "Feed URL:">
+<!ENTITY feedLocation.accesskey "F">
+<!ENTITY feedLocation.placeholder  "Angiv en URL til et feed">
+
+<!ENTITY feedFolder.label "Opbevar artikler i:">
+<!ENTITY feedFolder.accesskey "O">
+
+<!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente hjemmesiden">
+<!ENTITY quickMode.accesskey "V">
+
+<!ENTITY locationValidate.label      "Valider">
+<!ENTITY validateText.label "Tjek validering og hent en virkende URL.">
+
 <!ENTITY button.addFeed.label "Tilføj">
 <!ENTITY button.addFeed.accesskey "ø">
 <!ENTITY button.editFeed.label "Rediger">
@@ -12,15 +28,5 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "Eksporter">
 <!ENTITY button.exportOPML.accesskey "E">
+
 <!ENTITY cmd.close.commandKey "w">
-
-<!ENTITY feedFolder.label "Opbevar artikler i:">
-<!ENTITY feedFolder.accesskey "O">
-<!ENTITY feedLocation.label "Feed URL:">
-<!ENTITY feedLocation.accesskey "F">
-<!ENTITY feedLocation.placeholder  "Angiv en URL til et feed">
-
-<!ENTITY validateText.label "Tjek validering og hent en virkende URL.">
-
-<!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente hjemmesiden">
-<!ENTITY quickMode.accesskey "V">

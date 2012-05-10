@@ -66,6 +66,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Svar afsender og alle modtagere">
 <!ENTITY hdrReplyListButton1.label "Svar til liste">
 <!ENTITY hdrReplyListButton1.tooltip "Svar til diskussionsliste">
+<!ENTITY hdrFollowupButton1.label "Opfølgning">
+<!ENTITY hdrFollowupButton1.tooltip "Send opfølgning til denne nyhedsgruppe">
 <!ENTITY hdrForwardButton1.label "Videresend">
 <!ENTITY hdrForwardButton1.tooltip "Videresend denne meddelelse">
 <!ENTITY hdrJunkButton1.label "Spam">

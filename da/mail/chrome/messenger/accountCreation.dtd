@@ -63,11 +63,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Jeg accepterer risikoen.">
 <!ENTITY confirmWarning.accesskey        "a">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Opret konto">
-<!ENTITY createAccount.accesskey         "O">
+<!ENTITY doneAccount.label               "Opret konto">
+<!ENTITY doneAccount.accesskey           "O">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
