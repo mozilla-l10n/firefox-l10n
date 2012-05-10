@@ -17,5 +17,3 @@
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sincronizar">
-<!ENTITY  buttonForward.tooltip   "Avançar uma página">
-<!ENTITY  buttonBack.tooltip      "Recuar uma página">
