@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Çerez bırak">
 <!ENTITY  permInstall           "Eklenti veya tema kur">
 <!ENTITY  permGeo               "Konumu paylaş">
+<!ENTITY  permPlugins           "Yan uygulamaları etkinleştir">
 
 <!ENTITY  permIndexedDB              "Çevrim dışı depolamayı yönet">
 <!ENTITY  permClearStorage           "Depolananları temizle">
