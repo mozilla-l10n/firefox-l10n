@@ -27,6 +27,8 @@
 <!ENTITY cookie.removeAll                "Tynnu pob Cwci">
 
 <!ENTITY geo.label                       "Rhannu Lleoliad">
+
+<!ENTITY plugins.label                   "Ategion">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 

@@ -70,3 +70,6 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy\'n cael ei gynnal.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect "Allwedd Adfer anghywir. Ceisiwch eto.">

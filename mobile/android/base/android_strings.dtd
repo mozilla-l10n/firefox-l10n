@@ -89,7 +89,7 @@
 
 <!ENTITY contextmenu_open_new_tab "Agor mewn Tab Newydd">
 <!ENTITY contextmenu_remove_bookmark "Tynnu">
-<!ENTITY contextmenu_add_to_launcher "Ychwanegu i'r Sgrin Cartref">
+<!ENTITY contextmenu_add_to_launcher "Ychwanegu i\'r Sgrin Cartref">
 <!ENTITY contextmenu_share "Rhannu">
 <!ENTITY contextmenu_edit_bookmark "Golygu">
 
