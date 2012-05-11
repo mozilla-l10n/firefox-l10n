@@ -35,3 +35,5 @@
 <!ENTITY indexedDB.label                 "使用離線儲存空間">
 
 <!ENTITY popup.label                     "開啟彈出型視窗">
+
+<!ENTITY fullscreen.label                "全螢幕">
