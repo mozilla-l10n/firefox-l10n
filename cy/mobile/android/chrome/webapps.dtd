@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Rhowch deitl">
-<!ENTITY webapps.permissions "Caniatáu mynediad:">
-<!ENTITY webapps.perm.geolocation "Pori ymwybodol o leoliad">
-<!ENTITY webapps.perm.offline "Storio data all-lein">
-<!ENTITY webapps.perm.notifications "Hysbysiadau Bwrdd Gwaith">
-<!ENTITY webapps.perm.requestedHint "(cais)">
-<!ENTITY webapps.add-homescreen "Ychwanegu i'r sgrin cartref">

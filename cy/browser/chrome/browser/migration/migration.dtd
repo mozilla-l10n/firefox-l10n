@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "O ffeil HTML">
-<!ENTITY importFromHTMLFile.accesskey   "f">
 
 <!ENTITY noMigrationSources.label       "Methu canfod unrhyw rhaglenni sy'n cynnwys nodau tudalen, hanes na data cyfrineiriau.">
 

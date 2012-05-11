@@ -35,7 +35,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "Gosodiadau Java Uwch">
+<!ENTITY advancedJSDialog.title         "Gosodiadau JavaScript Uwch">
 <!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "Caniatáu sgriptiau i:">
@@ -45,4 +45,4 @@
 <!ENTITY raiseLowerWindows.label        "Codi neu ostwng ffenestri">
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Analluogi neu newid dewislenni cyd-destun">
-<!ENTITY disableContextMenus.accesskey  "d">
+<!ENTITY disableContextMenus.accesskey  "A">
