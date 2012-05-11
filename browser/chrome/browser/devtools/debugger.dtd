@@ -59,4 +59,4 @@
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "Pas de scripts.">
+<!ENTITY debuggerUI.emptyScriptText  "Aucun script.">
