@@ -90,10 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "E">
 <!ENTITY fullScreenExit.label "Sair de Modo de Ecrã Inteiro">
 <!ENTITY fullScreenExit.accesskey "I">
-<!ENTITY fullscreenAllowButton.label "Permitir">
-<!ENTITY fullscreenExitButton.label "Negar">
-<!ENTITY fullscreenApproval.value "Permitir ecrã inteiro?">
-<!ENTITY fullscreenExitHint.value "Pressione, a qualquer momento, ESC para sair do modo de ecrã inteiro">
+<!ENTITY domFullScreenWarning.label "Pressione ESC para sair do modo de ecrã inteiro">
 
 <!ENTITY closeWindow.label "Fechar Janela">
 <!ENTITY closeWindow.accesskey "J">
