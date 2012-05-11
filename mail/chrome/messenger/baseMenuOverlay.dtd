@@ -32,7 +32,7 @@
 <!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Manual de utilizare">
 <!ENTITY openHelp.accesskey "M">
-<!ENTITY openHelp.commandkey "V">
+<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ajutor pentru &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
