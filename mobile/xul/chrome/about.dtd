@@ -1,5 +1,9 @@
 <!ENTITY aboutPage.title                        "Om &brandShortName;">
-<!ENTITY aboutPage.faq.label                    "Ofte spurte spørsmål">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentell og kan være ustabil.">
+<!ENTITY aboutPage.telemetryStart               " Den sender automatisk informasjon om ytelse, maskinvare, bruksmønster og utvidelser tilbake til ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " for å bidra til å gjøre &brandShortName; bedre.">
+<!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Hjelp">
 <!ENTITY aboutPage.privacyPolicy.label          "Personvern">
 <!ENTITY aboutPage.rights.label                 "Kjenn dine rettigheter">
