@@ -219,6 +219,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrolladores">
+<!ENTITY devToolbarMenu.label "Barra de desarrolladores">
+<!ENTITY devToolbarMenu.accesskey "o">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY webConsoleButton.label "Consola web">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY scriptsButton.label "Scripts">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar InnerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
@@ -227,6 +236,16 @@ can reach it easily. -->
 
 <!ENTITY inspectorHTMLDelete.label          "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey      "n">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "Opciones del inspector">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "Oscurcer la página">
+<!ENTITY inspectorToggleVeil.accesskey      "u">
+<!ENTITY inspectorToggleInfobar.label       "Mostrar información del nodo">
+<!ENTITY inspectorToggleInfobar.accesskey   "s">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
