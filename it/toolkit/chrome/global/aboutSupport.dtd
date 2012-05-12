@@ -24,7 +24,7 @@
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incrementale">
-<!ENTITY aboutSupport.libraryVersionsTitle "Versioni libreria">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versioni librerie">
 <!ENTITY aboutSupport.installationHistoryTitle "Cronologia installazione">
 <!ENTITY aboutSupport.updateHistoryTitle "Aggiorna cronologia">
 <!ENTITY aboutSupport.copyToClipboard.label "Copia negli appunti">
