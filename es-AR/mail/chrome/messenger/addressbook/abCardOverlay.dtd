@@ -65,7 +65,7 @@ The Initial Developer of the Original Code is
 <!ENTITY DisplayName.label "Mostrado:">
 <!ENTITY DisplayName.accesskey "d">
 <!ENTITY preferDisplayName.label        "Siempre preferir nombre mostrado en lugar de encabezado del mensaje">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.accesskey    "z">
 <!ENTITY NickName.label "Apodo:">
 <!ENTITY NickName.accesskey "A">
 
@@ -78,8 +78,8 @@ The Initial Developer of the Original Code is
 <!ENTITY PlainText.label "Texto sin formato">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconocido">
-<!ENTITY ScreenName.label "Nombre en pantalla:">
-<!ENTITY ScreenName.accesskey "t">
+<!ENTITY ScreenName.label "Nombre de usuario AIM:">
+<!ENTITY ScreenName.accesskey "u">
 
 <!ENTITY allowRemoteContent1.label      "Permitir contenido remoto.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
