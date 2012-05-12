@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Pokaži povzetek članka in ne nalagaj spletne strani">
 <!ENTITY quickMode.accesskey         "K">
 
+<!ENTITY locationValidate.label      "Validacija">
 <!ENTITY validateText.label          "Preveri validacijo in uporabi veljaven url.">
 
 <!ENTITY button.addFeed.label        "Dodaj">

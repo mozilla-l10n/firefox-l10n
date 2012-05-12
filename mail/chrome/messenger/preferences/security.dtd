@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "B">
 <!ENTITY markAsReadOnSpam.label "Označi nezaželena sporočila kot prebrana">
 <!ENTITY markAsReadOnSpam.accesskey "P">
-<!ENTITY enableJunkLogging.label "Aktiviraj dnevnik filtra neželenih sporočil">
-<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY enableAdaptiveJunkLogging.label "Aktiviraj dnevnik filtra neželenih sporočil">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Pokaži dnevnik">
 <!ENTITY openJunkLog.accesskey "D">
 <!ENTITY resetTrainingData.label "Ponastavi podatke za učenje">
