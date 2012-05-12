@@ -200,17 +200,17 @@
 <!ENTITY paragraphParagraphCmd.label "Paragraf">  
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Subtitlu 1">
-<!ENTITY heading1Cmd.accesskey "S">
+<!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Subtitlu 2">
-<!ENTITY heading2Cmd.accesskey "S">
+<!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "Subtitlu 3">
-<!ENTITY heading3Cmd.accesskey "S">
+<!ENTITY heading3Cmd.accesskey "3">
 <!ENTITY heading4Cmd.label "Subtitlu 4">
-<!ENTITY heading4Cmd.accesskey "S">
+<!ENTITY heading4Cmd.accesskey "4">
 <!ENTITY heading5Cmd.label "Subtitlu 5">
-<!ENTITY heading5Cmd.accesskey "S">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Subtitlu 6">
-<!ENTITY heading6Cmd.accesskey "S">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Adresă">
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Preformatat">
