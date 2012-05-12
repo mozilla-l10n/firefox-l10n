@@ -217,6 +217,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Fermer l'inspecteur">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Fermer la Barre de développement">
+<!ENTITY devToolbarMenu.label "Barre de développement">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY webConsoleButton.label "Console Web">
+<!ENTITY inspectorButton.label "Inspecteur">
+<!ENTITY scriptsButton.label "Scripts">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Copier innerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "C">
 
