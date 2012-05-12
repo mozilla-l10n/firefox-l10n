@@ -1,6 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY messageStorage.label "Skladišče za sporočila"
+<!ENTITY messageStorage.label "Skladišče za sporočila">
 <!ENTITY securitySettings.label "Varnostne nastavitve">
 <!ENTITY serverSettings.label "Nastavitve strežnika">
 <!ENTITY serverType.label "Vrsta strežnika:">
