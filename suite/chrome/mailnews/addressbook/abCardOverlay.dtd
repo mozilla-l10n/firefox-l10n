@@ -76,7 +76,7 @@
 <!ENTITY PlainText.label                "Texto sin formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconocido">
-<!ENTITY ScreenName.label               "Nombre en pantalla:">
+<!ENTITY ScreenName.label               "Nombre de usuario AIM:">
 <!ENTITY ScreenName.accesskey           "N">
 
 <!ENTITY allowRemoteContent1.label      "Permitir contenido remoto.">
