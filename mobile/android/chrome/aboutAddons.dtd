@@ -2,16 +2,18 @@
 # Translator(s):
 #
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY aboutAddons.title                      "Gestionar de suplimente">
-<!ENTITY aboutAddons.header                     "Suplimente">
+<!ENTITY aboutAddons.header2                    "Suplimentele tale">
 <!ENTITY aboutAddons.options                    "Opțiuni">
 
 <!ENTITY addonAction.enable                     "Activează">

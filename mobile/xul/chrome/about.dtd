@@ -11,6 +11,10 @@
 #
 -->
 <!ENTITY aboutPage.title                        "Despre &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
+<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
 <!ENTITY aboutPage.faq.label                    "Întrebări frecvente">
 <!ENTITY aboutPage.support.label                "Asistență">
 <!ENTITY aboutPage.privacyPolicy.label          "Politică de confidențialitate">

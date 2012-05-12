@@ -3,6 +3,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # mazilu59 <mazilu59@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -10,6 +11,7 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- Don't localize these. They're here until they have
@@ -25,7 +27,7 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pentru a vă activa dispozitivul, selectați „Setează &syncBrand.shortName.label;” pe dispozitiv.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
+<!ENTITY sync.subtitle.header.label 'Introdu acest cod pe calculator'>
 <!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
 <!ENTITY sync.subtitle.pair.label 'Pentru activare, selectați „Împerechează un dispozitiv” pe celălalt dispozitiv.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
