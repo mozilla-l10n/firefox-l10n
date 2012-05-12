@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "r">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Ni najti predlogov)">
-<!ENTITY spellCheckIgnoreWord.label "Prezri besedo">
-<!ENTITY spellCheckIgnoreWord.accesskey "P">
-<!ENTITY spellCheckAddToDictionary.label "Dodaj v slovar">
-<!ENTITY spellCheckAddToDictionary.accesskey "D">
 <!ENTITY createLinkCmd.label "Vstavi povezavo …">
 <!ENTITY createLinkCmd.accesskey "V">
 <!ENTITY editLinkCmd.label "Uredi povezavo v novem Composerju">
