@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "odgovori pošiljatelju in vsem prejemnikom">
  <!ENTITY hdrReplyListButton1.label "odgovori po seznamu">
 <!ENTITY hdrReplyListButton1.tooltip "odgovori po poštnem seznamu">
+<!ENTITY hdrFollowupButton1.label "nadaljnje delo">
+<!ENTITY hdrFollowupButton1.tooltip "objavi nadaljnje delo v tej skupini">
 <!ENTITY hdrForwardButton1.label "posreduj">
 <!ENTITY hdrForwardButton1.tooltip "posreduj to sporočilo">
 <!ENTITY hdrJunkButton1.label "neželeno">

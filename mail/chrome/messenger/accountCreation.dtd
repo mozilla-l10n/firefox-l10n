@@ -65,8 +65,8 @@
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Ustvari račun">
-<!ENTITY createAccount.accesskey         "U">
+<!ENTITY doneAccount.label               "Storjeno">
+<!ENTITY doneAccount.accesskey           "S">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
