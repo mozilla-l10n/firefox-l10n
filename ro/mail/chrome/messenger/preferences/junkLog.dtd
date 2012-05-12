@@ -10,8 +10,8 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY junkLog.title "Jurnal de mesaje nesolicitate">
-<!ENTITY junkLogInfo.label "Jurnalul controlului de mesaje nesolicitate.">
+<!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
+<!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
 <!ENTITY clearLog.label "Golește jurnalul">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY closeLog.label "Închide">

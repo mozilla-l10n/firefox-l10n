@@ -15,21 +15,35 @@
 #
 -->
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Abonamente la fluxuri">
-<!ENTITY subscriptionDesc.label "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
-<!ENTITY feedTitle.label "Titlu:">
-<!ENTITY location.label  "Loc:">
+<!ENTITY feedSubscriptions.label     "Abonamente la fluxuri">
+<!ENTITY subscriptionDesc.label      "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
 
-<!ENTITY button.addFeed.label       "Adaugă">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Modifică">
-<!ENTITY button.editFeed.accesskey  "M">
-<!ENTITY button.removeFeed.label "Șterge">
-<!ENTITY button.removeFeed.accesskey   "r">
-<!ENTITY button.importOPML.label "Importă">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Exportă">
-<!ENTITY button.exportOPML.accesskey   "x">
+<!ENTITY feedTitle.label             "Titlu:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+
+<!ENTITY feedFolder.label            "Store Articles in:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY locationValidate.label      "Validate">
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+
+<!ENTITY button.addFeed.label        "Adaugă">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Modifică">
+<!ENTITY button.editFeed.accesskey   "M">
+<!ENTITY button.removeFeed.label     "Șterge">
+<!ENTITY button.removeFeed.accesskey "r">
+<!ENTITY button.importOPML.label     "Importă">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Exportă">
+<!ENTITY button.exportOPML.accesskey "x">
+
+<!ENTITY cmd.close.commandKey        "w">
 

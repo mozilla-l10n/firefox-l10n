@@ -11,15 +11,6 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY accountTitle.label "Setările contului">
-<!ENTITY accountSettingsDesc.label "Acesta este un cont special, cu care nu este asociată nici o identitate.">
 <!ENTITY accountName.label "Nume cont:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Stocare mesaje">
-<!ENTITY emptyTrashOnExit.label "Golește coșul de gunoi la ieșire">
-<!ENTITY emptyTrashOnExit.accesskey "G">
-<!ENTITY localPath.label "Director local:">
-<!ENTITY localFolderPicker.label "Alegeți directorul local">
-<!ENTITY browseFolder.label "Răsfoiește…">
-<!ENTITY browseFolder.accesskey "R">
 

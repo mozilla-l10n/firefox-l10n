@@ -13,8 +13,6 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY accountTitle.label "Setări de cont">
-
 <!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minute">

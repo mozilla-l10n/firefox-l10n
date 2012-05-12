@@ -10,24 +10,24 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY emailSectionHdr.label        "Email"> 
-<!ENTITY readMsgsLink.label           "Citește corespondența"> 
-<!ENTITY composeMsgLink.label         "Scrie un mesaj nou"> 
+<!ENTITY emailSectionHdr.label        "Email">
+<!ENTITY readMsgsLink.label           "Citește corespondența">
+<!ENTITY composeMsgLink.label         "Scrie un mesaj nou">
 
-<!ENTITY newsSectionHdr.label         "Grupuri de discuții"> 
-<!ENTITY subscribeNewsLink.label      "Gestionează abonamentele la grupuri de discuții"> 
-
-<!ENTITY accountsSectionHdr.label     "Conturi"> 
-<!ENTITY subscribeImapFolders.label   "Gestionează abonamentele la dosare">
-<!ENTITY settingsLink.label           "Vezi setările acestui cont"> 
-<!ENTITY newAcctLink.label            "Creează un cont nou"> 
-
-<!ENTITY advFeaturesSectionHdr.label  "Opțiuni avansate"> 
-<!ENTITY searchMsgsLink.label         "Caută mesaje"> 
-<!ENTITY filtersLink.label            "Gestionează filtrele de mesaje">
-<!ENTITY junkSettings.label           "Setări pentru mesajele nesolicitate">
-<!ENTITY offlineLink.label            "Setări pentru lucru offline">
+<!ENTITY newsSectionHdr.label         "Grupuri de discuții">
+<!ENTITY subscribeNewsLink.label      "Gestionează abonamentele la grupuri de discuții">
 
 <!ENTITY feedsSectionHdr.label        "Fluxuri">
 <!ENTITY subscribeFeeds.label         "Gestionează abonamentele">
+
+<!ENTITY accountsSectionHdr.label     "Conturi">
+<!ENTITY subscribeImapFolders.label   "Gestionează abonamentele la dosare">
+<!ENTITY settingsLink.label           "Vezi setările acestui cont">
+<!ENTITY newAcctLink.label            "Creează un cont nou">
+
+<!ENTITY advFeaturesSectionHdr.label  "Opțiuni avansate">
+<!ENTITY searchMsgsLink.label         "Caută mesaje">
+<!ENTITY filtersLink.label            "Gestionează filtrele de mesaje">
+<!ENTITY junkSettings.label           "Setări pentru mesajele nesolicitate">
+<!ENTITY offlineLink.label            "Setări pentru lucru offline">
 

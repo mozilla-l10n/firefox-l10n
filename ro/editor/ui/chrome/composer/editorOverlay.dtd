@@ -99,11 +99,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "n">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(nici o sugestie găsită)">
-<!ENTITY spellCheckIgnoreWord.label "Ignoră cuvânt">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Creează legătură…">
 <!ENTITY createLinkCmd.accesskey "C">
 <!ENTITY editLinkCmd.label "Editează legătura în fereastră nouă Composer">
