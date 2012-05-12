@@ -14,7 +14,8 @@
 #
 -->
 
-<!ENTITY  splash_firstrun "Se setează &brandShortName;\u2026">
+<!ENTITY  splash_settingup "Setting up your &brandShortName;">
+<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
 
 <!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
@@ -42,9 +43,13 @@
 
 <!ENTITY awesomebar_default_text "Adresă sau căutare">
 
+<!ENTITY remote_tabs "Synced Tabs">
+<!ENTITY remote_tabs_show_all "Show all tabs">
+
 <!ENTITY bookmark "Semn de carte">
 <!ENTITY bookmark_added "S-a adăugat semnul de carte">
 <!ENTITY bookmark_removed "Semn de carte șters">
+<!ENTITY bookmark_updated "Bookmark updated">
 
 <!ENTITY history_today_section "Azi">
 <!ENTITY history_yesterday_section "Ieri">
@@ -55,6 +60,7 @@
 <!ENTITY forward "Înainte">
 
 <!ENTITY new_tab "Filă nouă">
+<!ENTITY new_tab_opened "New tab opened">
 
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
@@ -67,6 +73,8 @@
 <!ENTITY pref_remember_signons "Memorează parolele">
 <!ENTITY pref_cookies "Activează cookie-uri">
 <!ENTITY pref_char_encoding "Arată codarea caracterelor">
+<!ENTITY pref_char_encoding_on "Show menu">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_history "Curăță istoricul">
 <!ENTITY pref_clear_history_confirm "Istoricul navigării va fi șters">
 <!ENTITY pref_clear_private_data "Curăță datele private">
@@ -82,19 +90,28 @@
 <!ENTITY pref_font_size_large "Mare">
 <!ENTITY pref_font_size_xlarge "Foarte mare">
 <!ENTITY pref_use_master_password "Folosește parola generală">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Ieșire">
 
 <!ENTITY addons "Suplimente">
 <!ENTITY downloads "Descărcări">
+<!ENTITY char_encoding "Character Encoding">
 
 <!ENTITY share "Împărtășește">
+<!ENTITY share_title "Share via">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 
 <!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
 <!ENTITY contextmenu_remove_bookmark "Elimină">
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
 <!ENTITY contextmenu_share "Împărtășește">
+<!ENTITY contextmenu_edit_bookmark "Edit">
+
+<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_name "Name">
+<!ENTITY bookmark_edit_location "Location">
+<!ENTITY bookmark_edit_keyword "Keyword">
 
 <!ENTITY site_settings_title        "Curăță setările saitului">
 <!ENTITY site_settings_cancel       "Renunță">
@@ -108,4 +125,19 @@
 
 <!ENTITY button_ok "Bine">
 <!ENTITY button_cancel "Renunță">
+
+<!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
+<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
+<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
+<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
+<!ENTITY abouthome_top_sites_title "Top sites">
+<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
+<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
+<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Choose File">
+<!ENTITY filepicker_audio_title "Choose or record a sound">
+<!ENTITY filepicker_image_title "Choose or take a picture">
+<!ENTITY filepicker_video_title "Choose or record a video">
 
