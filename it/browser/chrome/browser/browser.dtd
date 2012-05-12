@@ -161,12 +161,24 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
+<!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
+<!ENTITY devToolbarMenu.label "Barra sviluppatori">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+<!ENTITY webConsoleButton.label "Console web">
+<!ENTITY inspectorButton.label "Analisi">
+<!ENTITY scriptsButton.label "Script">
 <!ENTITY inspectorHTMLCopyInner.label "Copia HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "M">
 <!ENTITY inspectorHTMLCopyOuter.label "Copia HTML esterno">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "T">
 <!ENTITY inspectorHTMLDelete.label "Elimina nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "E">
+<!ENTITY inspectOptionButton.tooltiptext "Opzioni analisi">
+<!ENTITY inspectorToggleVeil.label "Offusca pagina">
+<!ENTITY inspectorToggleVeil.accesskey "O">
+<!ENTITY inspectorToggleInfobar.label "Mostra inf. nodo">
+<!ENTITY inspectorToggleInfobar.accesskey "M">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Stile">
