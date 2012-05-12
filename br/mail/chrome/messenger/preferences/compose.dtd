@@ -2,7 +2,7 @@
 <!ENTITY itemAutoComplete.label              "Chomlec'hiañ">
 <!ENTITY itemSpellCheck.label                "Gwiriañ ar reizhskrivañ">
 
-<!ENTITY forwardMsg.label                     "Lakaat ar gemennadenn da dremen :">
+<!ENTITY forwardMsg.label                     "Treuzkas ar gemennadenn :">
 <!ENTITY forwardMsg.accesskey                 "k">
 <!ENTITY inline.label                         "Enlinenn">
 <!ENTITY asAttachment.label                   "Evel ur stagadur">

@@ -109,7 +109,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gourc'hemennoù !">
-<!ENTITY completionText.label "Gwiriit eo reizh an titouroù a heul.">
+<!ENTITY completionText.label "Gwirit eo reizh an titouroù a heul.">
 <!ENTITY serverTypePrefix.label "Rizh an dafariad degemer :">
 <!ENTITY serverNamePrefix.label "Anv an dafariad degemer :">
 <!ENTITY smtpServerNamePrefix.label "Anv an dafariad kas (SMTP) :">

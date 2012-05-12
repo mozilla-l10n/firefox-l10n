@@ -12,8 +12,8 @@
 
 <!-- all studies window -->
 <!ENTITY testpilot.studiesWindow.title                  "Ho studioù Test Pilot">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Studioù a-vremañ">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studioù echuet">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Studioù bremanel">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studioù echu">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Dizoloioù ar studiadenn">
 <!ENTITY testpilot.studiesWindow.settings.label         "Arventennoù">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "O kargañ, gortozit mar plij…">
