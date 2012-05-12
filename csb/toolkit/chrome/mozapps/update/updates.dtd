@@ -6,15 +6,15 @@
 -->
 <!ENTITY  updateWizard.title              "Aktualizacjô softwôrë">
 
-<!ENTITY  checking.title                  "Sprôwdzanié aktualizacji">
-<!ENTITY  updateCheck.label               "Sprôwdzanié przistãpnotë aktualizacji dlô programù &brandShortName;…">
+<!ENTITY  checking.title                  "Sprôwdzanié za aktualizacjama">
+<!ENTITY  updateCheck.label               "Sprôwdzôj przistãpnotë aktualizacje dlô programù &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Nalazłé zaktualnienié dlô wtëkôczów">
 <!ENTITY  pluginupdatesfound.label        "Nalazłé nowszé wersje wjinstalowónëch wtëkôczów.">
 <!ENTITY  pluginupdateslink.label         "Òbaczë jak zaktualnic wtëkôcze.">
 
 <!ENTITY  noupdatesfound.title            "Nie nalazłé niżódné aktualizacje">
-<!ENTITY  noupdatesautoenabled.intro      "Felënk przistãpnëch aktualizacji. Program &brandShortName; bãdze
+<!ENTITY  noupdatesautoenabled.intro      "Felënk przistãpnëch aktualizacjów. Program &brandShortName; bãdze
                                             periodiczno sprôwdzóny dlô przistãpnotë zaktualnieniów.">
 <!ENTITY  noupdatesautodisabled.intro     "Felënk przistãpnëch aktualizacji.Proszã sprawdzëc pòzdze abò włączëc automatné
                                             sprôwdzanié przistãpnotë zaktualnieniów w programie &brandShortName;">
@@ -50,7 +50,7 @@
 <!ENTITY  incompatibleList.title          "Nalazłé niekòmpatibilné dodôwczi">
 
 <!ENTITY  downloadPage.title              "Zladënk &brandShortName;">
-<!ENTITY  downloading.intro               "Zladënk aktualizacji…">
+<!ENTITY  downloading.intro               "Zladënk aktualizacjów…">
 <!ENTITY  connecting.label                "Sparłãczenié z serwerã aktualizacji…">
 <!ENTITY  verificationFailedText.label    "Program &brandShortName; ni mógł zwerifikòwac 
                                            jintegralonotë ladowónegò zaktualnienia.
@@ -90,7 +90,7 @@
                                            zrëszëc program &brandShortName; znowa, abò jic z robòtą dali ë zrëszëc program pòzdze znowa.">
 
 <!ENTITY  installed.title                 "Aktualizacjô wjinstalowónô">
-<!ENTITY  installed.intro                 "Jinstalacjô aktualizacji ùdało zakùńczonô">
+<!ENTITY  installed.intro                 "Jinstalacjô ùdało zakùńczonô">
 <!ENTITY  whatsnew.label                  "Czëtôj wicy ò tim co dô nowégò…">
 
 <!ENTITY  update.details.label            "Detale">

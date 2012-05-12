@@ -11,7 +11,7 @@
 <!ENTITY search.commandkey "f">
 <!ENTITY loading.label                        "Ladowanié…">
 <!ENTITY listEmpty.installed.label            "Ni môsz zajinstalowóné taczich dodôwków">
-<!ENTITY listEmpty.availableUpdates.label     "Nie nalôzł niżódnëch aktualizacji">
+<!ENTITY listEmpty.availableUpdates.label     "Nie nalôzł niżódnëch aktualizacjów">
 <!ENTITY listEmpty.recentUpdates.label        "Długò ni môsz aktualizowóné dodôwków">
 <!ENTITY listEmpty.findUpdates.label          "Sprawdzë zaktualnienia">
 <!ENTITY listEmpty.search.label               "Nie nalôzł pasownëch dodôwków">
@@ -66,7 +66,7 @@
 <!ENTITY updates.installed.label              "Dodôwczi òstałé zaktualnioné.">
 <!ENTITY updates.downloaded.label             "Dodôwczi òstałe zladowóné.">
 <!ENTITY updates.restart.label                "Zrëszë znowa abë skùńczëc jinstalacjã">
-<!ENTITY updates.noneFound.label              "Nie nalôzł niżódnëch aktualizacji">
+<!ENTITY updates.noneFound.label              "Nie nalôzł niżódnëch aktualizacjów">
 <!ENTITY updates.manualUpdatesFound.label     "Wëskrzëni przistãpné aktualizacje">
 <!ENTITY updates.updateSelected.label         "wjinstalujë aktualizacje">
 <!ENTITY updates.updateSelected.tooltip       "Wjinstalëje przistãpné aktualizacje z ti lëstë">
@@ -134,7 +134,7 @@
 <!ENTITY detail.updateAutomatic.label         "Włączoné">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatno wjinstalujë aktualizacje">
 <!ENTITY detail.updateManual.label            "Wëłączoné">
-<!ENTITY detail.updateManual.tooltip          "Nie wjinstalujë aktualizacji automatno">
+<!ENTITY detail.updateManual.tooltip          "Nie wjinstaliwùjë aktualizacjów automatno">
 <!ENTITY detail.home                          "Domôcô strona">
 <!ENTITY detail.repository                    "Profil dodôwka">
 <!ENTITY detail.size                          "Miara">

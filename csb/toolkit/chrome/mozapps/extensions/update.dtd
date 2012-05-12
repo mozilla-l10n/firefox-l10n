@@ -29,7 +29,7 @@
 <!ENTITY  installing.top.label            "Zladënk ë jinstalacjô zaktualnieniów dodôwków…">
 
 <!ENTITY  noupdates.wizard.title          "Nie nalôzł kòmpatibilnëch dodôwków">
-<!ENTITY  noupdates.intro.desc            "Program &brandShortName; nie nalôzł niżódnëch aktualizacji dlô
+<!ENTITY  noupdates.intro.desc            "Program &brandShortName; nie nalôzł niżódnëch aktualizacjów dlô
                                            niekòmpatibilnëch dodôwków.">
 <!ENTITY  noupdates.error.desc            "Pòkôzałë sã gwësné problemë przë szëkbie za aktualizacjama.">
 <!ENTITY  noupdates.checkEnabled.desc     "Program &brandShortName; bãdze periodiczno sprôwdzôł ë dôwôł wiédzã

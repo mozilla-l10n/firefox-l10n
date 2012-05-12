@@ -55,10 +55,10 @@
 <!ENTITY  validation.advanced.label               "Nastôwë">
 <!ENTITY  validation.advanced.accesskey           "s">
 
-<!ENTITY  validation.crl.autoupdate.title         "Preferencje automatny aktualizacji CRL">
+<!ENTITY  validation.crl.autoupdate.title         "Preferencje automatnëch aktualizacjów CRL">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Włączë automatną aktualizacjã dlô ti lëstë CRL">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Aktualizëjë">
-<!ENTITY  validation.crl.autoupdate.time.label2   "Dni(ów) przed nôslédną aktualizacjã">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Dni(ów) przed nôslédną aktualizacją">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Aktualizëjë co">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Dni(ów)">
 <!ENTITY  validation.crl.autoupdate.url.label     "Lësta CRL bãdze zaimpòtrowónô z:">
