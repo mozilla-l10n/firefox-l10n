@@ -47,22 +47,10 @@
 <!ENTITY emailLabel.label "Adresa de email:">
 <!ENTITY emailLabel.accesskey "A">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Informații despre server">
+<!ENTITY incomingTitle.label "Incoming Server Information">
 <!ENTITY incomingServerTypeDesc.label "Alegeți tipul serverului de primire pe care îl folosiți.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Introduceți numele serverului de primire (de exemplu, „mail.example.net”).">
-<!ENTITY incomingServerLabel.label "Server de primire:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introduceți numele serverului NNTP (de exemplu, „news.example.net”).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Introduceți numele serverului de trimitere (SMTP) (de exemplu, „smtp.example.net”).">
-<!ENTITY smtpServerLabel.label "Server de trimitere:">
-<!ENTITY smtpServerLabel.accesskey "t">
-<!ENTITY newsServerLabel.label "Server de news:">
-<!ENTITY newsServerLabel.accesskey "n">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -75,6 +63,29 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Default:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Incoming Server:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "User Name:">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Introduceți numele serverului NNTP (de exemplu, „news.example.net”).">
+<!ENTITY newsServerLabel.label "Server de news:">
+<!ENTITY newsServerLabel.accesskey "n">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
+<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -86,18 +97,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Va fi folosit serverul de trimitere (SMTP) deja existent, „">
 <!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Nume utilizator">
-<!ENTITY usernameDesc.label "Introduceți numele de utilizator pentru primit mesaje, dat de de furnizorul dumneavoastră de email">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(de exemplu, „jsmith”).">
-<!ENTITY usernameLabel.label "Nume utilizator pt primire:">
-<!ENTITY usernameLabel.accesskey "p">
-<!ENTITY usernameSmtpDesc.label "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
-<!ENTITY usernameSmtpLabel.label "Nume utilizator pt trimitere:">
-<!ENTITY usernameSmtpLabel.accesskey "t">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

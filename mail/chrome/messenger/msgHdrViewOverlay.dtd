@@ -81,6 +81,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY hdrReplyListButton1.label "Răspunde listei">
 <!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
 <!ENTITY hdrForwardButton1.label "Înaintează">
 <!ENTITY hdrForwardButton1.tooltip "Înaintează acest mesaj">
 <!ENTITY hdrJunkButton1.label "Nesolicitat">

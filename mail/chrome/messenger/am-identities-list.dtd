@@ -18,4 +18,6 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "Șterge">
 <!ENTITY identitiesListDelete.accesskey "t">
+<!ENTITY identitiesListClose.label "Close">
+<!ENTITY identitiesListClose.accesskey "C">
 
