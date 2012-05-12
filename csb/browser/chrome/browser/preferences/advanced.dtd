@@ -86,8 +86,7 @@
 <!ENTITY enableSearchUpdate.accesskey    "k">
 <!ENTITY updateHistory.label             "Wëskrzëni histroriã aktualizacji">
 <!ENTITY updateHistory.accesskey         "h">
-
-<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô jinstalowaniégò aktualizacji>
+<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô jinstalowaniégò aktualizacji">
 <!ENTITY useService.accesskey            "Ù">
 
 <!ENTITY offlineNotify.label             "Dôwôj wiedzã jeżlë jinternetowô strona pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
