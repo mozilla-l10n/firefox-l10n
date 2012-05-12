@@ -34,7 +34,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; trebuie repornit pentru ca plugin-urile să funcționeze.">
 
 <!ENTITY missingPlugin                                       "Este necesar un plugin pentru a afișa acest conținut.">
-<!ENTITY clickToPlayPlugin                                   "Clic aici pentru a activa plugin-ul.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Atingeți aici pentru a activa modulul.">
+<!ENTITY clickToPlayPlugins                                  "Clic aici pentru a activa modulele.">
 <!ENTITY disabledPlugin                                      "Acest plugin este dezactivat.">
 <!ENTITY blockedPlugin.label                                 "Plugin-ul a fost dezactivat pentru protecția dumneavoastră.">
 

@@ -110,6 +110,7 @@
 <!ENTITY  permCookie            "Setează cookie-uri">
 <!ENTITY  permInstall           "Instalează extensii sau teme">
 <!ENTITY  permGeo               "Dezvăluie locul unde sunt">
+<!ENTITY  permPlugins           "Activează modulele">
 
 <!ENTITY  permIndexedDB              "Întrețineți stocarea offline">
 <!ENTITY  permClearStorage           "Curăță datele stocate">
