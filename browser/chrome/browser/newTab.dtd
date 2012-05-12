@@ -13,7 +13,3 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Filă nouă">
 
-<!ENTITY newtab.show "Arată pagina cu filă nouă">
-<!ENTITY newtab.hide "Ascunde pagina cu filă nouă">
-<!ENTITY newtab.reset "Resetează pagina cu filă nouă">
-

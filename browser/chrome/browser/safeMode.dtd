@@ -52,6 +52,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; - Modul sigur">
 <!ENTITY window.width                 "40em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Closed Unexpectedly While Starting">
+<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; rulează acum în modul sigur, ceea ce înseamnă că sunt dezactivate temporar temele și extensiile dumneavoastră, precum și parametrii personalizați.">
 <!ENTITY safeModeDescription2.label   "Puteți face permanente una sau mai multe din aceste schimbări:">
 

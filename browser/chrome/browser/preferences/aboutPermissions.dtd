@@ -41,6 +41,8 @@
 
 <!ENTITY geo.label                       "Împărtășește locația">
 
+<!ENTITY plugins.label                   "Module">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Stocare pentru uz offline">
