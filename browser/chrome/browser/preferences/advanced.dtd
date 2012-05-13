@@ -16,7 +16,7 @@
 <!ENTITY checkSpelling.label "Comprobar la ortografía mientras se escribe">
 <!ENTITY checkSpelling.accesskey "t">
 <!ENTITY systemDefaults.label "Por defecto">
-<!ENTITY alwaysCheckDefault.label "Comprobar siempre si &brandShortName; es el navegador por defecto al arrancar">
+<!ENTITY alwaysCheckDefault.label "Comprobar siempre si &brandShortName; es el navegador predeterminado al iniciar">
 <!ENTITY alwaysCheckDefault.accesskey "s">
 <!ENTITY checkNow.label "Comprobar ahora">
 <!ENTITY checkNow.accesskey "m">

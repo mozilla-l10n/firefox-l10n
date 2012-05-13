@@ -30,7 +30,7 @@
 <!ENTITY addonsHeader.label "Complementos">
 <!ENTITY addonsLocal.label "Sus complementos">
 <!ENTITY addonsUpdate.label "Actualizar">
-<!ENTITY addonsRepo.label "Conseguir complementos">
+<!ENTITY addonsRepo.label "Obtener complementos">
 <!ENTITY addonsRecommended.label "Recomendado">
 <!ENTITY addonsSearch.label "Buscar">
 <!ENTITY addonsSearch2.emptytext "Buscar en el catálogo">
