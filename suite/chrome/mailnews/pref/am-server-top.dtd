@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Meddelandelagring">
 <!ENTITY securitySettings.label "Säkerhetsinställningar">
 <!ENTITY serverSettings.label "Serverinställningar">
 <!ENTITY serverType.label "Servertyp:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Välj filen newsrc">
 <!ENTITY browseNewsrc.label "Välj…">
 <!ENTITY browseNewsrc.accesskey "ä">
+
+<!ENTITY accountTitle.label "Kontoinställningar">
+<!ENTITY accountSettingsDesc.label "Kontot nedan är ett specialkonto. Inga identiteter har associerats med det.">

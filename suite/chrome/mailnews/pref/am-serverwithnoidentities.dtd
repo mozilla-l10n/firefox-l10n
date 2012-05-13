@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Kontoinställningar">
-<!ENTITY accountSettingsDesc.label "Kontot nedan är ett specialkonto. Inga identiteter har associerats med det.">
 <!ENTITY accountName.label "Kontots namn:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY messageStorage.label "Meddelandelagring">
-<!ENTITY emptyTrashOnExit.label "Töm papperskorgen när programmet avslutas">
-<!ENTITY emptyTrashOnExit.accesskey "ö">
-<!ENTITY localPath.label "Lokal katalog:">
-<!ENTITY localFolderPicker.label "Välj lokal katalog:">
-<!ENTITY browseFolder.label "Välj…">
-<!ENTITY browseFolder.accesskey "V">
