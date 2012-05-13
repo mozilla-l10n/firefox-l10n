@@ -1,5 +1,5 @@
 <!ENTITY aboutSupport.pageTitle "Información para solucionar problemas">
-<!ENTITY aboutSupport.pageSubtitle "Esta página contiene información técnica que puede ser útil cuando intente solventar un problema. Si está buscando respuestas a preguntas frecuentes sobre &brandShortName;, mire el <a id='supportLink'>sitio de asistencia</a>.">
+<!ENTITY aboutSupport.pageSubtitle "Esta página contiene información técnica que puede ser útil cuando intente solucionar un problema. Si está buscando respuestas a preguntas frecuentes sobre &brandShortName;, visite el <a id='supportLink'>sitio de asistencia</a>.">
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nombre">
 <!ENTITY aboutSupport.extensionEnabled "Activada">
