@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Postavi kolačiće">
 <!ENTITY  permInstall           "Instaliraj ekstenzije ili teme">
 <!ENTITY  permGeo               "Podijeli lokaciju">
+<!ENTITY  permPlugins           "Aktiviraj plugine">
 
 <!ENTITY  permIndexedDB              "Održavanje offline spremišta">
 <!ENTITY  permClearStorage           "Očisti spremište">
