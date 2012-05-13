@@ -28,7 +28,7 @@
 <!ENTITY importOtherBrowser.accesskey "п">
 <!ENTITY cmd.backup.label "Резервное копирование…">
 <!ENTITY cmd.backup.accesskey "р">
-<!ENTITY cmd.restore2.label "Восстановить">
+<!ENTITY cmd.restore2.label "Восстановить копию от">
 <!ENTITY cmd.restore2.accesskey "с">
 <!ENTITY cmd.restoreFromFile.label "Выбрать файл…">
 <!ENTITY cmd.restoreFromFile.accesskey "б">
