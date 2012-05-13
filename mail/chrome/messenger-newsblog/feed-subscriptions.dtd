@@ -15,8 +15,8 @@
 <!ENTITY quickMode.label "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
 <!ENTITY quickMode.accesskey "h">
 
-<!ENTITY locationValidate.label "Validate">
-<!ENTITY validateText.label "Check validation and retrieve a valid url.">
+<!ENTITY locationValidate.label "Bailíochtaigh">
+<!ENTITY validateText.label "Bailíochtaigh agus faigh URL bailí.">
 
 <!ENTITY button.addFeed.label "Cuir Leis">
 <!ENTITY button.addFeed.accesskey "L">

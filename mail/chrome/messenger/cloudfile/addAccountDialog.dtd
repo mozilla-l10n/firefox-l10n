@@ -5,8 +5,8 @@
 <!ENTITY addAccountDialog.menuTitle "Roghnaigh seirbhís stórála ar líne">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Ainm an Chuntais:">
-<!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
-<!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
+<!ENTITY addAccountDialog.noAccountText "Tá brón orainn, ach ní cheadaíonn an leagan reatha de &brandShortName; níos mó ná cuntas amháin ar gach seirbhís stórála ar líne.">
+<!ENTITY addAccountDialog.createAccountText2 "Is féidir leat iatáin mhóra a sheoladh trí do rogha seirbhís stórála ar líne. Má tá cuntas agat cheana caithfidh tú é a roghnú, nó cuntas nua a chruthú mura bhfuil.">
 <!ENTITY addAccountDialog.authorizing "Údarú á dhearbhú...">
 <!ENTITY addAccountDialog.error "Tharla earráid agus an cuntas á shocrú!">
 <!ENTITY addAccountDialog.acceptButton.label "Socraigh Cuntas">

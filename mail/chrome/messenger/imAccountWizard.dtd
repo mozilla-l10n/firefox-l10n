@@ -11,7 +11,7 @@
 <!ENTITY accountPasswordTitle.label "Focal Faire">
 <!ENTITY accountPasswordInfo.label "Cuir d'fhocal faire sa mbosca thíos.">
 <!ENTITY accountPasswordField.label "Focal Faire:">
-<!ENTITY accountPasswordManager.label "The password entered here will be stored in the Password Manager. Leave this box empty if you want to be prompted for your password each time this account is connected.">
+<!ENTITY accountPasswordManager.label "Sábhálfar an focal faire i mBainisteoir na bhFocal Faire. Fág an bosca seo folamh más mian leat d'fhocal faire a chur isteach gach uair a úsáidfidh tú an cuntas seo amach anseo.">
 
 <!ENTITY accountAdvancedTitle.label "Ardroghanna">
 <!ENTITY accountAdvancedInfo.label "Feel free to skip this step if you want to.">
