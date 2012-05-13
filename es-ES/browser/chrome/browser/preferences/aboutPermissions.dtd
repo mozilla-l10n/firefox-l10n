@@ -19,3 +19,4 @@
 <!ENTITY plugins.label "Plugins">
 <!ENTITY indexedDB.label "Mantener almacenamiento en modo sin conexión">
 <!ENTITY popup.label "Abrir ventanas emergentes">
+<!ENTITY fullscreen.label "Pantalla completa">

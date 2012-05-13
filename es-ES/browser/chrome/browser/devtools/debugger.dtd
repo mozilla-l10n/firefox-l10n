@@ -10,3 +10,4 @@
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ámbito de las variables">
 <!ENTITY debuggerUI.emptyFilterText "Filtrar scripts">
+<!ENTITY debuggerUI.emptyScriptText "Sin scripts.">

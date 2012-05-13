@@ -68,7 +68,10 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Salir del modo pantalla completa">
 <!ENTITY fullScreenExit.accesskey "m">
-<!ENTITY domFullScreenWarning.label "Presione ESC (escape) para salir de la pantalla completa">
+<!ENTITY fullscreenAllowButton.label "Permitir">
+<!ENTITY fullscreenExitButton.label "Denegar">
+<!ENTITY fullscreenApproval.value "¿Permitir pantalla completa?">
+<!ENTITY fullscreenExitHint.value "Presione ESC en cualquier momento para salir de la pantalla completa.">
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
@@ -172,7 +175,7 @@
 <!ENTITY styleeditor.accesskey "i">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
-<!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
+<!ENTITY getMoreDevtoolsCmd.label "Obtener más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
