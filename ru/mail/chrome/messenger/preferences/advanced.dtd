@@ -43,7 +43,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "к">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAppUpdate.accesskey "d">
 <!ENTITY enableAddonsUpdate.label "Установленных дополнений">
 <!ENTITY enableAddonsUpdate.accesskey "о">
 <!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
