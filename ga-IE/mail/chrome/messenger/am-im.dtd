@@ -6,7 +6,7 @@
 <!ENTITY account.password "Focal Faire:">
 <!ENTITY account.alias "Ailias:">
 <!ENTITY account.newMailNotification "Abair liom faoi theachtaireachtaí nua">
-<!ENTITY account.autojoin "Auto-Joined Channels:">
+<!ENTITY account.autojoin "Cainéil Uathoibríocha:">
 <!ENTITY account.proxySettings.caption "Socruithe an tSeachfhreastalaí:">
 <!ENTITY account.proxySettings.change.label "Athraigh…">
 <!ENTITY account.proxySettings.change.accessKey "A">
