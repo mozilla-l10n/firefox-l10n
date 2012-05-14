@@ -613,5 +613,5 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!ENTITY markupButton.arialabel          "İşaretleme">
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
+<!ENTITY markupButton.accesskey          "m">
 
