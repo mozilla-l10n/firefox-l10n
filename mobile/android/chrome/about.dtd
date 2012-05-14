@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "&brandShortName; hakkında">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; deneyseldir ve kararsız olabilir.">
+<!ENTITY aboutPage.telemetryStart               " Performans, donanım, kullanım ve özeleştirme ile ilgili bazı bilgiler otomatik olarak">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " sunucularına gönderilerek &brandShortName; iyileştirilir.">
 <!ENTITY aboutPage.checkForUpdates.link         "Güncellemeleri denetle »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Güncellemeler aranıyor…">
 <!ENTITY aboutPage.checkForUpdates.none         "Hiç güncelleme yok">

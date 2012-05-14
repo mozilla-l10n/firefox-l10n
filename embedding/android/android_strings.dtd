@@ -1,21 +1,22 @@
 
-<!ENTITY splash_firstrun "&brandShortName; ayarlanıyor\u2026">
+<!ENTITY  splash_firstrun "&brandShortName; ayarlanıyor\u2026">
 
-<!ENTITY no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
-<!ENTITY error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
+<!ENTITY  no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
+<!ENTITY  error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
 
-<!ENTITY crash_reporter_title "&brandShortName; Çöküş Bildirici">
-<!ENTITY crash_message "&brandShortName; çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenmeli.">
-<!ENTITY crash_help_message "Bu sorunu çözmemize yardımcı olun!">
-<!ENTITY crash_send_report_message "Mozilla\u0027ya çöküş bildirimi gönder">
-<!ENTITY crash_include_url "Sayfa adresini içer">
-<!ENTITY crash_close_label "Kapat">
-<!ENTITY crash_restart_label "&brandShortName; baştan başlasın">
-<!ENTITY sending_crash_report "Çökme raporu gönderiliyor\u2026">
-<!ENTITY exit_label "Çık">
-<!ENTITY continue_label "Devam">
+<!ENTITY  crash_reporter_title "&brandShortName; Çöküş Bildirici">
+<!ENTITY  crash_message "&brandShortName; çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listeleniyor olacaktır.">
+<!ENTITY  crash_help_message "Bu sorunu çözmemize yardımcı olun!">
+<!ENTITY  crash_send_report_message "Mozilla\u0027ya çöküş bildirimi gönder">
+<!ENTITY  crash_include_url "Sayfa adresini içer">
+<!ENTITY  crash_close_label "Kapat">
+<!ENTITY  crash_restart_label "&brandShortName; baştan başlasın">
+<!ENTITY  sending_crash_report "Çökme raporu gönderiliyor\u2026">
+<!ENTITY  exit_label "Çık">
+<!ENTITY  continue_label "Devam">
 
-<!ENTITY launcher_shortcuts_title "&brandShortName; Web Uygulamaları">
-<!ENTITY launcher_shortcuts_empty "Web uygulaması bulunamadı">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Uygulamaları">
+<!ENTITY  launcher_shortcuts_empty "Web uygulaması bulunamadı">
 
-<!ENTITY choose_file "Dosya Seç">
+<!ENTITY choose_file "Dosya seç">
+
