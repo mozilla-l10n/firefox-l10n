@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "Only on word boundaries">
 <!ENTITY autoCompleteMatchStart                "Only at the beginning of the location or title">
 
+<!ENTITY formatting.label                      "Formatting">
+<!ENTITY domainFormatting.label                "Highlight the effective domain for websites and FTP servers">
+<!ENTITY domainFormatting.accesskey            "d">
+
 <!ENTITY searchEngine.label                    "Internet Search Engine">
 <!ENTITY showSearchEngine.label                "Show default search engine">
 <!ENTITY showSearchEngine.accesskey            "e">
