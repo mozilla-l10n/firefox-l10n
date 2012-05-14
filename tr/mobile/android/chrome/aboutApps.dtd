@@ -1,0 +1,9 @@
+<!ENTITY aboutApps.title "Uygulamalarınız">
+
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.noApps.pre "Hiç web uygulaması yüklenmemiş. ">
+<!ENTITY aboutApps.noApps.middle "Uygulama mağazası">
+<!ENTITY aboutApps.noApps.post " üzerinden uygulama edinebilirsiniz.">
+

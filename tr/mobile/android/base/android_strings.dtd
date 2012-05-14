@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "&brandShortName; ayarlanıyor\u2026">
+<!ENTITY  splash_settingup "&brandShortName; kuruluyor">
+<!ENTITY  splash_bookmarks_history "Yer imlerinizi ve geçmişinizi güncelliyoruz. Bu işlem bir dakika kadar sürebilir.">
 
 <!ENTITY  no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
 <!ENTITY  error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
@@ -27,9 +28,13 @@
 
 <!ENTITY awesomebar_default_text "Aranacak terim veya adres girin">
 
+<!ENTITY remote_tabs "Eşitlenmiş Sekmeler">
+<!ENTITY remote_tabs_show_all "Tüm sekmeleri göster">
+
 <!ENTITY bookmark "Yer imi">
 <!ENTITY bookmark_added "Yer imi eklendi">
 <!ENTITY bookmark_removed "Yer imi silindi">
+<!ENTITY bookmark_updated "Yer imi güncellendi">
 
 <!ENTITY history_today_section "Bugün">
 <!ENTITY history_yesterday_section "Dün">
@@ -79,12 +84,19 @@
 <!ENTITY char_encoding "Karakter kodlaması">
 
 <!ENTITY share "Paylaş">
+<!ENTITY share_title "Paylaş">
 <!ENTITY save_as_pdf "PDF olarak kaydet">
 
 <!ENTITY contextmenu_open_new_tab "Yeni sekmede aç">
 <!ENTITY contextmenu_remove_bookmark "Kaldır">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana ekle">
 <!ENTITY contextmenu_share "Paylaş">
+<!ENTITY contextmenu_edit_bookmark "Düzenle">
+
+<!ENTITY bookmark_edit_title "Yer imini düzenle">
+<!ENTITY bookmark_edit_name "İsim">
+<!ENTITY bookmark_edit_location "Konum">
+<!ENTITY bookmark_edit_keyword "Anahtar kelime">
 
 <!ENTITY site_settings_title        "Site ayarlarını temizle">
 <!ENTITY site_settings_cancel       "İptal">
@@ -108,4 +120,9 @@
 <!ENTITY abouthome_no_top_sites "Henüz popüler siteniz yok. Gezintiye başlamak için başlık çubuğuna dokunun.">
 <!ENTITY abouthome_about_sync "Diğer aygıtlarınızda yer imlerinize, geçmişine ve sekmelerinize erişmek için Firefox Sync\u0027i kurun">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Dosya seç">
+<!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
+<!ENTITY filepicker_image_title "Bir resim seçin veya çekin">
+<!ENTITY filepicker_video_title "Bir video seçin veya kaydedin">
 
