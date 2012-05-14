@@ -218,6 +218,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "關閉檢測器">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "關閉開發者工具列">
+<!ENTITY devToolbarMenu.label "開發者工具列">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY webConsoleButton.label "網頁主控台">
+<!ENTITY inspectorButton.label "檢測器">
+<!ENTITY scriptsButton.label "指令碼">
+
 <!ENTITY inspectorHTMLCopyInner.label       "複製內部 HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
@@ -226,6 +235,16 @@ can reach it easily. -->
 
 <!ENTITY inspectorHTMLDelete.label          "刪除節點">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "檢測器選項">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "把頁面調暗">
+<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleInfobar.label       "顯示節點資訊">
+<!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
