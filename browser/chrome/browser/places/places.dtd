@@ -26,9 +26,9 @@
 <!ENTITY exportBookmarksToHTML.accesskey "Э">
 <!ENTITY importOtherBrowser.label "Импорт данных из другого браузера…">
 <!ENTITY importOtherBrowser.accesskey "п">
-<!ENTITY cmd.backup.label "Резервное копирование…">
+<!ENTITY cmd.backup.label "Создать резервную копию…">
 <!ENTITY cmd.backup.accesskey "р">
-<!ENTITY cmd.restore2.label "Восстановить копию от">
+<!ENTITY cmd.restore2.label "Восстановить резервную копию от">
 <!ENTITY cmd.restore2.accesskey "с">
 <!ENTITY cmd.restoreFromFile.label "Выбрать файл…">
 <!ENTITY cmd.restoreFromFile.accesskey "б">
@@ -85,9 +85,9 @@
 <!ENTITY saveSearch.label "Сохранить">
 <!ENTITY saveSearch.accesskey "С">
 <!ENTITY cmd.find.key "f">
-<!ENTITY maintenance.label "Импорт и резервирование">
+<!ENTITY maintenance.label "Импорт и резервные копии">
 <!ENTITY maintenance.accesskey "о">
-<!ENTITY maintenance.tooltip "Импорт и резервирование ваших закладок">
+<!ENTITY maintenance.tooltip "Импорт и резервные копии ваших закладок">
 <!ENTITY backButton.tooltip "Перейти назад">
 <!ENTITY forwardButton.tooltip "Перейти вперёд">
 <!ENTITY detailsPane.more.label "Больше">
