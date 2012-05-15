@@ -163,8 +163,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Adaugă legătură…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone.label                   "Fus orar">
-<!ENTITY  event.menu.options.timezone.accesskey               "F">
+<!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritate">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Nespecificată">
@@ -375,8 +375,6 @@
 <!ENTITY event.freebusy.next.slot               "Intervalul următor " >
 <!ENTITY event.freebusy.previous.slot           " Intervalul precedent" >
 <!ENTITY event.freebusy.zoom                    "Scalare:">
-<!ENTITY event.freebusy.plus                    "Ora următoare" >
-<!ENTITY event.freebusy.minus                   "Ora precedentă" >
 <!ENTITY event.freebusy.legend.free             "Liber" >
 <!ENTITY event.freebusy.legend.busy             "Ocupat" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativă" >
@@ -389,6 +387,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
+<!ENTITY event.timezone.custom.label     "More Timezones…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
