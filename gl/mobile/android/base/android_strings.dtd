@@ -46,6 +46,9 @@
 
 <!ENTITY close_tab "Pechar lapela">
 <!ENTITY new_tab "Nova lapela">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d lapelas">
 <!ENTITY new_tab_opened "Abriuse unha nova lapela">
 
 <!ENTITY settings "Configuración">
