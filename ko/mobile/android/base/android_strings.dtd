@@ -1,4 +1,5 @@
-<!ENTITY  splash_firstrun "&brandShortName; 설정 중\u2026">
+<!ENTITY  splash_settingup "&brandShortName; 설정 중...">
+<!ENTITY  splash_bookmarks_history "북마크와 방문 기록을 업데이트 하는 중. 이 작업은 약간 오래 걸릴 수 있습니다.">
 
 <!ENTITY  no_space_to_start_error "&brandShortName;를 시작하기에 용량이 너무 작습니다.">
 <!ENTITY  error_loading_file "&brandShortName; 시작하는 중에 오류가 생겼습니다.">
@@ -25,6 +26,9 @@
 <!ENTITY choose_file "파일 선택">
 
 <!ENTITY awesomebar_default_text "검색어나 URL을 입력해 주십시오.">
+
+<!ENTITY remote_tabs "동기된 탭">
+<!ENTITY remote_tabs_show_all "모든 탭 표시">
 
 <!ENTITY bookmark "북마크">
 <!ENTITY bookmark_added "북마크 추가">
@@ -78,12 +82,19 @@
 <!ENTITY char_encoding "문자 인코딩">
 
 <!ENTITY share "공유">
+<!ENTITY share_title "공유 방법 선택">
 <!ENTITY save_as_pdf "PDF로 저장">
 
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
 <!ENTITY contextmenu_remove_bookmark "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
 <!ENTITY contextmenu_share "공유">
+<!ENTITY contextmenu_edit_bookmark "편집">
+
+<!ENTITY bookmark_edit_title "북마크 편집">
+<!ENTITY bookmark_edit_name "이름">
+<!ENTITY bookmark_edit_location "위치">
+<!ENTITY bookmark_edit_keyword "키워드">
 
 <!ENTITY site_settings_title        "웹 사이트 설정 삭제">
 <!ENTITY site_settings_cancel       "취소">
@@ -107,3 +118,8 @@
 <!ENTITY abouthome_no_top_sites "자주 방문 하는 사이트가 없습니다. 주소창을 선택하고 웹 사이트를 방문하세요.">
 <!ENTITY abouthome_about_sync "Firefox Sync를 설정하여, 다른 기기로부터 북마크나 방문 기록, 탭 정보 등을 가져올 수 있습니다.">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "파일 선택">
+<!ENTITY filepicker_audio_title "음성 선택 또는 녹음">
+<!ENTITY filepicker_image_title "사진 선택 또는 촬영">
+<!ENTITY filepicker_video_title "동영상 선택 또는 녹화">
