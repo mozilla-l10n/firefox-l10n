@@ -425,14 +425,20 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "문서 검사">
-<!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "검사기 닫기">
 <!ENTITY inspect3DViewButton.label		"3D 보기">
 <!ENTITY inspect3DViewButton.accesskey	"W">
 <!ENTITY inspectStyleButton.label	"스타일">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!ENTITY inspectorHTMLCopyInner.label		"내부 HTML 북사">
+<!ENTITY inspectorHTMLCopyInner.accesskey	"I">
+
+<!ENTITY inspectorHTMLCopyOuter.label		"외부 HTML 복사">
+<!ENTITY inspectorHTMLCopyOuter.accesskey	"O">
+
+<!ENTITY inspectorHTMLDelete.label		"노드 삭제">
+<!ENTITY inspectorHTMLDelete.accesskey		"D">
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
 -  in the Tools menu. -->
@@ -533,3 +539,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "부가 기능 모음 닫기">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY htmlPanel.label			"HTML">
+<!ENTITY htmlPanel.tooltiptext			"HTML 패널">
+<!ENTITY htmlPanel.accesskey			"H">
