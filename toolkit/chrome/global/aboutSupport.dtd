@@ -16,6 +16,7 @@
 <!ENTITY aboutSupport.appBasicsName "이름">
 <!ENTITY aboutSupport.appBasicsVersion "버전">
 <!ENTITY aboutSupport.appBasicsProfileDir "프로필 저장 폴더">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac	"프로필 폴더">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "사용 중인 플러그인">
 <!ENTITY aboutSupport.appBasicsBuildConfig "빌드 설정">
 <!ENTITY aboutSupport.appBasicsUserAgent "사용자 에이전트">
@@ -34,6 +35,10 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "이름">
 <!ENTITY aboutSupport.modifiedPrefsValue "값">
 <!ENTITY aboutSupport.graphicsTitle "그래픽">
+
+<!ENTITY aboutSupport.jsTitle			"JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC		"인크리멘탈 GC">
+<!ENTITY aboutSupport.libraryVersionsTitle	"라이브러리 버전">
 
 <!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
 <!ENTITY aboutSupport.installationHistoryTitle "설치 기록">

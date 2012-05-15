@@ -36,50 +36,6 @@
 <!ENTITY editMenu.label			"편집">
 <!ENTITY editMenu.accesskey		"E">
 
-<!ENTITY undoCmd.label			"실행 취소">
-<!ENTITY undoCmd.key			"Z">
-<!ENTITY undoCmd.accesskey		"U">
-
-<!ENTITY redoCmd.label			"재실행">
-<!ENTITY redoCmd.key			"Y">
-<!ENTITY redoCmd.accesskey		"R">
-
-<!ENTITY cutCmd.label			"잘라내기">
-<!ENTITY cutCmd.key			"X">
-<!ENTITY cutCmd.accesskey		"t">
-
-<!ENTITY copyCmd.label			"복사">
-<!ENTITY copyCmd.key			"C">
-<!ENTITY copyCmd.accesskey		"C">
-
-<!ENTITY pasteCmd.label			"붙여넣기">
-<!ENTITY pasteCmd.key			"V">
-<!ENTITY pasteCmd.accesskey		"P">
-
-<!ENTITY selectAllCmd.label		"모두 선택">
-<!ENTITY selectAllCmd.key		"A">
-<!ENTITY selectAllCmd.accesskey		"A">
-
-<!ENTITY findCmd.label			"검색…">
-<!ENTITY findCmd.key			"F">
-<!ENTITY findCmd.accesskey		"F">
-
-<!ENTITY findAgainCmd.label		"다시 검색…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
--  Windows and Linux builds use the F3 key which is not localizable on purpose.
--->
-<!ENTITY findAgainCmd.key		"G">
-<!ENTITY findAgainCmd.accesskey		"g">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
--->
-<!ENTITY findPreviousCmd.key		"G">
-
-<!ENTITY gotoLineCmd.label		"지정행 이동…">
-<!ENTITY gotoLineCmd.key		"J">
-<!ENTITY gotoLineCmd.accesskey		"J">
-
 <!ENTITY run.label			"실행">
 <!ENTITY run.accesskey			"R">
 <!ENTITY run.key			"r">
@@ -113,6 +69,14 @@
   -->
 <!ENTITY browserContext.label		"브라우저">
 <!ENTITY browserContext.accesskey	"B">
+
+<!ENTITY helpMenu.label			"도움말">
+<!ENTITY helpMenu.accesskey		"H">
+<!ENTITY helpMenuWin.label		"도움말">
+<!ENTITY helpMenuWin.accesskey		"H">
+
+<!ENTITY documentationLink.label	"스크래치패드 도움말(MDN)">
+<!ENTITY documentationLink.accesskey	"D">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

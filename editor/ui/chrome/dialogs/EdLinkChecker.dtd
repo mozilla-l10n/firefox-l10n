@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
-<!ENTITY windowTitle.label     "그림과 링크 주소 확인">
+<!ENTITY windowTitle.label     "이미지와 링크 주소 확인">
 <!ENTITY succeeded.label       "완료함">
 <!ENTITY failed.label          "실패함">
 <!ENTITY closeButton.label     "닫기">

@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle	"새 탭">
-
-<!ENTITY newtab.show		"새 탭 페이지 표시">
-<!ENTITY newtab.hide		"새 탭 페이지 닫기">
-<!ENTITY newtab.reset		"새 탭 페이지 재설정">
