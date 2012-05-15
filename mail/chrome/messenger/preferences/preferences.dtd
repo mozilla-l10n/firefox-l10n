@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title "일반">
 <!ENTITY paneDisplay.title "표시">
 <!ENTITY paneComposition.title "쓰기">
+<!ENTITY paneChat.title		"채팅">
 <!ENTITY paneAttachments.title "첨부">
 <!ENTITY paneSecurity.title "보안">
 <!ENTITY paneAdvanced.title "고급">

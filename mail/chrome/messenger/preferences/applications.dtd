@@ -17,3 +17,20 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "선택…">
 <!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!ENTITY attachments.incoming.label	"수신">
+<!ENTITY attachments.outgoing.label	"송신">
+
+<!ENTITY addCloudFileAccount.label		"파일 공유 추가">
+<!ENTITY addCloudFileAccount.accesskey		"A">
+<!ENTITY addCloudFileAccount.description	"새로운 파일 공유 스토리지 서비스를 추가합니다">
+<!ENTITY removeCloudFileAccount.label		"삭제">
+<!ENTITY removeCloudFileAccount.accesskey	"R">
+<!ENTITY authRequired.description		"이 스토리지 서비스의 설정을 보기 위해서 허가가 필요합니다.">
+<!ENTITY authRequired.button.label		"허가">
+<!ENTITY authRequired.button.accesskey		"U">
+
+<!-- en-US: "Offer to share for files larger than [] MB"  -->
+<!ENTITY enableCloudFileAccountOffer.label	"다음 크기보다 큰 파일의 첨부시에 링크 공유:">
+<!ENTITY enableCloudFileAccountOffer.mb		"MB">

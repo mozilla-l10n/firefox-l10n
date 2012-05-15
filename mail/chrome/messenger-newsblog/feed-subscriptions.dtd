@@ -2,15 +2,28 @@
 <!ENTITY feedSubscriptions.label "피드 구독">
 <!ENTITY subscriptionDesc.label "알림: 폴더 변경 및 삭제가 이전에 받은 기사에는 영향을 주지 않습니다.">
 <!ENTITY feedTitle.label "제목:">
-<!ENTITY location.label  "주소:">
+<!ENTITY feedTitle.accesskey		"T">
+
+<!ENTITY feedLocation.label		"피드 URL:">
+<!ENTITY feedLocation.accesskey		"U">
+<!ENTITY feedLocation.placeholder	"추가하는 피드의 올바른 URL을 입력해 주세요.">
+
+<!ENTITY feedFolder.label		"보관 폴더:">
+<!ENTITY feedFolder.accesskey		"S">
+
+<!ENTITY quickMode.label		"웹 페이지를 읽지 않고 기사 요약을 표시">
+<!ENTITY quickMode.accesskey		"h">
+
+<!ENTITY validateText.label		"피드가 유효한지 확인해 올바른 URL을 취득합니다.">
+
 <!ENTITY button.addFeed.label       "추가">
 <!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "수정">
-<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.editFeed.label		"수정">
+<!ENTITY button.editFeed.accesskey	"U">
 <!ENTITY button.removeFeed.label "제거">
 <!ENTITY button.removeFeed.accesskey   "R">
 <!ENTITY button.importOPML.label "가져오기">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "내보내기">
 <!ENTITY button.exportOPML.accesskey   "X">
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close.commandKey          "w">
