@@ -33,6 +33,7 @@
 <!ENTITY bookmark "북마크">
 <!ENTITY bookmark_added "북마크 추가">
 <!ENTITY bookmark_removed "북마크 삭제">
+<!ENTITY bookmark_updated "북마크 업데이트">
 
 <!ENTITY history_today_section "오늘">
 <!ENTITY history_yesterday_section "어제">

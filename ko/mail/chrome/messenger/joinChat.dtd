@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title	"채팅 참가">
+<!ENTITY name.label		"방">
+<!ENTITY optional.label		"(임의)">
+<!ENTITY account.label		"계정">
+<!ENTITY autojoin.label		"채팅 방에 자동 참가">
+<!ENTITY autojoin.accesskey	"A">

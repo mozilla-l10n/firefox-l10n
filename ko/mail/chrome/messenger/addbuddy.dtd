@@ -1,0 +1,4 @@
+<!-- (^m^) 채팅 "Add contact" 대화상자 -->
+<!ENTITY addBuddyWindow.title	"연락처 추가"><!-- en-US: "Add contact" -->
+<!ENTITY name.label		"사용자명">
+<!ENTITY account.label		"계정">

@@ -16,6 +16,8 @@
 <!ENTITY attachFileCmd.label "파일 첨부…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label		"파일 공유">
++<!ENTITY attachCloudCmd.accesskey	"i">
 <!ENTITY attachPageCmd.label "웹 페이지 첨부…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "명함 추가">
@@ -249,6 +251,14 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "파일 첨부…">
 <!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label		"파일 공유…">
+<!ENTITY attachCloud.accesskey		"i">
+<!ENTITY convertCloud.label		"첨부 방식 전환…">
+<!ENTITY convertCloud.accesskey		"C">
+<!ENTITY cancelUpload.label		"업로드 취소">
+<!ENTITY cancelUpload.accesskey		"n">
+<!ENTITY convertRegularAttachment.label	"일반 첨부">
+<!ENTITY convertRegularAttachment.accesskey	"A">
 <!ENTITY attachPage.label "웹 페이지 첨부…">
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY addressesSidebarTitle.label "주소록 탐색창">
