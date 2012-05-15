@@ -80,6 +80,7 @@
 <!ENTITY calendar.events.filter.today.label "Evenimentele de astăzi">
 <!ENTITY calendar.events.filter.future.label "Evenimente în viitor">
 <!ENTITY calendar.events.filter.current.label "Ziua selectată">
+<!ENTITY calendar.events.filter.currentview.label "Events in Current View">
 <!ENTITY calendar.events.filter.next7Days.label "Evenimente în următoarele 7 zile">
 <!ENTITY calendar.events.filter.next14Days.label "Evenimente în următoarele 14 zile">
 <!ENTITY calendar.events.filter.next31Days.label "Evenimente în următoarele 31 de zile">
@@ -195,6 +196,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tasks… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document: gata">
 
@@ -229,6 +234,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioritate">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Postpone Task">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -254,6 +261,16 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Mare">
 <!ENTITY priority.level.high.accesskey      "M">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Hour">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 Day">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Week">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
+
+<!ENTITY calendar.copylink.label       "Copy Link Location">
+<!ENTITY calendar.copylink.accesskey   "C">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
