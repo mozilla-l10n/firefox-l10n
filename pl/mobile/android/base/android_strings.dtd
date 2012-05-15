@@ -31,7 +31,7 @@
 <!ENTITY remote_tabs "Karty z innych urządzeń">
 <!ENTITY remote_tabs_show_all "Pokaż wszystkie karty">
 
-<!ENTITY bookmark "Dodaj zakładkę">
+<!ENTITY bookmark "Zakładka">
 <!ENTITY bookmark_added "Zakładka dodana">
 <!ENTITY bookmark_removed "Zakładka usunięta">
 <!ENTITY bookmark_updated "Zakładka uaktualniona">

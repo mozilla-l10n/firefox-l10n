@@ -4,5 +4,5 @@
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 <!ENTITY aboutApps.noApps.pre "Nie masz żadnych aplikacji. Przejdź do ">
-<!ENTITY aboutApps.noApps.middle "app store">
+<!ENTITY aboutApps.noApps.middle "sklepu">
 <!ENTITY aboutApps.noApps.post ", aby pobrać aplikacje.">
