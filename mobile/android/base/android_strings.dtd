@@ -89,10 +89,15 @@
 <!ENTITY save_as_pdf "Gardar como PDF">
 
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
-<!ENTITY contextmenu_remove_bookmark "Eliminar">
+<!ENTITY contextmenu_remove_history "Retirar">
+<!ENTITY contextmenu_remove_bookmark "Retirar">
 <!ENTITY contextmenu_add_to_launcher "Engadir á pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Retirouse a páxina">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nome">
