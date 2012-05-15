@@ -94,13 +94,13 @@
 <!ENTITY consoleErrColumn.label    "열:">
 
 <!ENTITY contextOpenInNewTab.label "새 탭에 링크 열기">
-<!ENTITY contextSaveImage.label    "그림 저장">
+<!ENTITY contextSaveImage.label    "이미지 저장">
 <!ENTITY contextCopyLink.label        "링크 복사">
 <!ENTITY contextCopyEmail.label       "메일 주소 복사">
 <!ENTITY contextCopyPhone.label       "전화 번호 복사">
 <!ENTITY contextCopyImageLocation.label  "이미지 주소 복사">
 <!ENTITY contextShareLink.label       "링크 공유">
-<!ENTITY contextShareImage.label      "그림 공유">
+<!ENTITY contextShareImage.label      "이미지 공유">
 <!ENTITY contextBookmarkLink.label    "링크 북마크">
 <!ENTITY contextSaveVideo.label       "동영상 저장">
 <!ENTITY contextShareVideo.label      "동영상 공유">

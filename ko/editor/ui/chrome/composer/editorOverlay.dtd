@@ -20,7 +20,7 @@
 <!ENTITY insertLinkCmd.key "l">
 <!ENTITY insertAnchorCmd.label "내부 링크…">
 <!ENTITY insertAnchorCmd.accesskey "A">
-<!ENTITY insertImageCmd.label "그림…">
+<!ENTITY insertImageCmd.label "이미지…">
 <!ENTITY insertImageCmd.accesskey "i">
 <!ENTITY insertHLineCmd.label "가로선">
 <!ENTITY insertHLineCmd.accesskey "o">
@@ -30,7 +30,7 @@
 <!ENTITY insertHTMLCmd.accesskey "h">
 <!ENTITY insertCharsCmd.label "문자 및 기호…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakAllCmd.label "그림 줄바꿈">
+<!ENTITY insertBreakAllCmd.label "이미지 줄바꿈">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 <!ENTITY spellCheckNoSuggestions.label "(추천할 단어가 없음)">
 <!ENTITY spellCheckIgnoreWord.label "무시할 단어">
@@ -249,8 +249,8 @@
 <!ENTITY findToolbarCmd.tooltip "페이지에서 단어 찾기">
 <!ENTITY spellToolbarCmd.label "맞춤법">
 <!ENTITY spellToolbarCmd.tooltip "선택된 모든 페이지에서 맞춤법 검사">
-<!ENTITY imageToolbarCmd.label "그림">
-<!ENTITY imageToolbarCmd.tooltip "새 그림을 삽입하거나 선택된 그림 편집">
+<!ENTITY imageToolbarCmd.label "이미지">
+<!ENTITY imageToolbarCmd.tooltip "새 이미지을 삽입하거나 선택된 이미지 편집">
 <!ENTITY hruleToolbarCmd.label "가로선">
 <!ENTITY hruleToolbarCmd.tooltip "새 가로선을 삽입하거나 선택된 가로선 편집">
 <!ENTITY tableToolbarCmd.label "표">
@@ -273,7 +273,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "내어쓰기(왼쪽으로)">
 <!ENTITY indentToolbarCmd.tooltip "들여쓰기(오른쪽으로)">
 <!ENTITY AlignPopupButton.tooltip "텍스트 맞춤 방식 선택">
-<!ENTITY InsertPopupButton.tooltip "링크 또는 그림, 가로선, 표 삽입">
+<!ENTITY InsertPopupButton.tooltip "링크 또는 이미지, 가로선, 표 삽입">
 <!ENTITY alignLeftButton.tooltip "왼쪽으로 맞춤">
 <!ENTITY alignCenterButton.tooltip "가운데로 맞춤">
 <!ENTITY alignRightButton.tooltip "오른쪽으로 맞춤">

@@ -10,7 +10,7 @@
 <!ENTITY blockPopups.accesskey "B">
 <!ENTITY popupExceptions.label "예외 목록…">
 <!ENTITY popupExceptions.accesskey "E">
-<!ENTITY loadImages.label "그림 자동으로 읽기">
+<!ENTITY loadImages.label "이미지 자동으로 읽기">
 <!ENTITY loadImages.accesskey "I">
 <!ENTITY exceptions.label "예외 목록…">
 <!ENTITY exceptions.accesskey "x">

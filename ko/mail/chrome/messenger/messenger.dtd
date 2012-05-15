@@ -738,11 +738,11 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY saveLinkAsCmd.label "다른 이름으로 링크 저장…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "다른 이름으로 그림 저장…">
+<!ENTITY saveImageAsCmd.label "다른 이름으로 이미지 저장…">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageAllCmd.label "그림 복사">
+<!ENTITY copyImageAllCmd.label "이미지 복사">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "메일 주소 복사">
 <!ENTITY copyEmailCmd.accesskey "E">
