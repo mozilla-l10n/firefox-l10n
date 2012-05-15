@@ -236,6 +236,16 @@ can reach it easily. -->
 <!ENTITY inspectorHTMLDelete.label          "Eliminar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
 
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "Opcións do Inspector">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "Reducir intensidade da páxina">
+<!ENTITY inspectorToggleVeil.accesskey      "d">
+<!ENTITY inspectorToggleInfobar.label       "Mostrar información do nodo">
+<!ENTITY inspectorToggleInfobar.accesskey   "s">
+
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
