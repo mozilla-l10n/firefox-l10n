@@ -108,6 +108,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Sidinfo">
 <!ENTITY pageInfoCmd.accesskey "d">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Aktivera helskärm">
+<!ENTITY enterFullScreenCmd.accesskey "h">
+<!ENTITY exitFullScreenCmd.label "Stäng helskärm">
+<!ENTITY exitFullScreenCmd.accesskey "h">
 <!ENTITY fullScreenCmd.label "Helskärm">
 <!ENTITY fullScreenCmd.accesskey "H">
 <!ENTITY fullScreenCmd.macCommandKey "f">
