@@ -46,6 +46,9 @@
 
 <!ENTITY close_tab "Stäng flik">
 <!ENTITY new_tab "Ny flik">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d flikar">
 <!ENTITY new_tab_opened "Ny flik öppnades">
 
 <!ENTITY settings "Inställningar">
