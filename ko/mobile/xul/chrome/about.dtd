@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "&brandShortName;관하여">
+<!ENTITY aboutPage.warningVersion               "&brandShortName;는 시험 버전으로 불안정할 수 있습니다.">
+<!ENTITY aboutPage.telemetryStart               "&brandShortName; 성능 개선을 위해 문제점, 하드웨어 사양, 사용 현황 및 설정을 자동으로 ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " 에 보냅니다.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "고객 지원">
 <!ENTITY aboutPage.privacyPolicy.label          "개인 정보 정책">

@@ -4,7 +4,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;를 시작하기에 용량이 너무 작습니다.">
 <!ENTITY  error_loading_file "&brandShortName; 시작하는 중에 오류가 생겼습니다.">
 
-<!ENTITY  awesomebar_all_pages_title "자주 방문 사이트">
+<!ENTITY  awesomebar_all_pages_title "전체">
 <!ENTITY  awesomebar_bookmarks_title "북마크">
 <!ENTITY  awesomebar_history_title "방문기록">
 <!ENTITY  awesomebar_search_engine "\&quot;&#037;s\&quot; 검색">
@@ -114,7 +114,7 @@
 <!ENTITY abouthome_addons_browse "&brandShortName; 부가 기능 전체 목록">
 <!ENTITY abouthome_last_tabs_title "마지막 닫은 탭">
 <!ENTITY abouthome_last_tabs_open "마지막 닫은 탭 모두 열기">
-<!ENTITY abouthome_top_sites_title "자주 방문 사이트">
+<!ENTITY abouthome_top_sites_title "상위사이트">
 <!ENTITY abouthome_top_sites_browse "자주 방문 사이트 모두 보기">
 <!ENTITY abouthome_no_top_sites "자주 방문 하는 사이트가 없습니다. 주소창을 선택하고 웹 사이트를 방문하세요.">
 <!ENTITY abouthome_about_sync "Firefox Sync를 설정하여, 다른 기기로부터 북마크나 방문 기록, 탭 정보 등을 가져올 수 있습니다.">
