@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# robyerevan <robyerevan@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY doNotDownloadPop3Movemail.label "Ազատ տեղ ունենալու համար մի ներբեռնեք.">
 <!ENTITY doNotDownloadNntp.label "Ազատ տեղ ունենալու համար մի ներբեռնեք նամակները.">
 <!ENTITY doNotDownloadImap.label "Ազատ տեղ ունենալու համար նամակների բեռնումը սպասարկիչից և լոկալ օրինակների պահումը՝ ցանցից դուրս օգտ. համար կարող է սահմանափակել ըստ ժամկետի կամ չափի։">

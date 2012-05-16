@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# issuart <issuart@yahoo.com>
+# robyerevan <robyerevan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY autoconfigWizard.title          "Փոստարկղի կարգավորումներ">
 <!ENTITY name.label                      "Ձեր անունը.">
 <!ENTITY name.accesskey                  "n">
@@ -62,11 +77,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Ես հասկանում եմ ռիսկերը։">
 <!ENTITY confirmWarning.accesskey        "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Ստեղծել փոստարկղ">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY doneAccount.label               "Պատրաստ է">
+<!ENTITY doneAccount.accesskey           "Պ">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

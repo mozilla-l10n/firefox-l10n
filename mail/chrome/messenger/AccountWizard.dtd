@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# armenzg <armenzg@gmail.com>
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Փոստարկղի Վարպետ">
@@ -93,7 +107,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ձեր ելքային (SMTP) սպասարկիչը, &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
+<!ENTITY haveSmtp3.suffix3 "&quot;,-ը հավասարազոր է մուտքային սպասարկիչին, մուտք գործելու համար կօգտագործվի օգտվողի Ձեր անունը։">
 
 <!-- Entities for Account name page -->
 

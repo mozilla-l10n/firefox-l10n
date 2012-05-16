@@ -1,20 +1,33 @@
-<!ENTITY emailSectionHdr.label        "Էլ. նամակ"> 
-<!ENTITY readMsgsLink.label           "Կարդալ նամակներ"> 
-<!ENTITY composeMsgLink.label         "Գրեմ նոր նամակ"> 
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!ENTITY emailSectionHdr.label        "Էլ. նամակ">
+<!ENTITY readMsgsLink.label           "Կարդալ նամակներ">
+<!ENTITY composeMsgLink.label         "Գրեմ նոր նամակ">
 
-<!ENTITY newsSectionHdr.label         "Նորություններ"> 
-<!ENTITY subscribeNewsLink.label      "Կառավարել բաժանորդագրությունները"> 
-
-<!ENTITY accountsSectionHdr.label     "Փոստարկղեր"> 
-<!ENTITY subscribeImapFolders.label   "Կառավարել բաժանորդագրությունները">
-<!ENTITY settingsLink.label           "Փոստարկղի մանրամասները"> 
-<!ENTITY newAcctLink.label            "Ստեղծել նոր փոստարկղ"> 
-
-<!ENTITY advFeaturesSectionHdr.label  "Ընդլայնած հնարավ."> 
-<!ENTITY searchMsgsLink.label         "Փնտրել նամակներ"> 
-<!ENTITY filtersLink.label            "Կառավարել նամակի ֆիլտրերը">
-<!ENTITY junkSettings.label           "Խլամ նամակի կարգավորումներ">
-<!ENTITY offlineLink.label            "Անցանց կարգավորումներ">
+<!ENTITY newsSectionHdr.label         "Նորություններ">
+<!ENTITY subscribeNewsLink.label      "Կառավարել բաժանորդագրությունները">
 
 <!ENTITY feedsSectionHdr.label        "Շղթաներ">
 <!ENTITY subscribeFeeds.label         "Կառավարել բաժանորդագրությունները">
+
+<!ENTITY accountsSectionHdr.label     "Փոստարկղեր">
+<!ENTITY subscribeImapFolders.label   "Կառավարել բաժանորդագրությունները">
+<!ENTITY settingsLink.label           "Փոստարկղի մանրամասները">
+<!ENTITY newAcctLink.label            "Ստեղծել նոր փոստարկղ">
+
+<!ENTITY advFeaturesSectionHdr.label  "Ընդլայնած հնարավ.">
+<!ENTITY searchMsgsLink.label         "Փնտրել նամակներ">
+<!ENTITY filtersLink.label            "Կառավարել նամակի ֆիլտրերը">
+<!ENTITY junkSettings.label           "Խլամ նամակի կարգավորումներ">
+<!ENTITY offlineLink.label            "Անցանց կարգավորումներ">

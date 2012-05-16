@@ -1,5 +1,18 @@
-<!ENTITY junkLog.title "Խլամ նամակի մատյանը">
-<!ENTITY junkLogInfo.label "Խլամ նամակի ղեկավարման մատյանը։">
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
+<!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
 <!ENTITY clearLog.label "Մաքրել մատյանը">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY closeLog.label "Փակել">

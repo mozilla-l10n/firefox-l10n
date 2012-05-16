@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# issuart <issuart@yahoo.com>
+# robyerevan <robyerevan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY messengerStartPage.label         "&brandShortName;-ի մեկնարկային էջը">
 <!ENTITY enableStartPage.label            "&brandShortName;-ը բացելիս ցուցադրել Մեկնարկային էջը">
 <!ENTITY enableStartPage.accesskey        "W">

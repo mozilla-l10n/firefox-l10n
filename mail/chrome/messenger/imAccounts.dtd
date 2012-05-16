@@ -1,6 +1,21 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# armenzg <armenzg@gmail.com>
+# robyerevan <robyerevan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# armenzg <armenzg@gmail.com>
+#
+-->
 <!ENTITY accountsWindow.title                "Գրության կարգը">
 <!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
-<!ENTITY accountManager.newAccount.label     "Նոր փոստարկղ">
+<!ENTITY accountManager.newAccount.label     "Նոր հաշվեկշիռ">
 <!ENTITY accountManager.newAccount.accesskey "Ն">
 <!ENTITY accountManager.close.label          "Փակել">
 <!ENTITY accountManager.close.accesskey      "Փ">

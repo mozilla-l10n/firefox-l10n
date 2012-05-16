@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# armenzg <armenzg@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY appManager.title     "Ծրագրի մանրամասները">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Ջնջել">

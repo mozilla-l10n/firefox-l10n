@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# armenzg <armenzg@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# armenzg <armenzg@gmail.com>
+#
+-->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
@@ -6,7 +20,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Փոստարկղի անունը.">
 <!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
-<!ENTITY addAccountDialog.createAccountText "This feature allows you to send large attachments using one of several online storage services. You can either connect to an existing account, or sign up for a new account.">
+<!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
 <!ENTITY addAccountDialog.authorizing "Վավերացման ստուգում...">
 <!ENTITY addAccountDialog.error "Սխալ՝ փոստարկղը կարգավորելիս։">
 <!ENTITY addAccountDialog.acceptButton.label "Փոստարկղի կարգավորում">
+<!ENTITY addAccountDialog.learnMore "Learn more…">

@@ -1,15 +1,28 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# robyerevan <robyerevan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
 <!ENTITY onlineContactsHeader.label    "Առցանց">
 <!ENTITY offlineContactsHeader.label   "Անցանց">
 <!ENTITY conversationsHeader.label     "Երկխոսություններ">
 <!ENTITY searchResultConversation.label "Փնտրման արդյունքը">
 <!ENTITY chat.noConv.title             "Երկխոսությունները կցուցադրվեն այստեղ։">
-<!ENTITY chat.noConv.description       "Use the contact list in the left panel to start a conversation.">
+<!ENTITY chat.noConv.description       "Զրույցը սկսելու համար օգտագործեք ձախում գտնվող անձանց ցանկը։">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName;-ը չունի որևէ երկխոսություն։">
 <!ENTITY chat.noAccount.title             "Փոստարկղեր չկան։">
-<!ENTITY chat.noAccount.description       "Let &brandShortName; guide you through the process of setting up your chat account.">
+<!ENTITY chat.noAccount.description       "Թույլատրեք &brandShortName;-ին ուղեկցել Ձեզ հաշվեկշիռը կարգավորելու ընթացքում:">
 <!ENTITY chat.accountWizard.button       "Սկիզբը">
-<!ENTITY chat.noConnectedAccount.title             "Your chat accounts are not connected.">
-<!ENTITY chat.noConnectedAccount.description       "You can connect them from the 'Chat status' dialog:">
+<!ENTITY chat.noConnectedAccount.title             "Հաշվեկշիռները միացված չեն:">
+<!ENTITY chat.noConnectedAccount.description       "Կարող եք միանալ 'Զրույցի վիճակը' պատուհանից:">
 <!ENTITY chat.showAccountManager.button       "Ցուցադրել զրույցի վիճակը">
 
 <!ENTITY chat.participants             "Մասնակիցներ.">
@@ -22,15 +35,15 @@
 <!ENTITY closeConversationCmd.accesskey "Ա">
 <!ENTITY aliasCmd.label                "Անվանափոխել">
 <!ENTITY aliasCmd.accesskey            "Ա">
-<!ENTITY deleteCmd.label               "Remove Contact">
-<!ENTITY deleteCmd.accesskey           "v">
+<!ENTITY deleteCmd.label               "Ջնջել կապը">
+<!ENTITY deleteCmd.accesskey           "Ջ">
 
 <!ENTITY openConversationButton.tooltip  "Սկսել երկխոսությունը">
 <!ENTITY closeConversationButton.tooltip "Փակել երկխոսությունը">
 
-<!ENTITY addBuddyButton.label          "Add Contact">
+<!ENTITY addBuddyButton.label          "Ավելացնել օգտվող">
 <!ENTITY joinChatButton.label          "Միանալ Զրույցին">
-<!ENTITY chatAccountsButton.label      "Ցուցադրել փոստարկղերը">
+<!ENTITY chatAccountsButton.label      "Ցուցադրել օգտվողներին">
 
 <!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
      This is the base of the empty text for the chat search box.  We replace

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
 <!ENTITY toAddr.label   "Ում."> 

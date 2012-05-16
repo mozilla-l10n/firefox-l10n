@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# robyerevan <robyerevan@gmail.com>
+# Hrant <hrantohanyan@mail.am>
+# Lilit Mantashyan <lilmantashyan@rambler.ru>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
 <!ENTITY testpilot.brand.label                          "Փորձարար">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                       "Կարգավորումներ">

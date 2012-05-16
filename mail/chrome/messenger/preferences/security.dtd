@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# robyerevan <robyerevan@gmail.com>
+# issuart <issuart@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemJunk.label          "Խլամ">
 <!ENTITY itemPhishing.label      "Էլ. խաբկանք">
 <!ENTITY itemPasswords.label     "Գաղտնաբառեր">
@@ -14,8 +29,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Նշել խլամ նամակները որպես կարդացած">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Վարել խլամի ֆիլտրի մատյան">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Ցուցադրել մատյանը">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Ետարկել ուսուցման տվյալը">

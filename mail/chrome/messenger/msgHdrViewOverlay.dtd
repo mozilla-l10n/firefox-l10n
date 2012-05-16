@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# robyerevan <robyerevan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -65,6 +79,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Պատ. ուղարկողին և մյուսներին">
 <!ENTITY hdrReplyListButton1.label "Պատաս-ի ցանկը">
 <!ENTITY hdrReplyListButton1.tooltip "Պատաս. ցանկին">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
 <!ENTITY hdrForwardButton1.label "Փոխանցել">
 <!ENTITY hdrForwardButton1.tooltip "Փոխանցել նամակը">
 <!ENTITY hdrJunkButton1.label "Խլամ">
