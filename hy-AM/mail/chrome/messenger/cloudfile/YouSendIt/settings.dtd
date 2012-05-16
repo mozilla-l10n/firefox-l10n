@@ -1,5 +1,18 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY youSendItSettings.username "Մականուն.">
 <!ENTITY youSendItSettings.needAnAccount "Անհրաժեշտ է փոստարկղ ">
+<!ENTITY youSendItSettings.learnMore "Learn more…">

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY viewLog.title "Ֆիլտրի մատյանը">
 <!ENTITY viewLogInfo.text "Ֆիլտրի մատյանի ֆայլերը պարունակում են այս փոստարկղի բացված ֆիլտրերը։ Ընտրեք՝ միացնելու համար։">
 <!ENTITY clearLog.label "Մաքրել մատյանը">

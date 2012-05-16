@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# Xelgen <xelgen.am@gmail.com>
+# robyerevan <robyerevan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Փնտրել նամակները՝">
 <!ENTITY searchHeading.accesskey     "h">

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title  "Խլամ նամակի մասին">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName;-ը միանգամից ջնջում է մուտքային նամակները, որոնք որակվում են որպես խլամ։ Նամակները, որոնք &brandShortName;-ը որակում է որպես խլամ, կցուցադրվի խլամի պատկերով։">

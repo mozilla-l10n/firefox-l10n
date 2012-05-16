@@ -1,5 +1,16 @@
-<!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
-
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY biffStart.label "Ստուգել թարմացումները յուրաքանչյուր՝">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "րոպե">

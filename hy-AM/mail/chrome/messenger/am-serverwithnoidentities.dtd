@@ -1,11 +1,15 @@
-<!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
-<!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։ Չկան որոշակի ասոցիացումներ։">
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY accountName.label "Փոստարկղի անունը.">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Նամակների կրիչը">
-<!ENTITY emptyTrashOnExit.label "Փակելիս դատարկել Աղբարկղը">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY localPath.label "Լոկալ թղթապանակը.">
-<!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
-<!ENTITY browseFolder.label "Ընտրել…">
-<!ENTITY browseFolder.accesskey "B">

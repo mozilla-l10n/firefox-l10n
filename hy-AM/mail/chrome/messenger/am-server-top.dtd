@@ -1,5 +1,21 @@
+<!--
+# Translator(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# robyerevan <robyerevan@gmail.com>
+# issuart <issuart@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Hrant <hrantohanyan@mail.am>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Նամակների կրիչը">
 <!ENTITY securitySettings.label "Անվտ. կարգավորումներ">
 <!ENTITY serverSettings.label "Սպասարկիչի կարգավորումներ">
 <!ENTITY serverType.label "Սպասարկիչի տեսակը.">
@@ -21,7 +37,7 @@
 <!ENTITY connectionSecurity.label "Միացման անվտանգությունը.">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Ոչինչ">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, եթե հասանելի է">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Վավերացման եղանակը.">
@@ -63,16 +79,19 @@
 <!ENTITY alwaysAuthenticate.label "Սպասարկիչին միանալիս միշտ պահանջել վավերացում">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY localPath.label "Լոկալ թղթապանակը.">
+<!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY abbreviate.label "Ցուցադրել նորութ. անունները Նամակի թղթապանակում որպես.">
 <!ENTITY abbreviateOn.label "Անունները (օրինակ՝ 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Գրանշանների ծրագրային կոդավորումը.">
+<!ENTITY localPath.label "Լոկալ թղթապանակը.">
 <!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY browseNewsrc.label "Ընտրել…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
+<!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։ Չկան որոշակի ասոցիացումներ։">
