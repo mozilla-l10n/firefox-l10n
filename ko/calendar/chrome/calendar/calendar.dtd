@@ -60,7 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "오늘의 이벤트">
 <!ENTITY calendar.events.filter.future.label "이후의 모든 이벤트">
 <!ENTITY calendar.events.filter.current.label "선택한 일자의 이벤트">
-<!ENTITY calender.events.filter.currentview.label	"현재 일자의 이벤트">
+<!ENTITY calendar.events.filter.currentview.label	"현재 일자의 이벤트">
 <!ENTITY calendar.events.filter.next7Days.label "다음 7일간의 이벤트">
 <!ENTITY calendar.events.filter.next14Days.label "다음 14일간의 이벤트">
 <!ENTITY calendar.events.filter.next31Days.label "다음 31일간의 이벤트">
@@ -244,6 +244,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey	"D">
 <!ENTITY calendar.context.postpone.1week.label		"일주일">
 <!ENTITY calendar.context.postpone.1week.accesskey	"W">
+
+<!ENTITY calendar.copylink.label			"링크 앞 URL 복사">
+<!ENTITY calendar.copylink.accesskey			"C">
 
 <!ENTITY calendar.taskview.delete.label			"삭제">
 <!ENTITY calendar.taskview.delete.accesskey		"l">

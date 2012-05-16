@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "링크 추가…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "시간대">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                   "시간대 표시">
+<!ENTITY  event.menu.options.timezone2.accesskey               "z">
 <!ENTITY  event.menu.options.priority2.label                  "중요도">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "지정 안됨">
