@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Vnesi naslov">
-<!ENTITY webapps.permissions "Dovoli dostop:">
-<!ENTITY webapps.perm.geolocation "Lokacijsko zavedno brskanje">
-<!ENTITY webapps.perm.offline "Shramba podatkov brez povezave">
-<!ENTITY webapps.perm.notifications "Obvestila na namizju">
-<!ENTITY webapps.perm.requestedHint "(zahtevano)">
-<!ENTITY webapps.add-homescreen "Dodaj na domači zaslon">
