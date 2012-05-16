@@ -47,42 +47,42 @@
    - provide them with some default functionality, like the standard OS
    - menus/menuitems. -->
 
-<!ENTITY fileMenu.label                     "File">
-<!ENTITY fileMenu.accesskey                 "F">
+<!ENTITY fileMenu.label                     "Ֆայլ">
+<!ENTITY fileMenu.accesskey                 "Ֆ">
 
-<!ENTITY quitApplicationCmdWin.label        "Exit">
-<!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "Quit">
-<!ENTITY quitApplicationCmd.accesskey       "Q">
+<!ENTITY quitApplicationCmdWin.label        "Փակել">
+<!ENTITY quitApplicationCmdWin.accesskey    "Փ">
+<!ENTITY quitApplicationCmd.label           "Փակել">
+<!ENTITY quitApplicationCmd.accesskey       "Փ">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
    - of the webapp in the labels without creating a DTD file for it. -->
 <!ENTITY quitApplicationCmdMac.key          "Q">
 <!ENTITY hideThisAppCmdMac.key              "H">
-<!ENTITY hideOtherAppsCmdMac.label          "Hide Others">
-<!ENTITY hideOtherAppsCmdMac.key            "H">
-<!ENTITY showAllAppsCmdMac.label            "Show All">
+<!ENTITY hideOtherAppsCmdMac.label          "Թաքցնել մնացածը">
+<!ENTITY hideOtherAppsCmdMac.key            "Թ">
+<!ENTITY showAllAppsCmdMac.label            "Ցուցադրել բոլորը">
 
-<!ENTITY editMenu.label                     "Edit">
-<!ENTITY editMenu.accesskey                 "E">
-<!ENTITY undoCmd.label                      "Undo">
-<!ENTITY undoCmd.key                        "Z">
-<!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "Redo">
-<!ENTITY redoCmd.key                        "Y">
-<!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "Cut">
-<!ENTITY cutCmd.key                         "X">
-<!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "Copy">
-<!ENTITY copyCmd.key                        "C">
-<!ENTITY copyCmd.accesskey                  "C">
-<!ENTITY pasteCmd.label                     "Paste">
-<!ENTITY pasteCmd.key                       "V">
-<!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "Delete">
-<!ENTITY deleteCmd.key                      "D">
-<!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "Select All">
-<!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "A">
+<!ENTITY editMenu.label                     "Խմբագրել">
+<!ENTITY editMenu.accesskey                 "Խ">
+<!ENTITY undoCmd.label                      "Հետ">
+<!ENTITY undoCmd.key                        "Հ">
+<!ENTITY undoCmd.accesskey                  "Հ">
+<!ENTITY redoCmd.label                      "Կրկնել">
+<!ENTITY redoCmd.key                        "Կ">
+<!ENTITY redoCmd.accesskey                  "Կ">
+<!ENTITY cutCmd.label                       "Կտրել">
+<!ENTITY cutCmd.key                         "Կ">
+<!ENTITY cutCmd.accesskey                   "Կ">
+<!ENTITY copyCmd.label                      "Պատճենել">
+<!ENTITY copyCmd.key                        "Պ">
+<!ENTITY copyCmd.accesskey                  "Պ">
+<!ENTITY pasteCmd.label                     "Տեղադրել">
+<!ENTITY pasteCmd.key                       "Տ">
+<!ENTITY pasteCmd.accesskey                 "Տ">
+<!ENTITY deleteCmd.label                    "Ջնջել">
+<!ENTITY deleteCmd.key                      "Ջ">
+<!ENTITY deleteCmd.accesskey                "Ջ">
+<!ENTITY selectAllCmd.label                 "Նշել Ամբողջը">
+<!ENTITY selectAllCmd.key                   "Ն">
+<!ENTITY selectAllCmd.accesskey             "Ն">

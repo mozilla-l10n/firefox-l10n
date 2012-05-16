@@ -64,8 +64,8 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Հաշվեհամարի Մանրամասներ">
 <!ENTITY setup.emailAddress.label     "էլ­-Փոստի հասցեն">
 <!ENTITY setup.emailAddress.accesskey "է">
-<!ENTITY setup.choosePassword.label      "Choose a Password">
-<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.choosePassword.label      "Ընտրեք Գաղտնաբառ">
+<!ENTITY setup.choosePassword.accesskey  "Ը">
 <!ENTITY setup.confirmPassword.label     "Հաստատել գաղտնաբառը">
 <!ENTITY setup.confirmPassword.accesskey "Հ">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are

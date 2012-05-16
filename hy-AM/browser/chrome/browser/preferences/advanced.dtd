@@ -56,8 +56,8 @@
 <!ENTITY useAutoScroll.accesskey         "Օ">
 <!ENTITY useSmoothScrolling.label        "Օգտագործել կոկիկ սահքաթերթումը">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY allowHWAccel.label              "Օգտագործել սարքավորումային արագացումը, երբ առկա է">
+<!ENTITY allowHWAccel.accesskey          "Օ">
 <!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգիր ուղղագրությունը">
 <!ENTITY checkSpelling.accesskey         "Տ">
 

@@ -122,7 +122,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Դիտարկիչը կանխել է այս էջի բացումը, քանզի էջը պարունակում է անվտանգության քաղաքականությունը մերժող բովանդակություն։</p>">
 
 <!ENTITY corruptedContentError.title "Բովանդակությունը վնասված է">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրվել, քանզի տեղի է ունեցնել փոխանցման սխալ։</p><ul><li>Կապնվեք վեբ կայիք հեղինակների հետ՝ նրանց այս մասին հաղորդելու համար։</li></ul>">
 
 <!ENTITY remoteXUL.title "Հեռավոր XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
