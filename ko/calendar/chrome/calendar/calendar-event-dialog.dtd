@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "링크 추가…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "시간대">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                   "시간대 표시">
+<!ENTITY  event.menu.options.timezone2.accesskey               "z">
 <!ENTITY  event.menu.options.priority2.label                  "중요도">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "지정 안됨">
@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "다음 슬롯 " >
 <!ENTITY event.freebusy.previous.slot           "이전 슬롯" >
 <!ENTITY event.freebusy.zoom                    "확대:">
-<!ENTITY event.freebusy.plus                    "다음 시간" >
-<!ENTITY event.freebusy.minus                   "이전 시간" >
 <!ENTITY event.freebusy.legend.free             "일정 없음" >
 <!ENTITY event.freebusy.legend.busy             "일정 있음" >
 <!ENTITY event.freebusy.legend.busy_tentative   "임시" >

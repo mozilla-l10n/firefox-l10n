@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "폼 필드 설정">
-<!ENTITY windowTitleImage.label "폼 그림 설정">
+<!ENTITY windowTitleImage.label "폼 이미지 설정">
 <!ENTITY InputType.label "필드 형식">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "글자">
@@ -45,7 +45,7 @@
 <!ENTITY reset.value "취소 버튼">
 <!ENTITY file.value "파일">
 <!ENTITY hidden.value "숨김">
-<!ENTITY image.value "그림">
+<!ENTITY image.value "이미지">
 <!ENTITY button.value "버튼">
 <!ENTITY InputSettings.label "필드 설정">
 <!ENTITY InputName.label "필드명:">
@@ -74,5 +74,5 @@
 <!ENTITY AccessKey.accesskey "K">
 <!ENTITY Accept.label "형식 허용:">
 <!ENTITY Accept.accesskey "A">
-<!ENTITY ImageProperties.label "그림 설정…">
+<!ENTITY ImageProperties.label "이미지 설정…">
 <!ENTITY ImageProperties.accesskey "E">

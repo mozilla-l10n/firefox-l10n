@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label		"&brandShortName; 시작시:">
+<!ENTITY  startupAction.accesskey	"s">
+<!ENTITY  startupOffline.label		"채팅 계정을 오프 라인">
+<!ENTITY  startupConnectAuto.label	"채팅 계정을 자동 접속">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label		"자리비움 상태가 "><!-- en-US: "Let my contacts know that I am Idle after" -->
+<!ENTITY  reportIdleAfter.accesskey	"I">
+<!ENTITY  idleTime			"분간 계속 되면 상대에게 알림"><!-- en-US: "minutes of inactivity" -->
+
+<!ENTITY  andSetStatusToAway.label	"아래 메세지를 보내고 자리 비움 상태로 바꿈:">
+<!ENTITY  andSetStatusToAway.accesskey	"A">
+
+<!ENTITY  sendTyping.label		"대화 중 입력 중이라는 상태 전송">
+<!ENTITY  sendTyping.accesskey		"t">

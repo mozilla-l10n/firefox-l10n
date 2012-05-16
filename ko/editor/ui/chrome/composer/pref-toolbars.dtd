@@ -45,7 +45,7 @@
 <!ENTITY paste.label "붙여넣기">
 <!ENTITY print.label "인쇄">
 <!ENTITY find.label "찾기">
-<!ENTITY image.label "그림">
+<!ENTITY image.label "이미지">
 <!ENTITY hline.label "구분자">
 <!ENTITY table.label "표">
 <!ENTITY link.label "링크">

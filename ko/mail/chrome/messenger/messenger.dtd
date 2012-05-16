@@ -21,6 +21,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "기존 메일 계정…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label			"채팅 계정…">
+<!ENTITY newIMAccountCmd.accesskey		"C">
 <!ENTITY openMessageFileCmd.label "메시지 열기…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "첨부">
@@ -85,7 +87,7 @@
 <!ENTITY deleteFolderCmd.label "폴더 삭제">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "구독 해지">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "선택">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "모두">
@@ -314,6 +316,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY goBackCmd.label "뒤로">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label		"채팅">
+<!ENTITY goChatCmd.accesskey		"c">
+<!ENTITY goChatCmd.commandKey		"C">
 <!ENTITY prevStarredMsgCmd.label "별표 메시지">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "폴더">
@@ -321,6 +326,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY thisFolder.label "현재 폴더">
 <!ENTITY thisFolder.accesskey "F">
 <!ENTITY goRecentlyClosedTabs.label "최근에 닫은 탭">
+<!ENTITY goRecentlyClosedTabs.accesskey	"R">
 <!ENTITY startPageCmd.label		"시작 페이지">
 <!ENTITY startPageCmd.accesskey		"S">
 
@@ -455,7 +461,11 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY fileButton.label "파일">
 <!ENTITY archiveButton.label "보관">
 <!ENTITY nextButton.label "다음">
-<!ENTITY previousButton.label "이전">
+<!ENTITY nextButtonToolbarItem.label	"다음 항목">
+<!ENTITY nextMsgButton.label		"다음 메시지">
+<!ENTITY previousButton.label		"이전">
+<!ENTITY previousButtonToolbarItem.label	"이전 항목">
+<!ENTITY previousMsgButton.label	"이전 메시지">
 <!ENTITY backButton1.label "뒤로">
 <!ENTITY goForwardButton1.label "앞으로">
 <!ENTITY deleteItem.title "삭제">
@@ -469,6 +479,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY junkButton.label "스팸">
 <!ENTITY notJunkButton.label "정상">
 <!ENTITY addressBookButton.label "주소록">
+<!ENTITY chatButton.label		"채팅">
 <!ENTITY glodaSearch.title "전체 검색">
 <!ENTITY advancedButton.tooltip "고급 메시지 검색">
 <!ENTITY getMsgButton.tooltip "새 메시지 받기">
@@ -482,7 +493,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY fileButton.tooltip "선택한 메시지 파일">
 <!ENTITY archiveButton.tooltip "선택한 메시지 보관">
 <!ENTITY nextButton.tooltip "다음 읽지 않은 메일로 이동">
+<!ENTITY nextMsgButton.tooltip		"다음 메세지로 이동">
 <!ENTITY previousButton.tooltip "읽지 않은 이전 메시지로 이동">
+<!ENTITY previousMsgButton.tooltip		"이전 메세지로 이동">
 <!ENTITY goForwardButton.tooltip "한 메시지 앞으로 가기">
 <!ENTITY goBackButton.tooltip "한 메시지 뒤로 가기">
 <!ENTITY deleteButton.tooltip "선택한 메시지나 폴더 삭제">
@@ -493,6 +506,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY junkButton.tooltip "선택한 메시지를 스팸 메일로 설정">
 <!ENTITY notJunkButton.tooltip "선택한 메시지를 정상 메일로 설정">
 <!ENTITY addressBookButton.tooltip "주소록 열기">
+<!ENTITY chatButton.tooltip		"채팅 열기">
 <!ENTITY folderColumn.label "이름">
 <!ENTITY folderSizeColumn.label "크기">
 <!ENTITY folderContextOpenNewWindow.label "새로 열기">
@@ -624,9 +638,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY quickSearchCmd.key "k">
 
-<!ENTITY searchAllMessages.label.base	"모든 메세지 검색... #1">
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY search.label.base	"검색… #1">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 
 <!ENTITY AddToAddressBook.label "주소록에 추가…">
 <!ENTITY AddToAddressBook.accesskey "B">
@@ -681,6 +695,12 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "메시지 작업 관리">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label		"채팅 상태">
+<!ENTITY imAccountsStatus.accesskey	"C">
+<!ENTITY imStatus.available		"이용 가능">
+<!ENTITY imStatus.unavailable		"이용 불가">
+<!ENTITY imStatus.offline		"오프라인">
+<!ENTITY imStatus.showAccounts		"계정 표시…">
 <!ENTITY savedFiles.label "저장된 파일">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -737,11 +757,11 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY saveLinkAsCmd.label "다른 이름으로 링크 저장…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "다른 이름으로 그림 저장…">
+<!ENTITY saveImageAsCmd.label "다른 이름으로 이미지 저장…">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageAllCmd.label "그림 복사">
+<!ENTITY copyImageAllCmd.label "이미지 복사">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "메일 주소 복사">
 <!ENTITY copyEmailCmd.accesskey "E">

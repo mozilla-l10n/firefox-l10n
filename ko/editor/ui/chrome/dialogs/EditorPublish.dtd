@@ -48,10 +48,10 @@
 <!ENTITY newSiteButton.accesskey  "N">
 <!ENTITY docDirList.label         "이 페이지의 하위디렉토리:">
 <!ENTITY docDirList.accesskey     "S">
-<!ENTITY docDirList.tooltip       "이 페이지를위한 원격 하위 디렉토리의 이름을 선택하거나 입력하십시오.">
-<!ENTITY publishImgCheckbox.label "그림과 다른 파일도 포함">
+<!ENTITY docDirList.tooltip       "이 페이지를 위한 원격 하위 디렉토리의 이름을 선택하거나 입력하십시오.">
+<!ENTITY publishImgCheckbox.label "이미지와 다른 파일도 포함">
 <!ENTITY publishImgCheckbox.accesskey "o">
-<!ENTITY publishImgCheckbox.tooltip "이 페이지에 참조된 그림과 다른 파일도 출판">
+<!ENTITY publishImgCheckbox.tooltip "이 페이지에 참조된 이미지와 다른 파일도 출판">
 <!ENTITY sameLocationRadio.label  "같은 위치사용">
 <!ENTITY sameLocationRadio.accesskey "U">
 <!ENTITY sameLocationRadio.tooltip "페이지와 같은 위치로 파일 출판">

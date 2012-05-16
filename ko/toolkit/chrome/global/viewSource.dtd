@@ -62,3 +62,8 @@
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label		"링크 주소 복사">
+<!ENTITY copyLinkCmd.accesskey		"L">
+<!ENTITY copyEmailCmd.label		"메일 주소 복사">
+<!ENTITY copyEmailCmd.accesskey		"E">
