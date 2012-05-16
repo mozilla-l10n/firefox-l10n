@@ -84,14 +84,19 @@
 <!ENTITY char_encoding "Encodage de caractères">
 
 <!ENTITY share "Partager">
-<!ENTITY save_as_pdf "Enregistrer en PDF">
 <!ENTITY share_title "Partager à l\u0027aide de">
+<!ENTITY save_as_pdf "Enregistrer en PDF">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
+<!ENTITY contextmenu_remove_history "Supprimer">
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
+
+<!-- Localization note (history_removed) : Shown in a toast notification
+     after a page is removed from browser history. -->
+<!ENTITY history_removed "Page supprimée">
 
 <!ENTITY bookmark_edit_title "Modifier le marque-page">
 <!ENTITY bookmark_edit_name "Nom">
