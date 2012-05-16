@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "이름 입력">
-<!ENTITY webapps.permissions "접근 허가:">
-<!ENTITY webapps.perm.geolocation "위치 인식 기능">
-<!ENTITY webapps.perm.offline "오프라인 저장소">
-<!ENTITY webapps.perm.notifications "데스크톱 알림">
-<!ENTITY webapps.perm.requestedHint "(요청함)">
-<!ENTITY webapps.add-homescreen	"홈 화면에 추가">

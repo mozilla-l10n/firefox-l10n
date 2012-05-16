@@ -70,3 +70,4 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '하나의 &syncBrand.fullName.label; 계정만이 지원되고 있습니다.'>
+<!ENTITY sync.new.recoverykey.status.incorrect '복원키가 올바르지는 않습니다. 다시 시도해 주십시오.'>
