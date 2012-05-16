@@ -19,7 +19,7 @@
 
 <!ENTITY optionsGroup.label "설정">
 
-<!ENTITY printBG.label "배경 인쇄 (색상 및 그림)">
+<!ENTITY printBG.label "배경 인쇄 (색상 및 이미지)">
 <!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab "여백 및 머리글/바닥글">

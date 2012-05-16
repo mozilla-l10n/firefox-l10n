@@ -256,15 +256,15 @@ can reach it easily. -->
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "프레임 등록 정보">
 <!ENTITY viewFrameInfoCmd.accesskey "I">
-<!ENTITY reloadImageCmd.label         "그림 다시 읽기">
+<!ENTITY reloadImageCmd.label         "이미지 다시 읽기">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label "그림 보기">
+<!ENTITY viewImageCmd.label "이미지 보기">
 <!ENTITY viewImageCmd.accesskey "I">
-<!ENTITY viewImageInfoCmd.label       "그림 정보 보기">
+<!ENTITY viewImageInfoCmd.label       "이미지 정보 보기">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "동영상 보기">
 <!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label "배경 그림 보기">
+<!ENTITY viewBGImageCmd.label "배경 이미지 보기">
 <!ENTITY viewBGImageCmd.accesskey "w">
 <!ENTITY setDesktopBackgroundCmd.label "배경으로 지정…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "S">
@@ -285,13 +285,13 @@ can reach it easily. -->
 <!ENTITY saveLinkCmd.accesskey "k">
 <!ENTITY sendLinkCmd.label "메일로 링크 보내기…">
 <!ENTITY sendLinkCmd.accesskey "d">
-<!ENTITY saveImageCmd.label "다른 이름으로 그림 저장…">
+<!ENTITY saveImageCmd.label "다른 이름으로 이미지 저장…">
 <!ENTITY saveImageCmd.accesskey "v">
 <!ENTITY saveVideoCmd.label           "다른 이름으로 동영상 저장…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "다른 이름으로 오디오 저장…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label 			"그림 보내기…">
+<!ENTITY sendImageCmd.label 			"이미지 보내기…">
 <!ENTITY sendImageCmd.accesskey 		"n">
 <!ENTITY sendVideoCmd.label           "동영상 보내기…">
 <!ENTITY sendVideoCmd.accesskey       "n">
@@ -299,9 +299,9 @@ can reach it easily. -->
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "a">
-<!ENTITY copyImageCmd.label "그림 주소 복사">
+<!ENTITY copyImageCmd.label "이미지 주소 복사">
 <!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyImageContentsCmd.label "그림 복사">
+<!ENTITY copyImageContentsCmd.label "이미지 복사">
 <!ENTITY copyImageContentsCmd.accesskey "y">
 <!ENTITY copyVideoURLCmd.label        "동영상 주소 복사">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
@@ -425,14 +425,20 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "문서 검사">
-<!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "검사기 닫기">
-<!ENTITY inspect3DButton.label		"3D">
-<!ENTITY inspect3DButton.accesskey	"M">
+<!ENTITY inspect3DViewButton.label		"3D 보기">
+<!ENTITY inspect3DViewButton.accesskey	"W">
 <!ENTITY inspectStyleButton.label	"스타일">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!ENTITY inspectorHTMLCopyInner.label		"내부 HTML 북사">
+<!ENTITY inspectorHTMLCopyInner.accesskey	"I">
+
+<!ENTITY inspectorHTMLCopyOuter.label		"외부 HTML 복사">
+<!ENTITY inspectorHTMLCopyOuter.accesskey	"O">
+
+<!ENTITY inspectorHTMLDelete.label		"노드 삭제">
+<!ENTITY inspectorHTMLDelete.accesskey		"D">
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
 -  in the Tools menu. -->
@@ -533,3 +539,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "부가 기능 모음 닫기">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY htmlPanel.label			"HTML">
+<!ENTITY htmlPanel.tooltiptext			"HTML 패널">
+<!ENTITY htmlPanel.accesskey			"H">

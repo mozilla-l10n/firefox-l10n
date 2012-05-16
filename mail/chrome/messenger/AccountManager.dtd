@@ -3,8 +3,10 @@
 
 <!ENTITY accountActionsButton.label "계정 작업">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "메일 계정 추가A…">
+<!ENTITY addMailAccountButton.label "메일 계정 추가…">
 <!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label	"채팅 계정 추가…">
+<!ENTITY addIMAccountButton.accesskey	"C">
 <!ENTITY addOtherAccountButton.label "기타 계정 추가…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "기본값으로 설정">

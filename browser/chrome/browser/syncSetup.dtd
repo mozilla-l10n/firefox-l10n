@@ -10,7 +10,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "서버">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; 서버">
+<!ENTITY serverType.default.label      "기본: Mozilla &syncBrand.fullName.label; 서버">
 <!ENTITY serverType.custom2.label    "별도 서버 설정…">
 <!ENTITY signIn.account2.label       "계정명">
 <!ENTITY signIn.account2.accesskey   "A">

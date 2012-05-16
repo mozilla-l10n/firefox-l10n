@@ -34,7 +34,7 @@
 <!ENTITY generalSecurityDetails "상세 정보">
 <!ENTITY generalSecurityDetails.accesskey "D">
 <!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaSize "그림 크기">
+<!ENTITY mediaSize "이미지 크기">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs2.accesskey "e">
 
@@ -51,7 +51,7 @@
 <!ENTITY permAllowSession "세션에 허가">
 <!ENTITY permBlock "차단">
 <!ENTITY permissionsFor "이용 권한:">
-<!ENTITY permImage "그림 표시">
+<!ENTITY permImage "이미지 표시">
 <!ENTITY permPopup "팝업 창 열기">
 <!ENTITY permCookie "쿠키 저장">
 <!ENTITY permInstall "확장 기능 및 테마 설치">

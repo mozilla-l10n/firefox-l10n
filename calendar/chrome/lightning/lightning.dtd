@@ -74,31 +74,7 @@
 <!ENTITY lightning.menu.eventtask.label                "이벤트와 태스크">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "메일">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label     "캘린더">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "태스크">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "이벤트">
-<!ENTITY lightning.toolbar.newtask.label      "태스크">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "일별">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "주별">
-<!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "여러 주">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "월별">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "오늘 항목에 이벤트 보여주기">
-<!ENTITY lightning.calendarproperties.showtasks.label           "오늘 및 태스크 항목에 태스크 보여주기">
 <!ENTITY lightning.calendarproperties.email.label               "이메일:">
 
 <!-- iMIP Bar (meeting support) -->
@@ -109,8 +85,6 @@
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
-<!ENTITY lightning.toolbar.calendar.tooltip		"캘린더 탭으로 전환">
-<!ENTITY lightning.toolbar.task.tooltip			"ToDo 탭으로 전환">
 
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "새 캘린더 생성">

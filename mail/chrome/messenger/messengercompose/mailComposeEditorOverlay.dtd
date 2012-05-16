@@ -1,4 +1,4 @@
-<!ENTITY attachImageSource.label         "메시지에 이 그림을 첨부">
+<!ENTITY attachImageSource.label         "메시지에 현재 이미지를 첨부">
 <!ENTITY attachImageSource.accesskey     "s">
 
 <!ENTITY attachLinkSource.label          "메시지에 이 링크의 소스를 첨부">

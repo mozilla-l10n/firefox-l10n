@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title			"인스턴트 메세지 상태">
+<!ENTITY accountsWindow.style			"width: 28em; height: 19em;"><!-- en-US: "width: 28em; height: 19em;" -->
+<!ENTITY accountManager.newAccount.label	"새로운 계정">
+<!ENTITY accountManager.newAccount.accesskey	"N">
+<!ENTITY accountManager.close.label		"닫기">
+<!ENTITY accountManager.close.accesskey		"l">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey	"a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title		"계정이 설정되어 있지 않음">
+<!ENTITY accountManager.noAccount.description	"[&accountManager.newAccount.label;] 버튼을 클릭해 주십시오. &brandShortName;가 계정 설정을 시작합니다.">
+<!ENTITY account.autoSignOn.label		"시작 시 자동 로그인">
+<!ENTITY account.autoSignOn.accesskey		"S">
+<!ENTITY account.connect.label			"접속">
+<!ENTITY account.connect.accesskey		"o">
+<!ENTITY account.disconnect.label		"연결 해제">
+<!ENTITY account.disconnect.accesskey		"i">
+<!ENTITY account.edit.label			"프로퍼티"><!-- en-US: "Properties" -->
+<!ENTITY account.edit.accesskey			"P">
+<!ENTITY account.moveup.label			"위로 이동">
+<!ENTITY account.movedown.label			"아래로 이동">
+<!ENTITY account.cancelReconnection.label	"재접속 취소">
+<!ENTITY account.cancelReconnection.accesskey	"a">
+<!ENTITY account.connecting			"접속 중…">
+<!ENTITY account.disconnecting			"연결 해제 중…">
+<!ENTITY account.disconnected			"연결 해제 완료">
