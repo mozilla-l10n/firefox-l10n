@@ -17,7 +17,7 @@
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label		"파일 공유">
-+<!ENTITY attachCloudCmd.accesskey	"i">
+<!ENTITY attachCloudCmd.accesskey	"i">
 <!ENTITY attachPageCmd.label "웹 페이지 첨부…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "명함 추가">
