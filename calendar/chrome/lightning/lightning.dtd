@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "오늘 항목에 이벤트 보여주기">
-<!ENTITY lightning.calendarproperties.showtasks.label           "오늘 및 태스크 항목에 태스크 보여주기">
 <!ENTITY lightning.calendarproperties.email.label               "이메일:">
 
 <!-- iMIP Bar (meeting support) -->
