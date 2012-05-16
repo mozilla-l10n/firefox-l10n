@@ -279,8 +279,8 @@ can reach it easily. -->
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "Ստացեք Լրացուցիչ Գործիքներ">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "Ս">
 
 <!ENTITY fileMenu.label         "Ֆայլ"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -320,7 +320,7 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.accesskey           "Ջ">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Start Private Browsing">
+<!ENTITY privateBrowsingCmd.start.label         "Սկսել գաղտնի նավարկում">
 <!ENTITY privateBrowsingCmd.start.accesskey     "p">
 <!ENTITY privateBrowsingCmd.stop.label          "Դադարեցնել Անձնական Նավարկումը">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "Դ">

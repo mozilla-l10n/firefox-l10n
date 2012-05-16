@@ -182,7 +182,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;­­-ը խոչնդոտեց այս էջի բեռնավորումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է նման բեռնավորումը</p>">
 
 <!ENTITY corruptedContentError.title "Բովանդակությունը վնասված է">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրվել, քանզի տեղի է ունեցնել փոխանցման սխալ։</p><ul><li>Կապնվեք վեբ կայիք հեղինակների հետ՝ նրանց այս մասին հաղորդելու համար։</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
