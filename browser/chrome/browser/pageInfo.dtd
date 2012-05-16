@@ -61,10 +61,10 @@
 <!ENTITY  generalMetaName       "Enw">
 <!ENTITY  generalMetaContent    "Cynnwys">
 <!ENTITY  generalSecurityDetails   "Manylion">
-<!ENTITY  generalSecurityDetails.accesskey "M">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Cyfrwng">
-<!ENTITY  mediaTab.accesskey    "y">
+<!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Lleoliad:">
 <!ENTITY  mediaText             "Testun Cysylltiedig:">
 <!ENTITY  mediaAltHeader        "Testun Arall">
@@ -76,17 +76,17 @@
 <!ENTITY  mediaLongdesc         "Disgrifiad Hir:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Cadw Fel…">
-<!ENTITY  mediaSaveAs.accesskey "C">
+<!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Rhagolwg Cyfrwng:">
 
 <!ENTITY  feedTab               "Llif">
-<!ENTITY  feedTab.accesskey     "L">
+<!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Tanysgrifio">
-<!ENTITY  feedSubscribe.accesskey "T">
+<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Caniatâd">
-<!ENTITY  permTab.accesskey     "n">
+<!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Defnyddio'r Rhagosodedig">
 <!ENTITY  permAskAlways         "Gofyn bob tro">
 <!ENTITY  permAllow             "Caniatáu">
@@ -102,13 +102,13 @@
 
 <!ENTITY  permIndexedDB              "Cynnal Storfa All-lein">
 <!ENTITY  permClearStorage           "Clirio'r Storfa">
-<!ENTITY  permClearStorage.accesskey "l">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Diogelwch">
-<!ENTITY  securityTab.accesskey "D">
+<!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Gwybodaeth diogelwch ar gyfer y dudalen hon">
 <!ENTITY  securityView.certView "Darllen y Dystysgrif">
-<!ENTITY  securityView.accesskey "D">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Anhysbys">
 
 
@@ -121,7 +121,7 @@
 <!ENTITY  securityView.privacy.history                  "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
 <!ENTITY  securityView.privacy.cookies                  "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
 <!ENTITY  securityView.privacy.viewCookies              "Gweld y Cwcis">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "G">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?">
 <!ENTITY  securityView.privacy.viewPasswords            "Gweld ar y Cyfrineiriau wedi eu Cadw">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">

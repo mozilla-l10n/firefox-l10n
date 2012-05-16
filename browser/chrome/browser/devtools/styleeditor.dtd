@@ -15,12 +15,12 @@
 <!ENTITY newButton.label            "Newydd">
 <!ENTITY newButton.tooltip          "Creu ac atodi dalen arddull newydd i'r ddogfen">
 <!ENTITY newButton.accesskey        "N">
-<!ENTITY newButton.commandkey       "N">
+<!ENTITY newButton.commandkey       "n">
 
 <!ENTITY importButton.label         "Mewnforio…">
 <!ENTITY importButton.tooltip       "Mewnforio ac atodi dalen arddull cyfredol i'r ddogfen">
 <!ENTITY importButton.accesskey     "M">
-<!ENTITY importButton.commandkey    "M">
+<!ENTITY importButton.commandkey    "i">
 
 <!ENTITY visibilityToggle.tooltip   "Toglo gwelwdedd tudalen arddull">
 <!ENTITY visibilityToggle.accesskey "V">
@@ -28,7 +28,7 @@
 <!ENTITY saveButton.label           "Cadw">
 <!ENTITY saveButton.tooltip         "Cadw'r ddalen arddull i ffeil">
 <!ENTITY saveButton.accesskey       "C">
-<!ENTITY saveButton.commandkey      "S">
+<!ENTITY saveButton.commandkey      "s">
 <!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item
      when the stylesheet uses the scoped attribute on the <style> element. -->
 

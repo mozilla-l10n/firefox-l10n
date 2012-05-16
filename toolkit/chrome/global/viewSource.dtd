@@ -10,16 +10,16 @@
 
 <!ENTITY fileMenu.label "Ffeil">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Cadw tudalen Fel…">
+<!ENTITY savePageCmd.label "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Gosodiad Tudalen…">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
-<!ENTITY printPreviewCmd.accesskey "R">
+<!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.accesskey "A">
-<!ENTITY printCmd.commandkey "A">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Cau">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
@@ -65,7 +65,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Canfod Eto">
 <!ENTITY findAgainCmd.accesskey "E">
-<!ENTITY findAgainCmd.commandkey "E">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Nôl">

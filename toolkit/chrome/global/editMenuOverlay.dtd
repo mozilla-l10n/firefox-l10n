@@ -1,10 +1,10 @@
 <!ENTITY editMenu.label            "Golygu">
 <!ENTITY editMenu.accesskey        "G">
 <!ENTITY undoCmd.label             "Dadwneud">
-<!ENTITY undoCmd.key               "U">
+<!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "D">
 <!ENTITY redoCmd.label             "Ailwneud">
-<!ENTITY redoCmd.key               "R">
+<!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "A">
 <!ENTITY cutCmd.label              "Torri">
 <!ENTITY cutCmd.key                "X">

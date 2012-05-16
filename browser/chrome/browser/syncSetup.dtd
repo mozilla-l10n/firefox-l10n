@@ -8,11 +8,11 @@
 
 <!ENTITY setup.choicePage.title.label     "Ydych chi wedi defnyddio &syncBrand.fullName.label; o'r blaen?">
 <!ENTITY setup.choicePage.new.label       "Nid wyf wedi defnyddio &syncBrand.shortName.label; o'r blaen">
-<!ENTITY setup.choicePage.existing.label  "Rwyf eisioes yn defnyddio &syncBrand.shortName.label; ar gyfrifiadur arall">
+<!ENTITY setup.choicePage.existing.label  "Rwyf eisoes yn defnyddio &syncBrand.shortName.label; ar gyfrifiadur arall">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Gweinydd">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+<!ENTITY serverType.default.label      "Rhagosodedig: Gweinydd Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Defnyddio gweinydd cyfaddas…">
 <!ENTITY signIn.account2.label      "Cyfrif">
 <!ENTITY signIn.account2.accesskey  "C">

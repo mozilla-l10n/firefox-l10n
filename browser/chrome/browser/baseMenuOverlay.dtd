@@ -25,14 +25,14 @@
 <!ENTITY helpFeedbackPage.accesskey  "A">
 
 <!ENTITY preferencesCmdMac.label        "Dewisiadau…">
-<!ENTITY preferencesCmdMac.commandkey   "D">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Gwasanaethau">
 
 <!ENTITY hideThisAppCmdMac.label        "Cuddio &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "C">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Cuddio Eraill">
-<!ENTITY hideOtherAppsCmdMac.commandkey "E">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">

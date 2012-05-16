@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "Rhaid rhestri unrhyw bolisïau preifatrwydd perthnasol yma.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Mae rhai nodweddion &brandShortName; yn gwneud defnydd p wasanaethau gwybodaeth gwe, er hynny nid ydym yn gallu gwarantu eu bod yn 100&#37; yn gywir nac yn rhydd o wallau. Mae rhagor o fanylion, gan gynnwys gwybodaeth ar sut i'w hanalluogi i'w cael yn yr">
+<!ENTITY rights2.intro-point4a "Mae rhai nodweddion &brandShortName; yn gwneud defnydd p wasanaethau gwybodaeth gwe, er hynny nid ydym yn gallu gwarantu eu bod yn 100&#37; yn gywir nac yn rhydd o wallau. Mae rhagor o fanylion, gan gynnwys gwybodaeth ar sut i'w hanalluogi i'w cael yn yr ">
 <!ENTITY rights.intro-point4b "amodau gwasanaeth">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
@@ -41,7 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Gwasanaethau Gwefan Gwe">
 <!ENTITY rights.intro-point4c-unbranded " berthnasol.">
 
-<!ENTITY rights2.webservices-header "Gwasanaethau Gwybodaeth Gwe &brandFullName; ">
+<!ENTITY rights2.webservices-header "Gwasanaethau Gwybodaeth Gwe &brandFullName;">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are

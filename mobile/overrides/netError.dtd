@@ -85,12 +85,14 @@
 
 <!ENTITY redirectLoop.title "Nid yw'r dudalen yn ailgyfeirio'n iawn">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Gall y broblem yma fod wedi ei achosi drwy anablu neu wrthod cookie.</li> 
+<li>Gall y broblem yma fod wedi ei achosi drwy anablu neu wrthod
+cwci.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Ymateb annisgwyl gan y gweinydd">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.</li> 
+<li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei
+ osod.</li> 
 <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> 
 </ul>">
 
@@ -128,7 +130,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p> \n 
+<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

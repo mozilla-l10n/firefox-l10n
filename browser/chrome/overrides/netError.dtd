@@ -17,9 +17,10 @@
 <li>Gwiriwch y cyfeiriad am wallau teipio megis 
 <strong>ww</strong>.example.com yn lle 
 <strong>www</strong>.example.com</li> 
-<li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.</li> 
-<li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy 
-gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li> 
+<li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad
+ rhwydwaith eich cyfrifiadur.</li> 
+<li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu
+ddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Heb ganfod ffeil">
@@ -95,7 +96,8 @@ cookie.</li>
 
 <!ENTITY unknownSocketType.title "Ymateb annisgwyl gan y gweinydd">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.</li> 
+<li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei 
+osod.</li> 
 <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> 
 </ul>">
 
@@ -134,7 +136,7 @@ gwnewch yn siŵr fod gan &brandShortName; hawl i fynediad i'r we.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
 
 <!ENTITY corruptedContentError.title "Gwall Cynnwys Llygredig">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Nid oes modd dangos y dudalen rydych y ceisio ei gweld oherwydd bu canfuwyd gwall wrth drosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad…">
@@ -146,7 +148,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p> \n 
+<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p>  
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
