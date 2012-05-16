@@ -62,8 +62,8 @@
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "Modiwl newydd PKCS#11">
 <!ENTITY loaddevice.filename                    "Enw ffeil modiwl:">
-<!ENTITY loaddevice.filename.accesskey          "E">
+<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Pori…">
-<!ENTITY loaddevice.browse.accesskey            "P">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "Llwytho Dyfais PKCS#11">

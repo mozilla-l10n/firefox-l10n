@@ -38,14 +38,14 @@
 <!ENTITY marginRight.label   "De:">
 <!ENTITY marginRight.accesskey "D">
 
-<!ENTITY headerFooter.label  "Penawdau a Throedynnau">
+<!ENTITY headerFooter.label  "Penynnau a Throedynnau">
 
 <!ENTITY hfLeft.label        "Chwith:">
 <!ENTITY hfCenter.label      "Canoli:">
 <!ENTITY hfRight.label       "De:">
-<!ENTITY headerLeft.tip      "Pennawd chwith">
-<!ENTITY headerCenter.tip    "Pennawd canol">
-<!ENTITY headerRight.tip     "Pennawd de">
+<!ENTITY headerLeft.tip      "Pennyn chwith">
+<!ENTITY headerCenter.tip    "Pennyn canol">
+<!ENTITY headerRight.tip     "Pennyn de">
 <!ENTITY footerLeft.tip      "Troedyn chwith">
 <!ENTITY footerCenter.tip    "Troedyn canol">
 <!ENTITY footerRight.tip     "Troedyn de">
@@ -59,4 +59,4 @@
 <!ENTITY hfCustom            "Cyfaddasu…">
 
 <!ENTITY customPrompt.title  "Cyfaddasu…">
-<!ENTITY customPrompt.prompt "Rhowch destun pennawd /troedyn cyfaddas">
+<!ENTITY customPrompt.prompt "Rhowch destun pennyn /troedyn cyfaddas">

@@ -43,7 +43,7 @@
 <!ENTITY  validation.crlautoupdateenabled.label   "Awto Diweddaru">
 <!ENTITY  validation.crlautoupdatestatus.label    "Statws Awto Diweddaru">
 <!ENTITY  validation.deletecrl.label              "Dileu">
-<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY  validation.deletecrl.accesskey          "i">
 <!ENTITY  validation.updatecrl.label              "Diweddaru">
 <!ENTITY  validation.updatecrl.accesskey          "D">
 <!ENTITY  validation.advanced.label               "Gosodiadau">
@@ -54,7 +54,7 @@
 <!ENTITY  validation.crl.autoupdate.time.label1   "Diweddaru">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Dydd(iau) cyn dyddiad y Diweddariad Nesaf">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Diweddaru pob">
-<!ENTITY  validation.crl.autoupdate.freq.label2   "Dydd(iau))">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "Dydd(iau)">
 <!ENTITY  validation.crl.autoupdate.url.label     "Bydd y CRL yn cael ei fewnforio o:">
 <!ENTITY  crl.import.status.title                 "Statws Mewnforio CRL">
 <!ENTITY  crl.import.success.message              "Mewnforiwyd y Rhestr Diddymu Tystysgrifau'n (CRL) llwyddiannus.">

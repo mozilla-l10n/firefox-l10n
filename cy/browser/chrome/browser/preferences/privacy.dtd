@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Efallai hoffech wybod am ">
+<!ENTITY  rememberActions.pre.label           "Efallai'r hoffech ">
 <!ENTITY  rememberActions.clearHistory.label  "glirio eich hanes diweddar">
 <!ENTITY  rememberActions.middle.label        ", neu ">
 <!ENTITY  rememberActions.removeCookies.label "dynnu cwcis unigol">

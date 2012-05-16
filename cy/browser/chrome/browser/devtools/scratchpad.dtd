@@ -23,7 +23,7 @@
 
 <!ENTITY newWindowCmd.label           "Ffenestr Newydd">
 <!ENTITY newWindowCmd.accesskey       "N">
-<!ENTITY newWindowCmd.commandkey      "N">
+<!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Agor Ffeil…">
 <!ENTITY openFileCmd.accesskey        "A">
@@ -31,13 +31,13 @@
 
 <!ENTITY saveFileCmd.label            "Cadw">
 <!ENTITY saveFileCmd.accesskey        "C">
-<!ENTITY saveFileCmd.commandkey       "S">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Cadw Fel…">
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Cau">
-<!ENTITY closeCmd.key                 "w">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "u">
 
 <!ENTITY editMenu.label               "Golygu">
@@ -53,7 +53,7 @@
 
 <!ENTITY display.label                "Dangos">
 <!ENTITY display.accesskey            "D">
-<!ENTITY display.key                  "d">
+<!ENTITY display.key                  "l">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -102,10 +102,10 @@
   -  the same name in browser.dtd.
   -->
 
-<!ENTITY errorConsoleCmd.commandkey   "u">
+<!ENTITY errorConsoleCmd.commandkey   "j">
 <!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
   -  the browser WebConsole, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
 
-<!ENTITY webConsoleCmd.commandkey     "w">
+<!ENTITY webConsoleCmd.commandkey     "k">

@@ -24,7 +24,7 @@
 
 <!ENTITY contribute.start           "Diddorol? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Ymuno!">
+<!ENTITY contribute.getInvolvedLink "Beth am ymuno!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -73,4 +73,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Ar hyn o bryd rydych ar sianel diweddaru ">
-<!ENTITY channel.description.end    " sianel diweddaru.  ">
+<!ENTITY channel.description.end    ".">

@@ -97,7 +97,7 @@
 <!ENTITY pkcs12.setpassword.title  "Dewiswch Gyfrinair Tystysgrif wrth Gefn">
 <!ENTITY pkcs12.setpassword.message  "Bydd y cyfrinair tystysgrif wrth gefn yma'n amddiffyn y ffeil wrth gefn rydych ar fin ei greu.  Rhaid gosod y cyfrinair i barhau gyda'r ffeil wrth gefn.">
 <!ENTITY pkcs12.setpassword.label1 "Cyfrinair y dystysgrif wrth gefn:">
-<!ENTITY pkcs12.setpassword.label2 "Cyfrinair y dystysgrif wrth gefn:">
+<!ENTITY pkcs12.setpassword.label2 "Cyfrinair y dystysgrif wrth gefn (eto):">
 <!ENTITY pkcs12.setpassword.reminder "Pwysig: Os byddwch yn anghofio eich cyfrinair diogelwch cludadwy, ni fydd modd i chi adfer y ffeil wrth gefn yma eto.  Cofnodwch hwn mewn man diogel.">
 
 <!ENTITY pkcs12.getpassword.title  "Deialog Mynediad y Cyfrinair">

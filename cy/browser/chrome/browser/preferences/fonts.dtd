@@ -8,7 +8,7 @@
 
 <!ENTITY  size.label                              "Maint:">
 <!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "a">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Cyfrannol:">
 <!ENTITY  proportional.accesskey                  "y">

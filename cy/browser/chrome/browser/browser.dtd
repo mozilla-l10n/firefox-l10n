@@ -48,8 +48,8 @@ can reach it easily. -->
 <!ENTITY openLocationCmd.label "Agor Lleoliad…">
 <!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "Agor Ffeil…">
-<!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.commandkey "O">
+<!ENTITY openFileCmd.accesskey "F">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Gosodiad Tudalen…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
@@ -98,7 +98,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.label "Nodau Tudalen">
 <!ENTITY bookmarksMenu.accesskey "T">
 <!ENTITY bookmarkThisPageCmd.label "Gosod Nod Tudalen i'r Dudalen">
-<!ENTITY bookmarkThisPageCmd.commandkey "n">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Tanysgrifio i'r Dudalen">
 <!ENTITY subscribeToPageMenuitem.label "Tanysgrifo i'r Dudalen Hon…">
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
@@ -156,16 +156,16 @@ can reach it easily. -->
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "a">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Hanes">
 <!ENTITY historyButton.tooltip          "Dangos tudalennau rydych wedi eu darllen yn ddiweddar">
-<!ENTITY historySidebarCmd.accesskey    "h">
+<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Offer">
-<!ENTITY toolsMenu.accesskey          "O"> 
+<!ENTITY toolsMenu.accesskey          "f"> 
 
 <!ENTITY keywordfield.label           "Ychwanegu Allweddair i'r Chwilio…">
 <!ENTITY keywordfield.accesskey       "Y">
@@ -174,29 +174,29 @@ can reach it easily. -->
 <!ENTITY downloads.label              "Llwytho i Lawr">
 <!ENTITY downloads.tooltip            "Dangos cynnydd y llwytho i lawr cyfredol">
 <!ENTITY downloads.accesskey          "L">
-<!ENTITY downloads.commandkey         "d">
+<!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Ychwanegion">
 <!ENTITY addons.accesskey             "Y">
-<!ENTITY addons.commandkey            "a">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
 <!ENTITY webDeveloperMenu.accesskey   "D">
 
 <!ENTITY errorConsoleCmd.label        "Consol Gwall">
 <!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey   "c">
+<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "Consol Gwe">
 <!ENTITY webConsoleCmd.accesskey      "G">
-<!ENTITY webConsoleCmd.commandkey     "w">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Arsylwi">
 <!ENTITY inspectMenu.accesskey        "A">
-<!ENTITY inspectMenu.commandkey       "i">
+<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
-<!ENTITY inspectContextMenu.accesskey "e">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -216,7 +216,7 @@ can reach it easily. -->
 <!ENTITY inspectCloseButton.tooltiptext "Cau'r Archwiliwr">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copïo HTML Mewnol">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "M">
 
 <!ENTITY inspectorHTMLCopyOuter.label       "Copïo HTML Allannol">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "A">
@@ -252,25 +252,25 @@ can reach it easily. -->
 <!ENTITY editMenu.label         "Golygu"> 
 <!ENTITY editMenu.accesskey       "G"> 
 <!ENTITY undoCmd.label            "Dadwneud">  
-<!ENTITY undoCmd.key            "u">  
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "D"> 
 <!ENTITY redoCmd.label            "Ailwneud">  
-<!ENTITY redoCmd.key            "r">  
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "A"> 
 <!ENTITY cutCmd.label           "Torri">  
-<!ENTITY cutCmd.key             "x">  
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copïo">  
-<!ENTITY copyCmd.key            "c">  
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Gludo">  
-<!ENTITY pasteCmd.key           "v">  
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "G"> 
 <!ENTITY deleteCmd.label          "Dileu">  
-<!ENTITY deleteCmd.key            "d">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "i"> 
 <!ENTITY selectAllCmd.label         "Dewis Popeth">  
-<!ENTITY selectAllCmd.key         "a">  
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "P"> 
 <!ENTITY preferencesCmd2.label       "Dewisiadau">
 <!ENTITY preferencesCmd2.accesskey     "e">
@@ -324,7 +324,7 @@ can reach it easily. -->
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Mynd i'r Wefan">
-<!ENTITY urlbar.accesskey             "m">
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Newid i dab:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -372,7 +372,7 @@ can reach it easily. -->
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Edrych ar Ffynhonnell MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "o">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Edrych ar God Gwreiddiol y Dudalen">
 <!ENTITY viewPageSourceCmd.accesskey  "G">
 <!ENTITY viewFrameSourceCmd.label     "Edrych ar God Gwreiddiol y Ffrâm">
@@ -400,11 +400,11 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
 <!ENTITY sendPageCmd.label            "Anfon Dolen…">
-<!ENTITY sendPageCmd.accesskey        "A">
+<!ENTITY sendPageCmd.accesskey        "D">
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "T">
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Cadw Ffrâm Fel…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -483,14 +483,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Chwyddo Mewn">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "M">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "i">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Chwyddo Allan">
 <!ENTITY fullZoomReduceCmd.accesskey    "A">
-<!ENTITY fullZoomReduceCmd.commandkey   "o">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ailosod">
@@ -524,10 +524,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Gadael"> 
 <!ENTITY quitApplicationCmd.accesskey   "G">
 <!ENTITY quitApplicationCmdMac.label    "Gadael &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "a">
+<!ENTITY quitApplicationCmdMac.key      "Q">
 
 <!ENTITY closeCmd.label                 "Cau">  
-<!ENTITY closeCmd.key                   "c">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY pageStyleMenu.label "Arddull Tudalen">
@@ -539,7 +539,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Newid gosodiadau rhwystro llamlenni ar gyfer y gwefan">
 
-<!ENTITY allowPopups.accesskey "l">
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -552,14 +552,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "N">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Newid Cyfeiriad Testun">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "d">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Canfod yn y Dudalen…">
 <!ENTITY findOnCmd.accesskey "a">
-<!ENTITY findOnCmd.commandkey "a">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Canfod Eto">
 <!ENTITY findAgainCmd.accesskey "E">
-<!ENTITY findAgainCmd.commandkey "a">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
@@ -599,7 +599,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Cydweddu">
 
 <!ENTITY syncSetup.label              "Gosod &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "g">
+<!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
 <!ENTITY syncSyncNowItem.accesskey    "y">
 <!ENTITY syncToolbarButton.label      "Cydweddu">
@@ -614,4 +614,4 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!ENTITY markupButton.arialabel          "Iaith Tagio">
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY markupButton.accesskey          "I">
+<!ENTITY markupButton.accesskey          "M">

@@ -18,7 +18,7 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Dangos i mi sut.">
 <!ENTITY sync.link.advancedsetup.label "Gosodiad uwch…">
-<!ENTITY sync.link.nodevice.label "Nid yw\'r ddyfais gennyf…">
+<!ENTITY sync.link.nodevice.label "Nid yw’r ddyfais gennyf…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Aros am y ddyfais arall…">
@@ -33,14 +33,14 @@
 <!-- Setup Fail -->
   
 <!ENTITY sync.title.fail.label "Methu Gosod &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "Methodd &syncBrand.fullName.label; â chysylltu â\'r gweinydd. Hoffech chi geisio eto?">
+<!ENTITY sync.subtitle.fail.label "Methodd &syncBrand.fullName.label; â chysylltu â’r gweinydd. Hoffech chi geisio eto?">
 <!ENTITY sync.button.tryagain.label "Ceisio eto">
 <!ENTITY sync.button.manual.label "Gosod gyda Llaw">
 <!ENTITY sync.subtitle.nointernet.label "Dim cysylltiad gwe ar gael.">
 <!-- Setup Success -->
   
-<!ENTITY sync.title.success.label "Wedi Cwblhau\'r Gosod">
-<!ENTITY sync.subtitle.success.label "Mae eich data\'n cael ei lwytho iawr yn y cefndir. Mae modd mynd i Gosodiadau er mwyn rheoli eich cyfrif.">
+<!ENTITY sync.title.success.label "Wedi Cwblhau’r Gosod">
+<!ENTITY sync.subtitle.success.label "Mae eich data’n cael ei lwytho iawr yn y cefndir. Mae modd mynd i Gosodiadau er mwyn rheoli eich cyfrif.">
 <!ENTITY sync.settings.label "Gosodiadau">
 <!ENTITY sync.subtitle.manage.label "Mae eich cyfrif &syncBrand.fullName.label; eisioes ar waith. Ewch i Gosodiadau er mwyn rheoli eich cyfrif.">
 <!-- Pair Device -->
@@ -49,7 +49,7 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Dewisiadau">
-<!ENTITY sync.summary.pair.label "Cysylltu dyfais arall i\'ch cyfrif &syncBrand.shortName.label;">
+<!ENTITY sync.summary.pair.label "Cysylltu dyfais arall i’ch cyfrif &syncBrand.shortName.label;">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Diddymu">
@@ -69,7 +69,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Nodau Tudalen Symudol">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy\'n cael ei gynnal.">
+<!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy’n cael ei gynnal.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.new.recoverykey.status.incorrect "Allwedd Adfer anghywir. Ceisiwch eto.">

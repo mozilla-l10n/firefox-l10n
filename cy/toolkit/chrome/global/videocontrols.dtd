@@ -1,9 +1,9 @@
 <!ENTITY playButton.playLabel "Chwarae">
 <!ENTITY playButton.pauseLabel "Oedi">
 <!ENTITY muteButton.muteLabel "Tewi">
-<!ENTITY muteButton.unmuteLabel "Dad Dewi">
+<!ENTITY muteButton.unmuteLabel "Dad dewi">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Sgrin Lawn">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Gadalen y Sgrin Lawn">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Gadael y Sgrin Lawn">
 
 <!ENTITY stats.media "Cyfrwng">
 <!ENTITY stats.size "Maint">

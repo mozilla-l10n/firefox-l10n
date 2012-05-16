@@ -27,7 +27,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "e">
 <!ENTITY cmd.goToDownloadPage.label       "Mynd i'r Dudalen Llwytho i Lawr">
 <!ENTITY cmd.goToDownloadPage.accesskey   "M">
-<!ENTITY cmd.copyDownloadLink.label       "Copio Dolen Llwytho i Lawr">
+<!ENTITY cmd.copyDownloadLink.label       "Copïo Dolen Llwytho i Lawr">
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">
 <!ENTITY cmd.removeFromList.label         "Tynnu o'r Rhestr">
 <!ENTITY cmd.removeFromList.accesskey     "T">
