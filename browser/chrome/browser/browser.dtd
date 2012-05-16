@@ -118,6 +118,13 @@
 <!ENTITY fullScreenCmd.accesskey "V">
 <!ENTITY fullScreenCmd.macCommandKey "v">
 
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Ieiet pilnekrāna režīmā">
+<!ENTITY enterFullScreenCmd.accesskey "P">
+<!ENTITY exitFullScreenCmd.label "Iziet no pilnekrāna režīma">
+<!ENTITY exitFullScreenCmd.accesskey "P">
+
 <!ENTITY fullScreenMinimize.tooltip "Minimizēt">
 <!ENTITY fullScreenRestore.tooltip "Atjaunot">
 <!ENTITY fullScreenClose.tooltip "Aizvērt">
