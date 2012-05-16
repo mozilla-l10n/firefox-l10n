@@ -34,6 +34,7 @@
 <!ENTITY forward "Siguiente">
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY new_tab "Pestaña nueva">
+<!ENTITY num_tabs "&#037;d pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
@@ -72,10 +73,12 @@
 <!ENTITY share_title "Compartir por">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
+<!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Añadir a la pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY history_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Ubicación">
