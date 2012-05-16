@@ -56,6 +56,10 @@
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY enterFullScreenCmd.label "Перейти в полноэкранный режим">
+<!ENTITY enterFullScreenCmd.accesskey "о">
+<!ENTITY exitFullScreenCmd.label "Выйти из полноэкранного режима">
+<!ENTITY exitFullScreenCmd.accesskey "о">
 <!ENTITY fullScreenCmd.label "Полный экран">
 <!ENTITY fullScreenCmd.accesskey "э">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -70,7 +74,7 @@
 <!ENTITY fullScreenExit.accesskey "ы">
 <!ENTITY fullscreenAllowButton.label "Разрешить">
 <!ENTITY fullscreenExitButton.label "Запретить">
-<!ENTITY fullscreenApproval.value "Разрешить вход в полноэкранный режим?">
+<!ENTITY fullscreenApproval.value "Разрешить переход в полноэкранный режим?">
 <!ENTITY fullscreenExitHint.value "Нажмите ESC в любой момент, чтобы выйти из полноэкранного режима.">
 <!ENTITY closeWindow.label "Закрыть окно">
 <!ENTITY closeWindow.accesskey "а">
