@@ -16,7 +16,7 @@
 <!ENTITY success.title.before "Halló ">
 <!ENTITY success.title.after ", eftirfarandi tölvupóstföng eru tiltæk fyrir þig:">
 <!ENTITY success.tip "(Þú getur einnig reynt að leita eftir gælunöfnum eða öðru til að sjá fleiri póstföng)">
-<!ENTITY partnership.description "Í samstarfi við nokkra þjónustuaðila, getur &brandShortName; boðið þér upp á aðgang að tölvupósti. Sláðu bara inn fornafn og eftirnafn, eða hvaða önnur orð sem þú vilt, í svæðin hér fyrir ofan til að byrja.">
+<!ENTITY partnership.description "Í samstarfi við nokkra þjónustuaðila, getur &brandShortName; boðið þér upp á aðgang að tölvupósti. Sláðu bara inn fornafn og eftirnafn, eða hvaða önnur orð sem þú vilt, í svæðin hér fyrir ofan til að halda áfram.">
 <!ENTITY existing.header "Ertu þegar með tölvupóstfang sem þú vilt nota?">
 <!ENTITY tinyheader.title "Ertu með tölvupóstfang?">
 <!ENTITY tinyheader.existing "Sleppa þessu og nota tölvupóstfangið sem ég er þegar með">
