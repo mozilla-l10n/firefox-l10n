@@ -37,8 +37,7 @@
 <!ENTITY incomingServer.description	"메일 수신 서버의 이름을 입력해 주십시오.(예: mail.example.kr)">
 <!ENTITY incomingServer.label		"메일 수신 서버:">
 <!ENTITY incomingServer.accesskey	"S">
-<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate ""jsmith"" in below line -->
-<!ENTITY incomingUsername.description	"메일 제공자로 지정된 수신 서버의 사용자명을 입력해 주십시오.(예: "jsmith")">
+<!ENTITY incomingUsername.description	"메일 제공자로 지정된 수신 서버의 사용자명을 입력해 주십시오.(예: jsmith)">
 <!ENTITY incomingUsername.label		"사용자명:">
 <!ENTITY incomingUsername.accesskey	"U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the """ entities in below line -->
