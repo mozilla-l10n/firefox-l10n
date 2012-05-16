@@ -70,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "Za &syncBrand.fullName.label; se podpira en sam račun.">
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Obnovitveni ključ ni pravilen. Poskusite znova.'>

@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "O &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "Izdaja &brandShortName; je poskusna in lahko deluje nezanesljivo.">
+<!ENTITY aboutPage.telemetryStart               " Samodejno pošilja podatke o zmogljivosti, strojni opremi, načinu uporabe in prilagoditvah nazaj ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " da bi se izdajo lahko še zboljšalo.">
 <!ENTITY aboutPage.checkForUpdates.link         "Poišči posodobitve">
 <!ENTITY aboutPage.checkForUpdates.checking     "Iskanje posodobitev …">
 <!ENTITY aboutPage.checkForUpdates.none         "Posodobitev ni na voljo">
