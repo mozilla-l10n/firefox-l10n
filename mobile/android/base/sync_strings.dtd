@@ -46,6 +46,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Försök igen.'>
+<!ENTITY sync.pair.connectlocation.label 'Aktivera din nya enhet genom att välja ”Ställ in &syncBrand.shortName.label;” på enheten, välj sedan ”Jag har ett konto”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Alternativ'>
