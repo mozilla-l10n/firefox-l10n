@@ -84,11 +84,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(ਕੋਈ ਸੁਝਾਅ ਨਹੀਂ)">
-<!ENTITY spellCheckIgnoreWord.label "ਸ਼ਬਦ ਅਣਡਿੱਠਾ">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ 'ਚ ਜੋੜੋ">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "…ਲਿੰਕ ਬਣਾਓ">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "ਨਵੀਂ ਲਿਖਣ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਸੋਧੋ">
