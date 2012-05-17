@@ -77,6 +77,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "頁面資訊">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "進入全螢幕模式">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "離開全螢幕模式">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "全螢幕">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">

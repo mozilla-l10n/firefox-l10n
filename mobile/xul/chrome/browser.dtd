@@ -100,7 +100,7 @@
 <!ENTITY contextCopyImageLocation.label       "複製圖片網址">
 <!ENTITY contextShareLink.label       "分享鏈結">
 <!ENTITY contextShareImage.label      "分享圖片">
-<!ENTITY contextBookmarkLink.label    "書籤鏈結">
+<!ENTITY contextBookmarkLink.label    "將鏈結加入書籤">
 <!ENTITY contextSaveVideo.label       "儲存視訊檔案">
 <!ENTITY contextShareVideo.label      "分享影片">
 <!ENTITY contextPlayMedia.label       "播放">
