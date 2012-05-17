@@ -12,7 +12,6 @@
 <!ENTITY abouthome.searchEngineButton.label "Αναζήτηση">
 
 
-<!ENTITY abouthome.aboutMozilla "Περί Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -23,5 +22,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Είναι πανεύκολο να προσαρμόσετε τον Firefox όπως ακριβώς τον θέλετε. <a>Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Ρύθμιση Sync">
-<!ENTITY abouthome.pairDevice.label  "Σύνδεση μιας συσκευής">
+<!ENTITY abouthome.bookmarksButton.label "Σελιδοδείκτες">
+<!ENTITY abouthome.historyButton.label   "Ιστορικό">
+<!ENTITY abouthome.settingsButton.label  "Ρυθμίσεις">
+<!ENTITY abouthome.addonsButton.label    "Πρόσθετα">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Λήψεις">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

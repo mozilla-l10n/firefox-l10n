@@ -10,7 +10,7 @@
 <!ENTITY header.site.end                 "">
 
 <!ENTITY header.defaults                 "Προεπιλεγμένα δικαιώματα για όλες τις σελίδες">
-
+<!ENTITY plugins.label                   "Πρόσθετες λειτουργίες">
 <!ENTITY permissions.forgetSite          "Όχι απομνημόνευση αυτής της σελίδας">
 
 <!ENTITY permission.alwaysAsk            "Πάντα ερώτηση">

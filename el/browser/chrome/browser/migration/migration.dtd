@@ -27,8 +27,6 @@
 
 <!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.">
 
-<!ENTITY importFromHTMLFile.label       "Από αρχείο HTML">
-<!ENTITY importFromHTMLFile.accesskey   "χ">
 
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">

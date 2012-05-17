@@ -114,8 +114,7 @@
 <!ENTITY backForwardItem.title        "Πίσω/Μπροστά">
 
 
-<!ENTITY inspectButton.label          "Έλεγχος">
-<!ENTITY inspectButton.accesskey      "λ">
+
 
 <!ENTITY backForwardButtonMenu.tooltip "Δεξί κλικ ή κλικ στο αναδιπλούμενο μενού για προβολή ιστορικού">
 <!ENTITY backForwardButtonMenuMac.tooltip "Κλικ στο αναδιπλούμενο μενού για προβολή ιστορικού">
@@ -541,8 +540,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewTabsOnTop.accesskey        "π">
 
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Καρτέλες από άλλους υπολογιστές">
 
@@ -633,3 +630,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY videoShowStats.accesskey    "φ">
 <!ENTITY videoHideStats.label        "Απόκρυψη στατιστικών">
 <!ENTITY videoHideStats.accesskey    "ψ">
+
+
+<!ENTITY inspectorHTMLCopyInner.label       "Αντιγραφή εσωτερικού HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "ω">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Αντιγραφή εξωτερικού HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "ξ">
+
+<!ENTITY inspectorHTMLDelete.label          "Διαγραφή Node">
+<!ENTITY inspectorHTMLDelete.accesskey      "Δ">

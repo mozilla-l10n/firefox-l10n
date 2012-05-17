@@ -22,7 +22,6 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Εξυπηρετητής">
-<!ENTITY serverType.main.label      "Εξυπηρετητής &syncBrand.fullName.label;">
 <!ENTITY signIn.password.label      "Κωδικός">
 <!ENTITY signIn.password.accesskey  "δ">
 <!-- New Account Page 1: Basic Account Info -->
@@ -59,7 +58,7 @@
 <!ENTITY resetSyncKey.label           "Έχω χάσει την άλλη συσκευή.">
 
 
-
+<!ENTITY serverType.default.label      "Προεπιλογή: Εξυπηρετητής Mozilla &syncBrand.fullName.label;">
 
 <!ENTITY serverType.custom2.label   "Χρήση προσαρμοσμένου εξυπηρετητή…">
 

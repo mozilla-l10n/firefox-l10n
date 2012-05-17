@@ -1,7 +1,4 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Νέα καρτέλα">
 
-<!ENTITY newtab.show "Προβολή της σελίδας της νέας καρτέλας">
-<!ENTITY newtab.hide "Απόκρυψη της σελίδας της νέας καρτέλας">
-<!ENTITY newtab.reset "Επαναφορά της σελίδας της νέας καρτέλας">
 

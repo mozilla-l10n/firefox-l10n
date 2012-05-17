@@ -20,6 +20,11 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Δείτε περισσότερα για τις πρόσθετες λειτουργίες ή βρείτε πρόσθετες λειτουργίες που λείπουν.">
 <!ENTITY pluginWizard.finalPage.restart.label               "Ο &brandShortName; χρειάζεται να επανεκκινήσει για να λειτουργήσουν οι πρόσθετες λειτουργίες.">
 
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+
+<!ENTITY tapToPlayPlugin                                     "Πατήστε εδώ για να ενεργοποιήσετε την πρόσθετη λειτουργία.">
+
+<!ENTITY clickToPlayPlugin                                   "Πατήστε εδώ για να ενεργοποιήσετε την πρόσθετη λειτουργία">
 
 <!ENTITY blockedPlugin.label                                 "Για την προστασία σας αυτή η πρόσθετη λειτουργία έχει φραγεί.">
 

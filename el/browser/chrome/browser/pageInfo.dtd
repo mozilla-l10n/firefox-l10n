@@ -65,7 +65,7 @@
 <!ENTITY  permInstall           "Εγκατάσταση επεκτάσεων ή θεμάτων">
 <!ENTITY  permGeo               "Γνωστοποίηση τοποθεσίας">
 
-
+<!ENTITY  permPlugins           "Ενεργοποίηση πρόσθετων λειτουργιών">
 <!ENTITY  securityTab           "Ασφάλεια">
 <!ENTITY  securityTab.accesskey "σ">
 <!ENTITY  securityHeader        "Πληροφορίες ασφαλείας για αυτή τη σελίδα">

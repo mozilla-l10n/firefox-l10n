@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Αρχείο">
+<!ENTITY fileMenu.accesskey                 "Α">
+
+<!ENTITY quitApplicationCmdWin.label        "Έξοδος">
+<!ENTITY quitApplicationCmdWin.accesskey    "ξ">
+<!ENTITY quitApplicationCmd.label           "Κλείσιμο">
+<!ENTITY quitApplicationCmd.accesskey       "Κ">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Απόκρυψη άλλων">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Εμφάνιση όλων">
+
+<!ENTITY editMenu.label                     "Επεξεργασία">
+<!ENTITY editMenu.accesskey                 "Ε">
+<!ENTITY undoCmd.label                      "Αναίρεση">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "ν">
+<!ENTITY redoCmd.label                      "Ακύρωση αναίρεσης">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "ρ">
+<!ENTITY cutCmd.label                       "Αποκοπή">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "κ">
+<!ENTITY copyCmd.label                      "Αντιγραφή">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "γ">
+<!ENTITY pasteCmd.label                     "Επικόλληση">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "π">
+<!ENTITY deleteCmd.label                    "Διαγραφή">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "Δ">
+<!ENTITY selectAllCmd.label                 "Επιλογή όλων">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "λ">
