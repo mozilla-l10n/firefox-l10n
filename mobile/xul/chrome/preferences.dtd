@@ -1,0 +1,25 @@
+<!ENTITY prefsHeader.label                         "Preferense">
+<!ENTITY about.title                               "Informaçioìn rigoàrdo &brandShortName;">
+<!ENTITY about.button                              "Vànni a-a pàgina">
+<!ENTITY content.title                             "Contegnûo">
+<!ENTITY reflowZoom.title                          "Scistêma o tésto in bâze a-o zoom">
+<!ENTITY showImages.title                          "Fànni védde inmàgini">
+<!ENTITY enableJavaScript.title                    "Abìlita JavaScript">
+<!ENTITY privacy.title                             "Privacy &amp; Seguéssa">
+<!ENTITY allowCookies.title                        "Permétti i cookie">
+<!ENTITY doNotTrack.title                          "Fànni in mòddo che i scîti no poriàn localizâme">
+<!ENTITY masterPassword.title                      "Dêuvia paròlla segrétta prinçipâ">
+<!ENTITY clearPrivateData2.title                   "Scancélla i dæti privæ">
+<!ENTITY clearPrivateData.button                   "Polìsci">
+<!ENTITY rememberPasswords.title                   "Aregorda e paròlle segrétte">
+<!ENTITY language.title                            "Léngoa">
+<!ENTITY language.auto                             "Scovèrta outomàtica">
+<!ENTITY defaultBrowser.title                      "Navegatô predefinîo">
+<!ENTITY defaultBrowser.description                "Fànni diventâ &brandShortName; o teu navegatô preferîo">
+<!ENTITY homepage.title                            "Pàgina iniçiâ">
+<!ENTITY homepage.none                             "Pàgina giànca">
+<!ENTITY homepage.default                          "Inìçio do &brandShortName;">
+<!ENTITY homepage.currentpage                      "Ûza a pàgina corénte">
+<!ENTITY showCharsetEncoding.title                 "Móstra o còdice de caràteri">
+<!ENTITY actionbar.default                         "Inpostaçioìn do &brandShortName;">
+

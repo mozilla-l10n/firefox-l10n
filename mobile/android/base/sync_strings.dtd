@@ -1,0 +1,76 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Scincronìzza">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Colegâse a &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Azónzi un cónto &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'Acóbia aparâto'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Pe ativâ o teu nêuvo dispoxitîvo, seleçiónn-a “Inpòsta &syncBrand.shortName.label;” in sciô dispoxitîvo.'>
+<!ENTITY sync.subtitle.header.label 'Introdûxi questo còdice into teu computer'>
+<!ENTITY sync.subtitle.connectlocation.label 'Seleçiónn-a “&sync.title.pair.label;” inta seçión &syncBrand.shortName.label; de òpsioìn do teu navegatô Firefox.'>
+<!ENTITY sync.subtitle.pair.label 'Pe ativâ, seleçiónn-a “Acóbia un dispoxitîvo” in sce l'âtro teu dispoxitîvo.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Fàmme védde cómme.'>
+<!ENTITY sync.link.advancedsetup.label 'Inpostaçioìn avansæ…'>
+<!ENTITY sync.link.nodevice.label 'No gh'ò o dispoxitîvo chi con mi…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Spêtémmo l'âtro dispoxitîvo…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Introdûxi l'informaçión do teu cónto &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Nómme de l'account'>
+<!ENTITY sync.input.password.label 'Paròlla segrétta'>
+<!ENTITY sync.input.key.label 'Ciâve de repìggio'>
+<!ENTITY sync.checkbox.server.label 'Dêuvia o server preferîo'>
+<!ENTITY sync.input.server.label 'URL do server'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Inposcìbile inpostâ &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; o no l'é ariêscîo a colegâse a-o server. Ti veu provâghe tórna?'>
+<!ENTITY sync.button.tryagain.label 'Prêuva ancón'>
+<!ENTITY sync.button.manual.label 'Inpostaçión manoâle'>
+<!ENTITY sync.subtitle.nointernet.label 'Sensa conesción a Internet.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Instalaçión finîa'>
+<!ENTITY sync.subtitle.success.label 'Òua i teu dæti se scàregan in segóndo ciàn. Ti peu andâ a-e Inpostaçioìn pe manezâ o teu cónto.'>
+<!ENTITY sync.settings.label 'Inpostaçioìn'>
+<!ENTITY sync.subtitle.manage.label 'O teu cónto &syncBrand.fullName.label; o l'é za inpostòu. Vànni a-e òpsioìn pe agiustâ o teu cónto.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Pe favô preuva ancón.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Inpostaçioìn'>
+<!ENTITY sync.summary.pair.label 'Colêga un âtro dispoxitîvo a-o teu cónto &syncBrand.shortName.label;'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Anùlla'>
+<!ENTITY sync.button.connect.label 'Connétti'>
+<!ENTITY sync.button.ok.label 'Va bén'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Menû di segnalìbbri'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Etichétte'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bâra di Segnalìbbri'>
+<!ENTITY bookmarks.folder.unfiled.label 'Âtri segnalìbbri'>
+<!ENTITY bookmarks.folder.desktop.label 'Segnalìbbri do computer'>
+<!ENTITY bookmarks.folder.mobile.label 'Segnalìbbri Mòbili'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'No s'amétte che un sôlo cónto &syncBrand.fullName.label;.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Scorétta a ciâve pe-o repìggio. Prêuvighe tórna.'>
+

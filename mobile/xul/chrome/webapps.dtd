@@ -1,0 +1,8 @@
+<!ENTITY webapps.title.placeholder "Scrìvi un titòlo">
+<!ENTITY webapps.permissions "Permétti acésso:">
+<!ENTITY webapps.perm.geolocation "Navegaçión aténta a-i indirìssi">
+<!ENTITY webapps.perm.offline "Sarvatàggio di dæti fêua lìnia">
+<!ENTITY webapps.perm.notifications "Notìçie dò-u Computer">
+<!ENTITY webapps.perm.requestedHint "(neçesàio)">
+<!ENTITY webapps.add-homescreen "Azónzi a-o schèrmo câza">
+

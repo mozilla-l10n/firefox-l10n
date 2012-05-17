@@ -1,0 +1,12 @@
+<!ENTITY feedbackHeader2.label          "Feedback Tools">
+
+<!ENTITY feedback.communicate.title     "Pàrla con niâtri!">
+<!ENTITY feedback.feedback.title        "Dànni \'n coménto">
+<!ENTITY feedback.feedback.good         "Bén">
+<!ENTITY feedback.feedback.bad          "Mâ">
+
+<!ENTITY feedback.tools.title           "Struménti">
+<!ENTITY feedback.allowTelemetry.title  "Mànda dæti in sce prestaçioìn">
+<!ENTITY feedback.forceCompat.title     "Fòrsa a conpatibilitæ di conponénti azónti">
+<!ENTITY feedback.errorConsole.title    "Abìlita a Console di Eroî">
+
