@@ -55,7 +55,7 @@
 <!ENTITY missingPlugin                                       "En insticksmodul behövs för att visa innehållet.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tryck för att aktivera insticksmodulen.">
-<!ENTITY clickToPlayPlugins                                  "Klicka för att aktivera insticksmoduler.">
+<!ENTITY clickToPlayPlugin                                   "Klicka för att aktivera insticksmodulen.">
 <!ENTITY disabledPlugin                                      "Instickmodulen har inaktiverats.">
 <!ENTITY blockedPlugin.label                                 "Den här insticksmodulen är blockerad av säkerhetsskäl.">
 
