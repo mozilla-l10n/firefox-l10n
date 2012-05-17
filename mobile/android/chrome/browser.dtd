@@ -1,0 +1,108 @@
+<!ENTITY urlbar.emptytext      "Εισάγετε όρο αναζήτησης ή διεύθυνση">
+
+<!ENTITY back.label "Πίσω">
+<!ENTITY forward.label "Μπροστά">
+<!ENTITY reload.label "Ανανέωση">
+<!ENTITY stop.label "Διακοπή">
+<!ENTITY go.label "Μετάβαση">
+<!ENTITY star.label "Αστέρι">
+<!ENTITY newtab.label "Νέα καρτέλα">
+<!ENTITY closetab.label "Κλείσιμο καρτέλας">
+<!ENTITY cut.label "Αποκοπή">
+<!ENTITY copy.label "Αντιγραφή">
+<!ENTITY copylink.label "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY paste.label "Επικόλληση">
+<!ENTITY delete.label "Διαγραφή">
+<!ENTITY addonsUpdate.label        "Ενημέρωση">
+<!ENTITY selectAll.label "Επιλογή όλων">
+<!ENTITY noSuggestions.label "(Χωρίς υποδείξεις)">
+<!ENTITY addToDictionary.label "Προσθήκη στο λεξικό">
+<!ENTITY bookmarksHeader.label "Σελιδοδείκτες">
+
+
+<!ENTITY editBookmarkDone.label "Προσθήκη">
+<!ENTITY editBookmarkTags.label "Προσθέστε εδώ ετικέτες">
+
+<!ENTITY contextShareLink.label       "Μοιραστείτε τον δεσμό">
+<!ENTITY contextShareImage.label      "Μοιραστείτε την εικόνα">
+<!ENTITY contextEditBookmark.label    "Επεξεργασία">
+<!ENTITY contextRemoveBookmark.label  "Απομάκρυνση">
+
+
+<!ENTITY selectHelper.done         "Ολοκληρώθηκε">
+
+
+<!ENTITY addonsHeader.label "Πρόσθετα">
+<!ENTITY addonsLocal.label "Τα πρόσθετα σας">
+<!ENTITY addonsRepo.label "Λήψη προσθέτων">
+<!ENTITY addonsRecommended.label "Προτεινόμενα">
+<!ENTITY addonsSearch.label "Αναζήτηση">
+<!ENTITY addonsSearch2.emptytext "Αναζήτηση καταλόγου">
+<!ENTITY addonsSearch.recommended "Προτεινόμενα">
+<!ENTITY addonOptions.label "Επιλογές">
+<!ENTITY addonEnable.label "Ενεργοποίηση">
+<!ENTITY addonDisable.label "Απενεργοποίηση">
+<!ENTITY addonInstall2.label "Προσθήκη στον &brandShortName;">
+<!ENTITY addonUninstall.label "Απεγκατάσταση">
+<!ENTITY addonCancel.label "Ακύρωση">
+<!ENTITY addonShowPage.label "Μετάβαση στη σελίδα">
+<!ENTITY downloadsHeader.label "Λήψεις">
+<!ENTITY downloadShowPage.label "Μετάβαση στη σελίδα">
+<!ENTITY downloadShow2.label "Εύρεση">
+<!ENTITY downloadOpen2.label "Άνοιγμα">
+<!ENTITY downloadCancel.label "Ακύρωση">
+<!ENTITY downloadPause.label "Παύση">
+<!ENTITY downloadResume.label "Συνέχεια">
+<!ENTITY downloadRetry.label "Προσπάθεια ξανά">
+<!ENTITY downloadRemove.label "Απομάκρυνση">
+<!ENTITY downloadFailed.label "Απέτυχε">
+<!ENTITY noResults.label "Δεν υπάρχουν αποτελέσματα">
+<!ENTITY allBookmarks.label "Δείτε όλους τους σελιδοδείκτες">
+<!ENTITY bookmarkPopup.label "Προστέθηκε στους σελιδοδείκτες">
+<!ENTITY bookmarkRemove.label "Απομάκρυνση">
+<!ENTITY bookmarkEdit.label "Επεξεργασία">
+<!ENTITY identity.unverifiedsite2 "Αυτή η σελίδα δεν παρέχει πληροφορίες ταυτότητας της.">
+<!ENTITY identity.connectedTo2 "Συνδέθηκε στο">
+<!ENTITY identity.runBy2 "εκτελείται από">
+<!ENTITY consoleHeader.label "Κονσόλα σφαλμάτων">
+<!ENTITY consoleAll.label "Όλα">
+<!ENTITY consoleErrors.label "Σφάλματα">
+<!ENTITY consoleWarnings.label "Προειδοποιήσεις">
+<!ENTITY consoleMessages.label "Μηνύματα">
+<!ENTITY consoleCodeEval.label "Κώδικας:">
+<!ENTITY consoleClear.label "Εκκαθάριση">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Αρχείο πηγής:">
+<!ENTITY consoleErrLine.label "Γραμμή:">
+<!ENTITY consoleErrColumn.label "Στήλη:">
+
+<!ENTITY contextOpenInNewTab.label "Άνοιγμα δεσμού σε νέα καρτέλα">
+<!ENTITY contextSaveImage.label    "Αποθήκευση εικόνας">
+
+<!ENTITY allPagesHeader.label      "Όλες οι σελίδες">
+<!ENTITY appMenu.siteOptions         "Επιλογές σελίδας">
+<!ENTITY contextBookmarkLink.label    "Προσθήκη δεσμού ως σελιδοδείκτη">
+<!ENTITY contextFullScreen.label      "Πλήρης οθόνη">
+<!ENTITY contextSaveVideo.label       "Αποθήκευση βίντεο">
+<!ENTITY contextShareVideo.label      "Κοινοποίηση βίντεο">
+<!ENTITY contextPlayMedia.label       "Αναπαραγωγή">
+<!ENTITY contextPauseMedia.label      "Παύση">
+<!ENTITY copyAll.label         "Αντιγραφή όλων">
+<!ENTITY historyHeader.label       "Ιστορικό">
+<!ENTITY desktopHeader.label       "Επιφάνεια εργασίας">
+<!ENTITY downloadDelete.label      "Διαγραφή">
+<!ENTITY editBookmarkDialog.title  "Επεξεργασία σελιδοδείκτη">
+<!ENTITY inputMethod.label     "Επιλογή μεθόδου εισαγωγής">
+
+<!ENTITY pageactions.saveas.pdf      "Αποθήκευση ως PDF">
+<!ENTITY pageactions.share.page      "Κοινοποίηση σελίδας">
+<!ENTITY pageactions.password.forget "Διαγραφή κωδικού">
+<!ENTITY pageactions.reset           "Εκκαθάριση προτιμήσεων σελίδας">
+<!ENTITY pageactions.findInPage      "Εύρεση στη σελίδα">
+<!ENTITY pageactions.search.addNew   "Προσθήκη μηχανής αναζήτησης">
+<!ENTITY pageactions.charEncoding    "Κωδικοποίηση χαρακτήρων">
+
+<!ENTITY contextSaveLink.label        "Αποθήκευση δεσμού">
+<!ENTITY pageactions.quit            "Κλείσιμο">
+
+

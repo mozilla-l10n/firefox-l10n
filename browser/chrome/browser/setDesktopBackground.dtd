@@ -7,3 +7,5 @@
 <!ENTITY setDesktopBackground.title "Ορισμός ταπετσαρίας">
 <!ENTITY openDesktopPrefs.label     "Άνοιγμα προτιμήσεων επιφάνειας εργασίας">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY fill.label                 "Γέμισμα">
+<!ENTITY fit.label                  "Προσαρμογή">

@@ -27,8 +27,6 @@
 
 
 
-<!ENTITY  rememberHistory.label      "Διατήρηση ιστορικού περιήγησης">
-<!ENTITY  rememberHistory.accesskey  "τ">
 
 
 
@@ -82,7 +80,8 @@
 <!ENTITY  askEachTime.label             "ερώτηση κάθε φορά">
 
 
-
+<!ENTITY  rememberHistory2.label      "Διατήρηση του ιστορικού περιήγησης και λήψεων">
+<!ENTITY  rememberHistory2.accesskey  "ι">
 
 <!ENTITY  clearOnClose.label             "Εκκαθάριση ιστορικού όταν κλείνει ο &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "θ">
@@ -91,8 +90,6 @@
 <!ENTITY  clearOnCloseSettings.accesskey "μ">
 
 
-<!ENTITY  rememberDownload.label         "Διατήρηση ιστορικού λήψεων">
-<!ENTITY  rememberDownload.accesskey     "Δ">
 
 <!ENTITY  rememberSearchForm.label       "Διατήρηση ιστορικού αναζήτησης και συμπλήρωσης φορμών">
 <!ENTITY  rememberSearchForm.accesskey   "φ">

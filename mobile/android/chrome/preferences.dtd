@@ -1,0 +1,36 @@
+<!ENTITY prefsHeader.label "Προτιμήσεις">
+<!ENTITY about.title "Περί &brandShortName;">
+<!ENTITY about.button "Μετάβαση στη σελίδα">
+
+<!ENTITY content.title "Περιεχόμενο">
+<!ENTITY showImages.title "Προβολή εικόνων">
+<!ENTITY enableJavaScript.title "Ενεργοποίηση JavaScript">
+
+<!ENTITY enablePlugins.title "Ενεργοποίηση Plugins">
+
+<!ENTITY privacy.title "Απόρρητο &amp; Ασφάλεια">
+<!ENTITY allowCookies.title "Να επιτρέπονται cookies">
+
+
+<!ENTITY clearPrivateData.button "Εκκαθάριση">
+
+<!ENTITY rememberPasswords.title "Απομνημόνευση κωδικών">
+<!ENTITY language.title "Γλώσσα">
+
+<!ENTITY language.auto "Αυτόματος εντοπισμός">
+<!ENTITY clearPrivateData2.title                   "Εκκαθάριση προσωπικών δεδομένων">
+
+<!ENTITY defaultBrowser.title                      "Προεπιλεγμένος περιηγητής">
+<!ENTITY defaultBrowser.description                "Ορισμός του &brandShortName; ως την προεπιλεγμένη εφαρμογή">
+
+<!ENTITY homepage.title                            "Αρχική σελίδα">
+<!ENTITY homepage.none                             "Κενή σελίδα">
+<!ENTITY homepage.default                          "Αρχική &brandShortName;">
+<!ENTITY homepage.currentpage                      "Χρήση τρέχουσας σελίδας">
+
+
+<!ENTITY doNotTrack.title                          "Να ειδοποιούνται οι σελίδες για να μην με εντοπίζουν">
+<!ENTITY reflowZoom.title                          "Αναδιαμόρφωση κειμένου κατά την εστίαση">
+<!ENTITY showCharset.title                         "Προβολή κωδικοποίησης χαρακτήρων">
+
+
