@@ -1,11 +1,3 @@
-<!ENTITY accountTitle.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
-<!ENTITY accountSettingsDesc.label "ਹੇਠ ਦਿੱਤਾ ਇੱਕ ਖਾਸ ਅਕਾਊਂਟ ਹੈ। ਇਸ ਨਾਲ ਸੰਬੰਧਿਤ ਕੋਈ ਵੀ ਪਛਾਣ ਨਹੀਂ ਹੈ।">
 <!ENTITY accountName.label "ਅਕਾਊਂਟ ਨਾਂ:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "ਸੁਨੇਹਾ ਸੰਭਾਲ">
-<!ENTITY emptyTrashOnExit.label "ਬੰਦ ਕਰਨ ਤੇ ਰੱਦੀ ਖਾਲੀ ਕਰੋ">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY localPath.label "ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ:">
-<!ENTITY localFolderPicker.label "ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ">
-<!ENTITY browseFolder.label "ਝਲਕ...">
-<!ENTITY browseFolder.accesskey "B">
+

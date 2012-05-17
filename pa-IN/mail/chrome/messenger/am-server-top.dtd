@@ -1,4 +1,5 @@
 <!-- extracted from am-server-top.xul -->
+<!ENTITY messageStorage.label "Message Storage">
 
 <!ENTITY securitySettings.label "ਸੁਰੱਖਿਆ ਸੈਟਿੰਗ">
 <!ENTITY serverSettings.label "ਸਰਵਰ ਸੈਟਿੰਗ">
@@ -81,3 +82,7 @@
 <!ENTITY newsrcPicker.label "ਫਾਇਲ newsrc ਚੁਣੋ">
 <!ENTITY browseNewsrc.label "ਝਲਕ...">
 <!ENTITY browseNewsrc.accesskey "e">
+
+
+<!ENTITY accountTitle.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
+<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">

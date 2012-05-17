@@ -35,44 +35,46 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField3.label "To ">
-<!ENTITY fromField3.label "From ">
-<!ENTITY senderField3.label "Sender ">
-<!ENTITY organizationField3.label "Organization ">
-<!ENTITY replyToField3.label "Reply to ">
+<!ENTITY toField3.label "ਵੱਲ ">
+<!ENTITY fromField3.label "ਵੱਲੋਂ ">
+<!ENTITY senderField3.label "ਭੇਜਣਵਾਲਾ ">
+<!ENTITY organizationField3.label "ਸੰਗਠਨ ">
+<!ENTITY replyToField3.label "ਜਵਾਬ ">
 
-<!ENTITY subjectField3.label "Subject ">
+<!ENTITY subjectField3.label "ਵਿਸ਼ਾ ">
 <!ENTITY ccField3.label "Cc ">
 <!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Newsgroups ">
+<!ENTITY newsgroupsField3.label "ਨਿਊਜ਼ਗਰੁੱਪ ">
 <!ENTITY followupToField3.label "Followup to ">
-<!ENTITY tagsHdr3.label "Tags ">
-<!ENTITY dateField3.label "Date ">
-<!ENTITY userAgentField3.label "User agent ">
-<!ENTITY referencesField3.label "References ">
-<!ENTITY messageIdField3.label "Message ID ">
+<!ENTITY tagsHdr3.label "ਟੈਗ ">
+<!ENTITY dateField3.label "ਮਿਤੀ ">
+<!ENTITY userAgentField3.label "ਯੂਜ਼ਰ ਏਜੰਟ ">
+<!ENTITY referencesField3.label "ਹਵਾਲਾ ">
+<!ENTITY messageIdField3.label "ਸੁਨੇਹਾ ID ">
 <!ENTITY inReplyToField3.label "In reply to ">
-<!ENTITY originalWebsite3.label "Website ">
+<!ENTITY originalWebsite3.label "ਵੈੱਬਸਾਇਟ ">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY hdrArchiveButton1.label "Archive">
+<!ENTITY editMessageDescription.label "ਇਹ ਡਰਾਫਟ ਸੁਨੇਹਾ ਹੈ">
+<!ENTITY editMessageButton.label "…ਸੋਧ">
+<!ENTITY hdrArchiveButton1.label "ਅਕਾਇਵਤ">
 <!ENTITY hdrArchiveButton1.tooltip "Archive this message">
 <!ENTITY hdrSmartReplyButton1.label "Smart Reply">
-<!ENTITY hdrReplyButton1.label "Reply">
-<!ENTITY hdrReplyButton1.tooltip "Reply to this message">
-<!ENTITY hdrReplyAllButton1.label "Reply All">
+<!ENTITY hdrReplyButton1.label "ਜਵਾਬ">
+<!ENTITY hdrReplyButton1.tooltip "ਇਹ ਸੁਨੇਹੇ ਨੂੰ ਜਵਾਬ">
+<!ENTITY hdrReplyAllButton1.label "ਸਭ ਨੂੰ ਜਵਾਬ">
 <!ENTITY hdrReplyAllButton1.tooltip "Reply to sender and all recipients">
-<!ENTITY hdrReplyListButton1.label "Reply List">
+<!ENTITY hdrReplyListButton1.label "ਲਿਸਟ ਨੂੰ ਜਵਾਬ">
 <!ENTITY hdrReplyListButton1.tooltip "Reply to mailing list">
-<!ENTITY hdrForwardButton1.label "Forward">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrForwardButton1.label "ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY hdrForwardButton1.tooltip "Forward this message">
-<!ENTITY hdrJunkButton1.label "Junk">
+<!ENTITY hdrJunkButton1.label "ਜੰਕ">
 <!ENTITY hdrJunkButton1.tooltip "Mark this message as junk">
-<!ENTITY hdrTrashButton1.label "Delete">
+<!ENTITY hdrTrashButton1.label "ਹਟਾਓ">
 <!ENTITY hdrTrashButton1.tooltip "Delete this message">
 
-<!ENTITY hdrViewToolbarShowFull.label "Show Icons and Text">
+<!ENTITY hdrViewToolbarShowFull.label "ਆਈਕਾਨ ਅਤੇ ਟੈਕਸਟ ਵੇਖਾਓ">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "Show Icons Only">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "I">
@@ -81,36 +83,36 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Always Show Reply to Sender">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "Other Actions">
+<!ENTITY otherActionsButton1.label "ਹੋਰ ਕਾਰਵਾਈਆਂ">
 <!ENTITY otherActionsOpenConversation1.label "Open in Conversation">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
-<!ENTITY otherActionsOpenInNewWindow1.label "Open in New Window">
+<!ENTITY otherActionsOpenInNewWindow1.label "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
-<!ENTITY otherActionsOpenInNewTab1.label "Open in New Tab">
+<!ENTITY otherActionsOpenInNewTab1.label "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "T">
-<!ENTITY markAsReadMenuItem1.label "Mark as Read">
+<!ENTITY markAsReadMenuItem1.label "ਪੜ੍ਹਿਆ ਬਣਾਓ">
 <!ENTITY markAsReadMenuItem1.accesskey "R">
 <!ENTITY markAsUnreadMenuItem1.label "Mark as Unread">
 <!ENTITY markAsUnreadMenuItem1.accesskey "r">
-<!ENTITY saveAsMenuItem1.label "Save as…">
+<!ENTITY saveAsMenuItem1.label "…ਵਜੋਂ ਸੰਭਾਲੋ">
 <!ENTITY saveAsMenuItem1.accesskey "S">
-<!ENTITY viewSourceMenuItem1.label "View Source">
+<!ENTITY viewSourceMenuItem1.label "ਸਰੋਤ ਵੇਖੋ">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
-<!ENTITY otherActionsPrint1.label "Print…">
+<!ENTITY otherActionsPrint1.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label    "Open">
+<!ENTITY openAttachmentCmd.label    "ਖੋਲ੍ਹੋ">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Save As…">
+<!ENTITY saveAsAttachmentCmd.label    "…ਵਜੋਂ ਸੰਭਾਲੋ">
 <!ENTITY saveAsAttachmentCmd.accesskey    "S">
-<!ENTITY detachAttachmentCmd.label    "Detach…">
+<!ENTITY detachAttachmentCmd.label    "…ਵੱਖ ਕਰੋ">
 <!ENTITY detachAttachmentCmd.accesskey    "D">
-<!ENTITY deleteAttachmentCmd.label    "Delete">
+<!ENTITY deleteAttachmentCmd.label    "ਹਟਾਓ">
 <!ENTITY deleteAttachmentCmd.accesskey    "e">
-<!ENTITY openAllAttachmentsCmd.label    "Open All…">
+<!ENTITY openAllAttachmentsCmd.label    "…ਸਭ ਖੋਲ੍ਹੋ">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label    "Save All…">
+<!ENTITY saveAllAttachmentsCmd.label    "…ਸਭ ਸੰਭਾਲੋ">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Detach All…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
@@ -120,15 +122,15 @@
 <!ENTITY openAttachment.tooltip "Open the attached file">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label       "Save">
+<!ENTITY saveAttachmentButton1.label       "ਸੰਭਾਲੋ">
 <!ENTITY saveAttachmentButton1.tooltip     "Save the attached file">
-<!ENTITY saveAllAttachmentsButton1.label   "Save All">
+<!ENTITY saveAllAttachmentsButton1.label   "ਸਭ ਸੰਭਾਲੋ">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Save all the attached files">
 
-<!ENTITY copyLinkCmd.label        "Copy Link Location">
+<!ENTITY copyLinkCmd.label        "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
+<!ENTITY CopyMessageId.label "ਸੁਨੇਹਾ-ID ਕਾਪੀ ਕਰੋ">
 <!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Open Message For ID">
 <!ENTITY OpenMessageForMsgId.accesskey "O">
