@@ -1,75 +1,76 @@
-<!-- Don"t localize these. They"re here until they have
+<!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label 'Firefox Sync'>
+<!ENTITY syncBrand.shortName.label 'Sync'>
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Se connecter à &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Ajouter un compte &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Associer un appareil">
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Se connecter à &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Ajouter un compte &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'Associer un appareil'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "Pour activer votre nouvel appareil, sélectionner « Configurer la synchronisation » sur celui-ci.">
-<!ENTITY sync.subtitle.header.label "Saisissez ce code sur votre ordinateur">
-<!ENTITY sync.subtitle.connectlocation.label "Sélectionnez « &sync.title.pair.label; » dans la section &syncBrand.shortName.label; des options de Firefox sur votre ordinateur.">
-<!ENTITY sync.subtitle.pair.label "Pour activer, sélectionnez « Associer un appareil » sur votre appareil.">
-<!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Me montrer comment">
-<!ENTITY sync.link.advancedsetup.label "Configuration avancée…">
-<!ENTITY sync.link.nodevice.label "Je n\u0027ai pas l\u0027appareil avec moi…">
+<!ENTITY sync.subtitle.connect.label 'Pour activer votre nouvel appareil, sélectionner « Configurer la synchronisation » sur celui-ci.'>
+<!ENTITY sync.subtitle.header.label 'Saisissez ce code sur votre ordinateur'>
+<!ENTITY sync.subtitle.connectlocation.label 'Sélectionnez « &sync.title.pair.label; » dans la section &syncBrand.shortName.label; des options de Firefox sur votre ordinateur.'>
+<!ENTITY sync.subtitle.pair.label 'Pour activer, sélectionnez « Associer un appareil » sur votre appareil.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Me montrer comment'>
+<!ENTITY sync.link.advancedsetup.label 'Configuration avancée…'>
+<!ENTITY sync.link.nodevice.label 'Je n\u0027ai pas l\u0027appareil avec moi…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label "En attente de l\u0027autre appareil…">
+<!ENTITY sync.jpake.subtitle.waiting.label 'En attente de l\u0027autre appareil…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label "Saisissez vos identifiants de compte pour &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Nom du compte">
-<!ENTITY sync.input.password.label "Mot de passe">
-<!ENTITY sync.input.key.label "Clé de récupération">
-<!ENTITY sync.checkbox.server.label "Utiliser un serveur personnalisé">
-<!ENTITY sync.input.server.label "URL du serveur">
+<!ENTITY sync.subtitle.account.label 'Saisissez vos identifiants de compte pour &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Nom du compte'>
+<!ENTITY sync.input.password.label 'Mot de passe'>
+<!ENTITY sync.input.key.label 'Clé de récupération'>
+<!ENTITY sync.checkbox.server.label 'Utiliser un serveur personnalisé'>
+<!ENTITY sync.input.server.label 'URL du serveur'>
 
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label "Impossible de configurer &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; n\u0027a pas pu se connecter au serveur. Voulez-vous essayer à nouveau ?">
-<!ENTITY sync.button.tryagain.label "Essayer à nouveau">
-<!ENTITY sync.button.manual.label "Configuration manuelle">
-<!ENTITY sync.subtitle.nointernet.label "Pas de connexion à Internet disponible.">
+<!ENTITY sync.title.fail.label 'Impossible de configurer &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; n\u0027a pas pu se connecter au serveur. Voulez-vous réessayer ?'>
+<!ENTITY sync.button.tryagain.label 'Réessayer'>
+<!ENTITY sync.button.manual.label 'Configuration manuelle'>
+<!ENTITY sync.subtitle.nointernet.label 'Connexion à Internet non disponible.'>
 
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label "Configuration terminée">
-<!ENTITY sync.subtitle.success.label "Vos données sont à présent synchronisées en arrière-plan. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte.">
-<!ENTITY sync.settings.label "Paramètres">
-<!ENTITY sync.subtitle.manage.label "Votre compte &syncBrand.fullName.label; est déjà configuré. Rendez-vous dans le menu Paramètres pour gérer votre compte.">
+<!ENTITY sync.title.success.label 'Configuration terminée'>
+<!ENTITY sync.subtitle.success.label 'Vos données sont à présent synchronisées en arrière-plan. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte.'>
+<!ENTITY sync.settings.label 'Paramètres'>
+<!ENTITY sync.subtitle.manage.label 'Votre compte &syncBrand.fullName.label; est déjà configuré. Rendez-vous dans le menu Paramètres pour gérer votre compte.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label "Veuillez essayer à nouveau.">
+<!ENTITY sync.pair.tryagain.label 'Veuillez réessayer.'>
+<!ENTITY sync.pair.connectlocation.label 'Pour activer votre nouvel appareil, sélectionnez « Configurer &syncBrand.shortName.label; » sur celui-ci, et ensuite « J\u0027ai un compte ».'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label "Options">
-<!ENTITY sync.summary.pair.label "Associer un autre appareil à votre compte &syncBrand.shortName.label;">
+<!ENTITY sync.settings.options.label 'Options'>
+<!ENTITY sync.summary.pair.label 'Associer un autre appareil à votre compte &syncBrand.shortName.label;'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label "Annuler">
-<!ENTITY sync.button.connect.label "Se connecter">
-<!ENTITY sync.button.ok.label "OK">
+<!ENTITY sync.button.cancel.label 'Annuler'>
+<!ENTITY sync.button.connect.label 'Se connecter'>
+<!ENTITY sync.button.ok.label 'OK'>
 
 <!-- Account strings -->
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label "Menu marque-pages">
-<!ENTITY bookmarks.folder.places.label "">
-<!ENTITY bookmarks.folder.tags.label "Étiquettes">
-<!ENTITY bookmarks.folder.toolbar.label "Barre personnelle">
-<!ENTITY bookmarks.folder.unfiled.label "Marque-pages non classés">
-<!ENTITY bookmarks.folder.desktop.label "Marque-pages ordinateur">
-<!ENTITY bookmarks.folder.mobile.label "Marque-pages mobile">
+<!ENTITY bookmarks.folder.menu.label 'Menu Marque-pages'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Étiquettes'>
+<!ENTITY bookmarks.folder.toolbar.label 'Barre personnelle'>
+<!ENTITY bookmarks.folder.unfiled.label 'Marque-pages non classés'>
+<!ENTITY bookmarks.folder.desktop.label 'Marque-pages ordinateur'>
+<!ENTITY bookmarks.folder.mobile.label 'Marque-pages mobile'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "Un seul compte &syncBrand.fullName.label; peut être géré.">
+<!ENTITY sync.notification.oneaccount.label 'Un seul compte &syncBrand.fullName.label; peut être géré.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.new.recoverykey.status.incorrect 'Clé de récupération incorrecte. Veuillez essayer à nouveau.'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Clé de récupération incorrecte. Veuillez réessayer.'>
