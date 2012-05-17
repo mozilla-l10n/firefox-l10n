@@ -14,8 +14,9 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "ਜੰਕ ਫਿਲਟਰ ਲਾਗ ਕਰਨਾ ਚਾਲੂ ਕਰੋ">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+
 <!ENTITY openJunkLog.label "ਲਾਗ ਵੇਖਾਓ">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "ਟਰੇਨਿੰਗ ਡਾਟਾ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
@@ -33,9 +34,9 @@
 <!ENTITY useMasterPassword.label        "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "A Master Password protects all your passwords, but you must enter it once per session.">
-<!ENTITY changeMasterPassword.label     "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਦਲੋ…">
+<!ENTITY changeMasterPassword.label     "…ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਦਲੋ">
 <!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label           "ਸੰਭਾਲੇ ਪਾਸਵਰਡ…">
+<!ENTITY savedPasswords.label           "…ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
@@ -52,9 +53,9 @@
 <!ENTITY expire.label                   "ਉਹਨਾਂ ਦੀ ਮਿਆਦ ਪੁੱਗੇ">
 <!ENTITY close.label                    "ਜਦੋਂ ਮੈਂ &brandShortName; ਬੰਦ ਕਰਾਂ">
 <!ENTITY askEachTime.label              "ਹਰ ਵਾਰ ਮੈਨੂੰ ਪੁੱਛੋ">
-<!ENTITY cookieExceptions.label         "ਛੋਟ…">
+<!ENTITY cookieExceptions.label         "…ਛੋਟ">
 <!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "ਕੂਕੀਜ਼ ਵੇਖਾਓ…">
+<!ENTITY showCookies.label              "…ਕੂਕੀਜ਼ ਵੇਖਾਓ">
 <!ENTITY showCookies.accesskey          "S">
 
 
