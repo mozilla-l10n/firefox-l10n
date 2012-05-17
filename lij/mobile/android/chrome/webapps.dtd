@@ -1,0 +1,8 @@
+<!ENTITY webapps.title.placeholder "Scrìvi un titòlo">
+<!ENTITY webapps.permissions "Permétti acésso:">
+<!ENTITY webapps.perm.geolocation "Navegaçión aténta a-i indirìssi">
+<!ENTITY webapps.perm.offline "Offline data storage">
+<!ENTITY webapps.perm.notifications "Desktop notifications">
+<!ENTITY webapps.perm.requestedHint "(neçesàio)">
+<!ENTITY webapps.add-homescreen "Add to home screen">
+

@@ -1,0 +1,23 @@
+<!ENTITY aboutPage.title                        "Informaçioìn rigoàrdo &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; o l'é sperimentâle e peu êse instàbile.">
+<!ENTITY aboutPage.telemetryStart               "O mànda de informaçioìn in sce prestaçioìn, hardware, ûzo e personalizaçioìn in aotomàtico inderê ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 "pe agiutâ a megiorâ &brandShortName;. ">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Agiùtto">
+<!ENTITY aboutPage.privacyPolicy.label          "Polìtica da Privacy">
+<!ENTITY aboutPage.rights.label                 "In sci teu dirîti">
+<!ENTITY aboutPage.relNotes.label               "Anotaçioìn da distribuçión">
+<!ENTITY aboutPage.credits.label                "Riconóscimenti">
+<!ENTITY aboutPage.checkForUpdates.button       "Çèrca agiornaménti">
+<!ENTITY aboutPage.checkForUpdates.checking     "Çèrco i agiornaménti…">
+<!ENTITY aboutPage.checkForUpdates.none         "No gh'é di agiornaménti">
+<!ENTITY aboutPage.checkForUpdates.found        "Gh'é 'n'agiornaménto">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Informaçión de licénsa">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
+

@@ -1,0 +1,140 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Erô into caregaménto da pàgina">
+<!ENTITY retry.label "Prêuva Ancón">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "No riêscio a conétte">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Sto indirìsso o l'é riservòu">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Server no trovòu">
+<!ENTITY dnsNotFound.longDesc2 " <ul>   <li>Contròlla che inte l'indirìsso no ghe ségian eroî cómme     <strong>ww</strong>.ezénpio.com invêce de     <strong>www</strong>.ezénpio.com</li>   <li>Se ti no riêsci a caregâ nisciùnn-a pàgina, contròlla e inpostaçioìn do teu aparâto ò a teu conesción Wi-Fi.</li> </ul> ">
+
+<!ENTITY fileNotFound.title "File no trovòu">
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Contròlla o nómme  do file pe-e maióscole  ò âtri eroî.</li>
+  <li>Contròlla se o file o l'é stæto mesciòu, renòminòu ò scancelòu.</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "Ahime mi.">
+<!ENTITY generic.longDesc "<p>&brandShortName; no peu caregâ questa pagina pe quarche raxón.</p> ">
+
+<!ENTITY malformedURI.title "L'indirìsso o no l'é valido">
+<!ENTITY malformedURI.longDesc "<ul>
+  <li>I indirìssi son scrîti coscì:
+    <strong>http://www.ezénpio.com/</strong></li>
+  <li>Contròlla che ti uzi e bâre giùste (
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "A conesción a l'é stæta scancelâ">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Docùmento scæito">
+<!ENTITY notCached.longDesc "<p>O docùmento domandòu o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Cómme mezûa de seguéssa, o &brandShortName; no te domanda tórna docùmenti sensibili in aotomàtico.</li><li>Sciàcca prêuva ancón pe domandâ tórna o docùmento ao scîto.</li></ul>">
+
+<!ENTITY netOffline.title "Mòddo fêua linia">
+<!ENTITY netOffline.longDesc2 " <ul>   <li>Prêuva tórna. O &brandShortName; o proviâ a-arvî a conesción e recaregâ a pàgina.</li> </ul> ">
+
+<!ENTITY contentEncodingError.title "Erô de còdifica do contegnûo">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Tîpo de file no segûo">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "A conesción a l'é stæta reinpostâ">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "A conesción a gh'à misso tròppo ténpo">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "No ò capio l'indirìsso">
+<!ENTITY protocolNotFound.longDesc "<ul>
+  <li>Ti ti poriêsci dovéi instalâ de âtre aplicaçioìn pe arvî sto indirìsso.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "O server proxy o refua e conescioìn">
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Contròlla se e inpostaçioìn do proxy  son giùste.</li>
+  <li>Contatta o aministratô da ræ pe esê segûo che o proxy fonçiónn-a.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "No riêscîo a trovâ o proxy">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul> 
+  <li>Contròlla e inpostaçioìn do proxy pe confermâ che ségian corétte.</li> 
+  <li>Confèrma che o teu dispoxitîvo o gh'à unna conesción ch'a fonsiónn-a..</li> 
+</ul> ">
+
+<!ENTITY redirectLoop.title "A pagina no redireçiónn-a bén">
+<!ENTITY redirectLoop.longDesc "<ul>
+  <li>Sto problêma peu êse caozòu da-o fæto de avéi dizabilitòu ò no acetòu i cookie.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Rispósta sbaliâ da-o server">
+<!ENTITY unknownSocketType.longDesc "<ul>
+  <li>Contròlla pe êse segûo che o scistêma o l'à instalòu o Personal Security Manager.</li>
+  <li>Questo poéiva êse dovûo a de inpostaçioìn no-standard do server.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Conesción segûa no riêscia">
+<!ENTITY nssFailure2.longDesc "<ul>
+  <li>A pàgina che ti prêuvi a védde a no se peu vizoalizâ perché l'aotentiçitæ a no se peu verificâ.</li>
+  <li>Pe favô ciàmma o propietâio do scîto pe informâlo do problêma. Ti peu ascì uzâ o menu agiùtto pe fâ un report in sciô scîto che gh'à o problêma.</li>
+</ul> ">
+
+<!ENTITY nssBadCert.title "Conesción segûa no riêscia">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Sto chi o peu êse un problêma co-e inpostaçión do server ò peu ascì êse quarchedùn che o prêuva a fâ finta de êse o server.</li>
+<li>Se ti t'ê conésso sénsa problêmi a sto server into passòu, alôa l'erô o peu esê tenporàneo e ti peu provâ ancón dòppo.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc2 "<ul>
+  <li>O scîto o poriéiva êse indispónibile o tròppo occupòu. Prêuva ancòn da chì a 'n pö.</li> 
+  <li>Se no ti pêu caregâ nisciùnn-a pagìna, contròlla i dæti do têu telefonìn ò a conesciòn Wi-Fi.</li> 
+</ul>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocòu da-a teu Politica de Seguéssa do Contegnûo">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; o l'inpedìsce che sta pàgina chi a vegne caregâ a sto mòddo perché a gh'à 'na politica de seguéssa che nò-u permétte.</p>">
+
+<!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
+<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contàtta i padroìn do scîto pe faghe savéi de quésto problêma.</li></ul>">
+
+<!ENTITY securityOverride.linkText "ò ti peu azónze 'na eceçión…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Pòrtime fêua de chi!">
+<!ENTITY securityOverride.exceptionButtonLabel "Azónzi 'na eceçión…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "<p>Ti no doviêsci azónze 'na eceçión se ti ûzi 'na conesción ch'a no l'é fiâ ò se ti no gh'æ l'àndio de védde di alàrmi in sto server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+ ">
+
+<!ENTITY remoteXUL.title "XUL Remòto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul></p>">
+
+

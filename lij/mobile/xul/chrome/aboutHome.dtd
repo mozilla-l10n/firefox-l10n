@@ -1,0 +1,32 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Inìçio</span>">
+<!ENTITY aboutHome.recentTabs                   "I teu féuggi de l'ùrtima vòtta">
+<!ENTITY aboutHome.remoteTabs                   "Féuggi di teu âtri computer">
+<!ENTITY aboutHome.recommendedAddons2           "Conpleménti pe-o teu &brandShortName;">
+<!ENTITY aboutHome.giveFeedback                 "Làscia di coménti">
+<!ENTITY aboutHome.getHelp                      "Agiùtto">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "Àrvi tùtto inte di féuggi">
+<!ENTITY aboutHome.noTabs                       "Nisciùn féuggio da l'ùrtima vòtta">
+<!ENTITY aboutHome.noAddons                     "Nisciùn conponénte azónto arecomandòu">
+<!ENTITY aboutHome.getLocale                    "Càngia léngoa">
+<!ENTITY aboutHome.getInBeforeBeta              "Intra primma de Beta.">
+<!ENTITY aboutHome.tryAurora                    "Prêuva o Firefox Aurora e agiùtta a dâghe fórma a-o futûro de Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Scàrega Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"pe Android">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "Inpòsta o Sync">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "Acóbia 'n aparâto">
+

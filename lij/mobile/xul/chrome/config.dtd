@@ -1,0 +1,13 @@
+<!ENTITY empty.label            "Riçèrca">
+<!ENTITY newpref.label          "Azónzi unna preferénsa nêuva">
+<!ENTITY addpref.name           "Nómme">
+<!ENTITY addpref.value          "Valô">
+
+<!ENTITY cancel.label           "Anùlla">
+<!ENTITY reset.label            "Reinpòsta">
+<!ENTITY done.label             "Fæto">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "Strìnga">
+<!ENTITY boolean.label          "Boolean">
+
