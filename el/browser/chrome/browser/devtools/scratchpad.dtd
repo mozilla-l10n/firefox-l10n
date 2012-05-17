@@ -37,51 +37,6 @@
 <!ENTITY editMenu.label               "Επεξεργασία">
 <!ENTITY editMenu.accesskey           "Ε">
 
-<!ENTITY undoCmd.label                "Αναίρεση">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "η">
-
-<!ENTITY redoCmd.label                "Ακύρωση αναίρεσης">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "ρ">
-
-<!ENTITY cutCmd.label                 "Αποκοπή">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "κ">
-
-<!ENTITY copyCmd.label                "Αντιγραφή">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "γ">
-
-<!ENTITY findCmd.label                "Εύρεση…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "ρ">
-
-<!ENTITY findAgainCmd.label           "Εύρεση ξανά…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "ξ">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Μετάβαση σε γραμμή…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "γ">
-
-
-
-<!ENTITY pasteCmd.label               "Επικόλληση">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "π">
-
-<!ENTITY selectAllCmd.label           "Επιλογή όλων">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "λ">
 
 <!ENTITY run.label                    "Εκτέλεση">
 <!ENTITY run.accesskey                "λ">
@@ -138,3 +93,14 @@
   -->
 <!ENTITY webConsoleCmd.commandkey     "k">
 
+<!ENTITY documentationLink.label      "Βοήθεια για το Scratchpad στο MDN">
+<!ENTITY documentationLink.accesskey  "D">
+
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Βοήθεια">
+<!ENTITY helpMenu.accesskey           "Β">
+<!ENTITY helpMenuWin.label            "Βοήθεια">
+<!ENTITY helpMenuWin.accesskey        "Β">

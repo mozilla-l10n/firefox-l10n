@@ -32,7 +32,16 @@
 
 <!ENTITY aboutSupport.copyToClipboard.label "Αντιγραφή όλων στο πρόχειρο">
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Φάκελος προφίλ">
 
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Εκδόσεις βιβλιοθήκης">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
