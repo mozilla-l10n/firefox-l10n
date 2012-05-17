@@ -46,6 +46,9 @@
 
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY new_tab "開新分頁">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d 個分頁">
 <!ENTITY new_tab_opened "已開啟新分頁">
 
 <!ENTITY settings "設定">
@@ -89,10 +92,15 @@
 <!ENTITY save_as_pdf "儲存為 PDF">
 
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
+<!ENTITY contextmenu_remove_history "移除">
 <!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
 <!ENTITY contextmenu_share "分享">
 <!ENTITY contextmenu_edit_bookmark "編輯">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "已移除頁面">
 
 <!ENTITY bookmark_edit_title "編輯書籤">
 <!ENTITY bookmark_edit_name "名稱">
