@@ -32,7 +32,7 @@
 <!ENTITY sync.input.server.label 'URL del servidor'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
+<!ENTITY sync.title.fail.label 'No se puede configurar &syncBrand.shortName.label;'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; no se pudo conectar al servidor. ¿Querés probar de nuevo?'>
 <!ENTITY sync.button.tryagain.label 'Intentar nuevamente'>
 <!ENTITY sync.button.manual.label 'Configuración manual'>
@@ -46,7 +46,8 @@
  
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Intentá de nuevo.'>
- 
+<!ENTITY sync.pair.connectlocation.label 'Para activar tu nuevo dispositivo, seleccioná “Configurar &syncBrand.shortName.label;” en el dispositivo y después seleccioná “Ya tengo una cuenta.”'>
+
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opciones'>
 <!ENTITY sync.summary.pair.label 'Asociar otro dispositivo a tu cuenta de &syncBrand.shortName.label;'>
