@@ -2,9 +2,13 @@
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
 
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+  %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Αρχική σελίδα &brandFullName;">
+
 
 
 
