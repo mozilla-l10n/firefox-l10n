@@ -46,6 +46,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Tente de novo.'>
+<!ENTITY sync.pair.connectlocation.label 'Para activar o novo dispositivo, seleccione “Configurar &syncBrand.shortName.label;” no dispositivo, e logo seleccione “Xa teño unha conta.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opcións'>
