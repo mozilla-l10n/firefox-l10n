@@ -63,8 +63,8 @@
 <!ENTITY tab.passwords.label "Jelszavak">
 <!ENTITY tab.formdata.label "Űrlapadatok">
 <!ENTITY tab.forget.label "Elfelejtés">
-<!-- cookies -->
 
+<!-- cookies -->
 <!ENTITY cookies.description "Ez a tartomány a következő sütiket tárolja a számítógépen:">
 
 <!ENTITY cookies.tree.host.label "Webhely ">
@@ -97,6 +97,7 @@
 <!ENTITY perm.AskAlways "Rákérdezés mindig">
 <!ENTITY perm.NeverSave "Soha ne mentse">
 <!ENTITY perm.Allow "Engedélyezés">
+<!ENTITY perm.AllowSameDomain "Engedélyezés azonos webhelyről">
 <!ENTITY perm.AllowSession "Engedélyezés a munkamenetben">
 <!ENTITY perm.Block "Tiltás">
 

@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
 <!ENTITY quickMode.accesskey "c">
 
+<!ENTITY locationValidate.label      "Ellenőrzés">
 <!ENTITY validateText.label          "Ellenőrzés és érvényes URL letöltése.">
 
 <!ENTITY button.addFeed.label "Hozzáadás">
