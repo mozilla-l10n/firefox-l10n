@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Üzenettároló">
 <!ENTITY securitySettings.label "Biztonsági beállítások">
 <!ENTITY serverSettings.label "Kiszolgáló beállításai">
 <!ENTITY serverType.label "Kiszolgálótípus:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Newsrc fájl kiválasztása">
 <!ENTITY browseNewsrc.label "Tallózás...">
 <!ENTITY browseNewsrc.accesskey "a">
+
+<!ENTITY accountTitle.label "Postafiók beállítások">
+<!ENTITY accountSettingsDesc.label "Ez egy speciális fiók. Nincs hozzá személyazonosság társítva.">

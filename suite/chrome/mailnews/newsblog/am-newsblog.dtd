@@ -1,5 +1,3 @@
-<!ENTITY accountTitle.label "Postafiók beállításai">
-
 <!ENTITY biffStart.label "Új cikkek ellenőrzése ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "percenként">
