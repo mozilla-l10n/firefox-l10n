@@ -1,4 +1,3 @@
-<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Új üzenet: (nincs tárgy)">
 
 <!ENTITY fromAddr.label "Feladó:">
@@ -7,10 +6,10 @@
 <!ENTITY subject.accesskey "T">
 <!ENTITY attachments.label "Mellékletek:">
 <!ENTITY attachments.accesskey "M">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.label "Mentés">
 <!ENTITY saveCmd.accesskey "M">
 <!ENTITY saveAsCmd.label "Mentés másként">
@@ -113,14 +112,8 @@
 <!ENTITY attachButton.tooltip "Melléklet hozzáadása">
 <!ENTITY saveButton.tooltip "Az üzenet mentése">
 <!ENTITY stopButton.tooltip "Átvitel megszakítása">
+
 <!-- context menu items -->
-
-<!ENTITY spellCheckNoSuggestions.label "(Nincs javaslat)">
-<!ENTITY spellCheckIgnoreWord.label "Szó kihagyása">
-<!ENTITY spellCheckIgnoreWord.accesskey "k">
-<!ENTITY spellCheckAddToDictionary.label "Hozzáadás a szótárhoz">
-<!ENTITY spellCheckAddToDictionary.accesskey "H">
-
 <!ENTITY openAttachment.label "Megnyitás">
 <!ENTITY openAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "Átnevezés">
