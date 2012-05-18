@@ -26,7 +26,7 @@
 <!ENTITY addCloudFileAccount.description  "Ouzhpennañ ur gwazerezh kadaviñ Filelink nevez">
 <!ENTITY removeCloudFileAccount.label     "Lemel">
 <!ENTITY removeCloudFileAccount.accesskey "L">
-<!ENTITY authRequired.description         "Azgoulennet eo ho aotre a-benn gwelout an arventennoù evit ar gwazerezh kadaviñ-mañ.">
+<!ENTITY authRequired.description         "Azgoulennet eo hoc'h aotre a-benn gwelout an arventennoù evit ar gwazerezh kadaviñ-mañ.">
 <!ENTITY authRequired.button.label        "Aotren">
 <!ENTITY authRequired.button.accesskey    "A">
 

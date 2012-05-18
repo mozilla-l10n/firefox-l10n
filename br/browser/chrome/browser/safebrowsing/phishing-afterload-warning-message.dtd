@@ -23,4 +23,4 @@
 <!ENTITY safeb.blocked.phishingPage.title "C'hwiberezh dre internet marilhet!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Marilhet eo bet ar bajenn-mañ e <span id='phishing_sitename'/> evel ur bajenn c'hwiberezh ha harzet eo bet gant ho kwellvezioù diogelroez.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Savet eo ar c'hwiberezhioù dre internet evit ho kwallbakañ a-benn ma vo roet titouroù personel pe arc'hantel ganeoc'h en ur zreveziñ lec'hiennoù brudet mat ganeoc'h.</p><p>Mar bez roet titouroù d'ar bajenn-mañ e vo laeret ho pivelezh pe taolioù fall all.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Savet eo ar c'hwiberezhioù dre internet evit ho kwallbakañ a-benn ma vo roet titouroù personel pe arc'hantel ganeoc'h en ur zreveziñ lec'hiennoù brudet-mat ganeoc'h.</p><p>Mar bez roet titouroù d'ar bajenn-mañ e vo laeret ho pivelezh pe taolioù fall all.</p>">

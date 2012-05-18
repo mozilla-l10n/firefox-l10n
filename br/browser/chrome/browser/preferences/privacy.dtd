@@ -42,7 +42,7 @@
 <!ENTITY  historyHeader.custom.label       "Implijout arventennoù personelaet evit ar roll istor">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; a zalc'ho soñj al lec'hiennoù gweladennet, ar pellgargadurioù, ar furmskridoù hag ar c'hlaskoù. En a zalc'ho ivez an toupinoù eus al lec'hiennoù gweladennet.">
+<!ENTITY  rememberDescription.label      "&brandShortName; a zalc'ho soñj al lec'hiennoù gweladennet, ar pellgargadurioù, ar furmskridoù hag ar c'hlaskoù. Eñ a zalc'ho ivez an toupinoù eus al lec'hiennoù gweladennet.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->

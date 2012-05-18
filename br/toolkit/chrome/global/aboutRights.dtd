@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "An holl reolennoù arloadus a-zivout ar vuhez prevez a rankfe bezañ kavet amañ.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Molladoù zo eus &brandShortName; a ra gant gwazerezhioù kelaouiñ diazezet war ar genrouedad, koulskoude n'omp ket evit gwarantiñ ez int spis penn da benn ha hep fazioù. Titouroù ouzhpenn (en o zouez penaos diweredekaat ar molladoù a ra gant ar gwazerezhioù-mañ) a vez kavet e ">
+<!ENTITY rights2.intro-point4a "Molladoù zo eus &brandShortName; a ra gant gwazerezhioù kelaouiñ diazezet war ar genrouedad, koulskoude n'omp ket evit gwarantiñ ez int spis penn-da-benn ha hep fazioù. Titouroù ouzhpenn (en o zouez penaos diweredekaat ar molladoù a ra gant ar gwazerezhioù-mañ) a vez kavet e ">
 <!ENTITY rights.intro-point4b "termenoù ar gwazerezh">
 <!ENTITY rights.intro-point4c ".">
 
@@ -54,7 +54,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Merdeiñ Diarvar : ">
-<!ENTITY rights.safebrowsing-b "Diweredekaat mollad ar Merdeiñ diarvar n'eo ket erbedet rak da lec'hiennoù arvarus ez eot marteze. Mar fell deoc'h diweredekaat ar mollad-mañ penn da benn, grit evel henn :">
+<!ENTITY rights.safebrowsing-b "Diweredekaat mollad ar Merdeiñ diarvar n'eo ket erbedet rak da lec'hiennoù arvarus ez eot marteze. Mar fell deoc'h diweredekaat ar mollad-mañ penn-da-benn, grit evel-henn :">
 <!ENTITY rights.safebrowsing-term1 "Digeriñ gwellvezioù an arload">
 <!ENTITY rights.safebrowsing-term2 "Diuzit an diuzad a-fet diogelroez">
 <!ENTITY rights.safebrowsing-term3 "Digevaskit an dibarzhioù evit &quot;&blockAttackSites.label;&quot; ha &quot;&blockWebForgeries.label;&quot;">

@@ -8,7 +8,7 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label     "Herzel al lec'hiennoù arouezet evel lec'hiennoù dagus">
+<!ENTITY  blockAttackSites.label     "Herzel al lec'hiennoù arouezet evel lec'hiennoù tagus">
 <!ENTITY  blockAttackSites.accesskey "H">
 
 <!ENTITY  blockWebForgeries.label     "Herzel al lec'hiennoù arouezet evel bezañ drevezet">
