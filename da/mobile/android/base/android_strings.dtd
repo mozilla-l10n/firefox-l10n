@@ -5,7 +5,7 @@
 <!ENTITY  no_space_to_start_error "Der er ikke nok tilgængelig plads til at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
 
-
+<!ENTITY  awesomebar_all_pages_title "Hyppige steder">
 <!ENTITY  awesomebar_bookmarks_title "Bogmærker">
 <!ENTITY  awesomebar_history_title "Historik">
 <!ENTITY  awesomebar_search_engine "Søg efter \&quot;&#037;s\&quot;">
@@ -31,7 +31,7 @@
 <!ENTITY remote_tabs "Synkroniserede faneblade">
 <!ENTITY remote_tabs_show_all "Vis alle faneblade">
 
-<!ENTITY bookmark "Bogmærke">
+<!ENTITY bookmark "Sæt bogmærke">
 <!ENTITY bookmark_added "Bogmærke tilføjet">
 <!ENTITY bookmark_removed "Bogmærke fjernet">
 <!ENTITY bookmark_updated "Bogmærke opdateret">
@@ -53,17 +53,17 @@
 <!ENTITY pref_category_privacy "Privatliv &amp; sikkerhed">
 <!ENTITY pref_category_content "Indhold">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
-
+<!ENTITY pref_do_not_track "Aktiver Spor-mig-ikke">
 <!ENTITY pref_telemetry "Indsend ydelsesdata">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
-
+<!ENTITY pref_cookies "Aktiver cookies">
 <!ENTITY pref_char_encoding "Tegnkodning">
 <!ENTITY pref_char_encoding_on "Vis menu">
 <!ENTITY pref_char_encoding_off "Vis ikke menu">
 <!ENTITY pref_clear_history "Ryd historik">
 <!ENTITY pref_clear_history_confirm "Browserhistorik vil blive slettet">
 <!ENTITY pref_clear_private_data "Ryd private data">
-
+<!ENTITY pref_clear_private_data_confirm "Browserindstillinger, herunder adgangskoder og cookies, vil blive slettet">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiveret">
 <!ENTITY pref_plugins_tap_to_play "Tryk her for at afspille">
@@ -115,9 +115,9 @@
 <!ENTITY abouthome_addons_browse "Gennemse alle tilføjelser til &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Dine faneblade fra sidst">
 <!ENTITY abouthome_last_tabs_open "Åbn alle faneblade fra sidst">
-
-
-
+<!ENTITY abouthome_top_sites_title "Hyppige steder">
+<!ENTITY abouthome_top_sites_browse "Vis alle dine hyppige steder">
+<!ENTITY abouthome_no_top_sites "Du har ikke nogle hyppige steder endnu. Tryk på titellinjen for at starte.">
 <!ENTITY abouthome_about_sync "Opsæt Firefox Sync for at få adgang til bogmærker, historik og faneblade fra dine andre enheder">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 

@@ -12,7 +12,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'For at aktivere din nye enhed, vælg “Opsæt &syncBrand.shortName.label;” på enheden.'>
 <!ENTITY sync.subtitle.header.label 'Indtast denne kode på din computer'>
-
+<!ENTITY sync.subtitle.connectlocation.label 'Vælg “&sync.title.pair.label;” under &syncBrand.shortName.label; indstillinger på din desktop version af Firefox.'>
 <!ENTITY sync.subtitle.pair.label 'For at aktivere, vælg “Tilføj enhed” på din anden enhed.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -49,7 +49,7 @@
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Indstillinger'>
-
+<!ENTITY sync.summary.pair.label 'Kobl en anden enhedn til din &syncBrand.shortName.label; konto'>
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Annuller'>
@@ -65,7 +65,7 @@
 <!ENTITY bookmarks.folder.tags.label 'Mærkater'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bogmærkelinjen'>
 <!ENTITY bookmarks.folder.unfiled.label 'Usorterede bogmærker'>
-
+<!ENTITY bookmarks.folder.desktop.label 'Bogmærker på desktoppen'>
 <!ENTITY bookmarks.folder.mobile.label 'Bogmærker på mobilen'>
 
 <!-- Notification strings -->
