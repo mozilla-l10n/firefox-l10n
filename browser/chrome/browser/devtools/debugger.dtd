@@ -1,4 +1,4 @@
-<!ENTITY debuggerMenu.label "Debugger script">
+<!ENTITY debuggerMenu.label2 "Debugger">
 <!ENTITY remoteDebuggerMenu.label "Debug remoto">
 <!ENTITY chromeDebuggerMenu.label "Debug browser">
 <!ENTITY debuggerMenu.commandkey "S">
