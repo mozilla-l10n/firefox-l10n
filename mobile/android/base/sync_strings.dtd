@@ -4,7 +4,7 @@
 <!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Aggiungi un account &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Collega un dispositivo">
-<!ENTITY sync.subtitle.connect.label "Per attivare un nuovo dispositivo selezionare “Imposta &syncBrand.shortName.label;” sul dispositivo stesso.">
+<!ENTITY sync.subtitle.connect.label "Per attivare un nuovo dispositivo selezionare “Configurazione di &syncBrand.shortName.label;” sul dispositivo stesso.">
 <!ENTITY sync.subtitle.header.label "Inserire questo codice sul computer">
 <!ENTITY sync.subtitle.connectlocation.label "Selezionare “&sync.title.pair.label;” nella sezione &syncBrand.shortName.label; delle opzioni di Firefox sul computer desktop.">
 <!ENTITY sync.subtitle.pair.label "Per attivare selezionare “Collega un dispositivo” sull’altro dispositivo.">
@@ -30,6 +30,7 @@
 <!ENTITY sync.settings.label "Impostazioni">
 <!ENTITY sync.subtitle.manage.label "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni.">
 <!ENTITY sync.pair.tryagain.label "Riprovare">
+<!ENTITY sync.pair.connectlocation.label 'Per attivare un nuovo dispositivo selezionare "Configurazione di &syncBrand.shortName.label;" e poi "Utilizza un account esistente".'>
 <!ENTITY sync.settings.options.label "Opzioni">
 <!ENTITY sync.summary.pair.label "Collega un altro dispositivo all’account &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Annulla">
