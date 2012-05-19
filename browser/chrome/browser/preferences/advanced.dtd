@@ -25,8 +25,9 @@
 <!ENTITY systemDefaults.label            "預設網頁瀏覽器">
 <!ENTITY alwaysCheckDefault.label        "啟動時永遠檢查 &brandShortName; 是否為預設瀏覽器"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "立刻檢查">
-<!ENTITY checkNow.accesskey              "N">
+<!ENTITY setDefault.label                "將 &brandShortName; 設為預設瀏覽器">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; 是您目前的預設瀏覽器">
 <!ENTITY submitCrashes.label             "送出錯誤報告">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "送出效能資料">
