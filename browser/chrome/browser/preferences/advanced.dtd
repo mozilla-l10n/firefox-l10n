@@ -25,8 +25,9 @@
 <!ENTITY systemDefaults.label            "Opciones de sistema">
 <!ENTITY alwaysCheckDefault.label        "Siempre verificar si &brandShortName; es el navegador predeterminado al iniciar"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "g">
-<!ENTITY checkNow.label                  "Verificar ahora">
-<!ENTITY checkNow.accesskey              "V">
+<!ENTITY setDefault.label                "Establecer &brandShortName; como navegador predeterminado">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; es actualmente su navegador predeterminado">
 <!ENTITY submitCrashes.label             "Enviar informe de fallos">
 <!ENTITY submitCrashes.accesskey         "E">
 <!ENTITY submitTelemetry.label           "Enviar datos de rendimiento">
