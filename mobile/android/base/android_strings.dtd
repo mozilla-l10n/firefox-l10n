@@ -5,7 +5,7 @@
 <!ENTITY awesomebar_all_pages_title "Siti principali">
 <!ENTITY awesomebar_bookmarks_title "Segnalibri">
 <!ENTITY awesomebar_history_title "Cronologia">
-<!ENTITY awesomebar_search_engine "Cerca \&quot;%s\&quot;">
+<!ENTITY awesomebar_search_engine "Cerca \&quot;&#037;s\&quot;">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
 <!ENTITY crash_message "Si è verificato un arresto anomalo di &brandShortName;. Un elenco delle schede aperte dovrebbe essere disponibile nella pagina iniziale di &brandShortName; dopo il riavvio.">
 <!ENTITY crash_help_message "Aiutaci a risolvere il problema!">
@@ -34,7 +34,7 @@
 <!ENTITY forward "Avanti">
 <!ENTITY close_tab "Chiudi scheda">
 <!ENTITY new_tab "Nuova scheda">
-<!ENTITY num_tabs "%d schede">
+<!ENTITY num_tabs "&#037;d schede">
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY settings "Impostazioni">
 <!ENTITY settings_title "Impostazioni">
