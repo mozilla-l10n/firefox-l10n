@@ -1,4 +1,4 @@
-<!ENTITY debuggerMenu.label "Отладчик сценариев">
+<!ENTITY debuggerMenu.label2 "Отладчик">
 <!ENTITY remoteDebuggerMenu.label "Удалённый отладчик">
 <!ENTITY chromeDebuggerMenu.label "Отладчик браузера">
 <!ENTITY debuggerMenu.commandkey "S">
