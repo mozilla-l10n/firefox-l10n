@@ -15,11 +15,12 @@
 <!ENTITY allowHWAccel.accesskey "r">
 <!ENTITY checkSpelling.label "Comprobar la ortografía mientras se escribe">
 <!ENTITY checkSpelling.accesskey "t">
-<!ENTITY systemDefaults.label "Por defecto">
+<!ENTITY systemDefaults.label "Predeterminados del sistema">
 <!ENTITY alwaysCheckDefault.label "Comprobar siempre si &brandShortName; es el navegador predeterminado al iniciar">
 <!ENTITY alwaysCheckDefault.accesskey "s">
-<!ENTITY checkNow.label "Comprobar ahora">
-<!ENTITY checkNow.accesskey "m">
+<!ENTITY setDefault.label "Hacer a &brandShortName; el navegador predeterminado">
+<!ENTITY setDefault.accesskey "d">
+<!ENTITY isDefault.label "&brandShortName; es actualmente su navegador predeterminado">
 <!ENTITY submitCrashes.label "Enviar reportes de fallos">
 <!ENTITY submitCrashes.accesskey "f">
 <!ENTITY submitTelemetry.label "Enviar información de rendimiento">
