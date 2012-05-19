@@ -30,6 +30,7 @@
 <!ENTITY sync.settings.label "Параметры">
 <!ENTITY sync.subtitle.manage.label "Ваша учётная запись &syncBrand.fullName.label; уже настроена. Вы можете перейти в Параметры для управления вашей учётной записью.">
 <!ENTITY sync.pair.tryagain.label "Пожалуйста, попробуйте снова.">
+<!ENTITY sync.pair.connectlocation.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;», а затем выберите «У меня есть учётная запись».">
 <!ENTITY sync.settings.options.label "Настройки">
 <!ENTITY sync.summary.pair.label "Связать другое устройство с вашей учётной записью &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Отмена">

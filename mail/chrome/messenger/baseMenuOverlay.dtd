@@ -10,8 +10,6 @@
 <!ENTITY releaseCmd2.accesskey "в">
 <!ENTITY whatsNewCmd.label "Что нового">
 <!ENTITY whatsNewCmd.accesskey "н">
-<!ENTITY featureConfiguratorCmd.label "Помощник в миграции">
-<!ENTITY featureConfiguratorCmd.accesskey "м">
 <!ENTITY openHelp.label "Содержание">
 <!ENTITY openHelp.accesskey "С">
 <!ENTITY openHelp.commandkey "VK_F1">
