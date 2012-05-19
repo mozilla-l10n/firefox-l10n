@@ -180,7 +180,7 @@
 <!ENTITY inspectorHTMLDelete.accesskey "m">
 <!ENTITY inspectOptionButton.tooltiptext "Opciones del inspector">
 <!ENTITY inspectorToggleVeil.label "Atenuar la página">
-<!ENTITY inspectorToggleVeil.accesskey "D">
+<!ENTITY inspectorToggleVeil.accesskey "A">
 <!ENTITY inspectorToggleInfobar.label "Mostrar información del nodo">
 <!ENTITY inspectorToggleInfobar.accesskey "S">
 <!ENTITY inspect3DViewButton.label "Vista 3D">

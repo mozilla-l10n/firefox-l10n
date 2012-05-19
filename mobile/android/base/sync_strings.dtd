@@ -30,6 +30,7 @@
 <!ENTITY sync.settings.label "Configuración">
 <!ENTITY sync.subtitle.manage.label "Su cuenta de &syncBrand.fullName.label; ya está configurada. Vaya a la Configuración para administrar su cuenta.">
 <!ENTITY sync.pair.tryagain.label "Por favor, pruebe de nuevo.">
+<!ENTITY sync.pair.connectlocation.label 'Para activar su nuevo dispositivo, seleccione "Configurar &syncBrand.shortName.label;" en el dispositivo, y seleccione "Tengo una cuenta".'>
 <!ENTITY sync.settings.options.label "Opciones">
 <!ENTITY sync.summary.pair.label "Vincule otro dispositivo a su cuenta de &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Cancelar">
