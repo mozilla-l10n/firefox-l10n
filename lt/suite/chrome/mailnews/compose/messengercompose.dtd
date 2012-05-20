@@ -114,12 +114,6 @@
 <!ENTITY stopButton.tooltip "Stabdyti atsiuntimą"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(Nėra siūlymų)">
-<!ENTITY spellCheckIgnoreWord.label "Praleisti">
-<!ENTITY spellCheckIgnoreWord.accesskey "i">
-<!ENTITY spellCheckAddToDictionary.label "Įtraukti į žodyną">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "Atverti">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Pervardinti…">
