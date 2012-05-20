@@ -3,7 +3,7 @@
 <!ENTITY about.button                              "페이지로 가기">
 <!ENTITY content.title                             "내용">
 <!ENTITY reflowZoom.title                          "확대 시 텍스트 재설정">
-<!ENTITY showImages.title                          "그림 보이기">
+<!ENTITY showImages.title                          "이미지 보이기">
 <!ENTITY enableJavaScript.title                    "자바스크립트 사용">
 <!ENTITY privacy.title                             "개인 정보 &amp; 보안">
 <!ENTITY allowCookies.title                        "쿠기 허용">

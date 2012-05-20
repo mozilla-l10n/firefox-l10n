@@ -1,4 +1,5 @@
 <!ENTITY dialog.title "도구 모음 설정">
+<!ENTITY dialog.dimensions		"width: 95ch; height: 42em;"><!-- en-US: "width: 92ch; height: 36em;" This is not error! -->
 <!ENTITY instructions.description "마우스의 끌어다 놓기로 도구 모음의 아이콘을 추가 또는 제거할 수 있습니다.">
 <!ENTITY show.label "보이기:">
 <!ENTITY iconsAndText.label "아이콘과 이름">
@@ -9,4 +10,3 @@
 <!ENTITY addNewToolbar.label "새 도구 모음 추가">
 <!ENTITY saveChanges.label "확인">
 <!ENTITY undoChanges.label "취소">
-<!ENTITY dialog.style "width: 635px; height: 400px;">

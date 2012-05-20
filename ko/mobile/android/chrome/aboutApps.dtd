@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "내 앱">
+
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.noApps.pre "설치한 앱이 없습니다. ">
+<!ENTITY aboutApps.noApps.middle "앱스토어">
+<!ENTITY aboutApps.noApps.post " 받을 수 있습니다.">

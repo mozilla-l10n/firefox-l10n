@@ -4,7 +4,6 @@
 <!ENTITY props.path.label "경로:">
 <!ENTITY props.secure.label "수신:">
 <!ENTITY props.expires.label "만료:">
-<!ENTITY props.policy.label "정책:">
 <!ENTITY button.allow.label "허가">
 <!ENTITY button.allow.accesskey "A">
 <!ENTITY button.session.label "세션 허가">

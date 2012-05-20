@@ -1,3 +1,4 @@
+<!ENTITY messageStorage.label	"메세지 저장">
 <!ENTITY securitySettings.label "보안 설정">
 <!ENTITY serverSettings.label "서버 설정">
 <!ENTITY serverType.label "서버 종류:">
@@ -63,3 +64,6 @@
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.accesskey "d">
+
+<!ENTITY accountTitle.label		"계정 설정">
+<!ENTITY accountSettingsDesc.label	"이는 특수한 계정으로 특정 정보가 없습니다.">

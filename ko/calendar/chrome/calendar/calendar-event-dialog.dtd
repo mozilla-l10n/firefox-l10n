@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "링크 추가…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "시간대">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                   "시간대 표시">
+<!ENTITY  event.menu.options.timezone2.accesskey               "z">
 <!ENTITY  event.menu.options.priority2.label                  "중요도">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "지정 안됨">
@@ -248,35 +248,35 @@
 <!ENTITY event.reminder.multiple.label                    "다중 알림…" >
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "Edit Recurrence">
+<!ENTITY recurrence.title.label                         "되풀이 편집">
 
 <!ENTITY event.repeat.does.not.repeat.label             "되풀이 안함">
-<!ENTITY event.repeat.daily.label                       "Daily">
-<!ENTITY event.repeat.weekly.label                      "Weekly">
+<!ENTITY event.repeat.daily.label                       "일간">
+<!ENTITY event.repeat.weekly.label                      "주간">
 <!ENTITY event.repeat.every.weekday.label               "매주">
-<!ENTITY event.repeat.bi.weekly.label                   "Bi-weekly">
-<!ENTITY event.repeat.monthly.label                     "Monthly">
-<!ENTITY event.repeat.yearly.label                      "Yearly">
+<!ENTITY event.repeat.bi.weekly.label                   "격주">
+<!ENTITY event.repeat.monthly.label                     "월간">
+<!ENTITY event.repeat.yearly.label                      "연간">
 <!ENTITY event.repeat.custom.label                      "사용자 정의…">
 
-<!ENTITY event.recurrence.pattern.label                 "Recurrence pattern">
+<!ENTITY event.recurrence.pattern.label                 "되풀이 패턴">
 <!ENTITY event.recurrence.occurs.label                  "되풀이" >
-<!ENTITY event.recurrence.day.label                     "daily" >
-<!ENTITY event.recurrence.week.label                    "weekly" >
-<!ENTITY event.recurrence.month.label                   "monthly" >
-<!ENTITY event.recurrence.year.label                    "annually" >
+<!ENTITY event.recurrence.day.label                     "일간" >
+<!ENTITY event.recurrence.week.label                    "주간" >
+<!ENTITY event.recurrence.month.label                   "월간" >
+<!ENTITY event.recurrence.year.label                    "연간" >
 
-<!ENTITY event.recurrence.pattern.every.label           "Every" >
-<!ENTITY repeat.units.days.both                         "Day(s)" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "매주" >
+<!ENTITY event.recurrence.pattern.every.label           "매" >
+<!ENTITY repeat.units.days.both                         "일" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "주" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "Every" >
-<!ENTITY repeat.units.weeks.both                        "Week(s)" >
-<!ENTITY event.recurrence.on.label                      "On:" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "매" >
+<!ENTITY repeat.units.weeks.both                        "주" >
+<!ENTITY event.recurrence.on.label                      "시작:" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "Every" >
-<!ENTITY repeat.units.months.both                       "Month(s)" >
-<!ENTITY event.recurrence.monthly.every.label           "Every" >
+<!ENTITY event.recurrence.pattern.monthly.every.label   "매" >
+<!ENTITY repeat.units.months.both                       "월" >
+<!ENTITY event.recurrence.monthly.every.label           "매" >
 <!ENTITY event.recurrence.monthly.first.label           "첫번째">
 <!ENTITY event.recurrence.monthly.second.label          "두번째">
 <!ENTITY event.recurrence.monthly.third.label           "세번째">
@@ -290,12 +290,12 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label  "목요일" >
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "금요일" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "일요일" >
-<!ENTITY event.recurrence.repeat.dayofmonth.label       "Day of the month">
-<!ENTITY event.recurrence.repeat.recur.label            "Recur on day(s)">
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "월간">
+<!ENTITY event.recurrence.repeat.recur.label            "일간">
 
-<!ENTITY event.recurrence.every.label                        "Every:" >
-<!ENTITY repeat.units.years.both                             "Year(s)" >
-<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Every" >
+<!ENTITY event.recurrence.every.label                        "매:" >
+<!ENTITY repeat.units.years.both                             "년" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "매" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -346,11 +346,11 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "11월" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "12월" >
 
-<!ENTITY event.recurrence.range.label                   "Range of recurrence">
+<!ENTITY event.recurrence.range.label                   "되풀이 범위">
 <!ENTITY event.recurrence.forever.label                 "종료일 없음" >
 <!ENTITY event.recurrence.repeat.for.label              "생성" >
-<!ENTITY event.recurrence.appointments.label            "Appointment(s)" >
-<!ENTITY event.repeat.until.label                       "Repeat until" >
+<!ENTITY event.recurrence.appointments.label            "약속" >
+<!ENTITY event.repeat.until.label                       "되풀이 종료일" >
 <!ENTITY event.recurrence.preview.label                 "미리보기">
 
 <!-- Attendees dialog -->
@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "다음 슬롯 " >
 <!ENTITY event.freebusy.previous.slot           "이전 슬롯" >
 <!ENTITY event.freebusy.zoom                    "확대:">
-<!ENTITY event.freebusy.plus                    "다음 시간" >
-<!ENTITY event.freebusy.minus                   "이전 시간" >
 <!ENTITY event.freebusy.legend.free             "일정 없음" >
 <!ENTITY event.freebusy.legend.busy             "일정 있음" >
 <!ENTITY event.freebusy.legend.busy_tentative   "임시" >
@@ -373,7 +371,8 @@
 <!ENTITY event.attendee.role.nonparticipant     "참석자 없음">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "시간대를 지정 하십시오.">
+<!ENTITY timezone.title.label            "시간대 지정하기">
+<!ENTITY event.timezone.custom.label			"다른 시간대">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "일반">

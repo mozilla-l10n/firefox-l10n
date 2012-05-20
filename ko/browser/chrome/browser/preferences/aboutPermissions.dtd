@@ -26,7 +26,8 @@
 <!ENTITY cookie.manage			"쿠키 표시…">
 <!ENTITY cookie.removeAll		"모든 쿠키 제거">
 
-<!ENTITY geo.label			"위치 정보 제공">
+<!ENTITY geo.label			  "위치 정보 제공">
+<!ENTITY plugins.label        "플러그인">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->

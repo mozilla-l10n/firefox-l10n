@@ -51,11 +51,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "사생활 보호 모드로만 이용">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "방문 기록 저장">
-<!ENTITY  rememberHistory.accesskey  "h">
-
-<!ENTITY  rememberDownload.label         "다운로드 기록 저장">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "표시한 페이지 및 파일 다운로드 기록 저장">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "검색 및 입력 기록 저장">
 <!ENTITY  rememberSearchForm.accesskey   "f">

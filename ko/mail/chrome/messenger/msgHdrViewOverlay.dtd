@@ -67,6 +67,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "보낸이와 모든 수신자에 답장">
 <!ENTITY hdrReplyListButton1.label "리스트로 답장">
 <!ENTITY hdrReplyListButton1.tooltip "메일링 리스트로 답장">
+<!ENTITY hdrFollowupButton1.label		"팔로우업">
+<!ENTITY hdrFollowupButton1.tooltip		"이 뉴스 그룹에 팔로우업 투고">
 <!ENTITY hdrForwardButton1.label "전달">
 <!ENTITY hdrForwardButton1.tooltip "이 메시지를 전달">
 <!ENTITY hdrJunkButton1.label "스팸 표시">
@@ -130,5 +132,8 @@
 <!ENTITY copyLinkCmd.accesskey			"C">
 
 <!ENTITY CopyMessageId.label			"메세지 ID를 카피">
+<!ENTITY CopyMessageId.accesskey		"C">
 <!ENTITY OpenMessageForMsgId.label "Message-ID로 열기">
+<!ENTITY OpenMessageForMsgId.accesskey		"O">
 <!ENTITY OpenBrowserWithMsgId.label "Message-ID로 웹 브라우저 열기">
+<!ENTITY OpenBrowserWithMsgId.accesskey		"B">

@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "스팸 메일 기록">
-<!ENTITY junkLogInfo.label "스팸 메일 처리 활동 기록">
+<!ENTITY adaptiveJunkLog.title "스팸 메일 기록">
+<!ENTITY adaptiveJunkLogInfo.label "스팸 메일 적응 필터의 동작 기록입니다.">
 <!ENTITY clearLog.label "기록 삭제">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY closeLog.label "닫기">

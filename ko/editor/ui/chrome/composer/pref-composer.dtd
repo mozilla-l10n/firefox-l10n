@@ -9,7 +9,7 @@
 <!ENTITY  preserveExisting.label        "원래 소스 포맷을 유지">
 <!ENTITY  preserveExisting.accesskey    "P">
 <!ENTITY  preserveExisting.tooltip      "행 끊기 및 페이지 원래 포맷 유지">
-<!ENTITY  saveAssociatedFiles.label     "페이지 저장시 그림과 관련 파일까지 함께 저장">
+<!ENTITY  saveAssociatedFiles.label     "페이지 저장시 이미지와 관련 파일까지 함께 저장">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "페이지 출판시 출판 대화상자 항상 보이기">
 <!ENTITY  showPublishDialog.accesskey   "A">
