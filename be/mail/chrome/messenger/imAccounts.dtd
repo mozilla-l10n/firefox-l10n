@@ -1,0 +1,24 @@
+<!ENTITY accountsWindow.title "Instant messaging status">
+<!ENTITY accountsWindow.style "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label "Стварыць рахунак">
+<!ENTITY accountManager.newAccount.accesskey "С">
+<!ENTITY accountManager.close.label "Зачыніць">
+<!ENTITY accountManager.close.accesskey "ч">
+<!ENTITY accountManager.close.commandkey "a">
+<!ENTITY accountManager.noAccount.title "Няма наладжаных рахункаў">
+<!ENTITY accountManager.noAccount.description 'Пстрыкніце кнопку "&accountManager.newAccount.label;", каб дазволіць &brandShortName; настаўляць вас падчас наладжвання новага рахунку.'>
+<!ENTITY account.autoSignOn.label "Увайсці падчас запуску">
+<!ENTITY account.autoSignOn.accesskey "У">
+<!ENTITY account.connect.label "Злучыцца">
+<!ENTITY account.connect.accesskey "o">
+<!ENTITY account.disconnect.label "Разлучыцца">
+<!ENTITY account.disconnect.accesskey "Р">
+<!ENTITY account.edit.label "Уласцівасці">
+<!ENTITY account.edit.accesskey "л">
+<!ENTITY account.moveup.label "Рухаць угору">
+<!ENTITY account.movedown.label "Рухаць уніз">
+<!ENTITY account.cancelReconnection.label "Скасаваць перазлучэнне">
+<!ENTITY account.cancelReconnection.accesskey "к">
+<!ENTITY account.connecting "Злучэнне…">
+<!ENTITY account.disconnecting "Разлучэнне…">
+<!ENTITY account.disconnected "Не злучана">

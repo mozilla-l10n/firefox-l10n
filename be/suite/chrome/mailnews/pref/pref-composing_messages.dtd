@@ -25,3 +25,9 @@
 <!ENTITY fontColor.accesskey "Т">
 <!ENTITY bgColor.label "Фон:">
 <!ENTITY bgColor.accesskey "Ф">
+<!ENTITY selectHeaderType.label "Выберыце тып загалоўка адказу:">
+<!ENTITY selectHeaderType.accesskey "б">
+<!ENTITY noReplyOption.label "Без загалоўка адказу">
+<!ENTITY authorWroteOption.label "[Аўтар] напісаў:">
+<!ENTITY onDateAuthorWroteOption.label "[дата] [аўтар] напісаў:">
+<!ENTITY authorWroteOnDateOption.label "[Аўтар] напісаў [дата]:">

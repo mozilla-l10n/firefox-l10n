@@ -57,3 +57,7 @@
 <!ENTITY forwardCmd.accesskey "п">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey "с">
+<!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
+<!ENTITY copyEmailCmd.accesskey "э">

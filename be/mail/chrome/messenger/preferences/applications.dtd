@@ -13,3 +13,15 @@
 <!ENTITY chooseFolderWin.accesskey "А">
 <!ENTITY chooseFolderMac.label "Выбар…">
 <!ENTITY chooseFolderMac.accesskey "В">
+<!ENTITY attachments.incoming.label "Уваходныя">
+<!ENTITY attachments.outgoing.label "Выходныя">
+<!ENTITY addCloudFileAccount.label "Дадаць">
+<!ENTITY addCloudFileAccount.accesskey "A">
+<!ENTITY addCloudFileAccount.description "Дадаць новую службу сховішчаў Filelink">
+<!ENTITY removeCloudFileAccount.label "Прыняць">
+<!ENTITY removeCloudFileAccount.accesskey "П">
+<!ENTITY authRequired.description "Патрабуецца ваш дазвол, каб пабачыць наладжванні для службы сховішчаў.">
+<!ENTITY authRequired.button.label "Дазволіць">
+<!ENTITY authRequired.button.accesskey "з">
+<!ENTITY enableCloudFileAccountOffer.label "Прапанова дзяліцца файламі большымі, чым ">
+<!ENTITY enableCloudFileAccountOffer.mb "МБ">

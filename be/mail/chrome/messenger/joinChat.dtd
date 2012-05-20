@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title "Пачаць гутарыць">
+<!ENTITY name.label "Пакой">
+<!ENTITY optional.label "(неабавязкова)">
+<!ENTITY account.label "Рахунак">
+<!ENTITY autojoin.label "Самазлучацца з гэтым пакоем гутарак">
+<!ENTITY autojoin.accesskey "С">
