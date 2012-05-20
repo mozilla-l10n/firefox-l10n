@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "계정 설정">
-<!ENTITY accountSettingsDesc.label "이 계정은 특수 계정입니다. 이 계정은 사용자 정보가 필요하지 않습니다.">
 <!ENTITY accountName.label "계정 이름:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "메시지 저장 위치">
-<!ENTITY emptyTrashOnExit.label "종료 시 지운 편지함 비우기">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY localPath.label "로컬 디렉토리:">
-<!ENTITY localFolderPicker.label "로컬 폴더 위치:">
-<!ENTITY browseFolder.label "찾아보기…">
-<!ENTITY browseFolder.accesskey "B">

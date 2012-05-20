@@ -113,6 +113,7 @@
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey	"j">
 <!ENTITY accountManagerCmd.label "계정 설정…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -345,8 +346,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "회신">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "뉴스 그룹에 회신">
-<!ENTITY replyNewsgroupCmd.accesskey "y">
+<!ENTITY replyNewsgroupCmd2.label "뉴스 그룹에 답신">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
 <!ENTITY replyToAllMsgCmd.label "전체 회신">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -599,8 +600,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "회신">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "뉴스 그룹에 회신">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyNewsgroup2.label "뉴스 그룹 팔로우업">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "모두 회신">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "리스트로 회신">
