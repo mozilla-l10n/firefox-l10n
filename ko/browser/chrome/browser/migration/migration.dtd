@@ -12,8 +12,6 @@
 <!ENTITY importFromFirefox.accesskey	"X">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromHTMLFile.label "HTML 파일 가져오기">
-<!ENTITY importFromHTMLFile.accesskey "F">
 <!ENTITY importSource.title "환경 설정 및 항목 가져오기">
 <!ENTITY importItems.title "가져올 항목">
 <!ENTITY importItems.label "가져올 항목을 선택하십시오:">

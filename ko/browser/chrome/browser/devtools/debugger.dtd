@@ -19,6 +19,12 @@
   -  button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton		"닫기">
 
+<!ENTITY debuggerUI.stepInButton     "호출 시작">
+
+<!ENTITY debuggerUI.stepOutButton    "호출 중지">
+
+<!ENTITY debuggerUI.stepOverButton   "건너뛰기">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 <!ENTITY debuggerUI.stackTitle		"호츨 스택">
