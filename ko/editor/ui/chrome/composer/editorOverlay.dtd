@@ -32,11 +32,6 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "이미지 줄바꿈">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-<!ENTITY spellCheckNoSuggestions.label "(추천할 단어가 없음)">
-<!ENTITY spellCheckIgnoreWord.label "무시할 단어">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "디렉토리 추가">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "링크 만들기…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "새 편집기에서 링크 편집">
