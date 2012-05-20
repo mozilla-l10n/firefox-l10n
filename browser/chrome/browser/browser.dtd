@@ -540,6 +540,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "부가 기능 모음 닫기">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!ENTITY htmlPanel.label			"HTML">
-<!ENTITY htmlPanel.tooltiptext			"HTML 패널">
-<!ENTITY htmlPanel.accesskey			"H">
+<!ENTITY markupButton.arialabel          "마크업">
+<!ENTITY markupButton.accesskey          "M">
