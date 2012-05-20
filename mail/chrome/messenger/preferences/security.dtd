@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "스팸으로 표시된 메시지는 읽은 것으로 표시">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "로그인 시 스팸 처리 실행">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "스팸 메일 적응 필터 기록 사용함">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "로그 보기">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "스팸 학습 데이터 재설정">
