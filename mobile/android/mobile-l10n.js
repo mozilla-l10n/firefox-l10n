@@ -37,4 +37,4 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
-pref("browser.fixup.alternate.suffix", ".be");
+pref("browser.fixup.alternate.suffix", ".by");
