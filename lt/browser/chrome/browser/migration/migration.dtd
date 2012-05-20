@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "F">
-<!ENTITY importFromHTMLFile.label       "HTML failo">
-<!ENTITY importFromHTMLFile.accesskey   "H">
 
 <!ENTITY noMigrationSources.label       "Nepavyko rasti programų, kuriose būtų adresyno, naršymo žurnalo ar įrašytų slaptažodžių duomenų.">
 
