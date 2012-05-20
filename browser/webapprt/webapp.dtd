@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Failas">
+<!ENTITY fileMenu.accesskey                 "F">
+
+<!ENTITY quitApplicationCmdWin.label        "Baigti darbą">
+<!ENTITY quitApplicationCmdWin.accesskey    "B">
+<!ENTITY quitApplicationCmd.label           "Baigti darbą">
+<!ENTITY quitApplicationCmd.accesskey       "B">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Nerodyti kitų">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Rodyti viską">
+
+<!ENTITY editMenu.label                     "Taisa">
+<!ENTITY editMenu.accesskey                 "T">
+<!ENTITY undoCmd.label                      "Atšaukti">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "A">
+<!ENTITY redoCmd.label                      "Atstatyti">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "t">
+<!ENTITY cutCmd.label                       "Iškirpti">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "r">
+<!ENTITY copyCmd.label                      "Kopijuoti">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "K">
+<!ENTITY pasteCmd.label                     "Įdėti">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "d">
+<!ENTITY deleteCmd.label                    "Pašalinti">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "š">
+<!ENTITY selectAllCmd.label                 "Pažymėti viską">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "v">
