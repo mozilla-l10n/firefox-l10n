@@ -1,406 +1,530 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" [
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Naršyklės spartieji klavišai</title>
-  <link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css"/>
+  <title>Browser Shortcuts</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
 
-<h1>Naršyklės spartieji klavišai</h1>
+<h1>Browser Shortcuts</h1>
 
-<div class="contentsBox">
+<div class="contentsBox">In this section:
   <ul>
-    <li><a href="#bookmarks_shortcuts">Adresyno spartieji klavišai</a></li>
-    <li><a href="#page_navigation_shortcuts">Tinklalapio valdymo spartieji klavišai</a></li>
-    <li><a href="#page_viewing_shortcuts">Tinklalapio peržiūros spartieji klavišai</a></li>
-    <li><a href="#tabbed_browsing_shortcuts">Naršymo kortelių spartieji klavišai</a></li>
-    <li><a href="#sidebar_shortcuts">Parankinės spartieji klavišai</a></li>
-    <li><a href="#forms_shortcuts">Formų spartieji klavišai</a></li>
+    <li><a href="#bookmarks_shortcuts">Bookmarks Shortcuts</a></li>
+    <li><a href="#page_navigation_shortcuts">Page Navigation Shortcuts</a></li>
+    <li><a href="#page_viewing_shortcuts">Page Viewing Shortcuts</a></li>
+    <li><a href="#tabbed_browsing_shortcuts">Tabbed Browsing Shortcuts</a></li>
+    <li><a href="#sidebar_shortcuts">Sidebar Shortcuts</a></li>
+    <li><a href="#forms_shortcuts">Forms Shortcuts</a></li>
   </ul>
 </div>
 
-<h2 id="bookmarks_shortcuts">Adresyno spartieji klavišai</h2>
+<h2 id="bookmarks_shortcuts">Bookmarks Shortcuts</h2>
 
-<table width="100%" border="1" cellpadding="4" cellspacing="0" bordercolor="#999999">
+<table class="defaultTable">
+<colgroup>
+  <col class="commandColumn"></col>
+  <col class="osFirstColumn"></col>
+  <col class="osSecondColumn"></col>
+  <col class="osThirdColumn"></col>
+</colgroup>
+<thead>
   <tr>
-    <td bgcolor="#cccccc"><strong>Komanda</strong> </td>
-    <td bgcolor="#cccccc"><strong>Windows</strong></td>
-    <td bgcolor="#cccccc"><strong>Mac OS</strong></td>
-    <td bgcolor="#cccccc"><strong>Linux (Unix)</strong></td>
+    <th>Command</th>
+    <th>Windows</th>
+    <th>Mac OS</th>
+    <th>Linux or Unix</th>
+  </tr>
+</thead>
+<tbody class="tbody-default">
+  <tr>
+    <td>Open Manage Bookmarks Window </td>
+    <td>Ctrl+B</td>
+    <td>Cmd+B</td>
+    <td>Ctrl+B</td>
   </tr>
   <tr>
-    <td>Atverti adresyno tvarkymo langą</td>
-    <td>Vald+B (Ctrl+B)</td>
-    <td>Vald+B (Cmd+B)</td>
-    <td>Vald+B (Ctrl+B)</td>
+    <td>Add Page to Bookmarks</td>
+    <td>Ctrl+Shift+D</td>
+    <td>Cmd+Shift+D</td>
+    <td></td>
   </tr>
   <tr>
-    <td bgcolor="#eeeeee">Tinklalapį įrašyti į adresyną</td>
-    <td bgcolor="#eeeeee">Vald+D (Ctrl+D)</td>
-    <td bgcolor="#eeeeee">Vald+D (Cmd+D)</td>
-    <td bgcolor="#eeeeee">Vald+D (Ctrl+D)</td>
+    <td>File Bookmark (to customize and file a page you are bookmarking)</td>
+    <td>Ctrl+D</td>
+    <td>Cmd+D</td>
+    <td>Ctrl+D</td>
   </tr>
   <tr>
-    <td>Įrašyti į adresyną kaip… (galima pasirinkti, kaip įrašyti tinklalapio adresą ir į kurį adresyno aplanką)</td>
-    <td>Vald+Lyg2+D (Ctrl+Shift+D)</td>
-    <td>Vald+Lyg2+D (Cmd+Shift+D)</td>
-    <td>Vald+Lyg2+D (Ctrl+Shift+D)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Parodyti pažymėto adresyno įrašo savybes) </td>
-    <td bgcolor="#eeeeee">Vald+I (Ctrl+I)</td>
-    <td bgcolor="#eeeeee">Vald+I (Cmd+I)</td>
-    <td bgcolor="#eeeeee">Vald+I (Ctrl+I)</td>
-  </tr>
-</table>
-
-<h2 id="page_navigation_shortcuts">Tinklalapio valdymo spartieji klavišai</h2>
-
-<table width="100%" border="1" cellpadding="4" cellspacing="0" bordercolor="#999999">
-  <tr>
-    <td bgcolor="#cccccc"><strong>Komanda</strong></td>
-    <td bgcolor="#cccccc"><strong>Windows</strong></td>
-    <td bgcolor="#cccccc"><strong>Mac OS</strong></td>
-    <td bgcolor="#cccccc"><strong>Linux (Unix)</strong></td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Atverti naršymo žurnalą</td>
-    <td bgcolor="#eeeeee">Vald+H (Ctrl+H)</td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+H (Cmd+Shift+H)</td>
-    <td bgcolor="#eeeeee">Vald+H (Ctrl+H)</td>
-  </tr>
-  <tr>
-    <td>Atsiųsti iš naujo</td>
-    <td>Vald+R (Ctrl+R)</td>
-    <td>Vald+R (Cmd+R)</td>
-    <td>Vald+R (Ctrl+R)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Atsiųsti iš naujo (iš tinklo, ne iš podelio)</td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+R (Ctrl+Shift+R)</td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+R (Ctrl+Shift+R)</td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+R (Ctrl+Shift+R)</td>
-  </tr>
-  <tr>
-    <td>Eiti vienu tinklalapiu atgal</td>
-    <td>Alt+kairėn arba naikinimo klavišas (Alt+Left Arrow or Backspace)</td>
-    <td>Vald+kairėn (Cmd+Left Arrow)</td>
-    <td>Alt+kairėn (Alt+Left Arrow)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Eiti vienu tinklalapiu į priekį</td>
-    <td bgcolor="#eeeeee">Alt+dešinėn (Alt+Right Arrow)</td>
-    <td bgcolor="#eeeeee">Vald+dešinėn (Cmd+Right Arrow)</td>
-    <td bgcolor="#eeeeee">Alt+dešinėn (Alt+Right Arrow)</td>
-  </tr>
-  <tr>
-    <td>Stabdyti</td>
-    <td>Gr (Esc)</td>
-    <td>Gr (Esc)</td>
-    <td>Gr (Esc)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Eiti į pradžios tinklalapį</td>
-    <td bgcolor="#eeeeee">Alt+Prad (Alt+Home)</td>
-    <td bgcolor="#eeeeee">Vald+Prad (Cmd+Home)</td>
-    <td bgcolor="#eeeeee">Alt+Prad (Alt+Home)</td>
-  </tr>
-  <tr>
-    <td>Eiti į tinklalapio apačią</td>
-    <td>Pab (End)</td>
-    <td>&nbsp;</td>
-    <td>Pab (End)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Eiti į tinklalapio viršų</td>
-    <td bgcolor="#eeeeee">Prad (Home)</td>
-    <td bgcolor="#eeeeee">Prad (Home)</td>
-    <td bgcolor="#eeeeee">Prad (Home)</td>
-  </tr>
-  <tr>
-    <td>Pažymėti visą tekstą adresų juostoje</td>
-    <td>Vald+L (Ctrl+L) arba Alt+D (Alt+D)</td>
-    <td>Vald+L (Cmd+L)</td>
-    <td>Vald+L (Ctrl+L) arba Alt+D (Alt+D)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Atverti tinklalapio atvėrimo langą</td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+L (Ctrl+Shift+L)</td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+L (Cmd+Shift+L)</td>
-     <td bgcolor="#eeeeee">Vald+Lyg2+L (Ctrl+Shift+L)</td>
-  </tr>
-  <tr>
-    <td>Atverti pažymėto saito tinklalapį</td>
-    <td>Įvesti (Enter)</td>
-    <td>Įvesti (Return)</td>
-    <td>Įvesti (Enter)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Baigti darbą su „Mozilla“</td>
-    <td bgcolor="#eeeeee">Vald+Q (Ctrl+Q)</td>
-    <td bgcolor="#eeeeee">Vald+Q (Cm+Q)</td>
-    <td bgcolor="#eeeeee">Vald+Q (Ctrl+Q)</td>
-  </tr>
-  <tr>
-    <td>Pereiti į tolesnį kadrą (jei tinklalapyje naudojami kadrai)</td>
-    <td>F6</td>
-    <td>Vald+Tab (Ctrl+Tab) arba F6 (jeigu F6 nėra priskirtas kitai komandai)</td>
-    <td>F6</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Pereiti į ankstesnį kadrą (jei tinklalapyje naudojami kadrai)</td>
-    <td bgcolor="#eeeeee">Lyg2+F6 (Shift+F6)</td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+Tab (Ctrl+Shift+Tab) arba Lyg2+F6 (Shift+F6) (jeigu F6 nėra
-priskirtas kitai komandai)</td>
-    <td bgcolor="#eeeeee">Lyg2+F6 (Shift+F6)</td>
-  </tr>
-  <tr>
-    <td>Atverti naują naršyklės langą</td>
-    <td>Vald+N (Ctrl+N)</td>
-    <td>Vald+N (Cmd+N)</td>
-    <td>Vald+N (Ctrl+N)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Pereiti į tolesnį (ankstesnį) saitą arba formos elementą</td>
-    <td bgcolor="#eeeeee">Tab arba Lyg2+Tab (Tab arba Shift+Tab)</td>
-    <td bgcolor="#eeeeee">Tab arba Lyg2+Tab (Tab arba Shift+Tab)</td>
-    <td bgcolor="#eeeeee">Tab arba Lyg2+Tab (Tab arba Shift+Tab)</td>
-  </tr>
-  <tr>
-    <td>Atverti failą</td>
-    <td>Vald+O (Ctrl+O)</td>
-    <td>Vald+O (Cmd+O)</td>
-    <td>Vald+O (Ctrl+O)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Užverti langą</td>
-    <td bgcolor="#eeeeee">Vald+W (Ctrl+W)</td>
-    <td bgcolor="#eeeeee">Vald+W (Cmd+W)</td>
-    <td bgcolor="#eeeeee">Vald+W (Ctrl+W)</td>
-  </tr>
-  <tr>
-    <td>Įrašyti kaip…</td>
-    <td>Vald+S (Ctrl+S)</td>
-    <td>Vald+S (Cmd+S)</td>
-    <td>Vald+S (Ctrl+S)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Įrašyti saistomą tinklalapį kaip… (kai pažymėtas saitas)</td>
-    <td bgcolor="#eeeeee">Lyg2+Įvesti (Shift+Enter)</td>
-    <td bgcolor="#eeeeee">Parinktis+Įvesti (Option+Enter)</td>
-    <td bgcolor="#eeeeee">Lyg2+Įvesti (Shift+Enter)</td>
-  </tr>
-  <tr>
-    <td>Spausdinti tinklalapį</td>
-    <td>Vald+P (Ctrl+P)</td>
-    <td>Vald+P (Cmd+P)</td>
-    <td>Vald+P (Ctrl+P)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Eiti vienu puslapiu aukštyn</td>
-    <td bgcolor="#eeeeee">Psl. aukštyn arba Lyg2+tarpas (Page Up arba Shift+Space)</td>
-    <td bgcolor="#eeeeee">Psl. aukštyn arba Lyg2+tarpas (Page Up arba Shift+Space)</td>
-    <td bgcolor="#eeeeee">Psl. aukštyn arba Lyg2+tarpas (Page Up arba Shift+Space)</td>
-  </tr>
-  <tr>
-    <td>Eiti vienu puslapiu žemyn</td>
-    <td>Psl. žemyn arba tarpas (Page Down arba Space)</td>
-    <td>Psl. žemynarba tarpas (Page Down arba Space)</td>
-    <td>Psl. žemyn/tarpas (Page Down arba Space)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Eiti viena eilute aukštyn</td>
-    <td bgcolor="#eeeeee">Aukštyn (Up Arrow)</td>
-    <td bgcolor="#eeeeee">Aukštyn (Up Arrow)</td>
-    <td bgcolor="#eeeeee">Aukštyn (Up Arrow)</td>
-  </tr>
-  <tr>
-    <td>Eiti viena eilute žemyn</td>
-    <td>Žemyn (Down Arrow)</td>
-    <td>Žemyn (Down Arrow)</td>
-    <td>Žemyn (Down Arrow)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Įjungti arba išjungti žymeklį</td>
-    <td bgcolor="#eeeeee">F7</td>
-    <td bgcolor="#eeeeee">F7 (jeigu F7 nėra priskirtas kitai komandai)</td>
-    <td bgcolor="#eeeeee">F7</td>
-  </tr>
-</table>
-
-<h2 id="page_viewing_shortcuts">Tinklalapio peržiūros spartieji klavišai</h2>
-
-<table width="100%" border="1" cellpadding="4" cellspacing="0" bordercolor="#999999">
-  <tr>
-    <td bgcolor="#cccccc"><strong>Komanda</strong> </td>
-    <td bgcolor="#cccccc"><strong>Windows</strong></td>
-    <td bgcolor="#cccccc"><strong>Mac OS</strong></td>
-    <td bgcolor="#cccccc"><strong>Linux (Unix)</strong></td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Visas ekranas (sukeisti veikseną)</td>
-    <td bgcolor="#eeeeee">F11</td>
-    <td bgcolor="#eeeeee">&nbsp;</td>
-    <td bgcolor="#eeeeee">F11 (gali priklausyti nuo langų tvarkytuvės)</td>
-  </tr>
-  <tr>
-    <td>Sumažinti teksto mastelį</td>
-    <td>Vald+- (minuso ženklas) (Ctrl+-)</td>
-    <td>Vald+- (minuso ženklas) (Cmd+-)</td>
-    <td>Vald+- (minuso ženklas) (Ctrl+-)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Padidinti teksto mastelį</td>
-    <td bgcolor="#eeeeee">Vald++ (pliuso ženklas) (Ctrl++)</td>
-    <td bgcolor="#eeeeee">Vald++ (pliuso ženklas) (Cmd++)</td>
-    <td bgcolor="#eeeeee">Vald++ (pliuso ženklas) (Ctrl++))</td>
-  </tr>
-  <tr>
-    <td>Atstatyti originalų teksto aukštį (100%)</td>
-    <td>Vald+0 (Ctrl+0)</td>
-    <td>Vald+0 (Cmd+0)</td>
-    <td>Vald+0 (Ctrl+0)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Atverti informaciją apie tinklalapį</td>
-    <td bgcolor="#eeeeee">Vald+I (Ctrl+I)</td>
-    <td bgcolor="#eeeeee">Vald+I (Cmd+I)</td>
-    <td bgcolor="#eeeeee">Vald+I (Ctrl+I)</td>
-  </tr>
-  <tr>
-    <td>Atverti tinklalapio pirminį tekstą</td>
-    <td>Vald+U (Ctrl+U)</td>
-    <td>Vald+U (Cmd+U)</td>
-    <td>Vald+U (Ctrl+U)</td>
-  </tr>
-</table>
-
-<h2 id="tabbed_browsing_shortcuts">Naršymo kortelių spartieji klavišai</h2>
-
-<table width="100%" border="1" cellpadding="4" cellspacing="0" bordercolor="#999999">
-  <tr>
-    <td bgcolor="#cccccc"><strong>Komanda</strong></td>
-    <td bgcolor="#cccccc"><strong>Windows</strong></td>
-    <td bgcolor="#cccccc"><strong>Mac OS</strong></td>
-    <td bgcolor="#cccccc"><strong>Linux (Unix)</strong></td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Atverti naują naršyklės kortelę</td>
-    <td bgcolor="#eeeeee">Vald+T (Ctrl+T)</td>
-    <td bgcolor="#eeeeee">Vald+T (Cmd+T)</td>
-    <td bgcolor="#eeeeee">Vald+T (Ctrl+T)</td>
-  </tr>
-  <tr>
-    <td>Pereiti prie tolesnės kortelės (kai atverta daugiau kaip viena kortelė)</td>
-    <td>Vald+Tab (Ctrl+Tab) arba Vald+Psl. žemyn (Ctrl+Page Down)</td>
-    <td>Vald+Psl. žemyn (Cmd+Page Down)</td>
-    <td>Vald+Tab (Ctrl+Tab) arba Vald+Psl. žemyn (Ctrl+Page Down)</td>
-  </tr>
-  <tr>
-    <td bgcolor="#eeeeee">Pereiti prie ankstesnės kortelės (kai atverta daugiau kaip viena kortelė)
+    <td>Sort Bookmarks Folder (selected folder in Manage Bookmarks window)
     </td>
-    <td bgcolor="#eeeeee">Vald+Lyg2+Tab (Ctrl+Shift+Tab) arba Vald+Psl. aukštyn (Ctrl+Page Up)</td>
-    <td bgcolor="#eeeeee">Vald+Psl. aukštyn (Cmd+Page Up)</td>
-    <td bgcolor="#eeeeee">Vald+Psl. aukštyn (Ctrl+Page Up)</td>
+    <td>Ctrl+S</td>
+    <td>Cmd+S</td>
+    <td>Ctrl+S</td>
   </tr>
   <tr>
-    <td>Užverti kortelę (užverti langą, jei atvertas tik vienas tinklalapis)</td>
-    <td>Vald+W (Ctrl+W)</td>
-    <td>Vald+W (Cmd+W)</td>
-    <td>Vald+W (Ctrl+W)</td>
+    <td>Sort Bookmarks Folder by Name (selected folder in Manage Bookmarks
+      window)
+    </td>
+    <td>Ctrl+N</td>
+    <td>Cmd+N</td>
+    <td>Ctrl+N</td>
   </tr>
   <tr>
-    <td bgcolor="#eeeeee">Atverti saitą naujoje kortelėje (priekiniame plane)</td>
-    <td bgcolor="#eeeeee">Įterpti (Insert)</td>
-    <td bgcolor="#eeeeee">&nbsp;</td>
-    <td bgcolor="#eeeeee">Įterpti (Insert)</td>
+    <td>Bookmark Properties (for selected bookmark in Manage Bookmarks window)
+    </td>
+    <td>Ctrl+I</td>
+    <td>Cmd+I</td>
+    <td>Ctrl+I</td>
   </tr>
-  <tr>
-    <td>Atverti saitą naujoje kortelėje (antrajame plane)</td>
-    <td>Lyg2+įterpti (Shift+Insert)</td>
-    <td>Lyg2+įterpti (Shift+Insert)</td>
-    <td>Lyg2+įterpti (Shift+Insert)</td>
-  </tr>
+</tbody>
 </table>
 
-<h2 id="sidebar_shortcuts">Parankinės spartieji klavišai</h2>
+<h2 id="page_navigation_shortcuts">Page Navigation Shortcuts</h2>
 
-<table width="100%" border="1" cellpadding="4" cellspacing="0" bordercolor="#999999">
+<table class="defaultTable">
+<colgroup>
+  <col class="commandColumn"></col>
+  <col class="osFirstColumn"></col>
+  <col class="osSecondColumn"></col>
+  <col class="osThirdColumn"></col>
+</colgroup>
+<thead>
   <tr>
-    <td bgcolor="#cccccc"><strong>Komanda</strong></td>
-    <td bgcolor="#cccccc"><strong>Windows</strong></td>
-    <td bgcolor="#cccccc"><strong>Mac OS</strong></td>
-    <td bgcolor="#cccccc"><strong>Linux (Unix)</strong></td>
+    <th>Command</th>
+    <th>Windows</th>
+    <th>Mac OS</th>
+    <th>Linux or Unix</th>
+  </tr>
+</thead>
+<tbody class="tbody-default">
+  <tr>
+    <td>Open History Window</td>
+    <td>Ctrl+H</td>
+    <td>Cmd+Shift+H</td>
+    <td>Ctrl+H</td>
   </tr>
   <tr>
-    <td>Atverti arba užverti parankinę</td>
-    <td>F9</td>
-    <td>F9</td>
-    <td>F9</td>
+    <td>Reload</td>
+    <td>Ctrl+R</td>
+    <td>Cmd+R</td>
+    <td>Ctrl+R</td>
   </tr>
   <tr>
-    <td bgcolor="#eeeeee">Pereiti į tolesnę parankinės kortelę</td>
-    <td bgcolor="#eeeeee">Alt+Psl. žemyn (Alt+Page Down)</td>
-    <td bgcolor="#eeeeee">Parinktis+Psl. žemyn (Option+Page Down)</td>
-    <td bgcolor="#eeeeee">Alt+Psl. žemyn (Alt+Page Down)</td>
+    <td>Force Reload (not from cache)</td>
+    <td>Ctrl+Shift+R</td>
+    <td>Cmd+Shift+R</td>
+    <td>Ctrl+Shift+R</td>
   </tr>
   <tr>
-    <td>Pereiti į ankstesnę parankinės kortelę</td>
-    <td>Alt+Psl. aukštyn (Alt+Page Up)</td>
-    <td>Parinktis+Psl. aukštyn (Option+Page Up)</td>
-    <td>Alt+Psl. aukštyn (Alt+Page Up)</td>
+    <td>Back</td>
+    <td>Alt+Left Arrow or Backspace</td>
+    <td>Cmd+Left Arrow, Cmd+[ or Delete (Backspace)</td>
+    <td>Alt+Left Arrow or Ctrl+[</td>
   </tr>
+  <tr>
+    <td>Forward</td>
+    <td>Alt+Right Arrow</td>
+    <td>Cmd+Right Arrow, Cmd+] or Shift+Delete (Backspace)</td>
+    <td>Alt+Right Arrow or Ctrl+]</td>
+  </tr>
+  <tr>
+    <td>Up</td>
+    <td>Alt+Up Arrow</td>
+    <td>Opt+Up Arrow</td>
+    <td>Alt+Up Arrow</td>
+  </tr>
+  <tr>
+    <td>Stop</td>
+    <td>Esc</td>
+    <td>Cmd+. or Esc</td>
+    <td>Esc</td>
+  </tr>
+  <tr>
+    <td>Home</td>
+    <td>Alt+Home</td>
+    <td>Cmd+Home</td>
+    <td>Alt+Home</td>
+  </tr>
+  <tr>
+    <td>Go to Bottom of Page</td>
+    <td>End</td>
+    <td></td>
+    <td>End</td>
+  </tr>
+  <tr>
+    <td>Go to Top of Page</td>
+    <td>Home</td>
+    <td>Home</td>
+    <td>Home</td>
+  </tr>
+  <tr>
+    <td>Select All Text in Location Bar</td>
+    <td>Ctrl+L or Alt+D</td>
+    <td>Cmd+L</td>
+    <td>Ctrl+L or Alt+D</td>
+  </tr>
+  <tr>
+    <td>Open Web Page Location</td>
+    <td>Ctrl+Shift+L</td>
+    <td>Cmd+Shift+L</td>
+    <td>Ctrl+Shift+L</td>
+  </tr>
+  <tr>
+    <td>Open Selected Link in a Web Page</td>
+    <td>Enter</td>
+    <td>Return</td>
+    <td>Enter</td>
+  </tr>
+  <tr>
+    <td>Open search engine page</td>
+    <td>Ctrl+Shift+S</td>
+    <td>Cmd+Shift+S</td>
+    <td>Ctrl+Shift+S</td>
+  </tr>
+  <tr>
+    <td>Move to Next Frame (in web pages using frames)</td>
+    <td>F6</td>
+    <td>Ctrl+Tab or F6 (if F6 is not programmed for another command)</td>
+    <td>F6</td>
+  </tr>
+  <tr>
+    <td>Move to Previous Frame (in web pages using frames)</td>
+    <td>Shift+F6</td>
+    <td>Ctrl+Shift+Tab or Shift+F6 (if F6 is not programmed for
+      another command)</td>
+    <td>Shift+F6</td>
+  </tr>
+  <tr>
+    <td>New Browser Window</td>
+    <td>Ctrl+N</td>
+    <td>Cmd+N</td>
+    <td>Ctrl+N</td>
+  </tr>
+  <tr>
+    <td>Move to Next/Previous Link or Form Element in a Web Page</td>
+    <td>Tab/Shift+Tab</td>
+    <td>Tab/Shift+Tab</td>
+    <td>Tab/Shift+Tab</td>
+  </tr>
+  <tr>
+    <td>Open File</td>
+    <td>Ctrl+O</td>
+    <td>Cmd+O</td>
+    <td>Ctrl+O</td>
+  </tr>
+  <tr>
+    <td>Close Window</td>
+    <td>Ctrl+W</td>
+    <td>Cmd+W</td>
+    <td>Ctrl+W</td>
+  </tr>
+  <tr>
+    <td>Close Window (with more than one tab)</td>
+    <td>Ctrl+Shift+W</td>
+    <td>Cmd+Shift+W</td>
+    <td>Ctrl+Shift+W</td>
+  </tr>
+  <tr>
+    <td>Save Page As</td>
+    <td>Ctrl+S</td>
+    <td>Cmd+S</td>
+    <td>Ctrl+S</td>
+  </tr>
+  <tr>
+    <td>Save Linked Page (when a link is selected)</td>
+    <td>Shift+Enter</td>
+    <td>Opt+Return</td>
+    <td>Shift+Enter</td>
+  </tr>
+  <tr>
+    <td>Edit Page</td>
+    <td>Ctrl+E</td>
+    <td>Cmd+E</td>
+    <td>Ctrl+E</td>
+  </tr>
+  <tr>
+    <td>Print Page</td>
+    <td>Ctrl+P</td>
+    <td>Cmd+P</td>
+    <td>Ctrl+P</td>
+  </tr>
+  <tr>
+    <td>Go Up One Page</td>
+    <td>Page Up or Shift+Space</td>
+    <td>Page Up or Shift+Space</td>
+    <td>Page Up, Shift+Space or Backspace</td>
+  </tr>
+  <tr>
+    <td>Go Down One Page</td>
+    <td>Page Down or Space</td>
+    <td>Page Down or Space</td>
+    <td>Page Down, Space or Shift+Backspace</td>
+  </tr>
+  <tr>
+    <td>Go Up One Line</td>
+    <td>Up Arrow</td>
+    <td>Up Arrow</td>
+    <td>Up Arrow</td>
+  </tr>
+  <tr>
+    <td>Go Down One Line</td>
+    <td>Down Arrow</td>
+    <td>Down Arrow</td>
+    <td>Down Arrow</td>
+  </tr>
+</tbody>
 </table>
 
-<h2 id="forms_shortcuts">Formų spartieji klavišai</h2>
+<h2 id="page_viewing_shortcuts">Page Viewing Shortcuts</h2>
 
-<table width="100%" border="1" cellpadding="4" cellspacing="0" bordercolor="#999999">
+<table class="defaultTable">
+<colgroup>
+  <col class="commandColumn"></col>
+  <col class="osFirstColumn"></col>
+  <col class="osSecondColumn"></col>
+  <col class="osThirdColumn"></col>
+</colgroup>
+<thead>
   <tr>
-    <td bgcolor="#cccccc"><strong>Komanda</strong></td>
-    <td bgcolor="#cccccc"><strong>Windows</strong></td>
-    <td bgcolor="#cccccc"><strong>Mac OS</strong></td>
-    <td bgcolor="#cccccc"><strong>Linux (Unix)</strong></td>
+    <th>Command</th>
+    <th>Windows</th>
+    <th>Mac OS</th>
+    <th>Linux or Unix</th>
+  </tr>
+</thead>
+<tbody class="tbody-default">
+  <tr>
+    <td>Full Screen (toggle)</td>
+    <td>F11</td>
+    <td>Cmd+Shift+F</td>
+    <td>F11 (may depend on window manager)</td>
   </tr>
   <tr>
-    <td>Pereiti į tolesnį arba ankstesnį formos elementą</td>
-    <td>Tab arba Lyg2+Tab (Tab arba Shift+Tab)</td>
-    <td>Tab arba Lyg2+Tab (Tab arba Shift+Tab)</td>
-    <td>Tab arba Lyg2+Tab (Tab arba Shift+Tab)</td>
+    <td>Zoom Text Smaller</td>
+    <td>Ctrl+- (minus sign)</td>
+    <td>Cmd+- (minus sign)</td>
+    <td>Ctrl+- (minus sign)</td>
   </tr>
   <tr>
-    <td bgcolor="#eeeeee">Pateikti formą</td>
-    <td bgcolor="#eeeeee">Įvesti (Enter)</td>
-    <td bgcolor="#eeeeee">Įvesti (Enter)</td>
-    <td bgcolor="#eeeeee">Įvesti (Enter)</td>
+    <td>Zoom Text Larger</td>
+    <td>Ctrl++ (plus sign)</td>
+    <td>Cmd++ (plus sign)</td>
+    <td>Ctrl++ (plus sign)</td>
   </tr>
   <tr>
-    <td>Paspausti pažymėtą mygtuką arba pažymėti akutę)</td>
-    <td>Tarpas (Space)</td>
-    <td>Tarpas (Space)</td>
-    <td>Tarpas (Space)</td>
+    <td>No zoom (100%)</td>
+    <td>Ctrl+0</td>
+    <td>Cmd+0</td>
+    <td>Ctrl+0</td>
   </tr>
   <tr>
-    <td bgcolor="#eeeeee">Pasirinkti elementą iš sąrašo</td>
-    <td bgcolor="#eeeeee">Aukštyn, žemyn arba arba elemento pavadinimo pirmoji raidė</td>
-    <td bgcolor="#eeeeee">Aukštyn, žemyn arba arba elemento pavadinimo pirmoji raidė</td>
-    <td bgcolor="#eeeeee">Aukštyn, žemyn arba arba elemento pavadinimo pirmoji raidė</td>
+    <td>View Page Information</td>
+    <td>Ctrl+I</td>
+    <td>Cmd+I</td>
+    <td>Ctrl+I</td>
   </tr>
   <tr>
-    <td>Pažymėti arba pašalinti žymimojo langelio žymėjimą</td>
-    <td>Tarpas (Space)</td>
-    <td>Tarpas (Space)</td>
-    <td>Tarpas (Space)</td>
+    <td>View Page Source</td>
+    <td>Ctrl+U</td>
+    <td>Cmd+U</td>
+    <td>Ctrl+U</td>
+  </tr>
+</tbody>
+</table>
+
+<h2 id="tabbed_browsing_shortcuts">Tabbed Browsing Shortcuts</h2>
+
+<table class="defaultTable">
+<colgroup>
+  <col class="commandColumn"></col>
+  <col class="osFirstColumn"></col>
+  <col class="osSecondColumn"></col>
+  <col class="osThirdColumn"></col>
+</colgroup>
+<thead>
+  <tr>
+    <th>Command</th>
+    <th>Windows</th>
+    <th>Mac OS</th>
+    <th>Linux or Unix</th>
+  </tr>
+</thead>
+<tbody class="tbody-default">
+  <tr>
+    <td>New Browser Tab</td>
+    <td>Ctrl+T</td>
+    <td>Cmd+T</td>
+    <td>Ctrl+T</td>
   </tr>
   <tr>
-    <td bgcolor="#eeeeee">Atverti išskleidžiamąjį meniu</td>
-    <td bgcolor="#eeeeee">Alt+žemyn (Alt+Down Arrow)</td>
-    <td bgcolor="#eeeeee">Parinktis+žemyn (Option+Down Arrow)</td>
-    <td bgcolor="#eeeeee">Alt+žemyn (Alt+Down Arrow)</td>
+    <td>Switch to Next Tab (when using Tabbed Browsing with more than one
+    tab)</td>
+    <td>Ctrl+Tab or Ctrl+Page Down</td>
+    <td>Cmd+Opt+Right Arrow or Ctrl+Page Down</td>
+    <td>Ctrl+Tab or Ctrl+Page Down</td>
   </tr>
+  <tr>
+    <td>Switch to Previous Tab (when using Tabbed Browsing with more
+      than one tab)
+    </td>
+    <td>Ctrl+Shift+Tab or Ctrl+Page Up</td>
+    <td>Cmd+Opt+Left Arrow or Ctrl+Page Up</td>
+    <td>Ctrl+Page Up</td>
+  </tr>
+  <tr>
+    <td>Close Tab (Close window if one page open)</td>
+    <td>Ctrl+W</td>
+    <td>Cmd+W</td>
+    <td>Ctrl+W</td>
+  </tr>
+  <tr>
+    <td>Move Tab Left (when tab is focused)</td>
+    <td>Ctrl+Left Arrow or Ctrl+Up Arrow</td>
+    <td>Cmd+Left Arrow or Cmd+Up Arrow</td>
+    <td>Ctrl+Left Arrow or Ctrl+Up Arrow</td>
+  </tr>
+  <tr>
+    <td>Move Tab Right (when tab is focused)</td>
+    <td>Ctrl+Right Arrow or Ctrl+Down Arrow</td>
+    <td>Cmd+Right Arrow or Cmd+Down Arrow</td>
+    <td>Ctrl+Right Arrow or Ctrl+Down Arrow</td>
+  </tr>
+  <tr>
+    <td>Move Tab to Beginning (when tab is focused)</td>
+    <td>Ctrl+Home</td>
+    <td>Cmd+Home</td>
+    <td>Ctrl+Home</td>
+  </tr>
+  <tr>
+    <td>Move Tab to End (when tab is focused)</td>
+    <td>Ctrl+End</td>
+    <td>Cmd+End</td>
+    <td>Ctrl+End</td>
+  </tr>
+  <tr>
+    <td>Open Link in a New Foreground Tab (when link is focused)</td>
+    <td>Insert (or Alt+Insert) *</td>
+    <td>(Alt+Insert) *</td>
+    <td>Insert (or Alt+Insert) *</td>
+  </tr>
+  <tr>
+    <td>Open Link in a New Background Tab (when link is focused)</td>
+    <td>Alt+Insert (or Insert) *</td>
+    <td>Alt+Insert</td>
+    <td>Alt+Insert (or Insert) *</td>
+  </tr>
+</tbody>
+</table>
+
+<p>* Shortcuts in parentheses apply when the 
+  <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing"> Switch to new tabs
+  opened from links</a> setting is disabled. Depending on the 
+  <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing"> Open tabs instead 
+  of windows</a> settings, more keys might be available.</p>
+
+<h2 id="sidebar_shortcuts">Sidebar Shortcuts</h2>
+
+<table class="defaultTable">
+<colgroup>
+  <col class="commandColumn"></col>
+  <col class="osFirstColumn"></col>
+  <col class="osSecondColumn"></col>
+  <col class="osThirdColumn"></col>
+</colgroup>
+<thead>
+  <tr>
+    <th>Command</th>
+    <th>Windows</th>
+    <th>Mac OS</th>
+    <th>Linux or Unix</th>
+  </tr>
+</thead>
+<tbody class="tbody-default">
+  <tr>
+    <td>Open/Close Sidebar (toggle)</td>
+    <td>F9</td>
+    <td/>
+    <td>F9</td>
+  </tr>
+  <tr>
+    <td>Switch to Next Sidebar Panel</td>
+    <td>Alt+Page Down</td>
+    <td>Opt+Page Down</td>
+    <td>Alt+Page Down</td>
+  </tr>
+  <tr>
+    <td>Switch to Previous Sidebar Panel</td>
+    <td>Alt+Page Up</td>
+    <td>Opt+Page Up</td>
+    <td>Alt+Page Up</td>
+  </tr>
+</tbody>
+</table>
+
+<h2 id="forms_shortcuts">Forms Shortcuts</h2>
+
+<table class="defaultTable">
+<colgroup>
+  <col class="commandColumn"></col>
+  <col class="osFirstColumn"></col>
+  <col class="osSecondColumn"></col>
+  <col class="osThirdColumn"></col>
+</colgroup>
+<thead>
+  <tr>
+    <th>Command</th>
+    <th>Windows</th>
+    <th>Mac OS</th>
+    <th>Linux or Unix</th>
+  </tr>
+</thead>
+<tbody class="tbody-default">
+  <tr>
+    <td> Move to Next/Previous Item in Form</td>
+    <td>Tab/Shift+Tab</td>
+    <td>Tab/Shift+Tab</td>
+    <td>Tab/Shift+Tab</td>
+  </tr>
+  <tr>
+    <td>Submit Form</td>
+    <td>Enter</td>
+    <td>Return</td>
+    <td>Enter</td>
+  </tr>
+  <tr>
+    <td>Press Selected Button / Select Radio Button</td>
+    <td>Space</td>
+    <td>Space</td>
+    <td>Space</td>
+  </tr>
+  <tr>
+    <td>Select an Item from a List</td>
+    <td>Up Arrow, Down Arrow or First Letter of Item Name</td>
+    <td>Up Arrow, Down Arrow or First Letter of Item Name</td>
+    <td>Up Arrow, Down Arrow or First Letter of Item Name</td>
+  </tr>
+  <tr>
+    <td>Check/Uncheck Checkbox (toggle)</td>
+    <td>Space</td>
+    <td>Space</td>
+    <td>Space</td>
+  </tr>
+  <tr>
+    <td>Open a Drop-Down Menu</td>
+    <td>Alt+Down Arrow</td>
+    <td>Opt+Down Arrow</td>
+    <td>Alt+Down Arrow</td>
+  </tr>
+</tbody>
 </table>
 
 </body>
