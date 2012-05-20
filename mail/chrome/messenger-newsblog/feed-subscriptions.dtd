@@ -15,7 +15,8 @@
 <!ENTITY quickMode.label             "Vietoje viso straipsnio rodyti tik jo santrauką">
 <!ENTITY quickMode.accesskey         "s">
 
-<!ENTITY validateText.label          "Patikrinti atitikimą standartams ir gauti tinkamą URL.">
+<!ENTITY locationValidate.label      "Patikrinti">
+<!ENTITY validateText.label          "Patikrinti atitikimą formatams ir gauti tinkamą URL.">
 
 <!ENTITY button.addFeed.label          "Pridėti">
 <!ENTITY button.addFeed.accesskey      "P">

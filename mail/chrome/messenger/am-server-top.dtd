@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Laiškų saugojimas">
 <!ENTITY securitySettings.label "Saugumo nuostatos">
 <!ENTITY serverSettings.label "Serverio nuostatos">
 <!ENTITY serverType.label "Serverio tipas:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Parinkti „newsrc“ failą">
 <!ENTITY browseNewsrc.label "Parinkti…">
 <!ENTITY browseNewsrc.accesskey "n">
+
+<!ENTITY accountTitle.label "Paskyros nuostatos">
+<!ENTITY accountSettingsDesc.label "Tai – speciali paskyra. Su ja nesusieti jokie tapatybės (asmeniniai) duomenys.">
