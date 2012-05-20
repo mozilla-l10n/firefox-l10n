@@ -1,9 +1,10 @@
-<!ENTITY  splash_firstrun "&brandShortName; 설정 중\u2026">
+<!ENTITY  splash_settingup "&brandShortName; 설정 중...">
+<!ENTITY  splash_bookmarks_history "북마크와 방문 기록을 업데이트 하는 중. 이 작업은 약간 오래 걸릴 수 있습니다.">
 
 <!ENTITY  no_space_to_start_error "&brandShortName;를 시작하기에 용량이 너무 작습니다.">
 <!ENTITY  error_loading_file "&brandShortName; 시작하는 중에 오류가 생겼습니다.">
 
-<!ENTITY  awesomebar_all_pages_title "자주 방문 사이트">
+<!ENTITY  awesomebar_all_pages_title "전체">
 <!ENTITY  awesomebar_bookmarks_title "북마크">
 <!ENTITY  awesomebar_history_title "방문기록">
 <!ENTITY  awesomebar_search_engine "\&quot;&#037;s\&quot; 검색">
@@ -26,9 +27,13 @@
 
 <!ENTITY awesomebar_default_text "검색어나 URL을 입력해 주십시오.">
 
+<!ENTITY remote_tabs "동기화된 탭">
+<!ENTITY remote_tabs_show_all "모든 탭 표시">
+
 <!ENTITY bookmark "북마크">
 <!ENTITY bookmark_added "북마크 추가">
 <!ENTITY bookmark_removed "북마크 삭제">
+<!ENTITY bookmark_updated "북마크 업데이트">
 
 <!ENTITY history_today_section "오늘">
 <!ENTITY history_yesterday_section "어제">
@@ -39,18 +44,21 @@
 <!ENTITY forward "앞으로">
 
 <!ENTITY new_tab "새 탭">
+<!ENTITY new_tab_opened "열린 새 탭">
 
-<!ENTITY settings "설정">
-<!ENTITY settings_title "설정">
+<!ENTITY settings "프로그램 설정">
+<!ENTITY settings_title "프로그램 설정">
 <!ENTITY pref_category_general "일반">
-<!ENTITY pref_category_privacy "개인정보 및 보안">
+<!ENTITY pref_category_privacy "개인 정보 및 보안">
 <!ENTITY pref_category_content "콘텐츠">
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
-<!ENTITY pref_do_not_track "웹 사이트에 개인 정보 추적 금지 통보">
-<!ENTITY pref_telemetry "성능 향상위한 정보 보내기">
+<!ENTITY pref_do_not_track "개인 정보 추적 금지">
+<!ENTITY pref_telemetry "성능 개선 정보 보내기">
 <!ENTITY pref_remember_signons "암호 저장">
 <!ENTITY pref_cookies "쿠키(Cookie) 사용">
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
+<!ENTITY pref_char_encoding_on "메뉴 보기">
+<!ENTITY pref_char_encoding_off "메뉴 숨기기">
 <!ENTITY pref_clear_history "방문 기록 삭제">
 <!ENTITY pref_clear_history_confirm "방문 기록이 모두 삭제됩니다.">
 <!ENTITY pref_clear_private_data "개인 정보 삭제">
@@ -65,25 +73,34 @@
 <!ENTITY pref_font_size_medium "중간">
 <!ENTITY pref_font_size_large "크게">
 <!ENTITY pref_font_size_xlarge "매우 크게">
-<!ENTITY pref_use_master_password "기본 암호를 사용합니다.">
+<!ENTITY pref_use_master_password "기본 암호 사용">
+<!ENTITY pref_sync "동기화">
 
 <!ENTITY quit "종료">
 
 <!ENTITY addons "부가 기능">
 <!ENTITY downloads "다운로드">
+<!ENTITY char_encoding "문자 인코딩">
 
 <!ENTITY share "공유">
+<!ENTITY share_title "공유 방법 선택">
 <!ENTITY save_as_pdf "PDF로 저장">
 
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
 <!ENTITY contextmenu_remove_bookmark "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
 <!ENTITY contextmenu_share "공유">
+<!ENTITY contextmenu_edit_bookmark "편집">
 
-<!ENTITY site_settings_title        "웹 사이트 설정 삭제">
+<!ENTITY bookmark_edit_title "북마크 편집">
+<!ENTITY bookmark_edit_name "이름">
+<!ENTITY bookmark_edit_location "위치">
+<!ENTITY bookmark_edit_keyword "키워드">
+
+<!ENTITY site_settings_title        "웹 페이지 정보">
 <!ENTITY site_settings_cancel       "취소">
-<!ENTITY site_settings_clear        "삭제">
-<!ENTITY site_settings_no_settings  "삭제할 웹 사이트 설정이 없습니다.">
+<!ENTITY site_settings_clear        "변경">
+<!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
 <!ENTITY masterpassword_create_title "기본 암호 만들기">
 <!ENTITY masterpassword_remove_title "기본 암호 삭제">
@@ -97,8 +114,13 @@
 <!ENTITY abouthome_addons_browse "&brandShortName; 부가 기능 전체 목록">
 <!ENTITY abouthome_last_tabs_title "마지막 닫은 탭">
 <!ENTITY abouthome_last_tabs_open "마지막 닫은 탭 모두 열기">
-<!ENTITY abouthome_top_sites_title "자주 방문 사이트">
+<!ENTITY abouthome_top_sites_title "상위사이트">
 <!ENTITY abouthome_top_sites_browse "자주 방문 사이트 모두 보기">
 <!ENTITY abouthome_no_top_sites "자주 방문 하는 사이트가 없습니다. 주소창을 선택하고 웹 사이트를 방문하세요.">
 <!ENTITY abouthome_about_sync "Firefox Sync를 설정하여, 다른 기기로부터 북마크나 방문 기록, 탭 정보 등을 가져올 수 있습니다.">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "파일 선택">
+<!ENTITY filepicker_audio_title "음성 선택 또는 녹음">
+<!ENTITY filepicker_image_title "사진 선택 또는 촬영">
+<!ENTITY filepicker_video_title "동영상 선택 또는 녹화">

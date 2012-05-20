@@ -1,6 +1,34 @@
 <!ENTITY lightning.toolbar.calendar.name	"캘린더 도구모음">
-<!ENTITY lightning.toolbar.calendar.accesskey	"C">
 <!ENTITY lightning.toolbar.task.name		"ToDo 도구모음">
 <!ENTITY lightning.toolbar.task.accesskey	"T">
 
 <!ENTITY lightning.toolbar.sync.label		"동기화">
+<!ENTITY lightning.toolbar.delete.label		"삭제">
+<!ENTITY lightning.toolbar.edit.label		"편집">
+<!ENTITY lightning.toolbar.gototoday.label	"오늘로 이동">
+<!ENTITY lightning.toolbar.print.label		"인쇄">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "메일">
+<!ENTITY lightning.toolbar.mail.accesskey     "M">
+<!ENTITY lightning.toolbar.calendar.label     "캘린더">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "태스크">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "이벤트">
+<!ENTITY lightning.toolbar.newtask.label      "태스크">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "일별">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "주별">
+<!ENTITY lightning.toolbar.week.accesskey            "W">
+<!ENTITY lightning.toolbar.multiweek.label           "여러 주">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
+<!ENTITY lightning.toolbar.month.label               "월별">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+
+<!ENTITY lightning.toolbar.calendar.tooltip     "캘린더 탭으로 전환">
+<!ENTITY lightning.toolbar.task.tooltip         "ToDo 탭으로 전환">

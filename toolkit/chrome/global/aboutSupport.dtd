@@ -16,23 +16,29 @@
 <!ENTITY aboutSupport.appBasicsName "이름">
 <!ENTITY aboutSupport.appBasicsVersion "버전">
 <!ENTITY aboutSupport.appBasicsProfileDir "프로필 저장 폴더">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac	"프로필 폴더">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "사용 중인 플러그인">
 <!ENTITY aboutSupport.appBasicsBuildConfig "빌드 설정">
 <!ENTITY aboutSupport.appBasicsUserAgent "사용자 에이전트">
 <!ENTITY aboutSupport.appBasicsCrashIDs "문제점 보고서">
 <!ENTITY aboutSupport.appBasicsMemoryUse "메모리 사용">
 
-<!ENTITY aboutSupport.show.label "폴더 열기">
+<!ENTITY aboutSupport.showDir.label "디렉토리 열기">
+<!ENTITY aboutSupport.showWin.label	"폴더 열기">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "폴더에 보이기">
+<!ENTITY aboutSupport.showMac.label "Finder에 표시">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "변경 설정 목록">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "변경 설정 목록">
 <!ENTITY aboutSupport.modifiedPrefsName "이름">
 <!ENTITY aboutSupport.modifiedPrefsValue "값">
 <!ENTITY aboutSupport.graphicsTitle "그래픽">
+
+<!ENTITY aboutSupport.jsTitle			"JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC		"인크리멘탈 GC">
+<!ENTITY aboutSupport.libraryVersionsTitle	"라이브러리 버전">
 
 <!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
 <!ENTITY aboutSupport.installationHistoryTitle "설치 기록">

@@ -36,30 +36,30 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
-<!ENTITY windowTitle.label "그림 속성">
+<!ENTITY windowTitle.label "이미지 속성">
 <!ENTITY pixelsPopup.value "픽셀">
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "그림 위치:">
+<!ENTITY locationEditField.label "이미지 위치:">
 <!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "그림의 파일 이름이나 위치를 입력합니다.">
+<!ENTITY locationEditField.tooltip "이미지의 파일 이름이나 위치를 입력합니다.">
 <!ENTITY title.label "풍선글:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "풍선글을 보여주는 HTML 제목입니다.">
 <!ENTITY altText.label "대체 출력 단어:">
 <!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "그림을 대체할 출력 내용을 입력합니다.">
-<!ENTITY noAltText.label "그림을 대체할 단어 사용 안 함">
+<!ENTITY altTextEditField.tooltip "이미지을 대체할 출력 내용을 입력합니다.">
+<!ENTITY noAltText.label "이미지을 대체할 단어 사용 안 함">
 <!ENTITY noAltText.accessKey "D">
-<!ENTITY previewBox.label "그림 미리 보기">
+<!ENTITY previewBox.label "이미지 미리 보기">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "실제 크기:">
 <!ENTITY actualSizeRadio.label "실제 크기">
 <!ENTITY actualSizeRadio.accessKey "A">
-<!ENTITY actualSizeRadio.tooltip "그림을 실제 크기로 변환합니다.">
+<!ENTITY actualSizeRadio.tooltip "이미지을 실제 크기로 변환합니다.">
 <!ENTITY customSizeRadio.label "크기 지정">
 <!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "페이지에 표시할 그림 크기를 변경합니다.">
+<!ENTITY customSizeRadio.tooltip "페이지에 표시할 이미지 크기를 변경합니다.">
 <!ENTITY heightEditField.label "높이:">
 <!ENTITY heightEditField.accessKey "G">
 <!ENTITY widthEditField.label "폭:">
@@ -68,13 +68,11 @@
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "가로*세로 비율을 유지합니다.">
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "그림맵">
+<!ENTITY imagemapBox.label "이미지맵">
 <!ENTITY removeImageMapButton.label "제거">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "편집...">
-<!ENTITY editImageMapButton.tooltip "그림에 핫스팟을 만듭니다.">
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "그림에 텍스트 맞춤">
+<!ENTITY alignment.label "이미지에 텍스트 맞춤">
 <!ENTITY bottomPopup.value "아래쪽">
 <!ENTITY topPopup.value "위쪽">
 <!ENTITY centerPopup.value "가운데">
@@ -89,7 +87,7 @@
 <!ENTITY borderEditField.label "테두리:">
 <!ENTITY borderEditField.accessKey "B">
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "링크된 그림에 테두리 보이기">
+<!ENTITY showImageLinkBorder.label "링크된 이미지에 테두리 보이기">
 <!ENTITY showImageLinkBorder.accessKey "B">
 <!ENTITY LinkAdvancedEditButton.label "고급 편집기 연결…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
