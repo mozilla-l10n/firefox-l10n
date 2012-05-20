@@ -33,7 +33,7 @@
 
 <!ENTITY bookmark "Bokmärke">
 <!ENTITY bookmark_added "Bokmärkt">
-<!ENTITY bookmark_removed "Borttaget bokmärke">
+<!ENTITY bookmark_removed "Bokmärket borttaget">
 <!ENTITY bookmark_updated "Uppdaterat bokmärke">
 
 <!ENTITY history_today_section "Idag">
