@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title "Наладжванні рахунку">
+<!ENTITY accountWindow.width "330">
+<!ENTITY account.general "Асноўныя">
+<!ENTITY account.advanced "Пашыраныя наладжванні">
+<!ENTITY account.name "Імя карыстальніка:">
+<!ENTITY account.password "Пароль:">
+<!ENTITY account.alias "Мянушка:">
+<!ENTITY account.newMailNotification "Паведамляць пра новую пошту">
+<!ENTITY account.autojoin "Самазлучаныя каналы:">
+<!ENTITY account.proxySettings.caption "Наладжванні пасярэднікаў:">
+<!ENTITY account.proxySettings.change.label "Змяніць…">
+<!ENTITY account.proxySettings.change.accessKey "З">

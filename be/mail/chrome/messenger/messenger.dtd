@@ -19,6 +19,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "н">
 <!ENTITY newExistingEmailAccountCmd.label "Існы рахунак пошты…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
+<!ENTITY newIMAccountCmd.label "Рахунак гутаркі…">
+<!ENTITY newIMAccountCmd.accesskey "г">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY openAttachmentCmd.label "Далучэнні">
@@ -292,6 +294,9 @@
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "Н">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Гутарка">
+<!ENTITY goChatCmd.accesskey "г">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -429,6 +434,12 @@
 <!ENTITY addons.accesskey "д">
 <!ENTITY activitymanager.label "Кіраўнік дзейнасці">
 <!ENTITY activitymanager.accesskey "д">
+<!ENTITY imAccountsStatus.label "Статус гутаркі">
+<!ENTITY imAccountsStatus.accesskey "г">
+<!ENTITY imStatus.available "Даступны">
+<!ENTITY imStatus.unavailable "Недаступны">
+<!ENTITY imStatus.offline "Па-за сеткаю">
+<!ENTITY imStatus.showAccounts "Паказаць рахункі…">
 <!ENTITY savedFiles.label "Захаваныя файлы">
 <!ENTITY savedFiles.accesskey "ф">
 <!ENTITY savedFiles.key "j">
@@ -460,7 +471,11 @@
 <!ENTITY fileButton.label "Файл">
 <!ENTITY archiveButton.label "Архіў">
 <!ENTITY nextButton.label "Наступны">
+<!ENTITY nextButtonToolbarItem.label "Наступны непрачытаны">
+<!ENTITY nextMsgButton.label "Наступны">
 <!ENTITY previousButton.label "Папярэдні">
+<!ENTITY previousButtonToolbarItem.label "Папярэдні непрачытаны">
+<!ENTITY previousMsgButton.label "Папярэдні">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Наперад">
 <!ENTITY deleteItem.title "Выдаліць">
@@ -474,6 +489,7 @@
 <!ENTITY junkButton.label "Лухта">
 <!ENTITY notJunkButton.label "Не лухта">
 <!ENTITY addressBookButton.label "Адрасная кніга">
+<!ENTITY chatButton.label "Гутарка">
 <!ENTITY glodaSearch.title "Агульны пошук">
 <!ENTITY searchItem.title "Хуткі пошук">
 <!ENTITY mailViewsToolbarItem.title "Праявы пошты">
@@ -492,7 +508,9 @@
 <!ENTITY fileButton.tooltip "Перамясціць вылучаны ліст">
 <!ENTITY archiveButton.tooltip "Заархівіраваць вылучаныя лісты">
 <!ENTITY nextButton.tooltip "Перамясціцца да наступнага непрачытанага ліста">
+<!ENTITY nextMsgButton.tooltip "Перайсці да наступнага ліста">
 <!ENTITY previousButton.tooltip "Перамясціцца да папярэдняга непрачытанага ліста">
+<!ENTITY previousMsgButton.tooltip "Перайсці да папаярэдняга ліста">
 <!ENTITY goForwardButton.tooltip "Перамясціцца да наступнага ліста">
 <!ENTITY goBackButton.tooltip "Перамясціцца да папярэдняга ліста">
 <!ENTITY deleteButton.tooltip "Выдаліць вылучаны ліст ці папку">
@@ -503,6 +521,7 @@
 <!ENTITY junkButton.tooltip "Пазначыць вылучаныя лісты як лухту">
 <!ENTITY notJunkButton.tooltip "Пазначыць вылучаныя лісты як не лухту">
 <!ENTITY addressBookButton.tooltip "Перайсці ў адрасную кнігу">
+<!ENTITY chatButton.tooltip "Паказаць устаўку гутаркі">
 <!ENTITY tagButton.tooltip "Меткі лістоў">
 <!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
 <!ENTITY addNewTag.label "Новая метка…">
@@ -655,9 +674,9 @@
 <!ENTITY mdnBarSendButton2.label "Даслаць квіток атрымання">
 <!ENTITY mdnBarSendButton2.accesskey "Д">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label.base "Шукаць… #1">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
+<!ENTITY search.label.base "Пошук… #1">
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
 <!ENTITY AddToAddressBook.accesskey "к">
 <!ENTITY AddDirectlyToAddressBook.label "Дадаць у адрасную кнігу">

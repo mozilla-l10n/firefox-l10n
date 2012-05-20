@@ -1,7 +1,15 @@
 <!ENTITY feedSubscriptions.label "Падпіскі на жывільнік">
 <!ENTITY subscriptionDesc.label "Заўвага: выдаленне або змяненне папкі для жывільніка не закране папярэдне загружаныя артыкулы.">
 <!ENTITY feedTitle.label "Загаловак:">
-<!ENTITY location.label "Месцазнаходжанне:">
+<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedLocation.label "Feed URL:">
+<!ENTITY feedLocation.accesskey "U">
+<!ENTITY feedLocation.placeholder "Enter a valid feed url to Add">
+<!ENTITY feedFolder.label "Store Articles in:">
+<!ENTITY feedFolder.accesskey "S">
+<!ENTITY quickMode.label "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.accesskey "h">
+<!ENTITY validateText.label "Check validation and retrieve a valid url.">
 <!ENTITY button.addFeed.label "Дадаць">
 <!ENTITY button.addFeed.accesskey "Д">
 <!ENTITY button.editFeed.label "Правіць">

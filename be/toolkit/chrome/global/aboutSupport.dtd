@@ -13,6 +13,7 @@
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
 <!ENTITY aboutSupport.appBasicsProfileDir "Дырэкторыя профілю">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Папка профілю">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Наладкі пабудовы">
 <!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
@@ -25,6 +26,9 @@
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.libraryVersionsTitle "Версіі бібліятэк">
 <!ENTITY aboutSupport.installationHistoryTitle "Гісторыя ўсталявання">
 <!ENTITY aboutSupport.updateHistoryTitle "Гісторыя абнаўленняў">
 <!ENTITY aboutSupport.copyToClipboard.label "Скапіяваць усё ў буфер абмену">

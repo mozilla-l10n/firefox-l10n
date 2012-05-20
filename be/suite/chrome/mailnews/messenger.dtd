@@ -103,6 +103,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "л">
 <!ENTITY showSearchToolbarCmd.label "Паліца пошуку">
 <!ENTITY showSearchToolbarCmd.accesskey "о">
+<!ENTITY showTabsToolbarCmd.label "Tabs Toolbar">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 <!ENTITY messagePaneLayoutStyle.label "Раскладка">
 <!ENTITY messagePaneLayoutStyle.accesskey "Р">
 <!ENTITY messagePaneClassic.label "Класічны від">

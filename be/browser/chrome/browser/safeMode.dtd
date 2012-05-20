@@ -38,6 +38,8 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY safeModeDialog.title "Бяспечны рэжым &brandShortName;">
 <!ENTITY window.width "43em">
+<!ENTITY autoSafeModeIntro.label "&brandShortName; нечакана закрыўся падчас запуску">
+<!ENTITY autoSafeModeDescription.label "Прабачце за нязручнасць. &brandShortName; зараз выконваецца ў бяспечным рэжыме, які часова забараняе вашы наладжванні, тэмы і пашырэнні.">
 <!ENTITY safeModeDescription.label "&brandShortName; зараз працуе ў бяспечным рэжыме, у якім часова забаронены ўсталяваныя вамі наладжванні, тэмы і пашырэнні.">
 <!ENTITY safeModeDescription2.label "Вы можаце зрабіць асобныя або ўсе гэтыя змяненні заўсёднымі:">
 <!ENTITY disableAddons.label "Забараніць усе дадаткі">
