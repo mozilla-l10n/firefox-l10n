@@ -157,10 +157,13 @@
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectPanelTitle.label "HTML">
-<!ENTITY inspectButton.label "Даследаваць">
-<!ENTITY inspectButton.accesskey "Д">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыць Назіральнік">
+<!ENTITY inspectorHTMLCopyInner.label "Скапіваць унутраны HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey "у">
+<!ENTITY inspectorHTMLCopyOuter.label "Скапіваць вонкавы HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "в">
+<!ENTITY inspectorHTMLDelete.label "Выдаліць вузел">
+<!ENTITY inspectorHTMLDelete.accesskey "д">
 <!ENTITY inspect3DViewButton.label "3-М від">
 <!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectStyleButton.label "Стыль">
@@ -435,3 +438,6 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Закрыць паліцу дадаткаў">
 <!ENTITY toggleAddonBarCmd.key "/">
+<!ENTITY htmlPanel.label "HTML">
+<!ENTITY htmlPanel.tooltiptext "Панель HTML">
+<!ENTITY htmlPanel.accesskey "H">

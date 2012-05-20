@@ -14,6 +14,8 @@
 <!ENTITY attachFileCmd.label "Файл(ы)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Старонку Сеціва…">
 <!ENTITY attachPageCmd.accesskey "С">
 <!ENTITY attachVCardCmd.label "Асабістую картку (vCard)">
@@ -235,6 +237,14 @@
 <!ENTITY selectAll.accesskey "У">
 <!ENTITY attachFile.label "Далучыць файл(ы)…">
 <!ENTITY attachFile.accesskey "Ф">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Ператварыць у…">
+<!ENTITY convertCloud.accesskey "т">
+<!ENTITY cancelUpload.label "Скасаваць зацягванне">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Звычайнае далучэнне">
+<!ENTITY convertRegularAttachment.accesskey "д">
 <!ENTITY attachPage.label "Далучыць старонку Сеціва…">
 <!ENTITY attachPage.accesskey "с">
 <!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">

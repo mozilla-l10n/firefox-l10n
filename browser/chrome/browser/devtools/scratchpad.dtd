@@ -17,34 +17,6 @@
 <!ENTITY closeCmd.accesskey "ы">
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
-<!ENTITY undoCmd.label "Адмяніць">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "А">
-<!ENTITY redoCmd.label "Вярнуць">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "В">
-<!ENTITY cutCmd.label "Выразаць">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "р">
-<!ENTITY copyCmd.label "Капіяваць">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Уставіць">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "У">
-<!ENTITY selectAllCmd.label "Вылучыць усё">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ё">
-<!ENTITY findCmd.label "Знайсці…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "З">
-<!ENTITY findAgainCmd.label "Find Again…">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "н">
-<!ENTITY findPreviousCmd.key "G">
-<!ENTITY gotoLineCmd.label "Пераскочыць да радка…">
-<!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "р">
 <!ENTITY run.label "Выканаць">
 <!ENTITY run.accesskey "к">
 <!ENTITY run.key "r">
@@ -60,6 +32,12 @@
 <!ENTITY contentContext.accesskey "З">
 <!ENTITY browserContext.label "Азіральнік">
 <!ENTITY browserContext.accesskey "А">
+<!ENTITY helpMenu.label "Даведка">
+<!ENTITY helpMenu.accesskey "Д">
+<!ENTITY helpMenuWin.label "Даведка">
+<!ENTITY helpMenuWin.accesskey "Д">
+<!ENTITY documentationLink.label "Даведка Scratchpad на MDN">
+<!ENTITY documentationLink.accesskey "M">
 <!ENTITY resetContext2.label "Узнавіць зменныя">
 <!ENTITY resetContext2.accesskey "У">
 <!ENTITY executeMenu.label "Выканаць">

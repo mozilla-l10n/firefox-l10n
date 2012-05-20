@@ -41,10 +41,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent2.label "Заўсёды ўжываць адасоблены рэжым азірання">
 <!ENTITY privateBrowsingPermanent2.accesskey "д">
-<!ENTITY rememberHistory.label "Памятаць маю гісторыю азірання">
-<!ENTITY rememberHistory.accesskey "м">
-<!ENTITY rememberDownload.label "Памятаць гісторыю загрузак">
-<!ENTITY rememberDownload.accesskey "з">
+<!ENTITY rememberHistory2.label "Remember my browsing and download history">
+<!ENTITY rememberHistory2.accesskey "b">
 <!ENTITY rememberSearchForm.label "Памятаць гісторыю пошуку і запаўнення формаў">
 <!ENTITY rememberSearchForm.accesskey "ш">
 <!ENTITY clearOnClose.label "Ачышчаць гісторыю, калі &brandShortName; закрываецца">
