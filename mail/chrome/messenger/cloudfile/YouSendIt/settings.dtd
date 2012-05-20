@@ -3,3 +3,4 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY youSendItSettings.username		"사용자명:">
 <!ENTITY youSendItSettings.needAnAccount	"계정이 필요하십니까?">
+<!ENTITY youSendItSettings.learnMore		"기능 소개…">

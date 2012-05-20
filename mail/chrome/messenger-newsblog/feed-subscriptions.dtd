@@ -14,6 +14,7 @@
 <!ENTITY quickMode.label		"웹 페이지를 읽지 않고 기사 요약을 표시">
 <!ENTITY quickMode.accesskey		"h">
 
+<!ENTITY locationValidate.label		"피드 검사">
 <!ENTITY validateText.label		"피드가 유효한지 확인해 올바른 URL을 취득합니다.">
 
 <!ENTITY button.addFeed.label       "추가">

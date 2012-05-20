@@ -58,11 +58,9 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "위험성을 잘 알고 있습니다.">
 <!ENTITY confirmWarning.accesskey        "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
-     on the incoming or outgoing servers, then the page that pops up will
-     have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "계정 생성">
-<!ENTITY createAccount.accesskey         "C">
+
+<!ENTITY doneAccount.label             "완료">
+<!ENTITY doneAccount.accesskey         "D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
