@@ -9,5 +9,5 @@
 <!ENTITY resetProfile.dialog.button.label "Atkurti pradinę būseną">
 
 <!ENTITY resetProfile.title               "„&brandShortName;“ pradinės būsenos atkūrimas">
-<!ENTITY resetProfile.description         "Jeigu susidūrėte su problemomis, kurių išspręsti nepavyksta, galite atkurti pradinę „&brandShortName;“ būseną, palikdami tik būtiniausius duomenis.">
+<!ENTITY resetProfile.description         "Jeigu susidūrėte su problemomis, kurių išspręsti nepavyksta, galite atkurti pradinę programos būseną, palikdami tik būtiniausius duomenis.">
 <!ENTITY resetProfile.button.label        "Atkurti pradinę būseną">

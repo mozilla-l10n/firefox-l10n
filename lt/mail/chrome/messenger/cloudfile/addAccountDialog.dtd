@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Paskyros pavadinimas:">
 <!ENTITY addAccountDialog.noAccountText "Deja, ši programos „&brandShortName;“ laida leidžia sukonfigūruoti tik po vieną paskyrą kiekvienoje failų talpinimo tarnyboje.">
-<!ENTITY addAccountDialog.createAccountText "Ši funkcija įgalina siųsti didelius priedus, naudojantis viena iš kelių failų talpinimo internete tarnybų. Galite jungtis prie jau turimos paskyros arba susikurti naują.">
+<!ENTITY addAccountDialog.createAccountText2 "Siųsdami didelius priedus, galite naudotis viena iš kelių failų talpinimo internete tarnybų. Galite naudotis jau turima savo paskyra arba susikurti naują.">
 <!ENTITY addAccountDialog.authorizing "Tikrinamas tapatumas…">
 <!ENTITY addAccountDialog.error "Kuriant paskyrą, įvyko klaida!">
 <!ENTITY addAccountDialog.acceptButton.label "Konfigūruoti paskyrą">
+<!ENTITY addAccountDialog.learnMore "Plačiau…">

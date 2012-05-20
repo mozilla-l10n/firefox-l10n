@@ -85,11 +85,6 @@
 <!ENTITY insertBreakAllCmd.accesskey   "p">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Nėra siūlymų)">
-<!ENTITY spellCheckIgnoreWord.label    "Praleisti">
-<!ENTITY spellCheckIgnoreWord.accesskey "l">
-<!ENTITY spellCheckAddToDictionary.label "Įtraukti į žodyną">
-<!ENTITY spellCheckAddToDictionary.accesskey "t">
 <!ENTITY createLinkCmd.label           "Įterpti saitą…">
 <!ENTITY createLinkCmd.accesskey       "Į">
 <!ENTITY editLinkCmd.label             "Taisyti saitą naujame lange">

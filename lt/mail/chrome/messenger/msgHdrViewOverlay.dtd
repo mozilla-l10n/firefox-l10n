@@ -28,6 +28,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Atsakyti laiško siuntėjui ir visiems gavėjams">
 <!ENTITY hdrReplyListButton1.label "Atsakyti grupei">
 <!ENTITY hdrReplyListButton1.tooltip "Atsakyti el. pašto grupei">
+<!ENTITY hdrFollowupButton1.label "Atsakyti grupei">
+<!ENTITY hdrFollowupButton1.tooltip "Atsakyti naujienų grupei">
 <!ENTITY hdrForwardButton1.label "Persiųsti">
 <!ENTITY hdrForwardButton1.tooltip "Persiųsti šį laišką">
 <!ENTITY hdrJunkButton1.label "Brukalas">

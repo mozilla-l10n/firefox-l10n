@@ -361,8 +361,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Atsakyti siuntėjui">
 <!ENTITY replySenderCmd.accesskey "s">
-<!ENTITY replyNewsgroupCmd.label "Atsakyti naujienų grupei">
-<!ENTITY replyNewsgroupCmd.accesskey	"g">
+<!ENTITY replyNewsgroupCmd2.label "Atsakyti naujienų grupei">
+<!ENTITY replyNewsgroupCmd2.accesskey	"g">
 <!ENTITY replyToAllMsgCmd.label "Atsakyti visiems">
 <!ENTITY replyToAllMsgCmd.accesskey	"v">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -491,6 +491,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "š">
 <!ENTITY errorConsoleCmd.label "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey "u">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY filtersCmd.label "Laiškų filtrai…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Filtruoti pažymėto aplanko laiškus">
@@ -684,8 +685,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Atsakyti siuntėjui">
 <!ENTITY contextReplySender.accesskey "A">
-<!ENTITY contextReplyNewsgroup.label "Atsakyti naujienų grupei">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup2.label "Atsakyti naujienų grupei">
+<!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Atsakyti visiems">
 <!ENTITY contextReplyAll.accesskey "v">
 <!ENTITY contextReplyList.label "Atsakyti el. pašto grupei">
