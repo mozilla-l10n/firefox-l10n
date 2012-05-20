@@ -32,9 +32,9 @@
 <!ENTITY updates.viewUpdates.accesskey "V">
 <!ENTITY updates.updateAddonsAutomatically.label "Actualizar complementos automáticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label "Reiniciar todos los complementos para actualizarlos automáticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Configurar todos los complementos para que se actualicen automáticamente">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
-<!ENTITY updates.resetUpdatesToManual.label "Reiniciar todos los complementos para actualizarlos manualmente">
+<!ENTITY updates.resetUpdatesToManual.label "Configurar todos los complementos para que se actualicen manualmente">
 <!ENTITY updates.resetUpdatesToManual.accesskey "R">
 <!ENTITY updates.updating.label "Actualizando complementos">
 <!ENTITY updates.installed.label "Se han actualizado sus complementos.">
