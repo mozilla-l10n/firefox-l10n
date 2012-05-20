@@ -7,7 +7,7 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Søger efter opdatering…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen opdatering fundet">
 <!ENTITY aboutPage.checkForUpdates.found        "Opdatering klar">
-<!ENTITY aboutPage.faq.label                    "OSS">
+<!ENTITY aboutPage.faq.label                    "Ofte stillede spørgsmål">
 <!ENTITY aboutPage.support.label                "Support">
 <!ENTITY aboutPage.privacyPolicy.label          "Privatlivspolitik">
 <!ENTITY aboutPage.rights.label                 "Kend dine rettigheder">
