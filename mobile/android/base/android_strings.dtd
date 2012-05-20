@@ -66,7 +66,7 @@
 <!ENTITY pref_clear_private_data_confirm "Browserindstillinger, herunder adgangskoder og cookies, vil blive slettet">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiveret">
-<!ENTITY pref_plugins_tap_to_play "Tryk her for at afspille">
+<!ENTITY pref_plugins_tap_to_play "Tryk for at afspille">
 <!ENTITY pref_plugins_disabled "Deaktiveret">
 <!ENTITY pref_text_size "Tekststørrelse">
 <!ENTITY pref_font_size_tiny "Ekstra lille">
