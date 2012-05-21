@@ -38,7 +38,7 @@
 <!ENTITY clearCacheNow.label "Cancella adesso">
 <!ENTITY clearCacheNow.accesskey "C">
 <!ENTITY clearOfflineAppCacheNow.label "Cancella adesso">
-<!ENTITY clearOfflineAppCacheNow.accesskey "C">
+<!ENTITY clearOfflineAppCacheNow.accesskey "d">
 <!ENTITY overrideSmartCacheSize.label "Non utilizzare la gestione automatica della cache">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 <!ENTITY updateTab.label "Aggiornamenti">
