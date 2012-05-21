@@ -9,7 +9,15 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label          "Scenarijų derintuvė">
+<!ENTITY debuggerMenu.label2         "Derintuvė">
+
+<!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the remote debugger UI. -->
+<!ENTITY remoteDebuggerMenu.label    "Nuotolinė derintuvė">
+
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI. -->
+<!ENTITY chromeDebuggerMenu.label    "Naršyklės derintuvė">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
@@ -44,3 +52,11 @@
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
 <!ENTITY debuggerUI.propertiesTitle  "Galiojimo srities kintamieji">
+
+<!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
+  -  appears in the filter text box when it is empty. -->
+<!ENTITY debuggerUI.emptyFilterText  "Filtruoti scenarijus">
+
+<!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
+  - there are no scripts. -->
+<!ENTITY debuggerUI.emptyScriptText  "Scenarijų nėra.">
