@@ -1,14 +1,14 @@
 <!ENTITY tracking.label                 "Verfolgung">
 
 <!ENTITY doNotTrack.label               "Websites mitteilen, dass ich nicht verfolgt werden möchte ">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.accesskey           "m">
 
 <!ENTITY  history.label                 "Chronik">
 
 <!ENTITY  locationBar.label             "Adressleiste">
 
 <!ENTITY  locbar.pre.label              "In der Adressleiste">
-<!ENTITY  locbar.pre.accessKey          "A">
+<!ENTITY  locbar.pre.accessKey          "d">
 <!ENTITY  locbar.post.label             " vorschlagen">
 <!ENTITY  locbar.both.label             "Einträge aus Chronik und Lesezeichen">
 <!ENTITY  locbar.history.label          "Einträge aus der Chronik">
@@ -66,13 +66,13 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Besuchte Seiten und Download-Chronik speichern">
-<!ENTITY  rememberHistory2.accesskey  "B">
+<!ENTITY  rememberHistory2.accesskey  "w">
 
 <!ENTITY  rememberSearchForm.label       "Eingegebene Suchbegriffe und Formulardaten speichern">
 <!ENTITY  rememberSearchForm.accesskey   "S">
 
 <!ENTITY  clearOnClose.label             "Die Chronik löschen, wenn &brandShortName; geschlossen wird">
-<!ENTITY  clearOnClose.accesskey         "C">
+<!ENTITY  clearOnClose.accesskey         "g">
 
 <!ENTITY  clearOnCloseSettings.label     "Einstellungen…">
 <!ENTITY  clearOnCloseSettings.accesskey "E">
