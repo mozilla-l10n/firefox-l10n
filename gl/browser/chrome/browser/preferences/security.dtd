@@ -23,7 +23,7 @@
 <!ENTITY  rememberPasswords.label       "Lembrar os contrasinais dos sitios web">
 <!ENTITY  rememberPasswords.accesskey   "L">
 <!ENTITY  passwordExceptions.label      "Excepcións…">
-<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY  passwordExceptions.accesskey  "p">
 
 <!ENTITY  useMasterPassword.label        "Usar un contrasinal principal">
 <!ENTITY  useMasterPassword.accesskey    "U">
