@@ -46,6 +46,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Pabandyti dar kartą.'>
+<!ENTITY sync.pair.connectlocation.label 'Jeigu norite suaktyvinti naują įrenginį, jame pasirinkite „Konfigūruoti sinchronizavimą“, o tada rinkitės variantą „Jau turiu paskyrą“.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Parinktys'>
