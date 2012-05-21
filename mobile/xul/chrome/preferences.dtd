@@ -1,24 +1,24 @@
 <!ENTITY prefsHeader.label                         "वरीयता">
-<!ENTITY about.title                               "About &brandShortName;">
-<!ENTITY about.button                              "Go to Page">
+<!ENTITY about.title                               "&brandShortName; परिचय">
+<!ENTITY about.button                              "पृष्ठ पर जाएँ">
 <!ENTITY content.title                             "अंतर्वस्तु">
-<!ENTITY reflowZoom.title                          "Reformat text on zoom">
-<!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
-<!ENTITY masterPassword.title                      "Use master password">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
-<!ENTITY clearPrivateData.button                   "Clear">
-<!ENTITY rememberPasswords.title                   "Remember passwords">
-<!ENTITY language.title                            "Language">
-<!ENTITY language.auto                             "Auto-detect">
+<!ENTITY reflowZoom.title                          "जूम करने पर पाठ प्रारूपित करें">
+<!ENTITY showImages.title                          "छवियाँ दिखाएँ">
+<!ENTITY enableJavaScript.title                    "जावास्क्रिप्ट सक्रिय करें">
+<!ENTITY privacy.title                             "गोपनीयता व सुरक्षा">
+<!ENTITY allowCookies.title                        "कुकीज को स्वीकृति दें">
+<!ENTITY doNotTrack.title                          "साइटों को कहें कि मुझे ट्रैक न करें">
+<!ENTITY masterPassword.title                      "प्रधान कूटशब्द का उपयोग करें">
+<!ENTITY clearPrivateData2.title                   "निजी आँकड़ा साफ़ करें">
+<!ENTITY clearPrivateData.button                   "साफ करें">
+<!ENTITY rememberPasswords.title                   "कूटशब्द याद रखें">
+<!ENTITY language.title                            "भाषा">
+<!ENTITY language.auto                             "स्वतः पता करें">
 <!ENTITY defaultBrowser.title                      "मूलभूत ब्राउज़र">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
-<!ENTITY homepage.title                            "Start page">
-<!ENTITY homepage.none                             "Blank Page">
-<!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
-<!ENTITY showCharsetEncoding.title                 "Show character encoding">
-<!ENTITY actionbar.default                         "&brandShortName; Settings">
+<!ENTITY defaultBrowser.description                "&brandShortName; को अपना तयशुदा ब्राउज़र बनाएँ">
+<!ENTITY homepage.title                            "आरंभ पृष्ठ">
+<!ENTITY homepage.none                             "रिक्त पृष्ठ">
+<!ENTITY homepage.default                          "&brandShortName; श्रीगणेश">
+<!ENTITY homepage.currentpage                      "मौजूदा पृष्ठ का उपयोग करें">
+<!ENTITY showCharsetEncoding.title                 "वर्ण एन्कोडिंग दिखाएँ">
+<!ENTITY actionbar.default                         "&brandShortName; सेटिंग">
