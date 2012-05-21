@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Accountnamme:">
 <!ENTITY addAccountDialog.noAccountText "It spyt ús mar de aktuele ferzje fan &brandShortName; lit mar ien account per online opslachtsjinst ta.">
-<!ENTITY addAccountDialog.createAccountText "Dizze funksje jout de mooglikheid om grutte bylagen te ferstjoeren fia ien fan de online opslachstsjinsten. Jo kinne ferbine fia in besteand account of in nij account ynstelle.">
-<!ENTITY addAccountDialog.authorizing "Autorisaasje kontrolearje...">
+<!ENTITY addAccountDialog.createAccountText2 "Jo kinne grutte bylagen ferstjoere fia ien fan de online opslachstsjinsten. Stel in besteand account yn of meitsje in nije oan.">
+<!ENTITY addAccountDialog.authorizing "Autorisaasje kontrolearje…">
 <!ENTITY addAccountDialog.error "Der is in flater bard by it ynstellen fan it account!">
 <!ENTITY addAccountDialog.acceptButton.label "Account ynstelle">
+<!ENTITY addAccountDialog.learnMore "Mear ynfo…">

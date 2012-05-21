@@ -79,15 +79,10 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Tekens en symboalen…">
 <!ENTITY insertCharsCmd.accesskey "s">
-<!ENTITY insertBreakAllCmd.label "Ofbrekke nei ôfbylding(s)">
+<!ENTITY insertBreakAllCmd.label "Ofbrekke nei ôfbylding(en)">
 <!ENTITY insertBreakAllCmd.accesskey "e">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Gjin suggestjes fûn)">
-<!ENTITY spellCheckIgnoreWord.label "Wurd negearje">
-<!ENTITY spellCheckIgnoreWord.accesskey "n">
-<!ENTITY spellCheckAddToDictionary.label "Tafoegje oan wurdboek">
-<!ENTITY spellCheckAddToDictionary.accesskey "T">
 <!ENTITY createLinkCmd.label "Keppeling meitsje…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Keppeling yn in nij finster bewurkje">
