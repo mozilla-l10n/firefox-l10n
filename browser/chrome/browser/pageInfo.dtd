@@ -72,7 +72,7 @@
 <!ENTITY  mediaType             "Type">
 <!ENTITY  mediaSize             "Grutte">
 <!ENTITY  mediaCount            "Oantal">
-<!ENTITY  mediaDimension        "Ofmjittings:">
+<!ENTITY  mediaDimension        "Ofmjittingen:">
 <!ENTITY  mediaLongdesc         "Lange omskriuwing:">
 <!ENTITY  mediaBlockImage.accesskey "l">
 <!ENTITY  mediaSaveAs           "Bewarje as...">
@@ -85,19 +85,20 @@
 <!ENTITY  feedSubscribe         "abonnearje">
 <!ENTITY  feedSubscribe.accesskey "a">
 
-<!ENTITY  permTab               "Tastimmings">
+<!ENTITY  permTab               "Tastimmingen">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Standert brûke">
 <!ENTITY  permAskAlways         "Altyd freegje">
 <!ENTITY  permAllow             "Tastean">
 <!ENTITY  permAllowSession      "Tastean foar sesje">
 <!ENTITY  permBlock             "Blokkearje">
-<!ENTITY  permissionsFor        "Tastimmings foar:">
-<!ENTITY  permImage             "Ofbyldings lade">
+<!ENTITY  permissionsFor        "Tastimmingen foar:">
+<!ENTITY  permImage             "Ofbyldingen lade">
 <!ENTITY  permPopup             "Popupfinster iepenje">
 <!ENTITY  permCookie            "Cookies ynstelle">
-<!ENTITY  permInstall           "Utwreidings of tema's ynstallearje">
+<!ENTITY  permInstall           "Utwreidingen of tema's ynstallearje">
 <!ENTITY  permGeo               "Toan lokaasje">
+<!ENTITY  permPlugins           "Ynstekkers aktivearje">
 
 <!ENTITY  permIndexedDB              "Offline opslach behâlde">
 <!ENTITY  permClearStorage           "Wiskje opslach">
