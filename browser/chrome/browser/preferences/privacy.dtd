@@ -18,10 +18,10 @@
 
 
 <!ENTITY  acceptCookies.label           "Aceptar as cookies das páxinas web">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "Aceptar cookies de terceiros">
-<!ENTITY  acceptThirdParty.accesskey    "o">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "Conservar até:">
 <!ENTITY  keepUntil.accesskey           "C">
@@ -34,11 +34,11 @@
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Mostrar cookies…">
-<!ENTITY  showCookies.accesskey         "k">
+<!ENTITY  showCookies.accesskey         "s">
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "i">
 <!ENTITY  historyHeader.remember.label     "Gardará o historial">
 <!ENTITY  historyHeader.dontremember.label "Nunca gardará o historial">
 <!ENTITY  historyHeader.custom.label       "Usará unha configuración personalizada para o historial">
@@ -73,7 +73,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Limpar o historial ao pechar &brandShortName;">
-<!ENTITY  clearOnClose.accesskey         "L">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Configuración…">
-<!ENTITY  clearOnCloseSettings.accesskey "f">
+<!ENTITY  clearOnCloseSettings.accesskey "g">

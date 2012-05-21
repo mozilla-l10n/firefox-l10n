@@ -7,11 +7,11 @@
 <!ENTITY  language.accesskey                      "T">
 
 <!ENTITY  size.label                              "Tamaño:">
-<!ENTITY  sizeProportional.accesskey              "m">
+<!ENTITY  sizeProportional.accesskey              "ñ">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporcional:">
-<!ENTITY  proportional.accesskey                  "r">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
@@ -62,8 +62,8 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Permitir que as páxinas escollan os seus tipos de letra en lugar dos antes seleccionados">
-<!ENTITY  allowPagesToUse.accesskey               "P">
+<!ENTITY  allowPagesToUse.accesskey               "a">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Codificación de caracteres">
 <!ENTITY languages.customize.DefaultCharset.label       "Codificación de caracteres predefinida:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "o">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
