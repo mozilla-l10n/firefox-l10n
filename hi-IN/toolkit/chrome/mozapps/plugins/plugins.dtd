@@ -40,7 +40,8 @@
 <!ENTITY installPlugin                                       "प्लगइन संस्थापित करें…">
 <!ENTITY managePlugins                                       "प्लगइन प्रबंधित करें…">
 
-<!ENTITY clickToPlayPlugin                                   "प्लगिन सक्रिय करने के लिए यहाँ टैप करें.">
+<!ENTITY clickToPlayPlugins                                  "प्लगिन सक्रिय करने के लिए यहाँ क्लिक करें.">
+<!ENTITY tapToPlayPlugin                                     "प्लगिन सक्रिय करने के लिए यहाँ टैप करें.">
 
 
 
