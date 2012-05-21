@@ -1,0 +1,27 @@
+<!ENTITY accountsWindow.title                "Anlık mesajlaşma durumu">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Yeni hesap">
+<!ENTITY accountManager.newAccount.accesskey "Y">
+<!ENTITY accountManager.close.label          "Close">
+<!ENTITY accountManager.close.accesskey      "l">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Henüz hiç hesap yapılandırılmamış">
+<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
+<!ENTITY account.autoSignOn.label     "Başlangıçta oturum aç">
+<!ENTITY account.autoSignOn.accesskey "o">
+<!ENTITY account.connect.label        "Bağlan">
+<!ENTITY account.connect.accesskey    "B">
+<!ENTITY account.disconnect.label     "Bağlantıyı kes">
+<!ENTITY account.disconnect.accesskey "k">
+<!ENTITY account.edit.label           "Özellikler">
+<!ENTITY account.edit.accesskey       "Ö">
+<!ENTITY account.moveup.label         "Yukarı taşı">
+<!ENTITY account.movedown.label       "Aşağı taşı">
+<!ENTITY account.cancelReconnection.label         "Cancel reconnection">
+<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.connecting           "Connecting…">
+<!ENTITY account.disconnecting        "Bağlantı kesiliyor…">
+<!ENTITY account.disconnected         "Bağlı değil">
+

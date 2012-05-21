@@ -1,8 +1,4 @@
 <!ENTITY aboutPage.title                        "&brandShortName; hakkında">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; deneyseldir ve kararsız olabilir.">
-<!ENTITY aboutPage.telemetryStart               " Performans, donanım, kullanım ve özeleştirme ile ilgili bazı bilgiler otomatik olarak ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " sunucularına gönderilerek &brandShortName; iyileştirilir.">
 <!ENTITY aboutPage.faq.label                    "S.S.S.">
 <!ENTITY aboutPage.support.label                "Destek">
 <!ENTITY aboutPage.privacyPolicy.label          "Gizlilik ilkeleri">

@@ -18,3 +18,18 @@
 <!ENTITY chooseFolderMac.label        "Seç…">
 <!ENTITY chooseFolderMac.accesskey    "S">
 
+<!ENTITY attachments.incoming.label   "Gelen">
+<!ENTITY attachments.outgoing.label   "Giden">
+
+<!ENTITY addCloudFileAccount.label        "Add">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Yeni Filelink depolama servisi ekle">
+<!ENTITY removeCloudFileAccount.label     "Remove">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Bu depolama servisinin ayarlarını görmek için kimlik doğrulama gerekiyor.">
+<!ENTITY authRequired.button.label        "Yetkilendir">
+<!ENTITY authRequired.button.accesskey    "Y">
+
+<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
+

@@ -1,5 +1,3 @@
-<!ENTITY accountTitle.label "Hesap ayarları">
-
 <!ENTITY biffStart.label "Yeni haberleri denetleme sıklığı ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "dakika">

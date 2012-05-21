@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "İleti depolama">
 <!ENTITY securitySettings.label "Güvenlik ayarları">
 <!ENTITY serverSettings.label "Sunucu ayarları">
 <!ENTITY serverType.label "Sunucu türü:">
@@ -63,17 +64,20 @@
 <!ENTITY alwaysAuthenticate.label "Bu sunucuya bağlanırken her zaman kimlik doğrulaması iste">
 <!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "newsrc doyası:">
-<!ENTITY localPath.label "Yerel dizin:">
+<!ENTITY newsrcPicker.label "newsrc dosyasını seçin">
 <!ENTITY abbreviate.label "Haber grubu isimlerini posta dizini bölmesinde göster:">
 <!ENTITY abbreviateOn.label "Tam isimler (örnek: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Kısa isimler (örnek, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Gelişmiş…">
 <!ENTITY advancedButton.accesskey "G">
 <!ENTITY serverDefaultCharset.label "Varsayılan karakter kodlaması:">
+<!ENTITY localPath.label "Yerel dizin:">
 <!ENTITY localFolderPicker.label "Yerel dizin seçin">
 <!ENTITY browseFolder.label "Gözat…">
 <!ENTITY browseFolder.accesskey "a">
-<!ENTITY newsrcPicker.label "newsrc dosyasını seçin">
 <!ENTITY browseNewsrc.label "Gözat…">
 <!ENTITY browseNewsrc.accesskey "t">
+
+<!ENTITY accountTitle.label "Account Settings">
+<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
 

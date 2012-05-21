@@ -70,7 +70,3 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Yalnızca bir &syncBrand.fullName.label; hesabı kurabilirsiniz.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.new.recoverykey.status.incorrect 'Kurtarma anahtarı yanlış. Lütfen tekrar deneyin.'>
-

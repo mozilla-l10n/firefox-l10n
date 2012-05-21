@@ -1,0 +1,7 @@
+<!ENTITY joinChatWindow.title           "Sohbete katıl">
+<!ENTITY name.label                     "Oda">
+<!ENTITY optional.label                 "(tercihe bağlı)">
+<!ENTITY account.label                  "Hesap">
+<!ENTITY autojoin.label                 "Bu sohbet odasına otomatik olarak katıl">
+<!ENTITY autojoin.accesskey             "a">
+

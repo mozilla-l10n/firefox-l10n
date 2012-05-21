@@ -1,19 +1,33 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Besleme abonelikleri">
-<!ENTITY subscriptionDesc.label "Not: Bir besleme dizininin silinmesi veya değiştirilmesi önceden indirilmiş haberleri etkilemez.">
-<!ENTITY feedTitle.label "Başlık: ">
-<!ENTITY location.label  "Konum: ">
+<!ENTITY feedSubscriptions.label     "Besleme abonelikleri">
+<!ENTITY subscriptionDesc.label      "Not: Bir besleme dizininin silinmesi veya değiştirilmesi önceden indirilmiş haberleri etkilemez.">
 
-<!ENTITY button.addFeed.label       "Ekle">
-<!ENTITY button.addFeed.accesskey   "l">
-<!ENTITY button.editFeed.label      "Düzenle">
-<!ENTITY button.editFeed.accesskey  "e">
-<!ENTITY button.removeFeed.label "Kaldır">
-<!ENTITY button.removeFeed.accesskey   "r">
-<!ENTITY button.importOPML.label "İçe aktar">
-<!ENTITY button.importOPML.accesskey   "k">
-<!ENTITY button.exportOPML.label "Dışa aktar">
-<!ENTITY button.exportOPML.accesskey   "t">
+<!ENTITY feedTitle.label             "Başlık: ">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Besleme adresi:">
+<!ENTITY feedLocation.accesskey      "a">
+<!ENTITY feedLocation.placeholder    "Eklemek için geçerli bir besleme adresi girin">
+
+<!ENTITY feedFolder.label            "Store Articles in:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY locationValidate.label      "Validate">
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+
+<!ENTITY button.addFeed.label        "Ekle">
+<!ENTITY button.addFeed.accesskey    "l">
+<!ENTITY button.editFeed.label       "Düzenle">
+<!ENTITY button.editFeed.accesskey   "e">
+<!ENTITY button.removeFeed.label     "Kaldır">
+<!ENTITY button.removeFeed.accesskey "r">
+<!ENTITY button.importOPML.label     "İçe aktar">
+<!ENTITY button.importOPML.accesskey "k">
+<!ENTITY button.exportOPML.label     "Dışa aktar">
+<!ENTITY button.exportOPML.accesskey "t">
+
+<!ENTITY cmd.close.commandKey        "w">
 
