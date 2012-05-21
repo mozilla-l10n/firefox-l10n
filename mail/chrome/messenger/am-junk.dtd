@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Brukalo nuostatos">
-<!ENTITY trainingDescription.label "Įjungus brukalo filtrą, programai „&brandShortName;“ reikės parodyti, kurie laiškai laikomi brukalu, o kurie – ne. Tam naudokite mygtuką „Brukalas“ priemonių juostoje. Šitaip apmokius programą, brukalą ji mokės atskirti pati.">
+<!ENTITY trainingDescription.label "Įjungus adaptyvųjį brukalo filtrą, programą „&brandShortName;“ reikės apmokyti, jai parodant, kurie laiškai laikomi brukalu, o kurie – ne. Tam naudokite mygtuką „Brukalas“ priemonių juostoje. Šitaip apmokius programą, brukalą ji mokės atskirti pati.">
 <!ENTITY level.label "Įjungti šios paskyros adaptyvųjį brukalo filtrą">
 <!ENTITY level.accesskey "u">
 
