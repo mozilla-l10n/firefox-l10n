@@ -50,7 +50,7 @@
 
 
 
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
 
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -89,7 +89,7 @@
 
 
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 
 
 <!-- LOCALIZATION NOTE:
@@ -140,4 +140,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
+<!ENTITY enableSearchUpdate.accesskey    "E">
+
 <!ENTITY updateHistory.label             "अद्यतन इतिहास दिखाएँ">
