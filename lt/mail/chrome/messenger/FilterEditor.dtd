@@ -41,3 +41,6 @@
 <!ENTITY ignoreSubthread.label "Nepaisyti gijos atšakos">
 <!ENTITY watchThread.label "Stebėti giją">
 <!ENTITY stopExecution.label "Stabdyti filtrų vykdymą">
+
+<!ENTITY addAction.tooltip "Pridėti naują veiksmą">
+<!ENTITY removeAction.tooltip "Pašalinti šį veiksmą">
