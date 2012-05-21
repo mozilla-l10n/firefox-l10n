@@ -1,16 +1,16 @@
-<!ENTITY aboutPage.title                        "About &brandShortName;">
+<!ENTITY aboutPage.title                        "brandShortName; का परिचय">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
 <!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
-<!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
-<!ENTITY aboutPage.privacyPolicy.label          "Privacy Policy">
-<!ENTITY aboutPage.rights.label                 "Know Your Rights">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
-<!ENTITY aboutPage.credits.label                "Credits">
-<!ENTITY aboutPage.license.label                "Licensing Information">
+<!ENTITY aboutPage.checkForUpdates.link         "अद्यतन के लिए जाँचें »">
+<!ENTITY aboutPage.checkForUpdates.checking     "अद्यतन के लिए खोज रहे हैं…">
+<!ENTITY aboutPage.checkForUpdates.none         "कोई अद्यतन उपलब्ध नहीं">
+<!ENTITY aboutPage.checkForUpdates.found        "अद्यतन उपलब्ध">
+<!ENTITY aboutPage.faq.label                    "सामान्य प्रश्न">
+<!ENTITY aboutPage.support.label                "समर्थन">
+<!ENTITY aboutPage.privacyPolicy.label          "गोपनीयता नीति">
+<!ENTITY aboutPage.rights.label                 "अपने अधिकार जानें">
+<!ENTITY aboutPage.relNotes.label               "रिलीज नोट्स">
+<!ENTITY aboutPage.credits.label                "श्रेय">
+<!ENTITY aboutPage.license.label                "लाइसेंसिंग सूचना">
