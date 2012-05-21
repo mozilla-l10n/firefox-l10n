@@ -1,0 +1,7 @@
+<!ENTITY webapps.title.placeholder "શીર્ષક દાખલ કરો">
+<!ENTITY webapps.permissions "વપરાશની પરવાનગી આપો:">
+<!ENTITY webapps.perm.geolocation "સ્થાન-અનુસાર બ્રાઉઝ કરવાનું">
+<!ENTITY webapps.perm.offline "ઑફલાઇન માહિતી સંગ્રહ">
+<!ENTITY webapps.perm.notifications "ડેસ્કટોપ સૂચનો">
+<!ENTITY webapps.perm.requestedHint "(અરજી થયેલ)">
+<!ENTITY webapps.add-homescreen "ઘર સ્ક્રીન પર ઉમેરો">

@@ -1,0 +1,24 @@
+<!ENTITY prefsHeader.label                         "પસંદગીઓ">
+<!ENTITY about.title                               "&brandShortName; વિશે">
+<!ENTITY about.button                              "પાનાં પર જાવ">
+<!ENTITY content.title                             "સમાવિષ્ટો">
+<!ENTITY reflowZoom.title                          "નાનામોટાપણા પર લખાણનું બંધારણ પુનઃઘડો">
+<!ENTITY showImages.title                          "ચિત્રો બતાવો">
+<!ENTITY enableJavaScript.title                    "JavaScript સક્રિય કરો">
+<!ENTITY privacy.title                             "ખાનગીપણું &amp; સુરક્ષા">
+<!ENTITY allowCookies.title                        "કુકીઓને પરવાનગી આપો">
+<!ENTITY doNotTrack.title                          "સાઇટોને કહો કે મને ટ્રેક નહિં કરે">
+<!ENTITY masterPassword.title                      "મુખ્ય પાસવર્ડ વાપરો">
+<!ENTITY clearPrivateData2.title                   "ખાનગી માહિતી સાફ કરો">
+<!ENTITY clearPrivateData.button                   "સાફ કરો">
+<!ENTITY rememberPasswords.title                   "પાસવર્ડો યાદ રાખો">
+<!ENTITY language.title                            "ભાષા">
+<!ENTITY language.auto                             "આપોઆપ-શોધો">
+<!ENTITY defaultBrowser.title                      "મૂળભૂત બ્રાઉઝર">
+<!ENTITY defaultBrowser.description                "&brandShortName; ને તમારું મૂળભૂત બ્રાઉઝર બનાવો">
+<!ENTITY homepage.title                            "શરૂઆત પાનું">
+<!ENTITY homepage.none                             "કોરું પાનું">
+<!ENTITY homepage.default                          "&brandShortName; શરૂઆત">
+<!ENTITY homepage.currentpage                      "વર્તમાન પાનું વાપરો">
+<!ENTITY showCharsetEncoding.title                 "અક્ષર સંગ્રહપદ્ધતિ બતાવો">
+<!ENTITY actionbar.default                         "&brandShortName; સુયોજનો">

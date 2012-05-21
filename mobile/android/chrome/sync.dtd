@@ -1,0 +1,27 @@
+<!ENTITY sync.title                 "સુમેળ">
+<!ENTITY sync.notconnected          "જોડાયેલ નથી">
+<!ENTITY sync.connect               "જોડો">
+<!ENTITY sync.connected             "જોડાયેલ">
+<!ENTITY sync.details               "વિગતો">
+<!ENTITY sync.deviceName            "આ ઉપકરણ">
+<!ENTITY sync.disconnect            "જોડાણ તોડો">
+<!ENTITY sync.syncNow               "હમણાં સુમેળ કરો">
+
+<!ENTITY sync.setup.title           "સુમેળ સાથે જોડો">
+<!ENTITY sync.setup.pair            "સક્રિય કરવા માટે, તમારા અન્ય કમ્પ્યૂટર પર &#x0022;ઉપકરણની જોડી બનાવો&#x0022; પસંદ કરો.">
+<!ENTITY sync.fallback              "હું મારા કમ્પ્યૂટરની નજીક નથી…">
+<!ENTITY sync.setup.manual          "તમારી સુમેળ ખાતા જાણકારી દાખલ કરો">
+<!ENTITY sync.account               "ખાતા નામ">
+<!ENTITY sync.password              "પાસવર્ડ">
+<!ENTITY sync.recoveryKey           "પુનઃપ્રાપિત કી">
+<!ENTITY sync.customServer          "વૈવિધ્યપૂર્ણ સર્વર વાપરો">
+<!ENTITY sync.serverURL             "સર્વર URL">
+<!ENTITY sync.setup.connect         "જોડો">
+<!ENTITY sync.setup.cancel          "રદ કરો">
+<!ENTITY sync.setup.tutorial        "મને બતાવો કેવી રીતે">
+<!ENTITY sync.setup.waiting2        "અન્ય ઉપકરણની રાહ જોઈ રહ્યા છીએ…">
+
+<!ENTITY sync.pair.title            "ઉપકરણની જોડી બનાવો">
+<!ENTITY sync.pair.description      "તમારું નવું ઉપકરણ સક્રિય કરવા માટે, ઉપકરણ પર &#x0022;સુમેળ સુયોજીત કરો&#x0022; પસંદ કરો.">
+<!ENTITY sync.setup.close           "બંધ કરો">
+<!ENTITY sync.setup.waitingdownload "તમારી માહિતી પાશ્વભાગમાં ડાઉનલોડ થઇ રહી છે. તમે આ વિન્ડો કોઇપણ સમયે બંધ કરી શકો છો.">

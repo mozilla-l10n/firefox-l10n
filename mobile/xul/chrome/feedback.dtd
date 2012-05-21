@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "અભિપ્રાય સાધનો">
+
+<!ENTITY feedback.communicate.title     "અમારો સંપર્ક કરો!">
+<!ENTITY feedback.feedback.title        "અભિપ્રાય આપો">
+<!ENTITY feedback.feedback.good         "સારો">
+<!ENTITY feedback.feedback.bad          "ખરાબ">
+
+<!ENTITY feedback.tools.title           "સાધનો">
+<!ENTITY feedback.allowTelemetry.title  "પ્રતિભાવ માહિતી મોકલો">
+<!ENTITY feedback.forceCompat.title     "ઍડ-ઓન સુસંગતતા પર દબાણ મૂકો">
+<!ENTITY feedback.errorConsole.title    "ક્ષતિ કન્સોલ સક્રિય કરો">

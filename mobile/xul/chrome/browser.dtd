@@ -1,0 +1,122 @@
+<!ENTITY urlbar.emptytext      "શોધ અથવા સરનામું દાખલ કરો">
+
+<!ENTITY back.label            "પાછળ">
+<!ENTITY forward.label         "આગળ">
+<!ENTITY reload.label          "પુનઃલાવો">
+<!ENTITY stop.label            "અટકાવો">
+<!ENTITY go.label              "જાવ">
+<!ENTITY star.label            "તારો">
+
+<!ENTITY showTabs.label        "ટેબ બતાવો">
+<!ENTITY newtab.label          "નવી ટેબ">
+<!ENTITY closetab.label        "ટેબ બંધ કરો">
+
+<!ENTITY cut.label             "કાપો">
+<!ENTITY copy.label            "નકલ કરો">
+<!ENTITY copyAll.label         "બધું નકલ કરો">
+<!ENTITY copylink.label        "કડી સ્થાનની નકલ કરો">
+<!ENTITY paste.label           "ચોંટાડો">
+<!ENTITY pasteAndGo.label      "ચોંટાડો &amp; જાવ">
+<!ENTITY delete.label          "કાઢો">
+<!ENTITY selectAll.label       "બધું પસંદ કરો">
+<!ENTITY noSuggestions.label   "(કોઇ સૂચનો નથી)">
+<!ENTITY addToDictionary.label "શબ્દકોષમાં ઉમેરો">
+<!ENTITY inputMethod.label     "ઇનપુટ પદ્ધતિ પસંદ કરો">
+
+<!ENTITY allPagesHeader.label      "બધા પાનાં">
+<!ENTITY bookmarksHeader.label     "બુકમાર્કો">
+<!ENTITY historyHeader.label       "ઇતિહાસ">
+<!ENTITY desktopHeader.label       "ડેસ્કટોપ">
+
+<!ENTITY editBookmarkDialog.title  "બુકમાર્કમાં ફેરફાર કરો">
+<!ENTITY editBookmarkDone.label    "પૂર્ણ">
+<!ENTITY editBookmarkTags.label    "ટેગ અહીં ઉમેરો">
+
+<!ENTITY selectHelper.done         "પૂર્ણ">
+
+<!ENTITY addonsHeader.label        "ઍડ-ઓન">
+<!ENTITY addonsLocal.label         "તમારા ઍડ-ઓન">
+<!ENTITY addonsUpdate.label        "સુધારો">
+<!ENTITY addonsRepo.label          "ઍડ-ઓન મેળવો">
+<!ENTITY addonsRecommended.label   "આગ્રહણીય">
+<!ENTITY addonsSearch.label        "શોધો">
+<!ENTITY addonsSearch2.emptytext   "કેટલોગમાં શોધો">
+<!ENTITY addonsSearch.recommended  "આગ્રહણીય">
+
+<!ENTITY addonOptions.label        "વિકલ્પો">
+<!ENTITY addonEnable.label         "સક્રિય કરો">
+<!ENTITY addonDisable.label        "નિષ્ક્રિય કરો">
+<!ENTITY addonInstall2.label       "&brandShortName; માં ઉમેરો">
+<!ENTITY addonUninstall.label      "સ્થાપન દૂર કરો">
+<!ENTITY addonCancel.label         "રદ કરો">
+<!ENTITY addonShowPage.label       "પાનાં પર જાવ">
+
+<!ENTITY downloadsHeader.label     "ડાઉનલોડ">
+<!ENTITY downloadShowPage.label    "પાનાં પર જાવ">
+<!ENTITY downloadShow2.label       "શોધો">
+<!ENTITY downloadOpen2.label       "ખોલો">
+<!ENTITY downloadCancel.label      "રદ કરો">
+<!ENTITY downloadPause.label       "અટકાવો">
+<!ENTITY downloadResume.label      "ફરી શરૂ કરો">
+<!ENTITY downloadRetry.label       "પુનઃપ્રયાસ કરો">
+<!ENTITY downloadRemove.label      "દૂર કરો">
+<!ENTITY downloadDelete.label      "કાઢો">
+<!ENTITY downloadFailed.label      "નિષ્ફળ">
+
+<!ENTITY noResults.label           "કોઇ પરિણામો નથી">
+<!ENTITY allBookmarks.label        "બધી બુકમાર્કો જુઓ">
+
+<!ENTITY bookmarkPopup.label       "પાનું બુકમાર્ક થયું">
+<!ENTITY bookmarkRemove.label      "દૂર કરો">
+<!ENTITY bookmarkEdit.label        "ફેરફાર">
+<!ENTITY bookmarkShortcut.label    "ઘર સ્ક્રીનમાં ઉમેરો">
+
+<!ENTITY identity.unverifiedsite2 "આ વેબસાઇટ ઓળખ જાણકારી પૂરી પાડતી નથી.">
+<!ENTITY identity.connectedTo2 "માં જોડાયેલ છે">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "દ્વારા ચલાવાય છે">
+
+<!ENTITY consoleHeader.label       "ક્ષતિ કન્સોલ">
+<!ENTITY consoleAll.label          "બધું">
+<!ENTITY consoleErrors.label       "ક્ષતિઓ">
+<!ENTITY consoleWarnings.label     "ચેતવણીઓ">
+<!ENTITY consoleMessages.label     "સંદેશાઓ">
+<!ENTITY consoleCodeEval.label     "કોડ:">
+<!ENTITY consoleClear.label        "સાફ કરો">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "સ્રોત ફાઇલ:">
+<!ENTITY consoleErrLine.label      "લીટી:">
+<!ENTITY consoleErrColumn.label    "સ્તંભ:">
+
+<!ENTITY contextOpenInNewTab.label    "કડીને નવી ટેબમાં ખોલો">
+<!ENTITY contextSaveImage.label       "ચિત્ર સંગ્રહો">
+<!ENTITY contextCopyLink.label        "કડીની નકલ કરો">
+<!ENTITY contextCopyEmail.label       "ઇમેલ સરનામાની નકલ કરો">
+<!ENTITY contextCopyPhone.label       "ફોન નંબરની નકલ કરો">
+<!ENTITY contextCopyImageLocation.label       "ચિત્રના સ્થાનની નકલ કરો">
+<!ENTITY contextShareLink.label       "કડી વહેંચો">
+<!ENTITY contextShareImage.label      "ચિત્ર વહેંચો">
+<!ENTITY contextBookmarkLink.label    "કડી બુકમાર્ક કરો">
+<!ENTITY contextSaveVideo.label       "વીડિયો સંગ્રહો">
+<!ENTITY contextShareVideo.label      "વીડિયો વહેંચો">
+<!ENTITY contextPlayMedia.label       "વગાડો">
+<!ENTITY contextPauseMedia.label      "અટકાવો">
+<!ENTITY contextFullScreen.label      "પૂર્ણ સ્ક્રીન">
+<!ENTITY contextEditBookmark.label    "ફેરફાર">
+<!ENTITY contextRemoveBookmark.label  "દૂર કરો">
+<!ENTITY contextShortcutBookmark.label "ઘર સ્ક્રીનમાં ઉમેરો">
+
+<!ENTITY pageactions.saveas.pdf      "PDF તરીકે સંગ્રહો">
+<!ENTITY pageactions.share.page      "પાનું વહેંચો">
+<!ENTITY pageactions.password.forget "પાસવર્ડ ભૂલો">
+<!ENTITY pageactions.quit            "બંધ કરો">
+<!ENTITY pageactions.reset           "સાઇટ પસંદગીઓ સાફ કરો">
+<!ENTITY pageactions.findInPage      "પાનાંમાં શોધો">
+<!ENTITY pageactions.search.addNew   "શોધ યંત્ર ઉમેરો">
+<!ENTITY pageactions.charEncoding    "અક્ષર સંગ્રહપદ્ધતિ">
+
+<!ENTITY appMenu.siteOptions         "સાઇટ વિકલ્પો">
