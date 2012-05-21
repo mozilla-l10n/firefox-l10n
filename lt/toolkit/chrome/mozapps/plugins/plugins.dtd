@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Šiam elementui parodyti reikalingas papildinys.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Bakstelėkite čia, jeigu norite aktyvinti papildinį.">
-<!ENTITY clickToPlayPlugins                                  "Spustelėkite čia, jeigu norite aktyvinti papildinius.">
+<!ENTITY clickToPlayPlugin                                   "Spustelėkite čia, jeigu norite aktyvinti papildinį.">
 <!ENTITY disabledPlugin                                      "Šis papildinys išjungtas.">
 <!ENTITY blockedPlugin.label                                 "Šis papildinys užblokuotas Jūsų saugumo sumetimais.">
 

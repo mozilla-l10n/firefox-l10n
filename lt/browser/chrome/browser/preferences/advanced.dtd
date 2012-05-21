@@ -25,8 +25,9 @@
 <!ENTITY systemDefaults.label            "Numatytoji naršyklė">
 <!ENTITY alwaysCheckDefault.label        "Paleidžiant naršyklę „&brandShortName;“ tikrinti, ar ji yra numatytoji"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "e">
-<!ENTITY checkNow.label                  "Tikrinti dabar">
-<!ENTITY checkNow.accesskey              "d">
+<!ENTITY setDefault.label                "Skirti „&brandShortName;“ numatytąja naršykle">
+<!ENTITY setDefault.accesskey            "š">
+<!ENTITY isDefault.label                 "„&brandShortName;“ šiuo metu yra numatytoji naršyklė">
 <!ENTITY submitCrashes.label             "Siųsti strigčių pranešimus">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Siųsti našumo ataskaitas">
