@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "તમારા કાર્યક્રમો">
+
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.noApps.pre "કોઇ વેબ કાર્યક્રમો સ્થાપિત નથી. અમુક ">
+<!ENTITY aboutApps.noApps.middle "app store માંથી મેળવો">
+<!ENTITY aboutApps.noApps.post ".">

@@ -1,0 +1,31 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>શરૂઆત</span>">
+<!ENTITY aboutHome.recentTabs                   "છેલ્લા વખતની તમારી ટેબ">
+<!ENTITY aboutHome.remoteTabs                   "તમારા અન્ય કમ્પ્યૂટરોમાંથી ટેબ">
+<!ENTITY aboutHome.recommendedAddons2           "તમારા &brandShortName; માટેના ઍડ-ઓન">
+<!ENTITY aboutHome.giveFeedback                 "અભિપ્રાય આપો">
+<!ENTITY aboutHome.getHelp                      "મદદ મેળવો">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "બધું ટેબમાં ખોલો">
+<!ENTITY aboutHome.noTabs                       "છેલ્લા વખતની કોઇ ટેબ નથી">
+<!ENTITY aboutHome.noAddons                     "કોઇ આગ્રહણીય ઍડ-ઓન નથી">
+<!ENTITY aboutHome.getLocale                    "ભાષા બદલો">
+<!ENTITY aboutHome.getInBeforeBeta              "બીટા પહેલાં લાવો.">
+<!ENTITY aboutHome.tryAurora                    "Firefox Aurora વાપરી જુઓ અને Firefox ના ભવિષ્યને ઘડવામાં મદદ કરો.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Aurora ડાઉનલોડ કરો">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"Android માટે">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "સુમેળ સુયોજીત કરો">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "ઉપકરણની જોડી બનાવો">

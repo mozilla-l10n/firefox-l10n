@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "ઍડ-ઓન વ્યવસ્થાપક">
+<!ENTITY aboutAddons.header2                    "તમારા ઍડ-ઓન">
+<!ENTITY aboutAddons.options                    "વિકલ્પો">
+
+<!ENTITY addonAction.enable                     "સક્રિય કરો">
+<!ENTITY addonAction.disable                    "નિષ્ક્રિય કરો">
+<!ENTITY addonAction.uninstall                  "સ્થાપન દૂર કરો">
+<!ENTITY addonAction.cancel                     "રદ કરો">

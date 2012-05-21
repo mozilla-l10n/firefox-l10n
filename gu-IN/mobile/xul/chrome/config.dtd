@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "શોધો">
+<!ENTITY newpref.label          "નવી પસંદગી ઉમેરો">
+<!ENTITY addpref.name           "નામ">
+<!ENTITY addpref.value          "કિંમત">
+
+<!ENTITY cancel.label           "રદ કરો">
+<!ENTITY reset.label            "પુનઃસુયોજીત કરો">
+<!ENTITY done.label             "પૂર્ણ">
+
+<!ENTITY integer.label          "પૂર્ણાંક">
+<!ENTITY string.label           "શબ્દમાળા">
+<!ENTITY boolean.label          "બુલિયન">
