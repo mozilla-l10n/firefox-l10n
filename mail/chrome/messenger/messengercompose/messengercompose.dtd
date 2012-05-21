@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Dosya(lar)…">
 <!ENTITY attachFileCmd.accesskey "o">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "Web sayfası…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey "e">
 <!ENTITY attachFile.label "Dosya ekle…">
 <!ENTITY attachFile.accesskey "D">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "l">
+<!ENTITY convertCloud.label "Dönüştür…">
+<!ENTITY convertCloud.accesskey "D">
+<!ENTITY cancelUpload.label "Yüklemeyi iptal et">
+<!ENTITY cancelUpload.accesskey "p">
+<!ENTITY convertRegularAttachment.label "Normal ek">
+<!ENTITY convertRegularAttachment.accesskey "e">
 <!ENTITY attachPage.label "Web sayfası ekle…">
 <!ENTITY attachPage.accesskey "W">
 

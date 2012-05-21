@@ -1,5 +1,5 @@
 <!ENTITY window.title "&brandShortName; uygulamasına hoş geldiniz">
-<!ENTITY header.label "Yeni bir e-posta adresi ister misiniz?">
+<!ENTITY header2.label "Yeni bir e-posta adresi ister misiniz?">
 <!ENTITY other.languages "Yalnızca sizin bölgenize adres sunan sağlayıcıları görüntülüyoruz. Tüm sağlayıcıları görmek için buraya tıklayın.">
 <!ENTITY error.line1 "Üzgünüz, hiçbir e-posta adresi önerisi bulamadık.">
 <!ENTITY error.line2 "Daha fazla e-posta bulmak için rumuz veya başka bir terim araması yapmayı deneyebilirsiniz.">

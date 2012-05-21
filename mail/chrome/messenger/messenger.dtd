@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "Y">
 <!ENTITY newExistingEmailAccountCmd.label "Mevcut e-posta hesabı…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "M">
+<!ENTITY newIMAccountCmd.label "Sohbet hesabı…">
+<!ENTITY newIMAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Kaydedilmiş iletiyi aç…">
 <!ENTITY openMessageFileCmd.accesskey "d">
 <!ENTITY openAttachmentCmd.label "Ekler">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Geri">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Sohbet">
+<!ENTITY goChatCmd.accesskey "b">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Yıldızlı ileti">
 <!ENTITY prevStarredMsgCmd.accesskey "d">
 <!ENTITY folderMenu.label "Dizin">
@@ -353,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Sadece göndereni yanıtla">
 <!ENTITY replySenderCmd.accesskey "r">
-<!ENTITY replyNewsgroupCmd.label "Haber grubunu yanıtla">
-<!ENTITY replyNewsgroupCmd.accesskey  "a">
+<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Hepsini yanıtla">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "E">
 <!ENTITY activitymanager.label "Etkinlik yöneticisi">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Sohbet durumu">
+<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imStatus.available          "Müsait">
+<!ENTITY imStatus.unavailable        "Müsait değil">
+<!ENTITY imStatus.offline            "Çevrim dıșı">
+<!ENTITY imStatus.showAccounts       "Hesapları göster…">
 <!ENTITY savedFiles.label "Kaydedilmiş dosyalar">
 <!ENTITY savedFiles.accesskey "y">
 <!ENTITY savedFiles.key "j">
@@ -487,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "t">
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Hesap ayarları…">
 <!ENTITY accountManagerCmd.accesskey "H">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -503,7 +515,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Dosyala">
 <!ENTITY archiveButton.label "Arşivle">
 <!ENTITY nextButton.label "Sonraki">
+<!ENTITY nextButtonToolbarItem.label "Sonraki okunmamış">
+<!ENTITY nextMsgButton.label "Sonraki">
 <!ENTITY previousButton.label "Önceki">
+<!ENTITY previousButtonToolbarItem.label "Önceki okunmamış">
+<!ENTITY previousMsgButton.label "Önceki">
 <!ENTITY backButton1.label "Geri">
 <!ENTITY goForwardButton1.label "İleri">
 <!ENTITY deleteItem.title "Sil">
@@ -517,6 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Gereksiz">
 <!ENTITY notJunkButton.label "Gereksiz değil">
 <!ENTITY addressBookButton.label "Adres defteri">
+<!ENTITY chatButton.label "Sohbet">
 <!ENTITY glodaSearch.title "Global arama">
 <!ENTITY searchItem.title "Hızlı arama">
 <!ENTITY mailViewsToolbarItem.title "Posta görünümleri">
@@ -537,7 +554,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Seçilen iletiyi dosyala">
 <!ENTITY archiveButton.tooltip "Seçilen iletileri arşivle">
 <!ENTITY nextButton.tooltip "Sonraki okunmamış iletiye git">
+<!ENTITY nextMsgButton.tooltip "Sonraki iletiye git">
 <!ENTITY previousButton.tooltip "Önceki okunmamış iletiye git">
+<!ENTITY previousMsgButton.tooltip "Önceki iletiye git">
 <!ENTITY goForwardButton.tooltip "Bir sonraki iletiye gider">
 <!ENTITY goBackButton.tooltip "Bir önceki iletiye gider">
 <!ENTITY deleteButton.tooltip "Seçilmiş iletiyi veya dizini sil">
@@ -548,6 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Seçili iletileri gereksiz olarak işaretle">
 <!ENTITY notJunkButton.tooltip "Seçilen iletileri gereksiz değil olarak işaretle">
 <!ENTITY addressBookButton.tooltip "Adres defterine git">
+<!ENTITY chatButton.tooltip "Sohbet sekmesini göster">
 <!ENTITY tagButton.tooltip "İletileri etiketle">
 <!ENTITY compactButton.tooltip "Seçilen dizinden silinmiş iletileri kaldır">
 
@@ -673,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
 <!ENTITY contextReplySender.accesskey "S">
-<!ENTITY contextReplyNewsgroup.label "Haber grubunu yanıtla">
-<!ENTITY contextReplyNewsgroup.accesskey "H">
+<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Hepsini yanıtla">
 <!ENTITY contextReplyAll.accesskey "H">
 <!ENTITY contextReplyList.label "Listeyi yanıtla">
@@ -780,28 +800,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "K">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Ara… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Ara… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adres defterine ekle…">

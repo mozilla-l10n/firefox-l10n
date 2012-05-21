@@ -32,22 +32,10 @@
 <!ENTITY emailLabel.label "E-posta adresi:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Sunucu Bilgileri">
+<!ENTITY incomingTitle.label "Gelen sunucu bilgileri">
 <!ENTITY incomingServerTypeDesc.label "Kullandığınız gelen posta sunucusunun türünü seçin.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Gelen posta sunucunuzun adını girin. (örnek: &quot;mail.ornekadres.com&quot;)">
-<!ENTITY incomingServerLabel.label "Gelen posta sunucusu:">
-<!ENTITY incomingServerLabel.accesskey "G">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Haber sucunuzun (NNTP) adını girin. (örnek: &quot;news.ornekadres.net&quot;)">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Giden posta sunucunuzun (SMTP) adını girin. (örnek: &quot;smtp.ornekadres.com&quot;)">
-<!ENTITY smtpServerLabel.label "Giden posta sunucusu:">
-<!ENTITY smtpServerLabel.accesskey "p">
-<!ENTITY newsServerLabel.label "Haber grubu sunucusu:">
-<!ENTITY newsServerLabel.accesskey "H">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,6 +48,29 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Varsayılan:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Incoming Server:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "E-posta sağlayıcınız tarafından verilen gelen kullanıcı adını girin (örneğin &quot;mkemal&quot;).">
+<!ENTITY incomingUsername.label "User Name:">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Haber sucunuzun (NNTP) adını girin. (örnek: &quot;news.ornekadres.net&quot;)">
+<!ENTITY newsServerLabel.label "Haber grubu sunucusu:">
+<!ENTITY newsServerLabel.accesskey "H">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Giden sunucu bilgileri">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
+<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -71,18 +82,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Mevcut giden posta sunucunuz (SMTP) &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, kullanılacak.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Kullanıcı adları">
-<!ENTITY usernameDesc.label "E-posta sunucunuz tarafından size verilen kullanıcı adınızı girin ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(örnek: &quot;ksunal&quot;).">
-<!ENTITY usernameLabel.label "Gelen sunucusu kullanıcı adı:">
-<!ENTITY usernameLabel.accesskey "u">
-<!ENTITY usernameSmtpDesc.label "E-posta sağlayıcınız tarafından size verilen giden posta kullanıcı adınızı girin (genellikle gelen e-posta ile aynıdır).">
-<!ENTITY usernameSmtpLabel.label "Giden sunucusu kullanıcı adı:">
-<!ENTITY usernameSmtpLabel.accesskey "a">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

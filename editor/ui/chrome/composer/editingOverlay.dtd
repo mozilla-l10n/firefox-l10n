@@ -72,7 +72,8 @@
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Yeni">
 <!ENTITY newToolbarCmd.tooltip "Yeni bir Düzenleyici sayfası oluştur">
-<!ENTITY openToolbarCmd.label "Aç">
+<!ENTITY openToolbarCmd.label "Aç ">
 <!ENTITY openToolbarCmd.tooltip "Yerel bir dosya aç">
-<!ENTITY saveToolbarCmd.tooltip "Yerel bir konuma dosya kaydet">
+<!ENTITY saveToolbarCmd.tooltip "Dosyayı yerel bir konuma kaydet">
 <!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak konuma gönder">
+
