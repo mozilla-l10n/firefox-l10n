@@ -1,8 +1,8 @@
 <!ENTITY window.width                       "36em">
 
 <!ENTITY cookiesonsystem.label          "Følgende cookies er gemt på din computer:">
-<!ENTITY cookiename.label               "Cookie navn">
-<!ENTITY cookiedomain.label             "Side">
+<!ENTITY cookiename.label               "Cookie-navn">
+<!ENTITY cookiedomain.label             "Websted">
 <!ENTITY button.removecookies.label     "Fjern cookies">
 <!ENTITY button.removecookie.label      "Fjern cookie">
 <!ENTITY button.removecookie.accesskey  "F">
