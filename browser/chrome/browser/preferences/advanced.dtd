@@ -75,7 +75,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "s">
 
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
-<!ENTITY updateHistory.accesskey         "ž">
+<!ENTITY updateHistory.accesskey         "R">
 
 <!ENTITY useService.label                "Naujinimų diegimui naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey            "f">
@@ -110,7 +110,7 @@
 <!ENTITY certs.ask                       "visuomet klausti">
 <!ENTITY certs.ask.accesskey             "k">
 <!ENTITY viewCerts.label                 "Liudijimų peržiūra">
-<!ENTITY viewCerts.accesskey             "ž">
+<!ENTITY viewCerts.accesskey             "L">
 <!ENTITY viewCRLs.label                  "Atšauktų liudijimų sąrašai">
 <!ENTITY viewCRLs.accesskey              "t">
 <!ENTITY verify2.label                   "Patikra">
