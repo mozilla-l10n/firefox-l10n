@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Artikelgearfetting werjaan y.s.f de webside lade">
 <!ENTITY quickMode.accesskey         "A">
 
+<!ENTITY locationValidate.label      "Falidearje">
 <!ENTITY validateText.label          "Kontrolearje falidaasje en helje in jildige url op.">
 
 <!ENTITY button.addFeed.label			"Tafoegje">

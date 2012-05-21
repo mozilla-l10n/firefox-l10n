@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Berjochten dy't detektearre binne as net-winske, markearje as lêzen">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Net-winske-berjochtelochboek aktivearje">
-<!ENTITY enableJunkLogging.accesskey "a">
+<!ENTITY enableAdaptiveJunkLogging.label "Selslearende ûnwinskeberjochtenlochboek aktivearje">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "a">
 <!ENTITY openJunkLog.label "Lochboek toane">
 <!ENTITY openJunkLog.accesskey "L">
 <!ENTITY resetTrainingData.label "Trainingsgegevens op 'e nij inisjalisearje">

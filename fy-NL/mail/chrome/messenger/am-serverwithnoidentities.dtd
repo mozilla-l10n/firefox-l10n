@@ -1,11 +1,2 @@
-<!ENTITY accountSettingsDesc.label "Dit is in spesjaal account. Der binne gjin identiteiten mei ferbûn.">
-<!ENTITY accountTitle.label "Accountynstellings">
 <!ENTITY accountName.label "Accountnamme:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY messageStorage.label "Berjochteopslach">
-<!ENTITY emptyTrashOnExit.label "Jiskefet leechmeitsje by ôfslute">
-<!ENTITY emptyTrashOnExit.accesskey "J">
-<!ENTITY localPath.label "Lokale map">
-<!ENTITY localFolderPicker.label "Selektearje lokale map">
-<!ENTITY browseFolder.label "Blêdzje…">
-<!ENTITY browseFolder.accesskey "B">

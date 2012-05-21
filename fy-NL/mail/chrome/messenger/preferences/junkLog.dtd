@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Net-winske-berjochtelochboek">
-<!ENTITY junkLogInfo.label "Aktiviteitsregistraasje fan de net-winske-berjochteferwurking.">
+<!ENTITY adaptiveJunkLog.title "Selslearende ûnwinskeberjochtenlochboek">
+<!ENTITY adaptiveJunkLogInfo.label "Aktiviteitsregistraasje fan de Selslearende ûnwinskeberjochtenferwurking.">
 <!ENTITY clearLog.label "Lochboek wiskje">
 <!ENTITY clearLog.accesskey "w">
 <!ENTITY closeLog.label "Slute">

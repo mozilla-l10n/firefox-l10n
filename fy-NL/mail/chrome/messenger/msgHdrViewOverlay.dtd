@@ -66,6 +66,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Beantwurdzje nei ôfstjoerder en alle ûntfangers">
 <!ENTITY hdrReplyListButton1.label "List beantwurdzje">
 <!ENTITY hdrReplyListButton1.tooltip "Beantwurdzje nei mailinglist">
+<!ENTITY hdrFollowupButton1.label "Reaksje">
+<!ENTITY hdrFollowupButton1.tooltip "Post in reaksje nei dizze nijsgroep">
 <!ENTITY hdrForwardButton1.label "Trochstjoere">
 <!ENTITY hdrForwardButton1.tooltip "Dit berjocht trochstjoere">
 <!ENTITY hdrJunkButton1.label "Net-winske">
