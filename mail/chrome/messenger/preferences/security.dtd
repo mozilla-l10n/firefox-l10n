@@ -56,3 +56,7 @@
 <!ENTITY cookieExceptions.accesskey     "I">
 <!ENTITY showCookies.label              "Rodyti slapukus…">
 <!ENTITY showCookies.accesskey          "R">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
+<!ENTITY doNotTrack.accesskey           "n">

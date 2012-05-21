@@ -766,7 +766,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "r">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Brukalas">
+<!ENTITY junkBarMessage2.label "Programa „&brandShortName;“ šį laišką laiko brukalu.">
 <!ENTITY junkBarButton1.label "Tai nėra brukalas">
 <!ENTITY junkInfoButton.label "?">
 
