@@ -18,10 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox ye de buen personalizar, exactament d'a traza que quiera. <a>Trigue entre milars de complementos</a>.">
 
-<!ENTITY abouthome.bookmarksButton.label "Bookmarks">
-<!ENTITY abouthome.historyButton.label   "History">
-<!ENTITY abouthome.settingsButton.label  "Settings">
-<!ENTITY abouthome.addonsButton.label    "Add-ons">
-<!ENTITY abouthome.appsButton.label      "Marketplace">
-<!ENTITY abouthome.downloadsButton.label "Downloads">
+<!ENTITY abouthome.bookmarksButton.label "Marcapachinas">
+<!ENTITY abouthome.historyButton.label   "Historial">
+<!ENTITY abouthome.settingsButton.label  "Achustes">
+<!ENTITY abouthome.addonsButton.label    "Complementos">
+<!ENTITY abouthome.appsButton.label      "Mercau">
+<!ENTITY abouthome.downloadsButton.label "Baixadas">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

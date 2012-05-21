@@ -10,6 +10,6 @@
 
 
 
-<!ENTITY gotoLineCmd.label         "Jump to line…">
-<!ENTITY gotoLineCmd.key           "J">
-<!ENTITY gotoLineCmd.accesskey     "J">
+<!ENTITY gotoLineCmd.label         "Blincar enta la linia...">
+<!ENTITY gotoLineCmd.key           "B">
+<!ENTITY gotoLineCmd.accesskey     "B">

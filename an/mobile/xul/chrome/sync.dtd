@@ -1,0 +1,27 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "No connectau">
+<!ENTITY sync.connect               "Connectar">
+<!ENTITY sync.connected             "Connectau">
+<!ENTITY sync.details               "Detalles">
+<!ENTITY sync.deviceName            "Iste dispositivo">
+<!ENTITY sync.disconnect            "Desconnectar">
+<!ENTITY sync.syncNow               "Sincronizar agora">
+
+<!ENTITY sync.setup.title           "Connectar a Sync">
+<!ENTITY sync.setup.pair            "Ta activar-lo, seleccione &#x0022;Vincular un dispositivo&#x0022; a l'atro dispositivo.">
+<!ENTITY sync.fallback              "No soi amán d'o mío ordinador…">
+<!ENTITY sync.setup.manual          "Escriba a información d'a cuenta de Sync">
+<!ENTITY sync.account               "Nombre de cuenta">
+<!ENTITY sync.password              "Clau d'acceso">
+<!ENTITY sync.recoveryKey           "Clau de recuperación">
+<!ENTITY sync.customServer          "Emplegar un servidor personalizau">
+<!ENTITY sync.serverURL             "URL d'o servidor">
+<!ENTITY sync.setup.connect         "Connectar">
+<!ENTITY sync.setup.cancel          "Cancelar">
+<!ENTITY sync.setup.tutorial        "Amuestra-me cómo">
+<!ENTITY sync.setup.waiting2        "Se ye asperando a l'atro dispositivo...">
+
+<!ENTITY sync.pair.title            "Vincular un dispositivo">
+<!ENTITY sync.pair.description      "Ta activar o suyo dispositivo nuevo, seleccione &#x0022;Vincular un dispositivo&#x0022; en o dispositivo.">
+<!ENTITY sync.setup.close           "Zarrar">
+<!ENTITY sync.setup.waitingdownload "Os suyos datos se son baixando en segundo plan. Puede zarrar ista finestra quan quiera.">

@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Establir cookies">
 <!ENTITY  permInstall           "Instalar extensions u temas">
 <!ENTITY  permGeo               "Compartir a ubicación">
+<!ENTITY  permPlugins           "Activar os plugins">
 
 <!ENTITY  permIndexedDB              "Mantener l'almagazenamiento en modo sin connexión">
 <!ENTITY  permClearStorage           "Limpiar l'almagazenamiento">

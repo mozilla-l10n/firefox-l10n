@@ -1,0 +1,21 @@
+
+<!ENTITY  splash_firstrun "Se ye configurando o &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "No i hai pro espacio ta que &brandShortName; pueda iniciar-se.">
+<!ENTITY  error_loading_file "Ha ocurriu una error entre que se prebaba de cargar os fichers ta usar o &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Chenerador d'informes de fallos de &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; ha fallau. As suyas pestanyas habrían d'estar listadas en a pachina d'inicio de &brandShortName; en reiniciar.">
+<!ENTITY  crash_help_message "Aduye-nos a correchir iste problema!">
+<!ENTITY  crash_send_report_message "Ninviar ta Mozilla un informe de fallo">
+<!ENTITY  crash_include_url "Incluir l'adreza d'a pachina">
+<!ENTITY  crash_close_label "Zarrar">
+<!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
+<!ENTITY  sending_crash_report "Se ye ninviando un reporte de fallo\u2026">
+<!ENTITY  exit_label "Salir">
+<!ENTITY  continue_label "Continar">
+
+<!ENTITY  launcher_shortcuts_title "Aplicacions web de &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "No s'ha trobau aplicacions web">
+
+<!ENTITY choose_file "Trigar un fichero">

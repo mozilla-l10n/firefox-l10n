@@ -1,0 +1,25 @@
+<!ENTITY safeb.palm.warning.title "Sospeita de falsificación web">
+
+<!ENTITY safeb.palm.message.p1 "S'ha informau d'ista pachina como una falsificación de web disenyada ta enganyar a os usuarios ta que i compartan información personal u financiera. Introducir-ie qualsiquier información personal puede dar puesto a una suplantación d'identidat u atros fraudes. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Leyer-ne mas &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Leyer-ne mas &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Istos tipos de falsificacions web s'emplegan en fraudes conoixius como enrestidas de phishing, que i fan servir pachinas web y mensaches de correu fraudulentos ta imitar as fuents que i confía. Puede trobar mas información tocant a ">
+<!ENTITY safeb.palm.message.p2.linkText "cómo &brandShortName; le proteche">
+<!ENTITY safeb.palm.message.p2.end " d'enrestidas de phishing.">
+
+<!ENTITY safeb.palm.accept.label "Quita-me d'aquí!">
+<!ENTITY safeb.palm.accept.statustext "Navegar cara ta la mía pachina d'encieto">
+<!ENTITY safeb.palm.decline.label "Ignorar ista alvertencia">
+<!ENTITY safeb.palm.decline.statustext "Zarrar ista alvertencia" >
+<!ENTITY safeb.palm.notforgery.label2 "No ye garra falsificación web…">
+<!ENTITY safeb.palm.reportPage.label "Por qué s'ha bloquiau iste puesto?">
+
+<!ENTITY safeb.blocked.malwarePage.title "S'ha informau que iste puesto ye enrestindo!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "S'ha reportau que o puesto web en <span id='malware_sitename'/> sería enrestindo, y ye estau bloquiau d'alcuerdo con as suyas preferencias de seguranza.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Os puestos enrestidors miran d'instalar programas que rapan información privada, fan servir o suyo ordinador ta enrestir atros u fer mal a o suyo sistema.</p><p>Qualques puestos enrestidors distribuyen intencionalment software maligno, pero muitos son compromesos sin a conoixencia u permiso d'os suyos propietarios.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Sospeita de falsificación web!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Os datos que escriba en iste puesto web podrían ferse servir ta cometer un rapo d'identidat u unatro tipo de fraude.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Istos tipos de falsificacions web s'emplegan en fraudes conoixius como enrestidas de phishing, que i fan servir pachinas web y mensaches de correu fraudulentos ta imitar as fuents que i confía.<p>">

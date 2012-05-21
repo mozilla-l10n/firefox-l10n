@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Cal reiniciar &brandShortName; ta que o(s) plugin(s) funcione(n).">
 
 <!ENTITY missingPlugin                                       "S'amenista un plugin ta amostrar iste conteniu.">
-<!ENTITY clickToPlayPlugin                                   "Toca aquí ta activar o connector">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Toca aquí ta activar o connector">
+<!ENTITY clickToPlayPlugins                                  "Faiga clic aquí ta activar os plugins.">
 <!ENTITY disabledPlugin                                      "S'ha desactivau iste plugin.">
 <!ENTITY blockedPlugin.label                                 "S'ha bloquiau iste plugin t'a suya protección.">
 

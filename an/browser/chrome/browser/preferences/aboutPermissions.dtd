@@ -27,6 +27,8 @@
 <!ENTITY cookie.removeAll                "Eliminar todas as cookies">
 
 <!ENTITY geo.label                       "Compartir a ubicación">
+
+<!ENTITY plugins.label                   "Plugins">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 

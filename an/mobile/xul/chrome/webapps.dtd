@@ -1,0 +1,7 @@
+<!ENTITY webapps.title.placeholder "Introducir un titol">
+<!ENTITY webapps.permissions "Permitir l'acceso:">
+<!ENTITY webapps.perm.geolocation "Navegación cheolocalizada">
+<!ENTITY webapps.perm.offline "Almagazenamiento de datos sin connexión">
+<!ENTITY webapps.perm.notifications "Notificacions en o escritorio">
+<!ENTITY webapps.perm.requestedHint "(solicitau)">
+<!ENTITY webapps.add-homescreen "Adhibir-lo a la pantalla d'encieto">

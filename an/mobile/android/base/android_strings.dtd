@@ -1,0 +1,127 @@
+
+<!ENTITY  splash_settingup "Se ye configurando o suyo &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Se son esviellando as adrezas d\'interés y l\'historial; podría tardar un ratet.">
+
+<!ENTITY  no_space_to_start_error "No i hai prou espacio disponible ta que &brandShortName; se inicie.">
+<!ENTITY  error_loading_file "S'ha produciu una error en mirar de cargar fichers necesarios ta executar &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Habituals">
+<!ENTITY  awesomebar_bookmarks_title "Marcapachinas">
+<!ENTITY  awesomebar_history_title "Historial">
+<!ENTITY  awesomebar_search_engine "Mirar \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Reporte de fallas de &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; ha fallau. As suyas pestanyas habrían de salir listadas en a pachina d\'inicio de &brandShortName; en reiniciar.">
+<!ENTITY  crash_help_message "Aduye-nos a solucionar iste problema!">
+<!ENTITY  crash_send_report_message "Ninviar un reporte de fallada a Mozilla">
+<!ENTITY  crash_include_url "Incluir l\'adreza d\'a pachina">
+<!ENTITY  crash_close_label "Zarrar">
+<!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
+<!ENTITY  sending_crash_report "Se ye ninviando un reporte de fallada\u2026">
+<!ENTITY  exit_label "Salir">
+<!ENTITY  continue_label "Continar">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Aplicacions web">
+<!ENTITY  launcher_shortcuts_empty "No s\'ha trobau garra aplicación web">
+
+<!ENTITY choose_file "Trigue un fichero">
+
+<!ENTITY awesomebar_default_text "Escriba una busca u una adreza">
+
+<!ENTITY remote_tabs "Pestanyas sincronizadas">
+<!ENTITY remote_tabs_show_all "Amuestra todas as pestanyas">
+
+<!ENTITY bookmark "Marcapachinas">
+<!ENTITY bookmark_added "S\'ha adhibiu o marcapachinas">
+<!ENTITY bookmark_removed "S\'ha suprimiu o marcapachinas">
+<!ENTITY bookmark_updated "S\'ha esviellau o marcapachinas">
+
+<!ENTITY history_today_section "Hue">
+<!ENTITY history_yesterday_section "Ahiere">
+<!ENTITY history_week_section "Fa 7 días">
+<!ENTITY history_older_section "Fa mas de 7 días">
+
+<!ENTITY reload "Esviellar">
+<!ENTITY forward "Entabant">
+
+<!ENTITY new_tab "Pestanya nueva">
+<!ENTITY new_tab_opened "S\'ha ubierto una pestanya nueva">
+
+<!ENTITY settings "Opcions">
+<!ENTITY settings_title "Opcions">
+<!ENTITY pref_category_general "Cheneral">
+<!ENTITY pref_category_privacy "Privacidat y seguranza">
+<!ENTITY pref_category_content "Conteniu">
+<!ENTITY pref_about_firefox "Quanto a &brandShortName;">
+<!ENTITY pref_do_not_track "Indicar que no me sigan o bayo">
+<!ENTITY pref_telemetry "Ninviar datos d\'o rendimiento">
+<!ENTITY pref_remember_signons "Recordar as claus">
+<!ENTITY pref_cookies "Habilitar as cookies">
+<!ENTITY pref_char_encoding "Amostrar a codificación">
+<!ENTITY pref_char_encoding_on "Amostrar o menú">
+<!ENTITY pref_char_encoding_off "No amostrar o menú">
+<!ENTITY pref_clear_history "Limpiar l\'historial">
+<!ENTITY pref_clear_history_confirm "Se eliminará l'\historial de navegación">
+<!ENTITY pref_clear_private_data "Limpiar os datos privaus">
+<!ENTITY pref_clear_private_data_confirm "Se eliminarán os parametros de navegación, incluyendo-ie as claus y as cookies">
+<!ENTITY pref_plugins "Connectors">
+<!ENTITY pref_plugins_enabled "Activau">
+<!ENTITY pref_plugins_tap_to_play "Toque-lo ta enchegar">
+<!ENTITY pref_plugins_disabled "Desactivau">
+<!ENTITY pref_text_size "Mida d'a letra">
+<!ENTITY pref_font_size_tiny "Muit chicota">
+<!ENTITY pref_font_size_small "Chicota">
+<!ENTITY pref_font_size_medium "Meyana">
+<!ENTITY pref_font_size_large "Gran">
+<!ENTITY pref_font_size_xlarge "Muit gran">
+<!ENTITY pref_use_master_password "Fer servir a clau mayestra">
+<!ENTITY pref_sync "Sincronizar">
+
+<!ENTITY quit "Salir">
+
+<!ENTITY addons "Complementos">
+<!ENTITY downloads "Baixadas">
+<!ENTITY char_encoding "Codificación d\'os caracters">
+
+<!ENTITY share "Compartir">
+<!ENTITY share_title "Compartir por meyo de">
+<!ENTITY save_as_pdf "Alzar como PDF">
+
+<!ENTITY contextmenu_open_new_tab "Ubrir en una pestanya nueva">
+<!ENTITY contextmenu_remove_bookmark "Suprimir">
+<!ENTITY contextmenu_add_to_launcher "Adhibir-lo a la pantalla inicial">
+<!ENTITY contextmenu_share "Compartir">
+<!ENTITY contextmenu_edit_bookmark "Editar">
+
+<!ENTITY bookmark_edit_title "Editar o marcapachinas">
+<!ENTITY bookmark_edit_name "Nombre">
+<!ENTITY bookmark_edit_location "Ubicación">
+<!ENTITY bookmark_edit_keyword "Parola clau">
+
+<!ENTITY site_settings_title        "Limpiar as opcions d'o puesto">
+<!ENTITY site_settings_cancel       "Cancelar">
+<!ENTITY site_settings_clear        "Limpiar">
+<!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar">
+
+<!ENTITY masterpassword_create_title "Creyar una clau mayestra">
+<!ENTITY masterpassword_remove_title "Suprimir a clau mayestra">
+<!ENTITY masterpassword_password "Clau">
+<!ENTITY masterpassword_confirm "Confirme a clau">
+
+<!ENTITY button_ok "D\'alcuerdo">
+<!ENTITY button_cancel "Cancelar">
+
+<!ENTITY abouthome_addons_title "Os complementos de &brandShortName;">
+<!ENTITY abouthome_addons_browse "Amostrar totz os complementos de &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "As pestanyas d\'a zaguera vegada">
+<!ENTITY abouthome_last_tabs_open "Ubrir todas as pestanyas d\'a zaguera vegada">
+<!ENTITY abouthome_top_sites_title "Os vuestros puestos">
+<!ENTITY abouthome_top_sites_browse "Amostrar-me os míos puestos web mas habituals">
+<!ENTITY abouthome_no_top_sites "Encara no tiene garra puesto seleccionau. Toque a barra de titol ta seleccionar-lo.">
+<!ENTITY abouthome_about_sync "Configure Firefox Sync ta acceder a os marcapachinas, l\'historial y las pestanyas d'os atros dispositivos que tiene">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Trigue un fichero">
+<!ENTITY filepicker_audio_title "Trigue un grave un soniu">
+<!ENTITY filepicker_image_title "Trigue u faiga una foto">
+<!ENTITY filepicker_video_title "Trigue u grave un video">

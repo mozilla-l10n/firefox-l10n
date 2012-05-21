@@ -19,7 +19,7 @@ Si ye buscando respuestas a preguntas freqüents sobre &brandShortName;,
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta de perfil">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activaus">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
@@ -43,9 +43,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Graficos">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Contexto grafico (GC) incremental">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versions d'a biblioteca">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instalacions">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'actualizacions">

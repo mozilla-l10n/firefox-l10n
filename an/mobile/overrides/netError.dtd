@@ -1,0 +1,136 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "S'ha produciu un problema en cargar a pachina">
+<!ENTITY retry.label "Torna-lo a probar">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "No s'ha puesto connectar">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "L'adreza ye restrinchida">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "No s'ha trobau o servidor">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Comprebe que no s'haigan introduciu errors en tecleyar l'adreza, por eixemplo 
+<strong>ww</strong>.eixemplo.com en cuentas de 
+<strong>www</strong>.eixemplo.com</li> 
+<li>Si encara no puede cargar garra pachina, comprebe a connexión a o ret d'o vuestro ordinador.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "No s'ha trobau o fichero">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Comprebe a sintaxi d'o nombre d'o fichero, incluindo-ie l'uso de mayusclas y minusclas.</li> 
+<li>Comprebe que o fichero no siga estau moviu, renombrau u eliminau.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>&brandShortName; no ha puesto cargar a pachina por bella razón.</p>">
+
+<!ENTITY malformedURI.title "L'adreza no ye valida">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>As adrezas web normalment s'escriben asinas 
+<strong>http://www.ejemplo.com/</strong></li> 
+<li>Asegure-se que ye emplegando barras inclinadas enta debant (ye dicir, 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "S'ha interrumpiu a connexión">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "O documento ha caducau">
+<!ENTITY notCached.longDesc "<p>O documento solicitau ya no ye disponible en a caché de &brandShortName;.</p><ul><li>Por precaución, &brandShortName; no tornará a solicitar automaticament os documentos sensibles.</li><li>Faiga clic en Prebar-lo de nuevas ta tornar a solicitar o documento a o puesto web.</li></ul>">
+
+<!ENTITY netOffline.title "Modo sin connexión">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Pruebe de nuevas. &brandShortName; mirará d'ubrir una connexión y tornar a cargar a pachina.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Error de codificación d'o conteniu">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Tipo de fichero inseguro">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li> 
+</ul>">
+
+<!ENTITY netReset.title "S'ha reiniciau a connexión">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "S'ha acotolau o tiempo d'aspera d'a connexión">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "No s'ha replecau l'adreza">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Podría estar que calese instalar unatro software ta ubrir l'adreza.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "O servidor proxy ye refusando as connexions">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Comprebe a configuración d'o servidor proxy ta asegurar-se de que ye correcta.</li> 
+<li>Meta-se en contacto con l'administrador d'o ret ta asegurar-se de que o servidor proxy ye funcionando.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "No s'ha puesto trobar o servidor proxy">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Asegure-se de que a configuración d'o servidor proxy ye correcta.</li> 
+<li>Comprebe a connexión a o ret d'o suyo ordinador.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "A pachina no ye reendrezando adequadament">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Ixo podría pasar en haber desactivau u refusau l'acceptación de cookies.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Respuesta inasperada d'o servidor">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Asegure-se de que o suyo sistema tiene un chestor de seguranza personal 
+instalau.</li> 
+<li>Puestar se tracte de una configuración no estandar en o servidor.</li> </ul>">
+
+<!ENTITY nssFailure2.title "Ha fallau a connexión segura">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>A pachina que ye mirando de visualizar no se puet amostrar porque no se puet comprebar l'autenticidat d'os datos recibius.</li> 
+<li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'o problema. Como alternativa, faiga servir a orden que se troba en o menú d'aduya ta informar d'iste puesto web trencau.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "A connexión segura ha fallau">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Isto podría estar un problema con a configuración d'o servidor, u bien podría ser 
+que belún ye mirando de fer-se pasar por o servidor.</li> 
+<li>Si se i ha connectau sin garra problema bella atra vegada, a error podría 
+estar temporal, y puede tornar-lo a prebar mas entabant.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>O puesto web podría estar temporalment no disponible u masiau ocupau. Torne-lo a prebar en uns momentos.</li> 
+<li>Si no puede cargar garra pachina, comprebe a connexión a o ret d'o suyo dipositivo mobil.</li> 
+</ul>">
+
+<!ENTITY cspFrameAncestorBlocked.title "S'ha bloquiau por a politica de seguranza de conteniu">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
+
+<!ENTITY corruptedContentError.title "Error en o conteniu d'a pachina">
+<!ENTITY corruptedContentError.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
+
+<!ENTITY securityOverride.linkText "U puede adhibir-ie una excepción…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Quita-me d'aquí!">
+<!ENTITY securityOverride.exceptionButtonLabel "Adhibir una excepción…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye emplegando una connexión d'Internet que no i confía plenament u si no gosaba veyer una alvertencia en iste servidor.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
+

@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Ferramientas d'opinión">
+
+<!ENTITY feedback.communicate.title     "Comunique-se con nusatros!">
+<!ENTITY feedback.feedback.title        "Ninviar a suya opinión">
+<!ENTITY feedback.feedback.good         "Buena">
+<!ENTITY feedback.feedback.bad          "Mala">
+
+<!ENTITY feedback.tools.title           "Ferramientas">
+<!ENTITY feedback.allowTelemetry.title  "Ninviar os datos de rendimiento">
+<!ENTITY feedback.forceCompat.title     "Forzar a compatibilidat de complementos">
+<!ENTITY feedback.errorConsole.title    "Activar a consola d'errors">

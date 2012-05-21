@@ -1,0 +1,122 @@
+<!ENTITY urlbar.emptytext      "Escriba una busca u una adreza">
+
+<!ENTITY back.label            "Entazaga">
+<!ENTITY forward.label         "Entabant">
+<!ENTITY reload.label          "Actualizar">
+<!ENTITY stop.label            "Aturar">
+<!ENTITY go.label              "Ir-ie">
+<!ENTITY star.label            "Destacar">
+
+<!ENTITY showTabs.label        "Amostrar as pestanyas">
+<!ENTITY newtab.label          "Creyar una nueva pestanya">
+<!ENTITY closetab.label        "Zarrar a pestanya">
+
+<!ENTITY cut.label             "Tallar">
+<!ENTITY copy.label            "Copiar">
+<!ENTITY copyAll.label         "Copiar-lo tot">
+<!ENTITY copylink.label        "Copiar l'enlaz">
+<!ENTITY paste.label           "Apegar">
+<!ENTITY pasteAndGo.label      "Apegar &amp; y ir-ie">
+<!ENTITY delete.label          "Eliminar">
+<!ENTITY selectAll.label       "Seleccionar-lo tot">
+<!ENTITY noSuggestions.label   "(No i hai sucherencias)">
+<!ENTITY addToDictionary.label "Adhibir a o diccionario">
+<!ENTITY inputMethod.label     "Trigar o metodo de dentrada">
+
+<!ENTITY allPagesHeader.label      "Todas as pachinas">
+<!ENTITY bookmarksHeader.label     "Marcapachinas">
+<!ENTITY historyHeader.label       "Historial">
+<!ENTITY desktopHeader.label       "Escritorio">
+
+<!ENTITY editBookmarkDialog.title  "Editar o marcapachinas">
+<!ENTITY editBookmarkDone.label    "Feito">
+<!ENTITY editBookmarkTags.label    "Adhiba etiquetas aquí">
+
+<!ENTITY selectHelper.done         "Feito">
+
+<!ENTITY addonsHeader.label        "Complementos">
+<!ENTITY addonsLocal.label         "Os suyos complementos">
+<!ENTITY addonsUpdate.label        "Esviellar">
+<!ENTITY addonsRepo.label          "Aconseguir complementos">
+<!ENTITY addonsRecommended.label   "Veiga as recomendacions">
+<!ENTITY addonsSearch.label        "Mirar">
+<!ENTITY addonsSearch2.emptytext   "Mirar-ne en o catalogo">
+<!ENTITY addonsSearch.recommended  "Recomendaus">
+
+<!ENTITY addonOptions.label        "Opciones">
+<!ENTITY addonEnable.label         "Activar">
+<!ENTITY addonDisable.label        "Desactivar">
+<!ENTITY addonInstall2.label       "Adhibir a &brandShortName;">
+<!ENTITY addonUninstall.label      "Desinstalar">
+<!ENTITY addonCancel.label         "Cancelar">
+<!ENTITY addonShowPage.label       "Ir a la pachina">
+
+<!ENTITY downloadsHeader.label     "Descargas">
+<!ENTITY downloadShowPage.label    "Ir a la pachina">
+<!ENTITY downloadShow2.label       "Trobar">
+<!ENTITY downloadOpen2.label       "Ubrir">
+<!ENTITY downloadCancel.label      "Cancelar">
+<!ENTITY downloadPause.label       "Pausar">
+<!ENTITY downloadResume.label      "Reprener">
+<!ENTITY downloadRetry.label       "Reintentar">
+<!ENTITY downloadRemove.label      "Sacar">
+<!ENTITY downloadDelete.label      "Eliminar">
+<!ENTITY downloadFailed.label      "Ha fallau">
+
+<!ENTITY noResults.label           "No i hai garra resultau">
+<!ENTITY allBookmarks.label        "Consultar totz os marcapachinas">
+
+<!ENTITY bookmarkPopup.label       "Pachina adhibida a os marcapahinas">
+<!ENTITY bookmarkRemove.label      "Sacar">
+<!ENTITY bookmarkEdit.label        "Editar">
+<!ENTITY bookmarkShortcut.label    "Adhibir a la pantalla d'encieto">
+
+<!ENTITY identity.unverifiedsite2 "Iste puesto web no proporciona garra información d'identidat.">
+<!ENTITY identity.connectedTo2 "Connectau a">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "chestionato por">
+
+<!ENTITY consoleHeader.label       "Consola d'errors">
+<!ENTITY consoleAll.label          "Tot ">
+<!ENTITY consoleErrors.label       "Errors">
+<!ENTITY consoleWarnings.label     "Alvertencias">
+<!ENTITY consoleMessages.label     "Mensaches">
+<!ENTITY consoleCodeEval.label     "Codigo:">
+<!ENTITY consoleClear.label        "Limpiar">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Fichero d'orichen:">
+<!ENTITY consoleErrLine.label      "Linia:">
+<!ENTITY consoleErrColumn.label    "Columna:">
+
+<!ENTITY contextOpenInNewTab.label    "Ubrir en una pestanya nueva">
+<!ENTITY contextSaveImage.label       "Alzar a imachen">
+<!ENTITY contextCopyLink.label        "Copiar l'enlaz">
+<!ENTITY contextCopyEmail.label       "Copiar l'adreza de correu electronico">
+<!ENTITY contextCopyPhone.label       "Copiar o numero de telefono">
+<!ENTITY contextCopyImageLocation.label       "Copiar a ubicación d'a imachen">
+<!ENTITY contextShareLink.label       "Compartir l'enlaz">
+<!ENTITY contextShareImage.label      "Compartir a imachen">
+<!ENTITY contextBookmarkLink.label    "Adhibir l'enlaz a os marcapachinas">
+<!ENTITY contextSaveVideo.label       "Alzar o vídeo">
+<!ENTITY contextShareVideo.label      "Compartir o vídeo">
+<!ENTITY contextPlayMedia.label       "Reproducir">
+<!ENTITY contextPauseMedia.label      "Pausar">
+<!ENTITY contextFullScreen.label      "Pantalla completa">
+<!ENTITY contextEditBookmark.label    "Editar">
+<!ENTITY contextRemoveBookmark.label  "Eliminar">
+<!ENTITY contextShortcutBookmark.label "Adhibir a la pantalla d'encieto">
+
+<!ENTITY pageactions.saveas.pdf      "Alzar como PDF">
+<!ENTITY pageactions.share.page      "Compartir a pachina">
+<!ENTITY pageactions.password.forget "Ixuplidar a clau d'acceso">
+<!ENTITY pageactions.quit            "Salir">
+<!ENTITY pageactions.reset           "Limpiar as preferencias d'o puesto">
+<!ENTITY pageactions.findInPage      "Trobar en a pachina">
+<!ENTITY pageactions.search.addNew   "Adhibir o motor de busca">
+<!ENTITY pageactions.charEncoding    "Codificación de caracters">
+
+<!ENTITY appMenu.siteOptions         "Opciones d'o puesto">

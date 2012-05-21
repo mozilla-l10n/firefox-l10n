@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Chestor de complementos">
+<!ENTITY aboutAddons.header2                    "Os suyos complementos">
+<!ENTITY aboutAddons.options                    "Opcions">
+
+<!ENTITY addonAction.enable                     "Activar">
+<!ENTITY addonAction.disable                    "Desactivar">
+<!ENTITY addonAction.uninstall                  "Desinstalar">
+<!ENTITY addonAction.cancel                     "Cancelar">

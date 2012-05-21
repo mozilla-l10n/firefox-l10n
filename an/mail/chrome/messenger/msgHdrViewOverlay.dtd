@@ -1,0 +1,138 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField3.label "To ">
+<!ENTITY fromField3.label "From ">
+<!ENTITY senderField3.label "Sender ">
+<!ENTITY organizationField3.label "Organization ">
+<!ENTITY replyToField3.label "Reply to ">
+
+<!ENTITY subjectField3.label "Subject ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Newsgroups ">
+<!ENTITY followupToField3.label "Followup to ">
+<!ENTITY tagsHdr3.label "Tags ">
+<!ENTITY dateField3.label "Date ">
+<!ENTITY userAgentField3.label "User agent ">
+<!ENTITY referencesField3.label "References ">
+<!ENTITY messageIdField3.label "Message ID ">
+<!ENTITY inReplyToField3.label "In reply to ">
+<!ENTITY originalWebsite3.label "Website ">
+
+<!ENTITY editMessageDescription.label "This is a draft message">
+<!ENTITY editMessageButton.label "Edit…">
+<!ENTITY hdrArchiveButton1.label "Archive">
+<!ENTITY hdrArchiveButton1.tooltip "Archive this message">
+<!ENTITY hdrSmartReplyButton1.label "Smart Reply">
+<!ENTITY hdrReplyButton1.label "Reply">
+<!ENTITY hdrReplyButton1.tooltip "Reply to this message">
+<!ENTITY hdrReplyAllButton1.label "Reply All">
+<!ENTITY hdrReplyAllButton1.tooltip "Reply to sender and all recipients">
+<!ENTITY hdrReplyListButton1.label "Reply List">
+<!ENTITY hdrReplyListButton1.tooltip "Reply to mailing list">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrForwardButton1.label "Forward">
+<!ENTITY hdrForwardButton1.tooltip "Forward this message">
+<!ENTITY hdrJunkButton1.label "Junk">
+<!ENTITY hdrJunkButton1.tooltip "Mark this message as junk">
+<!ENTITY hdrTrashButton1.label "Delete">
+<!ENTITY hdrTrashButton1.tooltip "Delete this message">
+
+<!ENTITY hdrViewToolbarShowFull.label "Show Icons and Text">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Show Icons Only">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "Show Text Only">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Always Show Reply to Sender">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+
+<!ENTITY otherActionsButton1.label "Other Actions">
+<!ENTITY otherActionsOpenConversation1.label "Open in Conversation">
+<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenInNewWindow1.label "Open in New Window">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
+<!ENTITY otherActionsOpenInNewTab1.label "Open in New Tab">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY markAsReadMenuItem1.label "Mark as Read">
+<!ENTITY markAsReadMenuItem1.accesskey "R">
+<!ENTITY markAsUnreadMenuItem1.label "Mark as Unread">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Save as…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "View Source">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Print…">
+<!ENTITY otherActionsPrint1.accesskey "P">
+<!-- Attachment context menu items -->
+
+<!ENTITY openAttachmentCmd.label    "Open">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Save As…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY detachAttachmentCmd.label    "Detach…">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
+<!ENTITY deleteAttachmentCmd.label    "Delete">
+<!ENTITY deleteAttachmentCmd.accesskey    "e">
+<!ENTITY openAllAttachmentsCmd.label    "Open All…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "Save All…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Detach All…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "Delete All…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!ENTITY openAttachment.tooltip "Open the attached file">
+<!-- Attachment toolbar items -->
+
+<!ENTITY saveAttachmentButton1.label       "Save">
+<!ENTITY saveAttachmentButton1.tooltip     "Save the attached file">
+<!ENTITY saveAllAttachmentsButton1.label   "Save All">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Save all the attached files">
+
+<!ENTITY copyLinkCmd.label        "Copy Link Location">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY CopyMessageId.label "Copy Message-ID">
+<!ENTITY CopyMessageId.accesskey "C">
+<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
+<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">

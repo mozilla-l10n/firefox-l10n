@@ -39,8 +39,8 @@
 <!ENTITY safeModeDialog.title         "Modo seguro d'o &brandShortName;">
 <!ENTITY window.width                 "42em">
 
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; Closed Unexpectedly While Starting">
-<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY autoSafeModeIntro.label      "O &brandShortName; s'ha zarrau inasperadament entre que s'iniciaba">
+<!ENTITY autoSafeModeDescription.label "Lamentamos as inconveniencias. O &brandShortName; se ye executando agora mesmo en modo seguro, o que inhabilita temporalment os parametros personals, os temas y as extensions.">
 
 <!ENTITY safeModeDescription.label    "O &brandShortName; se ye executando agora en modo seguro, o qual fa que s'inhabiliten temporalment os suyos parametros personalizaus, temas, y extensions.">
 <!ENTITY safeModeDescription2.label   "Puede fer beluns u totz d'os cambios siguients de traza permanent:">

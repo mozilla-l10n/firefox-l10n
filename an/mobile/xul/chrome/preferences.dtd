@@ -1,0 +1,24 @@
+<!ENTITY prefsHeader.label                         "Preferencias">
+<!ENTITY about.title                               "Quanto a &brandShortName;">
+<!ENTITY about.button                              "Ir a la pachina">
+<!ENTITY content.title                             "Conteniu">
+<!ENTITY reflowZoom.title                          "Cambiar o formato d'o texto en fer zoom">
+<!ENTITY showImages.title                          "Amostrar as imachens">
+<!ENTITY enableJavaScript.title                    "Activar Javascript">
+<!ENTITY privacy.title                             "Privacidat y seguranza">
+<!ENTITY allowCookies.title                        "Permitir as cookies">
+<!ENTITY doNotTrack.title                          "No permitir que os puestos web me sigan o bayo">
+<!ENTITY masterPassword.title                      "Emplegar una clau d'acceso mayestra">
+<!ENTITY clearPrivateData2.title                   "Limpiar os datos privaus">
+<!ENTITY clearPrivateData.button                   "Limpiar">
+<!ENTITY rememberPasswords.title                   "Recordar as claus d'acceso">
+<!ENTITY language.title                            "Luenga">
+<!ENTITY language.auto                             "Detectar automaticament">
+<!ENTITY defaultBrowser.title                      "Navegador por defecto">
+<!ENTITY defaultBrowser.description                "Fer &brandShortName; o navegador por defecto">
+<!ENTITY homepage.title                            "Pachina d'encieto">
+<!ENTITY homepage.none                             "Pachina en blanco">
+<!ENTITY homepage.default                          "Encieto de &brandShortName;">
+<!ENTITY homepage.currentpage                      "Fer servir a pachina actual">
+<!ENTITY showCharsetEncoding.title                 "Amostrar a codificación de caracters">
+<!ENTITY actionbar.default                         "Parametros de &brandShortName;">

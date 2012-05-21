@@ -1,0 +1,12 @@
+<!-- LOCALIZATION NOTE: do not use digits "0"-"9" as accesskeys -->
+<!ENTITY zoomEnlargeCmd.label       "Larger">
+<!ENTITY zoomEnlargeCmd.accesskey   "L">
+<!ENTITY zoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY zoomEnlargeCmd.commandkey2 "="> 
+
+<!ENTITY zoomReduceCmd.label        "Smaller">
+<!ENTITY zoomReduceCmd.accesskey    "S">
+<!ENTITY zoomReduceCmd.commandkey   "-">
+
+<!ENTITY zoomResetCmd.commandkey    "0">

@@ -1,0 +1,75 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Connectar ta &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Adhibir una cuenta de &syncBrand.shortName.label;">
+<!ENTITY sync.title.pair.label "Vincular un dispositivo">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Ta activar un nuevo dispositivo, seleccione «Configurar &syncBrand.shortName.label;» en l'atro dispositivo.">
+<!ENTITY sync.subtitle.header.label "Escriba iste codigo en l'atro ordinador">
+<!ENTITY sync.subtitle.connectlocation.label "Trigue «&sync.title.pair.label;» en a sección &syncBrand.shortName.label; d'as opciones d'o suyo Firefox d'escritorio.">
+<!ENTITY sync.subtitle.pair.label "Ta activar-lo, seleccione «Vincular un dispositivo» en l'atro dispositivo.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Amostrar-me como.">
+<!ENTITY sync.link.advancedsetup.label "Configuración abanzada...">
+<!ENTITY sync.link.nodevice.label "No tiengo o dispositivo aquí...">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Se ye asperando a l'atro dispositivo...">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Escriba a información d'a suya atra cuenta de &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Nombre d'a cuenta">
+<!ENTITY sync.input.password.label "Clau">
+<!ENTITY sync.input.key.label "Clau de recuperación">
+<!ENTITY sync.checkbox.server.label "Emplegar un servidor personalizau">
+<!ENTITY sync.input.server.label "URL d'o servidor">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "No s'ha puesto configurar &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; no s'ha puesto connectar t'o servidor. Quiere mirar de connectar-se unatra vegada?">
+<!ENTITY sync.button.tryagain.label "Torna-lo a prebar">
+<!ENTITY sync.button.manual.label "Configuración manual">
+<!ENTITY sync.subtitle.nointernet.label "No i hai garra connexión d'Internet disponible.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "S'ha rematau a configuración">
+<!ENTITY sync.subtitle.success.label "Os suyos datos se son baixando en segundo plan. Puede ir ta las Opcions ta chestionar a suya cuenta.">
+<!ENTITY sync.settings.label "Opcions">
+<!ENTITY sync.subtitle.manage.label "A suya cuenta de &syncBrand.fullName.label; ya ye configurada. Vaiga ta las opcions ta chestionar-la.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Torna-lo a prebar.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Opcions">
+<!ENTITY sync.summary.pair.label "Vincule unatro dispositivo a la suya cuenta de &syncBrand.shortName.label;">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Cancelar">
+<!ENTITY sync.button.connect.label "Connectar">
+<!ENTITY sync.button.ok.label "D'alcuerdo">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Menú d'os marcapachinas">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Etiquetas">
+<!ENTITY bookmarks.folder.toolbar.label "Barra de ferramientas d'os marcapachinas">
+<!ENTITY bookmarks.folder.unfiled.label "Marcapachinas desordenaus">
+<!ENTITY bookmarks.folder.desktop.label "Marcapachinas d'escritorio">
+<!ENTITY bookmarks.folder.mobile.label "Marcapachinas d'o mobil">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Nomás se permite una cuenta de &syncBrand.fullName.label;">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect "A clau de recuperación ye incorrecta. Torne a prebar-lo.">

@@ -1,0 +1,16 @@
+<!ENTITY aboutPage.title                        "Quant a &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ye experimental y podría estar instable.">
+<!ENTITY aboutPage.telemetryStart               " ninvia automaticament a información d'o rendimiento, hardware, uso y personalización a ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " ta aduyar a amillorar &brandShortName;.">
+<!ENTITY aboutPage.checkForUpdates.link         "Mira actualizacions »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Se ye mirando si i hai actualizacions…">
+<!ENTITY aboutPage.checkForUpdates.none         "No i hai garra actualización">
+<!ENTITY aboutPage.checkForUpdates.found        "I hai una actualización">
+<!ENTITY aboutPage.faq.label                    "PMF">
+<!ENTITY aboutPage.support.label                "Asistencia">
+<!ENTITY aboutPage.privacyPolicy.label          "Politica de privacidat">
+<!ENTITY aboutPage.rights.label                 "Conoixca os suyos dreitos">
+<!ENTITY aboutPage.relNotes.label               "Notas d'a versión">
+<!ENTITY aboutPage.credits.label                "Creditos">
+<!ENTITY aboutPage.license.label                "Información d'a licencia">
