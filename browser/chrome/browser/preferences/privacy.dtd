@@ -36,7 +36,7 @@
 <!ENTITY  showCookies.accesskey         "V">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; vil:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "i">
 <!ENTITY  historyHeader.remember.label     "Gemme historik">
 <!ENTITY  historyHeader.dontremember.label "Aldrig gemme historik">
 <!ENTITY  historyHeader.custom.label       "Bruge tilpassede indstillinger for historik">
