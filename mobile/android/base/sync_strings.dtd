@@ -11,21 +11,21 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pe ativâ o teu nêuvo dispoxitîvo, seleçiónn-a “Inpòsta &syncBrand.shortName.label;” in sciô dispoxitîvo.'>
-<!ENTITY sync.subtitle.header.label 'Introdûxi questo còdice into teu computer'>
+<!ENTITY sync.subtitle.header.label 'Métti sto còdice into teu computer'>
 <!ENTITY sync.subtitle.connectlocation.label 'Seleçiónn-a “&sync.title.pair.label;” inta seçión &syncBrand.shortName.label; de òpsioìn do teu navegatô Firefox.'>
-<!ENTITY sync.subtitle.pair.label 'Pe ativâ, seleçiónn-a “Acóbia un dispoxitîvo” in sce l'âtro teu dispoxitîvo.'>
+<!ENTITY sync.subtitle.pair.label 'Pe ativâ, seleçiónn-a “Acóbia un dispoxitîvo” in sce l\'âtro teu dispoxitîvo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Fàmme védde cómme.'>
 <!ENTITY sync.link.advancedsetup.label 'Inpostaçioìn avansæ…'>
-<!ENTITY sync.link.nodevice.label 'No gh'ò o dispoxitîvo chi con mi…'>
+<!ENTITY sync.link.nodevice.label 'No gh\'ò o dispoxitîvo chi con mi…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Spêtémmo l'âtro dispoxitîvo…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Spêtémmo l\'âtro dispoxitîvo…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Introdûxi l'informaçión do teu cónto &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Nómme de l'account'>
+<!ENTITY sync.subtitle.account.label 'Dìmme l\'informaçión do teu cónto &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Nómme de l\'account'>
 <!ENTITY sync.input.password.label 'Paròlla segrétta'>
 <!ENTITY sync.input.key.label 'Ciâve de repìggio'>
 <!ENTITY sync.checkbox.server.label 'Dêuvia o server preferîo'>
@@ -33,7 +33,7 @@
   
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Inposcìbile inpostâ &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; o no l'é ariêscîo a colegâse a-o server. Ti veu provâghe tórna?'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; o no l\'é ariêscîo a colegâse a-o server. Ti veu provâghe tórna?'>
 <!ENTITY sync.button.tryagain.label 'Prêuva ancón'>
 <!ENTITY sync.button.manual.label 'Inpostaçión manoâle'>
 <!ENTITY sync.subtitle.nointernet.label 'Sensa conesción a Internet.'>
@@ -42,7 +42,7 @@
 <!ENTITY sync.title.success.label 'Instalaçión finîa'>
 <!ENTITY sync.subtitle.success.label 'Òua i teu dæti se scàregan in segóndo ciàn. Ti peu andâ a-e Inpostaçioìn pe manezâ o teu cónto.'>
 <!ENTITY sync.settings.label 'Inpostaçioìn'>
-<!ENTITY sync.subtitle.manage.label 'O teu cónto &syncBrand.fullName.label; o l'é za inpostòu. Vànni a-e òpsioìn pe agiustâ o teu cónto.'>
+<!ENTITY sync.subtitle.manage.label 'O teu cónto &syncBrand.fullName.label; o l\'é za inpostòu. Vànni a-e inpostaçioìn pe scistemâ o teu cónto.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Pe favô preuva ancón.'>
@@ -69,7 +69,7 @@
 <!ENTITY bookmarks.folder.mobile.label 'Segnalìbbri Mòbili'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'No s'amétte che un sôlo cónto &syncBrand.fullName.label;.'>
+<!ENTITY sync.notification.oneaccount.label 'No s\'amétte che un sôlo cónto do &syncBrand.fullName.label;.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.new.recoverykey.status.incorrect 'Scorétta a ciâve pe-o repìggio. Prêuvighe tórna.'>

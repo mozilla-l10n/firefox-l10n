@@ -63,7 +63,7 @@
 <!ENTITY pref_clear_history "Scancélla stöia">
 <!ENTITY pref_clear_history_confirm "Scanceliêmo a stöia">
 <!ENTITY pref_clear_private_data "Scancélla i dæti privæ">
-<!ENTITY pref_clear_private_data_confirm "Se scanceliâ e inpostaçioìn da navegaçión, inclûzo paròlle d'órdine e cookies">
+<!ENTITY pref_clear_private_data_confirm "Se scanceliâ e inpostaçioìn da navegaçión, inclûzo paròlle segrétte e cookie">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Abilitòu">
 <!ENTITY pref_plugins_tap_to_play "Tócca pe riprodûe">
@@ -101,20 +101,20 @@
 <!ENTITY site_settings_title        "Scancèlla e inpostaçioìn do scîto">
 <!ENTITY site_settings_cancel       "Anùlla">
 <!ENTITY site_settings_clear        "Polìsci">
-<!ENTITY site_settings_no_settings  "No gh'é de inpostaçioìn da scancelâ.">
+<!ENTITY site_settings_no_settings  "No gh\'é de inpostaçioìn da scancelâ.">
 
 <!ENTITY masterpassword_create_title "Crêa unna paròlla segrétta prinçipâ">
 <!ENTITY masterpassword_remove_title "Lêva da mêzo a paròlla segrétta prinçipâ">
 <!ENTITY masterpassword_password "Paròlla segrétta">
-<!ENTITY masterpassword_confirm "Confèrma paròlla d'órdine">
+<!ENTITY masterpassword_confirm "Confèrma paròlla segrétta">
 
 <!ENTITY button_ok "Va bén">
 <!ENTITY button_cancel "Anùlla">
 
 <!ENTITY abouthome_addons_title "Conpleménti pe-o teu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Amîa tùtti i conpleménti &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "I teu féuggi de l'ùrtima vòtta">
-<!ENTITY abouthome_last_tabs_open "Àrvi tùtti i féuggi de l'ùrtima vòtta">
+<!ENTITY abouthome_last_tabs_title "I teu féuggi de l\'ùrtima vòtta">
+<!ENTITY abouthome_last_tabs_open "Àrvi tùtti i féuggi de l\'ùrtima vòtta">
 <!ENTITY abouthome_top_sites_title "Mêgio scîti">
 <!ENTITY abouthome_top_sites_browse "Amîa tùtti i teu scîti preferîi">
 <!ENTITY abouthome_no_top_sites "No ti gh\'æ ancón di mêgio scîti. Tócca a bâra do tìtolo pe iniçiâ a navegâ.">
@@ -123,6 +123,6 @@
 
 <!ENTITY filepicker_title "Scégli o File">
 <!ENTITY filepicker_audio_title "Scégli ò regìstra són">
-<!ENTITY filepicker_image_title "Scégli ò pìggia 'na föto">
-<!ENTITY filepicker_video_title "Scégli ò regìstra 'n vìdeo">
+<!ENTITY filepicker_image_title "Scégli ò pìggia \'na föto">
+<!ENTITY filepicker_video_title "Scégli ò regìstra \'n vìdeo">
 
