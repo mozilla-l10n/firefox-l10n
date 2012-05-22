@@ -1,127 +1,127 @@
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "તમારું &brandShortName; સુયોજીત કરી રહ્યા છીએ">
+<!ENTITY  splash_bookmarks_history "અમે તમારી બુકમાર્કો અને ઇતિહાસ સુધારી રહ્યા છીએ, કે જે મિનિટ કે એટલો સમય લેશે.">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "&brandShortName; શરુ કરવા માટે પૂરતી જગ્યા ઉપલબ્ધ નથી.">
+<!ENTITY  error_loading_file "&brandShortName; ચલાવવા માટે જરૂરી ફાઇલો લાવવાનો પ્રયાસ કરતી વખતે ભૂલ ઉદ્ભવી">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
-<!ENTITY  awesomebar_bookmarks_title "Bookmarks">
-<!ENTITY  awesomebar_history_title "History">
-<!ENTITY  awesomebar_search_engine "Search for \&quot;&#037;s\&quot;">
+<!ENTITY  awesomebar_all_pages_title "ટોચની સાઇટો">
+<!ENTITY  awesomebar_bookmarks_title "બુકમાર્કો">
+<!ENTITY  awesomebar_history_title "ઇતિહાસ">
+<!ENTITY  awesomebar_search_engine "\&quot;&#037;s\&quot; માટે શોધો">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
-<!ENTITY  exit_label "Exit">
-<!ENTITY  continue_label "Continue">
+<!ENTITY  crash_reporter_title "&brandShortName; ભંગાણનો અહેવાલ આપનાર">
+<!ENTITY  crash_message "&brandShortName; ભાંગી ગયું. જ્યારે તમે પુનઃશરૂ કરશો ત્યારે તમારી ટેબ &brandShortName; શરૂઆત પાના પર યાદી થયેલી હોવી જોઇએ.">
+<!ENTITY  crash_help_message "મહેરબાની કરીને અમને આ સમસ્યા ઉકેલવામાં મદદ કરો!">
+<!ENTITY  crash_send_report_message "Mozilla ને ભંગાણ અહેવાલ મોકલો">
+<!ENTITY  crash_include_url "પાનાં સરનામાંનો સમાવેશ કરો">
+<!ENTITY  crash_close_label "બંધ કરો">
+<!ENTITY  crash_restart_label "&brandShortName; પુનઃશરૂ કરો">
+<!ENTITY  sending_crash_report "ભંગાણ અહેવાલ મોકલી રહ્યા છીએ\u2026">
+<!ENTITY  exit_label "બહાર નીકળો">
+<!ENTITY  continue_label "ચાલુ રાખો">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; વેબ કાર્યક્રમો">
+<!ENTITY  launcher_shortcuts_empty "કોઇ વેબ કાર્યક્રમો મળ્યા નહિં">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "ફાઇલ પસંદ કરો">
 
-<!ENTITY awesomebar_default_text "Enter Search or Address">
+<!ENTITY awesomebar_default_text "શોધ અથવા સરનામું દાખલ કરો">
 
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs "સુમેળ થયેલ ટેબ">
+<!ENTITY remote_tabs_show_all "બધી ટેબ બતાવો">
 
-<!ENTITY bookmark "Bookmark">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark "બુકમાર્ક">
+<!ENTITY bookmark_added "બુકમાર્ક ઉમેરાઇ">
+<!ENTITY bookmark_removed "બુકમાર્ક દૂર થઇ">
+<!ENTITY bookmark_updated "બુકમાર્ક સુધારાઇ">
 
-<!ENTITY history_today_section "Today">
-<!ENTITY history_yesterday_section "Yesterday">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_today_section "આજે">
+<!ENTITY history_yesterday_section "ગઇ કાલે">
+<!ENTITY history_week_section "૭ દિવસો અગાઉ">
+<!ENTITY history_older_section "૭ દિવસો કરતાં જૂનું">
 
-<!ENTITY reload "Reload">
-<!ENTITY forward "Forward">
+<!ENTITY reload "પુનઃલાવો">
+<!ENTITY forward "આગળ">
 
-<!ENTITY new_tab "New Tab">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY new_tab "નવી ટેબ">
+<!ENTITY new_tab_opened "નવી ટેબ ખૂલી">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_do_not_track "Tell sites not to track me">
-<!ENTITY pref_telemetry "Send performance data">
-<!ENTITY pref_remember_signons "Remember passwords">
-<!ENTITY pref_cookies "Enable cookies">
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_history "Clear history">
-<!ENTITY pref_clear_history_confirm "Browsing history will be deleted">
-<!ENTITY pref_clear_private_data "Clear private data">
-<!ENTITY pref_clear_private_data_confirm "Browsing settings, including passwords and cookies, will be deleted">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_sync "Sync">
+<!ENTITY settings "સુયોજનો">
+<!ENTITY settings_title "સુયોજનો">
+<!ENTITY pref_category_general "સામાન્ય">
+<!ENTITY pref_category_privacy "ખાનગીપણું &amp; સુરક્ષા">
+<!ENTITY pref_category_content "વિષયસૂચી">
+<!ENTITY pref_about_firefox "&brandShortName; વિશે">
+<!ENTITY pref_do_not_track "સાઇટોને કહો કે મને ટ્રેક કરે નહિં">
+<!ENTITY pref_telemetry "પ્રતિભાવ માહિતી મોકલો">
+<!ENTITY pref_remember_signons "પાસવર્ડો યાદ રાખો">
+<!ENTITY pref_cookies "કુકીઓ સક્રિય કરો">
+<!ENTITY pref_char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
+<!ENTITY pref_char_encoding_on "મેનુ બતાવો">
+<!ENTITY pref_char_encoding_off "મેનુ બતાવશો નહિં">
+<!ENTITY pref_clear_history "ઈતિહાસ સાફ કરો">
+<!ENTITY pref_clear_history_confirm "બ્રાઉઝીંગ ઇતિહાસ નષ્ટ થઇ જશે">
+<!ENTITY pref_clear_private_data "ખાનગી માહિતી સાફ કરો">
+<!ENTITY pref_clear_private_data_confirm "બ્રાઉઝીંગ સુયોજનો, પાસવર્ડો અને કુકીઓને સમાવીને, બધું નષ્ટ થઇ જશે">
+<!ENTITY pref_plugins "પ્લગઇનો">
+<!ENTITY pref_plugins_enabled "સક્રિય કરેલ">
+<!ENTITY pref_plugins_tap_to_play "વગાડવા માટે ઠપકારો">
+<!ENTITY pref_plugins_disabled "નિષ્ક્રિય કરેલ">
+<!ENTITY pref_text_size "લખાણ માપ">
+<!ENTITY pref_font_size_tiny "ટચુકડા">
+<!ENTITY pref_font_size_small "નાના">
+<!ENTITY pref_font_size_medium "મધ્યમ">
+<!ENTITY pref_font_size_large "મોટા">
+<!ENTITY pref_font_size_xlarge "ખૂબ મોટા">
+<!ENTITY pref_use_master_password "મુખ્ય પાસવર્ડ વાપરો">
+<!ENTITY pref_sync "સુમેળ">
 
-<!ENTITY quit "Quit">
+<!ENTITY quit "બંધ કરો">
 
-<!ENTITY addons "Add-ons">
-<!ENTITY downloads "Downloads">
-<!ENTITY char_encoding "Character Encoding">
+<!ENTITY addons "ઍડ-ઓન">
+<!ENTITY downloads "ડાઉનલોડ">
+<!ENTITY char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY save_as_pdf "Save as PDF">
+<!ENTITY share "વહેંચો">
+<!ENTITY share_title "આની મારફતે વહેંચો">
+<!ENTITY save_as_pdf "PDF તરીકે સંગ્રહો">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_remove_bookmark "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_open_new_tab "નવી ટેબમાં ખોલો">
+<!ENTITY contextmenu_remove_bookmark "દૂર કરો">
+<!ENTITY contextmenu_add_to_launcher "ઘર સ્ક્રીનમાં ઉમેરો">
+<!ENTITY contextmenu_share "વહેંચો">
+<!ENTITY contextmenu_edit_bookmark "ફેરફાર">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
-<!ENTITY bookmark_edit_name "Name">
-<!ENTITY bookmark_edit_location "Location">
-<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY bookmark_edit_title "બુકમાર્કમાં ફેરફાર કરો">
+<!ENTITY bookmark_edit_name "નામ">
+<!ENTITY bookmark_edit_location "સ્થાન">
+<!ENTITY bookmark_edit_keyword "મુખ્ય શબ્દ">
 
-<!ENTITY site_settings_title        "Clear Site Settings">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_title        "સાઇટ સુયોજનો સાફ કરો">
+<!ENTITY site_settings_cancel       "રદ કરો">
+<!ENTITY site_settings_clear        "સાફ કરો">
+<!ENTITY site_settings_no_settings  "સાફ કરવા માટે કોઇપણ સુયોજનો નથી.">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
-<!ENTITY masterpassword_remove_title "Remove Master Password">
-<!ENTITY masterpassword_password "Password">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_create_title "મુખ્ય પાસવર્ડ બનાવો">
+<!ENTITY masterpassword_remove_title "મુખ્ય પાસવર્ડ દૂર કરો">
+<!ENTITY masterpassword_password "પાસવર્ડ">
+<!ENTITY masterpassword_confirm "ખાતરી પાસવર્ડ">
 
-<!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Cancel">
+<!ENTITY button_ok "બરાબર">
+<!ENTITY button_cancel "રદ કરો">
 
-<!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
-<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_addons_title "તમારા &brandShortName; માટે ઍડ-ઓન">
+<!ENTITY abouthome_addons_browse "બધા &brandShortName; ઍડ-ઓન બ્રાઉઝ કરો">
+<!ENTITY abouthome_last_tabs_title "છેલ્લા વખતની તમારી ટેબ">
+<!ENTITY abouthome_last_tabs_open "છેલ્લા વખતની તમારી બધી ટેબ ખોલો">
+<!ENTITY abouthome_top_sites_title "ટોચની સાઇટો">
+<!ENTITY abouthome_top_sites_browse "તમારી બધી ટોચની સાઇટો બ્રાઉઝ કરો">
+<!ENTITY abouthome_no_top_sites "તમારી પાસે હજુ કોઇ ટોચની સાઇટ નથી. બ્રાઉઝ કરવાનું શરૂ કરવા માટે શીર્ષક પટ્ટી ઠપકારો.">
+<!ENTITY abouthome_about_sync "તમારા અન્ય ઉપકરણોમાંથી બુકમાર્કો, ઇતિહાસ અને ટેબો વાપરવા માટે Firefox સુમેળ સુયોજીત કરો">
+<!ENTITY abouthome_sync_bold_name "Firefox સુમેળ">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_title "ફાઇલ પસંદ કરો">
+<!ENTITY filepicker_audio_title "ધ્વનિ પસંદ અથવા રૅકોર્ડ કરો">
+<!ENTITY filepicker_image_title "ચિત્ર પસંદ કરો અથવા લો">
+<!ENTITY filepicker_video_title "વીડિયો પસંદ અથવા રૅકોર્ડ કરો">
