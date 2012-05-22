@@ -2,12 +2,12 @@
 <!ENTITY warningDesc.version "&brandShortName; является экспериментальным и может быть нестабилен.">
 <!ENTITY warningDesc.telemetryDesc "Он автоматически отправляет информацию о производительности, аппаратном обеспечении, использовании и настройках в &vendorShortName;, чтобы помочь сделать &brandShortName; лучше.">
 <!ENTITY community.exp.start "">
-<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.mozillaLink "">
 <!ENTITY community.exp.middle " является ">
 <!ENTITY community.exp.creditsLink "глобальным сообществом">
 <!ENTITY community.exp.end ", работающим над тем, чтобы Интернет оставался открытым, публичным и доступным для всех и каждого.">
 <!ENTITY community.start2 "&brandShortName; создан ">
-<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.mozillaLink "">
 <!ENTITY community.middle2 " — ">
 <!ENTITY community.creditsLink "глобальным сообществом">
 <!ENTITY community.end3 ", работающим над тем, чтобы Интернет оставался открытым, публичным и доступным для всех и каждого.">
@@ -28,5 +28,6 @@
 <!ENTITY update.manual.end "">
 <!ENTITY update.downloading.start "Загрузка обновления — ">
 <!ENTITY update.downloading.end "">
+<!ENTITY update.applying "Применение обновления…">
 <!ENTITY channel.description.start "Сейчас вы находитесь на канале обновлений ">
 <!ENTITY channel.description.end ". ">
