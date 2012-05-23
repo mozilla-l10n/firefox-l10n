@@ -9,7 +9,7 @@
 <!ENTITY searchStartTyping.label         "Buscar en el texto cuando comience a tipear">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "Alertarme cuando un sitio web intente redireccionar o recargar la página">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY blockAutoRefresh.accesskey      "u">
 
 <!ENTITY browsing.label                  "Navegar">
 
