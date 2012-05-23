@@ -229,9 +229,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectCloseButton.tooltiptext "Stäng inspektör">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Stäng Utvecklarfältet">
-<!ENTITY devToolbarMenu.label "Utvecklarfältet">
-<!ENTITY devToolbarMenu.accesskey "U">
-<!ENTITY devToolbar.commandkey "v">
+<!ENTITY devToolbarMenu.label              "Utvecklarfältet">
+<!ENTITY devToolbarMenu.accesskey          "U">
+<!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "Webbkonsolen">
 <!ENTITY inspectorButton.label "Inspektören">
