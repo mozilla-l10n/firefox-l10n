@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "F">
-<!ENTITY importFromHTMLFile.label       "ពី​ឯកសារ HTML">
-<!ENTITY importFromHTMLFile.accesskey   "H">
 
 <!ENTITY noMigrationSources.label       "រក​មិន​ឃើញ​កម្មវិធី​ដែល​មាន ចំណាំ ប្រវត្តិ ឬ​ទិន្នន័យ​ពាក្យ​សម្ងាត់​ទេ ។">
 

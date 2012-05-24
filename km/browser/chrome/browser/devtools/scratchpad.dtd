@@ -23,22 +23,22 @@
 
 <!ENTITY newWindowCmd.label           "បង្អួច​​ថ្មី">
 <!ENTITY newWindowCmd.accesskey       "ប">
-<!ENTITY newWindowCmd.commandkey      "n">
+<!ENTITY newWindowCmd.commandkey      "ប">
 
 <!ENTITY openFileCmd.label            "បើក​ឯកសារ…">
 <!ENTITY openFileCmd.accesskey        "ប">
-<!ENTITY openFileCmd.commandkey       "o">
+<!ENTITY openFileCmd.commandkey       "ប">
 
 <!ENTITY saveFileCmd.label            "រក្សា​ទុក">
 <!ENTITY saveFileCmd.accesskey        "រ">
-<!ENTITY saveFileCmd.commandkey       "s">
+<!ENTITY saveFileCmd.commandkey       "រ">
 
 <!ENTITY saveFileAsCmd.label          "រក្សាទុក​ជា...">
 <!ENTITY saveFileAsCmd.accesskey      "រ">
 
 <!ENTITY closeCmd.label               "បិទ">
 <!ENTITY closeCmd.key                 "ប">
-<!ENTITY closeCmd.accesskey           "W">
+<!ENTITY closeCmd.accesskey           "ប">
 
 <!ENTITY editMenu.label               "កែសម្រួល">
 <!ENTITY editMenu.accesskey           "ក">
@@ -49,11 +49,11 @@
 
 <!ENTITY inspect.label                "ត្រួតពិនិត្យ">
 <!ENTITY inspect.accesskey            "ត">
-<!ENTITY inspect.key                  "i">
+<!ENTITY inspect.key                  "ត">
 
 <!ENTITY display.label                "ទិដ្ឋភាព">
 <!ENTITY display.accesskey            "ទ">
-<!ENTITY display.key                  "l">
+<!ENTITY display.key                  "ទ">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context

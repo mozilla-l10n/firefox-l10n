@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "ចែក​រំលែក​ទីតាំង">
 
+<!ENTITY plugins.label                   "កម្មវិធី​ជំនួយ">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "ថែទាំ​ការ​ផ្ទុក​ក្រៅ​បណ្ដាញ">

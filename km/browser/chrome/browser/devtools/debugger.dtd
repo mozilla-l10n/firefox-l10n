@@ -19,6 +19,18 @@
   -  button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton      "បិទ">
 
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
+  -  button that steps over a function call. -->
+<!ENTITY debuggerUI.stepOverButton   "រំលង">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+  -  button that steps into a function call. -->
+<!ENTITY debuggerUI.stepInButton     "ចូល​ក្នុង">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
+  -  button that steps out of a function call. -->
+<!ENTITY debuggerUI.stepOutButton    "ចេញក្រៅ">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 <!ENTITY debuggerUI.stackTitle       "ហៅ​ជង់">

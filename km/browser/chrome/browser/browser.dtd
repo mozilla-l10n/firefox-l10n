@@ -280,7 +280,7 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.label               "សម្អាត​ប្រវត្តិ​បច្ចុប្បន្ន...">
 <!ENTITY clearRecentHistory.accesskey           "ស">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "ចាប់ផ្ដើម​ការ​រកមើល​ឯកជន">
 <!ENTITY privateBrowsingCmd.start.accesskey     "ម">
 <!ENTITY privateBrowsingCmd.stop.label          "បញ្ឈប់​ការ​រកមើល​ឯកជន">
@@ -606,15 +606,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "បិទ​របារ​កម្មវិធី​បន្ថែម">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "បន្ទះ HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "ចំណាំ">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.accesskey          "M">
 

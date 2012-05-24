@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ទាមទារ​ឲ្យ​ចាប់ផ្ដើម​កម្មវិធី​ជំនួយ​ឡើងវិញ ដើម្បី​ដំណើរការ ។">
 
 <!ENTITY missingPlugin                                       "ត្រូវការ​កម្មវិធី​ជំនួយ​ដើម្បី​បង្ហាញ​មាតិកា​នេះ ។">
-<!ENTITY clickToPlayPlugin                                   "ចុច ទីនេះ​ដើម្បី​ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​សកម្ម ។">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "ចុច ទីនេះ​ដើម្បី​ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​សកម្ម ។">
+<!ENTITY clickToPlayPlugins                                  "ចុច​ទីនេះ​ដើម្បី​ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​សកម្ម។">
 <!ENTITY disabledPlugin                                      "កម្មវិធី​ជំនួយ​នេះ​ត្រូវ​បាន​បិទ ។">
 <!ENTITY blockedPlugin.label                                 "កម្មវិធី​ជំនួយ​នេះ​ត្រូវ​បាន​ទប់ស្កាត់​សម្រាប់​ការ​ការពារ​របស់​អ្នក ។">
 

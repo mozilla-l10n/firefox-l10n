@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "ឯកសារ">
+<!ENTITY fileMenu.accesskey                 "ឯ">
+
+<!ENTITY quitApplicationCmdWin.label        "ចេញ">
+<!ENTITY quitApplicationCmdWin.accesskey    "ច">
+<!ENTITY quitApplicationCmd.label           "បិទ">
+<!ENTITY quitApplicationCmd.accesskey       "ទ">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "លាក់​ផ្សេងៗ​ទៀត">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "បង្ហាញទាំងអស់">
+
+<!ENTITY editMenu.label                     "កែសម្រួល">
+<!ENTITY editMenu.accesskey                 "ក">
+<!ENTITY undoCmd.label                      "មិនធ្វើវិញ">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "ម">
+<!ENTITY redoCmd.label                      "ធ្វើ​វិញ">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "ធ">
+<!ENTITY cutCmd.label                       "កាត់">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "ក">
+<!ENTITY copyCmd.label                      "ចម្លង">
+<!ENTITY copyCmd.key                        "ច">
+<!ENTITY copyCmd.accesskey                  "ច">
+<!ENTITY pasteCmd.label                     "បិទភ្ជាប់">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "ប">
+<!ENTITY deleteCmd.label                    "លុប">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "ល">
+<!ENTITY selectAllCmd.label                 "ជ្រើស​ទាំងអស់">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "អ">
+
