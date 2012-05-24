@@ -85,3 +85,5 @@
 <!ENTITY  permIndexedDB              "ऑफलाइन स्टोरेज जपवा">
 <!ENTITY  permClearStorage           "स्टोरेज नष्ट करा">
 <!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permPlugins           "प्लगइन्स् सुरू करा">
+
