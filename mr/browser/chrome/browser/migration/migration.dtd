@@ -31,8 +31,12 @@
 <!ENTITY done.label "खालील घटक यशस्वीरित्या वाचले गेले:">
 
 <!ENTITY noMigrationSources.label       "ओळखचिन्ह, इतिहास किंवा गुप्तशब्द विषयी माहिती देणारे कुठलेही कार्यक्रम आढळले नाही.">
+
+<!--
 <!ENTITY importFromHTMLFile.label       "HTML फाइल पासून">
 <!ENTITY importFromHTMLFile.accesskey   "F">
+-->
+
 <!ENTITY importFromChrome.label         "क्रोम">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "फायरफॉक्स">
