@@ -32,3 +32,7 @@
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
 <!ENTITY debuggerUI.propertiesTitle  "स्कोप वेरियेबल्स्">
+<!ENTITY debuggerUI.stepOverButton   "स्टेप ओवर">
+<!ENTITY debuggerUI.stepInButton     "स्टेप इन">
+<!ENTITY debuggerUI.stepOutButton    "स्टेप आउट">
+
