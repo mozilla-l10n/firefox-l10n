@@ -16,7 +16,7 @@
 <!ENTITY enableAppUpdate.accesskey "F">
 -->
 <!ENTITY 	enableSearchUpdate.label "शोधयंत्र">
-<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY enableSearchUpdate.accesskey "E">
 
 <!--
 <!ENTITY whenUpdatesFound.label "जेव्हा &brandShortName; साठी सुधारीत आवृत्ती सापडेलः">
@@ -117,7 +117,7 @@
 -->
 
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY submitCrashes.label             "क्रॅश अहवाल सादर करा ">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY limitCacheSizeBefore.label      "कॅशे याप्रमाणे मर्यादीत करा">
