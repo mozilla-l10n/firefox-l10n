@@ -37,7 +37,7 @@
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
 <!ENTITY clearOfflineAppCacheNow.label "Limpiar ahora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "L">
+<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label "Ignorar la administración automática de caché">
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 <!ENTITY updateTab.label "Actualizar">
@@ -53,7 +53,7 @@
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey "h">
 <!ENTITY useService.label "Usar un servicio de fondo para instalar actualizaciones">
-<!ENTITY useService.accesskey "z">
+<!ENTITY useService.accesskey "p">
 <!ENTITY updateOthers.label "Actualización automática:">
 <!ENTITY enableSearchUpdate.label "Buscadores">
 <!ENTITY enableSearchUpdate.accesskey "b">
