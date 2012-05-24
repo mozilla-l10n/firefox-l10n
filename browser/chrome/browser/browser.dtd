@@ -610,7 +610,11 @@
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 <!ENTITY inspectorHTMLDelete.label          "नोड नष्ट करा">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!--
 <!ENTITY htmlPanel.label              "HTML">
 <!ENTITY htmlPanel.tooltiptext        "HTML पटल">
 <!ENTITY htmlPanel.accesskey          "H">
+-->
+<!ENTITY markupButton.arialabel          "मार्कअप">
+<!ENTITY markupButton.accesskey          "M">
 
