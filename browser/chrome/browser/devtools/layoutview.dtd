@@ -8,14 +8,14 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY elementSize.label      "Element Size: ">
+<!ENTITY elementSize.label      "एलिमेंटचा आकार: ">
 
 
 <!-- LOCALIZATION NOTE (*.tooltip): These tooltips are not regular tooltips.
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
 
-<!ENTITY margins.tooltip        "margins">
-<!ENTITY borders.tooltip        "borders">
-<!ENTITY padding.tooltip        "padding">
-<!ENTITY content.tooltip        "content">
+<!ENTITY margins.tooltip        "समास">
+<!ENTITY borders.tooltip        "किनार">
+<!ENTITY padding.tooltip        "पॅडिंग">
+<!ENTITY content.tooltip        "अंतर्भूत माहिती">
