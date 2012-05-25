@@ -40,14 +40,20 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "複製">
-<!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "全選">
-<!ENTITY  selectall.accesskey   "A">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "複製">
+<!ENTITY  copy.accesskey         "C">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "全選">
+<!ENTITY  selectall.accesskey    "A">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
+<!ENTITY  copyLinks.label           "複製鏈結">
+<!ENTITY  copyLinks.accesskey       "L">
+<!ENTITY  openInNewTab.label        "以新分頁開啟">
+<!ENTITY  openInNewTab.accesskey    "T">
+<!ENTITY  openInNewWindow.label     "開啟至新視窗">
+<!ENTITY  openInNewWindow.accesskey "w">
 
 <!ENTITY  generalTab            "一般">
 <!ENTITY  generalTab.accesskey  "G">

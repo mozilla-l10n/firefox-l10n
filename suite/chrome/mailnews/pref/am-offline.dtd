@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "為節省磁碟空間，不下載:">
-<!ENTITY doNotDownloadNntp.label "為節省磁碟空間，不下載供離線閱讀:">
+<!ENTITY doNotDownloadNntp.label "為節省磁碟空間，不下載下列郵件供離線閱讀:">
 <!ENTITY doNotDownloadImap.label "為了節省磁碟空間，可以用郵件大小與時間過濾是否下載或保留從伺服器下載的郵件與本地端離線存檔。">
 <!ENTITY allFoldersOffline.label "在這台電腦上保留這個帳號的郵件">
 <!ENTITY allFoldersOffline.accesskey "o">
@@ -14,7 +14,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "存放過久的文章:">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，舊郵件或文章可以永遠刪除">
+<!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，可以永遠刪除舊郵件或文章。">
 <!ENTITY retentionCleanupImap.label "欲回復磁碟空間，可以永久刪除舊郵件的本機副本和遠端的原始郵件。">
 <!ENTITY retentionCleanupPop.label "欲回復磁碟空間，可以永久刪除舊郵件的本機副本和遠端的原始郵件。">
 <!ENTITY retentionKeepMsg.label "刪除存放超過">
