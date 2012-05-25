@@ -75,14 +75,14 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "M">
 
 <!ENTITY updateHistory.label             "Afficher l'historique des mises à jour">
-<!ENTITY updateHistory.accesskey         "A">
+<!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Utiliser un service en arrière-plan pour installer les mises à jour">
 <!ENTITY useService.accesskey            "s">
 
 <!ENTITY updateOthers.label              "Mettre à jour automatiquement :">
 <!ENTITY enableSearchUpdate.label        "les moteurs de recherche">
-<!ENTITY enableSearchUpdate.accesskey    "m">
+<!ENTITY enableSearchUpdate.accesskey    "r">
 
 <!ENTITY offlineNotify.label             "Avertir lorsqu'un site souhaite conserver des données pour une utilisation hors connexion">
 <!ENTITY offlineNotify.accesskey         "T">
