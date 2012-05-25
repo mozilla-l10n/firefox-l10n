@@ -5,7 +5,7 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
+<!ENTITY  awesomebar_all_pages_title "Más visitados">
 <!ENTITY  awesomebar_bookmarks_title "Marcadores">
 <!ENTITY  awesomebar_history_title "Historial">
 <!ENTITY  awesomebar_search_engine "Buscar \&quot;&#037;s\&quot;">
@@ -124,9 +124,9 @@
 <!ENTITY abouthome_addons_browse "Examinar todos los complementos de &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Tus pestañas de la última vez">
 <!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
-<!ENTITY abouthome_no_top_sites "You do no have any top sites yet. Tap the Title bar to start browsing.">
+<!ENTITY abouthome_top_sites_title "Más visitados">
+<!ENTITY abouthome_top_sites_browse "Ver todos los más visitados">
+<!ENTITY abouthome_no_top_sites "Todavía no tenés sitios más visitados. Pulsá la barra de título para empezar a navegar.">
 <!ENTITY abouthome_about_sync "Configurá Firefox Sync para acceder a tus marcadores, historial y pestañas desde tus otros dispositivos">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
