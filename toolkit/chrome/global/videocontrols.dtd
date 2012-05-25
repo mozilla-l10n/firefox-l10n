@@ -21,8 +21,8 @@
 <!ENTITY stats.framesPainted "Frames picturads">
 
 <!ENTITY error.aborted "Fermà il chargiar dal video.">
-<!ENTITY error.network "La reproducziun dal video è vegnida interrutta pervia dad ina errur da rait.">
-<!ENTITY error.decode "Impussibel  da far ir il video perquai che la datoteca è donnegiada.">
+<!ENTITY error.network "La reproducziun dal video è interrutta pervia dad ina errur da rait.">
+<!ENTITY error.decode "Impussibel da far ir il video perquai che la datoteca è donnegiada.">
 <!ENTITY error.srcNotSupported "Il format dal video u tip da MIME na vegn betg sustegnì.">
 <!ENTITY error.noSource2 "Betg chattà in video cun in format e tip da MIME sustegnì.">
 <!ENTITY error.generic "Interrut la reproducziun dal video pervia d'ina errur nunenconuschenta.">
