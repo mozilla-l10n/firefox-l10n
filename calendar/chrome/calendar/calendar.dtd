@@ -70,20 +70,33 @@
 <!ENTITY calendar.events.filter.next31Days.label "31 天內的事件">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "本月事件">
 
-<!ENTITY calendar.unifinder.tree.done.label          "完成">
-<!ENTITY calendar.unifinder.tree.priority.label      "重要性">
-<!ENTITY calendar.unifinder.tree.title.label         "標題">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; 完成">
-<!ENTITY calendar.unifinder.tree.startdate.label     "開始時間">
-<!ENTITY calendar.unifinder.tree.enddate.label       "結束時間">
-<!ENTITY calendar.unifinder.tree.duedate.label       "期限">
-<!ENTITY calendar.unifinder.tree.completeddate.label "完成">
-<!ENTITY calendar.unifinder.tree.categories.label    "類別">
-<!ENTITY calendar.unifinder.tree.location.label      "地點">
-<!ENTITY calendar.unifinder.tree.status.label        "狀態">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "行事曆名稱">
-<!ENTITY calendar.unifinder.tree.duration.label      "緣由">
-<!ENTITY calendar.unifinder.close.tooltip            "關閉搜尋事件與事件清單">
+<!ENTITY calendar.unifinder.tree.done.label              "完成">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "點下以依照完成狀態排序">
+<!ENTITY calendar.unifinder.tree.priority.label          "重要性">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "點下以依照優先程度排序">
+<!ENTITY calendar.unifinder.tree.title.label             "標題">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "點下以依照標題排序">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; 完成">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "點下以依照完成百分比排序">
+<!ENTITY calendar.unifinder.tree.startdate.label         "開始時間">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "點下以依照開始日期排序">
+<!ENTITY calendar.unifinder.tree.enddate.label           "結束時間">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "點下以依照結束日期排序">
+<!ENTITY calendar.unifinder.tree.duedate.label           "期限">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "點下以依照到期日期排序">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "完成">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "點下以依照完成日期排序">
+<!ENTITY calendar.unifinder.tree.categories.label        "類別">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "點下以依照分類排序">
+<!ENTITY calendar.unifinder.tree.location.label          "地點">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "點下以依照位置排序">
+<!ENTITY calendar.unifinder.tree.status.label            "狀態">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "點下以依照狀態排序">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "行事曆名稱">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "點下以依照行事曆名稱排序">
+<!ENTITY calendar.unifinder.tree.duration.label          "緣由">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "點下以依照至期限的剩餘時間排序">
+<!ENTITY calendar.unifinder.close.tooltip                "關閉搜尋事件與事件清單">
 
 <!ENTITY calendar.today.button.tooltip          "前往今日" >
 <!ENTITY calendar.todaypane.button.tooltip      "前往今日窗格" >

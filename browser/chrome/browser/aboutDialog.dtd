@@ -69,6 +69,8 @@
 <!ENTITY update.downloading.start   "正在下載更新 — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "正在套用更新…">
+
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
