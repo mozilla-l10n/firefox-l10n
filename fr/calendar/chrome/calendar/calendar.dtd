@@ -70,28 +70,41 @@
 <!ENTITY calendar.events.filter.next31Days.label "Événements des 31 prochains jours">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Événements du mois en cours">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Terminé">
-<!ENTITY calendar.unifinder.tree.priority.label      "Priorité">
-<!ENTITY calendar.unifinder.tree.title.label         "Titre">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "Progression">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Début">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Fin">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Prévu">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Achevé">
-<!ENTITY calendar.unifinder.tree.categories.label    "Catégorie">
-<!ENTITY calendar.unifinder.tree.location.label      "Lieu">
-<!ENTITY calendar.unifinder.tree.status.label        "Statut">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Nom de l'agenda">
-<!ENTITY calendar.unifinder.tree.duration.label      "Terminé en">
-<!ENTITY calendar.unifinder.close.tooltip            "Fermer la liste de recherche d'événements et la liste des événements">
+<!ENTITY calendar.unifinder.tree.done.label              "Terminé">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Cliquer pour trier par échéance">
+<!ENTITY calendar.unifinder.tree.priority.label          "Priorité">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Cliquer pour trier par priorité">
+<!ENTITY calendar.unifinder.tree.title.label             "Titre">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Cliquer pour trier par titre">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "Progression">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Cliquer pour trier par progression">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Début">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Cliquer pour trier par date de début">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Fin">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Cliquer pour trier par date de fin">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Prévu">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Cliquer pour trier par date de fin prévue">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "Achevé">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Cliquer pour trier par achèvement">
+<!ENTITY calendar.unifinder.tree.categories.label        "Catégorie">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Cliquer pour trier par catégorie">
+<!ENTITY calendar.unifinder.tree.location.label          "Lieu">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Cliquer pour trier par lieu">
+<!ENTITY calendar.unifinder.tree.status.label            "État">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Cliquer pour trier par état">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Nom de l'agenda">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Cliquer pour trier par nom de l'agenda">
+<!ENTITY calendar.unifinder.tree.duration.label          "Terminé dans">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Cliquer pour trier par temps restant">
+<!ENTITY calendar.unifinder.close.tooltip                "Fermer la liste de recherche d'événements et la liste des événements">
 
-<!ENTITY calendar.today.button.tooltip            "Revenir à la date d'aujourd'hui" >
-<!ENTITY calendar.todaypane.button.tooltip        "Afficher le panneau Aujourd'hui" >
+<!ENTITY calendar.today.button.tooltip          "Revenir à la date d'aujourd'hui" >
+<!ENTITY calendar.todaypane.button.tooltip      "Afficher le panneau Aujourd'hui" >
 
-<!ENTITY calendar.day.button.tooltip          "Afficher la journée" >
-<!ENTITY calendar.week.button.tooltip         "Afficher la semaine" >
-<!ENTITY calendar.month.button.tooltip        "Afficher le mois" >
-<!ENTITY calendar.multiweek.button.tooltip    "Afficher plusieurs semaines" >
+<!ENTITY calendar.day.button.tooltip            "Afficher la journée" >
+<!ENTITY calendar.week.button.tooltip           "Afficher la semaine" >
+<!ENTITY calendar.month.button.tooltip          "Afficher le mois" >
+<!ENTITY calendar.multiweek.button.tooltip      "Afficher plusieurs semaines" >
 
 <!ENTITY calendar.nextday.label                 "Jour suivant" >
 <!ENTITY calendar.prevday.label                 "Jour précédent" >
