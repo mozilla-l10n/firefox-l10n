@@ -14,7 +14,7 @@
 <!ENTITY browsing.label                  "Navigaziun">
 
 <!ENTITY useAutoScroll.label             "Activar la defilada automatica">
-<!ENTITY useAutoScroll.accesskey         "A">
+<!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Activar la defilada cuntinuanta">
 <!ENTITY useSmoothScrolling.accesskey    "n">
 <!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
@@ -64,7 +64,7 @@
 <!ENTITY updateTab.label                 "Actualisaziun">
 <!ENTITY updateApp.label                 "Actualisaziuns da &brandShortName;:">
 <!ENTITY updateAuto.label                "Installar automaticamain las actualisaziuns (recumandà, pli segir)">
-<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateAuto.accesskey            "I">
 <!ENTITY updateCheck.label               "Tschertgar actualisaziuns, dentant dumandar sch'ellas duain vegnir installadas">
 <!ENTITY updateCheck.accesskey           "T">
 <!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
@@ -84,7 +84,7 @@
 <!ENTITY enableSearchUpdate.accesskey    "i">
 
 <!ENTITY offlineNotify.label             "Dumandar ina conferma, sche websites vulan memorisar datas per l'utilisaziun en il modus offline.">
-<!ENTITY offlineNotify.accesskey         "n">
+<!ENTITY offlineNotify.accesskey         "v">
 <!ENTITY offlineNotifyExceptions.label   "Excepziuns...">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
