@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Datoteca">
+<!ENTITY fileMenu.accesskey                 "D">
+
+<!ENTITY quitApplicationCmdWin.label        "Serrar">
+<!ENTITY quitApplicationCmdWin.accesskey    "r">
+<!ENTITY quitApplicationCmd.label           "Terminar">
+<!ENTITY quitApplicationCmd.accesskey       "T">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Zuppentar auters">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Mussar tuts">
+
+<!ENTITY editMenu.label                     "Modifitgar">
+<!ENTITY editMenu.accesskey                 "M">
+<!ENTITY undoCmd.label                      "Revocar">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "v">
+<!ENTITY redoCmd.label                      "Restituir">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "s">
+<!ENTITY cutCmd.label                       "Tagliar ora">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "g">
+<!ENTITY copyCmd.label                      "Copiar">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY pasteCmd.label                     "Encollar">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "l">
+<!ENTITY deleteCmd.label                    "Stizzar">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "s">
+<!ENTITY selectAllCmd.label                 "Selecziunar tut">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "t">

@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Metter cookies">
 <!ENTITY  permInstall           "Intallar extensiuns u designs">
 <!ENTITY  permGeo               "Trametter mia posiziun geografica">
+<!ENTITY  permPlugins           "Activar plug-ins">
 
 <!ENTITY  permIndexedDB              "Preservar ina memoria offline">
 <!ENTITY  permClearStorage           "Stizzar la memoria">
