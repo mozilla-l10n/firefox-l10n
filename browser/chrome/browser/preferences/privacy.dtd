@@ -65,7 +65,7 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Memorisar la cronologia dal navigar e da las telechargiadas">
-<!ENTITY  rememberHistory2.accesskey  "c">
+<!ENTITY  rememberHistory2.accesskey  "r">
 
 <!ENTITY  rememberSearchForm.label       "Memorisar las endataziuns en champs da tschertgar ed en formulars">
 <!ENTITY  rememberSearchForm.accesskey   "f">

@@ -12,7 +12,7 @@
 <!ENTITY  blockAttackSites.accesskey "t">
 
 <!ENTITY  blockWebForgeries.label     "Bloccar ina website, sch'ella è annunziada sco emprova d'engion">
-<!ENTITY  blockWebForgeries.accesskey "e">
+<!ENTITY  blockWebForgeries.accesskey "g">
 
 <!ENTITY  addonExceptions.label         "Excepziuns…">
 <!ENTITY  addonExceptions.accesskey     "E">
