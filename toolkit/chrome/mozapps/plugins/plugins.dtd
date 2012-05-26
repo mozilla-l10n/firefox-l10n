@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; sto vegnir reavià, per ch'ils plug-ins installads funcziunian.">
 
 <!ENTITY missingPlugin                                       "In plug-in sto vegnir installà per mussar quest cuntegn.">
-<!ENTITY clickToPlayPlugin                                   "Clicca qua per activar il plug-in.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Smatga qua per activar il plug-in.">
+<!ENTITY clickToPlayPlugins                                  "Clicca qua per activar ils plug-ins.">
 <!ENTITY disabledPlugin                                      "Quest plug-in è deactivà.">
 <!ENTITY blockedPlugin.label                                 "Quest plug-in è vegnì bloccà per ta proteger.">
 
