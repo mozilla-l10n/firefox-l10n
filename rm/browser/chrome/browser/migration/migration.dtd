@@ -15,8 +15,6 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromHTMLFile.label       "Or d'ina datoteca HTML">
-<!ENTITY importFromHTMLFile.accesskey   "d">
 
 <!ENTITY noMigrationSources.label       "Impussibel da chattar in program che cuntegna datas davart ils segnapaginas, la cronologia u ils pleds-clav.">
 

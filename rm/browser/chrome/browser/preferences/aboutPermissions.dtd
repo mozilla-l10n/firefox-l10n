@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "Trametter mia posiziun geografica">
 
+<!ENTITY plugins.label                   "Plug-ins">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Preservar ina memoria offline">
