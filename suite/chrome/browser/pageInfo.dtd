@@ -2,14 +2,20 @@
 <!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 38em;">
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Копировать">
-<!ENTITY copy.accesskey "К">
+<!ENTITY copy.accesskey "п">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Выделить всё">
 <!ENTITY selectall.accesskey "в">
 <!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "w">
+<!ENTITY copyLinks.label "Копировать ссылку(и)">
+<!ENTITY copyLinks.accesskey "и">
+<!ENTITY openInNewTab.label "Открыть в новой вкладке">
+<!ENTITY openInNewTab.accesskey "т">
+<!ENTITY openInNewWindow.label "Открыть в новом окне">
+<!ENTITY openInNewWindow.accesskey "к">
 <!ENTITY generalTab "Основная">
-<!ENTITY generalTab.accesskey "О">
+<!ENTITY generalTab.accesskey "а">
 <!ENTITY generalURL "Адрес:">
 <!ENTITY generalType "Тип:">
 <!ENTITY generalMode "Тип визуализации:">
@@ -23,7 +29,7 @@
 <!ENTITY generalSecurityDetails "Подробнее">
 <!ENTITY generalSecurityDetails.accesskey "о">
 <!ENTITY formsTab "Формы">
-<!ENTITY formsTab.accesskey "о">
+<!ENTITY formsTab.accesskey "ы">
 <!ENTITY formAction "Обработчик">
 <!ENTITY formMethod "Метод">
 <!ENTITY formName "Имя">
@@ -35,14 +41,14 @@
 <!ENTITY formType "Тип">
 <!ENTITY formCValue "Текущее значение">
 <!ENTITY linksTab "Ссылки">
-<!ENTITY linksTab.accesskey "С">
+<!ENTITY linksTab.accesskey "с">
 <!ENTITY linkName "Имя">
 <!ENTITY linkAddress "Адрес">
 <!ENTITY linkType "Тип">
 <!ENTITY linkTarget "Целевой объект">
 <!ENTITY linkAccessKey "Клавиша доступа">
 <!ENTITY mediaTab "Мультимедиа">
-<!ENTITY mediaTab.accesskey "М">
+<!ENTITY mediaTab.accesskey "л">
 <!ENTITY mediaURL "Адрес:">
 <!ENTITY mediaAlt "Альтернативный текст:">
 <!ENTITY mediaAltHeader "Альтернативный текст">
@@ -90,8 +96,8 @@
 <!ENTITY securityView.privacy.history "Посещал ли я этот веб-сайт до сегодняшнего дня?">
 <!ENTITY securityView.privacy.cookies "Хранит ли этот веб-сайт информацию (куки) на моём компьютере?">
 <!ENTITY securityView.privacy.viewCookies "Просмотреть куки">
-<!ENTITY securityView.privacy.viewCookies.accessKey "с">
+<!ENTITY securityView.privacy.viewCookies.accessKey "о">
 <!ENTITY securityView.privacy.passwords "Сохранял ли я для этого веб-сайта какие-либо пароли?">
 <!ENTITY securityView.privacy.viewPasswords "Просмотреть сохранённые пароли">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "с">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "м">
 <!ENTITY securityView.technical.header "Технические детали">
