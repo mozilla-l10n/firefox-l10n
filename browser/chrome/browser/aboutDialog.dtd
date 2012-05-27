@@ -28,5 +28,6 @@
 <!ENTITY update.manual.end "">
 <!ENTITY update.downloading.start "Download aggiornamento — ">
 <!ENTITY update.downloading.end "">
+<!ENTITY update.applying "Installazione aggiornamento…">
 <!ENTITY channel.description.start "Canale di aggiornamento attuale: ">
 <!ENTITY channel.description.end ". ">
