@@ -63,8 +63,6 @@
 <!ENTITY imagemapBox.label "ਚਿੱਤਰ ਖਾਕਾ">
 <!ENTITY removeImageMapButton.label "ਹਟਾਓ">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "ਸੋਧ...">
-<!ENTITY editImageMapButton.tooltip "ਇਸ ਚਿੱਤਰ ਤੇ ਦੱਬਣਯੋਗ ਧੱਬੇ ਬਣਾਉ">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "ਚਿੱਤਰ ਅਤੇ ਪਾਠ ਇਕਸਾਰ">
@@ -87,6 +85,9 @@
 <!ENTITY showImageLinkBorder.label "ਲਿੰਕ ਚਿੱਤਰ ਦੁਆਲੇ ਚਿੱਤਰ ਦਿਓ">
 <!ENTITY showImageLinkBorder.accessKey "B">
 
+<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "ਫਾਰਮ">

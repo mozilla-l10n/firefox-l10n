@@ -1,18 +1,33 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "ਫੀਡ ਮੈਂਬਰੀ">
-<!ENTITY subscriptionDesc.label "ਸੂਚਨਾ: ਫੀਡ ਲਈ ਫੋਲਡਰ ਹਟਾਉਣ ਜਾਂ ਬਦਲਣ ਨਾਲ ਪਹਿਲਾਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਫੋਲਡਰਾਂ ਉੱਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ ਹੈ।">
-<!ENTITY feedTitle.label "ਟਾਈਟਲ:">
-<!ENTITY location.label  "ਟਿਕਾਣਾ:">
+<!ENTITY feedSubscriptions.label     "Feed Subscriptions">
+<!ENTITY subscriptionDesc.label      "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
 
-<!ENTITY button.addFeed.label       "ਸ਼ਾਮਿਲ">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "ਸੋਧ">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "ਹਟਾਓ">
-<!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "ਇੰਪੋਰਟ">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "ਐਕਸਪੋਰਟ">
-<!ENTITY button.exportOPML.accesskey   "X">
- 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedTitle.label             "Title:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+
+<!ENTITY feedFolder.label            "Store Articles in:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY locationValidate.label      "Validate">
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+
+<!ENTITY button.addFeed.label        "Add">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Update">
+<!ENTITY button.editFeed.accesskey   "U">
+<!ENTITY button.removeFeed.label     "Remove">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label     "Import">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Export">
+<!ENTITY button.exportOPML.accesskey "X">
+
+<!ENTITY cmd.close.commandKey        "w">
+

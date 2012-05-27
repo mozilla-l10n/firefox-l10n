@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "ਜੰਕ ਮੇਲ ਲਾਗ">
-<!ENTITY junkLogInfo.label "ਜੰਕ ਮੇਲ ਕੰਟਰੋਲ ਸਰਗਰਮੀ ਲਈ ਲਾਗ ਹੈ">
+<!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
+<!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
 <!ENTITY clearLog.label "ਲਾਗ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY closeLog.label "ਬੰਦ ਕਰੋ">
