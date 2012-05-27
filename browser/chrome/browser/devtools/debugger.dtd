@@ -2,10 +2,10 @@
 <!ENTITY remoteDebuggerMenu.label "Удалённый отладчик">
 <!ENTITY chromeDebuggerMenu.label "Отладчик браузера">
 <!ENTITY debuggerMenu.commandkey "S">
-<!ENTITY debuggerUI.closeButton "Закрыть">
-<!ENTITY debuggerUI.stepOverButton "Перешагнуть">
-<!ENTITY debuggerUI.stepInButton "Зайти">
-<!ENTITY debuggerUI.stepOutButton "Выйти">
+<!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
+<!ENTITY debuggerUI.stepOverButton.tooltip "Перешагнуть">
+<!ENTITY debuggerUI.stepInButton.tooltip "Зайти">
+<!ENTITY debuggerUI.stepOutButton.tooltip "Выйти">
 <!ENTITY debuggerUI.stackTitle "Стек вызовов">
 <!ENTITY debuggerUI.scriptTitle "Сценарий">
 <!ENTITY debuggerUI.propertiesTitle "Переменные по области действия">
