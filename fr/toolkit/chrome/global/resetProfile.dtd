@@ -4,7 +4,7 @@
 
 <!ENTITY resetProfile.dialog.title        "Réinitialiser &brandShortName;">
 <!ENTITY resetProfile.dialog.description  "Voulez-vous vraiment revenir aux valeurs par défaut de Firefox ?">
-<!ENTITY resetProfile.dialog.items.label  "Les éléments suivants seront conservés :">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; s'efforcera de conserver les éléments suivants :">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; redémarrera et tout le reste sera supprimé.">
 <!ENTITY resetProfile.dialog.button.label "Réinitialiser &brandShortName;">
 
