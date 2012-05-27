@@ -79,18 +79,26 @@
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "ਟੂਲਬਾਰ">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "Menu Bar">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "ਐਡਰੈੱਸ ਬੁੱਕ ਟੂਲਬਾਰ">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "ਹਾਲਤ-ਪੱਟੀ">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "ਪਸੰਦ…">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showContactPane.label                          "ਸੰਪਰਕ ਸੰਖੇਪ ਬਾਹੀ">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "Layout">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "Directory Pane">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Contact Pane">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "ਨਾਂ ਇੰਝ ਵੇਖੋ">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "ਪਹਿਲਾਂ, ਆਖਰੀ">
-<!ENTITY firstLastCmd.accesskey                         "f"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "First Last">
+<!ENTITY firstLastCmd2.accesskey                        "f"> 
 <!ENTITY lastFirstCmd.label                             "ਆਖਰੀ, ਪਹਿਲਾਂ">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "ਵੇਖਾਉਣ ਨਾਂ">

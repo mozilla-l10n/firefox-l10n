@@ -1,5 +1,5 @@
 <!ENTITY window.title "ਫਿਲਟਰ ਨਿਯਮ">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "ਫਿਲਟਰ ਨਾਂ:">
 <!ENTITY filterName.accesskey "i">
 
@@ -29,6 +29,7 @@
 <!ENTITY forwardTo.label "ਸੁਨੇਹਾ ਅੱਗੇ ਭੇਜੋ">
 <!ENTITY replyWithTemplate.label "ਟੈਪਲੇਟ ਨਾਲ ਜਵਾਬ">
 <!ENTITY markMessageRead.label "ਪੜ੍ਹਿਆ ਮਾਰਕ ਕਰੋ">
+<!ENTITY markMessageUnread.label "Mark As Unread">
 <!ENTITY markMessageStarred.label "ਤਾਰਾ ਸ਼ਾਮਲ">
 <!ENTITY setPriority.label "ਤਰਜੀਹ ਸੈੱਟ ਕਰੋ">
 <!ENTITY addTag.label "ਸੁਨੇਹਾ ਟੈਗ ਕਰੋ">
@@ -40,3 +41,8 @@
 <!ENTITY ignoreSubthread.label "ਸਬ-ਥਰਿੱਡ ਅਣਡਿੱਠਾ">
 <!ENTITY watchThread.label "ਥਰਿੱਡ ਨਿਗਰਾਨੀ">
 <!ENTITY stopExecution.label "ਫਿਲਟਰ ਚਲਾਉਣਾ ਰੋਕੋ">
+
+
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY removeAction.tooltip "Remove this action">
+

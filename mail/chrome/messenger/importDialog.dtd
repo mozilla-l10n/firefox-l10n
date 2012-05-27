@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "ਟਾਈਟਲ">
 <!ENTITY processing.label         "ਇੰਪੋਰਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
-<!ENTITY FieldDiscInputText2.label  "Select the category in which you want to store the imported mailing addresses:">
-<!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
-<!ENTITY importHome.label        "ਘਰ">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "ਕੰਮ">
-<!ENTITY importWork.accesskey    "W">

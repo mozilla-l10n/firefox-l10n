@@ -25,7 +25,15 @@
 <!ENTITY draftsFolderOn.label "&quot;ਡਰਾਫਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "ਹੋਰ:">
-<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY draftInOtherFolder.accesskey "O">
+
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Message Archives">
+<!ENTITY keepArchives.label "ਸੁਨੇਹਾ ਅਕਾਇਵ ਵਿੱਚ ਰੱਖੋ:">
+<!ENTITY keepArchives.accesskey "K">
+<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "&quot;ਅਕਾਇਵ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY archivesFolderOn.accesskey "D">
@@ -33,10 +41,11 @@
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;ਟੈਪਲੇਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn.accesskey "n">
 <!ENTITY templateInOtherFolder.label "ਹੋਰ:">
-<!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "ਡਰਾਫਟ, ਅਕਾਇਵ, ਅਤੇ ਟੈਪਲੇਟ">
+<!ENTITY templateInOtherFolder.accesskey "h">
+<!ENTITY specialFolders.label "Drafts and Templates">
 <!ENTITY keepDrafts.label "ਸੁਨੇਹਾ ਡਰਾਫਟ ਵਿੱਚ ਰੱਖੋ:">
-<!ENTITY keepArchives.label "ਸੁਨੇਹਾ ਅਕਾਇਵ ਵਿੱਚ ਰੱਖੋ:">
-<!ENTITY keepTempltes.label "ਸੁਨੇਹਾ ਟੈਪਲੇਟ ਵਿੱਚ ਰੱਖੋ:">
+
+
+<!ENTITY keepTemplates.label "Keep message templates in:">
