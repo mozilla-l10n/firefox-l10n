@@ -1,5 +1,9 @@
 <!ENTITY addons.windowTitle                   "ਐਡ-ਆਨ ਮੈਨੇਜਰ">
 <!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
 <!ENTITY listEmpty.installed.label            "ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਕਿਸਮ ਦੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ">
 <!ENTITY listEmpty.availableUpdates.label     "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਲੱਭਿਆ">
@@ -23,15 +27,15 @@
 <!ENTITY warning.updatesecurity.enable.label       "ਚਾਲੂ">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ">
 
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "ਖੋਜ">
 <!ENTITY view.discover.label                  "ਐਡ-ਆਨ ਲਵੋ">
-<!ENTITY view.locales.label                   "ਭਾਸ਼ਾਵਾਂ">
-<!ENTITY view.searchengines.label             "ਖੋਜ ਇੰਜਣ">
-<!ENTITY view.features.label                  "ਇਕਸਟੈਨਸ਼ਨ">
-<!ENTITY view.appearance2.label               "ਦਿੱਖ">
-<!ENTITY view.plugins.label                   "ਪਲੱਗਇਨ">
+
 <!ENTITY view.recentUpdates.label             "ਤਾਜ਼ਾ ਅੱਪਡੇਟ">
 <!ENTITY view.availableUpdates.label          "ਉਪਲੱਬਧ ਅੱਪਡੇਟ">
 
@@ -184,3 +188,6 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "…ਮਨਜ਼ੂਰ ਤੇ ਇੰਸਟਾਲ">
+
+<!ENTITY settings.path.button.label           "ਝਲਕ…">
+
