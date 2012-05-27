@@ -2,10 +2,10 @@
 <!ENTITY remoteDebuggerMenu.label "Debug remoto">
 <!ENTITY chromeDebuggerMenu.label "Debug browser">
 <!ENTITY debuggerMenu.commandkey "S">
-<!ENTITY debuggerUI.closeButton "Chiudi">
-<!ENTITY debuggerUI.stepOverButton "Ignora">
-<!ENTITY debuggerUI.stepInButton "Entra">
-<!ENTITY debuggerUI.stepOutButton "Esci">
+<!ENTITY debuggerUI.closeButton.tooltip "Chiudi">
+<!ENTITY debuggerUI.stepOverButton.tooltip "Ignora">
+<!ENTITY debuggerUI.stepInButton.tooltip "Entra">
+<!ENTITY debuggerUI.stepOutButton.tooltip "Esci">
 <!ENTITY debuggerUI.stackTitle "Stack chiamata">
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ambito variabili">
