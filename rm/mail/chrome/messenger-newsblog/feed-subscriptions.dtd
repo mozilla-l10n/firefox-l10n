@@ -14,6 +14,7 @@
 <!ENTITY quickMode.label             "Mussar la resumaziun da l'artitgel empè da chargiar la website">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Controllar la validaziun e retschaiver ina URL valida.">
 
 <!ENTITY button.addFeed.label        "Agiuntar">

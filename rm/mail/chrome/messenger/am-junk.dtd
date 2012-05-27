@@ -1,6 +1,6 @@
 <!ENTITY junkSettings.label "Configuraziun per e-mails nungiavischads">
 <!ENTITY trainingWarning.label "Sch'il filter per e-mails nungiavischads è activà, sto el vegnir trenà uschia che e-mails nungiavischads (Junk/Spam) vegnan identifitgads cun il temp cun auta probabilitad. Utilisescha ils buttuns &quot;Nungiavischà&quot; resp. &quot;Betg nungiavischà&quot; en la trav da simbols per classifitgar endretg messadis ch'è n'èn betg vegnids identifitgads a moda correcta.">
-<!ENTITY level.label "Activar en quest conto il filter per e-mails nungiavischads">
+<!ENTITY level.label "Activar en quest conto il filter intelligent per e-mails nungiavischads">
 <!ENTITY level.accesskey "E">
 
 <!ENTITY move.label "Spustar novs messadis nungiavischads en:">

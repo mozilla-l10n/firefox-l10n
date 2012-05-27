@@ -66,6 +66,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Respunder al speditur ed a tut ils destinaturs">
 <!ENTITY hdrReplyListButton1.label "Respunder a la glista">
 <!ENTITY hdrReplyListButton1.tooltip "Respunder a la glista dad e-mail">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Trametter in followup a questa gruppa da discussiun">
 <!ENTITY hdrForwardButton1.label "Renviar">
 <!ENTITY hdrForwardButton1.tooltip "Renviar quest messadi">
 <!ENTITY hdrJunkButton1.label "Nungiavischà">

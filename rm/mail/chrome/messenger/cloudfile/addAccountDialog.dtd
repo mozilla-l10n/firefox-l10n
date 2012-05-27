@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Num dal conto:">
 <!ENTITY addAccountDialog.noAccountText "Perstgisa, ma la versiun actuala da &brandShortName; lubescha be in conto da mintga servetsch da memoria online.">
-<!ENTITY addAccountDialog.createAccountText "Questa funcziun ta permetta da trametter grondas datotecas cun utilisar in dals numerus servetschs da memoria online. Ti pos connectar cun in conto existent u t'annunziar per in conto nov.">
+<!ENTITY addAccountDialog.createAccountText2 "Ti sas trametter grondas agiuntas cun utilisar differents servetschs da memoria online. Configurescha u in conto existent u t'annunzia per in conto nov.">
 <!ENTITY addAccountDialog.authorizing "Controllar l'autorisaziun...">
 <!ENTITY addAccountDialog.error "Ina errur è cumparida cun installar il conto!">
 <!ENTITY addAccountDialog.acceptButton.label "Installar il conto">
+<!ENTITY addAccountDialog.learnMore "Ulteriuras infurmaziuns…">
