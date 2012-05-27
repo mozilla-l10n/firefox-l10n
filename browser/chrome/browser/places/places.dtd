@@ -37,10 +37,9 @@
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "ਰੀ-ਸਟੋਰ">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "ਫਾਇਲ ਚੁਣੋ…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.label      "…ਫਾਇਲ ਚੁਣੋ">
 
-<!ENTITY cmd.bookmarkLink.label         "ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ…">
+<!ENTITY cmd.bookmarkLink.label         "…ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "ਇਹ ਪੇਜ਼ ਹਟਾਓ">
 <!ENTITY cmd.delete.accesskey           "D">
@@ -63,9 +62,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "… ਨਵਾਂ ਬੁੱਕਮਾਰਕ">
+<!ENTITY cmd.new_bookmark.label            "…ਨਵਾਂ ਬੁੱਕਮਾਰਕ">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "… ਨਵਾਂ ਫੋਲਡਰ">
+<!ENTITY cmd.new_folder.label              "…ਨਵਾਂ ਫੋਲਡਰ">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "ਨਵਾਂ ਵੱਖਰੇਵਾਂ">
