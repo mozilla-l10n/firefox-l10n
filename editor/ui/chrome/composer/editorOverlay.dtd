@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "n">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Chattà naginas propostas)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorar quest pled">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Agiuntar al dicziunari da l'utilisader">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Crear ina colliaziun…">
 <!ENTITY createLinkCmd.accesskey "c">
 <!ENTITY editLinkCmd.label "Editar la colliaziun en ina nova fanestra dal Composer">

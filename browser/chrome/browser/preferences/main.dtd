@@ -11,7 +11,7 @@
 <!ENTITY homepage.label            "Pagina da partenza:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Utilisar la pagina actuala">
-<!ENTITY useCurrentPage.accesskey  "p">
+<!ENTITY useCurrentPage.accesskey  "g">
 <!ENTITY useMultiple.label         "Utilisar las paginas actualas">
 <!ENTITY chooseBookmark.label      "Utilisar segnapaginas…">
 <!ENTITY chooseBookmark.accesskey  "l">

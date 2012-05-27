@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Opziuns dal conto">
-<!ENTITY accountSettingsDesc.label "Quest è il &quot;conto local&quot;. I sa tracta dad in conto spezial che n'è betg collià directamain cun ina identitad resp. cun ina adressa dad e-mail. La posta entrada dal conto local è la &quot;posta entrada globala&quot; a la quala ti pos allocar tes contos POP.">
 <!ENTITY accountName.label "Num dal conto:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Capacitad da memorisar">
-<!ENTITY emptyTrashOnExit.label "Svidar il chanaster da palpiri cun serrar">
-<!ENTITY emptyTrashOnExit.accesskey "c">
-<!ENTITY localPath.label "Ordinatur local:">
-<!ENTITY localFolderPicker.label "Tscherner in ordinatur local">
-<!ENTITY browseFolder.label "Tschertgar en…">
-<!ENTITY browseFolder.accesskey "T">

@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Marcar ils messadis nungiavischads sco legids">
 <!ENTITY markAsReadOnSpam.accesskey "l">
-<!ENTITY enableJunkLogging.label "Activar il protocol dal filter per e-mails nungiavischads">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "Activar il protocol dal filter intelligent per e-mails nungiavischads">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Mussar il protocol">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Stizzar las datas da trenament">

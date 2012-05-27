@@ -362,8 +362,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Respunder mo al speditur">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Respunder a la gruppa da discussiun">
-<!ENTITY replyNewsgroupCmd.accesskey  "y">
+<!ENTITY replyNewsgroupCmd2.label "Followup a la gruppa da discussiun">
+<!ENTITY replyNewsgroupCmd2.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "Respunder a tuts">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -502,6 +502,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
 <!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Configuraziun da contos…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Respunder mo al speditur">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Respunder a la gruppa da discussiun">
-<!ENTITY contextReplyNewsgroup.accesskey "d">
+<!ENTITY contextReplyNewsgroup2.label "Followup a la gruppa da discussiun">
+<!ENTITY contextReplyNewsgroup2.accesskey "d">
 <!ENTITY contextReplyAll.label "Respunder a tuts">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Respunder a la glista">
