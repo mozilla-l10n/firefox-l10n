@@ -691,7 +691,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "ਸਭ ਨੂੰ ਜਵਾਬ">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "ਲਿਸਟ ਨੂੰ ਜਵਾਬ">
