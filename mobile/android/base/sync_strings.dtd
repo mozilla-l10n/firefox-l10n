@@ -1,72 +1,81 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "ਫਾਇਰਫਾਕਸ ਸਿੰਕ">
-<!ENTITY syncBrand.shortName.label "ਸਿੰਕ">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label '&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; ਅਕਾਊਂਟ'>
-<!ENTITY sync.title.pair.label 'ਜੰਤਰ ਪੇਅਰ ਕਰੋ'>
+<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
+<!ENTITY sync.title.pair.label 'Pair a Device'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ “&syncBrand.shortName.label; ਸੈਟਅੱਪ” ਚੁਣੋ।'>
-<!ENTITY sync.subtitle.header.label 'ਇਹ ਕੋਡ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਦਿਓ'>
-<!ENTITY sync.subtitle.connectlocation.label 'ਆਪਣੇ ਡੈਸਕਟਾਪ ਫਾਇਰਫਾਕਸ ਚੋਣਾਂ ਦੇ &syncBrand.shortName.label; ਭਾਗ ਵਿੱਚ “&sync.title.pair.label;” ਚੁਣੋ।'>
-<!ENTITY sync.subtitle.pair.label 'ਸਰਗਰਮ ਕਰਨ ਲਈ, ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਤੋਂ“ਜੰਤਰ ਪੇਅਰ ਕਰੋ” ਦੀ ਚੋਣ ਕਰੋ।'>
+<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
+<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
+<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
+<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'ਮੈਨੂੰ ਵੇਖਾਓ'>
-<!ENTITY sync.link.advancedsetup.label 'ਤਕਨੀਕੀ ਸੈਟਅੱਪ…'>
-<!ENTITY sync.link.nodevice.label 'ਮੇਰੇ ਕੋਲ\&apos;ਜੰਤਰ ਨਹੀਂ ਹੈ…'>
+<!ENTITY sync.link.show.label 'Show me how.'>
+<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'ਹੋਰ ਜੰਤਰ ਦੀ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'ਆਪਣੇ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਦੀ ਜਾਣਕਾਰੀ ਦਿਉ'>
-<!ENTITY sync.input.username.label 'ਅਕਾਊਂਟ ਨਾਂ'>
-<!ENTITY sync.input.password.label 'ਪਾਸਵਰਡ'>
-<!ENTITY sync.input.key.label 'ਰਿਕਵਰੀ ਕੁੰਜੀ'>
-<!ENTITY sync.checkbox.server.label 'ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ'>
-<!ENTITY sync.input.server.label 'ਸਰਵਰ URL'>
+<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
+<!ENTITY sync.input.username.label 'Account Name'>
+<!ENTITY sync.input.password.label 'Password'>
+<!ENTITY sync.input.key.label 'Recovery Key'>
+<!ENTITY sync.checkbox.server.label 'Use custom server'>
+<!ENTITY sync.input.server.label 'Server URL'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label '&syncBrand.shortName.label; ਸੈਟਅੱਪ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ਸਰਵਰ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਿਆ। ਕੀ ਤੁਸੀਂ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ?'>
-<!ENTITY sync.button.tryagain.label 'ਮੁੜ-ਕੋਸ਼ਿਸ਼'>
-<!ENTITY sync.button.manual.label 'ਖੁਦ ਸੈਟਅੱਪ ਕਰੋ'>
-<!ENTITY sync.subtitle.nointernet.label 'ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ।'>
+<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.button.tryagain.label 'Try again'>
+<!ENTITY sync.button.manual.label 'Manual Setup'>
+<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ'>
-<!ENTITY sync.subtitle.success.label 'ਤੁਹਾਡਾ ਡਾਟਾ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਤੁਸੀਂਆਪਣੇ ਅਕਾਊਂਟ ਦੀ ਸੈਟਿੰਗ ਵਿੱਚ ਸਕਦੇ ਹੋ।'>
-<!ENTITY sync.settings.label 'ਸੈਟਿੰਗ'>
+<!ENTITY sync.title.success.label 'Setup Complete'>
+<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
+<!ENTITY sync.settings.label 'Settings'>
 <!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।'>
+<!ENTITY sync.pair.tryagain.label 'Please try again.'>
+<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'ਚੋਣਾਂ'>
-<!ENTITY sync.summary.pair.label 'ਹੋਰ ਜੰਤਰ ਆਪਣੇ &syncBrand.shortName.label; ਅਕਾਊਂਟ ਨਾਲ ਲਿੰਕ ਕਰੋ'>
+<!ENTITY sync.settings.options.label 'Options'>
+<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'ਰੱਦ'>
-<!ENTITY sync.button.connect.label 'ਕੁਨੈਕਟ'>
-<!ENTITY sync.button.ok.label 'ਠੀਕ'>
+<!ENTITY sync.button.cancel.label 'Cancel'>
+<!ENTITY sync.button.connect.label 'Connect'>
+<!ENTITY sync.button.ok.label 'OK'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'ਬੁੱਕਮਾਰਕ ਮੇਨੂ'>
+<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'ਟੈਗ'>
-<!ENTITY bookmarks.folder.toolbar.label 'ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ'>
-<!ENTITY bookmarks.folder.unfiled.label 'ਗੈਰ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ'>
-<!ENTITY bookmarks.folder.desktop.label 'ਡੈਸਕਟਾਪ ਬੁੱਕਮਾਰਕ'>
-<!ENTITY bookmarks.folder.mobile.label 'ਮੋਬਾਇਲ ਬੁੱਕਮਾਰਕ'>
+<!ENTITY bookmarks.folder.tags.label 'Tags'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
+<!ENTITY bookmarks.folder.unfiled.label 'Unsorted Bookmarks'>
+<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'ਕੇਵਲ ਇੱਕ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੀ ਸਹਾਇਕ ਹੈ।'>
+<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+
