@@ -1,64 +1,19 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org Code.
-   -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-#endif
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title "Modo seguro do &brandShortName;">
-<!ENTITY window.width "40em">
+<!ENTITY safeModeDialog.title "Modo de segurança do &brandShortName;">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY autoSafeModeIntro.label      "O &brandShortName; fechou inesperadamente ao iniciar">
-<!ENTITY autoSafeModeDescription.label "Pedimos desculpa pela inconveniência. O &brandShortName; está a executar no modo de segurança, o que desativou temporariamente as suas definições personalizadas, temas e extensões.">
+<!ENTITY startSafeMode.label          "Iniciar no modo de segurança">
+<!ENTITY resetProfile.label           "Reiniciar o &brandShortName;">
 
-<!ENTITY safeModeDescription.label "O &brandShortName; está a ser executado no modo segurança, que desactiva temporariamente as suas definições pessoais, temas, e extensões.">
-<!ENTITY safeModeDescription2.label "Pode fazer com que algumas ou todas estas alterações se tornem permanentes:">
+<!ENTITY safeModeDescription3.label   "O modo de segurança é um modo especial do &brandShortName; que pode ser utilizado para detetar problemas.">
+<!ENTITY safeModeDescription4.label   "Os seus extra e definições personalizadas serão desativadas temporariamente.">
 
-<!ENTITY disableAddons.label "Desativar todos os extras">
-<!ENTITY disableAddons.accesskey "D">
+<!ENTITY resetProfileInstead.label    "Também pode reiniciar o &brandShortName; para começar com uma instalação limpa.">
 
-<!ENTITY resetToolbars.label "Repor as barras de ferramentas e controlos">
-<!ENTITY resetToolbars.accesskey "R">
-
-<!ENTITY deleteBookmarks.label        "Eliminar todos os marcadores exceto para backups">
-<!ENTITY deleteBookmarks.accesskey    "l">
-
-<!ENTITY resetUserPrefs.label "Repor todas as preferências do utilizador para os valores iniciais">
-<!ENTITY resetUserPrefs.accesskey "p">
-
-<!ENTITY restoreSearch.label "Repor motores de pesquisa por omissão">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "Validar as alterações e reiniciar">
-<!ENTITY continueButton.label "Continuar no modo de segurança">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "O &brandShortName; encerrou inesperadamente ao iniciar. Poderá ter sido causado por extras ou outros problemas. Pode tentar resolver o problema reiniciando o &brandShortName; para o seu estado pré-definido ou resolver os problemas no modo de segurança.">
+<!ENTITY resetProfileFooter.label       "Tudo o resto será reiniciado para os valores pré-definidos de fábrica.">
+<!ENTITY safeModeInstead.label          "Se não desejar isto, pode continuar com a deteção de problemas com os seus extras e definições personalizadas temporáriamente desativadas.">
