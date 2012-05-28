@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Kirjoita nimi">
-<!ENTITY webapps.permissions "Salli toiminto:">
-<!ENTITY webapps.perm.geolocation "Sijaintitietoinen selaus">
-<!ENTITY webapps.perm.offline "Yhteydettömän tilan tietovarasto">
-<!ENTITY webapps.perm.notifications "Työpöytäilmoitukset">
-<!ENTITY webapps.perm.requestedHint "(pyydetty)">
-<!ENTITY webapps.add-homescreen "Lisää aloitusnäkymään">
