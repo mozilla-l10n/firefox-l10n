@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE : FILE This file contains the Script Debugger strings -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Debugger strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
 
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
@@ -27,17 +27,17 @@
   -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey     "S">
 
-<!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
-  -  button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton      "Fechar">
+<!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
+  -  the button that closes the debugger UI. -->
+<!ENTITY debuggerUI.closeButton.tooltip        "Fechar">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
-  -  button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton   "Passar por cima">
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
+  -  the button that steps over a function call. -->
+<!ENTITY debuggerUI.stepOverButton.tooltip   "Passar por cima">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
   -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton     "Entrar">
+<!ENTITY debuggerUI.stepInButton.tooltip     "Entrar">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
   -  button that steps out of a function call. -->
