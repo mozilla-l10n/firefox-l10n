@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Tietoja &brandShortName;ista">
+<!ENTITY aboutPage.warningVersion               "&brandShortName;in versio on kokeellinen ja voi siksi olla epävakaa.">
+<!ENTITY aboutPage.telemetryStart               " automaattisesti lähettää tietoja suorituskyvystä, laitteistosta, käyttötavasta ja mukautuksista ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;lle">
+<!ENTITY aboutPage.telemetryEnd                 " &brandShortName;in kehittämiseksi.">
 <!ENTITY aboutPage.checkForUpdates.link         "Hae päivityksiä »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Haetaan päivityksiä…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ei päivityksiä">
