@@ -11,7 +11,7 @@
 <!ENTITY followupToField.label "Segue-in: ">
 <!ENTITY tagsHdr.label "Etichette:">
 <!ENTITY dateField.label "Data: ">
-<!ENTITY userAgentField.label "Agente-utente: ">
+<!ENTITY userAgentField.label "User-Agent: ">
 <!ENTITY referencesField.label "Referenze:">
 <!ENTITY messageIdField.label "ID-Messaggio:">
 <!ENTITY inReplyToField.label "In-Risposta-A:">

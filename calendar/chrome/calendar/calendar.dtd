@@ -65,18 +65,31 @@
 <!ENTITY calendar.events.filter.next31Days.label "Eventi nei prossimi 31 giorni">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Eventi in questo mese">
 <!ENTITY calendar.unifinder.tree.done.label "Fatto">
+<!ENTITY calendar.unifinder.tree.done.tooltip "Fare clic per ordinare per Fatto">
 <!ENTITY calendar.unifinder.tree.priority.label "Priorità">
+<!ENTITY calendar.unifinder.tree.priority.tooltip "Fare clic per ordinare per Priorità">
 <!ENTITY calendar.unifinder.tree.title.label "Titolo">
+<!ENTITY calendar.unifinder.tree.title.tooltip "Fare clic per ordinare per Titolo">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; completata">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Fare clic per ordinare per &#037; completata">
 <!ENTITY calendar.unifinder.tree.startdate.label "Inizio">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip "Fare clic per ordinare per Data di inizio">
 <!ENTITY calendar.unifinder.tree.enddate.label "Fine">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip "Fare clic per ordinare per Data di fine">
 <!ENTITY calendar.unifinder.tree.duedate.label "Scadenza">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip "Fare clic per ordinare per Data di scadenza">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Completata">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip "Fare clic per ordinare per Completata">
 <!ENTITY calendar.unifinder.tree.categories.label "Categoria">
+<!ENTITY calendar.unifinder.tree.categories.tooltip "Fare clic per ordinare per Categoria">
 <!ENTITY calendar.unifinder.tree.location.label "Luogo">
+<!ENTITY calendar.unifinder.tree.location.tooltip "Fare clic per ordinare per Luogo">
 <!ENTITY calendar.unifinder.tree.status.label "Stato">
+<!ENTITY calendar.unifinder.tree.status.tooltip "Fare clic per ordinare per Stato">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nome calendario">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Fare clic per ordinare per Nome del calendario">
 <!ENTITY calendar.unifinder.tree.duration.label "Scade tra">
+<!ENTITY calendar.unifinder.tree.duration.tooltip "Fare clic per ordinare per Scade tra">
 <!ENTITY calendar.unifinder.close.tooltip "Chiudi la ricerca e la lista degli eventi">
 <!ENTITY calendar.today.button.tooltip "Vai a Oggi">
 <!ENTITY calendar.todaypane.button.tooltip "Visualizza pannello Oggi">
@@ -150,7 +163,7 @@
 <!ENTITY calendar.task-details.repeat.label "ripetizione">
 <!ENTITY calendar.task-details.attachments.label "allegati">
 <!ENTITY calendar.task-details.start.label "data di inizio">
-<!ENTITY calendar.task-details.due.label "data di fine">
+<!ENTITY calendar.task-details.due.label "data di scadenza">
 <!ENTITY calendar.task.category.button.tooltip "Assegna una categoria alle attività">
 <!ENTITY calendar.task.complete.button.tooltip "Segna le attività selezionate come completate">
 <!ENTITY calendar.task.priority.button.tooltip "Cambia la priorità">

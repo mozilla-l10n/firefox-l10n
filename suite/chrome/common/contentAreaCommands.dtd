@@ -116,6 +116,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
 <!ENTITY spellAddToDictionary.label "Aggiungi al dizionario">
 <!ENTITY spellAddToDictionary.accesskey "z">
+<!ENTITY spellUndoAddToDictionary.label "Annulla aggiunta al dizionario">
+<!ENTITY spellUndoAddToDictionary.accesskey "d">
 <!ENTITY spellIgnoreWord.label "Ignora parola">
 <!ENTITY spellIgnoreWord.accesskey "I">
 <!ENTITY spellCheckEnable.label "Controlla ortografia">

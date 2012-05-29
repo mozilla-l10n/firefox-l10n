@@ -15,6 +15,6 @@
 <!ENTITY prefEnablePipeliningProxy.accesskey "e">
 <!ENTITY prefPara "Le connessioni HTTP possono essere migliorate usando queste opzioni per aumentare la velocità o la compatibilità. Alcuni server proxy, ad esempio, richiedono HTTP/1.0 (vedere le note di versione per i dettagli).">
 <!ENTITY prefPipeWarning "ATTENZIONE: il pipelining è una caratteristica sperimentale, progettata per ridurre il tempo di caricamento delle pagine, che sfortunatamente non è ben gestita da alcuni server web e proxy.">
-<!ENTITY prefUseragent.label "Stringa User Agent">
+<!ENTITY prefUseragent.label "Stringa user agent">
 <!ENTITY prefFirefoxCompat.label "Pubblicizza compatibilità Firefox">
 <!ENTITY prefFirefoxCompat.accesskey "F">
