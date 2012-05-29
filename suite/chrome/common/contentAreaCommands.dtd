@@ -116,9 +116,11 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "т">
 <!ENTITY spellAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellAddToDictionary.accesskey "в">
+<!ENTITY spellUndoAddToDictionary.label "Отменить добавление в словарь">
+<!ENTITY spellUndoAddToDictionary.accesskey "м">
 <!ENTITY spellIgnoreWord.label "Пропустить слово">
 <!ENTITY spellIgnoreWord.accesskey "п">
-<!ENTITY spellCheckEnable.label "Проверка правописания">
+<!ENTITY spellCheckEnable.label "Проверка орфографии">
 <!ENTITY spellCheckEnable.accesskey "р">
 <!ENTITY spellNoSuggestions.label "(вариантов не найдено)">
 <!ENTITY spellDictionaries.label "Языки">
