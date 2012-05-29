@@ -337,7 +337,7 @@
 <!ENTITY read.only.event.start.label "Data di inizio:">
 <!ENTITY read.only.task.start.label "Data di inizio:">
 <!ENTITY read.only.event.end.label "Data di fine:">
-<!ENTITY read.only.task.due.label "Data di fine:">
+<!ENTITY read.only.task.due.label "Data di scadenza:">
 <!ENTITY read.only.repeat.label "Ripeti:">
 <!ENTITY read.only.location.label "Luogo:">
 <!ENTITY read.only.category.label "Categoria:">

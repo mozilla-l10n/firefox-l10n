@@ -8,6 +8,12 @@
 <!ENTITY selectall.accesskey "u">
 <!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "f">
+<!ENTITY copyLinks.label "Copia collegamento(i)">
+<!ENTITY copyLinks.accesskey "n">
+<!ENTITY openInNewTab.label "Apri in nuova scheda">
+<!ENTITY openInNewTab.accesskey "s">
+<!ENTITY openInNewWindow.label "Apri in nuova finestra">
+<!ENTITY openInNewWindow.accesskey "v">
 <!ENTITY generalTab "Generale">
 <!ENTITY generalTab.accesskey "G">
 <!ENTITY generalURL "Indirizzo:">
