@@ -6,6 +6,8 @@
 <!ENTITY warnOpenManyTabs.accesskey "d">
 <!ENTITY showTabBar.label "Mostrar siempre la barra de pestañas">
 <!ENTITY showTabBar.accesskey "b">
+<!ENTITY restoreTabsOnDemand.label "No cargar las pestañas hasta que sean seleccionadas">
+<!ENTITY restoreTabsOnDemand.accesskey "l">
 <!ENTITY switchToNewTabs.label "Al abrir un enlace en una pestaña nueva, cambiar a ésta inmediatamente">
 <!ENTITY switchToNewTabs.accesskey "C">
 <!ENTITY showTabsInTaskbar.label "Mostrar miniaturas de las pestañas en la barra de tareas de Windows">
