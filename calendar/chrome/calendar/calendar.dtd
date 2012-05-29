@@ -70,20 +70,33 @@
 <!ENTITY calendar.events.filter.next31Days.label "Eventos dos próximos 31 días">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Eventos deste mes do calendario">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Feito">
-<!ENTITY calendar.unifinder.tree.priority.label      "Prioridade">
-<!ENTITY calendar.unifinder.tree.title.label         "Título">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Completo">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Inicio">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Fin">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Vencemento">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Rematado">
-<!ENTITY calendar.unifinder.tree.categories.label    "Categoría">
-<!ENTITY calendar.unifinder.tree.location.label      "Localización">
-<!ENTITY calendar.unifinder.tree.status.label        "Estado">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Nome do calendario">
-<!ENTITY calendar.unifinder.tree.duration.label      "Vencemento en">
-<!ENTITY calendar.unifinder.close.tooltip            "Pechar busca e lista de eventos">
+<!ENTITY calendar.unifinder.tree.done.label              "Feito">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Prema para ordenar por feito">
+<!ENTITY calendar.unifinder.tree.priority.label          "Prioridade">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Prema para ordenar pola prioridade">
+<!ENTITY calendar.unifinder.tree.title.label             "Título">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Prema para ordenar polo título">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "Progresión">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Prema para ordenar pola progresión">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Inicio">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Prema para ordenar pola data de incio">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Fin">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Prema para ordenar pola data de fin">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Vencemento">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Prema para ordenar pola data de vencemento">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "Rematado">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Prema para ordenar por rematado">
+<!ENTITY calendar.unifinder.tree.categories.label        "Categoría">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Prema para ordenar pola categoría">
+<!ENTITY calendar.unifinder.tree.location.label          "Localización">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Prema para ordenar pola localización">
+<!ENTITY calendar.unifinder.tree.status.label            "Estado">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Prema para ordenar polo estado">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Nome do calendario">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Prema para ordenar polo nome do calendario">
+<!ENTITY calendar.unifinder.tree.duration.label          "Tempo restante">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Prema para ordenar polo tempo restante">
+<!ENTITY calendar.unifinder.close.tooltip                "Pechar a lista da busca de eventos e a lista de eventos">
 
 <!ENTITY calendar.today.button.tooltip          "Ir ao día actual" >
 <!ENTITY calendar.todaypane.button.tooltip      "Mostrar o panel de hoxe" >
