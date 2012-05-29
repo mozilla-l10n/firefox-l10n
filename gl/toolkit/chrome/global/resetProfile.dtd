@@ -4,7 +4,7 @@
 
 <!ENTITY resetProfile.dialog.title        "Restabelecer o &brandShortName;">
 <!ENTITY resetProfile.dialog.description  "Está seguro de que quere restabelecer o &brandShortName; ao estado inicial?">
-<!ENTITY resetProfile.dialog.items.label  "Conservaranse os seguintes:">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; tentará conservar:">
 <!ENTITY resetProfile.dialog.footer.label "Reiniciarase o &brandShortName; e eliminarase o resto.">
 <!ENTITY resetProfile.dialog.button.label "Restabelecer o &brandShortName;">
 
