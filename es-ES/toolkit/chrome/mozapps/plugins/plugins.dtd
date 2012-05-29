@@ -15,7 +15,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Se necesita reiniciar &brandShortName; para que funcionen los plugins.">
 <!ENTITY missingPlugin "Se necesita un plugin para mostrar este contenido.">
 <!ENTITY tapToPlayPlugin "Toque aquí para activar el plugin.">
-<!ENTITY clickToPlayPlugins "Pulse aquí para activar los plugins.">
+<!ENTITY clickToPlayPlugin "Pulse aquí para activar el plugin.">
 <!ENTITY disabledPlugin "Este plugin está desactivado.">
 <!ENTITY blockedPlugin.label "Se ha bloqueado este plugin para su protección.">
 <!ENTITY installPlugin "Instalar plugin…">
