@@ -76,6 +76,8 @@
 <!ENTITY fullscreenExitButton.label "Denegar">
 <!ENTITY fullscreenApproval.value "¿Permitir pantalla completa?">
 <!ENTITY fullscreenExitHint.value "Presione ESC en cualquier momento para salir de la pantalla completa.">
+<!ENTITY leaveDOMFullScreen.label "Salir de la pantalla completa">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
