@@ -14,7 +14,7 @@
 <!ENTITY spellAddToDictionary.accesskey "б">
 <!ENTITY spellUndoAddToDictionary.label "Отменить добавление в словарь">
 <!ENTITY spellUndoAddToDictionary.accesskey "м">
-<!ENTITY spellCheckEnable.label "Проверка правописания">
+<!ENTITY spellCheckEnable.label "Проверка орфографии">
 <!ENTITY spellCheckEnable.accesskey "р">
 <!ENTITY spellNoSuggestions.label "(вариантов не найдено)">
 <!ENTITY spellDictionaries.label "Языки">
