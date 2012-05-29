@@ -11,3 +11,5 @@
 <!ENTITY resetProfile.title               "Restabelecer o &brandShortName; ao estado predeterminado">
 <!ENTITY resetProfile.description         "Se está tendo algún problema importante que non consigue resolver, inicie cun perfil novo coa súa información esencial.">
 <!ENTITY resetProfile.button.label        "Restabelecer o &brandShortName;">
+
+<!ENTITY resetProfile.cleaning.description "Agarde mentres o &brandShortName; limpa os datos antigos…">
