@@ -21,9 +21,9 @@
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "Aceptar cookies de terceiros">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.accesskey    "k">
 
-<!ENTITY  keepUntil.label               "Conservar até:">
+<!ENTITY  keepUntil.label               "Conservar ata:">
 <!ENTITY  keepUntil.accesskey           "C">
 
 <!ENTITY  expire.label                  "que caduquen">
@@ -37,8 +37,8 @@
 <!ENTITY  showCookies.accesskey         "s">
 
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "i">
+<!ENTITY  historyHeader.pre.label          "O &brandShortName; :">
+<!ENTITY  historyHeader.pre.accesskey      "O">
 <!ENTITY  historyHeader.remember.label     "Gardará o historial">
 <!ENTITY  historyHeader.dontremember.label "Nunca gardará o historial">
 <!ENTITY  historyHeader.custom.label       "Usará unha configuración personalizada para o historial">
