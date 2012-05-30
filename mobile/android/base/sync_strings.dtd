@@ -1,0 +1,75 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Konektatu &syncBrand.shortName.label;(e)ra">
+<!ENTITY sync.title.adddevice.label "Gehitu &syncBrand.fullName.label; kontua">
+<!ENTITY sync.title.pair.label "Parekatu gailua">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Zure gailu berria aktibatzeko, hautatu “Konfiguratu &syncBrand.shortName.label;” gailuan.">
+<!ENTITY sync.subtitle.header.label "Sartu kode hau zure ordenagailuan">
+<!ENTITY sync.subtitle.connectlocation.label "Hautatu “&sync.title.pair.label;” zure mahaigaineko Firefoxen aukeren &syncBrand.shortName.label; atalean.">
+<!ENTITY sync.subtitle.pair.label "Aktibatzeko, hautatu “Parekatu gailua” zure beste gailuan.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Erakutsi nola.">
+<!ENTITY sync.link.advancedsetup.label "Konfigurazio aurreratua…">
+<!ENTITY sync.link.nodevice.label "Gailua ez daukat nirekin…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Beste gailuari itxoiten…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Sartu zure &syncBrand.fullName.label; kontuaren informazioa">
+<!ENTITY sync.input.username.label "Kontuaren izena">
+<!ENTITY sync.input.password.label "Pasahitza">
+<!ENTITY sync.input.key.label "Berreskuratze-gakoa">
+<!ENTITY sync.checkbox.server.label "Erabili zerbitzari pertsonalizatua">
+<!ENTITY sync.input.server.label "Zerbitzariaren URLa">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Ezin da &syncBrand.shortName.label; konfiguratu">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;(e)k ezin izan du zerbitzarira konektatu. Berriro saiatu nahi duzu?">
+<!ENTITY sync.button.tryagain.label "Saiatu berriro">
+<!ENTITY sync.button.manual.label "Eskuzko konfigurazioa">
+<!ENTITY sync.subtitle.nointernet.label "Ez dago Internet konexiorik erabilgarri.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Konfigurazioa osatuta">
+<!ENTITY sync.subtitle.success.label "Zure datuak atzeko planoan ari dira deskargatzen. Aukeretara joan zaitezke zure kontua kudeatzeko.">
+<!ENTITY sync.settings.label "Ezarpenak">
+<!ENTITY sync.subtitle.manage.label "Zure &syncBrand.fullName.label; kontua konfiguratuta dago. Joan ezarpenetara zure kontua kudeatzeko.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Saiatu berriro mesedez.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Aukerak">
+<!ENTITY sync.summary.pair.label "Lotu beste gailu bat zure &syncBrand.shortName.label; kontura">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Utzi">
+<!ENTITY sync.button.connect.label "Konektatu">
+<!ENTITY sync.button.ok.label "Ados">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Laster-marken menua">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Etiketak">
+<!ENTITY bookmarks.folder.toolbar.label "Laster-marken tresna-barra">
+<!ENTITY bookmarks.folder.unfiled.label "Ordenatu gabeko laster-markak">
+<!ENTITY bookmarks.folder.desktop.label "Laster-marka guztiak">
+<!ENTITY bookmarks.folder.mobile.label "Mugikorreko laster-markak">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu bakarra onartzen da.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect "Berreskuratze-gako okerra. Saiatu berriro.">
