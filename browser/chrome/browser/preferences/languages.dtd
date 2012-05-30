@@ -7,9 +7,9 @@
 <!ENTITY languages.customize.moveUp.accesskey           "S">
 <!ENTITY languages.customize.moveDown.label             "Baixar">
 <!ENTITY languages.customize.moveDown.accesskey         "B">
-<!ENTITY languages.customize.deleteButton.label         "Eliminar">
-<!ENTITY languages.customize.deleteButton.accesskey     "E">
+<!ENTITY languages.customize.deleteButton.label         "Retirar">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.selectLanguage.label       "Seleccione un idioma para engadilo…">
 <!ENTITY languages.customize.addButton.label            "Engadir">
-<!ENTITY languages.customize.addButton.accesskey        "n">
+<!ENTITY languages.customize.addButton.accesskey        "E">
 

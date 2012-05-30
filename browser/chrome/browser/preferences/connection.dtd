@@ -9,7 +9,7 @@
 <!ENTITY  systemTypeRadio.label         "Usar a configuración do proxy do sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Detectar automaticamente a configuración do proxy para esta rede">
-<!ENTITY  WPADTypeRadio.accesskey       "y">
+<!ENTITY  WPADTypeRadio.accesskey       "g">
 <!ENTITY  manualTypeRadio.label         "Configuración manual do proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL da configuración automática do proxy:">
@@ -21,7 +21,7 @@
 <!ENTITY  http.label                    "Proxy HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy SSL:">
-<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "Servidor SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">

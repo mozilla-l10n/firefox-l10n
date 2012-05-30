@@ -1,5 +1,5 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir en novas lapelas en vez de en novas xanelas">
-<!ENTITY newWindowsAsTabs.accesskey   "x">
+<!ENTITY newWindowsAsTabs.accesskey   "A">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avisarme ao pechar varias lapelas">
 <!ENTITY warnCloseMultipleTabs.accesskey  "v">
