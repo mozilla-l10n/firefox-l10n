@@ -65,5 +65,5 @@
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Codificación de caracteres">
-<!ENTITY languages.customize.DefaultCharset.label       "Codificación de caracteres predefinida:">
+<!ENTITY languages.customize.DefaultCharset.label       "Codificación de caracteres predeterminada:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
