@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Instalatutako pluginek &brandShortName; berrabiaraztea behar dute.">
 
 <!ENTITY missingPlugin                                       "Plugina beharrezkoa da eduki hau bistaratzeko.">
-<!ENTITY clickToPlayPlugin                                   "Sakatu hemen plugina aktibatzeko.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Sakatu hemen plugina aktibatzeko.">
+<!ENTITY clickToPlayPlugins                                  "Egin klik hemen pluginak aktibatzeko.">
 <!ENTITY disabledPlugin                                      "Plugin hau desgaituta dago.">
 <!ENTITY blockedPlugin.label                                 "Plugin hau zure babeserako blokeatu egin da.">
 

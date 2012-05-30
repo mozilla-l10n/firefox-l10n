@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Ezarri cookie-ak">
 <!ENTITY  permInstall           "Instalatu hedapen edo gaiak">
 <!ENTITY  permGeo               "Partekatu kokapena">
+<!ENTITY  permPlugins           "Aktibatu pluginak">
 
 <!ENTITY  permIndexedDB              "Mantendu lineaz kanpoko biltegiratzea">
 <!ENTITY  permClearStorage           "Garbitu biltegiratzea">

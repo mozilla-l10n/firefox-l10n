@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 <!-- Used just in context popup. -->
 
-<!ENTITY spellCheckNoSuggestions.label "(Ez da gomendiorik aurkitu)">
-<!ENTITY spellCheckIgnoreWord.label "Ezikusi hitza">
-<!ENTITY spellCheckIgnoreWord.accesskey "i">
-<!ENTITY spellCheckAddToDictionary.label "Gehitu hiztegira">
-<!ENTITY spellCheckAddToDictionary.accesskey "G">
 <!ENTITY createLinkCmd.label "Sortu lotura…">
 <!ENTITY createLinkCmd.accesskey "u">
 <!ENTITY editLinkCmd.label "Editatu lotura mezu-prestatzailearen leiho berrian">

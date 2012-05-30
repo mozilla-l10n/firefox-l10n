@@ -359,8 +359,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Erantzun bidaltzaileari soilik">
 <!ENTITY replySenderCmd.accesskey "r">
-<!ENTITY replyNewsgroupCmd.label "Erantzun berri-taldeari">
-<!ENTITY replyNewsgroupCmd.accesskey  "t">
+<!ENTITY replyNewsgroupCmd2.label "Erantzun posta-zerrendara">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Erantzun denei">
 <!ENTITY replyToAllMsgCmd.accesskey  "E">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -499,6 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Errore-kontsola">
 <!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Posta eta berri-taldeen kontu-ezarpenak…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -693,8 +694,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "x">
 <!ENTITY contextReplySender.label "Erantzun bidaltzaileari soilik">
 <!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplyNewsgroup.label "Erantzun berri-taldera">
-<!ENTITY contextReplyNewsgroup.accesskey "t">
+<!ENTITY contextReplyNewsgroup2.label "Erantzun posta-zerrendara">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Erantzun denei">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Erantzun zerrendari">

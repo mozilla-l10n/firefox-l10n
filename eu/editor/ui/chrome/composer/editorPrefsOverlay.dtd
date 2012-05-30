@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 
 <!ENTITY editorCheck.label "Composer">
-<!ENTITY editorCheck.accesskey "p">
+<!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Mezu-prestatzailea">
 <!ENTITY editing.label "Orri berriaren ezarpenak">

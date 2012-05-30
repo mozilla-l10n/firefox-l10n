@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "&brandShortName;(r)i buruz">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; esperimentala da eta ezegonkorra izan liteke.">
+<!ENTITY aboutPage.telemetryStart               " Automatikoki errendimenduaren, hardwarearen, erabileraren eta pertsonalizazioen inguruko informazioa bidaltzen du ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 "(e)ra &brandShortName; hobetzen laguntzeko.">
 <!ENTITY aboutPage.checkForUpdates.link         "Bilatu eguneraketak »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Eguneraketen bila…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ez dago eguneraketarik eskura">
