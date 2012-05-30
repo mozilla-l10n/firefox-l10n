@@ -48,6 +48,12 @@
 <!ENTITY  selectall.accesskey   "a">
 <!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
+<!ENTITY  copyLinks.label           "Copiar ligazón(s)">
+<!ENTITY  copyLinks.accesskey       "l">
+<!ENTITY  openInNewTab.label        "Abrir nunha nova lapela">
+<!ENTITY  openInNewTab.accesskey    "h">
+<!ENTITY  openInNewWindow.label     "Abrir nunha nova xanela">
+<!ENTITY  openInNewWindow.accesskey "o">
 
 <!ENTITY  generalTab            "Xeral">
 <!ENTITY  generalTab.accesskey  "X">
