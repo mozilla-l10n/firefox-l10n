@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
 <!ENTITY aboutPage.title                        "O programie &brandShortName;">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Pomoc">
@@ -10,8 +14,5 @@
 <!ENTITY aboutPage.checkForUpdates.none         "Brak aktualizacji">
 <!ENTITY aboutPage.checkForUpdates.found        "Znaleziono aktualizację">
 
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
 <!ENTITY aboutPage.licenseLink                  "Informacje o licencji">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
