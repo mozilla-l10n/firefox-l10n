@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Kontu-ezarpenak">
-<!ENTITY accountSettingsDesc.label "Ondokoa kontu berezi bat da. Ez dago kontu honekin elkartutako identitaterik.">
 <!ENTITY accountName.label "Kontuaren izena:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY messageStorage.label "Mezuen biltegiratzea">
-<!ENTITY emptyTrashOnExit.label "Hustu zakarrontzia irtetean">
-<!ENTITY emptyTrashOnExit.accesskey "r">
-<!ENTITY localPath.label "Direktorio lokala:">
-<!ENTITY localFolderPicker.label "Hautatu direktorio lokala">
-<!ENTITY browseFolder.label "Arakatu…">
-<!ENTITY browseFolder.accesskey "A">

@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Markatu zabor-mezuak irakurrita gisa">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Gaitu zabor-posta iragazkiaren loga">
-<!ENTITY enableJunkLogging.accesskey "G">
+<!ENTITY enableAdaptiveJunkLogging.label "Gaitu zabor-posta iragazki moldakorraren loga">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "G">
 <!ENTITY openJunkLog.label "Erakutsi loga">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Berrezarri trebatze-datuak">

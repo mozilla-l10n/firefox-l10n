@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "HTML fitxategi batetik">
-<!ENTITY importFromHTMLFile.accesskey   "f">
 
 <!ENTITY noMigrationSources.label       "Ezin izan da laster-markak, historia edo pasahitz daturik duen programarik aurkitu.">
 

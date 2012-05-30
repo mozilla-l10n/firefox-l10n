@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Zabor-postaren loga">
-<!ENTITY junkLogInfo.label "Zabor-postaren kontrol-jardueraren loga.">
+<!ENTITY adaptiveJunkLog.title "Zapbor-posta moldakorraren loga">
+<!ENTITY adaptiveJunkLogInfo.label "Zabor-postaren moldakorraren kontrol-jardueraren loga.">
 <!ENTITY clearLog.label "Garbitu loga">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY closeLog.label "Itxi">

@@ -1,20 +1,20 @@
-<!ENTITY emailSectionHdr.label        "E-posta"> 
-<!ENTITY readMsgsLink.label           "Irakurri mezuak"> 
-<!ENTITY composeMsgLink.label         "Idatzi mezu berria"> 
+<!ENTITY emailSectionHdr.label        "E-posta">
+<!ENTITY readMsgsLink.label           "Irakurri mezuak">
+<!ENTITY composeMsgLink.label         "Idatzi mezu berria">
 
-<!ENTITY newsSectionHdr.label         "Berri-taldeak"> 
-<!ENTITY subscribeNewsLink.label      "Kudeatu berri-taldeetako harpidetzak"> 
-
-<!ENTITY accountsSectionHdr.label     "Kontuak"> 
-<!ENTITY subscribeImapFolders.label   "Kudeatu karpeten harpidetzak">
-<!ENTITY settingsLink.label           "Ikusi kontu honen ezarpenak"> 
-<!ENTITY newAcctLink.label            "Sortu kontu berria"> 
-
-<!ENTITY advFeaturesSectionHdr.label  "Eginbide aurreratuak"> 
-<!ENTITY searchMsgsLink.label         "Bilatu mezuak"> 
-<!ENTITY filtersLink.label            "Kudeatu mezu-iragazkiak">
-<!ENTITY junkSettings.label           "Zabor-postaren ezarpenak">
-<!ENTITY offlineLink.label            "Lineaz kanpoko ezarpenak">
+<!ENTITY newsSectionHdr.label         "Berri-taldeak">
+<!ENTITY subscribeNewsLink.label      "Kudeatu berri-taldeetako harpidetzak">
 
 <!ENTITY feedsSectionHdr.label        "Jarioak">
 <!ENTITY subscribeFeeds.label         "Kudeatu harpidetzak">
+
+<!ENTITY accountsSectionHdr.label     "Kontuak">
+<!ENTITY subscribeImapFolders.label   "Kudeatu karpeten harpidetzak">
+<!ENTITY settingsLink.label           "Ikusi kontu honen ezarpenak">
+<!ENTITY newAcctLink.label            "Sortu kontu berria">
+
+<!ENTITY advFeaturesSectionHdr.label  "Eginbide aurreratuak">
+<!ENTITY searchMsgsLink.label         "Bilatu mezuak">
+<!ENTITY filtersLink.label            "Kudeatu mezu-iragazkiak">
+<!ENTITY junkSettings.label           "Zabor-postaren ezarpenak">
+<!ENTITY offlineLink.label            "Lineaz kanpoko ezarpenak">

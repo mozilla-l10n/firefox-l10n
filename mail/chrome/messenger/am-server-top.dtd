@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Mezuen biltegiratzea">
 <!ENTITY securitySettings.label "Segurtasun-ezarpenak">
 <!ENTITY serverSettings.label "Zerbitzariaren ezarpenak">
 <!ENTITY serverType.label "Zerbitzari mota:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Eskatu beti autentifikazioa zerbitzari honetara konektatzean">
 <!ENTITY alwaysAuthenticate.accesskey "b">
 <!ENTITY newsrcFilePath.label "newsrc fitxategia:">
-<!ENTITY localPath.label "Direktorio lokala:">
+<!ENTITY newsrcPicker.label "Aukeratu newsrc fitxategia">
 <!ENTITY abbreviate.label "Erakutsi honela berri-taldeen izenak posta-karpetaren panelean:">
 <!ENTITY abbreviateOn.label "Izen osoak (adibidez, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Izen laburtuak (adibidez, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Aurreratua…">
 <!ENTITY advancedButton.accesskey "u">
 <!ENTITY serverDefaultCharset.label "Karaktere-kodeketa lehenetsia:">
+<!ENTITY localPath.label "Direktorio lokala:">
 <!ENTITY localFolderPicker.label "Hautatu direktorio lokala">
 <!ENTITY browseFolder.label "Arakatu…">
 <!ENTITY browseFolder.accesskey "A">
-<!ENTITY newsrcPicker.label "Aukeratu newsrc fitxategia">
 <!ENTITY browseNewsrc.label "Arakatu…">
 <!ENTITY browseNewsrc.accesskey "u">
+
+<!ENTITY accountTitle.label "Kontu-ezarpenak">
+<!ENTITY accountSettingsDesc.label "Ondorengoa kontu berezia da. Ez dago identitaterik honi lotuta.">
