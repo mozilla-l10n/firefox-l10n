@@ -136,6 +136,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenExitButton.label "Neatļaut">
 <!ENTITY fullscreenApproval.value "Atļaut pilnekrāna režīmu?">
 <!ENTITY fullscreenExitHint.value "Nospiediet ESC, lai aizvērtu pilnekrāna režīmu.">
+<!ENTITY leaveDOMFullScreen.label "Iziet no pilnekrana">
+<!ENTITY leaveDOMFullScreen.accesskey "n">
 
 <!ENTITY closeWindow.label "Aizvērt logu">
 <!ENTITY closeWindow.accesskey "g">
