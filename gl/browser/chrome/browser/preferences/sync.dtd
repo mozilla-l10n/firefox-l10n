@@ -23,7 +23,7 @@
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Lapelas">
-<!ENTITY engine.tabs.accesskey      "s">
+<!ENTITY engine.tabs.accesskey      "L">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Contrasinais">

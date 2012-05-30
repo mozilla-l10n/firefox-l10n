@@ -5,32 +5,32 @@
 <!ENTITY accessibility.label             "Accesibilidade">
 
 <!ENTITY useCursorNavigation.label       "Utilizar sempre as teclas de desprazamento para navegar nas páxinas">
-<!ENTITY useCursorNavigation.accesskey   "t">
+<!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Buscar o texto ao comezar a escribir">
 <!ENTITY searchStartTyping.accesskey     "B">
 <!ENTITY blockAutoRefresh.label          "Avisar cando os sitios tenten redireccionar ou recargar a páxina">
-<!ENTITY blockAutoRefresh.accesskey      "x">
+<!ENTITY blockAutoRefresh.accesskey      "v">
 
 <!ENTITY browsing.label                  "Navegación">
 
 <!ENTITY useAutoScroll.label             "Utilizar desprazamento automático">
-<!ENTITY useAutoScroll.accesskey         "z">
+<!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Utilizar desprazamento suave">
-<!ENTITY useSmoothScrolling.accesskey    "s">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Usar a aceleración por hardware cando estea dispoñíbel">
-<!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Verificar a ortografía ao escribir">
-<!ENTITY checkSpelling.accesskey         "V">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "Comprobar a ortografía ao escribir">
+<!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "Configuración predefinida">
-<!ENTITY alwaysCheckDefault.label        "Verificar sempre se &brandShortName; é o navegador predefinido ao comezar."><!--XXX-->
+<!ENTITY systemDefaults.label            "Configuración predeterminada">
+<!ENTITY alwaysCheckDefault.label        "Verificar sempre se &brandShortName; é o navegador predeterminado ao comezar."><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "n">
 <!ENTITY checkNow.label                  "Comprobar agora">
-<!ENTITY checkNow.accesskey              "C">
+<!ENTITY checkNow.accesskey              "g">
 <!ENTITY submitCrashes.label             "Enviar informes de erro">
 <!ENTITY submitCrashes.accesskey         "s">
 <!ENTITY submitTelemetry.label           "Enviar informes de rendemento">
-<!ENTITY submitTelemetry.accesskey       "d">
+<!ENTITY submitTelemetry.accesskey       "f">
 
 <!ENTITY networkTab.label                "Rede">
 
@@ -84,15 +84,15 @@
 <!ENTITY enableSearchUpdate.accesskey    "B">
 
 <!ENTITY offlineNotify.label             "Informarme cando un sitio web solicita o almacenamento de datos para a utilización sen conexión">
-<!ENTITY offlineNotify.accesskey         "I">
+<!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Excepcións…">
-<!ENTITY offlineNotifyExceptions.accesskey "c">
+<!ENTITY offlineNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList2.label          "Os seguintes sitios web poden almacenar datos para a utilización sen conexión:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Eliminar…">
-<!ENTITY offlineAppsListRemove.accesskey "E">
-<!ENTITY offlineAppRemove.confirm        "Eliminar datos sen conexión">
+<!ENTITY offlineAppsListRemove.label     "Retirar…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "Retirar datos sen conexión">
 
 <!ENTITY encryptionTab.label             "Cifrado">
 
@@ -110,7 +110,7 @@
 <!ENTITY viewCerts.label                 "Ver certificados">
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewCRLs.label                  "Listas de revogación">
-<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Validación">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de seguranza">

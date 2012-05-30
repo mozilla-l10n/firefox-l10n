@@ -3,10 +3,10 @@
 
 <!ENTITY treehead.sitename.label      "Sitio">
 <!ENTITY treehead.status.label        "Estado">
-<!ENTITY removepermission.label       "Eliminar sitio">
-<!ENTITY removepermission.accesskey   "E">
-<!ENTITY removeallpermissions.label   "Eliminar todos os sitios">
-<!ENTITY removeallpermissions.accesskey "E">
+<!ENTITY removepermission.label       "Retirar sitio">
+<!ENTITY removepermission.accesskey   "R">
+<!ENTITY removeallpermissions.label   "Retirar todos os sitios">
+<!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Enderezo do sitio web:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloquear">
@@ -18,5 +18,5 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Pechar">
-<!ENTITY button.close.accesskey       "P">
+<!ENTITY button.close.accesskey       "c">
 

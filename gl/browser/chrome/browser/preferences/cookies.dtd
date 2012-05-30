@@ -3,11 +3,11 @@
 <!ENTITY     cookiesonsystem.label          "As seguintes cookies están almacenadas no computador:">
 <!ENTITY     cookiename.label               "Nome da cookie">
 <!ENTITY     cookiedomain.label             "Sitio"> 
-<!ENTITY     button.removecookies.label     "Eliminar cookies">
-<!ENTITY     button.removecookie.label      "Eliminar cookie">
-<!ENTITY     button.removecookie.accesskey  "E">
-<!ENTITY     button.removeallcookies.label  "Eliminar todas as cookies">
-<!ENTITY     button.removeallcookies.accesskey "t">
+<!ENTITY     button.removecookies.label     "Retirar cookies">
+<!ENTITY     button.removecookie.label      "Retirar cookie">
+<!ENTITY     button.removecookie.accesskey  "R">
+<!ENTITY     button.removeallcookies.label  "Retirar todas as cookies">
+<!ENTITY     button.removeallcookies.accesskey "a">
 
 <!ENTITY     props.name.label               "Nome:">
 <!ENTITY     props.value.label              "Contido:">
@@ -22,7 +22,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     filter.label                   "Buscar:">
-<!ENTITY     filter.accesskey               "B">
+<!ENTITY     filter.accesskey               "s">
 
 <!ENTITY     button.close.label             "Pechar">
-<!ENTITY     button.close.accesskey         "P">
+<!ENTITY     button.close.accesskey         "c">
