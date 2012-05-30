@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Idatzi izenburua">
-<!ENTITY webapps.permissions "Baimendu atzipena:">
-<!ENTITY webapps.perm.geolocation "Kokalekuaren araberako nabigatzea">
-<!ENTITY webapps.perm.offline "Lineaz kanpoko datuen biltegiratzea">
-<!ENTITY webapps.perm.notifications "Mahaigaineko jakinarazpenak">
-<!ENTITY webapps.perm.requestedHint "(eskatuta)">
-<!ENTITY webapps.add-homescreen "Gehitu hasierako pantailara">
