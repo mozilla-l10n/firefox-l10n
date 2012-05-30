@@ -20,7 +20,7 @@
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
 <!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkSpelling.label             "Kontrolearje myn stavering as ik typ">
-<!ENTITY checkSpelling.accesskey         "s">
+<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Systeemstanderts">
 <!ENTITY alwaysCheckDefault.label        "Wylst it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
@@ -29,15 +29,15 @@
 <!ENTITY checkNow.accesskey              "k">
 <!ENTITY submitCrashes.label             "Ungelokrapport yntsjinje">
 <!ENTITY submitCrashes.accesskey         "U">
-<!ENTITY submitTelemetry.label           "Stoer prestaasjegegevens">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "Stjoer prestaasjegegevens">
+<!ENTITY submitTelemetry.accesskey       "S">
 
 <!ENTITY networkTab.label                "Netwurk">
 
 <!ENTITY connection.label                "Ferbining">
 
 <!ENTITY connectionDesc.label            "Bepaal hoe't &brandShortName; ferbining makket mei Ynternet">
-<!ENTITY connectionSettings.label        "Ynstellingen...">
+<!ENTITY connectionSettings.label        "Ynstellingen…">
 <!ENTITY connectionSettings.accesskey    "Y">
 
 <!ENTITY httpCache.label                 "Buffere webynhâld">
@@ -63,9 +63,9 @@
 <!ENTITY updateTab.label                "Fernijing">
 
 <!ENTITY updateApp.label                 "&brandShortName;-fernijingen:">
-<!ENTITY updateAuto.label                "Fernijingen automatysk ynstallearje (oanrikkemandearre: ferbettere feilichheid)">
+<!ENTITY updateAuto.label                "Fernijingen automatysk ynstallearje (oanrikkemandearre: bettere feilichheid)">
 <!ENTITY updateAuto.accesskey            "F">
-<!ENTITY updateCheck.label               "Kontrolearje op fernijingen mar lit my kieze oft ik it ynstallearje wol">
+<!ENTITY updateCheck.label               "Kontrolearje op fernijingen mar lit my kieze oft ik se ynstallearje wol">
 <!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Noait kontrolearje op fernijingen (net oanrikkemandearre: feilichheidsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
@@ -74,9 +74,9 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "w">
 
 <!ENTITY updateHistory.label            "Fernijingsskiednis sjen litte">
-<!ENTITY updateHistory.accesskey        "s">
+<!ENTITY updateHistory.accesskey        "l">
 
-<!ENTITY useService.label                "Gebrûk in achtergrûntsjinst om fernijingen te ynstallearjen">
+<!ENTITY useService.label                "Brûk in achtergrûntsjinst om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Automatysk fernijing:">
@@ -85,12 +85,12 @@
 
 <!ENTITY offlineNotify.label             "My fertelle as in webstee freget om gegevens te bewarjen foar offline gebrûk">
 <!ENTITY offlineNotify.accesskey         "e">
-<!ENTITY offlineNotifyExceptions.label   "Utsûnderingen">
+<!ENTITY offlineNotifyExceptions.label   "Utsûnderingen…">
 <!ENTITY offlineNotifyExceptions.accesskey "u">
 
 <!ENTITY offlineAppsList2.label          "De folgjende websteeën hawwe tastimming om gegevens te bewarjen foar offlinegebrûk:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Fuortsmite...">
+<!ENTITY offlineAppsListRemove.label     "Fuortsmite…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
 <!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
 

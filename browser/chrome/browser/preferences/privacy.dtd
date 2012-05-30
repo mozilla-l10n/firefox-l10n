@@ -66,13 +66,13 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!ENTITY  rememberHistory2.label      "Myn navigaasje- en ynlaadskiednis ûnthâlde">
-<!ENTITY  rememberHistory2.accesskey  "h">
+<!ENTITY  rememberHistory2.accesskey  "M">
 
 <!ENTITY  rememberSearchForm.label       "Unthâld syk- en formulierskiednis">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "o">
 
 <!ENTITY  clearOnClose.label             "Wiskje skiednis as &brandShortName; ôfslút">
 <!ENTITY  clearOnClose.accesskey         "w">
 
 <!ENTITY  clearOnCloseSettings.label     "Ynstellingen…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  clearOnCloseSettings.accesskey "Y">
