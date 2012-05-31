@@ -46,7 +46,4 @@
 
 <!ENTITY done.title                     "ಆಮದು ಪೂರ್ಣಗೊಂಡಿದೆ">
 <!ENTITY done.label                     "ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಆಮದು ಮಾಡಿಕೊಳ್ಳಲಾಯಿತು:">
-
-<!ENTITY importFromHTMLFile.label       "ಒಂದು HTML ಕಡತದಿಂದ">
-<!ENTITY importFromHTMLFile.accesskey   "F">
 <!ENTITY importFromFirefox.accesskey    "X">

@@ -188,11 +188,11 @@
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label            "ಹೊಸ  ವಿಂಡೋದಲ್ಲಿ ಕೊಂಡಿಯನ್ನುತೆರೆ">
+<!ENTITY openLinkCmd.label            "ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkCmdInTab.label       "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನುತೆರೆ">
+<!ENTITY openLinkCmdInTab.label       "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು(ಫ್ರೇಮ್) ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ">
+<!ENTITY openFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು (ಫ್ರೇಮ್) ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openFrameCmdInTab.label      "ಚೌಕಟ್ಟನ್ನು ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆಯಿರಿ">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
@@ -235,7 +235,7 @@
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "ಚಿತ್ರವನ್ನು ಕಳುಹಿಸು...">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "ತಾಣದ ವಿಳಾಸವನ್ನು(ಲಿಂಕ್ ಲೋಕೇಶನ್)  ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyLinkCmd.label            "ತಾಣದ ವಿಳಾಸವನ್ನು (ಲಿಂಕ್ ಲೋಕೇಶನ್)  ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ಚಿತ್ರದ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -255,7 +255,7 @@
 <!ENTITY sidebarCloseButton.tooltip     "ಬದಿಯಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು">
 
 <!ENTITY cutButton.tooltip              "ಕತ್ತರಿಸು">
-<!ENTITY copyButton.tooltip             "ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyButton.tooltip             "ಪ್ರತಿ ಮಾಡು">
 <!ENTITY pasteButton.tooltip            "ಅಂಟಿಸು">
 
 <!ENTITY quitApplicationCmdWin.label       "ಹೊರನಡೆ"> 
@@ -308,7 +308,7 @@
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkPageCmd2.label       "ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY bookmarkThisFrameCmd.label      "ಈ ಫ್ರೇಮ್ ಅನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
+<!ENTITY bookmarkThisFrameCmd.label      "ಈ ಚೌಕಟ್ಟನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisLinkCmd.label      "ಈ ಕೊಂಡಿಯನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -345,7 +345,7 @@
 <!ENTITY identity.runBy "ಇದನ್ನು ನಡೆಸುತ್ತಿರುವವರು">
 <!ENTITY identity.unverifiedsite2 "ಈ ಜಾಲತಾಣವು ತನ್ನು ಗುರುತು ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿಲ್ಲ.">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY printFrameCmd.label          "ಫ್ರೇಮ್ ಅನ್ನು ಮುದ್ರಿಸು…">
+<!ENTITY printFrameCmd.label          "ಚೌಕಟ್ಟನ್ನು ಮುದ್ರಿಸು…">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY fullZoom.accesskey             "Z">
@@ -569,14 +569,10 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
 
 <!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
 activates the Web Developer->Inspect UI's HTML Tree Panel. -->
 
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "HTML ಪಟ್ಟಿ">
 
 <!ENTITY inspect3DViewButton.label     "3D ನೋಟ">
 <!ENTITY inspect3DViewButton.accesskey "W">
@@ -587,10 +583,13 @@ hovers over the HTML panel's toolbar button. -->
 
 <!ENTITY inspectStyleButton.label     "ಶೈಲಿ">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY htmlPanel.label              "HTML">
 
 <!ENTITY inspectorHTMLCopyInner.label       "ಒಳಗಿನ HTML ಅನ್ನು ಪ್ರತಿ ಮಾಡು">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's toolbar button -->
+<!ENTITY markupButton.accesskey          "M">
+
 
 <!ENTITY inspectorHTMLCopyOuter.label       "ಹೊರಗಿನ HTML ಅನ್ನು ಪ್ರತಿ ಮಾಡು">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
@@ -616,3 +615,6 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "ಅಂಕಿಅಂಶಗಳನ್ನು ಅಡಗಿಸು">
 <!ENTITY videoHideStats.accesskey    "t">
+
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button located in front of the breadcrumbs display in the inspector toolbar. The button doesn't display any label, but exposes a label to screen-readers with "aria-label".-->
+ <!ENTITY markupButton.arialabel          "ಗುರುತು">
