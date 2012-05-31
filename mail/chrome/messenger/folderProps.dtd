@@ -57,7 +57,7 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "天的郵件或文章">
 <!ENTITY message.label "封以外全部刪除">
-<!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，舊郵件或文章可以永遠刪除">
+<!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，可以永遠刪除舊郵件或文章。">
 <!ENTITY retentionCleanupImap.label "欲回復磁碟空間，可以永久刪除舊郵件的本機副本和遠端的原始郵件。">
 <!ENTITY retentionCleanupPop.label "欲回復磁碟空間，可以永久刪除舊的郵件包括遠端伺服器上的那一份。">
 <!ENTITY retentionDeleteMsg.label "刪除存放超過">

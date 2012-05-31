@@ -17,7 +17,7 @@
 <!ENTITY toolsMenu.tooltip                    "所有附加元件的工具">
 
 <!ENTITY cmd.back.tooltip                     "回到上一頁">
-<!ENTITY cmd.forward.tooltip                  "到下一頁">
+<!ENTITY cmd.forward.tooltip                  "前進下一頁">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "所有附加元件於安全模式中都已停用。">

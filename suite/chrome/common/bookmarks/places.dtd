@@ -86,7 +86,7 @@
 
 <!ENTITY search.in.label                           "尋找:">
 <!ENTITY search.scopeFolder.label                  "所選的資料夾">
-<!ENTITY search.scopeFolder.accesskey              "S">
+<!ENTITY search.scopeFolder.accesskey              "m">
 <!ENTITY search.scopeBookmarks.label               "書籤">
 <!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY saveSearch.label                          "儲存">

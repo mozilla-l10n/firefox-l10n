@@ -9,7 +9,7 @@
 <!ENTITY backButton.tooltip             "回到上一頁">
 <!ENTITY forwardButton.label            "下一頁">
 <!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "瀏覽下一頁">
+<!ENTITY forwardButton.tooltip          "前進下一頁">
 <!ENTITY copyCmd.label                  "複製">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "全選">
