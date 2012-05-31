@@ -125,5 +125,7 @@
 <!ENTITY  permGeo               "ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊ">
 <!ENTITY  permIndexedDB              "ಆಫ್‌ಲೈನ್ ಶೇಖರಣೆಯನ್ನು ನೋಡಿಕೊ">
 
+<!ENTITY  permPlugins           "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
+
 
 
