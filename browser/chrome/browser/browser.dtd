@@ -103,7 +103,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "允許">
 <!ENTITY fullscreenExitButton.label "拒絕">
 <!ENTITY fullscreenApproval.value "允許進入全螢幕模式？">
+
 <!ENTITY fullscreenExitHint.value "隨時按下 ESC 鍵以離開全螢幕模式。">
+<!ENTITY leaveDOMFullScreen.label "離開全螢幕模式">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "關閉視窗">
 <!ENTITY closeWindow.accesskey "d">
