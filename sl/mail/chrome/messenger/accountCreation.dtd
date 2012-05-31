@@ -11,44 +11,46 @@
 <!ENTITY password.placeholder            "Geslo">
 <!ENTITY password.text                   "Po želji, rabilo se bo samo za potrditev vašega uporabniškega imena">
 <!ENTITY rememberPassword.label          "Zapomni si geslo">
-<!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY rememberPassword.accesskey      "Z">
 
 <!ENTITY imapLong.label                  "IMAP (oddaljene mape)">
-<!ENTITY pop3Long.label                  "POP3 (pošta ostane na vašem računalniku)">
+<!ENTITY pop3Long.label                  "POP3 (pošto se hrani na vašem računalniku)">
 
 <!ENTITY incoming.label                  "Prihajajoča:">
 <!ENTITY outgoing.label                  "Odhajajoča:">
-<!ENTITY username.label                  "Ime uporabnika:">
+<!ENTITY username.label                  "Uporabniško ime:">
 <!ENTITY hostname.label                  "Ime strežnika">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Avtentikacija">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Autodetect">
+<!ENTITY autodetect.label                "Sam ugotovi">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Brez">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Napredna nastavitev">
-<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY advancedSetup.label             "Ročna nastavitev …">
+<!ENTITY advancedSetup.accesskey         "R">
 <!ENTITY cancel.label                    "Prekliči">
-<!ENTITY cancel.accesskey                "P">
+<!ENTITY cancel.accesskey                "Q">
 <!ENTITY continue.label                  "Nadaljuj">
 <!ENTITY continue.accesskey              "N">
-<!ENTITY stop.label                      "Stop">
-<!ENTITY stop.accesskey                  "S">
+<!ENTITY stop.label                      "Ustavi">
+<!ENTITY stop.accesskey                  "U">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label                 "Ponovno preveri konfiguracijo">
-<!ENTITY half-manual-test.accesskey             "P">
+<!ENTITY half-manual-test.label                    "Ponovno preveri">
+<!ENTITY half-manual-test.accesskey                "P">
 <!ENTITY manual-edit.label                      "Uredi ročno">
-<!ENTITY manual-edit.accesskey                  "U">
+<!ENTITY manual-edit.accesskey           "U">
+<!ENTITY switch-to-provisioner.label     "Dobi nov račun">
+<!ENTITY switch-to-provisioner.accesskey "D">
 
 
 <!ENTITY warning.label                   "Opozorilo!">
@@ -63,8 +65,8 @@
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Ustvari račun">
-<!ENTITY createAccount.accesskey         "U">
+<!ENTITY doneAccount.label               "Storjeno">
+<!ENTITY doneAccount.accesskey           "S">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

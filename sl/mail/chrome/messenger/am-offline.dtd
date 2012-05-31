@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Zaradi prihranka prostora na disku, ne prenesi:">
 <!ENTITY doNotDownloadNntp.label "Zaradi prihranka prostora na disku, ne prenesi, kadar delaš brez povezave:">
-<!ENTITY doNotDownloadImap.label "Če želite varčevati s prostorom na disku, je mogoče prenos in lokalno hranjenje sporočil za delo brez povezave omejiti glede da njihovo starost ali velikost.">
+<!ENTITY doNotDownloadImap.label "Če želite varčevati s prostorom na disku, je mogoče prenos in krajevno hranjenje sporočil za delo brez povezave omejiti glede da njihovo starost ali velikost.">
 <!ENTITY allFoldersOffline.label "Ohrani sporočila za ta račun na tem računalniku">
 <!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY offlineNotDownload.label "Sporočila večja kot">
@@ -15,7 +15,7 @@
 <!ENTITY nntpDownloadMsg.label "Sporočila večja kot">
 <!ENTITY nntpDownloadMsg.accesskey "s">
 <!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila.">
-<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, lokalno in na oddaljenem strežniku.">
+<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, krajevno in na oddaljenem strežniku.">
 <!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
 <!ENTITY retentionKeepMsg.label "Zbriši sporočila starejša kot">
 <!ENTITY retentionKeepMsg.accesskey "n">
@@ -33,7 +33,7 @@
 <!ENTITY offlineSelectNntp.accesskey "b">
 <!ENTITY offlineImapAdvancedOffline.label "Napredno…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "p">
-<!ENTITY syncGroupTitle.label "Sinhronizacija sporočil">
+<!ENTITY syncGroupTitle.label "Usklajevanje sporočil">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
@@ -42,9 +42,9 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Sinhroniziraj vsa sporočila lokalno, ne glede na starost">
+<!ENTITY allAutosync.label               "Uskladi vsa sporočila krajevno, ne glede na starost">
 <!ENTITY allAutosync.accesskey           "u">
-<!ENTITY ageAutosyncBefore.label         "Sinhroniziraj najnovejša">
+<!ENTITY ageAutosyncBefore.label         "Uskladi najnovejša">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Dnevi">

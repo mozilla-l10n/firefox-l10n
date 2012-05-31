@@ -46,9 +46,9 @@
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "g">
 
-<!ENTITY event.new.todo                         "Nov opravek …">
-<!ENTITY event.new.todo.key                     "O">
-<!ENTITY event.new.todo.accesskey               "o">
+<!ENTITY event.new.task                         "Nov opravek …">
+<!ENTITY event.new.task.key                     "O">
+<!ENTITY event.new.task.accesskey               "o">
 
 <!ENTITY calendar.new.server.label              "Nov koledar …">
 <!ENTITY calendar.new.server.key                "L">

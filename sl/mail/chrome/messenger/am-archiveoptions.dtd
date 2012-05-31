@@ -1,14 +1,14 @@
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Nastavitve za arhiv">
-<!ENTITY archiveGranularityPrefix.label "Ko arhiviraš sporočila, jih prestavi v:">
+<!ENTITY dialogTitle.label "Možnosti za arhiviranje">
+<!ENTITY archiveGranularityPrefix.label "Pri arhiviranju shrani sporočila v:">
 <!ENTITY archiveFlat.label "eno samo mapo">
-<!ENTITY archiveFlat.accesskey "s">
-<!ENTITY archiveYearly.label "Mape za letne arhive">
+<!ENTITY archiveFlat.accesskey "e">
+<!ENTITY archiveYearly.label "letne arhivske mape">
 <!ENTITY archiveYearly.accesskey "l">
-<!ENTITY archiveMonthly.label "Mape za mesečne arhive">
+<!ENTITY archiveMonthly.label "mesečne arhivske mape">
 <!ENTITY archiveMonthly.accesskey "m">
-<!ENTITY keepFolderStructure.label "Ohrani obstoječo strukturo map za arhivirana sporočila">
+<!ENTITY keepFolderStructure.label "Obdrži obstoječo strukturo map z arhiviranimi sporočili">
 <!ENTITY keepFolderStructure.accesskey "O">
 <!ENTITY archiveExample.label "Primer">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default

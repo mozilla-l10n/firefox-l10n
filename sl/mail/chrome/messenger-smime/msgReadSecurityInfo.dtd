@@ -7,4 +7,4 @@
 <!ENTITY signer.name "Podpisnik:">
 <!ENTITY recipient.name "Šifrirano za:">
 <!ENTITY email.address "E-poštni naslov:">
-<!ENTITY issuer.name "Certifikator:">
+<!ENTITY issuer.name "Izdajatelj:">

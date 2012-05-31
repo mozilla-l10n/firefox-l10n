@@ -51,10 +51,14 @@
 <!ENTITY netInterrupt.title "Povezava je bila prekinjena">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+
+<!ENTITY notCached.title "Dokument je potekel">
+<!ENTITY notCached.longDesc "<p>Zahtevani dokument v medpomnilniku brskalnika ni več na razpolago.</p><ul><li>Iz varnostnih razlogov &brandShortName; občutljivih dokumentov ne zahteva ponovno.</li><li>Kliknite na poskusi znova, da sdokument ponovno zahteva s spletne strani.</li></ul>">
+
 <!ENTITY netOffline.title "Brez povezave">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Pritisnite na &quot;Poizkusite znova&quot;, da preklopite v povezan način, in stran naložite znova.</li>
+  <li>Pritisnite na &quot;Poizkusi znova&quot;, da preklopite v mrežni način in ponovno naložite stran.</li>
 </ul>
 ">
 
@@ -107,15 +111,15 @@
 <!ENTITY redirectLoop.title "Stran se ne preusmerja pravilno">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ta problem se lahko včasih nastane zaradi neveljavnosti ali zavračanja
-     piškotkov.</li>
+  <li>Ta problem se lahko včasih nastane zaradi neveljavnosti ali zavračanja piškotov.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito nameščen.</li>
+  <li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito 
+    nameščen.</li>
   <li>To je lahko posledica ne-standardne konfiguracije na strežniku.</li>
 </ul>
 ">
@@ -133,13 +137,15 @@
 <ul>
   <li>To je lahko težava s konfiguracijo strežnika, ali pa se
 nekdo poskuša predstaviti kot strežnik.</li>
-  <li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko da začasno napako, tako da lahko ponovno poskusite kasneje.</li>
+  <li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko 
+    da začasno napako, tako da lahko ponovno poskusite kasneje.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Spletna stran je trenutno nedosegljiva ali pa zasedena. Poizkusite malo kasneje.</li>
+  <li>Spletna stran je trenutno nedosegljiva ali pa zasedena. Poizkusite malo 
+    kasneje.</li>
   <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika
     z mrežo.</li>
   <li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte,
@@ -162,8 +168,8 @@ nekdo poskuša predstaviti kot strežnik.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi pravil za varnost vsebin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
 
-<!ENTITY corruptedContentError.title "Napaka - okvarjkena vsebina">
-<!ENTITY corruptedContentError.longDesc "<p>Vsebino, ki jo jo želite ogledati, ni mogoče prikazati, ker je pri prenosu podatkov bila zaznana napaka.</p><ul><li>Obrnite se na lastnike in jih obvestite o tem problemu.</li></ul>">
+<!ENTITY corruptedContentError.title "Napaka - okvarjena vsebina">
+<!ENTITY corruptedContentError.longDesc "<p>Vsebine, ki jo želite videti, zaradi napake pri prenosu podatkov ni mogoče prikazati.</p><ul><li>Obrnite se na lastnike strani in jih obvestite o problemu.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
@@ -180,5 +186,7 @@ netError.xhtml) because it exposes functionality specific to thunderbird. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
-<!ENTITY remoteXUL.title "Daljinski XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se prosim na lastnike in jih obvestite o tem problemu.</li></ul></p>">
+
+<!ENTITY remoteXUL.title "Oddaljeni XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o tem problemu.</li></ul></p>">
+

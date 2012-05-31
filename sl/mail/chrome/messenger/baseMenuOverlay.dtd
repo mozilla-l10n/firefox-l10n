@@ -7,7 +7,7 @@
 <!ENTITY helpMenuWin.accesskey "č">
 <!ENTITY helpTroubleshootingInfo.label "Informacije o problemu">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Zaženi ponovno z onemogočenimi dodatki…">
+<!ENTITY helpSafeMode.label     "Zaženi znova z onemogočenimi dodatki…">
 <!ENTITY helpSafeMode.accesskey "ž">
 <!ENTITY releaseCmd2.label "Opombe ob izdaji">
 <!ENTITY releaseCmd2.accesskey "O">
@@ -22,5 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "O &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "O">
+<!ENTITY aboutMenuCmd.label "O &brandShortName;u">
+<!ENTITY aboutMenuCmd.accesskey "T">

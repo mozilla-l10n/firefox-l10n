@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Varnost sporočila">
-<!ENTITY subject.plaintextWarning "Prosimo, upoštevajte: vrstice s predmetom e-pošte nikoli niso šifrirane.">
+<!ENTITY subject.plaintextWarning "Upoštevajte: vrstice s predmetom e-pošte nikoli niso šifrirane.">
 <!ENTITY status.heading "Vsebino vašega sporočila se bo poslalo kot sledi:">
 <!ENTITY status.signed "Elektronsko podpisano:">
 <!ENTITY status.encrypted "Šifrirano:">
@@ -9,6 +9,6 @@
 <!ENTITY view.label "Pogled">
 <!ENTITY view.accesskey "P">
 <!ENTITY tree.recipient "Prejemnik">
-<!ENTITY tree.status "Status">
+<!ENTITY tree.status "Stanje">
 <!ENTITY tree.issuedDate "Izdano">
 <!ENTITY tree.expiresDate "Poteče">

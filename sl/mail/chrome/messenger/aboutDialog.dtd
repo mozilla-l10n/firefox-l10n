@@ -1,35 +1,35 @@
-<!ENTITY aboutDialog.title          "O &brandFullName;">
+<!ENTITY aboutDialog.title          "O &brandFullName;u">
 
-<!ENTITY community.start2           "&brandShortName; je razvila">
+<!ENTITY community.start2           "&brandShortName; razvija ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "svetovna skupnost">
-<!ENTITY community.end2             " sodelavcev, ki hočejo izboljšati splet. Verjamemo v splet, ki je odprt, javen in  brez omejitev dostopen za vsakogar.">
+<!ENTITY community.creditsLink      "globalna skupnost, ">
+<!ENTITY community.end2             " ki si prizadeva za boljši internet. Verjamemo, da mora biti internet odprt, javen ter dostopen vsem in brez omejitev.">
 
-<!ENTITY contribute.start           "Zanimivo? ">
+<!ENTITY contribute.start           "Se vam sliši zanimivo? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Pridružite se nam!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Licenčni podatki">
+<!ENTITY bottomLinks.license        "Dovoljenja">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Pravice končnega uporabnika">
+<!ENTITY bottomLinks.rights         "Vaše pravice">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Smernice o zasebnosti">
+<!ENTITY bottomLinks.privacy        "Politika zasebnosti">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Preverjanje posodobitev…">
+<!ENTITY update.checkingForUpdates  "Preverjanje posodobitev …">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Preverjanje skladnosti dodatkov…">
+<!ENTITY update.checkingAddonCompat "Preverjanje združljivosti dodatkov …">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; je ažuren">
+<!ENTITY update.noUpdatesFound      "&brandShortName; je posodobljen">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Posodobitve je administrator onemogočil">
+<!ENTITY update.adminDisabled       "Vaš sistemski skrbnik je onemogočil posodabljanje">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -37,15 +37,15 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Posodobitev ni uspela. ">
-<!ENTITY update.failed.linkText     "Prenesi najnovejšo inačico">
+<!ENTITY update.failed.linkText     "Prenesite najnovejšo različico">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Prenesi ">
-<!ENTITY update.manual.linkText     "Najnovejšo inačico">
+<!ENTITY update.manual.start        "Prenesite ">
+<!ENTITY update.manual.linkText     "najnovejšo različico">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -53,33 +53,13 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "prenos posodobitve — ">
+<!ENTITY update.downloading.start   "Prenašanje posodobitev — ">
 <!ENTITY update.downloading.end     "">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Trenutno ste na ">
-<!ENTITY channel.description.end    " kanalu za posodobitve. ">
-
-<!ENTITY channel.change             "Spremeni">
-
-<!ENTITY channel.release.description       "Uživajte v preizkušeni končni inačici skupaj z več sto milijoni uporabnikov po vsem svetu. Odločite se za mirno plovbo po spletu s super hitrostjo, enostavnim prilagajanjem in najnovejšimi spletnimi tehnologijami.">
-<!ENTITY channel.beta.description          "Preizkusite vrhunske funkcije s povečano stabilnostjo. Sporočite nam svoje izkušnje in nam pomagajte dodelati in zloščiti vsebino končne izdaje.">
-<!ENTITY channel.aurora.description        "Oglejte si najnovejše inovacije v nestabilnem okolju, ki ni za uporabnike s šibkim srcem. Sporočite nam svoje izkušnje, da se bomo laže odločili zua končno vsebino.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "SPremenjaj v">
-<!ENTITY channel.selector.end            "kanal za posodobitve.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Uporabi in posodobi">
-<!ENTITY channel.selector.cancelButton   "Prekini">
-
-
+<!ENTITY channel.description.start  "Uporabljate posodobitveni kanal ">
+<!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

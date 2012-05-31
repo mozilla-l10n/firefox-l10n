@@ -43,22 +43,22 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Prilagodi prehode za dostop do spleta">
+<!ENTITY  proxyTitle.label              "Prilagodi posrednike za dostop do spleta">
 <!ENTITY  directTypeRadio.label         "Neposredna povezava v splet">
 <!ENTITY  directTypeRadio.accesskey     "N">
-<!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve prehoda za to omrežje">
+<!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve posrednika za to omrežje">
 <!ENTITY  WPADTypeRadio.accesskey       "S">
-<!ENTITY  manualTypeRadio.label         "Ročna nastavitev prehoda:">
+<!ENTITY  manualTypeRadio.label         "Ročna nastavitev posrednika:">
 <!ENTITY  manualTypeRadio.accesskey     "R">
-<!ENTITY  autoTypeRadio.label           "Samodejna nastavitev URL prehoda:">
+<!ENTITY  autoTypeRadio.label           "Samodejna nastavitev URL posrednika:">
 <!ENTITY  autoTypeRadio.accesskey       "p">
 <!ENTITY  reload.label                  "Ponovno naloži">
 <!ENTITY  reload.accesskey              "ž">
-<!ENTITY  ftp.label                     "Prehod FTP:">
+<!ENTITY  ftp.label                     "Posrednik FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Prehod HTTP:">
+<!ENTITY  http.label                    "Posrednik HTTP:">
 <!ENTITY  http.accesskey                "d">
-<!ENTITY  ssl.label                     "Prehod SSL:">
+<!ENTITY  ssl.label                     "Posrednik SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Gostitelj SOCKS:">
 <!ENTITY  socks.accesskey               "C">
@@ -71,8 +71,8 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Ni prehoda za:">
+<!ENTITY  noproxy.label                 "Ni posrednika za:">
 <!ENTITY  noproxy.accesskey             "z">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Uporabite ta strežnik prehoda za vse protokole">
+<!ENTITY  shareproxy.label              "Uporabi ta postrežniški strežnik za vse protokole">
 <!ENTITY  shareproxy.accesskey          "a">

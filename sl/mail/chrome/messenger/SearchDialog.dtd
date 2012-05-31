@@ -41,9 +41,9 @@
 <!ENTITY priorityColumn.label "Prioriteta">
 <!ENTITY tagsColumn.label "Oznake">
 <!ENTITY accountColumn.label "Račun">
-<!ENTITY statusColumn.label "Status">
+<!ENTITY statusColumn.label "Stanje">
 <!ENTITY sizeColumn.label "Velikost">
-<!ENTITY junkStatusColumn.label "Status za neželeno">
+<!ENTITY junkStatusColumn.label "Stanje za neželeno">
 <!ENTITY unreadColumn.label "Neprebrano">
 <!ENTITY totalColumn.label "Skupaj">
 <!ENTITY readColumn.label "Prebrano">
@@ -62,7 +62,7 @@
 <!ENTITY priorityColumn.tooltip "Kliknite za razvrščanje po prioriteti">
 <!ENTITY tagsColumn.tooltip "Kliknite za razvrščanje po oznakah">
 <!ENTITY accountColumn.tooltip "Kliknite za razvrščanje po računu">
-<!ENTITY statusColumn.tooltip "Kliknite za razvrščanje po statusu">
+<!ENTITY statusColumn.tooltip "Kliknite za razvrščanje po stanju">
 <!ENTITY sizeColumn.tooltip "Kliknite za razvrstitev po velikosti">
 <!ENTITY junkStatusColumn.tooltip "Kliknite za razvrščanje glede na želeno/neželeno">
 <!ENTITY unreadColumn.tooltip "Število neprebranih sporočil v niti">

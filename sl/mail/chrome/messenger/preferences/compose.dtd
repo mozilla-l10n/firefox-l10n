@@ -39,7 +39,7 @@
 <!ENTITY emailCollectionPicker.accesskey       "N">
 <!ENTITY addressingTitle.label                 "Samodokončanje naslova">
 <!ENTITY autocompleteText.label                "Pri naslavljanju sporočil išči ustrezne vnose v:">
-<!ENTITY addressingEnable.label                "lokalnih adresarjih">
+<!ENTITY addressingEnable.label                "krajevnih adresarjih">
 <!ENTITY addressingEnable.accesskey            "m">
 <!ENTITY directories.label                     "Imeniškem strežniku:">
 <!ENTITY directories.accesskey                 "D">
