@@ -1,28 +1,28 @@
-<!ENTITY windowTitle.label            "Chat Account Wizard">
+<!ENTITY windowTitle.label            "Майстер облікових записів">
 
-<!ENTITY accountProtocolTitle.label   "Chat network">
-<!ENTITY accountProtocolInfo.label    "Please choose the network of your chat account.">
-<!ENTITY accountProtocolField.label   "Network:">
-<!ENTITY accountProtocolGetMore.label "Get more…">
+<!ENTITY accountProtocolTitle.label   "Протокол">
+<!ENTITY accountProtocolInfo.label    "Виберіть протокол вашого облікового запису IM зі списку.">
+<!ENTITY accountProtocolField.label   "Протокол:">
+<!ENTITY accountProtocolGetMore.label "Отримати більше…">
 
-<!ENTITY accountUsernameTitle.label   "Username">
-<!ENTITY accountUsernameDuplicate.label "This account is already configured!">
+<!ENTITY accountUsernameTitle.label   "Ім’я користувача">
+<!ENTITY accountUsernameDuplicate.label "Цей обліковий запис уже налаштовано!">
 
-<!ENTITY accountPasswordTitle.label   "Password">
-<!ENTITY accountPasswordInfo.label    "Please enter your password in the box below.">
-<!ENTITY accountPasswordField.label   "Password:">
-<!ENTITY accountPasswordManager.label "The password entered here will be stored in the Password Manager. Leave this box empty if you want to be prompted for your password each time this account is connected.">
+<!ENTITY accountPasswordTitle.label   "Пароль">
+<!ENTITY accountPasswordInfo.label    "Введіть ваш пароль у цьому полі.">
+<!ENTITY accountPasswordField.label   "Пароль:">
+<!ENTITY accountPasswordManager.label "Введений вами пароль буде збережений в Керівнику Паролями. Якщо ви хочете щоразу вводити пароль при підключенні цього запису, то лишіть це поле порожнім.">
 
-<!ENTITY accountAdvancedTitle.label   "Advanced Options">
-<!ENTITY accountAdvancedInfo.label    "Feel free to skip this step if you want to.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Notify on new Mail">
-<!ENTITY accountAliasGroupbox.caption "Local Alias">
-<!ENTITY accountAliasField.label      "Alias:">
-<!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
-<!ENTITY accountProxySettings.caption "Proxy Settings">
-<!ENTITY accountProxySettings.change.label     "Change…">
-<!ENTITY accountProxySettings.change.accessKey "C">
+<!ENTITY accountAdvancedTitle.label   "Розширені параметри">
+<!ENTITY accountAdvancedInfo.label    "Залиште пустим, щоб пропустити цей крок, якщо хочете.">
+<!ENTITY accountAdvanced.newMailNotification.label   "Повідомити на новий e-mail">
+<!ENTITY accountAliasGroupbox.caption "Локальний псевдонім">
+<!ENTITY accountAliasField.label      "Псевдонім:">
+<!ENTITY accountAliasInfo.label       "Це буде показано лише вам у бесідах, ваші співрозмовники не бачитимуть цього.">
+<!ENTITY accountProxySettings.caption "Параметри проксі">
+<!ENTITY accountProxySettings.change.label     "Змінити…">
+<!ENTITY accountProxySettings.change.accessKey "З">
 
-<!ENTITY accountSummaryTitle.label   "Summary">
-<!ENTITY accountSummaryInfo.label    "A summary of the information you entered is displayed below. Please check it before the account is created.">
-<!ENTITY accountSummary.connectNow.label "Connect this account now.">
+<!ENTITY accountSummaryTitle.label   "Сумарно">
+<!ENTITY accountSummaryInfo.label    "Введена вами сумарна інформація показана нижче. Перевірте її перед створенням облікового запису.">
+<!ENTITY accountSummary.connectNow.label "Під'єднатись до цього облікового запису зараз.">
