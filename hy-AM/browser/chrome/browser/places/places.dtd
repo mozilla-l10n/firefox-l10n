@@ -67,12 +67,12 @@
 <!ENTITY cmd.findCurrent.label          "Գտնել ընթացիկ հավաքածույում…">
 <!ENTITY cmd.findCurrent.accesskey      "Գ">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Export Bookmarks to HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Import Data from Another Browser…">
-<!ENTITY importOtherBrowser.accesskey      "A">
+<!ENTITY importBookmarksFromHTML.label     "Ներմուծել էջանիշեր HTML-ից">
+<!ENTITY importBookmarksFromHTML.accesskey "Ն">
+<!ENTITY exportBookmarksToHTML.label       "Էջանիշերը արտահանել HTML ֆորմատով">
+<!ENTITY exportBookmarksToHTML.accesskey   "Է">
+<!ENTITY importOtherBrowser.label          "Ներմուծել տվյալներ այլ դիտարկիչից">
+<!ENTITY importOtherBrowser.accesskey      "Ն">
 
 <!ENTITY cmd.backup.label               "Պահել կրկնորինակը…">
 <!ENTITY cmd.backup.accesskey           "Պ">

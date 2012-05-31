@@ -40,7 +40,7 @@
 <!ENTITY title           "Տեղադրել Հավելումը">
 <!ENTITY intro           "Այլ ծրագիր փորձում է փոփոխել &brandShortName;-ի հետևյալ հավելումը.">
 <!ENTITY warning         "Զետեղել միայն այն հավելումները որոնց հեղինակներին ես վստահում եմ:">
-<!ENTITY allow           "Allow this installation">
+<!ENTITY allow           "Թույլատրել այս տեղակայումը">
 <!ENTITY later           "Կարող եք փոփոխել հետագայում Հավելումների Կառավարչում։">
 <!ENTITY continue        "Շարունակել">
 <!ENTITY restartMessage  "Պետք է վերամեկնարկեք &brandShortName;-ը՝ հավելման տեղադրումը ավարտելու համար։">

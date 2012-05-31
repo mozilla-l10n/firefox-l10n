@@ -52,8 +52,8 @@
 <!ENTITY useCurrentPage.label      "Օգտագործել ընթացիկ էջը">
 <!ENTITY useCurrentPage.accesskey  "Օ">
 <!ENTITY useMultiple.label         "Օգտագործել ընթացիկ էջերը">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
-<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY chooseBookmark.label      "Օգտագործել էջանիշ">
+<!ENTITY chooseBookmark.accesskey  "Օ">
 <!ENTITY restoreDefault.label      "Վերականգնել լռելայնը">
 <!ENTITY restoreDefault.accesskey  "Վ">
 

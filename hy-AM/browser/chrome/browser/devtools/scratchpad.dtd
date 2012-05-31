@@ -82,9 +82,9 @@
 <!ENTITY editMenu.label               "Խմբագրել">
 <!ENTITY editMenu.accesskey           "Խ">
 
-<!ENTITY run.label                    "Run">
-<!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "r">
+<!ENTITY run.label                    "Վազք">
+<!ENTITY run.accesskey                "Վ">
+<!ENTITY run.key                      "Վ">
 
 <!ENTITY inspect.label                "Հսկել">
 <!ENTITY inspect.accesskey            "Հ">
@@ -100,8 +100,8 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.label        "Միջավայր">
+<!ENTITY environmentMenu.accesskey    "Մ">
 
 
 <!ENTITY contentContext.label         "Պարունակությունը">
@@ -113,8 +113,8 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Browser">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.label         "Դիտարկիչ">
+<!ENTITY browserContext.accesskey     "Դ">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.

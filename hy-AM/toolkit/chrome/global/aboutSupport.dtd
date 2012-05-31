@@ -66,7 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
 <!ENTITY aboutSupport.appBasicsUserAgent "Օգտագործողի զննարկիչը">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Հիշողության ծավալ">
 
 <!ENTITY aboutSupport.showDir.label "Open Directory">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

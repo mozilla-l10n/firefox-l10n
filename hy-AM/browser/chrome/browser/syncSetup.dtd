@@ -43,7 +43,7 @@
 
 <!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY button.haveAccount.label      "Ես ունեմ հաշիվ">
 
 <!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
 <!ENTITY setup.choicePage.new.label       "Ես նախկինում երբեք չեմ օգտագործել &syncBrand.shortName.label;">
@@ -81,8 +81,8 @@
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;-ը հոգում է ձեր գաղտնիության մասին">
 <!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
-<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY recoveryKeyEntry.label        "Ձեր վերականգնման բանալին">
+<!ENTITY recoveryKeyEntry.accesskey    "Ձ">
 <!ENTITY syncGenerateNewKey.label  "Generate a new key">
 <!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
 
