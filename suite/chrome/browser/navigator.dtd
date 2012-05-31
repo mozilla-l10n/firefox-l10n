@@ -36,7 +36,7 @@
 <!ENTITY backButton.label             "上一頁">
 <!ENTITY backButton.tooltip           "回到上一頁">
 <!ENTITY forwardButton.label          "下一頁">
-<!ENTITY forwardButton.tooltip        "到下一頁">
+<!ENTITY forwardButton.tooltip        "前進下一頁">
 <!ENTITY reloadButton.label           "重新載入">
 <!ENTITY reloadButton.tooltip         "重新載入最新的網頁內容">
 <!ENTITY stopButton.label             "停止">

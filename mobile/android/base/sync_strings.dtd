@@ -10,7 +10,7 @@
 <!ENTITY sync.title.pair.label '與裝置配對'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label '若要啟用您的新裝置，請在您的裝置上選擇「設定 &syncBrand.shortName.label;」。'>
+<!ENTITY sync.subtitle.connect.label '請在您的裝置上選擇「設定 &syncBrand.shortName.label;」以啟用您的新裝置。'>
 <!ENTITY sync.subtitle.header.label '在您的電腦上輸入此代碼'>
 <!ENTITY sync.subtitle.connectlocation.label '請在您桌面版的 Firefox 選項當中的 &syncBrand.shortName.label; 分頁選擇「&sync.title.pair.label;」。'>
 <!ENTITY sync.subtitle.pair.label '若要啟用，請在您的另一台裝置選擇「與裝置配對」。'>
