@@ -27,7 +27,7 @@
   -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey     "S">
 
-<<!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
+<!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip        "Cerrar">
 
