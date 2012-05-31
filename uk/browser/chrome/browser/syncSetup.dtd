@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Сервер">
-<!ENTITY serverType.main.label      "Сервер &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Типово: Сервер Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Використати інший сервер…">
 <!ENTITY signIn.account2.label      "Обліковий запис">
 <!ENTITY signIn.account2.accesskey  "З">

@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Закладки">
 <!ENTITY  locbar.nothing.label          "Нічого">
 
-
 <!ENTITY  acceptCookies.label           "Приймати куки від сайтів">
 <!ENTITY  acceptCookies.accesskey       "и">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Завжди використовувати потайливий режим">
 <!ENTITY  privateBrowsingPermanent2.accesskey "З">
 
-<!ENTITY  rememberHistory.label      "Пам’ятати мою історію переглядів">
-<!ENTITY  rememberHistory.accesskey  "п">
-
-<!ENTITY  rememberDownload.label         "Пам’ятати історію завантажень">
-<!ENTITY  rememberDownload.accesskey     "з">
+<!ENTITY  rememberHistory2.label      "Пам’ятати мою історію переглядів та завантажень">
+<!ENTITY  rememberHistory2.accesskey  "п">
 
 <!ENTITY  rememberSearchForm.label       "Пам’ятати історію пошуків та форм">
 <!ENTITY  rememberSearchForm.accesskey   "ф">
