@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Rechazar ventanas emergentes de este sitio">
 <!ENTITY popupWindowRejectCmd.accesskey "R">
@@ -117,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">
 <!ENTITY spellAddToDictionary.label     "Agregar al diccionario">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label      "Deshacer agregar al diccionario">
+<!ENTITY spellUndoAddToDictionary.accesskey  "h">
 <!ENTITY spellIgnoreWord.label          "Ignorar palabra">
 <!ENTITY spellIgnoreWord.accesskey      "I">
 <!ENTITY spellCheckEnable.label         "Revisar ortografía">
