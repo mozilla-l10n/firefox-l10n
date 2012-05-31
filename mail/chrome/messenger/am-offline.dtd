@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "為節省磁碟空間，不下載:">
 <!ENTITY doNotDownloadNntp.label "為節省磁碟空間，不下載下列郵件供離線閱讀:">
 <!ENTITY doNotDownloadImap.label "為了節省磁碟空間，可以用郵件大小與時間過濾是否下載或保留從伺服器下載的郵件與本地端離線存檔。">

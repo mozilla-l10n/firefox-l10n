@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "消息來源訂閱">
 <!ENTITY subscriptionDesc.label      "注意: 移除或變更消息來源資料夾並不會影響已下載的文章。">

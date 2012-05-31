@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "垃圾郵件設定">
 <!ENTITY trainingDescription.label "若啟用，您必須透過垃圾信件工具列上的按鈕來將訊息標示為垃圾郵件或非垃圾郵件，以訓練 &brandShortName; 來識別垃圾信。您必須識別垃圾郵件與非垃圾郵件兩種郵件，在訓練完成之後 &brandShortName; 才能正常地自動標示垃圾郵件。">
 <!ENTITY level.label "對此帳號啟用漸進式垃圾郵件控制">
