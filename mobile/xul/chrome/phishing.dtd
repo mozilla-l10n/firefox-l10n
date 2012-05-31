@@ -1,0 +1,25 @@
+<!ENTITY safeb.palm.warning.title "Morebitne spletne prevare">
+
+<!ENTITY safeb.palm.message.p1 "Spletno stran so prijavili kot spletno prevaro, ki želi uporabnike prepričati v izdajo osebnih ali finančnih podatkov. Vnašanje osebnih podatkov na tej strani lahko pripelje do kraje identitete ali druge zlorabe. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Več o tem &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Več o tem &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Ta vrste spletnih prevar, ponavadi imenovanih phishing (lažno predstavljanje), oblikujejo spletne strani in e-pošto tako, da so videti kot znan legitimen vir, ki mu zaupate.  Preberete si lahko več o tem,  ">
+<!ENTITY safeb.palm.message.p2.linkText "kako vas &brandShortName; varuje">
+<!ENTITY safeb.palm.message.p2.end "  pred tovrstnimi napadi.">
+
+<!ENTITY safeb.palm.accept.label "Odpelji me na domačo stran!">
+<!ENTITY safeb.palm.accept.statustext "Naloži domačo stran">
+<!ENTITY safeb.palm.decline.label "Ignoriraj to opozorilo">
+<!ENTITY safeb.palm.decline.statustext "Zapre opozorilo" >
+<!ENTITY safeb.palm.notforgery.label2 "To ni spletna prevara …">
+<!ENTITY safeb.palm.reportPage.label "Zakaj je bila ta stran zavrnjena?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Sporočena napadalna stran!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Spletna stran na naslovu <span id='malware_sitename'/> je bila prijavljena kot napadalna stran in je bila zavrnjena na podlagi vaših varnostnih nastavitev.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Napadalne strani poskušajo namestiti programe za krajo osebnih podatkov, uporabijo vaš računalnik za napad na druge ali poškodujejo vaš sistem.</p><p>Nekatere napadalne strani namenoma razširjajo škodljivo programsko opremo, mnoge med njimi pa so omadeževane brez vednosti njihovih lastnikov.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Morebitna spletna prevara!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Vnašanje osebnih podatkov na tej strani lahko pripelje do kraje identitete ali druge zlorabe.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ta stran je videti, kot da je del prevare, ponavadi imenovane phishing (lažno predstavljanje), kjer se oblikuje spletne strani in e-pošto tako, da so videti kot znan legitimen vir, ki mu zaupate.</p>">

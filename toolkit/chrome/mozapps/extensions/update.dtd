@@ -1,20 +1,20 @@
 <!ENTITY updateWizard.title "Posodobitve za &brandShortName;">
 
 <!ENTITY offline.title "&brandShortName; je brez povezave">
-<!ENTITY offline.description "&brandShortName; potrebuje dostop do spleta, da lahko preveri, če obstajajo posodobitve za razširitve in teme, da bo le-te združljive s trenutno različico.">
+<!ENTITY offline.description "&brandShortName; potrebuje dostop do spleta, da lahko preveri, če obstajajo posodobitve za dodatke, da bodo združljivi s trenutno različico.">
 <!ENTITY offline.toggleOffline.label "Vključi povezavo.">
 <!ENTITY offline.toggleOffline.accesskey "D">
 
 <!ENTITY mismatch.win.title "Nezdružljive komponente">
-<!ENTITY mismatch.top.label "Naslednje razširitve in teme niso združljive s to različico &brandShortName;a in so onemogočene:">
-<!ENTITY mismatch.bottom.label "&brandShortName; lahko najde in namesti združljive različice teh razširitev in tem.">
+<!ENTITY mismatch.top.label "Naslednji dodatki niso združljivi s to različico &brandShortName;a in so onemogočeni:">
+<!ENTITY mismatch.bottom.label "&brandShortName; lahko najde in namesti združljive različice teh dodatkov.">
 
-<!ENTITY checking.wizard.title "Iščem združljive različice">
-<!ENTITY checking.top.label "Išče posodobitve za nezdružljive razžiritve in teme …">
+<!ENTITY checking.wizard.title "Iskanje združljivih različic">
+<!ENTITY checking.top.label "Iskanje posodobitev za nezdružljive dodatke …">
 <!ENTITY checking.status "To lahko traja nekaj minut …">
 
 <!ENTITY found.wizard.title "Najdene združljive različice">
-<!ENTITY found.top.label "Izberite razširitve in teme, ki jih želite namestiti:">
+<!ENTITY found.top.label "Izberite dodatke, ki jih želite namestiti:">
 <!ENTITY found.disabledXPinstall.label "Posodobitev ne morete namestiti, ker je nameščanje programske opreme trenutno onemogočeno. To lahko spremenite spodaj.">
 <!ENTITY found.enableXPInstall.label "Dovoli stranem, da nameščajo programsko opremo">
 <!ENTITY found.enableXPInstall.accesskey "D">
@@ -35,17 +35,17 @@ in vas opozori, ko bodo na voljo.">
 <!ENTITY finished.checkEnabled.desc "&brandShortName; bo redno iskal združljive različice 
 in vas opozoril, ko bodo na voljo.">
 
-<!ENTITY adminDisabled.wizard.title "Ni mogoče iskati posodobitev">
-<!ENTITY adminDisabled.warning.label "Ni mogoče posodobiti nezdružljivih komponent, ker nameščanje programske opreme ni dovoljeno. Za pomoč se obrnite na svojega skrbnika sistema.">
+<!ENTITY adminDisabled.wizard.title "Iskanje posodobitev ni mogoče">
+<!ENTITY adminDisabled.warning.label "Ni mogoče posodobiti nezdružljivih komponent, ker nameščanje programske opreme ni dovoljeno. Za pomoč se obrnite na skrbnika sistema.">
 
 <!ENTITY versioninfo.wizard.title "Preverjanje združljivosti dodatkov">
 <!ENTITY versioninfo.top.label "Preverjanje združljivosti dodatkov s to različico &brandShortName;a.">
 <!ENTITY versioninfo.waiting "To lahko traja nekaj minut …">
 
-<!ENTITY installerrors.wizard.title "Problemi med posodabljanjem">
-<!ENTITY installerrors.intro.label "&brandShortName; ima težave pri posodabljanju nekaterih razširitev in tem.">
+<!ENTITY installerrors.wizard.title "Težave med posodabljanjem">
+<!ENTITY installerrors.intro.label "&brandShortName; ima težave pri posodabljanju nekaterih dodatkov.">
 <!-- general strings used by several of the finish pages -->
 
 <!ENTITY clickFinish.label "Kliknite gumb Končaj, če želite, da &brandShortName; nadaljuje z zagonom.">
 <!ENTITY clickFinish.labelMac "Kliknite gumb Končaj za nadaljevanje zagona &brandShortName;a.">
-<!ENTITY enableChecking.label "Dovoli &brandShortName;u, da preverja za posodobitve.">
+<!ENTITY enableChecking.label "Dovoli &brandShortName;u, da išče posodobitve.">

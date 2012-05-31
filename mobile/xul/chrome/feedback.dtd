@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Orodja za povratne informacije">
+
+<!ENTITY feedback.communicate.title     "Bodite v stiku z nami!">
+<!ENTITY feedback.feedback.title        "Sporočite nam svoje mnenje">
+<!ENTITY feedback.feedback.good         "Dobrih">
+<!ENTITY feedback.feedback.bad          "Slabih">
+
+<!ENTITY feedback.tools.title           "Orodja">
+<!ENTITY feedback.allowTelemetry.title  "Pošiljaj podatke o zmogljivosti">
+<!ENTITY feedback.forceCompat.title     "Vsili združljivost dodatkov">
+<!ENTITY feedback.errorConsole.title    "Omogoči konzolo za napake">

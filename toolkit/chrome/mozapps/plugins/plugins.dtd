@@ -1,31 +1,34 @@
-<!ENTITY pluginWizard.title "Iskanje dodatkov">
-<!ENTITY pluginWizard.firstPage.title "Pozdravljeni v storitvi za iskanje dodatkov">
+<!ENTITY pluginWizard.title "Iskanje vstavkov">
+<!ENTITY pluginWizard.firstPage.title "Pozdravljeni v storitvi za iskanje vstavkov">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; išče dodatke ...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; išče vstavke …">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Dodatki na voljo">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Na voljo so naslednji dodatki:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Kliknite gumb Naprej za namestitev teh dodatkov.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Nekateri dodatki lahko med namestitvijo od vas zahtevajo dodatne podatke.">
+<!ENTITY pluginWizard.availablePluginsPage.title "Vstavki na voljo">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Na voljo so naslednji vstavki:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Kliknite gumb Naprej za namestitev teh vstavkov.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Nekateri vstavki lahko med namestitvijo od vas zahtevajo dodatne podatke.">
 
-<!ENTITY pluginWizard.licensePage.title "Dovoljenja dodatkov">
+<!ENTITY pluginWizard.licensePage.title "Dovoljenja vstavkov">
 <!ENTITY pluginWizard.licensePage.accept.label "Strinjam se.">
-<!ENTITY pluginWizard.licensePage.deny.label "Ne strinjam se (dodatek se ne bo namestil).">
+<!ENTITY pluginWizard.licensePage.deny.label "Ne strinjam se (vstavek se ne bo namestil).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "Nameščanje dodatkov">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; namešča dodatke ...">
+<!ENTITY pluginWizard.installPluginsPage.title "Nameščanje vstavkov">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; namešča vstavke ….">
 
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; je končal z namestitvijo manjkajočih dodatkov:">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; je končal z namestitvijo manjkajočih vstavkov:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Več o dodatkih in ročnem iskanju.">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; morate ponovno zagnati, preden bodo novi dodatki začeli delovati.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Več o vstavkih in ročnem iskanju.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; morate ponovno zagnati, preden bodo novi vstavki začeli delovati.">
   
-<!ENTITY missingPlugin        		"Za prikaz te vsebine je potreben vstavek.">
-<!ENTITY disabledPlugin             "Ta vstavek je onemogočen.">
-<!ENTITY blockedPlugin.label        "Ta vstavek je bil zavrnjen iz varnostnih razlogov.">
+<!ENTITY missingPlugin "Za prikaz te vsebine je potreben vstavek.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Potrkaj za vklop vstavka.">
+<!ENTITY clickToPlayPlugins                                  "Klikni za vklop vstavkov.">
+<!ENTITY disabledPlugin                                      "Ta vstavek je onemogočen.">
+<!ENTITY blockedPlugin.label                                 "Ta vstavek je bil zavrnjen iz varnostnih razlogov.">
 
-<!ENTITY installPlugin                                       "Nameščanje vstavka…">
-<!ENTITY managePlugins                                       "Urejanje vstavkov…">
+<!ENTITY installPlugin                                       "Namesti vstavek …">
+<!ENTITY managePlugins                                       "Urejanje vstavkov …">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -33,10 +36,10 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Ponovno naloži stran">
 <!ENTITY reloadPlugin.post                                   " za nov poskus.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Pošlji poročilo">
-<!ENTITY report.submitting                                   "Pošiljanje poročila …">
+<!ENTITY report.submitting                                   "Poročilo se pošilja …">
 <!ENTITY report.submitted                                    "Poročilo poslano.">
 <!ENTITY report.disabled                                     "Pošiljanje poročil onemogočeno.">
-<!ENTITY report.failed                                       "Pošiljanje ni uspelo.">
+<!ENTITY report.failed                                       "Dostava ni uspela.">
 <!ENTITY report.unavailable                                  "Ni poročil.">

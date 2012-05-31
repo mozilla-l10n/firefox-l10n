@@ -23,12 +23,12 @@
 <!ENTITY closeCmd.label "Zapri">
 <!ENTITY closeCmd.accesskey "Z">
 <!ENTITY closeCmd.commandkey "W">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -38,8 +38,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Pojdi v vrstico ...">
-<!ENTITY goToLineCmd.accesskey "J">
+<!ENTITY goToLineCmd.label "Skoči na vrstico ...">
+<!ENTITY goToLineCmd.accesskey "S">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label "Pogled">
@@ -75,3 +75,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
+<!ENTITY copyLinkCmd.accesskey "M">
+<!ENTITY copyEmailCmd.label "Kopiraj e-poštni naslov">
+<!ENTITY copyEmailCmd.accesskey "E">

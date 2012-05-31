@@ -1,0 +1,127 @@
+
+<!ENTITY  splash_settingup "Nastavljanje &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Posodabljamo vaše zaznamke in zgodovino, lahko da bo trajalo kako minuto ali dve.">
+
+<!ENTITY  no_space_to_start_error "Za zagon &brandShortName; ni na voljo dovolj pomnilnika.">
+<!ENTITY  error_loading_file "Med poizkusom nalaganja datoteke, ki so potrebne za zagon &brandShortName;, je prišlo do napake">
+
+<!ENTITY  awesomebar_all_pages_title "Top strani">
+<!ENTITY  awesomebar_bookmarks_title "Zaznamki">
+<!ENTITY  awesomebar_history_title "Zgodovina">
+<!ENTITY  awesomebar_search_engine "Išči \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Poročevalec za sesutja &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; se je sesul. Ko ponovno zaženete, bi se na začetni strani &brandShortName; nahajati seznam vaših zavihkov.">
+<!ENTITY  crash_help_message "Pomagajte nam prosim, da ta problem rešimo!">
+<!ENTITY  crash_send_report_message "Pošljite Mozilli poročilo o sesutju">
+<!ENTITY  crash_include_url "Priložite naslov strani">
+<!ENTITY  crash_close_label "Zapri">
+<!ENTITY  crash_restart_label "Ponovno zaženi &brandShortName;">
+<!ENTITY  sending_crash_report "Pošiljanje poročila o sesutju\u2026">
+<!ENTITY  exit_label "Izhod">
+<!ENTITY  continue_label "Nadaljuj">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Spletne aplikacije">
+<!ENTITY  launcher_shortcuts_empty "Ni bilo mogoče najti nobene spletne aplikacije">
+
+<!ENTITY choose_file "Izberite datoteko">
+
+<!ENTITY awesomebar_default_text "Iskanje ali naslov strani">
+
+<!ENTITY remote_tabs "Usklajeni zavihki">
+<!ENTITY remote_tabs_show_all "Prikaži vse zavihke">
+
+<!ENTITY bookmark "Zaznamek">
+<!ENTITY bookmark_added "Zaznamek dodan">
+<!ENTITY bookmark_removed "Zaznamek odstranjen">
+<!ENTITY bookmark_updated "Zaznamek posodobljen">
+
+<!ENTITY history_today_section "Danes">
+<!ENTITY history_yesterday_section "Včeraj">
+<!ENTITY history_week_section "7 dni nazaj">
+<!ENTITY history_older_section "Starejše od 7 dni">
+
+<!ENTITY reload "Ponovno naloži">
+<!ENTITY forward "Naprej">
+
+<!ENTITY new_tab "Nov zavihek">
+<!ENTITY new_tab_opened "Nov zavihek odprt">
+
+<!ENTITY settings "Nastavitve">
+<!ENTITY settings_title "Nastavitve">
+<!ENTITY pref_category_general "Splošno">
+<!ENTITY pref_category_privacy "Zasebnost &amp; varnost">
+<!ENTITY pref_category_content "Vsebina">
+<!ENTITY pref_about_firefox "O &brandShortName;">
+<!ENTITY pref_do_not_track "Strani naj mi ne sledijo">
+<!ENTITY pref_telemetry "Pošiljaj podatke o zmogljivosti">
+<!ENTITY pref_remember_signons "Zapomni si gesla">
+<!ENTITY pref_cookies "Omogoči piškote">
+<!ENTITY pref_char_encoding "Pokaži nabor znakov">
+<!ENTITY pref_char_encoding_on "Pokaži meni">
+<!ENTITY pref_char_encoding_off "Ne pokaži meni">
+<!ENTITY pref_clear_history "Počisti zgodovino">
+<!ENTITY pref_clear_history_confirm "Zgodovina iskanja bo izbrisana">
+<!ENTITY pref_clear_private_data "Počisti zasebne podatke">
+<!ENTITY pref_clear_private_data_confirm "Nastavitve brskanja, med drugim gesla in piškotki bodo izbrisani">
+<!ENTITY pref_plugins "Vstavki">
+<!ENTITY pref_plugins_enabled "Vključeno">
+<!ENTITY pref_plugins_tap_to_play "Predvajaj ob dotiku">
+<!ENTITY pref_plugins_disabled "Onemogočeno">
+<!ENTITY pref_text_size "Velikost besedila">
+<!ENTITY pref_font_size_tiny "Drobno">
+<!ENTITY pref_font_size_small "Majhno">
+<!ENTITY pref_font_size_medium "Normalno">
+<!ENTITY pref_font_size_large "Veliko">
+<!ENTITY pref_font_size_xlarge "Zelo veliko">
+<!ENTITY pref_use_master_password "Uporabi glavno geslo">
+<!ENTITY pref_sync "Sync">
+
+<!ENTITY quit "Izhod">
+
+<!ENTITY addons "Dodatki">
+<!ENTITY downloads "Prenosi">
+<!ENTITY char_encoding "Kodiranje znakov">
+
+<!ENTITY share "Deli">
+<!ENTITY share_title "Deli preko">
+<!ENTITY save_as_pdf "Shrani kot PDF">
+
+<!ENTITY contextmenu_open_new_tab "Odpri v novem zavihku">
+<!ENTITY contextmenu_remove_bookmark "Odstrani">
+<!ENTITY contextmenu_add_to_launcher "Dodaj na domači zaslon">
+<!ENTITY contextmenu_share "Deli">
+<!ENTITY contextmenu_edit_bookmark "Urejanje">
+
+<!ENTITY bookmark_edit_title "Uredi zaznamek">
+<!ENTITY bookmark_edit_name "Ime">
+<!ENTITY bookmark_edit_location "Naslov">
+<!ENTITY bookmark_edit_keyword "Ključna beseda">
+
+<!ENTITY site_settings_title        "Počisti nastavitve strani">
+<!ENTITY site_settings_cancel       "Prekliči">
+<!ENTITY site_settings_clear        "Počisti">
+<!ENTITY site_settings_no_settings  "Ni nastavitev, katere bi bilo potrebno izbrisati.">
+
+<!ENTITY masterpassword_create_title "Ustvari glavno geslo">
+<!ENTITY masterpassword_remove_title "Odstranjevanje glavnega gesla">
+<!ENTITY masterpassword_password "Geslo">
+<!ENTITY masterpassword_confirm "Potrditev gesla">
+
+<!ENTITY button_ok "V redu">
+<!ENTITY button_cancel "Prekliči">
+
+<!ENTITY abouthome_addons_title "Dodatki za &brandShortName;">
+<!ENTITY abouthome_addons_browse "Brskaj po vseh &brandShortName; dodatkih">
+<!ENTITY abouthome_last_tabs_title "Vaši zavihki od zadnje uporabe">
+<!ENTITY abouthome_last_tabs_open "Odpri vse zavihke od zadnje uporabe">
+<!ENTITY abouthome_top_sites_title "Top strani">
+<!ENTITY abouthome_top_sites_browse "Brskaj po vseh tvojih top straneh">
+<!ENTITY abouthome_no_top_sites "Nimate še top strani. Kliknite naslovno vrstico, da začnete brskati.">
+<!ENTITY abouthome_about_sync "Nastavi Firefox Sync za dostop do zaznamkov, zgodovine in zavihkov iz drugih naprav.">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Izberite datoteko">
+<!ENTITY filepicker_audio_title "Izberi ali posnemi zvok">
+<!ENTITY filepicker_image_title "Izberi ali posnemi sliko">
+<!ENTITY filepicker_video_title "Izberi ali posnemi video">

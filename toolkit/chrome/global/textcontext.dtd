@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Dodaj v slovar">
 <!ENTITY spellAddToDictionary.accesskey "s">
+<!ENTITY spellUndoAddToDictionary.label "Razveljavi dodajanje v slovar">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Preveri črkovanje">
 <!ENTITY spellCheckEnable.accesskey "R">
 <!ENTITY spellNoSuggestions.label "(ni predlogov za popravilo črkovanja)">

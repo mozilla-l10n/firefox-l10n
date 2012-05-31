@@ -1,0 +1,122 @@
+<!ENTITY urlbar.emptytext      "Iskanje ali naslov strani">
+
+<!ENTITY back.label            "Nazaj">
+<!ENTITY forward.label         "Naprej">
+<!ENTITY reload.label          "Ponovno naloži">
+<!ENTITY stop.label            "Ustavi">
+<!ENTITY go.label              "Pojdi">
+<!ENTITY star.label            "Zvezdica">
+
+<!ENTITY showTabs.label        "Pokaži zavihke">
+<!ENTITY newtab.label          "Nov zavihek">
+<!ENTITY closetab.label        "Zapri zavihek">
+
+<!ENTITY cut.label             "Izreži">
+<!ENTITY copy.label            "Kopiraj">
+<!ENTITY copyAll.label         "Prekopiraj vse">
+<!ENTITY copylink.label        "Kopiraj mesto povezave">
+<!ENTITY paste.label           "Prilepi">
+<!ENTITY pasteAndGo.label      "Prilepi &amp; Pojdi">
+<!ENTITY delete.label          "Izbriši">
+<!ENTITY selectAll.label       "Izberi vse">
+<!ENTITY noSuggestions.label   "(brez predlogov)">
+<!ENTITY addToDictionary.label "Dodaj v slovar">
+<!ENTITY inputMethod.label     "Izberite metodo za vnos">
+
+<!ENTITY allPagesHeader.label      "Vse strani">
+<!ENTITY bookmarksHeader.label     "Zaznamki">
+<!ENTITY historyHeader.label       "Zgodovina">
+<!ENTITY desktopHeader.label       "Namizje">
+
+<!ENTITY editBookmarkDialog.title  "Uredi zaznamek">
+<!ENTITY editBookmarkDone.label    "Shrani">
+<!ENTITY editBookmarkTags.label    "Tukaj dodajte značke">
+
+<!ENTITY selectHelper.done         "Shrani">
+
+<!ENTITY addonsHeader.label        "Dodatki">
+<!ENTITY addonsLocal.label         "Vaši dodatki">
+<!ENTITY addonsUpdate.label        "Posodobitev">
+<!ENTITY addonsRepo.label          "Prenesi dodatke">
+<!ENTITY addonsRecommended.label   "Priporočeno">
+<!ENTITY addonsSearch.label        "Iskanje">
+<!ENTITY addonsSearch2.emptytext   "Iskanje po zbirki">
+<!ENTITY addonsSearch.recommended  "Priporočeno">
+
+<!ENTITY addonOptions.label        "Možnosti">
+<!ENTITY addonEnable.label         "Omogoči">
+<!ENTITY addonDisable.label        "Onemogoči">
+<!ENTITY addonInstall2.label       "Dodaj k &brandShortName;">
+<!ENTITY addonUninstall.label      "Odstrani">
+<!ENTITY addonCancel.label         "Prekliči">
+<!ENTITY addonShowPage.label       "Pojdi">
+
+<!ENTITY downloadsHeader.label     "Prenosi">
+<!ENTITY downloadShowPage.label    "Pojdi">
+<!ENTITY downloadShow2.label       "Poišči">
+<!ENTITY downloadOpen2.label       "Odpri">
+<!ENTITY downloadCancel.label      "Prekliči">
+<!ENTITY downloadPause.label       "Premor">
+<!ENTITY downloadResume.label      "Nadaljuj">
+<!ENTITY downloadRetry.label       "Poizkusi znova">
+<!ENTITY downloadRemove.label      "Odstrani">
+<!ENTITY downloadDelete.label      "Izbriši">
+<!ENTITY downloadFailed.label      "Neuspešno">
+
+<!ENTITY noResults.label           "Ni rezultatov">
+<!ENTITY allBookmarks.label        "Pokaži vse zaznamke">
+
+<!ENTITY bookmarkPopup.label       "Dodaj med zaznamke">
+<!ENTITY bookmarkRemove.label      "Odstrani">
+<!ENTITY bookmarkEdit.label        "Urejanje">
+<!ENTITY bookmarkShortcut.label    "Dodaj na domači zaslon">
+
+<!ENTITY identity.unverifiedsite2 "Spletna stran ne vsebuje podatkov o identiteti.">
+<!ENTITY identity.connectedTo2 "Povezan z">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 ", ki jo upravlja">
+
+<!ENTITY consoleHeader.label       "Konzola JavaScript">
+<!ENTITY consoleAll.label          "Vse">
+<!ENTITY consoleErrors.label       "Napake">
+<!ENTITY consoleWarnings.label     "Opozorila">
+<!ENTITY consoleMessages.label     "Sporočila">
+<!ENTITY consoleCodeEval.label     "Koda:">
+<!ENTITY consoleClear.label        "Pobriši">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Datoteka:">
+<!ENTITY consoleErrLine.label      "Vrstica:">
+<!ENTITY consoleErrColumn.label    "Stolpec:">
+
+<!ENTITY contextOpenInNewTab.label    "Odpri povezavo v novem zavihku">
+<!ENTITY contextSaveImage.label       "Shrani sliko">
+<!ENTITY contextCopyLink.label        "Kopiraj povezavo">
+<!ENTITY contextCopyEmail.label       "Kopiraj e-poštni naslov">
+<!ENTITY contextCopyPhone.label       "Kopiraj telefonsko številko">
+<!ENTITY contextCopyImageLocation.label       "Kopiraj mesto slike">
+<!ENTITY contextShareLink.label       "Deli povezavo">
+<!ENTITY contextShareImage.label      "Deli sliko">
+<!ENTITY contextBookmarkLink.label    "Dodaj povezavo med zaznamke">
+<!ENTITY contextSaveVideo.label       "Shrani video">
+<!ENTITY contextShareVideo.label      "Deli videoposnetek">
+<!ENTITY contextPlayMedia.label       "Predvajaj">
+<!ENTITY contextPauseMedia.label      "Premor">
+<!ENTITY contextFullScreen.label      "Celozaslonski način">
+<!ENTITY contextEditBookmark.label    "Urejanje">
+<!ENTITY contextRemoveBookmark.label  "Odstrani">
+<!ENTITY contextShortcutBookmark.label "Dodaj na domači zaslon">
+
+<!ENTITY pageactions.saveas.pdf      "Shrani kot PDF">
+<!ENTITY pageactions.share.page      "Deli stran">
+<!ENTITY pageactions.password.forget "Pozabi geslo">
+<!ENTITY pageactions.quit            "Izhod">
+<!ENTITY pageactions.reset           "Počisti nastavitve strani">
+<!ENTITY pageactions.findInPage      "Najdi na strani">
+<!ENTITY pageactions.search.addNew   "Dodaj iskalnik">
+<!ENTITY pageactions.charEncoding    "Nabor znakov">
+
+<!ENTITY appMenu.siteOptions         "Možnosti na strani">

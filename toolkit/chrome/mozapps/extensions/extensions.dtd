@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Upravitelj dodatkov">
+
 <!ENTITY search.placeholder                   "Išči po vseh dodatkih">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Nalaganje …">
 <!ENTITY listEmpty.installed.label            "Nimate nameščenega nobenega dodatka te vrste.">
 <!ENTITY listEmpty.availableUpdates.label     "Posodobitve niso na voljo">
@@ -15,17 +20,17 @@
 <!ENTITY cmd.forward.tooltip                  "Pojdi eno stran naprej">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Varni način je vse dodatke onesposobil.">
-<!ENTITY warning.checkcompatibility.label          "Preverjanje združljivosti dodatkov je onesposobljeno. Lahko da imate nezdružljive dodatke.">
-<!ENTITY warning.checkcompatibility.enable.label   "Aktiviraj">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Aktiviraj preverjanje združljivosti dodatkov ">
-<!ENTITY warning.updatesecurity.label              "Preverjanje varnosti je onesposobljeno. Posodobitve vas bodo lahko da kompromitirale.">
-<!ENTITY warning.updatesecurity.enable.label       "Aktiviraj">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Aktiviraj preverjanje varnosti posodobitev">
+<!ENTITY warning.safemode.label                    "Zaradi dela v varnem načinu so vsi dodatki onemogočeni.">
+<!ENTITY warning.checkcompatibility.label          "Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.">
+<!ENTITY warning.checkcompatibility.enable.label   "Omogoči">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Omogoči preverjanje združljivosti dodatkov">
+<!ENTITY warning.updatesecurity.label              "Preverjanje, ali je posodobitev dodatkov varna, je onemogočeno. Posodobitve lahko ogrozijo vaš sistem.">
+<!ENTITY warning.updatesecurity.enable.label       "Omogoči">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Omogoči preverjanje, ali je posodobitev dodatka varna">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Preveri, da so vsi vstavki sodobni">
-<!ENTITY info.plugincheck.tooltip               "Preveri, da so vsi vstavki sodobni">
+<!ENTITY info.plugincheck.label                 "Preverite, ali so vsi vaši vstavki posodobljeni">
+<!ENTITY info.plugincheck.tooltip               "Preverite, ali so vsi vaši vstavki posodobljeni">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Iskanje">
@@ -104,8 +109,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kaj so dodatki?">
 <!ENTITY discover.description2                "Dodatki so programi, ki omogočajo prilagajanje brskalnika &brandShortName; vašim potrebam
-  z dodajanjem zmogljivosti in spreminjanjem izgleda. Poskusite stranske vrstice, prikaz vremena ali 
-  tematsko obarvan &brandShortName;.">
+  z dodajanjem zmogljivosti in spreminjanjem videza. Poskusite stranske vrstice, prikaz vremena ali tematsko obarvan &brandShortName;.">
+  
 <!ENTITY discover.footer                      "Ko ste povezani na internet, vam ta odsek ponuja
   nekatere izbrane in najbolj priljubljene dodatke.">
 
@@ -199,3 +204,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Sprejmi in namesti …">
+
+<!ENTITY settings.path.button.label           "Brskaj…">

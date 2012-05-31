@@ -35,17 +35,17 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "To lahko uniči vašo garancijo!">
 <!ENTITY aboutWarningText.label "Spreminjanje teh naprednih nastavitev lahko vpliva na stabilnost, varnost in zmogljivost tega programa. Nadaljujte samo v primeru, da ste prepričani v svoje početje.">
 <!ENTITY aboutWarningButton.label "Vseeno nadaljuj!">
 <!ENTITY aboutWarningCheckbox.label "Naslednjič prikaži to opozorilo">
 
-<!ENTITY filterPrefs.label "Iskanje:">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY focusFilter.key "i">
+<!ENTITY searchPrefs.label "Iskanje:">
+<!ENTITY searchPrefs.accesskey "I">
+<!ENTITY focusSearch.key "i">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Ime nastavitve">

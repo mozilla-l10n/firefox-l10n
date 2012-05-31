@@ -1,0 +1,24 @@
+<!ENTITY prefsHeader.label                         "Nastavitve">
+<!ENTITY about.title                               "O &brandShortName;">
+<!ENTITY about.button                              "Pojdi">
+<!ENTITY content.title                             "Vsebina">
+<!ENTITY reflowZoom.title                          "Besedilo preoblikuj za povečanje">
+<!ENTITY showImages.title                          "Prikaži slike">
+<!ENTITY enableJavaScript.title                    "Omogoči JavaScript">
+<!ENTITY privacy.title                             "Zasebnost &amp; varnost">
+<!ENTITY allowCookies.title                        "Omogoči piškote">
+<!ENTITY doNotTrack.title                          "Povej stranem, naj mi ne sledijo">
+<!ENTITY masterPassword.title                      "Uporabi glavno geslo">
+<!ENTITY clearPrivateData2.title                   "Počisti zasebne podatke">
+<!ENTITY clearPrivateData.button                   "Pobriši">
+<!ENTITY rememberPasswords.title                   "Zapomni si gesla">
+<!ENTITY language.title                            "Jezik">
+<!ENTITY language.auto                             "Samodejno zaznaj">
+<!ENTITY defaultBrowser.title                      "Privzeti brskalnik">
+<!ENTITY defaultBrowser.description                "Nastavi brandShortName; kot privzet brskalnik">
+<!ENTITY homepage.title                            "Domača stran">
+<!ENTITY homepage.none                             "Prazna stran">
+<!ENTITY homepage.default                          "brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Uporabi trenutno stran">
+<!ENTITY showCharsetEncoding.title                 "Pokaži nabor znakov">
+<!ENTITY actionbar.default                         "&brandShortName; Nastavitve">
