@@ -6,7 +6,7 @@ syntax: glob
 *.presilme
 .project
 Makefile
-NOTES
+mail_all
 # switch to regexp syntax.
 syntax: regexp
 
