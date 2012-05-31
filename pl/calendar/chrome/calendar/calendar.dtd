@@ -26,21 +26,6 @@
 <!ENTITY calendar.events.filter.next31Days.label "Wydarzenia w przeciągu następnych 31 dni">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Wydarzenia w tym miesiącu kalendarzowym">
 
--<!ENTITY calendar.unifinder.tree.done.label          "Wykonane">
-<!ENTITY calendar.unifinder.tree.priority.label      "Priorytet">
-<!ENTITY calendar.unifinder.tree.title.label         "Nazwa">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; wykonania">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Początek">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Koniec">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Termin">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Ukończono">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategoria">
-<!ENTITY calendar.unifinder.tree.location.label    "Miejsce">
-<!ENTITY calendar.unifinder.tree.status.label    "Stan">
-<!ENTITY calendar.unifinder.tree.calendarname.label    "Nazwa kalendarza">
-<!ENTITY calendar.unifinder.tree.duration.label      "Pozostało">
--<!ENTITY calendar.unifinder.close.tooltip            "Zamknij ten panel">
-
 <!ENTITY calendar.unifinder.tree.done.label              "Wykonane">
 <!ENTITY calendar.unifinder.tree.done.tooltip            "Kliknij, by posortować według Wykonane">
 <!ENTITY calendar.unifinder.tree.priority.label          "Priorytet">
