@@ -78,7 +78,7 @@
 <!ENTITY viewMenu.label                                 "Вигляд">
 <!ENTITY viewMenu.accesskey                             "В">
 <!ENTITY viewToolbarsMenu.label                         "Панелі інструментів">
-<!ENTITY viewToolbarsMenu.accesskey                     "П">
+<!ENTITY viewToolbarsMenu.accesskey                     "П"> 
 <!ENTITY menubarCmd.label                               "Панель меню">
 <!ENTITY menubarCmd.accesskey                           "м">
 <!ENTITY showAbToolbarCmd.label                         "Панель адресної книги">
@@ -94,11 +94,11 @@
 <!ENTITY showContactPane2.label                         "Панель контактів">
 <!ENTITY showContactPane2.accesskey                     "к">
 <!ENTITY menu_ShowNameAs.label                          "Показувати ім’я як">
-<!ENTITY menu_ShowNameAs.accesskey                      "П">
+<!ENTITY menu_ShowNameAs.accesskey                      "П"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Ім’я, прізвище">
-<!ENTITY firstLastCmd2.accesskey                        "І">
+<!ENTITY firstLastCmd2.accesskey                        "І"> 
 <!ENTITY lastFirstCmd.label                             "Прізвище, ім’я">
 <!ENTITY lastFirstCmd.accesskey                         "П">
 <!ENTITY displayNameCmd.label                           "Відображуване ім’я">
@@ -123,7 +123,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.label                       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey                   "Н">
 
-<!-- Address Book Toolbar and Context Menus -->
+<!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "Створити картку">
 <!ENTITY newContactButton.accesskey                     "С">
 <!ENTITY newlistButton.label                            "Створити список">

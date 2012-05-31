@@ -1,0 +1,27 @@
+<!ENTITY sync.title                 "Синхронізація">
+<!ENTITY sync.notconnected          "Не під’єднано">
+<!ENTITY sync.connect               "Під’єднатись">
+<!ENTITY sync.connected             "Під’єднано">
+<!ENTITY sync.details               "Подробиці">
+<!ENTITY sync.deviceName            "Цей пристрій">
+<!ENTITY sync.disconnect            "Від’єднатись">
+<!ENTITY sync.syncNow               "Синхронізувати">
+
+<!ENTITY sync.setup.title           "З’єднатись з Sync">
+<!ENTITY sync.setup.pair            "Щоб активувати, виберіть &#x0022;Під’єднати пристрій&#x0022; на вашому іншому пристрою.">
+<!ENTITY sync.fallback              "Я не біля свого комп’ютера…">
+<!ENTITY sync.setup.manual          "Введіть дані вашого облікового запису Sync">
+<!ENTITY sync.account               "Назва обл. запису">
+<!ENTITY sync.password              "Пароль">
+<!ENTITY sync.recoveryKey           "Ключ відновлення">
+<!ENTITY sync.customServer          "Використовувати інший сервер">
+<!ENTITY sync.serverURL             "URL сервера">
+<!ENTITY sync.setup.connect         "З’єднатись">
+<!ENTITY sync.setup.cancel          "Скасувати">
+<!ENTITY sync.setup.tutorial        "Покажіть мені як">
+<!ENTITY sync.setup.waiting2        "Чекаю іншого пристрою…">
+
+<!ENTITY sync.pair.title            "Під’єднати пристрій">
+<!ENTITY sync.pair.description      "Щоб активувати ваш новий пристрій, виберіть &#x0022;Налаштувати Синхронізацію&#x0022; на ньому.">
+<!ENTITY sync.setup.close           "Закрити">
+<!ENTITY sync.setup.waitingdownload "Ваші дані завантажуються. Ви можете закрити це вікно будь-коли.">

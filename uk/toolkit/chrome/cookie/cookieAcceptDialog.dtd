@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Шлях:">
 <!ENTITY     props.secure.label             "Відсилати для:">
 <!ENTITY     props.expires.label            "Застаріє:">
-<!ENTITY     props.policy.label             "Політика:"> 
 
 <!ENTITY     button.allow.label             "Дозволити">
 <!ENTITY     button.allow.accesskey         "о">

@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey    "К">
 
 <!ENTITY CopyMessageId.label "Копіювати ідентифікатор">
+<!ENTITY CopyMessageId.accesskey "К">
 <!ENTITY OpenMessageForMsgId.label "Відкрити листа за ідентифікатором">
+<!ENTITY OpenMessageForMsgId.accesskey "В">
 <!ENTITY OpenBrowserWithMsgId.label "Відкрити лист у браузері">
+<!ENTITY OpenBrowserWithMsgId.accesskey "б">

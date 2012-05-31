@@ -61,7 +61,7 @@
 <!ENTITY bookmarkFrameCmd.accesskey   "З">
 <!ENTITY savePageAsCmd.label          "Зберегти як…">
 <!ENTITY savePageCmd.label            "Зберегти сторінку">
-<!ENTITY savePageCmd.accesskey        "e">
+<!ENTITY savePageCmd.accesskey        "б">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Зберегти рамку як…">
 <!ENTITY saveFrameCmd.label           "Зберегти рамку">
