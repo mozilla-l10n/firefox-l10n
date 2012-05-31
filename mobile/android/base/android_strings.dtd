@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY splash_settingup "Настройка вашего &brandShortName;">
 <!ENTITY splash_bookmarks_history "Идёт обновление ваших закладок и истории, что может занять примерно минуту.">
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
@@ -72,6 +76,11 @@
 <!ENTITY share "Поделиться">
 <!ENTITY share_title "Поделиться через">
 <!ENTITY save_as_pdf "Сохранить как PDF">
+<!ENTITY find_in_page "Найти на странице">
+<!ENTITY find_text "Найти на странице">
+<!ENTITY find_prev "Предыдущее">
+<!ENTITY find_next "Следующее">
+<!ENTITY find_close "Закрыть">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
 <!ENTITY contextmenu_remove_history "Удалить">
 <!ENTITY contextmenu_remove_bookmark "Удалить">
