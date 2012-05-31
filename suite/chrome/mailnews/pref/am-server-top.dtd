@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Message Storage">
 <!ENTITY securitySettings.label "Security Settings">
 <!ENTITY serverSettings.label "Server Settings">
 <!ENTITY serverType.label "Server Type:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY browseNewsrc.label "Browse…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Account Settings">
+<!ENTITY accountSettingsDesc.label "The following is a special account. There are no identities associated with it.">
