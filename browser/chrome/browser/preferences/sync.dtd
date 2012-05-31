@@ -38,8 +38,8 @@
 
 ******* END LICENSE BLOCK ********** -->
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
+<!ENTITY setupButton.label          "Կարգավորել &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "s">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label;-ը թույլ է տալիս տեսնել ձեր դիտարկման պատմությունը, էջանիշերը, գաղտնաբառերը և բացված ներդիրները ձեր բելոր սարքերում:">
 
 <!-- The page shown when logged in... -->
@@ -53,7 +53,7 @@
 <!ENTITY manageAccount.accesskey      "Կ">
 <!ENTITY viewQuota.label              "Դիտել քվոտան">
 <!ENTITY changePassword2.label        "Փոխել Գաղտնաբառը…">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
+<!ENTITY myRecoveryKey.label          "Իմ վերականգնող բանալին">
 <!ENTITY resetSync2.label             "Reset Sync…">
 
 <!ENTITY pairDevice.label             "Սարքի զույգը">

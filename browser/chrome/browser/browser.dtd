@@ -234,8 +234,8 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "Հ">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "Inspect Element">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "Զննել տարրը">
+<!ENTITY inspectContextMenu.accesskey "Զ">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -511,8 +511,8 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Show Statistics">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Թաքցնել ստատիստիկան">
+<!ENTITY videoHideStats.accesskey    "Թ">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
