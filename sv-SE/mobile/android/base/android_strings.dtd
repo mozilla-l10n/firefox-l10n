@@ -94,6 +94,14 @@
 <!ENTITY share "Dela">
 <!ENTITY share_title "Dela via">
 <!ENTITY save_as_pdf "Spara som PDF">
+<!ENTITY find_in_page "Sök på sidan">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Sök på sidan">
+<!ENTITY find_prev "Föregående">
+<!ENTITY find_next "Nästa">
+<!ENTITY find_close "Stäng">
 
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
 <!ENTITY contextmenu_remove_history "Ta bort">
