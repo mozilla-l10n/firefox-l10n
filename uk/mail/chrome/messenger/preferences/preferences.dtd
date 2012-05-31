@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Основні">
 <!ENTITY paneDisplay.title        "Відображення">
 <!ENTITY paneComposition.title    "Створення">
+<!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Вкладення">
 <!ENTITY paneSecurity.title       "Безпека">
 <!ENTITY paneAdvanced.title       "Додатково">
