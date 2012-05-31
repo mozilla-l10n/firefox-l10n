@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Інформація про програму">
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Тека профілю">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Тека профілю">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Увімкнені плагіни">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфігурація збірки">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
@@ -24,7 +30,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Використання пам’яті">
 
 <!ENTITY aboutSupport.showDir.label "Відкрити каталог">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -38,6 +43,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Значення">
 
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Інкрементальний GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Версії бібліотек">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Історія встановлень">
 <!ENTITY aboutSupport.updateHistoryTitle "Історія оновлень">
