@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutHome.header                       "<span id='header-suffix'>Inicio de </span><span>&brandShortName;</span>">
 <!ENTITY aboutHome.recentTabs                   "Las pestañas de la última vez">
 <!ENTITY aboutHome.remoteTabs                   "Pestañas de las otras computadoras">
