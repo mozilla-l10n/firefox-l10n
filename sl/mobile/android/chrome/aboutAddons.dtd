@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Upravitelj dodatkov">
+<!ENTITY aboutAddons.header2                    "Vaši dodatki">
+<!ENTITY aboutAddons.options                    "Možnosti">
+
+<!ENTITY addonAction.enable                     "Omogoči">
+<!ENTITY addonAction.disable                    "Onemogoči">
+<!ENTITY addonAction.uninstall                  "Odstrani">
+<!ENTITY addonAction.cancel                     "Prekliči">

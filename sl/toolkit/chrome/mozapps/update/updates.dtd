@@ -25,9 +25,9 @@
 <!ENTITY  incompatibleCheck.title         "Preverjanje združljivosti dodatkov">
 <!ENTITY  incompatibleCheck.label         "Iskanje novih različic vaših dodatkov ...">
 
-<!ENTITY  clickHere.label "Kliknite sem za več splošnih podatkov o tej posodobitvi">
+<!ENTITY  clickHere.label "Kliknite za več splošnih podatkov o tej posodobitvi">
 
-<!ENTITY  evangelism.desc                 "Toplo priporočamo, da to posodobitev za 
+<!ENTITY  evangelism.desc                 "Toplo priporočamo, da posodobitev za 
                                            &brandShortName; uveljavite čimprej.">
 
 <!ENTITY license.instructions "Če se strinjate s pogoji licence, kliknite gumb Strinjam se za nadaljevanje namestitve.">

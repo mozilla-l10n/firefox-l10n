@@ -47,7 +47,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Ponastavi">
 <!ENTITY resetPassword.title "Ponastavitev glavnega gesla">
-<!ENTITY resetPassword.text "Če ponastavite glavno geslo, bodo vsi vaši osebni podatki - shranjena spletna in e-poštna gesla, podatki o obrazcih, osebna digitalna potrdila in privatni ključi - pozabljeni. Ste prepričani, da želite ponastaviti svoje glavno geslo?">
+<!ENTITY resetPassword.text "Če ponastavite glavno geslo, bodo vsi vaši osebni podatki pozabljeni (shranjena spletna in e-poštna gesla, podatki o obrazcih, osebna digitalna potrdila in zasebni ključi). Ste prepričani, da želite ponastaviti svoje glavno geslo?">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Vnos glavnega gesla">
@@ -107,16 +107,16 @@
 <!ENTITY chooseToken.message1 "Prosim, izberite figuro.">
 
 <!ENTITY escrowWarn.title "Kopija šifrirnega ključa">
-<!ENTITY escrowWarn.message1 "Pomembno: Ta overitelj želi narediti kopijo vašega šifrirnega privatnega ključa v namene izdelave varnostne kopije.">
-<!ENTITY escrowWarn.benefit1 "Prednost tega je, da če izgubite dostop do vašega privatnega ključa, lahko zahtevate kopijo od tega overitelja.">
-<!ENTITY escrowWarn.message2 "Vendar pa bo vaš šifrirni privatni ključ shranjen pri uradni osebi za digitalna potrdila, kar lahko le-ta uporabi za branje šifrirane e-pošte ali dokumentov brez vašega dovoljenja.">
+<!ENTITY escrowWarn.message1 "Pomembno: Ta overitelj želi narediti kopijo vašega šifrirnega zasebnega ključa z namenom izdelave varnostne kopije.">
+<!ENTITY escrowWarn.benefit1 "Prednost tega je, da če izgubite dostop do vašega zasebnega ključa, lahko zahtevate kopijo od tega overitelja.">
+<!ENTITY escrowWarn.message2 "Vendar pa bo vaš šifrirni zasebni ključ shranjen pri uradni osebi za digitalna potrdila, kar lahko le-ta uporabi za branje šifrirane e-pošte ali dokumentov brez vašega dovoljenja.">
 <!ENTITY examineCert.label "Preglej digitalno potrdilo">
 <!ENTITY examineCert.accesskey "P">
 
 <!ENTITY serverCrlNextupdate.message "Za pomoč se obrnite na skrbnika sistema">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "Ustvarjam privatni ključ">
+<!ENTITY createCertInfo.title "Ustvarjam zasebni ključ">
 <!ENTITY createCertInfo.msg1 "Ustvarjanje ključa poteka ... To lahko traja nekaj minut ...">
 <!ENTITY createCertInfo.msg2 "Prosim, počakajte ...">
 <!-- Form Signing confirmation prompt -->

@@ -1,0 +1,27 @@
+<!ENTITY sync.title                 "Usklajevanje">
+<!ENTITY sync.notconnected          "Brez povezave">
+<!ENTITY sync.connect               "Poveži">
+<!ENTITY sync.connected             "Povezan">
+<!ENTITY sync.details               "Podrobnosti">
+<!ENTITY sync.deviceName            "Ta naprava">
+<!ENTITY sync.disconnect            "Odklopi">
+<!ENTITY sync.syncNow               "Uskladi zdaj">
+
+<!ENTITY sync.setup.title           "Poveži se z  Usklajevanje za Firefox">
+<!ENTITY sync.setup.pair            "Za aktivacijo izberi &#x0022;Poveži napravo&#x0022; na tvoji drugi napravi.">
+<!ENTITY sync.fallback              "Nisem blizu svojega računalnika …">
+<!ENTITY sync.setup.manual          "Vnesite podatke o svojem računu storitve Usklajevanje za Firefox">
+<!ENTITY sync.account               "Ime računa">
+<!ENTITY sync.password              "Geslo">
+<!ENTITY sync.recoveryKey           "Obnovitveni ključ">
+<!ENTITY sync.customServer          "Uporabi zasebni strežnik">
+<!ENTITY sync.serverURL             "URL strežnika">
+<!ENTITY sync.setup.connect         "Poveži">
+<!ENTITY sync.setup.cancel          "Prekliči">
+<!ENTITY sync.setup.tutorial        "Pokaži, kako">
+<!ENTITY sync.setup.waiting2        "Čakanje na drugo napravo …">
+
+<!ENTITY sync.pair.title            "Poveži napravo">
+<!ENTITY sync.pair.description      "Za aktivacijo vaše nove naprave izberi &#x0022;Nastavi Usklajevanje za Firefox&#x0022; na vaši napravi.">
+<!ENTITY sync.setup.close           "Zapri">
+<!ENTITY sync.setup.waitingdownload "Vaši podatki se sedaj prenašajo v ozadju. To okno lahko kadarkoli zaprete.">
