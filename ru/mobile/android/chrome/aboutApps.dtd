@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutApps.title "Ваши приложения">
 <!ENTITY aboutApps.noApps.pre "Ни одного веб-приложения не установлено. Вы можете установить их из ">
 <!ENTITY aboutApps.noApps.middle "магазина приложений">
