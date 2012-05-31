@@ -43,30 +43,6 @@
 <!ENTITY editMenu.label               "Правка">
 <!ENTITY editMenu.accesskey           "П">
 
-<!ENTITY undoCmd.label                "Повернути">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "е">
-
-<!ENTITY redoCmd.label                "Повторити">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "т">
-
-<!ENTITY cutCmd.label                 "Вирізати">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "и">
-
-<!ENTITY copyCmd.label                "Копіювати">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "К">
-
-<!ENTITY pasteCmd.label               "Вставити">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "">
-
-<!ENTITY selectAllCmd.label           "Виділити все">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "с">
-
 <!ENTITY run.label                    "Запустити">
 <!ENTITY run.accesskey                "п">
 <!ENTITY run.key                      "r">
@@ -100,6 +76,18 @@
   -->
 <!ENTITY browserContext.label         "Браузер">
 <!ENTITY browserContext.accesskey     "Б">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Допомога">
+<!ENTITY helpMenu.accesskey           "Д">
+<!ENTITY helpMenuWin.label            "Допомога">
+<!ENTITY helpMenuWin.accesskey        "Д">
+
+<!ENTITY documentationLink.label      "Допомога з Чернетки на MDN">
+<!ENTITY documentationLink.accesskey  "D">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

@@ -213,12 +213,23 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Дослідити">
-<!ENTITY inspectButton.accesskey        "Д">
 <!ENTITY inspectCloseButton.tooltiptext "Закрити Дослідника">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Копіювати внутрішній HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "в">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Копіювати зовнішній HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "з">
+
+<!ENTITY inspectorHTMLDelete.label          "Видалити вузол">
+<!ENTITY inspectorHTMLDelete.accesskey      "д">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D вид">
+<!ENTITY inspect3DViewButton.accesskey "и">
+
 <!ENTITY inspectStyleButton.label     "Стиль">
 <!ENTITY inspectStyleButton.accesskey "С">
 
@@ -594,3 +605,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Закрити панель додатків">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "Панель HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
