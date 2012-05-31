@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label    "Stiki na spletu">
+<!ENTITY offlineContactsHeader.label   "Stiki prez povezave">
+<!ENTITY conversationsHeader.label     "Pogovori">
+<!ENTITY searchResultConversation.label "Rezultat iskanja">
+<!ENTITY chat.noConv.title             "Pogovore se bo prikazovalo tu.">
+<!ENTITY chat.noConv.description       "Uporabite seznam stikov na levi strani, da začnete pogovor.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; trenutno za ta stik nima shranjenih nobenih predhodnih pogovorov.">
+<!ENTITY chat.noAccount.title             "Računa za klepete še niste odprli.">
+<!ENTITY chat.noAccount.description       "Pustite, da vas &brandShortName; vodi skozi postopek priprave vašega računa za klepete.">
+<!ENTITY chat.accountWizard.button       "Začnimo">
+<!ENTITY chat.noConnectedAccount.title             "Vaši računi za klepet niso povezani.">
+<!ENTITY chat.noConnectedAccount.description       "Lahko se povežete v pogovornem oknu 'Stanje pogovorov':">
+<!ENTITY chat.showAccountManager.button       "Pokaži stanje klepetov">
+
+<!ENTITY chat.participants             "Udeleženci:">
+<!ENTITY chat.previousConversations    "Prejšnji klepeti:">
+<!ENTITY chat.ongoingConversation      "Klepet v teku">
+
+<!ENTITY openConversationCmd.label     "Začnite klepet">
+<!ENTITY openConversationCmd.accesskey "k">
+<!ENTITY closeConversationCmd.label    "Končajte klepet">
+<!ENTITY closeConversationCmd.accesskey "K">
+<!ENTITY aliasCmd.label                "Preimenuj">
+<!ENTITY aliasCmd.accesskey            "r">
+<!ENTITY deleteCmd.label               "Odstrani stik">
+<!ENTITY deleteCmd.accesskey           "t">
+
+<!ENTITY openConversationButton.tooltip  "Začni pogovor">
+<!ENTITY closeConversationButton.tooltip "Zapri pogovor">
+
+<!ENTITY addBuddyButton.label          "Dodaj stik">
+<!ENTITY joinChatButton.label          "Pridružite se klepetu">
+<!ENTITY chatAccountsButton.label      "Prikaži račune">
+
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllChatMessages.label.base "Preišči vse pogovore … #1">
+
+<!ENTITY status.available          "Na razpolago">
+<!ENTITY status.unavailable        "Ni na razpolago">
+<!ENTITY status.offline            "Ni na spletu">
+
+<!ENTITY openLinkCmd.label            "Odpri povezavo…">
+<!ENTITY openLinkCmd.accesskey        "O">
