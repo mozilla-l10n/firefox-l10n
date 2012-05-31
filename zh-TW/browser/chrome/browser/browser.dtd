@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "離開全螢幕模式">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY domFullScreenWarning.label "按 ESC 以離開全螢幕模式">
+<!ENTITY domFullScreenWarning.label "按 ESC 鍵以離開全螢幕模式">
 
 <!ENTITY closeWindow.label "關閉視窗">
 <!ENTITY closeWindow.accesskey "d">
@@ -111,7 +111,7 @@ can reach it easily. -->
 <!ENTITY backButton.tooltip           "回到上一頁">
 <!ENTITY forwardCmd.label             "下一頁">
 <!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "到下一頁">
+<!ENTITY forwardButton.tooltip        "前進下一頁">
 <!ENTITY backForwardButtonMenu.tooltip "按右鍵或向下拉以顯示歷史記錄">
 <!ENTITY backForwardButtonMenuMac.tooltip "向下拉以顯示歷史記錄">
 <!ENTITY reloadCmd.label              "重新載入">

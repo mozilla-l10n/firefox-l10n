@@ -1,4 +1,4 @@
-<!ENTITY blocklist.title             "附加元件可能會造成問題">
+<!ENTITY blocklist.title             "可能會造成問題的附加元件">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; 發現下列擴充套件會造成程式不穩定或是安全性問題:">
 <!ENTITY blocklist.softblocked       "為了您的安全，強烈建議您現在就停用這些附加元件並重開。">
