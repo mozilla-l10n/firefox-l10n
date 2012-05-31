@@ -42,6 +42,10 @@
 <!ENTITY installPlugin                                       "ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ…">
 <!ENTITY managePlugins                                       "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ…">
 <!ENTITY missingPlugin                                       "ಈ ವಿಷಯವನ್ನು ತೋರಿಸಲು ಒಂದು ಪ್ಲಗ್‌ಇನ್‌ ಅಗತ್ಯವಿದೆ.">
-<!ENTITY clickToPlayPlugin                                   "ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಇಲ್ಲಿ ಒತ್ತಿ.">
+<!--ENTITY clickToPlayPlugin                                   "ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಇಲ್ಲಿ ಒತ್ತಿ."-->
+<!ENTITY clickToPlayPlugins                                  "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಇಲ್ಲಿ ಒತ್ತಿ.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಇಲ್ಲಿ ಮೆಲ್ಲಗೆ ತಟ್ಟಿ.">
+
 
 
