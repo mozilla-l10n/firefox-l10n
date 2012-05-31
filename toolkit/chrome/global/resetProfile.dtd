@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
 <!ENTITY resetProfile.dialog.title "Сброс &brandShortName;">
 <!ENTITY resetProfile.dialog.description "Вы уверены, что хотите сбросить &brandShortName; в его изначальное состояние?">
 <!ENTITY resetProfile.dialog.items2.label "&brandShortName; попытается сохранить ваши:">
