@@ -21,7 +21,7 @@
 <!ENTITY featureConfigurator.toolbarBenefits.para "Sporočilo dejavnosti v zvezi s sporočili, kot odgovor sta na primer odgovor ali posredovanje sporočila, se je preselilo iz orodne vrstice v glavo samega sporočila. Tako so ti gumbi neposredno vezani na sporočilo, v orodni vrstici pa je več prostora za bogatejše polje za iskanje in pa za razširitve.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
-<!ENTITY featureConfigurator.addOn.downloading "Prenašanje…">
+<!ENTITY featureConfigurator.addOn.downloading "Prenos…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Nameščanje…">
@@ -30,7 +30,7 @@
 <!ENTITY featureConfigurator.addOn.installed "Nameščeno">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
-<!ENTITY featureConfigurator.addOn.failure "Pri nameščanju te razširitve je prišlo do problema!">
+<!ENTITY featureConfigurator.addOn.failure "Med nameščanjem te razširitve je prišlo do problema!">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Ta razširitev je že nameščena.">
@@ -63,19 +63,19 @@
 <!ENTITY featureConfigurator.autoSync.heading "Prostor na disku">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
-<!ENTITY featureConfigurator.autoSync.para " Ta nova različica &brandShortName; vam nudi nove, izboljšane možnosti za iskanje. Da si novo iskanje lahko ogledate, boste morali sinhronizirati e-poštna sporočila.">
+<!ENTITY featureConfigurator.autoSync.para " Ta nova različica &brandShortName; vam nudi nove, izboljšane možnosti za iskanje. Da si novo iskanje lahko ogledate, boste morali e-poštna sporočila uskladiti.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
-<!ENTITY featureConfigurator.autoSync.on "Sinhroniziraj">
+<!ENTITY featureConfigurator.autoSync.on "Uskladi">
 <!ENTITY featureConfigurator.autoSync.on.explanation "Sporočila se občutno hitreje nakladajo in tudi rezultati iskanja so boljši.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
-<!ENTITY featureConfigurator.autoSync.off "Ne sinhroniziraj">
+<!ENTITY featureConfigurator.autoSync.off "Ne usklajuj">
 <!ENTITY featureConfigurator.autoSync.off.explanation "To bo pomenilo počasnejše nalaganje sporočil in nepopolne rezultate iskanja.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
-<!ENTITY featureConfigurator.autoSync.some "Sinhronizacija ločeno po računih">
-<!ENTITY featureConfigurator.autoSync.some.explanation "Prilagodite svoje nastavitve za sinhronizacijo ločeno po računih in mapah.">
+<!ENTITY featureConfigurator.autoSync.some "Usklajevanje ločeno po računih">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Prilagodite svoje nastavitve za usklajevanje ločeno po računih in mapah.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
 <!ENTITY featureConfigurator.diskSpace.currentSize "Vaša trenutna skupna poraba za E-pošto:">

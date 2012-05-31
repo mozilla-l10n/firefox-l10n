@@ -49,7 +49,7 @@
 <!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Dogodek …">
+<!ENTITY lightning.menupopup.new.event.label    "Dogodek">
 <!ENTITY lightning.menupopup.new.event.accesskey "D">
 <!ENTITY lightning.menupopup.new.task.label     "Opravek …">
 <!ENTITY lightning.menupopup.new.task.accesskey "O">
@@ -58,7 +58,7 @@
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Odpri">
-<!ENTITY lightning.menupopup.open.accesskey           "O">
+<!ENTITY lightning.menupopup.open.accesskey           "o">
 <!ENTITY lightning.menupopup.open.message.label       "Shranjeno sporočilo …">
 <!ENTITY lightning.menupopup.open.message.accesskey   "S">
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteka koledarja …">
@@ -74,31 +74,7 @@
 <!ENTITY lightning.menu.eventtask.label                "Dogodki in opravki">
 <!ENTITY lightning.menu.eventtask.accesskey            "D">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Pošta">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
-<!ENTITY lightning.toolbar.calendar.label     "Koledar">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Opravki">
-<!ENTITY lightning.toolbar.task.accesskey     "O">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Dogodek">
-<!ENTITY lightning.toolbar.newtask.label      "Opravek">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Dan">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Teden">
-<!ENTITY lightning.toolbar.week.accesskey            "T">
-<!ENTITY lightning.toolbar.multiweek.label           "Več tednov">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
-<!ENTITY lightning.toolbar.month.label               "Mesec">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Pokaži dogodke v današnjem podoknu">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Pokaži opravke v današnjem podoknu in načinu opravkov">
 <!ENTITY lightning.calendarproperties.email.label               "E-poštno sporočilo:">
 
 <!-- iMIP Bar (meeting support) -->

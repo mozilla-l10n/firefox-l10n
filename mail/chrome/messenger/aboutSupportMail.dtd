@@ -1,15 +1,15 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "ID gradnje aplikacije">
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID zgradnje aplikacije">
 
-<!ENTITY aboutSupport.accountsTitle "Računi za pošto in novice">
+<!ENTITY aboutSupport.accountsTitle "Računi za pošto in novice ">
 <!ENTITY aboutSupport.showPrivateData.mainText "Vključi imena računov">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(informacija, ki lahko identificira)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(lahko da predstavlja podatke, ki identificirajo) ">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Ime">
-<!ENTITY aboutSupport.accountsIncomingServer "Vhodni strežnik">
-<!ENTITY aboutSupport.accountsOutgoingServers "Izhodni strežniki">
+<!ENTITY aboutSupport.accountsIncomingServer "Dohodni strežnik">
+<!ENTITY aboutSupport.accountsOutgoingServers "Odhodni strežniki">
 <!ENTITY aboutSupport.accountsServerName "Ime">
-<!ENTITY aboutSupport.accountsConnSecurity "Varnost priključka">
-<!ENTITY aboutSupport.accountsAuthMethod "Metoda avtentikacije">
-<!ENTITY aboutSupport.accountsDefault "Prednastavitev?">
+<!ENTITY aboutSupport.accountsConnSecurity "Varnost povezave">
+<!ENTITY aboutSupport.accountsAuthMethod "Način preverjanja pristnosti">
+<!ENTITY aboutSupport.accountsDefault "Privzeto?">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Pošlji po e-pošti">

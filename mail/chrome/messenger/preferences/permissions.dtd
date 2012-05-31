@@ -2,7 +2,7 @@
 <!ENTITY window.width                 "36em">
 
 <!ENTITY treehead.sitename.label      "Stran">
-<!ENTITY treehead.status.label        "Status">
+<!ENTITY treehead.status.label        "Stanje">
 <!ENTITY removepermission.label       "Odstrani stran">
 <!ENTITY removepermission.accesskey   "t">
 <!ENTITY removeallpermissions.label   "Odstrani vse strani">
@@ -18,5 +18,5 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Zapri">
-<!ENTITY button.close.accesskey       "z">
+<!ENTITY button.close.accesskey       "Z">
 

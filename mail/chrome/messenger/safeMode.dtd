@@ -36,19 +36,19 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title             "&brandShortName; Varni način">
+<!ENTITY safeModeDialog.title             "&brandShortName; varni način">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; teče sedaj v varnem načinu. s katerim se začasno onemogoči vaše osebne nastavitve, teme in razširitve.">
-<!ENTITY safeModeDescription2.label       "Nekatere ali vse spremembe lahko naredite za stalno:">
+<!ENTITY safeModeDescription.label        "&brandShortName; teče sedaj v varnem načinu, v katerem so vaše osebne nastavitve, teme in razširitve onemogočene.">
+<!ENTITY safeModeDescription2.label       "Nekatere ali vse te spremembe lahko naredite za stalno:">
 
 <!ENTITY disableAddons.label              "Onemogoči vse dodatke">
 <!ENTITY disableAddons.accesskey          "O">
 
-<!ENTITY resetToolbars.label              "Ponastavi orodne vrstice in kontrole">
+<!ENTITY resetToolbars.label              "Ponastavi orodne vrstice in kontrolne elemente">
 <!ENTITY resetToolbars.accesskey          "P">
 
-<!ENTITY changeAndRestartButton.label     "Izvedi spremembni in ponovno zaženi">
+<!ENTITY changeAndRestartButton.label     "Izvedi spremembe in ponovno poženi">
 <!ENTITY changeAndRestartButton.accesskey "I">
 
 <!ENTITY continueButton.label             "Nadaljuj v varnem načinu">

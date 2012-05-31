@@ -17,3 +17,19 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Izberi …">
 <!ENTITY chooseFolderMac.accesskey    "z">
+
+
+<!ENTITY attachments.incoming.label   "Vhodni">
+<!ENTITY attachments.outgoing.label   "Izhodni">
+
+<!ENTITY addCloudFileAccount.label        "Dodaj">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Dodaj novega ponudbika za Filelink storitve">
+<!ENTITY removeCloudFileAccount.label     "Odstrani">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Da je mogoöe prikazati nastavitve za posrednika, je potrebno vaše dovoljenje.">
+<!ENTITY authRequired.button.label        "Dovoljujem">
+<!ENTITY authRequired.button.accesskey    "U">
+
+<!ENTITY enableCloudFileAccountOffer.label "Ponudba za posredovanje datotek, ki so večje kot">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

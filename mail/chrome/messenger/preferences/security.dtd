@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "B">
 <!ENTITY markAsReadOnSpam.label "Označi nezaželena sporočila kot prebrana">
 <!ENTITY markAsReadOnSpam.accesskey "P">
-<!ENTITY enableJunkLogging.label "Aktiviraj dnevnik filtra neželenih sporočil">
-<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY enableAdaptiveJunkLogging.label "Aktiviraj dnevnik filtra neželenih sporočil">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Pokaži dnevnik">
 <!ENTITY openJunkLog.accesskey "D">
 <!ENTITY resetTrainingData.label "Ponastavi podatke za učenje">
@@ -23,7 +23,7 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; lahko preveri, ali je sum e-poštne prevare utemeljen tako, da v sporočilu išče pogosto uporabljene metode za zavajanje.">
-<!ENTITY enablePhishingDetector1.label    "Povej mi, če sumiš, da je sporočilo, ki ga berem, e-poštna prevara">
+<!ENTITY enablePhishingDetector1.label    "Sporoči, če obstaja sum, da je odprto sporočilo e-poštna prevara">
 <!ENTITY enablePhishingDetector1.accesskey  "R">
 <!ENTITY useDownloadedList.label "Uporabi prenesen spisek sumov na e-poštno prevaro">
 <!ENTITY useDownloadedList.accesskey "U">
@@ -39,13 +39,13 @@
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira,  preden se jih shrani lokalno.">
+<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira,  preden se jih shrani krajevno.">
 <!ENTITY antiVirus.label      "Dovoli protivirusnim programom, da posamezna prejeta sporočila spravijo v karanteno">
 <!ENTITY antiVirus.accesskey  "N">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; vam omogoča, da navedete, katerim blogom, novičarskim virom, in ostalim spletnim stranem bo dovoljeno ustvarjati piškotke.">
-<!ENTITY acceptCookies.label            "Dovoli stranem, da shranjujejo piškotke.">
+<!ENTITY cookies.intro                  "&brandShortName; vam omogoča, da navedete, katerim blogom, novičarskim virom, in ostalim spletnim stranem bo dovoljeno ustvarjati piškote.">
+<!ENTITY acceptCookies.label            "Dovoli stranem, da shranjujejo piškote.">
 <!ENTITY acceptCookies.accesskey        "D">
 <!ENTITY keepUntil.label                "Obdrži jih:">
 <!ENTITY keepUntil.accesskey            "O">
@@ -54,6 +54,6 @@
 <!ENTITY askEachTime.label              "Vsakokrat me vprašaj">
 <!ENTITY cookieExceptions.label         "Izjeme…">
 <!ENTITY cookieExceptions.accesskey     "I">
-<!ENTITY showCookies.label              "Pokaži piškotke …">
+<!ENTITY showCookies.label              "Pokaži piškote …">
 <!ENTITY showCookies.accesskey          "K">
 

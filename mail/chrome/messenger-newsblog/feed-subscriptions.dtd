@@ -1,18 +1,32 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Naročnine na spletne vire">
-<!ENTITY subscriptionDesc.label "Opomba: če mapo za spletne vire odstranite ali spremenite, to na že prenesene članke ne bo imelo nobenega vpliva.">
-<!ENTITY feedTitle.label "Naslov:">
-<!ENTITY location.label  "Mesto:">
+<!ENTITY feedSubscriptions.label     "Naročnine na spletne vire">
+<!ENTITY subscriptionDesc.label      "Opomba: če mapo za spletne vire odstranite ali spremenite, to na že prenesene članke ne bo imelo nobenega vpliva.">
 
-<!ENTITY button.addFeed.label       "Dodaj">
-<!ENTITY button.addFeed.accesskey   "N">
-<!ENTITY button.editFeed.label      "Uredi">
-<!ENTITY button.editFeed.accesskey  "e">
-<!ENTITY button.removeFeed.label "Odstrani">
-<!ENTITY button.removeFeed.accesskey   "D">
-<!ENTITY button.importOPML.label "Uvozi">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Izvozi">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY feedTitle.label             "Naslov:">
+<!ENTITY feedTitle.accesskey         "A">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "URL za vir:">
+<!ENTITY feedLocation.accesskey      "V">
+<!ENTITY feedLocation.placeholder    "Vnesite veljaven URL za vir">
+
+<!ENTITY feedFolder.label            "Shrani članke v:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Pokaži povzetek članka in ne nalagaj spletne strani">
+<!ENTITY quickMode.accesskey         "K">
+
+<!ENTITY locationValidate.label      "Validacija">
+<!ENTITY validateText.label          "Preveri validacijo in uporabi veljaven url.">
+
+<!ENTITY button.addFeed.label        "Dodaj">
+<!ENTITY button.addFeed.accesskey    "D">
+<!ENTITY button.editFeed.label       "Posodobitev">
+<!ENTITY button.editFeed.accesskey   "P">
+<!ENTITY button.removeFeed.label     "Odstrani">
+<!ENTITY button.removeFeed.accesskey "O">
+<!ENTITY button.importOPML.label     "Uvozi">
+<!ENTITY button.importOPML.accesskey "U">
+<!ENTITY button.exportOPML.label     "Izvozi">
+<!ENTITY button.exportOPML.accesskey "I">
+
+<!ENTITY cmd.close.commandKey        "w">
