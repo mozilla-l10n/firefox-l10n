@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Карта зображення">
 <!ENTITY removeImageMapButton.label "Прибрати">
 <!ENTITY removeImageMapButton.accessKey "П">
-<!ENTITY editImageMapButton.label "Редагувати…">
-<!ENTITY editImageMapButton.tooltip "Створити області, чутливі до натиснення мишею">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Розташування тексту по відношенню до зображення">

@@ -4,6 +4,7 @@ A browser/chrome/browser/styleinspector.properties
 ? browser/chrome/browser/devtools/styleeditor.dtd
 ? browser/chrome/browser/devtools/styleeditor.properties
 ? browser/chrome/browser/devtools/tilt.properties
+? browser/chrome/browser/devtools/sourceeditor.properties
 
 dom/chrome/dom/dom.properties
 dom/chrome/layout/css.properties (grep keyframe)
@@ -27,6 +28,8 @@ M editor/ui/chrome/dialogs/EditorImageProperties.dtd
 ? editor/ui/chrome/composer/editingOverlay.dtd
 
 
+
+
 A mail/chrome/messenger/aboutSupportMail.dtd
 A mail/chrome/messenger/aboutSupportMail.properties
 M mail/chrome/messenger-region/region.properties
@@ -43,3 +46,7 @@ M mail/chrome/overrides/netError.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.properties
 
+
+
+toolkit/chrome/global/aboutSupport.dtd
+перевірити aboutSupport.showDir.label на різних системах

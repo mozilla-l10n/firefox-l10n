@@ -18,6 +18,8 @@
 <!ENTITY allowHideStatusBar.label        "Приховувати рядок стану">
 
 <!ENTITY enablePlugin.label              "Ввімкнути додатки для">
+<!ENTITY enablePluginForSuite.label      "Suite">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
 <!ENTITY whenPluginsRequired.label       "Коли потрібно ще додаток">
 <!ENTITY displayNotification.label       "Показувати панель сповіщення зверху контекстної ділянки">

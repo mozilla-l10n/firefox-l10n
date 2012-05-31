@@ -70,7 +70,7 @@
 <!ENTITY openAttachmentCmd.label "Долучення">
 <!ENTITY openAttachmentCmd.accesskey "В">
 <!ENTITY saveAsMenu.label "Зберегти як">
-<!ENTITY saveAsMenu.accesskey "я">
+<!ENTITY saveAsMenu.accesskey "б">
 <!ENTITY saveAsFileCmd.label "Файл">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsFileCmd.key "s">
@@ -269,6 +269,10 @@
 
 <!ENTITY findCmd.label "Знайти в цьому листі…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Перехід">
@@ -445,7 +449,6 @@
 <!ENTITY deleteButton.label "Вилучити">
 <!ENTITY undeleteButton.label "Відновити">
 <!ENTITY markButton.label "Позначити">
-<!ENTITY printButton.label "Надрукувати">
 <!ENTITY stopButton.label "Зупинити">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
@@ -469,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "Вилучити вибраного листа або теку">
 <!ENTITY undeleteButton.tooltip "Відновити вибраний лист">
 <!ENTITY markButton.tooltip "Позначити лист">
-<!ENTITY printButton.tooltip "Надрукувати цей лист">
 <!ENTITY stopButton.tooltip "Зупинити поточне передавання даних">
 <!ENTITY throbber.tooltip "Перейти до домашньої сторінки &vendorShortName;">
 <!ENTITY junkButton.tooltip "Позначити вибрані листи як спам">

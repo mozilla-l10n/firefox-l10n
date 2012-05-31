@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Додати в словник">
 <!ENTITY spellAddToDictionary.accesskey "о">
+<!ENTITY spellUndoAddToDictionary.label "Скасувати додавання в словник">
+<!ENTITY spellUndoAddToDictionary.accesskey "с">
 <!ENTITY spellCheckEnable.label "Перевіряти правопис">
 <!ENTITY spellCheckEnable.accesskey "П">
 <!ENTITY spellNoSuggestions.label "(припущень не знайдено)">

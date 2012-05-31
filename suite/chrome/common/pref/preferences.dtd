@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Умови захисту">
 <!ENTITY mousewheel.label "Коліщатко мишки">
 <!ENTITY scriptsAndWindows.label "Скрипти та додатки">
+<!ENTITY spellingPane.label  "Правопис">
 
 <!ENTITY focusSearch.key "f">

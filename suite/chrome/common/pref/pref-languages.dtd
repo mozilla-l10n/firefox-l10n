@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "В">
 <!ENTITY languages.customize.moveDown.label             "Вниз">
 <!ENTITY languages.customize.moveDown.accesskey         "В">
-
-<!ENTITY spelling.label                                 "Орфографія">
-<!ENTITY checkSpelling.label                            "У час вводу перевіряти мою орфографію:">
-<!ENTITY checkSpelling.accesskey                        "У">
-<!ENTITY dontCheckSpelling.label                        "Ніколи">
-<!ENTITY multilineCheckSpelling.label                   "У багаторядкових блоках">
-<!ENTITY alwaysCheckSpelling.label                      "У всіх блоках">

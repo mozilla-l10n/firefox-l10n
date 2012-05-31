@@ -6,7 +6,7 @@
 <!ENTITY newContactCmd.accesskey         "К">
 
 <!ENTITY sendPage.label                  "Надіслати сторінку…">
-<!ENTITY sendPage.accesskey              "В">
+<!ENTITY sendPage.accesskey              "Н">
 
 <!ENTITY contextSendThisPage.label       "Надіслати цю сторінку…">
 <!ENTITY contextSendThisPage.accesskey   "с">

@@ -14,7 +14,7 @@
 <!ENTITY saveCmd.label "Зберегти">
 <!ENTITY saveCmd.accesskey "б">
 <!ENTITY saveAsCmd.label "Зберегти як">
-<!ENTITY saveAsCmd.accesskey "я">
+<!ENTITY saveAsCmd.accesskey "б">
 <!ENTITY saveAsFileCmd.label "Файл…">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsDraftCmd.label "Чернетку">
