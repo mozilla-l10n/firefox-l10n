@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "關於垃圾郵件">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; 能自動偵測出新進郵件中可能的垃圾郵件 (Spam)，這些郵件會被 &brandShortName; 標上垃圾信的圖示 ">

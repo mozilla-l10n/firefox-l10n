@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY linksHeader.label "鏈結行為">
 <!ENTITY newWindow.label "新頁面開啟方式">
 <!ENTITY newWindowDescription.label "開啟鏈結時，代表開啟新視窗於:">

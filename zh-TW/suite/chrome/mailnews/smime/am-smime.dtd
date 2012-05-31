@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "安全資訊">
 <!ENTITY securityTab.label "安全性">
 <!ENTITY securityHeading.label "您必須指定簽署用以及加密用的憑證才能收發含簽章或加密過的訊息。">

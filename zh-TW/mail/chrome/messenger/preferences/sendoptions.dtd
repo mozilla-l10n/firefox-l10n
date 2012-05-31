@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "寄送選項">
 <!ENTITY sendMail.title               "文字格式">
 <!ENTITY sendMaildesc.label           "當用 HTML 格式寄信而且收件者中有人可能無法收 HTML 格式的郵件時:">
