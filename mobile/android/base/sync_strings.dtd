@@ -70,3 +70,5 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "Pouze jeden účet &syncBrand.fullName.label; je podporován.">
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect "Obnovovací klíč je neplatný. Zkuste to prosím znovu.">

@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title "O aplikaci &brandShortName;">
+<!ENTITY aboutPage.warningVersion "&brandShortName; je experimentální verze a může být nestabilní.">
+<!ENTITY aboutPage.telemetryStart " &brandShortName; automaticky odesílá data o výkonu, hardware, používání a přizpůsobení, která slouží vývojářům z organizace ">
+<!ENTITY aboutPage.telemetryMozillaLink "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd " k vylepšení aplikace.">
 <!ENTITY aboutPage.faq.label "Časté otázky">
 <!ENTITY aboutPage.support.label "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label "Zásady ochrany soukromí">
