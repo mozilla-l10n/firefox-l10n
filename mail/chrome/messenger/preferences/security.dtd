@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "d">
 <!ENTITY markAsReadOnSpam.label "Cuir comharra mar gum biodh teachdaireachd air a leughadh ma tha comharra truilleis ris">
 <!ENTITY markAsReadOnSpam.accesskey "m">
-<!ENTITY enableJunkLogging.label "Cuir an comas logadh criathradh na truilleis">
-<!ENTITY enableJunkLogging.accesskey "e">
+<!ENTITY enableAdaptiveJunkLogging.label "Cuir an comas logadh criathradh glic na truilleis">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "e">
 <!ENTITY openJunkLog.label "Seall an loga">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Ath-shuidhich an dàta trèanaidh">

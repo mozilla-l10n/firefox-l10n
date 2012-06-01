@@ -693,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "T">
 <!ENTITY contextReplySender.label "Freagair an seòladair a-mhàin">
 <!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplySender.label "Freagair an seòladair a-mhàin">
-<!ENTITY contextReplySender.accesskey "r">
+<!ENTITY contextReplyNewsgroup2.label "Freagair am buidheann-naidheachd">
+<!ENTITY contextReplyNewsgroup2.accesskey "F">
 <!ENTITY contextReplyAll.label "Freagair a h-uile">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Freagair an liosta">
