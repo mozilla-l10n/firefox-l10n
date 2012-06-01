@@ -12,7 +12,7 @@
      -->
 <!ENTITY downloads.title                  "Telechargiadas">
 
-<!ENTITY cmd.pause.label                  "Pausar">
+<!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Cuntinuar">
 <!ENTITY cmd.resume.accesskey             "C">
@@ -30,7 +30,7 @@
 <!ENTITY cmd.retry.label                  "Empruvar anc ina giada">
 <!ENTITY cmd.goToDownloadPage.label       "Ir a la pagina da telechargiar">
 <!ENTITY cmd.goToDownloadPage.accesskey   "t">
-<!ENTITY cmd.copyDownloadLink.label       "Copiar la colliaziun per telechargiar">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar la colliaziun a la telechargiada">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "Allontanar da la glista">
 <!ENTITY cmd.removeFromList.accesskey     "g">

@@ -32,7 +32,7 @@
 <!ENTITY hideThisAppCmdMac.label        "Zuppentar &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Zuppentar auters">
+<!ENTITY hideOtherAppsCmdMac.label      "Zuppentar il rest">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Mussar tuts">
+<!ENTITY showAllAppsCmdMac.label        "Mussar tut">

@@ -27,7 +27,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "v">
 <!ENTITY cmd.goToDownloadPage.label       "Ir a la pagina da telechargiar">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
-<!ENTITY cmd.copyDownloadLink.label       "Copiar la colliaziun per telechargiar">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar la colliaziun a la telechargiada">
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">
 <!ENTITY cmd.removeFromList.label         "Allontanar da la glista">
 <!ENTITY cmd.removeFromList.accesskey     "d">

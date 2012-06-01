@@ -20,9 +20,9 @@
    - of the webapp in the labels without creating a DTD file for it. -->
 <!ENTITY quitApplicationCmdMac.key          "Q">
 <!ENTITY hideThisAppCmdMac.key              "H">
-<!ENTITY hideOtherAppsCmdMac.label          "Zuppentar auters">
+<!ENTITY hideOtherAppsCmdMac.label          "Zuppentar il rest">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
-<!ENTITY showAllAppsCmdMac.label            "Mussar tuts">
+<!ENTITY showAllAppsCmdMac.label            "Mussar tut">
 
 <!ENTITY editMenu.label                     "Modifitgar">
 <!ENTITY editMenu.accesskey                 "M">
