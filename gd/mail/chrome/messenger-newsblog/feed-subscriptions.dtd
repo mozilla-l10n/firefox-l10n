@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Seall gearr-chunntas na h-artaigil 's na luchdaich an duilleag-lìn">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY locationValidate.label      "Dearbhaich">
 <!ENTITY validateText.label          "Sgrudaich an dearbhadh is faigh URL dligheach.">
 
 <!ENTITY button.addFeed.label          "Cuir ris">

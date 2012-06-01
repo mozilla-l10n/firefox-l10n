@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Loga a' phuist-thruilleis">
-<!ENTITY junkLogInfo.label "Loga nan gnìomhan smachd air post truilleis.">
+<!ENTITY adaptivejunkLog.title "Loga a' phuist-thruilleis">
+<!ENTITY adaptivejunkLogInfo.label "Loga glic nan gnìomhan smachd air post truilleis.">
 <!ENTITY clearLog.label "Falamhaich an loga">
 <!ENTITY clearLog.accesskey "c">
 <!ENTITY closeLog.label "Dùin">
