@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 50em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Ainm a' chunntas:">
 <!ENTITY addAccountDialog.noAccountText "Tha sinn duilich ach chan fhaod barrachd air aon chunntas o gach seirbheis stòrais air loidhne a bhith agad ann an &brandShortName;.">
-<!ENTITY addAccountDialog.createAccountText "Leigidh am feart seo leat ceanglachain mhòra a chur slighe sheirbheisean stòrais air loidhne. 'S urrainn dhut ceangal ri cunntas a tha agad mu thràth no clàradh airson cunntas ùr.">
+<!ENTITY addAccountDialog.createAccountText2 "Leigidh am feart seo leat ceanglachain mhòra a chur slighe sheirbheisean stòrais air loidhne. 'S urrainn dhut ceangal ri cunntas a tha agad mu thràth no clàradh airson cunntas ùr.">
 <!ENTITY addAccountDialog.authorizing "A' sgrùdadh ach a bheil cead...">
 <!ENTITY addAccountDialog.error "Thachair mearachd rè suidheachadh a' chunntais!">
 <!ENTITY addAccountDialog.acceptButton.label "Suidhich cunntas">
+<!ENTITY addAccountDialog.learnMore "Barrachd fiosrachaidh…">

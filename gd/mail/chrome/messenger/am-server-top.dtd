@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Stòras theachdaireachdan">
 <!ENTITY securitySettings.label "Roghainnean tèarainteachd">
 <!ENTITY serverSettings.label "Roghainnean an fhrithealaiche">
 <!ENTITY serverType.label "Seòrsa an fhrithealaiche:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Tagh am faidhle newsrc">
 <!ENTITY browseNewsrc.label "Brabhsaich…">
 <!ENTITY browseNewsrc.accesskey "B">
+
+<!ENTITY accountTitle.label "Roghainnean a' chunntais">
+<!ENTITY accountSettingsDesc.label "'S e cunntas sònraichte a tha seo.  Chan eil dearbh-aithne co-cheangailte ris.">
