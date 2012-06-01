@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Úložiště zpráv">
 <!ENTITY securitySettings.label "Nastavení zabezpečení">
 <!ENTITY serverSettings.label "Nastavení serveru">
 <!ENTITY serverType.label "Typ serveru:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Při připojování na tento server vždy požadovat autentizaci">
 <!ENTITY alwaysAuthenticate.accesskey "v">
 <!ENTITY newsrcFilePath.label "Soubor newsrc:">
-<!ENTITY localPath.label "Místní adresář:">
+<!ENTITY newsrcPicker.label "Vyberte soubor newsrc">
 <!ENTITY abbreviate.label "Zobrazit názvy skupin v okně poštovních složek jako:">
 <!ENTITY abbreviateOn.label "Celá jména (např.: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Zkracovat jména (např.: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
 <!ENTITY serverDefaultCharset.label "Výchozí znaková sada:">
+<!ENTITY localPath.label "Místní adresář:">
 <!ENTITY localFolderPicker.label "Vyberte místní adresář">
 <!ENTITY browseFolder.label "Procházet…">
 <!ENTITY browseFolder.accesskey "P">
-<!ENTITY newsrcPicker.label "Vyberte soubor newsrc">
 <!ENTITY browseNewsrc.label "Procházet…">
 <!ENTITY browseNewsrc.accesskey "r">
+
+<!ENTITY accountTitle.label "Nastavení účtu">
+<!ENTITY accountSettingsDesc.label "Toto je speciální účet. Tento účet nemá přiřazeny žádné identity.">

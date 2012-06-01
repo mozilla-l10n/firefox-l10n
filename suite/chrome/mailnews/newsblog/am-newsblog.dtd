@@ -1,5 +1,3 @@
-<!ENTITY accountTitle.label "Nastavení účtu">
-
 <!ENTITY biffStart.label "Kontrolovat nové články každých">
 <!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minut">
