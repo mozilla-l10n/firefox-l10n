@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromFirefox.label "Firefox">
 <!ENTITY importFromFirefox.accesskey "F">
-<!ENTITY importFromHTMLFile.label "Z HTML souboru">
-<!ENTITY importFromHTMLFile.accesskey "Z">
 
 <!ENTITY noMigrationSources.label "Nebyl nalezen žádný program, který by obsahoval záložky, historii nebo uložená hesla.">
 
