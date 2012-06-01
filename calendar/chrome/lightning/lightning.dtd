@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Seall na tachartasan ann an leòsan an latha">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Seall na tachartasan ann an leòsan an latha 's ann am modh nan saothair">
 <!ENTITY lightning.calendarproperties.email.label               "Post-dealain:">
 
 <!-- iMIP Bar (meeting support) -->
