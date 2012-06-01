@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "Žádné návrhy nenalezeny">
-<!ENTITY spellCheckIgnoreWord.label "Ignorovat slovo">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Přidat do slovníku">
-<!ENTITY spellCheckAddToDictionary.accesskey "P">
 <!ENTITY createLinkCmd.label "Vytvořit odkaz…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Upravit odkaz v editoru">
