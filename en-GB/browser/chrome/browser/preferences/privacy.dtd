@@ -67,7 +67,7 @@
 <!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "h">
+<!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
 <!ENTITY  clearOnClose.accesskey         "n">
