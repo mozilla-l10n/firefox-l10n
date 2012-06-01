@@ -889,7 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideThisAppCmdMac.label        "Zuppentar &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Zuppentar auters">
+<!ENTITY hideOtherAppsCmdMac.label      "Zuppentar il rest">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Mussar tuts">
+<!ENTITY showAllAppsCmdMac.label        "Mussar tut">

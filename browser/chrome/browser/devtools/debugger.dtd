@@ -21,7 +21,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
   -  button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton   "Passar">
+<!ENTITY debuggerUI.stepOverButton   "Sursiglir">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
   -  button that steps into a function call. -->
