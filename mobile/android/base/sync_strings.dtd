@@ -40,9 +40,9 @@
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuration terminée'>
-<!ENTITY sync.subtitle.success.label 'Vos données sont à présent synchronisées en arrière-plan. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte.'>
+<!ENTITY sync.subtitle.success.label1 'Vos données sont à présent synchronisées en arrière-plan. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte, ou commencer à naviguer avec &brandShortName;.'>
 <!ENTITY sync.settings.label 'Paramètres'>
-<!ENTITY sync.subtitle.manage.label 'Votre compte &syncBrand.fullName.label; est déjà configuré. Rendez-vous dans le menu Paramètres pour gérer votre compte.'>
+<!ENTITY sync.subtitle.manage.label1 'Votre compte &syncBrand.fullName.label; est déjà configuré. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte, ou lancer &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Veuillez réessayer.'>
