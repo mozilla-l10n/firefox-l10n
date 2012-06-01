@@ -40,7 +40,7 @@
 <!ENTITY history_week_section "Il y a 7 jours">
 <!ENTITY history_older_section "Il y a plus de 7 jours">
 
-<!ENTITY reload "Recharger">
+<!ENTITY reload "Actualiser">
 <!ENTITY forward "Page suivante">
 
 <!ENTITY close_tab "Fermer l\u0027onglet">
@@ -89,6 +89,14 @@
 <!ENTITY share "Partager">
 <!ENTITY share_title "Partager à l\u0027aide de">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
+<!ENTITY find_in_page "Rechercher dans la page">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Rechercher dans la page">
+<!ENTITY find_prev "Précédent">
+<!ENTITY find_next "Suivant">
+<!ENTITY find_close "Fermer">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
 <!ENTITY contextmenu_remove_history "Supprimer">
