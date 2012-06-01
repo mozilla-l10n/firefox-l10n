@@ -53,9 +53,9 @@
 <!ENTITY certmgr.orphans                      "អ្នក​មាន​វិញ្ញាបនបត្រ​លើ​ឯកសារ​ដែល​មិន​សម​ទៅ​និង​ប្រភេទ​ផ្សេង​មួយ​ចំនួន ៖">
 
 <!ENTITY certmgr.detail.general_tab.title     "ទូទៅ">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.accesskey "ទ">
 <!ENTITY certmgr.detail.prettyprint_tab.title "សេចក្ដី​លម្អិត">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "ស">
 
 <!ENTITY certmgr.pending.label                "កំពុង​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ…">
 <!ENTITY certmgr.subjectinfo.label            "ចេញ​ឲ្យ">
@@ -102,11 +102,11 @@
 <!ENTITY certmgr.serial                       "លេខ​សម្គាល់">
 
 <!ENTITY certmgr.close.label                  "បិទ">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.accesskey              "ទ">
 <!ENTITY certmgr.view2.label                  "មើល…">
-<!ENTITY certmgr.view2.accesskey              "Դ">
+<!ENTITY certmgr.view2.accesskey              "ល">
 <!ENTITY certmgr.edit3.label                  "កែសម្រួល​ទំនុកចិត្ត…">
-<!ENTITY certmgr.edit3.accesskey              "Խ">
+<!ENTITY certmgr.edit3.accesskey              "ក">
 <!ENTITY certmgr.editca.label                 "កែសម្រួល​ទំនុកចិត្ត​លើ CA">
 <!ENTITY certmgr.editca.accesskey             "C">
 <!ENTITY certmgr.add.label                    "បន្ថែម">

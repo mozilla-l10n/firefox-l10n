@@ -23,13 +23,13 @@
 <!ENTITY  rememberPasswords.label       "ចង់ចាំ​ពាក្យ​សម្ងាត់​សម្រាប់​តំបន់​បណ្ដាញ">
 <!ENTITY  rememberPasswords.accesskey   "ព">
 <!ENTITY  passwordExceptions.label      "ករណី​លើកលែង…">
-<!ENTITY  passwordExceptions.accesskey  "ង">
+<!ENTITY  passwordExceptions.accesskey  "ល">
 
 <!ENTITY  useMasterPassword.label        "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY  useMasterPassword.accesskey    "ម">
 <!ENTITY  changeMasterPassword.label     "ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…">
 <!ENTITY  changeMasterPassword.accesskey "ស">
 
-<!ENTITY  savedPasswords.label            "Saved Passwords…">
-<!ENTITY  savedPasswords.accesskey        "ល">
+<!ENTITY  savedPasswords.label            "ពាក្យ​សម្ងាត់​ដែល​រក្សា​ទុក…">
+<!ENTITY  savedPasswords.accesskey        "ដ">
 
