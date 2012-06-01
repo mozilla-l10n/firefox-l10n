@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Tachartasan an-diugh">
 <!ENTITY calendar.events.filter.future.label "Gach tachartas san àm ri teachd">
 <!ENTITY calendar.events.filter.current.label "An latha a thagh thu">
-<!ENTITY calender.events.filter.currentview.label "Tachartasan san t-sealladh làithreach">
+<!ENTITY calendar.events.filter.currentview.label "Tachartasan san t-sealladh làithreach">
 <!ENTITY calendar.events.filter.next7Days.label "Tachartasan anns na 7 làithean seo tighinn">
 <!ENTITY calendar.events.filter.next14Days.label "Tachartasan sa chola-deug seo tighinn">
 <!ENTITY calendar.events.filter.next31Days.label "Tachartasan san 31 latha seo tighinn">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "l">
 <!ENTITY calendar.context.postpone.1week.label      "1 seachdain">
 <!ENTITY calendar.context.postpone.1week.accesskey  "s">
+
+<!ENTITY calendar.copylink.label       "Dèan lethbhreac de dh'ionad a' cheangail">
+<!ENTITY calendar.copylink.accesskey   "D">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Cuir ceangal ris…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone.label                   "An roinn-tìde">
-<!ENTITY  event.menu.options.timezone.accesskey               "A">
+<!ENTITY  event.menu.options.timezone2.label                   "Seall an roinn-tìde">
+<!ENTITY  event.menu.options.timezone2.accesskey               "a">
 <!ENTITY  event.menu.options.priority2.label                  "Prìomhachas">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Gun sònrachadh">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Sònraich an roinn-tìde">
+<!ENTITY event.timezone.custom.label     "Barrachd roinnean-tìde…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Coitcheann">
