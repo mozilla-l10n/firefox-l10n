@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Odpoví odesílateli a všem příjemcům">
 <!ENTITY hdrReplyListButton1.label "Odpovědět do konference">
 <!ENTITY hdrReplyListButton1.tooltip "Odpoví do e-mailové konference">
+<!ENTITY hdrFollowupButton1.label "Odpovědět">
+<!ENTITY hdrFollowupButton1.tooltip "Zašle odpověď to této diskusní skupiny">
 <!ENTITY hdrForwardButton1.label "Přeposlat">
 <!ENTITY hdrForwardButton1.tooltip "Přepošle tuto zprávu">
 <!ENTITY hdrJunkButton1.label "Nevyžádaná pošta">
