@@ -54,7 +54,7 @@
 # link title for about:home
 
 
-#define bookmarks_aboutHome A' tòiseachadh le Firefox
+#define bookmarks_aboutHome Toiseach tòiseachaidh le Firefox
 
 
 
