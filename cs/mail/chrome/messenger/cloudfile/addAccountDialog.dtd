@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Název účtu:">
 <!ENTITY addAccountDialog.noAccountText "Aktuální verze aplikace &brandShortName; umí použít pouze jeden účet od každé služby poskytující online úložiště.">
-<!ENTITY addAccountDialog.createAccountText "Z následujícího seznamu si vyberte službu, kterou chcete použít pro odesílání velkých příloh. Můžete buďto použít svůj současný účet nebo si vytvořit účet nový.">
+<!ENTITY addAccountDialog.createAccountText2 "Pro odesílání velkých příloh lze použít některou z následujících služeb online poskytující online úložiště. Můžete buďto použít svůj současný účet nebo si vytvořit účet nový.">
 <!ENTITY addAccountDialog.authorizing "Kontrola přihlášení...">
 <!ENTITY addAccountDialog.error "Při vytváření účtu nastala chyba.">
 <!ENTITY addAccountDialog.acceptButton.label "Vytvořit účet">
+<!ENTITY addAccountDialog.learnMore "Zjistit více…">

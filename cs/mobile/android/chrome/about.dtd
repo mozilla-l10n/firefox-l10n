@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title "O aplikaci &brandShortName;">
+<!ENTITY aboutPage.warningVersion "&brandShortName; je experimentální verze a může být nestabilní.">
+<!ENTITY aboutPage.telemetryStart " &brandShortName; automaticky odesílá data o výkonu, hardware, používání a přizpůsobení, která slouží vývojářům z organizace ">
+<!ENTITY aboutPage.telemetryMozillaLink "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd " k vylepšení aplikace.">
 <!ENTITY aboutPage.checkForUpdates.link "Zkontrolovat aktualizace »">
 <!ENTITY aboutPage.checkForUpdates.checking "Vyhledávání aktualizací…">
 <!ENTITY aboutPage.checkForUpdates.none "Aktualizace nejsou dostupné">
@@ -10,4 +14,3 @@
 <!ENTITY aboutPage.relNotes.label "Poznámky k vydání">
 <!ENTITY aboutPage.credits.label "Autoři">
 <!ENTITY aboutPage.license.label "Informace o licenci">
-

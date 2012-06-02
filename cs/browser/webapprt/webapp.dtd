@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label "Soubor">
+<!ENTITY fileMenu.accesskey "S">
+
+<!ENTITY quitApplicationCmdWin.label "Ukončit">
+<!ENTITY quitApplicationCmdWin.accesskey "k">
+<!ENTITY quitApplicationCmd.label "Ukončit">
+<!ENTITY quitApplicationCmd.accesskey "k">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY hideThisAppCmdMac.key "H">
+<!ENTITY hideOtherAppsCmdMac.label "Skrýt ostatní">
+<!ENTITY hideOtherAppsCmdMac.key "H">
+<!ENTITY showAllAppsCmdMac.label "Zobrazit vše">
+
+<!ENTITY editMenu.label "Úpravy">
+<!ENTITY editMenu.accesskey "a">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY redoCmd.label "Znovu">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "o">
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "y">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY deleteCmd.label "Smazat">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "m">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
