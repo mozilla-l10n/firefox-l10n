@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Opciones de correo basura">
 <!ENTITY trainingDescription.label "Si se habilita, primero debe entrenar a &brandShortName; para identificar el correo basura usando el botón Basura para marcar los mensajes como basura o no. Necesita identificar tanto los mensajes que sean basura como los que no lo sean. Después de eso, &brandShortName; podrá marcar la basura automáticamente.">
 <!ENTITY level.label "Habilitar controles adaptivos de basura para esta cuenta">
