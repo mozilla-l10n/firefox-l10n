@@ -44,9 +44,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '完成設定'>
-<!ENTITY sync.subtitle.success.label '您的資料即將在背景中被加密並上傳至伺服器。您可以到設定畫面中管理您的帳號。'>
+<!ENTITY sync.subtitle.success.label1 '您的資料即將在背景中被下載。您可以到設定畫面當中管理您的帳號，或是開始使用 &brandShortName; 瀏覽網頁。'>
 <!ENTITY sync.settings.label '設定'>
-<!ENTITY sync.subtitle.manage.label '您的 &syncBrand.fullName.label; 帳號已經設定好了。請到設定畫面管理您的帳號。'>
+<!ENTITY sync.subtitle.manage.label1 '您的 &syncBrand.fullName.label; 帳號已經設定完成，您可以到設定畫面當中管理您的帳號，或是執行 &brandShortName;。'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label '請再試一次。'>
