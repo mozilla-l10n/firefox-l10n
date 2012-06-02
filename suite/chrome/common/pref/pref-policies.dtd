@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.policies.title "Политика защиты">
 <!ENTITY zoneIntro.label "&brandShortName; позволяет создавать разные режимы, определяющие возможности веб-сайтов по использованию таких функций, как например, скрипты и Java.">
 <!ENTITY policies.label "Режимы:">

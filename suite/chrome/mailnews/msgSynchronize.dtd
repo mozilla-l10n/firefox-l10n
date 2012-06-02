@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY MsgSynchronize.label "Загрузить и синхронизировать сообщения">
 <!ENTITY MsgSelect.label "Элементы для автономной работы">
 <!ENTITY MsgSyncDesc.label "Если вы уже выбрали папки почты или групп новостей для автономной работы, вы можете загрузить и/или синхронизировать их. В противном случае нажмите кнопку «Выбрать», чтобы выбрать папки почты и групп новостей для автономной работы.">

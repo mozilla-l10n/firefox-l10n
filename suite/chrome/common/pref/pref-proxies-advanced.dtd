@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.proxies.advanced.title "Дополнительные настройки прокси">
 <!ENTITY protocols.caption "Прокси, специфичные для определённого протокола">
 <!ENTITY protocols.description "Обычно для всех перечисленных здесь протоколов может быть использован один прокси.">

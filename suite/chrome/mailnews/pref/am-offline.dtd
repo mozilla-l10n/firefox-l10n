@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
 <!ENTITY doNotDownloadNntp.label "Чтобы сэкономить дисковое пространство, не загружать для работы в автономном режиме:">
 <!ENTITY doNotDownloadImap.label "Чтобы сэкономить дисковое пространство, загрузка сообщений с сервера и хранение локальных копий может быть ограничена по их возрасту или размеру.">

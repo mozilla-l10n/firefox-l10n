@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.proxies.title "Прокси-серверы">
 <!ENTITY pref.proxies.desc "Прокси-сервер является сервером, который может фильтровать содержимое и ускорять ваше соединение с Интернетом.">
 <!ENTITY proxyTitle.label "Настройка прокси для доступа в Интернет">
