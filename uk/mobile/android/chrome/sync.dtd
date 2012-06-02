@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Синхронізувати">
 
 <!ENTITY sync.setup.title           "З’єднатись з Sync">
-<!ENTITY sync.setup.pair            "Щоб активувати, виберіть &#x0022;Під’єднати пристрій&#x0022; на вашому іншому пристрою.">
+<!ENTITY sync.setup.pair            "Щоб активувати, виберіть &#x0022;Під’єднати пристрій&#x0022; на вашому іншому пристрої.">
 <!ENTITY sync.fallback              "Я не біля свого комп’ютера…">
 <!ENTITY sync.setup.manual          "Введіть дані вашого облікового запису Sync">
 <!ENTITY sync.account               "Назва обл. запису">
