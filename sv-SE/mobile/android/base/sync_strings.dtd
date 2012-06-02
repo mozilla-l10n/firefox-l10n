@@ -44,9 +44,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Inställningen är klar'>
-<!ENTITY sync.subtitle.success.label 'Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto.'>
+<!ENTITY sync.subtitle.success.label1 'Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto, eller så kan du börja surfa med &brandShortName;.'>
 <!ENTITY sync.settings.label 'Inställningar'>
-<!ENTITY sync.subtitle.manage.label 'Ditt &syncBrand.fullName.label;-konto är redan klart. Gå till Inställningar för att hantera ditt konto.'>
+<!ENTITY sync.subtitle.manage.label1 'Ditt &syncBrand.fullName.label;-konto är redan klart. Du kan gå till Inställningar för att hantera ditt konto, eller så kan du starta &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Försök igen.'>
