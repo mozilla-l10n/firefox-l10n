@@ -44,9 +44,9 @@
  
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuración completa'>
-<!ENTITY sync.subtitle.success.label 'Tus datos ahora están siendo descargados en segundo plano. Podés ir a Opciones para administrar tu cuenta.'>
+<!ENTITY sync.subtitle.success.label1 'Tus datos ahora están siendo descargados en segundo plano. Podés ir a Opciones para administrar tu cuenta o comenzar a navegar con &brandShortName;.'>
 <!ENTITY sync.settings.label 'Opciones'>
-<!ENTITY sync.subtitle.manage.label 'Tu cuenta de &syncBrand.fullName.label; ya está configurada. Andá a opciones para administrar tu cuenta.'>
+<!ENTITY sync.subtitle.manage.label1 'Tu cuenta de &syncBrand.fullName.label; ya está configurada. Andá a opciones para administrar tu cuenta o iniciá &brandShortName;.'>
  
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Intentá de nuevo.'>
