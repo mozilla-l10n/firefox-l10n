@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName;: domača stran">
 
 <!ENTITY abouthome.searchEngineButton.label "Iskanje">
-
-<!ENTITY abouthome.aboutMozilla "O Mozilli">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -18,3 +17,11 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox lahko na preprost način prilagodite svojim željam. <a>Izbirate lahko med tisoči dodatkov</a>.">
+
+<!ENTITY abouthome.bookmarksButton.label "Zaznamki">
+<!ENTITY abouthome.historyButton.label   "Zgodovina">
+<!ENTITY abouthome.settingsButton.label  "Nastavitve">
+<!ENTITY abouthome.addonsButton.label    "Dodatki">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Prenosi">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

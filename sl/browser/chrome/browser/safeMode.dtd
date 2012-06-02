@@ -39,16 +39,19 @@
 <!ENTITY safeModeDialog.title "Varni način &brandShortName;">
 <!ENTITY window.width "39em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; teče v varnem načinu, kar začasno onemogoči vaše nastavitve, teme in razširitve.">
-<!ENTITY safeModeDescription2.label "Spodaj označite, če želite, da bodo naslednje spremembe dokončne:">
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; se je med zagonom nepričakovano sesul">
+<!ENTITY autoSafeModeDescription.label "Opravičujemo se za nevšečnosti. &brandShortName; zdaj teče v varnem načinu, kar začasno onemogoči vaše nastavitve, teme in razširitve.">
 
-<!ENTITY disableAddons.label "onemogoči teme in razširitve">
+<!ENTITY safeModeDescription.label "&brandShortName; zdaj teče v varnem načinu, kar začasno onemogoči vaše nastavitve, teme in razširitve.">
+<!ENTITY safeModeDescription2.label "Označite, katere spremembe želite narediti trajne:">
+
+<!ENTITY disableAddons.label "onemogoči vse dodatke">
 <!ENTITY disableAddons.accesskey "O">
 
 <!ENTITY resetToolbars.label "ponastavi orodne vrstice">
 <!ENTITY resetToolbars.accesskey "P">
 
-<!ENTITY deleteBookmarks.label        "Zbriši vse zaznamke, razen varnostnih kopij">
+<!ENTITY deleteBookmarks.label        "zbriši vse zaznamke, razen varnostnih kopij">
 <!ENTITY deleteBookmarks.accesskey    "v">
 
 <!ENTITY resetUserPrefs.label "ponastavi vse uporabniške nastavitve na privzete vrednosti">

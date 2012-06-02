@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Nastavi storitev &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; omogoča dostop do zgodovine, zaznamkov, gesel in odprtih zavihkov vseh vaših naprav.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; omogoča dostop do zgodovine, zaznamkov, gesel in odprtih zavihkov na vseh vaših napravah.">
 
 <!-- The page shown when logged in... -->
 
@@ -13,12 +13,13 @@
 <!ENTITY manageAccount.label          "Upravljanje računa">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Prikaži omejitve">
-<!ENTITY changePassword.label         "Spremeni geslo">
-<!ENTITY mySyncKey.label              "Moj sinhronizacijski ključ">
-<!ENTITY resetSync.label              "Ponastavi sinhronizacijo">
-<!ENTITY addDevice.label              "Dodaj napravo">
+<!ENTITY changePassword2.label        "Spremeni geslo …">
+<!ENTITY myRecoveryKey.label          "Moj obnovitveni ključ">
+<!ENTITY resetSync2.label             "Ponastavi usklajevanje …">
 
-<!ENTITY syncMy.label               "Sinhroniziraj">
+<!ENTITY pairDevice.label              "Dodaj napravo">
+
+<!ENTITY syncMy.label               "Uskladi">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Zavihke">
@@ -29,11 +30,13 @@
 <!ENTITY engine.passwords.accesskey "G">
 <!ENTITY engine.prefs.label         "Nastavitve">
 <!ENTITY engine.prefs.accesskey     "N">
+<!ENTITY engine.addons.label        "Dodatki">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Ime računalnika:">
 <!ENTITY syncComputerName.accesskey   "r">
-<!ENTITY deactivateDevice.label       "Onemogoči napravo">
+<!ENTITY unlinkDevice.label           "Odklopi napravo">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Pogoji uporabe">

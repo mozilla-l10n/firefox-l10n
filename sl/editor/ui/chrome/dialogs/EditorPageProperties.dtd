@@ -47,4 +47,4 @@
 <!ENTITY descriptionInput.accessKey "O">
 <!ENTITY locationNewPage.label "[Nova stran, še ni shranjena]">
 <!ENTITY EditHEADSource1.label "Napredni uporabniki:">
-<!ENTITY EditHEADSource2.label " Če želite urediti drugo vsebino področja za &lt;glavo&gt;, uporabite &quot;izvorno besedilo HTML &quot; v meniju Pogled ali v orodni vrstici za urejevalni način.">
+<!ENTITY EditHEADSource2.label "Če želite urediti drugo vsebino področja za &lt;glavo&gt;, uporabite &quot;izvorno besedilo HTML &quot; v meniju Pogled ali v orodni vrstici za urejevalni način.">

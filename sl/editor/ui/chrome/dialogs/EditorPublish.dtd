@@ -68,8 +68,8 @@
 <!ENTITY filename.label               "Ime datoteke:">
 <!ENTITY filename.accesskey           "D">
 <!ENTITY filename.tooltip             "Vnesite ime za to datoteko, vključno s '.html' za spletno stran">
-<!ENTITY filenameExample.label        "npr,: &quot;mojastran.html&quot;">
-<!ENTITY setDefaultButton.label       "R">
+<!ENTITY filenameExample.label        "npr.: &quot;mojastran.html&quot;">
+<!ENTITY setDefaultButton.label       "Privzet račun">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Odstrani stran">
 <!ENTITY removeButton.accesskey       "e">

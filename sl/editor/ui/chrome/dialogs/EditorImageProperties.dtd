@@ -72,14 +72,12 @@
 <!ENTITY widthEditField.accessKey "D">
 <!ENTITY constrainCheckbox.label "Stisni">
 <!ENTITY constrainCheckbox.accessKey "S">
-<!ENTITY constrainCheckbox.tooltip "> Ohrani razmerje med dimenzijami slike">
+<!ENTITY constrainCheckbox.tooltip "Ohrani razmerje med dimenzijami slike">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Zemljevid slik">
 <!ENTITY removeImageMapButton.label "Odstrani">
 <!ENTITY removeImageMapButton.accessKey "O">
-<!ENTITY editImageMapButton.label "Urejaj …">
-<!ENTITY editImageMapButton.tooltip "Ustvari v tej sliki vroče točke za klikanje">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Poravnaj besedilo na sliko">
@@ -94,17 +92,20 @@
 <!ENTITY leftRightEditField.label "Levo in desno:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Zgoraj in spodaj:">
-<!ENTITY topBottomEditField.accessKey "Z">
+<!ENTITY topBottomEditField.accessKey "Z">	
 <!ENTITY borderEditField.label "Neprekinjen rob:">
 <!ENTITY borderEditField.accessKey "N">
 
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Pokaži rob okoli povezane strani">
 <!ENTITY showImageLinkBorder.accessKey "P">
+<!ENTITY LinkAdvancedEditButton.label "Napredno urejanje povezave…">
+<!ENTITY LinkAdvancedEditButton.accessKey "u">
+<!ENTITY LinkAdvancedEditButton.tooltip "Dodaj ali uredi prilastke za HTML in slog ter JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Obrazec">
-<!ENTITY imageLocationTab.label "Kraj">
-<!ENTITY imageDimensionsTab.label "Dimenzije">
+<!ENTITY imageLocationTab.label "Položaj">
+<!ENTITY imageDimensionsTab.label "Mere">
 <!ENTITY imageAppearanceTab.label "Videz">
 <!ENTITY imageLinkTab.label "Povezava">

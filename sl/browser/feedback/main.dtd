@@ -12,9 +12,9 @@
 
 <!-- all studies window -->
 <!ENTITY testpilot.studiesWindow.title                  "Vaše raziskave za Test Pilota">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Trenutne razsikave">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Končane razsikave">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Ugotovitve razsikav">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Trenutne raziskave">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Končane raziskave">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Ugotovitve raziskav">
 <!ENTITY testpilot.studiesWindow.settings.label         "Nastavitve">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Nalaganje …">
 

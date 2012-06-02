@@ -1,7 +1,7 @@
 <!ENTITY window.width "30em">
 
 <!ENTITY languages.customize.Header "Jeziki">
-<!ENTITY languages.customize.prefLangDescript "Spletne strani včasih ponujajo več jezikov. Izberite željene jezike za prikaz strani v prednostnem vrstnem redu.">
+<!ENTITY languages.customize.prefLangDescript "Spletne strani včasih ponujajo več jezikov. Izberite želene jezike za prikaz strani v prednostnem vrstnem redu.">
 <!ENTITY languages.customize.active.label "Jeziki v prednostnem redu:">
 <!ENTITY languages.customize.moveUp.label "Premakni gor">
 <!ENTITY languages.customize.moveUp.accesskey "G">
