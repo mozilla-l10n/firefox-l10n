@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Добро пожаловать в &brandShortName;">
 <!ENTITY header2.label "Вы хотели бы получить новый адрес электронной почты?">
 <!ENTITY other.languages "Мы показываем лишь тех провайдеров, которые предлагают адреса в вашем регионе. Щёлкните здесь, чтобы показать всех провайдеров.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY smtpServer.label "Параметры сервера исходящей почты (SMTP)">
 <!ENTITY smtpDescription.label "При настройке ваших адресов электронной почты вы можете использовать сервер из этого списка, выбрав его в качестве Сервера исходящей почты (SMTP), или же вы можете использовать сервер по умолчанию из этого списка, выбрав «Использовать сервер по умолчанию».">
 <!ENTITY smtpListAdd.label "Добавить…">
