@@ -1,4 +1,8 @@
-<!ENTITY notificationsDialog2.title        "Personalizar nueva alerta de correo">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY notificationsDialog2.title       "Personalizar nueva alerta de correo">
 <!ENTITY window.width                     "30em">
 
 <!ENTITY alertCustomization.intro         "Seleccione qué campos mostrar en la alerta de notificación:">

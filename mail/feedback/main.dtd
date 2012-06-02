@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Configuración">
@@ -17,7 +21,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Estudios finalizados">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Búsqueda de estudios">
 <!ENTITY testpilot.studiesWindow.settings.label         "Configuración">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Cargando, espere...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Cargando, espere…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Datos en bruto">
