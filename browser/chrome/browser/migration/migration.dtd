@@ -14,8 +14,6 @@
 <!ENTITY importFromChrome.accesskey    "C">
 <!ENTITY importFromFirefox.label       "Firefox">
 <!ENTITY importFromFirefox.accesskey   "x">
-<!ENTITY importFromHTMLFile.label      "HTML-failist">
-<!ENTITY importFromHTMLFile.accesskey  "f">
 
 <!ENTITY noMigrationSources.label      "Rakendusi, mis sisaldavad järjehoidjaid, ajalugu või paroole, ei leitud.">
 

@@ -97,7 +97,8 @@
 <!ENTITY  permPopup                                    "Hüpikakende avamine">
 <!ENTITY  permCookie                                   "Küpsiste salvestamine">
 <!ENTITY  permInstall                                  "Laienduste või teemade paigaldamine">
-<!ENTITY  permGeo                                      "Asukoht avaldatakse">
+<!ENTITY  permGeo                                      "Asukoha avaldamine">
+<!ENTITY  permPlugins                                  "Pluginate aktiveerimine">
 
 <!ENTITY  permIndexedDB                                "Võrguta režiimi kettakasutuse haldamine">
 <!ENTITY  permClearStorage                             "Kustuta andmed">

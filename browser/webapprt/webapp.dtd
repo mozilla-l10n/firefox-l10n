@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Fail">
+<!ENTITY fileMenu.accesskey                 "F">
+
+<!ENTITY quitApplicationCmdWin.label        "Välju">
+<!ENTITY quitApplicationCmdWin.accesskey    "V">
+<!ENTITY quitApplicationCmd.label           "Välju">
+<!ENTITY quitApplicationCmd.accesskey       "V">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Peida teised">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Näita kõiki">
+
+<!ENTITY editMenu.label                     "Redigeerimine">
+<!ENTITY editMenu.accesskey                 "R">
+<!ENTITY undoCmd.label                      "Võta tagasi">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "V">
+<!ENTITY redoCmd.label                      "Tee uuesti">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "T">
+<!ENTITY cutCmd.label                       "Lõika">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "L">
+<!ENTITY copyCmd.label                      "Kopeeri">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "K">
+<!ENTITY pasteCmd.label                     "Aseta">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "A">
+<!ENTITY deleteCmd.label                    "Kustuta">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "u">
+<!ENTITY selectAllCmd.label                 "Vali kõik">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "i">
