@@ -166,6 +166,9 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
+<!ENTITY responsiveUI.label "Responsive Mode">
+<!ENTITY responsiveUI.accesskey "R">
+<!ENTITY responsiveUI.commandkey "M">
 <!ENTITY scratchpad.label "Borrador">
 <!ENTITY scratchpad.accesskey "b">
 <!ENTITY scratchpad.keycode "VK_F4">

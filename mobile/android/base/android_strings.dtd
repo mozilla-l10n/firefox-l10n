@@ -76,6 +76,11 @@
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por">
 <!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY find_in_page "Buscar en la página">
+<!ENTITY find_text "Buscar en la página">
+<!ENTITY find_prev "Anterior">
+<!ENTITY find_next "Siguiente">
+<!ENTITY find_close "Cerrar">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
