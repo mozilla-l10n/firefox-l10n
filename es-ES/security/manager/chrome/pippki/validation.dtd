@@ -35,6 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY validation.crlmanager.label "Administrar CRLs">
 <!ENTITY validation.crlmanager.description "Estas listas de revocación de certificados (CRL) se guardan en su base de datos de certificados:">
 <!ENTITY validation.crlname.label "Nombre">
