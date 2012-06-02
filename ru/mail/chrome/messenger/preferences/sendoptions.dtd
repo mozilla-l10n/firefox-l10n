@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Параметры отправки">
 <!ENTITY sendMail.title "Текстовый формат">
 <!ENTITY sendMaildesc.label "При отправке сообщений в формате HTML, если указано, что один или более адресатов не могут получать почту в формате HTML:">
