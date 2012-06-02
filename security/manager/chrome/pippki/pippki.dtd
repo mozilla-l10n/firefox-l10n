@@ -35,6 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY setPassword.title "Cambiar contraseña maestra">
 <!ENTITY setPassword.tokenName.label "Dispositivo de seguridad">
 <!ENTITY setPassword.oldPassword.label "Contraseña actual:">
