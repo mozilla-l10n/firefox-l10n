@@ -43,33 +43,34 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Vrstica za sestavo besedil">
+<!ENTITY compositionToolbar.tooltip "Orodna vrstica za sestavke">
 <!ENTITY previewToolbarCmd.label "Brskaj">
 <!ENTITY previewToolbarCmd.tooltip "Naloži to stran v brskalnik">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "Izvozi v besedilo…">
-<!ENTITY exportToTextCmd.accesskey "v">
+<!ENTITY exportToTextCmd.label "Izvozi v besedilo …">
+<!ENTITY exportToTextCmd.accesskey "I">
 <!ENTITY previewCmd.label "Brskaj po strani">
-<!ENTITY previewCmd.accesskey "p">
+<!ENTITY previewCmd.accesskey "B">
 <!ENTITY sendPageCmd.label "Pošlji stran…">
-<!ENTITY sendPageCmd.accesskey "s">
+<!ENTITY sendPageCmd.accesskey "š">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Orodna vrstica za sestavke">
-<!ENTITY compositionToolbarCmd.accesskey "s">
+<!ENTITY compositionToolbarCmd.accesskey "o">
 <!ENTITY formattingToolbarCmd.label "Orodna vrstica za oblikovanje">
 <!ENTITY formattingToolbarCmd.accesskey "o">
 <!ENTITY editmodeToolbarCmd.label "Orodna vrstica za urejevalni način">
-<!ENTITY editmodeToolbarCmd.accesskey "u">
+<!ENTITY editmodeToolbarCmd.accesskey "o">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Oblikovanje">
 <!ENTITY formatMenu.accesskey "O">
-<!ENTITY grid.label "Nastavitev mreže">
-<!ENTITY grid.accesskey "t">
+
+<!ENTITY grid.label "Nameščanje mreže">
+<!ENTITY grid.accesskey "m">
 <!ENTITY pageProperties.label "Naslov strani in lastnosti…">
-<!ENTITY pageProperties.accesskey "l">
+<!ENTITY pageProperties.accesskey "N">
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "Validiraj HTML">
@@ -77,25 +78,24 @@
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normalno">
-<!ENTITY NormalMode.label "NOrmalno urejanje">
+<!ENTITY NormalMode.label "Normalni način urejanja">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Kaže robove tabel in sidra">
+<!ENTITY NormalMode.tooltip "Prikaži robove tabel in sidra z imenom">
 <!ENTITY AllTagsModeTab.label "Oznake HTML">
 <!ENTITY AllTagsMode.label "Oznake HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Kaže ikone za vsek oznake HTML">
+<!ENTITY AllTagsMode.accesskey "Z">
+<!ENTITY AllTagsMode.tooltip "Prikaži ikone za vse oznake HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Izvor">
-<!ENTITY HTMLSourceMode.label "Izvorni HTML">
+<!ENTITY HTMLSourceModeTab.label "Vir">
+<!ENTITY HTMLSourceMode.label "Izvirni HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Uredi izvorni HTML">
+<!ENTITY HTMLSourceMode.tooltip "Uredi izvirni HTML">
 <!ENTITY PreviewModeTab.label "Predogled">
 <!ENTITY PreviewMode.label "Predogled">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Prikaži kot WYSIWYG (kot v brskalniku)">
-

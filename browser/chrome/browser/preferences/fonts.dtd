@@ -10,14 +10,14 @@
 <!ENTITY sizeProportional.accesskey "l">
 <!ENTITY sizeMonospace.accesskey "e">
 
-<!ENTITY proportional.label "Spremenljivokoračna pisava:">
+<!ENTITY proportional.label "Proporcionalna pisava:">
 <!ENTITY proportional.accesskey "S">
 
 <!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Enokoračna pisava:">
+<!ENTITY monospace.label "Enoširinska pisava:">
 <!ENTITY monospace.accesskey "E">
 
 <!ENTITY font.langGroup.latin1 "zahodno">
@@ -43,13 +43,13 @@
 <!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
 <!ENTITY font.langGroup.ethiopic "etiopsko">
 <!ENTITY font.langGroup.georgian "gruzijsko">
-<!ENTITY font.langGroup.gujarati "gujarati">
-<!ENTITY font.langGroup.gurmukhi "gurmukhi">
+<!ENTITY font.langGroup.gujarati "gudžaratsko">
+<!ENTITY font.langGroup.gurmukhi "gurmuksko">
 <!ENTITY font.langGroup.khmer "kmersko">
 <!ENTITY font.langGroup.malayalam "malajalamsko">
 <!ENTITY font.langGroup.oriya "orijansko">
 <!ENTITY font.langGroup.telugu "telugu">
-<!ENTITY font.langGroup.kannada "kannadsko">
+<!ENTITY font.langGroup.kannada "kanadsko">
 <!ENTITY font.langGroup.sinhala "singalsko">
 <!ENTITY  font.langGroup.tibetan                  "tibetansko">
 <!-- Minimum font size -->

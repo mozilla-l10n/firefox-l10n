@@ -38,11 +38,11 @@
 <!ENTITY advancedJSDialog.title "Napredne nastavitve JavaScript">
 <!ENTITY window.width "39em">
 
-<!ENTITY allowScripts.label "Dovoli, da skripta:">
+<!ENTITY allowScripts.label "Dovoli, da skripti:">
 
-<!ENTITY moveResizeWindows.label "premikajo ali večajo oz. manjšajo okna">
-<!ENTITY moveResizeWindows.accesskey "P">
-<!ENTITY raiseLowerWindows.label "dvignejo ali spustijo okna">
+<!ENTITY moveResizePopupWindows.label     "Spreminjajo položaj in velikost oken">
+<!ENTITY moveResizePopupWindows.accesskey "P">
+<!ENTITY raiseLowerWindows.label "Postavljajo okna v ospredje in ozadje">
 <!ENTITY raiseLowerWindows.accesskey "D">
-<!ENTITY disableContextMenus.label "onemogočijo ali zamenjajo vsebinske menije">
+<!ENTITY disableContextMenus.label "Onemogočajo in spreminjajo priročne menije">
 <!ENTITY disableContextMenus.accesskey "O">

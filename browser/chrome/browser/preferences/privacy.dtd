@@ -1,4 +1,9 @@
-<!ENTITY history.label "Zgodovina">
+<!ENTITY tracking.label                 "Sledenje">
+
+<!ENTITY doNotTrack.label               "Spletnim stranem sporoči, naj mi ne sledijo">
+<!ENTITY doNotTrack.accesskey           "d">
+
+<!ENTITY  history.label "Zgodovina">
 
 <!ENTITY  locationBar.label             "Vrstica z naslovom">
 
@@ -10,26 +15,24 @@
 <!ENTITY  locbar.bookmarks.label        "Zaznamke">
 <!ENTITY  locbar.nothing.label          "Nič">
 
+<!ENTITY  acceptCookies.label "Dovoli stranem, da ustvarijo piškote.">
+<!ENTITY  acceptCookies.accesskey "p">
 
-<!ENTITY acceptCookies.label "Dovoli stranem, da ustvarijo piškote.">
-<!ENTITY acceptCookies.accesskey "p">
+<!ENTITY  acceptThirdParty.label "Sprejemaj piškote tretjih strani">
+<!ENTITY  acceptThirdParty.accesskey "p">
 
-<!ENTITY acceptThirdParty.label "Sprejmi piškote tretjih strani">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY  keepUntil.label "Obdrži jih:">
+<!ENTITY  keepUntil.accesskey "O">
 
-<!ENTITY keepUntil.label "Obdrži jih:">
-<!ENTITY keepUntil.accesskey "O">
+<!ENTITY  expire.label "dokler ne pretečejo">
+<!ENTITY  close.label "dokler ne zaprem &brandShortName;a">
+<!ENTITY  askEachTime.label "vsakokrat me vprašaj">
 
-<!ENTITY expire.label "dokler ne pretečejo">
-<!ENTITY close.label "dokler ne zaprem &brandShortName;a">
-<!ENTITY askEachTime.label "vsakokrat me vprašaj">
+<!ENTITY  cookieExceptions.label "Izjeme ...">
+<!ENTITY  cookieExceptions.accesskey "Z">
 
-<!ENTITY cookieExceptions.label "Izjeme ...">
-<!ENTITY cookieExceptions.accesskey "Z">
-
-<!ENTITY showCookies.label "Pokaži piškote ...">
-<!ENTITY showCookies.accesskey "K">
-
+<!ENTITY  showCookies.label "Pokaži piškote ...">
+<!ENTITY  showCookies.accesskey "K">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; naj:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -57,14 +60,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "počistiti vso trenutno zgodovino">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Stalno zasebno brskanje">
-<!ENTITY  privateBrowsingPermanent.accesskey "S">
+<!ENTITY  privateBrowsingPermanent2.label "Vedno uporabljaj zasebno brskanje">
+<!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
-<!ENTITY  rememberHistory.label      "Shranjuj zgodovino brskanja">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Shranjuj zgodovino prenosov">
-<!ENTITY  rememberDownload.accesskey     "p">
+<!ENTITY  rememberHistory2.label      "Shranjuj zgodovino brskanja in prenosov">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Shranjuj zgodovino iskanja in obrazcev">
 <!ENTITY  rememberSearchForm.accesskey   "i">

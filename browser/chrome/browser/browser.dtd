@@ -33,7 +33,6 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Nova skupina">
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
-
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Prekliči zapiranje zavihka">
@@ -58,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Uvozi …">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Nepovezan način">
 <!ENTITY goOfflineCmd.accesskey "n">
@@ -80,9 +77,9 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Celozaslonski način">
+<!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
-<!ENTITY fullScreenCmd.macCommandKey "c">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
@@ -91,8 +88,9 @@ can reach it easily. -->
 <!ENTITY fullScreenClose.tooltip "Zapri">
 <!ENTITY fullScreenAutohide.label "Skrij orodne vrstice">
 <!ENTITY fullScreenAutohide.accesskey "S">
-<!ENTITY fullScreenExit.label "Izhod iz celozaslonskega načina">
+<!ENTITY fullScreenExit.label "Končaj celoten zaslon">
 <!ENTITY fullScreenExit.accesskey "C">
+<!ENTITY domFullScreenWarning.label "Pritisnite ESC za izhod iz celotnega zaslona">
 
 <!ENTITY closeWindow.label "Zapri okno">
 <!ENTITY closeWindow.accesskey "o">
@@ -105,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY showAllBookmarks2.label "Prikaži vse zaznamke">
-<!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke …">
+<!ENTITY unsortedBookmarksCmd.label "Nerazvrščeni zaznamki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
 <!ENTITY backCmd.label "Nazaj">
@@ -114,6 +112,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Naprej">
 <!ENTITY forwardCmd.accesskey "P">
 <!ENTITY forwardButton.tooltip "Pojdi na naslednjo stran">
+<!ENTITY backForwardButtonMenu.tooltip "Desno kliknite ali potegnite navzdol za prikaz zgodovine">
+<!ENTITY backForwardButtonMenuMac.tooltip "Potegnite navzdol za prikaz zgodovine">
 <!ENTITY reloadCmd.label "Ponovno naloži">
 <!ENTITY reloadCmd.accesskey "P">
 <!ENTITY reloadButton.tooltip "Ponovno naloži trenutno stran">
@@ -133,7 +133,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meni">
-<!ENTITY appMenuButton.tooltip        "Odpri meni &brandShortName;a">
+<!ENTITY appMenuButton.tooltip        "Odpri meni &brandShortName;">
 <!ENTITY homeButton.label "Domov">
 
 <!ENTITY tabGroupsButton.label        "Skupine zavihkov">
@@ -180,6 +180,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey "D">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Spletni razvoj">
+<!ENTITY webDeveloperMenu.accesskey   "S">
+
 <!ENTITY errorConsoleCmd.label "Konzola JavaScript">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -192,22 +195,53 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "g">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Preglej">
-<!ENTITY inspectButton.accesskey      "P">
-<!ENTITY inspectNextButton.label      "Naprej">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Nazaj">
-<!ENTITY inspectPreviousButton.accesskey "z">
+<!ENTITY inspectContextMenu.label     "Preglej element">
+<!ENTITY inspectContextMenu.accesskey "j">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Beležnica">
+<!ENTITY scratchpad.accesskey         "B">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectCloseButton.tooltiptext "Zapri pregledovalnik">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopiraj notranji HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopiraj zunanji HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Odstrani element">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Pogled 3D">
+<!ENTITY inspect3DViewButton.accesskey "D">
+
 <!ENTITY inspectStyleButton.label     "Slog">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Slog">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objekt">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Urejevalnik sloga">
+<!ENTITY styleeditor.accesskey        "U">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Prenesi več orodij">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "r">
 
 <!ENTITY fileMenu.label "Datoteka">
 <!ENTITY fileMenu.accesskey "D">
@@ -297,12 +331,13 @@ can reach it easily. -->
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -313,6 +348,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -418,9 +454,14 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "g">
 <!ENTITY mediaHideControls.label     "Skrij gradnike">
 <!ENTITY mediaHideControls.accesskey "g">
-<!ENTITY videoFullScreen.label       "Celozaslonski način">
+<!ENTITY videoFullScreen.label       "Celoten zaslon">
 <!ENTITY videoFullScreen.accesskey   "C">
-
+<!ENTITY videoSaveImage.label        "Shrani posnetek kot …">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Prikaži statistiko">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Skrij statistiko">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -457,7 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip "Kopiraj">
 <!ENTITY pasteButton.tooltip "Prilepi">
 
-<!ENTITY fullScreenButton.tooltip       "Prikaži okno v celozaslonskem načinu">
+<!ENTITY fullScreenButton.tooltip       "Prikaži okno na celotnem zaslonu">
 
 <!ENTITY zoomOutButton.tooltip          "Pomanjšaj">
 <!ENTITY zoomInButton.tooltip           "Povečaj">
@@ -483,14 +524,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Osnovni slog strani">
 <!ENTITY pageStylePersistentOnly.accesskey "o">
 
-<!ENTITY pageReportIcon.tooltip "Spremeni nastavitve prepovedovanja nezahtevanih oken za to stran">
+<!ENTITY pageReportIcon.tooltip "Spremeni nastavitve prepovedovanja neželenih oken za to stran">
 
 <!ENTITY allowPopups.accesskey "d">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve zavračanja nezahtevanih oken …">
-<!ENTITY editPopupSettings.label "Uredi možnosti zavračanja nezahtevanih oken …">
+<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve zavračanja neželenih oken …">
+<!ENTITY editPopupSettings.label "Uredi možnosti zavračanja neželenih oken …">
 <!ENTITY editPopupSettings.accesskey "U">
 <!ENTITY dontShowMessage.accesskey "N">
 
@@ -542,13 +583,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Zavihki ostalih računalnikov">
 
-<!ENTITY syncBrand.shortName.label  "Sinhronizacija">
+<!ENTITY syncBrand.shortName.label  "Usklajevanje">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; …">
-<!ENTITY syncSetup.accesskey          "i">
-<!ENTITY syncSyncNowItem.label        "Sinhroniziraj zdaj">
-<!ENTITY syncSyncNowItem.accesskey    "j">
-<!ENTITY syncToolbarButton.label      "Sinhroniziraj">
+<!ENTITY syncSetup.accesskey          "u">
+<!ENTITY syncSyncNowItem.label        "Uskladi zdaj">
+<!ENTITY syncSyncNowItem.accesskey    "u">
+<!ENTITY syncToolbarButton.label      "Uskladi">
 
 <!ENTITY addonBarCloseButton.tooltip  "Zapri vrstico dodatkov">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "Pano HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">

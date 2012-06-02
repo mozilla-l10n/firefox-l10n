@@ -39,7 +39,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Lastnosti vodoravne črte">
 
-<!ENTITY dimensionsBox.label "Dimenzije">
+<!ENTITY dimensionsBox.label "Mere">
 <!ENTITY heightEditField.label "Višina:">
 <!ENTITY heightEditField.accessKey "V">
 <!ENTITY widthEditField.label "Dolžina:">

@@ -5,13 +5,16 @@
 <!ENTITY startupHomePage.label "prikaži mojo domačo stran">
 <!ENTITY startupBlankPage.label "prikaži prazno stran">
 <!ENTITY startupLastSession.label "prikaži nazadnje odprta okna in zavihke">
+<!ENTITY restoreOnDemand.label     "Ne nalagaj zavihkov, dokler niso izbrani">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label "Domača stran:">
 <!ENTITY homepage.accesskey "D">
 <!ENTITY useCurrentPage.label "Uporabi trenutno stran">
 <!ENTITY useCurrentPage.accesskey "T">
 <!ENTITY useMultiple.label "Uporabi trenutne strani">
-<!ENTITY useBookmark.label "Uporabi zaznamek">
-<!ENTITY useBookmark.accesskey "z">
+<!ENTITY chooseBookmark.label      "Uporabi zaznamek …">
+<!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label "Uporabi privzeto stran">
 <!ENTITY restoreDefault.accesskey "i">
 
@@ -30,8 +33,8 @@
 <!ENTITY alwaysAsk.label "Pri vsakem prenosu vprašaj, kam želim shraniti datoteko">
 <!ENTITY alwaysAsk.accesskey "V">
 
-<!ENTITY addonsMgr.label "Razširitve in teme">
-<!ENTITY manageAddonsDescWin.label "Spremeni nastavitve razširitev in tem">
-<!ENTITY manageAddonsDescUnix2.label "Spremeni nastavitve razširitev in tem">
-<!ENTITY manageAddons.label "Razširitve in teme ...">
+<!ENTITY addonsMgr.label "Dodatki">
+<!ENTITY manageAddonsDescWin.label "Spremenite nastavitve svojih dodatkov">
+<!ENTITY manageAddonsDescUnix2.label "Spremenite nastavitve svojih dodatkov">
+<!ENTITY manageAddons.label "Upravljanje dodatkov ...">
 <!ENTITY manageAddons.accesskey "R">
