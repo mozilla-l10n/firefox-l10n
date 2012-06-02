@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Aviar...">
-<!ENTITY scanning.label                   "Controlla da virus...">
+<!ENTITY starting.label                   "Cumenzar…">
+<!ENTITY scanning.label                   "Controlla da virus…">
 
 <!ENTITY downloads.title                  "Telechargiadas">
 
@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey            "f">
 <!ENTITY cmd.open.label                   "Avrir">
 <!ENTITY cmd.open.accesskey               "A">
-<!ENTITY cmd.openWith.label               "Avrir cun...">
+<!ENTITY cmd.openWith.label               "Avrir cun…">
 <!ENTITY cmd.openWith.accesskey           "A">
 <!ENTITY cmd.retry.label                  "Empruvar anc ina giada">
 <!ENTITY cmd.retry.accesskey              "v">
@@ -45,4 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Serra la fanestra da telechargiar, suenter che tut las datotecas èn telechargiadas">
 
 <!ENTITY showFolder.label                 "Mussar quest ordinatur">
-<!ENTITY searchBox.label                  "Tschertgar...">
+<!ENTITY searchBox.label                  "Tschertgar…">
