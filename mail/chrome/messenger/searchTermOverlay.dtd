@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY matchAll.label "Удовлетворяющим всем условиям">
+<!ENTITY matchAll.label "Удовлетворяющие всем условиям">
 <!ENTITY matchAll.accesskey "в">
-<!ENTITY matchAny.label "Удовлетворяющим любому из условий">
+<!ENTITY matchAny.label "Удовлетворяющие любому из условий">
 <!ENTITY matchAny.accesskey "л">
 <!ENTITY matchAllMsgs.label "Ко всем сообщениям">
 <!ENTITY matchAllMsgs.accesskey "с">
