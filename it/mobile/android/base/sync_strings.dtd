@@ -26,9 +26,9 @@
 <!ENTITY sync.button.manual.label "Configurazione manuale">
 <!ENTITY sync.subtitle.nointernet.label "Connessione a Internet non disponibile.">
 <!ENTITY sync.title.success.label "Configurazione completata">
-<!ENTITY sync.subtitle.success.label "Il download dei dati è in corso. È possibile gestire il proprio account in Impostazioni.">
+<!ENTITY sync.subtitle.success.label1 "Il download dei dati è in corso. È possibile gestire il proprio account in Impostazioni o iniziare a navigare con &brandShortName;.">
 <!ENTITY sync.settings.label "Impostazioni">
-<!ENTITY sync.subtitle.manage.label "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni.">
+<!ENTITY sync.subtitle.manage.label1 "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni o avviare &brandShortName;.">
 <!ENTITY sync.pair.tryagain.label "Riprovare">
 <!ENTITY sync.pair.connectlocation.label "Per attivare un nuovo dispositivo selezionare “Configurazione di &syncBrand.shortName.label;” e poi “Utilizza un account esistente”.">
 <!ENTITY sync.settings.options.label "Opzioni">
