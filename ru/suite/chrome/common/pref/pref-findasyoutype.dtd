@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Поиск по мере набора">
 <!ENTITY findAsYouTypeBehavior.label "Поиск по мере набора">
 <!ENTITY findAsYouTypeTip.label "Совет: чтобы самостоятельно включить быстрый поиск по мере набора, нажмите / (поиск текста) или ' (поиск в ссылках), а затем — искомый текст.">
