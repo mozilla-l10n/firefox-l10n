@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; on kokeellinen versio ja voi olla epävakaa.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "Testitietoja lähetetään automaattisesti &vendorShortName;lle auttamaan &brandShortName;-version kehittämisessä.">
+<!ENTITY warningDesc.telemetryDesc  "Tietoja suorituskyvystä, laitteistosta, käyttötavoista ja muokkauksista lähetetään automaattisesti &vendorShortName;lle auttamaan &brandShortName;in kehittämisessä.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -17,7 +17,7 @@
 <!ENTITY community.start2           "&brandShortName;in on kehittänyt ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          " on ">
+<!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "kansainvälinen yhteisö">
 <!ENTITY community.end3             ", joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa Internetiä.">
