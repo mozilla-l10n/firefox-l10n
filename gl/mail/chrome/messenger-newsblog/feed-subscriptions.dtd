@@ -22,11 +22,12 @@
 <!ENTITY button.addFeed.accesskey   "a">
 <!ENTITY button.editFeed.label      "Actualizar">
 <!ENTITY button.editFeed.accesskey  "u">
-<!ENTITY button.removeFeed.label "Eliminar">
+<!ENTITY button.removeFeed.label "Retirar">
 <!ENTITY button.removeFeed.accesskey   "r">
 <!ENTITY button.importOPML.label "Importar">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Exportar">
 <!ENTITY button.exportOPML.accesskey   "x">
+<!ENTITY button.exportOPML.tooltip   "Exportar as fontes coa estrutura do cartafol; Ctrl clic ou Ctrl Intro para exportar as fontes como unha lista">
 
 <!ENTITY cmd.close.commandKey             "w">
