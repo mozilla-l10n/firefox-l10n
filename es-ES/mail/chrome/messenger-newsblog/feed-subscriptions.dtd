@@ -25,4 +25,5 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "Exportar">
 <!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.tooltip "Exportar canales con la estructura de canales; ctrl clic o ctrl enter para exportar los canales como una lista">
 <!ENTITY cmd.close.commandKey "w">
