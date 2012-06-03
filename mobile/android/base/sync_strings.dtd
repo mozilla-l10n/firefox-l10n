@@ -68,6 +68,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Marque-pages non classés'>
 <!ENTITY bookmarks.folder.desktop.label 'Marque-pages ordinateur'>
 <!ENTITY bookmarks.folder.mobile.label 'Marque-pages mobile'>
+<!ENTITY bookmarks.folder.readinglist.label 'Liste de lecture'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Un seul compte &syncBrand.fullName.label; peut être géré.'>
