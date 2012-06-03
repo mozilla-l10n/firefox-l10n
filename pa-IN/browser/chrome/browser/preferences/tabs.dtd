@@ -15,7 +15,7 @@
 <!ENTITY showTabBar.label             "ਹਮੇਸ਼ਾਂ ਟੈਬ ਪੱਟੀ ਵਰਤੋਂ">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
+<!ENTITY restoreTabsOnDemand.label        "ਜਦੋਂ ਤੱਕ ਚੁਣੀਆਂ ਨਾ ਜਾਣ, ਟੈਬਾਂ ਨੂੰ ਲੋਡ ਨਾ ਕਰੋ">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "ਜਦੋਂ ਮੈਂ ਟੈਬ ਵਿੱਚ ਲਿੰਕ ਖੋਲ੍ਹਾਂ ਤਾਂ ਤੁਰੰਤ ਉਸ ਉੱਤੇ ਜਾਓ">

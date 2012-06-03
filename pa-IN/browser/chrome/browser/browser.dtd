@@ -625,7 +625,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ਜੋ ਕਿ ਚਲਾਈ ਜਾ ਰਹੀ ਹੈ">
 
-<!ENTITY identity.moreInfoLinkText "ਹੋਰ ਜਾਣਕਾਰੀ…">
+<!ENTITY identity.moreInfoLinkText "...ਹੋਰ ਜਾਣਕਾਰੀ">
 
 <!ENTITY downloadMonitor2.tooltip "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
 

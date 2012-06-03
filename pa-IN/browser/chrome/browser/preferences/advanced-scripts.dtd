@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY advancedJSDialog.title         "Advanced JavaScript Settings">
+<!ENTITY advancedJSDialog.title         "ਤਕਨੀਕੀ JavaScript ਸੈਟਿੰਗ">
 <!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label             "Allow scripts to:">
+<!ENTITY allowScripts.label             "ਸਕ੍ਰਿਪਟਾਂ ਮਨਜ਼ੂਰ:">
 
 <!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
 <!ENTITY moveResizePopupWindows.accesskey "M">
