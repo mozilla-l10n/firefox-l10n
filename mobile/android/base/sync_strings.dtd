@@ -70,3 +70,6 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label  'Toetatud on ainult üks &syncBrand.fullName.label;i konto.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'Taastamise võti pole õige. Palun proovi uuesti.'>

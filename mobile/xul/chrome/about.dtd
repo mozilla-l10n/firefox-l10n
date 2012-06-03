@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "&brandShortName;i teave">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; on mõeldud testimiseks ja võib olla ebastabiilne.">
+<!ENTITY aboutPage.telemetryStart               " Et teha &brandShortName; paremaks, saadab see versioon ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;le">
+<!ENTITY aboutPage.telemetryEnd                 " automaatselt tagasisidet kasutatava riistvara, sooritusvõimsuse, funktsionaalsuse kasutatavuse ja brauseri kohandamiste kohta.">
 <!ENTITY aboutPage.faq.label                    "KKK">
 <!ENTITY aboutPage.support.label                "Tugi">
 <!ENTITY aboutPage.privacyPolicy.label          "Privaatsusreeglid">

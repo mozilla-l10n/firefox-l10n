@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder  "Sisesta pealkiri">
-<!ENTITY webapps.permissions        "Ligipääsu lubamine:">
-<!ENTITY webapps.perm.geolocation   "Asukohateadlik veebilehitsemine">
-<!ENTITY webapps.perm.offline       "Võrguta režiimis andmete salvestamine">
-<!ENTITY webapps.perm.notifications "Töölaua märguanded">
-<!ENTITY webapps.perm.requestedHint "(nõutud)">
-<!ENTITY webapps.add-homescreen     "Lisa avaekraanile">
