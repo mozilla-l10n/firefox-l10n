@@ -12,7 +12,7 @@
 <!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey      "L">
 <!ENTITY systemIntegration.label          "Süsteemi integratsioon">
-<!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on vaikimisi e-posti klient">
+<!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on e-posti vaikeklient">
 <!ENTITY alwaysCheckDefault.accesskey     "a">
 <!ENTITY searchIntegration.label          "Rakendusel &searchIntegration.engineName; on kirjade otsimine lubatud">
 <!ENTITY searchIntegration.accesskey      "R">
