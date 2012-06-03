@@ -90,6 +90,14 @@
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por">
 <!ENTITY save_as_pdf "Gardar como PDF">
+<!ENTITY find_in_page "Atopar na páxina">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Atopar na páxina">
+<!ENTITY find_prev "Anterior">
+<!ENTITY find_next "Seguinte">
+<!ENTITY find_close "Pechar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
 <!ENTITY contextmenu_remove_history "Retirar">
