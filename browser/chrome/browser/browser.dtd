@@ -98,8 +98,8 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey                 "J">
 <!ENTITY bookmarkThisPageCmd.label               "Lisa see veebileht järjehoidjatesse...">
 <!ENTITY bookmarkThisPageCmd.commandkey          "d">
-<!ENTITY subscribeToPageMenupopup.label          "Selle veebilehe uudisvoo tellimine">
-<!ENTITY subscribeToPageMenuitem.label           "Telli selle veebilehe uudisvoog...">
+<!ENTITY subscribeToPageMenupopup.label          "Selle veebilehe uudistevoo tellimine">
+<!ENTITY subscribeToPageMenuitem.label           "Telli selle veebilehe uudistevoog...">
 <!ENTITY addCurPagesCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY showAllBookmarks2.label                 "Kuva kõiki järjehoidjaid">
 <!ENTITY unsortedBookmarksCmd.label              "Sorteerimata järjehoidjad">
@@ -139,7 +139,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip                 "Grupeeri oma kaardid">
 
 <!ENTITY feedButton.label                        "Telli">
-<!ENTITY feedButton.tooltip                      "Telli selle lehe uudisvoog…">
+<!ENTITY feedButton.tooltip                      "Telli selle lehe uudistevoog…">
 
 <!ENTITY bookmarksButton.label                   "Järjehoidjad">
 <!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">

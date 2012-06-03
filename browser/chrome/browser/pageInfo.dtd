@@ -80,7 +80,7 @@
 <!ENTITY mediaSaveAs2.accesskey                        "e">
 <!ENTITY mediaPreview                                  "Meediafaili eelvaatlus:">
 
-<!ENTITY  feedTab                                      "Uudisvood">
+<!ENTITY  feedTab                                      "Uudistevood">
 <!ENTITY  feedTab.accesskey                            "U">
 <!ENTITY  feedSubscribe                                "Telli">
 <!ENTITY  feedSubscribe.accesskey                      "T">

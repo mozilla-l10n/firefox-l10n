@@ -234,7 +234,7 @@
 <!ENTITY bodyAllParts.label                            "Kõik sisu osad">
 <!ENTITY bodyAllParts.accesskey                        "s">
 
-<!ENTITY bodyMenuFeed.label                            "Uudisvoo sisuks on">
+<!ENTITY bodyMenuFeed.label                            "Uudistevoo sisuks on">
 <!ENTITY bodyMenuFeed.accesskey                        "U">
 <!ENTITY viewFeedWebPage.label                         "Veebileht">
 <!ENTITY viewFeedWebPage.accesskey                     "V">
@@ -449,7 +449,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label                     "Ava vestlusena">
 <!ENTITY openConversationCmd.accesskey                 "n">
 <!ENTITY openConversationCmd.key                       "o">
-<!ENTITY openFeedMessage.label                         "Ava uudisvoo sõnum">
+<!ENTITY openFeedMessage.label                         "Ava uudistevoo sõnum">
 <!ENTITY openFeedMessage.accesskey                     "v">
 <!ENTITY openFeedWebPageInWindow.label                 "Veebileht uues aknas">
 <!ENTITY openFeedWebPageInWindow.accesskey             "e">

@@ -2,7 +2,7 @@
 <!ENTITY editBookmarkOverlay.name.accesskey              "N">
 <!ENTITY editBookmarkOverlay.location.label              "Asukoht:">
 <!ENTITY editBookmarkOverlay.location.accesskey          "A">
-<!ENTITY editBookmarkOverlay.feedLocation.label          "Uudisvoo asukoht:">
+<!ENTITY editBookmarkOverlay.feedLocation.label          "Uudistevoo asukoht:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey      "U">
 <!ENTITY editBookmarkOverlay.siteLocation.label          "Veebilehe asukoht:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey      "V">
