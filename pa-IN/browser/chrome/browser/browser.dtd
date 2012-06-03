@@ -79,9 +79,9 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.label "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਜਾਓ">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY exitFullScreenCmd.label "ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -96,10 +96,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰੋ">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "Allow">
-<!ENTITY fullscreenExitButton.label "Deny">
-<!ENTITY fullscreenApproval.value "Allow fullscreen?">
-<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
+<!ENTITY fullscreenAllowButton.label "ਮਨਜ਼ੂਰ">
+<!ENTITY fullscreenExitButton.label "ਇਨਕਾਰ">
+<!ENTITY fullscreenApproval.value "ਪੂਰੀ ਸਕਰੀਨ ਮਨਜ਼ੂਰ?">
+<!ENTITY fullscreenExitHint.value "ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਆਉਣ ਲਈ ਕਿਸੇ ਵੀ ਸਮੇਂ ESC ਦੱਬੋ।">
+<!ENTITY leaveDOMFullScreen.label "ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "ਵਿੰਡੋ ਬੰਦ ਕਰੋ">
 <!ENTITY closeWindow.accesskey "d">
@@ -210,6 +212,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ਐਲੀਮੈਂਟ ਜਾਂਚ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+
+<!ENTITY responsiveUI.label            "ਰਿਸਪੋਸਿਵ ਮੋਡ">
+<!ENTITY responsiveUI.accesskey        "R">
+<!ENTITY responsiveUI.commandkey       "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -227,8 +234,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "ਇੰਸਪੈਕਟਰ ਬੰਦ ਕਰੋ">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarCloseButton.tooltiptext "ਡਿਵੈਲਪਰ ਟੂਲਬਾਰ ਬੰਦ ਕਰੋ">
+<!ENTITY devToolbarMenu.label              "ਡਿਵੈਲਪਰ ਮੋਡ">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.commandkey             "v">
 
@@ -248,12 +255,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
   -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
+<!ENTITY inspectOptionButton.tooltiptext    "ਇੰਸਪੈਕਟਰ ਚੋਣਾਂ">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Dim The Page">
+<!ENTITY inspectorToggleVeil.label          "ਪੇਜ਼ ਡਿਮ ਕਰੋ">
 <!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "Show Node Info">
+<!ENTITY inspectorToggleInfobar.label       "ਨੋਡ ਜਾਣਕਾਰੀ ਵੇਖਾਓ">
 <!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
@@ -651,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 located in front of the breadcrumbs display in the inspector toolbar. The button
 doesn't display any label, but exposes a label to screen-readers with "aria-label".
 -->
-<!ENTITY markupButton.arialabel          "Markup">
+<!ENTITY markupButton.arialabel          "ਮਾਰਕਅੱਪ">
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
