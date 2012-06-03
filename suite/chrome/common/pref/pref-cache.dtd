@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.cache.title "Caché">
 <!ENTITY pref.cache.caption "Establecer opciones de caché">
 <!ENTITY cachePara "La caché mantiene en su disco duro copias de las páginas web visitadas frecuentemente (aunque al pulsar Recargar siempre se mostrará la última versión de una página).">

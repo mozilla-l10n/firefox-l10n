@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY certerror.pagetitle "Conexión no confiable">
 <!ENTITY certerror.longpagetitle "No se confía en esta conexión">
 <!ENTITY certerror.introPara1 "Ha pedido a &brandShortName; que se conecte de manera segura a
