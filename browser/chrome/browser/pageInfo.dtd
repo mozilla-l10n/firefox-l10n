@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Oikeus asettaa evästeitä">
 <!ENTITY  permInstall           "Oikeus asentaa laajennuksia tai teemoja">
 <!ENTITY  permGeo               "Kerro sijainti">
+<!ENTITY  permPlugins           "Käynnistä liitännäiset">
 
 <!ENTITY  permIndexedDB              "Pidä verkkoyhteydettömän tilan tietovarastoa">
 <!ENTITY  permClearStorage           "Tyhjennä tietovarasto">

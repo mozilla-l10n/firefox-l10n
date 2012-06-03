@@ -28,6 +28,8 @@
 
 <!ENTITY geo.label                       "Kerro sijainti">
 
+<!ENTITY plugins.label                   "Liitännäiset">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Pidä verkkoyhteydettömän tilan tietovarastoa">
