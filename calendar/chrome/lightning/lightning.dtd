@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "з">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Показати сьогоднішні події">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Показати завдання на сьогодні">
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->
