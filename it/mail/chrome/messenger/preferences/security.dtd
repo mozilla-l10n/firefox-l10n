@@ -12,8 +12,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Segna come già letti tutti i messaggi riconosciuti come posta indesiderata">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptativeJunkLogging.label "Attiva registro attività del filtro incrementale per la posta indesiderata">
-<!ENTITY enableAdaptativeJunkLogging.accesskey "A">
+<!ENTITY enableAdaptiveJunkLogging.label "Attiva registro attività del filtro incrementale per la posta indesiderata">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Mostra registro attività">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Elimina i dati di autoistruzione">
