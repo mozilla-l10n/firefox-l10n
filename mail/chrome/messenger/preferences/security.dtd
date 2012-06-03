@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey    "t">
 <!ENTITY markAsReadOnSpam.label            "Rämpspostiks määratud kirjad märgitakse loetuks">
 <!ENTITY markAsReadOnSpam.accesskey        "k">
-<!ENTITY enableJunkLogging.label           "Rämpsposti filtri logimine lubatakse">
-<!ENTITY enableJunkLogging.accesskey       "f">
+<!ENTITY enableAdaptiveJunkLogging.label   "Kohastuva rämpsposti filtri logimine lubatakse">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "f">
 <!ENTITY openJunkLog.label                 "Kuva logi">
 <!ENTITY openJunkLog.accesskey             "u">
 <!ENTITY resetTrainingData.label           "Lähtesta rämpsposti filtrid">

@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label         "Konto sätted">
-<!ENTITY accountSettingsDesc.label  "See on eriline konto, millega ei ole seotud ühtegi identiteeti.">
 <!ENTITY accountName.label          "Konto nimi:">
 <!ENTITY accountName.accesskey      "n">
-<!ENTITY messageStorage.label       "Kirjade säilitamine">
-<!ENTITY emptyTrashOnExit.label     "Väljumisel tühjendatakse kustutatud kirjade kaust">
-<!ENTITY emptyTrashOnExit.accesskey "j">
-<!ENTITY localPath.label            "Kohalik kataloog:">
-<!ENTITY localFolderPicker.label    "Kohaliku kataloogi valimine">
-<!ENTITY browseFolder.label         "Lehitse...">
-<!ENTITY browseFolder.accesskey     "L">

@@ -25,6 +25,7 @@
    -   Ryan Cassin (rcassin@supernova.org)
    -   Daniel Glazman (glazman@netscape.com)
    -   Stephen Donner (technutz@netscape.net)
+   -   Sander Lepik (sander.lepik@eesti.ee)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -83,11 +84,6 @@
 <!ENTITY insertBreakAllCmd.accesskey         "h">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label       "(soovitusi ei leitud)">
-<!ENTITY spellCheckIgnoreWord.label          "Ignoreeri sõna">
-<!ENTITY spellCheckIgnoreWord.accesskey      "I">
-<!ENTITY spellCheckAddToDictionary.label     "Lisa sõnaraamatusse">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label                 "Loo link...">
 <!ENTITY createLinkCmd.accesskey             "i">
 <!ENTITY editLinkCmd.label                   "Redigeeri linki uues koostajas">

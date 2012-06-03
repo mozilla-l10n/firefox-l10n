@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key                               "r">
 <!ENTITY replySenderCmd.label                          "Vasta ainult saatjale">
 <!ENTITY replySenderCmd.accesskey                      "V">
-<!ENTITY replyNewsgroupCmd.label                       "Vasta uudistegruppi">
-<!ENTITY replyNewsgroupCmd.accesskey                   "t">
+<!ENTITY replyNewsgroupCmd2.label                      "Vasta uudistegruppi">
+<!ENTITY replyNewsgroupCmd2.accesskey                  "t">
 <!ENTITY replyToAllMsgCmd.label                        "Vasta kõigile">
 <!ENTITY replyToAllMsgCmd.accesskey                    "k">
 <!ENTITY replyToAllMsgCmd.key                          "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey                           "I">
 <!ENTITY errorConsoleCmd.label                         "Vigade konsool">
 <!ENTITY errorConsoleCmd.accesskey                     "i">
+<!ENTITY errorConsoleCmd.commandkey                    "j">
 <!ENTITY accountManagerCmd.label                       "Kontode sätted...">
 <!ENTITY accountManagerCmd.accesskey                   "K">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey                      "h">
 <!ENTITY contextReplySender.label                      "Vasta ainult saatjale">
 <!ENTITY contextReplySender.accesskey                  "S">
-<!ENTITY contextReplyNewsgroup.label                   "Vasta uudistegruppi">
-<!ENTITY contextReplyNewsgroup.accesskey               "u">
+<!ENTITY contextReplyNewsgroup2.label                  "Vasta uudistegruppi">
+<!ENTITY contextReplyNewsgroup2.accesskey              "u">
 <!ENTITY contextReplyAll.label                         "Vasta kõigile">
 <!ENTITY contextReplyAll.accesskey                     "s">
 <!ENTITY contextReplyList.label                        "Vasta listile">

@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label             "Kirjade säilitamine">
 <!ENTITY securitySettings.label           "Turvasätted">
 <!ENTITY serverSettings.label             "Serveri sätted">
 <!ENTITY serverType.label                 "Serveri tüüp:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label         "Selle serveriga ühendudes nõutakse alati kasutaja tuvastamist">
 <!ENTITY alwaysAuthenticate.accesskey     "S">
 <!ENTITY newsrcFilePath.label             "newsrc fail:">
-<!ENTITY localPath.label                  "Kohalik kataloog:">
+<!ENTITY newsrcPicker.label               "newsrc faili valimine">
 <!ENTITY abbreviate.label                 "Uudistegruppide nimesid näidatakse kaustade paanis:">
 <!ENTITY abbreviateOn.label               "täielikult (näiteks 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label              "lühendatult (näiteks 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label             "Täpsemalt...">
 <!ENTITY advancedButton.accesskey         "T">
 <!ENTITY serverDefaultCharset.label       "Vaikimisi kodeering:">
+<!ENTITY localPath.label                  "Kohalik kataloog:">
 <!ENTITY localFolderPicker.label          "Kohaliku kataloogi valimine">
 <!ENTITY browseFolder.label               "Lehitse...">
 <!ENTITY browseFolder.accesskey           "L">
-<!ENTITY newsrcPicker.label               "newsrc faili valimine">
 <!ENTITY browseNewsrc.label               "Lehitse...">
 <!ENTITY browseNewsrc.accesskey           "i">
+
+<!ENTITY accountTitle.label               "Konto sätted">
+<!ENTITY accountSettingsDesc.label        "See on eriline konto, millega pole seotud ühtegi identiteeti.">

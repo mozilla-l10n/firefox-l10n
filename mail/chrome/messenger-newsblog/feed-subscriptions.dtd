@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Veebilehe laadimise asemel kuvatakse artikli kokkuvõtet">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY locationValidate.label      "Valideeri">
 <!ENTITY validateText.label          "Valideeri uudisvoogu ja hangi õige url.">
 
 <!ENTITY button.addFeed.label        "Lisa">

@@ -1,5 +1,3 @@
-<!ENTITY accountTitle.label             "Konto sätted">
-
 <!ENTITY biffStart.label                "Uusi uudiseid kontrollitakse iga">
 <!ENTITY biffStart.accesskey            "u">
 <!ENTITY biffEnd.label                  "minuti järel">
