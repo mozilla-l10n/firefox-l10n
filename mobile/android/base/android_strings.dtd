@@ -120,7 +120,10 @@
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Non hai configuracións para limpar.">
 
+<!ENTITY add_to_reading_list "Engadir á lista de lectura">
+<!ENTITY reading_list_added "Engadiuse a páxina á lista de lectura">
 <!ENTITY reading_list_removed "Retirouse a páxina da lista de lectura">
+<!ENTITY reader_mode "Modo de lectura">
 
 <!ENTITY masterpassword_create_title "Crear contrasinal principal">
 <!ENTITY masterpassword_remove_title "Eliminar contrasinal principal">
