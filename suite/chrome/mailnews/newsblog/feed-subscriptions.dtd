@@ -25,4 +25,5 @@
 <!ENTITY button.importOPML.accesskey "м">
 <!ENTITY button.exportOPML.label "Экспортировать">
 <!ENTITY button.exportOPML.accesskey "к">
+<!ENTITY button.exportOPML.tooltip "Экспорт лент новостей со структурой папок; ctrl щелчок или ctrl enter экспортирует ленты в виде списка">
 <!ENTITY cmd.close.commandKey "w">
