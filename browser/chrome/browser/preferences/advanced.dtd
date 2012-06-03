@@ -84,7 +84,7 @@
 <!ENTITY enableSearchUpdate.accesskey      "O">
 
 <!ENTITY offlineNotify.label               "Hoiatatakse, kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
-<!ENTITY offlineNotify.accesskey           "H">
+<!ENTITY offlineNotify.accesskey           "i">
 <!ENTITY offlineNotifyExceptions.label     "Erandid">
 <!ENTITY offlineNotifyExceptions.accesskey "r">
 
