@@ -68,6 +68,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Marcadores sen ordenar'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores do escritorio'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores do móbil'>
+<!ENTITY bookmarks.folder.readinglist.label 'Lista de lectura'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Só está permitida unha conta de &syncBrand.fullName.label;.'>
