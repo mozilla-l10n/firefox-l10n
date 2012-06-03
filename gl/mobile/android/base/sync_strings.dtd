@@ -40,9 +40,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Rematou a configuración'>
-<!ENTITY sync.subtitle.success.label 'Agora os seus datos estanse descargando en segundo plano. Pode ir ao menú Configuración para xestionar a súa conta.'>
+<!ENTITY sync.subtitle.success.label1 'Agora os seus datos estanse descargando en segundo plano. Pode ir ao menú Configuración para xestionar a súa conta, ou comezar a navegar co &brandShortName;.'>
 <!ENTITY sync.settings.label 'Configuración'>
-<!ENTITY sync.subtitle.manage.label 'A súa conta de &syncBrand.fullName.label; xa está configurada. Vaia ao menú Configuración para xestionar a súa conta.'>
+<!ENTITY sync.subtitle.manage.label1 'A súa conta de &syncBrand.fullName.label; xa está configurada. Vaia ao menú Configuración para xestionar a súa conta, ou inicie o &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Tente de novo.'>
