@@ -323,8 +323,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Rispondi solo al mittente">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Rispondi al gruppo di discussione">
-<!ENTITY replyNewsgroupCmd.accesskey "p">
+<!ENTITY replyNewsgroupCmd2.label "Rispondi nel gruppo di discussione">
+<!ENTITY replyNewsgroupCmd2.accesskey "p">
 <!ENTITY replyToAllMsgCmd.label "Rispondi a tutti">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -459,6 +459,7 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "d">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Impostazioni account…">
 <!ENTITY accountManagerCmd.accesskey "p">
 <!ENTITY accountManagerCmdUnix.accesskey "u">
@@ -625,8 +626,8 @@
 <!ENTITY contextArchive.accesskey "c">
 <!ENTITY contextReplySender.label "Rispondi solo al mittente">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Rispondi al gruppo di discussione">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup2.label "Rispondi nel gruppo di discussione">
+<!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Rispondi a tutti">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextReplyList.label "Rispondi alla lista">
