@@ -8,42 +8,42 @@
    - provide them with some default functionality, like the standard OS
    - menus/menuitems. -->
 
-<!ENTITY fileMenu.label                     "File">
+<!ENTITY fileMenu.label                     "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey                 "F">
 
-<!ENTITY quitApplicationCmdWin.label        "Exit">
+<!ENTITY quitApplicationCmdWin.label        "ਬੰਦ ਕਰੋ">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "Quit">
+<!ENTITY quitApplicationCmd.label           "ਬਾਹਰ">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
    - of the webapp in the labels without creating a DTD file for it. -->
 <!ENTITY quitApplicationCmdMac.key          "Q">
 <!ENTITY hideThisAppCmdMac.key              "H">
-<!ENTITY hideOtherAppsCmdMac.label          "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label          "ਹੋਰ ਓਹਲੇ">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
-<!ENTITY showAllAppsCmdMac.label            "Show All">
+<!ENTITY showAllAppsCmdMac.label            "ਸਭ ਵੇਖਾਓ">
 
-<!ENTITY editMenu.label                     "Edit">
+<!ENTITY editMenu.label                     "ਸੋਧ">
 <!ENTITY editMenu.accesskey                 "E">
-<!ENTITY undoCmd.label                      "Undo">
+<!ENTITY undoCmd.label                      "ਵਾਪਸ">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "Redo">
+<!ENTITY redoCmd.label                      "ਪਰਤਾਓ">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "Cut">
+<!ENTITY cutCmd.label                       "ਕੱਟੋ">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "Copy">
+<!ENTITY copyCmd.label                      "ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">
-<!ENTITY pasteCmd.label                     "Paste">
+<!ENTITY pasteCmd.label                     "ਚੇਪੋ">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "Delete">
+<!ENTITY deleteCmd.label                    "ਹਟਾਓ">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "Select All">
+<!ENTITY selectAllCmd.label                 "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">

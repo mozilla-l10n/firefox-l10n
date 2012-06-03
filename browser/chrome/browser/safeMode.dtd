@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
+<!ENTITY safeModeDialog.title         "&brandShortName; ਸੁਰੱਖਿਅਤ ਮੋਡ">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "Start in Safe Mode">
-<!ENTITY resetProfile.label           "Reset &brandShortName;">
+<!ENTITY startSafeMode.label          "ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਿੱਚ ਸ਼ੁਰੂ ਕਰੋ">
+<!ENTITY resetProfile.label           "&brandShortName; ਮੁੜ-ਸੈੱਟ">
 
 <!ENTITY safeModeDescription3.label   "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
 <!ENTITY safeModeDescription4.label   "Your add-ons and custom settings will be temporarily disabled.">
