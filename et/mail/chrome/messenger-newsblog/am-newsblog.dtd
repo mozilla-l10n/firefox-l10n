@@ -12,7 +12,7 @@
 <!ENTITY manageSubscriptions.accesskey  "H">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY feeds.accountName              "Blogid ja uudisvood">
-<!ENTITY feeds.wizardShortName          "Uudisvood">
-<!ENTITY feeds.wizardLongName           "Blogid ja uudisvood">
+<!ENTITY feeds.accountName              "Blogid ja uudistevood">
+<!ENTITY feeds.wizardShortName          "Uudistevood">
+<!ENTITY feeds.wizardLongName           "Blogid ja uudistevood">
 <!ENTITY feeds.wizardLongName.accesskey "B">

@@ -3,7 +3,7 @@
 
 <!ENTITY email.label                 "E-postile">
 <!ENTITY newsgroups.label            "Uudisgruppidele">
-<!ENTITY feeds.label                 "Uudisvoogudele">
+<!ENTITY feeds.label                 "Uudistevoogudele">
 
 <!ENTITY checkOnStartup.label        "See kontroll sooritatakse igal &brandShortName;i käivitumisel">
 <!ENTITY checkOnStartup.accesskey    "S">

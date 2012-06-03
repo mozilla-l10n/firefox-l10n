@@ -44,7 +44,7 @@
 <!ENTITY antiVirus.accesskey               "i">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                     "&brandShortName; võimaldab sul määrata, millised blogid, uudisvood ja muud veebilehed võivad salvestada küpsiseid.">
+<!ENTITY cookies.intro                     "&brandShortName; võimaldab sul määrata, millised blogid, uudistevood ja muud veebilehed võivad salvestada küpsiseid.">
 <!ENTITY acceptCookies.label               "Küpsised lubatakse">
 <!ENTITY acceptCookies.accesskey           "K">
 <!ENTITY keepUntil.label                   "Säilitatakse kuni:">
