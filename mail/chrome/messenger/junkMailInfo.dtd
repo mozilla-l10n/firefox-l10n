@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Sobre el correo no deseado">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "&brandShortName; detecta automáticamente los mensajes entrantes que parecen ser correo no deseado (o &quot;spam&quot;). Los mensajes que &brandShortName; identifica así mostrarán el icono de una llama">
