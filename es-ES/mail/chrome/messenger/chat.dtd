@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY onlineContactsHeader.label "Contactos conectados">
 <!ENTITY offlineContactsHeader.label "Contactos desconectados">
 <!ENTITY conversationsHeader.label "Conversaciones">
@@ -27,7 +31,6 @@
 <!ENTITY addBuddyButton.label "Añadir contacto">
 <!ENTITY joinChatButton.label "Unirse al chat">
 <!ENTITY chatAccountsButton.label "Mostrar cuentas">
-<!ENTITY searchAllChatMessages.label.base "Buscar en todas las conversaciones… #1">
 <!ENTITY status.available "Disponible">
 <!ENTITY status.unavailable "No disponible">
 <!ENTITY status.offline "Sin conexión">
