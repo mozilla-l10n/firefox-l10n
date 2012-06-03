@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Configuración de correo no deseado">
 <!ENTITY trainingDescription.label "Si está activado, primero deberá enseñar a &brandShortName; a identificar el correo basura usando el botón Basura de la barra de herramientas para señalar los mensajes que son correo basura y los que no. Necesita identificar unos y otros como parte del aprendizaje. Tras ello, &brandShortName; será capaz de marcar el correo basura automáticamente.">
 <!ENTITY level.label "Activar los controles adaptativos de correo no deseado para esta cuenta">
@@ -12,7 +16,7 @@
 <!ENTITY purge1.accesskey "E">
 <!ENTITY purge2.label "días">
 <!ENTITY whitelistHeader.label "No marcar automáticamente mensajes como correo basura si el remitente está en:">
-<!ENTITY whitelist.accesskey "N">
+<!ENTITY whitelistHeader.accesskey "N">
 <!ENTITY ispHeadersWarning.label "Si está activado, &brandShortName; considerará automáticamente los mensajes marcados por este clasificador externo como correo basura.">
 <!ENTITY ispHeaders.label "Confiar en las cabeceras de correo no deseado enviadas por: ">
 <!ENTITY ispHeaders.accesskey "C">
