@@ -45,9 +45,8 @@
 
 <!ENTITY event.title.label                  "Редагувати пункт" >
 
-<!-- FIXME -->
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Keep the duration when changing the end date">
-<!ENTITY event.dialog.keepDurationButton.accesskey "K">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Зберігати тривалість коли змінюється кінцева дата">
+<!ENTITY event.dialog.keepDurationButton.accesskey "К">
 
 <!ENTITY newevent.from.label                "З" >
 <!ENTITY newevent.to.label                  "До" >
@@ -149,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "р">
 <!ENTITY  event.menu.options.link.label                       "Додати посилання…">
 <!ENTITY  event.menu.options.link.accesskey                   "Д">
-<!ENTITY  event.menu.options.timezone.label                   "Часовий пояс">
-<!ENTITY  event.menu.options.timezone.accesskey               "Ч">
+<!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Пріоритет">
 <!ENTITY  event.menu.options.priority2.accesskey              "р">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Не визначено">
@@ -373,11 +372,11 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Зазначте часовий пояс">
+<!ENTITY event.timezone.custom.label     "More Timezones…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Загальне">
 <!ENTITY read.only.title.label           "Назва:">
-<!-- FIXME -->
 <!ENTITY read.only.event.start.label     "Start Date:">
 <!ENTITY read.only.task.start.label      "Start Date:">
 <!ENTITY read.only.event.end.label       "End Date:">
