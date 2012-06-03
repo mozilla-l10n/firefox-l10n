@@ -27,11 +27,11 @@
 <!ENTITY view.sortDescending.label      "Z > A ਲੜੀਬੱਧ">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
+<!ENTITY importBookmarksFromHTML.label     "...HTML ਤੋਂ ਬੁੱਕਮਾਰਕ ਇੰਪੋਰਟ ਕਰੋ">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Export Bookmarks to HTML…">
+<!ENTITY exportBookmarksToHTML.label       "...ਬੁੱਕਮਾਰਕ HTML ਵਿੱਚ ਐਕਸਪੋਰਟ ਕਰੋ">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Import Data from Another Browser…">
+<!ENTITY importOtherBrowser.label          "...ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਇੰਪੋਰਟ ਕਰੋ">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 

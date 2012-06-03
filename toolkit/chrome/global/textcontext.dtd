@@ -17,7 +17,7 @@
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY spellAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਾਮਲ">
 <!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਜੋੜੇ ਨੂੰ ਹਟਾਓ">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "ਸਪੈਲਿੰਗ਼ ਚੈੱਕ ਕਰੋ">
 <!ENTITY spellCheckEnable.accesskey "S">

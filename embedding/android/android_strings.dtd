@@ -1,11 +1,11 @@
 <!ENTITY  splash_screen_label "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY  splash_screen_installing "installing libraries\u2026">
-<!ENTITY  incompatable_cpu_error "This device does not meet the minimum system requirements for &brandShortName;.">
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  splash_screen_installing "ਲਾਇਬਰੇਰੀਆਂ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ\u2026">
+<!ENTITY  incompatable_cpu_error "ਇਹ ਜੰਤਰ  &brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਸਿਸਟਮ ਮੰਗਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦਾ ਹੈ।">
+<!ENTITY  no_space_to_start_error "&brandShortName; ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
+<!ENTITY  error_loading_file "&brandShortName; ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਆਈ।">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
-<!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ।  Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ।  ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂ ਪੇਜ਼ ਉੱਤੇ ਵੇਖਾਇਆ ਜਾਵੇਗਾ।">
 <!ENTITY  crash_help_message "ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਠੀਕ ਕਰਨ ਲਈ ਮੱਦਦ ਕਰੋ ਜੀ!">
 <!ENTITY  crash_send_report_message "ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
 <!ENTITY  crash_include_url "ਸਫ਼ਾ ਐਡਰੈੱਸ ਸਮੇਤ">
@@ -13,7 +13,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
 <!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
-<!ENTITY  incompatable_device "&brandShortName; does not support this device and you may experience
-problems.">
-<!ENTITY  continue_label "Continue">
+<!ENTITY  incompatable_device "&brandShortName; ਇਹ ਜੰਤਰ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਕੁਝ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ।">
+<!ENTITY  continue_label "ਜਾਰੀ ਰੱਖੋ">
 

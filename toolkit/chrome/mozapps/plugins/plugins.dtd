@@ -20,7 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "ਪਲੱਗਇਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ਜਾਂ ਨਾ-ਮੌਜੂਦ ਪਲੱਗਇਨ ਖੁਦ ਲੱਭੋ।">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ਨੂੰ ਪਲੱਗਇਨ ਦੇ ਕੰਮ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।">
   
-<!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
+<!ENTITY missingPlugin                                       "ਇਹ ਸਮੱਗਰੀ ਵੇਖਾਉਣ ਲਈ ਪਲੱਗਇਨ ਦੀ ਲੋੜ ਹੈ।">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਛੂਹੋ।">
 <!ENTITY clickToPlayPlugin                                   "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">
