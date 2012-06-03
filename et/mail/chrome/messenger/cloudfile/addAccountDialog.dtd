@@ -6,7 +6,8 @@
 <!ENTITY addAccountDialog.style              "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label  "Konto nimi:">
 <!ENTITY addAccountDialog.noAccountText      "Palume vabandust, aga see versioon &brandShortName;ist lubab ainult üht kontot iga pilveteenuse kohta.">
-<!ENTITY addAccountDialog.createAccountText  "See lahendus lubab sul suuremaid manuseid saata kasutades mõnda pilveteenust. Sa võid ühenduda kas olemasoleva kontoga või luua uue konto.">
+<!ENTITY addAccountDialog.createAccountText2 "See lahendus lubab sul suuremaid manuseid saata kasutades mõnda pilveteenust. Palun ühendu kas olemasoleva kontoga või loo uus konto.">
 <!ENTITY addAccountDialog.authorizing        "Autoriseerituse kontrollimine...">
 <!ENTITY addAccountDialog.error              "Konto seadistamisel esines viga!">
 <!ENTITY addAccountDialog.acceptButton.label "Seadista konto">
+<!ENTITY addAccountDialog.learnMore          "Loe veel…">
