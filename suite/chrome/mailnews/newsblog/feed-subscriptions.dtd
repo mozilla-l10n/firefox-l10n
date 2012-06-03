@@ -1,31 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Abonnements aux flux">
-<!ENTITY subscriptionDesc.label "Note : supprimer ou modifier le dossier d'un flux n'affectera pas les articles déjà téléchargés.">
-<!ENTITY feedTitle.label "Titre :">
-<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedSubscriptions.label     "Abonnements aux flux">
+<!ENTITY subscriptionDesc.label      "Note : supprimer ou modifier le dossier d'un flux n'affectera pas les articles déjà téléchargés.">
+<!ENTITY feedTitle.label             "Titre :">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label "Adresse du flux : ">
-<!ENTITY feedLocation.accesskey "U">
-<!ENTITY feedLocation.placeholder "Saisir une adresse de flux valide à ajouter">
+<!ENTITY feedLocation.label          "Adresse du flux : ">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Saisir une adresse de flux valide à ajouter">
 
-<!ENTITY feedFolder.label "Stocker les articles du flux dans : ">
-<!ENTITY feedFolder.accesskey "k">
+<!ENTITY feedFolder.label            "Conserver les articles du flux dans : ">
+<!ENTITY feedFolder.accesskey        "C">
 
-<!ENTITY quickMode.label "Afficher le résumé de l'article plutôt que de télécharger la page Web">
-<!ENTITY quickMode.accesskey "m">
+<!ENTITY quickMode.label             "Afficher le résumé de l'article plutôt que de télécharger la page Web">
+<!ENTITY quickMode.accesskey         "m">
 
-<!ENTITY locationValidate.label "Valider">
-<!ENTITY validateText.label "Vérifier la validité de l'adresse du flux.">
+<!ENTITY locationValidate.label      "Valider">
+<!ENTITY validateText.label          "Vérifier la validité de l'adresse du flux.">
 
-<!ENTITY button.addFeed.label "Ajouter">
-<!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "Modifier">
-<!ENTITY button.editFeed.accesskey "M">
-<!ENTITY button.removeFeed.label "Supprimer">
+<!ENTITY button.addFeed.label        "Ajouter">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Modifier">
+<!ENTITY button.editFeed.accesskey   "M">
+<!ENTITY button.removeFeed.label     "Supprimer">
 <!ENTITY button.removeFeed.accesskey "S">
-<!ENTITY button.importOPML.label "Importer">
+<!ENTITY button.importOPML.label     "Importer">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label "Exporter">
+<!ENTITY button.exportOPML.label     "Exporter">
 <!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.exportOPML.tooltip   "Exporter les flux avec la structure des dossiers ; Ctrl+clic ou Ctrl+Entrée pour exporter les flux en tant que liste">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey        "w">
