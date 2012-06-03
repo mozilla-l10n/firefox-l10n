@@ -37,14 +37,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY importDialog.windowTitle "Importar">
-<!ENTITY importAll.label          "Importar Todo">
+<!ENTITY importAll.label          "Importar todo">
 <!ENTITY importAll.accesskey      "I">
 <!ENTITY importMail.label         "Correo">
 <!ENTITY importMail.accesskey     "C">
+<!ENTITY importFeeds.label        "Subscricións a fontes">
+<!ENTITY importFeeds.accesskey    "b">
 <!ENTITY importAddressbook.label  "Axendas de enderezos">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Configuración">
-<!ENTITY importSettings.accesskey "C">
+<!ENTITY importSettings.accesskey "g">
 <!ENTITY importFilters.label      "Filtros">
 <!ENTITY importFilters.accesskey  "F">
 
@@ -54,11 +56,15 @@
 <!ENTITY importTitle.label        "Asistente de importación de &brandShortName;">
 <!ENTITY importShortDesc.label    "Importar correo, axendas de enderezos, configuración e filtros doutros programas">
 
-<!ENTITY importDescription1.label "Este asistente importará mensaxes de correo electrónico, entradas da axenda de enderezos e/ou filtros doutros programas de correo e formatos das axendas de enderezos comúns en &brandShortName;.">
+<!ENTITY importDescription1.label "Este asistente importará mensaxes de correo electrónico, entradas da axenda de enderezos, subscricións de fontes, preferencias e/ou filtros doutros programas de correo e formatos das axendas de enderezos comúns en &brandShortName;.">
 <!ENTITY importDescription2.label "Unha vez importados, poderá acceder a eles desde o &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Seleccione o programa a partir do cal desexa importar:">
-<!ENTITY selectDescription.accesskey "p">
+<!ENTITY selectDescriptionB.label "Seleccione unha conta existente ou cree unha nova conta:">
+<!ENTITY selectDescription.accesskey "P">
+<!ENTITY acctName.label           "Nome:">
+<!ENTITY acctName.accesskey       "N">
+
 
 <!ENTITY back.label               "&lt; Atrás">
 <!ENTITY forward.label            "Seguinte &gt;">
