@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Przechowywanie wiadomości">
 <!ENTITY securitySettings.label "Ustawienia zabezpieczeń">
 <!ENTITY serverSettings.label "Konfiguracja serwera">
 <!ENTITY serverType.label "Typ serwera:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem">
 <!ENTITY alwaysAuthenticate.accesskey "c">
 <!ENTITY newsrcFilePath.label "Plik newsrc:">
-<!ENTITY localPath.label "Katalog lokalny:">
+<!ENTITY newsrcPicker.label "Wybierz plik newsrc">
 <!ENTITY abbreviate.label "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">
 <!ENTITY abbreviateOn.label 'Pełnej (Na przykład: "pl.rec.humor.najlepsze")'>
 <!ENTITY abbreviateOff.label 'Skróconej (Na przykład: "p.r.h.najlepsze")'>
 <!ENTITY advancedButton.label "Zaawansowane…">
 <!ENTITY serverDefaultCharset.label "Domyślny zestaw znaków:">
 <!ENTITY advancedButton.accesskey "a">
+<!ENTITY localPath.label "Katalog lokalny:">
 <!ENTITY localFolderPicker.label "Wybierz katalog lokalny">
 <!ENTITY browseFolder.label "Przeglądaj…">
 <!ENTITY browseFolder.accesskey "P">
-<!ENTITY newsrcPicker.label "Wybierz plik newsrc">
 <!ENTITY browseNewsrc.label "Przeglądaj…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Ustawienia konta">
+<!ENTITY accountSettingsDesc.label "To jest specjalne konto, któremu nie są przypisane żadne tożsamości.">
