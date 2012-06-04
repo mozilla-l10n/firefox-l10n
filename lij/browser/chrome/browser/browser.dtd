@@ -112,7 +112,7 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Avànti">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Vànni avànti de 'na pàgina">
-<!ENTITY backForwardButtonMenu.tooltip "Prémmi co-o tasto déstro do ràtto ò tegni premûo pe védde a stöia">
+<!ENTITY backForwardButtonMenu.tooltip "Sciàcca co-o tasto déstro do ràtto ò tegni premûo pe védde a stöia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vànni in zu pe védde a stöia">
 <!ENTITY reloadCmd.label              "Recàrega">
 <!ENTITY reloadCmd.accesskey          "R">
@@ -195,7 +195,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "Ispeçionn-a elemênto">
+<!ENTITY inspectContextMenu.label     "Ispeçionn-a eleménto">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -269,7 +269,7 @@ can reach it easily. -->
 <!ENTITY deleteCmd.label          "Scancélla">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
-<!ENTITY selectAllCmd.label         "Seleçionn-a tùtto">  
+<!ENTITY selectAllCmd.label         "Seleçiónn-a tùtto">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd2.label       "Inpostaçioìn">
@@ -302,9 +302,9 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Stöia">
 <!ENTITY historyMenu.accesskey "S">
-<!ENTITY historyUndoMenu.label "Féuggi særê urtimaménte">
+<!ENTITY historyUndoMenu.label "Féuggi seræ urtimaménte">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Barcoìn særê urtimaménte">
+<!ENTITY historyUndoWindowMenu.label "Barcoìn seræ urtimaménte">
 <!ENTITY historyRestoreLastSession.label "Repìggia a vêgia seçión">
 
 <!ENTITY historyHomeCmd.label "Pàgina iniçiâ">
@@ -497,7 +497,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom do sôlo testo">
+<!ENTITY fullZoomToggleCmd.label        "Zoom do sôlo tésto">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
@@ -549,7 +549,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Càngia a direçión da pàgina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Càngia a direçión do testo">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Càngia a direçión do tésto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
@@ -585,7 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Ciù informaçioìn…">
 
-<!ENTITY downloadMonitor2.tooltip "Prémmi pe arvî o barcón de descaregaménto">
+<!ENTITY downloadMonitor2.tooltip "Sciàcca pe arvî o barcón de descaregaménto">
 
 <!ENTITY allTabs.filter.emptyText "Bâra de Ricèrca">
 <!-- Name for the tabs toolbar as spoken by screen readers.

@@ -20,12 +20,12 @@
 
 <!ENTITY  passwords.label               "Paròlle segrétte">
 
-<!ENTITY  rememberPasswords.label       "Aregòrdate e paròlle segrétte pe-i scîti">
+<!ENTITY  rememberPasswords.label       "Aregòrdite e paròlle segrétte pe-i scîti">
 <!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Eceçioìn…">
 <!ENTITY  passwordExceptions.accesskey  "E">
 
-<!ENTITY  useMasterPassword.label        "Ûza 'na paròlla segrétta prinçipâ">
+<!ENTITY  useMasterPassword.label        "Adêuvia 'na paròlla segrétta prinçipâ">
 <!ENTITY  useMasterPassword.accesskey    "p">
 <!ENTITY  changeMasterPassword.label     "Càngia a paròlla segrétta prinçipâ…">
 <!ENTITY  changeMasterPassword.accesskey "C">

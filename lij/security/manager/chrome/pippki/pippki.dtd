@@ -47,7 +47,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Reinpòsta">
 <!ENTITY resetPassword.title  "Reinpòsta a paròlla segrétta prinçipâ">
-<!ENTITY resetPassword.text  "Se ti ti reinposti a teu paròlla segrétta prinçipâ tùtti e teu paròlle segrétte de mail e web, i dæti di mòdoli, i certificâti personâ e ciâvi privæ saian ascordæ. T'ê segûo de reinpostâ a teu paròlla segrétta prinçipâ?">
+<!ENTITY resetPassword.text  "Se ti ti reinposti a teu paròlla segrétta prinçipâ tùtti e teu paròlle segrétte de mail e web, i dæti di mòdoli, i certificâti personâ e ciâvi privæ saiàn ascordæ. T'ê segûo de reinpostâ a teu paròlla segrétta prinçipâ?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Inserisci a paròlla segrétta prinçipâ">
@@ -63,7 +63,7 @@
 <!ENTITY pref.security.general.rHeader "Preferénse pe-a seguéssa generâle">
 <!ENTITY pref.security.general.header "Preferénse pe-a seguéssa generâle">
 <!ENTITY pref.security.general.level.title "Livéllo de seguéssa">
-<!ENTITY pref.security.general.paranoid.label "Ûza e inpostaçión de seguéssa da maròtto">
+<!ENTITY pref.security.general.paranoid.label "Adêuvia e inpostaçión de seguéssa da maròtto">
 <!ENTITY pref.security.general.certificates.title "Certificâti">
 <!ENTITY pref.security.general.manageCert.label "Gestìsci i Certificâti">
 
@@ -86,11 +86,11 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "L'é domandâ a identitæ do utilizatô">
 <!ENTITY clientAuthAsk.message1 "Sto scîto o veu savéi a teu identificaçión co-o certificâto:">
-<!ENTITY clientAuthAsk.message2 "Scégli un certificâto da fâ védde cómme identificaçión:">
+<!ENTITY clientAuthAsk.message2 "Çèrni un certificâto da fâ védde cómme identificaçión:">
 <!ENTITY clientAuthAsk.message3 "Detàlli in sciô certificâto Seleçionòu:">
 
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Seleçionn-a certificâto">
+<!ENTITY certPicker.title "Seleçiónn-a certificâto">
 <!ENTITY certPicker.info  "Certificâto:">
 <!ENTITY certPicker.detailsLabel "Detàlli in sciô certificâto Seleçionòu:">
 
@@ -103,7 +103,7 @@
 <!ENTITY pkcs12.getpassword.title  "Inserimento da paròlla segrétta">
 <!ENTITY pkcs12.getpassword.message "Pe favô dinni a paròlla segrétta che a l'é stæta uzâ pe criptâ sta còpia de seguéssa di certificâti.">
 
-<!ENTITY chooseToken.title  "Scégli o Token">
+<!ENTITY chooseToken.title  "Çèrni o Token">
 <!ENTITY chooseToken.message1 "Pe favô scégli o token.">
 
 <!ENTITY escrowWarn.title "Criptaçión da ciâve de còpie">
@@ -121,9 +121,9 @@
 <!ENTITY createCertInfo.msg2 "Pe favô aspêta…">
 
 <!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "L'é domandâ a firma do testo">
+<!ENTITY formSigning.title "L'é domandâ a firma do tésto">
 <!ENTITY formSigning.cert "Firmo o certificâto">
-<!ENTITY formSigning.confirmPassword "Pe confermâ che ti veu firmâ sto testo co sto certificâto, inserisci a paròlla segrétta prinçipâ:">
+<!ENTITY formSigning.confirmPassword "Pe confermâ che ti veu firmâ sto tésto co sto certificâto, inserisci a paròlla segrétta prinçipâ:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Aotenticaçión protétta dò-u Token">

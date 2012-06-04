@@ -21,7 +21,7 @@
 <!ENTITY cmd.forward.tooltip                  "Vànni avànti de 'na pàgina">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Tùtti i cònponenti azónti son stæti dizabilitæ da o móddo segûo.">
+<!ENTITY warning.safemode.label                    "Tùtti i conponénti azónti son stæti dizabilitæ da o móddo segûo.">
 <!ENTITY warning.checkcompatibility.label          "O contròllo de conpatibilitæ di conponénti azónti l'é dizabilitâ. Ti peu avéi di conponénti azónti no conpàtibili.">
 <!ENTITY warning.checkcompatibility.enable.label   "Abìlita">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Abìlita o contròllo a conpatibilitæ di conponénti azónti">
@@ -60,8 +60,8 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Reinpòsta tùtti i conponénti azónti pe agiórnali a màn">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Agiorno i conponénti azónti">
-<!ENTITY updates.installed.label              "I teu cònponenti azónti son stæti agiornæ.">
-<!ENTITY updates.downloaded.label             "I teu cònponenti azónti son stæti descaregæ.">
+<!ENTITY updates.installed.label              "I teu conponénti azónti son stæti agiornæ.">
+<!ENTITY updates.downloaded.label             "I teu conponénti azónti son stæti descaregæ.">
 <!ENTITY updates.restart.label                "Àrvi tórna òua pe finî l'instalaçión">
 <!ENTITY updates.noneFound.label              "Nisciùn agiórnamento trovòu">
 <!ENTITY updates.manualUpdatesFound.label     "Fànni védde i agiornaménti disponibili">

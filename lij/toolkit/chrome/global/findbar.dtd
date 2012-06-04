@@ -4,14 +4,14 @@
 <!-- entities split out from browser.dtd -->
 <!ENTITY next.label "Pròscimo">
 <!ENTITY next.accesskey "r">
-<!ENTITY next.tooltip "Trêuva a pròscima ripetiçión do testo da çercâ">
+<!ENTITY next.tooltip "Trêuva a pròscima ripetiçión do tésto da çercâ">
 <!ENTITY previous.label "Precedénte">
 <!ENTITY previous.accesskey "P">
-<!ENTITY previous.tooltip "Trêuva a precedénte ripetiçión do testo da çercâ">
+<!ENTITY previous.tooltip "Trêuva a precedénte ripetiçión do tésto da çercâ">
 <!ENTITY findCloseButton.tooltip "Særa a bâra de riçèrca">
 <!ENTITY highlight.label "Evidénçia">
 <!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "Evidénçia tùtte e ripetiçioìn do testo da çercâ">
+<!ENTITY highlight.tooltiptext "Evidénçia tùtte e ripetiçioìn do tésto da çercâ">
 <!ENTITY caseSensitiveCheckbox.label "Contròlla e maióscole">
 <!ENTITY caseSensitiveCheckbox.accesskey "C">
 

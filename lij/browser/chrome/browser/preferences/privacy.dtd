@@ -39,10 +39,10 @@
 <!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Aregòrda a stöia">
 <!ENTITY  historyHeader.dontremember.label "No aregordâ a stöia">
-<!ENTITY  historyHeader.custom.label       "Ûza e preferénse personalizæ pe a stöia">
+<!ENTITY  historyHeader.custom.label       "Adêuvia e preferénse personalizæ pe a stöia">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "O &brandShortName; o se aregordîa de teu navegaçioìn, descaregaménti e stöia de riçèrche, e in ciù o tégne i cookie da-i scîti che ti vixìti.">
+<!ENTITY  rememberDescription.label      "O &brandShortName; o s'aregordîa de teu navegaçioìn, descaregaménti e stöia de riçèrche, e in ciù o tégne i cookie da-i scîti che ti vìxiti.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->

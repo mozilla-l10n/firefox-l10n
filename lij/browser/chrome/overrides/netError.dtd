@@ -106,7 +106,7 @@
 ">
 
 <!ENTITY phishingBlocked.title "Sospetta falsificaçión web!">
-<!ENTITY phishingBlocked.longDesc "<p>Se ti ti inserisci informaçioìn in sta pàgina peu sucêde che te aröban a identitæ o che te fan 'n âtro inbréuggio.</p> <p>Sti tîpi de falsificaçioìn web son ûzæ pe fâ inbréuggi cómme o phishing, inti quæ e email son ûzæ pe imitâ a sorgénte fiâ.</p>
+<!ENTITY phishingBlocked.longDesc "<p>Se ti ti inserisci informaçioìn inte sta pàgina peu sucêde che te aröban a identitæ o che te fan 'n âtro inbréuggio.</p> <p>Sti tîpi de falsificaçioìn web son ûzæ pe fâ inbréuggi cómme o phishing, inti quæ e email son ûzæ pe imitâ a sorgénte fiâ.</p>
  ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocòu da-a teu Politica de Seguéssa do Contegnûo">

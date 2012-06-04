@@ -44,7 +44,7 @@
 <!ENTITY  copy.label            "Còpia">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Seleçionn-a tùtto">
+<!ENTITY  selectall.label       "Seleçiónn-a tùtto">
 <!ENTITY  selectall.accesskey   "a">
 <!ENTITY  closeWindow.key       "w">
 
@@ -57,7 +57,7 @@
 <!ENTITY  generalReferrer       "Riferîo a-a URL:">
 <!ENTITY  generalSource         "Sorgénte cache:">
 <!ENTITY  generalModified       "Modificòu">
-<!ENTITY  generalEncoding       "Còdifica:">
+<!ENTITY  generalEncoding       "Codìfica:">
 <!ENTITY  generalMetaName       "Nómme">
 <!ENTITY  generalMetaContent    "Contegnûo">
 <!ENTITY  generalSecurityDetails   "Detàlli">
@@ -66,8 +66,8 @@
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Indirìsso">
-<!ENTITY  mediaText             "Testo asociòu:">
-<!ENTITY  mediaAltHeader        "Testo alternativo">
+<!ENTITY  mediaText             "Tésto asociòu:">
+<!ENTITY  mediaAltHeader        "Tésto alternativo">
 <!ENTITY  mediaAddress          "Indirìsso">
 <!ENTITY  mediaType             "Tîpo">
 <!ENTITY  mediaSize             "Dimensción">
@@ -87,13 +87,13 @@
 
 <!ENTITY  permTab               "Permìssi">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Ûza predefinîo">
+<!ENTITY  permUseDefault        "Adêuvia predefinîo">
 <!ENTITY  permAskAlways         "Domànda sénpre">
 <!ENTITY  permAllow             "Permétti">
 <!ENTITY  permAllowSession      "Permétti pe sta seçión">
 <!ENTITY  permBlock             "Blòcco">
 <!ENTITY  permissionsFor        "Permìsso pe:">
-<!ENTITY  permImage             "Carega inmàgini">
+<!ENTITY  permImage             "Càrega inmàgini">
 <!ENTITY  permPopup             "Àrvi barcoìn de pop-up">
 <!ENTITY  permCookie            "Inpòsta cookie">
 <!ENTITY  permInstall           "Instàlla estenscioìn ò têmi">
@@ -126,5 +126,5 @@
 <!ENTITY  securityView.privacy.viewPasswords            "Fànni védde e paròlle segrétte sarvæ">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
 
-<!ENTITY  securityView.technical.header                 "Detàlli Tecnici">
+<!ENTITY  securityView.technical.header                 "Detàlli Técnichi">
 

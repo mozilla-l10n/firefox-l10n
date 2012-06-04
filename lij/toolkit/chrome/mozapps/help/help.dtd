@@ -12,7 +12,7 @@
 <!ENTITY forwardButton.tooltip          "Vànni avànti de 'na pàgina">
 <!ENTITY copyCmd.label                  "Còpia">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Seleçionn-a tùtto">
+<!ENTITY selectAllCmd.label             "Seleçiónn-a tùtto">
 <!ENTITY selectAllCmd.accesskey         "a">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">

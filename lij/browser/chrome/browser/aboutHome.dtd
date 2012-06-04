@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "L'é façile personalizâ Firefox pròpio cómme t'eu. <a>Scégli fra migiæe de conponénti azónti</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "L'é façile personalizâ Firefox pròpio cómme t'eu. <a>Çèrni fra migiæe de conponénti azónti</a>.">
 
 <!ENTITY abouthome.bookmarksButton.label "Segnalìbbri">
 <!ENTITY abouthome.historyButton.label   "Stöia">

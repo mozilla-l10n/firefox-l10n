@@ -24,7 +24,7 @@
 <!ENTITY  launcher_shortcuts_title "App Web de &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Nisciùnn-a web apps atrovâ">
 
-<!ENTITY choose_file "Scégli o File">
+<!ENTITY choose_file "Çèrni o File">
 
 <!ENTITY awesomebar_default_text "Introdûxi riçèrca ò indirìsso">
 
@@ -121,8 +121,8 @@
 <!ENTITY abouthome_about_sync "Inpòsta Firefox Sync perché o pòsse intrâ a-i segnalìbbri, a-a stöia e a-i féuggi da-i teu âtri dispoxitîvi">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
-<!ENTITY filepicker_title "Scégli o File">
-<!ENTITY filepicker_audio_title "Scégli ò regìstra són">
-<!ENTITY filepicker_image_title "Scégli ò pìggia \'na föto">
-<!ENTITY filepicker_video_title "Scégli ò regìstra \'n vìdeo">
+<!ENTITY filepicker_title "Çèrni o File">
+<!ENTITY filepicker_audio_title "Çèrni ò regìstra són">
+<!ENTITY filepicker_image_title "Çèrni ò pìggia \'na föto">
+<!ENTITY filepicker_video_title "Çèrni ò regìstra \'n vìdeo">
 

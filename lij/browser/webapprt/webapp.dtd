@@ -44,6 +44,6 @@
 <!ENTITY deleteCmd.label                    "Scancélla">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "S">
-<!ENTITY selectAllCmd.label                 "Seleçionn-a Tùtto">
+<!ENTITY selectAllCmd.label                 "Seleçiónn-a Tùtto">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "T">

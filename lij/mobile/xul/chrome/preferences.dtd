@@ -19,7 +19,7 @@
 <!ENTITY homepage.title                            "Pàgina iniçiâ">
 <!ENTITY homepage.none                             "Pàgina giànca">
 <!ENTITY homepage.default                          "Inìçio do &brandShortName;">
-<!ENTITY homepage.currentpage                      "Ûza a pàgina corénte">
+<!ENTITY homepage.currentpage                      "Adêuvia a pàgina corénte">
 <!ENTITY showCharsetEncoding.title                 "Móstra o còdice de caràteri">
 <!ENTITY actionbar.default                         "Inpostaçioìn do &brandShortName;">
 

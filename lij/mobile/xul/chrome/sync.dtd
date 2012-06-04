@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Scincronìzza òua">
 
 <!ENTITY sync.setup.title           "Conétti a Sync">
-<!ENTITY sync.setup.pair            "Pe ativâ seleçionn-a &#x0022;Acóbia 'n aparâto&#x0022; in sciô teu âtro aparâto.">
+<!ENTITY sync.setup.pair            "Pe ativâ seleçiónn-a &#x0022;Acóbia 'n aparâto&#x0022; in sciô teu âtro aparâto.">
 <!ENTITY sync.fallback              "No són vexìn a-o mæ computer…">
 <!ENTITY sync.setup.manual          "Introdûxi l'informaçión do teu cónto Sync">
 <!ENTITY sync.account               "Nómme de l'account">
@@ -22,7 +22,7 @@
 <!ENTITY sync.setup.waiting2        "Spêtémmo l'âtro dispoxitîvo…">
 
 <!ENTITY sync.pair.title            "Acóbia 'n aparâto">
-<!ENTITY sync.pair.description      "Pe ativâ o teu nêuvo aparâto seleçionn-a &#x0022;Inpòsta Sync&#x0022; in sciô aparâto.">
+<!ENTITY sync.pair.description      "Pe ativâ o teu nêuvo aparâto seleçiónn-a &#x0022;Inpòsta Sync&#x0022; in sciô aparâto.">
 <!ENTITY sync.setup.close           "Særa">
 <!ENTITY sync.setup.waitingdownload "Òua i teu dæti se scàregan in segóndo ciàn. Ti peu serâ questo barcón quande ti veu.">
 
