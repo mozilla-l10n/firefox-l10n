@@ -29,6 +29,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "K">
 <!ENTITY newIMAccountCmd.label "Konfigurację konta czat…">
 <!ENTITY newIMAccountCmd.accesskey "c">
+<!ENTITY newIMContactCmd.label "Wizytówkę dla kontaktu z czatu…">
+<!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY newOtherAccountsCmd.label            "Konfigurację innego konta…">
 <!ENTITY newOtherAccountsCmd.accesskey        "o">
 
@@ -472,6 +474,8 @@
 <!ENTITY imStatus.unavailable "Niedostępny">
 <!ENTITY imStatus.offline "Poza siecią">
 <!ENTITY imStatus.showAccounts "Wyświetl konta…">
+<!ENTITY joinChatCmd.label "Dołącz do czatu…">
+<!ENTITY joinChatCmd.accesskey "D">
 <!ENTITY savedFiles.label                  "Zapisane pliki">
 <!ENTITY savedFiles.accesskey              "Z">
 <!ENTITY savedFiles.key                    "j">
