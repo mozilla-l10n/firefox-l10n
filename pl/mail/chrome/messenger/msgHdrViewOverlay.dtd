@@ -27,7 +27,7 @@
 <!ENTITY hdrArchiveButton1.tooltip    "Archiwizuj tę wiadomość">
 <!ENTITY hdrSmartReplyButton1.label   "Adaptatywny przycisk odpowiedzi">
 <!ENTITY hdrReplyButton1.label        "Odpowiedz">
-<!ENTITY hdrReplyButton1.tooltip      "Odpowiedz na tę wiadomość">
+<!ENTITY hdrReplyButton2.tooltip "Odpowiedz nadawcy tej wiadomości">
 <!ENTITY hdrReplyAllButton1.label     "Odpowiedz wszystkim">
 <!ENTITY hdrReplyAllButton1.tooltip   "Odpowiedz nadawcy i wszystkim pozostałym korespondentom">
 <!ENTITY hdrReplyListButton1.label    "Odpowiedz liście">
