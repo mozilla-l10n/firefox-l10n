@@ -97,6 +97,7 @@
 <!ENTITY perm.AskAlways "Zawsze pytaj">
 <!ENTITY perm.NeverSave "Nigdy nie zapisuj">
 <!ENTITY perm.Allow "Zezwól">
+<!ENTITY perm.AllowSameDomain "Zezwól dla tej samej domeny">
 <!ENTITY perm.AllowSession "Zezwól na czas sesji">
 <!ENTITY perm.Block "Zablokuj">
 
