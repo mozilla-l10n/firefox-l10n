@@ -28,7 +28,7 @@
 <!ENTITY sync.input.username.label "Enw Cyfrif">
 <!ENTITY sync.input.password.label "Cyfrinair">
 <!ENTITY sync.input.key.label "Allwedd Adfer">
-<!ENTITY sync.checkbox.server.label "Denyddiwch weinydd cyfaddas">
+<!ENTITY sync.checkbox.server.label "Defnyddiwch weinydd cyfaddas">
 <!ENTITY sync.input.server.label "URL Gweinydd">
 <!-- Setup Fail -->
   
@@ -40,9 +40,9 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Wedi Cwblhau’r Gosod">
-<!ENTITY sync.subtitle.success.label "Mae eich data’n cael ei lwytho iawr yn y cefndir. Mae modd mynd i Gosodiadau er mwyn rheoli eich cyfrif.">
+<!ENTITY sync.subtitle.success.label "Mae eich data’n cael ei lwytho lawr yn y cefndir. Mae modd mynd i Gosodiadau er mwyn rheoli eich cyfrif.">
 <!ENTITY sync.settings.label "Gosodiadau">
-<!ENTITY sync.subtitle.manage.label "Mae eich cyfrif &syncBrand.fullName.label; eisioes ar waith. Ewch i Gosodiadau er mwyn rheoli eich cyfrif.">
+<!ENTITY sync.subtitle.manage.label "Mae eich cyfrif &syncBrand.fullName.label; eisoes ar waith. Ewch i Gosodiadau er mwyn rheoli eich cyfrif.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Ceisiwch eto.">
@@ -64,7 +64,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tagiau">
 <!ENTITY bookmarks.folder.toolbar.label "Bar Offer Nodau Tudalen">
-<!ENTITY bookmarks.folder.unfiled.label "Nodau Tudalen Didrefn">
+<!ENTITY bookmarks.folder.unfiled.label "Nodau Tudalen Di-drefn">
 <!ENTITY bookmarks.folder.desktop.label "Nodau Tudalen Bwrdd Gwaith">
 <!ENTITY bookmarks.folder.mobile.label "Nodau Tudalen Symudol">
 <!-- Notification strings -->

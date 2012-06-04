@@ -42,7 +42,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Daeth y Ddogfen i Ben">
-<!ENTITY notCached.longDesc "<p>Nid yw;r ddogfen gofynnwyd amdani ar gael yn storfa &brandShortName;.</p><ul><li>Fel As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Nid yw;r ddogfen gofynnwyd amdani ar gael yn storfa &brandShortName;.</p><ul><li>Fel cam i sicrhau dogelwch nid yw &brandShortName; yn gofyn yr ail waith am ddogfennau snsitif.</li><li>Cliciwch Ceisio Eto i ail ofyn am y ddogfen o'r wefan.</li></ul>">
 
 <!ENTITY netOffline.title "Modd all-lein">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -62,7 +62,7 @@
 <!ENTITY netReset.title "Cafodd y cysylltiad ei ailosod">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
-<!ENTITY netTimeout.title "Mae cyfnod y cyswllt wedi dod i ben">
+<!ENTITY netTimeout.title "Mae'r cyfnod cyswllt wedi dod i ben">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Heb ddeall y cyfeiriad">

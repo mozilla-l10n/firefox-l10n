@@ -27,7 +27,7 @@ dweud wrth &brandShortName; i ymddiried yn dynodiad y wefan.
 yn gallu golygu fod rhywun wedi ymyrryd â'ch cysylltiad.</b>">
 <!ENTITY certerror.expert.contentPara2 "Peidiwch ychwanegu eithriad 
 heblaw eich bod yn gwybod fod rheswm da pam nad yw'r wefan yn defnyddio dynodiadau mae modd ymddiried ynddynt.">
-<!ENTITY certerror.addTemporaryException.label "Ymweld a'r wefan">
+<!ENTITY certerror.addTemporaryException.label "Ymweld â'r wefan">
 <!ENTITY certerror.addPermanentException.label "Ychwanegu eithriad parhaol">
 
 <!ENTITY certerror.technical.heading "Manylion Technegol">

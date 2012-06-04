@@ -41,7 +41,7 @@
 <!ENTITY  historyHeader.custom.label       "Defnyddio gosodiadau cyfaddasu ar gyfer hanes">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "Bydd &brandShortName; yn cofio eich hanes pori, llwytho, ffurflenni a chwilio ac yn cadw eich cwcis rhag Gwefannau byddwch yn ymweld â nhw.">
+<!ENTITY  rememberDescription.label      "Bydd &brandShortName; yn cofio eich hanes pori, llwytho, ffurflenni a chwilio ac yn cadw eich cwcis rhag gwefannau byddwch yn ymweld â nhw.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
