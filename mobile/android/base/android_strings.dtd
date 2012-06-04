@@ -129,6 +129,11 @@
 <!ENTITY site_settings_clear        "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਵੀ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
 
+<!ENTITY add_to_reading_list "ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY reading_list_added "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ">
+<!ENTITY reading_list_removed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ ਹੈ">
+<!ENTITY reader_mode "ਪੜ੍ਹਨ ਮੋਡ">
+
 <!ENTITY masterpassword_create_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਓ">
 <!ENTITY masterpassword_remove_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਹਟਾਓ">
 <!ENTITY masterpassword_password "ਪਾਸਵਰਡ">
