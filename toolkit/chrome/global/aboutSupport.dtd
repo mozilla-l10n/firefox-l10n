@@ -21,7 +21,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profielvouer">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktiveer inproppe">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Geaktiveerde inproppe">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Boukonfigurasie">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gebruikeragent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Omvalverslae">

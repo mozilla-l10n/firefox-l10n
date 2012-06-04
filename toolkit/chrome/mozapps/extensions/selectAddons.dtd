@@ -1,7 +1,7 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "Kontroleer u byvoegings">
-<!ENTITY checking.progress.label     "Kontroleer tans u byvoegings vir versoenbaarheid met hierdie weergawe van&brandShortName;.">
+<!ENTITY checking.progress.label     "Kontroleer tans u byvoegings vir versoenbaarheid met hierdie weergawe van &brandShortName;.">
 
 <!ENTITY select.heading              "Kies u byvoegings">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"

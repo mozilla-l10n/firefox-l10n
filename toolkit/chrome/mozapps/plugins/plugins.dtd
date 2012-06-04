@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; moet herlaai word vir die inprop(pe) om te werk.">
 
 <!ENTITY missingPlugin                                       "'n Inprop is nodig om hierdie inhoud te vertoon.">
-<!ENTITY clickToPlayPlugin                                   "Raak hier om die inprop te aktiveer.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Raak hier om die inprop te aktiveer.">
+<!ENTITY clickToPlayPlugins                                  "Raak hier om inproppe te aktiveer.">
 <!ENTITY disabledPlugin                                      "Hierdie inprop is gedeaktiveer.">
 <!ENTITY blockedPlugin.label                                 "Hierdie inprop is vir u beskerming geblokkeer.">
 
