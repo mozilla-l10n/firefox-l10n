@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; trygg modus">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; stoppa uventa under oppstart">
+<!ENTITY autoSafeModeDescription.label "Vi er svært leie for dette. &brandShortName; køyrer no i trygg modus, som mellombels slår av eigne innstillingar, tema og utvidingar.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; køyrer no i trygg modus. Eigendefinerte innstillingar, tema og utvidingar er i dette moduset mellombels slått av.">
 <!ENTITY safeModeDescription2.label   "Du kan gjere alle, eller berre nokre av desse innstillingane varige:">
 

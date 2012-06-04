@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Abonnement på nyhendekjelder">
-<!ENTITY subscriptionDesc.label "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverke tidlegare nedlasta artiklar.">
-<!ENTITY feedTitle.label "Tittel:">
-<!ENTITY location.label  "Adresse:">
+<!ENTITY feedSubscriptions.label     "Abonnement på nyhendekjelder">
+<!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverke tidlegare nedlasta artiklar.">
 
-<!ENTITY button.addFeed.label       "Legg til">
-<!ENTITY button.addFeed.accesskey   "L">
-<!ENTITY button.editFeed.label      "Rediger">
-<!ENTITY button.editFeed.accesskey  "R">
-<!ENTITY button.removeFeed.label "Slett">
-<!ENTITY button.removeFeed.accesskey   "S">
-<!ENTITY button.importOPML.label "Importer">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Eksporter">
-<!ENTITY button.exportOPML.accesskey   "E">
+<!ENTITY feedTitle.label             "Tittel:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Kjelde-URL:">
+<!ENTITY feedLocation.accesskey      "K">
+<!ENTITY feedLocation.placeholder    "Skriv inn ein gyldig nyheitskjelde-url å legge til">
+
+<!ENTITY feedFolder.label            "Lagre artiklar i:">
+<!ENTITY feedFolder.accesskey        "L">
+
+<!ENTITY quickMode.label             "Vis artikkeloppsummering i staden for å laste nettsida">
+<!ENTITY quickMode.accesskey         "V">
+
+<!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
+
+<!ENTITY button.addFeed.label        "Legg til">
+<!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.editFeed.label       "Rediger">
+<!ENTITY button.editFeed.accesskey   "R">
+<!ENTITY button.removeFeed.label     "Slett">
+<!ENTITY button.removeFeed.accesskey "S">
+<!ENTITY button.importOPML.label     "Importer">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Eksporter">
+<!ENTITY button.exportOPML.accesskey "E">
+
+<!ENTITY cmd.close.commandKey        "w">
