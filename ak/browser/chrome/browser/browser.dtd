@@ -31,8 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Soa-kɔ kuw mu">
 <!ENTITY  moveToGroup.accesskey              "S">
 <!ENTITY  moveToNewGroup.label               "Kuw foforo">
-<!ENTITY  moveToNewWindow.label              "Soa-kɔ tokuro foforo mu">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.label              "Soa-kɔ tokuro foforo so">
+<!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  bookmarkAllTabs.label              "Bukmaake Ntab Nyinara…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Nnyɛ Tab Nto Mu">
@@ -183,11 +183,11 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "Wɛb sɔftwɛɛ kyerɛwfo">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY errorConsoleCmd.label        "Mfomso Kɔnsool">
-<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.label        "Mfomso kɔnsool">
+<!ENTITY errorConsoleCmd.accesskey    "k">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Wɛb Kɔnsool">
+<!ENTITY webConsoleCmd.label          "Wɛb kɔnsool">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
@@ -236,7 +236,7 @@ can reach it easily. -->
   -  in the Tools menu. -->
 
 <!ENTITY styleeditor.label            "Stael sesafo">
-<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.accesskey        "a">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
@@ -279,7 +279,7 @@ can reach it easily. -->
 
 <!ENTITY clearRecentHistory.label               "Pepa Ndansa Yi Ara N'Abakɔsɛm">
 <!ENTITY clearRecentHistory.accesskey           "a">
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label         "Hyɛ Brawsen a Ɛyɛ Praevet Ase">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
@@ -289,8 +289,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Hwɛ"> 
 <!ENTITY viewMenu.accesskey       "H"> 
-<!ENTITY viewTabGroups.label            "Tab Nkuw">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Tab nkuw">
+<!ENTITY viewTabGroups.accesskey        "k">
 <!ENTITY viewToolbarsMenu.label       "Ntuulbaa"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Nkyɛn-baa">
@@ -513,8 +513,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Kyerɛ tokuro no wɔ skreen tɛtrɛtɛɛ mu">
 
-<!ENTITY zoomOutButton.tooltip          "Zuum Pue">
-<!ENTITY zoomInButton.tooltip           "Zuum Kɔ Mu">
+<!ENTITY zoomOutButton.tooltip          "Zuum pue">
+<!ENTITY zoomInButton.tooltip           "Zuum kɔ mu">
 <!ENTITY zoomControls.label             "Zuum ayɛde">
 
 <!ENTITY quitApplicationCmdWin.label       "Pue"> 
@@ -606,15 +606,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Ka nkaho baa no to mu">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
 
-<!ENTITY htmlPanel.label              "HTML">
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-
-<!ENTITY htmlPanel.tooltiptext        "HTML panɛl">
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!ENTITY markupButton.arialabel          "Maakap">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-
-<!ENTITY htmlPanel.accesskey          "M">
+<!ENTITY markupButton.accesskey          "M">

@@ -1,7 +1,7 @@
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs                   "Your tabs from last time">
+<!ENTITY aboutHome.recentTabs                   "Wo ntab a efi bere a etwa-to no">
 <!ENTITY aboutHome.remoteTabs                   "Tabs from your other computers">
-<!ENTITY aboutHome.recommendedAddons2           "Add-ons for your &brandShortName;">
+<!ENTITY aboutHome.recommendedAddons2           "Nkaho ɛma wo &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Give Feedback">
 <!ENTITY aboutHome.getHelp                      "Get Help">
 <!ENTITY aboutHome.footerWidth                  "10em">

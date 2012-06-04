@@ -2,7 +2,7 @@
 <!ENTITY playButton.pauseLabel "Twɛn">
 <!ENTITY muteButton.muteLabel "Dinn">
 <!ENTITY muteButton.unmuteLabel "Gyae-dinn">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Skreen Tɛtrɛtɛɛ">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Skreen tɛtrɛtɛɛ">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Pue firi Skreen Tɛtrɛtɛɛ">
 
 <!ENTITY stats.media "Midea">

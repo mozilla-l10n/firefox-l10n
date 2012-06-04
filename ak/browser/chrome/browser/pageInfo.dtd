@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Hyɛ akuki">
 <!ENTITY  permInstall           "Instɔɔle ntrɛw anaa tiim">
 <!ENTITY  permGeo               "Kyɛ beaɛ">
+<!ENTITY  permPlugins           "Kenyan Mplagin">
 
 <!ENTITY  permIndexedDB              "Kɔso kura siede a wɔwɔ ɔflaen">
 <!ENTITY  permClearStorage           "Pepa asiede">

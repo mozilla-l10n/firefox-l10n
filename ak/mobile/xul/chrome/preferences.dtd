@@ -1,24 +1,24 @@
 <!ENTITY prefsHeader.label                         "Apɛde-nhyehyɛ">
-<!ENTITY about.title                               "About &brandShortName;">
+<!ENTITY about.title                               "Fa &brandShortName; ho">
 <!ENTITY about.button                              "Go to Page">
 <!ENTITY content.title                             "Kɔntɛnt">
 <!ENTITY reflowZoom.title                          "Reformat text on zoom">
 <!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
+<!ENTITY enableJavaScript.title                    "Sɔ JavaScript">
+<!ENTITY privacy.title                             "Eiseise &amp; Bambɔ">
 <!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
-<!ENTITY masterPassword.title                      "Use master password">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
+<!ENTITY doNotTrack.title                          "Kyerɛ nsaet sɛ mma wɔn ndi m\'akyi">
+<!ENTITY masterPassword.title                      "Fa ehintasɛmfua panin di dwuma">
+<!ENTITY clearPrivateData2.title                   "Pepa deta a ɛyɛ praevet">
 <!ENTITY clearPrivateData.button                   "Pepa">
 <!ENTITY rememberPasswords.title                   "Remember passwords">
 <!ENTITY language.title                            "Kasa">
-<!ENTITY language.auto                             "Auto-detect">
+<!ENTITY language.auto                             "Hunu-otomatik">
 <!ENTITY defaultBrowser.title                      "brawsa dada">
 <!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
 <!ENTITY homepage.title                            "Start page">
 <!ENTITY homepage.none                             "Blank Page">
 <!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
+<!ENTITY homepage.currentpage                      "Fa krataafa a ɛwɔ so seisei ara di dwuma">
 <!ENTITY showCharsetEncoding.title                 "Show character encoding">
 <!ENTITY actionbar.default                         "&brandShortName; Settings">

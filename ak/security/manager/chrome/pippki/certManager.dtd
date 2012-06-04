@@ -133,11 +133,11 @@
 <!ENTITY certmgr.addException.accesskey       "k">
 
 <!ENTITY exceptionMgr.title                   "Ggataa Ebyokwerida Okundawo">
-<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Foa sekuriti ngyegye so">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "F">
 <!ENTITY exceptionMgr.supplementalWarning     "Zabaki, amateerekero, ne wakale awalala awakumee tteewa kusaba kukola kino.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
-<!ENTITY exceptionMgr.certlocation.url        "Location:">
+<!ENTITY exceptionMgr.certlocation.url        "Lokehyɛn:">
 <!ENTITY exceptionMgr.certlocation.download   "Leeta santikate">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Obugumu bya santifikate">

@@ -1,21 +1,21 @@
 
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "Ɛrehyehyɛ &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Kwan nni so a ɛbɛma &brandShortName; ahyɛ ase.">
+<!ENTITY  error_loading_file "Mfomso bi sii yɛ wɔ bere ɛretwe mfael a ehia sɛ &brandShortName; de bɛyɛ adwuma.">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
+<!ENTITY  crash_reporter_title "&brandShortName; Egyaeyɛ Amandebɔnwoma">
+<!ENTITY  crash_message "&brandShortName; egyae adwumayɛ. Ɛwɔ sɛ wo ntab no kyerɛ wɔ &brandShortName; Ahyɛase kratafa no so sɛ wosan hyɛ ase a.">
+<!ENTITY  crash_help_message "Yɛsreɛ wo, boa yɛn na yɛn nsiesie ɔhaw yi!">
+<!ENTITY  crash_send_report_message "Fa agyaeyɛ amandebɔnwoma ɛmane Mozilla">
+<!ENTITY  crash_include_url "Fa kratafa adrɛs ka ho ">
+<!ENTITY  crash_close_label "To mu">
 <!ENTITY  crash_restart_label "San hyɛ &brandShortName; ase">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  sending_crash_report "Ɛremane amandebɔnwoma\u2026">
 <!ENTITY  exit_label "Pue">
 <!ENTITY  continue_label "Toa so">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Wɛb App">
+<!ENTITY  launcher_shortcuts_empty "Enhu wɛb app biara">
 
 <!ENTITY choose_file "Fa Fael">

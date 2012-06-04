@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; hia sɛ ɔbɛsan ahyɛ ase ansaana (m)plagin no ayɛ edwuma.">
 
 <!ENTITY missingPlugin                                       "Wo hia plagin bi a wo de bɛhwɛ kɔntɛnt yi.">
-<!ENTITY clickToPlayPlugin                                   "Tim ha sɛnea wobɛkenyan plagin no. ">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tim ha sɛnea wobɛkenyan plagin no. ">
+<!ENTITY clickToPlayPlugins                                  "Tim ha sɛnea wobɛkenyan plagin no.">
 <!ENTITY disabledPlugin                                      "Wɔedum plagin yi.">
 <!ENTITY blockedPlugin.label                                 "Wɔesi plagin yi ano kwan de abɔ wo ho ban.">
 

@@ -27,7 +27,7 @@ wobetumi aka akyerɛ &brandShortName; sɛ ɔnhyɛ ase ngye saet yi ndi.
 ne nsa reka wo kɔnɛkhyɛn no.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ɛnfa ngyegye nka ho akosi sɛ 
 wo nim sɛ asɛm pa bi wɔhɔ enti a saet yi nni ahyɛnsode a yɛgye-di.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+<!ENTITY certerror.addTemporaryException.label "Sra saet">
+<!ENTITY certerror.addPermanentException.label "Fa ngyegye afebɔɔ ka ho">
 
 <!ENTITY certerror.technical.heading "Nhunumu a wɔyɛ tɛknikal">

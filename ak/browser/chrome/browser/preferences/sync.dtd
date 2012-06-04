@@ -23,13 +23,13 @@
 <!ENTITY engine.bookmarks.label     "Mbukmaak">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Ntab">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Abakɔsɛm">
-<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.history.accesskey   "s">
 <!ENTITY engine.passwords.label     "Ehintasɛmfua">
 <!ENTITY engine.passwords.accesskey "E">
-<!ENTITY engine.prefs.label         "Apɛdeɛ">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.label         "Apɛde">
+<!ENTITY engine.prefs.accesskey     "p">
 <!ENTITY engine.addons.label        "Nkaho">
 <!ENTITY engine.addons.accesskey    "a">
 <!-- Device Settings -->

@@ -5,7 +5,7 @@
 <!ENTITY feedback.feedback.good         "Good">
 <!ENTITY feedback.feedback.bad          "Bad">
 
-<!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.allowTelemetry.title  "Send performance data">
+<!ENTITY feedback.tools.title           "Mfidie">
+<!ENTITY feedback.allowTelemetry.title  "Soma mbɔdenbɔ data kɔ">
 <!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
 <!ENTITY feedback.errorConsole.title    "Enable the Error Console">

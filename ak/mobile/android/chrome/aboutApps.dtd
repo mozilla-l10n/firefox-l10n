@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "Wo App nom">
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+
+<!ENTITY aboutApps.noApps.pre "Wɔn instɔɔle wɛb app biara. Gye bi firi  ">
+<!ENTITY aboutApps.noApps.middle "app esiei">
+<!ENTITY aboutApps.noApps.post ".">

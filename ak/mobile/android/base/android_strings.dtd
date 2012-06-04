@@ -1,127 +1,127 @@
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "Erehyehyɛ wo &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Yɛreto wo mbukmak ne abakɔsɛm so, na ebetumi edi sima anaa birirbi.">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Kwan dodow nni hɔ a ɛbɛma &brandShortName; asan ahyɛ ase.">
+<!ENTITY  error_loading_file "Mfomso sii yɛ wɔ bere a ɛpɛ sɛ ɛtwe mfael a ehia ama &brandShortName; adwumayɛ">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
-<!ENTITY  awesomebar_bookmarks_title "Bookmarks">
+<!ENTITY  awesomebar_all_pages_title "Nsaet a wodi mu paa">
+<!ENTITY  awesomebar_bookmarks_title "Mbukmak">
 <!ENTITY  awesomebar_history_title "Abakɔsɛm">
-<!ENTITY  awesomebar_search_engine "Search for \&quot;&#037;s\&quot;">
+<!ENTITY  awesomebar_search_engine "Hwehwɛ \&quot;&#037;s\&quot;">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
+<!ENTITY  crash_reporter_title "&brandShortName; Amandebɔwoma">
+<!ENTITY  crash_message "&brandShortName; egyae dwumadi. Wo ntab no bɛwɔ &brandShortName; Nhyɛase kratafa no so sɛ wosan hyɛ ase a.">
+<!ENTITY  crash_help_message "Yɛsrɛ wo, boa yɛn na yɛn nsiesie ɔhaw yi!">
+<!ENTITY  crash_send_report_message "Fa amandebɔwoma ɛmane Mozilla">
+<!ENTITY  crash_include_url "Fa kratafa adrɛs ka ho">
+<!ENTITY  crash_close_label "To mu">
 <!ENTITY  crash_restart_label "San hyɛ &brandShortName; ase">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  sending_crash_report "Ɛremane amandebɔwoma\u2026">
 <!ENTITY  exit_label "Pue">
 <!ENTITY  continue_label "Toa so">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Wɛb App">
+<!ENTITY  launcher_shortcuts_empty "Enhu wɛb app biara">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Fa Fael">
 
-<!ENTITY awesomebar_default_text "Enter Search or Address">
+<!ENTITY awesomebar_default_text "Bɔ Ahwehwɛde anaa Adrɛs">
 
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs "Ntab a wɔasynke">
+<!ENTITY remote_tabs_show_all "Kyerɛ ntag nyinara">
 
-<!ENTITY bookmark "Bukmaak">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark "Bukmak">
+<!ENTITY bookmark_added "Ɛde mbukmak aka ho">
+<!ENTITY bookmark_removed "Woeyi bukmak no">
+<!ENTITY bookmark_updated "Ato bukmak so">
 
 <!ENTITY history_today_section "Ndɛ">
 <!ENTITY history_yesterday_section "Ndeda">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "nda 7 a etwam">
+<!ENTITY history_older_section "Enyini kyɛn nda 7">
 
 <!ENTITY reload "San-loode">
 <!ENTITY forward "Enim">
 
 <!ENTITY new_tab "Tab foforo">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY new_tab_opened "Ebue tab foforo">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
+<!ENTITY settings "Nhyehyɛe">
+<!ENTITY settings_title "Nhyehyɛe">
 <!ENTITY pref_category_general "Gyɛnɛral">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_do_not_track "Tell sites not to track me">
-<!ENTITY pref_telemetry "Send performance data">
-<!ENTITY pref_remember_signons "Remember passwords">
-<!ENTITY pref_cookies "Enable cookies">
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_history "Clear history">
-<!ENTITY pref_clear_history_confirm "Browsing history will be deleted">
-<!ENTITY pref_clear_private_data "Clear private data">
-<!ENTITY pref_clear_private_data_confirm "Browsing settings, including passwords and cookies, will be deleted">
+<!ENTITY pref_category_privacy "Eiseise &amp; Bambɔ">
+<!ENTITY pref_category_content "Emu nsɛm">
+<!ENTITY pref_about_firefox "&brandShortName; ho nsɛm">
+<!ENTITY pref_do_not_track "Kyerɛ nsaet sɛ mma wɔn ndi m\'akyi">
+<!ENTITY pref_telemetry "Fa dwumadi data ɛmane">
+<!ENTITY pref_remember_signons "Kae ehintasɛmfua">
+<!ENTITY pref_cookies "Sɔ nkuki">
+<!ENTITY pref_char_encoding "Akyerɛwde ndanee">
+<!ENTITY pref_char_encoding_on "Kyerɛ mɛnu">
+<!ENTITY pref_char_encoding_off "Nky\erɛ mɛnu">
+<!ENTITY pref_clear_history "Pepa abakɔsɛm">
+<!ENTITY pref_clear_history_confirm "Ɛbɛpepa abakɔsɛm">
+<!ENTITY pref_clear_private_data "Pepa deta a ɛyɛ praevet">
+<!ENTITY pref_clear_private_data_confirm "Mbrawse nhyehyɛe, ehintasɛmfua ne nkuki bɛpepa">
 <!ENTITY pref_plugins "Mplagin">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Kisazirwamu">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_plugins_enabled "Wɔasɔw">
+<!ENTITY pref_plugins_tap_to_play "Tim so na bɔ">
+<!ENTITY pref_plugins_disabled "Edum">
+<!ENTITY pref_text_size "Nkyerɛwee kɛseyɛ">
+<!ENTITY pref_font_size_tiny "Ketekete">
+<!ENTITY pref_font_size_small "Ketewaa">
+<!ENTITY pref_font_size_medium "Adantamu">
+<!ENTITY pref_font_size_large "Kɛse">
+<!ENTITY pref_font_size_xlarge "Kɛse mmoroso">
+<!ENTITY pref_use_master_password "Fa ehintasɛmfua panin di dwuma">
 <!ENTITY pref_sync "Synk">
 
-<!ENTITY quit "Quit">
+<!ENTITY quit "Gyae">
 
 <!ENTITY addons "Nkaho">
-<!ENTITY downloads "Downloads">
+<!ENTITY downloads "Atweatwe">
 <!ENTITY char_encoding "Akyerɛwde ndanee">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY save_as_pdf "Save as PDF">
+<!ENTITY share "Kyekyɛw">
+<!ENTITY share_title "Kyekyɛw fa">
+<!ENTITY save_as_pdf "Fa sie sɛ PDF">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_remove_bookmark "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_open_new_tab "Bue wɔ Tab Foforo mu">
+<!ENTITY contextmenu_remove_bookmark "Yi">
+<!ENTITY contextmenu_add_to_launcher "Fa ka Fie Skreen ho">
+<!ENTITY contextmenu_share "Kyekyɛ">
+<!ENTITY contextmenu_edit_bookmark "Sesa">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_title "Sesa Bukmak">
 <!ENTITY bookmark_edit_name "Din">
 <!ENTITY bookmark_edit_location "Lokehyɛn">
-<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY bookmark_edit_keyword "Asɛmfua-titiriw">
 
-<!ENTITY site_settings_title        "Clear Site Settings">
-<!ENTITY site_settings_cancel       "Cancel">
+<!ENTITY site_settings_title        "Pepa saet nhyehyɛe">
+<!ENTITY site_settings_cancel       "Twa-mu">
 <!ENTITY site_settings_clear        "Pepa">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_no_settings  "Nhyehyɛe biara nni hɔ a wobɛpepa">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
-<!ENTITY masterpassword_remove_title "Remove Master Password">
-<!ENTITY masterpassword_password "ehintasɛmfua">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_create_title "Bɔ Ehintasɛmfua Papa no">
+<!ENTITY masterpassword_remove_title "Yi Ehintasɛmfua Papa no">
+<!ENTITY masterpassword_password "Ehintasɛmfua">
+<!ENTITY masterpassword_confirm "Kyerɛw ehintasɛmfua bio">
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Cancel">
+<!ENTITY button_cancel "Twa-mu">
 
-<!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
-<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_addons_title "Nkaho ɛma wo &brandShortName;">
+<!ENTITY abouthome_addons_browse "Brawse &brandShortName; nkaho nyinaa">
+<!ENTITY abouthome_last_tabs_title "Wo ntab a efi bere a etwa-to no">
+<!ENTITY abouthome_last_tabs_open "Bue ntab nyinaa a wofi bere a etwa-to no">
+<!ENTITY abouthome_top_sites_title "Nsaet a wodi mu paa">
+<!ENTITY abouthome_top_sites_browse "Brawse wo nsaet a wodi mu no nyinaa">
+<!ENTITY abouthome_no_top_sites "Wo nni nsaet a wodi mu biara. Tim Tinsɛm Baa no so fahyɛ abrawse ase.">
+<!ENTITY abouthome_about_sync "Hyehyɛ Firefox Synk de nya mbukmak, abakɔsɛm ne ntab fi wo mfidie foforo no hɔ ho kwan">
+<!ENTITY abouthome_sync_bold_name "Firefox Synk">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_title "Fa Fael">
+<!ENTITY filepicker_audio_title "Paw anaa kyerɛw aso-te bi sie">
+<!ENTITY filepicker_image_title "Paw anaa twa mfoni">
+<!ENTITY filepicker_video_title "Paw anaa kyerɛw sini bi sie">

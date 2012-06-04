@@ -11,15 +11,15 @@
 <!ENTITY sync.setup.pair            "Wo pɛ sɛ wo kenyan a, paw &#x0022;Fa efidie bi bɔ ho&#x0022; wɔ w'efidie foforo no so.">
 <!ENTITY sync.fallback              "I'm not near my computer…">
 <!ENTITY sync.setup.manual          "Enter your Sync account information">
-<!ENTITY sync.account               "Account Name">
-<!ENTITY sync.password              "Password">
+<!ENTITY sync.account               "Akawnt Din">
+<!ENTITY sync.password              "Ehintasɛmfua">
 <!ENTITY sync.recoveryKey           "Recovery Key">
 <!ENTITY sync.customServer          "Use custom server">
-<!ENTITY sync.serverURL             "Server URL">
+<!ENTITY sync.serverURL             "Somfo URL">
 <!ENTITY sync.setup.connect         "Connect">
 <!ENTITY sync.setup.cancel          "Twa-mu">
 <!ENTITY sync.setup.tutorial        "Show me how">
-<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+<!ENTITY sync.setup.waiting2        "Ɛretwɛn efidie foforo no...">
 
 <!ENTITY sync.pair.title            "Yɛ divaes bi nta">
 <!ENTITY sync.pair.description      "Wo pɛ sɛ wo kenyan w'efidie fofoo no a, paw &#x0022;Hyehyɛ Synk&#x0022; wɔ efidie no so.">

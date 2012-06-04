@@ -4,9 +4,9 @@
 <!ENTITY addpref.value          "aba">
 
 <!ENTITY cancel.label           "Twa-mu">
-<!ENTITY reset.label            "Reset">
+<!ENTITY reset.label            "San-hyɛ">
 <!ENTITY done.label             "Ewie">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
+<!ENTITY integer.label          "Intigya">
+<!ENTITY string.label           "Streng">
 <!ENTITY boolean.label          "Boolean">

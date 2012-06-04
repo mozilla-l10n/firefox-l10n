@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "Efi HTML fael bi">
-<!ENTITY importFromHTMLFile.accesskey   "f">
 
 <!ENTITY noMigrationSources.label       "Enhu dwumadi biara a ɛwɔ mbukmaak, abakɔsɛm anaa ehintasɛmfua deta bi.">
 

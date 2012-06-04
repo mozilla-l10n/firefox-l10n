@@ -1,12 +1,16 @@
-<!ENTITY aboutPage.title                        "About &brandShortName;">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+<!ENTITY aboutPage.title                        "&brandShortName; ho nsɛm">
+<!ENTITY aboutPage.warningVersion               "yɛresɔ &brandShortName; ahwɛ nti ɛbɛtumi aba no sɛ ɔnngyina pintinn.">
+<!ENTITY aboutPage.telemetryStart               "Ɛsoma infɔmehyɛn a ɛfa dwumadie, haadwɛɛ, dwumadi ne ankorankorɛ-nhehyɛe ho otomatikmu">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
+<!ENTITY aboutPage.checkForUpdates.link         "Hwehwɛ Ntoso »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Rehwehwɛ ntoso…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
-<!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
-<!ENTITY aboutPage.privacyPolicy.label          "Siesɛm mbra">
-<!ENTITY aboutPage.rights.label                 "Know Your Rights">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
+<!ENTITY aboutPage.checkForUpdates.none         "Ntoso nni hɔ">
+<!ENTITY aboutPage.checkForUpdates.found        "Ntoso wɔ hɔ">
+<!ENTITY aboutPage.faq.label                    "Nsɛmmisa ne Mbuae">
+<!ENTITY aboutPage.support.label                "Mboa">
+<!ENTITY aboutPage.privacyPolicy.label          "Siesɛm Mbra">
+<!ENTITY aboutPage.rights.label                 "Hu nea wɔfata wo">
+<!ENTITY aboutPage.relNotes.label               "Ngyae-mu Nkrata">
 <!ENTITY aboutPage.credits.label                "Aboafo">
-<!ENTITY aboutPage.license.label                "Licensing Information">
+<!ENTITY aboutPage.license.label                "Tumikrata-ma infɔmehyen">

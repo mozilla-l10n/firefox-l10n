@@ -1,41 +1,41 @@
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Bɔ Ahwehwɛde anaa Adrɛs">
 
-<!ENTITY back.label            "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY reload.label          "Reload">
-<!ENTITY stop.label            "Stop">
+<!ENTITY back.label            "Ekyiri">
+<!ENTITY forward.label         "Enim">
+<!ENTITY reload.label          "Bue-bio">
+<!ENTITY stop.label            "Gyae">
 <!ENTITY go.label              "Go">
 <!ENTITY star.label            "Star">
 
 <!ENTITY showTabs.label        "Show Tabs">
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY newtab.label          "Tab foforo">
+<!ENTITY closetab.label        "To tab no mu">
 
 <!ENTITY cut.label             "Twa">
 <!ENTITY copy.label            "Fa">
-<!ENTITY copyAll.label         "Copy All">
-<!ENTITY copylink.label        "Copy Link Location">
+<!ENTITY copyAll.label         "Fa Bibiara">
+<!ENTITY copylink.label        "Fa link lokehyɛn">
 <!ENTITY paste.label           "Tare">
 <!ENTITY pasteAndGo.label      "Paste &amp; Go">
-<!ENTITY delete.label          "Delete">
-<!ENTITY selectAll.label       "Select All">
+<!ENTITY delete.label          "Pepa">
+<!ENTITY selectAll.label       "Paw no nyinara">
 <!ENTITY noSuggestions.label   "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
-<!ENTITY inputMethod.label     "Select Input Method">
+<!ENTITY addToDictionary.label "Fa ka nsɛmfuasekyerɛ ho">
+<!ENTITY inputMethod.label     "Paw Nhyɛmu Anamɔn bi">
 
-<!ENTITY allPagesHeader.label      "All Pages">
+<!ENTITY allPagesHeader.label      "Krataafa nyinara">
 <!ENTITY bookmarksHeader.label     "Bookmarks">
 <!ENTITY historyHeader.label       "Abakɔsɛm">
 <!ENTITY desktopHeader.label       "Dɛsktɔp">
 
-<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
+<!ENTITY editBookmarkDialog.title  "Sesa Bukmak">
 <!ENTITY editBookmarkDone.label    "Done">
 <!ENTITY editBookmarkTags.label    "Add tags here">
 
 <!ENTITY selectHelper.done         "Done">
 
-<!ENTITY addonsHeader.label        "Add-ons">
-<!ENTITY addonsLocal.label         "Your Add-ons">
+<!ENTITY addonsHeader.label        "Nkaho">
+<!ENTITY addonsLocal.label         "Wo Nkaho">
 <!ENTITY addonsUpdate.label        "Update">
 <!ENTITY addonsRepo.label          "Gye Nkaho">
 <!ENTITY addonsRecommended.label   "Recommended">
@@ -43,7 +43,7 @@
 <!ENTITY addonsSearch2.emptytext   "Search Catalog">
 <!ENTITY addonsSearch.recommended  "Recommended">
 
-<!ENTITY addonOptions.label        "Options">
+<!ENTITY addonOptions.label        "Nɔphyɛn">
 <!ENTITY addonEnable.label         "Sɔ">
 <!ENTITY addonDisable.label        "Dum">
 <!ENTITY addonInstall2.label       "Add to &brandShortName;">
@@ -51,24 +51,24 @@
 <!ENTITY addonCancel.label         "Cancel">
 <!ENTITY addonShowPage.label       "Go to Page">
 
-<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadsHeader.label     "Ntwe">
 <!ENTITY downloadShowPage.label    "Go to Page">
 <!ENTITY downloadShow2.label       "Find">
 <!ENTITY downloadOpen2.label       "Bue">
 <!ENTITY downloadCancel.label      "Cancel">
-<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadPause.label       "Gyina">
 <!ENTITY downloadResume.label      "Toa so">
-<!ENTITY downloadRetry.label       "Retry">
-<!ENTITY downloadRemove.label      "Remove">
-<!ENTITY downloadDelete.label      "Delete">
+<!ENTITY downloadRetry.label       "San-sɔ-hwɛ">
+<!ENTITY downloadRemove.label      "Yi">
+<!ENTITY downloadDelete.label      "Pepa">
 <!ENTITY downloadFailed.label      "Annkɔ yie">
 
 <!ENTITY noResults.label           "No results">
 <!ENTITY allBookmarks.label        "See all bookmarks">
 
 <!ENTITY bookmarkPopup.label       "Wɔebukmaake Krataafa No">
-<!ENTITY bookmarkRemove.label      "Remove">
-<!ENTITY bookmarkEdit.label        "Edit">
+<!ENTITY bookmarkRemove.label      "Yi">
+<!ENTITY bookmarkEdit.label        "Sesa">
 <!ENTITY bookmarkShortcut.label    "Add to Home Screen">
 
 <!ENTITY identity.unverifiedsite2 "Wɛbsaet yi mmfa ne ho nsɛm nnkyerɛ obiara.">
@@ -80,40 +80,40 @@
  just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "run by">
 
-<!ENTITY consoleHeader.label       "Error Console">
-<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleHeader.label       "Mfomso kɔnsool">
+<!ENTITY consoleAll.label          "Nyinara">
 <!ENTITY consoleErrors.label       "Mfomso">
 <!ENTITY consoleWarnings.label     "Akɔkɔbɔ">
-<!ENTITY consoleMessages.label     "Messages">
-<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleMessages.label     "Nkrato">
+<!ENTITY consoleCodeEval.label     "Kood:">
 <!ENTITY consoleClear.label        "Pepa">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "fael farebae:">
-<!ENTITY consoleErrLine.label      "kwan tea:">
-<!ENTITY consoleErrColumn.label    "kɔlɔm:">
+<!ENTITY consoleErrFile.label      "Fael farebae:">
+<!ENTITY consoleErrLine.label      "Laen:">
+<!ENTITY consoleErrColumn.label    "Kɔlɔm:">
 
-<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
+<!ENTITY contextOpenInNewTab.label    "Bue link wɔ tab foforo mu">
 <!ENTITY contextSaveImage.label       "Sie Mfonin">
 <!ENTITY contextCopyLink.label        "Copy Link">
-<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyEmail.label       "Fa emel adrɛs">
 <!ENTITY contextCopyPhone.label       "Copy Phone Number">
-<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
-<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextCopyImageLocation.label       "Fa mfonin no ne lokehyɛn">
+<!ENTITY contextShareLink.label       "Kyɛ Link">
 <!ENTITY contextShareImage.label      "Share Image">
-<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextBookmarkLink.label    "Bukmaake Link">
 <!ENTITY contextSaveVideo.label       "Sie Video">
 <!ENTITY contextShareVideo.label      "Share Video">
-<!ENTITY contextPlayMedia.label       "Play">
-<!ENTITY contextPauseMedia.label      "Pause">
-<!ENTITY contextFullScreen.label      "Full Screen">
-<!ENTITY contextEditBookmark.label    "Edit">
-<!ENTITY contextRemoveBookmark.label  "Remove">
+<!ENTITY contextPlayMedia.label       "Bɔ">
+<!ENTITY contextPauseMedia.label      "Gyina">
+<!ENTITY contextFullScreen.label      "Skreen tɛtrɛtɛɛ">
+<!ENTITY contextEditBookmark.label    "Sesa">
+<!ENTITY contextRemoveBookmark.label  "Yi">
 <!ENTITY contextShortcutBookmark.label "Add to Home Screen">
 
 <!ENTITY pageactions.saveas.pdf      "Save As PDF">
 <!ENTITY pageactions.share.page      "Share Page">
 <!ENTITY pageactions.password.forget "Forget Password">
-<!ENTITY pageactions.quit            "Quit">
+<!ENTITY pageactions.quit            "Gyae">
 <!ENTITY pageactions.reset           "Clear Site Preferences">
 <!ENTITY pageactions.findInPage      "Find In Page">
 <!ENTITY pageactions.search.addNew   "Fa ahwehwɛfidie ka ho">

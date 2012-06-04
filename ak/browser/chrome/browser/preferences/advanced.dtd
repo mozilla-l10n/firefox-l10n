@@ -58,8 +58,8 @@
 <!ENTITY clearCacheNow.accesskey         "P">
 <!ENTITY clearOfflineAppCacheNow.label   "Pepa seisei">
 <!ENTITY clearOfflineAppCacheNow.accesskey "e">
-<!ENTITY overrideSmartCacheSize.label    "Ma otomatik asiei ade-nhwɛso no mfaso">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "Twi fa otomatik asiei ade-nhwɛso no so">
+<!ENTITY overrideSmartCacheSize.accesskey "w">
 
 <!ENTITY updateTab.label                 "Ntoso">
 

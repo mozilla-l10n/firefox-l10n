@@ -1,6 +1,10 @@
-<!ENTITY aboutPage.title                        "About &brandShortName;">
-<!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
+<!ENTITY aboutPage.title                        "Fa &brandShortName; ho">
+<!ENTITY aboutPage.warningVersion               "Yɛ resɔ &brandShortName; ahwɛ nti ɛbɛtumi aba no sɛ ɔnngyina pintinn.">
+<!ENTITY aboutPage.telemetryStart               "Ɛsoma infɔmehyɛn a ɛfa dwumadie, haadwɛɛ, dwumadi ne ankorankorɛ-nhehyɛe ho otomatikmu">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
+<!ENTITY aboutPage.faq.label                    "Nsɛmmisa ne Mbuae">
+<!ENTITY aboutPage.support.label                "Mboa">
 <!ENTITY aboutPage.privacyPolicy.label          "Siesɛm mbra">
 <!ENTITY aboutPage.rights.label                 "Know Your Rights">
 <!ENTITY aboutPage.relNotes.label               "Release Notes">

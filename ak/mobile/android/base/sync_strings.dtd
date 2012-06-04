@@ -4,69 +4,72 @@
 <!ENTITY syncBrand.shortName.label "Synk">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Kɔnɛkte ma &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Fa &syncBrand.fullName.label; Akawnt ka ho">
+<!ENTITY sync.title.pair.label "Fa Efidie yi bɔ ho">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.subtitle.connect.label "Wopɛ sɛ wo sɔ woefidie foforo no a, paw “Hyehyɛ &syncBrand.shortName.label;” wɔ efidie no so.">
+<!ENTITY sync.subtitle.header.label "Bɔ saa kood yi wɔ wo kɔmputa no so">
+<!ENTITY sync.subtitle.connectlocation.label "Paw “&sync.title.pair.label;” wɔ &syncBrand.shortName.label; afa no wɔ wo dɛsktɔp Firefox ɔphyɛn no mu.">
+<!ENTITY sync.subtitle.pair.label "Wo pɛ sɛ wo kenyan a, paw “Fa efidie bi bɔ ho” wɔ wo efidie foforo no so.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Kyerɛ me sɛnea wɔ yɛ no.">
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.advancedsetup.label "Nhyehyɛe a ɛkɔ anim...">
+<!ENTITY sync.link.nodevice.label "Efidie no n\ni me nkyɛn…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Ɛretwɛn efidie foforo no...">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label "ehintasɛmfua">
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.subtitle.account.label "Bɔ wo &syncBrand.fullName.label; akawnt ho nsɛm">
+<!ENTITY sync.input.username.label "Akawnt Din">
+<!ENTITY sync.input.password.label "Ehintasɛmfua">
+<!ENTITY sync.input.key.label "Esiesie Safoa">
+<!ENTITY sync.checkbox.server.label "Fa sɛɛva kɔstɔm di dwuma">
+<!ENTITY sync.input.server.label "Somfo URL">
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
-<!ENTITY sync.button.tryagain.label "San Sɔ Hwɛ">
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!ENTITY sync.title.fail.label "Entumi nyehyɛ &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; entumi ankɔnɛkte sɛɛva no. Wopɛ sɛ wosan yɛ bio anaa?">
+<!ENTITY sync.button.tryagain.label "San sɔ hwɛ">
+<!ENTITY sync.button.manual.label "Nhyehyɛe Nsa-ano">
+<!ENTITY sync.subtitle.nointernet.label "Intanɛt nsawɔsoɔ nni hɔ.">
 <!-- Setup Success -->
   
-<!ENTITY sync.title.success.label "Setɔp ewie">
-<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
+<!ENTITY sync.title.success.label "Nhyehyɛe Ewie">
+<!ENTITY sync.subtitle.success.label "Ɛretwe wo data no wɔ ndaekyiri. Wobetumi akɔ Nhyehyɛe ahwɛ wo akawnt no so.">
 <!ENTITY sync.settings.label "Nhyehyɛe">
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.subtitle.manage.label "Wɔahyehyɛ wo &syncBrand.fullName.label; akawnt no. Kɔ Nhehyɛe na hwɛ wo akawnt no so.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "San sɔ hwɛ.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Nɔphyɛn">
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.summary.pair.label "Linke efidie foforo biara ɛma wo &syncBrand.shortName.label; akawnt no">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Twa-mu">
-<!ENTITY sync.button.connect.label "Kɔnɛkt">
+<!ENTITY sync.button.connect.label "Kɔnɛkte">
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
   
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
-<!ENTITY bookmarks.folder.menu.label "Mbukmaak Menu">
+<!ENTITY bookmarks.folder.menu.label "Mbukmak Mɛnu">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Ntag">
 <!ENTITY bookmarks.folder.toolbar.label "Mbukmaak Tulbaa">
 <!ENTITY bookmarks.folder.unfiled.label "Mbukmaak a Wɔnnhyehyɛe">
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label "Seisei Mbukmaak">
+<!ENTITY bookmarks.folder.desktop.label "Dɛsktɔp Mbukmak">
+<!ENTITY bookmarks.folder.mobile.label "Mobael Mbukmak">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; akawnt baako pɛ na ɛwɔ kwan.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect "Esiesie-bio safoa nndi mu. Yɛsrɛ wo san sɔ hwɛ.">
