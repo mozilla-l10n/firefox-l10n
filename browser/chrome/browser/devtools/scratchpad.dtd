@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "Rediger">
 <!ENTITY editMenu.accesskey           "R">
 
-<!ENTITY undoCmd.label                "Angre">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "A">
-
-<!ENTITY redoCmd.label                "Gjenta">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "G">
-
-<!ENTITY cutCmd.label                 "Klipp ut">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "u">
-
-<!ENTITY copyCmd.label                "Kopier">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Lim inn">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "L">
-
-<!ENTITY selectAllCmd.label           "Merk alt">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "M">
-
-<!ENTITY findCmd.label                "Finn …">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "F">
-
-<!ENTITY findAgainCmd.label           "Finn igjen …">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "g">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Gå til linje …">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "G">
-
 <!ENTITY run.label                    "Kjøyr">
 <!ENTITY run.accesskey                "K">
 <!ENTITY run.key                      "r">
@@ -120,6 +76,18 @@
   -->
 <!ENTITY browserContext.label         "Nettlesar">
 <!ENTITY browserContext.accesskey     "N">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Help">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Help">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "Kladdeblokk-hjelp på MDN">
+<!ENTITY documentationLink.accesskey  "d">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

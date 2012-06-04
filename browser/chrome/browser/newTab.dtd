@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Ny fane">
-
-<!ENTITY newtab.show "Vis Ny fane-sida">
-<!ENTITY newtab.hide "Skjul Ny fane-sida">
-<!ENTITY newtab.reset "Tilbakestill Ny fane-sida">

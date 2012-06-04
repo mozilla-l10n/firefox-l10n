@@ -12,7 +12,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Applikasjonsdetaljar">
 <!ENTITY aboutSupport.appBasicsName "Namn">
 <!ENTITY aboutSupport.appBasicsVersion "Versjon">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profilmappe">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Påslåtte programtillegg">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Bygginnstillingar">
 <!ENTITY aboutSupport.appBasicsUserAgent "Brukaragent">
@@ -20,7 +26,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Minnebruk">
 
 <!ENTITY aboutSupport.showDir.label "Opne mappe">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -34,6 +39,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Verdi">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikk">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementell GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekversjonar">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installasjonshistorikk">
 <!ENTITY aboutSupport.updateHistoryTitle "Oppdateringshistorikk">

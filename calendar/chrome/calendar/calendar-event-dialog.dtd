@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "v">
 <!ENTITY  event.menu.options.link.label                       "Legg til lenkje …">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Tidssone">
-<!ENTITY  event.menu.options.timezone.accesskey               "T">
+<!ENTITY  event.menu.options.timezone2.label                  "Vis tidssoner">
+<!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritet">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Ikkje valt">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Gje opp tidssone">
+<!ENTITY event.timezone.custom.label     "Fleire tidssoner …">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Generelt">

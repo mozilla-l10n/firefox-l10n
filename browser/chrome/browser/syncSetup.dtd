@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Tenar">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Standard: Mozilla &syncBrand.fullName.label;-tenar">
 <!ENTITY serverType.custom2.label   "Bruk ein annan tenar …">
 <!ENTITY signIn.account2.label      "Konto">
 <!ENTITY signIn.account2.accesskey  "K">

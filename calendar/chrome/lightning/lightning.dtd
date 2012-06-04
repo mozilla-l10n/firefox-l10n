@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "e">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Vis hendingar i i dag-ruta">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Vis oppgåver i I dag-ruta og i Oppgåve-modus">
 <!ENTITY lightning.calendarproperties.email.label               "E-postadresse:">
 
 <!-- iMIP Bar (meeting support) -->

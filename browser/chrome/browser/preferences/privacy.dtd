@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Bokmerke">
 <!ENTITY  locbar.nothing.label          "Ingenting">
 
-
 <!ENTITY  acceptCookies.label           "Tillat infokapslar">
 <!ENTITY  acceptCookies.accesskey       "T">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Alltid bruk privat nettlesing-modus">
 <!ENTITY  privateBrowsingPermanent2.accesskey "A">
 
-<!ENTITY  rememberHistory.label      "Hugs nettlesarhistorikk">
-<!ENTITY  rememberHistory.accesskey  "H">
-
-<!ENTITY  rememberDownload.label         "Hugs nedlastingshistorikk">
-<!ENTITY  rememberDownload.accesskey     "u">
+<!ENTITY  rememberHistory2.label      "Hugs nettlesar- og nedlastingshistorikk">
+<!ENTITY  rememberHistory2.accesskey  "H">
 
 <!ENTITY  rememberSearchForm.label       "Hugs søke- og skjemahistorikk">
 <!ENTITY  rememberSearchForm.accesskey   "s">

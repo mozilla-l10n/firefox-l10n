@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "R">
 <!ENTITY identitiesListDelete.label "Slett">
 <!ENTITY identitiesListDelete.accesskey "S">
+<!ENTITY identitiesListClose.label "Lat att">
+<!ENTITY identitiesListClose.accesskey "a">
