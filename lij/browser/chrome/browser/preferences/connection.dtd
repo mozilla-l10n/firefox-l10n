@@ -13,7 +13,7 @@
 <!ENTITY  manualTypeRadio.label         "Inpòsta a màn o proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL pe inpostâ in aotomàtico o proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "o">
 <!ENTITY  reload.label                  "Recarega">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "Proxy FTP:">

@@ -14,7 +14,7 @@
 <!ENTITY browsing.label                  "Çèrca">
 
 <!ENTITY useAutoScroll.label             "Adêuvia scoriménto aotomàtico">
-<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Adêuvia scoriménto regolâ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Adêuvia l'aceleraçión hardware se gh'é">
@@ -31,7 +31,7 @@
 <!ENTITY submitCrashes.label             "Segnâla un problêma">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Manda informaçion in sciô fonçionamento">
-<!ENTITY submitTelemetry.accesskey       "M">
+<!ENTITY submitTelemetry.accesskey       "f">
 
 <!ENTITY networkTab.label                "Ræ de lòu">
 
@@ -78,7 +78,7 @@
 <!ENTITY updateHistory.accesskey         "F">
 
 <!ENTITY useService.label                "Uzâ 'n serviçio ascozo pe instalâ i agiornaménti">
-<!ENTITY useService.accesskey            "a">
+<!ENTITY useService.accesskey            "z">
 
 <!ENTITY updateOthers.label              "Agiornaménti aotomàtici:">
 <!ENTITY enableSearchUpdate.label        "Motô de riçèrca">
@@ -87,7 +87,7 @@
 <!ENTITY offlineNotify.label             "Dìmme quàndo un scîto o domànda de sarvâ dæti pe êse uzæ fêua lìnia">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Eceçioìn…">
-<!ENTITY offlineNotifyExceptions.accesskey "E">
+<!ENTITY offlineNotifyExceptions.accesskey "ç">
 
 <!ENTITY offlineAppsList2.label          "Sti scîti chi pêuan sarvâ dæti pe l'ûzo fêua lìnia:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,7 +105,7 @@
 <!ENTITY certificates.label              "Certificâti">
 <!ENTITY certSelection.description       "Quàndo un server o domànda i mæ certificâti:">
 <!ENTITY certs.auto                      "Seleçiónn-a un in aotomàtico">
-<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.auto.accesskey            "o">
 <!ENTITY certs.ask                       "Domàndamelo tùtte e vòtte">
 <!ENTITY certs.ask.accesskey             "D">
 <!ENTITY viewCerts.label                 "Fànni védde certificâti">
@@ -115,5 +115,5 @@
 <!ENTITY verify2.label                   "Validaçión">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Aparâti">
-<!ENTITY viewSecurityDevices.accesskey   "A">
+<!ENTITY viewSecurityDevices.accesskey   "p">
 

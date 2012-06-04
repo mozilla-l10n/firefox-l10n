@@ -3,7 +3,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Permétti a-e pàgine de çèrne i coî">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+<!ENTITY  allowPagesToUse.accesskey       "m">
 
 <!ENTITY  color                           "Tésto e sfondo">
 <!ENTITY  textColor.label                 "Tésto:">
@@ -11,10 +11,10 @@
 <!ENTITY  backgroundColor.label           "Sfondo:">
 <!ENTITY  backgroundColor.accesskey       "S">
 <!ENTITY  useSystemColors.label           "Adêuvia i coî de scistêma">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  useSystemColors.accesskey       "c">
 
 <!ENTITY  underlineLinks.label            "Sotolìnia colegaménti">
-<!ENTITY  underlineLinks.accesskey        "S">
+<!ENTITY  underlineLinks.accesskey        "g">
 <!ENTITY  links                           "Coî di colegamenti">
 <!ENTITY  linkColor.label                 "Colegaménti no vixitæ:">
 <!ENTITY  linkColor.accesskey             "l">

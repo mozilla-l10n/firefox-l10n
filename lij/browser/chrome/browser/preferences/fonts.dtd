@@ -62,7 +62,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Permétti a-e pàgine de çèrne o seu caràtere invêce da mæ seleçión">
-<!ENTITY  allowPagesToUse.accesskey               "a">
+<!ENTITY  allowPagesToUse.accesskey               "m">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Codifica do caràtere">
 <!ENTITY languages.customize.DefaultCharset.label       "Codìfica do caràtere predefinîa:">

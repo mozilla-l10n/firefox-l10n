@@ -1,5 +1,5 @@
 <!ENTITY  warnAddonInstall.label        "Avèrtime quàndo 'n scîto o prêuva a instalâ di conponénti azónti">
-<!ENTITY  warnAddonInstall.accesskey    "A">
+<!ENTITY  warnAddonInstall.accesskey    "i">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
@@ -9,7 +9,7 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Blòcco pe-i scîti d'atàcco">
-<!ENTITY  blockAttackSites.accesskey "B">
+<!ENTITY  blockAttackSites.accesskey "t">
 
 <!ENTITY  blockWebForgeries.label     "Blòcco pe-e falsificaçioìn web">
 <!ENTITY  blockWebForgeries.accesskey "B">
@@ -23,7 +23,7 @@
 <!ENTITY  rememberPasswords.label       "Aregòrdite e paròlle segrétte pe-i scîti">
 <!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Eceçioìn…">
-<!ENTITY  passwordExceptions.accesskey  "E">
+<!ENTITY  passwordExceptions.accesskey  "ç">
 
 <!ENTITY  useMasterPassword.label        "Adêuvia 'na paròlla segrétta prinçipâ">
 <!ENTITY  useMasterPassword.accesskey    "p">
@@ -31,5 +31,5 @@
 <!ENTITY  changeMasterPassword.accesskey "C">
 
 <!ENTITY  savedPasswords.label            "Paròlle segrétte sarvæ…">
-<!ENTITY  savedPasswords.accesskey        "P">
+<!ENTITY  savedPasswords.accesskey        "s">
 

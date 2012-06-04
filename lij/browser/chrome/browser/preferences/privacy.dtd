@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Traciaménto">
 
 <!ENTITY doNotTrack.label               "Dìnni a-i scîti che mi no véuggio êse traciòu">
-<!ENTITY doNotTrack.accesskey           "D">
+<!ENTITY doNotTrack.accesskey           "u">
 
 <!ENTITY  history.label                 "Stöia">
 
@@ -16,8 +16,8 @@
 <!ENTITY  locbar.nothing.label          "Nìnte">
 
 
-<!ENTITY  acceptCookies.label           "açetta i cookie da sti scîti">
-<!ENTITY  acceptCookies.accesskey       "a">
+<!ENTITY  acceptCookies.label           "açétta i cookie da sti scîti">
+<!ENTITY  acceptCookies.accesskey       "k">
 
 <!ENTITY  acceptThirdParty.label        "açetta i cookie de terçe parti">
 <!ENTITY  acceptThirdParty.accesskey    "c">
