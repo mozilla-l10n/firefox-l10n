@@ -124,6 +124,11 @@
 <!ENTITY site_settings_clear        "Rensa">
 <!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
 
+<!ENTITY add_to_reading_list "Lägg till i läslistan">
+<!ENTITY reading_list_added "Sidan finns nu i din läslista">
+<!ENTITY reading_list_removed "Sidan borttagen från din läslista">
+<!ENTITY reader_mode "Läsläge">
+
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
 <!ENTITY masterpassword_remove_title "Ta bort huvudlösenord">
 <!ENTITY masterpassword_password "Lösenord">
