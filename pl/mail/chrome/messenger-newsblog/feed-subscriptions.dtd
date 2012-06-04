@@ -29,5 +29,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Eksportuj">
 <!ENTITY button.exportOPML.accesskey "k">
+<!ENTITY button.exportOPML.tooltip "Eksport źródeł subskrypcji z zachowaniem struktury folderów; eksport jako lista z przytrzymanym klawiszem ctrl">
 
 <!ENTITY cmd.close.commandKey "w">

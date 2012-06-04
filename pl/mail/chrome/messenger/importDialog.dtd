@@ -25,14 +25,17 @@
 <!ENTITY importDescription2.label "Po zakończeniu importu wszystkie dane będą dostępne bezpośrednio w programie &brandShortName;.">
 
 <!ENTITY selectDescription.label     "Wybierz program lub format pliku, z którego będą importowane dane:">
+<!ENTITY selectDescriptionB.label "Wybierz istniejące konto lub utwórz nowe:">
 <!ENTITY selectDescription.accesskey "z">
+<!ENTITY acctName.label "Nazwa:">
+<!ENTITY acctName.accesskey "N">
 
 <!ENTITY back.label    "&lt; Wstecz">
 <!ENTITY forward.label "Dalej &gt;">
 <!ENTITY finish.label  "Zakończ">
 <!ENTITY cancel.label  "Anuluj">
 
-<!ENTITY select.label "lub wybierz rodzaj danych, które zostaną importowane:">
+<!ENTITY select.label "lub wybierz rodzaj danych, które zostaną zaimportowane:">
 
 <!ENTITY title.label      "Tytuł">
 <!ENTITY processing.label "Importowanie…">
