@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Configurando o &brandShortName;\u2026">
+<!ENTITY  splash_settingup "Configurando seu &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Estamos atualizando seus favoritos e histórico, o que pode levar alguns minutos.">
 
 <!ENTITY  no_space_to_start_error "Não há espaço disponível suficiente para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
@@ -27,20 +28,24 @@
 
 <!ENTITY awesomebar_default_text "Forneça uma pesquisa ou um endereço">
 
+<!ENTITY remote_tabs "Abas sincronizadas">
+<!ENTITY remote_tabs_show_all "Exibir todas as abas">
+
 <!ENTITY bookmark "Favoritar">
 <!ENTITY bookmark_added "Favorito adicionado">
 <!ENTITY bookmark_removed "Favorito excluído">
+<!ENTITY bookmark_updated "Favoritos atualizados">
 
 <!ENTITY history_today_section "Hoje">
 <!ENTITY history_yesterday_section "Ontem">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "Há 7 dias">
+<!ENTITY history_older_section "Há mais de 7 dias">
 
 <!ENTITY reload "Recarregar">
 <!ENTITY forward "Avançar">
 
 <!ENTITY new_tab "Nova aba">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY new_tab_opened "Aberta nova aba">
 
 <!ENTITY settings "Configurações">
 <!ENTITY settings_title "Configurações">
@@ -79,17 +84,24 @@
 <!ENTITY char_encoding "Codificação">
 
 <!ENTITY share "Compartilhar">
+<!ENTITY share_title "Compartilhar via">
 <!ENTITY save_as_pdf "Salvar como PDF">
 
 <!ENTITY contextmenu_open_new_tab "Abrir em nova aba">
-<!ENTITY contextmenu_remove_bookmark "Remove">
+<!ENTITY contextmenu_remove_bookmark "Excluir">
 <!ENTITY contextmenu_add_to_launcher "Adicionar à tela inicial">
 <!ENTITY contextmenu_share "Compartilhar">
+<!ENTITY contextmenu_edit_bookmark "Editar">
+
+<!ENTITY bookmark_edit_title "Editar favorito">
+<!ENTITY bookmark_edit_name "Nome">
+<!ENTITY bookmark_edit_location "Endereço">
+<!ENTITY bookmark_edit_keyword "Palavra-chave">
 
 <!ENTITY site_settings_title        "Limpar configurações do site">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpar">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_no_settings  "Não há configurações para limpar.">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
 <!ENTITY masterpassword_remove_title "Excluir a senha mestra">
@@ -103,8 +115,13 @@
 <!ENTITY abouthome_addons_browse "Todos os complementos do &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Suas abas anteriores">
 <!ENTITY abouthome_last_tabs_open "Abrir todas as abas anteriores">
-<!ENTITY abouthome_top_sites_title "Top sites">
+<!ENTITY abouthome_top_sites_title "Principais">
 <!ENTITY abouthome_top_sites_browse "Todos os sites principais">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
+<!ENTITY abouthome_no_top_sites "Você ainda não tem sites principais. Toque na barra de título para iniciar a navegação.">
+<!ENTITY abouthome_about_sync "Configure o Firefox Sync para acessar os favoritos, histórico e abas de seus outros dispositivos">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Selecionar arquivo">
+<!ENTITY filepicker_audio_title "Selecione ou grave um som">
+<!ENTITY filepicker_image_title "Selecione ou tire uma foto">
+<!ENTITY filepicker_video_title "Selecione ou grave um vídeo">
