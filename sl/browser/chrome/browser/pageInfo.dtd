@@ -98,6 +98,7 @@
 <!ENTITY permCookie "Nastavi piškote">
 <!ENTITY permInstall "Namesti razširitve in teme">
 <!ENTITY  permGeo               "Objavi položaj">
+<!ENTITY  permPlugins           "Omogoči vstavke">
 
 <!ENTITY  permIndexedDB              "Shramba za delo brez povezave">
 <!ENTITY  permClearStorage           "Počisti shrambo">
