@@ -72,6 +72,8 @@
 <!ENTITY bookmarks.folder.unfiled.label 'ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ'>
 <!ENTITY bookmarks.folder.desktop.label 'ਡੈਸਕਟਾਪ ਬੁੱਕਮਾਰਕ'>
 <!ENTITY bookmarks.folder.mobile.label 'ਮੋਬਾਇਲ ਬੁੱਕਮਾਰਕ'>
+<!ENTITY bookmarks.folder.readinglist.label 'ਪੜ੍ਹਨ ਸੂਚੀ'>
+
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'ਕੇਵਲ ਇੱਕ ਹੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਸਹਾਇਕ ਹੈ'>
