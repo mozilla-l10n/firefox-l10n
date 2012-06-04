@@ -72,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Osorterade bokmärken'>
 <!ENTITY bookmarks.folder.desktop.label 'Datorns bokmärken'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobila bokmärken'>
+<!ENTITY bookmarks.folder.readinglist.label 'Läslista'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
