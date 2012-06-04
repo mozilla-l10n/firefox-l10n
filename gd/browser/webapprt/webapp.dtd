@@ -35,15 +35,15 @@
 <!ENTITY cutCmd.label                       "Gearr às">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "G">
-<!ENTITY copyCmd.label                      "Copy">
+<!ENTITY copyCmd.label                      "Dèan lethbhreac">
 <!ENTITY copyCmd.key                        "C">
-<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY copyCmd.accesskey                  "D">
 <!ENTITY pasteCmd.label                     "Cuir ann">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "C">
 <!ENTITY deleteCmd.label                    "Sguab às">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "S">
-<!ENTITY selectAllCmd.label                 "Select All">
+<!ENTITY selectAllCmd.label                 "Tagh a h-uile">
 <!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "A">
+<!ENTITY selectAllCmd.accesskey             "T">
