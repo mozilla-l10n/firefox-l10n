@@ -68,7 +68,7 @@
 <!ENTITY  rememberHistory2.accesskey  "A">
 
 <!ENTITY  rememberSearchForm.label       "Aregòrda e riçèrche e a stöia di mòduli">
-<!ENTITY  rememberSearchForm.accesskey   "A">
+<!ENTITY  rememberSearchForm.accesskey   "l">
 
 <!ENTITY  clearOnClose.label             "Scancélla a stöia quàndo o &brandShortName; o se særa">
 <!ENTITY  clearOnClose.accesskey         "r">
