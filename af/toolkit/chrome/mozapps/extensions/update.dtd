@@ -47,8 +47,8 @@ kontroleer nie omdat sagteware-installering vir &brandShortName;
 gedeaktiveer is. Vra u stelseladministrateur vir bystand.">
 
 <!ENTITY  versioninfo.wizard.title        "Kontroleer tans versoenbaarheid van byvoegings">
-<!ENTITY  versioninfo.top.label           "Kontroleer tans of u byvoegings versoenbaar met hierdie weergawe van 
-&brandShortName; is.">
+<!ENTITY  versioninfo.top.label           "Kontroleer tans of u byvoegings versoenbaar is 
+met hierdie weergawe van brandShortName.">
 <!ENTITY  versioninfo.waiting             "Dit kan 'n paar minute duur…">
 
 <!ENTITY  installerrors.wizard.title      "Kon nie bywerkings installeer nie">
