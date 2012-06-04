@@ -48,5 +48,6 @@
 <!ENTITY bookmarks.folder.unfiled.label "Marcadores sin ordenar">
 <!ENTITY bookmarks.folder.desktop.label "Marcadores de escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
+<!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!ENTITY sync.notification.oneaccount.label "Sólo está permitida una cuenta de &syncBrand.fullName.label;.">
 <!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Pruebe de nuevo.">
