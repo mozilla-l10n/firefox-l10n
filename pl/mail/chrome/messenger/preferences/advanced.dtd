@@ -65,6 +65,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey  "o">
 <!ENTITY showUpdates.label            "Wyświetl historię aktualizacji">
 <!ENTITY showUpdates.accesskey        "W">
+<!ENTITY useService.label "Używaj usługi instalacji aktualizacji działającej w tle">
+<!ENTITY useService.accesskey "g">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label      "Ustawienia…">
