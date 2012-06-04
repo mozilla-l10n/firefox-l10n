@@ -20,7 +20,6 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Càrega sto segnalìbbro in sciâ bâra de sciànco">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "C">
 <!ENTITY editBookmarkOverlay.choose.label                    "Çèrni…">
-<!ENTITY editBookmarkOverlay.choose.accesskey                "i">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nêuva cartélla">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
 
