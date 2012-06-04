@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key	 "r">
 <!ENTITY replySenderCmd.label  "Vastaa vain lähettäjälle">
 <!ENTITY replySenderCmd.accesskey  "n">
-<!ENTITY replyNewsgroupCmd.label  "Vastaa ryhmään">
-<!ENTITY replyNewsgroupCmd.accesskey	 "r">
+<!ENTITY replyNewsgroupCmd2.label "Osoita vastaukset ryhmään">
+<!ENTITY replyNewsgroupCmd2.accesskey  "r">
 <!ENTITY replyToAllMsgCmd.label  "Vastaa kaikille">
 <!ENTITY replyToAllMsgCmd.accesskey	 "a">
 <!ENTITY replyToAllMsgCmd.key	 "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "T">
 <!ENTITY errorConsoleCmd.label  "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey  "V">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Tilien asetukset…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "o">
 <!ENTITY contextReplySender.label  "Vastaa vain lähettäjälle">
 <!ENTITY contextReplySender.accesskey  "n">
-<!ENTITY contextReplyNewsgroup.label  "Vastaa ryhmään">
-<!ENTITY contextReplyNewsgroup.accesskey  "r">
+<!ENTITY contextReplyNewsgroup2.label "Osoita vastaukset ryhmään">
+<!ENTITY contextReplyNewsgroup2.accesskey "r">
 <!ENTITY contextReplyAll.label  "Vastaa kaikille">
 <!ENTITY contextReplyAll.accesskey  "a">
 <!ENTITY contextReplyList.label "Vastaa listalle">

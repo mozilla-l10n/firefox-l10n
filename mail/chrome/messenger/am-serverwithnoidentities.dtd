@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label  "Tilien asetukset">
-<!ENTITY accountSettingsDesc.label  "Tämä on erikoistili, johon ei liity lainkaan käyttäjätietoja.">
 <!ENTITY accountName.label  "Tilin nimi:">
 <!ENTITY accountName.accesskey  "T">
-<!ENTITY messageStorage.label  "Viestien säilyttäminen">
-<!ENTITY emptyTrashOnExit.label  "Tyhjennä roskakori kun ohjelma lopetetaan">
-<!ENTITY emptyTrashOnExit.accesskey  "h">
-<!ENTITY localPath.label  "Paikallinen hakemisto:">
-<!ENTITY localFolderPicker.label  "Valitse paikalliskansioiden sijainti">
-<!ENTITY browseFolder.label  "Selaa…">
-<!ENTITY browseFolder.accesskey  "S">

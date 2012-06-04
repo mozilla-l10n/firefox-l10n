@@ -10,3 +10,4 @@
 <!ENTITY addAccountDialog.authorizing "Tarkistetaan oikeuksia...">
 <!ENTITY addAccountDialog.error "Tapahtui virhe luotaessa tiliä.">
 <!ENTITY addAccountDialog.acceptButton.label "Luo tili">
+<!ENTITY addAccountDialog.learnMore "Lue lisää…">
