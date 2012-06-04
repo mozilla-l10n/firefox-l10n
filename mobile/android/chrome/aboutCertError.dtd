@@ -24,7 +24,7 @@ a' gabhail air gur esan an làrach seo agus cha bu chòir dhut leantainn air adh
 <!ENTITY certerror.expert.content "Ma thuigeas tu na tha a' tachairt, 's urrainn dhut innse do 
 &brandShortName; earbsa a chur ann an dearbh-aithne na 
 làraich seo. <b>Fiù ma tha earbsa agad san làrach seo, dh'fhaodadh 
-gu bheil seo a' ciallachadh gu bheil cudeigin a' cur a-steach air a' cheangal agad.</b>">
+gu bheil seo a' ciallachadh gu bheil cuideigin a' cur a-steach air a' cheangal agad.</b>">
 <!ENTITY certerror.expert.contentPara2 "Na cuir eisgeachd ris ach ma tha fhios agad gu bheil 
 carson nach eil an làrach seo a' cleachdadh dearbh-aithne earbsach.">
 <!ENTITY certerror.addTemporaryException.label "Tadhail air">
