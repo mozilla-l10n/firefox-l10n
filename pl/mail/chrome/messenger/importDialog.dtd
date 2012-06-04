@@ -8,6 +8,8 @@
 <!ENTITY importAll.accesskey         "m">
 <!ENTITY importMail.label            "Wiadomości pocztowe">
 <!ENTITY importMail.accesskey        "W">
+<!ENTITY importFeeds.label "Subskrypcje źródeł">
+<!ENTITY importFeeds.accesskey "S">
 <!ENTITY importAddressbook.label     "Książki adresowe">
 <!ENTITY importAddressbook.accesskey "K">
 <!ENTITY importSettings.label        "Ustawienia">
