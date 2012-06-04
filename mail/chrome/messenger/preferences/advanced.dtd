@@ -59,6 +59,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey "е">
 <!ENTITY showUpdates.label "Показать журнал обновлений">
 <!ENTITY showUpdates.accesskey "ж">
+<!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
+<!ENTITY useService.accesskey "ф">
 <!ENTITY showSettings.label "Настроить…">
 <!ENTITY showSettings.accesskey "с">
 <!ENTITY proxiesConfigure.label "Настройка параметров соединения &brandShortName; с Интернетом">
