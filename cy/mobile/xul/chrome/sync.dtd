@@ -14,7 +14,7 @@
 <!ENTITY sync.account               "Enw Cyfrif">
 <!ENTITY sync.password              "Cyfrinair">
 <!ENTITY sync.recoveryKey           "Allwedd Adfer">
-<!ENTITY sync.customServer          "Denyddiwch weinydd cyfaddas">
+<!ENTITY sync.customServer          "Defnyddiwch weinydd cyfaddas">
 <!ENTITY sync.serverURL             "URL Gweinydd">
 <!ENTITY sync.setup.connect         "Cysylltu">
 <!ENTITY sync.setup.cancel          "Diddymu">

@@ -1,7 +1,7 @@
 <!ENTITY aboutPage.title                        "Ynghylch &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "Mae &brandShortName; yn arbrofol a gall fod yn ansad.">
 <!ENTITY aboutPage.telemetryStart               " Mae'n anfon yn awtomatig gwybodaeth am berfformiad, caledwedd, defnydd a chyfaddasu nôl i ">
-<!ENTITY aboutPage.telemetryMozillaLink         "Mae &vendorShortName;">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " i gynorthwyo i wneud &brandShortName; yn well.">
 <!ENTITY aboutPage.faq.label                    "Atebion">
 <!ENTITY aboutPage.support.label                "Cefnogaeth">

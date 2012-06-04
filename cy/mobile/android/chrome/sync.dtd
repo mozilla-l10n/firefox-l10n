@@ -22,6 +22,6 @@
 <!ENTITY sync.setup.waiting2        "Aros am y ddyfais arall…">
 
 <!ENTITY sync.pair.title            "Paru Dyfais">
-<!ENTITY sync.pair.description      "I weithredu dyfais newydd, dewisiwch &#x0022;Creu Sync&#x0022; ar y ddyfais.">
+<!ENTITY sync.pair.description      "I weithredu dyfais newydd, dewiswch &#x0022;Creu Sync&#x0022; ar y ddyfais.">
 <!ENTITY sync.setup.close           "Cau">
 <!ENTITY sync.setup.waitingdownload "Mae eich data'n cael ei lwytho i lawr yn y cefndir. Mae modd cau'r ffenestr hon ar unrhyw adeg.">
