@@ -7,6 +7,7 @@
 <!ENTITY chromeDebuggerMenu.label "Отладчик браузера">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
+<!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
 <!ENTITY debuggerUI.stepOverButton.tooltip "Перешагнуть">
 <!ENTITY debuggerUI.stepInButton.tooltip "Зайти">
 <!ENTITY debuggerUI.stepOutButton.tooltip "Выйти">
