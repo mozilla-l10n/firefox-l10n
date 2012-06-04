@@ -19,7 +19,7 @@
 <!ENTITY permission.block                "Gagay">
 
 <!ENTITY password.label                  "Šennikufaley jiši">
-<!ENTITY password.manage                 "Šennikufaley juwal...">
+<!ENTITY password.manage                 "Šennikufaley juwal…">
 
 <!ENTITY cookie.label                    "Aleewawey kayandi">
 <!ENTITY cookie.remove                   "Aleewawey kaa">
@@ -27,6 +27,8 @@
 <!ENTITY cookie.removeAll                "Aleewawey kul kaa">
 
 <!ENTITY geo.label                       "Gorodoo žemna">
+
+<!ENTITY plugins.label                   "Sukarey">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 

@@ -14,7 +14,7 @@
 <!ENTITY     props.domain.label             "Zunbudoo:">
 <!ENTITY     props.path.label               "Fondo:">
 <!ENTITY     props.secure.label             "Sanba woo še:">
-<!ENTITY     props.expires.label            "Waati ga ben:">
+<!ENTITY     props.expires.label            "Waatoo ga ben:">
 
 <!ENTITY     window.title                   "Aleewawey">
 <!ENTITY     windowClose.key                "w">

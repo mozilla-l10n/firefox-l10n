@@ -113,7 +113,7 @@ waati-waati haya, adiši war ga ceeci taaga nd'a too kayna.</li>
 <!ENTITY sharedLongDesc2 "<ul> 
 <li>Nungoo mana hin ka duwandi waati foo ra wal'a cindi goy ra. Ceeci koyne nd'a too kayna.</li> 
 <li>Nda war ši hin ka moo kul zumandi, war jinaa bayhayey wala hewbande ciyaroo koroši.</li> 
-">
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">

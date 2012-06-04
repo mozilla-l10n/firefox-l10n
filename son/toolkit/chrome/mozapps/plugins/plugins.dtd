@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ga hima ka tunandi taaga hala sukarey ma duu ka goy.">
 
 <!ENTITY missingPlugin                                       "Sukari ga waažibi ka gundekunaa woo cebe.">
-<!ENTITY clickToPlayPlugin                                   "Kar ne ka sukaroo dirandi.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Kar ne ka sukaroo dirandi.">
+<!ENTITY clickToPlayPlugins                                  "Naagu ne ka sukaroo tunandi.">
 <!ENTITY disabledPlugin                                      "Sukaroo n' ka hun goy.">
 <!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi war da boŋ-daabaa še.">
 

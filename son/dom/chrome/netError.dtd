@@ -13,16 +13,16 @@
 <!ENTITY dnsNotFound.longDesc "<p>Ceecikaa mana hin ka duu zunbudoo feršikaa aderesoo kaŋ noondi ga.</p><ul><li>War n' ka firka tee laamaa hantumoo ra? (sanda <q><strong>ww</strong>.mozilla.org</q> manti <q><strong>www</strong>.mozilla.org</q>)</li><li>War ga alhakiika kaŋ laama aderesoo woo ga bara?  A ga hin ka tee da kaŋ nga maa-hantumoo waatoo buu.</li><li>War ši hin ka nungu tana fooyaŋ naaru da?  War sanka ciyaroo nda DNS feršikaa kayandiyaney koroši koyne.</li><li>Nuneceta wala tokore ma war ordinateroo wala sankaa jejebu?  Kayandiyan laalayaŋ ga hin ka war Interneti naarumey nakaši.</li></ul>">
 
 <!ENTITY fileNotFound.title "Tukoo mana duwandi">
-<!ENTITY fileNotFound.longDesc "<ul><li>A ga hin ka tee kaŋ hayiizoo n'ka maa-barmandi, ganandi, berandi doo taaga ra?</li><li>Boŋhantum, harfu beerandiyan, wala hantum firka goo aderesoo ra?</li><li>War goo nda fondo wasanta hayiizoo kaŋ war n'a wiri se?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>A ga hin ka tee kaŋ hayiizoo n'ka maa-barmandi, ganandi, berandi doo taaga ra?</li><li>Boŋhantum, harfu beerandiyan, wala hantum firka goo aderesoo ra?</li><li>War goo nda fondo wasanta hayiizoo kaŋ war n'a wiri še?</li></ul>">
 
 <!ENTITY generic.title "Ši hin ka hãayanoo timmandi">
 <!ENTITY generic.longDesc "<p>Alhabar tontonante ga bara sohõ šendaa wala firkaa woo ga.</p>">
 
 <!ENTITY malformedURI.title "Aderesoo ši boori">
-<!ENTITY malformedURI.longDesc "<p>Aderesoo kaŋ noondi mana fasal taka bayante ra. Taare doo žeeroo koroši firkawey se, de war ma ceeci koyne.</p>">
+<!ENTITY malformedURI.longDesc "<p>Aderesoo kaŋ noondi mana fasal taka bayante ra. Taare doo žeeroo koroši firkawey še, de war ma ceeci koyne.</p>">
 
 <!ENTITY netInterrupt.title "Bayhayey berandiri kay">
-<!ENTITY netInterrupt.longDesc "<p>Ceecikaa ciya boryo, amma ciyaroo kay waatoo kaŋ alhabarey goo ma berandi.  Taare wa ceeci koyne.</p><ul><li>War n'ka ši hin ka tataaru nungu tanayaŋ naaru? War ordinateroo ciyaroo koroši koyne.</li><li>Šenday goo hala sohõ? Wa war sankaa juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Ceecikaa ciya boryo, amma ciyaroo kay waatoo kaŋ alhabarey goo ma berandi.  Taare wa ceeci koyne.</p><ul><li>War n'ka ši hin ka Interneti nungu tanayaŋ naaru? War ordinateroo ciyaroo koroši koyne.</li><li>Šenday goo hala sohõ? Wa war sankaa juwalkaa wala Interneti nookaa cee faaba še.</li></ul>">
 
 <!ENTITY notCached.title "Takaddaa waatoo ben">
 <!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara ceecikaa lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, ceecikaa ši sutura takkadi wiri nga boŋ še. </li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
@@ -35,7 +35,7 @@
 
 <!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Ciyaroo kay">
@@ -45,13 +45,13 @@
 <!ENTITY netTimeout.longDesc "<p>Nungoo kaŋ war n'a ceeci ši tuuru ciyari še nda ceecikaa ši zaabi batu koyne.</p><ul><li>A ga hin ka tee kaŋ feršikaa goo goy šenda ra wala a ši goy ra?  Taare ceeci koyne.</li><li>War ši hin ka nungu tanayaŋ ceeci? War ordinateroo sankay ciyaroo koroši koyne.</li><li>Nuneceta wala tokore ga war ordinateroo wala sankaa jejebu?  Kayandiyan laalayaŋ ga hin ka war Interneti naarumaa nakaši.</li><li>Šenday goo no hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba še.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Berehaw šibayante">
-<!ENTITY protocolNotFound.longDesc "<p>Aderesoo ga berehaw tabatandi (sanda <q>wxyz://</q>) kaŋ feršikaa ši a bay, adiši ceecikaa ši hin ka nungoo cee ka boori.</p><ul><li>War n'ma wiri ka too heenandikaw boobo wala manti-hantum goyyaŋ doo? Nungoo ceeci ka waažibi tontoney bay.</li><li>A hin ka tee kaŋ berehawey ga baa goyjinay waaniyaŋ wala sukariyan hala i ga hin ka tontoney bay.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>Aderesoo ga berehaw tabatandi (sanda <q>wxyz://</q>) kaŋ feršikaa ši a bay, adiši ceecikaa ši hin ka nungoo cee ka boori.</p><ul><li>War n'ma wiri ka too hẽenandikaw boobo wala manti-hantum goyyaŋ doo? Nungoo ceeci ka waažibi tontoney bay.</li><li>A hin ka tee kaŋ berehawey ga baa goyjinay waaniyaŋ wala sukariyaŋ hala i ga hin ka tontoney bay.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Tokore feršikaa wanga ciyaroo">
-<!ENTITY proxyConnectFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaa, amma tokoraa wanga ciyaroo.</p><ul><li>Ceecikaa tokore hanseyanoo ga boori wala? Hanseyaney koroši, de ma ceeci koyne.</li><li>Tokore goydoo ga yadda ciyarey kaŋ ga hun sankaa woo doo ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaa, amma tokoraa wanga ciyaroo.</p><ul><li>Ceecikaa tokore hanseyanoo ga boori wala? Hanseyaney koroši, de ma ceeci koyne.</li><li>Tokore goydoo ga yadda ciyarey kaŋ ga hun sankaa woo doo ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba še.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Tokore feršikaa mana duwandi">
-<!ENTITY proxyResolveFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaw, tokoraa ši hin ka duwandi.</p><ul><li>War ceecikaw tokore hanseyaney ga boori? Hanseyaney koroši, de ma ceeci koyne.</li><li>War ordinateroo ga dobu sankaw goyante ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaw, tokoraa ši hin ka duwandi.</p><ul><li>War ceecikaw tokore hanseyaney ga boori? Hanseyaney koroši, de ma ceeci koyne.</li><li>War ordinateroo ga dobu sankaw goyante ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba še.</li></ul>">
 
 <!ENTITY redirectLoop.title "Moɲoo mana bisandi taaga boryo">
 <!ENTITY redirectLoop.longDesc "<p>Ceecikaa na hayiizoo kaŋ war wiri k'a soolom naŋ. Nungoo goo ma war hãayanoo bisandi taaga nda taka kaŋ ši timme abada.</p><ul><li>War n'ka aleewawey kaŋ ga waažibandi nungoo še kayandi wala k'i gagayandi?</li><li><em>NOTE</em>: Nda feršikaa aleewawey taaroo ši šendaa benandi, a ga hin ka tee hanseyan šenday no kaŋ duu war feršikaa nda war ordinateroo.</li></ul>">

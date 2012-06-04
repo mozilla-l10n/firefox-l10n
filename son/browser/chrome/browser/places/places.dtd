@@ -37,8 +37,8 @@
 
 <!ENTITY cmd.backup.label               "Banda-gaabu…">
 <!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             "Willi taka jinaa ga">
-<!ENTITY cmd.restore2.accesskey         "W">
+<!ENTITY cmd.restore2.label             "Yeeti aššiloo ga">
+<!ENTITY cmd.restore2.accesskey         "Y">
 <!ENTITY cmd.restoreFromFile.label      "Tuku suuba…">
 <!ENTITY cmd.restoreFromFile.accesskey  "s">
 

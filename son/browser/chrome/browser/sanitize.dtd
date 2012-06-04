@@ -44,7 +44,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "A">
 <!ENTITY itemCache.label                   "Tugudoo">
 <!ENTITY itemCache.accesskey               "g">
-<!ENTITY itemOfflineApps.label             "Bila-nda-ciyari tataaru nungu bayhayey">
+<!ENTITY itemOfflineApps.label             "Bila-nda-ciyari Interneti nungu bayhayey">
 <!ENTITY itemOfflineApps.accesskey         "B">
 <!ENTITY itemDownloadHistory.label         "Zumandiyan taariki">
 <!ENTITY itemDownloadHistory.accesskey     "Z">

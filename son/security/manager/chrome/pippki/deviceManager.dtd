@@ -57,7 +57,7 @@
 <!ENTITY devmgr.button.unload.accesskey         "J">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "Alhabar dam dunboo kaŋ war baa k'a tonton se.">
+<!ENTITY loaddevice.info                        "Alhabar dam dunboo kaŋ war baa k'a tonton še.">
 <!ENTITY loaddevice.modname                     "Dunbu maa:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "PKCS#11 dunbu taaga">

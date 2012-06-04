@@ -1,10 +1,10 @@
 <!ENTITY  updateWizard.title              "Goyjinay taagandiri">
 
 <!ENTITY  checking.title                  "Taagandirey guna">
-<!ENTITY  updateCheck.label               "Goo ma dumi taagayaŋ guna &brandShortName; se…">
+<!ENTITY  updateCheck.label               "Goo ma dumi taagayaŋ guna &brandShortName; še…">
 
-<!ENTITY  pluginupdatesfound.title        "Duu taagandiriyaŋ sukarey se">
-<!ENTITY  pluginupdatesfound.label        "Dumi taagayaŋ duwandi sukari foo wala ibooboyaŋ se.">
+<!ENTITY  pluginupdatesfound.title        "Duu taagandiriyaŋ sukarey še">
+<!ENTITY  pluginupdatesfound.label        "Dumi taagayaŋ duwandi sukari foo wala ibooboyaŋ še.">
 <!ENTITY  pluginupdateslink.label         "Dii taka kaŋ nda sukarey ga taagandi.">
 
 <!ENTITY  noupdatesfound.title            "Taagandiri kul mana duwandi">
@@ -14,7 +14,7 @@ waati foo-foo wala taagandiryaŋ ga bangay">
 
 <!ENTITY  manualUpdate.title              "Taagandiri ši hin ka tee">
 <!ENTITY  manualUpdate.desc               "Saajaw fellante nda gorandiyan taagandiri goo no. amma war ši 
-nda dabariɲaa fondawey kaŋ ka waažibi ngi sinjiyanoo se. Taare war ma war 
+nda dabariɲaa fondawey kaŋ ka waažibi ngi sinjiyanoo še. Taare war ma war 
 dabariɲaa juwalkaa hãa, wala war ma ceeci koyne nda kontu foo kaŋ goo nda duɲe ka 
 goyjinay sinji ordinateroo woo ra.">
 <!ENTITY  manualUpdate.space.desc         "Saajaw nda tabatiyan tagandiri foo goo kaŋ yaamarandi, amma war ši nda 

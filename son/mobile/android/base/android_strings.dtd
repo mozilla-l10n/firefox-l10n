@@ -11,8 +11,8 @@
 <!ENTITY  awesomebar_search_engine "\&quot;&#037;s\&quot; guna">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kaŋyan bayrandikaw">
-<!ENTITY  crash_message "&brandShortName; kaŋ. War nor lokey ga hima ka bangay &brandShortName; šintin moɲoo ga nd'a ga tun taaga.">
-<!ENTITY  crash_help_message "Taare w'ir gaa ka šendaa woo kaa!">
+<!ENTITY  crash_message "&brandShortName; kaŋ. War nor lokey ga hima ka bangay &brandShortName; šintin moɲoo ga nd’a ga tun taaga.">
+<!ENTITY  crash_help_message "Taare w’ir gaa ka šendaa woo kaa!">
 <!ENTITY  crash_send_report_message "Kaŋyan bayrandi sanba Mozilla do">
 <!ENTITY  crash_include_url "Moɲoo aderesoo dam">
 <!ENTITY  crash_close_label "Daabu">
@@ -21,7 +21,7 @@
 <!ENTITY  exit_label "Fatta">
 <!ENTITY  continue_label "Koy jine">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; web porogaramey ">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; web porogaramey">
 <!ENTITY  launcher_shortcuts_empty "Web porogaram kul ši duwandi">
 
 <!ENTITY choose_file "Tuku suuba">
@@ -59,7 +59,7 @@
 <!ENTITY pref_cookies "Aleewawey tunandi">
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
-<!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši\ cebandi">
+<!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
 <!ENTITY pref_clear_history "Taarikoo tuusu">
 <!ENTITY pref_clear_history_confirm "Ceeciyan taarikoo ga tuusandi">
 <!ENTITY pref_clear_private_data "Sutura bayhayey tuusu">
@@ -122,6 +122,6 @@
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
 <!ENTITY filepicker_title "Tuku suuba">
-<!ENTITY filepicker_audio_title "Jinde foo suuba wal'a jiši">
-<!ENTITY filepicker_image_title "Bii foo suuba wal'a zaa">
-<!ENTITY filepicker_video_title "Widewo foo suuba wal'a zaa">
+<!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
+<!ENTITY filepicker_image_title "Bii foo suuba wal’a zaa">
+<!ENTITY filepicker_video_title "Widewo foo suuba wal’a zaa">

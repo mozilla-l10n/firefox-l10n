@@ -45,7 +45,7 @@
 <!ENTITY setPassword.meter.loading "Goo ma zunandi">
 <!-- Values for resetpassword.xul -->
 
-<!ENTITY resetPasswordButtonLabel "Yeeri">
+<!ENTITY resetPasswordButtonLabel "Yeeti">
 <!ENTITY resetPassword.title  "Takaddaɲaa šennikufal yeeri">
 <!ENTITY resetPassword.text  "Nda war na war takaddaɲaa šennikufaloo yeeri, war tataaru nungu nda bataga šennikufaley kul, war takari bayhayey, boŋše tabatiyan-tiirawey nda sutura kufaley kul ga dere. Alhakiika war ga baa ka war takaddaɲaa šennikufaloo yeeri?">
 <!-- Values for getpassword.xul -->
@@ -117,7 +117,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Goo ma sutura kufal kaataray">
-<!ENTITY createCertInfo.msg1 "Kufal kaatarayyan goo fondaa ra… Woo ga hin ga gay miniti fooyaŋ…">
+<!ENTITY createCertInfo.msg1 "Kufal kaatarayyanoo goo fondaa ra… Woo ga hin ga too minitiyaŋ….">
 <!ENTITY createCertInfo.msg2 "Taare batu…">
 <!-- Form Signing confirmation prompt -->
 

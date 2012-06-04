@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "&brandShortName; ga">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ti šiyyan dumi kaŋ ši hima tabatante.">
+<!ENTITY aboutPage.telemetryStart               " A ga alhabar sanba nga boŋ še teeyan-gaabi, jinay šenda, goyyan nda boŋše-hanseyan">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName; do">
+<!ENTITY aboutPage.telemetryEnd                 " ka gaa ka &brandShortName; boryandi.">
 <!ENTITY aboutPage.checkForUpdates.link         "Taagandirey koroši »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Goo ma taagandirey guna...">
 <!ENTITY aboutPage.checkForUpdates.none         "Taagandiri kul ši bara">

@@ -14,7 +14,7 @@
 <!ENTITY listEmpty.button.label               "Tontoney wey bay ka tonton">
 <!ENTITY installAddonFromFile.label           "Sinji tontoni tuku boŋ…">
 <!ENTITY installAddonFromFile.accesskey       "i">
-<!ENTITY toolsMenu.tooltip                    "Goyjinayyaŋ tontoney kul se">
+<!ENTITY toolsMenu.tooltip                    "Goyjinayyaŋ tontoney kul še">
 
 <!ENTITY cmd.back.tooltip                     "Yee banda nda moo foo">
 <!ENTITY cmd.forward.tooltip                  "Koy jine nda moo foo">

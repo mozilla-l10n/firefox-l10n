@@ -26,7 +26,7 @@
 <!ENTITY allPagesHeader.label      "Moɲey kul">
 <!ENTITY bookmarksHeader.label     "Doo-šilbawey">
 <!ENTITY historyHeader.label       "Taariki">
-<!ENTITY desktopHeader.label       "Goytaabal">
+<!ENTITY desktopHeader.label       "Ordinater">
 
 <!ENTITY editBookmarkDialog.title  "Doo-šilbaa fasal">
 <!ENTITY editBookmarkDone.label    "Timme">

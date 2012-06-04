@@ -6,10 +6,10 @@
 
 <!ENTITY safeb.palm.message.p2.start 'Darga tataaru nungey wey dumey no ma tee zanba se, kaŋ se i ga nee "phishing" zanbarey, kaŋ ra zanba tataaru mooyaŋ wala batagayaŋ k&apos;alhiile ka aššil naanayantey ženti. War ga hin ka bay misoo woo ga ka tonton '>
 <!ENTITY safeb.palm.message.p2.linkText "taka kaŋ nda &brandShortName; ga war jejebu">
-<!ENTITY safeb.palm.message.p2.end "zanba furarey ga">
+<!ENTITY safeb.palm.message.p2.end " zanba furarey ga">
 
 <!ENTITY safeb.palm.accept.label "Ay kaataray ne!">
-<!ENTITY safeb.palm.accept.statustext "Naaru ay sintin moɲoo doo">
+<!ENTITY safeb.palm.accept.statustext "Naaru ay šintin moɲoo do">
 <!ENTITY safeb.palm.decline.label "Yaamaroo woo muray">
 <!ENTITY safeb.palm.decline.statustext "Yaamaroo daabu" >
 <!ENTITY safeb.palm.notforgery.label2 "Woo manti Interneti zanba doo…">

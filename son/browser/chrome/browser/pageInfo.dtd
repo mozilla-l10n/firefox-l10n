@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Aleewawey kayandi">
 <!ENTITY  permInstall           "Dobuyaney wala furarey sinji">
 <!ENTITY  permGeo               "Gorodoo žemna">
+<!ENTITY  permPlugins           "Sukarey dirandi">
 
 <!ENTITY  permIndexedDB              "Bila nda ciyari jišidoo gaabu">
 <!ENTITY  permClearStorage           "Jišidoo koonandi">

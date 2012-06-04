@@ -6,7 +6,7 @@
 <!ENTITY select.heading              "War tontoney suuba">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Wa &brandShortName; cahãndi ka tonton nda war na tontoney kaŋ ši goy kayandi. Tontoney da kaŋ boro tanayaŋ n'i sinji ga kayandi ngey boŋše nda war hunday man'i suuba ganda.">
+<!ENTITY select.description          "Wa &brandShortName; cahãndi ka tonton nda war na tontoney kaŋ ši goy kayandi. Tontoney da kaŋ boro tanayaŋ n'i sinji ga kayandi ngey boŋ še nda war hunday man'i suuba ganda.">
 <!ENTITY select.keep                 "Gaabu">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->

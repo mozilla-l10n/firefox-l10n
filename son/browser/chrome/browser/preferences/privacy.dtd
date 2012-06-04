@@ -41,7 +41,7 @@
 <!ENTITY  historyHeader.custom.label       "Hanse bonše taariku še goyandi">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ga honga war naaru, zumandi, takari nda ceeciyan taariku, nd'a ga aleewawey kaŋ hun war tataaru nungey ra gaabu.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ga honga war naaru, zumandi, takari nda ceeciyan taariki, nd'a ga aleewawey kaŋ hun war Interneti nungey ra gaabu.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->

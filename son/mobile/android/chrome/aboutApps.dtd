@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "War porogaramey">
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+
+<!ENTITY aboutApps.noApps.pre "Internet porogaram kul mana sinja. Affooyaŋ zaa ">
+<!ENTITY aboutApps.noApps.middle "porogaram mangasaa ra">
+<!ENTITY aboutApps.noApps.post ".">

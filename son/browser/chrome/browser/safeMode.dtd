@@ -48,8 +48,8 @@
 <!ENTITY disableAddons.label          "Tontoney kul kayandi">
 <!ENTITY disableAddons.accesskey      "k">
 
-<!ENTITY resetToolbars.label          "Goyjinay žeerey nda dabarey willi lasaloo ga">
-<!ENTITY resetToolbars.accesskey      "w">
+<!ENTITY resetToolbars.label          "Goyjinay žeerey nda dabarey yeeti lasaloo ga">
+<!ENTITY resetToolbars.accesskey      "y">
 
 <!ENTITY deleteBookmarks.label        "Doo-šilbawey kul tuusu nda manti banda-gaabey">
 <!ENTITY deleteBookmarks.accesskey    "D">

@@ -1,5 +1,9 @@
 <!ENTITY aboutPage.title                        "&brandShortName; ga">
-<!ENTITY aboutPage.faq.label                    "Hãayan nda zaabi">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ti šiyyan dumi kaŋ ši hima tabatante.">
+<!ENTITY aboutPage.telemetryStart               " A ga alhabar sanba nga boŋ še teeyan sahã, jinay šenda, goyyan nda boŋše-hanseyaney ka willi ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName; do">
+<!ENTITY aboutPage.telemetryEnd                 " ka gaa ka &brandShortName; boryandi.">
+<!ENTITY aboutPage.faq.label                    "FAQ (Hãayan nda zaabi)">
 <!ENTITY aboutPage.support.label                "Faaba">
 <!ENTITY aboutPage.privacyPolicy.label          "Sutura laada">
 <!ENTITY aboutPage.rights.label                 "War alhakey bay">

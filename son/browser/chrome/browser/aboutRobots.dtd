@@ -8,7 +8,7 @@
 
 <!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
-<!ENTITY robots.errorTitleText "Kubayni addamayzey! Ay soolu war še.">
+<!ENTITY robots.errorTitleText "Kubay war addamayzey! Ay soolu war še.">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "Ir kaa nda alaafiya nda anniya henna!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->

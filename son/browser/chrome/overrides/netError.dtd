@@ -100,12 +100,10 @@ goy ra.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Ciyari saajante kay">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Moɲoo kaŋ war ga ceeci ka dii ya ši hin ka cebandi zama bayhaya duwantey tabatandiyanoo ši hin ka korosandi.</li> 
+<li>Taare war Interneti nungu koyey hãa ka šendaa woo bayrandi i še. Wala juwaloo kaŋ fatta faaba šilbayboŋoo ra ka nungu hasarantaa bayrandi.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Ciyari saajante kay">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -148,8 +146,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo še.</p>  
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo še.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL moora">

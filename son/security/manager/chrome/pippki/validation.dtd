@@ -61,7 +61,7 @@
 <!ENTITY  crl.issuer.label                        "Na duɲe kaddasu-yeeri šeedaa tee:">
 <!ENTITY  crl.issuer.org.label                    "Goykonda: ">
 <!ENTITY  crl.issuer.orgunit.label                "Haya-ize: ">
-<!ENTITY  crl.import.nextupdate.label             "Hiinoo taagandiroo hanoo: ">
+<!ENTITY  crl.import.nextupdate.label             "Hiinoo taagandiri hanoo: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Taagandiri jinawey kaŋyaŋ say: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Taagandiri koraa sayroo šilbayhayey: ">
 <!ENTITY  edit.button                             "Kayandiyaney">

@@ -10,7 +10,7 @@
 <!ENTITY sync.title.pair.label "Jinay foo margandi">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'Ka war jinay taagaa dirandi, "&syncBrand.shortName.label; kayandiyan” suuba jinaa ga.'>
+<!ENTITY sync.subtitle.connect.label "Ka war jinay taagaa dirandi, “&syncBrand.shortName.label; kayandiyan” suuba jinaa ga.">
 <!ENTITY sync.subtitle.header.label "Tammaasaa woo dam war ordinateroo ga">
 <!ENTITY sync.subtitle.connectlocation.label "“&sync.title.pair.label;” zaa war ordinateroo Firefox &syncBrand.shortName.label; suubarey dunboo ra.">
 <!ENTITY sync.subtitle.pair.label "Ka dirandi, wa “Jinay foo margandi” suuba war jinay faa ga.">
@@ -70,3 +70,6 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu foo hinne ma kanbandi.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect "Yeetiyan kufal laala. Ceeci koyne taare.">

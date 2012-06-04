@@ -5,8 +5,8 @@
 <!ENTITY  error_loading_file "Firka bangay waati kaŋ a ceeci ka &brandShortName; tunandi tukey zumandi">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kaŋyan bayrandikaw">
-<!ENTITY  crash_message "&brandShortName; kaŋ. War nor lokey maaɲey ši hima ka hantumandi &brandShortName; šintin moɲoo ga nga war g'a tunandi hiino.">
-<!ENTITY  crash_help_message "Taare w'ir gaa ka šendaa woo kaa!">
+<!ENTITY  crash_message "&brandShortName; kaŋ. A ga tee kaŋ war nor lokey ši bangay &brandShortName; šintin moɲoo ga nd’a ga tun taaga hiino.">
+<!ENTITY  crash_help_message "Taare w’ir gaa ka šendaa woo kaa!">
 <!ENTITY  crash_send_report_message "Kaŋyan bayrandi sanba Mozilla do">
 <!ENTITY  crash_include_url "Moɲoo aderesoo dam">
 <!ENTITY  crash_close_label "Daabu">
