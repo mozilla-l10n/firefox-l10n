@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "Kuva mu Fayiro ya HTML">
-<!ENTITY importFromHTMLFile.accesskey   "K">
 
 <!ENTITY noMigrationSources.label       "Ttewali pulogulamu ezirina obulabe, ebyafayo oba akasumulizzo ka wiinoenyiza ku labikwa.">
 

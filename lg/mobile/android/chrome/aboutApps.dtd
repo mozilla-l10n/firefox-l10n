@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "Pulogulamu Zzo">
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+
+<!ENTITY aboutApps.noApps.pre "Tewali pulogulamu zakumutimbagan zitekeddwamu. Funna ezimu okuva ">
+<!ENTITY aboutApps.noApps.middle "mu sitowa ya zzo">
+<!ENTITY aboutApps.noApps.post ".">

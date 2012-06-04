@@ -70,3 +70,6 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Akaunta emu yoka eya &syncBrand.fullName.label; ewagirwa.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect "Akasumuluzoko Akokuzawo kakyamu. Bambi gezako natte.">

@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Tegeka Kuki">
 <!ENTITY  permInstall           "Tekaa mu  obwongerezebwako oba endabika">
 <!ENTITY  permGeo               "Gabanya Ekifo">
+<!ENTITY  permPlugins           "Tandika Ebigatibwamu">
 
 <!ENTITY  permIndexedDB              "Labirira Eterekero Elitayingidwa ku Mukutu">
 <!ENTITY  permClearStorage           "Jjawo Eterekero">

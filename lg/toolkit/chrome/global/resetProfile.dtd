@@ -8,6 +8,6 @@
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; ejja kutandika buto era ebirala byoona bijja kujjibwawo.">
 <!ENTITY resetProfile.dialog.button.label "Zaayo &brandShortName;">
 
-<!ENTITY resetProfile.title               "Reset &brandShortName; to its default state">
-<!ENTITY resetProfile.description         "If you're having major problems which you can't resolve, start fresh with only your essential information.">
+<!ENTITY resetProfile.title               "Zzayo &brandShortName; mu mbera eyenkalakalira">
+<!ENTITY resetProfile.description         "Bwoba nga olin ebizibu ebya manyi byo tasoobola kwemalira, tandika buto no obubaka bwewetaaga bwoka.">
 <!ENTITY resetProfile.button.label        "Zaayo &brandShortName;">

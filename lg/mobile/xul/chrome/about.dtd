@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Ebikwata ku &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; yakugezesa era eyinza okuba nga sintebenkevu.">
+<!ENTITY aboutPage.telemetryStart               " ewereza obubaka obukwata ku nkola, ebyuma, enkozesa ne entegeka ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " okyamba mu kulungiya &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Yamba">
 <!ENTITY aboutPage.privacyPolicy.label          "Enkola eyekyama egobelerwa">

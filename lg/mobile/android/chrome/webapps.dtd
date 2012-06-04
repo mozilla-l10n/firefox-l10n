@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Yingiza omutwe">
-<!ENTITY webapps.permissions "Kiriza okuyingira:">
-<!ENTITY webapps.perm.geolocation "Okunonya okumanyi ekifo">
-<!ENTITY webapps.perm.offline "Eterekero lya bwino nga ovude kumutimbagano">
-<!ENTITY webapps.perm.notifications "Okutegezebwa ku meza">
-<!ENTITY webapps.perm.requestedHint "(kisabiddwa)">
-<!ENTITY webapps.add-homescreen "Yongera ku sikulini y'eka">
