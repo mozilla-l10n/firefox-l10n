@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Ustawienia niechcianej poczty">
 
 <!ENTITY trainingDescription.label "Po włączeniu filtru należy nauczyć program &brandShortName; rozpoznawania pożądanych i niepożądanych wiadomości za pomocą przycisku „Niechciana” na pasku narzędzi. Należy odpowiednio oznaczać wiadomości pożądane i niepożądane, dopóki skuteczność automatycznego filtrowania niechcianej poczty nie będzie satysfakcjonująca.">

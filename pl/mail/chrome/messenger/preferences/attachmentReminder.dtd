@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY attachmentReminderDialog.title "Przypomnienia o brakujących załącznikach">
 <!ENTITY attachKeywordText.label        "Program &brandShortName; ostrzeże przed wysłaniem wiadomości bez załączników, gdy w treści wystąpi przynajmniej jedno z następujących słów kluczowych:">
 <!ENTITY addKeywordButton.label         "Dodaj">

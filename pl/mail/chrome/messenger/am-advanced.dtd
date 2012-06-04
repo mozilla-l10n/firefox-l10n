@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY smtpServer.label "Konfiguracja serwera poczty wychodzącej (SMTP)">
 
 <!ENTITY smtpDescription.label "Podczas zarządzania tożsamościami można wskazać dowolny serwer z poniższej listy jako „Serwer poczty wychodzącej (SMTP)” lub użyć serwera ustawionego jako domyślny na tej liście, wybierając „Użyj domyślnego serwera”.">

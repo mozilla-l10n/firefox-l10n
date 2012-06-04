@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Informacje o filtrze niechcianej poczty">
 <!ENTITY window.width "500">
 <!ENTITY info1a.label "&brandShortName; automatycznie rozpoznaje przychodzące wiadomości, które najprawdopodobniej są niepożądane (takie jak niezamówione reklamy). Każda wiadomość rozpoznana jako niechciana zostanie oznaczona za pomocą ikony niechcianej poczty">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY MsgSynchronize.label    "Pobierz i zsynchronizuj wiadomości">
 <!ENTITY MsgSelect.label         "Elementy dostępne offline">
 <!ENTITY MsgSyncDesc.label       "Jeżeli uprzednio dokonano wyboru folderów poczty i grup dyskusyjnych dostępnych w trybie offline, można teraz rozpocząć ich pobieranie i synchronizację. W przeciwnym wypadku należy nacisnąć przycisk Konfiguruj, aby zaznaczyć foldery poczty i grupy dyskusyjne, które będą dostępne w trybie offline.">
