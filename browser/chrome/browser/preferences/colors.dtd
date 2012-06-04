@@ -2,15 +2,15 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permétti a-e pàgine de scélie i coî">
+<!ENTITY  allowPagesToUse.label           "Permétti a-e pàgine de çèrne i coî">
 <!ENTITY  allowPagesToUse.accesskey       "a">
 
-<!ENTITY  color                           "Testo e sfondo">
-<!ENTITY  textColor.label                 "Testo:">
+<!ENTITY  color                           "Tésto e sfondo">
+<!ENTITY  textColor.label                 "Tésto:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Sfondo:">
 <!ENTITY  backgroundColor.accesskey       "S">
-<!ENTITY  useSystemColors.label           "Ûza i coî de scistêma">
+<!ENTITY  useSystemColors.label           "Adêuvia i coî de scistêma">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Sotolìnia colegaménti">

@@ -6,7 +6,7 @@
 <!ENTITY  proxyTitle.label              "Inpòsta i proxy pe intrâ in sciâ ræ">
 <!ENTITY  noProxyTypeRadio.label        "No proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Ûza o proxy de scistêma">
+<!ENTITY  systemTypeRadio.label         "Adêuvia o proxy de scistêma">
 <!ENTITY  systemTypeRadio.accesskey     "Û">
 <!ENTITY  WPADTypeRadio.label           "Trêuva e inpostaçión do proxy in aotomàtico pe sta ræ">
 <!ENTITY  WPADTypeRadio.accesskey       "T">
@@ -36,6 +36,6 @@
 <!ENTITY  noproxy.label                 "No Proxy pe:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Ezénpio: mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Ûza sto proxy pe tùtti i pròtocòlli">
+<!ENTITY  shareproxy.label              "Adêuvia sto proxy pe tùtti i pròtocòlli">
 <!ENTITY  shareproxy.accesskey          "s">
 

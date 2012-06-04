@@ -17,7 +17,7 @@
 <!ENTITY pasteCmd.accesskey        "I">
 <!ENTITY deleteCmd.label           "Scancélla">
 <!ENTITY deleteCmd.accesskey       "S">
-<!ENTITY selectAllCmd.label        "Seleçionn-a tùtto">
+<!ENTITY selectAllCmd.label        "Seleçiónn-a tùtto">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Trêuva">

@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
-<!ENTITY serverType.custom2.label   "Ûza in server personalizòu…">
+<!ENTITY serverType.custom2.label   "Adêuvia in server personalizòu…">
 <!ENTITY signIn.account2.label      "Account">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Paròlla segrétta">
@@ -21,7 +21,7 @@
 <!ENTITY signIn.recoveryKey.accesskey   "C">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Detàlli do Account">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detàlli de l'Account">
 <!ENTITY setup.emailAddress.label     "Indirìsso de pòsta">
 <!ENTITY setup.emailAddress.accesskey "e">
 <!ENTITY setup.choosePassword.label      "Çèrni 'na paròlla segrétta">
@@ -55,9 +55,9 @@
 <!ENTITY pairDevice.title.label             "Acóbia 'n aparâto">
 <!ENTITY addDevice.showMeHow.label          "Fàmme védde cómme.">
 <!ENTITY addDevice.dontHaveDevice.label     "L'aparâto o no ghe l'ò òua">
-<!ENTITY pairDevice.setup.description.label  "Pe ativâ seleçionn-a &#x0022;Acóbia 'n aparâto&#x0022; in sciô teu âtro aparâto.">
+<!ENTITY pairDevice.setup.description.label  "Pe ativâ seleçiónn-a &#x0022;Acóbia 'n aparâto&#x0022; in sciô teu âtro aparâto.">
 <!ENTITY addDevice.setup.enterCode.label    "Alôa, inserìsci sto còdice:">
-<!ENTITY pairDevice.dialog.description.label "Pe ativâ o teu nêuvo aparâto seleçionn-a &#x0022;Inpòsta Sync&#x0022; in sciô aparâto.">
+<!ENTITY pairDevice.dialog.description.label "Pe ativâ o teu nêuvo aparâto seleçiónn-a &#x0022;Inpòsta Sync&#x0022; in sciô aparâto.">
 <!ENTITY addDevice.dialog.enterCode.label   "Dàmme o còdice ch'o te dîxe l'aparâto:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Pe favô preuva ancón.">
 <!ENTITY addDevice.dialog.successful.label  "L'aparâto o l'é stæto azónto. A prìmma iniçializaçión peu pigiâ quàrche menûto e a finiâ tanto chi ti fæ de l'âtro.">

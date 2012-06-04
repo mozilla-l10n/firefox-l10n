@@ -1,6 +1,6 @@
 <!-- extracted from finddialog.xul -->
 
-<!ENTITY findDialog.title "Trêuva in sta pàgina">
+<!ENTITY findDialog.title "Trêuva inte sta pàgina">
 <!ENTITY findField.label "Trêuva cöse:">
 <!ENTITY findField.accesskey "T">
 <!ENTITY caseSensitiveCheckbox.label "Contròlla e maióscole">

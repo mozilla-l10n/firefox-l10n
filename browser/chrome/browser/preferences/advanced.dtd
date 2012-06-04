@@ -4,22 +4,22 @@
 
 <!ENTITY accessibility.label             "Açéçibilitæ">
 
-<!ENTITY useCursorNavigation.label       "Ûza sémpre i pomélli de direçión pe navegâ in sce pàgine">
+<!ENTITY useCursorNavigation.label       "Adêuvia sémpre i pomélli de direçión pe navegâ in sce pàgine">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Çèrca o testo quàndo inìçio a scrîve">
+<!ENTITY searchStartTyping.label         "Çèrca o tésto quàndo inìçio a scrîve">
 <!ENTITY searchStartTyping.accesskey     "Ç">
 <!ENTITY blockAutoRefresh.label          "Avèrtime quànde i scîti prêuvan a redireçionâ ò recaregâ a pàgina">
 <!ENTITY blockAutoRefresh.accesskey      "p">
 
 <!ENTITY browsing.label                  "Çèrca">
 
-<!ENTITY useAutoScroll.label             "Ûza scoriménto aotomàtico">
+<!ENTITY useAutoScroll.label             "Adêuvia scoriménto aotomàtico">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Ûza scoriménto regolâ">
+<!ENTITY useSmoothScrolling.label        "Adêuvia scoriménto regolâ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Ûza l'aceleraçión hardware se gh'é">
+<!ENTITY allowHWAccel.label              "Adêuvia l'aceleraçión hardware se gh'é">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Contròlla o mæ testo intànto che scrîvo">
+<!ENTITY checkSpelling.label             "Contròlla o mæ tésto intànto che scrîvo">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Predefinîo do scistêma
@@ -43,7 +43,7 @@
 
 <!ENTITY httpCache.label                 "Contegnûo Web inta cache">
 
-<!ENTITY offlineStorage2.label           "Contegnûo web e dæti ùtente fêua lìnia">
+<!ENTITY offlineStorage2.label           "Contegnûo web e dæti uténte fêua lìnia">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -98,13 +98,13 @@
 <!ENTITY encryptionTab.label             "Criptaçión">
 
 <!ENTITY protocols.label                 "Pròtocòlli">
-<!ENTITY useSSL3.label                   "Ûza SSL 3.0">
+<!ENTITY useSSL3.label                   "Adêuvia SSL 3.0">
 <!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Ûza TLS 1.0">
+<!ENTITY useTLS1.label                   "Adêuvia TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificâti">
 <!ENTITY certSelection.description       "Quàndo un server o domànda i mæ certificâti:">
-<!ENTITY certs.auto                      "Seleçionn-a un in aotomàtico">
+<!ENTITY certs.auto                      "Seleçiónn-a un in aotomàtico">
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Domàndamelo tùtte e vòtte">
 <!ENTITY certs.ask.accesskey             "D">

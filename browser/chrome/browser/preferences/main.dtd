@@ -10,10 +10,10 @@
 
 <!ENTITY homepage.label            "Pàgina iniçiâ:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Ûza a pàgina corénte">
+<!ENTITY useCurrentPage.label      "Adêuvia a pàgina corénte">
 <!ENTITY useCurrentPage.accesskey  "c">
-<!ENTITY useMultiple.label         "Ûza e pàgine corénti">
-<!ENTITY chooseBookmark.label      "Ûza o segnalìbbro…">
+<!ENTITY useMultiple.label         "Adêuvia e pàgine corénti">
+<!ENTITY chooseBookmark.label      "Adêuvia o segnalìbbro…">
 <!ENTITY chooseBookmark.accesskey  "s">
 <!ENTITY restoreDefault.label      "Métti tórna predefinîo">
 <!ENTITY restoreDefault.accesskey  "R">
@@ -28,9 +28,9 @@
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Çèrca…">
 <!ENTITY chooseFolderWin.accesskey    "Ç">
-<!ENTITY chooseFolderMac.label        "Scégli…">
+<!ENTITY chooseFolderMac.label        "Çèrni…">
 <!ENTITY chooseFolderMac.accesskey    "g">
-<!ENTITY alwaysAsk.label "Domàndame sénpre donde sarvâ i file">
+<!ENTITY alwaysAsk.label "Domàndime sénpre dónde sarvâ i file">
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label               "Conponénti azónti">

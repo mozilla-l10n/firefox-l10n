@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
-<!ENTITY selectedElementLabel  "Elemênti seleçionæ:">
+<!ENTITY selectedElementLabel  "Eleménti seleçionæ:">
 
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is

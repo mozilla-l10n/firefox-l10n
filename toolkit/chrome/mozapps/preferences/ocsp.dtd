@@ -1,5 +1,5 @@
 <!ENTITY ocspDialog.title             "Validaçión do certificâto">
-<!ENTITY enableOCSP.label             "Ûza o Online Certificate Status Protocol (OCSP) pe confermâ a validæ do certificâto">
+<!ENTITY enableOCSP.label             "Adêuvia o Online Certificate Status Protocol (OCSP) pe confermâ a validitæ do certificâto">
 <!ENTITY enableOCSP.accesskey         "u">
 <!ENTITY certOCSP2.label              "Valida 'n certificâto se o specifica un server OCSP">
 <!ENTITY certOCSP2.accesskey          "V">

@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Inpòsta &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acêde a teu stöia, segnalìbbri, paròlle segrétte e féuggi avérti in tùtti i teu aparâti che t'ûzi pe conétite.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acêde a teu stöia, segnalìbbri, paròlle segrétte e féuggi avèrti in tùtti i teu aparâti che ti dêuvi pe conétite.">
 
 <!-- The page shown when logged in... -->
 

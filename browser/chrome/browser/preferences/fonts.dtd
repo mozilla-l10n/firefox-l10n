@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetàn">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Dimensción minima do testo">
+<!ENTITY minSize.label                            "Dimensción minima do tésto">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "Nìnte">
 
@@ -61,10 +61,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Permétti a-e pàgine de scélie o seu caràtere invêce da mæ seleçión">
+<!ENTITY  allowPagesToUse.label                   "Permétti a-e pàgine de çèrne o seu caràtere invêce da mæ seleçión">
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Codifica do caràtere">
-<!ENTITY languages.customize.DefaultCharset.label       "Còdifica do caràtere predefinîa:">
+<!ENTITY languages.customize.DefaultCharset.label       "Codìfica do caràtere predefinîa:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
 

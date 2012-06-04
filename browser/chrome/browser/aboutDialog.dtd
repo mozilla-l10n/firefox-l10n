@@ -31,7 +31,7 @@
 <!ENTITY bottomLinks.license        "Informaçión de licénsa">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Dirîti do utilizatô">
+<!ENTITY bottomLinks.rights         "Dirìtti de l'utilizatô">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Politica da Privacy">

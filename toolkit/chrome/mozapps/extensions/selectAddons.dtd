@@ -3,7 +3,7 @@
 <!ENTITY checking.heading            "Contròllo i teu conponénti azónti">
 <!ENTITY checking.progress.label     "Contròllo a conpatibilitæ di teu conponénti azónti pe sta versción de &brandShortName;.">
 
-<!ENTITY select.heading              "Seleçionn-a o conponénte azónto">
+<!ENTITY select.heading              "Seleçiónn-a o conponénte azónto">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Fànni anâ o &brandShortName; ancón ciù ràpido dizabilitàndo i conponénti azónti che ti no dêuvi ciù. I conponénti azónti za instalæ da tèrçe pàrti saiân dizabilitæ aotomàticamente finché no i seleçionn-i chi sótta.">
@@ -22,7 +22,7 @@
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
-<!ENTITY confirm.heading             "Seleçionn-a o conponénte azónto">
+<!ENTITY confirm.heading             "Seleçiónn-a o conponénte azónto">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY confirm.description         "Fànni anâ o &brandShortName; ancón ciù ràpido dizabilitàndo i conponénti azónti che ti no dêuvi ciù. I conponénti azónti za instalæ da tèrçe pàrti saiân dizabilitæ aotomàticamente finché no i seleçionn-i chi sótta.">

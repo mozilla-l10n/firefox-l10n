@@ -1,4 +1,4 @@
-<!ENTITY  updateWizard.title              "Agiornaménto da aplicaçión">
+<!ENTITY  updateWizard.title              "Agiornaménto de l'aplicaçión">
 
 <!ENTITY  checking.title                  "Contròllo i agiornaménti">
 <!ENTITY  updateCheck.label               "Çèrco nêuve versción de &brandShortName;…">
@@ -25,7 +25,7 @@
 <!ENTITY  incompatibleCheck.title         "Contròllo a compatibilitæ di conponénti azónti">
 <!ENTITY  incompatibleCheck.label         "Çèrco nêuve versción pe-i teu conponénti azónti…">
 
-<!ENTITY  clickHere.label                 "Fànni védde ciù informaçióin in sciô agiornaménto">
+<!ENTITY  clickHere.label                 "Fànni védde ciù informaçióin in sce agiornaménto">
 
 <!ENTITY  evangelism.desc                 "L'é racomandòu che ti atîvi sti 
                                            agiornaménti pe &brandShortName; ciù fîto che ti peu.">
@@ -35,7 +35,7 @@
 
 <!ENTITY  license.titleText               "Licénsa da aplicaçión">
 <!ENTITY  license.introText               "Termini e condiçioìn pe uzâ sta aplicaçión.">
-<!ENTITY  license.instructionText         "Pe favô lêzi sta licénsa. Ûza a bâra de scorimento pe védde tùtto o testo da licénsa.">
+<!ENTITY  license.instructionText         "Pe favô lêzi sta licénsa. Adêuvia a bâra de scorimento pe védde tùtto o tésto da licénsa.">
 <!ENTITY  license.accept                  "Acètto i termini da licénsa">
 <!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "Mi NO acètto i termini da licénsa">

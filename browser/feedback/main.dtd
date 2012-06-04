@@ -1,4 +1,4 @@
-<!ENTITY testpilot.brand.label                      "Prêuva Pilòta">
+<!ENTITY testpilot.brand.label                      "Prêuva Pilöta">
 <!ENTITY testpilot.settings.label                   "Inpostaçioìn">
 <!ENTITY testpilot.settings.dataSubmission.label    "Dæta Spediçión">
 <!ENTITY testpilot.settings.notifications.label     "Notìçie">
@@ -8,10 +8,10 @@
 <!ENTITY testpilot.settings.hasNewResults.label     "Un stùdio gh'à 'n nêuvo éxito">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Manda i mæ dæti in aotomàtico (no domandâmelo)">
 <!ENTITY testpilot.allYourStudies.label             "Tùtti i teu stùdi…">
-<!ENTITY testpilot.about.label                      "Informaçioìn in sciâ Prêuva Pilòta">
+<!ENTITY testpilot.about.label                      "Informaçioìn in sciâ Prêuva Pilöta">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "I teu Stùdi de Prêuve Pilòta">
+<!ENTITY testpilot.studiesWindow.title                  "I teu Stùdi de Prêuve Pilöta">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Stùdio corénte">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Stùdi Finî">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Riçèrca inti Stùdi">
@@ -19,7 +19,7 @@
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Carego, aspêta…">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Prêuva Pilòta: Dæti crûi">
+<!ENTITY testpilot.rawDataWindow.title                  "Prêuva Pilöta: Dæti crûi">
 
 <!-- notification -->
 <!ENTITY testpilot.notification.close.tooltip            "Særa">

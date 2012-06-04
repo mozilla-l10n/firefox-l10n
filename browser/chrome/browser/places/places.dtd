@@ -39,7 +39,7 @@
 <!ENTITY cmd.backup.accesskey           "c">
 <!ENTITY cmd.restore2.label             "Repìggia">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Scégli file…">
+<!ENTITY cmd.restoreFromFile.label      "Çèrni file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
 <!ENTITY cmd.bookmarkLink.label         "Azónzi sta pàgina a-i segnalìbbri…">
@@ -118,7 +118,7 @@
 <!ENTITY detailsPane.more.accesskey "C">
 <!ENTITY detailsPane.less.label "Mêno">
 <!ENTITY detailsPane.less.accesskey "M">
-<!ENTITY detailsPane.selectAnItemText.description "Seleçionn-a un ògetto pe védde e modificâ e propietæ">
+<!ENTITY detailsPane.selectAnItemText.description "Seleçiónn-a un ògetto pe védde e modificâ e propietæ">
 
 <!ENTITY find.label               "Riçèrca:">
 <!ENTITY find.accesskey           "R">

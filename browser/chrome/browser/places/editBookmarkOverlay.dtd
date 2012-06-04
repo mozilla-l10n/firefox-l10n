@@ -19,7 +19,7 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Fànni védde tùtte e etichétte">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Càrega sto segnalìbbro in sciâ bâra de sciànco">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "C">
-<!ENTITY editBookmarkOverlay.choose.label                    "Scégli…">
+<!ENTITY editBookmarkOverlay.choose.label                    "Çèrni…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nêuva cartélla">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
 
