@@ -102,10 +102,12 @@ vidukizo.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Muunganisho Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Ukurasa unaojaribu kuangali hauwezi kuonyeshwa kwa sababu ya uhalali wa data iliyopokelewa haingethibitishwa.</li> 
-<li>Tafadhali wasiliana na wamilikii wa tovuti ili kuwajulisha kuhusu shida hii. Badala yake, tumia amri inayopatikana kwenye menyu ya msaada kuripoti tovuti hii iliyoharibika.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

@@ -213,16 +213,22 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Kagua">
-<!ENTITY inspectButton.accesskey        "K">
 <!ENTITY inspectCloseButton.tooltiptext "Funga Kikaguzi">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Nakili HTML ya Ndani">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "H">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Nakili HTML ya Nje">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "H">
+
+<!ENTITY inspectorHTMLDelete.label          "Futa Kitengo">
+<!ENTITY inspectorHTMLDelete.accesskey      "F">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
 
 <!ENTITY inspect3DViewButton.label     "Muonekano wa 3D">
-<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspect3DViewButton.accesskey "u">
 
 <!ENTITY inspectStyleButton.label     "Mtindo">
 <!ENTITY inspectStyleButton.accesskey "M">
@@ -273,7 +279,7 @@ can reach it easily. -->
 
 <!ENTITY clearRecentHistory.label               "Futa Historia ya Hivi karibuni…">
 <!ENTITY clearRecentHistory.accesskey           "H">
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label         "Anza Kuvinjari Kibinafsi">
 <!ENTITY privateBrowsingCmd.start.accesskey     "K">
@@ -600,3 +606,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Funga Mwambaa wa Vifaa-nyongeza">
 <!ENTITY toggleAddonBarCmd.key        "/">
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+
+<!ENTITY markupButton.arialabel          "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "M">

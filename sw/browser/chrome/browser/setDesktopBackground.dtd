@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Kigae">
 <!ENTITY center.label               "Kati">
 <!ENTITY stretch.label              "Kunjua">
+<!ENTITY fill.label                 "Fill">
+<!ENTITY fit.label                  "Fit">
 <!ENTITY preview.label              "Kihakiki">
 <!ENTITY color.label                "Rangi:">
 <!ENTITY setDesktopBackground.title "Weka Mandharinyuma ya Eneokazi">

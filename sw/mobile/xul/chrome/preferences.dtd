@@ -5,11 +5,11 @@
 <!ENTITY reflowZoom.title                          "Reformat text on zoom">
 <!ENTITY showImages.title                          "Show images">
 <!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
+<!ENTITY privacy.title                             "Ufaragha na Usalama">
 <!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
+<!ENTITY doNotTrack.title                          "Eleza wavuti zisinitafute">
 <!ENTITY masterPassword.title                      "Use master password">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
+<!ENTITY clearPrivateData2.title                   "Ondoa data ya ufaragha">
 <!ENTITY clearPrivateData.button                   "Ondoa">
 <!ENTITY rememberPasswords.title                   "Remember passwords">
 <!ENTITY language.title                            "Language">

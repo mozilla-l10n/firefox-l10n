@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Ingiza Utafutaji au Anwani">
 
 <!ENTITY back.label            "Back">
 <!ENTITY forward.label         "Forward">
@@ -88,9 +88,9 @@
 <!ENTITY consoleCodeEval.label     "Code:">
 <!ENTITY consoleClear.label        "Ondoa">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Source File:">
-<!ENTITY consoleErrLine.label      "Line:">
-<!ENTITY consoleErrColumn.label    "Column:">
+<!ENTITY consoleErrFile.label      "Faili ya Chanzo:">
+<!ENTITY consoleErrLine.label      "Mstari:">
+<!ENTITY consoleErrColumn.label    "Nguzo:">
 
 <!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
 <!ENTITY contextSaveImage.label       "Hifadhi Picha">

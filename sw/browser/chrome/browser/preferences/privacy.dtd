@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Ufuatiliaji">
 
-<!ENTITY doNotTrack.label               "Ambia toviti sitaki kufuatiliwa">
-<!ENTITY doNotTrack.accesskey           "k">
+<!ENTITY doNotTrack.label               "Ambia nyavuti sitaki kufuatiliwa">
+<!ENTITY doNotTrack.accesskey           "d">
 
 <!ENTITY  history.label                 "Historia">
 
@@ -15,14 +15,13 @@
 <!ENTITY  locbar.bookmarks.label        "Alamisho">
 <!ENTITY  locbar.nothing.label          "Hakuna">
 
-
 <!ENTITY  acceptCookies.label           "Kubali vidakuzi kutoka kwa tovuti">
 <!ENTITY  acceptCookies.accesskey       "K">
 
 <!ENTITY  acceptThirdParty.label        "Kubali vidukizo vya nafsi ya tatu">
 <!ENTITY  acceptThirdParty.accesskey    "b">
 
-<!ENTITY  keepUntil.label               "Weka mpaka:">
+<!ENTITY  keepUntil.label               "Weka hadi:">
 <!ENTITY  keepUntil.accesskey           "W">
 
 <!ENTITY  expire.label                  "zinaisha">
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Kila mara tumia hali ya kuvinjari ya faragha">
 <!ENTITY  privateBrowsingPermanent2.accesskey "h">
 
-<!ENTITY  rememberHistory.label      "Kumbuka historia yangu ya kuvinjari">
-<!ENTITY  rememberHistory.accesskey  "k">
-
-<!ENTITY  rememberDownload.label         "Kumbuka pakua historia">
-<!ENTITY  rememberDownload.accesskey     "p">
+<!ENTITY  rememberHistory2.label      "Kumbuka kuvinjari kwangu na historia ya upakuaji">
+<!ENTITY  rememberHistory2.accesskey  "k">
 
 <!ENTITY  rememberSearchForm.label       "Kumbuka historia ya utafutaji na fomu">
 <!ENTITY  rememberSearchForm.accesskey   "f">

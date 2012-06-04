@@ -1,13 +1,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!-- These strings are used in the about:home page -->
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; Ukurasa wa Kuanza">
 
 <!ENTITY abouthome.searchEngineButton.label "Tafutiza">
-
-<!ENTITY abouthome.aboutMozilla "Kuhusu Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -18,5 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Ni rahisi kunafsisha Firefox yako vile uitakavyo kamili. <a>Chagua kutoka maelefu ya vifaa vya nyogeza</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Sanidi Ulandanishi">
-<!ENTITY abouthome.pairDevice.label  "Oanisha Kifaa">
+<!ENTITY abouthome.bookmarksButton.label "Alamisho">
+<!ENTITY abouthome.historyButton.label   "Historia">
+<!ENTITY abouthome.settingsButton.label  "Mipangilio">
+<!ENTITY abouthome.addonsButton.label    "Vifaa vya nyongeza">
+<!ENTITY abouthome.appsButton.label      "Soko">
+<!ENTITY abouthome.downloadsButton.label "Vipakuzi">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; huhitaji kuwashwa tena ili programu-jalizi zifanye kazi.">
 
 <!ENTITY missingPlugin                                       "Programu-jalizi inahitajika ili kuonyesha maudhui haya.">
-<!ENTITY clickToPlayPlugin                                   "Gonga hapa kuamilisha programu jalizi.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Gonga hapa kuamilisha programu jalizi.">
+<!ENTITY clickToPlayPlugins                                  "Click here to activate plugins.">
 <!ENTITY disabledPlugin                                      "Programu-jalizi hii imelemazwa.">
 <!ENTITY blockedPlugin.label                                 "Programu-jalizi hii imezuiliwa kwa ulinzi wako.">
 

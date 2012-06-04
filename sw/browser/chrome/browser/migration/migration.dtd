@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "Kutoka kwa Faili ya HTML">
-<!ENTITY importFromHTMLFile.accesskey   "K">
 
 <!ENTITY noMigrationSources.label       "Hakuna programu zilizo na alamisho, historia au data ya nenosiri zimepatikana.">
 

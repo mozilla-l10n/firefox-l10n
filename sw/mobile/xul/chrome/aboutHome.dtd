@@ -1,7 +1,7 @@
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs                   "Your tabs from last time">
+<!ENTITY aboutHome.recentTabs                   "Vichupo vyako kutoka wakati uliopita">
 <!ENTITY aboutHome.remoteTabs                   "Tabs from your other computers">
-<!ENTITY aboutHome.recommendedAddons2           "Add-ons for your &brandShortName;">
+<!ENTITY aboutHome.recommendedAddons2           "Programu jalizi ya &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Give Feedback">
 <!ENTITY aboutHome.getHelp                      "Get Help">
 <!ENTITY aboutHome.footerWidth                  "10em">
@@ -23,7 +23,7 @@
      (aboutHome.setupSync): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.setupSync            "Set Up Sync">
+<!ENTITY aboutHome.setupSync            "Sanidi Ulandanishi">
 <!-- LOCALIZATION NOTE:
      (aboutHome.syncPairDevice): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.

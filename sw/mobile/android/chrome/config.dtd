@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Search">
-<!ENTITY newpref.label          "Add a New Preference">
-<!ENTITY addpref.name           "Jina">
-<!ENTITY addpref.value          "Thamani">
-
-<!ENTITY cancel.label           "Katiza">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
-
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY search.placeholder2    "Search Settings">
+<!ENTITY clear.altText          "Ondoa">
+<!ENTITY newpref.label2         "Add a New Setting">

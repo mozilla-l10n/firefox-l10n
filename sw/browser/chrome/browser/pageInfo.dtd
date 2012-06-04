@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Weka Vidakuzi">
 <!ENTITY  permInstall           "Sakinisha Viendelezi au Mandhari">
 <!ENTITY  permGeo               "Mahali Gawize">
+<!ENTITY  permPlugins           "Activate Plugins">
 
 <!ENTITY  permIndexedDB              "Weka Hifadhi Nje ya mtandao">
 <!ENTITY  permClearStorage           "Futa Hifadhi">

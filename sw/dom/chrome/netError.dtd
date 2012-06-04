@@ -60,7 +60,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Tovuti iliitikia ombi la mtandao katika njia ambayo haikutarajiwa na kivinjari hakiwezi kuendelea.</p>">
 
 <!ENTITY nssFailure2.title "Muungao Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeshwa kwa sababu uhalali wa data iliyopokelewa haiwezi kudhibitishwa.</p><ul><li>Tafadhali wasiliana wamiliki wa tovuti ili kuwajulisha kuhusu tatizo hii.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

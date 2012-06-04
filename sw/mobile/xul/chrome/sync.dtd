@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Landanisha Sasa">
 
 <!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY sync.setup.pair            "Kuamilisha, chagua &#x0022;Oanisha Kifaa&#x0022; kwenye kifaa chako kingine.">
 <!ENTITY sync.fallback              "I'm not near my computer…">
 <!ENTITY sync.setup.manual          "Enter your Sync account information">
 <!ENTITY sync.account               "Account Name">
@@ -22,6 +22,6 @@
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "Pair a Device">
-<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.pair.description      "Kuamilisha kifaa chako, chagua &#x0022; Sanidi Ulandanishi&#x0022; kwenye kifaa.">
 <!ENTITY sync.setup.close           "Funga">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

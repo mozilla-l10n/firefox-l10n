@@ -1,12 +1,18 @@
 
-<!ENTITY  splash_firstrun "Inasanidi &brandShortName;\u2026">
+<!ENTITY  splash_settingup "Setting up your &brandShortName;">
+<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
 
 <!ENTITY  no_space_to_start_error "Hakuna nafasi ya kutosha inayopatikana ya &brandShortName; ili kuanza.">
-<!ENTITY  error_loading_file "Hitilafu ilitokea ikijaribu kupakia faili zinazohitajika kuendesha &brandShortName;">
+<!ENTITY  error_loading_file "Hitilafu imetokea ikijaribu kupakia faili zinazohitajika ili iende &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Wavuti za Juu">
+<!ENTITY  awesomebar_bookmarks_title "Bookmarks">
+<!ENTITY  awesomebar_history_title "Historia">
+<!ENTITY  awesomebar_search_engine "Tafuta \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Ripoti ya Mvurugo">
-<!ENTITY  crash_message "&brandShortName; imevuruga. Vichupo zako zinafaa kuorodheshwa kwenye &brandShortName;Ukurasa wa kuanza unapo washa upya.">
-<!ENTITY  crash_help_message "Tafadhali tusaidie kutatua tatizo hili!">
+<!ENTITY  crash_message "&brandShortName; imevurugwa. Vichupo vyako vinafaa kuorodheshwa kwenye &brandShortName; Ukurasa wa kuanza unapo washa upya.">
+<!ENTITY  crash_help_message "Tafadhali tusaidie kutatua tazizo hili!">
 <!ENTITY  crash_send_report_message "Tumia Mozilla ripoti ya mvurugo">
 <!ENTITY  crash_include_url "Jumuisha anwani ya ukurasa">
 <!ENTITY  crash_close_label "Funga">
@@ -16,6 +22,106 @@
 <!ENTITY  continue_label "Endelea">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Programu za Wavuti">
-<!ENTITY  launcher_shortcuts_empty "Hakuna programu za wavuti zilizopatikana">
+<!ENTITY  launcher_shortcuts_empty "Hakuna pr">
 
-<!ENTITY choose_file "Chagua Faili">
+<!ENTITY choose_file "Choose File">
+
+<!ENTITY awesomebar_default_text "Ingiza Utafutaji au Anwani">
+
+<!ENTITY remote_tabs "Synced Tabs">
+<!ENTITY remote_tabs_show_all "Show all tabs">
+
+<!ENTITY bookmark "Alamisho">
+<!ENTITY bookmark_added "Alamisho imeongezwa">
+<!ENTITY bookmark_removed "Alamisho imeondolewa">
+<!ENTITY bookmark_updated "Bookmark updated">
+
+<!ENTITY history_today_section "Leo">
+<!ENTITY history_yesterday_section "Jana">
+<!ENTITY history_week_section "Siku 7 zilizopita">
+<!ENTITY history_older_section "Nzee kuliko siku 7">
+
+<!ENTITY reload "Pakia upya">
+<!ENTITY forward "Sambaza">
+
+<!ENTITY new_tab "Kichupo Kipya">
+<!ENTITY new_tab_opened "Kichupo kipya kimefunguliwa">
+
+<!ENTITY settings "Settings">
+<!ENTITY settings_title "Settings">
+<!ENTITY pref_category_general "Jumla">
+<!ENTITY pref_category_privacy "Ufaragha na Usalama">
+<!ENTITY pref_category_content "Maudhui">
+<!ENTITY pref_about_firefox "Kuhusu &brandShortName;">
+<!ENTITY pref_do_not_track "Eleza wavuti zisinitafute">
+<!ENTITY pref_telemetry "Tuma data ya utendakazi">
+<!ENTITY pref_remember_signons "Kumbuka manenosiri">
+<!ENTITY pref_cookies "Wezesha vidakuzi">
+<!ENTITY pref_char_encoding "Usimbaji wa kibambo">
+<!ENTITY pref_char_encoding_on "Onyesha menyu">
+<!ENTITY pref_char_encoding_off "Usionyeshe menyu">
+<!ENTITY pref_clear_history "Ondoa historia">
+<!ENTITY pref_clear_history_confirm "Historia ya kuvinjari itafutwa">
+<!ENTITY pref_clear_private_data "Ondoa data ya ufaragha">
+<!ENTITY pref_clear_private_data_confirm "Mipangilio ya kuvinjari, pamoja na manenosiri na vidakuzi, itafutwa">
+<!ENTITY pref_plugins "Programu-jalizi">
+<!ENTITY pref_plugins_enabled "Imewezeshwa">
+<!ENTITY pref_plugins_tap_to_play "Gonga kucheza">
+<!ENTITY pref_plugins_disabled "Imelemazwa">
+<!ENTITY pref_text_size "Ukubwa wa maandishi">
+<!ENTITY pref_font_size_tiny "Ndogo sana">
+<!ENTITY pref_font_size_small "Ndogo">
+<!ENTITY pref_font_size_medium "Wastani">
+<!ENTITY pref_font_size_large "Kubwa">
+<!ENTITY pref_font_size_xlarge "Kubwa Zaidi">
+<!ENTITY pref_use_master_password "Tumia nenosiri kuu ">
+<!ENTITY pref_sync "Ulandanishi">
+
+<!ENTITY quit "Acha">
+
+<!ENTITY addons "Vifaa vya nyongeza">
+<!ENTITY downloads "Vipakuzi">
+<!ENTITY char_encoding "Usimbaji wa Kibambo">
+
+<!ENTITY share "Shiriki">
+<!ENTITY share_title "Share via">
+<!ENTITY save_as_pdf "Hifadhi kama PDF">
+
+<!ENTITY contextmenu_open_new_tab "Fungua katika Kichupo Kipya">
+<!ENTITY contextmenu_remove_bookmark "Ondoa">
+<!ENTITY contextmenu_add_to_launcher "Ongeza kwa Skrini ya Nyumbani">
+<!ENTITY contextmenu_share "Shiriki">
+<!ENTITY contextmenu_edit_bookmark "Edit">
+
+<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_name "Jina">
+<!ENTITY bookmark_edit_location "Mahali">
+<!ENTITY bookmark_edit_keyword "Keyword">
+
+<!ENTITY site_settings_title        "Ondoa Mipangilio ya Wavuti">
+<!ENTITY site_settings_cancel       "Ghairi">
+<!ENTITY site_settings_clear        "Ondoa">
+<!ENTITY site_settings_no_settings  "Hakuna mipangilio ya kuondoa.">
+
+<!ENTITY masterpassword_create_title "Unda Nenosiri Kuu">
+<!ENTITY masterpassword_remove_title "Ondoa Nywila Kuu">
+<!ENTITY masterpassword_password "Neno la siri">
+<!ENTITY masterpassword_confirm "Thibitisha nenosiri">
+
+<!ENTITY button_ok "SAWA">
+<!ENTITY button_cancel "Ghairi">
+
+<!ENTITY abouthome_addons_title "Programu jalizi ya &brandShortName;">
+<!ENTITY abouthome_addons_browse "Vinjari programu jalizi &brandShortName; zote">
+<!ENTITY abouthome_last_tabs_title "Vichupo vyako kutoka wakati uliopita">
+<!ENTITY abouthome_last_tabs_open "Fungua vichupo kutoka wakati uliopita">
+<!ENTITY abouthome_top_sites_title "Wavuti za juu">
+<!ENTITY abouthome_top_sites_browse "Vinjari wavuti zako za juu">
+<!ENTITY abouthome_no_top_sites "Huna wavuti za juu bado. Gonga Upau wa Kichwa ili kuanza kuvinjari.">
+<!ENTITY abouthome_about_sync "Sanidi Ulandanishi wa Firefox ili kufikia vialamisho, historia na vichupo kutoka kwa vifaa vingine">
+<!ENTITY abouthome_sync_bold_name "Landanisha Firefox">
+
+<!ENTITY filepicker_title "Choose File">
+<!ENTITY filepicker_audio_title "Choose or record a sound">
+<!ENTITY filepicker_image_title "Choose or take a picture">
+<!ENTITY filepicker_video_title "Choose or record a video">
