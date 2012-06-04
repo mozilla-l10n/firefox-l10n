@@ -5,7 +5,7 @@
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Connect to &syncBrand.shortName.label;">
+<!ENTITY sync.title.connect.label "Conectar ao &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Adicionar conta do &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Parear dispositivo">
 
@@ -13,15 +13,15 @@
 <!ENTITY sync.subtitle.connect.label "To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.">
 <!ENTITY sync.subtitle.header.label "Forneça este código no seu computador">
 <!ENTITY sync.subtitle.connectlocation.label "Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.">
-<!ENTITY sync.subtitle.pair.label "To activate, select “Pair a device” on your other device.">
+<!ENTITY sync.subtitle.pair.label "Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Mostrar como">
-<!ENTITY sync.link.advancedsetup.label "Advanced setup…">
+<!ENTITY sync.link.advancedsetup.label "Configuração avançada…">
 <!ENTITY sync.link.nodevice.label "I don\&apos;t have the device with me…">
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label "Waiting for other device…">
+<!ENTITY sync.jpake.subtitle.waiting.label "Aguardando pelo outro dispositivo…">
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label "Enter your &syncBrand.fullName.label; account information">
@@ -35,13 +35,13 @@
 <!ENTITY sync.title.fail.label "Cannot Set Up &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; could not connect to the server. Would you like to try again?">
 <!ENTITY sync.button.tryagain.label "Tentar de novo">
-<!ENTITY sync.button.manual.label "Manual Setup">
-<!ENTITY sync.subtitle.nointernet.label "No internet connection available.">
+<!ENTITY sync.button.manual.label "Configuração manual">
+<!ENTITY sync.subtitle.nointernet.label "Sem conexão com a internet.">
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Configuração concluída">
 <!ENTITY sync.subtitle.success.label "Your data is now being downloaded in the background. You can go to Settings to manage your account.">
-<!ENTITY sync.settings.label "Settings">
+<!ENTITY sync.settings.label "Configurações">
 <!ENTITY sync.subtitle.manage.label "Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.">
 
 <!-- Pair Device -->
@@ -60,13 +60,16 @@
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label "Bookmarks Menu">
+<!ENTITY bookmarks.folder.menu.label "Menu Favoritos">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Tags">
-<!ENTITY bookmarks.folder.toolbar.label "Bookmarks Toolbar">
-<!ENTITY bookmarks.folder.unfiled.label "Unsorted Bookmarks">
-<!ENTITY bookmarks.folder.desktop.label "Desktop Bookmarks">
-<!ENTITY bookmarks.folder.mobile.label "Mobile Bookmarks">
+<!ENTITY bookmarks.folder.toolbar.label "Barra dos favoritos">
+<!ENTITY bookmarks.folder.unfiled.label "Favoritos não organizados">
+<!ENTITY bookmarks.folder.desktop.label "Favoritos do desktop">
+<!ENTITY bookmarks.folder.mobile.label "Favoritos do dispositivo móvel">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "Only one &syncBrand.fullName.label; account is supported.">
+<!ENTITY sync.notification.oneaccount.label "Apenas uma conta do &syncBrand.fullName.label; é suportada.">
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Por favor, tente de novo.">
