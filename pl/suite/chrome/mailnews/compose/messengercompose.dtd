@@ -109,12 +109,6 @@
 <!ENTITY stopButton.tooltip "Zatrzymaj bieżący transfer">
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "Nie znaleziono sugestii dla słowa">
-<!ENTITY spellCheckIgnoreWord.label "Ignoruj słowo">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Dodaj do słownika">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "Otwórz">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "Zmień nazwę…">
