@@ -160,8 +160,8 @@
 <!ENTITY GeneratedName.accesskey  "n">
 <!ENTITY PrimaryEmail.label       "E-mail">
 <!ENTITY PrimaryEmail.accesskey   "E">
-<!ENTITY ScreenName.label         "Komunikator AIM">
-<!ENTITY ScreenName.accesskey     "u">
+<!ENTITY ChatName.label "Nazwa czat">
+<!ENTITY ChatName.accesskey "C">
 <!ENTITY Company.label            "Firma/Organizacja">
 <!ENTITY Company.accesskey        "O">
 <!ENTITY NickName.label           "Pseudonim">
@@ -194,6 +194,7 @@
 <!ENTITY contact.heading       "Kontakt">
 <!ENTITY home.heading          "Dom">
 <!ENTITY other.heading         "Inne">
+<!ENTITY chat.heading "Czat">
 <!ENTITY phone.heading         "Telefon">
 <!ENTITY work.heading          "Praca">
 <!-- Special Box Headings, for mailing lists -->
