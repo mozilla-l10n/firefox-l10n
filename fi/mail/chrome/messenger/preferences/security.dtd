@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "P">
 <!ENTITY markAsReadOnSpam.label "Merkitse roskapostiviestit luetuiksi">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Pidä roskapostilokia">
-<!ENTITY enableJunkLogging.accesskey "P">
+<!ENTITY enableAdaptiveJunkLogging.label "Pidä roskapostilokia">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "P">
 <!ENTITY openJunkLog.label "Näytä loki">
 <!ENTITY openJunkLog.accesskey "N">
 <!ENTITY resetTrainingData.label "Nollaa harjoitustiedot">

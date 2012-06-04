@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Viestien säilytys">
 <!ENTITY securitySettings.label  "Turva-asetukset">
 <!ENTITY serverSettings.label  "Palvelimen asetukset">
 <!ENTITY serverType.label  "Palvelintyyppi:">
@@ -52,9 +53,9 @@
 <!ENTITY emptyTrashOnExit.accesskey  "e">
 <!ENTITY loginAtStartup.label  "Tarkista saapunut posti käynnistyksen yhteydessä">
 <!ENTITY loginAtStartup.accesskey  "T">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label  "Kysy ennen kuin noudetaan yli">
 <!ENTITY maxMessagesStart.accesskey  "K">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label  "Valitse newsrc-tiedosto">
 <!ENTITY browseNewsrc.label  "Selaa…">
 <!ENTITY browseNewsrc.accesskey  "S">
+
+<!ENTITY accountTitle.label "Tilien asetukset">
+<!ENTITY accountSettingsDesc.label "Seuraava tili on erikoistapaus. Siihen ei liity käyttäjätietoja.">
