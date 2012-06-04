@@ -77,7 +77,7 @@
 <!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY useService.label                "Usar um serviço para instalar atualizações em segundo plano">
-<!ENTITY useService.accesskey            "U">
+<!ENTITY useService.accesskey            "s">
 
 <!ENTITY updateOthers.label              "Atualizar automaticamente">
 <!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
