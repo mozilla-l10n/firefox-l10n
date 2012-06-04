@@ -166,8 +166,8 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
-<!ENTITY responsiveUI.label "Responsive Mode">
-<!ENTITY responsiveUI.accesskey "R">
+<!ENTITY responsiveUI.label "Modo líquido">
+<!ENTITY responsiveUI.accesskey "q">
 <!ENTITY responsiveUI.commandkey "M">
 <!ENTITY scratchpad.label "Borrador">
 <!ENTITY scratchpad.accesskey "b">
