@@ -1,12 +1,12 @@
 
 <!ENTITY  history.title             "Aslol Kesɗitine">
-<!ENTITY  history.intro             "Ɗee-ɗoo kesɗitine loowaama:">
+<!ENTITY  history.intro             "Ɗee-ɗoo kesɗitine aafaama:">
 <!ENTITY  closebutton.label         "Uddu">
                                      
-<!ENTITY  noupdates.label           "Alaa kesɗitine loowaa tawo">
+<!ENTITY  noupdates.label           "Alaa kesɗitine aafaa tawo">
 
 <!ENTITY  name.header               "Innde Kesɗitinal">
-<!ENTITY  date.header               "Ñalngu Loowgol">
+<!ENTITY  date.header               "Ñalngu Aafgol">
 <!ENTITY  type.header               "Fannu">
 <!ENTITY  state.header              "Ngonka">
 

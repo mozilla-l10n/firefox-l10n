@@ -64,9 +64,9 @@
 <!ENTITY updateTab.label                 "Hesɗitin">
 
 <!ENTITY updateApp.label                 "Kesɗitine &brandShortName;:">
-<!ENTITY updateAuto.label                "Loow kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
-<!ENTITY updateAuto.accesskey            "L">
-<!ENTITY updateCheck.label               "Yuurnito kesɗitine, kono woppu am mi suɓoo loowgol">
+<!ENTITY updateAuto.label                "Aaf kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Yuurnito kesɗitine, kono woppu am mi suɓoo so mi aafat-ɗe">
 <!ENTITY updateCheck.accesskey           "Y">
 <!ENTITY updateManual.label              "Hoto yuurnito kesɗitine (wasiyaaka: ena ŋakki hisde)">
 <!ENTITY updateManual.accesskey          "H">
@@ -77,7 +77,7 @@
 <!ENTITY updateHistory.label             "Hollu Aslol Kesɗitine">
 <!ENTITY updateHistory.accesskey         "A">
 
-<!ENTITY useService.label                "Huutoro carwol cakkitol ngam loowde kesɗitine">
+<!ENTITY useService.label                "Huutoro carwol cakkitol ngam aafde kesɗitine">
 <!ENTITY useService.accesskey            "c">
 
 <!ENTITY updateOthers.label              "Yesɗitin e jaajol:">

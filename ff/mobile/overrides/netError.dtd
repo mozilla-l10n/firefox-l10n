@@ -67,7 +67,7 @@
 
 <!ENTITY protocolNotFound.title "Ñiiɓirde ndee faamaaka">
 <!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Ena wona ko maa loowaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.</li> 
+<li>Ena wona ko maa aafaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Sarworde proxy ndee saliima ceŋanɗe">
@@ -91,7 +91,7 @@ kukiije.</li>
 
 <!ENTITY unknownSocketType.title "Jaatol sarworde faamaaka">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Ƴeewto ngam yuurnitaade so yuɓɓo maa ena loowaa Personal Security 
+<li>Ƴeewto ngam yuurnitaade so yuɓɓo maa ena aafaa Personal Security 
 Manager.</li> 
 <li>Ɗum ena jolde so tawii teeltol sarworde ndee heftinaaka.</li> 
 </ul>">

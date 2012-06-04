@@ -36,7 +36,7 @@
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; horiima seŋaade e sarworde ndee. Aɗa yiɗi etaade goɗngol?">
 <!ENTITY sync.button.tryagain.label "Eto goɗngol">
 <!ENTITY sync.button.manual.label "Teelte junngol">
-<!ENTITY sync.subtitle.nointernet.label "Alaa ceŋol enternet woodi">
+<!ENTITY sync.subtitle.nointernet.label "Alaa ceŋol enternet woodi.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Teeltagol Gasii">

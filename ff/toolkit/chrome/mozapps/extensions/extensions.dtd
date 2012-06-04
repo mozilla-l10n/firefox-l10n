@@ -6,14 +6,14 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Nana loowa…">
-<!ENTITY listEmpty.installed.label            "A alaa hay ɓeydital gootal loowwaangal e oo fannu">
+<!ENTITY listEmpty.installed.label            "A alaa hay ɓeydital gootal aafaangal e oo fannu">
 <!ENTITY listEmpty.availableUpdates.label     "Alaa kesɗitine njiytaa">
 <!ENTITY listEmpty.recentUpdates.label        "A hesɗitinaani hay beyditere wootere sakket">
 <!ENTITY listEmpty.findUpdates.label          "Yuurno Kesɗitine">
 <!ENTITY listEmpty.search.label               "Horiima yiytude ɓaydittee jaaɓɗuɗe">
 <!ENTITY listEmpty.button.label               "Ɓeydu humpito e ɓeyditte">
-<!ENTITY installAddonFromFile.label           "Loow Ɓeyditte Iwde e Fiilde…">
-<!ENTITY installAddonFromFile.accesskey       "L">
+<!ENTITY installAddonFromFile.label           "Aaf Ɓeyditte Iwde e Fiilde…">
+<!ENTITY installAddonFromFile.accesskey       "A">
 <!ENTITY toolsMenu.tooltip                    "Kuutorɗe ɓeyditte fof">
 
 <!ENTITY cmd.back.tooltip                     "Rutto hello wooto">
@@ -61,11 +61,11 @@
 <!ENTITY updates.updating.label               "Nana hesɗitina ɓeyditte">
 <!ENTITY updates.installed.label              "Ɓeyditte maa kesɗitinaama.">
 <!ENTITY updates.downloaded.label             "Kesɗitine ɓeyditte maa ngaawtaama.">
-<!ENTITY updates.restart.label                "Hurmitin jooni ngam jokkitde loowgol">
+<!ENTITY updates.restart.label                "Hurmitin jooni ngam jokkitde aafgol">
 <!ENTITY updates.noneFound.label              "Alaa kesɗitine njiytaa">
 <!ENTITY updates.manualUpdatesFound.label     "Hollir Kesɗitine Goodaaɗe">
-<!ENTITY updates.updateSelected.label         "Loow Kesɗitine">
-<!ENTITY updates.updateSelected.tooltip       "Loow kesɗitine goodaaɗe e ngol doggol">
+<!ENTITY updates.updateSelected.label         "Aaf Kesɗitine">
+<!ENTITY updates.updateSelected.tooltip       "Aaf kesɗitine goodaaɗe e ngol doggol">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "Hollir Humpito Ɓeydoro">
@@ -87,8 +87,8 @@
 <!ENTITY cmd.enableTheme.accesskey            "J">
 <!ENTITY cmd.disableTheme.label               "Dartin Jolnugol Wutte">
 <!ENTITY cmd.disableTheme.accesskey           "J">
-<!ENTITY cmd.installAddon.label               "Loow">
-<!ENTITY cmd.installAddon.accesskey           "L">
+<!ENTITY cmd.installAddon.label               "Aaf">
+<!ENTITY cmd.installAddon.accesskey           "A">
 <!ENTITY cmd.uninstallAddon.label             "Ittu">
 <!ENTITY cmd.uninstallAddon.accesskey         "I">
 <!ENTITY cmd.showPreferencesWin.label         "Cuɓe">
@@ -125,11 +125,11 @@ nanndude e yiɗde maa.">
 
 <!ENTITY detail.updateType                    "Kesɗitine Jaajol">
 <!ENTITY detail.updateDefault.label           "Goowaaɗo">
-<!ENTITY detail.updateDefault.tooltip         "Loow kesɗitine e jaajol so wonaa tawa ko ɗum goowaɗum">
+<!ENTITY detail.updateDefault.tooltip         "Aaf kesɗitine e jaajol so wonaa tawa ko ɗum goowaɗum">
 <!ENTITY detail.updateAutomatic.label         "Kuɓɓol">
-<!ENTITY detail.updateAutomatic.tooltip       "Loow kesɗitine e jaajol">
+<!ENTITY detail.updateAutomatic.tooltip       "Aaf kesɗitine e jaajol">
 <!ENTITY detail.updateManual.label            "Ñifol">
-<!ENTITY detail.updateManual.tooltip          "Hoto loow kesɗitine e jaajol">
+<!ENTITY detail.updateManual.tooltip          "Hoto aaf kesɗitine e jaajol">
 <!ENTITY detail.home                          "Hello jaɓɓorgo">
 <!ENTITY detail.repository                    "Heftinirde Ɓeyditte">
 <!ENTITY detail.size                          "Ɓetol">
@@ -165,9 +165,9 @@ nanndude e yiɗde maa.">
 
 <!ENTITY search.filter2.label                 "Yiylo:">
 <!ENTITY search.filter2.installed.label       "Ɓeyditte Am">
-<!ENTITY search.filter2.installed.tooltip     "Hollu ɓeyditte loowaaɗe">
+<!ENTITY search.filter2.installed.tooltip     "Hollu ɓeyditte aafaaɗe">
 <!ENTITY search.filter2.available.label       "Ɓeyditte Goodaaɗe">
-<!ENTITY search.filter2.available.tooltip     "Hollu ɓeyditte goodaaɗe ngam loowde">
+<!ENTITY search.filter2.available.tooltip     "Hollu ɓeyditte goodaaɗe ngam aafde">
 
 <!ENTITY addon.homepage                       "Hello jaɓɓorgo">
 <!ENTITY addon.details.label                  "Teelte goɗɗe">
@@ -185,12 +185,12 @@ nanndude e yiɗde maa.">
 <!ENTITY addon.undoAction.label               "Firtu">
 <!ENTITY addon.undoAction.tooltip             "Firtu ngal baɗal">
 <!ENTITY addon.undoRemove.label               "Firtu">
-<!ENTITY addon.undoRemove.tooltip             "Woppu ngal ɓeydital ɗo loowii ɗoo">
+<!ENTITY addon.undoRemove.tooltip             "Woppu ngal ɓeydital ɗo aafii ɗoo">
 <!ENTITY addon.restartNow.label               "Hurmitin jooni">
-<!ENTITY addon.install.label                  "Loow">
-<!ENTITY addon.install.tooltip                "Loow ngal ɓeyditte">
+<!ENTITY addon.install.label                  "Aaf">
+<!ENTITY addon.install.tooltip                "Aaf ngal ɓeydital">
 <!ENTITY addon.updateNow.label                "Hesɗitin Jooni">
-<!ENTITY addon.updateNow.tooltip              "Loow kesɗitinal ngal ɓeydital">
+<!ENTITY addon.updateNow.tooltip              "LoAaf ow kesɗitinal ngal ɓeydital">
 <!ENTITY addon.includeUpdate.label            "Waɗor e kesɗitinal">
 <!ENTITY addon.updateAvailable.label          "Kesɗitinal ena woodi">
 <!ENTITY addon.checkingForUpdates.label       "Nana yiyloo kesɗitine…">
@@ -203,6 +203,6 @@ nanndude e yiɗde maa.">
 <!ENTITY eula.title                           "Nanondiral Jamirol Kuutoro">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Jaɓ, Loowaa…">
+<!ENTITY eula.accept                          "Jaɓ, Aafaa…">
 
 <!ENTITY settings.path.button.label           "Yiylo…">

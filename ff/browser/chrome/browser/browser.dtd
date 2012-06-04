@@ -228,7 +228,7 @@ can reach it easily. -->
   -  webpage. -->
 
 <!ENTITY inspect3DViewButton.label     "Jiytol 3D">
-<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspect3DViewButton.accesskey "o">
 
 <!ENTITY inspectStyleButton.label     "Pannol">
 <!ENTITY inspectStyleButton.accesskey "P">

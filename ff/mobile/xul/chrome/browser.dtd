@@ -72,7 +72,7 @@
 <!ENTITY bookmarkShortcut.label    "Ɓeydu to Hello Jaɓɓorgo">
 
 <!ENTITY identity.unverifiedsite2 "Ndee lowre geese hokkataa humpito innitol.">
-<!ENTITY identity.connectedTo2 "Seŋiima e &#x25;S">
+<!ENTITY identity.connectedTo2 "Seŋiima e">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string

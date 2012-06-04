@@ -14,11 +14,11 @@ saha sahaa kala.">
 ƴeewtagol jaajol &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Horiima Hesɗitinde">
-<!ENTITY  manualUpdate.desc               "Kesɗitinal potngal looweede kisal e jamɗugol kesal ena woodi, kono a alaa 
+<!ENTITY  manualUpdate.desc               "Kesɗitinal potngal aafeede kisal e jamɗugol kesal ena woodi, kono a alaa 
 jamirooje yuɓɓo naamnaaɗe ɗee ngam loowde ngal. Tiiɗno jokkondir e 
 jiiloowo yuɓɓo maa, walla eto kadi e konte jogiiɗe ɗeen jamirooje ngam 
-loowde topirɗe e ndee ordinateer.">
-<!ENTITY  manualUpdate.space.desc         "Kesɗitinal potngal looweede kisal e jamɗugol kesal ena woodi, kono a alaa 
+aafde topirɗe e ndee ordinateer.">
+<!ENTITY  manualUpdate.space.desc         "Kesɗitinal potngal aafeede kisal e jamɗugol kesal ena woodi, kono a alaa 
 boowal jonngal e mbeɗu maa ngam loowde ngal.">
 <!ENTITY  manualUpdateGetMsg.label        "Aɗa waawi heɓde yamre sakkitiinde &brandShortName; sahaa kala to:">
 
@@ -31,7 +31,7 @@ boowal jonngal e mbeɗu maa ngam loowde ngal.">
 kesɗitinal &brandShortName; ko yaajtii.">
 
 <!ENTITY  license.instructions            "So a jaɓii e kuule ngal nandondiral, dobo Mi Jaɓii 
-les ɗoo ngam jokkude loowgol ngal kesɗitinal.">
+les ɗoo ngam jokkude aafgol ngal kesɗitinal.">
 
 <!ENTITY  license.titleText               "Nanondiral Jamirol Topirde">
 <!ENTITY  license.introText               "Kuule e hujjaaji kuutorgol ndee topirɗe.">
@@ -56,7 +56,7 @@ pakkannde kesɗitinal ndee e kuuɓal.">
 
 <!ENTITY  error.title                     "Kesɗitinal Woorii">
 
-<!ENTITY  error.label                     "Waɗii caɗeele tuma ƴeewtagol, aawtagol, walla loogol ngal 
+<!ENTITY  error.label                     "Waɗii caɗeele tuma ƴeewtagol, aawtagol, walla aafgol ngal 
 kesɗitinal. &brandShortName; horiima hesɗitineede sabu:">
                                            
 <!ENTITY  errorManual.label               "Aɗa waawi hesɗitinde &brandShortName; e junngol so yillaade ngol jokkol 
@@ -72,21 +72,21 @@ Tiiɗno ƴeewto so njogi-ɗaa ko yamre sakkitiinde &brandShortName; iwde:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Won ko etotoo fuuntude &brandShortName; yoo jaɓ 
 kesɗitinal ngal hisaani. Tiiɗno jokkondir e jeeyoowo ceŋe maa ngal ɗeɓɓude ballal.">
 
-<!ENTITY  finishedPage.title              "Kesɗitinal Hebiima Looweede">
-<!ENTITY  finishedPage.text               "Kesɗitinal ngal maa loowe tuma nde &brandShortName; hurmiti. Aɗa 
+<!ENTITY  finishedPage.title              "Kesɗitinal Hebiima Aafeede">
+<!ENTITY  finishedPage.text               "Kesɗitinal ngal maa aafe tuma nde &brandShortName; hurmiti. Aɗa 
 waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">
 
 <!ENTITY  finishedBackgroundPage.text     "Kesɗitinal kisal e jamɗugol &brandShortName; gasii 
-aawteede etee hebiima looweede.">
+aawteede etee hebiima aafeede.">
 <!ENTITY  finishedBackground.name         "Hesɗitin:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Kesɗitinal ngal maa loowe tuma mo &brandShortName; hurmiti. 
+<!ENTITY  finishedBackground.more         "Kesɗitinal ngal maa aafe tuma mo &brandShortName; hurmiti. 
 waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">
 
-<!ENTITY  installed.title                 "Kesɗitinal Loowaama">
-<!ENTITY  installed.intro                 "Kesɗitinal ngal loowraama no moƴƴirta.">
+<!ENTITY  installed.title                 "Kesɗitinal Aafaama">
+<!ENTITY  installed.intro                 "Kesɗitinal ngal aafraama no moƴƴirta.">
 <!ENTITY  whatsnew.label                  "Tar humpito baɗte ko hesɗi…">
 
 <!ENTITY  update.details.label            "Cariiɗe">
-<!ENTITY  update.installedOn.label        "Loowaama ñalnde:">
+<!ENTITY  update.installedOn.label        "Aafaa ko ñalnde:">
 <!ENTITY  update.status.label             "Ngonka:">

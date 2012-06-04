@@ -1,11 +1,11 @@
-<!ENTITY title           "Loow Ɓeyditte">
+<!ENTITY title           "Aaf Ɓeyditere">
 <!ENTITY intro           "Jaaɓnirde woɗnde e ordinateer maa ena yiɗi waylude 
 &brandShortName; huutoraade ngal ɓeydital:">
-<!ENTITY warning         "Loow ɓeyditte tan so iwɗe e topotooɗo mo kooli-ɗaa.">
-<!ENTITY allow           "Yamir ngol loowol">
+<!ENTITY warning         "Aaf ɓeyditte tan so iwɗe e topotooɗo mo kooli-ɗaa.">
+<!ENTITY allow           "Yamir ngol aafgol">
 <!ENTITY later           "Aɗa waawi haaytude sahaa kala so yahde 
 to Toppitorde Ɓeyditte toh.">
 <!ENTITY continue        "Jokku">
-<!ENTITY restartMessage  "Maa kurmitinaa &brandShortName; ngam jokkitde loogol ngal ɓeydital.">
+<!ENTITY restartMessage  "Maa kurmitinaa &brandShortName; ngam jokkitde aafgol ngal ɓeydital.">
 <!ENTITY restartButton   "Hurmitin &brandShortName;">
 <!ENTITY cancelButton    "Haaytu">

@@ -18,14 +18,14 @@ e ɗee ɓeyditte ena ngoodi.">
 <!ENTITY  checking.status                 "Ɗum ena waawi ɓamde hojomaaji seeɗa…">
 
 <!ENTITY  found.wizard.title               "Ɓeyditte Jaaɓduɗe Njiytaama">
-<!ENTITY  found.top.label                 "Labo ɓeydital njiɗ-ɗaa loowde:">
-<!ENTITY  found.disabledXPinstall.label   "Ɗee ɓeyditte mbaawaa looweede sabu loowgol topirɗe koko daaƴaa oo 
+<!ENTITY  found.top.label                 "Labo ɓeydital njiɗ-ɗaa aafde:">
+<!ENTITY  found.disabledXPinstall.label   "Ɗee ɓeyditte mbaawaa aafeede sabu loowgol topirɗe koko daaƴaa oo 
 sahaa. Aɗa waawi waylude ngal teeltal les ɗoo.">
-<!ENTITY  found.enableXPInstall.label     "Yamir lowe geese yoo loow topirɗe">
+<!ENTITY  found.enableXPInstall.label     "Yamir lowe geese yoo aaf topirɗe">
 <!ENTITY  found.enableXPInstall.accesskey "Y">
 
-<!ENTITY  installing.wizard.title         "Nana loowa ɓeyditte jaaɓduɗe">
-<!ENTITY  installing.top.label            "Nana aawtoo kadi loowa kesɗitine ɓeyditte maa…">
+<!ENTITY  installing.wizard.title         "Nana aafa ɓeyditte jaaɓduɗe">
+<!ENTITY  installing.top.label            "Nana aawtoo kadi aafa kesɗitine ɓeyditte maa…">
 
 <!ENTITY  noupdates.wizard.title          "Alaa Ɓeyditte Jaaɓduɗe Njiytaa">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; horiima yiytude kesɗitine 
@@ -34,8 +34,8 @@ sahaa. Aɗa waawi waylude ngal teeltal les ɗoo.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; maa ƴeewto sahaa kala etee tintin-maa 
 so kesɗitine jaaɓduɗe e ɗee ɓeyditte njiytaa.">
 
-<!ENTITY  finished.wizard.title           "Ɓeydital Jaaɓdungal Loowaama.">
-<!ENTITY  finished.top.label              "&brandShortName; loowi kesɗitine ɓeyditte maa ɗee.">
+<!ENTITY  finished.wizard.title           "Ɓeydital Jaaɓdungal Aafaama">
+<!ENTITY  finished.top.label              "&brandShortName; aafi kesɗitine ɓeyditte maa ɗee.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; ena waawi ƴeewtaade sahaa kala etee tintin-maa 
 so kesɗitine ɓeyditte njiytaa.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; maa ƴeewto sahaa kala etee tintin-maa 
@@ -43,7 +43,7 @@ so kesɗitine ɓeyditte njiytaa.">
 
 <!ENTITY  adminDisabled.wizard.title      "Horiima Ƴeewtaade Kesɗitine">
 <!ENTITY  adminDisabled.warning.label     "Ƴeewtagol kesɗitine ɓeyditte ɗe njaaɓdaani aamnotaako 
-sabu loowgol topirɗe &brandShortName; koko daaƴaa. 
+sabu aafgol topirɗe &brandShortName; koko daaƴaa. 
 Tiiɗno jokkondir e Jiiloowo yuɓɓo maa ngam ballal.">
 
 <!ENTITY  versioninfo.wizard.title        "Nana ƴeewtoo Jaaɓdugol Ɓeyditte">
@@ -51,7 +51,7 @@ Tiiɗno jokkondir e Jiiloowo yuɓɓo maa ngam ballal.">
 yamre &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Ɗum ena waawi ɓamde hojomaaji seeɗa…">
 
-<!ENTITY  installerrors.wizard.title      "Caɗeele Loowgol Kesɗitine">
+<!ENTITY  installerrors.wizard.title      "Caɗeele Tuma Aafgol Kesɗitine">
 <!ENTITY  installerrors.intro.label       "&brandShortName; hawrii e caɗeele tuma nde hesɗitinta 
 yoga e ɓeyditte maa.">
 <!-- general strings used by several of the finish pages -->

@@ -21,7 +21,7 @@
 <!ENTITY  exit_label "Yaltu">
 <!ENTITY  continue_label "Jokku">
 
-<!ENTITY  launcher_shortcuts_title "Jaaɓirɗe Geese &brandShortName;">
+<!ENTITY  launcher_shortcuts_title "Jaaɓnirɗe Geese &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Alaa jaaɓirɗe geese njiytaa">
 
 <!ENTITY choose_file "Labo Fiilde">
@@ -73,7 +73,7 @@
 <!ENTITY pref_font_size_small "Tokoosum">
 <!ENTITY pref_font_size_medium "Hakindiinde">
 <!ENTITY pref_font_size_large "Mawnde">
-<!ENTITY pref_font_size_xlarge "Mande Mande">
+<!ENTITY pref_font_size_xlarge "Ɓurnde Mawnude">
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_sync "Sanngoɗin">
 
@@ -106,7 +106,7 @@
 <!ENTITY masterpassword_create_title "Sos Finnde Baabaare">
 <!ENTITY masterpassword_remove_title "Momtu Finnde Baabaare">
 <!ENTITY masterpassword_password "Finnde">
-<!ENTITY masterpassword_confirm "Teeŋtin Finnde">
+<!ENTITY masterpassword_confirm "Teeŋtin finnde">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Haaytu">
@@ -115,7 +115,7 @@
 <!ENTITY abouthome_addons_browse "Yiylo ɓeyditte &brandShortName; fof">
 <!ENTITY abouthome_last_tabs_title "Tabbe maa laawol ɓennungol">
 <!ENTITY abouthome_last_tabs_open "Uddit tabbe cakkitiiɗe fof">
-<!ENTITY abouthome_top_sites_title "Lowe Dowrowe">
+<!ENTITY abouthome_top_sites_title "Lowe dowrowe">
 <!ENTITY abouthome_top_sites_browse "Feeroe lowe dowrowe maa fof">
 <!ENTITY abouthome_no_top_sites "A alaa lowe dowrowe tawo. Tappu e palal tiitooɗe ngal ngam fuɗɗaade peeragol.">
 <!ENTITY abouthome_about_sync "Teelto Firefox Sync ngam naatde e maantore, aslol e tabbe ummoraade e kaɓirɗi goɗɗei">

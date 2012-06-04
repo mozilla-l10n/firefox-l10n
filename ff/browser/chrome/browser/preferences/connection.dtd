@@ -1,7 +1,7 @@
 
 <!ENTITY  connectionsDialog.title       "Teelte Seŋorde">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
+<!ENTITY  window.width                  "46em">
+<!ENTITY  window.macWidth               "48em">
 
 <!ENTITY  proxyTitle.label              "Teelto Proxiije ngam Naatde e Internet">
 <!ENTITY  noProxyTypeRadio.label        "Alaa proxy">

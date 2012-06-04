@@ -1,8 +1,8 @@
 <!-- extracted from institems.xul -->
 
-<!ENTITY dialog.title            "Loowgol Topirde">
+<!ENTITY dialog.title            "Aafgol Topirde">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Loow ɓeyditte tan so iwɗe e topotooɗo mo kooli-ɗaa.">
+<!ENTITY warningPrimary.label    "Aaf ɓeyditte tan so iwɗe e topotooɗo mo kooli-ɗaa.">
 <!ENTITY warningSecondary.label  "Topirɗe bonnooje ena mbaawi bonnude ordinateer maa walla taƴoo suturo maa.">
 
 <!ENTITY from.label "iwde:">

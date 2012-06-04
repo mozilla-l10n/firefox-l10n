@@ -15,7 +15,7 @@
 <!ENTITY  exit_label "Yaltu">
 <!ENTITY  continue_label "Jokku">
 
-<!ENTITY  launcher_shortcuts_title "Jaaɓirɗe Geese &brandShortName;">
+<!ENTITY  launcher_shortcuts_title "Jaaɓnirɗe Geese &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Alaa jaaɓirɗe geese njiytaa">
 
 <!ENTITY choose_file "Labo Fiilde">
