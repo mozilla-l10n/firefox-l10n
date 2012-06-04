@@ -4,7 +4,7 @@
 <!ENTITY treehead.sitename.label      "Scîto">
 <!ENTITY treehead.status.label        "Stato">
 <!ENTITY removepermission.label       "Scancélla scîto">
-<!ENTITY removepermission.accesskey   "S">
+<!ENTITY removepermission.accesskey   "a">
 <!ENTITY removeallpermissions.label   "Scancélla tùtti i scîti">
 <!ENTITY removeallpermissions.accesskey "t">
 <!ENTITY address.label                "Indirìsso do scîto:">

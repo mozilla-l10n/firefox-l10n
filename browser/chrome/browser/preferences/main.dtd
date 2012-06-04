@@ -23,15 +23,15 @@
 <!ENTITY showWhenDownloading.label     "Fànni védde o barcón di descaregaménti quànde descarego un file">
 <!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Særa quànde o descaregaménto o l'é finîo">
-<!ENTITY closeWhenDone.accesskey "S">
+<!ENTITY closeWhenDone.accesskey "l">
 <!ENTITY saveTo.label "Sarva file in">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Çèrca…">
 <!ENTITY chooseFolderWin.accesskey    "Ç">
 <!ENTITY chooseFolderMac.label        "Çèrni…">
-<!ENTITY chooseFolderMac.accesskey    "g">
+<!ENTITY chooseFolderMac.accesskey    "i">
 <!ENTITY alwaysAsk.label "Domàndime sénpre dónde sarvâ i file">
-<!ENTITY alwaysAsk.accesskey "a">
+<!ENTITY alwaysAsk.accesskey "f">
 
 <!ENTITY addonsMgr.label               "Conponénti azónti">
 <!ENTITY manageAddonsDescWin.label     "Càngia e preferénse pe i teu conponénti azónti">
