@@ -48,8 +48,8 @@
 <!ENTITY technicaldetails.label "Dettagli tecnici">
 <!ENTITY confirmWarning.label "Sono consapevole dei rischi.">
 <!ENTITY confirmWarning.accesskey "o">
-<!ENTITY createAccount.label "Crea un account">
-<!ENTITY createAccount.accesskey "C">
+<!ENTITY doneAccount.label "Fatto">
+<!ENTITY doneAccount.accesskey "F">
 <!ENTITY changeSettings.label "Cambia impostazioni">
 <!ENTITY changeSettings.accesskey "M">
 <!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Thunderbird per maggiori informazioni.">

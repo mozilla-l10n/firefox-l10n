@@ -27,6 +27,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Rispondi al mittente e a tutti i destinatari">
 <!ENTITY hdrReplyListButton1.label "Rispondi alla lista">
 <!ENTITY hdrReplyListButton1.tooltip "Rispondi alla lista di distribuzione">
+<!ENTITY hdrFollowupButton1.label "Rispondi nel gruppo">
+<!ENTITY hdrFollowupButton1.tooltip "Rispondi a questo messaggio nel gruppo di discussione">
 <!ENTITY hdrForwardButton1.label "Inoltra">
 <!ENTITY hdrForwardButton1.tooltip "Inoltra questo messaggio">
 <!ENTITY hdrJunkButton1.label "Indesiderata">

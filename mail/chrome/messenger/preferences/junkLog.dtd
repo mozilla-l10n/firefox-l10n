@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Registro attività posta indesiderata">
-<!ENTITY junkLogInfo.label "Registro attività dell'attività di controllo della posta indesiderata.">
+<!ENTITY adaptiveJunkLog.title "Registro attività filtro incrementale posta indesiderata">
+<!ENTITY adaptiveJunkLogInfo.label "Registro attività del filtro incrementale per la posta indesiderata.">
 <!ENTITY clearLog.label "Pulisci registro attività">
 <!ENTITY clearLog.accesskey "a">
 <!ENTITY closeLog.label "Chiudi">

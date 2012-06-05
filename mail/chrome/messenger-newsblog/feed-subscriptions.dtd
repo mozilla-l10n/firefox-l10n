@@ -9,6 +9,7 @@
 <!ENTITY feedFolder.accesskey "o">
 <!ENTITY quickMode.label "Mostra il sommario dell'articolo invece di caricare la pagina web">
 <!ENTITY quickMode.accesskey "r">
+<!ENTITY locationValidate.label "Controllo">
 <!ENTITY validateText.label "Controlla la correttezza e ottieni un url valido.">
 <!ENTITY button.addFeed.label "Aggiungi">
 <!ENTITY button.addFeed.accesskey "A">
