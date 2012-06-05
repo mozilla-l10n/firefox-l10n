@@ -45,8 +45,7 @@
 <!ENTITY PlainText.label                "純文字">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "未知">
-<!ENTITY ScreenName.label               "網路代號:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY chatName.label                 "聊天名稱:">
 
 <!ENTITY allowRemoteContent1.label      "允許遠端內容。">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -122,6 +121,25 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "註記:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "聊天">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber 帳號:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "相片">
 <!ENTITY Photo.accesskey                "o">
