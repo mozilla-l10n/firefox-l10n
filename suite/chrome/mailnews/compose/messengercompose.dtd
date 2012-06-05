@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "Žádné návrhy nenalezeny">
-<!ENTITY spellCheckIgnoreWord.label "Ignorovat slovo">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Přidat do slovníku">
-<!ENTITY spellCheckAddToDictionary.accesskey "p">
-
 <!ENTITY openAttachment.label "Otevřít">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "Přejmenovat…">

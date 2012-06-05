@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Pro dokončení instalace zásuvného modulu je potřeba aplikaci &brandShortName; restartovat.">
 
 <!ENTITY missingPlugin "Pro zobrazení obsahu je vyžadován zásuvný modulu.">
-<!ENTITY clickToPlayPlugin "Pro aktivaci zásuvného modulu klepněte zde.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin "Pro spuštění zásuvného modulu klepněte zde.">
+<!ENTITY clickToPlayPlugins "Pro spuštění zásuvných modulů klepněte zde.">
 <!ENTITY disabledPlugin "Tento zásuvný modul je zakázán.">
 <!ENTITY blockedPlugin.label "Tento zásuvný modul je z důvodů vaší ochrany zablokován.">
 
