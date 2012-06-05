@@ -1,9 +1,14 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY importDialog.windowTitle "Импорт">
 <!ENTITY importAll.label "Импортировать всё">
 <!ENTITY importAll.accesskey "п">
 <!ENTITY importMail.label "Почту">
 <!ENTITY importMail.accesskey "ч">
+<!ENTITY importFeeds.label "Подписки на ленты новостей">
+<!ENTITY importFeeds.accesskey "и">
 <!ENTITY importAddressbook.label "Адресные книги">
 <!ENTITY importAddressbook.accesskey "д">
 <!ENTITY importSettings.label "Настройки">
@@ -14,10 +19,13 @@
 <!ENTITY window.macWidth "55em">
 <!ENTITY importTitle.label "Мастер импорта &brandShortName;">
 <!ENTITY importShortDesc.label "Импорт почты, адресных книг, настроек и фильтров из других программ">
-<!ENTITY importDescription1.label "Мастер импортирует почтовые сообщения, содержимое адресных книг, настройки и/или фильтры из других почтовых программ и адресных книг в &brandShortName;.">
+<!ENTITY importDescription1.label "Мастер импортирует почтовые сообщения, содержимое адресных книг, подписки на ленты новостей, настройки и/или фильтры из других почтовых программ и распространённых форматов адресных книг в &brandShortName;.">
 <!ENTITY importDescription2.label "Импортированная однажды, эта информация будет доступна для вас из &brandShortName;.">
 <!ENTITY selectDescription.label "Выберите программу, из которой хотите произвести импорт:">
+<!ENTITY selectDescriptionB.label "Выберите существующую учётную запись или создайте новую учётную запись:">
 <!ENTITY selectDescription.accesskey "ы">
+<!ENTITY acctName.label "Имя:">
+<!ENTITY acctName.accesskey "м">
 <!ENTITY back.label "&lt; Назад">
 <!ENTITY forward.label "Далее &gt;">
 <!ENTITY finish.label "Готово">

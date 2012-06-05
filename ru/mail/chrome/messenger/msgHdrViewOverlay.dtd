@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY toField3.label "Кому ">
 <!ENTITY fromField3.label "От ">
 <!ENTITY senderField3.label "Отправитель ">
@@ -22,7 +25,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Архивировать это сообщение">
 <!ENTITY hdrSmartReplyButton1.label "Умный ответ">
 <!ENTITY hdrReplyButton1.label "Ответить">
-<!ENTITY hdrReplyButton1.tooltip "Ответить на это сообщение">
+<!ENTITY hdrReplyButton2.tooltip "Ответить отправителю этого сообщения">
 <!ENTITY hdrReplyAllButton1.label "Ответить всем">
 <!ENTITY hdrReplyAllButton1.tooltip "Ответить отправителю и всем получателям">
 <!ENTITY hdrReplyListButton1.label "Ответить в рассылку">

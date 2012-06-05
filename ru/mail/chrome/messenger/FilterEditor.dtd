@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Правила фильтрации">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Имя фильтра:">
@@ -35,3 +39,5 @@
 <!ENTITY ignoreSubthread.label "Пропустить ветку обсуждения">
 <!ENTITY watchThread.label "Отслеживать обсуждение">
 <!ENTITY stopExecution.label "Остановить выполнение фильтра">
+<!ENTITY addAction.tooltip "Добавить новое действие">
+<!ENTITY removeAction.tooltip "Удалить это действие">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY bookmarksManager.title "Управление закладками">
 <!ENTITY bookmarksManager.width "700">
 <!ENTITY bookmarksManager.height "500">
@@ -23,9 +27,9 @@
 <!ENTITY cmd.exportHTML.accesskey "о">
 <!ENTITY cmd.importHTML.label "Импорт из HTML…">
 <!ENTITY cmd.importHTML.accesskey "т">
-<!ENTITY cmd.backup.label "Резервное копирование…">
+<!ENTITY cmd.backup.label "Создать резервную копию…">
 <!ENTITY cmd.backup.accesskey "в">
-<!ENTITY cmd.restore2.label "Восстановить">
+<!ENTITY cmd.restore2.label "Восстановить резервную копию от">
 <!ENTITY cmd.restore2.accesskey "с">
 <!ENTITY cmd.restoreFromFile.label "Выбрать файл…">
 <!ENTITY cmd.restoreFromFile.accesskey "б">

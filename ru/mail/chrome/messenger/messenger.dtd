@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папку…">
@@ -21,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "щ">
 <!ENTITY newIMAccountCmd.label "Учётная запись чата…">
 <!ENTITY newIMAccountCmd.accesskey "а">
+<!ENTITY newIMContactCmd.label "Контакт в чате…">
+<!ENTITY newIMContactCmd.accesskey "о">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">
@@ -440,6 +446,8 @@
 <!ENTITY imStatus.unavailable "Занят">
 <!ENTITY imStatus.offline "Отключён">
 <!ENTITY imStatus.showAccounts "Показать учётные записи…">
+<!ENTITY joinChatCmd.label "Присоединиться к чату…">
+<!ENTITY joinChatCmd.accesskey "и">
 <!ENTITY savedFiles.label "Сохранённые файлы">
 <!ENTITY savedFiles.accesskey "х">
 <!ENTITY savedFiles.key "j">
@@ -661,7 +669,7 @@
 <!ENTITY contextMute.accesskey "б">
 <!ENTITY contextUnmute.label "Восстановить звук">
 <!ENTITY contextUnmute.accesskey "т">
-<!ENTITY junkBarMessage1.label "Спам">
+<!ENTITY junkBarMessage2.label "&brandShortName; считает, что это сообщение является спамом.">
 <!ENTITY junkBarButton1.label "Не спам">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "В целях безопасности &brandShortName; заблокировал в этом сообщении загрузку содержимого из сети.">

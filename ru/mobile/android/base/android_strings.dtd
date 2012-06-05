@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY splash_settingup "Настройка вашего &brandShortName;">
 <!ENTITY splash_bookmarks_history "Идёт обновление ваших закладок и истории, что может занять примерно минуту.">
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
@@ -32,7 +36,9 @@
 <!ENTITY history_older_section "Более 7 дней назад">
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
+<!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY new_tab "Новая вкладка">
+<!ENTITY num_tabs "&#037;d вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
@@ -70,11 +76,18 @@
 <!ENTITY share "Поделиться">
 <!ENTITY share_title "Поделиться через">
 <!ENTITY save_as_pdf "Сохранить как PDF">
+<!ENTITY find_in_page "Найти на странице">
+<!ENTITY find_text "Найти на странице">
+<!ENTITY find_prev "Предыдущее">
+<!ENTITY find_next "Следующее">
+<!ENTITY find_close "Закрыть">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
+<!ENTITY contextmenu_remove_history "Удалить">
 <!ENTITY contextmenu_remove_bookmark "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
 <!ENTITY contextmenu_share "Поделиться">
 <!ENTITY contextmenu_edit_bookmark "Изменить">
+<!ENTITY history_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">
 <!ENTITY bookmark_edit_location "Расположение">
@@ -83,6 +96,10 @@
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
+<!ENTITY add_to_reading_list "Добавить в Список для чтения">
+<!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
+<!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
+<!ENTITY reader_mode "Режим чтения">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
 <!ENTITY masterpassword_password "Пароль">
@@ -102,3 +119,5 @@
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
+<!ENTITY identity_connected_to "Вы соединены с">
+<!ENTITY identity_run_by "который управляется">

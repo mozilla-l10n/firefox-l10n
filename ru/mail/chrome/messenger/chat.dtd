@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY onlineContactsHeader.label "Подключённые контакты">
 <!ENTITY offlineContactsHeader.label "Отключённые контакты">
 <!ENTITY conversationsHeader.label "Разговоры">
@@ -27,7 +31,6 @@
 <!ENTITY addBuddyButton.label "Добавить собеседника">
 <!ENTITY joinChatButton.label "Присоединиться к чату">
 <!ENTITY chatAccountsButton.label "Показать учётные записи">
-<!ENTITY searchAllChatMessages.label.base "Поиск во всех разговорах… #1">
 <!ENTITY status.available "Доступен">
 <!ENTITY status.unavailable "Занят">
 <!ENTITY status.offline "Отключён">
