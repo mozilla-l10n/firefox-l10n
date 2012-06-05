@@ -7,6 +7,7 @@
 <!ENTITY chromeDebuggerMenu.label "Debug browser">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Chiudi">
+<!ENTITY debuggerUI.pauseExceptions "Metti in pausa su eccezioni">
 <!ENTITY debuggerUI.stepOverButton.tooltip "Ignora">
 <!ENTITY debuggerUI.stepInButton.tooltip "Entra">
 <!ENTITY debuggerUI.stepOutButton.tooltip "Esci">
