@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Inscrições em fontes">
 <!ENTITY subscriptionDesc.label "Nota: Eliminar ou alterar a pasta de uma fonte não irá afectar os artigos já transferidos.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "Exportar">
 <!ENTITY button.exportOPML.accesskey "T">
+<!ENTITY button.exportOPML.tooltip   "Exporta fontes com a estrutura da pasta; ctrl clique ou ctrl enter para exportar fontes como uma lista">
 
 <!ENTITY cmd.close.commandKey "W">
