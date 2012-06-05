@@ -30,8 +30,7 @@
 <!ENTITY PlainText.label "Простой текст">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Неизвестно">
-<!ENTITY ScreenName.label "Интернет-пейджер:">
-<!ENTITY ScreenName.accesskey "й">
+<!ENTITY chatName.label "Имя в чате:">
 <!ENTITY allowRemoteContent1.label "Разрешить содержимое из сети.">
 <!ENTITY allowRemoteContent1.accesskey "з">
 <!ENTITY allowRemoteContent1.tooltip "В HTML-сообщения возможно включать содержимое из внешних источников. Открытие подобного сообщения приведёт к созданию соединения с внешним источником и позволит этому источнику узнать, что сообщение было прочитано. Установив этот флажок, вы разрешите включать содержимое из внешних источников для HTML-сообщений, полученных от этого контакта.">
@@ -102,6 +101,24 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Заметки:">
 <!ENTITY Notes.accesskey "м">
+<!ENTITY Chat.tab "Чат">
+<!ENTITY Chat.accesskey "а">
+<!ENTITY Gtalk.label "Google Talk:">
+<!ENTITY Gtalk.accesskey "G">
+<!ENTITY AIM.label "AIM:">
+<!ENTITY AIM.accesskey "r">
+<!ENTITY Yahoo.label "Yahoo!:">
+<!ENTITY Yahoo.accesskey "Y">
+<!ENTITY Skype.label "Skype:">
+<!ENTITY Skype.accesskey "S">
+<!ENTITY QQ.label "QQ:">
+<!ENTITY QQ.accesskey "Q">
+<!ENTITY MSN.label "MSN:">
+<!ENTITY MSN.accesskey "M">
+<!ENTITY ICQ.label "ICQ:">
+<!ENTITY ICQ.accesskey "I">
+<!ENTITY XMPP.label "Jabber ID:">
+<!ENTITY XMPP.accesskey "J">
 <!ENTITY Photo.tab "Фото">
 <!ENTITY Photo.accesskey "о">
 <!ENTITY PhotoDesc.label "Выберите один из следующих вариантов:">

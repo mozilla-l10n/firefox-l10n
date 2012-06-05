@@ -25,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "щ">
 <!ENTITY newIMAccountCmd.label "Учётная запись чата…">
 <!ENTITY newIMAccountCmd.accesskey "а">
+<!ENTITY newIMContactCmd.label "Контакт в чате…">
+<!ENTITY newIMContactCmd.accesskey "о">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">
@@ -444,6 +446,8 @@
 <!ENTITY imStatus.unavailable "Занят">
 <!ENTITY imStatus.offline "Отключён">
 <!ENTITY imStatus.showAccounts "Показать учётные записи…">
+<!ENTITY joinChatCmd.label "Присоединиться к чату…">
+<!ENTITY joinChatCmd.accesskey "и">
 <!ENTITY savedFiles.label "Сохранённые файлы">
 <!ENTITY savedFiles.accesskey "х">
 <!ENTITY savedFiles.key "j">
