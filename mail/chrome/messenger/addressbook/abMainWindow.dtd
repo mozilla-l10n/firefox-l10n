@@ -141,8 +141,8 @@
 <!ENTITY GeneratedName.accesskey "И">
 <!ENTITY PrimaryEmail.label "Электронная почта">
 <!ENTITY PrimaryEmail.accesskey "Э">
-<!ENTITY ScreenName.label "Интернет-пейджер">
-<!ENTITY ScreenName.accesskey "П">
+<!ENTITY ChatName.label "Имя в чате">
+<!ENTITY ChatName.accesskey "м">
 <!ENTITY Company.label "Организация">
 <!ENTITY Company.accesskey "р">
 <!ENTITY NickName.label "Псевдоним:">
@@ -172,6 +172,7 @@
 <!ENTITY contact.heading "Контакт">
 <!ENTITY home.heading "Дом">
 <!ENTITY other.heading "Другие">
+<!ENTITY chat.heading "Чат">
 <!ENTITY phone.heading "Телефон">
 <!ENTITY work.heading "Рабочий">
 <!ENTITY description.heading "Описание">
