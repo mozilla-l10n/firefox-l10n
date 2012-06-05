@@ -208,7 +208,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "I">
+
+<!ENTITY responsiveUI.label            "Modo de resposta">
+<!ENTITY responsiveUI.accesskey        "r">
+<!ENTITY responsiveUI.commandkey       "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
