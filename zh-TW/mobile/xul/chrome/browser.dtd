@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.emptytext      "輸入要搜尋的資料或是網址">
 
 <!ENTITY back.label            "上一頁">
@@ -100,7 +104,7 @@
 <!ENTITY contextCopyImageLocation.label       "複製圖片網址">
 <!ENTITY contextShareLink.label       "分享鏈結">
 <!ENTITY contextShareImage.label      "分享圖片">
-<!ENTITY contextBookmarkLink.label    "書籤鏈結">
+<!ENTITY contextBookmarkLink.label    "將鏈結加入書籤">
 <!ENTITY contextSaveVideo.label       "儲存視訊檔案">
 <!ENTITY contextShareVideo.label      "分享影片">
 <!ENTITY contextPlayMedia.label       "播放">

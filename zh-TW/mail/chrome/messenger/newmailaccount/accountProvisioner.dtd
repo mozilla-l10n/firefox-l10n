@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "歡迎使用 &brandShortName;">
 <!ENTITY header2.label "想要來個新的電子郵件信箱嗎？">
 <!ENTITY other.languages "我們只顯示您所在地區能夠使用的服務供應商。請點此處以顯示所有供應商。">

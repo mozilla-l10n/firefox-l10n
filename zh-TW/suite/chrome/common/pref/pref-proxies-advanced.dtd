@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
 <!ENTITY  pref.proxies.advanced.title "進階 Proxy 偏好設定">
 <!ENTITY  protocols.caption           "不同通訊協定所使用的代理伺服器">

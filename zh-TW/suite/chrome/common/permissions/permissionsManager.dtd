@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowtitle.label              "例外">
 <!ENTITY treehead.sitename.label        "網站">
 <!ENTITY treehead.status.label          "狀態">
@@ -9,7 +13,7 @@
 <!ENTITY address.accesskey              "d">
 <!ENTITY block.label                    "封鎖">
 <!ENTITY block.accesskey                "B">
-<!ENTITY session.label                  "允許於此瀏覽階段">
+<!ENTITY session.label                  "此瀏覽階段中允許">
 <!ENTITY session.accesskey              "S">
 <!ENTITY allow.label                    "允許">
 <!ENTITY allow.accesskey                "A">

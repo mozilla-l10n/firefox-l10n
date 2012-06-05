@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY downloadManager.title           "下載管理員">
 
 <!ENTITY menuBar.tooltip                 "選單列">
@@ -46,7 +50,7 @@
 <!ENTITY col.endtime.accesskey           "i">
 <!ENTITY col.endtime.tooltip             "結束時間">
 <!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#">
 <!ENTITY col.progresstext.tooltip        "進度（&#37;）">
 <!ENTITY col.source.label                "原始碼">
 <!ENTITY col.source.accesskey            "o">
