@@ -98,6 +98,7 @@
 <!ENTITY permCookie "Ukládat cookies">
 <!ENTITY permInstall "Instalovat doplňky">
 <!ENTITY permGeo "Prozradit polohu">
+<!ENTITY permPlugins "Spouštět zásuvné moduly">
 
 <!ENTITY permIndexedDB "Správa offline úložiště">
 <!ENTITY permClearStorage "Vymazat úložiště">
