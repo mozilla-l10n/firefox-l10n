@@ -164,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "電子郵件">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "網路代號">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "聊天名稱">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "公司">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "暱稱">
@@ -198,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "連絡資訊">
 <!ENTITY home.heading                                   "首頁">
 <!ENTITY other.heading                                  "其他">
+<!ENTITY chat.heading                                   "聊天">
 <!ENTITY phone.heading                                  "電話">
 <!ENTITY work.heading                                   "商務">
 <!-- Special Box Headings, for mailing lists -->
