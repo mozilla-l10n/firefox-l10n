@@ -60,8 +60,8 @@
 <!ENTITY HomePhone.accesskey                   "p">
 <!ENTITY WorkPhone.label                       "Teléfono do traballo">
 <!ENTITY WorkPhone.accesskey                   "t">
-<!ENTITY ScreenName.label                      "Nome en pantalla">
-<!ENTITY ScreenName.accesskey                  "l">
+<!ENTITY ChatName.label                        "Nome das conversas">
+<!ENTITY ChatName.accesskey                    "c">
 <!ENTITY sortAscending.label                   "Ascendente">
 <!ENTITY sortAscending.accesskey               "d">
 <!ENTITY sortDescending.label                  "Descendente">
