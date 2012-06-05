@@ -16,7 +16,7 @@
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Använd aktuella sidor">
 <!ENTITY chooseBookmark.label      "Använd bokmärke…">
-<!ENTITY chooseBookmark.accesskey  "ä">
+<!ENTITY chooseBookmark.accesskey  "d">
 <!ENTITY restoreDefault.label      "Återställ standard">
 <!ENTITY restoreDefault.accesskey  "Å">
 
