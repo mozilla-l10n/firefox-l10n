@@ -1,5 +1,5 @@
-<!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
-<!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
+<!ENTITY adaptiveJunkLog.title "Dades d'entrenament del correu brossa">
+<!ENTITY adaptiveJunkLogInfo.label "Registre de les dades d'entrenament del correu brossa.">
 <!ENTITY clearLog.label "Buida el registre">
 <!ENTITY clearLog.accesskey "B">
 <!ENTITY closeLog.label "Tanca">
