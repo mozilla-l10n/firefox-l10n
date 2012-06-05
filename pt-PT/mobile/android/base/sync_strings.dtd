@@ -44,10 +44,10 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuração terminada'>
-<!ENTITY sync.subtitle.success.label 'Os seus dados estão agora a ser transferidos em segundo plano. Pode ir a definições para gerir a sua conta.'>
+<!ENTITY sync.subtitle.success.label1 'Os seus dados estão agora a ser transferidos em segundo plano. Pode ir a definições para gerir a sua conta ou comece a navegar com o &brandShortName;.'>
 <!ENTITY sync.settings.label 'Definições'>
-<!ENTITY sync.subtitle.manage.label 'A sua conta do &syncBrand.fullName.label; está configurada. Vá a definições para gerir a sua conta.'>
-  
+<!ENTITY sync.subtitle.manage.label1 'A sua conta do &syncBrand.fullName.label; está configurada. Vá a definições para gerir a sua conta ou inicie o &brandShortName;.'>
+
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Por favor, tente novamente.'>
 <!ENTITY sync.pair.connectlocation.label 'Para ativar o seu novo dispositivo, selecione “Configurar o &syncBrand.shortName.label;” no dispositivo e depois selecione “Eu tenho uma conta.”'>
@@ -72,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Marcadores desorganizados'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores do computador'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores do Mobile'>
+<!ENTITY bookmarks.folder.readinglist.label 'Lista de leitura'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Apenas é suportada uma conta do &syncBrand.fullName.label;.'>
