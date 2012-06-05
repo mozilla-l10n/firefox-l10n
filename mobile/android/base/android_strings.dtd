@@ -44,7 +44,11 @@
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Adiante">
 
+<!ENTITY close_tab "Pechar lapela">
 <!ENTITY new_tab "Nova lapela">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d lapelas">
 <!ENTITY new_tab_opened "Abriuse unha nova lapela">
 
 <!ENTITY settings "Configuración">
@@ -86,12 +90,25 @@
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por">
 <!ENTITY save_as_pdf "Gardar como PDF">
+<!ENTITY find_in_page "Atopar na páxina">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Atopar na páxina">
+<!ENTITY find_prev "Anterior">
+<!ENTITY find_next "Seguinte">
+<!ENTITY find_close "Pechar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
-<!ENTITY contextmenu_remove_bookmark "Eliminar">
+<!ENTITY contextmenu_remove_history "Retirar">
+<!ENTITY contextmenu_remove_bookmark "Retirar">
 <!ENTITY contextmenu_add_to_launcher "Engadir á pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Retirouse a páxina">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nome">
@@ -102,6 +119,11 @@
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Non hai configuracións para limpar.">
+
+<!ENTITY add_to_reading_list "Engadir á lista de lectura">
+<!ENTITY reading_list_added "Engadiuse a páxina á lista de lectura">
+<!ENTITY reading_list_removed "Retirouse a páxina da lista de lectura">
+<!ENTITY reader_mode "Modo de lectura">
 
 <!ENTITY masterpassword_create_title "Crear contrasinal principal">
 <!ENTITY masterpassword_remove_title "Eliminar contrasinal principal">
@@ -125,3 +147,18 @@
 <!ENTITY filepicker_audio_title "Escoller ou gravar un son">
 <!ENTITY filepicker_image_title "Escoller ou sacar unha foto">
 <!ENTITY filepicker_video_title "Escoller ou gravar un vídeo">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Está conectado/a a">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "que pertence a">

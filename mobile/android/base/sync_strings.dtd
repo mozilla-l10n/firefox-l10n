@@ -40,12 +40,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Rematou a configuración'>
-<!ENTITY sync.subtitle.success.label 'Agora os seus datos estanse descargando en segundo plano. Pode ir ao menú Configuración para xestionar a súa conta.'>
+<!ENTITY sync.subtitle.success.label1 'Agora os seus datos estanse descargando en segundo plano. Pode ir ao menú Configuración para xestionar a súa conta, ou comezar a navegar co &brandShortName;.'>
 <!ENTITY sync.settings.label 'Configuración'>
-<!ENTITY sync.subtitle.manage.label 'A súa conta de &syncBrand.fullName.label; xa está configurada. Vaia ao menú Configuración para xestionar a súa conta.'>
+<!ENTITY sync.subtitle.manage.label1 'A súa conta de &syncBrand.fullName.label; xa está configurada. Vaia ao menú Configuración para xestionar a súa conta, ou inicie o &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Tente de novo.'>
+<!ENTITY sync.pair.connectlocation.label 'Para activar o novo dispositivo, seleccione “Configurar &syncBrand.shortName.label;” no dispositivo, e logo seleccione “Xa teño unha conta.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opcións'>
@@ -67,6 +68,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Marcadores sen ordenar'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores do escritorio'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores do móbil'>
+<!ENTITY bookmarks.folder.readinglist.label 'Lista de lectura'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Só está permitida unha conta de &syncBrand.fullName.label;.'>
