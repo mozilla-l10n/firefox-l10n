@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -26,6 +30,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Spjallreikningur…">
 <!ENTITY newIMAccountCmd.accesskey "S">
+<!ENTITY newIMContactCmd.label "Spjall tengiliður…">
+<!ENTITY newIMContactCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label "Opna vistaðan póst…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Viðhengi">
@@ -460,6 +466,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable "Upptekinn">
 <!ENTITY imStatus.offline "Ótengdur">
 <!ENTITY imStatus.showAccounts "Sýna reikninga…">
+<!ENTITY joinChatCmd.label "Taka þátt í spjalli…">
+<!ENTITY joinChatCmd.accesskey "s">
 <!ENTITY savedFiles.label "Vistaðar skrár">
 <!ENTITY savedFiles.accesskey "V">
 <!ENTITY savedFiles.key "j">
@@ -740,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.label "Virkja hljóð">
 <!ENTITY contextUnmute.accesskey "V">
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Ruslpóstur">
+<!ENTITY junkBarMessage2.label "&brandShortName; heldur að þessi póstur sé ruslpóstur.">
 <!ENTITY junkBarButton1.label "Ekki ruslpóstur">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->

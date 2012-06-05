@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Stillingar póstþjóns út (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Þótt þú getir tilgreint fleiri ein einn póstþjón fyrir útsendan póst (SMTP), þá er bara mælt með því fyrir mjög vana notendur. Uppsetning á mörgum SMTP póstþjónum getur valdið villum þegar verið er að senda póst.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Þegar þú sýslar með auðkenni geturðu notað netþjón úr þessum lista með því að velja hann sem útsendan póst (SMTP), eða þú getur notað sjálfgefin netþjón úr listanum með því að velja &quot;Nota sjálfgefin póstþjón&quot;.">
 <!ENTITY smtpListAdd.label "Bæta við…">
 <!ENTITY smtpListAdd.accesskey "B">
 <!ENTITY smtpListEdit.label "Breyta…">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Straumaáskriftir">
 <!ENTITY subscriptionDesc.label "Athugið: Fjarlægja eða breyta á möppu fyrir straum mun ekki hafa áhrif á áður niðurhalaðar greinar.">
@@ -22,4 +26,5 @@
 <!ENTITY button.importOPML.accesskey "i">
 <!ENTITY button.exportOPML.label "Flytja út">
 <!ENTITY button.exportOPML.accesskey "t">
+<!ENTITY button.exportOPML.tooltip "Flytja út strauma með möppulista; ctrl smelltu eða ctrl enter til að flytja út strauma sem lista">
 <!ENTITY cmd.close.commandKey "w">
