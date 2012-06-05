@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Inställningen är klar'>
-<!ENTITY sync.subtitle.success.label 'Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto.'>
+<!ENTITY sync.subtitle.success.label1 'Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto, eller så kan du börja surfa med &brandShortName;.'>
 <!ENTITY sync.settings.label 'Inställningar'>
-<!ENTITY sync.subtitle.manage.label 'Ditt &syncBrand.fullName.label;-konto är redan klart. Gå till Inställningar för att hantera ditt konto.'>
+<!ENTITY sync.subtitle.manage.label1 'Ditt &syncBrand.fullName.label;-konto är redan klart. Du kan gå till Inställningar för att hantera ditt konto, eller så kan du starta &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Försök igen.'>
+<!ENTITY sync.pair.connectlocation.label 'Aktivera din nya enhet genom att välja ”Ställ in &syncBrand.shortName.label;” på enheten, välj sedan ”Jag har ett konto”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Alternativ'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Osorterade bokmärken'>
 <!ENTITY bookmarks.folder.desktop.label 'Datorns bokmärken'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobila bokmärken'>
+<!ENTITY bookmarks.folder.readinglist.label 'Läslista'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
