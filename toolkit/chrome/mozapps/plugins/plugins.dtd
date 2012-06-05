@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin "Pro zobrazení obsahu je vyžadován zásuvný modulu.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin "Pro spuštění zásuvného modulu klepněte zde.">
-<!ENTITY clickToPlayPlugins "Pro spuštění zásuvných modulů klepněte zde.">
+<!ENTITY clickToPlayPlugin "Pro spuštění zásuvného modulu klepněte zde.">
 <!ENTITY disabledPlugin "Tento zásuvný modul je zakázán.">
 <!ENTITY blockedPlugin.label "Tento zásuvný modul je z důvodů vaší ochrany zablokován.">
 
