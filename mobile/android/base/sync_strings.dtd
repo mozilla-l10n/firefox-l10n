@@ -72,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label '未排序書籤'>
 <!ENTITY bookmarks.folder.desktop.label '來自電腦的書籤'>
 <!ENTITY bookmarks.folder.mobile.label '行動書籤'>
+<!ENTITY bookmarks.folder.readinglist.label '閱讀清單'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '僅支援一個 &syncBrand.fullName.label; 帳號。'>

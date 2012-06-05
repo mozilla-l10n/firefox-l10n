@@ -28,8 +28,8 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "商務電話">
 <!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ScreenName.label                      "網路代號">
-<!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY ChatName.label                        "聊天名稱">
+<!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "由小到大">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "由大到小">

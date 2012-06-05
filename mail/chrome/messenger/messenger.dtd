@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "聊天帳號…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "聊天聯絡人…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "開啟已存郵件…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -483,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "沒空">
 <!ENTITY imStatus.offline            "離線">
 <!ENTITY imStatus.showAccounts       "顯示帳號…">
+<!ENTITY joinChatCmd.label "加入聊天…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "已存檔案">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
