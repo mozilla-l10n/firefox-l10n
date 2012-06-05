@@ -22,8 +22,8 @@
 <!ENTITY chooseFolderMac.label        "選擇…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
-<!ENTITY attachments.incoming.label   "接收中">
-<!ENTITY attachments.outgoing.label   "上傳中">
+<!ENTITY attachments.incoming.label   "內送">
+<!ENTITY attachments.outgoing.label   "外寄">
 
 <!ENTITY addCloudFileAccount.label        "新增">
 <!ENTITY addCloudFileAccount.accesskey    "A">

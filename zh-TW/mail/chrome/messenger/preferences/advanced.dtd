@@ -71,6 +71,9 @@
 <!ENTITY showUpdates.label              "顯示更新記錄">
 <!ENTITY showUpdates.accesskey          "S">
 
+<!ENTITY useService.label                "在背景服務當中安裝更新">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "設定…">
 <!ENTITY showSettings.accesskey        "S">

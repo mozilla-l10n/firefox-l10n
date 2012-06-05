@@ -27,7 +27,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "備存此訊息">
 <!ENTITY hdrSmartReplyButton1.label "智慧回覆">
 <!ENTITY hdrReplyButton1.label "回覆">
-<!ENTITY hdrReplyButton1.tooltip "回覆此訊息">
+<!ENTITY hdrReplyButton2.tooltip "回應此訊息給寄件者">
 <!ENTITY hdrReplyAllButton1.label "全部回覆">
 <!ENTITY hdrReplyAllButton1.tooltip "回信給寄件者及所有收件者">
 <!ENTITY hdrReplyListButton1.label "回覆清單">
