@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY onlineContactsHeader.label "Tengdir tengiliðir">
 <!ENTITY offlineContactsHeader.label "Ótengdir tengiliðir">
 <!ENTITY conversationsHeader.label "Samtal">
@@ -27,16 +31,6 @@
 <!ENTITY addBuddyButton.label "Bæta við tengilið">
 <!ENTITY joinChatButton.label "Taka þátt í spjalli">
 <!ENTITY chatAccountsButton.label "Sýna reikninga">
-<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
-     This is the base of the empty text for the chat search box.  We replace
-     #1 with the contents of the appropriate search.keyLabel.* value for the
-     platform (defined in messenger/messenger.dtd).
-     The goal is to convey to the user that typing in the box will allow them
-     to search for conversations and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
-     box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY searchAllChatMessages.label.base "Leita í samtölum… #1">
 <!ENTITY status.available "Tiltækt">
 <!ENTITY status.unavailable "Ófáanlegt">
 <!ENTITY status.offline "Ónettengdur">

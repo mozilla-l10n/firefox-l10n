@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Velkomin í &brandShortName;">
 <!ENTITY header2.label "Viltu nýtt tölvupóstfang?">
 <!ENTITY other.languages "Aðeins eru birtir þjónustuaðilar á þínu svæði.  Smelltu til að sýna alla aðila.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Til að minnka diskpláss, ekki hlaða niður:">
 <!ENTITY doNotDownloadNntp.label "Til að minnka diskpláss, ekki hlaða niður fyrir ónettengda notkun:">
 <!ENTITY doNotDownloadImap.label "Til að minnka diskpláss, er hægt að takmarka eftir aldri eða stærð hvaða póstum er halað niður og geymdir fyrir ónettengda notkun.">
