@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "垃圾郵件">
 <!ENTITY itemPhishing.label      "電子郵件詐騙">
 <!ENTITY itemPasswords.label     "密碼">
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "顯示 Cookie…">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "告訴網站我不想被追蹤">
+<!ENTITY doNotTrack.accesskey           "d">

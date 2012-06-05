@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "篩選條件規則">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "篩選條件名稱:">
@@ -40,3 +44,6 @@
 <!ENTITY ignoreSubthread.label "忽略回覆討論串">
 <!ENTITY watchThread.label "追蹤此主題">
 <!ENTITY stopExecution.label "停止篩選">
+
+<!ENTITY addAction.tooltip "新增動作">
+<!ENTITY removeAction.tooltip "移除此動作">

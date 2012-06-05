@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "消息來源訂閱">
 <!ENTITY subscriptionDesc.label      "注意: 移除或變更消息來源資料夾並不會影響已下載的文章。">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "匯出">
 <!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.exportOPML.tooltip   "匯出包含資料夾結構的資訊來源；按住 Ctrl 再點擊，或是按下 Ctrl+Enter 以單純將資訊來源匯出為清單">
 
 <!ENTITY cmd.close.commandKey        "w">
