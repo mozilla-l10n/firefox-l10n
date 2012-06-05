@@ -1,8 +1,12 @@
-<!ENTITY matchAll.label "Подходящие под все условия">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY matchAll.label "Удовлетворяющие всем условиям">
 <!ENTITY matchAll.accesskey "в">
-<!ENTITY matchAny.label "Подходящие под любое из условий">
+<!ENTITY matchAny.label "Удовлетворяющие любому из условий">
 <!ENTITY matchAny.accesskey "л">
-<!ENTITY matchAllMsgs.label "Все сообщения">
+<!ENTITY matchAllMsgs.label "Ко всем сообщениям">
 <!ENTITY matchAllMsgs.accesskey "с">
 <!ENTITY searchTermListAttributesFlexValue "5">
 <!ENTITY searchTermListOperatorsFlexValue "5">

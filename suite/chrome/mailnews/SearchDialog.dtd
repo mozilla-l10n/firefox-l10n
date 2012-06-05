@@ -1,29 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY searchHeading.label "Искать в папке:">
 <!ENTITY searchHeading.accesskey "с">
 <!ENTITY searchSubfolders.label "Включая вложенные папки">
-<!ENTITY searchSubfolders.accesskey "ю">
+<!ENTITY searchSubfolders.accesskey "в">
 <!ENTITY searchLocalSystem.label "Поиск в локальных папках">
 <!ENTITY searchLocalSystem.accesskey "л">
 <!ENTITY resetButton.label "Очистить">
-<!ENTITY resetButton.accesskey "ч">
+<!ENTITY resetButton.accesskey "О">
 <!ENTITY openButton.label "Открыть">
-<!ENTITY openButton.accesskey "р">
+<!ENTITY openButton.accesskey "т">
 <!ENTITY deleteButton.label "Удалить">
-<!ENTITY deleteButton.accesskey "д">
+<!ENTITY deleteButton.accesskey "У">
 <!ENTITY searchDialogTitle.label "Поиск сообщений…">
 <!ENTITY results.label "Результаты">
 <!ENTITY fileHereMenu.label "Поместить сюда">
-<!ENTITY fileHereMenu.accesskey "е">
+<!ENTITY fileHereMenu.accesskey "П">
 <!ENTITY fileButton.label "Поместить">
 <!ENTITY fileButton.accesskey "м">
 <!ENTITY goToFolderButton.label "Открыть папку сообщений">
-<!ENTITY goToFolderButton.accesskey "к">
+<!ENTITY goToFolderButton.accesskey "щ">
 <!ENTITY saveAsVFButton.label "Сохранить как виртуальную папку">
-<!ENTITY saveAsVFButton.accesskey "х">
+<!ENTITY saveAsVFButton.accesskey "в">
 <!ENTITY abSearchHeading.label "Место поиска:">
-<!ENTITY abSearchHeading.accesskey "с">
+<!ENTITY abSearchHeading.accesskey "М">
 <!ENTITY propertiesButton.label "Свойства">
-<!ENTITY propertiesButton.accesskey "в">
+<!ENTITY propertiesButton.accesskey "С">
 <!ENTITY composeButton.label "Написать">
-<!ENTITY composeButton.accesskey "п">
+<!ENTITY composeButton.accesskey "н">
 <!ENTITY abSearchDialogTitle.label "Расширенный режим поиска в адресной книге">

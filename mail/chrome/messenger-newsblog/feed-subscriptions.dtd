@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY feedSubscriptions.label "Подписки на ленты новостей">
 <!ENTITY subscriptionDesc.label "Примечание: Удаление или изменение папки ленты новостей не повлияет на ранее загруженные новости.">
 <!ENTITY feedTitle.label "Заголовок:">
@@ -21,4 +25,5 @@
 <!ENTITY button.importOPML.accesskey "м">
 <!ENTITY button.exportOPML.label "Экспортировать">
 <!ENTITY button.exportOPML.accesskey "к">
+<!ENTITY button.exportOPML.tooltip "Экспорт лент новостей со структурой папок; ctrl щелчок или ctrl enter экспортирует ленты в виде списка">
 <!ENTITY cmd.close.commandKey "w">

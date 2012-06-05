@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.formatting.title "Формат отправки">
 <!ENTITY sendMaildesc.label "При отправке сообщений в формате HTML, когда указано, что один или более адресатов не могут получать почту в формате HTML:">
 <!ENTITY askMe.label "Спрашивать (почтовый клиент спросит, какой формат использовать)">

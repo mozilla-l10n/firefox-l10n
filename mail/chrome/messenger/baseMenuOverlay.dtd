@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY helpMenu.label "Справка">
 <!ENTITY helpMenu.accesskey "С">
 <!ENTITY helpMenuWin.label "Справка">
@@ -10,8 +14,6 @@
 <!ENTITY releaseCmd2.accesskey "в">
 <!ENTITY whatsNewCmd.label "Что нового">
 <!ENTITY whatsNewCmd.accesskey "н">
-<!ENTITY featureConfiguratorCmd.label "Помощник в миграции">
-<!ENTITY featureConfiguratorCmd.accesskey "м">
 <!ENTITY openHelp.label "Содержание">
 <!ENTITY openHelp.accesskey "С">
 <!ENTITY openHelp.commandkey "VK_F1">

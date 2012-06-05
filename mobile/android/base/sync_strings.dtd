@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncBrand.fullName.label "Синхронизация Firefox">
 <!ENTITY syncBrand.shortName.label "Синхронизация">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
@@ -26,10 +30,11 @@
 <!ENTITY sync.button.manual.label "Настройка вручную">
 <!ENTITY sync.subtitle.nointernet.label "Нет соединения с Интернетом.">
 <!ENTITY sync.title.success.label "Настройка завершена">
-<!ENTITY sync.subtitle.success.label "Ваши данные сейчас загружаются в фоновом режиме. Вы можете перейти в Параметры для управления вашей учётной записью.">
+<!ENTITY sync.subtitle.success.label1 "Ваши данные сейчас загружаются в фоновом режиме. Вы можете перейти в Параметры для управления вашей учётной записью, или начать сёрфинг в &brandShortName;.">
 <!ENTITY sync.settings.label "Параметры">
-<!ENTITY sync.subtitle.manage.label "Ваша учётная запись &syncBrand.fullName.label; уже настроена. Вы можете перейти в Параметры для управления вашей учётной записью.">
+<!ENTITY sync.subtitle.manage.label1 "Ваша учётная запись &syncBrand.fullName.label; уже настроена. Вы можете перейти в Параметры для управления вашей учётной записью, или запустить &brandShortName;.">
 <!ENTITY sync.pair.tryagain.label "Пожалуйста, попробуйте снова.">
+<!ENTITY sync.pair.connectlocation.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;», а затем выберите «У меня есть учётная запись».">
 <!ENTITY sync.settings.options.label "Настройки">
 <!ENTITY sync.summary.pair.label "Связать другое устройство с вашей учётной записью &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Отмена">
@@ -43,5 +48,6 @@
 <!ENTITY bookmarks.folder.unfiled.label "Неподшитые закладки">
 <!ENTITY bookmarks.folder.desktop.label "Закладки десктопа">
 <!ENTITY bookmarks.folder.mobile.label "Мобильные закладки">
+<!ENTITY bookmarks.folder.readinglist.label "Список для чтения">
 <!ENTITY sync.notification.oneaccount.label "Только одна учётная запись &syncBrand.fullName.label; поддерживается.">
 <!ENTITY sync.new.recoverykey.status.incorrect "Некорректный ключ восстановления. Пожалуйста, попробуйте ещё раз.">

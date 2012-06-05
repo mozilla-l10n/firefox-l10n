@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Программа по улучшению работы пользователей ChatZilla">
 <!ENTITY window.size "width: 52em;">
 <!ENTITY intro.label "Программа по улучшению работы пользователей ChatZilla собирает информацию о том, как вы используете ChatZilla, не прерывая вашу работу. Она помогает разработчикам определить, что в ChatZilla нуждается в улучшении. Ничто из этой инфомации не будет использовано для установления вашей личности или связи с вами.">

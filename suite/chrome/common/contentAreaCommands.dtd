@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY popupWindowRejectCmd.label "Запретить всплывающие окна этого веб-сайта">
 <!ENTITY popupWindowRejectCmd.accesskey "е">
 <!ENTITY popupWindowAllowCmd.label "Разрешить всплывающие окна этого веб-сайта">
@@ -116,9 +120,11 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "т">
 <!ENTITY spellAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellAddToDictionary.accesskey "в">
+<!ENTITY spellUndoAddToDictionary.label "Отменить добавление в словарь">
+<!ENTITY spellUndoAddToDictionary.accesskey "м">
 <!ENTITY spellIgnoreWord.label "Пропустить слово">
 <!ENTITY spellIgnoreWord.accesskey "п">
-<!ENTITY spellCheckEnable.label "Проверка правописания">
+<!ENTITY spellCheckEnable.label "Проверка орфографии">
 <!ENTITY spellCheckEnable.accesskey "р">
 <!ENTITY spellNoSuggestions.label "(вариантов не найдено)">
 <!ENTITY spellDictionaries.label "Языки">
