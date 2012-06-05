@@ -14,7 +14,7 @@
 <!ENTITY manualMarkModeDelete.accesskey "x">
 <!ENTITY markAsReadOnSpam.label "Marca els missatges determinats com a brossa com a llegits">
 <!ENTITY markAsReadOnSpam.accesskey "c">
-<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
+<!ENTITY enableAdaptiveJunkLogging.label "Activa el registre de dades d'entrenament del correu brossa">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Mostra el registre">
 <!ENTITY openJunkLog.accesskey "t">
