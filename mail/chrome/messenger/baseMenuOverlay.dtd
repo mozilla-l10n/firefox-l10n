@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Hjálp">
 <!ENTITY helpMenu.accesskey "H">
@@ -13,8 +17,6 @@
 <!ENTITY releaseCmd2.accesskey "n">
 <!ENTITY whatsNewCmd.label "Nýjungar">
 <!ENTITY whatsNewCmd.accesskey "N">
-<!ENTITY featureConfiguratorCmd.label "Flutningshjálp">
-<!ENTITY featureConfiguratorCmd.accesskey "F">
 <!ENTITY openHelp.label "Hjálparefni">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
