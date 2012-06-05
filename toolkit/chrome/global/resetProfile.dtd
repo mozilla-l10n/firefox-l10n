@@ -8,6 +8,6 @@
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; zal herstarten en al het andere wordt verwijderd.">
 <!ENTITY resetProfile.dialog.button.label "&brandShortName; herinitialiseren">
 
-<!ENTITY resetProfile.title               "&brandShortName; herinitialiseren naar de standaardtoestand">
+<!ENTITY resetProfile.title               "&brandShortName; herinitialiseren naar de begintoestand">
 <!ENTITY resetProfile.description         "Als u grote en onoplosbare problemen ondervindt, begin dan opnieuw met alleen uw essentiële gegevens.">
 <!ENTITY resetProfile.button.label        "&brandShortName; herinitialiseren">
