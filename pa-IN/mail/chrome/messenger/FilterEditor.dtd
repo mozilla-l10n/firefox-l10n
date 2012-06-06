@@ -1,6 +1,9 @@
 <!ENTITY window.title "ਫਿਲਟਰ ਨਿਯਮ">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<<<<<<< local
 
+=======
+>>>>>>> other
 <!ENTITY filterName.label "ਫਿਲਟਰ ਨਾਂ:">
 <!ENTITY filterName.accesskey "i">
 
@@ -42,3 +45,8 @@
 <!ENTITY ignoreSubthread.label "ਸਬ-ਥਰਿੱਡ ਅਣਡਿੱਠਾ">
 <!ENTITY watchThread.label "ਥਰਿੱਡ ਨਿਗਰਾਨੀ">
 <!ENTITY stopExecution.label "ਫਿਲਟਰ ਚਲਾਉਣਾ ਰੋਕੋ">
+
+
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY removeAction.tooltip "Remove this action">
+

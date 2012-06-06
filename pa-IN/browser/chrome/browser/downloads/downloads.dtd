@@ -14,7 +14,11 @@
 
 <!ENTITY cmd.pause.label                  "ਵਿਰਾਮ">
 <!ENTITY cmd.pause.accesskey              "P">
+<<<<<<< local
 <!ENTITY cmd.resume.label                 "ਮੁੜ-ਚਾਲੂ">
+=======
+<!ENTITY cmd.resume.label                 "ਮੁੜ-ਪ੍ਰਾਪਤ">
+>>>>>>> other
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "ਰੱਦ ਕਰੋ">
 <!ENTITY cmd.cancel.accesskey             "C">
@@ -25,16 +29,32 @@
      -->
 <!ENTITY cmd.show.label                   "ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
 <!ENTITY cmd.show.accesskey               "F">
+<<<<<<< local
 <!ENTITY cmd.showMac.label                "Finder ਵਿੱਚ ਵੇਖਾਓ">
+=======
+<!ENTITY cmd.showMac.label                "Finder ਵਿੱਚ ਵੇਖੋ">
+>>>>>>> other
 <!ENTITY cmd.showMac.accesskey            "F">
+<<<<<<< local
 <!ENTITY cmd.retry.label                  "Retry">
+=======
+<!ENTITY cmd.retry.label                  "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
+>>>>>>> other
 <!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "ਡਾਊਨਲੋਡ ਲਿੰਕ ਕਾਪੀ ਕਰੋ">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<<<<<<< local
 <!ENTITY cmd.removeFromList.label         "ਲਿਸਟ ਵਿੱਚੋਂ ਹਟਾਓ">
+=======
+<!ENTITY cmd.removeFromList.label         "ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਓ">
+>>>>>>> other
 <!ENTITY cmd.removeFromList.accesskey     "e">
+<<<<<<< local
 <!ENTITY cmd.clearList.label              "ਲਿਸਟ ਸਾਫ਼ ਕਰੋ">
+=======
+<!ENTITY cmd.clearList.label              "ਸੂਚੀ ਸਾਫ਼ ਕਰੋ">
+>>>>>>> other
 <!ENTITY cmd.clearList.accesskey          "a">
 
 <!ENTITY downloadshistory.label           "ਸਭ ਡਾਊਨਲੋਡ ਵੇਖਾਓ">

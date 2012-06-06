@@ -1,24 +1,48 @@
-<!ENTITY addressbookPicker.label            "ਐਡਰੈੱਸ ਬੁੱਕ:">
+<!ENTITY addressbookPicker.label            "Address Book:">
 <!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "ਇਸ ਲਈ ਖੋਜ:">
+<!ENTITY searchInput.label                  "Search For:">
 <!ENTITY searchInput.accesskey              "o">
-<!ENTITY SearchNameOrEmail.label            "ਨਾਂ ਜਾਂ ਈਮੇਲ">
+<!ENTITY SearchNameOrEmail.label            "Name or Email">
 
+<<<<<<< local
 <!ENTITY deleteAddrBookCard.label           "ਹਟਾਓ">
+=======
+<!ENTITY deleteAddrBookCard.label           "Delete">
+>>>>>>> other
 <!ENTITY deleteAddrBookCard.accesskey       "D">
+<<<<<<< local
 <!ENTITY addrBookCardProperties.label       "ਵਿਸ਼ੇਸ਼ਤਾ">
+=======
+<!ENTITY addrBookCardProperties.label       "Properties">
+>>>>>>> other
 <!ENTITY addrBookCardProperties.accesskey   "P">
+<<<<<<< local
 <!ENTITY addtoToFieldMenu.label             "ਵੱਲ ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
+=======
+<!ENTITY addtoToFieldMenu.label             "Add to To field">
+>>>>>>> other
 <!ENTITY addtoToFieldMenu.accesskey         "A">
+<<<<<<< local
 <!ENTITY addtoCcFieldMenu.label             "Cc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
+=======
+<!ENTITY addtoCcFieldMenu.label             "Add to Cc field">
+>>>>>>> other
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
+<<<<<<< local
 <!ENTITY addtoBccFieldMenu.label            "Bcc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
+=======
+<!ENTITY addtoBccFieldMenu.label            "Add to Bcc field">
+>>>>>>> other
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+<<<<<<< local
 
+=======
+>>>>>>> other
 
-<!ENTITY toButton.label                     "ਵੱਲ ਵਿੱਚ ਸ਼ਾਮਲ:">
+<!ENTITY toButton.label                     "Add to To:">
 <!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label                     "Cc ਵਿੱਚ ਸ਼ਾਮਲ:">
-<!ENTITY ccButton.accesskey                 "d">
-<!ENTITY bccButton.label                    "Bcc ਵਿੱਚ ਸ਼ਾਮਲ:">
+<!ENTITY ccButton.label                     "Add to Cc:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Add to Bcc:">
 <!ENTITY bccButton.accesskey                "B">
+

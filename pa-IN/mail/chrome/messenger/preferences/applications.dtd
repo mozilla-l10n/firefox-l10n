@@ -1,7 +1,7 @@
-<!ENTITY  typeColumn.label            "ਸਮੱਗਰੀ ਟਾਈਪ">
+<!ENTITY  typeColumn.label            "Content Type">
 <!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "ਐਕਸ਼ਨ">
+<!ENTITY  actionColumn2.label         "Action">
 <!ENTITY  actionColumn2.accesskey     "A">
 
 <!ENTITY  focusSearch1.key            "f">
@@ -9,25 +9,42 @@
 
 <!ENTITY  filter.placeholder          "ਖੋਜ">
 
-<!ENTITY saveTo.label                 "ਫਾਇਲਾਂ ਇੱਥੇ ਸੰਭਾਲੋ">
+<!ENTITY saveTo.label                 "Save files to">
 <!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "ਮੈਨੂੰ ਹਮੇਸ਼ਾ ਪੁੱਛੋ ਕਿ ਕਿੱਥੇ ਸੰਭਾਲਣਾ ਹੈ">
+<!ENTITY alwaysAsk.label              "Always ask me where to save files">
 <!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY chooseFolderWin.label        "…ਝਲਕ">
+<!ENTITY chooseFolderWin.label        "Browse…">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "ਚੁਣੋ…">
+<!ENTITY chooseFolderMac.label        "Choose…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
+<<<<<<< local
 <!ENTITY attachments.incoming.label   "ਆਉਣ">
 <!ENTITY attachments.outgoing.label   "ਭੇਜਣ">
+=======
+<!ENTITY attachments.incoming.label   "Incoming">
+<!ENTITY attachments.outgoing.label   "Outgoing">
+>>>>>>> other
 
+<<<<<<< local
 <!ENTITY addCloudFileAccount.label        "ਸ਼ਾਮਲ">
+=======
+<!ENTITY addCloudFileAccount.label        "Add">
+>>>>>>> other
 <!ENTITY addCloudFileAccount.accesskey    "A">
 <!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
+<<<<<<< local
 <!ENTITY removeCloudFileAccount.label     "ਹਟਾਓ">
+=======
+<!ENTITY removeCloudFileAccount.label     "Remove">
+>>>>>>> other
 <!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
+<<<<<<< local
 <!ENTITY authRequired.button.label        "ਪਰਮਾਣਿਤ">
+=======
+<!ENTITY authRequired.button.label        "Authorize">
+>>>>>>> other
 <!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">

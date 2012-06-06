@@ -1,47 +1,69 @@
-<!ENTITY itemGeneral.label       "ਆਮ">
-<!ENTITY itemDisplay.label       "ਪੜ੍ਹਨ ਤੇ ਵੇਖਣ">
-<!ENTITY itemUpdate.label        "ਅੱਪਡੇਟ">
-<!ENTITY itemNetworking.label    "ਨੈੱਟਵਰਕ ਤੇ ਡਿਸਕ ਥਾਂ">
-<!ENTITY itemCertificates.label  "ਸਰਟੀਫਿਕੇਟ">
+<!ENTITY itemGeneral.label       "General">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
+<!ENTITY itemUpdate.label        "Update">
+<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
+<!ENTITY itemCertificates.label  "Certificates">
 
 <!-- General Settings -->
 
+<<<<<<< local
 <!ENTITY submitTelemetry.label         "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
+=======
+<!ENTITY submitTelemetry.label         "Submit Performance Data">
+>>>>>>> other
 <!ENTITY submitTelemetry.accesskey     "P">
+<<<<<<< local
 <!ENTITY telemetryInfoLink.label       "ਟੈਲੀਮੈਟਰੀ ਬਾਰੀ ਹੋਰ ਜਾਣਕਾਰੀ">
 <!ENTITY enableGlodaSearch.label       "ਗਲੋਬਲ ਖੋਜ ਅਤੇ ਇੰਡੈਕਸਰ ਚਾਲੂ">
+=======
+<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+>>>>>>> other
 <!ENTITY enableGlodaSearch.accesskey   "E">
-<!ENTITY systemIntegration.label       "ਸਿਸਟਮ ਸਬੰਧ">
-
-<!ENTITY alwaysCheckDefault.label      "ਹਮੇਸ਼ਾਂ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ &brandShortName; ਡਿਫਾਲਟ ਮੇਲ ਕਲਾਇਟ ਹੈ">
+<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
-<!ENTITY searchIntegration.label       "ਖੋਜ ਸੁਨੇਹਿਆਂ ਲਈ &searchIntegration.engineName; ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "ਹੁਣੇ ਚੈੱਕ ਕਰੋ">
+<!ENTITY checkNow.label                "Check Now">
 <!ENTITY checkNow.accesskey            "N">
+<!ENTITY configEditDesc.label          "Advanced Configuration">
+<!ENTITY configEdit.label              "Config Editor…">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
+<!ENTITY showReturnReceipts.label      "Return Receipts…">
+<!ENTITY showReturnReceipts.accesskey  "R">
 
-<!ENTITY showCondensedAddresses.label  "ਜਿਹੜੇ ਲੋਕ ਮੇਰੀ ਐਡਰੈੱਸ ਬੁੱਕ ਵਿੱਚ ਹੋਣ, ਕੇਵਲ ਉਨ੍ਹਾਂ ਲਈ ਹੀ ਨਾਂ ਵੇਖਾਓ">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Reading">
+<!ENTITY display.caption               "Display">
+<!ENTITY showCondensedAddresses.label  "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
-<!ENTITY autoMarkAsRead.label          "ਆਟੋਮੈਟਿਕ ਹੀ ਸੁਨੇਹਾ ਪੜ੍ਹਿਆ ਬਣਾਓ">
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "ਵੇਖਾਉਣ ਉਪਰੰਤ ਤੁਰੰਤ ਹੀ">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "ਇੰਨ੍ਹਾ ਚਿਰ ਵੇਖਾਉਣ ਬਾਅਦ">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "ਸਕਿੰਟ">
-<!ENTITY openMsgIn.label               "ਸੁਨੇਹੇ ਖੋਲ੍ਹੋ:">
-<!ENTITY openMsgInNewTab.label         "ਨਵੀਂ ਟੈਬ">
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY secondsLabel.label            "seconds">
+<!ENTITY openMsgIn.label               "Open messages in:">
+<!ENTITY openMsgInNewTab.label         "A new tab">
 <!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "ਨਵੀਂ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
+<!ENTITY reuseExpRadio0.label          "A new message window">
 <!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "ਮੌਜੂਦਾ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
+<!ENTITY reuseExpRadio1.label          "An existing message window">
 <!ENTITY reuseExpRadio1.accesskey      "e">
+<<<<<<< local
 <!ENTITY closeMsgOnMoveOrDelete.label  "ਹਿਲਾਉਣ ਜਾਂ ਹਟਾਉਣ ਨਾਲ ਸੁਨੇਹਾ ਵਿੰਡੋ/ਟੈਬ ਬੰਦ ਕਰੋ">
+=======
+<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
+>>>>>>> other
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+<<<<<<< local
 
 <!ENTITY configEditDesc.label          "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
 <!ENTITY configEdit.label              "ਸੰਰਚਨਾ ਐਡੀਟਰ…">
@@ -53,38 +75,49 @@
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "ਪੜ੍ਹਨ">
 <!ENTITY display.caption                "ਵੇਖਣ">
+=======
+>>>>>>> other
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ:">
+<!ENTITY autoCheck.label                "Automatically check for updates to:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "ਇੰਸਟਾਲ ਹੋਈਆਂ ਐਡ-ਆਨ">
+<!ENTITY enableAddonsUpdate.label       "Installed Add-ons">
 <!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY whenUpdatesFound.label         "ਜਦੋਂ &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲਣ,">
-<!ENTITY modeAskMe.label                "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਕੀ ਕਰਨਾ ਹੈ">
+<!ENTITY whenUpdatesFound.label         "When updates to &brandShortName; are found,">
+<!ENTITY modeAskMe.label                "Ask me what I want to do">
 <!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY modeAutomatic.label            "Automatically download and install the update">
 <!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਦਿਓ, ਜਦੋਂ ਇਹ ਮੇਰੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਬੰਦ ਕਰੇ">
+<!ENTITY modeAutoAddonWarn.label        "Warn me if this will disable any of my add-ons">
 <!ENTITY modeAutoAddonWarn.accesskey    "W">
-<!ENTITY showUpdates.label              "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
-<!ENTITY showUpdates.accesskey          "y">
+<!ENTITY showUpdates.label              "Show Update History">
+<!ENTITY showUpdates.accesskey          "S">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "ਸੈਟਿੰਗ…">
+<!ENTITY showSettings.label            "Settings…">
 <!ENTITY showSettings.accesskey        "S">
-<!ENTITY proxiesConfigure.label        "&brandShortName; ਦੀ ਇੰਟਰਨੈੱਟ ਨਾਲ ਜੁੜਨ ਦੀ ਸੰਰਚਨਾ ਕਰੋ">
-<!ENTITY connectionsInfo.caption       "ਕੁਨੈਕਸ਼ਨ">
-<!ENTITY offlineInfo.caption           "ਆਫਲਾਈਨ">
-<!ENTITY offlineInfo.label             "ਆਫਲਾਈਨ ਸੈਟਿੰਗ ਸੰਰਚਨਾ">
-<!ENTITY showOffline.label             "ਆਫਲਾਈਨ…">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
+<!ENTITY connectionsInfo.caption       "Connection">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Configure offline settings">
+<!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
+<<<<<<< local
 <!ENTITY Diskspace "ਡਿਸਕ ਥਾਂ">
 <!ENTITY offlineCompact.label "ਜਦੋਂ ਫੋਲਡਰ ਸੰਭਾਲੇ ਜਾਣ ਤਾਂ ਇਨ੍ਹਾਂ ਨੂੰ ਸੁੰਘੜੋ">
 <!ENTITY offlineCompact.accesskey "v">
+=======
+<!ENTITY Diskspace "Disk Space">
+<!ENTITY offlineCompact.label "Compact folders when it will save over">
+<!ENTITY offlineCompact.accesskey "a">
+>>>>>>> other
 <!ENTITY mb.label "MB">
+<<<<<<< local
 
+=======
+>>>>>>> other
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -92,10 +125,10 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ਕੈਸ ਲਈ">
+<!ENTITY useCacheBefore.label            "Use up to">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ">
-<!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
@@ -105,11 +138,12 @@
 <!ENTITY certs.ask                       "ਮੈਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛੋ">
 <!ENTITY certs.ask.accesskey             "A">
 
-<!ENTITY viewCertificates.label         "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
+<!ENTITY viewCertificates.label         "View Certificates">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "ਮਨਸੂਖ ਲਿਸਟ">
+<!ENTITY viewCRLs.label                 "Revocation Lists">
 <!ENTITY viewCRLs.accesskey             "R">
-<!ENTITY validation.label               "ਵੈਧਤਾ">
+<!ENTITY validation.label               "Validation">
 <!ENTITY validation.accesskey           "V">
-<!ENTITY viewSecurityDevices.label      "ਸੁਰੱਖਿਆ ਜੰਤਰ">
+<!ENTITY viewSecurityDevices.label      "Security Devices">
 <!ENTITY viewSecurityDevices.accesskey  "S">
+

@@ -51,11 +51,19 @@
 <!ENTITY netInterrupt.title "The connection was interrupted">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<<<<<<< local
 <!ENTITY notCached.title "ਦਸਤਾਵੇਜ਼ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
+=======
+<!ENTITY notCached.title "Document Expired">
+>>>>>>> other
 <!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
+<<<<<<< local
 
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
+=======
+<!ENTITY netOffline.title "Offline mode">
+>>>>>>> other
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
@@ -188,6 +196,10 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<<<<<<< local
 <!ENTITY remoteXUL.title "ਰਿਮੋਟ XUL">
+=======
+<!ENTITY remoteXUL.title "Remote XUL">
+>>>>>>> other
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 
