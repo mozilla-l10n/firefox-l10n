@@ -84,6 +84,7 @@
 <!ENTITY pref_font_size_xlarge "Muito grande">
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 
 <!ENTITY quit "Desistir">
 
