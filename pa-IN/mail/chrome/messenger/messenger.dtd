@@ -3,11 +3,7 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<<<<<<< local
-<!ENTITY newFolderCmd.label "…ਫੋਲਡਰ">
-=======
 <!ENTITY newFolderCmd.label "ਫੋਲਡਰ…">
->>>>>>> other
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "ਟੈਬ ਬੰਦ ਕਰੋ">
 <!ENTITY closeTabCmd2.accesskey "C">
@@ -25,35 +21,15 @@
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "ਖੋਜ ਸੰਭਾਲੋ…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<<<<<<< local
-<!ENTITY newOtherAccountsCmd.label "…ਹੋਰ ਅਕਾਊਂਟ">
-=======
 <!ENTITY newOtherAccountsCmd.label "ਹੋਰ ਅਕਾਊਂਟ…">
->>>>>>> other
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<<<<<<< local
-<!ENTITY newCreateEmailAccountCmd.label "…ਨਵਾਂ ਈਮੇਲ ਐਡਰੈਸ ਲਵੋ">
-=======
 <!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
->>>>>>> other
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
-<<<<<<< local
-<!ENTITY newExistingEmailAccountCmd.label "…ਮੌਜੂਦਾ ਮੇਲ ਅਕਾਊਂਟ">
-=======
 <!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
->>>>>>> other
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<<<<<<< local
-<!ENTITY newIMAccountCmd.label "…ਗੱਲਬਾਤ ਅਕਾਊਂਟ">
-=======
 <!ENTITY newIMAccountCmd.label "Chat Account…">
->>>>>>> other
 <!ENTITY newIMAccountCmd.accesskey "C">
-<<<<<<< local
-<!ENTITY openMessageFileCmd.label "…ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ">
-=======
 <!ENTITY openMessageFileCmd.label "ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ…">
->>>>>>> other
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ਅਟੈਚਮੈਂਟ">
 <!ENTITY openAttachmentCmd.accesskey "A">
@@ -74,19 +50,11 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "ਨਾ-ਭੇਜੇ ਸੁਨੇਹੇ ਭੇਜੋ">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<<<<<<< local
-<!ENTITY subscribeCmd.label "…ਮੈਂਬਰ ਬਣੋ">
-=======
 <!ENTITY subscribeCmd.label "ਮੈਂਬਰ ਬਣੋ…">
->>>>>>> other
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "ਫੋਲਡਰ ਹਟਾਓ">
 <!ENTITY deleteFolder.accesskey "e">
-<<<<<<< local
-<!ENTITY renameFolder.label "…ਫੋਲਡਰ ਨਾਂ ਬਦਲੋ">
-=======
 <!ENTITY renameFolder.label "ਫੋਲਡਰ ਨਾਂ ਬਦਲੋ…">
->>>>>>> other
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "ਫੋਲਡਰ ਸੁੰਘੜੋ">
@@ -97,40 +65,20 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
-<<<<<<< local
-<!ENTITY synchronizeOfflineCmd.label "…ਹੁਣੇ ਡਾਊਨਲੋਡ/ਸਿੰਕ ਕਰੋ">
-=======
 <!ENTITY synchronizeOfflineCmd.label "ਹੁਣੇ ਡਾਊਨਲੋਡ/ਸਿੰਕ ਕਰੋ…">
->>>>>>> other
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<<<<<<< local
-<!ENTITY settingsOfflineCmd.label "…ਆਫਲਾਈਨ ਸੈਟਿੰਗ">
-=======
 <!ENTITY settingsOfflineCmd.label "ਆਫਲਾਈਨ ਸੈਟਿੰਗ…">
->>>>>>> other
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "ਚੁਣੇ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "ਤਾਰਾ ਲੱਗੇ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY downloadStarredCmd.accesskey "a">
-<<<<<<< local
-<!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
-=======
 <!ENTITY printCmd.label "ਪ੍ਰਿੰਟ ਕਰੋ…">
->>>>>>> other
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<<<<<<< local
-<!ENTITY printPreviewCmd.label "ਪਰਿੰਟ ਝਲਕ">
-=======
 <!ENTITY printPreviewCmd.label "ਪ੍ਰਿੰਟ ਝਲਕ">
->>>>>>> other
 <!ENTITY printPreviewCmd.accesskey "v">
-<<<<<<< local
-<!ENTITY printSetupCmd.label "…ਸਫ਼ਾ ਸੈਟਅੱਪ">
-=======
 <!ENTITY printSetupCmd.label "ਸਫ਼ਾ ਸੈਟਅੱਪ…">
->>>>>>> other
 <!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
@@ -553,11 +501,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "ਗਲਤੀ ਕਨਸੋਲ">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<<<<<<< local
-<!ENTITY accountManagerCmd.label "…ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
-=======
 <!ENTITY accountManagerCmd.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ…">
->>>>>>> other
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
@@ -624,11 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip "ਚੁਣੇ ਫੋਲਡਰ ਤੋਂ ਹਟਾਏ ਗਏ ਸੁਨੇਹੇ ਹਟਾਓ">
 
 <!-- Tags Menu Popup -->
-<<<<<<< local
-<!ENTITY addNewTag.label "…ਨਵਾਂ ਟੈਗ">
-=======
 <!ENTITY addNewTag.label "ਨਵਾਂ ਟੈਗ…">
->>>>>>> other
 <!ENTITY addNewTag.accesskey "N">
 
 <!-- Folder Pane -->
@@ -642,11 +582,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
-<<<<<<< local
-<!ENTITY folderContextNew.label "…ਨਵਾਂ ਸਬ-ਫੋਲਡਰ">
-=======
 <!ENTITY folderContextNew.label "ਨਵਾਂ ਸਬ-ਫੋਲਡਰ…">
->>>>>>> other
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "ਨਾਂ ਬਦਲੋ">
 <!ENTITY folderContextRename.accesskey "R">
@@ -674,11 +610,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "ਪਸੰਦੀਦਾ ਫੋਲਡਰ">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<<<<<<< local
-<!ENTITY folderContextSettings.label "…ਸੈਟਿੰਗ">
-=======
 <!ENTITY folderContextSettings.label "ਸੈਟਿੰਗ…">
->>>>>>> other
 <!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
@@ -838,11 +770,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<<<<<<< local
-<!ENTITY junkBarMessage1.label "ਜੰਕ ਮੇਲ">
-=======
 <!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
->>>>>>> other
 <!ENTITY junkBarButton1.label "ਜੰਕ ਨਹੀਂ">
 <!ENTITY junkInfoButton.label "?">
 
@@ -891,19 +819,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
-<<<<<<< local
-<!ENTITY AddToAddressBook.label "…ਐਡਰੈੱਸ ਬੁੱਕ 'ਚ ਸ਼ਾਮਲ ਕਰੋ">
-=======
 <!ENTITY AddToAddressBook.label "ਐਡਰੈੱਸ ਬੁੱਕ 'ਚ ਸ਼ਾਮਲ ਕਰੋ…">
->>>>>>> other
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "ਐਡਰੈੱਸ ਬੁੱਕ ਵਿੱਚ ਸ਼ਾਮਲ">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<<<<<<< local
-<!ENTITY EditContact.label "…ਸੰਪਰਕ ਸੋਧ">
-=======
 <!ENTITY EditContact.label "ਸੰਪਰਕ ਸੋਧ…">
->>>>>>> other
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "ਸੰਪਰਕ ਵੇਖਾਓ">
 <!ENTITY ViewContact.accesskey "V">
@@ -927,17 +847,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
-<<<<<<< local
-<!ENTITY saveLinkAsCmd.label "…ਲਿੰਕ ਇੰਝ ਸੰਭਾਲੋ">
-=======
 <!ENTITY saveLinkAsCmd.label "ਲਿੰਕ ਇੰਝ ਸੰਭਾਲੋ…">
->>>>>>> other
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<<<<<<< local
-<!ENTITY saveImageAsCmd.label "…ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ">
-=======
 <!ENTITY saveImageAsCmd.label "ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ…">
->>>>>>> other
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey "C">
@@ -964,11 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "ਜ਼ੂਮ">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<<<<<<< local
-<!ENTITY preferencesCmdMac.label        "…ਮੇਰੀ ਪਸੰਦ">
-=======
 <!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ…">
->>>>>>> other
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "ਸਰਵਿਸਾਂ">
@@ -981,19 +889,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖਾਓ">
 
 
-<<<<<<< local
-<!ENTITY previousMsgButton.label "ਪਿੱਛੇ">
-=======
 <!ENTITY previousMsgButton.label "Previous">
->>>>>>> other
 <!ENTITY previousButtonToolbarItem.label "Previous Unread">
 <!ENTITY previousMsgButton.tooltip "Move to the previous message">
 
-<<<<<<< local
-<!ENTITY nextMsgButton.label "ਅੱਗੇ">
-=======
 <!ENTITY nextMsgButton.label "Next">
->>>>>>> other
 <!ENTITY nextMsgButton.tooltip "Move to the next message">
 
 <!ENTITY nextButtonToolbarItem.label "Next Unread">

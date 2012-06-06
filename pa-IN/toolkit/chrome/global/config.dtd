@@ -14,10 +14,6 @@
 <!ENTITY searchPrefs.label "ਖੋਜ:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
-<<<<<<< local
-
-=======
->>>>>>> other
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ਮੇਰੀ ਪਸੰਦ ਦਾ ਨਾਂ">

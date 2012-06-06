@@ -4,40 +4,16 @@
 <!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Name or Email">
 
-<<<<<<< local
-<!ENTITY deleteAddrBookCard.label           "ਹਟਾਓ">
-=======
 <!ENTITY deleteAddrBookCard.label           "Delete">
->>>>>>> other
 <!ENTITY deleteAddrBookCard.accesskey       "D">
-<<<<<<< local
-<!ENTITY addrBookCardProperties.label       "ਵਿਸ਼ੇਸ਼ਤਾ">
-=======
 <!ENTITY addrBookCardProperties.label       "Properties">
->>>>>>> other
 <!ENTITY addrBookCardProperties.accesskey   "P">
-<<<<<<< local
-<!ENTITY addtoToFieldMenu.label             "ਵੱਲ ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
-=======
 <!ENTITY addtoToFieldMenu.label             "Add to To field">
->>>>>>> other
 <!ENTITY addtoToFieldMenu.accesskey         "A">
-<<<<<<< local
-<!ENTITY addtoCcFieldMenu.label             "Cc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
-=======
 <!ENTITY addtoCcFieldMenu.label             "Add to Cc field">
->>>>>>> other
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<<<<<<< local
-<!ENTITY addtoBccFieldMenu.label            "Bcc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
-=======
 <!ENTITY addtoBccFieldMenu.label            "Add to Bcc field">
->>>>>>> other
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
-<<<<<<< local
-
-=======
->>>>>>> other
 
 <!ENTITY toButton.label                     "Add to To:">
 <!ENTITY toButton.accesskey                 "A">

@@ -1,18 +1,18 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ">
-<!ENTITY retry.label "ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼">
+<!ENTITY loadError.label "Problem loading page">
+<!ENTITY retry.label "Try Again">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
+<!ENTITY connectionFailure.title "Unable to connect">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "ਇਹ ਐਡਰੈਸ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ">
+<!ENTITY deniedPortAccess.title "This address is restricted">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ">
+<!ENTITY dnsNotFound.title "Server not found">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Check the address for typing errors such as
@@ -25,7 +25,7 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ">
+<!ENTITY fileNotFound.title "File not found">
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Check the file name for capitalization or other typing errors.</li>
@@ -33,12 +33,12 @@
 </ul>
 ">
 
-<!ENTITY generic.title "ਓਹ ਹੋ">
+<!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; can't load this page for some reason.</p>
 ">
 
-<!ENTITY malformedURI.title "ਐਡਰੈਸ ਠੀਕ ਨਹੀਂ ਹੈ">
+<!ENTITY malformedURI.title "The address isn't valid">
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Web addresses are usually written like
@@ -51,43 +51,34 @@
 <!ENTITY netInterrupt.title "The connection was interrupted">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<<<<<<< local
-<!ENTITY notCached.title "ਦਸਤਾਵੇਜ਼ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
-=======
 <!ENTITY notCached.title "Document Expired">
->>>>>>> other
 <!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
-<<<<<<< local
-
-<!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
-=======
 <!ENTITY netOffline.title "Offline mode">
->>>>>>> other
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "ਸਮੱਗਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ">
+<!ENTITY contentEncodingError.title "Content encoding error">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "ਅਸੁਰੱਖਿਅਤ ਫਾਇਲ ਕਿਸਮ">
+<!ENTITY unsafeContentType.title "Unsafe file type">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "ਕੁਨੈਕਸ਼ਨ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਗਿਆ">
+<!ENTITY netReset.title "The connection was reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਲਈ ਟਾਈਮ ਆਉਟ ਹੋ ਗਿਆ ਹੈ">
+<!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "The address wasn't understood">
@@ -196,10 +187,6 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<<<<<<< local
-<!ENTITY remoteXUL.title "ਰਿਮੋਟ XUL">
-=======
 <!ENTITY remoteXUL.title "Remote XUL">
->>>>>>> other
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 

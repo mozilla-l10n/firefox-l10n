@@ -1,4 +1,4 @@
-<!ENTITY editContactPanelDeleteContact.label "ਹਟਾਓ">
+<!ENTITY editContactPanelDeleteContact.label "Delete">
 <!ENTITY editContactPanelDeleteContact.accesskey "l">
 
 <!ENTITY editContactName.label "ਨਾਂ:">
@@ -7,7 +7,7 @@
 <!ENTITY editContactEmail.label "ਈਮੇਲ:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactAddressBook.label "ਐਡਰੈਸ ਬੁੱਕ:">
+<!ENTITY editContactAddressBook.label "Address Book:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelCancel.label "ਰੱਦ ਕਰੋ">

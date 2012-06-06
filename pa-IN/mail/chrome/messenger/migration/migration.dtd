@@ -5,14 +5,9 @@
 <!ENTITY importFromNonWin.label         "ਪਸੰਦ, ਅਖਾਊਂਟ ਡਾਟਾ, ਐਡਰੈੱਸ ਬੁੱਕ, ਫਿਲਟਰ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:">
 
 <!ENTITY importFromNothing.label        "ਕੁਝ ਵੀ ਇੰਪੋਰਟ ਨਾ ਕਰੋ">
-<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ਜਾਂ ਨਵਾਂ">
-<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromNothing.accesskey    "D">
-<<<<<<< local
-=======
 
 
->>>>>>> other
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">

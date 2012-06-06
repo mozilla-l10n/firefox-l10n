@@ -46,41 +46,37 @@
   -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "ਲਾਈਟਨਿੰਗ">
+<!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "ਈਵੈਂਟ…">
+<!ENTITY lightning.menupopup.new.event.label    "Event…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
-<!ENTITY lightning.menupopup.new.task.label     "ਟਾਸਕ…">
+<!ENTITY lightning.menupopup.new.task.label     "Task…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
-<!ENTITY lightning.menupopup.new.calendar.label "ਕੈਲੰਡਰ…">
+<!ENTITY lightning.menupopup.new.calendar.label "Calendar…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "ਖੋਲ੍ਹੋ">
+<!ENTITY lightning.menupopup.open.label               "Open">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "…ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ">
+<!ENTITY lightning.menupopup.open.message.label       "Saved Message…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "…ਕੈਲੰਡਰ ਫਾਇਲ">
+<!ENTITY lightning.menupopup.open.calendar.label      "Calendar File…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
 <!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label            "ਕੈਲੰਡਰ">
+<!ENTITY lightning.menu.view.calendar.label            "Calendar">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
-<!ENTITY lightning.menu.view.tasks.label               "ਟਾਸਕ">
+<!ENTITY lightning.menu.view.tasks.label               "Tasks">
 <!ENTITY lightning.menu.view.tasks.accesskey           "k">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "ਈਵੈਂਟ ਅਤੇ ਟਾਸਕ">
+<!ENTITY lightning.menu.eventtask.label                "Events and Tasks">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<<<<<<< local
-<!ENTITY lightning.calendarproperties.email.label               "ਈਮੇਲ:">
-=======
 
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
->>>>>>> other
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "This message contains an invitation to an event.">
@@ -92,7 +88,7 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "ਨਵਾਂ ਕੈਲੰਡਰ ਬਣਾਓ">
+<!ENTITY lightning.acctCentral.newCalendar.label "Create a new calendar">
 
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
@@ -101,7 +97,7 @@
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "Show None">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "ਅੱਜ ਝਲਕ ਵੇਖਾਉ">
+<!ENTITY todaypane.showTodayPane.label "Show Today Pane">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
 <!ENTITY todaypane.statusButton.label "Today Pane">
 

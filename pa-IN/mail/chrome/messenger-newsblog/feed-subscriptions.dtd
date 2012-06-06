@@ -3,25 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<<<<<<< local
-<!ENTITY feedSubscriptions.label     "ਫੀਡ ਮੈਂਬਰੀ">
-=======
 <!ENTITY feedSubscriptions.label     "Feed Subscriptions">
->>>>>>> other
 <!ENTITY subscriptionDesc.label      "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
 
-<<<<<<< local
-<!ENTITY feedTitle.label             "ਟਾਈਟਲ:">
-=======
 <!ENTITY feedTitle.label             "Title:">
->>>>>>> other
 <!ENTITY feedTitle.accesskey         "T">
 
-<<<<<<< local
-<!ENTITY feedLocation.label          "ਫੀਡ URL:">
-=======
 <!ENTITY feedLocation.label          "Feed URL:">
->>>>>>> other
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
 
@@ -31,47 +19,20 @@
 <!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
 <!ENTITY quickMode.accesskey         "h">
 
-<<<<<<< local
-<!ENTITY locationValidate.label      "ਵੈਧ">
-=======
 <!ENTITY locationValidate.label      "Validate">
->>>>>>> other
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
-<<<<<<< local
-<!ENTITY button.addFeed.label        "ਸ਼ਾਮਲ">
-=======
 <!ENTITY button.addFeed.label        "Add">
->>>>>>> other
 <!ENTITY button.addFeed.accesskey    "A">
-<<<<<<< local
-<!ENTITY button.editFeed.label       "ਅੱਪਡੇਟ">
-=======
 <!ENTITY button.editFeed.label       "Update">
->>>>>>> other
 <!ENTITY button.editFeed.accesskey   "U">
-<<<<<<< local
-<!ENTITY button.removeFeed.label     "ਹਟਾਓ">
-=======
 <!ENTITY button.removeFeed.label     "Remove">
->>>>>>> other
 <!ENTITY button.removeFeed.accesskey "R">
-<<<<<<< local
-<!ENTITY button.importOPML.label     "ਇੰਪੋਰਟ">
-=======
 <!ENTITY button.importOPML.label     "Import">
->>>>>>> other
 <!ENTITY button.importOPML.accesskey "I">
-<<<<<<< local
-<!ENTITY button.exportOPML.label     "ਐਕਸਪੋਰਟ">
-=======
 <!ENTITY button.exportOPML.label     "Export">
->>>>>>> other
 <!ENTITY button.exportOPML.accesskey "X">
-<<<<<<< local
-=======
 <!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
->>>>>>> other
 
 <!ENTITY cmd.close.commandKey        "w">
 

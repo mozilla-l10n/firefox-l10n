@@ -1,10 +1,5 @@
-<<<<<<< local
-<!ENTITY adaptiveJunkLog.title "ਅਡੈਪਟਿਵ ਜੰਕ ਮੇਲ ਲਾਗ">
-<!ENTITY adaptiveJunkLogInfo.label "ਐਡਪਟਿਵ ਜੰਕ ਮੇਲ ਕੰਟਰੋਲ ਸਰਗਰਮੀ ਦਾ ਲਾਗ ਹੈ।">
-=======
 <!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
 <!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
->>>>>>> other
 <!ENTITY clearLog.label "ਲਾਗ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY closeLog.label "ਬੰਦ ਕਰੋ">

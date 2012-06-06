@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label "ਪੋਰਟ: ">
 <!ENTITY userName.label   "ਯੂਜ਼ਰ ਨਾਂ: ">
 <!ENTITY connectionSecurity.label "ਕੁਨੈਕਸ਼ਨ ਸੁਰੱਖਿਆ: ">
-<!ENTITY authMethod.label   "ਪਰਮਾਣਕਿਤਾ ਢੰਗ: ">
+<!ENTITY authMethod.label   "Authentication method: ">

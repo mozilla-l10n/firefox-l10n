@@ -79,11 +79,7 @@
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "ਟੂਲਬਾਰ">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
-<<<<<<< local
-<!ENTITY menubarCmd.label                               "ਮੇਨੂ ਪੱਟੀ">
-=======
 <!ENTITY menubarCmd.label                               "Menu Bar">
->>>>>>> other
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "ਐਡਰੈੱਸ ਬੁੱਕ ਟੂਲਬਾਰ">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
@@ -99,10 +95,6 @@
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "ਨਾਂ ਇੰਝ ਵੇਖੋ">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<<<<<<< local
-
-=======
->>>>>>> other
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "First Last">

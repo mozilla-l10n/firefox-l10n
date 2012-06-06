@@ -22,7 +22,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ਲੇਟਵੀਂ ਲਾਈਨ ਵਿਸ਼ੇਸ਼ਤਾ">
+<!ENTITY windowTitle.label "ਹਰੀਜੱਟਲ ਲਾਈਨ ਵਿਸ਼ੇਸ਼ਤਾ">
 
 <!ENTITY dimensionsBox.label "ਮਾਪ">
 <!ENTITY heightEditField.label "ਉਚਾਈ:">
@@ -42,4 +42,4 @@
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "ਡਿਫਾਲਟ ਵਜੋਂ ਵਰਤੋਂ">
 <!ENTITY saveSettings.accessKey "D">
-<!ENTITY saveSettings.tooltip "ਨਵੀਂਆਂ ਲੇਟਵੀਆਂ ਲਾਈਨਾਂ ਖਿੱਚਣ ਸਮੇਂ ਇਹ ਸੈਟਿੰਗਾਂ ਵਰਤੋਂ">
+<!ENTITY saveSettings.tooltip "ਨਵੀਂ ਹਰੀਜੱਟਲ ਲਾਈਨਾਂ ਖਿੱਚਣ ਸਮੇਂ ਇਹ ਸੈਟਿੰਗਾਂ ਵਰਤੋਂ">

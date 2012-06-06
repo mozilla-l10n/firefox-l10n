@@ -46,11 +46,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY select.label             "or select the type of material to import:">
 
-<<<<<<< local
-<!ENTITY title.label              "ਟਾਈਟਲ">
-<!ENTITY processing.label         "ਇੰਪੋਰਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ…">
-=======
 <!ENTITY title.label              "Title">
 <!ENTITY processing.label         "Importing…">
 
->>>>>>> other

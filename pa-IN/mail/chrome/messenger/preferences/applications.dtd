@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "ਖੋਜ">
+<!ENTITY  filter.placeholder          "Search">
 
 <!ENTITY saveTo.label                 "Save files to">
 <!ENTITY saveTo.accesskey             "S">
@@ -18,33 +18,16 @@
 <!ENTITY chooseFolderMac.label        "Choose…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
-<<<<<<< local
-<!ENTITY attachments.incoming.label   "ਆਉਣ">
-<!ENTITY attachments.outgoing.label   "ਭੇਜਣ">
-=======
 <!ENTITY attachments.incoming.label   "Incoming">
 <!ENTITY attachments.outgoing.label   "Outgoing">
->>>>>>> other
 
-<<<<<<< local
-<!ENTITY addCloudFileAccount.label        "ਸ਼ਾਮਲ">
-=======
 <!ENTITY addCloudFileAccount.label        "Add">
->>>>>>> other
 <!ENTITY addCloudFileAccount.accesskey    "A">
 <!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
-<<<<<<< local
-<!ENTITY removeCloudFileAccount.label     "ਹਟਾਓ">
-=======
 <!ENTITY removeCloudFileAccount.label     "Remove">
->>>>>>> other
 <!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<<<<<<< local
-<!ENTITY authRequired.button.label        "ਪਰਮਾਣਿਤ">
-=======
 <!ENTITY authRequired.button.label        "Authorize">
->>>>>>> other
 <!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">

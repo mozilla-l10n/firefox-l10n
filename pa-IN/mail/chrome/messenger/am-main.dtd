@@ -12,11 +12,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "ਜਵਾਬੀ ਐਡਰੈੱਸ:">
 <!ENTITY replyTo.accesskey "s">
-<<<<<<< local
-<!ENTITY replyTo.placeholder "ਪ੍ਰਾਪਤਕਰਤਾ ਇਸ ਹੋਰ ਐਡਰੈਸ ਨੂੰ ਜਵਾਬ ਦੇਵੇਗਾ">
-=======
 <!ENTITY replyTo.placeholder "Recipients will reply to this other address">
->>>>>>> other
 <!ENTITY organization.label "ਸੰਸਥਾ:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "ਦਸਤਖਤ ਟੈਕਸਟ:">

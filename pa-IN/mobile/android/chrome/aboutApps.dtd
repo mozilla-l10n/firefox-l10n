@@ -1,20 +1,8 @@
-<<<<<<< local
-<!ENTITY aboutApps.title "ਤੁਹਾਡੀ ਐਪਸ">
-=======
 <!ENTITY aboutApps.title "ਤੁਹਾਡੇ ਐਪਸ">
->>>>>>> other
 
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<<<<<<< local
-<!ENTITY aboutApps.noApps.pre "ਕੋਈ ਵੈੱਬ ਐਪਸ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ। ਕੁਝ  ">
-=======
 <!ENTITY aboutApps.noApps.pre "ਕੋਈ ਵੈਬ ਐਪਸ ਇੰਸਟਾਲ ਨਹੀਂ ਹਨ। ਕੁਝ ਇੱਥੋ ਲਵੋ ">
->>>>>>> other
 <!ENTITY aboutApps.noApps.middle "ਐਪ ਸਟੋਰ">
-<<<<<<< local
-<!ENTITY aboutApps.noApps.post " ਤੋਂ ਲਵੋ।">
-=======
 <!ENTITY aboutApps.noApps.post ".">
->>>>>>> other

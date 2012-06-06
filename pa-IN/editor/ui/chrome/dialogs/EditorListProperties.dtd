@@ -29,8 +29,8 @@
 <!ENTITY startingNumber.label "ਇੱਥੋਂ ਸ਼ੁਰੂ:">
 <!ENTITY startingNumber.accessKey "S">
 <!ENTITY none.value "ਕੋਈ ਨਹੀਂ">
-<!ENTITY bulletList.value "ਬਿੰਦੀਆਂ ਵਾਲੀ ਲਿਸਟ">
-<!ENTITY numberList.value "ਅੰਕ ਵਾਲੀ ਲਿਸਟ">
+<!ENTITY bulletList.value "ਬਿੰਦੀਆਂ (ਨਾ-ਅੰਕੀ) ਲਿਸਟ">
+<!ENTITY numberList.value "ਗਿਣਤੀ ਲਿਸਟ">
 <!ENTITY definitionList.value "ਲਿਸਟ ਪ੍ਰੀਭਾਸ਼ਾ">
 <!ENTITY changeEntireListRadio.label "ਐਂਟਰੀ ਲਿਸਟ ਬਦਲੋ">
 <!ENTITY changeEntireListRadio.accessKey "C">

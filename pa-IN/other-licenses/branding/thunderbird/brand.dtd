@@ -1,9 +1,5 @@
 <!ENTITY  brandShortName        "ਥੰਡਰਬਰਡ">
 <!ENTITY  brandFullName         "ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ">
-<<<<<<< local
-<!ENTITY  vendorShortName       "ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ">
-=======
 <!ENTITY  vendorShortName       "ਮੋਜ਼ੀਲਾ">
->>>>>>> other
 <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird and the Thunderbird logos
                                  are trademarks of the Mozilla Foundation.">
