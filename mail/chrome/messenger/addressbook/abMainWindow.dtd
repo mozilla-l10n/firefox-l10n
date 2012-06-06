@@ -164,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Correio Eletrónico">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Nome a Mostrar">
-<!ENTITY ScreenName.accesskey "M">
+<!ENTITY ChatName.label                                 "Nome no Chat">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label "Empresa">
 <!ENTITY Company.accesskey "m">
 <!ENTITY NickName.label "Alcunha">
