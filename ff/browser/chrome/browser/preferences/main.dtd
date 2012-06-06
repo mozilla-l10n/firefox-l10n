@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Kurmital">
 
 <!ENTITY startupPage.label         "So &brandShortName; hurmii:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Hollu hello am jaɓɓorgo">
 <!ENTITY startupBlankPage.label    "Hollu hello meho">
 <!ENTITY startupLastSession.label  "Hollit kenorɗe am ɗee e tabbe cakkitiiɗe">
-<!ENTITY restoreOnDemand.label     "Hoto loow tabbe so wonaa labee">
-<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "Hello Jaɓɓorgo:">
 <!ENTITY homepage.accesskey        "J">

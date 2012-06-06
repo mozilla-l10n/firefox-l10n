@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "Kelal &syncBrand.fullName.label; Maa">
 <!ENTITY syncKey.page.description         "Ngal kelal huutortee ko gannitde keɓe e nder konte maa &syncBrand.fullName.label;. Maa sokloy naatnude kelal ngal tuma kala teelti-ɗaa &syncBrand.fullName.label; e ordinateer keso walla kaɓirgol kesol.">
 <!ENTITY syncKey.keepItSecret.heading     "Mooftu mo e sirlu">

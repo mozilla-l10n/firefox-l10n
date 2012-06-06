@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Kuuɓal">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Ƴeewto sahaa kala ngam yiyde so &brandShortName; ko wanngorde maa woowaande tuma nde hurmiti">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "Ƴeewto Jooni">
-<!ENTITY checkNow.accesskey              "J">
+<!ENTITY setDefault.label                "Waɗ &brandShortName; wanngorde woowaande">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; ko wanngoraade maa woowaande oo sahaa">
 <!ENTITY submitCrashes.label             "Neldu jaŋte kooke">
 <!ENTITY submitCrashes.accesskey         "N">
 <!ENTITY submitTelemetry.label           "Naatnoy keɓe moƴƴugol">

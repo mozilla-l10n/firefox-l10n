@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sanngoɗin">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Teeltagol Gasii">
-<!ENTITY sync.subtitle.success.label "Keɓe maa ngoni jooni ko e aawteede e cakkitol. Aɗa waawi yahde to Teelte ngam toppitaade konte maa.">
+<!ENTITY sync.subtitle.success.label1 "Keɓe maa ngoni jooni ko e aawteede e cakkitol. Aɗa waawi yahde to Teelte ngam toppitaade konte maa, walla fuɗɗo wanngoraade &brandShortName;.">
 <!ENTITY sync.settings.label "Teelte">
-<!ENTITY sync.subtitle.manage.label "Konte maa &syncBrand.fullName.label; teeltanooma kisa. Yah to Teelte ngam toppitaade konte maa.">
+<!ENTITY sync.subtitle.manage.label1 "Konte maa &syncBrand.fullName.label; teeltanooma kisa. Yah to Teelte ngam toppitaade konte maa walla hurmin &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Tiiɗno fuɗɗito.">
+<!ENTITY sync.pair.connectlocation.label "Ngam hurminde kaɓirgol maa kesol ngol, labo “Set up &syncBrand.shortName.label;” e kaɓirgol ngol, kisa labo-ɗaa “Miɗo Jogii Konte.”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Cuɓe">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Maantore ɗe Leemtaaka">
 <!ENTITY bookmarks.folder.desktop.label "Maantore Biro">
 <!ENTITY bookmarks.folder.mobile.label "Maantore Cinndel">
+<!ENTITY bookmarks.folder.readinglist.label "Nana Tara Doggol">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ko konte &syncBrand.fullName.label; goote tan tammbitaa.">

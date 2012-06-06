@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "Uddit kenorɗe kese e tabbere hesere">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
@@ -9,6 +13,9 @@
 
 <!ENTITY showTabBar.label             "Hollu palal tabbe sahaa kala">
 <!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY restoreTabsOnDemand.label        "Hoto loow tabbe so wonaa labee">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "So mi udditii jokkol e tabbere hesere, naat e mayre ɗoon e ɗoon">
 <!ENTITY switchToNewTabs.accesskey    "n">
