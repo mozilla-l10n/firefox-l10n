@@ -40,3 +40,6 @@
 <!ENTITY ignoreSubthread.label "Leig seachad am fo-shnàth">
 <!ENTITY watchThread.label "Cum sùil air an t-snàth">
 <!ENTITY stopExecution.label "Sguir dhen chriathradh">
+
+<!ENTITY addAction.tooltip "Cuir gnìomh ùr ris">
+<!ENTITY removeAction.tooltip "Thoir air falbh an gnìomh seo">
