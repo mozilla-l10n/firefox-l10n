@@ -1,4 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 <!ENTITY MsgSynchronize.label "Descargar y sincronizar mensajes">
 <!ENTITY MsgSelect.label "Elementos para usar sin conexión">
 <!ENTITY MsgSyncDesc.label "Si ya ha seleccionado las carpetas de correo o grupos de noticias para uso sin conexión, puede descargarlos y/o sincronizarlos ahora. Si no, utilice el botón &quot;Seleccionar&quot; para escoger las carpetas de correo y noticias que quiere utilizar sin conexión.">
