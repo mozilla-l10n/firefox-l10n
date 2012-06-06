@@ -78,8 +78,7 @@
 <!ENTITY PlainText.label                "Texto sen formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Descoñecido">
-<!ENTITY ScreenName.label               "Nome en pantalla:">
-<!ENTITY ScreenName.accesskey           "p">
+<!ENTITY chatName.label                 "Nome das conversas:">
 
 <!ENTITY allowRemoteContent1.label      "Permitir contido remoto.">
 <!ENTITY allowRemoteContent1.accesskey  "m">
@@ -158,6 +157,25 @@ a visualización do contido incorporado nas mensaxes HTML deste contacto.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notas:">
 <!ENTITY Notes.accesskey                "o">
+
+<!ENTITY Chat.tab                       "Conversas">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "ID de Jabber:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">

@@ -31,6 +31,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Conta de conversas…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Contacto de conversas…">
+<!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Abrir mensaxe gardada…">
 <!ENTITY openMessageFileCmd.accesskey "m">
 <!ENTITY openAttachmentCmd.label "Anexos">
@@ -482,6 +484,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Non dispoñíbel">
 <!ENTITY imStatus.offline            "Desconectado">
 <!ENTITY imStatus.showAccounts       "Mostrar as contas…">
+<!ENTITY joinChatCmd.label "Entrar na conversa…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Ficheiros gardados">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
@@ -773,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Correo lixo">
+<!ENTITY junkBarMessage2.label "&brandShortName; identificou esta mensaxe como correo lixo.">
 <!ENTITY junkBarButton1.label "Non é lixo">
 <!ENTITY junkInfoButton.label "?">
 

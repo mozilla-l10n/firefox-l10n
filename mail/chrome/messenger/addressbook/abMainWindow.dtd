@@ -160,8 +160,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "e">
 <!ENTITY PrimaryEmail.label                             "Correo electrónico">
 <!ENTITY PrimaryEmail.accesskey                         "e">
-<!ENTITY ScreenName.label                               "Nome en pantalla">
-<!ENTITY ScreenName.accesskey                           "l">
+<!ENTITY ChatName.label                                 "Nome das conversas">
+<!ENTITY ChatName.accesskey                             "c">
 <!ENTITY Company.label                                  "Organización">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Alcume">
@@ -192,8 +192,9 @@ because displayed names don't have the comma in between. -->
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contacto">
-<!ENTITY home.heading                                   "Inicio">
+<!ENTITY home.heading                                   "Domicilio">
 <!ENTITY other.heading                                  "Outro">
+<!ENTITY chat.heading                                   "Conversas">
 <!ENTITY phone.heading                                  "Teléfono">
 <!ENTITY work.heading                                   "Traballo">
 <!-- Special Box Headings, for mailing lists -->
