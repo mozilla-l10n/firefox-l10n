@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "Ihr &syncBrand.fullName.label;-Schlüssel">
 <!ENTITY syncKey.page.description         "Dieser Schlüssel wird verwendet, um die Daten in Ihrem &syncBrand.fullName.label;-Account zu dekodieren. Sie benötigen diesen Schlüssel jedes Mal, wenn Sie &syncBrand.fullName.label; auf einem neuen Computer oder Gerät einrichten.">
 <!ENTITY syncKey.keepItSecret.heading     "Halten Sie ihn geheim">
