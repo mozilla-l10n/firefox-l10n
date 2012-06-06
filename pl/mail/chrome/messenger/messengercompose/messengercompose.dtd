@@ -21,8 +21,8 @@
 <!ENTITY attachFileCmd.label     "Plik…">
 <!ENTITY attachFileCmd.accesskey "l">
 <!ENTITY attachFileCmd.key       "A">
-<!ENTITY attachCloudCmd.label "Filelink">
-<!ENTITY attachCloudCmd.accesskey "F">
+<!ENTITY attachCloudCmd.label "Odnośnik do serwisu przechowywania plików">
+<!ENTITY attachCloudCmd.accesskey "d">
 <!ENTITY attachPageCmd.label     "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label        "Wizytówkę">
@@ -269,8 +269,8 @@
 <!ENTITY selectAll.accesskey        "w">
 <!ENTITY attachFile.label           "Załącz plik">
 <!ENTITY attachFile.accesskey       "p">
-<!ENTITY attachCloud.label "Filelink…">
-<!ENTITY attachCloud.accesskey "F">
+<!ENTITY attachCloud.label "Odnośnik do serwisu przechowywania plików…">
+<!ENTITY attachCloud.accesskey "d">
 <!ENTITY convertCloud.label "Przekształć…">
 <!ENTITY convertCloud.accesskey "r">
 <!ENTITY cancelUpload.label "Anuluj wgrywanie">
