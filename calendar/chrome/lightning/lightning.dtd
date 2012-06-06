@@ -75,7 +75,12 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
+<<<<<<< local
 <!ENTITY lightning.calendarproperties.email.label               "ਈਮੇਲ:">
+=======
+
+<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+>>>>>>> other
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "This message contains an invitation to an event.">

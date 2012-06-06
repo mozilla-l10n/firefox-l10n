@@ -6,9 +6,17 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "ਮੇਲ ਅਕਾਊਂਟ ਜੋੜੋ…">
 <!ENTITY addMailAccountButton.accesskey "A">
+<<<<<<< local
 <!ENTITY addIMAccountButton.label "ਗੱਲਬਾਤ ਅਕਾਊਂਟ ਜੋੜੋ…">
+=======
+<!ENTITY addIMAccountButton.label "Add Chat Account…">
+>>>>>>> other
 <!ENTITY addIMAccountButton.accesskey "C">
+<<<<<<< local
 <!ENTITY addOtherAccountButton.label "ਹੋਰ ਅਕਾਊਂਟ ਜੋੜੋ…">
+=======
+<!ENTITY addOtherAccountButton.label "Add Other Account…">
+>>>>>>> other
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "ਡਿਫਾਲਟ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!ENTITY setDefaultButton.accesskey "D">
@@ -24,6 +32,6 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 105ch; height: 49em;">
+<!ENTITY accountManager.size "width: 105ch; height: 55em;">
 <!ENTITY accountTree.width "width: 31ch;">
 

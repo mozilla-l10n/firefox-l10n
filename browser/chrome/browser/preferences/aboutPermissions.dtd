@@ -1,39 +1,89 @@
+<<<<<<< local
+=======
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+>>>>>>> other
 <!ENTITY permissionsManager.title        "ਅਧਿਕਾਰ ਮੈਨੇਜਰ">
 
+<<<<<<< local
 <!ENTITY sites.search                    "ਖੋਜ ਸਾਇਟਾਂ">
 <!ENTITY sites.allSites                  "ਸਭ ਸਾਇਟਾਂ">
+=======
+<!ENTITY sites.search                    "ਸਾਈਟ ਖੋਜ">
+<!ENTITY sites.allSites                  "ਸਭ ਸਾਈਟਾਂ">
+>>>>>>> other
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
+<<<<<<< local
 <!ENTITY header.site.start               "ਅਧਿਕਾਰ ਇਸ ਲਈ">
+=======
+<!ENTITY header.site.start               "ਇਸ ਲਈ ਅਧਿਕਾਰ">
+>>>>>>> other
 <!ENTITY header.site.end                 "">
 
+<<<<<<< local
 <!ENTITY header.defaults                 "ਸਭ ਸਾਇਟਾਂ ਲਈ ਡਿਫਾਲਟ ਅਧਿਕਾਰ">
+=======
+<!ENTITY header.defaults                 "ਸਭ ਸਾਈਟਾਂ ਲਈ ਮੂਲ ਅਧਿਕਾਰ">
+>>>>>>> other
 
+<<<<<<< local
 <!ENTITY permissions.forgetSite          "ਇਹ ਸਾਇਟ ਬਾਰੇ ਭੁੱਲ ਜਾਓ">
+=======
+<!ENTITY permissions.forgetSite          "ਇਹ ਸਾਈਟ ਬਾਰੇ ਭੁੱਲ ਜਾਓ">
+>>>>>>> other
 
 <!ENTITY permission.alwaysAsk            "ਹਮੇਸ਼ਾ ਪੁੱਛੋ">
 <!ENTITY permission.allow                "ਮਨਜ਼ੂਰ">
 <!ENTITY permission.allowForSession      "ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ">
 <!ENTITY permission.block                "ਪਾਬੰਦੀ">
 
+<<<<<<< local
 <!ENTITY password.label                  "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY password.manage                 "ਪਾਸਵਰਡ ਪਰਬੰਧ…">
+=======
+<!ENTITY password.label                  "ਪਾਸਵਰਡ ਸੰਭਾਲੋ">
+<!ENTITY password.manage                 "…ਪਾਸਵਰਡ ਦੇਖਭਾਲ">
+>>>>>>> other
 
+<<<<<<< local
 <!ENTITY cookie.label                    "ਕੂਕੀਜ਼ ਸੈੱਟ">
 
+=======
+<!ENTITY cookie.label                    "ਕੂਕੀਜ਼ ਸੈੱਟ ਕਰੋ">
+>>>>>>> other
 <!ENTITY cookie.remove                   "ਕੂਕੀਜ਼ ਹਟਾਓ">
+<<<<<<< local
 <!ENTITY cookie.manage                   "ਕੂਕੀਜ਼ ਪਰਬੰਧ…">
+=======
+<!ENTITY cookie.manage                   "…ਕੂਕੀਜ਼ ਪਰਬੰਧ">
+>>>>>>> other
 <!ENTITY cookie.removeAll                "ਸਭ ਕੂਕੀਜ਼ ਹਟਾਓ">
 
 <!ENTITY geo.label                       "ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰੋ">
 
 <!ENTITY plugins.label                   "ਪਲੱਗਇਨ">
 
+<<<<<<< local
 
+=======
+>>>>>>> other
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+<<<<<<< local
 <!ENTITY indexedDB.label                 "ਆਫਲਾਇਨ ਸਟੋਰੇਜ਼ ਪਰਬੰਧ">
+=======
+<!ENTITY indexedDB.label                 "ਆਫਲਾਈਨ ਸਟੋਰੇਜ਼ ਦੀ ਦੇਖਭਾਲ">
+>>>>>>> other
 
 <!ENTITY popup.label                     "ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼ ਖੋਲ੍ਹੋ">
+<<<<<<< local
+=======
+
+<!ENTITY fullscreen.label                "ਪੂਰੀ ਸਕਰੀਨ">
+
+>>>>>>> other

@@ -1,20 +1,25 @@
-<!ENTITY junkSettings.label "ਜੰਕ ਸੈਟਿੰਗ">
-<!ENTITY trainingWarning.label "ਜੇ ਚਾਲੂ ਕੀਤਾ ਤਾਂ ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ &brandShortName; ਨੂੰ ਜੰਕ ਮੇਲ ਦੀ ਪਛਾਣ ਕਰਨ ਵਾਸਤੇ ਜੰਕ ਟੂਲਬਾਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਜੰਕ ਹੈ ਜਾਂ ਨਹੀਂ ਰਾਹੀਂ ਟਰੇਨਿੰਗ ਦੇਣੀ ਪਵੇਗੀ। ਤੁਹਾਨੂੰ ਦੋਵੇਂ ਜੰਕ ਅਤੇ ਗ਼ੈਰ-ਜੰਕ ਸੁਨੇਹਿਆਂ ਦੀ ਪਛਾਣ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।">
-<!ENTITY level.label "ਇਸ ਅਕਾਊਂਟ ਲਈ ਅਡਾਪਟਿਵ ਜੰਕ ਮੇਲ ਕੰਟਰੋਲ ਚਾਲੂ ਕਰੋ">
+<!ENTITY junkSettings.label "Junk Settings">
+<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
+<!ENTITY level.label "Enable adaptive junk mail controls for this account">
 <!ENTITY level.accesskey "E">
 
-<!ENTITY move.label "ਨਵੇਂ ਜੰਕ ਸੁਨੇਹੇ ਭੇਜੋ:">
+<!ENTITY move.label "Move new junk messages to:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;ਜੰਕ&quot; ਫੋਲਡਰ:">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
 <!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "ਹੋਰ:">
+<!ENTITY otherFolder.label "Other:">
 <!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "ਆਟੋਮੈਟਿਕ ਹੀ ਜੰਕ ਮੇਲ ਹਟਾਓ, ਜੋ ਕਿ ਪੁਰਾਣੇ ਹੋਣ">
+<!ENTITY purge1.label "Automatically delete junk mail older than">
 <!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "ਦਿਨ ਤੋਂ">
+<!ENTITY purge2.label "days">
 
-<!ENTITY whitelist.label "ਮੇਲ ਨੂੰ ਜੰਕ ਨਿਸ਼ਾਨਬੱਧ ਨਾ ਕਰੋ, ਜੇ ਭੇਜਣ ਵਾਲਾ ਹੈ: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
+<!ENTITY whitelistHeader.accesskey "D">
 
-<!ENTITY ispHeaders.label "ਇਸ ਵਲੋਂ ਜੰਕ ਮੇਲ ਹੈੱਡਰ ਸੈੱਟ ਕਰਨ ਉੱਤੇ ਭਰੋਸਾ ਕਰੋ: ">
+<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
+<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
 <!ENTITY ispHeaders.accesskey "T">
+
+<!ENTITY junkClassification.label "Selection">
+<!ENTITY junkActions.label "Destination and Retention">
+

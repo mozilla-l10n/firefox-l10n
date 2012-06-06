@@ -5,23 +5,47 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "ਮੱਦਦ">
 <!ENTITY helpMenuWin.accesskey "H">
+<<<<<<< local
 <!ENTITY helpTroubleshootingInfo.label     "ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਜਾਣਕਾਰੀ">
+=======
+<!ENTITY helpTroubleshootingInfo.label     "Troubleshooting Information">
+>>>>>>> other
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
+<<<<<<< local
 <!ENTITY helpSafeMode.label     "ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ…">
+=======
+<!ENTITY helpSafeMode.label     "Restart with Add-ons Disabled…">
+>>>>>>> other
 <!ENTITY helpSafeMode.accesskey "R">
+<<<<<<< local
 <!ENTITY releaseCmd2.label "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
+=======
+<!ENTITY releaseCmd2.label "Release Notes">
+>>>>>>> other
 <!ENTITY releaseCmd2.accesskey "N">
+<<<<<<< local
 <!ENTITY whatsNewCmd.label "ਨਵਾਂ ਕੀ ਹੈ">
+=======
+<!ENTITY whatsNewCmd.label "What's New">
+>>>>>>> other
 <!ENTITY whatsNewCmd.accesskey "W">
+<<<<<<< local
 <!ENTITY featureConfiguratorCmd.label "ਮਾਈਗਰੇਸ਼ਨ ਸਹਾਇਕ">
 <!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "ਮੱਦਦ ਸਮੱਗਰੀ">
+=======
+<!ENTITY openHelp.label "Help Contents">
+>>>>>>> other
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; ਮੱਦਦ">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
+<<<<<<< local
 <!ENTITY aboutMenuCmd.label "&brandShortName; ਬਾਰੇ">
+=======
+<!ENTITY aboutMenuCmd.label "About &brandShortName;">
+>>>>>>> other
 <!ENTITY aboutMenuCmd.accesskey "A">
 

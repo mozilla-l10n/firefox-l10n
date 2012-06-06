@@ -16,8 +16,12 @@
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<<<<<<< local
 
 <!ENTITY openJunkLog.label "ਲਾਗ ਵੇਖਾਓ">
+=======
+<!ENTITY openJunkLog.label "Show log">
+>>>>>>> other
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "ਟਰੇਨਿੰਗ ਡਾਟਾ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 <!ENTITY resetTrainingData.accesskey "R">
@@ -58,4 +62,7 @@
 <!ENTITY showCookies.label              "…ਕੂਕੀਜ਼ ਵੇਖਾਓ">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
 

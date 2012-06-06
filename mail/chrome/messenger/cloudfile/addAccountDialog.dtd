@@ -8,7 +8,13 @@
 <!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
 <!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
 <!ENTITY addAccountDialog.authorizing "Checking authorization...">
+<<<<<<< local
 <!ENTITY addAccountDialog.error "ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ!">
 <!ENTITY addAccountDialog.acceptButton.label "ਅਕਾਊਂਟ ਸੈਟਅੱਪ">
 <!ENTITY addAccountDialog.learnMore "…ਹੋਰ ਜਾਣੋ">
+=======
+<!ENTITY addAccountDialog.error "An error occurred while setting up the account!">
+<!ENTITY addAccountDialog.acceptButton.label "Set up Account">
+<!ENTITY addAccountDialog.learnMore "Learn more…">
+>>>>>>> other
 

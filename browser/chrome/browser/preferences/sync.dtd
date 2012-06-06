@@ -11,9 +11,17 @@
 <!ENTITY manageAccount.label          "ਅਕਾਊਂਟ ਪਰਬੰਧ">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "ਕੋਟਾ ਵੇਖੋ">
+<<<<<<< local
 <!ENTITY changePassword2.label         "ਪਾਸਵਰਡ ਬਦਲੋ…">
+=======
+<!ENTITY changePassword2.label         "...ਪਾਸਵਰਡ ਬਦਲੋ">
+>>>>>>> other
 <!ENTITY myRecoveryKey.label          "ਮੇਰੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
+<<<<<<< local
 <!ENTITY resetSync2.label             "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ ਕਰੋ…">
+=======
+<!ENTITY resetSync2.label             "...ਸਿੰਕ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+>>>>>>> other
 
 <!ENTITY pairDevice.label             "ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ">
 

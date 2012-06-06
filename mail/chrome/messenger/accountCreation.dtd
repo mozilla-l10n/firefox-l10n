@@ -57,16 +57,28 @@
 <!ENTITY incomingSettings.label          "ਆਉਣ ਸੈਟਿੰਗ:">
 <!ENTITY outgoingSettings.label          "ਭੇਜਣ ਸੈਟਿੰਗ:">
 <!ENTITY technicaldetails.label          "ਤਕਨੀਕੀ ਵੇਰਵਾ">
-<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
-     warning on the outgoing server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "ਮੈਂ ਖਤਰਾ ਸਮਝਦਾ ਹਾਂ।">
-<!ENTITY confirmWarning.accesskey        "u">
+<<<<<<< local
+=======
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY doneAccount.label               "ਮੁਕੰਮਲ">
 <!ENTITY doneAccount.accesskey           "D">
+>>>>>>> other
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "ਮੈਂ ਖਤਰਾ ਸਮਝਦਾ ਹਾਂ।">
+<!ENTITY confirmWarning.accesskey        "u">
+<<<<<<< local
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "ਮੁਕੰਮਲ">
+<!ENTITY doneAccount.accesskey           "D">
+=======
+
+>>>>>>> other
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

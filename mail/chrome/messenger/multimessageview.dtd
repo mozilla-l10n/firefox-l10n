@@ -1,5 +1,12 @@
+<<<<<<< local
 <!ENTITY window.title             "ਸੁਨੇਹਾ ਸੰਖੇਪ">
 <!ENTITY selectedmessages.label   "ਚੁਣੇ ਸੁਨੇਹੇ">
 <!ENTITY archiveButton.label      "ਅਕਾਇਵ">
 <!ENTITY deleteButton.label       "ਹਟਾਓ">
+=======
+<!ENTITY window.title             "Message Summary">
+<!ENTITY selectedmessages.label   "Selected Messages">
+<!ENTITY archiveButton.label      "Archive">
+<!ENTITY deleteButton.label       "Delete">
+>>>>>>> other
 
