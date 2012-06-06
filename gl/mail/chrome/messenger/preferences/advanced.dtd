@@ -56,16 +56,19 @@
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey   "i">
-<!ENTITY whenUpdatesFound.label         "Cando se encontren actualizacións para &brandShortName;:">
+<!ENTITY enableAddonsUpdate.accesskey   "a">
+<!ENTITY whenUpdatesFound.label         "Cando se atopen actualizacións para &brandShortName;:">
 <!ENTITY modeAskMe.label                "Preguntarme que quero facer">
-<!ENTITY modeAskMe.accesskey            "P">
+<!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "Descargar e instalar automaticamente a actualización">
-<!ENTITY modeAutomatic.accesskey        "u">
+<!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "Avisarme se supón a desactivación dalgún complemento">
-<!ENTITY modeAutoAddonWarn.accesskey    "d">
+<!ENTITY modeAutoAddonWarn.accesskey    "g">
 <!ENTITY showUpdates.label              "Mostrar o historial de actualizacións">
-<!ENTITY showUpdates.accesskey          "r">
+<!ENTITY showUpdates.accesskey          "s">
+
+<!ENTITY useService.label                "Usar un servizo en segundo plano para instalar as actualizacións">
+<!ENTITY useService.accesskey            "z">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configuración…">
