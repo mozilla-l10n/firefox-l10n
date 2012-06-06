@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Junk-Einstellungen">
 <!ENTITY trainingDescription.label "Wenn dies aktiviert ist, müssen Sie &brandShortName; erst zur Erkennung von Junk-Mail trainieren, indem Sie die Junk-Symbolleiste verwenden, um Nachrichten als Junk oder Nicht-Junk zu markieren. Sie müssen sowohl Junk- als auch Nicht-Junk-Nachrichten identifizieren. Danach wird &brandShortName; automatisch Junk markieren können.">
 <!ENTITY level.label "Adaptiven Junk-Mail-Filter für diesen Account aktivieren">
