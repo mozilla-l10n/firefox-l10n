@@ -72,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Marcadores desordenados'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores de escritorio'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores de celular'>
+<!ENTITY bookmarks.folder.readinglist.label 'Lista de lectura'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Solamente se soporta una cuenta de  &syncBrand.fullName.label;.'>
