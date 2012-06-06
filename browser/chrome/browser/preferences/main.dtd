@@ -29,7 +29,7 @@
 <!ENTITY chooseFolderWin.label        "Durchsuchen…">
 <!ENTITY chooseFolderWin.accesskey    "D">
 <!ENTITY chooseFolderMac.label        "Auswählen…">
-<!ENTITY chooseFolderMac.accesskey    "w">
+<!ENTITY chooseFolderMac.accesskey    "u">
 <!ENTITY alwaysAsk.label "Jedes Mal nachfragen, wo eine Datei gespeichert werden soll">
 <!ENTITY alwaysAsk.accesskey "n">
 

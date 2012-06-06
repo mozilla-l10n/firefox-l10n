@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "Sanften Bildlauf aktivieren">
 <!ENTITY useSmoothScrolling.accesskey    "S">
 <!ENTITY allowHWAccel.label              "Hardware-Beschleunigung verwenden, wenn verfügbar">
-<!ENTITY allowHWAccel.accesskey          "H">
+<!ENTITY allowHWAccel.accesskey          "v">
 <!ENTITY checkSpelling.label             "Rechtschreibung während der Eingabe überprüfen">
 <!ENTITY checkSpelling.accesskey         "R">
 
@@ -28,7 +28,7 @@
 <!ENTITY checkNow.label                  "Jetzt überprüfen">
 <!ENTITY checkNow.accesskey              "J">
 <!ENTITY submitCrashes.label             "Absturzberichte senden">
-<!ENTITY submitCrashes.accesskey         "A">
+<!ENTITY submitCrashes.accesskey         "z">
 <!ENTITY submitTelemetry.label           "Performanz-Daten senden">
 <!ENTITY submitTelemetry.accesskey       "P">
 
@@ -58,7 +58,7 @@
 <!ENTITY clearOfflineAppCacheNow.label   "Jetzt leeren">
 <!ENTITY clearOfflineAppCacheNow.accesskey "l">
 <!ENTITY overrideSmartCacheSize.label    "Automatisches Cache-Management ausschalten">
-<!ENTITY overrideSmartCacheSize.accesskey "A">
+<!ENTITY overrideSmartCacheSize.accesskey "M">
 
 <!ENTITY updateTab.label                 "Update">
 
@@ -68,7 +68,7 @@
 <!ENTITY updateCheck.label               "Nach Updates suchen, aber vor der Installation nachfragen">
 <!ENTITY updateCheck.accesskey           "N">
 <!ENTITY updateManual.label              "Nicht nach Updates suchen (nicht empfohlen: Sicherheitsrisiko)">
-<!ENTITY updateManual.accesskey          "s">
+<!ENTITY updateManual.accesskey          "d">
 
 <!ENTITY updateAutoAddonWarn.label       "Warnen, falls dadurch ein Add-on deaktiviert wird">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
@@ -77,7 +77,7 @@
 <!ENTITY updateHistory.accesskey         "C">
 
 <!ENTITY useService.label                "Einen Hintergrund-Service verwenden, um Updates zu installieren">
-<!ENTITY useService.accesskey            "H">
+<!ENTITY useService.accesskey            "g">
 
 <!ENTITY updateOthers.label              "Automatisch aktualisieren:">
 <!ENTITY enableSearchUpdate.label        "Suchmaschinen">
