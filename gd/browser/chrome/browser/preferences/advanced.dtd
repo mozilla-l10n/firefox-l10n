@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Coitcheann">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòisicheas e">
 <!ENTITY alwaysCheckDefault.accesskey    "B">
-<!ENTITY checkNow.label                  "Thoir sùil an-dràsta">
-<!ENTITY checkNow.accesskey              "n">
+<!ENTITY setDefault.label                "Cleachd &brandShortName; mar am brabhsair bunaiteach">
+<!ENTITY setDefault.accesskey            "u">
+<!ENTITY isDefault.label                 "'S e &brandShortName; am brabhsair bunaiteach agad an-dràsta">
 <!ENTITY submitCrashes.label             "A' cur a-steach aithisgean tuislidh">
 <!ENTITY submitCrashes.accesskey         "s">
 <!ENTITY submitTelemetry.label           "Cuir a-null dàta dèanadais">

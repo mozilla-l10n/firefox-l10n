@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Aig an toiseach">
 
 <!ENTITY startupPage.label         "Nuair a thòisicheas &brandShortName;:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Seall an duilleag-dhachaigh agam">
 <!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
 <!ENTITY startupLastSession.label  "Seall na h-uinneagan is tabaichean a bha agam san t-seisean mu dheireadh">
-<!ENTITY restoreOnDemand.label     "Na luchdaich na tabaichean gus an deach an taghadh">
-<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "An duilleag-dhachaigh:">
 <!ENTITY homepage.accesskey        "A">

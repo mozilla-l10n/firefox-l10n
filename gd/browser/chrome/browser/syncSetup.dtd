@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "Suidheachadh &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
@@ -37,7 +41,7 @@
 <!ENTITY setup.tosAgree2.label      "agus">
 <!ENTITY setup.ppLink.label         "ris a' Phoileasaidh Phrìobhaideachd">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
+<!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "Tha &brandShortName; am bun do phrìobhaideachd">

@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Sioncronachadh Firefox">
 <!ENTITY syncBrand.shortName.label "Sioncronachadh">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Tha an suidheachadh deiseil">
-<!ENTITY sync.subtitle.success.label "Tha an dàta agad \'ga luchdadh a-nuas sa chùlaibh. \'S urrainn dhut a dhol dha na roghainnean agad gus an cunntas agad a stiùireadh.">
+<!ENTITY sync.subtitle.success.label1 "Tha an dàta \'ga luchdadh a-nuas sa chùlaibh a-nis. \'S urrainn dhut a dhol dha na Roghainnean gus an cunntas agad a stiùireadh no tòiseachadh air brabhsadh le &brandShortName;.">
 <!ENTITY sync.settings.label "Roghainnean">
-<!ENTITY sync.subtitle.manage.label "Chaidh an cunntas &syncBrand.fullName.label; a shuidheachadh mu thràth. \'S urrainn dhut a dhol dha na roghainnean agad gus an cunntas agad a stiùireadh.">
+<!ENTITY sync.subtitle.manage.label1 "Tha an cunntas &syncBrand.fullName.label; air a shuidheachadh mu thràth. \'S urrainn dhut a dhol dha na Roghainnean gus an cunntas agad a stiùireadh no &brandShortName; a chur gu dol.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Saoil am feuch thu ris a-rithist?">
+<!ENTITY sync.pair.connectlocation.label "Gus an t-uidheam agad a chur thuige, tagh “Suidhich &syncBrand.shortName.label;” air an uidheam agus “Tha cunntas agam” an uairsin.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Roghainnean">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Comharran-lìn gun seòrsachadh">
 <!ENTITY bookmarks.folder.desktop.label "Comharraidhean-lìn air an deasg">
 <!ENTITY bookmarks.folder.mobile.label "Comharran-lìn fòn-làimhe">
+<!ENTITY bookmarks.folder.readinglist.label "An liosta leughaidh">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.fullName.label;.">
