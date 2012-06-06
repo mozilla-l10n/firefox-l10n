@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Configuracion do servidor de saída (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "A especificación de máis dun servidor de saída (SMTP) só é recomendábel para usuarios/as avanzados/as. Estabelecer varios servidores SMTP pode producir erros ao enviar as mensaxes.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Cando xestione as identidades pode usar un servidor desta lista seleccionándoo como Servidor saínte (SMTP), ou pode usar o servidor predeterminado desta lista seleccionando &quot;Usar servidor predeterminado&quot;.">
 
 <!ENTITY smtpListAdd.label  "Engadir…">
 <!ENTITY smtpListAdd.accesskey  "d">

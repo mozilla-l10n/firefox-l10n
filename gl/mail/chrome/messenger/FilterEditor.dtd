@@ -25,7 +25,7 @@
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mover mensaxe a">
 <!ENTITY copyMessage.label "Copiar mensaxe en">
-<!ENTITY forwardTo.label "Reencamiñar mensaxe para">
+<!ENTITY forwardTo.label "Reenviar mensaxe a">
 <!ENTITY replyWithTemplate.label "Responder co modelo">
 <!ENTITY markMessageRead.label "Marcar como lido">
 <!ENTITY markMessageUnread.label "Marcar como non lido">
@@ -39,4 +39,7 @@
 <!ENTITY ignoreThread.label "Ignorar fío">
 <!ENTITY ignoreSubthread.label "Ignorar fío secundario">
 <!ENTITY watchThread.label "Mostrar fío">
-<!ENTITY stopExecution.label "Parar a execución do filtro">
+<!ENTITY stopExecution.label "Deter a execución do filtro">
+
+<!ENTITY addAction.tooltip "Engadir unha nova acción">
+<!ENTITY removeAction.tooltip "Retirar esta acción">
