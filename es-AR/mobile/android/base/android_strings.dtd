@@ -124,6 +124,11 @@
 <!ENTITY site_settings_clear        "Borrar">
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
+<!ENTITY add_to_reading_list "Agregar a la lista de lectura">
+<!ENTITY reading_list_added "Página agregada a la lista de lectura">
+<!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
+<!ENTITY reader_mode "Modo lector">
+
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
 <!ENTITY masterpassword_password "Contraseña">
