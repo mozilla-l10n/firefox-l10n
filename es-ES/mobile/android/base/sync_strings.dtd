@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY sync.app.name.label "Configuración de &syncBrand.fullName.label;">
@@ -26,10 +30,11 @@
 <!ENTITY sync.button.manual.label "Configuración manual">
 <!ENTITY sync.subtitle.nointernet.label "No está disponible una conexión a internet.">
 <!ENTITY sync.title.success.label "Instalación completada">
-<!ENTITY sync.subtitle.success.label "Sus datos están ahora siendo descargados de fondo. Vaya a la Configuración para administrar su cuenta.">
+<!ENTITY sync.subtitle.success.label1 "Sus datos están ahora siendo descargados de fondo. Puede ir a Ajustes para administrar su cuenta o empezar a navegar con &brandShortName;.">
 <!ENTITY sync.settings.label "Configuración">
-<!ENTITY sync.subtitle.manage.label "Su cuenta de &syncBrand.fullName.label; ya está configurada. Vaya a la Configuración para administrar su cuenta.">
+<!ENTITY sync.subtitle.manage.label1 "Su cuenta de &syncBrand.fullName.label; ya está configurada. Puede ir a los Ajustes para administrar su cuenta o abrir &brandShortName;.">
 <!ENTITY sync.pair.tryagain.label "Por favor, pruebe de nuevo.">
+<!ENTITY sync.pair.connectlocation.label "Para activar su nuevo dispositivo, seleccione “Configurar &syncBrand.shortName.label;“ en el dispositivo, y seleccione “Tengo una cuenta“.">
 <!ENTITY sync.settings.options.label "Opciones">
 <!ENTITY sync.summary.pair.label "Vincule otro dispositivo a su cuenta de &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Cancelar">
@@ -43,5 +48,6 @@
 <!ENTITY bookmarks.folder.unfiled.label "Marcadores sin ordenar">
 <!ENTITY bookmarks.folder.desktop.label "Marcadores de escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
+<!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!ENTITY sync.notification.oneaccount.label "Sólo está permitida una cuenta de &syncBrand.fullName.label;.">
-<!ENTITY sync.new.recoverykey.status.incorrect "">
+<!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Pruebe de nuevo.">
