@@ -5,7 +5,7 @@
 <!ENTITY     cookiedomain.label             "Website"> 
 <!ENTITY     button.removecookies.label     "Cookies entfernen">
 <!ENTITY     button.removecookie.label      "Cookie entfernen">
-<!ENTITY     button.removecookie.accesskey  "C">
+<!ENTITY     button.removecookie.accesskey  "e">
 <!ENTITY     button.removeallcookies.label  "Alle Cookies entfernen">
 <!ENTITY     button.removeallcookies.accesskey "A">
 
