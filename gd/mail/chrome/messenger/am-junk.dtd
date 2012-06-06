@@ -1,5 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY junkSettings.label "Roghainnean na truilleis">
-<!ENTITY trainingWarning.label "Ma chuireas tu seo an comas, bi agad ri &brandShortName; a thrèanadh gus an aithnich e post-truilleis. Nì thu seo leis a' phutan &quot;Truilleis&quot; air a' bhàr-inneil a dh'innseas dha an e truilleis a tha ann gus nach e. Feumaidh tu an dà chuid teachdaireachdan truilleis is feadhainn chòir a chomharradh.">
+<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
+
+<!ENTITY trainingWarning.label "Ma chuireas tu seo an comas, bi agad ri &brandShortName; a thrèanadh gus an aithnich e post-truilleis. Nì thu seo bàr-inneal na truilleis. Feumaidh tu an dà chuid teachdaireachdan truilleis is feadhainn chòir a chomharradh. Bidh &brandShortName; comasach air truilleis a chomharradh e fhèin an uairsin.">
 <!ENTITY level.label "Cuir an comas na h-uidheaman-smachd tuigseach air a' chunntas seo">
 <!ENTITY level.accesskey "e">
 
@@ -13,8 +19,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "là(ithean)">
 
-<!ENTITY whitelist.label "Na cuir comharra truilleis air post ma tha an seòladair ann an: ">
-<!ENTITY whitelist.accesskey "d">
+<!ENTITY whitelistHeader.label "Na cuir comharra truilleis air post gu fèin-obrachail ma tha an seòladair ann an: ">
+<!ENTITY whitelistHeader.accesskey "d">
 
+<!ENTITY ispHeadersWarning.label "Ma chuireas tu an comas seo, bidh &brandShortName; a' coimhead air teachdaireachdan ris a bheil an comharra seo mar thruilleis.">
 <!ENTITY ispHeaders.label "Cuir earbsa ann am bannan-cinn post-truilleis a chuir: ">
 <!ENTITY ispHeaders.accesskey "t">
+
+<!ENTITY junkClassification.label "Taghadh">
+<!ENTITY junkActions.label "Ceann-uidhe 's glèidheadh">

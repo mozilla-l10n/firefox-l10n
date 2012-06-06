@@ -160,8 +160,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "n">
 <!ENTITY PrimaryEmail.label                             "Post-dealain">
 <!ENTITY PrimaryEmail.accesskey                         "e">
-<!ENTITY ScreenName.label                               "Ainm-sgrìn">
-<!ENTITY ScreenName.accesskey                           "s">
+<!ENTITY ChatName.label                                 "Ainm cabadaich">
+<!ENTITY ChatName.accesskey                             "A">
 <!ENTITY Company.label                                  "Am buidheann">
 <!ENTITY Company.accesskey                              "A">
 <!ENTITY NickName.label                                 "Far-ainm">

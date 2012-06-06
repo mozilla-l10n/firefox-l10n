@@ -78,8 +78,7 @@
 <!ENTITY PlainText.label                "Teacsa lom">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neo-aithnichte">
-<!ENTITY ScreenName.label               "Ainm-sgrìn:">
-<!ENTITY ScreenName.accesskey           "s">
+<!ENTITY chatName.label                 "Ainm cabadaich:">
 
 <!ENTITY allowRemoteContent1.label      "Ceadaich susbaint chèin.">
 <!ENTITY allowRemoteContent1.accesskey  "C">
@@ -155,6 +154,25 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Nòtaichean:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "Cabadaich">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Fotograf">
 <!ENTITY Photo.accesskey                "o">
