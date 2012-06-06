@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filtros de mensajes">
 <!ENTITY nameColumn.label "Nombre del filtro">
 <!ENTITY activeColumn.label "Activado">
-<!ENTITY newButton.label "Nuevo...">
+<!ENTITY newButton.label "Nuevo…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Editar...">
+<!ENTITY editButton.label "Editar…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Borrar">
 <!ENTITY deleteButton.accesskey "B">
