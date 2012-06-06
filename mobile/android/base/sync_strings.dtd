@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Cydweddu">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Wedi Cwblhau’r Gosod">
-<!ENTITY sync.subtitle.success.label "Mae eich data’n cael ei lwytho lawr yn y cefndir. Mae modd mynd i Gosodiadau er mwyn rheoli eich cyfrif.">
+<!ENTITY sync.subtitle.success.label1 "Mae eich data\'n cael ei lwytho i lawr yn y cefndir. Gallwch fynd i Gosodiadau i reoli eich cyfrif neu i gychwyn pori gyda &brandShortName;.">
 <!ENTITY sync.settings.label "Gosodiadau">
-<!ENTITY sync.subtitle.manage.label "Mae eich cyfrif &syncBrand.fullName.label; eisoes ar waith. Ewch i Gosodiadau er mwyn rheoli eich cyfrif.">
+<!ENTITY sync.subtitle.manage.label1 "Mae eich cyfrif &syncBrand.fullName.label; wedi ei greu yn barod. Gallwch fynd i Gosodiadau i reoli eich cyfrif neu i gychwyn pori gyda &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Ceisiwch eto.">
+<!ENTITY sync.pair.connectlocation.label "Er mwyn cychwyn eich dyfais newydd, dewiswch “Gosod &syncBrand.shortName.label;” ar y ddyfais ac yna dewis “Mae Gennyf Gyfrif”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Dewisiadau">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Nodau Tudalen Di-drefn">
 <!ENTITY bookmarks.folder.desktop.label "Nodau Tudalen Bwrdd Gwaith">
 <!ENTITY bookmarks.folder.mobile.label "Nodau Tudalen Symudol">
+<!ENTITY bookmarks.folder.readinglist.label "Rhestr Ddarllen">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy’n cael ei gynnal.">
