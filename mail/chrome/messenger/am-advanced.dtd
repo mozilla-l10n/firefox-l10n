@@ -3,8 +3,8 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Configurações do servidor de envio (SMTP)">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Apesar de poder especificar mais do que um servidor de envio (SMTP), isto é apenas recomendado para utilizadores experientes . Configurar múltiplos servidores SMTP pode causar erros ao enviar mensagens.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Ao gerir as suas identidades pode utilizar um servidor desta lista selecionando-o como o Servidor de Saída (SMTP), ou pode utilizar o servidor pré-definido indicado nesta lista selecionando &quot;Usar servidor pré-definido&quot;.">
 
 <!ENTITY smtpListAdd.label "Adicionar...">
 <!ENTITY smtpListAdd.accesskey "a">

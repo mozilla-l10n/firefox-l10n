@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Livro de Endereços">
 
 <!-- File Menu -->
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Correio Eletrónico">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Nome a Mostrar">
-<!ENTITY ScreenName.accesskey "M">
+<!ENTITY ChatName.label                                 "Nome no Chat">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label "Empresa">
 <!ENTITY Company.accesskey "m">
 <!ENTITY NickName.label "Alcunha">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading "Contacto">
 <!ENTITY home.heading "Casa">
 <!ENTITY other.heading "Outro">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading "Telefone">
 <!ENTITY work.heading "Trabalho">
 <!-- Special Box Headings, for mailing lists -->

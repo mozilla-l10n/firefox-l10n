@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Configurações do Lixo Electrónico">
-<!ENTITY trainingWarning.label "Se activado, tem primeiro de treinar o &brandShortName; para identificar o lixo electrónico utilizando o botão lixo na barra de ferramentas para marcar a mensagem como sendo lixo ou não. tem de identificar as mensagens como sendo lixo ou não.">
+<!ENTITY trainingDescription.label "Se activado, tem primeiro de treinar o &brandShortName; para identificar o lixo electrónico utilizando o botão lixo na barra de ferramentas para marcar a mensagem como sendo lixo ou não. Tem de identificar as mensagens como sendo lixo ou não. A partir daí o &brandShortName; poderá marcar o lixo automaticamente">
 <!ENTITY level.label "Activar os controlos de lixo adaptativos para esta conta">
 <!ENTITY level.accesskey "A">
 
@@ -13,8 +13,12 @@
 <!ENTITY purge1.accesskey "g">
 <!ENTITY purge2.label "dias">
 
-<!ENTITY whitelist.label "Não marcar a mensagem como lixo electrónico se o remetente estiver no: ">
-<!ENTITY whitelist.accesskey "N">
+<!ENTITY whitelistHeader.label "Não marcar a mensagem como lixo electrónico se o remetente estiver no: ">
+<!ENTITY whitelistHeader.accesskey "N">
 
+<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; vai considerar automaticamente as mensagens marcadas por este classificador externo como lixo.">
 <!ENTITY ispHeaders.label "Confiar nos cabeçalhos de lixo electrónico do: ">
 <!ENTITY ispHeaders.accesskey "C">
+
+<!ENTITY junkClassification.label "Seleção">
+<!ENTITY junkActions.label "Destino e Retenção">
