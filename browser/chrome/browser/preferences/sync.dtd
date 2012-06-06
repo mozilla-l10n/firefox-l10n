@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
+
 <!ENTITY setupButton.label          "Rèitich &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "R">
 <!ENTITY weaveDesc.label            "'S urrainn dhut inntrigeadh a dhèanamh dhan eachdraidh, na comharran-lìn, na faclan-faire 's tabaichean fosgailte air feadh nan innealan agad le &syncBrand.fullName.label;.">

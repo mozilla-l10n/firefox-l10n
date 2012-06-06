@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "An iuchair &syncBrand.fullName.label; agad">
 <!ENTITY syncKey.page.description         "Thèid an iuchair seo a chleachdadh gus an dubh-cheileadh a thoirt far an dàta sa chunntas &syncBrand.fullName.label; agad. Bidh agad ris an iuchair seo a chur a-steach gach turas a rèiticheas tu &syncBrand.fullName.label; air coimpiutair ùr no air inneal ùr.">
 <!ENTITY syncKey.keepItSecret.heading     "Cum dìomhair e">

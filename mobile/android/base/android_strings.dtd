@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "A\' suidheachadh am &brandShortName; agad">
 <!ENTITY  splash_bookmarks_history "Tha sinn ag ùrachadh nan comharran-lìn agad agus faodaidh gum feum sinn mionaid no dhà.">
@@ -44,7 +48,11 @@
 <!ENTITY reload "Ath-luchdaich">
 <!ENTITY forward "Air adhart">
 
+<!ENTITY close_tab "Dùin an taba">
 <!ENTITY new_tab "Taba ùr">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d taba(ichean)">
 <!ENTITY new_tab_opened "Chaidh taba ùr fhosgladh">
 
 <!ENTITY settings "Roghainnean">
@@ -59,7 +67,7 @@
 <!ENTITY pref_cookies "Cuir briosgaidean an comas">
 <!ENTITY pref_char_encoding "Còdachadh charactairean">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
-<!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_history "Glan an eachdraidh">
 <!ENTITY pref_clear_history_confirm "Thèid an eachdraidh brabhsaidh a sguabadh às">
 <!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
@@ -86,12 +94,25 @@
 <!ENTITY share "Co-roinn">
 <!ENTITY share_title "Co-roinn slighe">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
+<!ENTITY find_in_page "Lorg san duilleag">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Lorg san duilleag">
+<!ENTITY find_prev "Air ais">
+<!ENTITY find_next "Air adhart">
+<!ENTITY find_close "Dùin">
 
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
+<!ENTITY contextmenu_remove_history "Thoir air falbh">
 <!ENTITY contextmenu_remove_bookmark "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
 <!ENTITY contextmenu_edit_bookmark "Deasaich">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "Duilleag air a thoirt air falbh">
 
 <!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
 <!ENTITY bookmark_edit_name "Ainm">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "Sguir dheth">
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
+
+<!ENTITY add_to_reading_list "Cuir ris an liosta leughaidh">
+<!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
+<!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
+<!ENTITY reader_mode "Am modh leughaidh">
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
 <!ENTITY masterpassword_remove_title "Thoir air falbh am prìomh fhacal-faire">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">
 <!ENTITY filepicker_image_title "Tagh dealbh no tog fear">
 <!ENTITY filepicker_video_title "Tagh video no clàraich fear">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Tha thu co-cheangailte ri">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "a tha \'ga ruith le">

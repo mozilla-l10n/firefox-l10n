@@ -1,64 +1,19 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org Code.
-   -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-#endif
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title         "Modh tèarainte &brandShortName;">
-<!ENTITY window.width                 "45em">
+<!ENTITY window.maxWidth              "500">
 
-<!ENTITY autoSafeModeIntro.label      "Dhùin &brandShortName; gu h-obann fhad 's a bha e a' tòiseachadh">
-<!ENTITY autoSafeModeDescription.label "Tha sinn fìor dhuilich gun do thachair sinn. Tha &brandShortName; sa mhodh tèarainte a-nis agus bidh na roghainnean gnàthaichte, ùrlaran is leudachain agad dheth rè seal.">
+<!ENTITY startSafeMode.label          "Tòisich sa mhodh tèarainte">
+<!ENTITY resetProfile.label           "Ath-shuidhich &brandShortName;">
 
-<!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, ùrlaran is leudachain ghnàthaichte agad à comas rè seal.">
-<!ENTITY safeModeDescription2.label   "'S urrainn dhut na h-atharrachaidhean seo gu lèir, no cuid dhiubh, a chur an sàs gu buan:">
+<!ENTITY safeModeDescription3.label   "'S e modh sònraichte aig &brandShortName; a tha sa mhodh tèarainte agus is urrainn dhut a chleachdadh gus duilgheadasan a rèiteachadh.">
+<!ENTITY safeModeDescription4.label   "Cuiridh sinn na tuilleadain 's na roghainnean gnàthaichte agad à comas rè seal.">
 
-<!ENTITY disableAddons.label          "Dèan gach tuillead neo chomasach">
-<!ENTITY disableAddons.accesskey      "D">
+<!ENTITY resetProfileInstead.label    "'S urrainn dhut &brandShortName; aiseag cuideachd mas fhearr leat tòiseachadh as ùr.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY resetToolbars.label          "Aisig gach bàr-inneil is uidheam-smachd">
-<!ENTITY resetToolbars.accesskey      "r">
-
-<!ENTITY deleteBookmarks.label        "Sguab às gach comharra-lìn ach a-mhàin na lethbhric-ghlèidhidh">
-<!ENTITY deleteBookmarks.accesskey    "b">
-
-<!ENTITY resetUserPrefs.label         "Aisig gach roghainn a' chleachdaiche gu roghainnean bunaiteach &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey     "A">
-
-<!ENTITY restoreSearch.label          "Aisig na h-einnseanan-luirg bunaiteach">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "Cuir na h-atharrachaidhean an gnìomh is ath-thòisich">
-<!ENTITY continueButton.label         "Lean air adhart sa mhodh tèarainte">
+<!ENTITY autoSafeModeDescription2.label "Dhùin &brandShortName; gun fhiosta nuair a bha e a' tòiseachadh. Faodaidh gun do dh'adhbharaich tuilleadan no rud eile seo. 'S mathaid gun gabh an duilgheadas seo a chàradh ma dh'aisigeas tu &brandShortName; dhan t-suidheachadh tùsail aige no ma thòisicheas tu e sa mhodh tèarainte gus fuasgladh a lorg.">
+<!ENTITY resetProfileFooter.label       "Thèid gach rud eile aiseag dha na roghainnean tùsail.">
+<!ENTITY safeModeInstead.label          "Mur eil thu airson seo a dhèanamh, 's urrainn dhut leantainn air adhart sa mhodh tèarainte gus fuasgladh a lorg thu fhèin 's na tuilleadain is roghainnean gnàthaichte agad à comas fhathast.">
