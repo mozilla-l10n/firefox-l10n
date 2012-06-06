@@ -117,6 +117,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "Engadir ao dicionario">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label      "Desfacer engadir ao dicionario">
+<!ENTITY spellUndoAddToDictionary.accesskey  "f">
 <!ENTITY spellIgnoreWord.label          "Ignorar a palabra">
 <!ENTITY spellIgnoreWord.accesskey      "I">
 <!ENTITY spellCheckEnable.label         "Verificación ortográfica">
