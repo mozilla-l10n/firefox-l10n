@@ -67,13 +67,8 @@
 <!ENTITY  permCookie            "ਕੂਕੀਜ਼ ਸੈੱਟ ਕਰੋ">
 <!ENTITY  permInstall           "ਇਕਸਟੈਨਸ਼ਨ ਜਾਂ ਥੀਮ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY  permGeo               "ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰੋ">
-<<<<<<< local
-<!ENTITY  permPlugins           "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰੋ">
-
-=======
 <!ENTITY  permPlugins           "ਪਲੱਗਇਨ ਐਕਟੀਵੇਤ">
 <!ENTITY  permFullscreen        "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਜਾਓ">
->>>>>>> other
 
 <!ENTITY  permIndexedDB              "ਆਫਲਾਈਨ ਸਟੋਰੇਜ਼ ਪਰਬੰਧ">
 <!ENTITY  permClearStorage           "ਸਟੋਰੇਜ਼ ਸਾਫ਼ ਕਰੋ">

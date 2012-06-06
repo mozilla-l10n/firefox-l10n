@@ -1,35 +1,13 @@
-<<<<<<< local
-<!ENTITY networkPanel.requestURL                  "ਮੰਗ ਦਾ URL">
-<!ENTITY networkPanel.requestMethod               "ਮੰਗ Method">
-<!ENTITY networkPanel.statusCode                  "ਹਾਲਤ ਕੋਡ">
-=======
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
->>>>>>> other
 
-<<<<<<< local
-<!ENTITY networkPanel.requestHeaders              "ਹੈੱਡਰ ਮੰਗ">
-<!ENTITY networkPanel.requestCookie               "ਭੇਜੇ ਕੂਕੀਜ਼">
-<!ENTITY networkPanel.requestBody                 "ਮੰਗ ਮੁੱਖ ਭਾਗ">
-<!ENTITY networkPanel.requestFormData             "ਭੇਜਿਆ ਫਾਰਮ ਡਾਟਾ">
-=======
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
->>>>>>> other
 
-<<<<<<< local
-<!ENTITY networkPanel.responseHeaders             "ਜਵਾਬ ਹੈੱਡਰ">
-<!ENTITY networkPanel.responseBody                "ਜਵਾਬ ਮੁੱਖ ਭਾਗ">
-<!ENTITY networkPanel.responseBodyCached          "ਕੈਸ਼ ਕੀਤਾ ਡਾਟਾ">
-<!ENTITY networkPanel.responseBodyUnknownType     "ਅਣਜਾਣ ਸਮੱਗਰੀ ਕਿਸਮ">
-<!ENTITY networkPanel.responseNoBody              "ਕੋਈ ਜਵਾਬ ਮੁੱਖ ਭਾਗ ਨਹੀਂ">
-<!ENTITY networkPanel.responseImage               "ਮਿਲਿਆ ਚਿੱਤਰ">
-<!ENTITY networkPanel.responseImageCached         "ਕੈਸ਼ ਕੀਤਾ ਚਿੱਤਰ">
-=======
 <!ENTITY networkPanel.requestURL                  "Request URL">
 <!ENTITY networkPanel.requestMethod               "Request Method">
 <!ENTITY networkPanel.statusCode                  "Status Code">
@@ -47,4 +25,3 @@
 <!ENTITY networkPanel.responseImage               "Received Image">
 <!ENTITY networkPanel.responseImageCached         "Cached Image">
 
->>>>>>> other

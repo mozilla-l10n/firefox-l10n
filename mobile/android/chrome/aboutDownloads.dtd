@@ -1,7 +1,3 @@
 <!ENTITY aboutDownloads.title                      "ਡਾਊਨਲੋਡ">
 <!ENTITY aboutDownloads.header                     "ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ">
-<<<<<<< local
-<!ENTITY aboutDownloads.empty                      "ਕੋਈ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੈ">
-=======
 <!ENTITY aboutDownloads.empty                      "ਕੋਈ ਡਾਊਨਲੋਡ ਨਹੀਂ">
->>>>>>> other

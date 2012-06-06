@@ -1,32 +1,21 @@
-<<<<<<< local
-=======
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
->>>>>>> other
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
 <!ENTITY loadError.label "ਪੇਜ਼ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ">
-<<<<<<< local
-<!ENTITY retry.label "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
-=======
 <!ENTITY retry.label "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
->>>>>>> other
 
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
-<<<<<<< local
-<!ENTITY deniedPortAccess.title "ਇਹ ਐਡਰੈੱਸ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ">
-=======
 
 <!ENTITY deniedPortAccess.title "ਇਹ ਐਡਰੈਸ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ">
->>>>>>> other
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ">
@@ -48,24 +37,12 @@
 ">
 
 
-<<<<<<< local
-<!ENTITY generic.title "ਓਹ ਹੋ।">
-=======
 <!ENTITY generic.title "ਓਹ ਹੋ">
->>>>>>> other
 <!ENTITY generic.longDesc "
-<<<<<<< local
-<p>&brandShortName; ਇਹ ਪੇਜ਼ ਨੂੰ ਕੁਝ ਕਾਰਨ ਕਰਕੇ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ।</p>
-=======
 <p>&brandShortName; ਕੁਝ ਕੁ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਪੇਜ਼ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ।</p>
->>>>>>> other
 ">
 
-<<<<<<< local
-<!ENTITY malformedURI.title "ਐਡਰੈਸ ਠੀਕ ਨਹੀਂ ਹੈ">
-=======
 <!ENTITY malformedURI.title "ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ।">
->>>>>>> other
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Web addresses are usually written like
@@ -75,24 +52,12 @@
 </ul>
 ">
 
-<<<<<<< local
-<!ENTITY netInterrupt.title "ਕੁਨੈਕਸ਼ਨ ਰੋਕਿਆ ਗਿਆ ਸੀ">
-=======
 <!ENTITY netInterrupt.title "The connection was interrupted">
->>>>>>> other
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<<<<<<< local
-<!ENTITY notCached.title "ਡੌਕੂਮੈਂਟ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
-=======
 <!ENTITY notCached.title "Document Expired">
->>>>>>> other
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
-<<<<<<< local
-
-=======
->>>>>>> other
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -103,57 +68,29 @@
 <!ENTITY contentEncodingError.title "ਸਮੱਗਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-<<<<<<< local
-  <li>Please contact the website owners to inform them of this problem.</li>
-=======
   <li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਉਨ੍ਹਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</li>
->>>>>>> other
 </ul>
 ">
 
-<<<<<<< local
-<!ENTITY unsafeContentType.title "ਅਣਸੁਰੱਖਿਅਤ ਫਾਇਲ ਕਿਸਮ">
-=======
 <!ENTITY unsafeContentType.title "ਅਸੁਰੱਖਿਅਤ ਫਾਇਲ ਟਾਈਪ">
->>>>>>> other
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-<<<<<<< local
-  <li>Please contact the website owners to inform them of this problem.</li>
-=======
   <li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਉਨ੍ਹਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</li>
->>>>>>> other
 </ul>
 ">
 
-<<<<<<< local
-<!ENTITY netReset.title "ਕੁਨੈਕਸ਼ਨ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਸੀ">
-=======
 <!ENTITY netReset.title "ਕੁਨੈਕਸ਼ਨ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਗਿਆ">
->>>>>>> other
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
-<<<<<<< local
-<!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ ਆਉਟ ਹੋ ਚੁੱਕਾ ਹੈ">
-=======
 
 <!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ-ਆਉਟ ਹੋਇਆ">
->>>>>>> other
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<<<<<<< local
-<!ENTITY protocolNotFound.title "ਐਡਰੈਸ ਸਮਝ ਨਹੀਂ ਆਇਆ">
-=======
 
 <!ENTITY protocolNotFound.title "ਐਡਰੈੱਸ ਸਮਝ ਨਹੀਂ ਆਇਆ">
->>>>>>> other
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-<<<<<<< local
-  <li>You might need to install other software to open this address.</li>
-=======
   <li>ਤੁਹਾਨੂੰ ਇਹ ਐਡਰੈੱਸ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਹੋਰ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨੇ ਚਾਹੀਦੇ ਹਨ।</li>
->>>>>>> other
 </ul>
 ">
 
@@ -174,11 +111,7 @@
 </ul>
 ">
 
-<<<<<<< local
-<!ENTITY redirectLoop.title "ਪੇਜ਼ ਠੀਕ ਤਰ੍ਹਾਂ ਰੀ-ਡਾਇਰੈਕਟ ਨਹੀਂ ਹੁੰਦਾ ਹੈ">
-=======
 <!ENTITY redirectLoop.title "The page isn't redirecting properly">
->>>>>>> other
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>This problem can sometimes be caused by disabling or refusing to accept
@@ -186,11 +119,7 @@
 </ul>
 ">
 
-<<<<<<< local
-<!ENTITY unknownSocketType.title "ਸਰਵਰ ਤੋਂ ਗਲਤ ਜਵਾਬ">
-=======
 <!ENTITY unknownSocketType.title "ਸਰਵਰ ਤੋਂ ਅਣਜਾਣ ਜਵਾਬ">
->>>>>>> other
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Check to make sure your system has the Personal Security Manager
@@ -207,11 +136,7 @@
 </ul>
 ">
 
-<<<<<<< local
-<!ENTITY nssBadCert.title "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ">
-=======
 <!ENTITY nssBadCert.title "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ">
->>>>>>> other
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>This could be a problem with the server's configuration, or it could be
@@ -228,28 +153,15 @@ be temporary, and you can try again later.</li>
 </ul>
 ">
 
-<<<<<<< local
-<!ENTITY cspFrameAncestorBlocked.title "ਸਮੱਗਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਵਲੋਂ ਪਾਬੰਦੀ ਹੈ">
-=======
 
 <!ENTITY cspFrameAncestorBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
->>>>>>> other
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<<<<<<< local
-<!ENTITY corruptedContentError.title "ਨਿਕਾਰਾ ਹੋਈ ਸਮੱਗਰੀ ਗਲਤੀ">
-=======
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
->>>>>>> other
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
-<<<<<<< local
-<!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਇੱਕ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
-<!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਕਰੋ!">
-=======
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਲੈ ਜਾਓ!">
->>>>>>> other
 <!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਲ…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -258,25 +170,13 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<<<<<<< local
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-=======
 <p>ਤੁਹਾਨੂੰ ਛੋਟ ਨਹੀਂ ਦੇਣੀ ਚਾਹੀਦੀ ਹੈ, ਜੇ ਤੁਸੀਂ ਅਜਿਹਾ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਵਰਤ ਰਹੇ ਹੋ, ਜਿਸ ਉੱਤੇ ਤੁਹਾਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਭਰੋਸਾ ਨਹੀਂ ਹੈ ਜਾਂ ਤੁਹਾਨੂੰ ਇਸ ਸਰਵਰ ਲਈ ਚੇਤਾਵਨੀ ਅਕਸਰ ਨਹੀਂ ਮਿਲਦੀ ਹੈ ਤਾਂ।</p>
->>>>>>> other
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<<<<<<< local
-<!ENTITY remoteXUL.title "ਰਿਮੋਟ XUL">
-=======
 
 <!ENTITY remoteXUL.title "Remote XUL">
->>>>>>> other
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 
-<<<<<<< local
-
-=======
->>>>>>> other

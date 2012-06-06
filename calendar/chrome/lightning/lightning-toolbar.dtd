@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY lightning.toolbar.calendar.name "ਕੈਲੰਡਰ ਟੂਲਬਾਰ">
+<!ENTITY lightning.toolbar.calendar.name "Calendar Toolbar">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.name "ਟਾਸਕ ਟੂਲਬਾਰ">
+<!ENTITY lightning.toolbar.task.name "Task Toolbar">
 <!ENTITY lightning.toolbar.task.accesskey "T">
 
-<!ENTITY lightning.toolbar.sync.label "ਸੈਕਰੋਨਾਈਜ਼">
-<!ENTITY lightning.toolbar.delete.label "ਹਟਾਓ">
-<!ENTITY lightning.toolbar.edit.label "ਸੋਧ">
-<!ENTITY lightning.toolbar.gototoday.label "ਅੱਜ ਉੱਤੇ ਜਾਓ">
-<!ENTITY lightning.toolbar.print.label "ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY lightning.toolbar.sync.label "Synchronize">
+<!ENTITY lightning.toolbar.delete.label "Delete">
+<!ENTITY lightning.toolbar.edit.label "Edit">
+<!ENTITY lightning.toolbar.gototoday.label "Go to Today">
+<!ENTITY lightning.toolbar.print.label "Print">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "ਮੇਲ">
+<!ENTITY lightning.toolbar.mail.label         "Mail">
 <!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label     "ਕੈਲੰਡਰ">
+<!ENTITY lightning.toolbar.calendar.label     "Calendar">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Switch to the calendar tab">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "ਟਾਸਕ">
+<!ENTITY lightning.toolbar.task.label         "Tasks">
 <!ENTITY lightning.toolbar.task.tooltip       "Switch to the tasks tab">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "ਈਵੈਂਟ">
-<!ENTITY lightning.toolbar.newtask.label      "ਟਾਸਕ">
+<!ENTITY lightning.toolbar.newevent.label     "Event">
+<!ENTITY lightning.toolbar.newtask.label      "Task">
 
 <!-- Calendar and Task Mode Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "ਦਿਨ">
+<!ENTITY lightning.toolbar.day.label                 "Day">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "ਹਫ਼ਤਾ">
+<!ENTITY lightning.toolbar.week.label                "Week">
 <!ENTITY lightning.toolbar.week.accesskey            "W">
 <!ENTITY lightning.toolbar.multiweek.label           "Multiweek">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "u">

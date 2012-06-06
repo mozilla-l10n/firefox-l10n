@@ -5,7 +5,7 @@
 <!ENTITY newsgroups.label "ਨਿਊਜ਼ਗਰੁੱਪ">
 <!ENTITY feeds.label "ਫੀਡ">
 
-<!ENTITY checkOnStartup.label "ਹਮੇਸ਼ਾ ਇਹ ਚੈੱਕ ਕਰੋ, ਜਦੋਂ ਵੀ &brandShortName; ਚਾਲੂ ਹੋਵੇ">
+<!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">

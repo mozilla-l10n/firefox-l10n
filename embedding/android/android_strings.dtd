@@ -1,21 +1,11 @@
-<<<<<<< local
-<!ENTITY  splash_firstrun "&brandShortName; ਸੈਟ ਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ\u2026">
-<!ENTITY  no_space_to_start_error "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
-<!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
-=======
 <!ENTITY  splash_screen_label "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY  splash_screen_installing "ਲਾਇਬਰੇਰੀਆਂ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ\u2026">
 <!ENTITY  incompatable_cpu_error "ਇਹ ਜੰਤਰ  &brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਸਿਸਟਮ ਮੰਗਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦਾ ਹੈ।">
 <!ENTITY  no_space_to_start_error "&brandShortName; ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
 <!ENTITY  error_loading_file "&brandShortName; ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਆਈ।">
->>>>>>> other
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
-<<<<<<< local
-<!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ।  ਜਦੋਂ ਤੁਸੀਂ ਮੁੜ-ਚਾਲੂ ਕਰੋਗੇ ਤਾਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ &brandShortName; ਸ਼ੁਰੂ ਸਫ਼ੇ ਉੱਤੇ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
-=======
 <!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ।  ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂ ਪੇਜ਼ ਉੱਤੇ ਵੇਖਾਇਆ ਜਾਵੇਗਾ।">
->>>>>>> other
 <!ENTITY  crash_help_message "ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਠੀਕ ਕਰਨ ਲਈ ਮੱਦਦ ਕਰੋ ਜੀ!">
 <!ENTITY  crash_send_report_message "ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
 <!ENTITY  crash_include_url "ਸਫ਼ਾ ਐਡਰੈੱਸ ਸਮੇਤ">
@@ -23,15 +13,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
 <!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
-<<<<<<< local
-=======
 <!ENTITY  incompatable_device "&brandShortName; ਇਹ ਜੰਤਰ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਕੁਝ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ।">
->>>>>>> other
 <!ENTITY  continue_label "ਜਾਰੀ ਰੱਖੋ">
-
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; ਵੈੱਬ ਐਪਸ">
-<!ENTITY  launcher_shortcuts_empty "ਕੋਈ ਵੈੱਬ ਐਪਸ ਨਹੀਂ ਲੱਭੀ">
-
-<!ENTITY choose_file "Choose File">
 

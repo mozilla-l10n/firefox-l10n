@@ -6,19 +6,10 @@
 
 <!-- General Settings -->
 
-<<<<<<< local
-<!ENTITY submitTelemetry.label         "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
-=======
 <!ENTITY submitTelemetry.label         "Submit Performance Data">
->>>>>>> other
 <!ENTITY submitTelemetry.accesskey     "P">
-<<<<<<< local
-<!ENTITY telemetryInfoLink.label       "ਟੈਲੀਮੈਟਰੀ ਬਾਰੀ ਹੋਰ ਜਾਣਕਾਰੀ">
-<!ENTITY enableGlodaSearch.label       "ਗਲੋਬਲ ਖੋਜ ਅਤੇ ਇੰਡੈਕਸਰ ਚਾਲੂ">
-=======
 <!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
->>>>>>> other
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "System Integration">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
@@ -57,26 +48,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "An existing message window">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<<<<<<< local
-<!ENTITY closeMsgOnMoveOrDelete.label  "ਹਿਲਾਉਣ ਜਾਂ ਹਟਾਉਣ ਨਾਲ ਸੁਨੇਹਾ ਵਿੰਡੋ/ਟੈਬ ਬੰਦ ਕਰੋ">
-=======
 <!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
->>>>>>> other
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-<<<<<<< local
-
-<!ENTITY configEditDesc.label          "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
-<!ENTITY configEdit.label              "ਸੰਰਚਨਾ ਐਡੀਟਰ…">
-<!ENTITY configEdit.accesskey          "C">
-<!ENTITY returnReceiptsInfo.label      "ਦੱਸੋ ਕਿ&brandShortName; ਵਾਪਸੀ ਰਸੀਦਾਂ ਨੂੰ ਕਿਵੇਂ ਹੈਂਡਲ ਕਰੇ">
-<!ENTITY showReturnReceipts.label      "ਵਾਪਸੀ ਰਸੀਦ…">
-<!ENTITY showReturnReceipts.accesskey  "R">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "ਪੜ੍ਹਨ">
-<!ENTITY display.caption                "ਵੇਖਣ">
-=======
->>>>>>> other
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatically check for updates to:">
@@ -104,20 +77,10 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<<<<<<< local
-<!ENTITY Diskspace "ਡਿਸਕ ਥਾਂ">
-<!ENTITY offlineCompact.label "ਜਦੋਂ ਫੋਲਡਰ ਸੰਭਾਲੇ ਜਾਣ ਤਾਂ ਇਨ੍ਹਾਂ ਨੂੰ ਸੁੰਘੜੋ">
-<!ENTITY offlineCompact.accesskey "v">
-=======
 <!ENTITY Diskspace "Disk Space">
 <!ENTITY offlineCompact.label "Compact folders when it will save over">
 <!ENTITY offlineCompact.accesskey "a">
->>>>>>> other
 <!ENTITY mb.label "MB">
-<<<<<<< local
-
-=======
->>>>>>> other
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -132,10 +95,10 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "ਜਦੋਂ ਇੱਕ ਸਰਵਰ ਮੇਰੇ ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੰਗ ਕਰੇ:">
-<!ENTITY certs.auto                      "ਇੱਕ ਆਟੋਮੈਟਿਕ ਚੁਣੋ">
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "ਮੈਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛੋ">
+<!ENTITY certs.ask                       "Ask me every time">
 <!ENTITY certs.ask.accesskey             "A">
 
 <!ENTITY viewCertificates.label         "View Certificates">

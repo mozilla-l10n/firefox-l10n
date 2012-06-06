@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab                     "ਸੰਪਰਕ">
+<!ENTITY Contact.tab                     "Contact">
 <!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "ਨਾਂ">
+<!ENTITY Name.box                        "Name">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -56,32 +56,32 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "ਪਹਿਲਾਂ:">
+<!ENTITY NameField1.label               "First:">
 <!ENTITY NameField1.accesskey           "F">
-<!ENTITY NameField2.label               "ਆਖਰੀ:">
+<!ENTITY NameField2.label               "Last:">
 <!ENTITY NameField2.accesskey           "L">
-<!ENTITY PhoneticField1.label           "ਫਨੋਟਿਕ:">
+<!ENTITY PhoneticField1.label           "Phonetic:">
 <!ENTITY PhoneticField2.label           "Phonetic:">
-<!ENTITY DisplayName.label              "ਵੇਖਾਉ:">
+<!ENTITY DisplayName.label              "Display:">
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.label        "Always prefer display name over message header">
 <!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Nickname:">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY PrimaryEmail.label             "ਈਮੇਲ:">
+<!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "ਹੋਰ ਈਮੇਲ:">
+<!ENTITY SecondEmail.label              "Additional Email:">
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Prefers to receive messages formatted as:">
 <!ENTITY PreferMailFormat.accesskey     "v">
-<!ENTITY PlainText.label                "ਪਲੇਨ ਟੈਕਸਟ">
+<!ENTITY PlainText.label                "Plain Text">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "ਅਣਜਾਣ">
-<!ENTITY ScreenName.label               "ਸਕਰੀਨ ਨਾਂ:">
+<!ENTITY Unknown.label                  "Unknown">
+<!ENTITY ScreenName.label               "Screen Name:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "ਰਿਮੋਟ ਸਮੱਗਰੀ ਮਨਜ਼ੂਰ ਹੈ।">
+<!ENTITY allowRemoteContent1.label      "Allow remote content.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
 <!ENTITY allowRemoteContent1.tooltip    "In HTML messages it is possible to
 embed content from remote sources. Opening such a message will open a
@@ -89,90 +89,90 @@ connection to this external source. This may allow tracking of the
 message being read. Checking this box will allow such external embedded
 content in HTML messages from this contact.">
 
-<!ENTITY WorkPhone.label                "ਕੰਮ:">
+<!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "k">
-<!ENTITY HomePhone.label                "ਘਰ:">
+<!ENTITY HomePhone.label                "Home:">
 <!ENTITY HomePhone.accesskey            "m">
-<!ENTITY FaxNumber.label                "ਫੈਕਸ:">
+<!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
-<!ENTITY PagerNumber.label              "ਪੇਜ਼ਰ:">
+<!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "g">
-<!ENTITY CellularNumber.label           "ਮੋਬਾਇਲ:">
+<!ENTITY CellularNumber.label           "Mobile:">
 <!ENTITY CellularNumber.accesskey       "b">
 
-<!ENTITY Home.tab                       "ਪ੍ਰਾਈਵੇਟ">
+<!ENTITY Home.tab                       "Private">
 <!ENTITY Home.accesskey                 "P">
-<!ENTITY HomeAddress.label              "ਐਡਰੈਸ:">
+<!ENTITY HomeAddress.label              "Address:">
 <!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "ਸ਼ਹਿਰ:">
+<!ENTITY HomeCity.label                 "City:">
 <!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "ਸੂਬਾ/ਖਿੱਤਾ:">
+<!ENTITY HomeState.label                "State/Province:">
 <!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label              "ZIP/ਡਾਕ ਕੋਡ:">
+<!ENTITY HomeZipCode.label              "ZIP/Postal Code:">
 <!ENTITY HomeZipCode.accesskey          "Z">
-<!ENTITY HomeCountry.label              "ਦੇਸ਼:">
+<!ENTITY HomeCountry.label              "Country:">
 <!ENTITY HomeCountry.accesskey          "u">
-<!ENTITY HomeWebPage.label              "ਵੈੱਬ ਸਫ਼ਾ:">
+<!ENTITY HomeWebPage.label              "Web Page:">
 <!ENTITY HomeWebPage.accesskey          "e">
-<!ENTITY Birthday.label                 "ਜਨਮਦਿਨ:">
+<!ENTITY Birthday.label                 "Birthday:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "ਸਾਲ">
-<!ENTITY Or.value                       "ਜਾਂ">
-<!ENTITY Age.placeholder                "ਉਮਰ">
+<!ENTITY Year.placeholder               "Year">
+<!ENTITY Or.value                       "or">
+<!ENTITY Age.placeholder                "Age">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "ਕੰਮ">
+<!ENTITY Work.tab                       "Work">
 <!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "ਕਿੱਤਾ:">
+<!ENTITY JobTitle.label                 "Title:">
 <!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label               "ਵਿਭਾਗ:">
+<!ENTITY Department.label               "Department:">
 <!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "ਸੰਗਠਨ:">
+<!ENTITY Company.label                  "Organization:">
 <!ENTITY Company.accesskey              "n">
-<!ENTITY WorkAddress.label              "ਐਡਰੈਸ:">
+<!ENTITY WorkAddress.label              "Address:">
 <!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "ਸ਼ਹਿਰ:">
+<!ENTITY WorkCity.label                 "City:">
 <!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "ਸੂਬਾ/ਖਿੱਤਾ:">
+<!ENTITY WorkState.label                "State/Province:">
 <!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label              "ZIP/ਡਾਕ ਕੋਡ:">
+<!ENTITY WorkZipCode.label              "ZIP/Postal Code:">
 <!ENTITY WorkZipCode.accesskey          "Z">
-<!ENTITY WorkCountry.label              "ਦੇਸ਼:">
+<!ENTITY WorkCountry.label              "Country:">
 <!ENTITY WorkCountry.accesskey          "u">
-<!ENTITY WorkWebPage.label              "ਵੈੱਬ ਸਫ਼ਾ:">
+<!ENTITY WorkWebPage.label              "Web Page:">
 <!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab                      "ਹੋਰ">
+<!ENTITY Other.tab                      "Other">
 <!ENTITY Other.accesskey                "h">
-<!ENTITY Custom1.label                  "ਪਸੰਦ 1:">
+<!ENTITY Custom1.label                  "Custom 1:">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "ਪਸੰਦ 2:">
+<!ENTITY Custom2.label                  "Custom 2:">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "ਪਸੰਦ 3:">
+<!ENTITY Custom3.label                  "Custom 3:">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "ਪਸੰਦ 4:">
+<!ENTITY Custom4.label                  "Custom 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "ਨੋਟਿਸ:">
+<!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Photo.tab                      "ਫੋਟੋ">
+<!ENTITY Photo.tab                      "Photo">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "ਹੇਠ ਦਿੱਤਿਆਂ ਵਿੱਚੋਂ ਕੋਈ ਇੱਕ ਚੁਣੋ:">
-<!ENTITY GenericPhoto.label             "ਆਮ ਫੋਟੋ">
+<!ENTITY PhotoDesc.label                "Pick one of the following:">
+<!ENTITY GenericPhoto.label             "Generic Photo">
 <!ENTITY GenericPhoto.accesskey         "G">
-<!ENTITY DefaultPhoto.label             "ਡਿਫਾਲਟ">
-<!ENTITY PhotoFile.label                "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ">
+<!ENTITY DefaultPhoto.label             "Default">
+<!ENTITY PhotoFile.label                "On this Computer">
 <!ENTITY PhotoFile.accesskey            "n">
-<!ENTITY BrowsePhoto.label              "ਝਲਕ">
+<!ENTITY BrowsePhoto.label              "Browse">
 <!ENTITY BrowsePhoto.accesskey          "r">
-<!ENTITY PhotoURL.label                 "ਵੈੱਬ ਉੱਤੇ">
+<!ENTITY PhotoURL.label                 "On the Web">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
-<!ENTITY UpdatePhoto.label              "ਅੱਪਡੇਟ">
+<!ENTITY UpdatePhoto.label              "Update">
 <!ENTITY UpdatePhoto.accesskey          "u">
 

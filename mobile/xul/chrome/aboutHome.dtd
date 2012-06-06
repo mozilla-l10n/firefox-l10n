@@ -10,19 +10,11 @@
 <!ENTITY aboutHome.noAddons                     "ਕੋਈ ਸਿਫਾਰਸ਼ੀ ਐਡ-ਆਨ ਨਹੀਂ ਹੈ">
 <!ENTITY aboutHome.getLocale                    "ਭਾਸ਼ਾ ਬਦਲੋ">
 <!ENTITY aboutHome.getInBeforeBeta              "ਬੀਟਾ ਵਿੱਚ ਪਹਿਲਾਂ ਲਵੋ।">
-<<<<<<< local
-<!ENTITY aboutHome.tryAurora                    "ਫਾਇਰਫਾਕਸ ਓਰੋਰਾ ਵਰਤ ਕੇ ਵੇਖੋ ਅਤੇ ਫਾਇਰਫਾਕਸ ਦੇ ਭਵਿੱਖ ਦੀ ਸ਼ਕਲ ਲਈ ਮੱਦਦ ਕਰੋ।">
-=======
 <!ENTITY aboutHome.tryAurora                    "ਫਾਇਰਫਾਕਸ ਅਰੋਰਾ ਵਰਤ ਕੇ ਵੇਖੋ ਅਤੇ ਫਾਇਰਫਾਕਸ ਦੇ ਭਵਿੱਖ ਦੀ ਸ਼ਕਲ ਲਈ ਮੱਦਦ ਕਰੋ।">
->>>>>>> other
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<<<<<<< local
-<!ENTITY aboutHome.downloadAurora		"ਓਰੋਰਾ ਡਾਊਨਲੋਡ ਕਰੋ">
-=======
 <!ENTITY aboutHome.downloadAurora		"ਅਰੋਰਾ ਡਾਊਨਲੋਡ ਕਰੋ">
->>>>>>> other
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->

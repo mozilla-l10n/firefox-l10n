@@ -1,7 +1,3 @@
-<<<<<<< local
-<!ENTITY accountName.label "ਅਕਾਊਂਟ ਨਾਂ:">
-=======
 <!ENTITY accountName.label "Account Name:">
->>>>>>> other
 <!ENTITY accountName.accesskey "N">
 

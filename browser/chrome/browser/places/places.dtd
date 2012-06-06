@@ -34,15 +34,6 @@
 <!ENTITY importOtherBrowser.label          "...ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਇੰਪੋਰਟ ਕਰੋ">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<<<<<<< local
-<!ENTITY importBookmarksFromHTML.label     "HTML ਤੋਂ ਬੁੱਕਮਾਰਕ ਇੰਪੋਰਟ ਕਰੋ…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "HTML ਲਈ ਬੁੱਕਮਾਰਕ ਐਕਸਪੋਰਟ ਕਰੋ…">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਇੰਪੋਰਟ ਕਰੋ…">
-<!ENTITY importOtherBrowser.accesskey      "A">
-=======
->>>>>>> other
 
 <!ENTITY cmd.backup.label               "ਬੈਕਅੱਪ…">
 <!ENTITY cmd.backup.accesskey           "B">
@@ -84,10 +75,7 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "ਲਾਈਵ ਬੁੱਕਮਾਰ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<<<<<<< local
-=======
 
->>>>>>> other
 
 <!ENTITY cmd.moveBookmarks.label                  "…ਭੇਜੋ">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">

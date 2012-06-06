@@ -28,7 +28,7 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "ਇਸ ਨਾਲ ਬਦਲੋ:">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "ਵੱਡੇ/ਛੋਟੇ ਅੱਖਰ (ਅੰਗਰੇਜ਼ੀ) ਦਾ ਧਿਆਨ ਰੱਖੋ">
+<!ENTITY caseSensitiveCheckbox.label "ਛੋਟੇ/ਛੋਟੇ ਅੱਖਰ (ਅੰਗਰੇਜ਼ੀ) ਦਾ ਧਿਆਨ ਰੱਖੋ">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "ਸ਼ਬਦ ਸਮੇਟੋ">
 <!ENTITY wrapCheckbox.accesskey "W">

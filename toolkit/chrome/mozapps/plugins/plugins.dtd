@@ -19,17 +19,9 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "ਪਲੱਗਇਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ਜਾਂ ਨਾ-ਮੌਜੂਦ ਪਲੱਗਇਨ ਖੁਦ ਲੱਭੋ।">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ਨੂੰ ਪਲੱਗਇਨ ਦੇ ਕੰਮ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।">
-<<<<<<< local
-<!ENTITY clickToPlayPlugins                                  "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">
-=======
   
->>>>>>> other
 <!ENTITY missingPlugin                                       "ਇਹ ਸਮੱਗਰੀ ਵੇਖਾਉਣ ਲਈ ਪਲੱਗਇਨ ਦੀ ਲੋੜ ਹੈ।">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<<<<<<< local
-<!ENTITY tapToPlayPlugin                                     "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਛੂਹੋ">
-<!ENTITY disabledPlugin                                      "ਇਹ ਪਲੱਗਇਨ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ।">
-=======
 <!ENTITY tapToPlayPlugin                                     "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਛੂਹੋ।">
 <!ENTITY clickToPlayPlugin                                   "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">
 <!ENTITY disabledPlugin                                      "ਇਹ ਪਲੱਗਇਨ ਬੰਦ ਕੀਤੀ ਹੈ।">
@@ -39,12 +31,7 @@
 <!ENTITY managePlugins                                       "…ਪਲੱਗਇਨ ਪਰਬੰਧ">
 
 
->>>>>>> other
 <!ENTITY blockedPlugin.label                                 "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਇਹ ਪਲੱਗਇਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ।">
-
-<!ENTITY installPlugin                                       "…ਪਲੱਗਇਨ ਇੰਸਟਾਲ ਕਰੋ">
-<!ENTITY managePlugins                                       "…ਪਲੱਗਇਨ ਪਰਬੰਧ">
-
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

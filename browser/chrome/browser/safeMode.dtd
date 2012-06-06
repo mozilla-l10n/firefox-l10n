@@ -5,16 +5,8 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; ਸੁਰੱਖਿਅਤ ਮੋਡ">
 <!ENTITY window.maxWidth              "400">
 
-<<<<<<< local
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; ਸ਼ੁਰੂ ਹੋਣ ਦੇ ਦੌਰਾਨ ਅਚਾਨਕ ਬੰਦ ਹੋ ਗਿਆ">
-<!ENTITY autoSafeModeDescription.label "ਅਸੀਂ ਪੇਸ਼ ਆਈ ਔਕੜ ਲਈ ਮੁਆਫ਼ੀ ਚਾਹੁੰਦੇ ਹਾਂ। &brandShortName; ਹੁਣ ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਿੱਚ ਚੱਲ ਰਿਹਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਤੁਹਾਡੀਆਂ ਨਿੱਜੀ ਸੈਟਿੰਗ, ਥੀਮ ਅਤੇ ਇਕਸਟੈਸ਼ਨਾਂ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।">
-
-<!ENTITY safeModeDescription.label    "&brandShortName; ਹੁਣ ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਿੱਚ ਚੱਲ ਰਿਹਾ ਹੈ, ਜੋ ਕਿ ਆਰਜ਼ੀ ਤੌਰ ਉੱਤੇ ਤੁਹਾਡੇ ਪਸੰਦੀਦਾ ਸੈਟਿੰਗ, ਥੀਮ ਅਤੇ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕਰ ਦਿੰਦਾ ਹੈ।">
-<!ENTITY safeModeDescription2.label   "ਤੁਸੀਂ ਇਹਨਾਂ ਤਬਦੀਲੀਆਂ ਵਿੱਚੋਂ ਕੁਝ ਜਾਂ ਸਭ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਕਰ ਸਕਦੇ ਹੋ:">
-=======
 <!ENTITY startSafeMode.label          "ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਿੱਚ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY resetProfile.label           "&brandShortName; ਮੁੜ-ਸੈੱਟ">
->>>>>>> other
 
 <!ENTITY safeModeDescription3.label   "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
 <!ENTITY safeModeDescription4.label   "Your add-ons and custom settings will be temporarily disabled.">

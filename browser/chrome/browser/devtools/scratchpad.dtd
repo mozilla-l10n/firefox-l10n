@@ -18,72 +18,36 @@
   -  "simple discardable text editor". -->
 <!ENTITY window.title                 "Scratchpad">
 
-<<<<<<< local
-<!ENTITY fileMenu.label               "ਫਾਇਲ">
-=======
 <!ENTITY fileMenu.label               "File">
->>>>>>> other
 <!ENTITY fileMenu.accesskey           "F">
 
-<<<<<<< local
-<!ENTITY newWindowCmd.label           "ਨਵੀਂ ਵਿੰਡੋ">
-=======
 <!ENTITY newWindowCmd.label           "New Window">
->>>>>>> other
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<<<<<<< local
-<!ENTITY openFileCmd.label            "…ਫਾਇਲ ਖੋਲ੍ਹੋ">
-=======
 <!ENTITY openFileCmd.label            "Open File…">
->>>>>>> other
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<<<<<<< local
-<!ENTITY saveFileCmd.label            "ਸੰਭਾਲੋ">
-=======
 <!ENTITY saveFileCmd.label            "Save">
->>>>>>> other
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<<<<<<< local
-<!ENTITY saveFileAsCmd.label          "…ਵਜੋਂ ਸੰਭਾਲੋ">
-=======
 <!ENTITY saveFileAsCmd.label          "Save As…">
->>>>>>> other
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<<<<<<< local
-<!ENTITY closeCmd.label               "ਬੰਦ">
-=======
 <!ENTITY closeCmd.label               "Close">
->>>>>>> other
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<<<<<<< local
-<!ENTITY editMenu.label               "ਸੋਧ">
-=======
 <!ENTITY editMenu.label               "Edit">
->>>>>>> other
 <!ENTITY editMenu.accesskey           "E">
 
-<<<<<<< local
-<!ENTITY run.label                    "ਚਲਾਓ">
-=======
 <!ENTITY run.label                    "Run">
->>>>>>> other
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<<<<<<< local
-<!ENTITY inspect.label                "ਜਾਂਚ">
-=======
 <!ENTITY inspect.label                "Inspect">
->>>>>>> other
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
@@ -101,11 +65,7 @@
 <!ENTITY environmentMenu.accesskey    "N">
 
 
-<<<<<<< local
-<!ENTITY contentContext.label         "ਸਮੱਗਰੀ">
-=======
 <!ENTITY contentContext.label         "Content">
->>>>>>> other
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -114,27 +74,15 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<<<<<<< local
-<!ENTITY browserContext.label         "ਬਰਾਊਜ਼ਰ">
-=======
 <!ENTITY browserContext.label         "Browser">
->>>>>>> other
 <!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<<<<<<< local
-<!ENTITY helpMenu.label               "ਮੱਦਦ">
-=======
 <!ENTITY helpMenu.label               "Help">
->>>>>>> other
 <!ENTITY helpMenu.accesskey           "H">
-<<<<<<< local
-<!ENTITY helpMenuWin.label            "ਮੱਦਦ">
-=======
 <!ENTITY helpMenuWin.label            "Help">
->>>>>>> other
 <!ENTITY helpMenuWin.accesskey        "H">
 
 <!ENTITY documentationLink.label      "Scratchpad Help on MDN">
@@ -147,11 +95,7 @@
 <!ENTITY resetContext2.label          "Reset Variables">
 <!ENTITY resetContext2.accesskey      "T">
 
-<<<<<<< local
-<!ENTITY executeMenu.label            "ਚਲਾਓ">
-=======
 <!ENTITY executeMenu.label            "Execute">
->>>>>>> other
 <!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
@@ -165,7 +109,3 @@
   -  the same name in browser.dtd.
   -->
 <!ENTITY webConsoleCmd.commandkey     "k">
-<<<<<<< local
-
-=======
->>>>>>> other

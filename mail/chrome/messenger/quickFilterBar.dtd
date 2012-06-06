@@ -3,18 +3,14 @@
      the quick filter bar.
      -->
 <!ENTITY quickFilterBar.qfbShowFilterBar.label
-<<<<<<< local
-         "ਤੁਰੰਤ ਫਿਲਟਰ">
-=======
          "Quick Filter">
 
->>>>>>> other
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
-         "ਤੁਰੰਤ ਫਿਲਟਰ ਪੱਟੀ">
+         "Quick Filter Bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
@@ -38,35 +34,35 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "ਜਦੋਂ ਫੋਲਡਰ ਬਦਲੇ ਜਾਣ ਤਾਂ ਫਿਲਟਰ ਲਾਗੂ ਰੱਖੋ">
+         "Keep filters applied when switching folders">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
      ideally be as short as possible.
      -->
 <!ENTITY quickFilterBar.barLabel.label
-         "ਤੁਰੰਤ ਫਿਲਟਰ:">
+         "Quick Filter:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "ਨਾ-ਪੜ੍ਹੇ">
+         "Unread">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "ਕੇਵਲ ਨਾ ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਹੀ ਵੇਖਾਓ">
+         "Show only unread messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.label
-         "ਤਾਰਾ ਲੱਗੇ">
+         "Starred">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -81,7 +77,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "ਸੰਪਰਕ">
+         "Contact">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -96,7 +92,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "ਟੈਗ">
+         "Tags">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -110,14 +106,14 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "ਅਟੈਚਮੈਂਟ">
+         "Attachment">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "ਕੇਵਲ ਅਟੈਚਮੈਂਟ ਵਾਲੇ ਸੁਨੇਹੇ ਹੀ ਵੇਖਾਓ">
+         "Show only messages with attachments">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -129,14 +125,14 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#1 ਸੁਨੇਹਾ;#1 ਸੁਨੇਹੇ">
+         "#1 message;#1 messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ">
+         "No results">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -159,13 +155,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "ਇਹ ਸੁਨੇਹੇ ਫਿਲਟਰ ਕਰੋ... #1">
-
-
-<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
-     This is the key used to show the quick filter bar. -->
-<!ENTITY quickFilterBar.show.key2
-         "k">
+         "Filter these messages... #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
@@ -212,35 +202,35 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "ਸੁਨੇਹੇ ਫਿਲਟਰ ਕਰੋ ਇੰਝ:">
+         "Filter messages by:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "ਭੇਜਣ ਵਾਲਾ">
+         "Sender">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "ਪ੍ਰਾਪਤ ਕਰਤਾ">
+         "Recipients">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "ਵਿਸ਼ਾ">
+         "Subject">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "ਮੁੱਖ ਭਾਗ">
+         "Body">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches

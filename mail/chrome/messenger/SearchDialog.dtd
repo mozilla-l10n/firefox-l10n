@@ -3,7 +3,7 @@
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "ਅਧੀਨ-ਫੋਲਡਰ ਵਿੱਚ ਖੋਜ।">
 <!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY searchOnServer.label        "ਖੋਜ ਸਰਵਰ ਉੱਤੇ ਕਰੋ">
+<!ENTITY searchOnServer.label        "Run search on server">
 <!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY resetButton.accesskey       "C">

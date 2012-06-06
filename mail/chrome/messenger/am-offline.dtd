@@ -5,7 +5,7 @@
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "ਇਸ ਤੋਂ ਵੱਡੇ ਸੁਨੇਹੇ">
 <!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY autosyncNotDownload.label "ਇਸ ਤੋਂ ਵੱਡੇ ਸੁਨੇਹੇ ਡਾਊਨਲੋਡ ਨਾ ਕਰੋ">
+<!ENTITY autosyncNotDownload.label "Don't download messages larger than">
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
@@ -42,14 +42,14 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "ਬਿਨਾਂ ਉਮਰ ਦੇ ਸਭ ਸੁਨੇਹੇ ਲੋਕਲ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ">
+<!ENTITY allAutosync.label               "Synchronize all messages locally regardless of age">
 <!ENTITY allAutosync.accesskey           "c">
-<!ENTITY ageAutosyncBefore.label         "ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ">
+<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "ਦਿਨ">
-<!ENTITY weekAgeInterval.label           "ਹਫ਼ਤੇ">
-<!ENTITY monthAgeInterval.label          "ਮਹੀਨੇ">
-<!ENTITY yearAgeInterval.label           "ਸਾਲ">
+<!ENTITY dayAgeInterval.label            "Days">
+<!ENTITY weekAgeInterval.label           "Weeks">
+<!ENTITY monthAgeInterval.label          "Months">
+<!ENTITY yearAgeInterval.label           "Years">
 <!ENTITY ageAutosyncAfter.label          "">
 

@@ -1,17 +1,8 @@
 <!ENTITY aboutPage.title                        "&brandShortName; ਬਾਰੇ">
-<<<<<<< local
-<!ENTITY aboutPage.warningVersion               "&brandShortName; ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।">
-<!ENTITY aboutPage.telemetryStart               " ਇਹ ਆਪਣੇ ਆਪ ਹੀ ਕਾਰਗੁਜ਼ਾਰੀ, ਹਾਰਡਵੇਅਰ, ਵਰਤੋਂ ਅਤੇ ਕਸਮਾਈਜ਼ੇਸ਼ਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨੂੰ ਵਾਪਸ ">
-=======
 <!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
 <!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
->>>>>>> other
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<<<<<<< local
-<!ENTITY aboutPage.telemetryEnd                 " ਨੂੰ ਭੇਜਦਾ ਹੈ ਤਾਂ ਕਿ &brandShortName; ਨੂੰ ਵਧੀਆ ਬਣਾਇਆ ਜਾ ਸਕੇ।">
-=======
 <!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
->>>>>>> other
 <!ENTITY aboutPage.faq.label                    "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY aboutPage.support.label                "ਸਹਿਯੋਗ">
 <!ENTITY aboutPage.privacyPolicy.label          "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">

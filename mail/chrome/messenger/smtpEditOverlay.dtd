@@ -17,5 +17,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP ਸਰਵਰ">
 <!ENTITY serverPortDefault.label "ਡਿਫਾਲਟ:">
-<!ENTITY authMethod.label "ਪਰਮਾਣਕਿਤਾ ਢੰਗ:">
+<!ENTITY authMethod.label "Authentication method:">
 <!ENTITY authMethod.accesskey "i">

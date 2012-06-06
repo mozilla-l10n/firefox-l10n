@@ -1,19 +1,11 @@
-<<<<<<< local
-=======
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
->>>>>>> other
 
-<<<<<<< local
-<!ENTITY  splash_settingup "ਤੁਹਾਡਾ &brandShortName; ਸੈਟਅੱਪ">
-<!ENTITY  splash_bookmarks_history "ਅਸੀਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਨੂੰ ਅੱਪਡੇਟ ਕਰ ਰਹੇ ਹਾਂ, ਜਿਸ ਨੂੰ ਇੱਕ ਮਿੰਟ ਜਾਂ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ।">
-=======
 
 
 <!ENTITY  splash_settingup "ਤੁਹਾਡਾ &brandShortName; ਸੈਟਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY  splash_bookmarks_history "ਅਸੀਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਨੂੰ ਅੱਪਡੇਟ ਕਰ ਰਹੇ ਹਾਂ, ਜਿਸ ਲਈ ਮਿੰਟ ਕੁ ਵੀ ਲੱਗ ਸਕਦਾ ਹੈ।">
->>>>>>> other
 <!ENTITY  no_space_to_start_error "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
@@ -37,11 +29,7 @@
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ਵੈੱਬ ਐਪਸ">
 <!ENTITY  launcher_shortcuts_empty "ਕੋਈ ਵੈੱਬ ਐਪਸ ਨਹੀਂ ਲੱਭੀ">
 
-<<<<<<< local
-<!ENTITY choose_file "Choose File">
-=======
 <!ENTITY choose_file "ਫਾਇਲ ਚੁਣੋ">
->>>>>>> other
 
 
 <!ENTITY remote_tabs "ਟੈਬਾਂ ਸਿੰਕ ਕਰੋ">
@@ -62,18 +50,12 @@
 <!ENTITY reload "ਮੁੜ-ਲੋਡ">
 <!ENTITY forward "ਅੱਗੇ">
 
-<<<<<<< local
-=======
 <!ENTITY close_tab "ਟੈਬ ਬੰਦ">
->>>>>>> other
 <!ENTITY new_tab "ਨਵੀਂ ਟੈਬ">
-<<<<<<< local
-=======
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d ਟੈਬਾਂ">
 
->>>>>>> other
 <!ENTITY new_tab_opened "ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੀ ਗਈ">
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
@@ -116,8 +98,6 @@
 <!ENTITY share_title "ਸਾਂਝਾ ਕਰੋ ਵਜੋਂ">
 <!ENTITY save_as_pdf "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
 
-<<<<<<< local
-=======
 <!ENTITY find_in_page "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -127,25 +107,18 @@
 <!ENTITY find_next "ਅੱਗੇ">
 <!ENTITY find_close "ਬੰਦ ਕਰੋ">
 
->>>>>>> other
 <!ENTITY contextmenu_open_new_tab "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
-<<<<<<< local
-=======
 <!ENTITY contextmenu_remove_history "ਹਟਾਓ">
 
->>>>>>> other
 <!ENTITY contextmenu_remove_bookmark "ਹਟਾਓ">
 <!ENTITY contextmenu_add_to_launcher "Home Screen ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧ">
 
-<<<<<<< local
-=======
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
 <!ENTITY history_removed "ਪੇਜ਼ ਹਟਾਇਆ">
 
->>>>>>> other
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
 <!ENTITY bookmark_edit_name "ਨਾਂ">
 <!ENTITY bookmark_edit_location "ਟਿਕਾਣਾ">
@@ -156,14 +129,11 @@
 <!ENTITY site_settings_clear        "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਵੀ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
 
-<<<<<<< local
-=======
 <!ENTITY add_to_reading_list "ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ">
 <!ENTITY reading_list_added "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ">
 <!ENTITY reading_list_removed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ ਹੈ">
 <!ENTITY reader_mode "ਪੜ੍ਹਨ ਮੋਡ">
 
->>>>>>> other
 <!ENTITY masterpassword_create_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਓ">
 <!ENTITY masterpassword_remove_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਹਟਾਓ">
 <!ENTITY masterpassword_password "ਪਾਸਵਰਡ">
@@ -177,11 +147,7 @@
 <!ENTITY abouthome_last_tabs_title "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ">
 <!ENTITY abouthome_last_tabs_open "ਪਿਛਲੇ ਵਾਰ ਦੀਆਂ ਸਭ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
 <!ENTITY abouthome_top_sites_title "ਚੋਟੀਆਂ ਦੀਆਂ ਸਾਈਟਾਂ">
-<<<<<<< local
-<!ENTITY abouthome_top_sites_browse "ਆਪਣੀ ਸਭ ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
-=======
 <!ENTITY abouthome_top_sites_browse "ਆਪਣੀ ਸਭ ਚੋਟੀਆਂ ਦੀਆਂ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
->>>>>>> other
 <!ENTITY abouthome_no_top_sites "ਤੁਹਾਡੇ ਕੋਲ ਹਾਲੇ ਕੋਈ ਵੀ ਚੋਟੀ ਦੀ ਸਾਈਟ ਨਹੀਂ ਹੈ। ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਟਾਈਟਲ ਪੱਟੀ ਨੂੰ ਛੂਹੋ।">
 <!ENTITY abouthome_about_sync "ਆਪਣੇ ਹੋਰ ਜੰਤਰਾਂ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਸੈਟ ਅੱਪ ਕਰੋ">
 <!ENTITY abouthome_sync_bold_name "ਫਾਇਰਫਾਕਸ ਸਿੰਕ">
@@ -190,8 +156,6 @@
 <!ENTITY filepicker_audio_title "ਸਾਊਂਡ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 <!ENTITY filepicker_image_title "ਤਸਵੀਰ ਚੁਣੋ ਜਾਂ  ਖਿੱਚੋ">
 <!ENTITY filepicker_video_title "ਵਿਡੀਓ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
-<<<<<<< local
-=======
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ਤੁਸੀਂ ਕੁਨੈਕਟ ਹੋ">
@@ -207,4 +171,3 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ਜੋ ਕਿ ਚਲਾਈ ਜਾਂਦੀ ਹੈ, ਵਲੋਂ">
->>>>>>> other
