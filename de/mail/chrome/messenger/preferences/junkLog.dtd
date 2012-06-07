@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Junk-Protokoll">
-<!ENTITY junkLogInfo.label "Das Junk-Protokoll dokumentiert die Aktionen des Junk-Filters.">
+<!ENTITY adaptiveJunkLog.title "Junk-Protokoll für selbstlernende Erkennung">
+<!ENTITY adaptiveJunkLogInfo.label "Das Junk-Protokoll dokumentiert die selbständigen Aktionen des lernenden Junk-Filters.">
 <!ENTITY clearLog.label "Protokoll löschen">
 <!ENTITY clearLog.accesskey "P">
 <!ENTITY closeLog.label "Schließen">
