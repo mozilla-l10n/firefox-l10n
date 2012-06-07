@@ -32,22 +32,10 @@
 <!ENTITY emailLabel.label "E-postadresse:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Tenarinformasjon">
+<!ENTITY incomingTitle.label "Info om innkomande tenar">
 <!ENTITY incomingServerTypeDesc.label "Vel kva for type e-posttenar du nyttar for å hente e-post.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Skriv inn namnet på tenaren du hentar e-posten frå (POP/IMAP-tenar, til dømes pop.døme.no).">
-<!ENTITY incomingServerLabel.label "Innkomande tenar:">
-<!ENTITY incomingServerLabel.accesskey "k">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Skriv inn namnet på nyhendegruppetenaren din (NNTP-tenar, til dømes «nyhende.døme.no»).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Skriv inn namnet på tenaren du nyttar for å sende e-post (SMTP-tenar, til dømes «smtp.døme.no»).">
-<!ENTITY smtpServerLabel.label "Utgåande tenar:">
-<!ENTITY smtpServerLabel.accesskey "U">
-<!ENTITY newsServerLabel.label "Nyhendegruppetenar:">
-<!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "M">
@@ -60,29 +48,40 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Skriv inn namnet på den innkomande tenaren (til dømes «mail.eksempel.net»).">
+<!ENTITY incomingServer.label "Innkomande tenar:">
+<!ENTITY incomingServer.accesskey "t">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Skriv inn innkomande brukarnamn som vart gitt til deg av e-posttilbydaren (til dømes «onordmann»).">
+<!ENTITY incomingUsername.label "Brukarnamn:">
+<!ENTITY incomingUsername.accesskey "u">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Skriv inn namnet på nyhendegruppetenaren din (NNTP-tenar, til dømes «nyhende.eksempel.no»).">
+<!ENTITY newsServerLabel.label "Nyhendegruppetenar:">
+<!ENTITY newsServerLabel.accesskey "N">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Info om utgåande tenar">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Skriv inn namnet på den utgåande tenaren (SMTP) (til dømes «smtp.eksempel.net»).">
+<!ENTITY outgoingServer.label "Utgåande tenar:">
+<!ENTITY outgoingServer.accesskey "U">
+<!ENTITY outgoingUsername.description "Skriv inn det utgåande brukarnamnet gitt til deg av e-posttilbydaren (dette er vanlegvis det same som innkomande brukarnamn).">
+<!ENTITY outgoingUsername.label "Utgåande brukarnamn">
+<!ENTITY outgoingUsername.accesskey "n">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "Du kan endre utgåande tenarar i kontoinnstillingane.">
+<!ENTITY modifyOutgoing.suffix "Du kan endre utgåande tenarar i konto-innstillingane.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Den noverande utgåande tenaren din (SMTP), «">
 <!ENTITY haveSmtp1.suffix3 "» vil bli brukt.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Brukarnamn">
-<!ENTITY usernameDesc.label "Skriv inn brukarnamnet du har fått frå e-posttilbydaren din for å hente e-post ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(til dømes «onordmann»)">
-<!ENTITY usernameLabel.label "Innkomande brukarnamn:">
-<!ENTITY usernameLabel.accesskey "k">
-<!ENTITY usernameSmtpDesc.label "Skriv inn brukarnamnet du har fått frå e-posttilbydaren din for å sende e-post (dette er vanlegvis det same som innkomande brukarnamn).">
-<!ENTITY usernameSmtpLabel.label "Utgåande brukarnamn">
-<!ENTITY usernameSmtpLabel.accesskey "U">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
