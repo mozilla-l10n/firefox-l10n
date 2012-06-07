@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "u">
 <!ENTITY newIMAccountCmd.label "Cunntas cabadaich…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Neach-aithne cabadaich…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Fosgail teachdaireachd a chaidh a shàbhaladh…">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Ceanglachain">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Trang">
 <!ENTITY imStatus.offline            "Far loidhne">
 <!ENTITY imStatus.showAccounts       "Seall na cunntasan…">
+<!ENTITY joinChatCmd.label "Gabh pàirt sa chabadaich…">
+<!ENTITY joinChatCmd.accesskey "a">
 <!ENTITY savedFiles.label "Faidhlichean a chaidh a shàbhaladh">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Post truilleis">
+<!ENTITY junkBarMessage2.label "Tha &brandShortName; dhen bheachd gur e post truilleis a tha san teachdaireachd seo.">
 <!ENTITY junkBarButton1.label "Post còir">
 <!ENTITY junkInfoButton.label "?">
 

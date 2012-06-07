@@ -57,3 +57,6 @@
 <!ENTITY showCookies.label              "Seall na briosgaidean…">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Innis do làraichean-lìn gun a bhith 'gam lorgadh">
+<!ENTITY doNotTrack.accesskey           "d">

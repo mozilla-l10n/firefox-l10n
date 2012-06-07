@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Fo-sgrìobhaidhean an inbhir">
 <!ENTITY subscriptionDesc.label "Aire: Cha bhi buaidh ann air artagailean a luchdaich thu a-nuas roimhe ma bheir thu air falbh no ma dh'atharraicheas tu am pasgan airson inbhir.">
@@ -27,6 +31,7 @@
 <!ENTITY button.importOPML.label       "Ion-phortaich">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label       "Às-phortaich">
-<!ENTITY button.exportOPML.accesskey   "À">
+<!ENTITY button.exportOPML.accesskey   "p">
+<!ENTITY button.exportOPML.tooltip     "Às-phortaich inbhirean còmhla ri structar nam pasgan aca; CTRL is briogadh no CTRL ENTER gus na h-inbhirean às-phortadh mar liosta">
 
 <!ENTITY cmd.close.commandKey          "w">
