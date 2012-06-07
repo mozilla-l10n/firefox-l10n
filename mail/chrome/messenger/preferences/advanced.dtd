@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY itemGeneral.label       "Coitcheann">
 <!ENTITY itemDisplay.label       "Leughadh ┐ taisbeanadh">
 <!ENTITY itemUpdate.label        "Ùraich">
@@ -66,6 +70,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "T">
 <!ENTITY showUpdates.label              "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY showUpdates.accesskey          "S">
+
+<!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Roghainnean…">
