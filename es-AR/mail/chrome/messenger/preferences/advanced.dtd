@@ -25,13 +25,13 @@
 <!ENTITY configEditDesc.label          "Configuración avanzada">
 <!ENTITY configEdit.label              "Editor de configuración…">
 <!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los avisos de recepción">
-<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
-<!ENTITY showReturnReceipts.accesskey  "R">
+<!ENTITY returnReceiptsInfo.label      "Determinar cómo &brandShortName; maneja los acuses de recibo">
+<!ENTITY showReturnReceipts.label      "Acuses de recibo…">
+<!ENTITY showReturnReceipts.accesskey  "r">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Reading">
-<!ENTITY display.caption                "Display">
+<!ENTITY reading.caption                "Lectura">
+<!ENTITY display.caption                "Apariencia">
 <!ENTITY showCondensedAddresses.label  "Mostrar solamente el nombre para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -70,6 +70,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey         "t">
 <!ENTITY showUpdates.label              "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey          "u">
+
+<!ENTITY useService.label                "Usar un servicio en segundo plano para instalar actualizaciones">
+<!ENTITY useService.accesskey            "z">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configuración…">
