@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Nevyžiadaná pošta">
-<!ENTITY trainingWarning.label "Ak je táto funkcia povolená, musíte najskôr &brandShortName; naučiť nevyžiadanú poštu identifikovať. Pomocou tlačidla Spam na paneli s nástrojmi označte doručené správy ako normálne alebo ako nevyžiadané.">
+<!ENTITY trainingDescription.label "Ak je táto funkcia povolená, musíte najskôr &brandShortName; naučiť nevyžiadanú poštu identifikovať. Pomocou tlačidla Spam na paneli s nástrojmi označte doručené správy ako normálne alebo ako nevyžiadané. Následne bude &brandShortName; automaticky vedieť označiť nevyžiadanú poštu.">
 <!ENTITY level.label "Povoliť rozpoznávanie nevyžiadanej pošty pre tento účet">
 <!ENTITY level.accesskey "v">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "dňoch">
 
-<!ENTITY whitelist.label "Neoznačovať správy ako nevyžiadané, ak sa odosielateľ nachádza v:">
-<!ENTITY whitelist.accesskey "e">
+<!ENTITY whitelistHeader.label "Neoznačovať automaticky správy ako nevyžiadané, ak sa odosielateľ nachádza v:">
+<!ENTITY whitelistHeader.accesskey "e">
 
+<!ENTITY ispHeadersWarning.label "Ak je táto voľba zapnutá, &brandShortName; bude automaticky považovať správy označené touto externou kontrolou ako nevyžiadané.">
 <!ENTITY ispHeaders.label "Dôverovať príznaku nevyžiadanej pošty (SPAM) od: ">
 <!ENTITY ispHeaders.accesskey "D">
+
+<!ENTITY junkClassification.label "Rozpoznávanie nevyžiadanej pošty">
+<!ENTITY junkActions.label "Presúvanie a odstraňovanie správ">

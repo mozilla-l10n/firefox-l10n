@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Účet pre konverzácie…">
 <!ENTITY newIMAccountCmd.accesskey "o">
+<!ENTITY newIMContactCmd.label "Kontakt pre konverzácie…">
+<!ENTITY newIMContactCmd.accesskey "v">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Prílohy">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Neprítomný">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Zobraziť účty…">
+<!ENTITY joinChatCmd.label "Pripojiť sa ku konverzácii…">
+<!ENTITY joinChatCmd.accesskey "P">
 <!ENTITY savedFiles.label "Uložené súbory">
 <!ENTITY savedFiles.accesskey "e">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Nevyžiadaná správa">
+<!ENTITY junkBarMessage2.label "&brandShortName; si myslí, že táto správa je nevyžiadaná.">
 <!ENTITY junkBarButton1.label "Nie je nevyžiadaná">
 <!ENTITY junkInfoButton.label "?">
 
