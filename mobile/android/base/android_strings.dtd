@@ -84,6 +84,7 @@
 <!ENTITY pref_font_size_xlarge "Extra stor">
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Visa sökförslag">
 
 <!ENTITY quit "Avsluta">
 
