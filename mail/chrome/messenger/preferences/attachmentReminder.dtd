@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY attachmentReminderDialog.title   "Kľúčové slová pre kontrolu prítomnosti príloh">
 <!ENTITY attachKeywordText.label          "&brandShortName; vás upozorní na chýbajúcu prílohu, ak sa pokúsite odoslať e-mailovú správu, ktorá bude obsahovať jedno z uvedených kľúčových slov.">
 <!ENTITY addKeywordButton.label           "Pridať">

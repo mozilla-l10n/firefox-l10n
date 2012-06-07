@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Pomocník">
 <!ENTITY helpMenu.accesskey "P">
@@ -13,8 +17,6 @@
 <!ENTITY releaseCmd2.accesskey "P">
 <!ENTITY whatsNewCmd.label "Čo je nové?">
 <!ENTITY whatsNewCmd.accesskey "n">
-<!ENTITY featureConfiguratorCmd.label "Asistent pri prechode na novú verziu">
-<!ENTITY featureConfiguratorCmd.accesskey "s">
 <!ENTITY openHelp.label "Obsah pomocníka">
 <!ENTITY openHelp.accesskey "O">
 <!ENTITY openHelp.commandkey "VK_F1">

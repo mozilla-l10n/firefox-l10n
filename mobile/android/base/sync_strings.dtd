@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Nastavenie dokončené'>
-<!ENTITY sync.subtitle.success.label 'Vaše údaje sú teraz preberané na pozadí. Svoj účet môžete spravovať v nastaveniach prehliadača.'>
+<!ENTITY sync.subtitle.success.label1 'Vaše údaje sú teraz preberané na pozadí. Ak chcete, môžete si spravovať svoj účet v nastaveniach prehliadača alebo začnite s prehliadaním webu v prehliadači &brandShortName;.'>
 <!ENTITY sync.settings.label 'Nastavenia'>
-<!ENTITY sync.subtitle.manage.label 'Váš účet služby &syncBrand.fullName.label; je už nastavený. Spravovať ho môžete v nastaveniach prehliadača.'>
+<!ENTITY sync.subtitle.manage.label1 'Váš účet služby &syncBrand.fullName.label; je už nastavený. Ak ho chcete spravovať, prejdite do nastavení prehliadača. Inak môžete rovno prehlaidať web.'>
   
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Skúsiť znova.'>
+<!ENTITY sync.pair.connectlocation.label 'Ak chcete aktivovať nové zariadenie, zvoľte položku “Nastaviť službu &syncBrand.shortName.label;” na tomto zariadení a následne zvoľte položku “Už mám účet”.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Možnosti'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Nezaradené záložky'>
 <!ENTITY bookmarks.folder.desktop.label 'Záložky z plnej verzie'>
 <!ENTITY bookmarks.folder.mobile.label 'Záložky z mobilnej verzie'>
+<!ENTITY bookmarks.folder.readinglist.label 'Zoznam na prečítanie'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Podporovaný je len jeden účet služby &syncBrand.fullName.label;.'>
