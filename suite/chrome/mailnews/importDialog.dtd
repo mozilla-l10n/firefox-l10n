@@ -4,6 +4,8 @@
 <!ENTITY importAll.accesskey "t">
 <!ENTITY importMail.label "Posta">
 <!ENTITY importMail.accesskey "P">
+<!ENTITY importFeeds.label "Sottoscrizioni ai feed">
+<!ENTITY importFeeds.accesskey "d">
 <!ENTITY importAddressbook.label "Rubriche">
 <!ENTITY importAddressbook.accesskey "R">
 <!ENTITY importSettings.label "Impostazioni">
@@ -17,7 +19,10 @@
 <!ENTITY importDescription1.label "Questo processo importerà in &brandShortName; messaggi di posta, voci di rubrica, preferenze e/o filtri da altri programmi di posta e rubriche comuni.">
 <!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
 <!ENTITY selectDescription.label "Selezionare il programma dal quale eseguire l'importazione:">
+<!ENTITY selectDescriptionB.label "Selezionare un account esistente o crearne uno nuovo:">
 <!ENTITY selectDescription.accesskey "S">
+<!ENTITY acctName.label "Nome:">
+<!ENTITY acctName.accesskey "N">
 <!ENTITY back.label "&lt; Indietro">
 <!ENTITY forward.label "Avanti &gt;">
 <!ENTITY finish.label "Finito">
