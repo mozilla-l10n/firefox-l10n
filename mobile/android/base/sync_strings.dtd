@@ -40,9 +40,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Nastavení dokončeno">
-<!ENTITY sync.subtitle.success.label "Vaše data jsou nyní stahována na pozadí. Nyní můžete přejít zpět do Nastavení.">
+<!ENTITY sync.subtitle.success.label1 "Vaše data jsou nyní stahována na pozadí. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.">
 <!ENTITY sync.settings.label "Nastavení">
-<!ENTITY sync.subtitle.manage.label "Účet &syncBrand.fullName.label; je nyní nastaven. Pro správu účtu přejděte do Nastavení.">
+<!ENTITY sync.subtitle.manage.label1 "Účet &syncBrand.fullName.label; je nyní nastaven. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.">
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "Prosím opkaujte znovu.">
