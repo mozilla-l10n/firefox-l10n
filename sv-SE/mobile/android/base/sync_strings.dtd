@@ -78,4 +78,7 @@
 <!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Fel kontonamn eller lösenord.'>
+<!ENTITY sync.invalidserver.label 'Ange en giltig server-URL'>
+<!ENTITY sync.verifying.label 'Verifierar…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Fel återställningsnyckel. Försök igen.'>
