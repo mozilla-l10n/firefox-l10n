@@ -1,6 +1,7 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Feed-Abonnements">
 <!ENTITY subscriptionDesc.label      "Hinweis: Entfernen oder Ändern des Ordners für einen Feed hat keinen Einfluss auf zuvor abgerufene Artikel.">
+
 <!ENTITY feedTitle.label             "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
 
@@ -14,6 +15,7 @@
 <!ENTITY quickMode.label             "Artikel-Zusammenfassung anstelle der Webseite anzeigen">
 <!ENTITY quickMode.accesskey         "A">
 
+<!ENTITY locationValidate.label      "Validieren">
 <!ENTITY validateText.label          "Prüfe Gültigkeit und rufe gültige URL ab.">
 
 <!ENTITY button.addFeed.label        "Hinzufügen">
