@@ -21,4 +21,5 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "Esporta">
 <!ENTITY button.exportOPML.accesskey "s">
+<!ENTITY button.exportOPML.tooltip "Esporta i feed mantenendo la struttura delle cartelle; ctrl+clic o ctrl+invio per esportare i feed come una lista">
 <!ENTITY cmd.close.commandKey "w">
