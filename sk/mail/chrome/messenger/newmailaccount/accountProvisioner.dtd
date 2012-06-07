@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Víta vás &brandShortName;">
 <!ENTITY header2.label "Chceli by ste novú e-mailovú adresu?">
 <!ENTITY other.languages "Zobrazujú sa len poskytovatelia, ktorí poskytujú e-mailové adresy vo vašej oblasti. Kliknutím sem zobrazíte všetkých poskytovateľov.">

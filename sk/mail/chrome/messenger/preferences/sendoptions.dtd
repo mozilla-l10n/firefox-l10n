@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "Nastavenia pre odosielanie">
 <!ENTITY sendMail.title               "Formát textu">
 <!ENTITY sendMaildesc.label           "Ak odosielate správu vo formáte HTML a jeden alebo viacerí adresáti nie sú schopní prijímať správy v tomto formáte:">

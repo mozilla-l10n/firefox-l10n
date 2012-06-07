@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Odoberané informačné kanály">
 <!ENTITY subscriptionDesc.label      "Poznámka: odstránenie alebo zmena priečinka kanálu nemá vplyv na už prevzaté príspevky.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportovať">
 <!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY button.exportOPML.tooltip   "Exportovať kanály vrátane súborovej štruktúry. Pomocou skratiek Ctrl+kliknutie alebo Ctrl+enter je možné kanály vyexportovať ako zoznam.">
 
 <!ENTITY cmd.close.commandKey        "w">

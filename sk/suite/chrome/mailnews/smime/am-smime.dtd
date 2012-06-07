@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label           "Bezpečnosť">
 <!ENTITY securityTab.label             "Bezpečnosť">
 <!ENTITY securityHeading.label         "Ak chcete posielať a prijímať podpísané alebo šifrované správy, mali by ste zadať certifikát pre šifrovanie a certifikát pre digitálne podpisovanie.">
