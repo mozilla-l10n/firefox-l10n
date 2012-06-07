@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
 <!ENTITY languages.customize.prefLangDescript           "Webové stránky sú niekedy dostupné vo viac ako jednom jazyku. Vyberte a usporiadajte podľa priority jazyky, v ktorých sa majú stránky zobrazovať.">

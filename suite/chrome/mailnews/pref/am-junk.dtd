@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Nevyžiadaná pošta">
 <!ENTITY trainingDescription.label "Ak je táto funkcia povolená, musíte najskôr &brandShortName; naučiť nevyžiadanú poštu identifikovať. Pomocou tlačidla Spam na paneli s nástrojmi označte doručené správy ako normálne alebo ako nevyžiadané. Následne bude &brandShortName; automaticky vedieť označiť nevyžiadanú poštu.">
 <!ENTITY level.label "Povoliť rozpoznávanie nevyžiadanej pošty pre tento účet">

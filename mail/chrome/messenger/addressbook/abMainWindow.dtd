@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Adresár">
 
 <!-- File Menu -->
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "M">
 <!ENTITY PrimaryEmail.label                             "E-mailová adresa">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Účet pre IM">
-<!ENTITY ScreenName.accesskey                           "I">
+<!ENTITY ChatName.label                                 "Meno pre konverzácie">
+<!ENTITY ChatName.accesskey                             "k">
 <!ENTITY Company.label                                  "Organizácia">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Prezývka">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Domov">
 <!ENTITY other.heading                                  "Iné">
+<!ENTITY chat.heading                                   "Konverzácie">
 <!ENTITY phone.heading                                  "Telefón">
 <!ENTITY work.heading                                   "Zamestnanie">
 <!-- Special Box Headings, for mailing lists -->
