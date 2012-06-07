@@ -15,6 +15,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "I">
 <!ENTITY importMail.label         "Correo">
 <!ENTITY importMail.accesskey     "C">
+<!ENTITY importFeeds.label        "Suscripciones a canales">
+<!ENTITY importFeeds.accesskey    "S">
 <!ENTITY importAddressbook.label  "Libretas de direcciones">
 <!ENTITY importAddressbook.accesskey "L">
 <!ENTITY importSettings.label     "Configuración">
@@ -31,8 +33,11 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Este asistente importará los mensajes de correo, entradas en la libreta de direcciones, preferencias y/o filtros desde otros programas de correo y formatos comunes de libretas de direcciones a &brandShortName;.">
 <!ENTITY importDescription2.label "Cuando hayan sido importados, podrá acceder a ellos desde &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Por favor, seleccione el tipo de archivo que quiere importar:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.label  "Seleccione el tipo de archivo que quiere importar:">
+<!ENTITY selectDescriptionB.label "Seleccione una cuenta existente o cree una cuenta nueva:">
+<!ENTITY selectDescription.accesskey "S">
+<!ENTITY acctName.label           "Nombre:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Atrás">
 <!ENTITY forward.label            "Siguiente &gt;">
