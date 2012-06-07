@@ -78,5 +78,8 @@
 <!ENTITY sync.notification.oneaccount.label 'Solamente se soporta una cuenta de  &syncBrand.fullName.label;.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Nombre de cuenta o contraseña incorrecta.'>
+<!ENTITY sync.invalidserver.label 'Ingresá una URL de servidor válida'>
+<!ENTITY sync.verifying.label 'Verificando…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Clave de recuperación incorrecta. Intentá nuevamente.'>
 
