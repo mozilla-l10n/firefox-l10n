@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Leabhar nan seòladh">
 
 <!-- File Menu -->
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Neach-aithne">
 <!ENTITY home.heading                                   "Dachaigh">
 <!ENTITY other.heading                                  "Eile">
+<!ENTITY chat.heading                                   "Cabadaich">
 <!ENTITY phone.heading                                  "Fòn">
 <!ENTITY work.heading                                   "Obair">
 <!-- Special Box Headings, for mailing lists -->
