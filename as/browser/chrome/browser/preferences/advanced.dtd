@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "সাধাৰণ">
@@ -25,8 +29,9 @@
 <!ENTITY systemDefaults.label            "চিস্টেমৰ অবিকল্পিত">
 <!ENTITY alwaysCheckDefault.label        "আৰম্ভৰ সময়ত &brandShortName; অবিকল্পিত ব্ৰাউছাৰ হয় নে নহয় পৰীক্ষা কৰিব"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "এতিয়া পৰীক্ষা কৰক">
-<!ENTITY checkNow.accesskey              "N">
+<!ENTITY setDefault.label                "&brandShortName; ক অবিকল্পিত ব্ৰাউছাৰ বনাওক">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ">
 <!ENTITY submitCrashes.label             "স্খলন সংবাদ জমা কৰক">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "পৰিৱেশন তথ্য জমা দিয়ক">
