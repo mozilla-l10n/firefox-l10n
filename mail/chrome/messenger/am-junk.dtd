@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!ENTITY junkSettings.label "Roghainnean na truilleis">
-<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
-
-<!ENTITY trainingWarning.label "Ma chuireas tu seo an comas, bi agad ri &brandShortName; a thrèanadh gus an aithnich e post-truilleis. Nì thu seo bàr-inneal na truilleis. Feumaidh tu an dà chuid teachdaireachdan truilleis is feadhainn chòir a chomharradh. Bidh &brandShortName; comasach air truilleis a chomharradh e fhèin an uairsin.">
+<!ENTITY trainingDescription.label "Ma chuireas tu seo an comas, bi agad ri &brandShortName; a thrèanadh gus an aithnich e post-truilleis. Nì thu seo bàr-inneal na truilleis. Feumaidh tu an dà chuid teachdaireachdan truilleis is feadhainn chòir a chomharradh. Bidh &brandShortName; comasach air truilleis a chomharradh e fhèin an uairsin.">
 <!ENTITY level.label "Cuir an comas na h-uidheaman-smachd tuigseach air a' chunntas seo">
 <!ENTITY level.accesskey "e">
 
