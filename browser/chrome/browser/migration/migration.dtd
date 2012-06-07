@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "F">
-<!ENTITY importFromHTMLFile.label       "Aus HTML-Datei">
-<!ENTITY importFromHTMLFile.accesskey   "D">
 
 <!ENTITY noMigrationSources.label       "Es konnte kein Programm gefunden werden, das Lesezeichen-, Chronik- oder Passwortdaten enthält.">
 
