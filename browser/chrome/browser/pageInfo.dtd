@@ -1,40 +1,7 @@
 <!--
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is Mozilla Communicator client code.
-#
-# The Initial Developer of the Original Code is Daniel Brooks.
-# Portions created by the Initial Developer are Copyright (C) 2001
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s): Daniel Brooks <db48x@yahoo.com>
-#                 Florian QUEZE <f.qu@queze.net>
-#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the LGPL or the GPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
 <!ENTITY  pageInfoWindow.width  "600">
@@ -92,13 +59,14 @@
 <!ENTITY  permAllow             "অনুমতি দিয়ক">
 <!ENTITY  permAllowSession      "অধিবেশনৰ কাৰণে অনুমতি দিয়ক">
 <!ENTITY  permBlock             "ৰোধ কৰক">
-<!ENTITY  permissionsFor        "-ৰ বাবে অনুমতি:">
+<!ENTITY  permissionsFor        "ৰ বাবে অনুমতি:">
 <!ENTITY  permImage             "ছবি ল'ড কৰক">
 <!ENTITY  permPopup             "প'প-আপ উইন্ডো খোলক">
 <!ENTITY  permCookie            "কুকি প্ৰতিষ্ঠা কৰক">
 <!ENTITY  permInstall           "থিম বা সম্প্ৰসাৰণ ইনস্টল কৰক">
 <!ENTITY  permGeo               "স্থান অংশীদাৰ কৰক">
 <!ENTITY  permPlugins           "প্লাগিনসমূহ সক্ৰিয় কৰক">
+<!ENTITY  permFullscreen        "সম্পূৰ্ণপৰ্দাত যাওক">
 
 <!ENTITY  permIndexedDB              "অফলাইন সংৰক্ষণ অব্যাহত ৰাখক">
 <!ENTITY  permClearStorage           "সংৰক্ষণ পৰিষ্কাৰ কৰক">
@@ -115,7 +83,7 @@
 <!ENTITY  securityView.identity.header   "ৱেব ছাইটৰ পৰিচয়">
 <!ENTITY  securityView.identity.owner    "গৰাকী: ">
 <!ENTITY  securityView.identity.domain   "ৱেব পৃষ্ঠা: ">
-<!ENTITY  securityView.identity.verifier "-ৰ দ্বাৰা প্ৰমাণিত কৰা হৈছে: ">
+<!ENTITY  securityView.identity.verifier "ৰ দ্বাৰা প্ৰমাণিত কৰা হৈছে: ">
 
 <!ENTITY  securityView.privacy.header                   "গোপনীয়তা &amp; ইতিহাস">
 <!ENTITY  securityView.privacy.history                  "আজিৰ পূৰ্বে মই এই ৱেব ছাইট চাইছোঁ নেকি ?">

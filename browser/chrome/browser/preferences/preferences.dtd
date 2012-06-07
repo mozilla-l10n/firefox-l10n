@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  prefWindow.titleWin     "বিকল্প">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; পছন্দ">
@@ -17,3 +21,5 @@
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "সংমিহলি">
+<!ENTITY  buttonForward.tooltip   "এটা পৃষ্ঠা আগলৈ যাওক">
+<!ENTITY  buttonBack.tooltip      "এটা পৃষ্ঠা পিছলৈ যাওক">

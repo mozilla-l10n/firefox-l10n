@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "ইয়াৰ সলনি নতুন সংযোগক্ষেত্ৰক নতুন টেবত খোলক">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
@@ -9,6 +13,9 @@
 
 <!ENTITY showTabBar.label             "সদায়ে টেব বাৰ দেখাব">
 <!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY restoreTabsOnDemand.label        "নিৰ্বাচন নহোৱালৈকে টেবসমূহ ল'ড নকৰিব">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "এটা নতুন টেবত সংযোগ খুলিলে, তৎক্ষণাত সেইটোলৈ যাব">
 <!ENTITY switchToNewTabs.accesskey    "s">
