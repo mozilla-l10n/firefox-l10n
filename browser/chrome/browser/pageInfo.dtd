@@ -97,6 +97,7 @@
 <!ENTITY  permCookie            "Cookies setzen">
 <!ENTITY  permInstall           "Erweiterungen oder Themes installieren">
 <!ENTITY  permGeo               "Auf aktuellen Ort zugreifen">
+<!ENTITY  permPlugins           "Plugins verwenden">
 
 <!ENTITY  permIndexedDB              "Offline-Speicher anlegen">
 <!ENTITY  permClearStorage           "Speicher löschen">
