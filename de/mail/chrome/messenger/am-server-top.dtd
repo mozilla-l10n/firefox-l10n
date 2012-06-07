@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Nachrichtenspeicher">
 <!ENTITY securitySettings.label "Sicherheit und Authentifizierung">
 <!ENTITY serverSettings.label "Server-Einstellungen">
 <!ENTITY serverType.label "Servertyp:">
@@ -54,7 +55,7 @@
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Abfrage vor Download von mehr als">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY browseNewsrc.label "Durchsuchen…">
 <!ENTITY browseNewsrc.accesskey "D">
+
+<!ENTITY accountTitle.label "Konto-Einstellungen">
+<!ENTITY accountSettingsDesc.label "Dies ist ein besonderes Konto, da keine Identitäten mit ihm verknüpft sind.">

@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "L">
 <!ENTITY markAsReadOnSpam.label "Junk als gelesen markieren">
 <!ENTITY markAsReadOnSpam.accesskey "J">
-<!ENTITY enableJunkLogging.label "Junk-Protokoll aktivieren">
-<!ENTITY enableJunkLogging.accesskey "u">
+<!ENTITY enableAdaptiveJunkLogging.label "Junk-Protokoll für selbstlernenden Filter aktivieren">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "u">
 <!ENTITY openJunkLog.label "Protokoll anzeigen…">
 <!ENTITY openJunkLog.accesskey "P">
 <!ENTITY resetTrainingData.label "Trainingsdaten löschen">
