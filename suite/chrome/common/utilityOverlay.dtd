@@ -69,12 +69,12 @@
 <!ENTITY findCmd.accesskey "B">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Buscar anterior">
-<!ENTITY findPrevCmd.key "e">
+<!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "u">
+<!ENTITY findPrevCmd.accesskey "e">
 <!ENTITY findTypeTextCmd.label "Buscar texto mientras se escribe">
 <!ENTITY findTypeTextCmd.accesskey "x">
 <!ENTITY findTypeLinksCmd.label "Buscar enlaces mientras se escribe">
