@@ -67,6 +67,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Netříděné záložky">
 <!ENTITY bookmarks.folder.desktop.label "Záložky z desktopu">
 <!ENTITY bookmarks.folder.mobile.label "Záložky z mobilu">
+<!ENTITY bookmarks.folder.readinglist.label "Seznam ke čtení">
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "Pouze jeden účet &syncBrand.fullName.label; je podporován.">
