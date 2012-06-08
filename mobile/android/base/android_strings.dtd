@@ -120,7 +120,10 @@
 <!ENTITY masterpassword_password "Heslo">
 <!ENTITY masterpassword_confirm "Potvrzení hesla">
 
+<!ENTITY add_to_reading_list "Přidat do Seznamu ke čtení">
+<!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
+<!ENTITY reader_mode "Režim čtení">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušit">
