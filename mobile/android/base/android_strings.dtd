@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY splash_settingup "Nastavení &brandShortName;">
 <!ENTITY splash_bookmarks_history "Záložky a historie jsou aktualizovány, což může chvilku trvat.">
@@ -115,6 +119,8 @@
 <!ENTITY masterpassword_remove_title "Odebrat hlavní heslo">
 <!ENTITY masterpassword_password "Heslo">
 <!ENTITY masterpassword_confirm "Potvrzení hesla">
+
+<!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušit">
