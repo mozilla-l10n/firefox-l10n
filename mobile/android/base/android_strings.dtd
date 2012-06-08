@@ -135,8 +135,8 @@
 <!ENTITY find_next "Pròscimo">
 <!ENTITY find_close "Særa">
 <!ENTITY history_removed "Pàgina scancelâ">
-<!ENTITY identity_connected_to "S'é conéssi con">
-<!ENTITY identity_run_by "Sto scîto o l'é è gestîo da">
+<!ENTITY identity_connected_to "S\'é conéssi con">
+<!ENTITY identity_run_by "Sto scîto o l\'é è gestîo da">
 <!ENTITY reading_list_added "Pàgina azónta a-a Lìsta de letûa">
 <!ENTITY reading_list_removed "Pàgina scancelâ da Lìsta de letûa">
 <!ENTITY reader_mode "Modalitæ letûa">
