@@ -47,6 +47,8 @@
 
 <!ENTITY startSafeMode.label          "Sākt drošajā režīmā">
 
+<!ENTITY resetProfileInstead.label    "Ja, vēlaties varat atjaunot &brandShortName; uz noklusēto un sākt visu no jauna.">
+
 <!ENTITY safeModeDescription3.label   "Drošais režīms ir speciāls &brandShortName; režīms dažādu tehnisko problēmu risināšanai.">
 <!ENTITY safeModeDescription4.label   "Jūsu papildinājumi un nestandarta iestatījumi tiks īslaicīgi deaktivizēti.">
 

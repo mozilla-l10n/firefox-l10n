@@ -21,6 +21,11 @@
   -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey     "S">
 
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+-  checkbox that toggles pausing on exceptions. -->
+<!ENTITY debuggerUI.pauseExceptions          "Apstāties pie izņēmumiem">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
   -  button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip      "Aizvērt">
