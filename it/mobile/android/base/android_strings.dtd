@@ -69,6 +69,7 @@
 <!ENTITY pref_font_size_xlarge "Molto grande">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Mostra i suggerimenti di ricerca">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
 <!ENTITY downloads "Download">
