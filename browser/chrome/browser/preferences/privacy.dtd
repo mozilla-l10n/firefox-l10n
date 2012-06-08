@@ -67,10 +67,10 @@
 <!ENTITY  rememberHistory2.accesskey  "v">
 
 <!ENTITY  rememberSearchForm.label       "Recordar lo que haya ingresado en formularios y en la barra de búsqueda">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "R">
 
 <!ENTITY  clearOnClose.label             "Eliminar el historial cuando cierre &brandShortName;">
-<!ENTITY  clearOnClose.accesskey         "E">
+<!ENTITY  clearOnClose.accesskey         "h">
 
 <!ENTITY  clearOnCloseSettings.label     "Opciones…">
 <!ENTITY  clearOnCloseSettings.accesskey "O">
