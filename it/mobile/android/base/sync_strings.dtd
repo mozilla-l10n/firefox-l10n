@@ -50,4 +50,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
 <!ENTITY bookmarks.folder.readinglist.label "Lista di lettura">
 <!ENTITY sync.notification.oneaccount.label "È possibile utilizzare un solo account &syncBrand.fullName.label;.">
+<!ENTITY sync.invalidcreds.label "Nome utente o password errati">
+<!ENTITY sync.invalidserver.label "Inserire un indirizzo valido per il server">
+<!ENTITY sync.verifying.label "Verifica in corso…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Chiave di ripristino errata, riprovare.">
