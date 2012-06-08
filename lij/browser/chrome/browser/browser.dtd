@@ -614,3 +614,32 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Særa a Bâra do svilupatô">
+<!ENTITY devToolbarMenu.label "Bâra do svilupatô">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY enterFullScreenCmd.label "Vànni a tùtto schèrmo">
+<!ENTITY enterFullScreenCmd.accesskey "h">
+<!ENTITY exitFullScreenCmd.label "Sciòrti da a tùtto schèrmo">
+<!ENTITY exitFullScreenCmd.accesskey "h">
+<!ENTITY fullscreenAllowButton.label "Permétti">
+<!ENTITY fullscreenExitButton.label "No permétte">
+<!ENTITY fullscreenApproval.value "Vànni a tùtto schèrmo?">
+<!ENTITY fullscreenExitHint.value "Sciàcca ESC pe sciortî dò-u mòddo a tùtto schèrmo">
+<!ENTITY leaveDOMFullScreen.label "Sciòrti da a tùtto schèrmo">
+<!ENTITY leaveDOMFullScreen.accesskey "h">
+
+<!ENTITY inspectOptionButton.tooltiptext "Inpostaçioìn anàlixi">
+<!ENTITY inspectorToggleVeil.label "Scûa pàgina">
+<!ENTITY inspectorToggleVeil.accesskey "O">
+<!ENTITY inspectorToggleInfobar.label "Móstra inf. gróppo">
+<!ENTITY inspectorToggleInfobar.accesskey "M">
+<!ENTITY inspectorButton.label "Anàlixi">
+
+<!ENTITY responsiveUI.label "Mòddo reatîvo">
+<!ENTITY responsiveUI.accesskey "r">
+<!ENTITY responsiveUI.commandkey "M">
+
+<!ENTITY webConsoleButton.label "Console web">
