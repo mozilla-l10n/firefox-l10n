@@ -15,9 +15,14 @@
   -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey "D">
 
-<!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
-  -  button that closes the debugger UI. -->
+<!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
+  -  the button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton "Zavřít">
+
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles pausing on exceptions. -->
+<!ENTITY debuggerUI.pauseExceptions "Pozastavit při výjimce">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
   -  button that steps over a function call. -->
 <!ENTITY debuggerUI.stepOverButton "Krokovat přes">
