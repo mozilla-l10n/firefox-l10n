@@ -37,19 +37,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title         "Mòddo Segûo de &brandShortName;">
-<!ENTITY window.width                 "37em">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; o l'é into mòddo segûo ch'o dizabìlita e teu inpostaçioìn, têmi e estenscioìn.">
 <!ENTITY safeModeDescription2.label   "Ti ti peu fâ deventâ fìssi quàrche ò tùtti sti càngi:">
 
-<!ENTITY disableAddons.label          "Dizabìlita tùtti i conponénti azónti">
-<!ENTITY disableAddons.accesskey      "D">
-
 <!ENTITY resetToolbars.label          "Reinpòsta bâre e contròlli">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label        "Scancélla tùtti i segnalìbbri ma esclùddi quélli che stan inte còpie di seguéssa">
-<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "Reinpòsta tùtte e preferense a-o predefinîo de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
@@ -57,9 +51,13 @@
 <!ENTITY restoreSearch.label          "Métti tórna i motô de riçèrca predefinî">
 <!ENTITY restoreSearch.accesskey      "R">
 
-<!ENTITY changeAndRestartButton.label "Càngia e àrvi tórna">
-<!ENTITY continueButton.label         "Continoa into Mòddo Segûo">
+<!ENTITY autoSafeModeDescription2.label "O &brandShortName; o s'é seròu inte 'n mòddo che mi mîga me l'aspetâvo. Quésto o poriéiva êse dovûo a di conponénti azónti instalæ ò âtre càoze. L'é poscìbile çercâ de risòlve l'erô ripristinàndo o &brandShortName; into stæto iniçiâ ò atrovàndo o problêma into Mòddo provizòrio.">
 
-<!ENTITY autoSafeModeIntro.label      "O &brandShortName; o se seròu inte 'n mòddo inaspetòu fintànto ch'o se arvîva">
-<!ENTITY autoSafeModeDescription.label "Niâtri se scuzémmo asæ pe sto fæto. O &brandShortName; o l'é òua into mòddo segûo, che tenporaneaménte o dizabilita personaòizaçioìn, têmi e estenscioìn.">
-
+<!ENTITY safeModeInstead.label "In alternatîva l'é poscìbile adêuviâ o Mòddo provizòrio pe çercâ de risòlve o problêma dizativàndo tenporaneaménte i conponénti azónti e-e inpostaçioìn personalizæ.">
+<!ENTITY resetProfileFooter.label "Tùtte e âtre impostaçioìn saiàn scistemæ co-i valô predefinîi.">
+<!ENTITY resetProfileInstead.label "L'é ascì poscìbile adêuviâ Riprìstina &brandShortName; pe partî da zêro.">
+<!ENTITY resetProfile.label "Riprìstina o &brandShortName;">
+<!ENTITY safeModeDescription3.label "O Mòddo provizòrio o l'é 'na speciâle modalitæ de &brandShortName; ch'a peu êse ùtile pe risòlve di problêmi.">
+<!ENTITY safeModeDescription4.label "Saiàn tenporaneaménte dizativæ i conponénti azónti e-e inpostaçioìn personalizæ.">
+<!ENTITY window.maxWidth "400">
+<!ENTITY startSafeMode.label "Vànni co-o Mòddo provizòrio">

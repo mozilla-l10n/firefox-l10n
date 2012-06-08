@@ -16,3 +16,6 @@
 <!ENTITY showTabsInTaskbar.label          "Fànni védde l'anteprìmma inta bâra di task do Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
 
+<!ENTITY restoreTabsOnDemand.label "No caregâ i féuggi prìmma che véngnan selezionæ">
+<!ENTITY restoreTabsOnDemand.accesskey "N">
+

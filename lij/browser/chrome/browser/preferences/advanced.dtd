@@ -26,8 +26,10 @@
 ">
 <!ENTITY alwaysCheckDefault.label        "Inte l'avertûa contròlla de lóngo se o &brandShortName; o l'é o navegatô predefinîo"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "i">
-<!ENTITY checkNow.label                  "Contròlla òua">
-<!ENTITY checkNow.accesskey              "n">
+<!ENTITY isDefault.label "&brandShortName; o l'é o teu navegatô predefinîo">
+<!ENTITY setDefault.label "Métti &brandShortName; cómme navegatô predefinîo">
+<!ENTITY setDefault.accesskey "o">
+
 <!ENTITY submitCrashes.label             "Segnâla un problêma">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Manda informaçion in sciô fonçionamento">

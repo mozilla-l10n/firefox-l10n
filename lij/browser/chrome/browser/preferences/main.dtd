@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label     "Fànni védde a mæ pàgina iniçiâ">
 <!ENTITY startupBlankPage.label    "Fànni védde 'na pàgina giànca">
 <!ENTITY startupLastSession.label  "Fànni védde i mæ barcoìn e féuggi avèrti l'ùrtima vòtta">
-<!ENTITY restoreOnDemand.label     "No caregâ e pàgine fintànto che son seleçionæ">
-<!ENTITY restoreOnDemand.accesskey "N">
 
 <!ENTITY homepage.label            "Pàgina iniçiâ:">
 <!ENTITY homepage.accesskey        "P">
