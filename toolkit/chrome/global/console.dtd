@@ -40,9 +40,6 @@
 <!ENTITY errFile.label "Avota fails:">
 <!ENTITY errLine.label "Rinda:">
 <!ENTITY errColumn.label "Kolonna:">
-<!ENTITY filter.label       "Filtrs">
-<!ENTITY filter.accesskey   "F">
-
 
 <!ENTITY all.label "Viss">
 <!ENTITY all.accesskey "V">
