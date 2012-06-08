@@ -109,6 +109,9 @@
 <!ENTITY contextmenu_remove_bookmark "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
 <!ENTITY contextmenu_share "Partilhar">
+<!ENTITY contextmenu_pasteandgo "Colar &amp; ir">
+<!ENTITY contextmenu_paste "Colar">
+<!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
