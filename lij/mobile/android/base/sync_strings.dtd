@@ -40,9 +40,11 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Instalaçión finîa'>
-<!ENTITY sync.subtitle.success.label 'Òua i teu dæti se scàregan in segóndo ciàn. Ti peu andâ a-e Inpostaçioìn pe manezâ o teu cónto.'>
+<!ENTITY sync.subtitle.success.label1 "O descaregaménto o l'é in córso. Vànni a-e inpostaçioìn pe scistemâ o teu cónto ò àrvi &brandShortName;.">
+
 <!ENTITY sync.settings.label 'Inpostaçioìn'>
-<!ENTITY sync.subtitle.manage.label 'O teu cónto &syncBrand.fullName.label; za inpostòu. Vànni a-e inpostaçioìn pe scistemâ o teu cónto.'>
+<!ENTITY sync.subtitle.manage.label1 'O teu cónto &syncBrand.fullName.label; za inpostòu. Vànni a-e inpostaçioìn pe scistemâ o teu cónto ò àrvi &brandShortName;.'>
+
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Pe favô preuva ancón.'>
@@ -73,4 +75,7 @@
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.new.recoverykey.status.incorrect 'Scorétta a ciâve pe-o repìggio. Prêuvighe tórna.'>
+
+<!ENTITY bookmarks.folder.readinglist.label "Lìsta de letûa">
+<!ENTITY sync.pair.connectlocation.label "Pe ativâ un nêuvo aparâto seleçiónn-a “Configuraçión de &syncBrand.shortName.label;” e pöi “Adêuvia un account existénte”.">
 
