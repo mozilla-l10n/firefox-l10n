@@ -31,6 +31,10 @@
   -  the button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip        "Fechar">
 
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles pausing on exceptions. -->
+<!ENTITY debuggerUI.pauseExceptions          "Pausar com exceções">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
 <!ENTITY debuggerUI.stepOverButton.tooltip   "Passar por cima">
