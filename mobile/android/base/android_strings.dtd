@@ -67,7 +67,7 @@
 <!ENTITY pref_cookies "Cuir briosgaidean an comas">
 <!ENTITY pref_char_encoding "Còdachadh charactairean">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
 <!ENTITY pref_clear_history "Glan an eachdraidh">
 <!ENTITY pref_clear_history_confirm "Thèid an eachdraidh brabhsaidh a sguabadh às">
 <!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
