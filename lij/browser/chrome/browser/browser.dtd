@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Sciòrti da-o mòddo a tùtto schèrmo">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY domFullScreenWarning.label "Sciàcca ESC pe sciortî dò-u mòddo a tùtto schèrmo">
+<!ENTITY scriptsButton.label "Script">
 
 <!ENTITY closeWindow.label "Særa o barcón">
 <!ENTITY closeWindow.accesskey "S">
