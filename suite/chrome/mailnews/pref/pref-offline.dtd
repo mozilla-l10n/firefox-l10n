@@ -4,7 +4,7 @@
 <!ENTITY pref.network.title               "Red y almacenamiento">
 <!ENTITY pref.offline.caption             "Sin conexión">
 <!ENTITY textStartUp                      "Al iniciar:">
-<!ENTITY textStartUp.accesskey            "w">
+<!ENTITY textStartUp.accesskey            "A">
 <!ENTITY menuitemRememberPrevState        "Recordar el estado anterior de la conexión">
 <!ENTITY menuitemAskMe                    "Preguntarme el estado al iniciar">
 <!ENTITY menuitemAlwaysOnline             "Siempre iniciar conectado">
@@ -12,18 +12,18 @@
 <!ENTITY menuitemAutomatic                "Detectar automáticamente (si está disponible)">
 <!ENTITY textGoingOnline                  "¿Enviar mensajes pendientes al conectarse?">
 <!ENTITY radioAutoSend                    "Sí">
-<!ENTITY radioAutoSend.accesskey          "y">
+<!ENTITY radioAutoSend.accesskey          "S">
 <!ENTITY radioNotSend                     "No">
 <!ENTITY radioNotSend.accesskey           "N">
 <!ENTITY radioAskUnsent                   "Preguntarme">
-<!ENTITY radioAskUnsent.accesskey         "s">
+<!ENTITY radioAskUnsent.accesskey         "P">
 <!ENTITY textGoingOffline                 "Al desconectarse, ¿descargar mensajes para usar sin conexión?">
 <!ENTITY radioAutoDownload                "Sí">
-<!ENTITY radioAutoDownload.accesskey      "e">
+<!ENTITY radioAutoDownload.accesskey      "i">
 <!ENTITY radioNotDownload                 "No">
 <!ENTITY radioNotDownload.accesskey       "o">
 <!ENTITY radioAskDownload                 "Preguntarme">
-<!ENTITY radioAskDownload.accesskey       "k">
+<!ENTITY radioAskDownload.accesskey       "r">
 <!ENTITY mailConnections.caption          "Conexiones de correo">
 <!ENTITY mailnewsTimeout.label            "Tiempo de conexión excedido:">
 <!ENTITY mailnewsTimeout.accesskey        "m">
