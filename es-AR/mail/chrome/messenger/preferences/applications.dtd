@@ -27,13 +27,13 @@
 
 <!ENTITY addCloudFileAccount.label        "Agregar">
 <!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
+<!ENTITY addCloudFileAccount.description  "Agregar un nuevo servicio de almacenamiento Filelink">
 <!ENTITY removeCloudFileAccount.label     "Eliminar">
 <!ENTITY removeCloudFileAccount.accesskey "r">
-<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
+<!ENTITY authRequired.description         "Su autorización es necesaria para ver la configuración de este servicio de almacenamiento.">
 <!ENTITY authRequired.button.label        "Autorizar">
 <!ENTITY authRequired.button.accesskey    "u">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.label "Ofrecer para compartir archivos de más de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
 

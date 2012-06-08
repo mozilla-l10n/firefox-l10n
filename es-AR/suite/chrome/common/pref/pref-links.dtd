@@ -15,12 +15,12 @@
 
 <!ENTITY openWindow.label "Una nueva ventana">
 <!ENTITY newWindowGroupWindow.accesskey "n">
-<!ENTITY externalGroupWindow.accesskey "o">
+<!ENTITY externalGroupWindow.accesskey "v">
 
 <!ENTITY divertAll.label "Siempre desviar ventanas en pestañas">
 <!ENTITY divertAll.accesskey "d">
 <!ENTITY divertNoFeatures.label "No desviar ventanas personalizadas en pestañas">
 <!ENTITY divertNoFeatures.accesskey "s">
 <!ENTITY dontDivert.label "Siempre abrir nuevas ventanas">
-<!ENTITY dontDivert.accesskey "n">
+<!ENTITY dontDivert.accesskey "e">
 
