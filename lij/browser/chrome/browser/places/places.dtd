@@ -23,11 +23,6 @@
 <!ENTITY view.sortDescending.label      "Órdina Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Trêuva inti segnalìbbri…">
-<!ENTITY cmd.findInBookmarks.accesskey  "T">
-<!ENTITY cmd.findCurrent.label          "Trêuva inta coleçión corénte…">
-<!ENTITY cmd.findCurrent.accesskey      "i">
-
 <!ENTITY importBookmarksFromHTML.label     "Inpòrta Segnalibbri da HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Espòrta Segnalibbri a HTML…">
