@@ -25,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Cuenta de chat…">
 <!ENTITY newIMAccountCmd.accesskey "h">
+<!ENTITY newIMContactCmd.label "Contactos de chat…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
@@ -444,6 +446,8 @@
 <!ENTITY imStatus.unavailable "No disponible">
 <!ENTITY imStatus.offline "Sin conexión">
 <!ENTITY imStatus.showAccounts "Mostrar cuentas…">
+<!ENTITY joinChatCmd.label "Unirse al chat…">
+<!ENTITY joinChatCmd.accesskey "U">
 <!ENTITY savedFiles.label "Archivos guardados">
 <!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">

@@ -59,6 +59,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey "A">
 <!ENTITY showUpdates.label "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey "M">
+<!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
+<!ENTITY useService.accesskey "v">
 <!ENTITY showSettings.label "Configuración…">
 <!ENTITY showSettings.accesskey "C">
 <!ENTITY proxiesConfigure.label "Configurar cómo se conecta &brandShortName; a Internet">

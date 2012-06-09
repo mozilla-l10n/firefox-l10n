@@ -30,8 +30,7 @@
 <!ENTITY PlainText.label "Texto sin formato">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconocido">
-<!ENTITY ScreenName.label "Nombre en pantalla:">
-<!ENTITY ScreenName.accesskey "l">
+<!ENTITY chatName.label "Nombre en el chat:">
 <!ENTITY allowRemoteContent1.label "Permitir contenido remoto.">
 <!ENTITY allowRemoteContent1.accesskey "r">
 <!ENTITY allowRemoteContent1.tooltip "En los mensajes HTML es posible incluir contenido de orígenes remotos. Abrir tales mensajes abrirá a su vez una conexión a ese origen externo. Esto puede permitir el seguimiento de la lectura del mensaje. Marcar esta casilla permitirá este tipo de contenido en los mensajes HTML de este contacto.">
@@ -102,6 +101,24 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Notas:">
 <!ENTITY Notes.accesskey "N">
+<!ENTITY Chat.tab "Charla">
+<!ENTITY Chat.accesskey "h">
+<!ENTITY Gtalk.label "Google Talk:">
+<!ENTITY Gtalk.accesskey "G">
+<!ENTITY AIM.label "AIM:">
+<!ENTITY AIM.accesskey "A">
+<!ENTITY Yahoo.label "Yahoo!:">
+<!ENTITY Yahoo.accesskey "Y">
+<!ENTITY Skype.label "Skype:">
+<!ENTITY Skype.accesskey "S">
+<!ENTITY QQ.label "QQ:">
+<!ENTITY QQ.accesskey "Q">
+<!ENTITY MSN.label "MSN:">
+<!ENTITY MSN.accesskey "M">
+<!ENTITY ICQ.label "ICQ:">
+<!ENTITY ICQ.accesskey "I">
+<!ENTITY XMPP.label "ID de Jabber:">
+<!ENTITY XMPP.accesskey "J">
 <!ENTITY Photo.tab "Foto">
 <!ENTITY Photo.accesskey "t">
 <!ENTITY PhotoDesc.label "Elija una de las siguientes:">
