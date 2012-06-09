@@ -45,7 +45,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
   -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton    "Sair">
+<!ENTITY debuggerUI.stepOutButton.tooltip     "Sair">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
