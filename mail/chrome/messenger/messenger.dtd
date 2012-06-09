@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Carpeta…">
@@ -21,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Cuenta de chat…">
 <!ENTITY newIMAccountCmd.accesskey "h">
+<!ENTITY newIMContactCmd.label "Contactos de chat…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
@@ -440,6 +446,8 @@
 <!ENTITY imStatus.unavailable "No disponible">
 <!ENTITY imStatus.offline "Sin conexión">
 <!ENTITY imStatus.showAccounts "Mostrar cuentas…">
+<!ENTITY joinChatCmd.label "Unirse al chat…">
+<!ENTITY joinChatCmd.accesskey "U">
 <!ENTITY savedFiles.label "Archivos guardados">
 <!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">
@@ -661,7 +669,7 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Restaurar sonido">
 <!ENTITY contextUnmute.accesskey "s">
-<!ENTITY junkBarMessage1.label "Correo no deseado">
+<!ENTITY junkBarMessage2.label "&brandShortName; piensa que este mensaje es correo basura.">
 <!ENTITY junkBarButton1.label "Legítimo">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "Para proteger su privacidad, &brandShortName; ha bloqueado el contenido remoto en este mensaje.">
