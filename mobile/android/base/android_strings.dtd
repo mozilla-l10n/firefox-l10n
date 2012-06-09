@@ -87,6 +87,9 @@
 <!ENTITY contextmenu_remove_bookmark "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Aggiungi a schermata Home">
 <!ENTITY contextmenu_share "Condividi">
+<!ENTITY contextmenu_pasteandgo "Incolla e vai">
+<!ENTITY contextmenu_paste "Incolla">
+<!ENTITY contextmenu_copyurl "Copia indirizzo">
 <!ENTITY contextmenu_edit_bookmark "Modifica">
 <!ENTITY history_removed "Pagina rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
