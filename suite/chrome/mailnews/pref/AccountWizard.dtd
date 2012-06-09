@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Asistente de cuentas">
 <!ENTITY accountWizard.size "width: 42em; height: 38em;">
 <!ENTITY accountSetupInfo2.label "Para poder recibir mensajes, primero necesita configurar una cuenta.">
@@ -37,7 +41,7 @@
 <!ENTITY newsServerNameDesc.label "Introduzca el nombre de su servidor de noticias (NNTP) (por ejemplo, &quot;news.ejemplo.net&quot;).">
 <!ENTITY newsServerLabel.label "Servidor de noticias:">
 <!ENTITY newsServerLabel.accesskey "n">
-<!ENTITY outgoingTitle.label "Información del servidor saliente">
+<!ENTITY outgoingTitle.label "Información del servidor de salida">
 <!ENTITY outgoingServer.description "Introduzca el nombre de su servidor de salida (SMTP) (por ejemplo, &quot;smtp.ejemplo.net&quot;).">
 <!ENTITY outgoingServer.label "Servidor de correo de salida:">
 <!ENTITY outgoingServer.accesskey "S">
@@ -49,7 +53,7 @@
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
 <!ENTITY haveSmtp2.prefix "Su nombre de usuario saliente (SMTP) existente, &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;.">
-<!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">
+<!ENTITY haveSmtp3.prefix "Su servidor de salida (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, es idéntico a su servidor de entrada, por lo que se usará su nombre de usuario para acceder a él.">
 <!ENTITY accnameTitle.label "Nombre de la cuenta">
 <!ENTITY accnameDesc.label "Introduzca el nombre por el que desea referirse a esta cuenta (por ejemplo, &quot;Cuenta del trabajo&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticias&quot;).">
