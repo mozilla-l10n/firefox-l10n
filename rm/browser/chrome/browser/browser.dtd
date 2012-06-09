@@ -77,6 +77,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Infurmaziuns davart la pagina">
 <!ENTITY pageInfoCmd.accesskey "s">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Entrar en il modus da maletg entir">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Bandunar il modus da maletg entir">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Maletg entir">
 <!ENTITY fullScreenCmd.accesskey "M">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -90,7 +96,12 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "a">
 <!ENTITY fullScreenExit.label "Interrumper il modus da maletg entir">
 <!ENTITY fullScreenExit.accesskey "I">
-<!ENTITY domFullScreenWarning.label "Smatgar ESC per bandunar il modus da maletg entir">
+<!ENTITY fullscreenAllowButton.label "Lubir">
+<!ENTITY fullscreenExitButton.label "Refusar">
+<!ENTITY fullscreenApproval.value "Lubir il modus da maletg entir?">
+<!ENTITY fullscreenExitHint.value "Ti sas adina smatgar ESC per bandunar il modus da maletg entir.">
+<!ENTITY leaveDOMFullScreen.label "Bandunar il modus da maletg entir">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Serrar la fanestra">
 <!ENTITY closeWindow.accesskey "r">
@@ -198,6 +209,10 @@ can reach it easily. -->
 <!ENTITY inspectContextMenu.label     "Inspectar l'element">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY responsiveUI.label            "Design adaptiv">
+<!ENTITY responsiveUI.accesskey        "d">
+<!ENTITY responsiveUI.commandkey       "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -215,6 +230,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Serrar l'inspectur">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Serrar la trav d'utensils per sviluppaders">
+<!ENTITY devToolbarMenu.label               "Trav d'utensils per sviluppaders">
+<!ENTITY devToolbarMenu.accesskey           "v">
+<!ENTITY devToolbar.commandkey              "v">
+
+<!ENTITY webConsoleButton.label             "Consola web">
+<!ENTITY inspectorButton.label              "Inspectur">
+<!ENTITY scriptsButton.label                "Scripts">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar il HTML intern">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
@@ -223,6 +247,16 @@ can reach it easily. -->
 
 <!ENTITY inspectorHTMLDelete.label          "Stizzar il nuf">
 <!ENTITY inspectorHTMLDelete.accesskey      "z">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "Configuraziun da l'inspectur">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "Far pli stgir la pagina">
+<!ENTITY inspectorToggleVeil.accesskey      "t">
+<!ENTITY inspectorToggleInfobar.label       "Mussar infurmaziuns davart il nuf">
+<!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
