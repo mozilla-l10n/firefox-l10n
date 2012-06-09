@@ -40,7 +40,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.preferencesLabel "Calendario">
 <!ENTITY lightning.menupopup.new.event.label "Evento…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label "Attività…">
