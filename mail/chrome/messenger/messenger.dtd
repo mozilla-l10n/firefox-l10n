@@ -28,7 +28,7 @@
 <!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Ir per in nov conto…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "R">
-<!ENTITY newExistingEmailAccountCmd.label "In conto d'e-mail existent…">
+<!ENTITY newExistingEmailAccountCmd.label "In conto dad e-mail existent…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Conto da chat…">
 <!ENTITY newIMAccountCmd.accesskey "C">
