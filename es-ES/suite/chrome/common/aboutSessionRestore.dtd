@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY restorepage.tabtitle "Restaurar sesión">
 <!ENTITY restorepage.pagetitle "¿Le gustaría restaurar su sesión?">
 <!ENTITY restorepage.issueDesc "Su sesión anterior de &brandShortName; se cerró inesperadamente. Sentimos profundamente las molestias causadas. Puede restaurar las pestañas y ventanas de su sesión anterior, o iniciar una nueva sesión si ya no son necesarias.">

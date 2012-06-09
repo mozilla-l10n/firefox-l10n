@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Encontrar a medida que escribe">
 <!ENTITY findAsYouTypeBehavior.label "Encontrar a medida que escribe">
 <!ENTITY findAsYouTypeTip.label "Truco: para iniciar manualmente Encontrar a medida que escribe, teclee / para encontrar texto o ' para encontrar enlaces, seguido del texto que quiere encontrar.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.content.title "Contenido">
 <!ENTITY pref.content.description "Estas opciones influyen en cómo se muestra el contenido de sitios web y mensajes en &brandShortName;.">
 <!ENTITY siteIcons.label "Iconos de sitios web">
