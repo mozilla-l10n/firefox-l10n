@@ -14,7 +14,7 @@
 <!ENTITY useCurrentPage.accesskey  "B">
 <!ENTITY useMultiple.label         "Bruk opne nettsider">
 <!ENTITY chooseBookmark.label      "Bruk bokmerke …">
-<!ENTITY chooseBookmark.accesskey  "b">
+<!ENTITY chooseBookmark.accesskey  "u">
 <!ENTITY restoreDefault.label      "Bruk standard">
 <!ENTITY restoreDefault.accesskey  "s">
 

@@ -67,7 +67,7 @@
 <!ENTITY  rememberHistory2.accesskey  "H">
 
 <!ENTITY  rememberSearchForm.label       "Hugs søke- og skjemahistorikk">
-<!ENTITY  rememberSearchForm.accesskey   "s">
+<!ENTITY  rememberSearchForm.accesskey   "k">
 
 <!ENTITY  clearOnClose.label             "Slett historikk når &brandShortName; avsluttar">
 <!ENTITY  clearOnClose.accesskey         "S">

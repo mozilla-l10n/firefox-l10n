@@ -7,7 +7,7 @@
 <!ENTITY useCursorNavigation.label       "Alltid bruk piltastane for å navigere innanfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
 <!ENTITY searchStartTyping.label         "Søk etter tekst når eg byrjar å skrive">
-<!ENTITY searchStartTyping.accesskey     "S">
+<!ENTITY searchStartTyping.accesskey     "ø">
 <!ENTITY blockAutoRefresh.label          "Åtvar meg når nettsider prøver å omdirigere eller laste sida på nytt">
 <!ENTITY blockAutoRefresh.accesskey      "Å">
 
@@ -30,7 +30,7 @@
 <!ENTITY submitCrashes.label             "Send inn krasjrapportar">
 <!ENTITY submitCrashes.accesskey         "e">
 <!ENTITY submitTelemetry.label           "Send ytingsdata">
-<!ENTITY submitTelemetry.accesskey       "n">
+<!ENTITY submitTelemetry.accesskey       "S">
 
 <!ENTITY networkTab.label                "Nettverk">
 
@@ -51,7 +51,7 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Avgrens snøgglageret til">
-<!ENTITY limitCacheSizeBefore.accesskey  "A">
+<!ENTITY limitCacheSizeBefore.accesskey  "r">
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
@@ -68,7 +68,7 @@
 <!ENTITY updateCheck.label               "Sjå etter oppdateringar, men la meg velje når eg vil installere dei">
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Aldri sjå etter oppdateringar (ikkje tilrådd: tryggingsrisiko)">
-<!ENTITY updateManual.accesskey          "A">
+<!ENTITY updateManual.accesskey          "d">
 
 <!ENTITY updateAutoAddonWarn.label       "Åtvar meg dersom dette vil slå av utvidingar">
 <!ENTITY updateAutoAddonWarn.accesskey   "Å">
@@ -114,4 +114,4 @@
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "a">
 <!ENTITY viewSecurityDevices.label       "Tryggingseiningar">
-<!ENTITY viewSecurityDevices.accesskey   "r">
+<!ENTITY viewSecurityDevices.accesskey   "i">
