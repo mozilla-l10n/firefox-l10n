@@ -115,12 +115,6 @@
 <!ENTITY stopButton.tooltip "Stopp denne overføringen"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "Ingen forslag funnet">
-<!ENTITY spellCheckIgnoreWord.label "Ignorer ord">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Legg til i ordboken">
-<!ENTITY spellCheckAddToDictionary.accesskey "L">
-
 <!ENTITY openAttachment.label "Åpne">
 <!ENTITY openAttachment.accesskey "Å">
 <!ENTITY renameAttachment.label "Endre navn …">

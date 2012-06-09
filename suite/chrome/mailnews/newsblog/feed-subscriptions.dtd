@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Vis artikkeloppsummering istedenfor å laste nettsiden">
 <!ENTITY quickMode.accesskey         "V">
 
+<!ENTITY locationValidate.label      "Valider">
 <!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
 <!ENTITY button.addFeed.label        "Legg til">

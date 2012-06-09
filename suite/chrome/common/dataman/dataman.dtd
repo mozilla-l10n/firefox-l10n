@@ -97,6 +97,7 @@
 <!ENTITY perm.AskAlways "Spør alltid">
 <!ENTITY perm.NeverSave "Aldri lagre">
 <!ENTITY perm.Allow "Tillat">
+<!ENTITY perm.AllowSameDomain "Tillat for samme domene">
 <!ENTITY perm.AllowSession "Tillat for programøkten">
 <!ENTITY perm.Block "Blokker">
 
