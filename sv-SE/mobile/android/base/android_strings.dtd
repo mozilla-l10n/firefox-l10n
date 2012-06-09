@@ -109,6 +109,9 @@
 <!ENTITY contextmenu_remove_bookmark "Ta bort">
 <!ENTITY contextmenu_add_to_launcher "Lägg till på startsidan">
 <!ENTITY contextmenu_share "Dela">
+<!ENTITY contextmenu_pasteandgo "Klistra in och öppna">
+<!ENTITY contextmenu_paste "Klistra in">
+<!ENTITY contextmenu_copyurl "Kopiera adress">
 <!ENTITY contextmenu_edit_bookmark "Redigera">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
