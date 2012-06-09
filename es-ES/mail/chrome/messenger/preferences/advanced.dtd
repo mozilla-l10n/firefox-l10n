@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label "General">
 <!ENTITY itemDisplay.label "Lectura y visualización">
 <!ENTITY itemUpdate.label "Actualización">
@@ -55,6 +59,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey "A">
 <!ENTITY showUpdates.label "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey "M">
+<!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
+<!ENTITY useService.accesskey "v">
 <!ENTITY showSettings.label "Configuración…">
 <!ENTITY showSettings.accesskey "C">
 <!ENTITY proxiesConfigure.label "Configurar cómo se conecta &brandShortName; a Internet">

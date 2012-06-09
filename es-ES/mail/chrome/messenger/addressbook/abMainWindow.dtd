@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Libreta de direcciones">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "a">
@@ -137,8 +141,8 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Correo electrónico">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Nombre en pantalla">
-<!ENTITY ScreenName.accesskey "p">
+<!ENTITY ChatName.label "Nombre en el chat">
+<!ENTITY ChatName.accesskey "c">
 <!ENTITY Company.label "Organización">
 <!ENTITY Company.accesskey "z">
 <!ENTITY NickName.label "Apodo">
@@ -168,6 +172,7 @@
 <!ENTITY contact.heading "Contacto">
 <!ENTITY home.heading "Inicio">
 <!ENTITY other.heading "Otro">
+<!ENTITY chat.heading "Charlar">
 <!ENTITY phone.heading "Teléfono">
 <!ENTITY work.heading "Trabajo">
 <!ENTITY description.heading "Descripción">
