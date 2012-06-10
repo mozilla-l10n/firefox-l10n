@@ -30,3 +30,7 @@
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
+
+<!ENTITY  buttonForward.tooltip   "Do przódkù jedną stronã">
+<!ENTITY  buttonBack.tooltip      "Nazôd jedną stronã">
+

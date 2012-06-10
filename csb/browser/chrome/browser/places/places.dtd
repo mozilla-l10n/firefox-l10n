@@ -23,11 +23,6 @@
 <!ENTITY view.sortDescending.label      "Czerënk zortowaniô: Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Nalezë w załóżkach…">
-<!ENTITY cmd.findInBookmarks.accesskey  "z">
-<!ENTITY cmd.findCurrent.label          "Nalezë w aktualny kòlekcji…">
-<!ENTITY cmd.findCurrent.accesskey      "k">
-
 <!ENTITY importBookmarksFromHTML.label     "Jimpòrtëjë załóżczi z HMTL…">
 <!ENTITY importBookmarksFromHTML.accesskey "J">
 <!ENTITY exportBookmarksToHTML.label       "Ekspòrtëje załóżczi HTML…">

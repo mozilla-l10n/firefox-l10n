@@ -21,3 +21,6 @@
 
 <!ENTITY showTabsInTaskbar.label          "Pòkażë pòdzdrzatk kôrtów w lëstwie zadaniów Windowsa">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
+
+<!ENTITY restoreTabsOnDemand.label        "Nie ladëje nieaktiwnëch kôrtów">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">

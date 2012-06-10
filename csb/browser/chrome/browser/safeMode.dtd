@@ -49,28 +49,16 @@
 -->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; -awariowi trib">
-<!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; robi terô w awariowim tribie; nastôwë, mòtiwë ë Rozszerzenia brëkòwnika są terëczasno wëłączoné.">
-<!ENTITY safeModeDescription2.label   "Wszëtczé abò niejedné z ùniższich zmianów mòże wprowôdzëc na wiedno:">
+<!ENTITY startSafeMode.label          "Zrëszi w awariowim tribie">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY disableAddons.label          "Wëłączë wszëtczé przëdôwczi">
-<!ENTITY disableAddons.accesskey      "W">
 
-<!ENTITY resetToolbars.label          "Doprowadzë nazôd domëslné lëstwë nôrzãdłów ë knąpë">
-<!ENTITY resetToolbars.accesskey      "D">
+<!ENTITY resetProfile.label           "Doprowadzë nazôd program &brandShortName;">
+<!ENTITY resetProfileFooter.label     "Reszta òstanie doprowadzonô nazôd do domëszknëch ùstawów.">
 
-<!ENTITY deleteBookmarks.label        "Rëmôj wszëtczé załóżczi le òstawi ne do dodôwny kòpii">
-<!ENTITY deleteBookmarks.accesskey    "R">
+<!ENTITY resetProfileInstead.label    "Doprowadzë program &brandShortName; nazôd, bë ùstawic gò jesz rôz.">
 
-<!ENTITY resetUserPrefs.label         "Przełączë wszëtczé nastôwë programù &brandShortName; na domëslné wôrtnotë">
-<!ENTITY resetUserPrefs.accesskey     "e">
 
-<!ENTITY restoreSearch.label          "Doprowadzë nazôd domëslny zestôwk szëkôczów">
-<!ENTITY restoreSearch.accesskey      "d">
-
-<!ENTITY changeAndRestartButton.label "Zrobi zmianë ë zrëszë znowa">
-<!ENTITY continueButton.label         "Robi dali w awariowim tribie">
-
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; sã niespòdzajno wëłączył prze zreszanim">
-<!ENTITY autoSafeModeDescription.label "Baro przeprôszômë za skweres. &brandShortName; mùszôł weńc w trib awariowi, w chtërnym timczasowò sã wëłączoné ùstôwë, mòtiwë, ë rozszerzenia.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; sã wëłącził przë zreszanim. Zawinic mógł dodôwk, abò jesz co jinszégò. Mòżesz doprowadzëc &brandShortName; nazôd do domëszlnëch ùstawów, abò szëkac przëczëny w awariowim tribie.">
+<!ENTITY safeModeInstead.label          "Żlë nie chcesz, mòżesz dali ùżëwac program w awariowim tribie, żebë nalezc problemë przë wëłączenëch dodôwkach ë dopasowanëch ùstawach.">

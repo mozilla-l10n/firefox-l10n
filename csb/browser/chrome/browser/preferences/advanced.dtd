@@ -108,7 +108,7 @@
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certifikatë">
 <!ENTITY certSelection.description       "Jeżlë serwer żądô swòjegò certifikatu brëkòwnika:">
-<!ENTITY certs.auto                      "wëbierzë certifikat automatno">
+<!ENTITY certs.auto                      "Wëbierzë certifikat automatno">
 <!ENTITY certs.auto.accesskey            "c">
 <!ENTITY certs.ask                       "pëtôj wiedno">
 <!ENTITY certs.ask.accesskey             "t">
@@ -120,3 +120,7 @@
 <!ENTITY verify2.accesskey               "j">
 <!ENTITY viewSecurityDevices.label       "Ùrzãdzenia bezpiekù">
 <!ENTITY viewSecurityDevices.accesskey   "d">
+
+<!ENTITY isDefault.label                 "&brandShortName; je Twòjim domëszlnym przezérnikã">
+<!ENTITY setDefault.label                "Zaznaczë &brandShortName; jakno domëszlny przezérnik">
+<!ENTITY setDefault.accesskey            "d">

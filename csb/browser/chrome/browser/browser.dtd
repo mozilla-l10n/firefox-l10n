@@ -106,7 +106,6 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "Z">
 <!ENTITY fullScreenExit.label "Wińdzenié z fùlekranowégò tribù">
 <!ENTITY fullScreenExit.accesskey "ń">
-<!ENTITY domFullScreenWarning.label "Wcësni ESC, bë wińsc z fùlekranowégò tribù">
 
 <!ENTITY closeWindow.label "Zamkni òkno">
 <!ENTITY closeWindow.accesskey "m">
@@ -609,3 +608,36 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY markupButton.arialabel          "Znakòwnik">
 <!ENTITY markupButton.accesskey          "n">
+
+<!ENTITY devToolbarMenu.label              "Lëstew dewelopera">
+<!ENTITY devToolbarMenu.accesskey          "L">
+<!ENTITY devToolbarCloseButton.tooltiptext "Zamkni lëstew dewelopera">
+<!ENTITY devToolbar.commandkey             "d">
+
+
+<!ENTITY enterFullScreenCmd.label "Zrëszi fùlekranowi trib">
+<!ENTITY enterFullScreenCmd.accesskey "f">
+<!ENTITY exitFullScreenCmd.label "Wińdzë z fùlekranowégò tribù">
+<!ENTITY exitFullScreenCmd.accesskey "f">
+<!ENTITY fullscreenAllowButton.label "Zezwòlë">
+<!ENTITY fullscreenApproval.value "Zezwòlë na fùlekranowi trib?">
+<!ENTITY fullscreenExitButton.label "Niezezwòlë">
+<!ENTITY fullscreenExitHint.value "Wcësni ESC bë wińdz z fùlekranowégò tribù.">
+
+<!ENTITY inspectOptionButton.tooltiptext    "Òptacje jinspektora">
+<!ENTITY inspectorButton.label "Jinspector">
+
+
+<!ENTITY inspectorToggleVeil.label          "Scemni stronã">
+<!ENTITY inspectorToggleVeil.accesskey      "m">
+<!ENTITY inspectorToggleInfobar.label       "Wëkrzëni jinfòrmacje ò wãzle">
+<!ENTITY inspectorToggleInfobar.accesskey   "W">
+<!ENTITY leaveDOMFullScreen.label "Wińdzë z fùlekranowégò tribù">
+<!ENTITY leaveDOMFullScreen.accesskey "e">
+
+<!ENTITY responsiveUI.label            "Wrażlëwi trib">
+<!ENTITY responsiveUI.accesskey        "i">
+<!ENTITY responsiveUI.commandkey       "i">
+
+<!ENTITY webConsoleButton.label "Kònsola WWW">
+<!ENTITY scriptsButton.label "Skriptë>

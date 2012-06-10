@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label     "wëskrzëni domôcą stronã">
 <!ENTITY startupBlankPage.label    "wëskrzeni pùstą stronã">
 <!ENTITY startupLastSession.label  "wëskrzëni òkna ë kôrtë pòprzédny sesji">
-<!ENTITY restoreOnDemand.label     "Nie zrëszôj kôrtów jasz bãdą brëkòwóné">
-<!ENTITY restoreOnDemand.accesskey "N">
 
 <!ENTITY homepage.label            "Domôcô strona:">
 <!ENTITY homepage.accesskey        "D">

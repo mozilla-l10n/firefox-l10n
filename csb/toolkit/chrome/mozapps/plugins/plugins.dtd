@@ -28,7 +28,8 @@
 
 <!ENTITY missingPlugin                                       "Felëje wtëkôcza do wëskrzënieniô zamkłoscë.">
 <!ENTITY tapToPlayPlugin                                     "Klepni tuwò, bë zrëszëc wtëkôcza.">
-<!ENTITY clickToPlayPlugins                                  "Klëkni tuwò, bë zrëszëc wtëkôcze.">
+<!ENTITY clickToPlayPlugin 									 "Klëkni tuwò, bë zrëszëc wtëkôcza">
+
 <!ENTITY disabledPlugin                                      "Wtëkôcz je wëłączony.">
 <!ENTITY blockedPlugin.label                                 "Wtëkôcz zablowkòwóny dlô twòjégò bezpiekù.">
 

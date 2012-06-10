@@ -73,7 +73,7 @@ ju wicy automatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl�
 <!ENTITY unknownSocketType.longDesc "<p>strona òdpòwiedza na niespòdzajny  ôrt ë przezérnik ni mòże jic dali.</p>">
 
 <!ENTITY nssFailure2.title "Felënk bezpiecznégò sparłãczeniô">
-<!ENTITY nssFailure2.longDesc "<p>Niżódnô strona ni mòże bëc wëskrzënionô, temù że nie dało sã pòtwierdzëc prôwdzëwòtë dobëtëch pòdôwków.</p><ul><li>Nót je sparłãczëc sã z miéwcą stronë ë dac mù wiedzã ò problemie.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Strona ni mòże bëc wëskrzënionô, temù że nie dało sã pòtwierdzëc prôwdzëwòtë dobëtëch pòdôwków.</p><ul><li>Nót je sparłãczëc sã z miéwcą stronë ë dac mù wiedzã ò problemie.</li></ul>">
 
 <!ENTITY nssBadCert.title "Felënk bezpiecznégò sparłãczeniô">
 <!ENTITY nssBadCert.longDesc2 "<ul>
