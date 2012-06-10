@@ -23,15 +23,15 @@
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions "Pozastavit při výjimce">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
-  -  button that steps over a function call. -->
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
+  -  the button that steps over a function call. -->
 <!ENTITY debuggerUI.stepOverButton.tooltip "Krokuje přes">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
   -  button that steps into a function call. -->
 <!ENTITY debuggerUI.stepInButton.tooltip "Krokuje do">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
   -  button that steps out of a function call. -->
 <!ENTITY debuggerUI.stepOutButton.tooltip "Krokuje z">
 
@@ -48,3 +48,7 @@
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
 <!ENTITY debuggerUI.propertiesTitle "Kontext proměnné">
+
+<!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
+  - there are no scripts. -->
+<!ENTITY debuggerUI.emptyScriptText "Žádné skripty">
