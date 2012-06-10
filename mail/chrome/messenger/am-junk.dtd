@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Innstillinger for uønsket e-post">
-<!ENTITY trainingWarning.label "Dersom denne funksjonen er påslått må du først trene opp &brandShortName; til å oppdage uønsket e-post (f.eks. reklame som du ikke har bedt om) ved å bruke verktøylinjen for å markere meldinger som er uønskede. Du må indikere både meldinger du ønsker og ikke ønsker å motta.">
+<!ENTITY trainingDescription.label "Hvis påslått, må du først trene opp &brandShortName; til å oppdage uønsket e-post ved å bruke Uønsket-knappen for å merke meldinger som uønsket eller ikke. Du må indikere både meldinger du ønsker og ikke ønsker å motta. Etter dette vil &brandShortName; være i stand til å merke uønsket post automatisk.">
 <!ENTITY level.label "Tillat adaptivt filter for uønsket e-post på denne kontoen">
 <!ENTITY level.accesskey "T">
 
@@ -16,5 +20,9 @@
 <!ENTITY whitelist.label "Ikke marker e-post som uønsket dersom avsender er i: ">
 <!ENTITY whitelist.accesskey "I">
 
+<!ENTITY ispHeadersWarning.label "Hvis påslått vil &brandShortName; automatisk vurdere meldinger som er merket med denne eksterne klassifikasjonen som uønsket.">
 <!ENTITY ispHeaders.label "Stol på uønsket-meldingshoder fra: ">
 <!ENTITY ispHeaders.accesskey "S">
+
+<!ENTITY junkClassification.label "Utvalg">
+<!ENTITY junkActions.label "Mål og lagring">

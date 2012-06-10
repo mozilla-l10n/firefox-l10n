@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Innstillinger for utgående SMTP-tjener">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Bare en utgående SMTP-tjener trengs å være angitt, selv om du har flere e-postkontoer. Skriv inn navnet på tjeneren du vil bruke for utgående meldinger.">
+<!ENTITY smtpDescription.label "Når du behandler identitetene dine kan du bruke en tjener fra denne listen ved å velge den som Utgående Tjener (SMTP), eller du kan bruke standard tjener fra denne listen ved å velge «Bruk standard tjener».">
 
 <!ENTITY smtpListAdd.label  "Legg til …">
 <!ENTITY smtpListAdd.accesskey  "L">
