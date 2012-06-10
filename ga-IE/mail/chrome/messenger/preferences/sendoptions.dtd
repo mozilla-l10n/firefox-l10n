@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Roghanna Seolta">
 <!ENTITY sendMail.title "Formáid Téacs">
 <!ENTITY sendMaildesc.label "Agus teachtaireachtaí á seoladh i bhformáid HTML, má tá faighteoirí nach féidir leo glacadh le HTML:">

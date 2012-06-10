@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Críochnaithe">
-<!ENTITY sync.subtitle.success.label "Tá do chuid sonraí á n-íosluchtú sa chúlra. Féach ar na Socruithe chun do chuntas a bhainistiú.">
+<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
 <!ENTITY sync.settings.label "Socruithe">
-<!ENTITY sync.subtitle.manage.label "Tá cuntas &syncBrand.fullName.label; socraithe agat cheana. Féach ar na Socruithe chun do chuntas a bhainistiú.">
+<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Bain triail as arís.">
+<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Roghanna">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Leabharmharcanna Gan Sórtáil">
 <!ENTITY bookmarks.folder.desktop.label "Leabharmharcanna Deisce">
 <!ENTITY bookmarks.folder.mobile.label "Leabharmharcanna Soghluaiste">
+<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ní thacaítear ach aon chuntas &syncBrand.fullName.label; amháin.">

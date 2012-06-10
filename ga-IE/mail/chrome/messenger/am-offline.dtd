@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Ar mhaithe le spás diosca a spáráil, ná híosluchtaigh:">
 <!ENTITY doNotDownloadNntp.label "Ar mhaithe spás diosca a spáráil, ná híosluchtaigh le haghaidh úsáide as líne:">
 <!ENTITY doNotDownloadImap.label "Le spás diosca a choigilt, is féidir íosluchtú teachtaireachtaí ón bhfreastalaí agus coimeád de chóipeanna logánta le haghaidh úsáide as líne a shrianadh de réir aoise nó de réir méide.">

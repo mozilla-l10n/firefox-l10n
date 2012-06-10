@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label "Síntiúis Fhotha">
 <!ENTITY subscriptionDesc.label "Nóta: ní chuirfidh baint nó athrú fillteáin fhotha isteach ar altanna atá íosluchtaithe cheana féin.">
 
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "Easpórtáil">
 <!ENTITY button.exportOPML.accesskey "s">
+<!ENTITY button.exportOPML.tooltip "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
 <!ENTITY cmd.close.commandKey "w">

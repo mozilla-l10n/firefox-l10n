@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Help Menu -->
+
 <!ENTITY helpMenu.label "Cabhair">
 <!ENTITY helpMenu.accesskey "h">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -13,8 +17,6 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Is Geal Gach Nua">
 <!ENTITY whatsNewCmd.accesskey "G">
-<!ENTITY featureConfiguratorCmd.label "Cúntóir Ascnaimh">
-<!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Ábhar Cabhrach">
 <!ENTITY openHelp.accesskey "h">
 <!ENTITY openHelp.commandkey "VK_F1">
