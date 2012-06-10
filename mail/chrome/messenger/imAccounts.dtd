@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountsWindow.title "Stádas teachtaireachtaí meandaracha">
-<!ENTITY accountsWindow.style "width: 28em; height: 19em;">
+<!ENTITY accountsWindow2.style "width: 45em; height: 30em;">
 <!ENTITY accountManager.newAccount.label "Cuntas Nua">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label "Dún">

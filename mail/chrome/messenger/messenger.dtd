@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "a">
 <!ENTITY newIMAccountCmd.label "Cuntas Comhrá…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Teagmháil Chomhrá…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Oscail Teachtaireacht Shábháilte…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Iatáin">
@@ -480,6 +486,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable "Níl ar fáil">
 <!ENTITY imStatus.offline "As Líne">
 <!ENTITY imStatus.showAccounts "Taispeáin Cuntais…">
+<!ENTITY joinChatCmd.label "Glac Páirt i gComhrá…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Comhaid Shábháilte">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -775,7 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage1.label "Dramhphost">
+<!ENTITY junkBarMessage2.label "Síleann &brandShortName; gur dramhphost í an teachtaireacht seo.">
 <!ENTITY junkBarButton1.label "Post Ceart">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->

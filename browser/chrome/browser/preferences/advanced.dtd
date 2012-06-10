@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label "Ginearálta">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an brabhsálaí réamhshocraithe">
 <!ENTITY alwaysCheckDefault.accesskey "g">
-<!ENTITY checkNow.label "Seiceáil Anois">
-<!ENTITY checkNow.accesskey "n">
+<!ENTITY setDefault.label "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey "d">
+<!ENTITY isDefault.label "&brandShortName; is currently your default browser">
 <!ENTITY submitCrashes.label "Seol tuairiscí ar thuairteáil">
 <!ENTITY submitCrashes.accesskey "S">
 <!ENTITY submitTelemetry.label "Seol sonraí a bhaineann le luas">

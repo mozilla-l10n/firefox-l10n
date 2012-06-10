@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label "Tosú">
 
 <!ENTITY startupPage.label "Agus &brandShortName; á thosú:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label "Taispeáin mo leathanach baile">
 <!ENTITY startupBlankPage.label "Taispeáin leathanach folamh">
 <!ENTITY startupLastSession.label "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
-<!ENTITY restoreOnDemand.label "Ná luchtaigh cluaisíní go dtí go mbeidh siad roghnaithe">
-<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label "Leathanach Baile:">
 <!ENTITY homepage.accesskey "B">

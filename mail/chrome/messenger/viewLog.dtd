@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY viewLog.title "Loga na Scagairí">
 <!ENTITY viewLogInfo.text "Soláthraíonn Loga na Scagairí fianaise faoi na scagairí a ritheadh don chuntas seo.Úsáid an ticbhosca thíos chun logáil a chumasú.">
 <!ENTITY clearLog.label "Glan an Loga">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Fáilte go &brandShortName;">
 <!ENTITY header2.label "An bhfuil fonn ort seoladh nua ríomhphoist a fháil?">
 <!ENTITY other.languages "Nílimid ag taispeáint ach na soláthraithe a chuireann seoltaí ríomhphoist ar fáil i do cheantar. Cliceáil anseo chun gach uile sholáthraí a thaispeáint.">
