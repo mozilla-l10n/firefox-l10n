@@ -1,4 +1,4 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the Script Debugger strings -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Debugger strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
 
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
@@ -9,7 +9,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label "Debugger skriptů">
+<!ENTITY debuggerMenu.label2          "Debugger">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
