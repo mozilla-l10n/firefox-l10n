@@ -82,3 +82,12 @@
 <!ENTITY sync.invalidserver.label 'Ange en giltig server-URL'>
 <!ENTITY sync.verifying.label 'Verifierar…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Fel återställningsnyckel. Försök igen.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Skicka flik till enheter'>
+<!ENTITY sync.button.send.label 'Skicka'>
+<!ENTITY sync.button.setup.label 'Ställ in Sync'>
+<!ENTITY sync.button.continue.browsing.label 'Fortsätt surfa'>
+<!ENTITY sync.title.redirect.to.setup.label 'Låt Sync skicka flikar'>
+<!ENTITY sync.text.redirect.to.setup.label 'Ställ in Firefox Sync på din enhet så flikar skickas till andra enheter.'>
+<!ENTITY sync.text.tab.sent.label 'Fliken skickades!'>
