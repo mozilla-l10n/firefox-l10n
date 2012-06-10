@@ -54,3 +54,10 @@
 <!ENTITY sync.invalidserver.label "Inserire un indirizzo valido per il server">
 <!ENTITY sync.verifying.label "Verifica in corso…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Chiave di ripristino errata, riprovare.">
+<!ENTITY sync.title.send.tab.label "Invia scheda a dispositivi">
+<!ENTITY sync.button.send.label "Invia">
+<!ENTITY sync.button.setup.label "Configura Sync">
+<!ENTITY sync.button.continue.browsing.label "Continua la navigazione">
+<!ENTITY sync.title.redirect.to.setup.label "Configura Sync per inviare le schede">
+<!ENTITY sync.text.redirect.to.setup.label "Configura Sync su questo dispositivo per inviare le schede ad altri dispositivi.">
+<!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
