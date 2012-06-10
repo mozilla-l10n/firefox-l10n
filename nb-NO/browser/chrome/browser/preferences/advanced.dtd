@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Generelt">
@@ -25,8 +29,9 @@
 <!ENTITY systemDefaults.label            "Systemforvalg">
 <!ENTITY alwaysCheckDefault.label        "Alltid kontroller om &brandShortName; er standard nettleser ved oppstart"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "d">
-<!ENTITY checkNow.label                  "Sjekk nå">
-<!ENTITY checkNow.accesskey              "n">
+<!ENTITY setDefault.label                "Bruk &brandShortName; som standard nettleser">
+<!ENTITY setDefault.accesskey            "B">
+<!ENTITY isDefault.label                 "&brandShortName; er satt som standard nettleser">
 <!ENTITY submitCrashes.label             "Send inn krasjrapporter">
 <!ENTITY submitCrashes.accesskey         "e">
 <!ENTITY submitTelemetry.label           "Send ytelsesdata">
