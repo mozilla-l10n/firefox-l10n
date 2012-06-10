@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filterregler">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Filternavn:">
@@ -40,3 +44,6 @@
 <!ENTITY ignoreSubthread.label "Ignorer undertråd">
 <!ENTITY watchThread.label "Følg tråd">
 <!ENTITY stopExecution.label "Stopp filtrering">
+
+<!ENTITY addAction.tooltip "Legg til en ny handling">
+<!ENTITY removeAction.tooltip "Fjern denne handlingen">
