@@ -197,6 +197,7 @@ can reach it easily. -->
 
 <!ENTITY inspectContextMenu.label "Prozkoumat prvek">
 <!ENTITY inspectContextMenu.accesskey "P">
+
 <!ENTITY responsiveUI.label "Responsivní režim">
 <!ENTITY responsiveUI.accesskey "R">
 <!ENTITY responsiveUI.commandkey "M">
@@ -217,6 +218,15 @@ can reach it easily. -->
 <!ENTITY scratchpad.keytext "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Zavře průzkumníka">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Zavře lištu vývoje">
+<!ENTITY devToolbarMenu.label "Lišta vývoje">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY webConsoleButton.label "Webová konzola">
+<!ENTITY inspectorButton.label "Průzkumník">
+<!ENTITY scriptsButton.label "Skripty">
 
 <!ENTITY inspectorHTMLCopyInner.label "Kopírovat vnitřní HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "p">
