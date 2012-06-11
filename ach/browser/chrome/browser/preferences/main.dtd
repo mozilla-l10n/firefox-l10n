@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Kacako">
 
 <!ENTITY startupPage.label         "Ka &brandShortName; Ocake:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Nyut pot buk me acaki mera">
 <!ENTITY startupBlankPage.label    "Nyut pot buk ma tye nono">
 <!ENTITY startupLastSession.label  "Nyut dirija mera ki tab cako iyi mukato">
-<!ENTITY restoreOnDemand.label     "Pe iket tab wa ka iyero">
-<!ENTITY restoreOnDemand.accesskey "i">
 
 <!ENTITY homepage.label            "Pot buk magang:">
 <!ENTITY homepage.accesskey        "m">

@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
 <!ENTITY places.library.title  "Ot gwoko buk">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -22,11 +26,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A cik me yero">
 <!ENTITY view.sortDescending.accesskey  "Z">
-
-<!ENTITY cmd.findInBookmarks.label      "Nong i yi alama me buk...">
-<!ENTITY cmd.findInBookmarks.accesskey  "N">
-<!ENTITY cmd.findCurrent.label          "Nong iyi yera ma kombedi…">
-<!ENTITY cmd.findCurrent.accesskey      "o">
 
 <!ENTITY importBookmarksFromHTML.label     "Kel alama me pot buk ki woko i HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "K">
@@ -132,5 +131,5 @@
 <!ENTITY byMostVisited.accesskey  "M">
 <!ENTITY byLastVisited.label      "Ki En ma kilimo me agiki">
 <!ENTITY byLastVisited.accesskey  "E">
-<!ENTITY byDayAndSite.label       "Ki Nino dwe ki di bar">
+<!ENTITY byDayAndSite.label       "Ki Nino dwe ki dyer bar">
 <!ENTITY byDayAndSite.accesskey   "n">

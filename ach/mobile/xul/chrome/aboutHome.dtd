@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Cak</span>">
 <!ENTITY aboutHome.recentTabs                   "Lanyik megi ki kare mukato angec">
 <!ENTITY aboutHome.remoteTabs                   "Lanyik ki i kompiuta megi mapat">
@@ -6,7 +10,7 @@
 <!ENTITY aboutHome.getHelp                      "Nong Kony">
 <!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Yab Weng i Tab">
-<!ENTITY aboutHome.noTabs                       "Tab onongo pe i kare mukato angec">
+<!ENTITY aboutHome.noTabs                       "Dirica matidi onongo pe i kare mukato angec">
 <!ENTITY aboutHome.noAddons                     "med-iwiye pe kimoko">
 <!ENTITY aboutHome.getLocale                    "Lok Leb">
 <!ENTITY aboutHome.getInBeforeBeta              "Dony ie mapwod Beta oo.">

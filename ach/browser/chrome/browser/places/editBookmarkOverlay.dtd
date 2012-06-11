@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY editBookmarkOverlay.name.label                      "Nying:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Kabedo:">
@@ -17,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Lok mapire tek:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "L">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Nyut lanyut weng">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Pang pot alama me pot buk man i bar me teng">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Pang pot alama me pot buk man i bar me twoke">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "n">
 <!ENTITY editBookmarkOverlay.choose.label                    "Yer…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Boc manyen">

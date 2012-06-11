@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mito ni ki cak nitit pi gin arwaka me tic.">
 
 <!ENTITY missingPlugin                                       "Gin arwaka mite me yaro gin manonge iye kamaleng.">
-<!ENTITY clickToPlayPlugin                                   "Gwet kany me mino gin arwaka cak tic.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Gwet kany me mino gin arwaka cak tic.">
+<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
 <!ENTITY disabledPlugin                                      "Gin arwaka ma eni ni kikwanyo woko.">
 <!ENTITY blockedPlugin.label                                 "Gin arwaka ma eni ni ki gengo woko pi konyi gwoko.">
 

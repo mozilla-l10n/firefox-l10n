@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Kacel">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Jwii nen pi &brandShortName; bedo i kite ne iyi acaki">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "Nen Kombedi">
-<!ENTITY checkNow.accesskey              "K">
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
 <!ENTITY submitCrashes.label             "Cwal ngec me poto atura">
 <!ENTITY submitCrashes.accesskey         "C">
 <!ENTITY submitTelemetry.label           "Cwal tic me jami">

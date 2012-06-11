@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY migrationWizard.title          "Kel Wizad ki woko">
 
@@ -15,8 +19,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFromHTMLFile.label       "Oa ki HTML Pwail">
-<!ENTITY importFromHTMLFile.accesskey   "O">
 
 <!ENTITY noMigrationSources.label       "Pe tye purugram mo matye ki alama buk, mukato onyo mung ma kiromo nongo.">
 

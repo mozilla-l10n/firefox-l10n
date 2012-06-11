@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
+
 <!ENTITY setupButton.label          "Yub &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "Y">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; mii inongo lok mukato, jami ma gigwoko, I cwil me donyo mapol kede tab ma oyabe weng iyi jami tic weng.">
@@ -17,7 +21,7 @@
 <!ENTITY myRecoveryKey.label          "Lagony mega me Nongo">
 <!ENTITY resetSync2.label             "Nwo tero kit me yubo lawang acel…">
 
-<!ENTITY pairDevice.label             "Ket Jami me tic aryo mapat kacel">
+<!ENTITY pairDevice.label             "Ket Jami me tic aryo aryo">
 
 <!ENTITY syncMy.label               "Yubo jami Para wang acel">
 <!ENTITY engine.bookmarks.label     "Alama me buk mapol">

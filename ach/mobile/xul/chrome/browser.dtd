@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.emptytext      "Ket Yeny onyo Kanonge">
 
 <!ENTITY back.label            "Cen">
@@ -88,7 +92,7 @@
 <!ENTITY consoleCodeEval.label     "Coc:">
 <!ENTITY consoleClear.label        "Ywe">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Ka ma Fail oaa ie:">
+<!ENTITY consoleErrFile.label      "Ka ma Pwail oaa ie:">
 <!ENTITY consoleErrLine.label      "Rek:">
 <!ENTITY consoleErrColumn.label    "Rek atir:">
 
@@ -102,7 +106,7 @@
 <!ENTITY contextShareImage.label      "Nywak Cal">
 <!ENTITY contextBookmarkLink.label    "Ket alama me Kakube">
 <!ENTITY contextSaveVideo.label       "Gwok Video">
-<!ENTITY contextShareVideo.label      "Nywlak Video">
+<!ENTITY contextShareVideo.label      "Nywak Video">
 <!ENTITY contextPlayMedia.label       "Tuki">
 <!ENTITY contextPauseMedia.label      "Cung manok">
 <!ENTITY contextFullScreen.label      "Wang Komputa Weng">
@@ -114,7 +118,7 @@
 <!ENTITY pageactions.share.page      "Nywak Pot Buk">
 <!ENTITY pageactions.password.forget "Mi wi wil woko ki I cwil me donyo">
 <!ENTITY pageactions.quit            "Wek woko">
-<!ENTITY pageactions.reset           "Ywe koba me di bar">
+<!ENTITY pageactions.reset           "Ywe koba me dyer bar">
 <!ENTITY pageactions.findInPage      "Nwong I Pot Buk">
 <!ENTITY pageactions.search.addNew   "Med Keno me Yeny">
 <!ENTITY pageactions.charEncoding    "Kit Ma Kicoyo Kwede">

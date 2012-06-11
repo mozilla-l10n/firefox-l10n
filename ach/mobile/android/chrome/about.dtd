@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Makwako &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; kitwero temo ento nyo pe cung matek.">
+<!ENTITY aboutPage.telemetryStart               " en cwalo pire kene ngec ikom kit ma tiyo kwede, nyonyo, tice ki keto jami pa dano cen bot ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " pi konyo miyo &brandShortName; bedo maber.">
 <!ENTITY aboutPage.checkForUpdates.link         "Rot pi Ngec»">
 <!ENTITY aboutPage.checkForUpdates.checking     "Tye ka yenyo pi ngec…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ngec pe nonge">
