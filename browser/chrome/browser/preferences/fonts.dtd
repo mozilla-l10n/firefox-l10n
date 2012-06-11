@@ -8,7 +8,7 @@
 
 <!ENTITY  size.label                              "Dimensción:">
 <!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "s">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "In proporçión:">
 <!ENTITY  proportional.accesskey                  "p">
@@ -66,5 +66,5 @@
 
 <!ENTITY languages.customize.Charset.grouplabel         "Codifica do caràtere">
 <!ENTITY languages.customize.DefaultCharset.label       "Codìfica do caràtere predefinîa:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "d">
 
