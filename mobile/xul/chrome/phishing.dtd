@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "Կասկածյալ Վեբ Կեղծիք">
 
 <!ENTITY safeb.palm.message.p1 "Տեղեկություն կա այն մասին, որ այս էջը հանդիսանում է խարդախ կայքի էջ, մշակված նրա համար, որպեսզի խաբեությամբ կիրառողներից գողանա անձնական կամ ֆինանսական բնույթի տեղեկատվություն: Ցանկացած անձնական տեղեկատվության մուտքագրում այս էջ, կարող է բերել նրա հափշտակման կամ խարդախ նպատակներով վերջինիս կիրառման:">
