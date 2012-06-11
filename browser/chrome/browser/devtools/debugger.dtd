@@ -39,7 +39,7 @@
   -  button that steps into a function call. -->
 <!ENTITY debuggerUI.stepInButton.tooltip     "Entrar">
 
-!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
  -  button that steps out of a function call. -->
 <!ENTITY debuggerUI.stepOutButton.tooltip    "Sortir">
 
