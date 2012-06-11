@@ -1,4 +1,8 @@
-<!ENTITY addressbookWindow.title "Carnet d'adresses">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressbookWindow.title                        "Carnet d'adresses">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fichier">
@@ -10,12 +14,12 @@
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Liste de diffusion…">
 
-<!ENTITY newListCmd.accesskey				"l">
+<!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Carnet d'adresses…">
-<!ENTITY newAddressBookCmd.accesskey			"c">
+<!ENTITY newAddressBookCmd.accesskey                    "c">
 <!ENTITY newLDAPDirectoryCmd.label                      "Annuaire LDAP…">
 
-<!ENTITY newLDAPDirectoryCmd.accesskey			"A">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "A">
 <!ENTITY newMessageCmd.label                            "Message">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
@@ -34,8 +38,8 @@
 <!ENTITY printContactCmd.label                          "Imprimer la fiche…">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label				"Imprimer le carnet d'adresses…">
-<!ENTITY printAddressBook.accesskey			"A">
+<!ENTITY printAddressBook.label                         "Imprimer le carnet d'adresses…">
+<!ENTITY printAddressBook.accesskey                     "A">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Édition">
@@ -57,7 +61,7 @@
 <!ENTITY pasteCmd.accesskey                             "o">
 <!ENTITY deleteCmd.label                                "Supprimer">
 <!ENTITY deleteCmd.accesskey                            "p">
-<!ENTITY deleteAbCmd.label				"Supprimer le carnet d'adresses">
+<!ENTITY deleteAbCmd.label                              "Supprimer le carnet d'adresses">
 <!ENTITY deleteContactCmd.label                         "Supprimer le contact">
 <!ENTITY deleteContactsCmd.label                        "Supprimer les contacts">
 <!ENTITY deleteListCmd.label                            "Supprimer la liste">
@@ -72,10 +76,10 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                        "Modifier…">
+<!ENTITY propertiesCmd.label                            "Modifier…">
 
-<!ENTITY propertiesCmd.accesskey                    "i">
-<!ENTITY propertiesCmd.key                          "i">
+<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Affichage">
@@ -117,9 +121,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Rechercher dans les adresses…">
 <!ENTITY searchAddressesCmd.accesskey                   "h">
-<!ENTITY importCmd.label				"Importer…">
+<!ENTITY importCmd.label                                "Importer…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label				"Exporter…">
+<!ENTITY exportCmd.label                                "Exporter…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Options…">
 <!ENTITY preferencesCmd.accesskey                       "p">
@@ -141,12 +145,12 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip "Créer un nouveau contact">
-<!ENTITY newlistButton.tooltip "Créer une nouvelle liste de diffusion">
-<!ENTITY editButton2.tooltip "Modifier l'élément sélectionné">
+<!ENTITY newContactButton.tooltip                       "Créer un nouveau contact">
+<!ENTITY newlistButton.tooltip                          "Créer une nouvelle liste de diffusion">
+<!ENTITY editButton2.tooltip                            "Modifier l'élément sélectionné">
 <!ENTITY newmsgButton.tooltip                           "Écrire un courrier à la sélection">
-<!ENTITY newIM.tooltip "Envoyer un message instantané ou amorcer un chat">
-<!ENTITY deleteButton2.tooltip "Supprimer l'élément sélectionné">
+<!ENTITY newIM.tooltip                                  "Envoyer un message instantané ou amorcer un chat">
+<!ENTITY deleteButton2.tooltip                          "Supprimer l'élément sélectionné">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Carnet d'adresses">
@@ -156,15 +160,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "n">
 <!ENTITY advancedButton.tooltip                         "Recherche avancée d'adresses">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title				"Recherche rapide">
+<!ENTITY searchItem.title                               "Recherche rapide">
 
 <!-- Results pane -->
 <!ENTITY GeneratedName.label                            "Nom">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Adresse électronique">
 <!ENTITY PrimaryEmail.accesskey                         "d">
-<!ENTITY ScreenName.label                               "Pseudo">
-<!ENTITY ScreenName.accesskey                           "o">
+<!ENTITY ChatName.label                                 "Pseudo IM">
+<!ENTITY ChatName.accesskey                             "o">
 <!ENTITY Company.label                                  "Société">
 <!ENTITY Company.accesskey                              "s">
 <!ENTITY NickName.label                                 "Surnom">
@@ -175,8 +179,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Department.accesskey                           "e">
 <!ENTITY JobTitle.label                                 "Fonction">
 <!ENTITY JobTitle.accesskey                             "F">
-<!ENTITY CellularNumber.label                           "Portable">
-<!ENTITY CellularNumber.accesskey                       "t">
+<!ENTITY CellularNumber.label                           "Mobile">
+<!ENTITY CellularNumber.accesskey                       "b">
 <!ENTITY PagerNumber.label                              "Pager">
 <!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "Fax">
@@ -197,6 +201,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Domicile">
 <!ENTITY other.heading                                  "Autre">
+<!ENTITY chat.heading                                   "Discussion">
 <!ENTITY phone.heading                                  "Téléphone">
 <!ENTITY work.heading                                   "Métier">
 <!-- Special Box Headings, for mailing lists -->
