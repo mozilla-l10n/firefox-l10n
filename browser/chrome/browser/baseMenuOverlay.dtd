@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.label        "Agiùtto"> 
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY aboutProduct.label       "Informaçioìn rigoàrdo &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "a">
+<!ENTITY aboutProduct.accesskey   "à">
 <!ENTITY productHelp.label        "Agiùtto in sciô &brandShortName;">
 <!ENTITY productHelp.accesskey    "A">
 <!ENTITY helpMac.commandkey       "?">
