@@ -1,18 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# Hegine <heghinedavtyan@mail.ru>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# armenzg <armenzg@gmail.com>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!ENTITY window.title "Ֆիլտրի կանոնները">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Ֆիլտրի անունը.">

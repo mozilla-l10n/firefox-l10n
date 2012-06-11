@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!ENTITY dialog.title                 "Ուղարկելու ընտրանքներ">
 <!ENTITY sendMail.title               "Տեքստային">
 <!ENTITY sendMaildesc.label           "Եթե նամակը ուղարկում եք HTML-ով և այն ստացողներից մեկը չկա HTML նամակ ստացողների ցանկում.">

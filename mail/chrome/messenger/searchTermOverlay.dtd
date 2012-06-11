@@ -1,15 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
 <!ENTITY matchAll.label     "Համապատասխան հետևյալին">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Համապատասխան ցանկ. հետևյալին">

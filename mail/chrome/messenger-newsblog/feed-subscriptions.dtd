@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
 <!ENTITY subscriptionDesc.label      "Հիշեք. Նորությունների շղթայի թղթապանակի ջնջումը կամ փոփոխումը չի ազդի նախորդ գրառումների վրա։">

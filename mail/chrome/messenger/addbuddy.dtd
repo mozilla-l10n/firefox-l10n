@@ -1,15 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
 <!ENTITY addBuddyWindow.title           "Ավելացնել օգտվող">
 <!ENTITY name.label                     "Օգտվողի Անունը">
 <!ENTITY account.label                  "Փոստարկղ">

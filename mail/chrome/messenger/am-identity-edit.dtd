@@ -1,17 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# armenzg <armenzg@gmail.com>
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Նույնական. կարգ.">
 <!ENTITY identityListDesc.label "Կազմաձևել նույնականացման կարգ-ը.">

@@ -1,18 +1,3 @@
-<!--
-# Translator(s):
-#
-# tiger <tigran.ghabuzyan@gmail.com>
-# Hrant <hrantohanyan@mail.am>
-# robyerevan <robyerevan@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Օգնություն">
 <!ENTITY helpMenu.accesskey "H">
