@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Ket Nyinge">
-<!ENTITY webapps.permissions "Wek dony:">
-<!ENTITY webapps.perm.geolocation "Kabedo Ngeyo Yenyo">
-<!ENTITY webapps.perm.offline "Gwoko tic ma pe iwi yamo">
-<!ENTITY webapps.perm.notifications "Ngec me Cal ma iwang kompiuta">
-<!ENTITY webapps.perm.requestedHint "(kikwayo)">
-<!ENTITY webapps.add-homescreen "Med i gang pa kio me wang kompiuta">
