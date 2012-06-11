@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
 <!ENTITY sendWindow.title "Նամակը ուղարկվում է"> 
 <!ENTITY status.label "Վիճակը.">

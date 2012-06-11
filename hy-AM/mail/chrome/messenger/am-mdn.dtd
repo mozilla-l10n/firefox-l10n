@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!ENTITY pane.title                   "Պահանջել ստացական">
 <!ENTITY useGlobalPrefs.label         "Օգտ. ստացականի ուղարկման հիմնական կարգավորումները">
 <!ENTITY useGlobalPrefs.accesskey     "U">

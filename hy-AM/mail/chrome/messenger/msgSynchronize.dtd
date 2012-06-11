@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 <!ENTITY MsgSynchronize.label "Բեռնել և Համժ. նամակները">

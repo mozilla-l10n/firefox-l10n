@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!ENTITY securityTitle.label "Անվտանգությունը">
 <!ENTITY securityTab.label "Անվտանգությունը">
 <!ENTITY securityHeading.label "Ուղարկելու և ստանալու համար ստորագրված կամ կոդավորված նամակներ, նախ պետք է որոշեք թվային ստորագրության հավաստագիրը և կոդավորված հավաստագիրը։">

@@ -1,17 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# Xelgen <xelgen.am@gmail.com>
-# issuart <issuart@yahoo.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Տեսքը.">

@@ -1,18 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# armenzg <armenzg@gmail.com>
-# robyerevan <robyerevan@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# armenzg <armenzg@gmail.com>
-#
--->
 <!ENTITY window.title "Բարի Գալուստ &brandShortName;">
 <!ENTITY header2.label "Ցանկանու՞մ եք նոր էլ. հասցե։">
 <!ENTITY other.languages "Այստեղ ներկայացված են միայն Ձեր տարածաշրջանի էլ. փոստի մատակարարները։ Սեղմեք այստեղ՝ բոլորը ցուցադրելու համար։">

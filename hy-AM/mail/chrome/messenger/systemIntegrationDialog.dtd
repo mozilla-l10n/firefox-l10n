@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!ENTITY systemIntegration.title  "Համակարգային ինտեգրում">
 <!ENTITY defaultClient.intro  "Օգտ. &brandShortName;-ը որպես հիմնական ծրագիր՝">
 

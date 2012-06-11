@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# robyerevan <robyerevan@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
 <!ENTITY onlineContactsHeader.label    "Առցանց">
 <!ENTITY offlineContactsHeader.label   "Անցանց">
 <!ENTITY conversationsHeader.label     "Երկխոսություններ">

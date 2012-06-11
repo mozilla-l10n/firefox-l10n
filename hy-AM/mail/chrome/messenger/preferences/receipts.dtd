@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-# alexxed <alexxed@gmail.com>
-#
--->
 <!ENTITY dialog.title                  "Պահանջել ստացական">
 <!ENTITY requestReceipt.label          "Նամակներ ուղարկելիս պահանջել ստացական">
 <!ENTITY requestReceipt.accesskey      "W">

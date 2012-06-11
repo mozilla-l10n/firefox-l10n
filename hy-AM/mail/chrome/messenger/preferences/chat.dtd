@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# robyerevan <robyerevan@gmail.com>
-# Hrant <hrantohanyan@mail.am>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Hrant <hrantohanyan@mail.am>
-#
--->
 <!ENTITY  startupAction.label         "&brandShortName; -ի մեկնարկի ժամանակ`">
 <!ENTITY  startupAction.accesskey     "S">
 <!ENTITY  startupOffline.label        "Պահել Զրույցի իմ հաշվեկշիռը անցանց">
