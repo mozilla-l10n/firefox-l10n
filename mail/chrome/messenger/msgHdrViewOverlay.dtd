@@ -27,13 +27,13 @@
 <!ENTITY hdrArchiveButton1.tooltip "Cuir an teachtaireacht seo sa chartlann">
 <!ENTITY hdrSmartReplyButton1.label "Freagra Cliste">
 <!ENTITY hdrReplyButton1.label "Freagair">
-<!ENTITY hdrReplyButton2.tooltip "Reply to the sender of this message">
+<!ENTITY hdrReplyButton2.tooltip "Tabhair freagra do sheoltóir na teachtaireachta seo">
 <!ENTITY hdrReplyAllButton1.label "Freagair Cách">
 <!ENTITY hdrReplyAllButton1.tooltip "Freagair an seoltóir agus gach faighteoir">
 <!ENTITY hdrReplyListButton1.label "Freagra Chuig Liosta">
 <!ENTITY hdrReplyListButton1.tooltip "Seol freagra chuig liosta ríomhphoist">
-<!ENTITY hdrFollowupButton1.label "Followup">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrFollowupButton1.label "Leanúint">
+<!ENTITY hdrFollowupButton1.tooltip "Seol leanúint chuig an ngrúpa nuachta seo">
 <!ENTITY hdrForwardButton1.label "Ar Aghaidh">
 <!ENTITY hdrForwardButton1.tooltip "Cuir an teachtaireacht seo ar aghaidh">
 <!ENTITY hdrJunkButton1.label "Dramhphost">
