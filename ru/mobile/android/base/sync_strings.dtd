@@ -58,6 +58,6 @@
 <!ENTITY sync.button.send.label "Отправить">
 <!ENTITY sync.button.setup.label "Настроить синхронизацию">
 <!ENTITY sync.button.continue.browsing.label "Продолжить веб-сёрфинг">
-<!ENTITY sync.title.redirect.to.setup.label "Настроить синхронизацию для отправки вкладок">
+<!ENTITY sync.title.redirect.to.setup.label "Настройка синхронизации для отправки вкладок">
 <!ENTITY sync.text.redirect.to.setup.label "Настроить Firefox Sync на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
