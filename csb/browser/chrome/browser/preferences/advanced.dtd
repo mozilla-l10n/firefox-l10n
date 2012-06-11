@@ -34,8 +34,6 @@
 <!ENTITY systemDefaults.label            "Systemòwé nastôwë">
 <!--XXX--><!ENTITY alwaysCheckDefault.label        "Sprawdzôj przë zrëszaniu czë &brandShortName; je domëslnym przezérnikã">
 <!ENTITY alwaysCheckDefault.accesskey    "p">
-<!ENTITY checkNow.label                  "Sprawdzë terô">
-<!ENTITY checkNow.accesskey              "S">
 <!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awariach">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Wëslë pòdôwczi ò wëdajnoscë">
