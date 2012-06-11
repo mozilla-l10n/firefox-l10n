@@ -17,6 +17,8 @@
 <!ENTITY PhoneticField2.label "Произношение:">
 <!ENTITY DisplayName.label "Отображать как:">
 <!ENTITY DisplayName.accesskey "т">
+<!ENTITY preferDisplayName.label "Всегда использовать отображаемое имя вместо имени из заголовка сообщения">
+<!ENTITY preferDisplayName.accesskey "е">
 <!ENTITY NickName.label "Псевдоним:">
 <!ENTITY NickName.accesskey "д">
 <!ENTITY PrimaryEmail.label "Электронная почта:">
