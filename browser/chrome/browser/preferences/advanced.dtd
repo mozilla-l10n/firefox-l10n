@@ -18,8 +18,9 @@
 <!ENTITY systemDefaults.label "Por defecto">
 <!ENTITY alwaysCheckDefault.label "Comprobar que &brandShortName; sea mi navegador predeterminado al abrirlo">
 <!ENTITY alwaysCheckDefault.accesskey "p">
-<!ENTITY checkNow.label "Comprobar ahora">
-<!ENTITY checkNow.accesskey "C">
+<!ENTITY setDefault.label "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey "d">
+<!ENTITY isDefault.label "&brandShortName; is currently your default browser">
 <!ENTITY submitCrashes.label "Enviar reporte de fallos">
 <!ENTITY submitCrashes.accesskey "E">
 <!ENTITY submitTelemetry.label "Presentar datos de rendimiento">

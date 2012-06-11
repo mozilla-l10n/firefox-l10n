@@ -13,11 +13,11 @@
 <!ENTITY view.columns.label "Mostrar columnas">
 <!ENTITY view.columns.accesskey "M">
 <!ENTITY view.sort.label "Listar">
-<!ENTITY view.sort.accesskey "s">
+<!ENTITY view.sort.accesskey "L">
 <!ENTITY view.unsorted.label "Sin ordenar">
 <!ENTITY view.unsorted.accesskey "S">
 <!ENTITY view.sortAscending.label "Ordenar A > Z">
-<!ENTITY view.sortAscending.accesskey "a">
+<!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordenar Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
 <!ENTITY importBookmarksFromHTML.label "Importar Marcadores de HTML…">
@@ -25,7 +25,7 @@
 <!ENTITY exportBookmarksToHTML.label "Exportar Marcadores a HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey "E">
 <!ENTITY importOtherBrowser.label "Importar datos de otro navegador…">
-<!ENTITY importOtherBrowser.accesskey "A">
+<!ENTITY importOtherBrowser.accesskey "o">
 <!ENTITY cmd.backup.label "Copia…">
 <!ENTITY cmd.backup.accesskey "C">
 <!ENTITY cmd.restore2.label "Restaurar">
