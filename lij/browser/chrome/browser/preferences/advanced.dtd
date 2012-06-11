@@ -74,7 +74,7 @@
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "Avèrtime se quésto dizabìlita quarchedùn di mæ conponénti azónti">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
+<!ENTITY updateAutoAddonWarn.accesskey   "r">
 
 <!ENTITY updateHistory.label             "Fànni védde a stöia di agiórnamenti">
 <!ENTITY updateHistory.accesskey         "F">
