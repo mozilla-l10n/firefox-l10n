@@ -14,7 +14,7 @@
 <!ENTITY  proportional.accesskey                  "p">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "f">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Scingolo spàçio:">
