@@ -18,11 +18,11 @@
 <!ENTITY accountPasswordManager.label "Sábhálfar an focal faire i mBainisteoir na bhFocal Faire. Fág an bosca seo folamh más mian leat d'fhocal faire a chur isteach gach uair a úsáidfidh tú an cuntas seo amach anseo.">
 
 <!ENTITY accountAdvancedTitle.label "Ardroghanna">
-<!ENTITY accountAdvancedInfo.label "Feel free to skip this step if you want to.">
+<!ENTITY accountAdvancedInfo.label "Tá cead agat dul thar an chéim seo más mian leat.">
 <!ENTITY accountAdvanced.newMailNotification.label "Abair liom faoi theachtaireachtaí nua">
 <!ENTITY accountAliasGroupbox.caption "Ailias Logánta">
 <!ENTITY accountAliasField.label "Ailias:">
-<!ENTITY accountAliasInfo.label "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
+<!ENTITY accountAliasInfo.label "Ní thaispeánfar é seo ach nuair a bheidh comhrá agat; ní fheicfidh teagmhálacha i gcein é.">
 <!ENTITY accountProxySettings.caption "Socruithe an tSeachfhreastalaí">
 <!ENTITY accountProxySettings.change.label "Athraigh…">
 <!ENTITY accountProxySettings.change.accessKey "A">

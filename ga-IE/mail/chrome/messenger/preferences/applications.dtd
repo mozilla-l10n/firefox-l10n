@@ -30,7 +30,7 @@
 <!ENTITY addCloudFileAccount.description "Cuir seirbhís stórála Filelink leis">
 <!ENTITY removeCloudFileAccount.label "Bain">
 <!ENTITY removeCloudFileAccount.accesskey "B">
-<!ENTITY authRequired.description "Your authorization is required in order to see the settings for this storage service.">
+<!ENTITY authRequired.description "Ní mór duit údarú chun socruithe na seirbhíse stórála seo a fheiceáil.">
 <!ENTITY authRequired.button.label "Údaraigh">
 <!ENTITY authRequired.button.accesskey "d">
 

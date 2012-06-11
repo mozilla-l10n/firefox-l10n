@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY adaptiveJunkLog.title "Logchomhad Dramhphoist">
-<!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
-<!ENTITY clearLog.label "Glan an Loga">
+<!ENTITY adaptiveJunkLogInfo.label "Logcomhad a thaifeadann gach rud a dhéanann an rialtán oiriúnaitheach dramhphoist.">
+<!ENTITY clearLog.label "Glan an Logchomhad">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY closeLog.label "Dún">
 <!ENTITY closeLog.accesskey "D">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Socruithe Dramhphoist">
-<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
+<!ENTITY trainingDescription.label "Leis an rogha seo, caithfidh tú an dóigh le dramhphost a aithint a mhúineadh do &brandShortName; tríd an gcnaipe Dramhphost a chliceáil ar an mbarra uirlisí. Caithfidh tú dramhphost a mharcáil chomh maith leis na teachtaireachtaí nach dramhphost iad. Tar éis sin, beidh &brandShortName; in ann dramhphost a aithint go huathoibríoch.">
 <!ENTITY level.label "Cumasaigh rialtáin oiriúnaitheacha dramhphoist don chuntas seo">
 <!ENTITY level.accesskey "C">
 
@@ -17,12 +17,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "lá anuas">
 
-<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
-<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY whitelistHeader.label "Ná marcáil mar dhramhphost go huathoibríoch má tá an seoltóir i: ">
+<!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
+<!ENTITY ispHeadersWarning.label "Leis an rogha seo, glacfaidh &brandShortName; le teachtaireachtaí marcáilte ag an aicmitheoir seachtrach seo mar dhramhphost.">
 <!ENTITY ispHeaders.label "Cuir muinín i gceanntásca dramhphoist a shocraigh:">
 <!ENTITY ispHeaders.accesskey "t">
 
 <!ENTITY junkClassification.label "Rogha">
-<!ENTITY junkActions.label "Destination and Retention">
+<!ENTITY junkActions.label "Ceann Scríbe agus Coinneáil">

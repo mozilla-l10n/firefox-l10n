@@ -12,7 +12,7 @@
 <!ENTITY accountManager.close.commandkey "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title "Níl aon chuntas cumraithe fós">
-<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
+<!ENTITY accountManager.noAccount.description "Cliceáil an cnaipe &accountManager.newAccount.label; agus beidh &brandShortName; do do threorú tríd an bpróiseas chun cuntas nua a chumrú.">
 <!ENTITY account.autoSignOn.label "Logáil isteach ag am tosaithe">
 <!ENTITY account.autoSignOn.accesskey "L">
 <!ENTITY account.connect.label "Ceangail">
