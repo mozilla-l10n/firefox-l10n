@@ -1,11 +1,12 @@
-<!ENTITY debuggerMenu.label "Depurador de scripts">
+<!ENTITY debuggerMenu.label2 "Debugger">
 <!ENTITY remoteDebuggerMenu.label "Depurador remoto">
 <!ENTITY chromeDebuggerMenu.label "Browser Debugger">
 <!ENTITY debuggerMenu.commandkey "S">
-<!ENTITY debuggerUI.closeButton "Cerrar">
-<!ENTITY debuggerUI.stepOverButton "Saltar">
-<!ENTITY debuggerUI.stepInButton "Entrar">
-<!ENTITY debuggerUI.stepOutButton "Salir">
+<!ENTITY debuggerUI.closeButton.tooltip "Close">
+<!ENTITY debuggerUI.pauseExceptions "Pause on exceptions">
+<!ENTITY debuggerUI.stepOverButton.tooltip "Step Over">
+<!ENTITY debuggerUI.stepInButton.tooltip "Step In">
+<!ENTITY debuggerUI.stepOutButton.tooltip "Step Out">
 <!ENTITY debuggerUI.stackTitle "Pila de llamadas">
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ámbito de las variables">

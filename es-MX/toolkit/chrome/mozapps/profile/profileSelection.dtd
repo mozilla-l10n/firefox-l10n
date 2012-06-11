@@ -12,6 +12,6 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY pmDescription.label "&brandShortName; guarda información sobre tu configuración, preferencias y otros elementos en tu perfil de usuario.">
 <!ENTITY offlineState.label "Trabajar sin conexión">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY offlineState.accesskey "T">
 <!ENTITY autoSelect.label "No preguntar al inicio">
 <!ENTITY autoSelect.accesskey "N">

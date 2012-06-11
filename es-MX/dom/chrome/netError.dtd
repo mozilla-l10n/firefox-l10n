@@ -21,7 +21,7 @@
 <!ENTITY netOffline.title "Modo desconectado">
 <!ENTITY netOffline.longDesc2 "<p>El navegador está operando en el modo fuera de línea y no puede conectar con el elemento solicitado.</p><ul><li>¿La computadora está conectada a una red activa?</li><li>Pulsa &quot;Intentar de nuevo&quot; para cambiar al modo en línea y cargar la página.</li></ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
-<!ENTITY contentEncodingError.longDesc "<p>La página solicitada no se puede cargar debido a un tipo de compresión no soportado o inválido.</p><ul><li>Informe a los dueños de este Sitio Web sobre este problema.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>La página solicitada no se puede cargar debido a un tipo de compresión no soportado o inválido.</p><ul><li>Por favor, informa a los dueños del Sitio Web sobre este problema.</li></ul>">
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>

@@ -56,6 +56,10 @@
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -72,6 +76,8 @@
 <!ENTITY fullscreenExitButton.label "Deny">
 <!ENTITY fullscreenApproval.value "Allow fullscreen?">
 <!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
+<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
@@ -156,17 +162,32 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY responsiveUI.label "Responsive Mode">
+<!ENTITY responsiveUI.accesskey "R">
+<!ENTITY responsiveUI.commandkey "M">
 <!ENTITY scratchpad.label "Scratchpad">
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
+<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
+<!ENTITY devToolbarMenu.label "Developer Toolbar">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+<!ENTITY webConsoleButton.label "Web Console">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY scriptsButton.label "Scripts">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "O">
 <!ENTITY inspectorHTMLDelete.label "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "B">
+<!ENTITY inspectOptionButton.tooltiptext "Inspector Options">
+<!ENTITY inspectorToggleVeil.label "Dim The Page">
+<!ENTITY inspectorToggleVeil.accesskey "D">
+<!ENTITY inspectorToggleInfobar.label "Show Node Info">
+<!ENTITY inspectorToggleInfobar.accesskey "S">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Estilo">

@@ -37,20 +37,12 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY safeModeDialog.title "Modo seguro de &brandShortName;">
-<!ENTITY window.width "37em">
-<!ENTITY autoSafeModeIntro.label "&brandShortName; se cerró de forma inesperada cuando estaba iniciándose">
-<!ENTITY autoSafeModeDescription.label "Sentimos el inconveniente, pero &brandShortName; está funcionando ahora en modo seguro, que desactiva de forma temporal tus preferencias, temas y extensiones.">
-<!ENTITY safeModeDescription.label "&brandShortName; está ejecutándose en modo seguro, por esta razón, tus parámetros personalizados, temas y complementos estarán deshabilitados temporalmente.">
-<!ENTITY safeModeDescription2.label "Puedes hacer permanentes todos o algunos de los siguientes cambios:">
-<!ENTITY disableAddons.label "Desactivar todos los complementos">
-<!ENTITY disableAddons.accesskey "D">
-<!ENTITY resetToolbars.label "Restaurar barras de herramientas y controles">
-<!ENTITY resetToolbars.accesskey "R">
-<!ENTITY deleteBookmarks.label "Borrar todos los marcadores excepto los respaldos">
-<!ENTITY deleteBookmarks.accesskey "b">
-<!ENTITY resetUserPrefs.label "Restaurar todas las preferencias de usuario predeterminadas de &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "p">
-<!ENTITY restoreSearch.label "Restaurar motores de búsqueda predeterminados">
-<!ENTITY restoreSearch.accesskey "b">
-<!ENTITY changeAndRestartButton.label "Aplicar cambios y reiniciar">
-<!ENTITY continueButton.label "Continuar en modo seguro">
+<!ENTITY window.maxWidth "400">
+<!ENTITY startSafeMode.label "Start in Safe Mode">
+<!ENTITY resetProfile.label "Reset &brandShortName;">
+<!ENTITY safeModeDescription3.label "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
+<!ENTITY safeModeDescription4.label "Your add-ons and custom settings will be temporarily disabled.">
+<!ENTITY resetProfileInstead.label "You can also Reset &brandShortName; if you want to start fresh.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by resetting &brandShortName; to its default state or troubleshooting in Safe Mode.">
+<!ENTITY resetProfileFooter.label "Everything else will be reset to factory defaults.">
+<!ENTITY safeModeInstead.label "If you don't want this, you can continue in Safe Mode to do your own troubleshooting with your add-ons and custom settings temporarily disabled.">
