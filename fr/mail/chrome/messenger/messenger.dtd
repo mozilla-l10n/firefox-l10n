@@ -262,14 +262,14 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.
 -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Agrandir">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+<!ENTITY fullZoomEnlargeCmd.label       "Zoom avant">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "v">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Réduire">
-<!ENTITY fullZoomReduceCmd.accesskey    "R">
+<!ENTITY fullZoomReduceCmd.label        "Zoom arrière">
+<!ENTITY fullZoomReduceCmd.accesskey    "r">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
