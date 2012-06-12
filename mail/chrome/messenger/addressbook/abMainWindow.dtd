@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
 
 <!-- File Menu -->
@@ -8,7 +12,7 @@
 <!ENTITY newContact.label                               "Contato de catálogo de endereços…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "n">
-<!ENTITY newListCmd.label                               "Lista de emails…">
+<!ENTITY newListCmd.label                               "Lista de e-mails…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Catálogo…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
@@ -58,8 +62,8 @@
 <!ENTITY deleteAbCmd.label                              "Excluir catálogo">
 <!ENTITY deleteContactCmd.label                         "Excluir contato">
 <!ENTITY deleteContactsCmd.label                        "Excluir contatos">
-<!ENTITY deleteListCmd.label                            "Excluir lista de emails">
-<!ENTITY deleteListsCmd.label                           "Excluir listas de emails">
+<!ENTITY deleteListCmd.label                            "Excluir lista de e-mails">
+<!ENTITY deleteListsCmd.label                           "Excluir listas de e-mails">
 <!ENTITY deleteItemsCmd.label                           "Excluir itens">
 <!ENTITY selectAllCmd.label                             "Selecionar tudo">
 <!ENTITY selectAllCmd.key                               "a">
@@ -149,7 +153,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Localizar nome ou email">
+<!ENTITY SearchNameOrEmail.label                        "Localizar nome ou e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 <!ENTITY quickSearchCmd.key                             "K">
@@ -158,15 +162,15 @@ because displayed names don't have the comma in between. -->
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "n">
-<!ENTITY PrimaryEmail.label                             "Email">
+<!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "e">
-<!ENTITY ScreenName.label                               "Nome de tela">
-<!ENTITY ScreenName.accesskey                           "t">
+<!ENTITY ChatName.label                                 "Bate-papo">
+<!ENTITY ChatName.accesskey                             "B">
 <!ENTITY Company.label                                  "Empresa">
 <!ENTITY Company.accesskey                              "m">
 <!ENTITY NickName.label                                 "Apelido">
 <!ENTITY NickName.accesskey                             "A">
-<!ENTITY SecondEmail.label                              "Email alternativo">
+<!ENTITY SecondEmail.label                              "E-mail alternativo">
 <!ENTITY SecondEmail.accesskey                          "v">
 <!ENTITY Department.label                               "Setor">
 <!ENTITY Department.accesskey                           "S">
@@ -193,6 +197,7 @@ because displayed names don't have the comma in between. -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contato">
 <!ENTITY home.heading                                   "Endereço residencial">
+<!ENTITY chat.heading                                   "Bate-papo">
 <!ENTITY other.heading                                  "Outros">
 <!ENTITY phone.heading                                  "Telefones">
 <!ENTITY work.heading                                   "Endereço comercial">

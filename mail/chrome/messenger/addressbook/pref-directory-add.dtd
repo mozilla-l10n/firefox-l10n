@@ -49,7 +49,7 @@
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "D">
 <!ENTITY General.tab                       "Geral">
-<!ENTITY Offline.tab                       "Offline">
+<!ENTITY Offline.tab                       "Off-line">
 <!ENTITY Advanced.tab                      "Avançado">
 <!ENTITY portNumber.label                  "Porta: ">
 <!ENTITY portNumber.accesskey              "P">
@@ -64,7 +64,7 @@
 <!ENTITY return.label                      "Não retornar mais de">
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "resultados">
-<!ENTITY offlineText.label                 "Você pode fazer uma cópia local deste diretório para usá-lo quando estiver offline.">
+<!ENTITY offlineText.label                 "Você pode fazer uma cópia local deste diretório para usá-lo quando estiver off-line.">
 <!ENTITY saslMechanism.label               "Método de login: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">

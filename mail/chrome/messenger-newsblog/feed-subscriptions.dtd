@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Inscrições RSS">
 <!ENTITY subscriptionDesc.label      "Nota: excluir ou alterar a pasta de um RSS não afetará os itens já recebidos.">
@@ -15,6 +19,7 @@
 <!ENTITY quickMode.label             "Exibir o conteúdo do item em vez de carregar a página web">
 <!ENTITY quickMode.accesskey         "E">
 
+<!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar validação e carregar uma URL válida.">
 
 <!ENTITY button.addFeed.label        "Novo">
@@ -27,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportar">
 <!ENTITY button.exportOPML.accesskey "o">
+<!ENTITY button.exportOPML.tooltip   "Exporta mantendo a estrutra de pastas; clique segurando Ctrl ou pressione Ctrl + Enter para exportar como uma lista">
 
 <!ENTITY cmd.close.commandKey        "W">

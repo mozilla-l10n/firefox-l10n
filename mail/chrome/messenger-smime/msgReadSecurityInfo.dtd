@@ -6,5 +6,5 @@
 
 <!ENTITY signer.name "Assinado por:">
 <!ENTITY recipient.name "Criptografado por:">
-<!ENTITY email.address "Endereço de email:">
+<!ENTITY email.address "Endereço de e-mail:">
 <!ENTITY issuer.name "Certificado expedido por:">

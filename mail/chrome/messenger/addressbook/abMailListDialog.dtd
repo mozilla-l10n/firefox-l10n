@@ -37,7 +37,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Lista de emails">
+<!ENTITY mailListWindow.title           "Lista de e-mails">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Criar em:">
 
@@ -45,7 +45,7 @@
 <!ENTITY ListNickName.label             "Apelido da lista:">
 <!ENTITY ListDescription.label          "Descrição:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Forneça os endereços para adicioná-los à lista de emails:">
+<!ENTITY AddressTitle.label             "Forneça os endereços para adicioná-los à lista de e-mails:">
 <!ENTITY UpButton.label                 "Para cima">
 <!ENTITY DownButton.label               "Para baixo">
 

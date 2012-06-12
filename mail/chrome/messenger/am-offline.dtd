@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
-<!ENTITY doNotDownloadNntp.label "Para economizar espaço em disco, não receber para uso offline:">
-<!ENTITY doNotDownloadImap.label "Para economizar espaço em disco, o recebimento de mensagens do servidor e a  manutenção das cópias locais para uso offline podem ser restringidas pela data ou tamanho.">
+<!ENTITY doNotDownloadNntp.label "Para economizar espaço em disco, não receber para uso off-line:">
+<!ENTITY doNotDownloadImap.label "Para economizar espaço em disco, o recebimento de mensagens do servidor e a  manutenção das cópias locais para uso off-line podem ser restringidas pela data ou tamanho.">
 <!ENTITY allFoldersOffline.label "Preservar as mensagens desta conta neste computador">
 <!ENTITY allFoldersOffline.accesskey "P">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
@@ -29,7 +29,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 <!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
 <!ENTITY nntpRemoveMsgBody.accesskey "I">
-<!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline…">
+<!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura off-line…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

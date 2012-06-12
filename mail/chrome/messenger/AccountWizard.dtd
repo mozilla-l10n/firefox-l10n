@@ -9,7 +9,7 @@
 <!ENTITY accountTypeTitle.label "Configurar conta">
 <!ENTITY accountTypeDesc2.label "Este assistente vai recolher as informações necessárias para configurar a conta. Se você não souber as informações solicitadas, contate o administrador do sistema ou o provedor de internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
-<!ENTITY accountTypeMail.label "Email">
+<!ENTITY accountTypeMail.label "E-mail">
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Newsgroup">
 <!ENTITY accountTypeNews.accesskey "N">
@@ -29,7 +29,7 @@
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 
-<!ENTITY emailLabel.label "Email:">
+<!ENTITY emailLabel.label "E-mail:">
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Incoming Server page -->
