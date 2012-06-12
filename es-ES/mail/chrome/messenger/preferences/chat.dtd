@@ -8,7 +8,7 @@
 <!ENTITY startupConnectAuto.label "Conectar a mis cuentas automáticamente">
 <!ENTITY reportIdleAfter.label "Permitir a mis contactos saber que estoy inactivo tras">
 <!ENTITY reportIdleAfter.accesskey "P">
-<!ENTITY idleTime "minutos de actividad">
+<!ENTITY idleTime "minutos de inactividad">
 <!ENTITY andSetStatusToAway.label "y establecer mi estado en Ausente con este mensaje de estado:">
 <!ENTITY andSetStatusToAway.accesskey "b">
 <!ENTITY sendTyping.label "Enviar notificaciones de escritura en conversaciones">
