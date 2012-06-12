@@ -23,11 +23,6 @@
 <!ENTITY view.sortDescending.label      "Sorteervolgorde Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Zoeken in bladwijzers…">
-<!ENTITY cmd.findInBookmarks.accesskey  "Z">
-<!ENTITY cmd.findCurrent.label          "Zoeken in huidige collectie…">
-<!ENTITY cmd.findCurrent.accesskey      "i">
-
 <!ENTITY importBookmarksFromHTML.label     "Bladwijzers importeren vanuit HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "m">
 <!ENTITY exportBookmarksToHTML.label       "Bladwijzers exporteren naar HTML…">

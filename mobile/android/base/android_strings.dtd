@@ -44,6 +44,7 @@
 <!ENTITY reload "Vernieuwen">
 <!ENTITY forward "Vooruit">
 
+<!ENTITY close_tab "Tabblad sluiten">
 <!ENTITY new_tab "Nieuw tabblad">
 <!ENTITY new_tab_opened "Nieuw tabblad geopend">
 
@@ -125,3 +126,18 @@
 <!ENTITY filepicker_audio_title "Een geluid kiezen of opnemen">
 <!ENTITY filepicker_image_title "Een foto kiezen of maken">
 <!ENTITY filepicker_video_title "Een video kiezen of opnemen">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "U bent verbonden met">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "welke wordt beheerd door">
