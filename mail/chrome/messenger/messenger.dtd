@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -31,6 +35,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Compte de messagerie instantanée…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Contact de messagerie instantanée…">
+<!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Pièces jointes">
@@ -480,10 +486,12 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "État de messagerie instantanée">
 <!ENTITY imAccountsStatus.accesskey "m">
-<!ENTITY imStatus.available "Disponible">
-<!ENTITY imStatus.unavailable "Occupé">
-<!ENTITY imStatus.offline "Déconnecté">
-<!ENTITY imStatus.showAccounts "Afficher les comptes…">
+<!ENTITY imStatus.available          "Disponible">
+<!ENTITY imStatus.unavailable        "Occupé">
+<!ENTITY imStatus.offline            "Déconnecté">
+<!ENTITY imStatus.showAccounts       "Afficher les comptes…">
+<!ENTITY joinChatCmd.label "Rejoindre la discussion…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Fichiers enregistrés">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
