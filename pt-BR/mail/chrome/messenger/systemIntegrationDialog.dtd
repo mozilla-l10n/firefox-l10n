@@ -1,7 +1,7 @@
 <!ENTITY systemIntegration.title  "Integração com o sistema">
 <!ENTITY defaultClient.intro  "Tornar o &brandShortName; o aplicativo padrão para:">
 
-<!ENTITY email.label "Email">
+<!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Newsgroups">
 <!ENTITY feeds.label "RSS">
 

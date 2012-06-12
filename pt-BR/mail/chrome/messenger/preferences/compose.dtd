@@ -35,7 +35,7 @@
 <!ENTITY autoSave.accesskey                   "S">
 <!ENTITY autoSaveEnd.label                    "minutos">
 
-<!ENTITY emailCollectionPicker.label           "Ao enviar emails, criar contatos dos destinatários em:">
+<!ENTITY emailCollectionPicker.label           "Ao enviar e-mails, criar contatos dos destinatários em:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Autocompletar endereços">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por contatos em:">

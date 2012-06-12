@@ -1,4 +1,8 @@
-<!ENTITY itemJunk.label          "Anti-spam">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "antispam">
 <!ENTITY itemPhishing.label      "Antifraude">
 <!ENTITY itemPasswords.label     "Senhas">
 <!ENTITY itemAntiVirus.label     "Antivírus">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "x">
 <!ENTITY markAsReadOnSpam.label "Marcar como lidas as mensagens definidas como spam">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Registrar a atividade do filtro anti-spam">
-<!ENTITY enableJunkLogging.accesskey "R">
+<!ENTITY enableAdaptiveJunkLogging.label "Registrar as atividades do filtro antispam adaptativo">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "R">
 <!ENTITY openJunkLog.label "Exibir log">
 <!ENTITY openJunkLog.accesskey "E">
 <!ENTITY resetTrainingData.label "Excluir o treinamento">
@@ -25,7 +29,7 @@
 <!ENTITY phishingDetector1.intro  "O &brandShortName; pode verificar se mensagens são possíveis fraudes (também conhecidas como phishing scams), detectando as técnicas de falsificação mais comuns.">
 <!ENTITY enablePhishingDetector1.label    "Alertar se a mensagem exibida for um possível golpe">
 <!ENTITY enablePhishingDetector1.accesskey  "A">
-<!ENTITY useDownloadedList.label "Receber e usar uma lista de possíveis fraudes de email">
+<!ENTITY useDownloadedList.label "Receber e usar uma lista de possíveis fraudes de e-mail">
 <!ENTITY useDownloadedList.accesskey "R">
 
 <!-- Passwords -->
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "Exibir cookies">
 <!ENTITY showCookies.accesskey          "x">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Notificar aos sites que não desejo ser rastreado">
+<!ENTITY doNotTrack.accesskey           "r">

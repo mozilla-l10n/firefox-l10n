@@ -1,11 +1,6 @@
-<!ENTITY accountTitle.label "Configurações da conta">
-<!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "t">
-<!ENTITY messageStorage.label "Armazenamento de mensagens">
-<!ENTITY emptyTrashOnExit.label "Esvaziar a lixeira ao sair">
-<!ENTITY emptyTrashOnExit.accesskey "z">
-<!ENTITY localPath.label "Pasta local:">
-<!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
-<!ENTITY browseFolder.label "Procurar…">
-<!ENTITY browseFolder.accesskey "P">

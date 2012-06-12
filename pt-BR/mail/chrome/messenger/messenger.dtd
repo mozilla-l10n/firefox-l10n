@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -22,12 +26,14 @@
 <!ENTITY newVirtualFolderCmd.accesskey "a">
 <!ENTITY newOtherAccountsCmd.label "Configurar outros tipos de contas…">
 <!ENTITY newOtherAccountsCmd.accesskey "u">
-<!ENTITY newCreateEmailAccountCmd.label "Criar uma conta de email…">
+<!ENTITY newCreateEmailAccountCmd.label "Criar uma conta de e-mail…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "r">
-<!ENTITY newExistingEmailAccountCmd.label "Configurar conta de email…">
+<!ENTITY newExistingEmailAccountCmd.label "Configurar conta de e-mail…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "o">
 <!ENTITY newIMAccountCmd.label "Configurar conta de bate-papo…">
 <!ENTITY newIMAccountCmd.accesskey "b">
+<!ENTITY newIMContactCmd.label "Novo contato…">
+<!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo de mensagem…">
 <!ENTITY openMessageFileCmd.accesskey "b">
 <!ENTITY openAttachmentCmd.label "Anexos">
@@ -60,9 +66,9 @@
 <!ENTITY compactFolders.accesskey    "o">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixeira">
 <!ENTITY emptyTrashCmd.accesskey    "x">
-<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.label "Off-line">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Modo offline">
+<!ENTITY offlineGoOfflineCmd.label "Modo off-line">
 <!ENTITY offlineGoOfflineCmd.accesskey "M">
 <!ENTITY synchronizeOfflineCmd.label "Receber/sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "b">
@@ -358,8 +364,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "R">
 <!ENTITY replySenderCmd.label "Responder ao remetente">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Responder ao newsgroup">
-<!ENTITY replyNewsgroupCmd.accesskey  "w">
+<!ENTITY replyNewsgroupCmd2.label "Responder ao grupo">
+<!ENTITY replyNewsgroupCmd2.accesskey  "P">
 <!ENTITY replyToAllMsgCmd.label "Re: Todos">
 <!ENTITY replyToAllMsgCmd.accesskey  "T">
 <!ENTITY replyToAllMsgCmd.key  "R">
@@ -441,7 +447,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.label "Como não spam">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "J">
-<!ENTITY recalculateJunkScoreCmd.label "Aplicar anti-spam">
+<!ENTITY recalculateJunkScoreCmd.label "Aplicar antispam">
 <!ENTITY recalculateJunkScoreCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
 <!ENTITY openMessageWindowCmd.accesskey "b">
@@ -477,8 +483,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imAccountsStatus.accesskey "b">
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Ocupado">
-<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.offline            "Off-line">
 <!ENTITY imStatus.showAccounts       "Exibir contas…">
+<!ENTITY joinChatCmd.label "Entrar no bate-papo…">
+<!ENTITY joinChatCmd.accesskey "E">
 <!ENTITY savedFiles.label "Arquivos salvos">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "J">
@@ -490,7 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "g">
 <!ENTITY filtersApplyToMessage.label "Aplicar filtros na mensagem">
 <!ENTITY filtersApplyToMessage.accesskey "p">
-<!ENTITY runJunkControls.label "Aplicar anti-spam nesta pasta">
+<!ENTITY runJunkControls.label "Aplicar antispam nesta pasta">
 <!ENTITY runJunkControls.accesskey "r">
 <!ENTITY deleteJunk.label "Excluir spans desta pasta">
 <!ENTITY deleteJunk.accesskey "x">
@@ -498,6 +506,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.label "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey "s">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Configurar contas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,7 +557,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Nova mensagem">
 <!ENTITY replyButton.tooltip "Responder mensagem">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
-<!ENTITY replyListButton.tooltip "Responder à lista de emails">
+<!ENTITY replyListButton.tooltip "Responder à lista de e-mails">
 <!ENTITY forwardButton.tooltip "Encaminhar mensagem selecionada">
 <!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
@@ -617,7 +626,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.accesskey "C">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Localizar nome ou email:">
+<!ENTITY SearchNameOrEmail.label "Localizar nome ou e-mail:">
 <!ENTITY SearchNameOrEmail.accesskey "z">
 
 <!-- Gloda Search Bar -->
@@ -692,8 +701,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Responder ao newsgroup">
-<!ENTITY contextReplyNewsgroup.accesskey "w">
+<!ENTITY contextReplyNewsgroup2.label "Responder ao grupo">
+<!ENTITY contextReplyNewsgroup2.accesskey "P">
 <!ENTITY contextReplyAll.label "Re: Todos">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextReplyList.label "Re: Lista">
@@ -773,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "A">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Spam">
+<!ENTITY junkBarMessage2.label "O &brandShortName; acha que esta mensagem é um Spam.">
 <!ENTITY junkBarButton1.label "Não é spam">
 <!ENTITY junkInfoButton.label "Dica">
 
@@ -835,15 +844,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SubscribeToNewsgroup.accesskey "I">
 <!ENTITY SendMessageTo.label "Nova mensagem para">
 <!ENTITY SendMessageTo.accesskey "N">
-<!ENTITY CopyEmailAddress.label "Copiar email">
+<!ENTITY CopyEmailAddress.label "Copiar e-mail">
 <!ENTITY CopyEmailAddress.accesskey "o">
 <!ENTITY CopyNewsgroupName.label "Copiar o nome do newsgroup">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar o endereço do newsgroup">
 <!ENTITY CopyNewsgroupURL.accesskey "o">
-<!ENTITY CreateFilterFrom.label "Criar filtro para este email…">
+<!ENTITY CreateFilterFrom.label "Criar filtro para este e-mail…">
 <!ENTITY CreateFilterFrom.accesskey "r">
-<!ENTITY reportPhishingURL.label "Denunciar email como fraudulento">
+<!ENTITY reportPhishingURL.label "Denunciar e-mail como fraudulento">
 <!ENTITY reportPhishingURL.accesskey "e">
 
 <!-- Spell checker context menu items -->
@@ -859,7 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Copiar imagem">
 <!ENTITY copyImageAllCmd.accesskey "m">
-<!ENTITY copyEmailCmd.label "Copiar email">
+<!ENTITY copyEmailCmd.label "Copiar e-mail">
 <!ENTITY copyEmailCmd.accesskey "o">
 <!ENTITY stopCmd.label "Parar">
 <!ENTITY stopCmd.accesskey "P">

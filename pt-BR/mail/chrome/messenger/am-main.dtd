@@ -7,7 +7,7 @@
 <!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
-<!ENTITY email.label "Email:">
+<!ENTITY email.label "E-mail:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Responder a:">
 <!ENTITY replyTo.accesskey "R">

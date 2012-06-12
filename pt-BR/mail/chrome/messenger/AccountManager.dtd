@@ -4,7 +4,7 @@
 
 <!ENTITY accountActionsButton.label "Ações de contas">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Nova conta de email…">
+<!ENTITY addMailAccountButton.label "Nova conta de e-mail…">
 <!ENTITY addMailAccountButton.accesskey "N">
 <!ENTITY addIMAccountButton.label "Nova conta de bate-papo…">
 <!ENTITY addIMAccountButton.accesskey "v">

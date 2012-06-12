@@ -1,5 +1,5 @@
 <!ENTITY attachmentReminderDialog.title   "Palavras-chave do lembrete de anexos">
-<!ENTITY attachKeywordText.label          "O &brandShortName; o alertará sobre a ausência de anexos quando você enviar um email contendo uma destas palavra-chave.">
+<!ENTITY attachKeywordText.label          "O &brandShortName; o alertará sobre a ausência de anexos quando você enviar um e-mail contendo uma destas palavra-chave.">
 <!ENTITY addKeywordButton.label           "Adicionar">
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "Editar">
