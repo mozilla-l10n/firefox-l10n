@@ -83,3 +83,11 @@
 <!ENTITY sync.verifying.label 'Verificando…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Clave de recuperación incorrecta. Intentá nuevamente.'>
 
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Enviar pestaña a dispositivos'>
+<!ENTITY sync.button.send.label 'Enviar'>
+<!ENTITY sync.button.setup.label 'Configurar Sync'>
+<!ENTITY sync.button.continue.browsing.label 'Continuar navegando'>
+<!ENTITY sync.title.redirect.to.setup.label 'Configurar Sync para enviar pestañas'>
+<!ENTITY sync.text.redirect.to.setup.label 'Configurá Firefox Sync en tu dispositivo para enviar pestañas a otros dispositivos.'>
+<!ENTITY sync.text.tab.sent.label '¡Tu pestaña fue enviada!'>
