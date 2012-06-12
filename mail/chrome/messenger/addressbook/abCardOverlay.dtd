@@ -101,7 +101,7 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Notas:">
 <!ENTITY Notes.accesskey "N">
-<!ENTITY Chat.tab "Charla">
+<!ENTITY Chat.tab "Chat">
 <!ENTITY Chat.accesskey "h">
 <!ENTITY Gtalk.label "Google Talk:">
 <!ENTITY Gtalk.accesskey "G">
