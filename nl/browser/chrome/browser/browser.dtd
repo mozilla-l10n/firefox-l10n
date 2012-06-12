@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -99,7 +103,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Toestaan">
 <!ENTITY fullscreenExitButton.label "Weigeren">
 <!ENTITY fullscreenApproval.value "volledigscherm toestaan?">
+
 <!ENTITY fullscreenExitHint.value "Druk op ESC om volledig scherm te verlaten.">
+<!ENTITY leaveDOMFullScreen.label "Volledigscherm verlaten">
+<!ENTITY leaveDOMFullScreen.accesskey "v">
 
 <!ENTITY closeWindow.label "Venster sluiten">
 <!ENTITY closeWindow.accesskey "e">
@@ -225,9 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectCloseButton.tooltiptext "Inspector sluiten">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Developer werkbalk sluiten">
-<!ENTITY devToolbarMenu.label "Developer werkbalk">
-<!ENTITY devToolbarMenu.accesskey "v">
-<!ENTITY devToolbar.commandkey "v">
+<!ENTITY devToolbarMenu.label 		   "Developer werkbalk">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "Webconsole">
 <!ENTITY inspectorButton.label "Inspector">
