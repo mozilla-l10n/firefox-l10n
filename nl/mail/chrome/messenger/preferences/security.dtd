@@ -56,3 +56,7 @@
 <!ENTITY cookieExceptions.accesskey     "U">
 <!ENTITY showCookies.label              "Cookies tonen…">
 <!ENTITY showCookies.accesskey          "t">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Websites laten weten dat ik niet gevolgd wil worden">
+<!ENTITY doNotTrack.accesskey           "v">

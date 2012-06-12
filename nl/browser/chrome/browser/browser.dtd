@@ -96,7 +96,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "W">
 <!ENTITY fullScreenExit.label "Volledigschermmodus verlaten">
 <!ENTITY fullScreenExit.accesskey "d">
-<!ENTITY domFullScreenWarning.label "Druk op ESC om de volledigschermmodus te verlaten">
+<!ENTITY fullscreenAllowButton.label "Toestaan">
+<!ENTITY fullscreenExitButton.label "Weigeren">
+<!ENTITY fullscreenApproval.value "volledigscherm toestaan?">
+<!ENTITY fullscreenExitHint.value "Druk op ESC om volledig scherm te verlaten.">
 
 <!ENTITY closeWindow.label "Venster sluiten">
 <!ENTITY closeWindow.accesskey "e">
@@ -221,6 +224,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "Inspector sluiten">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Developer werkbalk sluiten">
+<!ENTITY devToolbarMenu.label "Developer werkbalk">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.commandkey "v">
+
+<!ENTITY webConsoleButton.label "Webconsole">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY scriptsButton.label "Scripts">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Binnenste HTML kopiëren">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "i">
 
@@ -229,6 +241,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "Node verwijderen">
 <!ENTITY inspectorHTMLDelete.accesskey      "v">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "Inspector-opties">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "Dim The Page">
+<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleInfobar.label       "Node-info tonen">
+<!ENTITY inspectorToggleInfobar.accesskey   "t">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the

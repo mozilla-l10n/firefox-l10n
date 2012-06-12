@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Ongewensteberichteninstellingen">
-<!ENTITY trainingWarning.label "Indien geactiveerd, moet &brandShortName; eerst worden getraind in het identificeren van ongewenste berichten. Dit gebeurt door met de werkbalkknop “Ongewenst” aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren.">
+<!ENTITY trainingDescription.label "Indien geactiveerd, moet &brandShortName; eerst worden getraind in het identificeren van ongewenste berichten. Dit gebeurt door met de werkbalkknop “Ongewenst” aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren. Daarna zal &brandShortName; ongewenste berichten automatisch kunnen markeren.">
 <!ENTITY level.label "Zelflerende ongewensteberichtendetectie voor deze account activeren">
 <!ENTITY level.accesskey "Z">
 
@@ -13,8 +13,12 @@
 <!ENTITY purge1.accesskey "d">
 <!ENTITY purge2.label "dagen automatisch uit deze map verwijderen">
 
-<!ENTITY whitelist.label "Berichten niet als ongewenst markeren als de afzender voorkomt in mijn: ">
-<!ENTITY whitelist.accesskey "m">
+<!ENTITY whitelistHeader.label "Berichten niet automatisch als ongewenst markeren als de afzender voorkomt in mijn: ">
+<!ENTITY whitelistHeader.accesskey "m">
 
+<!ENTITY ispHeadersWarning.label "Indien geactiveerd, zal &brandShortName; automatisch berichten gemarkeerd door deze externe classifier overwegen als ongewenst.">
 <!ENTITY ispHeaders.label "Ongewenstberichtkopregels vertrouwen die zijn ingesteld door: ">
 <!ENTITY ispHeaders.accesskey "u">
+
+<!ENTITY junkClassification.label "Selectie">
+<!ENTITY junkActions.label "Doel en behoud">

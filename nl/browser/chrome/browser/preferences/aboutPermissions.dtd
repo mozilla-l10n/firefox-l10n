@@ -35,3 +35,5 @@
 <!ENTITY indexedDB.label                 "Offlineopslag onderhouden">
 
 <!ENTITY popup.label                     "Pop-upvensters openen">
+
+<!ENTITY fullscreen.label                "Volledig scherm">

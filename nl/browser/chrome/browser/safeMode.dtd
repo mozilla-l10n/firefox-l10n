@@ -37,28 +37,18 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; Veilige modus">
-<!ENTITY window.width                 "37em">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; is onverwacht gesloten tijdens het opstarten">
-<!ENTITY autoSafeModeDescription.label "Onze welgemeende excuses voor het ongemak. &brandShortName; werkt nu in veilige modus, waardoor uw persoonlijke instellingen, thema’s en extensies tijdelijk zijn uitgeschakeld.">
+<!ENTITY startSafeMode.label          "In veilige modus starten">
+<!ENTITY resetProfile.label           "&brandShortName; herinitialiseren">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; werkt nu in veilige modus, waardoor uw persoonlijke instellingen, thema’s en extensies tijdelijk zijn uitgeschakeld.">
-<!ENTITY safeModeDescription2.label   "U kunt alle of enkele van deze wijzigingen permanent maken:">
+<!ENTITY safeModeDescription3.label   "Veilige modus is een speciale modus van &brandShortName; om probelen te onderzoeken.">
+<!ENTITY safeModeDescription4.label   "Uw add-ons en persoonlijke instellingen worden tijdelijk uitgeschakeld.">
 
-<!ENTITY disableAddons.label          "Alle add-ons uitschakelen">
-<!ENTITY disableAddons.accesskey      "A">
+<!ENTITY resetProfileInstead.label    "U kunt &brandShortName; ook herinitialiseren als u schone start wilt maken.">
 
-<!ENTITY resetToolbars.label          "Werkbalken en bedieningen herinitialiseren">
-<!ENTITY resetToolbars.accesskey      "W">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; is onverwacht gesloten tijdens het opstarten. Dit kan veroorzaakt worden door een add-ons of een ander probleem. U kunt proberen het probleem op te lossen door &brandShortName; te herinitialiseren naar de standaardwaarden of door fout te zoeken in de veilige modus.">
+<!ENTITY resetProfileFooter.label       "Al het andere zal worden geherinitialiseerd naar de fabriekswaarden.">
+<!ENTITY safeModeInstead.label          "Als u dat niet wilt kunt u doorgaan in de veilige modus en daar fout te zoeken met uw add-ons en persoonlijke instellingen tijdelijk uitgeschakeld.">
 
-<!ENTITY deleteBookmarks.label        "Alle bladwijzers verwijderen, behalve reservekopieën">
-<!ENTITY deleteBookmarks.accesskey    "b">
-
-<!ENTITY resetUserPrefs.label         "Alle gebruikersvoorkeuren naar &brandShortName;-standaardwaarden terugzetten">
-<!ENTITY resetUserPrefs.accesskey     "v">
-
-<!ENTITY restoreSearch.label          "Standaard zoekmachines herstellen">
-<!ENTITY restoreSearch.accesskey      "S">
-
-<!ENTITY changeAndRestartButton.label "Wijzigingen doorvoeren en herstarten">
-<!ENTITY continueButton.label         "Doorgaan in veilige modus">

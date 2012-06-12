@@ -3,8 +3,8 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Instellingen voor uitgaande server (SMTP)">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Hoewel u meer dan één uitgaande server (SMTP) kunt opgeven, wordt dit alleen aangeraden voor ervaren gebruikers. Instellen van meerdere SMTP-servers kan fouten veroorzaken bij het verzenden van berichten.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Bij het beheren van uw identiteiten kunt u een server van deze lijst gebruiken door het te selecteren als de uitgaande server (SMTP) of u kunt de standaardserver van deze lijst gebruiken door &quot;Standaardserver gebruiken&quot; te selecteren.">
 
 <!ENTITY smtpListAdd.label "Toevoegen…">
 <!ENTITY smtpListAdd.accesskey "T">
