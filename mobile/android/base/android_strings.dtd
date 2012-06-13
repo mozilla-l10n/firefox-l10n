@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+    - License, v. 2.0. If a copy of the MPL was not distributed with this
+    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  splash_settingup "Uw &brandShortName; instellen">
 <!ENTITY  splash_bookmarks_history "We werken uw bladwijzers en geschiedenis bij, wat enkele minuten kan duren.">
@@ -119,6 +122,7 @@
 <!ENTITY add_to_reading_list "Aan leeslijst toevoegen">
 <!ENTITY reading_list_added "Pagina toegevoegd aan uw leeslijst">
 <!ENTITY reading_list_removed "Pagina verwijderd van uw leeslijst">
+<!ENTITY reading_list_failed "Pagina toegevoegen aan uw leeslijst mislukt">
 <!ENTITY reader_mode "Leesmodus">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
