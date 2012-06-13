@@ -101,6 +101,9 @@
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan startpagina">
 <!ENTITY contextmenu_share "Delen">
+<!ENTITY contextmenu_pasteandgo "Plakken &amp; Gaan">
+<!ENTITY contextmenu_paste "Plakken">
+<!ENTITY contextmenu_copyurl "Adres kopiëren">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
 
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
