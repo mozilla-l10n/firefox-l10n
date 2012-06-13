@@ -1,5 +1,5 @@
-<!ENTITY adaptiveJunkLog.title "Dades d'entrenament del correu brossa">
-<!ENTITY adaptiveJunkLogInfo.label "Registre de les dades d'entrenament del correu brossa.">
+<!ENTITY junkLog.title "Registre de correu brossa">
+<!ENTITY junkLogInfo.label "Registre del control d'activitat del correu brossa">
 <!ENTITY clearLog.label "Buida el registre">
 <!ENTITY clearLog.accesskey "B">
 <!ENTITY closeLog.label "Tanca">
