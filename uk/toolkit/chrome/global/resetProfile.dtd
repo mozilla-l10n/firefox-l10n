@@ -9,5 +9,5 @@
 <!ENTITY resetProfile.dialog.button.label "Скинути &brandShortName;">
 
 <!ENTITY resetProfile.title               "Скинути &brandShortName; до типового стану">
-<!ENTITY resetProfile.description         "Якщо ви зіткнулись з серйозними проблемами котре не вдається вирішити, почніть все наново лише з найнеобхіднішими даними.">
+<!ENTITY resetProfile.description         "Якщо ви зіткнулись з серйозними проблемами котрі не вдається вирішити, почніть все наново лише з найнеобхіднішими даними.">
 <!ENTITY resetProfile.button.label        "Скинути &brandShortName;">
