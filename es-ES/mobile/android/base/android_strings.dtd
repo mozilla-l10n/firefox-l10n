@@ -103,6 +103,7 @@
 <!ENTITY add_to_reading_list "Añadir a la lista de lectura">
 <!ENTITY reading_list_added "Página añadida a su Lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de su Lista de lectura">
+<!ENTITY reading_list_failed "Ha fallado la adición de esta página a su Lista de lectura">
 <!ENTITY reader_mode "Modo lectura">
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">

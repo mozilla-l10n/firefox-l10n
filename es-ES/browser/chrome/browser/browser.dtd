@@ -166,9 +166,9 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
-<!ENTITY responsiveUI.label "Modo líquido">
-<!ENTITY responsiveUI.accesskey "q">
-<!ENTITY responsiveUI.commandkey "M">
+<!ENTITY responsiveDesignTool.label "Vista de diseño líquido">
+<!ENTITY responsiveDesignTool.accesskey "ñ">
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY scratchpad.label "Borrador">
 <!ENTITY scratchpad.accesskey "b">
 <!ENTITY scratchpad.keycode "VK_F4">
