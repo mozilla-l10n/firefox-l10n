@@ -66,20 +66,33 @@
 <!ENTITY calendar.events.filter.next31Days.label        "Sündmused lähima 31 päeva jooksul">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Selle kuu sündmused">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Valmis">
-<!ENTITY calendar.unifinder.tree.priority.label      "Prioriteet">
-<!ENTITY calendar.unifinder.tree.title.label         "Pealkiri">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; tehtud">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Algus">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Lõpp">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Tähtaeg">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Täidetud">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategooria">
-<!ENTITY calendar.unifinder.tree.location.label      "Asukoht">
-<!ENTITY calendar.unifinder.tree.status.label        "Seisund">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Kalendri nimi">
-<!ENTITY calendar.unifinder.tree.duration.label      "Tähtajani">
-<!ENTITY calendar.unifinder.close.tooltip            "Sulge sündmuste otsing ja nimekiri">
+<!ENTITY calendar.unifinder.tree.done.label              "Valmis">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Klõpsa lõpetatuse järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.priority.label          "Prioriteet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klõpsa prioriteedi järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.title.label             "Pealkiri">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Klõpsa pealkirja järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; tehtud">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klõpsa tehtud &#37; järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Algus">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klõpsa alguse järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Lõpp">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klõpsa lõpu järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Tähtaeg">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klõpsa tähtaja järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "Täidetud">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klõpsa lõpetamise järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.categories.label        "Kategooria">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klõpsa kategooria järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.location.label          "Asukoht">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Klõpsa asukoha järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.status.label            "Seisund">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Klõpsa seisundi järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Kalendri nimi">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klõpsa kalendri nime järgi sortimiseks">
+<!ENTITY calendar.unifinder.tree.duration.label          "Tähtajani">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klõpsa tähtajani jäänud aja järgi sortimiseks">
+<!ENTITY calendar.unifinder.close.tooltip                "Sulge sündmuste otsing ja nimekiri">
 
 <!ENTITY calendar.today.button.tooltip            "Tänase päeva juurde" >
 <!ENTITY calendar.todaypane.button.tooltip        "Näita tänaste tegemiste paneeli" >
