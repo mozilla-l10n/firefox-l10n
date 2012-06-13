@@ -112,7 +112,10 @@
 <!ENTITY site_settings_clear        "Wissen">
 <!ENTITY site_settings_no_settings  "Er zijn geen instellingen om te wissen.">
 
+<!ENTITY add_to_reading_list "Aan leeslijst toevoegen">
+<!ENTITY reading_list_added "Pagina toegevoegd aan uw leeslijst">
 <!ENTITY reading_list_removed "Pagina verwijderd van uw leeslijst">
+<!ENTITY reader_mode "Leesmodus">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
 <!ENTITY masterpassword_remove_title "Hoofdwachtwoord verwijderen">
