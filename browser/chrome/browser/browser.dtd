@@ -213,16 +213,22 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Дослідити">
-<!ENTITY inspectButton.accesskey        "Д">
 <!ENTITY inspectCloseButton.tooltiptext "Закрити Дослідника">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Копіювати внутрішній HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "в">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Копіювати зовнішній HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "з">
+
+<!ENTITY inspectorHTMLDelete.label          "Видалити вузол">
+<!ENTITY inspectorHTMLDelete.accesskey      "д">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
-<!ENTITY inspect3DViewButton.label     "3D Вид">
-<!ENTITY inspect3DViewButton.accesskey "В">
+<!ENTITY inspect3DViewButton.label     "3D вид">
+<!ENTITY inspect3DViewButton.accesskey "и">
 
 <!ENTITY inspectStyleButton.label     "Стиль">
 <!ENTITY inspectStyleButton.accesskey "С">
@@ -274,7 +280,7 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.label               "Вичистити недавню історію…">
 <!ENTITY clearRecentHistory.accesskey           "ч">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Увімкнути потайливий режим">
 <!ENTITY privateBrowsingCmd.start.accesskey     "П">
 <!ENTITY privateBrowsingCmd.stop.label          "Вимкнути потайливий режим">
@@ -599,3 +605,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Закрити панель додатків">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "M">
