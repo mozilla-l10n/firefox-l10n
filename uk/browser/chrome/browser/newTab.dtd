@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Нова вкладка">
-
-<!ENTITY newtab.show "Показувати сторінку Нової вкладки">
-<!ENTITY newtab.hide "Сховати сторінку Нової вкладки">
-<!ENTITY newtab.reset "Скинути сторінку Нової вкладки">

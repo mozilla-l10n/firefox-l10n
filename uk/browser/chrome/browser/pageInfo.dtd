@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Встановлювати куки">
 <!ENTITY  permInstall           "Встановлювати розширення та теми">
 <!ENTITY  permGeo               "Дізнаватись місцезнаходження">
+<!ENTITY  permPlugins           "Активувати плагіни">
 
 <!ENTITY  permIndexedDB              "Втримувати позамережне сховище">
 <!ENTITY  permClearStorage           "Очистити сховище">

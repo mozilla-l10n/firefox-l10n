@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Сервер">
-<!ENTITY serverType.main.label      "Сервер &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Типово: Сервер Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Використати інший сервер…">
 <!ENTITY signIn.account2.label      "Обліковий запис">
 <!ENTITY signIn.account2.accesskey  "З">
@@ -56,7 +56,7 @@
 <!ENTITY pairDevice.title.label             "Під’єднати пристрій">
 <!ENTITY addDevice.showMeHow.label          "Покажіть мені як.">
 <!ENTITY addDevice.dontHaveDevice.label     "Я не маю пристрою з собою">
-<!ENTITY pairDevice.setup.description.label  "Щоб активувати, виберіть &#x0022;Під’єднати пристрій&#x0022; на вашому іншому пристрою.">
+<!ENTITY pairDevice.setup.description.label  "Щоб активувати, виберіть &#x0022;Під’єднати пристрій&#x0022; на вашому іншому пристрої.">
 <!ENTITY addDevice.setup.enterCode.label    "Тоді, уведіть цей код:">
 <!ENTITY pairDevice.dialog.description.label "Щоб активувати ваш новий пристрій, виберіть &#x0022;Налаштувати Синхронізацію&#x0022; на ньому.">
 <!ENTITY addDevice.dialog.enterCode.label   "Уведіть код, що надає пристрій:">
