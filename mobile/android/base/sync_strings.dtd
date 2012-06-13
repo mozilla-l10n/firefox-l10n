@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -77,3 +81,12 @@
 <!ENTITY sync.invalidserver.label 'Voer een geldige server-URL in'>
 <!ENTITY sync.verifying.label 'Verifiëren…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Herstelsleutel onjuist. Probeer het opnieuw.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Tabblad naar apparaten verzenden'>
+<!ENTITY sync.button.send.label 'Verzenden'>
+<!ENTITY sync.button.setup.label 'Sync configureren'>
+<!ENTITY sync.button.continue.browsing.label 'Doorgaan met navigeren'>
+<!ENTITY sync.title.redirect.to.setup.label 'Sync instellen om tabbladen te verzenden'>
+<!ENTITY sync.text.redirect.to.setup.label 'Firefox Sync instellen op uw apparaat om tabbladen naar andere apparaten te verzenden.'>
+<!ENTITY sync.text.tab.sent.label 'Uw tabblad is verzonden!'>
