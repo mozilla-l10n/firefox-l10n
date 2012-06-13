@@ -358,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Відповісти відправнику">
 <!ENTITY replySenderCmd.accesskey "і">
-<!ENTITY replyNewsgroupCmd.label "Відповісти у групу новин">
-<!ENTITY replyNewsgroupCmd.accesskey  "г">
+<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Відповісти всім">
 <!ENTITY replyToAllMsgCmd.accesskey  "с">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -498,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "І">
 <!ENTITY errorConsoleCmd.label "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Параметри облікового запису…">
 <!ENTITY accountManagerCmd.accesskey "П">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -692,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Відповісти відправнику">
 <!ENTITY contextReplySender.accesskey "В">
-<!ENTITY contextReplyNewsgroup.label "Відповісти в групу новин">
-<!ENTITY contextReplyNewsgroup.accesskey "г">
+<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Відповісти всім">
 <!ENTITY contextReplyAll.accesskey "В">
 <!ENTITY contextReplyList.label "Відповісти списку">

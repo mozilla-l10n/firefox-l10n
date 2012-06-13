@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Відповісти відправнику та всім отримувачам">
 <!ENTITY hdrReplyListButton1.label "Відповісти списку">
 <!ENTITY hdrReplyListButton1.tooltip "Відповісти списку розсилки">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
 <!ENTITY hdrForwardButton1.label "Переслати">
 <!ENTITY hdrForwardButton1.tooltip "Переслати цей лист">
 <!ENTITY hdrJunkButton1.label "Спам">

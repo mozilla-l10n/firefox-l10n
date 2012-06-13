@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Параметри облікового запису">
-<!ENTITY accountSettingsDesc.label "Цей обліковий запис особливий. З ним не пов’язані жодні персональні дані.">
 <!ENTITY accountName.label "Назва облікового запису:">
 <!ENTITY accountName.accesskey "І">
-<!ENTITY messageStorage.label "Сховище листів">
-<!ENTITY emptyTrashOnExit.label "Очищати «Кошик» при виході">
-<!ENTITY emptyTrashOnExit.accesskey "ч">
-<!ENTITY localPath.label "Локальна тека:">
-<!ENTITY localFolderPicker.label "Розташування локальних тек">
-<!ENTITY browseFolder.label "Огляд…">
-<!ENTITY browseFolder.accesskey "О">
