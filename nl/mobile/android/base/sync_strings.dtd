@@ -67,6 +67,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Ongesorteerde bladwijzers'>
 <!ENTITY bookmarks.folder.desktop.label 'Desktop-bladwijzers'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobiel-bladwijzers'>
+<!ENTITY bookmarks.folder.readinglist.label 'Leeslijst'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Er wordt maar één &syncBrand.fullName.label;-account ondersteund.'>
