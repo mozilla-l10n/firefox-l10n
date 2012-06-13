@@ -77,6 +77,7 @@
 <!ENTITY pref_font_size_xlarge "Extra groot">
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
 
 <!ENTITY quit "Afsluiten">
 
