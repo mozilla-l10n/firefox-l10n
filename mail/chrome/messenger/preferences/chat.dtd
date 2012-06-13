@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Коли &brandShortName; запускається:">
+<!ENTITY  startupAction.accesskey     "з">
+<!ENTITY  startupOffline.label        "Тримати мої чатові облікові записи в офлайні">
+<!ENTITY  startupConnectAuto.label    "Під'єднати мої облікові записи автоматично">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Дозволити моїм контактам знати, що я бездіяльний після">
+<!ENTITY  reportIdleAfter.accesskey     "я">
+<!ENTITY  idleTime                      "хвилин неактивності">
+
+<!ENTITY  andSetStatusToAway.label      "та встановлювати мені статус Відійшов із повідомленням статусу:">
+<!ENTITY  andSetStatusToAway.accesskey  "В">
+
+<!ENTITY  sendTyping.label              "Надсилати сповіщення про набір у бесідах">
+<!ENTITY  sendTyping.accesskey          "н">
