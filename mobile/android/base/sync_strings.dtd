@@ -40,9 +40,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Set-up voltooid'>
-<!ENTITY sync.subtitle.success.label 'Uw gegevens worden nu op de achtergrond gedownload. U kunt naar Instellingen gaan om uw account te beheren.'>
+<!ENTITY sync.subtitle.success.label1 'Uw gegevens worden nu op de achtergrond gedownload. U kunt naar Instellingen gaan om uw account te beheren of start navigeren met &brandShortName;.'>
 <!ENTITY sync.settings.label 'Instellingen'>
-<!ENTITY sync.subtitle.manage.label 'Uw &syncBrand.fullName.label;-account is al geconfigureerd. Ga naar Instellingen om uw account te beheren.'>
+<!ENTITY sync.subtitle.manage.label1 'Uw &syncBrand.fullName.label;-account is al geconfigureerd. Ga naar Instellingen om uw account te beheren of start &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probeer het opnieuw.'>
