@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Підписки на стрічки">
-<!ENTITY subscriptionDesc.label "Примітка: вилучення чи зміна теки RSS-каналу не вплине на раніше завантажені статті.">
-<!ENTITY feedTitle.label "Заголовок:">
-<!ENTITY location.label  "Адреса:">
+<!ENTITY feedSubscriptions.label     "Підписки на стрічки">
+<!ENTITY subscriptionDesc.label      "Примітка: вилучення чи зміна теки RSS-каналу не вплине на раніше завантажені статті.">
 
-<!ENTITY button.addFeed.label       "Додати">
-<!ENTITY button.addFeed.accesskey   "Д">
-<!ENTITY button.editFeed.label      "Змінити">
-<!ENTITY button.editFeed.accesskey  "З">
-<!ENTITY button.removeFeed.label "Вилучити">
-<!ENTITY button.removeFeed.accesskey   "В">
-<!ENTITY button.importOPML.label "Імпорт">
-<!ENTITY button.importOPML.accesskey   "І">
-<!ENTITY button.exportOPML.label "Експорт">
-<!ENTITY button.exportOPML.accesskey   "Е">
+<!ENTITY feedTitle.label             "Заголовок:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+
+<!ENTITY feedFolder.label            "Store Articles in:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+
+<!ENTITY button.addFeed.label        "Додати">
+<!ENTITY button.addFeed.accesskey    "Д">
+<!ENTITY button.editFeed.label       "Змінити">
+<!ENTITY button.editFeed.accesskey   "З">
+<!ENTITY button.removeFeed.label     "Вилучити">
+<!ENTITY button.removeFeed.accesskey "В">
+<!ENTITY button.importOPML.label     "Імпорт">
+<!ENTITY button.importOPML.accesskey "І">
+<!ENTITY button.exportOPML.label     "Експорт">
+<!ENTITY button.exportOPML.accesskey "Е">
+
+<!ENTITY cmd.close.commandKey        "w">
