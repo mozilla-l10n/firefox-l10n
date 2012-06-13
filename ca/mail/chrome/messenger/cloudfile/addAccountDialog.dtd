@@ -3,11 +3,11 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY addAccountDialog.title   "Opcions d'enviament">
 <!ENTITY addAccountDialog.menuTitle "Trieu un servei d'emmagatzematge en línia">
-<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
-<!ENTITY addAccountDialog.accountName.label "Account Name:">
-<!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
+<!ENTITY addAccountDialog.style "width: 55em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Nom del compte:">
+<!ENTITY addAccountDialog.noAccountText "La versió actual del &brandShortName; només permet un compte per cada servei d'emmagatzemament en línia.">
 <!ENTITY addAccountDialog.createAccountText2 "Podeu enviar fitxers adjunts mitjançant un web de compartició de fitxers. Configureu un compte ja existent o creeu-ne un de nou.">
-<!ENTITY addAccountDialog.authorizing "Checking authorization...">
-<!ENTITY addAccountDialog.error "An error occurred while setting up the account!">
-<!ENTITY addAccountDialog.acceptButton.label "Set up Account">
+<!ENTITY addAccountDialog.authorizing "S'està comprovant l'autorització…">
+<!ENTITY addAccountDialog.error "S'ha produït un error mentre es configurava el compte!">
+<!ENTITY addAccountDialog.acceptButton.label "Configura un compte">
 <!ENTITY addAccountDialog.learnMore "Més informació...">
