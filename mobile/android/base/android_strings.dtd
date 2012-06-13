@@ -131,6 +131,7 @@
 <!ENTITY add_to_reading_list "Lägg till i läslistan">
 <!ENTITY reading_list_added "Sidan finns nu i din läslista">
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
+<!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
 <!ENTITY reader_mode "Läsläge">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
