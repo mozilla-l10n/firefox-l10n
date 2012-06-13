@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "н">
 <!ENTITY markAsReadOnSpam.label "Відмітити такі листи прочитаними">
 <!ENTITY markAsReadOnSpam.accesskey "ч">
-<!ENTITY enableJunkLogging.label "Ввімкнути журнал спам-фільтру">
-<!ENTITY enableJunkLogging.accesskey "ж">
+<!ENTITY enableAdaptiveJunkLogging.label "Увімкнути журнал роботи адаптивного анти-спам фільтра">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "ж">
 <!ENTITY openJunkLog.label "Показати журнал">
 <!ENTITY openJunkLog.accesskey "к">
 <!ENTITY resetTrainingData.label "Скинути дані тренувань">

@@ -5,17 +5,18 @@
 <!ENTITY feedTitle.label             "Заголовок:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.label          "URL стрічки:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+<!ENTITY feedLocation.placeholder    "Введіть дійсну адресу стрічки, котру треба додати">
 
-<!ENTITY feedFolder.label            "Store Articles in:">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.label            "Зберігати статті в:">
+<!ENTITY feedFolder.accesskey        "з">
 
-<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey         "h">
+<!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження веб-сторінки">
+<!ENTITY quickMode.accesskey         "к">
 
-<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+<!ENTITY locationValidate.label      "Перевірити">
+<!ENTITY validateText.label          "Перевірити правильність і завантажити дійсний url.">
 
 <!ENTITY button.addFeed.label        "Додати">
 <!ENTITY button.addFeed.accesskey    "Д">
