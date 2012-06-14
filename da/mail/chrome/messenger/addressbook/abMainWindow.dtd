@@ -121,7 +121,7 @@
 <!ENTITY preferencesCmdUnix.label "Præferencer">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
-<!-- Address Book Toolbar and Context Menus --> 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Ny kontakt">
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label "Ny mailingliste">
@@ -158,8 +158,8 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Mail">
 <!ENTITY PrimaryEmail.accesskey "M">
-<!ENTITY ScreenName.label "Skærmnavn">
-<!ENTITY ScreenName.accesskey "æ">
+<!ENTITY ChatName.label                                 "Chat-navn">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label "Organisation">
 <!ENTITY Company.accesskey "g">
 <!ENTITY NickName.label "Alias">
@@ -192,6 +192,7 @@
 <!ENTITY contact.heading        "Kontakt">
 <!ENTITY home.heading "Hjem">
 <!ENTITY other.heading "Andet">
+<!ENTITY chat.heading  "Chat">
 <!ENTITY phone.heading "Telefon">
 <!ENTITY work.heading "Arbejde">
 <!-- Special Box Headings, for mailing lists -->

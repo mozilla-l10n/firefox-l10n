@@ -13,8 +13,6 @@
 <!ENTITY releaseCmd2.accesskey "U">
 <!ENTITY whatsNewCmd.label "Hvad er nyt">
 <!ENTITY whatsNewCmd.accesskey "v">
-<!ENTITY featureConfiguratorCmd.label "Nye funktioner">
-<!ENTITY featureConfiguratorCmd.accesskey "N">
 <!ENTITY openHelp.label "Emner i Hjælp">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">

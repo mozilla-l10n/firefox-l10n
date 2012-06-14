@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
- 
+
 <!ENTITY Contact.tab 						"Kontakt">
 <!ENTITY Contact.accesskey           	    "K">
 <!ENTITY Name.box 							"Navn">
@@ -78,8 +78,7 @@
 <!ENTITY PlainText.label 				"Ren tekst">
 <!ENTITY HTML.label 					"HTML">
 <!ENTITY Unknown.label 					"Ukendt">
-<!ENTITY ScreenName.label 				"Skærmnavn:">
-<!ENTITY ScreenName.accesskey 			"æ">
+<!ENTITY chatName.label                 "Chat-navn:">
 
 <!ENTITY allowRemoteContent1.label      "Tillad eksternt indhold.">
 <!ENTITY allowRemoteContent1.accesskey  "T">
@@ -155,6 +154,25 @@
 <!ENTITY Custom4.accesskey 				"4">
 <!ENTITY Notes.label                    "Noter:">
 <!ENTITY Notes.accesskey                "e">
+
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
