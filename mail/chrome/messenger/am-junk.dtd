@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Spam-indstillinger">
-<!ENTITY trainingWarning.label "Hvis funktionen aktiveres, skal &brandShortName; først lære at identificere spam ved at du benytter spam-knapperne til at markere, hvilke meddelelser som er spam og ikke-spam.">
+<!ENTITY trainingWarning.label "Hvis funktionen aktiveres, skal &brandShortName; først lære at identificere spam ved at du benytter spam-knapperne til at markere, hvilke meddelelser som er spam og ikke-spam. Herefter vil &brandShortName; være i stand til automatisk at markere spam.">
 <!ENTITY level.label "Aktiver evalueringsfilter mod spam for denne konto">
 <!ENTITY level.accesskey "A">
 <!ENTITY move.label "Flyt nye spam-meddelelser til:">
@@ -11,7 +11,12 @@
 <!ENTITY purge1.label "Slet automatisk spam ældre end">
 <!ENTITY purge1.accesskey "l">
 <!ENTITY purge2.label "dage">
-<!ENTITY whitelist.label "Marker ikke meddelelser som spam, hvis afsenderen står i:">
-<!ENTITY whitelist.accesskey "i">
+<!ENTITY whitelistHeader.label "Marker ikke meddelelser som spam, hvis afsenderen står i: ">
+<!ENTITY whitelistHeader.accesskey "i">
+
+<!ENTITY ispHeadersWarning.label "Hvis funktionen aktiveres, vil &brandShortName automatisk behandle meddelelser, der er markeret af denne tjeneste, som spam.">
 <!ENTITY ispHeaders.label "Stol på serverevalueringer:">
 <!ENTITY ispHeaders.accesskey "t">
+
+<!ENTITY junkClassification.label "Markerede">
+<!ENTITY junkActions.label "Destination og opbevaring">

@@ -24,8 +24,8 @@
 <!ENTITY HomePhone.accesskey "H">
 <!ENTITY WorkPhone.label "Arbejdstelefon">
 <!ENTITY WorkPhone.accesskey "A">
-<!ENTITY ScreenName.label "Skærmnavn">
-<!ENTITY ScreenName.accesskey "æ">
+<!ENTITY ChatName.label "Chat-navn">
+<!ENTITY ChatName.accesskey "C">
 <!ENTITY sortAscending.label "Stigende">
 <!ENTITY sortAscending.accesskey "S">
 <!ENTITY sortDescending.label "Faldende">
