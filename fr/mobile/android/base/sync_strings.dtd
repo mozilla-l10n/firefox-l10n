@@ -74,13 +74,16 @@
 <!ENTITY sync.notification.oneaccount.label 'Un seul compte &syncBrand.fullName.label; peut être géré.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Le nom du compte ou le mot de passe est incorrect.'>
+<!ENTITY sync.invalidserver.label 'Veuillez saisir une URL de serveur valide'>
+<!ENTITY sync.verifying.label 'Vérification…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Clé de récupération incorrecte. Veuillez réessayer.'>
 
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label 'Envoyer un onglet à tous les appareils'>
 <!ENTITY sync.button.send.label 'Envoyer'>
-<!ENTITY sync.button.setup.label 'Configurer &syncBrand.shortName.label;'>
+<!ENTITY sync.button.setup.label 'Configurer Sync'>
 <!ENTITY sync.button.continue.browsing.label 'Poursuivre la navigation'>
-<!ENTITY sync.title.redirect.to.setup.label 'Configurer &syncBrand.shortName.label; pour l\u0027envoi d\u0027onglets'>
-<!ENTITY sync.text.redirect.to.setup.label 'Configurez &syncBrand.fullName.label; sur votre appareil afin qu\u0027il puisse envoyer des onglets à d\u0027autres appareils.'>
+<!ENTITY sync.title.redirect.to.setup.label 'Configurer Sync pour l\u0027envoi d\u0027onglets'>
+<!ENTITY sync.text.redirect.to.setup.label 'Configurez Firefox Sync sur votre appareil afin qu\u0027il puisse envoyer des onglets à d\u0027autres appareils.'>
 <!ENTITY sync.text.tab.sent.label 'Votre onglet a été envoyé !'>
