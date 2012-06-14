@@ -37,28 +37,17 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title         "Modus segirà da &brandShortName;">
-<!ENTITY window.width                 "37em">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; è sa serrà nunspetgadamain durant aviar">
-<!ENTITY autoSafeModeDescription.label "Perstgisa quest incap. &brandShortName; è ussa en il modus segirà che deactivescha temporarmain tias preferenzas persunalas, tes designs e tias extensiuns.">
+<!ENTITY startSafeMode.label          "Aviar en il modus segirà">
+<!ENTITY resetProfile.label           "Redefinir &brandShortName;">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; sa chatta actualmain en il modus segirà. Tut las preferenzas persunalisadas, ils designs e las extensiuns èn vegnids deactivads temporarmain.">
-<!ENTITY safeModeDescription2.label   "Ti pos mantegnair tuttas u intginas da questas midadas:">
+<!ENTITY safeModeDescription3.label   "Il modus segirà è in modus spezial da &brandShortName; che po vegnir utilisà per schliar problems.">
+<!ENTITY safeModeDescription4.label   "Tes supplements e tias preferenzas persunalas vegnan deactivadas temporarmain.">
 
-<!ENTITY disableAddons.label          "Deactivar tut ils supplements">
-<!ENTITY disableAddons.accesskey      "t">
+<!ENTITY resetProfileInstead.label    "Ti pos era redefinir &brandShortName; sche ti vuls cumenzar frestg.">
 
-<!ENTITY resetToolbars.label          "Redefinir tut las travs d'utensils">
-<!ENTITY resetToolbars.accesskey      "s">
-
-<!ENTITY deleteBookmarks.label        "Stizzar tut ils segnapaginas auter che las copias da segirezza">
-<!ENTITY deleteBookmarks.accesskey    "g">
-
-<!ENTITY resetUserPrefs.label         "Redefinir tut las preferenzas persunalisadas">
-<!ENTITY resetUserPrefs.accesskey     "R">
-
-<!ENTITY restoreSearch.label          "Restaurar las maschinas da tschertgar da standard">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "Exequir las midadas e reaviar">
-<!ENTITY continueButton.label         "Lavurar vinavant en il modus segirà">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; è sa serrà nunspetgadamain durant aviar. Quai pudess esser chaschunà da supplements u dad auters problems. Ti pos empruvar dad eliminar quest problem cun restaurar il stadi da standard da &brandShortName; u che ti pos era empruvar da schliar il problem en il modus segirà">
+<!ENTITY resetProfileFooter.label       "Tut il rest vegn mess sin il stadi da standard.">
+<!ENTITY safeModeInstead.label          "Sche ti na vuls betg quai pos ti cuntinuar en il modus segirà per far tias atgnas retschertgar durant che ils supplements e tias preferenzas persunalas restan temporarmain deactivadas.">
