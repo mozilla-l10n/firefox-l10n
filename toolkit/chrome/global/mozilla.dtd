@@ -1,18 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY mozilla.title
 'El libro de Mozilla, 11:9'>
 
-<!ENTITY mozilla.manifestoUrl
-'http://www.mozilla.org/about/manifesto.es.html'>
-
-<!ENTITY mozilla.aboutUrl
-'http://wiki.mozilla.org/About:mozilla'>
-
-<!ENTITY mozilla.quote2
+<!ENTITY mozilla.quote
 'Mammon se durmió. Y la <em>bestia renació</em>, propagándose por toda la Tierra, y sus seguidores
 fueron legión. Y proclamaron los nuevos tiempos y <em>sacrificaron</em> cosechas con fuego,
 con la <em>astucia de los zorros</em>. Y construyeron un nuevo mundo a su propia
-imagen como prometían las <em><a href="&mozilla.manifestoUrl;">palabras sagradas</a></em>
-y <em><a href="&mozilla.aboutUrl;">hablaron</a></em> de la bestia con sus hijos.
+imagen como prometían las <em><a href="http://www.mozilla.org/about/manifesto.es.html">palabras sagradas</a></em>
+y <em><a href="http://wiki.mozilla.org/About:mozilla">hablaron</a></em> de la bestia con sus hijos.
 Mammon se despertó y <em>súbitamente</em> no era más que un rezagado.'>
 
 <!ENTITY mozilla.from
