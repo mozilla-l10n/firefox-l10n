@@ -50,6 +50,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probeer het opnieuw.'>
+<!ENTITY sync.pair.connectlocation.label 'Selecteer “&syncBrand.shortName.label; instellen” op uw nieuwe apparaat en dan  “Ik heb een account.” om het te activeren'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opties'>
