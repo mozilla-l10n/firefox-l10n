@@ -104,6 +104,7 @@
 <!ENTITY find_close "Sluiten">
 
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
+<!ENTITY contextmenu_remove_history "Verwijderen">
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan startpagina">
 <!ENTITY contextmenu_share "Delen">
@@ -111,6 +112,10 @@
 <!ENTITY contextmenu_paste "Plakken">
 <!ENTITY contextmenu_copyurl "Adres kopiëren">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Pagina verwijderd">
 
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
 <!ENTITY bookmark_edit_name "Naam">
