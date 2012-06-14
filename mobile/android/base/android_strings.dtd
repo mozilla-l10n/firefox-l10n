@@ -131,6 +131,7 @@
 <!ENTITY add_to_reading_list "Agregar a la lista de lectura">
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
+<!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
 <!ENTITY reader_mode "Modo lector">
 
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
