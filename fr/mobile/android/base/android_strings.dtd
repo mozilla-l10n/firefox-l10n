@@ -79,6 +79,7 @@
 <!ENTITY pref_font_size_xlarge "Très grande">
 <!ENTITY pref_use_master_password "Mot de passe principal">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Afficher les suggestions de recherche">
 
 <!ENTITY quit "Quitter">
 
@@ -103,6 +104,9 @@
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
+<!ENTITY contextmenu_pasteandgo "Coller et ouvrir">
+<!ENTITY contextmenu_paste "Coller">
+<!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 
 <!-- Localization note (history_removed) : Shown in a toast notification
@@ -122,6 +126,7 @@
 <!ENTITY add_to_reading_list "Ajouter à la liste de lecture">
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
+<!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
 <!ENTITY reader_mode "Mode de lecture">
 
 <!ENTITY masterpassword_create_title "Créer un mot de passe principal">
