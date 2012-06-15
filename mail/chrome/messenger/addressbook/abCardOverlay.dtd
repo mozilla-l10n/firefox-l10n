@@ -78,8 +78,7 @@
 <!ENTITY PlainText.label                "Text senza formataziun">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "betg enconuschent">
-<!ENTITY ScreenName.label               "Num da messenger:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY chatName.label                 "Num da chat:">
 
 <!ENTITY allowRemoteContent1.label      "Permetter cuntegn extern.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -155,6 +154,25 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notizias:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "ID da Jabber:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Fotografia">
 <!ENTITY Photo.accesskey                "o">
