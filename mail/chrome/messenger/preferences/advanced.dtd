@@ -15,6 +15,11 @@
 <!ENTITY telemetryInfoLink.label "Plus de détails sur la métrologie">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
+<!ENTITY scrolling.label "Défilement">
+<!ENTITY useAutoScroll.label "Utiliser le défilement automatique">
+<!ENTITY useAutoScroll.accesskey "i">
+<!ENTITY useSmoothScrolling.label "Utiliser le défilement doux">
+<!ENTITY useSmoothScrolling.accesskey "l">
 <!ENTITY systemIntegration.label "Intégration système">
 <!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
 <!ENTITY alwaysCheckDefault.accesskey "T">
