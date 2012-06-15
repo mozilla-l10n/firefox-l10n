@@ -1,28 +1,28 @@
-<!ENTITY windowTitle.label            "Chat Account Wizard">
+<!ENTITY windowTitle.label            "Auxiliar de compte de xat">
 
-<!ENTITY accountProtocolTitle.label   "Chat network">
-<!ENTITY accountProtocolInfo.label    "Please choose the network of your chat account.">
-<!ENTITY accountProtocolField.label   "Network:">
-<!ENTITY accountProtocolGetMore.label "Get more…">
+<!ENTITY accountProtocolTitle.label   "Xarxa de xat">
+<!ENTITY accountProtocolInfo.label    "Trieu la xarxa del vostre compte de xat.">
+<!ENTITY accountProtocolField.label   "Xarxa:">
+<!ENTITY accountProtocolGetMore.label "Aconseguiu-ne més…">
 
-<!ENTITY accountUsernameTitle.label   "Username">
-<!ENTITY accountUsernameDuplicate.label "This account is already configured!">
+<!ENTITY accountUsernameTitle.label   "Nom d'usuari">
+<!ENTITY accountUsernameDuplicate.label "El compte ja està configurat!">
 
-<!ENTITY accountPasswordTitle.label   "Password">
-<!ENTITY accountPasswordInfo.label    "Please enter your password in the box below.">
-<!ENTITY accountPasswordField.label   "Password:">
-<!ENTITY accountPasswordManager.label "The password entered here will be stored in the Password Manager. Leave this box empty if you want to be prompted for your password each time this account is connected.">
+<!ENTITY accountPasswordTitle.label   "Contrasenya">
+<!ENTITY accountPasswordInfo.label    "Introduïu la contrasenya en el quadre a continuació.">
+<!ENTITY accountPasswordField.label   "Contrasenya:">
+<!ENTITY accountPasswordManager.label "La contrasenya que s'ha introduït s'emmagatzemarà en el gestor de contrasenya. Deixeu el quadre en blanc si voleu que se us demani la contrasenya cada vegada que es connecti amb aquest compte.">
 
-<!ENTITY accountAdvancedTitle.label   "Advanced Options">
-<!ENTITY accountAdvancedInfo.label    "Feel free to skip this step if you want to.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Notify on new Mail">
-<!ENTITY accountAliasGroupbox.caption "Local Alias">
-<!ENTITY accountAliasField.label      "Alias:">
-<!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
-<!ENTITY accountProxySettings.caption "Proxy Settings">
-<!ENTITY accountProxySettings.change.label     "Change…">
+<!ENTITY accountAdvancedTitle.label   "Opcions avançades">
+<!ENTITY accountAdvancedInfo.label    "Sentiu-vos lliure de saltar aquest pas si ho preferiu.">
+<!ENTITY accountAdvanced.newMailNotification.label   "Notifica amb el correu nou">
+<!ENTITY accountAliasGroupbox.caption "Àlies local">
+<!ENTITY accountAliasField.label      "Àlies:">
+<!ENTITY accountAliasInfo.label       "Només es mostrarà en les vostres converses quan sigueu el que parleu. Els contactes remots no ho veuran.">
+<!ENTITY accountProxySettings.caption "Paràmetres del servidor intermediari">
+<!ENTITY accountProxySettings.change.label     "Canvia…">
 <!ENTITY accountProxySettings.change.accessKey "C">
 
-<!ENTITY accountSummaryTitle.label   "Summary">
-<!ENTITY accountSummaryInfo.label    "A summary of the information you entered is displayed below. Please check it before the account is created.">
-<!ENTITY accountSummary.connectNow.label "Connect this account now.">
+<!ENTITY accountSummaryTitle.label   "Resum">
+<!ENTITY accountSummaryInfo.label    "Un resum de la informació que heu introduït es mostra a continuació. Comproveu-la abans de crear el compte.">
+<!ENTITY accountSummary.connectNow.label "Connecteu-vos al compte ara mateix.">
