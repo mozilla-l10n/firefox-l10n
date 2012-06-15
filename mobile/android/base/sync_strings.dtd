@@ -82,3 +82,12 @@
 <!ENTITY sync.invalidserver.label '請輸入一個有效的伺服器網址'>
 <!ENTITY sync.verifying.label '驗證中…'>
 <!ENTITY sync.new.recoverykey.status.incorrect '救援金鑰不正確，請再試一次。'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label '傳送分頁至您的裝置'>
+<!ENTITY sync.button.send.label '傳送'>
+<!ENTITY sync.button.setup.label '設定同步功能'>
+<!ENTITY sync.button.continue.browsing.label '繼續瀏覽'>
+<!ENTITY sync.title.redirect.to.setup.label '設定同步功能以傳送分頁'>
+<!ENTITY sync.text.redirect.to.setup.label '在您的裝置上設定 Firefox Sync 以將分頁傳送至其他裝置。'>
+<!ENTITY sync.text.tab.sent.label '已送出您的分頁！'>

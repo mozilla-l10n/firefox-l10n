@@ -131,6 +131,7 @@
 <!ENTITY add_to_reading_list "新增至閱讀清單">
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
+<!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
 <!ENTITY reader_mode "閱讀模式">
 
 <!ENTITY masterpassword_create_title "建立主控密碼">
