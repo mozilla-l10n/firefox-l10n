@@ -166,8 +166,8 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "t">
-<!ENTITY responsiveUI.label "Modo reattivo">
-<!ENTITY responsiveUI.accesskey "r">
+<!ENTITY responsiveUI.label "Modo flessibile">
+<!ENTITY responsiveUI.accesskey "f">
 <!ENTITY responsiveUI.commandkey "M">
 <!ENTITY scratchpad.label "Blocco per gli appunti">
 <!ENTITY scratchpad.accesskey "B">
