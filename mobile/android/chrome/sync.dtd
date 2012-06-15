@@ -13,15 +13,15 @@
 <!ENTITY sync.setup.manual          "Sync-Benutzerkonto-Daten eingeben">
 <!ENTITY sync.account               "Benutzerkonto-Name">
 <!ENTITY sync.password              "Passwort">
-<!ENTITY sync.recoveryKey           "Wiederherstellungs-Schlüssel">
+<!ENTITY sync.recoveryKey           "Wiederherstellungsschlüssel">
 <!ENTITY sync.customServer          "Eigenen Server verwenden">
-<!ENTITY sync.serverURL             "Server-URL">
+<!ENTITY sync.serverURL             "Server-Adresse">
 <!ENTITY sync.setup.connect         "Verbinden">
 <!ENTITY sync.setup.cancel          "Abbrechen">
 <!ENTITY sync.setup.tutorial        "Anleitung">
 <!ENTITY sync.setup.waiting2        "Warten auf anderes Gerät…">
 
 <!ENTITY sync.pair.title            "Gerät verbinden">
-<!ENTITY sync.pair.description      "Um Ihr neues Gerät zu aktivieren, wählen Sie &#x0022;Verbinden&#x0022; auf dem Gerät.">
+<!ENTITY sync.pair.description      "Um Ihr neues Gerät zu aktivieren, wählen Sie \&bdquo;Verbinden\&ldquo; auf dem Gerät.">
 <!ENTITY sync.setup.close           "Schließen">
 <!ENTITY sync.setup.waitingdownload "Ihre Daten werden nun im Hintergrund heruntergeladen. Sie können dieses Fenster jederzeit schließen.">
