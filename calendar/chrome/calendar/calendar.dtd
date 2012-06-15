@@ -67,18 +67,31 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Begivenheder for denne kalendermåned">
 
 <!ENTITY calendar.unifinder.tree.done.label "Færdig">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Klik for at sortere efter færdig">
 <!ENTITY calendar.unifinder.tree.priority.label "Prioritet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klik for at sortere efter prioritet">
 <!ENTITY calendar.unifinder.tree.title.label "Titel">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Klik for at sortere efter titel">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; færdig">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klik for at sortere efter  &#37; færdig">
 <!ENTITY calendar.unifinder.tree.startdate.label "Start">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klik for at sortere efter  start">
 <!ENTITY calendar.unifinder.tree.enddate.label "Slut">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klik for at sortere efter slut">
 <!ENTITY calendar.unifinder.tree.duedate.label "Forfalder">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klik for at sortere efter forfalder">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Færdiggjort">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "færdiggjort">
 <!ENTITY calendar.unifinder.tree.categories.label "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klik for at sortere efter kategori">
 <!ENTITY calendar.unifinder.tree.location.label "Sted">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Klik for at sortere efter sted">
 <!ENTITY calendar.unifinder.tree.status.label "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Klik for at sortere efter status">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Kalendernavn">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klik for at sortere efter kalendernavn">
 <!ENTITY calendar.unifinder.tree.duration.label "Varighed">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klik for at sortere efter varighed">
 <!ENTITY calendar.unifinder.close.tooltip "Luk begivenhedssøgning og begivenhedsoversigten">
 
 <!ENTITY calendar.today.button.tooltip "Gå til i dag">

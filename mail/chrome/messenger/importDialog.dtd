@@ -37,10 +37,10 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -49,6 +49,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.label         "Mail">
 <!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.label        "Feed-abonnementer">
+<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Adressebøger">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Indstillinger">
@@ -67,6 +69,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY selectDescription.label "Vælg den type fil, du ønsker at importere:">
 <!ENTITY selectDescription.accesskey "V">
+<!ENTITY selectDescriptionB.label "Vælg en eksisterende konto eller opret en ny konto:">
+<!ENTITY acctName.label           "Navn:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label "&lt; Tilbage">
 <!ENTITY forward.label "Næste &gt;">
