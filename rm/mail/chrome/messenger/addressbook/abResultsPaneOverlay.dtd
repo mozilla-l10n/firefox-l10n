@@ -60,8 +60,8 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Telefon lavur">
 <!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ScreenName.label                      "Num da messenger">
-<!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY ChatName.label                        "Num da chat">
+<!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Ascendent">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "Descendent">

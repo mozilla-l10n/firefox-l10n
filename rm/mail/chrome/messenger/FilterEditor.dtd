@@ -40,3 +40,6 @@
 <!ENTITY ignoreSubthread.label "Ignorar il suttema">
 <!ENTITY watchThread.label "Observar il tema">
 <!ENTITY stopExecution.label "Fermar l'execuziun dal filter">
+
+<!ENTITY addAction.tooltip "Agiuntar ina nova actiun">
+<!ENTITY removeAction.tooltip "Allontanar questa acziun">
