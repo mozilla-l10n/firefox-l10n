@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Kurulum tamamlandı'>
-<!ENTITY sync.subtitle.success.label 'Verileriniz şu anda arka planda indiriliyor. Hesabınızı yönetmek için Ayarlar\u0027a gidebilirsiniz.'>
+<!ENTITY sync.subtitle.success.label1 'Verileriniz şu anda arka planda indiriliyor. Hesabınızı yönetmek için Ayarlar kısmına gidebilir veya &brandShortName; ile gezinmeye başlayabilirsiniz.'>
 <!ENTITY sync.settings.label 'Ayarlar'>
-<!ENTITY sync.subtitle.manage.label '&syncBrand.fullName.label; hesabınız zaten kurulmuş. Hesabınızı yönetmek için Ayarlar\u0027a gidin.'>
+<!ENTITY sync.subtitle.manage.label1 '&syncBrand.fullName.label; hesabınız zaten kurulmuş. Hesabınızı yönetmek için Ayarlar kısmına gidebilir veya &brandShortName; uygulamasını açabilirsiniz.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Lütfen tekrar deneyin.'>
+<!ENTITY sync.pair.connectlocation.label 'Yeni aygıtınızı etkinleştirmek için, “&syncBrand.shortName.label; kurulumu”nu seçin ve ardından “Hesabım var” ı seçin.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Seçenekler'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Sıralanmamış yer imleri'>
 <!ENTITY bookmarks.folder.desktop.label 'Masaüstü yer imleri'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobil yer imleri'>
+<!ENTITY bookmarks.folder.readinglist.label 'Okuma listesi'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Yalnızca bir &syncBrand.fullName.label; hesabı kurabilirsiniz.'>
