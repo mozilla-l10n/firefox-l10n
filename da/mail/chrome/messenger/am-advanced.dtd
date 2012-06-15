@@ -4,10 +4,7 @@
 <!ENTITY smtpServer.label "Udgående serverindstillinger (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "When managing your identities you can use a server from this list by selecting it as the Outgoing Server (SMTP), or you can use the default server from this list by selecting &quot;Use Default Server&quot;.">
-
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Du har mulighed for at benytte forskellige udgående servere til hver af dine identiteter. Vælg den ønskede server fra listen. Serveren markeret med &quot;(Standard)&quot; er standard-serveren.">
+<!ENTITY smtpDescription.label "Du har mulighed for at benytte forskellige udgående servere til hver af dine identiteter. Vælg den ønskede server fra listen. Serveren markeret med &quot;(Standard)&quot; er standard-serveren.">
 
 <!ENTITY smtpListAdd.label "Tilføj…">
 <!ENTITY smtpListAdd.accesskey "T">

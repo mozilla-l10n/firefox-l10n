@@ -31,6 +31,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Chat-konto…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Chat-kontakt…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Åbn gemt meddelelse…">
 <!ENTITY openMessageFileCmd.accesskey "g">
 <!ENTITY openAttachmentCmd.label "Åbn…">
@@ -482,6 +484,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Ikke til stede">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Vis konti…">
+<!ENTITY joinChatCmd.label "Deltag i chat…">
+<!ENTITY joinChatCmd.accesskey "D">
 <!ENTITY savedFiles.label "Gemte filer">
 <!ENTITY savedFiles.accesskey "G">
 <!ENTITY savedFiles.key "j">
@@ -773,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "S">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Spam">
+<!ENTITY junkBarMessage2.label "&brandShortName; opfatter denne meddelelse som spam.">
 <!ENTITY junkBarButton1.label "Dette er ikke spam">
 <!ENTITY junkInfoButton.label "?">
 

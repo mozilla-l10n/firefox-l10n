@@ -61,7 +61,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meddelelse">
 <!ENTITY hdrSmartReplyButton1.label "Smart svar">
 <!ENTITY hdrReplyButton1.label "Svar">
-<!ENTITY hdrReplyButton1.tooltip "Svar på denne meddelelse">
+<!ENTITY hdrReplyButton2.tooltip "Svar til afsenderen af denne meddelelse">
 <!ENTITY hdrReplyAllButton1.label "Svar til alle">
 <!ENTITY hdrReplyAllButton1.tooltip "Svar afsender og alle modtagere">
 <!ENTITY hdrReplyListButton1.label "Svar til liste">

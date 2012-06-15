@@ -66,6 +66,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "A">
 <!ENTITY showUpdates.label "Vis opdateringshistorik">
 <!ENTITY showUpdates.accesskey "V">
+<!ENTITY useService.label                "Installér opdateringer i baggrunden">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Indstillinger…">
