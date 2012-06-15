@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Başlangıç">
 
 <!ENTITY startupPage.label         "&brandShortName; açıldığında:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Giriş sayfamı göster">
 <!ENTITY startupBlankPage.label    "Boş bir sayfa göster">
 <!ENTITY startupLastSession.label  "Son oturumdaki pencereleri ve sekmeleri göster">
-<!ENTITY restoreOnDemand.label     "Sekmeleri seçilene kadar yükleme">
-<!ENTITY restoreOnDemand.accesskey "y">
 
 <!ENTITY homepage.label            "Giriş sayfası:">
 <!ENTITY homepage.accesskey        "G">
