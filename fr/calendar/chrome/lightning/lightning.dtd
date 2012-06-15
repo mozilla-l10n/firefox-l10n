@@ -46,7 +46,7 @@
   -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "Calendar">
+<!ENTITY lightning.preferencesLabel "Calendar">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Événement…">
