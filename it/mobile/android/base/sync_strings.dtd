@@ -48,7 +48,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Segnalibri non catalogati">
 <!ENTITY bookmarks.folder.desktop.label "Segnalibri pc desktop">
 <!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
-<!ENTITY bookmarks.folder.readinglist.label "Lista di lettura">
+<!ENTITY bookmarks.folder.readinglist.label "Elenco lettura">
 <!ENTITY sync.notification.oneaccount.label "È possibile utilizzare un solo account &syncBrand.fullName.label;.">
 <!ENTITY sync.invalidcreds.label "Nome utente o password errati">
 <!ENTITY sync.invalidserver.label "Inserire un indirizzo valido per il server">
