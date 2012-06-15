@@ -38,6 +38,10 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label "Ajouter l'adresse au carnet d'adresses">
 <!ENTITY AddToAddressBook.accesskey "j">
+<!ENTITY EditContact.label "Modifier le contact…">
+<!ENTITY EditContact.accesskey "f">
+<!ENTITY ViewContact.label "Afficher le contact">
+<!ENTITY ViewContact.accesskey "A">
 <!ENTITY SendMailTo.label "Écrire un courrier à">
 <!ENTITY SendMailTo.accesskey "r">
 <!ENTITY CopyEmailAddress.label "Copier l'adresse électronique">
