@@ -66,7 +66,7 @@
 <!ENTITY DisplayName.label "Nom à afficher :">
 <!ENTITY DisplayName.accesskey "o">
 <!ENTITY preferDisplayName.label "Toujours afficher le nom au-dessus de l'en-tête du message">
-<!ENTITY preferDisplayName.accesskey "j">
+<!ENTITY preferDisplayName.accesskey "u">
 <!ENTITY NickName.label "Surnom :">
 <!ENTITY NickName.accesskey "S">
 
