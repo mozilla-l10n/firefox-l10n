@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Svar til avsendar og alle mottakarar">
 <!ENTITY hdrReplyListButton1.label "Svar til liste">
 <!ENTITY hdrReplyListButton1.tooltip "Svar til e-postliste">
+<!ENTITY hdrFollowupButton1.label "Følg opp">
+<!ENTITY hdrFollowupButton1.tooltip "Svar med oppfølging til denne nyhendegruppa">
 <!ENTITY hdrForwardButton1.label "Vidaresend">
 <!ENTITY hdrForwardButton1.tooltip "Vidaresend denne meldinga">
 <!ENTITY hdrJunkButton1.label "Uynskt">

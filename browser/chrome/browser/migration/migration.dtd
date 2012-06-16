@@ -15,10 +15,8 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "F">
-<!ENTITY importFromHTMLFile.label       "Frå ei HTML fil">
-<!ENTITY importFromHTMLFile.accesskey   "F">
 
-<!ENTITY noMigrationSources.label       "Ingen program som inneheld bokmerke, historikk eller passord vart funne.">
+<!ENTITY noMigrationSources.label       "Klarte ikkje å finne program som inneheld bokmerke, historikk eller passordinfo.">
 
 <!ENTITY importSource.title             "Importer innstillingar og data">
 <!ENTITY importItems.title              "Element som skal importerast">
