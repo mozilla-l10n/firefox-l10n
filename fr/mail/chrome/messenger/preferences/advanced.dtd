@@ -11,15 +11,15 @@
 <!-- General Settings -->
 
 <!ENTITY submitTelemetry.label "Envoyer les rapports de performance">
-<!ENTITY submitTelemetry.accesskey "m">
+<!ENTITY submitTelemetry.accesskey "E">
 <!ENTITY telemetryInfoLink.label "Plus de détails sur la métrologie">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
 <!ENTITY scrolling.label "Défilement">
-<!ENTITY useAutoScroll.label "Utiliser le défilement automatique">
-<!ENTITY useAutoScroll.accesskey "i">
-<!ENTITY useSmoothScrolling.label "Utiliser le défilement doux">
-<!ENTITY useSmoothScrolling.accesskey "l">
+<!ENTITY useAutoScroll.label "Automatique">
+<!ENTITY useAutoScroll.accesskey "u">
+<!ENTITY useSmoothScrolling.label "Doux">
+<!ENTITY useSmoothScrolling.accesskey "o">
 <!ENTITY systemIntegration.label "Intégration système">
 <!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
 <!ENTITY alwaysCheckDefault.accesskey "T">
