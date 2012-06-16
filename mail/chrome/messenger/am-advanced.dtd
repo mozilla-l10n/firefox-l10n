@@ -3,9 +3,9 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Configuraziun dal server da sortida (SMTP)">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Ti pos specifitgar qua ils servers per messadis che sortan (SMTP) per tut ils contos. En tscherts cas pon ins utilisar in server per messadis che sortan (SMTP) per tut ils contos. Per il solit èsi dentant necessari da definir separadamain per mintga conto in server da sortida SMTP (quai è era il cas sche l'adressa dal server è la medema, ma il num d'utilisader è different).">
-
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Sche ti administreschas tias identitads pos ti utilisar in server da questa glista entras tscherner el sco server per posta che sorta (SMTP) ni che ti pos utilisar il server da standard da questa glista entras tscherner  &quot;Utilisar il server predefinì&quot;.">
+ 
 <!ENTITY smtpListAdd.label  "Agiuntar…">
 <!ENTITY smtpListAdd.accesskey  "A">
 <!ENTITY smtpListEdit.label "Modifitgar…">

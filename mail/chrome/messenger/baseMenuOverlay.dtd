@@ -13,8 +13,6 @@
 <!ENTITY releaseCmd2.accesskey "m">
 <!ENTITY whatsNewCmd.label "Novas">
 <!ENTITY whatsNewCmd.accesskey "N">
-<!ENTITY featureConfiguratorCmd.label "Assistent da migraziun">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Temas d'agid">
 <!ENTITY openHelp.accesskey "T">
 <!ENTITY openHelp.commandkey "VK_F1">
