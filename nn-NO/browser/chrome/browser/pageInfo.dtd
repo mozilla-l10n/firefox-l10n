@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Still inn infokapslar">
 <!ENTITY  permInstall           "Installer utvidingar eller tema">
 <!ENTITY  permGeo               "Tillat vising av stad">
+<!ENTITY  permPlugins           "Aktiver programtillegg">
 
 <!ENTITY  permIndexedDB              "Handsam fråkopla lager">
 <!ENTITY  permClearStorage           "Tøm lager">

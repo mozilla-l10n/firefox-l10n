@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Logg for uynskt e-post">
-<!ENTITY junkLogInfo.label "Logg for handsaming av uynskt e-post.">
+<!ENTITY adaptiveJunkLog.title "Logg for uynsket e-post">
+<!ENTITY adaptiveJunkLogInfo.label "Logg for adaptiv behandling av uynsket e-post.">
 <!ENTITY clearLog.label "Tøm logg">
 <!ENTITY clearLog.accesskey "T">
 <!ENTITY closeLog.label "Lat att">

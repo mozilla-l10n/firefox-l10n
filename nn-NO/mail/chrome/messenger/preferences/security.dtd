@@ -14,12 +14,12 @@
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Merk uønskt-meldingar som lesne">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Loggfør hendingar i filteret for uynskt e-post">
-<!ENTITY enableJunkLogging.accesskey "L">
+<!ENTITY enableAdaptiveJunkLogging.label "Slå på logging for adaptiv filter for uynsket e-post">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "l">
 <!ENTITY openJunkLog.label "Vis logg">
 <!ENTITY openJunkLog.accesskey "V">
 <!ENTITY resetTrainingData.label "Still tilbake treningsdata">
-<!ENTITY resetTrainingData.accesskey "S">
+<!ENTITY resetTrainingData.accesskey "t">
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meldingar og oppdage mogleg e-postsvindel ved å sjå etter vanlege teknikkar brukt for å lure deg.">
