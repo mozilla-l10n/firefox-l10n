@@ -103,6 +103,7 @@
 <!ENTITY add_to_reading_list "Добавить в Список для чтения">
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
+<!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
 <!ENTITY reader_mode "Режим чтения">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">

@@ -12,6 +12,11 @@
 <!ENTITY telemetryInfoLink.label "Подробнее о телеметрии">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey "и">
+<!ENTITY scrolling.label "Прокрутка">
+<!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
+<!ENTITY useAutoScroll.accesskey "в">
+<!ENTITY useSmoothScrolling.label "Использовать плавную прокрутку">
+<!ENTITY useSmoothScrolling.accesskey "л">
 <!ENTITY systemIntegration.label "Интеграция с системой">
 <!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
 <!ENTITY alwaysCheckDefault.accesskey "п">
