@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Uønsket e-post">
 <!ENTITY itemPhishing.label      "E-postsvindel">
 <!ENTITY itemPasswords.label     "Passord">
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "Vis infokapsler …">
 <!ENTITY showCookies.accesskey          "V">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Fortell nettsted at jeg ikke ønsker å bli sporet">
+<!ENTITY doNotTrack.accesskey           "d">
