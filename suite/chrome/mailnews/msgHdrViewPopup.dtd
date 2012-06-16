@@ -38,6 +38,10 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "Engadir á axenda de enderezos…">
 <!ENTITY AddToAddressBook.accesskey        "g">
+<!ENTITY EditContact.label                 "Editar o contacto…">
+<!ENTITY EditContact.accesskey             "E">
+<!ENTITY ViewContact.label                 "Ver o contacto">
+<!ENTITY ViewContact.accesskey             "V">
 <!ENTITY SendMailTo.label                  "Redactar correo para…">
 <!ENTITY SendMailTo.accesskey              "R">
 <!ENTITY CopyEmailAddress.label            "Copiar correo electrónico">
