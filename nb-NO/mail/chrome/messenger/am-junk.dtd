@@ -17,8 +17,8 @@
 <!ENTITY purge1.accesskey "A">
 <!ENTITY purge2.label "dager">
 
-<!ENTITY whitelist.label "Ikke marker e-post som uønsket dersom avsender er i: ">
-<!ENTITY whitelist.accesskey "I">
+<!ENTITY whitelistHeader.label "Ikke automatisk marker e-post som uønsket dersom avsender er i: ">
+<!ENTITY whitelistHeader.accesskey "I">
 
 <!ENTITY ispHeadersWarning.label "Hvis påslått vil &brandShortName; automatisk vurdere meldinger som er merket med denne eksterne klassifikasjonen som uønsket.">
 <!ENTITY ispHeaders.label "Stol på uønsket-meldingshoder fra: ">
