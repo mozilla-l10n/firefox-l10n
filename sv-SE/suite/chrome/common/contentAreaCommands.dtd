@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Tillåt inte webbplatsen att öppna extrafönster">
 <!ENTITY popupWindowRejectCmd.accesskey "">
@@ -117,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "y">
 <!ENTITY spellAddToDictionary.label     "Lägg till ordlistan">
 <!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellUndoAddToDictionary.label      "Ångra lägg till ordlistan">
+<!ENTITY spellUndoAddToDictionary.accesskey  "l">
 <!ENTITY spellIgnoreWord.label          "Ignorera ord">
 <!ENTITY spellIgnoreWord.accesskey      "I">
 <!ENTITY spellCheckEnable.label         "Kontrollera stavning">

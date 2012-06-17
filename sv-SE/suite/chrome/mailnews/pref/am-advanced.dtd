@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Server för utgående e-post (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Även om du kan ange mer än en server för utgående (SMTP), rekommenderas det endast för avancerade användare. Att ha flera SMTP-servrar inställda kan orsaka problem när meddelanden skickas.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "När du hanterar dina konton kan du använda en server från denna lista genom att välja den som Utgående (SMTP), eller du kan använda den förvalda servern från denna lista genom att välja &quot;Använd förinställd server&quot;.">
 
 <!ENTITY smtpListAdd.label  "Lägg till…">
 <!ENTITY smtpListAdd.accesskey  "ä">
@@ -9,7 +13,7 @@
 <!ENTITY smtpListEdit.accesskey "R">
 <!ENTITY smtpListDelete.label "Ta bort">
 <!ENTITY smtpListDelete.accesskey "b">
-<!ENTITY smtpListSetDefault.label "Ange standard">
+<!ENTITY smtpListSetDefault.label "Ange förinställd">
 <!ENTITY smtpListSetDefault.accesskey "e">
 
 <!ENTITY serverDescription.label "Beskrivning: ">

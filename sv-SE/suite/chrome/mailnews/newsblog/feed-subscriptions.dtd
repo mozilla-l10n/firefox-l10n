@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Kanalprenumerationer">
 <!ENTITY subscriptionDesc.label "OBS! Att ta bort eller ändra mappen för en kanal påverkar inte tidigare hämtade artiklar.">
@@ -27,5 +31,6 @@
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Exportera">
 <!ENTITY button.exportOPML.accesskey   "x">
+<!ENTITY button.exportOPML.tooltip   "Exportera flöden med mappstruktur; ctrl och klick eller ctrl-enter för att exportera flöden som en lista">
 
 <!ENTITY cmd.close.commandKey             "w">
