@@ -1,8 +1,11 @@
 <!ENTITY aboutPage.title                        "&brandShortName; ਬਾਰੇ">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ਤਜਰਬੇ ਅਧੀਨ ਹੈ
+ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।">
+<!ENTITY aboutPage.telemetryStart               " ਇਹ ਆਪਣੇ ਆਪ ਹੀ ਕਾਰਗੁਜ਼ਾਰੀ,
+ਹਾਰਡਵੇਅਰ, ਵਰਤੋਂ ਅਤੇ ਕੀਤੇ ਹੋਏ ਬਦਲਾਅ ਬਾਰੇ ਜਾਣਕਾਰੀ ਵਾਪਸ ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
+<!ENTITY aboutPage.telemetryEnd                 " ਨੂੰ ਭੇਜਦਾ ਹੈ ਤਾਂ ਕਿ 
+&brandShortName; ਨੂੰ ਵਧੀਆ ਬਣਾਇਆ ਜਾ ਸਕੇ।">
 <!ENTITY aboutPage.checkForUpdates.link         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ »">
 <!ENTITY aboutPage.checkForUpdates.checking     "…ਅੱਪਡੇਟ ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ…">
 <!ENTITY aboutPage.checkForUpdates.none         "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ">
