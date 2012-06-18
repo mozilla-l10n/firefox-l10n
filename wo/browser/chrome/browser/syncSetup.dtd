@@ -1,8 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "Tabbinu &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Dalal jamm, su fekkee mësuloo jëfandikoo &syncBrand.fullName.label; laata, da nga wara sos koont bu bees.">
+<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Sos koont bu bees">
 <!ENTITY button.haveAccount.label      "I Have an Account">
 
@@ -12,7 +16,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Serwëër">
-<!ENTITY serverType.main.label      "Serwëër &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
 <!ENTITY serverType.custom2.label   "Jëfandikoo serwëër bu ñu solal…">
 <!ENTITY signIn.account2.label      "Koont">
 <!ENTITY signIn.account2.accesskey  "K">
@@ -88,6 +92,8 @@
 <!ENTITY engine.passwords.accesskey "t">
 <!ENTITY engine.prefs.label         "Taamu yi">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "Modilu mottali">
+<!ENTITY engine.addons.accesskey    "M">
 
 <!ENTITY choice2.merge.main.label      "Boole rootaani ordinatëër bii ak samay rootaani &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Digale nañu ko:">

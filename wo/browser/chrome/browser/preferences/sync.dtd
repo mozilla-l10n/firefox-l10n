@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
+
 <!ENTITY setupButton.label          "Tabb &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "T">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dafa lay may nga agg ci sa jaar jaar, say mandarga xët, say baatu jàll ak say koñ yu ubbeeku ci ay ordinatëër yu wuute.">
@@ -30,6 +34,8 @@
 <!ENTITY engine.passwords.accesskey "t">
 <!ENTITY engine.prefs.label         "Taamu yi">
 <!ENTITY engine.prefs.accesskey     "T">
+<!ENTITY engine.addons.label        "Modilu mottali">
+<!ENTITY engine.addons.accesskey    "M">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Turu ordinatëër bi:">

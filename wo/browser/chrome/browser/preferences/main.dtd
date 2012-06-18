@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Tambali">
 
 <!ENTITY startupPage.label         "Bu &brandShortName; tambalee :">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Wane sama xëtu dalal jamm">
 <!ENTITY startupBlankPage.label    "Wane xët bu wëyëŋ">
 <!ENTITY startupLastSession.label  "Wane koñ yi mujj ak palanteer yi ñu jëfandikoo">
-<!ENTITY restoreOnDemand.label     "Baña fat këmbu koñ yi suqalikuwul">
-<!ENTITY restoreOnDemand.accesskey "k">
 
 <!ENTITY homepage.label            "Xëtu dalal jamm :">
 <!ENTITY homepage.accesskey        "a">

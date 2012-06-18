@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Saytukatu modili mottali yi">
+
 <!ENTITY search.placeholder                   "Wut ci biir modili yokk yépp">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Yeb mi…">
 <!ENTITY listEmpty.installed.label            "Amuloo benn modil bu mel nii te sampu">
 <!ENTITY listEmpty.availableUpdates.label     "Amul benn yeesal">

@@ -1,22 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!-- These strings are used in the about:home page -->
 
 
 <!ENTITY abouthome.pageTitle "Xëtu tambali &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Wut">
-
-<!ENTITY abouthome.aboutMozilla "Ci mbiri Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Jërëjëf ci la nga taamu Firefox ! Boo bëggee jariñoo dëgg sa joowkat, seetal <a>mën mënam yi mujj</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Jërëjëf ci li nga taamu Firefox ! Boo bëggee jariñoo dëgg sa joowkat, seetal <a>mën mënam yi mujj</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Mën nga solal Firefox ni mu la neexe. <a>Tànnal ci junney modili mottali yi</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Set Up Sync">
-<!ENTITY abouthome.pairDevice.label  "Boole ak benn aparey">
+<!ENTITY abouthome.bookmarksButton.label "Mandarga xët yi">
+<!ENTITY abouthome.historyButton.label   "Jaar jaar">
+<!ENTITY abouthome.settingsButton.label  "Parammeetar yi">
+<!ENTITY abouthome.addonsButton.label    "Modilu mottali">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Yeb yi">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

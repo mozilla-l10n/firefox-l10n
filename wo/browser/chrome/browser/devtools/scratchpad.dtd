@@ -1,5 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -9,6 +17,8 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+
+
 
 <!ENTITY window.title                 "Alluwa JavaScrip">
 
@@ -36,30 +46,6 @@
 
 <!ENTITY editMenu.label               "Jagal">
 <!ENTITY editMenu.accesskey           "J">
-
-<!ENTITY undoCmd.label                "Neenal">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "N">
-
-<!ENTITY redoCmd.label                "Defaat">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "D">
-
-<!ENTITY cutCmd.label                 "Dog">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "o">
-
-<!ENTITY copyCmd.label                "Duppi">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "p">
-
-<!ENTITY pasteCmd.label               "Taf">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "T">
-
-<!ENTITY selectAllCmd.label           "Fal lépp">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "F">
 
 <!ENTITY run.label                    "Dawal">
 <!ENTITY run.accesskey                "D">
@@ -94,9 +80,21 @@
 
 <!ENTITY browserContext.label         "Joowkat">
 <!ENTITY browserContext.accesskey     "J">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+
+<!ENTITY helpMenu.label               "Help">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Help">
+<!ENTITY helpMenuWin.accesskey        "H">
+
+<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
+<!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+
 
 <!ENTITY resetContext2.label          "Reset Variables">
 <!ENTITY resetContext2.accesskey      "T">

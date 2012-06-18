@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY permissionsManager.title        "Saytu ndigal yi">
 
 <!ENTITY sites.search                    "Wut ay dal">
@@ -27,9 +31,13 @@
 <!ENTITY cookie.removeAll                "Màbbal kuki Yépp">
 
 <!ENTITY geo.label                       "Seddoo bérab bi ma ne">
+
+<!ENTITY plugins.label                   "Plugins">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
 <!ENTITY indexedDB.label                 "Denc rootaan yi ci jokkoodiku">
 
 <!ENTITY popup.label                     "Ubbi ay palanteer popup">
+
+<!ENTITY fullscreen.label                "Fullscreen">

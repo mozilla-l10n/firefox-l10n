@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY header.label     "Bopp bu gatt"> 
 <!ENTITY message.label    "Mbindum misaal fii.">
 <!ENTITY editfield0.label "Jëfandikookat:"> 

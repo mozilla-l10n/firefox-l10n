@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; dafa wara tambaliwaat ngir plugin bi/yi dox.">
 
 <!ENTITY missingPlugin                                       "Faww mu am plugin boo bëgge këmb li wonewu.">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
 <!ENTITY disabledPlugin                                      "Plugin dafa suux.">
 <!ENTITY blockedPlugin.label                                 "Plugin bii dañu ko boloke ngir sa kaarange.">
 
@@ -34,8 +36,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Yeesal xët wi">
 <!ENTITY reloadPlugin.post                                   " ngir jéemaat.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…and send crash report">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Yonnee raapooru ngiroo">
 <!ENTITY report.submitting                                   "Yonnee raapoor…">
 <!ENTITY report.submitted                                    "Raapooru ngiroo bi yonnee nañu ko.">
 <!ENTITY report.disabled                                     "Raapooru ngiroo bi suux na.">

@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -26,7 +30,7 @@ can reach it easily. -->
 
 <!ENTITY  pinAppTab.label                    "Tapp koñ bi">
 <!ENTITY  pinAppTab.accesskey                "p">
-<!ENTITY  unpinAppTab.label                  "Bayyiwaat koñ bi">
+<!ENTITY  unpinAppTab.label                  "Bayyi koñ bi">
 <!ENTITY  unpinAppTab.accesskey              "B">
 <!ENTITY  moveToGroup.label                  "Randal mu jëm ci juug bi">
 <!ENTITY  moveToGroup.accesskey              "R">
@@ -77,6 +81,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Bataaxal ci xët wi">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Jàll ci yambalaŋ">
+<!ENTITY enterFullScreenCmd.accesskey "y">
+<!ENTITY exitFullScreenCmd.label "Génn anamu yambalaŋ">
+<!ENTITY exitFullScreenCmd.accesskey "G">
 <!ENTITY fullScreenCmd.label "Seetukaay bu yambalaŋ">
 <!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -90,7 +100,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Génn anamu yambalaŋ">
 <!ENTITY fullScreenExit.accesskey "G">
-<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
+<!ENTITY fullscreenAllowButton.label "Jox ndigal">
+<!ENTITY fullscreenExitButton.label "Tere">
+<!ENTITY fullscreenApproval.value "Jox ndigal yambalaŋ">
+
+<!ENTITY fullscreenExitHint.value "Bësal ESC sa soo bëgg génn yambalaŋ.">
+<!ENTITY leaveDOMFullScreen.label "Génn yambalaŋ">
+<!ENTITY leaveDOMFullScreen.accesskey "é">
 
 <!ENTITY closeWindow.label "Tëj palanteer bi">
 <!ENTITY closeWindow.accesskey "T">
@@ -137,7 +153,7 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "Dal bi">
 
 <!ENTITY tabGroupsButton.label        "Juugi koñ">
-<!ENTITY tabGroupsButton.tooltip      "Defaral say koñ aki juug">
+<!ENTITY tabGroupsButton.tooltip      "Defaral say koñ ay juug">
 
 <!ENTITY feedButton.label             "Takkoo">
 <!ENTITY feedButton.tooltip           "Takkoo ak xët wile…">
@@ -195,8 +211,12 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "Inspect Element">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "Seetal mbir mii">
+<!ENTITY inspectContextMenu.accesskey "x">
+
+<!ENTITY responsiveUI.label            "Anamu Yëg">
+<!ENTITY responsiveUI.accesskey        "ë">
+<!ENTITY responsiveUI.commandkey       "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -213,12 +233,51 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Seet">
-<!ENTITY inspectButton.accesskey        "S">
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectCloseButton.tooltiptext "Tëja inspektëër bi">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Tëj banqaasu tallal">
+<!ENTITY devToolbarMenu.label              "Banqaasu tallal">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.commandkey             "v">
+
+<!ENTITY webConsoleButton.label "Konsolu Web">
+<!ENTITY inspectorButton.label "Inspektëër">
+<!ENTITY scriptsButton.label "Skiript">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Duppi innerHTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Duppi Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Neenal tënk bi">
+<!ENTITY inspectorHTMLDelete.accesskey      "N">
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+
+<!ENTITY inspectOptionButton.tooltiptext    "Tànneefi inspektëër bi">
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+
+<!ENTITY inspectorToggleVeil.label          "Waññi leeraayu xët bi">
+<!ENTITY inspectorToggleVeil.accesskey      "W">
+<!ENTITY inspectorToggleInfobar.label       "IXibaar ci tënk wi">
+<!ENTITY inspectorToggleInfobar.accesskey   "c">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "Séenu 3D">
+<!ENTITY inspect3DViewButton.accesskey "S">
+
+<!ENTITY inspectStyleButton.label     "Melin">
+<!ENTITY inspectStyleButton.accesskey "M">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Defarkatu melin">
+<!ENTITY styleeditor.accesskey        "k">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Am yeneeni jumtukaay">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "A">
@@ -252,14 +311,14 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Fal lépp">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
-<!ENTITY preferencesCmd2.label       "Tànnéef yi">
+<!ENTITY preferencesCmd2.label       "Tànneef yi">
 <!ENTITY preferencesCmd2.accesskey     "T">
 <!ENTITY preferencesCmdUnix.label       "Taamu yi">
 <!ENTITY preferencesCmdUnix.accesskey     "u"> 
 
 <!ENTITY clearRecentHistory.label               "Mabb jaar jaar bi yaggul…">
 <!ENTITY clearRecentHistory.accesskey           "j">
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label         "Tambali njoowum biir">
 <!ENTITY privateBrowsingCmd.start.accesskey     "n">
@@ -303,9 +362,9 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Website">
+<!ENTITY urlbar.placeholder           "Dem ci benn dalub web">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Dem ci koñ :">
+<!ENTITY urlbar.switchToTab.label     "Dem ci koñ bi:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -421,27 +480,39 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Kaadar bii">
 <!ENTITY thisFrameMenu.accesskey          "d">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Tambali">
 <!ENTITY mediaPlay.accesskey         "T">
 <!ENTITY mediaPause.label            "Taxaw">
 <!ENTITY mediaPause.accesskey        "T">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Muuma">
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Dektu">
 <!ENTITY mediaUnmute.accesskey       "e">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Wone kontorol yi">
 <!ENTITY mediaShowControls.accesskey "W">
 <!ENTITY mediaHideControls.label     "Nëbb kontorol yi">
 <!ENTITY mediaHideControls.accesskey "N">
 <!ENTITY videoFullScreen.label       "Seetukaay bu fees">
 <!ENTITY videoFullScreen.accesskey   "S">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoShowStats.label        "Show Statistics">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoSaveImage.label        "Aar benn Snapshot ci…">
+<!ENTITY videoSaveImage.accesskey    "A">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Wone Estatistik yi">
+<!ENTITY videoShowStats.accesskey    "E">
+<!ENTITY videoHideStats.label        "Nëbb Estatistik yi">
+<!ENTITY videoHideStats.accesskey    "E">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -505,15 +576,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Melinu laltu bu biró bi">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this website">
+<!ENTITY pageReportIcon.tooltip            "Soppi politigu popups dalub web bii">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Jagal tannéefi tëye popups yi…">
-<!ENTITY editPopupSettings.label "Jagal taamu tëye popups yi…">
-<!ENTITY editPopupSettings.accesskey "J">
+<!ENTITY editPopupSettingsUnix.label "Jagal tànneefi tëye popups yi…">
+<!ENTITY editPopupSettings.label "Soppi tànneefi tëye popups yi…">
+<!ENTITY editPopupSettings.accesskey "S">
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Soppi jublu xët wi">
@@ -537,7 +608,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Neenal">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
+<!ENTITY identity.unverifiedsite2 "Dalub web bi joxewul benn xibaar ci dantiteem.">
 <!ENTITY identity.connectedTo "Yaa ngi ci">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -574,3 +645,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Tëj banqaasu modil yi">
 <!ENTITY toggleAddonBarCmd.key        "/">
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+
+<!ENTITY markupButton.arialabel          "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "M">

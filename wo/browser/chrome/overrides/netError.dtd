@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -44,8 +48,8 @@ connection.</li>
 <!ENTITY netInterrupt.title "Jokkoo bi taxaw na">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Jukki bi jeexal na">
+<!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj amatu ci &brandShortName;'.</p><ul><li>ngir kaarange, &brandShortName; du tëb rekk laj yenn jukki yi.</li><li>Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.</li></ul>">
 
 <!ENTITY netOffline.title "Anamu jokkoodiku">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -116,10 +120,8 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY sharedLongDesc "<ul><li>Dal bi mën na nekk kenn mënu cee jot walla mu bari liggéey jeemaaatal ci kanam</li><li>Su fekkee mënuloo joow ci benn dal, seetal sa jokkoo ordinatëër ak lëkkale gi.</li><li>Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax &brandShortName; am ndigal agg ci Web bi.</li></ul>">
 
 <!ENTITY malwareBlocked.title "Ñaaw njort ci dal bu bon !">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Ay dal yu bon ñi ngiy jéema samp ay porogaraam yuy sacc say xibaari bopp,di jëfandikoo sa ordinatëër ngir song yeneen walla yaq sa doxalin.</p> 
+<p>Boroom dal yi fook ni da ñu leen tuumaal <a href='http://www.stopbadware.org/home/reviewinfo'>ab nafar</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Dal bi royaal la !">
 <!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët bile mën na tax ñu sacc sa dantite walla beneen foród.</p> 

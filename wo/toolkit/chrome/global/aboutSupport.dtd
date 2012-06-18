@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Xibaari depaane">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
@@ -16,25 +20,38 @@
 <!ENTITY aboutSupport.appBasicsTitle "Paraameetar yi jëkk yu tërëlin bi">
 <!ENTITY aboutSupport.appBasicsName "Tur">
 <!ENTITY aboutSupport.appBasicsVersion "Sumb">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Wayndare jëmmalin">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins yi ñu suqali">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Tabbinu dajale">
 <!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Raapoori Crash">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
 
-<!ENTITY aboutSupport.show.label "Ubbi wayndare bi mengoo">
+<!ENTITY aboutSupport.showDir.label "Open Directory">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Wone ci biir Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Show Folder">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Soppi taamu yi">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
 <!ENTITY aboutSupport.modifiedPrefsName "Tur">
 <!ENTITY aboutSupport.modifiedPrefsValue "Solo">
 
 <!ENTITY aboutSupport.graphicsTitle "Làbbali">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Jaar jaaru samp">
 <!ENTITY aboutSupport.updateHistoryTitle "Yeesal jaar jaar bi">

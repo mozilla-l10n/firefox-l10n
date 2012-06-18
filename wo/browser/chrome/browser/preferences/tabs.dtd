@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "Ubbi koñ bu bees">
 <!ENTITY newWindowsAsTabs.accesskey   "U">
 
@@ -9,6 +13,9 @@
 
 <!ENTITY showTabBar.label             "Wane saa su ne banqaasu koñ yi">
 <!ENTITY showTabBar.accesskey         "W">
+
+<!ENTITY restoreTabsOnDemand.label        "Baña fat këmbu koñ yi suqalikuwul">
+<!ENTITY restoreTabsOnDemand.accesskey    "k">
 
 <!ENTITY switchToNewTabs.label        "Su buum di ubbeeku ci biir koñ, waŋarñil mu jëm ci koñ bi">
 <!ENTITY switchToNewTabs.accesskey    "b">

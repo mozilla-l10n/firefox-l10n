@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Dog">
 <!ENTITY cutCmd.accesskey "g">
 <!ENTITY copyCmd.label "Duppi">
@@ -13,6 +17,8 @@
 
 <!ENTITY spellAddToDictionary.label "Yokk ci téere baat bi">
 <!ENTITY spellAddToDictionary.accesskey "Y">
+<!ENTITY spellUndoAddToDictionary.label "Neenal yokk ci teere baat bi">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Settantal mbind mi">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Amul baatu xelal)">

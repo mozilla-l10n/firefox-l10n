@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Ëmb lépp">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Saa su ne boo dee tambali xoolal ndax &brandShortName; mooy joowkat ñakk ndigal">
 <!ENTITY alwaysCheckDefault.accesskey    "a">
-<!ENTITY checkNow.label                  "Settantal leegi">
-<!ENTITY checkNow.accesskey              "l">
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
 <!ENTITY submitCrashes.label             "Joxe rapooru ngiroo">
 <!ENTITY submitCrashes.accesskey         "J">
 <!ENTITY submitTelemetry.label           "Joxe ngoora rootaan yi">
@@ -41,7 +46,9 @@
 <!ENTITY connectionSettings.label        "Parameetar…">
 <!ENTITY connectionSettings.accesskey    "P">
 
-<!ENTITY offlineStorage.label            "Ndenc bu andul ak jokkoo">
+<!ENTITY httpCache.label                 "Cached Web Content">
+
+<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -54,6 +61,8 @@
 <!ENTITY limitCacheSizeAfter.label       "Mo ci dendu disk bi">
 <!ENTITY clearCacheNow.label             "Tuur ndenc mi leegi">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Soppali saytu boppamu denc mi">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -77,8 +86,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Motëëri wut">
 <!ENTITY enableSearchUpdate.accesskey    "o">
 
@@ -87,7 +94,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Seppi yi…">
 <!ENTITY offlineNotifyExceptions.accesskey "S">
 
-<!ENTITY offlineAppsList.label           "Dal yii am nañu ay rootaan yu ñu aar ngir jëfandikoo leen ci jokkoodiku :">
+<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Far…">
 <!ENTITY offlineAppsListRemove.accesskey "F">

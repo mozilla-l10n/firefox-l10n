@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title                      "Saytukatu modili mottali yi">
+<!ENTITY aboutAddons.header2                    "Your Add-ons">
+<!ENTITY aboutAddons.options                    "Tànneef yi">
+
+<!ENTITY addonAction.enable                     "Suqali">
+<!ENTITY addonAction.disable                    "Suuxal">
+<!ENTITY addonAction.uninstall                  "Simpi">
+<!ENTITY addonAction.cancel                     "Neenal">

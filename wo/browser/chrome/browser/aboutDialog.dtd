@@ -1,4 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Ci mbiru &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "&brandShortName; dafa bees la mën am ay tolof tolof.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Dafay yonnee xibaar yi ci wallu mën mën, ci masin bi, jëfandikoo ak solali &vendorShortName; ngir gëna baaxal &vendorShortName;.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " dafa nekk ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "mbootaay bu wër addina">
+<!ENTITY community.exp.end          " di liggéeyandoo ngir internet nekk lu ubbeeku ku nekk mën cee jot.">
 
 <!ENTITY community.start2           "ki defar &brandShortName; moodi ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -6,7 +23,7 @@
 <!ENTITY community.middle2          ", mbootaay bu wër aduna bu">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "jàppalekat yi">
-<!ENTITY community.end2             " di liggéeyandoo ngir internet gëna baax. Gëm nañu ni internet dafa wara gëna ubbeeku, ci ñépp, te ñépp mën cee jariñu te du am benn laq laq.">
+<!ENTITY community.end3             " di liggéeyandoo ngir Internet nekk lu ubbeeku ku nekk mën cee jot.">
 
 <!ENTITY contribute.start           "Ndax soxal na la? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -23,7 +40,7 @@
 <!ENTITY bottomLinks.privacy        "Poltigu dundu biir">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Wóoral ay yeesal…">
+<!ENTITY update.checkingForUpdates  "Wut ay yeesal…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Settantal ndax modili mottali yi dëppoo nañu…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -54,9 +71,11 @@
 
 <!ENTITY update.downloading.start   "Yebum yeesal bi —">
 <!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "Def yeesal bi…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Yaa ngiy jëfandikoo yoonu yeesal ">
-<!ENTITY channel.description.end    " .">
+<!ENTITY channel.description.end    " yeesal yoon wi .">
