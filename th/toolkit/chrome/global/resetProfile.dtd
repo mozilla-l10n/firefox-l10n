@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY resetProfile.dialog.title        "ตั้งค่า &brandShortName; ใหม่">
-<!ENTITY resetProfile.dialog.description  "คุณแน่ใจว่าต้องการตั้งค่า &brandShortName; ให้กลับเป็ค่าเริ่มต้น?">
+<!ENTITY resetProfile.dialog.description  "คุณแน่ใจว่าต้องการตั้งค่า &brandShortName; ให้กลับเป็นค่าเริ่มต้น?">
 <!ENTITY resetProfile.dialog.items.label  "สิ่งต่อไปนี้จะถูกเก็บไว้ :">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; จะเริ่มทำงานใหม่และอย่างอื่นจะถูกลบทิ้ง">
 <!ENTITY resetProfile.dialog.button.label "ตั้งค่า &brandShortName; ใหม่">

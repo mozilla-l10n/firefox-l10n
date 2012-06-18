@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+<!ENTITY indicator.tooltiptext            "การดาวน์โหลด">
+
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+<!ENTITY downloads.title                  "การดาวน์โหลด">
+
+<!ENTITY cmd.pause.label                  "หยุดชั่วคราว">
+<!ENTITY cmd.pause.accesskey              "ห">
+<!ENTITY cmd.resume.label                 "โหลดต่อ">
+<!ENTITY cmd.resume.accesskey             "ต">
+<!ENTITY cmd.cancel.label                 "ยกเลิก">
+<!ENTITY cmd.cancel.accesskey             "ย">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "เปิดโฟลเดอร์ที่บรรจุ">
+<!ENTITY cmd.show.accesskey               "ส">
+<!ENTITY cmd.showMac.label                "แสดงใน Finder">
+<!ENTITY cmd.showMac.accesskey            "ส">
+<!ENTITY cmd.retry.label                  "ลองใหม่">
+<!ENTITY cmd.goToDownloadPage.label       "ไปหน้าดาวน์โหลด">
+<!ENTITY cmd.goToDownloadPage.accesskey   "ป">
+<!ENTITY cmd.copyDownloadLink.label       "คัดลอกลิงก์ดาวน์โหลด">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ค">
+<!ENTITY cmd.removeFromList.label         "ลบจากรายการ">
+<!ENTITY cmd.removeFromList.accesskey     "ล">
+<!ENTITY cmd.clearList.label              "ล้างรายการ">
+<!ENTITY cmd.clearList.accesskey          "ร">
+
+<!ENTITY downloadshistory.label           "แสดงการดาวน์โหลดทั้งหมด">
+<!ENTITY downloadshistory.accesskey       "S">

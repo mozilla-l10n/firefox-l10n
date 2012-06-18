@@ -2,8 +2,8 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; เป็นรุ่นทดสอบและอาจยังไม่เสถียร">
-<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "&brandShortName; จะส่งข้อมูลการทดสอบกลับไปยัง &vendorShortName; โดยอัตโนมัติ เพื่อปรับปรุงคุณภาพของ &brandShortName; ให้ดีขึ้น">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "จะส่งข้อมูลเกี่ยวกับประสิทธิภาพ, อุปกรณ์, การใช้งาน และการปรับแต่งกลับไปยัง &vendorShortName; โดยอัตโนมัติ เพื่อช่วยปรับปรุงให้ &brandShortName; ดียิ่งขึ้น">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">

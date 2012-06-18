@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "เกี่ยวกับ &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; เป็นรุ่นทดลองและอาจไม่เสถียร">
+<!ENTITY aboutPage.telemetryStart               " จะส่งข้อมูลเกี่ยวกับประสิทธิภาพ, ฮาร์ดแวร์, การใช้งาน และการปรับแต่ง กลับไปยัง ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " โดยอัตโนมัติ เพื่อช่วยปรับปรุงให้ &brandShortName; ดียิ่งขึ้น">
 <!ENTITY aboutPage.faq.label                    "คำถามที่พบบ่อย">
 <!ENTITY aboutPage.support.label                "การสนับสนุน">
 <!ENTITY aboutPage.privacyPolicy.label          "นโยบายความเป็นส่วนตัว">

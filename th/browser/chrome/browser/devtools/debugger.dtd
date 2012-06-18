@@ -9,7 +9,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label          "ตัวดีบักสคริปต์">
+<!ENTITY debuggerMenu.label          "ตัวดีบั๊กสคริปต์">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
@@ -19,9 +19,21 @@
   -  button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton      "ปิด">
 
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
+  -  button that steps over a function call. -->
+<!ENTITY debuggerUI.stepOverButton   "ก้าวข้าม">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+  -  button that steps into a function call. -->
+<!ENTITY debuggerUI.stepInButton     "ก้าวเข้า">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
+  -  button that steps out of a function call. -->
+<!ENTITY debuggerUI.stepOutButton    "ก้าวออก">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
-<!ENTITY debuggerUI.stackTitle       "Call stack">
+<!ENTITY debuggerUI.stackTitle       "สแต็กการเรียก">
 
 <!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
   -  widget that displays the source code for the script that is currently
