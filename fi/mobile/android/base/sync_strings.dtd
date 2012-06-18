@@ -5,71 +5,71 @@
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.connect.label 'Yhdistä &syncBrand.shortName.label;-palveluun'>
+<!ENTITY sync.title.adddevice.label 'Luo tili &syncBrand.fullName.label; -palveluun'>
+<!ENTITY sync.title.pair.label 'Liitä laite'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Aktivoi uusi laitteesi valitsemalla laitteessa “Määritä &syncBrand.shortName.label;”-palvelun asetukset.'>
+<!ENTITY sync.subtitle.header.label 'Kirjoita tämä koodi tietokoneessasi'>
+<!ENTITY sync.subtitle.connectlocation.label 'Valitse “&sync.title.pair.label;” työpöytä Firefoxisi &syncBrand.shortName.label;-palvelun asetuksista.'>
+<!ENTITY sync.subtitle.pair.label 'Aktivoi valitsemalla “Liitä laite” -valinta toisella laitteellasi.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Show me how.'>
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.show.label 'Näytä ohjeet.'>
+<!ENTITY sync.link.advancedsetup.label 'Lisäasetukset…'>
+<!ENTITY sync.link.nodevice.label 'Minulla ei ole laitetta vieressäni…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Odotetaan toista laitetta…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label 'Password'>
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.subtitle.account.label 'Kirjoita &syncBrand.fullName.label; -palvelun tilitietosi'>
+<!ENTITY sync.input.username.label 'Tilin nimi'>
+<!ENTITY sync.input.password.label 'Salasana'>
+<!ENTITY sync.input.key.label 'Palautusavain'>
+<!ENTITY sync.checkbox.server.label 'Käytä omaa palvelinta'>
+<!ENTITY sync.input.server.label 'Palvelimen osoite'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
-<!ENTITY sync.button.tryagain.label 'Try again'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!ENTITY sync.title.fail.label '&syncBrand.shortName.label;-palvelun määritys ei onnistunut'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; -palvelu ei onnistunut muodostamaan yhteyttä palvelimelle. Yritetäänkö uudestaan?'>
+<!ENTITY sync.button.tryagain.label 'Yritä uudestaan'>
+<!ENTITY sync.button.manual.label 'Muokkaa asetuksia käsin'>
+<!ENTITY sync.subtitle.nointernet.label 'Ei Internet-yhteyttä.'>
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Setup Complete'>
-<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
-<!ENTITY sync.settings.label 'Settings'>
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.title.success.label 'Määritys valmis'>
+<!ENTITY sync.subtitle.success.label 'Tietojasi ladataan nyt taustalla. Voit muokata tilisi asetuksia palvelun asetuksista.'>
+<!ENTITY sync.settings.label 'Asetukset'>
+<!ENTITY sync.subtitle.manage.label '&syncBrand.fullName.label; -palvelun tilisi on jo määritetty. Muokkaa tilisi asetuksia asetusikkunasta.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Please try again.'>
+<!ENTITY sync.pair.tryagain.label 'Yritä uudestaan.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Options'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.settings.options.label 'Asetukset'>
+<!ENTITY sync.summary.pair.label 'Liitä uusi laite &syncBrand.shortName.label;-palvelun tiliisi'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancel'>
-<!ENTITY sync.button.connect.label 'Connect'>
+<!ENTITY sync.button.cancel.label 'Peruuta'>
+<!ENTITY sync.button.connect.label 'Yhdistä'>
 <!ENTITY sync.button.ok.label 'OK'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
+<!ENTITY bookmarks.folder.menu.label 'Kirjanmerkkivalikko'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
-<!ENTITY bookmarks.folder.unfiled.label 'Unsorted Bookmarks'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
+<!ENTITY bookmarks.folder.tags.label 'Avainsanat'>
+<!ENTITY bookmarks.folder.toolbar.label 'Kirjanmerkkipalkki'>
+<!ENTITY bookmarks.folder.unfiled.label 'Järjestelemättä olevat kirjanmerkit'>
+<!ENTITY bookmarks.folder.desktop.label 'Työpöydän kirjanmerkit'>
+<!ENTITY bookmarks.folder.mobile.label 'Kannettavan laitteen kirjanmerkit'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label 'Tuemme vain yhtä &syncBrand.fullName.label; -tiliä.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Virheellinen palautusavain. Yritä uudestaan.'>

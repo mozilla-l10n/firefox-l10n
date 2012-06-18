@@ -6,7 +6,7 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Tilin nimi:">
 <!ENTITY addAccountDialog.noAccountText "Pahoittelumme, mutta &brandShortName;in nykyisessä versiossa on mahdollista luoda vain yksi tili yhteen palveluun.">
-<!ENTITY addAccountDialog.createAccountText "Tämän ominaisuuden avulla voit käyttää useita tallennuspalveluja suurien tiedostojen lähettämiseen. Voit joko yhdistää olemassa olevaan tiliin palvelussa tai luoda uuden.">
+<!ENTITY addAccountDialog.createAccountText2 "Tämän ominaisuuden avulla voit käyttää useita tallennuspalveluja suurten tiedostojen lähettämiseen. Voit joko yhdistää olemassa olevaan tiliin palvelussa tai luoda uuden.">
 <!ENTITY addAccountDialog.authorizing "Tarkistetaan oikeuksia...">
 <!ENTITY addAccountDialog.error "Tapahtui virhe luotaessa tiliä.">
 <!ENTITY addAccountDialog.acceptButton.label "Luo tili">
