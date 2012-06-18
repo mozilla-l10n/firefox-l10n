@@ -100,7 +100,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm        "Thoir air falbh an dàta far loidhne">
 
-<!ENTITY encryptionTab.label             "Dubh-cheileadh">
+<!ENTITY encryptionTab.label             "Crioptachadh">
 
 <!ENTITY protocols.label                 "Pròtacalan">
 <!ENTITY useSSL3.label                   "Cleachd SSL 3.0">
