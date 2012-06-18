@@ -5,7 +5,7 @@
 <!ENTITY syncKey.page.title               "An iuchair &syncBrand.fullName.label; agad">
 <!ENTITY syncKey.page.description         "Thèid an iuchair seo a chleachdadh gus an dubh-cheileadh a thoirt far an dàta sa chunntas &syncBrand.fullName.label; agad. Bidh agad ris an iuchair seo a chur a-steach gach turas a rèiticheas tu &syncBrand.fullName.label; air coimpiutair ùr no air inneal ùr.">
 <!ENTITY syncKey.keepItSecret.heading     "Cum dìomhair e">
-<!ENTITY syncKey.keepItSecret.description "Tha an cunntas &syncBrand.fullName.label; agad fo dhubh-cheileadh a chum dìon do phrìobhaideachd. Bheireadh cuideigin eile bliadhnaichean as aonais na h-iuchrach seo mus rachadh aca am fiosrachadh prìobhaideach agad a dhì-cheileadh. 'S tusa an aon duine aig a bheil an iuchair seo. 'S ciall dha sin nach urrainn ach dhut fhèin inntrigeadh a dhèanamh dhan dàta &syncBrand.fullName.label; agad.">
+<!ENTITY syncKey.keepItSecret.description "Tha an cunntas &syncBrand.fullName.label; agad fo chrioptachadh a chum dìon do phrìobhaideachd. Bheireadh cuideigin eile bliadhnaichean as aonais na h-iuchrach seo mus rachadh aca am fiosrachadh prìobhaideach agad a dhì-chrioptachadh. 'S tusa an aon duine aig a bheil an iuchair seo. 'S ciall dha sin nach urrainn ach dhut fhèin inntrigeadh a dhèanamh dhan dàta &syncBrand.fullName.label; agad.">
 <!ENTITY syncKey.keepItSafe.heading       "Cum sàbhailte e">
 <!ENTITY syncKey.keepItSafe1.description  "Na caill an iuchair seo.">
 <!ENTITY syncKey.keepItSafe2.description  " Cha chum sinne lethbhreac na h-iuchrach agad (cha sgeul-rùin e 's fios aig dithis air, nach eil sin fìos?) 's mar sin ">

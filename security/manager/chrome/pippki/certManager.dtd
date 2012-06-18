@@ -57,7 +57,7 @@
 <!ENTITY certmgr.deletecert.aftername         "A' bheil thu cinnteach gu bheil thu airson an teisteanas seo a sguabadh às?">
 <!ENTITY certmgr.deleteusercert.title         "Sguab às an teisteanas agad">
 <!ENTITY certmgr.deleteusercert.beforename    "Dh'iarr thu an teisteanas a leanas a sguabadh às:">
-<!ENTITY certmgr.deleteusercert.aftername     "Chan urrainn dhut post-dealain a leughadh a chaidh a dhubh-cheileadh leis ma sguabas tu às an teisteanas seo.">
+<!ENTITY certmgr.deleteusercert.aftername     "Chan urrainn dhut post-dealain a leughadh a chaidh a chrioptachadh leis ma sguabas tu às an teisteanas seo.">
 
 <!ENTITY certmgr.certname                     "Ainm an teisteanais">
 <!ENTITY certmgr.certserver                   "Am frithealaiche">

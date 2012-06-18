@@ -45,7 +45,7 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "Tha &brandShortName; am bun do phrìobhaideachd">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Gus do phrìobhaideachd iomlan a dhèanamh cinnteach, thèid an dàta gu lèir agad a dhubh-cheileadh mus dèid a luchdadh suas. Cha dèid an iuchair aisig airson dì-cheileadh an dàta agad a luchdadh suas.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Gus do phrìobhaideachd iomlan a dhèanamh cinnteach, thèid an dàta gu lèir agad a chrioptachadh mus dèid a luchdadh suas. Cha dèid an iuchair aisig airson dì-chrioptachadh an dàta agad a luchdadh suas.">
 <!ENTITY recoveryKeyEntry.label        "D' iuchair aisig">
 <!ENTITY recoveryKeyEntry.accesskey    "g">
 <!ENTITY syncGenerateNewKey.label  "Gin iuchair ùr">
