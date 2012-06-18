@@ -11,7 +11,7 @@
 <!ENTITY accountPasswordTitle.label   "Passord">
 <!ENTITY accountPasswordInfo.label    "Skriv inn passordet i boksen nedanfor.">
 <!ENTITY accountPasswordField.label   "Passord:">
-<!ENTITY accountPasswordManager.label "Passordet som blir skrive inn vil bli lagra i passordbehandlaren. La det stå tomt dersom du ønskjer å bli spurt om passordet kvar gong denne kontoen blir kopla til.">
+<!ENTITY accountPasswordManager.label "Passordet som blir skrive inn vil bli lagra i passordbehandlaren. La det stå tomt dersom du ynskjer å bli spurt om passordet kvar gong denne kontoen blir kopla til.">
 
 <!ENTITY accountAdvancedTitle.label   "Avanserte innstillingar">
 <!ENTITY accountAdvancedInfo.label    "Du kan hoppe over dette steget om du vil.">
