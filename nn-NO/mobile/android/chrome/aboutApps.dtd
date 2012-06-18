@@ -1,0 +1,8 @@
+<!ENTITY aboutApps.title "Dine appar">
+
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.noApps.pre "Ingen vevappar er installerte. Du kan laste nd nokre frå ">
+<!ENTITY aboutApps.noApps.middle "app-butikken">
+<!ENTITY aboutApps.noApps.post ".">

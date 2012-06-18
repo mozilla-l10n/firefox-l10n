@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "Om &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentell og kan vere ustabil.">
+<!ENTITY aboutPage.telemetryStart               " Den sender automatisk informasjon om yting, maskinvare, bruksmønster og utvidingar tilbake til ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " for å bidra til å gjere &brandShortName; betre.">
 <!ENTITY aboutPage.checkForUpdates.link         "Sjå etter oppdateringar »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ser etter oppdateringar …">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen oppdateringar er tilgjengelege">
