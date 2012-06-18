@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label "จากแฟ้ม HTML">
-<!ENTITY importFromHTMLFile.accesskey "จ">
 
 <!ENTITY noMigrationSources.label "ไม่พบโปรแกรมใดที่มีข้อมูลที่คั่นหน้า, ประวัติ หรือรหัสผ่าน">
 

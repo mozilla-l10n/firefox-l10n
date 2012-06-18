@@ -22,19 +22,19 @@
 <!ENTITY fileMenu.accesskey           "ฟ">
 
 <!ENTITY newWindowCmd.label           "หน้าต่างใหม่">
-<!ENTITY newWindowCmd.accesskey       "N">
-<!ENTITY newWindowCmd.commandkey      "น">
+<!ENTITY newWindowCmd.accesskey       "น">
+<!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "เปิดแฟ้ม…">
-<!ENTITY openFileCmd.accesskey        "O">
-<!ENTITY openFileCmd.commandkey       "ป">
+<!ENTITY openFileCmd.accesskey        "ฟ">
+<!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "บันทึก">
-<!ENTITY saveFileCmd.accesskey        "S">
-<!ENTITY saveFileCmd.commandkey       "บ">
+<!ENTITY saveFileCmd.accesskey        "บ">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "บันทึกเป็น…">
-<!ENTITY saveFileAsCmd.accesskey      "ท">
+<!ENTITY saveFileAsCmd.accesskey      "ป">
 
 <!ENTITY closeCmd.label               "ปิด">
 <!ENTITY closeCmd.key                 "W">
@@ -44,16 +44,16 @@
 <!ENTITY editMenu.accesskey           "ก">
 
 <!ENTITY run.label                    "รัน">
-<!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "ร">
+<!ENTITY run.accesskey                "ร">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "ตรวจสอบ">
-<!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "ต">
+<!ENTITY inspect.accesskey            "ต">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "แสดง">
-<!ENTITY display.accesskey            "D">
-<!ENTITY display.key                  "ส">
+<!ENTITY display.accesskey            "ส">
+<!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context

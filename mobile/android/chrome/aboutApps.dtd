@@ -1,0 +1,9 @@
+<!ENTITY aboutApps.title "แอปของคุณ">
+
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+<!ENTITY aboutApps.noApps.pre "ไม่มีเว็บแอปติดตั้งไว้ หามาติดตั้งได้จาก ">
+<!ENTITY aboutApps.noApps.middle "ร้านค้าแอป">
+<!ENTITY aboutApps.noApps.post ".">
+

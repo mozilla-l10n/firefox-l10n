@@ -69,4 +69,7 @@
 <!ENTITY bookmarks.folder.mobile.label 'ที่คั่นหน้าจากอุปกรณ์พกพา'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label 'สนับสนุนบัญชี &syncBrand.fullName.label; เพียงบัญชีเดียว'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'กุญแจกู้ข้อมูลไม่ถูกต้อง โปรดลองใหม่'>

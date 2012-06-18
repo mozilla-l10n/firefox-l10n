@@ -98,6 +98,7 @@
 <!ENTITY permCookie "ตั้งค่าคุกกี้">
 <!ENTITY permInstall "ติดตั้งส่วนขยายหรือชุดตกแต่ง">
 <!ENTITY permGeo "แจ้งสถานที่">
+<!ENTITY  permPlugins           "เปิดใช้งานโปรแกรมเสริม">
 
 <!ENTITY  permIndexedDB              "บำรุงรักษาการเก็บข้อมูลออฟไลน์">
 <!ENTITY  permClearStorage           "ล้างข้อมูล">
