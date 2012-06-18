@@ -46,7 +46,7 @@
   -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Calendar">
+<!ENTITY lightning.preferencesLabel "Agenda">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Événement…">
