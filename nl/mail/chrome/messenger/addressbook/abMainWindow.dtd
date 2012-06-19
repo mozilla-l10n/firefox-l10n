@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Adresboek">
 
 <!-- File Menu -->
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Schermnaam">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "Chatnaam">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisatie">
 <!ENTITY Company.accesskey                              "r">
 <!ENTITY NickName.label                                 "Bijnaam">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Thuis">
 <!ENTITY other.heading                                  "Overig">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefoon">
 <!ENTITY work.heading                                   "Werk">
 <!-- Special Box Headings, for mailing lists -->
