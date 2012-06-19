@@ -37,8 +37,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY junkLog.title "Journal des indésirables">
-<!ENTITY junkLogInfo.label "Journal d'activité du contrôle des indésirables.">
+<!ENTITY adaptiveJunkLog.title "Journal des indésirables">
+<!ENTITY adaptiveJunkLogInfo.label "Journal d'activité du contrôle adaptatif des indésirables.">
 <!ENTITY clearLog.label "Vider le journal">
 <!ENTITY clearLog.accesskey "V">
 <!ENTITY closeLog.label "Fermer">
