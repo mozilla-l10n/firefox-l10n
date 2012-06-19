@@ -8,7 +8,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Henüz hiç hesap yapılandırılmamış">
-<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
+<!ENTITY accountManager.noAccount.description "Yapılandırma sürecinde &brandShortName; tarafından yönlendirilmek için &accountManager.newAccount.label; düğmesine tıklayın.">
 <!ENTITY account.autoSignOn.label     "Başlangıçta oturum aç">
 <!ENTITY account.autoSignOn.accesskey "o">
 <!ENTITY account.connect.label        "Bağlan">
@@ -19,8 +19,8 @@
 <!ENTITY account.edit.accesskey       "Ö">
 <!ENTITY account.moveup.label         "Yukarı taşı">
 <!ENTITY account.movedown.label       "Aşağı taşı">
-<!ENTITY account.cancelReconnection.label         "Cancel reconnection">
-<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.cancelReconnection.label         "Tekrar bağlanmadan vazgeç">
+<!ENTITY account.cancelReconnection.accesskey     "v">
 <!ENTITY account.connecting           "Connecting…">
 <!ENTITY account.disconnecting        "Bağlantı kesiliyor…">
 <!ENTITY account.disconnected         "Bağlı değil">

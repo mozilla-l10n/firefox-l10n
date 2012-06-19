@@ -49,9 +49,9 @@
 <!ENTITY defaultPortLabel.label "Varsayılan:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServer.label "Incoming Server:">
-<!ENTITY incomingServer.accesskey "S">
+<!ENTITY incomingServer.description "Gelen posta sunucunuzun adını girin. (örnek: &quot;mail.ornekadres.com&quot;)">
+<!ENTITY incomingServer.label "Gelen posta sunucusu:">
+<!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "E-posta sağlayıcınız tarafından verilen gelen kullanıcı adını girin (örneğin &quot;mkemal&quot;).">
 <!ENTITY incomingUsername.label "User Name:">
@@ -66,10 +66,10 @@
 <!ENTITY outgoingTitle.label "Giden sunucu bilgileri">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.label "Giden posta sunucusu:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
-<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.description "E-posta sağlayıcınız tarafından size verilen giden posta kullanıcı adınızı girin (genellikle gelen e-posta ile aynıdır).">
+<!ENTITY outgoingUsername.label "Giden sunucusu kullanıcı adı:">
 <!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
