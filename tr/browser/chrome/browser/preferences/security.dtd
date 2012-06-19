@@ -30,7 +30,7 @@
 <!ENTITY  passwordExceptions.accesskey  "c">
 
 <!ENTITY  useMasterPassword.label        "Ana parola kullan">
-<!ENTITY  useMasterPassword.accesskey    "u">
+<!ENTITY  useMasterPassword.accesskey    "p">
 <!ENTITY  changeMasterPassword.label     "Ana parolayı değiştir…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 

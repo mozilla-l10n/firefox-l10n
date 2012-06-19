@@ -111,7 +111,7 @@
 <!ENTITY certs.auto                      "Birini kendiliğinden seç">
 <!ENTITY certs.auto.accesskey            "B">
 <!ENTITY certs.ask                       "Her seferinde bana sor">
-<!ENTITY certs.ask.accesskey             "b">
+<!ENTITY certs.ask.accesskey             "H">
 <!ENTITY viewCerts.label                 "Onay belgelerini göster">
 <!ENTITY viewCerts.accesskey             "O">
 <!ENTITY viewCRLs.label                  "Hükümsüz sayılanlar listesi">
