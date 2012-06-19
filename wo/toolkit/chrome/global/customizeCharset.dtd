@@ -3,11 +3,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title.label        "Customize Character Encoding">
-<!ENTITY current.label      "Active Character Encodings:">
+<!ENTITY title.label        "Solalal suulaale araf yi">
+<!ENTITY current.label      "Suulaale araf yi sàjj nañu:">
 <!ENTITY remove.label       "Màbbal">
 <!ENTITY remove.accessKey   "M">
-<!ENTITY additional.label   "Available Character Encodings:">
+<!ENTITY additional.label   "Suulaale araf yi féex nañu:">
 <!ENTITY add.label          "Yokk">
 <!ENTITY add.accessKey      "Y">
 <!ENTITY moveUp.label       "Yéeg">

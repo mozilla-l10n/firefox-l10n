@@ -102,11 +102,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "G">
 <!ENTITY fullscreenAllowButton.label "Jox ndigal">
 <!ENTITY fullscreenExitButton.label "Tere">
-<!ENTITY fullscreenApproval.value "Jox ndigal yambalaŋ">
+<!ENTITY fullscreenApproval.value "Jox ndigal yambalaŋ?">
 
 <!ENTITY fullscreenExitHint.value "Bësal ESC sa soo bëgg génn yambalaŋ.">
 <!ENTITY leaveDOMFullScreen.label "Génn yambalaŋ">
-<!ENTITY leaveDOMFullScreen.accesskey "é">
+<!ENTITY leaveDOMFullScreen.accesskey "G">
 
 <!ENTITY closeWindow.label "Tëj palanteer bi">
 <!ENTITY closeWindow.accesskey "T">
@@ -212,7 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Seetal mbir mii">
-<!ENTITY inspectContextMenu.accesskey "x">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveUI.label            "Anamu Yëg">
 <!ENTITY responsiveUI.accesskey        "ë">
@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tëj banqaasu tallal">
 <!ENTITY devToolbarMenu.label              "Banqaasu tallal">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarMenu.accesskey          "q">
 <!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "Konsolu Web">

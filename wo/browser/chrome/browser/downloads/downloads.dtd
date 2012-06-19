@@ -5,12 +5,12 @@
      Tooltip for the indicator that displays the progress of ongoing downloads.
      -->
 
-<!ENTITY indicator.tooltiptext            "Downloads">
+<!ENTITY indicator.tooltiptext            "Yeb yi">
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title                  "Downloads">
+<!ENTITY downloads.title                  "Yeb yi">
 
 <!ENTITY cmd.pause.label                  "Taxaw">
 <!ENTITY cmd.pause.accesskey              "T">
@@ -25,17 +25,17 @@
      -->
 <!ENTITY cmd.show.label                   "Ubbi wayndare bi ëmb dencukaay bi">
 <!ENTITY cmd.show.accesskey               "w">
-<!ENTITY cmd.showMac.label                "Show In Finder">
+<!ENTITY cmd.showMac.label                "Wone ci biir Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.goToDownloadPage.label       "Go To Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.retry.label                  "Jéemaat">
+<!ENTITY cmd.goToDownloadPage.label       "Dem ci xëtu yeb">
+<!ENTITY cmd.goToDownloadPage.accesskey   "D">
 <!ENTITY cmd.copyDownloadLink.label       "Duppi màkkaanu buumu yeb bi">
 <!ENTITY cmd.copyDownloadLink.accesskey   "m">
 <!ENTITY cmd.removeFromList.label         "Dindi ci lim gi">
 <!ENTITY cmd.removeFromList.accesskey     "D">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.accesskey          "a">
+<!ENTITY cmd.clearList.label              "Dindi lim gi">
+<!ENTITY cmd.clearList.accesskey          "D">
 
-<!ENTITY downloadshistory.label           "Show All Downloads">
-<!ENTITY downloadshistory.accesskey       "S">
+<!ENTITY downloadshistory.label           "Wone yeb yépp">
+<!ENTITY downloadshistory.accesskey       "W">

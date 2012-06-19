@@ -4,7 +4,7 @@
 
 <!ENTITY  colorsDialog.title              "Melo yi">
 <!ENTITY  window.width                    "54em">
-<!ENTITY  window.macWidth                 "41em">
+<!ENTITY  window.macWidth                 "54em">
 
 <!ENTITY  allowPagesToUse.label           "May xët yi ñu tànn seen melo bopp yu wuute ak yi ñu tànn fii ci kaw">
 <!ENTITY  allowPagesToUse.accesskey       "M">

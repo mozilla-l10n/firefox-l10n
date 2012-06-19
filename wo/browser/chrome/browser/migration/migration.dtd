@@ -18,7 +18,7 @@
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromFirefox.accesskey    "x">
 
 <!ENTITY noMigrationSources.label       "Amul benn xelteef bu ëmb ay mandarga xët, jaar jaar walla baatu jàll bu ñu aar.">
 

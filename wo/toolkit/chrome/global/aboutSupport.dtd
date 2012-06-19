@@ -5,15 +5,13 @@
 <!ENTITY aboutSupport.pageTitle "Xibaari depaane">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "  Xët wii dafa ëmb ay xibaar yu xarala tu am solo 
+boo bëggee saafara benn jafe jafe. Soo bëggee ay tontu ci laaj yi gëna bari 
+ci &brandShortName;, mën nga laaj sunu <a id='supportLink'>dalu ndimbal</a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Yokk yi">
 <!ENTITY aboutSupport.extensionName "Tur">
-<!ENTITY aboutSupport.extensionEnabled "Suqali">
+<!ENTITY aboutSupport.extensionEnabled "Suqaliku">
 <!ENTITY aboutSupport.extensionVersion "Sumb">
 <!ENTITY aboutSupport.extensionId "ID">
 
@@ -25,24 +23,24 @@
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Wayndare jëmm">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins yi ñu suqali">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Tabbinu dajale">
 <!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Raapoori Crash">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Jëfandikoo damb">
 
-<!ENTITY aboutSupport.showDir.label "Open Directory">
+<!ENTITY aboutSupport.showDir.label "Ubbi wayndare bi mu andal">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Wone ci biir Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Show Folder">
+<!ENTITY aboutSupport.showWin.label "Ubbi wayndare bi mu andal">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Taamu yu am solo yu ñu soppi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tur">
 <!ENTITY aboutSupport.modifiedPrefsValue "Solo">
 
@@ -51,9 +49,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "Sumbu kaggu yi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Jaar jaaru samp">
 <!ENTITY aboutSupport.updateHistoryTitle "Yeesal jaar jaar bi">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Duppi ci dencukaayu duppi yi">
+<!ENTITY aboutSupport.copyToClipboard.label "Duppi ci dencandikaayu kayit yi">

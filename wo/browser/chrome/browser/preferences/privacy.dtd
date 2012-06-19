@@ -67,8 +67,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Saa su nekk jëfandikoo anamu joowum biir">
 <!ENTITY  privateBrowsingPermanent2.accesskey "j">
 
-<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "Dencal jaar jaaru njoow mi ak yeb yi">
+<!ENTITY  rememberHistory2.accesskey  "D">
 
 <!ENTITY  rememberSearchForm.label       "Denc jaar jaaru wut yi ak formileer yi">
 <!ENTITY  rememberSearchForm.accesskey   "f">

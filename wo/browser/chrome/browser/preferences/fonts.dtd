@@ -4,8 +4,8 @@
 
 <!ENTITY  fontsDialog.title                       "Njabootu araf">
 <!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  window.macWidth                         "49em">
+<!ENTITY  window.unixWidth                        "51em">
 
 <!ENTITY  language.label                          "Njabootu araf ngir :">
 <!ENTITY  language.accesskey                      "o">

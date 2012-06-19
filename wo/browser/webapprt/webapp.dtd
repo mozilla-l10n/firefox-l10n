@@ -24,26 +24,26 @@
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "Wane lépp">
 
-<!ENTITY editMenu.label                     "Edit">
-<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY editMenu.label                     "Jagal">
+<!ENTITY editMenu.accesskey                 "J">
 <!ENTITY undoCmd.label                      "Neenal">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "N">
-<!ENTITY redoCmd.label                      "Redo">
+<!ENTITY redoCmd.label                      "Delloo">
 <!ENTITY redoCmd.key                        "Y">
-<!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "Cut">
+<!ENTITY redoCmd.accesskey                  "D">
+<!ENTITY cutCmd.label                       "Dog">
 <!ENTITY cutCmd.key                         "X">
-<!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "Copy">
+<!ENTITY cutCmd.accesskey                   "o">
+<!ENTITY copyCmd.label                      "Duppi">
 <!ENTITY copyCmd.key                        "C">
-<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY copyCmd.accesskey                  "p">
 <!ENTITY pasteCmd.label                     "Taf">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "T">
-<!ENTITY deleteCmd.label                    "Delete">
+<!ENTITY deleteCmd.label                    "Màbb">
 <!ENTITY deleteCmd.key                      "D">
-<!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "Select All">
+<!ENTITY deleteCmd.accesskey                "M">
+<!ENTITY selectAllCmd.label                 "Fal lépp">
 <!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "A">
+<!ENTITY selectAllCmd.accesskey             "é">

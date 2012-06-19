@@ -20,8 +20,8 @@
 <!ENTITY  found.wizard.title               "Gis nañu ay modil yu dëppoo">
 <!ENTITY  found.top.label                 "Falal modil yi nga bëgg samp:">
 <!ENTITY  found.disabledXPinstall.label   "Yeesal yii mëneesuleena samp ndax sampum xeltéef yi dafa suux. Mën nga soppi parameetar yi fii ci suuf.">
-<!ENTITY  found.enableXPInstall.label     "Allow websites to install software">
-<!ENTITY  found.enableXPInstall.accesskey "A">
+<!ENTITY  found.enableXPInstall.label     "Jox ndigal dalub web yi di samp ay xeltéef">
+<!ENTITY  found.enableXPInstall.accesskey "J">
 
 <!ENTITY  installing.wizard.title         "Sampum modil yu dëppoo">
 <!ENTITY  installing.top.label            "Yebum ak sampum yeesali modili…">

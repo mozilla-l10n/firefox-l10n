@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Jàppanteel léegi">
 
 <!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY sync.setup.pair            "Boo bëggee sajj, falal « boole ci benn apaarey » ci sa beneen apaarey.">
 <!ENTITY sync.fallback              "I'm not near my computer…">
 <!ENTITY sync.setup.manual          "Enter your Sync account information">
 <!ENTITY sync.account               "Account Name">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "Boole ak benn aparey">
-<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.pair.description      "Boo bëggee sajj sa apparey bu bees falal « tabbal jappante » ci moom.">
 <!ENTITY sync.setup.close           "Tëj">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

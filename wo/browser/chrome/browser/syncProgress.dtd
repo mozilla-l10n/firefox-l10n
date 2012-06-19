@@ -6,9 +6,9 @@
     %brandDTD;
 <!-- These strings are used in the sync progress upload page -->
 
-<!ENTITY syncProgress.pageTitle    "Your First Sync">
-<!ENTITY syncProgress.textBlurb    "Your data is now being encrypted and uploaded in the background. You can close this tab and continue using &brandShortName;.">
+<!ENTITY syncProgress.pageTitle    "Sa jappante bu jëkk">
+<!ENTITY syncProgress.textBlurb    "Say rootaan xaatim nañuleen te yonneeleen ci ginnaaw. Mën nga tëj koñ bi te kontine jëfandikoo &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Tëj">
-<!ENTITY syncProgress.logoAltText  "&brandShortName; logo">
-<!ENTITY syncProgress.diffText     "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
+<!ENTITY syncProgress.logoAltText  "Ndimbalu &brandShortName;">
+<!ENTITY syncProgress.diffText     "&brandShortName; dina jappante ci saa si ci ginnaaw. Mën nga tëj koñ bi te konine jëfandikoo &brandShortName;.">
 

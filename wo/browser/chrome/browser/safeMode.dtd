@@ -5,15 +5,15 @@
 <!ENTITY safeModeDialog.title         "Anam wu amul lajj bu &brandShortName;">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "Start in Safe Mode">
-<!ENTITY resetProfile.label           "Reset &brandShortName;">
+<!ENTITY startSafeMode.label          "Tambalil ci anam budul lajj">
+<!ENTITY resetProfile.label           "Tambaliwaat &brandShortName;">
 
-<!ENTITY safeModeDescription3.label   "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
-<!ENTITY safeModeDescription4.label   "Your add-ons and custom settings will be temporarily disabled.">
+<!ENTITY safeModeDescription3.label   "Anam budul lajj anam bu beru la bu &brandShortName; mën nañu ko jariñoo ngir saafara yenn yi.">
+<!ENTITY safeModeDescription4.label   "Say modil ak paraameetar yi ñu solal dina ñu simpeeku ab diir.">
 
-<!ENTITY resetProfileInstead.label    "You can also Reset &brandShortName; if you want to start fresh.">
+<!ENTITY resetProfileInstead.label    "Mën nga sajjaat &brandShortName; soo bëggee tambaliwaat ci neen.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by resetting &brandShortName; to its default state or troubleshooting in Safe Mode.">
-<!ENTITY resetProfileFooter.label       "Everything else will be reset to factory defaults.">
-<!ENTITY safeModeInstead.label          "If you don't want this, you can continue in Safe Mode to do your own troubleshooting with your add-ons and custom settings temporarily disabled.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; tëju na bi muy tambali. Mën na am ay modil la walla yeneen mbir. Mën nga ko safara boo sàjjaatee &brandShortName; ci na mu meloon ci ndorte walla nga saafara ko ak anam budul lajj.">
+<!ENTITY resetProfileFooter.label       "Li ci des yépp dina sàjjaat ci anamu ñakk ndigalam.">
+<!ENTITY safeModeInstead.label          "Su fekkeeni du loolu nga bëgg, mën nga kontine ci anam bu amul lajj ngir saafara mbir mi ni nga ko bëggee, te say modil ak regalaas yi nga solal di nañu simpeeku ab diir.">

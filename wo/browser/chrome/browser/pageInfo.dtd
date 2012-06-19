@@ -65,8 +65,8 @@
 <!ENTITY  permCookie            "Jëmmal cookies yi">
 <!ENTITY  permInstall           "Samp yokk yi walla tem yi">
 <!ENTITY  permGeo               "Seddoo berab bi">
-<!ENTITY  permPlugins           "Activate Plugins">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPlugins           "Sàjjal plugin yi">
+<!ENTITY  permFullscreen        "Demal ci seetukaay bu yambalaŋ">
 
 <!ENTITY  permIndexedDB              "Denc rootaan yi ci jokkoodiku">
 <!ENTITY  permClearStorage           "Màbbal rootaan yi">

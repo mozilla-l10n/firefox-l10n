@@ -6,30 +6,30 @@
 <!ENTITY playButton.pauseLabel "Taxaw">
 <!ENTITY muteButton.muteLabel "Muuma">
 <!ENTITY muteButton.unmuteLabel "Deglu">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Seetukaay bu yambalaŋ">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Génn ci anamu yambalaŋ">
 
 <!ENTITY stats.media "Yéenekaay yi">
 <!ENTITY stats.size "Dayo">
-<!ENTITY stats.activity "Activity">
-<!ENTITY stats.activityPaused "Paused">
-<!ENTITY stats.activityPlaying "Playing">
-<!ENTITY stats.activityEnded "Ended">
-<!ENTITY stats.activitySeeking "(seeking)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.channels "Channels">
-<!ENTITY stats.sampleRate "Sample Rate">
-<!ENTITY stats.framesParsed "Frames parsed">
-<!ENTITY stats.framesDecoded "Frames decoded">
-<!ENTITY stats.framesPresented "Frames presented">
-<!ENTITY stats.framesPainted "Frames painted">
+<!ENTITY stats.activity "Yëngatu">
+<!ENTITY stats.activityPaused "Taxaw">
+<!ENTITY stats.activityPlaying "Mi ngi ci njang">
+<!ENTITY stats.activityEnded "Jeex na">
+<!ENTITY stats.activitySeeking "(wut)">
+<!ENTITY stats.volume "Rëyaay">
+<!ENTITY stats.channels "Yoon yi">
+<!ENTITY stats.sampleRate "Wall ci natt">
+<!ENTITY stats.framesParsed "Nataal yi ñu jangat">
+<!ENTITY stats.framesDecoded "Nataal yi ñu faramfacce">
+<!ENTITY stats.framesPresented "Naatal yi ñu wone">
+<!ENTITY stats.framesPainted "Nataal yi ñu rëdd">
 
-<!ENTITY error.aborted "Video loading stopped.">
-<!ENTITY error.network "Video playback aborted due to a network error.">
-<!ENTITY error.decode "Video can't be played because the file is corrupt.">
-<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
-<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
-<!ENTITY error.generic "Video playback aborted due to an unknown error.">
+<!ENTITY error.aborted "Yebum videyoo bi taxaw.">
+<!ENTITY error.network "Njumte reso taxawal na doxub videyoo bi.">
+<!ENTITY error.decode "Wideyoo kenn mëneesuko xool ndax dencukaay bi dafa sankar.">
+<!ENTITY error.srcNotSupported "Daytalu wideyoo bi walla anamu MIME saytuwul.">
+<!ENTITY error.noSource2 "Kenn gisul benn daytalu wideyoo walla anamu MIME.">
+<!ENTITY error.generic "Njumte bu kenn xamul taxawal doxub wideyoo bi.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

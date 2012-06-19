@@ -62,5 +62,5 @@ that require it.  -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Jëf jii mënul dellu ginnaaw.">
 
-<!ENTITY dialog.width                 "28em">
-<!ENTITY column.width                 "14em">
+<!ENTITY dialog.width                 "30em">
+<!ENTITY column.width                 "10em">

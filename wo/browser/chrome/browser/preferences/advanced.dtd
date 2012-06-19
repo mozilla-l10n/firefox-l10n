@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "t">
 <!ENTITY searchStartTyping.label         "Dekkil wut gi boo dee dugal bind">
 <!ENTITY searchStartTyping.accesskey     "k">
-<!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.label          "Yëgle su ay dal di jéem fataat xët wi">
+<!ENTITY blockAutoRefresh.accesskey      "Y">
 
 <!ENTITY browsing.label                  "Joow mi">
 
@@ -30,9 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Saa su ne boo dee tambali xoolal ndax &brandShortName; mooy joowkat ñakk ndigal">
 <!ENTITY alwaysCheckDefault.accesskey    "a">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY setDefault.label                "Defal &brandShortName; sa joowukaay ñakk ndigal">
+<!ENTITY setDefault.accesskey            "D">
+<!ENTITY isDefault.label                 "&brandShortName; mooy leegi sa joowukaay ñakk ndigal">
 <!ENTITY submitCrashes.label             "Joxe rapooru ngiroo">
 <!ENTITY submitCrashes.accesskey         "J">
 <!ENTITY submitTelemetry.label           "Joxe ngoora rootaan yi">
@@ -46,9 +46,9 @@
 <!ENTITY connectionSettings.label        "Parameetar…">
 <!ENTITY connectionSettings.accesskey    "P">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
+<!ENTITY httpCache.label                 "Këmbu Web bi nëbbu">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+<!ENTITY offlineStorage2.label           "Këmbu Web ak rootaani jëfandikookat nekkuñu ci rëdd">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -61,20 +61,20 @@
 <!ENTITY limitCacheSizeAfter.label       "Mo ci dendu disk bi">
 <!ENTITY clearCacheNow.label             "Tuur ndenc mi leegi">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.label   "Tuural leegi">
+<!ENTITY clearOfflineAppCacheNow.accesskey "T">
 <!ENTITY overrideSmartCacheSize.label    "Soppali saytu boppamu denc mi">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Mottali yi">
 
 <!ENTITY updateApp.label                 "Yeesali brandShortName:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAuto.label                "Samp ñakk ndigal yeesal yi (ndigal la ngir sa kaarange)">
+<!ENTITY updateAuto.accesskey            "S">
+<!ENTITY updateCheck.label               "Seetal ndax am na ay yeesal, wante nga bayyi ma japp li may samp">
+<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateManual.label              "Bul seet mukk yeesal yi (tere nañu ko, ab risk la ci wallu kaarange)">
+<!ENTITY updateManual.accesskey          "B">
 
 <!ENTITY updateAutoAddonWarn.label       "Yëgle su fekkeeni dafay suuxal modil yi">
 <!ENTITY updateAutoAddonWarn.accesskey   "Y">
@@ -82,10 +82,10 @@
 <!ENTITY updateHistory.label             "Wone jaar jaaru mottali yi">
 <!ENTITY updateHistory.accesskey         "a">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Jëfandikool ab sarwiisu laltu ngir ssamp yeesal yi">
+<!ENTITY useService.accesskey            "k">
 
-<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY updateOthers.label              "Yeesal ñakk ndigal:">
 <!ENTITY enableSearchUpdate.label        "Motëëri wut">
 <!ENTITY enableSearchUpdate.accesskey    "o">
 
@@ -94,7 +94,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Seppi yi…">
 <!ENTITY offlineNotifyExceptions.accesskey "S">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label          "Dal yii am nañu ay rootaan yu ñu aar ngir jëfandikoo leen ci jokkoodiku:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Far…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
