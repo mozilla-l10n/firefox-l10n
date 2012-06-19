@@ -83,10 +83,10 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.label "Lánscáileán">
+<!ENTITY enterFullScreenCmd.accesskey "L">
+<!ENTITY exitFullScreenCmd.label "Scoir ón Lánscáileán">
+<!ENTITY exitFullScreenCmd.accesskey "L">
 <!ENTITY fullScreenCmd.label "Lánscáileán">
 <!ENTITY fullScreenCmd.accesskey "i">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -102,11 +102,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "L">
 <!ENTITY fullscreenAllowButton.label "Ceadaigh">
 <!ENTITY fullscreenExitButton.label "Diúltaigh">
-<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+<!ENTITY fullscreenApproval.value "Ceadaigh lánscáileán?">
 
-<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
-<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY fullscreenExitHint.value "Brúigh ESC ag am ar bith chun scor ón lánscáileán.">
+<!ENTITY leaveDOMFullScreen.label "Scoir ón Lánscáileán">
+<!ENTITY leaveDOMFullScreen.accesskey "n">
 
 <!ENTITY closeWindow.label "Dún an Fhuinneog">
 <!ENTITY closeWindow.accesskey "F">
@@ -214,8 +214,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label "Scrúdaigh Eilimint">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveUI.label "Responsive Mode">
-<!ENTITY responsiveUI.accesskey "R">
+<!ENTITY responsiveUI.label "Mód Sofhreagrach">
+<!ENTITY responsiveUI.accesskey "S">
 <!ENTITY responsiveUI.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -235,14 +235,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "Dún an Scrúdaitheoir">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label "Developer Toolbar">
-<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbarCloseButton.tooltiptext "Dún an Barra Uirlisí d'Fhorbróirí">
+<!ENTITY devToolbarMenu.label "Barra Uirlisí d'Fhorbróirí">
+<!ENTITY devToolbarMenu.accesskey "b">
 <!ENTITY devToolbar.commandkey "v">
 
-<!ENTITY webConsoleButton.label "Web Console">
-<!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
+<!ENTITY webConsoleButton.label "Consól Gréasáin">
+<!ENTITY inspectorButton.label "Scrúdaitheoir">
+<!ENTITY scriptsButton.label "Scripteanna">
 
 <!ENTITY inspectorHTMLCopyInner.label "Cóipeáil HTML Istigh">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
@@ -255,13 +255,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
   -  toolbar.  -->
 
-<!ENTITY inspectOptionButton.tooltiptext "Inspector Options">
+<!ENTITY inspectOptionButton.tooltiptext "Roghanna an Scrúdaitheora">
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
 
-<!ENTITY inspectorToggleVeil.label "Dim The Page">
+<!ENTITY inspectorToggleVeil.label "Dorchaigh an Leathanach">
 <!ENTITY inspectorToggleVeil.accesskey "D">
-<!ENTITY inspectorToggleInfobar.label "Show Node Info">
-<!ENTITY inspectorToggleInfobar.accesskey "S">
+<!ENTITY inspectorToggleInfobar.label "Taispeáin Eolas faoin Nód">
+<!ENTITY inspectorToggleInfobar.accesskey "T">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
