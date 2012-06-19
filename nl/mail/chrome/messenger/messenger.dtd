@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "B">
 <!ENTITY newIMAccountCmd.label "Chataccount…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Chatcontact…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Niet beschikbaar">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Accounts tonen…">
+<!ENTITY joinChatCmd.label "Chat bijwonen…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Opgeslagen bestanden">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
