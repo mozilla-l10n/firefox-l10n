@@ -44,13 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Críochnaithe">
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 "Tá do chuid sonraí á n-íosluchtú sa chúlra. Féach ar na Socruithe chun do chuntas a bhainistiú, nó tosaigh ag brabhsáil le &brandShortName;..">
 <!ENTITY sync.settings.label "Socruithe">
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 "Tá cuntas &syncBrand.fullName.label; socraithe agat cheana. Féach ar na Socruithe chun do chuntas a bhainistiú, nó tosaigh &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Bain triail as arís.">
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+<!ENTITY sync.pair.connectlocation.label "Chun do ghléas nua a chur i ngníomh, roghnaigh “Socraigh &syncBrand.shortName.label;” ar an ngléas, ansin roghnaigh “Tá Cuntas Agam”.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Roghanna">
@@ -72,10 +72,10 @@
 <!ENTITY bookmarks.folder.unfiled.label "Leabharmharcanna Gan Sórtáil">
 <!ENTITY bookmarks.folder.desktop.label "Leabharmharcanna Deisce">
 <!ENTITY bookmarks.folder.mobile.label "Leabharmharcanna Soghluaiste">
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.readinglist.label "Liosta Léitheoireachta">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ní thacaítear ach aon chuntas &syncBrand.fullName.label; amháin.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.new.recoverykey.status.incorrect "Eochair Athshlánaithe mhícheart. Triail arís é, le do thoil.">

@@ -30,9 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an brabhsálaí réamhshocraithe">
 <!ENTITY alwaysCheckDefault.accesskey "g">
-<!ENTITY setDefault.label "Make &brandShortName; the default browser">
+<!ENTITY setDefault.label "Úsáid &brandShortName; mar do rogha brabhsálaí">
 <!ENTITY setDefault.accesskey "d">
-<!ENTITY isDefault.label "&brandShortName; is currently your default browser">
+<!ENTITY isDefault.label "Is é &brandShortName; do bhrabhsálaí réamhshocraithe faoi láthair">
 <!ENTITY submitCrashes.label "Seol tuairiscí ar thuairteáil">
 <!ENTITY submitCrashes.accesskey "S">
 <!ENTITY submitTelemetry.label "Seol sonraí a bhaineann le luas">
