@@ -71,18 +71,31 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Događaji u ovom kalendarskom mjesecu">
 
 <!ENTITY calendar.unifinder.tree.done.label          "Gotovo">
+<!ENTITY calendar.unifinder.tree.done.tooltip        "Kliknite za sortiranje prema završenom">
 <!ENTITY calendar.unifinder.tree.priority.label      "Prioritet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip    "Kliknite za sortiranje prema prioritetu">
 <!ENTITY calendar.unifinder.tree.title.label         "Naslov">
+<!ENTITY calendar.unifinder.tree.title.tooltip       "Kliknite za sortiranje prema naslovu">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; završeno">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Kliknite za sortiranje prema &#37; završenja">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Počinje">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip   "Kliknite za sortiranje prema datumu početka">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Završava">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip     "Kliknite za sortiranje prema datumu završetka">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Dospjeva">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip     "Kliknite za sortiranje prema datumu dospjeća">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Završeno">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Kliknite za sortiranje prema završenom">
 <!ENTITY calendar.unifinder.tree.categories.label    "Kategorija">
+<!ENTITY calendar.unifinder.tree.categories.tooltip  "Kliknite za sortiranje prema kategoriji">
 <!ENTITY calendar.unifinder.tree.location.label      "Lokacija">
+<!ENTITY calendar.unifinder.tree.location.tooltip    "Kliknite za sortiranje prema lokaciji">
 <!ENTITY calendar.unifinder.tree.status.label        "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip      "Kliknite za sortiranje prema statusu">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Naziv kalendara">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Kliknite za sortiranje prema nazivu kalendara">
 <!ENTITY calendar.unifinder.tree.duration.label      "Dospjeva u">
+<!ENTITY calendar.unifinder.tree.duration.tooltip    "Kliknite za sortiranje prema dospjeću">
 <!ENTITY calendar.unifinder.close.tooltip            "Zatvori pretraživanje i popis događaja">
 
 <!ENTITY calendar.today.button.tooltip          "Idi na danas" >
