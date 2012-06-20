@@ -1,4 +1,2 @@
-answers
 google
-wikipedia
-yahoo
+wikipedia-ptpt
