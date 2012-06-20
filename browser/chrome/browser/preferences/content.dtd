@@ -24,12 +24,12 @@
 <!ENTITY fontsAndColors.label "Clófhoirne agus Dathanna">
 
 <!ENTITY defaultFont.label "Cló réamhshocraithe:">
-<!ENTITY defaultFont.accesskey "s">
+<!ENTITY defaultFont.accesskey "r">
 <!ENTITY defaultSize.label "Méid:">
 <!ENTITY defaultSize.accesskey "M">
 
 <!ENTITY advancedFonts.label "Casta…">
-<!ENTITY advancedFonts.accesskey "C">
+<!ENTITY advancedFonts.accesskey "s">
 
 <!ENTITY colors.label "Dathanna…">
 <!ENTITY colors.accesskey "D">
