@@ -64,7 +64,7 @@
 <!ENTITY clearOfflineAppCacheNow.label "Bánaigh Anois">
 <!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label "Sáraigh bainistíocht uathoibríoch na taisce">
-<!ENTITY overrideSmartCacheSize.accesskey "S">
+<!ENTITY overrideSmartCacheSize.accesskey "r">
 
 <!ENTITY updateTab.label "Nuashonrú">
 
