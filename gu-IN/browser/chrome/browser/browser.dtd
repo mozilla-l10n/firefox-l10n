@@ -526,7 +526,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY backForwardButtonMenu.tooltip "ઈતિહાસ બતાવવા માટે જમણું ક્લિક કરો અથવા નીચે ખેંચો">
 <!ENTITY backForwardButtonMenuMac.tooltip "ઈતિહાસ બતાવવા માટે નીચે ખેંચો">
-<!ENTITY domFullScreenWarning.label "પૂર્ણ-સ્ક્રીન સ્થિતિ છોડવા માટે ઍસ્કેપ દબાવો">
+
 <!ENTITY inspect3DViewButton.label     "3D દેખાવ">
 <!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectCloseButton.tooltiptext "પરીક્ષક બંધ કરો">
@@ -544,9 +544,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY videoShowStats.label        "પરિસ્થિતિ બતાવો">
 <!ENTITY videoShowStats.accesskey    "t">
 
-<!ENTITY htmlPanel.accesskey          "H">
-<!ENTITY htmlPanel.label              "HTML">
-<!ENTITY htmlPanel.tooltiptext        "HTML પેનલ">
+
+
+
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 <!ENTITY inspectorHTMLCopyInner.label       "ઇનર HTML ની નકલ કરો">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
