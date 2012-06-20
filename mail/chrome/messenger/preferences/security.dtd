@@ -52,7 +52,7 @@
 <!ENTITY acceptCookies.label "Glac le fianáin ó shuímh">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY keepUntil.label "Coinnigh:">
-<!ENTITY keepUntil.accesskey "C">
+<!ENTITY keepUntil.accesskey "o">
 <!ENTITY expire.label "go dtí go mbeidh siad caite">
 <!ENTITY close.label "go dtí go ndúnaim &brandShortName;">
 <!ENTITY askEachTime.label "fiafraigh díom i gcónaí">
