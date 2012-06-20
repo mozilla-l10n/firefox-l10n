@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached "Limite de stockage atteinte">
+<!ENTITY fileExceedsQuota.accept "Mettre à niveau">
+<!ENTITY fileExceedsQuota.cancel "Annuler">
+<!ENTITY fileExceedsQuota.description "Vous avez atteint votre limite de stockage de 2Go.">
+<!ENTITY fileExceedsQuota.description1 "Vous utilisez actuellement #XXX Go de votre espace de stockage.">
+<!ENTITY fileExceedsQuota.description2 "Mettez à niveau aujourd\u0027hui vers un compte Pro Plus et obtenez plus d\u0027espace.">
+<!ENTITY fileExceedsQuota.description3 "Vous pouvez également supprimer des fichiers sur votre compte pour faire de la place.">
