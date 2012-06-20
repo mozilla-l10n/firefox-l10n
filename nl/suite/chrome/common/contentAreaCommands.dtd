@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Pop-upvensters van deze website weigeren">
 <!ENTITY popupWindowRejectCmd.accesskey "">
@@ -53,11 +57,11 @@
 <!ENTITY viewBGImageCmd.accesskey       "c">
 <!ENTITY setWallpaperCmd.label          "Als achtergrond instellen">
 <!ENTITY setWallpaperCmd.accesskey      "h">
-<!ENTITY bookmarkPageCmd.label          "Bladwijzer voor deze pagina maken">
+<!ENTITY bookmarkPageCmd.label          "Bladwijzer voor deze pagina maken…">
 <!ENTITY bookmarkPageCmd.accesskey      "a">
-<!ENTITY bookmarkLinkCmd.label          "Bladwijzer voor deze koppeling maken">
+<!ENTITY bookmarkLinkCmd.label          "Bladwijzer voor deze koppeling maken…">
 <!ENTITY bookmarkLinkCmd.accesskey      "l">
-<!ENTITY bookmarkFrameCmd.label         "Bladwijzer voor dit deelvenster maken">
+<!ENTITY bookmarkFrameCmd.label         "Bladwijzer voor dit deelvenster maken…">
 <!ENTITY bookmarkFrameCmd.accesskey     "m">
 <!ENTITY savePageAsCmd.label            "Pagina opslaan als…">
 <!ENTITY savePageCmd.label              "Pagina opslaan">
