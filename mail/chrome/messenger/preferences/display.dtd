@@ -43,8 +43,8 @@
 
 <!ENTITY fontsAndColors.label "Clófhoirne">
 <!ENTITY defaultFont.label "Cló réamhshocraithe:">
-<!ENTITY defaultFont.accesskey "s">
+<!ENTITY defaultFont.accesskey "r">
 <!ENTITY defaultSize.label "Méid:">
 <!ENTITY defaultSize.accesskey "M">
-<!ENTITY fontOptions.accesskey "C">
+<!ENTITY fontOptions.accesskey "s">
 <!ENTITY fontOptions.label "Casta…">

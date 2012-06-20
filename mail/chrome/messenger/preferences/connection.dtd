@@ -7,7 +7,7 @@
 
 <!ENTITY proxyTitle.label "Cumraigh Seachfhreastalaí Rochtana Idirlín">
 <!ENTITY noProxyTypeRadio.label "Gan seachfhreastalaí">
-<!ENTITY noProxyTypeRadio.accesskey "s">
+<!ENTITY noProxyTypeRadio.accesskey "G">
 <!ENTITY systemTypeRadio.label "Úsáid socruithe seachfhreastalaí an chórais">
 <!ENTITY systemTypeRadio.accesskey "s">
 <!ENTITY WPADTypeRadio.label "Aimsigh socruithe seachfhreastalaí an líonra seo go huathoibríoch">
@@ -15,7 +15,7 @@
 <!ENTITY manualTypeRadio.label "Lámhchumraíocht seachfhreastalaí:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL Uathchumraíocht Seachfhreastalaí:">
-<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY autoTypeRadio.accesskey "U">
 <!ENTITY reload.label "Athluchtaigh">
 <!ENTITY reload.accesskey "l">
 <!ENTITY http.label "Seachfhreastalaí HTTP:">
