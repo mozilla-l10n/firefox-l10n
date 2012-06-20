@@ -5,7 +5,7 @@
 <!ENTITY startup.label "Tosú">
 
 <!ENTITY startupPage.label "Agus &brandShortName; á thosú:">
-<!ENTITY startupPage.accesskey "t">
+<!ENTITY startupPage.accesskey "g">
 <!ENTITY startupHomePage.label "Taispeáin mo leathanach baile">
 <!ENTITY startupBlankPage.label "Taispeáin leathanach folamh">
 <!ENTITY startupLastSession.label "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
@@ -29,9 +29,9 @@
 <!ENTITY saveTo.label "Sábháil comhaid i">
 <!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label "Brabhsáil…">
-<!ENTITY chooseFolderWin.accesskey "r">
+<!ENTITY chooseFolderWin.accesskey "i">
 <!ENTITY chooseFolderMac.label "Roghnaigh…">
-<!ENTITY chooseFolderMac.accesskey "R">
+<!ENTITY chooseFolderMac.accesskey "i">
 <!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar an comhad i gcónaí">
 <!ENTITY alwaysAsk.accesskey "g">
 
