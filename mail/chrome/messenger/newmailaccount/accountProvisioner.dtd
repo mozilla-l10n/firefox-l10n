@@ -1,4 +1,4 @@
-<!ENTITY window.title "Bienllegáu to &brandShortName;">
+<!ENTITY window.title "Bienllegáu a &brandShortName;">
 <!ENTITY header2.label "¿Prestaríate tener una direición de corréu nueva?">
 <!ENTITY other.languages "Amosamos namái los proveedores de direiciones nel to área.  Calca equí p'amosalos toos.">
 <!ENTITY error.line1 "Sentímoslo, nun podemos alcontrar suxerencies de direiciones de corréu.">
@@ -11,7 +11,7 @@
 <!ENTITY success.title.before "Hola ">
 <!ENTITY success.title.after ", les siguientes direiciones de corréu-e tán disponibles:">
 <!ENTITY success.tip "(Tamién pues intentar guetar nomatos o otru términu p'atopar más emails)">
-<!ENTITY partnership.description "En collaboración con otros fornidores, &brandShortName; pue ufrite una cuenta de corréu-e nueva. Pa entamar, namái rellena col to nome y apellíu, o otros términos que prefieras, nos campos allugaos abaxo.">
+<!ENTITY partnership.description "En collaboración con otros fornidores, &brandShortName; pue ufrite una cuenta de corréu-e nueva. Pa entamar, namái rellena col to nome y apellíu, o otros términos que prefieras, nos campos anteriores.">
 <!ENTITY existing.header "¿Tienes yá una direición que quieras usar?">
 <!ENTITY tinyheader.title "¿Tienes una direición?">
 <!ENTITY tinyheader.existing "Saltar esti pasu y usar un corréu personal esistente">
