@@ -66,8 +66,8 @@
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
 <!ENTITY allowPagesToUse.label "Tabhair cead do leathanaigh a gclónna féin a roghnú, in áit mo roghanna thuas">
-<!ENTITY allowPagesToUse.accesskey "a">
+<!ENTITY allowPagesToUse.accesskey "b">
 
 <!ENTITY languages.customize.Charset.grouplabel "Ionchódú Carachtar">
 <!ENTITY languages.customize.DefaultCharset.label "Ionchódú Carachtar Réamhshocraithe:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "C">
+<!ENTITY languages.customize.DefaultCharset.accesskey "I">

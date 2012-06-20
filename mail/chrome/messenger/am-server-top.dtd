@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label 'Ainmneacha iomlána (m.sh. "netscape.public.mozilla.mail-news")'>
 <!ENTITY abbreviateOff.label 'Ainmneacha giorraithe (m.sh. "n.p.m.mail-news")'>
 <!ENTITY advancedButton.label "Ardroghanna…">
-<!ENTITY advancedButton.accesskey "r">
+<!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset.label "Ionchódú Réamhshocraithe:">
 <!ENTITY localPath.label "Comhadlann logánta:">
 <!ENTITY localFolderPicker.label "Roghnaigh Comhadlann Logánta">

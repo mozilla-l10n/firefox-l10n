@@ -16,7 +16,7 @@
 <!ENTITY saveTo.label "Sábháil comhaid i">
 <!ENTITY saveTo.accesskey "S">
 <!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar an comhad i gcónaí">
-<!ENTITY alwaysAsk.accesskey "a">
+<!ENTITY alwaysAsk.accesskey "g">
 <!ENTITY chooseFolderWin.label "Brabhsáil…">
 <!ENTITY chooseFolderWin.accesskey "B">
 <!ENTITY chooseFolderMac.label "Roghnaigh…">
