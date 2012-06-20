@@ -18,7 +18,7 @@
 <!ENTITY chooseBookmark.label "Úsáid Leabharmharc…">
 <!ENTITY chooseBookmark.accesskey "b">
 <!ENTITY restoreDefault.label "Cuir na réamhshocruithe ar ais">
-<!ENTITY restoreDefault.accesskey "r">
+<!ENTITY restoreDefault.accesskey "a">
 
 <!ENTITY downloads.label "Íosluchtú">
 
@@ -27,9 +27,9 @@
 <!ENTITY closeWhenDone.label "Dún an fhuinneog nuair a bheidh na híosluchtuithe críochnaithe">
 <!ENTITY closeWhenDone.accesskey "D">
 <!ENTITY saveTo.label "Sábháil comhaid i">
-<!ENTITY saveTo.accesskey "b">
+<!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label "Brabhsáil…">
-<!ENTITY chooseFolderWin.accesskey "a">
+<!ENTITY chooseFolderWin.accesskey "B">
 <!ENTITY chooseFolderMac.label "Roghnaigh…">
 <!ENTITY chooseFolderMac.accesskey "R">
 <!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar an comhad i gcónaí">

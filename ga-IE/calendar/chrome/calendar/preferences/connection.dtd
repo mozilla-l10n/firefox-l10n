@@ -19,7 +19,7 @@
 <!ENTITY manualTypeRadio.label "Lámhchumraíocht seachfhreastalaí:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL Uathchumraíocht Seachfhreastalaí:">
-<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY autoTypeRadio.accesskey "U">
 <!ENTITY reload.label "Athluchtaigh">
 <!ENTITY reload.accesskey "A">
 <!ENTITY ftp.label "Seachfhreastalaí FTP:">

@@ -24,7 +24,7 @@
 <!ENTITY allowHWAccel.label "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey "r">
 <!ENTITY checkSpelling.label "Litriú beo">
-<!ENTITY checkSpelling.accesskey "b">
+<!ENTITY checkSpelling.accesskey "L">
 
 <!ENTITY systemDefaults.label "Réamhshocrú an Chórais">
 <!--XXX-->

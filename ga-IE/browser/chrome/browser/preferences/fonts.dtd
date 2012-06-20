@@ -58,7 +58,7 @@
 <!ENTITY font.langGroup.tibetan "Tibéidis">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Clómhéid is lú:">
-<!ENTITY minSize.accesskey "l">
+<!ENTITY minSize.accesskey "C">
 <!ENTITY minSize.none "Gan sonrú">
 <!-- default font type -->
 
