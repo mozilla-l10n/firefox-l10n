@@ -5,7 +5,7 @@
 <!ENTITY startup.label "Tosú">
 
 <!ENTITY startupPage.label "Agus &brandShortName; á thosú:">
-<!ENTITY startupPage.accesskey "s">
+<!ENTITY startupPage.accesskey "t">
 <!ENTITY startupHomePage.label "Taispeáin mo leathanach baile">
 <!ENTITY startupBlankPage.label "Taispeáin leathanach folamh">
 <!ENTITY startupLastSession.label "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
@@ -16,7 +16,7 @@
 <!ENTITY useCurrentPage.accesskey "R">
 <!ENTITY useMultiple.label "Úsáid na Leathanaigh Reatha">
 <!ENTITY chooseBookmark.label "Úsáid Leabharmharc…">
-<!ENTITY chooseBookmark.accesskey "b">
+<!ENTITY chooseBookmark.accesskey "L">
 <!ENTITY restoreDefault.label "Cuir na réamhshocruithe ar ais">
 <!ENTITY restoreDefault.accesskey "a">
 
@@ -29,14 +29,14 @@
 <!ENTITY saveTo.label "Sábháil comhaid i">
 <!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label "Brabhsáil…">
-<!ENTITY chooseFolderWin.accesskey "B">
+<!ENTITY chooseFolderWin.accesskey "r">
 <!ENTITY chooseFolderMac.label "Roghnaigh…">
 <!ENTITY chooseFolderMac.accesskey "R">
 <!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar an comhad i gcónaí">
-<!ENTITY alwaysAsk.accesskey "a">
+<!ENTITY alwaysAsk.accesskey "g">
 
 <!ENTITY addonsMgr.label "Breiseáin">
 <!ENTITY manageAddonsDescWin.label "Athraigh roghanna le haghaidh do bhreiseán">
 <!ENTITY manageAddonsDescUnix2.label "Athraigh sainroghanna le haghaidh do bhreiseán">
 <!ENTITY manageAddons.label "Bainistigh Breiseáin…">
-<!ENTITY manageAddons.accesskey "B">
+<!ENTITY manageAddons.accesskey "t">

@@ -36,7 +36,7 @@
 <!ENTITY offlineSelectNntp.label "Roghnaigh grúpaí nuachta le haghaidh úsáide as líne…">
 <!ENTITY offlineSelectNntp.accesskey "s">
 <!ENTITY offlineImapAdvancedOffline.label "Ardroghanna…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "r">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sioncronú Teachtaireachtaí">
 <!ENTITY diskspaceGroupTitle.label "Spás Diosca">
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):

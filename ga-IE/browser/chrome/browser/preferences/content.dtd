@@ -15,7 +15,7 @@
 <!ENTITY enableJavaScript.label "Cumasaigh JavaScript">
 <!ENTITY enableJavaScript.accesskey "J">
 <!ENTITY advancedJS.label "Ardroghanna…">
-<!ENTITY advancedJS.accesskey "r">
+<!ENTITY advancedJS.accesskey "A">
 
 <!ENTITY enableJava.label "Cumasaigh Java">
 <!ENTITY enableJava.accesskey "m">
@@ -29,7 +29,7 @@
 <!ENTITY defaultSize.accesskey "M">
 
 <!ENTITY advancedFonts.label "Casta…">
-<!ENTITY advancedFonts.accesskey "s">
+<!ENTITY advancedFonts.accesskey "t">
 
 <!ENTITY colors.label "Dathanna…">
 <!ENTITY colors.accesskey "D">
