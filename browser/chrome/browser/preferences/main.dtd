@@ -5,7 +5,7 @@
 <!ENTITY startup.label "Tosú">
 
 <!ENTITY startupPage.label "Agus &brandShortName; á thosú:">
-<!ENTITY startupPage.accesskey "g">
+<!ENTITY startupPage.accesskey "u">
 <!ENTITY startupHomePage.label "Taispeáin mo leathanach baile">
 <!ENTITY startupBlankPage.label "Taispeáin leathanach folamh">
 <!ENTITY startupLastSession.label "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
