@@ -34,5 +34,5 @@
 <!ENTITY authRequired.button.label "Údaraigh">
 <!ENTITY authRequired.button.accesskey "d">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.label "Tabhair tairiscint comhaid a chomhroinnt má tá siad níos mó ná">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

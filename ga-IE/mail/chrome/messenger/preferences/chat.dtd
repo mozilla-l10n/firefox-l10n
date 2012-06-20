@@ -17,7 +17,7 @@ sentence. -->
 <!ENTITY reportIdleAfter.accesskey "A">
 <!ENTITY idleTime "nóiméad gan gníomh">
 
-<!ENTITY andSetStatusToAway.label "and set my status to Away with this status message:">
+<!ENTITY andSetStatusToAway.label "agus socraigh go bhfuilim Amuigh, leis an teachtaireacht stádais seo:">
 <!ENTITY andSetStatusToAway.accesskey "A">
 
 <!ENTITY sendTyping.label "Abair le daoine nuair a bhím ag clóscríobh">
