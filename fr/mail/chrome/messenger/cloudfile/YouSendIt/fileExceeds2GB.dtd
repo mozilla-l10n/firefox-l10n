@@ -3,4 +3,4 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceeds2GB.title   "YouSendIt">
 <!ENTITY fileExceeds2GB.cancel "OK">
-<!ENTITY fileExceeds2GB.description "L\u0027envoi de fichiers de plus de 2Go n\u0027est pas supporté.">
+<!ENTITY fileExceeds2GB.description "L\u0027envoi de fichiers de plus de 2Go n\u0027est pas pris en charge.">
