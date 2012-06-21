@@ -553,3 +553,33 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectorHTMLCopyOuter.label       "આઉટર HTML ની નકલ કરો">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 <!ENTITY inspectorHTMLDelete.label          "નોડને કાઢી નાંખો">
+
+
+<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbarCloseButton.tooltiptext "ડેવલપર સાધનપટ્ટીને બંધ કરો">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarMenu.label              "ડેવલપર સાધનપટ્ટી">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.label "પૂર્ણ સ્ક્રીનને દાખલ કરો">
+<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
+<!ENTITY fullscreenAllowButton.label "પરવાનગી આપો">
+<!ENTITY fullscreenApproval.value "શું પૂર્ણસ્ક્રીનની પરવાનગી આપવાની છે?">
+<!ENTITY fullscreenExitButton.label "નામંજૂર">
+<!ENTITY fullscreenExitHint.value "પૂર્ણસ્ક્રીનમાંથી બહાર નીકાળવા માટે કોઇપણ સમયે ESC ને દબાવો.">
+<!ENTITY inspectOptionButton.tooltiptext    "ઇન્સપેક્ટર વિકલ્પો">
+<!ENTITY inspectorButton.label "ઇન્સપેક્ટર">
+<!ENTITY inspectorToggleInfobar.accesskey   "S">
+<!ENTITY inspectorToggleInfobar.label       "નોડ જાણકારીને બતાવો">
+<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleVeil.label          "ધૂંધળું પાનું">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
+<!ENTITY markupButton.accesskey          "M">
+ <!ENTITY markupButton.arialabel          "માર્કઅપ">
+<!ENTITY responsiveUI.accesskey        "R">
+<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveUI.label            "પ્રતિક્રિયાશીલ સ્થિતિ">
+<!ENTITY scriptsButton.label "સ્ક્રિપ્ટ">
+<!ENTITY webConsoleButton.label "વેબ કન્સોલ">
+
