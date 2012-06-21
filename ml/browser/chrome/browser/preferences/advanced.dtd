@@ -19,8 +19,8 @@
 <!ENTITY systemDefaults.label            "സിസ്റ്റം ഡീഫോള്‍ട്ട്">
 <!ENTITY alwaysCheckDefault.label        "ആരംഭത്തില്‍ &brandShortName; ആണു് എപ്പോഴും സ്വതവേയുള്ള ബ്രൌസര്‍ എന്നുറപ്പാക്കുന്നതിനായി പരിശോധിക്കുക"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "ഉടന്‍ പരിശോധിക്കുക">
-<!ENTITY checkNow.accesskey              "N">
+<!-- ENTITY checkNow.label                  "ഉടന്‍ പരിശോധിക്കുക" -->
+<!-- ENTITY checkNow.accesskey              "N" -->
 <!ENTITY submitCrashes.label             "തകരാറിനുള്ള റിപ്പോര്‍ട്ടുകള്‍ രേഖപ്പെടുത്തുക">
 <!ENTITY submitCrashes.accesskey         "S">
 
@@ -132,3 +132,9 @@
 <!ENTITY updateOthers.label              "സ്വയമായി പരിഷ്കരിയ്ക്കുക:">
 <!ENTITY useService.label                "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക">
 <!ENTITY useService.accesskey            "b">
+
+
+<!ENTITY setDefault.label                "സ്വതവേയുള്ള ബ്രൌസറായി &brandShortName; സജ്ജമാക്കുക">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; ആണു് ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍">
+
