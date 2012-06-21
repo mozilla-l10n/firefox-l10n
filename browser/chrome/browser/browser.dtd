@@ -546,10 +546,10 @@
 
 <!ENTITY backForwardButtonMenu.tooltip "നാള്‍വഴിയ്ക്കായി റൈറ്റ് ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കില്‍ താഴേയ്ക്കു് വലിയ്ക്കുക">
 <!ENTITY backForwardButtonMenuMac.tooltip "നാള്‍വഴിയ്ക്കായി താഴേയ്ക്കു് വലിയ്ക്കുക">
-<!ENTITY domFullScreenWarning.label "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍ നിന്നും മാറ്റുന്നതിനായി ESC അമര്‍ത്തുക">
-<!ENTITY htmlPanel.accesskey          "H">
-<!ENTITY htmlPanel.label              "എച്ടിഎംഎല്‍">
-<!ENTITY htmlPanel.tooltiptext        "എച്ടിഎംഎല്‍ പാനല്‍">
+<!-- ENTITY domFullScreenWarning.label "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍ നിന്നും മാറ്റുന്നതിനായി ESC അമര്‍ത്തുക" -->
+<!-- ENTITY htmlPanel.accesskey          "H" -->
+<!-- ENTITY htmlPanel.label              "എച്ടിഎംഎല്‍" --> 
+<!-- ENTITY htmlPanel.tooltiptext        "എച്ടിഎംഎല്‍ പാനല്‍" -->
 <!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspect3DViewButton.label     "ത്രിഡി കാഴ്ച">
 
@@ -575,3 +575,34 @@
 
 <!ENTITY videoSaveImage.label        "സ്നാപ്പ്ഷോട്ട് ഇങ്ങനെ സൂക്ഷിയ്ക്കുക…">
 <!ENTITY videoSaveImage.accesskey    "S">
+
+<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbarCloseButton.tooltiptext "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍ അടയ്ക്കുക">
+<!ENTITY devToolbarMenu.label              "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY enterFullScreenCmd.label "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തില്‍">
+<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY fullscreenAllowButton.label "അനുവദിയ്ക്കുക">
+<!ENTITY fullscreenExitButton.label "നിഷേധിയ്ക്കുക">
+<!ENTITY fullscreenApproval.value "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍ അനുവദിയ്ക്കണമോ?">
+
+<!ENTITY fullscreenExitHint.value "സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തിലാക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്താം.">
+<!ENTITY inspectOptionButton.tooltiptext    "നിരീക്ഷണത്തിനുള്ള ഐച്ഛികങ്ങള്‍">
+
+<!ENTITY inspectorButton.label "നിരീക്ഷിയ്ക്കുക"
+<!ENTITY inspectorToggleVeil.label          "താളിന്റെ തെളിച്ചം കുറയ്ക്കുക">
+<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleInfobar.label       "നോഡ് വിവരം കാണിയ്ക്കുക">
+<!ENTITY inspectorToggleInfobar.accesskey   "S">
+<!ENTITY leaveDOMFullScreen.label "സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തില്‍">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY markupButton.arialabel          "മാര്‍ക്കപ്പ്">
+
+<!ENTITY markupButton.accesskey          "M">
+<!ENTITY responsiveUI.label            "റസ്പോണ്‍സീവ് മോഡ്">
+<!ENTITY responsiveUI.accesskey        "R">
+<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY scriptsButton.label "Scripts">
+<!ENTITY webConsoleButton.label "വെബ് കണ്‍സോള്‍">
