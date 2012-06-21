@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "设置您的 &brandShortName;">
 <!ENTITY  splash_bookmarks_history "我们正在更新您的书签和历史纪录，这可能需要一分钟左右。">
@@ -44,7 +48,11 @@
 <!ENTITY reload "重新加载">
 <!ENTITY forward "前进">
 
+<!ENTITY close_tab "关闭标签页">
 <!ENTITY new_tab "新建标签页">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d 个标签页">
 <!ENTITY new_tab_opened "已打开新标签页">
 
 <!ENTITY settings "设置">
@@ -86,12 +94,25 @@
 <!ENTITY share "共享">
 <!ENTITY share_title "分享，通过">
 <!ENTITY save_as_pdf "另存为 PDF">
+<!ENTITY find_in_page "在页面中查找">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "在页面中查找">
+<!ENTITY find_prev "上一个">
+<!ENTITY find_next "下一个">
+<!ENTITY find_close "关闭">
 
 <!ENTITY contextmenu_open_new_tab "在新标签页中打开">
+<!ENTITY contextmenu_remove_history "移除">
 <!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_share "共享">
 <!ENTITY contextmenu_edit_bookmark "编辑">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "页面已移除">
 
 <!ENTITY bookmark_edit_title "编辑书签">
 <!ENTITY bookmark_edit_name "名称">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "取消">
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "无需要清空的设置。">
+
+<!ENTITY add_to_reading_list "添加到阅读列表">
+<!ENTITY reading_list_added "页面已添加到你的阅读列表">
+<!ENTITY reading_list_removed "页面已经从你的阅读列表中移除">
+<!ENTITY reader_mode "阅读器模式">
 
 <!ENTITY masterpassword_create_title "创建主密码">
 <!ENTITY masterpassword_remove_title "移除主密码">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "选择或者录制一段声音">
 <!ENTITY filepicker_image_title "选择或者拍摄一张图片">
 <!ENTITY filepicker_video_title "选择或者录制一段视频">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "您已连接至">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "它的经营者为">
