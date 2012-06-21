@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Mais informação sobre Telemetria">
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexador">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Deslocamento">
+<!ENTITY useAutoScroll.label           "Usar auto deslocamento">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Usar deslocamento suave">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label          "Integração do Sistema">
 <!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o programa de correio pré-definido">
 <!ENTITY alwaysCheckDefault.accesskey  "o">
@@ -31,7 +38,7 @@
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Leitura">
-<!ENTITY display.caption               "Aprensentar">
+<!ENTITY display.caption               "Apresentar">
 <!ENTITY showCondensedAddresses.label "Mostrar apenas o nome para pessoas nos meus contactos">
 <!ENTITY showCondensedAddresses.accesskey "m">
 
