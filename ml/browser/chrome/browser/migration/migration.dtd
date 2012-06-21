@@ -28,8 +28,8 @@
 <!-- ENTITY importFromEpiphany.accesskey "E" -->
 <!-- ENTITY importFromGaleon.label "ഗാല്യോണ്‍" -->
 <!-- ENTITY importFromGaleon.accesskey "G"-->
-<!ENTITY importFromHTMLFile.label       "ഒരു എച്ടിഎംഎല്‍ ഫയലില്‍ നിന്നും">
-<!ENTITY importFromHTMLFile.accesskey   "F">
+<!-- ENTITY importFromHTMLFile.label       "ഒരു എച്ടിഎംഎല്‍ ഫയലില്‍ നിന്നും" -->
+<!-- ENTITY importFromHTMLFile.accesskey   "F" -->
 <!-- ENTITY importFromFile.label "ഫയലില്‍ നിന്ന്" -->
 <!-- ENTITY importFromFile.accesskey "F" -->
 <!ENTITY noMigrationSources.label "അടയാളങ്ങളോ, ചരിത്രമോ പാസ്‌വേഡുകളോ അടങ്ങിയ ഒരു program പോലും കണ്ടെത്താനായില്ല">
