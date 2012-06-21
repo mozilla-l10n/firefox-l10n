@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox 同步">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '初始设置完成'>
-<!ENTITY sync.subtitle.success.label '您的数据目前正在后台下载。您可以到设置去管理您的帐户。'>
+<!ENTITY sync.subtitle.success.label1 '正在后台下载你的数据。你可以到 设置 中管理你的帐户，或者开始用 &brandShortName; 上网浏览。'>
 <!ENTITY sync.settings.label '设置'>
-<!ENTITY sync.subtitle.manage.label '您的 &syncBrand.fullName.label; 帐户已经建立。进入设置以管理您的帐户。'>
+<!ENTITY sync.subtitle.manage.label1 '你的 &syncBrand.fullName.label; 帐号已经建立。你可以到 设置 中管理你的帐号，或者启动 &brandShortName; 。'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label '请重试。'>
+<!ENTITY sync.pair.connectlocation.label '要激活你的新设备，在设备上选择 “建立 &syncBrand.shortName.label; ”，然后选择“我有一个帐号。”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label '选项'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label '未分类书签'>
 <!ENTITY bookmarks.folder.desktop.label '桌面书签'>
 <!ENTITY bookmarks.folder.mobile.label '移动书签'>
+<!ENTITY bookmarks.folder.readinglist.label '正在读取列表'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 帐号。'>
