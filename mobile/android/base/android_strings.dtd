@@ -123,7 +123,7 @@
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Il n\u0027y a pas de paramètre à effacer.">
 
-<!ENTITY add_to_reading_list "Ajouter à la liste de lecture">
+<!ENTITY reading_list "Liste de lecture">
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
 <!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
