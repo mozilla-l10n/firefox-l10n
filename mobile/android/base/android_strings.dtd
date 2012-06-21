@@ -128,9 +128,10 @@
 <!ENTITY site_settings_clear        "limpar">
 <!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
 
-<!ENTITY add_to_reading_list "Adicionar à lista de leitura">
+<!ENTITY reading_list "Lista de leitura">
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
+<!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
 <!ENTITY reader_mode "Modo de leitura">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
