@@ -91,7 +91,11 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.start        "">
 
-<!ENTITY warningDesc.telemetry      "&brandShortName; മെച്ചമാക്കുന്നതിനായി &vendorShortName;-ലേക്കു് പരീക്ഷിച്ച വിവരങ്ങള്‍ തിരികെ സ്വയമായി അയയ്ക്കുന്നു.">
+<!-- ENTITY warningDesc.telemetry      "&brandShortName; മെച്ചമാക്കുന്നതിനായി &vendorShortName;-ലേക്കു് പരീക്ഷിച്ച വിവരങ്ങള്‍ തിരികെ സ്വയമായി അയയ്ക്കുന്നു." -->
 
 <!ENTITY warningDesc.version        "&brandShortName; പരീക്ഷണാര്‍ത്ഥമുള്ളതാകുന്നു, അതിനാല്‍ അസ്ഥിരവുമാകുന്നു.">
+
+<!ENTITY update.applying            "പരിഷ്കരണം ലഭ്യമാക്കുന്നു…">
+
+<!ENTITY warningDesc.telemetryDesc  "&vendorShortName;-ലേക്കു് ഓട്ടോമാറ്റിക്കായി പ്രവര്‍ത്തനം, ഹാര്‍ഡ്‌വെയര്‍, ഉപയോഗം എന്നിങ്ങനെയുള്ള വിവരങ്ങള്‍ അയയ്ക്കുന്നു, ഇതു് &brandShortName;-നെ കൂടുതല്‍ മെച്ചപ്പെടുത്തുന്നു.">
 
