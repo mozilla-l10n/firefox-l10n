@@ -31,3 +31,5 @@
 <!ENTITY missingPlugin                                       "પ્લગઇન આ સમાવિષ્ટને દર્શાવવા માટે જરૂરી છે.">
 <!ENTITY clickToPlayPlugin                                   "પ્લગઇન સક્રિય કરવા માટે અહીં ઠપકારો.">
 <!ENTITY report.please                                       "ભંગાણ અહેવાલ મોકલો">
+
+<!ENTITY tapToPlayPlugin                                     "પ્લગઇનને સક્રિય કરવા માટે ટૅપ કરો.">
