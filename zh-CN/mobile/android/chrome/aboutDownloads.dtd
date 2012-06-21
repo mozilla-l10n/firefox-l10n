@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutDownloads.title                      "下载项">
 <!ENTITY aboutDownloads.header                     "您的下载">
 <!ENTITY aboutDownloads.empty                      "没有下载">
