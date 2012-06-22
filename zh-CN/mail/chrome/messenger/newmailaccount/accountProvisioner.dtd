@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "欢迎使用 &brandShortName;">
 <!ENTITY header2.label "需要一个新的电子邮件地址吗？">
 <!ENTITY other.languages "我们仅显示您所在区域的地址提供商。点击此处即可查看全部提供商。">
