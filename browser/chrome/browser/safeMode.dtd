@@ -42,7 +42,7 @@
 
 
 <!ENTITY safeModeDialog.title "&brandShortName; സേഫ്‌ മോഡ്‌ ">
-<!ENTITY window.width "37em">
+<!-- ENTITY window.width "37em" -->
 <!-- ENTITY safeModeDescription.label "&brandShortName; ഇപ്പോള്‍ സേഫ്‌ മോഡില്‍ പ്രവര്‍ത്തിക്കുന്നു, അതിനാല്‍ നിങ്ങളൂടെ ഇച്ചാനുസൃത സെറ്റിങ്ങുകള്‍, തീം, എക്‌സ്റ്റെന്‍ഷന്‍ എന്നിവ നിര്‍വീര്യമാക്കിയിരിക്കുന്നു " -->
 <!-- ENTITY safeModeDescription2.label "ഇതിലെ എല്ലാ മാറ്റങ്ങളോ ചില മാറ്റങ്ങളോ സ്ഥിരമാക്കാം. " -->
 <!-- ENTITY disableAddons.label "എല്ലാ ആഡ്‌-ഓണുകളും നിര്‍വീര്യമാക്കുക " -->
@@ -75,3 +75,6 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "സേഫ് മോഡില്‍ ആരംഭിയ്ക്കുക">
+
+<!ENTITY resetProfileInstead.label    "നിങ്ങള്‍ പുതുതായി ആരംഭിയ്ക്കണമെങ്കില്‍, &brandShortName; വീണ്ടും സജ്ജമാക്കാം.">
+
