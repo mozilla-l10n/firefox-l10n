@@ -34,8 +34,8 @@
 
 <!ENTITY chooseBookmark.label      "അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreOnDemand.label     "തെരഞ്ഞെടുക്കാത്തിടത്തോളം റ്റാബുകള്‍ ലഭ്യമാക്കേണ്ട">
-<!ENTITY restoreOnDemand.accesskey "l">
+<!-- ENTITY restoreOnDemand.label     "തെരഞ്ഞെടുക്കാത്തിടത്തോളം റ്റാബുകള്‍ ലഭ്യമാക്കേണ്ട" -->
+<!-- ENTITY restoreOnDemand.accesskey "l" -->
 
 <!-- ENTITY alwaysCheckDefault.height "3em" -->
 <!-- ENTITY checkNow.label "ഇപ്പോള്‍ പരിശോധിക്കുക " -->
