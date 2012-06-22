@@ -33,3 +33,6 @@
 <!ENTITY indexedDB.label                 "ઓફલાઇન સંગ્રહને સંચાલિત કરો">
 
 <!ENTITY popup.label                     "પોપ-અપ વિન્ડોને ખોલો">
+
+<!ENTITY fullscreen.label                "પૂર્ણસ્ક્રીન">
+<!ENTITY plugins.label                   "પ્લગઇન">

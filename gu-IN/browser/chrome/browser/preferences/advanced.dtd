@@ -69,8 +69,8 @@
 <!ENTITY viewSecurityDevices.label       "સુરક્ષા ઉપકરણો">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
-<!ENTITY checkNow.accesskey              "N">
-<!ENTITY checkNow.label                  "હમણાં ચકાસો">
+
+
 <!ENTITY systemDefaults.label            "સિસ્ટમ મૂળભૂતો">
 <!ENTITY clearCacheNow.label             "હમણાં સાફ કરો">
 <!ENTITY clearCacheNow.accesskey         "C">
@@ -114,5 +114,9 @@
 <!ENTITY updateOthers.label              "આપોઆપ સુધારો:">
 <!ENTITY useService.label                "સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો">
 <!ENTITY useService.accesskey            "b">
+
+<!ENTITY isDefault.label                 "&brandShortName; હમણાં તમારુ મૂળભૂત બ્રાઉઝર છે">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY setDefault.label                "&brandShortName; ને મૂળભૂત બ્રાઉઝર બનાવો">
 
 
