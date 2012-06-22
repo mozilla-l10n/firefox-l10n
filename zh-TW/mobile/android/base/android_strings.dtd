@@ -128,7 +128,7 @@
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
-<!ENTITY add_to_reading_list "新增至閱讀清單">
+<!ENTITY reading_list "閱讀清單">
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
