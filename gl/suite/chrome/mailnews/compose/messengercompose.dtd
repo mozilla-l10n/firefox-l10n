@@ -79,6 +79,9 @@
 
 <!ENTITY returnReceiptMenu.label "Aviso de recepción">
 <!ENTITY returnReceiptMenu.accesskey "A">
+<!ENTITY dsnMenu.label "Notificación do estado de envío">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Formato">
 <!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Detección automática">
