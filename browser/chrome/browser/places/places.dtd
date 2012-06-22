@@ -34,10 +34,10 @@
 <!-- ENTITY help.advancedTips.label        "উন্নত মাত্রার ব্যবহারপ্রণালীর সুলুক সন্ধান" -->
 <!-- ENTITY help.advancedTips.accesskey    "T" -->
 
-<!ENTITY cmd.findInBookmarks.label      "বুকমার্কের মধ্যে অনুসন্ধান…">
-<!ENTITY cmd.findInBookmarks.accesskey  "F">
-<!ENTITY cmd.findCurrent.label          "বর্তমানে সংকলনের মধ্যে অনুসন্ধান…">
-<!ENTITY cmd.findCurrent.accesskey      "i">
+<!-- ENTITY cmd.findInBookmarks.label      "বুকমার্কের মধ্যে অনুসন্ধান…" -->
+<!-- ENTITY cmd.findInBookmarks.accesskey  "F" -->
+<!-- ENTITY cmd.findCurrent.label          "বর্তমানে সংকলনের মধ্যে অনুসন্ধান…" -->
+<!-- ENTITY cmd.findCurrent.accesskey      "i" -->
 
 <!-- ENTITY cmd.exportHTML.label           "HTML এক্সপোর্ট করুন…" -->
 <!-- ENTITY cmd.exportHTML.accesskey       "E" -->

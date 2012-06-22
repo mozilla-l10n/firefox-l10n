@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "চিহ্নিত হোম পেজ প্রদর্শন করা হবে">
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY startupLastSession.label  "সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
-<!ENTITY restoreOnDemand.label     "বাছাই না করা অব্দি ট্যাব লোড করা হবে না">
-<!ENTITY restoreOnDemand.accesskey "l">
+<!-- ENTITY restoreOnDemand.label     "বাছাই না করা অব্দি ট্যাব লোড করা হবে না" -->
+<!-- ENTITY restoreOnDemand.accesskey "l" -->
 <!ENTITY homepage.label            "হোম পেজ:">
 <!ENTITY homepage.accesskey        "P">
 <!-- ENTITY location.label            "হোম পেজ:" -->

@@ -118,8 +118,8 @@
 <!ENTITY systemDefaults.label            "সিস্টেমের ডিফল্ট মান">
 <!ENTITY alwaysCheckDefault.label        "ডিফল্ট ব্রাউজার রূপে &brandShortName; ব্যবহার করা হবে কি না তা প্রারম্ভকালে সর্বদা পরীক্ষা করা হবে "><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "এই মুহূর্তে পরীক্ষা করা হবে">
-<!ENTITY checkNow.accesskey              "N">
+<!-- ENTITY checkNow.label                  "এই মুহূর্তে পরীক্ষা করা হবে" -->
+<!-- ENTITY checkNow.accesskey              "N" -->
 <!ENTITY submitCrashes.label             "বিপর্যয়ের রিপোর্ট দায়ের করা হবে">
 <!ENTITY submitCrashes.accesskey         "S">
 <!-- ENTITY offlineStorage.label            "অফ-লাইন অবস্থায় সংরক্ষণ" -->

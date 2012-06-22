@@ -35,8 +35,8 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label       "HTML ফাইল থেকে">
-<!ENTITY importFromHTMLFile.accesskey   "F">
+<!-- ENTITY importFromHTMLFile.label       "HTML ফাইল থেকে" -->
+<!-- ENTITY importFromHTMLFile.accesskey   "F" -->
 <!-- ENTITY importFromFile.label           "ফাইল থেকে" -->
 <!-- ENTITY importFromFile.accesskey       "F" -->
 

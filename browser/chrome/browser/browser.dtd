@@ -485,7 +485,7 @@ items are mutually exclusive. -->
 <!ENTITY copyButton.tooltip             "কপি করুন">
 <!ENTITY pasteButton.tooltip            "পেস্ট করুন">
 <!ENTITY fullScreenButton.tooltip       "সম্পূর্ণ পর্দা জুড়ে উইন্ডোটি প্রদর্শন করা হবে">
-<!ENTITY domFullScreenWarning.label "সম্পূর্ণ পর্দা জুড়ে প্রদর্শনের মোড থেকে প্রস্থান করার জন্য ESC টিপুন">
+<!-- ENTITY domFullScreenWarning.label "সম্পূর্ণ পর্দা জুড়ে প্রদর্শনের মোড থেকে প্রস্থান করার জন্য ESC টিপুন" -->
 
 <!ENTITY zoomOutButton.tooltip          "ছোট মাপে প্রদর্শন">
 <!ENTITY zoomInButton.tooltip           "বড় মাপে প্রদর্শন">
@@ -726,12 +726,12 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
 activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
+<!-- ENTITY htmlPanel.label              "HTML" -->
 
 <!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
 hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "HTML প্যানেল">
+<!-- ENTITY htmlPanel.tooltiptext        "HTML প্যানেল" -->
 
 <!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!-- ENTITY htmlPanel.accesskey          "H" -->
