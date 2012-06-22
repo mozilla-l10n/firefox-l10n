@@ -83,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "收件回執(Return Receipt)">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "遞送狀態通知">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "格式">
 <!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "自動偵測">

@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "更多關於 Telemetry 的資訊">
 <!ENTITY enableGlodaSearch.label       "啟動全域搜尋以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+<!ENTITY scrolling.label               "捲動">
+<!ENTITY useAutoScroll.label           "使用自動捲動">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "使用平滑捲動">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "系統整合">
 <!ENTITY alwaysCheckDefault.label      "每次啟動時檢查 &brandShortName; 是否為預設電子郵件用戶端">
 <!ENTITY alwaysCheckDefault.accesskey  "a">

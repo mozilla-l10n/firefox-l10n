@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "注音碼:">
 <!ENTITY DisplayName.label              "顯示名稱:">
 <!ENTITY DisplayName.accesskey          "D">
-<!ENTITY preferDisplayName.label        "總是在郵件檔頭上顯示姓名">
+<!ENTITY preferDisplayName.label        "總是在郵件檔頭上方顯示姓名">
 <!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "暱稱:">
 <!ENTITY NickName.accesskey             "N">
