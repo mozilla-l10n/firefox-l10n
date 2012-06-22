@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+<!ENTITY indicator.tooltiptext            "Downloads">
+
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+<!ENTITY downloads.title                  "ഡൌണ്‍ലോടുകള്‍">
+
+<!ENTITY cmd.pause.label                  "തല്‍ക്കാലത്തേക്ക് നിര്‍ത്തുക">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "വീണ്ടും ആരംഭിയ്ക്കുക">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "റദ്ദാക്കുക">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക">
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.label                "ഫോള്‍ഡറില്‍ കാണിയ്ക്കുക">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "വീണ്ടും ശ്രമിയ്ക്കുക">
+<!ENTITY cmd.goToDownloadPage.label       "ഡൌണ്‍ലോഡ് താളിലേക്കു് പോകുക">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "ഡൌണ്‍ലോഡ് കണ്ണി പകര്‍ത്തുക">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromList.label         "പട്ടികയില്‍ നിന്നും നീക്കം ചെയ്യുക">
+<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.clearList.label              "പട്ടിക വെടിപ്പാക്കുക">
+<!ENTITY cmd.clearList.accesskey          "a">
+
+<!ENTITY downloadshistory.label           "എല്ലാ ഡൌണ്‍ലോഡുകളും കാണിയ്ക്കുക">
+<!ENTITY downloadshistory.accesskey       "S">
