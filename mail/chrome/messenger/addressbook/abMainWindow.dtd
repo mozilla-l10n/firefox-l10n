@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "通讯录">
 
 <!-- File Menu -->
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "电子邮件">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "屏幕名">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "聊天名称">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "公司">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "昵称">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "联系">
 <!ENTITY home.heading                                   "家庭">
 <!ENTITY other.heading                                  "其它">
+<!ENTITY chat.heading                                   "聊天">
 <!ENTITY phone.heading                                  "电话">
 <!ENTITY work.heading                                   "工作地址">
 <!-- Special Box Headings, for mailing lists -->
