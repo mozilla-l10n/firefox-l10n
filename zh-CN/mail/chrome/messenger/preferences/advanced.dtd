@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "常规">
 <!ENTITY itemDisplay.label       "阅读 &amp; 显示">
 <!ENTITY itemUpdate.label        "更新">
@@ -66,6 +70,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "显示更新历史">
 <!ENTITY showUpdates.accesskey          "S">
+
+<!ENTITY useService.label                "使用后台服务来安装更新">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "设置…">

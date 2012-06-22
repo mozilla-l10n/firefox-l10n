@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "关于垃圾邮件">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; 自动检查收到的消息是否像垃圾邮件。被 &brandShortName; 认为是垃圾邮件的消息会显示一个垃圾图标。">

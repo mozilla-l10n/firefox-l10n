@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "聊天帐号…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "聊天联系人…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "打开已保存消息…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -358,7 +364,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "只回复发件人">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd2.label "关注新闻组">
+<!ENTITY replyNewsgroupCmd2.label "回复到新闻组">
 <!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "全部回复">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "不可用">
 <!ENTITY imStatus.offline            "脱机">
 <!ENTITY imStatus.showAccounts       "显示帐号…">
+<!ENTITY joinChatCmd.label "参与聊天…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "已保存的文件">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -693,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "只回复发件人">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "关注新闻组">
+<!ENTITY contextReplyNewsgroup2.label "回复到新闻组">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "全部回复">
 <!ENTITY contextReplyAll.accesskey "A">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "垃圾邮件">
+<!ENTITY junkBarMessage2.label "&brandShortName; 认为此邮件是垃圾邮件。">
 <!ENTITY junkBarButton1.label "非垃圾">
 <!ENTITY junkInfoButton.label "?">
 

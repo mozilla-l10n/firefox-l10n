@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "过滤器规则">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "过滤器名称:">
@@ -40,3 +44,6 @@
 <!ENTITY ignoreSubthread.label "忽略子话题">
 <!ENTITY watchThread.label "关注话题">
 <!ENTITY stopExecution.label "停止执行过滤器">
+
+<!ENTITY addAction.tooltip "添加新动作">
+<!ENTITY removeAction.tooltip "移除此动作">
