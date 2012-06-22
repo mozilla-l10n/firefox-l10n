@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; বর্তমানে পরীক্ষামূলক পর্যায়ে রয়েছে এবং স্থায়ী না হতে পারে।">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "&brandShortName;-কে উন্নত করার উদ্দেশ্যে, পরীক্ষার তথ্যাদি &vendorShortName;-কে স্বয়ংক্রিয়ভাবে পাঠানো হয়।">
+<!-- ENTITY warningDesc.telemetry      "&brandShortName;-কে উন্নত করার উদ্দেশ্যে, পরীক্ষার তথ্যাদি &vendorShortName;-কে স্বয়ংক্রিয়ভাবে পাঠানো হয়।" -->
 
 
 <!ENTITY community.start2           "&brandShortName; পরিকল্পিত হয়েছে ">
