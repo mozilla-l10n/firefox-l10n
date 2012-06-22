@@ -128,7 +128,7 @@
 <!ENTITY site_settings_clear        "Rensa">
 <!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
 
-<!ENTITY add_to_reading_list "Lägg till i läslistan">
+<!ENTITY reading_list "Läslistan">
 <!ENTITY reading_list_added "Sidan finns nu i din läslista">
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
 <!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
