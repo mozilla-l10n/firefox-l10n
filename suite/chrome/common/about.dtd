@@ -8,4 +8,4 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "U gebruikt momenteel het ">
 <!ENTITY channel.description.end    "-updatekanaal.">
-<!ENTITY about.useragent            "Useragent: ">
+<!ENTITY about.userAgent            "Useragent: ">
