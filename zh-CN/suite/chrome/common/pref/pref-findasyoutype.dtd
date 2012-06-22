@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "输入时同步查找">
 <!ENTITY findAsYouTypeBehavior.label "输入时同步查找">
 <!ENTITY findAsYouTypeTip.label "小提示:手动启动输入时同步查找，请输入/ (或 \')+自定义文本,以查找文本(或链接)。">

@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "发送服务器 (SMTP) 设置">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "虽然您可以指定多个发送服务器 (SMTP)，但是我们只建议高级用户这么做。设置多个 SMTP 服务器可能会导致消息发送出错。">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "管理您帐号的同时，您可以从此列表中选择外发服务器 (SMTP)，或者您也可以从列表中选择 &quot;使用默认服务器&quot;。">
 
 <!ENTITY smtpListAdd.label  "添加…">
 <!ENTITY smtpListAdd.accesskey  "d">

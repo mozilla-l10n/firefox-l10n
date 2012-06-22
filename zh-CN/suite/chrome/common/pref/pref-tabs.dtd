@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tabHeader.label "标签式浏览">
 <!ENTITY tabDisplay.label "标签显示">
 <!ENTITY autoHide.label "只有一个标签页被打开时隐藏标签栏">
