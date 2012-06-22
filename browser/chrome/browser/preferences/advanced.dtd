@@ -41,7 +41,7 @@
 
 <!--ENTITY autoCheck.label                 "ಇಲ್ಲಿಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್ಡೇಟುಗಳಿವೆಯೆ ಎಂದು ಹುಡುಕು:"-->
 <!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
-<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 <!--ENTITY whenUpdatesFound.label          "&brandShortName; ಗಳಿಗೆ ಅಪ್ಡೇಟುಗಳು ಕಂಡುಬಂದಾಗ:"-->
 <!--ENTITY askMe.label                     "ಏನು ಮಾಡಬೇಕೆಂದು ನನ್ನ ಅನುಮತಿ ಕೇಳು"-->
 <!--ENTITY modeAutomatic.label             "ಅಪ್ಡೇಟುಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‍ಲೋಡ್ ಮಾಡಿಕೊಂಡು ಅನುಸ್ಥಾಪಿಸು"-->
@@ -91,7 +91,7 @@
 <!ENTITY verify2.accesskey               "V">
 <!--ENTITY offlineStorage.label            "ಆಫ್‌ಲೈನ್ ಶೇಖರಣೆ"-->
 
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "ನಾನು ಟೈಪ್ ಮಾಡಿದಂತೆಲ್ಲಾ ಕಾಗುಣಿತವನ್ನು ಪರಿಶೀಲಿಸು">
 <!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
 
