@@ -39,3 +39,14 @@
 -->
 
 <!ENTITY debuggerUI.propertiesTitle  "स्कोप वेरियेबल्स्">
+<!ENTITY debuggerMenu.label2          "डिबगर">
+<!ENTITY remoteDebuggerMenu.label    "दूरस्त डिबगर">
+<!ENTITY chromeDebuggerMenu.label    "ब्राउजर डिबगर">
+<!ENTITY debuggerUI.closeButton.tooltip        "बंद करा">
+<!ENTITY debuggerUI.pauseExceptions          "अपवाद आढळल्यास थांबा">
+<!ENTITY debuggerUI.stepOverButton.tooltip   "स्टेप ओवर">
+<!ENTITY debuggerUI.stepInButton.tooltip     "स्टेप इन">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "स्टेप आउट">
+<!ENTITY debuggerUI.emptyFilterText  "स्क्रिप्टस् फिल्टर करा">
+<!ENTITY debuggerUI.emptyScriptText  "स्क्रिप्टस् नाही.">
+

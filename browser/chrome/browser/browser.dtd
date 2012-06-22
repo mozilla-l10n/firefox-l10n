@@ -620,3 +620,29 @@
 <!ENTITY markupButton.arialabel          "मार्कअप">
 <!ENTITY markupButton.accesskey          "M">
 
+<!ENTITY enterFullScreenCmd.label "पडदाभरचा वापर करा">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "पडदाभरपासून बाहेर पडा">
+<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY fullscreenAllowButton.label "स्वीकार करा">
+<!ENTITY fullscreenExitButton.label "नकार करा">
+<!ENTITY fullscreenApproval.value "पडदाभर स्वीकारायचे?">
+<!ENTITY fullscreenExitHint.value "पडदाभरपासून कोणत्याहिवेळी बाहेर पडण्यासाठी ESC दाबा.">
+<!ENTITY leaveDOMFullScreen.label "पडदाभरपासून बाहेर पडा">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY responsiveUI.label            "रेस्पाँसिव्ह मोड">
+<!ENTITY responsiveUI.accesskey        "R">
+<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY devToolbarCloseButton.tooltiptext "डेव्हलपर साधनपट्टी बंद करा">
+<!ENTITY devToolbarMenu.label              "डेव्हलपर साधनपट्टी">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY webConsoleButton.label "वेब कंसोल">
+<!ENTITY inspectorButton.label "इंस्पेक्टर">
+<!ENTITY scriptsButton.label "स्क्रिप्टस्">
+<!ENTITY inspectOptionButton.tooltiptext    "इंस्पेक्टर पर्याय">
+<!ENTITY inspectorToggleVeil.label          "पृष्ठ अंधुक करा">
+<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleInfobar.label       "नोड माहिती दाखवा">
+<!ENTITY inspectorToggleInfobar.accesskey   "S">
+
