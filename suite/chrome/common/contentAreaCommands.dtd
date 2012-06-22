@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "拦截此站点弹出窗口">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
@@ -118,6 +122,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "添加至字典">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label      "撤销添加到字典">
+<!ENTITY spellUndoAddToDictionary.accesskey  "t">
 <!ENTITY spellIgnoreWord.label          "忽略该词">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "拼写检查">

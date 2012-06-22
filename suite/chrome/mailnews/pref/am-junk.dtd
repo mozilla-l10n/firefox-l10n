@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "垃圾邮件设置">
-<!ENTITY trainingWarning.label "如果启用，您需要通过使用“垃圾”工具栏按钮将消息标记为垃圾消息或非垃圾消息来训练 &brandShortName; 识别垃圾消息。您需要识别垃圾消息和非垃圾消息。">
+<!ENTITY trainingDescription.label "如要启用，您必须使用工具栏的 垃圾邮件 按钮标记相应邮件以训练 &brandShortName; 来辨识垃圾邮件。您需要标识垃圾邮件以及非垃圾邮件。之后 &brandShortName; 就能自动辨别垃圾邮件。">
 <!ENTITY level.label "对此帐户启用智能垃圾邮件控制">
 <!ENTITY level.accesskey "E">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "天">
 
-<!ENTITY whitelist.label "不要将下列发件人的邮件标记为垃圾邮件： ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelistHeader.label "不将这些发件人的邮件自动标记为垃圾邮件： ">
+<!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeadersWarning.label "如果启用此功能，&brandShortName; 将自动将标签为此外部类别的消息识别为垃圾邮件。">
 <!ENTITY ispHeaders.label "信任下列 ISP 设置的垃圾邮件头：">
 <!ENTITY ispHeaders.accesskey "T">
+
+<!ENTITY junkClassification.label "选择">
+<!ENTITY junkActions.label "目的地和保留与否">
