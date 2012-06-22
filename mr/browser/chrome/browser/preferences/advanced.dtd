@@ -83,10 +83,10 @@
 <!ENTITY systemDefaults.label            "प्रणाली मुलभूत">
 <!ENTITY alwaysCheckDefault.label        "प्रारंभ होतेवेळी &brandShortName; मुलभूत ब्राऊजर आहे याची खात्री करा"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "आता तपासा">
-<!ENTITY checkNow.accesskey              "N">
 
 <!--
+<!ENTITY checkNow.label                  "आता तपासा">
+<!ENTITY checkNow.accesskey              "N">
 <!ENTITY offlineStorage.label            "ऑफलाइन संचयन">
 -->
 
