@@ -1,5 +1,5 @@
 <!ENTITY accountsWindow.title                "Takojšnja sporočila - stanje">
-<!ENTITY accountsWindow.style                "width: 28em; height: 49em;">
+<!ENTITY accountsWindow2.style                "width: 28em; height: 49em;">
 <!ENTITY accountManager.newAccount.label     "Nov račun">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Zapri">
