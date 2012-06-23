@@ -78,6 +78,7 @@
 <!ENTITY share_title "Поделиться через">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY find_in_page "Найти на странице">
+<!ENTITY desktop_mode "Открыть полную версию сайта">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Предыдущее">
 <!ENTITY find_next "Следующее">
