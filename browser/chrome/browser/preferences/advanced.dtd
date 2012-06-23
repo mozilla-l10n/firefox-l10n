@@ -57,7 +57,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey "v">
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey "h">
-<!ENTITY useService.label "Usar un servicio de fondo para instalar actualizaciones">
+<!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
 <!ENTITY useService.accesskey "p">
 <!ENTITY updateOthers.label "Actualización automática:">
 <!ENTITY enableSearchUpdate.label "Buscadores">
