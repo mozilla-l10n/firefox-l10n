@@ -145,3 +145,8 @@
 <!ENTITY useService.accesskey            "b">
 <!ENTITY updateOthers.label              "स्वयंरित्या सुधारणा करा:">
 <!ENTITY offlineAppsList2.label          "खालील संकेतस्थळांना ऑफलाइन वापरकरीता डाटा साठवण्यास परवानगी आहे:">
+
+<!ENTITY isDefault.label                 "&brandShortName; सध्या तुमचे पूर्वनिर्धारित ब्राउजर आहे">
+<!ENTITY setDefault.label                "&brandShortName; यास पूर्वनिर्धारित ब्राउजर बनवा">
+<!ENTITY setDefault.accesskey            "d">
+
