@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Meer informatie over Telemetry">
 <!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
+
+<!ENTITY scrolling.label               "Schuiven">
+<!ENTITY useAutoScroll.label           "Automatisch schuiven gebruiken">
+<!ENTITY useAutoScroll.accesskey       "m">
+<!ENTITY useSmoothScrolling.label      "Vloeiend schuiven gebruiken">
+<!ENTITY useSmoothScrolling.accesskey  "e">
+
 <!ENTITY systemIntegration.label       "Systeemintegratie">
 <!ENTITY alwaysCheckDefault.label      "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
