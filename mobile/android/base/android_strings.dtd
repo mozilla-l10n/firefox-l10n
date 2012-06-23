@@ -8,7 +8,7 @@
 <!ENTITY  awesomebar_all_pages_title "Meistbesucht">
 <!ENTITY  awesomebar_bookmarks_title "Lesezeichen">
 <!ENTITY  awesomebar_history_title "Chronik">
-<!ENTITY  awesomebar_search_engine "Suche für &quot;&#037;s&quot;">
+<!ENTITY  awesomebar_search_engine "Suche für \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-Absturz-Melder">
 <!ENTITY  crash_message "&brandShortName; ist abgestürzt. Ihre Tabs sollten auf der &brandShortName;-Startseite angezeigt werden, wenn Sie neu starten.">
