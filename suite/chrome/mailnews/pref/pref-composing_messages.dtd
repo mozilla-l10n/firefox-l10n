@@ -31,6 +31,6 @@
 <!ENTITY selectHeaderType.label "Seleccione el tipo de cabecera de respuesta">
 <!ENTITY selectHeaderType.accesskey "S">
 <!ENTITY noReplyOption.label "Sin cabecera de respuesta">
-<!ENTITY authorWroteOption.label "[Author] escribió:">
-<!ENTITY onDateAuthorWroteOption.label "El [date], [author] escribió:">
-<!ENTITY authorWroteOnDateOption.label "[Author] escribió el [date]:">
+<!ENTITY authorWroteOption.label "[Autor] escribió:">
+<!ENTITY onDateAuthorWroteOption.label "El [fecha], [autor] escribió:">
+<!ENTITY authorWroteOnDateOption.label "[Autor] escribió el [fecha]:">
