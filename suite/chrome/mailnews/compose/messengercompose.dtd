@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Nieuw bericht: (geen onderwerp)">
 
@@ -79,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Leesbevestiging">
 <!ENTITY returnReceiptMenu.accesskey "L">
+<!ENTITY dsnMenu.label "Afleverstatusnotificatie">
+<!ENTITY dsnMenu.accesskey "A">
+
 <!ENTITY outputFormatMenu.label "Opmaak">
 <!ENTITY outputFormatMenu.accesskey "O">
 <!ENTITY autoFormatCmd.label "Automatisch herkennen">
