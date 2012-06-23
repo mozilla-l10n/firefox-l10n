@@ -10,10 +10,10 @@
 <!ENTITY sync.title.pair.label 'Gerät verbinden'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Zum Aktivieren, wählen Sie &bdquo;Gerät verbinden&ldquo; auf Ihrem Gerät.'>
+<!ENTITY sync.subtitle.connect.label 'Zum Aktivieren, wählen Sie &quot;Gerät verbinden&quot; auf Ihrem Gerät.'>
 <!ENTITY sync.subtitle.header.label 'Geben Sie den folgenden Code auf Ihrem Computer ein'>
-<!ENTITY sync.subtitle.connectlocation.label 'Wählen Sie &bdquo;&sync.title.pair.label;&ldquo; im Abschnitt &bdquo;&syncBrand.shortName.label;&ldquo; der Einstellungen Ihres Desktop-Firefox.'>
-<!ENTITY sync.subtitle.pair.label 'Zum Aktivieren, wählen Sie &bdquo;Gerät verbinden&ldquo; auf Ihrem anderen Gerät.'>
+<!ENTITY sync.subtitle.connectlocation.label 'Wählen Sie &quot;&sync.title.pair.label;&quot; im Abschnitt &quot;&syncBrand.shortName.label;&quot; der Einstellungen Ihres Desktop-Firefox.'>
+<!ENTITY sync.subtitle.pair.label 'Zum Aktivieren, wählen Sie &quot;Gerät verbinden&quot; auf Ihrem anderen Gerät.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Anleitung'>

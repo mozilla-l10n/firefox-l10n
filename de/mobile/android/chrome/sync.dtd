@@ -22,6 +22,6 @@
 <!ENTITY sync.setup.waiting2        "Warten auf anderes Gerät…">
 
 <!ENTITY sync.pair.title            "Gerät verbinden">
-<!ENTITY sync.pair.description      "Um Ihr neues Gerät zu aktivieren, wählen Sie \&bdquo;Verbinden\&ldquo; auf dem Gerät.">
+<!ENTITY sync.pair.description      "Um Ihr neues Gerät zu aktivieren, wählen Sie \&quot;Verbinden\&quot; auf dem Gerät.">
 <!ENTITY sync.setup.close           "Schließen">
 <!ENTITY sync.setup.waitingdownload "Ihre Daten werden nun im Hintergrund heruntergeladen. Sie können dieses Fenster jederzeit schließen.">
