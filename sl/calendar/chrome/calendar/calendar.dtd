@@ -49,7 +49,7 @@
 <!ENTITY calendar.unifinder.tree.status.label        "Stanje">
 <!ENTITY calendar.unifinder.tree.status.tooltip      "Razporedi po Stanju">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Ime koledarja">
-<!ENTITY calendar.unifinder.tree.status.tooltip      "Razporedi po Koledarju">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Razporedi po Koledarju">
 <!ENTITY calendar.unifinder.tree.duration.label      "Zapade">
 <!ENTITY calendar.unifinder.tree.duration.tooltip    "Razporedi po Zapade">
 <!ENTITY calendar.unifinder.close.tooltip            "Zapri iskanje dogodkov in seznam dogodkov">
