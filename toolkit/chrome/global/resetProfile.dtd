@@ -15,3 +15,6 @@
 <!ENTITY resetProfile.title               "&brandShortName;ला पूर्वनिर्धारीत स्तरकरीता पूर्ववत् करा">
 <!ENTITY resetProfile.description         "निवारन अशक्य मुख्य अडचणी आढळल्यास, फक्त महत्वाच्याच माहितीसह पुनः सुरू करा.">
 <!ENTITY resetProfile.button.label        "&brandShortName;ला पूर्ववत् करा">
+<!ENTITY resetProfile.cleaning.description "&brandShortName; तर्फे जुणा डाटा नष्ट होईपर्यंत कृपया थोडा वेळ थांबा…">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; खालिल सुरक्षित करते:">
+
