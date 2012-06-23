@@ -166,7 +166,7 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
-<!ENTITY responsiveDesignTool.label "Vista de diseño líquido">
+<!ENTITY responsiveDesignTool.label "Vista de diseño adaptable">
 <!ENTITY responsiveDesignTool.accesskey "ñ">
 <!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY scratchpad.label "Borrador">
