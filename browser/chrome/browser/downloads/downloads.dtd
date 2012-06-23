@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+
+<!ENTITY indicator.tooltiptext            "Ditaollo">
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+
+<!ENTITY downloads.title                  "Ditaollo">
+
+<!ENTITY cmd.pause.label                  "Khutša">
+<!ENTITY cmd.pause.accesskey              "K">
+<!ENTITY cmd.resume.label                 "Thoma gape">
+<!ENTITY cmd.resume.accesskey             "T">
+<!ENTITY cmd.cancel.label                 "Khansela">
+<!ENTITY cmd.cancel.accesskey             "K">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Bula foltara ya go swara">
+<!ENTITY cmd.show.accesskey               "f">
+<!ENTITY cmd.showMac.label                "Laetša go sehwetši">
+<!ENTITY cmd.showMac.accesskey            "s">
+<!ENTITY cmd.retry.label                  "Leka gape">
+<!ENTITY cmd.goToDownloadPage.label       "Eya go letlakala la go laolla">
+<!ENTITY cmd.goToDownloadPage.accesskey   "E">
+<!ENTITY cmd.copyDownloadLink.label       "Kopiša lomaganyo ya go laolla">
+<!ENTITY cmd.copyDownloadLink.accesskey   "l">
+<!ENTITY cmd.removeFromList.label         "Tloša lelokelelong">
+<!ENTITY cmd.removeFromList.accesskey     "l">
+<!ENTITY cmd.clearList.label              "Tloša lelokelelo">
+<!ENTITY cmd.clearList.accesskey          "a">
+
+<!ENTITY downloadshistory.label           "Laetša ditaollo tšohle">
+<!ENTITY downloadshistory.accesskey       "L">

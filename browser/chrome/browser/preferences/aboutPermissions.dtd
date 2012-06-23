@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY permissionsManager.title        "Molaodi wa ditumelelo">
 
 <!ENTITY sites.search                    "Nyakišiša disaete">
@@ -27,9 +31,13 @@
 <!ENTITY cookie.removeAll                "Tloša dikhukhi tšohle">
 
 <!ENTITY geo.label                       "Abelana lefelo">
+
+<!ENTITY plugins.label                   "Ditsebišo-koketšo">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
 <!ENTITY indexedDB.label                 "Boloka polokelo ya go se be inthaneteng">
 
 <!ENTITY popup.label                     "Bula mafasetere a runyago">
+
+<!ENTITY fullscreen.label                "Sekirini se tletšego">

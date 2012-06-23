@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -105,10 +109,12 @@ wa botho.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane bonnete bja tsebišo yeo e amogetšwego bo ka se netefatšwe.</li> 
-<li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo. Go sego bjalo, diriša taelo yeo e hwetšwago go diteng tša thušo gore o bege saete ye e senyegilego.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
