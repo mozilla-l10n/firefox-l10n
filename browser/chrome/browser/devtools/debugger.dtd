@@ -23,21 +23,25 @@
   -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey     "S">
 
-<!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
-  -  button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton      "Užverti">
+<!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
+  -  the button that closes the debugger UI. -->
+<!ENTITY debuggerUI.closeButton.tooltip      "Užverti">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
-  -  button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton   "Peržengti">
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles pausing on exceptions. -->
+<!ENTITY debuggerUI.pauseExceptions          "Pristabdyti išimtinių situacijų atveju">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
+  -  the button that steps over a function call. -->
+<!ENTITY debuggerUI.stepOverButton.tooltip   "Peržengti">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
   -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton     "Įžengti">
+<!ENTITY debuggerUI.stepInButton.tooltip     "Įžengti">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
   -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton    "Išžengti">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "Išžengti">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->

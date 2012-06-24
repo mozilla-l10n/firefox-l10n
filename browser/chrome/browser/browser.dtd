@@ -101,6 +101,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenApproval.value "Ar leisti naudoti visą ekraną?">
 <!ENTITY fullscreenExitHint.value "Iš viso ekrano veiksenos bet kuriuo metu galite išeiti, spustelėdami klavišą Gr.">
 
+<!ENTITY leaveDOMFullScreen.label "Grįžti iš viso ekrano">
+<!ENTITY leaveDOMFullScreen.accesskey "G">
+
 <!ENTITY closeWindow.label "Užverti langą">
 <!ENTITY closeWindow.accesskey "g">
 
@@ -206,6 +209,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Tirti elementą">
 <!ENTITY inspectContextMenu.accesskey "e">
+
+<!ENTITY responsiveUI.label            "Rodinio dydžio keitiklis">
+<!ENTITY responsiveUI.accesskey        "R">
+<!ENTITY responsiveUI.commandkey       "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
