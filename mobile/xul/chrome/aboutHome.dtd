@@ -13,7 +13,7 @@
 <!ENTITY aboutHome.noTabs                       "Nenhuma aba aberta anteriormente">
 <!ENTITY aboutHome.noAddons                     "Nenhum complemento recomendado">
 <!ENTITY aboutHome.getLocale                    "Alterar idioma">
-<!ENTITY aboutHome.getInBeforeBeta              "Get in before Beta.">
+<!ENTITY aboutHome.getInBeforeBeta              "Antes mesmo do Beta.">
 <!ENTITY aboutHome.tryAurora                    "Experimente o Firefox Aurora e ajude a definir o futuro do Firefox.">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.

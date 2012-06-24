@@ -25,7 +25,7 @@
 <!ENTITY selectAll.label       "Selecionar tudo">
 <!ENTITY noSuggestions.label   "(Nenhuma sugestão)">
 <!ENTITY addToDictionary.label "Memorizar como correta">
-<!ENTITY inputMethod.label     "Select Input Method">
+<!ENTITY inputMethod.label     "Selecionar método de entrada">
 
 <!ENTITY allPagesHeader.label      "Tudo">
 <!ENTITY bookmarksHeader.label     "Favoritos">
@@ -36,7 +36,7 @@
 <!ENTITY editBookmarkDone.label    "Concluir">
 <!ENTITY editBookmarkTags.label    "Adicione tags aqui">
 
-<!ENTITY selectHelper.done         "Done">
+<!ENTITY selectHelper.done         "Concluir">
 
 <!ENTITY addonsHeader.label        "Complementos">
 <!ENTITY addonsLocal.label         "Seus complementos">
