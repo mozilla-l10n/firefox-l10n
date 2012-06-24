@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Neželeno">
 <!ENTITY itemPhishing.label      "E-poštne prevare">
 <!ENTITY itemPasswords.label     "Gesla">
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "Pokaži piškote …">
 <!ENTITY showCookies.accesskey          "K">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Obvesti spletne strani, da naj mi ne sledijo">
+<!ENTITY doNotTrack.accesskey           "n">
