@@ -630,7 +630,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Tabbe Jiilogol">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Tabbe waŋngorde">
+<!ENTITY tabsToolbar.label "Tabbe wanngorde">
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu.label     "Tabbe Ummiiɗe e Ordinateeruuji Goɗɗi">

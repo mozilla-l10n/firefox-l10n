@@ -55,7 +55,7 @@
 <!ENTITY  permTab               "Jamirooje">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Huutoro Goowaaɗo">
-<!ENTITY  permAskAlways         "Naamno sakaa kala">
+<!ENTITY  permAskAlways         "Naamno sahaa kala">
 <!ENTITY  permAllow             "Yamir">
 <!ENTITY  permAllowSession      "Yamir e Naatol">
 <!ENTITY  permBlock             "Falo">

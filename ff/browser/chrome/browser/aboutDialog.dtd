@@ -77,5 +77,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Ngon-ɗaa jooni ko e ">
-<!ENTITY channel.description.end    " calol kesɗitingol. ">
+<!ENTITY channel.description.start  "Ngon-ɗaa jooni ko e calol kesɗitingol yamre ">
+<!ENTITY channel.description.end    " ndee. ">

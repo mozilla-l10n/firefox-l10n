@@ -13,7 +13,7 @@
 <!ENTITY aboutHome.noTabs                       "Alaa tabbe iwɗe e laawol ɓennungol">
 <!ENTITY aboutHome.noAddons                     "Alaa ɓeyditte basiyaaɗe">
 <!ENTITY aboutHome.getLocale                    "Waylu Ɗemngal">
-<!ENTITY aboutHome.getInBeforeBeta              "Naat hade Beta.">
+<!ENTITY aboutHome.getInBeforeBeta              "Naat hade yamre Betaa.">
 <!ENTITY aboutHome.tryAurora                    "Ƴeewndo Firefox Aurora ngam wallude heblude jame jarooje.">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.

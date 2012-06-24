@@ -29,7 +29,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Taf Teeltannde">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ajajo Kuutoro">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Jaŋtooje Kooke">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Kutorogol Tesko">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Kuutorogol Tesko">
 
 <!ENTITY aboutSupport.showDir.label "Uddit Runngere">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

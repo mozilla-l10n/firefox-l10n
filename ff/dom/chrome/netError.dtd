@@ -8,13 +8,13 @@
 
 
 <!ENTITY connectionFailure.title "Horiima Seŋaade">
-<!ENTITY connectionFailure.longDesc "<p>Ko goonga ndee lowre ena nanndi e feewnde, wanngorde ndee horiima naatde e mayre.</p><ul><li>Maa taw lowre ndee ko uddunde seeɗa? Fuɗɗito lo ɓooyii.</li><li>A horiima naatde e lowe goɗɗe?  Ƴeewto ceŋol ordinateer oo e laylaytol.</li><li>Mbar ordinateer maa suuraaki caggal cumuwaawaa walla proxy? Teelɗe ɗe peewaani ena mbaawi haɗde peeragol e geese.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Ko goonga ndee lowre ena nanndi e feewnde, wanngorde ndee horiima naatde e mayre.</p><ul><li>Maa taw lowre ndee ko uddunde seeɗa? Fuɗɗito lo ɓooyii.</li><li>A horiima naatde e lowe goɗɗe?  Ƴeewto ceŋol ordinateer oo e laylaytol.</li><li>Mbar ordinateer maa suuraaki caggal ɓalal-jaynge walla proxy? Teelɗe ɗe peewaani ena mbaawi haɗde peeragol e geese.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Poor oo Daaƴaama ngam Kisal">
 <!ENTITY deniedPortAccess.longDesc "<p>Ñiiɓirde ɗaɓɓitaande ndee joopii ko poor (wano. <q>mozilla.org:80</q> mo poor 80 e mozilla.org) mo heewaani huutoreede e paandaale ɗe <em>ngonaa </em> banngagol geese. Wanngorde ndee haaytinii ɗaɓɓannde ndee ngam kisal e suuraare maa.</p>">
 
 <!ENTITY dnsNotFound.title "Ñiiɓirde Yiytaaka">
-<!ENTITY dnsNotFound.longDesc "<p>Wanngorde ndee horiima yiytude koɗnol saworde wonde e ndee ñiiɓirde.</p><ul><li>Mbar a juumaani e tappugol domen oo? (wano. <q><strong>ww</strong>.mozilla.org</q> waasa waonde <q><strong>www</strong>.mozilla.org</q>)</li><li>Aɗa yenanaa ñiiɓirde domen ena woodi?  Binnditagol mayre ena waawi hiiɗtude.</li><li>A horiima naatde e lowe goɗɗe?  Ƴeewto ceŋol laylaytol maa e teelte sarworde DNS ɗee.</li><li>Mbar ordinateer maa suuraaki caggal cumuwaawaa walla proxy?  Teelɗe ɗe peewaani ena mbaawi haɗde peeragol e geese.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Wanngorde ndee horiima yiytude koɗnol saworde wonde e ndee ñiiɓirde.</p><ul><li>Mbar a juumaani e tappugol domen oo? (wano. <q><strong>ww</strong>.mozilla.org</q> waasa waonde <q><strong>www</strong>.mozilla.org</q>)</li><li>Aɗa yenanaa ñiiɓirde domen ena woodi?  Binnditagol mayre ena waawi hiiɗtude.</li><li>A horiima naatde e lowe goɗɗe?  Ƴeewto ceŋol laylaytol maa e teelte sarworde DNS ɗee.</li><li>Mbar ordinateer maa suuraaki caggal ɓalal-jaynge walla proxy?  Teelɗe ɗe peewaani ena mbaawi haɗde peeragol e geese.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fiilde Yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul><li>Mbar temre ndee innitaaka, walla dirtinee?</li><li>Mbar alaa pergitte mbinndiin, kaftingol, walla tappugol ngoni e ñiiɓirde ndee?</li><li>Ala jogii jamirooje jonɗe huutoraade e temre ɗaɓɓitaande ndee?</li></ul>">
@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol wanngorde ndee.</p><ul><li>Ngam reentino kisal, wanngorde ndee naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li></ul>">
 
 <!ENTITY netOffline.title "Mbaydi Ceŋtol">
-<!ENTITY netOffline.longDesc2 "<p>Wanngorde ndee woni ko e mbaydi ceŋtol etee waawaa seŋaade e temre ɗaɓɓitaande ndee.</p><ul><li>Mbar ordianteer maa ena seŋii e laylaytol caasngol?</li>Ñoƴƴu &quot;Fuɗɗito&quot; ngam artirde a mbayka ceŋol, kesɗitinaa hello ngoo.<li></li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Wanngorde ndee woni ko e mbayka ceŋtol etee waawaa seŋaade e temre ɗaɓɓitaande ndee.</p><ul><li>Mbar ordianteer maa ena seŋii e laylaytol caasngol?</li>Ñoƴƴu &quot;Fuɗɗito&quot; ngam artirde a mbayka ceŋol, kesɗitinaa hello ngoo.<li></li></ul>">
 
 <!ENTITY contentEncodingError.title "Juumre Dokkitannde Loowdi">
 <!ENTITY contentEncodingError.longDesc "<p>Hello ngo etot-ɗaa naatnde ngoo waawaa hollireede sabu ngo huutortoo ko tiɗɗinol ndi mbadi mum anndaaka walla moƴƴaani.</p><ul><li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li></ul>">
@@ -46,7 +46,7 @@
 <!ENTITY netReset.longDesc "<p>Jokkol laylaytol ngol dartiima tuma nde kaaldigal ceŋol waɗetee. Tiiɗno fuɗɗito.</p>">
 
 <!ENTITY netTimeout.title "Laylayto Honii">
-<!ENTITY netTimeout.longDesc "<p>Lowre ɗaɓɓitaande ndee jaabaaki ɗaɓɓitaande ceŋol etee wanngorde ndee dartiima fadde jaabtol.</p><ul><li>Mbar sarworde ndee wonaa heewraande walla ena taƴi oo sahaa?  Fuɗɗito so ɓooyii.</li><li>A horiima naatde e lowe goɗɗe? Ƴeewto ceŋol laylaytol ordinateer oo.</li><li>Mbar ordinateer maa suuraaki caggal cumuwaawaa walla proxy?  Teelɗe ɗe peewaani ena mbaawi haɗde peeragol e geese.</li><li>Haa jonni ena waɗi caɗeele? Jokkondir e jiiloowo laylaytol maa walla jeeyoowo ceŋol maa ngam ɗaɓɓude ballal.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Lowre ɗaɓɓitaande ndee jaabaaki ɗaɓɓitaande ceŋol etee wanngorde ndee dartiima fadde jaabtol.</p><ul><li>Mbar sarworde ndee wonaa heewraande walla ena taƴi oo sahaa?  Fuɗɗito so ɓooyii.</li><li>A horiima naatde e lowe goɗɗe? Ƴeewto ceŋol laylaytol ordinateer oo.</li><li>Mbar ordinateer maa suuraaki caggal ɓalal-jaynge walla proxy?  Teelɗe ɗe peewaani ena mbaawi haɗde peeragol e geese.</li><li>Haa jonni ena waɗi caɗeele? Jokkondir e jiiloowo laylaytol maa walla jeeyoowo ceŋol maa ngam ɗaɓɓude ballal.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Jaɓɓitorde Anndaaka">
 <!ENTITY protocolNotFound.longDesc "<p>Ñiiɓirde ndee joopii ko jaɓɓitorde (wano. <q>wxyz://</q>) nde wanngorde ndee waawaa heftinde, ngati nde waawaa seŋaade no feewri e lowre ndee.</p><ul><li>Mbar a wonaani e naatde carwe multimejaa walla goɗɗe ɗe ngonaa binndol? Ƴeewto lowre ndee ngam baɗɗitore ɓeydore.</li><li>Won e jaɓɓitorɗe ena naanmii ceŋe walla topirɗe woɗɓe hade wanngorde ndee heftinde-ɗe.</li></ul>">
