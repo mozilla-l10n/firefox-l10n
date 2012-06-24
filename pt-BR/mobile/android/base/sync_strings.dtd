@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -6,25 +10,25 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Conectar ao &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Adicionar conta do &syncBrand.fullName.label;">
+<!ENTITY sync.title.adddevice.label "Adicionar conta &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Parear dispositivo">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.">
-<!ENTITY sync.subtitle.header.label "Forneça este código no seu computador">
-<!ENTITY sync.subtitle.connectlocation.label "Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.">
+<!ENTITY sync.subtitle.connect.label "Para ativar seu novo dispositivo, selecione “Configurar &syncBrand.shortName.label;” nele.">
+<!ENTITY sync.subtitle.header.label "Forneça este código no seu computador:">
+<!ENTITY sync.subtitle.connectlocation.label "Selecione “&sync.title.pair.label;” no painel “&syncBrand.shortName.label;” das opções do seu Firefox desktop.">
 <!ENTITY sync.subtitle.pair.label "Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Mostrar como">
 <!ENTITY sync.link.advancedsetup.label "Configuração avançada…">
-<!ENTITY sync.link.nodevice.label "I don\&apos;t have the device with me…">
+<!ENTITY sync.link.nodevice.label "O dispositivo não está comigo…">
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label "Aguardando pelo outro dispositivo…">
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label "Enter your &syncBrand.fullName.label; account information">
+<!ENTITY sync.subtitle.account.label "Forneça os dados da sua conta &syncBrand.fullName.label;:">
 <!ENTITY sync.input.username.label "Nome da conta">
 <!ENTITY sync.input.password.label "Senha">
 <!ENTITY sync.input.key.label "Chave de recuperação">
@@ -32,24 +36,25 @@
 <!ENTITY sync.input.server.label "Endereço do servidor">
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label "Cannot Set Up &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; could not connect to the server. Would you like to try again?">
+<!ENTITY sync.title.fail.label "Não foi possível configurar o &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "O &syncBrand.fullName.label; não conseguiu conectar-se ao servidor. Deseja tentar de novo?">
 <!ENTITY sync.button.tryagain.label "Tentar de novo">
 <!ENTITY sync.button.manual.label "Configuração manual">
 <!ENTITY sync.subtitle.nointernet.label "Sem conexão com a internet.">
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Configuração concluída">
-<!ENTITY sync.subtitle.success.label "Your data is now being downloaded in the background. You can go to Settings to manage your account.">
+<!ENTITY sync.subtitle.success.label1 "Seus dados estão sendo recebidos em segundo plano. Entre em “Configurações” para gerenciar sua conta ou comece a navegar com o &brandShortName;.">
 <!ENTITY sync.settings.label "Configurações">
-<!ENTITY sync.subtitle.manage.label "Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.">
+<!ENTITY sync.subtitle.manage.label1 "Sua conta &syncBrand.fullName.label; já está configurada. Entre em “Configurações” para gerenciá-la ou inicie o &brandShortName;.">
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "Por favor, tente de novo.">
+<!ENTITY sync.pair.connectlocation.label "Para ativar seu novo dispositivo, selecione “Configurar &syncBrand.shortName.label;” nele e depois “Tenho uma conta”.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label "Opções">
-<!ENTITY sync.summary.pair.label "Link another device to your &syncBrand.shortName.label; account">
+<!ENTITY sync.summary.pair.label "Conecte outro dispositivo a sua conta &syncBrand.shortName.label;">
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Cancelar">
@@ -67,9 +72,10 @@
 <!ENTITY bookmarks.folder.unfiled.label "Favoritos não organizados">
 <!ENTITY bookmarks.folder.desktop.label "Favoritos do desktop">
 <!ENTITY bookmarks.folder.mobile.label "Favoritos do dispositivo móvel">
+<!ENTITY bookmarks.folder.readinglist.label "Lista de leitura">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "Apenas uma conta do &syncBrand.fullName.label; é suportada.">
+<!ENTITY sync.notification.oneaccount.label "Apenas uma conta &syncBrand.fullName.label; é suportada.">
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Por favor, tente de novo.">
