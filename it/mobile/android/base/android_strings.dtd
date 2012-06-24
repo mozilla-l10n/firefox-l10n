@@ -78,6 +78,7 @@
 <!ENTITY share_title "Condividi con">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY find_in_page "Trova nella pagina">
+<!ENTITY desktop_mode "Richiedi versione desktop">
 <!ENTITY find_text "Trova nella pagina">
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
@@ -100,7 +101,7 @@
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
-<!ENTITY add_to_reading_list "Aggiungi a Elenco lettura">
+<!ENTITY reading_list "Elenco lettura">
 <!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
 <!ENTITY reading_list_removed "Pagina eliminata da Elenco lettura">
 <!ENTITY reading_list_failed "Impossibile aggiungere la pagina a Elenco lettura">
