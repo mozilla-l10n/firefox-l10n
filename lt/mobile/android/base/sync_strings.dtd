@@ -40,9 +40,10 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Konfigūravimas baigtas'>
-<!ENTITY sync.subtitle.success.label 'Jūsų duomenys parsiunčiami fonine veiksena. Jeigu norite tvarkyti paskyrą, tai galite atlikti programos nuostatose.'>
+
+<!ENTITY sync.subtitle.success.label1 'Jūsų duomenys parsiunčiami fonine veiksena. Galite tvarkyti šią paskyrą nuostatose arba pradėti naršymą su „&brandShortName;“.'>
 <!ENTITY sync.settings.label 'Nuostatos'>
-<!ENTITY sync.subtitle.manage.label 'Jūsų „&syncBrand.fullName.label;“ paskyra jau sukonfigūruota. Jeigu norite tvarkyti paskyrą, tai galite atlikti programos nuostatose.'>
+<!ENTITY sync.subtitle.manage.label1 'Jūsų „&syncBrand.fullName.label;“ paskyra jau sukonfigūruota. Galite tvarkyti šią paskyrą nuostatose arba paleisti „&brandShortName;“.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Pabandyti dar kartą.'>
@@ -68,6 +69,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Nerūšiuoti adresai'>
 <!ENTITY bookmarks.folder.desktop.label 'Kompiuterio adresynas'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobilusis adresynas'>
+<!ENTITY bookmarks.folder.readinglist.label 'Skaitinių sąrašas'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Galima naudotis tik viena &syncBrand.fullName.label;“ paskyra.'>
