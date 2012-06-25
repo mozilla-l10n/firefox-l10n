@@ -19,7 +19,7 @@
 
 <!ENTITY permission.alwaysAsk            "എപ്പോഴും ചോദിയ്ക്കുക">
 <!ENTITY permission.allow                "അനുവദിയ്ക്കുക">
-<!ENTITY permission.allowForSession      "സെഷനായി അനുവദിയ്ക്കുക">
+<!ENTITY permission.allowForSession      "സെഷന്‍ അനുവദിയ്ക്കുക">
 <!ENTITY permission.block                "തടയുക">
 
 <!ENTITY password.label                  "രഹസ്യവാക്കുകള്‍ സൂക്ഷിയ്ക്കുക">
