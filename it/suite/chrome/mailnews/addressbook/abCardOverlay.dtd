@@ -14,6 +14,8 @@
 <!ENTITY PhoneticField2.label "Fonetico:">
 <!ENTITY DisplayName.label "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey "z">
+<!ENTITY preferDisplayName.label "Preferire sempre il nome visualizzato all'intestazione del messaggio">
+<!ENTITY preferDisplayName.accesskey "P">
 <!ENTITY NickName.label "Soprannome:">
 <!ENTITY NickName.accesskey "m">
 <!ENTITY PrimaryEmail.label "E-mail:">

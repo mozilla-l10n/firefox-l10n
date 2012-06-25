@@ -1,6 +1,10 @@
 <!--null-->
 <!ENTITY AddToAddressBook.label "Aggiungi alla rubrica…">
 <!ENTITY AddToAddressBook.accesskey "A">
+<!ENTITY EditContact.label "Modifica contatto…">
+<!ENTITY EditContact.accesskey "M">
+<!ENTITY ViewContact.label "Visualizza contatto">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Componi messaggio a…">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copia indirizzo e-mail">

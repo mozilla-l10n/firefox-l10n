@@ -61,6 +61,8 @@
 <!ENTITY highestPriorityCmd.accesskey "s">
 <!ENTITY returnReceiptMenu.label "Ricevuta di ritorno">
 <!ENTITY returnReceiptMenu.accesskey "R">
+<!ENTITY dsnMenu.label "Notifica dello stato di invio">
+<!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "Formato">
 <!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Automatico">
