@@ -638,8 +638,8 @@ toolbar button -->
 <!ENTITY inspectorToggleInfobar.accesskey "M">
 <!ENTITY inspectorButton.label "Anàlixi">
 
-<!ENTITY responsiveUI.label "Mòddo reatîvo">
-<!ENTITY responsiveUI.accesskey "r">
-<!ENTITY responsiveUI.commandkey "M">
+<!ENTITY responsiveDesignTool.label "Vìsta flescìbile">
+<!ENTITY responsiveDesignTool.accesskey "s">
+<!ENTITY responsiveDesignTool.commandkey "V">
 
 <!ENTITY webConsoleButton.label "Console web">
