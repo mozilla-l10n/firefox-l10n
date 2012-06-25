@@ -601,8 +601,12 @@
 <!ENTITY markupButton.arialabel          "മാര്‍ക്കപ്പ്">
 
 <!ENTITY markupButton.accesskey          "M">
-<!ENTITY responsiveUI.label            "റസ്പോണ്‍സീവ് മോഡ്">
+<!-- ENTITY responsiveUI.label            "റസ്പോണ്‍സീവ് മോഡ്" -->
 <!ENTITY webConsoleButton.label "വെബ് കണ്‍സോള്‍">
-<!ENTITY responsiveUI.accesskey        "R">
-<!ENTITY responsiveUI.commandkey       "M">
+<!-- ENTITY responsiveUI.accesskey        "R" -->
+<!-- ENTITY responsiveUI.commandkey       "M" -->
 <!ENTITY scriptsButton.label "Scripts">
+
+<!ENTITY responsiveDesignTool.label   "റസ്പോണ്‍സീവ് രീതിയിലുള്ള കാഴ്ച">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
