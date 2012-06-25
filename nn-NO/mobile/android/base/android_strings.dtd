@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Konfigurerer &brandShortName; \u2026">
+<!ENTITY  splash_settingup "Konfigurerer &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Vi oppdaterer bokmerka og historikken din, som kan ta ei lita stund.">
 
 <!ENTITY  no_space_to_start_error "Det er ikkje nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "Ein feil oppstod ved forsøk på å laste nødvendige filer for å køyre &brandShortName;">
@@ -14,7 +15,7 @@
 <!ENTITY  crash_help_message "Hjelp oss å løyse problemet!">
 <!ENTITY  crash_send_report_message "Send krasjrapport til Mozilla">
 <!ENTITY  crash_include_url "Legg ved sideadresse">
-<!ENTITY  crash_close_label "Lat att">
+<!ENTITY  crash_close_label "Lukk">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
 <!ENTITY  sending_crash_report "Sender krasjrapport\u2026">
 <!ENTITY  exit_label "Avslutt">
@@ -27,9 +28,13 @@
 
 <!ENTITY awesomebar_default_text "Skriv inn søkjeord eller adresse">
 
+<!ENTITY remote_tabs "Synkroniserte faner">
+<!ENTITY remote_tabs_show_all "Vis alle faner">
+
 <!ENTITY bookmark "Bokmerke">
 <!ENTITY bookmark_added "Bokmerke er lagt til">
 <!ENTITY bookmark_removed "Bokmerke fjerna">
+<!ENTITY bookmark_updated "Bokmerke oppdatert">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -79,12 +84,19 @@
 <!ENTITY char_encoding "Teiknkoding">
 
 <!ENTITY share "Del">
+<!ENTITY share_title "Del via">
 <!ENTITY save_as_pdf "Lagre som PDF">
 
 <!ENTITY contextmenu_open_new_tab "OPne i ny fane">
 <!ENTITY contextmenu_remove_bookmark "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på framsida">
 <!ENTITY contextmenu_share "Del">
+<!ENTITY contextmenu_edit_bookmark "Rediger">
+
+<!ENTITY bookmark_edit_title "Rediger bokmerke">
+<!ENTITY bookmark_edit_name "Namn">
+<!ENTITY bookmark_edit_location "Adresse">
+<!ENTITY bookmark_edit_keyword "Nøkkelord">
 
 <!ENTITY site_settings_title        "Tøm nettstadsinnstillingar">
 <!ENTITY site_settings_cancel       "Avbryt">
@@ -108,3 +120,8 @@
 <!ENTITY abouthome_no_top_sites "Du har ingen øvste nettstader enno. Trykk på tittellinja for å starte og bruke nettet.">
 <!ENTITY abouthome_about_sync "Sett opp Firefox Sync for å hente bokmerke, historikk og faner frå dei andre einingane dine">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Vel fil">
+<!ENTITY filepicker_audio_title "Vel eller spel inn ein lyd">
+<!ENTITY filepicker_image_title "VEl eller ta eit bilete">
+<!ENTITY filepicker_video_title "Vel eller spel inn ein video">

@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Skriv inn eit namn">
-<!ENTITY webapps.permissions "Tillat tilgang:">
-<!ENTITY webapps.perm.geolocation "Nettlesing med adresse">
-<!ENTITY webapps.perm.offline "Fråkopla datalagring">
-<!ENTITY webapps.perm.notifications "Varsel på skrivebordet">
-<!ENTITY webapps.perm.requestedHint "(spurt etter)">
-<!ENTITY webapps.add-homescreen "Legg til på hovudskjermen">

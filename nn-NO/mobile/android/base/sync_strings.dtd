@@ -1,72 +1,75 @@
-<!-- Don't localize these. They're here until they have
+<!-- Don"t localize these. They"re here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Kople til &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Legg til ein &syncBrand.fullName.label;-konto">
+<!ENTITY sync.title.pair.label "Par ei eining">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Show me how.'>
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.subtitle.connect.label "For å aktivere ei ny eining, vel «Sett opp &syncBrand.shortName.label;» på eininga.">
+<!ENTITY sync.subtitle.header.label "Skriv inn denne koden på dataaskina di">
+<!ENTITY sync.subtitle.connectlocation.label "Vel “&sync.title.pair.label;” i &syncBrand.shortName.label;-seksjonen i Firefox desktop-innstillingane.">
+<!ENTITY sync.subtitle.pair.label "For å aktivere, vel «Par ei eining» på den andre eininga di.">
+<!ENTITY sync.pin.default.label "… \n … \n… \n">
+<!ENTITY sync.pin.oneline.label "…">
+<!ENTITY sync.link.show.label "Vis meg korleis.">
+<!ENTITY sync.link.advancedsetup.label "Avansert oppsett …">
+<!ENTITY sync.link.nodevice.label "Eg har ikkje eininga med meg …">
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Ventar på den andre eininga …">
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label 'Password'>
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.subtitle.account.label "Skriv inn &syncBrand.fullName.label;-kontoinfo">
+<!ENTITY sync.input.username.label "Kontonamn">
+<!ENTITY sync.input.password.label "Passord">
+<!ENTITY sync.input.key.label "Oppatbyggjingsnøkkel">
+<!ENTITY sync.checkbox.server.label "Bruk eigen tenar">
+<!ENTITY sync.input.server.label "Tenar-URL">
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
-<!ENTITY sync.button.tryagain.label 'Try again'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!ENTITY sync.title.fail.label "Kan ikkje setje opp &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; klarte ikkje å kople til tenaren. Vil du prøve ein gong til?">
+<!ENTITY sync.button.tryagain.label "Prøv igjen">
+<!ENTITY sync.button.manual.label "Manuelt oppsett">
+<!ENTITY sync.subtitle.nointernet.label "Ikkje noko Internett-samband tilgjengeleg.">
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Setup Complete'>
-<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
-<!ENTITY sync.settings.label 'Settings'>
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.title.success.label "Oppsett fullførd">
+<!ENTITY sync.subtitle.success.label "Data vert no lasta ned i bakgrunnen. Du kan gå til Innstillingar for å handsame kontoen din.">
+<!ENTITY sync.settings.label "Innstillingar">
+<!ENTITY sync.subtitle.manage.label "&syncBrand.fullName.label; -kontoen din er allereie oppe og går. Gå til Innstillingar for å handsame kontoen din.">
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Please try again.'>
+<!ENTITY sync.pair.tryagain.label "Prøv igjen.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Options'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.settings.options.label "Innstillingar">
+<!ENTITY sync.summary.pair.label "Lenk ei anna eining til &syncBrand.shortName.label;-kontoen din">
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancel'>
-<!ENTITY sync.button.connect.label 'Connect'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label "Avbryt">
+<!ENTITY sync.button.connect.label "Kople til">
+<!ENTITY sync.button.ok.label "OK">
   
 <!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
-<!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
-<!ENTITY bookmarks.folder.unfiled.label 'Unsorted Bookmarks'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
+<!ENTITY bookmarks.folder.menu.label "Bokmerkemeny">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Merkelappar">
+<!ENTITY bookmarks.folder.toolbar.label "Bokmerke-verktylinje">
+<!ENTITY bookmarks.folder.unfiled.label "Usorterte bokmerke">
+<!ENTITY bookmarks.folder.desktop.label "Desktop Bookmarks">
+<!ENTITY bookmarks.folder.mobile.label "Mobil-bokmerke">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label "Berre ein &syncBrand.fullName.label;-konto er støtta.">
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect "Oppatbyggjingsnøkkel ukorekt. Prøv igjen.">
