@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Ďalšie informácie o údajoch výkonnosti">
 <!ENTITY enableGlodaSearch.label        "Povoliť globálne vyhľadávanie a indexovanie správ">
 <!ENTITY enableGlodaSearch.accesskey    "o">
+
+<!ENTITY scrolling.label               "Posúvanie obsahu">
+<!ENTITY useAutoScroll.label           "Použiť automatický posun">
+<!ENTITY useAutoScroll.accesskey       "a">
+<!ENTITY useSmoothScrolling.label      "Použiť plynulý posun">
+<!ENTITY useSmoothScrolling.accesskey  "n">
+
 <!ENTITY systemIntegration.label        "Integrácia so systémom">
 <!ENTITY alwaysCheckDefault.label       "Pri štarte kontrolovať, či je &brandShortName; predvoleným poštovým klientom">
 <!ENTITY alwaysCheckDefault.accesskey   "k">

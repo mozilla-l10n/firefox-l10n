@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkLog.title "Protokol rozpoznávania nevyžiadanej pošty">
-<!ENTITY junkLogInfo.label "Protokol aktivity rozpoznávania nevyžiadanej pošty.">
+<!ENTITY adaptiveJunkLog.title "Protokol adaptívneho rozpoznávania nevyžiadanej pošty">
+<!ENTITY adaptiveJunkLogInfo.label "Protokol aktivity adaptívneho rozpoznávania nevyžiadanej pošty.">
 <!ENTITY clearLog.label "Vymazať protokol">
 <!ENTITY clearLog.accesskey "V">
 <!ENTITY closeLog.label "Zavrieť">

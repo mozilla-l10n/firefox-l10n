@@ -95,6 +95,7 @@
 <!ENTITY share_title "Zdieľať cez">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 <!ENTITY find_in_page "Hľadať na stránke">
+<!ENTITY desktop_mode "Požiadať plnú verziu stránky">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -108,6 +109,9 @@
 <!ENTITY contextmenu_remove_bookmark "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_share "Zdieľať">
+<!ENTITY contextmenu_pasteandgo "Prilepiť a prejsť">
+<!ENTITY contextmenu_paste "Prilepiť">
+<!ENTITY contextmenu_copyurl "Kopírovať adresu">
 <!ENTITY contextmenu_edit_bookmark "Upraviť">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -124,9 +128,10 @@
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
 
-<!ENTITY add_to_reading_list "Pridať do zoznamu na prečítanie">
+<!ENTITY reading_list "Zoznam na prečítanie">
 <!ENTITY reading_list_added "Stránka pridaná do zoznamu na prečítanie">
 <!ENTITY reading_list_removed "Stránka bola odstránená zo zoznamu na prečítanie">
+<!ENTITY reading_list_failed "Pridanie stránky do zoznamu na prečítanie sa nepodarilo">
 <!ENTITY reader_mode "Režim Na prečítanie">
 
 <!ENTITY masterpassword_create_title "Vytvoriť hlavné heslo">

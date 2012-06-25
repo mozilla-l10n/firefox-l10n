@@ -82,3 +82,12 @@
 <!ENTITY sync.invalidserver.label 'Zadajte platnú adresu servera'>
 <!ENTITY sync.verifying.label 'Overuje sa…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Nesprávny Obnovovací kľúč. Skúste to znova.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Odoslať kartu na zariadenia'>
+<!ENTITY sync.button.send.label 'Odoslať'>
+<!ENTITY sync.button.setup.label 'Nastaviť službu Sync'>
+<!ENTITY sync.button.continue.browsing.label 'Pokračovať v prehliadaní'>
+<!ENTITY sync.title.redirect.to.setup.label 'Nastavenie služby Sync na odosielanie kariet'>
+<!ENTITY sync.text.redirect.to.setup.label 'Nastavenie služby Firefox Sync na tomto zariadení na odosielanie kariet na ďalšie zariadenia.'>
+<!ENTITY sync.text.tab.sent.label 'Karta bola odoslaná!'>
