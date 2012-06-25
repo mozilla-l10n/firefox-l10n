@@ -127,3 +127,6 @@
 <!ENTITY  permClearStorage           "સંગ્રહ સાફ કરો">
 <!ENTITY  permClearStorage.accesskey "C">
 <!ENTITY  permIndexedDB              "ઓફલાઇન સંગ્રહને સંચાલિત કરો">
+
+<!ENTITY  permFullscreen        "પૂર્ણસ્ક્રીનને દાખલ કરો">
+<!ENTITY  permPlugins           "પ્લગઇનને સક્રિય કરો">
