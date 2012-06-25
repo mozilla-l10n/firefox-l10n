@@ -577,9 +577,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
 <!ENTITY markupButton.accesskey          "M">
  <!ENTITY markupButton.arialabel          "માર્કઅપ">
-<!ENTITY responsiveUI.accesskey        "R">
-<!ENTITY responsiveUI.commandkey       "M">
-<!ENTITY responsiveUI.label            "પ્રતિક્રિયાશીલ સ્થિતિ">
+
+
+
 <!ENTITY scriptsButton.label "સ્ક્રિપ્ટ">
 <!ENTITY webConsoleButton.label "વેબ કન્સોલ">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignTool.label   "પ્રતિયોગી રચના જુઓ">
 
