@@ -89,6 +89,14 @@
 <!ENTITY share "Dalintis tinklalapiu">
 <!ENTITY share_title "Dalintis per">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
+<!ENTITY find_in_page "Ieškoti tinklalapyje">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Ieškoti tinklalapyje">
+<!ENTITY find_prev "Ankstenis">
+<!ENTITY find_next "Tolesnis">
+<!ENTITY find_close "Užverti">
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
 <!ENTITY contextmenu_remove_history "Pašalinti">
@@ -110,6 +118,11 @@
 <!ENTITY site_settings_cancel       "Atsisakyti">
 <!ENTITY site_settings_clear        "Išvalyti">
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
+
+<!ENTITY add_to_reading_list "Įtraukti į skaitinių sąrašą">
+<!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
+<!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
+<!ENTITY reader_mode "Skaityklės veiksena">
 
 <!ENTITY masterpassword_create_title "Sukurti pagrindinį slaptažodį">
 <!ENTITY masterpassword_remove_title "Pašalinti pagrindinį slaptažodį">
