@@ -127,6 +127,7 @@
 <!ENTITY reading_list "leeslijst">
 <!ENTITY reading_list_added "Pagina toegevoegd aan uw leeslijst">
 <!ENTITY reading_list_removed "Pagina verwijderd van uw leeslijst">
+<!ENTITY reading_list_failed "Pagina toegevoegen aan uw leeslijst mislukt">
 <!ENTITY reader_mode "Leesmodus">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
