@@ -166,9 +166,9 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "t">
-<!ENTITY responsiveUI.label "Modo flessibile">
-<!ENTITY responsiveUI.accesskey "f">
-<!ENTITY responsiveUI.commandkey "M">
+<!ENTITY responsiveDesignTool.label "Visualizzazione flessibile">
+<!ENTITY responsiveDesignTool.accesskey "s">
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY scratchpad.label "Blocco per gli appunti">
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
