@@ -5,6 +5,10 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "Pridať do adresára kontaktov…">
 <!ENTITY AddToAddressBook.accesskey        "P">
+<!ENTITY EditContact.label                 "Upraviť kontakt…">
+<!ENTITY EditContact.accesskey             "U">
+<!ENTITY ViewContact.label                 "Zobraziť kontakt">
+<!ENTITY ViewContact.accesskey             "Z">
 <!ENTITY SendMailTo.label                  "Napísať správu pre…">
 <!ENTITY SendMailTo.accesskey              "s">
 <!ENTITY CopyEmailAddress.label            "Kopírovať e-mailovú adresu">
