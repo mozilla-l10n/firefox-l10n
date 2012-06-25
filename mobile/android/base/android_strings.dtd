@@ -96,6 +96,7 @@
 <!ENTITY share_title "分享到">
 <!ENTITY save_as_pdf "儲存為 PDF">
 <!ENTITY find_in_page "在頁面中搜尋">
+<!ENTITY desktop_mode "開啟桌面版網站">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
