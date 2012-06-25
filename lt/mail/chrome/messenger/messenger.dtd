@@ -28,6 +28,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "R">
 <!ENTITY newIMAccountCmd.label "Pokalbių paskyra…">
 <!ENTITY newIMAccountCmd.accesskey "o">
+<!ENTITY newIMContactCmd.label "Pašnekovas…">
+<!ENTITY newIMContactCmd.accesskey "š">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Priedai">
@@ -477,6 +479,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Užsiėmęs (-usi)">
 <!ENTITY imStatus.offline            "Neprisijungęs (-usi)">
 <!ENTITY imStatus.showAccounts       "Rodyti paskyras…">
+<!ENTITY joinChatCmd.label "Jungtis į pokalbį…">
+<!ENTITY joinChatCmd.accesskey "J">
 <!ENTITY savedFiles.label "Įrašyti failai">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">

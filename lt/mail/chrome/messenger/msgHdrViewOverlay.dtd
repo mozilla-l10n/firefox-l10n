@@ -23,7 +23,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Archyvuoti šį laišką">
 <!ENTITY hdrSmartReplyButton1.label "Atsakyti parenkant gavėjus">
 <!ENTITY hdrReplyButton1.label "Atsakyti">
-<!ENTITY hdrReplyButton1.tooltip "Atsakyti į šį laišką">
+<!ENTITY hdrReplyButton2.tooltip "Atsakyti laiško siuntėjui">
 <!ENTITY hdrReplyAllButton1.label "Atsakyti visiems">
 <!ENTITY hdrReplyAllButton1.tooltip "Atsakyti laiško siuntėjui ir visiems gavėjams">
 <!ENTITY hdrReplyListButton1.label "Atsakyti grupei">

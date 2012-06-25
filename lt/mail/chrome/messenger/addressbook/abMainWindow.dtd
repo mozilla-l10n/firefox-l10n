@@ -160,8 +160,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "v">
 <!ENTITY PrimaryEmail.label                             "El. pašto adresas">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "AOL abonento vardas">
-<!ENTITY ScreenName.accesskey                           "A">
+<!ENTITY ChatName.label                                 "Vardas tikralaikiuose pokalbiuose">
+<!ENTITY ChatName.accesskey                             "t">
 <!ENTITY Company.label                                  "Organizacija">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Slapyvardis">
@@ -194,6 +194,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Adresatas">
 <!ENTITY home.heading                                   "Adresai">
 <!ENTITY other.heading                                  "Kitkas">
+<!ENTITY chat.heading                                   "Tikralaikiai pokalbiai">
 <!ENTITY phone.heading                                  "Telefonai">
 <!ENTITY work.heading                                   "Darbovietė">
 <!-- Special Box Headings, for mailing lists -->

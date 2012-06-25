@@ -77,7 +77,7 @@
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
 <!ENTITY updateHistory.accesskey         "R">
 
-<!ENTITY useService.label                "Naujinimų diegimui naudoti fone veikiančią tarnybą">
+<!ENTITY useService.label                "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey            "f">
 
 <!ENTITY updateOthers.label              "Automatiškai atnaujinti:">
