@@ -638,8 +638,8 @@ items are mutually exclusive. -->
 <!ENTITY inspectorToggleVeil.label          "ಪುಟವನ್ನು ಮಬ್ಬುಗೊಳಿಸು">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY leaveDOMFullScreen.label "ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು">
-<!ENTITY responsiveUI.accesskey        "R">
-<!ENTITY responsiveUI.commandkey       "M">
-<!ENTITY responsiveUI.label            "ಪ್ರತಿಕ್ರಿಯೆಯ ಸ್ಥಿತಿ">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignTool.label   "ಪ್ರತಿಕ್ರಿಯೆ ವಿನ್ಯಾಸ ನೋಟ">
 <!ENTITY scriptsButton.label "ಸ್ಕ್ರಿಪ್ಟುಗಳು">
 <!ENTITY webConsoleButton.label "ಜಾಲ ಕನ್ಸೋಲ್">
