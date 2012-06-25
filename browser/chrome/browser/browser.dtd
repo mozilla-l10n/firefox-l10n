@@ -92,9 +92,9 @@
 <!ENTITY syncSyncNowItem.label        "Sinhronizēt">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 
-<!ENTITY responsiveUI.label            "Adaptīvais režīms">
-<!ENTITY responsiveUI.accesskey        "R">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label            "Adaptīvā dizaina režīms">
+<!ENTITY responsiveDesignTool.accesskey        "R">
+<!ENTITY responsiveDesignTool.commandkey       "M">
 
 
 <!ENTITY goOfflineCmd.label "Strādāt nesaistē">
