@@ -55,6 +55,7 @@
 <!ENTITY pref_category_general "Général">
 <!ENTITY pref_category_privacy "Vie privée et sécurité">
 <!ENTITY pref_category_content "Contenu">
+<!ENTITY pref_category_importexport "Importer et exporter">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_do_not_track "Dire de ne pas me pister">
 <!ENTITY pref_telemetry "Envoyer données de perf.">
@@ -80,6 +81,7 @@
 <!ENTITY pref_use_master_password "Mot de passe principal">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Afficher les suggestions de recherche">
+<!ENTITY pref_import_android "Importer depuis Android">
 
 <!ENTITY quit "Quitter">
 
@@ -166,3 +168,9 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "dont le détenteur est">
+
+<!ENTITY bookmarkhistory_button_import "Importer">
+<!ENTITY bookmarkhistory_import_both "Importation des marque-pages et de l\u0027historique depuis Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importation des marque-pages depuis Android">
+<!ENTITY bookmarkhistory_import_history "Importation de l\u0027historique depuis Android">
+<!ENTITY bookmarkhistory_import_wait "Veuillez patienter…">
