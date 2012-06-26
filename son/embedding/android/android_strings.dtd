@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  splash_firstrun "&brandShortName;\u2026 kayandiyan">
+
+<!ENTITY  splash_firstrun "&brandShortName;\u2026 kayandi">
 
 <!ENTITY  no_space_to_start_error "Doo kayante ši bara kaŋ nda &brandShortName; ga hin ka tunandi.">
 <!ENTITY  error_loading_file "Firka bangay waati kaŋ a ceeci ka &brandShortName; tunandi tukey zumandi">

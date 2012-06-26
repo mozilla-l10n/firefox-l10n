@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "War brandShortName; kayandi">
 <!ENTITY  splash_bookmarks_history "Ir goo ma war doo-šilbawey nda taarikoo taagandi, kaŋ ga hin ka too miniti foo cine.">
@@ -44,7 +48,11 @@
 <!ENTITY reload "Dam taaga">
 <!ENTITY forward "Jine">
 
+<!ENTITY close_tab "Nor lokoo daabu">
 <!ENTITY new_tab "Nor loku taaga">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "Nor loku &#x25;d">
 <!ENTITY new_tab_opened "Nor loku taaga feera">
 
 <!ENTITY settings "Kayandiyaney">
@@ -86,12 +94,25 @@
 <!ENTITY share "Žemna">
 <!ENTITY share_title "Žemna nda">
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
+<!ENTITY find_in_page "Ceeci moɲoo ra">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Ceeci moɲoo ra">
+<!ENTITY find_prev "Ibisante">
+<!ENTITY find_next "Jine">
+<!ENTITY find_close "Daabu">
 
 <!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
+<!ENTITY contextmenu_remove_history "Kaa">
 <!ENTITY contextmenu_remove_bookmark "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
 <!ENTITY contextmenu_edit_bookmark "Fasal">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "Moo tuusante">
 
 <!ENTITY bookmark_edit_title "Doo-šilbaa fasal">
 <!ENTITY bookmark_edit_name "Maa">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "Naŋ">
 <!ENTITY site_settings_clear        "Tuusu">
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
+
+<!ENTITY add_to_reading_list "Tonton caw maašeedaa ga">
+<!ENTITY reading_list_added "Moo tontonandi war caw maašeedaa ga">
+<!ENTITY reading_list_removed "Moo tuusandi war caw maašeedaa ra">
+<!ENTITY reader_mode "Cawyan alhaali">
 
 <!ENTITY masterpassword_create_title "Takaddaɲaa šennikufaloo tee">
 <!ENTITY masterpassword_remove_title "Takaddaɲaa šennikufal kaa">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
 <!ENTITY filepicker_image_title "Bii foo suuba wal’a zaa">
 <!ENTITY filepicker_video_title "Widewo foo suuba wal’a zaa">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "War ciya dogoo ne">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "kaŋ tunandikaa ti">

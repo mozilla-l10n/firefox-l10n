@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Sukari ga waažibi ka gundekunaa woo cebe.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Kar ne ka sukaroo dirandi.">
-<!ENTITY clickToPlayPlugins                                  "Naagu ne ka sukaroo tunandi.">
+<!ENTITY clickToPlayPlugin                                   "Naagu ne ka sukaroo tunandi.">
 <!ENTITY disabledPlugin                                      "Sukaroo n' ka hun goy.">
 <!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi war da boŋ-daabaa še.">
 

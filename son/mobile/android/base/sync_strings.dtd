@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Kayandiyan timme">
-<!ENTITY sync.subtitle.success.label "War bayhayey goo ma zumandi bandafaaroo. War ga hin ka huru Kayandiyaney ra ka war kontoo juwal.">
+<!ENTITY sync.subtitle.success.label1 "War bayhaya goo ma zunbu bandafaaroo ra. War ga hin ka koy Kayandiyaney do ka war kontoo juwal wala ka šintin ka naaru nda &brandShortName;.">
 <!ENTITY sync.settings.label "Kayandiyaney">
-<!ENTITY sync.subtitle.manage.label "War &syncBrand.fullName.label; kontoo kayandi ka ben. Wa huru Kayandiyaney ra ka war kontoo juwal.">
+<!ENTITY sync.subtitle.manage.label1 "War &syncBrand.fullName.label; kayandi ka ben. War ga hin ka koy Kayandiyaney do ka war kontoo juwal wala ka &brandShortName; tunandi.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Wa ceeci koyne taare.">
+<!ENTITY sync.pair.connectlocation.label "Ka war jinaa dirandi, “&syncBrand.shortName.label;” suuba a ga nda “Ay goo nda kontu”.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Suubarey">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Doo-šilbay kaŋyaŋ mana fayandi">
 <!ENTITY bookmarks.folder.desktop.label "Ordinater doo-šilbawey">
 <!ENTITY bookmarks.folder.mobile.label "Doo-šilbay dirantey">
+<!ENTITY bookmarks.folder.readinglist.label "Caw maašeede">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu foo hinne ma kanbandi.">
