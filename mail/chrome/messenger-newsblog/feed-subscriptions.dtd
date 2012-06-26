@@ -1,18 +1,32 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Előfizetés hírforrásokra">
-<!ENTITY subscriptionDesc.label "Megjegyzés: A hírforrás mappájának eltávolítása vagy módosítása nincs hatással a már letöltött cikkekre.">
-<!ENTITY feedTitle.label "Cím:">
-<!ENTITY location.label  "Hely:">
+<!ENTITY feedSubscriptions.label     "Előfizetés hírforrásokra">
+<!ENTITY subscriptionDesc.label      "Megjegyzés: A hírforrás mappájának eltávolítása vagy módosítása nincs hatással a már letöltött cikkekre.">
 
-<!ENTITY button.addFeed.label       "Hozzáadás">
-<!ENTITY button.addFeed.accesskey   "H">
-<!ENTITY button.editFeed.label      "Szerkesztés">
-<!ENTITY button.editFeed.accesskey  "z">
-<!ENTITY button.removeFeed.label "Eltávolítás">
-<!ENTITY button.removeFeed.accesskey   "E">
-<!ENTITY button.importOPML.label "Importálás">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Exportálás">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY feedTitle.label             "Cím:">
+<!ENTITY feedTitle.accesskey         "C">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Hírforrás URL:">
+<!ENTITY feedLocation.accesskey      "H">
+<!ENTITY feedLocation.placeholder    "Adjon meg egy hozzáadandó érvényes hírforrás URL-t">
+
+<!ENTITY feedFolder.label            "Letöltött cikkek tárolása:">
+<!ENTITY feedFolder.accesskey        "L">
+
+<!ENTITY quickMode.label             "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
+<!ENTITY quickMode.accesskey         "c">
+
+<!ENTITY locationValidate.label      "Ellenőrzés">
+<!ENTITY validateText.label          "Ellenőrzés és érvényes URL lekérése.">
+
+<!ENTITY button.addFeed.label        "Hozzáadás">
+<!ENTITY button.addFeed.accesskey    "H">
+<!ENTITY button.editFeed.label       "Frissítés">
+<!ENTITY button.editFeed.accesskey   "F">
+<!ENTITY button.removeFeed.label     "Eltávolítás">
+<!ENTITY button.removeFeed.accesskey "E">
+<!ENTITY button.importOPML.label     "Importálás">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Exportálás">
+<!ENTITY button.exportOPML.accesskey "X">
+
+<!ENTITY cmd.close.commandKey        "w">

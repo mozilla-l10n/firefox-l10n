@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Üzenettároló">
 <!ENTITY securitySettings.label "Biztonsági beállítások">
 <!ENTITY serverSettings.label "Kiszolgáló beállításai">
 <!ENTITY serverType.label "Kiszolgálótípus:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Hitelesítés kérése mindig, amikor ehhez a kiszolgálóhoz kapcsolódik">
 <!ENTITY alwaysAuthenticate.accesskey "H">
 <!ENTITY newsrcFilePath.label "newsrc fájl:">
-<!ENTITY localPath.label "Helyi könyvtár:">
+<!ENTITY newsrcPicker.label "Newsrc fájl kiválasztása">
 <!ENTITY abbreviate.label "Hírcsoportnevek megjelenítése a Levelezőmappák panelen:">
 <!ENTITY abbreviateOn.label "Teljes névvel (például, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Rövidített névvel (például, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Haladó...">
 <!ENTITY advancedButton.accesskey "H">
 <!ENTITY serverDefaultCharset.label "Alapértelmezett karakterkódolás:">
+<!ENTITY localPath.label "Helyi könyvtár:">
 <!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
 <!ENTITY browseFolder.label "Tallózás...">
 <!ENTITY browseFolder.accesskey "T">
-<!ENTITY newsrcPicker.label "Newsrc fájl kiválasztása">
 <!ENTITY browseNewsrc.label "Tallózás...">
 <!ENTITY browseNewsrc.accesskey "a">
+
+<!ENTITY accountTitle.label "Postafiók beállításai">
+<!ENTITY accountSettingsDesc.label "A következő egy különleges postafiók, amelyhez nem tartoznak személyazonosságok.">
