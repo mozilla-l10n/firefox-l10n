@@ -45,6 +45,7 @@
 <!ENTITY pref_category_general "Основные">
 <!ENTITY pref_category_privacy "Приватность и защита">
 <!ENTITY pref_category_content "Содержимое">
+<!ENTITY pref_category_importexport "Импорт и экспорт">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
@@ -70,6 +71,7 @@
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_sync "Синхронизация">
 <!ENTITY pref_search_suggestions "Показывать поисковые предложения">
+<!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
@@ -127,3 +129,8 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
+<!ENTITY bookmarkhistory_button_import "Импорт">
+<!ENTITY bookmarkhistory_import_both "Импорт закладок и истории из Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Импорт закладок из Android">
+<!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
+<!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
