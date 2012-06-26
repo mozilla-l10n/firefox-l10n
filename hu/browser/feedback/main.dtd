@@ -16,7 +16,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Befejezett felmérések">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Felmérések eredményei">
 <!ENTITY testpilot.studiesWindow.settings.label         "Beállítások">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Betöltés, kérem, várjon...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Betöltés, kis türelmet...">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Nyers adatok">

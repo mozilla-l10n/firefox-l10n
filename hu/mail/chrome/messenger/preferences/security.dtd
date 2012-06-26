@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "T">
 <!ENTITY markAsReadOnSpam.label "A szemétként megjelölt levelek megjelölése olvasottként">
 <!ENTITY markAsReadOnSpam.accesskey "o">
-<!ENTITY enableJunkLogging.label "Levélszemét-szűrés naplózásának engedélyezése">
-<!ENTITY enableJunkLogging.accesskey "L">
+<!ENTITY enableAdaptiveJunkLogging.label "Adaptív levélszemétszűrő-naplózás engedélyezése">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Napló megjelenítése">
 <!ENTITY openJunkLog.accesskey "N">
 <!ENTITY resetTrainingData.label "Tanulási adatok törlése">

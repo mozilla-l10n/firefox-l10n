@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "P">
 <!ENTITY addMailAccountButton.label "Postafiók hozzáadása...">
 <!ENTITY addMailAccountButton.accesskey "o">
+<!ENTITY addIMAccountButton.label "Csevegőfiók hozzáadása...">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "Egyéb fiók hozzáadása...">
 <!ENTITY addOtherAccountButton.accesskey "E">
 <!ENTITY setDefaultButton.label "Legyen ez az alapértelmezett">
