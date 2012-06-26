@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "মূদ্ৰণ কৰা হৈছে"> 
-<!ENTITY title    "শিৰোনাম:"> 
-<!ENTITY progress "অগ্ৰসৰ:">
+<!ENTITY printWindow.title "প্ৰিন্ট কৰা হৈছে"> 
+<!ENTITY title    "শীৰ্ষক:"> 
+<!ENTITY progress "প্ৰগতি:">
 <!ENTITY preparing "প্ৰস্তুত কৰা হৈছে...">
-<!ENTITY printComplete "মূদ্ৰণ সম্পূৰ্ণ হ'ল ।">
+<!ENTITY printComplete "প্ৰিন্ট সম্পূৰ্ণ হ'ল।">
 
 <!ENTITY dialogCancel.label "বাতিল কৰক"> 
 <!ENTITY dialogClose.label "বন্ধ কৰক">
@@ -15,4 +19,3 @@
 
     #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentPrint "#1&#037;">
-

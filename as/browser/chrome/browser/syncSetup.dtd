@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; সংস্থাপন">
 
 <!-- First page of the wizard -->
@@ -31,16 +35,16 @@
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "মই  সেৱাৰ চুক্তিসমূহ">
-<!ENTITY setup.tosAgree1.accesskey  "আৰু">
-<!ENTITY setup.tosLink.label        "গোপনীয়া নীতি">
-<!ENTITY setup.tosAgree2.label      "মানি লৈছো">
-<!ENTITY setup.ppLink.label         "a">
+<!ENTITY setup.tosAgree1.label      "মই  মানি লৈছো">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "সেৱাৰ চুক্তিসমূহ">
+<!ENTITY setup.tosAgree2.label      "আৰু">
+<!ENTITY setup.ppLink.label         "গোপনীয়তা নীতি">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; -এ আপোনাৰ গোপনীয়তাৰ বিষয়ে চিন্তা কৰে">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; এ আপোনাৰ গোপনীয়তাৰ বিষয়ে চিন্তা কৰে">
 <!ENTITY setup.newRecoveryKeyPage.description.label "আপোনাৰ সম্পূৰ্ণ গোপনীয়তা সুনিশ্চিত কৰিবলে, আপোনাৰ সকলো তথ্য আপল'ড কৰাৰ আগত ইনক্ৰিপ্ট কৰা হয়। আপোনাৰ তথ্য ডিক্ৰিপ্ট কৰিবলে প্ৰয়োজনীয় উদ্ধাৰ চাবি আপল'ড কৰা নহয়।">
 <!ENTITY recoveryKeyEntry.label        "আপোনাৰ উদ্ধাৰ চাবি">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
@@ -67,7 +71,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "চাইন ইন কৰক">
-<!ENTITY existingRecoveryKey.description "আপুনি আপোনাৰ উদ্ধাৰ চাবিৰ এটা কপি আপোনাৰ অন্য ডিভাইচত &syncBrand.shortName.label; বিকল্পসমূহত গৈ, আৰু &#x0022;Manage একাওন্ট&#x0022;  -ৰ অন্তৰ্গত &#x0022;My উদ্ধাৰ চাবি&#x0022; নিৰ্বাচন কৰি পাব পাৰে।">
+<!ENTITY existingRecoveryKey.description "আপুনি আপোনাৰ উদ্ধাৰ চাবিৰ এটা কপি আপোনাৰ অন্য ডিভাইচত &syncBrand.shortName.label; বিকল্পসমূহত গৈ, আৰু &#x0022;Manage একাওন্ট&#x0022;  ৰ অন্তৰ্গত &#x0022;My উদ্ধাৰ চাবি&#x0022; নিৰ্বাচন কৰি পাব পাৰে।">
 <!ENTITY verifying.label              "সতা সত্য নিৰূপণ কৰা হৈ আছে…">
 <!ENTITY resetPassword.label          "পাছৱাৰ্ড পুনৰ সংহতি কৰক">
 <!ENTITY resetSyncKey.label           "মই মোৰ অন্য ডিভাইচ হেৰাই পেলাইছো">
@@ -98,9 +102,9 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "সুনিশ্চিত কৰক">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; -এ এতিয়া এই কমপিউটাৰৰ সকলো ব্ৰাউছাৰ তথ্য আপোনাৰ সংমিহলি একাওন্টৰ লগত একত্ৰিকৰণ কৰিব।">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; এ এতিয়া এই কমপিউটাৰৰ সকলো ব্ৰাউছাৰ তথ্য আপোনাৰ সংমিহলি একাওন্টৰ লগত একত্ৰিকৰণ কৰিব।">
 <!ENTITY confirm.client2.label         "সতৰ্কবাৰ্তা: এই কমপিউটাৰত থকা নিম্নলিখিত &brandShortName;তথ্য মচি দিয়া হব:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; -এ আপোনাৰ &syncBrand.fullName.label; তথ্য এই কমপিউটাৰত কপি কৰিব।">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; এ আপোনাৰ &syncBrand.fullName.label; তথ্য এই কমপিউটাৰত কপি কৰিব।">
 <!ENTITY confirm.server2.label         "সতৰ্কবাৰ্তা: নিম্নলিখিত ডিভাইচসমূহ আপোনাৰ স্থানীয় তথ্যৰে পুনৰ লিখিত হব:">
 
 <!-- New & Existing Account: Setup Complete -->
