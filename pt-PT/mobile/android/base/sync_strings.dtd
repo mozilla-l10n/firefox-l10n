@@ -86,8 +86,7 @@
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label 'Enviar separador para os dispositivos'>
 <!ENTITY sync.button.send.label 'Enviar'>
-<!ENTITY sync.button.setup.label 'Configurar Sync'>
-<!ENTITY sync.button.continue.browsing.label 'Continuar navegação'>
-<!ENTITY sync.title.redirect.to.setup.label 'Configurar Sync para enviar separadores'>
-<!ENTITY sync.text.redirect.to.setup.label 'Configurar Firefox Sync no seu dispositivo para enviar para outros.'>
+<!ENTITY sync.button.set.up.sync.label 'Configurar o &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar o &syncBrand.shortName.label; para enviar separadores'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar o &syncBrand.fullName.label; no seu dispositivo para enviar separadores para outros dispositivos.'>
 <!ENTITY sync.text.tab.sent.label 'O seu separador foi enviado!'>
