@@ -60,6 +60,7 @@
 <!ENTITY pref_category_general "Geral">
 <!ENTITY pref_category_privacy "Privacidade &amp; Segurança">
 <!ENTITY pref_category_content "Conteúdo">
+<!ENTITY pref_category_importexport "Importar &amp; Exportar">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_do_not_track "Dizer aos sítios para não me seguir">
 <!ENTITY pref_telemetry "Enviar dados do desempenho">
@@ -85,6 +86,7 @@
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
+<!ENTITY pref_import_android "Importar do Android">
 
 <!ENTITY quit "Desistir">
 
@@ -96,6 +98,7 @@
 <!ENTITY share_title "Partilhar através">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Procurar na página">
+<!ENTITY desktop_mode "Pedir sítio do Desktop">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -171,3 +174,12 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é gerido por">
+
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "A importar marcadores e histórico
+                                      do Android">
+<!ENTITY bookmarkhistory_import_bookmarks "A importar marcadores
+                                           do Android">
+<!ENTITY bookmarkhistory_import_history "A importar histórico
+                                         do Android">
+<!ENTITY bookmarkhistory_import_wait "Por favor, aguarde...">
