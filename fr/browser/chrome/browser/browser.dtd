@@ -237,7 +237,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webConsoleButton.label "Console Web">
 <!ENTITY inspectorButton.label "Inspecteur">
-<!ENTITY scriptsButton.label "Scripts">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copier innerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "C">
