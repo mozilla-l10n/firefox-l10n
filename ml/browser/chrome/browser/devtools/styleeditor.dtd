@@ -32,7 +32,7 @@
 
 <!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item
      when the stylesheet uses the scoped attribute on the <style> element. -->
-<!ENTITY scoped.label               "Scoped.">
+<!ENTITY scoped.label               "പരിധിയിലുള്ളതു്.">
 
 <!ENTITY editorTextbox.placeholder  "ഇവിടെ സിഎസ്എസ് ടൈപ്പ് ചെയ്യുക.">
 

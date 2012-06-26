@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (indicator.tooltiptext):
      Tooltip for the indicator that displays the progress of ongoing downloads.
      -->
-<!ENTITY indicator.tooltiptext            "Downloads">
+<!ENTITY indicator.tooltiptext            "ഡൌണ്‍ലോഡുകള്‍">
 
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
