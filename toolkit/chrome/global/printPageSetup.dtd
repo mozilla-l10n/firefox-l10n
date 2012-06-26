@@ -1,31 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "পৃষ্ঠাৰ ">
+<!ENTITY printSetup.title    "পৃষ্ঠা সংস্থাপন ">
 
-<!ENTITY basic.tab           "আকৃতি দিয়াৰ &amp; বিকল্পসমূহ">
+<!ENTITY basic.tab           "ফৰমেট &amp; বিকল্পসমূহ">
 
-<!ENTITY formatGroup.label   "আকৃতি">
+<!ENTITY formatGroup.label   "ফৰমেট">
 
-<!ENTITY orientation.label   "দিক্‌বিন্যাস:">
+<!ENTITY orientation.label   "দিশনিৰ্ণয়:">
+<!ENTITY portrait.label      "পট্ৰেইট">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "লেণ্ডস্কেইপ">
+<!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label         "মাপ:">
+<!ENTITY scale.label         "স্কেইল:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "পৃষ্ঠাৰ বহলত খাপ খুৱাবলৈ সৰু কৰক">
+<!ENTITY shrinkToFit.label   "পৃষ্ঠাৰ প্ৰস্থত খাপ খুৱাবলৈ সৰু কৰক">
+<!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "বিকল্পসমূহ">
 
-<!ENTITY printBG.label       "পৃষ্ঠভূমি মূদ্ৰণ কৰক(ৰং &amp; প্ৰতিমূৰ্ত্তি)">
+<!ENTITY printBG.label       "পটভূমি প্ৰিন্ট কৰক(ৰং &amp; ছবি)">
+<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "মাৰ্জিন &amp; হেডাৰ/ফুটাৰ">
+<!ENTITY advanced.tab        "প্ৰান্ত &amp; হেডাৰ/ফুটাৰ">
 
-<!ENTITY marginGroup.label   "মাৰ্জিন (#1)">
+<!ENTITY marginGroup.label   "প্ৰান্ত (#1)">
 <!ENTITY marginUnits.inches  "ইঞ্চি">
 <!ENTITY marginUnits.metric  "মিলিমিটাৰ">
-<!ENTITY marginTop.label     "ওপৰৰ:">
-<!ENTITY marginBottom.label  "তলৰ:">
+<!ENTITY marginTop.label     "ওপৰ:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "তল:">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "বাওঁ:">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "সোঁ:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "হেডাৰ &amp; ফুটাৰ">
 
@@ -39,30 +54,13 @@
 <!ENTITY footerCenter.tip    "মাজৰ ফুটাৰ">
 <!ENTITY footerRight.tip     "সোঁফালৰ ফুটাৰ">
 
-<!ENTITY hfTitle             "শিৰোনাম">
+<!ENTITY hfTitle             "শীৰ্ষক">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "দিন/সময়">
 <!ENTITY hfPage              "পৃষ্ঠা #">
-<!ENTITY hfPageAndTotal      "পৃষ্ঠা # # ৰ">
+<!ENTITY hfPageAndTotal      "পৃষ্ঠা # ৰ #">
 <!ENTITY hfBlank             "--blank--">
-<!ENTITY hfCustom            "নিজৰ পছন্দৰ...">
+<!ENTITY hfCustom            "স্বনিৰ্বাচিত...">
 
-<!ENTITY customPrompt.title  "নিজৰ পছন্দৰ...">
-<!ENTITY customPrompt.prompt "আপোনাৰ নিজৰ পছন্দৰ হেডাৰ/ফুটাৰ আখৰ দিয়ক">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY shrinkToFit.accesskey "W">
-<!ENTITY portrait.label      "প'ৰ্ট্ৰেইট">
-<!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginTop.accesskey "T">
-<!ENTITY portrait.accesskey  "P">
-<!ENTITY marginRight.accesskey "R">
-<!ENTITY landscape.label     "লেণ্ডস্কেপ">
-<!ENTITY landscape.accesskey "L">
-<!ENTITY marginLeft.accesskey "L">
-<!ENTITY printBG.accesskey   "B">
-<!ENTITY scale.accesskey     "S">
+<!ENTITY customPrompt.title  "স্বনিৰ্বাচিত...">
+<!ENTITY customPrompt.prompt "আপোনাৰ স্বনিৰ্বাচিত হেডাৰ/ফুটাৰ লিখনী সুমুৱাওক">

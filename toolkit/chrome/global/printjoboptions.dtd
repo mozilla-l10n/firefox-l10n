@@ -1,47 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "মূদ্ৰকৰ গুণ">
+<!ENTITY printJobOptions.title "প্ৰিন্টাৰৰ বৈশিষ্ট">
 
 <!ENTITY paperInput.label "কাগজৰ আকাৰ:">
+<!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex ধৰণ:">
+<!ENTITY plexInput.label "Plex অৱস্থা:">
+<!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "বিভাজন/গুণগত বৈশিষ্ট:">
+<!ENTITY resolutionInput.label "বিভেদন/বৈশিষ্ট:">
+<!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "মূদ্ৰণৰ আদেশ:">
+<!ENTITY cmdInput.label "প্ৰিন্ট কমান্ড:">
+<!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "কাৰ্য্যৰ শিৰোনাম:">
+<!ENTITY jobTitleInput.label "কাৰ্য্যৰ শীৰ্ষক:">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "ৰং:">
-<!ENTITY grayRadio.label "GrayScale">
-<!ENTITY colorRadio.label "ৰং">
-
-<!ENTITY colorspaceInput.label "Colorspace:">
-
-<!ENTITY fontsGroup.label "আখৰ:">
-<!ENTITY downloadFonts.label "মূদ্ৰকলৈ আখৰ ডাউন্‌লোড কৰোঁ ?">
-
-<!ENTITY edgeMarginInput.label "কাগজৰ কাষৰ পৰা মাৰ্জিনলৈ ৰিক্ত স্থান">
-<!ENTITY topInput.label "ওপৰ:">
-<!ENTITY bottomInput.label "তল:">
-<!ENTITY leftInput.label "বাওঁ:">
-<!ENTITY rightInput.label "সোঁ:">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY downloadFonts.accesskey "D">
-<!ENTITY colorRadio.accesskey "C">
-<!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.accesskey "B">
-<!ENTITY cmdInput.accesskey "o">
-<!ENTITY paperInput.accesskey "P">
-<!ENTITY plexInput.accesskey "m">
+<!ENTITY grayRadio.label "ধূসৰ">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY colorRadio.label "ৰং">
+<!ENTITY colorRadio.accesskey "C">
+
+<!ENTITY colorspaceInput.label "ৰঙস্থান:">
 <!ENTITY colorspaceInput.accesskey "s">
-<!ENTITY rightInput.accesskey "R">
-<!ENTITY jobTitleInput.accesskey "J">
+
+<!ENTITY fontsGroup.label "ফন্ট:">
+<!ENTITY downloadFonts.label "প্ৰিন্টাৰলৈ ফন্ট ডাউনল'ড কৰক">
+<!ENTITY downloadFonts.accesskey "D">
+
+<!ENTITY edgeMarginInput.label "কাগজৰ কাষৰ পৰা প্ৰান্তলৈ ৰিক্ত স্থান">
+<!ENTITY topInput.label "ওপৰ:">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "তল:">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY leftInput.label "বাওঁ:">
 <!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.label "সোঁ:">
+<!ENTITY rightInput.accesskey "R">

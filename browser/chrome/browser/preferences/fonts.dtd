@@ -1,9 +1,13 @@
-<!ENTITY  fontsDialog.title                       "আখৰ">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsDialog.title                       "ফন্ট">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "-ৰ বাবে আখৰ:">
+<!ENTITY  language.label                          "ৰ বাবে ফন্ট:">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "আকাৰ:">
@@ -31,8 +35,8 @@
 <!ENTITY  font.langGroup.baltic                   "বাল্টিক">
 <!ENTITY  font.langGroup.el                       "গ্ৰীক">
 <!ENTITY  font.langGroup.turkish                  "টুৰস্কীয়">
-<!ENTITY  font.langGroup.unicode                  "অন্য ভাষা">
-<!ENTITY  font.langGroup.user-def                 "ব্যৱহাৰকৰোঁতাই সংজ্ঞা দিয়া">
+<!ENTITY  font.langGroup.unicode                  "অন্য ভাষাসমূহ">
+<!ENTITY  font.langGroup.user-def                 "ব্যৱহাৰকাৰী দ্বাৰা বিৱৰিত">
 <!ENTITY  font.langGroup.thai                     "থাই">
 <!ENTITY  font.langGroup.hebrew                   "হিব্ৰিউ">
 <!ENTITY  font.langGroup.arabic                   "আৰবীয়">
@@ -53,7 +57,7 @@
 <!ENTITY  font.langGroup.sinhala                  "সিংহালা">
 <!ENTITY  font.langGroup.tibetan                  "তিব্বতীয়">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "সৰ্বনিম্ন আখৰৰ আকাৰ:">
+<!ENTITY minSize.label                            "সৰ্বনিম্ন ফন্টৰ আকাৰ:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "একো নাই">
 
@@ -61,9 +65,9 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "মই কৰা ওপৰৰ নিৰ্ব্বাচনৰ সলনি, পৃষ্ঠাসমূহক নিজৰ আকৰ নিৰ্ব্বাচন কৰাৰ আজ্ঞা দিয়ক">
+<!ENTITY  allowPagesToUse.label                   "মই কৰা ওপৰৰ নিৰ্বাচনৰ সলনি, পৃষ্ঠাসমূহক নিজৰ আকৰ নিৰ্বাচন কৰাৰ আজ্ঞা দিয়ক">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Charset.grouplabel         "আখৰক গুপুত কৰা">
-<!ENTITY languages.customize.DefaultCharset.label       "অবিকল্পিতভাবে আখকৰ গুপুত কৰা:">
+<!ENTITY languages.customize.Charset.grouplabel         "আখৰ এনক'ডিং">
+<!ENTITY languages.customize.DefaultCharset.label       "অবিকল্পিত আখৰ এনক'ডিং:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">

@@ -10,9 +10,9 @@
 
 <!ENTITY useCursorNavigation.label       "পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "মই লিখাৰ সময়তে লিপি বিচাৰিব">
+<!ENTITY searchStartTyping.label         "মই লিখাৰ সময়তে লিখনী বিচাৰিব">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "ৱেব ছাইটে পৃষ্ঠাক পুনঃ দিশ দিয়াৰ বা পুনঃ তোলাৰ চেষ্টা কৰিলে মোক সাৱধান কৰিব">
+<!ENTITY blockAutoRefresh.label          "ৱেব ছাইটে পৃষ্ঠাক পুনৰ নিৰ্দেশ বা পুনৰ ল'ড কৰাৰ চেষ্টা কৰিলে মোক সাৱধান কৰিব">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "ব্ৰাউছ কৰক">
@@ -22,7 +22,7 @@
 <!ENTITY useSmoothScrolling.label        "মিহিকৈ স্ক্ৰ'ল কৰক">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডৱেৰ ত্বৰণ ব্যৱহাৰ কৰক">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "মই লিখাৰ সময়তে বানান পৰীক্ষা কৰক">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -81,12 +81,12 @@
 <!ENTITY updateHistory.label             "উন্নয়নৰ ইতিহাস দেখুৱাওক">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমী সেৱা ব্যৱহাৰ কৰক">
+<!ENTITY useService.label                "আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "স্বচালিতভাৱে আপডেইট কৰক:">
-<!ENTITY enableSearchUpdate.label        "বিচৰাৰ কলঘৰ">
-<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY enableSearchUpdate.label        "সন্ধান ইঞ্জীনসমূহ">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
 <!ENTITY offlineNotify.label             "অফ-লাইন ব্যৱহাৰৰ বাবে ৱেব-ছাইটে তথ্য সংৰক্ষণ কৰিব বিচাৰিলে মোক ক'ব">
 <!ENTITY offlineNotify.accesskey         "T">

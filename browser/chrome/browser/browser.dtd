@@ -214,9 +214,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "উপাদান নীৰিক্ষণ কৰক">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveUI.label            "প্ৰতিক্ৰিয়া অৱস্থা">
-<!ENTITY responsiveUI.accesskey        "R">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "প্ৰতিক্ৰিয়া ৰূপাঙ্কণ দৰ্শন">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
