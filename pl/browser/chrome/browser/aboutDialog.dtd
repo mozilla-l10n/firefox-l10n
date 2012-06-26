@@ -17,7 +17,7 @@
 <!ENTITY community.start2           "Program &brandShortName; został opracowany przez ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "organizację &vendorShortName;">
-<!ENTITY community.middle2          ", która jest">
+<!ENTITY community.middle2          ", która jest ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalną społecznością">
 <!ENTITY community.end3             ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
