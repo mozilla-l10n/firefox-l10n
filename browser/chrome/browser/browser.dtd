@@ -180,7 +180,6 @@
 <!ENTITY devToolbar.commandkey "v">
 <!ENTITY webConsoleButton.label "Веб-консоль">
 <!ENTITY inspectorButton.label "Инспектор">
-<!ENTITY scriptsButton.label "Сценарии">
 <!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "п">
 <!ENTITY inspectorHTMLCopyOuter.label "Копировать внешний HTML">
