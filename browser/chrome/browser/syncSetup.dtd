@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;-opsteller">
 <!-- First page of the wizard -->
 
@@ -40,7 +44,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; is besorg oor jou privaatheid">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; is besorg oor u privaatheid">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Om algehele privaatheid te verseker word al u data geënkripteer voor dit opgelaai word. Die herwinningsleutel wat nodig is om die data mee te dekripteer, word nie opgelaai nie.">
 <!ENTITY recoveryKeyEntry.label        "U herwinningsleutel">
 <!ENTITY recoveryKeyEntry.accesskey    "h">

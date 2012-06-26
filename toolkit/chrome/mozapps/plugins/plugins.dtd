@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "'n Inprop is nodig om hierdie inhoud te vertoon.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Raak hier om die inprop te aktiveer.">
-<!ENTITY clickToPlayPlugins                                  "Raak hier om inproppe te aktiveer.">
+<!ENTITY clickToPlayPlugin                                   "Raak hier om die inprop te aktiveer.">
 <!ENTITY disabledPlugin                                      "Hierdie inprop is gedeaktiveer.">
 <!ENTITY blockedPlugin.label                                 "Hierdie inprop is vir u beskerming geblokkeer.">
 
