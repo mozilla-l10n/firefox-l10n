@@ -6,25 +6,25 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Csatlakozás a &syncBrand.shortName.label;hez'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
+<!ENTITY sync.title.adddevice.label 'Egy &syncBrand.fullName.label; fiók készítése'>
 <!ENTITY sync.title.pair.label 'Eszköz párosítása'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Új eszközének aktiválásához válassza az eszközön a „Szinkronizálás beállítása” lehetőséget.'>
+<!ENTITY sync.subtitle.header.label 'Adja meg ezt a kódot a számítógépén'>
+<!ENTITY sync.subtitle.connectlocation.label 'Válassza az „&sync.title.pair.label;” lehetőséget az asztali Firefox beállításainak &syncBrand.shortName.label; szakaszában.'>
+<!ENTITY sync.subtitle.pair.label 'Az aktiváláshoz válassza a másik eszközön az „Eszköz párosítása” lehetőséget.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Hogy kell?'>
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup...'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me...'>
+<!ENTITY sync.link.advancedsetup.label 'Speciális beállítások...'>
+<!ENTITY sync.link.nodevice.label 'Nincs nálam az eszköz...'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Várakozás a másik eszközre...'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
+<!ENTITY sync.subtitle.account.label 'Adja meg a &syncBrand.fullName.label;-fiók adatait'>
 <!ENTITY sync.input.username.label 'Postafiók neve'>
 <!ENTITY sync.input.password.label 'Jelszó'>
 <!ENTITY sync.input.key.label 'Helyreállítókulcs'>
@@ -32,24 +32,24 @@
 <!ENTITY sync.input.server.label 'Kiszolgáló URL-je'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.title.fail.label 'Nem állítható be a &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label 'A &syncBrand.fullName.label; nem tud a kiszolgálóhoz csatlakozni. Megpróbálja újra?'>
 <!ENTITY sync.button.tryagain.label 'Próbálja újra'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!ENTITY sync.button.manual.label 'Kézi beállítás'>
+<!ENTITY sync.subtitle.nointernet.label 'Nincs internetkapcsolat.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'A beállítás kész'>
-<!ENTITY sync.subtitle.success.label 'Az adatai a háttérben töltődnek le. You can go to Settings to manage your account.'>
+<!ENTITY sync.subtitle.success.label 'Az adatai a háttérben töltődnek le. A Beállítások alatt kezelheti a fiókját.'>
 <!ENTITY sync.settings.label 'Beállítások'>
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.subtitle.manage.label 'A &syncBrand.fullName.label;-fiókja már be van állítva. A Beállítások alatt kezelheti a fiókját.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Próbálja meg újra.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Beállítások'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.summary.pair.label 'Másik eszköz csatolása a &syncBrand.shortName.label;-fiókjához'>
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Mégse'>
@@ -62,11 +62,14 @@
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Könyvjelzők menü'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
+<!ENTITY bookmarks.folder.tags.label 'Címkék'>
+<!ENTITY bookmarks.folder.toolbar.label 'Könyvjelző eszköztár'>
 <!ENTITY bookmarks.folder.unfiled.label 'Nem rendezett könyvjelzők'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
+<!ENTITY bookmarks.folder.desktop.label 'Asztali könyvjelzők'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobil könyvjelzők'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label 'Csak egy &syncBrand.fullName.label;-fiók támogatott.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect 'A helyreállítási kulcs helytelen. Próbálja meg újra.'>

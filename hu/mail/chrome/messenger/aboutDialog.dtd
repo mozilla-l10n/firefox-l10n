@@ -3,7 +3,7 @@
 <!ENTITY community.start2           "A &brandShortName;ot a ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          " tervezte, egy ">
+<!ENTITY community.middle2          "tervezte, egy ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "nemzetközi közösség">
 <!ENTITY community.end2             " amely az internet jobbá tételén munkálkodik. Hiszünk abban, hogy az internetnek nyíltnak, nyilvánosnak és mindenki számára korlátozások nélkül elérhetőnek kell lennie.">
@@ -36,7 +36,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "A frissítés sikertelen.">
+<!ENTITY update.failed.start        "A frissítés sikertelen. ">
 <!ENTITY update.failed.linkText     "Töltse le a legújabb verziót">
 <!ENTITY update.failed.end          "">
 
@@ -60,6 +60,6 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Jelenleg a(z) ">
-<!ENTITY channel.description.end    " frissítési csatornát használja.">
+<!ENTITY channel.description.end    " frissítési csatornát használja. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

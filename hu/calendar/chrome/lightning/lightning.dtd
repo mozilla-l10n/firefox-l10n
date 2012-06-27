@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "E">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Események megjelenítése a Ma panelen">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Feladatok megjelenítése a Ma panelen és a Feladat módban">
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->

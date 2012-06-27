@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Mai események">
 <!ENTITY calendar.events.filter.future.label "Az összes jövőbeli esemény">
 <!ENTITY calendar.events.filter.current.label "A most kiválasztott nap">
-<!ENTITY calender.events.filter.currentview.label "Események az Aktuális nézetben">
+<!ENTITY calendar.events.filter.currentview.label "Események az Aktuális nézetben">
 <!ENTITY calendar.events.filter.next7Days.label "Események a következő 7 napban">
 <!ENTITY calendar.events.filter.next14Days.label "Események a következő 14 napban">
 <!ENTITY calendar.events.filter.next31Days.label "Események a következő 31 napban">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "n">
 <!ENTITY calendar.context.postpone.1week.label      "1 hét">
 <!ENTITY calendar.context.postpone.1week.accesskey  "h">
+
+<!ENTITY calendar.copylink.label       "Hivatkozás címének másolása">
+<!ENTITY calendar.copylink.accesskey   "H">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
