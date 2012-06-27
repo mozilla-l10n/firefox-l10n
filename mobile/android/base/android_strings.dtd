@@ -60,6 +60,7 @@
 <!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "Privacidad y seguridad">
 <!ENTITY pref_category_content "Contenido">
+<!ENTITY pref_category_importexport "Importar y exportar">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_do_not_track "Decirle a los sitios que no me rastreen">
 <!ENTITY pref_telemetry "Enviar datos de rendimiento">
@@ -85,6 +86,7 @@
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
+<!ENTITY pref_import_android "Importar desde Android">
 
 <!ENTITY quit "Salir">
 
@@ -96,6 +98,7 @@
 <!ENTITY share_title "Compartir vía">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
+<!ENTITY desktop_mode "Pedir versión de escritorio">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -128,7 +131,7 @@
 <!ENTITY site_settings_clear        "Borrar">
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
-<!ENTITY add_to_reading_list "Agregar a la lista de lectura">
+<!ENTITY reading_list "Lista de lectura">
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
 <!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
@@ -172,3 +175,11 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ejecutado por">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importando marcadores e historial
+                                      desde Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores
+                                           desde Android">
+<!ENTITY bookmarkhistory_import_history "Importando historial
+                                         desde Android">
+<!ENTITY bookmarkhistory_import_wait "Esperá...">
