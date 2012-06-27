@@ -77,7 +77,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "حمل و ثبت التحديثات تلقائياً">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "ي">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "حزنى إذا كان هذا التحديث سيعطل إحدى إضافاتي">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey ص">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "ص">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "إعرص تاريخ التحديثات…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "ع">
 

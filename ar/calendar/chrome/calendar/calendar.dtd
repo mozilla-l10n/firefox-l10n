@@ -112,7 +112,7 @@
 <!ENTITY calendar.newtask.button.label          "مهمة جديدة" >
 <!ENTITY calendar.print.button.label            "طباعة" >
 
-<!ENTITY calendar.export.calendar                تصدير تقويم…" >
+<!ENTITY calendar.export.calendar                "تصدير تقويم…" >
 
 <!ENTITY calendar.day.button.label              "يوم" >
 <!ENTITY calendar.week.button.label             "أسبوع" >
