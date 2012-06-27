@@ -34,22 +34,22 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title             "ÅäÔìÁ ÊÞæíã ÌÏíÏ" >
-<!ENTITY wizard.label             " ÅäÔìÁ ÊÞæíã ÌÏíÏ " >
-<!ENTITY wizard.description       "ÍÏÏ ãßÇä ÇáÊÞæíã" >
+<!ENTITY wizard.title             "Ø¥Ù†Ø´Ù‰Ø¡ ØªÙ‚ÙˆÙŠÙ… Ø¬Ø¯ÙŠØ¯" >
+<!ENTITY wizard.label             " Ø¥Ù†Ø´Ù‰Ø¡ ØªÙ‚ÙˆÙŠÙ… Ø¬Ø¯ÙŠØ¯ " >
+<!ENTITY wizard.description       "Ø­Ø¯Ø¯ Ù…ÙƒØ§Ù† Ø§Ù„ØªÙ‚ÙˆÙŠÙ…" >
 
-<!ENTITY initialpage.description    "íãßä ÊÎÒíä ÇáÊÞæíã Úáì ÇáßãÈíæÊÑ Ãæ Úáì ÇáÎÇÏã ááãÔÇÑßÉ ãÚ ÃÕÏÞÇÁß æ ÒãáÇÆß Ýì ÇáÚãá." >
-<!ENTITY initialpage.computer.label  "Úáì ÇáßãÈæÊÑ">
-<!ENTITY initialpage.network.label  "Úáì ÇáÔÈßÉ">
+<!ENTITY initialpage.description    "ÙŠÙ…ÙƒÙ† ØªØ®Ø²ÙŠÙ† Ø§Ù„ØªÙ‚ÙˆÙŠÙ… Ø¹Ù„Ù‰ Ø§Ù„ÙƒÙ…Ø¨ÙŠÙˆØªØ± Ø£Ùˆ Ø¹Ù„Ù‰ Ø§Ù„Ø®Ø§Ø¯Ù… Ù„Ù„Ù…Ø´Ø§Ø±ÙƒØ© Ù…Ø¹ Ø£ØµØ¯Ù‚Ø§Ø¡Ùƒ Ùˆ Ø²Ù…Ù„Ø§Ø¦Ùƒ ÙÙ‰ Ø§Ù„Ø¹Ù…Ù„." >
+<!ENTITY initialpage.computer.label  "Ø¹Ù„Ù‰ Ø§Ù„ÙƒÙ…Ø¨ÙˆØªØ±">
+<!ENTITY initialpage.network.label  "Ø¹Ù„Ù‰ Ø§Ù„Ø´Ø¨ÙƒØ©">
 
-<!ENTITY locationpage.description         " æÝÑ ÇáãÚáæãÇÊ Íæá ãÇ åæ ãØáæÈ ááæÕæá Åáì ÇáÊÞæíã ÇáÎÇÕ Èß Úä ÈÚÏ " >
-<!ENTITY locationpage.login.description   "ÅÎÊíÇÑí: ÅÏÎá ÅÓã ÇáãÓÊÎÏã æ ßáãÉ ÇáãÑæÑ" >
-<!ENTITY locationpage.username.label      "ÅÓã ÇáãÓÊÎÏã: " >
-<!ENTITY locationpage.password.label      "ßáãÉ ÇáãÑæÑ: " >
+<!ENTITY locationpage.description         " ÙˆÙØ± Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø­ÙˆÙ„ Ù…Ø§ Ù‡Ùˆ Ù…Ø·Ù„ÙˆØ¨ Ù„Ù„ÙˆØµÙˆÙ„ Ø¥Ù„Ù‰ Ø§Ù„ØªÙ‚ÙˆÙŠÙ… Ø§Ù„Ø®Ø§Øµ Ø¨Ùƒ Ø¹Ù† Ø¨Ø¹Ø¯ " >
+<!ENTITY locationpage.login.description   "Ø¥Ø®ØªÙŠØ§Ø±ÙŠ: Ø¥Ø¯Ø®Ù„ Ø¥Ø³Ù… Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ùˆ ÙƒÙ„Ù…Ø© Ø§Ù„Ù…Ø±ÙˆØ±" >
+<!ENTITY locationpage.username.label      "Ø¥Ø³Ù… Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…: " >
+<!ENTITY locationpage.password.label      "ÙƒÙ„Ù…Ø© Ø§Ù„Ù…Ø±ÙˆØ±: " >
 
-<!ENTITY custompage.shortdescription  " ÊÎÕíÕ ÇáÊÞæíã" >
-<!ENTITY custompage.longdescription   " íãßäß ÅÚØÇÁ ÊÞæíãß áÞÈÇ æÊáæíä ááÃÍÏÇË ãä åÐÇ ÇáÊÞæíã." >
+<!ENTITY custompage.shortdescription  " ØªØ®ØµÙŠØµ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…" >
+<!ENTITY custompage.longdescription   " ÙŠÙ…ÙƒÙ†Ùƒ Ø¥Ø¹Ø·Ø§Ø¡ ØªÙ‚ÙˆÙŠÙ…Ùƒ Ù„Ù‚Ø¨Ø§ ÙˆØªÙ„ÙˆÙŠÙ† Ù„Ù„Ø£Ø­Ø¯Ø§Ø« Ù…Ù† Ù‡Ø°Ø§ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…." >
 
-<!ENTITY finishpage.shortdescription  "ÇõäÔìÁ ÇáÊÞæÈã" >
-<!ENTITY finishpage.longdescription   "Êã ÅäÔÇÁ ÇáÊÞæíã." >
+<!ENTITY finishpage.shortdescription  "Ø§ÙÙ†Ø´Ù‰Ø¡ Ø§Ù„ØªÙ‚ÙˆØ¨Ù…" >
+<!ENTITY finishpage.longdescription   "ØªÙ… Ø¥Ù†Ø´Ø§Ø¡ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…." >
 

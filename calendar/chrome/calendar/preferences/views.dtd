@@ -45,32 +45,32 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.calendar.view.allview.caption "ÚÇã">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "ÚÑæÖ íæã æ ÃÓÈæÚ">
-<!ENTITY pref.calendar.view.multiweekview.caption "ÚÑÖ ÃßÞÑ ãä ÅÓÈæÚ">
-<!ENTITY pref.calendar.view.workweek.caption "ÃÓÈæÛ ÇáÚãá">
+<!ENTITY pref.calendar.view.allview.caption "Ø¹Ø§Ù…">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Ø¹Ø±ÙˆØ¶ ÙŠÙˆÙ… Ùˆ Ø£Ø³Ø¨ÙˆØ¹">
+<!ENTITY pref.calendar.view.multiweekview.caption "Ø¹Ø±Ø¶ Ø£ÙƒÙ‚Ø± Ù…Ù† Ø¥Ø³Ø¨ÙˆØ¹">
+<!ENTITY pref.calendar.view.workweek.caption "Ø£Ø³Ø¨ÙˆØº Ø§Ù„Ø¹Ù…Ù„">
 
-<!ENTITY pref.weekstarts.label "ÅÈÏÃ ÇáÇÓÈæÚ Ýì: ">
-<!ENTITY pref.weekstarts.accesskey "Ý">
-<!ENTITY pref.daysoff.label "ÊÖãíä åÐå ÇáÃíÇã Ýì ÃÓÈæÚ ÇáÚãá: ">
+<!ENTITY pref.weekstarts.label "Ø¥Ø¨Ø¯Ø£ Ø§Ù„Ø§Ø³Ø¨ÙˆØ¹ ÙÙ‰: ">
+<!ENTITY pref.weekstarts.accesskey "Ù">
+<!ENTITY pref.daysoff.label "ØªØ¶Ù…ÙŠÙ† Ù‡Ø°Ù‡ Ø§Ù„Ø£ÙŠØ§Ù… ÙÙ‰ Ø£Ø³Ø¨ÙˆØ¹ Ø§Ù„Ø¹Ù…Ù„: ">
 
-<!ENTITY pref.calendar.view.daystart.label "ÅÈÏÃ Çáíæã ãä: ">
-<!ENTITY pref.calendar.view.daystart.accesskey "í">
-<!ENTITY pref.calendar.view.dayend.label "Åäåì Çáíæã Ýì: ">
-<!ENTITY pref.calendar.view.dayend.accesskey "ã">
-<!ENTITY pref.calendar.view.visiblehours.label "ÚÑÖ: ">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "Ö">
-<!ENTITY pref.calendar.view.visiblehoursend.label " ÓÇÚÇÊ Ýí ßá ãÑÉ">
+<!ENTITY pref.calendar.view.daystart.label "Ø¥Ø¨Ø¯Ø£ Ø§Ù„ÙŠÙˆÙ… Ù…Ù†: ">
+<!ENTITY pref.calendar.view.daystart.accesskey "ÙŠ">
+<!ENTITY pref.calendar.view.dayend.label "Ø¥Ù†Ù‡Ù‰ Ø§Ù„ÙŠÙˆÙ… ÙÙ‰: ">
+<!ENTITY pref.calendar.view.dayend.accesskey "Ù…">
+<!ENTITY pref.calendar.view.visiblehours.label "Ø¹Ø±Ø¶: ">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "Ø¶">
+<!ENTITY pref.calendar.view.visiblehoursend.label " Ø³Ø§Ø¹Ø§Øª ÙÙŠ ÙƒÙ„ Ù…Ø±Ø©">
 
-<!ENTITY pref.numberofweeks.label "ÚÏÏ ÇáÃÓÇÈíÚ ááÚÑÖ (ÔÇãáÉ ááÃÓÇÈíÚ ÇáÓÇÈÞÉ): ">
-<!ENTITY pref.numberofweeks.accesskey "Ô">
-<!ENTITY pref.numberofpreviousweeks.label "ÚÑÖ ÇáÃÓÇÈíÚ ÇáÓÇÈÞÉ: ">
-<!ENTITY pref.numberofpreviousweeks.accesskey "Ó">
-<!ENTITY pref.numberofweeks.0 "ÈáÇ">
-<!ENTITY pref.numberofweeks.1 "ÃÓÈæÚ">
-<!ENTITY pref.numberofweeks.2 "ÃÓÈæÚíä">
-<!ENTITY pref.numberofweeks.3 "3 ÃÓÇÈíÚ">
-<!ENTITY pref.numberofweeks.4 "4 ÇÓÇÈíÚ">
-<!ENTITY pref.numberofweeks.5 "5 ÇÓÇÈíÚ">
-<!ENTITY pref.numberofweeks.6 "6 ÃÓÇÈíÚ">
+<!ENTITY pref.numberofweeks.label "Ø¹Ø¯Ø¯ Ø§Ù„Ø£Ø³Ø§Ø¨ÙŠØ¹ Ù„Ù„Ø¹Ø±Ø¶ (Ø´Ø§Ù…Ù„Ø© Ù„Ù„Ø£Ø³Ø§Ø¨ÙŠØ¹ Ø§Ù„Ø³Ø§Ø¨Ù‚Ø©): ">
+<!ENTITY pref.numberofweeks.accesskey "Ø´">
+<!ENTITY pref.numberofpreviousweeks.label "Ø¹Ø±Ø¶ Ø§Ù„Ø£Ø³Ø§Ø¨ÙŠØ¹ Ø§Ù„Ø³Ø§Ø¨Ù‚Ø©: ">
+<!ENTITY pref.numberofpreviousweeks.accesskey "Ø³">
+<!ENTITY pref.numberofweeks.0 "Ø¨Ù„Ø§">
+<!ENTITY pref.numberofweeks.1 "Ø£Ø³Ø¨ÙˆØ¹">
+<!ENTITY pref.numberofweeks.2 "Ø£Ø³Ø¨ÙˆØ¹ÙŠÙ†">
+<!ENTITY pref.numberofweeks.3 "3 Ø£Ø³Ø§Ø¨ÙŠØ¹">
+<!ENTITY pref.numberofweeks.4 "4 Ø§Ø³Ø§Ø¨ÙŠØ¹">
+<!ENTITY pref.numberofweeks.5 "5 Ø§Ø³Ø§Ø¨ÙŠØ¹">
+<!ENTITY pref.numberofweeks.6 "6 Ø£Ø³Ø§Ø¨ÙŠØ¹">
 

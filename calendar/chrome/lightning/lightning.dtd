@@ -50,76 +50,76 @@
 <!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "ÍÏËâ€¦">
-<!ENTITY lightning.menupopup.new.event.accesskey "Í">
-<!ENTITY lightning.menupopup.new.task.label     "ãåãÉâ€¦">
-<!ENTITY lightning.menupopup.new.task.accesskey "ã">
-<!ENTITY lightning.menupopup.new.calendar.label "ÊÞæíãâ€¦">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "Ê">
+<!ENTITY lightning.menupopup.new.event.label    "Ø­Ø¯Ø«â€¦">
+<!ENTITY lightning.menupopup.new.event.accesskey "Ø­">
+<!ENTITY lightning.menupopup.new.task.label     "Ù…Ù‡Ù…Ø©â€¦">
+<!ENTITY lightning.menupopup.new.task.accesskey "Ù…">
+<!ENTITY lightning.menupopup.new.calendar.label "ØªÙ‚ÙˆÙŠÙ…â€¦">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "Øª">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "ÅÝÊÍ">
-<!ENTITY lightning.menupopup.open.accesskey           "Ý">
-<!ENTITY lightning.menupopup.open.message.label       "ÅÍÝÙ ÇáÑÓÇáÉâ€¦">
-<!ENTITY lightning.menupopup.open.message.accesskey   "Ù">
-<!ENTITY lightning.menupopup.open.calendar.label      "ãáÝ ÊÞæíãìâ€¦">
-<!ENTITY lightning.menupopup.open.calendar.accesskey  "Þ">
+<!ENTITY lightning.menupopup.open.label               "Ø¥ÙØªØ­">
+<!ENTITY lightning.menupopup.open.accesskey           "Ù">
+<!ENTITY lightning.menupopup.open.message.label       "Ø¥Ø­ÙØ¸ Ø§Ù„Ø±Ø³Ø§Ù„Ø©â€¦">
+<!ENTITY lightning.menupopup.open.message.accesskey   "Ø¸">
+<!ENTITY lightning.menupopup.open.calendar.label      "Ù…Ù„Ù ØªÙ‚ÙˆÙŠÙ…Ù‰â€¦">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "Ù‚">
 
 <!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label            "ÊÞæíã">
-<!ENTITY lightning.menu.view.calendar.accesskey        "Ê">
-<!ENTITY lightning.menu.view.tasks.label               "ãåÇã">
-<!ENTITY lightning.menu.view.tasks.accesskey           "å">
+<!ENTITY lightning.menu.view.calendar.label            "ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY lightning.menu.view.calendar.accesskey        "Øª">
+<!ENTITY lightning.menu.view.tasks.label               "Ù…Ù‡Ø§Ù…">
+<!ENTITY lightning.menu.view.tasks.accesskey           "Ù‡">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "ÃÍÏÇË æ ãåÇã">
-<!ENTITY lightning.menu.eventtask.accesskey            "Ê">
+<!ENTITY lightning.menu.eventtask.label                "Ø£Ø­Ø¯Ø§Ø« Ùˆ Ù…Ù‡Ø§Ù…">
+<!ENTITY lightning.menu.eventtask.accesskey            "Øª">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "ÈÑíÏ">
-<!ENTITY lightning.toolbar.mail.accesskey     "Ñ">
-<!ENTITY lightning.toolbar.calendar.label     "ÊÞæíã">
-<!ENTITY lightning.toolbar.calendar.accesskey "æ">
-<!ENTITY lightning.toolbar.task.label         "ãåÇã">
-<!ENTITY lightning.toolbar.task.accesskey     "ã">
+<!ENTITY lightning.toolbar.mail.label         "Ø¨Ø±ÙŠØ¯">
+<!ENTITY lightning.toolbar.mail.accesskey     "Ø±">
+<!ENTITY lightning.toolbar.calendar.label     "ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY lightning.toolbar.calendar.accesskey "Ùˆ">
+<!ENTITY lightning.toolbar.task.label         "Ù…Ù‡Ø§Ù…">
+<!ENTITY lightning.toolbar.task.accesskey     "Ù…">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "ÍÏË">
-<!ENTITY lightning.toolbar.newtask.label      "ãåãÉ">
+<!ENTITY lightning.toolbar.newevent.label     "Ø­Ø¯Ø«">
+<!ENTITY lightning.toolbar.newtask.label      "Ù…Ù‡Ù…Ø©">
 
 <!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "íæã">
-<!ENTITY lightning.toolbar.day.accesskey             "í">
-<!ENTITY lightning.toolbar.week.label                "ÇÓÈæÚ">
-<!ENTITY lightning.toolbar.week.accesskey            "Ó">
-<!ENTITY lightning.toolbar.multiweek.label           "ÇßËÑ ãä ÇÓÈæÚ">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "Ë">
-<!ENTITY lightning.toolbar.month.label               "ÔåÑ">
-<!ENTITY lightning.toolbar.month.accesskey           "Ô">
+<!ENTITY lightning.toolbar.day.label                 "ÙŠÙˆÙ…">
+<!ENTITY lightning.toolbar.day.accesskey             "ÙŠ">
+<!ENTITY lightning.toolbar.week.label                "Ø§Ø³Ø¨ÙˆØ¹">
+<!ENTITY lightning.toolbar.week.accesskey            "Ø³">
+<!ENTITY lightning.toolbar.multiweek.label           "Ø§ÙƒØ«Ø± Ù…Ù† Ø§Ø³Ø¨ÙˆØ¹">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "Ø«">
+<!ENTITY lightning.toolbar.month.label               "Ø´Ù‡Ø±">
+<!ENTITY lightning.toolbar.month.accesskey           "Ø´">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "ÃÙåÑ ÇáÃÍÏÇË Ýí ÞÇÆãÉ Çáíæã">
-<!ENTITY lightning.calendarproperties.showtasks.label           "ÅÙåÑ ÇáÃÍÏÇË Ýí ÞÇÆãÉ Çáíæã æ ÈäÓÞ ÇáãåãÉ">
-<!ENTITY lightning.calendarproperties.email.label               "ÈÑíÏ ÅáßÊÑæäí:">
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Ø£Ø¸Ù‡Ø± Ø§Ù„Ø£Ø­Ø¯Ø§Ø« ÙÙŠ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ÙŠÙˆÙ…">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Ø¥Ø¸Ù‡Ø± Ø§Ù„Ø£Ø­Ø¯Ø§Ø« ÙÙŠ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ÙŠÙˆÙ… Ùˆ Ø¨Ù†Ø³Ù‚ Ø§Ù„Ù…Ù‡Ù…Ø©">
+<!ENTITY lightning.calendarproperties.email.label               "Ø¨Ø±ÙŠØ¯ Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "åÐå ÇáÑÓÇáÉ ÊÍÊÉí Úáì ÏÚæÉ áÍÏË.">
+<!ENTITY lightning.imipbar.description "Ù‡Ø°Ù‡ Ø§Ù„Ø±Ø³Ø§Ù„Ø© ØªØ­ØªØ©ÙŠ Ø¹Ù„Ù‰ Ø¯Ø¹ÙˆØ© Ù„Ø­Ø¯Ø«.">
 
 <!-- Lightning specific keybindings -->
-<!ENTITY lightning.keys.event.new "Ì">
-<!ENTITY lightning.keys.todo.new "Ú">
+<!ENTITY lightning.keys.event.new "Ø¬">
+<!ENTITY lightning.keys.todo.new "Ø¹">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "ÅäÔÇÁ ÊÞæíã ÌÏíÏ">
+<!ENTITY lightning.acctCentral.newCalendar.label "Ø¥Ù†Ø´Ø§Ø¡ ØªÙ‚ÙˆÙŠÙ… Ø¬Ø¯ÙŠØ¯">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "ÚÑÖ ãÕÛÑ ááÔåÑ">
-<!ENTITY todaypane.showMinimonth.accesskey "Ñ">
-<!ENTITY todaypane.showMiniday.label "ÚÑÖ ãÕÛÑ ááíæã">
-<!ENTITY todaypane.showMiniday.accesskey  "í">
-<!ENTITY todaypane.showNone.label "ÈáÇ ÚÑÖ">
-<!ENTITY todaypane.showNone.accesskey "È">
-<!ENTITY todaypane.showTodayPane.label "ÚÑÖ ÞÇÆãÉ Çáíæã">
-<!ENTITY todaypane.showTodayPane.accesskey "Ö">
-<!ENTITY todaypane.statusButton.label "ÞÇÆãÉ Çáíæã">
+<!ENTITY todaypane.showMinimonth.label "Ø¹Ø±Ø¶ Ù…ØµØºØ± Ù„Ù„Ø´Ù‡Ø±">
+<!ENTITY todaypane.showMinimonth.accesskey "Ø±">
+<!ENTITY todaypane.showMiniday.label "Ø¹Ø±Ø¶ Ù…ØµØºØ± Ù„Ù„ÙŠÙˆÙ…">
+<!ENTITY todaypane.showMiniday.accesskey  "ÙŠ">
+<!ENTITY todaypane.showNone.label "Ø¨Ù„Ø§ Ø¹Ø±Ø¶">
+<!ENTITY todaypane.showNone.accesskey "Ø¨">
+<!ENTITY todaypane.showTodayPane.label "Ø¹Ø±Ø¶ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ÙŠÙˆÙ…">
+<!ENTITY todaypane.showTodayPane.accesskey "Ø¶">
+<!ENTITY todaypane.statusButton.label "Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ÙŠÙˆÙ…">
 

@@ -41,16 +41,16 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "ÇáÅÚÏÇÏÇÊ ÇáÚÇãÉ" >
-<!ENTITY pref.dateformat.label "ÊäÓíÞ ÇáÊÇÑíÎ æ ÇáäÕ: " >
-<!ENTITY pref.dateformat.accesskey "í">
-<!ENTITY pref.dateformat.long "Øæíá" >
-<!ENTITY pref.dateformat.short "ÞÕíÑ"  >
-<!ENTITY pref.defaultlength.label "Øæá ÇáÍÏË ÇáÅÝÊÑÇÖì: " >
-<!ENTITY pref.defaultlength.accesskey "Ë">
-<!ENTITY pref.defaultsnoozelength.label "ãÏÉ ÇáÛÝæÉ ÇáÅÝÊÑÇÖíÉ: " >
-<!ENTITY pref.defaultsnoozelength.accesskey "Û">
-<!ENTITY pref.refreshbox.label "ÊÍÏíË ÇáÅÚÏÇÏÇÊ" >
-<!ENTITY pref.autorefresh.label "äÍÏíÊ ÇáÊÞæíã ßá" >
-<!ENTITY pref.autorefresh.accesskey "Þ" >
+<!ENTITY pref.mainbox.label "Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø¹Ø§Ù…Ø©" >
+<!ENTITY pref.dateformat.label "ØªÙ†Ø³ÙŠÙ‚ Ø§Ù„ØªØ§Ø±ÙŠØ® Ùˆ Ø§Ù„Ù†Øµ: " >
+<!ENTITY pref.dateformat.accesskey "ÙŠ">
+<!ENTITY pref.dateformat.long "Ø·ÙˆÙŠÙ„" >
+<!ENTITY pref.dateformat.short "Ù‚ØµÙŠØ±"  >
+<!ENTITY pref.defaultlength.label "Ø·ÙˆÙ„ Ø§Ù„Ø­Ø¯Ø« Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶Ù‰: " >
+<!ENTITY pref.defaultlength.accesskey "Ø«">
+<!ENTITY pref.defaultsnoozelength.label "Ù…Ø¯Ø© Ø§Ù„ØºÙÙˆØ© Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶ÙŠØ©: " >
+<!ENTITY pref.defaultsnoozelength.accesskey "Øº">
+<!ENTITY pref.refreshbox.label "ØªØ­Ø¯ÙŠØ« Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª" >
+<!ENTITY pref.autorefresh.label "Ù†Ø­Ø¯ÙŠØª Ø§Ù„ØªÙ‚ÙˆÙŠÙ… ÙƒÙ„" >
+<!ENTITY pref.autorefresh.accesskey "Ù‚" >
 

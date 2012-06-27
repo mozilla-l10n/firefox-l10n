@@ -42,63 +42,63 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.calendar.advanced.generalTab.label "ÚÇã">
-<!ENTITY pref.calendar.advanced.passwordsTab.label "ßáãÇÊ ÇáÓÑ">
-<!ENTITY pref.calendar.advanced.updateTab.label "ÊÍÏíË">
-<!ENTITY pref.calendar.advanced.encryptionTab.label "ÊÔÝíÑ">
+<!ENTITY pref.calendar.advanced.generalTab.label "Ø¹Ø§Ù…">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ø³Ø±">
+<!ENTITY pref.calendar.advanced.updateTab.label "ØªØ­Ø¯ÙŠØ«">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "ØªØ´ÙÙŠØ±">
 
 <!-- General -->
-<!ENTITY pref.calendar.advanced.showConnections.label     "ÖÈØ ÇáÅÊÕÇáâ€¦">
-<!ENTITY pref.calendar.advanced.showConnections.accesskey "Î">
-<!ENTITY pref.calendar.advanced.proxiesInfo.label         "ÍÏÏ ßíÝíÉ ÅÊÕÇá  &brandShortName; ÈÇáÅäÊÑäÊ">
-<!ENTITY pref.calendar.advanced.configEdit.caption "ÅÚÏÇÏÇÊ ãÊÞÏãÉ">
-<!ENTITY pref.calendar.advanced.configEdit.button "ÅÚÏÇÏÇÊ ÇáãÍÑÑâ€¦">
-<!ENTITY pref.calendar.advanced.configEdit.accesskey "á">
+<!ENTITY pref.calendar.advanced.showConnections.label     "Ø¶Ø¨Ø· Ø§Ù„Ø¥ØªØµØ§Ù„â€¦">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "Ø®">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Ø­Ø¯Ø¯ ÙƒÙŠÙÙŠØ© Ø¥ØªØµØ§Ù„  &brandShortName; Ø¨Ø§Ù„Ø¥Ù†ØªØ±Ù†Øª">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ù…ØªÙ‚Ø¯Ù…Ø©">
+<!ENTITY pref.calendar.advanced.configEdit.button "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù…Ø­Ø±Ø±â€¦">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "Ù„">
 
 <!-- Passwords -->
-<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; íÓÊØíÚ ÊÐßÑ ßáãÉÇáÓÑ áßá ÇáÊÞÇæíã. ÝáÇ ÊÍÊÇÌ Åáì ÅÏÎÇáåÇ ßá ãÑÉ.">
-<!ENTITY pref.calendar.advanced.useMasterPassword.label " ÇÓÊÎÏÇã ßáãÉ ÇáÓÑ ÇáÑÆíÓí áÊÔÝíÑ ßáãÇÊ ÇáãÑæÑ ÇáãÎÒäÉ ">
-<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "Í">
-<!ENTITY pref.calendar.advanced.masterPassword.intro " ÚäÏãÇ æÖÚÊ ¡ æßáãÉ ÓÑ ÑÆíÓíÉ íÊã ÍãÇíÉ ÌãíÚ ßáãÇÊ ÇáÓÑ ÇáÎÇÕÉ Èß ¡ æáßä íÌÈ Úáíß Ãä ÊÏÎá Úáíå ãÑÉ æÇÍÏÉ Ýí ßá ÏæÑÉ.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "ÛíÑ ßáãÉ ÇáÓÑ ÇáÑÆíÓíÉâ€¦">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "É">
-<!ENTITY pref.calendar.advanced.viewPasswords.label "ÚÑÖ ßáãÇÊ ÇáÓÑ ÇáãÍÝæØÉâ€¦">
-<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "Ñ">
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; ÙŠØ³ØªØ·ÙŠØ¹ ØªØ°ÙƒØ± ÙƒÙ„Ù…Ø©Ø§Ù„Ø³Ø± Ù„ÙƒÙ„ Ø§Ù„ØªÙ‚Ø§ÙˆÙŠÙ…. ÙÙ„Ø§ ØªØ­ØªØ§Ø¬ Ø¥Ù„Ù‰ Ø¥Ø¯Ø®Ø§Ù„Ù‡Ø§ ÙƒÙ„ Ù…Ø±Ø©.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label " Ø§Ø³ØªØ®Ø¯Ø§Ù… ÙƒÙ„Ù…Ø© Ø§Ù„Ø³Ø± Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠ Ù„ØªØ´ÙÙŠØ± ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ù…Ø±ÙˆØ± Ø§Ù„Ù…Ø®Ø²Ù†Ø© ">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "Ø­">
+<!ENTITY pref.calendar.advanced.masterPassword.intro " Ø¹Ù†Ø¯Ù…Ø§ ÙˆØ¶Ø¹Øª ØŒ ÙˆÙƒÙ„Ù…Ø© Ø³Ø± Ø±Ø¦ÙŠØ³ÙŠØ© ÙŠØªÙ… Ø­Ù…Ø§ÙŠØ© Ø¬Ù…ÙŠØ¹ ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ø³Ø± Ø§Ù„Ø®Ø§ØµØ© Ø¨Ùƒ ØŒ ÙˆÙ„ÙƒÙ† ÙŠØ¬Ø¨ Ø¹Ù„ÙŠÙƒ Ø£Ù† ØªØ¯Ø®Ù„ Ø¹Ù„ÙŠÙ‡ Ù…Ø±Ø© ÙˆØ§Ø­Ø¯Ø© ÙÙŠ ÙƒÙ„ Ø¯ÙˆØ±Ø©.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "ØºÙŠØ± ÙƒÙ„Ù…Ø© Ø§Ù„Ø³Ø± Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©â€¦">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "Ø©">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Ø¹Ø±Ø¶ ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ø³Ø± Ø§Ù„Ù…Ø­ÙÙˆØ·Ø©â€¦">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "Ø±">
 
 <!-- Update -->
-<!ENTITY pref.calendar.advanced.update.autoCheck.label "ÈÎË ÊáÞÇÁíÇ Úä ÇáÊÍÏíËÇÊ">
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Ø¨Ø®Ø« ØªÙ„Ù‚Ø§Ø¡ÙŠØ§ Ø¹Ù† Ø§Ù„ØªØ­Ø¯ÙŠØ«Ø§Øª">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
-<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "Þ">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "ËÈÊ ÅÖÇÝÇÊ">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "ì">
-<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "ÚäÏ æÌæÏ ÊÍÏíËÇÊ áÜ &brandShortName; ">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.label "ÅÓÃáäì ãÇÐÇ ÅÑíÏ Çä ÃÝÚá">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "ä">
-<!ENTITY pref.calendar.advanced.update.modeAuto.label "Íãá æ ËÈÊ ÇáÊÍÏíËÇÊ ÊáÞÇÆíÇð">
-<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "í">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "ÍÒäì ÅÐÇ ßÇä åÐÇ ÇáÊÍÏíË ÓíÚØá ÅÍÏì ÅÖÇÝÇÊí">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey Õ">
-<!ENTITY pref.calendar.advanced.update.showHistory.label "ÅÚÑÕ ÊÇÑíÎ ÇáÊÍÏíËÇÊâ€¦">
-<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "Ú">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "Ù‚">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Ø«Ø¨Øª Ø¥Ø¶Ø§ÙØ§Øª">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "Ù‰">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Ø¹Ù†Ø¯ ÙˆØ¬ÙˆØ¯ ØªØ­Ø¯ÙŠØ«Ø§Øª Ù„Ù€ &brandShortName; ">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Ø¥Ø³Ø£Ù„Ù†Ù‰ Ù…Ø§Ø°Ø§ Ø¥Ø±ÙŠØ¯ Ø§Ù† Ø£ÙØ¹Ù„">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "Ù†">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Ø­Ù…Ù„ Ùˆ Ø«Ø¨Øª Ø§Ù„ØªØ­Ø¯ÙŠØ«Ø§Øª ØªÙ„Ù‚Ø§Ø¦ÙŠØ§Ù‹">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "ÙŠ">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Ø­Ø²Ù†Ù‰ Ø¥Ø°Ø§ ÙƒØ§Ù† Ù‡Ø°Ø§ Ø§Ù„ØªØ­Ø¯ÙŠØ« Ø³ÙŠØ¹Ø·Ù„ Ø¥Ø­Ø¯Ù‰ Ø¥Ø¶Ø§ÙØ§ØªÙŠ">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey Øµ">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Ø¥Ø¹Ø±Øµ ØªØ§Ø±ÙŠØ® Ø§Ù„ØªØ­Ø¯ÙŠØ«Ø§Øªâ€¦">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "Ø¹">
 
 <!-- Encryption -->
-<!ENTITY pref.calendar.advanced.encryption.protocols.label "ÈÑæÊæßæáÇÊ">
-<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "ÃÓÊÎÏã SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Ø¨Ø±ÙˆØªÙˆÙƒÙˆÙ„Ø§Øª">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Ø£Ø³ØªØ®Ø¯Ù… SSL 3.0">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
-<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "ÅÓÊÎÏã TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Ø¥Ø³ØªØ®Ø¯Ù… TLS 1.0">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
-<!ENTITY pref.calendar.advanced.encryption.certificates.label "ÔåÇÏÇÊ">
-<!ENTITY pref.calendar.advanced.encryption.certSelection.description "ÚäÏãÇ íØáÈ ÇáÎÇÏã ÔåÇÏÊì ÇáÔÎÕíÉ: ">
-<!ENTITY pref.calendar.advanced.encryption.certs.auto "ÅÎÊÇÑ æÇÍÏÉ ÊáÞÇÆíÇð">
-<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "ã">
-<!ENTITY pref.calendar.advanced.encryption.certs.ask "ÅÓÃáäí ßá ãÑÉ">
-<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "å">
-<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "ÚÑÖ ÇáÔåÇÏÇÊ">
-<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "Ó">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label " ÅáÛÇÁ ÇáÞæÇÆã ">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "Þ">
-<!ENTITY pref.calendar.advanced.encryption.verify2.label " ÝÇÚáíÉ ">
-<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "Ñ">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label " ÇáÃÌåÒÉ ÇáÃãäíÉ">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "Û">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Ø´Ù‡Ø§Ø¯Ø§Øª">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Ø¹Ù†Ø¯Ù…Ø§ ÙŠØ·Ù„Ø¨ Ø§Ù„Ø®Ø§Ø¯Ù… Ø´Ù‡Ø§Ø¯ØªÙ‰ Ø§Ù„Ø´Ø®ØµÙŠØ©: ">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Ø¥Ø®ØªØ§Ø± ÙˆØ§Ø­Ø¯Ø© ØªÙ„Ù‚Ø§Ø¦ÙŠØ§Ù‹">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "Ù…">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Ø¥Ø³Ø£Ù„Ù†ÙŠ ÙƒÙ„ Ù…Ø±Ø©">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "Ù‡">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Ø¹Ø±Ø¶ Ø§Ù„Ø´Ù‡Ø§Ø¯Ø§Øª">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "Ø³">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label " Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙˆØ§Ø¦Ù… ">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "Ù‚">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label " ÙØ§Ø¹Ù„ÙŠØ© ">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "Ø±">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label " Ø§Ù„Ø£Ø¬Ù‡Ø²Ø© Ø§Ù„Ø£Ù…Ù†ÙŠØ©">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "Øº">
 

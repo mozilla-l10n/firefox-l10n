@@ -36,16 +36,16 @@
 -->
 
 <!-- Calendar Invitations Dialog -->
-<!ENTITY calendar.invitations.dialog.invitations.text                   "ÏÚæÇÊ">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "ÍÏË ÞÇÆãÉ ÇáÏÚæÇÊ">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "áÇ ÊæÌÏ ÏÚæÇÊ ÛíÑ ãÄßÏÉ.">
+<!ENTITY calendar.invitations.dialog.invitations.text                   "Ø¯Ø¹ÙˆØ§Øª">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Ø­Ø¯Ø« Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø¯Ø¹ÙˆØ§Øª">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Ù„Ø§ ØªÙˆØ¬Ø¯ Ø¯Ø¹ÙˆØ§Øª ØºÙŠØ± Ù…Ø¤ÙƒØ¯Ø©.">
 
 <!-- Calendar Invitations List -->
-<!ENTITY calendar.invitations.list.accept.button.label                  "ÃæÇÝÞ">
-<!ENTITY calendar.invitations.list.decline.button.label                 "ÃÑÝÖ">
-<!ENTITY calendar.invitations.list.recurrentevent.text                  " ÊßÑÇÑ ÇáÍÏË">
-<!ENTITY calendar.invitations.list.alldayevent.text                     " ÍÏË ááíæã ßáå">
-<!ENTITY calendar.invitations.list.location.text                        "ÇáãßÇä:  ">
-<!ENTITY calendar.invitations.list.organizer.text                       "ÇáãäÙã:  ">
-<!ENTITY calendar.invitations.list.none.text                            "ÈáÇ">
+<!ENTITY calendar.invitations.list.accept.button.label                  "Ø£ÙˆØ§ÙÙ‚">
+<!ENTITY calendar.invitations.list.decline.button.label                 "Ø£Ø±ÙØ¶">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  " ØªÙƒØ±Ø§Ø± Ø§Ù„Ø­Ø¯Ø«">
+<!ENTITY calendar.invitations.list.alldayevent.text                     " Ø­Ø¯Ø« Ù„Ù„ÙŠÙˆÙ… ÙƒÙ„Ù‡">
+<!ENTITY calendar.invitations.list.location.text                        "Ø§Ù„Ù…ÙƒØ§Ù†:  ">
+<!ENTITY calendar.invitations.list.organizer.text                       "Ø§Ù„Ù…Ù†Ø¸Ù…:  ">
+<!ENTITY calendar.invitations.list.none.text                            "Ø¨Ù„Ø§">
 

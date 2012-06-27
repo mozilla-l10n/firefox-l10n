@@ -37,12 +37,12 @@
 -->
 
 <!-- Calendar Subscriptions Dialog -->
-<!ENTITY calendar.subscriptions.dialog.title                            "ÅÔÊÑß Ýì ÇáÊÞæíã">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "ÅÚÑÖ ÇáÊÞæíã ÇáÐì íÍæì: 
-<!ENTITY calendar.subscriptions.dialog.search.button.label              "ÅÈÍË">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "ÅÎÊÇÑ ÊÞæíã ááÅÔÊÑÇß Ýíå: 
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "ÅÔÊÑß">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "ÅáÛÇÁ ÇáÅÔÊÑÇß">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "ÅíÍËâ€¦">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "áÇ íæÌÏ Çì ÊØÇÈÞ.">
+<!ENTITY calendar.subscriptions.dialog.title                            "Ø¥Ø´ØªØ±Ùƒ ÙÙ‰ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Ø¥Ø¹Ø±Ø¶ Ø§Ù„ØªÙ‚ÙˆÙŠÙ… Ø§Ù„Ø°Ù‰ ÙŠØ­ÙˆÙ‰: 
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Ø¥Ø¨Ø­Ø«">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Ø¥Ø®ØªØ§Ø± ØªÙ‚ÙˆÙŠÙ… Ù„Ù„Ø¥Ø´ØªØ±Ø§Ùƒ ÙÙŠÙ‡: 
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Ø¥Ø´ØªØ±Ùƒ">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ø¥Ø´ØªØ±Ø§Ùƒ">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Ø¥ÙŠØ­Ø«â€¦">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Ù„Ø§ ÙŠÙˆØ¬Ø¯ Ø§Ù‰ ØªØ·Ø§Ø¨Ù‚.">
 

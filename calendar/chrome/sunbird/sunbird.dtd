@@ -35,71 +35,71 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sunbird.choosedate.button.tooltip                 "ÅÎÊÇÑ íæã ááÐåÇÈ Çáì" >
-<!ENTITY sunbird.cut.button.tooltip                        "ÞÕ" >
-<!ENTITY sunbird.copy.button.tooltip                       "äÓÎ" >
-<!ENTITY sunbird.paste.button.tooltip                      "áÕÞ" >
-<!ENTITY sunbird.print.button.tooltip                      "ØÈÚ ÇáÊÞæíã" >
-<!ENTITY sunbird.delete.button.tooltip                     "ÍÐÝ ÇáÍÏË ÇáãÎÊÇÑ" >
-<!ENTITY sunbird.remotereload.button.tooltip               "ÇÚÏ ÊÍãíá ßá ÇáÊÞæíãÇÊ ÇáÈÚíÏÉ" >
-<!ENTITY sunbird.import.button.tooltip                     "ÅÓÊíÑÇÏ ÍÏË ãä ãáÝ ãÍáí" >
-<!ENTITY sunbird.export.button.tooltip                     "ÊÕÏíÑ ÍÏË áãáÝ ãÍáí" >
-<!ENTITY sunbird.subscribe.button.tooltip                  " ÇáÇÔÊÑÇß Ýí ãáÝ ÇáÊÞæíã Úáì ÌåÇÒ ÈÚíÏ " >
-<!ENTITY sunbird.publish.button.tooltip                    "ÅäÔÑ ÇáÍÏË áÌåÇÒ ÈÚíÏ" >
-<!ENTITY sunbird.unifinder.button.tooltip                  "ÃÚËÑ Úáì ÞÇÆãÉ ÇáÃÍÏÇË" >
-<!ENTITY sunbird.edit.button.tooltip                       "ÍÏÏ ÇáÃÍÏÇË ÇáãÎÊÇÑÉ" >
+<!ENTITY sunbird.choosedate.button.tooltip                 "Ø¥Ø®ØªØ§Ø± ÙŠÙˆÙ… Ù„Ù„Ø°Ù‡Ø§Ø¨ Ø§Ù„Ù‰" >
+<!ENTITY sunbird.cut.button.tooltip                        "Ù‚Øµ" >
+<!ENTITY sunbird.copy.button.tooltip                       "Ù†Ø³Ø®" >
+<!ENTITY sunbird.paste.button.tooltip                      "Ù„ØµÙ‚" >
+<!ENTITY sunbird.print.button.tooltip                      "Ø·Ø¨Ø¹ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…" >
+<!ENTITY sunbird.delete.button.tooltip                     "Ø­Ø°Ù Ø§Ù„Ø­Ø¯Ø« Ø§Ù„Ù…Ø®ØªØ§Ø±" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Ø§Ø¹Ø¯ ØªØ­Ù…ÙŠÙ„ ÙƒÙ„ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø§Ù„Ø¨Ø¹ÙŠØ¯Ø©" >
+<!ENTITY sunbird.import.button.tooltip                     "Ø¥Ø³ØªÙŠØ±Ø§Ø¯ Ø­Ø¯Ø« Ù…Ù† Ù…Ù„Ù Ù…Ø­Ù„ÙŠ" >
+<!ENTITY sunbird.export.button.tooltip                     "ØªØµØ¯ÙŠØ± Ø­Ø¯Ø« Ù„Ù…Ù„Ù Ù…Ø­Ù„ÙŠ" >
+<!ENTITY sunbird.subscribe.button.tooltip                  " Ø§Ù„Ø§Ø´ØªØ±Ø§Ùƒ ÙÙŠ Ù…Ù„Ù Ø§Ù„ØªÙ‚ÙˆÙŠÙ… Ø¹Ù„Ù‰ Ø¬Ù‡Ø§Ø² Ø¨Ø¹ÙŠØ¯ " >
+<!ENTITY sunbird.publish.button.tooltip                    "Ø¥Ù†Ø´Ø± Ø§Ù„Ø­Ø¯Ø« Ù„Ø¬Ù‡Ø§Ø² Ø¨Ø¹ÙŠØ¯" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Ø£Ø¹Ø«Ø± Ø¹Ù„Ù‰ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø£Ø­Ø¯Ø§Ø«" >
+<!ENTITY sunbird.edit.button.tooltip                       "Ø­Ø¯Ø¯ Ø§Ù„Ø£Ø­Ø¯Ø§Ø« Ø§Ù„Ù…Ø®ØªØ§Ø±Ø©" >
 
-<!ENTITY sunbird.choosedate.button.label                   "ÅÎÊÇÑ ÊÇÑíÎ" >
-<!ENTITY sunbird.cut.button.label                          "ÞÕ" >
-<!ENTITY sunbird.copy.button.label                         "äÓÎ" >
-<!ENTITY sunbird.paste.button.label                        "áÕÞ" >
-<!ENTITY sunbird.delete.button.label                       "ÍÐÝ" >
-<!ENTITY sunbird.remotereload.button.label                 "ÍÏË" >
-<!ENTITY sunbird.import.button.label                       "ÇÓÊíÑÇÏ" >
-<!ENTITY sunbird.export.button.label                       "ÊÕÏÈÑ" >
-<!ENTITY sunbird.subscribe.button.label                    "ÇÔÊÑß" >
-<!ENTITY sunbird.publish.button.label                      "äÔÑ" >
-<!ENTITY sunbird.unifinder.button.label                    " ÇáÚËæÑ Úáì ÃÍÏÇË" >
-<!ENTITY sunbird.edit.button.label                         "ÍÑÑ" >
+<!ENTITY sunbird.choosedate.button.label                   "Ø¥Ø®ØªØ§Ø± ØªØ§Ø±ÙŠØ®" >
+<!ENTITY sunbird.cut.button.label                          "Ù‚Øµ" >
+<!ENTITY sunbird.copy.button.label                         "Ù†Ø³Ø®" >
+<!ENTITY sunbird.paste.button.label                        "Ù„ØµÙ‚" >
+<!ENTITY sunbird.delete.button.label                       "Ø­Ø°Ù" >
+<!ENTITY sunbird.remotereload.button.label                 "Ø­Ø¯Ø«" >
+<!ENTITY sunbird.import.button.label                       "Ø§Ø³ØªÙŠØ±Ø§Ø¯" >
+<!ENTITY sunbird.export.button.label                       "ØªØµØ¯Ø¨Ø±" >
+<!ENTITY sunbird.subscribe.button.label                    "Ø§Ø´ØªØ±Ùƒ" >
+<!ENTITY sunbird.publish.button.label                      "Ù†Ø´Ø±" >
+<!ENTITY sunbird.unifinder.button.label                    " Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ Ø£Ø­Ø¯Ø§Ø«" >
+<!ENTITY sunbird.edit.button.label                         "Ø­Ø±Ø±" >
 
-<!ENTITY sunbird.flat.topbar.choosedate                    "ÅÐåÈ Çáì íæã" >
-<!ENTITY sunbird.flat.topbar.dayview                       "ÚÑÖ íæã" >
-<!ENTITY sunbird.flat.topbar.weekview                      "ÚÑÖ ÅÓÈæÚ" >
-<!ENTITY sunbird.flat.topbar.monthview                     "ÚÑÖ ÔåÑ" >
-<!ENTITY sunbird.flat.topbar.multiweekview                 "ÚÑÖ ÚÏÉ ÃÓÇÈíÚ" >
+<!ENTITY sunbird.flat.topbar.choosedate                    "Ø¥Ø°Ù‡Ø¨ Ø§Ù„Ù‰ ÙŠÙˆÙ…" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Ø¹Ø±Ø¶ ÙŠÙˆÙ…" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Ø¹Ø±Ø¶ Ø¥Ø³Ø¨ÙˆØ¹" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Ø¹Ø±Ø¶ Ø´Ù‡Ø±" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Ø¹Ø±Ø¶ Ø¹Ø¯Ø© Ø£Ø³Ø§Ø¨ÙŠØ¹" >
 
-<!ENTITY sunbird.dayview.accesskey                         "í" >
-<!ENTITY sunbird.weekview.accesskey                        "Õ" >
-<!ENTITY sunbird.monthview.accesskey                       "É" >
-<!ENTITY sunbird.multiweekview.accesskey                   "Ú" >
+<!ENTITY sunbird.dayview.accesskey                         "ÙŠ" >
+<!ENTITY sunbird.weekview.accesskey                        "Øµ" >
+<!ENTITY sunbird.monthview.accesskey                       "Ø©" >
+<!ENTITY sunbird.multiweekview.accesskey                   "Ø¹" >
 
 
-<!ENTITY sunbird.calendartab.label                         "ÇáÊÇÑíÎ">
-<!ENTITY sunbird.listofcalendarstab.label                  " ÇáÊÞÇæíã ">
+<!ENTITY sunbird.calendartab.label                         "Ø§Ù„ØªØ§Ø±ÙŠØ®">
+<!ENTITY sunbird.listofcalendarstab.label                  " Ø§Ù„ØªÙ‚Ø§ÙˆÙŠÙ… ">
 
-<!ENTITY sunbird.find.key                                  "È">
-<!ENTITY sunbird.close.key                                 "Õ">
+<!ENTITY sunbird.find.key                                  "Ø¨">
+<!ENTITY sunbird.close.key                                 "Øµ">
 
-<!ENTITY sunbird.menu.numberofweeks.label                  "ÚÏÏ ÇáÃÓÇÈíÚ" >
-<!ENTITY sunbird.menu.numberofweeks.accesskey              "ì" >
-<!ENTITY sunbird.menu.numberofweeks.1                      "ÅÓÈæÚ" >
-<!ENTITY sunbird.menu.numberofweeks.2                      "ÅÓÈæÚíä" >
-<!ENTITY sunbird.menu.numberofweeks.3                      "3 ÇÓÇÈíÚ" >
-<!ENTITY sunbird.menu.numberofweeks.4                      "4 ÇÓÇÈíÚ" >
-<!ENTITY sunbird.menu.numberofweeks.5                      "5 ÇÓÇÈíÚ" >
-<!ENTITY sunbird.menu.numberofweeks.6                      "6 ÇÓÇÈíÚ" >
+<!ENTITY sunbird.menu.numberofweeks.label                  "Ø¹Ø¯Ø¯ Ø§Ù„Ø£Ø³Ø§Ø¨ÙŠØ¹" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "Ù‰" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "Ø¥Ø³Ø¨ÙˆØ¹" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "Ø¥Ø³Ø¨ÙˆØ¹ÙŠÙ†" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 Ø§Ø³Ø§Ø¨ÙŠØ¹" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 Ø§Ø³Ø§Ø¨ÙŠØ¹" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 Ø§Ø³Ø§Ø¨ÙŠØ¹" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 Ø§Ø³Ø§Ø¨ÙŠØ¹" >
 
 <!-- customizable toolbars -->
-<!ENTITY sunbird.context.customize.label                   "ÊÎÕíÕâ€¦">
-<!ENTITY sunbird.context.customize.accesskey               "Ä">
-<!ENTITY sunbird.menu.customize.label                      "ÊÎÕíÕ ÔÑíØ ÇáÃÏæÇÊâ€¦">
-<!ENTITY sunbird.menu.customize.accesskey                  "Ä">
-<!ENTITY sunbird.maintoolbar.name                          "ÔÑíØ ÇáÃÏæÇÊ ÇáÑÆíÓí">
-<!ENTITY sunbird.maintoolbar.accesskey                     "É">
+<!ENTITY sunbird.context.customize.label                   "ØªØ®ØµÙŠØµâ€¦">
+<!ENTITY sunbird.context.customize.accesskey               "Ø¤">
+<!ENTITY sunbird.menu.customize.label                      "ØªØ®ØµÙŠØµ Ø´Ø±ÙŠØ· Ø§Ù„Ø£Ø¯ÙˆØ§Øªâ€¦">
+<!ENTITY sunbird.menu.customize.accesskey                  "Ø¤">
+<!ENTITY sunbird.maintoolbar.name                          "Ø´Ø±ÙŠØ· Ø§Ù„Ø£Ø¯ÙˆØ§Øª Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠ">
+<!ENTITY sunbird.maintoolbar.accesskey                     "Ø©">
 
 <!-- Sunbird Help -->
-<!ENTITY sunbird.help.label                                "ÇáãÍÊæíÇÊ ÇáãÓÇÚÏÉ">
-<!ENTITY sunbird.help.accesskey                            "Ç">
+<!ENTITY sunbird.help.label                                "Ø§Ù„Ù…Ø­ØªÙˆÙŠØ§Øª Ø§Ù„Ù…Ø³Ø§Ø¹Ø¯Ø©">
+<!ENTITY sunbird.help.accesskey                            "Ø§">
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title                                  "&brandFullName;">

@@ -35,60 +35,60 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY time.midnight "ãäÊÕÝ Çááíá" >
-<!ENTITY time.noon "ÇáÙåíÑÉ" >
+<!ENTITY time.midnight "Ù…Ù†ØªØµÙ Ø§Ù„Ù„ÙŠÙ„" >
+<!ENTITY time.noon "Ø§Ù„Ø¸Ù‡ÙŠØ±Ø©" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "ÇáÃÍÏ" >
-<!ENTITY day.1.Ddd.accesskey "Í">
-<!ENTITY day.2.Ddd "ÇáÅËäíä" >
-<!ENTITY day.2.Ddd.accesskey "í">
-<!ENTITY day.3.Ddd "ÇáËáÇËÇÁ" >
-<!ENTITY day.3.Ddd.accesskey "Ë">
-<!ENTITY day.4.Ddd "ÇáÃÑÈÚÇÁ" >
-<!ENTITY day.4.Ddd.accesskey "Ú">
-<!ENTITY day.5.Ddd "ÇáÎãíÓ" >
-<!ENTITY day.5.Ddd.accesskey "Î">
-<!ENTITY day.6.Ddd "ÇáÌãÚÉ" >
-<!ENTITY day.6.Ddd.accesskey "Ì">
-<!ENTITY day.7.Ddd "ÇáÓÈÊ" >
-<!ENTITY day.7.Ddd.accesskey "Ó">
+<!ENTITY day.1.Ddd "Ø§Ù„Ø£Ø­Ø¯" >
+<!ENTITY day.1.Ddd.accesskey "Ø­">
+<!ENTITY day.2.Ddd "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†" >
+<!ENTITY day.2.Ddd.accesskey "ÙŠ">
+<!ENTITY day.3.Ddd "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡" >
+<!ENTITY day.3.Ddd.accesskey "Ø«">
+<!ENTITY day.4.Ddd "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡" >
+<!ENTITY day.4.Ddd.accesskey "Ø¹">
+<!ENTITY day.5.Ddd "Ø§Ù„Ø®Ù…ÙŠØ³" >
+<!ENTITY day.5.Ddd.accesskey "Ø®">
+<!ENTITY day.6.Ddd "Ø§Ù„Ø¬Ù…Ø¹Ø©" >
+<!ENTITY day.6.Ddd.accesskey "Ø¬">
+<!ENTITY day.7.Ddd "Ø§Ù„Ø³Ø¨Øª" >
+<!ENTITY day.7.Ddd.accesskey "Ø³">
 
-<!ENTITY day.1.name "ÇáÃÍÏ" >
-<!ENTITY day.2.name "ÇáÅËäíä" >
-<!ENTITY day.3.name "ÇáËáÇËÇÁ" >
-<!ENTITY day.4.name "ÇáÃÑÈÚÇÁ" >
-<!ENTITY day.5.name "ÇáÎãíÓ" >
-<!ENTITY day.6.name "ÇáÌãÚÉ" >
-<!ENTITY day.7.name "ÇáÓÈÊ" >
+<!ENTITY day.1.name "Ø§Ù„Ø£Ø­Ø¯" >
+<!ENTITY day.2.name "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†" >
+<!ENTITY day.3.name "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡" >
+<!ENTITY day.4.name "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡" >
+<!ENTITY day.5.name "Ø§Ù„Ø®Ù…ÙŠØ³" >
+<!ENTITY day.6.name "Ø§Ù„Ø¬Ù…Ø¹Ø©" >
+<!ENTITY day.7.name "Ø§Ù„Ø³Ø¨Øª" >
 
 <!-- Units -->
-<!ENTITY calendar.global.units.minute   "ÏÞíÞÉ">
-<!ENTITY calendar.global.units.minutes  "ÏÞÇÆÞ">
-<!ENTITY calendar.global.units.hour     "ÓÇÚÉ">
-<!ENTITY calendar.global.units.hours    "ÓÇÚÇÊ">
-<!ENTITY calendar.global.units.day      "íæã">
-<!ENTITY calendar.global.units.days     "ÃíÇã">
+<!ENTITY calendar.global.units.minute   "Ø¯Ù‚ÙŠÙ‚Ø©">
+<!ENTITY calendar.global.units.minutes  "Ø¯Ù‚Ø§Ø¦Ù‚">
+<!ENTITY calendar.global.units.hour     "Ø³Ø§Ø¹Ø©">
+<!ENTITY calendar.global.units.hours    "Ø³Ø§Ø¹Ø§Øª">
+<!ENTITY calendar.global.units.day      "ÙŠÙˆÙ…">
+<!ENTITY calendar.global.units.days     "Ø£ÙŠØ§Ù…">
 
-<!ENTITY month.1.name "íäÇíÑ" >
-<!ENTITY month.2.name "ÝÈÑÇíÑ" >
-<!ENTITY month.3.name "ãÇÑÓ" >
-<!ENTITY month.4.name "ÇÈÑíá" >
-<!ENTITY month.5.name "ãÇíæ" >
-<!ENTITY month.6.name "íæäíæ" >
-<!ENTITY month.7.name "íæáíæ" >
-<!ENTITY month.8.name "ÃÛÓØÓ" >
-<!ENTITY month.9.name "ÓÈÊãÈÑ" >
-<!ENTITY month.10.name "ÃßÊæÈÑ" >
-<!ENTITY month.11.name "äæÝãÈÑ" >
-<!ENTITY month.12.name "ÏíÓãÈÑ" >
+<!ENTITY month.1.name "ÙŠÙ†Ø§ÙŠØ±" >
+<!ENTITY month.2.name "ÙØ¨Ø±Ø§ÙŠØ±" >
+<!ENTITY month.3.name "Ù…Ø§Ø±Ø³" >
+<!ENTITY month.4.name "Ø§Ø¨Ø±ÙŠÙ„" >
+<!ENTITY month.5.name "Ù…Ø§ÙŠÙˆ" >
+<!ENTITY month.6.name "ÙŠÙˆÙ†ÙŠÙˆ" >
+<!ENTITY month.7.name "ÙŠÙˆÙ„ÙŠÙˆ" >
+<!ENTITY month.8.name "Ø£ØºØ³Ø·Ø³" >
+<!ENTITY month.9.name "Ø³Ø¨ØªÙ…Ø¨Ø±" >
+<!ENTITY month.10.name "Ø£ÙƒØªÙˆØ¨Ø±" >
+<!ENTITY month.11.name "Ù†ÙˆÙÙ…Ø¨Ø±" >
+<!ENTITY month.12.name "Ø¯ÙŠØ³Ù…Ø¨Ø±" >
 
-<!ENTITY onemonthbackward.tooltip "ÔåÑ ááÎáÝ" >
-<!ENTITY onemonthforward.tooltip "ÔåÑ ááÃãÇã" >
-<!ENTITY showToday.tooltip "ÇÐåÈ Çáì íæã">
-<!ENTITY onedayforward.tooltip "íæã ááÃãÇã">
-<!ENTITY onedaybackward.tooltip "íæã ááÎáÝ">
-<!ENTITY showselectedday.tooltip "ÅÚÑÖ ÃÍÏÇË åÐÇ Çáíæã">
+<!ENTITY onemonthbackward.tooltip "Ø´Ù‡Ø± Ù„Ù„Ø®Ù„Ù" >
+<!ENTITY onemonthforward.tooltip "Ø´Ù‡Ø± Ù„Ù„Ø£Ù…Ø§Ù…" >
+<!ENTITY showToday.tooltip "Ø§Ø°Ù‡Ø¨ Ø§Ù„Ù‰ ÙŠÙˆÙ…">
+<!ENTITY onedayforward.tooltip "ÙŠÙˆÙ… Ù„Ù„Ø£Ù…Ø§Ù…">
+<!ENTITY onedaybackward.tooltip "ÙŠÙˆÙ… Ù„Ù„Ø®Ù„Ù">
+<!ENTITY showselectedday.tooltip "Ø¥Ø¹Ø±Ø¶ Ø£Ø­Ø¯Ø§Ø« Ù‡Ø°Ø§ Ø§Ù„ÙŠÙˆÙ…">
 

@@ -40,41 +40,41 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY  connectionsDialog.title       "ÅÚÏÇÏÇÊ ÇáÅÊÕÇá">
+<!ENTITY  connectionsDialog.title       "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø¥ØªØµØ§Ù„">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "ÅÚÏÇÏÇÊ ÇáÈÑæßÓì ááÏÎæá Úáì ÇáÅäÊÑäÊ">
-<!ENTITY  directTypeRadio.label         "ÅÊÕÇá ãÈÇÔÑ ÈÇáÅäÊÑäÊ">
-<!ENTITY  directTypeRadio.accesskey     "Õ">
-<!ENTITY  WPADTypeRadio.label           "ÝÍÕ ÊáÞÇÆí áÅÚÏÇÏÇÊ ÇáÈÑæßÓì ÇáÔÈßÉ">
-<!ENTITY  WPADTypeRadio.accesskey       "Ó">
-<!ENTITY  manualTypeRadio.label         "ÇáÅÚÏÇÏÇÊ ÇáíÏæíÉ ááÈÑæßÓì: ">
-<!ENTITY  manualTypeRadio.accesskey     "É">
-<!ENTITY  autoTypeRadio.label           "ÚäæÇä ÇáÅÚÏÇÏÇÊ ÇáÊáÞÇÆíÉ ááÈÑæßÓì: ">
-<!ENTITY  autoTypeRadio.accesskey       "Þ>
-<!ENTITY  reload.label                  "ÃÚÏ ÇáÊÍãíá">
-<!ENTITY  reload.accesskey              "Í">
-<!ENTITY  ftp.label                     "FTP ÈÑæßÓì:">
+<!ENTITY  proxyTitle.label              "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø¨Ø±ÙˆÙƒØ³Ù‰ Ù„Ù„Ø¯Ø®ÙˆÙ„ Ø¹Ù„Ù‰ Ø§Ù„Ø¥Ù†ØªØ±Ù†Øª">
+<!ENTITY  directTypeRadio.label         "Ø¥ØªØµØ§Ù„ Ù…Ø¨Ø§Ø´Ø± Ø¨Ø§Ù„Ø¥Ù†ØªØ±Ù†Øª">
+<!ENTITY  directTypeRadio.accesskey     "Øµ">
+<!ENTITY  WPADTypeRadio.label           "ÙØ­Øµ ØªÙ„Ù‚Ø§Ø¦ÙŠ Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø¨Ø±ÙˆÙƒØ³Ù‰ Ø§Ù„Ø´Ø¨ÙƒØ©">
+<!ENTITY  WPADTypeRadio.accesskey       "Ø³">
+<!ENTITY  manualTypeRadio.label         "Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ÙŠØ¯ÙˆÙŠØ© Ù„Ù„Ø¨Ø±ÙˆÙƒØ³Ù‰: ">
+<!ENTITY  manualTypeRadio.accesskey     "Ø©">
+<!ENTITY  autoTypeRadio.label           "Ø¹Ù†ÙˆØ§Ù† Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØªÙ„Ù‚Ø§Ø¦ÙŠØ© Ù„Ù„Ø¨Ø±ÙˆÙƒØ³Ù‰: ">
+<!ENTITY  autoTypeRadio.accesskey       "Ù‚>
+<!ENTITY  reload.label                  "Ø£Ø¹Ø¯ Ø§Ù„ØªØ­Ù…ÙŠÙ„">
+<!ENTITY  reload.accesskey              "Ø­">
+<!ENTITY  ftp.label                     "FTP Ø¨Ø±ÙˆÙƒØ³Ù‰:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP ÈÑæßÓì:">
+<!ENTITY  http.label                    "HTTP Ø¨Ø±ÙˆÙƒØ³Ù‰:">
 <!ENTITY  http.accesskey                "y">
-<!ENTITY  ssl.label                     "SSL ÈÑæßÓì:">
+<!ENTITY  ssl.label                     "SSL Ø¨Ø±ÙˆÙƒØ³Ù‰:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS ãÖíÝ:">
+<!ENTITY  socks.label                   "SOCKS Ù…Ø¶ÙŠÙ:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "ÈæÑÊ:">
+<!ENTITY  port.label                    "Ø¨ÙˆØ±Øª:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "áÇ íæÍÏ ÈÑæßÓì áÜ">
+<!ENTITY  noproxy.label                 "Ù„Ø§ ÙŠÙˆØ­Ø¯ Ø¨Ø±ÙˆÙƒØ³Ù‰ Ù„Ù€">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "ãËÇá: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "ÅÓÊÎÏã åÐÇ ÇáÈÑæßÓì áßá ÇáÈÑæÊßæáÇÊ">
-<!ENTITY  shareproxy.accesskey          "ß">
+<!ENTITY  noproxyExplain.label          "Ù…Ø«Ø§Ù„: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Ø¥Ø³ØªØ®Ø¯Ù… Ù‡Ø°Ø§ Ø§Ù„Ø¨Ø±ÙˆÙƒØ³Ù‰ Ù„ÙƒÙ„ Ø§Ù„Ø¨Ø±ÙˆØªÙƒÙˆÙ„Ø§Øª">
+<!ENTITY  shareproxy.accesskey          "Ùƒ">
 

@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY migration.title "&brandFullName;: ÅÓÊíÑÇÏ ÇáÈíÇäÇÊ">
-<!ENTITY migration.welcome "ãÑÍÈÇ">
-<!ENTITY migration.importing "ÇÓÊíÑÇÏ">
-<!ENTITY migration.list.description "&brandShortName; íãßä ÇÓÊíÑÇÏ ÈíÇäÇÊ ÇáÊÞæíã ãä ÊØÈíÞÇÊ ÔÚÈíÉ ßËíÑÉ. ÈíÇäÇÊ ãä ÇáÊØÈíÞÇÊ ÇáÊÇáíÉ Êã ÇáÚËæÑ Úáì ÌåÇÒ ÇáßãÈíæÊÑ ÇáÎÇÕ Èß. ÇáÑÌÇÁ ÇÎÊíÇÑ Ãí ãä åÐå ÇáÈíÇäÇÊ ÊÑÛÈ Ýí ÇÓÊíÑÇÏåÇ.">
-<!ENTITY migration.progress.description "ÅÓÊíÑÇÏ ÇáÈíÇäÇÊ ÇáãÎÊÇÑÉ">
+<!ENTITY migration.title "&brandFullName;: Ø¥Ø³ØªÙŠØ±Ø§Ø¯ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª">
+<!ENTITY migration.welcome "Ù…Ø±Ø­Ø¨Ø§">
+<!ENTITY migration.importing "Ø§Ø³ØªÙŠØ±Ø§Ø¯">
+<!ENTITY migration.list.description "&brandShortName; ÙŠÙ…ÙƒÙ† Ø§Ø³ØªÙŠØ±Ø§Ø¯ Ø¨ÙŠØ§Ù†Ø§Øª Ø§Ù„ØªÙ‚ÙˆÙŠÙ… Ù…Ù† ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø´Ø¹Ø¨ÙŠØ© ÙƒØ«ÙŠØ±Ø©. Ø¨ÙŠØ§Ù†Ø§Øª Ù…Ù† Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„ØªØ§Ù„ÙŠØ© ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ Ø¬Ù‡Ø§Ø² Ø§Ù„ÙƒÙ…Ø¨ÙŠÙˆØªØ± Ø§Ù„Ø®Ø§Øµ Ø¨Ùƒ. Ø§Ù„Ø±Ø¬Ø§Ø¡ Ø§Ø®ØªÙŠØ§Ø± Ø£ÙŠ Ù…Ù† Ù‡Ø°Ù‡ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª ØªØ±ØºØ¨ ÙÙŠ Ø§Ø³ØªÙŠØ±Ø§Ø¯Ù‡Ø§.">
+<!ENTITY migration.progress.description "Ø¥Ø³ØªÙŠØ±Ø§Ø¯ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª Ø§Ù„Ù…Ø®ØªØ§Ø±Ø©">
 

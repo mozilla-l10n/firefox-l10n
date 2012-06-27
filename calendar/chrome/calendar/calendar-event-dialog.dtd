@@ -43,249 +43,249 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "ÊÍÑíÑ ÇáÚäÕÑ" >
+<!ENTITY event.title.label                  "ØªØ­Ø±ÙŠØ± Ø§Ù„Ø¹Ù†ØµØ±" >
 
 
-<!ENTITY newevent.from.label                "ãä" >
-<!ENTITY newevent.to.label                  "Çáì" >
-<!ENTITY newevent.attendees.notify.label    "ÅÎØÇÑ ÇáÍÖæÑ">
+<!ENTITY newevent.from.label                "Ù…Ù†" >
+<!ENTITY newevent.to.label                  "Ø§Ù„Ù‰" >
+<!ENTITY newevent.attendees.notify.label    "Ø¥Ø®Ø·Ø§Ø± Ø§Ù„Ø­Ø¶ÙˆØ±">
 
-<!ENTITY newevent.status.label                "ÇáÍÇáÉ" >
-<!ENTITY newevent.status.accesskey            "Í" >
-<!ENTITY newevent.status.none.label           "ÛíÑ ãÍÏÏ" >
-<!ENTITY newevent.status.none.accesskey       "ã" >
-<!ENTITY newevent.status.cancelled.label      "ÅáÛ" >
-<!ENTITY newevent.status.cancelled.accesskey  "Û" >
-<!ENTITY newevent.status.tentative.label      "ãÄÞÊ" >
-<!ENTITY newevent.status.tentative.accesskey  "Ä" >
-<!ENTITY newevent.status.confirmed.label      "ãÄßÏ" >
-<!ENTITY newevent.status.confirmed.accesskey  "ß" >
-<!ENTITY newevent.status.needsaction.label    "Ýì ÍÇÌÉ ááÚãá" >
-<!ENTITY newevent.status.inprogress.label     "ÏÇÆÑ" >
-<!ENTITY newevent.status.completed.label      "íßÊãá Ýì" >
+<!ENTITY newevent.status.label                "Ø§Ù„Ø­Ø§Ù„Ø©" >
+<!ENTITY newevent.status.accesskey            "Ø­" >
+<!ENTITY newevent.status.none.label           "ØºÙŠØ± Ù…Ø­Ø¯Ø¯" >
+<!ENTITY newevent.status.none.accesskey       "Ù…" >
+<!ENTITY newevent.status.cancelled.label      "Ø¥Ù„Øº" >
+<!ENTITY newevent.status.cancelled.accesskey  "Øº" >
+<!ENTITY newevent.status.tentative.label      "Ù…Ø¤Ù‚Øª" >
+<!ENTITY newevent.status.tentative.accesskey  "Ø¤" >
+<!ENTITY newevent.status.confirmed.label      "Ù…Ø¤ÙƒØ¯" >
+<!ENTITY newevent.status.confirmed.accesskey  "Ùƒ" >
+<!ENTITY newevent.status.needsaction.label    "ÙÙ‰ Ø­Ø§Ø¬Ø© Ù„Ù„Ø¹Ù…Ù„" >
+<!ENTITY newevent.status.inprogress.label     "Ø¯Ø§Ø¦Ø±" >
+<!ENTITY newevent.status.completed.label      "ÙŠÙƒØªÙ…Ù„ ÙÙ‰" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; complete">
 
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "ãáÝ">
-<!ENTITY  event.menu.file.accesskey                       "ã">
-<!ENTITY  event.menu.file.new.label                       "ÌÏíÏ">
-<!ENTITY  event.menu.file.new.accesskey                   "Ì">
-<!ENTITY  event.menu.file.new.event.label                 "ÍÏË">
-<!ENTITY  event.menu.file.new.event.accesskey             "Ë">
-<!ENTITY  event.menu.file.new.message.label               "ÑÓÇáÉ">
-<!ENTITY  event.menu.file.new.message.accesskey           "Ñ">
-<!ENTITY  event.menu.file.new.contact.label               "ÚäæÇä ÝåÑÓ ÇáÅÊÕÇá">
-<!ENTITY  event.menu.file.new.contact.accesskey           "Ý">
-<!ENTITY  event.menu.file.close.label                     "ÛáÞ">
-<!ENTITY  event.menu.file.close.accesskey                 "Þ">
-<!ENTITY  event.menu.file.save.label                      "ÍÝÙ">
-<!ENTITY  event.menu.file.save.accesskey                  "Ù">
-<!ENTITY  event.menu.item.delete.label                    "ÍÐÝâ€¦">
-<!ENTITY  event.menu.item.delete.accesskey                "Ð">
-<!ENTITY  event.menu.file.page.setup.label                "ÅÚÏÇÏÇÊ ÇáÕÝÍÉ">
-<!ENTITY  event.menu.file.page.setup.accesskey            "Ú">
-<!ENTITY  event.menu.file.print.label                     "ØÈÇÚÉ">
-<!ENTITY  event.menu.file.print.accesskey                 "Ø">
+<!ENTITY  event.menu.file.label                           "Ù…Ù„Ù">
+<!ENTITY  event.menu.file.accesskey                       "Ù…">
+<!ENTITY  event.menu.file.new.label                       "Ø¬Ø¯ÙŠØ¯">
+<!ENTITY  event.menu.file.new.accesskey                   "Ø¬">
+<!ENTITY  event.menu.file.new.event.label                 "Ø­Ø¯Ø«">
+<!ENTITY  event.menu.file.new.event.accesskey             "Ø«">
+<!ENTITY  event.menu.file.new.message.label               "Ø±Ø³Ø§Ù„Ø©">
+<!ENTITY  event.menu.file.new.message.accesskey           "Ø±">
+<!ENTITY  event.menu.file.new.contact.label               "Ø¹Ù†ÙˆØ§Ù† ÙÙ‡Ø±Ø³ Ø§Ù„Ø¥ØªØµØ§Ù„">
+<!ENTITY  event.menu.file.new.contact.accesskey           "Ù">
+<!ENTITY  event.menu.file.close.label                     "ØºÙ„Ù‚">
+<!ENTITY  event.menu.file.close.accesskey                 "Ù‚">
+<!ENTITY  event.menu.file.save.label                      "Ø­ÙØ¸">
+<!ENTITY  event.menu.file.save.accesskey                  "Ø¸">
+<!ENTITY  event.menu.item.delete.label                    "Ø­Ø°Ùâ€¦">
+<!ENTITY  event.menu.item.delete.accesskey                "Ø°">
+<!ENTITY  event.menu.file.page.setup.label                "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØµÙØ­Ø©">
+<!ENTITY  event.menu.file.page.setup.accesskey            "Ø¹">
+<!ENTITY  event.menu.file.print.label                     "Ø·Ø¨Ø§Ø¹Ø©">
+<!ENTITY  event.menu.file.print.accesskey                 "Ø·">
 
-<!ENTITY  event.menu.edit.label                           "ÍÑÑ">
-<!ENTITY  event.menu.edit.accesskey                       "Ñ">
-<!ENTITY  event.menu.edit.undo.label                      "ÊÑÇÌÚ">
-<!ENTITY  event.menu.edit.undo.accesskey                  "Ê">
-<!ENTITY  event.menu.edit.redo.label                      "ÅÚÇÏÊå">
-<!ENTITY  event.menu.edit.redo.accesskey                  "Ï">
-<!ENTITY  event.menu.edit.cut.label                       "ÞØÚ">
-<!ENTITY  event.menu.edit.cut.accesskey                   "Þ">
-<!ENTITY  event.menu.edit.copy.label                      "äÓÎ">
-<!ENTITY  event.menu.edit.copy.accesskey                  "Ó">
-<!ENTITY  event.menu.edit.paste.label                     "áÕÞ">
-<!ENTITY  event.menu.edit.paste.accesskey                 "Ó">
-<!ENTITY  event.menu.edit.select.all.label                "ÅÎÊÇÑ Çáßá">
-<!ENTITY  event.menu.edit.select.all.accesskey            "ß">
+<!ENTITY  event.menu.edit.label                           "Ø­Ø±Ø±">
+<!ENTITY  event.menu.edit.accesskey                       "Ø±">
+<!ENTITY  event.menu.edit.undo.label                      "ØªØ±Ø§Ø¬Ø¹">
+<!ENTITY  event.menu.edit.undo.accesskey                  "Øª">
+<!ENTITY  event.menu.edit.redo.label                      "Ø¥Ø¹Ø§Ø¯ØªÙ‡">
+<!ENTITY  event.menu.edit.redo.accesskey                  "Ø¯">
+<!ENTITY  event.menu.edit.cut.label                       "Ù‚Ø·Ø¹">
+<!ENTITY  event.menu.edit.cut.accesskey                   "Ù‚">
+<!ENTITY  event.menu.edit.copy.label                      "Ù†Ø³Ø®">
+<!ENTITY  event.menu.edit.copy.accesskey                  "Ø³">
+<!ENTITY  event.menu.edit.paste.label                     "Ù„ØµÙ‚">
+<!ENTITY  event.menu.edit.paste.accesskey                 "Ø³">
+<!ENTITY  event.menu.edit.select.all.label                "Ø¥Ø®ØªØ§Ø± Ø§Ù„ÙƒÙ„">
+<!ENTITY  event.menu.edit.select.all.accesskey            "Ùƒ">
 
-<!ENTITY  event.menu.view.label                           "ÚÑÖ">
-<!ENTITY  event.menu.view.accesskey                       "Ö">
-<!ENTITY  event.menu.view.toolbars.label                  "ÔÑÇÆØ ÇáÃÏæÇÊ">
-<!ENTITY  event.menu.view.toolbars.accesskey              "Ô">
-<!ENTITY  event.menu.view.toolbars.event.label            "ÔÑíØ ÇáÍÏË">
-<!ENTITY  event.menu.view.toolbars.event.accesskey        "Ë">
-<!ENTITY  event.menu.view.toolbars.customize.label        "ÊÎÕíÕâ€¦">
-<!ENTITY  event.menu.view.toolbars.customize.accesskey    "Î">
-<!ENTITY  event.menu.view.showlink.label                  "ÚÑÖ æÕáÉ ÐÇÊ ÕáÉ">
-<!ENTITY  event.menu.view.showlink.accesskey              "æ">
+<!ENTITY  event.menu.view.label                           "Ø¹Ø±Ø¶">
+<!ENTITY  event.menu.view.accesskey                       "Ø¶">
+<!ENTITY  event.menu.view.toolbars.label                  "Ø´Ø±Ø§Ø¦Ø· Ø§Ù„Ø£Ø¯ÙˆØ§Øª">
+<!ENTITY  event.menu.view.toolbars.accesskey              "Ø´">
+<!ENTITY  event.menu.view.toolbars.event.label            "Ø´Ø±ÙŠØ· Ø§Ù„Ø­Ø¯Ø«">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "Ø«">
+<!ENTITY  event.menu.view.toolbars.customize.label        "ØªØ®ØµÙŠØµâ€¦">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "Ø®">
+<!ENTITY  event.menu.view.showlink.label                  "Ø¹Ø±Ø¶ ÙˆØµÙ„Ø© Ø°Ø§Øª ØµÙ„Ø©">
+<!ENTITY  event.menu.view.showlink.accesskey              "Ùˆ">
 
-<!ENTITY  event.menu.options.label                            "ÎíÇÑÇÊ">
-<!ENTITY  event.menu.options.accesskey                        "Î">
-<!ENTITY  event.menu.options.attachments.label                "ÅáÍÞ ÕÝÍÉ ÅäÊÑäÊâ€¦">
-<!ENTITY  event.menu.options.attachments.accesskey            "Õ">
-<!ENTITY  event.menu.options.attendees.label                  "ÅÏÚæ ááÍÖæÑâ€¦">
-<!ENTITY  event.menu.options.attendees.accesskey              "Ï">
-<!ENTITY  event.menu.options.spellcheck.label                 "ÇáÊÏÞíÞ ÇáÅãáÇÆíâ€¦">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "Æ">
-<!ENTITY  event.menu.options.inline.spellcheck.label          " ÇáÊÏÞíÞ ÇáÅãáÇÆí ÃËäÇÁ ÇáßÊÇÈÉ">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "Ë">
-<!ENTITY  event.menu.options.link.label                       "ÃÖÝ æÕáÉâ€¦">
-<!ENTITY  event.menu.options.link.accesskey                   "á">
-<!ENTITY  event.menu.options.timezone.label                   "ÊæÞíÊß">
-<!ENTITY  event.menu.options.timezone.accesskey               "æ">
-<!ENTITY  event.menu.options.priority2.label                  "ÇáÃÓÈÞíÉ">
-<!ENTITY  event.menu.options.priority2.accesskey              "Ó">
-<!ENTITY  event.menu.options.priority.notspecified.label      "ÛíÑ ãÍÏÏ">
-<!ENTITY  event.menu.options.priority.notspecified.accesskey  "í">
-<!ENTITY  event.menu.options.priority.low.label               "ãäÎÝÖ">
-<!ENTITY  event.menu.options.priority.low.accesskey           "ã">
-<!ENTITY  event.menu.options.priority.normal.label            "ÚÇÏì">
-<!ENTITY  event.menu.options.priority.normal.accesskey        "Ú">
-<!ENTITY  event.menu.options.priority.high.label              "ãÑÊÝÚ">
-<!ENTITY  event.menu.options.priority.high.accesskey          "Ê">
-<!ENTITY  event.menu.options.privacy.label                    "ÇáÎÕæÕíÉ">
-<!ENTITY  event.menu.options.privacy.accesskey                "É">
-<!ENTITY  event.menu.options.privacy.public.label             "ÍÏË ÚÇã">
-<!ENTITY  event.menu.options.privacy.public.accesskey         "Ï">
-<!ENTITY  event.menu.options.privacy.confidential.label       "ÅÚÑÖ ÇáæÞÊ æ ÇáÊÇÑíÎ ÝÞØ">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "Ê">
-<!ENTITY  event.menu.options.privacy.private.label            "ÍÏË ÎÇÕ">
-<!ENTITY  event.menu.options.privacy.private.accesskey        "Õ">
-<!ENTITY  event.menu.options.show.time.label                  "ÅÚÑÖ ÇáæÞÊ ßÜ">
-<!ENTITY  event.menu.options.show.time.accesskey              "æ">
-<!ENTITY  event.menu.options.show.time.busy.label             "ãÔÛæá">
-<!ENTITY  event.menu.options.show.time.busy.accesskey         "Ô">
-<!ENTITY  event.menu.options.show.time.free.label             "ÍÑ">
-<!ENTITY  event.menu.options.show.time.free.accesskey         "Ñ">
+<!ENTITY  event.menu.options.label                            "Ø®ÙŠØ§Ø±Ø§Øª">
+<!ENTITY  event.menu.options.accesskey                        "Ø®">
+<!ENTITY  event.menu.options.attachments.label                "Ø¥Ù„Ø­Ù‚ ØµÙØ­Ø© Ø¥Ù†ØªØ±Ù†Øªâ€¦">
+<!ENTITY  event.menu.options.attachments.accesskey            "Øµ">
+<!ENTITY  event.menu.options.attendees.label                  "Ø¥Ø¯Ø¹Ùˆ Ù„Ù„Ø­Ø¶ÙˆØ±â€¦">
+<!ENTITY  event.menu.options.attendees.accesskey              "Ø¯">
+<!ENTITY  event.menu.options.spellcheck.label                 "Ø§Ù„ØªØ¯Ù‚ÙŠÙ‚ Ø§Ù„Ø¥Ù…Ù„Ø§Ø¦ÙŠâ€¦">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "Ø¦">
+<!ENTITY  event.menu.options.inline.spellcheck.label          " Ø§Ù„ØªØ¯Ù‚ÙŠÙ‚ Ø§Ù„Ø¥Ù…Ù„Ø§Ø¦ÙŠ Ø£Ø«Ù†Ø§Ø¡ Ø§Ù„ÙƒØªØ§Ø¨Ø©">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "Ø«">
+<!ENTITY  event.menu.options.link.label                       "Ø£Ø¶Ù ÙˆØµÙ„Ø©â€¦">
+<!ENTITY  event.menu.options.link.accesskey                   "Ù„">
+<!ENTITY  event.menu.options.timezone.label                   "ØªÙˆÙ‚ÙŠØªÙƒ">
+<!ENTITY  event.menu.options.timezone.accesskey               "Ùˆ">
+<!ENTITY  event.menu.options.priority2.label                  "Ø§Ù„Ø£Ø³Ø¨Ù‚ÙŠØ©">
+<!ENTITY  event.menu.options.priority2.accesskey              "Ø³">
+<!ENTITY  event.menu.options.priority.notspecified.label      "ØºÙŠØ± Ù…Ø­Ø¯Ø¯">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "ÙŠ">
+<!ENTITY  event.menu.options.priority.low.label               "Ù…Ù†Ø®ÙØ¶">
+<!ENTITY  event.menu.options.priority.low.accesskey           "Ù…">
+<!ENTITY  event.menu.options.priority.normal.label            "Ø¹Ø§Ø¯Ù‰">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "Ø¹">
+<!ENTITY  event.menu.options.priority.high.label              "Ù…Ø±ØªÙØ¹">
+<!ENTITY  event.menu.options.priority.high.accesskey          "Øª">
+<!ENTITY  event.menu.options.privacy.label                    "Ø§Ù„Ø®ØµÙˆØµÙŠØ©">
+<!ENTITY  event.menu.options.privacy.accesskey                "Ø©">
+<!ENTITY  event.menu.options.privacy.public.label             "Ø­Ø¯Ø« Ø¹Ø§Ù…">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "Ø¯">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Ø¥Ø¹Ø±Ø¶ Ø§Ù„ÙˆÙ‚Øª Ùˆ Ø§Ù„ØªØ§Ø±ÙŠØ® ÙÙ‚Ø·">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "Øª">
+<!ENTITY  event.menu.options.privacy.private.label            "Ø­Ø¯Ø« Ø®Ø§Øµ">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "Øµ">
+<!ENTITY  event.menu.options.show.time.label                  "Ø¥Ø¹Ø±Ø¶ Ø§Ù„ÙˆÙ‚Øª ÙƒÙ€">
+<!ENTITY  event.menu.options.show.time.accesskey              "Ùˆ">
+<!ENTITY  event.menu.options.show.time.busy.label             "Ù…Ø´ØºÙˆÙ„">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "Ø´">
+<!ENTITY  event.menu.options.show.time.free.label             "Ø­Ø±">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "Ø±">
 
-<!ENTITY event.help.label                                 "ãÓÇÚÏÉ">
-<!ENTITY event.help.accesskey                             "Ó">
-<!ENTITY event.help.release.notes.label                   "ÅäÔÑ ãáÇÍÙÇÊ">
-<!ENTITY event.help.release.notes.accesskey               "áÇ">
-<!ENTITY event.help.help.label                            "&brandShortName; ãÓÇÚÏÉ">
-<!ENTITY event.help.help.accesskey                        "Ú">
-<!ENTITY event.help.about.label                           "Úä &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "ä">
+<!ENTITY event.help.label                                 "Ù…Ø³Ø§Ø¹Ø¯Ø©">
+<!ENTITY event.help.accesskey                             "Ø³">
+<!ENTITY event.help.release.notes.label                   "Ø¥Ù†Ø´Ø± Ù…Ù„Ø§Ø­Ø¸Ø§Øª">
+<!ENTITY event.help.release.notes.accesskey               "Ù„Ø§">
+<!ENTITY event.help.help.label                            "&brandShortName; Ù…Ø³Ø§Ø¹Ø¯Ø©">
+<!ENTITY event.help.help.accesskey                        "Ø¹">
+<!ENTITY event.help.about.label                           "Ø¹Ù† &brandShortName;">
+<!ENTITY event.help.about.accesskey                       "Ù†">
 
-<!ENTITY event.invite.attendees.label                     "ÅÏÚæ ááÍÖæÑâ€¦">
-<!ENTITY event.invite.attendees.accesskey                 "Í">
-<!ENTITY event.email.attendees.label                      "ÅÑÓá ÑÓÇáÉ ÅáßÊÑæäíÉ ááÍÖæÑâ€¦">
-<!ENTITY event.email.attendees.accesskey                  "Ñ">
-<!ENTITY event.email.tentative.attendees.label            "ÅÑÓá ÑÓÇáÉ ÅáßÊÑæäíÉ áÚÏÏ ÛíÑ ãÍÏÏ ãä ÇáÍÖæÑâ€¦">
-<!ENTITY event.email.tentative.attendees.accesskey        "Ï">
+<!ENTITY event.invite.attendees.label                     "Ø¥Ø¯Ø¹Ùˆ Ù„Ù„Ø­Ø¶ÙˆØ±â€¦">
+<!ENTITY event.invite.attendees.accesskey                 "Ø­">
+<!ENTITY event.email.attendees.label                      "Ø¥Ø±Ø³Ù„ Ø±Ø³Ø§Ù„Ø© Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© Ù„Ù„Ø­Ø¶ÙˆØ±â€¦">
+<!ENTITY event.email.attendees.accesskey                  "Ø±">
+<!ENTITY event.email.tentative.attendees.label            "Ø¥Ø±Ø³Ù„ Ø±Ø³Ø§Ù„Ø© Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© Ù„Ø¹Ø¯Ø¯ ØºÙŠØ± Ù…Ø­Ø¯Ø¯ Ù…Ù† Ø§Ù„Ø­Ø¶ÙˆØ±â€¦">
+<!ENTITY event.email.tentative.attendees.accesskey        "Ø¯">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "ÅÍÝÙ Ëã ÅÛáÞ">
-<!ENTITY  event.toolbar.delete.label                      "ÍÐÝ">
-<!ENTITY  event.toolbar.attendees.label                   "ÅÏÚæ ááÍÖæÑ">
-<!ENTITY  event.toolbar.spellcheck.label                  "ÊÏÞíÞ ÅãáÇÆí">
-<!ENTITY  event.toolbar.privacy.label                     "ÇáÎÕæÕíÉ">
-<!ENTITY  event.toolbar.attachments.label                 "ÅáÍÞ">
+<!ENTITY  event.toolbar.save.label                        "Ø¥Ø­ÙØ¸ Ø«Ù… Ø¥ØºÙ„Ù‚">
+<!ENTITY  event.toolbar.delete.label                      "Ø­Ø°Ù">
+<!ENTITY  event.toolbar.attendees.label                   "Ø¥Ø¯Ø¹Ùˆ Ù„Ù„Ø­Ø¶ÙˆØ±">
+<!ENTITY  event.toolbar.spellcheck.label                  "ØªØ¯Ù‚ÙŠÙ‚ Ø¥Ù…Ù„Ø§Ø¦ÙŠ">
+<!ENTITY  event.toolbar.privacy.label                     "Ø§Ù„Ø®ØµÙˆØµÙŠØ©">
+<!ENTITY  event.toolbar.attachments.label                 "Ø¥Ù„Ø­Ù‚">
 
 <!-- Main page -->
-<!ENTITY event.title.textbox.label                        "ÇáÚäæÇä: " >
-<!ENTITY event.title.textbox.accesskey                    "Ú">
-<!ENTITY event.location.label                             "ÇáãßÇä: " >
-<!ENTITY event.location.accesskey                         "ß">
-<!ENTITY event.categories.label                           "ÇáÝÆÉ: ">
-<!ENTITY event.categories.accesskey                       "Ý">
-<!ENTITY event.calendar.label                             "ÇáÊÞæíã: " >
-<!ENTITY event.calendar.accesskey                         "æ">
-<!ENTITY event.attendees.label                            "ÇáÍÖæÑ: " >
-<!ENTITY event.attendees.accesskey                        "Ö" >
-<!ENTITY event.alldayevent.label                          "ÃÍÏÇË ßá Çáíæã" >
-<!ENTITY event.alldayevent.accesskey                      "í">
-<!ENTITY event.from.label                                 "ÇáÈÏÇíÉ: " >
-<!ENTITY event.from.accesskey                             "È">
-<!ENTITY task.from.label                                  "ÇáÈÏÇíÉ: " >
-<!ENTITY task.from.accesskey                              "É">
-<!ENTITY event.to.label                                   "ÇáäåÇíÉ: " >
-<!ENTITY event.to.accesskey                               "å">
-<!ENTITY task.to.label                                    "ÊÇÑíÎ ÇáÅÓÊÍÞÇÞ" >
-<!ENTITY task.to.accesskey                                "Î">
-<!ENTITY task.status.label                                "ÇáÍÇáÉ: " >
-<!ENTITY task.status.accesskey                            "Í">
-<!ENTITY event.repeat.label                               "ÇáÊßÑÇÑ: " >
-<!ENTITY event.repeat.accesskey                           "Ñ">
-<!ENTITY event.reminder.label                             "ÊÐßíÑ: " >
-<!ENTITY event.reminder.accesskey                         "í">
-<!ENTITY event.description.label                          "ÇáæÕÝ: " >
-<!ENTITY event.description.accesskey                      "Õ">
-<!ENTITY event.attachments.label                          "ÇáãÑÝÞÇÊ: " >
-<!ENTITY event.attachments.accesskey                      "ã" >
-<!ENTITY event.attachments.popup.remove.label             "ÍÐÝ" >
-<!ENTITY event.attachments.popup.remove.accesskey         "Ð" >
-<!ENTITY event.attachments.popup.open.label               "ÝÊÍ" >
-<!ENTITY event.attachments.popup.open.accesskey           "Ý" >
-<!ENTITY event.attachments.popup.removeAll.label          "ÍÐÝ Çáßá" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "ß" >
-<!ENTITY event.attachments.popup.attachPage.label         "ÅÑÝÞ ÕÝÍÉ äÊâ€¦" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "Ý" >
-<!ENTITY event.url.label                                  "ÑÇÈØ ÐÇ ÕáÉ: " >
-<!ENTITY event.priority2.label                            "ÇáÃÓÈÞíÉ">
+<!ENTITY event.title.textbox.label                        "Ø§Ù„Ø¹Ù†ÙˆØ§Ù†: " >
+<!ENTITY event.title.textbox.accesskey                    "Ø¹">
+<!ENTITY event.location.label                             "Ø§Ù„Ù…ÙƒØ§Ù†: " >
+<!ENTITY event.location.accesskey                         "Ùƒ">
+<!ENTITY event.categories.label                           "Ø§Ù„ÙØ¦Ø©: ">
+<!ENTITY event.categories.accesskey                       "Ù">
+<!ENTITY event.calendar.label                             "Ø§Ù„ØªÙ‚ÙˆÙŠÙ…: " >
+<!ENTITY event.calendar.accesskey                         "Ùˆ">
+<!ENTITY event.attendees.label                            "Ø§Ù„Ø­Ø¶ÙˆØ±: " >
+<!ENTITY event.attendees.accesskey                        "Ø¶" >
+<!ENTITY event.alldayevent.label                          "Ø£Ø­Ø¯Ø§Ø« ÙƒÙ„ Ø§Ù„ÙŠÙˆÙ…" >
+<!ENTITY event.alldayevent.accesskey                      "ÙŠ">
+<!ENTITY event.from.label                                 "Ø§Ù„Ø¨Ø¯Ø§ÙŠØ©: " >
+<!ENTITY event.from.accesskey                             "Ø¨">
+<!ENTITY task.from.label                                  "Ø§Ù„Ø¨Ø¯Ø§ÙŠØ©: " >
+<!ENTITY task.from.accesskey                              "Ø©">
+<!ENTITY event.to.label                                   "Ø§Ù„Ù†Ù‡Ø§ÙŠØ©: " >
+<!ENTITY event.to.accesskey                               "Ù‡">
+<!ENTITY task.to.label                                    "ØªØ§Ø±ÙŠØ® Ø§Ù„Ø¥Ø³ØªØ­Ù‚Ø§Ù‚" >
+<!ENTITY task.to.accesskey                                "Ø®">
+<!ENTITY task.status.label                                "Ø§Ù„Ø­Ø§Ù„Ø©: " >
+<!ENTITY task.status.accesskey                            "Ø­">
+<!ENTITY event.repeat.label                               "Ø§Ù„ØªÙƒØ±Ø§Ø±: " >
+<!ENTITY event.repeat.accesskey                           "Ø±">
+<!ENTITY event.reminder.label                             "ØªØ°ÙƒÙŠØ±: " >
+<!ENTITY event.reminder.accesskey                         "ÙŠ">
+<!ENTITY event.description.label                          "Ø§Ù„ÙˆØµÙ: " >
+<!ENTITY event.description.accesskey                      "Øµ">
+<!ENTITY event.attachments.label                          "Ø§Ù„Ù…Ø±ÙÙ‚Ø§Øª: " >
+<!ENTITY event.attachments.accesskey                      "Ù…" >
+<!ENTITY event.attachments.popup.remove.label             "Ø­Ø°Ù" >
+<!ENTITY event.attachments.popup.remove.accesskey         "Ø°" >
+<!ENTITY event.attachments.popup.open.label               "ÙØªØ­" >
+<!ENTITY event.attachments.popup.open.accesskey           "Ù" >
+<!ENTITY event.attachments.popup.removeAll.label          "Ø­Ø°Ù Ø§Ù„ÙƒÙ„" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "Ùƒ" >
+<!ENTITY event.attachments.popup.attachPage.label         "Ø¥Ø±ÙÙ‚ ØµÙØ­Ø© Ù†Øªâ€¦" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "Ù" >
+<!ENTITY event.url.label                                  "Ø±Ø§Ø¨Ø· Ø°Ø§ ØµÙ„Ø©: " >
+<!ENTITY event.priority2.label                            "Ø§Ù„Ø£Ø³Ø¨Ù‚ÙŠØ©">
 
-<!ENTITY event.reminder.none.label                        "ÈÏæä ÊÐßíÑ " >
-<!ENTITY event.reminder.5minutes.before.label             "ÞÈá 5 ÏÞÇÆÞ" >
-<!ENTITY event.reminder.10minutes.before.label            "ÞÈá 10 ÏÞÇÆÞ" >
-<!ENTITY event.reminder.15minutes.before.label            "ÞÈá 15 ÏÞÇÆÞ " >
-<!ENTITY event.reminder.30minutes.before.label            "ÞÈá 30 ÏÞÇÆÞ " >
-<!ENTITY event.reminder.45minutes.before.label            "ÞÈá 45 ÏÞÇÆÞ " >
-<!ENTITY event.reminder.1hour.before.label                "ÞÈá ÓÇÚÉ" >
-<!ENTITY event.reminder.2hours.before.label               "ÞÈá ÓÇÚÊÇä" >
-<!ENTITY event.reminder.5hours.before.label               "ÞÈá 5 ÓÇÚÇÊ" >
-<!ENTITY event.reminder.15hours.before.label              "ÞÈá 15 ÓÇÚÉ" >
-<!ENTITY event.reminder.1day.before.label                 "ÞÈá íæã" >
-<!ENTITY event.reminder.2days.before.label                "ÞÈá íæãÇä" >
-<!ENTITY event.reminder.1week.before.label                "ÞÈá ÅÓÈæÚ" >
-<!ENTITY event.reminder.custom.label                      "ãÎÕÕâ€¦" >
+<!ENTITY event.reminder.none.label                        "Ø¨Ø¯ÙˆÙ† ØªØ°ÙƒÙŠØ± " >
+<!ENTITY event.reminder.5minutes.before.label             "Ù‚Ø¨Ù„ 5 Ø¯Ù‚Ø§Ø¦Ù‚" >
+<!ENTITY event.reminder.10minutes.before.label            "Ù‚Ø¨Ù„ 10 Ø¯Ù‚Ø§Ø¦Ù‚" >
+<!ENTITY event.reminder.15minutes.before.label            "Ù‚Ø¨Ù„ 15 Ø¯Ù‚Ø§Ø¦Ù‚ " >
+<!ENTITY event.reminder.30minutes.before.label            "Ù‚Ø¨Ù„ 30 Ø¯Ù‚Ø§Ø¦Ù‚ " >
+<!ENTITY event.reminder.45minutes.before.label            "Ù‚Ø¨Ù„ 45 Ø¯Ù‚Ø§Ø¦Ù‚ " >
+<!ENTITY event.reminder.1hour.before.label                "Ù‚Ø¨Ù„ Ø³Ø§Ø¹Ø©" >
+<!ENTITY event.reminder.2hours.before.label               "Ù‚Ø¨Ù„ Ø³Ø§Ø¹ØªØ§Ù†" >
+<!ENTITY event.reminder.5hours.before.label               "Ù‚Ø¨Ù„ 5 Ø³Ø§Ø¹Ø§Øª" >
+<!ENTITY event.reminder.15hours.before.label              "Ù‚Ø¨Ù„ 15 Ø³Ø§Ø¹Ø©" >
+<!ENTITY event.reminder.1day.before.label                 "Ù‚Ø¨Ù„ ÙŠÙˆÙ…" >
+<!ENTITY event.reminder.2days.before.label                "Ù‚Ø¨Ù„ ÙŠÙˆÙ…Ø§Ù†" >
+<!ENTITY event.reminder.1week.before.label                "Ù‚Ø¨Ù„ Ø¥Ø³Ø¨ÙˆØ¹" >
+<!ENTITY event.reminder.custom.label                      "Ù…Ø®ØµØµâ€¦" >
 
-<!ENTITY event.reminder.multiple.label                    "ÊÐßíÑ ãÊÚÏÏÉsâ€¦" >
+<!ENTITY event.reminder.multiple.label                    "ØªØ°ÙƒÙŠØ± Ù…ØªØ¹Ø¯Ø¯Ø©sâ€¦" >
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         " ÚÏá ÇáÊßÑÇÑ">
+<!ENTITY recurrence.title.label                         " Ø¹Ø¯Ù„ Ø§Ù„ØªÙƒØ±Ø§Ø±">
 
-<!ENTITY event.repeat.does.not.repeat.label             "ÈÏæä ÊßÑÇÑ">
-<!ENTITY event.repeat.daily.label                       "íæãí">
-<!ENTITY event.repeat.weekly.label                      "ÃÓÈæÚí">
-<!ENTITY event.repeat.every.weekday.label               "ßá ÅÓÈæÚ">
-<!ENTITY event.repeat.bi.weekly.label                   "ßá ÅÓÈæÚíä">
-<!ENTITY event.repeat.monthly.label                     "ÔåÑí">
-<!ENTITY event.repeat.yearly.label                      "Óäæí">
-<!ENTITY event.repeat.custom.label                      "ãÎÕÕâ€¦">
+<!ENTITY event.repeat.does.not.repeat.label             "Ø¨Ø¯ÙˆÙ† ØªÙƒØ±Ø§Ø±">
+<!ENTITY event.repeat.daily.label                       "ÙŠÙˆÙ…ÙŠ">
+<!ENTITY event.repeat.weekly.label                      "Ø£Ø³Ø¨ÙˆØ¹ÙŠ">
+<!ENTITY event.repeat.every.weekday.label               "ÙƒÙ„ Ø¥Ø³Ø¨ÙˆØ¹">
+<!ENTITY event.repeat.bi.weekly.label                   "ÙƒÙ„ Ø¥Ø³Ø¨ÙˆØ¹ÙŠÙ†">
+<!ENTITY event.repeat.monthly.label                     "Ø´Ù‡Ø±ÙŠ">
+<!ENTITY event.repeat.yearly.label                      "Ø³Ù†ÙˆÙŠ">
+<!ENTITY event.repeat.custom.label                      "Ù…Ø®ØµØµâ€¦">
 
-<!ENTITY event.recurrence.pattern.label                 " äãØ ÇáÊßÑÇÑ">
-<!ENTITY event.recurrence.occurs.label                  "ÊßÑÇÑ" >
-<!ENTITY event.recurrence.day.label                     "íæãí" >
-<!ENTITY event.recurrence.week.label                    "ÅÓÈæÚí" >
-<!ENTITY event.recurrence.month.label                   "ÔåÑí" >
-<!ENTITY event.recurrence.year.label                    "Óäæí" >
+<!ENTITY event.recurrence.pattern.label                 " Ù†Ù…Ø· Ø§Ù„ØªÙƒØ±Ø§Ø±">
+<!ENTITY event.recurrence.occurs.label                  "ØªÙƒØ±Ø§Ø±" >
+<!ENTITY event.recurrence.day.label                     "ÙŠÙˆÙ…ÙŠ" >
+<!ENTITY event.recurrence.week.label                    "Ø¥Ø³Ø¨ÙˆØ¹ÙŠ" >
+<!ENTITY event.recurrence.month.label                   "Ø´Ù‡Ø±ÙŠ" >
+<!ENTITY event.recurrence.year.label                    "Ø³Ù†ÙˆÙŠ" >
 
-<!ENTITY event.recurrence.pattern.every.label           "ßá" >
-<!ENTITY repeat.units.days.both                         "íæã(ÃíÇã)" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "ßá ÅÓÈæÚ" >
+<!ENTITY event.recurrence.pattern.every.label           "ÙƒÙ„" >
+<!ENTITY repeat.units.days.both                         "ÙŠÙˆÙ…(Ø£ÙŠØ§Ù…)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "ÙƒÙ„ Ø¥Ø³Ø¨ÙˆØ¹" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "ßá" >
-<!ENTITY repeat.units.weeks.both                        "ÅÓÈæÚ (ÃÓÇÈíÚ)" >
-<!ENTITY event.recurrence.on.label                      " Úáì ãÇ íáí: " >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "ÙƒÙ„" >
+<!ENTITY repeat.units.weeks.both                        "Ø¥Ø³Ø¨ÙˆØ¹ (Ø£Ø³Ø§Ø¨ÙŠØ¹)" >
+<!ENTITY event.recurrence.on.label                      " Ø¹Ù„Ù‰ Ù…Ø§ ÙŠÙ„ÙŠ: " >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "ßá" >
-<!ENTITY repeat.units.months.both                       "ÔåÑ (ÔåæÑ)" >
-<!ENTITY event.recurrence.monthly.every.label           "ßá" >
-<!ENTITY event.recurrence.monthly.first.label           "ÇáÃæá">
-<!ENTITY event.recurrence.monthly.second.label          "ÇáËÇäí">
-<!ENTITY event.recurrence.monthly.third.label           "ÇáËÇáË">
-<!ENTITY event.recurrence.monthly.fourth.label          "ÇáÑÇÈÚ">
-<!ENTITY event.recurrence.monthly.fifth.label           "ÇáÎÇãÓ">
-<!ENTITY event.recurrence.monthly.last.label            "ÇáÃÎíÑ">
-<!ENTITY event.recurrence.pattern.monthly.week.1.label  "ÇáÃÍÏ" >
-<!ENTITY event.recurrence.pattern.monthly.week.2.label  "ÇáÃËäíä" >
-<!ENTITY event.recurrence.pattern.monthly.week.3.label  "ÇáËáÇËÇÁ" >
-<!ENTITY event.recurrence.pattern.monthly.week.4.label  "ÇáÃÑÈÚÇÁ" >
-<!ENTITY event.recurrence.pattern.monthly.week.5.label  "ÇáÎãíÓ" >
-<!ENTITY event.recurrence.pattern.monthly.week.6.label  "ÇáÌãÚÉ" >
-<!ENTITY event.recurrence.pattern.monthly.week.7.label  "ÇáÓÈÊ" >
-<!ENTITY event.recurrence.repeat.dayofmonth.label       " íæã ãä ÇáÔåÑ">
-<!ENTITY event.recurrence.repeat.recur.label            " ÊÊßÑÑ Ýí íæã(ÃíÇã)">
+<!ENTITY event.recurrence.pattern.monthly.every.label   "ÙƒÙ„" >
+<!ENTITY repeat.units.months.both                       "Ø´Ù‡Ø± (Ø´Ù‡ÙˆØ±)" >
+<!ENTITY event.recurrence.monthly.every.label           "ÙƒÙ„" >
+<!ENTITY event.recurrence.monthly.first.label           "Ø§Ù„Ø£ÙˆÙ„">
+<!ENTITY event.recurrence.monthly.second.label          "Ø§Ù„Ø«Ø§Ù†ÙŠ">
+<!ENTITY event.recurrence.monthly.third.label           "Ø§Ù„Ø«Ø§Ù„Ø«">
+<!ENTITY event.recurrence.monthly.fourth.label          "Ø§Ù„Ø±Ø§Ø¨Ø¹">
+<!ENTITY event.recurrence.monthly.fifth.label           "Ø§Ù„Ø®Ø§Ù…Ø³">
+<!ENTITY event.recurrence.monthly.last.label            "Ø§Ù„Ø£Ø®ÙŠØ±">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Ø§Ù„Ø£Ø­Ø¯" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Ø§Ù„Ø£Ø«Ù†ÙŠÙ†" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Ø§Ù„Ø®Ù…ÙŠØ³" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Ø§Ù„Ø¬Ù…Ø¹Ø©" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Ø§Ù„Ø³Ø¨Øª" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       " ÙŠÙˆÙ… Ù…Ù† Ø§Ù„Ø´Ù‡Ø±">
+<!ENTITY event.recurrence.repeat.recur.label            " ØªØªÙƒØ±Ø± ÙÙŠ ÙŠÙˆÙ…(Ø£ÙŠØ§Ù…)">
 
-<!ENTITY event.recurrence.every.label                        "ßá: " >
-<!ENTITY repeat.units.years.both                             "ÓäÉ (Óäíä)" >
-<!ENTITY event.recurrence.pattern.yearly.every.month.label   "ßá" >
+<!ENTITY event.recurrence.every.label                        "ÙƒÙ„: " >
+<!ENTITY repeat.units.years.both                             "Ø³Ù†Ø© (Ø³Ù†ÙŠÙ†)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "ÙƒÙ„" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -296,89 +296,89 @@
 -->
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
-<!ENTITY event.recurrence.pattern.yearly.month.1.label       "íäÇíÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month.2.label       "ÝÈÑÇíÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month.3.label       "ãÇÑÓ" >
-<!ENTITY event.recurrence.pattern.yearly.month.4.label       "ÇÈÑíá" >
-<!ENTITY event.recurrence.pattern.yearly.month.5.label       "ãÇíæ" >
-<!ENTITY event.recurrence.pattern.yearly.month.6.label       "íæäíæ" >
-<!ENTITY event.recurrence.pattern.yearly.month.7.label       "íæáíæ" >
-<!ENTITY event.recurrence.pattern.yearly.month.8.label       "ÃÛÓØÓ" >
-<!ENTITY event.recurrence.pattern.yearly.month.9.label       "ÓÈÊãÈÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month.10.label      "ÃßÊæÈÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month.11.label      "äæÝãÈÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month.12.label      "ÏíÓãÈÑ" >
-<!ENTITY event.recurrence.yearly.every.label                 "ßá">
-<!ENTITY event.recurrence.yearly.first.label                 "ÇáÃæá">
-<!ENTITY event.recurrence.yearly.second.label                "ÇáËÇäí">
-<!ENTITY event.recurrence.yearly.third.label                 "ÇáËÇáË">
-<!ENTITY event.recurrence.yearly.fourth.label                "ÇáÑÇÈÚ">
-<!ENTITY event.recurrence.yearly.fifth.label                 "ÇáÎÇãÓ">
-<!ENTITY event.recurrence.yearly.last.label                  "ÇáÃÎíÑ">
-<!ENTITY event.recurrence.pattern.yearly.week.1.label        "ÇáÃÍÏ" >
-<!ENTITY event.recurrence.pattern.yearly.week.2.label        "ÇáÃËäíä" >
-<!ENTITY event.recurrence.pattern.yearly.week.3.label        "ÇáËáÇËÇÁ" >
-<!ENTITY event.recurrence.pattern.yearly.week.4.label        "ÇáÃÑÈÚÇÁ" >
-<!ENTITY event.recurrence.pattern.yearly.week.5.label        "ÇáÎãíÓ" >
-<!ENTITY event.recurrence.pattern.yearly.week.6.label        "ÇáÌãÚÉ" >
-<!ENTITY event.recurrence.pattern.yearly.week.7.label        "ÇáÓÈÊ" >
-<!ENTITY event.recurrence.of.label                           "ãä" >
-<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "íäÇíÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "ÝÈÑÇíÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "ãÇÑÓ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "ÇÈÑíá" >
-<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "ãÇíæ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "íæäíæ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "íæáíæ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "ÃÛÓØÓ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "ÓÈÊãÈÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "ÃßÊæÈÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "äæÝãÈÑ" >
-<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "ÏíÓãÈÑ" >
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "ÙŠÙ†Ø§ÙŠØ±" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "ÙØ¨Ø±Ø§ÙŠØ±" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Ù…Ø§Ø±Ø³" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Ø§Ø¨Ø±ÙŠÙ„" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Ù…Ø§ÙŠÙˆ" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "ÙŠÙˆÙ†ÙŠÙˆ" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "ÙŠÙˆÙ„ÙŠÙˆ" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Ø£ØºØ³Ø·Ø³" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Ø³Ø¨ØªÙ…Ø¨Ø±" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Ø£ÙƒØªÙˆØ¨Ø±" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Ù†ÙˆÙÙ…Ø¨Ø±" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Ø¯ÙŠØ³Ù…Ø¨Ø±" >
+<!ENTITY event.recurrence.yearly.every.label                 "ÙƒÙ„">
+<!ENTITY event.recurrence.yearly.first.label                 "Ø§Ù„Ø£ÙˆÙ„">
+<!ENTITY event.recurrence.yearly.second.label                "Ø§Ù„Ø«Ø§Ù†ÙŠ">
+<!ENTITY event.recurrence.yearly.third.label                 "Ø§Ù„Ø«Ø§Ù„Ø«">
+<!ENTITY event.recurrence.yearly.fourth.label                "Ø§Ù„Ø±Ø§Ø¨Ø¹">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Ø§Ù„Ø®Ø§Ù…Ø³">
+<!ENTITY event.recurrence.yearly.last.label                  "Ø§Ù„Ø£Ø®ÙŠØ±">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Ø§Ù„Ø£Ø­Ø¯" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Ø§Ù„Ø£Ø«Ù†ÙŠÙ†" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Ø§Ù„Ø®Ù…ÙŠØ³" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Ø§Ù„Ø¬Ù…Ø¹Ø©" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Ø§Ù„Ø³Ø¨Øª" >
+<!ENTITY event.recurrence.of.label                           "Ù…Ù†" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "ÙŠÙ†Ø§ÙŠØ±" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "ÙØ¨Ø±Ø§ÙŠØ±" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Ù…Ø§Ø±Ø³" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Ø§Ø¨Ø±ÙŠÙ„" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Ù…Ø§ÙŠÙˆ" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "ÙŠÙˆÙ†ÙŠÙˆ" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "ÙŠÙˆÙ„ÙŠÙˆ" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Ø£ØºØ³Ø·Ø³" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Ø³Ø¨ØªÙ…Ø¨Ø±" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Ø£ÙƒØªÙˆØ¨Ø±" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Ù†ÙˆÙÙ…Ø¨Ø±" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Ø¯ÙŠØ³Ù…Ø¨Ø±" >
 
-<!ENTITY event.recurrence.range.label                   "ãÌãæÚÉ ãÊßÑÑÉ">
-<!ENTITY event.recurrence.forever.label                 "ÈÏæä ÊÇÑíÎ äåÇíÉ" >
-<!ENTITY event.recurrence.repeat.for.label              "ÅäÔìÁ" >
-<!ENTITY event.recurrence.appointments.label            "ãíÚÇÏ (ãæÇÚíÏ)" >
-<!ENTITY event.repeat.until.label                       "íÊßÑÑ ÍÊì" >
-<!ENTITY event.recurrence.preview.label                 "ãÚÇíäÉ">
+<!ENTITY event.recurrence.range.label                   "Ù…Ø¬Ù…ÙˆØ¹Ø© Ù…ØªÙƒØ±Ø±Ø©">
+<!ENTITY event.recurrence.forever.label                 "Ø¨Ø¯ÙˆÙ† ØªØ§Ø±ÙŠØ® Ù†Ù‡Ø§ÙŠØ©" >
+<!ENTITY event.recurrence.repeat.for.label              "Ø¥Ù†Ø´Ù‰Ø¡" >
+<!ENTITY event.recurrence.appointments.label            "Ù…ÙŠØ¹Ø§Ø¯ (Ù…ÙˆØ§Ø¹ÙŠØ¯)" >
+<!ENTITY event.repeat.until.label                       "ÙŠØªÙƒØ±Ø± Ø­ØªÙ‰" >
+<!ENTITY event.recurrence.preview.label                 "Ù…Ø¹Ø§ÙŠÙ†Ø©">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label                     "ÅÏÚæ ááÍÖæÑ">
-<!ENTITY event.organizer.label                  "ÇáãäÙã">
-<!ENTITY event.freebusy.suggest.slot            "ÅÞÊÑÍ ÝÊÑÉ ãä ÇáæÞÊ: ">
-<!ENTITY event.freebusy.next.slot               "ÇáÝÊÑÉ ÇáÃÎÑí" >
-<!ENTITY event.freebusy.previous.slot           " ÇáÝÊÑÉ ÇáÓÇÈÞÉ" >
-<!ENTITY event.freebusy.zoom                    "ÇáÊßÈíÑ: ">
-<!ENTITY event.freebusy.plus                    "ÇáÓÇÚÉ ÇáÊÇáíÉ" >
-<!ENTITY event.freebusy.minus                   "ÇáÓÇÚÉ ÇáÓÇÈÞÉ" >
-<!ENTITY event.freebusy.legend.free             "ÍÑ" >
-<!ENTITY event.freebusy.legend.busy             "ãÔÛæá" >
-<!ENTITY event.freebusy.legend.busy_tentative   "ãÄÞÊ" >
-<!ENTITY event.freebusy.legend.busy_unavailable "ÎÇÑÌ ÇáãßÊÈ" >
-<!ENTITY event.freebusy.legend.unknown          "áÇ ÊæÌÏ ãÚáæãÇÊ" >
-<!ENTITY event.attendee.role.required           "ãØáæÈ ááÍÖæÑ">
-<!ENTITY event.attendee.role.optional           "ÍÖæÑ ÅÎÊíÇÑí">
-<!ENTITY event.attendee.role.chair              "ßÑÓí">
+<!ENTITY invite.title.label                     "Ø¥Ø¯Ø¹Ùˆ Ù„Ù„Ø­Ø¶ÙˆØ±">
+<!ENTITY event.organizer.label                  "Ø§Ù„Ù…Ù†Ø¸Ù…">
+<!ENTITY event.freebusy.suggest.slot            "Ø¥Ù‚ØªØ±Ø­ ÙØªØ±Ø© Ù…Ù† Ø§Ù„ÙˆÙ‚Øª: ">
+<!ENTITY event.freebusy.next.slot               "Ø§Ù„ÙØªØ±Ø© Ø§Ù„Ø£Ø®Ø±ÙŠ" >
+<!ENTITY event.freebusy.previous.slot           " Ø§Ù„ÙØªØ±Ø© Ø§Ù„Ø³Ø§Ø¨Ù‚Ø©" >
+<!ENTITY event.freebusy.zoom                    "Ø§Ù„ØªÙƒØ¨ÙŠØ±: ">
+<!ENTITY event.freebusy.plus                    "Ø§Ù„Ø³Ø§Ø¹Ø© Ø§Ù„ØªØ§Ù„ÙŠØ©" >
+<!ENTITY event.freebusy.minus                   "Ø§Ù„Ø³Ø§Ø¹Ø© Ø§Ù„Ø³Ø§Ø¨Ù‚Ø©" >
+<!ENTITY event.freebusy.legend.free             "Ø­Ø±" >
+<!ENTITY event.freebusy.legend.busy             "Ù…Ø´ØºÙˆÙ„" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Ù…Ø¤Ù‚Øª" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Ø®Ø§Ø±Ø¬ Ø§Ù„Ù…ÙƒØªØ¨" >
+<!ENTITY event.freebusy.legend.unknown          "Ù„Ø§ ØªÙˆØ¬Ø¯ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª" >
+<!ENTITY event.attendee.role.required           "Ù…Ø·Ù„ÙˆØ¨ Ù„Ù„Ø­Ø¶ÙˆØ±">
+<!ENTITY event.attendee.role.optional           "Ø­Ø¶ÙˆØ± Ø¥Ø®ØªÙŠØ§Ø±ÙŠ">
+<!ENTITY event.attendee.role.chair              "ÙƒØ±Ø³ÙŠ">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "ãä ÝÖáß ÅÎÊÇÑ ÊæÞíÊß">
+<!ENTITY timezone.title.label            "Ù…Ù† ÙØ¶Ù„Ùƒ Ø¥Ø®ØªØ§Ø± ØªÙˆÙ‚ÙŠØªÙƒ">
 
 <!-- Read-Only dialog -->
-<!ENTITY read.only.general.label         "ÚÇã">
-<!ENTITY read.only.title.label           "ÇáÚäæÇä: ">
-<!ENTITY read.only.repeat.label          "ÇáÊßÑÇÑ: ">
-<!ENTITY read.only.location.label        "ÇáãßÇä: ">
-<!ENTITY read.only.category.label        "ÇáÊÕäíÝ: ">
-<!ENTITY read.only.organizer.label       "ÇáãäÙã: ">
-<!ENTITY read.only.reply.label           "ÇáÑÏ: ">
-<!ENTITY read.only.accept.label          "ÓæÝ ÃÍÖÑ">
-<!ENTITY read.only.decline.label         "áä ÃÍÖÑ">
-<!ENTITY read.only.tentative.label       "ããßä ÇáÍÖæÑ">
-<!ENTITY read.only.needs.action.label    "ÓæÝ ÃÄßÏ áÇÍÞÇð">
-<!ENTITY read.only.reminder.label        "ÇáÊäÈíå: ">
-<!ENTITY read.only.attendees.label       "ÇáÍÖæÑ: ">
-<!ENTITY read.only.description.label     "ÇáæÕÝ">
-<!ENTITY read.only.documents.label       "ÇáãÓÊäÏÇÊ">
-<!ENTITY read.only.link.label            " ÑæÇÈØ ÐÇÊ ÕáÉ">
+<!ENTITY read.only.general.label         "Ø¹Ø§Ù…">
+<!ENTITY read.only.title.label           "Ø§Ù„Ø¹Ù†ÙˆØ§Ù†: ">
+<!ENTITY read.only.repeat.label          "Ø§Ù„ØªÙƒØ±Ø§Ø±: ">
+<!ENTITY read.only.location.label        "Ø§Ù„Ù…ÙƒØ§Ù†: ">
+<!ENTITY read.only.category.label        "Ø§Ù„ØªØµÙ†ÙŠÙ: ">
+<!ENTITY read.only.organizer.label       "Ø§Ù„Ù…Ù†Ø¸Ù…: ">
+<!ENTITY read.only.reply.label           "Ø§Ù„Ø±Ø¯: ">
+<!ENTITY read.only.accept.label          "Ø³ÙˆÙ Ø£Ø­Ø¶Ø±">
+<!ENTITY read.only.decline.label         "Ù„Ù† Ø£Ø­Ø¶Ø±">
+<!ENTITY read.only.tentative.label       "Ù…Ù…ÙƒÙ† Ø§Ù„Ø­Ø¶ÙˆØ±">
+<!ENTITY read.only.needs.action.label    "Ø³ÙˆÙ Ø£Ø¤ÙƒØ¯ Ù„Ø§Ø­Ù‚Ø§Ù‹">
+<!ENTITY read.only.reminder.label        "Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡: ">
+<!ENTITY read.only.attendees.label       "Ø§Ù„Ø­Ø¶ÙˆØ±: ">
+<!ENTITY read.only.description.label     "Ø§Ù„ÙˆØµÙ">
+<!ENTITY read.only.documents.label       "Ø§Ù„Ù…Ø³ØªÙ†Ø¯Ø§Øª">
+<!ENTITY read.only.link.label            " Ø±ÙˆØ§Ø¨Ø· Ø°Ø§Øª ØµÙ„Ø©">
 

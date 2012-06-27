@@ -35,16 +35,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY gdata-provider.label "ÊÞæíã ÌæÌá">
+<!ENTITY gdata-provider.label "ØªÙ‚ÙˆÙŠÙ… Ø¬ÙˆØ¬Ù„">
 
-<!ENTITY gdata.privacy.default.label "ÌæÌá ÇáÅÝÊÑÇÖì">
-<!ENTITY gdata.privacy.default.accesskey "Ý>
+<!ENTITY gdata.privacy.default.label "Ø¬ÙˆØ¬Ù„ Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶Ù‰">
+<!ENTITY gdata.privacy.default.accesskey "Ù>
 
-<!ENTITY gdata.migration.title "ÑÍá ÊÞÇæíã ÇáÞÑÇÁÉ ÝÞØ">
-<!ENTITY gdata.migration.description "ãÞÏã ÎÏãÉ ÊÞæíã ÌæÌá ßÔÝ æÌæÏ ÊÞæíã áÇ íãßä ÇáÏÎæá Åáíå ÅáÇ Ýì æÖÚ ÇáÞÑÇÁÉ ÝÞØ. ÅÐÇ ÃÑÏ ÊÍÏíË åÐÇ ÇáÊÞæíã¡ ÅÎÊÇÑå ãä ÃÓÝá">
-<!ENTITY gdata.migration.upgrade.label "ÍÏË">
-<!ENTITY gdata.migration.upgrade.accesskey "Ë">
-<!ENTITY gdata.migration.showagain.label "ÝÍÕ ÏÇÆã">
+<!ENTITY gdata.migration.title "Ø±Ø­Ù„ ØªÙ‚Ø§ÙˆÙŠÙ… Ø§Ù„Ù‚Ø±Ø§Ø¡Ø© ÙÙ‚Ø·">
+<!ENTITY gdata.migration.description "Ù…Ù‚Ø¯Ù… Ø®Ø¯Ù…Ø© ØªÙ‚ÙˆÙŠÙ… Ø¬ÙˆØ¬Ù„ ÙƒØ´Ù ÙˆØ¬ÙˆØ¯ ØªÙ‚ÙˆÙŠÙ… Ù„Ø§ ÙŠÙ…ÙƒÙ† Ø§Ù„Ø¯Ø®ÙˆÙ„ Ø¥Ù„ÙŠÙ‡ Ø¥Ù„Ø§ ÙÙ‰ ÙˆØ¶Ø¹ Ø§Ù„Ù‚Ø±Ø§Ø¡Ø© ÙÙ‚Ø·. Ø¥Ø°Ø§ Ø£Ø±Ø¯ ØªØ­Ø¯ÙŠØ« Ù‡Ø°Ø§ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…ØŒ Ø¥Ø®ØªØ§Ø±Ù‡ Ù…Ù† Ø£Ø³ÙÙ„">
+<!ENTITY gdata.migration.upgrade.label "Ø­Ø¯Ø«">
+<!ENTITY gdata.migration.upgrade.accesskey "Ø«">
+<!ENTITY gdata.migration.showagain.label "ÙØ­Øµ Ø¯Ø§Ø¦Ù…">
 
-<!ENTITY gdata.reminder.action.sms.label "ÃÑÓá ÑÓÇáÉ äÕíÉ">
+<!ENTITY gdata.reminder.action.sms.label "Ø£Ø±Ø³Ù„ Ø±Ø³Ø§Ù„Ø© Ù†ØµÙŠØ©">
 

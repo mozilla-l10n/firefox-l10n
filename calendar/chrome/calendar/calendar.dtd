@@ -44,297 +44,297 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.calendar.label     "ÇáÊÞæíã">
-<!ENTITY calendar.calendar.accesskey "Þ">
+<!ENTITY calendar.calendar.label     "Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.calendar.accesskey "Ù‚">
 
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
 <!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.newevent.button.tooltip         "ÅäÔìÁ ÍÏË ÌÏíÏ" >
-<!ENTITY calendar.newtask.button.tooltip          "ÅäÔìÁ ãåãÉ ÍÏÈÏÉ" >
+<!ENTITY calendar.newevent.button.tooltip         "Ø¥Ù†Ø´Ù‰Ø¡ Ø­Ø¯Ø« Ø¬Ø¯ÙŠØ¯" >
+<!ENTITY calendar.newtask.button.tooltip          "Ø¥Ù†Ø´Ù‰Ø¡ Ù…Ù‡Ù…Ø© Ø­Ø¯Ø¨Ø¯Ø©" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "ãåãÇÊ" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "ÅÚÑÕ ÇáãåãÇÊ ÇáßÊãáÉ">
+<!ENTITY calendar.unifinder.todoitems.label       "Ù…Ù‡Ù…Ø§Øª" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Ø¥Ø¹Ø±Øµ Ø§Ù„Ù…Ù‡Ù…Ø§Øª Ø§Ù„ÙƒØªÙ…Ù„Ø©">
 
-<!ENTITY calendar.today.button.label       "Çáíæã">
-<!ENTITY calendar.tomorrow.button.label       "ÇáÛÏ">
-<!ENTITY calendar.soon.button.label           "ÝÑíÈÇð">
+<!ENTITY calendar.today.button.label       "Ø§Ù„ÙŠÙˆÙ…">
+<!ENTITY calendar.tomorrow.button.label       "Ø§Ù„ØºØ¯">
+<!ENTITY calendar.soon.button.label           "ÙØ±ÙŠØ¨Ø§Ù‹">
 
-<!ENTITY calendar.events.filter.all.label "ßá ÇáÃÍÏÇË">
-<!ENTITY calendar.events.filter.today.label "ÃÎÏÇË Çáíæã">
-<!ENTITY calendar.events.filter.future.label "ÇáÃÍÏÇË ÇáãÓÊÞÈáíÉ">
-<!ENTITY calendar.events.filter.current.label "Çáíæã ÇáãÎÊÇÑ">
-<!ENTITY calendar.events.filter.next7Days.label "ÇáÃÍÏÇË Ýì ÇáÓíÚ ÃíÇã ÇáÝÇÏãÉ">
-<!ENTITY calendar.events.filter.next14Days.label "ÇáÃÍÏÇË Ýì ÇáÜ14 íæã ÇáÇÝÏãíä">
-<!ENTITY calendar.events.filter.next31Days.label "ÇáÃÍÏÇË Ýì ÇáÜ31 íæã ÇáÞÇÏãíä">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "ÇáÃÍÏÇË Ýì åÐÇ ÇáÔåÑ">
+<!ENTITY calendar.events.filter.all.label "ÙƒÙ„ Ø§Ù„Ø£Ø­Ø¯Ø§Ø«">
+<!ENTITY calendar.events.filter.today.label "Ø£Ø®Ø¯Ø§Ø« Ø§Ù„ÙŠÙˆÙ…">
+<!ENTITY calendar.events.filter.future.label "Ø§Ù„Ø£Ø­Ø¯Ø§Ø« Ø§Ù„Ù…Ø³ØªÙ‚Ø¨Ù„ÙŠØ©">
+<!ENTITY calendar.events.filter.current.label "Ø§Ù„ÙŠÙˆÙ… Ø§Ù„Ù…Ø®ØªØ§Ø±">
+<!ENTITY calendar.events.filter.next7Days.label "Ø§Ù„Ø£Ø­Ø¯Ø§Ø« ÙÙ‰ Ø§Ù„Ø³ÙŠØ¹ Ø£ÙŠØ§Ù… Ø§Ù„ÙØ§Ø¯Ù…Ø©">
+<!ENTITY calendar.events.filter.next14Days.label "Ø§Ù„Ø£Ø­Ø¯Ø§Ø« ÙÙ‰ Ø§Ù„Ù€14 ÙŠÙˆÙ… Ø§Ù„Ø§ÙØ¯Ù…ÙŠÙ†">
+<!ENTITY calendar.events.filter.next31Days.label "Ø§Ù„Ø£Ø­Ø¯Ø§Ø« ÙÙ‰ Ø§Ù„Ù€31 ÙŠÙˆÙ… Ø§Ù„Ù‚Ø§Ø¯Ù…ÙŠÙ†">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Ø§Ù„Ø£Ø­Ø¯Ø§Ø« ÙÙ‰ Ù‡Ø°Ø§ Ø§Ù„Ø´Ù‡Ø±">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Êã">
-<!ENTITY calendar.unifinder.tree.priority.label      "ÇáÃÓÈÞíÉ">
-<!ENTITY calendar.unifinder.tree.title.label         "ÇáÚäæÇä">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; ÃäÊåì">
-<!ENTITY calendar.unifinder.tree.startdate.label     "ÇáÈÏÇíÉ">
-<!ENTITY calendar.unifinder.tree.enddate.label       "ÇáäåÇíÉ">
-<!ENTITY calendar.unifinder.tree.duedate.label       "ãÓÊÍÞ">
-<!ENTITY calendar.unifinder.tree.completeddate.label "íäÊåí Ýì">
-<!ENTITY calendar.unifinder.tree.categories.label    "ÊÕäíÝ">
-<!ENTITY calendar.unifinder.tree.location.label      "ÇáãßÇä">
-<!ENTITY calendar.unifinder.tree.status.label        "ÇáÍÇáÉ">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "ÅÓã ÇáÊÞæíã">
-<!ENTITY calendar.unifinder.tree.duration.label      "ãÓÊÍÞ Ýì">
-<!ENTITY calendar.unifinder.close.tooltip            "ÅÛáÞ äÇÝÐÉ ÈÍË ÇáÍÏË æ ÞÇÆãÉ ÇáÍÏË">
+<!ENTITY calendar.unifinder.tree.done.label          "ØªÙ…">
+<!ENTITY calendar.unifinder.tree.priority.label      "Ø§Ù„Ø£Ø³Ø¨Ù‚ÙŠØ©">
+<!ENTITY calendar.unifinder.tree.title.label         "Ø§Ù„Ø¹Ù†ÙˆØ§Ù†">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Ø£Ù†ØªÙ‡Ù‰">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Ø§Ù„Ø¨Ø¯Ø§ÙŠØ©">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Ø§Ù„Ù†Ù‡Ø§ÙŠØ©">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Ù…Ø³ØªØ­Ù‚">
+<!ENTITY calendar.unifinder.tree.completeddate.label "ÙŠÙ†ØªÙ‡ÙŠ ÙÙ‰">
+<!ENTITY calendar.unifinder.tree.categories.label    "ØªØµÙ†ÙŠÙ">
+<!ENTITY calendar.unifinder.tree.location.label      "Ø§Ù„Ù…ÙƒØ§Ù†">
+<!ENTITY calendar.unifinder.tree.status.label        "Ø§Ù„Ø­Ø§Ù„Ø©">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "Ø¥Ø³Ù… Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.unifinder.tree.duration.label      "Ù…Ø³ØªØ­Ù‚ ÙÙ‰">
+<!ENTITY calendar.unifinder.close.tooltip            "Ø¥ØºÙ„Ù‚ Ù†Ø§ÙØ°Ø© Ø¨Ø­Ø« Ø§Ù„Ø­Ø¯Ø« Ùˆ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø­Ø¯Ø«">
 
-<!ENTITY calendar.today.button.tooltip            "ÅÐåÈ Çáì íæã" >
-<!ENTITY calendar.todaypane.button.tooltip        "ÅÚÑÖ ÇÍÏÇË Çáíæã" >
+<!ENTITY calendar.today.button.tooltip            "Ø¥Ø°Ù‡Ø¨ Ø§Ù„Ù‰ ÙŠÙˆÙ…" >
+<!ENTITY calendar.todaypane.button.tooltip        "Ø¥Ø¹Ø±Ø¶ Ø§Ø­Ø¯Ø§Ø« Ø§Ù„ÙŠÙˆÙ…" >
 
-<!ENTITY calendar.day.button.tooltip            " ÇáÊÈÏíá Åáì ÚÑÖ Çáíæã" >
-<!ENTITY calendar.week.button.tooltip           " ÇáÊÈÏíá Åáì ÚÑÖ ÇáÇÓÈæÚ" >
-<!ENTITY calendar.month.button.tooltip          " ÇáÊÈÏíá Åáì ÚÑÖ ÇáÔåÑ" >
-<!ENTITY calendar.multiweek.button.tooltip      " ÇáÊÈÏíá Åáì ÚÑÖ ãÊÚÏÏ ÇáÃÓÇÈíÚ " >
+<!ENTITY calendar.day.button.tooltip            " Ø§Ù„ØªØ¨Ø¯ÙŠÙ„ Ø¥Ù„Ù‰ Ø¹Ø±Ø¶ Ø§Ù„ÙŠÙˆÙ…" >
+<!ENTITY calendar.week.button.tooltip           " Ø§Ù„ØªØ¨Ø¯ÙŠÙ„ Ø¥Ù„Ù‰ Ø¹Ø±Ø¶ Ø§Ù„Ø§Ø³Ø¨ÙˆØ¹" >
+<!ENTITY calendar.month.button.tooltip          " Ø§Ù„ØªØ¨Ø¯ÙŠÙ„ Ø¥Ù„Ù‰ Ø¹Ø±Ø¶ Ø§Ù„Ø´Ù‡Ø±" >
+<!ENTITY calendar.multiweek.button.tooltip      " Ø§Ù„ØªØ¨Ø¯ÙŠÙ„ Ø¥Ù„Ù‰ Ø¹Ø±Ø¶ Ù…ØªØ¹Ø¯Ø¯ Ø§Ù„Ø£Ø³Ø§Ø¨ÙŠØ¹ " >
 
-<!ENTITY calendar.nextday.button.tooltip        "Çáíæã ÇáÊÇáí" >
-<!ENTITY calendar.prevday.button.tooltip        "Çáíæã ÇáÓÇÈÞ" >
-<!ENTITY calendar.nextweek.button.tooltip       "ÇáÃÓÈæÚ ÇáÊÇáí" >
-<!ENTITY calendar.prevweek.button.tooltip       "ÇáÃÓÈæÚ ÇáÓÇÈÞ" >
-<!ENTITY calendar.nextmonth.button.tooltip      "ÇáÔåÑ ÇáÊÇáí" >
-<!ENTITY calendar.prevmonth.button.tooltip      "ÇáÔåÑ ÇáÓÇÈÞ" >
+<!ENTITY calendar.nextday.button.tooltip        "Ø§Ù„ÙŠÙˆÙ… Ø§Ù„ØªØ§Ù„ÙŠ" >
+<!ENTITY calendar.prevday.button.tooltip        "Ø§Ù„ÙŠÙˆÙ… Ø§Ù„Ø³Ø§Ø¨Ù‚" >
+<!ENTITY calendar.nextweek.button.tooltip       "Ø§Ù„Ø£Ø³Ø¨ÙˆØ¹ Ø§Ù„ØªØ§Ù„ÙŠ" >
+<!ENTITY calendar.prevweek.button.tooltip       "Ø§Ù„Ø£Ø³Ø¨ÙˆØ¹ Ø§Ù„Ø³Ø§Ø¨Ù‚" >
+<!ENTITY calendar.nextmonth.button.tooltip      "Ø§Ù„Ø´Ù‡Ø± Ø§Ù„ØªØ§Ù„ÙŠ" >
+<!ENTITY calendar.prevmonth.button.tooltip      "Ø§Ù„Ø´Ù‡Ø± Ø§Ù„Ø³Ø§Ø¨Ù‚" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    " íæã æÇÍÏ Åáì ÇáÃãÇã" >
-<!ENTITY calendar.navigation.prevday.tooltip    " ÚæÏÉ íæã æÇÍÏ" >
-<!ENTITY calendar.navigation.nextweek.tooltip   " ÃÓÈæÚ æÇÍÏ Åáì ÇáÃãÇã" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "ÚæÏÉ ÅÓÈæÚ æÇÍÏ" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "ÔåÑ æÇÍÏ Çáì ÇáÃãÇã" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "ÚæÏÉ ÔåÑ æÇÍÏ" >
+<!ENTITY calendar.navigation.nextday.tooltip    " ÙŠÙˆÙ… ÙˆØ§Ø­Ø¯ Ø¥Ù„Ù‰ Ø§Ù„Ø£Ù…Ø§Ù…" >
+<!ENTITY calendar.navigation.prevday.tooltip    " Ø¹ÙˆØ¯Ø© ÙŠÙˆÙ… ÙˆØ§Ø­Ø¯" >
+<!ENTITY calendar.navigation.nextweek.tooltip   " Ø£Ø³Ø¨ÙˆØ¹ ÙˆØ§Ø­Ø¯ Ø¥Ù„Ù‰ Ø§Ù„Ø£Ù…Ø§Ù…" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Ø¹ÙˆØ¯Ø© Ø¥Ø³Ø¨ÙˆØ¹ ÙˆØ§Ø­Ø¯" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Ø´Ù‡Ø± ÙˆØ§Ø­Ø¯ Ø§Ù„Ù‰ Ø§Ù„Ø£Ù…Ø§Ù…" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Ø¹ÙˆØ¯Ø© Ø´Ù‡Ø± ÙˆØ§Ø­Ø¯" >
 
-<!ENTITY calendar.newevent.button.label         "ÍÏË ÌÏíÏ" >
-<!ENTITY calendar.newtask.button.label          "ãåãÉ ÌÏíÏÉ" >
-<!ENTITY calendar.print.button.label            "ØÈÇÚÉ" >
+<!ENTITY calendar.newevent.button.label         "Ø­Ø¯Ø« Ø¬Ø¯ÙŠØ¯" >
+<!ENTITY calendar.newtask.button.label          "Ù…Ù‡Ù…Ø© Ø¬Ø¯ÙŠØ¯Ø©" >
+<!ENTITY calendar.print.button.label            "Ø·Ø¨Ø§Ø¹Ø©" >
 
-<!ENTITY calendar.export.calendar                ÊÕÏíÑ ÊÞæíãâ€¦" >
+<!ENTITY calendar.export.calendar                ØªØµØ¯ÙŠØ± ØªÙ‚ÙˆÙŠÙ…â€¦" >
 
-<!ENTITY calendar.day.button.label              "íæã" >
-<!ENTITY calendar.week.button.label             "ÃÓÈæÚ" >
-<!ENTITY calendar.month.button.label            "ÔåÑ" >
-<!ENTITY calendar.multiweek.button.label        "ÚÏÉ ÃÓÇÈíÚ" >
-<!ENTITY calendar.onlyworkday.checkbox.label    " ÃÓÈæÚ ÇáÚãá ÃíÇã ÝÞØ" >
-<!ENTITY calendar.onlyworkday.checkbox.accesskey  "Ú" >
-<!ENTITY calendar.displaytodos.checkbox.label   "ÚÑÖ ãåãÇÊ" >
-<!ENTITY calendar.displaytodos.checkbox.accesskey "Ê" >
-<!ENTITY calendar.completedtasks.checkbox.label     "ÚÑÖ ÇáãåãÇÊ ÇáãßÊãáÉ" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "ß" >
+<!ENTITY calendar.day.button.label              "ÙŠÙˆÙ…" >
+<!ENTITY calendar.week.button.label             "Ø£Ø³Ø¨ÙˆØ¹" >
+<!ENTITY calendar.month.button.label            "Ø´Ù‡Ø±" >
+<!ENTITY calendar.multiweek.button.label        "Ø¹Ø¯Ø© Ø£Ø³Ø§Ø¨ÙŠØ¹" >
+<!ENTITY calendar.onlyworkday.checkbox.label    " Ø£Ø³Ø¨ÙˆØ¹ Ø§Ù„Ø¹Ù…Ù„ Ø£ÙŠØ§Ù… ÙÙ‚Ø·" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "Ø¹" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Ø¹Ø±Ø¶ Ù…Ù‡Ù…Ø§Øª" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "Øª" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Ø¹Ø±Ø¶ Ø§Ù„Ù…Ù‡Ù…Ø§Øª Ø§Ù„Ù…ÙƒØªÙ…Ù„Ø©" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "Ùƒ" >
 
-<!ENTITY calendar.orientation.label "ÊÏæíÑ ÇáÚÑÖ" >
-<!ENTITY calendar.orientation.accesskey "Ö" >
+<!ENTITY calendar.orientation.label "ØªØ¯ÙˆÙŠØ± Ø§Ù„Ø¹Ø±Ø¶" >
+<!ENTITY calendar.orientation.accesskey "Ø¶" >
 
-<!ENTITY calendar.search.options.searchfor " ÊÖãä">
+<!ENTITY calendar.search.options.searchfor " ØªØ¶Ù…Ù†">
 
-<!ENTITY calendar.list.header.label                 "ÊÞæíã">
+<!ENTITY calendar.list.header.label                 "ØªÙ‚ÙˆÙŠÙ…">
 
-<!ENTITY calendar.task.filter.title.label           "ÚÑÖ">
-<!ENTITY calendar.task.filter.all.label             "Çáßá">
-<!ENTITY calendar.task.filter.all.accesskey         "á">
-<!ENTITY calendar.task.filter.today.label           "Çáíæã">
-<!ENTITY calendar.task.filter.today.accesskey       "æ">
-<!ENTITY calendar.task.filter.next7days.label       " ÇáÇíÇã ÇáÓÈÚÉ ÇáãÞÈáÉ">
-<!ENTITY calendar.task.filter.next7days.accesskey   "ã">
-<!ENTITY calendar.task.filter.notstarted.label      "ÇáãåÇã ÇáÊì áã ÊÈÏÃ">
-<!ENTITY calendar.task.filter.notstarted.accesskey  "å">
-<!ENTITY calendar.task.filter.overdue.label         " ÇáãåÇã ÇáãÊÃÎÑÉ ">
-<!ENTITY calendar.task.filter.overdue.accesskey     "Î">
-<!ENTITY calendar.task.filter.completed.label       "ÇáãåÇã ÇáãäÊåíÉ">
-<!ENTITY calendar.task.filter.completed.accesskey   "í">
-<!ENTITY calendar.task.filter.open.label            "ÇáãåÇã ÛíÑ ÇáãßÊãáÉ">
-<!ENTITY calendar.task.filter.open.accesskey        "Û">
+<!ENTITY calendar.task.filter.title.label           "Ø¹Ø±Ø¶">
+<!ENTITY calendar.task.filter.all.label             "Ø§Ù„ÙƒÙ„">
+<!ENTITY calendar.task.filter.all.accesskey         "Ù„">
+<!ENTITY calendar.task.filter.today.label           "Ø§Ù„ÙŠÙˆÙ…">
+<!ENTITY calendar.task.filter.today.accesskey       "Ùˆ">
+<!ENTITY calendar.task.filter.next7days.label       " Ø§Ù„Ø§ÙŠØ§Ù… Ø§Ù„Ø³Ø¨Ø¹Ø© Ø§Ù„Ù…Ù‚Ø¨Ù„Ø©">
+<!ENTITY calendar.task.filter.next7days.accesskey   "Ù…">
+<!ENTITY calendar.task.filter.notstarted.label      "Ø§Ù„Ù…Ù‡Ø§Ù… Ø§Ù„ØªÙ‰ Ù„Ù… ØªØ¨Ø¯Ø£">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "Ù‡">
+<!ENTITY calendar.task.filter.overdue.label         " Ø§Ù„Ù…Ù‡Ø§Ù… Ø§Ù„Ù…ØªØ£Ø®Ø±Ø© ">
+<!ENTITY calendar.task.filter.overdue.accesskey     "Ø®">
+<!ENTITY calendar.task.filter.completed.label       "Ø§Ù„Ù…Ù‡Ø§Ù… Ø§Ù„Ù…Ù†ØªÙ‡ÙŠØ©">
+<!ENTITY calendar.task.filter.completed.accesskey   "ÙŠ">
+<!ENTITY calendar.task.filter.open.label            "Ø§Ù„Ù…Ù‡Ø§Ù… ØºÙŠØ± Ø§Ù„Ù…ÙƒØªÙ…Ù„Ø©">
+<!ENTITY calendar.task.filter.open.accesskey        "Øº">
 
-<!ENTITY calendar.task-details.title.label           "ÚäæÇä">
-<!ENTITY calendar.task-details.organizer.label       "ãä">
-<!ENTITY calendar.task-details.priority.label        "ÇáÃÓÈÞíÉ">
-<!ENTITY calendar.task-details.priority.low.label    "ãäÎÝÖ">
-<!ENTITY calendar.task-details.priority.normal.label "ÚÇÏì">
-<!ENTITY calendar.task-details.priority.high.label   "ãÑÊÝÚ">
-<!ENTITY calendar.task-details.status.label          "ÇáÍÇáÉ">
-<!ENTITY calendar.task-details.category.label        "ÇáÊÕäíÝ">
-<!ENTITY calendar.task-details.repeat.label          "ÇáÊßÑÇÑ">
+<!ENTITY calendar.task-details.title.label           "Ø¹Ù†ÙˆØ§Ù†">
+<!ENTITY calendar.task-details.organizer.label       "Ù…Ù†">
+<!ENTITY calendar.task-details.priority.label        "Ø§Ù„Ø£Ø³Ø¨Ù‚ÙŠØ©">
+<!ENTITY calendar.task-details.priority.low.label    "Ù…Ù†Ø®ÙØ¶">
+<!ENTITY calendar.task-details.priority.normal.label "Ø¹Ø§Ø¯Ù‰">
+<!ENTITY calendar.task-details.priority.high.label   "Ù…Ø±ØªÙØ¹">
+<!ENTITY calendar.task-details.status.label          "Ø§Ù„Ø­Ø§Ù„Ø©">
+<!ENTITY calendar.task-details.category.label        "Ø§Ù„ØªØµÙ†ÙŠÙ">
+<!ENTITY calendar.task-details.repeat.label          "Ø§Ù„ØªÙƒØ±Ø§Ø±">
 
-<!ENTITY calendar.task.category.button.tooltip  "ÇáãåÇã ÇáãÕäÝÉ">
-<!ENTITY calendar.task.complete.button.tooltip  "ãíÒ ÇáãåÇã ÇáãÎÊÇÑÉ ÇáãßÊãáÉ">
-<!ENTITY calendar.task.priority.button.tooltip  "ÛíÑ ÇáÃÓÈÞíÉ">
+<!ENTITY calendar.task.category.button.tooltip  "Ø§Ù„Ù…Ù‡Ø§Ù… Ø§Ù„Ù…ØµÙ†ÙØ©">
+<!ENTITY calendar.task.complete.button.tooltip  "Ù…ÙŠØ² Ø§Ù„Ù…Ù‡Ø§Ù… Ø§Ù„Ù…Ø®ØªØ§Ø±Ø© Ø§Ù„Ù…ÙƒØªÙ…Ù„Ø©">
+<!ENTITY calendar.task.priority.button.tooltip  "ØºÙŠØ± Ø§Ù„Ø£Ø³Ø¨Ù‚ÙŠØ©">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label            "ÇáãÓÊäÏ: Êã">
+<!ENTITY statusText.label            "Ø§Ù„Ù…Ø³ØªÙ†Ø¯: ØªÙ…">
 
 <!-- Context Menu -->
-<!ENTITY calendar.context.modifyorviewitem.label      "ÝÊÍ">
-<!ENTITY calendar.context.modifyorviewitem.accesskey  "Ý">
-<!ENTITY calendar.context.modifyorviewtask.label      "ÅÝÊÍ ãåãÉâ€¦">
-<!ENTITY calendar.context.modifyorviewtask.accesskey  "Ý">
-<!ENTITY calendar.context.newevent.label              "ÍÏË ÌÏíÏâ€¦">
-<!ENTITY calendar.context.newevent.accesskey          "Í">
-<!ENTITY calendar.context.newtodo.label               "ãåãÉ ÌÏíÏÉâ€¦">
-<!ENTITY calendar.context.newtodo.accesskey           "å">
-<!ENTITY calendar.context.modifytask.label            "ÍÑÑ ãåãÉâ€¦">
-<!ENTITY calendar.context.modifytask.accesskey        "Ñ">
-<!ENTITY calendar.context.modifyitem.label            "ÍÑÑ ÚäÕÑâ€¦">
-<!ENTITY calendar.context.modifyitem.accesskey        "Õ">
-<!ENTITY calendar.context.deletetask.label            "ÍÐÝ ãåãÉ">
-<!ENTITY calendar.context.deletetask.accesskey        "Ð">
-<!ENTITY calendar.context.deleteitem.label            "ÍÐÝ">
-<!ENTITY calendar.context.deleteitem.accesskey        "Ð">
-<!ENTITY calendar.context.deleteevent.label           "ÍÐÝ ÍÏË">
-<!ENTITY calendar.context.deleteevent.accesskey       "Ð">
-<!ENTITY calendar.context.deletethisevent.label       "åÐÇ ÇáÍÏË">
-<!ENTITY calendar.context.deletethisevent.accesskey   "Ï">
-<!ENTITY calendar.context.deletecompleteseries.label  " ÓáÓáÉ ßÇãáÉ">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "Ó">
-<!ENTITY calendar.context.deletefutureevents.label     "ßá ÇáÃÍÏÇË ÇáãÓÊÞÈáíÉ">
-<!ENTITY calendar.context.deletefutureevents.accesskey "È">
-<!ENTITY calendar.context.deletefuturetasks.label     "ßá ÇáãåÇã ÇáãÓÊÞÈáíÉ">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "á">
-<!ENTITY calendar.context.cutevent.label              "ÞÕ">
-<!ENTITY calendar.context.cutevent.accesskey          "Õ">
-<!ENTITY calendar.context.copyevent.label             "äÓÎ">
-<!ENTITY calendar.context.copyevent.accesskey         "Ó">
-<!ENTITY calendar.context.pasteevent.label            "áÕÞ">
-<!ENTITY calendar.context.pasteevent.accesskey        "Þ">
-<!ENTITY calendar.context.selectall.label             "ÅÎÊÇÑ Çáßá">
-<!ENTITY calendar.context.selectall.accesskey         "ß">
-<!ENTITY calendar.context.button.label                "áæÍÉ Çáíæã" >
-<!ENTITY calendar.context.button.accesskey            "ã" >
+<!ENTITY calendar.context.modifyorviewitem.label      "ÙØªØ­">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "Ù">
+<!ENTITY calendar.context.modifyorviewtask.label      "Ø¥ÙØªØ­ Ù…Ù‡Ù…Ø©â€¦">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "Ù">
+<!ENTITY calendar.context.newevent.label              "Ø­Ø¯Ø« Ø¬Ø¯ÙŠØ¯â€¦">
+<!ENTITY calendar.context.newevent.accesskey          "Ø­">
+<!ENTITY calendar.context.newtodo.label               "Ù…Ù‡Ù…Ø© Ø¬Ø¯ÙŠØ¯Ø©â€¦">
+<!ENTITY calendar.context.newtodo.accesskey           "Ù‡">
+<!ENTITY calendar.context.modifytask.label            "Ø­Ø±Ø± Ù…Ù‡Ù…Ø©â€¦">
+<!ENTITY calendar.context.modifytask.accesskey        "Ø±">
+<!ENTITY calendar.context.modifyitem.label            "Ø­Ø±Ø± Ø¹Ù†ØµØ±â€¦">
+<!ENTITY calendar.context.modifyitem.accesskey        "Øµ">
+<!ENTITY calendar.context.deletetask.label            "Ø­Ø°Ù Ù…Ù‡Ù…Ø©">
+<!ENTITY calendar.context.deletetask.accesskey        "Ø°">
+<!ENTITY calendar.context.deleteitem.label            "Ø­Ø°Ù">
+<!ENTITY calendar.context.deleteitem.accesskey        "Ø°">
+<!ENTITY calendar.context.deleteevent.label           "Ø­Ø°Ù Ø­Ø¯Ø«">
+<!ENTITY calendar.context.deleteevent.accesskey       "Ø°">
+<!ENTITY calendar.context.deletethisevent.label       "Ù‡Ø°Ø§ Ø§Ù„Ø­Ø¯Ø«">
+<!ENTITY calendar.context.deletethisevent.accesskey   "Ø¯">
+<!ENTITY calendar.context.deletecompleteseries.label  " Ø³Ù„Ø³Ù„Ø© ÙƒØ§Ù…Ù„Ø©">
+<!ENTITY calendar.context.deletecompleteseries.accesskey   "Ø³">
+<!ENTITY calendar.context.deletefutureevents.label     "ÙƒÙ„ Ø§Ù„Ø£Ø­Ø¯Ø§Ø« Ø§Ù„Ù…Ø³ØªÙ‚Ø¨Ù„ÙŠØ©">
+<!ENTITY calendar.context.deletefutureevents.accesskey "Ø¨">
+<!ENTITY calendar.context.deletefuturetasks.label     "ÙƒÙ„ Ø§Ù„Ù…Ù‡Ø§Ù… Ø§Ù„Ù…Ø³ØªÙ‚Ø¨Ù„ÙŠØ©">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "Ù„">
+<!ENTITY calendar.context.cutevent.label              "Ù‚Øµ">
+<!ENTITY calendar.context.cutevent.accesskey          "Øµ">
+<!ENTITY calendar.context.copyevent.label             "Ù†Ø³Ø®">
+<!ENTITY calendar.context.copyevent.accesskey         "Ø³">
+<!ENTITY calendar.context.pasteevent.label            "Ù„ØµÙ‚">
+<!ENTITY calendar.context.pasteevent.accesskey        "Ù‚">
+<!ENTITY calendar.context.selectall.label             "Ø¥Ø®ØªØ§Ø± Ø§Ù„ÙƒÙ„">
+<!ENTITY calendar.context.selectall.accesskey         "Ùƒ">
+<!ENTITY calendar.context.button.label                "Ù„ÙˆØ­Ø© Ø§Ù„ÙŠÙˆÙ…" >
+<!ENTITY calendar.context.button.accesskey            "Ù…" >
 
 <!-- Task Context Menu -->
-<!ENTITY calendar.context.progress.label              "ÇáÊÞÏã">
-<!ENTITY calendar.context.progress.accesskey          "Þ">
-<!ENTITY calendar.context.priority.label              "ÇáÃÓÈÞíÉ">
-<!ENTITY calendar.context.priority.accesskey          "Ç">
+<!ENTITY calendar.context.progress.label              "Ø§Ù„ØªÙ‚Ø¯Ù…">
+<!ENTITY calendar.context.progress.accesskey          "Ù‚">
+<!ENTITY calendar.context.priority.label              "Ø§Ù„Ø£Ø³Ø¨Ù‚ÙŠØ©">
+<!ENTITY calendar.context.priority.accesskey          "Ø§">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
-<!ENTITY calendar.context.markcompleted.label     "ãíÒ ÇáãßÊãá">
-<!ENTITY calendar.context.markcompleted.accesskey "Ò">
+<!ENTITY calendar.context.markcompleted.label     "Ù…ÙŠØ² Ø§Ù„Ù…ÙƒØªÙ…Ù„">
+<!ENTITY calendar.context.markcompleted.accesskey "Ø²">
 
-<!ENTITY progress.level.0             "0&percnt; ãßÊãá">
+<!ENTITY progress.level.0             "0&percnt; Ù…ÙƒØªÙ…Ù„">
 <!ENTITY progress.level.0.accesskey   "0">
-<!ENTITY progress.level.25            "25&percnt; ãßÊãá ">
+<!ENTITY progress.level.25            "25&percnt; Ù…ÙƒØªÙ…Ù„ ">
 <!ENTITY progress.level.25.accesskey  "2">
-<!ENTITY progress.level.50            "50&percnt; ãßÊãá ">
+<!ENTITY progress.level.50            "50&percnt; Ù…ÙƒØªÙ…Ù„ ">
 <!ENTITY progress.level.50.accesskey  "5">
-<!ENTITY progress.level.75            "75&percnt; ãßÊãá ">
+<!ENTITY progress.level.75            "75&percnt; Ù…ÙƒØªÙ…Ù„ ">
 <!ENTITY progress.level.75.accesskey  "7">
-<!ENTITY progress.level.100            "100&percnt; ãßÊãá ">
+<!ENTITY progress.level.100            "100&percnt; Ù…ÙƒØªÙ…Ù„ ">
 <!ENTITY progress.level.100.accesskey  "1">
 
-<!ENTITY priority.level.none                "ÛíÑ ãÍÏÏ">
-<!ENTITY priority.level.none.accesskey      "Ï">
-<!ENTITY priority.level.low                 "ãäÎÝÖ">
-<!ENTITY priority.level.low.accesskey       "Ý">
-<!ENTITY priority.level.normal              "ÚÇÏì">
-<!ENTITY priority.level.normal.accesskey    "Ú">
-<!ENTITY priority.level.high                "ãÑÊÝÚ">
-<!ENTITY priority.level.high.accesskey      "ã">
+<!ENTITY priority.level.none                "ØºÙŠØ± Ù…Ø­Ø¯Ø¯">
+<!ENTITY priority.level.none.accesskey      "Ø¯">
+<!ENTITY priority.level.low                 "Ù…Ù†Ø®ÙØ¶">
+<!ENTITY priority.level.low.accesskey       "Ù">
+<!ENTITY priority.level.normal              "Ø¹Ø§Ø¯Ù‰">
+<!ENTITY priority.level.normal.accesskey    "Ø¹">
+<!ENTITY priority.level.high                "Ù…Ø±ØªÙØ¹">
+<!ENTITY priority.level.high.accesskey      "Ù…">
 
 <!-- Server Context Menu -->
-<!ENTITY calendar.context.newserver.label              "ÊÞæíã ÌÏíÏâ€¦">
-<!ENTITY calendar.context.newserver.accesskey          "Ì">
-<!ENTITY calendar.context.findcalendar.label           "ÈÍË Úä ÊÞæíãâ€¦" >
-<!ENTITY calendar.context.findcalendar.accesskey       "Ë" >
-<!ENTITY calendar.context.deleteserver.label           "ÍÐÝ ÊÞæíã">
-<!ENTITY calendar.context.deleteserver.accesskey       "æ">
-<!ENTITY calendar.context.reloadserver.label           "ÊÍÏíË ÊÞæíãÇÊ ÈÚíÏÉ">
-<!ENTITY calendar.context.reloadserver.accesskey       "Í">
-<!ENTITY calendar.context.publish.label                "äÔÑ ÊÞæíãâ€¦">
-<!ENTITY calendar.context.publish.accesskey            "Ô">
-<!ENTITY calendar.context.export.label                 "ÕÏÑ ÊÞæíãâ€¦">
-<!ENTITY calendar.context.export.accesskey             "Õ">
-<!ENTITY calendar.context.properties.label             "ÎÕÇÆÕ">
-<!ENTITY calendar.context.properties.accesskey         "Î">
+<!ENTITY calendar.context.newserver.label              "ØªÙ‚ÙˆÙŠÙ… Ø¬Ø¯ÙŠØ¯â€¦">
+<!ENTITY calendar.context.newserver.accesskey          "Ø¬">
+<!ENTITY calendar.context.findcalendar.label           "Ø¨Ø­Ø« Ø¹Ù† ØªÙ‚ÙˆÙŠÙ…â€¦" >
+<!ENTITY calendar.context.findcalendar.accesskey       "Ø«" >
+<!ENTITY calendar.context.deleteserver.label           "Ø­Ø°Ù ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.context.deleteserver.accesskey       "Ùˆ">
+<!ENTITY calendar.context.reloadserver.label           "ØªØ­Ø¯ÙŠØ« ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø¨Ø¹ÙŠØ¯Ø©">
+<!ENTITY calendar.context.reloadserver.accesskey       "Ø­">
+<!ENTITY calendar.context.publish.label                "Ù†Ø´Ø± ØªÙ‚ÙˆÙŠÙ…â€¦">
+<!ENTITY calendar.context.publish.accesskey            "Ø´">
+<!ENTITY calendar.context.export.label                 "ØµØ¯Ø± ØªÙ‚ÙˆÙŠÙ…â€¦">
+<!ENTITY calendar.context.export.accesskey             "Øµ">
+<!ENTITY calendar.context.properties.label             "Ø®ØµØ§Ø¦Øµ">
+<!ENTITY calendar.context.properties.accesskey         "Ø®">
 
-<!ENTITY calendar.context.convertmenu.label              "Íæá Çáì">
-<!ENTITY calendar.context.convertmenu.accesskey.mail     "á">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "Ñ">
-<!ENTITY calendar.context.convertmenu.event.label        "ÍÏËâ€¦">
-<!ENTITY calendar.context.convertmenu.event.accesskey    "Ï">
-<!ENTITY calendar.context.convertmenu.message.label      "ÑÓÇáÉâ€¦">
-<!ENTITY calendar.context.convertmenu.message.accesskey  "Ó">
-<!ENTITY calendar.context.convertmenu.task.label         "ãåãÉâ€¦">
-<!ENTITY calendar.context.convertmenu.task.accesskey     "å">
+<!ENTITY calendar.context.convertmenu.label              "Ø­ÙˆÙ„ Ø§Ù„Ù‰">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "Ù„">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "Ø±">
+<!ENTITY calendar.context.convertmenu.event.label        "Ø­Ø¯Ø«â€¦">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "Ø¯">
+<!ENTITY calendar.context.convertmenu.message.label      "Ø±Ø³Ø§Ù„Ø©â€¦">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "Ø³">
+<!ENTITY calendar.context.convertmenu.task.label         "Ù…Ù‡Ù…Ø©â€¦">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "Ù‡">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "ãÕÛÑ ááÔåÑ">
-<!ENTITY calendar.tasks.view.minimonth.accesskey       "Õ">
+<!ENTITY calendar.tasks.view.minimonth.label           "Ù…ØµØºØ± Ù„Ù„Ø´Ù‡Ø±">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "Øµ">
 
-<!ENTITY calendar.tasks.view.calendarlist.label        "ÞÇÆãÉ ÇáÊÞæíã">
-<!ENTITY calendar.tasks.view.calendarlist.accesskey    "í">
+<!ENTITY calendar.tasks.view.calendarlist.label        "Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "ÙŠ">
 
-<!ENTITY calendar.tasks.view.filtertasks.label           "ÝáÊÑ ÇáãåãÇÊ">
-<!ENTITY calendar.tasks.view.filtertasks.accesskey       "Ý">
+<!ENTITY calendar.tasks.view.filtertasks.label           "ÙÙ„ØªØ± Ø§Ù„Ù…Ù‡Ù…Ø§Øª">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "Ù">
 
 <!-- Calendar Alarm Dialog -->
 
-<!ENTITY calendar.alarm.location.label              "ÇáãßÇä: " >
-<!ENTITY calendar.alarm.details.label               "ÊÝÇÕíáâ€¦" >
+<!ENTITY calendar.alarm.location.label              "Ø§Ù„Ù…ÙƒØ§Ù†: " >
+<!ENTITY calendar.alarm.details.label               "ØªÙØ§ØµÙŠÙ„â€¦" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "ÛÝæÉ áãÏÉ" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "ÛÝæÉ ááßá áãÏÉ" >
-<!ENTITY calendar.alarm.title.label                 "ãäÈå ÇáÊÞæíã" >
-<!ENTITY calendar.alarm.dismiss.label               "ÝÕá" >
-<!ENTITY calendar.alarm.dismissall.label            "ÝÕá Çáßá" >
+<!ENTITY calendar.alarm.snoozefor.label             "ØºÙÙˆØ© Ù„Ù…Ø¯Ø©" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "ØºÙÙˆØ© Ù„Ù„ÙƒÙ„ Ù„Ù…Ø¯Ø©" >
+<!ENTITY calendar.alarm.title.label                 "Ù…Ù†Ø¨Ù‡ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…" >
+<!ENTITY calendar.alarm.dismiss.label               "ÙØµÙ„" >
+<!ENTITY calendar.alarm.dismissall.label            "ÙØµÙ„ Ø§Ù„ÙƒÙ„" >
 
-<!ENTITY calendar.alarm.snooze.5minutes.label       "5 ÏÞÇÆÞ" >
-<!ENTITY calendar.alarm.snooze.10minutes.label      "10 ÏÞÇÆÞ " >
-<!ENTITY calendar.alarm.snooze.15minutes.label      "15 ÏÞÇÆÞ " >
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 ÏÞÇÆÞ " >
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 ÏÞÇÆÞ " >
-<!ENTITY calendar.alarm.snooze.1hour.label          "ÓÇÚÉ" >
-<!ENTITY calendar.alarm.snooze.2hours.label         "ÓÇÚÊÇä" >
-<!ENTITY calendar.alarm.snooze.1day.label           "íæã" >
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Ø¯Ù‚Ø§Ø¦Ù‚" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Ø¯Ù‚Ø§Ø¦Ù‚ " >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Ø¯Ù‚Ø§Ø¦Ù‚ " >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Ø¯Ù‚Ø§Ø¦Ù‚ " >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Ø¯Ù‚Ø§Ø¦Ù‚ " >
+<!ENTITY calendar.alarm.snooze.1hour.label          "Ø³Ø§Ø¹Ø©" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "Ø³Ø§Ø¹ØªØ§Ù†" >
+<!ENTITY calendar.alarm.snooze.1day.label           "ÙŠÙˆÙ…" >
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit          "ÍÑÑ ÇáÊÞæíã">
-<!ENTITY calendar.server.dialog.name.label          "ÅÓã ÇáÊÞæíã:">
+<!ENTITY calendar.server.dialog.title.edit          "Ø­Ø±Ø± Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.server.dialog.name.label          "Ø¥Ø³Ù… Ø§Ù„ØªÙ‚ÙˆÙŠÙ…:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label                    "áæä: ">
+<!ENTITY calendarproperties.color.label                    "Ù„ÙˆÙ†: ">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label                   "ÇáÊäÓíÞ: ">
-<!ENTITY calendarproperties.location.label                 "ÇáãßÇä: ">
-<!ENTITY calendarproperties.name.label                     "ÇáÃÓã: ">
-<!ENTITY calendarproperties.readonly.label                 "ÞÑÇÁÉ ÝÞØ">
-<!ENTITY calendarproperties.firealarms.label               "ÅÚÑÖ ÇáÊäÈíåÇÊ">
-<!ENTITY calendarproperties.cache.label                    "ãÎÈÃ (Ýì ØæÑ ÇáÊØæíÑ¡ íáÒã ÅÚÇÏÉ ÇáÊÔÛíá)">
-<!ENTITY calendarproperties.enabled.label                  "äÔØ åÐÇ ÇáÊÞæíã">
-<!ENTITY calendarproperties.forceDisabled.label            "ãÞÏã åÐÇ ÇáÊÞæíã ÛíÑ ãÊæÝÑ. åÐÇ ÏÇÆãÇ íÍÏË ÚäÏ ÊÚØíá Ãæ ÍÐÝ ÛÍÏì ÇáÅÖÇÝÇÊ.">
-<!ENTITY calendarproperties.unsubscribe.label              "ÛíÑ ãæÕæÝ">
-<!ENTITY calendarproperties.unsubscribe.accesskey          "Û">
+<!ENTITY calendarproperties.format.label                   "Ø§Ù„ØªÙ†Ø³ÙŠÙ‚: ">
+<!ENTITY calendarproperties.location.label                 "Ø§Ù„Ù…ÙƒØ§Ù†: ">
+<!ENTITY calendarproperties.name.label                     "Ø§Ù„Ø£Ø³Ù…: ">
+<!ENTITY calendarproperties.readonly.label                 "Ù‚Ø±Ø§Ø¡Ø© ÙÙ‚Ø·">
+<!ENTITY calendarproperties.firealarms.label               "Ø¥Ø¹Ø±Ø¶ Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡Ø§Øª">
+<!ENTITY calendarproperties.cache.label                    "Ù…Ø®Ø¨Ø£ (ÙÙ‰ Ø·ÙˆØ± Ø§Ù„ØªØ·ÙˆÙŠØ±ØŒ ÙŠÙ„Ø²Ù… Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„ØªØ´ØºÙŠÙ„)">
+<!ENTITY calendarproperties.enabled.label                  "Ù†Ø´Ø· Ù‡Ø°Ø§ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendarproperties.forceDisabled.label            "Ù…Ù‚Ø¯Ù… Ù‡Ø°Ø§ Ø§Ù„ØªÙ‚ÙˆÙŠÙ… ØºÙŠØ± Ù…ØªÙˆÙØ±. Ù‡Ø°Ø§ Ø¯Ø§Ø¦Ù…Ø§ ÙŠØ­Ø¯Ø« Ø¹Ù†Ø¯ ØªØ¹Ø·ÙŠÙ„ Ø£Ùˆ Ø­Ø°Ù ØºØ­Ø¯Ù‰ Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª.">
+<!ENTITY calendarproperties.unsubscribe.label              "ØºÙŠØ± Ù…ÙˆØµÙˆÙ">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "Øº">
 
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title              "äÔÑ ÇáÊÞæíã">
-<!ENTITY calendar.publish.url.label                 "äÔÑ ÇáÚäæÇä ÇáÅáßÊÑæäì">
-<!ENTITY calendar.publish.publish.button      "äÔÑ">
-<!ENTITY calendar.publish.close.button      "ÛáÞ">
+<!ENTITY calendar.publish.dialog.title              "Ù†Ø´Ø± Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.publish.url.label                 "Ù†Ø´Ø± Ø§Ù„Ø¹Ù†ÙˆØ§Ù† Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†Ù‰">
+<!ENTITY calendar.publish.publish.button      "Ù†Ø´Ø±">
+<!ENTITY calendar.publish.close.button      "ØºÙ„Ù‚">
 
-<!ENTITY calendar.publish.example.url.description   "ÔìÁ ãËá http://www.myserver.com/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description   "Ø´Ù‰Ø¡ Ù…Ø«Ù„ http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title    "ÅÎÊÇÑ ÊÞæíã">
+<!ENTITY calendar.select.dialog.title    "Ø¥Ø®ØªØ§Ø± ØªÙ‚ÙˆÙŠÙ…">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "ÅØÈÚ ÊÞæíã">
-<!ENTITY calendar.print.title.label "ÇáÚäæÇä: ">
-<!ENTITY calendar.print.layout.label "ÇáÊÎØíØ: ">
-<!ENTITY calendar.print.range.label "åÊØÈÚ Åíå">
-<!ENTITY calendar.print.currentview.label "ÇáÃÍÏÇË Ýì ÇáÚÑÖ ÇáÍÇáí">
-<!ENTITY calendar.print.selected.label "ÇáÃÍÏÇË ÇáãÎÊÇÑÉ">
-<!ENTITY calendar.print.custom.label " äØÇÞ ÊÇÑíÎ ãÎÕÕ:">
-<!ENTITY calendar.print.from.label "ãä: ">
-<!ENTITY calendar.print.to.label "Åáì: ">
-<!ENTITY calendar.print.settingsGroup.label "ÅÚÏÇÏÇÊ ÇáØÈÇÚÉ">
+<!ENTITY calendar.print.window.title "Ø¥Ø·Ø¨Ø¹ ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.print.title.label "Ø§Ù„Ø¹Ù†ÙˆØ§Ù†: ">
+<!ENTITY calendar.print.layout.label "Ø§Ù„ØªØ®Ø·ÙŠØ·: ">
+<!ENTITY calendar.print.range.label "Ù‡ØªØ·Ø¨Ø¹ Ø¥ÙŠÙ‡">
+<!ENTITY calendar.print.currentview.label "Ø§Ù„Ø£Ø­Ø¯Ø§Ø« ÙÙ‰ Ø§Ù„Ø¹Ø±Ø¶ Ø§Ù„Ø­Ø§Ù„ÙŠ">
+<!ENTITY calendar.print.selected.label "Ø§Ù„Ø£Ø­Ø¯Ø§Ø« Ø§Ù„Ù…Ø®ØªØ§Ø±Ø©">
+<!ENTITY calendar.print.custom.label " Ù†Ø·Ø§Ù‚ ØªØ§Ø±ÙŠØ® Ù…Ø®ØµØµ:">
+<!ENTITY calendar.print.from.label "Ù…Ù†: ">
+<!ENTITY calendar.print.to.label "Ø¥Ù„Ù‰: ">
+<!ENTITY calendar.print.settingsGroup.label "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø·Ø¨Ø§Ø¹Ø©">
 
 <!-- Error reporting -->
-<!ENTITY calendar.error.detail "ÇáÊÝÇÕíáâ€¦">
-<!ENTITY calendar.error.code "ÑãÒ ÇáÎØÃ: ">
-<!ENTITY calendar.error.description "ÇáæÕÝ: ">
-<!ENTITY calendar.error.title "ÍÏË ÎØÃ">
+<!ENTITY calendar.error.detail "Ø§Ù„ØªÙØ§ØµÙŠÙ„â€¦">
+<!ENTITY calendar.error.code "Ø±Ù…Ø² Ø§Ù„Ø®Ø·Ø£: ">
+<!ENTITY calendar.error.description "Ø§Ù„ÙˆØµÙ: ">
+<!ENTITY calendar.error.title "Ø­Ø¯Ø« Ø®Ø·Ø£">
 

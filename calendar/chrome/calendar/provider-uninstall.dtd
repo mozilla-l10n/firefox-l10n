@@ -34,12 +34,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY providerUninstall.title                           "ÍÐÝ ÇáãæÝÑ">
-<!ENTITY providerUninstall.accept.label                    "ÅáÛ ÇáÅÔÊÑÇß Ýì ÇáãÎÊÇÑ">
-<!ENTITY providerUninstall.accept.accesskey                "Ð">
-<!ENTITY providerUninstall.cancel.label                    "ÅÍÊÝÙ ÈÇáÅÖÇÝÉ">
-<!ENTITY providerUninstall.cancel.accesskey                "Í">
-<!ENTITY providerUninstall.preName.label                   " áÏíß ØáÈ áÅáÛÇÁ Ãæ ÊÚØíá :">
-<!ENTITY providerUninstall.postName.label                  "åÐÇ ÓæÝ íÚØá ÇáÊÞæíãÇÊ ÃÏäÇå">
-<!ENTITY providerUninstall.reinstallNote.label             "ÅÐÇ ßäÊ ÊÎØØ áÍÐÝ åÐÇ ÇáãæÝÑ. íãßäß ÅÎÊíÇÑ ÅáÛÇÁ ÇáÅÔÊÑÇß Ýì ãæÝÑ ÇáÊÞæíã.">
+<!ENTITY providerUninstall.title                           "Ø­Ø°Ù Ø§Ù„Ù…ÙˆÙØ±">
+<!ENTITY providerUninstall.accept.label                    "Ø¥Ù„Øº Ø§Ù„Ø¥Ø´ØªØ±Ø§Ùƒ ÙÙ‰ Ø§Ù„Ù…Ø®ØªØ§Ø±">
+<!ENTITY providerUninstall.accept.accesskey                "Ø°">
+<!ENTITY providerUninstall.cancel.label                    "Ø¥Ø­ØªÙØ¸ Ø¨Ø§Ù„Ø¥Ø¶Ø§ÙØ©">
+<!ENTITY providerUninstall.cancel.accesskey                "Ø­">
+<!ENTITY providerUninstall.preName.label                   " Ù„Ø¯ÙŠÙƒ Ø·Ù„Ø¨ Ù„Ø¥Ù„ØºØ§Ø¡ Ø£Ùˆ ØªØ¹Ø·ÙŠÙ„ :">
+<!ENTITY providerUninstall.postName.label                  "Ù‡Ø°Ø§ Ø³ÙˆÙ ÙŠØ¹Ø·Ù„ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø£Ø¯Ù†Ø§Ù‡">
+<!ENTITY providerUninstall.reinstallNote.label             "Ø¥Ø°Ø§ ÙƒÙ†Øª ØªØ®Ø·Ø· Ù„Ø­Ø°Ù Ù‡Ø°Ø§ Ø§Ù„Ù…ÙˆÙØ±. ÙŠÙ…ÙƒÙ†Ùƒ Ø¥Ø®ØªÙŠØ§Ø± Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ø¥Ø´ØªØ±Ø§Ùƒ ÙÙ‰ Ù…ÙˆÙØ± Ø§Ù„ØªÙ‚ÙˆÙŠÙ….">
 

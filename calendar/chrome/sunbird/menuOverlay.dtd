@@ -43,145 +43,145 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label                          "ÅÝÊÍ ãáÝ ÇáÊÞæíãâ€¦">
-<!ENTITY calendar.open.file.key                            "Ý">
-<!ENTITY calendar.open.file.accesskey                      "Ý">
+<!ENTITY calendar.open.file.label                          "Ø¥ÙØªØ­ Ù…Ù„Ù Ø§Ù„ØªÙ‚ÙˆÙŠÙ…â€¦">
+<!ENTITY calendar.open.file.key                            "Ù">
+<!ENTITY calendar.open.file.accesskey                      "Ù">
 
-<!ENTITY event.edit.event                                  "ÚÏá ÇáÅÎÊíÇÑâ€¦">
-<!ENTITY event.edit.event.key                              "Ú">
-<!ENTITY event.edit.event.accesskey                        "Ú">
+<!ENTITY event.edit.event                                  "Ø¹Ø¯Ù„ Ø§Ù„Ø¥Ø®ØªÙŠØ§Ø±â€¦">
+<!ENTITY event.edit.event.key                              "Ø¹">
+<!ENTITY event.edit.event.accesskey                        "Ø¹">
 
-<!ENTITY event.delete.event                                "ÍÐÝ ÃÍÏÇË ãÎÊÇÑÉ">
-<!ENTITY event.delete.event.accesskey                      "Í">
+<!ENTITY event.delete.event                                "Ø­Ø°Ù Ø£Ø­Ø¯Ø§Ø« Ù…Ø®ØªØ§Ø±Ø©">
+<!ENTITY event.delete.event.accesskey                      "Ø­">
 
-<!ENTITY event.delete.tasks                                "ÍÐÝ ãåÇã ãÎÊÇÑÉ">
-<!ENTITY event.delete.tasks.accesskey                      "ã">
+<!ENTITY event.delete.tasks                                "Ø­Ø°Ù Ù…Ù‡Ø§Ù… Ù…Ø®ØªØ§Ø±Ø©">
+<!ENTITY event.delete.tasks.accesskey                      "Ù…">
 
-<!ENTITY calendar.pagesetup.label                          "ÕÝÍÉ ÇáÇÚÏÇÏÇÊâ€¦">
-<!ENTITY calendar.pagesetup.accesskey                      "Õ">
+<!ENTITY calendar.pagesetup.label                          "ØµÙØ­Ø© Ø§Ù„Ø§Ø¹Ø¯Ø§Ø¯Ø§Øªâ€¦">
+<!ENTITY calendar.pagesetup.accesskey                      "Øµ">
 
-<!ENTITY calendar.subscribe.label                          "ÅÔÊÑÇß Ýì ÊÞæíã ÈÚíÏâ€¦">
-<!ENTITY calendar.subscribe.accesskey                      "È">
+<!ENTITY calendar.subscribe.label                          "Ø¥Ø´ØªØ±Ø§Ùƒ ÙÙ‰ ØªÙ‚ÙˆÙŠÙ… Ø¨Ø¹ÙŠØ¯â€¦">
+<!ENTITY calendar.subscribe.accesskey                      "Ø¨">
 
-<!ENTITY calendar.reloadserver.label                       "ÃÚÏ ÊÍãíá ÊÞæíã ÈÚíÏ">
-<!ENTITY calendar.reloadserver.key                         "Ê">
-<!ENTITY calendar.reloadserver.accesskey                   "Ê">
+<!ENTITY calendar.reloadserver.label                       "Ø£Ø¹Ø¯ ØªØ­Ù…ÙŠÙ„ ØªÙ‚ÙˆÙŠÙ… Ø¨Ø¹ÙŠØ¯">
+<!ENTITY calendar.reloadserver.key                         "Øª">
+<!ENTITY calendar.reloadserver.accesskey                   "Øª">
 
-<!ENTITY calendar.publish.calendar.label                   "äÔÑ ÇáÊÞæíãâ€¦">
-<!ENTITY calendar.publish.calendar.accesskey               "Ô">
-<!ENTITY calendar.publish.selection.label                  "äÔÑ ÇáãÎÊÇÑâ€¦">
-<!ENTITY calendar.publish.selection.accesskey              "Ñ">
+<!ENTITY calendar.publish.calendar.label                   "Ù†Ø´Ø± Ø§Ù„ØªÙ‚ÙˆÙŠÙ…â€¦">
+<!ENTITY calendar.publish.calendar.accesskey               "Ø´">
+<!ENTITY calendar.publish.selection.label                  "Ù†Ø´Ø± Ø§Ù„Ù…Ø®ØªØ§Ø±â€¦">
+<!ENTITY calendar.publish.selection.accesskey              "Ø±">
 
-<!ENTITY calendar.quit.label                               "ÎÑæÌ">
-<!ENTITY calendar.quit.accesskey                           "Î">
-<!ENTITY calendar.quit.key                                 "Î">
-<!ENTITY calendar.quit.label.mac                           "ÅÎÑÌ ãä &brandShortName;">
+<!ENTITY calendar.quit.label                               "Ø®Ø±ÙˆØ¬">
+<!ENTITY calendar.quit.accesskey                           "Ø®">
+<!ENTITY calendar.quit.key                                 "Ø®">
+<!ENTITY calendar.quit.label.mac                           "Ø¥Ø®Ø±Ø¬ Ù…Ù† &brandShortName;">
 
-<!ENTITY calendar.exit.label                               "ÎÑæÌ">
-<!ENTITY calendar.exit.accesskey                           "æ">
+<!ENTITY calendar.exit.label                               "Ø®Ø±ÙˆØ¬">
+<!ENTITY calendar.exit.accesskey                           "Ùˆ">
 
-<!ENTITY calendar.undo.label                               "ÊÑÇÌÚ">
-<!ENTITY calendar.undo.key                                 "Ñ">
-<!ENTITY calendar.undo.accesskey                           "Ì">
+<!ENTITY calendar.undo.label                               "ØªØ±Ø§Ø¬Ø¹">
+<!ENTITY calendar.undo.key                                 "Ø±">
+<!ENTITY calendar.undo.accesskey                           "Ø¬">
 
-<!ENTITY calendar.redo.label                               "ÅÚÇÏÉ">
-<!ENTITY calendar.redo.key                                 "Ï">
-<!ENTITY calendar.redo.accesskey                           "É">
+<!ENTITY calendar.redo.label                               "Ø¥Ø¹Ø§Ø¯Ø©">
+<!ENTITY calendar.redo.key                                 "Ø¯">
+<!ENTITY calendar.redo.accesskey                           "Ø©">
 
-<!ENTITY calendar.cut.label                                "ÞØÚ">
-<!ENTITY calendar.cut.key                                  "Þ">
-<!ENTITY calendar.cut.accesskey                            "Ø">
+<!ENTITY calendar.cut.label                                "Ù‚Ø·Ø¹">
+<!ENTITY calendar.cut.key                                  "Ù‚">
+<!ENTITY calendar.cut.accesskey                            "Ø·">
 
-<!ENTITY calendar.copy.label                               "äÓÎ">
-<!ENTITY calendar.copy.key                                 "Ó">
-<!ENTITY calendar.copy.accesskey                           "Ó">
+<!ENTITY calendar.copy.label                               "Ù†Ø³Ø®">
+<!ENTITY calendar.copy.key                                 "Ø³">
+<!ENTITY calendar.copy.accesskey                           "Ø³">
 
-<!ENTITY calendar.paste.label                              "áÕÞ">
-<!ENTITY calendar.paste.key                                "Õ">
-<!ENTITY calendar.paste.accesskey                          "á">
+<!ENTITY calendar.paste.label                              "Ù„ØµÙ‚">
+<!ENTITY calendar.paste.key                                "Øµ">
+<!ENTITY calendar.paste.accesskey                          "Ù„">
 
-<!ENTITY calendar.selectall.label                          "ÅÎÊÇÑ Çáßá">
-<!ENTITY calendar.selectall.key                            "Ë">
-<!ENTITY calendar.selectall.accesskey                      "Ë">
+<!ENTITY calendar.selectall.label                          "Ø¥Ø®ØªØ§Ø± Ø§Ù„ÙƒÙ„">
+<!ENTITY calendar.selectall.key                            "Ø«">
+<!ENTITY calendar.selectall.accesskey                      "Ø«">
 
-<!ENTITY toolbarsMenu.label                                "ÔÑÇÆØ ÇáÃÏæÇÊ">
-<!ENTITY toolbarsMenu.accesskey                            "ã">
+<!ENTITY toolbarsMenu.label                                "Ø´Ø±Ø§Ø¦Ø· Ø§Ù„Ø£Ø¯ÙˆØ§Øª">
+<!ENTITY toolbarsMenu.accesskey                            "Ù…">
 
-<!ENTITY showStatusBarCmd.label                            "ÔÑíØ ÇáÍÇáÉ">
-<!ENTITY showStatusBarCmd.accesskey                        "ì">
+<!ENTITY showStatusBarCmd.label                            "Ø´Ø±ÙŠØ· Ø§Ù„Ø­Ø§Ù„Ø©">
+<!ENTITY showStatusBarCmd.accesskey                        "Ù‰">
 
-<!ENTITY showTaskBoxCmd.label                              "ÞÇÆãÉ ÇáãåãÇÊ">
-<!ENTITY showTaskBoxCmd.accesskey                          "Þ">
+<!ENTITY showTaskBoxCmd.label                              "Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ù…Ù‡Ù…Ø§Øª">
+<!ENTITY showTaskBoxCmd.accesskey                          "Ù‚">
 
-<!ENTITY calendar.fullscreen.label                         "ÔÇÔÉ ßÇãáÉ">
-<!ENTITY calendar.fullscreen.accesskey                     "Ô">
+<!ENTITY calendar.fullscreen.label                         "Ø´Ø§Ø´Ø© ÙƒØ§Ù…Ù„Ø©">
+<!ENTITY calendar.fullscreen.accesskey                     "Ø´">
 
-<!ENTITY calendar.addons.label                             "ÅÖÇÝÇÊ">
-<!ENTITY calendar.addons.accesskey                         "í">
+<!ENTITY calendar.addons.label                             "Ø¥Ø¶Ø§ÙØ§Øª">
+<!ENTITY calendar.addons.accesskey                         "ÙŠ">
 
-<!ENTITY goMenu.label                                      "ÅÐåÈ">
-<!ENTITY goMenu.accesskey                                  "á">
+<!ENTITY goMenu.label                                      "Ø¥Ø°Ù‡Ø¨">
+<!ENTITY goMenu.accesskey                                  "Ù„">
 
-<!ENTITY goDateCmd.label                                   "ÊÇÑíÎâ€¦">
-<!ENTITY goDateCmd.accesskey                               "í">
+<!ENTITY goDateCmd.label                                   "ØªØ§Ø±ÙŠØ®â€¦">
+<!ENTITY goDateCmd.accesskey                               "ÙŠ">
 
-<!ENTITY toolsMenu.label                                   "ÃÏæÇÊ">
-<!ENTITY toolsMenu.accesskey                               "Ý">
+<!ENTITY toolsMenu.label                                   "Ø£Ø¯ÙˆØ§Øª">
+<!ENTITY toolsMenu.accesskey                               "Ù">
 
-<!ENTITY errorConsoleCmd.label                             "ÎØÃ Ýì æÍÏÉ ÇáÊÍßã">
-<!ENTITY errorConsoleCmd.accesskey                         "Ä">
+<!ENTITY errorConsoleCmd.label                             "Ø®Ø·Ø£ ÙÙ‰ ÙˆØ­Ø¯Ø© Ø§Ù„ØªØ­ÙƒÙ…">
+<!ENTITY errorConsoleCmd.accesskey                         "Ø¤">
 
-<!ENTITY helpMenu.label                                    "ãÓÇÚÏÉ">
-<!ENTITY helpMenu.accesskey                                "Ç">
+<!ENTITY helpMenu.label                                    "Ù…Ø³Ø§Ø¹Ø¯Ø©">
+<!ENTITY helpMenu.accesskey                                "Ø§">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                                 "ãÓÇÚÏÉ">
-<!ENTITY helpMenuWin.accesskey                             "Ç">
+<!ENTITY helpMenuWin.label                                 "Ù…Ø³Ø§Ø¹Ø¯Ø©">
+<!ENTITY helpMenuWin.accesskey                             "Ø§">
 
-<!ENTITY fileMenu.label                                    "ãáÝ">
-<!ENTITY fileMenu.accesskey                                "È">
+<!ENTITY fileMenu.label                                    "Ù…Ù„Ù">
+<!ENTITY fileMenu.accesskey                                "Ø¨">
 
-<!ENTITY editMenu.label                                    "ÊÍÑíÑ">
-<!ENTITY editMenu.accesskey                                "Ë">
+<!ENTITY editMenu.label                                    "ØªØ­Ø±ÙŠØ±">
+<!ENTITY editMenu.accesskey                                "Ø«">
 
-<!ENTITY optionsCmd.label                                  "ÎíÇÑÇÊâ€¦">
-<!ENTITY optionsCmd.accesskey                              "Î">
+<!ENTITY optionsCmd.label                                  "Ø®ÙŠØ§Ø±Ø§Øªâ€¦">
+<!ENTITY optionsCmd.accesskey                              "Ø®">
 
-<!ENTITY preferencesCmd.label                              "ÅÚÏÇÏÇÊ">
-<!ENTITY preferencesCmd.accesskey                          "ì">
+<!ENTITY preferencesCmd.label                              "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª">
+<!ENTITY preferencesCmd.accesskey                          "Ù‰">
 <!ENTITY preferencesCmdMac.label                           "Preferencesâ€¦">
 <!ENTITY preferencesCmdMac.commandkey                      ",">
-<!ENTITY preferencesCmdMac.modifiers                       "ÊÓÑíÚ">
+<!ENTITY preferencesCmdMac.modifiers                       "ØªØ³Ø±ÙŠØ¹">
 
-<!ENTITY viewMenu.label                                    "ÚÑÖ">
-<!ENTITY viewMenu.accesskey                                "Ñ">
+<!ENTITY viewMenu.label                                    "Ø¹Ø±Ø¶">
+<!ENTITY viewMenu.accesskey                                "Ø±">
 
-<!ENTITY releaseCmd.label                                  "ÅØáÇÞ ÇáãáÇÍÙÇÊ">
-<!ENTITY releaseCmd.accesskey                              "Þ">
+<!ENTITY releaseCmd.label                                  "Ø¥Ø·Ù„Ø§Ù‚ Ø§Ù„Ù…Ù„Ø§Ø­Ø¸Ø§Øª">
+<!ENTITY releaseCmd.accesskey                              "Ù‚">
 
-<!ENTITY aboutCmd.label                                    "Úä &brandFullName;">
-<!ENTITY aboutCmd.accesskey                                "Ô">
+<!ENTITY aboutCmd.label                                    "Ø¹Ù† &brandFullName;">
+<!ENTITY aboutCmd.accesskey                                "Ø´">
 
-<!ENTITY updateCmd.label                                   "ÅÝÍÕ Updatesâ€¦">
-<!ENTITY updateCmd.accesskey                               "Î">
+<!ENTITY updateCmd.label                                   "Ø¥ÙØ­Øµ Updatesâ€¦">
+<!ENTITY updateCmd.accesskey                               "Ø®">
 
-<!ENTITY sunbird.export.calendar.label                     "ÊÕÏíÑ ÇáÊÞæíãâ€¦">
-<!ENTITY sunbird.export.calendar.accesskey                 "Ë">
+<!ENTITY sunbird.export.calendar.label                     "ØªØµØ¯ÙŠØ± Ø§Ù„ØªÙ‚ÙˆÙŠÙ…â€¦">
+<!ENTITY sunbird.export.calendar.accesskey                 "Ø«">
 
 <!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                                  "äÇÝÐÉ">
-<!ENTITY minimizeWindow.label                              "ÊÕÛíÑ">
-<!ENTITY zoomWindow.label                                  "äßÈíÑ">
-<!ENTITY minimizeWindow.key                                "É">
-<!ENTITY bringAllToFront.label                             "ÅÍÖÑ Çáßá ááãÞÏãÉ">
+<!ENTITY windowMenu.label                                  "Ù†Ø§ÙØ°Ø©">
+<!ENTITY minimizeWindow.label                              "ØªØµØºÙŠØ±">
+<!ENTITY zoomWindow.label                                  "Ù†ÙƒØ¨ÙŠØ±">
+<!ENTITY minimizeWindow.key                                "Ø©">
+<!ENTITY bringAllToFront.label                             "Ø¥Ø­Ø¶Ø± Ø§Ù„ÙƒÙ„ Ù„Ù„Ù…Ù‚Ø¯Ù…Ø©">
 
 <!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label                             "ÇáÎÏãÇÊ">
-<!ENTITY hideThisAppCmdMac.label                           "ÅÎÝÇÁ &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey                      "Ç">
-<!ENTITY hideThisAppCmdMac.modifiers                       "ÊÓÑíÚ">
-<!ENTITY hideOtherAppsCmdMac.label                         "ÅÎÝÇÁ ÇÎÑì">
-<!ENTITY hideOtherAppsCmdMac.commandkey                    "Ç">
-<!ENTITY hideOtherAppsCmdMac.modifiers                     "ÊÓÑíÚ,ÈÏíá">
-<!ENTITY showAllAppsCmdMac.label                           "ÚÑÖ Çáßá">
+<!ENTITY servicesMenuMac.label                             "Ø§Ù„Ø®Ø¯Ù…Ø§Øª">
+<!ENTITY hideThisAppCmdMac.label                           "Ø¥Ø®ÙØ§Ø¡ &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey                      "Ø§">
+<!ENTITY hideThisAppCmdMac.modifiers                       "ØªØ³Ø±ÙŠØ¹">
+<!ENTITY hideOtherAppsCmdMac.label                         "Ø¥Ø®ÙØ§Ø¡ Ø§Ø®Ø±Ù‰">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "Ø§">
+<!ENTITY hideOtherAppsCmdMac.modifiers                     "ØªØ³Ø±ÙŠØ¹,Ø¨Ø¯ÙŠÙ„">
+<!ENTITY showAllAppsCmdMac.label                           "Ø¹Ø±Ø¶ Ø§Ù„ÙƒÙ„">
 

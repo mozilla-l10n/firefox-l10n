@@ -35,22 +35,22 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY reminderdialog.title                              " ÅÚÏÇÏ ÊÐßíÑÇÊ ">
-<!ENTITY reminder.add.label                                "ÃÖÝ">
-<!ENTITY reminder.add.accesskey                            "Ô">
-<!ENTITY reminder.remove.label                             "ÍÐÝ">
-<!ENTITY reminder.remove.accesskey                         "Þ">
+<!ENTITY reminderdialog.title                              " Ø¥Ø¹Ø¯Ø§Ø¯ ØªØ°ÙƒÙŠØ±Ø§Øª ">
+<!ENTITY reminder.add.label                                "Ø£Ø¶Ù">
+<!ENTITY reminder.add.accesskey                            "Ø´">
+<!ENTITY reminder.remove.label                             "Ø­Ø°Ù">
+<!ENTITY reminder.remove.accesskey                         "Ù‚">
 
-<!ENTITY reminder.reminderDetails.label                    "ÊÐßÑ ÊÝÇÕíá">
-<!ENTITY reminder.action.label                             "ÅÎÊÇÑ ØÑíÞÉ ááÊÐßíÑ">
+<!ENTITY reminder.reminderDetails.label                    "ØªØ°ÙƒØ± ØªÙØ§ØµÙŠÙ„">
+<!ENTITY reminder.action.label                             "Ø¥Ø®ØªØ§Ø± Ø·Ø±ÙŠÙ‚Ø© Ù„Ù„ØªØ°ÙƒÙŠØ±">
 
-<!ENTITY reminder.relation.before.label                    "ÞÈá" >
-<!ENTITY reminder.relation.after.label                     "ÈÚÏ" >
+<!ENTITY reminder.relation.before.label                    "Ù‚Ø¨Ù„" >
+<!ENTITY reminder.relation.after.label                     "Ø¨Ø¹Ø¯" >
 
-<!ENTITY reminder.action.alert.label                       "ÅÚÑÖ ÊäÈíå">
-<!ENTITY reminder.action.email.label                       "ÅÑÓá ÈÑíÏ ÅáßÊÑæäí">
+<!ENTITY reminder.action.alert.label                       "Ø¥Ø¹Ø±Ø¶ ØªÙ†Ø¨ÙŠÙ‡">
+<!ENTITY reminder.action.email.label                       "Ø¥Ø±Ø³Ù„ Ø¨Ø±ÙŠØ¯ Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ">
 
-<!ENTITY alarm.units.minutes                               "ÏÞÇÆÞ" >
-<!ENTITY alarm.units.hours                                 "ÓÇÚÇÊ" >
-<!ENTITY alarm.units.days                                  "ÃíÇã" >
+<!ENTITY alarm.units.minutes                               "Ø¯Ù‚Ø§Ø¦Ù‚" >
+<!ENTITY alarm.units.hours                                 "Ø³Ø§Ø¹Ø§Øª" >
+<!ENTITY alarm.units.days                                  "Ø£ÙŠØ§Ù…" >
 
