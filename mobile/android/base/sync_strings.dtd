@@ -38,7 +38,7 @@
 <!ENTITY sync.button.manual.label 'Configuration manuelle'>
 <!ENTITY sync.subtitle.nointernet.label 'Connexion à Internet non disponible.'>
 <!ENTITY sync.subtitle.failaccount.label 'La création du compte sur votre appareil a échoué.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Avez-vous plusieurs Firefox d\u0027installés ? &syncBrand.fullName.label; ne supporte actuellement qu\u0027une seule installation de Firefox à la fois. Désinstallez les autres instances pour utiliser &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Avez-vous plusieurs Firefox installés ? &syncBrand.fullName.label; ne supporte actuellement qu\u0027une seule installation de Firefox à la fois. Désinstallez les autres instances pour utiliser &syncBrand.shortName.label;.'>
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuration terminée'>
