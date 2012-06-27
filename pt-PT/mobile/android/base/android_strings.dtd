@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Recarregar">
 <!ENTITY forward "Avançar">
+<!ENTITY menu "Menu">
+<!ENTITY back "Retroceder">
+<!ENTITY stop "Parar">
+<!ENTITY site_security "Segurança do sítio">
 
 <!ENTITY close_tab "Fechar separador">
 <!ENTITY new_tab "Novo separador">
@@ -92,6 +96,7 @@
 
 <!ENTITY addons "Extras">
 <!ENTITY downloads "Transferências">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Codificação de caracteres">
 
 <!ENTITY share "Partilhar">
@@ -140,7 +145,7 @@
 <!ENTITY masterpassword_create_title "Criar senha mestra">
 <!ENTITY masterpassword_remove_title "Remover senha mestra">
 <!ENTITY masterpassword_password "Senha">
-<!ENTITY masterpassword_confirm "Confirmar ">
+<!ENTITY masterpassword_confirm "Confirmar senha">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
