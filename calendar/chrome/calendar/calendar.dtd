@@ -23,18 +23,31 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Šio kalendorinio mėnesio įvykiai">
 
 <!ENTITY calendar.unifinder.tree.done.label          "Atlikta">
+<!ENTITY calendar.unifinder.tree.done.tooltip        "Spustelėkite, jei reikia surikiuoti pagal tai, ar atlikta">
 <!ENTITY calendar.unifinder.tree.priority.label      "Prioritetas">
+<!ENTITY calendar.unifinder.tree.priority.tooltip    "Spustelėkite, jei reikia surikiuoti pagal prioritetą">
 <!ENTITY calendar.unifinder.tree.title.label         "Pavadinimas">
+<!ENTITY calendar.unifinder.tree.title.tooltip       "Spustelėkite, jei reikia surikiuoti pagal pavadinimą">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Įvykdyta">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Spustelėkite, jei reikia surikiuoti pagal įvykdymo procentą">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Pradžia">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip   "Spustelėkite, jei reikia surikiuoti pagal pradžios datą">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Pabaiga">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip     "Spustelėkite, jei reikia surikiuoti pagal pabaigos datą">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Terminas">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip     "Spustelėkite, jei reikia surikiuoti pagal termino datą">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Užbaigtas">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip "Spustelėkite, jei reikia surikiuoti pagal tai, ar užbaigtas">
 <!ENTITY calendar.unifinder.tree.categories.label    "Tipas">
+<!ENTITY calendar.unifinder.tree.categories.tooltip  "Spustelėkite, jei reikia surikiuoti pagal tipą">
 <!ENTITY calendar.unifinder.tree.location.label      "Vieta">
+<!ENTITY calendar.unifinder.tree.location.tooltip    "Spustelėkite, jei reikia surikiuoti pagal vietą">
 <!ENTITY calendar.unifinder.tree.status.label        "Eiga">
+<!ENTITY calendar.unifinder.tree.status.tooltip      "Spustelėkite, jei reikia surikiuoti pagal eigą">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Kalendoriaus pavadinimas">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Spustelėkite, jei reikia surikiuoti pagal kalendoriaus pavadinimą">
 <!ENTITY calendar.unifinder.tree.duration.label      "Likęs laikas">
+<!ENTITY calendar.unifinder.tree.duration.tooltip    "Spustelėkite, jei reikia surikiuoti pagal likusį laiką">
 <!ENTITY calendar.unifinder.close.tooltip            "Užverti įvykių paiešką ir įvykių sąrašą">
 
 <!ENTITY calendar.today.button.tooltip            "Eiti į šios dienos kalendorių" >
