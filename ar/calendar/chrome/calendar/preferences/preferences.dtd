@@ -39,16 +39,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  prefWindow.titleWin     "ÎíÇÑÇÊ">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; ÅÚÏÇÏÇÊ">
+<!ENTITY  prefWindow.titleWin     "Ø®ÙŠØ§Ø±Ø§Øª">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª">
 <!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
 <!ENTITY  prefWindow.styleMac     "width: 47em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
 
-<!ENTITY  paneGeneral.title       "ÚÇã">
-<!ENTITY  paneAlarms.title        "ÊäÈíåÇÊ">
-<!ENTITY  paneCategories.title    "ÊÕäíÝÇÊ">
-<!ENTITY  paneViews.title         "ÚÑÖ">
-<!ENTITY  paneTimezones.title     "ÊæÞíÊß">
-<!ENTITY  paneAdvanced.title      "ãÊÞÏã">
+<!ENTITY  paneGeneral.title       "Ø¹Ø§Ù…">
+<!ENTITY  paneAlarms.title        "ØªÙ†Ø¨ÙŠÙ‡Ø§Øª">
+<!ENTITY  paneCategories.title    "ØªØµÙ†ÙŠÙØ§Øª">
+<!ENTITY  paneViews.title         "Ø¹Ø±Ø¶">
+<!ENTITY  paneTimezones.title     "ØªÙˆÙ‚ÙŠØªÙƒ">
+<!ENTITY  paneAdvanced.title      "Ù…ØªÙ‚Ø¯Ù…">
 

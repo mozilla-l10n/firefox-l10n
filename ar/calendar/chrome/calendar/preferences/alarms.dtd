@@ -41,30 +41,30 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.alarmgoesoff.label " ÚäÏãÇ íßæä ÌÑÓ ÇáÅäÐÇÑ :">
-<!ENTITY pref.playasound "ÊÔÛíá ÕæÊ">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "Ó">
-<!ENTITY pref.calendar.alarms.sound.useDefault.label " ÇÓÊÎÏÇã ÇáÕæÊ ÇáÇÝÊÑÇÖí">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "í">
-<!ENTITY pref.calendar.alarms.sound.browse.label "ÊÕÝÍâ€¦">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "áÇ">
-<!ENTITY pref.calendar.alarms.sound.preview.label " ãÚÇíäÉ">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "Í">
-<!ENTITY pref.showalarmbox "ÅÙåÑ ãÑÈÚ ÇáÊäÈå">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "Á">
-<!ENTITY pref.missedalarms "ÅÙåÑ ÇáÊäÈíåÇÊ ÇáäÝÞæÏÉ">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "É">
-<!ENTITY pref.calendar.alarms.defaults.label " ÇáÇÝÊÑÇÖÇÊ ÇáãäÈå">
-<!ENTITY pref.defalarm4events.label " ÅÚÏÇÏÇÊ ÇáÊäÈíå ÇáÅÝÊÑÇÖíÉ ááÍÏË:">
-<!ENTITY pref.defalarm4events.accesskey "Ë">
-<!ENTITY pref.defalarm4todos.label "ÅÚÏÇÏÇÊ ÇáÊäÈíå ÇáÅÝÊÑÇÖíÉ ááãåÇã: ">
-<!ENTITY pref.defalarm4todos.accesskey "Ô">
-<!ENTITY pref.alarm.on "ÊÔÛíá">
-<!ENTITY pref.alarm.off "ÅíÞÇÝ">
-<!ENTITY pref.defalarmlen4events.label "ÇáÊæÞíÊ ÇáÅÝÊÑÇÖí¡ ÅÛáÇÞ ÇáÊäÈíå ÞÈá ÇáÍÏË:">
-<!ENTITY pref.defalarmlen4events.accesskey "Ú">
-<!ENTITY pref.defalarmlen4todos.label " ÇáÊæÞíÊ ÇáÅÝÊÑÇÖí¡ ÊÔÛíá ÇáÊäÈíå ÞÈá ÇáÍÏË:">
-<!ENTITY pref.defalarmlen4todos.accesskey "Î">
-<!ENTITY pref.defaultemail.label "ÇáÚäæÇä ÇáÅÝÊÑÇÖí áÅÑÓÇá ÇáÊäÈíå Åáíå: ">
-<!ENTITY pref.defaulttext.label "ÇáäÕ ÇáÅÝÊÑÇÖí ááÊäÈíå: ">
+<!ENTITY pref.alarmgoesoff.label " Ø¹Ù†Ø¯Ù…Ø§ ÙŠÙƒÙˆÙ† Ø¬Ø±Ø³ Ø§Ù„Ø¥Ù†Ø°Ø§Ø± :">
+<!ENTITY pref.playasound "ØªØ´ØºÙŠÙ„ ØµÙˆØª">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "Ø³">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label " Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„ØµÙˆØª Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠ">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "ÙŠ">
+<!ENTITY pref.calendar.alarms.sound.browse.label "ØªØµÙØ­â€¦">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "Ù„Ø§">
+<!ENTITY pref.calendar.alarms.sound.preview.label " Ù…Ø¹Ø§ÙŠÙ†Ø©">
+<!ENTITY pref.calendar.alarms.sound.preview.accessKey "Ø­">
+<!ENTITY pref.showalarmbox "Ø¥Ø¸Ù‡Ø± Ù…Ø±Ø¨Ø¹ Ø§Ù„ØªÙ†Ø¨Ù‡">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "Ø¡">
+<!ENTITY pref.missedalarms "Ø¥Ø¸Ù‡Ø± Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡Ø§Øª Ø§Ù„Ù†ÙÙ‚ÙˆØ¯Ø©">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "Ø©">
+<!ENTITY pref.calendar.alarms.defaults.label " Ø§Ù„Ø§ÙØªØ±Ø§Ø¶Ø§Øª Ø§Ù„Ù…Ù†Ø¨Ù‡">
+<!ENTITY pref.defalarm4events.label " Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡ Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶ÙŠØ© Ù„Ù„Ø­Ø¯Ø«:">
+<!ENTITY pref.defalarm4events.accesskey "Ø«">
+<!ENTITY pref.defalarm4todos.label "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡ Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶ÙŠØ© Ù„Ù„Ù…Ù‡Ø§Ù…: ">
+<!ENTITY pref.defalarm4todos.accesskey "Ø´">
+<!ENTITY pref.alarm.on "ØªØ´ØºÙŠÙ„">
+<!ENTITY pref.alarm.off "Ø¥ÙŠÙ‚Ø§Ù">
+<!ENTITY pref.defalarmlen4events.label "Ø§Ù„ØªÙˆÙ‚ÙŠØª Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶ÙŠØŒ Ø¥ØºÙ„Ø§Ù‚ Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡ Ù‚Ø¨Ù„ Ø§Ù„Ø­Ø¯Ø«:">
+<!ENTITY pref.defalarmlen4events.accesskey "Ø¹">
+<!ENTITY pref.defalarmlen4todos.label " Ø§Ù„ØªÙˆÙ‚ÙŠØª Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶ÙŠØŒ ØªØ´ØºÙŠÙ„ Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡ Ù‚Ø¨Ù„ Ø§Ù„Ø­Ø¯Ø«:">
+<!ENTITY pref.defalarmlen4todos.accesskey "Ø®">
+<!ENTITY pref.defaultemail.label "Ø§Ù„Ø¹Ù†ÙˆØ§Ù† Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶ÙŠ Ù„Ø¥Ø±Ø³Ø§Ù„ Ø§Ù„ØªÙ†Ø¨ÙŠÙ‡ Ø¥Ù„ÙŠÙ‡: ">
+<!ENTITY pref.defaulttext.label "Ø§Ù„Ù†Øµ Ø§Ù„Ø¥ÙØªØ±Ø§Ø¶ÙŠ Ù„Ù„ØªÙ†Ø¨ÙŠÙ‡: ">
 

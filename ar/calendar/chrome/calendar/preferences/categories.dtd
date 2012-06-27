@@ -41,19 +41,19 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "ÃÖÝ ÊÕäíÞ">
-<!ENTITY pref.categories.addButton.label "ÃÖÝâ€¦">
-<!ENTITY pref.categories.addButton.accesskey "Ô">
-<!ENTITY pref.categories.edit.title "ÍÑÑ ÇáÊÕäíÝ">
-<!ENTITY pref.categories.editButton.label "ÍÑÑâ€¦">
-<!ENTITY pref.categories.editButton.accesskey "Ë">
-<!ENTITY pref.categories.removeButton.label "ÍÐÝ">
-<!ENTITY pref.categories.removeButton.accesskey "Þ">
-<!ENTITY pref.categories.name.label "ÇáÅÓã">
-<!ENTITY pref.categories.color.label "Çááæä">
-<!ENTITY pref.categories.usecolor.label "ÅÓÊÎÏã Çááæä">
-<!ENTITY pref.categories.none.label "(ÈáÇ)">
-<!ENTITY pref.categories.overwrite "íæÌÏ ÊÕäíÝ ÈåÐÇ ÇáÅÓã. \n åá ÊÑíÏ ÇáßÊÇÈÉ ÝæÞå¿">
-<!ENTITY pref.categories.overwrite.title "ÊÍÐíÑ: ÅÓã ãßÑÑ">
-<!ENTITY pref.categories.noBlankCategories "áÇÈÏ ã ÅÏÎÇá ÅÓã ááÊÕäíÝ.">
+<!ENTITY pref.categories.add.title "Ø£Ø¶Ù ØªØµÙ†ÙŠÙ‚">
+<!ENTITY pref.categories.addButton.label "Ø£Ø¶Ùâ€¦">
+<!ENTITY pref.categories.addButton.accesskey "Ø´">
+<!ENTITY pref.categories.edit.title "Ø­Ø±Ø± Ø§Ù„ØªØµÙ†ÙŠÙ">
+<!ENTITY pref.categories.editButton.label "Ø­Ø±Ø±â€¦">
+<!ENTITY pref.categories.editButton.accesskey "Ø«">
+<!ENTITY pref.categories.removeButton.label "Ø­Ø°Ù">
+<!ENTITY pref.categories.removeButton.accesskey "Ù‚">
+<!ENTITY pref.categories.name.label "Ø§Ù„Ø¥Ø³Ù…">
+<!ENTITY pref.categories.color.label "Ø§Ù„Ù„ÙˆÙ†">
+<!ENTITY pref.categories.usecolor.label "Ø¥Ø³ØªØ®Ø¯Ù… Ø§Ù„Ù„ÙˆÙ†">
+<!ENTITY pref.categories.none.label "(Ø¨Ù„Ø§)">
+<!ENTITY pref.categories.overwrite "ÙŠÙˆØ¬Ø¯ ØªØµÙ†ÙŠÙ Ø¨Ù‡Ø°Ø§ Ø§Ù„Ø¥Ø³Ù…. \n Ù‡Ù„ ØªØ±ÙŠØ¯ Ø§Ù„ÙƒØªØ§Ø¨Ø© ÙÙˆÙ‚Ù‡ØŸ">
+<!ENTITY pref.categories.overwrite.title "ØªØ­Ø°ÙŠØ±: Ø¥Ø³Ù… Ù…ÙƒØ±Ø±">
+<!ENTITY pref.categories.noBlankCategories "Ù„Ø§Ø¨Ø¯ Ù… Ø¥Ø¯Ø®Ø§Ù„ Ø¥Ø³Ù… Ù„Ù„ØªØµÙ†ÙŠÙ.">
 

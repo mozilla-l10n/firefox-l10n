@@ -42,69 +42,69 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "ÍÏË ÌÏíÏ€¦">
-<!ENTITY event.new.event.key                    "í">
-<!ENTITY event.new.event.accesskey              "í">
+<!ENTITY event.new.event                        "Ø­Ø¯Ø« Ø¬Ø¯ÙŠØ¯â‚¬Â¦">
+<!ENTITY event.new.event.key                    "ÙŠ">
+<!ENTITY event.new.event.accesskey              "ÙŠ">
 
-<!ENTITY event.new.todo                         "ãåãÉ ÌÏíÏÉâ€¦">
-<!ENTITY event.new.todo.key                     "ã">
-<!ENTITY event.new.todo.accesskey               "ã">
+<!ENTITY event.new.todo                         "Ù…Ù‡Ù…Ø© Ø¬Ø¯ÙŠØ¯Ø©â€¦">
+<!ENTITY event.new.todo.key                     "Ù…">
+<!ENTITY event.new.todo.accesskey               "Ù…">
 
-<!ENTITY calendar.new.server.label              "ÊÞæíã ÌÏíÏâ€¦">
-<!ENTITY calendar.new.server.key                "Þ">
-<!ENTITY calendar.new.server.accesskey          "Þ">
+<!ENTITY calendar.new.server.label              "ØªÙ‚ÙˆÙŠÙ… Ø¬Ø¯ÙŠØ¯â€¦">
+<!ENTITY calendar.new.server.key                "Ù‚">
+<!ENTITY calendar.new.server.accesskey          "Ù‚">
 
-<!ENTITY calendar.print.label                   "ØÈÇÚÉâ€¦">
-<!ENTITY calendar.print.key                     "Ø">
-<!ENTITY calendar.print.accesskey               "Ø">
+<!ENTITY calendar.print.label                   "Ø·Ø¨Ø§Ø¹Ø©â€¦">
+<!ENTITY calendar.print.key                     "Ø·">
+<!ENTITY calendar.print.accesskey               "Ø·">
 
-<!ENTITY calendar.import.label                  "ÅÓÊíÑÇÏâ€¦">
-<!ENTITY calendar.import.key                    "Ó">
-<!ENTITY calendar.import.accesskey              "Ó">
+<!ENTITY calendar.import.label                  "Ø¥Ø³ØªÙŠØ±Ø§Ø¯â€¦">
+<!ENTITY calendar.import.key                    "Ø³">
+<!ENTITY calendar.import.accesskey              "Ø³">
 
-<!ENTITY calendar.export.label                  "ÊÕÏíÑâ€¦">
-<!ENTITY calendar.export.accesskey              "Õ">
-<!ENTITY calendar.export.selection.label        "ÕÏÑ ÇáãÎÊÇÑâ€¦">
-<!ENTITY calendar.export.selection.accesskey    "Î">
+<!ENTITY calendar.export.label                  "ØªØµØ¯ÙŠØ±â€¦">
+<!ENTITY calendar.export.accesskey              "Øµ">
+<!ENTITY calendar.export.selection.label        "ØµØ¯Ø± Ø§Ù„Ù…Ø®ØªØ§Ø±â€¦">
+<!ENTITY calendar.export.selection.accesskey    "Ø®">
 
-<!ENTITY calendar.publish.label                 "äÔÑâ€¦">
-<!ENTITY calendar.publish.accesskey             "Ô">
+<!ENTITY calendar.publish.label                 "Ù†Ø´Ø±â€¦">
+<!ENTITY calendar.publish.accesskey             "Ø´">
 
-<!ENTITY calendar.deletecalendar.label          "ÍÐÝ ÇáÊÞæíã ÇáãÎÊÇÑâ€¦">
-<!ENTITY calendar.deletecalendar.accesskey      "Ð">
+<!ENTITY calendar.deletecalendar.label          "Ø­Ø°Ù Ø§Ù„ØªÙ‚ÙˆÙŠÙ… Ø§Ù„Ù…Ø®ØªØ§Ø±â€¦">
+<!ENTITY calendar.deletecalendar.accesskey      "Ø°">
 
-<!ENTITY calendar.menu.customize.label          "ÊÎÕíÕâ€¦">
-<!ENTITY calendar.menu.customize.accesskey      "Ê">
+<!ENTITY calendar.menu.customize.label          "ØªØ®ØµÙŠØµâ€¦">
+<!ENTITY calendar.menu.customize.accesskey      "Øª">
 
-<!ENTITY showUnifinderCmd.label                 "áÅíÎË Úä ÍÏË">
-<!ENTITY showUnifinderCmd.accesskey             "Ë">
+<!ENTITY showUnifinderCmd.label                 "Ù„Ø¥ÙŠØ®Ø« Ø¹Ù† Ø­Ø¯Ø«">
+<!ENTITY showUnifinderCmd.accesskey             "Ø«">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "ÅÙåÑ ÇáãåãÇÊ Ýì ÇáÊÞæíã">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "å">
+<!ENTITY calendar.displaytodos.checkbox.label       "Ø¥Ø¸Ù‡Ø± Ø§Ù„Ù…Ù‡Ù…Ø§Øª ÙÙ‰ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "Ù‡">
 
-<!ENTITY calendar.menu.numberofweeks.label      "ÚÑÖ ÍÌã ãÊÚÏÏ ÇáÃÓÈæÚ">
-<!ENTITY calendar.menu.numberofweeks.2          "ÅÓÈæÚÇä">
-<!ENTITY calendar.menu.numberofweeks.3          "ËáÇË ÃÓÇÈíÚ">
-<!ENTITY calendar.menu.numberofweeks.4          "ÃÑÈÚ ÃÓÇÈíÚ">
-<!ENTITY calendar.menu.numberofweeks.5          "ÎãÓ ÃÓÇÈíÚ">
-<!ENTITY calendar.menu.numberofweeks.6          "ÓÊ ÃÓÇÈíÚ">
+<!ENTITY calendar.menu.numberofweeks.label      "Ø¹Ø±Ø¶ Ø­Ø¬Ù… Ù…ØªØ¹Ø¯Ø¯ Ø§Ù„Ø£Ø³Ø¨ÙˆØ¹">
+<!ENTITY calendar.menu.numberofweeks.2          "Ø¥Ø³Ø¨ÙˆØ¹Ø§Ù†">
+<!ENTITY calendar.menu.numberofweeks.3          "Ø«Ù„Ø§Ø« Ø£Ø³Ø§Ø¨ÙŠØ¹">
+<!ENTITY calendar.menu.numberofweeks.4          "Ø£Ø±Ø¨Ø¹ Ø£Ø³Ø§Ø¨ÙŠØ¹">
+<!ENTITY calendar.menu.numberofweeks.5          "Ø®Ù…Ø³ Ø£Ø³Ø§Ø¨ÙŠØ¹">
+<!ENTITY calendar.menu.numberofweeks.6          "Ø³Øª Ø£Ø³Ø§Ø¨ÙŠØ¹">
 
-<!ENTITY goTodayCmd.label                       "Çáíæã">
-<!ENTITY goTodayCmd.accesskey                   "æ">
+<!ENTITY goTodayCmd.label                       "Ø§Ù„ÙŠÙˆÙ…">
+<!ENTITY goTodayCmd.accesskey                   "Ùˆ">
 
-<!ENTITY goPreviousCmd.day.label                "Çáíæã ÇáÓÇÈÞ">
-<!ENTITY goPreviousCmd.week.label               "ÇáÃÓÈæÚ ÇáÓÇÈÞ">
-<!ENTITY goPreviousCmd.month.label              "ÇáÔåÑ ÇáÓÇÈÞ">
-<!ENTITY goPreviousCmd.accesskey                "Ó">
+<!ENTITY goPreviousCmd.day.label                "Ø§Ù„ÙŠÙˆÙ… Ø§Ù„Ø³Ø§Ø¨Ù‚">
+<!ENTITY goPreviousCmd.week.label               "Ø§Ù„Ø£Ø³Ø¨ÙˆØ¹ Ø§Ù„Ø³Ø§Ø¨Ù‚">
+<!ENTITY goPreviousCmd.month.label              "Ø§Ù„Ø´Ù‡Ø± Ø§Ù„Ø³Ø§Ø¨Ù‚">
+<!ENTITY goPreviousCmd.accesskey                "Ø³">
 
-<!ENTITY goNextCmd.day.label                    "Çáíæã ÇáÊÇáí">
-<!ENTITY goNextCmd.week.label                   "ÇáÃÓÈæÚ ÇáÊÇáí">
-<!ENTITY goNextCmd.month.label                  "ÇáÔåÑ ÇáÊÇáí">
-<!ENTITY goNextCmd.all.accesskey                "Ê">
+<!ENTITY goNextCmd.day.label                    "Ø§Ù„ÙŠÙˆÙ… Ø§Ù„ØªØ§Ù„ÙŠ">
+<!ENTITY goNextCmd.week.label                   "Ø§Ù„Ø£Ø³Ø¨ÙˆØ¹ Ø§Ù„ØªØ§Ù„ÙŠ">
+<!ENTITY goNextCmd.month.label                  "Ø§Ù„Ø´Ù‡Ø± Ø§Ù„ØªØ§Ù„ÙŠ">
+<!ENTITY goNextCmd.all.accesskey                "Øª">
 
-<!ENTITY showCurrentView.label                  "ÚÑÖ ÇáÍÇáí">
-<!ENTITY showCurrentView.accesskey              "Ö">
+<!ENTITY showCurrentView.label                  "Ø¹Ø±Ø¶ Ø§Ù„Ø­Ø§Ù„ÙŠ">
+<!ENTITY showCurrentView.accesskey              "Ø¶">
 
-<!ENTITY calendar.properties.label              "ÎÕÇÆÕ ÇáÊÞæíãâ€¦">
-<!ENTITY calendar.properties.accesskey          "Î">
+<!ENTITY calendar.properties.label              "Ø®ØµØ§Ø¦Øµ Ø§Ù„ØªÙ‚ÙˆÙŠÙ…â€¦">
+<!ENTITY calendar.properties.accesskey          "Ø®">
 
