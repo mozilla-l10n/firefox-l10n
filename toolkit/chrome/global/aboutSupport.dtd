@@ -15,7 +15,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Alkalmazás alapadatai">
 <!ENTITY aboutSupport.appBasicsName "Név">
 <!ENTITY aboutSupport.appBasicsVersion "Verzió">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilkönyvtár">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profilmappa">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Engedélyezett bővítmények">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build konfiguráció">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
@@ -23,7 +29,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memóriahasználat">
 
 <!ENTITY aboutSupport.showDir.label "Könyvtár megnyitása">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -37,6 +42,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Érték">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementális GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Könyvtárak verziói">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Telepítési előzmények">
 <!ENTITY aboutSupport.updateHistoryTitle "Frissítési előzmények">

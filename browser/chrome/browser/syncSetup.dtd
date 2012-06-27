@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Kiszolgáló">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-kiszolgáló">
+<!ENTITY serverType.default.label      "Alapértelmezett: Mozilla &syncBrand.fullName.label;-kiszolgáló">
 <!ENTITY serverType.custom2.label   "Egyéni kiszolgáló használata...">
 <!ENTITY signIn.account2.label      "Fiók">
 <!ENTITY signIn.account2.accesskey  "F">

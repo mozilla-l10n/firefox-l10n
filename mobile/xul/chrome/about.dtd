@@ -1,4 +1,8 @@
 <!ENTITY aboutPage.title                        "A &brandShortName; névjegye">
+<!ENTITY aboutPage.warningVersion               "A &brandShortName; kísérleti és esetleg instabil.">
+<!ENTITY aboutPage.telemetryStart               " Automatikusan adatokat küld a teljesítményről, hardverről, felhasználásról és az egyéni beállításokról a">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;nak,">
+<!ENTITY aboutPage.telemetryEnd                 " hogy a &brandShortName; jobb lehessen.">
 <!ENTITY aboutPage.faq.label                    "GYIK">
 <!ENTITY aboutPage.support.label                "Támogatás">
 <!ENTITY aboutPage.privacyPolicy.label          "Adatvédelmi irányelvek">
