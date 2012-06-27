@@ -36,6 +36,10 @@
 <!ENTITY history_older_section "Más antiguo de 7 días">
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Siguiente">
+<!ENTITY menu "Menú">
+<!ENTITY back "Anterior">
+<!ENTITY stop "Parar">
+<!ENTITY site_security "Seguridad del sitio">
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY new_tab "Pestaña nueva">
 <!ENTITY num_tabs "&#037;d pestañas">
@@ -45,6 +49,7 @@
 <!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "Privacidad y seguridad">
 <!ENTITY pref_category_content "Contenido">
+<!ENTITY pref_category_importexport "Importar y Exportar">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_do_not_track "No quiero ser rastreado">
 <!ENTITY pref_telemetry "Enviar info. de rend.">
@@ -70,9 +75,11 @@
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
+<!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY apps "Aplicaciones">
 <!ENTITY char_encoding "Codif. caracteres">
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por">
@@ -127,3 +134,11 @@
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_run_by "que pertenece a">
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importar marcadores e historial
+                                      desde Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importar marcadores
+                                           desde Android">
+<!ENTITY bookmarkhistory_import_history "Importar historial
+                                      desde Android">
+<!ENTITY bookmarkhistory_import_wait "Por favor, espere…">

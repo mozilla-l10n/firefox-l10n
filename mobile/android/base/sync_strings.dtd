@@ -29,6 +29,8 @@
 <!ENTITY sync.button.tryagain.label "Reintentar">
 <!ENTITY sync.button.manual.label "Configuración manual">
 <!ENTITY sync.subtitle.nointernet.label "No está disponible una conexión a internet.">
+<!ENTITY sync.subtitle.failaccount.label "La creación de la cuenta en su dispositivo ha fallado.">
+<!ENTITY sync.subtitle.failmultiple.label "¿Tiene más de un Firefox instalado? Actualmente &syncBrand.fullName.label; sólo admite una instalación de Firefox a la vez. Por favor, desinstale las otras instancias para usar &syncBrand.shortName.label;.">
 <!ENTITY sync.title.success.label "Instalación completada">
 <!ENTITY sync.subtitle.success.label1 "Sus datos están ahora siendo descargados en segundo plano. Puede ir a Ajustes para administrar su cuenta o empezar a navegar con &brandShortName;.">
 <!ENTITY sync.settings.label "Configuración">
@@ -56,8 +58,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Pruebe de nuevo.">
 <!ENTITY sync.title.send.tab.label "Enviar pestañas a los dispositivos">
 <!ENTITY sync.button.send.label "Enviar">
-<!ENTITY sync.button.setup.label "Configurar Sync">
-<!ENTITY sync.button.continue.browsing.label "Continuar navegando">
-<!ENTITY sync.title.redirect.to.setup.label "Configurar Sync para enviar pestañas">
-<!ENTITY sync.text.redirect.to.setup.label "Configurar Firefox Sync en su dispositivo para enviar las pestañas a sus otros equipos.">
+<!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; para enviar pestañas">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
