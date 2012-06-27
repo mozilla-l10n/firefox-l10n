@@ -215,9 +215,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "o">
 
-<!ENTITY responsiveUI.label            "Modo adaptable">
-<!ENTITY responsiveUI.accesskey        "d">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "Vista de diseño adaptable">
+<!ENTITY responsiveDesignTool.accesskey "V">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
