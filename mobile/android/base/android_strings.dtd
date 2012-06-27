@@ -42,6 +42,10 @@
 
 <!ENTITY reload "Actualiser">
 <!ENTITY forward "Page suivante">
+<!ENTITY menu "Menu">
+<!ENTITY back "Retour">
+<!ENTITY stop "Arrêter">
+<!ENTITY site_security "Sécurité du site">
 
 <!ENTITY close_tab "Fermer l\u0027onglet">
 <!ENTITY new_tab "Nouvel onglet">
