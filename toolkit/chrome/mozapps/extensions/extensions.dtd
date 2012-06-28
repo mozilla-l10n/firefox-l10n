@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "مدير الإضافات">
+
 <!ENTITY search.placeholder                   "ابحث في كل الإضافات">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "يحمّل…">
 <!ENTITY listEmpty.installed.label            "ليس لديك أي إضافات مثبتة من هذا النوع">
 <!ENTITY listEmpty.availableUpdates.label     "لا تحديثات متوفرة">
