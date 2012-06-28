@@ -73,10 +73,7 @@
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
 <!ENTITY pref_char_encoding_off "Visa ingen meny">
-<!ENTITY pref_clear_history "Rensa historiken">
-<!ENTITY pref_clear_history_confirm "Webbläsarhistoriken kommer att tas bort">
 <!ENTITY pref_clear_private_data "Rensa känslig data">
-<!ENTITY pref_clear_private_data_confirm "Webbläsarinställningar, inklusive lösenord och kakor kommer att tas bort">
 <!ENTITY pref_plugins "Insticksmoduler">
 <!ENTITY pref_plugins_enabled "Aktiverade">
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
@@ -90,6 +87,14 @@
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
+<!ENTITY pref_import_android "Importera från Android">
+<!ENTITY pref_private_data_history "Surf- och filhämtningshistorik">
+<!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
+<!ENTITY pref_private_data_cookies "Kakor">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Aktiva inloggningar">
+<!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
+<!ENTITY pref_private_data_siteSettings "Platsinställningar">
 
 <!ENTITY quit "Avsluta">
 
@@ -148,6 +153,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Avbryt">
+<!ENTITY button_clear_data "Rensa data">
 
 <!ENTITY abouthome_addons_title "Tillägg till &brandShortName;">
 <!ENTITY abouthome_addons_browse "Bläddra bland alla &brandShortName;-tillägg">
