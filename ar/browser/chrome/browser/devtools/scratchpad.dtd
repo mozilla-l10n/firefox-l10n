@@ -1,5 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -9,6 +17,8 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+
+
 
 <!ENTITY window.title                 "المفكرة البرمجية">
 
@@ -36,30 +46,6 @@
 
 <!ENTITY editMenu.label               "تحرير">
 <!ENTITY editMenu.accesskey           "ح">
-
-<!ENTITY undoCmd.label                "ألغِ">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "ل">
-
-<!ENTITY redoCmd.label                "تراجَع">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "ع">
-
-<!ENTITY cutCmd.label                 "قصّ">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "ص">
-
-<!ENTITY copyCmd.label                "انسخ">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "خ">
-
-<!ENTITY pasteCmd.label               "ألصِق">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "ق">
-
-<!ENTITY selectAllCmd.label           "اختر الكل">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "ك">
 
 <!ENTITY run.label                    "شغّل">
 <!ENTITY run.accesskey                "ش">
@@ -94,9 +80,21 @@
 
 <!ENTITY browserContext.label         "المتصفح">
 <!ENTITY browserContext.accesskey     "ص">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+
+<!ENTITY helpMenu.label               "مساعدة">
+<!ENTITY helpMenu.accesskey           "س">
+<!ENTITY helpMenuWin.label            "مساعدة">
+<!ENTITY helpMenuWin.accesskey        "س">
+
+<!ENTITY documentationLink.label      "مساعدة المفكرة البرمجية في MDN">
+<!ENTITY documentationLink.accesskey  "ع">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+
 
 <!ENTITY resetContext2.label          "صفّر المتغيرات">
 <!ENTITY resetContext2.accesskey      "ص">
