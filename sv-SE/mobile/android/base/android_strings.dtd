@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Uppdatera">
 <!ENTITY forward "Framåt">
+<!ENTITY menu "Meny">
+<!ENTITY back "Bakåt">
+<!ENTITY stop "Stopp">
+<!ENTITY site_security "Webbplatssäkerhet">
 
 <!ENTITY close_tab "Stäng flik">
 <!ENTITY new_tab "Ny flik">
