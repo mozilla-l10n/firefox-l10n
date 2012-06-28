@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Försök igen'>
 <!ENTITY sync.button.manual.label 'Manuell inställning'>
 <!ENTITY sync.subtitle.nointernet.label 'Ingen tillgänglig internetanslutning.'>
+<!ENTITY sync.subtitle.failaccount.label 'Kontot kunde inte skapas på din enhet.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Har du mer än en Firefox installerad? &syncBrand.fullName.label; stöder för närvarande endast en Firefox-installation i taget. Avinstallera andra instanser för att använda &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Inställningen är klar'>
