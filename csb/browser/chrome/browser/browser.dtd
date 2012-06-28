@@ -635,12 +635,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY leaveDOMFullScreen.label "Wińdzë z fùlekranowégò tribù">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
 
-<!ENTITY responsiveUI.label            "Wrażlëwi trib">
-<!ENTITY responsiveUI.accesskey        "i">
-<!ENTITY responsiveUI.commandkey       "i">
 
 <!ENTITY webConsoleButton.label "Kònsola WWW">
 <!ENTITY scriptsButton.label "Skriptë">
-<!ENTITY responsiveDesignTool.accesskey "d">
-<!ENTITY responsiveDesignTool.commandkey "D">
-<!ENTITY responsiveDesignTool.label "Dopasowny design">
+<!ENTITY responsiveDesignTool.accesskey "r">
+<!ENTITY responsiveDesignTool.commandkey "r">
+<!ENTITY responsiveDesignTool.label "Wrażlëwi design">
