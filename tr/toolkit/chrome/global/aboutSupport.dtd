@@ -51,7 +51,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Kitaplık sürümleri">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Kurulum tarihçesi">
-<!ENTITY aboutSupport.updateHistoryTitle "Güncelleme geçmişi">
+<!ENTITY aboutSupport.updateHistoryTitle "Güncelleme Geçmişi">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Tümünü panoya kopyala">
 

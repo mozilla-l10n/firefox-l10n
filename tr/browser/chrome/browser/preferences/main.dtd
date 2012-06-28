@@ -12,9 +12,9 @@
 
 <!ENTITY homepage.label            "Giriş sayfası:">
 <!ENTITY homepage.accesskey        "G">
-<!ENTITY useCurrentPage.label      "Güncel sayfayı kullan">
-<!ENTITY useCurrentPage.accesskey  "G">
-<!ENTITY useMultiple.label         "Güncel sayfaları kullan">
+<!ENTITY useCurrentPage.label      "Geçerli sayfayı kullan">
+<!ENTITY useCurrentPage.accesskey  "s">
+<!ENTITY useMultiple.label         "Geçerli sayfaları kullan">
 <!ENTITY chooseBookmark.label      "Yer imi kullan…">
 <!ENTITY chooseBookmark.accesskey  "Y">
 <!ENTITY restoreDefault.label      "Varsayılanı geri getir">
@@ -22,8 +22,8 @@
 
 <!ENTITY downloads.label     "İndirme">
 
-<!ENTITY showWhenDownloading.label     "Dosya indirirken indirme penceresini göster">
-<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY showWhenDownloading.label     "Dosya indirirken İndirilenler penceresini göster">
+<!ENTITY showWhenDownloading.accesskey "p">
 <!ENTITY closeWhenDone.label "İndirme işleri bitince indirme penceresini kapat">
 <!ENTITY closeWhenDone.accesskey "b">
 <!ENTITY saveTo.label "Dosya kayıt yeri">
