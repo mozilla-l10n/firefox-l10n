@@ -641,3 +641,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webConsoleButton.label "Kònsola WWW">
 <!ENTITY scriptsButton.label "Skriptë">
+<!ENTITY responsiveDesignTool.accesskey "d">
+<!ENTITY responsiveDesignTool.commandkey "D">
+<!ENTITY responsiveDesignTool.label "Dopasowny design">
