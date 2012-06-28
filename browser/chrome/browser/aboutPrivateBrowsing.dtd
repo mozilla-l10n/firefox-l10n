@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY privatebrowsingpage.title                 "التصفح الخاص">
 <!ENTITY privatebrowsingpage.title.normal          "أتريد أن تبدأ التصفح الخاص؟">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "لن يحفظ &brandShortName; أيّ تأريخ لهذه الجلسة.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "ليس &brandShortName; في نمط التصفح الخاص الآن.">
 
-<!ENTITY privatebrowsingpage.description               "لن يسجّل &brandShortName; الأحداث التي ستجري خلال جلسة التصفح الخاص هذه. ذلك يتضمّن تأريخ التصفح، وتأريخ البحث، وتأريخ التحميلات، وتأريخ نماذج الوب، والكعكات، وملفات الإنترنت المؤقتة. ولكنه سيحتفظ بالملفات التي تحمّلها وبالعلامات التي تضيفها. ">
+<!ENTITY privatebrowsingpage.description               "لن يسجّل &brandShortName; الأحداث التي ستجري خلال جلسة التصفح الخاص هذه، ذلك يتضمّن تأريخ التصفح، وتأريخ البحث، وتأريخ التحميلات، وتأريخ نماذج الوب، والكعكات، وملفات الإنترنت المؤقتة.  ولكنه سيحتفظ بالملفات التي تحمّلها وبالعلامات التي تضيفها.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 

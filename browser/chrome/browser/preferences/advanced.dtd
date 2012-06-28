@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "عام">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "تحقق دائمًا من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
 <!ENTITY alwaysCheckDefault.accesskey    "د">
-<!ENTITY checkNow.label                  "تحقق الآن">
-<!ENTITY checkNow.accesskey              "ن">
+<!ENTITY setDefault.label                "اجعل &brandShortName; المتصفّح المبدئي">
+<!ENTITY setDefault.accesskey            "ئ">
+<!ENTITY isDefault.label                 "‏&brandShortName; هو المتصفح المبدئي حاليا">
 <!ENTITY submitCrashes.label             "أرسِل بلاغًا بالانهيار">
 <!ENTITY submitCrashes.accesskey         "غ">
 <!ENTITY submitTelemetry.label           "أرسِل بيانات الأداء">
@@ -41,7 +46,9 @@
 <!ENTITY connectionSettings.label        "الإعدادات…">
 <!ENTITY connectionSettings.accesskey    "ع">
 
-<!ENTITY offlineStorage.label            "الحفظ للاستخدام دون اتصال">
+<!ENTITY httpCache.label                 "محتوى الوب المخزّن">
+
+<!ENTITY offlineStorage2.label           "محتوى الوب ومعلومات المستخدمة المخزّنة للعمل دون اتصال">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -54,6 +61,8 @@
 <!ENTITY limitCacheSizeAfter.label       "م.بايت من المساحة للذّاكرة الخبيئة">
 <!ENTITY clearCacheNow.label             "امسح الآن">
 <!ENTITY clearCacheNow.accesskey         "م">
+<!ENTITY clearOfflineAppCacheNow.label   "امسح الآن">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ن">
 <!ENTITY overrideSmartCacheSize.label    "تجاهل الإدارة الآلية للذاكرة الخبيئة">
 <!ENTITY overrideSmartCacheSize.accesskey "ذ">
 
@@ -61,9 +70,9 @@
 
 <!ENTITY updateApp.label                 "تحديثات &brandShortName;:">
 <!ENTITY updateAuto.label                "ثبّت التحديثات آليًا (منصوح به: يزيد الأمان)">
-<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAuto.accesskey            "ل">
 <!ENTITY updateCheck.label               "التمس التحديثات، ولكن اترك لي خيار تثبيتها من عدمه">
-<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateCheck.accesskey           "ت">
 <!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير منصوح به: مجازفة أمنية)">
 <!ENTITY updateManual.accesskey          "د">
 
@@ -77,8 +86,6 @@
 <!ENTITY useService.accesskey            "خ">
 
 <!ENTITY updateOthers.label              "تحديث تلقائي:">
-<!ENTITY enableAddonsUpdate3.label       "الإضافات">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "محركات البحث">
 <!ENTITY enableSearchUpdate.accesskey    "ح">
 
@@ -87,7 +94,7 @@
 <!ENTITY offlineNotifyExceptions.label   "الاستثناءات…">
 <!ENTITY offlineNotifyExceptions.accesskey "ث">
 
-<!ENTITY offlineAppsList.label           "للمواقع التالية بيانات منزّلة للاستخدام دون اتصال:">
+<!ENTITY offlineAppsList2.label          "يسمح للمواقع التالية بتخزين بيانات للعمل دون اتصال:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "احذف…">
 <!ENTITY offlineAppsListRemove.accesskey "ح">
