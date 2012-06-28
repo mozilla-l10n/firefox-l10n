@@ -86,8 +86,7 @@
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label 'Skicka flik till enheter'>
 <!ENTITY sync.button.send.label 'Skicka'>
-<!ENTITY sync.button.setup.label 'Ställ in Sync'>
-<!ENTITY sync.button.continue.browsing.label 'Fortsätt surfa'>
-<!ENTITY sync.title.redirect.to.setup.label 'Låt Sync skicka flikar'>
-<!ENTITY sync.text.redirect.to.setup.label 'Ställ in Firefox Sync på din enhet så flikar skickas till andra enheter.'>
+<!ENTITY sync.button.set.up.sync.label 'Ställ in &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Låt &syncBrand.shortName.label; skicka flikar'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Ställ in &syncBrand.fullName.label; på din enhet så flikar skickas till andra enheter.'>
 <!ENTITY sync.text.tab.sent.label 'Fliken skickades!'>
