@@ -1,40 +1,7 @@
 <!--
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is Mozilla Communicator client code.
-#
-# The Initial Developer of the Original Code is Daniel Brooks.
-# Portions created by the Initial Developer are Copyright (C) 2001
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s): Daniel Brooks <db48x@yahoo.com>
-#                 Florian QUEZE <f.qu@queze.net>
-#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the LGPL or the GPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
 <!ENTITY  pageInfoWindow.width  "600">
@@ -56,18 +23,18 @@
 <!ENTITY  generalSize           "الحجم:">
 <!ENTITY  generalReferrer       "العنوان المُحِيل:">
 <!ENTITY  generalSource         "مصدر الذّاكرة المؤقّتة:">
-<!ENTITY  generalModified       "عُدّل:">
+<!ENTITY  generalModified       "آخر تعديل:">
 <!ENTITY  generalEncoding       "الترميز:">
 <!ENTITY  generalMetaName       "الاسم">
 <!ENTITY  generalMetaContent    "المحتوى">
 <!ENTITY  generalSecurityDetails   "التفاصيل">
 <!ENTITY  generalSecurityDetails.accesskey "ص">
 
-<!ENTITY  mediaTab              "وسائط">
+<!ENTITY  mediaTab              "الوسائط">
 <!ENTITY  mediaTab.accesskey    "و">
 <!ENTITY  mediaLocation         "المكان:">
 <!ENTITY  mediaText             "النص المرتبط:">
-<!ENTITY  mediaAltHeader        "نصّ بديل">
+<!ENTITY  mediaAltHeader        "النصّ البديل">
 <!ENTITY  mediaAddress          "العنوان">
 <!ENTITY  mediaType             "النوع">
 <!ENTITY  mediaSize             "الحجم">
@@ -80,14 +47,14 @@
 <!ENTITY  mediaSaveAs2.accesskey "ك">
 <!ENTITY  mediaPreview          "معاينة الوسائط:">
 
-<!ENTITY  feedTab               "تلقيمات">
+<!ENTITY  feedTab               "التلقيمات">
 <!ENTITY  feedTab.accesskey     "ت">
 <!ENTITY  feedSubscribe         "اشترِك">
 <!ENTITY  feedSubscribe.accesskey "ش">
 
 <!ENTITY  permTab               "التّصاريح">
 <!ENTITY  permTab.accesskey     "ص">
-<!ENTITY  permUseDefault        "استخدم الافتراضي">
+<!ENTITY  permUseDefault        "استخدم المبدئي">
 <!ENTITY  permAskAlways         "اسأل دائمًا">
 <!ENTITY  permAllow             "اسمح">
 <!ENTITY  permAllowSession      "اسمح للجلسة">
@@ -97,9 +64,11 @@
 <!ENTITY  permPopup             "فتح نوافذ منبثقة">
 <!ENTITY  permCookie            "ضبط الكعكات">
 <!ENTITY  permInstall           "تثبيت امتدادات وسمات">
-<!ENTITY  permGeo               "تشارَك المكان">
+<!ENTITY  permGeo               "نشر المكان">
+<!ENTITY  permPlugins           "تفعيل الملحقات">
+<!ENTITY  permFullscreen        "التحول إلى ملء الشاشة">
 
-<!ENTITY  permIndexedDB              "اسمح بالتخزين بلا اتصال">
+<!ENTITY  permIndexedDB              "السماح بالتخزين بلا اتصال">
 <!ENTITY  permClearStorage           "امسح المخزون">
 <!ENTITY  permClearStorage.accesskey "ح">
 

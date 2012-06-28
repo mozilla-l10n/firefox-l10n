@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY permissionsManager.title        "مدير التصريحات">
 
 <!ENTITY sites.search                    "مواقع البحث">
@@ -27,9 +31,13 @@
 <!ENTITY cookie.removeAll                "أزِل كل الكعكات">
 
 <!ENTITY geo.label                       "تشارَك الموقع">
+
+<!ENTITY plugins.label                   "الملحقات">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
 <!ENTITY indexedDB.label                 "اعتنِ بالمحتوى المخزّن بلا اتصال">
 
 <!ENTITY popup.label                     "افتح النوافذ المنبثقة">
+
+<!ENTITY fullscreen.label                "ملء الشاشة">

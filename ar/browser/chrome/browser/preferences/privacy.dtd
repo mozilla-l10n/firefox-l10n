@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "التعقب">
 
 <!ENTITY doNotTrack.label               "أخبر المواقع أنني لا أريدها أن تتعقبني">
@@ -14,7 +18,6 @@
 <!ENTITY  locbar.history.label          "التأريخ">
 <!ENTITY  locbar.bookmarks.label        "العلامات">
 <!ENTITY  locbar.nothing.label          "لا شيء">
-
 
 <!ENTITY  acceptCookies.label           "اقبل الكعكات من المواقع">
 <!ENTITY  acceptCookies.accesskey       "ق">
@@ -64,11 +67,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "استخدم نمط التصفح الخاص دائمًا">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ئ">
 
-<!ENTITY  rememberHistory.label      "تذكّر تأريخ تصفحي">
-<!ENTITY  rememberHistory.accesskey  "ص">
-
-<!ENTITY  rememberDownload.label         "تذكّر تأريخ التنزيلات">
-<!ENTITY  rememberDownload.accesskey     "ز">
+<!ENTITY  rememberHistory2.label      "تذكر تأريخ تصفحي وتنزيلاتي">
+<!ENTITY  rememberHistory2.accesskey  "ص">
 
 <!ENTITY  rememberSearchForm.label       "تذكّر تأريخ النماذج والبحث">
 <!ENTITY  rememberSearchForm.accesskey   "ث">
