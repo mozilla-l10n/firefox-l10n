@@ -60,6 +60,7 @@
 <!ENTITY pref_category_general "Allmänt">
 <!ENTITY pref_category_privacy "Sekretess och säkerhet">
 <!ENTITY pref_category_content "Innehåll">
+<!ENTITY pref_category_importexport "Importera och exportera">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_do_not_track "Be platser att inte spåra mig">
 <!ENTITY pref_telemetry "Skicka prestandadata">
@@ -172,3 +173,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drivs av">
+
+<!ENTITY private_data_success "Känslig data är rensad">
+<!ENTITY private_data_fail "Viss känslig data kunde inte rensas ut">
+
+<!ENTITY bookmarkhistory_button_import "Importera">
+<!ENTITY bookmarkhistory_import_both "Importerar bokmärken och historik
+                                      från Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importerar bokmärken
+                                           från Android">
+<!ENTITY bookmarkhistory_import_history "Importerar historik
+                                         från Android">
+<!ENTITY bookmarkhistory_import_wait "Vänta …">
