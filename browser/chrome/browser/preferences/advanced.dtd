@@ -82,16 +82,16 @@
 <!ENTITY updateHistory.accesskey         "G">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
-<!ENTITY useService.accesskey            "h">
+<!ENTITY useService.accesskey            "k">
 
 <!ENTITY updateOthers.label              "Otomatik güncelle:">
 <!ENTITY enableSearchUpdate.label        "Arama motorları">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
-<!ENTITY offlineNotify.label             "Bir site çevrim dışı kullanım için veri depolamak istediğinde beni uyar">
-<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotify.label             "Bir site çevrim dışı kullanım için veri depolamak istediğinde bana bildir">
+<!ENTITY offlineNotify.accesskey         "v">
 <!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar…">
-<!ENTITY offlineNotifyExceptions.accesskey "A">
+<!ENTITY offlineNotifyExceptions.accesskey "c">
 
 <!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrim dışı kullanım için veri depolamasına izin verilmiştir:">
 <!ENTITY offlineAppsList.height          "7em">
