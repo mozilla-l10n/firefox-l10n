@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "خصّص شريط الأدوات">
-<!ENTITY dialog.dimensions        "width: 92ch؛ height: 36em؛">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "يمكنك إضافة العناصر وإزالتها بسحبها من أشرطة الأدوات وإليها.">
 <!ENTITY show.label               "اعرض:">
 <!ENTITY iconsAndText.label       "أيقونات ونصّ">
