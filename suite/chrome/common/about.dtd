@@ -4,3 +4,4 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Šiuo metu naudojamas ">
 <!ENTITY channel.description.end    " naujinimų kanalas.">
+<!ENTITY about.userAgent            "Naršyklės identifikacinė eilutė: ">

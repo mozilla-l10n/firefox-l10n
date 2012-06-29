@@ -28,5 +28,6 @@
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label       "Eksportuoti">
 <!ENTITY button.exportOPML.accesskey   "E">
+<!ENTITY button.exportOPML.tooltip     "Eksportuoti kanalus su aplankų struktūra. Naudokite Vald + spustelėjimą arba Vald + Įvesti, jeigu norite kanalus eksportuoti kaip sąrašą">
 
 <!ENTITY cmd.close.commandKey          "w">

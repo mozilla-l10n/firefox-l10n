@@ -6,9 +6,15 @@
 <!ENTITY  copy.accesskey        "K">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Pažymėti viską">
-<!ENTITY  selectall.accesskey   "a">
+<!ENTITY  selectall.accesskey   "v">
 <!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "W">
+<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copyLinks.label           "Kopijuoti saitą (-us)">
+<!ENTITY  copyLinks.accesskey       "o">
+<!ENTITY  openInNewTab.label        "Atverti naujoje kortelėje">
+<!ENTITY  openInNewTab.accesskey    "A">
+<!ENTITY  openInNewWindow.label     "Atverti naujame lange">
+<!ENTITY  openInNewWindow.accesskey "l">
 
 <!ENTITY  generalTab            "Bendroji">
 <!ENTITY  generalTab.accesskey  "B">
