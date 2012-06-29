@@ -35,3 +35,5 @@
 <!ENTITY installPlugin                                       "చొప్పింత సంస్థాపించు…">
 <!ENTITY managePlugins                                       "చొప్పింతను నిర్వహించు…">
 <!ENTITY missingPlugin                                       "ఈ విషయంను ప్రదర్శించుటకు వొక చొప్పింత అవసరమైంది.">
+<!ENTITY tapToPlayPlugin                                     "చొప్పింత క్రియాశీలపరచుటకు యిక్కడ తట్టండి.">
+
