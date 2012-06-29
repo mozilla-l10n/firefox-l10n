@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.emptytext      "أدخِل بحثًا أو عنوانًا">
 
-<!ENTITY back.label            "عودة">
-<!ENTITY forward.label         "إلى الأمام">
+<!ENTITY back.label            "السابق">
+<!ENTITY forward.label         "التالي">
 <!ENTITY reload.label          "أعِد التحميل">
 <!ENTITY stop.label            "أوقِف">
 <!ENTITY go.label              "اذهب">
@@ -43,7 +47,7 @@
 <!ENTITY addonsSearch2.emptytext   "ابحث في ">
 <!ENTITY addonsSearch.recommended  "المُزكَّاة">
 
-<!ENTITY addonOptions.label        "خيارات">
+<!ENTITY addonOptions.label        "الخيارات">
 <!ENTITY addonEnable.label         "فعّل">
 <!ENTITY addonDisable.label        "عطّل">
 <!ENTITY addonInstall2.label       "أضِف إلى &brandShortName;">
@@ -87,7 +91,7 @@
 <!ENTITY consoleMessages.label     "الرسائل">
 <!ENTITY consoleCodeEval.label     "الكود:">
 <!ENTITY consoleClear.label        "امسح">
-<!ENTITY consoleEvaluate.label     "قيّم">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "ملف المصدر:">
 <!ENTITY consoleErrLine.label      "السطر:">
 <!ENTITY consoleErrColumn.label    "العمود:">

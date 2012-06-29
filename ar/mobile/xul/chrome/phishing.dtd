@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "صفحة وب يُشتبه بأنها مزوّرة">
 
 <!ENTITY safeb.palm.message.p1 "أُبلغ عن هذه الصفحة أنها صفحة وب مزوّرة تهدف لخداع المستخدمين وجعلهم يقدمون معلوماتهم الشخصية أو المالية. إدخال معلومات شخصية في هذه الصفحة قد يؤدي إلى انتحال الهوية أو أنواع أخرى من الاحتيال.">

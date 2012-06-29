@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY prefsHeader.label                         "التفضيلات">
 <!ENTITY about.title                               "عن &brandShortName;">
 <!ENTITY about.button                              "اذهب إلى صفحة">
@@ -7,7 +11,7 @@
 <!ENTITY enableJavaScript.title                    "فعّل جافاسكربت">
 <!ENTITY privacy.title                             "الخصوصية والسرية">
 <!ENTITY allowCookies.title                        "اسمح بالكعكات">
-<!ENTITY doNotTrack.title                          "أخبِر المواقع أنني لا أريدها أن تتعقبني">
+<!ENTITY doNotTrack.title                          "أخبِر المواقع ألا تتعقبني">
 <!ENTITY masterPassword.title                      "استخدم كلمة السر الرئيسة">
 <!ENTITY clearPrivateData2.title                   "امسح البيانات الخاصة">
 <!ENTITY clearPrivateData.button                   "امسح">

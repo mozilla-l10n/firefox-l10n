@@ -58,7 +58,7 @@
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
 <!ENTITY pairDevice.title.label             "اربط جهازًا">
-<!ENTITY addDevice.showMeHow.label          "علّمني كيف أفعل ذلك">
+<!ENTITY addDevice.showMeHow.label          "أرني كيف.">
 <!ENTITY addDevice.dontHaveDevice.label     "الجهاز ليس معي الآن">
 <!ENTITY pairDevice.setup.description.label  "للتفعيل، اختر &#x0022;اربط جهازًا&#x0022; في جهازك الآخر.">
 <!ENTITY addDevice.setup.enterCode.label    "ثم أدخِل هذا الرمز:">

@@ -1,0 +1,81 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "تزامن فيَرفُكس">
+<!ENTITY syncBrand.shortName.label "تزامُن">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "اتصّل ب‍&syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "أضف حساب &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "اربط جهازًا">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "لتفعيل جهازك الجديد اختر ”إعداد &syncBrand.shortName.label;“ على الجهاز.">
+<!ENTITY sync.subtitle.header.label "أدخل هذا الرمز على حاسوبك">
+<!ENTITY sync.subtitle.connectlocation.label "اختر ”&sync.title.pair.label;“ من قسم &syncBrand.shortName.label; في خيارات فيَرفُكس على حاسوبك.">
+<!ENTITY sync.subtitle.pair.label "للتفعيل، اختر ”اربط جهازًا“ في جهازك الآخر.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "أرني كيف.">
+<!ENTITY sync.link.advancedsetup.label "الإعداد المتقدم…">
+<!ENTITY sync.link.nodevice.label "الجهاز ليس معي الآن…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "ينتظر الجهاز الآخر…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "أدخل معلومات حساب &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "اسم الحساب">
+<!ENTITY sync.input.password.label "كلمة السر">
+<!ENTITY sync.input.key.label "مفتاح الاستعادة">
+<!ENTITY sync.checkbox.server.label "استخدم خادومًا مخصصًا">
+<!ENTITY sync.input.server.label "عنوان الخادوم">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "تعذّر إعداد &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "تعذّر على &syncBrand.fullName.label; الاتصال بالخادوم. أتريد إعادة المحاولة؟">
+<!ENTITY sync.button.tryagain.label "أعِد المحاولة">
+<!ENTITY sync.button.manual.label "إعداد يدوي">
+<!ENTITY sync.subtitle.nointernet.label "لا يتوفر اتصال بالإنترنت.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "اكتمل الإعداد">
+<!ENTITY sync.subtitle.success.label1 "بياناتك تُنزّل الآن في الخلفية. يمكنك الذهاب إلى الإعدادات لإدارة حسابك، أو البدء في التصفح باستخدام &brandShortName;.">
+<!ENTITY sync.settings.label "الإعدادات">
+<!ENTITY sync.subtitle.manage.label1 "سبق إعداد حساب &syncBrand.fullName.label;. يمكنك الذهاب إلى الإعدادات لإدارة حسابك، أو تشغيل &brandShortName;.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "رجاء حاول مرة أخرى.">
+<!ENTITY sync.pair.connectlocation.label "لتفعيل جهازك الجديد اختر ”إعداد &syncBrand.shortName.label;“ على الجهاز، ثم أختر ”لدي حساب“">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "الخيارات">
+<!ENTITY sync.summary.pair.label "اربط جهازا آخر بحساب &syncBrand.shortName.label;">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "ألغِ">
+<!ENTITY sync.button.connect.label "اتصل">
+<!ENTITY sync.button.ok.label "حسنا">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "قائمة العلامات">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "الوسوم">
+<!ENTITY bookmarks.folder.toolbar.label "شريط العلامات">
+<!ENTITY bookmarks.folder.unfiled.label "العلامات غير المرتّبة">
+<!ENTITY bookmarks.folder.desktop.label "علامات سطح المكتب">
+<!ENTITY bookmarks.folder.mobile.label "علامات الجوال">
+<!ENTITY bookmarks.folder.readinglist.label "قائمة القراءة">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "لا يُدعم إلا حساب &syncBrand.fullName.label; واحد.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect "مفتاح الاستعادة خطأ. من فضلك أعد المحاولة.">
