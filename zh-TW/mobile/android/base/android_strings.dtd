@@ -47,6 +47,10 @@
 
 <!ENTITY reload "重新載入">
 <!ENTITY forward "下一頁">
+<!ENTITY menu "選單">
+<!ENTITY back "上一頁">
+<!ENTITY stop "停止">
+<!ENTITY site_security "網站安全">
 
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY new_tab "開新分頁">
@@ -60,6 +64,7 @@
 <!ENTITY pref_category_general "一般">
 <!ENTITY pref_category_privacy "個人隱私與安全">
 <!ENTITY pref_category_content "內容">
+<!ENTITY pref_category_importexport "匯入與匯出">
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
 <!ENTITY pref_do_not_track "告訴網站我不想被追蹤">
 <!ENTITY pref_telemetry "傳送效能資料">
@@ -68,10 +73,7 @@
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
 <!ENTITY pref_char_encoding_off "不顯示選單">
-<!ENTITY pref_clear_history "清除歷史紀錄">
-<!ENTITY pref_clear_history_confirm "將會刪除瀏覽紀錄">
 <!ENTITY pref_clear_private_data "清除隱私資訊">
-<!ENTITY pref_clear_private_data_confirm "將會刪除包含已存的密碼與 Cookie 等瀏覽設定">
 <!ENTITY pref_plugins "外掛程式">
 <!ENTITY pref_plugins_enabled "啟用">
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
@@ -85,11 +87,20 @@
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
+<!ENTITY pref_import_android "自 Android 匯入">
+<!ENTITY pref_private_data_history "瀏覽與下載紀錄">
+<!ENTITY pref_private_data_formdata "表單與搜尋紀錄">
+<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_cache "快取">
+<!ENTITY pref_private_data_sessions "目前的登入狀況">
+<!ENTITY pref_private_data_offlineApps "網站離線資料">
+<!ENTITY pref_private_data_siteSettings "網站偏好設定">
 
 <!ENTITY quit "結束">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載">
+<!ENTITY apps "應用程式">
 <!ENTITY char_encoding "語言及字元編碼">
 
 <!ENTITY share "分享">
@@ -142,6 +153,7 @@
 
 <!ENTITY button_ok "確定">
 <!ENTITY button_cancel "取消">
+<!ENTITY button_clear_data "清除資料">
 
 <!ENTITY abouthome_addons_title "給您 &brandShortName; 使用的附加元件">
 <!ENTITY abouthome_addons_browse "瀏覽所有的 &brandShortName; 附加元件">
@@ -172,3 +184,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "此網站擁有者：">
+
+<!ENTITY private_data_success "已清除隱私資料">
+<!ENTITY private_data_fail "無法清除某些隱私資料">
+
+<!ENTITY bookmarkhistory_button_import "匯入">
+<!ENTITY bookmarkhistory_import_both "正在自 Android 匯入
+                                      書籤與歷史紀錄">
+<!ENTITY bookmarkhistory_import_bookmarks "正在自 Android
+                                           匯入書籤">
+<!ENTITY bookmarkhistory_import_history "正在自 Android
+                                         匯入歷史紀錄">
+<!ENTITY bookmarkhistory_import_wait "請稍候‌…">
