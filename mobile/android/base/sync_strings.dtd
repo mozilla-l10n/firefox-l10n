@@ -29,6 +29,8 @@
 <!ENTITY sync.button.tryagain.label "Riprova">
 <!ENTITY sync.button.manual.label "Configurazione manuale">
 <!ENTITY sync.subtitle.nointernet.label "Connessione a Internet non disponibile.">
+<!ENTITY sync.subtitle.failaccount.label "Creazione dell’account sul dispositivo non riuscita.">
+<!ENTITY sync.subtitle.failmultiple.label "Sono state installate più versioni di Firefox? &syncBrand.shortName.label; al momento è in grado di supportare una sola installazione di Firefox. Rimuovere le altre versioni per poter utilizzare &syncBrand.shortName.label;.">
 <!ENTITY sync.title.success.label "Configurazione completata">
 <!ENTITY sync.subtitle.success.label1 "Il download dei dati è in corso. È possibile gestire il proprio account in Impostazioni o iniziare a navigare con &brandShortName;.">
 <!ENTITY sync.settings.label "Impostazioni">
@@ -56,8 +58,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Chiave di ripristino errata, riprovare.">
 <!ENTITY sync.title.send.tab.label "Invia scheda a dispositivi">
 <!ENTITY sync.button.send.label "Invia">
-<!ENTITY sync.button.setup.label "Configura Sync">
-<!ENTITY sync.button.continue.browsing.label "Continua la navigazione">
-<!ENTITY sync.title.redirect.to.setup.label "Configura Sync per inviare le schede">
-<!ENTITY sync.text.redirect.to.setup.label "Configura Sync su questo dispositivo per inviare le schede ad altri dispositivi.">
+<!ENTITY sync.button.set.up.sync.label "Configurazione di &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configurazione di &syncBrand.shortName.label; per l’invio di schede">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.shortName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
