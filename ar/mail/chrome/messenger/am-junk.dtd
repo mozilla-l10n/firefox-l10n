@@ -1,5 +1,9 @@
-<!ENTITY junkSettings.label "إعدادت السُّخام">
-<!ENTITY trainingWarning.label 'إذا فعِّلت هذا فينبغي عليك تدريب &brandShortName; ليتعرّف على السخام مستخدما زر شريط الأدوات "سخام" لتأشر الرسائل كسخام أو لا. يجب عليك التعرف على ما هو سخام و ما هو غير ذلك. '>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY junkSettings.label "إعدادات السُّخام">
+<!ENTITY trainingDescription.label "عند تفعيله سيتعيّن عليك أولا تدريب &brandShortName; ليتعرّف على بريد السّخام باستخدام زر سخام في شريط الأدوات لتحديد البريد السّخام من عدمه. سيكون عليك تحديد السّخام وغير السّخام. بعد ذلك سيستطيع &brandShortName; التعرف على السّخام تلقائيا.">
 <!ENTITY level.label "فعّل التحكم التكيفي في السُّخام لهذا الحساب">
 <!ENTITY level.accesskey "ف">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "ل">
 <!ENTITY purge2.label "أيام">
 
-<!ENTITY whitelist.label "لا تعلِّم البريد كسخام إذا كان المرسِل في:">
-<!ENTITY whitelist.accesskey "ل">
+<!ENTITY whitelistHeader.label "لا تعتبر البريد سخام تلقائيا إذا كان المرسل ضمن:">
+<!ENTITY whitelistHeader.accesskey "ض">
 
+<!ENTITY ispHeadersWarning.label "عند تفعيله سيعتبر &brandShortName; تلقائيا البريد المحدد بهذا المصنّف الخارجي سخاما.">
 <!ENTITY ispHeaders.label "ثق في ترويسات السخام الموضوعة بواسطة:">
 <!ENTITY ispHeaders.accesskey "ث">
+
+<!ENTITY junkClassification.label "التحديد">
+<!ENTITY junkActions.label "الوجهة والاحتفاظ">

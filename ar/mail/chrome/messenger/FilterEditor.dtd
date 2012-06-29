@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "قواعد التّرشيح">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "اسم المرشِّح:">
@@ -28,6 +32,7 @@
 <!ENTITY forwardTo.label "مرِّر الرسالة إلى">
 <!ENTITY replyWithTemplate.label "رُد باستخدام قالب">
 <!ENTITY markMessageRead.label "أشِّر كمقروء">
+<!ENTITY markMessageUnread.label "علّم كغير مقروء">
 <!ENTITY markMessageStarred.label "أضِف نجمة">
 <!ENTITY setPriority.label "اجعل الأولويّة">
 <!ENTITY addTag.label "سِمْ الرّسالة">
@@ -39,3 +44,6 @@
 <!ENTITY ignoreSubthread.label "تجاهل النقاش الفرعي">
 <!ENTITY watchThread.label "راقب النقاش">
 <!ENTITY stopExecution.label "أوقِف تشغيل التصفية">
+
+<!ENTITY addAction.tooltip "أضِف إجراءً جديدًا">
+<!ENTITY removeAction.tooltip "أزِل هذا الإجراء">

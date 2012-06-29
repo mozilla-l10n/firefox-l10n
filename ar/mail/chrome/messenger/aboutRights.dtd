@@ -1,8 +1,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "rtl">
-<!ENTITY rights.title            "بخصوص حقوقك">
-<!ENTITY rights.intro-header     "بخصوص حقوقك">
-<!ENTITY rights.intro "&brandFullName; هو برنامج حرّ مفتوح المصدر، اشترك في بنائه الآلاف من أنحاء العالم. هناك بضعة أمور ينبغي أن تعلمها:">
+<!ENTITY rights.title            "حقوقك">
+<!ENTITY rights.intro-header     "حقوقك">
+<!ENTITY rights.intro "&brandFullName; برنامج حرّ مفتوح المصدر، اشترك في بنائه الآلاف من أنحاء العالم. هناك بضعة أمور ينبغي أن تعلمها:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -12,11 +12,11 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "&brandShortName; متاح لك وفق بنود ">
+<!ENTITY rights.intro-point1a "يُتاح لك &brandShortName; وفق بنود ">
 <!ENTITY rights.intro-point1b "رخصة موزيلا العامة">
-<!ENTITY rights.intro-point1c ". يعني هذا أنك تستطيع استخدام ونسخ وتوزيع &brandShortName; إلى الآخرين.  تستطيع أيضًا تعديل كود &brandShortName; المصدري كما تشاء لموافقة احتياجاتك. تعطيك رخصة موزيلا العامة الحق كذلك في توزيع نسخك المعدلة.">
+<!ENTITY rights.intro-point1c ". يعني هذا أنك تستطيع استخدام &brandShortName; ونسخه وتوزيعه إلى الآخرين.  تستطيع أيضًا تعديل كود &brandShortName; المصدري كما تشاء لموافقة احتياجاتك. كما تعطيك رخصة موزيلا العامة الحق في توزيع نسخك المعدلة.">
 
-<!ENTITY rights.intro-point2a "موزيلا لا تمنحك أي حقوق فيما يتعلق بعلامات موزيلا وثندِربِرد التجارية وشعاراتهما. يمكن إيجاد معلومات إضافية عن العلامات التجارية ">
+<!ENTITY rights.intro-point2a "موزيلا لا تعطيك أي حقوق للعلامات التجارية لمؤسسة موزيلا وثندِربِرد وشعاراتهما. يمكنك الاطلاع على مزيد من المعلومات عن العلامات التجارية ">
 <!ENTITY rights.intro-point2b "هنا">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
@@ -26,7 +26,7 @@
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
-<!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج ينبغي أن تكون مسرودة هنا.">
+<!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج مسرودة هنا.">
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights.intro-point4a "يقدّم &brandShortName;  خدمات اختيارية عن معلومات مواقع الوب، كخدمة التصفح الآمن؛ رغم ذلك، لا يمكننا أن نكفل بأنها 100&#37; دقيقة أو خالية من الأخطاء. يمكن إيجاد مزيد من التفاصيل، شاملة معلومات عن كيفية تعطيل الخدمات، في ">
@@ -52,15 +52,15 @@
 <!ENTITY rights.webservices-e " وإزالة التأشير عن &quot;التمس التحديثات آليًا&quot;.">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "ينبغي أن يُضمّن هنا نظرة عامة على خدمات مواقع الوب التي يتحد معها المنتج، متضمنة تعليمات عن كيفية تعطيلها.">
+<!ENTITY rights.webservices-unbranded "ينبغي أن يُضمّن هنا -إن أمكن- نظرة عامة على خدمات مواقع الوب التي يتحد معها المنتج، متضمنة تعليمات عن كيفية تعطيلها.">
 <!-- point 1 text for unbranded builds -->
 
-<!ENTITY rights.webservices-term1-unbranded "ينبغي أن تُسرد جميع بنود الخدمة القابلة للتطبيق لهذا المنتج هنا.">
+<!ENTITY rights.webservices-term1-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج مسرودة هنا.">
 <!-- points 1-7 text for branded builds -->
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; قد يلغي أو يغير الخدمات حسب مشيئته.">
-<!ENTITY rights.webservices-term2 "أنت مرحَّبٌ بك في استخدام هذه الخدمات مع النسخة المصاحبة لها من &brandShortName;، ولديك جميع الحقوق الضرورية لفعل ذلك.  يحتفظ &vendorShortName; ومرخّصوه بجميع الحقوق الباقية في الخدمات.  هذه البنود لا تعمد إلى تقييد أي حقوق تمنحها رُخَص المصادر الحرة إلى &brandShortName; وإلى نسخ المصادر الحرة المرتبطة من &brandShortName;.">
+<!ENTITY rights.webservices-term2 "يحق لك استخدام هذه الخدمات مع نسختك من &brandShortName;، ولك كل الحقوق لفعل ذلك. تحتفظ &vendorShortName; ومرخصوها بكامل الحقوق الأخرى على الخدمات. هذه الشروط لا تهدف لتقييد أي حقوق ممنوحة في ترخيصات المصادر المفتوحة المطبقة على &brandShortName; وعلى الكود المصدري لنُسَخ &brandShortName;.">
 <!ENTITY rights.webservices-term3 "تُزوّد الخدمات &quot;كما هي&quot;.  يتنصّل &vendorShortName; ومساهموه ومرخّصوه وموزّعوه من جميع الضمانات، سواءً المصرّحة منها أو الضمنية، ويشمل ذلك بدون تحديد، الضمانات بأن الخدمات صالحة للمتاجرة أو تتلاءم مع أغراضك الخاصة. أنت تتحمل كامل المسؤولية عن اختيارك الخدمات لأغراضك وعن قبولك بجودة وأداء الخدمات كما هي. بعض السلطات القضائية لا تسمح باستثناء أو تقييد الكفالات الضمنية، لذا فهذا التنصل قد لا ينطبق عليك.">
 <!ENTITY rights.webservices-term4 "باستثناء تطلّب القانون لذلك، لا يُعدّ &vendorShortName; ومساهموه ومرخّصوه وموزعوه مسؤولين عن أي أضرار غير مباشرة أو خاصة أو حادثية أو جزائية أو نموذجية أو بسبب الاستخدام تنتج عن أو تتعلق بأي وسيلة باستخدام &brandShortName; والخدمات.  المسؤولية الجماعية وفق هذه البنود يجب ألا تتعدى 500$ (خمس مئة دولار). بعض السلطات القضائية لا تسمح باستثناء أو تقييد بعض الأضرار، لذا فهذا الاستثناء والتقييد قد لا ينطبق عليك.">
-<!ENTITY rights.webservices-term5 "قد يحدّث &vendorShortName; هذه البنود كما تقتضي الضرورة من وقت لآخر. لا يمكن تعديل هذه البنود أو إلغاؤها من دون موافقة &vendorShortName;'s الخطية.">
-<!ENTITY rights.webservices-term6 "هذه البنود تخضع لقوانين كاليفورنيا في الولايات المتحدة الامريكية، مستثنية الاختلاف في بنود القوانين. إن صار جزء من هذه البنود غير صالح أو لا يمكن تطبيقه، تبقى بقية الأجزاء صالحة للعمل والتطبيق. في حال وجود اختلاف بين نسخة مترجمة عن هذه البنود ونسخة اللغة الإنجليزية، تكون نسخة اللغة الإنجليزية هي الفيصل.">
+<!ENTITY rights.webservices-term5 "قد يحدّث &vendorShortName; هذه البنود كما تقتضي الضرورة من وقت لآخر. لا يمكن تعديل هذه البنود أو إلغاؤها من دون موافقة &vendorShortName; الخطية.">
+<!ENTITY rights.webservices-term6 "هذه البنود تخضع لقوانين كاليفورنيا في الولايات المتحدة الأمريكية، مستثنية الاختلاف في بنود القوانين. إن صار جزء من هذه البنود غير صالح أو لا يمكن تطبيقه، تبقى بقية الأجزاء صالحة للعمل والتطبيق. في حال وجود اختلاف بين نسخة مترجمة عن هذه البنود ونسخة اللغة الإنجليزية، تكون نسخة اللغة الإنجليزية هي الفيصل.">

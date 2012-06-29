@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Entities for AccountWizard -->
+
 
 <!ENTITY windowTitle.label "مرشد الحسابات">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
@@ -31,23 +35,11 @@
 
 <!ENTITY emailLabel.label "عنوان البريد:">
 <!ENTITY emailLabel.accesskey "ع">
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
 
-<!ENTITY serverTitle.label "معلومات الخادوم">
+<!ENTITY incomingTitle.label "معلومات خادوم الوارد">
 <!ENTITY incomingServerTypeDesc.label "حدّد نوع خادوم الوارد الّذي تستخدمه.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "أدخل اسم خادوم الوارد لديك (مثلًا، &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "خادوم الوارد:">
-<!ENTITY incomingServerLabel.accesskey "خ">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "أدخل اسم خادوم الأخبار (NNTP) لديك (مثلًا، &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "أدخل اسم خادوم الصّادر (SMTP) لديك (مثلًا، &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "خادوم الصّادر:">
-<!ENTITY smtpServerLabel.accesskey "ص">
-<!ENTITY newsServerLabel.label "خادوم مجموعة الأخبار:">
-<!ENTITY newsServerLabel.accesskey "خ">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -56,38 +48,56 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "اترك الرسائل على الخادوم">
 <!ENTITY leaveMsgsOnSrvr.accesskey "ك">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!ENTITY portNum.label "المنفذ:">
+<!ENTITY portNum.accesskey "م">
+<!ENTITY defaultPortLabel.label "المبدئي:">
+<!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "أدخل اسم خادوم الوارد لديك (مثلًا، &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "خادوم الوارد:">
+<!ENTITY incomingServer.accesskey "خ">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "أدخل اسم مستخدم الوارد المُعطى من مزود خدمة البريد (مثلا، &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "اسم المستخدم:">
+<!ENTITY incomingUsername.accesskey "د">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "أدخل اسم خادوم الأخبار (NNTP) لديك (مثلًا، &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "خادوم مجموعة الأخبار:">
+<!ENTITY newsServerLabel.accesskey "خ">
+<!-- Entities for Outgoing Server page -->
+
+
+<!ENTITY outgoingTitle.label "معلومات خادوم الصادر">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "أدخل اسم خادوم الصادر (SMTP) لديك (مثلًا، &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "خادوم الصادر:">
+<!ENTITY outgoingServer.accesskey "خ">
+<!ENTITY outgoingUsername.description "أدخل اسم مستخدم الصادر المُعطى من مزود خدمة البريد (عادة ما يكون نفس اسم مستخدم الوارد).">
+<!ENTITY outgoingUsername.label "اسم مستخدم الصادر:">
+<!ENTITY outgoingUsername.accesskey "س">
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-
-<!ENTITY haveSmtp1.prefix "سيُستخدم خادوم (SMTP) المصدِّر الموجود مسبقًا، &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;. يمكنك تغيير الخادمات المصدِّرة في إعدادات الحسابات.">
-<!-- Entities for Login page -->
-
-
-<!ENTITY loginTitle.label "أسماء المستخدم">
-<!ENTITY usernameDesc.label "أدخل اسم المستخدم للبريد الوارد كما أعطاه لك مورد البريد الإلكتروني">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(مثلًا، &quot;khaled&quot;).">
-<!ENTITY usernameLabel.label "اسم المستخدم للوارد:">
-<!ENTITY usernameLabel.accesskey "س">
-<!ENTITY usernameSmtpDesc.label "أدخل اسم المستخدم للصّادر كما أعطي لك من مورد البريد الإلكتروني (نموذجيًا هو نفس اسم المستخدم للوارد).">
-<!ENTITY usernameSmtpLabel.label "اسم المستخدم للصّادر:">
-<!ENTITY usernameSmtpLabel.accesskey "ص">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!ENTITY modifyOutgoing.suffix "يمكنك تغيير إعدادات الخواديم الصادرة من إعدادات الحساب.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "سوف يُستعمل اسم المستخدم الموجود حاليًا ل‍ (SMTP) المصدِّر، &quot; ">
-<!ENTITY haveSmtp2.suffix2 "&quot;. يمكنك تغيير الخادومات المصدِّرة في إعدادات الحسابات.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp1.prefix "سيُستخدم خادوم (SMTP) الصادر الموجود مسبقًا، &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;.">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "خادوم (SMTP) المصدِّر عندك، &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;، هو نفسه الخادوم المستورِد. سيُستعمل اسم مستخدمك المستوِرد في الوصول إليه. بإمكانك تغيير الخادومات المصدِّرة في إعدادات الحسابات.">
+<!ENTITY haveSmtp2.prefix "سوف يُستعمل اسم مستخدم الصادر (SMTP) الموجود حاليًا، &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "خادوم الصادر (SMTP)، &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot;، هو نفسه خادوم الوارد لذا سيُستعمل اسم مستخدم الوارد للوصول إليه.">
 <!-- Entities for Account name page -->
 
 
