@@ -230,7 +230,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webConsoleButton.label "Tīmekļa konsole">
 <!ENTITY inspectorButton.label "Inspectors">
-<!ENTITY scriptsButton.label "Skripti">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
 <!ENTITY inspectorToggleVeil.label          "Aptumšot lapu">
