@@ -1,5 +1,5 @@
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "„Lightning“">
+<!ENTITY lightning.preferencesLabel "Kalendorius">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label          "Įvykis…">
