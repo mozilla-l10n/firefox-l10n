@@ -11,6 +11,13 @@
 <!ENTITY telemetryInfoLink.label       "Išsamėsnė informacija apie „Telemetry“">
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
+
+<!ENTITY scrolling.label               "Slinkimas">
+<!ENTITY useAutoScroll.label           "Slinkti automatiškai">
+<!ENTITY useAutoScroll.accesskey       "a">
+<!ENTITY useSmoothScrolling.label      "Slinkti tolygiai">
+<!ENTITY useSmoothScrolling.accesskey  "t">
+
 <!ENTITY systemIntegration.label       "Integracija su sistema">
 <!ENTITY alwaysCheckDefault.label      "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
 <!ENTITY alwaysCheckDefault.accesskey  "u">
