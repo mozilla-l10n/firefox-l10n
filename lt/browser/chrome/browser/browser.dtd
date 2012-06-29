@@ -238,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webConsoleButton.label "Saityno pultas">
 <!ENTITY inspectorButton.label "Tyriklis">
-<!ENTITY scriptsButton.label "Scenarijai">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopijuoti vidinį HTML kodą">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "v">
