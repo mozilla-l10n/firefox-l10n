@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  validation.crlmanager.label             "Saytu LCR yi">
-<!ENTITY  validation.crlmanager.description       "These Certificate Revocation Lists (CRL) are stored in your certificate database:">
+<!ENTITY  validation.crlmanager.description       "Limu sarsifika yi ñu rewoke (CRL) ñi ngi ko denc ci sa kaggu rootaani sasifika:">
 <!ENTITY  validation.crlname.label                "Tur">
 <!ENTITY  validation.crllastupdate.label          "Yeesal bi mujj">
 <!ENTITY  validation.crlnextupdate.label          "Yeesal biy ñëw">
@@ -23,12 +23,12 @@
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Yeesal">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Bes">
 <!ENTITY  validation.crl.autoupdate.url.label     "LCR bi dina ñu ko fate ci:">
-<!ENTITY  crl.import.status.title                 "CRL Import Status">
-<!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
+<!ENTITY  crl.import.status.title                 "Taxawaayu fat CRL">
+<!ENTITY  crl.import.success.message              "Limu sarsifikaa yi ñu rewoke (CRL) fat nañu leen ak ndam.">
 <!ENTITY  crl.issuer.label                        "Ki joxe LCR bi:">
 <!ENTITY  crl.issuer.org.label                    "Mbootaay:">
-<!ENTITY  crl.issuer.orgunit.label                "Unit: ">
+<!ENTITY  crl.issuer.orgunit.label                "Bennoo: ">
 <!ENTITY  crl.import.nextupdate.label             "Beneen yeesal ci:">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Yeesal yi jiitu lajj nañu: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Benn bennali lajju yeesal bi mujj:">
 <!ENTITY  edit.button                             "Parammeetar yi">
