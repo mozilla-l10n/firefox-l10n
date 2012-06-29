@@ -4,7 +4,7 @@
 
 <!ENTITY webapps.title.placeholder "أدخِل عنوانًا">
 <!ENTITY webapps.permissions "اسمح بالوصول:">
-<!ENTITY webapps.perm.geolocation "التصفح العالم بالمكان">
+<!ENTITY webapps.perm.geolocation "التصفح المُدرِك للمكان">
 <!ENTITY webapps.perm.offline "تخزين البيانات بلا اتصال">
 <!ENTITY webapps.perm.notifications "تنبيهات سطح المكتب">
 <!ENTITY webapps.perm.requestedHint "(مطلوب)">
