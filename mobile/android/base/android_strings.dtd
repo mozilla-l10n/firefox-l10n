@@ -1,8 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  splash_firstrun "يضبط إعدادات &brandShortName;\u2026">
+
+<!ENTITY  splash_settingup "إعداد &brandShortName;">
+<!ENTITY  splash_bookmarks_history "نقوم بتحديث علاماتك وتأريخ التصفح، وقد يستغرق هذا قريبا من دقيقة.">
 
 <!ENTITY  no_space_to_start_error "لا يوجد مساحة تكفي لتشغيل &brandShortName;.">
 <!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات لتشغيل &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "المواقع الأكثر زيارة">
+<!ENTITY  awesomebar_bookmarks_title "العلامات">
+<!ENTITY  awesomebar_history_title "التأريخ">
+<!ENTITY  awesomebar_search_engine "ابحث عن \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "مبلغ انهيارات &brandShortName;">
 <!ENTITY  crash_message "انهار &brandShortName;. ستجد ألسنتك مسرودة في صفحة بداية &brandShortName; عندما تعيد تشغيله.">
@@ -19,3 +29,140 @@
 <!ENTITY  launcher_shortcuts_empty "لم يُعثر على أي تطبيقات وب">
 
 <!ENTITY choose_file "اختر ملفًا">
+
+<!ENTITY awesomebar_default_text "أدخِل بحثًا أو عنوانًا">
+
+<!ENTITY remote_tabs "الألسنة المُزامنة">
+<!ENTITY remote_tabs_show_all "أظهِر كل الألسنة">
+
+<!ENTITY bookmark "علامة">
+<!ENTITY bookmark_added "أُضيفت العلامة">
+<!ENTITY bookmark_removed "أُزيلت العلامة">
+<!ENTITY bookmark_updated "حُدّثت العلامة">
+
+<!ENTITY history_today_section "اليوم">
+<!ENTITY history_yesterday_section "أمس">
+<!ENTITY history_week_section "منذ 7 أيام">
+<!ENTITY history_older_section "أقدم من 7 أيام">
+
+<!ENTITY reload "أعد التحميل">
+<!ENTITY forward "أمام">
+
+<!ENTITY close_tab "أغلق اللسان">
+<!ENTITY new_tab "لسان جديد">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d لسان">
+<!ENTITY new_tab_opened "فُتح لسان جديد">
+
+<!ENTITY settings "الإعدادات">
+<!ENTITY settings_title "الإعدادات">
+<!ENTITY pref_category_general "عام">
+<!ENTITY pref_category_privacy "الخصوصية والسرية">
+<!ENTITY pref_category_content "المحتوى">
+<!ENTITY pref_about_firefox "عن &brandShortName;">
+<!ENTITY pref_do_not_track "أخبِر المواقع ألا تتعقبني">
+<!ENTITY pref_telemetry "أرسِل بيانات الأداء">
+<!ENTITY pref_remember_signons "تذكّر كلمات السر">
+<!ENTITY pref_cookies "فعّل الكعكات">
+<!ENTITY pref_char_encoding "ترميز المحارف">
+<!ENTITY pref_char_encoding_on "أظهر القائمة">
+<!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
+<!ENTITY pref_clear_history "امسح التأريخ">
+<!ENTITY pref_clear_history_confirm "سيُمسح تأريخ التصفح">
+<!ENTITY pref_clear_private_data "امسح البيانات الخاصة">
+<!ENTITY pref_clear_private_data_confirm "ستُمسح الإعدادات، بما فيها كلمات السر والكعكات">
+<!ENTITY pref_plugins "الملحقات">
+<!ENTITY pref_plugins_enabled "مفعّلة">
+<!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
+<!ENTITY pref_plugins_disabled "مُعطّلة">
+<!ENTITY pref_text_size "حجم النص">
+<!ENTITY pref_font_size_tiny "ضئيل">
+<!ENTITY pref_font_size_small "صغير">
+<!ENTITY pref_font_size_medium "متوسط">
+<!ENTITY pref_font_size_large "كبير">
+<!ENTITY pref_font_size_xlarge "كبير جدا">
+<!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
+<!ENTITY pref_sync "تزامُن">
+
+<!ENTITY quit "أغلق">
+
+<!ENTITY addons "الإضافات">
+<!ENTITY downloads "التنزيلات">
+<!ENTITY char_encoding "ترميز المحارف">
+
+<!ENTITY share "تشارك">
+<!ENTITY share_title "تشارك عبر">
+<!ENTITY save_as_pdf "احفظ ك‍ PDF">
+<!ENTITY find_in_page "ابحث في الصفحة">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "ابحث في الصفحة">
+<!ENTITY find_prev "السابق">
+<!ENTITY find_next "التالي">
+<!ENTITY find_close "أغلق">
+
+<!ENTITY contextmenu_open_new_tab "افتح في لسان جديد">
+<!ENTITY contextmenu_remove_history "أزِل">
+<!ENTITY contextmenu_remove_bookmark "أزِل">
+<!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
+<!ENTITY contextmenu_share "تشارَك">
+<!ENTITY contextmenu_edit_bookmark "حرِّر">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "أزِيلت الصفحة">
+
+<!ENTITY bookmark_edit_title "حرّر العلامة">
+<!ENTITY bookmark_edit_name "الاسم">
+<!ENTITY bookmark_edit_location "المكان">
+<!ENTITY bookmark_edit_keyword "كلمة مفتاحية">
+
+<!ENTITY site_settings_title        "امسح إعدادات الموقع">
+<!ENTITY site_settings_cancel       "ألغِ">
+<!ENTITY site_settings_clear        "امسح">
+<!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
+
+<!ENTITY add_to_reading_list "أضِف إلى قائمة القراءة">
+<!ENTITY reading_list_added "أضِفت الصفحة إلى قائمة القراءة">
+<!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
+<!ENTITY reader_mode "وضع القارئ">
+
+<!ENTITY masterpassword_create_title "أنشئ كلمة سر رئيسية">
+<!ENTITY masterpassword_remove_title "أزِل كلمة السر الرئيسية">
+<!ENTITY masterpassword_password "كلمة السر">
+<!ENTITY masterpassword_confirm "أكد كلمة السر">
+
+<!ENTITY button_ok "حسنا">
+<!ENTITY button_cancel "ألغِ">
+
+<!ENTITY abouthome_addons_title "إضافات &brandShortName;">
+<!ENTITY abouthome_addons_browse "تصفّح كل إضافات &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "ألسنتك من المرة السابقة">
+<!ENTITY abouthome_last_tabs_open "افتح كل الألسنة من المرة السابقة">
+<!ENTITY abouthome_top_sites_title "المواقع الأكثر زيارة">
+<!ENTITY abouthome_top_sites_browse "تصفّح كل مواقعك الأكثر زيارة">
+<!ENTITY abouthome_no_top_sites "لم تزر الكثير من المواقع بعد. انقر على شريط العنوان للبدء في التصفح.">
+<!ENTITY abouthome_about_sync "اضبط تزامُن فيَرفُكس للوصول إلى العلامات والتأريخ والألسنة من أجهزتك الأخرى.">
+<!ENTITY abouthome_sync_bold_name "تزامُن فَيَرفُكس">
+
+<!ENTITY filepicker_title "اختر ملفًا">
+<!ENTITY filepicker_audio_title "اختر أو سجل صوتًا">
+<!ENTITY filepicker_image_title "اختر أو التقط صورة">
+<!ENTITY filepicker_video_title "اختر أو سجل فديو">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "تتصل ب‍">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "والذي يعمل ب‍">

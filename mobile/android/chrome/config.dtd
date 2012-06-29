@@ -1,12 +1,7 @@
-<!ENTITY empty.label            "ابحث">
-<!ENTITY newpref.label          "أضِف تفضيلًا جديدًا">
-<!ENTITY addpref.name           "الاسم">
-<!ENTITY addpref.value          "القيمة">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cancel.label           "ألغِ">
-<!ENTITY reset.label            "صفِّر">
-<!ENTITY done.label             "تمّ">
-
-<!ENTITY integer.label          "عدد صحيح">
-<!ENTITY string.label           "نصّ">
-<!ENTITY boolean.label          "قيمة منطقية">
+<!ENTITY search.placeholder2    "إعدادات البحث">
+<!ENTITY clear.altText          "امسح">
+<!ENTITY newpref.label2         "أضِف إعدادا جديدا">

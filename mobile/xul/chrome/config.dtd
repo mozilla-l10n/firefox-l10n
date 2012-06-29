@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY empty.label            "ابحث">
 <!ENTITY newpref.label          "أضِف تفضيلًا جديدًا">
 <!ENTITY addpref.name           "الاسم">
@@ -9,4 +13,4 @@
 
 <!ENTITY integer.label          "عدد صحيح">
 <!ENTITY string.label           "نصّ">
-<!ENTITY boolean.label          "قيمة منطقية">
+<!ENTITY boolean.label          "عدد منطقي">
