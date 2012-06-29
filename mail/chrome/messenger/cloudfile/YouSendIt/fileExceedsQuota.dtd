@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Pasiekta užpildymo riba">
+<!ENTITY fileExceedsQuota.accept "Plėtoti">
+<!ENTITY fileExceedsQuota.cancel "Atsisakyti">
+<!ENTITY fileExceedsQuota.description "Jūs pasiekiėte paskyros užpildymo ribą, kuri yra 2GB.">
+<!ENTITY fileExceedsQuota.description1 "Šiuo metu esate išnaudoję #XXX GB vietos.">
+<!ENTITY fileExceedsQuota.description2 "Plėtokite paskyrą į „Pro Plus“ ir gaukite daugiau vietos.">
+<!ENTITY fileExceedsQuota.description3 "Arba galite pašalinti dalį paskyroje įkeltų failų ir taip atlaisvinti vietos.">
