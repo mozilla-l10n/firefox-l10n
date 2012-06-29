@@ -38,9 +38,9 @@
 
 <!-- Calendar Subscriptions Dialog -->
 <!ENTITY calendar.subscriptions.dialog.title                            "إشترك فى التقويم">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "إعرض التقويم الذى يحوى: 
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "إعرض التقويم الذى يحوى:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "إبحث">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "إختار تقويم للإشتراك فيه: 
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "إختار تقويم للإشتراك فيه:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "إشترك">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "إلغاء الإشتراك">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "إيحث…">
