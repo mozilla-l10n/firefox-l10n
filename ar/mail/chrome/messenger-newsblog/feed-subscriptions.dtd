@@ -1,18 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "اشتراكات التلقيمات">
-<!ENTITY subscriptionDesc.label "ملاحظة: لن يؤثر حذف أو تغيير مجلد التلقيم على المقالات التي نُزِّلت من قبل.">
-<!ENTITY feedTitle.label "العنوان: ">
-<!ENTITY location.label  "الموقع: ">
 
-<!ENTITY button.addFeed.label       "أضِف">
-<!ENTITY button.addFeed.accesskey   "ض">
-<!ENTITY button.editFeed.label      "حرّر">
-<!ENTITY button.editFeed.accesskey  "ح">
-<!ENTITY button.removeFeed.label "احذف">
-<!ENTITY button.removeFeed.accesskey   "ح">
-<!ENTITY button.importOPML.label "استورد">
-<!ENTITY button.importOPML.accesskey   "س">
-<!ENTITY button.exportOPML.label "صدّر">
-<!ENTITY button.exportOPML.accesskey   "ص">
+<!ENTITY feedSubscriptions.label     "اشتراكات التلقيمات">
+<!ENTITY subscriptionDesc.label      "ملاحظة: لن يؤثر حذف أو تغيير مجلد التلقيم على المقالات التي نُزِّلت من قبل.">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedTitle.label             "العنوان:">
+<!ENTITY feedTitle.accesskey         "ن">
+
+<!ENTITY feedLocation.label          "مسار التلقيمات:">
+<!ENTITY feedLocation.accesskey      "س">
+<!ENTITY feedLocation.placeholder    "أدخل مسار تلقيمات سليم لإضافته">
+
+<!ENTITY feedFolder.label            "احفظ المقالات في:">
+<!ENTITY feedFolder.accesskey        "ظ">
+
+<!ENTITY quickMode.label             "اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب">
+<!ENTITY quickMode.accesskey         "ص">
+
+<!ENTITY locationValidate.label      "الصلاحية">
+<!ENTITY validateText.label          "تحقق من الصلاحية واجلب مسارا سليما.">
+
+<!ENTITY button.addFeed.label        "أضِف">
+<!ENTITY button.addFeed.accesskey    "ض">
+<!ENTITY button.editFeed.label       "حرّر">
+<!ENTITY button.editFeed.accesskey   "ح">
+<!ENTITY button.removeFeed.label     "احذف">
+<!ENTITY button.removeFeed.accesskey "ح">
+<!ENTITY button.importOPML.label     "استورد">
+<!ENTITY button.importOPML.accesskey "س">
+<!ENTITY button.exportOPML.label     "صدّر">
+<!ENTITY button.exportOPML.accesskey "ص">
+<!ENTITY button.exportOPML.tooltip   "صدّر التلقيمات مع تركيبة المجلد؛ انقر أثناء ضغط ctrl أو ctrl مع enter لتصدير التلقيمات كقائمة">
+
+<!ENTITY cmd.close.commandKey        "w">
