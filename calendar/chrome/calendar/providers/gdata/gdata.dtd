@@ -38,7 +38,7 @@
 <!ENTITY gdata-provider.label "تقويم جوجل">
 
 <!ENTITY gdata.privacy.default.label "جوجل الإفتراضى">
-<!ENTITY gdata.privacy.default.accesskey "ف>
+<!ENTITY gdata.privacy.default.accesskey "ف">
 
 <!ENTITY gdata.migration.title "رحل تقاويم القراءة فقط">
 <!ENTITY gdata.migration.description "مقدم خدمة تقويم جوجل كشف وجود تقويم لا يمكن الدخول إليه إلا فى وضع القراءة فقط. إذا أرد تحديث هذا التقويم، إختاره من أسفل">

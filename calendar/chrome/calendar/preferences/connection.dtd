@@ -52,7 +52,7 @@
 <!ENTITY  manualTypeRadio.label         "الإعدادات اليدوية للبروكسى: ">
 <!ENTITY  manualTypeRadio.accesskey     "ة">
 <!ENTITY  autoTypeRadio.label           "عنوان الإعدادات التلقائية للبروكسى: ">
-<!ENTITY  autoTypeRadio.accesskey       "ق>
+<!ENTITY  autoTypeRadio.accesskey       "ق">
 <!ENTITY  reload.label                  "أعد التحميل">
 <!ENTITY  reload.accesskey              "ح">
 <!ENTITY  ftp.label                     "FTP بروكسى:">
