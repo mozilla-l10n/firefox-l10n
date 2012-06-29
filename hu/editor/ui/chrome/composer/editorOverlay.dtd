@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Nincs javaslat)">
-<!ENTITY spellCheckIgnoreWord.label "Szó kihagyása">
-<!ENTITY spellCheckIgnoreWord.accesskey "k">
-<!ENTITY spellCheckAddToDictionary.label "Hozzáadás a szótárhoz">
-<!ENTITY spellCheckAddToDictionary.accesskey "H">
 <!ENTITY createLinkCmd.label "Hivatkozás létrehozása...">
 <!ENTITY createLinkCmd.accesskey "H">
 <!ENTITY editLinkCmd.label "Hivatkozás szerkesztése új szerkesztőablakban">

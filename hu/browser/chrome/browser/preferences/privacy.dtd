@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Könyvjelzők">
 <!ENTITY  locbar.nothing.label          "Egyik sem">
 
-
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
 <!ENTITY acceptCookies.accesskey       "e">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Mindig a privát böngészési módot használja">
 <!ENTITY privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Böngészési előzmények megőrzése">
-<!ENTITY rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Letöltési előzmények megőrzése">
-<!ENTITY rememberDownload.accesskey     "L">
+<!ENTITY  rememberHistory2.label      "Böngészési és letöltési előzmények megőrzése">
+<!ENTITY rememberHistory2.accesskey  "l">
 
 <!ENTITY  rememberSearchForm.label       "Keresőmezők és űrlapmezők előzményeinek megőrzése">
 <!ENTITY rememberSearchForm.accesskey   "K">

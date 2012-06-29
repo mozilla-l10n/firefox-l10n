@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "A bővítmények használata előtt a &brandShortName; programot újra kell indítani.">
 
 <!ENTITY missingPlugin                                       "A tartalom megjelenítéséhez bővítmény szükséges.">
-<!ENTITY clickToPlayPlugin                                   "Bökjön ide a bővítmény aktiválásához.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Bökjön ide a bővítmény aktiválásához.">
+<!ENTITY clickToPlayPlugins                                  "Kattintson ide a bővítmények aktiválásához.">
 <!ENTITY disabledPlugin                                      "A bővítmény le van tiltva.">
 <!ENTITY blockedPlugin.label                                 "Az Ön védelme érdekében ez a bővítmény le lett tiltva.">
 

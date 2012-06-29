@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Süti elhelyezése">
 <!ENTITY  permInstall           "Kiterjesztés vagy téma telepítése">
 <!ENTITY  permGeo               "Földrajzi hely adatainak megosztása">
+<!ENTITY  permPlugins           "Bővítmények aktiválása">
 
 <!ENTITY  permIndexedDB              "Kapcsolat nélküli tár karbantartása">
 <!ENTITY  permClearStorage           "Tár törlése">

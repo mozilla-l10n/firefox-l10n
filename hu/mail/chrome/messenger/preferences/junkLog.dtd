@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Levélszemétnapló">
-<!ENTITY junkLogInfo.label "Levélszemét-szűrési tevékenység naplója">
+<!ENTITY adaptiveJunkLog.title "Adaptív levélszemétnapló">
+<!ENTITY adaptiveJunkLogInfo.label "Az adaptív levélszemét-szűrési tevékenység naplója">
 <!ENTITY clearLog.label "Napló törlése">
 <!ENTITY clearLog.accesskey "N">
 <!ENTITY closeLog.label "Bezárás">

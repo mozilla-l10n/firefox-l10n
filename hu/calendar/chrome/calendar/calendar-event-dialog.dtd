@@ -148,8 +148,8 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey      "e">
 <!ENTITY  event.menu.options.link.label                       "Hivatkozás hozzáadása...">
 <!ENTITY event.menu.options.link.accesskey                   "v">
-<!ENTITY  event.menu.options.timezone.label                   "Időzóna">
-<!ENTITY event.menu.options.timezone.accesskey               "I">
+<!ENTITY  event.menu.options.timezone2.label                  "Időzónák megjelenítése">
+<!ENTITY event.menu.options.timezone2.accesskey              "I">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritás">
 <!ENTITY event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Nem megadott">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Adja meg az időzónát">
+<!ENTITY event.timezone.custom.label     "Több időzóna...">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Általános">
