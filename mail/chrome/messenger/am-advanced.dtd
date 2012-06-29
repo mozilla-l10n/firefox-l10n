@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpServer.label "إعدادات خادوم الصّادر (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDesc.label "مع أنّه بإمكانك تحديد أكثر من خادوم صادر (SMTP) ، إلا أنّ ذلك يفضّل فقط للمستخدمين الخبراء. يمكن أن يسبب إعداد أكثر من خادوم SMTP أخطاء عند إرسال الرّسائل.">
+<!ENTITY smtpServer.label "إعدادات خادوم الصّادر (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDescription.label "أثناء إعداد هويّاتك يمكنك استخدام خادوم من القائمة باختياره &quot;خادوم الصّادر (SMTP)&quot;، أو يمكنك استخدام الخادوم المبدئي باختيار &quot;استخدم الخادوم المبدئي&quot;">
 
 <!ENTITY smtpListAdd.label  "أضِف…">
 <!ENTITY smtpListAdd.accesskey  "ض">
@@ -15,9 +19,9 @@
 <!ENTITY smtpListSetDefault.label "اجعله المبْدئي">
 <!ENTITY smtpListSetDefault.accesskey "ب">
 
-<!ENTITY serverDescription.label "الوصف:">
-<!ENTITY serverName.label "اسم الخادوم:">
-<!ENTITY serverPort.label "المَنفذ:">
-<!ENTITY userName.label   "اسم المستخدم:">
-<!ENTITY connectionSecurity.label "أمن الاتصال:">
+<!ENTITY serverDescription.label "الوصف: ">
+<!ENTITY serverName.label "اسم الخادوم: ">
+<!ENTITY serverPort.label "المَنفذ: ">
+<!ENTITY userName.label   "اسم المستخدم: ">
+<!ENTITY connectionSecurity.label "أمن الاتصال: ">
 <!ENTITY authMethod.label   "طريقة الاستيثاق: ">

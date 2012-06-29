@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "دفتر العناوين">
 <!-- File Menu -->
 
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "س">
 <!ENTITY PrimaryEmail.label                             "البريد">
 <!ENTITY PrimaryEmail.accesskey                         "ب">
-<!ENTITY ScreenName.label                               "اسم الشاشة">
-<!ENTITY ScreenName.accesskey                           "ش">
+<!ENTITY ChatName.label                                 "اسم الدردشة">
+<!ENTITY ChatName.accesskey                             "ش">
 <!ENTITY Company.label                                  "المنظّمة">
 <!ENTITY Company.accesskey                              "م">
 <!ENTITY NickName.label                                 "الاسم المستعار">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "متراسل">
 <!ENTITY home.heading                                   "المنزل">
 <!ENTITY other.heading                                  "أخرى">
+<!ENTITY chat.heading                                   "الدردشة">
 <!ENTITY phone.heading                                  "الهاتف">
 <!ENTITY work.heading                                   "العمل">
 <!-- Special Box Headings, for mailing lists -->

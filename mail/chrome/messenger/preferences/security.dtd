@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "سُخام">
 <!ENTITY itemPhishing.label      "بريد الاحتيال">
 <!ENTITY itemPasswords.label     "كلمات السر">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "ذ">
 <!ENTITY markAsReadOnSpam.label "أشِّر الرسائل السخام كمقروءة">
 <!ENTITY markAsReadOnSpam.accesskey "ء">
-<!ENTITY enableJunkLogging.label "مكِّن تسجيل مرشح السُّخام">
-<!ENTITY enableJunkLogging.accesskey "ت">
+<!ENTITY enableAdaptiveJunkLogging.label "فعل تسجيل مرشّح السّخام التكيّفي">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "ف">
 <!ENTITY openJunkLog.label "اعرض السجل">
 <!ENTITY openJunkLog.accesskey "ع">
 <!ENTITY resetTrainingData.label "صفّر بيانات التدريب">
@@ -56,4 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "ث">
 <!ENTITY showCookies.label              "أظهِر الكعكات…">
 <!ENTITY showCookies.accesskey          "ظ">
+<!-- Do Not Track -->
 
+<!ENTITY doNotTrack.label               "أخبر المواقع أنني لا أريدها أن تتعقبني">
+<!ENTITY doNotTrack.accesskey           "خ">

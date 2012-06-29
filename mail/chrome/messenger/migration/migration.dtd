@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY migrationWizard.title          "مرشد الاستيراد">
 
@@ -6,8 +10,8 @@
 
 <!ENTITY importFromNothing.label        "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey    "س">
-<!ENTITY importFromSeamonkey2.label     "نتسكيب 6 و7 أو موزيلا x.1 أو سي مانكي">
-<!ENTITY importFromSeamonkey2.accesskey "ن">
+<!ENTITY importFromSeamonkey3.label     "سي‌منكي 2 أو أحدث">
+<!ENTITY importFromSeamonkey3.accesskey "س">
 <!ENTITY importFromOExpress.label       "أوتلوك إكسبريس">
 <!ENTITY importFromOExpress.accesskey   "و">
 <!ENTITY importFromOutlook.label        "أوتلوك">

@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
 <!ENTITY msgComposeWindow.title "تحرير: (لا موضوع)">
 <!-- File Menu -->
 
@@ -17,6 +21,8 @@
 <!ENTITY attachFileCmd.label "ملفات…">
 <!ENTITY attachFileCmd.accesskey "م">
 <!ENTITY attachFileCmd.key "ف">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "صفحة وِب…">
 <!ENTITY attachPageCmd.accesskey "ص">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -68,11 +74,13 @@
 <!ENTITY pasteCmd.accesskey "ل">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "أعد التسطير">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "ع">
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ح">
+<!ENTITY editRewrapCmd.label "أعد التسطير">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "غيّر اسم المرفق…">
+<!ENTITY renameAttachmentCmd.accesskey "غ">
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك"> 
@@ -268,6 +276,14 @@
 <!ENTITY selectAll.accesskey "ك">
 <!ENTITY attachFile.label "أرفق الملفات…">
 <!ENTITY attachFile.accesskey "م">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "حوّل إلى…">
+<!ENTITY convertCloud.accesskey "ح">
+<!ENTITY cancelUpload.label "ألغِ الرفع">
+<!ENTITY cancelUpload.accesskey "ف">
+<!ENTITY convertRegularAttachment.label "مرفق عادي">
+<!ENTITY convertRegularAttachment.accesskey "د">
 <!ENTITY attachPage.label "أرفق صفحة وِب…">
 <!ENTITY attachPage.accesskey "ص">
 <!-- Spell checker context menu items -->
