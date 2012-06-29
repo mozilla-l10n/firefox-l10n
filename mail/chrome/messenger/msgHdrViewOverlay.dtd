@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Válasz a feladónak és az összes címzettnek">
 <!ENTITY hdrReplyListButton1.label "Válasz a listára">
 <!ENTITY hdrReplyListButton1.tooltip "Válasz a levelezőlistára">
+<!ENTITY hdrFollowupButton1.label "Válasz">
+<!ENTITY hdrFollowupButton1.tooltip "Válasz küldése ebbe a hírcsoportba">
 <!ENTITY hdrForwardButton1.label "Továbbítás">
 <!ENTITY hdrForwardButton1.tooltip "Az üzenet továbbküldése">
 <!ENTITY hdrJunkButton1.label "Szemét">

@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Fájlok...">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Weboldal...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey "d">
 <!ENTITY attachFile.label "Fájlok csatolása...">
 <!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label "Filelink...">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Konvertálás...">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Feltöltés megszakítása">
+<!ENTITY cancelUpload.accesskey "F">
+<!ENTITY convertRegularAttachment.label "Normál melléklet">
+<!ENTITY convertRegularAttachment.accesskey "N">
 <!ENTITY attachPage.label "Weboldal csatolása...">
 <!ENTITY attachPage.accesskey "W">
 

@@ -121,7 +121,8 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.</li>
-  <li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról. A másik lehetőség, hogy a Súgó menü megfelelő menüpontjának segítségével jelentse be ezt a hibás webhelyet.</li>
+  <li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.
+A másik lehetőség, hogy a Súgó menü megfelelő menüpontjának segítségével jelentse be ezt a hibás webhelyet.</li>
 </ul>
 ">
 
