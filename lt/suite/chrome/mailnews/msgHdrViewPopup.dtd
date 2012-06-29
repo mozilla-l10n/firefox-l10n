@@ -1,6 +1,10 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "Įtraukti į adresų knygą…">
 <!ENTITY AddToAddressBook.accesskey        "Į">
+<!ENTITY EditContact.label                 "Taisyti adresatą…">
+<!ENTITY EditContact.accesskey             "T">
+<!ENTITY ViewContact.label                 "Parodyti adresatą">
+<!ENTITY ViewContact.accesskey             "d">
 <!ENTITY SendMailTo.label                  "Rašyti laišką…">
 <!ENTITY SendMailTo.accesskey              "R">
 <!ENTITY CopyEmailAddress.label            "Kopijuoti el. pašto adresą">

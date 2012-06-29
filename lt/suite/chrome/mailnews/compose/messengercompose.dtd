@@ -77,8 +77,11 @@
 <!ENTITY highestPriorityCmd.label "Aukščiausias">
 <!ENTITY highestPriorityCmd.accesskey "A">
 
-<!ENTITY returnReceiptMenu.label "Pranešimas apie pristatymą">
-<!ENTITY returnReceiptMenu.accesskey "r">
+<!ENTITY returnReceiptMenu.label "Prašyti laiško gavimo pažymos">
+<!ENTITY returnReceiptMenu.accesskey "g">
+<!ENTITY dsnMenu.label "Prašyti laiško pristatymo pažymos">
+<!ENTITY dsnMenu.accesskey "r">
+
 <!ENTITY outputFormatMenu.label "Siunčiamo teksto tipas">
 <!ENTITY outputFormatMenu.accesskey  "t">
 <!ENTITY autoFormatCmd.label "Parenka programa">
