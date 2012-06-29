@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Előfizetés hírforrásokra">
+<!ENTITY feedSubscriptions.label     "Feliratkozás hírforrásokra">
 <!ENTITY subscriptionDesc.label      "Megjegyzés: A hírforrás mappájának eltávolítása vagy módosítása nincs hatással a már letöltött cikkekre.">
 
 <!ENTITY feedTitle.label             "Cím:">
