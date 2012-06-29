@@ -37,7 +37,9 @@
 <!ENTITY sync.button.tryagain.label 'Bandyti vėl'>
 <!ENTITY sync.button.manual.label 'Rankinis konfigūravimas'>
 <!ENTITY sync.subtitle.nointernet.label 'Nėra ryšio su internetu.'>
-  
+<!ENTITY sync.subtitle.failaccount.label 'Paskyros sukurti Jūsų įrenginyje nepavyko.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Ar turite daugiau įdiegtų „Firefox“ kopijų? Kol kas „&syncBrand.fullName.label;“ palaiko tik vieną „Firefox“ kopiją viename įrenginyje. Norėdami naudotis „&syncBrand.shortName.label;“, turite pašalinti kitas kopijas.'>
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Konfigūravimas baigtas'>
 
@@ -75,4 +77,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Galima naudotis tik viena &syncBrand.fullName.label;“ paskyra.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Netinkamas paskyros vardas arba slaptažodis.'>
+<!ENTITY sync.invalidserver.label 'Įveskite tinkamą serverio URL'>
+<!ENTITY sync.verifying.label 'Tikrinama…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Atkūrimo raktas neteisingas. Bandykite dar kartą.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Nusiųsti kortelę į įrenginį'>
+<!ENTITY sync.button.send.label 'Nusiųsti'>
+<!ENTITY sync.button.set.up.sync.label 'Konfigūruoti „&syncBrand.shortName.label;“'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Sukonfigūruokite „&syncBrand.shortName.label;“, kad galėtumėte siųsti korteles'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Kad galėtumete į kitus įrenginius siųsti korteles, turite šiame įrenginyje sukonfigūruoti „&syncBrand.fullName.label;“.'>
+<!ENTITY sync.text.tab.sent.label 'Kortelė nusiųsta!'>

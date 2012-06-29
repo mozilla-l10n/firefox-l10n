@@ -42,6 +42,10 @@
 
 <!ENTITY reload "Naujinti">
 <!ENTITY forward "Pirmyn">
+<!ENTITY menu "Meniu">
+<!ENTITY back "Atgal">
+<!ENTITY stop "Stabdyti">
+<!ENTITY site_security "Svetainės saugumas">
 
 <!ENTITY close_tab "Užverti kortelę">
 <!ENTITY new_tab "Nauja kortelė">
@@ -55,6 +59,7 @@
 <!ENTITY pref_category_general "Bendrosios">
 <!ENTITY pref_category_privacy "Privatumas ir saugumas">
 <!ENTITY pref_category_content "Turinys">
+<!ENTITY pref_category_importexport "Importas ir eksportas">
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_do_not_track "Nurodyti svetainėms, kad jos Jūsų nesektų">
 <!ENTITY pref_telemetry "Siųsti našumo ataskaitas">
@@ -63,10 +68,7 @@
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
 <!ENTITY pref_char_encoding_off "Nerodyti meniu">
-<!ENTITY pref_clear_history "Valyti žurnalą">
-<!ENTITY pref_clear_history_confirm "Bus išvalytas naršymo žurnalas">
 <!ENTITY pref_clear_private_data "Valyti privačius duomenis">
-<!ENTITY pref_clear_private_data_confirm "Bus išvalytos naršymo nuostatos, tarp kurių – įrašyti slaptažodžiai ir slapukai">
 <!ENTITY pref_plugins "Papildiniai">
 <!ENTITY pref_plugins_enabled "Leidžiami">
 <!ENTITY pref_plugins_tap_to_play "Leidžiami bakstelėjus">
@@ -79,17 +81,28 @@
 <!ENTITY pref_font_size_xlarge "Ypač dideli">
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
 <!ENTITY pref_sync "Sinchronizavimas">
+<!ENTITY pref_search_suggestions "Rodyti paieškos žodžių siūlymus">
+<!ENTITY pref_import_android "Importuoti iš „Android“">
+<!ENTITY pref_private_data_history "Naršymo ir atsiuntimų žurnalas">
+<!ENTITY pref_private_data_formdata "Formų ir paieškos laukų reikšmės">
+<!ENTITY pref_private_data_cookies "Slapukai">
+<!ENTITY pref_private_data_cache "Podėlis">
+<!ENTITY pref_private_data_sessions "Esami prisijungimai">
+<!ENTITY pref_private_data_offlineApps "Duomenys darbui atsijungus">
+<!ENTITY pref_private_data_siteSettings "Svetainių nuostatos">
 
 <!ENTITY quit "Baigti darbą">
 
 <!ENTITY addons "Priedai">
 <!ENTITY downloads "Atsiuntimai">
+<!ENTITY apps "Programos">
 <!ENTITY char_encoding "Simbolių koduotė">
 
 <!ENTITY share "Dalintis tinklalapiu">
 <!ENTITY share_title "Dalintis per">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
 <!ENTITY find_in_page "Ieškoti tinklalapyje">
+<!ENTITY desktop_mode "Prašyti svetainės kompiuteriui">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -103,6 +116,9 @@
 <!ENTITY contextmenu_remove_bookmark "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
 <!ENTITY contextmenu_share "Dalintis">
+<!ENTITY contextmenu_pasteandgo "Įdėti ir atverti">
+<!ENTITY contextmenu_paste "Įdėti">
+<!ENTITY contextmenu_copyurl "Kopijuoti adresą">
 <!ENTITY contextmenu_edit_bookmark "Taisyti">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -119,9 +135,10 @@
 <!ENTITY site_settings_clear        "Išvalyti">
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
 
-<!ENTITY add_to_reading_list "Įtraukti į skaitinių sąrašą">
+<!ENTITY reading_list "Skaitinių sąrašas">
 <!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
 <!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
+<!ENTITY reading_list_failed "Tinklalapio nepavyko įtraukti į skaitinių sąrašą">
 <!ENTITY reader_mode "Skaityklės veiksena">
 
 <!ENTITY masterpassword_create_title "Sukurti pagrindinį slaptažodį">
@@ -131,6 +148,7 @@
 
 <!ENTITY button_ok "Gerai">
 <!ENTITY button_cancel "Atsisakyti">
+<!ENTITY button_clear_data "Valyti duomenis">
 
 <!ENTITY abouthome_addons_title "Priedai „&brandShortName;“ naršyklei">
 <!ENTITY abouthome_addons_browse "Naršyti visus „&brandShortName;“ priedus">
@@ -161,3 +179,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kurią valdo">
+
+<!ENTITY private_data_success "Privatieji duomenys išvalyti">
+<!ENTITY private_data_fail "Kai kurių privačiųjų duomenų išvalyti nepavyko">
+
+<!ENTITY bookmarkhistory_button_import "Importuoti">
+<!ENTITY bookmarkhistory_import_both "Importuojamas adresynas ir žurnalas
+                                      iš „Android“">
+<!ENTITY bookmarkhistory_import_bookmarks "Importuojamas adresynas
+                                           iš „Android“">
+<!ENTITY bookmarkhistory_import_history "Importuojamas žurnalas
+                                         iš „Android“">
+<!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
