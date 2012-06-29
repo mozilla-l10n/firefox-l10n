@@ -28,6 +28,8 @@
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incrementale">
+<!ENTITY aboutSupport.a11yTitle "Accessibilità">
+<!ENTITY aboutSupport.a11yActivated "Attivato">
 <!ENTITY aboutSupport.libraryVersionsTitle "Versioni librerie">
 <!ENTITY aboutSupport.installationHistoryTitle "Cronologia installazione">
 <!ENTITY aboutSupport.updateHistoryTitle "Aggiorna cronologia">
