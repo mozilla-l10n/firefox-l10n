@@ -20,7 +20,7 @@
 <!ENTITY connectionSettings.accesskey    "e">
 <!ENTITY updateTab.label                 "నవీకరణ">
 <!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్సు‌">
-<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 <!ENTITY updateHistory.label             "నవీకరణ చరిత్రను చూపించు">
 <!ENTITY updateHistory.accesskey         "p">
 <!ENTITY encryptionTab.label             "ఎన్క్రిప్షను">
@@ -58,7 +58,7 @@
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY allowHWAccel.label              "అందుబాటులో వున్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ వుపయోగించుము">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
