@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label '重試'>
 <!ENTITY sync.button.manual.label '手動設定'>
 <!ENTITY sync.subtitle.nointernet.label '無可用網路連線。'>
+<!ENTITY sync.subtitle.failaccount.label '無法在您的裝置上建立帳號。'>
+<!ENTITY sync.subtitle.failmultiple.label '您安裝了超過一套 Firefox 嗎？目前 &syncBrand.fullName.label; 只能同時支援一套 Firefox。請移除其他的 Firefox 才能使用 &syncBrand.shortName.label;。'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '完成設定'>
@@ -86,8 +88,7 @@
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label '傳送分頁至您的裝置'>
 <!ENTITY sync.button.send.label '傳送'>
-<!ENTITY sync.button.setup.label '設定同步功能'>
-<!ENTITY sync.button.continue.browsing.label '繼續瀏覽'>
-<!ENTITY sync.title.redirect.to.setup.label '設定同步功能以傳送分頁'>
-<!ENTITY sync.text.redirect.to.setup.label '在您的裝置上設定 Firefox Sync 以將分頁傳送至其他裝置。'>
+<!ENTITY sync.button.set.up.sync.label '設定 &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label '設定 &syncBrand.shortName.label; 以傳送分頁標籤'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label '在您的裝置上設定 &syncBrand.shortName.label; 以將分頁標籤傳送至其他裝置。'>
 <!ENTITY sync.text.tab.sent.label '已送出您的分頁！'>
