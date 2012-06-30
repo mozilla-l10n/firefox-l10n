@@ -59,6 +59,6 @@
 <!ENTITY sync.title.send.tab.label "Enviar pestañas a los dispositivos">
 <!ENTITY sync.button.send.label "Enviar">
 <!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; para enviar pestañas">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar &syncBrand.shortName.label; para enviar pestañas">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
