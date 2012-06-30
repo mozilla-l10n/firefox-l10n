@@ -1,8 +1,8 @@
 <!ENTITY aboutAddons.title                      "Utvidelsesbehandling">
-<!ENTITY aboutAddons.header2                    "Dine utvidelser">
+<!ENTITY aboutAddons.header2                    "Utvidelser">
 <!ENTITY aboutAddons.options                    "Innstillinger">
 
-<!ENTITY addonAction.enable                     "Påslått">
-<!ENTITY addonAction.disable                    "Avslått">
+<!ENTITY addonAction.enable                     "Slå på">
+<!ENTITY addonAction.disable                    "Slå av">
 <!ENTITY addonAction.uninstall                  "Avinstaller">
 <!ENTITY addonAction.cancel                     "Avbryt">

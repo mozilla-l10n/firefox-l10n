@@ -5,7 +5,7 @@
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Øverste nettsted">
+<!ENTITY  awesomebar_all_pages_title "Mest brukt">
 <!ENTITY  awesomebar_bookmarks_title "Bokmerker">
 <!ENTITY  awesomebar_history_title "Historikk">
 <!ENTITY  awesomebar_search_engine "Søk etter \&quot;&#037;s\&quot;">
@@ -98,7 +98,7 @@
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Nøkkelord">
 
-<!ENTITY site_settings_title        "Tøm nettstedsinnstillinger">
+<!ENTITY site_settings_title        "Slett nettstedsinnstillinger">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillinger å fjerne.">
@@ -115,9 +115,9 @@
 <!ENTITY abouthome_addons_browse "Bla gjennom alle &brandShortName;-utvidelser">
 <!ENTITY abouthome_last_tabs_title "Faner fra forrige gang">
 <!ENTITY abouthome_last_tabs_open "Åpne alle faner fra forrige gang">
-<!ENTITY abouthome_top_sites_title "Øverste nettsted">
-<!ENTITY abouthome_top_sites_browse "Bla gjennom alle de øverste nettstedene">
-<!ENTITY abouthome_no_top_sites "Du har ingen øverste nettsted ennå. Trykk på tittellinjen for å starte bruke nettet.">
+<!ENTITY abouthome_top_sites_title "Mest brukt">
+<!ENTITY abouthome_top_sites_browse "Bla gjennom alle de mest brukte nettstedene">
+<!ENTITY abouthome_no_top_sites "Du har ingen mest brukte nettsted ennå. Trykk på tittellinjen for å starte bruke nettet.">
 <!ENTITY abouthome_about_sync "Sett opp Firefox Sync for å hente bokmerker, historikk og faner fra dine andre enheter">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
