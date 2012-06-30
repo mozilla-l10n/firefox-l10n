@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspeksi Elemen">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY responsiveDesignTool.label   "Tampilan Desain Bertanggung Jawab">
+<!ENTITY responsiveDesignTool.label   "Tampilan Desain Responsif">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
