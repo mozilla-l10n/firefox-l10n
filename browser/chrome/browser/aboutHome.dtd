@@ -1,6 +1,7 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
@@ -11,8 +12,6 @@
 -->
 <!ENTITY abouthome.searchEngineButton.label "Cari">
 
-<!ENTITY abouthome.aboutMozilla "Tentang Mozilla">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -22,5 +21,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Gampang sekali mengubah-ubah Firefox sesuai keinginan Anda. <a>Pilih dari beribu pengaya yang tersedia</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Setel Sync">
-<!ENTITY abouthome.pairDevice.label  "Pasangkan Perangkat">
+<!ENTITY abouthome.bookmarksButton.label "Markah">
+<!ENTITY abouthome.historyButton.label   "Riwayat">
+<!ENTITY abouthome.settingsButton.label  "Pengaturan">
+<!ENTITY abouthome.addonsButton.label    "Pengaya">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Unduhan">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
