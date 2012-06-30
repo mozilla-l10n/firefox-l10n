@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "Berkas">
+<!ENTITY fileMenu.accesskey                 "B">
+
+<!ENTITY quitApplicationCmdWin.label        "Keluar">
+<!ENTITY quitApplicationCmdWin.accesskey    "k">
+<!ENTITY quitApplicationCmd.label           "Keluar">
+<!ENTITY quitApplicationCmd.accesskey       "k">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Sembunyikan Lainnya">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Tampilkan Semua">
+
+<!ENTITY editMenu.label                     "Edit">
+<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY undoCmd.label                      "Batal">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "B">
+<!ENTITY redoCmd.label                      "Ulangi">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "U">
+<!ENTITY cutCmd.label                       "Potong">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY copyCmd.label                      "Salin">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "S">
+<!ENTITY pasteCmd.label                     "Tempel">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "p">
+<!ENTITY deleteCmd.label                    "Hapus">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "H">
+<!ENTITY selectAllCmd.label                 "Pilih Semua">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "a">
