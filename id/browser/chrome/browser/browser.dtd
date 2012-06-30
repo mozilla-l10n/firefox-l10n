@@ -238,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webConsoleButton.label "Konsol Web">
 <!ENTITY inspectorButton.label "Inspektur">
-<!ENTITY scriptsButton.label "Skrip">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Salin Kode HTML di Sisi Dalam">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "M">

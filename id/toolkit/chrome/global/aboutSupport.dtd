@@ -48,6 +48,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
+<!ENTITY aboutSupport.a11yTitle "Aksesibilitas">
+<!ENTITY aboutSupport.a11yActivated "Diaktifkan">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Versi Pustaka">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Riwayat Instalasi">
