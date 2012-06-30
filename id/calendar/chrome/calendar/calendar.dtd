@@ -67,18 +67,31 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Acara dalam Bulan Kalender ini">
 
 <!ENTITY calendar.unifinder.tree.done.label          "Selesai">
+<!ENTITY calendar.unifinder.tree.done.tooltip        "Klik untuk mengurutkan berdasarkan kolom Selesai">
 <!ENTITY calendar.unifinder.tree.priority.label      "Prioritas">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klik untuk mengurutkan berdasarkan kolom Prioritas">
 <!ENTITY calendar.unifinder.tree.title.label         "Judul">
+<!ENTITY calendar.unifinder.tree.title.tooltip        "Klik untuk mengurutkan berdasarkan kolom Judul">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037;">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip        "Klik untuk mengurutkan berdasarkan kolom Persentase Kemajuan">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Mulai">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Mulai">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Selesai">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Selesai">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Jatuh Tempo">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Jatuh Tempo">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Selesai">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Selesai">
 <!ENTITY calendar.unifinder.tree.categories.label    "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip        "Klik untuk mengurutkan berdasarkan kolom Kategori">
 <!ENTITY calendar.unifinder.tree.location.label      "Lokasi">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Klik untuk mengurutkan berdasarkan kolom Lokasi">
 <!ENTITY calendar.unifinder.tree.status.label        "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip        "Klik untuk mengurutkan berdasarkan kolom Status">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Nama Kalender">
-<!ENTITY calendar.unifinder.tree.duration.label      "Jatuh tempo pada">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip        "Klik untuk mengurutkan berdasarkan kolom Nama Kalender">
+<!ENTITY calendar.unifinder.tree.duration.label      "Jatuh tempo dalam">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klik untuk mengurutkan berdasarkan kolom waktu Jatuh Tempo">
 <!ENTITY calendar.unifinder.close.tooltip            "Tutup pencarian acara dan daftar acara">
 
 <!ENTITY calendar.today.button.tooltip            "Buka Hari Ini" >
