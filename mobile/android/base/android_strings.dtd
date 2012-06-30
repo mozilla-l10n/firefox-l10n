@@ -36,6 +36,10 @@
 <!ENTITY history_older_section "Более 7 дней назад">
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
+<!ENTITY menu "Меню">
+<!ENTITY back "Назад">
+<!ENTITY stop "Стоп">
+<!ENTITY site_security "Защита сайта">
 <!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY new_tab "Новая вкладка">
 <!ENTITY num_tabs "&#037;d вкладок">
@@ -54,10 +58,7 @@
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
-<!ENTITY pref_clear_history "Очистить историю">
-<!ENTITY pref_clear_history_confirm "История веб-сёрфинга будет очищена">
 <!ENTITY pref_clear_private_data "Удалить мои данные">
-<!ENTITY pref_clear_private_data_confirm "Настройки веб-сёрфинга, включая пароли и куки, будут удалены">
 <!ENTITY pref_plugins "Плагины">
 <!ENTITY pref_plugins_enabled "Включены">
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
@@ -72,9 +73,17 @@
 <!ENTITY pref_sync "Синхронизация">
 <!ENTITY pref_search_suggestions "Показывать поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
+<!ENTITY pref_private_data_history "Журнал посещений и загрузок">
+<!ENTITY pref_private_data_formdata "Журнал форм и поиска">
+<!ENTITY pref_private_data_cookies "Куки">
+<!ENTITY pref_private_data_cache "Кэш">
+<!ENTITY pref_private_data_sessions "Активные сеансы">
+<!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
+<!ENTITY pref_private_data_siteSettings "Настройки сайта">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
+<!ENTITY apps "Приложения">
 <!ENTITY char_encoding "Кодировка">
 <!ENTITY share "Поделиться">
 <!ENTITY share_title "Поделиться через">
@@ -114,6 +123,7 @@
 <!ENTITY masterpassword_confirm "Подтвердите пароль">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Отмена">
+<!ENTITY button_clear_data "Вычистить данные">
 <!ENTITY abouthome_addons_title "Дополнения для вашего &brandShortName;">
 <!ENTITY abouthome_addons_browse "Обзор всех дополнений &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
@@ -129,6 +139,8 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
+<!ENTITY private_data_success "Личные данные вычищены">
+<!ENTITY private_data_fail "Не удалось вычистить некоторые личные данные">
 <!ENTITY bookmarkhistory_button_import "Импорт">
 <!ENTITY bookmarkhistory_import_both "Импорт закладок и истории из Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Импорт закладок из Android">

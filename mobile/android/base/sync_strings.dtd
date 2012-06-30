@@ -29,6 +29,8 @@
 <!ENTITY sync.button.tryagain.label "Попробовать снова">
 <!ENTITY sync.button.manual.label "Настройка вручную">
 <!ENTITY sync.subtitle.nointernet.label "Нет соединения с Интернетом.">
+<!ENTITY sync.subtitle.failaccount.label "Не удалось создать учётную запись на вашем устройстве.">
+<!ENTITY sync.subtitle.failmultiple.label "У вас установлено более одного Firefox? В настоящее время, &syncBrand.fullName.label;, поддерживает работу только с одной установкой Firefox. Чтобы использовать &syncBrand.shortName.label;, пожалуйста, удалите другие установки.">
 <!ENTITY sync.title.success.label "Настройка завершена">
 <!ENTITY sync.subtitle.success.label1 "Ваши данные сейчас загружаются в фоновом режиме. Вы можете перейти в Параметры для управления вашей учётной записью, или начать сёрфинг в &brandShortName;.">
 <!ENTITY sync.settings.label "Параметры">
