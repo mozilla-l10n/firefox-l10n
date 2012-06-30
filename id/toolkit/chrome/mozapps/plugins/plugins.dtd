@@ -22,7 +22,7 @@
   
 <!ENTITY missingPlugin                                       "Plugin dibutuhkan untuk menampilkan konten.">
 <!ENTITY tapToPlayPlugin                                     "Ketuk di sini untuk mengaktifkan plugin.">
-<!ENTITY clickToPlayPlugins                                  "Klik di sini untuk mengaktifkan plugin.">
+<!ENTITY clickToPlayPlugin                                   "Klik di sini untuk mengaktifkan plugin.">
 <!ENTITY disabledPlugin                                      "Plugin untuk isi berikut telah dimatikan.">
 <!ENTITY blockedPlugin.label                                 "Plugin berikut telah diblokir untuk keamanan Anda.">
 
