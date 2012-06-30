@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Adelante">
+<!ENTITY menu "Menú">
+<!ENTITY back "Atrás">
+<!ENTITY stop "Detener">
+<!ENTITY site_security "Seguridad del sitio">
 
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY new_tab "Nueva pestaña">
@@ -69,10 +73,7 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
-<!ENTITY pref_clear_history "Limpiar historial">
-<!ENTITY pref_clear_history_confirm "El historial de navegación será borrado">
 <!ENTITY pref_clear_private_data "Borrar datos privados">
-<!ENTITY pref_clear_private_data_confirm "Las opciones de navegación, incluyendo contraseñas y cookies serán borradas">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
@@ -87,11 +88,19 @@
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
+<!ENTITY pref_private_data_history "Historial de navegación y descargas">
+<!ENTITY pref_private_data_formdata "Historial de navegación y búsqueda">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_sessions "Ingresos activos">
+<!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
+<!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
 
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY apps "Aplicaciones">
 <!ENTITY char_encoding "Codificación de caracteres">
 
 <!ENTITY share "Compartir">
@@ -144,6 +153,7 @@
 
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_clear_data "Limpiar datos">
 
 <!ENTITY abouthome_addons_title "Complementos para tu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Examinar todos los complementos de &brandShortName;">
@@ -174,6 +184,9 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ejecutado por">
+
+<!ENTITY private_data_success "Datos privados borrados">
+<!ENTITY private_data_fail "Algunos datos privados no pudieron limpiarse">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importando marcadores e historial

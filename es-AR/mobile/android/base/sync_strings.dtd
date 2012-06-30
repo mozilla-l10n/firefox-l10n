@@ -41,7 +41,9 @@
 <!ENTITY sync.button.tryagain.label 'Intentar nuevamente'>
 <!ENTITY sync.button.manual.label 'Configuración manual'>
 <!ENTITY sync.subtitle.nointernet.label 'No hay conexión a internet disponible.'>
- 
+<!ENTITY sync.subtitle.failaccount.label 'Falló la creación de la cuenta en tu dispositivo.'>
+<!ENTITY sync.subtitle.failmultiple.label '¿Tenés más de un Firefox instalado? Actualmente &syncBrand.fullName.label; solamente soporta una instalación de Firefox a la vez. Desinstalá las otras instancias para usar &syncBrand.shortName.label;.'>
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuración completa'>
 <!ENTITY sync.subtitle.success.label1 'Tus datos ahora están siendo descargados en segundo plano. Podés ir a Opciones para administrar tu cuenta o comenzar a navegar con &brandShortName;.'>
