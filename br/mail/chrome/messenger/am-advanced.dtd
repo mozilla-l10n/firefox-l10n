@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Arventennoù an dafariad kas (SMTP)">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Daoust ma vez tu da reiñ meur a zafariad kas (SMTP) ez eo erbedet an dra-se d'an arveriaded ampart hepken. Gallout a rafec'h resev fazioù en ur gas kemennadennoù, mar spisafec'h meur a zafariad SMTP.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Pa'z emaoc'h oc'h ardeiñ ho pivelezhioù e c'hellit arverañ un dafariad eus ar roll-mañ en ur ziuzañ anezhañ evel ho dafariad kas (SMTP) pe e c'hellit arverañ an dafariad dre ziouer eus ar roll-mañ en ur ziuzañ &quot;Arverañ an dafariad dre ziouer&quot;.">
 
 <!ENTITY smtpListAdd.label  "Ouzhpennañ …">
 <!ENTITY smtpListAdd.accesskey  "O">

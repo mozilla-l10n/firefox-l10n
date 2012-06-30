@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Reolennoù silañ">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Anv ar sil :">
@@ -40,3 +44,7 @@
 <!ENTITY ignoreSubthread.label "Leuskel an isneudennad a-gostez">
 <!ENTITY watchThread.label "Sellout ouzh an neudennad">
 <!ENTITY stopExecution.label "Paouez erounezadur ar sil">
+
+
+<!ENTITY addAction.tooltip "Ouzhpennañ ur gwezh nevez">
+<!ENTITY removeAction.tooltip "Lemel ar gwezh-mañ">

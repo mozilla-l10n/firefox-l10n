@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Karned chomlec'hioù">
 
 <!-- File Menu -->
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "A">
 <!ENTITY PrimaryEmail.label                             "Postel">
 <!ENTITY PrimaryEmail.accesskey                         "P">
-<!ENTITY ScreenName.label                               "Anv skramm">
-<!ENTITY ScreenName.accesskey                           "A">
+<!ENTITY ChatName.label                                 "Anv postelerezh prim">
+<!ENTITY ChatName.accesskey                             "p">
 <!ENTITY Company.label                                  "Aozadur">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Moranv">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Darempred">
 <!ENTITY home.heading                                   "Er gêr">
 <!ENTITY other.heading                                  "All">
+<!ENTITY chat.heading                                   "Postelerezh prim">
 <!ENTITY phone.heading                                  "Pellgomz">
 <!ENTITY work.heading                                   "Labour">
 <!-- Special Box Headings, for mailing lists -->
