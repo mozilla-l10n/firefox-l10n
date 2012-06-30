@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "Konfigurer din &brandShortName;">
 <!ENTITY  splash_bookmarks_history "Vi oppdaterer bokmerkene og historikken din, som kan ta en liten stund.">
@@ -44,7 +48,11 @@
 <!ENTITY reload "Last på nytt">
 <!ENTITY forward "Frem">
 
+<!ENTITY close_tab "Lukk fane">
 <!ENTITY new_tab "Ny fane">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d faner">
 <!ENTITY new_tab_opened "Ny fane åpnet">
 
 <!ENTITY settings "Innstillinger">
@@ -86,12 +94,25 @@
 <!ENTITY share "Del">
 <!ENTITY share_title "Del via">
 <!ENTITY save_as_pdf "Lagre som PDF">
+<!ENTITY find_in_page "Finn på siden">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Finn på siden">
+<!ENTITY find_prev "Forrige">
+<!ENTITY find_next "Neste">
+<!ENTITY find_close "Lukk">
 
 <!ENTITY contextmenu_open_new_tab "Åpne i ny fane">
+<!ENTITY contextmenu_remove_history "Slett">
 <!ENTITY contextmenu_remove_bookmark "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på forsiden">
 <!ENTITY contextmenu_share "Del">
 <!ENTITY contextmenu_edit_bookmark "Rediger">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Siden fjernet">
 
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
 <!ENTITY bookmark_edit_name "Navn">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillinger å fjerne.">
+
+<!ENTITY add_to_reading_list "Legg til i leselisten">
+<!ENTITY reading_list_added "Siden er lagt til i leselisten">
+<!ENTITY reading_list_removed "Siden er fjernet fra leselisten">
+<!ENTITY reader_mode "Lesemodus">
 
 <!ENTITY masterpassword_create_title "Lag et hovedpassord">
 <!ENTITY masterpassword_remove_title "Fjern hovedpassordet">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "Velg eller spill inn en lyd">
 <!ENTITY filepicker_image_title "Velg eller ta et bilde">
 <!ENTITY filepicker_video_title "Velg eller spill inn en video">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Du er tilkoblet">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "som drives av">
