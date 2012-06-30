@@ -76,8 +76,6 @@
 
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Tampilkan Acara pada Panel Hari Ini">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Tampilkan Tugas pada Panel Hari Ini dan Mode Tugas">
 <!ENTITY lightning.calendarproperties.email.label               "Email:">
 
 <!-- iMIP Bar (meeting support) -->
