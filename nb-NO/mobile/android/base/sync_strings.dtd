@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -46,6 +50,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Prøv igjen.'>
+<!ENTITY sync.pair.connectlocation.label 'For å aktivere den nye enheten, velg “Sett opp &syncBrand.shortName.label;” på den andre enheten, og deretter velg “Jeg har allerede en konto.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Innstillinger'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Usorterte bokmerker'>
 <!ENTITY bookmarks.folder.desktop.label 'Skrivebordsbokmerker'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobile bokmerker'>
+<!ENTITY bookmarks.folder.readinglist.label 'Leseliste'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Bare en &syncBrand.fullName.label;-konto støttes.'>
