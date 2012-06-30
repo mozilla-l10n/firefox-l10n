@@ -21,7 +21,8 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu dimulai ulang agar plugin bisa bekerja.">
   
 <!ENTITY missingPlugin                                       "Plugin dibutuhkan untuk menampilkan konten.">
-<!ENTITY clickToPlayPlugin                                   "Ketuk di sini untuk mengaktifkan plugin.">
+<!ENTITY tapToPlayPlugin                                     "Ketuk di sini untuk mengaktifkan plugin.">
+<!ENTITY clickToPlayPlugins                                  "Klik di sini untuk mengaktifkan plugin.">
 <!ENTITY disabledPlugin                                      "Plugin untuk isi berikut telah dimatikan.">
 <!ENTITY blockedPlugin.label                                 "Plugin berikut telah diblokir untuk keamanan Anda.">
 

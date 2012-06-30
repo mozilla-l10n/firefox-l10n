@@ -65,11 +65,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Selalu gunakan mode penjelajahan pribadi">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Ingat riwayat penjelajahan saya">
-<!ENTITY  rememberHistory.accesskey  "r">
-
-<!ENTITY  rememberDownload.label         "Simpan riwayat unduhan">
-<!ENTITY  rememberDownload.accesskey     "u">
+<!ENTITY  rememberHistory2.label      "Ingat riwayat penjelajahan dan unduhan saya">
+<!ENTITY  rememberHistory2.accesskey  "r">
 
 <!ENTITY  rememberSearchForm.label       "Simpan riwayat pencarian dan isian form">
 <!ENTITY  rememberSearchForm.accesskey   "i">
