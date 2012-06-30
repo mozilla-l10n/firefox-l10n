@@ -18,6 +18,11 @@
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktori Profil">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Folder Profil">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugin Terpasang">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurasi Build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
@@ -39,6 +44,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Nilai">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versi Pustaka">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Riwayat Instalasi">
 <!ENTITY aboutSupport.updateHistoryTitle "Riwayat Versi Baru">

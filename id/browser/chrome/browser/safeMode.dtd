@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Mode Aman">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Tertutup Tiba-tiba Saat Mulai">
+<!ENTITY autoSafeModeDescription.label "Kami mohon maaf atas ketidaknyamanan yang terjadi. Saat ini &brandShortName; sedang berjalan dalam Mode Aman, yang akan mematikan sementara pengaturan kesukaan, tema, dan ekstensi.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; sedang berjalan dalam Mode Aman, yang akan mematikan sementara pengaturan kesukaan, tema, dan ekstensi.">
 <!ENTITY safeModeDescription2.label   "Anda dapat membuat perubahan berikut menjadi permanen:">
 

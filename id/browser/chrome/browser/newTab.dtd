@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Tab Baru">
-
-<!ENTITY newtab.show "Tampilkan Laman Tab Baru">
-<!ENTITY newtab.hide "Sembunyikan Laman Tab Baru">
-<!ENTITY newtab.reset "Setel Ulang Laman Tab Baru">
