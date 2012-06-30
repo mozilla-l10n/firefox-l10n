@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Simpan Kuki">
 <!ENTITY  permInstall           "Memasang Ekstensi atau Tema">
 <!ENTITY  permGeo               "Berbagi Data Lokasi">
+<!ENTITY  permPlugins           "Aktifkan Plugin">
 
 <!ENTITY  permIndexedDB              "Kelola Penyimpanan Luring">
 <!ENTITY  permClearStorage           "Bersihkan Penyimpanan">

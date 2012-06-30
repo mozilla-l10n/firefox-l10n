@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label       "Dari Berkas HTML">
-<!ENTITY importFromHTMLFile.accesskey   "B">
 
 <!ENTITY noMigrationSources.label       "Tidak ada program yang berisi markah, riwayat atau sandi yang bisa ditemukan.">
 
