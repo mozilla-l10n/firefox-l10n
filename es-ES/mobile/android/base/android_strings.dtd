@@ -58,10 +58,7 @@
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
-<!ENTITY pref_clear_history "Limpiar historial">
-<!ENTITY pref_clear_history_confirm "El historial de navegación será eliminado">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
-<!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, será eliminada">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activados">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
@@ -76,6 +73,13 @@
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
+<!ENTITY pref_private_data_history "Historial de navegación y descargas">
+<!ENTITY pref_private_data_formdata "Formularios e historial de búsquedas">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_sessions "Sesiones activas">
+<!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
+<!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
@@ -119,6 +123,7 @@
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_clear_data "Limpiar datos">
 <!ENTITY abouthome_addons_title "Complementos para &brandShortName;">
 <!ENTITY abouthome_addons_browse "Ver los complementos de &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Pestañas de su última sesión">
@@ -134,6 +139,8 @@
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_run_by "que pertenece a">
+<!ENTITY private_data_success "Datos privados limpiados">
+<!ENTITY private_data_fail "Algunos datos privados no pueden ser limpiados">
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importar marcadores e historial
                                       desde Android">
