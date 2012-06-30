@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label "Splošno">
@@ -25,8 +29,9 @@
 <!ENTITY systemDefaults.label "Privzete vrednosti">
 <!ENTITY alwaysCheckDefault.label "Ob zagonu vedno preveri, ali je &brandShortName; privzeti brskalnik">
 <!ENTITY alwaysCheckDefault.accesskey "v">
-<!ENTITY checkNow.label "Preveri zdaj">
-<!ENTITY checkNow.accesskey "E">
+<!ENTITY setDefault.label                "Nastavi &brandShortName; kot privzet brskalnik">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; je trenutno vaš privzeti brskalnik.">
 <!ENTITY submitCrashes.label             "Pošlji poročila o sesutju">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Pošlji podatke o zmogljivosti">
