@@ -44,9 +44,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Oppsettet er fullført'>
-<!ENTITY sync.subtitle.success.label 'Data lastes ned i bakgrunnen. Du kan åpne Innstillinger for å behandle kontoen.'>
+<!ENTITY sync.subtitle.success.label1 'Data lastes ned i bakgrunnen. Du kan åpne Innstillinger for å behandle kontoen, eller start bruk nettet med &brandShortName;.'>
 <!ENTITY sync.settings.label 'Innstillinger'>
-<!ENTITY sync.subtitle.manage.label 'Din &syncBrand.fullName.label;-konto er allerede konfigurert. Gå til Innstillinger for å behandle kontoen.'>
+<!ENTITY sync.subtitle.manage.label1 'Din &syncBrand.fullName.label;-konto er allerede konfigurert. Gå til Innstillinger for å behandle kontoen, eller start &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Prøv igjen.'>
