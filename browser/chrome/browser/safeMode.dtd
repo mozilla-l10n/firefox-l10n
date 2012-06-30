@@ -18,6 +18,6 @@
 <!ENTITY resetProfileInstead.label    "&brandShortName;lahko tudi ponastavite, če hočete začeti od začetka. ">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-<!ENTITY autoSafeModeDescription2.label "& BrandShortName; se je med zagonom nepričakovano zaprl. Vzrok za  to so lahko dodatki, ali kaki drugi problemi. Problem lahko rešite tako, da &brandShortName; ponastavite v prednastavljeno stanje ali pa se jih lotite v varfnem načinu.">
+<!ENTITY autoSafeModeDescription2.label "&BrandShortName; se je med zagonom nepričakovano zaprl. Vzrok za  to so lahko dodatki, ali kaki drugi problemi. Probleme lahko rešite tako, da &brandShortName; ponastavite v prednastavljeno stanje ali pa se jih lotite v varnem načinu.">
 <!ENTITY resetProfileFooter.label       "Vse ostalo se bo ponastavilo na tovarniške vrednosti.">
 <!ENTITY safeModeInstead.label          "Če tega ne želite, lahko nadaljujete v varnem načinu in iščete sami vzrok za probleme, pri tem pa bodo vaše razširitve in nastavitve začasno onemogočene.">
