@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Tambah Tautan…">
 <!ENTITY  event.menu.options.link.accesskey                   "T">
-<!ENTITY  event.menu.options.timezone.label                   "Zona Waktu">
-<!ENTITY  event.menu.options.timezone.accesskey               "Z">
+<!ENTITY  event.menu.options.timezone2.label                  "Tampilkan Zona Waktu">
+<!ENTITY  event.menu.options.timezone2.accesskey              "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritas">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Tidak Ditentukan">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Tentukan Zona Waktu">
+<!ENTITY event.timezone.custom.label     "Zona Waktu Lainnya…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Umum">
