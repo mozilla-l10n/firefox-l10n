@@ -1,3 +1,0 @@
-# LOCALIZATION NOTE (dialog_removeAccount):
-# %S will be replaced with the user-defined name of a storage account.
-dialog_removeAccount=Are you sure you want to remove the account "%S"?
