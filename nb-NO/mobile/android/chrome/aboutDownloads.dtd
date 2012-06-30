@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Nedlastinger">
-<!ENTITY aboutDownloads.header                     "Dine nedlastinger">
+<!ENTITY aboutDownloads.header                     "Nedlastinger">
 <!ENTITY aboutDownloads.empty                      "Ingen nedlastinger">
