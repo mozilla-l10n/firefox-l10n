@@ -60,7 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Acara Hari Ini">
 <!ENTITY calendar.events.filter.future.label "Semua Acara yang Akan Datang">
 <!ENTITY calendar.events.filter.current.label "Hari yang Sedang Dipilih">
-<!ENTITY calender.events.filter.currentview.label "Acara pada Tampilan Sekarang">
+<!ENTITY calendar.events.filter.currentview.label "Acara pada Tampilan Sekarang">
 <!ENTITY calendar.events.filter.next7Days.label "Acara dalam 7 Hari ke Depan">
 <!ENTITY calendar.events.filter.next14Days.label "Acara dalam 14 Hari ke Depan">
 <!ENTITY calendar.events.filter.next31Days.label "Acara dalam 31 Hari ke Depan">
@@ -248,6 +248,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "H">
 <!ENTITY calendar.context.postpone.1week.label      "1 Minggu">
 <!ENTITY calendar.context.postpone.1week.accesskey  "M">
+
+<!ENTITY calendar.copylink.label       "Salin Lokasi Tautan">
+<!ENTITY calendar.copylink.accesskey   "S">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
