@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "B">
 <!ENTITY newExistingEmailAccountCmd.label "Akun Email yang Sudah Ada…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Akun Ngobrol…">
+<!ENTITY newIMAccountCmd.accesskey "N">
 <!ENTITY openMessageFileCmd.label "Buka Pesan Tersimpan…">
 <!ENTITY openMessageFileCmd.accesskey "P">
 <!ENTITY openAttachmentCmd.label "Lampiran">
@@ -327,6 +329,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Mundur">
 <!ENTITY goBackCmd.accesskey "M">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Ngobrol">
+<!ENTITY goChatCmd.accesskey "n">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Pesan Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
 <!ENTITY folderMenu.label "Folder">
@@ -353,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Hanya Balas ke Pengirim">
 <!ENTITY replySenderCmd.accesskey "P">
-<!ENTITY replyNewsgroupCmd.label "Balas ke Newsgroup">
-<!ENTITY replyNewsgroupCmd.accesskey  "B">
+<!ENTITY replyNewsgroupCmd2.label "Balas ke Newsgroup">
+<!ENTITY replyNewsgroupCmd2.accesskey  "B">
 <!ENTITY replyToAllMsgCmd.label "Balas ke Semua">
 <!ENTITY replyToAllMsgCmd.accesskey  "s">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "P">
 <!ENTITY activitymanager.label "Pengelola Aktivitas">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Status ngobrol">
+<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imStatus.available          "Tersedia">
+<!ENTITY imStatus.unavailable        "Tidak tersedia">
+<!ENTITY imStatus.offline            "Luring">
+<!ENTITY imStatus.showAccounts       "Tampilkan Akun…">
 <!ENTITY savedFiles.label "Berkas Tersimpan">
 <!ENTITY savedFiles.accesskey "s">
 <!ENTITY savedFiles.key "j">
@@ -487,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Konsol Kesalahan">
 <!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Pengaturan Akun…">
 <!ENTITY accountManagerCmd.accesskey "k">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -502,8 +514,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.label "Teruskan">
 <!ENTITY fileButton.label "Berkas">
 <!ENTITY archiveButton.label "Arsipkan">
-<!ENTITY nextButton.label "Lanjut">
+<!ENTITY nextButton.label "Selanjutnya">
+<!ENTITY nextButtonToolbarItem.label "Yang Belum Dibaca Selanjutnya">
+<!ENTITY nextMsgButton.label "Selanjutnya">
 <!ENTITY previousButton.label "Sebelumnya">
+<!ENTITY previousButtonToolbarItem.label "Yang Belum Dibaca Sebelumnya">
+<!ENTITY previousMsgButton.label "Sebelumnya">
 <!ENTITY backButton1.label "Mundur">
 <!ENTITY goForwardButton1.label "Maju">
 <!ENTITY deleteItem.title "Hapus">
@@ -517,6 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Bukan Junk">
 <!ENTITY addressBookButton.label "Buku Alamat">
+<!ENTITY chatButton.label "Ngobrol">
 <!ENTITY glodaSearch.title "Pencarian Global">
 <!ENTITY searchItem.title "Cari Cepat">
 <!ENTITY mailViewsToolbarItem.title "Tampilan Email">
@@ -537,7 +554,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Simpan pesan terpilih sebagai berkas ">
 <!ENTITY archiveButton.tooltip "Arsipkan pesan terpilih">
 <!ENTITY nextButton.tooltip "Pindah ke pesan yang belum dibaca selanjutnya">
+<!ENTITY nextMsgButton.tooltip "Pindah ke pesan selanjutnya">
 <!ENTITY previousButton.tooltip "Pindah ke pesan yang belum dibaca sebelumnya">
+<!ENTITY previousMsgButton.tooltip "Pindah ke pesan sebelumnya">
 <!ENTITY goForwardButton.tooltip "Maju satu pesan">
 <!ENTITY goBackButton.tooltip "Mundur satu pesan">
 <!ENTITY deleteButton.tooltip "Hapus pesan atau folder terpilih">
@@ -548,6 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Tandai pesan terpilih sebagai junk">
 <!ENTITY notJunkButton.tooltip "Tandai pesan terpilih sebagai bukan junk">
 <!ENTITY addressBookButton.tooltip "Buka buku alamat">
+<!ENTITY chatButton.tooltip "Tampilkan tab Ngobrol">
 <!ENTITY tagButton.tooltip "Tambahkan tag pada pesan">
 <!ENTITY compactButton.tooltip "Buang pesan yang dihapus pada folder terpilih">
 
@@ -669,8 +689,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Hanya Balas ke Pengirim">
 <!ENTITY contextReplySender.accesskey "B">
-<!ENTITY contextReplyNewsgroup.label "Balas ke Newgroup">
-<!ENTITY contextReplyNewsgroup.accesskey "B">
+<!ENTITY contextReplyNewsgroup2.label "Balasan ke Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "B">
 <!ENTITY contextReplyAll.label "Balas ke Semua">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Balas ke Daftar">
@@ -775,28 +795,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Cari pada semua pesan… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Cari… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "(Ctrl+K)">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "(&#x2318;K)">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Tambahkan ke Buku Alamat…">

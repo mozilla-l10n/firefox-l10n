@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Status perpesanan instan">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Akun Baru">
+<!ENTITY accountManager.newAccount.accesskey "B">
+<!ENTITY accountManager.close.label          "Tutup">
+<!ENTITY accountManager.close.accesskey      "l">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Belum ada akun disiapkan">
+<!ENTITY accountManager.noAccount.description "Klik pada tombol &accountManager.newAccount.label; untuk mengikuti panduan &brandShortName; untuk menyiapkan akun.">
+<!ENTITY account.autoSignOn.label     "Masuk saat memulai">
+<!ENTITY account.autoSignOn.accesskey "S">
+<!ENTITY account.connect.label        "Sambungkan">
+<!ENTITY account.connect.accesskey    "b">
+<!ENTITY account.disconnect.label     "Putuskan">
+<!ENTITY account.disconnect.accesskey "k">
+<!ENTITY account.edit.label           "Properti">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "Geser ke atas">
+<!ENTITY account.movedown.label       "Geser ke bawah">
+<!ENTITY account.cancelReconnection.label         "Batalkan penyambungan kembali">
+<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.connecting           "Menyambung…">
+<!ENTITY account.disconnecting        "Memutuskan…">
+<!ENTITY account.disconnected         "Tidak Tersambung">
