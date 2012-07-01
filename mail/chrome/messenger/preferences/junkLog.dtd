@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Log Email Junk">
-<!ENTITY junkLogInfo.label "Log aktivitas pengontrol email junk.">
+<!ENTITY adaptiveJunkLog.title "Log Email Junk Adaptif">
+<!ENTITY adaptiveJunkLogInfo.label "Log aktivitas pengontrol email junk adaptif.">
 <!ENTITY clearLog.label "Bersihkan Log">
 <!ENTITY clearLog.accesskey "L">
 <!ENTITY closeLog.label "Tutup">

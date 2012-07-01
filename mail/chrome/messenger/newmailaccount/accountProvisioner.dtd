@@ -1,5 +1,5 @@
 <!ENTITY window.title "Selamat datang di &brandShortName;">
-<!ENTITY header.label "Ingin punya alamat email baru?">
+<!ENTITY header2.label "Ingin punya alamat email baru?">
 <!ENTITY other.languages "Kami hanya menampilkan penyedia layanan email yang menawarkan akun email pada wilayah Anda. Klik di sini untuk menampilkan semua penyedia layanan.">
 <!ENTITY error.line1 "Maaf, kami tidak dapat menemukan alamat email yang disarankan.">
 <!ENTITY error.line2 "Anda dapat mencari nama alias atau istilah lainnya untuk menemukan email yang lain">

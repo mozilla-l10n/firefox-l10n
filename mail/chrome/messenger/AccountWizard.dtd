@@ -32,22 +32,34 @@
 <!ENTITY emailLabel.label "Alamat Email:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Informasi Server">
+<!ENTITY incomingTitle.label "Informasi Server Penerima">
 <!ENTITY incomingServerTypeDesc.label "Pilih jenis server penerima yang Anda gunakan.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Masukkan nama server penerima Anda (contohnya, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Server Penerima:">
-<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY incomingServer.description "Masukkan nama server penerima Anda (misalnya, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Server Penerima:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Masukkan nama pengguna server penerima yang diberikan oleh penyedia layanan jasa email Anda (misalnya, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Nama Pengguna:">
+<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Masukkan nama server news (NNTP) Anda (contohnya, &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Masukkan nama server pengirim (SMTP) Anda, (contohnya, &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "Server Pengirim:">
-<!ENTITY smtpServerLabel.accesskey "P">
 <!ENTITY newsServerLabel.label "Server Newsgroup:">
 <!ENTITY newsServerLabel.accesskey "N">
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Informasi Server Pengirim">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Masukkan nama server pengirim Anda (SMTP) (misalnya, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Server Pengirim:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Enter Masukkan nama pengguna server pengirim yang diberikan oleh penyedia layanan jasa email Anda (pada umumnya sama dengan nama pengguna server penerima).">
+<!ENTITY outgoingUsername.label "Nama Pengguna Pengirim:">
+<!ENTITY outgoingUsername.accesskey "U">
+
+
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -74,15 +86,6 @@
 
 <!-- Entities for Login page -->
 
-<!ENTITY loginTitle.label "Nama Pengguna">
-<!ENTITY usernameDesc.label "Masukkan nama pengguna server penerima yang diberikan oleh penyedia layanan email Anda ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(contohnya, &quot;budiputra&quot;).">
-<!ENTITY usernameLabel.label "Nama Pengguna Server Penerima:">
-<!ENTITY usernameLabel.accesskey "N">
-<!ENTITY usernameSmtpDesc.label "Masukkan nama pengguna untuk server pengirim yang diberikan oleh penyedia layanan email Anda (pada umumnya sama dengan nama pengguna untuk server penerima).">
-<!ENTITY usernameSmtpLabel.label "Nama Pengguna Server Pengirim:">
-<!ENTITY usernameSmtpLabel.accesskey "P">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
