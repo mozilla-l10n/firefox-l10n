@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Siapkan Filelink">
+<!ENTITY addAccountDialog.menuTitle "Pilih layanan penyimpanan daring">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Nama Akun:">
+<!ENTITY addAccountDialog.noAccountText "Maaf, versi &brandShortName; ini hanya dapat menggunakan satu akun untuk setiap layanan penyimpanan daring.">
+<!ENTITY addAccountDialog.createAccountText2 "Anda dapat mengirim lampiran raksasa dengan menggunakan beberapa layanan penyimpanan daring. Silakan siapkan akun yang ada atau mendaftar akun baru.">
+<!ENTITY addAccountDialog.authorizing "Memeriksa otorisasi...">
+<!ENTITY addAccountDialog.error "Galat terjadi saat menyiapkan akun!">
+<!ENTITY addAccountDialog.acceptButton.label "Siapkan Akun">
+<!ENTITY addAccountDialog.learnMore "Pelajari selengkapnya…">
