@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "i">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Tidak Ada Saran)">
-<!ENTITY spellCheckIgnoreWord.label "Abaikan Kata">
-<!ENTITY spellCheckIgnoreWord.accesskey "A">
-<!ENTITY spellCheckAddToDictionary.label "Tambah ke Kamus">
-<!ENTITY spellCheckAddToDictionary.accesskey "k">
 <!ENTITY createLinkCmd.label "Buat Tautan…">
 <!ENTITY createLinkCmd.accesskey "t">
 <!ENTITY editLinkCmd.label "Sunting Tautan di Composer">
