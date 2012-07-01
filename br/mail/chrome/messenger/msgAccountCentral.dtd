@@ -1,20 +1,20 @@
-<!ENTITY emailSectionHdr.label        "Postel"> 
-<!ENTITY readMsgsLink.label           "Lenn ar c'hemennadennoù"> 
-<!ENTITY composeMsgLink.label         "Skridaozañ ur gemennadenn nevez"> 
+<!ENTITY emailSectionHdr.label        "Postel">
+<!ENTITY readMsgsLink.label           "Lenn ar c'hemennadennoù">
+<!ENTITY composeMsgLink.label         "Skridaozañ ur gemennadenn nevez">
 
-<!ENTITY newsSectionHdr.label         "Strolladoù-keleier"> 
-<!ENTITY subscribeNewsLink.label      "Ardeiñ ar c'houmanantiñ da strolladoù-keleier"> 
+<!ENTITY newsSectionHdr.label         "Strolladoù-keleier">
+<!ENTITY subscribeNewsLink.label      "Ardeiñ ar c'houmanantoù da strolladoù-keleier">
 
-<!ENTITY accountsSectionHdr.label     "Kontoù"> 
-<!ENTITY subscribeImapFolders.label   "Teuliad ardeiñ ar c'houmanantadurioù">
-<!ENTITY settingsLink.label           "Gwelout an arventennoù evit ar gont-se"> 
-<!ENTITY newAcctLink.label            "Krouiñ ur gont nevez"> 
+<!ENTITY accountsSectionHdr.label     "Kontoù">
+<!ENTITY subscribeImapFolders.label   "Teuliad ardeiñ ar c'houmanantoù">
+<!ENTITY settingsLink.label           "Gwelout an arventennoù evit ar gont-se">
+<!ENTITY newAcctLink.label            "Krouiñ ur gont nevez">
 
-<!ENTITY advFeaturesSectionHdr.label  "Keweriusterioù kempleshoc'h"> 
-<!ENTITY searchMsgsLink.label         "Klask er c'hemennadennoù"> 
+<!ENTITY advFeaturesSectionHdr.label  "Keweriusterioù kempleshoc'h">
+<!ENTITY searchMsgsLink.label         "Klask er c'hemennadennoù">
 <!ENTITY filtersLink.label            "Ardeiñ siloù ar c'hemennadennoù">
 <!ENTITY junkSettings.label           "Arventennoù ar posteloù lastez">
 <!ENTITY offlineLink.label            "Arventennoù ezlinenn">
 
 <!ENTITY feedsSectionHdr.label        "Strolladoù-keleier ha Blogoù">
-<!ENTITY subscribeFeeds.label         " Ardeiñ ar c'houmanantadurioù">
+<!ENTITY subscribeFeeds.label         "Ardeiñ ar c'houmanantoù">

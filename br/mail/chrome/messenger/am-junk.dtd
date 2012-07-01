@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Arventennoù al lastez">
-<!ENTITY trainingWarning.label "Mar gweredekaet e rankit, da gentañ, lakaat &brandShortName; da bleustriñ war hennadiñ ar posteloù lastez dre arverañ an afell war barrenn ar spamoù da verkañ ar posteloù evel lastez pe get. Ret eo deoc'h hennadiñ ar posteloù lastez hag ar re nad int ket.">
+<!ENTITY trainingDescription.label "Mar gweredekaet e rankit, da gentañ, lakaat &brandShortName; da bleustriñ war hennadiñ ar posteloù lastez dre arverañ an afell war barrenn ar spamoù da verkañ ar posteloù evel lastez pe get. Ret eo deoc'h hennadiñ ar posteloù lastez hag ar re nad int ket. Goude se e c'hello &brandShortName; merkañ ar posteloù lastez ent emgefreek.">
 <!ENTITY level.label "Gweredekaat reolerezhioù azasaus ar posteloù lastez evit ar gont-mañ">
 <!ENTITY level.accesskey "e">
 

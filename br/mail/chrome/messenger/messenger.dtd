@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "A">
 <!ENTITY newIMAccountCmd.label "Kont postelerezh prim…">
 <!ENTITY newIMAccountCmd.accesskey "p">
+<!ENTITY newIMContactCmd.label "Kont darempred…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Teulioù kenstag">
@@ -474,11 +480,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY activitymanager.label "Oberiantiz">
 <!ENTITY activitymanager.accesskey "O">
 <!ENTITY imAccountsStatus.label "Stadoù ar postelerezh prim">
-<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imAccountsStatus.accesskey "S">
 <!ENTITY imStatus.available          "Hegerz">
 <!ENTITY imStatus.unavailable        "Ac'hubet">
 <!ENTITY imStatus.offline            "Ezlinenn">
 <!ENTITY imStatus.showAccounts       "Diskouez ar c'hontoù…">
+<!ENTITY joinChatCmd.label "Kejañ ouzh ar postelerezh prim…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Restroù enrollet">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "H">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Postel lastez">
+<!ENTITY junkBarMessage2.label "Soñjal a ra &brandShortName; ez eo ar gemennadenn-mañ ur postel lastez.">
 <!ENTITY junkBarButton1.label "Ket lastez">
 <!ENTITY junkInfoButton.label "?">
 

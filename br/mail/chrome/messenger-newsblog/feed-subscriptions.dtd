@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Koumanantadur lanv">
+<!ENTITY feedSubscriptions.label "Koumanantoù da lanvioù">
 <!ENTITY subscriptionDesc.label "Notenn : Mar bez dilec'hiet pe gemmet an teuliad evit ul lanv ne vo ket tizhet ar pennadoù bet pellgarget a-raok.">
 
 <!ENTITY feedTitle.label             "Titl :">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "i">
 <!ENTITY button.exportOPML.label     "Ezporzhiañ">
 <!ENTITY button.exportOPML.accesskey "z">
+<!ENTITY button.exportOPML.tooltip   "Ezporzhiañ al lanvioù gant ar framm teuliadoù; Reol + Klik pe Reol + Enankañ evit ezporzhiañ al lanvioù evel ur roll">
 
 <!ENTITY cmd.close.commandKey        "w">
