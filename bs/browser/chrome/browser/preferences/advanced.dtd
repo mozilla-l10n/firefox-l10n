@@ -25,8 +25,9 @@
 <!ENTITY systemDefaults.label            "Izvorne sistemske vrijednosti">
 <!ENTITY alwaysCheckDefault.label        "Uvijek prilikom pokretanja provjeri da li je &brandShortName; glavni browser"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "Odmah provjeri">
-<!ENTITY checkNow.accesskey              "O">
+<!ENTITY setDefault.label                "Učini &brandShortName; glavnim browserom">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; je trenutno vaš glavni browser">
 <!ENTITY submitCrashes.label             "Šalji izvještaje o rušenju">
 <!ENTITY submitCrashes.accesskey         "Š">
 <!ENTITY submitTelemetry.label           "Šalji izvještaje o performansama">

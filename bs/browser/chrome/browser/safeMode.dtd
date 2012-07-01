@@ -1,64 +1,19 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org Code.
-   -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-#endif
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Sigurni režim">
-<!ENTITY window.width                 "37em">
+<!ENTITY safeModeDialog.title         "&brandShortName; sigurni režim">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; se neočekivano ugasio prilikom pokretanja">
-<!ENTITY autoSafeModeDescription.label "Iskreno se izvinjavamo zbog neugodnosti. &brandShortName; trenutno radi u sigurnom režimu, koji privremeno onemogućava vaše korisnički zadane postavke, teme i ekstenzije.">
+<!ENTITY startSafeMode.label          "Pokreni u sigurnom režimu">
+<!ENTITY resetProfile.label           "Resetuj &brandShortName;">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; radi u Sigurnom režimu, koji privremeno onemogućuje vaše lične postavke, teme i ekstenzije.">
-<!ENTITY safeModeDescription2.label   "Možete učiniti neke ili sve od ovih izmjena trajnim:">
+<!ENTITY safeModeDescription3.label   "Sigurni režim je poseban režim &brandShortName;a kojeg možete koristiti za rješavanje problema.">
+<!ENTITY safeModeDescription4.label   "Vaši add-oni i korisničke postavke bit će privremeno onemogućeni.">
 
-<!ENTITY disableAddons.label          "Onemogući sve add-one">
-<!ENTITY disableAddons.accesskey      "d">
+<!ENTITY resetProfileInstead.label    "Takođe, možete resetovati &brandShortName; ukoliko želite novi početak.">
 
-<!ENTITY resetToolbars.label          "Resetuj alatne trake i kontrole">
-<!ENTITY resetToolbars.accesskey      "R">
-
-<!ENTITY deleteBookmarks.label        "Obriši sve zabilješke osim za sigurnosne kopije">
-<!ENTITY deleteBookmarks.accesskey    "b">
-
-<!ENTITY resetUserPrefs.label         "Vrati sve korisničke postavke na izvorne vrijednosti za &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey     "p">
-
-<!ENTITY restoreSearch.label          "Vrati sve izvorne pretraživače">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "Napravi izmjene i ponovo pokreni">
-<!ENTITY continueButton.label         "Nastavi rad u Sigurnom režimu">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; se neočekivano ugasio prilikom pokretanja. Uzrok ovome mogu biti add-oni ili drugi problemi. Možete pokušati riješiti problem resetovanjem &brandShortName;a u njegovoj inicijalno stanje ili upotrebom sigurnog režima.">
+<!ENTITY resetProfileFooter.label       "Sve ostalo će biti resetovano na fabričke postavke.">
+<!ENTITY safeModeInstead.label          "Ukoliko ne želite ovo, možete nastaviti raditi u sigurnom režimu kako biste sami pokušali riješiti problem dok su vaši add-oni i korisničke postavke privremeno onemogućene.">
