@@ -60,5 +60,5 @@
 <!ENTITY sync.button.send.label "Invia">
 <!ENTITY sync.button.set.up.sync.label "Configurazione di &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurazione di &syncBrand.shortName.label; per l’invio di schede">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.shortName.label; per inviare le schede ad altri dispositivi.">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
