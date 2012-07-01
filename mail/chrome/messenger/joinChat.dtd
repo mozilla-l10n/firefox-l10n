@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Gabung ke ngobrol">
+<!ENTITY name.label                     "Kamar">
+<!ENTITY optional.label                 "(opsional)">
+<!ENTITY account.label                  "Akun">
+<!ENTITY autojoin.label                 "Gabung-Otomatis untuk Kamar Ngobrol ini">
+<!ENTITY autojoin.accesskey             "A">

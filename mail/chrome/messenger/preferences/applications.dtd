@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "J">
 <!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "P">
+
+<!ENTITY attachments.incoming.label   "Masuk">
+<!ENTITY attachments.outgoing.label   "Keluar">
+
+<!ENTITY addCloudFileAccount.label        "Tambah">
+<!ENTITY addCloudFileAccount.accesskey    "T">
+<!ENTITY addCloudFileAccount.description  "Tambakan layanan penyimpanan Filelink">
+<!ENTITY removeCloudFileAccount.label     "Hapus">
+<!ENTITY removeCloudFileAccount.accesskey "H">
+<!ENTITY authRequired.description         "Otorisasi diperlukan untuk menampilkan setelan layanan penyimpanan ini.">
+<!ENTITY authRequired.button.label        "Otorisasi">
+<!ENTITY authRequired.button.accesskey    "O">
+
+<!ENTITY enableCloudFileAccountOffer.label "Menawarkan untuk berbagi berkas dengan ukuran lebih dari">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

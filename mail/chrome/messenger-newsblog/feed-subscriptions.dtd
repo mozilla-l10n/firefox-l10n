@@ -1,8 +1,21 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Langganan Feed">
 <!ENTITY subscriptionDesc.label "Catatan: Menghapus atau mengubah folder untuk feed tidak akan berpengaruh pada artikel yang pernah diunduh sebelumnya.">
-<!ENTITY feedTitle.label "Judul:">
-<!ENTITY location.label  "Lokasi:">
+<!ENTITY feedTitle.label             "Judul:">
+<!ENTITY feedTitle.accesskey         "J">
+
+<!ENTITY feedLocation.label          "URL Feed:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Masukkan URL feed yang valid yang ingin ditambahkan">
+
+<!ENTITY feedFolder.label            "Simpan Artikel di:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Tampilkan ringkasan artikel, jangan memuat laman webnya">
+<!ENTITY quickMode.accesskey         "r">
+
+<!ENTITY locationValidate.label      "Validasi">
+<!ENTITY validateText.label          "Memeriksa validasi dan mengambil URL yang valid.">
 
 <!ENTITY button.addFeed.label       "Tambah">
 <!ENTITY button.addFeed.accesskey   "T">

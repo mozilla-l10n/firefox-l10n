@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "U">
 <!ENTITY identitiesListDelete.label "Hapus">
 <!ENTITY identitiesListDelete.accesskey "H">
+<!ENTITY identitiesListClose.label "Tutup">
+<!ENTITY identitiesListClose.accesskey "T">
