@@ -66,6 +66,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Balas ke pengirim dan semua penerima">
 <!ENTITY hdrReplyListButton1.label "Balas ke milis">
 <!ENTITY hdrReplyListButton1.tooltip "Balas ke milis">
+<!ENTITY hdrFollowupButton1.label "Balasan">
+<!ENTITY hdrFollowupButton1.tooltip "Kirimkan balasan ke newsgroup ini">
 <!ENTITY hdrForwardButton1.label "Teruskan">
 <!ENTITY hdrForwardButton1.tooltip "Teruskan pesan ini">
 <!ENTITY hdrJunkButton1.label "Junk">

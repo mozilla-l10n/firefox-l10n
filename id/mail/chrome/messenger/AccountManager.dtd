@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "T">
 <!ENTITY addMailAccountButton.label "Tambahkan Akun Email…">
 <!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY addIMAccountButton.label "Tambahkan Akun Ngobrol…">
+<!ENTITY addIMAccountButton.accesskey "N">
 <!ENTITY addOtherAccountButton.label "Tambahkan Akun Lainnya…">
 <!ENTITY addOtherAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Atur sebagai Default">

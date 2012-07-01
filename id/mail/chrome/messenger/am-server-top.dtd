@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Penyimpanan Pesan">
 <!ENTITY securitySettings.label "Pengaturan Keamanan">
 <!ENTITY serverSettings.label "Pengaturan Server">
 <!ENTITY serverType.label "Jenis Server:">
@@ -76,3 +77,6 @@
 <!ENTITY newsrcPicker.label "Pilih Berkas newsrc">
 <!ENTITY browseNewsrc.label "Telusuri…">
 <!ENTITY browseNewsrc.accesskey "T">
+
+<!ENTITY accountTitle.label "Setelan Akun">
+<!ENTITY accountSettingsDesc.label "Akun berikut merupakan akun khusus. Tidak ada identitas yang terkait dengan akun ini.">
