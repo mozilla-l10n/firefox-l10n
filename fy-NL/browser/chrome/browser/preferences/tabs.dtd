@@ -10,6 +10,9 @@
 <!ENTITY showTabBar.label             		"De ljepblêdenbalke altyd sjen litte">
 <!ENTITY showTabBar.accesskey         		"b">
 
+<!ENTITY restoreTabsOnDemand.label        "Ljepblêden pas lade nei selektearjen">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
+
 <!ENTITY switchToNewTabs.label        		"As ik in keppeling iepenje yn in nij ljepblêd, der direkt nei ta gean">
 <!ENTITY switchToNewTabs.accesskey    		"a">
 
