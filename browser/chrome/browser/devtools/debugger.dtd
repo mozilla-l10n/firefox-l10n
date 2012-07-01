@@ -37,15 +37,15 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
   -  button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton   "Oerslaan">
+<!ENTITY debuggerUI.stepOverButton.tooltip   "Oerslaan">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
   -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton     "Ynstappe">
+<!ENTITY debuggerUI.stepInButton.tooltip     "Ynstappe">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
   -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton    "Utstappe">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "Utstappe">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
