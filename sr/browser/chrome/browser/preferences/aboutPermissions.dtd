@@ -11,7 +11,7 @@
 
 <!ENTITY header.defaults                 "Подразумеване дозволе за све сајтове">
 
-<!ENTITY permissions.forgetSite          "Заборави овај сајт">
+<!ENTITY permissions.forgetSite          "Занемари овај сајт">
 
 <!ENTITY permission.alwaysAsk            "Увек питај">
 <!ENTITY permission.allow                "Дозволи">
@@ -22,14 +22,17 @@
 <!ENTITY password.manage                 "Управљање лозинкама…">
 
 <!ENTITY cookie.label                    "Постави колачиће">
-<!ENTITY cookie.clear                    "Очисти колачиће">
+<!ENTITY cookie.remove                   "Уклони колачиће">
 <!ENTITY cookie.manage                   "Управљање колачићима…">
-<!ENTITY cookie.clearAll                 "Очисти све колачиће">
+<!ENTITY cookie.removeAll                "Уклони све колачиће">
 
 <!ENTITY geo.label                       "Објави локацију">
+
+<!ENTITY plugins.label                   "Прикључци">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Одржавај складиште ван мреже">
 
 <!ENTITY popup.label                     "Отварај искачуће прозоре">
+

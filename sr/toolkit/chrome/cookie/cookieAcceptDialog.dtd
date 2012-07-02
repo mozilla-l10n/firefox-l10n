@@ -9,7 +9,7 @@
 <!ENTITY     button.allow.label             "Дозволи">
 <!ENTITY     button.allow.accesskey         "Д">
 <!ENTITY     button.session.label           "Дозволи за ову сесију">
-<!ENTITY     button.session.accesskey       "Д">
+<!ENTITY     button.session.accesskey       "с">
 <!ENTITY     button.deny.label              "Забрани">
 <!ENTITY     button.deny.accesskey          "З">
 
