@@ -605,8 +605,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 <!ENTITY inspectContextMenu.accesskey "υ">
 
+<!ENTITY enterFullScreenCmd.label "Μετάβαση σε πλήρη οθόνη">
+<!ENTITY enterFullScreenCmd.accesskey "π">
+<!ENTITY exitFullScreenCmd.label "Έξοδος από την πλήρη οθόνη">
+<!ENTITY exitFullScreenCmd.accesskey "">
 
-<!ENTITY domFullScreenWarning.label "Πατήστε ESC για έξοδο από τη λειτουργία πλήρους οθόνης">
+<!ENTITY fullScreenExit.accesskey "ξ">
+<!ENTITY fullscreenAllowButton.label "Να επιτρέπεται">
+<!ENTITY fullscreenExitButton.label "Άρνηση">
+<!ENTITY fullscreenApproval.value "Να επιτρέπεται η πλήρης οθόνη;">
+
 <!ENTITY inspectCloseButton.tooltiptext "Κλείσιμο Inspector">
 <!ENTITY inspectStyleButton.label     "Στυλ">
 
@@ -650,3 +658,10 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Κλείσιμο Developer Toolbar">
+<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.commandkey             "v">
+
