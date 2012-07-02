@@ -5,5 +5,5 @@
 	<Url type="text/html" method="get" template="http://lema.rae.es/drae/">
 		<Param name="val" value="{searchTerms}"/>
 	</Url>
-	<SearchForm>http://buscon.rae.es/draeI/html/cabecera.htm</SearchForm> 
+	<SearchForm>http://www.rae.es/rae.html</SearchForm> 
 </SearchPlugin>
