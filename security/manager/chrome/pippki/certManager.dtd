@@ -72,7 +72,7 @@
 
 <!ENTITY certmgr.editcert.title               "Измени поставке безбедносних сертификата:">
 <!ENTITY certmgr.editcacert.title             "Мења подешавање поверења ПС">
-<!ENTITY certmgr.editsslcert.title            "Уређивање поставки о поверењу сертификату за веб сајт">
+<!ENTITY certmgr.editsslcert.title            "Уређивање подешавања сертификата о поверењу">
 <!ENTITY certmgr.editcert.edittrust           "Измени поставке поверења:">
 <!ENTITY certmgr.editcert.trustssl            "Овај сертификат може да идентификује веб сајтове.">
 <!ENTITY certmgr.editcert.trustemail          "Овај сертификат може да идентификује кориснике ел. поште.">
@@ -98,7 +98,7 @@
 <!ENTITY certmgr.tokenname                    "Безбедносни уређај">
 <!ENTITY certmgr.issued                       "Издато">
 <!ENTITY certmgr.expires                      "Истиче">
-<!ENTITY certmgr.email                        "Адреса ел. поште">
+<!ENTITY certmgr.email                        "Е-адреса">
 <!ENTITY certmgr.serial                       "Серијски број">
 
 <!ENTITY certmgr.close.label                  "Затвори">
@@ -115,7 +115,7 @@
 <!ENTITY certmgr.export.accesskey             "И">
 <!ENTITY certmgr.delete2.label                "Уклони…">
 <!ENTITY certmgr.delete2.accesskey            "У">
-<!ENTITY certmgr.delete_builtin.label         "Избриши или укини поверење…">
+<!ENTITY certmgr.delete_builtin.label         "Уклони или укини поверење…">
 <!ENTITY certmgr.delete_builtin.accesskey     "И">
 <!ENTITY certmgr.backup2.label                "Архивирај…">
 <!ENTITY certmgr.backup2.accesskey            "А">

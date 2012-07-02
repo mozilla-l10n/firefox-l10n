@@ -45,7 +45,7 @@
 <!ENTITY setPassword.meter.loading "Учитавам">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Обнови">
+<!ENTITY resetPasswordButtonLabel "Врати">
 <!ENTITY resetPassword.title  "Врати главну лозинку">
 <!ENTITY resetPassword.text  "Ако обновите главну лозинку, све сачуване лозинке за интернет и електронску пошту, садржаји формулара, лични сертификати и кључеви биће &quot;изгубљени&quot;. Да ли заиста желите обновити своју главну лозинку?">
 
@@ -59,7 +59,7 @@
 <!ENTITY pipalert.title "Грешка - немогућност постављења">
 
 <!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "безбедности">
+<!ENTITY pref.security.general.lHeader "Безбедност">
 <!ENTITY pref.security.general.rHeader "Општи параметри безбедности">
 <!ENTITY pref.security.general.header "Општи параметри безбедности">
 <!ENTITY pref.security.general.level.title "Ниво безбедности">
@@ -68,9 +68,9 @@
 <!ENTITY pref.security.general.manageCert.label "Уређење сертификата">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "Преузимање сертификата">
+<!ENTITY downloadCert.title "Пријем сертификата">
 <!ENTITY downloadCert.message1 "Упитани сте за поверење новој провери сертификата (ПС).">
-<!ENTITY downloadCert.trustSSL "Веруј овој ПС за избор страна.">
+<!ENTITY downloadCert.trustSSL "Веруј овом ауторитету о идентитету веб сајтова.">
 <!ENTITY downloadCert.trustEmail "Веруј овој ПС за избор ел. адресе корисника.">
 <!ENTITY downloadCert.trustObjSign "Веруј овој ПС за избор развоја програма.">
 <!ENTITY downloadCert.message3 "Пре указивања поверења овом ПС за било коју намену испитај његов сертификат и његове полисе и процедуре (ако постоје).">
@@ -116,7 +116,7 @@
 <!ENTITY serverCrlNextupdate.message "Обратите се за помоћ администратору система">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "Стварање затвореног кључа">
+<!ENTITY createCertInfo.title "Прављење приватног кључа">
 <!ENTITY createCertInfo.msg1 "Кључ се генерише…  Ово може да потраје неколико минута…">
 <!ENTITY createCertInfo.msg2 "Молимо да сачекате…">
 
@@ -126,10 +126,11 @@
 <!ENTITY formSigning.confirmPassword "Како би потврдили да сте сагласни да потпишете текст поруке користећи изабрани сертификат, молим потврдите уносећи главну лозинку:">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Аутентикација заштићеним новчићем">
+<!ENTITY protectedAuth.title "Аутентикација заштићеним токеном">
 <!ENTITY protectedAuth.msg "Молимо да се пријавите знаком распознавања (token).  Врста аутентикације зависи од врсте знака распознавања.">
 <!ENTITY protectedAuth.tokenName.label "Знак:">
 
 <!ENTITY certErrorDlg.title "Безбедна веза није успостављена">
 <!ENTITY certErrorDlg.info1 "Ово може да буде проблем са подешавањем сервера или може да буде неко ко жели да се представи као сервер.">
 <!ENTITY certErrorDlg.info2 "Ако сте се у прошлости успешно повезивали на овај сервер, грешка је онда можда привремена па је могуће решење да сачекате и пробате касније.">
+

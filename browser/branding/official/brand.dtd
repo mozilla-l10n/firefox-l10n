@@ -1,4 +1,5 @@
-<!ENTITY  brandShortName        "фајерфокс (Firefox)">
-<!ENTITY  brandFullName         "Мозилин фајерфокс (Mozilla Firefox)">
-<!ENTITY  vendorShortName       "Мозила (Mozilla)">
-<!ENTITY  trademarkInfo.part1   "Фајерфокс и његови логотипи фајерфокса су робне марке задужбине Мозила.">
+<!ENTITY  brandShortName        "Фајерфокс">
+<!ENTITY  brandFullName         "Мозила фајерфокс">
+<!ENTITY  vendorShortName       "Мозила">
+<!ENTITY  trademarkInfo.part1   "Фајерфокс и његови логотипи су заштитни знакови Задужбине Мозила.">
+
