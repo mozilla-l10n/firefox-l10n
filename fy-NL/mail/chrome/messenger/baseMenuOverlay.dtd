@@ -7,14 +7,12 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Probleemoplossende ynformaasje">
 <!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Werstarte mei útskeakele tafoegings…">
+<!ENTITY helpSafeMode.label     "Werstarte mei útskeakele tafoegingen…">
 <!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY releaseCmd2.label "Utjefteopmerkingen">
 <!ENTITY releaseCmd2.accesskey "U">
 <!ENTITY whatsNewCmd.label "Wat is nij">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY featureConfiguratorCmd.label "Migraasje-assistint">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Help ynhâld">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">

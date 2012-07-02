@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Net-winske-berjochteynstellings">
-<!ENTITY trainingWarning.label "Wannear aktifearre, moat &brandShortName; earst traind wurde om net-winske berjochten te identifisearjen. Dit wurd dien troch mei de arkbalkeknop &quot;Net-winske&quot; oan te jaan oft berjochten al of net net-winske binne. Jo moatte sawol net-winske as winske berjochten identifisearje.">
+<!ENTITY trainingDescription.label "As aktivearre, moat &brandShortName; earst traind wurde yn it identifisearjen fan net winske berjochten. Dit bart troch mei de arkbalkeknop “Net winske” oan te jaan oft berjochten wol of net net winske binne. Jo moatte sawol net winske as winske berjochten identifisearje. Dêrnei sil &brandShortName; net winske berjochten automatysk markearje kinne.">
 <!ENTITY level.label "Selslearende net-winske-berjochtedeteksje foar dizze account aktifearje">
 <!ENTITY level.accesskey "a">
 
@@ -13,8 +13,12 @@
 <!ENTITY purge1.accesskey "a">
 <!ENTITY purge2.label "dagen automatysk út dizze map fuortsmite">
 
-<!ENTITY whitelist.label "Berjochten net as net-winske markearje as de ôfstjoerder foarkomt yn myn: ">
-<!ENTITY whitelist.accesskey "m">
+<!ENTITY whitelistHeader.label "Berjochten net automatysk as net winske markearje as de ôfstjoerder foarkomt yn myn: ">
+<!ENTITY whitelistHeader.accesskey "m">
 
+<!ENTITY ispHeadersWarning.label "As aktivearre, sil &brandShortName; automatysk berjochten markearre troch dizze eksterne classifier oerwaagje as net winske.">
 <!ENTITY ispHeaders.label "Net-winske-berjochtkoppen fertrouwe dy't ynsteld binne troch: ">
 <!ENTITY ispHeaders.accesskey "f">
+
+<!ENTITY junkClassification.label "Seleksje">
+<!ENTITY junkActions.label "Doel en behâld">

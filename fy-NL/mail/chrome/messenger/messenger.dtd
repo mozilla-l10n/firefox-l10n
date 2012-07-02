@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "B">
 <!ENTITY newIMAccountCmd.label "Chataccount…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Chatkontakt…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Bewarre berjocht iepenje…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bylagen">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Net beskikber">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Accounts toane…">
+<!ENTITY joinChatCmd.label "Chat bywenje…">
+<!ENTITY joinChatCmd.accesskey "e">
 <!ENTITY savedFiles.label "Bewarre bestannen">
 <!ENTITY savedFiles.accesskey "t">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "o">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Net-winske berjocht">
+<!ENTITY junkBarMessage2.label "&brandShortName; tinkt dat dit berjocht net winske is.">
 <!ENTITY junkBarButton1.label "Winske berjocht">
 <!ENTITY junkInfoButton.label "?">
 

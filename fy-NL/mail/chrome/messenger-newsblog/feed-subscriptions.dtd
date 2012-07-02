@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label		"Feed-abonneminten">
 <!ENTITY subscriptionDesc.label			"Opmerking: it fuortsmiten of feroarjen fan in feedmap hat gjin ynfloed op artikelen dy't al ynladen binne.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey	"Y">
 <!ENTITY button.exportOPML.label		"Eksportearje">
 <!ENTITY button.exportOPML.accesskey	"k">
+<!ENTITY button.exportOPML.tooltip   "Feeds eksportearje mei mapstruktuer; Ctrl+klikke of Ctrl+Enter om feeds as in list te eksportearjen">
 
 <!ENTITY cmd.close.commandKey			"w">
