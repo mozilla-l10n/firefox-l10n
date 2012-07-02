@@ -31,6 +31,7 @@
 <!ENTITY aboutSupport.jsIncrementalGC "Инкрементальный GC">
 <!ENTITY aboutSupport.a11yTitle "Поддержка доступности">
 <!ENTITY aboutSupport.a11yActivated "Активирована">
+<!ENTITY aboutSupport.a11yForceDisabled "Отключение поддержки доступности">
 <!ENTITY aboutSupport.libraryVersionsTitle "Версии библиотек">
 <!ENTITY aboutSupport.installationHistoryTitle "Журнал установки">
 <!ENTITY aboutSupport.updateHistoryTitle "Журнал обновлений">
