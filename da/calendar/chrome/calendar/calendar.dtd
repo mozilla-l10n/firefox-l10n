@@ -81,7 +81,7 @@
 <!ENTITY calendar.unifinder.tree.duedate.label "Forfalder">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klik for at sortere efter forfalder">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Færdiggjort">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "færdiggjort">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klik for at sortere efter færdiggjort">
 <!ENTITY calendar.unifinder.tree.categories.label "Kategori">
 <!ENTITY calendar.unifinder.tree.categories.tooltip      "Klik for at sortere efter kategori">
 <!ENTITY calendar.unifinder.tree.location.label "Sted">

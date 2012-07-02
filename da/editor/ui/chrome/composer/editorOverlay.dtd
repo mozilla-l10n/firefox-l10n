@@ -248,10 +248,10 @@
 
 <!ENTITY increaseIndent.label "Forøg indrykning">
 <!ENTITY increaseIndent.accesskey "i">
-<!ENTITY increaseIndent.key "]">
+<!ENTITY increaseIndent.key "ø">
 <!ENTITY decreaseIndent.label "Formindsk indrykning">
 <!ENTITY decreaseIndent.accesskey "m">
-<!ENTITY decreaseIndent.key "[">
+<!ENTITY decreaseIndent.key "æ">
 
 <!ENTITY colorsAndBackground.label "Sidens farver og baggrund…">
 <!ENTITY colorsAndBackground.accesskey "v">

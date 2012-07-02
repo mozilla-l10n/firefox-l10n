@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problem med indlæsning af side">
-<!ENTITY retry.label "Forsøg igen">
+<!ENTITY retry.label "Prøv igen">
 
 <!-- Specific error messages -->
 
@@ -132,7 +132,7 @@
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Forsøg igen om et øjeblik.</li>
+  <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.</li>
   <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.</li>
   <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg da for at &brandShortName; har tilladelse til at tilgå nettet.</li>
 </ul>

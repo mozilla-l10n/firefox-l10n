@@ -16,7 +16,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "o">
 <!ENTITY cmd.recover.label                "Gentag">
 <!ENTITY cmd.recover.accesskey            "G">
-<!ENTITY cmd.retry.label                  "Forsøg igen">
+<!ENTITY cmd.retry.label                  "Prøv igen">
 <!ENTITY cmd.retry.accesskey              "F">
 <!ENTITY cmd.removeFromList.label         "Fjern fra liste">
 <!ENTITY cmd.removeFromList.accesskey     "e">

@@ -109,6 +109,6 @@
 <!ENTITY deferStorageDesc.label "Fjern fluebenet ud for Benyt Global indbakke for at opbevare denne kontos meddelelser i sin egen mappe. Det vil desuden få kontoen til at blive vist som sin egen konto og ikke som en del af den globale indbakke.">
 <!ENTITY deferStorage.label "Benyt Global indbakke (opbevar meddelelser i Lokale mapper)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Klik på Afslut for at gemme disse indstillinger og afslutte Konto-guiden">
-<!ENTITY clickFinish.labelMac "Klik på Færdig for at gemme disse indstillinger og afslutte Konto-guiden.">
+<!ENTITY clickFinish.label "Klik på Afslut for at gemme disse indstillinger og afslutte Kontoguiden">
+<!ENTITY clickFinish.labelMac "Klik på Færdig for at gemme disse indstillinger og afslutte Kontoguiden.">
 

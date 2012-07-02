@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problem med indlæsning af side">
-<!ENTITY retry.label "Forsøg igen">
+<!ENTITY retry.label "Prøv igen">
 
 <!-- Specific error messages -->
 
@@ -90,7 +90,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren 
+  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
     fungerer.</li>
 </ul>
 ">
@@ -106,7 +106,7 @@
 <!ENTITY redirectLoop.title "Denne side viderefører ikke forespørgslen korrekt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse 
+  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse
     af cookies er blevet nægtet.</li>
 </ul>
 ">
@@ -114,7 +114,7 @@
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har Personal Security Manager 
+  <li>Undersøg om dit system har Personal Security Manager
     installeret.</li>
   <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
@@ -131,16 +131,16 @@
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Dette kan være et problem med serverens konfiguration eller det kan betyde 
+  <li>Dette kan være et problem med serverens konfiguration eller det kan betyde
     at nogen forsøger at give sig ud for at være serveren.</li>
-  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være 
+  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være
     midlertidligt og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Forsøg igen om et øjeblik.</li>
+  <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.</li>
   <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.</li>
 </ul>
 ">

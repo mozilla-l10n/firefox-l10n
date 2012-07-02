@@ -58,5 +58,5 @@
 <!ENTITY showCookies.accesskey          "V">
 
 <!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Fortæl hjemmesider, at jeg ikke vil spores">
+<!ENTITY doNotTrack.label               "Fortæl websteder, at jeg ikke vil spores">
 <!ENTITY doNotTrack.accesskey           "F">
