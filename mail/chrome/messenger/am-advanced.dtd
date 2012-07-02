@@ -3,8 +3,8 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Utgeande tsjinner (SMTP-)ynstellings">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Hoewol't jo mear as ien útgeande tsjinner (SMTP) opjaan kinne, wurdt dit allinnich oanret foar betûfte brûkers. It ynstellen fan mear SMTP-tsjinners kin flaters feroarsaakje by it ferstjoeren fan berjochten.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "By it behearen fan jo identiteiten kinne jo in tsjinner fan dizze list brûke troch it te selektearjen as de útgeande tsjinner (SMTP) of jo kinne de standerttsjinner fan dizze list brûke troch &quot;Standerttsjinner brûke&quot; te selektearjen.">
 
 <!ENTITY smtpListAdd.label "Tafoegje…">
 <!ENTITY smtpListAdd.accesskey "T">

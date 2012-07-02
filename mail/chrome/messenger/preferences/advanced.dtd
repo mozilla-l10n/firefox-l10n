@@ -67,13 +67,16 @@
 <!ENTITY showUpdates.label              	"Toan fernijingsskiednis">
 <!ENTITY showUpdates.accesskey          	"d">
 
+<!ENTITY useService.label                "In achtergrûntsjinst brûke om fernijingen te ynstallearjen">
+<!ENTITY useService.accesskey            "a">
+
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label         		"Ynstellings...">
+<!ENTITY showSettings.label         		"Ynstellingen...">
 <!ENTITY showSettings.accesskey    			"n">
 <!ENTITY proxiesConfigure.label				"Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
 <!ENTITY connectionsInfo.caption			"Ferbining">
 <!ENTITY offlineInfo.caption				"Sûnder ferbining">
-<!ENTITY offlineInfo.label					"Sûnder ferbining-ynstellings konfigurearje">
+<!ENTITY offlineInfo.label					"Sûnder ferbining-ynstellingen konfigurearje">
 <!ENTITY showOffline.label					"Sûnder ferbining...">
 <!ENTITY showOffline.accesskey				"S">
 
