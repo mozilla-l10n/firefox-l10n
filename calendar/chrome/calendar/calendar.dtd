@@ -77,7 +77,7 @@
 <!ENTITY calendar.unifinder.tree.title.label         "Naslov">
 <!ENTITY calendar.unifinder.tree.title.tooltip       "Kliknite za sortiranje prema naslovu">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; završeno">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Kliknite za sortiranje prema &#37; završenja">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Kliknite za sortiranje prema &#37; dovršenosti">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Počinje">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip   "Kliknite za sortiranje prema datumu početka">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Završava">
