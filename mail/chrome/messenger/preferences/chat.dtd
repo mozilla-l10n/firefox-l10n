@@ -9,12 +9,12 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "Skift min status til ikke til stede efter">
+<!ENTITY  reportIdleAfter.label         "Skift min status til Ikke til stede efter">
 <!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "minutter uden aktivitet">
 
 <!ENTITY  andSetStatusToAway.label      "og vis denne meddelelse:">
 <!ENTITY  andSetStatusToAway.accesskey  "m">
 
-<!ENTITY  sendTyping.label              "Vis meddelelse i samtaler, når der skrives">
+<!ENTITY  sendTyping.label              "Vis, når der skrives i samtaler">
 <!ENTITY  sendTyping.accesskey          "V">

@@ -6,7 +6,7 @@
 <!ENTITY account.password              "Adgangskode:">
 <!ENTITY account.alias                 "Alias:">
 <!ENTITY account.newMailNotification   "Giv besked ved nye mails">
-<!ENTITY account.autojoin              "Automatisk tilsluttede kanaler:">
+<!ENTITY account.autojoin              "Tilslut automatisk til disse kanaler:">
 <!ENTITY account.proxySettings.caption "Proxy-indstillinger:">
 <!ENTITY account.proxySettings.change.label     "Ændr…">
 <!ENTITY account.proxySettings.change.accessKey "Æ">

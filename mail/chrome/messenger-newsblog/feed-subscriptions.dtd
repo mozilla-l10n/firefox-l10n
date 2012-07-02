@@ -6,7 +6,7 @@
 <!ENTITY feedTitle.accesskey "T">
 
 <!ENTITY feedLocation.label "Feed URL:">
-<!ENTITY feedLocation.accesskey "F">
+<!ENTITY feedLocation.accesskey "U">
 <!ENTITY feedLocation.placeholder  "Angiv en URL til et feed">
 
 <!ENTITY feedFolder.label "Opbevar artikler i:">
