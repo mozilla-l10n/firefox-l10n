@@ -465,9 +465,6 @@ can reach it easily. -->
 <!ENTITY domFullScreenWarning.label "పూర్తి-తెర రీతిని వీడుటకు ESC వత్తండి">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 <!ENTITY getMoreDevtoolsCmd.label        "మరిన్ని సాధనాలను పొందుము">
-<!ENTITY htmlPanel.accesskey          "H">
-<!ENTITY htmlPanel.label              "HTML">
-<!ENTITY htmlPanel.tooltiptext        "HTML ప్యానల్">
 <!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspect3DViewButton.label     "3D దర్శనం">
 <!ENTITY inspectCloseButton.tooltiptext "విచారణి మూయి">
@@ -497,3 +494,5 @@ can reach it easily. -->
 <!ENTITY videoShowStats.label        "గణాంకాలు చూపు">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 <!ENTITY webDeveloperMenu.label       "వెబ్ అభివృద్దికారి">
+<!ENTITY markupButton.accesskey          "M">
+<!ENTITY markupButton.arialabel          "మార్కప్">

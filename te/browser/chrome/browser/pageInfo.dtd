@@ -125,3 +125,4 @@
 <!ENTITY  permIndexedDB              "ఆఫ్‌లైన్ నిల్వను నిర్వహించు">
 <!ENTITY  permClearStorage           "నిల్వను శుభ్రపరచు">
 <!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permPlugins           "చొప్పింతలను క్రియాశీలపరచు">
