@@ -3,7 +3,7 @@ aol-web-search
 bing
 eBay
 twitter
-wikipedia
+wikipedia-ast
 yahoo
 
 
