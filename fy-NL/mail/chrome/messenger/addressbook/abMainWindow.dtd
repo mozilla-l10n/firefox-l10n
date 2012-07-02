@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title 						"Adresboek">
 
 <!-- File Menu -->
@@ -141,8 +145,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Nij adresboekkontakt oanmeitsje">
 <!ENTITY newlistButton.tooltip                          "Nije list oanmeitsje">
 <!ENTITY editButton2.tooltip                            "Selektearre kontakt bewurkje">
-<!ENTITY newIM.tooltip                                  "In ynstant-berjocht stjoere of chatte">
 <!ENTITY newmsgButton.tooltip                           "E-mailberjocht stjoere">
+<!ENTITY newIM.tooltip                                  "In ynstant-berjocht stjoere of chatte">
 <!ENTITY deleteButton2.tooltip                          "Selektearre item fuortsmite">
 
 <!-- Dir Tree header -->
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Skermnamme">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "Chatnamme">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisaasje">
 <!ENTITY Company.accesskey                              "r">
 <!ENTITY NickName.label                                 "Bynamme">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Thús">
 <!ENTITY other.heading                                  "Oars">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefoan">
 <!ENTITY work.heading                                   "Wurk">
 <!-- Special Box Headings, for mailing lists -->

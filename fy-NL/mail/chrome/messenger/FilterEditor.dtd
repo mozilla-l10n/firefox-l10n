@@ -40,3 +40,6 @@
 <!ENTITY ignoreSubthread.label "Subpetear negearje"> 
 <!ENTITY watchThread.label "Petear folgje">
 <!ENTITY stopExecution.label "Ophâlde mei útfieren fan filter">
+
+<!ENTITY addAction.tooltip "Nije aksje tafoegje">
+<!ENTITY removeAction.tooltip "Dizze aksje fuortsmite">
