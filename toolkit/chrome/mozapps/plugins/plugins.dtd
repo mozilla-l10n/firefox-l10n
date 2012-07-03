@@ -1,16 +1,3 @@
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# amire80 <amir.aharoni@mail.huji.ac.il>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY pluginWizard.title                                  "שירות חיפוש תוספים">
 <!ENTITY pluginWizard.firstPage.title                        "ברוכים הבאים אל &pluginWizard.title;">
 
@@ -35,8 +22,8 @@
 
 <!ENTITY missingPlugin                                       "נחוץ תוסף חיצוני כדי להציג תוכן זה.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
-<!ENTITY clickToPlayPlugins                                  "נא ללחוץ כאן כדי להפעיל תוספים חיצוניים.">
+<!ENTITY tapToPlayPlugin                                     "נא לגעת כאן להפעלת תוסף חיצוני.">
+<!ENTITY clickToPlayPlugin                                   "נא ללחוץ כאן להפעלת תוסף חיצוני.">
 <!ENTITY disabledPlugin                                      "תוסף חיצוני זה אינו פעיל.">
 <!ENTITY blockedPlugin.label                                 "תוסף זה נחסם כדי להגן עליך.">
 
