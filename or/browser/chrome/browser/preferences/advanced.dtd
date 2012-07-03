@@ -46,7 +46,7 @@
 
 <!ENTITY updateTab.label                 "ଅଦ୍ୟତନ କରନ୍ତୁ">
 <!ENTITY enableSearchUpdate.label        "ଖୋଜା ଯନ୍ତ୍ର">
-<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 <!ENTITY updateHistory.label             "ଅଦ୍ୟତନ ଇତିହାସ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -82,7 +82,7 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "ସୁରକ୍ଷା ଉପକରଣଗୁଡ଼ିକ">
 <!ENTITY viewSecurityDevices.accesskey   "y">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY allowHWAccel.label              "ଉପଲବ୍ଧ ହେଲେ ହାର୍ଡୱେର ତ୍ୱରଣକୁ ବ୍ୟବହାର କରନ୍ତୁ">
 
 
