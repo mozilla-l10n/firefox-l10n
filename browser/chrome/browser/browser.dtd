@@ -624,10 +624,12 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY markupButton.arialabel          "ମୂଲ୍ୟ ବୃଦ୍ଧି">
 
 <!ENTITY markupButton.accesskey          "M">
-<!ENTITY responsiveUI.label            "ପ୍ରତିକ୍ରିୟାଶୀଳ ଧାରା">
 
-<!ENTITY responsiveUI.accesskey        "R">
-
-<!ENTITY responsiveUI.commandkey       "M">
 <!ENTITY scriptsButton.label "ସ୍କ୍ରିପ୍ଟ">
 <!ENTITY webConsoleButton.label "ୱେବ କୋନସୋଲ">
+<!ENTITY responsiveDesignTool.label   "ପ୍ରତିକ୍ରିୟାଶୀଳ ସଂରଚନା ଦୃଶ୍ୟ">
+
+<!ENTITY responsiveDesignTool.accesskey "R">
+
+<!ENTITY responsiveDesignTool.commandkey "M">
+
