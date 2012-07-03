@@ -36,6 +36,10 @@
 <!ENTITY history_older_section "Более 7 дней назад">
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
+<!ENTITY menu "Меню">
+<!ENTITY back "Назад">
+<!ENTITY stop "Стоп">
+<!ENTITY site_security "Защита сайта">
 <!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY new_tab "Новая вкладка">
 <!ENTITY num_tabs "&#037;d вкладок">
