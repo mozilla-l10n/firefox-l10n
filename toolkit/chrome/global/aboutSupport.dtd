@@ -12,25 +12,38 @@
 <!ENTITY aboutSupport.appBasicsTitle "أساسيات التطبيق">
 <!ENTITY aboutSupport.appBasicsName "الاسم">
 <!ENTITY aboutSupport.appBasicsVersion "النسخة">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "مجلد الملف الشخصي">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "مجلد الملف الشخصي">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "الملحقات المفعّلة">
 <!ENTITY aboutSupport.appBasicsBuildConfig "إعدادات البناء">
 <!ENTITY aboutSupport.appBasicsUserAgent "عميل المستخدم">
 <!ENTITY aboutSupport.appBasicsCrashIDs "بلاغات الانهيار">
 <!ENTITY aboutSupport.appBasicsMemoryUse "استخدام الذاكرة">
 
-<!ENTITY aboutSupport.show.label "افتح المجلد المحتوي">
+<!ENTITY aboutSupport.showDir.label "افتح المجلد">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "أظهِر في الباحث">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "أظهِر المجلد">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "التفضيلات المعدلة">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "التفضيلات المهمّة المُعدّلة">
 <!ENTITY aboutSupport.modifiedPrefsName "الاسم">
 <!ENTITY aboutSupport.modifiedPrefsValue "القيمة">
 
 <!ENTITY aboutSupport.graphicsTitle "الرسوميات">
+
+<!ENTITY aboutSupport.jsTitle "جافاسكربت">
+<!ENTITY aboutSupport.jsIncrementalGC "جامع القمامة التزايدي">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "إصدارات المكتبات">
 
 <!ENTITY aboutSupport.installationHistoryTitle "تأريخ التثبيت">
 <!ENTITY aboutSupport.updateHistoryTitle "تأريخ التحديث">

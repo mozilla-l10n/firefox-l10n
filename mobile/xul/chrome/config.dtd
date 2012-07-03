@@ -9,4 +9,4 @@
 
 <!ENTITY integer.label          "عدد صحيح">
 <!ENTITY string.label           "نصّ">
-<!ENTITY boolean.label          "قيمة منطقية">
+<!ENTITY boolean.label          "عدد منطقي">

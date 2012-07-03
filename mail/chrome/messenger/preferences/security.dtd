@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "ذ">
 <!ENTITY markAsReadOnSpam.label "أشِّر الرسائل السخام كمقروءة">
 <!ENTITY markAsReadOnSpam.accesskey "ء">
-<!ENTITY enableJunkLogging.label "مكِّن تسجيل مرشح السُّخام">
-<!ENTITY enableJunkLogging.accesskey "ت">
+<!ENTITY enableAdaptiveJunkLogging.label "فعل تسجيل مرشّح السّخام التكيّفي">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "ف">
 <!ENTITY openJunkLog.label "اعرض السجل">
 <!ENTITY openJunkLog.accesskey "ع">
 <!ENTITY resetTrainingData.label "صفّر بيانات التدريب">

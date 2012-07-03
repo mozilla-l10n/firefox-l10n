@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "مدير الإضافات">
+<!ENTITY aboutAddons.header2                    "إضافاتك">
+<!ENTITY aboutAddons.options                    "الخيارات">
+
+<!ENTITY addonAction.enable                     "فعّل">
+<!ENTITY addonAction.disable                    "عطّل">
+<!ENTITY addonAction.uninstall                  "أزِل">
+<!ENTITY addonAction.cancel                     "ألغِ">

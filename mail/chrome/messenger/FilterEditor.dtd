@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "مرِّر الرسالة إلى">
 <!ENTITY replyWithTemplate.label "رُد باستخدام قالب">
 <!ENTITY markMessageRead.label "أشِّر كمقروء">
+<!ENTITY markMessageUnread.label "علّم كغير مقروء">
 <!ENTITY markMessageStarred.label "أضِف نجمة">
 <!ENTITY setPriority.label "اجعل الأولويّة">
 <!ENTITY addTag.label "سِمْ الرّسالة">

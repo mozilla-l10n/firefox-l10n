@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "ر">
 <!ENTITY engine.prefs.label         "تفضيلاتي">
 <!ENTITY engine.prefs.accesskey     "ض">
+<!ENTITY engine.addons.label        "الإضافات">
+<!ENTITY engine.addons.accesskey    "ض">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "اسم الحاسوب:">

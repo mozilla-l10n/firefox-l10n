@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "ابحث">
-<!ENTITY newpref.label          "أضِف تفضيلًا جديدًا">
-<!ENTITY addpref.name           "الاسم">
-<!ENTITY addpref.value          "القيمة">
-
-<!ENTITY cancel.label           "ألغِ">
-<!ENTITY reset.label            "صفِّر">
-<!ENTITY done.label             "تمّ">
-
-<!ENTITY integer.label          "عدد صحيح">
-<!ENTITY string.label           "نصّ">
-<!ENTITY boolean.label          "قيمة منطقية">
+<!ENTITY search.placeholder2    "إعدادات البحث">
+<!ENTITY clear.altText          "امسح">
+<!ENTITY newpref.label2         "أضِف إعدادا جديدا">

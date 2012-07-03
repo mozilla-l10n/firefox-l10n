@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "حالة التراسل الفوري">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "حساب جديد">
+<!ENTITY accountManager.newAccount.accesskey "ج">
+<!ENTITY accountManager.close.label          "أغلق">
+<!ENTITY accountManager.close.accesskey      "ل">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "لم يُعدّ أي حساب بعد">
+<!ENTITY accountManager.noAccount.description "انقر على زر &accountManager.newAccount.label; وسيُرشدك &brandShortName; خلال عملية إعداد الحساب.">
+<!ENTITY account.autoSignOn.label     "لِج عند بدأ التشغيل">
+<!ENTITY account.autoSignOn.accesskey "د">
+<!ENTITY account.connect.label        "اتصل">
+<!ENTITY account.connect.accesskey    "ت">
+<!ENTITY account.disconnect.label     "اقطع">
+<!ENTITY account.disconnect.accesskey "ق">
+<!ENTITY account.edit.label           "الخصائص">
+<!ENTITY account.edit.accesskey       "خ">
+<!ENTITY account.moveup.label         "انقل لأعلى">
+<!ENTITY account.movedown.label       "انقل لأسفل">
+<!ENTITY account.cancelReconnection.label         "ألغِ إعادة الاتصال">
+<!ENTITY account.cancelReconnection.accesskey     "ل">
+<!ENTITY account.connecting           "يتّصل…">
+<!ENTITY account.disconnecting        "يقطع الاتصال…">
+<!ENTITY account.disconnected         "غير متصل">

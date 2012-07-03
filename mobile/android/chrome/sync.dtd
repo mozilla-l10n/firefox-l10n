@@ -2,7 +2,7 @@
 <!ENTITY sync.notconnected          "غير متصل">
 <!ENTITY sync.connect               "اتصل">
 <!ENTITY sync.connected             "متصل">
-<!ENTITY sync.details               "تفاصيل">
+<!ENTITY sync.details               "التفاصيل">
 <!ENTITY sync.deviceName            "هذا الجهاز">
 <!ENTITY sync.disconnect            "اقطع الاتصال">
 <!ENTITY sync.syncNow               "زامِن الآن">
@@ -10,7 +10,7 @@
 <!ENTITY sync.setup.title           "الاتصال بتزامُن">
 <!ENTITY sync.setup.pair            "للتفعيل، اختر &#x0022;اربط جهازًا&#x0022; في جهازك الآخر.">
 <!ENTITY sync.fallback              "لستُ قرب جهازي…">
-<!ENTITY sync.setup.manual          "أدخِل معلومات حسابك في تزامُن">
+<!ENTITY sync.setup.manual          "أدخِل معلومات حساب تزامُن">
 <!ENTITY sync.account               "اسم الحساب">
 <!ENTITY sync.password              "كلمة السر">
 <!ENTITY sync.recoveryKey           "مفتاح الاستعادة">
@@ -24,4 +24,4 @@
 <!ENTITY sync.pair.title            "اربط جهازًا">
 <!ENTITY sync.pair.description      "لتفعيل جهازك الجديد، اختر &#x0022;إعداد تزامُن&#x0022; في هذا الجهاز.">
 <!ENTITY sync.setup.close           "أغلِق">
-<!ENTITY sync.setup.waitingdownload "بياناتك تُحمَّل الآن في الخلفية. يمكنك إغلاق هذه النافذة متى شئت.">
+<!ENTITY sync.setup.waitingdownload "بياناتك تُنزّل الآن في الخلفية. يمكنك إغلاق هذه النافذة متى شئت.">

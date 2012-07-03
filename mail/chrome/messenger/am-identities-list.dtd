@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "ح">
 <!ENTITY identitiesListDelete.label "احذف">
 <!ENTITY identitiesListDelete.accesskey "ذ">
+<!ENTITY identitiesListClose.label "أغلق">
+<!ENTITY identitiesListClose.accesskey "غ">

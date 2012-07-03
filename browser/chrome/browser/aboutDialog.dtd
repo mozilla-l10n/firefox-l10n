@@ -1,4 +1,18 @@
 <!ENTITY aboutDialog.title          "عن &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "&brandShortName; تجريبي وقد لا يكون مستقرا.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "يُرسل تلقائيا معلومات عن الأداء والعتاد والاستخدام والتخصيصات إلى &vendorShortName; للمساعدة على تحسين &brandShortName;.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " هي ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "مجتمع عالمي">
+<!ENTITY community.exp.end          " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
 
 <!ENTITY community.start2           "تطوّر &brandShortName; ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -6,9 +20,9 @@
 <!ENTITY community.middle2          "، وهي ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "مجتمع عالمي">
-<!ENTITY community.end2             " يعمل يدًا بيد لتحسين الإنترنت. نؤمن أن الإنترنت يجب أن يكون عامًا ومفتوحًا ومتاحًا لكل الناس دون قيود.">
+<!ENTITY community.end3             " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
 
-<!ENTITY contribute.start           "هل يثير هذا اهتمامك؟ ">
+<!ENTITY contribute.start           "أتجد هذا شيّقًا؟ ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "شارِك معنا إذًا!">
 <!ENTITY contribute.end             "">
@@ -29,7 +43,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; مُحدَّث">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "عطّل مدير النظام التحديثات">
+<!ENTITY update.adminDisabled       "عطّلَ مدير النظام التحديثات">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -58,5 +72,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "أنت تتلقى التحديثات حاليًا من قناة ">
+<!ENTITY channel.description.start  "تتلقى التحديثات حاليًا من قناة ">
 <!ENTITY channel.description.end    ". ">

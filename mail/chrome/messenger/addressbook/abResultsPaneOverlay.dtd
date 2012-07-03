@@ -60,7 +60,7 @@
 <!ENTITY HomePhone.accesskey                   "ه">
 <!ENTITY WorkPhone.label                       "هاتف العمل">
 <!ENTITY WorkPhone.accesskey                   "ه">
-<!ENTITY ScreenName.label                      "اسم الشاشة ">
+<!ENTITY ScreenName.label                      "اسم الشاشة">
 <!ENTITY ScreenName.accesskey                  "ش">
 <!ENTITY sortAscending.label                   "تصاعدي">
 <!ENTITY sortAscending.accesskey               "ص">

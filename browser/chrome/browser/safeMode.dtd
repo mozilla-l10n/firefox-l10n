@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "وضع &brandShortName; الآمن">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "أُغلق &brandShortName; فجأة أثناء بدء تشغيله">
+<!ENTITY autoSafeModeDescription.label "نأسف على الإزعاج. يشتغل &brandShortName; الآن في الوضع الآمن، وهذا يعطل الإعدادات الخاصة، والسِمات والامتدادات مؤقتا.">
+
 <!ENTITY safeModeDescription.label    "يشتغل &brandShortName; الآن في الوضع الآمن، وهذا يعطل الإعدادات الخاصة، والسِمات والامتدادات مؤقتا.">
 <!ENTITY safeModeDescription2.label   "يمكنك تثبيت بعض أو كل هذه التغييرات:">
 

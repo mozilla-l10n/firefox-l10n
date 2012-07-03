@@ -11,8 +11,10 @@
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ذ">
 
-<!ENTITY spellAddToDictionary.label "أضِف في القاموس">
+<!ENTITY spellAddToDictionary.label "أضِف إلى القاموس">
 <!ENTITY spellAddToDictionary.accesskey "ف">
+<!ENTITY spellUndoAddToDictionary.label "تراجع عن الإضافة إلى القاموس">
+<!ENTITY spellUndoAddToDictionary.accesskey "ت">
 <!ENTITY spellCheckEnable.label "دقق الإملاء">
 <!ENTITY spellCheckEnable.accesskey "م">
 <!ENTITY spellNoSuggestions.label "(لا اقتراحات إملاء)">

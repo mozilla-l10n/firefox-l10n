@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "حفظ الرسائل">
 <!ENTITY securitySettings.label "إعدادات السرية">
 <!ENTITY serverSettings.label "إعدادات الخادوم">
 <!ENTITY serverType.label "نوع الخادوم:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "اطلب الاستيثاق دائمًا عند الاتصال بهذا الخادوم">
 <!ENTITY alwaysAuthenticate.accesskey "ط">
 <!ENTITY newsrcFilePath.label "ملف newsrc:">
-<!ENTITY localPath.label "مجلد محلي:">
+<!ENTITY newsrcPicker.label "اختر ملف newsrc">
 <!ENTITY abbreviate.label "اعرض أسماء مجموعات الأخبار في لوحة مجلد البريد ك‍:">
 <!ENTITY abbreviateOn.label "أسماء كاملة (على سبيل المثال، 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "أسماء مختصرة (على سبيل المثال،  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "متقدم…">
 <!ENTITY advancedButton.accesskey "م">
 <!ENTITY serverDefaultCharset.label "ترميز المحارف المبدئي:">
+<!ENTITY localPath.label "مجلد محلي:">
 <!ENTITY localFolderPicker.label "اختر دليلًا محلِّيًا">
 <!ENTITY browseFolder.label "تصفّح…">
 <!ENTITY browseFolder.accesskey "ص">
-<!ENTITY newsrcPicker.label "اختر ملف newsrc">
 <!ENTITY browseNewsrc.label "تصفّح…">
 <!ENTITY browseNewsrc.accesskey "ف">
+
+<!ENTITY accountTitle.label "إعدادات الحساب">
+<!ENTITY accountSettingsDesc.label "التالي حساب مخصوص.  لا ترتبط به أي هويّات.">

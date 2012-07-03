@@ -9,9 +9,9 @@
 <!ENTITY file.close.label               "أغلق">
 <!ENTITY file.close.accesskey           "غ">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "المظاهر">
-<!ENTITY views.accesskey                "ه">
-<!ENTITY views.tooltip                  "غيّر المظهر">
+<!ENTITY views.label                    "المنظور">
+<!ENTITY views.accesskey                "ظ">
+<!ENTITY views.tooltip                  "غيّر المنظور">
 <!ENTITY view.columns.label             "أظهر الأعمدة">
 <!ENTITY view.columns.accesskey         "ع">
 <!ENTITY view.sort.label                "رتّب">
@@ -128,7 +128,7 @@
 <!ENTITY byDate.accesskey         "ت">
 <!ENTITY bySite.label             "حسب الموقع">
 <!ENTITY bySite.accesskey         "م">
-<!ENTITY byMostVisited.label      "حسب أكثر زيارة">
+<!ENTITY byMostVisited.label      "حسب الأكثر زيارة">
 <!ENTITY byMostVisited.accesskey  "ح">
 <!ENTITY byLastVisited.label      "حسب آخر زيارة">
 <!ENTITY byLastVisited.accesskey  "س">

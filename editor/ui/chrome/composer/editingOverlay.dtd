@@ -41,8 +41,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- File menu items -->
+
 <!ENTITY openFileCmd.label "افتح ملفًا…">
 <!ENTITY openFileCmd.accesskey "ف">
 <!ENTITY openFileCmd.key "O">
@@ -62,9 +62,17 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "انشر ك‍…">
 <!ENTITY publishAsCmd.accesskey "ن">
-<!ENTITY fileRevert.label "اعكس">
+<!ENTITY fileRevert.label "استرجع">
 <!ENTITY fileRevert.accesskey "س">
-
 <!-- Edit menu items -->
+
 <!ENTITY publishSettings.label "إعدادات موقع النشر…">
 <!ENTITY publishSettings.accesskey "ع">
+<!-- Toolbar buttons/items -->
+
+<!ENTITY newToolbarCmd.label "جديد">
+<!ENTITY newToolbarCmd.tooltip "أنشئ صفحة محرر جديدة">
+<!ENTITY openToolbarCmd.label "افتح">
+<!ENTITY openToolbarCmd.tooltip "افتح ملفًا محليًا">
+<!ENTITY saveToolbarCmd.tooltip "احفظ الملف محليًا">
+<!ENTITY publishToolbarCmd.tooltip "ارفع الملف إلى موضع بعيد">

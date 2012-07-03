@@ -56,18 +56,18 @@
 <!ENTITY  generalSize           "الحجم:">
 <!ENTITY  generalReferrer       "العنوان المُحِيل:">
 <!ENTITY  generalSource         "مصدر الذّاكرة المؤقّتة:">
-<!ENTITY  generalModified       "عُدّل:">
+<!ENTITY  generalModified       "آخر تعديل:">
 <!ENTITY  generalEncoding       "الترميز:">
 <!ENTITY  generalMetaName       "الاسم">
 <!ENTITY  generalMetaContent    "المحتوى">
 <!ENTITY  generalSecurityDetails   "التفاصيل">
 <!ENTITY  generalSecurityDetails.accesskey "ص">
 
-<!ENTITY  mediaTab              "وسائط">
+<!ENTITY  mediaTab              "الوسائط">
 <!ENTITY  mediaTab.accesskey    "و">
 <!ENTITY  mediaLocation         "المكان:">
 <!ENTITY  mediaText             "النص المرتبط:">
-<!ENTITY  mediaAltHeader        "نصّ بديل">
+<!ENTITY  mediaAltHeader        "النصّ البديل">
 <!ENTITY  mediaAddress          "العنوان">
 <!ENTITY  mediaType             "النوع">
 <!ENTITY  mediaSize             "الحجم">
@@ -80,14 +80,14 @@
 <!ENTITY  mediaSaveAs2.accesskey "ك">
 <!ENTITY  mediaPreview          "معاينة الوسائط:">
 
-<!ENTITY  feedTab               "تلقيمات">
+<!ENTITY  feedTab               "التلقيمات">
 <!ENTITY  feedTab.accesskey     "ت">
 <!ENTITY  feedSubscribe         "اشترِك">
 <!ENTITY  feedSubscribe.accesskey "ش">
 
 <!ENTITY  permTab               "التّصاريح">
 <!ENTITY  permTab.accesskey     "ص">
-<!ENTITY  permUseDefault        "استخدم الافتراضي">
+<!ENTITY  permUseDefault        "استخدم المبدئي">
 <!ENTITY  permAskAlways         "اسأل دائمًا">
 <!ENTITY  permAllow             "اسمح">
 <!ENTITY  permAllowSession      "اسمح للجلسة">
@@ -97,9 +97,10 @@
 <!ENTITY  permPopup             "فتح نوافذ منبثقة">
 <!ENTITY  permCookie            "ضبط الكعكات">
 <!ENTITY  permInstall           "تثبيت امتدادات وسمات">
-<!ENTITY  permGeo               "تشارَك المكان">
+<!ENTITY  permGeo               "نشر المكان">
+<!ENTITY  permPlugins           "تفعيل الملحقات">
 
-<!ENTITY  permIndexedDB              "اسمح بالتخزين بلا اتصال">
+<!ENTITY  permIndexedDB              "السماح بالتخزين بلا اتصال">
 <!ENTITY  permClearStorage           "امسح المخزون">
 <!ENTITY  permClearStorage.accesskey "ح">
 

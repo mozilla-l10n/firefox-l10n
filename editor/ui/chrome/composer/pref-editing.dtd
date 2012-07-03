@@ -15,7 +15,7 @@
 <!ENTITY linkText.accesskey         "ص">
 <!ENTITY activeLinkText.label       "نص الوصلة النشطة">
 <!ENTITY activeLinkText.accesskey   "ط">
-<!ENTITY visitedLinkText.label      "نص الوصلة المَزُورة">
+<!ENTITY visitedLinkText.label      "نص الوصلة المُزارة">
 <!ENTITY visitedLinkText.accesskey  "ز">
 <!ENTITY background.label           "خلفية:">
 <!ENTITY background.accesskey       "ة">

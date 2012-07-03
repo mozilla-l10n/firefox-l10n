@@ -39,7 +39,7 @@
 <!ENTITY insertSmiley.label "مبتسم">
 <!ENTITY insertSmiley.accesskey "م">
 
-<!ENTITY smiley1Cmd.label "ابتسامة ">
+<!ENTITY smiley1Cmd.label "ابتسامة">
 <!ENTITY smiley1Cmd.accesskey "ب">
 <!ENTITY smiley1Cmd.tooltip "أدرج وجها مبتسما">
 <!ENTITY smiley2Cmd.label "متجهم">

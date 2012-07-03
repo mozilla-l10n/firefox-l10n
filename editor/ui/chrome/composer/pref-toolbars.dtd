@@ -66,6 +66,6 @@
 <!ENTITY indent.label           "إزاحة إلى الداخل">
 <!ENTITY underline.label        "مُسطَّر">
 
-<!ENTITY absolutePosition.label "الموقع المُطْلق">
+<!ENTITY absolutePosition.label "تموضع مُطْلق">
 <!ENTITY decreaseZIndex.label   "أرسِل إلى الخلف">
 <!ENTITY increaseZIndex.label   "اجلب إلى الأمام">

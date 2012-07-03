@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "يحتاج &brandShortName; إلى إعادة التشغيل لتعمل الملحق(ات).">
 
 <!ENTITY missingPlugin                                       "تحتاج تثبيت ملحق لمشاهدة هذا المحتوى.">
-<!ENTITY clickToPlayPlugin                                   "اضغط هنا لتفعيل الملحق.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "اضغط هنا لتفعيل الملحق.">
+<!ENTITY clickToPlayPlugins                                  "اضغط هنا لتفعيل الملحقات.">
 <!ENTITY disabledPlugin                                      "هذا الملحق معطل.">
 <!ENTITY blockedPlugin.label                                 "لقد مُنع هذا الملحق من أجل حمايتك.">
 
@@ -34,8 +36,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "أعِد تحميل الصفحة">
 <!ENTITY reloadPlugin.post                                   " للمحاولة من جديد.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…وأرسِل بلاغ الانهيار">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "أرسِل بلاغ انهيار">
 <!ENTITY report.submitting                                   "يرسل البلاغ…">
 <!ENTITY report.submitted                                    "أُرسل البلاغ.">
 <!ENTITY report.disabled                                     "التبليغ بالانهيار معطل.">

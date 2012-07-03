@@ -1,4 +1,4 @@
-<!ENTITY aboutHome.header                       "<span id='header-suffix'>بداية </span><span>&brandShortName; </span>">
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>بداية </span><span>&brandShortName;</span>">
 <!ENTITY aboutHome.recentTabs                   "ألسنتك من المرة السابقة">
 <!ENTITY aboutHome.remoteTabs                   "ألسنة من الأجهزة الأخرى">
 <!ENTITY aboutHome.recommendedAddons2           "إضافات ل‍ &brandShortName;">

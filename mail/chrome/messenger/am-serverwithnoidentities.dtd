@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "إعدادات الحساب">
-<!ENTITY accountSettingsDesc.label "التالي حساب مخصوص. لا توجد أيَّة هويّات مرتبطة به.">
 <!ENTITY accountName.label "اسم الحساب:">
 <!ENTITY accountName.accesskey "س">
-<!ENTITY messageStorage.label "تخزين الرسائل">
-<!ENTITY emptyTrashOnExit.label "أفرغ المهملات عند الخروج">
-<!ENTITY emptyTrashOnExit.accesskey "خ">
-<!ENTITY localPath.label "مجلد محلي:">
-<!ENTITY localFolderPicker.label "اختر دليلًا محليًا">
-<!ENTITY browseFolder.label "تصفّح…">
-<!ENTITY browseFolder.accesskey "ت">

@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "المسار:">
 <!ENTITY     props.secure.label             "أرسِل ل‍:">
 <!ENTITY     props.expires.label            "انتهاء الصلاحية:">
-<!ENTITY     props.policy.label             "السياسة:"> 
 
 <!ENTITY     button.allow.label             "اسمح">
 <!ENTITY     button.allow.accesskey         "س">
