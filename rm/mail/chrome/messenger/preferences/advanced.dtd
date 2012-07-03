@@ -68,6 +68,9 @@
 <!ENTITY showUpdates.label              "Mussar la cronologia da las actualisaziuns">
 <!ENTITY showUpdates.accesskey          "S">
 
+<!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza interrupziun">
+<!ENTITY useService.accesskey            "r">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Preferenzas…">
 <!ENTITY showSettings.accesskey        "P">

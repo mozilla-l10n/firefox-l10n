@@ -57,3 +57,7 @@
 <!ENTITY showCookies.label              "Mussar ils cookies...">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Supplitgar websites da betg suandar mes fastizs">
+<!ENTITY doNotTrack.accesskey           "d">
+    

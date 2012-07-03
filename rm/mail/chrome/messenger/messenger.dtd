@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Conto da chat…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Contact da chat…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Avrir ina datoteca…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Agiuntas">
@@ -483,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Occupà">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Mussar ils contos…">
+<!ENTITY joinChatCmd.label "Acceder il chat…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Datotecas memorisadas">
 <!ENTITY savedFiles.accesskey "m">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Quest messadi è vegnì classifitgà sco nungiavischà.">
+<!ENTITY junkBarMessage2.label "&brandShortName; ha classifitgà quest messadi sco nungiavischà.">
 <!ENTITY junkBarButton1.label "Betg nungiavischà">
 <!ENTITY junkInfoButton.label "?">
 

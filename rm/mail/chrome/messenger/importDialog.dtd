@@ -49,6 +49,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "I">
 <!ENTITY importMail.label         "E-mail">
 <!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.label        "Abunaments da feeds">
+<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Cudeschets d'adressas">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Preferenzas">
@@ -62,11 +64,14 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Assistent d'importaziun da &brandShortName;">
 <!ENTITY importShortDesc.label    "Importar messadis, cudeschets d'adressas, configuraziuns e filters dad auters programs">
 
-<!ENTITY importDescription1.label "Quest assistent importescha messadis, endataziuns da cudeschets d'adressas, configuraziuns e/u filters dad autras applicaziuns dad e-mail e formats frequents da cudeschets d'adressas en &brandShortName;.">
+<!ENTITY importDescription1.label "Quest assistent importescha messadis, endataziuns da cudeschets d'adressas, abunaments da feeds, configuraziuns e/u filters dad autras applicaziuns dad e-mail e formats frequents da cudeschets d'adressas en &brandShortName;.">
 <!ENTITY importDescription2.label "Silsuenter pos ti lavurar cun las datas importadas en &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Tscherna per plaschair il tip da datoteca dal qual i duai vegnir importà:">
+<!ENTITY selectDescriptionB.label "Tscherna in conto existent u creescha in nov conto:">
 <!ENTITY selectDescription.accesskey "P">
+<!ENTITY acctName.label           "Num:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Enavos">
 <!ENTITY forward.label            "Enavant &gt;">
