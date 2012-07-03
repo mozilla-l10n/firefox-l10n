@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "مرحبًا بك. إذا لم تكن قد استخدمت &syncBrand.fullName.label; من قبل فستحتاج إلى إنشاء حساب جديد.">
+<!ENTITY setup.pickSetupType.description2 "مرحبًا بك. إذا لم تكن قد استخدمت &syncBrand.fullName.label; من قبل، ستحتاج إلى إنشاء حساب جديد.">
 <!ENTITY button.createNewAccount.label "أنشئ حسابًا جديدًا">
 <!ENTITY button.haveAccount.label      "لديّ حساب">
 
@@ -12,7 +12,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "الخادوم">
-<!ENTITY serverType.main.label      "خادوم &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "المبدئي: خادوم &syncBrand.fullName.label; موزيلا">
 <!ENTITY serverType.custom2.label   "استخدم خادومًا مخصصًا…">
 <!ENTITY signIn.account2.label      "الحساب">
 <!ENTITY signIn.account2.accesskey  "س">
@@ -54,7 +54,7 @@
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
 <!ENTITY pairDevice.title.label             "اربط جهازًا">
-<!ENTITY addDevice.showMeHow.label          "علّمني كيف أفعل ذلك">
+<!ENTITY addDevice.showMeHow.label          "أرني كيف.">
 <!ENTITY addDevice.dontHaveDevice.label     "الجهاز ليس معي الآن">
 <!ENTITY pairDevice.setup.description.label  "للتفعيل، اختر &#x0022;اربط جهازًا&#x0022; في جهازك الآخر.">
 <!ENTITY addDevice.setup.enterCode.label    "ثم أدخِل هذا الرمز:">
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "ر">
 <!ENTITY engine.prefs.label         "تفضيلاتي">
 <!ENTITY engine.prefs.accesskey     "ض">
+<!ENTITY engine.addons.label        "الإضافات">
+<!ENTITY engine.addons.accesskey    "ض">
 
 <!ENTITY choice2.merge.main.label      "ادمج بيانات هذا الحاسوب ببياناتي في &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "مُزكّى:">

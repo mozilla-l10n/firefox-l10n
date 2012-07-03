@@ -1,5 +1,5 @@
-<!ENTITY junkSettings.label "إعدادت السُّخام">
-<!ENTITY trainingWarning.label 'إذا فعِّلت هذا فينبغي عليك تدريب &brandShortName; ليتعرّف على السخام مستخدما زر شريط الأدوات "سخام" لتأشر الرسائل كسخام أو لا. يجب عليك التعرف على ما هو سخام و ما هو غير ذلك. '>
+<!ENTITY junkSettings.label "إعدادات السُّخام">
+<!ENTITY trainingWarning.label "عند تفعيله سيتعيّن عليك أولا تدريب &brandShortName; ليتعرّف على بريد السّخام باستخدام زر سخام في شريط الأدوات لتحديد البريد السّخام من عدمه. سيكون عليك تحديد السّخام وغير السّخام.">
 <!ENTITY level.label "فعّل التحكم التكيفي في السُّخام لهذا الحساب">
 <!ENTITY level.accesskey "ف">
 
@@ -13,8 +13,8 @@
 <!ENTITY purge1.accesskey "ل">
 <!ENTITY purge2.label "أيام">
 
-<!ENTITY whitelist.label "لا تعلِّم البريد كسخام إذا كان المرسِل في:">
-<!ENTITY whitelist.accesskey "ل">
+<!ENTITY whitelist.label "لا تعتبر البريد سخامًا إذا كان المرسل ضمن:">
+<!ENTITY whitelist.accesskey "ض">
 
 <!ENTITY ispHeaders.label "ثق في ترويسات السخام الموضوعة بواسطة:">
 <!ENTITY ispHeaders.accesskey "ث">

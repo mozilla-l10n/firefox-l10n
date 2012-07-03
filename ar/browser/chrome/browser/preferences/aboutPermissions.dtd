@@ -27,6 +27,8 @@
 <!ENTITY cookie.removeAll                "أزِل كل الكعكات">
 
 <!ENTITY geo.label                       "تشارَك الموقع">
+
+<!ENTITY plugins.label                   "الملحقات">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 

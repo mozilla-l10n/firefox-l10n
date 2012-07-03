@@ -79,7 +79,7 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "مجهول">
 <!ENTITY ScreenName.label               "اسم الشاشة:">
-<!ENTITY ScreenName.accesskey           "س">
+<!ENTITY ScreenName.accesskey           "ش">
 
 <!ENTITY allowRemoteContent1.label      "اسمح بالمحتوى البعيد.">
 <!ENTITY allowRemoteContent1.accesskey  "ع">

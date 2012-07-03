@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label    "المتراسلين عبر الإنترنت">
+<!ENTITY offlineContactsHeader.label   "المتراسلين خارج الإنترنت">
+<!ENTITY conversationsHeader.label     "المحادثات">
+<!ENTITY searchResultConversation.label "نتائج البحث">
+<!ENTITY chat.noConv.title             "ستُعرض المحادثات هنا.">
+<!ENTITY chat.noConv.description       "استخدم قائمة المتراسلين من اللوح الأيمن لبدء محادثة.">
+<!ENTITY chat.noPreviousConv.description       "لا توجد حاليا أي محادثات سابقة في &brandShortName; لهذا المتراسل.">
+<!ENTITY chat.noAccount.title             "لم تُعِدّ حساب دردشة بعد.">
+<!ENTITY chat.noAccount.description       "سيرشدك &brandShortName; عبر عملية إعداد حساب دردشة.">
+<!ENTITY chat.accountWizard.button       "لنبدأ">
+<!ENTITY chat.noConnectedAccount.title             "حساباتك للدردشة ليست متصلة.">
+<!ENTITY chat.noConnectedAccount.description       "يمكنك توصيلهم من مربع 'حالة الدردشة' الحواري:">
+<!ENTITY chat.showAccountManager.button       "اعرض حالة الدردشة">
+
+<!ENTITY chat.participants             "المشاركون:">
+<!ENTITY chat.previousConversations    "المحادثات السابقة:">
+<!ENTITY chat.ongoingConversation      "محادثة جارية">
+
+<!ENTITY openConversationCmd.label     "ابدأ محادثة">
+<!ENTITY openConversationCmd.accesskey "ح">
+<!ENTITY closeConversationCmd.label    "أغلق المحادثة">
+<!ENTITY closeConversationCmd.accesskey "غ">
+<!ENTITY aliasCmd.label                "غير الاسم">
+<!ENTITY aliasCmd.accesskey            "س">
+<!ENTITY deleteCmd.label               "أزِل المُتراسل">
+<!ENTITY deleteCmd.accesskey           "ل">
+
+<!ENTITY openConversationButton.tooltip  "ابدأ محادثة">
+<!ENTITY closeConversationButton.tooltip "أغلق المحادثة">
+
+<!ENTITY addBuddyButton.label          "أضف متراسلا">
+<!ENTITY joinChatButton.label          "انضم للدردشة">
+<!ENTITY chatAccountsButton.label      "اعرض الحسابات">
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+
+<!ENTITY searchAllChatMessages.label.base "ابحث في كل المحادثات… #1">
+
+<!ENTITY status.available          "متفرّغ">
+<!ENTITY status.unavailable        "غير متفرّغ">
+<!ENTITY status.offline            "غير متصل">
+
+<!ENTITY openLinkCmd.label            "افتح الوصلة…">
+<!ENTITY openLinkCmd.accesskey        "و">

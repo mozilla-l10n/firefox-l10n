@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "مرصّفة">
 <!ENTITY center.label               "المركز">
 <!ENTITY stretch.label              "ممدّدة">
+<!ENTITY fill.label                 "ملء">
+<!ENTITY fit.label                  "ملائمة">
 <!ENTITY preview.label              "معاينة">
 <!ENTITY color.label                "اللّون:">
 <!ENTITY setDesktopBackground.title "اجعلها خلفيّة سطح المكتب">

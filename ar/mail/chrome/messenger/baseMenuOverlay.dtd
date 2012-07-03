@@ -14,7 +14,7 @@
 <!ENTITY whatsNewCmd.label "ما الجديد">
 <!ENTITY whatsNewCmd.accesskey "د">
 <!ENTITY featureConfiguratorCmd.label "مساعد الانتقال">
-<!ENTITY featureConfiguratorCmd.accesskey "م">
+<!ENTITY featureConfiguratorCmd.accesskey "ت">
 <!ENTITY openHelp.label "محتويات المساعدة">
 <!ENTITY openHelp.accesskey "ح">
 <!ENTITY openHelp.commandkey "VK_F1">

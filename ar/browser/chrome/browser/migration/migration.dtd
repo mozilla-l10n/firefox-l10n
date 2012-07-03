@@ -5,18 +5,16 @@
 <!ENTITY importFromUnix.label           "استورد التّفضيلات، العلامات، التّاريخ، كلمات السرّ و بيانات أخرى من:">
 <!ENTITY importFromBookmarks.label      "استورد العلامات من:">
 
-<!ENTITY importFromIE.label             "مايكروسوفت إنترنت إكسبلورر">
+<!ENTITY importFromIE.label             "ميكروسوفت إنترنت إكسبلورر">
 <!ENTITY importFromIE.accesskey         "م">
 <!ENTITY importFromNothing.label        "لا تستورد أي شيء">
-<!ENTITY importFromNothing.accesskey    "ل">
-<!ENTITY importFromSeamonkey.label      "نتسكيب 6,7 أو موزيلا 1.*">
-<!ENTITY importFromSeamonkey.accesskey  "ن">
-<!ENTITY importFromOpera.label          "أوبرا">
-<!ENTITY importFromOpera.accesskey      "ر">
+<!ENTITY importFromNothing.accesskey    "ت">
 <!ENTITY importFromSafari.label         "سافاري">
 <!ENTITY importFromSafari.accesskey     "س">
-<!ENTITY importFromHTMLFile.label       "من ملف HTML">
-<!ENTITY importFromHTMLFile.accesskey   "م">
+<!ENTITY importFromChrome.label         "كروم">
+<!ENTITY importFromChrome.accesskey     "ك">
+<!ENTITY importFromFirefox.label        "فيَرفُكس">
+<!ENTITY importFromFirefox.accesskey    "ف">
 
 <!ENTITY noMigrationSources.label       "لم يُعثر على أي برامج تحتوي على بيانات أو علامات أو تأريخ أو كلمات سرّ.">
 

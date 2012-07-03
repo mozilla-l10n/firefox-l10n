@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "عام">
 <!ENTITY paneDisplay.title        "العرض">
 <!ENTITY paneComposition.title    "التحرير">
+<!ENTITY paneChat.title           "الدردشة">
 <!ENTITY paneAttachments.title    "المرفقات">
 <!ENTITY paneSecurity.title       "الأمان">
 <!ENTITY paneAdvanced.title       "متقدم">

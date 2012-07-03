@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "ع">
 <!ENTITY chooseFolderMac.label        "اختر…">
 <!ENTITY chooseFolderMac.accesskey    "خ">
+
+<!ENTITY attachments.incoming.label   "الوارد">
+<!ENTITY attachments.outgoing.label   "الصادر">
+
+<!ENTITY addCloudFileAccount.label        "أضف">
+<!ENTITY addCloudFileAccount.accesskey    "ض">
+<!ENTITY addCloudFileAccount.description  "أضِف خدمة تخزين ملفات على الإنترنت جديدة">
+<!ENTITY removeCloudFileAccount.label     "أزِل">
+<!ENTITY removeCloudFileAccount.accesskey "ل">
+<!ENTITY authRequired.description         "التخويل مطلوب للاطلاع على إعدادات خدمة التخزين هذه.">
+<!ENTITY authRequired.button.label        "خوِّل">
+<!ENTITY authRequired.button.accesskey    "خ">
+
+<!ENTITY enableCloudFileAccountOffer.label "اقترح مشاركة الملفات الأكبر من">
+<!ENTITY enableCloudFileAccountOffer.mb "م.ب">

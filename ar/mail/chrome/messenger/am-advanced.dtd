@@ -4,7 +4,7 @@
 <!ENTITY smtpServer.label "إعدادات خادوم الصّادر (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDesc.label "مع أنّه بإمكانك تحديد أكثر من خادوم صادر (SMTP) ، إلا أنّ ذلك يفضّل فقط للمستخدمين الخبراء. يمكن أن يسبب إعداد أكثر من خادوم SMTP أخطاء عند إرسال الرّسائل.">
+<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
 
 <!ENTITY smtpListAdd.label  "أضِف…">
 <!ENTITY smtpListAdd.accesskey  "ض">
@@ -15,9 +15,9 @@
 <!ENTITY smtpListSetDefault.label "اجعله المبْدئي">
 <!ENTITY smtpListSetDefault.accesskey "ب">
 
-<!ENTITY serverDescription.label "الوصف:">
-<!ENTITY serverName.label "اسم الخادوم:">
-<!ENTITY serverPort.label "المَنفذ:">
-<!ENTITY userName.label   "اسم المستخدم:">
-<!ENTITY connectionSecurity.label "أمن الاتصال:">
+<!ENTITY serverDescription.label "الوصف: ">
+<!ENTITY serverName.label "اسم الخادوم: ">
+<!ENTITY serverPort.label "المَنفذ: ">
+<!ENTITY userName.label   "اسم المستخدم: ">
+<!ENTITY connectionSecurity.label "أمن الاتصال: ">
 <!ENTITY authMethod.label   "طريقة الاستيثاق: ">

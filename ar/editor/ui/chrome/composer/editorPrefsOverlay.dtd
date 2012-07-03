@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 
 <!ENTITY editorCheck.label "Composer">
-<!ENTITY editorCheck.accesskey "c">
+<!ENTITY editorCheck.accesskey "ش">
 
 <!ENTITY compose.label "منشئ الرسائل">
 <!ENTITY editing.label "إعدادات الصفحة الجديدة">

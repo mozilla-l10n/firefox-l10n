@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "خريطة الصورة">
 <!ENTITY removeImageMapButton.label "احذف">
 <!ENTITY removeImageMapButton.accessKey "ح">
-<!ENTITY editImageMapButton.label "حرر…">
-<!ENTITY editImageMapButton.tooltip "أنشئ بقعًا ساخنة قابلة للنقر في هذه الصورة">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "حاذِ النص إلى الصورة">

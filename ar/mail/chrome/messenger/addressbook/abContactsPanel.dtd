@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "الاسم أو البريد الإلكتروني">
 
 <!ENTITY deleteAddrBookCard.label           "احذف">
-<!ENTITY addrBookCardProperties.label       "خصائص">
+<!ENTITY deleteAddrBookCard.accesskey       "ذ">
+<!ENTITY addrBookCardProperties.label       "الخصائص">
+<!ENTITY addrBookCardProperties.accesskey   "خ">
 <!ENTITY addtoToFieldMenu.label             "أضِف إلى الحقل">
+<!ENTITY addtoToFieldMenu.accesskey         "ح">
 <!ENTITY addtoCcFieldMenu.label             "أضِف إلى حقل نسخة كربونية">
+<!ENTITY addtoCcFieldMenu.accesskey         "ك">
 <!ENTITY addtoBccFieldMenu.label            "أضِف إلى حقل نسخة كربونية مخفية">
+<!ENTITY addtoBccFieldMenu.accesskey        "خ">
 
 <!ENTITY toButton.label                     "أضِف إلى:">
 <!ENTITY toButton.accesskey                 "ض">

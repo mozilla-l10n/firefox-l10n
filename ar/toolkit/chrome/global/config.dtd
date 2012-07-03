@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "سأكون حذرا، أعدك!">
 <!ENTITY aboutWarningCheckbox.label "أظهر هذا التحذير في المرّة القادمة">
 
-<!ENTITY filterPrefs.label "رشِّح:">
-<!ENTITY filterPrefs.accesskey "ر">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "ابحث:">
+<!ENTITY searchPrefs.accesskey "ح">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "اسم التّفضيل">

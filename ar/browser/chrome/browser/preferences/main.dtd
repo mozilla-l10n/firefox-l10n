@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "اعرض صفحتي الرئيسية">
 <!ENTITY startupBlankPage.label    "اعرض صفحة فارغة">
 <!ENTITY startupLastSession.label  "اعرض نوافذي و ألسنتي من المرّة السابقة">
-<!ENTITY restoreOnDemand.label     "لا تحمّل الألسنة إلا حينما يُنقر عليها">
-<!ENTITY restoreOnDemand.accesskey "ح">
+<!ENTITY restoreOnDemand.label     "لا تحمّل الألسنة إلا بعد اختيارها">
+<!ENTITY restoreOnDemand.accesskey "س">
 
 <!ENTITY homepage.label            "الصفحة الرئيسية:">
 <!ENTITY homepage.accesskey        "ئ">
