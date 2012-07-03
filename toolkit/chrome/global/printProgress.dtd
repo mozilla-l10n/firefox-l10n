@@ -5,7 +5,7 @@
 <!ENTITY preparing "Припрема…">
 <!ENTITY printComplete "Одштампано.">
 
-<!ENTITY dialogCancel.label "Одустани"> 
+<!ENTITY dialogCancel.label "Откажи"> 
 <!ENTITY dialogClose.label "Затвори">
 
 <!-- LOCALIZATION NOTE (percentPrint):
@@ -15,3 +15,4 @@
 
     #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentPrint "#1&#037;">
+

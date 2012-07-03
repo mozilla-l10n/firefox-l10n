@@ -6,17 +6,18 @@
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Обнављања">
-<!ENTITY resetPass.label              "Поништи">
+<!ENTITY updatePass.label             "Уреди">
+<!ENTITY resetPass.label              "Врати">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Управљање налогом">
 <!ENTITY manageAccount.accesskey      "У">
-<!ENTITY viewQuota.label              "Види ограничење">
-<!ENTITY changePassword.label         "Промена лозинке">
-<!ENTITY mySyncKey.label              "Мој кључ за усклађивање">
-<!ENTITY resetSync.label              "Поништи усклађивање">
-<!ENTITY addDevice.label              "Додај уређај">
+<!ENTITY viewQuota.label              "Преглед квота">
+<!ENTITY changePassword2.label        "Промена лозинке…">
+<!ENTITY myRecoveryKey.label          "Мој кључ за опоравак">
+<!ENTITY resetSync2.label             "Ресетуј синхронизацију…">
+
+<!ENTITY pairDevice.label             "Упари уређај">
 
 <!ENTITY syncMy.label               "Синхронизуј">
 <!ENTITY engine.bookmarks.label     "Забелешке">
@@ -32,9 +33,10 @@
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Назив рачунара:">
-<!ENTITY syncComputerName.accesskey   "р">
-<!ENTITY deactivateDevice.label       "Деактивирај овај уређај">
+<!ENTITY syncComputerName.accesskey   "н">
+<!ENTITY unlinkDevice.label           "Уклони овај уређај">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Услови коришћења услуге">
-<!ENTITY prefs.ppLink.label         "Политика приватности">
+<!ENTITY prefs.ppLink.label         "Полиса о приватности">
+

@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Прикажи моју страну">
 <!ENTITY startupBlankPage.label    "Прикажи празну страну">
 <!ENTITY startupLastSession.label  "Прикажи прозоре од прошлог пута">
+<!ENTITY restoreOnDemand.label     "Не учитавај језичке док нису изабрани">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Моја страна:">
 <!ENTITY homepage.accesskey        "М">
 <!ENTITY useCurrentPage.label      "Користи тренутну страну">

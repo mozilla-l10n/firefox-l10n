@@ -1,8 +1,8 @@
 <!-- extracted from printdialog.xul -->
 
-<!ENTITY printButton.label "Штампај">
+<!ENTITY printButton.label "Штампање">
 
-<!ENTITY printDialog.title "Штампај">
+<!ENTITY printDialog.title "Штампање">
 
 <!ENTITY fpDialog.title "Сними датотеку">
 
@@ -16,9 +16,9 @@
 <!ENTITY printerInput.accesskey "И">
 
 <!ENTITY printrangeGroup.label "Опсег штампе">
-<!ENTITY allpagesRadio.label "Све стране">
+<!ENTITY allpagesRadio.label "Све странице">
 <!ENTITY allpagesRadio.accesskey "С">
-<!ENTITY rangeRadio.label  "Стране">
+<!ENTITY rangeRadio.label  "Странице">
 <!ENTITY rangeRadio.accesskey  "С">
 <!ENTITY frompageInput.label  "од">
 <!ENTITY frompageInput.accesskey  "о">

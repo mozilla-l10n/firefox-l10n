@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Управљач додацима">
+
 <!ENTITY search.placeholder                   "Претражи све додатке">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Учитавање…">
 <!ENTITY listEmpty.installed.label            "Нисте инсталирали ни један додатак ове врсте">
 <!ENTITY listEmpty.availableUpdates.label     "Нема доградњи">
