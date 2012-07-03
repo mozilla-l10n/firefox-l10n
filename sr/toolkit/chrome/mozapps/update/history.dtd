@@ -1,12 +1,13 @@
 
 <!ENTITY  history.title             "Историјат унапређења">
-<!ENTITY  history.intro             "Следећа унапређења су постављена:">
+<!ENTITY  history.intro             "Следеће доградње су инсталиране:">
 <!ENTITY  closebutton.label         "Затвори">
                                      
-<!ENTITY  noupdates.label           "Ни једно унапређење још није постављено">
+<!ENTITY  noupdates.label           "Још није инсталирана ниједна доградња">
 
-<!ENTITY  name.header               "Име унапређења">
-<!ENTITY  date.header               "Датум постављања">
+<!ENTITY  name.header               "Име доградње">
+<!ENTITY  date.header               "Датум инсталирања">
 <!ENTITY  type.header               "Тип">
 <!ENTITY  state.header              "Држава">
+
 

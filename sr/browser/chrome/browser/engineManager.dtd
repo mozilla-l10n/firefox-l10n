@@ -1,17 +1,17 @@
 <!ENTITY  engineManager.title       "Управљање списком претраживача">
 <!ENTITY  engineManager.style       "min-width: 36em;">
-<!ENTITY  engineManager.intro       "Наредни претраживачи су постављени:">
+<!ENTITY  engineManager.intro       "Постављени су следећи претраживачи:">
 
 <!ENTITY  columnLabel.name          "Назив">
 <!ENTITY  columnLabel.keyword       "Кључна реч">
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "На горе">
-<!ENTITY  up.accesskey              "Н">
+<!ENTITY  up.accesskey              "г">
 <!ENTITY  dn.label                  "На доле">
-<!ENTITY  dn.accesskey              "Н">
-<!ENTITY  remove.label              "Избриши">
-<!ENTITY  remove.accesskey          "И">
+<!ENTITY  dn.accesskey              "д">
+<!ENTITY  remove.label              "Уклони">
+<!ENTITY  remove.accesskey          "У">
 <!ENTITY  edit.label                "Уреди кључну реч…">
 <!ENTITY  edit.accesskey            "У">
 

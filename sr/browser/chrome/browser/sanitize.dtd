@@ -35,15 +35,15 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.label     "Историјат читања и пријема">
 <!ENTITY itemHistoryAndDownloads.accesskey "И">
 <!ENTITY itemBrowsingHistory.label         "Историјат читања">
-<!ENTITY itemBrowsingHistory.accesskey     "B">
+<!ENTITY itemBrowsingHistory.accesskey     "с">
 <!ENTITY itemFormSearchHistory.label       "Историјат формулара и претрага">
-<!ENTITY itemFormSearchHistory.accesskey   "И">
+<!ENTITY itemFormSearchHistory.accesskey   "ф">
 <!ENTITY itemPasswords.label               "Сачуване лозинке">
-<!ENTITY itemPasswords.accesskey           "С">
+<!ENTITY itemPasswords.accesskey           "л">
 <!ENTITY itemCookies.label                 "Колачићи">
 <!ENTITY itemCookies.accesskey             "К">
 <!ENTITY itemCache.label                   "Кеш">
-<!ENTITY itemCache.accesskey               "К">
+<!ENTITY itemCache.accesskey               "ш">
 <!ENTITY itemOfflineApps.label             "Примљене податке са сајтова">
 <!ENTITY itemOfflineApps.accesskey         "П">
 <!ENTITY itemDownloadHistory.label         "Историјат пријема">
@@ -56,7 +56,8 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Ово дејство се не може опозвати.">
+<!ENTITY sanitizeEverythingUndoWarning     "Ова радња се не може опозвати.">
 
 <!ENTITY dialog.width                 "28em">
 <!ENTITY column.width                 "14em">
+

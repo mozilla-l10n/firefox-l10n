@@ -9,7 +9,7 @@
 <!ENTITY connectionFailure.title "Повезивање није успело">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Приступ овој адреси је ограничен">
+<!ENTITY deniedPortAccess.title "Приступ овој адреси је забрањен">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
@@ -37,16 +37,15 @@
 <!ENTITY netInterrupt.title "Веза је прекинута">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Документ је истекао">
+<!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу програма &brandShortName;.</p><ul><li>Из предострожности, програм, &brandShortName; не добавља документе аутоматски.</li><li>Притисните „Пробај поново“ да бисте поново добавили документ са веб сајта.</li></ul>">
+
 <!ENTITY netOffline.title "Неповезан рад">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul>
- <li>Искључите &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Изаберите „Пробај опет“ да почнете повезан начин рада и поново учитате страну.</li>
 </ul>
-">
+   ">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -89,12 +88,16 @@
 
 <!ENTITY unknownSocketType.title "Неочекиван одговор од сервера">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Проверите да ли рачунар има инсталиран личнн управник безбедности.</li> 
+<li>Проверите да ли рачунар има инсталиран лични управник безбедности.</li> 
 <li>Узрок овој грешци може да буде нестандардно подешавање сервера.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Безбедна веза није успостављена">
-<!ENTITY nssFailure2.longDesc "<ul> <li>Страна коју покушавате да погледате није могла да буде приказана јер аутентичност примљених података није могла бити потврђена.</li> <li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.  Или искористите команду из менија за помоћ како бисте пријавили овај сајт као неисправан.</li> </ul>">
+<!ENTITY nssFailure2.longDesc "<ul>
+  <li>Страна коју желите да читате не може бити приказана јер није могуће проверити аутентичност примљених података..</li>
+  <li>Молимо да контактирате власнике веб сајта и обавестите их о овом проблему.  Или, користите команду у менију за помоћ да пријавите овај сајт.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Безбедна веза није успостављена">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -109,14 +112,20 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
-<!ENTITY malwareBlocked.longDesc "<p>Злонамерни сајтови покушавају да инсталирају програме који отимају приватне податке, користе Ваш рачунар за напад на друге, или оштећују Ваш систем.</p> <p>Власници веб сајтова који верују да је њихов сајт пријављен грешком могу да <a href='http://www.stopbadware.org/home/reviewinfo' >захтевају ревизију</a>.</p>">
+<!ENTITY malwareBlocked.longDesc " <p>Злонамерни сајтови покушавају да украду личне податке, искористе ваш рачунар за нападе на други, или нанесу штету вашем рачунару.</p>
+<p>Власници веб сајтова који сматрају да су њихови сајтови грешком пријављени као злонамерни могу <a href='http://www.stopbadware.org/home/reviewinfo' >да траже преиспитивање</a>.</p>
+">
 
 <!ENTITY phishingBlocked.title "Могућ мрежни фалсификат!">
 <!ENTITY phishingBlocked.longDesc "<p>Уношење ма каквих личних података на овој страни може да буде узрок крађе идентитета или друге врсте преваре.</p> 
 <p>Ова врста мрежних фалсификата користи се у преварама познатим под именом „фишинг‟ (phishing), при којима се злонамерне веб стране или ел. адресе користе да имитирају изворе којима верујете.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Блокирала политика безбедности садржаја">
+<!ENTITY cspFrameAncestorBlocked.title "Блокирано због полисе о безбедности садржаја">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин, јер садржи полису о безбедности садржаја која то онемогућава.</p>">
+
+<!ENTITY corruptedContentError.title "Грешка услед оштећеног садржаја">
+<!ENTITY corruptedContentError.longDesc "<p>Страна коју желите да погледате не може бити приказана услед грешке у преносу података.</p><ul><li>Молимо да се обратите власницима веб стране и обавестите их о проблему.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Или можете додати изузетак…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">

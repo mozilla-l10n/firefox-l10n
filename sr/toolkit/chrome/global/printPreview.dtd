@@ -64,9 +64,10 @@
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Прилагоди…">
 <!ENTITY ShrinkToFit.label    "Уклопи на страну">
-<!ENTITY customPrompt.title   "Произвољна величина…">
+<!ENTITY customPrompt.title   "Прилагоди размеру…">
 
-<!ENTITY homearrow.tooltip    "Прва страна">
-<!ENTITY endarrow.tooltip     "Последња страна">
-<!ENTITY nextarrow.tooltip    "Наредна страна">
-<!ENTITY previousarrow.tooltip "Претходна страна">
+<!ENTITY homearrow.tooltip    "Прва страница">
+<!ENTITY endarrow.tooltip     "Последња страница">
+<!ENTITY nextarrow.tooltip    "Следећа страница">
+<!ENTITY previousarrow.tooltip "Претходна страница">
+

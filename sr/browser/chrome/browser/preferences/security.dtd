@@ -9,10 +9,10 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Блокирај познате ризичне сајтове">
-<!ENTITY  blockAttackSites.accesskey "Б">
+<!ENTITY  blockAttackSites.accesskey "р">
 
 <!ENTITY  blockWebForgeries.label     "Блокирај познате мрежне фалсификате">
-<!ENTITY  blockWebForgeries.accesskey "Б">
+<!ENTITY  blockWebForgeries.accesskey "п">
 
 <!ENTITY  addonExceptions.label         "Изузеци">
 <!ENTITY  addonExceptions.accesskey     "И">

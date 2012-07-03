@@ -11,8 +11,9 @@
 <!ENTITY findButton.accesskey "Н">
 <!ENTITY cancelButton.label "Одустани">
 <!ENTITY closeButton.label "Затвори">
-<!ENTITY up.label "Нагоре">
-<!ENTITY up.accesskey "Н">
-<!ENTITY down.label "Надоле">
-<!ENTITY down.accesskey "Н">
+<!ENTITY up.label "На горе">
+<!ENTITY up.accesskey "г">
+<!ENTITY down.label "На доле">
+<!ENTITY down.accesskey "д">
 <!ENTITY direction.label "Смер">
+

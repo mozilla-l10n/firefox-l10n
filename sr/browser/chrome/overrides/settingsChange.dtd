@@ -39,4 +39,5 @@
 -->
 
 <!ENTITY  settingsChangePreferences.label  "Подешавања можете променити употребом језичка „Програми‟ међу подешавањима програма &brandShortName;">
-<!ENTITY  settingsChangeOptions.label      "Подешавања можете променити употребом језичка „Програми‟ међу опцијама програма &brandShortName;">
+<!ENTITY  settingsChangeOptions.label      "Понашање програма можете да промените преко језичка „Програми“ у поставкама програма.">
+

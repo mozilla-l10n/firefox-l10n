@@ -5,3 +5,4 @@
 <!ENTITY noConfig.label             "Овај програм није подешен да шаље приказује извештаје о рушењу.  Поставка <code>breakpad.reportURL</code> мора да буде постављена.">
 <!ENTITY clearAllReports.label      "Уклони све извештаје">
 
+
