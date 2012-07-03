@@ -7,5 +7,5 @@
 <!ENTITY fileExceedsQuota.cancel "Annuler">
 <!ENTITY fileExceedsQuota.description "Vous avez atteint votre limite de stockage de 2Go.">
 <!ENTITY fileExceedsQuota.description1 "Vous utilisez actuellement #XXX Go de votre espace de stockage.">
-<!ENTITY fileExceedsQuota.description2 "Mettez à niveau aujourd\u0027hui vers un compte Pro Plus et obtenez plus d\u0027espace.">
+<!ENTITY fileExceedsQuota.description2 "Mettez à niveau aujourd'hui vers un compte Pro Plus et obtenez plus d'espace.">
 <!ENTITY fileExceedsQuota.description3 "Vous pouvez également supprimer des fichiers sur votre compte pour faire de la place.">
