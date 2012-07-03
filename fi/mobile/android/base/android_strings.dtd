@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Päivitä">
 <!ENTITY forward "Seuraava">
+<!ENTITY menu "Valikko">
+<!ENTITY back "Edellinen">
+<!ENTITY stop "Pysäytä">
+<!ENTITY site_security "Sivuston tietoturva">
 
 <!ENTITY close_tab "Sulje välilehti">
 <!ENTITY new_tab "Uusi välilehti">
