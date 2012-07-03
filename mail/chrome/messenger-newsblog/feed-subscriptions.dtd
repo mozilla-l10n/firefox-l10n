@@ -27,5 +27,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Export">
 <!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY button.exportOPML.tooltip   "Exportar ils feeds cun la structura dad ordinaturs; clicca cun ctrl u smatga la tasta enter cun ctrl per exportar ils feeds sco glista">
 
 <!ENTITY cmd.close.commandKey        "w">

@@ -61,7 +61,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Archivar quest messadi">
 <!ENTITY hdrSmartReplyButton1.label "Respunder smart">
 <!ENTITY hdrReplyButton1.label "Respunder">
-<!ENTITY hdrReplyButton1.tooltip "Respunder quest messadi">
+<!ENTITY hdrReplyButton2.tooltip "Respunder al speditur da quest messadi">
 <!ENTITY hdrReplyAllButton1.label "Respunder a tuts">
 <!ENTITY hdrReplyAllButton1.tooltip "Respunder al speditur ed a tut ils destinaturs">
 <!ENTITY hdrReplyListButton1.label "Respunder a la glista">
