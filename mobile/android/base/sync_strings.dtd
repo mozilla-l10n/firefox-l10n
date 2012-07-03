@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Määritys valmis'>
-<!ENTITY sync.subtitle.success.label 'Tietojasi ladataan nyt taustalla. Voit muokata tilisi asetuksia palvelun asetuksista.'>
+<!ENTITY sync.subtitle.success.label1 'Tietojasi ladataan nyt taustalla. Voit muokata tilisi asetuksia palvelun asetuksista tai jatkaa selaamista &brandShortName;illa.'>
 <!ENTITY sync.settings.label 'Asetukset'>
-<!ENTITY sync.subtitle.manage.label '&syncBrand.fullName.label; -palvelun tilisi on jo määritetty. Muokkaa tilisi asetuksia asetusikkunasta.'>
+<!ENTITY sync.subtitle.manage.label1 '&syncBrand.fullName.label; -palvelun tilisi on jo määritetty. Muokkaa tilisi asetuksia asetusikkunasta tai käynnistää &brandShortName;in.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Yritä uudestaan.'>
+<!ENTITY sync.pair.connectlocation.label 'Aktivoi valitsemalla laitteesta “Määritä &syncBrand.shortName.label;” ja valitse sitten “Minulla on jo tili.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Asetukset'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Järjestelemättä olevat kirjanmerkit'>
 <!ENTITY bookmarks.folder.desktop.label 'Työpöydän kirjanmerkit'>
 <!ENTITY bookmarks.folder.mobile.label 'Kannettavan laitteen kirjanmerkit'>
+<!ENTITY bookmarks.folder.readinglist.label 'Lukulista'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Tuemme vain yhtä &syncBrand.fullName.label; -tiliä.'>

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "Asennetaan &brandShortName;ia">
 <!ENTITY  splash_bookmarks_history "Päivitetään kirjanmerkkejä ja sivuhistoriaa. Tämä voi kestää reilun minuutin.">
@@ -44,7 +48,11 @@
 <!ENTITY reload "Päivitä">
 <!ENTITY forward "Seuraava">
 
+<!ENTITY close_tab "Sulje välilehti">
 <!ENTITY new_tab "Uusi välilehti">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d välilehteä">
 <!ENTITY new_tab_opened "Avattiin uusi välilehti">
 
 <!ENTITY settings "Asetukset">
@@ -86,12 +94,25 @@
 <!ENTITY share "Jaa">
 <!ENTITY share_title "Jaa palvelulla">
 <!ENTITY save_as_pdf "Tallenna PDF-muodossa">
+<!ENTITY find_in_page "Etsi sivulta">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Etsi sivulta">
+<!ENTITY find_prev "Edellinen">
+<!ENTITY find_next "Seuraava">
+<!ENTITY find_close "Sulje">
 
 <!ENTITY contextmenu_open_new_tab "Avaa uuteen välilehteen">
+<!ENTITY contextmenu_remove_history "Poista">
 <!ENTITY contextmenu_remove_bookmark "Poista">
 <!ENTITY contextmenu_add_to_launcher "Lisää kotinäkymään">
 <!ENTITY contextmenu_share "Jaa">
 <!ENTITY contextmenu_edit_bookmark "Muokkaa">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Sivu poistettiin">
 
 <!ENTITY bookmark_edit_title "Muokkaa kirjanmerkkiä">
 <!ENTITY bookmark_edit_name "Nimi">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "Peruuta">
 <!ENTITY site_settings_clear        "Poista">
 <!ENTITY site_settings_no_settings  "Ei löytynyt tallennettuja asetuksia.">
+
+<!ENTITY add_to_reading_list "Lisää lukulistaan">
+<!ENTITY reading_list_added "Sivu lisättiin lukulistaan">
+<!ENTITY reading_list_removed "Sivu poistettiin lukulistalta">
+<!ENTITY reader_mode "Lukutila">
 
 <!ENTITY masterpassword_create_title "Aseta pääsalasana">
 <!ENTITY masterpassword_remove_title "Poista pääsalasana">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "Valitse tai äänitä ääni">
 <!ENTITY filepicker_image_title "Valitse tai ota kuva">
 <!ENTITY filepicker_video_title "Valitse tai nauhoita video">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Yhteys muodostettu verkkosivustoon">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "Sivustoa hallinnoi">
