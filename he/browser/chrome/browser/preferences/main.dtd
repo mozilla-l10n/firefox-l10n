@@ -29,15 +29,15 @@
 <!ENTITY saveTo.label "שמור קבצים אל">
 <!ENTITY saveTo.accesskey "ק">
 <!ENTITY chooseFolderWin.label        "עיון…">
-<!ENTITY chooseFolderWin.accesskey    "ע">
-<!ENTITY chooseFolderMac.label        "בחר…">
+<!ENTITY chooseFolderWin.accesskey    "י">
+<!ENTITY chooseFolderMac.label        "בחירה…">
 <!ENTITY chooseFolderMac.accesskey    "ב">
-<!ENTITY alwaysAsk.label "תמיד שאל אותי היכן לשמור קבצים">
+<!ENTITY alwaysAsk.label "שאל אותי תמיד היכן לשמור קבצים">
 <!ENTITY alwaysAsk.accesskey "ה">
 
 <!ENTITY addonsMgr.label               "תוספות">
 <!ENTITY manageAddonsDescWin.label     "שנה אפשרויות עבור התוספות שלך">
 <!ENTITY manageAddonsDescUnix2.label   "שנה העדפות עבור התוספות שלך">
 <!ENTITY manageAddons.label            "ניהול תוספות…">
-<!ENTITY manageAddons.accesskey        "נ">
+<!ENTITY manageAddons.accesskey        "ת">
 
