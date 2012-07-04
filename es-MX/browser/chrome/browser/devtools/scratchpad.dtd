@@ -7,6 +7,8 @@
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY openRecentMenu.label "Abrir reciente">
+<!ENTITY openRecentMenu.accesskey "r">
 <!ENTITY saveFileCmd.label "Guardar">
 <!ENTITY saveFileCmd.accesskey "G">
 <!ENTITY saveFileCmd.commandkey "g">
