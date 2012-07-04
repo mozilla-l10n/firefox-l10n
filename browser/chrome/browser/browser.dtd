@@ -439,8 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey    "M">
 <!ENTITY bookmarkThisFrameCmd.label       "Marque-page sur ce cadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey   "M">
-<!ENTITY sendPageCmd.label            "Envoyer un lien vers la page…">
-<!ENTITY sendPageCmd.accesskey        "n">
+<!ENTITY emailPageCmd.label           "Envoyer un lien vers la page par courriel…">
+<!ENTITY emailPageCmd.accesskey       "n">
 <!ENTITY savePageCmd.label            "Enregistrer sous…">
 <!ENTITY savePageCmd.accesskey        "E">
 <!-- alternate for content area context menu -->
@@ -458,12 +458,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Enregistrer le fichier audio sous…">
 <!ENTITY saveAudioCmd.accesskey       "s">
-<!ENTITY sendImageCmd.label           "Envoyer l'image…">
-<!ENTITY sendImageCmd.accesskey       "v">
-<!ENTITY sendVideoCmd.label           "Envoyer la vidéo…">
-<!ENTITY sendVideoCmd.accesskey       "v">
-<!ENTITY sendAudioCmd.label           "Envoyer le fichier audio…">
-<!ENTITY sendAudioCmd.accesskey       "v">
+<!ENTITY emailImageCmd.label          "Envoyer l'image par courriel…">
+<!ENTITY emailImageCmd.accesskey      "v">
+<!ENTITY emailVideoCmd.label          "Envoyer la vidéo par courriel…">
+<!ENTITY emailVideoCmd.accesskey      "v">
+<!ENTITY emailAudioCmd.label          "Envoyer le fichier audio par courriel…">
+<!ENTITY emailAudioCmd.accesskey      "v">
 <!ENTITY copyLinkCmd.label            "Copier l'adresse du lien">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copier l'adresse de l'image">
