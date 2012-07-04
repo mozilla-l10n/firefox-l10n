@@ -67,7 +67,7 @@
 <!ENTITY permInstall "Namesti razširitve in teme">
 <!ENTITY  permGeo               "Objavi položaj">
 <!ENTITY  permPlugins           "Omogoči vstavke">
-<!ENTITY  permFullscreen        "Polnozaslonski način">
+<!ENTITY  permFullscreen        "Celoten zaslon">
 
 
 <!ENTITY  permIndexedDB              "Shramba za delo brez povezave">
