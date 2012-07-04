@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
@@ -448,8 +452,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "I">
 <!ENTITY saveLinkCmd.label            "Enregistrer la cible du lien sous…">
 <!ENTITY saveLinkCmd.accesskey        "E">
-<!ENTITY sendLinkCmd.label            "Envoyer le lien…">
-<!ENTITY sendLinkCmd.accesskey        "n">
 <!ENTITY saveImageCmd.label           "Enregistrer l'image sous…">
 <!ENTITY saveImageCmd.accesskey       "s">
 <!ENTITY saveVideoCmd.label           "Enregistrer la vidéo sous…">
