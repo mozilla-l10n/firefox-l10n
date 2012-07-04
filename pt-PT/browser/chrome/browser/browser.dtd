@@ -437,8 +437,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey "M">
 <!ENTITY bookmarkThisFrameCmd.label   "Adicionar esta frame aos marcadores...">
 <!ENTITY bookmarkThisFrameCmd.accesskey "M">
-<!ENTITY sendPageCmd.label            "Enviar ligação...">
-<!ENTITY sendPageCmd.accesskey        "l">
+<!ENTITY emailPageCmd.label           "Enviar ligação...">
+<!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Guardar página como...">
 <!ENTITY savePageCmd.accesskey        "G">
 <!-- alternate for content area context menu -->
