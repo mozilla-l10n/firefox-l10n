@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Recarregar">
 <!ENTITY forward "Avançar">
+<!ENTITY menu "Menu">
+<!ENTITY back "Retroceder">
+<!ENTITY stop "Parar">
+<!ENTITY site_security "Segurança do sítio">
 
 <!ENTITY close_tab "Fechar separador">
 <!ENTITY new_tab "Novo separador">
@@ -60,6 +64,7 @@
 <!ENTITY pref_category_general "Geral">
 <!ENTITY pref_category_privacy "Privacidade &amp; Segurança">
 <!ENTITY pref_category_content "Conteúdo">
+<!ENTITY pref_category_importexport "Importar &amp; Exportar">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_do_not_track "Dizer aos sítios para não me seguir">
 <!ENTITY pref_telemetry "Enviar dados do desempenho">
@@ -68,10 +73,7 @@
 <!ENTITY pref_char_encoding "Mostrar codificação de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
 <!ENTITY pref_char_encoding_off "Não mostrar menu">
-<!ENTITY pref_clear_history "Limpar histórico">
-<!ENTITY pref_clear_history_confirm "O histórico de navegação será eliminado">
 <!ENTITY pref_clear_private_data "Limpar dados privados">
-<!ENTITY pref_clear_private_data_confirm "Serão eliminadas definições de navegação, incluindo senhas e cookies">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativado">
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
@@ -84,17 +86,28 @@
 <!ENTITY pref_font_size_xlarge "Muito grande">
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
+<!ENTITY pref_import_android "Importar do Android">
+<!ENTITY pref_private_data_history "Navegação &amp; histórico de transferências">
+<!ENTITY pref_private_data_formdata "Formulário &amp; histórico de pesquisa">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Inícios de sessão ativos">
+<!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
+<!ENTITY pref_private_data_siteSettings "Preferências do sítio">
 
 <!ENTITY quit "Desistir">
 
 <!ENTITY addons "Extras">
 <!ENTITY downloads "Transferências">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Codificação de caracteres">
 
 <!ENTITY share "Partilhar">
 <!ENTITY share_title "Partilhar através">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Procurar na página">
+<!ENTITY desktop_mode "Pedir sítio do Desktop">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -108,6 +121,9 @@
 <!ENTITY contextmenu_remove_bookmark "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
 <!ENTITY contextmenu_share "Partilhar">
+<!ENTITY contextmenu_pasteandgo "Colar &amp; ir">
+<!ENTITY contextmenu_paste "Colar">
+<!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -124,18 +140,20 @@
 <!ENTITY site_settings_clear        "limpar">
 <!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
 
-<!ENTITY add_to_reading_list "Adicionar à lista de leitura">
+<!ENTITY reading_list "Lista de leitura">
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
+<!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
 <!ENTITY reader_mode "Modo de leitura">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
 <!ENTITY masterpassword_remove_title "Remover senha mestra">
 <!ENTITY masterpassword_password "Senha">
-<!ENTITY masterpassword_confirm "Confirmar ">
+<!ENTITY masterpassword_confirm "Confirmar senha">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_clear_data "Limpar dados">
 
 <!ENTITY abouthome_addons_title "Extras para o seu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Navegar em todos os extras do &brandShortName;">
@@ -166,3 +184,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é gerido por">
+
+<!ENTITY private_data_success "DAdos privados limpos">
+<!ENTITY private_data_fail "Alguns dados privados não puderam ser limpos">
+
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "A importar marcadores e histórico
+                                      do Android">
+<!ENTITY bookmarkhistory_import_bookmarks "A importar marcadores
+                                           do Android">
+<!ENTITY bookmarkhistory_import_history "A importar histórico
+                                         do Android">
+<!ENTITY bookmarkhistory_import_wait "Por favor, aguarde...">
