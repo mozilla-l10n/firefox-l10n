@@ -83,10 +83,10 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Začni celozaslonsko">
-<!ENTITY enterFullScreenCmd.accesskey "f">
-<!ENTITY exitFullScreenCmd.label "Končaj celozaslonsko">
-<!ENTITY exitFullScreenCmd.accesskey "f">
+<!ENTITY enterFullScreenCmd.label "Celoten zaslon">
+<!ENTITY enterFullScreenCmd.accesskey "C">
+<!ENTITY exitFullScreenCmd.label "Končaj celoten zaslon">
+<!ENTITY exitFullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -102,11 +102,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "C">
 <!ENTITY fullscreenAllowButton.label "Dovoli">
 <!ENTITY fullscreenExitButton.label "Zavrni">
-<!ENTITY fullscreenApproval.value "Dovoli celozaslonsko?">
+<!ENTITY fullscreenApproval.value "Dovolim celoten zaslon?">
 
-<!ENTITY fullscreenExitHint.value "Z ESC lahko kadar koli zapustite celozaslonski način.">
-<!ENTITY leaveDOMFullScreen.label "Končaj celozaslonsko">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY fullscreenExitHint.value "Z ESC lahko kadar koli končate celoten zaslon.">
+<!ENTITY leaveDOMFullScreen.label "Končaj celoten zaslon">
+<!ENTITY leaveDOMFullScreen.accesskey "j">
 
 <!ENTITY closeWindow.label "Zapri okno">
 <!ENTITY closeWindow.accesskey "o">
@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "j">
 
 <!ENTITY responsiveDesignTool.label            "Odziven način">
-<!ENTITY responsiveDesignTool.accesskey        "R">
+<!ENTITY responsiveDesignTool.accesskey        "O">
 <!ENTITY responsiveDesignTool.commandkey       "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -259,9 +259,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
 <!ENTITY inspectorToggleVeil.label          "Zasenči stran">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "Pokaži podatke o vozlu">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
+<!ENTITY inspectorToggleVeil.accesskey      "Z">
+<!ENTITY inspectorToggleInfobar.label       "Prikaži podatke o vozlišču">
+<!ENTITY inspectorToggleInfobar.accesskey   "V">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
