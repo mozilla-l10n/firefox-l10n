@@ -1,26 +1,20 @@
-<!-- extracted from content/pref-composer.xul -->
-
-<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
-
-<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-<!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Списак скорашњих страна">
-<!ENTITY  documentsInMenu.label         "Највећи број страна који се приказује:">
-<!ENTITY  documentsInMenu.accesskey     "Н">
-<!ENTITY  savingFiles.title             "При чувању или објављивању страна">
-<!ENTITY  preserveExisting.label        "Сачувај изворно форматирање">
-<!ENTITY  preserveExisting.accesskey    "С">
-<!ENTITY  preserveExisting.tooltip      "Чува преломе редова и изворно форматирање">
-<!ENTITY  saveAssociatedFiles.label     "Чува слиле и остале придружене датотеке при чувању страна">
-<!ENTITY  saveAssociatedFiles.accesskey "Ч">
-<!ENTITY  showPublishDialog.label       "Увек приказуј дијалог за објављивање при објављивању страна">
-<!ENTITY  showPublishDialog.accesskey   "У">
-<!ENTITY  composerEditing.label         "Уређивање">
-<!ENTITY  maintainStructure.label       "Одржавај изглед табеле при уметању и уклањању ћелија">
-<!ENTITY  maintainStructure.tooltip     "Чува правоугаони облик табеле аутоматским додавањем ћелија пре уметања или уклањања ћелија">
-<!ENTITY  maintainStructure.accesskey   "О">
-<!ENTITY  useCSS.label                  "Користи CSS уместо HTML елемената и атрибута">
-<!ENTITY  useCSS.accesskey              "К">
-<!ENTITY  crInPCreatesNewP.label        "Нови ред унутар пасуса увек прави нови пасус">
-<!ENTITY  crInPCreatesNewP.accesskey    "Н">
-
+<!ENTITY preserveExisting.accesskey "С">
+<!ENTITY showPublishDialog.label "Увек приказуј дијалог за објављивање при објављивању страна">
+<!ENTITY documentsInMenu.accesskey "Н">
+<!ENTITY showPublishDialog.accesskey "У">
+<!ENTITY documentsInMenu.label "Највећи број страна који се приказује:">
+<!ENTITY maintainStructure.accesskey "О">
+<!ENTITY pref.composer.title "Састављач">
+<!ENTITY recentFiles.title "Списак скорашњих страна">
+<!ENTITY maintainStructure.tooltip "Чува правоугаони облик табеле аутоматским додавањем ћелија пре уметања или уклањања ћелија">
+<!ENTITY preserveExisting.label "Сачувај изворно форматирање">
+<!ENTITY maintainStructure.label "Одржавај изглед табеле при уметању и уклањању ћелија">
+<!ENTITY savingFiles.title "При чувању или објављивању страна">
+<!ENTITY useCSS.accesskey "К">
+<!ENTITY preserveExisting.tooltip "Чува преломе редова и изворно форматирање">
+<!ENTITY useCSS.label "Користи CSS уместо HTML елемената и атрибута">
+<!ENTITY crInPCreatesNewP.label "Нови ред унутар пасуса увек прави нови пасус">
+<!ENTITY composerEditing.label "Уређивање">
+<!ENTITY crInPCreatesNewP.accesskey "Н">
+<!ENTITY saveAssociatedFiles.accesskey "Ч">
+<!ENTITY saveAssociatedFiles.label "Чува слиле и остале придружене датотеке при чувању страна">

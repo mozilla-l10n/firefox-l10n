@@ -1,29 +1,23 @@
-<!ENTITY  pref.editing.title        "Поставке нове странице">
-
-<!ENTITY  authorName.label          "Аутор:">
-<!ENTITY  authorName.accesskey      "А">
-<!ENTITY  pageColorHeader           "Подразумевани изглед странице">
-
-<!ENTITY defaultColors.label        "Подразумеване боје у читачу (не постављај боје на страници)">
-<!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Користи произвољне боје:">
-<!ENTITY customColors.accesskey     "c">
-
-<!ENTITY normalText.label           "Нормалан текст">
-<!ENTITY normalText.accesskey       "о">
-<!ENTITY linkText.label             "Текст везе">
-<!ENTITY linkText.accesskey         "в">
-<!ENTITY activeLinkText.label       "Текст активне везе">
-<!ENTITY activeLinkText.accesskey   "а">
-<!ENTITY visitedLinkText.label      "Текст посећене везе">
-<!ENTITY visitedLinkText.accesskey  "п">
-<!ENTITY background.label           "Позадина:">
-<!ENTITY background.accesskey       "П">
-<!ENTITY colon.character            ":">
-
-<!ENTITY backgroundImage.label      "Позадинска слика:">
-<!ENTITY backgroundImage.accesskey  "с">
-<!ENTITY chooseFile.label           "Избор датотеке…">
-<!ENTITY chooseFile.accesskey       "И">
-
-
+<!ENTITY authorName.label "Аутор:">
+<!ENTITY visitedLinkText.label "Текст посећене везе">
+<!ENTITY backgroundImage.label "Позадинска слика:">
+<!ENTITY authorName.accesskey "А">
+<!ENTITY background.label "Позадина:">
+<!ENTITY backgroundImage.accesskey "с">
+<!ENTITY chooseFile.accesskey "И">
+<!ENTITY customColors.accesskey "К">
+<!ENTITY linkText.label "Текст везе">
+<!ENTITY linkText.accesskey "в">
+<!ENTITY activeLinkText.accesskey "а">
+<!ENTITY customColors.label "Користи произвољне боје:">
+<!ENTITY defaultColors.accesskey "П">
+<!ENTITY normalText.accesskey "о">
+<!ENTITY defaultColors.label "Подразумеване боје у читачу (не постављај боје на страници)">
+<!ENTITY colon.character ":">
+<!ENTITY chooseFile.label "Избор датотеке…">
+<!ENTITY activeLinkText.label "Текст активне везе">
+<!ENTITY pageColorHeader "Подразумевани изглед странице">
+<!ENTITY visitedLinkText.accesskey "п">
+<!ENTITY pref.editing.title "Поставке нове странице">
+<!ENTITY background.accesskey "П">
+<!ENTITY normalText.label "Нормалан текст">

@@ -16,7 +16,7 @@
 <!ENTITY  found.wizard.title               "Пронађени су усклађени додаци">
 <!ENTITY  found.top.label                 "Изаберите додатке које желите да поставите:">
 <!ENTITY  found.disabledXPinstall.label   "Ове доградње не могу бити постављене јер је постављање софтвера тренутно искључено. То можете да промените помоћу подешавања испод.">
-<!ENTITY  found.enableXPInstall.label     "Дозволи веб сајтовима да инсталирају програме">
+<!ENTITY  found.enableXPInstall.label     "Дозволи веб сајтовима да инсталирају софтвер">
 <!ENTITY  found.enableXPInstall.accesskey "Д">
 
 <!ENTITY  installing.wizard.title         "Постављање усклађених додатака">

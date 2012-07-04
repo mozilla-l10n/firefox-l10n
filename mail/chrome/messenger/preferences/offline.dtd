@@ -1,25 +1,22 @@
-<!ENTITY offlineDialog.title "Подешавања за рад ван мреже">
-
-<!ENTITY textStartUp "При покретању:">
-<!ENTITY radioRememberPrevState.label "Запамти претходни статус везе">
-<!ENTITY radioRememberPrevState.accesskey "З">
-<!ENTITY radioAskMe.label "Питај ме о статусу везе при покретању">
-<!ENTITY radioAskMe.accesskey "п">
-<!ENTITY radioAlwaysOnline.label "Увек покрени на вези">
-<!ENTITY radioAlwaysOnline.accesskey "У">
-
-<!ENTITY textGoingOnline "Да ли непослате поруке треба послати при успостави везе?">
 <!ENTITY radioAutoSend.label "Да">
-<!ENTITY radioAutoSend.accesskey "Д">
-<!ENTITY radioNotSend.label "Не">
-<!ENTITY radioNotSend.accesskey "Н">
-<!ENTITY radioAskUnsent.label "Питај ме">
-<!ENTITY radioAskUnsent.accesskey "П">
-<!ENTITY textGoingOffline "Да ли преузети поруке за читање у локалу при раскидању везе?">
-<!ENTITY radioAutoDownload.label "Да">
+<!ENTITY radioAskMe.accesskey "п">
 <!ENTITY radioAutoDownload.accesskey "а">
-<!ENTITY radioNotDownload.label "Не">
-<!ENTITY radioNotDownload.accesskey "е">
+<!ENTITY radioAskUnsent.accesskey "П">
+<!ENTITY textGoingOnline "Да ли непослате поруке треба послати при успостави везе?">
+<!ENTITY radioAskMe.label "Питај ме о статусу везе при покретању">
 <!ENTITY radioAskDownload.label "Питај ме">
+<!ENTITY radioNotDownload.label "Не">
+<!ENTITY textStartUp "При покретању:">
+<!ENTITY offlineDialog.title "Подешавања за рад ван мреже">
+<!ENTITY radioAskUnsent.label "Питај ме">
+<!ENTITY textGoingOffline "Да ли преузети поруке за читање у локалу при раскидању везе?">
+<!ENTITY radioAlwaysOnline.accesskey "У">
+<!ENTITY radioAlwaysOnline.label "Увек покрени на вези">
+<!ENTITY radioRememberPrevState.label "Запамти претходни статус везе">
+<!ENTITY radioNotSend.accesskey "Н">
+<!ENTITY radioRememberPrevState.accesskey "З">
+<!ENTITY radioNotDownload.accesskey "е">
+<!ENTITY radioAutoDownload.label "Да">
+<!ENTITY radioAutoSend.accesskey "Д">
 <!ENTITY radioAskDownload.accesskey "и">
-
+<!ENTITY radioNotSend.label "Не">

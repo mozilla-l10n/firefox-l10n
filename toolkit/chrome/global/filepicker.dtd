@@ -10,9 +10,8 @@
 <!ENTITY showHiddenFiles.label  "Приказ сакривених датотека и директоријума">
 <!ENTITY showHiddenFiles.accesskey  "П">
 
-<!ENTITY noPermissionError.label "Немате потребно овлашћење за приступ овом директоријуму.">
+<!ENTITY noPermissionError.label "Немате потребну дозволу за преглед ове фасцикле.">
 
 <!ENTITY folderUp.tooltiptext   "Ниво изнад">
 <!ENTITY folderHome.tooltiptext "Почетак">
 <!ENTITY folderNew.tooltiptext  "Направи нови директоријум">
-

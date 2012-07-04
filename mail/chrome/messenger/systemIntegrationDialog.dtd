@@ -1,13 +1,9 @@
-<!ENTITY systemIntegration.title  "Интеграција система">
-<!ENTITY defaultClient.intro  "Користи програм &brandShortName; као изворни клијент за:">
-
-<!ENTITY email.label "Ел. пошту">
-<!ENTITY newsgroups.label "Групе">
 <!ENTITY feeds.label "Доводе">
-
-<!ENTITY checkOnStartup.label "Увек провери при покретању програма &brandShortName;">
+<!ENTITY newsgroups.label "Групе">
 <!ENTITY checkOnStartup.accesskey "У">
-
-<!ENTITY searchIntegration.label "Дозволи програму &searchIntegration.engineName; да претражује поруке">
+<!ENTITY defaultClient.intro "Користи програм &brandShortName; као изворни клијент за:">
+<!ENTITY email.label "Ел. пошту">
+<!ENTITY systemIntegration.title "Интеграција система">
+<!ENTITY checkOnStartup.label "Увек провери при покретању програма &brandShortName;">
 <!ENTITY searchIntegration.accesskey "п">
-
+<!ENTITY searchIntegration.label "Дозволи програму &searchIntegration.engineName; да претражује поруке">

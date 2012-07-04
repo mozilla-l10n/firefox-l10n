@@ -1,10 +1,15 @@
 <!ENTITY addons.windowTitle                   "Управљач додацима">
+
 <!ENTITY search.placeholder                   "Претражи све додатке">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Учитавање…">
 <!ENTITY listEmpty.installed.label            "Нисте инсталирали ни један додатак ове врсте">
 <!ENTITY listEmpty.availableUpdates.label     "Нема доградњи">
 <!ENTITY listEmpty.recentUpdates.label        "Нисте недавно ажурирали додатке">
-<!ENTITY listEmpty.findUpdates.label          "Провера доградњи">
+<!ENTITY listEmpty.findUpdates.label          "Провери доградње">
 <!ENTITY listEmpty.search.label               "Нема резултата претраге додатака">
 <!ENTITY listEmpty.button.label               "Сазнајте више о додацима">
 <!ENTITY installAddonFromFile.label           "Инсталирај додатак из датотеке…">
@@ -34,8 +39,8 @@
 <!ENTITY view.availableUpdates.label          "Доступна ажурирања">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Провера доградњи">
-<!ENTITY updates.checkForUpdates.accesskey    "д">
+<!ENTITY updates.checkForUpdates.label        "Провери да ли постоје исправке">
+<!ENTITY updates.checkForUpdates.accesskey    "П">
 <!ENTITY updates.viewUpdates.label            "Погледај недавна ажурирања">
 <!ENTITY updates.viewUpdates.accesskey        "П">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -67,10 +72,10 @@
 <!ENTITY cmd.showDetails.accesskey            "П">
 <!ENTITY cmd.findUpdates.label                "Нађи доградње">
 <!ENTITY cmd.findUpdates.accesskey            "Н">
-<!ENTITY cmd.preferencesWin.label             "Опције">
-<!ENTITY cmd.preferencesWin.accesskey         "ц">
+<!ENTITY cmd.preferencesWin.label             "Могућности">
+<!ENTITY cmd.preferencesWin.accesskey         "М">
 <!ENTITY cmd.preferencesUnix.label            "Поставке">
-<!ENTITY cmd.preferencesUnix.accesskey        "с">
+<!ENTITY cmd.preferencesUnix.accesskey        "П">
 <!ENTITY cmd.about.label                      "О програму">
 <!ENTITY cmd.about.accesskey                  "О">
 
@@ -85,8 +90,8 @@
 <!ENTITY cmd.installAddon.label               "Постави">
 <!ENTITY cmd.installAddon.accesskey           "П">
 <!ENTITY cmd.uninstallAddon.label             "Уклони">
-<!ENTITY cmd.uninstallAddon.accesskey         "У">
-<!ENTITY cmd.showPreferencesWin.label         "Опције">
+<!ENTITY cmd.uninstallAddon.accesskey         "и">
+<!ENTITY cmd.showPreferencesWin.label         "Могућности">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Промени опције овог додатка">
 <!ENTITY cmd.showPreferencesUnix.label        "Поставке">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Промени подешавања овог додатка">
@@ -129,14 +134,14 @@
 <!ENTITY detail.repository                    "Профил додатка">
 <!ENTITY detail.size                          "Величина">
 
-<!ENTITY detail.checkForUpdates.label         "Провера доградњи">
-<!ENTITY detail.checkForUpdates.accesskey     "д">
+<!ENTITY detail.checkForUpdates.label         "Провери да ли постоје исправке">
+<!ENTITY detail.checkForUpdates.accesskey     "П">
 <!ENTITY detail.checkForUpdates.tooltip       "Проверите да ли постоје унапређења овог додатка">
-<!ENTITY detail.showPreferencesWin.label      "Опције">
-<!ENTITY detail.showPreferencesWin.accesskey  "ц">
+<!ENTITY detail.showPreferencesWin.label      "Могућности">
+<!ENTITY detail.showPreferencesWin.accesskey  "М">
 <!ENTITY detail.showPreferencesWin.tooltip    "Промени опције овог додатка">
 <!ENTITY detail.showPreferencesUnix.label     "Поставке">
-<!ENTITY detail.showPreferencesUnix.accesskey "с">
+<!ENTITY detail.showPreferencesUnix.accesskey "П">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Промени подешавања овог додатка">
 
 
@@ -176,7 +181,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Освежи">
+<!ENTITY addon.update.postfix                 "Обнављања">
 <!ENTITY addon.undoAction.label               "Опозови">
 <!ENTITY addon.undoAction.tooltip             "Опозови ову радњу">
 <!ENTITY addon.undoRemove.label               "Опозови">
@@ -199,6 +204,3 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Прихватам, инсталирај…">
-
-<!ENTITY settings.path.button.label           "Преглед…">
-

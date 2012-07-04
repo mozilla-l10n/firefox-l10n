@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "&brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; је експерименталан и може бити нестабилан.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Аутоматски шаље податке о перформанси, хардверу, употреби и прилагођењима до &vendorShortName; како би побољшао &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " је">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "глобална заједница">
+<!ENTITY community.exp.end          " радимо заједно да бисмо задржали интернет отвореним, јавним и доступним свима.">
+
 <!ENTITY community.start2           "&brandShortName; је дизајнирала ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобална заједница">
-<!ENTITY community.end2             " радећи заједно, да бисмо побољшали Интернет. Верујемо да Интернет треба бити отворен, јаван и доступан свакоме, без икаквих ограничења.">
+<!ENTITY community.end3             " радимо заједно да бисмо задржали интернет отвореним, јавним и доступним свима.">
 
 <!ENTITY contribute.start           "Звучи занимљиво? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -20,16 +34,16 @@
 <!ENTITY bottomLinks.rights         "Права крајњег корисника">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Политика приватности">
+<!ENTITY bottomLinks.privacy        "Полиса о приватности">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Проверавање доступности доградњи…">
+<!ENTITY update.checkingForUpdates  "Провера доградњи…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Проверавање усаглашености додатака…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; је ажуриран">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Администратор система је онемогућио ажурирања">
+<!ENTITY update.adminDisabled       "Системски администратор је онемогућио доградње">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -37,7 +51,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Ажурирање није успело. ">
-<!ENTITY update.failed.linkText     "Преузми најновију верзију">
+<!ENTITY update.failed.linkText     "Преузми најновије издање">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -52,7 +66,7 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Преузимање доградње — ">
+<!ENTITY update.downloading.start   "Пријем доградње — ">
 <!ENTITY update.downloading.end     "">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and

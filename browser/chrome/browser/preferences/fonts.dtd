@@ -10,8 +10,8 @@
 <!ENTITY  sizeProportional.accesskey              "з">
 <!ENTITY  sizeMonospace.accesskey                 "с">
 
-<!ENTITY  proportional.label                      "Пропорционални:">
-<!ENTITY  proportional.accesskey                  "П">
+<!ENTITY  proportional.label                      "Сразмерни:">
+<!ENTITY  proportional.accesskey                  "С">
 
 <!ENTITY  serif.label                             "Серифни:">
 <!ENTITY  serif.accesskey                         "С">
@@ -38,7 +38,7 @@
 <!ENTITY  font.langGroup.arabic                   "арапски">
 <!ENTITY  font.langGroup.devanagari               "деванагари">
 <!ENTITY  font.langGroup.tamil                    "тамилски">
-<!ENTITY  font.langGroup.armenian                 "арменски">
+<!ENTITY  font.langGroup.armenian                 "јерменски">
 <!ENTITY  font.langGroup.bengali                  "бенгалски">
 <!ENTITY  font.langGroup.canadian                 "уједињени канадски слоговни">
 <!ENTITY  font.langGroup.ethiopic                 "етиопски">
@@ -58,13 +58,12 @@
 <!ENTITY minSize.none                             "ниједна">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Са серифима">
+<!ENTITY  useDefaultFontSerif.label               "Серифни">
 <!ENTITY  useDefaultFontSansSerif.label           "Без серифа">
 
-<!ENTITY  allowPagesToUse.label                   "Дозволи странама да користе своје фонтове, уместо горе датог избора">
+<!ENTITY  allowPagesToUse.label                   "Дозволи страницама да користе сопствене фонтове уместо оног што ја изаберем">
 <!ENTITY  allowPagesToUse.accesskey               "Д">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Кодирање знакова">
 <!ENTITY languages.customize.DefaultCharset.label       "Подразумевано кодирање знакова">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "з">
-

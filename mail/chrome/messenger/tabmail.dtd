@@ -1,3 +1,2 @@
-<!ENTITY  closeTab.label           "Затвори језичак">
-<!ENTITY  listAllTabs.label        "Списак свих језичака">
-
+<!ENTITY closeTab.label "Затвори језичак">
+<!ENTITY listAllTabs.label "Списак свих језичака">

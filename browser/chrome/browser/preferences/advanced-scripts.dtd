@@ -40,10 +40,9 @@
 
 <!ENTITY allowScripts.label             "Скриптовима се дозвољава:">
 
-<!ENTITY moveResizePopupWindows.label     "Померање или промена величине искачућих прозора">
-<!ENTITY moveResizePopupWindows.accesskey "П">
+<!ENTITY moveResizePopupWindows.label     "Помери или промени величину искачућих прозора">
+<!ENTITY moveResizePopupWindows.accesskey "п">
 <!ENTITY raiseLowerWindows.label        "Промена редоследа прозора">
-<!ENTITY raiseLowerWindows.accesskey    "П">
+<!ENTITY raiseLowerWindows.accesskey    "р">
 <!ENTITY disableContextMenus.label      "Укидање или замена контекстних менија">
 <!ENTITY disableContextMenus.accesskey  "У">
-

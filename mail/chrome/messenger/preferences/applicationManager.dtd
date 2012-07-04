@@ -1,5 +1,4 @@
-<!ENTITY appManager.title     "Детаљи о програму">
-<!ENTITY appManager.style     "width: 40em; min-height: 20em;">
-<!ENTITY remove.label         "Уклони">
-<!ENTITY remove.accesskey     "У">
-
+<!ENTITY remove.accesskey "У">
+<!ENTITY appManager.style "width: 40em; min-height: 20em;">
+<!ENTITY remove.label "Уклони">
+<!ENTITY appManager.title "Детаљи о програму">

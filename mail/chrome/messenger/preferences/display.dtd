@@ -1,47 +1,39 @@
-<!ENTITY itemFormatting.label             "Обликовање">
-<!ENTITY itemTags.label                   "Ознаке">
-
-<!ENTITY style.label                      "Стил:">
-<!ENTITY style.accesskey                  "С">
-<!ENTITY regularStyle.label               "Обична">
-<!ENTITY bold.label                       "Подебљан">
-<!ENTITY italic.label                     "Искошен">
-<!ENTITY boldItalic.label                 "Подебљан и искошен">
-<!ENTITY size.label                       "Величина:">
-<!ENTITY size.accesskey                   "В">
-<!ENTITY regularSize.label                "Обична">
-<!ENTITY bigger.label                     "Већа">
-<!ENTITY smaller.label                    "Мања">
-<!ENTITY color.label                      "Боја:">
-<!ENTITY color.accesskey                  "Б">
-<!ENTITY displayWidth.label               "Обичне текстуалне поруке">
-<!ENTITY displayText.label                "При приказивању цитираних обичних текстуалних порука:">
-<!ENTITY colors.label                     "Боје">
-<!ENTITY overrideColors.label             "При приказивању порука, користи следеће боје:">
-<!ENTITY textColor.label                  "Боја текста:">
-<!ENTITY textColor.accesskey              "Б">
-<!ENTITY backgroundColor.label            "Боја позадине:">
-<!ENTITY backgroundColor.accesskey        "ј">
-
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Прикажи смешке као сличице">
-<!ENTITY convertEmoticons.accesskey    "П">
-
-<!-- labels -->
-<!ENTITY displayTagsText.label     "Ознаке се могу користити за разврставање и давање приоритета порукама.">
-<!ENTITY addTagButton.label        "Додај">
-<!ENTITY addTagButton.accesskey    "Д">
-<!ENTITY editTagButton.label       "Уреди">
-<!ENTITY editTagButton.accesskey   "У">
-<!ENTITY removeTagButton.label     "Уклони">
+<!ENTITY defaultSize.accesskey "В">
+<!ENTITY fontOptions.label "Писма…">
 <!ENTITY removeTagButton.accesskey "У">
-
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Фонтови">
-<!ENTITY defaultFont.label       "Изворно писмо:">
-<!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Величина:">
-<!ENTITY defaultSize.accesskey   "S">
-<!ENTITY fontOptions.accesskey   "П">
-<!ENTITY fontOptions.label       "Писма…">
-
+<!ENTITY bold.label "Подебљан">
+<!ENTITY size.accesskey "В">
+<!ENTITY textColor.accesskey "Б">
+<!ENTITY defaultSize.label "Величина:">
+<!ENTITY backgroundColor.label "Боја позадине:">
+<!ENTITY displayText.label "При приказивању цитираних обичних текстуалних порука:">
+<!ENTITY displayWidth.label "Обичне текстуалне поруке">
+<!ENTITY regularStyle.label "Обична">
+<!ENTITY color.accesskey "Б">
+<!ENTITY convertEmoticons.label "Прикажи смешке као сличице">
+<!ENTITY editTagButton.label "Уређивање">
+<!ENTITY style.accesskey "С">
+<!ENTITY fontOptions.accesskey "П">
+<!ENTITY addTagButton.label "Додај">
+<!ENTITY bigger.label "Већа">
+<!ENTITY displayTagsText.label "Ознаке се могу користити за разврставање и давање приоритета порукама.">
+<!ENTITY editTagButton.accesskey "У">
+<!ENTITY defaultFont.label "Изворно писмо:">
+<!ENTITY style.label "Стил:">
+<!ENTITY textColor.label "Боја текста:">
+<!ENTITY itemFormatting.label "Обликовање">
+<!ENTITY smaller.label "Мања">
+<!ENTITY defaultFont.accesskey "И">
+<!ENTITY colors.label "Боје">
+<!ENTITY removeTagButton.label "Уклони">
+<!ENTITY backgroundColor.accesskey "ј">
+<!ENTITY itemTags.label "Ознаке">
+<!ENTITY fontsAndColors.label "Фонтови">
+<!ENTITY color.label "Боја:">
+<!ENTITY convertEmoticons.accesskey "П">
+<!ENTITY italic.label "Искошен">
+<!ENTITY size.label "Величина:">
+<!ENTITY overrideColors.label "При приказивању порука, користи следеће боје:">
+<!ENTITY boldItalic.label "Подебљан и искошен">
+<!ENTITY regularSize.label "Обична">
+<!ENTITY addTagButton.accesskey "Д">

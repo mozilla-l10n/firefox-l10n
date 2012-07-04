@@ -1,109 +1,68 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY tableWindow.title                "Поставке табеле">
-<!ENTITY applyButton.label                "Примени">
-<!ENTITY applyButton.accesskey            "П">
-<!ENTITY closeButton.label                "Затвори">
-<!ENTITY tableTab.label                   "Табела">
-<!ENTITY cellTab.label                    "Ћелије">
-<!ENTITY tableRows.label                  "Редови">
-<!ENTITY tableRows.accessKey              "Р">
-<!ENTITY tableColumns.label               "Колоне:">
-<!ENTITY tableColumns.accessKey           "К">
-<!ENTITY tableHeight.label                "Висина">
-<!ENTITY tableHeight.accessKey            "В">
-<!ENTITY tableWidth.label                 "Ширина">
-<!ENTITY tableWidth.accessKey             "Ш">
-<!ENTITY tableBorderSpacing.label         "Оквир и размак">
-<!ENTITY tableBorderWidth.label           "Оквир:">
-<!ENTITY tableBorderWidth.accessKey       "О">
-<!ENTITY tableSpacing.label               "Размак:">
-<!ENTITY tableSpacing.accessKey           "Р">
-<!ENTITY tablePadding.label               "Испуна:">
-<!ENTITY tablePadding.accessKey           "И">
-<!ENTITY tablePxBetwCells.label           "тачака између ћелија">
+<!ENTITY backgroundColor.accessKey "ј">
+<!ENTITY AlignLeft.label "Улево">
+<!ENTITY tableSpacing.label "Размак:">
+<!ENTITY size.label "Величина">
+<!ENTITY applyButton.accesskey "П">
+<!ENTITY tableWidth.label "Ширина">
+<!ENTITY cellTextWrap.label "Прелом текста">
+<!ENTITY cellVertical.label "Вертикално:">
 <!ENTITY tablePxBetwBrdrCellContent.label "тачака између оквира ћелије и садржаја">
-<!ENTITY tableAlignment.label             "Уравнање табеле:">
-<!ENTITY tableAlignment.accessKey         "У">
-<!ENTITY tableCaption.label               "Наслов:">
-<!ENTITY tableCaption.accessKey           "Н">
-<!ENTITY tableCaptionAbove.label          "Изнад табеле">
-<!ENTITY tableCaptionBelow.label          "Испод табеле">
-<!ENTITY tableCaptionLeft.label           "Лево од табеле">
-<!ENTITY tableCaptionRight.label          "Десно од табеле">
-<!ENTITY tableCaptionNone.label           "Ниједна">
-<!ENTITY tableInheritColor.label           "(боја стране се провиди)">
-
-<!ENTITY cellSelection.label              "Избор">
-<!ENTITY cellSelectCell.label             "Ћелија">
-<!ENTITY cellSelectRow.label              "Ред">
-<!ENTITY cellSelectColumn.label           "Колона">
-<!ENTITY cellSelectNext.label             "Следећа">
-<!ENTITY cellSelectNext.accessKey         "С">
-<!ENTITY cellSelectPrevious.label         "Претходна">
-<!ENTITY cellSelectPrevious.accessKey     "П">
-<!ENTITY applyBeforeChange.label          "Тренутне измене биће примењене пре промене избора.">
-<!ENTITY cellContentAlignment.label       "Уравнање садржаја">
-<!ENTITY cellHorizontal.label             "Хоризонтално:">
-<!ENTITY cellHorizontal.accessKey         "Х">
-<!ENTITY cellVertical.label               "Вертикално:">
-<!ENTITY cellVertical.accessKey           "В">
-<!ENTITY cellStyle.label                  "Стил ћелије:">
-<!ENTITY cellStyle.accessKey              "С">
-<!ENTITY cellNormal.label                 "Нормалан">
-<!ENTITY cellHeader.label                 "Заглавље">
-<!ENTITY cellTextWrap.label               "Прелом текста">
-<!ENTITY cellTextWrap.accessKey           "П">
-<!ENTITY cellWrap.label                   "Преламај">
-<!ENTITY cellNoWrap.label                 "Не преламај">
-<!ENTITY cellAlignTop.label               "Врх">
-<!ENTITY cellAlignMiddle.label            "Средина">
-<!ENTITY cellAlignBottom.label            "Дно">
-<!ENTITY cellAlignJustify.label           "Уравнато">
-<!ENTITY cellInheritColor.label           "(боја позадине се провиди)">
-<!ENTITY cellUseCheckboxHelp.label        "Користи кућице за штиклирање за одређивање поставки које се користе за све ћелије">
-
-<!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label                       "Величина">
-<!ENTITY pixels.label                     "тачака">
-<!ENTITY backgroundColor.label            "Боја позадине:">
-<!ENTITY backgroundColor.accessKey        "ј">
-<!ENTITY AlignLeft.label                  "Улево">
-<!ENTITY AlignCenter.label                "Средина">
-<!ENTITY AlignRight.label                 "Десно">
-
+<!ENTITY tableColumns.accessKey "К">
+<!ENTITY cellSelectPrevious.label "Претходна">
+<!ENTITY backgroundColor.label "Боја позадине:">
+<!ENTITY tableCaptionBelow.label "Испод табеле">
+<!ENTITY cellStyle.accessKey "С">
+<!ENTITY cellHorizontal.accessKey "Х">
+<!ENTITY tableCaption.label "Наслов:">
+<!ENTITY applyButton.label "Примени">
+<!ENTITY tableCaptionNone.label "Ниједна">
+<!ENTITY cellSelectColumn.label "Колона">
+<!ENTITY cellHorizontal.label "Хоризонтално:">
+<!ENTITY cellNormal.label "Нормалан">
+<!ENTITY pixels.label "тачака">
+<!ENTITY cellSelectCell.label "Ћелија">
+<!ENTITY cellSelectNext.label "Следећа">
+<!ENTITY tableCaptionRight.label "Десно од табеле">
+<!ENTITY AlignCenter.label "Средина">
+<!ENTITY cellUseCheckboxHelp.label "Користи кућице за штиклирање за одређивање поставки које се користе за све ћелије">
+<!ENTITY cellAlignMiddle.label "Средина">
+<!ENTITY cellSelectPrevious.accessKey "П">
+<!ENTITY AlignRight.label "Десно">
+<!ENTITY cellContentAlignment.label "Уравнање садржаја">
+<!ENTITY tableHeight.accessKey "В">
+<!ENTITY cellHeader.label "Заглавље">
+<!ENTITY tableBorderWidth.accessKey "О">
+<!ENTITY cellSelectRow.label "Ред">
+<!ENTITY closeButton.label "Затвори">
+<!ENTITY cellAlignTop.label "Врх">
+<!ENTITY tableTab.label "Табела">
+<!ENTITY tableSpacing.accessKey "Р">
+<!ENTITY cellSelectNext.accessKey "С">
+<!ENTITY cellNoWrap.label "Не преламај">
+<!ENTITY cellTab.label "Ћелије">
+<!ENTITY tablePxBetwCells.label "тачака између ћелија">
+<!ENTITY tableCaptionLeft.label "Лево од табеле">
+<!ENTITY tableBorderWidth.label "Оквир:">
+<!ENTITY tableRows.accessKey "Р">
+<!ENTITY cellWrap.label "Преламај">
+<!ENTITY cellStyle.label "Стил ћелије:">
+<!ENTITY cellTextWrap.accessKey "П">
+<!ENTITY tableAlignment.label "Уравнање табеле:">
+<!ENTITY cellSelection.label "Избор">
+<!ENTITY tableRows.label "Редови">
+<!ENTITY tableHeight.label "Висина">
+<!ENTITY tableInheritColor.label "(боја стране се провиди)">
+<!ENTITY tablePadding.label "Испуна:">
+<!ENTITY tableBorderSpacing.label "Оквир и размак">
+<!ENTITY tableColumns.label "Колоне:">
+<!ENTITY tableWidth.accessKey "Ш">
+<!ENTITY tableCaption.accessKey "Н">
+<!ENTITY cellAlignJustify.label "Уравнато">
+<!ENTITY tableCaptionAbove.label "Изнад табеле">
+<!ENTITY cellAlignBottom.label "Дно">
+<!ENTITY tablePadding.accessKey "И">
+<!ENTITY cellInheritColor.label "(боја позадине се провиди)">
+<!ENTITY applyBeforeChange.label "Тренутне измене биће примењене пре промене избора.">
+<!ENTITY cellVertical.accessKey "В">
+<!ENTITY tableWindow.title "Поставке табеле">
+<!ENTITY tableAlignment.accessKey "У">

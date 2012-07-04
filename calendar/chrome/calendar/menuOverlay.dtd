@@ -1,99 +1,41 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Stefan Sitter <ssitter@googlemail.com>
-   -                 Berend Cornelius <berend.cornelius@sun.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!-- Event Menu -->
-<!ENTITY event.new.event                        "Нови догађај…">
-<!ENTITY event.new.event.key                    "N">
-<!ENTITY event.new.event.accesskey              "д">
-
-<!ENTITY event.new.task                         "Нови задатак…">
-<!ENTITY event.new.task.key                     "K">
-<!ENTITY event.new.task.accesskey               "Н">
-
-<!ENTITY calendar.new.server.label              "Нови календар…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "к">
-
-<!ENTITY calendar.print.label                   "Штампа…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "Ш">
-
-<!ENTITY calendar.import.label                  "Увоз…">
-<!ENTITY calendar.import.key                    "I">
-<!ENTITY calendar.import.accesskey              "У">
-
-<!ENTITY calendar.export.label                  "Извоз календара…">
-<!ENTITY calendar.export.accesskey              "в">
-<!ENTITY calendar.export.selection.label        "Извоз изабраног…">
-<!ENTITY calendar.export.selection.accesskey    "И">
-
-<!ENTITY calendar.publish.label                 "Објављивање…">
-<!ENTITY calendar.publish.accesskey             "б">
-
-<!ENTITY calendar.deletecalendar.label          "Уклони избрани календар…">
-<!ENTITY calendar.deletecalendar.accesskey      "л">
-
-<!ENTITY calendar.menu.customize.label          "Подешавања…">
-<!ENTITY calendar.menu.customize.accesskey      "њ">
-
-<!ENTITY showUnifinderCmd.label                 "Нађи догађаје">
-<!ENTITY showUnifinderCmd.accesskey             "а">
-
-<!ENTITY calendar.displaytodos.checkbox.label       "Приказ задатака у календару">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "П">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Број недеља">
-<!ENTITY calendar.menu.numberofweeks.2          "Две недеље">
-<!ENTITY calendar.menu.numberofweeks.3          "Три недеље">
-<!ENTITY calendar.menu.numberofweeks.4          "Четири недеље">
-<!ENTITY calendar.menu.numberofweeks.5          "Пет недеља">
-<!ENTITY calendar.menu.numberofweeks.6          "Шест недеља">
-
-<!ENTITY goTodayCmd.label                       "Данас">
-<!ENTITY goTodayCmd.accesskey                   "н">
-
-<!ENTITY showCurrentView.label                  "Текући избор">
-<!ENTITY showCurrentView.accesskey              "Т">
-
-<!ENTITY calendar.properties.label              "Својства календара…">
-<!ENTITY calendar.properties.accesskey          "С">
+<!ENTITY calendar.properties.label "Својства календара…">
+<!ENTITY calendar.properties.accesskey "С">
+<!ENTITY event.new.event.accesskey "д">
+<!ENTITY calendar.displaytodos.checkbox.accesskey "П">
+<!ENTITY showCurrentView.accesskey "Т">
+<!ENTITY calendar.displaytodos.checkbox.label "Приказ задатака у календару">
+<!ENTITY calendar.export.selection.label "Извоз изабраног…">
+<!ENTITY calendar.import.label "Увоз…">
+<!ENTITY calendar.deletecalendar.accesskey "л">
+<!ENTITY calendar.menu.numberofweeks.5 "Пет недеља">
+<!ENTITY event.new.task.key "K">
+<!ENTITY calendar.menu.numberofweeks.6 "Шест недеља">
+<!ENTITY event.new.event.key "N">
+<!ENTITY calendar.menu.numberofweeks.4 "Четири недеље">
+<!ENTITY calendar.menu.numberofweeks.3 "Три недеље">
+<!ENTITY calendar.menu.numberofweeks.2 "Две недеље">
+<!ENTITY event.new.task "Нови задатак…">
+<!ENTITY calendar.print.accesskey "Ш">
+<!ENTITY calendar.export.accesskey "в">
+<!ENTITY calendar.import.key "I">
+<!ENTITY goTodayCmd.label "Данас">
+<!ENTITY calendar.print.key "P">
+<!ENTITY goTodayCmd.accesskey "н">
+<!ENTITY calendar.export.selection.accesskey "И">
+<!ENTITY showUnifinderCmd.label "Нађи догађаје">
+<!ENTITY calendar.menu.customize.accesskey "њ">
+<!ENTITY calendar.new.server.key "L">
+<!ENTITY calendar.menu.numberofweeks.label "Број недеља">
+<!ENTITY calendar.publish.label "Објављивање…">
+<!ENTITY event.new.task.accesskey "k">
+<!ENTITY calendar.import.accesskey "У">
+<!ENTITY calendar.new.server.label "Нови календар…">
+<!ENTITY event.new.event "Нови догађај…">
+<!ENTITY calendar.deletecalendar.label "Уклони избрани календар…">
+<!ENTITY calendar.menu.customize.label "Подешавања…">
+<!ENTITY calendar.publish.accesskey "б">
+<!ENTITY calendar.export.label "Извоз календара…">
+<!ENTITY calendar.new.server.accesskey "к">
+<!ENTITY showCurrentView.label "Текући избор">
+<!ENTITY calendar.print.label "Штампа…">
+<!ENTITY showUnifinderCmd.accesskey "а">

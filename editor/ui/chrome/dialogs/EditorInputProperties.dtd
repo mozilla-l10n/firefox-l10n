@@ -1,83 +1,43 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Input Tag Properties Dialog.
-   -
-   - The Initial Developer of the Original Code is
-   - Neil Rashbrook.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY windowTitle.label "Својства поља формулара">
-<!ENTITY windowTitleImage.label "Својства слике формулара">
-
-<!ENTITY InputType.label "Врста поља:">
-<!ENTITY InputType.accesskey "В">
-<!ENTITY text.value "Текст">
-<!ENTITY password.value "Лозинка">
-<!ENTITY checkbox.value "Штиклирање">
-<!ENTITY radio.value "Радио дугме">
-<!ENTITY submit.value "Дугме за слање">
-<!ENTITY reset.value "Дугме за брисање">
-<!ENTITY file.value "Датотека">
-<!ENTITY hidden.value "Сакривено">
-<!ENTITY image.value "Слика">
-<!ENTITY button.value "Дугме">
-
-<!ENTITY InputSettings.label "Поставке поља">
-<!ENTITY InputName.label "Име поља:">
-<!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Име групе:">
-<!ENTITY GroupName.accesskey "И">
-<!ENTITY InputValue.label "Вредност поља:">
-<!ENTITY InputValue.accesskey "В">
-<!ENTITY InitialValue.label "Почетна вредност:">
-<!ENTITY InitialValue.accesskey "П">
-<!ENTITY InputChecked.label "Изабрано на почетку">
-<!ENTITY InputChecked.accesskey "п">
-<!ENTITY InputSelected.label "Изабрано на почетку">
-<!ENTITY InputSelected.accesskey "ч">
-<!ENTITY InputReadOnly.label "Само читање">
-<!ENTITY InputReadOnly.accesskey "м">
-<!ENTITY InputDisabled.label "Искључено">
+<!ENTITY TextSize.accesskey "љ">
 <!ENTITY InputDisabled.accesskey "И">
+<!ENTITY ImageProperties.accesskey "С">
+<!ENTITY AccessKey.accesskey "у">
+<!ENTITY InputType.accesskey "В">
+<!ENTITY Accept.accesskey "Д">
+<!ENTITY button.value "Дугме">
+<!ENTITY reset.value "Дугме за брисање">
+<!ENTITY InitialValue.accesskey "V">
+<!ENTITY radio.value "Радио дугме">
+<!ENTITY ImageProperties.label "Својства слике…">
+<!ENTITY hidden.value "Сакривено">
+<!ENTITY InputReadOnly.label "Само читање">
+<!ENTITY InputName.label "Име поља:">
+<!ENTITY checkbox.value "Штиклирање">
+<!ENTITY AccessKey.label "Тастер за приступ:">
+<!ENTITY GroupName.accesskey "N">
+<!ENTITY TextLength.accesskey "ж">
+<!ENTITY GroupName.label "Group Name:">
+<!ENTITY InputSelected.label "Изабрано на почетку">
+<!ENTITY InputSettings.label "Поставке поља">
+<!ENTITY InputSelected.accesskey "ч">
+<!ENTITY windowTitleImage.label "Својства слике формулара">
+<!ENTITY password.value "Лозинка">
+<!ENTITY InputName.accesskey "И">
+<!ENTITY Accept.label "Дозвољене врсте:">
+<!ENTITY submit.value "Дугме за слање">
+<!ENTITY TextSize.label "Величина поља:">
+<!ENTITY InputChecked.label "Изабрано на почетку">
+<!ENTITY windowTitle.label "Својства поља формулара">
+<!ENTITY InputChecked.accesskey "п">
 <!ENTITY tabIndex.label "Индекс језичка">
 <!ENTITY tabIndex.accesskey "к">
-<!ENTITY TextSize.label "Величина поља:">
-<!ENTITY TextSize.accesskey "љ">
+<!ENTITY text.value "Текст">
+<!ENTITY InputType.label "Врста поља:">
+<!ENTITY InputDisabled.label "Искључено">
+<!ENTITY InputReadOnly.accesskey "м">
+<!ENTITY file.value "Датотека">
 <!ENTITY TextLength.label "Највећа дужина">
-<!ENTITY TextLength.accesskey "ж">
-<!ENTITY AccessKey.label "Тастер за приступ:">
-<!ENTITY AccessKey.accesskey "у">
-<!ENTITY Accept.label "Дозвољене врсте:">
-<!ENTITY Accept.accesskey "Д">
-
-<!ENTITY ImageProperties.label "Својства слике…">
-<!ENTITY ImageProperties.accesskey "С">
-
+<!ENTITY InitialValue.label "Initial Value:">
+<!ENTITY image.value "Слика">
+<!ENTITY InputValue.label "Field Value:">
+<!ENTITY InputValue.accesskey "V">

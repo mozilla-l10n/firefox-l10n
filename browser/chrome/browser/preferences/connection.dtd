@@ -38,4 +38,3 @@
 <!ENTITY  noproxyExplain.label          "Пример: .mozilla-srbija.org, .rastko.rs, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Користи овог посредника за све протоколе">
 <!ENTITY  shareproxy.accesskey          "К">
-
