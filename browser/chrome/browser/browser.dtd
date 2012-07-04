@@ -633,5 +633,5 @@ hovers over the HTML panel's toolbar button. -->
 
 <!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.accesskey          "ס">
 
