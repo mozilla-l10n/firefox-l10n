@@ -1,38 +1,28 @@
-<!-- extracted from am-addressing.xul -->
-
-<!ENTITY addressing.label          "Писање и адресирање">
+<!ENTITY useGlobal.accesskey "К">
+<!ENTITY belowQuote.label "почни одговор испод цитата">
+<!ENTITY autoQuote.label "Аутоматски цитирај изворну поруку при одговарању">
+<!ENTITY place.accesskey "п">
+<!ENTITY useHtml.accesskey "т">
+<!ENTITY editDirectories.label "Уреди директоријуме…">
+<!ENTITY includeSigOnReply.label "Унеси потпис за одговоре">
+<!ENTITY addressingText.label "При тражењу адреса:">
+<!ENTITY then.accesskey "О">
+<!ENTITY belowText.label "испод цитата (препоручено)">
 <!ENTITY addressingGroupTitle.label "Адресирање">
-<!ENTITY addressingText.label      "При тражењу адреса:">
-<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Користи глобална LDAP подешавања за овај налог">
-<!ENTITY useGlobal.accesskey       "К">
-<!ENTITY editDirectories.label     "Уреди директоријуме…">
+<!ENTITY autoQuote.accesskey "ц">
+<!ENTITY directories.label "Користи други сервер за LDAP:">
+<!ENTITY directories.accesskey "д">
+<!ENTITY then.label "Онда,">
+<!ENTITY includeSigOnForward.label "Убаци потписе у прослеђене поруке">
+<!ENTITY useGlobal.label "Користи глобална LDAP подешавања за овај налог">
 <!ENTITY editDirectories.accesskey "У">
-<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Користи други сервер за LDAP:">
-<!ENTITY directories.accesskey     "д">
-<!ENTITY directoriesNone.label     "Ниједан">
-
-<!-- am-addressing.xul -->
-
+<!ENTITY includeSigOnReply.accesskey "У">
+<!ENTITY aboveQuote.label "почни одговор изнад цитата">
+<!ENTITY selectAndQuote.label "изабери цитат">
+<!ENTITY useHtml.label "Састављај поруке у HTML формату">
+<!ENTITY aboveText.label "испод мог одговора (изнад цитата)">
+<!ENTITY directoriesNone.label "Ниједан">
+<!ENTITY addressing.label "Писање и адресирање">
 <!ENTITY compositionGroupTitle.label "Састављање">
-<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Састављај поруке у HTML формату">
-<!ENTITY useHtml.accesskey                    "т">
-<!ENTITY autoQuote.label                      "Аутоматски цитирај изворну поруку при одговарању">
-<!ENTITY autoQuote.accesskey                  "ц">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Онда,">
-<!ENTITY then.accesskey                       "О">
-<!ENTITY aboveQuote.label                     "почни одговор изнад цитата">
-<!ENTITY belowQuote.label                     "почни одговор испод цитата">
-<!ENTITY selectAndQuote.label                 "изабери цитат">
-<!ENTITY place.label                          "и стави потпис">
-<!ENTITY place.accesskey                      "п">
-<!ENTITY belowText.label                      "испод цитата (препоручено)">
-<!ENTITY aboveText.label                      "испод мог одговора (изнад цитата)">
-<!ENTITY includeSigOnReply.label              "Користи потписе у одговорима">
-<!ENTITY includeSigOnReply.accesskey          "К">
-<!ENTITY includeSigOnForward.label            "Користи потписе при прослеђивању">
-<!ENTITY includeSigOnForward.accesskey        "К">
-
+<!ENTITY includeSigOnForward.accesskey "У">
+<!ENTITY place.label "и стави потпис">

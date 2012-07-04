@@ -1,6 +1,3 @@
-<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
-
 <!ENTITY title.label "Преузимање сертификата">
-<!ENTITY info.message "Претражујем каталог у потрази за сертификатима прималаца. Ово може да потраје неколико тренутака.">
 <!ENTITY stop.label "Обустави претрагу">
-
+<!ENTITY info.message "Претражујем каталог у потрази за сертификатима прималаца. Ово може да потраје неколико тренутака.">

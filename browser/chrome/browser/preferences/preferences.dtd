@@ -7,7 +7,7 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Основне поставке">
+<!ENTITY  paneGeneral.title       "Опште">
 <!ENTITY  paneTabs.title          "Језичци">
 <!ENTITY  paneContent.title       "Садржај">
 <!ENTITY  paneApplications.title  "Програми">

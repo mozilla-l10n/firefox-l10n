@@ -1,17 +1,11 @@
-<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "Питање о HTML порукама">
-
-<!ENTITY recipient.label "Неки примаоци нису на списку особа које могу да примају HTML поруке.">
-
-<!ENTITY question.label "Да ли желите да пребаците проуку у обичан текст или да је ипак пошаљете као HTML?">
-
 <!ENTITY plainTextAndHtml.label "Пошаљи као обичан текст и ХТМЛ">
-<!ENTITY plainTextAndHtml.accesskey "о">
 <!ENTITY plainTextOnly.label "Пошаљи само као обичан текст">
+<!ENTITY question.label "Да ли желите да пребаците проуку у обичан текст или да је ипак пошаљете као HTML?">
 <!ENTITY plainTextOnly.accesskey "т">
-<!ENTITY htmlOnly.label "Пошаљи само као ХТМЛ">
-<!ENTITY htmlOnly.accesskey "Х">
-
+<!ENTITY windowTitle.label "Питање о HTML порукама">
 <!ENTITY send.label "Шаљи">
+<!ENTITY plainTextAndHtml.accesskey "о">
+<!ENTITY recipient.label "Неки примаоци нису на списку особа које могу да примају HTML поруке.">
+<!ENTITY htmlOnly.accesskey "Х">
+<!ENTITY htmlOnly.label "Пошаљи само као ХТМЛ">
 <!ENTITY send.accesskey "Ш">
-

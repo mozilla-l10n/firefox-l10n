@@ -16,7 +16,7 @@
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Инсталатер">
-<!ENTITY select.name                 "Име">
+<!ENTITY select.name                 "Назив">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->

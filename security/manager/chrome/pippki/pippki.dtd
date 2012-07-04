@@ -111,7 +111,7 @@
 <!ENTITY escrowWarn.benefit1 "Предност је да ако изгубите приступ приватном кључу, можете да тражите умножак од ауторитета за сертификат.">
 <!ENTITY escrowWarn.message2 "Међутим, Ваш приватни кључ биће чуван код ауторитета за сертификат и може да се користи за читање шифроване поште или докумената без Ваше дозволе.">
 <!ENTITY examineCert.label "Преглед сертификата">
-<!ENTITY examineCert.accesskey "р">
+<!ENTITY examineCert.accesskey "П">
 
 <!ENTITY serverCrlNextupdate.message "Обратите се за помоћ администратору система">
 

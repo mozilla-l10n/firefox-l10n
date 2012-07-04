@@ -1,69 +1,32 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla addressbook.
-   -
-   - The Initial Developer of the Original Code is
-   - Seth Spitzer <sspitzer@netscape.com>.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY GeneratedName.label                   "Име">
-<!ENTITY GeneratedName.accesskey               "И">
-<!ENTITY PrimaryEmail.label                    "Ел. адреса">
-<!ENTITY PrimaryEmail.accesskey                "Е">
-<!ENTITY Company.label                         "Организација">
-<!ENTITY Company.accesskey                     "О">
-<!ENTITY _PhoneticName.label                   "Phonetic Name">
-<!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Надимак">
-<!ENTITY NickName.accesskey                    "Н">
-<!ENTITY SecondEmail.label                     "Додатна ел. адреса">
-<!ENTITY SecondEmail.accesskey                 "Д">
-<!ENTITY Department.label                      "Одељење">
-<!ENTITY Department.accesskey                  "љ">
-<!ENTITY JobTitle.label                        "Титула">
-<!ENTITY JobTitle.accesskey                    "Т">
-<!ENTITY CellularNumber.label                  "Мобилни">
-<!ENTITY CellularNumber.accesskey              "М">
-<!ENTITY PagerNumber.label                     "Пејџер">
-<!ENTITY PagerNumber.accesskey                 "П">
-<!ENTITY FaxNumber.label                       "Факс">
-<!ENTITY FaxNumber.accesskey                   "Ф">
-<!ENTITY HomePhone.label                       "Кућни број">
-<!ENTITY HomePhone.accesskey                   "К">
-<!ENTITY WorkPhone.label                       "Телефон на послу">
-<!ENTITY WorkPhone.accesskey                   "Т">
-<!ENTITY ScreenName.label                      "Екранско име">
-<!ENTITY ScreenName.accesskey                  "Е">
-<!ENTITY sortAscending.label                   "Растући">
-<!ENTITY sortAscending.accesskey               "Р">
-<!ENTITY sortDescending.label                  "Опадајући">
-<!ENTITY sortDescending.accesskey              "О">
-
+<!ENTITY Department.label "Одељење">
+<!ENTITY Company.label "Организација">
+<!ENTITY ScreenName.accesskey "Е">
+<!ENTITY GeneratedName.accesskey "И">
+<!ENTITY PrimaryEmail.accesskey "Е">
+<!ENTITY NickName.label "Надимак">
+<!ENTITY sortAscending.accesskey "Р">
+<!ENTITY NickName.accesskey "Н">
+<!ENTITY JobTitle.label "Титула">
+<!ENTITY ScreenName.label "Екранско име">
+<!ENTITY SecondEmail.accesskey "Д">
+<!ENTITY WorkPhone.accesskey "Т">
+<!ENTITY HomePhone.label "Кућни број">
+<!ENTITY HomePhone.accesskey "К">
+<!ENTITY FaxNumber.accesskey "Ф">
+<!ENTITY CellularNumber.label "Мобилни">
+<!ENTITY JobTitle.accesskey "Т">
+<!ENTITY FaxNumber.label "Факс">
+<!ENTITY PagerNumber.accesskey "П">
+<!ENTITY Company.accesskey "О">
+<!ENTITY SecondEmail.label "Додатна ел. адреса">
+<!ENTITY sortDescending.label "Опадајући">
+<!ENTITY CellularNumber.accesskey "М">
+<!ENTITY sortDescending.accesskey "О">
+<!ENTITY _PhoneticName.label "Фонетско име">
+<!ENTITY sortAscending.label "Растући">
+<!ENTITY PrimaryEmail.label "Ел. адреса">
+<!ENTITY GeneratedName.label "Име">
+<!ENTITY WorkPhone.label "Телефон на послу">
+<!ENTITY _PhoneticName.accesskey "Ф">
+<!ENTITY Department.accesskey "љ">
+<!ENTITY PagerNumber.label "Пејџер">

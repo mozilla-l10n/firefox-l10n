@@ -1,36 +1,31 @@
-<!ENTITY messengerStartPage.label         "Прва страна за &brandShortName;">
-<!ENTITY enableStartPage.label            "Када се програм &brandShortName; покрене, прикажи почетну страну у прозору за поруке">
-<!ENTITY enableStartPage.accesskey        "ж">
-<!ENTITY location.label                   "Место:">
-<!ENTITY location1.accesskey               "М">
-<!ENTITY useDefault.label                 "Врати изворно">
-<!ENTITY useDefault.accesskey             "В">
-
-<!ENTITY bounceSystemDockIcon.label       "Анимација сличице у обавештајној зони">
-<!ENTITY bounceSystemDockIcon.accesskey   "м">
-
-<!ENTITY newMessagesArrive.label          "Када поруке стигну:">
-<!ENTITY playSound.label                  "Пусти звук">
-<!ENTITY playSound1.accesskey              "з">
-<!ENTITY showAnimatedAlert.label          "Прикажи обавештење">
-<!ENTITY showAnimatedAlert.accesskey      "П">
-<!ENTITY customizeMailAlert.label         "Прилагоди…">
-<!ENTITY customizeMailAlert.accesskey     "П">
-
-<!ENTITY play.label                       "Пусти">
-<!ENTITY play.accesskey                   "с">
-<!ENTITY systemsound.label                "Подразумевани системски звук за нову пошту">
-<!ENTITY systemsoundMac.label             "Системски звук">
-<!ENTITY systemsoundMac.accesskey         "С">
-<!ENTITY systemsound.accesskey            "в">
-<!ENTITY customsound.label                "Користи овај звучни запис">
-<!ENTITY customsound.accesskey            "К">
-<!ENTITY browse.label                     "Преглед…">
-<!ENTITY browse.accesskey                 "П">
-
-<!ENTITY addonsMgr.label                  "Додаци">
-<!ENTITY manageAddonsDescWin.label        "Промена опција за додатке">
-<!ENTITY manageAddonsDescUnix2.label      "Промените опције додацима">
-<!ENTITY manageAddons.label               "Управљање додацима…">
-<!ENTITY manageAddons.accesskey           "У">
-
+<!ENTITY playSound.label "Пусти звук">
+<!ENTITY messengerStartPage.label "Прва страна за &brandShortName;">
+<!ENTITY systemsound.label "Подразумевани системски звук за нову пошту">
+<!ENTITY browse.label "Преглед…">
+<!ENTITY systemsound.accesskey "в">
+<!ENTITY useDefault.label "Врати изворно">
+<!ENTITY location.label "Место:">
+<!ENTITY enableStartPage.accesskey "ж">
+<!ENTITY customizeMailAlert.accesskey "П">
+<!ENTITY playSound1.accesskey "з">
+<!ENTITY manageAddons.label "Управљање додацима…">
+<!ENTITY manageAddonsDescUnix2.label "Промените опције додацима">
+<!ENTITY systemsoundMac.label "Системски звук">
+<!ENTITY browse.accesskey "П">
+<!ENTITY showAnimatedAlert.accesskey "П">
+<!ENTITY bounceSystemDockIcon.accesskey "м">
+<!ENTITY customsound.accesskey "К">
+<!ENTITY manageAddons.accesskey "У">
+<!ENTITY customizeMailAlert.label "Прилагоди…">
+<!ENTITY enableStartPage.label "Када се програм &brandShortName; покрене, прикажи почетну страну у прозору за поруке">
+<!ENTITY play.accesskey "с">
+<!ENTITY location1.accesskey "М">
+<!ENTITY play.label "Пусти">
+<!ENTITY addonsMgr.label "Додаци">
+<!ENTITY systemsoundMac.accesskey "С">
+<!ENTITY showAnimatedAlert.label "Прикажи обавештење">
+<!ENTITY bounceSystemDockIcon.label "Анимација сличице у обавештајној зони">
+<!ENTITY useDefault.accesskey "В">
+<!ENTITY manageAddonsDescWin.label "Промена опција за додатке">
+<!ENTITY newMessagesArrive.label "Када поруке стигну:">
+<!ENTITY customsound.label "Користи овај звучни запис">

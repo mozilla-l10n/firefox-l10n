@@ -1,29 +1,27 @@
-<!ENTITY securityTitle.label "Безбедност">
-<!ENTITY securityTab.label "Безбедност">
-<!ENTITY securityHeading.label "Да бисте примали или слали потписане или шифроване поруке, морате одредити и сертификат за дигитални потпис и сертификат за шифровање.">
-<!ENTITY encryptionGroupTitle.label "Шифровање">
-<!ENTITY encryptionChoiceLabel.label "Изворно подршавање за шифровање при слању порука:">
-<!ENTITY neverEncrypt.label "Никада (не користи шифровање)">
-<!ENTITY neverEncrypt.accesskey "Н">
-<!ENTITY alwaysEncryptMessage.label "Неопходно (није могуће послати поруку осим ако сви примаоци имају сертификате)">
-<!ENTITY alwaysEncryptMessage.accesskey "х">
-<!ENTITY encryptionCert.message "Употреби овај сертификат за шифровање и дешифровање порука које су ми послате:">
-<!ENTITY digitalSign.certificate.button "Избор…">
-<!ENTITY digitalSign.certificate.accesskey "И">
-<!ENTITY digitalSign.certificate_clear.button "Очисти">
-<!ENTITY digitalSign.certificate_clear.accesskey "О">
-<!ENTITY encryption.certificate.button "Избор…">
-<!ENTITY encryption.certificate.accesskey "з">
+<!ENTITY signMessage.label "Digitally sign messages (by default)">
 <!ENTITY encryption.certificate_clear.button "Очисти">
-<!ENTITY encryption.certificate_clear.accesskey "с">
+<!ENTITY neverEncrypt.accesskey "Н">
+<!ENTITY digitalSign.certificate_clear.button "Очисти">
 <!ENTITY signingGroupTitle.label "Дигитални потпис">
-<!ENTITY signMessage.label "Дигитално потпиши поруке (подразумевано)">
-<!ENTITY signMessage.accesskey "Д">
-<!ENTITY signingCert.message "Користи овај сертификат за дигитални потпис на поруке које ја шаљем:">
-
-<!ENTITY certificates.label "Сертификати">
-<!ENTITY manageCerts.label "Преглед сертификата">
 <!ENTITY manageCerts.accesskey "П">
-<!ENTITY manageDevices.label "Безбедносни уређаји">
+<!ENTITY digitalSign.certificate.accesskey "И">
+<!ENTITY securityTitle.label "Безбедност">
+<!ENTITY neverEncrypt.label "Никада (не користи шифровање)">
 <!ENTITY manageDevices.accesskey "ђ">
-
+<!ENTITY digitalSign.certificate.button "Избор…">
+<!ENTITY digitalSign.certificate_clear.accesskey "О">
+<!ENTITY securityTab.label "Безбедност">
+<!ENTITY encryptionChoiceLabel.label "Изворно подршавање за шифровање при слању порука:">
+<!ENTITY encryption.certificate.button "Избор…">
+<!ENTITY manageDevices.label "Безбедносни уређаји">
+<!ENTITY alwaysEncryptMessage.accesskey "х">
+<!ENTITY encryption.certificate.accesskey "з">
+<!ENTITY signingCert.message "Користи овај сертификат за дигитални потпис на поруке које ја шаљем:">
+<!ENTITY securityHeading.label "Да бисте примали или слали потписане или шифроване поруке, морате одредити и сертификат за дигитални потпис и сертификат за шифровање.">
+<!ENTITY manageCerts.label "Преглед сертификата">
+<!ENTITY encryptionCert.message "Употреби овај сертификат за шифровање и дешифровање порука које су ми послате:">
+<!ENTITY certificates.label "Сертификати">
+<!ENTITY encryptionGroupTitle.label "Шифровање">
+<!ENTITY alwaysEncryptMessage.label "Неопходно (није могуће послати поруку осим ако сви примаоци имају сертификате)">
+<!ENTITY encryption.certificate_clear.accesskey "с">
+<!ENTITY signMessage.accesskey "D">

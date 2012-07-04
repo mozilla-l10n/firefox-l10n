@@ -14,14 +14,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; вам је дат на коришћење под условима">
 <!ENTITY rights.intro-point1b "Мозилине јавне лиценце">
-<!ENTITY rights.intro-point1c ". То значи да можете да користите, умножавате и делите програм &brandShortName; трећим лицима. Такође сте слободни да мењате изворни код програма &brandShortName; по сопственом нахођењу. Мозилина јавна лиценца (Mozilla Public License) Вам такође даје право да делите измењена издања.">
+<!ENTITY rights.intro-point1c ".  То значи да можете да користите, умножавате и даље делите програм &brandShortName; другима.  Такође можете слободно да мењате изворни код програма &brandShortName; онако како одговара Вашим потребама.  Мозилина јавна лиценца Вам такође даје право да делите Ваше измењено издање.">
 
-<!ENTITY rights.intro-point2-a "Нису Вам додељена никаква права на заштитне знакове или лиценце за заштитне знакове задужбине Мозила или било које стране, укључујући без ограничења назив или лого фајерфокса. Додатне податке о заштитним знаковима можете наћи ">
+<!ENTITY rights.intro-point2-a "Нису Вам додељена никаква права на заштитне знакове или лиценце за заштитне знакове задужбине Мозила или било које стране, укључујући без ограничења назив или лого фајерфокса. Додатке информације о заштитним знаковима можете да добијете ">
 <!ENTITY rights.intro-point2-b "овде">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Неке одлике програма &brandShortName;, као што је пријављивач грешака, дају Вам могућност да пошаљете повратне информације издавачу &vendorShortName;. Слањем тих информација, дајете издавачу &vendorShortName; дозовлу да их користи за побољшање својих производа, објављује на својим веб сајтовима и # делити.">
+<!ENTITY rights.intro-point2.5 "Неки делови програма &brandShortName;, као што је извештавање о рушењима, дају вам могућност да пошаљете повратне информације произвођачу &vendorShortName;. Слањем тих информација, дајете произвођачу дозволу да их користи за побољшавање својих производа, да их објављује на својим веб-сајтовима и да дели повратне информације.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Како користимо ваше личне и повратне информације и послате издавачу &vendorShortName; кроз &brandShortName; описано је у ">
@@ -53,7 +53,7 @@
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-a "Безбедно читање:">
 <!ENTITY rights.safebrowsing-b "Онемогућавање могућности безбедног прегледања није препоручљиво, јер можете залутати на несигурне сајтове. Ако желите да потпуно онемогућите ову могућност, пратите следеће кораке:">
 <!ENTITY rights.safebrowsing-term1 "Отвори подешавања аапликације">
 <!ENTITY rights.safebrowsing-term2 "Изаберите Безбедност">
@@ -67,7 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Тип geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Двапут кликните на подешавања geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware прегледање је сада онемогућено">
+<!ENTITY rights.locationawarebrowsing-term4 "Читање осетљиво на положај је онемогућено">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Преглед сервиса веб сајта које производ укључује, заједно са подацима како да искључите, уколико је то могуће.">

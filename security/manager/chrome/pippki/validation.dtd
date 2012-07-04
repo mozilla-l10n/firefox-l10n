@@ -35,34 +35,34 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  validation.crlmanager.label             "Уређење ЛПС">
-<!ENTITY  validation.crlmanager.description       "Ови спискови опозива сертификата (CRL) су сачувани у Вашој бази података:">
+<!ENTITY  validation.crlmanager.label             "Управљај CRL-ом">
+<!ENTITY  validation.crlmanager.description       "Ови спискови проверених сертификата (CRL) су сачувани у базу података:">
 <!ENTITY  validation.crlname.label                "Назив">
-<!ENTITY  validation.crllastupdate.label          "Последње унапређење">
-<!ENTITY  validation.crlnextupdate.label          "Следеће унапређење">
-<!ENTITY  validation.crlautoupdateenabled.label   "Самоунапређење">
-<!ENTITY  validation.crlautoupdatestatus.label    "Статус самоунапређења">
-<!ENTITY  validation.deletecrl.label              "Уклони">
-<!ENTITY  validation.deletecrl.accesskey          "к">
-<!ENTITY  validation.updatecrl.label              "Освежи">
-<!ENTITY  validation.updatecrl.accesskey          "в">
+<!ENTITY  validation.crllastupdate.label          "Последња доградња">
+<!ENTITY  validation.crlnextupdate.label          "Следећа доградња">
+<!ENTITY  validation.crlautoupdateenabled.label   "Аутоматска доградња">
+<!ENTITY  validation.crlautoupdatestatus.label    "Стање аутоматске доградње">
+<!ENTITY  validation.deletecrl.label              "Уклони ставку">
+<!ENTITY  validation.deletecrl.accesskey          "У">
+<!ENTITY  validation.updatecrl.label              "Обнављања">
+<!ENTITY  validation.updatecrl.accesskey          "О">
 <!ENTITY  validation.advanced.label               "Подешавања">
-<!ENTITY  validation.advanced.accesskey           "д">
+<!ENTITY  validation.advanced.accesskey           "П">
 
-<!ENTITY  validation.crl.autoupdate.title         "Подешавање самоунапређења ЛПС-а">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Укључи аутоматску доградњу за ове ЛПС">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Освежи">
-<!ENTITY  validation.crl.autoupdate.time.label2   "Дан(а) до следећег унапређења">
-<!ENTITY  validation.crl.autoupdate.freq.label1   "Обнављај сваких">
-<!ENTITY  validation.crl.autoupdate.freq.label2   "дан">
+<!ENTITY  validation.crl.autoupdate.title         "Поставке аутоматске доградње CRL-а">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Омогући аутоматску доградњу за овај CRL">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Уреди">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Број дана до следеће доградње">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Ажурирај сваких">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "дана">
 <!ENTITY  validation.crl.autoupdate.url.label     "ЛПС ће бити увезен:">
-<!ENTITY  crl.import.status.title                 "Статус увоза ЛПС">
-<!ENTITY  crl.import.success.message              "Листа проверених сертификата (ЛПС) је успешно увежена.">
-<!ENTITY  crl.issuer.label                        "ЛПС је издат од:">
+<!ENTITY  crl.import.status.title                 "Стање увоза CRL-а">
+<!ENTITY  crl.import.success.message              "Списак проверених сертификата (CPL) је увезен.">
+<!ENTITY  crl.issuer.label                        "CPL је издат од:">
 <!ENTITY  crl.issuer.org.label                    "Организација:">
 <!ENTITY  crl.issuer.orgunit.label                "Јединица:">
-<!ENTITY  crl.import.nextupdate.label             "Следеће унапређење:">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Грешке приликом претходног унапређењеа:">
+<!ENTITY  crl.import.nextupdate.label             "Следећа доградња: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Грешке током претходне доградње: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Детаљи о последњој грешци:">
 <!ENTITY  edit.button                             "Подешавања">
 
