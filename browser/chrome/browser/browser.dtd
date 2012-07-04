@@ -289,8 +289,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Amestar esti cuadru a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "Unviar páxina…">
-<!ENTITY sendPageCmd.accesskey "U">
+
 <!ENTITY savePageCmd.label "Guardar como…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.accesskey2 "d">
@@ -301,20 +300,16 @@
 <!ENTITY printFrameCmd.accesskey "P">
 <!ENTITY saveLinkCmd.label "Guardar enllaz como…">
 <!ENTITY saveLinkCmd.accesskey "n">
-<!ENTITY sendLinkCmd.label "Unviar enllaz…">
-<!ENTITY sendLinkCmd.accesskey "z">
+
 <!ENTITY saveImageCmd.label "Guardar imaxe como…">
 <!ENTITY saveImageCmd.accesskey "u">
 <!ENTITY saveVideoCmd.label "Guardar videu como…">
 <!ENTITY saveVideoCmd.accesskey "v">
 <!ENTITY saveAudioCmd.label "Guardar audiu como…">
 <!ENTITY saveAudioCmd.accesskey "a">
-<!ENTITY sendImageCmd.label "Unviar imaxe…">
-<!ENTITY sendImageCmd.accesskey "x">
-<!ENTITY sendVideoCmd.label "Unviar videu…">
-<!ENTITY sendVideoCmd.accesskey "n">
-<!ENTITY sendAudioCmd.label "Unviar audiu…">
-<!ENTITY sendAudioCmd.accesskey "n">
+
+
+
 <!ENTITY copyLinkCmd.label "Copiar la ruta del enllaz">
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageCmd.label "Copiar la ruta de la imaxe">
