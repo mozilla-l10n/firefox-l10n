@@ -17,7 +17,7 @@
 
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
-<!ENTITY remoteDebuggerMenu.label    "Daljinski razhroščevalnik">
+<!ENTITY remoteDebuggerMenu.label    "Oddaljen razhroščevalnik">
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
@@ -33,23 +33,23 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions          "Premor o izjemah">
+<!ENTITY debuggerUI.pauseExceptions          "Premor ob izjemah">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Korak preko">
+<!ENTITY debuggerUI.stepOverButton.tooltip   "Prestopi">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
   -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton.tooltip     "Korak v">
+<!ENTITY debuggerUI.stepInButton.tooltip     "Vstopi">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
   -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton.tooltip    "Korak ven">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "Izstopi">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
-<!ENTITY debuggerUI.stackTitle       "Sklad klicev">
+<!ENTITY debuggerUI.stackTitle       "Sklad klica">
 
 <!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
   -  widget that displays the source code for the script that is currently
@@ -59,12 +59,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Področje spremenljivke">
+<!ENTITY debuggerUI.propertiesTitle  "Obseg spremenljivk">
 
 <!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
   -  appears in the filter text box when it is empty. -->
-<!ENTITY debuggerUI.emptyFilterText  "Skripti za filtre">
+<!ENTITY debuggerUI.emptyFilterText  "Filter skriptov">
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "Brez skriptov.">
+<!ENTITY debuggerUI.emptyScriptText  "Ni skriptov.">
