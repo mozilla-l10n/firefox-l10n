@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Ein Plugin wird benötigt, um diese Inhalte darzustellen.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tippen Sie hier, um das Plugin zu aktivieren.">
-<!ENTITY clickToPlayPlugins                                  "Klicken Sie hier, um Plugins zu aktivieren.">
+<!ENTITY clickToPlayPlugin                                   "Klicken Sie hier, um das Plugin zu aktivieren.">
 <!ENTITY disabledPlugin                                      "Dieses Plugin ist deaktiviert.">
 <!ENTITY blockedPlugin.label                                 "Dieses Plugin wurde zu Ihrem Schutz blockiert.">
 
