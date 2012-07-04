@@ -57,7 +57,7 @@
 <!ENTITY clearCacheNow.label             "Bersihkan Sekarang">
 <!ENTITY clearCacheNow.accesskey         "g">
 <!ENTITY clearOfflineAppCacheNow.label   "Bersihkan Sekarang">
-<!ENTITY clearOfflineAppCacheNow.accesskey "n">
+<!ENTITY clearOfflineAppCacheNow.accesskey "a">
 <!ENTITY overrideSmartCacheSize.label    "Gunakan pengaturan tembolok manual">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
