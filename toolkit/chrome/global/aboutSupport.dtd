@@ -25,6 +25,7 @@
 
 <!ENTITY aboutSupport.a11yTitle "Pieejamība">
 <!ENTITY aboutSupport.a11yActivated "Aktivizēta">
+<!ENTITY aboutSupport.a11yForceDisabled "Deaktivizēt pieejamību">
 
 <!ENTITY aboutSupport.showDir.label "Atvērt mapi">
 <!ENTITY aboutSupport.showWin.label "Rādīt mapi">
