@@ -17,6 +17,6 @@
   -  the corresponding box is hovered. -->
 
 <!ENTITY margins.tooltip        "robovi">
-<!ENTITY borders.tooltip        "meje">
-<!ENTITY padding.tooltip        "obroba">
+<!ENTITY borders.tooltip        "okvirji">
+<!ENTITY padding.tooltip        "obloge">
 <!ENTITY content.tooltip        "vsebina">
