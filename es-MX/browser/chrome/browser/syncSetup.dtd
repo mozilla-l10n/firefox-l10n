@@ -51,7 +51,7 @@
 <!ENTITY addDevice.dialog.connected.label "Dispositivo conectado">
 <!ENTITY setup.signInPage.title.label "Iniciar sesión">
 <!ENTITY existingRecoveryKey.description 'Puedes obtener una copia de tu clave de recuperación dirigiendote a Opciones de &syncBrand.shortName.label; en tu otro dispositivo, y seleccionando "Mi clave de recuperación" dentro de "Manejar cuenta".'>
-<!ENTITY verifying.label "Verifying…">
+<!ENTITY verifying.label "Verificando…">
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY resetSyncKey.label "He perdido mi otro dispositivo.">
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
@@ -61,7 +61,7 @@
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">
-<!ENTITY engine.tabs.accesskey "T">
+<!ENTITY engine.tabs.accesskey "P">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.passwords.label "Contraseñas">
@@ -69,7 +69,7 @@
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
-<!ENTITY engine.addons.accesskey "A">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY choice2.merge.main.label "Combinar los datos de este equipo con mis datos de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
 <!ENTITY choice2.client.main.label "Reemplazar todos los datos en este equipo con mis datos de &syncBrand.shortName.label;">
