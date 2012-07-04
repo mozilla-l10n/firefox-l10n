@@ -11,7 +11,7 @@
 <!ENTITY showTabBar.accesskey         "b">
 
 <!ENTITY restoreTabsOnDemand.label        "Jangan muat tab sebelum dipilih">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
+<!ENTITY restoreTabsOnDemand.accesskey    "m">
 
 <!ENTITY switchToNewTabs.label        "Jika tautan dibuka di sebuah tab baru, langsung pindah ke tab tersebut">
 <!ENTITY switchToNewTabs.accesskey    "p">
