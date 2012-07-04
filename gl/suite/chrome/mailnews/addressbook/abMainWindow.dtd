@@ -80,10 +80,12 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Barra da axenda de enderezos"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "o">  
-
-<!ENTITY showCardPane.label                             "Panel de resumo da tarxeta">
-<!ENTITY showCardPane.accesskey                         "P">
-  
+<!ENTITY layoutMenu.label                               "Deseño">
+<!ENTITY layoutMenu.accesskey                           "ñ">
+<!ENTITY showDirectoryPane.label                        "Panel de cartafoles">
+<!ENTITY showDirectoryPane.accesskey                    "d">
+<!ENTITY showContactPane2.label                         "Panel de contactos">
+<!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Mostrar nome como"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "Nome e apelidos">  
