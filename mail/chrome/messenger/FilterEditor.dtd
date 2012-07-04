@@ -41,5 +41,5 @@
 <!ENTITY watchThread.label "Observar il tema">
 <!ENTITY stopExecution.label "Fermar l'execuziun dal filter">
 
-<!ENTITY addAction.tooltip "Agiuntar ina nova actiun">
+<!ENTITY addAction.tooltip "Agiuntar ina nova acziun">
 <!ENTITY removeAction.tooltip "Allontanar questa acziun">
