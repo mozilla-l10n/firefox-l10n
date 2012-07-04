@@ -21,7 +21,7 @@
    -
    - Contributor(s):
    -   Mozilla México - Roberto Alvarado
-   -   Mozilla México - Roberto Alvarado
+   -   Mauricio Navarro - mautematico@mozilla-mexico.org
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -51,7 +51,7 @@
 <!ENTITY clear.label "Limpiar">
 <!ENTITY clear.accesskey "L">
 <!ENTITY codeEval.label "Código:">
-<!ENTITY codeEval.accesskey "d">
+<!ENTITY codeEval.accesskey "C">
 <!ENTITY evaluate.label "Evaluar">
 <!ENTITY evaluate.accesskey "v">
 <!ENTITY copyCmd.label "Copiar">
