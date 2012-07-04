@@ -1,8 +1,6 @@
-<!ENTITY  newMessageCmd2.key              "N">
-<!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "Порука">
-<!ENTITY  newMessageCmd.accesskey         "П">
- 
-<!ENTITY  newContactCmd.label             "Контакт из адресара…">
-<!ENTITY  newContactCmd.accesskey         "C">
-
+<!ENTITY newContactCmd.accesskey "К">
+<!ENTITY newMessageCmd.label "Порука">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newContactCmd.label "Контакт из адресара…">
+<!ENTITY newMessageCmd.accesskey "П">
+<!ENTITY newMessageCmd.key "M">

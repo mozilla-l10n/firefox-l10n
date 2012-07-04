@@ -1,7 +1,7 @@
 <!ENTITY  button-back-mac.label        "Назад">
 <!ENTITY  button-back-mac.accesskey    "Н">
-<!ENTITY  button-next-mac.label        "Настави">
-<!ENTITY  button-next-mac.accesskey    "Н">
+<!ENTITY  button-next-mac.label        "Даље">
+<!ENTITY  button-next-mac.accesskey    "Д">
 <!ENTITY  button-finish-mac.label      "Готово">
 <!ENTITY  button-cancel-mac.label      "Откажи">
 

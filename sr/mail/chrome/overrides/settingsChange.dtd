@@ -1,3 +1,2 @@
-<!ENTITY  settingsChangePreferences.label  "Подешавања се могу променити употребом језичка „Прилози‟ у поставкама програма &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Подешавања се могу променити употребом језичка „Прилози‟ у поставкама програма &brandShortName;.">
-
+<!ENTITY settingsChangeOptions.label "Подешавања се могу променити употребом језичка „Прилози‟ у поставкама програма &brandShortName;.">
+<!ENTITY settingsChangePreferences.label "Подешавања се могу променити употребом језичка „Прилози‟ у поставкама програма &brandShortName;.">

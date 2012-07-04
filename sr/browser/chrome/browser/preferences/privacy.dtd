@@ -8,22 +8,21 @@
 <!ENTITY  locationBar.label             "Трака са местом">
 
 <!ENTITY  locbar.pre.label              "При употреби адресне линије, предложи:">
-<!ENTITY  locbar.pre.accessKey          "П">
+<!ENTITY  locbar.pre.accessKey          "п">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Историјат и забелешке">
 <!ENTITY  locbar.history.label          "Историјат">
 <!ENTITY  locbar.bookmarks.label        "Забелешке">
 <!ENTITY  locbar.nothing.label          "Ништа">
 
-
-<!ENTITY  acceptCookies.label           "Прихватај колачиће са веб сајтова">
+<!ENTITY  acceptCookies.label           "Прихватај колачиће са сајтова">
 <!ENTITY  acceptCookies.accesskey       "П">
 
 <!ENTITY  acceptThirdParty.label        "Прихвати колачиће од трећих лица">
-<!ENTITY  acceptThirdParty.accesskey    "П">
+<!ENTITY  acceptThirdParty.accesskey    "т">
 
-<!ENTITY  keepUntil.label               "Чувај док:">
-<!ENTITY  keepUntil.accesskey           "Ч">
+<!ENTITY  keepUntil.label               "Рок за чување:">
+<!ENTITY  keepUntil.accesskey           "Р">
 
 <!ENTITY  expire.label                  "не истекну">
 <!ENTITY  close.label                   "не затворим &brandShortName;">
@@ -62,20 +61,19 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Увек користи поверљиво читање">
-<!ENTITY  privateBrowsingPermanent2.accesskey "У">
+<!ENTITY  privateBrowsingPermanent2.accesskey "в">
 
-<!ENTITY  rememberHistory.label      "Запамти мој историјат прегледања">
-<!ENTITY  rememberHistory.accesskey  "З">
+<!ENTITY  rememberHistory2.label      "Запамти мој историјат читања и пријема">
+<!ENTITY  rememberHistory2.accesskey  "З">
 
 <!ENTITY  rememberDownload.label         "Памти историјат пријема">
 <!ENTITY  rememberDownload.accesskey     "П">
 
-<!ENTITY  rememberSearchForm.label       "Памти претраге и историјат формулара">
-<!ENTITY  rememberSearchForm.accesskey   "П">
+<!ENTITY  rememberSearchForm.label       "Запамти историјат образаца и претраге">
+<!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Очисти историјат када се програм &brandShortName; затвори">
 <!ENTITY  clearOnClose.accesskey         "О">
 
 <!ENTITY  clearOnCloseSettings.label     "Подешавања…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
-

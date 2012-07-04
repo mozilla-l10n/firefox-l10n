@@ -1,92 +1,51 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Editor Smiley Overlay.
-   -
-   - The Initial Developer of the Original Code is
-   - Neil Rashbrook.
-   - Portions created by the Initial Developer are Copyright (C) 2003
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -    Neil Rashbrook <neil@parkwaycc.co.uk>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!-- Smiley Menu items -->
-<!ENTITY insertSmiley.label "Смешко">
-<!ENTITY insertSmiley.accesskey "С">
-
-<!ENTITY smiley1Cmd.label "Осмех">
-<!ENTITY smiley1Cmd.accesskey "О">
-<!ENTITY smiley1Cmd.tooltip "Убаци смешка">
-<!ENTITY smiley2Cmd.label "Гримаса">
-<!ENTITY smiley2Cmd.accesskey "Г">
-<!ENTITY smiley2Cmd.tooltip "Убацује смешка који се мршти">
-<!ENTITY smiley3Cmd.label "Миг">
-<!ENTITY smiley3Cmd.accesskey "М">
-<!ENTITY smiley3Cmd.tooltip "Убацује смешка који намигује">
-<!ENTITY smiley4Cmd.label "Исплажен језик">
-<!ENTITY smiley4Cmd.accesskey "И">
-<!ENTITY smiley4Cmd.tooltip "Убацује смешка који се плази">
-<!ENTITY smiley5Cmd.label "Смех">
-<!ENTITY smiley5Cmd.accesskey "С">
-<!ENTITY smiley5Cmd.tooltip "Убацује смешка који се смеје">
-<!ENTITY smiley6Cmd.label "Постиђен">
-<!ENTITY smiley6Cmd.accesskey "П">
-<!ENTITY smiley6Cmd.tooltip "Убацује смешка коме је непријатно">
-<!ENTITY smiley7Cmd.label "Неодлучан">
-<!ENTITY smiley7Cmd.accesskey "е">
-<!ENTITY smiley7Cmd.tooltip "Убацује смешка који је неодлучан">
-<!ENTITY smiley8Cmd.label "Изненађен">
-<!ENTITY smiley8Cmd.accesskey "з">
-<!ENTITY smiley8Cmd.tooltip "Убацује смешка који је изненађен">
-<!ENTITY smiley9Cmd.label "Пољубац">
-<!ENTITY smiley9Cmd.accesskey "П">
-<!ENTITY smiley9Cmd.tooltip "Убацује смешка који шаље пољубац">
-<!ENTITY smiley10Cmd.label "Викање">
-<!ENTITY smiley10Cmd.accesskey "В">
-<!ENTITY smiley10Cmd.tooltip "Убацује смешка који виче">
-<!ENTITY smiley11Cmd.label "Смирен">
-<!ENTITY smiley11Cmd.accesskey "С">
-<!ENTITY smiley11Cmd.tooltip "Убацује смешка који је смирен">
-<!ENTITY smiley12Cmd.label "Новчана уста">
-<!ENTITY smiley12Cmd.accesskey "Н">
 <!ENTITY smiley12Cmd.tooltip "Убацује смешка са новцем у устима">
+<!ENTITY insertSmiley.accesskey "С">
 <!ENTITY smiley13Cmd.label "Једе ногу">
-<!ENTITY smiley13Cmd.accesskey "Ј">
-<!ENTITY smiley13Cmd.tooltip "Убацује смешка који је направио непријатну грешку">
-<!ENTITY smiley14Cmd.label "Невинашце">
+<!ENTITY smiley7Cmd.label "Неодлучан">
+<!ENTITY smiley10Cmd.tooltip "Убацује смешка који виче">
+<!ENTITY smiley6Cmd.accesskey "П">
+<!ENTITY insertSmiley.label "Смешко">
+<!ENTITY smiley7Cmd.accesskey "е">
 <!ENTITY smiley14Cmd.accesskey "Н">
-<!ENTITY smiley14Cmd.tooltip "Убацује смешка са лицем невинашцета">
-<!ENTITY smiley15Cmd.label "Плач">
-<!ENTITY smiley15Cmd.accesskey "П">
-<!ENTITY smiley15Cmd.tooltip "Убацује смешка који плаче">
-<!ENTITY smiley16Cmd.label "Ништа не говорим">
-<!ENTITY smiley16Cmd.accesskey "Н">
-<!ENTITY smiley16Cmd.tooltip "Убацује смешка који ништа не говори">
+<!ENTITY smiley4Cmd.accesskey "И">
+<!ENTITY smiley5Cmd.accesskey "С">
+<!ENTITY smiley8Cmd.accesskey "з">
+<!ENTITY smiley5Cmd.label "Смех">
+<!ENTITY smiley5Cmd.tooltip "Убацује смешка који се смеје">
+<!ENTITY smiley12Cmd.label "Новчана уста">
+<!ENTITY smiley2Cmd.label "Гримаса">
+<!ENTITY smiley13Cmd.accesskey "Ј">
+<!ENTITY smiley12Cmd.accesskey "Н">
+<!ENTITY smiley9Cmd.tooltip "Убацује смешка који шаље пољубац">
 <!ENTITY SmileButton.tooltip "Убаци смешка">
-
-
+<!ENTITY smiley6Cmd.label "Постиђен">
+<!ENTITY smiley11Cmd.accesskey "С">
+<!ENTITY smiley2Cmd.tooltip "Убацује смешка који се мршти">
+<!ENTITY smiley1Cmd.tooltip "Убаци смешка">
+<!ENTITY smiley6Cmd.tooltip "Убацује смешка коме је непријатно">
+<!ENTITY smiley10Cmd.label "Викање">
+<!ENTITY smiley3Cmd.label "Миг">
+<!ENTITY smiley7Cmd.tooltip "Убацује смешка који је неодлучан">
+<!ENTITY smiley4Cmd.tooltip "Убацује смешка који се плази">
+<!ENTITY smiley3Cmd.tooltip "Убацује смешка који намигује">
+<!ENTITY smiley1Cmd.label "Осмех">
+<!ENTITY smiley4Cmd.label "Исплажен језик">
+<!ENTITY smiley2Cmd.accesskey "Г">
+<!ENTITY smiley15Cmd.label "Плач">
+<!ENTITY smiley14Cmd.tooltip "Убацује смешка са лицем невинашцета">
+<!ENTITY smiley8Cmd.tooltip "Убацује смешка који је изненађен">
+<!ENTITY smiley3Cmd.accesskey "М">
+<!ENTITY smiley16Cmd.accesskey "Н">
+<!ENTITY smiley13Cmd.tooltip "Убацује смешка који је направио непријатну грешку">
+<!ENTITY smiley16Cmd.label "Ништа не говорим">
+<!ENTITY smiley9Cmd.label "Пољубац">
+<!ENTITY smiley15Cmd.accesskey "П">
+<!ENTITY smiley16Cmd.tooltip "Убацује смешка који ништа не говори">
+<!ENTITY smiley11Cmd.tooltip "Убацује смешка који је смирен">
+<!ENTITY smiley14Cmd.label "Невинашце">
+<!ENTITY smiley11Cmd.label "Смирен">
+<!ENTITY smiley9Cmd.accesskey "П">
+<!ENTITY smiley10Cmd.accesskey "В">
+<!ENTITY smiley15Cmd.tooltip "Убацује смешка који плаче">
+<!ENTITY smiley1Cmd.accesskey "О">
+<!ENTITY smiley8Cmd.label "Изненађен">

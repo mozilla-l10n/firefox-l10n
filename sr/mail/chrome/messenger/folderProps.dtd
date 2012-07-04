@@ -1,103 +1,53 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   David Bienvenu <bienvenu@netscape.com>
-   -   Mohan Bhamidipati <mohanb@netscape.com>
-   -   Lorenzo Colitti   <lorenzo@colitti.com>
-   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY folderProps.windowtitle.label           "Поставке">
-
-<!ENTITY generalInfo.label                       "Општи подаци">
-<!ENTITY folderCharsetTab.label                  "Подразумевано кодирање знакова">
-<!ENTITY folderCharsetTab.accesskey              "з">
-<!ENTITY folderCharsetOverride.label             "Примени изворна подешавања на све поруке у директоријуму (појединачна подешавања кодне странице и аутоматска детекција биће занемарени)">
-<!ENTITY folderCharsetOverride.accesskey         "П">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Поновна изградња индекса сажетака">
-<!ENTITY folderRebuildSummaryFile2.label         "Директоијум за оправке">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "Д">
-<!ENTITY folderRebuildSummaryFile.explanation    "Понекад се индексна датотека (.msf) оштети, па поруке изгледају као да нису присутне или се обрисане поруке поново појављују.  Оправка директоријума је можда да поправи ове проблеме.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Укључи поруке из овог директоријума у резултате глобалне претраге">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "У">
-     
-<!ENTITY retention.label "Полиса чувања порука">
-<!ENTITY retentionUseAccount.label  "Користи моја подешавања налога">
-<!ENTITY retentionUseAccount.accesskey "К">
-<!ENTITY daysOld.label "дана старе">
-<!ENTITY message.label "поруке">
-<!ENTITY retentionCleanup.label "Како бисте уштедели простор на диску, старе поруке се могу трајно уклонити.">
-<!ENTITY retentionCleanupImap.label "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, што обухвата и локалне умношке и оригинале на удаљеном рачунару.">
-<!ENTITY retentionCleanupPop.label "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, укључујући оригинале на удаљеном рачунару.">
-<!ENTITY retentionDeleteMsg.label "Уклони поруке више од">
-<!ENTITY retentionDeleteMsg.accesskey "У">
-<!ENTITY retentionKeepAll.label "Не уклањај ниједну поруку">
-<!ENTITY retentionKeepAll.accesskey "ј">
-<!ENTITY retentionKeepRecent.label "Уклоните све осим најновијих">
-<!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Увек уклони прочитане поруке (преиначује подешавања старости порука)">
-<!ENTITY retentionApplyToFlagged.label "Увек чувај поруке са звездом">
+<!ENTITY folderProps.name.accesskey "И">
+<!ENTITY offlineFolder.button.accesskey "П">
+<!ENTITY folderSharingTab.label "Дељење">
+<!ENTITY folderProps.location.accesskey "М">
+<!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
+<!ENTITY folderQuotaStatus.label "Статус:">
+<!ENTITY folderQuotaTab.label "Квота">
+<!ENTITY folderCheckForNewMessages2.accesskey "c">
+<!ENTITY folderCharsetTab.accesskey "з">
+<!ENTITY selectofflineNewsgroup.check.accesskey "г">
 <!ENTITY retentionApplyToFlagged.accesskey "ч">
-
-<!ENTITY folderSynchronizationTab.label          "Усклађивање">
-<!ENTITY folderCheckForNewMessages2.label         "Када стигну нове поруке за овај налог, увек провери овај директоријум">
-<!ENTITY folderCheckForNewMessages2.accesskey     "К">
-
-<!ENTITY offlineFolder.check.label               "Изабери овај директоријум за рад ван мреже">
-<!ENTITY offlineFolder.check.accesskey           "И">
-<!ENTITY offlineFolder.button.label              "Прими одмах">
-<!ENTITY offlineFolder.button.accesskey          "П">
-
-<!ENTITY selectofflineNewsgroup.check.label      "Изабери ову групу за рад ван мреже">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "г">
-<!ENTITY offlineNewsgroup.button.label           "Прими одмах">
-<!ENTITY offlineNewsgroup.button.accesskey       "П">
-
-<!ENTITY folderProps.name.label                  "Име:">
-<!ENTITY folderProps.name.accesskey              "И">
-<!ENTITY folderProps.location.label              "Место:">
-<!ENTITY folderProps.location.accesskey          "М">
-
-<!ENTITY folderSharingTab.label                  "Дељење">
-<!ENTITY privileges.button.label                 "Овлашћења…">
-<!ENTITY privileges.button.accesskey             "О">
-<!ENTITY permissionsDesc.label                   "Имате следећа права приступа:">
-<!ENTITY folderType.label                        "Врста директоријума:">
-
-<!ENTITY folderQuotaTab.label                    "Квота">
-<!ENTITY folderQuotaRoot.label                   "Корена квота:">
-<!ENTITY folderQuotaUsage.label                  "Употреба:">
-<!ENTITY folderQuotaStatus.label                 "Статус:">
-
+<!ENTITY retentionKeepAll.label "Не уклањај ниједну поруку">
+<!ENTITY retentionDeleteMsg.accesskey "У">
+<!ENTITY retentionCleanupPop.label "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, укључујући оригинале на удаљеном рачунару.">
+<!ENTITY folderSynchronizationTab.label "Synchronization">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
+<!ENTITY offlineNewsgroup.button.label "Прими одмах">
+<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
+<!ENTITY retentionCleanup.label "Како бисте уштедели простор на диску, старе поруке се могу трајно уклонити.">
+<!ENTITY retention.label "Полиса чувања порука">
+<!ENTITY folderCharsetOverride.label "Примени изворна подешавања на све поруке у директоријуму (појединачна подешавања кодне странице и аутоматска детекција биће занемарени)">
+<!ENTITY retentionUseAccount.label "Use my account settings">
+<!ENTITY folderProps.windowtitle.label "Поставке">
+<!ENTITY retentionKeepRecent.accesskey "У">
+<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderType.label "Врста директоријума:">
+<!ENTITY retentionKeepRecent.label "Уклоните све осим најновијих">
+<!ENTITY privileges.button.label "Овлашћења…">
+<!ENTITY retentionApplyToFlagged.label "Увек чувај поруке са звездом">
+<!ENTITY folderCharsetTab.label "Подразумевано кодирање знакова">
+<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY folderQuotaUsage.label "Употреба:">
+<!ENTITY retentionDeleteMsg.label "Уклони поруке више од">
+<!ENTITY selectofflineNewsgroup.check.label "Изабери ову групу за рад ван мреже">
+<!ENTITY retentionCleanupImap.label "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, што обухвата и локалне умношке и оригинале на удаљеном рачунару.">
+<!ENTITY folderQuotaRoot.label "Корена квота:">
+<!ENTITY folderRebuildSummaryFile2.accesskey "R">
+<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
+<!ENTITY offlineFolder.check.accesskey "И">
+<!ENTITY folderProps.name.label "Име:">
+<!ENTITY privileges.button.accesskey "О">
+<!ENTITY offlineFolder.button.label "Прими одмах">
+<!ENTITY folderCheckForNewMessages2.label "When getting new messages for this account, always check this folder">
+<!ENTITY retentionKeepAll.accesskey "ј">
+<!ENTITY offlineFolder.check.label "Изабери овај директоријум за рад ван мреже">
+<!ENTITY folderCharsetOverride.accesskey "П">
+<!ENTITY folderProps.location.label "Место:">
+<!ENTITY offlineNewsgroup.button.accesskey "П">
+<!ENTITY daysOld.label "дана старе">
+<!ENTITY retentionKeepUnreadHidden.label "Увек уклони прочитане поруке (преиначује подешавања старости порука)">
+<!ENTITY message.label "поруке">
+<!ENTITY generalInfo.label "Општи подаци">
+<!ENTITY permissionsDesc.label "Имате следећа права приступа:">

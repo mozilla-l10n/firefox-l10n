@@ -1,185 +1,101 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.   -
-   -
-   - The Initial Developer of the Original Code is
-   -   OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Garth Smedley <garths@oeone.com>
-   -   Mike Potter <mikep@oeone.com>
-   -   Chris Charabaruk <coldacid@meldstar.com>
-   -   Matthew Willis <mattwillis@gmail.com>
-   -   Stefan Sitter <ssitter@googlemail.com>
-   -   Berend Cornelius <berend.cornelius@sun.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   -   Simon Paquet <bugzilla@babylonsounds.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY calendar.open.file.label                          "Отвори календар…">
-<!ENTITY calendar.open.file.key                            "O">
-<!ENTITY calendar.open.file.accesskey                      "O">
-
-<!ENTITY event.edit.event                                  "Измени изабрани догађај">
-<!ENTITY event.edit.event.key                              "E">
-<!ENTITY event.edit.event.accesskey                        "E">
-
-<!ENTITY event.delete.event                                "Уклони изабрани догађај">
-<!ENTITY event.delete.event.accesskey                      "D">
-
-<!ENTITY event.delete.tasks                                "Уклони изабрани задатак">
-<!ENTITY event.delete.tasks.accesskey                      "T">
-
-<!ENTITY calendar.pagesetup.label                          "Подеси страну...">
-<!ENTITY calendar.pagesetup.accesskey                      "u">
-
-<!ENTITY calendar.subscribe.label                          "Пријављивљње на удаљени календар…">
-<!ENTITY calendar.subscribe.accesskey                      "R">
-
-<!ENTITY calendar.reloadserver.label                       "Обнови удаљени календар">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "R">
-
-<!ENTITY calendar.publish.calendar.label                   "Објави календар…">
-<!ENTITY calendar.publish.calendar.accesskey               "b">
-<!ENTITY calendar.publish.selection.label                  "Објављивање изабраног…">
-<!ENTITY calendar.publish.selection.accesskey              "c">
-
-<!ENTITY calendar.quit.label                               "Крај">
-<!ENTITY calendar.quit.accesskey                           "Q">
-<!ENTITY calendar.quit.key                                 "Q">
-<!ENTITY calendar.quit.label.mac                           "Крај рада: &brandShortName;">
-
-<!ENTITY calendar.exit.label                               "Крај">
-<!ENTITY calendar.exit.accesskey                           "x">
-
-<!ENTITY calendar.undo.label                               "Опозови">
-<!ENTITY calendar.undo.key                                 "Z">
-<!ENTITY calendar.undo.accesskey                           "U">
-
-<!ENTITY calendar.redo.label                               "Понови">
-<!ENTITY calendar.redo.key                                 "Y">
-<!ENTITY calendar.redo.accesskey                           "R">
-
-<!ENTITY calendar.cut.label                                "Исеци">
-<!ENTITY calendar.cut.key                                  "X">
-<!ENTITY calendar.cut.accesskey                            "t">
-
-<!ENTITY calendar.copy.label                               "Умножи">
-<!ENTITY calendar.copy.key                                 "C">
-<!ENTITY calendar.copy.accesskey                           "C">
-
-<!ENTITY calendar.paste.label                              "Убаци">
-<!ENTITY calendar.paste.key                                "V">
-<!ENTITY calendar.paste.accesskey                          "P">
-
-<!ENTITY calendar.selectall.label                          "Изабери све">
-<!ENTITY calendar.selectall.key                            "A">
-<!ENTITY calendar.selectall.accesskey                      "A">
-
-<!ENTITY toolbarsMenu.label                                "Алатне траке">
-<!ENTITY toolbarsMenu.accesskey                            "T">
-
-<!ENTITY showStatusBarCmd.label                            "Статусна трака">
-<!ENTITY showStatusBarCmd.accesskey                        "B">
-
-<!ENTITY showTaskBoxCmd.label                              "Списак задатака">
-<!ENTITY showTaskBoxCmd.accesskey                          "L">
-
-<!ENTITY calendar.fullscreen.label                         "Користи цео екран">
-<!ENTITY calendar.fullscreen.accesskey                     "F">
-
-<!ENTITY calendar.addons.label                             "Додаци">
-<!ENTITY calendar.addons.accesskey                         "d">
-
-<!ENTITY goMenu.label                                      "Иди">
-<!ENTITY goMenu.accesskey                                  "G">
-
-<!ENTITY goDateCmd.label                                   "На датум…">
-<!ENTITY goDateCmd.accesskey                               "D">
-
-<!ENTITY toolsMenu.label                                   "Алатке">
-<!ENTITY toolsMenu.accesskey                               "T">
-
-<!ENTITY errorConsoleCmd.label                             "Конзола са грешкама">
-<!ENTITY errorConsoleCmd.accesskey                         "C">
-
-<!ENTITY helpMenu.label                                    "Помоћ">
-<!ENTITY helpMenu.accesskey                                "H">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                                 "Помоћ">
-<!ENTITY helpMenuWin.accesskey                             "H">
-
-<!ENTITY fileMenu.label                                    "Датотека">
-<!ENTITY fileMenu.accesskey                                "F">
-
-<!ENTITY editMenu.label                                    "Уређивање">
-<!ENTITY editMenu.accesskey                                "E">
-
-<!ENTITY optionsCmd.label                                  "Подешавања…">
-<!ENTITY optionsCmd.accesskey                              "O">
-
-<!ENTITY preferencesCmd.label                              "Поставке">
-<!ENTITY preferencesCmd.accesskey                          "n">
-<!ENTITY preferencesCmdMac.label                           "Поставке…">
-<!ENTITY preferencesCmdMac.commandkey                      ",">
-<!ENTITY preferencesCmdMac.modifiers                       "accel">
-
-<!ENTITY viewMenu.label                                    "Приказ">
-<!ENTITY viewMenu.accesskey                                "V">
-
-<!ENTITY releaseCmd.label                                  "Белешке о издању">
-<!ENTITY releaseCmd.accesskey                              "R">
-
-<!ENTITY aboutCmd.label                                    "&brandFullName;">
-<!ENTITY aboutCmd.accesskey                                "A">
-
-<!ENTITY updateCmd.label                                   "Провера постојања исправке…">
-<!ENTITY updateCmd.accesskey                               "o">
-
-<!ENTITY sunbird.export.calendar.label                     "Извоз календара…">
-<!ENTITY sunbird.export.calendar.accesskey                 "E">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                                  "Прозор">
-<!ENTITY minimizeWindow.label                              "Умањи">
-<!ENTITY zoomWindow.label                                  "Увећај">
-<!ENTITY minimizeWindow.key                                "M">
-<!ENTITY bringAllToFront.label                             "Стави све у први план">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label                             "Услуге">
-<!ENTITY hideThisAppCmdMac.label                           "Сакриј &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey                      "H">
-<!ENTITY hideThisAppCmdMac.modifiers                       "accel">
-<!ENTITY hideOtherAppsCmdMac.label                         "Сакриј остале">
-<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
-<!ENTITY showAllAppsCmdMac.label                           "Прикажи све">
+<!ENTITY showStatusBarCmd.accesskey "С">
+<!ENTITY viewMenu.accesskey "П">
+<!ENTITY showStatusBarCmd.label "Статусна трака">
+<!ENTITY calendar.open.file.label "Отвори календар…">
+<!ENTITY goDateCmd.accesskey "Н">
+<!ENTITY calendar.redo.accesskey "П">
+<!ENTITY event.edit.event.key "E">
+<!ENTITY calendar.addons.accesskey "Д">
+<!ENTITY calendar.publish.calendar.accesskey "О">
+<!ENTITY calendar.publish.selection.label "Објављивање изабраног…">
+<!ENTITY calendar.undo.label "Опозови">
+<!ENTITY calendar.open.file.accesskey "О">
+<!ENTITY sunbird.export.calendar.label "Извоз календара…">
+<!ENTITY hideOtherAppsCmdMac.label "Сакриј остале">
+<!ENTITY calendar.paste.key "V">
+<!ENTITY hideThisAppCmdMac.label "Сакриј &brandShortName;">
+<!ENTITY toolsMenu.label "Алатке">
+<!ENTITY calendar.copy.accesskey "У">
+<!ENTITY calendar.selectall.key "A">
+<!ENTITY calendar.reloadserver.key "R">
+<!ENTITY calendar.copy.key "C">
+<!ENTITY calendar.fullscreen.accesskey "К">
+<!ENTITY fileMenu.accesskey "Д">
+<!ENTITY calendar.undo.accesskey "О">
+<!ENTITY helpMenuWin.label "Помоћ">
+<!ENTITY calendar.publish.selection.accesskey "О">
+<!ENTITY aboutCmd.label "&brandFullName;">
+<!ENTITY event.edit.event "Измени изабрани догађај">
+<!ENTITY goMenu.label "Иди">
+<!ENTITY calendar.undo.key "Z">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY helpMenu.accesskey "П">
+<!ENTITY helpMenu.label "Помоћ">
+<!ENTITY calendar.quit.label.mac "Крај рада: &brandShortName;">
+<!ENTITY event.edit.event.accesskey "E">
+<!ENTITY errorConsoleCmd.label "Конзола са грешкама">
+<!ENTITY calendar.reloadserver.accesskey "О">
+<!ENTITY releaseCmd.label "Белешке о издању">
+<!ENTITY calendar.open.file.key "O">
+<!ENTITY toolbarsMenu.label "Алатне траке">
+<!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY calendar.paste.label "Убаци">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY editMenu.label "Уређивање">
+<!ENTITY calendar.subscribe.accesskey "П">
+<!ENTITY event.delete.tasks "Уклони изабрани задатак">
+<!ENTITY calendar.cut.label "Исеци">
+<!ENTITY toolbarsMenu.accesskey "А">
+<!ENTITY calendar.pagesetup.accesskey "П">
+<!ENTITY zoomWindow.label "Увећај">
+<!ENTITY optionsCmd.accesskey "П">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY bringAllToFront.label "Стави све у први план">
+<!ENTITY calendar.cut.accesskey "И">
+<!ENTITY event.delete.event.accesskey "У">
+<!ENTITY calendar.quit.label "Крај">
+<!ENTITY calendar.pagesetup.label "Подеси страну...">
+<!ENTITY calendar.subscribe.label "Пријављивљње на удаљени календар…">
+<!ENTITY optionsCmd.label "Подешавања…">
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY viewMenu.label "Приказ">
+<!ENTITY preferencesCmd.label "Поставке">
+<!ENTITY event.delete.event "Уклони изабрани догађај">
+<!ENTITY calendar.exit.label "Крај">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY editMenu.accesskey "У">
+<!ENTITY releaseCmd.accesskey "Б">
+<!ENTITY calendar.redo.label "Понови">
+<!ENTITY updateCmd.label "Провера постојања исправке…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY minimizeWindow.label "Умањи">
+<!ENTITY toolsMenu.accesskey "А">
+<!ENTITY calendar.paste.accesskey "У">
+<!ENTITY event.delete.tasks.accesskey "У">
+<!ENTITY calendar.cut.key "X">
+<!ENTITY updateCmd.accesskey "П">
+<!ENTITY preferencesCmdMac.label "Preferences…">
+<!ENTITY calendar.reloadserver.label "Обнови удаљени календар">
+<!ENTITY calendar.selectall.accesskey "И">
+<!ENTITY sunbird.export.calendar.accesskey "И">
+<!ENTITY goDateCmd.label "На датум…">
+<!ENTITY windowMenu.label "Прозор">
+<!ENTITY preferencesCmd.accesskey "П">
+<!ENTITY fileMenu.label "Датотека">
+<!ENTITY helpMenuWin.accesskey "П">
+<!ENTITY showTaskBoxCmd.label "Списак задатака">
+<!ENTITY calendar.copy.label "Умножи">
+<!ENTITY calendar.exit.accesskey "К">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY calendar.addons.label "Додаци">
+<!ENTITY showAllAppsCmdMac.label "Прикажи све">
+<!ENTITY calendar.quit.key "Q">
+<!ENTITY calendar.redo.key "Y">
+<!ENTITY calendar.publish.calendar.label "Објави календар…">
+<!ENTITY calendar.quit.accesskey "К">
+<!ENTITY showTaskBoxCmd.accesskey "С">
+<!ENTITY servicesMenuMac.label "Услуге">
+<!ENTITY goMenu.accesskey "И">
+<!ENTITY calendar.fullscreen.label "Користи цео екран">
+<!ENTITY calendar.selectall.label "Изабери све">

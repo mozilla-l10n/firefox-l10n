@@ -1,75 +1,67 @@
-<!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Тражи поруке у:">
-<!ENTITY searchHeading.accesskey     "р">
-<!ENTITY searchSubfolders.label      "Тражи поддиректоријуме">
-<!ENTITY searchSubfolders.accesskey  "п">
-<!ENTITY searchOnServer.label        "Претрага на серверу">
-<!ENTITY searchOnServer.accesskey    "П">
-<!ENTITY resetButton.label           "Очисти">
-<!ENTITY resetButton.accesskey       "О">
-<!ENTITY openButton.label            "Отвори">
-<!ENTITY openButton.accesskey        "О">
-<!ENTITY deleteButton.label          "Обриши">
-<!ENTITY deleteButton.accesskey      "О">
-<!ENTITY searchDialogTitle.label     "Претрага порука">
-<!ENTITY results.label               "Резултати">
-<!ENTITY fileHereMenu.label          "Смести овде">
-<!ENTITY fileHereMenu.accesskey      "д">
-<!ENTITY fileButton.label            "Датотека">
-<!ENTITY fileButton.accesskey        "Д">
-<!ENTITY closeCmd.key                "З"> 
-<!ENTITY openInFolder.label          "Отвори у директоријуму">
-<!ENTITY openInFolder.accesskey      "д">
-<!ENTITY saveAsVFButton.label        "Сачувај као директоријум за претрагу">
-<!ENTITY saveAsVFButton.accesskey    "С">
-
-<!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Тражи у:">
-<!ENTITY abSearchHeading.accesskey   "Т">
-<!ENTITY propertiesButton.label      "Поставке">
-<!ENTITY propertiesButton.accesskey  "П">
-<!ENTITY composeButton.label         "Запиши">
-<!ENTITY composeButton.accesskey     "З">
-<!ENTITY abSearchDialogTitle.label   "Напредна претрага адресара">
-
-<!-- Thread Pane -->
-<!ENTITY threadColumn.label "Нит">
-<!ENTITY fromColumn.label "Шаље">
-<!ENTITY recipientColumn.label "Прима">
-<!ENTITY subjectColumn.label "Тема">
-<!ENTITY dateColumn.label "Датум">
-<!ENTITY priorityColumn.label "Приоритет">
-<!ENTITY tagsColumn.label "Ознаке">
-<!ENTITY accountColumn.label "Налог">
-<!ENTITY statusColumn.label "Статус">
-<!ENTITY sizeColumn.label "Величина">
-<!ENTITY junkStatusColumn.label "Смеће">
-<!ENTITY unreadColumn.label "Непрочитане">
-<!ENTITY totalColumn.label "Укупно">
-<!ENTITY readColumn.label "Прочитано">
-<!ENTITY receivedColumn.label "Примљена">
-<!ENTITY starredColumn.label "Са звездом">
-<!ENTITY locationColumn.label "Место">
-<!ENTITY idColumn.label "Редослед пријема">
-
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Притисните да изабeрете колоне које се приказују">
-<!ENTITY threadColumn.tooltip "Притисните да прикажете нити порука"> 
-<!ENTITY fromColumn.tooltip "Притисните да поређате по">
-<!ENTITY recipientColumn.tooltip "Притисните да поређате по примаоцу">
 <!ENTITY subjectColumn.tooltip "Притисните да поређате по теми">
-<!ENTITY dateColumn.tooltip "Притисните да поређате по датуму">
-<!ENTITY priorityColumn.tooltip "Притисните да поређате по приоритету">
-<!ENTITY tagsColumn.tooltip "Притисните овде да уредите по ознакама">
-<!ENTITY accountColumn.tooltip "Притисните да поређате по налогу">
-<!ENTITY statusColumn.tooltip "Притисните да порееђате по статусу">
-<!ENTITY sizeColumn.tooltip "Притисните да поређате по величини">
-<!ENTITY junkStatusColumn.tooltip "Притисните да поређате по ознаци за смеће">
+<!ENTITY readColumn.label "Прочитано">
+<!ENTITY saveAsVFButton.label "Сачувај као директоријум за претрагу">
+<!ENTITY unreadColumn.label "Непрочитане">
+<!ENTITY junkStatusColumn.label "Смеће">
+<!ENTITY openInFolder.accesskey "д">
+<!ENTITY fromColumn.label "Шаље">
+<!ENTITY sizeColumn.label "Величина">
 <!ENTITY unreadColumn.tooltip "Број непрочитаних порука у нити">
-<!ENTITY totalColumn.tooltip "Укупан број порука у нити">
-<!ENTITY readColumn.tooltip "Притисните да поређате према прочитаним порукама">
-<!ENTITY receivedColumn.tooltip "Притисните да поређате по датуму пријема">
 <!ENTITY starredColumn.tooltip "Притисните овде да уредите према звездама">
-<!ENTITY locationColumn.tooltip "Притисните да поређате по месту">
+<!ENTITY dateColumn.label "Датум">
+<!ENTITY receivedColumn.label "Примљена">
+<!ENTITY subjectColumn.label "Тема">
+<!ENTITY deleteButton.label "Обриши">
+<!ENTITY columnChooser.tooltip "Притисните да изабeрете колоне које се приказују">
+<!ENTITY totalColumn.tooltip "Укупан број порука у нити">
+<!ENTITY junkStatusColumn.tooltip "Притисните да поређате по ознаци за смеће">
+<!ENTITY deleteButton.accesskey "О">
+<!ENTITY resetButton.accesskey "О">
 <!ENTITY idColumn.tooltip "Притисните да поређате по редоследу пријема">
-
+<!ENTITY searchSubfolders.label "Тражи поддиректоријуме">
+<!ENTITY locationColumn.label "Место">
+<!ENTITY priorityColumn.label "Приоритет">
+<!ENTITY recipientColumn.label "Прима">
+<!ENTITY fileButton.accesskey "Д">
+<!ENTITY propertiesButton.accesskey "П">
+<!ENTITY fileHereMenu.accesskey "д">
+<!ENTITY results.label "Резултати">
+<!ENTITY threadColumn.tooltip "Притисните да прикажете нити порука">
+<!ENTITY composeButton.label "Запиши">
+<!ENTITY abSearchHeading.label "Тражи у:">
+<!ENTITY statusColumn.tooltip "Притисните да порееђате по статусу">
+<!ENTITY starredColumn.label "Са звездом">
+<!ENTITY propertiesButton.label "Поставке">
+<!ENTITY searchSubfolders.accesskey "п">
+<!ENTITY closeCmd.key "З">
+<!ENTITY readColumn.tooltip "Притисните да поређате према прочитаним порукама">
+<!ENTITY totalColumn.label "Укупно">
+<!ENTITY openInFolder.label "Отвори у директоријуму">
+<!ENTITY threadColumn.label "Нит">
+<!ENTITY statusColumn.label "Статус">
+<!ENTITY saveAsVFButton.accesskey "С">
+<!ENTITY tagsColumn.tooltip "Притисните овде да уредите по ознакама">
+<!ENTITY accountColumn.label "Налог">
+<!ENTITY fileButton.label "Датотека">
+<!ENTITY priorityColumn.tooltip "Притисните да поређате по приоритету">
+<!ENTITY receivedColumn.tooltip "Притисните да поређате по датуму пријема">
+<!ENTITY idColumn.label "Редослед пријема">
+<!ENTITY sizeColumn.tooltip "Притисните да поређате по величини">
+<!ENTITY searchDialogTitle.label "Претрага порука">
+<!ENTITY searchHeading.accesskey "р">
+<!ENTITY recipientColumn.tooltip "Притисните да поређате по примаоцу">
+<!ENTITY tagsColumn.label "Ознаке">
+<!ENTITY composeButton.accesskey "З">
+<!ENTITY abSearchHeading.accesskey "Т">
+<!ENTITY fileHereMenu.label "Смести овде">
+<!ENTITY locationColumn.tooltip "Притисните да поређате по месту">
+<!ENTITY searchOnServer.accesskey "П">
+<!ENTITY abSearchDialogTitle.label "Напредна претрага адресара">
+<!ENTITY openButton.accesskey "О">
+<!ENTITY searchOnServer.label "Претрага на серверу">
+<!ENTITY dateColumn.tooltip "Притисните да поређате по датуму">
+<!ENTITY openButton.label "Отвори">
+<!ENTITY searchHeading.label "Тражи поруке у:">
+<!ENTITY accountColumn.tooltip "Притисните да поређате по налогу">
+<!ENTITY resetButton.label "Очисти">
+<!ENTITY fromColumn.tooltip "Притисните да поређате по">

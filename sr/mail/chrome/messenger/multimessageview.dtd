@@ -1,5 +1,4 @@
-<!ENTITY window.title             "Сажетак поруке">
-<!ENTITY selectedmessages.label   "Изабране поруке">
-<!ENTITY archiveButton.label      "Архивирај">
-<!ENTITY deleteButton.label       "Уклони">
-
+<!ENTITY selectedmessages.label "Изабране поруке">
+<!ENTITY delete.label "уклони">
+<!ENTITY window.title "Сажетак поруке">
+<!ENTITY archive.label "архивирај">

@@ -1,23 +1,19 @@
-<!ENTITY window.title                 "Изузеци">
-<!ENTITY window.width                 "46em">
-
-<!ENTITY treehead.sitename.label      "Сајт">
-<!ENTITY treehead.status.label        "Стање">
-<!ENTITY removepermission.label       "Уклони сајт">
-<!ENTITY removepermission.accesskey   "У">
-<!ENTITY removeallpermissions.label   "Уклони све сајтове">
+<!ENTITY removeallpermissions.label "Уклони све сајтове">
 <!ENTITY removeallpermissions.accesskey "с">
-<!ENTITY address.label                "Адреса веб сајта:">
-<!ENTITY address.accesskey            "д">
-<!ENTITY block.label                  "Блокирај">
-<!ENTITY block.accesskey              "Б">
-<!ENTITY session.label                "Дозволи за ову сесију">
-<!ENTITY session.accesskey            "в">
-<!ENTITY allow.label                  "Дозволи">
-<!ENTITY allow.accesskey              "Д">
-<!ENTITY windowClose.key              "w">
-
-<!ENTITY button.close.label           "Затвори">
-<!ENTITY button.close.accesskey       "З">
-
-
+<!ENTITY button.close.accesskey "З">
+<!ENTITY treehead.status.label "Стање">
+<!ENTITY allow.accesskey "Д">
+<!ENTITY window.width "46em">
+<!ENTITY treehead.sitename.label "Сајт">
+<!ENTITY block.label "Блокирај">
+<!ENTITY address.label "Адреса веб сајта:">
+<!ENTITY button.close.label "Затвори">
+<!ENTITY block.accesskey "Б">
+<!ENTITY windowClose.key "w">
+<!ENTITY session.accesskey "в">
+<!ENTITY address.accesskey "д">
+<!ENTITY session.label "Дозволи за ову сесију">
+<!ENTITY allow.label "Дозволи">
+<!ENTITY window.title "Изузеци">
+<!ENTITY removepermission.accesskey "У">
+<!ENTITY removepermission.label "Уклони сајт">

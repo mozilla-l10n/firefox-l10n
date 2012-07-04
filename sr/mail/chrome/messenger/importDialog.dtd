@@ -1,80 +1,33 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 2001
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-     Jeff Beckley <beckley@qualcomm.com>
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
-languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
-"&brandShortName;" below.
--->
-
-<!ENTITY importDialog.windowTitle "Увоз">
-<!ENTITY importAll.label          "Увези све">
-<!ENTITY importAll.accesskey      "с">
-<!ENTITY importMail.label         "Пошту">
-<!ENTITY importMail.accesskey     "П">
-<!ENTITY importAddressbook.label  "Адресаре">
-<!ENTITY importAddressbook.accesskey "А">
-<!ENTITY importSettings.label     "Подешавања">
-<!ENTITY importSettings.accesskey "д">
-<!ENTITY importFilters.label      "Филтере">
-<!ENTITY importFilters.accesskey  "Ф">
-
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
-<!ENTITY importTitle.label        "Чаробњак за увоз за програм &brandShortName;">
-<!ENTITY importShortDesc.label    "Увоз поште, адресара, подешавања и филтера из других програма">
-
-<!ENTITY importDescription1.label "Овај чаробњак увози електронску пошту, уносе у адресар, подешавања и/или филтере из других програма за ел. пошту и опште познате формате адресара у &brandShortName;.">
+<!ENTITY cancel.label "Откажи">
+<!ENTITY FieldDiscInputText2.label "Изаберите категорију у коју желите да сачувате увезене електронске адресе:">
+<!ENTITY importSettings.label "Подешавања">
+<!ENTITY forward.label "Даље &gt;">
+<!ENTITY importFilters.accesskey "Ф">
+<!ENTITY importFilters.label "Филтере">
+<!ENTITY importWork.label "Посао">
+<!ENTITY processing.label "Увоз…">
 <!ENTITY importDescription2.label "Када су једном увезени, моћи ћете да им приступите из програма &brandShortName;.">
-
-<!ENTITY selectDescription.label  "Молимо да изаберете врсту датотека које желите да увезете:">
+<!ENTITY importDescription1.label "Овај чаробњак увози електронску пошту, уносе у адресар, подешавања и/или филтере из других програма за ел. пошту и опште познате формате адресара у &brandShortName;.">
+<!ENTITY window.macWidth "45em">
+<!ENTITY finish.label "Доврши">
+<!ENTITY selectDescription.label "Молимо да изаберете врсту датотека које желите да увезете:">
+<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x садржи једну адресу за сваки унос, а &brandShortName; има две (Кућа и Посао).">
+<!ENTITY window.width "40em">
+<!ENTITY importAll.label "Увези све">
+<!ENTITY importMail.accesskey "П">
+<!ENTITY importTitle.label "Чаробњак за увоз за програм &brandShortName;">
 <!ENTITY selectDescription.accesskey "М">
-
-<!ENTITY back.label               "&lt; Назад">
-<!ENTITY forward.label            "Даље &gt;">
-<!ENTITY finish.label             "Доврши">
-<!ENTITY cancel.label             "Откажи">
-
-<!ENTITY select.label             "или изаберите врсту материјала за увоз:">
-
-<!ENTITY title.label              "Наслов">
-<!ENTITY processing.label         "Увоз…">
-
+<!ENTITY importHome.accesskey "К">
+<!ENTITY importAddressbook.accesskey "А">
+<!ENTITY importHome.label "Кућа">
+<!ENTITY importAll.accesskey "с">
+<!ENTITY importDialog.windowTitle "Увоз">
+<!ENTITY importMail.label "Пошту">
+<!ENTITY back.label "&lt; Назад">
+<!ENTITY importSettings.accesskey "д">
+<!ENTITY title.label "Наслов">
+<!ENTITY importWork.accesskey "П">
+<!ENTITY importShortDesc.label "Увоз поште, адресара, подешавања и филтера из других програма">
+<!ENTITY select.label "или изаберите врсту материјала за увоз:">
+<!ENTITY importAddressbook.label "Адресаре">
+<!ENTITY FieldDiscWarning.label "Ова категорија ће бити коришћена за све уносе у изабраном адресару:">

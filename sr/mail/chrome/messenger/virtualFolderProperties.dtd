@@ -1,19 +1,11 @@
-<!ENTITY virtualFolderProperties.title "Нови директоријум за чување претрага">
-<!ENTITY name.label                 "Име:">
-<!ENTITY name.accesskey             "И">
-<!ENTITY description.label          "Направи као поддиректоријум од:">
-<!ENTITY description.accesskey      "Н">
-
-<!ENTITY searchTermCaption.label "Подеси критеријуме за претрагу који се користе за овај директоријум са претрагама:">
-
-<!ENTITY folderSelectionCaption.label "Избор директоријума за претрагу: ">
 <!ENTITY chooseFoldersButton.label "Избор…">
+<!ENTITY virtualFolderProperties.title "Нови директоријум за чување претрага">
 <!ENTITY chooseFoldersButton.accesskey "И">
-
+<!ENTITY name.label "Име:">
+<!ENTITY folderSelectionCaption.label "Избор директоријума за претрагу: ">
 <!ENTITY searchOnline.label "Мрежна претрага (даје ажурне резултате за директоријуме за ИМАП и вести, али повећава време потребно за отварање директоријума)">
 <!ENTITY searchOnline.accesskey "п">
-<!ENTITY newFolderButton.label       "Направи">
-<!ENTITY newFolderButton.accesskey   "Н">
-<!ENTITY editFolderButton.label      "Освежи">
-<!ENTITY editFolderButton.accesskey  "в">
-
+<!ENTITY searchTermCaption.label "Подеси критеријуме за претрагу који се користе за овај директоријум са претрагама:">
+<!ENTITY description.accesskey "Н">
+<!ENTITY description.label "Направи као поддиректоријум од:">
+<!ENTITY name.accesskey "И">

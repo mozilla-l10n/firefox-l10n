@@ -1,60 +1,48 @@
-<!-- these things need to move into utilityOverlay.xul -->
-
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
-<!ENTITY fileMenu.label          "Датотека">
-<!ENTITY fileMenu.accesskey        "Д">
-<!ENTITY newMenu.label            "Ново">
-<!ENTITY newMenu.accesskey          "Н">
-
-<!ENTITY editMenu.label          "Уреди">
-<!ENTITY editMenu.accesskey        "У">
-<!ENTITY undoCmd.label            "Опозови">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "О">
-<!ENTITY redoCmd.label            "Понови">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "П">
-<!ENTITY cutCmd.label            "Исеци">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "с">
-<!ENTITY copyCmd.label            "Умножи">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "о">
-<!ENTITY pasteCmd.label            "Убаци">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "б">
-<!ENTITY deleteCmd.label          "Обриши">
-<!ENTITY deleteCmd.accesskey        "О">
-<!ENTITY selectAllCmd.label          "Изабери све">
-<!ENTITY selectAllCmd.key          "П">
-<!ENTITY selectAllCmd.accesskey        "с">
-<!ENTITY preferencesCmd.label        "Опције…">
-<!ENTITY preferencesCmd.accesskey      "О">
-<!ENTITY preferencesCmdUnix.label       "Поставке">
-<!ENTITY preferencesCmdUnix.accesskey     "с">
-
-<!ENTITY viewMenu.label          "Преглед">
-<!ENTITY viewMenu.accesskey        "П">
-<!ENTITY viewToolbarsMenu.label        "Алатне траке">
-<!ENTITY viewToolbarsMenu.accesskey      "А">
-<!ENTITY showTaskbarCmd.label          "Статусна трака">
-<!ENTITY showTaskbarCmd.accesskey        "С">
-
-<!ENTITY proxy.label                                    "Подешавање посредника…">
-<!ENTITY proxy.accesskey                                "с">
-
-<!ENTITY closeCmd.label      "Затвори">
-<!ENTITY closeCmd.key      "W">
-<!ENTITY closeCmd.accesskey    "З">
-
-<!ENTITY quitApplicationCmd.label  "Крај">
-<!ENTITY quitApplicationCmd.key    "Q">
-<!ENTITY quitApplicationCmd.accesskey  "К">
-
-<!ENTITY quitApplicationCmdUnix.label  "Крај">
-<!ENTITY quitApplicationCmdUnix.accesskey  "К">
-
-<!ENTITY quitApplicationCmdMac.label  "Крај рада: &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "К">
-
+<!ENTITY closeCmd.label "Затвори">
+<!ENTITY fileMenu.accesskey "Д">
+<!ENTITY selectAllCmd.label "Изабери све">
+<!ENTITY redoCmd.accesskey "П">
+<!ENTITY viewMenu.accesskey "П">
+<!ENTITY proxy.label "Подешавање посредника…">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY cutCmd.label "Исеци">
+<!ENTITY quitApplicationCmd.label "Крај">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY showTaskbarCmd.label "Статусна трака">
+<!ENTITY viewToolbarsMenu.label "Алатне траке">
+<!ENTITY deleteCmd.label "Обриши">
+<!ENTITY cutCmd.key "X">
+<!ENTITY viewMenu.label "Преглед">
+<!ENTITY quitApplicationCmdMac.accesskey "К">
+<!ENTITY preferencesCmd.accesskey "О">
+<!ENTITY fileMenu.label "Датотека">
+<!ENTITY preferencesCmd.label "Опције…">
+<!ENTITY quitApplicationCmdUnix.accesskey "К">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY preferencesCmdUnix.label "Поставке">
+<!ENTITY redoCmd.label "Понови">
+<!ENTITY editMenu.accesskey "У">
+<!ENTITY cutCmd.accesskey "с">
+<!ENTITY closeCmd.key "W">
+<!ENTITY proxy.accesskey "с">
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY pasteCmd.label "Убаци">
+<!ENTITY undoCmd.label "Опозови">
+<!ENTITY selectAllCmd.key "П">
+<!ENTITY deleteCmd.accesskey "О">
+<!ENTITY copyCmd.key "C">
+<!ENTITY editMenu.label "Уређивање">
+<!ENTITY showTaskbarCmd.accesskey "С">
+<!ENTITY newMenu.accesskey "Н">
+<!ENTITY undoCmd.accesskey "О">
+<!ENTITY copyCmd.accesskey "о">
+<!ENTITY pasteCmd.accesskey "б">
+<!ENTITY quitApplicationCmd.accesskey "К">
+<!ENTITY viewToolbarsMenu.accesskey "А">
+<!ENTITY quitApplicationCmdMac.label "Крај рада: &brandShortName;">
+<!ENTITY preferencesCmdUnix.accesskey "в">
+<!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY quitApplicationCmdUnix.label "Крај">
+<!ENTITY newMenu.label "Ново">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY closeCmd.accesskey "З">

@@ -1,20 +1,12 @@
-<!-- Feed Properties Dialog -->
-<!ENTITY window.title             "Поставке довода">
-
-<!ENTITY feedFolder.label         "Чување чланака у:">
-<!ENTITY feedFolder.accesskey     "Ч">
-
-<!ENTITY feedLocation.label       "URL довода:">
-<!ENTITY feedLocation.accesskey   "д">
-
-<!ENTITY choosethisfolder.label   "изабери овај директоријум">
-
-<!ENTITY quickMode.label          "Прикажи сажетак чланка уместо учитавања целе стране">
-<!ENTITY quickMode.accesskey      "П">
-
-<!ENTITY copyLinkCmd.label        "Умножи везу">
-<!ENTITY copyLinkCmd.accesskey    "в">
-
-<!ENTITY pasteLinkCmd.label       "Убаци">
-<!ENTITY pasteLinkCmd.accesskey   "б">
-
+<!ENTITY choosethisfolder.label "изабери овај директоријум">
+<!ENTITY feedFolder.label "Чување чланака у:">
+<!ENTITY pasteLinkCmd.accesskey "б">
+<!ENTITY feedLocation.label "URL довода:">
+<!ENTITY feedFolder.accesskey "Ч">
+<!ENTITY copyLinkCmd.label "Умножи везу">
+<!ENTITY pasteLinkCmd.label "Убаци">
+<!ENTITY feedLocation.accesskey "д">
+<!ENTITY quickMode.label "Прикажи сажетак чланка уместо учитавања целе стране">
+<!ENTITY window.title "Поставке довода">
+<!ENTITY quickMode.accesskey "П">
+<!ENTITY copyLinkCmd.accesskey "в">

@@ -1,80 +1,37 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-2002
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY newDirectoryTitle.label           "Својства сервера за директоријуме">
-<!ENTITY directoryName.label               "Име:">
-<!ENTITY directoryName.accesskey           "И">
-<!ENTITY directoryHostname.label           "Рачунар:">
-<!ENTITY directoryHostname.accesskey       "Р">
-<!ENTITY directoryBaseDN.label             "Основни DN:">
-<!ENTITY directoryBaseDN.accesskey         "О">
-<!ENTITY findButton.label                  "Нађи">
-<!ENTITY findButton.accesskey              "Н">
-<!ENTITY directorySecure.label             "Употреба шифроване везе (SSL)">
-<!ENTITY directorySecure.accesskey         "У">
-<!ENTITY directoryLogin.label              "Прикопчај DN:">
-<!ENTITY directoryLogin.accesskey          "и">
-<!ENTITY General.tab                       "Опште">
-<!ENTITY Offline.tab                       "Неповезан рад">
-<!ENTITY Advanced.tab                      "Напредно">
-<!ENTITY portNumber.label                  "Број порта: ">
-<!ENTITY portNumber.accesskey              "Б">
-<!ENTITY searchFilter.label                "Филтер за претрагу:">
-<!ENTITY searchFilter.accesskey            "Ф">
-<!ENTITY scope.label                       "Опсег: ">
-<!ENTITY scope.accesskey                   "О">
-<!ENTITY scopeOneLevel.label               "Један ниво">
-<!ENTITY scopeOneLevel.accesskey           "н">
-<!ENTITY scopeSubtree.label                "Подстабло">
-<!ENTITY scopeSubtree.accesskey            "П">
-<!ENTITY return.label                      "Не исписуј више од">
-<!ENTITY return.accesskey                  "в">
-<!ENTITY results.label                     "резултата">
-<!ENTITY offlineText.label                 "Можете примити локалну копију овог директоријума тако да је доступан за употребу када радите неповезани на Интернет.">
-<!ENTITY saslMechanism.label               "Метод за пријаву:">
-<!ENTITY saslMechanism.accesskey           "М">
-<!ENTITY saslOff.label                     "Једноставан">
-<!ENTITY saslOff.accesskey                 "Ј">
-<!ENTITY saslGSSAPI.label                  "Керберос (Kerberos, GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey              "K">
-
-<!-- Localization note: this is here because the width of the dialog 
-     is determined by the width of the base DN box; and that is likely
-     to vary somewhat with the language.
--->
-<!ENTITY newDirectoryWidth                 "46em">
-
+<!ENTITY findButton.accesskey "Н">
+<!ENTITY offlineText.label "Можете примити локалну копију овог директоријума тако да је доступан за употребу када радите неповезани на Интернет.">
+<!ENTITY return.accesskey "в">
+<!ENTITY newDirectoryWidth "46em">
+<!ENTITY searchFilter.accesskey "Ф">
+<!ENTITY saslGSSAPI.accesskey "К">
+<!ENTITY return.label "Не исписуј више од">
+<!ENTITY scopeSubtree.label "Подстабло">
+<!ENTITY Offline.tab "Неповезан рад">
+<!ENTITY portNumber.label "Број порта: ">
+<!ENTITY directoryBaseDN.accesskey "О">
+<!ENTITY scopeOneLevel.accesskey "н">
+<!ENTITY newDirectoryTitle.label "Својства сервера за директоријуме">
+<!ENTITY saslOff.accesskey "Ј">
+<!ENTITY Advanced.tab "Напредно">
+<!ENTITY saslOff.label "Једноставан">
+<!ENTITY saslMechanism.label "Начин пријаве: ">
+<!ENTITY results.label "резултата">
+<!ENTITY directoryName.label "Име:">
+<!ENTITY saslGSSAPI.label "Керберос (Kerberos, GSSAPI)">
+<!ENTITY directoryLogin.accesskey "и">
+<!ENTITY scope.accesskey "О">
+<!ENTITY directoryBaseDN.label "Основни DN:">
+<!ENTITY searchFilter.label "Филтер за претрагу:">
+<!ENTITY directorySecure.accesskey "У">
+<!ENTITY directorySecure.label "Употреба шифроване везе (SSL)">
+<!ENTITY directoryHostname.accesskey "Р">
+<!ENTITY General.tab "Опште">
+<!ENTITY directoryLogin.label "Прикопчај DN:">
+<!ENTITY directoryName.accesskey "И">
+<!ENTITY scope.label "Опсег: ">
+<!ENTITY scopeOneLevel.label "Један ниво">
+<!ENTITY portNumber.accesskey "Б">
+<!ENTITY findButton.label "Нађи">
+<!ENTITY scopeSubtree.accesskey "П">
+<!ENTITY directoryHostname.label "Рачунар:">
+<!ENTITY saslMechanism.accesskey "Н">

@@ -1,21 +1,17 @@
-<!ENTITY junkSettings.label "Подешавање за нежељену пошту">
+<!ENTITY junkFolderOn.accesskey "J">
 <!ENTITY trainingWarning.label "Ако је укључен, потребно је прво обучити &brandShortName; да препознаје отпадну пошту употребом алатне траке, тако што ћете означавати поруке као отпадне. Потребно је да дате примере и жељене и нежељене поште.">
-<!ENTITY level.label "Укључи адаптивну контролу нежељене поште за овај налог">
-<!ENTITY level.accesskey "У">
-
-<!ENTITY move.label "Померите нову нежељену пошту у:">
-<!ENTITY move.accesskey "П">
-<!ENTITY junkFolderOn.label "Директоријум &quot;смеће&quot; на:">
-<!ENTITY junkFolderOn.accesskey "Д">
-<!ENTITY otherFolder.label "Остало:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Аутоматски обриши нежељену пошту старију од">
-<!ENTITY purge1.accesskey "А">
-<!ENTITY purge2.label "дан(а)">
-
-<!ENTITY whitelist.label "Не означавај пошту као нежељену ако је пошиљалац у: ">
 <!ENTITY whitelist.accesskey "Н">
-
-<!ENTITY ispHeaders.label "Веруј заглављима о нежељеној пошти које поставља: ">
+<!ENTITY level.label "Укључи адаптивну контролу нежељене поште за овај налог">
+<!ENTITY otherFolder.accesskey "О">
 <!ENTITY ispHeaders.accesskey "В">
-
+<!ENTITY purge2.label "дан(а)">
+<!ENTITY whitelist.label "Не означавај пошту као нежељену ако је пошиљалац у: ">
+<!ENTITY move.label "Померите нову нежељену пошту у:">
+<!ENTITY purge1.label "Automatically delete junk mail older than">
+<!ENTITY junkSettings.label "Подешавање за нежељену пошту">
+<!ENTITY move.accesskey "П">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
+<!ENTITY level.accesskey "У">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY ispHeaders.label "Веруј заглављима о нежељеној пошти које поставља: ">
+<!ENTITY otherFolder.label "Остало:">

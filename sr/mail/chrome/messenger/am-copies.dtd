@@ -1,47 +1,34 @@
-<!-- extracted from am-copies.xul -->
-
-<!ENTITY copyAndFolderTitle.label "Копије и директоријуми">
-<!ENTITY sendingPrefix.label "При слању порука, аутоматски:">
-<!ENTITY fccMailFolder.label "Смести умножак у:">
-<!ENTITY fccMailFolder.accesskey "С">
-<!ENTITY fccReplyFollowsParent.label "Смести одговоре у директоријум поруке на коју се одговара">
-<!ENTITY fccReplyFollowsParent.accesskey "С">
-<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Коп. ове ел. адресе:">
-<!ENTITY ccAddress.accesskey "К">
-<!ENTITY ccAddressList.placeholder "Раздвоји адресе запетама">
-<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "сКоп ове адресе:">
-<!ENTITY bccAddress.accesskey "с">
-<!ENTITY bccAddressList.placeholder "Раздвоји адресе запетама">
-<!ENTITY saveMessageDlg.label "Прикажи прозорче са потврдом када се поруке чувају">
-<!ENTITY saveMessageDlg.accesskey "П">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Директоријум за послате поруке на:">
-<!ENTITY sentFolderOn.accesskey "Д">
-<!ENTITY sentInOtherFolder.label "Други:">
-<!ENTITY sentInOtherFolder.accesskey "Д">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY keepArchives.label "Чувај архиве у:">
-<!ENTITY keepArchives.accesskey "K">
-<!ENTITY archiveHierarchyButton.label "Опције архивирања…">
-<!ENTITY archiveHierarchyButton.accesskey "а">
-<!ENTITY archivesFolderOn.label "Место чувања архиве:">
-<!ENTITY archivesFolderOn.accesskey "ч">
-<!ENTITY archiveInOtherFolder.label "Остало:">
-<!ENTITY archiveInOtherFolder.accesskey "с">
-<!ENTITY specialFolders.label "Нацрти и обрасци">
-<!ENTITY keepDrafts.label "Чувај нацрте у:">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Директоријум за нацрте на:">
-<!ENTITY draftsFolderOn.accesskey "н">
-<!ENTITY draftInOtherFolder.label "Други:">
 <!ENTITY draftInOtherFolder.accesskey "г">
-<!ENTITY keepTemplates.label "Чувај обрасце у:">
-<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Директоријум за скице на:">
+<!ENTITY saveMessageDlg.accesskey "П">
+<!ENTITY ccAddress.accesskey "К">
+<!ENTITY fccReplyFollowsParent.label "Смести одговоре у директоријум поруке на коју се одговара">
+<!ENTITY keepTempltes.label "Чувај обрасце у:">
+<!ENTITY ccAddressList.emptytext "Раздвоји адресе запетама">
 <!ENTITY templatesFolderOn.accesskey "с">
+<!ENTITY sentInOtherFolder.accesskey "Д">
+<!ENTITY archivesFolderOn.label "Место чувања архиве:">
+<!ENTITY sentFolderOn.accesskey "Д">
 <!ENTITY templateInOtherFolder.label "Други:">
+<!ENTITY sentInOtherFolder.label "Други:">
+<!ENTITY sendingPrefix.label "При слању порука, аутоматски:">
+<!ENTITY ccAddress.label "Коп. ове ел. адресе:">
+<!ENTITY archiveInOtherFolder.accesskey "с">
 <!ENTITY templateInOtherFolder.accesskey "и">
-
+<!ENTITY draftInOtherFolder.label "Други:">
+<!ENTITY bccAddress.accesskey "с">
+<!ENTITY bccAddressList.emptytext "Separate addresses with commas">
+<!ENTITY copyAndFolderTitle.label "Копије и директоријуми">
+<!ENTITY fccMailFolder.accesskey "С">
+<!ENTITY fccMailFolder.label "Смести умножак у:">
+<!ENTITY archiveInOtherFolder.label "Остало:">
+<!ENTITY sentFolderOn.label "Директоријум за послате поруке на:">
+<!ENTITY keepDrafts.label "Чувај нацрте у:">
+<!ENTITY specialFoldersTitle.label "Скице, архиве и обрасци">
+<!ENTITY bccAddress.label "сКоп ове адресе:">
+<!ENTITY keepArchives.label "Чувај архиве у:">
+<!ENTITY templatesFolderOn.label "Директоријум за скице на:">
+<!ENTITY draftsFolderOn.accesskey "н">
+<!ENTITY saveMessageDlg.label "Прикажи прозорче са потврдом када се поруке чувају">
+<!ENTITY fccReplyFollowsParent.accesskey "С">
+<!ENTITY archivesFolderOn.accesskey "ч">
+<!ENTITY draftsFolderOn.label "Директоријум за нацрте на:">

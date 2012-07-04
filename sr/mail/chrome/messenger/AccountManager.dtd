@@ -1,27 +1,13 @@
-<!-- extracted from AccountManager.xul -->
-
-<!ENTITY accountManagerTitle.label "Подешавања налога">
-
-<!ENTITY accountActionsButton.label "Дејства над налозима">
-<!ENTITY accountActionsButton.accesskey "Д">
-<!ENTITY addMailAccountButton.label "Додај налог…">
+<!ENTITY accountManager.size "width: 97ch; height: 49em;">
 <!ENTITY addMailAccountButton.accesskey "н">
-<!ENTITY addOtherAccountButton.label "Додај други налог…">
+<!ENTITY removeButton.accesskey "У">
+<!ENTITY accountActionsButton.label "Дејства над налозима">
+<!ENTITY removeButton.label "Уклони налог">
 <!ENTITY addOtherAccountButton.accesskey "р">
 <!ENTITY setDefaultButton.label "Означи као подразумеван">
 <!ENTITY setDefaultButton.accesskey "п">
-<!ENTITY removeButton.label "Уклони налог">
-<!ENTITY removeButton.accesskey "У">
-
-<!-- AccountManager.xul -->
-<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
-     setting dialog, which specifies the width and height in em units of the dialog.
-     Localizers ONLY can increase these widths if they are having difficulty getting
-     panel content to fit.
-     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
-     1em = The height of the font.
-     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
-     this window for en-US. -->
-<!ENTITY accountManager.size "width: 105ch; height: 55em;">
+<!ENTITY accountActionsButton.accesskey "Д">
 <!ENTITY accountTree.width "width: 31ch;">
-
+<!ENTITY addMailAccountButton.label "Додај налог…">
+<!ENTITY accountManagerTitle.label "Подешавања налога">
+<!ENTITY addOtherAccountButton.label "Додај други налог…">

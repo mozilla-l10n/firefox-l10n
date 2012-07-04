@@ -1,9 +1,8 @@
-<!ENTITY attachmentReminderDialog.title   "Кључне речи подсетници за прилог">
-<!ENTITY attachKeywordText.label          "Програм &brandShortName; ће упозорити о недостајућим прилозима ако желите да пошаљете ел. пошту која садржи једну од наредних кључних речи.">
-<!ENTITY addKeywordButton.label           "Додај">
-<!ENTITY addKeywordButton.accesskey       "Д">
-<!ENTITY editKeywordButton.label          "Уређивање">
-<!ENTITY editKeywordButton.accesskey      "У">
-<!ENTITY removeKeywordButton.label        "Уклони">
-<!ENTITY removeKeywordButton.accesskey    "У">
-
+<!ENTITY attachmentReminderDialog.title "Кључне речи подсетници за прилог">
+<!ENTITY removeKeywordButton.label "Уклони">
+<!ENTITY addKeywordButton.accesskey "Д">
+<!ENTITY editKeywordButton.accesskey "У">
+<!ENTITY addKeywordButton.label "Додај">
+<!ENTITY attachKeywordText.label "Програм &brandShortName; ће упозорити о недостајућим прилозима ако желите да пошаљете ел. пошту која садржи једну од наредних кључних речи.">
+<!ENTITY removeKeywordButton.accesskey "У">
+<!ENTITY editKeywordButton.label "Уређивање">
