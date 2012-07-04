@@ -16,9 +16,9 @@
 <!ENTITY whitelistHeader.label "Betg classifitgar automaticamain in messadi sco nungiavischà sche ses speditur figurescha en quest cudeschet d'adressas: ">
 <!ENTITY whitelistHeader.accesskey "D">
 
-<!ENTITY ispHeadersWarning.label "Sche activà vegn &brandShortName; tractar automaticamain messadis marcads da quest servertsch da classificaziun extern sco nungiavischads.">
+<!ENTITY ispHeadersWarning.label "Sche activà vegn &brandShortName; tractar automaticamain messadis marcads da quest servetsch da classificaziun extern sco nungiavischads.">
 <!ENTITY ispHeaders.label "Fidar a chaus-pagina da messadis nungiavischads da quest filter extern: ">
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "Selecziun">
-<!ENTITY junkActions.label "Destinaziun e rentenziun">
+<!ENTITY junkActions.label "Destinaziun e retenziun">
