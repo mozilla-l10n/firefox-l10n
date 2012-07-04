@@ -582,6 +582,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova etiqueta...">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Gerir etiquetas…">
+<!ENTITY manageTags.accesskey "G">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Nome">
@@ -793,7 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Esta mensagem pode ser um engodo.">
 <!ENTITY removePhishingBarButton1.label "Ignorar aviso">
-<!ENTITY disablePhishingWarning1.label "Desativar detecção de engodo em todas as mensagens">
+<!ENTITY disablePhishingWarning1.label "Desativar deteção de engodo em todas as mensagens">
 <!ENTITY reportPhishingError1.label "Esta mensagem não parece ser engodo.">
 
 <!-- MDN Bar -->
