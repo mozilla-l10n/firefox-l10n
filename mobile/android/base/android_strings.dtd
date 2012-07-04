@@ -47,6 +47,10 @@
 
 <!ENTITY reload "重新載入">
 <!ENTITY forward "下一頁">
+<!ENTITY menu "選單">
+<!ENTITY back "上一頁">
+<!ENTITY stop "停止">
+<!ENTITY site_security "網站安全">
 
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY new_tab "開新分頁">
