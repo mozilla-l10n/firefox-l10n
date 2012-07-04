@@ -13,7 +13,7 @@
 <!ENTITY useSmoothScrolling.accesskey "s">
 <!ENTITY allowHWAccel.label "Usa aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey "r">
-<!ENTITY checkSpelling.label "Comprobar la ortografía mientras se escribe">
+<!ENTITY checkSpelling.label "Revisar mi ortografía mientras escribo">
 <!ENTITY checkSpelling.accesskey "o">
 <!ENTITY systemDefaults.label "Por defecto">
 <!ENTITY alwaysCheckDefault.label "Comprobar que &brandShortName; sea mi navegador predeterminado al abrirlo">
@@ -37,7 +37,7 @@
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
 <!ENTITY clearOfflineAppCacheNow.label "Limpiar ahora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.accesskey "L">
 <!ENTITY overrideSmartCacheSize.label "Anulación de administración de caché automático">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY updateTab.label "Actualizar">

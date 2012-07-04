@@ -51,7 +51,7 @@
 <!ENTITY addonBarCmd.label "Barra de complemento">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "c">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -80,14 +80,14 @@
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores sin clasificar">
-<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Anterior">
-<!ENTITY backCmd.accesskey "t">
+<!ENTITY backCmd.accesskey "A">
 <!ENTITY backButton.tooltip "Regresar una página">
 <!ENTITY forwardCmd.label "Siguiente">
-<!ENTITY forwardCmd.accesskey "g">
+<!ENTITY forwardCmd.accesskey "S">
 <!ENTITY forwardButton.tooltip "Avanzar una página">
-<!ENTITY backForwardButtonMenu.tooltip "Clic secundario o arrastrar hacia abajo  mostrar e historial">
+<!ENTITY backForwardButtonMenu.tooltip "Clic secundario o arrastrar para mostrar el historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastrar para mostrar el historial">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
@@ -95,7 +95,7 @@
 <!ENTITY stopCmd.label "Parar">
 <!ENTITY stopCmd.accesskey "P">
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Detener la descarga de esta página">
+<!ENTITY stopButton.tooltip "Detener la carga de esta página">
 <!ENTITY goEndCap.tooltip "Ir a la barra de ubicaciones">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
@@ -161,7 +161,7 @@
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "O">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "e">
 <!ENTITY inspectorHTMLDelete.label "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "B">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
@@ -169,7 +169,7 @@
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor de estilos">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.accesskey "E">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
