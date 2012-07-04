@@ -9,7 +9,7 @@
 <!ENTITY connectionFailure.title "Повезивање није успело">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Приступ овој адреси је ограничен">
+<!ENTITY deniedPortAccess.title "Приступ овој адреси је забрањен">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
@@ -88,7 +88,7 @@
 
 <!ENTITY unknownSocketType.title "Неочекиван одговор од сервера">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Проверите да ли рачунар има инсталиран личнн управник безбедности.</li> 
+<li>Проверите да ли рачунар има инсталиран лични управник безбедности.</li> 
 <li>Узрок овој грешци може да буде нестандардно подешавање сервера.</li> 
 </ul>">
 
@@ -120,7 +120,7 @@
 <!ENTITY phishingBlocked.longDesc "<p>Уношење ма каквих личних података на овој страни може да буде узрок крађе идентитета или друге врсте преваре.</p> 
 <p>Ова врста мрежних фалсификата користи се у преварама познатим под именом „фишинг‟ (phishing), при којима се злонамерне веб стране или ел. адресе користе да имитирају изворе којима верујете.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Блокирала политика безбедности садржаја">
+<!ENTITY cspFrameAncestorBlocked.title "Блокирано због полисе о безбедности садржаја">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин, јер садржи полису о безбедности садржаја која то онемогућава.</p>">
 
 <!ENTITY corruptedContentError.title "Грешка услед оштећеног садржаја">
@@ -144,4 +144,3 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Удаљени XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Молимо да обавестите власнике веб сајта о овом проблему.</li></ul></p>">
-

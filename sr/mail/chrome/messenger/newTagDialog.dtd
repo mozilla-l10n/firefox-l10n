@@ -1,5 +1,3 @@
-<!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Нова ознака">
-<!ENTITY name.label              "Ознака:">
-<!ENTITY name.accesskey          "О">
-
+<!ENTITY newTagDialog.title "Нова ознака">
+<!ENTITY name.accesskey "О">
+<!ENTITY name.label "Ознака:">

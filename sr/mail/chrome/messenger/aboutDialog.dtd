@@ -1,66 +1,15 @@
-<!ENTITY aboutDialog.title          "О програму &brandFullName;">
-
-<!ENTITY community.start2           "&brandShortName; је дизајнирала ">
-<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", ">
-<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "глобална заједница">
-<!ENTITY community.end2             " радећи заједно, да бисмо побољшали Интернет. Верујемо да Интернет треба да буде отворен, јаван и доступан свакоме, без икаквих ограничења.">
-
-<!ENTITY contribute.start           "Звучи занимљиво? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Укључи се!">
-<!ENTITY contribute.end             "">
-
-<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Подаци о лиценцирању">
-
-<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Права крајњег корисника">
-
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Полиса о приватности">
-
-<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Провера доградњи…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Проверавање усаглашености додатака…">
-<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; је ажуриран">
-<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Администратор система је онемогућио ажурирања">
-
-<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
-     update.failed.start, update.failed.linkText, and update.failed.end all go into
-     one line with linkText being wrapped in an anchor that links to a site to download
-     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
-     one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Ажурирање није успело. ">
-<!ENTITY update.failed.linkText     "Преузми најновије издање">
-<!ENTITY update.failed.end          "">
-
-<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
-     all go into one line and have an anchor in between with text that is the same as the link to a site
-     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
-     try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Преузмите ">
-<!ENTITY update.manual.linkText     "најновије издање">
-<!ENTITY update.manual.end          "">
-
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
-     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
-     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
-     the "em dash" (long dash).
-     example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Пријем доградње — ">
-<!ENTITY update.downloading.end     "">
-
-<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
-     channel.description.end create one sentence, with the current channel label inserted in between.
-     example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Тренутно сте на ">
-<!ENTITY channel.description.end    " канал за доградње. ">
-
+<!ENTITY aboutVersion "издање">
+<!ENTITY aboutDialog.title "О програму &brandFullName;">
+<!ENTITY aboutLicense.accesskey "Л">
+<!ENTITY aboutCredits.label "Заслуге">
+<!ENTITY aboutContributors.label "Приложници">
+<!ENTITY aboutButton.accesskey "Н">
+<!ENTITY aboutRights.accesskey "п">
+<!ENTITY aboutLicense.label "Лиценца">
+<!ENTITY aboutMenu.label "О програму">
 <!ENTITY cmdCloseMac.commandKey "w">
-
+<!ENTITY aboutCredits.accesskey "З">
+<!ENTITY aboutButton.label "&lt; Назад">
+<!ENTITY aboutRights.label "Ваша права">
+<!ENTITY aboutMenu.accesskey "О">
+<!ENTITY aboutContributors.accesskey "р">

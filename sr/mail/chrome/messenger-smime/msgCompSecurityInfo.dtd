@@ -1,15 +1,12 @@
-<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
-
-<!ENTITY title.label "Безбедност поруке">
-<!ENTITY subject.plaintextWarning "Обратите пажњу да се линије са темом поруке никада не шифрују.">
-<!ENTITY status.heading "Садржај ваше поруке ће овако изгледати:">
-<!ENTITY status.signed "Дигитални потпис:">
-<!ENTITY status.encrypted "Шифрован:">
-<!ENTITY status.certificates "Сертификати:">
-<!ENTITY view.label "Преглед">
-<!ENTITY view.accesskey "П">
 <!ENTITY tree.recipient "Прима">
-<!ENTITY tree.status "Статус">
-<!ENTITY tree.issuedDate "Издат">
+<!ENTITY view.accesskey "П">
 <!ENTITY tree.expiresDate "Истиче">
-
+<!ENTITY title.label "Безбедност поруке">
+<!ENTITY status.encrypted "Шифрован:">
+<!ENTITY subject.plaintextWarning "Обратите пажњу да се линије са темом поруке никада не шифрују.">
+<!ENTITY view.label "Преглед">
+<!ENTITY status.heading "Садржај ваше поруке ће овако изгледати:">
+<!ENTITY tree.issuedDate "Издат">
+<!ENTITY status.signed "Дигитални потпис:">
+<!ENTITY status.certificates "Сертификати:">
+<!ENTITY tree.status "Статус">

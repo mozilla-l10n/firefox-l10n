@@ -1,30 +1,29 @@
-<!ENTITY window.title "Филтери за пошту">
-<!ENTITY nameColumn.label "Име филтера">
-<!ENTITY activeColumn.label "Укључен">
-<!ENTITY newButton.label "Ново…">
 <!ENTITY newButton.accesskey "Н">
-<!ENTITY editButton.label "Уреди…">
-<!ENTITY editButton.accesskey "У">
+<!ENTITY activeColumn.label "Укључен">
 <!ENTITY deleteButton.label "Уклони">
-<!ENTITY deleteButton.accesskey "к">
-<!ENTITY reorderUpButton.label "Помери горе">
-<!ENTITY reorderUpButton.accesskey "г">
-<!ENTITY reorderDownButton.label "Помери доле">
-<!ENTITY reorderDownButton.accesskey "д">
-<!ENTITY filterHeader.label "Укључени филтери се аутоматски покрећу у доле назначеном редоследу.">
 <!ENTITY filtersForPrefix.label "Филтери за:">
-<!ENTITY filtersForPrefix.accesskey "Ф">
-<!ENTITY viewLogButton.label "Дневник филтера">
 <!ENTITY viewLogButton.accesskey "Д">
-<!ENTITY runFilters.label "Покрени сад">
-<!ENTITY runFilters.accesskey "П">
-<!ENTITY stopFilters.label "Стоп">
-<!ENTITY stopFilters.accesskey "С">
-<!ENTITY folderPickerPrefix.label "Покрени изабране филтере на:">
-<!ENTITY folderPickerPrefix.accesskey "и">
-<!ENTITY choosethis.label "изабери овај директоријум">
+<!ENTITY deleteButton.accesskey "к">
+<!ENTITY nameColumn.label "Име филтера">
+<!ENTITY editButton.label "Уреди…">
 <!ENTITY choosethisnewsserver.label "изабери овај сервер за групе">
-<!ENTITY helpButton.label "Помоћ">
 <!ENTITY helpButton.accesskey "П">
-<!ENTITY closeCmd.key "W"> 
-
+<!ENTITY reorderUpButton.accesskey "г">
+<!ENTITY filterHeader.label "Укључени филтери се аутоматски покрећу у доле назначеном редоследу.">
+<!ENTITY closeCmd.key "W">
+<!ENTITY reorderDownButton.label "Помери доле">
+<!ENTITY folderPickerPrefix.accesskey "и">
+<!ENTITY viewLogButton.label "Дневник филтера">
+<!ENTITY helpButton.label "Помоћ">
+<!ENTITY runFilters.accesskey "П">
+<!ENTITY runFilters.label "Покрени сад">
+<!ENTITY newButton.label "Ново…">
+<!ENTITY stopFilters.accesskey "С">
+<!ENTITY window.title "Филтери за пошту">
+<!ENTITY folderPickerPrefix.label "Покрени изабране филтере на:">
+<!ENTITY reorderUpButton.label "Помери горе">
+<!ENTITY reorderDownButton.accesskey "д">
+<!ENTITY filtersForPrefix.accesskey "Ф">
+<!ENTITY stopFilters.label "Стоп">
+<!ENTITY choosethis.label "изабери овај директоријум">
+<!ENTITY editButton.accesskey "У">

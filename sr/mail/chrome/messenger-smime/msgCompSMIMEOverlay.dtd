@@ -1,17 +1,10 @@
-<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
-
 <!ENTITY menu_securityEncryptRequire.label "Шифруј ову поруку">
-<!ENTITY menu_securityEncryptRequire.accesskey "и">
-
 <!ENTITY menu_securitySign.label "Потпиши ову поруку">
-<!ENTITY menu_securitySign.accesskey "П">
-
-<!ENTITY menu_securityStatus.label "Прегледај податке о безбедности">
-<!ENTITY menu_securityStatus.accesskey "б">
-
-<!ENTITY securityButton.label "Безбедност">
 <!ENTITY securityButton.tooltip "Преглед и промена безбедносних поставки">
-
+<!ENTITY menu_securityEncryptRequire.accesskey "и">
+<!ENTITY menu_securityStatus.accesskey "б">
+<!ENTITY securityButton.label "Безбедност">
+<!ENTITY menu_securitySign.accesskey "П">
+<!ENTITY menu_securityStatus.label "Прегледај податке о безбедности">
 <!ENTITY menu_viewSecurityStatus.label "Подаци о безбедности поруке">
 <!ENTITY menu_viewSecurityStatus.accesskey "з">
-

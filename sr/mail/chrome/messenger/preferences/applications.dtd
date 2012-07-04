@@ -1,20 +1,15 @@
-<!ENTITY  typeColumn.label            "Врста садржаја">
-<!ENTITY  typeColumn.accesskey        "В">
-
-<!ENTITY  actionColumn2.label         "Дејство">
-<!ENTITY  actionColumn2.accesskey     "Д">
-
-<!ENTITY  focusSearch1.key            "f">
-<!ENTITY  focusSearch2.key            "k">
-
-<!ENTITY  filter.placeholder          "Тражи">
-
-<!ENTITY saveTo.label                 "Сачувај датотеке у">
-<!ENTITY saveTo.accesskey             "С">
-<!ENTITY alwaysAsk.label              "Увек питај где се чувају датотеке">
-<!ENTITY alwaysAsk.accesskey          "У">
-<!ENTITY chooseFolderWin.label        "Преглед…">
-<!ENTITY chooseFolderWin.accesskey    "П">
-<!ENTITY chooseFolderMac.label        "Избор…">
-<!ENTITY chooseFolderMac.accesskey    "И">
-
+<!ENTITY focusSearch2.key "k">
+<!ENTITY typeColumn.accesskey "В">
+<!ENTITY saveTo.accesskey "С">
+<!ENTITY chooseFolderWin.label "Преглед…">
+<!ENTITY chooseFolderMac.label "Избор…">
+<!ENTITY chooseFolderMac.accesskey "И">
+<!ENTITY filter.emptytext "Тражи">
+<!ENTITY chooseFolderWin.accesskey "П">
+<!ENTITY alwaysAsk.label "Увек питај где се чувају датотеке">
+<!ENTITY actionColumn2.accesskey "Д">
+<!ENTITY typeColumn.label "Врста садржаја">
+<!ENTITY saveTo.label "Сачувај датотеке у">
+<!ENTITY actionColumn2.label "Дејство">
+<!ENTITY alwaysAsk.accesskey "У">
+<!ENTITY focusSearch1.key "f">

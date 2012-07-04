@@ -18,7 +18,7 @@
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Мој календар">
 <!ENTITY homeButton.tooltip             "Иди на почетну страну помоћи">
-<!ENTITY printButton.label              "Штампај">
+<!ENTITY printButton.label              "Штампање">
 <!ENTITY printButton.tooltip            "Штампај ову страну">
 <!ENTITY closeWindow.commandkey         "о">
 
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey    "1">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY helpSearch.commandkey          "П">
@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.accesskey               "У">
 
 <!ENTITY fullZoomReduceBtn.label        "Умањи">
-<!ENTITY fullZoomReduceBtn.accesskey    "У">
+<!ENTITY fullZoomReduceBtn.accesskey    "м">
 <!ENTITY fullZoomEnlargeBtn.label       "Увећај">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "У">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "в">
 

@@ -1,96 +1,36 @@
-<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
-<!ENTITY featureConfigurator.title "Помоћник за миграцију">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
-<!ENTITY featureConfigurator.heading1 "Нове могућности програма &brandShortName;">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.para.1): The tone of this paragraph is important: we tried for a tone that promotes the new features (which we believe are good and worth users learning about), but also emphasizing that we think it's important to preserve user choice. -->
-<!ENTITY featureConfigurator.para.1 "Ово ново издање програма &brandShortName; садржи моћне нове могућности на које смо јако поносни и за које мислимо да ће се многима допасти.  Како се укуси и потребе различитих људи разликују, направили смо програм &brandShortName; да се лако може подешавати.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Користите ову страну како бисте поставили нова подешавања.  Увеко можете да се вратите до помоћника за миграцију из менија за помоћ.">
-
 <!ENTITY featureConfigurator.toolbar.heading "Нова алатна трака">
-<!ENTITY featureConfigurator.toolbar.new "Алатна трака за дугмад за поруке">
-<!ENTITY featureConfigurator.toolbar.new.status.explanation "Чиста алатна трака са свим дугмадима за поруке на дохват руке.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original "Задржите изворну дугмад из алатне траке">
-<!ENTITY featureConfigurator.toolbar.original.status.explanation "Задржите све прилагођене алатне траке поред дугмади за поруке.">
-
-<!ENTITY featureConfigurator.toolbarBenefits.para "Чистије сучеље од нашег претходног подразумеваког, оставља више простора за траку за претрагу, као и за додатке.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
-<!ENTITY featureConfigurator.addOn.downloading "Преузимам…">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
-<!ENTITY featureConfigurator.addOn.installing "Инсталација…">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
-<!ENTITY featureConfigurator.addOn.installed "Инсталирано">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
-<!ENTITY featureConfigurator.addOn.failure "Настао је проблем при инсталацији продужетка!">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
-<!ENTITY featureConfigurator.addOn.alreadyInstalled "Овај продужетак је већ инсталиран.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Сажета заглавља">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Компактни поглед за читање порука је померен у сопствени продужетак где добија много више пажње и опција.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Приметили смо да користите компактно заглавље за поруке.  Ова могућност је померена у сопствени продужетак, па препоручујемо да га инсталирате ако желите да наставите да га користите.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
-<!ENTITY featureConfigurator.collapsedHeaders.install "Инсталација компактних заглавља…">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
-<!ENTITY featureConfigurator.folderColumns.heading "Колона са напредним директоријумима">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "Колона са напредним директоријумима је продужетак који замењује оно што су некада била напредна подешавања.  Да бисте задржали језичке за приказ тачног броја порука и слобоног простора на диску, треба да инсталирате овај продужетак.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.strong "Приметили смо да сте користили напредне колоне са директоријумима.  Ова могућност је померена у сопствени продужетак, па препоручујемо да га инсталирате.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
-<!ENTITY featureConfigurator.folderColumns.install "Инсталација додатних колона…">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
-<!ENTITY featureConfigurator.autoSync.heading "Слободан простор">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
-<!ENTITY featureConfigurator.autoSync.para "Ово је ново издање програма &brandShortName; са новом и побољшаном функционалношћу за претрагу.  Да бисте искусили нову претрагу, потребно је да синхронизујете електронску пошту.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
-<!ENTITY featureConfigurator.autoSync.on "Синхронизуј">
-<!ENTITY featureConfigurator.autoSync.on.explanation "Приметићете да се поруке брже учитавају и квалитетније претражују.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
-<!ENTITY featureConfigurator.autoSync.off "Не синхронизуј">
-<!ENTITY featureConfigurator.autoSync.off.explanation "То ће значити спорије учитавање порука и делимичне резултате претраге.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
-<!ENTITY featureConfigurator.autoSync.some "Синхронизација по налогу понаособ">
-<!ENTITY featureConfigurator.autoSync.some.explanation "Прилагодите потребе синхронизације за сваки налог и директоријум.">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
-<!ENTITY featureConfigurator.diskSpace.currentSize "Тренутна употреба ел. поште:">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
-<!ENTITY featureConfigurator.diskSpace.freeSpace "Слободан простор:">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
-<!ENTITY featureConfigurator.diskSpace.requireSpace "Потребно:">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
-<!ENTITY featureConfigurator.diskSpace.warning "Понестаје простора!">
-
-
-<!ENTITY featureConfigurator.previousButton "Претходно">
-<!ENTITY featureConfigurator.nextButton "Следеће">
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "This extension is already installed.">
+<!ENTITY featureConfigurator.title "Помоћник за миграцију">
+<!ENTITY featureConfigurator.autoSync.on.explanation "You'll see faster message loading and better search results.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "The Extra Folder Columns extension replaces what was initially an advanced preference.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
+<!ENTITY featureConfigurator.autoSync.on "Synchronize">
+<!ENTITY featureConfigurator.autoSync.some "Per Account Synchronization">
 <!ENTITY featureConfigurator.closeButton "Затвори">
-
+<!ENTITY featureConfigurator.para.2 "Користите ову страну како бисте поставили нова подешавања.  Увеко можете да се вратите до помоћника за миграцију из менија за помоћ.">
+<!ENTITY featureConfigurator.para.1 "This new version of &brandShortName; includes powerful new features which we're quite proud of, and think most people will love. People's tastes and needs vary, so we made it easy to control and customize &brandShortName;.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "The compact message reader view has been moved into its own extension where it is now getting much more attention and options.">
+<!ENTITY featureConfigurator.previousButton "Претходно">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Чистије сучеље од нашег претходног подразумеваког, оставља више простора за траку за претрагу, као и за додатке.">
+<!ENTITY featureConfigurator.autoSync.off.explanation "This will mean slower message loading and incomplete search results.">
+<!ENTITY featureConfigurator.nextButton "Следеће">
+<!ENTITY featureConfigurator.toolbar.new "Message Buttons Toolbar">
+<!ENTITY featureConfigurator.autoSync.para "This new version of &brandShortName; comes with a new and better search functionality.  To experience this new search you'll need to synchronize your email messages.">
+<!ENTITY featureConfigurator.autoSync.off "Do not Synchronize">
+<!ENTITY featureConfigurator.addOn.installing "Постављам…">
+<!ENTITY featureConfigurator.diskSpace.warning "You're running low on space!">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Сажета заглавља">
+<!ENTITY featureConfigurator.folderColumns.install "Install Extra Columns…">
+<!ENTITY featureConfigurator.addOn.installed "Инсталирано">
+<!ENTITY featureConfigurator.diskSpace.currentSize "Your current total email usage:">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Install Compact Header…">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Required:">
+<!ENTITY featureConfigurator.folderColumns.para.strong "We noticed that you were using the Advanced Folder columns.  This feature has moved into its own extension, and we recommend you install here.">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Keep any custom toolbar buttons in addition to the new Message Buttons.">
+<!ENTITY featureConfigurator.autoSync.heading "Disk space">
+<!ENTITY featureConfigurator.folderColumns.heading "Advanced Folder Columns">
+<!ENTITY featureConfigurator.heading1 "New &brandShortName; features worth knowing about">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Customize your synchronization needs per account and folder.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "We noticed that you were using the compact message reader header.  This function has moved into its own extension and we recommend you install it here if you would like to continue using it.">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Free Space:">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "A clean toolbar with all your messaging buttons at your fingertips.">
+<!ENTITY featureConfigurator.toolbar.original "Keep your original Toolbar buttons">

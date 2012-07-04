@@ -1,24 +1,16 @@
-<!-- extracted from am-advanced.xul -->
-
-<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Подешавања одлазног сервера (SMTP)">
-
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Иако можете да означите више од једног одлазног сервера (SMTP), то се препоручује само за напредне кориснике.  Постављање више SMTP сервера може да доведе до грешака при слању порука.">
-
-<!ENTITY smtpListAdd.label  "Додај…">
-<!ENTITY smtpListAdd.accesskey  "Д">
-<!ENTITY smtpListEdit.label "Уреди…">
-<!ENTITY smtpListEdit.accesskey "У">
-<!ENTITY smtpListDelete.label "Уклони">
-<!ENTITY smtpListDelete.accesskey "У">
-<!ENTITY smtpListSetDefault.label "Подразумевани">
-<!ENTITY smtpListSetDefault.accesskey "П">
-
-<!ENTITY serverDescription.label "Опис:">
 <!ENTITY serverName.label "Име сервера: ">
-<!ENTITY serverPort.label "Порт: ">
-<!ENTITY userName.label   "Кор. име: ">
+<!ENTITY smtpListAdd.accesskey "Д">
 <!ENTITY connectionSecurity.label "Безбедност везе:">
-<!ENTITY authMethod.label   "Метод за аутентикацију: ">
-
+<!ENTITY smtpServer.label "Подешавања одлазног сервера (SMTP)">
+<!ENTITY userName.label "Кор. име: ">
+<!ENTITY smtpListDelete.label "Уклони">
+<!ENTITY smtpDesc.label "Иако можете да означите више од једног одлазног сервера (SMTP), то се препоручује само за напредне кориснике.  Постављање више SMTP сервера може да доведе до грешака при слању порука.">
+<!ENTITY smtpListSetDefault.label "Подразумевани">
+<!ENTITY smtpListAdd.label "Додај…">
+<!ENTITY serverDescription.label "Опис:">
+<!ENTITY smtpListSetDefault.accesskey "П">
+<!ENTITY smtpListDelete.accesskey "У">
+<!ENTITY smtpListEdit.accesskey "У">
+<!ENTITY serverPort.label "Порт: ">
+<!ENTITY smtpListEdit.label "Уреди…">
+<!ENTITY authMethod.label "Метод за аутентикацију: ">

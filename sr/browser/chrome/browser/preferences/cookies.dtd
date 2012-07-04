@@ -7,7 +7,7 @@
 <!ENTITY     button.removecookie.label      "Уклони колачић">
 <!ENTITY     button.removecookie.accesskey  "У">
 <!ENTITY     button.removeallcookies.label  "Уклони све колачиће">
-<!ENTITY     button.removeallcookies.accesskey "У">
+<!ENTITY     button.removeallcookies.accesskey "в">
 
 <!ENTITY     props.name.label               "Назив:">
 <!ENTITY     props.value.label              "Садржај:">
@@ -21,8 +21,8 @@
 <!ENTITY     focusSearch1.key               "с">
 <!ENTITY     focusSearch2.key               "П">
 
-<!ENTITY     filter.label                   "Нађи:">
-<!ENTITY     filter.accesskey               "Н">
+<!ENTITY     filter.label                   "Тражи:">
+<!ENTITY     filter.accesskey               "Т">
 
 <!ENTITY     button.close.label             "Затвори">
 <!ENTITY     button.close.accesskey         "C">

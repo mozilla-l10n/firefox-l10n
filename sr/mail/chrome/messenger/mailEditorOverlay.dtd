@@ -1,3 +1,2 @@
-<!ENTITY sendPage.label                   "Пошаљи страну…">
-<!ENTITY sendPage.accesskey               "с">
-
+<!ENTITY sendPage.accesskey "с">
+<!ENTITY sendPage.label "Пошаљи страну…">

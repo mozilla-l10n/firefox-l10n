@@ -41,15 +41,15 @@
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Умножи">
+<!ENTITY  copy.label            "Копирај">
 <!ENTITY  copy.accesskey        "У">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Изабери све">
 <!ENTITY  selectall.accesskey   "И">
 <!ENTITY  closeWindow.key       "с">
 
-<!ENTITY  generalTab            "Основне поставке">
-<!ENTITY  generalTab.accesskey  "О">
+<!ENTITY  generalTab            "Опште">
+<!ENTITY  generalTab.accesskey  "O">
 <!ENTITY  generalURL            "Адреса:">
 <!ENTITY  generalType           "Врста:">
 <!ENTITY  generalMode           "Тип приказа:">
@@ -67,7 +67,7 @@
 <!ENTITY  mediaTab.accesskey    "М">
 <!ENTITY  mediaLocation         "Адреса:">
 <!ENTITY  mediaText             "Придружени текст:">
-<!ENTITY  mediaAltHeader        "Текст за замену">
+<!ENTITY  mediaAltHeader        "Резервни текст">
 <!ENTITY  mediaAddress          "Адреса">
 <!ENTITY  mediaType             "Тип">
 <!ENTITY  mediaSize             "Величина">
@@ -98,6 +98,7 @@
 <!ENTITY  permCookie            "Постави колачиће">
 <!ENTITY  permInstall           "Инсталација продужетака и тема">
 <!ENTITY  permGeo               "Објави локацију">
+<!ENTITY  permPlugins           "Активирање прикључака">
 
 <!ENTITY  permIndexedDB              "Одржавај складиште ван мреже">
 <!ENTITY  permClearStorage           "Очисти складиште">
@@ -108,10 +109,10 @@
 <!ENTITY  securityHeader        "Подаци о безбедности ове стране">
 <!ENTITY  securityView.certView "Преглед сертификата">
 <!ENTITY  securityView.accesskey "Н">
-<!ENTITY  securityView.unknown   "Непознато">
+<!ENTITY  securityView.unknown   "Непознат">
 
 
-<!ENTITY  securityView.identity.header   "Идентитет веб сајта">
+<!ENTITY  securityView.identity.header   "Идентитет сајта">
 <!ENTITY  securityView.identity.owner    "Власник:">
 <!ENTITY  securityView.identity.domain   "Веб сајт:">
 <!ENTITY  securityView.identity.verifier "Проверио:">
@@ -120,10 +121,10 @@
 <!ENTITY  securityView.privacy.history                  "Да ли сте раније посетили овај сајт?">
 <!ENTITY  securityView.privacy.cookies                  "Да ли овај веб сајт чува податке („колачиће“) на мом рачунару?">
 <!ENTITY  securityView.privacy.viewCookies              "Преглед колачића">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "к">
-<!ENTITY  securityView.privacy.passwords                "Да ли чувате неку лозинку за овај веб сајт?">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "П">
+<!ENTITY  securityView.privacy.passwords                "Да ли чувате неку лозинку за овај сајт?">
 <!ENTITY  securityView.privacy.viewPasswords            "Преглед сачуваних лозинки">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "л">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "с">
 
 <!ENTITY  securityView.technical.header                 "Технички детаљи">
 

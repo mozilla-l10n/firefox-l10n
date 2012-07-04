@@ -7,11 +7,10 @@
 <!ENTITY next.tooltip "Налази наредну појаву фразе">
 <!ENTITY previous.label "Претходно">
 <!ENTITY previous.accesskey "П">
-<!ENTITY previous.tooltip "Налази претходну појаву фразе">
-<!ENTITY findCloseButton.tooltip "Затвара линију претраге">
+<!ENTITY previous.tooltip "Пронађи претходну појаву фразе">
+<!ENTITY findCloseButton.tooltip "Затвори траку за проналажење">
 <!ENTITY highlight.label "Истакни све">
 <!ENTITY highlight.accesskey "И">
-<!ENTITY highlight.tooltiptext "Истиче све појаве фразе">
+<!ENTITY highlight.tooltiptext "Истакни све појаве фразе">
 <!ENTITY caseSensitiveCheckbox.label "Разликуј величину слова">
 <!ENTITY caseSensitiveCheckbox.accesskey "Р">
-

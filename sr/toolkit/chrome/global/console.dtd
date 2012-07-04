@@ -35,13 +35,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Конзола са грешкама">
+<!ENTITY errorConsole.title "Конзола за грешке">
 
 <!ENTITY errFile.label   "Изворна датотека:">
 <!ENTITY errLine.label   "Ред:">
 <!ENTITY errColumn.label "Колона:">
 
-<!ENTITY all.label          "Сви">
+<!ENTITY all.label          "Све">
 <!ENTITY all.accesskey      "С">
 <!ENTITY errors.label       "Грешке">
 <!ENTITY errors.accesskey   "Г">
@@ -50,20 +50,20 @@
 <!ENTITY messages.label     "Поруке">
 <!ENTITY messages.accesskey "П">
 <!ENTITY clear.label        "Уклони">
-<!ENTITY clear.accesskey    "У">
-<!ENTITY codeEval.label     "Код:">
-<!ENTITY codeEval.accesskey "К">
+<!ENTITY clear.accesskey    "К">
+<!ENTITY codeEval.label     "Кôд:">
+<!ENTITY codeEval.accesskey "д">
 <!ENTITY evaluate.label     "Израчунај">
-<!ENTITY evaluate.accesskey "И">
+<!ENTITY evaluate.accesskey "з">
 
-<!ENTITY copyCmd.label       "Умножи">  
-<!ENTITY copyCmd.accesskey   "У"> 
+<!ENTITY copyCmd.label       "Копирај">  
+<!ENTITY copyCmd.accesskey   "K"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Уреди по растућем редоследу">
-<!ENTITY sortFirst.accesskey "У">
+<!ENTITY sortFirst.accesskey "р">
 <!ENTITY sortLast.label      "Уреди по опадајућем редоследу">
-<!ENTITY sortLast.accesskey  "У">
+<!ENTITY sortLast.accesskey  "о">
 <!ENTITY closeCmd.commandkey "с">  
 <!ENTITY focus1.commandkey   "l">  
-<!ENTITY focus2.commandkey   "в">  
+<!ENTITY focus2.commandkey   "d">  
 

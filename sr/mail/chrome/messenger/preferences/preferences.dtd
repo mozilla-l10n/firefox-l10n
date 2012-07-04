@@ -1,13 +1,11 @@
-<!ENTITY  prefWindow.titleWin     "Опције">
-<!ENTITY  prefWindow.titleGNOME   "Поставке за &brandShortName;">
-<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 54em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
-
-<!ENTITY paneGeneral.title        "Опште">
-<!ENTITY paneDisplay.title        "Приказ">
-<!ENTITY paneComposition.title    "Састављање">
-<!ENTITY paneAttachments.title    "Прилози">
-<!ENTITY paneSecurity.title       "Безбедност">
-<!ENTITY paneAdvanced.title       "Напредно">
-
+<!ENTITY prefWindow.styleMac "width: 54em;">
+<!ENTITY paneDisplay.title "Приказ">
+<!ENTITY paneAdvanced.title "Напредно">
+<!ENTITY prefWindow.titleGNOME "Поставке за &brandShortName;">
+<!ENTITY paneAttachments.title "Прилози">
+<!ENTITY paneGeneral.title "Опште">
+<!ENTITY prefWindow.titleWin "Опције">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
+<!ENTITY paneComposition.title "Састављање">
+<!ENTITY paneSecurity.title "Безбедност">
