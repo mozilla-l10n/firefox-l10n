@@ -46,6 +46,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "Accesibilidade">
 <!ENTITY aboutSupport.a11yActivated "Activada">
+<!ENTITY aboutSupport.a11yForceDisabled "Evitar a accesibilidade">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versións da biblioteca">
 
