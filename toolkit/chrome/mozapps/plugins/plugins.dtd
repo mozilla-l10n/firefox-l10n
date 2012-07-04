@@ -26,7 +26,9 @@
 <!ENTITY blockedPlugin.label                            "ඔබගේ ආරක්‍ෂාව සඳහා මෙම ප්ලගීනය අවහිර කර ඇත.">
 
 <!ENTITY missingPlugin                                "මෙම අන්තර්ගතය පෙන්වීමට ප්ලගීනයක් අවශ්‍යව ඇත.">
-<!ENTITY clickToPlayPlugin                                   "ප්ලගීනය සක්‍රීය කිරීමට මෙතනට යන්න.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "ප්ලගීන සක්‍රීය කිරීමට මෙතනට යන්න.">
+<!ENTITY clickToPlayPlugins                                  "ප්ලගීන සක්‍රීය කිරීමට මෙතන ක්ලික් කරන්න.">
 <!ENTITY installPlugin                                       "ප්ලගීනය පිහිටුවන්න…">
 <!ENTITY managePlugins                                       "ප්ලගීන කළමනාකරණය…">
 
