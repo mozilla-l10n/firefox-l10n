@@ -73,10 +73,7 @@
 <!ENTITY pref_char_encoding "Mostrar codificação de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
 <!ENTITY pref_char_encoding_off "Não mostrar menu">
-<!ENTITY pref_clear_history "Limpar histórico">
-<!ENTITY pref_clear_history_confirm "O histórico de navegação será eliminado">
 <!ENTITY pref_clear_private_data "Limpar dados privados">
-<!ENTITY pref_clear_private_data_confirm "Serão eliminadas definições de navegação, incluindo senhas e cookies">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativado">
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
@@ -91,6 +88,13 @@
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
+<!ENTITY pref_private_data_history "Navegação &amp; histórico de transferências">
+<!ENTITY pref_private_data_formdata "Formulário &amp; histórico de pesquisa">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Inícios de sessão ativos">
+<!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
+<!ENTITY pref_private_data_siteSettings "Preferências do sítio">
 
 <!ENTITY quit "Desistir">
 
@@ -149,6 +153,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_clear_data "Limpar dados">
 
 <!ENTITY abouthome_addons_title "Extras para o seu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Navegar em todos os extras do &brandShortName;">
@@ -179,6 +184,9 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é gerido por">
+
+<!ENTITY private_data_success "DAdos privados limpos">
+<!ENTITY private_data_fail "Alguns dados privados não puderam ser limpos">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "A importar marcadores e histórico
