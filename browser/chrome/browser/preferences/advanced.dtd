@@ -61,9 +61,9 @@
 <!ENTITY clearCacheNow.label             "מחק עכשיו">
 <!ENTITY clearCacheNow.accesskey         "מ">
 <!ENTITY clearOfflineAppCacheNow.label   "מחק עכשיו">
-<!ENTITY clearOfflineAppCacheNow.accesskey "מ">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ח">
 <!ENTITY overrideSmartCacheSize.label    "עקוף את ניהול המטמון האוטומטי">
-<!ENTITY overrideSmartCacheSize.accesskey "ע">
+<!ENTITY overrideSmartCacheSize.accesskey "א">
 
 <!ENTITY updateTab.label                 "עדכון">
 

@@ -19,13 +19,13 @@
 <!ENTITY  locbar.bookmarks.label        "סימניות">
 <!ENTITY  locbar.nothing.label          "שום דבר">
 
-<!ENTITY  acceptCookies.label           "קבל עוגיות מאתרים">
-<!ENTITY  acceptCookies.accesskey       "ע">
+<!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
+<!ENTITY  acceptCookies.accesskey       "ק">
 
-<!ENTITY  acceptThirdParty.label        "קבל עוגיות צד־שלישי">
+<!ENTITY  acceptThirdParty.label        "קבלת עוגיות צד־שלישי">
 <!ENTITY  acceptThirdParty.accesskey    "ש">
 
-<!ENTITY  keepUntil.label               "שמור עד ש:">
+<!ENTITY  keepUntil.label               "שמירה עד ש:">
 <!ENTITY  keepUntil.accesskey           "מ">
 
 <!ENTITY  expire.label                  "הן פגות">
