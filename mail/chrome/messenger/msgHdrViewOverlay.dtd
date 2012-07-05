@@ -61,7 +61,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "මෙම ලිපි සංරක්ෂණය කරන්න">
 <!ENTITY hdrSmartReplyButton1.label "smart reply">
 <!ENTITY hdrReplyButton1.label "පිළිතුරු">
-<!ENTITY hdrReplyButton1.tooltip "මෙම ලිපියට පිළිතුරු යවන්න">
+<!ENTITY hdrReplyAllButton1.tooltip "එවන්නාට සහ සියළු ලබන්නන්ට පිළිතුරු යවන්න">
 <!ENTITY hdrReplyAllButton1.label "සැමට පිළිතුරු">
 <!ENTITY hdrReplyButton2.tooltip "එවන්නාට පිළිතුරු යවන්න">
 <!ENTITY hdrReplyListButton1.label "ලැයිස්තුවට පිළිතුරු">
