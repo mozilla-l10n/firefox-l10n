@@ -142,6 +142,12 @@
 <!ENTITY reader_mode "Modalitæ letûa">
 <!ENTITY num_tabs "&#037;d féuggi">
 
+<!ENTITY menu "Menû">
+<!ENTITY stop "Fèrma">
+<!ENTITY site_security "Seguéssa do scîto">
+<!ENTITY back "Inderê">
+<!ENTITY close_tab "Særa féuggio">
+
 
 
 
