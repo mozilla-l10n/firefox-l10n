@@ -60,8 +60,8 @@
 <!ENTITY HomePhone.accesskey                   "k">
 <!ENTITY WorkPhone.label                       "Telefon (posao)">
 <!ENTITY WorkPhone.accesskey                   "l">
-<!ENTITY ScreenName.label                      "Ime na ekranu">
-<!ENTITY ScreenName.accesskey                  "m">
+<!ENTITY ChatName.label                        "Ime za razgovor">
+<!ENTITY ChatName.accesskey                    "r">
 <!ENTITY sortAscending.label                   "Uzlazno">
 <!ENTITY sortAscending.accesskey               "U">
 <!ENTITY sortDescending.label                  "Silazno">

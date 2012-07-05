@@ -28,6 +28,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Račun razgovora…">
 <!ENTITY newIMAccountCmd.accesskey "z">
+<!ENTITY newIMContactCmd.label "Kontakt za razgovor…">
+<!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Otvori spremljenu poruku…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Privici">
@@ -479,6 +481,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Nedostupan">
 <!ENTITY imStatus.offline            "Odjavljen">
 <!ENTITY imStatus.showAccounts       "Prikaži račune…">
+<!ENTITY joinChatCmd.label "Započmi razgovor…">
+<!ENTITY joinChatCmd.accesskey "p">
 <!ENTITY savedFiles.label "Spremljene datoteke">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "O">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Neželjena pošta">
+<!ENTITY junkBarMessage2.label "&brandShortName; misli da je ova poruka neželjena pošta.">
 <!ENTITY junkBarButton1.label "Nije neželjena pošta">
 <!ENTITY junkInfoButton.label "?">
 

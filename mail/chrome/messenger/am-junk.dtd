@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Postavke neželjene pošte">
-<!ENTITY trainingWarning.label "Ukoliko je omogućeno, morate prvo naučiti &brandShortName; kako prepoznati neželjenu poštu koristeći tipku Neželjena pošta na alatnoj traci kako bi označili poruku kao neželjenu ili željenu. Trebate identificirati neželjenu i željenu poštu.">
+<!ENTITY trainingDescription.label "Ukoliko je omogućeno, morate prvo naučiti &brandShortName; kako prepoznati neželjenu poštu koristeći tipku Neželjena pošta na alatnoj traci kako bi označili poruku kao neželjenu ili željenu. Trebate identificirati neželjenu i željenu poštu. Nakon toga &brandShortName; će automatski prepoznati neželjenu poštu.">
 <!ENTITY level.label "Omogući kontrolu neželjene pošte za ovaj račun">
 <!ENTITY level.accesskey "e">
 
@@ -13,8 +13,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "dana">
 
-<!ENTITY whitelist.label "Ne označavaj poštu kao neželjenu ako je pošiljatelj: ">
-<!ENTITY whitelist.accesskey "o">
+<!ENTITY whitelistHeader.label "Ne označavaj automatski poštu kao neželjenu ako je pošiljatelj u: ">
+<!ENTITY whitelistHeader.accesskey "o">
 
+<!ENTITY ispHeadersWarning.label "Ukoliko je omogućeno, &brandShortName; će smatrati poruke označene od strane ovog vanjskog klasifikatora kao neželjene.">
 <!ENTITY ispHeaders.label "Vjeruj zaglavljima neželjene pošte postavljenim od: ">
 <!ENTITY ispHeaders.accesskey "t">
+
+<!ENTITY junkClassification.label "Odabir">
+<!ENTITY junkActions.label "Odredište i zadržavanje">
