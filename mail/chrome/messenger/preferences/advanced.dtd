@@ -63,6 +63,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
 <!ENTITY showUpdates.accesskey          "y">
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "සැකසුම්…">
