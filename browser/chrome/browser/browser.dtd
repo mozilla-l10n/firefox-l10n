@@ -452,20 +452,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "I">
 <!ENTITY saveLinkCmd.label "Guardar enlace como…">
 <!ENTITY saveLinkCmd.accesskey "l">
-<!ENTITY sendLinkCmd.label "Enviar enlace…">
-<!ENTITY sendLinkCmd.accesskey "v">
+<!ENTITY emailPageCmd.label           "Email enlace…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY saveImageCmd.label "Guardar imagen como…">
 <!ENTITY saveImageCmd.accesskey "u">
 <!ENTITY saveVideoCmd.label           "Guardar video como…">
 <!ENTITY saveVideoCmd.accesskey       "u">
 <!ENTITY saveAudioCmd.label           "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey       "u">
-<!ENTITY sendImageCmd.label "Enviar imagen…">
-<!ENTITY sendImageCmd.accesskey "n">
-<!ENTITY sendVideoCmd.label           "Enviar video…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Enviar audio…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Email imagen…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Email video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageCmd.label "Copiar dirección de la imagen">
