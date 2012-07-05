@@ -20,11 +20,6 @@
 <!ENTITY view.sortDescending.label      "Z > A පිළිවෙළ">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "පිටු සලකුණු තුළ සොයන්න…">
-<!ENTITY cmd.findInBookmarks.accesskey  "F">
-<!ENTITY cmd.findCurrent.label          "දැනට ඇති එකතුව තුළ සොයන්න…">
-<!ENTITY cmd.findCurrent.accesskey      "i">
-
 <!ENTITY cmd.backup.label               "රක්‍ෂිතය…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label              "යාළි පිහිටුවන්න…">
