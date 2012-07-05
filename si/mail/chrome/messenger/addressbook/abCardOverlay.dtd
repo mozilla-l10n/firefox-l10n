@@ -77,6 +77,7 @@
 <!ENTITY PlainText.label                "සාමාන්‍ය පාඨ (Plain Text)">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "නොදන්නා">
+<!ENTITY chatName.label                 "Chat Name:">
 
 <!ENTITY allowRemoteContent1.label      "දුරස්ථ අන්තර්ගතයන්ට ඉඩ දෙන්න.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
