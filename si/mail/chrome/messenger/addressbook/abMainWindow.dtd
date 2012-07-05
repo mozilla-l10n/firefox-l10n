@@ -158,8 +158,8 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "වි. තැ. ලිපිනය">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "තිර නම (Screen Name)">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "Chat Name">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "ආයතනය">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "විකල්ප නාමය">
@@ -192,6 +192,7 @@
 <!ENTITY contact.heading                                "සබඳතාවය">
 <!ENTITY home.heading                                   "නිවස">
 <!ENTITY other.heading                                  "වෙනත්">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "දුරකතනය">
 <!ENTITY work.heading                                   "කාර්යාලය">
 <!-- Special Box Headings, for mailing lists -->
