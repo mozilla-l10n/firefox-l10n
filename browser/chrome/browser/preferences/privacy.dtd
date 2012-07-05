@@ -22,7 +22,7 @@
 <!ENTITY  acceptThirdParty.accesskey    "s">
 
 <!ENTITY  keepUntil.label               "Zadrži do:">
-<!ENTITY  keepUntil.accesskey           "d">
+<!ENTITY  keepUntil.accesskey           "ž">
 
 <!ENTITY  expire.label                  "isteka roka">
 <!ENTITY  close.label                   "zatvaranja &brandShortName;">

@@ -89,7 +89,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "U">
 
 <!ENTITY useService.label                "Koristi pozadinski servis za instalaciju dopuna">
-<!ENTITY useService.accesskey            "d">
+<!ENTITY useService.accesskey            "k">
 
 <!ENTITY updateOthers.label              "Automatski ažuriraj:">
 <!ENTITY enableSearchUpdate.label        "Pretraživače">
