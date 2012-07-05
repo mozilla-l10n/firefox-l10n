@@ -12,8 +12,6 @@
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "පෙරනිමිය">
 <!ENTITY restoreDefault.accesskey  "R">
-<!ENTITY restoreOnDemand.label     "Don’t load tabs until selected">
-<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY downloads.label     "බාගැනිම්">
 

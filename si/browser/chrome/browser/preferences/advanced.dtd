@@ -86,8 +86,9 @@
 <!ENTITY blockAutoRefresh.label          "වෙබ් අඩවි වෙනතකට පිටුව යොමු කිරීමට හෝ යළි පූරණයට උත්සාහ කරන විට">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
-<!ENTITY checkNow.label                  "දැන් පරීක්‍ෂා කරන්න">
-<!ENTITY checkNow.accesskey              "N">
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
 <!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY overrideSmartCacheSize.label    "ස්වයංක්‍රීය කෑෂ් කළමනාකරණය ඉක්මවා යන්න (Override)">
