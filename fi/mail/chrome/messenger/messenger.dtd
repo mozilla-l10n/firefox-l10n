@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label     "&brandFullName;">
 <!ENTITY titleSeparator.label  " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "O">
 <!ENTITY newIMAccountCmd.label "Pikaviestitili…">
 <!ENTITY newIMAccountCmd.accesskey "v">
+<!ENTITY newIMContactCmd.label "Pikaviestikontakti…">
+<!ENTITY newIMContactCmd.accesskey "k">
 <!ENTITY openMessageFileCmd.label  "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey  "A">
 <!ENTITY openAttachmentCmd.label  "Liitetiedostot">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Poissa">
 <!ENTITY imStatus.offline            "Poissa linjoilta">
 <!ENTITY imStatus.showAccounts       "Näytä tilit…">
+<!ENTITY joinChatCmd.label "Liity keskusteluun…">
+<!ENTITY joinChatCmd.accesskey "L">
 <!ENTITY savedFiles.label "Tallennetut tiedostot">
 <!ENTITY savedFiles.accesskey "a">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "P">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Roskapostia">
+<!ENTITY junkBarMessage2.label "Viestiä epäillään roskapostiksi.">
 <!ENTITY junkBarButton1.label "Ei roskapostia">
 <!ENTITY junkInfoButton.label  "?">
 

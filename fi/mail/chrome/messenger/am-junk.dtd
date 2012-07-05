@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Roskapostiasetukset">
-<!ENTITY trainingWarning.label  "Jos roskapostisuodatus otetaan käyttöön, &brandShortName; täytyy harjoittaa tunnistamaan roskapostit merkitsemällä ne Roskaposti-painikkeella. Jotta suodatus toimisi tehokkaasti, korjaa väärin luokiteltujen viestin roskapostiluokitus.">
+<!ENTITY trainingDescription.label "Jos roskapostisuodatus otetaan käyttöön, &brandShortName; täytyy harjoittaa tunnistamaan roskapostit merkitsemällä ne Roskaposti-painikkeella. Jotta suodatus toimisi tehokkaasti, korjaa myös väärin luokiteltujen viestien roskapostiluokitus. Harjoittelun jälkeen &brandShortName; tunnistaa roskapostit automaattisesti.">
 <!ENTITY level.label "Käytä roskapostin mukautuvaa tunnistusta tällä tilillä">
 <!ENTITY level.accesskey "t">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "P">
 <!ENTITY purge2.label "päivää vanhat roskapostit">
 
-<!ENTITY whitelist.label "Viestiä ei merkitä roskapostiksi, jos lähettäjä on osoitekirjassa: ">
-<!ENTITY whitelist.accesskey "V">
+<!ENTITY whitelistHeader.label "Viestiä ei merkitä roskapostiksi, jos lähettäjä kuuluu: ">
+<!ENTITY whitelistHeader.accesskey "V">
 
+<!ENTITY ispHeadersWarning.label "Tämän ollessa päällä &brandShortName; luottaa tahon roskapostitunnistukseen.">
 <!ENTITY ispHeaders.label "Luota roskapostiotsakkeisiin, jotka on asettanut: ">
 <!ENTITY ispHeaders.accesskey "L">
+
+<!ENTITY junkClassification.label "Valinta">
+<!ENTITY junkActions.label "Kohde ja säilytys">
