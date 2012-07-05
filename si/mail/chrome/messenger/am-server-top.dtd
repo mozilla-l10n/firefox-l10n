@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "ලිපි ගබඩාව">
 <!ENTITY securitySettings.label "ආරක්ෂණ සැකසුම්">
 <!ENTITY serverSettings.label "සේවාදායක සැකසුම්">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
@@ -80,3 +81,6 @@
 <!ENTITY newsrcPicker.label " newsrc ගොනුව තෝරන්න">
 <!ENTITY browseNewsrc.label "පිරික්සන්න...">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "ගිණුම් සැකසුම්">
+<!ENTITY accountSettingsDesc.label "පහත ගිණුම විශේෂිත එකකි.  ඊට සහායක හැඳුනුම් නැත.">

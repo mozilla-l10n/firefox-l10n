@@ -340,8 +340,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "එවූ තැනැත්තාට පිළිතුරු">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "පුවත්සමූහයට පිළිතුරු">
-<!ENTITY replyNewsgroupCmd.accesskey  "y">
+<!ENTITY replyNewsgroupCmd2.label "පුවත්සමූහයට පිළිතුරු">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "සැමට පිළිතුරු">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -467,6 +467,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY errorConsoleCmd.label "දෝෂ කොන්සෝලය">
 <!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY filtersCmd.label "ලිපි පෙරහන්...">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "ෆෝල්ඩරය මත පෙරහන් ක්‍රියා ක.">
@@ -657,8 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "පුවත්සමූහයට පිළිතුරු">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "සැමට පිළිතුරු">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "ලැයිස්තුවට පිළිතුරු">
