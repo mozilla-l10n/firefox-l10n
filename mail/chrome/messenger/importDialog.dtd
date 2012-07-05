@@ -48,6 +48,8 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.label         "ලිපි">
 <!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.label        "පෝෂක දායකත්වයන්">
+<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "ලිපින පොත්">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "සැකසුම්">
@@ -66,12 +68,15 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY importDescription2.label "ආයාත කළ පසු, ඒවා &brandShortName; තුළ ලිපි හා/හෝ ලිපින පොත් ලෙස භාවිතා තඛ හැකිය.">
 
 <!ENTITY selectDescription.label  "ඔබ ආයාත කරන්නේ කවර වැඩසටහනින්දැයි තෝරන්න :">
+<!ENTITY selectDescriptionB.label "පවතින ගිණුමත් තෝරන්න හෝ නව ගිණුමක් සාදන්න:">
 <!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; පසුපසට">
 <!ENTITY forward.label            "ඊළඟ &gt;">
 <!ENTITY finish.label             "අවසානයි">
 <!ENTITY cancel.label             "එපා">
+<!ENTITY acctName.label           "නම:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY select.label             "ආයාත කිරීමට අවශ්‍ය ද්‍රව්‍ය ආකාරය තෝරන්න:">
 

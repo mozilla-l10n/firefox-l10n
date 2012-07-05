@@ -15,8 +15,8 @@
 <!ENTITY markAsReadOnSpam.accesskey "k">
 <!ENTITY manualMarkModeDelete.label "ඒවා මකන්න">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY enableJunkLogging.label "නිසරු ලිපි පෙරණය ලොග් කිරීම බලැති කරන්න">
-<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY enableAdaptiveJunkLogging.label "නිසරු ලිපි පෙරණය ලොග් කිරීම බලැති කරන්න">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "ලොග් සටහන පෙන්වන්න">
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Reset Training Data">

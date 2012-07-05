@@ -14,6 +14,7 @@
 <!ENTITY quickMode.label             "වෙබ් පිටුව පූරණය කරනවා වෙනුවට ලිපි සාරාංශය (article summary) පෙන්වන්න">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY locationValidate.label      "වලංගුකරණය">
 <!ENTITY validateText.label          "වලංගුතාවය පරීක්ෂා කර url ලබාගන්න.">
 
 <!ENTITY button.addFeed.label       "එක් කරන්න">
