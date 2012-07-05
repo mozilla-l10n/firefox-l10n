@@ -15,7 +15,7 @@
 <!ENTITY showTabBar.accesskey         "t">
 
 <!ENTITY restoreTabsOnDemand.label        "Ne učitavaj kartice dok nisu odabrane">
-<!ENTITY restoreTabsOnDemand.accesskey    "o">
+<!ENTITY restoreTabsOnDemand.accesskey    "e">
 
 <!ENTITY switchToNewTabs.label        "Kad otvorim poveznicu u novoj kartici, odmah prijeđi na nju">
 <!ENTITY switchToNewTabs.accesskey    "d">
