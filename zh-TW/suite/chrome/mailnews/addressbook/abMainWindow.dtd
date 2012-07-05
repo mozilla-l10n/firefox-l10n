@@ -47,10 +47,12 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "通訊錄工具列"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "o">  
-
-<!ENTITY showCardPane.label                             "名片面板">
-<!ENTITY showCardPane.accesskey                         "C">
-  
+<!ENTITY layoutMenu.label                               "視窗配置方式">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "資料夾窗格">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "聯絡人窗格">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "姓名顯示方式"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!ENTITY firstLastCmd.label                             "[名] [姓] (英式)">  
