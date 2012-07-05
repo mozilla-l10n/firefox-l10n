@@ -67,6 +67,9 @@
 <!ENTITY showUpdates.label              "Prikaži povijest ažuriranja">
 <!ENTITY showUpdates.accesskey          "s">
 
+<!ENTITY useService.label                "Koristi pozadinski proces za instalaciju nadogradnji">
+<!ENTITY useService.accesskey            "K">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Postavke…">
 <!ENTITY showSettings.accesskey        "s">
