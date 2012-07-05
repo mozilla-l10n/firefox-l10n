@@ -44,7 +44,7 @@
 <!ENTITY updateTab.label "Actualizar">
 <!ENTITY updateApp.label "Actualizaciones de &brandShortName; :">
 <!ENTITY updateAuto.label "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
-<!ENTITY updateAuto.accesskey "A">
+<!ENTITY updateAuto.accesskey "I">
 <!ENTITY updateCheck.label "Comprobar si hay actualizaciones, pero permitirme elegir si serán instaladas">
 <!ENTITY updateCheck.accesskey "C">
 <!ENTITY updateManual.label "No buscar actualizaciones (no recomendado: riesgo de seguridad)">
@@ -80,7 +80,7 @@
 <!ENTITY certs.ask "Preguntarme siempre">
 <!ENTITY certs.ask.accesskey "P">
 <!ENTITY viewCerts.label "Ver certificados">
-<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCerts.accesskey "c">
 <!ENTITY viewCRLs.label "Listas de revocación">
 <!ENTITY viewCRLs.accesskey "L">
 <!ENTITY verify2.label "Validación">
