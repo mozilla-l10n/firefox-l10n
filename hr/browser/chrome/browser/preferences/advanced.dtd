@@ -33,7 +33,7 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; je trenutno vaš zadani preglednik">
 <!ENTITY submitTelemetry.label           "Pošalji informacije o performansama">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.accesskey       "š">
 
 <!ENTITY networkTab.label                "Mreža">
 
@@ -54,12 +54,12 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Ograniči priručnu memoriju na">
-<!ENTITY limitCacheSizeBefore.accesskey  "p">
+<!ENTITY limitCacheSizeBefore.accesskey  "m">
 <!ENTITY limitCacheSizeAfter.label       "MB prostora">
 <!ENTITY clearCacheNow.label             "Očisti sada">
 <!ENTITY clearCacheNow.accesskey         "i">
 <!ENTITY clearOfflineAppCacheNow.label   "Očisti sada">
-<!ENTITY clearOfflineAppCacheNow.accesskey "O">
+<!ENTITY clearOfflineAppCacheNow.accesskey "č">
 <!ENTITY overrideSmartCacheSize.label    "Premosti automatsko upravljanje priručnom memorijom">
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 
@@ -95,7 +95,7 @@
 <!ENTITY enableSearchUpdate.label        "Pretraživače">
 <!ENTITY enableSearchUpdate.accesskey    "t">
 <!ENTITY updateHistory.label             "Prikaži povijest nadogradnji">
-<!ENTITY updateHistory.accesskey         "n">
+<!ENTITY updateHistory.accesskey         "d">
 
 <!ENTITY offlineNotify.label             "Obavijesti me kad web stranica zatraži spremanje podataka za izvanmrežno korištenje">
 <!ENTITY offlineNotify.accesskey         "T">
