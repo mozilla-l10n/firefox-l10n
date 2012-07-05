@@ -214,9 +214,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Tutki elementtiä">
 <!ENTITY inspectContextMenu.accesskey "T">
 
-<!ENTITY responsiveUI.label            "Joustava tila">
-<!ENTITY responsiveUI.accesskey        "J">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "Joustava suunnittelunäkymä">
+<!ENTITY responsiveDesignTool.accesskey "J">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
