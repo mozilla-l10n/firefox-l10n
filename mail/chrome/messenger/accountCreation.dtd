@@ -6,7 +6,7 @@
 <!ENTITY email.accesskey                 "l">
 <!ENTITY password.label                  "රහස්පදය:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.text                   "Optional, will only be used to validate the username">
+<!ENTITY password.text                   "වෛකල්පික (Optional), පරිශීලක නාම වලංගුකරණය සඳහා පමණක් භාවිතා වේ">
 
 <!ENTITY incoming.label                  "එවුම් :">
 <!ENTITY outgoing.label                  "යැවුම්:">
@@ -40,11 +40,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "මම අනතුර තේරුම් ගතිමි.">
 <!ENTITY confirmWarning.accesskey        "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "ගිණුම සෑදීම">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY doneAccount.label               "කළා">
+<!ENTITY doneAccount.accesskey           "D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

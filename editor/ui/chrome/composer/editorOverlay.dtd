@@ -88,11 +88,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(යෝජනා හමු වී නැත)">
-<!ENTITY spellCheckIgnoreWord.label "වචනය නොසලකා හරින්න">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "ශබ්ද කෝෂයට ඇතුළු කරන්න">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "සබැඳි නිර්මාණය කරන්න...">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "නව සකසනය තුළ සබැඳිය සකසන්න">
