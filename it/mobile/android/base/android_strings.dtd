@@ -36,6 +36,10 @@
 <!ENTITY history_older_section "Più vecchi di 7 giorni">
 <!ENTITY reload "Ricarica">
 <!ENTITY forward "Avanti">
+<!ENTITY menu "Menu">
+<!ENTITY stop "Stop">
+<!ENTITY site_security "Sicurezza del sito">
+<!ENTITY back "Indietro">
 <!ENTITY close_tab "Chiudi scheda">
 <!ENTITY new_tab "Nuova scheda">
 <!ENTITY num_tabs "&#037;d schede">
