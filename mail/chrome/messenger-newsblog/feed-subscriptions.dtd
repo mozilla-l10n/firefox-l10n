@@ -28,5 +28,6 @@
 <!ENTITY button.importOPML.accesskey	"I">
 <!ENTITY button.exportOPML.label	"書き出す">
 <!ENTITY button.exportOPML.accesskey	"X">
+<!ENTITY button.exportOPML.tooltip	"フィードをフォルダ構成で書き出します。フィードをリストで書き出すには、Ctrl キーを押しながらクリックするか Enter キーを押します">
 
 <!ENTITY cmd.close.commandKey		"w">
