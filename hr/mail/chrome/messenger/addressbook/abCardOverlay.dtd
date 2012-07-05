@@ -78,8 +78,7 @@
 <!ENTITY PlainText.label                "Običan tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Nepoznato">
-<!ENTITY ScreenName.label               "Ime na ekranu:">
-<!ENTITY ScreenName.accesskey           "m">
+<!ENTITY chatName.label                 "Ime za razgovor:">
 
 <!ENTITY allowRemoteContent1.label      "Dozvoli vanjski sadržaj.">
 <!ENTITY allowRemoteContent1.accesskey  "v">
@@ -155,6 +154,25 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Bilješke:">
 <!ENTITY Notes.accesskey                "B">
+
+<!ENTITY Chat.tab                       "Razgovor">
+<!ENTITY Chat.accesskey                 "R">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "A">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Slika">
 <!ENTITY Photo.accesskey                "S">

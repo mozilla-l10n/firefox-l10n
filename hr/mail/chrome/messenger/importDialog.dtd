@@ -49,6 +49,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "e">
 <!ENTITY importMail.label         "Pošta">
 <!ENTITY importMail.accesskey     "P">
+<!ENTITY importFeeds.label        "Pretplate na kanale">
+<!ENTITY importFeeds.accesskey    "r">
 <!ENTITY importAddressbook.label  "Adresari">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Postavke">
@@ -66,7 +68,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Jednom uvezeni biti će dostupni za korištenje unutar &brandShortName;a.">
 
 <!ENTITY selectDescription.label  "Odaberite vrstu datoteke koju želite uvesti:">
+<!ENTITY selectDescriptionB.label "Odaberite postojeći ili stvorite novi račun:">
 <!ENTITY selectDescription.accesskey "O">
+<!ENTITY acctName.label           "Naziv:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Prethodna">
 <!ENTITY forward.label            "Sljedeća &gt;">

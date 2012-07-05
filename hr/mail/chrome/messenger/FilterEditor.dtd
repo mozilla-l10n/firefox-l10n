@@ -40,3 +40,6 @@
 <!ENTITY ignoreSubthread.label "Ignoriraj podtemu">
 <!ENTITY watchThread.label "Prati temu">
 <!ENTITY stopExecution.label "Zaustavi izvršavanje filtera">
+
+<!ENTITY addAction.tooltip "Dodaj novu radnju">
+<!ENTITY removeAction.tooltip "Ukloni ovu radnju">
