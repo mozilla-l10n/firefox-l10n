@@ -12,7 +12,7 @@
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Koristi trenutne stranice">
 <!ENTITY chooseBookmark.label      "Koristi zabilješku…">
-<!ENTITY chooseBookmark.accesskey  "K">
+<!ENTITY chooseBookmark.accesskey  "š">
 <!ENTITY restoreDefault.label      "Vrati na uobičajeno">
 <!ENTITY restoreDefault.accesskey  "j">
 
