@@ -13,8 +13,6 @@
 <!ENTITY releaseCmd2.accesskey "B">
 <!ENTITY whatsNewCmd.label "Što je novo">
 <!ENTITY whatsNewCmd.accesskey "t">
-<!ENTITY featureConfiguratorCmd.label "Pomoćnik za migraciju">
-<!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Sadržaj pomoći">
 <!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "VK_F1">

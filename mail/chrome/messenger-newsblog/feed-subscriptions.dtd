@@ -28,5 +28,6 @@
 <!ENTITY button.importOPML.accesskey "i">
 <!ENTITY button.exportOPML.label     "Izvezi">
 <!ENTITY button.exportOPML.accesskey "z">
+<!ENTITY button.exportOPML.tooltip   "Izvezi kanale sa strukturom mapa; ctrl klik ili ctrl enter za izvoz kanala kao popis">
 
 <!ENTITY cmd.close.commandKey        "w">

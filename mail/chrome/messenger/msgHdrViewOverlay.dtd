@@ -60,7 +60,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Arhiviraj ovu poruku">
 <!ENTITY hdrSmartReplyButton1.label "Pametni odgovor">
 <!ENTITY hdrReplyButton1.label "Odgovori">
-<!ENTITY hdrReplyButton1.tooltip "Odgovori na ovu poruku">
+<!ENTITY hdrReplyButton2.tooltip "Odgovori pošiljatelju ove poruke">
 <!ENTITY hdrReplyAllButton1.label "Odgovori svima">
 <!ENTITY hdrReplyAllButton1.tooltip "Odgovori pošiljatelju i svim primateljima">
 <!ENTITY hdrReplyListButton1.label "Odgovori na listu">
