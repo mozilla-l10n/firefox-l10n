@@ -658,6 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
 <!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup2.label "පුවත්සමූහයට පිළිතුරු">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "සැමට පිළිතුරු">
 <!ENTITY contextReplyAll.accesskey "A">
