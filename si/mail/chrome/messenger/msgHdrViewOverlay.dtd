@@ -68,6 +68,8 @@
 <!ENTITY hdrReplyListButton1.tooltip "ලැයිස්තුවට පිළිතුරු යවන්න">
 <!ENTITY hdrForwardButton1.label "යොමු කරන්න">
 <!ENTITY hdrForwardButton1.tooltip "මෙම ලිපිය යොමු කරන්න">
+<!ENTITY hdrFollowupButton1.label "පිළිතුරු යවන්න">
+<!ENTITY hdrFollowupButton1.tooltip "මෙම පුවක්සමූහයට පිළිතුරක් යවන්න">
 <!ENTITY hdrJunkButton1.label "නිසරු (junk)">
 <!ENTITY hdrJunkButton1.tooltip "මෙම ලිපිය නිසරු සේ ලකුණු කරන්න">
 <!ENTITY hdrTrashButton1.label "මකන්න">

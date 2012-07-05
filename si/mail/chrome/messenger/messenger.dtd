@@ -15,6 +15,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "චැට් ගිණුම…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් අරින්න...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ඇමුණන්න">
@@ -340,8 +342,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "එවූ තැනැත්තාට පිළිතුරු">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "පුවත්සමූහයට පිළිතුරු">
-<!ENTITY replyNewsgroupCmd.accesskey  "y">
+<!ENTITY replyNewsgroupCmd2.label "පුවත්සමූහයට පිළිතුරු">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "සැමට පිළිතුරු">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -453,6 +455,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "නොපවතී">
 <!ENTITY imStatus.offline            "අසම්බන්ධිත">
 <!ENTITY imStatus.showAccounts       "ගිණුම් පෙන්වන්න…">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "සුරැකූ ගොනු">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -467,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY errorConsoleCmd.label "දෝෂ කොන්සෝලය">
 <!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY filtersCmd.label "ලිපි පෙරහන්...">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "ෆෝල්ඩරය මත පෙරහන් ක්‍රියා ක.">
@@ -657,8 +662,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "පුවත්සමූහයට පිළිතුරු">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyNewsgroup2.label "පුවත්සමූහයට පිළිතුරු">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "සැමට පිළිතුරු">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "ලැයිස්තුවට පිළිතුරු">
@@ -737,7 +742,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "නිසරු ලිපි">
+<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
 <!ENTITY junkBarButton1.label "නිසරු නොවූ">
 <!ENTITY junkInfoButton.label "?">
 
