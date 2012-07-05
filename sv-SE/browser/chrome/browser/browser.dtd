@@ -437,8 +437,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Lägg till bokmärke för ram">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
-<!ENTITY sendPageCmd.label            "Skicka länk…">
-<!ENTITY sendPageCmd.accesskey        "c">
+<!ENTITY emailPageCmd.label           "E-posta länk…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Spara sida som…">
 <!ENTITY savePageCmd.accesskey        "m">
 <!-- alternate for content area context menu -->
@@ -456,12 +456,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "o">
 <!ENTITY saveAudioCmd.label           "Spara ljud som…">
 <!ENTITY saveAudioCmd.accesskey       "o">
-<!ENTITY sendImageCmd.label           "Skicka bild…">
-<!ENTITY sendImageCmd.accesskey       "i">
-<!ENTITY sendVideoCmd.label           "Skicka video…">
-<!ENTITY sendVideoCmd.accesskey       "i">
-<!ENTITY sendAudioCmd.label           "Skicka ljud…">
-<!ENTITY sendAudioCmd.accesskey       "i">
+<!ENTITY emailImageCmd.label          "E-posta bild…">
+<!ENTITY emailImageCmd.accesskey      "E">
+<!ENTITY emailVideoCmd.label          "E-posta video…">
+<!ENTITY emailVideoCmd.accesskey      "E">
+<!ENTITY emailAudioCmd.label          "E-posta ljud…">
+<!ENTITY emailAudioCmd.accesskey      "E">
 <!ENTITY copyLinkCmd.label            "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopiera bildadress">
