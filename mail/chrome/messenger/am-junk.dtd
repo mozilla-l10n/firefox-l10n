@@ -1,8 +1,7 @@
 <!ENTITY junkSettings.label "නිසරු ලිපි සැකසුම්">
-<!ENTITY trainingWarning.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages.">
 <!ENTITY level.label "Enable adaptive junk mail controls for this account">
 <!ENTITY level.accesskey "E">
-
+<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
 <!ENTITY move.label "නව නිසරු ලිපි මෙතනට ගෙනයන්න:">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "මේ මත ඇති ි&quot;නිසරු ලිපි&quot; ෆෝල්ඩරයට:">
@@ -13,8 +12,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label " ට වඩා පැරණි නිසරු ලිපි ස්වයංක්‍රීයවම මකා දසන්න">
 
-<!ENTITY whitelist.label "එවන්නා මෙතුළ සිටී නම් ලිපි නිසරු සේ සළකුණු නොකරන්න: ">
-<!ENTITY whitelist.accesskey "D">
 
 <!ENTITY ispHeaders.label "මෙමඟින් සැකසූ නිසරු ලිපි ශීර්ෂයන් විශ්වාස කරන්න: ">
 <!ENTITY ispHeaders.accesskey "T">
+
+<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
+<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
+<!ENTITY junkClassification.label "Selection">
+<!ENTITY junkActions.label "Destination and Retention">

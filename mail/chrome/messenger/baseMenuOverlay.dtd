@@ -7,8 +7,6 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY whatsNewCmd.label "අළුත් දේ මොනවාද">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY featureConfiguratorCmd.label "සංක්‍රමණ සහායක">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "උදව් අන්තර්ගතය">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
