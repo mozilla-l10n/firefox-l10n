@@ -450,8 +450,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "k">
 <!ENTITY saveLinkCmd.label            "Spara länk som…">
 <!ENTITY saveLinkCmd.accesskey        "m">
-<!ENTITY sendLinkCmd.label            "Skicka länk…"> 
-<!ENTITY sendLinkCmd.accesskey        "c">
 <!ENTITY saveImageCmd.label           "Spara bild som…">
 <!ENTITY saveImageCmd.accesskey       "b">
 <!ENTITY saveVideoCmd.label           "Spara video som…">
