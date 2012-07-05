@@ -8,9 +8,6 @@
 <!ENTITY homepage.label            "Početna stranica:">
 <!ENTITY homepage.accesskey        "e">
 
-<!ENTITY restoreOnDemand.label     "Ne učitavaj kartice dok nisu označene">
-<!ENTITY restoreOnDemand.accesskey "o">
-
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Koristi trenutne stranice">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Općenito">
@@ -25,8 +29,9 @@
 <!ENTITY systemDefaults.label            "Zadane postavke sustava">
 <!ENTITY alwaysCheckDefault.label        "Pri pokretanju uvijek provjeri je li &brandShortName; zadani preglednik"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "z">
-<!ENTITY checkNow.label                  "Provjeri sada">
-<!ENTITY checkNow.accesskey              "s">
+<!ENTITY setDefault.label                "Učini &brandShortName; zadanim preglednikom">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; je trenutno vaš zadani preglednik">
 <!ENTITY submitTelemetry.label           "Pošalji informacije o performansama">
 <!ENTITY submitTelemetry.accesskey       "P">
 
