@@ -77,8 +77,6 @@
 <!ENTITY PlainText.label                "සාමාන්‍ය පාඨ (Plain Text)">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "නොදන්නා">
-<!ENTITY ScreenName.label               "තිර නම (Screen Name):">
-<!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY allowRemoteContent1.label      "දුරස්ථ අන්තර්ගතයන්ට ඉඩ දෙන්න.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -159,6 +157,25 @@ content in HTML messages from this contact.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "සටහන්">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "ඡායාරූපය">
 <!ENTITY Photo.accesskey                "o">
