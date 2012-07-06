@@ -27,4 +27,5 @@
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "내보내기">
 <!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.exportOPML.tooltip	"피드를 폴더 구성으로 내 보내기 합니다. 피드를 목록으로 내 보내기 하려면 Ctrl 키를 누르면서 클릭하거나 Enter키를 누릅니다.">
 <!ENTITY cmd.close.commandKey          "w">

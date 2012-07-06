@@ -58,7 +58,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; 닫을 때 방문 기록 삭제">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "설정…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
