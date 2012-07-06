@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "Sospeita de falsificación de web">
 
 <!ENTITY safeb.palm.message.p1 "S'ha informau que ista pachina podría estar una falsificación de web diseñada ta enganyuflar a os usuarios ta que compartan información personal u financiera. D'escribir qualsiquier información personal en ista pachina podría resultar-ne una suplantación d'identidat u qualsiquier atro frau. &#160;">

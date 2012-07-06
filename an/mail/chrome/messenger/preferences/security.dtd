@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Junk">
 <!ENTITY itemPhishing.label      "E-mail Scams">
 <!ENTITY itemPasswords.label     "Passwords">
@@ -56,4 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Show Cookies…">
 <!ENTITY showCookies.accesskey          "S">
+<!-- Do Not Track -->
 
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">

@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "S'ha rematau a configuración">
-<!ENTITY sync.subtitle.success.label "Os suyos datos se son baixando en segundo plan. Puede ir ta las Opcions ta chestionar a suya cuenta.">
+<!ENTITY sync.subtitle.success.label1 "Os suyos datos se son descargando agora en o fondo. Puet ir ta Achustes ta administrar a suya cuenta u empecipiar a navegar con &brandShortName;.">
 <!ENTITY sync.settings.label "Opcions">
-<!ENTITY sync.subtitle.manage.label "A suya cuenta de &syncBrand.fullName.label; ya ye configurada. Vaiga ta las opcions ta chestionar-la.">
+<!ENTITY sync.subtitle.manage.label1 "A suya cuenta de &syncBrand.fullName.label; ya ye configurada. Puede ir ta os Achustes ta administrar a suya cuenta u ubrir o &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Torna-lo a prebar.">
+<!ENTITY sync.pair.connectlocation.label 'Ta activar o suyo nuevo dispositivo, trigue "Configurar &syncBrand.shortName.label;“ en o dispositivo, y seleccione “Tiengo una cuenta“.'>
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opcions">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Marcapachinas desordenaus">
 <!ENTITY bookmarks.folder.desktop.label "Marcapachinas d'escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcapachinas d'o mobil">
+<!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Nomás se permite una cuenta de &syncBrand.fullName.label;">

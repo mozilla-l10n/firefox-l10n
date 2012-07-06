@@ -1,64 +1,19 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org Code.
-   -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-#endif
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title         "Modo seguro d'o &brandShortName;">
-<!ENTITY window.width                 "42em">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY autoSafeModeIntro.label      "O &brandShortName; s'ha zarrau inasperadament entre que s'iniciaba">
-<!ENTITY autoSafeModeDescription.label "Lamentamos as inconveniencias. O &brandShortName; se ye executando agora mesmo en modo seguro, o que inhabilita temporalment os parametros personals, os temas y as extensions.">
+<!ENTITY startSafeMode.label          "Empecipiar en Modo seguro">
+<!ENTITY resetProfile.label           "Reiniciar o &brandShortName;">
 
-<!ENTITY safeModeDescription.label    "O &brandShortName; se ye executando agora en modo seguro, o qual fa que s'inhabiliten temporalment os suyos parametros personalizaus, temas, y extensions.">
-<!ENTITY safeModeDescription2.label   "Puede fer beluns u totz d'os cambios siguients de traza permanent:">
+<!ENTITY safeModeDescription3.label   "O Modo seguro ye un modo especial d'o &brandShortName; que se fa servir ta solucionar problemas.">
+<!ENTITY safeModeDescription4.label   "Os suyos complementos y configuracions personalizadas se desactivarán de traza temporal.">
 
-<!ENTITY disableAddons.label          "Desactivar totz os complementos">
-<!ENTITY disableAddons.accesskey      "D">
+<!ENTITY resetProfileInstead.label    "Tamién puet restablir o &brandShortName; si quiere empecipiar con un nuevo perfil.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY resetToolbars.label          "Restaurar as barras de ferramientas y os controls">
-<!ENTITY resetToolbars.accesskey      "R">
-
-<!ENTITY deleteBookmarks.label        "Eliminar totz os marcapachinas fueras d'as copias">
-<!ENTITY deleteBookmarks.accesskey    "c">
-
-<!ENTITY resetUserPrefs.label         "Restaurar todas as preferencias d'usuario predeterminadas de &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey     "p">
-
-<!ENTITY restoreSearch.label          "Restaurar buscadors predeterminaus">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "Aplicar cambeos y reiniciar">
-<!ENTITY continueButton.label         "Continar en modo seguro">
+<!ENTITY autoSafeModeDescription2.label "O &brandShortName; s'ha zarrau de sopetón entre que s'iniciaba.  A causa puede estar en os complementos u talment en atros problemas. Puet mirar de resolver o problema restablindo o &brandShortName; a lo suyo estau predeterminau u mirar de solucionar problemas en o Modo seguro.">
+<!ENTITY resetProfileFooter.label       "Tot o de demas se restaurará a las suyas valuras por defecto de fabrica.">
+<!ENTITY safeModeInstead.label          "Si no quiere isto, pued continar en Modo seguro ta mirar de solucionar os suyos problemas con os suyos complementos y as suyas preferencias desactivadas temporalment.">

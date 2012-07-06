@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "A suya clau de &syncBrand.fullName.label;">
 <!ENTITY syncKey.page.description         "Se fa servir ista clau ta deszifrar os datos d'a cuenta de &syncBrand.fullName.label;. Amenesterá introducir a clau cada vegada que configure &syncBrand.fullName.label; en un ordinador u dispositivo nuevo.">
 <!ENTITY syncKey.keepItSecret.heading     "Mantienga-la secreta">

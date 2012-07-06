@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY removePassword.title              "Eliminar a clau mayestra">
 <!ENTITY removeInfo.label                  "Ha d'introducir a suya clau actual ta abanzar:">
 <!ENTITY removeWarning1.label              "A suya clau mayestra se ferá servir ta protecher información confidencial como as claus d'os puestos web.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Inicio">
 
 <!ENTITY startupPage.label         "Quan s'enchegue o &brandShortName;:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Amostrar a mía pachina d'inicio">
 <!ENTITY startupBlankPage.label    "Amostrar una pachina en blanco">
 <!ENTITY startupLastSession.label  "Amostrar as mías finestras y pestanyas d'a zaguer vegada">
-<!ENTITY restoreOnDemand.label     "No cargar as pestanyas dica que sían seleccionadas">
-<!ENTITY restoreOnDemand.accesskey "a">
 
 <!ENTITY homepage.label            "Pachina d'inicio:">
 <!ENTITY homepage.accesskey        "P">

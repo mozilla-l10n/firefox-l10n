@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -77,6 +81,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Información d'a pachina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Activar a pantalla completa">
+<!ENTITY enterFullScreenCmd.accesskey "p">
+<!ENTITY exitFullScreenCmd.label "Desactivar a pantalla completa">
+<!ENTITY exitFullScreenCmd.accesskey "p">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "p">
@@ -90,7 +100,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "f">
 <!ENTITY fullScreenExit.label "Salir d'o modo pantalla completa">
 <!ENTITY fullScreenExit.accesskey "m">
-<!ENTITY domFullScreenWarning.label "Pretar ESC ta deixar o modo de pantalla completa">
+<!ENTITY fullscreenAllowButton.label "Permitir">
+<!ENTITY fullscreenExitButton.label "Refusar">
+<!ENTITY fullscreenApproval.value "Quiere permitir a pantalla completa?">
+
+<!ENTITY fullscreenExitHint.value "Prete ESC en qualsiquier inte ta salir d'a pantalla completa.">
+<!ENTITY leaveDOMFullScreen.label "Salir d'a pantalla completa">
+<!ENTITY leaveDOMFullScreen.accesskey "p">
 
 <!ENTITY closeWindow.label "Zarrar a finestra">
 <!ENTITY closeWindow.accesskey "f">
@@ -197,6 +213,10 @@ can reach it easily. -->
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
+
+<!ENTITY responsiveUI.label            "Modo liquido">
+<!ENTITY responsiveUI.accesskey        "q">
+<!ENTITY responsiveUI.commandkey       "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -215,6 +235,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Zarrar l'Inspector">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Zarrar a barra ta desembolicadors">
+<!ENTITY devToolbarMenu.label              "Barra de desembolicadors">
+<!ENTITY devToolbarMenu.accesskey          "B">
+<!ENTITY devToolbar.commandkey             "v">
+
+<!ENTITY webConsoleButton.label "Consola web">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY scriptsButton.label "Scripts">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML Interior">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
@@ -223,6 +252,16 @@ can reach it easily. -->
 
 <!ENTITY inspectorHTMLDelete.label          "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+
+<!ENTITY inspectOptionButton.tooltiptext    "Opcions de l'inspector">
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+
+<!ENTITY inspectorToggleVeil.label          "Atenuar a pachina">
+<!ENTITY inspectorToggleVeil.accesskey      "A">
+<!ENTITY inspectorToggleInfobar.label       "Amostrar a información d'o nodo">
+<!ENTITY inspectorToggleInfobar.accesskey   "s">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->

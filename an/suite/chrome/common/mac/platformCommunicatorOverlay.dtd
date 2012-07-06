@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- mac -->
 <!-- LOCALIZATION NOTE: FILE Do not translate all the entities ending with
   Cmd.key. -->
 <!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
   application menu. Never change the modifiers unless you are 100% sure that
   they are different on your locale (should be very rare). -->
+
 
 <!ENTITY preferencesCmd.label           "Preferences…">
 <!ENTITY preferencesCmd.key             ",">
