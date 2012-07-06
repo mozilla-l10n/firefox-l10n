@@ -214,9 +214,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ƴeewto Geɗel">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveUI.label            "Mbayka Jaabotoro">
-<!ENTITY responsiveUI.accesskey        "J">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "Jiytol Ŋeñto Nootoro">
+<!ENTITY responsiveDesignTool.accesskey "J">
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating

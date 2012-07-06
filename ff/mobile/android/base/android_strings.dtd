@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Hesɗitin">
 <!ENTITY forward "Yeeso">
+<!ENTITY menu "Dosol">
+<!ENTITY back "Back">
+<!ENTITY stop "Dartin">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Uddu Tabbere">
 <!ENTITY new_tab "Tabbere Hesere">
