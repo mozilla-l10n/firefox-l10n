@@ -11,7 +11,7 @@
 <!ENTITY enableJavaScript.title                    "Cuir JavaScript an comas">
 <!ENTITY privacy.title                             "Prìobhaideachd ┐ Tèarainteachd">
 <!ENTITY allowCookies.title                        "Ceadaich briosgaidean">
-<!ENTITY doNotTrack.title                          "Innis do làraichean gun a bhith 'gam lorgadh">
+<!ENTITY doNotTrack.title                          "Innis do làraichean gun a bhith 'gam thracadh">
 <!ENTITY masterPassword.title                      "Cleachd facal-faire maighstir">
 <!ENTITY clearPrivateData2.title                   "Falamhaich an dàta prìobhaideach">
 <!ENTITY clearPrivateData.button                   "Falamhaich">
