@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Ail-lwytho">
 <!ENTITY forward "Ymlaen">
+<!ENTITY menu "Dewislen">
+<!ENTITY back "Nôl">
+<!ENTITY stop "Atal">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Cau Tab">
 <!ENTITY new_tab "Tab Newydd">
