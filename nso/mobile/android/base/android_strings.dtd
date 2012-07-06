@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Hlahlela gape">
 <!ENTITY forward "Forward">
+<!ENTITY menu "Lelokelelo">
+<!ENTITY back "Morago">
+<!ENTITY stop "Emiša">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Close Tab">
 <!ENTITY new_tab "Thepo e mpsha">
