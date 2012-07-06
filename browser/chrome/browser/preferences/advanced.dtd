@@ -82,7 +82,7 @@
 <!ENTITY updateHistory.accesskey         "צ">
 
 <!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.accesskey            "ר">
 
 <!ENTITY updateOthers.label              "עדכונים אוטומטיים עבור:">
 <!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
