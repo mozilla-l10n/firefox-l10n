@@ -27,7 +27,6 @@
 <!ENTITY addBuddyButton.label "Amestar contautu">
 <!ENTITY joinChatButton.label "Xunise al chat">
 <!ENTITY chatAccountsButton.label "Amosar cuentes">
-<!ENTITY searchAllChatMessages.label.base "Guetar en toles conversaciones… #1">
 <!ENTITY status.available "Disponible">
 <!ENTITY status.unavailable "Non disponible">
 <!ENTITY status.offline "Ensin conexión">

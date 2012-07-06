@@ -10,8 +10,6 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Qué hai nuevo">
 <!ENTITY whatsNewCmd.accesskey "Q">
-<!ENTITY featureConfiguratorCmd.label "Encontu de migración">
-<!ENTITY featureConfiguratorCmd.accesskey "E">
 <!ENTITY openHelp.label "Conteníos de l'ayuda">
 <!ENTITY openHelp.accesskey "u">
 <!ENTITY openHelp.commandkey "VK_F1">

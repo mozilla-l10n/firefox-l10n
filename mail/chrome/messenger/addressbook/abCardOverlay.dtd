@@ -27,8 +27,6 @@
 <!ENTITY PlainText.label "Testu ensin formatu">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconocíu">
-<!ENTITY ScreenName.label "Nome en pantalla:">
-<!ENTITY ScreenName.accesskey "l">
 <!ENTITY allowRemoteContent1.label "Permitir conteníu remotu.">
 <!ENTITY allowRemoteContent1.accesskey "r">
 <!ENTITY allowRemoteContent1.tooltip "Nos mensaxes HTML ye posible incluyir conteníu d'oríxenes remotos. Abrir talos mensaxes abrirá tamién una conexón a esi orixe esternu. Esto pue permitir el siguimientu de la llectura del mensaxe. Conseñar esta caxella va permitir esti tipu de conteníu nos mensaxes HTML d'esti contautu.">
@@ -114,3 +112,22 @@
 <!ENTITY PhotoURL.placeholder "Apega o escribi la direición web d'una semeya">
 <!ENTITY UpdatePhoto.label "Anovar">
 <!ENTITY UpdatePhoto.accesskey "A">
+<!ENTITY Chat.tab "Chat">
+<!ENTITY Chat.accesskey "h">
+<!ENTITY Gtalk.label "Google Talk:">
+<!ENTITY Gtalk.accesskey "G">
+<!ENTITY AIM.label "AIM:">
+<!ENTITY AIM.accesskey "A">
+<!ENTITY Yahoo.label "Yahoo!:">
+<!ENTITY Yahoo.accesskey "Y">
+<!ENTITY Skype.label "Skype:">
+<!ENTITY Skype.accesskey "S">
+<!ENTITY QQ.label "QQ:">
+<!ENTITY QQ.accesskey "Q">
+<!ENTITY MSN.label "MSN:">
+<!ENTITY MSN.accesskey "M">
+<!ENTITY ICQ.label "ICQ:">
+<!ENTITY ICQ.accesskey "I">
+<!ENTITY XMPP.label "ID de Jabber:">
+<!ENTITY XMPP.accesskey "J">
+<!ENTITY chatName.label "Nome nel chat:">
