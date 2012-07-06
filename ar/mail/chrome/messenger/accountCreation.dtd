@@ -54,7 +54,7 @@
 <!ENTITY manual-edit.label               "إعداد يدوي">
 <!ENTITY manual-edit.accesskey           "و">
 <!ENTITY switch-to-provisioner.label     "احصل على حساب جديد">
-<!ENTITY switch-to-provisioner.accesskey "G">
+<!ENTITY switch-to-provisioner.accesskey "س">
 
 
 <!ENTITY warning.label                   "تحذير!">

@@ -27,7 +27,7 @@
 <!ENTITY newOtherAccountsCmd.label "حسابات أخرى…">
 <!ENTITY newOtherAccountsCmd.accesskey "خ">
 <!ENTITY newCreateEmailAccountCmd.label "احصل على حساب بريد جديد…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newCreateEmailAccountCmd.accesskey "س">
 <!ENTITY newExistingEmailAccountCmd.label "حساب بريد موجود…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "و">
 <!ENTITY newIMAccountCmd.label "حساب دردشة…">
@@ -144,7 +144,7 @@
 <!ENTITY messagePaneVertical.label "منظور رأسي">
 <!ENTITY messagePaneVertical.accesskey "ر">
 <!ENTITY showFolderPaneCmd.label "لوحة المجلدات">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.accesskey "م">
 <!ENTITY showMessageCmd.label "لوح الرسائل">
 <!ENTITY showMessageCmd.accesskey "ح">
 
