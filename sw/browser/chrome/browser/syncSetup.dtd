@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;Usanidi">
 <!-- First page of the wizard -->
 
@@ -12,7 +16,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Sava">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Seva">
+<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
 <!ENTITY serverType.custom2.label   "Tumia sava maalum...">
 <!ENTITY signIn.account2.label      "Akaunti">
 <!ENTITY signIn.account2.accesskey  "A">

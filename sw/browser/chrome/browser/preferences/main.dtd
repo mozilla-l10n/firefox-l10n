@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Uwashaji">
 
 <!ENTITY startupPage.label         "Lini &brandShortName; huanza:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Onyesha ukurasa wangu wa nyumbani">
 <!ENTITY startupBlankPage.label    "Onyesha ukurasa wazi">
 <!ENTITY startupLastSession.label  "Onyesha madirisha yangu na vichupo kutoka wakati wa mwisho">
-<!ENTITY restoreOnDemand.label     "Usipakie vichupo hadi ichaguliwe">
-<!ENTITY restoreOnDemand.accesskey "v">
 
 <!ENTITY homepage.label            "Ukurasa Nyumbani:">
 <!ENTITY homepage.accesskey        "N">

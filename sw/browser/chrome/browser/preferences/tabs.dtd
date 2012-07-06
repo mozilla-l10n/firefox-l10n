@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "Fungua dirisha mpya katika kichupo kipya badala yake">
 <!ENTITY newWindowsAsTabs.accesskey   "k">
 
@@ -9,6 +13,9 @@
 
 <!ENTITY showTabBar.label             "Kila mara onyesha pau ya kichupo">
 <!ENTITY showTabBar.accesskey         "c">
+
+<!ENTITY restoreTabsOnDemand.label        "Usipakie vichupo hadi ichaguliwe">
+<!ENTITY restoreTabsOnDemand.accesskey    "v">
 
 <!ENTITY switchToNewTabs.label        "Ninapofungua kiungo katika kuchupo kipya, badili kwake mara moja">
 <!ENTITY switchToNewTabs.accesskey    "b">

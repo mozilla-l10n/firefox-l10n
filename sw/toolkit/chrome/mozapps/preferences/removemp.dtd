@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY removePassword.title              "Ondoa Nywila Kuu">
 <!ENTITY removeInfo.label                  "Lazima uingize nenosiri lako la sasa ili kuendelea:">
 <!ENTITY removeWarning1.label              "Nenosiri lako Kuu linatumika ili kulinda maelezo yenye hisia kama manenosiri ya wavuti.">
