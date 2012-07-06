@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY printCmd.commandkey            "p">
 
 <!ENTITY findOnCmd.commandkey           "F">
@@ -20,10 +24,10 @@
 <!ENTITY homeButton.tooltip             "Pergi ke Laman Mula Bantuan">
 <!ENTITY printButton.label              "Cetak">
 <!ENTITY printButton.tooltip            "Cetak halaman ini">
-<!ENTITY closeWindow.commandkey         "w">
+<!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Carian">
-<!ENTITY searchHeader.label             "Search results">
+<!ENTITY searchHeader.label             "Keputusan carian">
 <!ENTITY toctab.label                   "Kandungan">
 <!ENTITY toctab.accesskey               "C">
 

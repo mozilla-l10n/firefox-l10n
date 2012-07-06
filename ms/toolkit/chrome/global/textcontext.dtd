@@ -1,4 +1,8 @@
-<!ENTITY cutCmd.label "Potong">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "Cut">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Salin">
 <!ENTITY copyCmd.accesskey "c">
@@ -13,6 +17,8 @@
 
 <!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
 <!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Semak Ejaan">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Tiada cadangan ejaan)">

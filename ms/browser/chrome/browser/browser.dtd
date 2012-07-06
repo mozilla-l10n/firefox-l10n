@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -77,6 +81,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Info Laman">
 <!ENTITY pageInfoCmd.accesskey "M">
 <!ENTITY pageInfoCmd.commandkey "m">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Skrin Penuh">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -90,7 +100,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar Mod Skrin Penuh">
 <!ENTITY fullScreenExit.accesskey "K">
-<!ENTITY domFullScreenWarning.label "Tekan ESC untuk meninggalkan mod paparan penuh">
+<!ENTITY fullscreenAllowButton.label "Allow">
+<!ENTITY fullscreenExitButton.label "Deny">
+<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+
+<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
+<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Tutup Tetingkap">
 <!ENTITY closeWindow.accesskey "T">
@@ -198,6 +214,10 @@ can reach it easily. -->
 <!ENTITY inspectContextMenu.label     "Pemeriksaan elemen">
 <!ENTITY inspectContextMenu.accesskey "P">
 
+<!ENTITY responsiveUI.label            "Responsive Mode">
+<!ENTITY responsiveUI.accesskey        "R">
+<!ENTITY responsiveUI.commandkey       "R">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -213,12 +233,44 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Periksa">
-<!ENTITY inspectButton.accesskey        "i">
 <!ENTITY inspectCloseButton.tooltiptext "tutup pemeriksa">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "3">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
+<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.commandkey             "v">
+
+<!ENTITY webConsoleButton.label "Web Console">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY scriptsButton.label "Scripts">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Salin Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "C">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Salin Outer HTML
+
+">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "C">
+
+<!ENTITY inspectorHTMLDelete.label          "Padam Nod">
+<!ENTITY inspectorHTMLDelete.accesskey      "d">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "Dim The Page">
+<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleInfobar.label       "Show Node Info">
+<!ENTITY inspectorToggleInfobar.accesskey   "T">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Paparan 3D">
+<!ENTITY inspect3DViewButton.accesskey "P">
+
 <!ENTITY inspectStyleButton.label     "gaya">
 <!ENTITY inspectStyleButton.accesskey "g">
 
@@ -269,8 +321,8 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.label               "Buang Latar Semasa...">
 <!ENTITY clearRecentHistory.accesskey           "B">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Mulakan Pelungsuran Peribadi">
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Start Private Browsing">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "Berhenti Melungsur Secara Peribadi">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
@@ -303,7 +355,7 @@ can reach it easily. -->
 <!ENTITY appMenuEdit.label "ubahsuai">
 <!ENTITY appMenuCustomize.label "Pengubahsuaian">
 <!ENTITY appMenuToolbarLayout.label "Bentangan Bar Alatan ">
-<!ENTITY appMenuSidebars.label "Bar sebelah">
+<!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Cari">
 <!ENTITY appMenuUnsorted.label "Tidak isihan penandabuku">
 <!ENTITY appMenuWebDeveloper.label "Pembangun Web">
@@ -594,4 +646,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Tutupkan Bar Add-on">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "M">
 

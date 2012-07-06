@@ -1,4 +1,8 @@
-<!ENTITY aboutAbout.title  "Tentang Tentang">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAbout.title  "About About">
 <!ENTITY aboutAbout.note   "Ini adalah satu senarai “tentang” laman untuk kesenangan anda.
 <br/>Beberapa...">
 

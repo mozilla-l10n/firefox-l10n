@@ -1,10 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Error messages that are likely to be overridden by applications go in this
      file, all messages that likely don't need to tie into app-specific UI
      should go into netError.dtd -->
 
-<!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
-">
+<!ENTITY securityOverride.linkText "Or you can add an exception…">
+<!ENTITY securityOverride.warningContent "<p>Awak tidak perlu menambah pengecualian jika awak menggunakan sambungan internet yang awak tidak percaya sepenuhnya atau jika awak tidak menggunakan untuk melihat amaran untuk server ini. </p>
+<p>Jika awak masih berharap untuk menambah pengecualian untuk laman ini, awak boleh jika lakukan penetapan pada tetapan penyulitan  </p>">
 

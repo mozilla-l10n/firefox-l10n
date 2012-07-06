@@ -1,7 +1,11 @@
-<!ENTITY title           "Memasang Add-on">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title           "Install Add-on">
 <!ENTITY intro           "program lain pada komputer anda ingin mengubahsuai
                          &brandShortName; dengan add-on berikut:">
-<!ENTITY warning         "Install add-ons only from authors whom you trust.">
+<!ENTITY warning         "Pasang add-on daripada penulis yang anda percayai sahaja.">
 <!ENTITY allow           "Benarkan pemasangan ini">
 <!ENTITY later           "Anda boleh menukar fikiran anda pada bila-bila masa sahaja dengan melayari pengurus Add-ons.">
 <!ENTITY continue        "Sambung">

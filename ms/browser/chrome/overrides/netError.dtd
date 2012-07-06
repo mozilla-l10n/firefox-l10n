@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Masalah memuatkan laman">
+<!ENTITY loadError.label "Problem loading page">
 <!ENTITY retry.label "Cuba Lagi">
 
 <!-- Specific error messages -->
@@ -122,8 +126,8 @@
 <!ENTITY nssFailure2.title "penyambungan keselamatan telah gagal">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
 </ul>
 ">
 

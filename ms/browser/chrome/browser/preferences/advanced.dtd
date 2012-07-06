@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label                "Umum">
+<!ENTITY generalTab.label                "General">
 
 <!ENTITY accessibility.label             "akses">
 
@@ -25,8 +29,9 @@
 <!ENTITY systemDefaults.label            "Kembali ke Piawaian Sistem">
 <!ENTITY alwaysCheckDefault.label        "Selalu periksa sama ada &brandShortName; adalah pelungsur piawai waktu bermula"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "Periksa Sekarang">
-<!ENTITY checkNow.accesskey              "n">
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
 <!ENTITY submitCrashes.label             "Hantar laporan-laporan nahas">
 <!ENTITY submitCrashes.accesskey         "s">
 <!ENTITY submitTelemetry.label           "Hantarkan Prestasi Data">
