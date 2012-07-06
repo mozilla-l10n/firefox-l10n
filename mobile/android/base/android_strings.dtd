@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Ath-luchdaich">
 <!ENTITY forward "Air adhart">
+<!ENTITY menu "Clàr-taice">
+<!ENTITY back "Air ais">
+<!ENTITY stop "Sguir dheth">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Dùin an taba">
 <!ENTITY new_tab "Taba ùr">
@@ -61,7 +65,7 @@
 <!ENTITY pref_category_privacy "Prìobhaideachd ┐ Tèarainteachd">
 <!ENTITY pref_category_content "Susbaint">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
-<!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \'gam lorgadh">
+<!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \'gam thracadh">
 <!ENTITY pref_telemetry "Cuir dàta mun dèanadas">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 <!ENTITY pref_cookies "Cuir briosgaidean an comas">

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Lorgadh">
+<!ENTITY tracking.label                 "Tracadh">
 
-<!ENTITY doNotTrack.label               "Innis do làraichean-lìn nach bu toigh leam gun dèan iad lorgadh orm">
+<!ENTITY doNotTrack.label               "Innis do làraichean-lìn nach bu toigh leam gun dèan iad tracadh orm">
 <!ENTITY doNotTrack.accesskey           "d">
 
 <!ENTITY  history.label                 "Eachdraidh">
