@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "បណ្ណាល័យ">
 <!ENTITY places.library.width  "700">
@@ -22,11 +26,6 @@
 <!ENTITY view.sortAscending.accesskey   "Ա">
 <!ENTITY view.sortDescending.label      "លំដាប់​តម្រៀប Z > A">
 <!ENTITY view.sortDescending.accesskey  "Հ">
-
-<!ENTITY cmd.findInBookmarks.label      "រក​ក្នុង​ចំណាំ…">
-<!ENTITY cmd.findInBookmarks.accesskey  "Գ">
-<!ENTITY cmd.findCurrent.label          "រក​ក្នុង​សម្រាំង​បច្ចុប្បន្ន…">
-<!ENTITY cmd.findCurrent.accesskey      "Գ">
 
 <!ENTITY importBookmarksFromHTML.label     "នាំចូល​ចំណាំ​ពី HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "ន">

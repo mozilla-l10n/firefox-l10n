@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  blockPopups.label           "ទប់ស្កាត់​បង្អួច​លេចឡើង">
 <!ENTITY  blockPopups.accesskey       "ប">
 <!ENTITY  popupExceptions.label       "ករណី​លើកលែង…">
 <!ENTITY  popupExceptions.accesskey   "ក">
 
 <!ENTITY  loadImages.label            "ផ្ទុក​រូបភាព​ដោយ​ស្វ័យប្រវត្តិ">
-<!ENTITY  loadImages.accesskey        "ផ">
+<!ENTITY  loadImages.accesskey        "ព">
 <!ENTITY  exceptions.label            "ករណី​លើកលែង…">
 <!ENTITY  exceptions.accesskey        "ង">
 

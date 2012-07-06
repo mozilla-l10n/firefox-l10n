@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "ទូទៅ">
@@ -20,13 +24,14 @@
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
 <!ENTITY checkSpelling.label             "ពិនិត្យ​អក្ខរាវិរុទ្ធ​របស់​ខ្ញុំ ​ពេល​ខ្ញុំ​វាយ">
-<!ENTITY checkSpelling.accesskey         "អ">
+<!ENTITY checkSpelling.accesskey         "ប">
 
 <!ENTITY systemDefaults.label            "លំនាំ​ដើម​ប្រព័ន្ធ">
 <!ENTITY alwaysCheckDefault.label        "ពិនិត្យមើល​ជានិច្ច ថា​តើ &brandShortName; គឺជា​កម្មវិធី​រុករក​លំនាំដើម នៅ​ពេល​ចាប់ផ្ដើម​ដែរ​ឬទេ"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "Մ">
-<!ENTITY checkNow.label                  "ពិនិត្យ​មើល​ឥឡូវ ">
-<!ENTITY checkNow.accesskey              "ព">
+<!ENTITY setDefault.label                "ធ្វើឲ្យ &brandShortName; ជា​កម្មវិធី​រុករក​លំនាំដើម">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក">
 <!ENTITY submitCrashes.label             "ដាក់​ស្នើ​របាយការណ៍​អំពី​ការ​គាំង">
 <!ENTITY submitCrashes.accesskey         "យ">
 <!ENTITY submitTelemetry.label           "ដាក់​ស្នើ​ទិន្នន័យ​​ប្រសិទ្ធភាព">
@@ -56,7 +61,7 @@
 <!ENTITY clearCacheNow.label             "សម្អាត​ឥឡូវនេះ">
 <!ENTITY clearCacheNow.accesskey         "ស">
 <!ENTITY clearOfflineAppCacheNow.label   "សម្អាត​ឥឡូវនេះ">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ឥ">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ស">
 <!ENTITY overrideSmartCacheSize.label    "បដិសេធ​ការ​គ្រប់គ្រង​ឃ្លាំង​សម្ងាត់​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY overrideSmartCacheSize.accesskey "ប">
 
@@ -71,7 +76,7 @@
 <!ENTITY updateManual.accesskey          "ក">
 
 <!ENTITY updateAutoAddonWarn.label       "ព្រមាន​ខ្ញុំ ប្រសិនបើ​វា​នឹង​បិទ​​កម្មវិធី​បន្ថែម​ណាមួយ​របស់​ខ្ញុំ ">
-<!ENTITY updateAutoAddonWarn.accesskey   "ទ">
+<!ENTITY updateAutoAddonWarn.accesskey   "ព">
 
 <!ENTITY updateHistory.label             "បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព">
 <!ENTITY updateHistory.accesskey         "ព">

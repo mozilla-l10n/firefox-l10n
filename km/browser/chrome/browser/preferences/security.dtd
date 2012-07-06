@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  warnAddonInstall.label        "ព្រមាន​ខ្ញុំ​ពេល​តំបន់​បណ្ដាញ​ព្យាយាម​ដំឡើង​កម្មវិធី​បន្ថែម">
 <!ENTITY  warnAddonInstall.accesskey    "ន">
 
@@ -23,13 +27,13 @@
 <!ENTITY  rememberPasswords.label       "ចង់ចាំ​ពាក្យ​សម្ងាត់​សម្រាប់​តំបន់​បណ្ដាញ">
 <!ENTITY  rememberPasswords.accesskey   "ព">
 <!ENTITY  passwordExceptions.label      "ករណី​លើកលែង…">
-<!ENTITY  passwordExceptions.accesskey  "ល">
+<!ENTITY  passwordExceptions.accesskey  "ង">
 
 <!ENTITY  useMasterPassword.label        "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY  useMasterPassword.accesskey    "ម">
 <!ENTITY  changeMasterPassword.label     "ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…">
 <!ENTITY  changeMasterPassword.accesskey "ស">
 
-<!ENTITY  savedPasswords.label            "ពាក្យ​សម្ងាត់​ដែល​រក្សា​ទុក…">
-<!ENTITY  savedPasswords.accesskey        "ដ">
+<!ENTITY  savedPasswords.label            "Saved Passwords…">
+<!ENTITY  savedPasswords.accesskey        "ល">
 

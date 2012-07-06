@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "ការ​អ៊ិនកូដ​តួអក្សរ">
-<!ENTITY charsetMenu.accesskey         "C">
+<!ENTITY charsetMenu.accesskey         "រ">
 <!ENTITY charsetMenuAutodet.label      "រក​ឃើញ​​ស្វ័យ​ប្រវត្តិ">
 <!ENTITY charsetMenuAutodet.accesskey  "រ">
 <!ENTITY charsetMenuMore.label         "ការ​អ៊ិនកូដ​ច្រើន​ទៀត">

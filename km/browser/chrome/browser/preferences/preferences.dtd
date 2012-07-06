@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  prefWindow.titleWin     "ជម្រើស">
 <!ENTITY  prefWindow.titleGNOME   "ចំណូលចិត្ត &brandShortName;">
@@ -17,4 +21,5 @@
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "ធ្វើ​សមកាលកម្ម">
-
+<!ENTITY  buttonForward.tooltip   "ទៅមុខ​មួយ​ទំព័រ">
+<!ENTITY  buttonBack.tooltip      "ថយក្រោយ​មួយ​ទំព័រ">

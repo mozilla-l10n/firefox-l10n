@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "បញ្ចូល​ទីតាំង​បណ្ដាញ (URL) ឬ បញ្ជាក់​ឯកសារ​មូលដ្ឋាន​ដែល​អ្នក​ចង់​បើក ៖">  

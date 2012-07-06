@@ -1,4 +1,8 @@
-<!ENTITY sanitizePrefs2.title          "ការ​កំណត់​សម្រាប់​សម្អាត​​ប្រវត្តិ">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sanitizePrefs2.title          "ការ​កំណត់​សម្រាប់​ជម្រះ​ប្រវត្តិ">
 <!ENTITY sanitizeDialog2.title         "សម្អាត​​ប្រវត្តិ​ថ្មីៗ">
 
 <!ENTITY sanitizeItems.label          "សម្អាត​​ធាតុ​ខាងក្រោម​ឥឡូវនេះ ៖">

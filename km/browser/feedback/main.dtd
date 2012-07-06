@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY testpilot.brand.label                      "អ្នកជំនួយការ​សាកល្បង">
 <!ENTITY testpilot.settings.label                   "ការ​កំណត់">
 <!ENTITY testpilot.settings.dataSubmission.label    "ការ​ដាក់​ស្នើ​ទិន្នន័យ">

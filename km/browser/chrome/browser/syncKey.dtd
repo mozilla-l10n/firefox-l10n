@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "ពាក្យ​គន្លឹះ &syncBrand.fullName.label; របស់​អ្នក">
 <!ENTITY syncKey.page.description         "ពាក្យ​គន្លឹះ​នេះ​ត្រូវ​បាន​ប្រើ​ដើម្បី​ឌិកូដ​ទិន្នន័យ​ក្នុង​គណនី &syncBrand.fullName.label; របស់​អ្នក ។ អ្នក​នឹង​ត្រូវ​ចាំបាច់​បញ្ចូល​ពាក្យ​គន្លឹះ​រាល់​ពេល​ដែល​អ្នក​កំណត់​រចនាសម្ព័ន្ធ &syncBrand.fullName.label; នៅ​លើ​កុំព្យូទ័រ ឬ​ឧបករណ៍​ថ្មី​មួយ ។">
 <!ENTITY syncKey.keepItSecret.heading     "រក្សា​ជា​សម្ងាត់">

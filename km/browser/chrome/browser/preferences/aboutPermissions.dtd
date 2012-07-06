@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY permissionsManager.title        "កម្មវិធី​គ្រប់គ្រង​សិទ្ធិ">
 
 <!ENTITY sites.search                    "ស្វែងរក​តំបន់បណ្ដាញ">
@@ -35,4 +39,6 @@
 <!ENTITY indexedDB.label                 "ថែទាំ​ការ​ផ្ទុក​ក្រៅ​បណ្ដាញ">
 
 <!ENTITY popup.label                     "បើក​បង្អួច​លេចឡើង">
+
+<!ENTITY fullscreen.label                "ពេញ​អេក្រង់">
 
