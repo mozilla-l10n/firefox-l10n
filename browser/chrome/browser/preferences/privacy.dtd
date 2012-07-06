@@ -12,7 +12,7 @@
 <!ENTITY acceptCookies.label "웹 사이트에서 제공하는 쿠키 허용">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "제3자 쿠키 허용">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY acceptThirdParty.accesskey "c">
 <!ENTITY keepUntil.label "유지 시간:">
 <!ENTITY keepUntil.accesskey "K">
 <!ENTITY expire.label "만료 될 때까지">
