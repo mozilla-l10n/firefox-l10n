@@ -569,6 +569,8 @@
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label     "Nowa etykieta…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Zarządzaj etykietami…">
+<!ENTITY manageTags.accesskey "Z">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label     "Nazwa">
