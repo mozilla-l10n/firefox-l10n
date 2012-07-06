@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Entandika">
 
 <!ENTITY startupPage.label         "Ddi &brandShortName; etandika:">
@@ -5,8 +9,6 @@
 <!ENTITY startupHomePage.label     "Laga omuko agusookerwako">
 <!ENTITY startupBlankPage.label    "Laga omuko omweerere">
 <!ENTITY startupLastSession.label  "Laga ndinisa n'awaddirira wange okuva akaseera akasembayo">
-<!ENTITY restoreOnDemand.label     "Totika awaddirira nga tewana londebwa">
-<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "Omuko ogusookerwako:">
 <!ENTITY homepage.accesskey        "O">

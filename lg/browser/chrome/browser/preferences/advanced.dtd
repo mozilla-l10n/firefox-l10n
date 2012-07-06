@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Byonna wamu">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Bulikiseera kebera okulaba oba &brandShortName; ye nonyeso enyenkalakalira mu kutandika">
 <!ENTITY alwaysCheckDefault.accesskey    "k">
-<!ENTITY checkNow.label                  "Kebera Kkati">
-<!ENTITY checkNow.accesskey              "K">
+<!ENTITY setDefault.label                "Fula &brandShortName; enonyeso yo eyenkalakalira">
+<!ENTITY setDefault.accesskey            "k">
+<!ENTITY isDefault.label                 "&brandShortName; ye enonyeso yo eyenkalakalira kakati">
 <!ENTITY submitCrashes.label             "Wayo alipota zo kuzikirira">
 <!ENTITY submitCrashes.accesskey         "W">
 <!ENTITY submitTelemetry.label           "Wwayo data we'enkola">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "Ggulawo ddirisa empya mu waddirira sosi muddirisa">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
@@ -9,6 +13,9 @@
 
 <!ENTITY showTabBar.label             "Bulijjo laga akabawo kawaddirira">
 <!ENTITY showTabBar.accesskey         "a">
+
+<!ENTITY restoreTabsOnDemand.label        "Totika awaddirira nga tewana londebwa">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "Bwe nzigula akagatta mu waddirira awampya, kyuusa amangu ddala">
 <!ENTITY switchToNewTabs.accesskey    "k">

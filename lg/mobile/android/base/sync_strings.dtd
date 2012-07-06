@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Okutusaganya Firefox">
 <!ENTITY syncBrand.shortName.label "Tusaganya">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Okutekamu Kuwede">
-<!ENTITY sync.subtitle.success.label "Bwino wo kati awanulwa emabega. Oyinza okugenda muntegeka oku dukanya akaunta yo.">
+<!ENTITY sync.subtitle.success.label1 "Bwino wo awanulwa mukasirise. Oyinza okugenda muntegeka okudukanya akaunti you, oba tandika okunonya ne &brandShortName;.">
 <!ENTITY sync.settings.label "Enteegeka">
-<!ENTITY sync.subtitle.manage.label "Akaunta yo eya &syncBrand.fullName.label; ewede okutegeka. Genda mu ntegeka okudukanya akaunta yo.">
+<!ENTITY sync.subtitle.manage.label1 "Akaunta yo eya &syncBrand.fullName.label; ewedde okutegeka. Oyinza okugenda mu Ntegeka okudukanya akaunta yo oba otandika &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Bambi gezako nate.">
+<!ENTITY sync.pair.connectlocation.label "Okutandika ekyuma kyo ekipya, londa \&quot;Tegeka &syncBrand.shortName.label;\&quot; ku kyuma, omale olonde \&quot;Nina akaunti.\&quot;">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Okweroboza">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Obulambe Obutannasunsulwa">
 <!ENTITY bookmarks.folder.desktop.label "Obulambe bwo Kumeza">
 <!ENTITY bookmarks.folder.mobile.label "Obulambe Obukyuka">
+<!ENTITY bookmarks.folder.readinglist.label "Olukalala Lwebyokusooma">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Akaunta emu yoka eya &syncBrand.fullName.label; ewagirwa.">
