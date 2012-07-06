@@ -44,6 +44,8 @@
 <!ENTITY forward "앞으로">
 
 <!ENTITY new_tab "새 탭">
+<!ENTITY close_tab "탭 닫기">
+<!ENTITY num_tabs "&#037;d 개의 탭">
 <!ENTITY new_tab_opened "열린 새 탭">
 
 <!ENTITY settings "프로그램 설정">
@@ -86,11 +88,22 @@
 <!ENTITY share_title "공유 방법 선택">
 <!ENTITY save_as_pdf "PDF로 저장">
 
+<!ENTITY find_in_page "페이지내 검색">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "페이지내 검색">
+<!ENTITY find_prev "이전">
+<!ENTITY find_next "다음">
+<!ENTITY find_close "닫기">
+
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
 <!ENTITY contextmenu_remove_bookmark "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
 <!ENTITY contextmenu_share "공유">
 <!ENTITY contextmenu_edit_bookmark "편집">
+
+<!ENTITY history_removed "방문 기록에서 웹 페이지 삭제 완료">
 
 <!ENTITY bookmark_edit_title "북마크 편집">
 <!ENTITY bookmark_edit_name "이름">
@@ -101,6 +114,12 @@
 <!ENTITY site_settings_cancel       "취소">
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
+
+<!ENTITY add_to_reading_list "읽기 목록 추가">
+<!ENTITY reading_list_added "페이지를 읽기 목록에서 추가 완료">
+<!ENTITY reading_list_removed "페이지를 읽기 항목에서 삭제 완료">
+<!ENTITY reader_mode "읽기 모드">
+
 
 <!ENTITY masterpassword_create_title "기본 암호 만들기">
 <!ENTITY masterpassword_remove_title "기본 암호 삭제">
@@ -124,3 +143,7 @@
 <!ENTITY filepicker_audio_title "음성 선택 또는 녹음">
 <!ENTITY filepicker_image_title "사진 선택 또는 촬영">
 <!ENTITY filepicker_video_title "동영상 선택 또는 녹화">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "현재 웹 사이트는 인증 되었음">
+<!ENTITY identity_run_by "운영 업체 정보:">
