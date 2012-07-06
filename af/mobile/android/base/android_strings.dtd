@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Herlaai">
 <!ENTITY forward "Aanstuur">
+<!ENTITY menu "Kieslys">
+<!ENTITY back "Terug">
+<!ENTITY stop "Stop">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Sluit oortjie">
 <!ENTITY new_tab "Nuwe oortjie">
