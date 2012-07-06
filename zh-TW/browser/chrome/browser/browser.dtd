@@ -237,8 +237,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "關閉開發者工具列">
 <!ENTITY devToolbarMenu.label              "開發者工具列">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "網頁主控台">
 <!ENTITY inspectorButton.label "檢測器">
