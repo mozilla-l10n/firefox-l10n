@@ -37,6 +37,3 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
-
-# Fixed for Bug 756866 - Korean character styled bold
-pref("font.name.sans-serif.ko", "Droid Sans Fallback");
