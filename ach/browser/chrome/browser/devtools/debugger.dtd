@@ -13,15 +13,15 @@
 
 
 
-<!ENTITY debuggerMenu.label2          "Debugger">
+<!ENTITY debuggerMenu.label2          "Gin mabalo">
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 
-<!ENTITY remoteDebuggerMenu.label    "Remote Debugger">
+<!ENTITY remoteDebuggerMenu.label    "Gin Mabalo ma aa ki tenge">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
 
-<!ENTITY chromeDebuggerMenu.label    "Browser Debugger">
+<!ENTITY chromeDebuggerMenu.label    "Yeny Gin mabalo">
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
 
@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions          "Pause on exceptions">
+<!ENTITY debuggerUI.pauseExceptions          "Cung manok ikom en ma iyero">
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
 
@@ -63,8 +63,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
   -  appears in the filter text box when it is empty. -->
 
-<!ENTITY debuggerUI.emptyFilterText  "Filter scripts">
+<!ENTITY debuggerUI.emptyFilterText  "Yek nyig coc">
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
 
-<!ENTITY debuggerUI.emptyScriptText  "No scripts.">
+<!ENTITY debuggerUI.emptyScriptText  "Nyig coc pe.">

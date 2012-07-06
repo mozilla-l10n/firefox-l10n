@@ -44,13 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Tero Otyeko">
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 "Kombedi gutye ka kwanyo woko tic mamegi I cal maneno mabor. I romo wot i tero wek iloo teko pa akaunti mamegi, onyo cak yenyo kwede &brandShortName;.">
 <!ENTITY sync.settings.label "Tero">
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 "Kityeko dong tero woko akaunti mamegi me &syncBrand.fullName.label; I twero wot itero wek I loo teko pa akaunti mamegi, onyo cak &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Tim ber item doki.">
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+<!ENTITY sync.pair.connectlocation.label "Pi miyo jami tic mamegi manyen, yer,\'\'Tero &syncBrand.shortName.label;” I kom jami tic, ci dong I yer “Atye ki Akaunti”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Me ayera">
@@ -72,7 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Alam me Pot buk mape Kiyero">
 <!ENTITY bookmarks.folder.desktop.label "Alama buk me Cal ma i kompiuta">
 <!ENTITY bookmarks.folder.mobile.label "Alama me pot buk ma kiwoto kwede">
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.readinglist.label "Nying jami me kwan">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Kicwako ka akaunti pa &syncBrand.fullName.label; acel keken.">

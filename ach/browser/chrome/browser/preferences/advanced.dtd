@@ -30,9 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Jwii nen pi &brandShortName; bedo i kite ne iyi acaki">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY setDefault.label                "Mii &brandShortName; obedlayeny ma gang">
+<!ENTITY setDefault.accesskey            "l">
+<!ENTITY isDefault.label                 "&brandShortName; obedo layeny me gang mamegi">
 <!ENTITY submitCrashes.label             "Cwal ngec me poto atura">
 <!ENTITY submitCrashes.accesskey         "C">
 <!ENTITY submitTelemetry.label           "Cwal tic me jami">

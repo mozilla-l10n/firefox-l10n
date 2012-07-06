@@ -4,7 +4,7 @@
 
 <!ENTITY resetProfile.dialog.title        "Ter odoco &brandShortName;">
 <!ENTITY resetProfile.dialog.description  "Imoko ada ni imito tero odoco &brandShortName; dwoko i kit me keto?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; will try to preserve your:">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; bitemo gwoko maber gin megi:">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; bi cako odoco ki jami weng mukene gubi kwanyo woko.">
 <!ENTITY resetProfile.dialog.button.label "Ter odoco &brandShortName;">
 
@@ -12,4 +12,4 @@
 <!ENTITY resetProfile.description         "Ka itye ki peko madwong ma iromo cobo ne, cak odoco kwede ngec megi keken.">
 <!ENTITY resetProfile.button.label        "Ter odoco &brandShortName;">
 
-<!ENTITY resetProfile.cleaning.description "Please wait while &brandShortName; cleans up your old data…">
+<!ENTITY resetProfile.cleaning.description "Tim ber i kur kun &brandShortName; ywe woko tic mamegi muti...">

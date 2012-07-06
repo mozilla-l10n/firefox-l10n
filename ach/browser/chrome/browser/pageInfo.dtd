@@ -66,7 +66,7 @@
 <!ENTITY  permInstall           "Ket Nyayo onyo deyo">
 <!ENTITY  permGeo               "Nywak Kabedo">
 <!ENTITY  permPlugins           "Ket rwako iyie">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permFullscreen        "Ket Wang kompiuta lung">
 
 <!ENTITY  permIndexedDB              "Gwok Citoa mape I wiyamo">
 <!ENTITY  permClearStorage           "Ywe Citoa">
