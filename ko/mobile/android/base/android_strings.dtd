@@ -42,6 +42,10 @@
 
 <!ENTITY reload "새로 고침">
 <!ENTITY forward "앞으로">
+<!ENTITY menu "메뉴">
+<!ENTITY back "뒤로">
+<!ENTITY stop "중지">
+<!ENTITY site_security "보안 정보">
 
 <!ENTITY new_tab "새 탭">
 <!ENTITY close_tab "탭 닫기">
@@ -98,6 +102,7 @@
 <!ENTITY find_close "닫기">
 
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
+<!ENTITY contextmenu_remove_history "삭제">
 <!ENTITY contextmenu_remove_bookmark "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
 <!ENTITY contextmenu_share "공유">
