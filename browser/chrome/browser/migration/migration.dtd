@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title          "Import Bestari">
+
+<!ENTITY migrationWizard.title          "Import Wizard">
 
 <!ENTITY importFrom.label               "Import Pilihan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
 <!ENTITY importFromUnix.label           "Import Keutamaan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
@@ -13,8 +17,8 @@
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromHTMLFile.label       "Dari Fail HTML">
-<!ENTITY importFromHTMLFile.accesskey   "F">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
 
 <!ENTITY noMigrationSources.label       "Tiada program yang mengandungi tandabuku, sejarah atau data kata laluan yang boleh dijumpai.">
 

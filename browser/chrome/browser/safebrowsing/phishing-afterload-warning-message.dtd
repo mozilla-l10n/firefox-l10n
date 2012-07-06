@@ -1,4 +1,8 @@
-<!ENTITY safeb.palm.warning.title "Pemalsuan Web Disyaki">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.warning.title "Suspected Web Forgery">
 
 <!ENTITY safeb.palm.message.p1 "Laman Web ini telah dilaporkan sebagai pemalsuan web yang direka untuk menipu pelayar berkongsi maklumat peribadi atau kewangan. Memasukkan sebarang maklumat peribadi ke dalam laman ini mungkin mengakibatkan kecurian identiti atau penipuan yang lain. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Baca seterusnya &#187;">

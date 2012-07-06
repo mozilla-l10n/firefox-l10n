@@ -1,4 +1,8 @@
-<!ENTITY privatebrowsingpage.title                 "Melungsur Secara Peribadi">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                 "Private Browsing">
 <!ENTITY privatebrowsingpage.title.normal          "Mahukah anda bermula dengan Pelungsuran Secara Peribadi?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; tidak akan menyimpan sejarah sesi ini.">

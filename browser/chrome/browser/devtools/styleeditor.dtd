@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE : The correct localization of this file might be to keep
@@ -10,7 +14,7 @@
      main window. NB: the property chromeWindowTitle in styleeditor.properties
      is used to dynamically update the Style Editor window title with the title
      of the web page it is editing. -->
-<!ENTITY window.title               "Gaya Pengubah">
+<!ENTITY window.title               "Style Editor">
 
 <!ENTITY newButton.label            "baru">
 <!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
@@ -21,17 +25,6 @@
 <!ENTITY importButton.tooltip       "Import and append an existing style sheet to the document">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "I">
-
-<!ENTITY searchInput.tooltip        "Filter style sheets by name">
-<!ENTITY searchInput.placeholder    "Find style sheet">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "No matching style sheet has been found.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Bersih">
 
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 <!ENTITY visibilityToggle.accesskey "V">
@@ -60,4 +53,7 @@
 <!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
 

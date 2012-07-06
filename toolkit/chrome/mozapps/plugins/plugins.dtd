@@ -21,7 +21,9 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu dimulakan semula untuk supaya plugin berfungsi.">
 
 <!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
-<!ENTITY clickToPlayPlugin                                   "Klik sini untuk mengaktifkan plugin.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
 <!ENTITY disabledPlugin                                      "Plugin ini telah dilumpuhkan.">
 <!ENTITY blockedPlugin.label                                 "Plugin ini telah disekat untuk perlindungan anda.">
 
@@ -34,11 +36,11 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Muatkan semula halaman">
 <!ENTITY reloadPlugin.post                                   "cuba lagi.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     ".... dan hantarkan laporan rosak">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Hantar laporan kegagalan">
 <!ENTITY report.submitting                                   "Laporan sedang dihantar...">
 <!ENTITY report.submitted                                    "Crash report sent.">
 <!ENTITY report.disabled                                     "Crash reporting disabled.">
-<!ENTITY report.failed                                       "Submission failed.">
-<!ENTITY report.unavailable                                  "No report available.">
+<!ENTITY report.failed                                       "Penghantaran gagal.">
+<!ENTITY report.unavailable                                  "Tiada laporan yang tersedia.">
 

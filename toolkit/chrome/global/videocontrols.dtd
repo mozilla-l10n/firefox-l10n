@@ -1,9 +1,13 @@
-<!ENTITY playButton.playLabel "Mainkan">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY playButton.playLabel "Play">
 <!ENTITY playButton.pauseLabel "Jeda">
 <!ENTITY muteButton.muteLabel "Senyap">
 <!ENTITY muteButton.unmuteLabel "Nyah senyap">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Skrin Penuh">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Keluar dari Muka Penuh">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Saiz">
@@ -20,11 +24,11 @@
 <!ENTITY stats.framesPresented "Frames presented">
 <!ENTITY stats.framesPainted "Frames painted">
 
-<!ENTITY error.aborted "Video loading stopped.">
+<!ENTITY error.aborted "Video yang dimuatkan berhenti.">
 <!ENTITY error.network "Video playback aborted due to a network error.">
 <!ENTITY error.decode "Video can't be played because the file is corrupt.">
 <!ENTITY error.srcNotSupported "Format video atau jenis MIME adalah tidak disokong.">
-<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
+<!ENTITY error.noSource2 "Tiada video dijumpai dengan format dan jenis MIME yang disokong.">
 <!ENTITY error.generic "Video playback aborted due to an unknown error.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current

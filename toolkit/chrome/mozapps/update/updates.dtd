@@ -1,10 +1,10 @@
 <!ENTITY  updateWizard.title              "Kemaskinian Perisian">
 
 <!ENTITY  checking.title                  "Memeriksa Kemaskinian">
-<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
+<!ENTITY  updateCheck.label               "Mencari versi &brandShortName yang lebih baru;">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
+<!ENTITY  pluginupdatesfound.title        "Terdapat Kemas kini bagi Plugin">
+<!ENTITY  pluginupdatesfound.label        "Versi yang lebih baru  kepada satu atau lebih plugin anda telah dijumpai.">
 <!ENTITY  pluginupdateslink.label         "Lihat bagaimana untuk menaiktarafkan plugin anda.">
 
 <!ENTITY  noupdatesfound.title            "Tiada Kemaskinian Ditemui">
@@ -41,7 +41,7 @@
 <!ENTITY  license.decline                 "Saya TIDAK terima terma Perjanjian Lesen">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+<!ENTITY  incompatibleList.title          "Add-on yang tidak serasi dijumpai">
 
 <!ENTITY  downloadPage.title              "Memuat turun &brandShortName;">
 <!ENTITY  downloading.intro               "Memuaturun kemaskinian...">

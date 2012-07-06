@@ -1,4 +1,8 @@
-<!ENTITY header.label     "Tajuk Ringkas"> 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY header.label     "Brief Title"> 
 <!ENTITY message.label    "Teks contoh letak di sini.">
 <!ENTITY editfield0.label "Nama Pengguna:"> 
 <!ENTITY editfield1.label "Katalaluan:"> 

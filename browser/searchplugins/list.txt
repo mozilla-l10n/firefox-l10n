@@ -1,7 +1,7 @@
 amazondotcom
-bing
+answers
+creativecommons
 eBay
 google
-twitter
 wikipedia
 yahoo

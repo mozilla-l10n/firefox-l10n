@@ -1,6 +1,10 @@
-<!ENTITY permissionsManager.title        "Pengurus Kebenaran">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sites.search                    "Laman Carian">
+<!ENTITY permissionsManager.title        "Permissions Manager">
+
+<!ENTITY sites.search                    "Search Sites">
 <!ENTITY sites.allSites                  "Semua Laman">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
@@ -18,8 +22,8 @@
 <!ENTITY permission.allowForSession      "Sesi ini dibenarkan">
 <!ENTITY permission.block                "Halang">
 
-<!ENTITY password.label                  "Menyimpan kata laluan">
-<!ENTITY password.manage                 "Urus Kata Laluan…">
+<!ENTITY password.label                  "Store Passwords">
+<!ENTITY password.manage                 "Manage Passwords…">
 
 <!ENTITY cookie.label                    "Tetapkan Cecikut">
 <!ENTITY cookie.remove                   "Singkir Cecikut">
@@ -28,9 +32,13 @@
 
 <!ENTITY geo.label                       "Kongsi Lokasi">
 
+<!ENTITY plugins.label                   "Plugins">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Kekalkan Storan Luartalian">
 
 <!ENTITY popup.label                     "Buka Tetingkap Pop-up">
+
+<!ENTITY fullscreen.label                "Fullscreen">
 

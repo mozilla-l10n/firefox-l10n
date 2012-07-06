@@ -1,12 +1,14 @@
-<!ENTITY startup.label             "Permulaan">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "Startup">
 
 <!ENTITY startupPage.label         "Apabila &brandShortName; mula:">
 <!ENTITY startupPage.accesskey     "m">
 <!ENTITY startupHomePage.label     "tunjukan laman utama saya">
 <!ENTITY startupBlankPage.label    "tunjukan laman yang kosong">
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
-<!ENTITY restoreOnDemand.label     "Jangan isi tab kecuali bila dipilih">
-<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "laman utama:
 ">

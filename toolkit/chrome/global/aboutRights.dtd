@@ -1,6 +1,6 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "tentang:hak-hak">
+<!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Tentang Hak Anda">
 <!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
 
@@ -25,7 +25,7 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Dasar Persendirian">
+<!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
@@ -55,10 +55,10 @@
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "PelayaranSelamat:">
 <!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.safebrowsing-term1 "Buka keutamaan aplikasi">
-<!ENTITY rights.safebrowsing-term2 "Pilih pilihan keselamatan">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "semak seimbas yang selamat teleh kehilangan upaya">
+<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
+<!ENTITY rights.safebrowsing-term2 "Select the Security selection">
+<!ENTITY rights.safebrowsing-term3 "Buang tanda pilihan ke &quot;&blockAttackSites.label;&quot; dan &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Kesedaran Lokasi Pelayaran:">
@@ -66,8 +66,8 @@
 <!ENTITY rights.locationawarebrowsing-term1a "Di bar URL, taip ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Taip geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
-<!ENTITY rights.locationawarebrowsing-term4 "semak seimbas yang selamat teleh kehilangan upaya">
+<!ENTITY rights.locationawarebrowsing-term3 "Dwi klik pada keutamaan geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
