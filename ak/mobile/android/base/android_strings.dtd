@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "Erehyehyɛ wo &brandShortName;">
 <!ENTITY  splash_bookmarks_history "Yɛreto wo mbukmak ne abakɔsɛm so, na ebetumi edi sima anaa birirbi.">
@@ -15,7 +19,7 @@
 <!ENTITY  crash_help_message "Yɛsrɛ wo, boa yɛn na yɛn nsiesie ɔhaw yi!">
 <!ENTITY  crash_send_report_message "Fa amandebɔwoma ɛmane Mozilla">
 <!ENTITY  crash_include_url "Fa kratafa adrɛs ka ho">
-<!ENTITY  crash_close_label "To mu">
+<!ENTITY  crash_close_label "Close">
 <!ENTITY  crash_restart_label "San hyɛ &brandShortName; ase">
 <!ENTITY  sending_crash_report "Ɛremane amandebɔwoma\u2026">
 <!ENTITY  exit_label "Pue">
@@ -43,8 +47,16 @@
 
 <!ENTITY reload "San-loode">
 <!ENTITY forward "Enim">
+<!ENTITY menu "Mɛnu">
+<!ENTITY back "Back">
+<!ENTITY stop "Gyae">
+<!ENTITY site_security "Site Security">
 
+<!ENTITY close_tab "Close Tab">
 <!ENTITY new_tab "Tab foforo">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d tabs">
 <!ENTITY new_tab_opened "Ebue tab foforo">
 
 <!ENTITY settings "Nhyehyɛe">
@@ -59,7 +71,7 @@
 <!ENTITY pref_cookies "Sɔ nkuki">
 <!ENTITY pref_char_encoding "Akyerɛwde ndanee">
 <!ENTITY pref_char_encoding_on "Kyerɛ mɛnu">
-<!ENTITY pref_char_encoding_off "Nky\erɛ mɛnu">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_history "Pepa abakɔsɛm">
 <!ENTITY pref_clear_history_confirm "Ɛbɛpepa abakɔsɛm">
 <!ENTITY pref_clear_private_data "Pepa deta a ɛyɛ praevet">
@@ -86,12 +98,25 @@
 <!ENTITY share "Kyekyɛw">
 <!ENTITY share_title "Kyekyɛw fa">
 <!ENTITY save_as_pdf "Fa sie sɛ PDF">
+<!ENTITY find_in_page "Find in Page">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Find in Page">
+<!ENTITY find_prev "Previous">
+<!ENTITY find_next "Ndiso">
+<!ENTITY find_close "Close">
 
 <!ENTITY contextmenu_open_new_tab "Bue wɔ Tab Foforo mu">
-<!ENTITY contextmenu_remove_bookmark "Yi">
+<!ENTITY contextmenu_remove_history "Remove">
+<!ENTITY contextmenu_remove_bookmark "Remove">
 <!ENTITY contextmenu_add_to_launcher "Fa ka Fie Skreen ho">
 <!ENTITY contextmenu_share "Kyekyɛ">
 <!ENTITY contextmenu_edit_bookmark "Sesa">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "Page removed">
 
 <!ENTITY bookmark_edit_title "Sesa Bukmak">
 <!ENTITY bookmark_edit_name "Din">
@@ -102,6 +127,11 @@
 <!ENTITY site_settings_cancel       "Twa-mu">
 <!ENTITY site_settings_clear        "Pepa">
 <!ENTITY site_settings_no_settings  "Nhyehyɛe biara nni hɔ a wobɛpepa">
+
+<!ENTITY add_to_reading_list "Add to Reading List">
+<!ENTITY reading_list_added "Page added to your Reading List">
+<!ENTITY reading_list_removed "Page removed from your Reading List">
+<!ENTITY reader_mode "Reader Mode">
 
 <!ENTITY masterpassword_create_title "Bɔ Ehintasɛmfua Papa no">
 <!ENTITY masterpassword_remove_title "Yi Ehintasɛmfua Papa no">
@@ -125,3 +155,18 @@
 <!ENTITY filepicker_audio_title "Paw anaa kyerɛw aso-te bi sie">
 <!ENTITY filepicker_image_title "Paw anaa twa mfoni">
 <!ENTITY filepicker_video_title "Paw anaa kyerɛw sini bi sie">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Wo akɔnɛkte akɔ">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "a wɔn a wɔdi ekyiri yɛ">

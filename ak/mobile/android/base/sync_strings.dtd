@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Synk">
 <!-- Main titles. -->
@@ -18,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Kyerɛ me sɛnea wɔ yɛ no.">
 <!ENTITY sync.link.advancedsetup.label "Nhyehyɛe a ɛkɔ anim...">
-<!ENTITY sync.link.nodevice.label "Efidie no n\ni me nkyɛn…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Ɛretwɛn efidie foforo no...">
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Nhyehyɛe Ewie">
-<!ENTITY sync.subtitle.success.label "Ɛretwe wo data no wɔ ndaekyiri. Wobetumi akɔ Nhyehyɛe ahwɛ wo akawnt no so.">
+<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
 <!ENTITY sync.settings.label "Nhyehyɛe">
-<!ENTITY sync.subtitle.manage.label "Wɔahyehyɛ wo &syncBrand.fullName.label; akawnt no. Kɔ Nhehyɛe na hwɛ wo akawnt no so.">
+<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "San sɔ hwɛ.">
+<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Nɔphyɛn">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Mbukmaak a Wɔnnhyehyɛe">
 <!ENTITY bookmarks.folder.desktop.label "Dɛsktɔp Mbukmak">
 <!ENTITY bookmarks.folder.mobile.label "Mobael Mbukmak">
+<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; akawnt baako pɛ na ɛwɔ kwan.">

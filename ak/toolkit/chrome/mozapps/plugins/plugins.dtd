@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Wo hia plagin bi a wo de bɛhwɛ kɔntɛnt yi.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tim ha sɛnea wobɛkenyan plagin no. ">
-<!ENTITY clickToPlayPlugins                                  "Tim ha sɛnea wobɛkenyan plagin no.">
+<!ENTITY clickToPlayPlugin                                   "Klike ha fa kenyan plagin no.">
 <!ENTITY disabledPlugin                                      "Wɔedum plagin yi.">
 <!ENTITY blockedPlugin.label                                 "Wɔesi plagin yi ano kwan de abɔ wo ho ban.">
 
