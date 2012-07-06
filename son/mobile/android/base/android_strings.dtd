@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Dam taaga">
 <!ENTITY forward "Jine">
+<!ENTITY menu "Šilbayboŋ">
+<!ENTITY back "Back">
+<!ENTITY stop "Kayandi">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Nor lokoo daabu">
 <!ENTITY new_tab "Nor loku taaga">
