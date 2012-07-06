@@ -139,8 +139,6 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Corréu electrónicu">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Nome en pantalla">
-<!ENTITY ScreenName.accesskey "p">
 <!ENTITY Company.label "Organización">
 <!ENTITY Company.accesskey "z">
 <!ENTITY NickName.label "Nomatu">
@@ -182,3 +180,6 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Traer too al frente">
 <!ENTITY zoomWindow.label "Zoom ventana">
+<!ENTITY ChatName.label "Nome nel chat">
+<!ENTITY ChatName.accesskey "c">
+<!ENTITY chat.heading "Chatear">
