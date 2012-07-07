@@ -34,8 +34,12 @@
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY showAbToolbarCmd.label "Панель адресной книги">
 <!ENTITY showAbToolbarCmd.accesskey "а">
-<!ENTITY showCardPane.label "Область окна карточки">
-<!ENTITY showCardPane.accesskey "О">
+<!ENTITY layoutMenu.label "Разбивка окна">
+<!ENTITY layoutMenu.accesskey "б">
+<!ENTITY showDirectoryPane.label "Панель каталогов">
+<!ENTITY showDirectoryPane.accesskey "а">
+<!ENTITY showContactPane2.label "Панель контактов">
+<!ENTITY showContactPane2.accesskey "к">
 <!ENTITY menu_ShowNameAs.label "Показывать имя как">
 <!ENTITY menu_ShowNameAs.accesskey "П">
 <!ENTITY firstLastCmd.label "Имя Фамилия">

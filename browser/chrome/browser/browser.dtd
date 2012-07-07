@@ -176,8 +176,6 @@
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
 <!ENTITY devToolbarMenu.label "Панель разработки">
-<!ENTITY devToolbarMenu.accesskey "а">
-<!ENTITY devToolbar.commandkey "v">
 <!ENTITY webConsoleButton.label "Веб-консоль">
 <!ENTITY inspectorButton.label "Инспектор">
 <!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">
@@ -322,8 +320,8 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "с">
 <!ENTITY bookmarkThisFrameCmd.label "Добавить фрейм в закладки">
 <!ENTITY bookmarkThisFrameCmd.accesskey "б">
-<!ENTITY sendPageCmd.label "Отправить ссылку…">
-<!ENTITY sendPageCmd.accesskey "п">
+<!ENTITY emailPageCmd.label "Отправить ссылку по электронной почте…">
+<!ENTITY emailPageCmd.accesskey "т">
 <!ENTITY savePageCmd.label "Сохранить как…">
 <!ENTITY savePageCmd.accesskey "х">
 <!ENTITY savePageCmd.accesskey2 "р">
@@ -334,20 +332,18 @@
 <!ENTITY printFrameCmd.accesskey "ч">
 <!ENTITY saveLinkCmd.label "Сохранить объект как…">
 <!ENTITY saveLinkCmd.accesskey "х">
-<!ENTITY sendLinkCmd.label "Отправить ссылку…">
-<!ENTITY sendLinkCmd.accesskey "т">
 <!ENTITY saveImageCmd.label "Сохранить изображение как…">
 <!ENTITY saveImageCmd.accesskey "о">
 <!ENTITY saveVideoCmd.label "Сохранить видео как…">
 <!ENTITY saveVideoCmd.accesskey "о">
 <!ENTITY saveAudioCmd.label "Сохранить аудио как…">
 <!ENTITY saveAudioCmd.accesskey "о">
-<!ENTITY sendImageCmd.label "Отправить изображение…">
-<!ENTITY sendImageCmd.accesskey "а">
-<!ENTITY sendVideoCmd.label "Отправить видео…">
-<!ENTITY sendVideoCmd.accesskey "а">
-<!ENTITY sendAudioCmd.label "Отправить аудио…">
-<!ENTITY sendAudioCmd.accesskey "а">
+<!ENTITY emailImageCmd.label "Отправить изображение по электронной почте…">
+<!ENTITY emailImageCmd.accesskey "о">
+<!ENTITY emailVideoCmd.label "Отправить видео по электронной почте…">
+<!ENTITY emailVideoCmd.accesskey "о">
+<!ENTITY emailAudioCmd.label "Отправить аудио по электронной почте…">
+<!ENTITY emailAudioCmd.accesskey "о">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY copyImageCmd.label "Копировать ссылку на изображение">

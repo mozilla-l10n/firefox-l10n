@@ -29,6 +29,7 @@
 <!ENTITY advance.label "Дополнительно">
 <!ENTITY down.label "Загрузка">
 <!ENTITY cache.label "Кэш">
+<!ENTITY offlineApps.label "Автономные приложения">
 <!ENTITY proxies.label "Прокси-серверы">
 <!ENTITY httpnetworking.label "Работа с HTTP">
 <!ENTITY smart.label "Установка ПО">

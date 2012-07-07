@@ -30,6 +30,6 @@
 <!ENTITY mailnewsTimeout.accesskey "ж">
 <!ENTITY mailnewsTimeoutSeconds.label "секунд">
 <!ENTITY Diskspace "Дисковое пространство">
-<!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
-<!ENTITY offlineCompact.accesskey "С">
-<!ENTITY mb.label "МБ">
+<!ENTITY offlineCompactFolders.label "Сжимать все папки, если при этом высвободится всего более">
+<!ENTITY offlineCompactFolders.accesskey "м">
+<!ENTITY offlineCompactFoldersMB.label "МБ">
