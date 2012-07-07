@@ -321,7 +321,7 @@
 <!ENTITY bookmarkThisFrameCmd.label "Добавить фрейм в закладки">
 <!ENTITY bookmarkThisFrameCmd.accesskey "б">
 <!ENTITY emailPageCmd.label "Отправить ссылку по электронной почте…">
-<!ENTITY emailPageCmd.accesskey "т">
+<!ENTITY emailPageCmd.accesskey "п">
 <!ENTITY savePageCmd.label "Сохранить как…">
 <!ENTITY savePageCmd.accesskey "х">
 <!ENTITY savePageCmd.accesskey2 "р">
@@ -339,11 +339,11 @@
 <!ENTITY saveAudioCmd.label "Сохранить аудио как…">
 <!ENTITY saveAudioCmd.accesskey "о">
 <!ENTITY emailImageCmd.label "Отправить изображение по электронной почте…">
-<!ENTITY emailImageCmd.accesskey "о">
+<!ENTITY emailImageCmd.accesskey "а">
 <!ENTITY emailVideoCmd.label "Отправить видео по электронной почте…">
-<!ENTITY emailVideoCmd.accesskey "о">
+<!ENTITY emailVideoCmd.accesskey "а">
 <!ENTITY emailAudioCmd.label "Отправить аудио по электронной почте…">
-<!ENTITY emailAudioCmd.accesskey "о">
+<!ENTITY emailAudioCmd.accesskey "а">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY copyImageCmd.label "Копировать ссылку на изображение">
