@@ -12,6 +12,11 @@
 <!ENTITY telemetryInfoLink.label "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label "Activar indexador y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey "A">
+<!ENTITY scrolling.label "Desplazamiento">
+<!ENTITY useAutoScroll.label "Usar desplazamiento automático">
+<!ENTITY useAutoScroll.accesskey "U">
+<!ENTITY useSmoothScrolling.label "Usar desplazamiento suave">
+<!ENTITY useSmoothScrolling.accesskey "d">
 <!ENTITY systemIntegration.label "Integración con el sistema">
 <!ENTITY alwaysCheckDefault.label "Comprobar siempre al iniciar si &brandShortName; es el cliente de correo por omisión">
 <!ENTITY alwaysCheckDefault.accesskey "C">
