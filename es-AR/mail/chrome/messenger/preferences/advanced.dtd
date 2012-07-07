@@ -92,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "S">
 
 <!ENTITY Diskspace "Espacio en disco">
-<!ENTITY offlineCompact.label "Compactar carpetas cuando se recuperen más de">
-<!ENTITY offlineCompact.accesskey "e">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "Compactar carpetas cuando se recuperen más de">
+<!ENTITY offlineCompactFolders.accesskey "e">
+<!ENTITY offlineCompactFoldersMB.label   "MB en total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
