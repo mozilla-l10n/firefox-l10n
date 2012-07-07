@@ -18,3 +18,6 @@
 <!ENTITY showTabsInTaskbar.label          "Προβολή προεπισκόπησης καρτελών στην taskbar των Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "ε">
 
+<!ENTITY restoreTabsOnDemand.label        "Να μην γίνεται φόρτωση καρτελών αν δεν επιλεχθούν">
+<!ENTITY restoreTabsOnDemand.accesskey    "θ">
+
