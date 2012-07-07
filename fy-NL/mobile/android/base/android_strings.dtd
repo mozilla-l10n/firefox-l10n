@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  splash_settingup "&brandShortName; ynstelle">
 <!ENTITY  splash_bookmarks_history "Wy wurkje jo blêdwizers en skiednis by, wat in pear minuten duorje kin.">
@@ -44,7 +47,11 @@
 <!ENTITY reload "Fernije">
 <!ENTITY forward "Foarút">
 
+<!ENTITY close_tab "Ljepblêd slute">
 <!ENTITY new_tab "Nij ljepblêd">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d ljepblêden">
 <!ENTITY new_tab_opened "Nij ljepblêd iepene">
 
 <!ENTITY settings "Ynstellingen">
@@ -86,12 +93,25 @@
 <!ENTITY share "Diele">
 <!ENTITY share_title "Diele fia">
 <!ENTITY save_as_pdf "Bewarje as PDF">
+<!ENTITY find_in_page "Sykje op side">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Sykje op sidea">
+<!ENTITY find_prev "Foarige">
+<!ENTITY find_next "Folgjende">
+<!ENTITY find_close "Slute">
 
 <!ENTITY contextmenu_open_new_tab "Iepenje yn nij ljepblêd">
+<!ENTITY contextmenu_remove_history "Fuortsmite">
 <!ENTITY contextmenu_remove_bookmark "Fuortsmite">
 <!ENTITY contextmenu_add_to_launcher "Tafoegje oan startskerm">
 <!ENTITY contextmenu_share "Diele">
 <!ENTITY contextmenu_edit_bookmark "Bewurkje">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Side fuortsmiten">
 
 <!ENTITY bookmark_edit_title "Blêdwizer bewurkje">
 <!ENTITY bookmark_edit_name "Namme">
@@ -102,6 +122,11 @@
 <!ENTITY site_settings_cancel       "Annulearje">
 <!ENTITY site_settings_clear        "Wiskje">
 <!ENTITY site_settings_no_settings  "Der binne gjin ynstellingen om te wiskjen.">
+
+<!ENTITY add_to_reading_list "Oan lêslist tafoegje">
+<!ENTITY reading_list_added "Side tafoege oan jo lêslist">
+<!ENTITY reading_list_removed "Side fuortsmiten fan jo lêslist">
+<!ENTITY reader_mode "Lêsmoadus">
 
 <!ENTITY masterpassword_create_title "Haadwachtwurd oanmeitsje">
 <!ENTITY masterpassword_remove_title "Haadwachtwurd fuortsmite">
@@ -125,3 +150,18 @@
 <!ENTITY filepicker_audio_title "Kies of nim in lûd op">
 <!ENTITY filepicker_image_title "Kies of meitsje in foto">
 <!ENTITY filepicker_video_title "Kies of nim in fideo op">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Jo binne ferb&un mei">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "dy´t beheard wurdt troch">
