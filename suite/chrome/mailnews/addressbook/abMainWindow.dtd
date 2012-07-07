@@ -34,8 +34,12 @@
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY showAbToolbarCmd.label "Barra de herramientas de direcciones">
 <!ENTITY showAbToolbarCmd.accesskey "o">
-<!ENTITY showCardPane.label "Resumen de las tarjetas">
-<!ENTITY showCardPane.accesskey "t">
+<!ENTITY layoutMenu.label "Disposición">
+<!ENTITY layoutMenu.accesskey "D">
+<!ENTITY showDirectoryPane.label "Panel de directorio">
+<!ENTITY showDirectoryPane.accesskey "P">
+<!ENTITY showContactPane2.label "Panel de contactos">
+<!ENTITY showContactPane2.accesskey "a">
 <!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "Nombre y apellidos">
