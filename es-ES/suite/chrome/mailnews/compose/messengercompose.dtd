@@ -65,6 +65,8 @@
 <!ENTITY highestPriorityCmd.accesskey "y">
 <!ENTITY returnReceiptMenu.label "Acuse de recibo">
 <!ENTITY returnReceiptMenu.accesskey "D">
+<!ENTITY dsnMenu.label "Notificación de estado de entrega">
+<!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "Formato">
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Autodetectar">

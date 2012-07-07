@@ -15,7 +15,7 @@
 <!ENTITY purge1.label "Eliminar automáticamente el correo basura más antiguo de">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "días">
-<!ENTITY whitelistHeader.label "No marcar automáticamente mensajes como correo basura si el remitente está en:">
+<!ENTITY whitelistHeader.label "No marcar automáticamente mensajes como correo basura si el remitente está en: ">
 <!ENTITY whitelistHeader.accesskey "N">
 <!ENTITY ispHeadersWarning.label "Si está activado, &brandShortName; considerará automáticamente los mensajes marcados por este clasificador externo como correo basura.">
 <!ENTITY ispHeaders.label "Confiar en las cabeceras de correo basura enviadas por: ">
