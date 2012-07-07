@@ -69,10 +69,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Ĝisdatigo elŝutata — ">
+<!ENTITY update.downloading.start   "Elŝutado de ĝisdatigo — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Applying update…">
+<!ENTITY update.applying            "Aplikado de ĝisdatigo…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.

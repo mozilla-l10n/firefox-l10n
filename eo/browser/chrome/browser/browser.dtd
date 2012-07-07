@@ -83,8 +83,8 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.label "Eniri plenekranan reĝimon">
+<!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Eliri el ekranplena reĝimo">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Plenekrane">
@@ -102,11 +102,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "P">
 <!ENTITY fullscreenAllowButton.label "Permesi">
 <!ENTITY fullscreenExitButton.label "Rifuzi">
-<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+<!ENTITY fullscreenApproval.value "Ĉu permesi plenekranan reĝimon?">
 
-<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
+<!ENTITY fullscreenExitHint.value "Premu Esk iam ajn por eliri el plenekrana reĝimo.">
 <!ENTITY leaveDOMFullScreen.label "Eliri el ekranplena reĝimo">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY leaveDOMFullScreen.accesskey "e">
 
 <!ENTITY closeWindow.label "Fermi fenestron">
 <!ENTITY closeWindow.accesskey "e">
@@ -214,8 +214,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
 <!ENTITY inspectContextMenu.accesskey "n">
 
-<!ENTITY responsiveDesignTool.label   "Responsive Design View">
-<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.label   "Adaptebla vido de fasono">
+<!ENTITY responsiveDesignTool.accesskey "A">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -235,14 +235,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "Fermi inspektilon">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label              "Developer Toolbar">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarCloseButton.tooltiptext "Fermi ilaron de programistoj">
+<!ENTITY devToolbarMenu.label              "Ilaro de programistoj">
+<!ENTITY devToolbarMenu.accesskey          "p">
 <!ENTITY devToolbar.commandkey             "v">
 
-<!ENTITY webConsoleButton.label "TTTa konzolo">
-<!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
+<!ENTITY webConsoleButton.label "Teksaĵa konzolo">
+<!ENTITY inspectorButton.label "Inspektilo">
+<!ENTITY scriptsButton.label "Skriptoj">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopii enan HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "e">
@@ -258,10 +258,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Dim The Page">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "Show Node Info">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
+<!ENTITY inspectorToggleVeil.label          "Paligi paĝon">
+<!ENTITY inspectorToggleVeil.accesskey      "P">
+<!ENTITY inspectorToggleInfobar.label       "Montri informon de nodo">
+<!ENTITY inspectorToggleInfobar.accesskey   "M">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
