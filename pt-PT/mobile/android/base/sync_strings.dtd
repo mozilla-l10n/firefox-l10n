@@ -5,9 +5,9 @@
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.connect.label 'Ligar ao &syncBrand.shortName.label;'>
 <!ENTITY sync.title.adddevice.label 'Adicionar uma conta &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.pair.label 'Emparelhar um dispositivo'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Para ativar o seu novo dispositivo,  selecione “Configurar o &syncBrand.shortName.label;”.'>
