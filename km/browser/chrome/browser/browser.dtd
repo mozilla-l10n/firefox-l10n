@@ -52,10 +52,10 @@ can reach it easily. -->
 <!ENTITY openLocationCmd.label "បើកទីតាំង…">
 <!ENTITY openLocationCmd.accesskey "ក">
 <!ENTITY openFileCmd.label "បើក​ឯកសារ…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "រ">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ការ​រៀបចំ​ទំព័រ…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "ព">
 <!ENTITY printPreviewCmd.label "មើល​មុន​បោះពុម្ព">
 <!ENTITY printPreviewCmd.accesskey "ល">
 <!ENTITY printCmd.label "បោះពុម្ព…">
@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "ចំណាំ">
 <!ENTITY bookmarksMenu.accesskey "ណ">
 <!ENTITY bookmarkThisPageCmd.label "ចំណាំ​ទំព័រ​នេះ">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "ន">
 <!ENTITY subscribeToPageMenupopup.label "ជាវ​ទំព័រ​នេះ">
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទៅ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "ត">
 
 <!ENTITY responsiveUI.label            "របៀប​ជា​ចម្លើយ">
-<!ENTITY responsiveUI.accesskey        "R">
+<!ENTITY responsiveUI.accesskey        "យ">
 <!ENTITY responsiveUI.commandkey       "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "បិទ​ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarMenu.label              "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarMenu.accesskey          "ឌ">
 <!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "កុងសូល​បណ្ដាញ">
@@ -259,9 +259,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
 <!ENTITY inspectorToggleVeil.label          "បន្ថយ​ទំព័រ">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleVeil.accesskey      "រ">
 <!ENTITY inspectorToggleInfobar.label       "បង្ហាញ​ព័ត៌មាន​ថ្នាំង">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
+<!ENTITY inspectorToggleInfobar.accesskey   "ត">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -359,7 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuWebDeveloper.label "អ្នក​អភិវឌ្ឍន៍​បណ្ដាញ">
 <!ENTITY appMenuGettingStarted.label "ចាប់ផ្ដើម">
 <!ENTITY appMenuSafeMode.label "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បិទ...">
-<!ENTITY appMenuSafeMode.accesskey "Վ">
+<!ENTITY appMenuSafeMode.accesskey "ញ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "ទៅកាន់​តំបន់​បណ្ដាញ">
@@ -505,7 +505,7 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.label       "ពេញ​អេក្រង់">
 <!ENTITY videoFullScreen.accesskey   "ញ">
 <!ENTITY videoSaveImage.label        "រក្សាទុក​រូបថត​ជា...">
-<!ENTITY videoSaveImage.accesskey    "រ">
+<!ENTITY videoSaveImage.accesskey    "ថ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
