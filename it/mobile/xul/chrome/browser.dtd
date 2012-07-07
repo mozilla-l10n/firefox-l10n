@@ -80,7 +80,7 @@
 <!ENTITY contextOpenInNewTab.label "Apri in una nuova scheda">
 <!ENTITY contextSaveImage.label "Salva immagine">
 <!ENTITY contextCopyLink.label "Copia link">
-<!ENTITY contextCopyEmail.label "Copia indirizzo e-mail">
+<!ENTITY contextCopyEmail.label "Copia indirizzo email">
 <!ENTITY contextCopyPhone.label "Copia numero di telefono">
 <!ENTITY contextCopyImageLocation.label "Copia indirizzo immagine">
 <!ENTITY contextShareLink.label "Condividi link">
