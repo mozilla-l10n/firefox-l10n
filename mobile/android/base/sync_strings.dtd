@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Ynstellen foltôge'>
-<!ENTITY sync.subtitle.success.label 'Jo gegevens wurde no ynladen op de achtergrûn. Jo kinne nei ynstellingen gean om jo account te behearen.'>
+<!ENTITY sync.subtitle.success.label1 'Jo gegevens wurde no ynladen op de achtergrûn. Jo kinne nei Ynstellingen gean om jo account te behearen of start navigearjen mei &brandShortName;.'>
 <!ENTITY sync.settings.label 'Ynstellingen'>
-<!ENTITY sync.subtitle.manage.label 'Jo &syncBrand.fullName.label;-account is al ynsteld. Gean nei ynstellingen om jo account te behearen.'>
+<!ENTITY sync.subtitle.manage.label1 'Jo &syncBrand.fullName.label;-account is al ynsteld. Gean nei Ynstellingen om jo account te behearen of start &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probearje it opnij.'>
+<!ENTITY sync.pair.connectlocation.label 'Selektearje “&syncBrand.shortName.label; ynstelle” op jo nije apparaat en dan  “Ik haw in account.” om it te aktivearjen'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opsjes'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Net sortearre blêdwizers'>
 <!ENTITY bookmarks.folder.desktop.label 'Buro-PC-blêdwizers'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobyl-blêdwizers'>
+<!ENTITY bookmarks.folder.readinglist.label 'Lêslist'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Mar ien &syncBrand.fullName.label;-account wurdt stipe.'>
