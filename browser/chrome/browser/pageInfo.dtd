@@ -149,6 +149,7 @@
 <!ENTITY  permClearStorage           "Εκκαθάριση αποθηκευτικού χώρου">
 <!ENTITY  permClearStorage.accesskey "θ">
 
+<!ENTITY  permFullscreen        "Είσοδος σε πλήρη οθόνη">
 
 
 
