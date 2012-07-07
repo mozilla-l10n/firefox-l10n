@@ -46,6 +46,10 @@
 
 <!ENTITY reload "Fernije">
 <!ENTITY forward "Foarút">
+<!ENTITY menu "Menu">
+<!ENTITY back "Tebek">
+<!ENTITY stop "Stop">
+<!ENTITY site_security "Sidefeilichheid">
 
 <!ENTITY close_tab "Ljepblêd slute">
 <!ENTITY new_tab "Nij ljepblêd">
@@ -152,7 +156,7 @@
 <!ENTITY filepicker_video_title "Kies of nim in fideo op">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "Jo binne ferb&un mei">
+<!ENTITY identity_connected_to "Jo binne ferbûn mei">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
