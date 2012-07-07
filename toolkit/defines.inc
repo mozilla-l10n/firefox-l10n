@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Esperanto
+#define MOZ_LANG_TITLE English (US)
