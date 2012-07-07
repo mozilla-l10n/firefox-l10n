@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Kromprogramo estas bezonata por montri tiun ĉi enhavon.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tuŝetu ĉi tie por aktivigi komprogramon.">
-<!ENTITY clickToPlayPlugins                                   "Alklaku ĉi tie por aktivigi kromprogramojn.">
+<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
 <!ENTITY disabledPlugin                                      "Tiu ĉi kromprogramo estas malaktivigita.">
 <!ENTITY blockedPlugin.label                                 "Tiu ĉi kromprogramo estis blokita por protekti vin.">
 
