@@ -75,9 +75,9 @@
 <!ENTITY showOffline.label "Автономная работа…">
 <!ENTITY showOffline.accesskey "в">
 <!ENTITY Diskspace "Дисковое пространство">
-<!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
-<!ENTITY offlineCompact.accesskey "м">
-<!ENTITY mb.label "МБ">
+<!ENTITY offlineCompactFolders.label "Сжимать все папки, если при этом высвободится всего более">
+<!ENTITY offlineCompactFolders.accesskey "м">
+<!ENTITY offlineCompactFoldersMB.label "МБ">
 <!ENTITY useCacheBefore.label "Использовать до">
 <!ENTITY useCacheBefore.accesskey "п">
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">

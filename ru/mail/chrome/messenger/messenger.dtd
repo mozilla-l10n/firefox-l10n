@@ -535,6 +535,8 @@
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
+<!ENTITY manageTags.label "Управление метками…">
+<!ENTITY manageTags.accesskey "п">
 <!ENTITY folderColumn.label "Имя">
 <!ENTITY folderSizeColumn.label "Размер">
 <!ENTITY folderContextGetMessages.label "Получить сообщения">
