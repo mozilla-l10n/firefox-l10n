@@ -176,8 +176,6 @@
 <!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
 <!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
 <!ENTITY devToolbarMenu.label "Barra sviluppatori">
-<!ENTITY devToolbarMenu.accesskey "v">
-<!ENTITY devToolbar.commandkey "v">
 <!ENTITY webConsoleButton.label "Console web">
 <!ENTITY inspectorButton.label "Analisi">
 <!ENTITY inspectorHTMLCopyInner.label "Copia HTML interno">
@@ -322,8 +320,8 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "A">
 <!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro nei segnalibri…">
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
-<!ENTITY sendPageCmd.label "Invia link…">
-<!ENTITY sendPageCmd.accesskey "n">
+<!ENTITY emailPageCmd.label "Invia link per email…">
+<!ENTITY emailPageCmd.accesskey "I">
 <!ENTITY savePageCmd.label "Salva pagina con nome…">
 <!ENTITY savePageCmd.accesskey "v">
 <!ENTITY savePageCmd.accesskey2 "g">
@@ -334,20 +332,18 @@
 <!ENTITY printFrameCmd.accesskey "u">
 <!ENTITY saveLinkCmd.label "Salva destinazione con nome…">
 <!ENTITY saveLinkCmd.accesskey "d">
-<!ENTITY sendLinkCmd.label "Invia link…">
-<!ENTITY sendLinkCmd.accesskey "I">
 <!ENTITY saveImageCmd.label "Salva immagine con nome…">
 <!ENTITY saveImageCmd.accesskey "e">
 <!ENTITY saveVideoCmd.label "Salva video come…">
 <!ENTITY saveVideoCmd.accesskey "S">
 <!ENTITY saveAudioCmd.label "Salva audio come…">
 <!ENTITY saveAudioCmd.accesskey "S">
-<!ENTITY sendImageCmd.label "Invia immagine…">
-<!ENTITY sendImageCmd.accesskey "n">
-<!ENTITY sendVideoCmd.label "Invia video…">
-<!ENTITY sendVideoCmd.accesskey "n">
-<!ENTITY sendAudioCmd.label "Invia audio…">
-<!ENTITY sendAudioCmd.accesskey "n">
+<!ENTITY emailImageCmd.label "Invia immagine per email…">
+<!ENTITY emailImageCmd.accesskey "n">
+<!ENTITY emailVideoCmd.label "Invia video per email…">
+<!ENTITY emailVideoCmd.accesskey "n">
+<!ENTITY emailAudioCmd.label "Invia audio per email…">
+<!ENTITY emailAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "z">
 <!ENTITY copyImageCmd.label "Copia indirizzo immagine">
