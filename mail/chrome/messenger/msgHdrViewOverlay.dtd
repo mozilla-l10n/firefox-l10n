@@ -22,14 +22,14 @@
 <!ENTITY hdrArchiveButton1.tooltip "Archivar esti mensaxe">
 <!ENTITY hdrSmartReplyButton1.label "Retrucar a interesaos">
 <!ENTITY hdrReplyButton1.label "Retrucar">
-<!ENTITY hdrReplyButton1.tooltip "Retrucar a esti mensaxe">
+<!ENTITY hdrReplyButton2.tooltip "Retrucar al remitente d'esti mensaxe">
 <!ENTITY hdrReplyAllButton1.label "Retrucar a toos">
 <!ENTITY hdrReplyAllButton1.tooltip "Retrucar al remitente y a tolos destinatarios">
 <!ENTITY hdrReplyListButton1.label "Retrucar a la llista">
 <!ENTITY hdrReplyListButton1.tooltip "Retrucar a la llista de corréu">
 <!ENTITY hdrForwardButton1.label "Reunviar">
 <!ENTITY hdrForwardButton1.tooltip "Reunviar esti mensaxe">
-<!ENTITY hdrJunkButton1.label "Non deseáu">
+<!ENTITY hdrJunkButton1.label "Puxarra">
 <!ENTITY hdrJunkButton1.tooltip "Conseñar esti mensaxe como corréu puxarra">
 <!ENTITY hdrTrashButton1.label "Desaniciar">
 <!ENTITY hdrTrashButton1.tooltip "Desaniciar esti mensaxe">
