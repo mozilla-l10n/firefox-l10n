@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Actualitza">
 <!ENTITY forward "Endavant">
+<!ENTITY menu "Menú">
+<!ENTITY back "Enrere">
+<!ENTITY stop "Atura">
+<!ENTITY site_security "Seguretat del lloc">
 
 <!ENTITY close_tab "Tanca la pestanya">
 <!ENTITY new_tab "Pestanya nova">
