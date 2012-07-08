@@ -46,8 +46,8 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "M">  
 <!ENTITY layoutMenu.label                               "Polangiai">
 <!ENTITY layoutMenu.accesskey                           "P">
-<!ENTITY showDirectoryPane.label                        "Adresų knygos">
-<!ENTITY showDirectoryPane.accesskey                    "k">
+<!ENTITY showDirectoryPane.label                        "Katalogai">
+<!ENTITY showDirectoryPane.accesskey                    "K">
 <!ENTITY showContactPane2.label                         "Adresatas">
 <!ENTITY showContactPane2.accesskey                     "A">
 <!ENTITY menu_ShowNameAs.label                          "Asmenvardžio rodymas"> 
