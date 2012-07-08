@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Duomenys darbui neprisijungus">
+<!ENTITY pref.offlineCache.caption          "Duomenys darbui neprisijungus">
+
+<!ENTITY clearOfflineAppCache.label         "Išvalyti">
+<!ENTITY clearOfflineAppCache.accesskey     "v">
+
+<!ENTITY offlineNotify.label                "Pranešti, kai svetainė siūlo kompiuteryje išsaugoti duomenis, reikalingus darbui neprisijungus prie tinklo.">
+<!ENTITY offlineNotify.accesskey            "P">
+<!ENTITY offlineNotifyPermissions.label     "Tvarkyti leidimus">
+<!ENTITY offlineNotifyPermissions.accesskey "T">
+
+<!ENTITY offlineAppsList.label              "Šioms svetainėms neleidžiama išsaugoti darbui neprisijungus reikalingų duomenų:">
+<!ENTITY offlineAppsListRemove.label        "Išvalyti duomenis…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">
