@@ -233,8 +233,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Užverti programuotojų juostą">
 <!ENTITY devToolbarMenu.label "Programuotojų juosta">
-<!ENTITY devToolbarMenu.accesskey "r">
-<!ENTITY devToolbar.commandkey "v">
 
 <!ENTITY webConsoleButton.label "Saityno pultas">
 <!ENTITY inspectorButton.label "Tyriklis">
@@ -431,8 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey    "d">
 <!ENTITY bookmarkThisFrameCmd.label       "Kadrą įrašyti į adresyną">
 <!ENTITY bookmarkThisFrameCmd.accesskey   "d">
-<!ENTITY sendPageCmd.label            "Išsiųsti saitą…">
-<!ENTITY sendPageCmd.accesskey        "ų">
+<!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
+<!ENTITY emailPageCmd.accesskey       "ų">
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
@@ -444,20 +442,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "S">
 <!ENTITY saveLinkCmd.label            "Įrašyti saistomą objektą kaip…">
 <!ENTITY saveLinkCmd.accesskey        "Į">
-<!ENTITY sendLinkCmd.label            "Išsiųsti saitą…"> 
-<!ENTITY sendLinkCmd.accesskey        "ų">
 <!ENTITY saveImageCmd.label           "Įrašyti paveikslą kaip…">
 <!ENTITY saveImageCmd.accesskey       "r">
 <!ENTITY saveVideoCmd.label           "Įrašyti vaizdą kaip…">
 <!ENTITY saveVideoCmd.accesskey       "r">
 <!ENTITY saveAudioCmd.label           "Įrašyti garsą kaip…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY sendImageCmd.label           "Išsiųsti paveikslą…">
-<!ENTITY sendImageCmd.accesskey       "s">
-<!ENTITY sendVideoCmd.label           "Išsiųsti vaizdą…">
-<!ENTITY sendVideoCmd.accesskey       "s">
-<!ENTITY sendAudioCmd.label           "Išsiųsti garsą…">
-<!ENTITY sendAudioCmd.accesskey       "s">
+<!ENTITY emailImageCmd.label          "Išsiųsti paveikslą el. paštu…">
+<!ENTITY emailImageCmd.accesskey      "s">
+<!ENTITY emailVideoCmd.label          "Išsiųsti vaizdo įrašą el. paštu…">
+<!ENTITY emailVideoCmd.accesskey      "s">
+<!ENTITY emailAudioCmd.label          "Išsiųsti garso įrašą el. paštu…">
+<!ENTITY emailAudioCmd.accesskey      "s">
 <!ENTITY copyLinkCmd.label            "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Kopijuoti paveikslo adresą">
