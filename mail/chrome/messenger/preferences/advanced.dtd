@@ -88,7 +88,7 @@
 <!ENTITY showOffline.accesskey         "D">
 
 <!ENTITY Diskspace "Disko atmintis">
-<!ENTITY offlineCompactFolders.label     "Suglaudinti visus aplankus, jei tai padės sutaupyti daugiau kaip">
+<!ENTITY offlineCompactFolders.label     "Suglaudinti visus aplankus, jei sumoje tai padės sutaupyti daugiau kaip">
 <!ENTITY offlineCompactFolders.accesskey "S">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
 
