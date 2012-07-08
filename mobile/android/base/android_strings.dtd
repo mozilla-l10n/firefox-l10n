@@ -42,6 +42,10 @@
 
 <!ENTITY reload "Naujinti">
 <!ENTITY forward "Pirmyn">
+<!ENTITY menu "Meniu">
+<!ENTITY back "Atgal">
+<!ENTITY stop "Stabdyti">
+<!ENTITY site_security "Svetainės saugumas">
 
 <!ENTITY close_tab "Užverti kortelę">
 <!ENTITY new_tab "Nauja kortelė">
