@@ -83,8 +83,8 @@
 <!ENTITY proxiesConfigure.label        "Parinkite „&brandShortName;“ ryšio su internetu nuostatas">
 <!ENTITY connectionsInfo.caption       "Ryšys">
 <!ENTITY offlineInfo.caption           "Atsijungimas nuo tinklo">
-<!ENTITY offlineInfo.label             "Parinkite darbo atsijungus nuo tinklo nuostatas">
-<!ENTITY showOffline.label             "Darbas atsijungus nuo tinklo…">
+<!ENTITY offlineInfo.label             "Parinkite darbo neprisijungus prie tinklo nuostatas">
+<!ENTITY showOffline.label             "Darbas neprisijungus prie tinklo…">
 <!ENTITY showOffline.accesskey         "D">
 
 <!ENTITY Diskspace "Disko atmintis">
