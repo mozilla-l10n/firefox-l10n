@@ -90,28 +90,28 @@ content in HTML messages from this contact.">
 <!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "Home:">
-<!ENTITY HomePhone.accesskey            "o">
+<!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobile:">
-<!ENTITY CellularNumber.accesskey       "M">
+<!ENTITY CellularNumber.accesskey       "b">
 
 <!ENTITY Home.tab                       "Private">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Address:">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "City:">
 <!ENTITY HomeCity.accesskey             "y">
 <!ENTITY HomeState.label                "County:">
-<!ENTITY HomeState.accesskey            "n">
+<!ENTITY HomeState.accesskey            "u">
 <!ENTITY HomeZipCode.label              "Post Code:">
-<!ENTITY HomeZipCode.accesskey          "C">
+<!ENTITY HomeZipCode.accesskey          "s">
 <!ENTITY HomeCountry.label              "Country:">
-<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeCountry.accesskey          "r">
 <!ENTITY HomeWebPage.label              "Web Page:">
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Birthday:">
@@ -125,25 +125,25 @@ content in HTML messages from this contact.">
 <!ENTITY Work.tab                       "Work">
 <!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "Title:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "e">
 <!ENTITY Department.label               "Department:">
 <!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "Organisation:">
-<!ENTITY Company.accesskey              "O">
+<!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Address:">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "City:">
 <!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.label                "County:">
-<!ENTITY WorkState.accesskey            "n">
+<!ENTITY WorkState.accesskey            "u">
 <!ENTITY WorkZipCode.label              "Post Code:">
-<!ENTITY WorkZipCode.accesskey          "C">
+<!ENTITY WorkZipCode.accesskey          "s">
 <!ENTITY WorkCountry.label              "Country:">
-<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkCountry.accesskey          "r">
 <!ENTITY WorkWebPage.label              "Web Page:">
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab                      "Other">
 <!ENTITY Other.accesskey                "h">
