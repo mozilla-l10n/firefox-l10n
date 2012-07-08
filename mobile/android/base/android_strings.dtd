@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "S\'està configurant el vostre &brandShortName;">
 <!ENTITY  splash_bookmarks_history "S\'estan actualitzant les adreces d\'interès i l\'historial; això pot trigar una estona.">
@@ -44,7 +48,11 @@
 <!ENTITY reload "Actualitza">
 <!ENTITY forward "Endavant">
 
+<!ENTITY close_tab "Tanca la pestanya">
 <!ENTITY new_tab "Pestanya nova">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d pestanyes">
 <!ENTITY new_tab_opened "S\'ha obert una pestanya nova">
 
 <!ENTITY settings "Opcions">
@@ -86,12 +94,25 @@
 <!ENTITY share "Comparteix">
 <!ENTITY share_title "Comparteix mitjançant">
 <!ENTITY save_as_pdf "Desa com a PDF">
+<!ENTITY find_in_page "Cerca a la pàgina">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Cerca a la pàgina">
+<!ENTITY find_prev "Enrere">
+<!ENTITY find_next "Endavant">
+<!ENTITY find_close "Tanca">
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
+<!ENTITY contextmenu_remove_history "Suprimeix">
 <!ENTITY contextmenu_remove_bookmark "Suprimeix">
 <!ENTITY contextmenu_add_to_launcher "Afegeix-ho a la pantalla inicial">
 <!ENTITY contextmenu_share "Comparteix">
 <!ENTITY contextmenu_edit_bookmark "Edita">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "S\'ha suprimit la pàgina">
 
 <!ENTITY bookmark_edit_title "Edita l\'adreça d\'interès">
 <!ENTITY bookmark_edit_name "Nom">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "Cancel·la">
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap opció per netejar.">
+
+<!ENTITY add_to_reading_list "S\'ha afegit a la pàgina de lectura">
+<!ENTITY reading_list_added "S\'ha afegit a la vostra pàgina de lectura">
+<!ENTITY reading_list_removed "S\'ha suprimit de la vostra pàgina de lectura">
+<!ENTITY reader_mode "mode lector">
 
 <!ENTITY masterpassword_create_title "Crea una contrasenya mestra">
 <!ENTITY masterpassword_remove_title "Suprimeix la contrasenya mestra">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "Trieu o enregistreu un so">
 <!ENTITY filepicker_image_title "Trieu o feu una foto">
 <!ENTITY filepicker_video_title "Trieu o enregistreu un vídeo">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Esteu connectat a">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "funciona mitjançant">

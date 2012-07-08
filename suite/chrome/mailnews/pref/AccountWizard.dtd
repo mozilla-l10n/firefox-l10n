@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Entities for AccountWizard -->
+
 
 <!ENTITY windowTitle.label "Auxiliar de comptes">
 <!ENTITY accountWizard.size "width: 47em; height: 38em;">
@@ -7,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Per rebre missatge, primer heu de configurar un compte.">
 <!ENTITY accountTypeTitle.label "Configuració d'un compte nou">
-<!ENTITY accountTypeDesc2.label "L'assistent us demanarà informació per configurar el compte. Si no sabeu la informació que us demana, contacteu amb el vostre administrador del sistema o amb el vostre proveïdor d'Internet.">
+<!ENTITY accountTypeDesc2.label "L'auxiliar us demanarà la informació necessària per configurar un compte. Si no sabeu la informació que us demana, contacteu amb l'administrador del sistema o amb el vostre proveïdor d'Internet.">
 <!ENTITY accountTypeDirections.label "Seleccioneu el tipus de compte que voleu configurar:">
 <!ENTITY accountTypeMail.label "Compte de correu">
 <!ENTITY accountTypeMail.accesskey "e">

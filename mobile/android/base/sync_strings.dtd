@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "S\'ha finalitzat la configuració">
-<!ENTITY sync.subtitle.success.label "Les vostres dades s\'estan baixant en un segon pla. Podeu anar a les Opcions per gestionar el vostre compte.">
+<!ENTITY sync.subtitle.success.label1 "Les vostres dades s\'estan baixant en segon pla. Podeu anar a les Opcions per gestionar el vostre compte, o començar a navegar amb el &brandShortName;.">
 <!ENTITY sync.settings.label "Opcions">
-<!ENTITY sync.subtitle.manage.label "El vostre compte de &syncBrand.fullName.label; ja està configurat. Aneu a les opcions per gestionar-lo.">
+<!ENTITY sync.subtitle.manage.label1 "El vostre compte &syncBrand.fullName.label; ja està configurat. Podeu anar a les opcions per gestionar el vostre compte, o iniciar el &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Torna-ho a provar.">
+<!ENTITY sync.pair.connectlocation.label 'Per activar el nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» al dispositiu, i després seleccioneu «Tinc un compte».'>
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opcions">
@@ -67,9 +72,10 @@
 <!ENTITY bookmarks.folder.unfiled.label "Adreces desordenades">
 <!ENTITY bookmarks.folder.desktop.label "Adreces d\'escriptori">
 <!ENTITY bookmarks.folder.mobile.label "Adreces del mòbil">
+<!ENTITY bookmarks.folder.readinglist.label "Llista de lectura">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Només es permet un compte de &syncBrand.fullName.label;">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.new.recoverykey.status.incorrect "Recovery Key incorrect. Please try again.">

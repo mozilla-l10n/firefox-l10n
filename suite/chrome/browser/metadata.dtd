@@ -1,4 +1,8 @@
-<!ENTITY no-properties.label   "No s'han definit les propietats">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY no-properties.label   "No s'han definit les propietats.">
 
 <!ENTITY caption.label         "Propietats de l'element">
 <!ENTITY image-sec.label       "Propietats de la imatge">

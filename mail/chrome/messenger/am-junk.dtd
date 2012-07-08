@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Paràmetres del correu brossa">
-<!ENTITY trainingWarning.label "Si s'habilita, primer haureu d'entrenar el &brandShortName; a identificar el correu brossa utilitzant la barra del correu brossa per marcar els missatges com a brossa o no. Necessitareu identificar tant els missatges brossa com els que no ho són.">
+<!ENTITY trainingDescription.label "Si s'habilita, primer heu d'entrenar el &brandShortName; per identificar el correu brossa fent servir el botó a la barra d'eines per marcar els missatges com a brossa o no. Cal que identifiqueu tant els missatges que són brossa com els que no. Després d'això, el &brandShortName; podrà marcar el correu brossa automàticament.">
 <!ENTITY level.label "Habilita els controls adaptatius de correu brossa per a aquest compte">
 <!ENTITY level.accesskey "e">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "dies">
 
-<!ENTITY whitelist.label "No marquis els missatges com a correu brossa si el remitent és a la llibreta d'adreces: ">
-<!ENTITY whitelist.accesskey "m">
+<!ENTITY whitelistHeader.label "No marquis automàticament com a brossa si el remitent és a: ">
+<!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeadersWarning.label "Si està habilitat, &brandShortName; considerarà automàticament els missatges marcats per aquest classificador extern com a correu brossa.">
 <!ENTITY ispHeaders.label "Confia en les capçaleres de missatge brossa definides per: ">
 <!ENTITY ispHeaders.accesskey "f">
+
+<!ENTITY junkClassification.label "Selecció">
+<!ENTITY junkActions.label "Destinació i retenció">

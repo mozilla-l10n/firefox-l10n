@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Correu brossa">
 <!ENTITY itemPhishing.label      "Missatges fraudulents">
 <!ENTITY itemPasswords.label     "Contrasenyes">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "x">
 <!ENTITY markAsReadOnSpam.label "Marca els missatges determinats com a brossa com a llegits">
 <!ENTITY markAsReadOnSpam.accesskey "c">
-<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
-<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "Activa el registre de dades d'entrenament del correu brossa">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "e">
 <!ENTITY openJunkLog.label "Mostra el registre">
 <!ENTITY openJunkLog.accesskey "t">
 <!ENTITY resetTrainingData.label "Reinicia les dades d'entrenament">
@@ -56,4 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Mostra les galetes…">
 <!ENTITY showCookies.accesskey          "s">
+<!-- Do Not Track -->
 
+<!ENTITY doNotTrack.label               "Fes saber als llocs web que no vull que se'm segueixi">
+<!ENTITY doNotTrack.accesskey           "g">

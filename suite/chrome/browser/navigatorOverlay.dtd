@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File Menu -->
+
 <!ENTITY tabCmd.label "Obre una pestanya">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
@@ -34,7 +38,7 @@
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "P">
 
-<!ENTITY useStyleSheetMenu.label "Utiliza un estil">
+<!ENTITY useStyleSheetMenu.label "Utilitza un estil">
 <!ENTITY useStyleSheetMenu.accesskey "U">
 <!ENTITY useStyleSheetNone.label "Cap">
 <!ENTITY useStyleSheetNone.accesskey "p">

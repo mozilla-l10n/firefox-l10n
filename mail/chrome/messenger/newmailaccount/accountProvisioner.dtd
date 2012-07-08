@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Benvingut al &brandShortName;">
-<!ENTITY header2.label "Would you like a new email address?">
+<!ENTITY header2.label "Voleu una adreça electrònica nova?">
 <!ENTITY other.languages "Només s'estan mostrant els proveïdors que ofereixen adreces a la vostra regió.  Feu clic aquí per mostrar tots els proveïdors.">
 <!ENTITY error.line1 "No s'ha pogut suggerir cap adreça electrònica.">
 <!ENTITY error.line2 "Podeu provar de cercar noms o pseudònims per trobar més adreces electròniques">
@@ -18,7 +22,7 @@
 <!ENTITY success.title.before "Hola ">
 <!ENTITY success.title.after ", l'adreça electrònica següent està disponible:">
 <!ENTITY success.tip "(per trobar més adreces també podeu cercar pseudònims i altres noms)">
-<!ENTITY partnership.description "Amb col·laboració amb diversos proveïdors, el &brandShortName; us pot oferir un compte de correu nou. Per començar només cal que doneu el vostre nom i cognom, o qualsevol altre paraula que us agradi, en els camps anteriors.">
+<!ENTITY partnership.description "Amb col·laboració amb diversos proveïdors, el &brandShortName; us pot oferir un compte de correu nou. Per començar només cal que doneu el vostre nom i cognom, o qualsevol altra paraula que us agradi, en els camps anteriors.">
 <!ENTITY existing.header "Ja teniu una adreça electrònica que voleu utilitzar?">
 <!ENTITY tinyheader.title "Ja teniu una adreça?">
 <!ENTITY tinyheader.existing "Salta aquest pas i utilitza l'adreça electrònica que ja tinc">

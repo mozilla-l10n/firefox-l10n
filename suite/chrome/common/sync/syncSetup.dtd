@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "Configuració del &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
@@ -20,7 +24,7 @@
 <!ENTITY signIn.account2.accesskey  "e">
 <!ENTITY signIn.password.label      "Contrasenya">
 <!ENTITY signIn.password.accesskey  "y">
-<!ENTITY signIn.recoveryKey.label     "Clau de reucperació">
+<!ENTITY signIn.recoveryKey.label     "Clau de recuperació">
 <!ENTITY signIn.recoveryKey.accesskey "C">
 <!-- New Account Page 1: Basic Account Info -->
 

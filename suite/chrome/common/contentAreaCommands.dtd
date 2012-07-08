@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Context Menu -->
+
 <!ENTITY popupWindowRejectCmd.label     "Rebutja les finestres emergents d'aquest lloc">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permet les finestres emergents d'aquest lloc">
@@ -53,21 +57,21 @@
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setWallpaperCmd.label        "Assigna com a fons d'escriptori">
 <!ENTITY setWallpaperCmd.accesskey    "s">
-<!ENTITY bookmarkPageCmd.label        "Afegeix aquesta pàgina a les adreces d'interès">
+<!ENTITY bookmarkPageCmd.label        "Afegeix aquesta pàgina a les adreces d'interès…">
 <!ENTITY bookmarkPageCmd.accesskey    "p">
-<!ENTITY bookmarkLinkCmd.label        "Afegeix aquest enllaç a les adreces d'interès">
+<!ENTITY bookmarkLinkCmd.label        "Afegeix aquest enllaç a les adreces d'interès…">
 <!ENTITY bookmarkLinkCmd.accesskey    "l">
 <!ENTITY bookmarkFrameCmd.label       "Desa aquest marc com a adreça d'interès">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
-<!ENTITY savePageAsCmd.label          "Anomena i desa...">
-<!ENTITY savePageCmd.label            "Anomena i desa...">
+<!ENTITY savePageAsCmd.label          "Anomena i desa la pàgina…">
+<!ENTITY savePageCmd.label            "Anomena i desa la pàgina">
 <!ENTITY savePageCmd.accesskey        "s">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Anomena i desa el marc...">
-<!ENTITY saveFrameCmd.label           "Anomena i desa el marc...">
+<!ENTITY saveFrameCmd.label           "Anomena i desa el marc">
 <!ENTITY saveFrameCmd.accesskey       "m">
 <!ENTITY saveLinkAsCmd.label          "Anomena i desa l'enllaç...">
-<!ENTITY saveLinkCmd.label            "Anomena i desa l'enllaç...">
+<!ENTITY saveLinkCmd.label            "Anomena i desa l'enllaç">
 <!ENTITY saveLinkCmd.accesskey        "ç">
 <!ENTITY saveImageAsCmd.label         "Anomena i desa la imatge...">
 <!ENTITY saveImageCmd.label           "Anomena i desa la imatge...">
@@ -117,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "Afegeix al diccionari">
 <!ENTITY spellAddToDictionary.accesskey "d">
+<!ENTITY spellUndoAddToDictionary.label      "Desfés afegir al diccionari">
+<!ENTITY spellUndoAddToDictionary.accesskey  "a">
 <!ENTITY spellIgnoreWord.label          "Ignora la paraula">
 <!ENTITY spellIgnoreWord.accesskey      "p">
 <!ENTITY spellCheckEnable.label         "Verifica l'ortografia">
