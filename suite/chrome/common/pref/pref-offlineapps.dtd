@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Applications Web hors connexion">
+<!ENTITY pref.offlineCache.caption          "Contenu Web et données utilisateur hors connexion">
+
+<!ENTITY clearOfflineAppCache.label         "Effacer">
+<!ENTITY clearOfflineAppCache.accesskey     "E">
+
+<!ENTITY offlineNotify.label                "M'avertir lorsqu'un site demande de conserver des données pour une utilisation hors connexion.">
+<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineNotifyPermissions.label     "Gérer les permissions">
+<!ENTITY offlineNotifyPermissions.accesskey "G">
+
+<!ENTITY offlineAppsList.label              "Les sites suivants sont autorisés à stocker des données pour une utilisation hors connexion :">
+<!ENTITY offlineAppsListRemove.label        "Effacer les données…">
+<!ENTITY offlineAppsListRemove.accesskey    "f">
