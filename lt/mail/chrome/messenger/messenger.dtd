@@ -573,7 +573,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nauja gairė…">
-<!ENTITY addNewTag.accesskey "ė">
+<!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Tvarkyti gaires…">
+<!ENTITY manageTags.accesskey "T">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Vardas">

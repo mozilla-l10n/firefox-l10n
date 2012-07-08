@@ -88,9 +88,9 @@
 <!ENTITY showOffline.accesskey         "D">
 
 <!ENTITY Diskspace "Disko atmintis">
-<!ENTITY offlineCompact.label "Suglaudinti aplankus, jei tai padės sutaupyti daugiau kaip">
-<!ENTITY offlineCompact.accesskey "S">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "Suglaudinti visus aplankus, jei tai padės sutaupyti daugiau kaip">
+<!ENTITY offlineCompactFolders.accesskey "S">
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
