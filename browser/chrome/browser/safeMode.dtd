@@ -5,15 +5,15 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; sekura reĝimo">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "Start in Safe Mode">
+<!ENTITY startSafeMode.label          "Starti en sekura reĝimo">
 <!ENTITY resetProfile.label           "Reagordi &brandShortName;">
 
-<!ENTITY safeModeDescription3.label   "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
-<!ENTITY safeModeDescription4.label   "Your add-ons and custom settings will be temporarily disabled.">
+<!ENTITY safeModeDescription3.label   "La sekura reĝimo estas speciala reĝimo de &brandShortName; kiu povas esti uzita por serĉi kaj solvi problemojn.">
+<!ENTITY safeModeDescription4.label   "Viaj aldonaĵoj kaj personaj agordoj estos provizore malaktivaj.">
 
-<!ENTITY resetProfileInstead.label    "You can also Reset &brandShortName; if you want to start fresh.">
+<!ENTITY resetProfileInstead.label    "Vi ankaŭ povas reagordi &brandShortName; al la norma stato se vi volas tute freŝe rekomenci.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by resetting &brandShortName; to its default state or troubleshooting in Safe Mode.">
-<!ENTITY resetProfileFooter.label       "Everything else will be reset to factory defaults.">
-<!ENTITY safeModeInstead.label          "If you don't want this, you can continue in Safe Mode to do your own troubleshooting with your add-ons and custom settings temporarily disabled.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; neatendite fermiĝis dum starto. Tion povas okazigi aldonaĵoj aŭ aliaj problemoj. Vi povas provi solvi la problemon per renormigado de  &brandShortName; aŭ per uzado de la sekura reĝimo.">
+<!ENTITY resetProfileFooter.label       "Ĉio alia estos reagordita laŭ la originalaj normoj.">
+<!ENTITY safeModeInstead.label          "Se vi ne volas fari tion, vi povas daŭrigi en la sekura reĝimo kaj mem serĉi la problemon kun viaj aldonaĵoj kaj personaj agordoj provizore malaktivaj.">

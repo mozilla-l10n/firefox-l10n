@@ -66,7 +66,7 @@
 <!ENTITY  permInstall           "Instali etendoprogramojn aŭ temojn">
 <!ENTITY  permGeo               "Diskonigi lokon">
 <!ENTITY  permPlugins           "Aktivigi komprogramojn">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permFullscreen        "Eniri plenekranan reĝimon">
 
 <!ENTITY  permIndexedDB              "Konservi memoro por malkonektitaĵoj">
 <!ENTITY  permClearStorage           "Malplenigi memoron">

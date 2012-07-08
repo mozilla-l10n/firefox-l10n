@@ -29,9 +29,9 @@
 <!ENTITY systemDefaults.label            "Difinitaj de la sistemo">
 <!ENTITY alwaysCheckDefault.label        "Ĉiam kontroli ĉe la eko ĉu &brandShortName; estas la ĉefa retumilo"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "k">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY setDefault.label                "Igi &brandShortName; la ĉefa retesplorilo">
+<!ENTITY setDefault.accesskey            "I">
+<!ENTITY isDefault.label                 "&brandShortName; estas nuntempe via ĉefa retesplorilo">
 <!ENTITY submitCrashes.label             "Sendi raportojn pri paneoj">
 <!ENTITY submitCrashes.accesskey         "p">
 <!ENTITY submitTelemetry.label           "Sendi informon pri efikeco">
