@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Configuración de corréu non deseáu">
-<!ENTITY trainingWarning.label "Si s'activa, primero tienes d'enseñar a &brandShortName; a identificar el corréu non deseáu. Pa ello, usa la barra de ferramientes de corréu non deseáu conseñando los mensaxes como 'non deseaos' o 'llexítimos'. Necesites identificar los mensaxes d'un y otru tipu.">
+
 <!ENTITY level.label "Activar los controles adautativos de corréu non deseáu pa esta cuenta">
 <!ENTITY level.accesskey "A">
 <!ENTITY move.label "Mover nuevos mensaxes de corréu non deseaos a:">
@@ -11,7 +11,11 @@
 <!ENTITY purge1.label "Desaniciar automáticamente corréu non deseáu con más de">
 <!ENTITY purge1.accesskey "E">
 <!ENTITY purge2.label "díes">
-<!ENTITY whitelist.label "Nun conseñar mensaxes como corréu non deseáu si'l remitente ta en: ">
-<!ENTITY whitelist.accesskey "N">
 <!ENTITY ispHeaders.label "Confiar nes testeres de corréu non deseáu unviaes por: ">
 <!ENTITY ispHeaders.accesskey "C">
+<!ENTITY ispHeadersWarning.label "Si ta activáu, &brandShortName; considerará automáticamente los mensaxes conseñaos por esti clasificador esterno como corréu puxarra.">
+<!ENTITY junkActions.label "Destín y retención">
+<!ENTITY junkClassification.label "Seleición">
+<!ENTITY trainingDescription.label "Si ta activáu, primero vas tener que deprender a &brandShortName; a identificar el corréu puxarra usando'l botón Puxarra de la barra de ferramientes pa conseñar los mensaxes que son corréu puxarra y los que non. Necesites identificar unos y otros como parte del deprendizax. Tres d'ello, &brandShortName; va ser a identificar el corréu puxarra automáticamente.">
+<!ENTITY whitelistHeader.label "Nun marcar automáticamente mensaxes como corréu puxarra si'l remitente ta en:">
+<!ENTITY whitelistHeader.accesskey "N">

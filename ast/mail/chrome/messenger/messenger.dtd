@@ -637,7 +637,7 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Restaurar soníu">
 <!ENTITY contextUnmute.accesskey "s">
-<!ENTITY junkBarMessage1.label "Corréu puxarra">
+<!ENTITY junkBarMessage2.label "&brandShortName; camienta qu'esti mensaxe ye corréu puxarra.">
 <!ENTITY junkBarButton1.label "Llexítimu">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "Pa protexer la to privacidá, &brandShortName; bloquió'l conteníu remotu nesti mensaxe.">
@@ -736,3 +736,7 @@
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
 <!ENTITY search.label.base "Guetar… #1">
+<!ENTITY joinChatCmd.label "Xunise al chat…">
+<!ENTITY joinChatCmd.accesskey "X">
+<!ENTITY newIMContactCmd.label "Contautos de chat…">
+<!ENTITY newIMContactCmd.accesskey "h">

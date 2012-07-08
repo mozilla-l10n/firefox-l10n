@@ -46,3 +46,5 @@
 <!ENTITY showCookies.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Activar el rexistru del filtru adautativu de corréu puxarra">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "A">
+<!ENTITY doNotTrack.label "Indicar a los sitios web que nun quiero que me rastrexen">
+<!ENTITY doNotTrack.accesskey "I">

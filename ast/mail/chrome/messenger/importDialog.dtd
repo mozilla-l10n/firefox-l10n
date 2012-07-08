@@ -18,6 +18,7 @@
 <!ENTITY importDescription2.label "Cuando s'importen, vas poder acceder a ellos dende'l corréu de &brandShortName;.">
 <!ENTITY selectDescription.label "Por favor, esbilla'l tipu de ficheru que te prestaría importar:">
 <!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescriptionB.label "Por favor, seleiciona una cuenta existente o fai una cuenta nueva:">
 <!ENTITY back.label "&lt; Atrás">
 <!ENTITY forward.label "Siguiente &gt;">
 <!ENTITY finish.label "Terminar">
@@ -25,3 +26,7 @@
 <!ENTITY select.label "o seleiciona'l tipu de datos a importar:">
 <!ENTITY title.label "Puestu">
 <!ENTITY processing.label "Importando…">
+<!ENTITY acctName.label "Nome:">
+<!ENTITY acctName.accesskey "N">
+<!ENTITY importFeeds.label "Soscripciones a canales">
+<!ENTITY importFeeds.accesskey "S">

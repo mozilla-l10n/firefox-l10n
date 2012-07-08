@@ -85,3 +85,5 @@
 <!ENTITY validation.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Preseos de seguridá">
 <!ENTITY viewSecurityDevices.accesskey "P">
+<!ENTITY useService.label "Usar un serviciu en segundu planu pa instalar anovamientos">
+<!ENTITY useService.accesskey "v">
