@@ -88,7 +88,7 @@
 <!ENTITY pref_private_data_cookies "Slapukai">
 <!ENTITY pref_private_data_cache "Podėlis">
 <!ENTITY pref_private_data_sessions "Esami prisijungimai">
-<!ENTITY pref_private_data_offlineApps "Duomenys darbui atsijungus">
+<!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
 <!ENTITY pref_private_data_siteSettings "Svetainių nuostatos">
 
 <!ENTITY quit "Baigti darbą">

@@ -1,7 +1,7 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 <!ENTITY MsgSynchronize.label "Atsiųsti ir suvienodinti laiškus">
-<!ENTITY MsgSelect.label "Elementai, naudotini atsijungus nuo tinklo">
+<!ENTITY MsgSelect.label "Elementai, naudotini neprisijungus prie tinklo">
 <!ENTITY MsgSyncDesc.label "Jei pažymėjote naujienų grupes ir pašto aplankus, su kuriais norėsite dirbti neprisijungę prie tinklo, galite juos atsiųsti ir (arba) suvienodinti dabar. Priešingu atveju paspauskite mygtuką „Pasirinkti…“ ir pažymėkite tokių aplankų ir naujienų grupių pavadinimus.">
 <!ENTITY MsgSyncDirections.label "Ką atsiųsti ir (arba) suvienodinti:">
 <!ENTITY syncTypeMail.label "El. pašto laiškai">

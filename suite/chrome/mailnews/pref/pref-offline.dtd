@@ -2,15 +2,15 @@
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 <!ENTITY pref.network.title               "Tinklas ir disko atmintis">
-<!ENTITY pref.offline.caption             "Darbas atsijungus nuo tinklo">
+<!ENTITY pref.offline.caption             "Darbas neprisijungus prie tinklo">
 <!ENTITY textStartUp                      "Paleidžiant programą:">
 <!ENTITY textStartUp.accesskey            "P">
 <!ENTITY menuitemRememberPrevState        "prisiminti ankstesnę prisijungimo būseną">
 <!ENTITY menuitemAskMe                    "paklausti, ar prisijungti prie tinklo">
 <!ENTITY menuitemAlwaysOnline             "visuomet prisijungti prie tinklo">
-<!ENTITY menuitemAlwaysOffline            "visuomet pradėti darbą atsijungus">
+<!ENTITY menuitemAlwaysOffline            "visuomet pradėti darbą neprisijungus">
 <!ENTITY menuitemAutomatic                "aptikti tinklo būseną automatiškai">
-<!ENTITY textGoingOnline                  "Atsijungiant nuo tinklo:">
+<!ENTITY textGoingOnline                  "Prisijungiant prie tinklo:">
 <!ENTITY radioAutoSend                    "automatiškai išsiųsti laiškus">
 <!ENTITY radioAutoSend.accesskey          "u">
 <!ENTITY radioNotSend                     "laiškų neišsiųsti">
