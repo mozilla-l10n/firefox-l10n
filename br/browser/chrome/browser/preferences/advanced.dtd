@@ -69,7 +69,7 @@
 
 <!ENTITY updateApp.label                 "Hizivadurioù evit &brandShortName; :">
 <!ENTITY updateAuto.label                "Staliañ an hizivadurioù ent emgefreek (erbedet : diogelroez gwellaet)">
-<!ENTITY updateAuto.accesskey            "S">
+<!ENTITY updateAuto.accesskey            "t">
 <!ENTITY updateCheck.label               "Gwiriañ mard ez eus hizivadurioù met leuskel ac'hanon dibab mar bezint staliet">
 <!ENTITY updateCheck.accesskey           "G">
 <!ENTITY updateManual.label              "Na wiriañ biken mard ez eus hizivadurioù (ket erbedet : arvarus evit ho tiogelroez)">
