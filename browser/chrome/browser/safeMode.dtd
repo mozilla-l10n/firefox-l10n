@@ -1,5 +1,4 @@
 <!ENTITY safeModeDialog.title         "Mou seguru de &brandShortName;">
-<!ENTITY window.width                 "37em">
 <!ENTITY window.maxWidth "400">
 <!ENTITY startSafeMode.label "Aniciar en Mou seguru">
 <!ENTITY resetProfile.label "Reaniciar &brandShortName;">
