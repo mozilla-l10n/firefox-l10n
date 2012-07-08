@@ -29,6 +29,6 @@
 <!ENTITY mailnewsTimeout.accesskey "D">
 <!ENTITY mailnewsTimeoutSeconds.label "secondes">
 <!ENTITY Diskspace "Espace disque">
-<!ENTITY offlineCompact.label "Compacter les dossiers quand l'espace gagné atteint au moins">
-<!ENTITY offlineCompact.accesskey "m">
-<!ENTITY mb.label "Mo">
+<!ENTITY offlineCompactFolders.label "Compacter les dossiers quand cela économise au moins">
+<!ENTITY offlineCompactFolders.accesskey "m">
+<!ENTITY offlineCompactFoldersMB.label "Mo au total">
