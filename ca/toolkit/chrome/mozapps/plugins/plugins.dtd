@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Cal un connector per mostrar aquest contingut.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Toqueu aquí per activar el connector.">
-<!ENTITY clickToPlayPlugins                                  "Feu clic aquí per activar els connectors.">
+<!ENTITY clickToPlayPlugin                                   "Toqueu aquí per activar el complement.">
 <!ENTITY disabledPlugin                                      "S'ha inhabilitat el connector.">
 <!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
 

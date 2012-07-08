@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+
 <!ENTITY  pref.proxies.advanced.title "Preferències avançades de servidor intermediari">
 <!ENTITY  protocols.caption           "Servidors intermediaris específics de protocol">
 <!ENTITY  protocols.description       "Normalment el mateix servidor intermediari pot gestionar tots els protocols que es llisten aquí.">

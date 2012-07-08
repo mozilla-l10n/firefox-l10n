@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY linksHeader.label "Comportament dels enllaços">
 <!ENTITY newWindow.label "Comportament en obrir enllaços">
 <!ENTITY newWindowDescription.label "Obrir enllaços vol dir obrir-los en una nova finestra en:">

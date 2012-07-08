@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label     "Subscripcions RSS">
 <!ENTITY subscriptionDesc.label      "Nota: Si se suprimeix o canvia la carpeta d'un canal, els articles que s'hagin baixat abans no se'n veuran afectats.">
 
@@ -7,7 +11,7 @@
 
 <!ENTITY feedLocation.label          "URL del canal:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Introduïu un URL de cànal vàlid per afegir">
+<!ENTITY feedLocation.placeholder    "Introduïu un URL de canal vàlid per afegir">
 
 <!ENTITY feedFolder.label            "Emmagatzema els articles en:">
 <!ENTITY feedFolder.accesskey        "g">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exporta">
 <!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.exportOPML.tooltip   "Exporta el canal de notícies amb l'estructura; Ctrl+clic o Ctrl+Retorn per exportar el canal de notícies com a llista">
 
 <!ENTITY cmd.close.commandKey        "w">

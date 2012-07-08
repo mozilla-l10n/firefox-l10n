@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from AccountManager.xul -->
+
 
 <!ENTITY accountManagerTitle.label "Paràmetres del compte">
 
@@ -6,8 +10,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Afegeix un compte de correu…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Add Chat Account…">
-<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addIMAccountButton.label "Afegeix un compte de xat…">
+<!ENTITY addIMAccountButton.accesskey "x">
 <!ENTITY addOtherAccountButton.label "Afegeix un altre tipus de compte…">
 <!ENTITY addOtherAccountButton.accesskey "t">
 <!ENTITY setDefaultButton.label "Defineix com a predeterminat">

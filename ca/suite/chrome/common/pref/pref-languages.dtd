@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
 
 <!ENTITY languages.customize.prefLangDescript           "De vegades, les pàgines web estan disponibles en diverses llengües. Trieu, per ordre de preferència, les llengües que voleu visualitzar les pàgines web.">
 <!ENTITY languages.customize.title                      "Llengües">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tabHeader.label "Navegació en pestanyes">
 <!ENTITY tabDisplay.label "Visualització de pestanyes">
 <!ENTITY autoHide.label "Amaga la barra de pestanyes quan només n'hi hagi una d'oberta">

@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
 <!ENTITY msgComposeWindow.title "Redacta: (sense assumpte)">
 <!-- File Menu -->
 
@@ -118,12 +122,12 @@
 
 <!ENTITY optionsMenu.label "Opcions">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "Comprova l'ortografia">
+<!ENTITY checkSpellingCmd2.label "Revisa l'ortografia…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.accesskey "g">
-<!ENTITY enableInlineSpellChecker.label "Comprova l'ortografia a mesura que escric">
-<!ENTITY enableInlineSpellChecker.accesskey "v">
+<!ENTITY checkSpellingCmd2.accesskey "o">
+<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia mentre s'escriu">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY quoteCmd.label "Cita el missatge">
 <!ENTITY quoteCmd.accesskey "m">
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
@@ -171,7 +175,7 @@
 <!ENTITY addressBookCmd.label "Llibreta d'adreces">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Paràmetres dels comptes">
+<!ENTITY accountManagerCmd.label "Paràmetres dels comptes…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY accountManagerCmdUnix.accesskey "s">
 <!ENTITY preferencesCmd.label "Opcions…">
@@ -274,11 +278,11 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Convert to…">
+<!ENTITY convertCloud.label "Converteix a…">
 <!ENTITY convertCloud.accesskey "C">
-<!ENTITY cancelUpload.label "Cancel Upload">
+<!ENTITY cancelUpload.label "Cancel·la la pujada">
 <!ENTITY cancelUpload.accesskey "n">
-<!ENTITY convertRegularAttachment.label "Regular Attachment">
+<!ENTITY convertRegularAttachment.label "Adjunció regular">
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Adjunta una pàgina web…">
 <!ENTITY attachPage.accesskey "w">

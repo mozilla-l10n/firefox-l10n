@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Missatge d'emmagatzematge">
 <!ENTITY securitySettings.label "Paràmetres de seguretat">
@@ -79,4 +83,4 @@
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Opcions del compte">
-<!ENTITY accountSettingsDesc.label "Aquest és un compte especial i no té ha cap identitat associada.">
+<!ENTITY accountSettingsDesc.label "Aquest és un compte especial. No està associat a cap identitat.">
