@@ -15,10 +15,12 @@
 <!ENTITY allowContextmenuDisable.label   "Nerodyti ar keisti kontekstinį meniu">
 <!ENTITY allowHideStatusBar.label        "Nerodyti būsenos juostos">
 
-<!ENTITY enablePlugin.label              "Įjungti programų papildinius:">
-<!ENTITY enablePluginForSuite.label      "programoje „&brandShortName;“">
-<!ENTITY enablePluginForSuite.accesskey  "S">
+<!ENTITY enablePlugins.label             "Įjungti programos papildinius">
+<!ENTITY enablePluginForSuite.label      "programų pakete">
+<!ENTITY enablePluginForSuite.accesskey  "p">
 
-<!ENTITY whenPluginsRequired.label       "Prireikus neįdiegtų papildinių">
-<!ENTITY displayNotification.label       "Rodyti informacijos juostą">
-<!ENTITY displayNotification.accesskey   "R">
+<!ENTITY whenPageRequiresPlugins.label   "Jeigu tinklalapyje naudojami papildiniai">
+<!ENTITY activateAllPlugins.label        "aktyvinti papildinius automatiškai">
+<!ENTITY activateAllPlugins.accesskey    "a">
+<!ENTITY warnPluginsRequired.label       "pranešti, jeigu reikia įdiegti daugiau papildinių">
+<!ENTITY warnPluginsRequired.accesskey   "d">

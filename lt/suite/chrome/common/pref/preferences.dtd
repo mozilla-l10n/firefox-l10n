@@ -26,6 +26,7 @@
 <!ENTITY advance.label               "Kitkas">
 <!ENTITY down.label                  "Atsiuntimas">
 <!ENTITY cache.label                 "Podėlis">
+<!ENTITY offlineApps.label           "Duomenys darbui neprisijungus">
 <!ENTITY proxies.label               "Įgaliotieji serveriai">
 <!ENTITY httpnetworking.label        "HTTP protokolas">
 <!ENTITY smart.label                 "Programų diegimas">
