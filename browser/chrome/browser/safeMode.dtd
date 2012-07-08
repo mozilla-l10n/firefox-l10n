@@ -1,64 +1,19 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org Code.
-   -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-#endif
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName;i ohutu režiim">
-<!ENTITY window.width                 "37em">
+<!ENTITY safeModeDialog.title           "&brandShortName;i ohutu režiim">
+<!ENTITY window.maxWidth                "400">
 
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; sulgus käivitumisel ootamatult">
-<!ENTITY autoSafeModeDescription.label "Palume juhtunu pärast siiralt vabandust. &brandShortName; töötab nüüd ohutus režiimis, mis ajutiselt keelas sinu kohandatud sätted, teemad ja laiendused.">
+<!ENTITY startSafeMode.label            "Käivita ohutus režiimis">
+<!ENTITY resetProfile.label             "Lähtesta &brandShortName;">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; töötab turvalises režiimis, mis keelab ajutiselt kõik kohandatud sätted, teemad ja laiendused.">
-<!ENTITY safeModeDescription2.label   "Sa võid muuta kõik või mõned järgnevad sätted püsivaks:">
+<!ENTITY safeModeDescription3.label     "Ohutu režiim on &brandShortName;i spetsiaalne režiim probleemide lahendamiseks.">
+<!ENTITY safeModeDescription4.label     "Sinu lisad ja kohandatud sätted on ajutiselt keelatud.">
 
-<!ENTITY disableAddons.label          "Kõigi lisade keelamine">
-<!ENTITY disableAddons.accesskey      "d">
+<!ENTITY resetProfileInstead.label      "Samuti on võimalik &brandShortName; lähtestada, kui tahad alustada värskelt lehelt.">
 
-<!ENTITY resetToolbars.label          "Tööriistaribade ja juhtelementide lähtestamine">
-<!ENTITY resetToolbars.accesskey      "r">
-
-<!ENTITY deleteBookmarks.label        "Kustutatakse kõik järjehoidjad peale varukoopiate">
-<!ENTITY deleteBookmarks.accesskey    "j">
-
-<!ENTITY resetUserPrefs.label         "Kasutajasätete asendamine &brandShortName;i vaikeväärtustega">
-<!ENTITY resetUserPrefs.accesskey     "K">
-
-<!ENTITY restoreSearch.label          "Vaikimisi otsingumootorite ennistamine">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "Rakenda muudatused ja taaskäivita">
-<!ENTITY continueButton.label         "Jätka turvalises režiimis">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; sulgus käivitumisel ootamatult. Selle põhjuseks võivad olla lisad või muud probleemid. Probleemi lahendamiseks võib proovida lähtestada &brandShortName;i algseisu või proovida lahendada probleemi ohutus režiimis.">
+<!ENTITY resetProfileFooter.label       "Kõik muu lähtestatakse algseisu.">
+<!ENTITY safeModeInstead.label          "Kui sa seda ei soovi, siis võid probleemile lahenduse leidmist jätkata ohutus režiimis, kus lisad ja kohandatud sätted on ajutiselt keelatud.">
