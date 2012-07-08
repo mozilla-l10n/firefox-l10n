@@ -438,8 +438,8 @@
 <!ENTITY markupButton.accesskey "M">
 <!ENTITY devToolbarCloseButton.tooltiptext "Zarrar la barra de desendolcadores">
 <!ENTITY devToolbarMenu.label "Barra de desendolcadores">
-<!ENTITY devToolbarMenu.accesskey "b">
-<!ENTITY devToolbar.commandkey "v">
+
+
 <!ENTITY enterFullScreenCmd.label "Entrar a la pantalla completa">
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Colar de la pantalla completa">
@@ -460,3 +460,11 @@
 <!ENTITY responsiveDesignTool.accesskey "ñ">
 <!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY webConsoleButton.label "Consola web">
+<!ENTITY emailImageCmd.label "Unviar imaxen…">
+<!ENTITY emailImageCmd.accesskey "a">
+<!ENTITY emailVideoCmd.label "Unviar videu…">
+<!ENTITY emailVideoCmd.accesskey "a">
+<!ENTITY emailAudioCmd.label "Unviar audio…">
+<!ENTITY emailAudioCmd.accesskey "a">
+<!ENTITY emailPageCmd.label "Unviar enllaz…">
+<!ENTITY emailPageCmd.accesskey "U">
