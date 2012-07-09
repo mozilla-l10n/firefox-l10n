@@ -49,7 +49,7 @@
 <!-- ENTITY enableAddonsUpdate.label "ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌-ഓണുകള്‍ " -->
 <!-- ENTITY enableAddonsUpdate.accesskey "n" -->
 <!ENTITY enableSearchUpdate.label "തെരച്ചിലിനുള്ള പ്രയോഗങ്ങള്‍">
-<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY enableSearchUpdate.accesskey "E">
 <!-- ENTITY whenUpdatesFound.label "&brandShortName;-നുള്ള പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുമ്പോള്‍" -->
 <!-- ENTITY askMe.label "എന്തു് ചെയ്യണം എന്നു ചോദിക്കുക" -->
 <!-- ENTITY askMe.accesskey "k" -->
@@ -98,7 +98,7 @@
 <!-- ENTITY enableAddonsUpdate2.accesskey   "n" -->
 
 <!ENTITY allowHWAccel.label              "ലഭ്യമാകുമ്പോള്‍ ഹാര്‍ഡ്‌വെയര്‍ ആക്സിലറേഷന്‍ ഉപയോഗിയ്ക്കുക">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 
 <!ENTITY limitCacheSizeBefore.label      "കാഷിനുള്ള പരിമിധി">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
