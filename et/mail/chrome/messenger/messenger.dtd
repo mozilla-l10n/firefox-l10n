@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label                            "&brandFullName;">
 <!ENTITY titleSeparator.label                          " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey          "E">
 <!ENTITY newIMAccountCmd.label                         "Kiirsuhtluse konto…">
 <!ENTITY newIMAccountCmd.accesskey                     "K">
+<!ENTITY newIMContactCmd.label                         "Kiirsuhtluse kontakt…">
+<!ENTITY newIMContactCmd.accesskey                     "n">
 <!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri...">
 <!ENTITY openMessageFileCmd.accesskey                  "i">
 <!ENTITY openAttachmentCmd.label                       "Manused">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable                          "Pole saadaval">
 <!ENTITY imStatus.offline                              "Ühendamata">
 <!ENTITY imStatus.showAccounts                         "Kuva kontosid…">
+<!ENTITY joinChatCmd.label                             "Liitu vestlusega…">
+<!ENTITY joinChatCmd.accesskey                         "g">
 <!ENTITY savedFiles.label                              "Salvestatud failid">
 <!ENTITY savedFiles.accesskey                          "S">
 <!ENTITY savedFiles.key                                "j">
@@ -773,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey                       "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label                         "Rämpspost">
+<!ENTITY junkBarMessage2.label                         "&brandShortName; arvab, et selle kirja puhul on tegemist rämpspostiga.">
 <!ENTITY junkBarButton1.label                          "Pole rämpspost">
 <!ENTITY junkInfoButton.label                          "?">
 

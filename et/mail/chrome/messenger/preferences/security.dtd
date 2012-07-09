@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label                    "Rämpspost">
 <!ENTITY itemPhishing.label                "Petukirjad">
 <!ENTITY itemPasswords.label               "Paroolid">
@@ -56,3 +60,7 @@
 <!ENTITY cookieExceptions.accesskey        "E">
 <!ENTITY showCookies.label                 "Näita küpsiseid…">
 <!ENTITY showCookies.accesskey             "S">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label                  "Veebilehtedele antakse teada, et jälitamist ei soovita">
+<!ENTITY doNotTrack.accesskey              "V">

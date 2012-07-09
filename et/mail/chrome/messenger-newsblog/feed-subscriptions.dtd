@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Uudistevoogude tellimused">
 <!ENTITY subscriptionDesc.label      "Märkus: uudistevoo kausta eemaldamisel või muutmisel ei rakendu need muudatused varem tõmmatud uudistele.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Ekspordi">
 <!ENTITY button.exportOPML.accesskey "k">
+<!ENTITY button.exportOPML.tooltip   "Ekspordi uudistevood koos kaustade struktuuriga; ctrl + klõps või ctrl + enter ekspordib nimekirjana">
 
 <!ENTITY cmd.close.commandKey        "w">

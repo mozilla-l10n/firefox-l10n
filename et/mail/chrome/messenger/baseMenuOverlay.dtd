@@ -13,8 +13,6 @@
 <!ENTITY releaseCmd2.accesskey            "V">
 <!ENTITY whatsNewCmd.label                "Mis on uut">
 <!ENTITY whatsNewCmd.accesskey            "M">
-<!ENTITY featureConfiguratorCmd.label     "Migreerumise assistent">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label                   "Abi sisukord">
 <!ENTITY openHelp.accesskey               "A">
 <!ENTITY openHelp.commandkey              "VK_F1">
