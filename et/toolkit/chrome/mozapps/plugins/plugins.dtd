@@ -20,7 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Hangi rohkem teavet pluginate kohta või otsi puuduvaid pluginaid ise.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; tuleb pluginate töölehakkamiseks taaskäivitada.">
 
-<!ENTITY missingPlugin                                       "Antud sisu kuvamiseks on vaja pluginat.">
+<!ENTITY missingPlugin                                       "Selle sisu kuvamiseks on vaja pluginat.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Puuduta siit, et plugin aktiveerida.">
 <!ENTITY clickToPlayPlugin                                   "Klõpsa, et aktiveerida plugin.">
