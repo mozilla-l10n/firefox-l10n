@@ -428,7 +428,7 @@ can reach it easily. -->
 <!ENTITY sendAudioCmd.accesskey       "с">
 <!ENTITY copyLinkCmd.label            "Копіювати посилання">
 <!ENTITY copyLinkCmd.accesskey        "п">
-<!ENTITY copyImageCmd.label           "Копіювати посилання на зображення">
+<!ENTITY copyImageCmd.label           "Копіювати адресу зображення">
 <!ENTITY copyImageCmd.accesskey       "р">
 <!ENTITY copyImageContentsCmd.label   "Копіювати зображення">
 <!ENTITY copyImageContentsCmd.accesskey  "з"> 
