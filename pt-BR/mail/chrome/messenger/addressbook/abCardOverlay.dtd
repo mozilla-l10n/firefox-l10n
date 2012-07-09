@@ -45,6 +45,8 @@
 <!ENTITY PlainText.label                "Texto sem formatação">
 <!ENTITY HTML.label                     "Texto formatado (HTML)">
 <!ENTITY Unknown.label                  "Sem preferência">
+<!ENTITY ScreenName.label               "Nome de tela:">
+<!ENTITY ScreenName.accesskey           "T">
 <!ENTITY chatName.label                 "Bate-papo:">
 
 <!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto">
