@@ -83,10 +83,10 @@
 <!ENTITY showOffline.label       "Tryb offline…">
 <!ENTITY showOffline.accesskey   "T">
 
-<!ENTITY Diskspace                "Miejsce na dysku">
-<!ENTITY offlineCompact.label     "Automatycznie porządkuj foldery, gdy zaoszczędzi to więcej niż">
-<!ENTITY offlineCompact.accesskey "A">
-<!ENTITY mb.label                 "MB">
+<!ENTITY Diskspace "Miejsce na dysku">
+<!ENTITY offlineCompactFolders.label "Automatycznie porządkuj wszystkie foldery, gdy zaoszczędzi to w sumie ponad">
+<!ENTITY offlineCompactFolders.accesskey "A">
+<!ENTITY offlineCompactFoldersMB.label "MB">
 
 <!ENTITY useCacheBefore.label     "Używaj maksymalnie">
 <!ENTITY useCacheBefore.accesskey "m">
