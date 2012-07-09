@@ -30,8 +30,6 @@
 <!ENTITY WorkPhone.accesskey                   "i">
 <!ENTITY ScreenName.label                      "Nome de tela">
 <!ENTITY ScreenName.accesskey                  "T">
-<!ENTITY ChatName.label                        "Bate-papo">
-<!ENTITY ChatName.accesskey                    "B">
 <!ENTITY sortAscending.label                   "Ordem crescente">
 <!ENTITY sortAscending.accesskey               "O">
 <!ENTITY sortDescending.label                  "Ordem decrescente">

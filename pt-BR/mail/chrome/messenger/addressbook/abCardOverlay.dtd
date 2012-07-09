@@ -47,7 +47,6 @@
 <!ENTITY Unknown.label                  "Sem preferência">
 <!ENTITY ScreenName.label               "Nome de tela:">
 <!ENTITY ScreenName.accesskey           "T">
-<!ENTITY chatName.label                 "Bate-papo:">
 
 <!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto">
 <!ENTITY allowRemoteContent1.accesskey  "t">
@@ -123,25 +122,6 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Observações:">
 <!ENTITY Notes.accesskey                "b">
-
-<!ENTITY Chat.tab                       "Chat">
-<!ENTITY Chat.accesskey                 "a">
-<!ENTITY Gtalk.label                    "Google Talk:">
-<!ENTITY Gtalk.accesskey                "G">
-<!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
-<!ENTITY Yahoo.label                    "Yahoo!:">
-<!ENTITY Yahoo.accesskey                "Y">
-<!ENTITY Skype.label                    "Skype:">
-<!ENTITY Skype.accesskey                "S">
-<!ENTITY QQ.label                       "QQ:">
-<!ENTITY QQ.accesskey                   "Q">
-<!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "M">
-<!ENTITY ICQ.label                      "ICQ:">
-<!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Usuário XMPP:">
-<!ENTITY XMPP.accesskey                 "X">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">

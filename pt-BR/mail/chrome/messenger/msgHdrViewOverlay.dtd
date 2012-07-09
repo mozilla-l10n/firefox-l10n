@@ -28,7 +28,6 @@
 <!ENTITY hdrSmartReplyButton1.label "Responder inteligente">
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton1.tooltip "Responder mensagem">
-<!ENTITY hdrReplyButton2.tooltip "Responder ao remetente desta mensagem">
 <!ENTITY hdrReplyAllButton1.label "Re: Todos">
 <!ENTITY hdrReplyAllButton1.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY hdrReplyListButton1.label "Re: Lista">
