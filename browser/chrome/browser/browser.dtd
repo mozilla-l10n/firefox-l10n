@@ -172,8 +172,6 @@
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
-<!ENTITY devToolbarMenu.accesskey "v">
-<!ENTITY devToolbar.commandkey "v">
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
