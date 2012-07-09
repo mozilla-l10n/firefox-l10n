@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "Spurado">
 
 <!ENTITY doNotTrack.label               "Diri al retejoj ke mi ne volas esti spurita">
@@ -35,7 +39,7 @@
 <!ENTITY  showCookies.accesskey         "M">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "l">
+<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "memoros historion">
 <!ENTITY  historyHeader.dontremember.label "neniam memoros historion">
 <!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">
@@ -70,7 +74,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "s">
 
 <!ENTITY  clearOnClose.label             "Forviŝi historion kiam &brandShortName; finas">
-<!ENTITY  clearOnClose.accesskey         "f">
+<!ENTITY  clearOnClose.accesskey         "v">
 
 <!ENTITY  clearOnCloseSettings.label     "Agordoj…">
-<!ENTITY  clearOnCloseSettings.accesskey "a">
+<!ENTITY  clearOnCloseSettings.accesskey "g">

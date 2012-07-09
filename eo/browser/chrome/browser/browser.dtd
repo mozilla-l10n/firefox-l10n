@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -38,28 +42,28 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "Malfari fermadon de folio">
 <!ENTITY  undoCloseTab.accesskey             "M">
 <!ENTITY  closeTab.label                     "Fermi folion">
-<!ENTITY  closeTab.accesskey                 "f">
+<!ENTITY  closeTab.accesskey                 "o">
 
 <!ENTITY  listAllTabs.label      "Listigi ĉiujn foliojn">
 
 <!ENTITY tabCmd.label "Nova folio">
-<!ENTITY tabCmd.accesskey "F">
+<!ENTITY tabCmd.accesskey "v">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Malfermi retadreson…">
-<!ENTITY openLocationCmd.accesskey "R">
+<!ENTITY openLocationCmd.accesskey "r">
 <!ENTITY openFileCmd.label "Malfermi dosieron…">
-<!ENTITY openFileCmd.accesskey "M">
+<!ENTITY openFileCmd.accesskey "d">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Agordi paĝon…">
-<!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printSetupCmd.accesskey "A">
 <!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
-<!ENTITY printPreviewCmd.accesskey "s">
+<!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Labori malkonektite">
-<!ENTITY goOfflineCmd.accesskey "l">
+<!ENTITY goOfflineCmd.accesskey "L">
 
 <!ENTITY menubarCmd.label "Strio de menuo">
 <!ENTITY menubarCmd.accesskey "m">
@@ -77,6 +81,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Informo de paĝo">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Eniri plenekranan reĝimon">
+<!ENTITY enterFullScreenCmd.accesskey "P">
+<!ENTITY exitFullScreenCmd.label "Eliri el ekranplena reĝimo">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Plenekrane">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -90,10 +100,16 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "K">
 <!ENTITY fullScreenExit.label "Eliri el plenekrana reĝimo">
 <!ENTITY fullScreenExit.accesskey "P">
-<!ENTITY domFullScreenWarning.label "Premu ESK por eliri el la plenekrana reĝimo">
+<!ENTITY fullscreenAllowButton.label "Permesi">
+<!ENTITY fullscreenExitButton.label "Rifuzi">
+<!ENTITY fullscreenApproval.value "Ĉu permesi plenekranan reĝimon?">
+
+<!ENTITY fullscreenExitHint.value "Premu Esk iam ajn por eliri el plenekrana reĝimo.">
+<!ENTITY leaveDOMFullScreen.label "Eliri el ekranplena reĝimo">
+<!ENTITY leaveDOMFullScreen.accesskey "e">
 
 <!ENTITY closeWindow.label "Fermi fenestron">
-<!ENTITY closeWindow.accesskey "f">
+<!ENTITY closeWindow.accesskey "e">
 
 <!ENTITY bookmarksMenu.label "Legosignoj">
 <!ENTITY bookmarksMenu.accesskey "L">
@@ -198,6 +214,10 @@ can reach it easily. -->
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
 <!ENTITY inspectContextMenu.accesskey "n">
 
+<!ENTITY responsiveDesignTool.label   "Adaptebla vido de fasono">
+<!ENTITY responsiveDesignTool.accesskey "A">
+<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -215,6 +235,14 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Fermi inspektilon">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Fermi ilaron de programistoj">
+<!ENTITY devToolbarMenu.label              "Ilaro de programistoj">
+<!ENTITY devToolbarMenu.accesskey          "p">
+<!ENTITY devToolbar.commandkey             "v">
+
+<!ENTITY webConsoleButton.label "Teksaĵa konzolo">
+<!ENTITY inspectorButton.label "Inspektilo">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Kopii enan HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "e">
 
@@ -223,6 +251,16 @@ can reach it easily. -->
 
 <!ENTITY inspectorHTMLDelete.label          "Forigi nodon">
 <!ENTITY inspectorHTMLDelete.accesskey      "F">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "Paligi paĝon">
+<!ENTITY inspectorToggleVeil.accesskey      "P">
+<!ENTITY inspectorToggleInfobar.label       "Montri informon de nodo">
+<!ENTITY inspectorToggleInfobar.accesskey   "M">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -280,7 +318,7 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.label               "Forigi ĵusan historion…">
 <!ENTITY clearRecentHistory.accesskey           "h">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Komenci privatan retesploradon">
 <!ENTITY privateBrowsingCmd.start.accesskey     "K">
 <!ENTITY privateBrowsingCmd.stop.label          "Haltigi privatan retesploradon">
@@ -399,8 +437,8 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
-<!ENTITY sendPageCmd.label            "Sendi ligilon…">
-<!ENTITY sendPageCmd.accesskey        "S">
+<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
@@ -412,20 +450,18 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Konservi ligitan dosieron kiel…">
 <!ENTITY saveLinkCmd.accesskey        "l">
-<!ENTITY sendLinkCmd.label            "Sendi ligilon…"> 
-<!ENTITY sendLinkCmd.accesskey        "e">
 <!ENTITY saveImageCmd.label           "Konservi bildon kiel…">
 <!ENTITY saveImageCmd.accesskey       "n">
 <!ENTITY saveVideoCmd.label           "Konservi videon kiel…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Konservi sonon kiel…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "Sendi bildon…">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Sendi videon…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Sendi sonon…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Kopii adreson de ligilo">
 <!ENTITY copyLinkCmd.accesskey        "k">
 <!ENTITY copyImageCmd.label           "Kopii adreson de bildo">
@@ -606,14 +642,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Fermi strion de aldonaĵoj">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
-activates the Web Developer->Inspect UI's HTML Tree Panel. -->
-<!ENTITY htmlPanel.label              "HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
-hovers over the HTML panel's toolbar button. -->
-<!ENTITY htmlPanel.tooltiptext        "Panelo de HTML">
-
-<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "Marklingvo">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY htmlPanel.accesskey          "H">
+<!ENTITY markupButton.accesskey          "M">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "Agordo de &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
@@ -19,7 +23,7 @@
 <!ENTITY signIn.password.label      "Pasvorto">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.recoveryKey.label       "Reakira ŝlosilo">
-<!ENTITY signIn.recoveryKey.accesskey   "R">
+<!ENTITY signIn.recoveryKey.accesskey   "k">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detaloj de konto">
@@ -41,7 +45,7 @@
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; zorgas pri via privateco">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Por certigi tutan privatecon ĉiuj viaj datumoj estas ĉifritaj antaŭ ol alŝuti ilin. La reakira ŝlosilo kiu estas bezonata por malĉifri viajn datumon ne estas alŝutita.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Por certigi tutan privatecon ĉiuj viaj datumoj estas ĉifritaj antaŭ ol alŝuti ilin. La reakira ŝlosilo, kiu estas bezonata por malĉifri viajn datumon, ne estas alŝutita.">
 <!ENTITY recoveryKeyEntry.label        "Via reakira ŝlosilo">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Produkti novan ŝlosilon">
@@ -62,12 +66,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Tajpu la kodon provizitan de la aparato:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bonvolu klopodi denove.">
 <!ENTITY addDevice.dialog.successful.label  "La aparato estis sukcese aldonita. La unua sikronigado povas postuli kelkajn minutojn kaj finiĝos en la fono.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Por aktivigi vian aparaton vi devos tajpi vian reakiran ŝlosilon.  Bonvolu presi aŭ konservi tiun ĉi ŝlosilo kaj porti ĝin kun vi.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Por aktivigi vian aparaton vi devos tajpi vian reakiran ŝlosilon.  Bonvolu presi aŭ konservi tiun ĉi ŝlosilo kaj kunportu ĝin.">
 <!ENTITY addDevice.dialog.connected.label   "Aparato konektita">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Ensaluti">
-<!ENTITY existingRecoveryKey.description "Vi povas ricevi kopion de via akira ŝlosilo se vi iras al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia reakira ŝlosilo&#x0022; sub &#x0022;Administri konton&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Vi povas ricevi kopion de via reakira ŝlosilo se vi iras al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia reakira ŝlosilo&#x0022; sub &#x0022;Administri konton&#x0022;.">
 <!ENTITY verifying.label              "Kontrolado…">
 <!ENTITY resetPassword.label          "Reŝargi pasvorton">
 <!ENTITY resetSyncKey.label           "Mi perdis mian alian aparaton.">
@@ -77,7 +81,7 @@
 <!ENTITY syncComputerName.label       "Nomo de komputilo:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Speguli miajn">
+<!ENTITY syncMy.label               "Aktualigi miajn">
 <!ENTITY engine.bookmarks.label     "legosignojn">
 <!ENTITY engine.bookmarks.accesskey "l">
 <!ENTITY engine.tabs.label          "foliojn">

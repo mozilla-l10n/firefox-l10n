@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Eraro dum ŝargado de paĝo">
 <!ENTITY retry.label "Klopodi denove">
 
@@ -70,17 +74,17 @@
 
 <!ENTITY malwareBlocked.title "Ataka retejo suspektata!">
 <!ENTITY malwareBlocked.longDesc "<p>Atakaj retejoj klopodas instali programojn kiuj ŝtelas privatan informon, uzas vian komputilon por ataki aliajn au difektas vian sistemon.</p> 
-<p>Retejaj posedantoj kiuj pensas ke siaj retejoj estis denoncitaj malĝuste kiel atakaj retejoj povas <a href='http://www.stopbadware.org/home/reviewinfo' >peti kontrolon</a>.</p>">
+<p>Retejaj posedantoj, kiuj pensas, ke iliaj retejoj estis denuncitaj malĝuste kiel atakaj retejoj, povas <a href='http://www.stopbadware.org/home/reviewinfo' >peti kontrolon</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Retfalsaĵo suspektata!">
 <!ENTITY phishingBlocked.longDesc "<p>Tajpado de persona informo en tiu ĉi paĝo povas okazigi ŝtelon de identeco aŭ aliajn trompojn.</p> 
-<p>Tiuj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel &quot;phishing&quot;-aj atakoj, kie malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imit retpaĝojn aŭ organizojn je kiuj vi eble fidas.</p>">
+<p>Tiuj tipoj de retfalsaĵoj estas uzataj en trompoj, konataj kiel &quot;phishing&quot;-aj atakoj, en kiuj malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imiti retpaĝojn aŭ organizojn, kiujn vi eble fidas.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokita de la sekureca politiko pri enhavo">
+<!ENTITY cspFrameAncestorBlocked.title "Blokita de la sekureca politiko pri enahvo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
-<!ENTITY corruptedContentError.longDesc "<p>Ne eblas montri la paĝon kiun vi klopodis vidi ĉar erar estis detektita en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la administratojn de la retejo por sciigi ilin pri tiu ĉi problemo.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>La paĝo kiun vi volas vidi ne povas esti montrita ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
 
 <!ENTITY remoteXUL.title "Fora XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">

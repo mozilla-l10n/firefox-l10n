@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -19,7 +23,7 @@
 <li>Se vi ne sukcesas vidi iun ajn paĝon,
 kontrolu la retan konekton de via komputilo.</li>
 <li>Se via komputilo aŭ reto estas protektata de retbarilo aŭ retperanto,
-certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
+certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -28,7 +32,7 @@ certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 </ul>">
 
 
-<!ENTITY generic.title "Fuŝ'.">
+<!ENTITY generic.title "Fuŝ’.">
 <!ENTITY generic.longDesc "<p>Pro iu kialo &brandShortName; ne povas ŝargi tiun ĉi paĝon.</p>">
 
 <!ENTITY malformedURI.title "Tiu ĉi adreso ne estas valida">
@@ -66,7 +70,7 @@ certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 <!ENTITY netTimeout.title "Limtempo por konekto atingita">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "La adreso ne esti komprenita">
+<!ENTITY protocolNotFound.title "La adreso ne estis komprenita">
 <!ENTITY protocolNotFound.longDesc "<ul> 
 <li>Vi eble bezonos instali alian programon por malfermi ĉi tiun adreson.</li> 
 </ul>">
@@ -81,7 +85,7 @@ certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Kontrolu la agordojn de la retperanto por certiĝi ke ili estas ĝustaj.</li> 
 <li>Kontrolu ĉu via komputilo havas funkciantan retan konekton.</li> 
-<li>Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto certiĝi ke  &brandShortName; rajtas aliri la TTTn.</li> 
+<li>Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke  &brandShortName; rajtas aliri la TTT-n.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "La paĝo ne redirektiĝas bone">
@@ -91,42 +95,42 @@ certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Neatendita respondo el servilo">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kontrolu kaj certiĝu ke via sistemo havas la Administraton de persona sekureco instalita.</li> 
+<li>Kontrolu kaj certiĝu ke via sistemo havas la Administranton de persona sekureco instalita.</li> 
 <li>Tiu povus okazi pro nenorma agordado de la servilo.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Malsukcesa sekura konekto">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>La paĝo kiun vi klopodas vidi ne povis esti montrata ĉar la aŭtenteco de la ricevitaj datumoj ne povis esti kontrolita.</li> 
+<li>La paĝo, kiun vi klopodas vidi, ne povis esti montrata, ĉar la aŭtentikeco de la ricevitaj datumoj ne povis esti kontrolita.</li> 
 <li>Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon. 
 Alternative, vi uzu la menueron en la menuo Helpo por raporti tiun ĉi nefunkciantan retejon.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Malsukcesa sekura konekto">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Tio povus estis problemo en la agordo de la servilo aŭ iu kiu klopodas preni la identecon de la servilo.</li> 
+<li>Tio povus esti problemo en la agordo de la servilo, aŭ iu kiu klopodas preni la identecon de la servilo.</li> 
 <li>Se vi iam jam sukcese konektiĝis al tiu ĉi servilo, 
 la eraro povas esti tempa kaj vi povos klopodi denove poste.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>La retejo povas estis tempe ne atingebla aŭ troe okupata. Klopodu denove post kelkaj momentoj.</li> <li>Se vi ne sukcesas ŝarĝi iun ajn paĝon, kontrolu la komputilan retan konekton.</li> 
-<li>Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> 
+<li>La retejo povas esti tempe ne atingebla aŭ troe okupata. Klopodu denove post kelkaj momentoj.</li> <li>Se vi ne sukcesas ŝargi iun ajn paĝon, kontrolu la komputilan retan konekton.</li> 
+<li>Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Ataka retejo suspektata!">
-<!ENTITY malwareBlocked.longDesc "<p>Atakaj retejoj klopodas instali programojn kiuj ŝtelas privatan informon, uzas vian komputilon por ataki aliajn au difektas vian sistemon.</p> 
-<p>Retejaj posedantoj kiuj pensas ke siaj retejoj estis denoncitaj malĝuste kiel atakaj retejoj povas <a href='http://www.stopbadware.org/home/reviewinfo' >peti kontrolon</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Atakaj retejoj klopodas instali programojn, kiuj ŝtelas privatan informon, uzas vian komputilon por ataki aliajn, aŭ difektas vian sistemon.</p> 
+<p>Retejaj posedantoj, kiuj pensas, ke iliaj retejoj estis denuncitaj erare kiel atakaj retejoj, povas <a href='http://www.stopbadware.org/home/reviewinfo' >peti kontrolon</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Retfalsaĵo suspektata!">
 <!ENTITY phishingBlocked.longDesc "<p>Tajpado de persona informo en tiu ĉi paĝo povas okazigi ŝtelon de identeco aŭ aliajn trompojn.</p> 
-<p>Tiuj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel &quot;phishing&quot;-aj atakoj, kie malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imit retpaĝojn aŭ organizojn je kiuj vi eble fidas.</p>">
+<p>Tiuj tipoj de retfalsaĵoj estas uzataj en trompoj konataj kiel &quot;phishing&quot;-aj atakoj, en kiuj malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imiti retpaĝojn aŭ organizojn, kiujn vi eble fidas.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokita de la sekureca politiko pri enahvo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ne permesis al tiu ĉi paĝo ŝargiĝi ĉi tiel ĉar la paĝo havas sekurecan politikon pri enhavo kiu malperesas tion.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ne permesis al tiu ĉi paĝo ŝargiĝi ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo, kiu malpermesas tion.</p>">
 
 <!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
-<!ENTITY corruptedContentError.longDesc "<p>La paĝo kiun vi volas vidi ne povas esti montrita ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>La paĝo, kiun vi volas vidi, ne povas esti montrita, ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">

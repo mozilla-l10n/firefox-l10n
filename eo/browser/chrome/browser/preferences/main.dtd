@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Starto">
 
 <!ENTITY startupPage.label         "Kiam &brandShortName; ekfunkcias:">
@@ -5,23 +9,21 @@
 <!ENTITY startupHomePage.label     "Montri mian ekan paĝon">
 <!ENTITY startupBlankPage.label    "Montri malplenan paĝon">
 <!ENTITY startupLastSession.label  "Montri miajn lastajn fenestrojn kaj foliojn">
-<!ENTITY restoreOnDemand.label     "Ne ŝargi foliojn ĝis elektado">
-<!ENTITY restoreOnDemand.accesskey "N">
 
 <!ENTITY homepage.label            "Eka paĝo:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Uzi la nunan paĝon">
-<!ENTITY useCurrentPage.accesskey  "L">
+<!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Uzi nunajn paĝojn">
 <!ENTITY chooseBookmark.label      "Uzi legosignon…">
-<!ENTITY chooseBookmark.accesskey  "p">
+<!ENTITY chooseBookmark.accesskey  "s">
 <!ENTITY restoreDefault.label      "Norma paĝo">
 <!ENTITY restoreDefault.accesskey  "N">
 
 <!ENTITY downloads.label     "Elŝutoj">
 
 <!ENTITY showWhenDownloading.label     "Montri la fenestron de elŝutoj dum elŝutado de dosiero">
-<!ENTITY showWhenDownloading.accesskey "E">
+<!ENTITY showWhenDownloading.accesskey "M">
 <!ENTITY closeWhenDone.label "Fermi ĝin kiam ĉiuj elŝutoj finiĝas">
 <!ENTITY closeWhenDone.accesskey "k">
 <!ENTITY saveTo.label "Konservi dosierojn en">
