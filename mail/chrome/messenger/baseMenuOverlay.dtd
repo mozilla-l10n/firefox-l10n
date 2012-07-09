@@ -17,6 +17,8 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Novidades">
 <!ENTITY whatsNewCmd.accesskey "o">
+<!ENTITY featureConfiguratorCmd.label "Assistante de migração">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Conteúdo da ajuda">
 <!ENTITY openHelp.accesskey "u">
 <!ENTITY openHelp.commandkey "VK_F1">

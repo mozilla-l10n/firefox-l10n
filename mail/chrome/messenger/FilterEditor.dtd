@@ -44,6 +44,3 @@
 <!ENTITY ignoreSubthread.label "Ignorar subtópico">
 <!ENTITY watchThread.label "Monitorar tópico">
 <!ENTITY stopExecution.label "Interromper a aplicação do filtro">
-
-<!ENTITY addAction.tooltip "Adicionar uma nova ação">
-<!ENTITY removeAction.tooltip "Remover esta ação">
