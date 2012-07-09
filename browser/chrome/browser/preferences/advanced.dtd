@@ -82,7 +82,7 @@
 <!ENTITY updateHistory.accesskey           "j">
 
 <!ENTITY useService.label                  "Uuenduste paigaldamiseks kasutatakse taustateenust">
-<!ENTITY useService.accesskey              "b">
+<!ENTITY useService.accesskey              "d">
 
 <!ENTITY updateOthers.label                "Automaatne uuendamine:">
 <!ENTITY enableSearchUpdate.label          "Otsingumootorid">
