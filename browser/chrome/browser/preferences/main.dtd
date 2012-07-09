@@ -29,9 +29,9 @@
 <!ENTITY chooseFolderWin.label        "Esplori…">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Elekti…">
-<!ENTITY chooseFolderMac.accesskey    "i">
+<!ENTITY chooseFolderMac.accesskey    "l">
 <!ENTITY alwaysAsk.label "Ĉiam demandi al mi kie konservi dosierojn">
-<!ENTITY alwaysAsk.accesskey "I">
+<!ENTITY alwaysAsk.accesskey "i">
 
 <!ENTITY addonsMgr.label               "Aldonaĵoj">
 <!ENTITY manageAddonsDescWin.label     "Ŝanĝi opciojn de viaj aldonaĵoj">
