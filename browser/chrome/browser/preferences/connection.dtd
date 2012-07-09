@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  connectionsDialog.title       "Agordoj de konektado">
 <!ENTITY  window.width                  "37em">
@@ -9,9 +13,9 @@
 <!ENTITY  systemTypeRadio.label         "Uzi la sistemajn agordojn de retperantoj">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Aŭtomate eltrovi la agordojn de retperantoj por tiu ĉi reto">
-<!ENTITY  WPADTypeRadio.accesskey       "r">
+<!ENTITY  WPADTypeRadio.accesskey       "e">
 <!ENTITY  manualTypeRadio.label         "Neaŭtomata agordo de retperantoj:">
-<!ENTITY  manualTypeRadio.accesskey     "n">
+<!ENTITY  manualTypeRadio.accesskey     "N">
 <!ENTITY  autoTypeRadio.label           "Adreso de aŭtomata retperanta agordo:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Reŝargi">

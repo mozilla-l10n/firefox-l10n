@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Ĝenerala">
@@ -7,7 +11,7 @@
 <!ENTITY useCursorNavigation.label       "Ĉiam uzi la moviĝoklavojn por moviĝi ene de paĝoj">
 <!ENTITY useCursorNavigation.accesskey   "m">
 <!ENTITY searchStartTyping.label         "Serĉi tekston kiam mi komencas tajpi">
-<!ENTITY searchStartTyping.accesskey     "k">
+<!ENTITY searchStartTyping.accesskey     "S">
 <!ENTITY blockAutoRefresh.label          "Averti min kiam retejoj klopodas redirekti aŭ reŝargi paĝon">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
@@ -18,15 +22,16 @@
 <!ENTITY useSmoothScrolling.label        "Uzi glatan ŝovadon">
 <!ENTITY useSmoothScrolling.accesskey    "g">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkSpelling.label             "Kontroli literumadon dum tajpado">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Difinitaj de la sistemo">
 <!ENTITY alwaysCheckDefault.label        "Ĉiam kontroli ĉe la eko ĉu &brandShortName; estas la ĉefa retumilo"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "k">
-<!ENTITY checkNow.label                  "Kontroli nun">
-<!ENTITY checkNow.accesskey              "K">
+<!ENTITY setDefault.label                "Igi &brandShortName; la ĉefa retesplorilo">
+<!ENTITY setDefault.accesskey            "I">
+<!ENTITY isDefault.label                 "&brandShortName; estas nuntempe via ĉefa retesplorilo">
 <!ENTITY submitCrashes.label             "Sendi raportojn pri paneoj">
 <!ENTITY submitCrashes.accesskey         "p">
 <!ENTITY submitTelemetry.label           "Sendi informon pri efikeco">
@@ -53,7 +58,7 @@
 <!ENTITY limitCacheSizeBefore.label      "Limigi staplon al">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MO de spaco">
-<!ENTITY clearCacheNow.label             "Forviŝi nun">
+<!ENTITY clearCacheNow.label             "Viŝi nun">
 <!ENTITY clearCacheNow.accesskey         "F">
 <!ENTITY clearOfflineAppCacheNow.label   "Viŝi nun">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
@@ -74,14 +79,14 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "v">
 
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory.accesskey         "M">
 
 <!ENTITY useService.label                "Uzi fonan servon por instali ĝisdatigojn">
 <!ENTITY useService.accesskey            "f">
 
 <!ENTITY updateOthers.label              "Aŭtomate ĝisdatigi:">
-<!ENTITY enableSearchUpdate.label        "Serĉiloj">
-<!ENTITY enableSearchUpdate.accesskey    "i">
+<!ENTITY enableSearchUpdate.label        "Serĉilojn">
+<!ENTITY enableSearchUpdate.accesskey    "S">
 
 <!ENTITY offlineNotify.label             "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
 <!ENTITY offlineNotify.accesskey         "D">

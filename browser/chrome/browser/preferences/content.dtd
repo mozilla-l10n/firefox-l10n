@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  blockPopups.label           "Bloki spruĉfenestrojn">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Esceptoj…">
@@ -6,12 +10,12 @@
 <!ENTITY  loadImages.label            "Aŭtomate ŝargi bildojn">
 <!ENTITY  loadImages.accesskey        "I">
 <!ENTITY  exceptions.label            "Esceptoj…">
-<!ENTITY  exceptions.accesskey        "e">
+<!ENTITY  exceptions.accesskey        "s">
 
 <!ENTITY  enableJavaScript.label      "Ebligi JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Sperta…">
-<!ENTITY  advancedJS.accesskey        "e">
+<!ENTITY  advancedJS.accesskey        "p">
 
 <!ENTITY  enableJava.label            "Ebligi Java-n">
 <!ENTITY  enableJava.accesskey        "e">
@@ -25,7 +29,7 @@
 <!ENTITY  defaultSize.accesskey       "R">
 
 <!ENTITY  advancedFonts.label         "Sperta…">
-<!ENTITY  advancedFonts.accesskey     "E">
+<!ENTITY  advancedFonts.accesskey     "t">
 
 <!ENTITY  colors.label                "Koloroj…">
 <!ENTITY  colors.accesskey            "K">

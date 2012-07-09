@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Informo por solvado de problemoj">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
@@ -15,13 +19,13 @@
 <!ENTITY aboutSupport.appBasicsName "Nomo">
 <!ENTITY aboutSupport.appBasicsVersion "Versio">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Profila dosierujo">
+<!ENTITY aboutSupport.appBasicsProfileDir "Dosierujo de profiloj">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dosierujo de profiloj">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivigitaj kromprogramoj">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivaj kromprogramoj">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Agordoj de konstruado">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agento de uzanto">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Raportoj pri paneoj">
@@ -44,6 +48,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.a11yTitle "Alirebleco">
+<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versio de bibliotekoj">
 

@@ -21,10 +21,10 @@
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.">
-<!ENTITY warning.checkcompatibility.label          "La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵoj.">
+<!ENTITY warning.checkcompatibility.label          "La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵojn.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktivigi">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Aktivigi la kontroladon de kongrueco de aldonaĵoj">
-<!ENTITY warning.updatesecurity.label              "La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti komprimitita de ĝisdatigoj.">
+<!ENTITY warning.updatesecurity.label              "La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti kompromitita de ĝisdatigoj.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktivigi">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktivigi la kontroladon de sekurecaj ĝisdatigoj de aldonaĵoj">
 
@@ -118,7 +118,7 @@
 <!ENTITY detail.homepage.label                "Ĉefpaĝo">
 <!ENTITY detail.numberOfDownloads.label       "Elŝutoj">
 
-<!ENTITY detail.contributions.description     "La disvolviganto de tiu ĉi aldonaĵo petas al vi subteni la daŭran disvolvigadon pero eta kontribuo.">
+<!ENTITY detail.contributions.description     "La disvolviganto de tiu ĉi aldonaĵo petas al vi subteni la daŭran disvolvigadon per eta kontribuo.">
 
 <!ENTITY detail.updateType                    "Aŭtomataj ĝisdatigoj">
 <!ENTITY detail.updateDefault.label           "Ĉefa">
@@ -164,7 +164,7 @@
 <!ENTITY search.filter2.installed.label       "Miaj aldonaĵoj">
 <!ENTITY search.filter2.installed.tooltip     "Montri instalitajn aldonaĵojn">
 <!ENTITY search.filter2.available.label       "Haveblaj aldonaĵoj">
-<!ENTITY search.filter2.available.tooltip     "Montri aldonaĵoj kiuj povas esti instalitaj">
+<!ENTITY search.filter2.available.tooltip     "Montri aldonaĵojn, kiuj povas esti instalitaj">
 
 <!ENTITY addon.homepage                       "Ĉefpaĝo">
 <!ENTITY addon.details.label                  "Pli">

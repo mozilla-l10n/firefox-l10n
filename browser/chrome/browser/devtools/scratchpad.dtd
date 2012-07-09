@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
@@ -28,6 +32,9 @@
 <!ENTITY openFileCmd.label            "Malfermi dosieron…">
 <!ENTITY openFileCmd.accesskey        "M">
 <!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY openRecentMenu.label         "Open Recent">
+<!ENTITY openRecentMenu.accesskey     "R">
 
 <!ENTITY saveFileCmd.label            "Konservi">
 <!ENTITY saveFileCmd.accesskey        "K">
@@ -61,12 +68,12 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Medio">
-<!ENTITY environmentMenu.accesskey    "M">
+<!ENTITY environmentMenu.label        "Ĉirkaŭaĵo">
+<!ENTITY environmentMenu.accesskey    "o">
 
 
-<!ENTITY contentContext.label         "Kunteksto">
-<!ENTITY contentContext.accesskey     "K">
+<!ENTITY contentContext.label         "Enhavo">
+<!ENTITY contentContext.accesskey     "E">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed

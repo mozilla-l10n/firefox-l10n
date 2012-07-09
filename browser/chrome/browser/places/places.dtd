@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Biblioteko">
 <!ENTITY places.library.width  "700">
@@ -12,7 +16,7 @@
 <!ENTITY views.label                    "Vidi">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Ŝanĝi la vidon">
-<!ENTITY view.columns.label             "Montri kolumnoj">
+<!ENTITY view.columns.label             "Montri kolumnojn">
 <!ENTITY view.columns.accesskey         "K">
 <!ENTITY view.sort.label                "Ordigi">
 <!ENTITY view.sort.accesskey            "R">
@@ -22,11 +26,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Ordigado laŭ Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
-
-<!ENTITY cmd.findInBookmarks.label      "Serĉi en legosignoj…">
-<!ENTITY cmd.findInBookmarks.accesskey  "S">
-<!ENTITY cmd.findCurrent.label          "Serĉi en la nuna kolekto…">
-<!ENTITY cmd.findCurrent.accesskey      "e">
 
 <!ENTITY importBookmarksFromHTML.label     "Importi legosignojn el HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
@@ -96,7 +95,7 @@
 <!ENTITY search.scopeFolder.label                  "Elektitaj dosierujo">
 <!ENTITY search.scopeFolder.accesskey              "d">
 <!ENTITY search.scopeBookmarks.label               "Legosignoj">
-<!ENTITY search.scopeBookmarks.accesskey           "p">
+<!ENTITY search.scopeBookmarks.accesskey           "L">
 <!ENTITY search.scopeDownloads.label               "Elŝutoj">
 <!ENTITY search.scopeDownloads.accesskey           "E">
 <!ENTITY search.scopeHistory.label                 "Historio">
@@ -108,7 +107,7 @@
 
 <!ENTITY maintenance.label      "Importi kaj sekurkopii">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importkaj sekurkopii viajn legosignojn">
+<!ENTITY maintenance.tooltip    "Importi kaj sekurkopii viajn legosignojn">
 
 <!ENTITY backButton.tooltip  "Malantaŭenn">
 
