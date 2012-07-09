@@ -71,9 +71,6 @@
 <!ENTITY showUpdates.label              "Histórico de atualizações">
 <!ENTITY showUpdates.accesskey          "H">
 
-<!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
-<!ENTITY useService.accesskey            "s">
-
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configurar conexão…">
 <!ENTITY showSettings.accesskey        "C">

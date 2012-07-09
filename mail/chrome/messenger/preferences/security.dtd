@@ -60,7 +60,3 @@
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Exibir cookies">
 <!ENTITY showCookies.accesskey          "x">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Notificar aos sites que não desejo ser rastreado">
-<!ENTITY doNotTrack.accesskey           "r">

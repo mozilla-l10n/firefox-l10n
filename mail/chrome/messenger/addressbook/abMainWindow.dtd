@@ -166,8 +166,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PrimaryEmail.accesskey                         "e">
 <!ENTITY ScreenName.label                               "Nome de tela">
 <!ENTITY ScreenName.accesskey                           "T">
-<!ENTITY ChatName.label                                 "Bate-papo">
-<!ENTITY ChatName.accesskey                             "B">
 <!ENTITY Company.label                                  "Empresa">
 <!ENTITY Company.accesskey                              "m">
 <!ENTITY NickName.label                                 "Apelido">
@@ -199,7 +197,6 @@ because displayed names don't have the comma in between. -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contato">
 <!ENTITY home.heading                                   "Endereço residencial">
-<!ENTITY chat.heading                                   "Bate-papo">
 <!ENTITY other.heading                                  "Outros">
 <!ENTITY phone.heading                                  "Telefones">
 <!ENTITY work.heading                                   "Endereço comercial">

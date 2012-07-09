@@ -32,8 +32,6 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "o">
 <!ENTITY newIMAccountCmd.label "Configurar conta de bate-papo…">
 <!ENTITY newIMAccountCmd.accesskey "b">
-<!ENTITY newIMContactCmd.label "Novo contato…">
-<!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo de mensagem…">
 <!ENTITY openMessageFileCmd.accesskey "b">
 <!ENTITY openAttachmentCmd.label "Anexos">
@@ -485,8 +483,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Ocupado">
 <!ENTITY imStatus.offline            "Off-line">
 <!ENTITY imStatus.showAccounts       "Exibir contas…">
-<!ENTITY joinChatCmd.label "Entrar no bate-papo…">
-<!ENTITY joinChatCmd.accesskey "E">
 <!ENTITY savedFiles.label "Arquivos salvos">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "J">
@@ -783,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Spam">
-<!ENTITY junkBarMessage2.label "O &brandShortName; acha que esta mensagem é um Spam.">
 <!ENTITY junkBarButton1.label "Não é spam">
 <!ENTITY junkInfoButton.label "Dica">
 

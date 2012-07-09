@@ -4,7 +4,6 @@
 
 <!ENTITY junkSettings.label "Antispam">
 <!ENTITY trainingWarning.label "Se ativado, primeiro você deve primeiro treinar o &brandShortName; a identificar mensagens indesejadas através do botão “Spam”. Você precisa identificar tanto as mensagens que são spam como as que não são.">
-<!ENTITY trainingDescription.label "Se ativado, primeiro você deve primeiro treinar o &brandShortName; a identificar mensagens indesejadas através do botão “Spam”. Você precisa identificar tanto as mensagens que são spam como as que não são. Depois disso, o &brandShortName; será capaz de identificar mensagens como spam automaticamente.">
 <!ENTITY level.label "Identificar spam ao receber mensagens desta conta">
 <!ENTITY level.accesskey "I">
 
@@ -21,12 +20,5 @@
 <!ENTITY whitelist.label "Não marcar mensagens como spam se o remetente estiver em: ">
 <!ENTITY whitelist.accesskey "N">
 
-<!ENTITY whitelistHeader.label "Não marcar mensagens como spam automaticamente se o remetente estiver em:">
-<!ENTITY whitelistHeader.accesskey "N">
-
-<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; considerará mensagens marcadas por esse serviço como spam automaticamente.">
 <!ENTITY ispHeaders.label "Confiar em cabeçalhos de spam definidos pelo:">
 <!ENTITY ispHeaders.accesskey "o">
-
-<!ENTITY junkClassification.label "Seleção">
-<!ENTITY junkActions.label "Destino e Retenção">
