@@ -27,7 +27,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "С">
 <!ENTITY cmd.goToDownloadPage.label       "Перейти на сторінку завантаження">
 <!ENTITY cmd.goToDownloadPage.accesskey   "П">
-<!ENTITY cmd.copyDownloadLink.label       "Копіювати посилання на завантаження">
+<!ENTITY cmd.copyDownloadLink.label       "Копіювати адресу завантаження">
 <!ENTITY cmd.copyDownloadLink.accesskey   "с">
 <!ENTITY cmd.removeFromList.label         "Вилучити зі списку">
 <!ENTITY cmd.removeFromList.accesskey     "ч">
