@@ -65,7 +65,7 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Memori mian historion de retesplorado kaj elŝutado">
-<!ENTITY  rememberHistory2.accesskey  "m">
+<!ENTITY  rememberHistory2.accesskey  "h">
 
 <!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
 <!ENTITY  rememberSearchForm.accesskey   "s">
