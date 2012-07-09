@@ -15,7 +15,7 @@
 <!ENTITY showTabBar.accesskey            "l">
 
 <!ENTITY restoreTabsOnDemand.label       "Kaartide sisu enne valimist ei laadita">
-<!ENTITY restoreTabsOnDemand.accesskey   "i">
+<!ENTITY restoreTabsOnDemand.accesskey   "e">
 
 <!ENTITY switchToNewTabs.label           "Uue kaardi avamisel lülitutakse sellele koheselt">
 <!ENTITY switchToNewTabs.accesskey       "i">
