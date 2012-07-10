@@ -49,6 +49,7 @@
 <!ENTITY pref_category_general "Основные">
 <!ENTITY pref_category_privacy "Приватность и защита">
 <!ENTITY pref_category_content "Содержимое">
+<!ENTITY pref_category_importexport "Импорт и экспорт">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
@@ -57,10 +58,7 @@
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
-<!ENTITY pref_clear_history "Очистить историю">
-<!ENTITY pref_clear_history_confirm "История веб-сёрфинга будет очищена">
 <!ENTITY pref_clear_private_data "Удалить мои данные">
-<!ENTITY pref_clear_private_data_confirm "Настройки веб-сёрфинга, включая пароли и куки, будут удалены">
 <!ENTITY pref_plugins "Плагины">
 <!ENTITY pref_plugins_enabled "Включены">
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
@@ -73,6 +71,14 @@
 <!ENTITY pref_font_size_xlarge "Огромный">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_sync "Синхронизация">
+<!ENTITY pref_import_android "Импорт из Android">
+<!ENTITY pref_private_data_history "Журнал посещений и загрузок">
+<!ENTITY pref_private_data_formdata "Журнал форм и поиска">
+<!ENTITY pref_private_data_cookies "Куки">
+<!ENTITY pref_private_data_cache "Кэш">
+<!ENTITY pref_private_data_sessions "Активные сеансы">
+<!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
+<!ENTITY pref_private_data_siteSettings "Настройки сайта">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
@@ -81,6 +87,7 @@
 <!ENTITY share_title "Поделиться через">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY find_in_page "Найти на странице">
+<!ENTITY desktop_mode "Открыть полную версию сайта">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Предыдущее">
 <!ENTITY find_next "Следующее">
@@ -110,6 +117,7 @@
 <!ENTITY masterpassword_confirm "Подтвердите пароль">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Отмена">
+<!ENTITY button_clear_data "Вычистить данные">
 <!ENTITY abouthome_addons_title "Дополнения для вашего &brandShortName;">
 <!ENTITY abouthome_addons_browse "Обзор всех дополнений &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
@@ -125,3 +133,10 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
+<!ENTITY bookmarkhistory_button_import "Импорт">
+<!ENTITY bookmarkhistory_import_both "Импорт закладок и истории из Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Импорт закладок из Android">
+<!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
+<!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
+<!ENTITY private_data_success "Личные данные вычищены">
+<!ENTITY private_data_fail "Не удалось вычистить некоторые личные данные">
