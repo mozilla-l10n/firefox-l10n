@@ -75,9 +75,9 @@
 <!ENTITY showOffline.label "Sin conexión…">
 <!ENTITY showOffline.accesskey "S">
 <!ENTITY Diskspace "Espacio en disco">
-<!ENTITY offlineCompact.label "Compactar carpetas si se ahorra más de">
-<!ENTITY offlineCompact.accesskey "o">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Compactar todas las carpetas cuando se ahorren más de">
+<!ENTITY offlineCompactFolders.accesskey "C">
+<!ENTITY offlineCompactFoldersMB.label "MB en total">
 <!ENTITY useCacheBefore.label "Usar hasta">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB de espacio para la caché">
