@@ -127,7 +127,7 @@
 <!ENTITY updateAuto.accesskey            "Α">
 <!ENTITY updateCheck.label               "Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για το αν εγκατασταθούν ή όχι">
 <!ENTITY updateCheck.accesskey           "χ">
-<!ENTITY updateManual.label              "Να μην γίνεται έλεγχος για ενημερώσεις (δεν συστήνεται: επικίνδυνο γα την ασφάλεια)">
+<!ENTITY updateManual.label              "Να μην γίνεται έλεγχος για ενημερώσεις (δεν προτείνεται: επικίνδυνο γα την ασφάλεια)">
 <!ENTITY updateManual.accesskey          "μ">
 <!ENTITY updateAutoAddonWarn.label       "Προειδοποίηση αν αυτό απενεργοποιήσει κάποιο από τα πρόσθετα">
 <!ENTITY updateAutoAddonWarn.accesskey   "δ">
