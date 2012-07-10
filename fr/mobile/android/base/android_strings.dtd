@@ -102,7 +102,7 @@
 <!ENTITY share_title "Partager à l\u0027aide de">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
 <!ENTITY find_in_page "Rechercher dans la page">
-<!ENTITY desktop_mode "Afficher la version PC">
+<!ENTITY desktop_mode "Voir version ordinateur">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
