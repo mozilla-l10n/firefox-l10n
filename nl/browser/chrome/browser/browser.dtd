@@ -450,8 +450,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "a">
 <!ENTITY saveLinkCmd.label            "Koppeling opslaan als…">
 <!ENTITY saveLinkCmd.accesskey        "l">
-<!ENTITY sendLinkCmd.label            "Koppeling versturen…">
-<!ENTITY sendLinkCmd.accesskey        "u">
 <!ENTITY saveImageCmd.label           "Afbeelding opslaan als…">
 <!ENTITY saveImageCmd.accesskey       "n">
 <!ENTITY saveVideoCmd.label           "Video opslaan als…">
