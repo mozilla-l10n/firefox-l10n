@@ -4,7 +4,7 @@
 <!ENTITY startupPage.accesskey     "κ">
 <!ENTITY startupHomePage.label     "Προβολή της αρχικής μου σελίδας">
 <!ENTITY startupBlankPage.label    "Προβολή μιας κενής σελίδας">
-<!ENTITY startupLastSession.label  "Προβολή των παραθύρων και καρτελών που υπήρχαν την τελευταία φορά">
+<!ENTITY startupLastSession.label  "Προβολή των παραθύρων και καρτελών από την τελευταία συνεδρία">
 
 
 <!ENTITY useCurrentPage.label      "Χρήση τρέχουσας σελίδας">
