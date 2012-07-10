@@ -91,10 +91,10 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Schijfruimte">
-<!ENTITY offlineCompact.label "Mappen comprimeren als het meer bespaart dan">
-<!ENTITY offlineCompact.accesskey "M">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Schijfruimte">
+<!ENTITY offlineCompactFolders.label     "Mappen comprimeren als het meer bespaart dan">
+<!ENTITY offlineCompactFolders.accesskey "M">
+<!ENTITY offlineCompactFoldersMB.label   "MB in totaal">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
