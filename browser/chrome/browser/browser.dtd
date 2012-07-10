@@ -4,8 +4,6 @@
 
 
 
-
-
 <!ENTITY closeWindow.accesskey "θ">
 <!ENTITY printFrameCmd.label          "Εκτύπωση πλαισίου...">
 <!ENTITY printFrameCmd.accesskey      "λ">
@@ -664,4 +662,29 @@ toolbar button -->
 
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.commandkey             "v">
+
+
+<!ENTITY fullscreenExitHint.value "Πατήστε ESC για έξοδο από την πλήρη οθόνη.">
+<!ENTITY inspectOptionButton.tooltiptext    "Επιλογές Inspector">
+
+<!ENTITY inspectorButton.label "Inspector">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+
+<!ENTITY inspectorToggleVeil.label          "Αλλαγή φωτεινότητας της σελίδας">
+
+<!ENTITY inspectorToggleVeil.accesskey      "γ">
+
+<!ENTITY inspectorToggleInfobar.label       "Προβολή πληροφοριών Node">
+<!ENTITY inspectorToggleInfobar.accesskey   "ο">
+<!ENTITY leaveDOMFullScreen.label "Έξοδος από την πλήρη οθόνη">
+<!ENTITY leaveDOMFullScreen.accesskey "δ">
+<!ENTITY responsiveDesignTool.label   "Προβολή υπεύθυνης σχεδίασης">
+<!ENTITY responsiveDesignTool.accesskey "θ">
+<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY scriptsButton.label "Scripts">
+<!ENTITY webConsoleButton.label "Web Console">
+
+
+
 
