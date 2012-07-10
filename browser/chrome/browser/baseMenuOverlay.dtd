@@ -18,7 +18,7 @@
 <!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "&brandShortName; Օգնություն">
 <!ENTITY productHelp.accesskey    "h">
-<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpMac.commandkey       "՞">
 <!ENTITY helpSafeMode.label       "Վերագործարկել հավելումներն անջատված…">
 <!ENTITY helpSafeMode.accesskey   "Վ">
 

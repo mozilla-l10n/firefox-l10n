@@ -100,8 +100,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Փակել Ամբողջ Էկրանով Ռեժիմը">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "Allow">
-<!ENTITY fullscreenExitButton.label "Deny">
+<!ENTITY fullscreenAllowButton.label "Թույլատրել">
+<!ENTITY fullscreenExitButton.label "Արգելել">
 <!ENTITY fullscreenApproval.value "Allow fullscreen?">
 
 <!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.commandkey             "v">
 
-<!ENTITY webConsoleButton.label "Web Console">
+<!ENTITY webConsoleButton.label "Վեբ կոնսոլ">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY scriptsButton.label "Scripts">
 
@@ -509,7 +509,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.label        "Ցուցադրել վիճակագությունը">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Թաքցնել ստատիստիկան">
 <!ENTITY videoHideStats.accesskey    "Թ">

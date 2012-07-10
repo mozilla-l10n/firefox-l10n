@@ -34,8 +34,8 @@
 <!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
 <!ENTITY submitCrashes.label             "Տեղեկացնել վթարների մասին">
 <!ENTITY submitCrashes.accesskey         "t">
-<!ENTITY submitTelemetry.label           "Submit performance data">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "Ուղղարկել արդյունավետության տվյալները">
+<!ENTITY submitTelemetry.accesskey       "Ո">
 
 <!ENTITY networkTab.label                "Ցանց">
 

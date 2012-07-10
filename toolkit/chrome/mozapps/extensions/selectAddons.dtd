@@ -11,7 +11,7 @@
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Դարձրեք &brandShortName;-ը էլ ավելի արագ՝ պասսիվացնելով չօգտագործվող հավելումները։ Երրորդ կողմի հավելումները կպասսիվացվեն, քանի դեռ Դուք չհաստատեք։">
-<!ENTITY select.keep                 "Keep">
+<!ENTITY select.keep                 "Պահպանել">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
-<!ENTITY select.source               "Installed By">
+<!ENTITY select.source               "Տեղադրվել է">
 <!ENTITY select.name                 "Անուն">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
