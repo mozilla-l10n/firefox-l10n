@@ -1,5 +1,9 @@
-<!ENTITY onlineContactsHeader.label    "Contatos online">
-<!ENTITY offlineContactsHeader.label   "Contatos offline">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY onlineContactsHeader.label    "Contatos on-line">
+<!ENTITY offlineContactsHeader.label   "Contatos off-line">
 <!ENTITY conversationsHeader.label     "Conversas">
 <!ENTITY searchResultConversation.label "Resultado da pesquisa">
 <!ENTITY chat.noConv.title             "As conversas serão exibidas aqui">
@@ -32,20 +36,9 @@
 <!ENTITY joinChatButton.label          "Entrar no bate-papo">
 <!ENTITY chatAccountsButton.label      "Exibir contas">
 
-<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
-     This is the base of the empty text for the chat search box.  We replace
-     #1 with the contents of the appropriate search.keyLabel.* value for the
-     platform (defined in messenger/messenger.dtd).
-     The goal is to convey to the user that typing in the box will allow them
-     to search for conversations and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
-     box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY searchAllChatMessages.label.base "Pesquisar todas as conversas… #1">
-
 <!ENTITY status.available          "Disponível">
 <!ENTITY status.unavailable        "Ocupado">
-<!ENTITY status.offline            "Offline">
+<!ENTITY status.offline            "Off-line">
 
 <!ENTITY openLinkCmd.label            "Abrir link…">
 <!ENTITY openLinkCmd.accesskey        "A">
