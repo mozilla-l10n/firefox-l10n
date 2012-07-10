@@ -114,6 +114,9 @@
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
+<!ENTITY contextmenu_pasteandgo "Coller et ouvrir">
+<!ENTITY contextmenu_paste "Coller">
+<!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 
 <!-- Localization note (history_removed) : Shown in a toast notification
