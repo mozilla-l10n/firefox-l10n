@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Armazenamento de mensagens">
 <!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Receber mensagens">
 <!ENTITY serverType.label "Tipo:">
@@ -76,3 +81,6 @@
 <!ENTITY newsrcPicker.label "Selecionar o arquivo newsrc">
 <!ENTITY browseNewsrc.label "Procurar…">
 <!ENTITY browseNewsrc.accesskey "r">
+
+<!ENTITY accountTitle.label "Configurações da conta">
+<!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
