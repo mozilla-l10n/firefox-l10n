@@ -59,6 +59,7 @@
 <!ENTITY pref_category_general "Général">
 <!ENTITY pref_category_privacy "Vie privée et sécurité">
 <!ENTITY pref_category_content "Contenu">
+<!ENTITY pref_category_importexport "Importer et exporter">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_do_not_track "Dire de ne pas me pister">
 <!ENTITY pref_telemetry "Envoyer données de perf.">
