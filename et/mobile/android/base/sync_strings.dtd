@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label            "Firefox Sync">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label            'Seadistamine lõpetatud'>
-<!ENTITY sync.subtitle.success.label         'Andmed laaditakse nüüd taustal alla. Võid avada sätted, et hallata oma kontot.'>
+<!ENTITY sync.subtitle.success.label1        'Andmed laaditakse nüüd taustal alla. Võid avada sätted, et hallata oma kontot või alustada &brandShortName;iga veebilehitsemist.'>
 <!ENTITY sync.settings.label                 'Sätted'>
-<!ENTITY sync.subtitle.manage.label          '&syncBrand.fullName.label;i konto on juba seadistatud. Oma konto haldamiseks ava sätted.'>
+<!ENTITY sync.subtitle.manage.label1         '&syncBrand.fullName.label;i konto on juba seadistatud. Oma konto haldamiseks ava sätted või käivita &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label            'Palun proovi uuesti.'>
+<!ENTITY sync.pair.connectlocation.label     'Uue seadme aktiveerimiseks vali sellel seadmel “Seadista &syncBrand.shortName.label;” ja seejärel vali “Mul on konto juba olemas”.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label         'Sätted'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label      'Sorteerimata järjehoidjad'>
 <!ENTITY bookmarks.folder.desktop.label      'Töölaua järjehoidjad'>
 <!ENTITY bookmarks.folder.mobile.label       'Mobiilsed järjehoidjad'>
+<!ENTITY bookmarks.folder.readinglist.label  'Lugemise nimekiri'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label  'Toetatud on ainult üks &syncBrand.fullName.label;i konto.'>
