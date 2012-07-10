@@ -67,10 +67,7 @@
 <!ENTITY pref_char_encoding "Encodage de caractères">
 <!ENTITY pref_char_encoding_on "Afficher le menu">
 <!ENTITY pref_char_encoding_off "Masquer le menu">
-<!ENTITY pref_clear_history "Supprimer l\u0027historique">
-<!ENTITY pref_clear_history_confirm "L\u0027historique de navigation sera supprimé">
 <!ENTITY pref_clear_private_data "Supprimer les données personnelles">
-<!ENTITY pref_clear_private_data_confirm "Les paramètres de navigation y compris les mots de passe et les cookies seront supprimés">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activé">
 <!ENTITY pref_plugins_tap_to_play "Toucher pour lancer la lecture">
@@ -83,6 +80,14 @@
 <!ENTITY pref_font_size_xlarge "Très grande">
 <!ENTITY pref_use_master_password "Mot de passe principal">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Importer depuis Android">
+<!ENTITY pref_private_data_history "Historique de navigation et des téléchargements">
+<!ENTITY pref_private_data_formdata "Historique des formulaires et des recherches">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Connexions actives">
+<!ENTITY pref_private_data_offlineApps "Données de site Web hors connexion">
+<!ENTITY pref_private_data_siteSettings "Préférences de site">
 
 <!ENTITY quit "Quitter">
 
@@ -94,6 +99,7 @@
 <!ENTITY share_title "Partager à l\u0027aide de">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
 <!ENTITY find_in_page "Rechercher dans la page">
+<!ENTITY desktop_mode "Voir version ordinateur">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -135,6 +141,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annuler">
+<!ENTITY button_clear_data "Effacer les données">
 
 <!ENTITY abouthome_addons_title "Modules pour votre &brandShortName;">
 <!ENTITY abouthome_addons_browse "Parcourir tous les modules pour &brandShortName;">
@@ -165,3 +172,12 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "dont le détenteur est">
+
+<!ENTITY private_data_success "Données personnelles effacées">
+<!ENTITY private_data_fail "Certaines données personnelles ne peuvent pas être effacées">
+
+<!ENTITY bookmarkhistory_button_import "Importer">
+<!ENTITY bookmarkhistory_import_both "Importation des marque-pages et de l\u0027historique depuis Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importation des marque-pages depuis Android">
+<!ENTITY bookmarkhistory_import_history "Importation de l\u0027historique depuis Android">
+<!ENTITY bookmarkhistory_import_wait "Veuillez patienter…">
