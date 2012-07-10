@@ -124,3 +124,7 @@
 <!ENTITY filepicker_audio_title "Choisir ou enregistrer un son">
 <!ENTITY filepicker_image_title "Choisir une image ou faire une copie d\u0027écran">
 <!ENTITY filepicker_video_title "Choisir ou enregistrer une vidéo">
+
+<!ENTITY ics_dumbness_title "Il y a un problème">
+<!ENTITY ics_dumbness_message "« Ne pas garder activités » est activée. Veuillez désactiver cette option dans Paramètres > Options de développement.">
+<!ENTITY ics_dumbness_ok "Paramètres">
