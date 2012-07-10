@@ -1,22 +1,8 @@
-<!--
-# Translator(s):
-#
-# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# dror3go <drortrigubof@gmail.com>
-# Yaron <sh.yaron@gmail.com>
-# hatul <amiadb@gmail.com>
-# bartselen <bartselen@gmail.com>
-# amire80 <amir.aharoni@mail.huji.ac.il>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!ENTITY urlbar.emptytext      "הכנס חיפוש או כתובת">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "הכנסת חיפוש או כתובת">
 
 <!ENTITY back.label            "אחורה">
 <!ENTITY forward.label         "קדימה">

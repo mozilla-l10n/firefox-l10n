@@ -1,17 +1,7 @@
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
-# Yaron <sh.yaron@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutHome.header                       "<span id='header-suffix'>התחלת השימוש ב־</span><span>&brandShortName; </span>">
 <!ENTITY aboutHome.recentTabs                   "הלשוניות שלך מן הפעם הקודמת">
 <!ENTITY aboutHome.remoteTabs                   "לשוניות מן המחשבים האחרים שלך">

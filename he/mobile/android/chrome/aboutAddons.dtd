@@ -1,16 +1,7 @@
-<!--
-# Translator(s):
-#
-# hatul <amiadb@gmail.com>
-# dror3go <drortrigubof@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutAddons.title                      "מנהל התוספות">
 <!ENTITY aboutAddons.header2                    "התוספות שלך">
 <!ENTITY aboutAddons.options                    "אפשרויות">

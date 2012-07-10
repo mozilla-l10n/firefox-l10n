@@ -1,17 +1,8 @@
-<!--
-# Translator(s):
-#
-# Yaron <sh.yaron@gmail.com>
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY aboutPage.title                        "אודות &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "תוכנת &brandShortName; היא נסיונית וייתכן שלא תהיה יציבה.">
+<!ENTITY aboutPage.telemetryStart               " הדפדפן שולח אוטומטית מידע על הביצועים, החומרה, השימוש וההתאמות האישיות בחזרה אל">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 "כדי לסייע בשיפור &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "תשובות לשאלות נפוצות">
 <!ENTITY aboutPage.support.label                "תמיכה">
 <!ENTITY aboutPage.privacyPolicy.label          "מדיניות פרטיות">

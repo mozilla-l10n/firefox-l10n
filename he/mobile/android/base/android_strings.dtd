@@ -1,15 +1,7 @@
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "הגדרת &brandShortName;">
 <!ENTITY  splash_bookmarks_history "אנו מעדכנים את הסימניות וההיסטוריה שלך. התהליך עשוי לקחת בסביבות דקה.">
@@ -20,7 +12,7 @@
 <!ENTITY  awesomebar_all_pages_title "אתרים פופולריים">
 <!ENTITY  awesomebar_bookmarks_title "סימניות">
 <!ENTITY  awesomebar_history_title "היסטוריה">
-<!ENTITY  awesomebar_search_engine "חיפוש עבור \u0022&#037;s\u0022">
+<!ENTITY  awesomebar_search_engine "חיפוש עבור \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; קרס. הלשוניות שלך יופיעו ברשימה בעמוד ההתחלה של &brandShortName; לאחר הפעלה מחדש.">
@@ -43,10 +35,10 @@
 <!ENTITY remote_tabs "לשוניות מסונכרנות">
 <!ENTITY remote_tabs_show_all "הצגת כל הלשוניות">
 
-<!ENTITY bookmark "סימנייה">
-<!ENTITY bookmark_added "הסימנייה התווספה">
-<!ENTITY bookmark_removed "הסימנייה נמחקה">
-<!ENTITY bookmark_updated "סימנייה עודכנה">
+<!ENTITY bookmark "סימניה">
+<!ENTITY bookmark_added "סימניה התווספה">
+<!ENTITY bookmark_removed "סימניה נמחקה">
+<!ENTITY bookmark_updated "סימניה עודכנה">
 
 <!ENTITY history_today_section "היום">
 <!ENTITY history_yesterday_section "אתמול">
@@ -56,7 +48,11 @@
 <!ENTITY reload "טעינה מחדש">
 <!ENTITY forward "קדימה">
 
+<!ENTITY close_tab "סגירת לשונית">
 <!ENTITY new_tab "לשונית חדשה">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d לשוניות">
 <!ENTITY new_tab_opened "לשונית חדשה נפתחה">
 
 <!ENTITY settings "הגדרות">
@@ -98,12 +94,25 @@
 <!ENTITY share "שיתוף">
 <!ENTITY share_title "שיתוף באמצעות">
 <!ENTITY save_as_pdf "שמירה בתור PDF">
+<!ENTITY find_in_page "חיפוש בדף">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "חיפוש בדף">
+<!ENTITY find_prev "קודם">
+<!ENTITY find_next "הבא">
+<!ENTITY find_close "סגירה">
 
 <!ENTITY contextmenu_open_new_tab "פתיחה בלשונית חדשה">
+<!ENTITY contextmenu_remove_history "הסרה">
 <!ENTITY contextmenu_remove_bookmark "הסרה">
 <!ENTITY contextmenu_add_to_launcher "הוספה למסך הבית">
 <!ENTITY contextmenu_share "שיתוף">
 <!ENTITY contextmenu_edit_bookmark "עריכה">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "הדף הוסר">
 
 <!ENTITY bookmark_edit_title "עריכת סימניה">
 <!ENTITY bookmark_edit_name "שם">
@@ -114,6 +123,11 @@
 <!ENTITY site_settings_cancel       "ביטול">
 <!ENTITY site_settings_clear        "מחיקה">
 <!ENTITY site_settings_no_settings  "אין הגדרות למחיקה.">
+
+<!ENTITY add_to_reading_list "הוספה לרשימת הקריאה">
+<!ENTITY reading_list_added "הדף נוסף לרשימה הקריאה שלך">
+<!ENTITY reading_list_removed "הדף הוסר מרשימת הקריאה שלך">
+<!ENTITY reader_mode "מצב קריאה">
 
 <!ENTITY masterpassword_create_title "יצירת ססמה ראשית">
 <!ENTITY masterpassword_remove_title "הסרת ססמה ראשית">
@@ -137,4 +151,19 @@
 <!ENTITY filepicker_audio_title "בחירה או הקלטת צליל">
 <!ENTITY filepicker_image_title "בחירה או צילום תמונה">
 <!ENTITY filepicker_video_title "בחירה או הקלטת וידאו">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "מחובר לאתר">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "שמופעל על־ידי">
 

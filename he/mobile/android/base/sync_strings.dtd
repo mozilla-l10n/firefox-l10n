@@ -1,18 +1,7 @@
-<!--
-# Translator(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-# elad <el.il@doom.co.il>
-# 123aaa <123aaa@gmail.com>
-# Yaron <sh.yaron@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -25,10 +14,10 @@
 <!ENTITY sync.title.pair.label "שיוך התקן">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "כדי להפעיל את ההתקן החדש שלך, נא לבחור \u0022הגדרת &syncBrand.shortName.label;\u0022 על ההתקן.">
+<!ENTITY sync.subtitle.connect.label "כדי להפעיל את ההתקן החדש שלך, נא לבחור &quot;הגדרת &syncBrand.shortName.label;&quot; על ההתקן.">
 <!ENTITY sync.subtitle.header.label "נא להקיש את הקוד הבא במחשב">
 <!ENTITY sync.subtitle.connectlocation.label "נא לבחור \u0022\u0022 בלשונית שמתייחסת ל־&syncBrand.shortName.label; במסך האפשרויות של Firefox על המחשב שלך.">
-<!ENTITY sync.subtitle.pair.label "כדי להפעיל, נא לבחור באפשרות \u0022שיוך התקן\u0022 בהתקן האחר שלך.">
+<!ENTITY sync.subtitle.pair.label "כדי להפעיל, נא לבחור באפשרות &quot;שיוך התקן&quot; בהתקן האחר שלך.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "הראה לי כיצד.">
@@ -55,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "ההתקנה הושלמה">
-<!ENTITY sync.subtitle.success.label "הנתונים שלך יורדים כעת ברקע. ניתן להיכנס אל ההגדרות כדי לנהל את חשבונך.">
+<!ENTITY sync.subtitle.success.label1 "הנתונים שלך יורדים ברקע. ניתן להיכנס למסך ההגדרות כדי לנהל את החשבון, או להתחיל לגלוש עם &brandShortName;.">
 <!ENTITY sync.settings.label "הגדרות">
-<!ENTITY sync.subtitle.manage.label "החשבון שלך ב־&syncBrand.fullName.label; כבר הוגדר. ניתן להיכנס את ההגדרות כדי לנהל את חשבונך.">
+<!ENTITY sync.subtitle.manage.label1 "חשבונך ב־&syncBrand.fullName.label; מוכן לשימוש. ניתן להיכנס להגדרות כדי לנהל את החשבון, או להפעיל את &brandShortName;.">
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "נא לנסות שוב.">
+<!ENTITY sync.pair.connectlocation.label "כדי להפעיל את ההתקן החדש שלך, יש לבחור “התקנת &syncBrand.shortName.label;” בהתקן , ולבחור “יש ברשותי חשבון”.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label "אפשרויות">
@@ -82,6 +72,11 @@
 <!ENTITY bookmarks.folder.unfiled.label "סימניות לא ממוינות">
 <!ENTITY bookmarks.folder.desktop.label "סימניות מהמחשב">
 <!ENTITY bookmarks.folder.mobile.label "סימניות מהנייד">
+<!ENTITY bookmarks.folder.readinglist.label "רשימת קריאה">
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "רק חשבון &syncBrand.fullName.label; אחד נתמך.">
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.new.recoverykey.status.incorrect "מפתח השחזור שגוי. נא לנסות שוב.">
+
