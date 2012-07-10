@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup               "&brandShortName;i seadistamine">
 <!ENTITY  splash_bookmarks_history       "Uuendame sinu järjehoidjaid ja ajalugu, see võib võtta minuti või nii.">
@@ -43,8 +47,16 @@
 
 <!ENTITY reload                          "Laadi uuesti">
 <!ENTITY forward                         "Edasi">
+<!ENTITY menu                            "Menüü">
+<!ENTITY back                            "Tagasi">
+<!ENTITY stop                            "Peata">
+<!ENTITY site_security                   "Saidi turvalisus">
 
+<!ENTITY close_tab                       "Sulge kaart">
 <!ENTITY new_tab                         "Uus kaart">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs                        "&#037;d kaarti">
 <!ENTITY new_tab_opened                  "Avati uus kaart">
 
 <!ENTITY settings                        "Sätted">
@@ -52,6 +64,7 @@
 <!ENTITY pref_category_general           "Üldine">
 <!ENTITY pref_category_privacy           "Privaatsus ja turvalisus">
 <!ENTITY pref_category_content           "Sisu">
+<!ENTITY pref_category_importexport      "Importimine ja eksportimine">
 <!ENTITY pref_about_firefox              "&brandShortName;ist">
 <!ENTITY pref_do_not_track               "Saitidele antakse teada, et jälitamist ei soovita">
 <!ENTITY pref_telemetry                  "Saadetakse sooritusvõimsuse andmeid">
@@ -60,10 +73,7 @@
 <!ENTITY pref_char_encoding              "Kodeeringu valik">
 <!ENTITY pref_char_encoding_on           "kuvatakse menüüs">
 <!ENTITY pref_char_encoding_off          "ei kuvata menüüs">
-<!ENTITY pref_clear_history              "Ajaloo kustutamine">
-<!ENTITY pref_clear_history_confirm      "Lehitsemise ajalugu kustutatakse">
 <!ENTITY pref_clear_private_data         "Privaatsete andmete kustutamine">
-<!ENTITY pref_clear_private_data_confirm "Lehitsemise sätted, ka paroolid ja küpsised, kustutatakse">
 <!ENTITY pref_plugins                    "Pluginad">
 <!ENTITY pref_plugins_enabled            "lubatud">
 <!ENTITY pref_plugins_tap_to_play        "esitamiseks peab puudutama">
@@ -76,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge           "väga suur">
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
 <!ENTITY pref_sync                       "Sync">
+<!ENTITY pref_import_android             "Androidist importimine">
+<!ENTITY pref_private_data_history       "Veebilehitsemise ja allalaadimiste ajalugu">
+<!ENTITY pref_private_data_formdata      "Vormide ja otsingu ajalugu">
+<!ENTITY pref_private_data_cookies       "Küpsised">
+<!ENTITY pref_private_data_cache         "Vahemälu">
+<!ENTITY pref_private_data_sessions      "Aktiivsed sisselogimised">
+<!ENTITY pref_private_data_offlineApps   "Veebilehtede võrguta režiimis kasutamiseks mõeldud andmed">
+<!ENTITY pref_private_data_siteSettings  "Saitide sätted">
 
 <!ENTITY quit                            "Välju">
 
@@ -86,12 +104,26 @@
 <!ENTITY share                           "Jaga">
 <!ENTITY share_title                     "Jagamine kasutades">
 <!ENTITY save_as_pdf                     "Salvesta PDFina">
+<!ENTITY find_in_page                    "Otsi lehelt">
+<!ENTITY desktop_mode                    "Nõua tavaarvutile mõeldud saiti">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text                       "Otsi lehelt">
+<!ENTITY find_prev                       "Eelmine">
+<!ENTITY find_next                       "Järgmine">
+<!ENTITY find_close                      "Sulge">
 
 <!ENTITY contextmenu_open_new_tab        "Ava uuel kaardil">
+<!ENTITY contextmenu_remove_history      "Eemalda">
 <!ENTITY contextmenu_remove_bookmark     "Eemalda">
 <!ENTITY contextmenu_add_to_launcher     "Lisa avaekraanile">
 <!ENTITY contextmenu_share               "Jaga">
 <!ENTITY contextmenu_edit_bookmark       "Muuda">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed                 "Leht eemaldatud">
 
 <!ENTITY bookmark_edit_title             "Järjehoidja muutmine">
 <!ENTITY bookmark_edit_name              "Nimi">
@@ -103,6 +135,11 @@
 <!ENTITY site_settings_clear             "Kustuta">
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
 
+<!ENTITY add_to_reading_list             "Lisa lugemise nimekirja">
+<!ENTITY reading_list_added              "Leht lisati lugemise nimekirja">
+<!ENTITY reading_list_removed            "Leht eemaldati lugemise nimekirjast">
+<!ENTITY reader_mode                     "Lugemise režiim">
+
 <!ENTITY masterpassword_create_title     "Ülemparooli loomine">
 <!ENTITY masterpassword_remove_title     "Ülemparooli eemaldamine">
 <!ENTITY masterpassword_password         "Parool">
@@ -110,6 +147,7 @@
 
 <!ENTITY button_ok                       "Sobib">
 <!ENTITY button_cancel                   "Loobu">
+<!ENTITY button_clear_data               "Kustuta andmed">
 
 <!ENTITY abouthome_addons_title          "Lisad sinu &brandShortName;ile">
 <!ENTITY abouthome_addons_browse         "Sirvi kõiki &brandShortName;i lisasid">
@@ -125,3 +163,30 @@
 <!ENTITY filepicker_audio_title          "Heli valimine või salvestamine">
 <!ENTITY filepicker_image_title          "Pildi valimine või tegemine">
 <!ENTITY filepicker_video_title          "Video valimine või salvestamine">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to           "Oled ühendatud aadressiga">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by                 "ja seda hooldab">
+
+<!ENTITY bookmarkhistory_button_import   "Impordi">
+<!ENTITY bookmarkhistory_import_both     "Järjehoidjate ja ajaloo importimine
+                                          Androidist">
+<!ENTITY bookmarkhistory_import_bookmarks "Järjehoidjate importimine
+                                           Androidist">
+<!ENTITY bookmarkhistory_import_history  "Ajaloo importimine
+                                          Androidist">
+<!ENTITY bookmarkhistory_import_wait     "Palun oota...">
+
+<!ENTITY private_data_success            "Privaatsed andmed kustutati">
+<!ENTITY private_data_fail               "Osa privaatsetest andmetest polnud võimalik kustutada">
