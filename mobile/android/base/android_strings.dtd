@@ -99,6 +99,7 @@
 <!ENTITY share_title "Dela via">
 <!ENTITY save_as_pdf "Spara som PDF">
 <!ENTITY find_in_page "Sök på sidan">
+<!ENTITY desktop_mode "Begär datoranpassad webbplats">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
