@@ -5,7 +5,7 @@
 <!ENTITY addAccountDialog.menuTitle "Selecionar um serviço de armazenamento on-line">
 <!ENTITY addAccountDialog.style "width:40em; min-height:20em;">
 <!ENTITY addAccountDialog.accountName.label "Nome da conta:">
-<!ENTITY addAccountDialog.noAccountText "Nos desculpe, mas a atual versão do &brandShortName; permite somente uma conta de cada um dos serviços de armazenamento on-line.">
+<!ENTITY addAccountDialog.noAccountText "Desculpe-nos, mas a atual versão do &brandShortName; permite somente uma conta de cada um dos serviços de armazenamento on-line.">
 <!ENTITY addAccountDialog.createAccountText2 "Você pode enviar arquivos anexos grandes usando um dos diversos serviços de armazenamento on-line. Por favor, conecte-se a uma conta existente ou crie uma conta nova.">
 <!ENTITY addAccountDialog.authorizing "Verificando autorização…">
 <!ENTITY addAccountDialog.error "Houve um erro ao configurar a conta!">
