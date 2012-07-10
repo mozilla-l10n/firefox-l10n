@@ -49,6 +49,7 @@
 <!ENTITY pref_category_general "Generale">
 <!ENTITY pref_category_privacy "Privacy e sicurezza">
 <!ENTITY pref_category_content "Contenuti">
+<!ENTITY pref_category_importexport "Importa ed esporta">
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
 <!ENTITY pref_do_not_track "Attiva anti-tracciamento">
 <!ENTITY pref_telemetry "Invia dati prestazioni">
@@ -57,10 +58,7 @@
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
-<!ENTITY pref_clear_history "Svuota cronologia">
-<!ENTITY pref_clear_history_confirm "La cronologia di navigazione verrà rimossa">
 <!ENTITY pref_clear_private_data "Elimina dati personali">
-<!ENTITY pref_clear_private_data_confirm "Verranno eliminati i dati di navigazione, compresi password e cookie">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Attivati">
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
@@ -73,6 +71,14 @@
 <!ENTITY pref_font_size_xlarge "Molto grande">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Importa da Android">
+<!ENTITY pref_private_data_history "Cronologia navigazione e download">
+<!ENTITY pref_private_data_formdata "Moduli e ricerche">
+<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Accessi effettuati">
+<!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
+<!ENTITY pref_private_data_siteSettings "Preferenze dei siti">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
 <!ENTITY downloads "Download">
@@ -82,6 +88,7 @@
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY find_in_page "Trova nella pagina">
 <!ENTITY find_text "Trova nella pagina">
+<!ENTITY desktop_mode "Richiedi versione desktop">
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
 <!ENTITY find_close "Chiudi">
@@ -90,6 +97,9 @@
 <!ENTITY contextmenu_remove_bookmark "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Aggiungi a schermata Home">
 <!ENTITY contextmenu_share "Condividi">
+<!ENTITY contextmenu_pasteandgo "Incolla e vai">
+<!ENTITY contextmenu_paste "Incolla">
+<!ENTITY contextmenu_copyurl "Copia indirizzo">
 <!ENTITY contextmenu_edit_bookmark "Modifica">
 <!ENTITY history_removed "Pagina rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
@@ -110,6 +120,7 @@
 <!ENTITY masterpassword_confirm "Conferma password">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annulla">
+<!ENTITY button_clear_data "Elimina dati">
 <!ENTITY abouthome_addons_title "Componenti aggiuntivi per &brandShortName;">
 <!ENTITY abouthome_addons_browse "Sfoglia tutti i comp. aggiuntivi per &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Schede dall’ultima esecuzione">
@@ -125,3 +136,10 @@
 <!ENTITY filepicker_video_title "Seleziona o registra un video">
 <!ENTITY identity_connected_to "Si è connessi con">
 <!ENTITY identity_run_by "Questo sito è gestito da">
+<!ENTITY private_data_success "Dati personali eliminati">
+<!ENTITY private_data_fail "Impossibile eliminare alcuni dati personali">
+<!ENTITY bookmarkhistory_button_import "Importa">
+<!ENTITY bookmarkhistory_import_both "Importazione segnalibri e cronologia da Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importazione segnalibri da Android">
+<!ENTITY bookmarkhistory_import_history "Importazione cronologia da Android">
+<!ENTITY bookmarkhistory_import_wait "Attendere…">
