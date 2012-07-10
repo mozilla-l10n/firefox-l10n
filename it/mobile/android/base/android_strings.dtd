@@ -102,3 +102,6 @@
 <!ENTITY filepicker_audio_title "Seleziona o registra un suono">
 <!ENTITY filepicker_image_title "Seleziona o scatta una fotografia">
 <!ENTITY filepicker_video_title "Seleziona o registra un video">
+<!ENTITY ics_dumbness_title "C’è un problema">
+<!ENTITY ics_dumbness_message "Risulta attiva l’opzione “Non mantenere attività”. Disattivarla in Impostazioni > Opzioni sviluppatore.">
+<!ENTITY ics_dumbness_ok "Impostazioni">
