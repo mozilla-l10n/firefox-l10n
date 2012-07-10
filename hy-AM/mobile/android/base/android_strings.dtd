@@ -48,7 +48,7 @@
 <!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
 
-<!ENTITY close_tab "Close Tab">
+<!ENTITY close_tab "Փակել Էջը">
 <!ENTITY new_tab "Նոր էջ">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -99,12 +99,12 @@
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_text "Find in Page">
-<!ENTITY find_prev "Previous">
-<!ENTITY find_next "Next">
-<!ENTITY find_close "Close">
+<!ENTITY find_prev "Նախորդը">
+<!ENTITY find_next "Հաջորդը">
+<!ENTITY find_close "Փակել">
 
 <!ENTITY contextmenu_open_new_tab "Բացել նոր էջում">
-<!ENTITY contextmenu_remove_history "Remove">
+<!ENTITY contextmenu_remove_history "Ջնջել">
 <!ENTITY contextmenu_remove_bookmark "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Ավելացնել Առաջին էջում">
 <!ENTITY contextmenu_share "Տարածել">
@@ -153,7 +153,7 @@
 <!ENTITY filepicker_video_title "Ընտրեք կամ տեսագրեք տեսանյութ">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "You are connected to">
+<!ENTITY identity_connected_to "Դուք կապնվել էք">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -165,4 +165,4 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "which is run by">
+<!ENTITY identity_run_by "որը ղեկավարվում է">
