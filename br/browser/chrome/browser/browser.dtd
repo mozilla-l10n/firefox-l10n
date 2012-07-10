@@ -83,9 +83,9 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Kregiñ mod ar skrammañ a-bezh">
+<!ENTITY enterFullScreenCmd.label "Kregiñ ar mod skramm a-bezh">
 <!ENTITY enterFullScreenCmd.accesskey "S">
-<!ENTITY exitFullScreenCmd.label "Kuitaat mod ar skrammañ a-bezh">
+<!ENTITY exitFullScreenCmd.label "Kuitaat ar mod skramm a-bezh">
 <!ENTITY exitFullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.label "Skramm a-bezh">
 <!ENTITY fullScreenCmd.accesskey "S">
@@ -98,14 +98,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Serriñ">
 <!ENTITY fullScreenAutohide.label "Kuzhat ar varrenn ostilhoù">
 <!ENTITY fullScreenAutohide.accesskey "h">
-<!ENTITY fullScreenExit.label "Kuitaat mod ar skrammañ a-bezh">
+<!ENTITY fullScreenExit.label "Kuitaat ar mod skramm a-bezh">
 <!ENTITY fullScreenExit.accesskey "k">
 <!ENTITY fullscreenAllowButton.label "Aotren">
 <!ENTITY fullscreenExitButton.label "Nac'hañ">
-<!ENTITY fullscreenApproval.value "Aotren mod ar skrammañ a-bezh ?">
+<!ENTITY fullscreenApproval.value "Aotren ar mod skramm a-bezh ?">
 
-<!ENTITY fullscreenExitHint.value "Pouezit war ESC evit kuitaat mod ar skrammañ a-bezh.">
-<!ENTITY leaveDOMFullScreen.label "Kuitaat mod ar skrammañ a-bezh">
+<!ENTITY fullscreenExitHint.value "Pouezit war ESC evit kuitaat ar mod skramm a-bezh.">
+<!ENTITY leaveDOMFullScreen.label "Kuitaat ar mod skramm a-bezh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Serriñ ar prenestr">
