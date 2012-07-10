@@ -1,0 +1,11 @@
+<!ENTITY pref.offlineapps.title "Aplicaciones web sin conexión">
+<!ENTITY pref.offlineCache.caption "Contenido web y datos de usuario sin conexión">
+<!ENTITY clearOfflineAppCache.label "Limpiar">
+<!ENTITY clearOfflineAppCache.accesskey "L">
+<!ENTITY offlineNotify.label "Avisarme cuando un sitio web quiere guardar datos para su uso sin conexión.">
+<!ENTITY offlineNotify.accesskey "A">
+<!ENTITY offlineNotifyPermissions.label "Administrar permisos">
+<!ENTITY offlineNotifyPermissions.accesskey "d">
+<!ENTITY offlineAppsList.label "Los siguientes sitios web tienen permitido guardar datos para su uso sin conexión:">
+<!ENTITY offlineAppsListRemove.label "Limpiar datos…">
+<!ENTITY offlineAppsListRemove.accesskey "m">
