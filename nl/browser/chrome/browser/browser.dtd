@@ -437,8 +437,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Bladwijzer voor dit deelvenster maken">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY sendPageCmd.label            "Koppeling versturen…">
-<!ENTITY sendPageCmd.accesskey        "u">
+<!ENTITY emailPageCmd.label           "Koppeling e-mailen…">
+<!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Pagina opslaan als…">
 <!ENTITY savePageCmd.accesskey        "p">
 <!-- alternate for content area context menu -->
@@ -456,12 +456,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "n">
 <!ENTITY saveAudioCmd.label           "Audio opslaan als…">
 <!ENTITY saveAudioCmd.accesskey       "n">
-<!ENTITY sendImageCmd.label           "Afbeelding versturen…">
-<!ENTITY sendImageCmd.accesskey       "s">
-<!ENTITY sendVideoCmd.label           "Video versturen…">
-<!ENTITY sendVideoCmd.accesskey       "s">
-<!ENTITY sendAudioCmd.label           "Audio versturen…">
-<!ENTITY sendAudioCmd.accesskey       "s">
+<!ENTITY emailImageCmd.label          "Afbeelding e-mailen…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Video e-mailen…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Audio e-mailen…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyImageCmd.label           "Afbeeldingslocatie kopiëren">
