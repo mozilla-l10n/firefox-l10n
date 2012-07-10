@@ -25,8 +25,9 @@
 <!ENTITY systemDefaults.label			"デフォルト Web ブラウザ">
 <!ENTITY alwaysCheckDefault.label		"起動時に &brandShortName; がデフォルト Web ブラウザであるか確認する"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey		"w">
-<!ENTITY checkNow.label				"今すぐ確認">
-<!ENTITY checkNow.accesskey			"N">
+<!ENTITY setDefault.label			"&brandShortName; をデフォルト Web ブラウザに設定する">
+<!ENTITY setDefault.accesskey			"d">
+<!ENTITY isDefault.label			"&brandShortName; はデフォルト Web ブラウザに設定されています">
 <!ENTITY submitCrashes.label			"クラッシュレポートを送信する">
 <!ENTITY submitCrashes.accesskey		"S">
 <!ENTITY submitTelemetry.label			"パフォーマンス情報を送信する">
