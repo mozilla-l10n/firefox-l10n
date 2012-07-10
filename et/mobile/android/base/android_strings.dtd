@@ -119,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark     "Eemalda">
 <!ENTITY contextmenu_add_to_launcher     "Lisa avaekraanile">
 <!ENTITY contextmenu_share               "Jaga">
+<!ENTITY contextmenu_pasteandgo          "Aseta ja mine">
+<!ENTITY contextmenu_paste               "Aseta">
+<!ENTITY contextmenu_copyurl             "Kopeeri aadress">
 <!ENTITY contextmenu_edit_bookmark       "Muuda">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
