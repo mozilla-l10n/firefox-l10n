@@ -176,6 +176,9 @@
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
 <!ENTITY devToolbarMenu.label "Панель разработки">
+<!ENTITY devToolbarMenu.accesskey "а">
+<!ENTITY devToolbar.keycode "VK_F2">
+<!ENTITY devToolbar.keytext "F2">
 <!ENTITY webConsoleButton.label "Веб-консоль">
 <!ENTITY inspectorButton.label "Инспектор">
 <!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">

@@ -87,6 +87,7 @@
 <!ENTITY char_encoding "Кодировка">
 <!ENTITY share "Поделиться">
 <!ENTITY share_title "Поделиться через">
+<!ENTITY share_image_failed "Не удалось поделиться этим изображением">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Открыть полную версию сайта">
