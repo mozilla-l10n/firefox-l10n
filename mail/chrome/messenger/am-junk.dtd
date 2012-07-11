@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Configuraziun per e-mails nungiavischads">
-<!ENTITY trainingDescription.label "Sch'il filter per e-mails nungiavischads è activà, sto el vegnir trenà uschia che e-mails nungiavischads (Junk/Spam) vegnan identifitgads cun il temp cun auta probabilitad. Utilisescha ils buttuns &quot;Nungiavischà&quot; resp. &quot;Betg nungiavischà&quot; en la trav da simbols per classifitgar endretg messadis ch'è n'èn betg vegnids identifitgads a moda correcta. Suenter quai vegn &brandShortName; ad esser abel da marcar automaticamain messadis sco nungiavischads.">
+<!ENTITY trainingDescription.label "Sch'il filter per e-mails nungiavischads è activà, sto el vegnir trenà uschia che e-mails nungiavischads (Junk/Spam) vegnan identifitgads cun il temp cun auta probabilitad. Utilisescha ils buttuns &quot;Nungiavischà&quot; resp. &quot;Betg nungiavischà&quot; en la trav da simbols per classifitgar endretg messadis ch'è n'èn betg vegnids identifitgads a moda correcta. Pli tard vegn &brandShortName; ad esser abel da marcar automaticamain messadis sco nungiavischads.">
 <!ENTITY level.label "Activar en quest conto il filter intelligent per e-mails nungiavischads">
 <!ENTITY level.accesskey "E">
 
@@ -13,10 +13,10 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "dis">
 
-<!ENTITY whitelistHeader.label "Betg classifitgar automaticamain in messadi sco nungiavischà sche ses speditur figurescha en quest cudeschet d'adressas: ">
+<!ENTITY whitelistHeader.label "Betg classifitgar in messadi automaticamain sco nungiavischà sche ses speditur figurescha en: ">
 <!ENTITY whitelistHeader.accesskey "D">
 
-<!ENTITY ispHeadersWarning.label "Sche activà vegn &brandShortName; tractar automaticamain messadis marcads da quest servetsch da classificaziun extern sco nungiavischads.">
+<!ENTITY ispHeadersWarning.label "Sche activà, tracta &brandShortName; messadis marcads da quest servetsch da classificaziun extern automaticamain sco nungiavischads.">
 <!ENTITY ispHeaders.label "Fidar a chaus-pagina da messadis nungiavischads da quest filter extern: ">
 <!ENTITY ispHeaders.accesskey "T">
 

@@ -79,7 +79,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Entrar en il modus da maletg entir">
+<!ENTITY enterFullScreenCmd.label "Modus da maletg entir">
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Bandunar il modus da maletg entir">
 <!ENTITY exitFullScreenCmd.accesskey "F">
@@ -96,10 +96,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "a">
 <!ENTITY fullScreenExit.label "Interrumper il modus da maletg entir">
 <!ENTITY fullScreenExit.accesskey "I">
-<!ENTITY fullscreenAllowButton.label "Lubir">
+<!ENTITY fullscreenAllowButton.label "Permetter">
 <!ENTITY fullscreenExitButton.label "Refusar">
-<!ENTITY fullscreenApproval.value "Lubir il modus da maletg entir?">
-<!ENTITY fullscreenExitHint.value "Ti sas adina smatgar ESC per bandunar il modus da maletg entir.">
+<!ENTITY fullscreenApproval.value "Permetter il modus da maletg entir?">
+<!ENTITY fullscreenExitHint.value "Ti pos adina smatgar ESC per bandunar il modus da maletg entir.">
 <!ENTITY leaveDOMFullScreen.label "Bandunar il modus da maletg entir">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -251,10 +251,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
   -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Configuraziun da l'inspectur">
+<!ENTITY inspectOptionButton.tooltiptext    "Opziuns da l'inspectur">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Far pli stgir la pagina">
+<!ENTITY inspectorToggleVeil.label          "Stgirentar la pagina">
 <!ENTITY inspectorToggleVeil.accesskey      "t">
 <!ENTITY inspectorToggleInfobar.label       "Mussar infurmaziuns davart il nuf">
 <!ENTITY inspectorToggleInfobar.accesskey   "S">

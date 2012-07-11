@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
-<!ENTITY remoteDebuggerMenu.label    "Debugger lontan">
+<!ENTITY remoteDebuggerMenu.label    "Debugger a distanza">
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
@@ -29,7 +29,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions          "Pussar sch'ina 'exception' capita">
+<!ENTITY debuggerUI.pauseExceptions          "Pussar tar en cas dad ina 'exception'">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
