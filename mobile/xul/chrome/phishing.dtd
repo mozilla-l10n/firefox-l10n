@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "संदेहास्पद वेब धोखाधड़ी">
 
 <!ENTITY safeb.palm.message.p1 "इस पृष्ठ को वेब धोखाधड़ी पेज के रूप में रिपोर्ट किया गया है जो उपयोक्ताओं से निजी या वित्तीय जानकारी धोखे से हासिल करता है. इस पृष्ठ पर किसी निजी सूचना को डालना पहचान चोरी या अऩ्य धोखे के रूप में परिणाम ला सकता है. &#160;">

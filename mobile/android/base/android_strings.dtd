@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "&brandShortName; का सेटअप">
 <!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
@@ -43,8 +47,16 @@
 
 <!ENTITY reload "फिर लोड करें">
 <!ENTITY forward "अग्रेषित करें">
+<!ENTITY menu "मेन्यू">
+<!ENTITY back "पीछे">
+<!ENTITY stop "Stop">
+<!ENTITY site_security "साइट सुरक्षा">
 
+<!ENTITY close_tab "टैब बंद करें">
 <!ENTITY new_tab "नया टैब">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d टैब">
 <!ENTITY new_tab_opened "नया टैब खुला">
 
 <!ENTITY settings "सेटिंग">
@@ -52,6 +64,7 @@
 <!ENTITY pref_category_general "सामान्य">
 <!ENTITY pref_category_privacy "गोपनीयता व सुरक्षा">
 <!ENTITY pref_category_content "अंतर्वस्तु">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "&brandShortName; परिचय">
 <!ENTITY pref_do_not_track "साइट को मुझे ट्रैक करने मत कहें">
 <!ENTITY pref_telemetry "कार्यकुशलता आँकड़ा भेजें">
@@ -60,10 +73,7 @@
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
 <!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
-<!ENTITY pref_clear_history "इतिहास साफ़ करें">
-<!ENTITY pref_clear_history_confirm "ब्राउज़िंग इतिहास मिटा दी जाएगी">
 <!ENTITY pref_clear_private_data "निजी आँकड़ा साफ़ करें">
-<!ENTITY pref_clear_private_data_confirm "कूटशब्द और कुकीज़ सहित ब्राउज़िंग सेटिंग मिटा दी जाएगी">
 <!ENTITY pref_plugins "प्लगइन">
 <!ENTITY pref_plugins_enabled "सक्रिय">
 <!ENTITY pref_plugins_tap_to_play "चलाने के लिए टैप करें">
@@ -76,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "बहुत बड़ा">
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
 <!ENTITY pref_sync "सिंक">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies "कूकीज">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Active logins">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
 
 <!ENTITY quit "निकास">
 
@@ -86,12 +104,29 @@
 <!ENTITY share "साझा करें">
 <!ENTITY share_title "इससे साझा करें">
 <!ENTITY save_as_pdf "बतौर PDF सहेजें">
+<!ENTITY find_in_page "पृष्ठ में ढूँढें">
+<!ENTITY desktop_mode "Request Desktop Site">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "पृष्ठ में ढूँढें">
+<!ENTITY find_prev "पिछला">
+<!ENTITY find_next "आगे">
+<!ENTITY find_close "बंद करें">
 
 <!ENTITY contextmenu_open_new_tab "नए टैब में खोलें">
+<!ENTITY contextmenu_remove_history "हटाएँ">
 <!ENTITY contextmenu_remove_bookmark "हटाएँ">
 <!ENTITY contextmenu_add_to_launcher "घर स्क्रीन में जोड़ें">
 <!ENTITY contextmenu_share "साझा करें">
+<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
+<!ENTITY contextmenu_paste "चिपकाएँ">
+<!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "संपादन">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "पृष्ठ हटाया गया">
 
 <!ENTITY bookmark_edit_title "पुस्तचिह्न संपादित करें">
 <!ENTITY bookmark_edit_name "नाम">
@@ -103,6 +138,11 @@
 <!ENTITY site_settings_clear        "साफ़ करें">
 <!ENTITY site_settings_no_settings  "साफ़ करने के लिए कोई सेटिंग नहीं.">
 
+<!ENTITY add_to_reading_list "पठन सूची जोड़ें">
+<!ENTITY reading_list_added "आपकी पठन सूची में पृष्ठ जोड़ा गया">
+<!ENTITY reading_list_removed "आपकी पठन सूची से पृष्ठ हटाया गया">
+<!ENTITY reader_mode "रीडर विधि">
+
 <!ENTITY masterpassword_create_title "प्रधान कूटशब्द बनाएँ">
 <!ENTITY masterpassword_remove_title "प्रधान कूटशब्द हटायें">
 <!ENTITY masterpassword_password "कूटशब्द">
@@ -110,6 +150,7 @@
 
 <!ENTITY button_ok "ठीक">
 <!ENTITY button_cancel "रद्द करें">
+<!ENTITY button_clear_data "Clear data">
 
 <!ENTITY abouthome_addons_title "&brandShortName; के लिए सहयुक्तियाँ">
 <!ENTITY abouthome_addons_browse "सभी &brandShortName; सहयुक्तियाँ ब्राउज़ करें">
@@ -126,3 +167,30 @@
 <!ENTITY filepicker_audio_title "कोई आवाज़ चुनें या रिकार्ड करें">
 <!ENTITY filepicker_image_title "कोई तस्वीर चुनें या लें">
 <!ENTITY filepicker_video_title "कोई वीडियो चुनें या रिकार्ड करें">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "आप यहाँ कनेक्टेड हैं">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "कौन इसके द्वारा चलता है">
+
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">
