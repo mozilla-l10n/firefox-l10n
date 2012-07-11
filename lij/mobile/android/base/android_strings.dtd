@@ -60,10 +60,7 @@
 <!ENTITY pref_char_encoding "Show character encoding">
 <!ENTITY pref_char_encoding_on "Fànni védde o menû">
 <!ENTITY pref_char_encoding_off "No fànni védde o menû">
-<!ENTITY pref_clear_history "Scancélla stöia">
-<!ENTITY pref_clear_history_confirm "Scanceliêmo a stöia">
 <!ENTITY pref_clear_private_data "Scancélla i dæti privæ">
-<!ENTITY pref_clear_private_data_confirm "Se scanceliâ e inpostaçioìn da navegaçión, inclûzo paròlle segrétte e cookie">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Abilitòu">
 <!ENTITY pref_plugins_tap_to_play "Tócca pe riprodûe">
@@ -148,10 +145,31 @@
 <!ENTITY back "Inderê">
 <!ENTITY close_tab "Særa féuggio">
 
+<!ENTITY pref_category_importexport "Inpòrta e espòrta">
 
+<!ENTITY pref_import_android "Inpòrta dò-u Android">
+<!ENTITY pref_private_data_history "Stöia da navegaçión e descaregaménto">
+<!ENTITY pref_private_data_formdata "Mòdoli e riçèrca">
+<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Acéssi fæti">
+<!ENTITY pref_private_data_offlineApps "Dæti fêua lìnia di scîti web">
+<!ENTITY pref_private_data_siteSettings "Preferénse di scîti">
+<!ENTITY desktop_mode "Domànda versción desktop">
 
+<!ENTITY contextmenu_pasteandgo "Incòlla e vànni">
+<!ENTITY contextmenu_paste "Incòlla">
+<!ENTITY contextmenu_copyurl "Còpia indirìsso">
 
+<!ENTITY button_clear_data "Scancélla dæti">
 
+<!ENTITY private_data_success "Dæti personâle scancelæ">
+<!ENTITY private_data_fail "Inposcìbile scancelâ quàrche dæto personâle">
+<!ENTITY bookmarkhistory_button_import "Inpòrta">
+<!ENTITY bookmarkhistory_import_both "Inportaçión segnalìbbri e stöia dò-u Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Inportaçión segnalìbbri dò-u Android">
+<!ENTITY bookmarkhistory_import_history "Inportaçión stöia dò-u Android">
+<!ENTITY bookmarkhistory_import_wait "Aténdi…">
 
 
 
