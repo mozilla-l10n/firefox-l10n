@@ -64,6 +64,7 @@
 <!ENTITY pref_category_general "Gyɛnɛral">
 <!ENTITY pref_category_privacy "Eiseise &amp; Bambɔ">
 <!ENTITY pref_category_content "Emu nsɛm">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "&brandShortName; ho nsɛm">
 <!ENTITY pref_do_not_track "Kyerɛ nsaet sɛ mma wɔn ndi m\'akyi">
 <!ENTITY pref_telemetry "Fa dwumadi data ɛmane">
@@ -72,10 +73,7 @@
 <!ENTITY pref_char_encoding "Akyerɛwde ndanee">
 <!ENTITY pref_char_encoding_on "Kyerɛ mɛnu">
 <!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_history "Pepa abakɔsɛm">
-<!ENTITY pref_clear_history_confirm "Ɛbɛpepa abakɔsɛm">
 <!ENTITY pref_clear_private_data "Pepa deta a ɛyɛ praevet">
-<!ENTITY pref_clear_private_data_confirm "Mbrawse nhyehyɛe, ehintasɛmfua ne nkuki bɛpepa">
 <!ENTITY pref_plugins "Mplagin">
 <!ENTITY pref_plugins_enabled "Wɔasɔw">
 <!ENTITY pref_plugins_tap_to_play "Tim so na bɔ">
@@ -88,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Kɛse mmoroso">
 <!ENTITY pref_use_master_password "Fa ehintasɛmfua panin di dwuma">
 <!ENTITY pref_sync "Synk">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies "nkuki">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Active logins">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
 
 <!ENTITY quit "Gyae">
 
@@ -99,6 +105,7 @@
 <!ENTITY share_title "Kyekyɛw fa">
 <!ENTITY save_as_pdf "Fa sie sɛ PDF">
 <!ENTITY find_in_page "Find in Page">
+<!ENTITY desktop_mode "Request Desktop Site">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -140,6 +147,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Twa-mu">
+<!ENTITY button_clear_data "Clear data">
 
 <!ENTITY abouthome_addons_title "Nkaho ɛma wo &brandShortName;">
 <!ENTITY abouthome_addons_browse "Brawse &brandShortName; nkaho nyinaa">
@@ -170,3 +178,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a wɔn a wɔdi ekyiri yɛ">
+
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">

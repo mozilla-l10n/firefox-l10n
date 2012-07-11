@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Mood Ahotew mu">
+<!ENTITY safeModeDialog.title         "&brandShortName; bambɔ mood mu">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "Start in Safe Mode">
+<!ENTITY startSafeMode.label          "Hyɛ ase wɔ mood bambɔ mu">
 <!ENTITY resetProfile.label           "San hyɛ &brandShortName; ase">
 
-<!ENTITY safeModeDescription3.label   "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
-<!ENTITY safeModeDescription4.label   "Your add-ons and custom settings will be temporarily disabled.">
+<!ENTITY safeModeDescription3.label   "Mood bambɔ yɛ &brandShortName; tebea soronko a wo bɛ tumi de ahwehwɛ nsɛm mu eyi haw.">
+<!ENTITY safeModeDescription4.label   "Wɔ bɛdum wo nkaho ne ankorankor nhyehyɛe bere kakra.">
 
-<!ENTITY resetProfileInstead.label    "You can also Reset &brandShortName; if you want to start fresh.">
+<!ENTITY resetProfileInstead.label    "Wo bɛ tumi eyi nhyehyɛe nyinara wɔ &brandShortName; mu sɛ wo pɛ sɛ wo san hyɛ ase foforo a.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by resetting &brandShortName; to its default state or troubleshooting in Safe Mode.">
-<!ENTITY resetProfileFooter.label       "Everything else will be reset to factory defaults.">
-<!ENTITY safeModeInstead.label          "If you don't want this, you can continue in Safe Mode to do your own troubleshooting with your add-ons and custom settings temporarily disabled.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; gyaee a eni nnda wɔ bere a ɔrehyɛ ase. Nkaho anaaso haw foforo bi bɛtumi ayɛ siantiri a yi sii. Wo bɛ tumi abɔ mbɔden sɛ wo bɛ yɛ &brandShortName; yie sɛ wo yi nhyehyɛe nyinara ma no akɔ ne tebea difɔlt mu anaaso sɛ wo bɛ yi haw wɔ ne bambɔ mood mu.">
+<!ENTITY resetProfileFooter.label       "Wɔ bɛ san ahyɛ biribiara wɔ ka ho akɔ difɔlt.">
+<!ENTITY safeModeInstead.label          "Sɛ wo mmpɛ yi a, wo bɛtumi asan akɔ bambɔ mood mu akɔ yɛ wo ara ankasa wo nhwehwɛmu wɔ bere a wɔedum wo nkaho ne ankorankor nhyehyɛe.">
