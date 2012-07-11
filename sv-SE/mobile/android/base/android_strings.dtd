@@ -105,6 +105,7 @@
 
 <!ENTITY share "Dela">
 <!ENTITY share_title "Dela via">
+<!ENTITY share_image_failed "Kan inte dela bilden">
 <!ENTITY save_as_pdf "Spara som PDF">
 <!ENTITY find_in_page "Sök på sidan">
 <!ENTITY desktop_mode "Begär datoranpassad webbplats">
