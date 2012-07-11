@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Jokkoo bi lajj na">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Màkkaan bi dañu ko tere">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -45,7 +45,7 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Jokkoo bi taxaw na">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Jukki bi jeexal na">
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj amatu ci &brandShortName;'.</p><ul><li>ngir kaarange, &brandShortName; du tëb rekk laj yenn jukki yi.</li><li>Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.</li></ul>">
@@ -68,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Yeesalaat nanu jokkoo bi">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Diiru jokkoo bi jeex na">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Makkaan bi kenn xamuko">
 <!ENTITY protocolNotFound.longDesc "<ul> 
