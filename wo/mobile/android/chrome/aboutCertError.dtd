@@ -17,9 +17,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Da nga laaj &brandShortName; mu jokkoo ak kaarange ak <b>#1</b>, wante mëneesula dëggal ni sa jokkoo am na kaarange.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Lan laa wara def ?">
+<!ENTITY certerror.whatShouldIDo.heading "Lan laa wara def?">
 <!ENTITY certerror.whatShouldIDo.content "Su fekkeeni da ngay faral di jokkoo ak dal bii te doo am tolof tolof, njumte bii mën na tekki ni dafa am ku bëgg foqati dantite dal bi te bu boobaa waru loo kontine.">
-<!ENTITY certerror.getMeOutOfHere.label "Génn fii !">
+<!ENTITY certerror.getMeOutOfHere.label "Génn fii!">
 
 <!ENTITY certerror.expert.heading "Xam naa risk yi">
 <!ENTITY certerror.expert.content "Boo xamee li am, mën nga wax &brandShortName; mu tàmbali am koolute ci dantite dal bi. <b> Boo wóoloo sax dal bi, njumte bi mën na tekki ni dafa am ku bëgg jariñoo sa jokkoo.</b>">

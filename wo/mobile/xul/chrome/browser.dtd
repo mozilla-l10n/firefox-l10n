@@ -76,7 +76,7 @@
 <!ENTITY bookmarkShortcut.label    "Add to Home Screen">
 
 <!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
-<!ENTITY identity.connectedTo2 "Connected to">
+<!ENTITY identity.connectedTo2 "Jokkoo ak">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
@@ -99,7 +99,7 @@
 <!ENTITY contextOpenInNewTab.label    "Ubbi buum bi ci koñ bu bees">
 <!ENTITY contextSaveImage.label       "Aar nataal bi">
 <!ENTITY contextCopyLink.label        "Copy Link">
-<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyEmail.label       "Duppi màkkaanu i meel">
 <!ENTITY contextCopyPhone.label       "Copy Phone Number">
 <!ENTITY contextCopyImageLocation.label       "Duppi màkkaanu nataal bi">
 <!ENTITY contextShareLink.label       "Share Link">
@@ -109,7 +109,7 @@
 <!ENTITY contextShareVideo.label      "Share Video">
 <!ENTITY contextPlayMedia.label       "Tambali">
 <!ENTITY contextPauseMedia.label      "Taxaw">
-<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextFullScreen.label      "Seetukaay bu yambalaŋ">
 <!ENTITY contextEditBookmark.label    "Edit">
 <!ENTITY contextRemoveBookmark.label  "Remove">
 <!ENTITY contextShortcutBookmark.label "Add to Home Screen">

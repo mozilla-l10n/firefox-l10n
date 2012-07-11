@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY setPassword.title                 "Soppi baatu jàll bi gëna am solo">
-<!ENTITY setPassword.tokenName.label       "Security Device">
-<!ENTITY setPassword.oldPassword.label     "Current password:">
+<!ENTITY setPassword.tokenName.label       "Wër ndombo kaarange">
+<!ENTITY setPassword.oldPassword.label     "Caabi baat bi teew:">
 <!ENTITY setPassword.newPassword.label     "Dugalal caabi baat bu bees:">
 <!ENTITY setPassword.reenterPassword.label "Dugalaat ko:">
-<!ENTITY setPassword.meter.label           "Password quality meter">
-<!ENTITY setPassword.meter.loading         "Loading">
-<!ENTITY masterPasswordDescription.label   "A Master Password is used to protect sensitive information like site passwords.  If you create a Master Password you will be asked to enter it once per session when &brandShortName; retrieves saved information protected by the password.">
-<!ENTITY masterPasswordWarning.label       "Please make sure you remember the Master Password you have set.  If you forget your Master Password, you will be unable to access any of the information protected by it.">
+<!ENTITY setPassword.meter.label           "Nataayu baaxaayu caabi baat bi">
+<!ENTITY setPassword.meter.loading         "Yebum…">
+<!ENTITY masterPasswordDescription.label   "Caabi baat bi gëna am solo li muy jariñ mooy aar yenn mbir yu am solo yu melni caabi baat yi ñuy jëfandikoo ci dal yi. Boo ci sosee benn dina ñu la laaj nga dugal ko ci sesiyoŋ bu ne bu &brandShortName; aggee ci xibaar yi ñu aar ak caabi baat boobule.">
+<!ENTITY masterPasswordWarning.label       "Fexeel ba bul fatte caabi baat bi gëna am solo. Boo ko fattee dootoo mëna agg ci xibaar yi muy aar.">

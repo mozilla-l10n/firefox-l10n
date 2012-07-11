@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Jokkoo bi lajj na">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Màkkaan bi dañu ko tere">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -34,9 +34,7 @@
 
 
 <!ENTITY generic.title "Laaj bi mënul sotti.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; can't load this page for some reason.</p>
-">
+<!ENTITY generic.longDesc "<p>Xamu ñu lu tax, &brandShortName; mënula yeb xët wi.</p>">
 
 <!ENTITY malformedURI.title "Makkan bi jagul">
 <!ENTITY malformedURI.longDesc "<ul> 
@@ -47,7 +45,7 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Jokkoo bi taxaw na">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Jukki bi jeexal na">
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj amatu ci &brandShortName;'.</p><ul><li>ngir kaarange, &brandShortName; du tëb rekk laj yenn jukki yi.</li><li>Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.</li></ul>">
@@ -59,23 +57,21 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "Njumte ci suulaale këmb gi">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Jéemal wax ak boroom dalub web bi ngir biral ko jafe jafe bi.</li> 
 </ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "Giiri dencukaay yii wóóru ñu">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Jéemal wax ak boroom dalub web bi ngir biral ko jafe jafe bi.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Yeesalaat nanu jokkoo bi">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Diiru jokkoo bi jeex na">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Makkaan bi kenn xamuko">
 <!ENTITY protocolNotFound.longDesc "<ul> 
@@ -99,7 +95,7 @@
 <!ENTITY redirectLoop.title "Xët wi kenn jubaluko bu baax">
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>Li indi jafe jafe bii mën na nekk suuxal mba bañ 
-cookies.</li> 
+kuki.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Tontu bu kenn xalaatulwoon ci serwëër bi">
@@ -109,15 +105,13 @@ sampu na ci sa doxalin.</li>
 <li>Mën na doon tabbinu serwëër bi la.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.title "Jokkoo bu and ak kaarange lajj na">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Xët wi nga bëgg seet kenn mënukoo wone ndax rootaan yi kenn mëneesula xam ndax dëggu nañu walla déet.</li> 
+<li>Jokkool ak boroomi dalub web ngir yëgle jafe jafe bi. Mën nga itam jëfandikoo santaane bi nekk ci njëlu ndimbal ngir wone dal bu doxul</li> 
+</ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Jokkoo bu and ak kaarange lajj na">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Lii më na nekk ni ñu tabbe serwëër bi walla mu nekk nit kuy jeema nangu dantite serwëër bi 
 .</li> 
@@ -136,7 +130,7 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
 
 <!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg mënul wonewu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li>Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Walla mën nga yokk lu kenn tëggaalewul…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Génnal xët wi !">
@@ -153,5 +147,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL bu sori">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalub web ngir yëgal leen jafe jafe bi.</li></ul></p>">
 

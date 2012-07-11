@@ -8,8 +8,8 @@
 <!ENTITY syncBrand.shortName.label "Jàppante">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Tabb &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
 <!ENTITY sync.title.pair.label "Boole ak benn aparey">
 <!-- J-PAKE Key Screen -->
@@ -17,12 +17,12 @@
 <!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
 <!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
 <!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.pair.label "Boo bëggee sajj, falal « boole ci benn apaarey » ci sa beneen apaarey.">
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label "Nan la?">
+<!ENTITY sync.link.show.label "Won ma nan la.">
 <!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "Amewuma aparey ak man...">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
@@ -31,12 +31,12 @@
 <!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
 <!ENTITY sync.input.username.label 'Account Name'>
 <!ENTITY sync.input.password.label "Baatu jàll">
-<!ENTITY sync.input.key.label 'Recovery Key'>
+<!ENTITY sync.input.key.label "Caabi jëli">
 <!ENTITY sync.checkbox.server.label "Jëfandikoo serwëër bu ñu solal">
 <!ENTITY sync.input.server.label 'Server URL'>
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
+<!ENTITY sync.title.fail.label "Tabb &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
 <!ENTITY sync.button.tryagain.label "Jéemaatal">
 <!ENTITY sync.button.manual.label 'Manual Setup'>
@@ -62,13 +62,13 @@
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
   
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
 <!ENTITY bookmarks.folder.menu.label "Njëlu mandarga xët yi">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
+<!ENTITY bookmarks.folder.toolbar.label "Sa banqaasu bopp">
 <!ENTITY bookmarks.folder.unfiled.label "Mandarga xët yu ñu ràññetlewul">
 <!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
 <!ENTITY bookmarks.folder.mobile.label "Mandarga xëti telefon">
@@ -78,4 +78,4 @@
 <!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.new.recoverykey.status.incorrect "Caabi jëli bi baaxul. Jéemaatal.">

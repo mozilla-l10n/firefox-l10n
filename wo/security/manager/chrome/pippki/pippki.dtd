@@ -5,10 +5,10 @@
 
 <!ENTITY setPassword.title  "Soppi caabi baat bi ëpp solo">
 <!ENTITY setPassword.tokenName.label "Wër ndombo kaarange">
-<!ENTITY setPassword.oldPassword.label "Current password:">
+<!ENTITY setPassword.oldPassword.label "Caabi baat bi teew:">
 <!ENTITY setPassword.newPassword.label "New password:">
 <!ENTITY setPassword.reenterPassword.label "New password (again):">
-<!ENTITY setPassword.meter.label "Password quality meter">
+<!ENTITY setPassword.meter.label "Nataayu baaxaayu caabi baat bi">
 <!ENTITY setPassword.meter.loading "Yeb">
 <!-- Values for resetpassword.xul -->
 

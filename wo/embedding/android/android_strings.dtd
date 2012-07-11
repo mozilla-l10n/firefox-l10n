@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "Tabbinu &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Dend bi doyul ngir &brandShortName; mëna tambali.">
+<!ENTITY  error_loading_file "Am na ab njumte bi ñuy jéema yeb dencukaay yiy dawloo &brandShortName;">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "Rapooru lajj &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
 <!ENTITY  crash_help_message "Please help us fix this problem!">
 <!ENTITY  crash_send_report_message "Send Mozilla a crash report">

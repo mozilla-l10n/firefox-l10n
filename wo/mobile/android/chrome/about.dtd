@@ -3,7 +3,7 @@
 <!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+<!ENTITY aboutPage.checkForUpdates.link         "Wut ay yeesal">
 <!ENTITY aboutPage.checkForUpdates.checking     "Wut ay yeesal...">
 <!ENTITY aboutPage.checkForUpdates.none         "Benn yeesal féexul">
 <!ENTITY aboutPage.checkForUpdates.found        "Yeesal bu féex">
@@ -11,6 +11,6 @@
 <!ENTITY aboutPage.support.label                "Support">
 <!ENTITY aboutPage.privacyPolicy.label          "Poltigu dundu biir">
 <!ENTITY aboutPage.rights.label                 "Ci sa mbiri sañ sañ">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
+<!ENTITY aboutPage.relNotes.label               "karmati sumb">
 <!ENTITY aboutPage.credits.label                "Ñi wall si">
-<!ENTITY aboutPage.license.label                "Licensing Information">
+<!ENTITY aboutPage.license.label                "Xibaar yi ci yaatal sañ sañ yi">

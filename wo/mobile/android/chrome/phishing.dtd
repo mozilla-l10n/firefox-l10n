@@ -8,7 +8,7 @@
 <!ENTITY safeb.palm.message.p1.linkText "Gën ci xam &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Gën ci xam &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "Giri dalub web yii seen liggéey mooy naxe te ñu kooy tudde soŋu doolinka ">
+<!ENTITY safeb.palm.message.p2.start "Giri dalub web yii seen liggéey mooy naxe te ñu kooy tudde soŋu doolinka di jëfandikoo ay dal ak imeel yoo wóolu. Mën nga ci gëna xam dara ci ">
 <!ENTITY safeb.palm.message.p2.linkText "nila &brandShortName; di aare">
 <!ENTITY safeb.palm.message.p2.end " songu dóolinka.">
 
@@ -19,7 +19,7 @@
 <!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
 <!ENTITY safeb.palm.reportPage.label "Lu tax ñu boloke dal bi?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Xët bu bon !">
+<!ENTITY safeb.blocked.malwarePage.title "Xët bu bon!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Dalub web bi ci <span id='malware_sitename'/> Yéene nañu ni dal bu bon la te boloke nañu ko, ñu ngi sukkandiku ci say taamu kaarange.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Xët yu bon yi dañuy jéema samp ay porogaraam yuy sacc say xibaar, di jëfandikoo sa ordinatëër ngir song yeneen walla ñu yaq sa doxalin.</p><p>Xët yu bari da ñuy tay di yonnee ay xeltéef yu bon, wante xët yu bari dañuy taq te seen boroom yëgul.</p>">

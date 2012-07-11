@@ -13,15 +13,15 @@
 
 
 
-<!ENTITY debuggerMenu.label2          "Debugger">
+<!ENTITY debuggerMenu.label2          "Dindikatu bog">
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 
-<!ENTITY remoteDebuggerMenu.label    "Remote Debugger">
+<!ENTITY remoteDebuggerMenu.label    "Dindikatu bog bu sori">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
 
-<!ENTITY chromeDebuggerMenu.label    "Browser Debugger">
+<!ENTITY chromeDebuggerMenu.label    "Dindikatu bog bu joowkat bi">
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
 
@@ -29,11 +29,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
 
-<!ENTITY debuggerUI.closeButton.tooltip        "Close">
+<!ENTITY debuggerUI.closeButton.tooltip        "Tëj">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions          "Pause on exceptions">
+<!ENTITY debuggerUI.pauseExceptions          "Taxaw ci yi dul farala am">
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
 
@@ -49,12 +49,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 
-<!ENTITY debuggerUI.stackTitle       "Call stack">
+<!ENTITY debuggerUI.stackTitle       "Pilu woote">
 <!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
   -  widget that displays the source code for the script that is currently
   -  being inspected in the debugger. -->
 
-<!ENTITY debuggerUI.scriptTitle      "Script">
+<!ENTITY debuggerUI.scriptTitle      "Eskiript">
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->

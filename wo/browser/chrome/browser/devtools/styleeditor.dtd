@@ -14,7 +14,7 @@
      of the web page it is editing. -->
 
 
-<!ENTITY window.title               "Style Editor">
+<!ENTITY window.title               "Defarkatu melin">
 
 <!ENTITY newButton.label            "New">
 <!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">

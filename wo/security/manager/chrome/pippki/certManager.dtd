@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Currently verifying certificate…">
 <!ENTITY certmgr.subjectinfo.label            "Issued To">
 <!ENTITY certmgr.issuerinfo.label             "Issued By">
-<!ENTITY certmgr.validity.label               "Validity" >
+<!ENTITY certmgr.validity.label               "Dëggu" >
 <!ENTITY certmgr.fingerprints.label           "Fingerprints">
 <!ENTITY certmgr.certdetail.title             "Certificate Detail">
 <!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
@@ -80,8 +80,8 @@
 <!ENTITY certmgr.add.accesskey                "Y">
 <!ENTITY certmgr.export.label                 "Export…">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Delete…">
-<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete2.label                "Màbb...">
+<!ENTITY certmgr.delete2.accesskey            "M">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Aar…">

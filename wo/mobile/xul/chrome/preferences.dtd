@@ -19,10 +19,10 @@
 <!ENTITY language.title                            "Lammiñ">
 <!ENTITY language.auto                             "Gis boppam">
 <!ENTITY defaultBrowser.title                      "Joowkat ñakk ndigal">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
+<!ENTITY defaultBrowser.description                "Defal &brandShortName; sa joowukaay ñakk ndigal">
 <!ENTITY homepage.title                            "Start page">
 <!ENTITY homepage.none                             "Blank Page">
-<!ENTITY homepage.default                          "Dalub &brandShortName; ">
+<!ENTITY homepage.default                          "Dalub &brandShortName;">
 <!ENTITY homepage.currentpage                      "Use Current Page">
 <!ENTITY showCharsetEncoding.title                 "Show character encoding">
-<!ENTITY actionbar.default                         "&brandShortName; Settings">
+<!ENTITY actionbar.default                         "Paraameetar &brandShortName;">

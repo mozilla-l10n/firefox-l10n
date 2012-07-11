@@ -11,8 +11,8 @@
 <!ENTITY aboutWarningButton.label "I'll be careful, I promise!">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Wut:">
+<!ENTITY searchPrefs.accesskey "t">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 

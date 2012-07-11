@@ -18,8 +18,8 @@
 <!ENTITY messages.accesskey "B">
 <!ENTITY clear.label        "Tuur konsol bi">
 <!ENTITY clear.accesskey    "T">
-<!ENTITY codeEval.label     "Code:">
-<!ENTITY codeEval.accesskey "o">
+<!ENTITY codeEval.label     "Suulaale:">
+<!ENTITY codeEval.accesskey "u">
 <!ENTITY evaluate.label     "Evaluate">
 <!ENTITY evaluate.accesskey "v">
 
