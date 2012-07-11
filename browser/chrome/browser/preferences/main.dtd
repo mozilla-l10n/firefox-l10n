@@ -10,6 +10,10 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Pornire">
 
 <!ENTITY startupPage.label         "Când &brandShortName; pornește:">
@@ -17,8 +21,6 @@
 <!ENTITY startupHomePage.label     "Arată pagina mea de start">
 <!ENTITY startupBlankPage.label    "Arată o pagină goală">
 <!ENTITY startupLastSession.label  "Arată ferestrele și filele de ultima dată">
-<!ENTITY restoreOnDemand.label     "Nu încărca filele până nu sunt selectate">
-<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "Pagina de start:">
 <!ENTITY homepage.accesskey        "P">
