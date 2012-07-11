@@ -5,10 +5,10 @@
 <!ENTITY  blockPopups.label           "Zibikira ebyereeta byokka mu ddirisa">
 <!ENTITY  blockPopups.accesskey       "Z">
 <!ENTITY  popupExceptions.label       "Ebyawufu…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.accesskey   "w">
 
 <!ENTITY  loadImages.label            "Tikka ebifaananyi ebyeyolesa byokka">
-<!ENTITY  loadImages.accesskey        "e">
+<!ENTITY  loadImages.accesskey        "f">
 <!ENTITY  exceptions.label            "Ebyawufu…">
 <!ENTITY  exceptions.accesskey        "b">
 
@@ -21,15 +21,15 @@
 <!ENTITY  enableJava.accesskey        "s">
 
 
-<!ENTITY  fontsAndColors.label        "Ensengeka &amp; Mu langi">
+<!ENTITY  fontsAndColors.label        "Enukuta &amp; Langi">
 
-<!ENTITY  defaultFont.label           "Ensengeka eyenkalakkalira:">
-<!ENTITY  defaultFont.accesskey       "E">
-<!ENTITY  defaultSize.label           "Ekyipimo:">
-<!ENTITY  defaultSize.accesskey       "E">
+<!ENTITY  defaultFont.label           "Enukuta eyenkalakkalira:">
+<!ENTITY  defaultFont.accesskey       "n">
+<!ENTITY  defaultSize.label           "Obunene:">
+<!ENTITY  defaultSize.accesskey       "O">
 
 <!ENTITY  advancedFonts.label         "Ekisukkulumu…">
-<!ENTITY  advancedFonts.accesskey     "E">
+<!ENTITY  advancedFonts.accesskey     "l">
 
 <!ENTITY  colors.label                "Langi…">
 <!ENTITY  colors.accesskey            "L">

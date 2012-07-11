@@ -8,7 +8,7 @@
 <!ENTITY treehead.sitename.label      "Ekibanja">
 <!ENTITY treehead.status.label        "Embera">
 <!ENTITY removepermission.label       "Jjawo ekibanja">
-<!ENTITY removepermission.accesskey   "J">
+<!ENTITY removepermission.accesskey   "w">
 <!ENTITY removeallpermissions.label   "Jjawo ebibanja byonna">
 <!ENTITY removeallpermissions.accesskey "j">
 <!ENTITY address.label                "Endagiriro ye'ekibanja kumutimbagano:">

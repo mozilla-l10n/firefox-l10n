@@ -6,7 +6,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
 <!ENTITY warnCloseMultipleTabs.label  "Ndabula bwe mba nzigalawo awaddirira wangi">
-<!ENTITY warnCloseMultipleTabs.accesskey  "N">
+<!ENTITY warnCloseMultipleTabs.accesskey  "d">
 
 <!ENTITY warnOpenManyTabs.label       "Ndabula nga nziggulawo awaddirira wangi nga kiyinza okukendeza ku bwangu bwa &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "n">
