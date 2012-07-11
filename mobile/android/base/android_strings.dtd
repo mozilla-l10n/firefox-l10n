@@ -79,7 +79,7 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_font_size_tiny "小">
+<!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
 <!ENTITY pref_font_size_large "大">
@@ -98,7 +98,7 @@
 <!ENTITY quit "結束">
 
 <!ENTITY addons "附加元件">
-<!ENTITY downloads "下載">
+<!ENTITY downloads "下載項目">
 <!ENTITY char_encoding "語言及字元編碼">
 
 <!ENTITY share "分享">
