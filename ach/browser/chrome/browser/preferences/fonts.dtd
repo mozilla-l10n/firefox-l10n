@@ -18,7 +18,7 @@
 <!ENTITY  proportional.accesskey                  "R">
 
 <!ENTITY  serif.label                             "Rek ari macek:">
-<!ENTITY  serif.accesskey                         "R">
+<!ENTITY  serif.accesskey                         "e">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">

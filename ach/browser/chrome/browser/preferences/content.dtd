@@ -5,10 +5,10 @@
 <!ENTITY  blockPopups.label           "Jami me windows me Bloc pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Mukene…">
-<!ENTITY  popupExceptions.accesskey   "M">
+<!ENTITY  popupExceptions.accesskey   "e">
 
 <!ENTITY  loadImages.label            "Ket cale kene">
-<!ENTITY  loadImages.accesskey        "c">
+<!ENTITY  loadImages.accesskey        "l">
 <!ENTITY  exceptions.label            "Mukene…">
 <!ENTITY  exceptions.accesskey        "u">
 
@@ -32,7 +32,7 @@
 <!ENTITY  advancedFonts.accesskey     "M">
 
 <!ENTITY  colors.label                "Kala mapol…">
-<!ENTITY  colors.accesskey            "K">
+<!ENTITY  colors.accesskey            "o">
 
 
 <!ENTITY languages.label              "Leb mapol">

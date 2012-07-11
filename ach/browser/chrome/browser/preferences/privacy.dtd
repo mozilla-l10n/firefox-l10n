@@ -5,7 +5,7 @@
 <!ENTITY tracking.label                 "Ngiyo">
 
 <!ENTITY doNotTrack.label               "Waci kakube me Web ni pe amito ni kimaka">
-<!ENTITY doNotTrack.accesskey           "e">
+<!ENTITY doNotTrack.accesskey           "a">
 
 <!ENTITY  history.label                 "Lok macon">
 
@@ -20,7 +20,7 @@
 <!ENTITY  locbar.nothing.label          "Gin mo pe">
 
 <!ENTITY  acceptCookies.label           "Yee jami ma i kakube mukene">
-<!ENTITY  acceptCookies.accesskey       "Y">
+<!ENTITY  acceptCookies.accesskey       "j">
 
 <!ENTITY  acceptThirdParty.label        "Yee jami mukene">
 <!ENTITY  acceptThirdParty.accesskey    "e">
@@ -65,7 +65,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Jwii tii ki kite me yenyo mamegi">
-<!ENTITY  privateBrowsingPermanent2.accesskey "k">
+<!ENTITY  privateBrowsingPermanent2.accesskey "i">
 
 <!ENTITY  rememberHistory2.label      "Poo ikom yenyo mega ki kwanyo lok macon">
 <!ENTITY  rememberHistory2.accesskey  "k">

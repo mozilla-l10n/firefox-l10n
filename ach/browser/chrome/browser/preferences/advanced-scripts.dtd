@@ -10,6 +10,6 @@
 <!ENTITY moveResizePopupWindows.label     "Nyik onyo lok dit pa dirija ma pye atura">
 <!ENTITY moveResizePopupWindows.accesskey "N">
 <!ENTITY raiseLowerWindows.label        "Nyik malu onyo dwok ping dirija">
-<!ENTITY raiseLowerWindows.accesskey    "N">
+<!ENTITY raiseLowerWindows.accesskey    "i">
 <!ENTITY disableContextMenus.label      "Mi ka nongo pe tii onyo lok">
 <!ENTITY disableContextMenus.accesskey  "M">

@@ -11,14 +11,14 @@
 
 <!ENTITY  color                           "Nyig coc ki Yonge">
 <!ENTITY  textColor.label                 "Nyig coc:">
-<!ENTITY  textColor.accesskey             "N">
+<!ENTITY  textColor.accesskey             "i">
 <!ENTITY  backgroundColor.label           "Ngeye:">
 <!ENTITY  backgroundColor.accesskey       "N">
 <!ENTITY  useSystemColors.label           "Tii ki kala ne">
 <!ENTITY  useSystemColors.accesskey       "i">
 
 <!ENTITY  underlineLinks.label            "Ngol te kakube">
-<!ENTITY  underlineLinks.accesskey        "N">
+<!ENTITY  underlineLinks.accesskey        "o">
 <!ENTITY  links                           "Rangi me Kubo">
 <!ENTITY  linkColor.label                 "Kakubo ma pe kilimo:">
 <!ENTITY  linkColor.accesskey             "a">

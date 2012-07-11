@@ -11,7 +11,7 @@
 <!ENTITY startupLastSession.label  "Nyut dirija mera ki tab cako iyi mukato">
 
 <!ENTITY homepage.label            "Pot buk magang:">
-<!ENTITY homepage.accesskey        "m">
+<!ENTITY homepage.accesskey        "u">
 <!ENTITY useCurrentPage.label      "Tii ki pot karatc ma kombedi">
 <!ENTITY useCurrentPage.accesskey  "p">
 <!ENTITY useMultiple.label         "Tii ki pot buk ma kombedi">
@@ -23,7 +23,7 @@
 <!ENTITY downloads.label     "Kwanyo">
 
 <!ENTITY showWhenDownloading.label     "Nyut pot buk me kwanyo ka itye kakwanyo buk">
-<!ENTITY showWhenDownloading.accesskey "m">
+<!ENTITY showWhenDownloading.accesskey "b">
 <!ENTITY closeWhenDone.label "Ceg ka lakwany weng gutum">
 <!ENTITY closeWhenDone.accesskey "k">
 <!ENTITY saveTo.label "Gwok buk iyi">

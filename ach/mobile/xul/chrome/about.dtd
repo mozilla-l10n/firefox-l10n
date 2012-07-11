@@ -1,6 +1,6 @@
 <!ENTITY aboutPage.title                        "Makwako &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; kitwero temo ento nyo pe cung matek.">
-<!ENTITY aboutPage.telemetryStart               " cwalo pire kene ngec ikom kite me tic; nyonyo, ki keto pa dano cen i ">
+<!ENTITY aboutPage.telemetryStart               " Cwalo pire kene ngec ikom kite me tic; nyonyo, ki keto pa dano cen i ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " pi konyo miyo &brandShortName; obed maber.">
 <!ENTITY aboutPage.faq.label                    "FAQ">

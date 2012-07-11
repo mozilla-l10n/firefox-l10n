@@ -9,7 +9,7 @@
 <!ENTITY accessibility.label             "Kite me nongo">
 
 <!ENTITY useCursorNavigation.label       "Tii ki jami me nyiko pi beyo iyi pot buk">
-<!ENTITY useCursorNavigation.accesskey   "n">
+<!ENTITY useCursorNavigation.accesskey   "j">
 <!ENTITY searchStartTyping.label         "Yeny pi coc ka acako coyo coc">
 <!ENTITY searchStartTyping.accesskey     "c">
 <!ENTITY blockAutoRefresh.label          "Kwenyoro ka kakube tye katemo me nyutu onyo pango pot buk">
@@ -24,7 +24,7 @@
 <!ENTITY allowHWAccel.label              "Tii ki dwiro ma nyonyo medo ka tye">
 <!ENTITY allowHWAccel.accesskey          "o">
 <!ENTITY checkSpelling.label             "Rot nukta mamega calo A co">
-<!ENTITY checkSpelling.accesskey         "c">
+<!ENTITY checkSpelling.accesskey         "R">
 
 <!ENTITY systemDefaults.label            "Kite ne">
 <!--XXX-->
@@ -34,7 +34,7 @@
 <!ENTITY setDefault.accesskey            "l">
 <!ENTITY isDefault.label                 "&brandShortName; obedo layeny me gang mamegi">
 <!ENTITY submitCrashes.label             "Cwal ngec me poto atura">
-<!ENTITY submitCrashes.accesskey         "C">
+<!ENTITY submitCrashes.accesskey         "w">
 <!ENTITY submitTelemetry.label           "Cwal tic me jami">
 <!ENTITY submitTelemetry.accesskey       "t">
 
@@ -60,9 +60,9 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "M">
 <!ENTITY limitCacheSizeAfter.label       "Rwom kabedo me MB">
 <!ENTITY clearCacheNow.label             "Kwany Kombedi">
-<!ENTITY clearCacheNow.accesskey         "K">
+<!ENTITY clearCacheNow.accesskey         "w">
 <!ENTITY clearOfflineAppCacheNow.label   "Kwany Kombedi">
-<!ENTITY clearOfflineAppCacheNow.accesskey "K">
+<!ENTITY clearOfflineAppCacheNow.accesskey "w">
 <!ENTITY overrideSmartCacheSize.label    "Le kit ne ma kene ki kite me loyo gwoko">
 <!ENTITY overrideSmartCacheSize.accesskey "L">
 
@@ -70,7 +70,7 @@
 
 <!ENTITY updateApp.label                 "&brandShortName; Ngec:">
 <!ENTITY updateAuto.label                "Ket ngec pire kene (kimoko woko: gwoko kuc ma ki yubo)">
-<!ENTITY updateAuto.accesskey            "K">
+<!ENTITY updateAuto.accesskey            "n">
 <!ENTITY updateCheck.label               "Rot pi ngec, ento wek ayer ka aromo keto gi">
 <!ENTITY updateCheck.accesskey           "R">
 <!ENTITY updateManual.label              "Pe i rot pi ngec (pe kimoko: twero me gwoko kuc)">
@@ -109,7 +109,7 @@
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificates">
 <!ENTITY certSelection.description       "Ka lapok tic kwayo pi Certificate para:">
-<!ENTITY certs.auto                      "Yer acel pire kene">
+<!ENTITY certs.auto                      "Yer acel pire kekene">
 <!ENTITY certs.auto.accesskey            "I">
 <!ENTITY certs.ask                       "Penya caa weng">
 <!ENTITY certs.ask.accesskey             "i">

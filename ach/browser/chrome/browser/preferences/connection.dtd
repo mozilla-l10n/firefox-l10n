@@ -15,7 +15,7 @@
 <!ENTITY  WPADTypeRadio.label           "Nong proxy mekene iyi kakube">
 <!ENTITY  WPADTypeRadio.accesskey       "u">
 <!ENTITY  manualTypeRadio.label         "Yiko proxy maiketo:">
-<!ENTITY  manualTypeRadio.accesskey     "Y">
+<!ENTITY  manualTypeRadio.accesskey     "x">
 <!ENTITY  autoTypeRadio.label           "Cano proxi kene i URL:">
 <!ENTITY  autoTypeRadio.accesskey       "C">
 <!ENTITY  reload.label                  "Pang odoco">

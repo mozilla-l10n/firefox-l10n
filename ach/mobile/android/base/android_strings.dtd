@@ -47,10 +47,10 @@
 
 <!ENTITY reload "Nwo pango">
 <!ENTITY forward "Cwal anyim">
-<!ENTITY menu "Menu">
-<!ENTITY back "Back">
+<!ENTITY menu "Nying Jami">
+<!ENTITY back "Cen">
 <!ENTITY stop "Juk">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Ber bedo me Dyer bar">
 
 <!ENTITY close_tab "Lor Dirica matidi">
 <!ENTITY new_tab "Tab Manyen">
@@ -64,6 +64,7 @@
 <!ENTITY pref_category_general "Kacel">
 <!ENTITY pref_category_privacy "I mung pa dano &amp; Gwoko kuc">
 <!ENTITY pref_category_content "Gin manonge iye">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Makwako &brandShortName;">
 <!ENTITY pref_do_not_track "Waci kakube pe maka">
 <!ENTITY pref_telemetry "Cwal tic me jami">
@@ -71,11 +72,8 @@
 <!ENTITY pref_cookies "Mii kakube tii">
 <!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
 <!ENTITY pref_char_encoding_on "Nyut acaki">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_history "Jwa lok mukato">
-<!ENTITY pref_clear_history_confirm "Yenyo lok mukato bi jwane woko">
+<!ENTITY pref_char_encoding_off "Pe\ i nyut cako">
 <!ENTITY pref_clear_private_data "Ywe tic pa dano">
-<!ENTITY pref_clear_private_data_confirm "Tero Yenyo, medo iye i cwil me donyo ki kube, ki bi jwano woko">
 <!ENTITY pref_plugins "Rwaki iyie">
 <!ENTITY pref_plugins_enabled "Mi tii">
 <!ENTITY pref_plugins_tap_to_play "Gwet wek tuki">
@@ -88,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Madit loyo">
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies "Kakube me intanet">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Active logins">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
 
 <!ENTITY quit "Wek woko">
 
@@ -99,6 +105,7 @@
 <!ENTITY share_title "Nywak kun beo">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
 <!ENTITY find_in_page "Find in Page">
+<!ENTITY desktop_mode "Kwa Di bar me cal ma i kompiuta">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -140,6 +147,7 @@
 
 <!ENTITY button_ok "Kakare">
 <!ENTITY button_cancel "Jwik">
+<!ENTITY button_clear_data "Clear data">
 
 <!ENTITY abouthome_addons_title "Med iwiye pi &brandShortName; megi">
 <!ENTITY abouthome_addons_browse "Yeny &brandShortName; weng pi med iwiye">
@@ -170,3 +178,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "En aye tiyo kwede">
+
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">

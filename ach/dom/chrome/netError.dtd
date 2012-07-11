@@ -57,7 +57,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Kiyubu layeny me tic ki lapok tic me proxi, ento proxi pe onongo romo nonge.</p><ul><li>can me proxi pa layeny tye kakare? Rot tera ki item doki.</li><li>Kompiuta tye okube i kakube me wiyamo ma kiti?</li><li>Pwod tye ki ayela? Kube ki lalo kakube me wiyamo ni onyo lagab intanet pi kony.</li></ul>">
 
 <!ENTITY redirectLoop.title "Nyutu odoco nyo">
-<!ENTITY redirectLoop.longDesc "<p>layeny ogiko teme me gamo jami ma kikwayo pire. Di bar tye kanyutu kwac i yore ma pe bityeko.</p><ul><li> Ityeko juko woko onyo gengo kakube mamite pi di bar mman?</li><li><em>NOTE</em>: Ka yee kakube me di bar pe ocobo peko. romo bedo can pa lapok tic ki pe kompiuta mamegi.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Layeny ogiko teme me gamo jami ma kikwayo pire. Di bar tye kanyutu kwac i yore ma pe bityeko.</p><ul><li> Ityeko juko woko onyo gengo kakube mamite pi di bar mman?</li><li><em>NOTE</em>: Ka yee kakube me di bar pe ocobo peko. romo bedo can pa lapok tic ki pe kompiuta mamegi.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Lagam mape kakare">
 <!ENTITY unknownSocketType.longDesc "<p>Di bar ogamo kwac me kakube iyore ma pe kigeno ki layeny pe twero mede anyim.</p>">
