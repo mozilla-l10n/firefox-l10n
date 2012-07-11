@@ -6,7 +6,7 @@
 
 <!ENTITY devmgr.devlist.label                   "安全模組與裝置">
 <!ENTITY devmgr.details.title                   "詳細資訊">
-<!ENTITY devmgr.details.title2                  "內含值">
+<!ENTITY devmgr.details.title2                  "值">
 <!ENTITY devmgr.status.label                    "狀態">
 <!ENTITY devmgr.version.label                   "版本">
 

@@ -33,7 +33,7 @@
 <!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "文字">
-<!ENTITY ValueHeader.label "內含值">
+<!ENTITY ValueHeader.label "值">
 <!ENTITY SelectedHeader.label "已選取">
 
 <!ENTITY AddOption.label "增加選項">

@@ -34,5 +34,5 @@
 <!ENTITY authRequired.button.label        "授權">
 <!ENTITY authRequired.button.accesskey    "u">
 
-<!ENTITY enableCloudFileAccountOffer.label "提供您分享超過下列大小的檔案:">
+<!ENTITY enableCloudFileAccountOffer.label "檔案超過一定大小時使用雲端鏈結服務:">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
