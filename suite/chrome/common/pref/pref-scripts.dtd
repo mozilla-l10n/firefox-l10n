@@ -11,9 +11,9 @@
 <!ENTITY navigator.accesskey             "B">
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
-<!ENTITY enableJavaScript.label          "下列情形可使用 JavasScript:">
-<!ENTITY allowScripts.label              "允許網頁 Script 可以:">
-<!ENTITY allowScripts.accesskey          "S">
+<!ENTITY enableJavaScript.label          "下列情形可使用 JavaScript:">
+<!ENTITY allowScripts.label              "允許網頁指令碼執行下列操作:">
+<!ENTITY allowScripts.accesskey          "s">
 <!ENTITY allowWindowMoveResize.label     "移動或改變視窗大小">
 <!ENTITY allowWindowFlip.label           "顯示視窗於最上層或移至下層">
 <!ENTITY allowWindowStatusChange.label   "改變狀態列文字">
