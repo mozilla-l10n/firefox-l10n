@@ -575,7 +575,7 @@
 <!ENTITY removePhishingBarButton.label "N'est pas frauduleux">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "L'auteur de ce message a souhaité être prévenu lorsque vous lirez ce message. Souhaitez-vous avertir l'expéditeur ?">
 <!ENTITY mdnBarIgnoreButton.label "Ignorer">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "Envoyer un accusé de réception">
-
+<!ENTITY mdnBarSendButton.accesskey "E">
