@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Zabor-posta">
 <!ENTITY itemPhishing.label      "Posta-iruzurrak">
 <!ENTITY itemPasswords.label     "Pasahitzak">
@@ -56,4 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "S">
 <!ENTITY showCookies.label              "Erakutsi cookie-ak…">
 <!ENTITY showCookies.accesskey          "E">
+<!-- Do Not Track -->
 
+<!ENTITY doNotTrack.label               "Esan webguneei nire jarraipenik ez egiteko">
+<!ENTITY doNotTrack.accesskey           "r">

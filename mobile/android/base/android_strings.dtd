@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "&brandShortName; konfiguratzen">
 <!ENTITY  splash_bookmarks_history "Zure laster-markak eta historia eguneratzen ari gara eta minutu inguru har dezake.">
@@ -44,7 +48,11 @@
 <!ENTITY reload "Birkargatu">
 <!ENTITY forward "Aurrera">
 
+<!ENTITY close_tab "Itxi fitxa">
 <!ENTITY new_tab "Fitxa berria">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d fitxa">
 <!ENTITY new_tab_opened "Fitxa berria irekita">
 
 <!ENTITY settings "Ezarpenak">
@@ -86,12 +94,25 @@
 <!ENTITY share "Partekatu">
 <!ENTITY share_title "Partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
+<!ENTITY find_in_page "Bilatu orrian">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Bilatu orrian">
+<!ENTITY find_prev "Aurrekoa">
+<!ENTITY find_next "Hurrengoa">
+<!ENTITY find_close "Itxi">
 
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
+<!ENTITY contextmenu_remove_history "Kendu">
 <!ENTITY contextmenu_remove_bookmark "Kendu">
 <!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
 <!ENTITY contextmenu_share "Partekatu">
 <!ENTITY contextmenu_edit_bookmark "Editatu">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "Orria kenduta">
 
 <!ENTITY bookmark_edit_title "Editatu laster-marka">
 <!ENTITY bookmark_edit_name "Izena">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "Utzi">
 <!ENTITY site_settings_clear        "Garbitu">
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
+
+<!ENTITY add_to_reading_list "Gehitu irakurketa-zerrendara">
+<!ENTITY reading_list_added "Orria irakurketa-zerrendara gehituta">
+<!ENTITY reading_list_removed "Orria irakurketa-zerrendatik kenduta">
+<!ENTITY reader_mode "Reader Mode">
 
 <!ENTITY masterpassword_create_title "Sortu pasahitz nagusia">
 <!ENTITY masterpassword_remove_title "Kendu pasahitz nagusia">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "Aukeratu edo grabatu soinua">
 <!ENTITY filepicker_image_title "Aukeratu edo egin argazkia">
 <!ENTITY filepicker_video_title "Aukeratu edo grabatu bideoa">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Hona konektatuta: ">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "Honen menpe dago: ">

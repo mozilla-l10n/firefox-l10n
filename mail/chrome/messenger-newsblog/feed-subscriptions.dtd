@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label     "Jario harpidetzak">
 <!ENTITY subscriptionDesc.label      "Oharra: Jario batentzat karpeta ezabatu edo aldatzeak ez du aurretik deskargatutako artikuluengan eraginik izango.">
 
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Esportatu">
 <!ENTITY button.exportOPML.accesskey "s">
+<!ENTITY button.exportOPML.tooltip   "Esportatu jarioak karpeta-egiturarekin; ktrl-klik edo ktrl-sartu jarioak zerrenda gisa esportatzeko">
 
 <!ENTITY cmd.close.commandKey        "w">

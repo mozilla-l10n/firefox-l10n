@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Iragazkien arauak">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Iragazkiaren izena:">
@@ -40,3 +44,6 @@
 <!ENTITY ignoreSubthread.label "Ezikusi azpiharia">
 <!ENTITY watchThread.label "Ikusi haria">
 <!ENTITY stopExecution.label "Gelditu iragazkiaren exekuzioa">
+
+<!ENTITY addAction.tooltip "Gehitu ekintza berria">
+<!ENTITY removeAction.tooltip "Kendu ekintza hau">

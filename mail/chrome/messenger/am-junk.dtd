@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Zabor-postaren ezarpenak">
-<!ENTITY trainingWarning.label "Gaituta badago, lehenik eta behin &brandShortName; trebatu behar duzu zabor-posta atzemateko tresna-barrako zabor-posta botoia erabiliz mezuak zabor gisa edo ez markatzeko. Biak zehaztu behar dituzu, zabor mezuak eta hala ez direnak.">
+<!ENTITY trainingDescription.label "Gaituta badago, &brandShortName; entrenatu behar duzu lehenik zabor-posta identifika dezan zabor-postaren tresna-barrako botoia erabiliz mezuak zabor gisa edo ez markatzeko. Zaborra diren eta ez diren mezuak identifikatu behar dituzu. Horren ondoren, &brandShortName; gai izango da zaborra automatikoki markatzeko.">
 <!ENTITY level.label "Gaitu zabor-posta kontrol moldakorrak kontu honentzat">
 <!ENTITY level.accesskey "G">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "egun">
 
-<!ENTITY whitelist.label "Ez markatu mezua zabor gisa bidaltzailea hemen badago: ">
-<!ENTITY whitelist.accesskey "E">
+<!ENTITY whitelistHeader.label "Ez markatu mezua automatikoki zabor gisa bidaltzailea hemen badago: ">
+<!ENTITY whitelistHeader.accesskey "E">
 
+<!ENTITY ispHeadersWarning.label "Gaituta badago, &brandShortName;(e)k automatikoki hartuko ditu zabortzat kanpoko sailkatzaile honek markatutako mezuak.">
 <!ENTITY ispHeaders.label "Fidatu hauek ezarritako zabor-posta goiburuez: ">
 <!ENTITY ispHeaders.accesskey "t">
+
+<!ENTITY junkClassification.label "Aukera">
+<!ENTITY junkActions.label "Helburua eta atxikipena">
