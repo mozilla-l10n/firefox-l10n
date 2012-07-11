@@ -489,6 +489,7 @@
 <!ENTITY loadRemoteContentButton.label "Загрузить содержимое из Интернета">
 <!ENTITY phishingBarMessage.label "&brandShortName; считает, что это сообщение, возможно, является мошенническим">
 <!ENTITY removePhishingBarButton.label "Не мошенническое">
-<!ENTITY mdnBarMessage.label "Отправитель этого сообщения запросил уведомление о прочтении вами этого сообщения. Вы хотите уведомить отправителя?">
 <!ENTITY mdnBarIgnoreButton.label "Игнорировать запрос">
+<!ENTITY mdnBarIgnoreButton.accesskey "н">
 <!ENTITY mdnBarSendButton.label "Отправить уведомление">
+<!ENTITY mdnBarSendButton.accesskey "п">
