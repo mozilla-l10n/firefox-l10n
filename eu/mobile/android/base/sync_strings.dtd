@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
@@ -40,12 +44,13 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Konfigurazioa osatuta">
-<!ENTITY sync.subtitle.success.label "Zure datuak atzeko planoan ari dira deskargatzen. Aukeretara joan zaitezke zure kontua kudeatzeko.">
+<!ENTITY sync.subtitle.success.label1 "Zure datuak atzeko planoan ari dira deskargatzen orain. Ezarpenetara joan zaitezke zure kontua kudeatzeko edo bestela &brandShortName;(e)kin nabigatzen has zaitezke.">
 <!ENTITY sync.settings.label "Ezarpenak">
-<!ENTITY sync.subtitle.manage.label "Zure &syncBrand.fullName.label; kontua konfiguratuta dago. Joan ezarpenetara zure kontua kudeatzeko.">
+<!ENTITY sync.subtitle.manage.label1 "Zure &syncBrand.fullName.label; kontua konfiguratuta dago. Ezarpenetara joan zaitezke zure kontua kudeatzeko edo abiarazi &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Saiatu berriro mesedez.">
+<!ENTITY sync.pair.connectlocation.label "Zure gailu berria aktibatzeko, hautatu “Konfiguratu &syncBrand.shortName.label;” gailuan eta gero hautatu “Badaukat kontua”.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Aukerak">
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Ordenatu gabeko laster-markak">
 <!ENTITY bookmarks.folder.desktop.label "Laster-marka guztiak">
 <!ENTITY bookmarks.folder.mobile.label "Mugikorreko laster-markak">
+<!ENTITY bookmarks.folder.readinglist.label "Irakurketa-zerrenda">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu bakarra onartzen da.">

@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpServer.label "Posta bidaltzeko zerbitzariaren (SMTP) ezarpenak">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDesc.label "Nahiz eta posta bidaltzeko zerbitzari (SMTP) bat baino gehiago konfiguratzeko aukera egon, erabiltzaile aurreratuentzako bakarrik gomendatzen da. Hainbat SMTP zerbitzari ezartzeak erroreak ekar ditzake mezuak bidaltzerakoan.">
+<!ENTITY smtpServer.label "Posta bidaltzeko zerbitzariaren (SMTP) ezarpenak">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDescription.label "Zure identitateak kudeatzean zerrenda honetako zerbitzari bat erabil dezakezu irteerako zerbitzari gisa (SMTP) hautatuz edo zerbitzari lehenetsia erabil dezakezu &quot;Erabili zerbitzari lehenetsia&quot; hautatuz.">
 
 <!ENTITY smtpListAdd.label  "Gehitu…">
 <!ENTITY smtpListAdd.accesskey  "G">

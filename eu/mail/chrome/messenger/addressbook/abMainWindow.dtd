@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Helbide-liburua">
 <!-- File Menu -->
 
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "I">
 <!ENTITY PrimaryEmail.label                             "Helbide elektronikoa">
 <!ENTITY PrimaryEmail.accesskey                         "e">
-<!ENTITY ScreenName.label                               "Pantailako izena">
-<!ENTITY ScreenName.accesskey                           "P">
+<!ENTITY ChatName.label                                 "Txateko izena">
+<!ENTITY ChatName.accesskey                             "T">
 <!ENTITY Company.label                                  "Erakundea:">
 <!ENTITY Company.accesskey                              "k">
 <!ENTITY NickName.label                                 "Goitizena">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Kontaktua">
 <!ENTITY home.heading                                   "Etxea">
 <!ENTITY other.heading                                  "Besteak">
+<!ENTITY chat.heading                                   "Txata">
 <!ENTITY phone.heading                                  "Telefonoa">
 <!ENTITY work.heading                                   "Lana">
 <!-- Special Box Headings, for mailing lists -->

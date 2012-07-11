@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "B">
 <!ENTITY newIMAccountCmd.label "Txat-kontua…">
 <!ENTITY newIMAccountCmd.accesskey "T">
+<!ENTITY newIMContactCmd.label "Txat-kontaktua…">
+<!ENTITY newIMContactCmd.accesskey "x">
 <!ENTITY openMessageFileCmd.label "Ireki gordetako mezua…">
 <!ENTITY openMessageFileCmd.accesskey "I">
 <!ENTITY openAttachmentCmd.label "Eranskinak">
@@ -446,7 +452,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY recalculateJunkScoreCmd.accesskey "k">
 <!ENTITY openMessageWindowCmd.label "Ireki mezua">
 <!ENTITY openMessageWindowCmd.accesskey "I">
-<!ENTITY openMessageWindowCmd.key "I">
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Ireki hizketaldian">
 <!ENTITY openConversationCmd.accesskey "h">
 <!ENTITY openConversationCmd.key "o">
@@ -480,6 +486,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Ez dago erabilgarri">
 <!ENTITY imStatus.offline            "Lineaz kanpo">
 <!ENTITY imStatus.showAccounts       "Erakutsi kontuak…">
+<!ENTITY joinChatCmd.label "Sartu txatera…">
+<!ENTITY joinChatCmd.accesskey "S">
 <!ENTITY savedFiles.label "Gordetako fitxategiak">
 <!ENTITY savedFiles.accesskey "t">
 <!ENTITY savedFiles.key "j">
@@ -775,7 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage1.label "Zabor-posta">
+<!ENTITY junkBarMessage2.label "&brandShortName;(e)k uste du mezu hau zabor-posta dela.">
 <!ENTITY junkBarButton1.label "Ez da zaborra">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
