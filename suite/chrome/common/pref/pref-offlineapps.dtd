@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "離線網頁應用程式">
+<!ENTITY pref.offlineCache.caption          "離線網頁內容與使用者資料">
+
+<!ENTITY clearOfflineAppCache.label         "清除">
+<!ENTITY clearOfflineAppCache.accesskey     "C">
+
+<!ENTITY offlineNotify.label                "若網站要求儲存資料以供離線使用時告訴我。">
+<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineNotifyPermissions.label     "管理權限">
+<!ENTITY offlineNotifyPermissions.accesskey "P">
+
+<!ENTITY offlineAppsList.label              "下列網站已被允許在本機儲存資料供離線使用:">
+<!ENTITY offlineAppsListRemove.label        "清除資料…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">
