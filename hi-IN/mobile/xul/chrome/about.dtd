@@ -13,10 +13,10 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "अद्यतन के लिए देख रहे हैं…">
 <!ENTITY aboutPage.checkForUpdates.none         "कोई अद्यतन उपलब्ध नहीं">
 <!ENTITY aboutPage.checkForUpdates.found        "अद्यतन अनुपलब्ध">
-
-
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
+
+
 <!ENTITY aboutPage.licenseLink                  "लाइसेंसिंग सूचना">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">

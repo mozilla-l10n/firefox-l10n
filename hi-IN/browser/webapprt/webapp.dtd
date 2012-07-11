@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+
+<!ENTITY fileMenu.label                     "फ़ाइल">
+<!ENTITY fileMenu.accesskey                 "F">
+
+<!ENTITY quitApplicationCmdWin.label        "बाहर">
+<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmd.label           "बाहर जाएँ (Q)">
+<!ENTITY quitApplicationCmd.accesskey       "Q">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "अन्य छिपाएँ">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "सभी दिखाएँ">
+
+<!ENTITY editMenu.label                     "संपादन (E )">
+<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY undoCmd.label                      "पहले जैसा (U)">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "U">
+<!ENTITY redoCmd.label                      "दोहराएँ (R)">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "R">
+<!ENTITY cutCmd.label                       "काटें (t)">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY copyCmd.label                      "नक़ल लें (C)">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY pasteCmd.label                     "चिपकाएँ (P)">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "P">
+<!ENTITY deleteCmd.label                    "मिटाएँ (D)">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "D">
+<!ENTITY selectAllCmd.label                 "सभी चुनें (A)">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "A">
