@@ -7,7 +7,7 @@
 <!ENTITY aboutPage.telemetryEnd                 " ਨੂੰ ਭੇਜਦਾ ਹੈ ਤਾਂ ਕਿ 
 &brandShortName; ਨੂੰ ਵਧੀਆ ਬਣਾਇਆ ਜਾ ਸਕੇ।">
 <!ENTITY aboutPage.checkForUpdates.link         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ »">
-<!ENTITY aboutPage.checkForUpdates.checking     "…ਅੱਪਡੇਟ ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ…">
+<!ENTITY aboutPage.checkForUpdates.checking     "…ਅੱਪਡੇਟ ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ">
 <!ENTITY aboutPage.checkForUpdates.none         "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ">
 <!ENTITY aboutPage.checkForUpdates.found        "ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
 <!ENTITY aboutPage.faq.label                    "ਸਵਾਲ-ਜਵਾਬ">
