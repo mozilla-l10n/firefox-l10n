@@ -50,7 +50,7 @@
 <!ENTITY menu "Clàr-taice">
 <!ENTITY back "Air ais">
 <!ENTITY stop "Sguir dheth">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Tèarainteachd na làraich">
 
 <!ENTITY close_tab "Dùin an taba">
 <!ENTITY new_tab "Taba ùr">
@@ -64,6 +64,7 @@
 <!ENTITY pref_category_general "Coitcheann">
 <!ENTITY pref_category_privacy "Prìobhaideachd ┐ Tèarainteachd">
 <!ENTITY pref_category_content "Susbaint">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \'gam thracadh">
 <!ENTITY pref_telemetry "Cuir dàta mun dèanadas">
@@ -72,10 +73,7 @@
 <!ENTITY pref_char_encoding "Còdachadh charactairean">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
 <!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
-<!ENTITY pref_clear_history "Glan an eachdraidh">
-<!ENTITY pref_clear_history_confirm "Thèid an eachdraidh brabhsaidh a sguabadh às">
 <!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
-<!ENTITY pref_clear_private_data_confirm "Thèid na roghainnean brabhsaidh a sguabadh às, a\' gabhail a-steach na faclan-faire \'s briosgaidean.">
 <!ENTITY pref_plugins "Plugain">
 <!ENTITY pref_plugins_enabled "Air a chur an comas">
 <!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
@@ -88,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Anabarrach mòr">
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies "Briosgaidean">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Active logins">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
 
 <!ENTITY quit "Fàg an-seo">
 
@@ -99,6 +105,7 @@
 <!ENTITY share_title "Co-roinn slighe">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
 <!ENTITY find_in_page "Lorg san duilleag">
+<!ENTITY desktop_mode "Iarr làrach nan desktop">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -140,6 +147,7 @@
 
 <!ENTITY button_ok "Ceart ma-tha">
 <!ENTITY button_cancel "Sguir dheth">
+<!ENTITY button_clear_data "Clear data">
 
 <!ENTITY abouthome_addons_title "Tuilleadain airson &brandShortName; agad">
 <!ENTITY abouthome_addons_browse "Brabhsaich gach tuilleadan &brandShortName;">
@@ -170,3 +178,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a tha \'ga ruith le">
+
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">
