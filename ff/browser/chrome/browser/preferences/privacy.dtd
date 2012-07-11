@@ -5,7 +5,7 @@
 <!ENTITY tracking.label                 "Rewindagol">
 
 <!ENTITY doNotTrack.label               "Haalan lowe geese mi yiɗaa rewindeede">
-<!ENTITY doNotTrack.accesskey           "m">
+<!ENTITY doNotTrack.accesskey           "r">
 
 <!ENTITY  history.label                 "Aslol">
 
@@ -36,7 +36,7 @@
 <!ENTITY  cookieExceptions.accesskey    "P">
 
 <!ENTITY  showCookies.label             "Hollu kukiiji…">
-<!ENTITY  showCookies.accesskey         "H">
+<!ENTITY  showCookies.accesskey         "u">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; maa:">
 <!ENTITY  historyHeader.pre.accesskey      "m">
@@ -65,7 +65,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Huutoro peeragol suturo sahaa kala">
-<!ENTITY  privateBrowsingPermanent2.accesskey "H">
+<!ENTITY  privateBrowsingPermanent2.accesskey "o">
 
 <!ENTITY  rememberHistory2.label      "Siiftor peeragol am tee aawto aslol">
 <!ENTITY  rememberHistory2.accesskey  "t">

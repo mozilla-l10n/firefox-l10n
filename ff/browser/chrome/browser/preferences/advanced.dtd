@@ -8,12 +8,12 @@
 
 <!ENTITY accessibility.label             "Weeɓitaare">
 
-<!ENTITY useCursorNavigation.label       "Huutoro ŋiiƴe jamngel ngel ngam feeraade e nder kelle">
-<!ENTITY useCursorNavigation.accesskey   "j">
+<!ENTITY useCursorNavigation.label       "Huutoro ñiiƴe jamngel ngel ngam feeraade e nder kelle">
+<!ENTITY useCursorNavigation.accesskey   "n">
 <!ENTITY searchStartTyping.label         "Yiylo binndol so mi fuɗɗiima tappude">
 <!ENTITY searchStartTyping.accesskey     "d">
 <!ENTITY blockAutoRefresh.label          "Reentin-am so lowe geese etiima yiiltude walla hesɗitinde hello ngoo">
-<!ENTITY blockAutoRefresh.accesskey      "w">
+<!ENTITY blockAutoRefresh.accesskey      "e">
 
 <!ENTITY browsing.label                  "Nana feeroo">
 
@@ -24,7 +24,7 @@
 <!ENTITY allowHWAccel.label              "Huutoro moylinol njamndeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkSpelling.label             "Ƴeewto mbinndiin am so miɗo tappa">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkSpelling.accesskey         "m">
 
 <!ENTITY systemDefaults.label            "Goowaaɗi Yuɓɓo">
 <!--XXX-->
@@ -90,7 +90,7 @@
 <!ENTITY enableSearchUpdate.accesskey    "o">
 
 <!ENTITY offlineNotify.label             "Haalan am so lowre geese naamniima mooftude keɓe ngam huutoreede e ceŋtol">
-<!ENTITY offlineNotify.accesskey         "l">
+<!ENTITY offlineNotify.accesskey         "g">
 <!ENTITY offlineNotifyExceptions.label   "Paltooje…">
 <!ENTITY offlineNotifyExceptions.accesskey "l">
 

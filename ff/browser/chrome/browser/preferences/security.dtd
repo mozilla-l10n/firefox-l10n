@@ -16,7 +16,7 @@
 <!ENTITY  blockAttackSites.accesskey "l">
 
 <!ENTITY  blockWebForgeries.label     "Falo maawe geese jaŋtaaɗe">
-<!ENTITY  blockWebForgeries.accesskey "F">
+<!ENTITY  blockWebForgeries.accesskey "m">
 
 <!ENTITY  addonExceptions.label         "Paltooje…">
 <!ENTITY  addonExceptions.accesskey     "P">
@@ -30,7 +30,7 @@
 <!ENTITY  passwordExceptions.accesskey  "a">
 
 <!ENTITY  useMasterPassword.label        "Huutoro finnde baabaare">
-<!ENTITY  useMasterPassword.accesskey    "H">
+<!ENTITY  useMasterPassword.accesskey    "o">
 <!ENTITY  changeMasterPassword.label     "Waylu Finnde Baabaare…">
 <!ENTITY  changeMasterPassword.accesskey "B">
 

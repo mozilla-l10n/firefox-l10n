@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  blockPopups.label           "Falo kenorɗe cuppitte">
-<!ENTITY  blockPopups.accesskey       "F">
+<!ENTITY  blockPopups.accesskey       "o">
 <!ENTITY  popupExceptions.label       "Paltooje…">
 <!ENTITY  popupExceptions.accesskey   "P">
 
 <!ENTITY  loadImages.label            "Loow nate ɗee e jaajol">
-<!ENTITY  loadImages.accesskey        "a">
+<!ENTITY  loadImages.accesskey        "n">
 <!ENTITY  exceptions.label            "Paltooje…">
 <!ENTITY  exceptions.accesskey        "a">
 

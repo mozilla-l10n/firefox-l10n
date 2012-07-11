@@ -11,7 +11,7 @@
 <!ENTITY  noProxyTypeRadio.label        "Alaa proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Huutoro proxy yuɓɓo">
-<!ENTITY  systemTypeRadio.accesskey     "H">
+<!ENTITY  systemTypeRadio.accesskey     "x">
 <!ENTITY  WPADTypeRadio.label           "Ejto teelte proxy ngol laylaytol e jaajol">
 <!ENTITY  WPADTypeRadio.accesskey       "p">
 <!ENTITY  manualTypeRadio.label         "Teeltannde proxy e junngol:">

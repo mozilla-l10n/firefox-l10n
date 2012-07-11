@@ -48,9 +48,9 @@
 <!ENTITY reload "Hesɗitin">
 <!ENTITY forward "Yeeso">
 <!ENTITY menu "Dosol">
-<!ENTITY back "Back">
+<!ENTITY back "Caggal">
 <!ENTITY stop "Dartin">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Kisal Lowre">
 
 <!ENTITY close_tab "Uddu Tabbere">
 <!ENTITY new_tab "Tabbere Hesere">
@@ -64,6 +64,7 @@
 <!ENTITY pref_category_general "Kuuɓal">
 <!ENTITY pref_category_privacy "Suturo &amp; Kisal">
 <!ENTITY pref_category_content "Loowdi">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Baɗte &brandShortName;">
 <!ENTITY pref_do_not_track "Haalan lowe mi yiɗaa rewindeede">
 <!ENTITY pref_telemetry "Neldu keɓe moƴƴugol">
@@ -72,10 +73,7 @@
 <!ENTITY pref_char_encoding "Dokkitannde alkule">
 <!ENTITY pref_char_encoding_on "Hollu dosol">
 <!ENTITY pref_char_encoding_off "Hoto hollu dosol">
-<!ENTITY pref_clear_history "Momtu aslol">
-<!ENTITY pref_clear_history_confirm "Aslol banngagol maa momte">
 <!ENTITY pref_clear_private_data "Momtu keɓe sirluuje">
-<!ENTITY pref_clear_private_data_confirm "Teelte banngagol, yantude e finndeeji e kukiije, maa momte">
 <!ENTITY pref_plugins "Ceŋe">
 <!ENTITY pref_plugins_enabled "Daaƴtaaɗo">
 <!ENTITY pref_plugins_tap_to_play "Fiy ngam tarde">
@@ -88,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Ɓurnde Mawnude">
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_sync "Sanngoɗin">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies "Kukiije">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Active logins">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
 
 <!ENTITY quit "Yaltu">
 
@@ -99,6 +105,7 @@
 <!ENTITY share_title "Simmin fayde">
 <!ENTITY save_as_pdf "Danndu e PDF">
 <!ENTITY find_in_page "Yiylo e Hello">
+<!ENTITY desktop_mode "Ɗaɓɓit Lowre Biro">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -140,6 +147,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Haaytu">
+<!ENTITY button_clear_data "Clear data">
 
 <!ENTITY abouthome_addons_title "Ɓeyditte &brandShortName; maa">
 <!ENTITY abouthome_addons_browse "Yiylo ɓeyditte &brandShortName; fof">
@@ -170,3 +178,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "yuɓɓini ɗum ko">
+
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">

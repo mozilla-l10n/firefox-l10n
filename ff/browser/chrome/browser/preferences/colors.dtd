@@ -15,7 +15,7 @@
 <!ENTITY  backgroundColor.label           "Cakkital:">
 <!ENTITY  backgroundColor.accesskey       "C">
 <!ENTITY  useSystemColors.label           "Huutoro nooneeji yuɓɓo">
-<!ENTITY  useSystemColors.accesskey       "H">
+<!ENTITY  useSystemColors.accesskey       "u">
 
 <!ENTITY  underlineLinks.label            "Waɗ diidlesol e jokkorɗe">
 <!ENTITY  underlineLinks.accesskey        "W">
