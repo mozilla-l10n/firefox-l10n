@@ -97,6 +97,9 @@
 <!ENTITY contextmenu_remove_bookmark "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
 <!ENTITY contextmenu_share "Поделиться">
+<!ENTITY contextmenu_pasteandgo "Вставить и перейти">
+<!ENTITY contextmenu_paste "Вставить">
+<!ENTITY contextmenu_copyurl "Копировать адрес">
 <!ENTITY contextmenu_edit_bookmark "Изменить">
 <!ENTITY history_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
