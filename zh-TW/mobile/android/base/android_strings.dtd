@@ -105,6 +105,7 @@
 
 <!ENTITY share "分享">
 <!ENTITY share_title "分享到">
+<!ENTITY share_image_failed "無法分享此圖片">
 <!ENTITY save_as_pdf "儲存為 PDF">
 <!ENTITY find_in_page "在頁面中搜尋">
 <!ENTITY desktop_mode "開啟桌面版網站">

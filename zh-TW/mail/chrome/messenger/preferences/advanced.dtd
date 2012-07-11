@@ -91,10 +91,10 @@
 <!ENTITY showOffline.label             "離線模式…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "磁碟空間">
-<!ENTITY offlineCompact.label "超過下列大小時自動壓實重整 (Compact) 郵件匣: ">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "磁碟空間">
+<!ENTITY offlineCompactFolders.label     "在可以節省超過">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB 時壓實重整所有郵件匣">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
