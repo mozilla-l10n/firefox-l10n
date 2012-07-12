@@ -5,7 +5,7 @@
 <!ENTITY newWindowsAsTabs.label          "Uued aknad avatakse uuel kaardil">
 <!ENTITY newWindowsAsTabs.accesskey      "U">
 
-<!ENTITY warnCloseMultipleTabs.label     "Hoiatus, kui suletakse mitut kaarti korraga">
+<!ENTITY warnCloseMultipleTabs.label     "Hoiatus, kui suletakse mitu kaarti korraga">
 <!ENTITY warnCloseMultipleTabs.accesskey "H">
 
 <!ENTITY warnOpenManyTabs.label          "Hoiatus, kui mitme kaardi avamine võib aeglustada &brandShortName;i tööd">
