@@ -125,3 +125,7 @@
 <!ENTITY filepicker_audio_title "Kies of nim in lûd op">
 <!ENTITY filepicker_image_title "Kies of meitsje in foto">
 <!ENTITY filepicker_video_title "Kies of nim in fideo op">
+
+<!ENTITY ics_dumbness_title "Der is in probleem">
+<!ENTITY ics_dumbness_message "\&quot;Behâld gjin aktiviteiten\&quot; is ynskeakele. Skeakelje it út yn Ynstellingen > Untwikleroptsjes.">
+<!ENTITY ics_dumbness_ok "Ynstellingen">
