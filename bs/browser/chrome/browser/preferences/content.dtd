@@ -4,9 +4,9 @@
 <!ENTITY  popupExceptions.accesskey   "e">
 
 <!ENTITY  loadImages.label            "Automatski učitaj slike">
-<!ENTITY  loadImages.accesskey        "A">
+<!ENTITY  loadImages.accesskey        "č">
 <!ENTITY  exceptions.label            "Izuzeci…">
-<!ENTITY  exceptions.accesskey        "e">
+<!ENTITY  exceptions.accesskey        "i">
 
 <!ENTITY  enableJavaScript.label      "Omogući JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
