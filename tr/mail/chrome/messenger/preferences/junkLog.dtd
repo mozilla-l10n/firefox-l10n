@@ -1,5 +1,5 @@
-<!ENTITY adaptiveJunkLog.title "Adaptive Junk Mail Log">
-<!ENTITY adaptiveJunkLogInfo.label "Log of adaptive junk mail control activity.">
+<!ENTITY adaptiveJunkLog.title "Uyumlu Gereksiz Posta Günlüğü">
+<!ENTITY adaptiveJunkLogInfo.label "Uyumlu gereksiz posta denetim etkinliği günlüğü.">
 <!ENTITY clearLog.label "Günlüğü temizle">
 <!ENTITY clearLog.accesskey "t">
 <!ENTITY closeLog.label "Kapat">

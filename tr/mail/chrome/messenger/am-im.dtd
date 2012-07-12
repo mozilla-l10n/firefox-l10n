@@ -5,7 +5,7 @@
 <!ENTITY account.name                  "Kullanıcı adı:">
 <!ENTITY account.password              "Parola:">
 <!ENTITY account.alias                 "Takma ad:">
-<!ENTITY account.newMailNotification   "Notify on new Mail">
+<!ENTITY account.newMailNotification   "Yeni posta gelince haber ver">
 <!ENTITY account.autojoin              "Otomatik girilecek kanallar:">
 <!ENTITY account.proxySettings.caption "Vekil sunucu ayarları:">
 <!ENTITY account.proxySettings.change.label     "Değiştir…">

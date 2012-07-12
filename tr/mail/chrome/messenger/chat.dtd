@@ -20,8 +20,8 @@
 <!ENTITY openConversationCmd.accesskey "b">
 <!ENTITY closeConversationCmd.label    "Sohbeti kapat">
 <!ENTITY closeConversationCmd.accesskey "k">
-<!ENTITY aliasCmd.label                "Rename">
-<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY aliasCmd.label                "İsmini değiștir">
+<!ENTITY aliasCmd.accesskey            "d">
 <!ENTITY deleteCmd.label               "Kişiyi sil">
 <!ENTITY deleteCmd.accesskey           "s">
 
@@ -44,7 +44,7 @@
 <!ENTITY searchAllChatMessages.label.base "Tüm sohbetlerde ara… #1">
 
 <!ENTITY status.available          "Müsait">
-<!ENTITY status.unavailable        "Unavailable">
+<!ENTITY status.unavailable        "Müsait değil">
 <!ENTITY status.offline            "Çevrim dışı">
 
 <!ENTITY openLinkCmd.label            "Bağlantıyı aç…">

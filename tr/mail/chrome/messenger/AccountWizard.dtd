@@ -54,8 +54,8 @@
 <!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "E-posta sağlayıcınız tarafından verilen gelen kullanıcı adını girin (örneğin &quot;mkemal&quot;).">
-<!ENTITY incomingUsername.label "User Name:">
-<!ENTITY incomingUsername.accesskey "U">
+<!ENTITY incomingUsername.label "Kullanıcı adı:">
+<!ENTITY incomingUsername.accesskey "K">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Haber sucunuzun (NNTP) adını girin. (örnek: &quot;news.ornekadres.net&quot;)">
 <!ENTITY newsServerLabel.label "Haber grubu sunucusu:">
@@ -65,7 +65,7 @@
 
 <!ENTITY outgoingTitle.label "Giden sunucu bilgileri">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.description "Giden posta sunucunuzun (SMTP) adını girin. (örnek: &quot;smtp.example.net&quot;)">
 <!ENTITY outgoingServer.label "Giden posta sunucusu:">
 <!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "E-posta sağlayıcınız tarafından size verilen giden posta kullanıcı adınızı girin (genellikle gelen e-posta ile aynıdır).">

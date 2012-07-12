@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "s">
 <!ENTITY markAsReadOnSpam.label "Gereksiz olarak değerlendirilen iletileri okunmuş say">
 <!ENTITY markAsReadOnSpam.accesskey "G">
-<!ENTITY enableJunkLogging.label "Gereksiz posta süzgeç günlüğünü etkinleştir">
-<!ENTITY enableJunkLogging.accesskey "e">
+<!ENTITY enableAdaptiveJunkLogging.label "Uyumlu gereksiz filtresi günlüğünü etkinleştir">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "n">
 <!ENTITY openJunkLog.label "Günlüğü göster">
 <!ENTITY openJunkLog.accesskey "G">
 <!ENTITY resetTrainingData.label "Eğitim verilerini sıfırla">
