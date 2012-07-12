@@ -28,10 +28,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY window.macWidth               "45em">
 
 <!ENTITY importTitle.label             "&brandShortName;i e-posti importija">
-<!ENTITY importShortDesc.label         "E-posti, aadressiraamatute, sätete ja filtrite importimine teisest programmidest">
+<!ENTITY importShortDesc.label         "E-posti, aadressiraamatute, sätete ja filtrite importimine teistest programmidest">
 
 <!ENTITY importDescription1.label      "See haldur impordib kirjad, aadressiraamatu kirjed, eelistused  ja/või filtrid mõnest teisest rakendusest või levinud aadressiraamatu vormingust &brandShortName;i.">
-<!ENTITY importDescription2.label      "Kui see on tehtud, võid neid kasutada otse &brandShortName;ist.">
+<!ENTITY importDescription2.label      "Kui see on tehtud, võid neid kasutada otse &brandShortName;is.">
 
 <!ENTITY selectDescription.label       "Palun vali rakendus, millest soovid importida:">
 <!ENTITY selectDescriptionB.label      "Palun vali olemasolev konto või loo uus:">
