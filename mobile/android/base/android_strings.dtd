@@ -182,9 +182,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drivs av">
 
-<!ENTITY private_data_success "Känslig data är rensad">
-<!ENTITY private_data_fail "Viss känslig data kunde inte rensas ut">
-
 <!ENTITY bookmarkhistory_button_import "Importera">
 <!ENTITY bookmarkhistory_import_both "Importerar bokmärken och historik
                                       från Android">
