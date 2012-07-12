@@ -196,7 +196,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "G">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web garatzailea">
+<!ENTITY webDeveloperMenu.label       "Web garapena">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "Errore-kontsola">
@@ -356,7 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSidebars.label "Alboko barrak">
 <!ENTITY appMenuFind.label "Bilatu…">
 <!ENTITY appMenuUnsorted.label "Ordenatu gabeko laster-markak">
-<!ENTITY appMenuWebDeveloper.label "Web garatzailea">
+<!ENTITY appMenuWebDeveloper.label "Web garapena">
 <!ENTITY appMenuGettingStarted.label "Nola hasi">
 <!ENTITY appMenuSafeMode.label "Berrabiarazi gehigarriak desgaituta…">
 <!ENTITY appMenuSafeMode.accesskey "B">
