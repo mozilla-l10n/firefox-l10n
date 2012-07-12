@@ -180,7 +180,7 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "G">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web garatzailea">
+<!ENTITY webDeveloperMenu.label       "Web garapena">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "Errore-kontsola">
@@ -317,7 +317,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Alboko barrak">
 <!ENTITY appMenuFind.label "Bilatu…">
 <!ENTITY appMenuUnsorted.label "Ordenatu gabeko laster-markak">
-<!ENTITY appMenuWebDeveloper.label "Web garatzailea">
+<!ENTITY appMenuWebDeveloper.label "Web garapena">
 <!ENTITY appMenuGettingStarted.label "Nola hasi">
 <!ENTITY appMenuSafeMode.label "Berrabiarazi gehigarriak desgaituta…">
 <!ENTITY appMenuSafeMode.accesskey "B">
