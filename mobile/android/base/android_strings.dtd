@@ -63,18 +63,16 @@
 <!ENTITY pref_category_general "Algemien">
 <!ENTITY pref_category_privacy "Privacy &amp; befeiliging">
 <!ENTITY pref_category_content "Ynhâld">
+<!ENTITY pref_category_importexport "Ymport &amp; Eksport">
 <!ENTITY pref_about_firefox "Oer &brandShortName;">
 <!ENTITY pref_do_not_track "Websteeën fertelle my net te folgjen">
 <!ENTITY pref_telemetry "Prestaasjegegevens ferstjoere">
 <!ENTITY pref_remember_signons "Wachtwurden ûnthâlde">
 <!ENTITY pref_cookies "Cookies ynskeakelje">
-<!ENTITY pref_char_encoding "Tekenset toane">
+<!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu toane">
 <!ENTITY pref_char_encoding_off "Menu net toane">
-<!ENTITY pref_clear_history "Skiednis wiskje">
-<!ENTITY pref_clear_history_confirm "Navigaasjeskiednis wurdt fuortsmiten">
 <!ENTITY pref_clear_private_data "Priveegegevens wiskje">
-<!ENTITY pref_clear_private_data_confirm "Navigaasje-ynstellingen, ynklusyf wachtwurden en cookies, wurde fuortsmiten">
 <!ENTITY pref_plugins "Ynstekkers">
 <!ENTITY pref_plugins_enabled "Ynskeakele">
 <!ENTITY pref_plugins_tap_to_play "Tik om ôf te spyljen">
@@ -87,6 +85,14 @@
 <!ENTITY pref_font_size_xlarge "Ekstra grut">
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Ymportearje út Android">
+<!ENTITY pref_private_data_history "Browse &amp; download skiednis">
+<!ENTITY pref_private_data_formdata "Formulier &amp; sykskiednis">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Buffer">
+<!ENTITY pref_private_data_sessions "Aktive lochyns">
+<!ENTITY pref_private_data_offlineApps "Offline websteegegevens">
+<!ENTITY pref_private_data_siteSettings "Sidefoarkarren">
 
 <!ENTITY quit "Ofslute">
 
@@ -98,6 +104,7 @@
 <!ENTITY share_title "Diele fia">
 <!ENTITY save_as_pdf "Bewarje as PDF">
 <!ENTITY find_in_page "Sykje op side">
+<!ENTITY desktop_mode "Fersyk desktop webstee">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -111,6 +118,9 @@
 <!ENTITY contextmenu_remove_bookmark "Fuortsmite">
 <!ENTITY contextmenu_add_to_launcher "Tafoegje oan startskerm">
 <!ENTITY contextmenu_share "Diele">
+<!ENTITY contextmenu_pasteandgo "Plakke &amp; iepenje">
+<!ENTITY contextmenu_paste "Plakke">
+<!ENTITY contextmenu_copyurl "Kopiearje adres">
 <!ENTITY contextmenu_edit_bookmark "Bewurkje">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -139,6 +149,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annulearje">
+<!ENTITY button_clear_data "Gegevens wiskje">
 
 <!ENTITY abouthome_addons_title "Add-ons foar jo &brandShortName;">
 <!ENTITY abouthome_addons_browse "Blêdzje alle &brandShortName; add-ons">
@@ -169,3 +180,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "dy´t beheard wurdt troch">
+
+<!ENTITY bookmarkhistory_button_import "Ymportearje">
+<!ENTITY bookmarkhistory_import_both "Ymportearje blêdwizers en skiednis
+                                      út Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ymportearje blêdwizers
+                                           út Android">
+<!ENTITY bookmarkhistory_import_history "Ymportearje skiednis
+                                         út Android">
+<!ENTITY bookmarkhistory_import_wait "In momint...">
+
+<!ENTITY private_data_success "Priveegegevens wiske">
+<!ENTITY private_data_fail "Net alle priveegegevens koenen wiske wurden">
