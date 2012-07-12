@@ -102,3 +102,6 @@
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
+<!ENTITY ics_dumbness_title "Есть проблема">
+<!ENTITY ics_dumbness_message "Включён параметр «Не сохранять операции». Пожалуйста, отключите его через Параметры > Настройки разработчика.">
+<!ENTITY ics_dumbness_ok "Параметры">
