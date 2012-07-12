@@ -86,6 +86,7 @@
 <!ENTITY pref_font_size_xlarge "Extra stor">
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Importera från Android">
 <!ENTITY pref_private_data_history "Surf- och filhämtningshistorik">
 <!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
 <!ENTITY pref_private_data_cookies "Kakor">
