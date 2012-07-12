@@ -214,9 +214,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ögeyi incele">
 <!ENTITY inspectContextMenu.accesskey "g">
 
-<!ENTITY responsiveUI.label            "Uyumlu kip">
-<!ENTITY responsiveUI.accesskey        "U">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "Uyumlu tasarım görünümü">
+<!ENTITY responsiveDesignTool.accesskey "U">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
