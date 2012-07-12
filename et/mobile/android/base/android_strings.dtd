@@ -133,7 +133,7 @@
 <!ENTITY bookmark_edit_location          "Asukoht">
 <!ENTITY bookmark_edit_keyword           "Võtmesõna">
 
-<!ENTITY site_settings_title             "Kustuta saidi sätted">
+<!ENTITY site_settings_title             "Saidi sätete kustutamine">
 <!ENTITY site_settings_cancel            "Loobu">
 <!ENTITY site_settings_clear             "Kustuta">
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
@@ -146,7 +146,7 @@
 <!ENTITY masterpassword_create_title     "Ülemparooli loomine">
 <!ENTITY masterpassword_remove_title     "Ülemparooli eemaldamine">
 <!ENTITY masterpassword_password         "Parool">
-<!ENTITY masterpassword_confirm          "Korda parooli">
+<!ENTITY masterpassword_confirm          "Parool teist korda">
 
 <!ENTITY button_ok                       "Sobib">
 <!ENTITY button_cancel                   "Loobu">
@@ -192,4 +192,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait     "Palun oota...">
 
 <!ENTITY private_data_success            "Privaatsed andmed kustutati">
-<!ENTITY private_data_fail               "Osa privaatsetest andmetest polnud võimalik kustutada">
+<!ENTITY private_data_fail               "Kõiki privaatseid andmeid polnud võimalik kustutada">

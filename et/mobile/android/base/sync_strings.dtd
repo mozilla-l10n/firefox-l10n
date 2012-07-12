@@ -44,7 +44,7 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label            'Seadistamine lõpetatud'>
-<!ENTITY sync.subtitle.success.label1        'Andmed laaditakse nüüd taustal alla. Võid avada sätted, et hallata oma kontot või alustada &brandShortName;iga veebilehitsemist.'>
+<!ENTITY sync.subtitle.success.label1        'Andmed laaditakse nüüd taustal alla. Võid avada sätted, et hallata oma kontot, või alustada &brandShortName;iga veebilehitsemist.'>
 <!ENTITY sync.settings.label                 'Sätted'>
 <!ENTITY sync.subtitle.manage.label1         '&syncBrand.fullName.label;i konto on juba seadistatud. Oma konto haldamiseks ava sätted või käivita &brandShortName;.'>
 

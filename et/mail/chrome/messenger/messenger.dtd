@@ -494,7 +494,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersCmd.accesskey                          "o">
 <!ENTITY filtersApply.label                            "Rakenda filtreid kaustale">
 <!ENTITY filtersApply.accesskey                        "R">
-<!ENTITY filtersApplyToSelection.label                 "Rakenda filtreid valitud kirjadel">
+<!ENTITY filtersApplyToSelection.label                 "Rakenda filtreid valitud kirjadele">
 <!ENTITY filtersApplyToSelection.accesskey             "f">
 <!ENTITY filtersApplyToMessage.label                   "Rakenda filtreid valitud kirjal">
 <!ENTITY filtersApplyToMessage.accesskey               "l">
