@@ -65,6 +65,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Göndereni ve tüm alıcıları yanıtla">
 <!ENTITY hdrReplyListButton1.label "Listeyi yanıtla">
 <!ENTITY hdrReplyListButton1.tooltip "Posta listesini yanıtla">
+<!ENTITY hdrFollowupButton1.label "Devam iletisi">
+<!ENTITY hdrFollowupButton1.tooltip "Bu haber grubuna bir devam iletisi gönder">
 <!ENTITY hdrForwardButton1.label "İlet">
 <!ENTITY hdrForwardButton1.tooltip "Bu iletiyi ilet">
 <!ENTITY hdrJunkButton1.label "Gereksiz">

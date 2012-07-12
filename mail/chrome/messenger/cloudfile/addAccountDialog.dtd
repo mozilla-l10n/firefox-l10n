@@ -6,7 +6,7 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Hesap adı:">
 <!ENTITY addAccountDialog.noAccountText "Üzgünüz, ancak bu &brandShortName; sürümü her çevrimiçi depolama hizmetinden yalnızca birer hesaba izin veriyor.">
-<!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
+<!ENTITY addAccountDialog.createAccountText2 "Büyük ekleri göndermek için çeşitli çevrimiçi depolama servislerini kullanabilirsiniz. Lütfen mevcut hesabınızı kurun veya yeni bir hesap açın.">
 <!ENTITY addAccountDialog.authorizing "Yetkilendirme denetleniyor...">
 <!ENTITY addAccountDialog.error "Hesabınız kurulurken bir hata oluştu!">
 <!ENTITY addAccountDialog.acceptButton.label "Hesabı kur">

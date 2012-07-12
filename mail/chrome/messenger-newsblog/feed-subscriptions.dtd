@@ -12,8 +12,8 @@
 <!ENTITY feedFolder.label            "Haberlerin depolanacağı yer:">
 <!ENTITY feedFolder.accesskey        "d">
 
-<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey         "h">
+<!ENTITY quickMode.label             "Web sayfasını yüklemek yerine haber özetini göster">
+<!ENTITY quickMode.accesskey         "ö">
 
 <!ENTITY locationValidate.label      "Doğrula">
 <!ENTITY validateText.label          "Doğurlamayı denetle ve geçerli bir adres al.">

@@ -2,8 +2,8 @@
 <!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
 <!ENTITY accountManager.newAccount.label     "Yeni hesap">
 <!ENTITY accountManager.newAccount.accesskey "Y">
-<!ENTITY accountManager.close.label          "Close">
-<!ENTITY accountManager.close.accesskey      "l">
+<!ENTITY accountManager.close.label          "Kapat">
+<!ENTITY accountManager.close.accesskey      "K">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
@@ -21,7 +21,7 @@
 <!ENTITY account.movedown.label       "Aşağı taşı">
 <!ENTITY account.cancelReconnection.label         "Tekrar bağlanmadan vazgeç">
 <!ENTITY account.cancelReconnection.accesskey     "v">
-<!ENTITY account.connecting           "Connecting…">
+<!ENTITY account.connecting           "Bağlanıyor…">
 <!ENTITY account.disconnecting        "Bağlantı kesiliyor…">
 <!ENTITY account.disconnected         "Bağlı değil">
 

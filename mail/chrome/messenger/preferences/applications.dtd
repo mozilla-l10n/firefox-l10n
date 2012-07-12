@@ -21,15 +21,15 @@
 <!ENTITY attachments.incoming.label   "Gelen">
 <!ENTITY attachments.outgoing.label   "Giden">
 
-<!ENTITY addCloudFileAccount.label        "Add">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.label        "Ekle">
+<!ENTITY addCloudFileAccount.accesskey    "E">
 <!ENTITY addCloudFileAccount.description  "Yeni Filelink depolama servisi ekle">
-<!ENTITY removeCloudFileAccount.label     "Remove">
-<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY removeCloudFileAccount.label     "Kaldır">
+<!ENTITY removeCloudFileAccount.accesskey "K">
 <!ENTITY authRequired.description         "Bu depolama servisinin ayarlarını görmek için kimlik doğrulama gerekiyor.">
 <!ENTITY authRequired.button.label        "Yetkilendir">
 <!ENTITY authRequired.button.accesskey    "Y">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.label "Şu boyuttan büyük dosyaları paylaşmayı öner:">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
 

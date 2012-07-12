@@ -78,6 +78,6 @@
 <!ENTITY browseNewsrc.label "Gözat…">
 <!ENTITY browseNewsrc.accesskey "t">
 
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
+<!ENTITY accountTitle.label "Hesap Ayaları">
+<!ENTITY accountSettingsDesc.label "Bu bir özel hesaptır. Bu hesaba ilişkin kimlik bulunmamaktadır.">
 
