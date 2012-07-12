@@ -1,50 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Garth Smedley <garths@oeone.com>
-   -   Mike Potter <mikep@oeone.com>
-   -   Chris Charabaruk <coldacid@meldstar.com>
-   -   ArentJan Banck <ajbanck@planet.nl>
-   -   Eric Belhaire <belhaire@ief.u-psud.fr>
-   -   Matthew Willis <mattwillis@gmail.com>
-   -   Simon Paquet <bugzilla@babylonsounds.com>
-   -   Stefan Sitter <ssitter@gmail.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   -   Diego Mira David <diegomd86@gmail.com>
-   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
-   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- General -->
 
 <!ENTITY calendar.calendar.label     "Egutegia">
@@ -70,20 +26,33 @@
 <!ENTITY calendar.events.filter.next31Days.label "Hurrengo 31 egunetako gertaerak">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Egutegi-hilabete honetako gertaerak">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Eginda">
-<!ENTITY calendar.unifinder.tree.priority.label      "Lehentasuna">
-<!ENTITY calendar.unifinder.tree.title.label         "Izenburua">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; osatua">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Hasiera">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Amaiera">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Muga">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Osatua">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategoria">
-<!ENTITY calendar.unifinder.tree.location.label      "Kokapena">
-<!ENTITY calendar.unifinder.tree.status.label        "Egoera">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Egutegi-izena">
-<!ENTITY calendar.unifinder.tree.duration.label      "Muga-egunaz">
-<!ENTITY calendar.unifinder.close.tooltip            "Itxi gertaeren bilaketa eta gertaeren zerrenda">
+<!ENTITY calendar.unifinder.tree.done.label              "Eginda">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Egin klik egindako egoeragatik ordenatzeko">
+<!ENTITY calendar.unifinder.tree.priority.label          "Lehentasuna">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Egin klik lehentasunaren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.title.label             "Izenburua">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Egin klik izenburuaren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; osatua">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Egin klik osatatuako ehunekoaren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Hasiera">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Egin klik hasierako dataren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Amaiera">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Egin klik amaierako dataren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Muga">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Egin klik muga-dataren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "Osatua">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Egin klik osatutako egoeraren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.categories.label        "Kategoria">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Egin klik kategoriaren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.location.label          "Kokapena">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Egin klik kokapenaren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.status.label            "Egoera">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Egin klik egoeraren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Egutegi-izena">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Egin klik egutegi-izenaren arabera ordenatzeko">
+<!ENTITY calendar.unifinder.tree.duration.label          "Muga-egunaz">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Egin klik muga-egunaz ordenatzeko">
+<!ENTITY calendar.unifinder.close.tooltip                "Itxi gertaeren bilaketa eta gertaeren zerrenda">
 
 <!ENTITY calendar.today.button.tooltip          "Gaur kokatu" >
 <!ENTITY calendar.todaypane.button.tooltip      "Erakutsi gaurko panela" >
