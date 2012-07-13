@@ -1,8 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookPicker.label            "Catálogo:">
 <!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchInput.label                  "Localizar:">
 <!ENTITY searchInput.accesskey              "z">
-<!ENTITY SearchNameOrEmail.label            "Nome ou email">
+<!ENTITY SearchNameOrEmail.label            "Nome ou e-mail">
 
 <!ENTITY deleteAddrBookCard.label           "Excluir">
 <!ENTITY deleteAddrBookCard.accesskey       "x">

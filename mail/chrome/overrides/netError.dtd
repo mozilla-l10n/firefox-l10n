@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -54,10 +58,10 @@
 </ul>
 ">
 
-<!ENTITY netOffline.title "Modo offline">
+<!ENTITY netOffline.title "Modo off-line">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Pressione “Tentar de novo” para sair do modo offline e recarregar a página.</li>
+  <li>Pressione “Tentar de novo” para sair do modo off-line e recarregar a página.</li>
 </ul>
 ">
 
@@ -150,7 +154,7 @@
 <!ENTITY phishingBlocked.title "Site suspeito de ser uma fraude!">
 <!ENTITY phishingBlocked.longDesc "
 <p>O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.</p>
-<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria.</p>
+<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e e-mails se fazem passar por fontes que você confiaria.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">

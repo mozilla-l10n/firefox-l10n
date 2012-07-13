@@ -1,21 +1,25 @@
-<!ENTITY offlineDialog.title "Configurar modo offline">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY textStartUp "Iniciar no modo offline?">
-<!ENTITY radioRememberPrevState.label "Somente se já estava no modo offline">
+<!ENTITY offlineDialog.title "Configurar modo off-line">
+
+<!ENTITY textStartUp "Iniciar no modo off-line?">
+<!ENTITY radioRememberPrevState.label "Somente se já estava no modo off-line">
 <!ENTITY radioRememberPrevState.accesskey "t">
 <!ENTITY radioAskMe.label "Perguntar">
 <!ENTITY radioAskMe.accesskey "e">
 <!ENTITY radioAlwaysOnline.label "Nunca">
 <!ENTITY radioAlwaysOnline.accesskey "u">
 
-<!ENTITY textGoingOnline "Ao sair do modo offline enviar as mensagens da pasta “Saída”?">
+<!ENTITY textGoingOnline "Ao sair do modo off-line enviar as mensagens da pasta “Saída”?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Não">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Perguntar">
 <!ENTITY radioAskUnsent.accesskey "P">
-<!ENTITY textGoingOffline "Ao entrar no modo offline receber as mensagens definidas para leitura offline?">
+<!ENTITY textGoingOffline "Ao entrar no modo off-line receber as mensagens definidas para leitura off-line?">
 <!ENTITY radioAutoDownload.label "Sim">
 <!ENTITY radioAutoDownload.accesskey "m">
 <!ENTITY radioNotDownload.label "Não">

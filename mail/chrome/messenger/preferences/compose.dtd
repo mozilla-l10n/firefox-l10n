@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label                   "Geral">
 <!ENTITY itemAutoComplete.label              "Endereçar">
 <!ENTITY itemSpellCheck.label                "Ortografia">
@@ -35,7 +39,7 @@
 <!ENTITY autoSave.accesskey                   "S">
 <!ENTITY autoSaveEnd.label                    "minutos">
 
-<!ENTITY emailCollectionPicker.label           "Ao enviar emails, criar contatos dos destinatários em:">
+<!ENTITY emailCollectionPicker.label           "Ao enviar e-mails, criar contatos dos destinatários em:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Autocompletar endereços">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por contatos em:">
