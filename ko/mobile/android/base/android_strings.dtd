@@ -42,15 +42,22 @@
 
 <!ENTITY reload "새로 고침">
 <!ENTITY forward "앞으로">
+<!ENTITY menu "메뉴">
+<!ENTITY back "뒤로">
+<!ENTITY stop "중지">
+<!ENTITY site_security "보안 정보">
 
 <!ENTITY new_tab "새 탭">
+<!ENTITY close_tab "탭 닫기">
+<!ENTITY num_tabs "&#037;d 개의 탭">
 <!ENTITY new_tab_opened "열린 새 탭">
 
 <!ENTITY settings "프로그램 설정">
 <!ENTITY settings_title "프로그램 설정">
 <!ENTITY pref_category_general "일반">
 <!ENTITY pref_category_privacy "개인 정보 및 보안">
-<!ENTITY pref_category_content "콘텐츠">
+<!ENTITY pref_category_content "내용">
+<!ENTITY pref_category_importexport "가져오기 및 내보내기">
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
 <!ENTITY pref_do_not_track "개인 정보 추적 금지">
 <!ENTITY pref_telemetry "성능 개선 정보 보내기">
@@ -59,10 +66,7 @@
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
 <!ENTITY pref_char_encoding_off "메뉴 숨기기">
-<!ENTITY pref_clear_history "방문 기록 삭제">
-<!ENTITY pref_clear_history_confirm "방문 기록이 모두 삭제됩니다.">
 <!ENTITY pref_clear_private_data "개인 정보 삭제">
-<!ENTITY pref_clear_private_data_confirm "저장한 암호나 쿠키 등 개인 정보가 모두 제거됩니다.">
 <!ENTITY pref_plugins "플러그인">
 <!ENTITY pref_plugins_enabled "사용하기">
 <!ENTITY pref_plugins_tap_to_play "탭으로 실행">
@@ -75,7 +79,14 @@
 <!ENTITY pref_font_size_xlarge "매우 크게">
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync "동기화">
-
+<!ENTITY pref_import_android "Android에서 가져오기">
+<!ENTITY pref_private_data_history "방문 및 다운로드 기록">
+<!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
+<!ENTITY pref_private_data_cookies "쿠키">
+<!ENTITY pref_private_data_cache "캐시">
+<!ENTITY pref_private_data_sessions "로그인 기록">
+<!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
+<!ENTITY pref_private_data_siteSettings "웹 사이트별 설정">
 <!ENTITY quit "종료">
 
 <!ENTITY addons "부가 기능">
@@ -85,12 +96,27 @@
 <!ENTITY share "공유">
 <!ENTITY share_title "공유 방법 선택">
 <!ENTITY save_as_pdf "PDF로 저장">
+<!ENTITY desktop_mode "PC웹으로 보기">
+<!ENTITY find_in_page "페이지내 검색">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "페이지내 검색">
+<!ENTITY find_prev "이전">
+<!ENTITY find_next "다음">
+<!ENTITY find_close "닫기">
 
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
+<!ENTITY contextmenu_remove_history "삭제">
 <!ENTITY contextmenu_remove_bookmark "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
 <!ENTITY contextmenu_share "공유">
+<!ENTITY contextmenu_pasteandgo "붙여넣고 바로 가기">
+<!ENTITY contextmenu_paste "붙여넣기">
+<!ENTITY contextmenu_copyurl "주소 복사">
 <!ENTITY contextmenu_edit_bookmark "편집">
+
+<!ENTITY history_removed "방문 기록에서 웹 페이지 삭제 완료">
 
 <!ENTITY bookmark_edit_title "북마크 편집">
 <!ENTITY bookmark_edit_name "이름">
@@ -102,6 +128,12 @@
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
+<!ENTITY add_to_reading_list "읽기 목록 추가">
+<!ENTITY reading_list_added "페이지를 읽기 목록에서 추가 완료">
+<!ENTITY reading_list_removed "페이지를 읽기 항목에서 삭제 완료">
+<!ENTITY reader_mode "읽기 모드">
+
+
 <!ENTITY masterpassword_create_title "기본 암호 만들기">
 <!ENTITY masterpassword_remove_title "기본 암호 삭제">
 <!ENTITY masterpassword_password "암호">
@@ -109,6 +141,7 @@
 
 <!ENTITY button_ok "확인">
 <!ENTITY button_cancel "취소">
+<!ENTITY button_clear_data "데이터 삭제">
 
 <!ENTITY abouthome_addons_title "&brandShortName; 부가 기능">
 <!ENTITY abouthome_addons_browse "&brandShortName; 부가 기능 전체 목록">
@@ -124,3 +157,16 @@
 <!ENTITY filepicker_audio_title "음성 선택 또는 녹음">
 <!ENTITY filepicker_image_title "사진 선택 또는 촬영">
 <!ENTITY filepicker_video_title "동영상 선택 또는 녹화">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "현재 웹 사이트는 인증 되었음">
+<!ENTITY identity_run_by "운영 업체 정보:">
+
+<!ENTITY private_data_success "개인 정보 삭제 완료">
+<!ENTITY private_data_fail "일부 개인 정보 삭제 안됨">
+
+<!ENTITY bookmarkhistory_button_import "가져오기">
+<!ENTITY bookmarkhistory_import_both "안드로이드로 부터 북마크 및 방문기록 가져오기">
+<!ENTITY bookmarkhistory_import_bookmarks "북마크 가져오는 중">
+<!ENTITY bookmarkhistory_import_history "방문 기록 가져오는 중">
+<!ENTITY bookmarkhistory_import_wait "잠시 기다리세요...">

@@ -40,12 +40,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '설정 완료'>
-<!ENTITY sync.subtitle.success.label '여러분의 동기화 정보는 백그라운드에서 다운로드하고 있습니다. 계정 관리는 설정을 통해 하실 수 있습니다.'>
+<!ENTITY sync.subtitle.success.label1 '여러분의 동기화 정보는 백그라운드에서 다운로드하고 있습니다. 계정 관리는 설정을 통해 하실 수 있습니다.'>
 <!ENTITY sync.settings.label '설정'>
-<!ENTITY sync.subtitle.manage.label '여러분의 &syncBrand.fullName.label; 계정은 이미 설정되었습니다. 계정 관리는 설정 메뉴로 하시기 바랍니다.'>
+<!ENTITY sync.subtitle.manage.label1 '여러분의 &syncBrand.fullName.label; 계정은 이미 설정되었습니다. 계정 관리는 설정 메뉴로 하시기 바랍니다.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label '다시 시도해 주십시오.'>
+<!ENTITY sync.pair.connectlocation.label '새로운 기기를 사용하기 위하여, 기기에서 [동기화 설정]을 선택 한 후 [이미 계정을 가지고 있음]을 선택하시기 바랍니다.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label '설정'>
@@ -67,6 +68,7 @@
 <!ENTITY bookmarks.folder.unfiled.label '전체 북마크'>
 <!ENTITY bookmarks.folder.desktop.label '데스크탑 북마크'>
 <!ENTITY bookmarks.folder.mobile.label '모바일 북마크'>
+<!ENTITY bookmarks.folder.readinglist.label '읽기 목록'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '하나의 &syncBrand.fullName.label; 계정만이 지원되고 있습니다.'>

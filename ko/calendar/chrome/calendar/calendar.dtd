@@ -67,18 +67,31 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "현재 캘린더달의 이벤트">
 
 <!ENTITY calendar.unifinder.tree.done.label          "완료">
-<!ENTITY calendar.unifinder.tree.priority.label      "중요도">
-<!ENTITY calendar.unifinder.tree.title.label         "제목">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; 완료">
-<!ENTITY calendar.unifinder.tree.startdate.label     "개시 일자">
-<!ENTITY calendar.unifinder.tree.enddate.label       "종료 일자">
-<!ENTITY calendar.unifinder.tree.duedate.label       "예정 일자">
-<!ENTITY calendar.unifinder.tree.completeddate.label "완료됨">
-<!ENTITY calendar.unifinder.tree.categories.label    "분류">
-<!ENTITY calendar.unifinder.tree.location.label      "위치">
-<!ENTITY calendar.unifinder.tree.status.label        "상태">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "캘린더 이름">
-<!ENTITY calendar.unifinder.tree.duration.label      "예정">
+<!ENTITY calendar.unifinder.tree.done.tooltip		"클릭하면 완료 마크로 정렬하기">
+<!ENTITY calendar.unifinder.tree.priority.label		"중요도">
+<!ENTITY calendar.unifinder.tree.priority.tooltip	"클릭하면 중요도로 정렬하기">
+<!ENTITY calendar.unifinder.tree.title.label		"제목">
+<!ENTITY calendar.unifinder.tree.title.tooltip		"클릭하면 제목으로 정렬하기">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label	"&#37; 완료">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip	"클릭하면 진행 상황으로 정렬하기">
+<!ENTITY calendar.unifinder.tree.startdate.label	"개시 일자">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip	"클릭하면 개시 일자로 정렬하기">
+<!ENTITY calendar.unifinder.tree.enddate.label		"종료 일자">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip	"클릭하면 종료 일자로 정렬하기">
+<!ENTITY calendar.unifinder.tree.duedate.label		"마감 일자">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip	"클릭하면 마감 일자로 정렬하기">
+<!ENTITY calendar.unifinder.tree.completeddate.label	"완료 일자">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip	"클릭하면 완료 일자로 정렬하기">
+<!ENTITY calendar.unifinder.tree.categories.label	"분류">
+<!ENTITY calendar.unifinder.tree.categories.tooltip	"클릭하면 분류명으로 정렬하기">
+<!ENTITY calendar.unifinder.tree.location.label		"위치">
+<!ENTITY calendar.unifinder.tree.location.tooltip	"클릭하면 위치로 정렬하기">
+<!ENTITY calendar.unifinder.tree.status.label		"상태">
+<!ENTITY calendar.unifinder.tree.status.tooltip		"클릭하면 상태로 정렬하기">
+<!ENTITY calendar.unifinder.tree.calendarname.label	"캘린더 이름">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip	"클릭하면 캘린더 이름으로 정렬하기">
+<!ENTITY calendar.unifinder.tree.duration.label		"예정일">
+<!ENTITY calendar.unifinder.tree.duration.tooltip	"클릭하면 마감까지 시간으로 정렬하기">
 <!ENTITY calendar.unifinder.close.tooltip            "이벤트 검색 닫기 및 이벤트 리스트">
 
 <!ENTITY calendar.today.button.tooltip        "오늘 날짜로 이동합니다" >
