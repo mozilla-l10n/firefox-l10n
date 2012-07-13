@@ -125,7 +125,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY byLastVisited.accesskey "L">
 <!ENTITY byMostVisited.label "වැඩි පිවිසුම්වාර ගණන අනුව">
-<!ENTITY maintenance.tooltip "ඔබගේ පිටුසළකුණු ආයාතකර ආරක්ෂිත (backup) කොපියක් ගන්න">
+<!ENTITY maintenance.tooltip "ඔබගේ පිටුසළකුණු ආයාතකර ආරක්ෂිත කොපියක් ගන්න">
 <!ENTITY bySite.label "අඩවිය අනුව">
 <!ENTITY byLastVisited.label "අවසන්වර පිවිසුම අනුව">
 

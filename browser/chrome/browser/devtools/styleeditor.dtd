@@ -32,7 +32,7 @@
 
 <!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item
      when the stylesheet uses the scoped attribute on the <style> element. -->
-<!ENTITY scoped.label               "Scoped.">
+<!ENTITY scoped.label               "විෂයපථය.">
 
 <!ENTITY editorTextbox.placeholder  "CSS මෙහි ටයිප් කරන්න.">
 
@@ -46,7 +46,7 @@
 <!ENTITY noStyleSheet-tip-start.label  "සමහර විට ඔබ ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "නව මෝසතර පිටුවක් (style sheet) ඇමුණුමට කැමති වනු ඇත">
+<!ENTITY noStyleSheet-tip-action.label "නව මෝසතර පිටුවක් ඇමුණුමට කැමති වනු ඇත">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
