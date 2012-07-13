@@ -45,7 +45,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions          "Pause on exceptions">
+<!ENTITY debuggerUI.pauseExceptions          "Pauză la excepții">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
@@ -75,9 +75,9 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
   -  appears in the filter text box when it is empty. -->
-<!ENTITY debuggerUI.emptyFilterText  "Filter scripts">
+<!ENTITY debuggerUI.emptyFilterText  "Filtrează scripturi">
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "No scripts.">
+<!ENTITY debuggerUI.emptyScriptText  "Niciun script.">
 

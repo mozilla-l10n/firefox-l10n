@@ -36,7 +36,7 @@
 <!ENTITY missingPlugin                                       "Este necesar un plugin pentru a afișa acest conținut.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Atingeți aici pentru a activa modulul.">
-<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Clic aici pentru a activa modulul.">
 <!ENTITY disabledPlugin                                      "Acest plugin este dezactivat.">
 <!ENTITY blockedPlugin.label                                 "Plugin-ul a fost dezactivat pentru protecția dumneavoastră.">
 
