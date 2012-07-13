@@ -45,9 +45,9 @@
 <!ENTITY systemDefaults.label            "Opțiunile implicite ale sistemului">
 <!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "V">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY setDefault.label                "Fă &brandShortName; navigatorul meu principal">
+<!ENTITY setDefault.accesskey            "F">
+<!ENTITY isDefault.label                 "&brandShortName; e acum navigatorul principal">
 <!ENTITY submitCrashes.label             "Raportează defecțiunile">
 <!ENTITY submitCrashes.accesskey         "R">
 <!ENTITY submitTelemetry.label           "Trimite datele despre performanță">

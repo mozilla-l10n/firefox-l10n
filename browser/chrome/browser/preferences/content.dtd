@@ -19,7 +19,7 @@
 <!ENTITY  exceptions.accesskey        "x">
 
 <!ENTITY  enableJavaScript.label      "Permite JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  enableJavaScript.accesskey  "c">
 <!ENTITY  advancedJS.label            "Avansat...">
 <!ENTITY  advancedJS.accesskey        "v">
 

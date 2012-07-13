@@ -106,8 +106,8 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.label "Vedeți pe tot ecranul">
+<!ENTITY enterFullScreenCmd.accesskey "e">
 <!ENTITY exitFullScreenCmd.label "Exit Full Screen">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Pe tot ecranul">
@@ -125,9 +125,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "R">
 <!ENTITY fullscreenAllowButton.label "Allow">
 <!ENTITY fullscreenExitButton.label "Deny">
-<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+<!ENTITY fullscreenApproval.value "Permiteți vederea pe tot ecranul?">
 
-<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
+<!ENTITY fullscreenExitHint.value "Apăsați ESC oricând pentru a ieși din vederea pe tot ecranul.">
 <!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -258,8 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "Închide inspectorul">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
+<!ENTITY devToolbarMenu.label              "Bara de dezvoltare">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.commandkey             "v">
 
@@ -278,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
   -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
+<!ENTITY inspectOptionButton.tooltiptext    "Opțiunile inspectorului">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
 <!ENTITY inspectorToggleVeil.label          "Dim The Page">

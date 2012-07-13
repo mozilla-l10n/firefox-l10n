@@ -78,7 +78,7 @@
 <!ENTITY  permInstall           "Instalează extensii sau teme">
 <!ENTITY  permGeo               "Dezvăluie locul unde sunt">
 <!ENTITY  permPlugins           "Activează modulele">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permFullscreen        "Vedeți pe tot ecranul">
 
 <!ENTITY  permIndexedDB              "Întrețineți stocarea offline">
 <!ENTITY  permClearStorage           "Curăță datele stocate">

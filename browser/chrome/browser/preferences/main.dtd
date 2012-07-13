@@ -37,7 +37,7 @@
 <!ENTITY showWhenDownloading.label     "Arată fereastra descărcărilor când se descarcă un fișier">
 <!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Închide fereastra după ce s-au descărcat toate fișierele">
-<!ENTITY closeWhenDone.accesskey "c">
+<!ENTITY closeWhenDone.accesskey "Î">
 <!ENTITY saveTo.label "Salvează fișierele în">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Răsfoiește...">
