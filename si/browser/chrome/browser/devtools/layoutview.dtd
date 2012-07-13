@@ -16,7 +16,7 @@
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
 
-<!ENTITY margins.tooltip        "margins">
-<!ENTITY borders.tooltip        "borders">
-<!ENTITY padding.tooltip        "padding">
-<!ENTITY content.tooltip        "content">
+<!ENTITY margins.tooltip        "මායිම්">
+<!ENTITY borders.tooltip        "බෝඩර්">
+<!ENTITY padding.tooltip        "පිරවුම්">
+<!ENTITY content.tooltip        "අන්තර්ගත">

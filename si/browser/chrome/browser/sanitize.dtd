@@ -43,7 +43,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "පෝරම සහ සෙවුම් ඉතිහාසය">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemCache.label                   "කෑෂ් (Cache)">
+<!ENTITY itemCache.label                   "කෑෂ්">
 <!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemDownloadHistory.label         "බාගත ඉතිහාසය">
 <!ENTITY itemDownloadHistory.accesskey     "D">

@@ -50,7 +50,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
   -  widget that displays the source code for the script that is currently
   -  being inspected in the debugger. -->
-<!ENTITY debuggerUI.scriptTitle      "ස්ක්‍රිප්ට් (Script)">
+<!ENTITY debuggerUI.scriptTitle      "ස්ක්‍රිප්ට්">
 
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
@@ -58,8 +58,8 @@
 <!ENTITY debuggerUI.propertiesTitle  "විෂය විචල්‍යයන්">
 <!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
   -  appears in the filter text box when it is empty. -->
-<!ENTITY debuggerUI.emptyFilterText  "ස්ක්‍රිප්ට් (Script) පෙරනය">
+<!ENTITY debuggerUI.emptyFilterText  "ස්ක්‍රිප්ට් පෙරනය">
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "ස්ක්‍රිප්ට් (Script) නැත.">
+<!ENTITY debuggerUI.emptyScriptText  "ස්ක්‍රිප්ට් නැත.">
