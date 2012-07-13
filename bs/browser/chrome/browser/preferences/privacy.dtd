@@ -23,7 +23,7 @@
 <!ENTITY  acceptThirdParty.accesskey    "t">
 
 <!ENTITY  keepUntil.label               "Čuvaj dok:">
-<!ENTITY  keepUntil.accesskey           "k">
+<!ENTITY  keepUntil.accesskey           "Č">
 
 <!ENTITY  expire.label                  "ne isteknu">
 <!ENTITY  close.label                   "ne ugasim &brandShortName;">
