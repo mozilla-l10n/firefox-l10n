@@ -31,7 +31,7 @@
 <!ENTITY alwaysCheckDefault.label        "Egiaztatu beti &brandShortName; lehenetsitako nabigatzailea den abiaraztean.">
 <!ENTITY alwaysCheckDefault.accesskey    "E">
 <!ENTITY setDefault.label                "Egin &brandShortName; nabigatzaile lehenetsia">
-<!ENTITY setDefault.accesskey            "l">
+<!ENTITY setDefault.accesskey            "n">
 <!ENTITY isDefault.label                 "&brandShortName; nabigatzaile lehenetsia da une honetan">
 <!ENTITY submitCrashes.label             "Bidali hutsegite-txostenak">
 <!ENTITY submitCrashes.accesskey         "d">
@@ -70,7 +70,7 @@
 
 <!ENTITY updateApp.label                 "&brandShortName; eguneraketak:">
 <!ENTITY updateAuto.label                "Instalatu eguneraketak automatikoki (gomendatua: segurtasun hobea)">
-<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateAuto.accesskey            "s">
 <!ENTITY updateCheck.label               "Bilatu eguneraketak baina utzi aukeratzen instalatuko diren edo ez">
 <!ENTITY updateCheck.accesskey           "B">
 <!ENTITY updateManual.label              "Ez bilatu eguneraketak inoiz (ez gomendatua: segurtasun arriskua)">
