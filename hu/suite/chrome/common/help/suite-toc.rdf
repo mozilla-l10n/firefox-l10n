@@ -59,9 +59,8 @@
         <rdf:li> <rdf:Description ID="nav-doc-search" nc:name="Keresés a weben" nc:link="nav_help.xhtml#searching_the_web"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-printsave" nc:name="Oldalak másolása, mentése és nyomtatása" nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-language" nc:name="Különféle nyelvek és nemzetközi tartalom használata" nc:link="nav_help.xhtml#using_languages_and_international_content"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Bővítmények és letöltés" 
-nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-ses" nc:name="A sebesség és a hatékonyság növelése" nc:link="chrome://help/locale/nav_help.xhtml#improving_speed_and_efficiency"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Bővítmények és letöltés" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-ses" nc:name="A sebesség és a hatékonyság növelése" nc:link="nav_help.xhtml#improving_speed_and_efficiency"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-proxies" nc:name="Proxyk" nc:link="nav_help.xhtml#proxies"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-page-info" nc:name="Oldal adatainak megtekintése" nc:link="page_info_help.xhtml"/> </rdf:li>
       </rdf:Seq>
@@ -75,6 +74,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-move" nc:name="Áttérés másik oldalra" nc:link="nav_help.xhtml#moving_to_another_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-link" nc:name="Kattintás hivatkozásra" nc:link="nav_help.xhtml#clicking_a_link"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-steps" nc:name="Korábbi lépések követése" nc:link="nav_help.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-reopen" nc:name="Reopening Closed Tabs or Windows" nc:link="nav_help.xhtml#reopening_closed_tabs_windows"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-reload" nc:name="Leállítás és frissítés"  nc:link="nav_help.xhtml#stopping_and_reloading"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-bmark" nc:name="Könyvjelzővel jelölt oldalak felkeresése"  nc:link="nav_help.xhtml#visiting_bookmarked_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-tabbed" nc:name="Böngészőlapok használata"  nc:link="nav_help.xhtml#using_tabbed_browsing"/> </rdf:li>
@@ -117,12 +117,12 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     </nc:subheadings>
   </rdf:Description>
 
-  <rdf:Description about="#nav-doc-plugins">
+  <rdf:Description about="#nav-doc-pluginsdownloads">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-plug-ins" nc:name="Bővítmények" nc:link="chrome://help/locale/nav_help.xhtml#plug-ins"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-helperapps" nc:name="Segédalkalmazások" nc:link="chrome://help/locale/nav_help.xhtml#helper_applications"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-dlmanager" nc:name="Letöltéskezelő" nc:link="chrome://help/locale/nav_help.xhtml#download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-plug-ins" nc:name="Bővítmények" nc:link="nav_help.xhtml#plugins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-helperapps" nc:name="Segédalkalmazások" nc:link="nav_help.xhtml#helper_applications"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-dlmanager" nc:name="Letöltéskezelő" nc:link="nav_help.xhtml#download_manager"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -131,7 +131,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="nav-doc-autoload" nc:name="Automatikus betöltés" nc:link="nav_help.xhtml#automatic_loading"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-keywords" nc:name="Egyéni könyvjelzőkulcsszavak használata" nc:link="chrome://help/locale/nav_help.xhtml#custom_keywords"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-keywords" nc:name="Egyéni könyvjelzőkulcsszavak használata" nc:link="nav_help.xhtml#custom_keywords"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-cache" nc:name="A gyorsítótár beállításai" nc:link="nav_help.xhtml#changing_cache_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-smartup" nc:name="A legfrissebb szoftver automatikus letöltése" nc:link="nav_help.xhtml#getting_the_latest_software_automatically"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-mousewheel" nc:name="Görgős egér használata" nc:link="nav_help.xhtml#using_a_mouse_wheel"/> </rdf:li>
@@ -165,21 +165,22 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc" nc:name="A levelezés alapjai" nc:link="mail_help.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Üzenetek olvasása" nc:link="mail_help.xhtml#reading_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Üzenetek küldése" nc:link="mail_help.xhtml#sending_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="HTML formátumú levélüzenetek létrehozása" nc:link="mail_help.xhtml#creating_html_mail_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Mellékletek használata" nc:link="mail_help.xhtml#using_attachments" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Üzenetek törlése" nc:link="mail_help.xhtml#deleting_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Címjegyzék használata" nc:link="mail_help.xhtml#using_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Üzenetek rendszerezése" nc:link="mail_help.xhtml#organizing_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Levélszemét kezelése" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Levelek importálása más programokból" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Hírcsoportok kezelése" nc:link="mail_help.xhtml#getting_started_with_newsgroups" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Kapcsolat nélküli munka" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc" nc:name="A levelezés alapjai" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Levelek importálása más programokból" nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Üzenetek olvasása" nc:link="mailnews_using_mail.xhtml#reading_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Üzenetek küldése" nc:link="mailnews_using_mail.xhtml#sending_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="HTML formátumú levélüzenetek létrehozása" nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Mellékletek használata" nc:link="mailnews_using_mail.xhtml#using_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Üzenetek törlése" nc:link="mailnews_using_mail.xhtml#deleting_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Címjegyzék használata" nc:link="mailnews_addressbooks.xhtml#using_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Üzenetek rendszerezése" nc:link="mailnews_organizing.xhtml#organizing_your_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Levélszemét kezelése" nc:link="mailnews_organizing.xhtml#controlling_junk_mail" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Hírcsoportok kezelése" nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-blogs" nc:name="Getting Started With Blogs &amp; News Feeds" nc:link="mailnews_blogs_and_feeds.xhtml#getting_started_with_blogs_and_news_feeds" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Kapcsolat nélküli munka" nc:link="mailnews_offline.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Üzenetek aláírása és titkosítása" nc:link="mailnews_security.xhtml#signing_and_encrypting_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="A postafiókok beállításai" nc:link="mail_help.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="A Levelező és hírolvasó beállításai" nc:link="mail_help.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="A postafiókok beállításai" nc:link="mailnews_account_settings.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="A Levelező és hírolvasó beállításai" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -188,9 +189,17 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
  <rdf:Description about="#mail-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="A Postafiók beállításai varázsló használata"  nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="További postafiókok beállítása"  nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Fiókok beállításainak módosítása"  nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="A Postafiók beállításai varázsló használata" nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="További postafiókok beállítása" nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Fiókok beállításainak módosítása" nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+ <rdf:Description about="#mail-importing-other">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="mail-importing-mail-messages" nc:name="Levelek importálása" nc:link="mailnews_getting_started.xhtml#importing_mail_messages" /> </rdf:li>        <rdf:li> <rdf:Description ID="mail-importing-mail-settings" nc:name="Levelezési beállítások importálása" nc:link="mailnews_getting_started.xhtml#importing_mail_settings" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -198,11 +207,11 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
  <rdf:Description about="#mail-doc-read">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-notify" nc:name="Új levelek letöltése"  nc:link="mail_help.xhtml#getting_new_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="A Levelező ablak beállítása"  nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Üzenetek rendezése és csoportosítása"  nc:link="mail_help.xhtml#sorting_and_threading_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Üzenetek mentése és nyomtatása"  nc:link="mail_help.xhtml#saving_and_printing_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Képek, parancsfájlok és bővítmények kezelése"  nc:link="mail_help.xhtml#controlling_images_scripts_and_plug-ins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-notify" nc:name="Új levelek letöltése" nc:link="mailnews_using_mail.xhtml#getting_new_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="A Levelező ablak beállítása" nc:link="mailnews_using_mail.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Üzenetek rendezése és csoportosítása" nc:link="mailnews_using_mail.xhtml#sorting_and_threading_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Üzenetek mentése és nyomtatása" nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Képek, parancsfájlok és bővítmények kezelése" nc:link="mailnews_using_mail.xhtml#controlling_images_scripts_and_plugins"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -210,15 +219,15 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-send">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Üzenetek szerkesztése" nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-new" nc:name="A szerkesztőablak használata" nc:link="mail_help.xhtml#using_the_message_composition_window" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-address" nc:name="Üzenet címzése" nc:link="mail_help.xhtml#addressing_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-options" nc:name="Üzenetküldési beállítások és műveletek" nc:link="mail_help.xhtml#selecting_message_sending_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Üzenet megválaszolása" nc:link="mail_help.xhtml#replying_to_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Üzenet továbbítása" nc:link="mail_help.xhtml#forwarding_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Visszajelzés az üzenetünk megnyitásáról" nc:link="mail_help.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Piszkozat mentése és szerkesztése" nc:link="mail_help.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Sablonok létrehozása és használata" nc:link="mail_help.xhtml#creating_and_using_templates" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Üzenetek szerkesztése" nc:link="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-new" nc:name="A szerkesztőablak használata" nc:link="mailnews_using_mail.xhtml#using_the_message_composition_window" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-address" nc:name="Üzenet címzése" nc:link="mailnews_using_mail.xhtml#addressing_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-options" nc:name="Üzenetküldési beállítások és műveletek" nc:link="mailnews_using_mail.xhtml#selecting_message_sending_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Üzenet megválaszolása" nc:link="mailnews_using_mail.xhtml#replying_to_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Üzenet továbbítása" nc:link="mailnews_using_mail.xhtml#forwarding_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Visszajelzés az üzenetünk megnyitásáról" nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Piszkozat mentése és szerkesztése" nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Sablonok létrehozása és használata" nc:link="mailnews_using_mail.xhtml#creating_and_using_templates" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -226,11 +235,11 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-html">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-html-use" nc:name="A HTML használata az üzenetekben" nc:link="mail_help.xhtml#using_html_in_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="HTML-üzenetek küldési beállításai" nc:link="mail_help.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-address" nc:name="HTML-üzenetek címzettjeinek megadása" nc:link="mail_help.xhtml#specifying_recipients_for_html_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="HTML-üzenet forrásának megtekintése" nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-question" nc:name="A Küldés HTML formátumban párbeszédpanel használata" nc:link="mail_help.xhtml#using_the_html_mail_question_dialog_box" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-use" nc:name="A HTML használata az üzenetekben" nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="HTML-üzenetek küldési beállításai" nc:link="mailnews_using_mail.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-address" nc:name="HTML-üzenetek címzettjeinek megadása" nc:link="mailnews_using_mail.xhtml#specifying_recipients_for_html_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="HTML-üzenet forrásának megtekintése" nc:link="mailnews_using_mail.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-question" nc:name="A Küldés HTML formátumban párbeszédpanel használata" nc:link="mailnews_using_mail.xhtml#using_the_html_mail_question_dialog_box" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -238,7 +247,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-html-use">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-html-edit" nc:name="HTML-elemek szerkesztése vagy beszúrása" nc:link="mail_help.xhtml#editing_or_inserting_html_elements" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-edit" nc:name="HTML-elemek szerkesztése vagy beszúrása" nc:link="mailnews_using_mail.xhtml#editing_or_inserting_html_elements" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -246,9 +255,9 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-attach">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-file" nc:name="Fájl vagy weboldal csatolása" nc:link="mail_help.xhtml#attaching_a_file_or_web_page" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-view" nc:name="Mellékletek megtekintése és megnyitása" nc:link="mail_help.xhtml#viewing_and_opening_attachments" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-save" nc:name="Mellékletek mentése" nc:link="mail_help.xhtml#saving_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-file" nc:name="Fájl vagy weboldal csatolása" nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-view" nc:name="Mellékletek megtekintése és megnyitása" nc:link="mailnews_using_mail.xhtml#viewing_and_opening_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-save" nc:name="Mellékletek mentése" nc:link="mailnews_using_mail.xhtml#saving_attachments" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -256,8 +265,8 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-delete">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-delete-server" nc:name="POP- vagy IMAP-üzenetek törlése" nc:link="mail_help.xhtml#deleting_pop_or_imap_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Üzenetek áthelyezése a Törölt elemek mappába és mappából" nc:link="mail_help.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete-server" nc:name="POP- vagy IMAP-üzenetek törlése" nc:link="mailnews_using_mail.xhtml#deleting_pop_or_imap_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Üzenetek áthelyezése a Törölt elemek mappába és mappából" nc:link="mailnews_using_mail.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -265,16 +274,16 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-address">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Címjegyzékek – áttekintés" nc:link="mail_help.xhtml#about_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Bejegyzések felvétele saját címjegyzékbe" nc:link="mail_help.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Új címjegyzék létrehozása" nc:link="mail_help.xhtml#creating_a_new_address_book" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Új névjegykártya létrehozása" nc:link="mail_help.xhtml#creating_a_new_address_book_card" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Levelezőlista létrehozása" nc:link="mail_help.xhtml#creating_a_mailing_list" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Levelezőlista szerkesztése" nc:link="mail_help.xhtml#editing_a_mailing_list" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Keresés a címjegyzékekben" nc:link="mail_help.xhtml#searching_address_books_and_directories" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Címjegyzék importálása" nc:link="mail_help.xhtml#importing_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Címjegyzék exportálása" nc:link="mail_help.xhtml#exporting_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="LDAP-címtár felvétele és eltávolítása" nc:link="mail_help.xhtml#adding_and_removing_ldap_directories" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Címjegyzékek – áttekintés" nc:link="mailnews_addressbooks.xhtml#about_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Bejegyzések felvétele saját címjegyzékbe" nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Új címjegyzék létrehozása" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Új névjegykártya létrehozása" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book_card" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Levelezőlista létrehozása" nc:link="mailnews_addressbooks.xhtml#creating_a_mailing_list" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Levelezőlista szerkesztése" nc:link="mailnews_addressbooks.xhtml#editing_a_mailing_list" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Keresés a címjegyzékekben" nc:link="mailnews_addressbooks.xhtml#searching_address_books_and_directories" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Címjegyzék importálása" nc:link="mailnews_addressbooks.xhtml#importing_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Címjegyzék exportálása" nc:link="mailnews_addressbooks.xhtml#exporting_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="LDAP-címtár felvétele és eltávolítása" nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -283,7 +292,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-add-card">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Névjegykártya tulajdonságainak szerkesztése" nc:link="mail_help.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Névjegykártya tulajdonságainak szerkesztése" nc:link="mailnews_addressbooks.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -291,7 +300,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail_ab_search">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Adott bejegyzések keresése" nc:link="mail_help.xhtml#searching_for_specific_entries" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Adott bejegyzések keresése" nc:link="mailnews_addressbooks.xhtml#searching_for_specific_entries" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -299,7 +308,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-add-sync-LDAP-add">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Címtárkiszolgáló beállításai" nc:link="mail_help.xhtml#directory_server_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Címtárkiszolgáló beállításai" nc:link="mailnews_addressbooks.xhtml#directory_server_settings" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -307,16 +316,16 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-folders">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="folder-creating" nc:name="Mappa létrehozása" nc:link="mail_help.xhtml#creating_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-renaming" nc:name="Mappa átnevezése" nc:link="mail_help.xhtml#renaming_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-copying" nc:name="Mappa áthelyezése vagy másolása" nc:link="mail_help.xhtml#moving_or_copying_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-opening" nc:name="Üzenetek mappákba rendezése" nc:link="mail_help.xhtml#filing_messages_in_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-sharing" nc:name="Mappák megosztása" nc:link="mail_help.xhtml#sharing_folders_with_other_users"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="labeling-messages" nc:name="Üzenetek címkézése" nc:link="mail_help.xhtml#labeling_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Üzenetek megjelölése" nc:link="mail_help.xhtml#marking_or_flagging_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="message-views-using" nc:name="Üzenetnézetek használata" nc:link="mail_help.xhtml#using_message_views"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-filters" nc:name="Levelezőszűrők létrehozása" nc:link="mail_help.xhtml#creating_message_filters"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="search-mailnews" nc:name="Keresés az üzenetekben" nc:link="mail_help.xhtml#searching_through_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-creating" nc:name="Mappa létrehozása" nc:link="mailnews_organizing.xhtml#creating_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-renaming" nc:name="Mappa átnevezése" nc:link="mailnews_organizing.xhtml#renaming_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-copying" nc:name="Mappa áthelyezése vagy másolása" nc:link="mailnews_organizing.xhtml#moving_or_copying_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-opening" nc:name="Üzenetek mappákba rendezése" nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-sharing" nc:name="Mappák megosztása" nc:link="mailnews_organizing.xhtml#sharing_folders_with_other_users"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="labeling-messages" nc:name="Üzenetek címkézése" nc:link="mailnews_organizing.xhtml#tagging_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Üzenetek megjelölése" nc:link="mailnews_organizing.xhtml#marking_or_flagging_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="message-views-using" nc:name="Üzenetnézetek használata" nc:link="mailnews_organizing.xhtml#using_message_views"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-filters" nc:name="Levelezőszűrők létrehozása" nc:link="mailnews_organizing.xhtml#creating_message_filters"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="search-mailnews" nc:name="Keresés az üzenetekben" nc:link="mailnews_organizing.xhtml#searching_through_messages"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -324,7 +333,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#folder-sharing">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="folder-subscribing" nc:name="Feliratkozás egy megosztott mappára" nc:link="mail_help.xhtml#subscribing_to_a_shared_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-subscribing" nc:name="Feliratkozás egy megosztott mappára" nc:link="mailnews_organizing.xhtml#subscribing_to_a_shared_folder"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -332,10 +341,10 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#labeling-messages">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="label-apply" nc:name="Címke alkalmazása" nc:link="mail_help.xhtml#applying_a_label"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-customize" nc:name="Címkék testreszabása" nc:link="mail_help.xhtml#customizing_labels"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-sort" nc:name="Üzenetek rendezése címkék szerint" nc:link="mail_help.xhtml#sorting_messages_by_label"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-remove" nc:name="Címkék eltávolítása" nc:link="mail_help.xhtml#removing_labels"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-apply" nc:name="Címke alkalmazása" nc:link="mailnews_organizing.xhtml#applying_a_tag"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-customize" nc:name="Címkék testreszabása" nc:link="mailnews_organizing.xhtml#customizing_tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-sort" nc:name="Üzenetek rendezése címkék szerint" nc:link="mailnews_organizing.xhtml#sorting_messages_by_tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-remove" nc:name="Címkék eltávolítása" nc:link="mailnews_organizing.xhtml#removing_tags"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -343,7 +352,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#message-views-using">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Egyéni nézet létrehozása" nc:link="mail_help.xhtml#creating_a_custom_view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Egyéni nézet létrehozása" nc:link="mailnews_organizing.xhtml#creating_a_custom_view"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -351,7 +360,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-filters">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="send-filter" nc:name="Adott feladó üzeneteinek szűrése" nc:link="mail_help.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="send-filter" nc:name="Adott feladó üzeneteinek szűrése" nc:link="mailnews_organizing.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -359,7 +368,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#search-mailnews">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="search_messages" nc:name="Adott üzenetek keresése" nc:link="mail_help.xhtml#searching_for_specific_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="search_messages" nc:name="Adott üzenetek keresése" nc:link="mailnews_organizing.xhtml#searching_for_specific_messages"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -367,9 +376,10 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-junk">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="A Levélszemét-kezelő használata" nc:link="mail_help.xhtml#using_junk_mail_controls" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk-options" nc:name="Levélszemét-kezelő használata" nc:link="mail_help.xhtml#junk_controls_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Levélszemét kezelése és Levélszűrők" nc:link="mail_help.xhtml#junk_controls_and_filters" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="A Levélszemét-kezelő használata" nc:link="mailnews_organizing.xhtml#using_junk_mail_controls" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-options" nc:name="Levélszemét-kezelő használata" nc:link="mailnews_organizing.xhtml#junk_controls_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Levélszemét kezelése és Levélszűrők" nc:link="mailnews_organizing.xhtml#junk_controls_and_filters" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-phishing" nc:name="Phishing Detection" nc:link="mailnews_organizing.xhtml#phishing_detection" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -386,13 +396,40 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-news">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-subscribe" nc:name="Feliratkozás hírcsoportra" nc:link="mail_help.xhtml#subscribing_to_newsgroups"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-reading-news" nc:name="Hírcsoportüzenetek olvasása" nc:link="mail_help.xhtml#reading_newsgroup_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-posting" nc:name="Hírcsoportüzenetek elküldése" nc:link="mail_help.xhtml#posting_newsgroup_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-replying-news" nc:name="Hozzászólás folyamatban lévő eszmecseréhez" nc:link="mail_help.xhtml#contributing_to_ongoing_discussions"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-monitoring" nc:name="Témacsoportok figyelése" nc:link="mail_help.xhtml#monitoring_threads"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-delete-news" nc:name="Hírcsoport eltávolítása" nc:link="mail_help.xhtml#removing_a_newsgroup"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-add-newsserver" nc:name="Hírcsoport-kiszolgáló felvétele" nc:link="mail_help.xhtml#adding_a_newsgroup_server"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-subscribe" nc:name="Feliratkozás hírcsoportra" nc:link="mailnews_newsgroups.xhtml#subscribing_to_newsgroups"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-reading-news" nc:name="Hírcsoportüzenetek olvasása" nc:link="mailnews_newsgroups.xhtml#reading_newsgroup_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-posting" nc:name="Hírcsoportüzenetek elküldése" nc:link="mailnews_newsgroups.xhtml#posting_newsgroup_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-replying-news" nc:name="Hozzászólás folyamatban lévő eszmecseréhez" nc:link="mailnews_newsgroups.xhtml#contributing_to_ongoing_discussions"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-monitoring" nc:name="Témacsoportok figyelése" nc:link="mailnews_newsgroups.xhtml#monitoring_threads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-delete-news" nc:name="Hírcsoport eltávolítása" nc:link="mailnews_newsgroups.xhtml#removing_a_newsgroup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-add-newsserver" nc:name="Hírcsoport-kiszolgáló felvétele" nc:link="mailnews_newsgroups.xhtml#adding_a_newsgroup_server"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+rdf:Description about="#mail-doc-blogs">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="mail-blogs-subscribe" nc:name="Subscribing to blogs &amp; news feeds" nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-subscribe-from-browser" nc:name="Subscribing to blogs &amp; news feeds from a browser window" nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds_from_browser"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-reading" nc:name="Reading blogs &amp; news feed messages" nc:link="mailnews_blogs_and_feeds.xhtml#reading_blogs_and_news_feed_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-posting" nc:name="Posting blog messages" nc:link="mailnews_blogs_and_feeds.xhtml#posting_blog_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-comments" nc:name="Adding comments to a blog post" nc:link="mailnews_blogs_and_feeds.xhtml#adding_comments_to_a_blog_post"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-exporting-importing" nc:name="Exporting and importing feeds" nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-editing" nc:name="Editing a feed" nc:link="mailnews_blogs_and_feeds.xhtml#editing_a_feed"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-removing" nc:name="Removing a feed" nc:link="mailnews_blogs_and_feeds.xhtml#removing_a_feed"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-using-different-accounts" nc:name="Using different blogs &amp; news feeds accounts" nc:link="mailnews_blogs_and_feeds.xhtml#using_different_blogs_and_news_feeds_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-organizing" nc:name="Organizing your feeds" nc:link="mailnews_blogs_and_feeds.xhtml#organizing_your_feeds"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#mail-blogs-organizing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="mail-blogs-feeds-folders" nc:name="Feeds versus folders" nc:link="mailnews_blogs_and_feeds.xhtml#feeds_vs_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-folders-in-blogs" nc:name="Organizing folders in Blogs &amp; News Feeds accounts" nc:link="mailnews_blogs_and_feeds.xhtml#organizing_folders_in_blogs_and_news_feeds_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-multiple-feeds" nc:name="Downloading multiple feeds in a single folder" nc:link="mailnews_blogs_and_feeds.xhtml#downloading_multiple_feeds_in_a_single_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-moving-feeds" nc:name="Moving a feed to another folder" nc:link="mailnews_blogs_and_feeds.xhtml#moving_a_feed_to_another_folder"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -440,15 +477,16 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-account-settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_account_identity" nc:name="Postafiók beállításai"  nc:link="mail_help.xhtml#account_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-choose" nc:name="Kiszolgáló beállításai"  nc:link="mail_help.xhtml#server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_copies" nc:name="Másolatok és mappák"  nc:link="mail_help.xhtml#copies_and_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_addressing_settings" nc:name="Szerkesztés és címzés"  nc:link="mail_help.xhtml#addressing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-offline-space" nc:name="Hálózat nélkül és lemezterület"  nc:link="mail_help.xhtml#offline_and_disk_space"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-account-receipts" nc:name="Tértivevények" nc:link="mail_help.xhtml#return_receipts"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_security_settings" nc:name="Biztonság"  nc:link="mail_help.xhtml#security"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_local_folders_settings" nc:name="Helyi mappák"  nc:link="mail_help.xhtml#local_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Levélküldő kiszolgáló (SMTP)"  nc:link="mail_help.xhtml#outgoing_server"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_account_identity" nc:name="Postafiók beállításai"  nc:link="mailnews_account_settings.xhtml#account_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-choose" nc:name="Kiszolgáló beállításai"  nc:link="mailnews_account_settings.xhtml#server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_copies" nc:name="Másolatok és mappák"  nc:link="mailnews_account_settings.xhtml#copies_and_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_addressing_settings" nc:name="Szerkesztés és címzés"  nc:link="mailnews_account_settings.xhtml#addressing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-offline-space" nc:name="Hálózat nélkül és lemezterület"  nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-account-receipts" nc:name="Tértivevények" nc:link="mailnews_account_settings.xhtml#return_receipts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-account-junk" nc:name="Junk Settings" nc:link="mailnews_account_settings.xhtml#junk_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings" nc:name="Biztonság"  nc:link="mailnews_account_settings.xhtml#security"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_local_folders_settings" nc:name="Helyi mappák"  nc:link="mailnews_account_settings.xhtml#local_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Levélküldő kiszolgáló (SMTP)"  nc:link="mailnews_account_settings.xhtml#outgoing_server"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -456,12 +494,12 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-choose">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-choose-IMAP" nc:name="IMAP – áttekintés"  nc:link="mail_help.xhtml#about_internet_message_access_protocol"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-choose-POP" nc:name="POP – áttekintés"  nc:link="mail_help.xhtml#about_post_office_protocol"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_imap" nc:name="Az IMAP-kiszolgáló beállításai"  nc:link="mail_help.xhtml#imap_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-imap-advanced" nc:name="Az IMAP-kiszolgáló speciális beállításai"  nc:link="mail_help.xhtml#advanced_imap_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_pop3" nc:name="A POP-kiszolgáló beállításai"  nc:link="mail_help.xhtml#pop_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="A hírcsoport-kiszolgáló beállításai"  nc:link="mail_help.xhtml#news_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-choose-IMAP" nc:name="IMAP – áttekintés"  nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-choose-POP" nc:name="POP – áttekintés"  nc:link="mailnews_account_settings.xhtml#about_post_office_protocol"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_imap" nc:name="Az IMAP-kiszolgáló beállításai"  nc:link="mailnews_account_settings.xhtml#imap_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-imap-advanced" nc:name="Az IMAP-kiszolgáló speciális beállításai"  nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_pop3" nc:name="A POP-kiszolgáló beállításai"  nc:link="mailnews_account_settings.xhtml#pop_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="A hírcsoport-kiszolgáló beállításai"  nc:link="mailnews_account_settings.xhtml#news_server_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -469,9 +507,10 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-offline-space">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_offline_imap" nc:name="IMAP"  nc:link="mail_help.xhtml#offline_and_disk_space_settings_imap"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_offline_pop3" nc:name="POP"  nc:link="mail_help.xhtml#disk_space_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_offline_nntp" nc:name="Hírcsoportok"  nc:link="mail_help.xhtml#offline_and_disk_space_settings_nntp"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_imap" nc:name="IMAP"  nc:link="mailnews_account_settings.xhtml#synchronization_and_storage_settings_imap"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_pop3" nc:name="POP"  nc:link="mailnews_account_settings.xhtml#disk_space_settings_pop"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_blogs" nc:name="Blogs"  nc:link="mailnews_account_settings.xhtml#disk_space_settings_blogs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_nntp" nc:name="Hírcsoportok"  nc:link="mailnews_account_settings.xhtml#synchronization_and_storage_settings_nntp"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -479,9 +518,9 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail_security_settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_security_settings_certs" nc:name="Tanúsítványok – áttekintés"  nc:link="mail_help.xhtml#about_certificates"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_security_settings_sign" nc:name="Digitális aláírás"  nc:link="mail_help.xhtml#digital_signing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_security_settings_encrypt" nc:name="Titkosítás"  nc:link="mail_help.xhtml#encryption"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings_certs" nc:name="Tanúsítványok – áttekintés"  nc:link="mailnews_account_settings.xhtml#about_certificates"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings_sign" nc:name="Digitális aláírás"  nc:link="mailnews_account_settings.xhtml#digital_signing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings_encrypt" nc:name="Titkosítás"  nc:link="mailnews_account_settings.xhtml#encryption"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -489,15 +528,17 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-mailprefs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Levelező és hírolvasó" nc:link="mail_help.xhtml#mail_and_newsgroups"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Üzenet megjelenítése" nc:link="mail_help.xhtml#message_display"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Értesítések" nc:link="mail_help.xhtml#notifications"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Üzenet szerkesztése" nc:link="mail_help.xhtml#composition"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Küldés formátuma" nc:link="mail_help.xhtml#send_format"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Címzés" nc:link="mail_help.xhtml#addressing_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-labels" nc:name="Címkék" nc:link="mail_help.xhtml#labels"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Tértivevények" nc:link="mail_help.xhtml#return_receipts_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Hálózat nélkül és lemezterület" nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Levelező és hírolvasó" nc:link="mailnews_preferences.xhtml#mail_and_newsgroups"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Üzenet megjelenítése" nc:link="mailnews_preferences.xhtml#message_display"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Értesítések" nc:link="mailnews_preferences.xhtml#notifications"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Üzenet szerkesztése" nc:link="mailnews_preferences.xhtml#composition"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Küldés formátuma" nc:link="mailnews_preferences.xhtml#send_format"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Címzés" nc:link="mailnews_preferences.xhtml#addressing_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Junk &amp; Suspect Mail" nc:link="mailnews_preferences.xhtml#junk_and_suspect_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-tags" nc:name="Címkék" nc:link="mailnews_preferences.xhtml#tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Return Receipts" nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Tértivevények" nc:link="mail_help.xhtml"mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Hálózat nélkül és lemezterület" nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -673,8 +714,11 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-font" nc:name="A betűkészletek, a színek és a témák megváltoztatása"  nc:link="customize_help.xhtml#changing_fonts_colors_and_themes"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-toolbar" nc:name="Eszköztárak"  nc:link="customize_help.xhtml#toolbars"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-bkmk" nc:name="Könyvjelzők"  nc:link="customize_help.xhtml#bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons" nc:name="Add-ons"  nc:link="customize_help.xhtml#add-ons"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-page" nc:name="A &brandShortName; indításának beállítása"  nc:link="customize_help.xhtml#specifying_how_mozilla_starts_up"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-settings" nc:name="A böngésző beállításai"  nc:link="cs_nav_prefs_appearance.xhtml#navigator_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Appearance Preferences" nc:link="cs_nav_prefs_appearance.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="navigator_pref_navigator" nc:name="A böngésző beállításai"  nc:link="cs_nav_prefs_navigator.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Advanced Preferences" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -742,23 +786,22 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     </nc:subheadings>
   </rdf:Description>
 
+<rdf:Description about="#cust-addons">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="cust-addons-about" nc:name="About Add-ons"  nc:link="customize_help.xhtml#about_add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-installing" nc:name="Installing Add-ons"  nc:link="customize_help.xhtml#installing_add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Using the Add-on Manager"  nc:link="customize_help.xhtml#using_the_add-on_manager"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
 <rdf:Description about="#cust-page">
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="cust-startpage" nc:name="Kezdőoldal megadása"  nc:link="customize_help.xhtml#specifying_a_starting_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-home" nc:name="A kezdőlap módosítása"  nc:link="customize_help.xhtml#changing_your_home_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-start" nc:name="Az indításkor megnyíló összetevők megadása"  nc:link="customize_help.xhtml#specifying_which_components_open_at_launch"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#nav-settings">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="appearance_pref" nc:name="Megjelenés" nc:link="cs_nav_prefs_appearance.xhtml#appearance_preferences"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_navigator" nc:name="Böngésző" nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_advanced" nc:name="Haladó" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
-
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -801,6 +844,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="advanced_pref_scripts" nc:name="Parancsfájlok és bővítmények" nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plug-ins"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Navigálás a billentyűzettel" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_find_as_you_type" nc:name="Find As You Type" nc:link="cs_nav_prefs_advanced.xhtml#fayt"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Gyorsítótár" nc:link="cs_nav_prefs_advanced.xhtml#cache"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Proxyk" nc:link="cs_nav_prefs_advanced.xhtml#proxies"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_http_networking" nc:name="HTTP-beállítások" nc:link="cs_nav_prefs_advanced.xhtml#http_networking"/> </rdf:li>
@@ -894,25 +938,10 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li><rdf:Description ID="passwords_prefs" nc:name="Jelszóbeállítások" nc:link="passwords_help.xhtml#passwords"/> </rdf:li>
         <rdf:li><rdf:Description ID="password_mgr" nc:name="Jelszókezelő" nc:link="passwords_help.xhtml#password_manager"/> </rdf:li>
         <rdf:li><rdf:Description ID="passwords_master" nc:name="Mesterjelszó beállításai" nc:link="passwords_help.xhtml#master_passwords"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#passwords_master">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="change_pwd_1" nc:name="A mesterjelszó megváltoztatása" nc:link="passwords_help.xhtml#change_master_password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-settings-master-prefs-timeout" nc:name="A mesterjelszó lejárata" nc:link="passwords_help.xhtml#master_password_timeout"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-settings-master-prefs-reset" nc:name="A mesterjelszó törlése" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#using-priv-help-password-settings">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="change_pwd" nc:name="A mesterjelszó megváltoztatása" nc:link="passwords_help.xhtml#change_master_password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="reset_pwd" nc:name="A mesterjelszó törlése" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="master-prefs-change" nc:name="A mesterjelszó megváltoztatása" nc:link="passwords_help.xhtml#change_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="master-prefs-timeout" nc:name="A mesterjelszó lejárata" nc:link="passwords_help.xhtml#master_password_timeout"/> </rdf:li>
+        <rdf:li><rdf:Description ID="master-prefs-reset" nc:name="A mesterjelszó törlése" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="choosing-good-password" nc:name="Choosing a Good Password" nc:link="passwords_help.xhtml#choosing_a_good_password"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -996,6 +1025,7 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-manage-others" nc:name="Másokat azonosító tanúsítványok" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_people"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-manage-sites" nc:name="Webhelyekez azonosító tanúsítványok" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-manage-cas" nc:name="Hitelesítésszolgáltatókat azonosító tanúsítványok" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_certificate_authorities"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-orphans" nc:name="Certificates That Identify Others" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_others"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1077,8 +1107,8 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="my_certs" nc:name="Saját tanúsítványok" nc:link="certs_help.xhtml#your_certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="others_certs" nc:name="Mások tanúsítványai" nc:link="certs_help.xhtml#other_peoples_certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="web_certs" nc:name="Webhelyek tanúsítványai" nc:link="certs_help.xhtml#web_site_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="others_certs" nc:name="Mások tanúsítványai" nc:link="certs_help.xhtml#people"/> </rdf:li>
+        <rdf:li><rdf:Description ID="web_certs" nc:name="Webhelyek tanúsítványai" nc:link="certs_help.xhtml#servers"/> </rdf:li>
         <rdf:li><rdf:Description ID="ca_certs" nc:name="Hitelesítésszolgáltatók" nc:link="certs_help.xhtml#authorities"/> </rdf:li>
         <rdf:li><rdf:Description ID="orphan_certs" nc:name="Egyebek" nc:link="certs_help.xhtml#others"/> </rdf:li>
 
@@ -1149,8 +1179,11 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="new_web_cert" nc:name="A webhelyet ismeretlen hitelesítésszolgáltató azonosította" nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/> </rdf:li>
-        <rdf:li><rdf:Description ID="exp_web_cert" nc:name="A kiszolgáló tanúsítványa lejárt" nc:link="cert_dialog_help.xhtml#server_certificate_expired"/> </rdf:li>
-        <rdf:li><rdf:Description ID="not_yet_web_cert" nc:name="A kiszolgáló tanúsítványa még nem érvényes" nc:link="cert_dialog_help.xhtml#server_certificate_not_yet_valid"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_con_failed_page" nc:name="Secure Connection Failed Page" nc:link="cert_dialog_help.xhtml#secure_connection_failed_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="untrusted_con_page" nc:name="Untrusted Connection Page" nc:link="cert_dialog_help.xhtml#untrusted_connection_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_con_failed_dialog" nc:name="Secure Connection Failed Dialog" nc:link="cert_dialog_help.xhtml#secure_connection_failed_dialog"/> </rdf:li>
+        <rdf:li><rdf:Description ID="exp_web_cert" nc:name="A kiszolgáló tanúsítványa lejárt" nc:link="cert_dialog_help.xhtml#certificate_expired"/> </rdf:li>
+        <rdf:li><rdf:Description ID="not_yet_web_cert" nc:name="A kiszolgáló tanúsítványa még nem érvényes" nc:link="cert_dialog_help.xhtml#certificate_not_yet_valid"/> </rdf:li>
         <rdf:li><rdf:Description ID="bad_name_web_cert" nc:name="A tartománynév nem egyezik" nc:link="cert_dialog_help.xhtml#domain_name_mismatch"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1188,9 +1221,10 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="shortcuts_using" nc:name="Gyorsbillentyűk használata" nc:link="shortcuts.xhtml#using_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_general" nc:name="Általános &brandShortName; gyorsbillentyűk" nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="A Böngésző gyorsbillentyűi" nc:link="shortcuts-navigator.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="A Levelező és hírolvasó gyorsbillentyűi" nc:link="shortcuts-mailnews.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="A HTML-szerkesztő gyorsbillentyűi" nc:link="shortcuts-composer.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts-text-field" nc:name="Text Field Shortcuts" nc:link="shortcuts.xhtml#text_field_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="A Böngésző gyorsbillentyűi" nc:link="shortcuts_navigator.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="A Levelező és hírolvasó gyorsbillentyűi" nc:link="shortcuts_mailnews.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="A HTML-szerkesztő gyorsbillentyűi" nc:link="shortcuts_composer.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_help" nc:name="A Súgó ablak gyorsbillentyűi" nc:link="shortcuts.xhtml#help_window_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1199,12 +1233,12 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#shortcuts_navigator">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Könyvjelzők" nc:link="shortcuts-navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="Navigálás az oldalon" nc:link="shortcuts-navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Oldal megtekintése" nc:link="shortcuts-navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Böngészőlapok" nc:link="shortcuts-navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Oldalsáv" nc:link="shortcuts-navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="Űrlapok" nc:link="shortcuts-navigator.xhtml#forms_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Könyvjelzők" nc:link="shortcuts_navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="Navigálás az oldalon" nc:link="shortcuts_navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Oldal megtekintése" nc:link="shortcuts_navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Böngészőlapok" nc:link="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Oldalsáv" nc:link="shortcuts_navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="Űrlapok" nc:link="shortcuts_navigator.xhtml#forms_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1212,9 +1246,9 @@ nc:link="chrome://help/locale/nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#shortcuts_mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Általános Levelező-gyorsbillentyűk" nc:link="shortcuts-mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Üzenetlisták" nc:link="shortcuts-mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Üzenetek írása" nc:link="shortcuts-mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Általános Levelező-gyorsbillentyűk" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Üzenetlisták" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Üzenetek írása" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
