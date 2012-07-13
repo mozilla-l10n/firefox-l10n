@@ -452,7 +452,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
 <!ENTITY openMessageWindowCmd.accesskey "b">
 <!ENTITY openMessageWindowCmd.key "O">
-<!ENTITY openConversationCmd.label "Abrir na conversação">
+<!ENTITY openConversationCmd.label "Abrir como conversa">
 <!ENTITY openConversationCmd.accesskey "r">
 <!ENTITY openConversationCmd.key "O">
 <!ENTITY openFeedMessage.label "Abrir mensagem RSS">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Abrir em nova aba">
 <!ENTITY contextOpenNewTab.accesskey "b">
-<!ENTITY contextOpenConversation.label "Abrir mensagem na conversação">
+<!ENTITY contextOpenConversation.label "Abrir mensagem como conversa">
 <!ENTITY contextOpenConversation.accesskey "r">
 <!ENTITY contextEditAsNew.label "Editar como nova">
 <!ENTITY contextEditAsNew.accesskey "d">

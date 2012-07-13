@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Configurações da conta">
@@ -7,7 +11,7 @@
 <!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
-<!ENTITY email.label "Email:">
+<!ENTITY email.label "E-mail:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Responder a:">
 <!ENTITY replyTo.accesskey "R">

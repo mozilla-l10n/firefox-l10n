@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY migrationWizard.title          "Assistente de importação">
 
@@ -15,7 +19,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Selecione o aplicativo de email">
+<!ENTITY importSource.title             "Selecione o aplicativo de e-mail">
 <!ENTITY importItems.title              "Itens">
 <!ENTITY importItems.label              "Importar estes itens:">
 
