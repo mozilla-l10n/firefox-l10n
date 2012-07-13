@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Last på nytt">
 <!ENTITY forward "Frem">
+<!ENTITY menu "Meny">
+<!ENTITY back "Tilbake">
+<!ENTITY stop "Stopp">
+<!ENTITY site_security "Nettstedssikkerhet">
 
 <!ENTITY close_tab "Lukk fane">
 <!ENTITY new_tab "Ny fane">
@@ -60,6 +64,7 @@
 <!ENTITY pref_category_general "Generelt">
 <!ENTITY pref_category_privacy "Personvern og sikkerhet">
 <!ENTITY pref_category_content "Innhold">
+<!ENTITY pref_category_importexport "Import og eksport">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_do_not_track "Be nettsider om å ikke spore meg">
 <!ENTITY pref_telemetry "Send ytelsesdata">
@@ -68,10 +73,7 @@
 <!ENTITY pref_char_encoding "Tegnkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikke vis meny">
-<!ENTITY pref_clear_history "Tøm historikk">
-<!ENTITY pref_clear_history_confirm "Nettleserhistorikk vil slettes">
 <!ENTITY pref_clear_private_data "Slett private data">
-<!ENTITY pref_clear_private_data_confirm "Nettleserinnstillinger, inkludert passord og infokapsler, vil slettes">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
 <!ENTITY pref_plugins_tap_to_play "Trykk for å spille av">
@@ -84,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Ekstra stor">
 <!ENTITY pref_use_master_password "Bruk et hovedpassord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Importer fra Android">
+<!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
+<!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
+<!ENTITY pref_private_data_cookies "Infokapsler">
+<!ENTITY pref_private_data_cache "Hurtiglager">
+<!ENTITY pref_private_data_sessions "Aktive innlogginger">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
 
 <!ENTITY quit "Avslutt">
 
@@ -95,6 +105,7 @@
 <!ENTITY share_title "Del via">
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY find_in_page "Finn på siden">
+<!ENTITY desktop_mode "Forespør desktop-nettsted">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -108,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på forsiden">
 <!ENTITY contextmenu_share "Del">
+<!ENTITY contextmenu_pasteandgo "Lim inn og åpne">
+<!ENTITY contextmenu_paste "Lim inn">
+<!ENTITY contextmenu_copyurl "Kopier adresse">
 <!ENTITY contextmenu_edit_bookmark "Rediger">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -136,6 +150,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Avbryt">
+<!ENTITY button_clear_data "Tøm data">
 
 <!ENTITY abouthome_addons_title "Utvidelser for din &brandShortName;">
 <!ENTITY abouthome_addons_browse "Bla gjennom alle &brandShortName;-utvidelser">
@@ -166,3 +181,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drives av">
+
+<!ENTITY bookmarkhistory_button_import "Importer">
+<!ENTITY bookmarkhistory_import_both "Importerer bokmerker og historikk
+                                      fra Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importerer bokmerker
+                                           fra Android">
+<!ENTITY bookmarkhistory_import_history "Importerer historikk
+                                         fra Android">
+<!ENTITY bookmarkhistory_import_wait "Vent ...">
+
+<!ENTITY private_data_success "Privat data slettet">
+<!ENTITY private_data_fail "Noen av de private data kunne ikke bli slettet">
