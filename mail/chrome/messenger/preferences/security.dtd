@@ -46,3 +46,5 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostra i cookie…">
 <!ENTITY showCookies.accesskey "M">
+<!ENTITY doNotTrack.label "Comunicare ai siti web che non si desidera essere tracciati">
+<!ENTITY doNotTrack.accesskey "d">

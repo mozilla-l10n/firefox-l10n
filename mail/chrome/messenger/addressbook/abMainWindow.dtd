@@ -137,8 +137,8 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Email">
 <!ENTITY PrimaryEmail.accesskey "m">
-<!ENTITY ScreenName.label "Nome Instant Messenger">
-<!ENTITY ScreenName.accesskey "g">
+<!ENTITY ChatName.label "Nome chat">
+<!ENTITY ChatName.accesskey "C">
 <!ENTITY Company.label "Organizzazione">
 <!ENTITY Company.accesskey "O">
 <!ENTITY NickName.label "Soprannome">
@@ -168,6 +168,7 @@
 <!ENTITY contact.heading "Contatto">
 <!ENTITY home.heading "Casa">
 <!ENTITY other.heading "Altro">
+<!ENTITY chat.heading "Chat">
 <!ENTITY phone.heading "Telefono">
 <!ENTITY work.heading "Lavoro">
 <!ENTITY description.heading "Descrizione">
