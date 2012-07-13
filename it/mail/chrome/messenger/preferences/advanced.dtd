@@ -55,6 +55,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey "A">
 <!ENTITY showUpdates.label "Mostra cronologia aggiornamenti">
 <!ENTITY showUpdates.accesskey "M">
+<!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
+<!ENTITY useService.accesskey "U">
 <!ENTITY showSettings.label "Impostazioni…">
 <!ENTITY showSettings.accesskey "I">
 <!ENTITY proxiesConfigure.label "Configura il modo in cui &brandShortName; si collega a Internet">

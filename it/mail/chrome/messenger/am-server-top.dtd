@@ -51,17 +51,17 @@
 <!ENTITY alwaysAuthenticate.label "Chiedi sempre l'autenticazione alla connessione a questo server">
 <!ENTITY alwaysAuthenticate.accesskey "h">
 <!ENTITY newsrcFilePath.label "File newsrc:">
-<!ENTITY localPath.label "Cartella locale:">
+<!ENTITY newsrcPicker.label "Seleziona il file newsrc">
 <!ENTITY abbreviate.label "Mostra nome del gruppo di discussione nel pannello della posta così:">
 <!ENTITY abbreviateOn.label "Nomi completi (ad esempio, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomi abbreviati (ad esempio, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Codifica carattere predefinita:">
+<!ENTITY localPath.label "Cartella locale:">
 <!ENTITY localFolderPicker.label "Scegliere la cartella locale">
 <!ENTITY browseFolder.label "Sfoglia…">
 <!ENTITY browseFolder.accesskey "S">
-<!ENTITY newsrcPicker.label "Seleziona il file newsrc">
 <!ENTITY browseNewsrc.label "Sfoglia…">
 <!ENTITY browseNewsrc.accesskey "o">
 <!ENTITY accountTitle.label "Impostazioni account">
