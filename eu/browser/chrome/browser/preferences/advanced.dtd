@@ -31,12 +31,12 @@
 <!ENTITY alwaysCheckDefault.label        "Egiaztatu beti &brandShortName; lehenetsitako nabigatzailea den abiaraztean.">
 <!ENTITY alwaysCheckDefault.accesskey    "E">
 <!ENTITY setDefault.label                "Egin &brandShortName; nabigatzaile lehenetsia">
-<!ENTITY setDefault.accesskey            "e">
+<!ENTITY setDefault.accesskey            "l">
 <!ENTITY isDefault.label                 "&brandShortName; nabigatzaile lehenetsia da une honetan">
 <!ENTITY submitCrashes.label             "Bidali hutsegite-txostenak">
 <!ENTITY submitCrashes.accesskey         "d">
 <!ENTITY submitTelemetry.label           "Bidali errendimenduaren inguruko datuak">
-<!ENTITY submitTelemetry.accesskey       "e">
+<!ENTITY submitTelemetry.accesskey       "r">
 
 <!ENTITY networkTab.label                "Sarea">
 
@@ -62,7 +62,7 @@
 <!ENTITY clearCacheNow.label             "Garbitu orain">
 <!ENTITY clearCacheNow.accesskey         "G">
 <!ENTITY clearOfflineAppCacheNow.label   "Garbitu orain">
-<!ENTITY clearOfflineAppCacheNow.accesskey "G">
+<!ENTITY clearOfflineAppCacheNow.accesskey "r">
 <!ENTITY overrideSmartCacheSize.label    "Gainidatzi automatikoki cache-aren kudeaketa">
 <!ENTITY overrideSmartCacheSize.accesskey "d">
 
@@ -87,7 +87,7 @@
 
 <!ENTITY updateOthers.label              "Eguneratu automatikoki:">
 <!ENTITY enableSearchUpdate.label        "Bilaketa-motorrak">
-<!ENTITY enableSearchUpdate.accesskey    "B">
+<!ENTITY enableSearchUpdate.accesskey    "m">
 
 <!ENTITY offlineNotify.label             "Ohar nazazu webgune batek datuak biltegiratu nahi baditu lineaz kanpo erabiltzeko">
 <!ENTITY offlineNotify.accesskey         "O">

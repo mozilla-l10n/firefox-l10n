@@ -23,7 +23,7 @@
 <!ENTITY  acceptCookies.accesskey       "O">
 
 <!ENTITY  acceptThirdParty.label        "Onartu hirugarrenen cookie-ak">
-<!ENTITY  acceptThirdParty.accesskey    "n">
+<!ENTITY  acceptThirdParty.accesskey    "h">
 
 <!ENTITY  keepUntil.label               "Mantentze-epea:">
 <!ENTITY  keepUntil.accesskey           "M">
