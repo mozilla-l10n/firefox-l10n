@@ -35,7 +35,7 @@
                         nc:datasources="rdf:null"
                         nc:platform="win mac os2 unix"
                         nc:emptysearchtext="[nincs találat]"
-                        nc:emptysearchlink="chrome://help/locale/welcome.xhtml#search_tips"/>
+                        nc:emptysearchlink="help_help.xhtml#search_tips"/>
                 </li>
                 <li>
                     <Description nc:panelid="glossary"
