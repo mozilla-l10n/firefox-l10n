@@ -34,8 +34,8 @@
 <!ENTITY hdrReplyListButton1.tooltip "ردّ على القائمة البريدية">
 <!ENTITY hdrFollowupButton1.label "متابعة">
 <!ENTITY hdrFollowupButton1.tooltip "أرسل متابعة إلى مجموعو الأخبار">
-<!ENTITY hdrForwardButton1.label "حوّل">
-<!ENTITY hdrForwardButton1.tooltip "حوّل هذه الرسالة">
+<!ENTITY hdrForwardButton1.label "مرّر">
+<!ENTITY hdrForwardButton1.tooltip "مرّر هذه الرسالة">
 <!ENTITY hdrJunkButton1.label "سخام">
 <!ENTITY hdrJunkButton1.tooltip "علّم هذه الرسالة كسخام">
 <!ENTITY hdrTrashButton1.label "احذف">
