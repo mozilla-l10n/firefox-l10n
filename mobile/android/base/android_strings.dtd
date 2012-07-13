@@ -57,7 +57,7 @@
 <!ENTITY pref_category_general "일반">
 <!ENTITY pref_category_privacy "개인 정보 및 보안">
 <!ENTITY pref_category_content "내용">
-<!ENTITY pref_category_importexport "가져오가 및 내보내기">
+<!ENTITY pref_category_importexport "가져오기 및 내보내기">
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
 <!ENTITY pref_do_not_track "개인 정보 추적 금지">
 <!ENTITY pref_telemetry "성능 개선 정보 보내기">
@@ -79,7 +79,7 @@
 <!ENTITY pref_font_size_xlarge "매우 크게">
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync "동기화">
-<!ENTITY pref_import_android "가져오기">
+<!ENTITY pref_import_android "Android에서 가져오기">
 <!ENTITY pref_private_data_history "방문 및 다운로드 기록">
 <!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
 <!ENTITY pref_private_data_cookies "쿠키">
