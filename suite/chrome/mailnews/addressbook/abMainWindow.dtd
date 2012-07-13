@@ -131,6 +131,19 @@
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Carnets d'adresses">
 
+<!-- Box Headings -->
+<!ENTITY contact.heading "Contact">
+<!ENTITY home.heading "Domicile">
+<!ENTITY other.heading "Autre">
+<!ENTITY phone.heading "Téléphone">
+<!ENTITY work.heading "Activité professionnelle">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading "Description">
+<!ENTITY addresses.heading "Adresses">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label "Plan d'accès">
+<!ENTITY mapIt.tooltip "Affiche un plan de cette adresse depuis le Web">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label "">
 
