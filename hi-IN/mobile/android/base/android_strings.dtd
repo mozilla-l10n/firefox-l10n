@@ -64,7 +64,7 @@
 <!ENTITY pref_category_general "सामान्य">
 <!ENTITY pref_category_privacy "गोपनीयता व सुरक्षा">
 <!ENTITY pref_category_content "अंतर्वस्तु">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "आयात व निर्यात">
 <!ENTITY pref_about_firefox "&brandShortName; परिचय">
 <!ENTITY pref_do_not_track "साइट को मुझे ट्रैक करने मत कहें">
 <!ENTITY pref_telemetry "कार्यकुशलता आँकड़ा भेजें">
@@ -86,14 +86,14 @@
 <!ENTITY pref_font_size_xlarge "बहुत बड़ा">
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
 <!ENTITY pref_sync "सिंक">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_import_android "एंड्रायड से आयात">
+<!ENTITY pref_private_data_history "ब्राउज़िंग और डाउनलोड इतिहास">
+<!ENTITY pref_private_data_formdata "फॉर्म व खोज इतिहास">
 <!ENTITY pref_private_data_cookies "कूकीज">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Active logins">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_cache "कैश">
+<!ENTITY pref_private_data_sessions "सक्रिय लॉगिन">
+<!ENTITY pref_private_data_offlineApps "ऑफ़ाइल वेबसाइट आँकड़ा">
+<!ENTITY pref_private_data_siteSettings "साइट वरीयताएँ">
 
 <!ENTITY quit "निकास">
 
@@ -105,7 +105,7 @@
 <!ENTITY share_title "इससे साझा करें">
 <!ENTITY save_as_pdf "बतौर PDF सहेजें">
 <!ENTITY find_in_page "पृष्ठ में ढूँढें">
-<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY desktop_mode "डेस्कटॉप साइट के लिए आग्रह करें">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -121,7 +121,7 @@
 <!ENTITY contextmenu_share "साझा करें">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "चिपकाएँ">
-<!ENTITY contextmenu_copyurl "Copy Address">
+<!ENTITY contextmenu_copyurl "पता नक़ल करें">
 <!ENTITY contextmenu_edit_bookmark "संपादन">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -150,7 +150,7 @@
 
 <!ENTITY button_ok "ठीक">
 <!ENTITY button_cancel "रद्द करें">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_clear_data "आँकड़ा साफ करें">
 
 <!ENTITY abouthome_addons_title "&brandShortName; के लिए सहयुक्तियाँ">
 <!ENTITY abouthome_addons_browse "सभी &brandShortName; सहयुक्तियाँ ब्राउज़ करें">
@@ -183,14 +183,14 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "कौन इसके द्वारा चलता है">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_button_import "आयात करें…">
+<!ENTITY bookmarkhistory_import_both "पुस्तचिह्न और इतिहास का आयात 
+एंड्रायड से कर रहा है">
+<!ENTITY bookmarkhistory_import_bookmarks "पुस्तचिह्न और इतिहास का आयात 
+एंड्रायड से कर रहा है">
+<!ENTITY bookmarkhistory_import_history "इतिहास का आयात 
+एंड्रायड से कर रहा है">
+<!ENTITY bookmarkhistory_import_wait "कृपया प्रतीक्षा करें...">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "निजी आँकड़ा साफ़ किया गया">
+<!ENTITY private_data_fail "कुछ निजी आँकड़ा साफ नहीं किया जा सका">
