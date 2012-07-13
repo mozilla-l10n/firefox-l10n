@@ -12,7 +12,7 @@
 <!ENTITY acceptCookies.label "웹 사이트에서 제공하는 쿠키 허용">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "제3자 쿠키 허용">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY acceptThirdParty.accesskey "A">
 <!ENTITY keepUntil.label "유지 시간:">
 <!ENTITY keepUntil.accesskey "K">
 <!ENTITY expire.label "만료 될 때까지">
@@ -23,7 +23,7 @@
 <!ENTITY showCookies.label "쿠키 보기…">
 <!ENTITY showCookies.accesskey "S">
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 작업 사항:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "방문 기록 저장">
 <!ENTITY  historyHeader.dontremember.label "방문 기록 저장 안 함">
 <!ENTITY  historyHeader.custom.label       "사용자 정의 설정">
@@ -58,7 +58,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; 닫을 때 방문 기록 삭제">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "설정…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
