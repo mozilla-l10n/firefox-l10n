@@ -125,3 +125,7 @@
 <!ENTITY filepicker_audio_title "Velg eller spill inn en lyd">
 <!ENTITY filepicker_image_title "Velg eller ta et bilde">
 <!ENTITY filepicker_video_title "Velg eller spill inn en video">
+
+<!ENTITY ics_dumbness_title "Der er et problem">
+<!ENTITY ics_dumbness_message "\&quot;Ikke behold aktiviteter\&quot; er påslått. Skru den av i Innstillinger > Utviklerinnstillinger.">
+<!ENTITY ics_dumbness_ok "Innstillinger">

@@ -4,72 +4,72 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Koble til &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Legg til en &syncBrand.fullName.label;-konto'>
-<!ENTITY sync.title.pair.label 'Tilknytt en enhet'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Koble til &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Legg til en &syncBrand.fullName.label;-konto">
+<!ENTITY sync.title.pair.label "Tilknytt en enhet">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'For å aktivere den nye enheten, velg “Sett opp &syncBrand.shortName.label;” på den andre enheten.'>
-<!ENTITY sync.subtitle.header.label 'Skriv inn denne koden på datamaskinen'>
-<!ENTITY sync.subtitle.connectlocation.label 'Velg “&sync.title.pair.label;” i &syncBrand.shortName.label;-seksjonen i Firefox-innstillingene på datamaskinen.'>
-<!ENTITY sync.subtitle.pair.label 'For å aktivere, velg “Tilknytt en enhet” på den andre enheten.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Vis meg hvordan.'>
-<!ENTITY sync.link.advancedsetup.label 'Avansert konfigurasjon …'>
-<!ENTITY sync.link.nodevice.label 'Jeg har ikke enheten med meg …'>
+<!ENTITY sync.subtitle.connect.label "For å aktivere den nye enheten, velg “Sett opp &syncBrand.shortName.label;” på den andre enheten.">
+<!ENTITY sync.subtitle.header.label "Skriv inn denne koden på datamaskinen">
+<!ENTITY sync.subtitle.connectlocation.label "Velg “&sync.title.pair.label;” i &syncBrand.shortName.label;-seksjonen i Firefox-innstillingene på datamaskinen.">
+<!ENTITY sync.subtitle.pair.label "For å aktivere, velg “Tilknytt en enhet” på den andre enheten.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Vis meg hvordan.">
+<!ENTITY sync.link.advancedsetup.label "Avansert konfigurasjon …">
+<!ENTITY sync.link.nodevice.label "Jeg har ikke enheten med meg …">
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Venter på den andre enheten …'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Venter på den andre enheten …">
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Skriv inn kontoinfo for &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Kontonavn'>
-<!ENTITY sync.input.password.label 'Passord'>
-<!ENTITY sync.input.key.label 'Gjenopprettingsnøkkel'>
-<!ENTITY sync.checkbox.server.label 'Bruk en annen tjener'>
-<!ENTITY sync.input.server.label 'Tjener-URL'>
+<!ENTITY sync.subtitle.account.label "Skriv inn kontoinfo for &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Kontonavn">
+<!ENTITY sync.input.password.label "Passord">
+<!ENTITY sync.input.key.label "Gjenopprettingsnøkkel">
+<!ENTITY sync.checkbox.server.label "Bruk en annen tjener">
+<!ENTITY sync.input.server.label "Tjener-URL">
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Kan ikke sette opp &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; klarte ikke koble til tjeneren. Vil du prøve igjen?'>
-<!ENTITY sync.button.tryagain.label 'Prøv igjen'>
-<!ENTITY sync.button.manual.label 'Manuelle innstillinger'>
-<!ENTITY sync.subtitle.nointernet.label 'Ingen Internett-tilkobling er tilgjengelig.'>
+<!ENTITY sync.title.fail.label "Kan ikke sette opp &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; klarte ikke koble til tjeneren. Vil du prøve igjen?">
+<!ENTITY sync.button.tryagain.label "Prøv igjen">
+<!ENTITY sync.button.manual.label "Manuelle innstillinger">
+<!ENTITY sync.subtitle.nointernet.label "Ingen Internett-tilkobling er tilgjengelig.">
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Oppsettet er fullført'>
-<!ENTITY sync.subtitle.success.label 'Data lastes ned i bakgrunnen. Du kan åpne Innstillinger for å behandle kontoen.'>
-<!ENTITY sync.settings.label 'Innstillinger'>
-<!ENTITY sync.subtitle.manage.label 'Din &syncBrand.fullName.label;-konto er allerede konfigurert. Gå til Innstillinger for å behandle kontoen.'>
+<!ENTITY sync.title.success.label "Oppsettet er fullført">
+<!ENTITY sync.subtitle.success.label "Data lastes ned i bakgrunnen. Du kan åpne Innstillinger for å behandle kontoen.">
+<!ENTITY sync.settings.label "Innstillinger">
+<!ENTITY sync.subtitle.manage.label "Din &syncBrand.fullName.label;-konto er allerede konfigurert. Gå til Innstillinger for å behandle kontoen.">
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Prøv igjen.'>
+<!ENTITY sync.pair.tryagain.label "Prøv igjen.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Innstillinger'>
-<!ENTITY sync.summary.pair.label 'Koble til &syncBrand.shortName.label;-kontoen med en annen enhet'>
+<!ENTITY sync.settings.options.label "Innstillinger">
+<!ENTITY sync.summary.pair.label "Koble til &syncBrand.shortName.label;-kontoen med en annen enhet">
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Avbryt'>
-<!ENTITY sync.button.connect.label 'Koble til'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label "Avbryt">
+<!ENTITY sync.button.connect.label "Koble til">
+<!ENTITY sync.button.ok.label "OK">
   
 <!-- Account strings -->
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bokmerkemeny'>
-<!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Etiketter'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bokmerkelinje'>
-<!ENTITY bookmarks.folder.unfiled.label 'Usorterte bokmerker'>
-<!ENTITY bookmarks.folder.desktop.label 'Skrivebordsbokmerker'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile bokmerker'>
+<!ENTITY bookmarks.folder.menu.label "Bokmerkemeny">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Etiketter">
+<!ENTITY bookmarks.folder.toolbar.label "Bokmerkelinje">
+<!ENTITY bookmarks.folder.unfiled.label "Usorterte bokmerker">
+<!ENTITY bookmarks.folder.desktop.label "Skrivebordsbokmerker">
+<!ENTITY bookmarks.folder.mobile.label "Mobile bokmerker">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Bare en &syncBrand.fullName.label;-konto støttes.'>
+<!ENTITY sync.notification.oneaccount.label "Bare en &syncBrand.fullName.label;-konto støttes.">
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.new.recoverykey.status.incorrect 'Gjenopprettingsnøkkelen er feil. Prøv igjen.'>
+<!ENTITY sync.new.recoverykey.status.incorrect "Gjenopprettingsnøkkelen er feil. Prøv igjen.">
