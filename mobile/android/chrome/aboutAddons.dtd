@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title                      "सहयुक्ति प्रबंधक">
+<!ENTITY aboutAddons.header2                    "Your Add-ons">
+<!ENTITY aboutAddons.options                    "विकल्प">
+
+<!ENTITY addonAction.enable                     "सक्रिय करू ">
+<!ENTITY addonAction.disable                    "निष्क्रिय करू ">
+<!ENTITY addonAction.uninstall                  "Uninstall">
+<!ENTITY addonAction.cancel                     "रद्द  करू ">

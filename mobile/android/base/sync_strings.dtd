@@ -1,0 +1,81 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "फायरफाक्स सिंक">
+<!ENTITY syncBrand.shortName.label "सिंक">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
+<!ENTITY sync.title.pair.label "युक्ति युग्मित करू">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
+<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
+<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
+<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label "देखाउ जे कहिना.">
+<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
+<!ENTITY sync.input.username.label 'Account Name'>
+<!ENTITY sync.input.password.label "गुड़किल्ली">
+<!ENTITY sync.input.key.label 'Recovery Key'>
+<!ENTITY sync.checkbox.server.label 'Use custom server'>
+<!ENTITY sync.input.server.label 'Server URL'>
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.button.tryagain.label "फेर कोशिश  करू ">
+<!ENTITY sync.button.manual.label 'Manual Setup'>
+<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "सेटअप पूर्ण">
+<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+<!ENTITY sync.settings.label "सेटिंग्स">
+<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "कृपया फेर कोशिश करू.">
+<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "विकल्प">
+<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "रद्द  करू ">
+<!ENTITY sync.button.connect.label 'Connect'>
+<!ENTITY sync.button.ok.label 'OK'>
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "पुस्तकचिह्न  मेनू ">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Tags'>
+<!ENTITY bookmarks.folder.toolbar.label "पुस्तकचिह्न अओजारपट्टी">
+<!ENTITY bookmarks.folder.unfiled.label "बिनुछाँटल पुस्तकचिह्न">
+<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+<!ENTITY bookmarks.folder.mobile.label "Mobile Bookmarks">
+<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>

@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "सिंक">
+<!ENTITY sync.notconnected          "Not connected">
+<!ENTITY sync.connect               "Connect">
+<!ENTITY sync.connected             "Connected">
+<!ENTITY sync.details               "विवरण">
+<!ENTITY sync.deviceName            "This device">
+<!ENTITY sync.disconnect            "Disconnect">
+<!ENTITY sync.syncNow               "Sync Now">
+
+<!ENTITY sync.setup.title           "Connect to Sync">
+<!ENTITY sync.setup.pair            "सक्रिय करबाक लेल &#x0022;युक्ति युग्मित करू&#x0022; केँ अपन आन युक्ति पर चुनू.">
+<!ENTITY sync.fallback              "I'm not near my computer…">
+<!ENTITY sync.setup.manual          "Enter your Sync account information">
+<!ENTITY sync.account               "Account Name">
+<!ENTITY sync.password              "Password">
+<!ENTITY sync.recoveryKey           "Recovery Key">
+<!ENTITY sync.customServer          "Use custom server">
+<!ENTITY sync.serverURL             "Server URL">
+<!ENTITY sync.setup.connect         "Connect">
+<!ENTITY sync.setup.cancel          "रद्द  करू ">
+<!ENTITY sync.setup.tutorial        "Show me how">
+<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+
+<!ENTITY sync.pair.title            "युक्ति युग्मित करू">
+<!ENTITY sync.pair.description      "अपन युक्ति केँ सक्रिय करबाक लेल, &#x0022;सिंक सेटअप करू&#x0022; केँ युक्ति पर चुनू.">
+<!ENTITY sync.setup.close           "Close">
+<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

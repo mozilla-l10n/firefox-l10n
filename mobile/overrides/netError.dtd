@@ -1,0 +1,148 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "पृष्ठक लोडिंगमे समस्या">
+<!ENTITY retry.label "Try Again">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "कनेक्ट करबामे असमर्थ">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "ई पता प्रतिबंधित अछि ">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "सर्वर नहि भेटल">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "फाइल नहि भेटल">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>कैपिटलाइजेशन अथवा दूसरी टाइपिंग त्रुटि क लेल फाइल नाम जाँचू.</li> 
+<li>जाँचे ई देखब क लेल जे फाइल खिसकलया, फेर नामकरण कएल अथवा मेटायल गेल छल.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "ओफ्फ.">
+<!ENTITY generic.longDesc "<p>&brandShortName; किछु कारणक लेल एहि पृष्ठ केँ लोड नहि कए सकैत अछि .</p>">
+
+<!ENTITY malformedURI.title "पता वैध नहि अछि ">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>वेब पता प्रायः एहि तरह लिखा जाएत अछि 
+<strong>http://www.example.com/</strong></li> 
+<li>सुनिश्चित करू जे अहाँ फारवर्ड स्लैश क प्रयोग कए रहल छी (यानी 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "कनेक्शन बाधित कएल गेल छल">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>कृपया वेबसाइट मालिक सँ हुनका एहि समस्याक संबंधमे बताबैक लेल संपर्क करू.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "कनेक्शन रिसेट कएल गेल छल">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "कनेक्शनक समय समाप्त भए गेल">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "पता समझाएल नहि गेल छल">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>अहाँ आन साफ्टवेयर केँ एहि पता केँ खोलबाक लेल संस्थापित कए सकैत अछि.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "प्राक्सी सर्वर कनेक्शन अस्वीकार कए रहल अछि ">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>प्राक्सी सेटिंगक जाँच सुनिश्चित करब क लेल करू जे ओ सही अछि .</li> 
+<li>अपन सँजाल प्रशासक केँ जाँचू सुनिश्चित करबाक लेल प्राक्सी सर्वर काज कए रहल अछि.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़वमे असमर्थ">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "पृष्ठ ठीकसँ पुनर्निर्देशित नहि कए रहल अछि ">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>ई समस्या कहियो-कहियो कुकीकेँ स्वीकार करब अथवा निष्क्रिय करबाक कारण होइछ.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "सर्वर सँ अप्रत्याशित अनुक्रिया">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>सुनिश्चित करबाक लेल जाँचू जे अहाँक सिस्टम निज सुरक्षा प्रबंधक संस्थापित राखल अछि .</li> 
+<li>ई सर्वर पर ककरो गैर मानक विन्यासक कारण भए सकैत अछि.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>पृष्ठ जकरा अहाँ देखबाक कोशिश कए रहल छी नहि देखाओल जाए सकैत अछि किएक एकटा प्राप्त आंकड़ाक प्रमाणिकता जाँचल नहि जाए सकल.</li> 
+<li>कृपया वेब साइट मालिक केँ एहि समस्याक संबंधमे सूचित करबाक लेल संपर्क करू. वैकल्पिक रूपसँ एहि टूटल साइटकेँ रिपोर्ट करबाक लेल मदति मेनू  मे मिलल कमांडक प्रयोग करू.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>ई सर्वर विन्यासक सँग समस्या भए सकैत अछि, अथवा कोनो दोसर सर्वरक रूपेँ छद्म रूपसँ आबैक कोशिश कए सकैत अछि.</li> 
+<li>जँ अहाँ सर्वरसँ पाछाँ सफलतापूर्वक कनेक्ट भए चुकल अछि, त्रुटि अस्थायी भए सकैत अछि, आओर अहाँ एकरा बादमे फेर कोशिश कए सकैत  अछि.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY securityOverride.linkText "अथवा अहाँ एकटा अपवाद जोड़ि सकैत अछि …">
+<!ENTITY securityOverride.getMeOutOfHereButton "एतय सँ हमरा बाहर लए जाउ!">
+<!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ू…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "दूरस्थ XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
+
