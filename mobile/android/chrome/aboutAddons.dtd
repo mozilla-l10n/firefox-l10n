@@ -5,4 +5,4 @@
 <!ENTITY addonAction.enable                     "Activer">
 <!ENTITY addonAction.disable                    "Désactiver">
 <!ENTITY addonAction.uninstall                  "Désinstaller">
-<!ENTITY addonAction.cancel                     "Annuler">
+<!ENTITY addonAction.undo                       "Annuler">
