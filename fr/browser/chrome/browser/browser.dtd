@@ -653,3 +653,8 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY social.sharePopup.undo.label     "Annuler le partage">
+<!ENTITY social.sharePopup.undo.accesskey "A">
+<!ENTITY social.sharePopup.ok.label       "OK">
+<!ENTITY social.sharePopup.ok.accesskey   "O">
