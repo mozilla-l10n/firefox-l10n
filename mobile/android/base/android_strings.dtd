@@ -126,3 +126,7 @@
 <!ENTITY filepicker_image_title "Seleccionar o tomar una foto">
 <!ENTITY filepicker_video_title "Seleccionar o grabar un video">
 
+<!ENTITY ics_dumbness_title "Hay un problmea">
+<!ENTITY ics_dumbness_message "\&quot;No mantener actividades\&quot; está activado. Apagalo en Configuración > Opciones de desarrollador.">
+<!ENTITY ics_dumbness_ok "Configuración">
+
