@@ -20,7 +20,7 @@
 <!ENTITY copyAll.label         "Dèan lethbhreac dhen a h-uile">
 <!ENTITY copylink.label        "Dèan lethbhreac de sheòladh a' cheangail">
 <!ENTITY paste.label           "Cuir ann">
-<!ENTITY pasteAndGo.label      "Cuir ann ┐ rach ann">
+<!ENTITY pasteAndGo.label      "Cuir ann ⁊ rach ann">
 <!ENTITY delete.label          "Sguab às">
 <!ENTITY selectAll.label       "Tagh a h-uile">
 <!ENTITY noSuggestions.label   "(Gun mholadh sam bith)">
@@ -121,6 +121,6 @@
 <!ENTITY pageactions.reset           "Falamhaich roghainnean na làraich">
 <!ENTITY pageactions.findInPage      "Lorg san duilleag">
 <!ENTITY pageactions.search.addNew   "Cuir einnsean-luirg ris">
-<!ENTITY pageactions.charEncoding    "Còdachadh charactairean">
+<!ENTITY pageactions.charEncoding    "Còdachadh charactaran">
 
 <!ENTITY appMenu.siteOptions         "Roghainnean na làraich">

@@ -6,7 +6,7 @@
 
 <!ENTITY printSetup.title    "Roghainnean na duilleige">
 
-<!ENTITY basic.tab           "Fòrmat ┐ rogainnean">
+<!ENTITY basic.tab           "Fòrmat ⁊ roghainnean">
 
 <!ENTITY formatGroup.label   "Fòrmat">
 
@@ -25,10 +25,10 @@
 
 <!ENTITY optionsGroup.label  "Roghainnean">
 
-<!ENTITY printBG.label       "Clò-bhuail an cùlaibh (dathan ┐ dealbhan)">
+<!ENTITY printBG.label       "Clò-bhuail an cùlaibh (dathan ⁊ dealbhan)">
 <!ENTITY printBG.accesskey   "b">
 
-<!ENTITY advanced.tab        "Marghain ┐ bann-cinn/bann-coise">
+<!ENTITY advanced.tab        "Marghain ⁊ bann-cinn/bann-coise">
 
 <!ENTITY marginGroup.label   "Marghain (#1)">
 <!ENTITY marginUnits.inches  "òirlich">
@@ -42,7 +42,7 @@
 <!ENTITY marginRight.label   "Deis:">
 <!ENTITY marginRight.accesskey "D">
 
-<!ENTITY headerFooter.label  "Bannan-cinn ┐ coise">
+<!ENTITY headerFooter.label  "Bannan-cinn ⁊ coise">
 
 <!ENTITY hfLeft.label        "Clì:">
 <!ENTITY hfCenter.label      "Meadhan:">
@@ -63,4 +63,4 @@
 <!ENTITY hfCustom            "Gnàthaichte…">
 
 <!ENTITY customPrompt.title  "Gnàthaichte…">
-<!ENTITY customPrompt.prompt "Cuir a-steach teacs a' bhanna-chinn/-choise ghnàthaichte agad">
+<!ENTITY customPrompt.prompt "Cuir a-steach teacsa a' bhanna-chinn/-choise ghnàthaichte agad">

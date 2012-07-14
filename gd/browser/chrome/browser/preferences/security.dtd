@@ -30,7 +30,7 @@
 <!ENTITY  passwordExceptions.accesskey  "E">
 
 <!ENTITY  useMasterPassword.label        "Cleachd prìomh fhacal-faire">
-<!ENTITY  useMasterPassword.accesskey    "C">
+<!ENTITY  useMasterPassword.accesskey    "m">
 <!ENTITY  changeMasterPassword.label     "Atharraich am prìomh fhacal-faire…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 

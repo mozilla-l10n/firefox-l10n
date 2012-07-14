@@ -62,15 +62,15 @@
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
 <!ENTITY pref_category_general "Coitcheann">
-<!ENTITY pref_category_privacy "Prìobhaideachd ┐ Tèarainteachd">
+<!ENTITY pref_category_privacy "Prìobhaideachd ⁊ Tèarainteachd">
 <!ENTITY pref_category_content "Susbaint">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "Ion-phortaich ⁊ às-phortaich">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \'gam thracadh">
 <!ENTITY pref_telemetry "Cuir dàta mun dèanadas">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 <!ENTITY pref_cookies "Cuir briosgaidean an comas">
-<!ENTITY pref_char_encoding "Còdachadh charactairean">
+<!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
 <!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
 <!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
@@ -86,20 +86,20 @@
 <!ENTITY pref_font_size_xlarge "Anabarrach mòr">
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_import_android "Ion-phortaich o Android">
+<!ENTITY pref_private_data_history "Eachdraidh a\' bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
+<!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
 <!ENTITY pref_private_data_cookies "Briosgaidean">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Active logins">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_cache "An tasgadan">
+<!ENTITY pref_private_data_sessions "Logadh a-steach beò sam bith">
+<!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
+<!ENTITY pref_private_data_siteSettings "Roghainnean na làraich">
 
 <!ENTITY quit "Fàg an-seo">
 
 <!ENTITY addons "Tuilleadain">
 <!ENTITY downloads "Luchdaidhean a-nuas">
-<!ENTITY char_encoding "Còdachadh charactairean">
+<!ENTITY char_encoding "Còdachadh charactaran">
 
 <!ENTITY share "Co-roinn">
 <!ENTITY share_title "Co-roinn slighe">
@@ -119,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
+<!ENTITY contextmenu_pasteandgo "Cuir ann ⁊ rach ann">
+<!ENTITY contextmenu_paste "Cuir ann">
+<!ENTITY contextmenu_copyurl "Dèan lethbhreac dhen t-seòladh">
 <!ENTITY contextmenu_edit_bookmark "Deasaich">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -147,7 +150,7 @@
 
 <!ENTITY button_ok "Ceart ma-tha">
 <!ENTITY button_cancel "Sguir dheth">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_clear_data "Falamhaich an dàta">
 
 <!ENTITY abouthome_addons_title "Tuilleadain airson &brandShortName; agad">
 <!ENTITY abouthome_addons_browse "Brabhsaich gach tuilleadan &brandShortName;">
@@ -179,14 +182,14 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a tha \'ga ruith le">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_button_import "Ion-phortaich">
+<!ENTITY bookmarkhistory_import_both "Ag ion-phortadh nan comharra-lìn 
+is na h-eachdraidh o Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ag ion-phortadh nan comharra-lìn 
+o Android">
+<!ENTITY bookmarkhistory_import_history "Ag ion-phortadh na h-eachdraidh 
+o Android">
+<!ENTITY bookmarkhistory_import_wait "Fuirich ort…">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
+<!ENTITY private_data_fail "Cha b\' urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
