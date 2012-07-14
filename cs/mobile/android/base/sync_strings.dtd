@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -46,6 +50,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "Prosím opkaujte znovu.">
+<!ENTITY sync.pair.connectlocation.label "K aktivaci nového zařízení zvolte „Nastavit &syncBrand.shortName.label;“ a pak vyberte „Již mám účet“.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label "Možnosti">
