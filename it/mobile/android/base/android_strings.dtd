@@ -42,6 +42,7 @@
 <!ENTITY site_security "Sicurezza del sito">
 <!ENTITY close_tab "Chiudi scheda">
 <!ENTITY new_tab "Nuova scheda">
+<!ENTITY one_tab "1 scheda">
 <!ENTITY num_tabs "&#037;d schede">
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY settings "Impostazioni">
@@ -87,6 +88,7 @@
 <!ENTITY char_encoding "Codifica caratteri">
 <!ENTITY share "Condividi">
 <!ENTITY share_title "Condividi con">
+<!ENTITY share_image_failed "Impossibile condividere questa immagine">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY find_in_page "Trova nella pagina">
 <!ENTITY desktop_mode "Richiedi versione desktop">
