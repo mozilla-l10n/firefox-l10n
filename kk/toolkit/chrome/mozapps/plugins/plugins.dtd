@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Бұл құраманы көрсету үшін плагин керек.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Плагинді белсендіру үшін осында шертіңіз.">
-<!ENTITY clickToPlayPlugins                                  "Плагиндерді белсендіру үшін осында шертіңіз.">
+<!ENTITY clickToPlayPlugin                                   "Плагинді белсендіру үшін осында шертіңіз.">
 <!ENTITY disabledPlugin                                      "Плагин сөндірулі.">
 <!ENTITY blockedPlugin.label                                 "Плагин сіздің қауіпсіздігіңіз мақсатында өшірілген.">
 
