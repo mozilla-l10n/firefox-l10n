@@ -88,6 +88,7 @@
 <!ENTITY bookmarksMenu.accesskey "З">
 <!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
@@ -466,3 +467,7 @@
 <!ENTITY toggleAddonBarCmd.key "\">
 <!ENTITY markupButton.arialabel "Разметка">
 <!ENTITY markupButton.accesskey "а">
+<!ENTITY social.sharePopup.undo.label "Больше не делиться">
+<!ENTITY social.sharePopup.undo.accesskey "ш">
+<!ENTITY social.sharePopup.ok.label "OK">
+<!ENTITY social.sharePopup.ok.accesskey "O">

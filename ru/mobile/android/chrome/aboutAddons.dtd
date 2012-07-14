@@ -8,4 +8,4 @@
 <!ENTITY addonAction.enable "Включить">
 <!ENTITY addonAction.disable "Отключить">
 <!ENTITY addonAction.uninstall "Удалить">
-<!ENTITY addonAction.cancel "Отмена">
+<!ENTITY addonAction.undo "Отменить">
