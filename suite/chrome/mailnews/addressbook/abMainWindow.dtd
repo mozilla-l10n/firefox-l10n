@@ -98,6 +98,20 @@
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Libretas de direcciones">
 
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Contacto">
+<!ENTITY home.heading                                   "Casa">
+<!ENTITY other.heading                                  "Otros">
+<!ENTITY phone.heading                                  "Teléfono">
+<!ENTITY work.heading                                   "Trabajo">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Descripción">
+<!ENTITY addresses.heading                              "Direcciones">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Obtener mapa">
+<!ENTITY mapIt.tooltip                                  "Mostrar un mapa de esta dirección desde la web">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
 
