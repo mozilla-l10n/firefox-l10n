@@ -42,6 +42,7 @@
 <!ENTITY site_security "Защита сайта">
 <!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY new_tab "Новая вкладка">
+<!ENTITY one_tab "1 вкладка">
 <!ENTITY num_tabs "&#037;d вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
