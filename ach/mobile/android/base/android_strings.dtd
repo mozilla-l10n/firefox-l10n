@@ -119,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark "Remove">
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
 <!ENTITY contextmenu_share "Nywak">
+<!ENTITY contextmenu_pasteandgo "Dac &amp; Ceti">
+<!ENTITY contextmenu_paste "Paste">
+<!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Yubi">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
