@@ -47,8 +47,16 @@
 
 <!ENTITY reload "Obnovit">
 <!ENTITY forward "Vpřed">
+<!ENTITY menu "Nabídka">
+<!ENTITY back "Zpět">
+<!ENTITY stop "Zastavit">
+<!ENTITY site_security "Zabezpečení stránky">
 
+<!ENTITY close_tab "Zavřít panel">
 <!ENTITY new_tab "Nový panel">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d panely">
 <!ENTITY new_tab_opened "Nový panel otevřen">
 
 <!ENTITY settings "Nastavení">
@@ -56,7 +64,8 @@
 <!ENTITY pref_category_general "Obecné">
 <!ENTITY pref_category_privacy "Soukromí a bezpečnost">
 <!ENTITY pref_category_content "Obsah">
-<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_category_importexport "Import a export">
+<!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
 <!ENTITY pref_do_not_track "Říct serverům, že nechci být sledován">
 <!ENTITY pref_telemetry "Odesílat data o výkonu">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
@@ -64,10 +73,7 @@
 <!ENTITY pref_char_encoding "Znaková sada">
 <!ENTITY pref_char_encoding_on "Zobrazit nabídku">
 <!ENTITY pref_char_encoding_off "Nezobrazovat nabídku">
-<!ENTITY pref_clear_history "Smazat historii">
-<!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
 <!ENTITY pref_clear_private_data "Vymazat důvěrná data">
-<!ENTITY pref_clear_private_data_confirm "Data z prohlížení včetně hesel a cookies budou smazána">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolit">
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
@@ -80,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Extra velké">
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Importovat z Androidu">
+<!ENTITY pref_private_data_history "Historie a stahování">
+<!ENTITY pref_private_data_formdata "Formuláře a hledání">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Mezipaměť">
+<!ENTITY pref_private_data_sessions "Aktivní přihlášení">
+<!ENTITY pref_private_data_offlineApps "Offline data">
+<!ENTITY pref_private_data_siteSettings "Předvolby serveru">
 
 <!ENTITY quit "Ukončit">
 
@@ -91,6 +105,7 @@
 <!ENTITY share_title "Sdálet pomocí">
 <!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY find_in_page "Najít ve stránce">
+<!ENTITY desktop_mode "Desktopová verze">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -100,14 +115,22 @@
 <!ENTITY find_close "Zavřít">
 
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
-<!ENTITY contextmenu_remove_bookmark "Smazat">
+<!ENTITY contextmenu_remove_history "Odebrat">
+<!ENTITY contextmenu_remove_bookmark "Odebrat">
 <!ENTITY contextmenu_add_to_launcher "Přidat na úvodní obrazovku">
 <!ENTITY contextmenu_share "Sdílet">
+<!ENTITY contextmenu_pasteandgo "Vložit a přejít">
+<!ENTITY contextmenu_paste "Vložit">
+<!ENTITY contextmenu_copyurl "Kopírovat adresu">
 <!ENTITY contextmenu_edit_bookmark "Upravit">
 
-<!ENTITY bookmark_edit_title "Upraviz záložku">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Stránka odebrána">
+
+<!ENTITY bookmark_edit_title "Upravit záložku">
 <!ENTITY bookmark_edit_name "Název">
-<!ENTITY bookmark_edit_location "Umístění">
+<!ENTITY bookmark_edit_location "Adresa">
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
 
 <!ENTITY site_settings_title "Vymazat nastavení serveru">
@@ -115,18 +138,19 @@
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
 
-<!ENTITY masterpassword_create_title "Vytvořit hlavní heslo">
-<!ENTITY masterpassword_remove_title "Odebrat hlavní heslo">
-<!ENTITY masterpassword_password "Heslo">
-<!ENTITY masterpassword_confirm "Potvrzení hesla">
-
 <!ENTITY add_to_reading_list "Přidat do Seznamu ke čtení">
 <!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!ENTITY reader_mode "Režim čtení">
 
+<!ENTITY masterpassword_create_title "Vytvořit hlavní heslo">
+<!ENTITY masterpassword_remove_title "Odebrat hlavní heslo">
+<!ENTITY masterpassword_password "Heslo">
+<!ENTITY masterpassword_confirm "Potvrzení hesla">
+
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušit">
+<!ENTITY button_clear_data "Vymazat data">
 
 <!ENTITY abouthome_addons_title "Doplňky aplikace &brandShortName;">
 <!ENTITY abouthome_addons_browse "Zobrazit všechny doplňky aplikace &brandShortName;">
@@ -142,3 +166,30 @@
 <!ENTITY filepicker_audio_title "Vyberte nebo nahrajte zvuk">
 <!ENTITY filepicker_image_title "Vyberte nebo vyfoťte obrázek">
 <!ENTITY filepicker_video_title "Vyberte nebo natočte video">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Jste připojeni k">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "která je provozována">
+
+<!ENTITY bookmarkhistory_button_import "Importovat">
+<!ENTITY bookmarkhistory_import_both "Importování záložek a historie z Androidu">
+
+<!ENTITY bookmarkhistory_import_bookmarks "Importování záložek z Androidu">
+
+<!ENTITY bookmarkhistory_import_history "Importování historie z Androidu">
+
+<!ENTITY bookmarkhistory_import_wait "Prosím čekejte...">
+
+<!ENTITY private_data_success "Důvěrná data vymazána">
+<!ENTITY private_data_fail "Některá data se nepodařilo vymazat">
