@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Pulaar Fulfulde (FF)
+#define MOZ_LANG_TITLE Pulaar Fulfulde

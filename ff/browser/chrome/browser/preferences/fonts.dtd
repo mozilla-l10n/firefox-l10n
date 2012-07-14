@@ -14,8 +14,8 @@
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Podditiiɗe:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional.label                      "Pottondirɗe:">
+<!ENTITY  proportional.accesskey                  "t">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
@@ -59,7 +59,7 @@
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ɓetol fontere lesol:">
 <!ENTITY minSize.accesskey                        "o">
-<!ENTITY minSize.none                             "Hay baɗte">
+<!ENTITY minSize.none                             "Ndiga">
 <!-- default font type -->
 
 <!ENTITY  useDefaultFontSerif.label               "Serif">
@@ -69,5 +69,5 @@
 <!ENTITY  allowPagesToUse.accesskey               "Y">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Dokkitannde Alkule">
-<!ENTITY languages.customize.DefaultCharset.label       "Dokkitannde Alkule Waawaande:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "A">
+<!ENTITY languages.customize.DefaultCharset.label       "Dokkitannde Alkule Woowaande:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "W">

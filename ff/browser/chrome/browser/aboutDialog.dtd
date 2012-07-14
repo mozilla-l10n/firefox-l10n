@@ -25,7 +25,7 @@
 <!ENTITY community.creditsLink      "renndo huuɓngo">
 <!ENTITY community.end3             " gollotoongo ngam Geese ɓeydoo udditaade, tawaa ko nafoore winndere fof.">
 
-<!ENTITY contribute.start           "Ena henanimaa?">
+<!ENTITY contribute.start           "Ena henanimaa? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Addu ballal maa!">
 <!ENTITY contribute.end             "">
@@ -42,7 +42,7 @@
 
 <!ENTITY update.checkingForUpdates  "Nana yiyloo kesɗitine…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Nana ƴeewtoo jaaɓondiral ɓeyditte...">
+<!ENTITY update.checkingAddonCompat "Nana ƴeewtoo jaaɓondiral ɓeyditte…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ena hesɗiti">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

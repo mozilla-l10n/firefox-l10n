@@ -12,7 +12,7 @@
 <!ENTITY  locationBar.label             "Palal Nokkuure">
 
 <!ENTITY  locbar.pre.label              "So aɗa huutoroo palal nokkuure, wasiyo:">
-<!ENTITY  locbar.pre.accessKey          "h">
+<!ENTITY  locbar.pre.accessKey          "k">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Aslol e Maantore">
 <!ENTITY  locbar.history.label          "Aslol">
@@ -35,7 +35,7 @@
 <!ENTITY  cookieExceptions.label        "Palooje…">
 <!ENTITY  cookieExceptions.accesskey    "P">
 
-<!ENTITY  showCookies.label             "Hollu kukiiji…">
+<!ENTITY  showCookies.label             "Hollu kukiije…">
 <!ENTITY  showCookies.accesskey         "u">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; maa:">

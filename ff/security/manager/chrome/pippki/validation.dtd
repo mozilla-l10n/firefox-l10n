@@ -21,7 +21,7 @@
 <!ENTITY  validation.crl.autoupdate.time.label1   "Hesɗitin">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Balɗe hade ñalngu Kesɗitinal Garowal">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Hesɗitin kala">
-<!ENTITY  validation.crl.autoupdate.freq.label2   "Balɗe">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "Ñalngu(Balɗe)">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL fotata jiggeede Ko e:">
 <!ENTITY  crl.import.status.title                 "Ngonka Jiggagol CRL">
 <!ENTITY  crl.import.success.message              "Doggol Diiwtugol Seedamfaaje ngol (CRL) jigaama no haanirta.">

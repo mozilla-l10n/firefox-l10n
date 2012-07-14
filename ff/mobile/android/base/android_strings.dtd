@@ -64,7 +64,7 @@
 <!ENTITY pref_category_general "Kuuɓal">
 <!ENTITY pref_category_privacy "Suturo &amp; Kisal">
 <!ENTITY pref_category_content "Loowdi">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "Jiggo &amp; Jiggito">
 <!ENTITY pref_about_firefox "Baɗte &brandShortName;">
 <!ENTITY pref_do_not_track "Haalan lowe mi yiɗaa rewindeede">
 <!ENTITY pref_telemetry "Neldu keɓe moƴƴugol">
@@ -86,14 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Ɓurnde Mawnude">
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_sync "Sanngoɗin">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_import_android "Jiggo iwde e Android">
+<!ENTITY pref_private_data_history "Peeragol &amp; aslol gaawte">
+<!ENTITY pref_private_data_formdata "Formere &amp; aslol njiilaw">
 <!ENTITY pref_private_data_cookies "Kukiije">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Active logins">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_cache "Kaasol">
+<!ENTITY pref_private_data_sessions "Ceŋanɗe caasɗe">
+<!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
+<!ENTITY pref_private_data_siteSettings "Cuɓoraaɗe lowre">
 
 <!ENTITY quit "Yaltu">
 
@@ -119,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark "Momtu">
 <!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
 <!ENTITY contextmenu_share "Simmin">
+<!ENTITY contextmenu_pasteandgo "Ɗakku &amp; Yah">
+<!ENTITY contextmenu_paste "Ɗakku">
+<!ENTITY contextmenu_copyurl "Natto Ñiiɓirde">
 <!ENTITY contextmenu_edit_bookmark "Taƴto">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -147,7 +150,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Haaytu">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_clear_data "Momtu keɓe">
 
 <!ENTITY abouthome_addons_title "Ɓeyditte &brandShortName; maa">
 <!ENTITY abouthome_addons_browse "Yiylo ɓeyditte &brandShortName; fof">
@@ -179,14 +182,14 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "yuɓɓini ɗum ko">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_button_import "Jiggo">
+<!ENTITY bookmarkhistory_import_both "Nana jiggoo maantore e aslol 
+iwde e Androis">
+<!ENTITY bookmarkhistory_import_bookmarks "Nana jiggoo maantore 
+iwde e Android">
+<!ENTITY bookmarkhistory_import_history "Nana jiggoo aslol 
+iwde e Android">
+<!ENTITY bookmarkhistory_import_wait "Tiiɗno sabbo...">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "Keɓe curaaɗe momtaama">
+<!ENTITY private_data_fail "Won e keɓe cuuriiɗe ɗe keɓaani momteede">
