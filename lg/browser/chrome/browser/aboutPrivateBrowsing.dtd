@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; tejja kujjukira ebyafayo mu kiseera kino.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; teri mu'mbera eyo'Kunoonya Okutongozeddwa kakano.">
 
-<!ENTITY privatebrowsingpage.description               "Mumbera eyo'Kunoonya Okutongozeddwa, &brandShortName; tejja kutereeka ebyafayo mukunoonya, kuwanula, kuwayo, bubaka oba fayiro ezakaseera.  Wabula fayiro zo wanula ne'miko gyolamba gyi jja kutereekebwa.o">
+<!ENTITY privatebrowsingpage.description               "Mumbera eyo'Kunoonya Okutongozeddwa, &brandShortName; tejja kutereeka ebyafayo mukunoonya, kuwanula, kuwayo, bubaka oba fayiro ezakaseera.  Wabula fayiro zo wanula ne'miko gyolamba gyi jja kutereekebwa.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 

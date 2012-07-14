@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Kkiriza emiko oku londa langi zazzo, mukyifo kyo okukebere muzena lonze wagulu">
-<!ENTITY  allowPagesToUse.accesskey       "y">
+<!ENTITY  allowPagesToUse.accesskey       "m">
 
 <!ENTITY  color                           "Ebigambo n'Obwaliriro">
 <!ENTITY  textColor.label                 "Ebigambo:">
@@ -21,6 +21,6 @@
 <!ENTITY  underlineLinks.accesskey        "S">
 <!ENTITY  links                           "Langi z'Agatta">
 <!ENTITY  linkColor.label                 "Obugatta Obutanakyaalirwa:">
-<!ENTITY  linkColor.accesskey             "O">
+<!ENTITY  linkColor.accesskey             "t">
 <!ENTITY  visitedLinkColor.label          "Obugatta Obukyaliddwa:">
 <!ENTITY  visitedLinkColor.accesskey      "u">

@@ -15,7 +15,7 @@
 <!ENTITY showTabBar.accesskey         "a">
 
 <!ENTITY restoreTabsOnDemand.label        "Totika awaddirira nga tewana londebwa">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
+<!ENTITY restoreTabsOnDemand.accesskey    "T">
 
 <!ENTITY switchToNewTabs.label        "Bwe nzigula akagatta mu waddirira awampya, kyuusa amangu ddala">
 <!ENTITY switchToNewTabs.accesskey    "k">

@@ -24,13 +24,13 @@
 
 <!ENTITY  passwords.label               "Ebisumuluzo">
 
-<!ENTITY  rememberPasswords.label       "Jjukira obisumuluzo bw'enfo">
-<!ENTITY  rememberPasswords.accesskey   "J">
+<!ENTITY  rememberPasswords.label       "Jjukira ebisumuluzo bye'ebibanja">
+<!ENTITY  rememberPasswords.accesskey   "b">
 <!ENTITY  passwordExceptions.label      "Okujjako…">
 <!ENTITY  passwordExceptions.accesskey  "k">
 
 <!ENTITY  useMasterPassword.label        "Kozesa ekisumuluzo ekifuga byonna">
-<!ENTITY  useMasterPassword.accesskey    "K">
+<!ENTITY  useMasterPassword.accesskey    "m">
 <!ENTITY  changeMasterPassword.label     "Kyuusa Ekisumuluzo Ekifuga byonna…">
 <!ENTITY  changeMasterPassword.accesskey "E">
 

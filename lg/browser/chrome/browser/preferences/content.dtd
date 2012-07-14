@@ -24,7 +24,7 @@
 <!ENTITY  fontsAndColors.label        "Enukuta &amp; Langi">
 
 <!ENTITY  defaultFont.label           "Enukuta eyenkalakkalira:">
-<!ENTITY  defaultFont.accesskey       "n">
+<!ENTITY  defaultFont.accesskey       "k">
 <!ENTITY  defaultSize.label           "Obunene:">
 <!ENTITY  defaultSize.accesskey       "O">
 
@@ -38,4 +38,4 @@
 <!ENTITY languages.label              "Ennimi">
 <!ENTITY chooseLanguage.label         "Londako olulimi lwoyagala okulabiramu emiko">
 <!ENTITY chooseButton.label           "Londako…">
-<!ENTITY chooseButton.accesskey       "n">
+<!ENTITY chooseButton.accesskey       "d">

@@ -21,8 +21,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Ndaga nga.">
-<!ENTITY sync.link.advancedsetup.label "Okutegeka Okwawagulu...">
-<!ENTITY sync.link.nodevice.label "Sirina ekyuma wano nange...">
+<!ENTITY sync.link.advancedsetup.label "Okutegeka Okwawagulu…">
+<!ENTITY sync.link.nodevice.label "Sirina ekyuma wano nange…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Okulindirira ekyuma ekyirala…">

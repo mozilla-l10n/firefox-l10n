@@ -16,14 +16,14 @@
 <!ENTITY useCurrentPage.accesskey  "k">
 <!ENTITY useMultiple.label         "Kozesa emiko Ej'obuliwo">
 <!ENTITY chooseBookmark.label      "Kozesa Akalambe…">
-<!ENTITY chooseBookmark.accesskey  "z">
+<!ENTITY chooseBookmark.accesskey  "e">
 <!ENTITY restoreDefault.label      "Zaawo Ebyenkalakalira">
 <!ENTITY restoreDefault.accesskey  "Z">
 
 <!ENTITY downloads.label     "Ebiwanuddwa">
 
 <!ENTITY showWhenDownloading.label     "Laga edirisa lye ebitikulwa nga otikula fayiro">
-<!ENTITY showWhenDownloading.accesskey "b">
+<!ENTITY showWhenDownloading.accesskey "f">
 <!ENTITY closeWhenDone.label "Ggalawo ng'omalirizza okuwanula">
 <!ENTITY closeWhenDone.accesskey "n">
 <!ENTITY saveTo.label "Teleka fayiro ku">

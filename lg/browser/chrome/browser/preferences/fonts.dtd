@@ -66,8 +66,8 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serifa">
 
 <!ENTITY  allowPagesToUse.label                   "Kkiriza emiko okwelonderamu ennukuta zaazo, mukyifo kyezo zenonzeko wagulu">
-<!ENTITY  allowPagesToUse.accesskey               "z">
+<!ENTITY  allowPagesToUse.accesskey               "w">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Ennyukuta Enkusike">
 <!ENTITY languages.customize.DefaultCharset.label       "Ennukuta Enkusike Ezenkalakalira:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "E">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "i">

@@ -19,10 +19,10 @@
 
 <!ENTITY useAutoScroll.label             "Kozesa aketwala kooka">
 <!ENTITY useAutoScroll.accesskey         "s">
-<!ENTITY useSmoothScrolling.label        "Kozesa aketwala akaguu">
-<!ENTITY useSmoothScrolling.accesskey    "k">
-<!ENTITY allowHWAccel.label              "Kozesa enyanguya ye ebyuma webanga weri">
-<!ENTITY allowHWAccel.accesskey          "b">
+<!ENTITY useSmoothScrolling.label        "Kozesa okutambuza okuwereete">
+<!ENTITY useSmoothScrolling.accesskey    "o">
+<!ENTITY allowHWAccel.label              "Kozesa okwanguya kwe ebyuma wekubanga wekuli">
+<!ENTITY allowHWAccel.accesskey          "u">
 <!ENTITY checkSpelling.label             "Kebera byempandika nga bwe mpandiika">
 <!ENTITY checkSpelling.accesskey         "b">
 
@@ -32,11 +32,11 @@
 <!ENTITY alwaysCheckDefault.accesskey    "l">
 <!ENTITY setDefault.label                "Fula &brandShortName; enonyeso yo eyenkalakalira">
 <!ENTITY setDefault.accesskey            "k">
-<!ENTITY isDefault.label                 "&brandShortName; ye enonyeso yo eyenkalakalira kakati">
+<!ENTITY isDefault.label                 "&brandShortName; ye'nonyeso yo eyenkalakalira kakati">
 <!ENTITY submitCrashes.label             "Wayo alipota zo kuzikirira">
 <!ENTITY submitCrashes.accesskey         "W">
-<!ENTITY submitTelemetry.label           "Wwayo data we'enkola">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "Wwayo bwino akwata kunkola">
+<!ENTITY submitTelemetry.accesskey       "w">
 
 <!ENTITY networkTab.label                "Omukutu">
 

@@ -49,7 +49,7 @@
 <!ENTITY forward "Mumasso">
 <!ENTITY menu "Eby\'okulondako">
 <!ENTITY back "Back">
-<!ENTITY stop "Stop">
+<!ENTITY stop "Yimiriza">
 <!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Ggalawo Awaddirira">
@@ -87,13 +87,13 @@
 <!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
 <!ENTITY pref_sync "Tusaganya">
 <!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_history "Ebifudeyo mu\'kunoonya &amp; mu\'kutikula">
+<!ENTITY pref_private_data_formdata "Ebifudeyo ku fomu &amp; okunoonya">
 <!ENTITY pref_private_data_cookies "Kukki">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Active logins">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_cache "Eterekero elyo kumpii">
+<!ENTITY pref_private_data_sessions "Abalimunda kakano">
+<!ENTITY pref_private_data_offlineApps "Bwiino we\'ekibanja ekitayungiddwa ku Mutimbangano">
+<!ENTITY pref_private_data_siteSettings "Eby\'okweroboza ku Kibanja">
 
 <!ENTITY quit "Vaayo">
 
@@ -119,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark "Jjawo">
 <!ENTITY contextmenu_add_to_launcher "Yongera ku Sikulini Yeka">
 <!ENTITY contextmenu_share "Gaabana">
+<!ENTITY contextmenu_pasteandgo "Siiga &amp; Ogende">
+<!ENTITY contextmenu_paste "Paste">
+<!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Kyusa">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -179,7 +182,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kiddukanyizibwa">
 
-<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_button_import "Leeta okuva ewalala">
 <!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
                                       from Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks

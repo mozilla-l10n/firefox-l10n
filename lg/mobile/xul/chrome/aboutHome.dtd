@@ -14,7 +14,7 @@
 <!ENTITY aboutHome.noAddons                     "Tewali byongerwako biwagirwa">
 <!ENTITY aboutHome.getLocale                    "Kyuusa Olulimi">
 <!ENTITY aboutHome.getInBeforeBeta              "Yingira munda nga tonaaba kutuka ku Beta.">
-<!ENTITY aboutHome.tryAurora                    "Gezako Firefox Aurora era oyambe mukutereza ebyomumaaso ebya Firefox">
+<!ENTITY aboutHome.tryAurora                    "Gezako Firefox Aurora era oyambe mukutereza ebyomumaaso ebya Firefox.">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
