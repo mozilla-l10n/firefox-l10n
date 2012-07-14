@@ -39,7 +39,7 @@
 <!ENTITY chatzilla.label       "ChatZilla">
 <!ENTITY version.unknown.label "නිකුතුව නොදනී">
 <!ENTITY version.known.label   "නිකුතුව &#37;S">
-<!ENTITY description.label     "A clean, easy to use and highly extensible Internet Relay Chat (IRC) client.">
+<!ENTITY description.label     "පැහැදිලි, භාවිතයට පහසු සහ වඩා විතන්‍ය අන්තර්ජාල ප්‍රතිප්‍රචාර පිළිසඳර (IRC) සඳහා සේවාලාභියා.">
 
 <!ENTITY homepage.label    "මුලුපිටිවට යන්න">
 <!ENTITY copyversion.label "නිකුතු විස්තර පිටපත් කරන්න">
