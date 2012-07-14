@@ -5,7 +5,7 @@
 <!ENTITY  blockPopups.label           "Cuir bacadh air priob-uinneagan">
 <!ENTITY  blockPopups.accesskey       "b">
 <!ENTITY  popupExceptions.label       "Eisgeachdan…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.accesskey   "g">
 
 <!ENTITY  loadImages.label            "Luchdaichear dealbhan leis fhèin">
 <!ENTITY  loadImages.accesskey        "i">
@@ -15,21 +15,21 @@
 <!ENTITY  enableJavaScript.label      "Cuir JavaScript an comas">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Adhartach…">
-<!ENTITY  advancedJS.accesskey        "A">
+<!ENTITY  advancedJS.accesskey        "t">
 
 <!ENTITY  enableJava.label            "Cuir Java an comas">
 <!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "Cruthan-clò ┐ dathan">
+<!ENTITY  fontsAndColors.label        "Cruthan-clò ⁊ dathan">
 
 <!ENTITY  defaultFont.label           "An cruth-clò bunaiteach:">
-<!ENTITY  defaultFont.accesskey       "A">
+<!ENTITY  defaultFont.accesskey       "u">
 <!ENTITY  defaultSize.label           "Meud:">
 <!ENTITY  defaultSize.accesskey       "M">
 
 <!ENTITY  advancedFonts.label         "Adhartach…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.accesskey     "h">
 
 <!ENTITY  colors.label                "Dathan…">
 <!ENTITY  colors.accesskey            "D">

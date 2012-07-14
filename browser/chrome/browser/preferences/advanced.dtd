@@ -13,16 +13,16 @@
 <!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
 <!ENTITY searchStartTyping.accesskey     "L">
 <!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.accesskey      "f">
 
 <!ENTITY browsing.label                  "A' brabhsadh">
 
 <!ENTITY useAutoScroll.label             "Cleachd sgroladh fèin-obrachail">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Cleachd sgroladh caoin">
-<!ENTITY useSmoothScrolling.accesskey    "C">
+<!ENTITY useSmoothScrolling.accesskey    "o">
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkSpelling.label             "Ceartachadh litreachaidh beò">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -59,9 +59,9 @@
 <!ENTITY limitCacheSizeBefore.label      "Cuingich an tasgadan gu">
 <!ENTITY limitCacheSizeBefore.accesskey  "C">
 <!ENTITY limitCacheSizeAfter.label       "MB a dh'àite">
-<!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
-<!ENTITY clearCacheNow.accesskey         "c">
-<!ENTITY clearOfflineAppCacheNow.label   "Falmhaich an-dràsta">
+<!ENTITY clearCacheNow.label             "Falamhaich an-dràsta">
+<!ENTITY clearCacheNow.accesskey         "F">
+<!ENTITY clearOfflineAppCacheNow.label   "Falamhaich an-dràsta">
 <!ENTITY clearOfflineAppCacheNow.accesskey "c">
 <!ENTITY overrideSmartCacheSize.label    "Leig seachad stiùireadh fèin-obrachail an tasgadain">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
@@ -80,7 +80,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "T">
 
 <!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
-<!ENTITY updateHistory.accesskey         "S">
+<!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "C">

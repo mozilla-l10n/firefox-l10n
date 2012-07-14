@@ -13,7 +13,7 @@
 <!ENTITY  systemTypeRadio.label         "Cleachd roghainnean progsaidh an t-siostaim">
 <!ENTITY  systemTypeRadio.accesskey     "C">
 <!ENTITY  WPADTypeRadio.label           "Mothaich do roghainnean progsaidh leis fhèin air an lìonra seo">
-<!ENTITY  WPADTypeRadio.accesskey       "M">
+<!ENTITY  WPADTypeRadio.accesskey       "h">
 <!ENTITY  manualTypeRadio.label         "Rèiteachadh-làimhe nam progsaidh:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL rèiteachadh nam progsaidh leis fhèin:">

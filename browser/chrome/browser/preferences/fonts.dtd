@@ -15,14 +15,14 @@
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Co-rèireach:">
-<!ENTITY  proportional.accesskey                  "C">
+<!ENTITY  proportional.accesskey                  "o">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Clò aon-leud:">
-<!ENTITY  monospace.accesskey                     "C">
+<!ENTITY  monospace.accesskey                     "l">
 
 <!ENTITY  font.langGroup.latin1                   "Siarach">
 <!ENTITY  font.langGroup.latin2                   "Meadhan-Eòrpach">
@@ -68,6 +68,6 @@
 <!ENTITY  allowPagesToUse.label                   "Leig le duilleagan na cruthan-clò aca fhèin a thaghadh seach mo thaghadh-sa gu h-àrd">
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Còdachadh charactairean">
-<!ENTITY languages.customize.DefaultCharset.label       "Còdachadh charactairean bunaiteach:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.Charset.grouplabel         "Còdachadh charactaran">
+<!ENTITY languages.customize.DefaultCharset.label       "Còdachadh charactaran bunaiteach:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "b">

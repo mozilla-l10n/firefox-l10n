@@ -6,7 +6,7 @@
 <!ENTITY dialog.dimensions        "width: 95ch; height: 42em;">
 <!ENTITY instructions.description "'S urrainn dhut rudan a chur ris no a thoirt air falbh le bhith 'gan slaodadh air a' bhàr-inneil no air falbh uaithe.">
 <!ENTITY show.label               "Seall:">
-<!ENTITY iconsAndText.label       "Ìomhaigheagan is teacs">
+<!ENTITY iconsAndText.label       "Ìomhaigheagan is teacsa">
 <!ENTITY icons.label              "Ìomhaigheagan">
 <!ENTITY text.label               "Teacsa">
 <!ENTITY useSmallIcons.label      "Cleachd ìomhaigheagan beaga">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY header.label     "Ainm goirid"> 
-<!ENTITY message.label    "Ball-sampaill de theacs an-seo.">
+<!ENTITY message.label    "Ball-sampaill de theacsa an-seo.">
 <!ENTITY editfield0.label "Ainm a' chleachdaiche:"> 
 <!ENTITY editfield1.label "Facal-faire:"> 
 <!ENTITY checkbox.label   "cuir cromag">

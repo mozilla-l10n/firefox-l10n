@@ -13,7 +13,7 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Ath-shuidhich">
-<!ENTITY resetPassword.title  "Falmhaich am prìomh fhacal-faire">
+<!ENTITY resetPassword.title  "Falamhaich am prìomh fhacal-faire">
 <!ENTITY resetPassword.text  "Ma dh'fhalmhaicheas tu am prìomh fhacal-faire, thèid gach facal-faire airson làraichean-lìn is puist-dhealain, dàta fhoirmichean, teisteanasan pearsanta is iuchraichean prìobhaideach air chall. A bheil thu cinnteach gu bheil thu airson am prìomh fhacal-faire agad aiseag?">
 <!-- Values for getpassword.xul -->
 
@@ -88,9 +88,9 @@
 <!ENTITY createCertInfo.msg2 "Fuirich ort…">
 <!-- Form Signing confirmation prompt -->
 
-<!ENTITY formSigning.title "Iarrtas soidhneadh teacs">
+<!ENTITY formSigning.title "Iarrtas soidhneadh teacsa">
 <!ENTITY formSigning.cert "Teisteanas soidhnidh">
-<!ENTITY formSigning.confirmPassword "Gus dearbhadh gu bheil thu toilichte d' ainm a chur ris an teachdaireachd teacs seo leis an teisteanas a thagh thu, cuir a-steach am prìomh fhacal-faire agad:">
+<!ENTITY formSigning.confirmPassword "Gus dearbhadh gu bheil thu toilichte d' ainm a chur ris an teachdaireachd teacsa seo leis an teisteanas a thagh thu, cuir a-steach am prìomh fhacal-faire agad:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Dearbhadh le tòcan dìonta">

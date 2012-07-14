@@ -5,7 +5,7 @@
 <!ENTITY tracking.label                 "Tracadh">
 
 <!ENTITY doNotTrack.label               "Innis do làraichean-lìn nach bu toigh leam gun dèan iad tracadh orm">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.accesskey           "m">
 
 <!ENTITY  history.label                 "Eachdraidh">
 

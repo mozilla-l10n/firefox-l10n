@@ -537,7 +537,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Na sùm ach an teacs">
+<!ENTITY fullZoomToggleCmd.label        "Na sùm ach an teacsa">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Sùm">
 <!ENTITY fullZoom.accesskey             "S">
@@ -589,7 +589,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Atharraich comhair na duilleige">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Atharraich comhair an teacs">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Atharraich comhair an teacsa">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "A">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 

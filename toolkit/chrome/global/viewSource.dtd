@@ -55,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "P">
 <!ENTITY menu_highlightSyntax.label "Soillseachadh co-chàraidh">
 <!ENTITY menu_highlightSyntax.accesskey "h">
-<!ENTITY menu_textSize.label "Meud an teacs">
+<!ENTITY menu_textSize.label "Meud an teacsa">
 <!ENTITY menu_textSize.accesskey "M">
 <!ENTITY menu_textEnlarge.label "Clò nas motha">
 <!ENTITY menu_textEnlarge.accesskey "C">
