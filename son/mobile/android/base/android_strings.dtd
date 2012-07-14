@@ -48,9 +48,9 @@
 <!ENTITY reload "Dam taaga">
 <!ENTITY forward "Jine">
 <!ENTITY menu "Šilbayboŋ">
-<!ENTITY back "Back">
+<!ENTITY back "Banda">
 <!ENTITY stop "Kayandi">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Nungu saajaw">
 
 <!ENTITY close_tab "Nor lokoo daabu">
 <!ENTITY new_tab "Nor loku taaga">
@@ -64,6 +64,7 @@
 <!ENTITY pref_category_general "Hankul">
 <!ENTITY pref_category_privacy "Sutura nda saajaw">
 <!ENTITY pref_category_content "Gundekuna">
+<!ENTITY pref_category_importexport "Zaa &amp; fattandi">
 <!ENTITY pref_about_firefox "&brandShortName; ga">
 <!ENTITY pref_do_not_track "Nee nungey še i ma ši ay gana">
 <!ENTITY pref_telemetry "Teeyan bayhayey sanba">
@@ -72,10 +73,7 @@
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
-<!ENTITY pref_clear_history "Taarikoo tuusu">
-<!ENTITY pref_clear_history_confirm "Ceeciyan taarikoo ga tuusandi">
 <!ENTITY pref_clear_private_data "Sutura bayhayey tuusu">
-<!ENTITY pref_clear_private_data_confirm "Ceeciyan kayandiyaney, sanda šennikufaley nda aleewawey ga tuusandi">
 <!ENTITY pref_plugins "Sukarey">
 <!ENTITY pref_plugins_enabled "Tunante">
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
@@ -88,6 +86,14 @@
 <!ENTITY pref_font_size_xlarge "Bebbeeri">
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Zaa Android ra">
+<!ENTITY pref_private_data_history "Ceeciyan &amp; zumandiyan taariki">
+<!ENTITY pref_private_data_formdata "Šeedatiirawey &amp; ceeciyan taariki">
+<!ENTITY pref_private_data_cookies "Aleewawey">
+<!ENTITY pref_private_data_cache "Tugudoo">
+<!ENTITY pref_private_data_sessions "Ciyari goyantey">
+<!ENTITY pref_private_data_offlineApps "Bila-nda-ciyari Interneti nungu bayhayey">
+<!ENTITY pref_private_data_siteSettings "Nungu ibaayey">
 
 <!ENTITY quit "Fatta">
 
@@ -99,6 +105,7 @@
 <!ENTITY share_title "Žemna nda">
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
 <!ENTITY find_in_page "Ceeci moɲoo ra">
+<!ENTITY desktop_mode "Ordinater nungu hãa">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -112,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_share "Žemna">
+<!ENTITY contextmenu_pasteandgo "Dobu nda koy">
+<!ENTITY contextmenu_paste "Dobu">
+<!ENTITY contextmenu_copyurl "Aderesu berandi">
 <!ENTITY contextmenu_edit_bookmark "Fasal">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -140,6 +150,7 @@
 
 <!ENTITY button_ok "Ayyo">
 <!ENTITY button_cancel "Naŋ">
+<!ENTITY button_clear_data "Bayhayey kaa">
 
 <!ENTITY abouthome_addons_title "Tontoniyaŋ war &brandShortName; še">
 <!ENTITY abouthome_addons_browse "&brandShortName; tontoney kul guna">
@@ -170,3 +181,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kaŋ tunandikaa ti">
+
+<!ENTITY bookmarkhistory_button_import "Cendi ka dam">
+<!ENTITY bookmarkhistory_import_both "Doo-šilbawey nda taariki zaa 
+Android ra">
+<!ENTITY bookmarkhistory_import_bookmarks "Doo-šilbawey zaa 
+Android ra">
+<!ENTITY bookmarkhistory_import_history "Taariki zaa 
+Android ra">
+<!ENTITY bookmarkhistory_import_wait "Batu taare...">
+
+<!ENTITY private_data_success "Sutura bayhayey hun">
+<!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
