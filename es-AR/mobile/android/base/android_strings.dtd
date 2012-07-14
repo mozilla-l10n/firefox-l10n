@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY new_tab "Nueva pestaña">
+<!ENTITY one_tab "1 pestaña">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d pestañas">
@@ -105,6 +106,7 @@
 
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir vía">
+<!ENTITY share_image_failed "No se puede compartir esta imagen">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
@@ -196,3 +198,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importando historial
                                          desde Android">
 <!ENTITY bookmarkhistory_import_wait "Esperá...">
+
+<!ENTITY webapp_generic_name "Aplicación"
+>
