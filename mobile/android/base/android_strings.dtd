@@ -86,7 +86,6 @@
 <!ENTITY pref_font_size_xlarge "Extra grande">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_private_data_history "Historial de navegación y descargas">
 <!ENTITY pref_private_data_formdata "Historial de navegación y búsqueda">
