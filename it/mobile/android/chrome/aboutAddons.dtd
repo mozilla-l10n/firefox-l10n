@@ -8,4 +8,4 @@
 <!ENTITY addonAction.enable "Attiva">
 <!ENTITY addonAction.disable "Disattiva">
 <!ENTITY addonAction.uninstall "Disinstalla">
-<!ENTITY addonAction.cancel "Annulla">
+<!ENTITY addonAction.undo "Annulla">
