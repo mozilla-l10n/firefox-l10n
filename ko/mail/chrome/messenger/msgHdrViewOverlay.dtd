@@ -62,7 +62,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "이 메시지 보관">
 <!ENTITY hdrSmartReplyButton1.label		"빠른 답장">
 <!ENTITY hdrReplyButton1.label "답장">
-<!ENTITY hdrReplyButton1.tooltip "이 메시지에 답장">
+<!ENTITY hdrReplyButton2.tooltip		"이 메시지를 보낸 사람에게 답장">
 <!ENTITY hdrReplyAllButton1.label "전체 답장">
 <!ENTITY hdrReplyAllButton1.tooltip "보낸이와 모든 수신자에 답장">
 <!ENTITY hdrReplyListButton1.label "리스트로 답장">
