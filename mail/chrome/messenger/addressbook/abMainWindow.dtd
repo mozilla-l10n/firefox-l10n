@@ -165,6 +165,7 @@
 <!ENTITY _PhoneticName.accesskey "o">
 <!ENTITY contact.heading "연락처">
 <!ENTITY home.heading "자택">
+<!ENTITY chat.heading "채팅">
 <!ENTITY other.heading "기타">
 <!ENTITY phone.heading "전화">
 <!ENTITY work.heading "직장">
