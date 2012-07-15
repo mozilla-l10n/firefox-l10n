@@ -175,3 +175,5 @@
 <!ENTITY bookmarkhistory_import_bookmarks "북마크 가져오는 중">
 <!ENTITY bookmarkhistory_import_history "방문 기록 가져오는 중">
 <!ENTITY bookmarkhistory_import_wait "잠시 기다리세요...">
+
+<!ENTITY webapp_generic_name "앱">

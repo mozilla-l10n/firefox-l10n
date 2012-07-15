@@ -88,4 +88,4 @@
 <!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; 설치'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label '탭을 보내기 위해 &syncBrand.shortName.label; 설치'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '다른 기기로 탭을 보내기 위해 &syncBrand.fullName.label; 설치'>
-<!ENTITY sync.text.tab.sent.label '탭이 보내졌습니다!'>
+<!ENTITY sync.text.tab.sent.label '탭을 보냈습니다!'>
