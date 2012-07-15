@@ -148,3 +148,4 @@
 <!ENTITY bookmarkhistory_import_bookmarks "Импорт закладок из Android">
 <!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
 <!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
+<!ENTITY webapp_generic_name "Приложение">
