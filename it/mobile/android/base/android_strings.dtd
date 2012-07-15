@@ -148,3 +148,4 @@
 <!ENTITY bookmarkhistory_import_bookmarks "Importazione segnalibri da Android">
 <!ENTITY bookmarkhistory_import_history "Importazione cronologia da Android">
 <!ENTITY bookmarkhistory_import_wait "Attendere…">
+<!ENTITY webapp_generic_name "App">
