@@ -79,6 +79,7 @@
 <!ENTITY pref_private_data_sessions "Sesiones activas">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
+<!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
