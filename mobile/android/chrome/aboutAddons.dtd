@@ -5,4 +5,4 @@
 <!ENTITY addonAction.enable                     "사용">
 <!ENTITY addonAction.disable                    "중지">
 <!ENTITY addonAction.uninstall                  "삭제">
-<!ENTITY addonAction.cancel                     "취소">
+<!ENTITY addonAction.undo                       "되돌리기">
