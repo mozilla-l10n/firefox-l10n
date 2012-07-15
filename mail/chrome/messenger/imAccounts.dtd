@@ -1,5 +1,5 @@
 <!ENTITY accountsWindow.title			"인스턴트 메세지 상태">
-<!ENTITY accountsWindow.style			"width: 28em; height: 19em;"><!-- en-US: "width: 28em; height: 19em;" -->
+<!ENTITY accountsWindow2.style			"width: 28em; height: 19em;"><!-- en-US: "width: 28em; height: 19em;" -->
 <!ENTITY accountManager.newAccount.label	"새로운 계정">
 <!ENTITY accountManager.newAccount.accesskey	"N">
 <!ENTITY accountManager.close.label		"닫기">

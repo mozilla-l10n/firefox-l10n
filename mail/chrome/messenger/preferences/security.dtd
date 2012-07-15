@@ -56,3 +56,8 @@
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "쿠키 보기…">
 <!ENTITY showCookies.accesskey          "S">
+
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label			"웹 사이트에게 방문자 추적 중지 요청">
+<!ENTITY doNotTrack.accesskey			"d">
