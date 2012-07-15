@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Page suivante">
 <!ENTITY forwardCmd.accesskey         "a">
 <!ENTITY forwardButton.tooltip        "Avancer d'une page">
-<!ENTITY backForwardButtonMenu.tooltip "Faire un clic droit ou cliquer tout en déplaçant la souris vers le bas pour afficher l'historique">
+<!ENTITY backForwardButtonMenu.tooltip "Faire un clic droit ou cliquer en déplaçant la souris vers le bas pour afficher l'historique">
 <!ENTITY backForwardButtonMenuMac.tooltip "Cliquer tout en déplaçant la souris vers le bas pour afficher l'historique">
 <!ENTITY reloadCmd.label              "Actualiser">
 <!ENTITY reloadCmd.accesskey          "c">
