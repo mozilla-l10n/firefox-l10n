@@ -137,8 +137,6 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "기본 메일">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "표시명">
-<!ENTITY ScreenName.accesskey "S">
 <!ENTITY Company.label "조직">
 <!ENTITY Company.accesskey "z">
 <!ENTITY NickName.label "애칭">
@@ -181,3 +179,5 @@
 <!ENTITY bringAllToFront.label "모두 앞으로 보내기">
 <!ENTITY zoomWindow.label "창 확대">
 <!ENTITY searchItem.title "빠른 검색">
+<!ENTITY ChatName.label				"이름">
+<!ENTITY ChatName.accesskey			"C">

@@ -14,8 +14,6 @@
 
 <!ENTITY whatsNewCmd.label "새로운 기능">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY featureConfiguratorCmd.label "마이그레이션 관리자">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "도움말">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">

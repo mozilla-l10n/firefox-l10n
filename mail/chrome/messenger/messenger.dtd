@@ -23,6 +23,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label			"채팅 계정…">
 <!ENTITY newIMAccountCmd.accesskey		"C">
+<!ENTITY newIMContactCmd.label			"채팅 연락처…">
+<!ENTITY newIMContactCmd.accesskey		"h">
 <!ENTITY openMessageFileCmd.label "메시지 열기…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "첨부">
@@ -544,6 +546,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY SearchNameOrEmail.label "포함된 이름이나 메일 주소:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
+<!ENTITY joinChatCmd.label		"채팅 참가…">
+<!ENTITY joinChatCmd.accesskey		"o">
+
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.placeholder "메시지 검색…">
 
@@ -744,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "스팸 메일">
+<!ENTITY junkBarMessage2.label "&brandShortName;이 이 메시지를 스팸으로 판단합니다.">
 <!ENTITY junkBarButton1.label "스팸 아님">
 
 <!-- Remote Content Bar -->
