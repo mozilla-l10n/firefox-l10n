@@ -95,7 +95,7 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vis"> 
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Verktylinjer"> 
+<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
 <!ENTITY menubarCmd.label "Menylinje">
 <!ENTITY menubarCmd.accesskey "M">
@@ -163,7 +163,7 @@
 <!ENTITY fileHereMenu.label "Arkiver her">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Verkty">
+<!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "V">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey "E">

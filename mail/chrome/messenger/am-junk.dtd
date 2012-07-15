@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Innstillingar for uynskt e-post">
-<!ENTITY trainingWarning.label "Dersom denne funksjonen er slått på, må du fyrst trene opp &brandShortName; til å oppdage uynskt e-post (t.d. reklame du ikkje har bedt om) ved å bruke verktylinja for å merkje meldingar som er uynskte. Du må identifisere både ynskte meldingar og uynskte lmeldingar. ">
+<!ENTITY trainingWarning.label "Dersom denne funksjonen er slått på, må du fyrst trene opp &brandShortName; til å oppdage uynskt e-post (t.d. reklame du ikkje har bedt om) ved å bruke verktøylinja for å merkje meldingar som er uynskte. Du må identifisere både ynskte meldingar og uynskte lmeldingar. ">
 <!ENTITY level.label "Tillat adaptivt filter for uynskt e-post på denne kontoen">
 <!ENTITY level.accesskey "T">
 

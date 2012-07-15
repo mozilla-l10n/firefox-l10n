@@ -103,7 +103,7 @@
 <!ENTITY calendar.selectall.key                            "A">
 <!ENTITY calendar.selectall.accesskey                      "M">
 
-<!ENTITY toolbarsMenu.label                                "Verktylinjer">
+<!ENTITY toolbarsMenu.label                                "Verktøylinjer">
 <!ENTITY toolbarsMenu.accesskey                            "V">
 
 <!ENTITY showStatusBarCmd.label                            "Statuslinje">
@@ -124,7 +124,7 @@
 <!ENTITY goDateCmd.label                                   "Dato …">
 <!ENTITY goDateCmd.accesskey                               "D">
 
-<!ENTITY toolsMenu.label                                   "Verkty">
+<!ENTITY toolsMenu.label                                   "Verktøy">
 <!ENTITY toolsMenu.accesskey                               "e">
 
 <!ENTITY errorConsoleCmd.label                             "Feillogg">

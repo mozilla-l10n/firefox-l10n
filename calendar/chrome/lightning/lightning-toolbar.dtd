@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY lightning.toolbar.calendar.name "Kalender-verktylinje">
+<!ENTITY lightning.toolbar.calendar.name "Kalender-verktøylinje">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.name "Oppgåve-verktylinje">
+<!ENTITY lightning.toolbar.task.name "Oppgåve-verktøylinje">
 <!ENTITY lightning.toolbar.task.accesskey "O">
 
 <!ENTITY lightning.toolbar.sync.label "Synkroniser">

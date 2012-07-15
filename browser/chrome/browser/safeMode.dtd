@@ -48,7 +48,7 @@
 <!ENTITY disableAddons.label          "Slå av alle utvidingane">
 <!ENTITY disableAddons.accesskey      "S">
 
-<!ENTITY resetToolbars.label          "Still tilbake verktylinjer og kontrollar">
+<!ENTITY resetToolbars.label          "Still tilbake verktøylinjer og kontrollar">
 <!ENTITY resetToolbars.accesskey      "t">
 
 <!ENTITY deleteBookmarks.label        "Slett alle bokmerke med unntak av reservekopiar">
