@@ -94,6 +94,7 @@
 <!ENTITY pref_private_data_sessions "目前的登入狀況">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings "網站偏好設定">
+<!ENTITY pref_search_suggestions "顯示搜尋建議">
 
 <!ENTITY quit "結束">
 
