@@ -489,7 +489,6 @@
 <!ENTITY loadRemoteContentButton.label "Mostrar contenido remoto">
 <!ENTITY phishingBarMessage.label "&brandShortName; piensa que este mensaje puede ser fraudulento.">
 <!ENTITY removePhishingBarButton.label "No es fraudulento">
+<!ENTITY mdnBarMessage.label "El remitente de este mensaje ha solicitado ser notificado cuando se lea este mensaje. ¿Desea notificar al remitente?">
 <!ENTITY mdnBarIgnoreButton.label "Ignorar solicitud">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "Enviar acuse de recibo">
-<!ENTITY mdnBarSendButton.accesskey "E">
