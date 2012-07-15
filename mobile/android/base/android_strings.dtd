@@ -79,6 +79,7 @@
 <!ENTITY pref_private_data_sessions "Активные сеансы">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings "Настройки сайта">
+<!ENTITY pref_search_suggestions "Показывать поисковые предложения">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
