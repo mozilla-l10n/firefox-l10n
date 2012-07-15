@@ -38,3 +38,6 @@
 <!ENTITY watchThread.label "글타래 보기">
 <!ENTITY addTag.label "태그 작성">
 <!ENTITY stopExecution.label "필터 실행 중단">
+
+<!ENTITY addAction.tooltip "새로운 동작 추가">
+<!ENTITY removeAction.tooltip "동작 제거">

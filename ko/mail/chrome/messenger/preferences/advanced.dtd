@@ -65,6 +65,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "업데이트 기록 보기">
 <!ENTITY showUpdates.accesskey          "S">
+<!ENTITY useService.label	"업데이트 설치를 위해 백그라운드 서비스를 이용">
+<!ENTITY useService.accesskey			"b">
+
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "연결 설정…">
