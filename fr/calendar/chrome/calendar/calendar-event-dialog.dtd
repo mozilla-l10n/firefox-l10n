@@ -220,6 +220,10 @@
 <!ENTITY event.description.accesskey "p">
 <!ENTITY event.attachments.label "Pièces jointes :" >
 <!ENTITY event.attachments.accesskey "P" >
+<!ENTITY event.attachments.menubutton.label "Joindre">
+<!ENTITY event.attachments.menubutton.accesskey "J">
+<!ENTITY event.attachments.url.label "Page Web…">
+<!ENTITY event.attachments.url.accesskey "P">
 <!ENTITY event.attachments.popup.remove.label "Supprimer" >
 <!ENTITY event.attachments.popup.remove.accesskey "S" >
 <!ENTITY event.attachments.popup.open.label "Ouvrir" >
