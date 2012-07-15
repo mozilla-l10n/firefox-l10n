@@ -34,7 +34,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "個人名片 (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
-<!ENTITY sendNowCmd.label "寄出">
+<!ENTITY sendNowCmd.label "立刻寄出">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
 <!ENTITY sendLaterCmd.label "稍候再寄">

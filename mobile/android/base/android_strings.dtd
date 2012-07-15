@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY new_tab "開新分頁">
+<!ENTITY one_tab "一個分頁">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d 個分頁">
@@ -197,3 +198,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "正在自 Android
                                          匯入歷史紀錄">
 <!ENTITY bookmarkhistory_import_wait "請稍候…">
+
+<!ENTITY webapp_generic_name "程式">

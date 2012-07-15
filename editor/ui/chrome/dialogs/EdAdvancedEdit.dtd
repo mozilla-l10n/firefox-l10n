@@ -9,7 +9,7 @@
 <!ENTITY currentattributesfor.label     "目前屬性:">
 <!ENTITY tree.attributeHeader.label     "屬性">
 <!ENTITY tree.propertyHeader.label      "屬性">
-<!ENTITY tree.valueHeader.label         "內含值">
+<!ENTITY tree.valueHeader.label         "值">
 <!ENTITY tabHTML.label                  "HTML 屬性">
 <!ENTITY tabCSS.label                   "行內樣式">
 <!ENTITY tabJSE.label                   "JavaScript 事件">
