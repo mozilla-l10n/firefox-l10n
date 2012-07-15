@@ -92,8 +92,9 @@
 <!ENTITY pref_private_data_cookies "Infokapsler">
 <!ENTITY pref_private_data_cache "Hurtiglager">
 <!ENTITY pref_private_data_sessions "Aktive innlogginger">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_offlineApps "Frakoblet nettstedsdata">
+<!ENTITY pref_private_data_siteSettings "Nettstedsinnstillinger">
+<!ENTITY pref_search_suggestions "Vis søkeforslag">
 
 <!ENTITY quit "Avslutt">
 
