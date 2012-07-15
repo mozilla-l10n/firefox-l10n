@@ -1,5 +1,5 @@
-<!ENTITY splash_settingup "Setting up your &brandShortName;">
-<!ENTITY splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY splash_settingup "Наладжванне вашага &brandShortName;">
+<!ENTITY splash_bookmarks_history "Мы абнаўляем вашы закладкі і гісторыю, гэта зойме дзесьці хвіліну.">
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
 <!ENTITY awesomebar_all_pages_title "Найнаведвальныя пляцоўкі">
@@ -20,12 +20,12 @@
 <!ENTITY launcher_shortcuts_empty "Сеціўныя прыстасаванні не знойдзены">
 <!ENTITY choose_file "Выбар файла">
 <!ENTITY awesomebar_default_text "Увод тэрмінаў для пошуку або адраса">
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs "Сіхнранізаваныя ўстаўкі">
+<!ENTITY remote_tabs_show_all "Паказаць усе ўстаўкі">
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_added "Дададзена закладка">
 <!ENTITY bookmark_removed "Закладка выдалена">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark_updated "Закладка абноўленая">
 <!ENTITY history_today_section "Сёння">
 <!ENTITY history_yesterday_section "Учора">
 <!ENTITY history_week_section "Тыдзень назад">
@@ -68,17 +68,17 @@
 <!ENTITY downloads "Загрузкі">
 <!ENTITY char_encoding "Кадоўка знакаў">
 <!ENTITY share "Дзяліцца">
-<!ENTITY share_title "Share via">
+<!ENTITY share_title "Падзеляецца праз">
 <!ENTITY save_as_pdf "Захаваць як PDF">
 <!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
 <!ENTITY contextmenu_remove_bookmark "Прыняць">
 <!ENTITY contextmenu_add_to_launcher "Дадаць на хатні экран">
 <!ENTITY contextmenu_share "Дзяліцца">
-<!ENTITY contextmenu_edit_bookmark "Edit">
-<!ENTITY bookmark_edit_title "Edit Bookmark">
-<!ENTITY bookmark_edit_name "Name">
-<!ENTITY bookmark_edit_location "Location">
-<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY contextmenu_edit_bookmark "Праўка">
+<!ENTITY bookmark_edit_title "Праўка закладкі">
+<!ENTITY bookmark_edit_name "Назва">
+<!ENTITY bookmark_edit_location "Месцазнаходжанне">
+<!ENTITY bookmark_edit_keyword "Ключавое слова">
 <!ENTITY site_settings_title "Ачыстка наладжванняў старонкі">
 <!ENTITY site_settings_cancel "Скасаваць">
 <!ENTITY site_settings_clear "Ачысціць">
@@ -98,7 +98,7 @@
 <!ENTITY abouthome_no_top_sites "Вы пакуль не маеце найнаведвальных пляцовак. Ляпніце загаловак, каб пачаць азіранне.">
 <!ENTITY abouthome_about_sync "Наладзіць Firefox Sync для доступу да закладак, гісторыі і ўставак з іншых збудоваў">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_title "Выбар файла">
+<!ENTITY filepicker_audio_title "Выбраць ці запісаць гук">
+<!ENTITY filepicker_image_title "Выбраць выяву ці зрабіць фота">
+<!ENTITY filepicker_video_title "Выбраць ці запісаць відэя">

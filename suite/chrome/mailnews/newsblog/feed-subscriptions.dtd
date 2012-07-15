@@ -1,19 +1,19 @@
 <!ENTITY feedSubscriptions.label "Падпіскі на жывільнік">
 <!ENTITY subscriptionDesc.label "Заўвага: выдаленне або змяненне папкі для жывільніка не закране папярэдне загружаныя артыкулы.">
 <!ENTITY feedTitle.label "Загаловак:">
-<!ENTITY feedTitle.accesskey "T">
-<!ENTITY feedLocation.label "Feed URL:">
+<!ENTITY feedTitle.accesskey "З">
+<!ENTITY feedLocation.label "URL жывільніка:">
 <!ENTITY feedLocation.accesskey "U">
-<!ENTITY feedLocation.placeholder "Enter a valid feed url to Add">
-<!ENTITY feedFolder.label "Store Articles in:">
-<!ENTITY feedFolder.accesskey "S">
-<!ENTITY quickMode.label "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey "h">
-<!ENTITY validateText.label "Check validation and retrieve a valid url.">
+<!ENTITY feedLocation.placeholder "Увядзіце спраўны URL жывільніка для дадання">
+<!ENTITY feedFolder.label "Захоўваць артыкулы ў:">
+<!ENTITY feedFolder.accesskey "ў">
+<!ENTITY quickMode.label "Паказваць зводку артыкула замест сцягвання сеціўнай старонкі">
+<!ENTITY quickMode.accesskey "к">
+<!ENTITY validateText.label "Правяраць і атрымліваць спраўны URL.">
 <!ENTITY button.addFeed.label "Дадаць">
 <!ENTITY button.addFeed.accesskey "Д">
-<!ENTITY button.editFeed.label "Правіць">
-<!ENTITY button.editFeed.accesskey "П">
+<!ENTITY button.editFeed.label "Абнавіць">
+<!ENTITY button.editFeed.accesskey "А">
 <!ENTITY button.removeFeed.label "Выдаліць">
 <!ENTITY button.removeFeed.accesskey "В">
 <!ENTITY button.importOPML.label "Імпартаваць">

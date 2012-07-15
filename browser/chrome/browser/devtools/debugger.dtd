@@ -1,6 +1,6 @@
-<!ENTITY debuggerMenu.label "Script Debugger">
+<!ENTITY debuggerMenu.label "Наладчык сцэнараў">
 <!ENTITY debuggerMenu.commandkey "S">
-<!ENTITY debuggerUI.closeButton "Close">
-<!ENTITY debuggerUI.stackTitle "Call stack">
-<!ENTITY debuggerUI.scriptTitle "Script">
-<!ENTITY debuggerUI.propertiesTitle "Scope variables">
+<!ENTITY debuggerUI.closeButton "Зачыніць">
+<!ENTITY debuggerUI.stackTitle "Стос выклікаў">
+<!ENTITY debuggerUI.scriptTitle "Сцэнар">
+<!ENTITY debuggerUI.propertiesTitle "Зменныя ш абшары">

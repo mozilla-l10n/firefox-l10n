@@ -1,5 +1,5 @@
-<!ENTITY accountsWindow.title "Instant messaging status">
-<!ENTITY accountsWindow.style "width: 28em; height: 19em;">
+<!ENTITY accountsWindow.title "Статус вокамгненнага паведамляльніка">
+<!ENTITY accountsWindow.style "width: 30em; height: 19em;">
 <!ENTITY accountManager.newAccount.label "Стварыць рахунак">
 <!ENTITY accountManager.newAccount.accesskey "С">
 <!ENTITY accountManager.close.label "Зачыніць">

@@ -1,35 +1,35 @@
-<!ENTITY onlineContactsHeader.label "Online Contacts">
-<!ENTITY offlineContactsHeader.label "Offline Contacts">
-<!ENTITY conversationsHeader.label "Conversations">
-<!ENTITY searchResultConversation.label "Search result">
-<!ENTITY chat.noConv.title "Conversations will be displayed here.">
-<!ENTITY chat.noConv.description "Use the contact list in the left panel to start a conversation.">
-<!ENTITY chat.noPreviousConv.description "&brandShortName; currently doesn't have any previous conversations stored for this contact.">
-<!ENTITY chat.noAccount.title "You haven't set up a chat account yet.">
-<!ENTITY chat.noAccount.description "Let &brandShortName; guide you through the process of setting up your chat account.">
-<!ENTITY chat.accountWizard.button "Get started">
-<!ENTITY chat.noConnectedAccount.title "Your chat accounts are not connected.">
-<!ENTITY chat.noConnectedAccount.description "You can connect them from the 'Chat status' dialog:">
-<!ENTITY chat.showAccountManager.button "Show chat status">
-<!ENTITY chat.participants "Participants:">
-<!ENTITY chat.previousConversations "Previous Conversations:">
-<!ENTITY chat.ongoingConversation "Ongoing conversation">
-<!ENTITY openConversationCmd.label "Start a Conversation">
-<!ENTITY openConversationCmd.accesskey "c">
-<!ENTITY closeConversationCmd.label "Close Conversation">
-<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY onlineContactsHeader.label "Сувязі ў сетцы">
+<!ENTITY offlineContactsHeader.label "Сувязі па-за сеткаю">
+<!ENTITY conversationsHeader.label "Размовы">
+<!ENTITY searchResultConversation.label "Вынікі пошуку">
+<!ENTITY chat.noConv.title "Размовы будуць адлюстроўвацца тут.">
+<!ENTITY chat.noConv.description "Ужывайце спіс сувязяў на левай панэлі">
+<!ENTITY chat.noPreviousConv.description "&brandShortName; зараз не мае ніводнай размовы, захованай для гэтай сувязі.">
+<!ENTITY chat.noAccount.title "Вы пакуль не наладзілі рахунак гутаркі.">
+<!ENTITY chat.noAccount.description "Дазволіць &brandShortName; настаўляць вас падчас наладжвання вашага гутарковага рахунку.">
+<!ENTITY chat.accountWizard.button "Пачаць">
+<!ENTITY chat.noConnectedAccount.title "Вашы гутарковыя рахункі не злучаны.">
+<!ENTITY chat.noConnectedAccount.description "Вы можаце злучыцца з імі ў дыялогу 'Статус гутаркі':">
+<!ENTITY chat.showAccountManager.button "Паказаць статус гутаркі">
+<!ENTITY chat.participants "Удзельнікі:">
+<!ENTITY chat.previousConversations "Папярэднія размовы:">
+<!ENTITY chat.ongoingConversation "Цяперашнія размовы">
+<!ENTITY openConversationCmd.label "Пачаць размову">
+<!ENTITY openConversationCmd.accesskey "р">
+<!ENTITY closeConversationCmd.label "Закрыць размову">
+<!ENTITY closeConversationCmd.accesskey "к">
 <!ENTITY aliasCmd.label "Перайменаваць">
 <!ENTITY aliasCmd.accesskey "П">
-<!ENTITY deleteCmd.label "Remove Contact">
-<!ENTITY deleteCmd.accesskey "v">
-<!ENTITY openConversationButton.tooltip "Start a conversation">
-<!ENTITY closeConversationButton.tooltip "Close conversation">
-<!ENTITY addBuddyButton.label "Add Contact">
-<!ENTITY joinChatButton.label "Join Chat">
-<!ENTITY chatAccountsButton.label "Show Accounts">
-<!ENTITY searchAllChatMessages.label.base "Search all conversations… #1">
-<!ENTITY status.available "Available">
-<!ENTITY status.unavailable "Unavailable">
-<!ENTITY status.offline "Offline">
-<!ENTITY openLinkCmd.label "Open Link…">
-<!ENTITY openLinkCmd.accesskey "O">
+<!ENTITY deleteCmd.label "Выдаліць сувязь">
+<!ENTITY deleteCmd.accesskey "д">
+<!ENTITY openConversationButton.tooltip "Пачаць размову">
+<!ENTITY closeConversationButton.tooltip "Закрыць размову">
+<!ENTITY addBuddyButton.label "Дадаць сувязь">
+<!ENTITY joinChatButton.label "Пачаць гутарыць">
+<!ENTITY chatAccountsButton.label "Паказаць рахункі">
+<!ENTITY searchAllChatMessages.label.base "Пошук у ўсіх размовах… #1">
+<!ENTITY status.available "Даступны">
+<!ENTITY status.unavailable "Недаступны">
+<!ENTITY status.offline "Па-за сеткаю">
+<!ENTITY openLinkCmd.label "Адкрыць спасылку…">
+<!ENTITY openLinkCmd.accesskey "с">

@@ -1,5 +1,5 @@
-<!ENTITY cloudfileMgmt.privacyPolicy "Privacy Policy">
-<!ENTITY cloudfileMgmt.termsOfService "Terms of Service">
-<!ENTITY cloudfileMgmt.usedSpace "Used Space:">
-<!ENTITY cloudfileMgmt.unusedSpace "Unused Space:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Get more space">
+<!ENTITY cloudfileMgmt.privacyPolicy "Палітыка адасаблення">
+<!ENTITY cloudfileMgmt.termsOfService "Умовы абслугоўвання">
+<!ENTITY cloudfileMgmt.usedSpace "Ужытая прастора:">
+<!ENTITY cloudfileMgmt.unusedSpace "Свабодная прастора:">
+<!ENTITY cloudfileMgmt.upgradeOffer "Атрымаць больш месца">
