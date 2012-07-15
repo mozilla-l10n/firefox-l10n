@@ -46,9 +46,9 @@
 <!ENTITY locationEditField.label "Biletadresse:">
 <!ENTITY locationEditField.accessKey "B">
 <!ENTITY locationEditField.tooltip "Skriv inn filnamnet eller adressa til biletet">
-<!ENTITY title.label "Verktytips:">
+<!ENTITY title.label "Verktøytips:">
 <!ENTITY title.accessKey "V">
-<!ENTITY title.tooltip "HTML-attributtet «title» viser eit verktytips">
+<!ENTITY title.tooltip "HTML-attributtet «title» viser eit verktøytips">
 <!ENTITY altText.label "Alternativ tekst:">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Skriv inn tekst som skal visast i staden for biletet">

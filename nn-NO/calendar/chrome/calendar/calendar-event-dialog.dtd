@@ -127,9 +127,9 @@
 
 <!ENTITY  event.menu.view.label                           "Vis">
 <!ENTITY  event.menu.view.accesskey                       "V">
-<!ENTITY  event.menu.view.toolbars.label                  "Verktylinjer">
+<!ENTITY  event.menu.view.toolbars.label                  "Verktøylinjer">
 <!ENTITY  event.menu.view.toolbars.accesskey              "V">
-<!ENTITY  event.menu.view.toolbars.event.label            "Hendingsverktylinje">
+<!ENTITY  event.menu.view.toolbars.event.label            "Hendingsverktøylinje">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "H">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass …">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "T">

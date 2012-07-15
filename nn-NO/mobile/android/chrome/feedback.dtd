@@ -1,11 +1,11 @@
-<!ENTITY feedbackHeader2.label          "Tilbakemeldingsverkty">
+<!ENTITY feedbackHeader2.label          "Tilbakemeldingsverktøy">
 
 <!ENTITY feedback.communicate.title     "Kommuniser med oss!">
 <!ENTITY feedback.feedback.title        "Gje tilbakemelding">
 <!ENTITY feedback.feedback.good         "Bra">
 <!ENTITY feedback.feedback.bad          "Dårleg">
 
-<!ENTITY feedback.tools.title           "Verkty">
+<!ENTITY feedback.tools.title           "Verktøy">
 <!ENTITY feedback.allowTelemetry.title  "Send ytingsdata">
 <!ENTITY feedback.forceCompat.title     "Tving kompatibilitet med utvidingar">
 <!ENTITY feedback.errorConsole.title    "Slå på feilkonsollet">

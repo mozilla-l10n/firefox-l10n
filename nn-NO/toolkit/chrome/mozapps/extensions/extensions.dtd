@@ -14,7 +14,7 @@
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
 <!ENTITY installAddonFromFile.label           "Installer utviding frå fil …">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Verkty for alle utvidingane">
+<!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingane">
 
 <!ENTITY cmd.back.tooltip                     "Gå tilbake ei side">
 <!ENTITY cmd.forward.tooltip                  "Gå fram ei side">

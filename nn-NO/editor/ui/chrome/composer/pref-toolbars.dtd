@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title    "Verktylinjer">
+<!ENTITY pref.toolbars.title    "Verktøylinjer">
 
-<!ENTITY composition.caption    "Vis desse knappane i redigeringsverktylinja:">
+<!ENTITY composition.caption    "Vis desse knappane i redigeringsverktøylinja:">
 
 <!ENTITY new.label              "Ny">
 <!ENTITY open.label             "Opne">
@@ -54,7 +54,7 @@
 <!ENTITY link.label             "Lenkje">
 <!ENTITY anchor.label           "Anker">
 
-<!ENTITY formatting.caption     "Vis desse knappane i formateringsverktylinja:">
+<!ENTITY formatting.caption     "Vis desse knappane i formateringsverktøylinja:">
 
 <!ENTITY smaller.label          "Mindre">
 <!ENTITY larger.label           "Større">
