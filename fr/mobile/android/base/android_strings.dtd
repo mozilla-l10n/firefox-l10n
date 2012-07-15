@@ -89,6 +89,7 @@
 <!ENTITY pref_private_data_sessions "Connexions actives">
 <!ENTITY pref_private_data_offlineApps "Données de site Web hors connexion">
 <!ENTITY pref_private_data_siteSettings "Préférences de site">
+<!ENTITY pref_search_suggestions "Afficher les suggestions de recherche">
 
 <!ENTITY quit "Quitter">
 
