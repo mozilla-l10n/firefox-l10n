@@ -27,7 +27,7 @@
 
 <!ENTITY awesomebar_default_text "검색어나 URL을 입력해 주십시오.">
 
-<!ENTITY remote_tabs "동기화된 탭">
+<!ENTITY remote_tabs "동기화된 탭 목록">
 <!ENTITY remote_tabs_show_all "모든 탭 표시">
 
 <!ENTITY bookmark "북마크">
@@ -79,6 +79,7 @@
 <!ENTITY pref_font_size_xlarge "매우 크게">
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync "동기화">
+<!ENTITY pref_search_suggestions "추천 검색어 표시">
 <!ENTITY pref_import_android "Android에서 가져오기">
 <!ENTITY pref_private_data_history "방문 및 다운로드 기록">
 <!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
