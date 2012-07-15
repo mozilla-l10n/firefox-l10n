@@ -16,9 +16,9 @@
 <!ENTITY autoCompleteMatchWordsFirst "Усюды, але пераважна ў межах словаў">
 <!ENTITY autoCompleteMatchWords "Толькі ў межах словаў">
 <!ENTITY autoCompleteMatchStart "Толькі ў пачатку месцазнаходжання або загалоўка">
-<!ENTITY formatting.label "Formatting">
-<!ENTITY domainFormatting.label "Highlight the effective domain for websites and FTP servers">
-<!ENTITY domainFormatting.accesskey "d">
+<!ENTITY formatting.label "Фарматаванне">
+<!ENTITY domainFormatting.label "Падфарбоўваць дзейны выніковы дамен для сеціўных пляцовак і паслугачоў FTP">
+<!ENTITY domainFormatting.accesskey "ф">
 <!ENTITY searchEngine.label "Машыны пошуку ў Інтэрнэт">
 <!ENTITY showSearchEngine.label "Паказаць змоўчную машыну пошуку">
 <!ENTITY showSearchEngine.accesskey "м">

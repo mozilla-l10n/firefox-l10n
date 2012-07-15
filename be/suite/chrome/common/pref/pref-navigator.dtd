@@ -12,14 +12,14 @@
 <!ENTITY lastPageRadio.accesskey "А">
 <!ENTITY restoreSessionRadio.label "Аднавіць папярэднюю сэсію">
 <!ENTITY restoreSessionRadio.accesskey "А">
-<!ENTITY restoreSessionIntro.label "When restoring sessions and windows">
-<!ENTITY restoreImmediately.label "Restore all tabs immediately">
-<!ENTITY restoreImmediately.accesskey "e">
-<!ENTITY restoreTabs.label "Restore">
-<!ENTITY restoreTabs.accesskey "s">
-<!ENTITY restoreTabsAtATime.label "tab(s) at a time">
-<!ENTITY restoreDeferred.label "Only restore tabs when I need them">
-<!ENTITY restoreDeferred.accesskey "O">
+<!ENTITY restoreSessionIntro.label "Падчас аднаўлення сэсіяў і вокнаў">
+<!ENTITY restoreImmediately.label "Аднаўляць усе ўстаўкі адразу">
+<!ENTITY restoreImmediately.accesskey "А">
+<!ENTITY restoreTabs.label "Аднавіць">
+<!ENTITY restoreTabs.accesskey "н">
+<!ENTITY restoreTabsAtATime.label "устаўка (-кі) ў час">
+<!ENTITY restoreDeferred.label "Аднаўляць устаўкі толькі калі яны парабуюцца">
+<!ENTITY restoreDeferred.accesskey "п">
 <!ENTITY homePageIntro.label "Пстрыканне па кнопцы Дадому накіруе вас на гэтую старонку ці групу старонак:">
 <!ENTITY useCurrent.label "Цяперашняя старонка">
 <!ENTITY useCurrent.accesskey "Ц">

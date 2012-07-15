@@ -439,5 +439,5 @@
 <!ENTITY addonBarCloseButton.tooltip "Закрыць паліцу дадаткаў">
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY htmlPanel.label "HTML">
-<!ENTITY htmlPanel.tooltiptext "Панель HTML">
+<!ENTITY htmlPanel.tooltiptext "Панэль HTML">
 <!ENTITY htmlPanel.accesskey "H">

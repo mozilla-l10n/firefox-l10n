@@ -3,8 +3,8 @@
 <!ENTITY accountActionsButton.accesskey "р">
 <!ENTITY addMailAccountButton.label "Дадаць паштовы рахунак…">
 <!ENTITY addMailAccountButton.accesskey "Д">
-<!ENTITY addIMAccountButton.label "Add Chat Account…">
-<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addIMAccountButton.label "Дадаць рахунак гутаркі…">
+<!ENTITY addIMAccountButton.accesskey "г">
 <!ENTITY addOtherAccountButton.label "Дадаць іншы рахунак…">
 <!ENTITY addOtherAccountButton.accesskey "і">
 <!ENTITY setDefaultButton.label "Змоўчны рахунак">
