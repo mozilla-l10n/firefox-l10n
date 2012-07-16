@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Tazele">
 <!ENTITY forward "İleri">
+<!ENTITY menu "Menü">
+<!ENTITY back "Geri dön">
+<!ENTITY stop "Durdur">
+<!ENTITY site_security "Site Güvenliği">
 
 <!ENTITY close_tab "Sekmeyi kapat">
 <!ENTITY new_tab "Yeni sekme">
@@ -60,6 +64,7 @@
 <!ENTITY pref_category_general "Genel">
 <!ENTITY pref_category_privacy "Gizlilik ve güvenlik">
 <!ENTITY pref_category_content "İçerik">
+<!ENTITY pref_category_importexport "Al &amp; Ver">
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
 <!ENTITY pref_do_not_track "Siteler beni takip etmesin">
 <!ENTITY pref_telemetry "Performans verilerini gönder">
@@ -68,10 +73,7 @@
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
 <!ENTITY pref_char_encoding_off "Menüyü gösterme">
-<!ENTITY pref_clear_history "Geçmişi temizle">
-<!ENTITY pref_clear_history_confirm "Tarama geçmişi silinecektir">
 <!ENTITY pref_clear_private_data "Özel verileri sil">
-<!ENTITY pref_clear_private_data_confirm "Parolalar ve çerezler de dâhil olmak üzere tüm tarama ayarları silinecektir">
 <!ENTITY pref_plugins "Yan uygulamalar">
 <!ENTITY pref_plugins_enabled "Etkin">
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokunun">
@@ -84,6 +86,15 @@
 <!ENTITY pref_font_size_xlarge "Çok büyük">
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Android'den al">
+<!ENTITY pref_private_data_history "Tarama ve indirme geçmişi">
+<!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
+<!ENTITY pref_private_data_cookies "Çerezler">
+<!ENTITY pref_private_data_cache "Önbellek">
+<!ENTITY pref_private_data_sessions "Etkin oturumlar">
+<!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
+<!ENTITY pref_private_data_siteSettings "Site tercihleri">
+<!ENTITY pref_search_suggestions "Arama önerilerini göster">
 
 <!ENTITY quit "Çık">
 
@@ -95,6 +106,7 @@
 <!ENTITY share_title "Paylaş">
 <!ENTITY save_as_pdf "PDF olarak kaydet">
 <!ENTITY find_in_page "Sayfada bul">
+<!ENTITY desktop_mode "Masaüstü sitesini iste">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -108,6 +120,9 @@
 <!ENTITY contextmenu_remove_bookmark "Kaldır">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana ekle">
 <!ENTITY contextmenu_share "Paylaş">
+<!ENTITY contextmenu_pasteandgo "Yapıştır &amp; git">
+<!ENTITY contextmenu_paste "Yapıştır">
+<!ENTITY contextmenu_copyurl "Adresi kopyala">
 <!ENTITY contextmenu_edit_bookmark "Düzenle">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -136,6 +151,7 @@
 
 <!ENTITY button_ok "Tamam">
 <!ENTITY button_cancel "İptal">
+<!ENTITY button_clear_data "Verileri temizle">
 
 <!ENTITY abouthome_addons_title "&brandShortName; için ekletiler">
 <!ENTITY abouthome_addons_browse "Tüm &brandShortName; eklentilerine göz at">
@@ -166,4 +182,13 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "İşleten:">
+
+<!ENTITY bookmarkhistory_button_import "İçe aktar">
+<!ENTITY bookmarkhistory_import_both "Android'den yer imleri ve geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_bookmarks "Android'den yer imleri alınıyor">
+<!ENTITY bookmarkhistory_import_history "Android'den geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
+
+<!ENTITY private_data_success "Özel veriler temizlendi">
+<!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
 
