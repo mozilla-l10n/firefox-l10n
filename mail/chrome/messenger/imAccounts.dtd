@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Стан миттєвих повідомлень">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Створити обліковий запис">
+<!ENTITY accountManager.newAccount.accesskey "С">
+<!ENTITY accountManager.close.label          "Закрити">
+<!ENTITY accountManager.close.accesskey      "З">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Облікові записи не налаштовано!">
+<!ENTITY accountManager.noAccount.description "Натисніть на кнопку &accountManager.newAccount.label; щоб дозволити &brandShortName; провести вас через процес налаштування.">
+<!ENTITY account.autoSignOn.label     "Входити при старті">
+<!ENTITY account.autoSignOn.accesskey "х">
+<!ENTITY account.connect.label        "Під'єднатись">
+<!ENTITY account.connect.accesskey    "є">
+<!ENTITY account.disconnect.label     "Від'єднатись">
+<!ENTITY account.disconnect.accesskey "і">
+<!ENTITY account.edit.label           "Властивості">
+<!ENTITY account.edit.accesskey       "л">
+<!ENTITY account.moveup.label         "Підняти">
+<!ENTITY account.movedown.label       "Опустити">
+<!ENTITY account.cancelReconnection.label         "Скасувати перепід'єднання">
+<!ENTITY account.cancelReconnection.accesskey     "п">
+<!ENTITY account.connecting           "Під'єднання…">
+<!ENTITY account.disconnecting        "Від'єднання…">
+<!ENTITY account.disconnected         "Не Під'єднано">
