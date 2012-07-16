@@ -43,6 +43,10 @@
 
 <!ENTITY reload "Neu laden">
 <!ENTITY forward "Eine Seite vor">
+<!ENTITY menu "Menü">
+<!ENTITY back "Zurück">
+<!ENTITY stop "Anhalten">
+<!ENTITY site_security "Site-Sicherheit">
 
 <!ENTITY close_tab "Tab schließen">
 <!ENTITY new_tab "Neuer Tab">
@@ -56,6 +60,7 @@
 <!ENTITY pref_category_general "Allgemein">
 <!ENTITY pref_category_privacy "Privatsphäre &amp; Sicherheit">
 <!ENTITY pref_category_content "Inhalt">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Über &brandShortName;">
 <!ENTITY pref_do_not_track "Website mitteilen, dass ich nicht verfolgt werden möchte">
 <!ENTITY pref_telemetry "Performanz-Daten senden">
@@ -64,10 +69,7 @@
 <!ENTITY pref_char_encoding "Zeichenkodierung">
 <!ENTITY pref_char_encoding_on "Im Menü anzeigen">
 <!ENTITY pref_char_encoding_off "Nicht im Menü anzeigen">
-<!ENTITY pref_clear_history "Chronik löschen">
-<!ENTITY pref_clear_history_confirm "Die Browserchronik wird gelöscht">
 <!ENTITY pref_clear_private_data "Private Daten löschen">
-<!ENTITY pref_clear_private_data_confirm "Seitenspezifische Daten wie Passwörter und Cookies werden gelöscht">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiviert">
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
@@ -80,6 +82,14 @@
 <!ENTITY pref_font_size_xlarge "Riesig">
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Import aus Android">
+<!ENTITY pref_private_data_history "Besuchte Seiten &amp; Download-Chronik">
+<!ENTITY pref_private_data_formdata "Eingegebene Suchbegriffe &amp; Formulardaten">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Aktive Logins">
+<!ENTITY pref_private_data_offlineApps "Offline-Website-Daten">
+<!ENTITY pref_private_data_siteSettings "Website-Einstellungen">
 
 <!ENTITY quit "Beenden">
 
@@ -90,6 +100,8 @@
 <!ENTITY share "Teilen">
 <!ENTITY share_title "Teilen mittels">
 <!ENTITY save_as_pdf "Als PDF speichern">
+<!ENTITY find_in_page "In Seite suchen">
+<!ENTITY desktop_mode "Desktop-Seite anfordern">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -99,9 +111,13 @@
 <!ENTITY find_close "Schließen">
 
 <!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
+<!ENTITY contextmenu_remove_history "Löschen">
 <!ENTITY contextmenu_remove_bookmark "Löschen">
 <!ENTITY contextmenu_add_to_launcher "Zu Startbildschirm hinzufügen">
 <!ENTITY contextmenu_share "Teilen">
+<!ENTITY contextmenu_pasteandgo "Einfügen &amp; Los">
+<!ENTITY contextmenu_paste "Einfügen">
+<!ENTITY contextmenu_copyurl "Adresse kopieren">
 <!ENTITY contextmenu_edit_bookmark "Bearbeiten">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -130,6 +146,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Abbrechen">
+<!ENTITY button_clear_data "Daten löschen">
 
 <!ENTITY abouthome_addons_title "Add-ons für &brandShortName;">
 <!ENTITY abouthome_addons_browse "Alle &brandShortName;-Add-ons durchsehen">
@@ -159,4 +176,13 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "wird betrieben von">
+<!ENTITY identity_run_by "Diese Seite wird betrieben von">
+
+<!ENTITY bookmarkhistory_button_import "Importieren">
+<!ENTITY bookmarkhistory_import_both "Lesezeichen und Chronik von Android werden importiert">
+<!ENTITY bookmarkhistory_import_bookmarks "Lesezeichen von Android werden importiert>
+<!ENTITY bookmarkhistory_import_history "Chronik von Android wird importiert">
+<!ENTITY bookmarkhistory_import_wait "Bitte warten...">
+
+<!ENTITY private_data_success "Private Daten gelöscht">
+<!ENTITY private_data_fail "Einige private Daten konnten nicht gelöscht werden">
