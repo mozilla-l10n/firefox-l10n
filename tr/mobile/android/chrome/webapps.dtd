@@ -1,8 +1,0 @@
-<!ENTITY webapps.title.placeholder "Başlık girin">
-<!ENTITY webapps.permissions "Erişime izin ver:">
-<!ENTITY webapps.perm.geolocation "Konuma duyarlı tarama">
-<!ENTITY webapps.perm.offline "Çevrimdışı veri depolama">
-<!ENTITY webapps.perm.notifications "Masaüstü bildirimleri">
-<!ENTITY webapps.perm.requestedHint "(istendi)">
-<!ENTITY webapps.add-homescreen "Ana ekrana ekle">
-
