@@ -102,10 +102,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "d">
 <!ENTITY fullscreenAllowButton.label "Toestaan">
 <!ENTITY fullscreenExitButton.label "Weigeren">
-<!ENTITY fullscreenApproval.value "volledigscherm toestaan?">
+<!ENTITY fullscreenApproval.value "Volledig scherm toestaan?">
 
-<!ENTITY fullscreenExitHint.value "Druk op ESC om volledig scherm te verlaten.">
-<!ENTITY leaveDOMFullScreen.label "Volledigscherm verlaten">
+<!ENTITY fullscreenExitHint.value "Druk op ESC om de volledigschermmodus te verlaten.">
+<!ENTITY leaveDOMFullScreen.label "Volledig scherm verlaten">
 <!ENTITY leaveDOMFullScreen.accesskey "v">
 
 <!ENTITY closeWindow.label "Venster sluiten">
@@ -214,9 +214,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Element inspecteren">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY responsiveUI.label            "Responsivemodus">
-<!ENTITY responsiveUI.accesskey        "R">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "Responsive Design-weergave">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -235,9 +235,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "Inspector sluiten">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Developer werkbalk sluiten">
-<!ENTITY devToolbarMenu.label 		   "Developer werkbalk">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarCloseButton.tooltiptext "Ontwikkelaarswerkbalk sluiten">
+<!ENTITY devToolbarMenu.label 		   "Ontwikkelaarswerkbalk">
+<!ENTITY devToolbarMenu.accesskey          "O">
 <!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "Webconsole">
@@ -258,8 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectOptionButton.tooltiptext    "Inspector-opties">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Dim The Page">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleVeil.label          "De pagina dimmen">
+<!ENTITY inspectorToggleVeil.accesskey      "d">
 <!ENTITY inspectorToggleInfobar.label       "Node-info tonen">
 <!ENTITY inspectorToggleInfobar.accesskey   "t">
 
@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
 <!ENTITY inspect3DViewButton.label     "3D-weergave">
-<!ENTITY inspect3DViewButton.accesskey "w">
+<!ENTITY inspect3DViewButton.accesskey "e">
 
 <!ENTITY inspectStyleButton.label     "Stijl">
 <!ENTITY inspectStyleButton.accesskey "S">
