@@ -46,6 +46,10 @@
 
 <!ENTITY reload "Vernieuwen">
 <!ENTITY forward "Vooruit">
+<!ENTITY menu "Menu">
+<!ENTITY back "Terug">
+<!ENTITY stop "Stop">
+<!ENTITY site_security "Websitebeveiliging">
 
 <!ENTITY close_tab "Tabblad sluiten">
 <!ENTITY new_tab "Nieuw tabblad">
