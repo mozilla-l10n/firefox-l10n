@@ -16,7 +16,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Selecteer “&syncBrand.shortName.label; instellen” op uw nieuwe apparaat om het te activeren.'>
 <!ENTITY sync.subtitle.header.label 'Voer deze code in op uw computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Selecteer “&sync.title.pair.label;” in de &syncBrand.shortName.label; sectie van uw desktop Firefox-opties.'>
+<!ENTITY sync.subtitle.connectlocation.label 'Selecteer “&sync.title.pair.label;” in de sectie &syncBrand.shortName.label; van de opties van Firefox op uw desktop.'>
 <!ENTITY sync.subtitle.pair.label 'Selecteer “Een apparaat koppelen” op uw andere apparaat om het te activeren.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -44,13 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Set-up voltooid'>
-<!ENTITY sync.subtitle.success.label1 'Uw gegevens worden nu op de achtergrond gedownload. U kunt naar Instellingen gaan om uw account te beheren of start navigeren met &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 'Uw gegevens worden nu op de achtergrond gedownload. U kunt naar Instellingen gaan om uw account te beheren, of beginnen met navigeren via &brandShortName;.'>
 <!ENTITY sync.settings.label 'Instellingen'>
-<!ENTITY sync.subtitle.manage.label1 'Uw &syncBrand.fullName.label;-account is al geconfigureerd. Ga naar Instellingen om uw account te beheren of start &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 'Uw &syncBrand.fullName.label;-account is al geconfigureerd. U kunt naar Instellingen gaan om uw account te beheren, of &brandShortName; starten.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probeer het opnieuw.'>
-<!ENTITY sync.pair.connectlocation.label 'Selecteer “&syncBrand.shortName.label; instellen” op uw nieuwe apparaat en dan  “Ik heb een account.” om het te activeren'>
+<!ENTITY sync.pair.connectlocation.label 'Selecteer “&syncBrand.shortName.label; instellen” en daarna “Ik heb een account” op uw nieuwe apparaat om het te activeren.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opties'>
