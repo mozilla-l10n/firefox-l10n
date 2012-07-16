@@ -4,5 +4,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
-<!ENTITY  settingsChangePreferences.label  "A configuração pode ser modificada na seção “Aplicativos” da janela de preferências do &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "A configuração pode ser modificada na seção “Aplicativos” da janela de opções do &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "A configuração pode ser modificada no painel “Aplicativos” da janela de preferências do &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "A configuração pode ser modificada no painel “Aplicativos” da janela de opções do &brandShortName;.">
