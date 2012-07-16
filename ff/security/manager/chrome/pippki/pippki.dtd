@@ -39,7 +39,7 @@
 <!ENTITY downloadCert.message1 "A naamnaama yo a hoolo Kohowo Seedamfaagu keso (CA).">
 <!ENTITY downloadCert.trustSSL "Hoolo oo CA e keftingol lowe geese.">
 <!ENTITY downloadCert.trustEmail "Hoolo oo CA e keftingol huutorɓe iimeel.">
-<!ENTITY downloadCert.trustObjSign "Hoolo oo CA e keftingol topotooɓe topirɗe.">
+<!ENTITY downloadCert.trustObjSign "Hoolo oo CA e keftingol topayɓe topirɗe.">
 <!ENTITY downloadCert.message3 "Hade maa hoolaade oo CA e fannu kala, aɗa foti ƴeewtaade seedamfaagu makko e dawirgol makko e laabi makko (so ena woodi).">
 <!ENTITY downloadCert.viewCert.label "Hollir">
 <!ENTITY downloadCert.viewPolicy.label "Dawirgol">

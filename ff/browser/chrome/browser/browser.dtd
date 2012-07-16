@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "Uddu Ƴeewtorde">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Uddu Palal Topotooɓe">
+<!ENTITY devToolbarCloseButton.tooltiptext "Uddu Palal Topayɓe">
 <!ENTITY devToolbarMenu.label              "Palal Topotooɓe">
 <!ENTITY devToolbarMenu.accesskey          "o">
 <!ENTITY devToolbar.commandkey             "o">

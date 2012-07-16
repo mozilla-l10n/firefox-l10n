@@ -43,7 +43,7 @@
 <!ENTITY certmgr.editcert.edittrust           "Taƴto teelte koolnol:">
 <!ENTITY certmgr.editcert.trustssl            "Seedamfaagu nguu ena waawi heftinde lowe.">
 <!ENTITY certmgr.editcert.trustemail          "Seedamfaagu nguu ena waawi heftinde joom iimeel en.">
-<!ENTITY certmgr.editcert.trustobjsign        "Seedamfaagu nguu ena waawi heftinde topotooɓe topirɗe.">
+<!ENTITY certmgr.editcert.trustobjsign        "Seedamfaagu nguu ena waawi heftinde topayɓe topirɗe.">
 <!ENTITY certmgr.editsslcert.edittrust        "Taƴto teelte koolnol seedamfaagu:">
 <!ENTITY certmgr.editsslcert.dotrust          "Hoolo goongɗugol nguu seedamfaagu.">
 <!ENTITY certmgr.editsslcert.donttrust        "Hoolkiso goongɗugol nguu seedamfaagu.">

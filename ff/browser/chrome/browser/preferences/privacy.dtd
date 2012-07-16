@@ -26,7 +26,7 @@
 <!ENTITY  acceptThirdParty.accesskey    "a">
 
 <!ENTITY  keepUntil.label               "Mooftu haa:">
-<!ENTITY  keepUntil.accesskey           "M">
+<!ENTITY  keepUntil.accesskey           "h">
 
 <!ENTITY  expire.label                  "ɗi kiiɗta">
 <!ENTITY  close.label                   "Miɗo udda &brandShortName;">
@@ -71,10 +71,10 @@
 <!ENTITY  rememberHistory2.accesskey  "t">
 
 <!ENTITY  rememberSearchForm.label       "Tesko aslol njiylawu e porme">
-<!ENTITY  rememberSearchForm.accesskey   "p">
+<!ENTITY  rememberSearchForm.accesskey   "e">
 
 <!ENTITY  clearOnClose.label             "Mumtu aslol so &brandShortName; uddaama">
-<!ENTITY  clearOnClose.accesskey         "t">
+<!ENTITY  clearOnClose.accesskey         "o">
 
 <!ENTITY  clearOnCloseSettings.label     "Teelte…">
 <!ENTITY  clearOnCloseSettings.accesskey "e">

@@ -11,7 +11,7 @@
 <!ENTITY useCursorNavigation.label       "Huutoro ñiiƴe jamngel ngel ngam feeraade e nder kelle">
 <!ENTITY useCursorNavigation.accesskey   "n">
 <!ENTITY searchStartTyping.label         "Yiylo binndol so mi fuɗɗiima tappude">
-<!ENTITY searchStartTyping.accesskey     "d">
+<!ENTITY searchStartTyping.accesskey     "n">
 <!ENTITY blockAutoRefresh.label          "Reentin-am so lowe geese etiima yiiltude walla hesɗitinde hello ngoo">
 <!ENTITY blockAutoRefresh.accesskey      "e">
 
@@ -21,10 +21,10 @@
 <!ENTITY useAutoScroll.accesskey         "j">
 <!ENTITY useSmoothScrolling.label        "Huutoro ŋaylogol teeyngol">
 <!ENTITY useSmoothScrolling.accesskey    "t">
-<!ENTITY allowHWAccel.label              "Huutoro moylinol njamndeeri so ena woodi">
+<!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkSpelling.label             "Ƴeewto mbinndiin am so miɗo tappa">
-<!ENTITY checkSpelling.accesskey         "m">
+<!ENTITY checkSpelling.accesskey         "b">
 
 <!ENTITY systemDefaults.label            "Goowaaɗi Yuɓɓo">
 <!--XXX-->
@@ -70,11 +70,11 @@
 
 <!ENTITY updateApp.label                 "Kesɗitine &brandShortName;:">
 <!ENTITY updateAuto.label                "Aaf kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
-<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAuto.accesskey            "s">
 <!ENTITY updateCheck.label               "Yuurnito kesɗitine, kono woppu am mi suɓoo so mi aafat-ɗe">
 <!ENTITY updateCheck.accesskey           "Y">
 <!ENTITY updateManual.label              "Hoto yuurnito kesɗitine (wasiyaaka: ena ŋakki hisde)">
-<!ENTITY updateManual.accesskey          "H">
+<!ENTITY updateManual.accesskey          "u">
 
 <!ENTITY updateAutoAddonWarn.label       "Reentin-am so ɗum maa daaƴ gooral e ɓeyditte am">
 <!ENTITY updateAutoAddonWarn.accesskey   "R">
