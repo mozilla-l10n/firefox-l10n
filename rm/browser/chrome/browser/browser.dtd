@@ -480,7 +480,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Far ir">
 <!ENTITY mediaPlay.accesskey         "F">
-<!ENTITY mediaPause.label            "Pausar">
+<!ENTITY mediaPause.label            "Pausa">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu

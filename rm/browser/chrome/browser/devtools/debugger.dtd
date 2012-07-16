@@ -29,7 +29,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions          "Pussar tar en cas dad ina 'exception'">
+<!ENTITY debuggerUI.pauseExceptions          "Pussar en cas dad ina 'exception'">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
