@@ -467,6 +467,8 @@
 <!ENTITY toggleAddonBarCmd.key "\">
 <!ENTITY markupButton.arialabel "Разметка">
 <!ENTITY markupButton.accesskey "а">
+<!ENTITY socialToolbar.title "Кнопка социальной панели">
+<!ENTITY social.notLoggedIn.label "Не зарегистрирован">
 <!ENTITY social.sharePopup.undo.label "Больше не делиться">
 <!ENTITY social.sharePopup.undo.accesskey "ш">
 <!ENTITY social.sharePopup.ok.label "OK">
