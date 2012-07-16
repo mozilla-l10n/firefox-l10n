@@ -90,6 +90,7 @@
 <!ENTITY pref_private_data_sessions "Aktive Logins">
 <!ENTITY pref_private_data_offlineApps "Offline-Website-Daten">
 <!ENTITY pref_private_data_siteSettings "Website-Einstellungen">
+<!ENTITY pref_search_suggestions "Suchvorschläge anzeigen">
 
 <!ENTITY quit "Beenden">
 
@@ -180,7 +181,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "Importieren">
 <!ENTITY bookmarkhistory_import_both "Lesezeichen und Chronik von Android werden importiert">
-<!ENTITY bookmarkhistory_import_bookmarks "Lesezeichen von Android werden importiert>
+<!ENTITY bookmarkhistory_import_bookmarks "Lesezeichen von Android werden importiert">
 <!ENTITY bookmarkhistory_import_history "Chronik von Android wird importiert">
 <!ENTITY bookmarkhistory_import_wait "Bitte warten...">
 
