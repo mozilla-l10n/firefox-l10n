@@ -72,7 +72,7 @@
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "M'avisar sche supplements vegnissan deactivads quatras">
-<!ENTITY updateAutoAddonWarn.accesskey   "a">
+<!ENTITY updateAutoAddonWarn.accesskey   "d">
 
 <!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
 <!ENTITY updateHistory.accesskey         "c">
@@ -91,7 +91,7 @@
 
 <!ENTITY offlineAppsList2.label          "Suandantas paginas d'internet dastgan memorisar datas per l'utilisaziun offline:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Allontanar...">
+<!ENTITY offlineAppsListRemove.label     "Allontanar…">
 <!ENTITY offlineAppsListRemove.accesskey "A">
 <!ENTITY offlineAppRemove.confirm        "Allontanar las datas offline">
 
