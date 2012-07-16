@@ -15,7 +15,7 @@
 
 <!ENTITY openWindow.label "Új ablakban">
 <!ENTITY newWindowGroupWindow.accesskey "b">
-<!ENTITY externalGroupWindow.accesskey "o">
+<!ENTITY externalGroupWindow.accesskey "j">
 
 <!ENTITY divertAll.label "Az ablakokat mindig lapokon nyissa meg">
 <!ENTITY divertAll.accesskey "d">

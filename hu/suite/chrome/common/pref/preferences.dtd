@@ -11,7 +11,7 @@
 <!ENTITY applications.label "Segédalkalmazások">
 <!ENTITY locationBar.label "Címsor">
 <!ENTITY tabWindows.label "Böngészőlapok">
-<!ENTITY links.label "Link Behavior">
+<!ENTITY links.label "Hivatkozások viselkedése">
 <!ENTITY offline.label "Kapcsolat nélküli munka">
 <!ENTITY security.label "Adatvédelem és biztonság">
 <!ENTITY cookies.label "Sütik">
