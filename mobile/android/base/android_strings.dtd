@@ -94,6 +94,7 @@
 <!ENTITY pref_private_data_sessions "Aktiva inloggningar">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
+<!ENTITY pref_search_suggestions "Visa sökförslag">
 
 <!ENTITY quit "Avsluta">
 
