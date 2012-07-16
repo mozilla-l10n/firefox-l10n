@@ -30,7 +30,7 @@
 
 <!ENTITY choose_file "Selecionar arquivo">
 
-<!ENTITY awesomebar_default_text "Forneça uma pesquisa ou um endereço">
+<!ENTITY awesomebar_default_text "Forneça um endereço ou pesquisa">
 
 <!ENTITY remote_tabs "Abas sincronizadas">
 <!ENTITY remote_tabs_show_all "Exibir todas as abas">
@@ -47,6 +47,10 @@
 
 <!ENTITY reload "Recarregar">
 <!ENTITY forward "Avançar">
+<!ENTITY menu "Menu">
+<!ENTITY back "Voltar">
+<!ENTITY stop "Parar">
+<!ENTITY site_security "Segurança do site">
 
 <!ENTITY close_tab "Fechar aba">
 <!ENTITY new_tab "Nova aba">
@@ -60,6 +64,7 @@
 <!ENTITY pref_category_general "Geral">
 <!ENTITY pref_category_privacy "Privacidade e segurança">
 <!ENTITY pref_category_content "Conteúdo">
+<!ENTITY pref_category_importexport "Importar e exportar">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_do_not_track "Pedir para não me rastrear">
 <!ENTITY pref_telemetry "Enviar dados desempenho">
@@ -68,10 +73,7 @@
 <!ENTITY pref_char_encoding "Codificação">
 <!ENTITY pref_char_encoding_on "Exibir menu">
 <!ENTITY pref_char_encoding_off "Não exibir menu">
-<!ENTITY pref_clear_history "Limpar histórico">
-<!ENTITY pref_clear_history_confirm "O histórico de navegação será excluído.">
 <!ENTITY pref_clear_private_data "Limpar dados pessoais">
-<!ENTITY pref_clear_private_data_confirm "Configurações de navegação, incluindo senhas e cookies, serão excluídas.">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativados">
 <!ENTITY pref_plugins_tap_to_play "Ativar ao tocar">
@@ -84,6 +86,15 @@
 <!ENTITY pref_font_size_xlarge "Gigante">
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Importar do Android">
+<!ENTITY pref_private_data_history "Histórico e downloads efetuados">
+<!ENTITY pref_private_data_formdata "Campos memorizados de páginas e da pesquisa">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Logins ativos">
+<!ENTITY pref_private_data_offlineApps "Dados offline de sites">
+<!ENTITY pref_private_data_siteSettings "Preferências de sites">
+<!ENTITY pref_search_suggestions "Exibir sugestões de pesquisa">
 
 <!ENTITY quit "Sair">
 
@@ -95,6 +106,7 @@
 <!ENTITY share_title "Compartilhar via">
 <!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY find_in_page "Localizar na página">
+<!ENTITY desktop_mode "Solicitar site do desktop">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -108,6 +120,9 @@
 <!ENTITY contextmenu_remove_bookmark "Excluir">
 <!ENTITY contextmenu_add_to_launcher "Adicionar à tela inicial">
 <!ENTITY contextmenu_share "Compartilhar">
+<!ENTITY contextmenu_pasteandgo "Colar e ir">
+<!ENTITY contextmenu_paste "Colar">
+<!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -136,6 +151,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_clear_data "Limpar dados">
 
 <!ENTITY abouthome_addons_title "Complementos para o seu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Todos os complementos do &brandShortName;">
@@ -166,3 +182,12 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é administrado por">
+
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico do Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando favoritos do Android">
+<!ENTITY bookmarkhistory_import_history "Importando histórico do Android">
+<!ENTITY bookmarkhistory_import_wait "Por favor, aguarde…">
+
+<!ENTITY private_data_success "Dados pessoais limpos">
+<!ENTITY private_data_fail "Alguns dados pessoais podem não ter sido limpos">
