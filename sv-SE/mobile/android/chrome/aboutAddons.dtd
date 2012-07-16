@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Aktivera">
 <!ENTITY addonAction.disable                    "Inaktivera">
 <!ENTITY addonAction.uninstall                  "Avinstallera">
-<!ENTITY addonAction.cancel                     "Avbryt">
+<!ENTITY addonAction.undo                       "Ångra">
