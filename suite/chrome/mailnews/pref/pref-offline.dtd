@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 
-<!ENTITY pref.network.title "Network &amp; Storage">
+<!ENTITY pref.network.title "Hálózat nélkül és lemezterület">
 <!ENTITY pref.offline.caption "Kapcsolat nélküli munka">
 <!ENTITY textStartUp "Induláskor:">
 <!ENTITY textStartUp.accesskey "I">
@@ -24,10 +24,10 @@
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Kérdés">
 <!ENTITY radioAskDownload.accesskey "d">
-<!ENTITY mailConnections.caption "Mail Connections">
-<!ENTITY mailnewsTimeout.label "Connection timeout:">
+<!ENTITY mailConnections.caption "Levelező kiszolgáló">
+<!ENTITY mailnewsTimeout.label "Kapcsolat időtúllépés:">
 <!ENTITY mailnewsTimeout.accesskey "m">
-<!ENTITY mailnewsTimeoutSeconds.label "seconds">
+<!ENTITY mailnewsTimeoutSeconds.label "másodperc">
 <!ENTITY Diskspace "Lemezterület">
 <!ENTITY offlineCompact.label "Mappák tömörítése, ha a megtakarított hely több lenne, mint">
 <!ENTITY offlineCompact.accesskey "t">
