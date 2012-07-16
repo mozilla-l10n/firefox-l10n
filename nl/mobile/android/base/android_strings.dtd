@@ -94,6 +94,7 @@
 <!ENTITY pref_private_data_sessions "Actieve aanmeldingen">
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
 <!ENTITY pref_private_data_siteSettings "Websitevoorkeuren">
+<!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
 
 <!ENTITY quit "Afsluiten">
 
