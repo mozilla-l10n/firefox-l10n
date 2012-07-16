@@ -23,11 +23,6 @@
 <!ENTITY view.sortDescending.label "เรียงลำดับ ฮ > ก">
 <!ENTITY view.sortDescending.accesskey "ฮ">
 
-<!ENTITY cmd.findInBookmarks.label "หาในรายการที่คั่นหน้า…">
-<!ENTITY cmd.findInBookmarks.accesskey "ห">
-<!ENTITY cmd.findCurrent.label "หาในชุดปัจจุบัน…">
-<!ENTITY cmd.findCurrent.accesskey "น">
-
 <!ENTITY importBookmarksFromHTML.label     "นำเข้าคั่นหน้าเว็บจาก HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "ข">
 <!ENTITY exportBookmarksToHTML.label       "ส่งออกคั่นหน้าเว็บเป็น HTML…">

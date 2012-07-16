@@ -9,27 +9,39 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label          "ตัวดีบั๊กสคริปต์">
+<!ENTITY debuggerMenu.label2          "ตัวดีบั๊ก">
+
+<!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the remote debugger UI. -->
+<!ENTITY remoteDebuggerMenu.label    "ตัวดีบั๊กระยะไกล">
+
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI. -->
+<!ENTITY chromeDebuggerMenu.label    "ตัวดีบั๊กเบราว์เซอร์">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
-<!ENTITY debuggerMenu.commandkey     "ส">
+<!ENTITY debuggerMenu.commandkey     "S">
 
-<!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
-  -  button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton      "ปิด">
+<!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
+  -  the button that closes the debugger UI. -->
+<!ENTITY debuggerUI.closeButton.tooltip        "ปิด">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
-  -  button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton   "ก้าวข้าม">
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles pausing on exceptions. -->
+<!ENTITY debuggerUI.pauseExceptions          "หยุดเมื่อพบ exception">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
+  -  the button that steps over a function call. -->
+<!ENTITY debuggerUI.stepOverButton.tooltip   "ก้าวข้าม">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
   -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton     "ก้าวเข้า">
+<!ENTITY debuggerUI.stepInButton.tooltip     "ก้าวเข้า">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
   -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton    "ก้าวออก">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "ก้าวออก">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
@@ -44,3 +56,11 @@
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
 <!ENTITY debuggerUI.propertiesTitle  "ขอบเขตตัวแปร">
+
+<!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
+  -  appears in the filter text box when it is empty. -->
+<!ENTITY debuggerUI.emptyFilterText  "กรองสคริปต์">
+
+<!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
+  - there are no scripts. -->
+<!ENTITY debuggerUI.emptyScriptText  "ไม่พบสคริปต์">

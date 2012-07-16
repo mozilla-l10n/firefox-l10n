@@ -26,8 +26,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "ตรวจว่า &brandShortName; เป็นเบราว์เซอร์ปริยายหรือไม่ เมื่อเริ่มโปรแกรมทุกครั้ง">
 <!ENTITY alwaysCheckDefault.accesskey "ท">
-<!ENTITY checkNow.label "ตรวจเดี๋ยวนี้">
-<!ENTITY checkNow.accesskey "ด">
+<!ENTITY setDefault.label                "ตั้งให้ &brandShortName; เป็นเบราว์เซอร์ปริยาย">
+<!ENTITY setDefault.accesskey            "ป">
+<!ENTITY isDefault.label                 "&brandShortName; เป็นเบราว์เซอร์ปริยายของคุณ">
 <!ENTITY submitCrashes.label             "ส่งรายงานความขัดข้อง">
 <!ENTITY submitCrashes.accesskey         "ส">
 <!ENTITY submitTelemetry.label           "ส่งข้อมูลด้านประสิทธิภาพ">
