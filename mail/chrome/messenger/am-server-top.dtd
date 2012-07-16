@@ -1,5 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Message Storage">
 <!ENTITY securitySettings.label "Налаштування захисту">
 <!ENTITY serverSettings.label "Параметри сервера">
 <!ENTITY serverType.label "Тип сервера:">
@@ -63,16 +64,19 @@
 <!ENTITY alwaysAuthenticate.label "Завжди проводити аутентифікацію при підключенні до цього сервера">
 <!ENTITY alwaysAuthenticate.accesskey "З">
 <!ENTITY newsrcFilePath.label "файл newsrc:">
-<!ENTITY localPath.label "Локальна тека:">
+<!ENTITY newsrcPicker.label "Вибрати файл newsrc">
 <!ENTITY abbreviate.label "Показувати назви груп новин як:">
 <!ENTITY abbreviateOn.label "Повні (наприклад, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Абревіатури (наприклад, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Додатково…">
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY serverDefaultCharset.label "Кодування за умовчанням:">
+<!ENTITY localPath.label "Локальна тека:">
 <!ENTITY localFolderPicker.label "Розташування локальних тек">
 <!ENTITY browseFolder.label "Огляд…">
 <!ENTITY browseFolder.accesskey "О">
-<!ENTITY newsrcPicker.label "Вибрати файл newsrc">
 <!ENTITY browseNewsrc.label "Огляд…">
 <!ENTITY browseNewsrc.accesskey "О">
+
+<!ENTITY accountTitle.label "Account Settings">
+<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">

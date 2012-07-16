@@ -83,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "з">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Припущення відсутні)">
-<!ENTITY spellCheckIgnoreWord.label "Ігнорувати">
-<!ENTITY spellCheckIgnoreWord.accesskey "І">
-<!ENTITY spellCheckAddToDictionary.label "Додати до словника">
-<!ENTITY spellCheckAddToDictionary.accesskey "Д">
 <!ENTITY createLinkCmd.label "Створити посилання…">
 <!ENTITY createLinkCmd.accesskey "С">
 <!ENTITY editLinkCmd.label "Редагувати об’єкт в новому вікні Компонувальника">

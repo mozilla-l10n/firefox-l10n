@@ -1,5 +1,5 @@
-<!ENTITY junkLog.title "Журнал анти-спам фільтрів">
-<!ENTITY junkLogInfo.label "Журнал діяльності фільтрів спаму.">
+<!ENTITY adaptiveJunkLog.title "Журнал адаптивного анти-спам фільтра">
+<!ENTITY adaptiveJunkLogInfo.label "Журнал роботи адаптивного анти-спам фільтра">
 <!ENTITY clearLog.label "Очистити журнал">
 <!ENTITY clearLog.accesskey "О">
 <!ENTITY closeLog.label "Закрити">

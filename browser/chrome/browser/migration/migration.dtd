@@ -15,8 +15,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label       "З файлу HTML">
-<!ENTITY importFromHTMLFile.accesskey   "а">
 
 <!ENTITY noMigrationSources.label       "Не знайдено жодної програми із закладками, історією чи паролями.">
 
