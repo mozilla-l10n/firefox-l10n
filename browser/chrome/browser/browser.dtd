@@ -128,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Próxima página">
-<!ENTITY backForwardButtonMenu.tooltip "Para exibir o histórico clique com o direito ou mantenha clicado o botão esquerdo">
-<!ENTITY backForwardButtonMenuMac.tooltip "Para exibir o histórico mantenha clicado o botão esquerdo">
+<!ENTITY backForwardButtonMenu.tooltip "Para exibir o histórico clique com o direito ou clique e segure o botão esquerdo">
+<!ENTITY backForwardButtonMenuMac.tooltip "Para exibir o histórico clique e segure o botão esquerdo">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Atualizar a página">
@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "s">
 
 <!ENTITY errorConsoleCmd.label        "Console de erros">
-<!ENTITY errorConsoleCmd.accesskey    "s">
+<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "J">
 
 <!ENTITY webConsoleCmd.label          "Console da web">
@@ -214,9 +214,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspecionar elemento">
 <!ENTITY inspectContextMenu.accesskey "I">
 
-<!ENTITY responsiveUI.label            "Modo adaptável">
-<!ENTITY responsiveUI.accesskey        "M">
-<!ENTITY responsiveUI.commandkey       "m">
+<!ENTITY responsiveDesignTool.label   "Modo de design adaptável">
+<!ENTITY responsiveDesignTool.accesskey "M">
+<!ENTITY responsiveDesignTool.commandkey "m">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.commandkey             "V">
 
 <!ENTITY webConsoleButton.label "Console da web">
-<!ENTITY inspectorButton.label "Inspeção">
+<!ENTITY inspectorButton.label "Inspecionar">
 <!ENTITY scriptsButton.label "Scripts">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML interno">
