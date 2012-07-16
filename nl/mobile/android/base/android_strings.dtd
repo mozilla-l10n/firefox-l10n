@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  splash_settingup "Uw &brandShortName; instellen">
 <!ENTITY  splash_bookmarks_history "We werken uw bladwijzers en geschiedenis bij, wat enkele minuten kan duren.">
 
@@ -48,7 +49,7 @@
 <!ENTITY forward "Vooruit">
 <!ENTITY menu "Menu">
 <!ENTITY back "Terug">
-<!ENTITY stop "Stop">
+<!ENTITY stop "Stoppen">
 <!ENTITY site_security "Websitebeveiliging">
 
 <!ENTITY close_tab "Tabblad sluiten">
@@ -63,7 +64,7 @@
 <!ENTITY pref_category_general "Algemeen">
 <!ENTITY pref_category_privacy "Privacy &amp; beveiliging">
 <!ENTITY pref_category_content "Inhoud">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "Importeren &amp; exporteren">
 <!ENTITY pref_about_firefox "Over &brandShortName;">
 <!ENTITY pref_do_not_track "Websites vertellen mij niet te volgen">
 <!ENTITY pref_telemetry "Prestatiegegevens verzenden">
@@ -72,10 +73,7 @@
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu tonen">
 <!ENTITY pref_char_encoding_off "Menu niet tonen">
-<!ENTITY pref_clear_history "Geschiedenis wissen">
-<!ENTITY pref_clear_history_confirm "Navigatiegeschiedenis zal worden verwijderd">
 <!ENTITY pref_clear_private_data "Privégegevens wissen">
-<!ENTITY pref_clear_private_data_confirm "Navigatie-instellingen, inclusief wachtwoorden en cookies, zullen worden verwijderd">
 <!ENTITY pref_plugins "Plug-ins">
 <!ENTITY pref_plugins_enabled "Ingeschakeld">
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
@@ -88,19 +86,26 @@
 <!ENTITY pref_font_size_xlarge "Extra groot">
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_import_android "Importeren van Android">
+<!ENTITY pref_import_android "Importeren uit Android">
+<!ENTITY pref_private_data_history "Navigatie- &amp; downloadgeschiedenis">
+<!ENTITY pref_private_data_formdata "Formulier- &amp; zoekgeschiedenis">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Buffer">
+<!ENTITY pref_private_data_sessions "Actieve aanmeldingen">
+<!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
+<!ENTITY pref_private_data_siteSettings "Websitevoorkeuren">
 
 <!ENTITY quit "Afsluiten">
 
 <!ENTITY addons "Add-ons">
 <!ENTITY downloads "Downloads">
-<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Tekenset">
 
 <!ENTITY share "Delen">
 <!ENTITY share_title "Delen via">
 <!ENTITY save_as_pdf "Opslaan als PDF">
 <!ENTITY find_in_page "Zoeken op pagina">
+<!ENTITY desktop_mode "Desktopwebsite opvragen">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -114,6 +119,9 @@
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan startpagina">
 <!ENTITY contextmenu_share "Delen">
+<!ENTITY contextmenu_pasteandgo "Plakken &amp; Gaan">
+<!ENTITY contextmenu_paste "Plakken">
+<!ENTITY contextmenu_copyurl "Adres kopiëren">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -142,6 +150,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annuleren">
+<!ENTITY button_clear_data "Gegevens wissen">
 
 <!ENTITY abouthome_addons_title "Add-ons voor &brandShortName;">
 <!ENTITY abouthome_addons_browse "Door alle &brandShortName; add-ons bladeren">
@@ -174,10 +183,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "welke wordt beheerd door">
 
 <!ENTITY bookmarkhistory_button_import "Importeren">
-<!ENTITY bookmarkhistory_import_both "Bezig met importeren van 
-                                      Androidbladwijzers en geschiedenis">
-<!ENTITY bookmarkhistory_import_bookmarks "Bezig met importeren van 
-                                           Androidbladwijzers">
-<!ENTITY bookmarkhistory_import_history "Bezig met importeren van 
-                                         Androidgeschiedenis">
-<!ENTITY bookmarkhistory_import_wait "Even wachten...">
+<!ENTITY bookmarkhistory_import_both "Bladwijzers en geschiedenis importeren
+                                      uit Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Bladwijzers importeren
+                                           uit Android">
+<!ENTITY bookmarkhistory_import_history "Geschiedenis importeren
+                                         uit Android">
+<!ENTITY bookmarkhistory_import_wait "Een moment geduld…">
+
+<!ENTITY private_data_success "Privégegevens gewist">
+<!ENTITY private_data_fail "Sommige provégegevens konden niet worden gewist">
