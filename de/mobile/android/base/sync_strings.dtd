@@ -40,12 +40,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Einrichtung abgeschlossen'>
-<!ENTITY sync.subtitle.success.label 'Ihre Daten werden nun im Hintergrund heruntergeladen. Sie können Ihr Konto in den Einstellungen verwalten.'>
+<!ENTITY sync.subtitle.success.label1 'Ihre Daten werden nun im Hintergrund heruntergeladen. Sie können Ihr Konto in den Einstellungen verwalten oder mit &brandShortName; ins Internet gehen.'>
 <!ENTITY sync.settings.label 'Einstellungen'>
-<!ENTITY sync.subtitle.manage.label 'Ihr &syncBrand.fullName.label;-Konto ist bereits eingerichtet. Gehen Sie zum Verwalten des Kontos in die Einstellungen.'>
+<!ENTITY sync.subtitle.manage.label1 'Ihr &syncBrand.fullName.label;-Konto ist bereits eingerichtet. Gehen Sie zum Verwalten des Kontos in die Einstellungen oder starten Sie &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Bitte erneut versuchen.'>
+<!ENTITY sync.pair.connectlocation.label 'Zum Aktivieren Ihres neuen Geräts wählen Sie bitte auf diesem \"&syncBrand.shortName.label; einrichten\" und klicken dann auf \"Ich habe ein Benutzerkonto\".'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Einstellungen'>
@@ -67,6 +68,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Unsortierte Lesezeichen'>
 <!ENTITY bookmarks.folder.desktop.label 'Desktop-Lesezeichen'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobile Lesezeichen'>
+<!ENTITY bookmarks.folder.readinglist.label 'Leseliste'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Es wird nur ein &syncBrand.fullName.label;-Konto unterstützt.'>
