@@ -6,6 +6,12 @@ A browser/chrome/browser/styleinspector.properties
 ? browser/chrome/browser/devtools/tilt.properties
 ? browser/chrome/browser/devtools/sourceeditor.properties
 
+? browser/chrome/browser/devtools/responsiveUI.properties
+? browser/pdfviewer/chrome.properties
+? browser/pdfviewer/viewer.properties
+? browser/webapp-uninstaller/webapp-uninstaller.properties
+
+
 dom/chrome/dom/dom.properties
 dom/chrome/layout/css.properties (grep keyframe)
 dom/chrome/layout/xbl.properties
