@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  pref.editing.title        "Új oldal beállításai">
 
 <!ENTITY  authorName.label          "Szerző:">
@@ -23,7 +27,7 @@
 
 <!ENTITY backgroundImage.label      "Háttérkép:">
 <!ENTITY backgroundImage.accesskey  "H">
-<!ENTITY chooseFile.label           "Tallózás...">
+<!ENTITY chooseFile.label           "Tallózás…">
 <!ENTITY chooseFile.accesskey       "T">
 
 

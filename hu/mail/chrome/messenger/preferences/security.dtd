@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Szemét">
 <!ENTITY itemPhishing.label      "Becsapós e-mail">
 <!ENTITY itemPasswords.label     "Jelszavak">
@@ -33,9 +37,9 @@
 <!ENTITY useMasterPassword.label        "Mesterjelszó használata">
 <!ENTITY useMasterPassword.accesskey    "M">
 <!ENTITY masterPassword.intro           "A mesterjelszó az összes jelszót védi. Minden munkamenet során egyszer meg kell adni.">
-<!ENTITY changeMasterPassword.label     "Mesterjelszó megváltoztatása...">
+<!ENTITY changeMasterPassword.label     "Mesterjelszó megváltoztatása…">
 <!ENTITY changeMasterPassword.accesskey "z">
-<!ENTITY savedPasswords.label           "Mentett jelszavak...">
+<!ENTITY savedPasswords.label           "Mentett jelszavak…">
 <!ENTITY savedPasswords.accesskey       "e">
 
 <!-- Anti Virus -->
@@ -52,9 +56,11 @@
 <!ENTITY expire.label                   "amíg le nem járnak">
 <!ENTITY close.label                    "a &brandShortName; bezárásáig">
 <!ENTITY askEachTime.label              "megerősítés minden alkalommal">
-<!ENTITY cookieExceptions.label         "Kivételek...">
+<!ENTITY cookieExceptions.label         "Kivételek…">
 <!ENTITY cookieExceptions.accesskey     "v">
-<!ENTITY showCookies.label              "Sütik megtekintése...">
-<!ENTITY showCookies.accesskey          "S">
+<!ENTITY showCookies.label              "Sütik megtekintése…">
+<!ENTITY showCookies.accesskey          "t">
 
-
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Nem akarom, hogy a webhelyek kövessenek">
+<!ENTITY doNotTrack.accesskey           "N">

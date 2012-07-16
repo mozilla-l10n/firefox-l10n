@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "&brandShortName; kezdőoldal">
 <!ENTITY enableStartPage.label            "Kezdőoldal betöltése az üzenetek helyére a &brandShortName; indításakor">
 <!ENTITY enableStartPage.accesskey        "K">
@@ -14,7 +18,7 @@
 <!ENTITY playSound1.accesskey              "H">
 <!ENTITY showAnimatedAlert.label          "Figyelmeztető ablak">
 <!ENTITY showAnimatedAlert.accesskey      "F">
-<!ENTITY customizeMailAlert.label         "Testreszabás...">
+<!ENTITY customizeMailAlert.label         "Testreszabás…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
 <!ENTITY play.label                       "Lejátszás">
@@ -25,11 +29,11 @@
 <!ENTITY systemsound.accesskey            "r">
 <!ENTITY customsound.label                "A következő hangfájl használata">
 <!ENTITY customsound.accesskey            "h">
-<!ENTITY browse.label                     "Tallózás...">
+<!ENTITY browse.label                     "Tallózás…">
 <!ENTITY browse.accesskey                 "T">
 
 <!ENTITY addonsMgr.label                  "Kiegészítők">
 <!ENTITY manageAddonsDescWin.label        "Kiegészítők beállítása">
 <!ENTITY manageAddonsDescUnix2.label      "Kiegészítők beállítása">
-<!ENTITY manageAddons.label               "Kiegészítők kezelése...">
-<!ENTITY manageAddons.accesskey           "K">
+<!ENTITY manageAddons.label               "Kiegészítők kezelése…">
+<!ENTITY manageAddons.accesskey           "z">

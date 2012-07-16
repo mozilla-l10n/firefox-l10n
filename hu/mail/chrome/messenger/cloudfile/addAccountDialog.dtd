@@ -7,7 +7,7 @@
 <!ENTITY addAccountDialog.accountName.label "Fiók neve:">
 <!ENTITY addAccountDialog.noAccountText "Elnézést, de a &brandShortName; jelenlegi verziója csak egy fiókot engedélyez minden online tárolószolgáltatáshoz.">
 <!ENTITY addAccountDialog.createAccountText2 "Nagy mellékleteket több online tárolószolgáltatás egyikének használatával küldhet. Állítson be egy meglévő fiókot, vagy hozzon létre egy újat.">
-<!ENTITY addAccountDialog.authorizing "Jogosultság ellenőrzése...">
+<!ENTITY addAccountDialog.authorizing "Jogosultság ellenőrzése…">
 <!ENTITY addAccountDialog.error "Hiba történt a fiók beállítása közben!">
 <!ENTITY addAccountDialog.acceptButton.label "Fiók beállítása">
-<!ENTITY addAccountDialog.learnMore "További tudnivalók...">
+<!ENTITY addAccountDialog.learnMore "További tudnivalók…">

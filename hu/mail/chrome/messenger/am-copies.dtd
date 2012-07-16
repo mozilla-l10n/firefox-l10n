@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Másolatok és mappák">
@@ -25,7 +29,7 @@
 <!ENTITY archivesTitle.label "Üzenetarchívumok">
 <!ENTITY keepArchives.label "Üzenetarchívumok tárolója:">
 <!ENTITY keepArchives.accesskey "t">
-<!ENTITY archiveHierarchyButton.label "Archiválási beállítások">
+<!ENTITY archiveHierarchyButton.label "Archiválási beállítások…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
 <!ENTITY archivesFolderOn.label "„Archívum” mappa itt:">
 <!ENTITY archivesFolderOn.accesskey "A">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Címjegyzék">
 
 <!-- File Menu -->
@@ -5,14 +9,14 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Új">
 <!ENTITY newMenu.accesskey                              "Ú">
-<!ENTITY newContact.label                               "Névjegy...">
+<!ENTITY newContact.label                               "Névjegy…">
 <!ENTITY newContact.accesskey                           "N">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Levelezőlista...">
+<!ENTITY newListCmd.label                               "Levelezőlista…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Címjegyzék...">
+<!ENTITY newAddressBookCmd.label                        "Címjegyzék…">
 <!ENTITY newAddressBookCmd.accesskey                    "C">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-címtár...">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP címjegyzék…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Üzenet">
 <!ENTITY newMessageCmd.key                              "M">
@@ -23,16 +27,16 @@
 <!ENTITY closeCmd.label                                 "Bezárás">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "B">
-<!ENTITY printSetupCmd.label                            "Oldalbeállítás...">
+<!ENTITY printSetupCmd.label                            "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey                        "O">
 <!ENTITY printPreviewContactCmd.label                   "Névjegy nyomtatási képe">
 <!ENTITY printPreviewContactCmd.accesskey               "k">
 <!ENTITY printPreviewAddressBook.label                  "Címjegyzék nyomtatási képe">
 <!ENTITY printPreviewAddressBook.accesskey              "n">
-<!ENTITY printContactCmd.label                          "Névjegy nyomtatása...">
+<!ENTITY printContactCmd.label                          "Névjegy nyomtatása…">
 <!ENTITY printContactCmd.accesskey                      "v">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Címjegyzék nyomtatása...">
+<!ENTITY printAddressBook.label                         "Címjegyzék nyomtatása…">
 <!ENTITY printAddressBook.accesskey                     "C">
 
 <!-- Edit Menu -->
@@ -61,7 +65,7 @@
 <!ENTITY deleteListCmd.label                            "Lista törlése">
 <!ENTITY deleteListsCmd.label                           "Listák törlése">
 <!ENTITY deleteItemsCmd.label                           "Elemek törlése">
-<!ENTITY selectAllCmd.label                             "Minden kijelölése">
+<!ENTITY selectAllCmd.label                             "Mindent kijelöl">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "d">
@@ -70,7 +74,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Tulajdonságok...">
+<!ENTITY propertiesCmd.label                            "Tulajdonságok…">
 <!ENTITY propertiesCmd.accesskey                        "T">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,7 +89,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "C">
 <!ENTITY showTaskbarCmd.label                           "Állapotsor">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
-<!ENTITY customizeToolbar.label                         "Testreszabás...">
+<!ENTITY customizeToolbar.label                         "Testreszabás…">
 <!ENTITY customizeToolbar.accesskey                     "T">
 <!ENTITY layoutMenu.label                               "Elrendezés">
 <!ENTITY layoutMenu.accesskey                           "L">
@@ -112,13 +116,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Levelező és hírolvasó">
 <!ENTITY messengerCmd.accesskey                         "L">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Címek keresése...">
+<!ENTITY searchAddressesCmd.label                       "Címek keresése…">
 <!ENTITY searchAddressesCmd.accesskey                   "c">
-<!ENTITY importCmd.label                                "Importálás...">
+<!ENTITY importCmd.label                                "Importálás…">
 <!ENTITY importCmd.accesskey                            "i">
-<!ENTITY exportCmd.label                                "Exportálás...">
+<!ENTITY exportCmd.label                                "Exportálás…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Beállítások...">
+<!ENTITY preferencesCmd.label                           "Beállítások…">
 <!ENTITY preferencesCmd.accesskey                       "B">
 <!ENTITY preferencesCmdUnix.label                       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey                   "B">
@@ -151,7 +155,7 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Név vagy e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Keresés az üzenetekben...">
+<!ENTITY advancedButton.tooltip                         "Keresés az üzenetekben…">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Gyorskeresés">
 
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Felhasználói név">
-<!ENTITY ScreenName.accesskey                           "F">
+<!ENTITY ChatName.label                                 "Csevegési név">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Szervezet">
 <!ENTITY Company.accesskey                              "S">
 <!ENTITY NickName.label                                 "Becenév">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Kapcsolat">
 <!ENTITY home.heading                                   "Otthon">
 <!ENTITY other.heading                                  "Egyéb">
+<!ENTITY chat.heading                                   "Csevegés">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Munkahely">
 <!-- Special Box Headings, for mailing lists -->

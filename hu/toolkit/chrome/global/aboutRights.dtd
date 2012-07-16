@@ -14,7 +14,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "A &brandShortName; a ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Ez azt jelenti, hogy a  &brandShortName; használható, másolható és terjeszthető.  A &brandShortName; forráskódjának igény szerinti módosítása szintén megengedett. A Mozilla Public License megadja a jogot a módosított verziók terjesztésére is.">
+<!ENTITY rights.intro-point1c ". Ez azt jelenti, hogy a  &brandShortName; használható, másolható és terjeszthető. A &brandShortName; forráskódjának igény szerinti módosítása szintén megengedett. A Mozilla Public License megadja a jogot a módosított verziók terjesztésére is.">
 
 <!ENTITY rights.intro-point2-a "Ön nem kapott jogot vagy felhatalmazást a védjegyek
           használatára sem a Mozilla Foundationtől, sem mástól, beleértve – de nem csak
@@ -56,7 +56,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "A Safe Browsing (biztonságos böngészés) funkciót nem ajánlott letiltani, mert akkor nem biztonságos webhelyekre is eljuthat.  Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
+<!ENTITY rights.safebrowsing-b "A Safe Browsing (biztonságos böngészés) funkciót nem ajánlott letiltani, mert akkor nem biztonságos webhelyekre is eljuthat. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
 <!ENTITY rights.safebrowsing-term1 "Nyissa meg az alkalmazás beállítópaneljét.">
 <!ENTITY rights.safebrowsing-term2 "Válassza a Biztonság csoportot.">
 <!ENTITY rights.safebrowsing-term3 "Vegye le a jelölést a „&blockAttackSites.label;” és a  „&blockWebForgeries.label;” négyzetekről.">
@@ -64,7 +64,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
-<!ENTITY rights.locationawarebrowsing-b "A helyfüggő böngészés nincs alapból bekapcsolva.  Az engedélye nélkül nem kerül elküldésre semmilyen adat a tartózkodási helyéről.  Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
+<!ENTITY rights.locationawarebrowsing-b "A helyfüggő böngészés nincs alapból bekapcsolva. Az engedélye nélkül nem kerül elküldésre semmilyen adat a tartózkodási helyéről. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
 <!ENTITY rights.locationawarebrowsing-term1a "A címsávba írja be: ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Írja be: geo.enabled">
@@ -78,10 +78,10 @@
 <!ENTITY rights.webservices-term1-unbranded "Itt kell megadni a termékre vonatkozó szolgáltatási feltételeket.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "A &vendorShortName;, a közreműködők, a licencadók és a partnerek azon dolgoznak, hogy a lehető legpontosabb és legfrissebb Szolgáltatásokat nyújtsák.  Mindazonáltal nem garantáljuk, hogy ez az információ teljes és hibamentes.  Például a Safe Browsing szolgáltatás nem feltétlenül azonosít egyes kockázatos webhelyeket, vagy tévedésből biztonságos webhelyre nem enged be, valamint a Location Aware szolgáltatás által visszaadott tartózkodási helyet a szolgáltatóink közlik, ezek csak becslések, és sem mi, sem a szolgáltatóink nem garantáljuk a megadott tartózkodási hely pontosságát.">
+<!ENTITY rights2.webservices-term1 "A &vendorShortName;, a közreműködők, a licencadók és a partnerek azon dolgoznak, hogy a lehető legpontosabb és legfrissebb Szolgáltatásokat nyújtsák. Mindazonáltal nem garantáljuk, hogy ez az információ teljes és hibamentes. Például a Safe Browsing szolgáltatás nem feltétlenül azonosít egyes kockázatos webhelyeket, vagy tévedésből biztonságos webhelyre nem enged be, valamint a Location Aware szolgáltatás által visszaadott tartózkodási helyet a szolgáltatóink közlik, ezek csak becslések, és sem mi, sem a szolgáltatóink nem garantáljuk a megadott tartózkodási hely pontosságát.">
 <!ENTITY rights.webservices-term2 "A &vendorShortName; saját hatáskörében megszüntetheti vagy módosíthatja a Szolgáltatásokat.">
-<!ENTITY rights2.webservices-term3 "Ön igénybe veheti ezeket a Szolgáltatásokat a &brandShortName; mellékelt verziójával, a &vendorShortName; ehhez minden jogot megad.  A &vendorShortName; és licencadói minden más jogot fenntartanak a Szolgáltatásokkal kapcsolatban.  Ezek a feltételek nem korlátozzák a &brandShortName; programra és a &brandShortName; forráskódjára alkalmazott nyílt forrású licencek által biztosított jogokat.">
-<!ENTITY rights.webservices-term4 "A Szolgáltatások „olyanok, amilyenek”. A &vendorShortName;, a közreműködők, a licencadók és a terjesztők minden garanciát elutasítanak, legyen az kifejezett vagy vélelmezett, beleértve, de nem erre korlátozva azt, hogy a Szolgáltatások hasznosak és megfelelnek a felhasználó céljainak.  Teljes egészében a felhasználó viseli annak kockázatát, hogy a Szolgáltatásokat saját céljára igénybe veszi, és hogy a Szolgáltatások az adott minőségben és teljesítménnyel működnek. Egyes jogrendszerek nem teszik lehetővé a vélelmezett garanciák kizárását vagy korlátozását, tehát ez az elutasítás lehet, hogy Önre nem vonatkozik.">
-<!ENTITY rights.webservices-term5 "Ha a törvény másképp nem rendelkezik, a &vendorShortName;, a közreműködők, a licencadók és a terjesztők nem felelnek semmilyen közvetlen, különleges, következményes, büntetőjogi vagy példamutató kárért, amely a &brandShortName; és a Szolgáltatások használatából következett, vagy azzal bármilyen módon összefüggésbe hozható.  A kollektív felelősség ezen feltételek szerint nem haladja meg az 500 (ötszáz) USA-dollárt. Egyes jogrendszerek nem teszik lehetővé bizonyos károk kizárását vagy korlátozását, tehát ez a kizárás és korlátozás lehet, hogy Önre nem vonatkozik.">
+<!ENTITY rights2.webservices-term3 "Ön igénybe veheti ezeket a Szolgáltatásokat a &brandShortName; mellékelt verziójával, a &vendorShortName; ehhez minden jogot megad. A &vendorShortName; és licencadói minden más jogot fenntartanak a Szolgáltatásokkal kapcsolatban. Ezek a feltételek nem korlátozzák a &brandShortName; programra és a &brandShortName; forráskódjára alkalmazott nyílt forrású licencek által biztosított jogokat.">
+<!ENTITY rights.webservices-term4 "A Szolgáltatások „olyanok, amilyenek”. A &vendorShortName;, a közreműködők, a licencadók és a terjesztők minden garanciát elutasítanak, legyen az kifejezett vagy vélelmezett, beleértve, de nem erre korlátozva azt, hogy a Szolgáltatások hasznosak és megfelelnek a felhasználó céljainak. Teljes egészében a felhasználó viseli annak kockázatát, hogy a Szolgáltatásokat saját céljára igénybe veszi, és hogy a Szolgáltatások az adott minőségben és teljesítménnyel működnek. Egyes jogrendszerek nem teszik lehetővé a vélelmezett garanciák kizárását vagy korlátozását, tehát ez az elutasítás lehet, hogy Önre nem vonatkozik.">
+<!ENTITY rights.webservices-term5 "Ha a törvény másképp nem rendelkezik, a &vendorShortName;, a közreműködők, a licencadók és a terjesztők nem felelnek semmilyen közvetlen, különleges, következményes, büntetőjogi vagy példamutató kárért, amely a &brandShortName; és a Szolgáltatások használatából következett, vagy azzal bármilyen módon összefüggésbe hozható. A kollektív felelősség ezen feltételek szerint nem haladja meg az 500 (ötszáz) USA-dollárt. Egyes jogrendszerek nem teszik lehetővé bizonyos károk kizárását vagy korlátozását, tehát ez a kizárás és korlátozás lehet, hogy Önre nem vonatkozik.">
 <!ENTITY rights.webservices-term6 "A &vendorShortName; időről időre frissítheti ezeket a feltételeket, ha szükségesnek látja. Ezek a feltételek nem módosíthatók vagy érvényteleníthetők a &vendorShortName; írásos beleegyezése nélkül.">
 <!ENTITY rights.webservices-term7 "A feltételekre Kalifornia (USA) állam törvényei vonatkoznak, kivéve ha ütközik helyi jogszabályokkal. Ha a feltételek egyes részei érvénytelenek vagy nem kikényszeríthetők, a többi rész attól még teljes mértékben érvényes és hatályos. Ha a feltételek lefordított változata ellentmond az angol változatnak, akkor az angol változat az irányadó.">

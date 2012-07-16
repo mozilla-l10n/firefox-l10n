@@ -1,44 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1999-2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Sammy Ford
-   -   Blake Ross
-   -   Ryan Cassin (rcassin@supernova.org)
-   -   Daniel Glazman (glazman@netscape.com)
-   -   Stephen Donner (technutz@netscape.net)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
@@ -54,36 +16,36 @@
 <!ENTITY pasteAsQuotationCmd.label "Beillesztés idézetként">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Keresés és csere...">
+<!ENTITY findCmd.label "Keresés és csere…">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés...">
+<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés…">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Beszúrás">
 <!ENTITY insertMenu.accesskey "B">
-<!ENTITY insertLinkCmd.label "Hivatkozás...">
+<!ENTITY insertLinkCmd.label "Hivatkozás…">
 <!ENTITY insertLinkCmd.accesskey "H">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "Horgony...">
+<!ENTITY insertAnchorCmd.label "Megnevezett horgony…">
 <!ENTITY insertAnchorCmd.accesskey "o">
-<!ENTITY insertImageCmd.label "Kép...">
+<!ENTITY insertImageCmd.label "Kép…">
 <!ENTITY insertImageCmd.accesskey "K">
 <!ENTITY insertHLineCmd.label "Vízszintes vonal">
 <!ENTITY insertHLineCmd.accesskey "V">
-<!ENTITY insertTableCmd.label "Táblázat...">
+<!ENTITY insertTableCmd.label "Táblázat…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Karakterek és szimbólumok...">
+<!ENTITY insertCharsCmd.label "Karakterek és szimbólumok…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Sortörés a képek alatt">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY createLinkCmd.label "Hivatkozás létrehozása...">
+<!ENTITY createLinkCmd.label "Hivatkozás létrehozása…">
 <!ENTITY createLinkCmd.accesskey "H">
 <!ENTITY editLinkCmd.label "Hivatkozás szerkesztése új szerkesztőablakban">
 <!ENTITY editLinkCmd.accesskey "s">
@@ -95,7 +57,7 @@
 <!ENTITY fontVarWidth.label "Proporcionális">
 <!ENTITY fontVarWidth.accesskey "P">
 <!ENTITY fontFixedWidth.label "Fix szélességű">
-<!ENTITY fontFixedWidth.accesskey "F">
+<!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -168,9 +130,9 @@
 <!ENTITY styleVar.label "Változó">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Szövegszín...">
+<!ENTITY formatFontColor.label "Szövegszín…">
 <!ENTITY formatFontColor.accesskey "z">
-<!ENTITY tableOrCellColor.label "Táblázat vagy cella háttérszíne...">
+<!ENTITY tableOrCellColor.label "Táblázat vagy cella háttérszíne…">
 <!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -213,7 +175,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definíció (DD)">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "Felsorolás tulajdonságai...">
+<!ENTITY listPropsCmd.label "Felsorolás tulajdonságai…">
 <!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Bekezdésformátum választása">
@@ -252,7 +214,7 @@
 <!ENTITY decreaseIndent.accesskey "c">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Oldal színei és háttere...">
+<!ENTITY colorsAndBackground.label "Oldal színei és háttere…">
 <!ENTITY colorsAndBackground.accesskey "h">
 
 <!-- Table Menu -->
@@ -276,14 +238,14 @@
 <!ENTITY tableTable.label "Táblázat">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Sor">
-<!ENTITY tableRows.label "Sor(ok)">
+<!ENTITY tableRows.label "Sorok">
 <!ENTITY tableRow.accesskey "S">
 <!ENTITY tableRowAbove.label "Sor felülre">
 <!ENTITY tableRowAbove.accesskey "f">
 <!ENTITY tableRowBelow.label "Sor alulra">
 <!ENTITY tableRowBelow.accesskey "a">
 <!ENTITY tableColumn.label "Oszlop">
-<!ENTITY tableColumns.label "Oszlop(ok)">
+<!ENTITY tableColumns.label "Oszlopok">
 <!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Oszlop a bal oldalra">
 <!ENTITY tableColumnBefore.accesskey "b">
@@ -315,8 +277,8 @@
 <!ENTITY tableSplitCell.accesskey "f">
 <!ENTITY convertToTable.label "Táblázat létrehozása a kijelölésből">
 <!ENTITY convertToTable.accesskey "l">
-<!ENTITY tableProperties.label "Táblázat tulajdonságai...">
-<!ENTITY tableProperties.accesskey "b">
+<!ENTITY tableProperties.label "Táblázat tulajdonságai…">
+<!ENTITY tableProperties.accesskey "u">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menüsor">
@@ -377,5 +339,5 @@
 <!ENTITY updateTOC.accesskey      "F">
 <!ENTITY removeTOC.label          "Eltávolítás">
 <!ENTITY removeTOC.accesskey      "E">
-<!ENTITY tocMenu.label            "Tartalomjegyzék...">
+<!ENTITY tocMenu.label            "Tartalomjegyzék…">
 <!ENTITY tocMenu.accesskey        "T">

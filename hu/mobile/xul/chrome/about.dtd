@@ -10,7 +10,7 @@
 <!ENTITY aboutPage.relNotes.label               "Verzióinformáció">
 <!ENTITY aboutPage.credits.label                "Közreműködők">
 <!ENTITY aboutPage.checkForUpdates.button       "Frissítések keresése">
-<!ENTITY aboutPage.checkForUpdates.checking     "Frissítések keresése...">
+<!ENTITY aboutPage.checkForUpdates.checking     "Frissítések keresése…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nem találhatók frissítések">
 <!ENTITY aboutPage.checkForUpdates.found        "Frissítés érhető el">
 

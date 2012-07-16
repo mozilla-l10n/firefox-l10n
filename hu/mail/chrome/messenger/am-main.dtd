@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Postafiók beállításai">
@@ -20,16 +24,16 @@
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Aláírás fájlból (szöveg, HTML vagy kép):">
 <!ENTITY signatureFile.accesskey "f">
-<!ENTITY edit.label "Szerkesztés...">
-<!ENTITY choose.label "Tallózás...">
+<!ENTITY edit.label "Szerkesztés…">
+<!ENTITY choose.label "Tallózás…">
 <!ENTITY choose.accesskey "T">
-<!ENTITY editVCard.label "Névjegy szerkesztése...">
+<!ENTITY editVCard.label "Névjegy szerkesztése…">
 <!ENTITY editVCard.accesskey "N">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "A vCard csatolása a levelekhez">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Személyazonosságok kezelése...">
+<!ENTITY manageIdentities.label "Személyazonosságok kezelése…">
 <!ENTITY manageIdentities.accesskey "A">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->

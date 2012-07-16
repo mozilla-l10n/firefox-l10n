@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Üzenetszűrők">
 <!ENTITY nameColumn.label "Szűrő neve">
 <!ENTITY activeColumn.label "Engedélyezve">
-<!ENTITY newButton.label "Új...">
+<!ENTITY newButton.label "Új…">
 <!ENTITY newButton.accesskey "Ú">
-<!ENTITY editButton.label "Szerkesztés...">
+<!ENTITY editButton.label "Szerkesztés…">
 <!ENTITY editButton.accesskey "S">
 <!ENTITY deleteButton.label "Törlés">
 <!ENTITY deleteButton.accesskey "T">

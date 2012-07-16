@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "Küldési beállítások">
 <!ENTITY sendMail.title               "Szövegformátum">
 <!ENTITY sendMaildesc.label           "Ha HTML-üzenetet küldése esetén egy vagy több címzettről nem ismert, hogy képes-e HTML-t fogadni:">
@@ -16,9 +20,9 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Normál szöveget kérő tartományok">
 <!ENTITY PlainTextTab.accesskey       "E">
-<!ENTITY AddHtmlDomain.label          "Hozzáadás...">
+<!ENTITY AddHtmlDomain.label          "Hozzáadás…">
 <!ENTITY AddHtmlDomain.accesskey      "H">
-<!ENTITY AddPlainText.label           "Hozzáadás...">
+<!ENTITY AddPlainText.label           "Hozzáadás…">
 <!ENTITY AddPlainText.accesskey       "o">
 <!ENTITY DeleteHtmlDomain.label       "Törlés">
 <!ENTITY DeleteHtmlDomain.accesskey   "T">
