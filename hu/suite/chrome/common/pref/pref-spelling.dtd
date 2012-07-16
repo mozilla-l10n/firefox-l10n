@@ -9,7 +9,7 @@
 <!ENTITY dontCheckSpelling.label              "Soha">
 <!ENTITY multilineCheckSpelling.label         "Többsoros szövegbeviteli mezőkben">
 <!ENTITY alwaysCheckSpelling.label            "Minden szövegbeviteli mezőben">
-<!ENTITY spellForMailAndNews.label            "Mail &amp; Newsgroups">
+<!ENTITY spellForMailAndNews.label            "Levelező és hírolvasó">
 <!ENTITY checkSpellingBeforeSend.label        "Helyesírás ellenőrzése küldés előtt">
 <!ENTITY checkSpellingBeforeSend.accesskey    "H">
 <!ENTITY spellCheckInline.label               "Helyesírás-ellenőrzés beírás közben">

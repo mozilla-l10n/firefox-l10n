@@ -59,14 +59,14 @@
 <!ENTITY resetTrainingData.label "Tanulási adatok törlése">
 <!ENTITY resetTrainingData.accesskey "T">
 
-<!ENTITY pref.suspectMail.caption "Suspect Mail">
+<!ENTITY pref.suspectMail.caption "Gyanús levelek">
 <!-- Phishing Detector -->
 
-<!ENTITY pref.phishing.caption "E-mail Scams">
-<!ENTITY enablePhishingDetector.label "Tell me if the message I'm reading is a suspected email scam">
-<!ENTITY enablePhishingDetector.accesskey "T">
+<!ENTITY pref.phishing.caption "Becsapós e-mail">
+<!ENTITY enablePhishingDetector.label "Figyelmeztetés a becsapós e-mailekre">
+<!ENTITY enablePhishingDetector.accesskey "b">
 <!-- Anti Virus -->
 
-<!ENTITY pref.antivirus.caption "Anti-Virus">
-<!ENTITY antiVirus.label "Allow anti-virus clients to scan incoming messages more easily">
+<!ENTITY pref.antivirus.caption "Antivírus">
+<!ENTITY antiVirus.label "Könnyűvé teszi a vírusellenes szoftverek számára a bejövő üzenetek ellenőrzését">
 <!ENTITY antiVirus.accesskey "A">
