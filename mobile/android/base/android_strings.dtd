@@ -86,7 +86,7 @@
 <!ENTITY pref_font_size_xlarge "Çok büyük">
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_import_android "Android'den al">
+<!ENTITY pref_import_android "Android\'den al">
 <!ENTITY pref_private_data_history "Tarama ve indirme geçmişi">
 <!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
 <!ENTITY pref_private_data_cookies "Çerezler">
@@ -184,11 +184,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "İşleten:">
 
 <!ENTITY bookmarkhistory_button_import "İçe aktar">
-<!ENTITY bookmarkhistory_import_both "Android'den yer imleri ve geçmiş alınıyor">
-<!ENTITY bookmarkhistory_import_bookmarks "Android'den yer imleri alınıyor">
-<!ENTITY bookmarkhistory_import_history "Android'den geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_both "Android\'den yer imleri ve geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_bookmarks "Android\'den yer imleri alınıyor">
+<!ENTITY bookmarkhistory_import_history "Android\'den geçmiş alınıyor">
 <!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
 
 <!ENTITY private_data_success "Özel veriler temizlendi">
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
-
