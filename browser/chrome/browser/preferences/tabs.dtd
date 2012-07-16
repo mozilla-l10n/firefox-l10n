@@ -10,6 +10,9 @@
 <!ENTITY showTabBar.label "แสดงแถบแท็บเสมอ">
 <!ENTITY showTabBar.accesskey "ถ">
 
+<!ENTITY restoreTabsOnDemand.label        "ไม่ต้องโหลดแท็บจนกว่าจะถูกเลือก">
+<!ENTITY restoreTabsOnDemand.accesskey    "ล">
+
 <!ENTITY switchToNewTabs.label "เมื่อเปิดลิงก์ในแท็บใหม่ ให้สลับไปที่แท็บนั้นทันที">
 <!ENTITY switchToNewTabs.accesskey "ส">
 
