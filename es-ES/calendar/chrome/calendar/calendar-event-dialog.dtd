@@ -163,6 +163,10 @@
 <!ENTITY event.description.accesskey "D">
 <!ENTITY event.attachments.label "Adjuntos:">
 <!ENTITY event.attachments.accesskey "j">
+<!ENTITY event.attachments.menubutton.label "Adjuntar">
+<!ENTITY event.attachments.menubutton.accesskey "A">
+<!ENTITY event.attachments.url.label "Página web…">
+<!ENTITY event.attachments.url.accesskey "W">
 <!ENTITY event.attachments.popup.remove.label "Eliminar">
 <!ENTITY event.attachments.popup.remove.accesskey "E">
 <!ENTITY event.attachments.popup.open.label "Abrir">
