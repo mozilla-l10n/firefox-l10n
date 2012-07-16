@@ -16,7 +16,7 @@
         <rdf:li> <rdf:Description ID="help-help" nc:name="A súgóablak használata" nc:link="help_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="ieusers" nc:name="Internet Explorer-felhasználóknak" nc:link="forieusers.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav" nc:name="Webböngészés" nc:link="nav_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail" nc:name="A Levelező használata" nc:link="mail_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail" nc:name="A Levelező használata" nc:link="mailnews_getting_started.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp" nc:name="Weboldalak létrehozása"  nc:link="composer_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust" nc:name="A &brandShortName; testreszabása"  nc:link="customize_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="using-priv-help" nc:name="Adatvédelmi funkciók használata" nc:link="privacy_help.xhtml"/> </rdf:li>
