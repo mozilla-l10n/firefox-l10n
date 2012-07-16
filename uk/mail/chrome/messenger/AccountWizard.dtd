@@ -32,22 +32,10 @@
 <!ENTITY emailLabel.label "Електронна адреса:">
 <!ENTITY emailLabel.accesskey "а">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Інформація про сервер">
+<!ENTITY incomingTitle.label "Incoming Server Information">
 <!ENTITY incomingServerTypeDesc.label "Оберіть тип сервера вхідних листів.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Введіть ім’я сервера вхідних листів (наприклад, «mail.example.net»).">
-<!ENTITY incomingServerLabel.label "Вхідний сервер:">
-<!ENTITY incomingServerLabel.accesskey "В">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Введіть ім’я сервера новин (NNTP) (наприклад, «news.example.net»).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Введіть ім’я сервера вихідних листів (SMTP) (наприклад, «smtp.example.net»).">
-<!ENTITY smtpServerLabel.label "Сервер вихідних листів:">
-<!ENTITY smtpServerLabel.accesskey "и">
-<!ENTITY newsServerLabel.label "Сервер новин:">
-<!ENTITY newsServerLabel.accesskey "н">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,6 +48,29 @@
 <!ENTITY portNum.accesskey "о">
 <!ENTITY defaultPortLabel.label "Типовий:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Incoming Server:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "User Name:">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Введіть ім’я сервера новин (NNTP) (наприклад, «news.example.net»).">
+<!ENTITY newsServerLabel.label "Сервер новин:">
+<!ENTITY newsServerLabel.accesskey "н">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
+<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -71,18 +82,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Буде використано наявний сервер вихідних листів (SMTP), «">
 <!ENTITY haveSmtp1.suffix3 "».">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Імена користувачів">
-<!ENTITY usernameDesc.label "Введіть ім’я користувача, дане поштовим провайдером для вхідних листів">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(for example, «mkozak»).">
-<!ENTITY usernameLabel.label "Ім’я користувача для вхідних листів:">
-<!ENTITY usernameLabel.accesskey "в">
-<!ENTITY usernameSmtpDesc.label "Введіть ім’я користувача, дане поштовим провайдером для вихідних листів (зазвичай таке ж, як і для вхідних).">
-<!ENTITY usernameSmtpLabel.label "Ім’я користувача для вихідних листів:">
-<!ENTITY usernameSmtpLabel.accesskey "и">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

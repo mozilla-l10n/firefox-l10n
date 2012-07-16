@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "З">
 <!ENTITY newExistingEmailAccountCmd.label "Існуюча скринька…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
+<!ENTITY newIMAccountCmd.label "Chat Account…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Відкрити збережений лист…">
 <!ENTITY openMessageFileCmd.accesskey "з">
 <!ENTITY openAttachmentCmd.label "Вкладення">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Лист з зіркою">
 <!ENTITY prevStarredMsgCmd.accesskey "З">
 <!ENTITY folderMenu.label "Тека">
@@ -353,8 +358,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Відповісти відправнику">
 <!ENTITY replySenderCmd.accesskey "і">
-<!ENTITY replyNewsgroupCmd.label "Відповісти у групу новин">
-<!ENTITY replyNewsgroupCmd.accesskey  "г">
+<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Відповісти всім">
 <!ENTITY replyToAllMsgCmd.accesskey  "с">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "Д">
 <!ENTITY activitymanager.label "Менеджер діяльності">
 <!ENTITY activitymanager.accesskey "д">
+<!ENTITY imAccountsStatus.label "Chat status">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Available">
+<!ENTITY imStatus.unavailable        "Unavailable">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Show Accounts…">
 <!ENTITY savedFiles.label "Збережені файли">
 <!ENTITY savedFiles.accesskey "З">
 <!ENTITY savedFiles.key "j">
@@ -487,6 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "І">
 <!ENTITY errorConsoleCmd.label "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Параметри облікового запису…">
 <!ENTITY accountManagerCmd.accesskey "П">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -503,7 +515,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Помістити">
 <!ENTITY archiveButton.label "Архівувати">
 <!ENTITY nextButton.label "Наступне">
+<!ENTITY nextButtonToolbarItem.label "Next Unread">
+<!ENTITY nextMsgButton.label "Next">
 <!ENTITY previousButton.label "Попереднє">
+<!ENTITY previousButtonToolbarItem.label "Previous Unread">
+<!ENTITY previousMsgButton.label "Previous">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперед">
 <!ENTITY deleteItem.title "Delete">
@@ -517,6 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресна книга">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Глобальний пошук">
 <!ENTITY searchItem.title "Швидкий пошук">
 <!ENTITY mailViewsToolbarItem.title "Вигляд пошти">
@@ -537,7 +554,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Помістити вибране повідомлення в потрібну теку">
 <!ENTITY archiveButton.tooltip "Архівувати вибрані повідомлення">
 <!ENTITY nextButton.tooltip "Перейти до наступного непрочитаного повідомлення">
+<!ENTITY nextMsgButton.tooltip "Move to the next message">
 <!ENTITY previousButton.tooltip "Перейти до попереднього непрочитаного повідомлення">
+<!ENTITY previousMsgButton.tooltip "Move to the previous message">
 <!ENTITY goForwardButton.tooltip "Вперед на одне повідомлення">
 <!ENTITY goBackButton.tooltip "Назад на одне повідомлення">
 <!ENTITY deleteButton.tooltip "Вилучити обране повідомлення або теку">
@@ -548,6 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Позначити обрані повідомлення як спам">
 <!ENTITY notJunkButton.tooltip "Позначити обрані повідомлення як не спам">
 <!ENTITY addressBookButton.tooltip "Відкрити адресну книгу">
+<!ENTITY chatButton.tooltip "Show the Chat tab">
 <!ENTITY tagButton.tooltip "Помітити повідомлення">
 <!ENTITY compactButton.tooltip "Усунути вилучені повідомлення з вибраної теки">
 
@@ -673,8 +693,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Відповісти відправнику">
 <!ENTITY contextReplySender.accesskey "В">
-<!ENTITY contextReplyNewsgroup.label "Відповісти в групу новин">
-<!ENTITY contextReplyNewsgroup.accesskey "г">
+<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Відповісти всім">
 <!ENTITY contextReplyAll.accesskey "В">
 <!ENTITY contextReplyList.label "Відповісти списку">
@@ -780,28 +800,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Шукати серед усіх листів… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Search… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Додати в адресну книгу…">
