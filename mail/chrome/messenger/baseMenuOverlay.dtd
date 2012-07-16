@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Súgó">
 <!ENTITY helpMenu.accesskey "S">
@@ -7,14 +11,12 @@
 <!ENTITY helpMenuWin.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.label     "Hibakeresési információ">
 <!ENTITY helpTroubleshootingInfo.accesskey "H">
-<!ENTITY helpSafeMode.label     "Újraindítás letiltott kiegészítőkkel...">
+<!ENTITY helpSafeMode.label     "Újraindítás letiltott kiegészítőkkel…">
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY releaseCmd2.label "Verzióinformáció">
 <!ENTITY releaseCmd2.accesskey "V">
 <!ENTITY whatsNewCmd.label "Újdonságok">
 <!ENTITY whatsNewCmd.accesskey "d">
-<!ENTITY featureConfiguratorCmd.label "Áttérési segéd">
-<!ENTITY featureConfiguratorCmd.accesskey "t">
 <!ENTITY openHelp.label "Tartalom">
 <!ENTITY openHelp.accesskey "T">
 <!ENTITY openHelp.commandkey "VK_F1">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -167,9 +171,9 @@
 <!ENTITY corruptedContentError.title "Sérült tartalom hiba">
 <!ENTITY corruptedContentError.longDesc "<p>A megtekinteni kívánt tartalom nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba az üzemeltetővel, és értesítse a problémáról.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt...">
+<!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">
-<!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása...">
+<!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
@@ -178,7 +182,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p>
-
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

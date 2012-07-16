@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "A &brandShortName; beállítása">
 <!ENTITY  splash_bookmarks_history "Frissítjük könyvjelzőit és előzményeit, ez eltarthat egy percig is.">
@@ -44,7 +48,11 @@
 <!ENTITY reload "Frissítés">
 <!ENTITY forward "Előre">
 
+<!ENTITY close_tab "Lap bezárása">
 <!ENTITY new_tab "Új lap">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d lap">
 <!ENTITY new_tab_opened "Új lap nyílt meg">
 
 <!ENTITY settings "Beállítások">
@@ -86,12 +94,25 @@
 <!ENTITY share "Megosztás">
 <!ENTITY share_title "Megosztás ezen:">
 <!ENTITY save_as_pdf "Mentés PDF-ként">
+<!ENTITY find_in_page "Keresés az oldalon">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Keresés az oldalon">
+<!ENTITY find_prev "Előző">
+<!ENTITY find_next "Következő">
+<!ENTITY find_close "Bezárás">
 
 <!ENTITY contextmenu_open_new_tab "Megnyitás új lapon">
+<!ENTITY contextmenu_remove_history "Eltávolítás">
 <!ENTITY contextmenu_remove_bookmark "Eltávolítás">
 <!ENTITY contextmenu_add_to_launcher "Kezdőképernyőhöz adás">
 <!ENTITY contextmenu_share "Megosztás">
 <!ENTITY contextmenu_edit_bookmark "Szerkesztés">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Oldal eltávolítva">
 
 <!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
 <!ENTITY bookmark_edit_name "Név">
@@ -102,6 +123,11 @@
 <!ENTITY site_settings_cancel       "Mégse">
 <!ENTITY site_settings_clear        "Törlés">
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
+
+<!ENTITY add_to_reading_list "Hozzáadás az olvasási listához">
+<!ENTITY reading_list_added "Az oldal hozzáadva az olvasási listához">
+<!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
+<!ENTITY reader_mode "Olvasó mód">
 
 <!ENTITY masterpassword_create_title "Mesterjelszó létrehozása">
 <!ENTITY masterpassword_remove_title "Mesterjelszó törlése">
@@ -125,3 +151,18 @@
 <!ENTITY filepicker_audio_title "Válasszon vagy vegyen fel egy hangot">
 <!ENTITY filepicker_image_title "Válasszon vagy készítsen egy képet">
 <!ENTITY filepicker_video_title "Válasszon vagy vegyen fel egy videót">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "A következőhöz csatlakozott:">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "Működtetője:">

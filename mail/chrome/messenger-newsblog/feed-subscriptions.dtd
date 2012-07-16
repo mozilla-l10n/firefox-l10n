@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Feliratkozás hírforrásokra">
 <!ENTITY subscriptionDesc.label      "Megjegyzés: A hírforrás mappájának eltávolítása vagy módosítása nincs hatással a már letöltött cikkekre.">
@@ -5,11 +9,11 @@
 <!ENTITY feedTitle.label             "Cím:">
 <!ENTITY feedTitle.accesskey         "C">
 
-<!ENTITY feedLocation.label          "Hírforrás URL:">
+<!ENTITY feedLocation.label          "Hírforrás URL: ">
 <!ENTITY feedLocation.accesskey      "H">
 <!ENTITY feedLocation.placeholder    "Adjon meg egy hozzáadandó érvényes hírforrás URL-t">
 
-<!ENTITY feedFolder.label            "Letöltött cikkek tárolása:">
+<!ENTITY feedFolder.label            "Letöltött cikkek tárolása: ">
 <!ENTITY feedFolder.accesskey        "L">
 
 <!ENTITY quickMode.label             "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportálás">
 <!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.tooltip   "Hírforrások exportálása mappaszerkezettel; Ctrl+kattintás vagy Ctrl+Enter a hírforrások listaként való exportálásához">
 
 <!ENTITY cmd.close.commandKey        "w">

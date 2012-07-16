@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Új üzenet: (nincs tárgy)">
 
@@ -10,16 +14,16 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "z">
-<!ENTITY newContact.label "Névjegykártya...">
+<!ENTITY newContact.label "Névjegy…">
 <!ENTITY newContact.accesskey "N">
 <!ENTITY attachMenu.label "Melléklet">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Fájlok...">
+<!ENTITY attachFileCmd.label "Fájlok…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Weboldal...">
+<!ENTITY attachPageCmd.label "Weboldal…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Személyi kártya (vCard)">
@@ -32,7 +36,7 @@
 <!ENTITY saveCmd.accesskey "M">
 <!ENTITY saveAsCmd.label "Mentés másként">
 <!ENTITY saveAsCmd.accesskey "e">
-<!ENTITY saveAsFileCmd.label "Fájl...">
+<!ENTITY saveAsFileCmd.label "Fájl…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Piszkozat">
 <!ENTITY saveAsDraftCmd.accesskey "P">
@@ -44,9 +48,9 @@
 <!ENTITY sendLaterCmd.label "Küldés később">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
+<!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "l">
-<!ENTITY printCmd.label "Nyomtatás...">
+<!ENTITY printCmd.label "Nyomtatás…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "N">
 
@@ -75,12 +79,12 @@
 <!ENTITY deleteCmd.accesskey "T">
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Melléklet átnevezése...">
+<!ENTITY renameAttachmentCmd.label "Melléklet átnevezése…">
 <!ENTITY renameAttachmentCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Minden kijelölése">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "d"> 
-<!ENTITY findCmd.label "Keresés és csere...">
+<!ENTITY findCmd.label "Keresés és csere…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findAgainCmd.label "Következő keresése">
@@ -105,7 +109,7 @@
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Állapotsor">
 <!ENTITY showTaskbarCmd.accesskey "s">
-<!ENTITY customizeToolbar.label "Testreszabás...">
+<!ENTITY customizeToolbar.label "Testreszabás…">
 <!ENTITY customizeToolbar.accesskey "T">
 
 <!ENTITY addressSidebar.label "Kapcsolatok oldalsáv"> 
@@ -118,7 +122,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Beállítások">
 <!ENTITY optionsMenu.accesskey "B">
-<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés...">
+<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "h">
@@ -171,10 +175,10 @@
 <!ENTITY addressBookCmd.label "Címjegyzék">
 <!ENTITY addressBookCmd.accesskey "C">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
+<!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY accountManagerCmdUnix.accesskey "P">
-<!ENTITY preferencesCmd.label "Beállítások...">
+<!ENTITY preferencesCmd.label "Beállítások…">
 <!ENTITY preferencesCmd.accesskey "B">
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey   "B"> 
@@ -266,25 +270,25 @@
 <!ENTITY delete.accesskey "T">
 <!ENTITY removeAttachment.label "Melléklet törlése">
 <!ENTITY removeAttachment.accesskey "e">
-<!ENTITY renameAttachment.label "Átnevezés...">
+<!ENTITY renameAttachment.label "Átnevezés…">
 <!ENTITY renameAttachment.accesskey "t">
 <!ENTITY selectAll.label "Minden kijelölése">
 <!ENTITY selectAll.accesskey "d">
-<!ENTITY attachFile.label "Fájlok csatolása...">
+<!ENTITY attachFile.label "Fájlok csatolása…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachCloud.label "Filelink...">
+<!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Konvertálás...">
+<!ENTITY convertCloud.label "Konvertálás…">
 <!ENTITY convertCloud.accesskey "K">
 <!ENTITY cancelUpload.label "Feltöltés megszakítása">
 <!ENTITY cancelUpload.accesskey "F">
 <!ENTITY convertRegularAttachment.label "Normál melléklet">
 <!ENTITY convertRegularAttachment.accesskey "N">
-<!ENTITY attachPage.label "Weboldal csatolása...">
+<!ENTITY attachPage.label "Weboldal csatolása…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Szótárak hozzáadása...">
+<!ENTITY spellAddDictionaries.label "Szótárak hozzáadása…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!-- Title for the address picker panel -->

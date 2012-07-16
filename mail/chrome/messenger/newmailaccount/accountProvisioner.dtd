@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Üdvözli a &brandShortName;!">
 <!ENTITY header2.label "Szeretne új e-mail címet?">
-<!ENTITY other.languages "Csak azok a szolgáltatók lesznek felsorolva, amelyek az Ön környékén kínálnak címeket.  Kattintson ide az összes szolgáltató megjelenítéséért.">
+<!ENTITY other.languages "Csak azok a szolgáltatók lesznek felsorolva, amelyek az Ön környékén kínálnak címeket. Kattintson ide az összes szolgáltató megjelenítéséért.">
 <!ENTITY error.line1 "Sajnos nem találtunk semmilyen javasolt e-mail címet.">
 <!ENTITY error.line2 "Próbáljon becenévre vagy bármi másra keresni további találatokért.">
 

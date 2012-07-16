@@ -1,8 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Mappa...">
+<!ENTITY newFolderCmd.label "Mappa…">
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY closeTabCmd2.label "Lap bezárása">
 <!ENTITY closeTabCmd2.accesskey "L">
@@ -18,23 +22,25 @@
      -->
 <!ENTITY moveToNewWindow.label "Áthelyezés új ablakba">
 <!ENTITY moveToNewWindow.accesskey "t">
-<!ENTITY newVirtualFolderCmd.label "Mentett keresés...">
+<!ENTITY newVirtualFolderCmd.label "Mentett keresés…">
 <!ENTITY newVirtualFolderCmd.accesskey "k">
-<!ENTITY newOtherAccountsCmd.label "Más fiókok...">
+<!ENTITY newOtherAccountsCmd.label "Más fiókok…">
 <!ENTITY newOtherAccountsCmd.accesskey "f">
-<!ENTITY newCreateEmailAccountCmd.label "Új postafiók létrehozása...">
+<!ENTITY newCreateEmailAccountCmd.label "Új postafiók létrehozása…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "o">
-<!ENTITY newExistingEmailAccountCmd.label "Meglévő postafiók...">
+<!ENTITY newExistingEmailAccountCmd.label "Meglévő postafiók…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "M">
-<!ENTITY newIMAccountCmd.label "Csevegőfiók...">
+<!ENTITY newIMAccountCmd.label "Csevegőfiók…">
 <!ENTITY newIMAccountCmd.accesskey "C">
-<!ENTITY openMessageFileCmd.label "Mentett üzenet megnyitása...">
+<!ENTITY newIMContactCmd.label "Csevegőpartner…">
+<!ENTITY newIMContactCmd.accesskey "p">
+<!ENTITY openMessageFileCmd.label "Mentett üzenet megnyitása…">
 <!ENTITY openMessageFileCmd.accesskey "e">
 <!ENTITY openAttachmentCmd.label "Mellékletek">
 <!ENTITY openAttachmentCmd.accesskey "M">
 <!ENTITY saveAsMenu.label "Mentés másként">
 <!ENTITY saveAsMenu.accesskey "M">
-<!ENTITY saveAsFileCmd.label "Iktatás">
+<!ENTITY saveAsFileCmd.label "Fájl">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sablon">
@@ -49,11 +55,11 @@
 <!ENTITY getNextNMsgCmd.accesskey "v">
 <!ENTITY sendUnsentCmd.label "Postázandó üzenetek elküldése">
 <!ENTITY sendUnsentCmd.accesskey "P">
-<!ENTITY subscribeCmd.label "Feliratkozás...">
+<!ENTITY subscribeCmd.label "Feliratkozás…">
 <!ENTITY subscribeCmd.accesskey "F">
 <!ENTITY deleteFolder.label "Mappa törlése">
 <!ENTITY deleteFolder.accesskey "l">
-<!ENTITY renameFolder.label "Mappa átnevezése...">
+<!ENTITY renameFolder.label "Mappa átnevezése…">
 <!ENTITY renameFolder.accesskey "a">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappák tömörítése">
@@ -64,20 +70,20 @@
 <!ENTITY offlineMenu.accesskey "p">
 <!ENTITY offlineGoOfflineCmd.label "Kapcsolat nélküli munka">
 <!ENTITY offlineGoOfflineCmd.accesskey "p">
-<!ENTITY synchronizeOfflineCmd.label "Letöltés/szinkronizálás most...">
+<!ENTITY synchronizeOfflineCmd.label "Letöltés/szinkronizálás most…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
-<!ENTITY settingsOfflineCmd.label "Kapcsolat nélküli beállítások...">
+<!ENTITY settingsOfflineCmd.label "Kapcsolat nélküli beállítások…">
 <!ENTITY settingsOfflineCmd.accesskey "n">
 <!ENTITY downloadSelectedCmd.label "Kijelölt üzenetek letöltése">
 <!ENTITY downloadSelectedCmd.accesskey "K">
 <!ENTITY downloadStarredCmd.label "Csillagozott üzenetek letöltése">
 <!ENTITY downloadStarredCmd.accesskey "C">
-<!ENTITY printCmd.label "Nyomtatás...">
+<!ENTITY printCmd.label "Nyomtatás…">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Nyomtatási kép">
 <!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
+<!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "l">
 
 <!-- Edit Menu -->
@@ -104,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "C">
 <!ENTITY menuFavoriteFolder.label "Kedvencek mappa">
 <!ENTITY menuFavoriteFolder.accesskey "K">
-<!ENTITY folderPropsCmd.label "Tulajdonságok...">
-<!ENTITY folderPropsFolderCmd.label "Mappatulajdonságok...">
-<!ENTITY folderPropsNewsgroupCmd.label "Hírcsoport tulajdonságai...">
+<!ENTITY folderPropsCmd.label "Tulajdonságok…">
+<!ENTITY folderPropsFolderCmd.label "Mappatulajdonságok…">
+<!ENTITY folderPropsNewsgroupCmd.label "Hírcsoport-tulajdonságok…">
 <!ENTITY folderPropsCmd.accesskey "T">
 <!ENTITY undoDeleteMsgCmd.label "Üzenettörlés visszavonása">
 <!ENTITY redoDeleteMsgCmd.label "Üzenettörlés visszaállítása">
@@ -126,7 +132,7 @@
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Levelező eszköztár">
 <!ENTITY showMessengerToolbarCmd.accesskey "L">
-<!ENTITY customizeToolbar.label "Testreszabás...">
+<!ENTITY customizeToolbar.label "Testreszabás…">
 <!ENTITY customizeToolbar.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Elrendezés">
@@ -282,7 +288,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Keresés">
 <!ENTITY findMenu.accesskey "e">
-<!ENTITY findCmd.label "Keresés ebben az üzenetben...">
+<!ENTITY findCmd.label "Keresés ebben az üzenetben…">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Következő keresése">
@@ -291,10 +297,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Üzenetek keresése...">
+<!ENTITY searchMailCmd.label "Üzenetek keresése…">
 <!ENTITY searchMailCmd.accesskey "e">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Címek keresése...">
+<!ENTITY searchAddressesCmd.label "Címek keresése…">
 <!ENTITY searchAddressesCmd.accesskey "c">
 
 <!-- Go Menu -->
@@ -378,7 +384,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.label "Üzenet szerkesztése újként">
 <!ENTITY editMsgAsNewCmd.accesskey "z">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Szűrő létrehozása az üzenet alapján...">
+<!ENTITY createFilter.label "Szűrő létrehozása az üzenet alapján…">
 <!ENTITY createFilter.accesskey "S">
 <!ENTITY moveMsgToMenu.label "Áthelyezés">
 <!ENTITY moveMsgToMenu.accesskey "h">
@@ -426,7 +432,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markThreadAsReadCmd.label "Olvasott témacsoportként">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Olvasás dátuma szerint...">
+<!ENTITY markReadByDateCmd.label "Olvasás dátuma szerint…">
 <!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Mindet olvasottként">
@@ -478,11 +484,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.available          "Elérhető">
 <!ENTITY imStatus.unavailable        "Elfoglalt">
 <!ENTITY imStatus.offline            "Kapcsolat nélkül">
-<!ENTITY imStatus.showAccounts       "Fiókok megjelenítése...">
+<!ENTITY imStatus.showAccounts       "Fiókok megjelenítése…">
+<!ENTITY joinChatCmd.label "Csatlakozás csevegéshez…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Mentett fájlok">
 <!ENTITY savedFiles.accesskey "e">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Üzenetszűrők...">
+<!ENTITY filtersCmd.label "Üzenetszűrők…">
 <!ENTITY filtersCmd.accesskey "s">
 <!ENTITY filtersApply.label "Szűrők futtatása a mappán">
 <!ENTITY filtersApply.accesskey "f">
@@ -494,12 +502,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY runJunkControls.accesskey "f">
 <!ENTITY deleteJunk.label "A szemétként megjelölt levelek törlése a mappában">
 <!ENTITY deleteJunk.accesskey "A">
-<!ENTITY importCmd.label "Importálás...">
+<!ENTITY importCmd.label "Importálás…">
 <!ENTITY importCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.label "Hibakonzol">
 <!ENTITY errorConsoleCmd.accesskey "H">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
+<!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
@@ -521,7 +529,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButtonToolbarItem.label "Előző olvasatlan">
 <!ENTITY previousMsgButton.label "Előző">
 <!ENTITY backButton1.label "Vissza">
-<!ENTITY goForwardButton1.label "Továbbítás">
+<!ENTITY goForwardButton1.label "Előre">
 <!ENTITY deleteItem.title "Törlés">
 <!ENTITY deleteButton.label "Törlés">
 <!ENTITY undeleteButton.label "Visszaállítás">
@@ -542,7 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.label "Tömörítés">
 
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "Keresés az üzenetekben...">
+<!ENTITY advancedButton.tooltip "Keresés az üzenetekben…">
 <!ENTITY getMsgButton.tooltip "Új üzenetek letöltése">
 <!ENTITY getAllNewMsgCmd.label "Összes új üzenet letöltése">
 <!ENTITY getAllNewMsgCmd.accesskey "s">
@@ -572,7 +580,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip "Törölt üzenetek eltávolítása a kijelölt mappából">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Új címke...">
+<!ENTITY addNewTag.label "Új címke…">
 <!ENTITY addNewTag.accesskey "c">
 
 <!-- Folder Pane -->
@@ -580,13 +588,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderSizeColumn.label "Méret">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Üzenetek letöltése">
+<!ENTITY folderContextGetMessages.label "Üzenetek letöltése ">
 <!ENTITY folderContextGetMessages.accesskey "z">
 <!ENTITY folderContextOpenNewWindow.label "Megnyitás">
 <!ENTITY folderContextOpenNewWindow.accesskey "n">
 <!ENTITY folderContextOpenNewTab.label "Megnyitás új lapon">
 <!ENTITY folderContextOpenNewTab.accesskey "l">
-<!ENTITY folderContextNew.label "Új almappa...">
+<!ENTITY folderContextNew.label "Új almappa…">
 <!ENTITY folderContextNew.accesskey "a">
 <!ENTITY folderContextRename.label "Átnevezés">
 <!ENTITY folderContextRename.accesskey "n">
@@ -606,15 +614,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "H">
 <!ENTITY folderContextMarkMailFolderRead.label "Mappa jelölése olvasottként">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
-<!ENTITY folderContextSubscribe.label "Feliratkozás...">
+<!ENTITY folderContextSubscribe.label "Feliratkozás…">
 <!ENTITY folderContextSubscribe.accesskey "F">
-<!ENTITY folderContextSearchForMessages.label "Üzenetek keresése...">
+<!ENTITY folderContextSearchForMessages.label "Üzenetek keresése…">
 <!ENTITY folderContextSearchForMessages.accesskey "k">
-<!ENTITY folderContextProperties.label "Tulajdonságok...">
+<!ENTITY folderContextProperties.label "Tulajdonságok…">
 <!ENTITY folderContextProperties.accesskey "T">
 <!ENTITY folderContextFavoriteFolder.label "Kedvencek mappa">
 <!ENTITY folderContextFavoriteFolder.accesskey "v">
-<!ENTITY folderContextSettings.label "Beállítások...">
+<!ENTITY folderContextSettings.label "Beállítások…">
 <!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
@@ -622,7 +630,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Üzenetek keresése...">
+<!ENTITY glodaSearchBar.placeholder "Üzenetek keresése…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tárgy">
@@ -631,7 +639,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchRecipient.label "Címzett vagy másolatot kapott">
 <!ENTITY searchSubjectOrRecipientMenu.label "Tárgy, címzett vagy másolatot kapott">
 <!ENTITY searchMessageBody.label "Teljes üzenet">
-<!ENTITY saveAsVirtualFolderMenu.label "Keresés mentése mappaként...">
+<!ENTITY saveAsVirtualFolderMenu.label "Keresés mentése mappaként…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Témacsoport">
@@ -687,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "l">
 <!ENTITY contextOpenConversation.label "Üzenet megnyitása beszélgetésben">
 <!ENTITY contextOpenConversation.accesskey "b">
-<!ENTITY contextEditAsNew.label "Szerkesztés újként...">
+<!ENTITY contextEditAsNew.label "Szerkesztés újként…">
 <!ENTITY contextEditAsNew.accesskey "z">
 <!ENTITY contextArchive.label "Archiválás">
 <!ENTITY contextArchive.accesskey "A">
@@ -709,9 +717,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Átmásolás">
 <!ENTITY contextCopyMsgMenu.accesskey "m">
-<!ENTITY contextSaveAs.label "Mentés másként...">
+<!ENTITY contextSaveAs.label "Mentés másként…">
 <!ENTITY contextSaveAs.accesskey "M">
-<!ENTITY contextPrint.label "Nyomtatás...">
+<!ENTITY contextPrint.label "Nyomtatás…">
 <!ENTITY contextPrint.accesskey "N">
 <!ENTITY contextPrintPreview.label "Nyomtatási kép">
 <!ENTITY contextPrintPreview.accesskey "t">
@@ -730,7 +738,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Oszlopok alkalmazása...">
+<!ENTITY columnPicker.applyTo.label "Oszlopok alkalmazása…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -739,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    that the user selects using the same widget as the move to/copy to
    mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolder.label "Mappa...">
+<!ENTITY columnPicker.applyToFolder.label "Mappa…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -748,7 +756,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Mappa és gyermekei...">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Mappa és gyermekei…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "H">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Levélszemét">
+<!ENTITY junkBarMessage2.label "A &brandShortName; szerint ez az üzenet levélszemét.">
 <!ENTITY junkBarButton1.label "Nem szemét">
 <!ENTITY junkInfoButton.label "?">
 
@@ -809,7 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Keresés... #1">
+<!ENTITY search.label.base "Keresés… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -824,11 +832,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Felvétel a címjegyzékbe...">
+<!ENTITY AddToAddressBook.label "Felvétel a címjegyzékbe…">
 <!ENTITY AddToAddressBook.accesskey "F">
 <!ENTITY AddDirectlyToAddressBook.label "Felvétel a címjegyzékbe">
 <!ENTITY AddDirectlyToAddressBook.accesskey "c">
-<!ENTITY EditContact.label "Névjegy szerkesztése...">
+<!ENTITY EditContact.label "Névjegy szerkesztése…">
 <!ENTITY EditContact.accesskey "N">
 <!ENTITY ViewContact.label "Névjegy megtekintése">
 <!ENTITY ViewContact.accesskey "m">
@@ -842,19 +850,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyNewsgroupName.accesskey "H">
 <!ENTITY CopyNewsgroupURL.label "Hírcsoport URL másolása">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Szűrő létrehozása...">
+<!ENTITY CreateFilterFrom.label "Szűrő létrehozása…">
 <!ENTITY CreateFilterFrom.accesskey "S">
 <!ENTITY reportPhishingURL.label "E-mail csalás jelentése">
 <!ENTITY reportPhishingURL.accesskey "c">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Szótárak hozzáadása...">
+<!ENTITY spellAddDictionaries.label "Szótárak hozzáadása…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Hivatkozás mentése más néven...">
+<!ENTITY saveLinkAsCmd.label "Hivatkozás mentése más néven…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Kép mentése más néven...">
+<!ENTITY saveImageAsCmd.label "Kép mentése más néven…">
 <!ENTITY saveImageAsCmd.accesskey "s">
 <!ENTITY copyLinkCmd.label "Hivatkozás címének másolása">
 <!ENTITY copyLinkCmd.accesskey "v">
@@ -881,7 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "Nagyítás">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Beállítások...">
+<!ENTITY preferencesCmdMac.label        "Beállítások…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Szolgáltatások">

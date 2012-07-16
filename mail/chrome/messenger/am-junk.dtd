@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Levélszemét-beállítások">
-<!ENTITY trainingWarning.label "Ha engedélyezi, először be kell tanítania a &brandShortName; programot, hogy mely leveleket tartja szemétnek. A Levélszemét eszköztárgomb segítségével mind a szemét, mind a hasznos leveleket azonosítania kell.">
+<!ENTITY trainingDescription.label "Ha engedélyezi, először be kell tanítania a &brandShortName; programot, hogy mely leveleket tartja szemétnek. A Levélszemét eszköztárgomb segítségével mind a szemét, mind a hasznos leveleket azonosítania kell. Ezután a &brandShortName; képes lesz a levélszemét automatikus felismerésére. ">
 <!ENTITY level.label "Adaptív levélszemét-kezelés engedélyezése ehhez a postafiókhoz">
 <!ENTITY level.accesskey "e">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "v">
 <!ENTITY purge2.label "nap múlva">
 
-<!ENTITY whitelist.label "Ne jelölje meg levélszemétként az üzenetet, ha a feladója benne van: ">
-<!ENTITY whitelist.accesskey "N">
+<!ENTITY whitelistHeader.label "Ne jelölje meg automatikusan levélszemétként az üzenetet, ha a feladója benne van:">
+<!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeaders.label "Szolgáltató levélszemétszűrőjének elfogadása: ">
+<!ENTITY ispHeadersWarning.label "Ha engedélyezi, a &brandShortName; automatikusan levélszemétnek tekinti az ezen külső minősítő által megjelölt üzeneteket.">
+<!ENTITY ispHeaders.label "Szolgáltató levélszemétszűrőjének elfogadása:">
 <!ENTITY ispHeaders.accesskey "S">
+
+<!ENTITY junkClassification.label "Kijelölés">
+<!ENTITY junkActions.label "Cél és megtartás">

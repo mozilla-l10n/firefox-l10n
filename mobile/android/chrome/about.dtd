@@ -4,7 +4,7 @@
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;nak,">
 <!ENTITY aboutPage.telemetryEnd                 " hogy a &brandShortName; jobb lehessen.">
 <!ENTITY aboutPage.checkForUpdates.link         "Frissítések keresése »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Frissítések keresése...">
+<!ENTITY aboutPage.checkForUpdates.checking     "Frissítések keresése…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nem találhatók frissítések">
 <!ENTITY aboutPage.checkForUpdates.found        "Frissítés érhető el">
 <!ENTITY aboutPage.faq.label                    "GYIK">

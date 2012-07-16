@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY biffStart.label "Új cikkek ellenőrzése ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "percenként">
@@ -8,7 +12,7 @@
 <!ENTITY useQuickMode.label "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett"> 
 <!ENTITY useQuickMode.accesskey "A">
 
-<!ENTITY manageSubscriptions.label "Feliratkozások kezelése..."> 
+<!ENTITY manageSubscriptions.label "Feliratkozások kezelése…"> 
 <!ENTITY manageSubscriptions.accesskey "F">
 
 <!-- entities from rss.rdf -->

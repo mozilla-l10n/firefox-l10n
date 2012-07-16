@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -14,14 +18,14 @@
 <!ENTITY sync.subtitle.header.label 'Adja meg ezt a kódot a számítógépén'>
 <!ENTITY sync.subtitle.connectlocation.label 'Válassza az „&sync.title.pair.label;” lehetőséget az asztali Firefox beállításainak &syncBrand.shortName.label; szakaszában.'>
 <!ENTITY sync.subtitle.pair.label 'Az aktiváláshoz válassza a másik eszközön az „Eszköz párosítása” lehetőséget.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.default.label '…\n…\n…\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Hogy kell?'>
-<!ENTITY sync.link.advancedsetup.label 'Speciális beállítások...'>
-<!ENTITY sync.link.nodevice.label 'Nincs nálam az eszköz...'>
+<!ENTITY sync.link.advancedsetup.label 'Speciális beállítások…'>
+<!ENTITY sync.link.nodevice.label 'Nincs nálam az eszköz…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Várakozás a másik eszközre...'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Várakozás a másik eszközre…'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Adja meg a &syncBrand.fullName.label;-fiók adatait'>
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'A beállítás kész'>
-<!ENTITY sync.subtitle.success.label 'Az adatai a háttérben töltődnek le. A Beállítások alatt kezelheti a fiókját.'>
+<!ENTITY sync.subtitle.success.label1 'Az adatai a háttérben töltődnek le. A Beállítások alatt kezelheti a fiókját, vagy elkezdheti a böngészést a &brandShortName; használatával.'>
 <!ENTITY sync.settings.label 'Beállítások'>
-<!ENTITY sync.subtitle.manage.label 'A &syncBrand.fullName.label;-fiókja már be van állítva. A Beállítások alatt kezelheti a fiókját.'>
+<!ENTITY sync.subtitle.manage.label1 'A &syncBrand.fullName.label;-fiókja már be van állítva. A Beállítások alatt kezelheti a fiókját, vagy elindíthatja a &brandShortName;-ot.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Próbálja meg újra.'>
+<!ENTITY sync.pair.connectlocation.label 'Új eszközének aktiválásához válassza az eszközön a „Szinkronizálás beállítása”, majd a „Van már fiókom” lehetőséget.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Beállítások'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Nem rendezett könyvjelzők'>
 <!ENTITY bookmarks.folder.desktop.label 'Asztali könyvjelzők'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobil könyvjelzők'>
+<!ENTITY bookmarks.folder.readinglist.label 'Olvasási lista'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Csak egy &syncBrand.fullName.label;-fiók támogatott.'>

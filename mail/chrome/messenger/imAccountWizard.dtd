@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label            "Csevegőfiók varázsló">
 
 <!ENTITY accountProtocolTitle.label   "Csevegőhálózat">
 <!ENTITY accountProtocolInfo.label    "Válassza ki a csevegőfiók hálózatát.">
 <!ENTITY accountProtocolField.label   "Hálózat:">
-<!ENTITY accountProtocolGetMore.label "Még több...">
+<!ENTITY accountProtocolGetMore.label "Még több…">
 
 <!ENTITY accountUsernameTitle.label   "Felhasználónév">
 <!ENTITY accountUsernameDuplicate.label "Ez a fiók már be van állítva!">
@@ -21,7 +25,7 @@
 <!ENTITY accountAliasField.label      "Álnév:">
 <!ENTITY accountAliasInfo.label       "Ez beszélgetéseiben csak akkor jelenik meg, amikor Ön beszél, a távoli partnerek nem fogják látni.">
 <!ENTITY accountProxySettings.caption "Proxybeállítások">
-<!ENTITY accountProxySettings.change.label     "Módosítás...">
+<!ENTITY accountProxySettings.change.label     "Módosítás…">
 <!ENTITY accountProxySettings.change.accessKey "d">
 
 <!ENTITY accountSummaryTitle.label   "Összefoglaló">

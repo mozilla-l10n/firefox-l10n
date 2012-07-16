@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Szűrés szabályai">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Szűrő neve:">
@@ -40,3 +44,6 @@
 <!ENTITY ignoreSubthread.label "Témacsoportrész kihagyása">
 <!ENTITY watchThread.label "Témacsoport figyelése">
 <!ENTITY stopExecution.label "Szűrő végrehajtásának leállítása">
+
+<!ENTITY addAction.tooltip "Új művelet hozzáadása">
+<!ENTITY removeAction.tooltip "A művelet eltávolítása">
