@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "O nevyžádané poště">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "Pokud jsou příchozí zprávy považovány za nevyžádanou poštu (známé jako spam), jsou automaticky detekovány. U těchto zpráv se zobrazí speciální ikona. ">
