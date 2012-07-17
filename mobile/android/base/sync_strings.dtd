@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Försök igen'>
 <!ENTITY sync.button.manual.label 'Manuell inställning'>
 <!ENTITY sync.subtitle.nointernet.label 'Ingen tillgänglig internetanslutning.'>
+<!ENTITY sync.subtitle.failaccount.label 'Kontot kunde inte skapas på din enhet.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Har du mer än en Firefox installerad? &syncBrand.fullName.label; stöder för närvarande endast en Firefox-installation i taget. Avinstallera andra instanser för att använda &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Inställningen är klar'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Fel kontonamn eller lösenord.'>
+<!ENTITY sync.invalidserver.label 'Ange en giltig server-URL'>
+<!ENTITY sync.verifying.label 'Verifierar…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Fel återställningsnyckel. Försök igen.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Skicka flik till enheter'>
+<!ENTITY sync.button.send.label 'Skicka'>
+<!ENTITY sync.button.set.up.sync.label 'Ställ in &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Låt &syncBrand.shortName.label; skicka flikar'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Ställ in &syncBrand.fullName.label; på din enhet så flikar skickas till andra enheter.'>
+<!ENTITY sync.text.tab.sent.label 'Fliken skickades!'>
