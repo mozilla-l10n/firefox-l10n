@@ -29,7 +29,7 @@
 <!ENTITY systemDefaults.label            "Standaardwaarden systeem">
 <!ENTITY alwaysCheckDefault.label        "Altijd tijdens het opstarten controleren of &brandShortName; de standaardbrowser is"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "A">
-<!ENTITY setDefault.label                "Maak &brandShortName; de standaardbrowser">
+<!ENTITY setDefault.label                "&brandShortName; de standaardbrowser maken">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; is momenteel uw standaardbrowser">
 <!ENTITY submitCrashes.label             "Crashrapporten verzenden">
