@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Stäng flik">
 <!ENTITY new_tab "Ny flik">
+<!ENTITY one_tab "1 flik">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d flikar">
@@ -86,6 +87,7 @@
 <!ENTITY pref_font_size_xlarge "Extra stor">
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_import_android "Importera från Android">
 <!ENTITY pref_private_data_history "Surf- och filhämtningshistorik">
 <!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
@@ -94,16 +96,17 @@
 <!ENTITY pref_private_data_sessions "Aktiva inloggningar">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
-<!ENTITY pref_search_suggestions "Visa sökförslag">
 
 <!ENTITY quit "Avsluta">
 
 <!ENTITY addons "Tillägg">
 <!ENTITY downloads "Filhämtningar">
+<!ENTITY apps "Appar">
 <!ENTITY char_encoding "Teckenkodning">
 
 <!ENTITY share "Dela">
 <!ENTITY share_title "Dela via">
+<!ENTITY share_image_failed "Kan inte dela bilden">
 <!ENTITY save_as_pdf "Spara som PDF">
 <!ENTITY find_in_page "Sök på sidan">
 <!ENTITY desktop_mode "Begär datoranpassad webbplats">
@@ -139,9 +142,10 @@
 <!ENTITY site_settings_clear        "Rensa">
 <!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
 
-<!ENTITY add_to_reading_list "Lägg till i läslistan">
+<!ENTITY reading_list "Läslistan">
 <!ENTITY reading_list_added "Sidan finns nu i din läslista">
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
+<!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
 <!ENTITY reader_mode "Läsläge">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
@@ -183,6 +187,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drivs av">
 
+<!ENTITY private_data_success "Känslig data är rensad">
+<!ENTITY private_data_fail "Viss känslig data kunde inte rensas ut">
+
 <!ENTITY bookmarkhistory_button_import "Importera">
 <!ENTITY bookmarkhistory_import_both "Importerar bokmärken och historik
                                       från Android">
@@ -192,5 +199,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          från Android">
 <!ENTITY bookmarkhistory_import_wait "Vänta …">
 
-<!ENTITY private_data_success "Känslig data är rensad">
-<!ENTITY private_data_fail "Viss känslig data kunde inte rensas ut">
+<!ENTITY webapp_generic_name "App">
