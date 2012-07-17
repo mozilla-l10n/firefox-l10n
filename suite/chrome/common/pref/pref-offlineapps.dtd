@@ -1,0 +1,11 @@
+<!ENTITY pref.offlineapps.title "Автономные веб-приложения">
+<!ENTITY pref.offlineCache.caption "Автономное веб-содержимое и данные пользователя">
+<!ENTITY clearOfflineAppCache.label "Очистить">
+<!ENTITY clearOfflineAppCache.accesskey "ч">
+<!ENTITY offlineNotify.label "Уведомлять меня, когда веб-сайт хочет сохранить данные для автономного использования.">
+<!ENTITY offlineNotify.accesskey "в">
+<!ENTITY offlineNotifyPermissions.label "Управление разрешениями">
+<!ENTITY offlineNotifyPermissions.accesskey "п">
+<!ENTITY offlineAppsList.label "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме:">
+<!ENTITY offlineAppsListRemove.label "Вычистить данные…">
+<!ENTITY offlineAppsListRemove.accesskey "ы">
