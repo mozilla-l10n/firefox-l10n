@@ -1,0 +1,11 @@
+<!ENTITY pref.offlineapps.title "Applicazioni web non in linea">
+<!ENTITY pref.offlineCache.caption "Contenuto web e dati utente non in linea">
+<!ENTITY clearOfflineAppCache.label "Pulisci">
+<!ENTITY clearOfflineAppCache.accesskey "P">
+<!ENTITY offlineNotify.label "Notifica quando un sito web vuole salvare dati per l'utilizzo non in linea.">
+<!ENTITY offlineNotify.accesskey "N">
+<!ENTITY offlineNotifyPermissions.label "Gestione permessi">
+<!ENTITY offlineNotifyPermissions.accesskey "G">
+<!ENTITY offlineAppsList.label "I siti web seguenti sono autorizzati a salvare dati per l'uso non in linea:">
+<!ENTITY offlineAppsListRemove.label "Pulisci dati…">
+<!ENTITY offlineAppsListRemove.accesskey "P">

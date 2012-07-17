@@ -486,6 +486,7 @@
 <!ENTITY loadRemoteContentButton.label "Mostra contenuto remoto">
 <!ENTITY phishingBarMessage.label "&brandShortName; crede che questo messaggio possa essere una e-mail fraudolenta.">
 <!ENTITY removePhishingBarButton.label "Non fraudolenta">
-<!ENTITY mdnBarMessage.label "Il mittente ha richiesto di essere avvisato quando leggi questo messaggio. Invio notifica al mittente?">
 <!ENTITY mdnBarIgnoreButton.label "Ignora richiesta">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "Invia ricevuta">
+<!ENTITY mdnBarSendButton.accesskey "n">
