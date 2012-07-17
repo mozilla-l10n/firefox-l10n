@@ -22,6 +22,7 @@
    -   
    -   
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -62,8 +63,8 @@
 <!ENTITY HomePhone.accesskey "T">
 <!ENTITY WorkPhone.label "Telefono lavoro">
 <!ENTITY WorkPhone.accesskey "l">
-<!ENTITY ScreenName.label "Nome Instant Messenger">
-<!ENTITY ScreenName.accesskey "I">
+<!ENTITY ChatName.label "Nome chat">
+<!ENTITY ChatName.accesskey "C">
 <!ENTITY sortAscending.label "Crescente">
 <!ENTITY sortAscending.accesskey "r">
 <!ENTITY sortDescending.label "Decrescente">
