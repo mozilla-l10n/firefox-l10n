@@ -1,28 +1,32 @@
-<!ENTITY windowTitle.label            "Chat Account Wizard">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountProtocolTitle.label   "Chat network">
-<!ENTITY accountProtocolInfo.label    "Please choose the network of your chat account.">
-<!ENTITY accountProtocolField.label   "Network:">
-<!ENTITY accountProtocolGetMore.label "Get more…">
+<!ENTITY windowTitle.label "Průvodce vytvoření účtu">
 
-<!ENTITY accountUsernameTitle.label   "Username">
-<!ENTITY accountUsernameDuplicate.label "This account is already configured!">
+<!ENTITY accountProtocolTitle.label "Síť chatu">
+<!ENTITY accountProtocolInfo.label "Zvolte prosím síť vašeho účtu chatu.">
+<!ENTITY accountProtocolField.label "Síť:">
+<!ENTITY accountProtocolGetMore.label "Více…">
 
-<!ENTITY accountPasswordTitle.label   "Password">
-<!ENTITY accountPasswordInfo.label    "Please enter your password in the box below.">
-<!ENTITY accountPasswordField.label   "Password:">
-<!ENTITY accountPasswordManager.label "The password entered here will be stored in the Password Manager. Leave this box empty if you want to be prompted for your password each time this account is connected.">
+<!ENTITY accountUsernameTitle.label "Uživatelské jméno">
+<!ENTITY accountUsernameDuplicate.label "Tento účet je již vytvořen!">
 
-<!ENTITY accountAdvancedTitle.label   "Advanced Options">
-<!ENTITY accountAdvancedInfo.label    "Feel free to skip this step if you want to.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Notify on new Mail">
-<!ENTITY accountAliasGroupbox.caption "Local Alias">
-<!ENTITY accountAliasField.label      "Alias:">
-<!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
-<!ENTITY accountProxySettings.caption "Proxy Settings">
-<!ENTITY accountProxySettings.change.label     "Change…">
-<!ENTITY accountProxySettings.change.accessKey "C">
+<!ENTITY accountPasswordTitle.label "Heslo">
+<!ENTITY accountPasswordInfo.label "Vložte prosím heslo k vašemu účtu.">
+<!ENTITY accountPasswordField.label "Heslo:">
+<!ENTITY accountPasswordManager.label "Vložené heslo bude uloženo ve Správci hesel. Pokud chcete být dotázáni na heslo pokaždé, když dojde k připojení tohoto účtu, nechte toto pole prázdné.">
 
-<!ENTITY accountSummaryTitle.label   "Summary">
-<!ENTITY accountSummaryInfo.label    "A summary of the information you entered is displayed below. Please check it before the account is created.">
-<!ENTITY accountSummary.connectNow.label "Connect this account now.">
+<!ENTITY accountAdvancedTitle.label "Rozšířené možnosti">
+<!ENTITY accountAdvancedInfo.label "Pokud chcete, můžete tento krok přeskočit.">
+<!ENTITY accountAdvanced.newMailNotification.label "Notifikace e-mailem">
+<!ENTITY accountAliasGroupbox.caption "Místní alias">
+<!ENTITY accountAliasField.label "Alias:">
+<!ENTITY accountAliasInfo.label "Bude zobrazen pouze v okně vaší konverzace. Vzdálené kontakty ho neuvidí.">
+<!ENTITY accountProxySettings.caption "Nastavení proxy">
+<!ENTITY accountProxySettings.change.label "Změnit…">
+<!ENTITY accountProxySettings.change.accessKey "m">
+
+<!ENTITY accountSummaryTitle.label "Souhrn">
+<!ENTITY accountSummaryInfo.label "Souhrn zadaných informací je zobrazen níže. Před vytvořením účtu si je prosím zkontrolujte.">
+<!ENTITY accountSummary.connectNow.label "Nyní připojit tento účet.">
