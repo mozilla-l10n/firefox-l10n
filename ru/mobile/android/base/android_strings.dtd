@@ -42,6 +42,7 @@
 <!ENTITY site_security "Защита сайта">
 <!ENTITY close_tab "Закрыть вкладку">
 <!ENTITY new_tab "Новая вкладка">
+<!ENTITY one_tab "1 вкладка">
 <!ENTITY num_tabs "&#037;d вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
@@ -71,6 +72,7 @@
 <!ENTITY pref_font_size_xlarge "Огромный">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_sync "Синхронизация">
+<!ENTITY pref_search_suggestions "Показывать поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY pref_private_data_history "Журнал посещений и загрузок">
 <!ENTITY pref_private_data_formdata "Журнал форм и поиска">
@@ -79,13 +81,14 @@
 <!ENTITY pref_private_data_sessions "Активные сеансы">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings "Настройки сайта">
-<!ENTITY pref_search_suggestions "Показывать поисковые предложения">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
+<!ENTITY apps "Приложения">
 <!ENTITY char_encoding "Кодировка">
 <!ENTITY share "Поделиться">
 <!ENTITY share_title "Поделиться через">
+<!ENTITY share_image_failed "Не удалось поделиться этим изображением">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Открыть полную версию сайта">
@@ -111,9 +114,10 @@
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
-<!ENTITY add_to_reading_list "Добавить в Список для чтения">
+<!ENTITY reading_list "Список для чтения">
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
+<!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
 <!ENTITY reader_mode "Режим чтения">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
@@ -137,10 +141,11 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
+<!ENTITY private_data_success "Личные данные вычищены">
+<!ENTITY private_data_fail "Не удалось вычистить некоторые личные данные">
 <!ENTITY bookmarkhistory_button_import "Импорт">
 <!ENTITY bookmarkhistory_import_both "Импорт закладок и истории из Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Импорт закладок из Android">
 <!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
 <!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
-<!ENTITY private_data_success "Личные данные вычищены">
-<!ENTITY private_data_fail "Не удалось вычистить некоторые личные данные">
+<!ENTITY webapp_generic_name "Приложение">

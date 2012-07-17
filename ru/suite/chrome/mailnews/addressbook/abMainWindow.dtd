@@ -34,8 +34,12 @@
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY showAbToolbarCmd.label "Панель адресной книги">
 <!ENTITY showAbToolbarCmd.accesskey "а">
-<!ENTITY showCardPane.label "Область окна карточки">
-<!ENTITY showCardPane.accesskey "О">
+<!ENTITY layoutMenu.label "Разбивка окна">
+<!ENTITY layoutMenu.accesskey "б">
+<!ENTITY showDirectoryPane.label "Панель каталогов">
+<!ENTITY showDirectoryPane.accesskey "а">
+<!ENTITY showContactPane2.label "Панель контактов">
+<!ENTITY showContactPane2.accesskey "к">
 <!ENTITY menu_ShowNameAs.label "Показывать имя как">
 <!ENTITY menu_ShowNameAs.accesskey "П">
 <!ENTITY firstLastCmd.label "Имя Фамилия">
@@ -72,5 +76,14 @@
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Расширенный режим поиска адресов">
 <!ENTITY dirTreeHeader.label "Адресные книги">
+<!ENTITY contact.heading "Контакт">
+<!ENTITY home.heading "Дом">
+<!ENTITY other.heading "Прочее">
+<!ENTITY phone.heading "Телефоны">
+<!ENTITY work.heading "Рабочий">
+<!ENTITY description.heading "Описание">
+<!ENTITY addresses.heading "Адреса">
+<!ENTITY mapItButton.label "Показать на карте">
+<!ENTITY mapIt.tooltip "Показать адрес на карте в Интернете">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">

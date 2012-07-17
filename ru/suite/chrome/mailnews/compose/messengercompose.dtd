@@ -65,6 +65,8 @@
 <!ENTITY highestPriorityCmd.accesskey "а">
 <!ENTITY returnReceiptMenu.label "Уведомление о прочтении">
 <!ENTITY returnReceiptMenu.accesskey "е">
+<!ENTITY dsnMenu.label "Уведомление о доставке">
+<!ENTITY dsnMenu.accesskey "с">
 <!ENTITY outputFormatMenu.label "Формат">
 <!ENTITY outputFormatMenu.accesskey "м">
 <!ENTITY autoFormatCmd.label "Автоопределение">

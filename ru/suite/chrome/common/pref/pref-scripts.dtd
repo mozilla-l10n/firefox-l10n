@@ -14,9 +14,11 @@
 <!ENTITY allowWindowImageSrcChange.label "Менять изображения">
 <!ENTITY allowContextmenuDisable.label "Отключать или замещать контекстные меню">
 <!ENTITY allowHideStatusBar.label "Скрывать строку состояния">
-<!ENTITY enablePlugin.label "Использовать плагины в:">
+<!ENTITY enablePlugins.label "Включить плагины для">
 <!ENTITY enablePluginForSuite.label "Suite">
 <!ENTITY enablePluginForSuite.accesskey "u">
-<!ENTITY whenPluginsRequired.label "Когда требуются дополнительные плагины">
-<!ENTITY displayNotification.label "Отображать панель уведомления в верхней части веб-страницы">
-<!ENTITY displayNotification.accesskey "т">
+<!ENTITY whenPageRequiresPlugins.label "Когда странице потребуются плагины">
+<!ENTITY activateAllPlugins.label "Активировать все плагины по умолчанию">
+<!ENTITY activateAllPlugins.accesskey "в">
+<!ENTITY warnPluginsRequired.label "Предупрежать меня, если необходимо установить дополнительные плагины">
+<!ENTITY warnPluginsRequired.accesskey "ж">
