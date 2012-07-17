@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label                 "Du har valgt at åbne">
+<!ENTITY  intro2.label                "Du har valgt at åbne:">
 <!ENTITY from.label                  "fra:">
 <!ENTITY actionQuestion.label        "Hvad skal &brandShortName; gøre med denne fil ?">
 
