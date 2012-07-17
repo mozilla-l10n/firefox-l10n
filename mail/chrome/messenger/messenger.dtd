@@ -581,6 +581,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nyt mærkat…">
 <!ENTITY addNewTag.accesskey "m">
+<!ENTITY manageTags.label "Håndter Tags…">
+<!ENTITY manageTags.accesskey "H">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Navn">

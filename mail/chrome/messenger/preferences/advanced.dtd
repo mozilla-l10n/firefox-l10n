@@ -11,6 +11,13 @@
 <!ENTITY telemetryInfoLink.label       "Mere information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktiver global søgning og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Brug autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "B">
+<!ENTITY useSmoothScrolling.label      "Brug blød scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "r">
+
 <!ENTITY systemIntegration.label       "Systemintegration">
 <!ENTITY alwaysCheckDefault.label      "Undersøg altid, om &brandShortName; er standardmailprogrammet, når det startes">
 <!ENTITY alwaysCheckDefault.accesskey  "U">
@@ -80,9 +87,9 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Diskplads">
-<!ENTITY offlineCompact.label "Optimer mapper, når det kan spare mere end">
-<!ENTITY offlineCompact.accesskey "K">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "Optimer mapper, når det kan spare mere end">
+<!ENTITY offlineCompactFolders.accesskey "k">
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
