@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Грешка во вчитувањето на страницата">
 <!ENTITY retry.label "Обиди се повторно">
 <!-- Specific error messages -->
@@ -25,14 +29,14 @@
 <!ENTITY netInterrupt.longDesc "<p>Прелистувачот се поврза успешно, но врската беше прекината при трансферот на информации.  Обидете се повторно.</p><ul><li>Дали можете да сурфате на други места? Проверете ја мрежната врска на компјутерот.</li><li>Сè уште имате проблеми? Побарајте помош од Вашиот администратор или Интернет провајдер.</li></ul>">
 
 <!ENTITY notCached.title "Документот е застарен">
-<!ENTITY notCached.longDesc "<p>Бараниот документ не е достапен во кешот на прелистувачот.
-</p><ul><li>Заради безбедност прелистувачот автоматски не
+<!ENTITY notCached.longDesc "<p>Бараниот документ не е достапен во кешот на прелистувачот. 
+</p><ul><li>Заради безбедност прелистувачот автоматски не 
 побарува осетливи документи.</li><li>Кликнете на „Обиди се повторно“ за повторно да го побарате документот од мрежното место.</li></ul>">
 
 <!ENTITY netOffline.title "Локален режим">
-<!ENTITY netOffline.longDesc2 "<p>Прелистувачот работи локално и не може да се поврзе со бараната
-ставка.</p><ul><li>Дали компјутерот е поврзан на активна мрежа?
-</li><li>Стиснете на „Обиди се повторно“ за да се приклучите на мрежа и да
+<!ENTITY netOffline.longDesc2 "<p>Прелистувачот работи локално и не може да се поврзе со бараната 
+ставка.</p><ul><li>Дали компјутерот е поврзан на активна мрежа? 
+</li><li>Стиснете на „Обиди се повторно“ за да се приклучите на мрежа и да 
 ја превчитате страницата.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Грешка во кодирањето на содржината">
@@ -85,11 +89,11 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Прелистувачот ја спречи страницата да се вчита на ваков начин бидејќи таа има безбедносна политика за содржина што го забранува тоа.</p>">
 
 <!ENTITY corruptedContentError.title "Грешка со корумпирана содржина">
-<!ENTITY corruptedContentError.longDesc "<p>Страницата што сакате да ја видите не може да се прикаже
+<!ENTITY corruptedContentError.longDesc "<p>Страницата што сакате да ја видите не може да се прикаже 
 поради грешка во пренеост на податоците.</p><ul><li>Контактирајтесо сопствениците на страницата за да ги известите за овој проблем.</li></ul>">
 
 <!ENTITY remoteXUL.title "Мрежен XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да 
 ги информирате за овој проблем.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

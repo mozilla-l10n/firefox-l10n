@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "Новите прозорци отворај ги како јазичиња">
 <!ENTITY newWindowsAsTabs.accesskey   "п">
 
@@ -9,6 +13,9 @@
 
 <!ENTITY showTabBar.label             "Секогаш прикажувај ја лентата за јазичиња">
 <!ENTITY showTabBar.accesskey         "т">
+
+<!ENTITY restoreTabsOnDemand.label        "Вчитај го јазичето по одбирање">
+<!ENTITY restoreTabsOnDemand.accesskey    "ј">
 
 <!ENTITY switchToNewTabs.label        "Кога ќе отворам врска во ново јазиче, веднаш премини на него">
 <!ENTITY switchToNewTabs.accesskey    "н">

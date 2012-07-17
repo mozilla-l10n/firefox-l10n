@@ -1,8 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; поставување">
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "Добредојдовте! Ако до сега не сте го користеле &syncBrand.fullName.label;
+<!ENTITY setup.pickSetupType.description2 "Добредојдовте! Ако до сега не сте го користеле &syncBrand.fullName.label; 
 прво треба да создадете нова сметка.">
 <!ENTITY button.createNewAccount.label "Креирај нова сметка">
 <!ENTITY button.haveAccount.label      "Имам сметка">
@@ -13,7 +17,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Сервер">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; сервер">
+<!ENTITY serverType.default.label      "Основно: Mozilla &syncBrand.fullName.label; сервер">
 <!ENTITY serverType.custom2.label   "Користи сопствен сервер…">
 <!ENTITY signIn.account2.label      "Сметка">
 <!ENTITY signIn.account2.accesskey  "а">
@@ -42,14 +46,14 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; се грижи за Вашата приватност">
-<!ENTITY setup.newRecoveryKeyPage.description.label "За да се осигура Вашата целосна приватност, сите Ваши податоци
-се енкриптирани пред да бидат пренесени на интернет. Безбедниот
+<!ENTITY setup.newRecoveryKeyPage.description.label "За да се осигура Вашата целосна приватност, сите Ваши податоци 
+се енкриптирани пред да бидат пренесени на интернет. Безбедниот 
 клуч што е потребен за нивна декрипција не се пренесува.">
 <!ENTITY recoveryKeyEntry.label        "Вашиот безбеден клуч">
 <!ENTITY recoveryKeyEntry.accesskey    "к">
 <!ENTITY syncGenerateNewKey.label  "Генерирај нов клуч">
-<!ENTITY recoveryKeyBackup.description "Вашиот безбеден клуч е потребен за да пристапите на &syncBrand.fullName.label;
-на други уреди. Направете резервна копија. Ако го загубите, не можеме да Ви
+<!ENTITY recoveryKeyBackup.description "Вашиот безбеден клуч е потребен за да пристапите на &syncBrand.fullName.label; 
+на други уреди. Направете резервна копија. Ако го загубите, не можеме да Ви 
 помогнеме да го повратите безбедниот клуч.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Печати…">
@@ -67,14 +71,14 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Внесете го кодот што ќе го прикаже уредот:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Обиди се повторно.">
 <!ENTITY addDevice.dialog.successful.label  "Уредот е успешно додаден. Првичната синхронизација може да потрае неколку минути и ќе се изврши во позадина.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "За да го активирате Вашиот уред треба да го внесете Вашиот безбеден клуч.
+<!ENTITY addDevice.dialog.recoveryKey.label     "За да го активирате Вашиот уред треба да го внесете Вашиот безбеден клуч. 
 Отпечатете го или снимете го овој клуч и носете го со себе.">
 <!ENTITY addDevice.dialog.connected.label   "Уредот е поврзан">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Пријави се">
-<!ENTITY existingRecoveryKey.description "Може да земете копија од Вашиот безбеден клуч преку
-Опциите на &syncBrand.shortName.label;  на уредот во ставкате
+<!ENTITY existingRecoveryKey.description "Може да земете копија од Вашиот безбеден клуч преку 
+Опциите на &syncBrand.shortName.label;  на уредот во ставкате 
 &#x0022;Мојот безбеден клуч&#x0022; под &#x0022;Уредување на сметката&#x0022;.">
 <!ENTITY verifying.label              "Проверувам…">
 <!ENTITY resetPassword.label          "Рестирај лозинка">
