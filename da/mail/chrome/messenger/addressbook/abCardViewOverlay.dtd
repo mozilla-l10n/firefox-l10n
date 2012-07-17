@@ -1,9 +1,0 @@
-<!ENTITY contact.heading "Kontakt">
-<!ENTITY home.heading "Hjem">
-<!ENTITY other.heading "Andet">
-<!ENTITY phone.heading "Telefon">
-<!ENTITY work.heading "Arbejde">
-<!ENTITY description.heading "Beskrivelse">
-<!ENTITY addresses.heading "Adresser">
-<!ENTITY mapItButton.label "Hent kort">
-<!ENTITY mapIt.tooltip "Viser et kort over denne adresse fra internettet">
