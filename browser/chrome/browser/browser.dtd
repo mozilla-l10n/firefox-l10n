@@ -102,10 +102,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "d">
 <!ENTITY fullscreenAllowButton.label "Toestaan">
 <!ENTITY fullscreenExitButton.label "Weigeren">
-<!ENTITY fullscreenApproval.value "volledigscherm toestaan?">
+<!ENTITY fullscreenApproval.value "Volledig scherm toestaan?">
 
-<!ENTITY fullscreenExitHint.value "Druk op ESC om volledig scherm te verlaten.">
-<!ENTITY leaveDOMFullScreen.label "Volledigscherm verlaten">
+<!ENTITY fullscreenExitHint.value "Druk op ESC om de volledigschermmodus te verlaten.">
+<!ENTITY leaveDOMFullScreen.label "Volledig scherm verlaten">
 <!ENTITY leaveDOMFullScreen.accesskey "v">
 
 <!ENTITY closeWindow.label "Venster sluiten">
@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Element inspecteren">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.label   "Responsive Design-weergave">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
@@ -235,8 +235,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "Inspector sluiten">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Developer werkbalk sluiten">
-<!ENTITY devToolbarMenu.label 		   "Developer werkbalk">
+<!ENTITY devToolbarCloseButton.tooltiptext "Ontwikkelaarswerkbalk sluiten">
+<!ENTITY devToolbarMenu.label 		   "Ontwikkelaarswerkbalk">
 
 <!ENTITY webConsoleButton.label "Webconsole">
 <!ENTITY inspectorButton.label "Inspector">
@@ -255,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectOptionButton.tooltiptext    "Inspector-opties">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Dim The Page">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
+<!ENTITY inspectorToggleVeil.label          "De pagina dimmen">
+<!ENTITY inspectorToggleVeil.accesskey      "d">
 <!ENTITY inspectorToggleInfobar.label       "Node-info tonen">
 <!ENTITY inspectorToggleInfobar.accesskey   "t">
 
@@ -264,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
 <!ENTITY inspect3DViewButton.label     "3D-weergave">
-<!ENTITY inspect3DViewButton.accesskey "w">
+<!ENTITY inspect3DViewButton.accesskey "e">
 
 <!ENTITY inspectStyleButton.label     "Stijl">
 <!ENTITY inspectStyleButton.accesskey "S">
