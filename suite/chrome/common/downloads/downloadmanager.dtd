@@ -50,7 +50,7 @@
 <!ENTITY col.endtime.accesskey           "i">
 <!ENTITY col.endtime.tooltip             "結束時間">
 <!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#">
 <!ENTITY col.progresstext.tooltip        "進度（&#37;）">
 <!ENTITY col.source.label                "原始碼">
 <!ENTITY col.source.accesskey            "o">
