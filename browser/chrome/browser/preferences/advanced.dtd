@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Општо">
 
@@ -26,8 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Секогаш проверувај дали &brandShortName; е основен прелистувач">
 <!ENTITY alwaysCheckDefault.accesskey    "о">
-<!ENTITY checkNow.label                  "Провери сега">
-<!ENTITY checkNow.accesskey              "с">
+<!ENTITY setDefault.label                "Направи го &brandShortName; основен прелистувач.">
+<!ENTITY setDefault.accesskey            "о">
+<!ENTITY isDefault.label                 "&brandShortName; моментално не е основен прелистувач">
 <!ENTITY submitCrashes.label             "Испраќај извештаи за уривањата">
 <!ENTITY submitCrashes.accesskey         "ќ">
 <!ENTITY submitTelemetry.label           "Испрати податоци за перформансите">
@@ -65,7 +70,7 @@
 
 <!ENTITY updateApp.label                 "Надградби за &brandShortName;:">
 <!ENTITY updateAuto.label                "Инсталирај ги автоматски (се препорачува заради безбедност)">
-<!ENTITY updateAuto.accesskey            "А">
+<!ENTITY updateAuto.accesskey            "а">
 <!ENTITY updateCheck.label               "Проверувај, но остави да одберам дали сакам да ги инсталирам">
 <!ENTITY updateCheck.accesskey           "р">
 <!ENTITY updateManual.label              "Никогаш не проверувај (не се препорачува заради безбедност)">

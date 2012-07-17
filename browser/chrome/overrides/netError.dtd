@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -44,8 +48,8 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Документот е застарен">
-<!ENTITY notCached.longDesc "<p>Бараниот документ не е достапен во кешот на &brandShortName;.
-</p><ul><li>Заради безбедност &brandShortName; автоматски не
+<!ENTITY notCached.longDesc "<p>Бараниот документ не е достапен во кешот на &brandShortName;. 
+</p><ul><li>Заради безбедност &brandShortName; автоматски не 
 побарува осетливи документи.</li><li>Кликнете на „Обиди се повторно“ за повторно да го побарате документот од мрежното место.</li></ul>">
 
 <!ENTITY netOffline.title "Локален режим">
@@ -132,7 +136,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;  ја спречи страницата да се вчита на ваков начин бидејќи таа има безбедносна политика за содржина што го забранува тоа.</p>">
 
 <!ENTITY corruptedContentError.title "Грешка поради корумпирана содржина">
-<!ENTITY corruptedContentError.longDesc "<p>Страницата што сакате да ја видите не може да се прикаже
+<!ENTITY corruptedContentError.longDesc "<p>Страницата што сакате да ја видите не може да се прикаже 
 поради грешка во пренеост на податоците.</p><ul><li>Контактирајтесо сопствениците на страницата за да ги известите за овој проблем.</li></ul>">
 
 
@@ -151,5 +155,5 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Мрежен XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да 
 ги информирате за овој проблем.</li></ul></p>">

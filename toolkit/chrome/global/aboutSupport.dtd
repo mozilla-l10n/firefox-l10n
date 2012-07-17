@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Информации околу решавање на проблеми">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
@@ -14,7 +18,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Основи за апликацијата">
 <!ENTITY aboutSupport.appBasicsName "Име">
 <!ENTITY aboutSupport.appBasicsVersion "Верзија">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Директориум на профилот">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Папка на профилот">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Овозможени приклучоци">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација на изданието">
 <!ENTITY aboutSupport.appBasicsUserAgent "Кориснички агент">
@@ -25,7 +35,6 @@
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Покажи во Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
@@ -36,6 +45,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Вредност">
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Верзија на библиотеката">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Историја на инсталации">
 <!ENTITY aboutSupport.updateHistoryTitle "Историја на надградби">
