@@ -10,8 +10,6 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Novità">
 <!ENTITY whatsNewCmd.accesskey "o">
-<!ENTITY featureConfiguratorCmd.label "Migrazione guidata">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Contenuti della Guida">
 <!ENTITY openHelp.accesskey "C">
 <!ENTITY openHelp.commandkey "VK_F1">

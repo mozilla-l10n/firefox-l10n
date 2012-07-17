@@ -27,8 +27,7 @@
 <!ENTITY PlainText.label "Testo semplice">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Sconosciuto">
-<!ENTITY ScreenName.label "Nome Instant Messenger:">
-<!ENTITY ScreenName.accesskey "M">
+<!ENTITY chatName.label "Nome chat:">
 <!ENTITY allowRemoteContent1.label "Consenti contenuto remoto.">
 <!ENTITY allowRemoteContent1.accesskey "t">
 <!ENTITY allowRemoteContent1.tooltip "Nei messaggi in HTML è possibile includere elementi ospitati da siti remoti. L'apertura di un tale messaggio aprirà una connessione a tale sito. Questo potrebbe consentire al mittente di verificare che il messaggio è stato letto. Spuntare questa casella consentirà l'apertura di elementi esterni contenuti nei messaggi HTML provenienti da questo contatto.">
@@ -99,6 +98,24 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Note:">
 <!ENTITY Notes.accesskey "N">
+<!ENTITY Chat.tab "Chat">
+<!ENTITY Chat.accesskey "a">
+<!ENTITY Gtalk.label "Google Talk:">
+<!ENTITY Gtalk.accesskey "G">
+<!ENTITY AIM.label "AIM:">
+<!ENTITY AIM.accesskey "a">
+<!ENTITY Yahoo.label "Yahoo!:">
+<!ENTITY Yahoo.accesskey "Y">
+<!ENTITY Skype.label "Skype:">
+<!ENTITY Skype.accesskey "S">
+<!ENTITY QQ.label "QQ:">
+<!ENTITY QQ.accesskey "Q">
+<!ENTITY MSN.label "MSN:">
+<!ENTITY MSN.accesskey "M">
+<!ENTITY ICQ.label "ICQ:">
+<!ENTITY ICQ.accesskey "I">
+<!ENTITY XMPP.label "ID Jabber:">
+<!ENTITY XMPP.accesskey "J">
 <!ENTITY Photo.tab "Fotografia">
 <!ENTITY Photo.accesskey "F">
 <!ENTITY PhotoDesc.label "Scegliere fra le seguenti opzioni:">

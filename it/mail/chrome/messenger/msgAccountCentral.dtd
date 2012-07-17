@@ -3,6 +3,8 @@
 <!ENTITY composeMsgLink.label "Scrivi un nuovo messaggio">
 <!ENTITY newsSectionHdr.label "Gruppi di discussione">
 <!ENTITY subscribeNewsLink.label "Gestisci la sottoscrizione ai gruppi di discussione">
+<!ENTITY feedsSectionHdr.label "Feed">
+<!ENTITY subscribeFeeds.label "Gestisci le sottoscrizioni">
 <!ENTITY accountsSectionHdr.label "Account">
 <!ENTITY subscribeImapFolders.label "Gestisci la sottoscrizione alle cartelle">
 <!ENTITY settingsLink.label "Visualizza impostazioni per questo account">
@@ -12,5 +14,3 @@
 <!ENTITY filtersLink.label "Gestisci i filtri per i messaggi">
 <!ENTITY junkSettings.label "Posta indesiderata">
 <!ENTITY offlineLink.label "Impostazioni 'non in linea'">
-<!ENTITY feedsSectionHdr.label "Feed">
-<!ENTITY subscribeFeeds.label "Gestisci le sottoscrizioni">

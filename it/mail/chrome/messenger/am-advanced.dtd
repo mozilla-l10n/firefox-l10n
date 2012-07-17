@@ -1,5 +1,5 @@
 <!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
-<!ENTITY smtpDesc.label "Nonostante sia possibile specificare più di un server di posta in uscita (SMTP), questa operazione è consigliata solo ad utenti esperti. Specificare più di un server di posta in uscita può causare errori durante l'invio del messaggio.">
+<!ENTITY smtpDescription.label "Nella gestione delle proprie identità è possibile usare un server della lista seguente selezionandolo come Server in uscita (SMTP) o lasciare il predefinito selezionando &quot;Server predefinito&quot;.">
 <!ENTITY smtpListAdd.label "Aggiungi…">
 <!ENTITY smtpListAdd.accesskey "g">
 <!ENTITY smtpListEdit.label "Modifica…">
