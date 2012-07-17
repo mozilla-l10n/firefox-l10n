@@ -26,7 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
-   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -221,6 +221,16 @@
 <!ENTITY event.description.accesskey "B">
 <!ENTITY event.attachments.label "Vedhæftede filer:">
 <!ENTITY event.attachments.accesskey "h">
+
+<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
+  but I want to land Filelink support for Lightning soon. The attach
+  button will become a dropdown button that allows to attach links
+  as usual, but also files via the Filelink providers. -->
+<!ENTITY event.attachments.menubutton.label               "Vedhæft">
+<!ENTITY event.attachments.menubutton.accesskey           "V">
+<!ENTITY event.attachments.url.label                      "Hjemmeside…">
+<!ENTITY event.attachments.url.accesskey                  "H">
+
 <!ENTITY event.attachments.popup.remove.label "Fjern">
 <!ENTITY event.attachments.popup.remove.accesskey "F">
 <!ENTITY event.attachments.popup.open.label "Åbn">
