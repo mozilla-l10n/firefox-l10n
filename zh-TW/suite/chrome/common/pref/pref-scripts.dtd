@@ -21,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "暫停或取代右鍵選單">
 <!ENTITY allowHideStatusBar.label        "隱藏狀態列">
 
-<!ENTITY enablePlugin.label              "為下列程式啟用外掛程式:">
+<!ENTITY enablePlugins.label             "啟用下列網站的外掛程式">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "需要更多外掛程式時">
-<!ENTITY displayNotification.label       "在內容區域的最上面顯示通知列">
-<!ENTITY displayNotification.accesskey   "n">
+<!ENTITY whenPageRequiresPlugins.label   "當網頁上的內容需要外掛程式時">
+<!ENTITY activateAllPlugins.label        "預設啟用所有外掛程式">
+<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY warnPluginsRequired.label       "在需要安裝其他外掛程式時通知我">
+<!ENTITY warnPluginsRequired.accesskey   "W">

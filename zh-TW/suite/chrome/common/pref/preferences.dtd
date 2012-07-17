@@ -30,6 +30,7 @@
 <!ENTITY advance.label "進階">
 <!ENTITY down.label "下載">
 <!ENTITY cache.label "快取">
+<!ENTITY offlineApps.label "離線應用程式">
 <!ENTITY proxies.label "代理伺服器">
 <!ENTITY httpnetworking.label "HTTP 網路">
 <!ENTITY smart.label "軟體安裝">

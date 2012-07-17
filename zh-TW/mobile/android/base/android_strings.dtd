@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY new_tab "開新分頁">
+<!ENTITY one_tab "一個分頁">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d 個分頁">
@@ -86,6 +87,7 @@
 <!ENTITY pref_font_size_xlarge "特大">
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
+<!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
 <!ENTITY pref_private_data_history "瀏覽與下載紀錄">
 <!ENTITY pref_private_data_formdata "表單與搜尋紀錄">
@@ -94,16 +96,17 @@
 <!ENTITY pref_private_data_sessions "目前的登入狀況">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings "網站偏好設定">
-<!ENTITY pref_search_suggestions "顯示搜尋建議">
 
 <!ENTITY quit "結束">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載項目">
+<!ENTITY apps "應用程式">
 <!ENTITY char_encoding "語言及字元編碼">
 
 <!ENTITY share "分享">
 <!ENTITY share_title "分享到">
+<!ENTITY share_image_failed "無法分享此圖片">
 <!ENTITY save_as_pdf "儲存為 PDF">
 <!ENTITY find_in_page "在頁面中搜尋">
 <!ENTITY desktop_mode "開啟桌面版網站">
@@ -139,9 +142,10 @@
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
-<!ENTITY add_to_reading_list "新增至閱讀清單">
+<!ENTITY reading_list "閱讀清單">
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
+<!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
 <!ENTITY reader_mode "閱讀模式">
 
 <!ENTITY masterpassword_create_title "建立主控密碼">
@@ -183,6 +187,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "此網站擁有者：">
 
+<!ENTITY private_data_success "已清除隱私資料">
+<!ENTITY private_data_fail "無法清除某些隱私資料">
+
 <!ENTITY bookmarkhistory_button_import "匯入">
 <!ENTITY bookmarkhistory_import_both "正在自 Android 匯入
                                       書籤與歷史紀錄">
@@ -192,5 +199,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          匯入歷史紀錄">
 <!ENTITY bookmarkhistory_import_wait "請稍候…">
 
-<!ENTITY private_data_success "已清除隱私資料">
-<!ENTITY private_data_fail "無法清除某些隱私資料">
+<!ENTITY webapp_generic_name "程式">

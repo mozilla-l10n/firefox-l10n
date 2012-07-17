@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "啟用">
 <!ENTITY addonAction.disable                    "停用">
 <!ENTITY addonAction.uninstall                  "移除">
-<!ENTITY addonAction.cancel                     "取消">
+<!ENTITY addonAction.undo                       "復原">

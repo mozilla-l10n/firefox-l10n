@@ -5,6 +5,10 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "新增至通訊錄…">
 <!ENTITY AddToAddressBook.accesskey        "B">
+<!ENTITY EditContact.label                 "編輯連絡人…">
+<!ENTITY EditContact.accesskey             "E">
+<!ENTITY ViewContact.label                 "檢視連絡人">
+<!ENTITY ViewContact.accesskey             "V">
 <!ENTITY SendMailTo.label                  "撰寫郵件給…">
 <!ENTITY SendMailTo.accesskey              "s">
 <!ENTITY CopyEmailAddress.label            "複製電子郵件地址">
