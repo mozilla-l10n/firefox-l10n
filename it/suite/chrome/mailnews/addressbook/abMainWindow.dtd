@@ -31,8 +31,12 @@
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY showAbToolbarCmd.label "Barra della rubrica">
 <!ENTITY showAbToolbarCmd.accesskey "R">
-<!ENTITY showCardPane.label "Vista della scheda">
-<!ENTITY showCardPane.accesskey "V">
+<!ENTITY layoutMenu.label "Struttura">
+<!ENTITY layoutMenu.accesskey "S">
+<!ENTITY showDirectoryPane.label "Pannello Rubrica">
+<!ENTITY showDirectoryPane.accesskey "R">
+<!ENTITY showContactPane2.label "Pannello Contatti">
+<!ENTITY showContactPane2.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Visualizza nome come">
 <!ENTITY menu_ShowNameAs.accesskey "V">
 <!ENTITY firstLastCmd.label "Nome Cognome">
@@ -69,5 +73,14 @@
 <!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Apre la finestra di dialogo per la ricerca indirizzi">
 <!ENTITY dirTreeHeader.label "Rubriche">
+<!ENTITY contact.heading "Contatto">
+<!ENTITY home.heading "Pagina iniziale">
+<!ENTITY other.heading "Altro">
+<!ENTITY phone.heading "Telefono">
+<!ENTITY work.heading "Lavoro">
+<!ENTITY description.heading "Descrizione">
+<!ENTITY addresses.heading "Indirizzi">
+<!ENTITY mapItButton.label "Ottieni mappa">
+<!ENTITY mapIt.tooltip "Mostra mappa di questo indirizzo via web">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">
