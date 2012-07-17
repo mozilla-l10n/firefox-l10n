@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "注音:">
 <!ENTITY DisplayName.label              "顯示名稱:">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "總是在郵件檔頭上方顯示姓名">
+<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY NickName.label                 "暱稱:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -64,7 +66,7 @@
 <!ENTITY Home.tab                       "私人">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "住址:">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "縣市:">
@@ -94,7 +96,7 @@
 <!ENTITY Company.label                  "服務單位:">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "地址:">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "縣市:">
@@ -122,7 +124,7 @@
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Photo.tab                      "相片">
-<!ENTITY Photo.accesskey                "相片">
+<!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "從下列選一個:">
 <!ENTITY GenericPhoto.label             "一般相片">
 <!ENTITY GenericPhoto.accesskey         "G">

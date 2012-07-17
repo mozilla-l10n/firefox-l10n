@@ -122,7 +122,7 @@
 <!ENTITY spellAddToDictionary.label     "新增到字典">
 <!ENTITY spellAddToDictionary.accesskey "n">
 <!ENTITY spellUndoAddToDictionary.label      "還原新增到字典">
-<!ENTITY spellUndoAddToDictionary.accesskey  "t">
+<!ENTITY spellUndoAddToDictionary.accesskey  "i">
 <!ENTITY spellIgnoreWord.label          "忽略此字">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "檢查拼字">

@@ -47,10 +47,12 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "通訊錄工具列"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "o">  
-
-<!ENTITY showCardPane.label                             "名片面板">
-<!ENTITY showCardPane.accesskey                         "C">
-  
+<!ENTITY layoutMenu.label                               "視窗配置方式">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "資料夾窗格">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "聯絡人窗格">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "姓名顯示方式"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!ENTITY firstLastCmd.label                             "[名] [姓] (英式)">  
@@ -95,6 +97,20 @@
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "通訊錄">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "聯絡人">
+<!ENTITY home.heading                                   "住家">
+<!ENTITY other.heading                                  "其他">
+<!ENTITY phone.heading                                  "電話">
+<!ENTITY work.heading                                   "公司">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "說明">
+<!ENTITY addresses.heading                              "住址">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "顯示地圖">
+<!ENTITY mapIt.tooltip                                  "顯示此地址的網路地圖">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
