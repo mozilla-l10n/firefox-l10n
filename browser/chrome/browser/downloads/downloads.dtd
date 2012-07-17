@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+<!ENTITY indicator.tooltiptext            "Преземања">
+
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+<!ENTITY downloads.title                  "Преземања">
+
+<!ENTITY cmd.pause.label                  "Паузирај">
+<!ENTITY cmd.pause.accesskey              "П">
+<!ENTITY cmd.resume.label                 "Продолжи">
+<!ENTITY cmd.resume.accesskey             "р">
+<!ENTITY cmd.cancel.label                 "Откажи">
+<!ENTITY cmd.cancel.accesskey             "О">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Отвори ја папката со преземања">
+<!ENTITY cmd.show.accesskey               "о">
+<!ENTITY cmd.showMac.label                "Покажи во Finder">
+<!ENTITY cmd.showMac.accesskey            "о">
+<!ENTITY cmd.retry.label                  "Пробај пак">
+<!ENTITY cmd.goToDownloadPage.label       "Оди на страница за преземање">
+<!ENTITY cmd.goToDownloadPage.accesskey   "д">
+<!ENTITY cmd.copyDownloadLink.label       "Копирај врска за преземање">
+<!ENTITY cmd.copyDownloadLink.accesskey   "и">
+<!ENTITY cmd.removeFromList.label         "Отстрани од список">
+<!ENTITY cmd.removeFromList.accesskey     "с">
+<!ENTITY cmd.clearList.label              "Исчисти список">
+<!ENTITY cmd.clearList.accesskey          "к">
+
+<!ENTITY downloadshistory.label           "Покажи ги сите преземања">
+<!ENTITY downloadshistory.accesskey       "с">
