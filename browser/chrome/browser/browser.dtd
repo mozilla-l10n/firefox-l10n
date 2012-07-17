@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
 <!ENTITY inspectContextMenu.accesskey "ป">
 
-<!ENTITY responsiveDesignTool.label   "มุมมองการออกแบบที่ตอบสนองได้">
+<!ENTITY responsiveDesignTool.label   "มุมมองการออกแบบเชิงตอบสนอง">
 <!ENTITY responsiveDesignTool.accesskey "ต">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
@@ -234,8 +234,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "เว็บคอนโซล">
+<!ENTITY inspectorButton.label "ตัวตรวจดู">
+<!ENTITY scriptsButton.label "สคริปต์">
 
 <!ENTITY inspectorHTMLCopyInner.label       "คัดลอก Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
