@@ -204,6 +204,10 @@
 <!ENTITY event.description.accesskey "D">
 <!ENTITY event.attachments.label "Allegati:">
 <!ENTITY event.attachments.accesskey "e">
+<!ENTITY event.attachments.menubutton.label "Allega">
+<!ENTITY event.attachments.menubutton.accesskey "A">
+<!ENTITY event.attachments.url.label "Pagina web…">
+<!ENTITY event.attachments.url.accesskey "P">
 <!ENTITY event.attachments.popup.remove.label "Rimuovi">
 <!ENTITY event.attachments.popup.remove.accesskey "R">
 <!ENTITY event.attachments.popup.open.label "Apri">
