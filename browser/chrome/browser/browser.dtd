@@ -467,6 +467,8 @@
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY markupButton.arialabel "Codice">
 <!ENTITY markupButton.accesskey "C">
+<!ENTITY socialToolbar.title "Pulsante barra degli strumenti social">
+<!ENTITY social.notLoggedIn.label "Accesso non effettuato">
 <!ENTITY social.sharePopup.undo.label "Rimuovi condivisione">
 <!ENTITY social.sharePopup.undo.accesskey "R">
 <!ENTITY social.sharePopup.ok.label "OK">
