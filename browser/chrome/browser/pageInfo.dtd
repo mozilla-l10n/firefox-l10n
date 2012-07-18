@@ -99,6 +99,7 @@
 <!ENTITY  permInstall           "Installere udvidelser eller temaer">
 <!ENTITY  permGeo               "Dele placering">
 <!ENTITY  permPlugins           "Aktivere plugins">
+<!ENTITY  permFullscreen        "Aktivere fuldskærm">
 
 <!ENTITY  permIndexedDB              "Administrer Offline-lager">
 <!ENTITY  permClearStorage           "Ryd lager">
