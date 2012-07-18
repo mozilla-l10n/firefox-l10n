@@ -40,12 +40,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Opsætning fuldført'>
-<!ENTITY sync.subtitle.success.label 'Din data hentes i baggrunden. Du kan gå til Indstillinger for at administrere din konto.'>
+<!ENTITY sync.subtitle.success.label1 'Dine data hentes i baggrunden. Du kan gå til Indstillinger for at administrere din konto eller begynde at surfe med &brandShortName;.'>
 <!ENTITY sync.settings.label 'Indstillinger'>
-<!ENTITY sync.subtitle.manage.label 'Din &syncBrand.fullName.label;-konto er allerede sat op. Gå til Indstillinger for at administrere din konto.'>
+<!ENTITY sync.subtitle.manage.label1 'Din &syncBrand.fullName.label;-konto er allerede sat op. Gå til Indstillinger for at administrere din konto eller starte &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Prøv igen.'>
+<!ENTITY sync.pair.connectlocation.label 'For at aktivere din nye enhed, vælg “Indstil &syncBrand.shortName.label;” på enheden, og vælg så “Jeg har allerede en konto.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Indstillinger'>
@@ -67,6 +68,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Usorterede bogmærker'>
 <!ENTITY bookmarks.folder.desktop.label 'Bogmærker på desktoppen'>
 <!ENTITY bookmarks.folder.mobile.label 'Bogmærker på mobilen'>
+<!ENTITY bookmarks.folder.readinglist.label 'Læseliste'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Kun én &syncBrand.fullName.label;-konto er understøttet.'>
