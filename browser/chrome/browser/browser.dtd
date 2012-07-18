@@ -92,7 +92,6 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Sciòrti da-o mòddo a tùtto schèrmo">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY scriptsButton.label "Script">
 
 <!ENTITY closeWindow.label "Særa o barcón">
 <!ENTITY closeWindow.accesskey "S">
@@ -620,7 +619,6 @@ toolbar button -->
 <!ENTITY devToolbarCloseButton.tooltiptext "Særa a Bâra do svilupatô">
 <!ENTITY devToolbarMenu.label "Bâra do svilupatô">
 <!ENTITY devToolbarMenu.accesskey "v">
-<!ENTITY devToolbar.commandkey "v">
 
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
