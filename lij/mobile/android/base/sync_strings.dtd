@@ -79,3 +79,14 @@
 <!ENTITY bookmarks.folder.readinglist.label "Lìsta de letûa">
 <!ENTITY sync.pair.connectlocation.label "Pe ativâ un nêuvo aparâto seleçiónn-a “Configuraçión de &syncBrand.shortName.label;” e pöi “Adêuvia un account existénte”.">
 
+<!ENTITY sync.subtitle.failaccount.label "Creaçión d’account in sciô dispoxitîvo no ariêscia.">
+<!ENTITY sync.button.send.label "Mànda">
+<!ENTITY sync.button.set.up.sync.label "Configuraçión de &syncBrand.shortName.label;">
+<!ENTITY sync.invalidcreds.label "Nómme uténte ò paròlla segrétta sbaliâ">
+<!ENTITY sync.invalidserver.label "Scrîvi un indirìsso vàlido pe-o server">
+<!ENTITY sync.subtitle.failmultiple.label "L\'é stæto instalòu ciù verscioìn de Firefox? &syncBrand.shortName.label; a-o moménto o no l\'é in gràddo de soportâ ina sôla instalaçión de Firefox. Scancelâ e âtre verscioìn pe adêuviâ &syncBrand.shortName.label;.">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configûa &syncBrand.fullName.label; pe mandâ i féuggi a âtri dispoxitîvi.">
+<!ENTITY sync.text.tab.sent.label "O féuggio o l\'é stæto mandòu.">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configuraçión de &syncBrand.shortName.label; pe mandâ i féuggi">
+<!ENTITY sync.title.send.tab.label "Mànda féuggio a dispoxitîvi">
+<!ENTITY sync.verifying.label "Verìfica in córso…">

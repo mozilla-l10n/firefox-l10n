@@ -123,7 +123,6 @@
 <!ENTITY filepicker_image_title "Çèrni ò pìggia \'na föto">
 <!ENTITY filepicker_video_title "Çèrni ò regìstra \'n vìdeo">
 
-<!ENTITY add_to_reading_list "Azónzi a Lìsta de letûa">
 <!ENTITY close_tab "Særa féuggio">
 <!ENTITY contextmenu_remove_history "Scancélla">
 <!ENTITY find_in_page "Trêuva inta pàgina">
@@ -171,8 +170,10 @@
 <!ENTITY bookmarkhistory_import_history "Inportaçión stöia dò-u Android">
 <!ENTITY bookmarkhistory_import_wait "Aténdi…">
 
-
-
-
-
-
+<!ENTITY apps "App">
+<!ENTITY one_tab "1 féuggio">
+<!ENTITY pref_search_suggestions "Véddi i sugeriménti de riçèrca">
+<!ENTITY reading_list "Elénco letûa">
+<!ENTITY reading_list_failed "Inposcìbile azónze a pàgina a Elénco letûa">
+<!ENTITY share_image_failed "Inposcìbile condivìdde sta inmàgine">
+<!ENTITY webapp_generic_name "App">

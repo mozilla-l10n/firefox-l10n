@@ -5,5 +5,5 @@
 <!ENTITY addonAction.enable                     "Abìlita">
 <!ENTITY addonAction.disable                    "Dizabìlita">
 <!ENTITY addonAction.uninstall                  "Dizinstàlla">
-<!ENTITY addonAction.cancel                     "Anùlla">
+<!ENTITY addonAction.undo                       "Anùlla">
 
