@@ -5,4 +5,4 @@
 <!ENTITY addonAction.enable                     "Aktiver">
 <!ENTITY addonAction.disable                    "Deaktiver">
 <!ENTITY addonAction.uninstall                  "Afinstaller">
-<!ENTITY addonAction.cancel                     "Annuller">
+<!ENTITY addonAction.undo                       "Fortryd">
