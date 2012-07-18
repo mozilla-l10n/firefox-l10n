@@ -43,4 +43,9 @@
 
 <!ENTITY tapToPlayPlugin                                     "പ്ലഗിന്‍ സജീവമാക്കുന്നതിനായി ഇവിടെ  ചെറുതായി അമര്‍ത്തുക.">
 
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "സുരക്ഷിതമല്ലാത്ത പ്ലഗിന്‍ സജീവമാക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "സുരക്ഷിതമല്ലാത്ത പ്ലഗിന്‍ സജീവമാക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക (പരിഷ്കരണം ലഭ്യമല്ല).">
+ <!ENTITY checkForUpdates                                     "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക…">
+
+
 
