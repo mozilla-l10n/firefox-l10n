@@ -84,7 +84,7 @@
 <!ENTITY enableSearchUpdate.label        "Maschinas da tschertgar">
 <!ENTITY enableSearchUpdate.accesskey    "s">
 
-<!ENTITY offlineNotify.label             "Dumandar ina conferma, sche websites vulan memorisar datas per l'utilisaziun en il modus offline.">
+<!ENTITY offlineNotify.label             "Dumandar en cas che websites vulan memorisar datas per l'utilisaziun offline">
 <!ENTITY offlineNotify.accesskey         "v">
 <!ENTITY offlineNotifyExceptions.label   "Excepziuns...">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
