@@ -40,6 +40,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Særa féuggio">
 <!ENTITY  closeTab.accesskey                 "S">
 
+<!ENTITY sharePageCmd.commandkey "l">
+
 <!ENTITY  listAllTabs.label      "Lìsta de tùtti i féuggi">
 
 <!ENTITY tabCmd.label "Nêuvo féuggio">
@@ -620,6 +622,9 @@ toolbar button -->
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.commandkey "v">
 
+<!ENTITY devToolbar.keycode "VK_F2">
+<!ENTITY devToolbar.keytext "F2">
+
 <!ENTITY enterFullScreenCmd.label "Vànni a tùtto schèrmo">
 <!ENTITY enterFullScreenCmd.accesskey "h">
 <!ENTITY exitFullScreenCmd.label "Sciòrti da a tùtto schèrmo">
@@ -643,3 +648,8 @@ toolbar button -->
 <!ENTITY responsiveDesignTool.commandkey "V">
 
 <!ENTITY webConsoleButton.label "Console web">
+
+<!ENTITY social.sharePopup.undo.label "No condivìdde ciù">
+<!ENTITY social.sharePopup.undo.accesskey "ù">
+<!ENTITY social.sharePopup.ok.label "Va bén">
+<!ENTITY social.sharePopup.ok.accesskey "b">
