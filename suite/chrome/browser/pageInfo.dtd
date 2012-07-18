@@ -15,7 +15,7 @@
 <!ENTITY  selectall.accesskey    "A">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-<!ENTITY  copyLinks.label           "立即壓實重整 (&m)">
+<!ENTITY  copyLinks.label           "複製鏈結">
 <!ENTITY  copyLinks.accesskey       "L">
 <!ENTITY  openInNewTab.label        "以新分頁開啟">
 <!ENTITY  openInNewTab.accesskey    "T">
