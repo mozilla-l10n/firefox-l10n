@@ -13,5 +13,5 @@
 <!ENTITY addresses.heading           "住址">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "顯示地圖">
-<!ENTITY mapIt.tooltip               "試圖從網路上找到這個地點的地圖">
+<!ENTITY mapIt.tooltip               "顯示此地址的網路地圖">
 

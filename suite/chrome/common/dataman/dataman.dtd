@@ -65,7 +65,7 @@
 <!ENTITY perm.NeverSave "永不儲存">
 <!ENTITY perm.Allow "允許">
 <!ENTITY perm.AllowSameDomain "允許同網域">
-<!ENTITY perm.AllowSession "此瀏覽階段中允許">
+<!ENTITY perm.AllowSession "允許於此瀏覽階段">
 <!ENTITY perm.Block "封鎖">
 
 <!ENTITY perm.host.placeholder "輸入一個主機名稱">
