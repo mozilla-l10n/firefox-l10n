@@ -660,3 +660,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.accesskey "U">
 <!ENTITY social.sharePopup.ok.label       "確定">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
+<!ENTITY social.sharePopup.shared.label   "您分享了此頁面。">
+<!ENTITY social.sharePopup.portrait.arialabel "使用者頭像">
