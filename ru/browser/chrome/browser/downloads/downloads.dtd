@@ -4,6 +4,7 @@
 
 <!ENTITY indicator.tooltiptext "Загрузки">
 <!ENTITY downloads.title "Загрузки">
+<!ENTITY downloads.width "65ch">
 <!ENTITY cmd.pause.label "Приостановить">
 <!ENTITY cmd.pause.accesskey "н">
 <!ENTITY cmd.resume.label "Возобновить">
