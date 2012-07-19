@@ -10,7 +10,7 @@
 <!ENTITY aboutProduct.label "Acerca de &brandShortName;">
 <!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label "Ayuda sobre &brandShortName;">
-<!ENTITY productHelp.accesskey "A">
+<!ENTITY productHelp.accesskey "Y">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Reiniciar con complementos deshabilitados">
 <!ENTITY helpSafeMode.accesskey "R">

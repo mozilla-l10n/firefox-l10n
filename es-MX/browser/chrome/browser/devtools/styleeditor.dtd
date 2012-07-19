@@ -1,5 +1,5 @@
 <!ENTITY window.title "Editor de estilos">
-<!ENTITY newButton.label "Nuevo">
+<!ENTITY newButton.label "Nueva">
 <!ENTITY newButton.tooltip "Crear y adjuntar una nueva hoja de estilos al documento">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY newButton.commandkey "n">
@@ -16,7 +16,7 @@
 <!ENTITY scoped.label "En el ámbito.">
 <!ENTITY editorTextbox.placeholder "Escribe CSS aquí.">
 <!ENTITY noStyleSheet.label "Esta página no tiene hoja de estilos.">
-<!ENTITY noStyleSheet-tip-start.label "Quizás le gustaría ">
+<!ENTITY noStyleSheet-tip-start.label "¿Quizás te gustaría ">
 <!ENTITY noStyleSheet-tip-action.label "adjuntar una nueva hoja de estilos">
 <!ENTITY noStyleSheet-tip-end.label "?">
 <!ENTITY closeCmd.key "W">
