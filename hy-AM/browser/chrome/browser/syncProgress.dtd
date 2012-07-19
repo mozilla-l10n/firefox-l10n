@@ -10,6 +10,6 @@
 <!ENTITY syncProgress.pageTitle    "Ձեր առաջին Sync-ը">
 <!ENTITY syncProgress.textBlurb    "Your data is now being encrypted and uploaded in the background. You can close this tab and continue using &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Փակել">
-<!ENTITY syncProgress.logoAltText  "&brandShortName; logo">
+<!ENTITY syncProgress.logoAltText  "&brandShortName;-ի լոգոն">
 <!ENTITY syncProgress.diffText     "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
 

@@ -7,7 +7,7 @@
 
 <!ENTITY allowScripts.label             "Գրվածքներին թույլատրել.">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
+<!ENTITY moveResizePopupWindows.label     "Տեղափոխել կամ փոխել հայտնվող պատուհանի չափը">
 <!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Բարձրացնել կամ թաքցնել պատուհանները">
 <!ENTITY raiseLowerWindows.accesskey    "R">
