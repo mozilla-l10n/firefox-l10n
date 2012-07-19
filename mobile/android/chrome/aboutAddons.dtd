@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Cuir an comas">
 <!ENTITY addonAction.disable                    "Cuir à comas">
 <!ENTITY addonAction.uninstall                  "Dì-stàlaich">
-<!ENTITY addonAction.cancel                     "Sguir dheth">
+<!ENTITY addonAction.undo                       "Neo-dhèan">

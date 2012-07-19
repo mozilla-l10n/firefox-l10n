@@ -24,6 +24,9 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Gnog an-seo gus am plugan a chur an gnìomh.">
 <!ENTITY clickToPlayPlugin                                   "Briog an-seo gus am plugan a chur an gnìomh.">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Briog an-seo gus am plugan so-leònta a ghnìomhachadh.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Briog an-seo gus am plugan so-leònta a ghnìomhachadh (chan eil ùrachadh ri fhaighinn).">
+<!ENTITY checkForUpdates                                     "Lorg ùrachaidhean...">
 <!ENTITY disabledPlugin                                      "Chaidh am plugan seo a chur à comas.">
 <!ENTITY blockedPlugin.label                                 "Chaidh cas a chur air a' phlugan seo a chum do thèarainteachd.">
 

@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Dùin an taba">
 <!ENTITY new_tab "Taba ùr">
+<!ENTITY one_tab "1 taba">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d taba(ichean)">
@@ -86,6 +87,7 @@
 <!ENTITY pref_font_size_xlarge "Anabarrach mòr">
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
+<!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
 <!ENTITY pref_private_data_history "Eachdraidh a\' bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
@@ -99,10 +101,12 @@
 
 <!ENTITY addons "Tuilleadain">
 <!ENTITY downloads "Luchdaidhean a-nuas">
+<!ENTITY apps "Aplacaidean">
 <!ENTITY char_encoding "Còdachadh charactaran">
 
 <!ENTITY share "Co-roinn">
 <!ENTITY share_title "Co-roinn slighe">
+<!ENTITY share_image_failed "Cha ghabh an dealbh seo a cho-roinneadh">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
 <!ENTITY find_in_page "Lorg san duilleag">
 <!ENTITY desktop_mode "Iarr làrach nan desktop">
@@ -138,9 +142,10 @@
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
 
-<!ENTITY add_to_reading_list "Cuir ris an liosta leughaidh">
+<!ENTITY reading_list "An liosta leughaidh">
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
+<!ENTITY reading_list_failed "Cha b\' urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
 <!ENTITY reader_mode "Am modh leughaidh">
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
@@ -182,6 +187,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a tha \'ga ruith le">
 
+<!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
+<!ENTITY private_data_fail "Cha b\' urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
+
 <!ENTITY bookmarkhistory_button_import "Ion-phortaich">
 <!ENTITY bookmarkhistory_import_both "Ag ion-phortadh nan comharra-lìn 
 is na h-eachdraidh o Android">
@@ -191,5 +199,4 @@ o Android">
 o Android">
 <!ENTITY bookmarkhistory_import_wait "Fuirich ort…">
 
-<!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
-<!ENTITY private_data_fail "Cha b\' urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
+<!ENTITY webapp_generic_name "Aplacaid">
