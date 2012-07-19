@@ -49,6 +49,7 @@
 
 <!ENTITY close_tab "Fermer l\u0027onglet">
 <!ENTITY new_tab "Nouvel onglet">
+<!ENTITY one_tab "1 onglet">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d onglets">
@@ -81,6 +82,7 @@
 <!ENTITY pref_font_size_xlarge "Très grande">
 <!ENTITY pref_use_master_password "Mot de passe principal">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Afficher les suggestions de recherche">
 <!ENTITY pref_import_android "Importer depuis Android">
 <!ENTITY pref_private_data_history "Historique de navigation et des téléchargements">
 <!ENTITY pref_private_data_formdata "Historique des formulaires et des recherches">
@@ -89,16 +91,17 @@
 <!ENTITY pref_private_data_sessions "Connexions actives">
 <!ENTITY pref_private_data_offlineApps "Données de site Web hors connexion">
 <!ENTITY pref_private_data_siteSettings "Préférences de site">
-<!ENTITY pref_search_suggestions "Afficher les suggestions de recherche">
 
 <!ENTITY quit "Quitter">
 
 <!ENTITY addons "Modules complémentaires">
 <!ENTITY downloads "Téléchargements">
+<!ENTITY apps "Applications">
 <!ENTITY char_encoding "Encodage de caractères">
 
 <!ENTITY share "Partager">
 <!ENTITY share_title "Partager à l\u0027aide de">
+<!ENTITY share_image_failed "Impossible de partager cette image">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
 <!ENTITY find_in_page "Rechercher dans la page">
 <!ENTITY desktop_mode "Voir version ordinateur">
@@ -134,9 +137,10 @@
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Il n\u0027y a pas de paramètre à effacer.">
 
-<!ENTITY add_to_reading_list "Ajouter à la liste de lecture">
+<!ENTITY reading_list "Liste de lecture">
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
+<!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
 <!ENTITY reader_mode "Mode de lecture">
 
 <!ENTITY masterpassword_create_title "Créer un mot de passe principal">
@@ -186,3 +190,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_bookmarks "Importation des marque-pages depuis Android">
 <!ENTITY bookmarkhistory_import_history "Importation de l\u0027historique depuis Android">
 <!ENTITY bookmarkhistory_import_wait "Veuillez patienter…">
+
+<!ENTITY webapp_generic_name "application">
