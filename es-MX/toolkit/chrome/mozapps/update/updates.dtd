@@ -55,11 +55,11 @@
 <!ENTITY finishedBackgroundPage.text "Se ha descargado una actualización de seguridad y estabilidad para &brandShortName;
                                            y está lista para ser instalada.">
 <!ENTITY finishedBackground.name "Actualización:">
-<!ENTITY finishedBackground.more "La actualización se instalará cuando reinicie &brandShortName;. Puede
-                                           hacerlo ahora o dejarlo para más tarde mientras continúa trabajando.">
+<!ENTITY finishedBackground.more "La actualización se instalará cuando reinicies &brandShortName;. Puedes
+                                           hacerlo ahora o dejarlo para más tarde mientras continúas trabajando.">
 <!ENTITY installed.title "Actualización instalada">
 <!ENTITY installed.intro "La actualización se instaló correctamente.">
-<!ENTITY whatsnew.label "Lea más acerca de las novedades…">
+<!ENTITY whatsnew.label "Lee más acerca de las novedades…">
 <!ENTITY update.details.label "Detalles">
 <!ENTITY update.installedOn.label "Instalado en:">
 <!ENTITY update.status.label "Estado:">
