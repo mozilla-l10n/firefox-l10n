@@ -19,7 +19,7 @@
 <!ENTITY incompatibleCheck.title "Comprobando la compatibilidad de los complementos">
 <!ENTITY incompatibleCheck.label "Buscando la versión más reciente de tus complementos…">
 <!ENTITY clickHere.label "Ver más información sobre esta actualización">
-<!ENTITY evangelism.desc "Le recomendamos ampliamente instalar esta 
+<!ENTITY evangelism.desc "Es ampliamente recomendado instalar esta 
                                            actualización de &brandShortName; lo antes posible.">
 <!ENTITY license.instructions "Si estás de acuerdo con los términos de este acuerdo, da clic en Estoy de acuerdo
                                            para continuar con la instalación.">
@@ -32,7 +32,7 @@
 <!ENTITY license.decline.accesskey "t">
 <!ENTITY incompatibleList.title "Hay complementos incompatibles">
 <!ENTITY downloadPage.title "Descargando &brandShortName;">
-<!ENTITY downloading.intro "Descargando la actualización…">
+<!ENTITY downloading.intro "Descargando actualización…">
 <!ENTITY connecting.label "Conectando con el servidor de actualizaciones…">
 <!ENTITY verificationFailedText.label "&brandShortName; no pudo verificar la integridad de la
                                            actualización incremental descargada, ahora se descargará
