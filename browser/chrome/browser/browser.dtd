@@ -441,7 +441,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey    "M">
 <!ENTITY bookmarkThisFrameCmd.label       "Marque-page sur ce cadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey   "M">
-<!ENTITY emailPageCmd.label           "Envoyer un lien vers la page par courriel…">
+<!ENTITY emailPageCmd.label           "Envoyer par courriel un lien vers la page…">
 <!ENTITY emailPageCmd.accesskey       "n">
 <!ENTITY savePageCmd.label            "Enregistrer sous…">
 <!ENTITY savePageCmd.accesskey        "E">
