@@ -141,7 +141,7 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
-<!ENTITY private_data_success "Личные данные вычищены">
+<!ENTITY private_data_success "Личные данные удалены">
 <!ENTITY private_data_fail "Не удалось удалить некоторые личные данные">
 <!ENTITY bookmarkhistory_button_import "Импорт">
 <!ENTITY bookmarkhistory_import_both "Импорт закладок и истории из Android">
