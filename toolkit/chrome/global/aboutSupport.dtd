@@ -26,6 +26,9 @@ Esta página presenta información técnica que puede ser de ayuda si necesitas 
 <!ENTITY aboutSupport.graphicsTitle "Gráficas">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Recogida de basura incremental">
+<!ENTITY aboutSupport.a11yTitle "Accesibilidad">
+<!ENTITY aboutSupport.a11yActivated "Activado">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotecas">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">

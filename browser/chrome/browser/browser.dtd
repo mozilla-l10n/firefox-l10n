@@ -84,6 +84,7 @@
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Agregar esta página a marcadores">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
@@ -136,7 +137,7 @@
 <!ENTITY historySidebarCmd.accesskey "r">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Herramientas">
-<!ENTITY toolsMenu.accesskey "H">
+<!ENTITY toolsMenu.accesskey "t">
 <!ENTITY keywordfield.label "Establecer una palabra clave para esta búsqueda…">
 <!ENTITY keywordfield.accesskey "p">
 <!ENTITY search.label "Buscar en la web">
@@ -173,10 +174,10 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey "v">
-<!ENTITY devToolbar.commandkey "v">
+<!ENTITY devToolbar.keycode "VK_F2">
+<!ENTITY devToolbar.keytext "F2">
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
@@ -319,8 +320,8 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "l">
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este marco a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "Enviar dirección de esta página por correo…">
-<!ENTITY sendPageCmd.accesskey "e">
+<!ENTITY emailPageCmd.label "Email Link…">
+<!ENTITY emailPageCmd.accesskey "E">
 <!ENTITY savePageCmd.label "Guardar como…">
 <!ENTITY savePageCmd.accesskey "G">
 <!ENTITY savePageCmd.accesskey2 "P">
@@ -331,20 +332,18 @@
 <!ENTITY printFrameCmd.accesskey "P">
 <!ENTITY saveLinkCmd.label "Guardar vínculo como…">
 <!ENTITY saveLinkCmd.accesskey "g">
-<!ENTITY sendLinkCmd.label "Enviar enlace por correo…">
-<!ENTITY sendLinkCmd.accesskey "l">
 <!ENTITY saveImageCmd.label "Guardar imagen como…">
 <!ENTITY saveImageCmd.accesskey "u">
 <!ENTITY saveVideoCmd.label "Guardar video como…">
 <!ENTITY saveVideoCmd.accesskey "G">
 <!ENTITY saveAudioCmd.label "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey "G">
-<!ENTITY sendImageCmd.label "Enviar imagen por correo…">
-<!ENTITY sendImageCmd.accesskey "n">
-<!ENTITY sendVideoCmd.label "Enviar video…">
-<!ENTITY sendVideoCmd.accesskey "n">
-<!ENTITY sendAudioCmd.label "Enviar audio…">
-<!ENTITY sendAudioCmd.accesskey "n">
+<!ENTITY emailImageCmd.label "Email Image…">
+<!ENTITY emailImageCmd.accesskey "a">
+<!ENTITY emailVideoCmd.label "Email Video…">
+<!ENTITY emailVideoCmd.accesskey "a">
+<!ENTITY emailAudioCmd.label "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageCmd.label "Copiar dirección de la imagen">
@@ -457,10 +456,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey "Y">
-<!ENTITY syncSyncNowItem.label "Sincronizar Ahora">
+<!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY markupButton.arialabel "Marcado">
 <!ENTITY markupButton.accesskey "M">
+<!ENTITY socialToolbar.title "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label "Not logged in">
+<!ENTITY social.sharePopup.undo.label "Unshare">
+<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.ok.label "OK">
+<!ENTITY social.sharePopup.ok.accesskey "O">
