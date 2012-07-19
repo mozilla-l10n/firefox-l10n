@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Feuch ris a-rithist">
 <!ENTITY sync.button.manual.label "Suidheachadh a làimh">
 <!ENTITY sync.subtitle.nointernet.label "Chan eil ceangal ris an lìon ann.">
+<!ENTITY sync.subtitle.failaccount.label "Dh\'fhàillig cruthachadh a\' chunntais air an uidheam agad.">
+<!ENTITY sync.subtitle.failmultiple.label "A bheil barrachd air aon Firefox air stàladh agad? Chan eil &syncBrand.fullName.label; a\' cur taic ach ri aon stàladh de Firefox aig an aon àm. Thoir air falbh an fheadhainn eile mus cleachd thu &syncBrand.fullName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Tha an suidheachadh deiseil">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.fullName.label;.">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "Tha ainm a\' chunntais no am facal-faire cearr.">
+<!ENTITY sync.invalidserver.label "Cuir a-steach URL frithealaiche dligheach">
+<!ENTITY sync.verifying.label "\'Ga dhearbhadh…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Tha an iuchair aisig cearr. Feuch ris a-rithist.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Cuir an taba dha na h-uidheaman">
+<!ENTITY sync.button.send.label "Cuir">
+<!ENTITY sync.button.set.up.sync.label "Suidhich &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Suidhich &syncBrand.shortName.label; gus tabaichean a chur">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Suidhich &syncBrand.shortName.label; air an uidheam agad gus tabaichean a chur gu uidheaman eile.">
+<!ENTITY sync.text.tab.sent.label "Chaidh an taba agad a chur!">
