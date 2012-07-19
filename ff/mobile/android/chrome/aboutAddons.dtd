@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Daaƴtu">
 <!ENTITY addonAction.disable                    "Daaƴ">
 <!ENTITY addonAction.uninstall                  "Momtu">
-<!ENTITY addonAction.cancel                     "Haaytu">
+<!ENTITY addonAction.undo                       "Firtu">

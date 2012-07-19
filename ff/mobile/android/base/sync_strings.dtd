@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Eto goɗngol">
 <!ENTITY sync.button.manual.label "Teelte junngol">
 <!ENTITY sync.subtitle.nointernet.label "Alaa ceŋol enternet woodi.">
+<!ENTITY sync.subtitle.failaccount.label "Cosgol konte e kaɓirgol maa woorii.">
+<!ENTITY sync.subtitle.failmultiple.label "Aɗa jogii ko ɓuri aafannde wootere Firefox? Oo sahaa, &syncBrand.fullName.label; jaɓata tan ko aafannde Firefox wootere laawol gootol. Tiiɗno aaftu cili goɗɗi ɗii ngam huutoraade &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Teeltagol Gasii">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Ko konte &syncBrand.fullName.label; goote tan tammbitaa.">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "Innde konte walla finnde peewaani.">
+<!ENTITY sync.invalidserver.label "Tiiɗno naatnu URL sarworde moƴƴo">
+<!ENTITY sync.verifying.label "Nana ƴeewtoo…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Kelal Sync moƴƴaani. Tiiɗno fuɗɗito.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Neldu Tabbere To Kaɓirɗi">
+<!ENTITY sync.button.send.label "Neldu">
+<!ENTITY sync.button.set.up.sync.label "Teelto &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Teelto &syncBrand.shortName.label; ngam neldude tabbe">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Teelto &syncBrand.fullName.label; e kaɓirgol maa ngam neldude tabbe to kaɓirɗi goeei.">
+<!ENTITY sync.text.tab.sent.label "Tabbere maa neldaama!">

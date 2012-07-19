@@ -72,10 +72,10 @@
 <!ENTITY update.downloading.start   "Nana aawtoo kesɗitinal — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Nana jammina ksɗitinal…">
+<!ENTITY update.applying            "Nana jammina kesɗitinal…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Ngon-ɗaa jooni ko e calol kesɗitingol yamre ">
-<!ENTITY channel.description.end    " ndee. ">
+<!ENTITY channel.description.start  "Ngon-ɗaa jooni ko e calol kesɗitingol">
+<!ENTITY channel.description.end    ".">
