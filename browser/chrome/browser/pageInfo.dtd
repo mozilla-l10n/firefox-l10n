@@ -64,7 +64,7 @@
 <!ENTITY  permPopup             "Բացել Pop-up Պատուհանները">
 <!ENTITY  permCookie            "Տեղադրել Քուուկի">
 <!ENTITY  permInstall           "Տեղակայել Ընդլայնումներ կամ Թեմաներ">
-<!ENTITY  permGeo               "Ցուցադրել Տեղամասը">
+<!ENTITY  permGeo               "Հայտնել գտնվելուս վայրը">
 <!ENTITY  permPlugins           "Activate Plugins">
 <!ENTITY  permFullscreen        "Enter Fullscreen">
 

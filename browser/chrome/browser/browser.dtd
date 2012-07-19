@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Է">
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել Այս Էջը">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
@@ -214,9 +215,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Զննել տարրը">
 <!ENTITY inspectContextMenu.accesskey "Զ">
 
-<!ENTITY responsiveDesignTool.label            "Responsive Mode">
-<!ENTITY responsiveDesignTool.accesskey        "R">
-<!ENTITY responsiveDesignTool.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -238,11 +239,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY webConsoleButton.label "Վեբ կոնսոլ">
 <!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -438,8 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Եջանշել Այս Ենթապատուհանը">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY sendPageCmd.label            "Ուղարկել Հղումը…">
-<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Պահպանել Էջը Որպես…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -451,20 +452,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "Տ">
 <!ENTITY saveLinkCmd.label            "Պահպանել Հղումը Որպես…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "Ուղարկել Հղումը…"> 
-<!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "Պահպանել Նկարը Որպես…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Պահել Տեսագրությունը Որպես...">
 <!ENTITY saveVideoCmd.accesskey       "Պ">
 <!ENTITY saveAudioCmd.label           "Պահել Ձայնագրությունը Որպես...">
 <!ENTITY saveAudioCmd.accesskey       "Պ">
-<!ENTITY sendImageCmd.label           "Ուղարկել Նկարը…">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Ուղարկել Տեսագրություն...">
-<!ENTITY sendVideoCmd.accesskey       "Ո">
-<!ENTITY sendAudioCmd.label           "Ուղարկել Ձայնագրություն...">
-<!ENTITY sendAudioCmd.accesskey       "Ո">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Պատճենել հղման հասցեն">
 <!ENTITY copyLinkCmd.accesskey        "Կ">
 <!ENTITY copyImageCmd.label           "Կրկնել Նկարի Հասցեն">
@@ -504,7 +503,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "Թ">
 <!ENTITY videoFullScreen.label       "Լիաէկրան ռեժիմ">
 <!ENTITY videoFullScreen.accesskey   "Լ">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.label        "Պահպանել մանրապատկերը...">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -653,3 +652,11 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label   "Not logged in">
+
+<!ENTITY social.sharePopup.undo.label     "Unshare">
+<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.ok.label       "OK">
+<!ENTITY social.sharePopup.ok.accesskey   "O">
