@@ -51,7 +51,7 @@
 <!ENTITY addonBarCmd.label "Barra de complemento">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "c">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -136,7 +136,7 @@
 <!ENTITY historySidebarCmd.accesskey "r">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Herramientas">
-<!ENTITY toolsMenu.accesskey "H">
+<!ENTITY toolsMenu.accesskey "t">
 <!ENTITY keywordfield.label "Establecer una palabra clave para esta búsqueda…">
 <!ENTITY keywordfield.accesskey "p">
 <!ENTITY search.label "Buscar en la web">
@@ -180,7 +180,7 @@
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "O">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "e">
 <!ENTITY inspectorHTMLDelete.label "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "B">
 <!ENTITY inspectOptionButton.tooltiptext "Inspector Options">
@@ -193,7 +193,7 @@
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor de estilos">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.accesskey "E">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
@@ -457,7 +457,7 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey "Y">
-<!ENTITY syncSyncNowItem.label "Sincronizar Ahora">
+<!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
