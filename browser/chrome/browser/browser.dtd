@@ -662,5 +662,7 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.accesskey "A">
 <!ENTITY social.sharePopup.ok.label       "OK">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
+<!ENTITY social.sharePopup.shared.label   "Vous avez partagé cette page.">
+<!ENTITY social.sharePopup.portrait.arialabel "Photo de profil de l'utilisateur">
 <!ENTITY social.toggleSidebar.label "Afficher le panneau latéral">
 <!ENTITY social.toggleSidebar.accesskey "f">
