@@ -49,7 +49,7 @@
 <!ENTITY personalbarCmd.accesskey "M">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de marcadores">
 <!ENTITY addonBarCmd.label "Barra de complemento">
-<!ENTITY addonBarCmd.accesskey "A">
+<!ENTITY addonBarCmd.accesskey "c">
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -84,6 +84,7 @@
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Agregar esta página a marcadores">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
@@ -136,7 +137,7 @@
 <!ENTITY historySidebarCmd.accesskey "r">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Herramientas">
-<!ENTITY toolsMenu.accesskey "H">
+<!ENTITY toolsMenu.accesskey "t">
 <!ENTITY keywordfield.label "Establecer una palabra clave para esta búsqueda…">
 <!ENTITY keywordfield.accesskey "p">
 <!ENTITY search.label "Buscar en la web">
@@ -172,6 +173,9 @@
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
+<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbar.keycode "VK_F2">
+<!ENTITY devToolbar.keytext "F2">
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
@@ -452,10 +456,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey "Y">
-<!ENTITY syncSyncNowItem.label "Sincronizar Ahora">
+<!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY markupButton.arialabel "Marcado">
 <!ENTITY markupButton.accesskey "M">
+<!ENTITY socialToolbar.title "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label "Not logged in">
+<!ENTITY social.sharePopup.undo.label "Unshare">
+<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.ok.label "OK">
+<!ENTITY social.sharePopup.ok.accesskey "O">
+<!ENTITY social.sharePopup.shared.label "You shared this page.">
+<!ENTITY social.sharePopup.portrait.arialabel "User profile picture">
