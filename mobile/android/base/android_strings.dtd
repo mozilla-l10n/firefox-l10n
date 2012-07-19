@@ -47,9 +47,14 @@
 
 <!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
+<!ENTITY menu "Ընտրացանկ">
+<!ENTITY back "Նախորդ">
+<!ENTITY stop "Կանգնեցնել">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Փակել Էջը">
 <!ENTITY new_tab "Նոր էջ">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d tabs">
@@ -60,6 +65,7 @@
 <!ENTITY pref_category_general "Գլխավորը">
 <!ENTITY pref_category_privacy "Գաղտնիության &amp;Դրույթները">
 <!ENTITY pref_category_content "Պարունակություն">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
 <!ENTITY pref_do_not_track "Հաղորդել կայքերի մասին">
 <!ENTITY pref_telemetry "Ուղարկել արտադրողականության տվյալը">
@@ -68,10 +74,7 @@
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել ընտրացանկը">
 <!ENTITY pref_char_encoding_off "Չցուցադրե\լ ընտրացանկը">
-<!ENTITY pref_clear_history "Մաքրել պատմությունը">
-<!ENTITY pref_clear_history_confirm "Դիտարկման պատմությունը կջնջվի">
 <!ENTITY pref_clear_private_data "Մաքրել անձնական տվյալը">
-<!ENTITY pref_clear_private_data_confirm "Դիտարկման կարգավորումները, այդ թվում և գաղտնաբառերը և cookie-ները կջնջվեն:">
 <!ENTITY pref_plugins "Պլագիններ">
 <!ENTITY pref_plugins_enabled "Միացված">
 <!ENTITY pref_plugins_tap_to_play "Խաղարկել">
@@ -84,17 +87,29 @@
 <!ENTITY pref_font_size_xlarge "Շատ մեծ">
 <!ENTITY pref_use_master_password "Օգտ. գաղտնաբառերի պահոցը">
 <!ENTITY pref_sync "Սինք">
+<!ENTITY pref_search_suggestions "Show search suggestions">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies "Cookie-ներ">
+<!ENTITY pref_private_data_cache "Պահոցը">
+<!ENTITY pref_private_data_sessions "Active logins">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
 
 <!ENTITY quit "Փակել">
 
 <!ENTITY addons "Հավելումներ">
 <!ENTITY downloads "Բեռնումներ">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Գրանշանների Կոդավորումը">
 
 <!ENTITY share "Տարածել">
 <!ENTITY share_title "Տարածել՝">
+<!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "Պահպանել որպես PDF">
 <!ENTITY find_in_page "Find in Page">
+<!ENTITY desktop_mode "Request Desktop Site">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -108,6 +123,9 @@
 <!ENTITY contextmenu_remove_bookmark "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Ավելացնել Առաջին էջում">
 <!ENTITY contextmenu_share "Տարածել">
+<!ENTITY contextmenu_pasteandgo "Տեղադրել և&amp; Առաջ">
+<!ENTITY contextmenu_paste "Տեղադրել">
+<!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Խմբագրել">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -124,9 +142,10 @@
 <!ENTITY site_settings_clear        "Մաքրել">
 <!ENTITY site_settings_no_settings  "Չկան կարգավորումներ՝ ջնջելու համար:">
 
-<!ENTITY add_to_reading_list "Add to Reading List">
+<!ENTITY reading_list "Reading List">
 <!ENTITY reading_list_added "Page added to your Reading List">
 <!ENTITY reading_list_removed "Page removed from your Reading List">
+<!ENTITY reading_list_failed "Failed to add page to your Reading List">
 <!ENTITY reader_mode "Reader Mode">
 
 <!ENTITY masterpassword_create_title "Ստեղծել Հիմնական գաղտնաբառ">
@@ -136,6 +155,7 @@
 
 <!ENTITY button_ok "ԼԱՎ">
 <!ENTITY button_cancel "Չեղարկել">
+<!ENTITY button_clear_data "Clear data">
 
 <!ENTITY abouthome_addons_title "&brandShortName;-ի Հավելումները">
 <!ENTITY abouthome_addons_browse "Նայել &brandShortName;-ի  բոլոր հավելումները ">
@@ -166,3 +186,17 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "որը ղեկավարվում է">
+
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">
+
+<!ENTITY bookmarkhistory_button_import "Ներմուծել">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+
+<!ENTITY webapp_generic_name "App">
