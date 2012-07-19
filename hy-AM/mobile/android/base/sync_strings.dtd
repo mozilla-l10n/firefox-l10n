@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Կրկին փորձել'>
 <!ENTITY sync.button.manual.label 'Ձեռադիր կարգավորում'>
 <!ENTITY sync.subtitle.nointernet.label 'Ինտերնետ կապը հասանելի չէ:'>
+<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Տեղադրումը ավարտված է'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Հնարավոր է միայն մեկ &syncBrand.fullName.label; հաշվեկշիռ:'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.new.recoverykey.status.incorrect 'Վերականգնման բանալին սխալ է: կրկին փորձեք:'>
+<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
+<!ENTITY sync.invalidserver.label 'Please enter a valid server URL'>
+<!ENTITY sync.verifying.label 'Verifying…'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
+<!ENTITY sync.button.send.label 'Send'>
+<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
+<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
