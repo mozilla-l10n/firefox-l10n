@@ -1,5 +1,5 @@
 <!--null-->
-<!ENTITY intro.label "Seleccionó abrir">
+<!ENTITY intro2.label "You have chosen to open:">
 <!ENTITY from.label "de:">
 <!ENTITY actionQuestion.label "¿Qué debería hacer &brandShortName; con este archivo?">
 <!ENTITY openWith.label "Abrir con">
