@@ -556,8 +556,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Avsluta"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
-<!ENTITY goBackCmd.commandKey "Ö">
-<!ENTITY goForwardCmd.commandKey "Ä">
+<!ENTITY goBackCmd.commandKey "ö">
+<!ENTITY goForwardCmd.commandKey "ä">
 <!ENTITY quitApplicationCmd.label       "Avsluta"> 
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac.label    "Avsluta &brandShortName;">
