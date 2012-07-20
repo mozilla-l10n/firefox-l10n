@@ -18,8 +18,8 @@
 <!ENTITY copyCmd.accesskey              "o">
 <!ENTITY selectAllCmd.label             "Markera allt">
 <!ENTITY selectAllCmd.accesskey         "a">
-<!ENTITY goBackCmd.commandkey           "Ö">
-<!ENTITY goForwardCmd.commandkey        "Ä">
+<!ENTITY goBackCmd.commandkey           "ö">
+<!ENTITY goForwardCmd.commandkey        "ä">
 <!ENTITY homeButton.label               "Hem">
 <!ENTITY homeButton.tooltip             "Gå till startsidan för Hjälp">
 <!ENTITY printButton.label              "Skriv ut">
