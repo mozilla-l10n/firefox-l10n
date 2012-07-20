@@ -85,15 +85,27 @@
 <!ENTITY pref_font_size_medium "中">
 <!ENTITY pref_font_size_large "大">
 <!ENTITY pref_font_size_xlarge "特大">
+<!ENTITY pref_font_size_set "自訂">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "字">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. 作為非營利組織，我們站在您的立場進行創新，不向任何壓力妥協。您將能夠有更好的上網體驗，並讓網路有個更光明的未來。">
+
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
 <!ENTITY pref_private_data_history "瀏覽與下載紀錄">
 <!ENTITY pref_private_data_formdata "表單與搜尋紀錄">
-<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_cookies "Cookie 與目前的登入狀況">
+<!ENTITY pref_private_data_passwords "已存密碼">
 <!ENTITY pref_private_data_cache "快取">
-<!ENTITY pref_private_data_sessions "目前的登入狀況">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings "網站偏好設定">
 
