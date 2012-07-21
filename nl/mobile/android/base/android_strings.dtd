@@ -194,4 +194,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Een moment geduld…">
 
 <!ENTITY private_data_success "Privégegevens gewist">
-<!ENTITY private_data_fail "Sommige provégegevens konden niet worden gewist">
+<!ENTITY private_data_fail "Sommige privégegevens konden niet worden gewist">
