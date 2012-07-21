@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "YouSendIt">
-<!ENTITY fileExceedsQuota.storageLimitReached   "Storage limit reached">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Grænse for plads nået">
 <!ENTITY fileExceedsQuota.accept "Opgrader">
 <!ENTITY fileExceedsQuota.cancel "Annuller">
 <!ENTITY fileExceedsQuota.description "Du har ramt loftet på din tilgængelige plads på 2GB.">
