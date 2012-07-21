@@ -43,8 +43,16 @@
 
 <!ENTITY reload "Neu laden">
 <!ENTITY forward "Eine Seite vor">
+<!ENTITY menu "Menü">
+<!ENTITY back "Zurück">
+<!ENTITY stop "Anhalten">
+<!ENTITY site_security "Site-Sicherheit">
 
+<!ENTITY close_tab "Tab schließen">
 <!ENTITY new_tab "Neuer Tab">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d Tabs">
 <!ENTITY new_tab_opened "Neuer Tab geöffnet">
 
 <!ENTITY settings "Einstellungen">
@@ -52,6 +60,7 @@
 <!ENTITY pref_category_general "Allgemein">
 <!ENTITY pref_category_privacy "Privatsphäre &amp; Sicherheit">
 <!ENTITY pref_category_content "Inhalt">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Über &brandShortName;">
 <!ENTITY pref_do_not_track "Website mitteilen, dass ich nicht verfolgt werden möchte">
 <!ENTITY pref_telemetry "Performanz-Daten senden">
@@ -60,10 +69,7 @@
 <!ENTITY pref_char_encoding "Zeichenkodierung">
 <!ENTITY pref_char_encoding_on "Im Menü anzeigen">
 <!ENTITY pref_char_encoding_off "Nicht im Menü anzeigen">
-<!ENTITY pref_clear_history "Chronik löschen">
-<!ENTITY pref_clear_history_confirm "Die Browserchronik wird gelöscht">
 <!ENTITY pref_clear_private_data "Private Daten löschen">
-<!ENTITY pref_clear_private_data_confirm "Seitenspezifische Daten wie Passwörter und Cookies werden gelöscht">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Aktiviert">
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
@@ -76,6 +82,15 @@
 <!ENTITY pref_font_size_xlarge "Riesig">
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Import aus Android">
+<!ENTITY pref_private_data_history "Besuchte Seiten &amp; Download-Chronik">
+<!ENTITY pref_private_data_formdata "Eingegebene Suchbegriffe &amp; Formulardaten">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Aktive Logins">
+<!ENTITY pref_private_data_offlineApps "Offline-Website-Daten">
+<!ENTITY pref_private_data_siteSettings "Website-Einstellungen">
+<!ENTITY pref_search_suggestions "Suchvorschläge anzeigen">
 
 <!ENTITY quit "Beenden">
 
@@ -86,12 +101,29 @@
 <!ENTITY share "Teilen">
 <!ENTITY share_title "Teilen mittels">
 <!ENTITY save_as_pdf "Als PDF speichern">
+<!ENTITY find_in_page "In Seite suchen">
+<!ENTITY desktop_mode "Desktop-Seite anfordern">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "In Seite suchen">
+<!ENTITY find_prev "Rückwärts suchen">
+<!ENTITY find_next "Weitersuchen">
+<!ENTITY find_close "Schließen">
 
 <!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
+<!ENTITY contextmenu_remove_history "Löschen">
 <!ENTITY contextmenu_remove_bookmark "Löschen">
 <!ENTITY contextmenu_add_to_launcher "Zu Startbildschirm hinzufügen">
 <!ENTITY contextmenu_share "Teilen">
+<!ENTITY contextmenu_pasteandgo "Einfügen &amp; Los">
+<!ENTITY contextmenu_paste "Einfügen">
+<!ENTITY contextmenu_copyurl "Adresse kopieren">
 <!ENTITY contextmenu_edit_bookmark "Bearbeiten">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Seite vergessen">
 
 <!ENTITY bookmark_edit_title "Lesezeichen bearbeiten">
 <!ENTITY bookmark_edit_name "Name">
@@ -103,6 +135,11 @@
 <!ENTITY site_settings_clear        "Löschen">
 <!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar.">
 
+<!ENTITY add_to_reading_list "Zur Leseliste hinzufügen">
+<!ENTITY reading_list_added "Seite zu Ihrer Leseliste hinzugefügt">
+<!ENTITY reading_list_removed "Seite aus Ihrer Leseliste gelöscht">
+<!ENTITY reader_mode "Lese-Modus">
+
 <!ENTITY masterpassword_create_title "Master-Passwort festlegen">
 <!ENTITY masterpassword_remove_title "Master-Passwort entfernen">
 <!ENTITY masterpassword_password "Passwort">
@@ -110,6 +147,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Abbrechen">
+<!ENTITY button_clear_data "Daten löschen">
 
 <!ENTITY abouthome_addons_title "Add-ons für &brandShortName;">
 <!ENTITY abouthome_addons_browse "Alle &brandShortName;-Add-ons durchsehen">
@@ -125,3 +163,27 @@
 <!ENTITY filepicker_audio_title "Einen Ton auswählen oder aufnehmen">
 <!ENTITY filepicker_image_title "Ein Bild auswählen oder aufnehmen">
 <!ENTITY filepicker_video_title "Ein Video auswählen oder aufnehmen">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Sie sind verbunden mit">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "Diese Seite wird betrieben von">
+
+<!ENTITY bookmarkhistory_button_import "Importieren">
+<!ENTITY bookmarkhistory_import_both "Lesezeichen und Chronik von Android werden importiert">
+<!ENTITY bookmarkhistory_import_bookmarks "Lesezeichen von Android werden importiert">
+<!ENTITY bookmarkhistory_import_history "Chronik von Android wird importiert">
+<!ENTITY bookmarkhistory_import_wait "Bitte warten...">
+
+<!ENTITY private_data_success "Private Daten gelöscht">
+<!ENTITY private_data_fail "Einige private Daten konnten nicht gelöscht werden">
