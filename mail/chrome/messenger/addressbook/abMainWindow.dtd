@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Adressbuch">
 
 <!-- File Menu -->
@@ -160,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-Mail-Adresse">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Messenger-Name">
-<!ENTITY ScreenName.accesskey                           "s">
+<!ENTITY ChatName.label                                 "Chatname">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisation">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Spitzname">
@@ -194,6 +198,7 @@
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Privat">
 <!ENTITY other.heading                                  "Andere">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Dienstlich">
 <!-- Special Box Headings, for mailing lists -->

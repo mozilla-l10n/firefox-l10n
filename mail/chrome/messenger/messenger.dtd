@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "x">
 <!ENTITY newIMAccountCmd.label "Chat-Konto…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Chat-Kontakt…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
@@ -480,6 +486,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Beschäftigt">
 <!ENTITY imStatus.offline            "Nicht verbunden">
 <!ENTITY imStatus.showAccounts       "Konten anzeigen…">
+<!ENTITY joinChatCmd.label "Chat beitreten…">
+<!ENTITY joinChatCmd.accesskey "C">
 <!ENTITY savedFiles.label "Gespeicherte Dateien">
 <!ENTITY savedFiles.accesskey "G">
 <!ENTITY savedFiles.key "j">
@@ -773,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "T">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Diese Nachricht wurde als Junk eingestuft.">
+<!ENTITY junkBarMessage2.label "&brandShortName; hat diese Nachricht als Junk eingestuft.">
 <!ENTITY junkBarButton1.label "Kein Junk">
 <!ENTITY junkInfoButton.label "?">
 
