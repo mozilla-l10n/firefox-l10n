@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutAddons.title                      "Add-onbeheerder">
 <!ENTITY aboutAddons.header2                    "Uw add-ons">
 <!ENTITY aboutAddons.options                    "Opties">
@@ -5,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Inschakelen">
 <!ENTITY addonAction.disable                    "Uitschakelen">
 <!ENTITY addonAction.uninstall                  "De-installeren">
-<!ENTITY addonAction.cancel                     "Annuleren">
+<!ENTITY addonAction.undo                       "Ongedaan maken">
