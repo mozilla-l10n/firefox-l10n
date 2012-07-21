@@ -91,9 +91,8 @@
 <!ENTITY pref_import_android "Importera från Android">
 <!ENTITY pref_private_data_history "Surf- och filhämtningshistorik">
 <!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
-<!ENTITY pref_private_data_cookies "Kakor">
+<!ENTITY pref_private_data_cookies "Kakor och aktiva inloggningar">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Aktiva inloggningar">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
 
