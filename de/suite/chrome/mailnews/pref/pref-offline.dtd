@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "V">
 <!ENTITY mailnewsTimeoutSeconds.label     "Sekunden">
 <!ENTITY Diskspace                        "Speicherplatz">
-<!ENTITY offlineCompact.label             "Ordner komprimieren, wenn das mehr spart als">
-<!ENTITY offlineCompact.accesskey         "O">
-<!ENTITY mb.label                         "MB">
+<!ENTITY offlineCompactFolders.label      "Alle Ordner komprimieren, wenn dies insgesamt mehr als">
+<!ENTITY offlineCompactFolders.accesskey  "k">
+<!ENTITY offlineCompactFoldersMB.label    "MB einspart">
