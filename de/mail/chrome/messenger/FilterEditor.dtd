@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filter bearbeiten">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Filter-Name:">
@@ -40,3 +44,6 @@
 <!ENTITY ignoreSubthread.label "Unterthema ignorieren">
 <!ENTITY watchThread.label "Thema beobachten">
 <!ENTITY stopExecution.label "Filter stoppen">
+
+<!ENTITY addAction.tooltip "Weitere Aktion hinzufügen">
+<!ENTITY removeAction.tooltip "Aktion entfernen">
