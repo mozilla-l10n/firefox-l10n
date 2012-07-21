@@ -186,6 +186,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "welke wordt beheerd door">
 
+<!ENTITY private_data_success "Privégegevens gewist">
+<!ENTITY private_data_fail "Sommige privégegevens konden niet worden gewist">
+
 <!ENTITY bookmarkhistory_button_import "Importeren">
 <!ENTITY bookmarkhistory_import_both "Bladwijzers en geschiedenis importeren
                                       uit Android">
@@ -196,5 +199,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Een moment geduld…">
 
 <!ENTITY webapp_generic_name "App">
-<!ENTITY private_data_success "Privégegevens gewist">
-<!ENTITY private_data_fail "Sommige privégegevens konden niet worden gewist">
