@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY new_tab "Nueva pestaña">
+<!ENTITY one_tab "1 pestaña">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d pestañas">
@@ -86,6 +87,7 @@
 <!ENTITY pref_font_size_xlarge "Extra grande">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_private_data_history "Historial de navegación y descargas">
 <!ENTITY pref_private_data_formdata "Historial de navegación y búsqueda">
@@ -99,10 +101,12 @@
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY apps "Aplicaciones">
 <!ENTITY char_encoding "Codificación de caracteres">
 
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir vía">
+<!ENTITY share_image_failed "No se puede compartir esta imagen">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
@@ -138,9 +142,10 @@
 <!ENTITY site_settings_clear        "Borrar">
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
-<!ENTITY add_to_reading_list "Agregar a la lista de lectura">
+<!ENTITY reading_list "Lista de lectura">
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
+<!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
 <!ENTITY reader_mode "Modo lector">
 
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
@@ -194,3 +199,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          desde Android">
 <!ENTITY bookmarkhistory_import_wait "Esperá...">
 
+<!ENTITY webapp_generic_name "Aplicación"
+>
