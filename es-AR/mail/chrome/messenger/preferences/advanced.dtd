@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Habilitar indexado y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Desplazamiento">
+<!ENTITY useAutoScroll.label           "Usar autodesplazamiento">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Usar desplazamiento suave">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Integración con el sistema">
 <!ENTITY alwaysCheckDefault.label          "Siempre verificar si &brandShortName; es el cliente de correo predeterminado al iniciar">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
@@ -25,7 +32,7 @@
 <!ENTITY configEditDesc.label          "Configuración avanzada">
 <!ENTITY configEdit.label              "Editor de configuración…">
 <!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Determinar cómo &brandShortName; maneja los acuses de recibo">
+<!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los acuses de recibo">
 <!ENTITY showReturnReceipts.label      "Acuses de recibo…">
 <!ENTITY showReturnReceipts.accesskey  "r">
 
@@ -85,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "S">
 
 <!ENTITY Diskspace "Espacio en disco">
-<!ENTITY offlineCompact.label "Compactar carpetas cuando se recuperen más de">
-<!ENTITY offlineCompact.accesskey "e">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "Compactar carpetas cuando se recuperen más de">
+<!ENTITY offlineCompactFolders.accesskey "e">
+<!ENTITY offlineCompactFoldersMB.label   "MB en total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

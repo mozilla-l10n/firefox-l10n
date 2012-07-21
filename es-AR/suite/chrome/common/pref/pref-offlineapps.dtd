@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Aplicaciones web sin conexión">
+<!ENTITY pref.offlineCache.caption          "Contenido web y datos de usuario sin conexión">
+
+<!ENTITY clearOfflineAppCache.label         "Limpiar">
+<!ENTITY clearOfflineAppCache.accesskey     "L">
+
+<!ENTITY offlineNotify.label                "Informarme cuando un sitio web pida guardar datos para usar sin conexión.">
+<!ENTITY offlineNotify.accesskey            "n">
+<!ENTITY offlineNotifyPermissions.label     "Administrar permisos">
+<!ENTITY offlineNotifyPermissions.accesskey "p">
+
+<!ENTITY offlineAppsList.label              "Los siguientes sitios web tienen permitido guardar datos para uso sin conexión:">
+<!ENTITY offlineAppsListRemove.label        "Limpiar datos…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">

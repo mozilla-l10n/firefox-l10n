@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redactar: (sin asunto)">
 
@@ -79,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Acuse de recibo">
 <!ENTITY returnReceiptMenu.accesskey "A">
+<!ENTITY dsnMenu.label "Notificación de estado de entrega">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Acuse de recibo">
 <!ENTITY outputFormatMenu.accesskey  "A">
 <!ENTITY autoFormatCmd.label "Formato">

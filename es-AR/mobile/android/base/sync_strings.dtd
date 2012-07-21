@@ -41,7 +41,9 @@
 <!ENTITY sync.button.tryagain.label 'Intentar nuevamente'>
 <!ENTITY sync.button.manual.label 'Configuración manual'>
 <!ENTITY sync.subtitle.nointernet.label 'No hay conexión a internet disponible.'>
- 
+<!ENTITY sync.subtitle.failaccount.label 'Falló la creación de la cuenta en tu dispositivo.'>
+<!ENTITY sync.subtitle.failmultiple.label '¿Tenés más de un Firefox instalado? Actualmente &syncBrand.fullName.label; solamente soporta una instalación de Firefox a la vez. Desinstalá las otras instancias para usar &syncBrand.shortName.label;.'>
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuración completa'>
 <!ENTITY sync.subtitle.success.label1 'Tus datos ahora están siendo descargados en segundo plano. Podés ir a Opciones para administrar tu cuenta o comenzar a navegar con &brandShortName;.'>
@@ -78,5 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Solamente se soporta una cuenta de  &syncBrand.fullName.label;.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Nombre de cuenta o contraseña incorrecta.'>
+<!ENTITY sync.invalidserver.label 'Ingresá una URL de servidor válida'>
+<!ENTITY sync.verifying.label 'Verificando…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Clave de recuperación incorrecta. Intentá nuevamente.'>
 
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Enviar pestaña a dispositivos'>
+<!ENTITY sync.button.send.label 'Enviar'>
+<!ENTITY sync.button.set.up.sync.label 'Configurar &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar &syncBrand.shortName.label; para enviar pestañas'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar &syncBrand.fullName.label; en tu dispositivo para enviar pestañas a otros dispositivos.'>
+<!ENTITY sync.text.tab.sent.label '¡Tu pestaña fue enviada!'>
