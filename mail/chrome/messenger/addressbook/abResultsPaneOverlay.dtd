@@ -28,8 +28,8 @@
 <!ENTITY HomePhone.accesskey                   "v">
 <!ENTITY WorkPhone.label                       "Tel. dienstlich">
 <!ENTITY WorkPhone.accesskey                   "h">
-<!ENTITY ScreenName.label                      "Messenger-Name">
-<!ENTITY ScreenName.accesskey                  "s">
+<!ENTITY ChatName.label                        "Chatname">
+<!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Aufsteigend">
 <!ENTITY sortAscending.accesskey               "u">
 <!ENTITY sortDescending.label                  "Absteigend">
