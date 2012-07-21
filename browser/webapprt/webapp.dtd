@@ -8,7 +8,7 @@
    - provide them with some default functionality, like the standard OS
    - menus/menuitems. -->
 
-<!ENTITY fileMenu.label                     "Fil">
+<!ENTITY fileMenu.label                     "Filer">
 <!ENTITY fileMenu.accesskey                 "F">
 
 <!ENTITY quitApplicationCmdWin.label        "Afslut">
