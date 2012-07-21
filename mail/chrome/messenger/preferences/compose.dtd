@@ -33,7 +33,7 @@
 <!ENTITY autoSave.label "Gem automatisk hvert">
 <!ENTITY autoSave.accesskey "m">
 <!ENTITY autoSaveEnd.label "minut">
-<!ENTITY emailCollectionPicker.label "Tilføj mailadresser i:">
+<!ENTITY emailCollectionPicker.label "Tilføj automatisk modtageres mailadresser i:">
 <!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Autofuldførelse for adresser">
 <!ENTITY autocompleteText.label "Søg efter adresser i:">
