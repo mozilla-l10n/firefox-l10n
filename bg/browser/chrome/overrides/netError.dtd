@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -39,6 +43,9 @@
 
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
+<!ENTITY notCached.longDesc "<p>Исканият документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като мярка за безопасност, &brandShortName; не изтегля наново сенситивни документи.</li><li>Натиснете Опит отново за ново изтегляне на документа от сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Режим на работа извън мрежата">
 <!ENTITY netOffline.longDesc2 "<ul> 
