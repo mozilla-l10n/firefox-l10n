@@ -45,8 +45,7 @@
 <!ENTITY PlainText.label                "Reintext">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unbekannt">
-<!ENTITY ScreenName.label               "Messenger-Name:">
-<!ENTITY ScreenName.accesskey           "r">
+<!ENTITY chatName.label                 "Chatname:">
 
 <!ENTITY allowRemoteContent1.label      "Externe Inhalte erlauben">
 <!ENTITY allowRemoteContent1.accesskey  "t">
@@ -123,6 +122,25 @@
 <!ENTITY Notes.label                    "Notizen">
 <!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.accesskey                 "C">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
 <!ENTITY PhotoDesc.label                "Wählen Sie eine der folgenden Optionen:">
@@ -130,7 +148,7 @@
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Standard">
 <!ENTITY PhotoFile.label                "Auf diesem Computer">
-<!ENTITY PhotoFile.accesskey            "C">
+<!ENTITY PhotoFile.accesskey            "A">
 <!ENTITY BrowsePhoto.label              "Durchsuchen">
 <!ENTITY BrowsePhoto.accesskey          "D">
 <!ENTITY PhotoURL.label                 "Im Web">

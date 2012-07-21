@@ -57,3 +57,8 @@
 <!ENTITY showCookies.label              "Cookies anzeigen…">
 <!ENTITY showCookies.accesskey          "o">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Websites mitteilen, dass ich nicht verfolgt werden möchte">
+<!ENTITY doNotTrack.accesskey           "m">
+
+
