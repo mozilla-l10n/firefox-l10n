@@ -70,15 +70,18 @@
 <!ENTITY pref_font_size_medium "Medio">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Molto grande">
+<!ENTITY pref_font_size_set "Imposta">
+<!ENTITY pref_font_size_adjust_char "A">
+<!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
 <!ENTITY pref_import_android "Importa da Android">
 <!ENTITY pref_private_data_history "Cronologia navigazione e download">
 <!ENTITY pref_private_data_formdata "Moduli e ricerche">
-<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_cookies "Cookie e accessi attivi">
+<!ENTITY pref_private_data_passwords "Password salvate">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Accessi effettuati">
 <!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
 <!ENTITY pref_private_data_siteSettings "Preferenze dei siti">
 <!ENTITY quit "Esci">
