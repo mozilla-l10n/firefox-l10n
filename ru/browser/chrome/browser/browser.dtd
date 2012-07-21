@@ -475,3 +475,5 @@
 <!ENTITY social.sharePopup.ok.accesskey "O">
 <!ENTITY social.sharePopup.shared.label "Вы поделились этой страницей.">
 <!ENTITY social.sharePopup.portrait.arialabel "Фото профиля пользователя">
+<!ENTITY social.toggleSidebar.label "Показать боковую панель">
+<!ENTITY social.toggleSidebar.accesskey "з">
