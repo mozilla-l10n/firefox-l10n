@@ -662,3 +662,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.ok.accesskey   "O">
 <!ENTITY social.sharePopup.shared.label   "Du delade ut denna sida.">
 <!ENTITY social.sharePopup.portrait.arialabel "Användarprofilbild">
+<!ENTITY social.toggleSidebar.label "Visa sidofält">
+<!ENTITY social.toggleSidebar.accesskey "V">
