@@ -91,9 +91,8 @@
 <!ENTITY share_image_failed "Impossibile condividere questa immagine">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY find_in_page "Trova nella pagina">
-<!ENTITY desktop_mode "Richiedi versione desktop">
-<!ENTITY find_text "Trova nella pagina">
 <!ENTITY desktop_mode "Modalità desktop">
+<!ENTITY find_text "Trova nella pagina">
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
 <!ENTITY find_close "Chiudi">
