@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Feed-Abonnements">
 <!ENTITY subscriptionDesc.label      "Hinweis: Entfernen oder Ändern des Ordners für einen Feed hat keinen Einfluss auf zuvor abgerufene Artikel.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportieren">
 <!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.exportOPML.tooltip   "Feeds mit Ordnerstruktur exportieren; Strg + Klick oder Strg + Eingabetaste exportiert die Feeds als Liste">
 
 <!ENTITY cmd.close.commandKey        "w">

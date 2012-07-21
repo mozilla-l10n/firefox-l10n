@@ -32,7 +32,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Anschließend können Sie mit den importierten Daten in &brandShortName; arbeiten.">
 
 <!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei, aus der Sie importieren wollen:">
+<!ENTITY selectDescriptionB.label "Bitte wählen Sie ein bestehendes Konto oder erstellen Sie ein neues Konto:">
 <!ENTITY selectDescription.accesskey "B">
+<!ENTITY acctName.label           "Name:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Zurück">
 <!ENTITY forward.label            "Weiter &gt;">
