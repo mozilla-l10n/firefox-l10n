@@ -1,22 +1,22 @@
-<!ENTITY dialog.title "Обратни разписки">
-<!ENTITY requestReceipt.label "При изпращане на писмо, винаги се изисква обратна разписка">
-<!ENTITY requestReceipt.accesskey "П">
-<!ENTITY receiptArrive.label "При пристигане на обратна разписка:">
-<!ENTITY leaveIt.label "Остава в Пощенска кутия">
-<!ENTITY leaveIt.accesskey "О">
-<!ENTITY moveToSent.label "Премества се в папка &quot;Изпратени&quot;">
-<!ENTITY moveToSent.accesskey "р">
-<!ENTITY requestMDN.label "Когато се получи заявка за обратна разписка:">
-<!ENTITY never.label "Никога не се изпраща обратна разписка">
-<!ENTITY never.accesskey "Н">
-<!ENTITY returnSome.label "Изпраща се обратна разписка според следните правила">
-<!ENTITY returnSome.accesskey "И">
-<!ENTITY notInToCc.label "Ако не съм в До или Копие на писмото:">
-<!ENTITY notInToCc.accesskey "А">
-<!ENTITY outsideDomain.label "Ако подателя е извън моя домейн:">
-<!ENTITY outsideDomain.accesskey "к">
-<!ENTITY otherCases.label "Във всички други случаи:">
-<!ENTITY otherCases.accesskey "В">
-<!ENTITY askMe.label "Пита">
-<!ENTITY alwaysSend.label "Изпраща">
-<!ENTITY neverSend.label "Не изпраща">
+<!ENTITY dialog.title                  "Обратни разписки">
+<!ENTITY requestReceipt.label          "При изпращане на писмо, винаги се изисква обратна разписка">
+<!ENTITY requestReceipt.accesskey      "П">
+<!ENTITY receiptArrive.label           "При пристигане на обратна разписка:">
+<!ENTITY leaveIt.label                 "Остава в Пощенска кутия">
+<!ENTITY leaveIt.accesskey             "О">
+<!ENTITY moveToSent.label              "Премества се в папка &quot;Изпратени&quot;">
+<!ENTITY moveToSent.accesskey          "р">
+<!ENTITY requestMDN.label              "Когато се получи заявка за обратна разписка:">
+<!ENTITY never.label                   "Никога не се изпраща обратна разписка">
+<!ENTITY never.accesskey               "Н">
+<!ENTITY returnSome.label              "Изпраща се обратна разписка според следните правила">
+<!ENTITY returnSome.accesskey          "И">
+<!ENTITY notInToCc.label               "Ако не съм в До или Копие на писмото:">
+<!ENTITY notInToCc.accesskey           "А">
+<!ENTITY outsideDomain.label           "Ако подателя е извън моя домейн:">
+<!ENTITY outsideDomain.accesskey       "к">
+<!ENTITY otherCases.label              "Във всички други случаи:">
+<!ENTITY otherCases.accesskey          "В">
+<!ENTITY askMe.label                   "Пита">
+<!ENTITY alwaysSend.label              "Изпраща">
+<!ENTITY neverSend.label               "Не изпраща">

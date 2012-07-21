@@ -45,35 +45,35 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 <!ENTITY importDialog.windowTitle "Внасяне">
-<!ENTITY importAll.label "Внасяне на всичко">
-<!ENTITY importAll.accesskey "в">
-<!ENTITY importMail.label "Поща">
-<!ENTITY importMail.accesskey "П">
-<!ENTITY importAddressbook.label "Адресници">
+<!ENTITY importAll.label          "Внасяне на всичко">
+<!ENTITY importAll.accesskey      "в">
+<!ENTITY importMail.label         "Поща">
+<!ENTITY importMail.accesskey     "П">
+<!ENTITY importAddressbook.label  "Адресници">
 <!ENTITY importAddressbook.accesskey "А">
-<!ENTITY importSettings.label "Настройки">
+<!ENTITY importSettings.label     "Настройки">
 <!ENTITY importSettings.accesskey "Н">
-<!ENTITY importFilters.label "Филтри">
-<!ENTITY importFilters.accesskey "Ф">
+<!ENTITY importFilters.label      "Филтри">
+<!ENTITY importFilters.accesskey  "Ф">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label "Помощник на &brandShortName; за внасяне">
-<!ENTITY importShortDesc.label "Внасяне на поща, адресници, настройки и филтри от други програми">
+<!ENTITY importTitle.label        "Помощник на &brandShortName; за внасяне">
+<!ENTITY importShortDesc.label    "Внасяне на поща, адресници, настройки и филтри от други програми">
 
 <!ENTITY importDescription1.label "Чрез този помощник ще внесете в &brandShortName; писма, записи от адресници, настройки и/или филтри от други пощенски програми и адресници от различни формати.">
 <!ENTITY importDescription2.label "Веднъж внесени, вие ще имате възможност да ги използвате от &brandShortName;.">
 
-<!ENTITY selectDescription.label "Моля, изберете вида на файла, който искате да внесете:">
+<!ENTITY selectDescription.label  "Моля, изберете вида на файла, който искате да внесете:">
 <!ENTITY selectDescription.accesskey "М">
 
-<!ENTITY back.label "&lt; Назад">
-<!ENTITY forward.label "Напред &gt;">
-<!ENTITY finish.label "Край">
-<!ENTITY cancel.label "Отказ">
+<!ENTITY back.label               "&lt; Назад">
+<!ENTITY forward.label            "Напред &gt;">
+<!ENTITY finish.label             "Край">
+<!ENTITY cancel.label             "Отказ">
 
-<!ENTITY select.label "или изберете какъв материал искате да внесете:">
+<!ENTITY select.label             "или изберете какъв материал искате да внесете:">
 
-<!ENTITY title.label "Заглавие">
-<!ENTITY processing.label "Внасяне…">
+<!ENTITY title.label              "Заглавие">
+<!ENTITY processing.label         "Внасяне…">

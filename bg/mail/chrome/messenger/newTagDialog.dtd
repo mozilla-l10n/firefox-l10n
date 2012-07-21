@@ -1,4 +1,4 @@
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title "Създаване на нов етикет">
-<!ENTITY name.label "Име на етикет:">
-<!ENTITY name.accesskey "е">
+<!ENTITY newTagDialog.title      "Създаване на нов етикет">
+<!ENTITY name.label              "Име на етикет:">
+<!ENTITY name.accesskey          "е">

@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Проверка местоположението на изображение и връзка">
-<!ENTITY succeeded.label "Успешен">
-<!ENTITY failed.label "Неуспешен">
-<!ENTITY closeButton.label "Затваряне">
+<!ENTITY windowTitle.label     "Проверка местоположението на изображение и връзка">
+<!ENTITY succeeded.label       "Успешен">
+<!ENTITY failed.label          "Неуспешен">
+<!ENTITY closeButton.label     "Затваряне">

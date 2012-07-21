@@ -49,57 +49,59 @@
 <!ENTITY lightning.taskLabel "Lightning">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label "Събитие…">
+<!ENTITY lightning.menupopup.new.event.label    "Събитие…">
 <!ENTITY lightning.menupopup.new.event.accesskey "С">
-<!ENTITY lightning.menupopup.new.task.label "Задача…">
+<!ENTITY lightning.menupopup.new.task.label     "Задача…">
 <!ENTITY lightning.menupopup.new.task.accesskey "З">
 <!ENTITY lightning.menupopup.new.calendar.label "Календар…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "К">
 <!-- Open menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.open.label "Отваряне">
-<!ENTITY lightning.menupopup.open.accesskey "О">
-<!ENTITY lightning.menupopup.open.message.label "Запазено писмо…">
-<!ENTITY lightning.menupopup.open.message.accesskey "п">
-<!ENTITY lightning.menupopup.open.calendar.label "Календар файл…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey "л">
+<!ENTITY lightning.menupopup.open.label               "Отваряне">
+<!ENTITY lightning.menupopup.open.accesskey           "О">
+<!ENTITY lightning.menupopup.open.message.label       "Запазено писмо…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "п">
+<!ENTITY lightning.menupopup.open.calendar.label      "Календар файл…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "л">
 <!-- View Menu -->
 
-<!ENTITY lightning.menu.view.calendar.label "Календар">
-<!ENTITY lightning.menu.view.calendar.accesskey "К">
-<!ENTITY lightning.menu.view.tasks.label "Задачи">
-<!ENTITY lightning.menu.view.tasks.accesskey "д">
+<!ENTITY lightning.menu.view.calendar.label            "Календар">
+<!ENTITY lightning.menu.view.calendar.accesskey        "К">
+<!ENTITY lightning.menu.view.tasks.label               "Задачи">
+<!ENTITY lightning.menu.view.tasks.accesskey           "д">
 <!-- Events and Tasks menu -->
 
-<!ENTITY lightning.menu.eventtask.label "Събития и задачи">
-<!ENTITY lightning.menu.eventtask.accesskey "б">
+<!ENTITY lightning.menu.eventtask.label                "Събития и задачи">
+<!ENTITY lightning.menu.eventtask.accesskey            "б">
 <!-- Mode Toolbar -->
 
-<!ENTITY lightning.toolbar.mail.label "Поща">
-<!ENTITY lightning.toolbar.mail.accesskey "П">
-<!ENTITY lightning.toolbar.calendar.label "Календар">
+<!ENTITY lightning.toolbar.mail.label         "Поща">
+<!ENTITY lightning.toolbar.mail.accesskey     "П">
+<!ENTITY lightning.toolbar.calendar.label     "Календар">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Switch to the calendar tab">
 <!ENTITY lightning.toolbar.calendar.accesskey "К">
-<!ENTITY lightning.toolbar.task.label "Задачи">
-<!ENTITY lightning.toolbar.task.accesskey "З">
+<!ENTITY lightning.toolbar.task.label         "Задачи">
+<!ENTITY lightning.toolbar.task.tooltip       "Switch to the tasks tab">
+<!ENTITY lightning.toolbar.task.accesskey     "З">
 <!-- Toolbar write button -->
 
-<!ENTITY lightning.toolbar.newevent.label "Събитие">
-<!ENTITY lightning.toolbar.newtask.label "Задача">
+<!ENTITY lightning.toolbar.newevent.label     "Събитие">
+<!ENTITY lightning.toolbar.newtask.label      "Задача">
 <!-- Messenger Toolbar -->
 
-<!ENTITY lightning.toolbar.day.label "Ден">
-<!ENTITY lightning.toolbar.day.accesskey "Д">
-<!ENTITY lightning.toolbar.week.label "Седмица">
-<!ENTITY lightning.toolbar.week.accesskey "С">
-<!ENTITY lightning.toolbar.multiweek.label "Много седмици">
-<!ENTITY lightning.toolbar.multiweek.accesskey "г">
-<!ENTITY lightning.toolbar.month.label "Месец">
-<!ENTITY lightning.toolbar.month.accesskey "М">
+<!ENTITY lightning.toolbar.day.label                 "Ден">
+<!ENTITY lightning.toolbar.day.accesskey             "Д">
+<!ENTITY lightning.toolbar.week.label                "Седмица">
+<!ENTITY lightning.toolbar.week.accesskey            "С">
+<!ENTITY lightning.toolbar.multiweek.label           "Много седмици">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "г">
+<!ENTITY lightning.toolbar.month.label               "Месец">
+<!ENTITY lightning.toolbar.month.accesskey           "М">
 <!-- properties dialog, calendar creation wizard -->
 
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Показване на събитията в дневния плот">
-<!ENTITY lightning.calendarproperties.showtasks.label "Показване на задачите в дневния плот">
-<!ENTITY lightning.calendarproperties.email.label "Мейл:">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Показване на задачите в дневния плот">
+<!ENTITY lightning.calendarproperties.email.label               "Мейл:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.description "Това писмо съдържа покана за събитие.">
@@ -117,7 +119,7 @@
 <!ENTITY todaypane.showMinimonth.label "Показване на мини-месец">
 <!ENTITY todaypane.showMinimonth.accesskey "м">
 <!ENTITY todaypane.showMiniday.label "Показване на мини-ден">
-<!ENTITY todaypane.showMiniday.accesskey "д">
+<!ENTITY todaypane.showMiniday.accesskey  "д">
 <!ENTITY todaypane.showNone.label "Без показване">
 <!ENTITY todaypane.showNone.accesskey "в">
 <!ENTITY todaypane.showTodayPane.label "Показване на дневния плот">

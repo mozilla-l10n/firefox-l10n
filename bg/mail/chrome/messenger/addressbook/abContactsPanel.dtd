@@ -1,18 +1,23 @@
-<!ENTITY addressbookPicker.label "Адресник:">
-<!ENTITY addressbookPicker.accesskey "к">
-<!ENTITY searchInput.label "Търсене за:">
-<!ENTITY searchInput.accesskey "з">
-<!ENTITY SearchNameOrEmail.label "Име или адрес">
+<!ENTITY addressbookPicker.label            "Адресник:">
+<!ENTITY addressbookPicker.accesskey        "к">
+<!ENTITY searchInput.label                  "Търсене за:">
+<!ENTITY searchInput.accesskey              "з">
+<!ENTITY SearchNameOrEmail.label            "Име или адрес">
 
-<!ENTITY deleteAddrBookCard.label "Изтриване">
-<!ENTITY addrBookCardProperties.label "Свойства">
-<!ENTITY addtoToFieldMenu.label "Добавяне към поле До">
-<!ENTITY addtoCcFieldMenu.label "Добавяне към поле Копие (Cc)">
-<!ENTITY addtoBccFieldMenu.label "Добавяне към поле Скрито (Bcc)">
+<!ENTITY deleteAddrBookCard.label           "Изтриване">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY addrBookCardProperties.label       "Свойства">
+<!ENTITY addrBookCardProperties.accesskey   "P">
+<!ENTITY addtoToFieldMenu.label             "Добавяне към поле До">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Добавяне към поле Копие (Cc)">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Добавяне към поле Скрито (Bcc)">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
-<!ENTITY toButton.label "Добави към До:">
-<!ENTITY toButton.accesskey "Д">
-<!ENTITY ccButton.label "Добави към Cc:">
-<!ENTITY ccButton.accesskey "о">
-<!ENTITY bccButton.label "Добави към Bcc:">
-<!ENTITY bccButton.accesskey "б">
+<!ENTITY toButton.label                     "Добави към До:">
+<!ENTITY toButton.accesskey                 "Д">
+<!ENTITY ccButton.label                     "Добави към Cc:">
+<!ENTITY ccButton.accesskey                 "о">
+<!ENTITY bccButton.label                    "Добави към Bcc:">
+<!ENTITY bccButton.accesskey                "б">

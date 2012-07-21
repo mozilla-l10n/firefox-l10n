@@ -38,11 +38,11 @@
 
 
 <!ENTITY windowTitle.label "Преобразуване в таблица">
-<!ENTITY instructions1.label "Композитора създава нов ред в таблицата за всеки абзац в селекцията.">
-<!ENTITY instructions2.label "Изберете символа, който ще използва за разделяне на селекцията в колони:">
-<!ENTITY commaRadio.label "Запетая">
-<!ENTITY spaceRadio.label "Интервал">
-<!ENTITY otherRadio.label "Друг символ:">
+<!ENTITY instructions1.label   "Композитора създава нов ред в таблицата за всеки абзац в селекцията.">
+<!ENTITY instructions2.label   "Изберете символа, който ще използва за разделяне на селекцията в колони:">
+<!ENTITY commaRadio.label      "Запетая">
+<!ENTITY spaceRadio.label      "Интервал">
+<!ENTITY otherRadio.label      "Друг символ:">
 <!ENTITY deleteCharCheck.label "Изтриване на разделител">
-<!ENTITY collapseSpaces.label "Без допълнителни интервали">
+<!ENTITY collapseSpaces.label  "Без допълнителни интервали">
 <!ENTITY collapseSpaces.tooltip "Преобразуване на съседните интервали в един разделител">

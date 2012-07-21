@@ -1,8 +1,8 @@
 <!ENTITY virtualFolderProperties.title "Нова папка за записани търсения">
-<!ENTITY name.label "Име:">
-<!ENTITY name.accesskey "И">
-<!ENTITY description.label "Създаване като подпапка на:">
-<!ENTITY description.accesskey "С">
+<!ENTITY name.label                 "Име:">
+<!ENTITY name.accesskey             "И">
+<!ENTITY description.label          "Създаване като подпапка на:">
+<!ENTITY description.accesskey      "С">
 
 <!ENTITY searchTermCaption.label "Конфигуриране на критерий за търсене:">
 
@@ -12,7 +12,7 @@
 
 <!ENTITY searchOnline.label "Търсене в мрежата (дава актуални резултати за IMAP и новинарски папки, но увеличава времето за отварянето им)">
 <!ENTITY searchOnline.accesskey "м">
-<!ENTITY newFolderButton.label "Създаване">
-<!ENTITY newFolderButton.accesskey "ъ">
-<!ENTITY editFolderButton.label "Обновяване">
-<!ENTITY editFolderButton.accesskey "О">
+<!ENTITY newFolderButton.label       "Създаване">
+<!ENTITY newFolderButton.accesskey   "ъ">
+<!ENTITY editFolderButton.label      "Обновяване">
+<!ENTITY editFolderButton.accesskey  "О">

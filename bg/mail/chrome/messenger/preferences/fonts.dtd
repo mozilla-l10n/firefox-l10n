@@ -1,76 +1,76 @@
-<!ENTITY fontsAndEncodingsDialog.title "Шрифтове и кодиране">
-<!ENTITY window.width "45em">
-<!ENTITY window.macWidth "49em">
-<!ENTITY window.unixWidth "47em">
+<!ENTITY  fontsAndEncodingsDialog.title           "Шрифтове и кодиране">
+<!ENTITY  window.width                            "45em">
+<!ENTITY  window.macWidth                         "49em">
+<!ENTITY  window.unixWidth                        "47em">
 
-<!ENTITY language.label "Шрифтове за:">
-<!ENTITY language.accesskey "Ш">
+<!ENTITY  language.label                          "Шрифтове за:">
+<!ENTITY  language.accesskey                      "Ш">
 
-<!ENTITY size.label "Размер">
-<!ENTITY proportionalSize.accesskey "з">
-<!ENTITY sizeMono.accesskey "м">
+<!ENTITY  size.label                              "Размер">
+<!ENTITY  proportionalSize.accesskey              "з">
+<!ENTITY  sizeMono.accesskey                      "м">
 
-<!ENTITY proportional.label "Пропорционален:">
-<!ENTITY proportional.accesskey "П">
+<!ENTITY  proportional.label                      "Пропорционален:">
+<!ENTITY  proportional.accesskey                  "П">
 
-<!ENTITY serif.label "Сериф:">
-<!ENTITY serif.accesskey "С">
-<!ENTITY sans-serif.label "Сансериф:">
-<!ENTITY sans-serif.accesskey "н">
-<!ENTITY monospace.label "Равноширок:">
-<!ENTITY monospace.accesskey "Р">
+<!ENTITY  serif.label                             "Сериф:">
+<!ENTITY  serif.accesskey                         "С">
+<!ENTITY  sans-serif.label                        "Сансериф:">
+<!ENTITY  sans-serif.accesskey                    "н">
+<!ENTITY  monospace.label                         "Равноширок:">
+<!ENTITY  monospace.accesskey                     "Р">
 
-<!ENTITY font.langGroup.latin1 "Западен">
-<!ENTITY font.langGroup.latin2 "Централно Европейски">
-<!ENTITY font.langGroup.japanese "Японски">
-<!ENTITY font.langGroup.trad-chinese "Традиционен китайски (Тайван)">
-<!ENTITY font.langGroup.simpl-chinese "Опростен китайски">
-<!ENTITY font.langGroup.trad-chinese-hk "Традиционен китайски (Хонг-Конг)">
-<!ENTITY font.langGroup.korean "Корейски">
-<!ENTITY font.langGroup.cyrillic "Кирилица">
-<!ENTITY font.langGroup.baltic "Балтийски">
-<!ENTITY font.langGroup.el "Гръцки">
-<!ENTITY font.langGroup.turkish "Турски">
-<!ENTITY font.langGroup.unicode "Други езици">
-<!ENTITY font.langGroup.user-def "Потребителски">
-<!ENTITY font.langGroup.thai "Тайлански">
-<!ENTITY font.langGroup.hebrew "Иврит">
-<!ENTITY font.langGroup.arabic "Арабски">
-<!ENTITY font.langGroup.devanagari "Деванагари">
-<!ENTITY font.langGroup.tamil "Тамилски">
-<!ENTITY font.langGroup.armenian "Арменски">
-<!ENTITY font.langGroup.bengali "Бенгалски">
-<!ENTITY font.langGroup.canadian "Обединена канадска сричкова писменост">
-<!ENTITY font.langGroup.ethiopic "Етиопски">
-<!ENTITY font.langGroup.georgian "Грузински">
-<!ENTITY font.langGroup.gujarati "Гуджарати">
-<!ENTITY font.langGroup.gurmukhi "Гурмуки">
-<!ENTITY font.langGroup.khmer "Кхмерски">
-<!ENTITY font.langGroup.malayalam "Малаялам">
+<!ENTITY  font.langGroup.latin1                   "Западен">
+<!ENTITY  font.langGroup.latin2                   "Централно Европейски">
+<!ENTITY  font.langGroup.japanese                 "Японски">
+<!ENTITY  font.langGroup.trad-chinese             "Традиционен китайски (Тайван)">
+<!ENTITY  font.langGroup.simpl-chinese            "Опростен китайски">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Традиционен китайски (Хонг-Конг)">
+<!ENTITY  font.langGroup.korean                   "Корейски">
+<!ENTITY  font.langGroup.cyrillic                 "Кирилица">
+<!ENTITY  font.langGroup.baltic                   "Балтийски">
+<!ENTITY  font.langGroup.el                       "Гръцки">
+<!ENTITY  font.langGroup.turkish                  "Турски">
+<!ENTITY  font.langGroup.unicode                  "Други езици">
+<!ENTITY  font.langGroup.user-def                 "Потребителски">
+<!ENTITY  font.langGroup.thai                     "Тайлански">
+<!ENTITY  font.langGroup.hebrew                   "Иврит">
+<!ENTITY  font.langGroup.arabic                   "Арабски">
+<!ENTITY  font.langGroup.devanagari               "Деванагари">
+<!ENTITY  font.langGroup.tamil                    "Тамилски">
+<!ENTITY  font.langGroup.armenian                 "Арменски">
+<!ENTITY  font.langGroup.bengali                  "Бенгалски">
+<!ENTITY  font.langGroup.canadian                 "Обединена канадска сричкова писменост">
+<!ENTITY  font.langGroup.ethiopic                 "Етиопски">
+<!ENTITY  font.langGroup.georgian                 "Грузински">
+<!ENTITY  font.langGroup.gujarati                 "Гуджарати">
+<!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
+<!ENTITY  font.langGroup.khmer                    "Кхмерски">
+<!ENTITY  font.langGroup.malayalam                "Малаялам">
 <!-- Minimum font size -->
 
-<!ENTITY minSize.label "Минимална големина на шрифт:">
-<!ENTITY minSize.accesskey "М">
-<!ENTITY minSize.none "Без">
+<!ENTITY minSize.label                            "Минимална големина на шрифт:">
+<!ENTITY minSize.accesskey                        "М">
+<!ENTITY minSize.none                             "Без">
 <!-- default font type -->
 
-<!ENTITY useDefaultFontSerif.label "Сериф">
-<!ENTITY useDefaultFontSansSerif.label "Сансериф">
+<!ENTITY  useDefaultFontSerif.label               "Сериф">
+<!ENTITY  useDefaultFontSansSerif.label           "Сансериф">
 <!-- fonts in message -->
 
-<!ENTITY fontControl.label "Контрол на шрифта">
-<!ENTITY useFixedWidthForPlainText.label "Шрифт с фиксирана ширина за съобщения с обикновен текст">
-<!ENTITY fixedWidth.accesskey "ф">
-<!ENTITY useDocumentFonts.label "Писмата могат да използват други шрифтове">
-<!ENTITY useDocumentFonts.accesskey "у">
+<!ENTITY  fontControl.label                       "Контрол на шрифта">
+<!ENTITY  useFixedWidthForPlainText.label         "Шрифт с фиксирана ширина за съобщения с обикновен текст">
+<!ENTITY  fixedWidth.accesskey                    "ф">
+<!ENTITY  useDocumentFonts.label                  "Писмата могат да използват други шрифтове">
+<!ENTITY  useDocumentFonts.accesskey              "у">
 <!-- Language settings -->
 
-<!ENTITY sendDefaultCharset.label "Изходяща поща:">
-<!ENTITY sendDefaultCharset.accesskey "х">
-<!ENTITY languagesTitle1.label "Кодиране на знаци">
-<!ENTITY composingDescription.label "Установява стандартно кодиране за изпращана и получавана поща">
+<!ENTITY sendDefaultCharset.label         "Изходяща поща:">
+<!ENTITY sendDefaultCharset.accesskey     "х">
+<!ENTITY languagesTitle1.label            "Кодиране на знаци">
+<!ENTITY composingDescription.label       "Установява стандартно кодиране за изпращана и получавана поща">
 
-<!ENTITY viewDefaultCharsetList.label "Входяща поща:">
-<!ENTITY viewDefaultCharsetList.accesskey "щ">
-<!ENTITY replyInDefaultCharset2.label "Където е възможно, в отговорите да се използва стандартното кодиране">
+<!ENTITY viewDefaultCharsetList.label     "Входяща поща:">
+<!ENTITY viewDefaultCharsetList.accesskey  "щ">
+<!ENTITY replyInDefaultCharset2.label     "Където е възможно, в отговорите да се използва стандартното кодиране">
 <!ENTITY replyInDefaultCharset2.accesskey "ъ">

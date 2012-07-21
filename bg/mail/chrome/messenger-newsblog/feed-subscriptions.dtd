@@ -2,17 +2,17 @@
 <!ENTITY feedSubscriptions.label "Абонаменти за емисии">
 <!ENTITY subscriptionDesc.label "Забележка: Премахването или промяната на папката за извличане няма да повлияе на изтеглените по-рано статии.">
 <!ENTITY feedTitle.label "Заглавие:">
-<!ENTITY location.label "Местоположение:">
+<!ENTITY location.label  "Местоположение:">
 
-<!ENTITY button.addFeed.label "Добавяне">
-<!ENTITY button.addFeed.accesskey "Д">
-<!ENTITY button.editFeed.label "Редактиране">
-<!ENTITY button.editFeed.accesskey "Р">
+<!ENTITY button.addFeed.label       "Добавяне">
+<!ENTITY button.addFeed.accesskey   "Д">
+<!ENTITY button.editFeed.label      "Редактиране">
+<!ENTITY button.editFeed.accesskey  "Р">
 <!ENTITY button.removeFeed.label "Премахване">
-<!ENTITY button.removeFeed.accesskey "П">
+<!ENTITY button.removeFeed.accesskey   "П">
 <!ENTITY button.importOPML.label "Внасяне">
-<!ENTITY button.importOPML.accesskey "В">
+<!ENTITY button.importOPML.accesskey   "В">
 <!ENTITY button.exportOPML.label "Изнасяне">
-<!ENTITY button.exportOPML.accesskey "з">
+<!ENTITY button.exportOPML.accesskey   "з">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey             "w">

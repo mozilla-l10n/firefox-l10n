@@ -2,6 +2,6 @@
 <!ENTITY identityTitle.label "Настройки на самоличност">
 <!ENTITY identityListDesc.label "Настройки за тази самоличност:">
 
-<!ENTITY settingsTab.label "Настройки">
+<!ENTITY settingsTab.label       "Настройки">
 <!ENTITY copiesFoldersTab.label "Копия и папки">
-<!ENTITY addressingTab.label "Писане и адресиране">
+<!ENTITY addressingTab.label    "Писане и адресиране">

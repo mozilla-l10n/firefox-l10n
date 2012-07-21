@@ -40,12 +40,16 @@
   -->
 
 
-<!ENTITY pref.mainbox.label "Основни настройки">
-<!ENTITY pref.dateformat.label "Текстов формат на датата:">
+<!ENTITY pref.mainbox.label "Основни настройки" >
+<!ENTITY pref.dateformat.label "Текстов формат на датата:" >
 <!ENTITY pref.dateformat.accesskey "Т">
-<!ENTITY pref.dateformat.long "Дълъг">
-<!ENTITY pref.dateformat.short "Кратък">
-<!ENTITY pref.defaultlength.label "Подразбираща се дължина на събитието">
+<!ENTITY pref.dateformat.long "Дълъг" >
+<!ENTITY pref.dateformat.short "Кратък"  >
+<!ENTITY pref.defaultlength.label "Подразбираща се дължина на събитието" >
 <!ENTITY pref.defaultlength.accesskey "с">
-<!ENTITY pref.defaultsnoozelength.label "Подразбираща се дължина за отлагане">
+<!ENTITY pref.defaultsnoozelength.label "Подразбираща се дължина за отлагане" >
 <!ENTITY pref.defaultsnoozelength.accesskey "о">
+
+<!ENTITY pref.accessibility.label "Accessibility" >
+<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
+<!ENTITY pref.systemcolors.accesskey "c">

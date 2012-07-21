@@ -1,81 +1,81 @@
-<!ENTITY itemGeneral.label "Основни">
-<!ENTITY itemDisplay.label "Четене и показване">
-<!ENTITY itemUpdate.label "Обновяване">
-<!ENTITY itemNetworking.label "Мрежа и дисково място">
-<!ENTITY itemCertificates.label "Сертификати">
+<!ENTITY itemGeneral.label       "Основни">
+<!ENTITY itemDisplay.label       "Четене и показване">
+<!ENTITY itemUpdate.label        "Обновяване">
+<!ENTITY itemNetworking.label    "Мрежа и дисково място">
+<!ENTITY itemCertificates.label  "Сертификати">
 <!-- General Settings -->
 
 
-<!ENTITY submitTelemetry.label "Изпращане на данни за производителността">
-<!ENTITY submitTelemetry.accesskey "п">
-<!ENTITY telemetryInfoLink.label "Повече информация за телеметрията">
-<!ENTITY enableGlodaSearch.label "Разрешаване на глобално търсене и индексиране">
-<!ENTITY enableGlodaSearch.accesskey "Р">
-<!ENTITY systemIntegration.label "Системно интегриране">
-<!ENTITY alwaysCheckDefault.label "Винаги при стартиране се извършва проверка дали &brandShortName; е подразбиращият се пощенски клиент.">
-<!ENTITY alwaysCheckDefault.accesskey "В">
-<!ENTITY searchIntegration.label "Разрешаване на &searchIntegration.engineName; да търси съобщения">
-<!ENTITY searchIntegration.accesskey "т">
-<!ENTITY checkNow.label "Проверка">
-<!ENTITY checkNow.accesskey "е">
-<!ENTITY configEditDesc.label "Разширена конфигурация">
-<!ENTITY configEdit.label "Редактор конфигурация…">
-<!ENTITY configEdit.accesskey "к">
-<!ENTITY returnReceiptsInfo.label "Определяне как &brandShortName; обработва обратните разписки">
-<!ENTITY showReturnReceipts.label "Обратни разписки…">
-<!ENTITY showReturnReceipts.accesskey "б">
+<!ENTITY submitTelemetry.label         "Изпращане на данни за производителността">
+<!ENTITY submitTelemetry.accesskey     "п">
+<!ENTITY telemetryInfoLink.label       "Повече информация за телеметрията">
+<!ENTITY enableGlodaSearch.label       "Разрешаване на глобално търсене и индексиране">
+<!ENTITY enableGlodaSearch.accesskey   "Р">
+<!ENTITY systemIntegration.label       "Системно интегриране">
+<!ENTITY alwaysCheckDefault.label      "Винаги при стартиране се извършва проверка дали &brandShortName; е подразбиращият се пощенски клиент.">
+<!ENTITY alwaysCheckDefault.accesskey  "В">
+<!ENTITY searchIntegration.label       "Разрешаване на &searchIntegration.engineName; да търси съобщения">
+<!ENTITY searchIntegration.accesskey   "т">
+<!ENTITY checkNow.label                "Проверка">
+<!ENTITY checkNow.accesskey            "е">
+<!ENTITY configEditDesc.label          "Разширена конфигурация">
+<!ENTITY configEdit.label              "Редактор конфигурация…">
+<!ENTITY configEdit.accesskey          "к">
+<!ENTITY returnReceiptsInfo.label      "Определяне как &brandShortName; обработва обратните разписки">
+<!ENTITY showReturnReceipts.label      "Обратни разписки…">
+<!ENTITY showReturnReceipts.accesskey  "б">
 <!-- Display and Reading Settings -->
 
-<!ENTITY reading.caption "Четене">
-<!ENTITY display.caption "Показване">
-<!ENTITY showCondensedAddresses.label "Aко хората са в моя адресник, се показват само имената им">
+<!ENTITY reading.caption               "Четене">
+<!ENTITY display.caption               "Показване">
+<!ENTITY showCondensedAddresses.label  "Aко хората са в моя адресник, се показват само имената им">
 <!ENTITY showCondensedAddresses.accesskey "х">
 
-<!ENTITY autoMarkAsRead.label "Автоматично маркира писмата като прочетени">
-<!ENTITY autoMarkAsRead.accesskey "А">
-<!ENTITY markAsReadNoDelay.label "Незабавно показване">
-<!ENTITY markAsReadNoDelay.accesskey "з">
+<!ENTITY autoMarkAsRead.label          "Автоматично маркира писмата като прочетени">
+<!ENTITY autoMarkAsRead.accesskey      "А">
+<!ENTITY markAsReadNoDelay.label       "Незабавно показване">
+<!ENTITY markAsReadNoDelay.accesskey   "з">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "След показване за">
-<!ENTITY markAsReadDelay.accesskey "д">
-<!ENTITY secondsLabel.label "секунди">
-<!ENTITY openMsgIn.label "Отваряне съобщенията в:">
-<!ENTITY openMsgInNewTab.label "Нов подпрозорец">
-<!ENTITY openMsgInNewTab.accesskey "д">
-<!ENTITY reuseExpRadio0.label "нов прозорец">
-<!ENTITY reuseExpRadio0.accesskey "н">
-<!ENTITY reuseExpRadio1.label "съществуващия прозорец">
-<!ENTITY reuseExpRadio1.accesskey "с">
-<!ENTITY closeMsgOnMoveOrDelete.label "Затваряне прозореца/подпрозореца на съобщението при преместване или изтриване">
+<!ENTITY markAsReadDelay.label         "След показване за">
+<!ENTITY markAsReadDelay.accesskey     "д">
+<!ENTITY secondsLabel.label            "секунди">
+<!ENTITY openMsgIn.label               "Отваряне съобщенията в:">
+<!ENTITY openMsgInNewTab.label         "Нов подпрозорец">
+<!ENTITY openMsgInNewTab.accesskey     "д">
+<!ENTITY reuseExpRadio0.label          "нов прозорец">
+<!ENTITY reuseExpRadio0.accesskey      "н">
+<!ENTITY reuseExpRadio1.label          "съществуващия прозорец">
+<!ENTITY reuseExpRadio1.accesskey      "с">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Затваряне прозореца/подпрозореца на съобщението при преместване или изтриване">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "З">
 <!-- Update -->
 
-<!ENTITY autoCheck.label "Автоматична проверка за обновления на:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Инсталирани добавки">
-<!ENTITY enableAddonsUpdate.accesskey "а">
-<!ENTITY whenUpdatesFound.label "Когато има обновления на &brandShortName;,">
-<!ENTITY modeAskMe.label "се запитва за действието">
-<!ENTITY modeAskMe.accesskey "с">
-<!ENTITY modeAutomatic.label "Автоматично се изтегля и инсталира обновлението">
-<!ENTITY modeAutomatic.accesskey "А">
-<!ENTITY modeAutoAddonWarn.label "Предупреждаване, ако това изключи коя да е от добавките">
-<!ENTITY modeAutoAddonWarn.accesskey "П">
-<!ENTITY showUpdates.label "Показване хронологията на обновяванията">
-<!ENTITY showUpdates.accesskey "о">
+<!ENTITY autoCheck.label                "Автоматична проверка за обновления на:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Инсталирани добавки">
+<!ENTITY enableAddonsUpdate.accesskey   "а">
+<!ENTITY whenUpdatesFound.label         "Когато има обновления на &brandShortName;,">
+<!ENTITY modeAskMe.label                "се запитва за действието">
+<!ENTITY modeAskMe.accesskey            "с">
+<!ENTITY modeAutomatic.label            "Автоматично се изтегля и инсталира обновлението">
+<!ENTITY modeAutomatic.accesskey        "А">
+<!ENTITY modeAutoAddonWarn.label        "Предупреждаване, ако това изключи коя да е от добавките">
+<!ENTITY modeAutoAddonWarn.accesskey    "П">
+<!ENTITY showUpdates.label              "Показване хронологията на обновяванията">
+<!ENTITY showUpdates.accesskey          "о">
 <!-- Networking and Disk Space -->
 
-<!ENTITY showSettings.label "Настройки…">
-<!ENTITY showSettings.accesskey "й">
-<!ENTITY proxiesConfigure.label "Определяне как &brandShortName; се свързва с Интернет.">
-<!ENTITY connectionsInfo.caption "Връзка">
-<!ENTITY offlineInfo.caption "Без връзка">
-<!ENTITY offlineInfo.label "Конфигуриране настройките за работа без връзка">
-<!ENTITY showOffline.label "Без връзка…">
-<!ENTITY showOffline.accesskey "Б">
+<!ENTITY showSettings.label            "Настройки…">
+<!ENTITY showSettings.accesskey        "й">
+<!ENTITY proxiesConfigure.label        "Определяне как &brandShortName; се свързва с Интернет.">
+<!ENTITY connectionsInfo.caption       "Връзка">
+<!ENTITY offlineInfo.caption           "Без връзка">
+<!ENTITY offlineInfo.label             "Конфигуриране настройките за работа без връзка">
+<!ENTITY showOffline.label             "Без връзка…">
+<!ENTITY showOffline.accesskey         "Б">
 
 <!ENTITY Diskspace "Дисково място">
 <!ENTITY offlineCompact.label "Уплътняване на папките, когато ще се спести над">
@@ -88,24 +88,24 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Използване не повече от">
-<!ENTITY useCacheBefore.accesskey "п">
-<!ENTITY useCacheAfter.label "МБ място за кеша">
-<!ENTITY clearCacheNow.label "Изчистване">
-<!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY useCacheBefore.label            "Използване не повече от">
+<!ENTITY useCacheBefore.accesskey        "п">
+<!ENTITY useCacheAfter.label             "МБ място за кеша">
+<!ENTITY clearCacheNow.label             "Изчистване">
+<!ENTITY clearCacheNow.accesskey         "ч">
 <!-- Certificates -->
 
-<!ENTITY certSelection.description "Когато сървъра поиска личния ми сертификат:">
-<!ENTITY certs.auto "Автоматичен избор">
-<!ENTITY certs.auto.accesskey "ч">
-<!ENTITY certs.ask "Запитване всеки път">
-<!ENTITY certs.ask.accesskey "З">
+<!ENTITY certSelection.description       "Когато сървъра поиска личния ми сертификат:">
+<!ENTITY certs.auto                      "Автоматичен избор">
+<!ENTITY certs.auto.accesskey            "ч">
+<!ENTITY certs.ask                       "Запитване всеки път">
+<!ENTITY certs.ask.accesskey             "З">
 
-<!ENTITY viewCertificates.label "Преглед сертификати">
-<!ENTITY viewCertificates.accesskey "П">
-<!ENTITY viewCRLs.label "Анулиращи списъци">
-<!ENTITY viewCRLs.accesskey "А">
-<!ENTITY validation.label "Потвърждаване">
-<!ENTITY validation.accesskey "ж">
-<!ENTITY viewSecurityDevices.label "Защитни устройства">
-<!ENTITY viewSecurityDevices.accesskey "З">
+<!ENTITY viewCertificates.label         "Преглед сертификати">
+<!ENTITY viewCertificates.accesskey     "П">
+<!ENTITY viewCRLs.label                 "Анулиращи списъци">
+<!ENTITY viewCRLs.accesskey             "А">
+<!ENTITY validation.label               "Потвърждаване">
+<!ENTITY validation.accesskey           "ж">
+<!ENTITY viewSecurityDevices.label      "Защитни устройства">
+<!ENTITY viewSecurityDevices.accesskey  "З">

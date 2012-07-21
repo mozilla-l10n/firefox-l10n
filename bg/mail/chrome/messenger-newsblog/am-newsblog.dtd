@@ -4,13 +4,13 @@
 <!ENTITY biffStart.accesskey "П">
 <!ENTITY biffEnd.label "минути">
 
-<!ENTITY loginAtStartup.label "Проверка за нови статии при стартиране">
+<!ENTITY loginAtStartup.label "Проверка за нови статии при стартиране"> 
 <!ENTITY loginAtStartup.accesskey "р">
 
-<!ENTITY useQuickMode.label "По подразбиране се показва резюме на статията вместо да се зарежда уеб страницата.">
+<!ENTITY useQuickMode.label "По подразбиране се показва резюме на статията вместо да се зарежда уеб страницата."> 
 <!ENTITY useQuickMode.accesskey "д">
 
-<!ENTITY manageSubscriptions.label "Управление на абонаменти…">
+<!ENTITY manageSubscriptions.label "Управление на абонаменти…"> 
 <!ENTITY manageSubscriptions.accesskey "У">
 <!-- entities from rss.rdf -->
 

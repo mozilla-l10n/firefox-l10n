@@ -6,8 +6,8 @@
 
 <!ENTITY smtpDesc.label "Въпреки, че можете да определите повече от един изходящ сървър (SMTP), това се препоръчва само за опитни потребители. Такова действие може да предизвика грешки при изпращане на съобщения. ">
 
-<!ENTITY smtpListAdd.label "Добавяне…">
-<!ENTITY smtpListAdd.accesskey "б">
+<!ENTITY smtpListAdd.label  "Добавяне…">
+<!ENTITY smtpListAdd.accesskey  "б">
 <!ENTITY smtpListEdit.label "Промяна…">
 <!ENTITY smtpListEdit.accesskey "П">
 <!ENTITY smtpListDelete.label "Премахване">
@@ -18,6 +18,6 @@
 <!ENTITY serverDescription.label "Описание:">
 <!ENTITY serverName.label "Име на сървър:">
 <!ENTITY serverPort.label "Порт:">
-<!ENTITY userName.label "Потребителско име:">
+<!ENTITY userName.label   "Потребителско име:">
 <!ENTITY connectionSecurity.label "Сигурност на връзката:">
-<!ENTITY authMethod.label "Метод на удостоверяване: ">
+<!ENTITY authMethod.label   "Метод на удостоверяване: ">

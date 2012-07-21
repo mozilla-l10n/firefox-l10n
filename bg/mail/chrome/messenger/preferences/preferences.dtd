@@ -1,12 +1,12 @@
-<!ENTITY prefWindow.titleWin "Настройки">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; настройки">
-<!ENTITY prefWindow.styleWindows "width: 60em; min-height: 38em;">
-<!ENTITY prefWindow.styleMac "width: 60em;">
-<!ENTITY prefWindow.styleGNOME "width: 60em; min-height: 38em;">
+<!ENTITY  prefWindow.titleWin     "Настройки">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; настройки">
+<!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38em;">
+<!ENTITY  prefWindow.styleMac     "width: 60em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title "Основни">
-<!ENTITY paneDisplay.title "Показване">
-<!ENTITY paneComposition.title "Съставяне">
-<!ENTITY paneAttachments.title "Притурки">
-<!ENTITY paneSecurity.title "Защита">
-<!ENTITY paneAdvanced.title "Разширени">
+<!ENTITY paneGeneral.title        "Основни">
+<!ENTITY paneDisplay.title        "Показване">
+<!ENTITY paneComposition.title    "Съставяне">
+<!ENTITY paneAttachments.title    "Притурки">
+<!ENTITY paneSecurity.title       "Защита">
+<!ENTITY paneAdvanced.title       "Разширени">

@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY name.label "Име на адресника">
-<!ENTITY name.accesskey "а">
+<!ENTITY name.label      "Име на адресника">
+<!ENTITY name.accesskey  "а">

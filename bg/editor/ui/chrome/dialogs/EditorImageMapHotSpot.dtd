@@ -41,18 +41,18 @@
 
 <!ENTITY windowTitle.label "Свойства на чувствителната зона">
 
-<!ENTITY link.label "Връзка за чувствителната зона">
-<!ENTITY urlFieldset.label "URL за чувствителната зона:">
-<!ENTITY altFieldset.label "Алтернативен текст за чувствителната зона:">
-<!ENTITY browseButton.label "Разглеждане…">
+<!ENTITY link.label    "Връзка за чувствителната зона">
+<!ENTITY urlFieldset.label  "URL за чувствителната зона:">
+<!ENTITY altFieldset.label  "Алтернативен текст за чувствителната зона:">
+<!ENTITY browseButton.label  "Разглеждане…">
 <!ENTITY targetFieldset.label "Настройки на обекта">
-<!ENTITY target.label "Обект на чувствителната зона">
+<!ENTITY target.label   "Обект на чувствителната зона">
 <!-- Targets -->
 
 <!ENTITY commonFieldset.label "Обикновени обекти:">
-<!ENTITY none.value "(няма)">
-<!ENTITY same.value "Същата рамка">
-<!ENTITY whole.value "Цяла страница">
-<!ENTITY new.value "Нов прозорец">
-<!ENTITY parent.value "Родителска рамка">
+<!ENTITY none.value    "(няма)">
+<!ENTITY same.value    "Същата рамка">
+<!ENTITY whole.value   "Цяла страница">
+<!ENTITY new.value    "Нов прозорец">
+<!ENTITY parent.value   "Родителска рамка">
 

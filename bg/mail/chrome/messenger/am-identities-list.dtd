@@ -1,6 +1,6 @@
 <!ENTITY identitiesListDesc.label "Поддръжка на много самоличности">
-<!ENTITY identitiesListAdd.label "Добавяне…">
-<!ENTITY identitiesListAdd.accesskey "Д">
+<!ENTITY identitiesListAdd.label  "Добавяне…">
+<!ENTITY identitiesListAdd.accesskey  "Д">
 <!ENTITY identitiesListEdit.label "Промяна…">
 <!ENTITY identitiesListEdit.accesskey "П">
 <!ENTITY identitiesListDelete.label "Изтриване">

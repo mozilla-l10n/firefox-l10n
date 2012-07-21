@@ -1,5 +1,5 @@
-<!ENTITY systemIntegration.title "Системна интеграция">
-<!ENTITY defaultClient.intro "Използване на &brandShortName; като клиент по подразбиране за:">
+<!ENTITY systemIntegration.title  "Системна интеграция">
+<!ENTITY defaultClient.intro  "Използване на &brandShortName; като клиент по подразбиране за:">
 
 <!ENTITY email.label "Електронна поща">
 <!ENTITY newsgroups.label "Новинарски групи">

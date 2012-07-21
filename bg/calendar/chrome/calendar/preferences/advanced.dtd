@@ -47,9 +47,9 @@
 <!ENTITY pref.calendar.advanced.encryptionTab.label "Шифроване">
 <!-- General -->
 
-<!ENTITY pref.calendar.advanced.showConnections.label "Настройки на връзката…">
+<!ENTITY pref.calendar.advanced.showConnections.label     "Настройки на връзката…">
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "й">
-<!ENTITY pref.calendar.advanced.proxiesInfo.label "Определяне как &brandShortName; се свързва към Интернет">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Определяне как &brandShortName; се свързва към Интернет">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Разширени настройки">
 <!ENTITY pref.calendar.advanced.configEdit.button "Редактор конфигурация...">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "к">

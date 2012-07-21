@@ -34,38 +34,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title "Ленти с инструменти">
+<!ENTITY pref.toolbars.title    "Ленти с инструменти">
 
-<!ENTITY composition.caption "Тези бутони ще се покажат в лентата с инструменти за композиране:">
+<!ENTITY composition.caption    "Тези бутони ще се покажат в лентата с инструменти за композиране:">
 
-<!ENTITY new.label "Нови">
-<!ENTITY open.label "Отваряне">
-<!ENTITY save.label "Запис">
-<!ENTITY publish.label "Публикуване">
-<!ENTITY preview.label "Разглеждане">
-<!ENTITY cut.label "Изрязване">
-<!ENTITY copy.label "Копиране">
-<!ENTITY paste.label "Поставяне">
-<!ENTITY print.label "Печат">
-<!ENTITY find.label "Търсене">
-<!ENTITY image.label "Изображение">
-<!ENTITY hline.label "Хор. линия">
-<!ENTITY table.label "Таблица">
-<!ENTITY link.label "Връзка">
-<!ENTITY anchor.label "Котва">
+<!ENTITY new.label              "Нови">
+<!ENTITY open.label             "Отваряне">
+<!ENTITY save.label             "Запис">
+<!ENTITY publish.label          "Публикуване">
+<!ENTITY preview.label          "Разглеждане">
+<!ENTITY cut.label              "Изрязване">
+<!ENTITY copy.label             "Копиране">
+<!ENTITY paste.label            "Поставяне">
+<!ENTITY print.label            "Печат">
+<!ENTITY find.label             "Търсене">
+<!ENTITY image.label            "Изображение">
+<!ENTITY hline.label            "Хор. линия">
+<!ENTITY table.label            "Таблица">
+<!ENTITY link.label             "Връзка">
+<!ENTITY anchor.label           "Котва">
 
-<!ENTITY formatting.caption "Тези бутони ще се покажат в лентата с инструменти за форматиране:">
+<!ENTITY formatting.caption     "Тези бутони ще се покажат в лентата с инструменти за форматиране:">
 
-<!ENTITY smaller.label "Намаляване">
-<!ENTITY larger.label "Увеличаване">
-<!ENTITY bold.label "Удебелен">
-<!ENTITY bullets.label "Водачи">
-<!ENTITY numbers.label "Цифри">
-<!ENTITY italic.label "Курсив">
-<!ENTITY outdent.label "Без отстъп">
-<!ENTITY indent.label "Отстъп">
-<!ENTITY underline.label "Подчертан">
+<!ENTITY smaller.label          "Намаляване">
+<!ENTITY larger.label           "Увеличаване">
+<!ENTITY bold.label             "Удебелен">
+<!ENTITY bullets.label          "Водачи">
+<!ENTITY numbers.label          "Цифри">
+<!ENTITY italic.label           "Курсив">
+<!ENTITY outdent.label          "Без отстъп">
+<!ENTITY indent.label           "Отстъп">
+<!ENTITY underline.label        "Подчертан">
 
 <!ENTITY absolutePosition.label "Абсолютно позициониране">
-<!ENTITY decreaseZIndex.label "Изпращане на заден план">
-<!ENTITY increaseZIndex.label "Извеждане на преден план">
+<!ENTITY decreaseZIndex.label   "Изпращане на заден план">
+<!ENTITY increaseZIndex.label   "Извеждане на преден план">

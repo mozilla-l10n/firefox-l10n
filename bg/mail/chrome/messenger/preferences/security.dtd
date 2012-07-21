@@ -1,8 +1,8 @@
-<!ENTITY itemJunk.label "Нежелана поща">
-<!ENTITY itemPhishing.label "Лъжлива поща">
-<!ENTITY itemPasswords.label "Пароли">
-<!ENTITY itemAntiVirus.label "Антивирус">
-<!ENTITY itemCookies.label "Интернет съдържание">
+<!ENTITY itemJunk.label          "Нежелана поща">
+<!ENTITY itemPhishing.label      "Лъжлива поща">
+<!ENTITY itemPasswords.label     "Пароли">
+<!ENTITY itemAntiVirus.label     "Антивирус">
+<!ENTITY itemCookies.label       "Интернет съдържание">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Установете началните настройки за нежеланите писма. Специфичните за всяка регистрация настройки могат да се направят в Настройки на регистрацията.">
@@ -22,39 +22,39 @@
 <!ENTITY resetTrainingData.accesskey "Н">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro "&brandShortName; може да анализира писмата за възможна измама, като 
+<!ENTITY phishingDetector1.intro  "&brandShortName; може да анализира писмата за възможна измама, като 
 търси познати техники за подлъгване.">
-<!ENTITY enablePhishingDetector1.label "Уведомяване, ако четеното писмо е съмнително">
-<!ENTITY enablePhishingDetector1.accesskey "У">
+<!ENTITY enablePhishingDetector1.label    "Уведомяване, ако четеното писмо е съмнително">
+<!ENTITY enablePhishingDetector1.accesskey  "У">
 <!ENTITY useDownloadedList.label "Използване на списък, изтеглен мрежата, на известни пощенски измами">
 <!ENTITY useDownloadedList.accesskey "И">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro "&brandShortName; може да запомни паролите на всичките ви регистрации.">
-<!ENTITY useMasterPassword.label "Използване на главна парола">
-<!ENTITY useMasterPassword.accesskey "И">
-<!ENTITY masterPassword.intro "Главната парола защитава останалите пароли, поради което трябва да да бъде въвеждана само веднъж на сесия.">
-<!ENTITY changeMasterPassword.label "Промяна на главната парола…">
+<!ENTITY savedPasswords.intro           "&brandShortName; може да запомни паролите на всичките ви регистрации.">
+<!ENTITY useMasterPassword.label        "Използване на главна парола">
+<!ENTITY useMasterPassword.accesskey    "И">
+<!ENTITY masterPassword.intro           "Главната парола защитава останалите пароли, поради което трябва да да бъде въвеждана само веднъж на сесия.">
+<!ENTITY changeMasterPassword.label     "Промяна на главната парола…">
 <!ENTITY changeMasterPassword.accesskey "П">
-<!ENTITY savedPasswords.label "Запазени пароли…">
-<!ENTITY savedPasswords.accesskey "З">
+<!ENTITY savedPasswords.label           "Запазени пароли…">
+<!ENTITY savedPasswords.accesskey       "З">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro "&brandShortName; може да улесни антивирусните програми да да анализират получените писма за вируси, преди да бъдат съхранени в компютъра.">
-<!ENTITY antiVirus.label "Разрешаване на антивирусните програми да поставят под карантина получаваните писма">
-<!ENTITY antiVirus.accesskey "Р">
+<!ENTITY antiVirus.intro      "&brandShortName; може да улесни антивирусните програми да да анализират получените писма за вируси, преди да бъдат съхранени в компютъра.">
+<!ENTITY antiVirus.label      "Разрешаване на антивирусните програми да поставят под карантина получаваните писма">
+<!ENTITY antiVirus.accesskey  "Р">
 <!-- Cookies -->
 
-<!ENTITY cookies.intro "&brandShortName; ви позволява да определите кои блогове, новинарски емисии, и други сайтове да поставят бисквитки.">
-<!ENTITY acceptCookies.label "Приемане на бисквитки от сайтове">
-<!ENTITY acceptCookies.accesskey "П">
-<!ENTITY keepUntil.label "Запазване докато:">
-<!ENTITY keepUntil.accesskey "З">
-<!ENTITY expire.label "им изтече времето">
-<!ENTITY close.label "&brandShortName; се затвори">
-<!ENTITY askEachTime.label "се направи запитване">
-<!ENTITY cookieExceptions.label "Изключения…">
-<!ENTITY cookieExceptions.accesskey "И">
-<!ENTITY showCookies.label "Показване на бисквитките…">
-<!ENTITY showCookies.accesskey "о">
+<!ENTITY cookies.intro                  "&brandShortName; ви позволява да определите кои блогове, новинарски емисии, и други сайтове да поставят бисквитки.">
+<!ENTITY acceptCookies.label            "Приемане на бисквитки от сайтове">
+<!ENTITY acceptCookies.accesskey        "П">
+<!ENTITY keepUntil.label                "Запазване докато:">
+<!ENTITY keepUntil.accesskey            "З">
+<!ENTITY expire.label                   "им изтече времето">
+<!ENTITY close.label                    "&brandShortName; се затвори">
+<!ENTITY askEachTime.label              "се направи запитване">
+<!ENTITY cookieExceptions.label         "Изключения…">
+<!ENTITY cookieExceptions.accesskey     "И">
+<!ENTITY showCookies.label              "Показване на бисквитките…">
+<!ENTITY showCookies.accesskey          "о">
 

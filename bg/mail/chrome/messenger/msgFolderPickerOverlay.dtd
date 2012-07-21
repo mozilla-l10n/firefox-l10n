@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY newfolderchoosethis.label "изберете тази за родителска">
-<!ENTITY filemessageschoosethis.label "изберете тази папка">
+<!ENTITY newfolderchoosethis.label      "изберете тази за родителска">
+<!ENTITY filemessageschoosethis.label   "изберете тази папка">

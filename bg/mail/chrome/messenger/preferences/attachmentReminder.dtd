@@ -1,8 +1,8 @@
-<!ENTITY attachmentReminderDialog.title "Ключови думи за напомняне за притурка">
-<!ENTITY attachKeywordText.label "&brandShortName; ще ви предупреди за липсващи притурки, ако изпращате е-поща съдържаща някоя от тези ключови думи.">
-<!ENTITY addKeywordButton.label "Добавяне">
-<!ENTITY addKeywordButton.accesskey "Д">
-<!ENTITY editKeywordButton.label "Промяна">
-<!ENTITY editKeywordButton.accesskey "П">
-<!ENTITY removeKeywordButton.label "Изтриване">
-<!ENTITY removeKeywordButton.accesskey "И">
+<!ENTITY attachmentReminderDialog.title   "Ключови думи за напомняне за притурка">
+<!ENTITY attachKeywordText.label          "&brandShortName; ще ви предупреди за липсващи притурки, ако изпращате е-поща съдържаща някоя от тези ключови думи.">
+<!ENTITY addKeywordButton.label           "Добавяне">
+<!ENTITY addKeywordButton.accesskey       "Д">
+<!ENTITY editKeywordButton.label          "Промяна">
+<!ENTITY editKeywordButton.accesskey      "П">
+<!ENTITY removeKeywordButton.label        "Изтриване">
+<!ENTITY removeKeywordButton.accesskey    "И">

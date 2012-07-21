@@ -43,259 +43,259 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label "Редактиране на елемент">
+<!ENTITY event.title.label                  "Редактиране на елемент" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip "Запазване на продължителността при смяна на крайната дата">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Запазване на продължителността при смяна на крайната дата">
 <!ENTITY event.dialog.keepDurationButton.accesskey "З">
 
-<!ENTITY newevent.from.label "От">
-<!ENTITY newevent.to.label "До">
-<!ENTITY newevent.attendees.notify.label "Уведомяване на участниците">
+<!ENTITY newevent.from.label                "От" >
+<!ENTITY newevent.to.label                  "До" >
+<!ENTITY newevent.attendees.notify.label    "Уведомяване на участниците">
 
-<!ENTITY newevent.status.label "Статус">
-<!ENTITY newevent.status.accesskey "С">
-<!ENTITY newevent.eventStatus.none.label "Не е посочен">
-<!ENTITY newevent.eventStatus.none.accesskey "Н">
-<!ENTITY newevent.todoStatus.none.label "Не е посочен">
-<!ENTITY newevent.eventStatus.cancelled.label "Отказано">
-<!ENTITY newevent.eventStatus.cancelled.accesskey "О">
-<!ENTITY newevent.todoStatus.cancelled.label "Отказано">
-<!ENTITY newevent.status.tentative.label "Несигурен">
-<!ENTITY newevent.status.tentative.accesskey "с">
-<!ENTITY newevent.status.confirmed.label "Потвърдил">
-<!ENTITY newevent.status.confirmed.accesskey "П">
-<!ENTITY newevent.status.needsaction.label "Изисква действие">
-<!ENTITY newevent.status.inprogress.label "В процес">
-<!ENTITY newevent.status.completed.label "Завършено на">
+<!ENTITY newevent.status.label                    "Статус" >
+<!ENTITY newevent.status.accesskey                "С" >
+<!ENTITY newevent.eventStatus.none.label          "Не е посочен" >
+<!ENTITY newevent.eventStatus.none.accesskey      "Н" >
+<!ENTITY newevent.todoStatus.none.label           "Не е посочен" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Отказано" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "О" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Отказано" >
+<!ENTITY newevent.status.tentative.label          "Несигурен" >
+<!ENTITY newevent.status.tentative.accesskey      "с" >
+<!ENTITY newevent.status.confirmed.label          "Потвърдил" >
+<!ENTITY newevent.status.confirmed.accesskey      "П" >
+<!ENTITY newevent.status.needsaction.label        "Изисква действие" >
+<!ENTITY newevent.status.inprogress.label         "В процес" >
+<!ENTITY newevent.status.completed.label          "Завършено на" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label "&#37; завършено">
+<!ENTITY newtodo.percentcomplete.label      "&#37; завършено">
 <!-- Keyboard Shortcuts -->
 
-<!ENTITY event.dialog.new.event.key2 "I">
-<!ENTITY event.dialog.new.task.key2 "D">
-<!ENTITY event.dialog.new.message.key2 "N">
-<!ENTITY event.dialog.close.key "W">
-<!ENTITY event.dialog.save.key "S">
-<!ENTITY event.dialog.saveandclose.key "L">
-<!ENTITY event.dialog.print.key "P">
-<!ENTITY event.dialog.undo.key "Z">
-<!ENTITY event.dialog.redo.key "Y">
-<!ENTITY event.dialog.cut.key "X">
-<!ENTITY event.dialog.copy.key "C">
-<!ENTITY event.dialog.paste.key "V">
-<!ENTITY event.dialog.select.all.key "A">
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
-<!ENTITY event.menu.item.new.label "Ново">
-<!ENTITY event.menu.item.new.accesskey "Н">
-<!ENTITY event.menu.item.new.event.label "Събитие">
-<!ENTITY event.menu.item.new.event.accesskey "б">
-<!ENTITY event.menu.item.new.task.label "Задача">
-<!ENTITY event.menu.item.new.task.accesskey "З">
-<!ENTITY event.menu.item.new.message.label "Писмо">
-<!ENTITY event.menu.item.new.message.accesskey "м">
-<!ENTITY event.menu.item.new.contact.label "Контакт в адресна книга">
-<!ENTITY event.menu.item.new.contact.accesskey "р">
-<!ENTITY event.menu.item.close.label "Затваряне">
-<!ENTITY event.menu.item.close.accesskey "З">
-<!ENTITY event.menu.item.save.label "Запис">
-<!ENTITY event.menu.item.save.accesskey "З">
-<!ENTITY event.menu.item.saveandclose.label "Запис и затваряне">
-<!ENTITY event.menu.item.saveandclose.accesskey "п">
-<!ENTITY event.menu.item.delete.label "Изтриване…">
-<!ENTITY event.menu.item.delete.accesskey "И">
-<!ENTITY event.menu.item.page.setup.label "Конфигуриране на страница">
-<!ENTITY event.menu.item.page.setup.accesskey "К">
-<!ENTITY event.menu.item.print.label "Печат">
-<!ENTITY event.menu.item.print.accesskey "П">
+<!ENTITY  event.menu.item.new.label                       "Ново">
+<!ENTITY  event.menu.item.new.accesskey                   "Н">
+<!ENTITY  event.menu.item.new.event.label                 "Събитие">
+<!ENTITY  event.menu.item.new.event.accesskey             "б">
+<!ENTITY  event.menu.item.new.task.label                  "Задача">
+<!ENTITY  event.menu.item.new.task.accesskey              "З">
+<!ENTITY  event.menu.item.new.message.label               "Писмо">
+<!ENTITY  event.menu.item.new.message.accesskey           "м">
+<!ENTITY  event.menu.item.new.contact.label               "Контакт в адресна книга">
+<!ENTITY  event.menu.item.new.contact.accesskey           "р">
+<!ENTITY  event.menu.item.close.label                     "Затваряне">
+<!ENTITY  event.menu.item.close.accesskey                 "З">
+<!ENTITY  event.menu.item.save.label                      "Запис">
+<!ENTITY  event.menu.item.save.accesskey                  "З">
+<!ENTITY  event.menu.item.saveandclose.label              "Запис и затваряне">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "п">
+<!ENTITY  event.menu.item.delete.label                    "Изтриване…">
+<!ENTITY  event.menu.item.delete.accesskey                "И">
+<!ENTITY  event.menu.item.page.setup.label                "Конфигуриране на страница">
+<!ENTITY  event.menu.item.page.setup.accesskey            "К">
+<!ENTITY  event.menu.item.print.label                     "Печат">
+<!ENTITY  event.menu.item.print.accesskey                 "П">
 
-<!ENTITY event.menu.edit.label "Редактиране">
-<!ENTITY event.menu.edit.accesskey "Р">
-<!ENTITY event.menu.edit.undo.label "Отмяна">
-<!ENTITY event.menu.edit.undo.accesskey "О">
-<!ENTITY event.menu.edit.redo.label "Повторение">
-<!ENTITY event.menu.edit.redo.accesskey "в">
-<!ENTITY event.menu.edit.cut.label "Изрязване">
-<!ENTITY event.menu.edit.cut.accesskey "И">
-<!ENTITY event.menu.edit.copy.label "Копиране">
-<!ENTITY event.menu.edit.copy.accesskey "К">
-<!ENTITY event.menu.edit.paste.label "Поставяне">
-<!ENTITY event.menu.edit.paste.accesskey "в">
-<!ENTITY event.menu.edit.select.all.label "Маркиране на всичко">
-<!ENTITY event.menu.edit.select.all.accesskey "М">
+<!ENTITY  event.menu.edit.label                           "Редактиране">
+<!ENTITY  event.menu.edit.accesskey                       "Р">
+<!ENTITY  event.menu.edit.undo.label                      "Отмяна">
+<!ENTITY  event.menu.edit.undo.accesskey                  "О">
+<!ENTITY  event.menu.edit.redo.label                      "Повторение">
+<!ENTITY  event.menu.edit.redo.accesskey                  "в">
+<!ENTITY  event.menu.edit.cut.label                       "Изрязване">
+<!ENTITY  event.menu.edit.cut.accesskey                   "И">
+<!ENTITY  event.menu.edit.copy.label                      "Копиране">
+<!ENTITY  event.menu.edit.copy.accesskey                  "К">
+<!ENTITY  event.menu.edit.paste.label                     "Поставяне">
+<!ENTITY  event.menu.edit.paste.accesskey                 "в">
+<!ENTITY  event.menu.edit.select.all.label                "Маркиране на всичко">
+<!ENTITY  event.menu.edit.select.all.accesskey            "М">
 
-<!ENTITY event.menu.view.label "Изглед">
-<!ENTITY event.menu.view.accesskey "И">
-<!ENTITY event.menu.view.toolbars.label "Ленти с инструменти">
-<!ENTITY event.menu.view.toolbars.accesskey "Л">
-<!ENTITY event.menu.view.toolbars.event.label "Лента със събития">
-<!ENTITY event.menu.view.toolbars.event.accesskey "Л">
-<!ENTITY event.menu.view.toolbars.customize.label "Персонализиране…">
-<!ENTITY event.menu.view.toolbars.customize.accesskey "П">
-<!ENTITY event.menu.view.showlink.label "Показване на сродните връзки">
-<!ENTITY event.menu.view.showlink.accesskey "в">
+<!ENTITY  event.menu.view.label                           "Изглед">
+<!ENTITY  event.menu.view.accesskey                       "И">
+<!ENTITY  event.menu.view.toolbars.label                  "Ленти с инструменти">
+<!ENTITY  event.menu.view.toolbars.accesskey              "Л">
+<!ENTITY  event.menu.view.toolbars.event.label            "Лента със събития">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "Л">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Персонализиране…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "П">
+<!ENTITY  event.menu.view.showlink.label                  "Показване на сродните връзки">
+<!ENTITY  event.menu.view.showlink.accesskey              "в">
 
-<!ENTITY event.menu.options.label "Настройки">
-<!ENTITY event.menu.options.accesskey "Н">
-<!ENTITY event.menu.options.attachments.label "Прилaгане на уеб страница...">
-<!ENTITY event.menu.options.attachments.accesskey "у">
-<!ENTITY event.menu.options.attendees.label "Поканване на участници...">
-<!ENTITY event.menu.options.attendees.accesskey "ч">
-<!ENTITY event.menu.options.spellcheck.label "Проверка на правописа…">
-<!ENTITY event.menu.options.spellcheck.accesskey "П">
-<!ENTITY event.menu.options.inline.spellcheck.label "Проверка на правописа при писане">
-<!ENTITY event.menu.options.inline.spellcheck.accesskey "р">
-<!ENTITY event.menu.options.link.label "Добавяне на връзка…">
-<!ENTITY event.menu.options.link.accesskey "в">
-<!ENTITY event.menu.options.timezone.label "Часова зона">
-<!ENTITY event.menu.options.timezone.accesskey "з">
-<!ENTITY event.menu.options.priority2.label "Приоритет">
-<!ENTITY event.menu.options.priority2.accesskey "и">
-<!ENTITY event.menu.options.priority.notspecified.label "Не е посочено">
-<!ENTITY event.menu.options.priority.notspecified.accesskey "Н">
-<!ENTITY event.menu.options.priority.low.label "Нисък">
-<!ENTITY event.menu.options.priority.low.accesskey "к">
-<!ENTITY event.menu.options.priority.normal.label "Нормален">
-<!ENTITY event.menu.options.priority.normal.accesskey "Н">
-<!ENTITY event.menu.options.priority.high.label "Висок">
-<!ENTITY event.menu.options.priority.high.accesskey "о">
-<!ENTITY event.menu.options.privacy.label "Поверителност">
-<!ENTITY event.menu.options.privacy.accesskey "т">
-<!ENTITY event.menu.options.privacy.public.label "Публично събитие">
-<!ENTITY event.menu.options.privacy.public.accesskey "л">
-<!ENTITY event.menu.options.privacy.confidential.label "Покажи само час и дата">
-<!ENTITY event.menu.options.privacy.confidential.accesskey "П">
-<!ENTITY event.menu.options.privacy.private.label "Лично събитие">
-<!ENTITY event.menu.options.privacy.private.accesskey "ч">
-<!ENTITY event.menu.options.show.time.label "Показване като">
-<!ENTITY event.menu.options.show.time.accesskey "в">
-<!ENTITY event.menu.options.show.time.busy.label "Зает">
-<!ENTITY event.menu.options.show.time.busy.accesskey "З">
-<!ENTITY event.menu.options.show.time.free.label "Свободен">
-<!ENTITY event.menu.options.show.time.free.accesskey "б">
+<!ENTITY  event.menu.options.label                            "Настройки">
+<!ENTITY  event.menu.options.accesskey                        "Н">
+<!ENTITY  event.menu.options.attachments.label                "Прилaгане на уеб страница...">
+<!ENTITY  event.menu.options.attachments.accesskey            "у">
+<!ENTITY  event.menu.options.attendees.label                  "Поканване на участници...">
+<!ENTITY  event.menu.options.attendees.accesskey              "ч">
+<!ENTITY  event.menu.options.spellcheck.label                 "Проверка на правописа…">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "П">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "Проверка на правописа при писане">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "р">
+<!ENTITY  event.menu.options.link.label                       "Добавяне на връзка…">
+<!ENTITY  event.menu.options.link.accesskey                   "в">
+<!ENTITY  event.menu.options.timezone.label                   "Часова зона">
+<!ENTITY  event.menu.options.timezone.accesskey               "з">
+<!ENTITY  event.menu.options.priority2.label                  "Приоритет">
+<!ENTITY  event.menu.options.priority2.accesskey              "и">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Не е посочено">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "Н">
+<!ENTITY  event.menu.options.priority.low.label               "Нисък">
+<!ENTITY  event.menu.options.priority.low.accesskey           "к">
+<!ENTITY  event.menu.options.priority.normal.label            "Нормален">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "Н">
+<!ENTITY  event.menu.options.priority.high.label              "Висок">
+<!ENTITY  event.menu.options.priority.high.accesskey          "о">
+<!ENTITY  event.menu.options.privacy.label                    "Поверителност">
+<!ENTITY  event.menu.options.privacy.accesskey                "т">
+<!ENTITY  event.menu.options.privacy.public.label             "Публично събитие">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "л">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Покажи само час и дата">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "П">
+<!ENTITY  event.menu.options.privacy.private.label            "Лично събитие">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "ч">
+<!ENTITY  event.menu.options.show.time.label                  "Показване като">
+<!ENTITY  event.menu.options.show.time.accesskey              "в">
+<!ENTITY  event.menu.options.show.time.busy.label             "Зает">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "З">
+<!ENTITY  event.menu.options.show.time.free.label             "Свободен">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "б">
 
-<!ENTITY event.invite.attendees.label "Поканване на участници…">
-<!ENTITY event.invite.attendees.accesskey "ч">
-<!ENTITY event.email.attendees.label "Създаване на писмо до всички участници…">
-<!ENTITY event.email.attendees.accesskey "в">
-<!ENTITY event.email.tentative.attendees.label "Създаване на писмо до нерешилите участници">
-<!ENTITY event.email.tentative.attendees.accesskey "н">
+<!ENTITY event.invite.attendees.label                     "Поканване на участници…">
+<!ENTITY event.invite.attendees.accesskey                 "ч">
+<!ENTITY event.email.attendees.label                      "Създаване на писмо до всички участници…">
+<!ENTITY event.email.attendees.accesskey                  "в">
+<!ENTITY event.email.tentative.attendees.label            "Създаване на писмо до нерешилите участници">
+<!ENTITY event.email.tentative.attendees.accesskey        "н">
 <!-- Toolbar -->
 
-<!ENTITY event.toolbar.save.label "Запис и затваряне">
-<!ENTITY event.toolbar.delete.label "Изтриване">
-<!ENTITY event.toolbar.attendees.label "Поканване на участници">
-<!ENTITY event.toolbar.spellcheck.label "Проверка на правопис">
-<!ENTITY event.toolbar.privacy.label "Поверителност">
-<!ENTITY event.toolbar.attachments.label "Прилагане">
+<!ENTITY  event.toolbar.save.label                        "Запис и затваряне">
+<!ENTITY  event.toolbar.delete.label                      "Изтриване">
+<!ENTITY  event.toolbar.attendees.label                   "Поканване на участници">
+<!ENTITY  event.toolbar.spellcheck.label                  "Проверка на правопис">
+<!ENTITY  event.toolbar.privacy.label                     "Поверителност">
+<!ENTITY  event.toolbar.attachments.label                 "Прилагане">
 <!-- Main page -->
 
-<!ENTITY event.title.textbox.label "Заглавие:">
-<!ENTITY event.title.textbox.accesskey "З">
-<!ENTITY event.location.label "Местоположение:">
-<!ENTITY event.location.accesskey "М">
-<!ENTITY event.categories.label "Категория:">
-<!ENTITY event.categories.accesskey "я">
-<!ENTITY event.calendar.label "Календар:">
-<!ENTITY event.calendar.accesskey "К">
-<!ENTITY event.attendees.label "Участници:">
-<!ENTITY event.attendees.accesskey "У">
-<!ENTITY event.alldayevent.label "Целодневно събитие">
-<!ENTITY event.alldayevent.accesskey "л">
-<!ENTITY event.from.label "Начало:">
-<!ENTITY event.from.accesskey "Н">
-<!ENTITY task.from.label "Начало:">
-<!ENTITY task.from.accesskey "Н">
-<!ENTITY event.to.label "Край:">
-<!ENTITY event.to.accesskey "К">
-<!ENTITY task.to.label "Крайна дата:">
-<!ENTITY task.to.accesskey "й">
-<!ENTITY task.status.label "Статус:">
-<!ENTITY task.status.accesskey "у">
-<!ENTITY event.repeat.label "Повторение:">
-<!ENTITY event.repeat.accesskey "в">
-<!ENTITY event.reminder.label "Напомняне:">
-<!ENTITY event.reminder.accesskey "м">
-<!ENTITY event.description.label "Описание:">
-<!ENTITY event.description.accesskey "п">
-<!ENTITY event.attachments.label "Притурки:">
-<!ENTITY event.attachments.accesskey "т">
-<!ENTITY event.attachments.popup.remove.label "Премахване">
-<!ENTITY event.attachments.popup.remove.accesskey "П">
-<!ENTITY event.attachments.popup.open.label "Отваряне">
-<!ENTITY event.attachments.popup.open.accesskey "О">
-<!ENTITY event.attachments.popup.removeAll.label "Премахване на всички">
-<!ENTITY event.attachments.popup.removeAll.accesskey "х">
-<!ENTITY event.attachments.popup.attachPage.label "Прилагане на уеб страница…">
-<!ENTITY event.attachments.popup.attachPage.accesskey "у">
-<!ENTITY event.url.label "Сродна връзка:">
-<!ENTITY event.priority2.label "Приоритет:">
+<!ENTITY event.title.textbox.label                        "Заглавие:" >
+<!ENTITY event.title.textbox.accesskey                    "З">
+<!ENTITY event.location.label                             "Местоположение:" >
+<!ENTITY event.location.accesskey                         "М">
+<!ENTITY event.categories.label                           "Категория:">
+<!ENTITY event.categories.accesskey                       "я">
+<!ENTITY event.calendar.label                             "Календар:" >
+<!ENTITY event.calendar.accesskey                         "К">
+<!ENTITY event.attendees.label                            "Участници:" >
+<!ENTITY event.attendees.accesskey                        "У" >
+<!ENTITY event.alldayevent.label                          "Целодневно събитие" >
+<!ENTITY event.alldayevent.accesskey                      "л">
+<!ENTITY event.from.label                                 "Начало:" >
+<!ENTITY event.from.accesskey                             "Н">
+<!ENTITY task.from.label                                  "Начало:" >
+<!ENTITY task.from.accesskey                              "Н">
+<!ENTITY event.to.label                                   "Край:" >
+<!ENTITY event.to.accesskey                               "К">
+<!ENTITY task.to.label                                    "Крайна дата:" >
+<!ENTITY task.to.accesskey                                "й">
+<!ENTITY task.status.label                                "Статус:" >
+<!ENTITY task.status.accesskey                            "у">
+<!ENTITY event.repeat.label                               "Повторение:" >
+<!ENTITY event.repeat.accesskey                           "в">
+<!ENTITY event.reminder.label                             "Напомняне:" >
+<!ENTITY event.reminder.accesskey                         "м">
+<!ENTITY event.description.label                          "Описание:" >
+<!ENTITY event.description.accesskey                      "п">
+<!ENTITY event.attachments.label                          "Притурки:" >
+<!ENTITY event.attachments.accesskey                      "т" >
+<!ENTITY event.attachments.popup.remove.label             "Премахване" >
+<!ENTITY event.attachments.popup.remove.accesskey         "П" >
+<!ENTITY event.attachments.popup.open.label               "Отваряне" >
+<!ENTITY event.attachments.popup.open.accesskey           "О" >
+<!ENTITY event.attachments.popup.removeAll.label          "Премахване на всички" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "х" >
+<!ENTITY event.attachments.popup.attachPage.label         "Прилагане на уеб страница…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "у" >
+<!ENTITY event.url.label                                  "Сродна връзка:" >
+<!ENTITY event.priority2.label                            "Приоритет:">
 
-<!ENTITY event.reminder.none.label "Без напомняне">
-<!ENTITY event.reminder.0minutes.before.label "0 минути преди">
-<!ENTITY event.reminder.5minutes.before.label "5 минути преди">
-<!ENTITY event.reminder.15minutes.before.label "15 минути преди">
-<!ENTITY event.reminder.30minutes.before.label "30 минути преди">
-<!ENTITY event.reminder.1hour.before.label "1 час преди">
-<!ENTITY event.reminder.2hours.before.label "2 часа преди">
-<!ENTITY event.reminder.12hours.before.label "12 часа преди">
-<!ENTITY event.reminder.1day.before.label "1 ден преди">
-<!ENTITY event.reminder.2days.before.label "2 дена преди">
-<!ENTITY event.reminder.1week.before.label "1 седмица преди">
-<!ENTITY event.reminder.custom.label "По избор…">
+<!ENTITY event.reminder.none.label                        "Без напомняне" >
+<!ENTITY event.reminder.0minutes.before.label             "0 минути преди" >
+<!ENTITY event.reminder.5minutes.before.label             "5 минути преди" >
+<!ENTITY event.reminder.15minutes.before.label            "15 минути преди" >
+<!ENTITY event.reminder.30minutes.before.label            "30 минути преди" >
+<!ENTITY event.reminder.1hour.before.label                "1 час преди" >
+<!ENTITY event.reminder.2hours.before.label               "2 часа преди" >
+<!ENTITY event.reminder.12hours.before.label              "12 часа преди" >
+<!ENTITY event.reminder.1day.before.label                 "1 ден преди" >
+<!ENTITY event.reminder.2days.before.label                "2 дена преди" >
+<!ENTITY event.reminder.1week.before.label                "1 седмица преди" >
+<!ENTITY event.reminder.custom.label                      "По избор…" >
 
-<!ENTITY event.reminder.multiple.label "Много напомняния…">
+<!ENTITY event.reminder.multiple.label                    "Много напомняния…" >
 <!-- Recurrence dialog -->
 
-<!ENTITY recurrence.title.label "Редактиране на повторенията">
+<!ENTITY recurrence.title.label                         "Редактиране на повторенията">
 
-<!ENTITY event.repeat.does.not.repeat.label "Без повторение">
-<!ENTITY event.repeat.daily.label "Ежедневно">
-<!ENTITY event.repeat.weekly.label "Ежеседмично">
-<!ENTITY event.repeat.every.weekday.label "Всеки делник">
-<!ENTITY event.repeat.bi.weekly.label "През седмица">
-<!ENTITY event.repeat.monthly.label "Ежемесечно">
-<!ENTITY event.repeat.yearly.label "Ежегодно">
-<!ENTITY event.repeat.custom.label "По избор…">
+<!ENTITY event.repeat.does.not.repeat.label             "Без повторение">
+<!ENTITY event.repeat.daily.label                       "Ежедневно">
+<!ENTITY event.repeat.weekly.label                      "Ежеседмично">
+<!ENTITY event.repeat.every.weekday.label               "Всеки делник">
+<!ENTITY event.repeat.bi.weekly.label                   "През седмица">
+<!ENTITY event.repeat.monthly.label                     "Ежемесечно">
+<!ENTITY event.repeat.yearly.label                      "Ежегодно">
+<!ENTITY event.repeat.custom.label                      "По избор…">
 
-<!ENTITY event.recurrence.pattern.label "Модел на повторенията">
-<!ENTITY event.recurrence.occurs.label "Повторение">
-<!ENTITY event.recurrence.day.label "ежедневно">
-<!ENTITY event.recurrence.week.label "ежеседмично">
-<!ENTITY event.recurrence.month.label "ежемесечно">
-<!ENTITY event.recurrence.year.label "ежегодно">
+<!ENTITY event.recurrence.pattern.label                 "Модел на повторенията">
+<!ENTITY event.recurrence.occurs.label                  "Повторение" >
+<!ENTITY event.recurrence.day.label                     "ежедневно" >
+<!ENTITY event.recurrence.week.label                    "ежеседмично" >
+<!ENTITY event.recurrence.month.label                   "ежемесечно" >
+<!ENTITY event.recurrence.year.label                    "ежегодно" >
 
-<!ENTITY event.recurrence.pattern.every.label "Всеки">
-<!ENTITY repeat.units.days.both "Ден/Дни">
-<!ENTITY event.recurrence.pattern.every.weekday.label "Всеки делник">
+<!ENTITY event.recurrence.pattern.every.label           "Всеки" >
+<!ENTITY repeat.units.days.both                         "Ден/Дни" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Всеки делник" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label "Всяка/Всеки">
-<!ENTITY repeat.units.weeks.both "Седмица/Седмици">
-<!ENTITY event.recurrence.on.label "В/Във:">
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Всяка/Всеки" >
+<!ENTITY repeat.units.weeks.both                        "Седмица/Седмици" >
+<!ENTITY event.recurrence.on.label                      "В/Във:" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label "Всеки/На всеки">
-<!ENTITY repeat.units.months.both "Месец(а)">
-<!ENTITY event.recurrence.monthly.every.label "Всяка">
-<!ENTITY event.recurrence.monthly.first.label "Първата/Първият">
-<!ENTITY event.recurrence.monthly.second.label "Втората/Вторият">
-<!ENTITY event.recurrence.monthly.third.label "Третата/Третият">
-<!ENTITY event.recurrence.monthly.fourth.label "Четвъртата/Четвъртият">
-<!ENTITY event.recurrence.monthly.fifth.label "Петата/Петият">
-<!ENTITY event.recurrence.monthly.last.label "Последната/Последният">
-<!ENTITY event.recurrence.pattern.monthly.week.1.label "Неделя">
-<!ENTITY event.recurrence.pattern.monthly.week.2.label "Понеделник">
-<!ENTITY event.recurrence.pattern.monthly.week.3.label "Вторник">
-<!ENTITY event.recurrence.pattern.monthly.week.4.label "Сряда">
-<!ENTITY event.recurrence.pattern.monthly.week.5.label "Четвъртък">
-<!ENTITY event.recurrence.pattern.monthly.week.6.label "Петък">
-<!ENTITY event.recurrence.pattern.monthly.week.7.label "Събота">
-<!ENTITY event.recurrence.repeat.dayofmonth.label "Дена на месеца">
-<!ENTITY event.recurrence.repeat.recur.label "Повторения на ден/дни">
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Всеки/На всеки" >
+<!ENTITY repeat.units.months.both                       "Месец(а)" >
+<!ENTITY event.recurrence.monthly.every.label           "Всяка" >
+<!ENTITY event.recurrence.monthly.first.label           "Първата/Първият">
+<!ENTITY event.recurrence.monthly.second.label          "Втората/Вторият">
+<!ENTITY event.recurrence.monthly.third.label           "Третата/Третият">
+<!ENTITY event.recurrence.monthly.fourth.label          "Четвъртата/Четвъртият">
+<!ENTITY event.recurrence.monthly.fifth.label           "Петата/Петият">
+<!ENTITY event.recurrence.monthly.last.label            "Последната/Последният">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Неделя" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Понеделник" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Вторник" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Сряда" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Четвъртък" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Петък" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Събота" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Дена на месеца">
+<!ENTITY event.recurrence.repeat.recur.label            "Повторения на ден/дни">
 
-<!ENTITY event.recurrence.every.label "Всяка/На всеки">
-<!ENTITY repeat.units.years.both "Година/Години">
-<!ENTITY event.recurrence.pattern.yearly.every.month.label "Всеки">
+<!ENTITY event.recurrence.every.label                        "Всяка/На всеки" >
+<!ENTITY repeat.units.years.both                             "Година/Години" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Всеки" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -304,95 +304,95 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
-<!ENTITY event.recurrence.pattern.yearly.of.label "">
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
-<!ENTITY event.recurrence.pattern.yearly.month.1.label "Януари">
-<!ENTITY event.recurrence.pattern.yearly.month.2.label "Февруари">
-<!ENTITY event.recurrence.pattern.yearly.month.3.label "Март">
-<!ENTITY event.recurrence.pattern.yearly.month.4.label "Април">
-<!ENTITY event.recurrence.pattern.yearly.month.5.label "Май">
-<!ENTITY event.recurrence.pattern.yearly.month.6.label "Юни">
-<!ENTITY event.recurrence.pattern.yearly.month.7.label "Юли">
-<!ENTITY event.recurrence.pattern.yearly.month.8.label "Август">
-<!ENTITY event.recurrence.pattern.yearly.month.9.label "Септември">
-<!ENTITY event.recurrence.pattern.yearly.month.10.label "Октомври">
-<!ENTITY event.recurrence.pattern.yearly.month.11.label "Ноември">
-<!ENTITY event.recurrence.pattern.yearly.month.12.label "Декември">
-<!ENTITY event.recurrence.yearly.every.label "Всяка">
-<!ENTITY event.recurrence.yearly.first.label "Първата">
-<!ENTITY event.recurrence.yearly.second.label "Втората">
-<!ENTITY event.recurrence.yearly.third.label "Третата">
-<!ENTITY event.recurrence.yearly.fourth.label "Четвъртата">
-<!ENTITY event.recurrence.yearly.fifth.label "Петата">
-<!ENTITY event.recurrence.yearly.last.label "Последната">
-<!ENTITY event.recurrence.pattern.yearly.week.1.label "Неделя">
-<!ENTITY event.recurrence.pattern.yearly.week.2.label "Понеделник">
-<!ENTITY event.recurrence.pattern.yearly.week.3.label "Вторник">
-<!ENTITY event.recurrence.pattern.yearly.week.4.label "Сряда">
-<!ENTITY event.recurrence.pattern.yearly.week.5.label "Четвъртък">
-<!ENTITY event.recurrence.pattern.yearly.week.6.label "Петък">
-<!ENTITY event.recurrence.pattern.yearly.week.7.label "Събота">
-<!ENTITY event.recurrence.of.label "на">
-<!ENTITY event.recurrence.pattern.yearly.month2.1.label "Януари">
-<!ENTITY event.recurrence.pattern.yearly.month2.2.label "Февруари">
-<!ENTITY event.recurrence.pattern.yearly.month2.3.label "Март">
-<!ENTITY event.recurrence.pattern.yearly.month2.4.label "Април">
-<!ENTITY event.recurrence.pattern.yearly.month2.5.label "Май">
-<!ENTITY event.recurrence.pattern.yearly.month2.6.label "Юни">
-<!ENTITY event.recurrence.pattern.yearly.month2.7.label "Юли">
-<!ENTITY event.recurrence.pattern.yearly.month2.8.label "Август">
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label "Септември">
-<!ENTITY event.recurrence.pattern.yearly.month2.10.label "Октомври">
-<!ENTITY event.recurrence.pattern.yearly.month2.11.label "Ноември">
-<!ENTITY event.recurrence.pattern.yearly.month2.12.label "Декември">
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Януари" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Февруари" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Март" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Април" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Май" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Юни" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Юли" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Август" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Септември" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Октомври" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Ноември" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Декември" >
+<!ENTITY event.recurrence.yearly.every.label                 "Всяка">
+<!ENTITY event.recurrence.yearly.first.label                 "Първата">
+<!ENTITY event.recurrence.yearly.second.label                "Втората">
+<!ENTITY event.recurrence.yearly.third.label                 "Третата">
+<!ENTITY event.recurrence.yearly.fourth.label                "Четвъртата">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Петата">
+<!ENTITY event.recurrence.yearly.last.label                  "Последната">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Неделя" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Понеделник" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Вторник" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Сряда" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Четвъртък" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Петък" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Събота" >
+<!ENTITY event.recurrence.of.label                           "на" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Януари" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Февруари" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Март" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Април" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Май" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Юни" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Юли" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Август" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Септември" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Октомври" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Ноември" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Декември" >
 
-<!ENTITY event.recurrence.range.label "Обхват на повторенията">
-<!ENTITY event.recurrence.forever.label "Без крайна дата">
-<!ENTITY event.recurrence.repeat.for.label "Създаване">
-<!ENTITY event.recurrence.appointments.label "Среща/Срещи">
-<!ENTITY event.repeat.until.label "Повтаряне до">
-<!ENTITY event.recurrence.preview.label "Преглед">
+<!ENTITY event.recurrence.range.label                   "Обхват на повторенията">
+<!ENTITY event.recurrence.forever.label                 "Без крайна дата" >
+<!ENTITY event.recurrence.repeat.for.label              "Създаване" >
+<!ENTITY event.recurrence.appointments.label            "Среща/Срещи" >
+<!ENTITY event.repeat.until.label                       "Повтаряне до" >
+<!ENTITY event.recurrence.preview.label                 "Преглед">
 <!-- Attendees dialog -->
 
-<!ENTITY invite.title.label "Поканване на участници">
-<!ENTITY event.organizer.label "Организатор">
-<!ENTITY event.freebusy.suggest.slot "Предлагане на времеви пояс:">
-<!ENTITY event.freebusy.next.slot "Следващ пояс">
-<!ENTITY event.freebusy.previous.slot " Предишен пояс">
-<!ENTITY event.freebusy.zoom "Мащабиране:">
-<!ENTITY event.freebusy.plus "Час напред">
-<!ENTITY event.freebusy.minus "Час назад">
-<!ENTITY event.freebusy.legend.free "Свободен">
-<!ENTITY event.freebusy.legend.busy "Зает">
-<!ENTITY event.freebusy.legend.busy_tentative "Несигурен">
-<!ENTITY event.freebusy.legend.busy_unavailable "Извън офиса">
-<!ENTITY event.freebusy.legend.unknown "Няма информация">
-<!ENTITY event.attendee.role.required "Задълчителни участници">
-<!ENTITY event.attendee.role.optional "Допълнителни участници">
-<!ENTITY event.attendee.role.chair "Председател">
-<!ENTITY event.attendee.role.nonparticipant "Не е участник">
+<!ENTITY invite.title.label                     "Поканване на участници">
+<!ENTITY event.organizer.label                  "Организатор">
+<!ENTITY event.freebusy.suggest.slot            "Предлагане на времеви пояс:">
+<!ENTITY event.freebusy.next.slot               "Следващ пояс" >
+<!ENTITY event.freebusy.previous.slot           " Предишен пояс" >
+<!ENTITY event.freebusy.zoom                    "Мащабиране:">
+<!ENTITY event.freebusy.plus                    "Час напред" >
+<!ENTITY event.freebusy.minus                   "Час назад" >
+<!ENTITY event.freebusy.legend.free             "Свободен" >
+<!ENTITY event.freebusy.legend.busy             "Зает" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Несигурен" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Извън офиса" >
+<!ENTITY event.freebusy.legend.unknown          "Няма информация" >
+<!ENTITY event.attendee.role.required           "Задълчителни участници">
+<!ENTITY event.attendee.role.optional           "Допълнителни участници">
+<!ENTITY event.attendee.role.chair              "Председател">
+<!ENTITY event.attendee.role.nonparticipant     "Не е участник">
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label "Моля, посочете времевата зона">
+<!ENTITY timezone.title.label            "Моля, посочете времевата зона">
 <!-- Read-Only dialog -->
 
-<!ENTITY read.only.general.label "Основни">
-<!ENTITY read.only.title.label "Заглавие:">
-<!ENTITY read.only.event.start.label "Начална дата:">
-<!ENTITY read.only.task.start.label "Начална дата:">
-<!ENTITY read.only.event.end.label "Крайна дата:">
-<!ENTITY read.only.task.due.label "Краен срок:">
-<!ENTITY read.only.repeat.label "Повторение:">
-<!ENTITY read.only.location.label "Местоположение:">
-<!ENTITY read.only.category.label "Категория:">
-<!ENTITY read.only.organizer.label "Организатор:">
-<!ENTITY read.only.reply.label "Отговор:">
-<!ENTITY read.only.accept.label "Ще присъствам">
-<!ENTITY read.only.decline.label "Няма да присъствам">
-<!ENTITY read.only.tentative.label "Може би ще присъствам">
-<!ENTITY read.only.needs.action.label "Ще потвърдя по-късно">
-<!ENTITY read.only.reminder.label "Напомняне:">
-<!ENTITY read.only.attendees.label "Участници">
-<!ENTITY read.only.description.label "Описание">
-<!ENTITY read.only.documents.label "Документи">
-<!ENTITY read.only.link.label "Сродни връзки">
+<!ENTITY read.only.general.label         "Основни">
+<!ENTITY read.only.title.label           "Заглавие:">
+<!ENTITY read.only.event.start.label     "Начална дата:">
+<!ENTITY read.only.task.start.label      "Начална дата:">
+<!ENTITY read.only.event.end.label       "Крайна дата:">
+<!ENTITY read.only.task.due.label        "Краен срок:">
+<!ENTITY read.only.repeat.label          "Повторение:">
+<!ENTITY read.only.location.label        "Местоположение:">
+<!ENTITY read.only.category.label        "Категория:">
+<!ENTITY read.only.organizer.label       "Организатор:">
+<!ENTITY read.only.reply.label           "Отговор:">
+<!ENTITY read.only.accept.label          "Ще присъствам">
+<!ENTITY read.only.decline.label         "Няма да присъствам">
+<!ENTITY read.only.tentative.label       "Може би ще присъствам">
+<!ENTITY read.only.needs.action.label    "Ще потвърдя по-късно">
+<!ENTITY read.only.reminder.label        "Напомняне:">
+<!ENTITY read.only.attendees.label       "Участници">
+<!ENTITY read.only.description.label     "Описание">
+<!ENTITY read.only.documents.label       "Документи">
+<!ENTITY read.only.link.label            "Сродни връзки">

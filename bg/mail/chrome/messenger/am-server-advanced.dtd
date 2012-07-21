@@ -20,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "Д">
 <!ENTITY overrideNamespaces.label "Сървърът може да променя тези именни пространства">
 <!ENTITY overrideNamespaces.accesskey "С">
-<!ENTITY pop3Desc.label "При изтегляне на pop поща от този сървър, ще се използва тази папка за нова поща:">
+<!ENTITY pop3Desc.label "При изтегляне на pop поща от този сървър, ще се използва тази папка за нова поща:" >
 <!ENTITY globalInbox.label "Обща пощенска кутия (Регистрация Местни папки)">
 <!ENTITY globalInbox.accesskey "О">
 <!ENTITY accountDirectory.label "Пощенска кутия на тази поща">
