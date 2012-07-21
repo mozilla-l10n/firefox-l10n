@@ -195,5 +195,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          uit Android">
 <!ENTITY bookmarkhistory_import_wait "Een moment geduld…">
 
+<!ENTITY webapp_generic_name "App">
 <!ENTITY private_data_success "Privégegevens gewist">
 <!ENTITY private_data_fail "Sommige privégegevens konden niet worden gewist">
