@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Offline-Web-Anwendungen">
+<!ENTITY pref.offlineCache.caption          "Offline-Web-Inhalte und -Benutzerdaten">
+
+<!ENTITY clearOfflineAppCache.label         "Leeren">
+<!ENTITY clearOfflineAppCache.accesskey     "L">
+
+<!ENTITY offlineNotify.label                "Benachrichtigen, wenn eine Website Daten  für den Offline-Gebrauch speichern möchte.">
+<!ENTITY offlineNotify.accesskey            "B">
+<!ENTITY offlineNotifyPermissions.label     "Berechtigungen verwalten">
+<!ENTITY offlineNotifyPermissions.accesskey "v">
+
+<!ENTITY offlineAppsList.label              "Die folgenden Websites haben Erlaubnis, Daten zum Offline-Gebrauch zu speichern:">
+<!ENTITY offlineAppsListRemove.label        "Daten entfernen…">
+<!ENTITY offlineAppsListRemove.accesskey    "D">

@@ -30,6 +30,7 @@
 <!ENTITY advance.label "Erweitert">
 <!ENTITY down.label "Herunterladen">
 <!ENTITY cache.label "Cache">
+<!ENTITY offlineApps.label "Offline-Apps">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "HTTP-Verbindungen">
 <!ENTITY smart.label "Software-Installation">
