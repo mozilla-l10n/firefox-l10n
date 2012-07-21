@@ -33,21 +33,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title "Създаване на нов календар">
-<!ENTITY wizard.label "Създаване на нов календар">
-<!ENTITY wizard.description "Намиране на вашия календар">
+<!ENTITY wizard.title             "Създаване на нов календар" >
+<!ENTITY wizard.label             "Създаване на нов календар" >
+<!ENTITY wizard.description       "Намиране на вашия календар" >
 
-<!ENTITY initialpage.description "Вашият календар може да бъде запазен локално или на сървър, за да бъде достъпен отдалечено или за да го споделяте с приятели или колеги.">
-<!ENTITY initialpage.computer.label "Локално">
-<!ENTITY initialpage.network.label "На сървър">
+<!ENTITY initialpage.description    "Вашият календар може да бъде запазен локално или на сървър, за да бъде достъпен отдалечено или за да го споделяте с приятели или колеги." >
+<!ENTITY initialpage.computer.label  "Локално">
+<!ENTITY initialpage.network.label  "На сървър">
 
-<!ENTITY locationpage.description "Осигурете информация за достъп до календара, намиращ се на отдалечен сървър.">
-<!ENTITY locationpage.login.description "Ако е нужно, въведете потребителско име и парола">
-<!ENTITY locationpage.username.label "Потребителско име:">
-<!ENTITY locationpage.password.label "Парола:">
+<!ENTITY locationpage.description         "Осигурете информация за достъп до календара, намиращ се на отдалечен сървър." >
+<!ENTITY locationpage.login.description   "Ако е нужно, въведете потребителско име и парола" >
+<!ENTITY locationpage.username.label      "Потребителско име:" >
+<!ENTITY locationpage.password.label      "Парола:" >
 
-<!ENTITY custompage.shortdescription "Настройване на вашия календар">
-<!ENTITY custompage.longdescription "Може да дадете кратко име и цвят на събитията от този календар.">
+<!ENTITY custompage.shortdescription  "Настройване на вашия календар" >
+<!ENTITY custompage.longdescription   "Може да дадете кратко име и цвят на събитията от този календар." >
 
-<!ENTITY finishpage.shortdescription "Календарът е създаден">
-<!ENTITY finishpage.longdescription "Вашият календар е създаден.">
+<!ENTITY finishpage.shortdescription  "Календарът е създаден" >
+<!ENTITY finishpage.longdescription   "Вашият календар е създаден." >

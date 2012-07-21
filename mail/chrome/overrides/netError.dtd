@@ -43,6 +43,9 @@
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Документът е изтекъл">
+<!ENTITY notCached.longDesc "<p>Търсеният документ липсва в кеша.</p><ul><li>Като защитна мярка, &brandShortName; няма автоматично отново да изтегля документи с чувствителна информация.</li><li>Щракнете на Отново, за да заявите документът от уебсайта.</li></ul>">
+
 <!ENTITY netOffline.title "Режим без мрежа">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Натиснете &quot;Отново&quot;, за да превключите в режим на линия и да презаредите страницата.</li> 

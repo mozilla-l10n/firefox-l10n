@@ -1,31 +1,31 @@
-<!ENTITY dialog.title "Настройки за изпращане">
-<!ENTITY sendMail.title "Текстов формат">
-<!ENTITY sendMaildesc.label "Когато изпращате писмо в HTML формат и един и повече получатели не могат да получават HTML:">
-<!ENTITY askMe.label "Запитване какво действие да се предприеме">
-<!ENTITY askMe.accesskey "З">
-<!ENTITY convertPlain.label "Конвертиране в обикновен текст">
-<!ENTITY convertPlain.accesskey "К">
-<!ENTITY sendHTML.label "Изпращане на писмото в HTML">
-<!ENTITY sendHTML.accesskey "И">
-<!ENTITY sendBoth.label "Изпращане на писмото в обикновен текст и HTML">
-<!ENTITY sendBoth.accesskey "щ">
-<!ENTITY override.label "Забележка: Използвайте адресника, за да определите предпочитаните текстови формати за получателите.">
+<!ENTITY dialog.title                 "Настройки за изпращане">
+<!ENTITY sendMail.title               "Текстов формат">
+<!ENTITY sendMaildesc.label           "Когато изпращате писмо в HTML формат и един и повече получатели не могат да получават HTML:">
+<!ENTITY askMe.label                  "Запитване какво действие да се предприеме">
+<!ENTITY askMe.accesskey              "З">
+<!ENTITY convertPlain.label           "Конвертиране в обикновен текст">
+<!ENTITY convertPlain.accesskey       "К">
+<!ENTITY sendHTML.label               "Изпращане на писмото в HTML">
+<!ENTITY sendHTML.accesskey           "И">
+<!ENTITY sendBoth.label               "Изпращане на писмото в обикновен текст и HTML">
+<!ENTITY sendBoth.accesskey           "щ">
+<!ENTITY override.label               "Забележка: Използвайте адресника, за да определите предпочитаните текстови формати за получателите.">
 
-<!ENTITY domaindesc.label "Когато изпращате писмо на адрес, чийто домейн е изписан долу, &brandShortName; автоматично ще изпрати писмото в правилния формат.">
-<!ENTITY HTMLTab.label "Домейни за HTML">
-<!ENTITY HTMLTab.accesskey "м">
-<!ENTITY PlainTextTab.label "Домейни за обикновен текст">
-<!ENTITY PlainTextTab.accesskey "й">
-<!ENTITY AddHtmlDomain.label "Добавяне…">
-<!ENTITY AddHtmlDomain.accesskey "Д">
-<!ENTITY AddPlainText.label "Добавяне…">
-<!ENTITY AddPlainText.accesskey "Д">
-<!ENTITY DeleteHtmlDomain.label "Изтриване">
-<!ENTITY DeleteHtmlDomain.accesskey "з">
-<!ENTITY DeletePlainText.label "Изтриване">
-<!ENTITY DeletePlainText.accesskey "з">
+<!ENTITY domaindesc.label             "Когато изпращате писмо на адрес, чийто домейн е изписан долу, &brandShortName; автоматично ще изпрати писмото в правилния формат.">
+<!ENTITY HTMLTab.label                "Домейни за HTML">
+<!ENTITY HTMLTab.accesskey            "м">
+<!ENTITY PlainTextTab.label           "Домейни за обикновен текст">
+<!ENTITY PlainTextTab.accesskey       "й">
+<!ENTITY AddHtmlDomain.label          "Добавяне…">
+<!ENTITY AddHtmlDomain.accesskey      "Д">
+<!ENTITY AddPlainText.label           "Добавяне…">
+<!ENTITY AddPlainText.accesskey       "Д">
+<!ENTITY DeleteHtmlDomain.label       "Изтриване">
+<!ENTITY DeleteHtmlDomain.accesskey   "з">
+<!ENTITY DeletePlainText.label        "Изтриване">
+<!ENTITY DeletePlainText.accesskey    "з">
 
-<!ENTITY add.htmltitle "Добавяне име на домейн">
-<!ENTITY add.htmldomain "Име на домейн за HTML:">
-<!ENTITY add.plaintexttitle "Добавяне име на домейн">
-<!ENTITY add.plaintextdomain "Име на домейн за обикновен текст:">
+<!ENTITY add.htmltitle                "Добавяне име на домейн">
+<!ENTITY add.htmldomain               "Име на домейн за HTML:">
+<!ENTITY add.plaintexttitle           "Добавяне име на домейн">
+<!ENTITY add.plaintextdomain          "Име на домейн за обикновен текст:">

@@ -26,4 +26,4 @@
 <!ENTITY choosethisnewsserver.label "изберете този новинарски сървър">
 <!ENTITY helpButton.label "Помощ">
 <!ENTITY helpButton.accesskey "П">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 

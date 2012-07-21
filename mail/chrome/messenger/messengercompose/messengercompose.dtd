@@ -2,7 +2,7 @@
 <!ENTITY msgComposeWindow.title "Писане: (без тема)">
 <!-- File Menu -->
 
-<!ENTITY fileMenu.label "Файл">
+<!ENTITY fileMenu.label "Файл"> 
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Нови">
 <!ENTITY newMenu.accesskey "Н">
@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "р">
 <!ENTITY attachFileCmd.label "Файл(ове)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Уеб страница…">
 <!ENTITY attachPageCmd.accesskey "У">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -48,20 +49,20 @@
 <!ENTITY printCmd.accesskey "П">
 <!-- Edit Menu -->
 
-<!ENTITY editMenu.label "Редактиране">
+<!ENTITY editMenu.label "Редактиране"> 
 <!ENTITY editMenu.accesskey "Р">
 <!ENTITY undoCmd.label "Отмяна">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY undoCmd.accesskey "О"> 
 <!ENTITY redoCmd.label "Повторение">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "П"> 
 <!ENTITY cutCmd.label "Изрязване">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "я">
+<!ENTITY cutCmd.accesskey "я"> 
 <!ENTITY copyCmd.label "Копиране">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
+<!ENTITY copyCmd.accesskey "К"> 
 <!ENTITY pasteCmd.label "Поставяне">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "в">
@@ -74,7 +75,7 @@
 <!ENTITY deleteCmd.accesskey "з">
 <!ENTITY selectAllCmd.label "Избор на всичко">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "И">
+<!ENTITY selectAllCmd.accesskey "И"> 
 <!ENTITY findCmd.label "Търсене и замяна…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "Т">
@@ -85,13 +86,13 @@
 <!ENTITY findPrevCmd.label "Търсене предишна">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "ш">
+<!ENTITY findPrevCmd.accesskey "ш"> 
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "Изглед">
+<!ENTITY viewMenu.label "Изглед"> 
 <!ENTITY viewMenu.accesskey "г">
-<!ENTITY viewToolbarsMenuNew.label "Ленти с инструменти">
-<!ENTITY viewToolbarsMenuNew.accesskey "Л">
+<!ENTITY viewToolbarsMenuNew.label "Ленти с инструменти"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "Л"> 
 <!ENTITY menubarCmd.label "Лента на менюто">
 <!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showCompositionToolbarCmd.label "Инструменти за писане">
@@ -103,8 +104,8 @@
 <!ENTITY customizeToolbar.label "Персонализация…">
 <!ENTITY customizeToolbar.accesskey "П">
 
-<!ENTITY addressSidebar.label "Панел Контакти">
-<!ENTITY addressSidebar.accesskey "П">
+<!ENTITY addressSidebar.label "Панел Контакти"> 
+<!ENTITY addressSidebar.accesskey "П"> 
 <!-- Format Menu -->
 
 <!ENTITY formatMenu.label "Формат">
@@ -171,14 +172,14 @@
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Настройки…">
 <!ENTITY preferencesCmd.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey "Н">
+<!ENTITY preferencesCmdUnix.label       "Настройки">
+<!ENTITY preferencesCmdUnix.accesskey   "Н"> 
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Минимизиране">
 <!ENTITY bringAllToFront.label "Извежда всичко на преден план">
-<!ENTITY zoomWindow.label "Лупа">
+<!ENTITY zoomWindow.label "Лупа"> 
 <!ENTITY windowMenu.label "Прозорец">
 <!-- Mail Toolbar -->
 
@@ -190,16 +191,16 @@
 <!ENTITY saveButton.label "Запис">
 <!-- Mail Toolbar Tooltips -->
 
-<!ENTITY sendButton.tooltip "Изпращане на писмото веднага">
-<!ENTITY sendlaterButton.tooltip "Писмото ще се изпрати по-късно">
-<!ENTITY quoteButton.tooltip "Цитиране на предното писмо">
-<!ENTITY addressButton.tooltip "Изберете получател от адресника">
-<!ENTITY attachButton.tooltip "Закачане на притурка">
+<!ENTITY sendButton.tooltip "Изпращане на писмото веднага"> 
+<!ENTITY sendlaterButton.tooltip "Писмото ще се изпрати по-късно"> 
+<!ENTITY quoteButton.tooltip "Цитиране на предното писмо"> 
+<!ENTITY addressButton.tooltip "Изберете получател от адресника"> 
+<!ENTITY attachButton.tooltip "Закачане на притурка"> 
 <!ENTITY spellingButton.tooltip "Правописна проверка на маркировката или цялото писмо">
-<!ENTITY saveButton.tooltip "Запис на писмото">
-<!ENTITY cutButton.tooltip "Изрязване">
-<!ENTITY copyButton.tooltip "Копиране">
-<!ENTITY pasteButton.tooltip "Поставяне">
+<!ENTITY saveButton.tooltip "Запис на писмото"> 
+<!ENTITY cutButton.tooltip              "Изрязване">
+<!ENTITY copyButton.tooltip             "Копиране">
+<!ENTITY pasteButton.tooltip            "Поставяне">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -207,12 +208,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "От:">
 <!ENTITY fromAddr.accesskey "О">
-<!ENTITY toAddr.label "До:">
-<!ENTITY ccAddr.label "Копие:">
-<!ENTITY bccAddr.label "Скрито:">
-<!ENTITY replyAddr.label "Отговор до:">
-<!ENTITY newsgroupsAddr.label "Новинарска група:">
-<!ENTITY followupAddr.label "Продължение в:">
+<!ENTITY toAddr.label "До:"> 
+<!ENTITY ccAddr.label "Копие:"> 
+<!ENTITY bccAddr.label "Скрито:"> 
+<!ENTITY replyAddr.label "Отговор до:"> 
+<!ENTITY newsgroupsAddr.label "Новинарска група:"> 
+<!ENTITY followupAddr.label "Продължение в:"> 
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond

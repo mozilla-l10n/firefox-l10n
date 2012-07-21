@@ -1,4 +1,4 @@
-<!ENTITY appManager.title "Детайли за приложението">
-<!ENTITY appManager.style "width: 30em; min-height: 20em;">
-<!ENTITY remove.label "Премахване">
-<!ENTITY remove.accesskey "П">
+<!ENTITY appManager.title     "Детайли за приложението">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
+<!ENTITY remove.label         "Премахване">
+<!ENTITY remove.accesskey     "П">

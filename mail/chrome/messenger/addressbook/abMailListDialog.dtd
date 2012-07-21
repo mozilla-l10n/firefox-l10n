@@ -37,21 +37,21 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Title -->
 
-<!ENTITY mailListWindow.title "Пощенски списък">
+<!ENTITY mailListWindow.title           "Пощенски списък">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Добавяне към:">
+<!ENTITY addToAddressBook.label         "Добавяне към:">
 
-<!ENTITY ListName.label "Име на списък:">
-<!ENTITY ListNickName.label "Псевдоним на списък: ">
-<!ENTITY ListDescription.label "Описание:">
+<!ENTITY ListName.label                 "Име на списък:">
+<!ENTITY ListNickName.label             "Псевдоним на списък: ">
+<!ENTITY ListDescription.label          "Описание:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Напишете адреси, за да ги добавите към пощенския списък:">
-<!ENTITY UpButton.label "Премества нагоре">
-<!ENTITY DownButton.label "Премества надолу">
+<!ENTITY AddressTitle.label             "Напишете адреси, за да ги добавите към пощенския списък:">
+<!ENTITY UpButton.label                 "Премества нагоре">
+<!ENTITY DownButton.label               "Премества надолу">
 <!-- Access Keys -->
 
-<!ENTITY addToAddressBook.accesskey "Д">
-<!ENTITY ListName.accesskey "И">
-<!ENTITY ListNickName.accesskey "П">
-<!ENTITY ListDescription.accesskey "О">
+<!ENTITY addToAddressBook.accesskey     "Д">
+<!ENTITY ListName.accesskey             "И">
+<!ENTITY ListNickName.accesskey         "П">
+<!ENTITY ListDescription.accesskey      "О">
 

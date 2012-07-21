@@ -1,29 +1,29 @@
 
-<!ENTITY migrationWizard.title "Помощник за внасяне">
+<!ENTITY migrationWizard.title          "Помощник за внасяне">
 
-<!ENTITY importFromWin.label "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">
-<!ENTITY importFromNonWin.label "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">
+<!ENTITY importFromWin.label            "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">
+<!ENTITY importFromNonWin.label         "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">
 
-<!ENTITY importFromNothing.label "Нищо не се внася">
-<!ENTITY importFromNothing.accesskey "Н">
-<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x или SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "S">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
+<!ENTITY importFromNothing.label        "Нищо не се внася">
+<!ENTITY importFromNothing.accesskey    "Н">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
+<!ENTITY importFromSeamonkey3.accesskey "S">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title "Внасяне на настройки и папки с писма">
-<!ENTITY importItems.title "Позиции за внасяне">
-<!ENTITY importItems.label "Изберете кои позиции ще внесете:">
+<!ENTITY importSource.title             "Внасяне на настройки и папки с писма">
+<!ENTITY importItems.title              "Позиции за внасяне">
+<!ENTITY importItems.label              "Изберете кои позиции ще внесете:">
 
-<!ENTITY migrating.title "Внасяне…">
-<!ENTITY migrating.label "Следните позиции са внесени до момента…">
+<!ENTITY migrating.title                "Внасяне…">
+<!ENTITY migrating.label                "Следните позиции са внесени до момента…">
 
-<!ENTITY selectProfile.title "Избор на профил">
-<!ENTITY selectProfile.label "Налични са следните профили, от които може да се внесе:">
+<!ENTITY selectProfile.title            "Избор на профил">
+<!ENTITY selectProfile.label            "Налични са следните профили, от които може да се внесе:">
 
-<!ENTITY done.title "Внасянето завършено">
-<!ENTITY done.label "Следните позиции бяха успешно внесени:">
+<!ENTITY done.title                     "Внасянето завършено">
+<!ENTITY done.label                     "Следните позиции бяха успешно внесени:">

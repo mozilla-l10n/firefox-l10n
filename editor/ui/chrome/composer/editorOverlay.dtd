@@ -43,49 +43,21 @@
 <!-- File menu items -->
 
 
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY openFileCmd.label "Отваряне на файл…">
-<!ENTITY openFileCmd.accesskey "О">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Отваряне на уеб адрес">
-<!ENTITY openRemoteCmd.accesskey "е">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Последни страници">
-<!ENTITY fileRecentMenu.accesskey "П">
-<!ENTITY fileRevert.label "Връщане">
-<!ENTITY fileRevert.accesskey "В">
-<!ENTITY saveCmd.label "Запис">
-<!ENTITY saveCmd.accesskey "с">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Запис като…">
-<!ENTITY saveAsCmd.accesskey "к">
-
-<!ENTITY publishCmd.label "Публикуване">
-<!ENTITY publishCmd.accesskey "б">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Публикуване като…">
-<!ENTITY publishAsCmd.accesskey "у">
-<!ENTITY saveAsChangeEncodingCmd.label "Запис и смяна знаковото кодиране">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "к">
 <!-- Edit menu items -->
 
-<!ENTITY editMenu.label "Редактиране">
-<!ENTITY editMenu.accesskey "Р">
 <!ENTITY pasteNoFormatting.label "Поставяне неформатирано">
 <!ENTITY pasteNoFormatting.accesskey "ф">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Поставяне като">
 <!ENTITY pasteAs.accesskey "к">
-<!ENTITY publishSettings.label "Настройки на сайта за публикуване…">
-<!ENTITY publishSettings.accesskey "Н">
 <!ENTITY pasteAsQuotationCmd.label "Поставяне като цитат">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Търсене и замяна…">
 <!ENTITY enableInlineSpellChecker.label "Проверка на правопис при писане">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
-<!ENTITY checkSpellingCmd2.label "Проверка на правописа">
+<!ENTITY checkSpellingCmd2.label "Проверка на правописа…">
 <!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
@@ -146,7 +118,7 @@
 <!ENTITY increaseFontSize.accesskey "У">
 <!ENTITY increaseFontSize.key "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key2 "="> 
 
 <!ENTITY fontSizeMenu.label "Размер">
 <!ENTITY fontSizeMenu.accesskey "м">
@@ -211,11 +183,11 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Премахване на именувани котви">
 <!ENTITY formatRemoveNamedAnchors.accesskey "х">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Абзац">
 <!ENTITY paragraphMenu.accesskey "А">
-<!ENTITY paragraphParagraphCmd.label "Абзац">
+<!ENTITY paragraphParagraphCmd.label "Абзац">  
 <!ENTITY paragraphParagraphCmd.accesskey "А">
 <!ENTITY heading1Cmd.label "Заглавие 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -355,12 +327,6 @@
 
 <!ENTITY menuBar.tooltip "Лента на менюто">
 <!ENTITY formatToolbar.tooltip "Лента с инструменти за форматиране">
-<!ENTITY newToolbarCmd.label "Нови">
-<!ENTITY newToolbarCmd.tooltip "Създаване на нова страница в композитора">
-<!ENTITY openToolbarCmd.label "Отваряне">
-<!ENTITY openToolbarCmd.tooltip "Отваряне на файл от твърдия диск">
-<!ENTITY saveToolbarCmd.tooltip "Запис на файла на твърдия диск">
-<!ENTITY publishToolbarCmd.tooltip "Качаване на файл на отдалечен адрес">
 <!ENTITY cutToolbarCmd.tooltip "Изрязване">
 <!ENTITY copyToolbarCmd.tooltip "Копиране">
 <!ENTITY pasteToolbarCmd.tooltip "Поставяне">
@@ -403,19 +369,19 @@
 <!ENTITY alignJustifyButton.tooltip "Подравняване на текста към лявата и дясната граница">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Избор">
-<!ENTITY structSelect.accesskey "И">
-<!ENTITY structRemoveTag.label "Премахване на етикет">
-<!ENTITY structRemoveTag.accesskey "м">
-<!ENTITY structChangeTag.label "Промяна на етикет">
-<!ENTITY structChangeTag.accesskey "я">
+<!ENTITY structSelect.label         "Избор">
+<!ENTITY structSelect.accesskey     "И">
+<!ENTITY structRemoveTag.label      "Премахване на етикет">
+<!ENTITY structRemoveTag.accesskey  "м">
+<!ENTITY structChangeTag.label      "Промяна на етикет">
+<!ENTITY structChangeTag.accesskey  "я">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label "Вмъкване">
-<!ENTITY insertTOC.accesskey "В">
-<!ENTITY updateTOC.label "Обновяване">
-<!ENTITY updateTOC.accesskey "О">
-<!ENTITY removeTOC.label "Премахване">
-<!ENTITY removeTOC.accesskey "П">
-<!ENTITY tocMenu.label "Съдържание…">
-<!ENTITY tocMenu.accesskey "С">
+<!ENTITY insertTOC.label          "Вмъкване">
+<!ENTITY insertTOC.accesskey      "В">
+<!ENTITY updateTOC.label          "Обновяване">
+<!ENTITY updateTOC.accesskey      "О">
+<!ENTITY removeTOC.label          "Премахване">
+<!ENTITY removeTOC.accesskey      "П">
+<!ENTITY tocMenu.label            "Съдържание…">
+<!ENTITY tocMenu.accesskey        "С">

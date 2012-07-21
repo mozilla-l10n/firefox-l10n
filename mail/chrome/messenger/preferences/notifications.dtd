@@ -1,11 +1,11 @@
-<!ENTITY notificationsDialog2.title "Известяване за нова поща по избор">
-<!ENTITY window.width "30em">
+<!ENTITY notificationsDialog2.title       "Известяване за нова поща по избор">
+<!ENTITY window.width                     "30em">
 
-<!ENTITY alertCustomization.intro "Изберете кои полета да се показват при известяване:">
-<!ENTITY previewText.label "Преглед на текста">
-<!ENTITY previewText.accesskey "П">
-<!ENTITY subject.label "Тема">
-<!ENTITY subject.accesskey "Т">
-<!ENTITY sender.label "Подател">
-<!ENTITY sender.accesskey "д">
+<!ENTITY alertCustomization.intro         "Изберете кои полета да се показват при известяване:">
+<!ENTITY previewText.label                "Преглед на текста">
+<!ENTITY previewText.accesskey            "П">
+<!ENTITY subject.label                    "Тема">
+<!ENTITY subject.accesskey                "Т">
+<!ENTITY sender.label                     "Подател">
+<!ENTITY sender.accesskey                 "д">
 

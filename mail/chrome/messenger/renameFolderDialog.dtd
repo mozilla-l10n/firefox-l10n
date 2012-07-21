@@ -36,8 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title "Преименуване на папката">
-<!ENTITY rename.label "Въведете новото име на папката:">
-<!ENTITY rename.accesskey "В">
-<!ENTITY accept.label "Преименуване">
-<!ENTITY accept.accesskey "П">
+<!ENTITY renameFolderDialog.title          "Преименуване на папката">
+<!ENTITY rename.label                      "Въведете новото име на папката:">
+<!ENTITY rename.accesskey                  "В">
+<!ENTITY accept.label                      "Преименуване">
+<!ENTITY accept.accesskey                  "П">

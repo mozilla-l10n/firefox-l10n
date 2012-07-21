@@ -1,35 +1,35 @@
-<!ENTITY messengerStartPage.label "Начална страница на &brandShortName;">
-<!ENTITY enableStartPage.label "При стартиране на &brandShortName; се показва началната страница">
-<!ENTITY enableStartPage.accesskey "с">
-<!ENTITY location.label "Адрес:">
-<!ENTITY location1.accesskey "д">
-<!ENTITY useDefault.label "Възстановяване">
-<!ENTITY useDefault.accesskey "В">
+<!ENTITY messengerStartPage.label         "Начална страница на &brandShortName;">
+<!ENTITY enableStartPage.label            "При стартиране на &brandShortName; се показва началната страница">
+<!ENTITY enableStartPage.accesskey        "с">
+<!ENTITY location.label                   "Адрес:">
+<!ENTITY location1.accesskey               "д">
+<!ENTITY useDefault.label                 "Възстановяване">
+<!ENTITY useDefault.accesskey             "В">
 
-<!ENTITY bounceSystemDockIcon.label "Анимиране на док-иконата">
-<!ENTITY bounceSystemDockIcon.accesskey "д">
+<!ENTITY bounceSystemDockIcon.label       "Анимиране на док-иконата">
+<!ENTITY bounceSystemDockIcon.accesskey   "д">
 
-<!ENTITY newMessagesArrive.label "При пристигане на ново писмо:">
-<!ENTITY playSound.label "Изсвирва звук">
-<!ENTITY playSound1.accesskey "у">
-<!ENTITY showAnimatedAlert.label "Показване на известие">
-<!ENTITY showAnimatedAlert.accesskey "и">
-<!ENTITY customizeMailAlert.label "Нагласяване…">
-<!ENTITY customizeMailAlert.accesskey "Н">
+<!ENTITY newMessagesArrive.label          "При пристигане на ново писмо:">
+<!ENTITY playSound.label                  "Изсвирва звук">
+<!ENTITY playSound1.accesskey              "у">
+<!ENTITY showAnimatedAlert.label          "Показване на известие">
+<!ENTITY showAnimatedAlert.accesskey      "и">
+<!ENTITY customizeMailAlert.label         "Нагласяване…">
+<!ENTITY customizeMailAlert.accesskey     "Н">
 
-<!ENTITY play.label "Прослушва">
-<!ENTITY play.accesskey "ш">
-<!ENTITY systemsound.label "Стандартен системен звук за ново писмо">
-<!ENTITY systemsoundMac.label "Предупредителен системен звук">
-<!ENTITY systemsoundMac.accesskey "м">
-<!ENTITY systemsound.accesskey "м">
-<!ENTITY customsound.label "Използване на следния звуков файл">
-<!ENTITY customsound.accesskey "И">
-<!ENTITY browse.label "Избор…">
-<!ENTITY browse.accesskey "р">
+<!ENTITY play.label                       "Прослушва">
+<!ENTITY play.accesskey                   "ш">
+<!ENTITY systemsound.label                "Стандартен системен звук за ново писмо">
+<!ENTITY systemsoundMac.label             "Предупредителен системен звук">
+<!ENTITY systemsoundMac.accesskey         "м">
+<!ENTITY systemsound.accesskey            "м">
+<!ENTITY customsound.label                "Използване на следния звуков файл">
+<!ENTITY customsound.accesskey            "И">
+<!ENTITY browse.label                     "Избор…">
+<!ENTITY browse.accesskey                 "р">
 
-<!ENTITY addonsMgr.label "Добавки">
-<!ENTITY manageAddonsDescWin.label "Промяна на настройките на вашите добавки">
-<!ENTITY manageAddonsDescUnix2.label "Промяна на настройките на вашите добавки">
-<!ENTITY manageAddons.label "Управление на добавките…">
-<!ENTITY manageAddons.accesskey "У">
+<!ENTITY addonsMgr.label                  "Добавки">
+<!ENTITY manageAddonsDescWin.label        "Промяна на настройките на вашите добавки">
+<!ENTITY manageAddonsDescUnix2.label      "Промяна на настройките на вашите добавки">
+<!ENTITY manageAddons.label               "Управление на добавките…">
+<!ENTITY manageAddons.accesskey           "У">

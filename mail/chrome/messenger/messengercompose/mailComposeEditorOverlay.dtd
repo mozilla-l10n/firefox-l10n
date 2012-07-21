@@ -1,5 +1,5 @@
-<!ENTITY attachImageSource.label "Прикрепяне на това изображение към писмото">
-<!ENTITY attachImageSource.accesskey "о">
+<!ENTITY attachImageSource.label         "Прикрепяне на това изображение към писмото">
+<!ENTITY attachImageSource.accesskey     "о">
 
-<!ENTITY attachLinkSource.label "Прикрепяне на източника на връзката към писмото">
-<!ENTITY attachLinkSource.accesskey "з">
+<!ENTITY attachLinkSource.label          "Прикрепяне на източника на връзката към писмото">
+<!ENTITY attachLinkSource.accesskey      "з">

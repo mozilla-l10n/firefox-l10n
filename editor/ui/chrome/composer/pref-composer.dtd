@@ -3,23 +3,23 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 
 
-<!ENTITY pref.composer.title "Composer">
-<!ENTITY recentFiles.title "Меню последни страници">
-<!ENTITY documentsInMenu.label "Максимален брой на изброените страници:">
-<!ENTITY documentsInMenu.accesskey "М">
-<!ENTITY savingFiles.title "Когато записвате или публикуване страници">
-<!ENTITY preserveExisting.label "Запазване оригиналното форматиране">
-<!ENTITY preserveExisting.accesskey "о">
-<!ENTITY preserveExisting.tooltip "Запазване на разделителите и оригиналното форматиране на страницата">
-<!ENTITY saveAssociatedFiles.label "При записване на страници се съхраняват изображения и други прилежащи файлове">
-<!ENTITY saveAssociatedFiles.accesskey "з">
-<!ENTITY showPublishDialog.label "При публикуване на страници се показва винаги прозорец за публикуване">
-<!ENTITY showPublishDialog.accesskey "П">
-<!ENTITY composerEditing.label "Редактиране">
-<!ENTITY maintainStructure.label "Запазване на вида на таблицата при вмъкване или изтриване на клетки">
-<!ENTITY maintainStructure.tooltip "Запазване на правоъгълната форма на таблицата чрез добавяне на клетки след вмъкване или изтриване на клетки">
-<!ENTITY maintainStructure.accesskey "т">
-<!ENTITY useCSS.label "Използване на CSS оформления вместо HTML елементи и атрибути">
-<!ENTITY useCSS.accesskey "И">
-<!ENTITY crInPCreatesNewP.label "Връщането към параграф винаги създава нов параграф">
-<!ENTITY crInPCreatesNewP.accesskey "В">
+<!ENTITY  pref.composer.title           "Composer">
+<!ENTITY  recentFiles.title             "Меню последни страници">
+<!ENTITY  documentsInMenu.label         "Максимален брой на изброените страници:">
+<!ENTITY  documentsInMenu.accesskey     "М">
+<!ENTITY  savingFiles.title             "Когато записвате или публикуване страници">
+<!ENTITY  preserveExisting.label        "Запазване оригиналното форматиране">
+<!ENTITY  preserveExisting.accesskey    "о">
+<!ENTITY  preserveExisting.tooltip      "Запазване на разделителите и оригиналното форматиране на страницата">
+<!ENTITY  saveAssociatedFiles.label     "При записване на страници се съхраняват изображения и други прилежащи файлове">
+<!ENTITY  saveAssociatedFiles.accesskey "з">
+<!ENTITY  showPublishDialog.label       "При публикуване на страници се показва винаги прозорец за публикуване">
+<!ENTITY  showPublishDialog.accesskey   "П">
+<!ENTITY  composerEditing.label         "Редактиране">
+<!ENTITY  maintainStructure.label       "Запазване на вида на таблицата при вмъкване или изтриване на клетки">
+<!ENTITY  maintainStructure.tooltip     "Запазване на правоъгълната форма на таблицата чрез добавяне на клетки след вмъкване или изтриване на клетки">
+<!ENTITY  maintainStructure.accesskey   "т">
+<!ENTITY  useCSS.label                  "Използване на CSS оформления вместо HTML елементи и атрибути">
+<!ENTITY  useCSS.accesskey              "И">
+<!ENTITY  crInPCreatesNewP.label        "Връщането към параграф винаги създава нов параграф">
+<!ENTITY  crInPCreatesNewP.accesskey    "В">

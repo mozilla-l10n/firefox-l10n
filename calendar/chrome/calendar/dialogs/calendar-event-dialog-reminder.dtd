@@ -34,21 +34,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY reminderdialog.title "Настройване на напомняния">
-<!ENTITY reminder.add.label "Добавяне">
-<!ENTITY reminder.add.accesskey "Д">
-<!ENTITY reminder.remove.label "Премахване">
-<!ENTITY reminder.remove.accesskey "П">
+<!ENTITY reminderdialog.title                              "Настройване на напомняния">
+<!ENTITY reminder.add.label                                "Добавяне">
+<!ENTITY reminder.add.accesskey                            "Д">
+<!ENTITY reminder.remove.label                             "Премахване">
+<!ENTITY reminder.remove.accesskey                         "П">
 
-<!ENTITY reminder.reminderDetails.label "Подробности за напомнянето">
-<!ENTITY reminder.action.label "Избор на действие за напомняне">
+<!ENTITY reminder.reminderDetails.label                    "Подробности за напомнянето">
+<!ENTITY reminder.action.label                             "Избор на действие за напомняне">
 
-<!ENTITY reminder.relation.before.label "преди">
-<!ENTITY reminder.relation.after.label "след">
+<!ENTITY reminder.relation.before.label                    "преди" >
+<!ENTITY reminder.relation.after.label                     "след" >
 
-<!ENTITY reminder.action.alert.label "Показване на аларма">
-<!ENTITY reminder.action.email.label "Изпращане на писмо">
+<!ENTITY reminder.action.alert.label                       "Показване на аларма">
+<!ENTITY reminder.action.email.label                       "Изпращане на писмо">
 
-<!ENTITY alarm.units.minutes "минути">
-<!ENTITY alarm.units.hours "часове">
-<!ENTITY alarm.units.days "дни">
+<!ENTITY alarm.units.minutes                               "минути" >
+<!ENTITY alarm.units.hours                                 "часове" >
+<!ENTITY alarm.units.days                                  "дни" >

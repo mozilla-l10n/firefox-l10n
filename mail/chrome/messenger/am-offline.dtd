@@ -42,13 +42,13 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 
-<!ENTITY allAutosync.label "Синхронизиране на всички съобщения локално независимо от възрастта">
-<!ENTITY allAutosync.accesskey "х">
-<!ENTITY ageAutosyncBefore.label "Синхронизиране на най-новите">
-<!ENTITY ageAutosync.accesskey "з">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "Дни">
-<!ENTITY weekAgeInterval.label "Седмици">
-<!ENTITY monthAgeInterval.label "Месеци">
-<!ENTITY yearAgeInterval.label "Години">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY allAutosync.label               "Синхронизиране на всички съобщения локално независимо от възрастта">
+<!ENTITY allAutosync.accesskey           "х">
+<!ENTITY ageAutosyncBefore.label         "Синхронизиране на най-новите">
+<!ENTITY ageAutosync.accesskey           "з">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Дни">
+<!ENTITY weekAgeInterval.label           "Седмици">
+<!ENTITY monthAgeInterval.label          "Месеци">
+<!ENTITY yearAgeInterval.label           "Години">
+<!ENTITY ageAutosyncAfter.label          "">

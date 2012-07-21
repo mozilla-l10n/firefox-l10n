@@ -36,20 +36,20 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "Безопасен режим с &brandShortName;">
-<!ENTITY window.width "39em">
+<!ENTITY safeModeDialog.title             "Безопасен режим с &brandShortName;">
+<!ENTITY window.width                     "39em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; работи в безопасен режим, в който временно са отменени вашите лични настройки, теми и разширения.">
-<!ENTITY safeModeDescription2.label "Можете да направите някои от тези или всички промени постоянни:">
+<!ENTITY safeModeDescription.label        "&brandShortName; работи в безопасен режим, в който временно са отменени вашите лични настройки, теми и разширения.">
+<!ENTITY safeModeDescription2.label       "Можете да направите някои от тези или всички промени постоянни:">
 
-<!ENTITY disableAddons.label "Изключване на всички добавки">
-<!ENTITY disableAddons.accesskey "И">
+<!ENTITY disableAddons.label              "Изключване на всички добавки">
+<!ENTITY disableAddons.accesskey          "И">
 
-<!ENTITY resetToolbars.label "Преустановяване на ленти с инструменти и контроли">
-<!ENTITY resetToolbars.accesskey "П">
+<!ENTITY resetToolbars.label              "Преустановяване на ленти с инструменти и контроли">
+<!ENTITY resetToolbars.accesskey          "П">
 
-<!ENTITY changeAndRestartButton.label "Извършване на промените и рестартиране">
+<!ENTITY changeAndRestartButton.label     "Извършване на промените и рестартиране">
 <!ENTITY changeAndRestartButton.accesskey "И">
 
-<!ENTITY continueButton.label "Продължаване в безопасен режим">
-<!ENTITY continueButton.accesskey "р">
+<!ENTITY continueButton.label             "Продължаване в безопасен режим">
+<!ENTITY continueButton.accesskey         "р">

@@ -37,14 +37,14 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label "URL на сайта:">
-<!ENTITY docSubdir.label "Поддиректория на страницата:">
-<!ENTITY otherSubdir.label "Поддиректория за изображенията:">
+<!ENTITY siteUrl.label         "URL на сайта:">
+<!ENTITY docSubdir.label       "Поддиректория на страницата:">
+<!ENTITY otherSubdir.label     "Поддиректория за изображенията:">
 
-<!ENTITY status.label "Публикуване…">
-<!ENTITY fileList.label "Състояние на публикуването">
-<!ENTITY succeeded.label "Успешно">
-<!ENTITY failed.label "Неуспешно">
+<!ENTITY status.label          "Публикуване…">
+<!ENTITY fileList.label        "Състояние на публикуването">
+<!ENTITY succeeded.label       "Успешно">
+<!ENTITY failed.label          "Неуспешно">
 
-<!ENTITY keepOpen "Запазване на прозореца отворен след завършването на операцията.">
-<!ENTITY closeButton.label "Затваряне">
+<!ENTITY keepOpen              "Запазване на прозореца отворен след завършването на операцията.">
+<!ENTITY closeButton.label     "Затваряне">

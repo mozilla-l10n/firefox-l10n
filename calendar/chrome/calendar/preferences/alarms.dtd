@@ -20,6 +20,7 @@
    -
    - Contributor(s): 
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,7 +41,7 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Когато алармата се включи:">
+<!ENTITY pref.alarmgoesoff.label "Когато е време за припомняне:">
 <!ENTITY pref.playasound "Пускане на звук">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "П">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Стандартен звук">
@@ -49,20 +50,20 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "Р">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Преглед">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "г">
-<!ENTITY pref.showalarmbox "Показване на съобщение за аларма">
+<!ENTITY pref.showalarmbox "Показване на диалогов прозорец">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "с">
-<!ENTITY pref.missedalarms "Показване на пропуснати аларми">
+<!ENTITY pref.missedalarms "Показване на пропуснатите припомняния">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "п">
-<!ENTITY pref.calendar.alarms.defaults.label "Стандартни настройки за аларма">
+<!ENTITY pref.calendar.alarms.defaults.label "Настройки по подразбиране за припомняне">
 <!ENTITY pref.defalarm4events.label "Алармиране за събития:">
 <!ENTITY pref.defalarm4events.accesskey "А">
 <!ENTITY pref.defalarm4todos.label "Алармиране за задачи:">
 <!ENTITY pref.defalarm4todos.accesskey "р">
 <!ENTITY pref.alarm.on "Да">
 <!ENTITY pref.alarm.off "Не">
-<!ENTITY pref.defalarmlen4events.label "Време за включване на аларма преди начало на събитие:">
-<!ENTITY pref.defalarmlen4events.accesskey "к">
-<!ENTITY pref.defalarmlen4todos.label "Време за включване на аларма преди начало на задача:">
-<!ENTITY pref.defalarmlen4todos.accesskey "р">
+<!ENTITY pref.defalarmlen4events.label "Подразбиращо се време за припомняне преди събитие:">
+<!ENTITY pref.defalarmlen4events.accesskey "с">
+<!ENTITY pref.defalarmlen4todos.label "Подразбиращо се време за припомняне преди събитие:">
+<!ENTITY pref.defalarmlen4todos.accesskey "с">
 <!ENTITY pref.defaultemail.label "Адрес за изпращане на аларма:">
-<!ENTITY pref.defaulttext.label "Текст при аларма:">
+<!ENTITY pref.defaulttext.label "Подразбиращ се текст за припомняне :">

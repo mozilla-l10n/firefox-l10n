@@ -34,58 +34,58 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY time.midnight "Полунощ">
-<!ENTITY time.noon "Обед">
+<!ENTITY time.midnight "Полунощ" >
+<!ENTITY time.noon "Обед" >
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 
-<!ENTITY day.1.Ddd "Нед">
+<!ENTITY day.1.Ddd "Нед" >
 <!ENTITY day.1.Ddd.accesskey "Н">
-<!ENTITY day.2.Ddd "Пен">
+<!ENTITY day.2.Ddd "Пен" >
 <!ENTITY day.2.Ddd.accesskey "П">
-<!ENTITY day.3.Ddd "Вто">
+<!ENTITY day.3.Ddd "Вто" >
 <!ENTITY day.3.Ddd.accesskey "В">
-<!ENTITY day.4.Ddd "Сря">
+<!ENTITY day.4.Ddd "Сря" >
 <!ENTITY day.4.Ddd.accesskey "С">
-<!ENTITY day.5.Ddd "Чет">
+<!ENTITY day.5.Ddd "Чет" >
 <!ENTITY day.5.Ddd.accesskey "Ч">
-<!ENTITY day.6.Ddd "Пет">
+<!ENTITY day.6.Ddd "Пет" >
 <!ENTITY day.6.Ddd.accesskey "П">
-<!ENTITY day.7.Ddd "Съб">
+<!ENTITY day.7.Ddd "Съб" >
 <!ENTITY day.7.Ddd.accesskey "С">
 
-<!ENTITY day.1.name "Неделя">
-<!ENTITY day.2.name "Понеделник">
-<!ENTITY day.3.name "Вторник">
-<!ENTITY day.4.name "Сряда">
-<!ENTITY day.5.name "Четвъртък">
-<!ENTITY day.6.name "Петък">
-<!ENTITY day.7.name "Събота">
+<!ENTITY day.1.name "Неделя" >
+<!ENTITY day.2.name "Понеделник" >
+<!ENTITY day.3.name "Вторник" >
+<!ENTITY day.4.name "Сряда" >
+<!ENTITY day.5.name "Четвъртък" >
+<!ENTITY day.6.name "Петък" >
+<!ENTITY day.7.name "Събота" >
 <!-- Units -->
 
-<!ENTITY calendar.global.units.minute "минута">
-<!ENTITY calendar.global.units.minutes "минути">
-<!ENTITY calendar.global.units.hour "час">
-<!ENTITY calendar.global.units.hours "часа">
-<!ENTITY calendar.global.units.day "ден">
-<!ENTITY calendar.global.units.days "дни">
+<!ENTITY calendar.global.units.minute   "минута">
+<!ENTITY calendar.global.units.minutes  "минути">
+<!ENTITY calendar.global.units.hour     "час">
+<!ENTITY calendar.global.units.hours    "часа">
+<!ENTITY calendar.global.units.day      "ден">
+<!ENTITY calendar.global.units.days     "дни">
 
-<!ENTITY month.1.name "Януари">
-<!ENTITY month.2.name "Февруари">
-<!ENTITY month.3.name "Март">
-<!ENTITY month.4.name "Април">
-<!ENTITY month.5.name "Май">
-<!ENTITY month.6.name "Юни">
-<!ENTITY month.7.name "Юли">
-<!ENTITY month.8.name "Август">
-<!ENTITY month.9.name "Септември">
-<!ENTITY month.10.name "Октомври">
-<!ENTITY month.11.name "Ноември">
-<!ENTITY month.12.name "Декември">
+<!ENTITY month.1.name "Януари" >
+<!ENTITY month.2.name "Февруари" >
+<!ENTITY month.3.name "Март" >
+<!ENTITY month.4.name "Април" >
+<!ENTITY month.5.name "Май" >
+<!ENTITY month.6.name "Юни" >
+<!ENTITY month.7.name "Юли" >
+<!ENTITY month.8.name "Август" >
+<!ENTITY month.9.name "Септември" >
+<!ENTITY month.10.name "Октомври" >
+<!ENTITY month.11.name "Ноември" >
+<!ENTITY month.12.name "Декември" >
 
-<!ENTITY onemonthbackward.tooltip "Един месец назад">
-<!ENTITY onemonthforward.tooltip "Един месец напред">
+<!ENTITY onemonthbackward.tooltip "Един месец назад" >
+<!ENTITY onemonthforward.tooltip "Един месец напред" >
 <!ENTITY showToday.tooltip "Днес">
 <!ENTITY onedayforward.tooltip "Един ден напред">
 <!ENTITY onedaybackward.tooltip "Един ден назад">

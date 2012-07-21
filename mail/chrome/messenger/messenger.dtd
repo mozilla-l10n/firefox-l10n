@@ -1,5 +1,4 @@
-<!ENTITY messengerWindow.title "Поща и дискусионни групи">
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
@@ -23,8 +22,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "З">
 <!ENTITY newOtherAccountsCmd.label "Други регистрации…">
 <!ENTITY newOtherAccountsCmd.accesskey "Д">
-<!ENTITY newEmailAccountCmd.label "Пощенска регистрация…">
-<!ENTITY newEmailAccountCmd.accesskey "р">
+<!ENTITY newCreateEmailAccountCmd.label "Получаване на нова регистрация…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "П">
+<!ENTITY newExistingEmailAccountCmd.label "Съществуваща регистрация…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "С">
 <!ENTITY openMessageFileCmd.label "Отваряне на записано писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY openAttachmentCmd.label "Притурки">
@@ -54,9 +55,9 @@
 <!ENTITY renameFolder.accesskey "м">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Уплътняване на папките">
-<!ENTITY compactFolders.accesskey "ъ">
+<!ENTITY compactFolders.accesskey    "ъ">
 <!ENTITY emptyTrashCmd.label "Изпразване на кошчето">
-<!ENTITY emptyTrashCmd.accesskey "ш">
+<!ENTITY emptyTrashCmd.accesskey    "ш">
 <!ENTITY offlineMenu.label "Без връзка">
 <!ENTITY offlineMenu.accesskey "Б">
 <!ENTITY offlineGoOfflineCmd.label "Работа без връзка">
@@ -96,7 +97,7 @@
 <!ENTITY all.accesskey "В">
 <!ENTITY selectThreadCmd.label "Дискусия">
 <!ENTITY selectThreadCmd.accesskey "Д">
-<!ENTITY selectThreadCmd.key "t">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Писмо със звезда">
 <!ENTITY selectFlaggedCmd.accesskey "з">
 <!ENTITY menuFavoriteFolder.label "Любима папка">
@@ -134,6 +135,8 @@
 <!ENTITY messagePaneWide.accesskey "Р">
 <!ENTITY messagePaneVertical.label "Вертикален изглед">
 <!ENTITY messagePaneVertical.accesskey "В">
+<!ENTITY showFolderPaneCmd.label "Панел за папки">
+<!ENTITY showFolderPaneCmd.accesskey "л">
 <!ENTITY showMessageCmd.label "Панел за писма">
 <!ENTITY showMessageCmd.accesskey "П">
 
@@ -247,27 +250,27 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label "Увеличаване">
-<!ENTITY fullZoomEnlargeCmd.accesskey "У">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.label       "Увеличаване">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "У">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label "Намаляване">
-<!ENTITY fullZoomReduceCmd.accesskey "я">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.label        "Намаляване">
+<!ENTITY fullZoomReduceCmd.accesskey    "я">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label "Нулиране">
-<!ENTITY fullZoomResetCmd.accesskey "у">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label         "Нулиране">
+<!ENTITY fullZoomResetCmd.accesskey     "у">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label "Увеличаване само на текста">
-<!ENTITY fullZoomToggleCmd.accesskey "т">
-<!ENTITY fullZoom.label "Лупа">
-<!ENTITY fullZoom.accesskey "Л">
+<!ENTITY fullZoomToggleCmd.label        "Увеличаване само на текста">
+<!ENTITY fullZoomToggleCmd.accesskey    "т">
+<!ENTITY fullZoom.label                 "Лупа">
+<!ENTITY fullZoom.accesskey             "Л">
 
 <!ENTITY pageSourceCmd.label "Изходен код на писмото">
 <!ENTITY pageSourceCmd.accesskey "х">
@@ -342,25 +345,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "с">
 <!ENTITY archiveMsgCmd.label "Архив">
 <!ENTITY archiveMsgCmd.accesskey "х">
-<!ENTITY archiveMsgCmd.key "t">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Прекъсване на писмо">
 <!ENTITY cancelNewsMsgCmd.accesskey "ъ">
 <!ENTITY replyMsgCmd.label "Отговор">
 <!ENTITY replyMsgCmd.accesskey "О">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Отговор само до подателя">
 <!ENTITY replySenderCmd.accesskey "с">
 <!ENTITY replyNewsgroupCmd.label "Отговор до групата">
-<!ENTITY replyNewsgroupCmd.accesskey "г">
+<!ENTITY replyNewsgroupCmd.accesskey  "г">
 <!ENTITY replyToAllMsgCmd.label "Отговор до всички">
-<!ENTITY replyToAllMsgCmd.accesskey "в">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "в">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Отговор до списък">
-<!ENTITY replyToListMsgCmd.accesskey "с">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.accesskey  "с">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Препращане">
 <!ENTITY forwardMsgCmd.accesskey "а">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Препращане като">
 <!ENTITY forwardAsMenu.accesskey "щ">
 <!ENTITY forwardAsInline.label "Направо">
@@ -374,8 +377,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY createFilter.accesskey "з">
 <!ENTITY moveMsgToMenu.label "Преместване в">
 <!ENTITY moveMsgToMenu.accesskey "м">
-<!ENTITY moveCopyMsgRecentMenu.label "Последни">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "П">
+<!ENTITY moveCopyMsgRecentMenu.label "Скорошни">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "С">
 <!ENTITY copyMessageLocation.label "Копиране адреса на писмото">
 <!ENTITY copyMessageLocation.accesskey "К">
 <!ENTITY copyMsgToMenu.label "Копиране в">
@@ -585,8 +588,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ч">
 <!ENTITY folderContextSubscribe.label "Абониране…">
 <!ENTITY folderContextSubscribe.accesskey "б">
-<!ENTITY folderContextSearchMessages.label "Търсене…">
-<!ENTITY folderContextSearchMessages.accesskey "с">
+<!ENTITY folderContextSearchForMessages.label "Search Messages…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Свойства…">
 <!ENTITY folderContextProperties.accesskey "й">
 <!ENTITY folderContextFavoriteFolder.label "Любима папка">
@@ -858,14 +861,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "Лупа">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "Настройки…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Услуги">
-<!ENTITY hideThisAppCmdMac.label "Скриване на &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Скриване на другите">
+<!ENTITY preferencesCmdMac.label        "Настройки…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Услуги">
+<!ENTITY hideThisAppCmdMac.label        "Скриване на &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Скриване на другите">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Показване на всички">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Показване на всички">

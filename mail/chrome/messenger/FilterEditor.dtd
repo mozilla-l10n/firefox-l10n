@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Препращане за:">
 <!ENTITY replyWithTemplate.label "Отговор с шаблон:">
 <!ENTITY markMessageRead.label "Отбелязване като прочетено">
+<!ENTITY markMessageUnread.label "Mark As Unread">
 <!ENTITY markMessageStarred.label "Добавяне на звезда">
 <!ENTITY setPriority.label "Задаване приоритета на">
 <!ENTITY addTag.label "Отбелязване на писмо">

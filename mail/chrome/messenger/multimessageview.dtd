@@ -1,4 +1,4 @@
-<!ENTITY window.title "Обобщение на съобщение">
-<!ENTITY selectedmessages.label "Избрани съобщения">
-<!ENTITY archiveButton.label "Aрхивиране">
-<!ENTITY deleteButton.label "Изтриване">
+<!ENTITY window.title             "Обобщение на съобщение">
+<!ENTITY selectedmessages.label   "Избрани съобщения">
+<!ENTITY archiveButton.label      "Aрхивиране">
+<!ENTITY deleteButton.label       "Изтриване">

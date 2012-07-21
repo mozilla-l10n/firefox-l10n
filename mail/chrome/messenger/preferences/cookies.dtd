@@ -1,28 +1,28 @@
-<!ENTITY window.width "46em">
+<!ENTITY window.width                      "46em">
 
-<!ENTITY cookiesonsystem.label "Следните бисквитки са записани на компютъра ви:">
-<!ENTITY cookiename.label "Име на бисквитката">
-<!ENTITY cookiedomain.label "Сайт">
-<!ENTITY button.removecookie.label "Премахване">
-<!ENTITY button.removecookie.accesskey "П">
-<!ENTITY button.removeallcookies.label "Премахване на всички">
+<!ENTITY cookiesonsystem.label             "Следните бисквитки са записани на компютъра ви:">
+<!ENTITY cookiename.label                  "Име на бисквитката">
+<!ENTITY cookiedomain.label                "Сайт">
+<!ENTITY button.removecookie.label         "Премахване">
+<!ENTITY button.removecookie.accesskey     "П">
+<!ENTITY button.removeallcookies.label     "Премахване на всички">
 <!ENTITY button.removeallcookies.accesskey "в">
 
-<!ENTITY props.name.label "Име:">
-<!ENTITY props.value.label "Съдържание:">
-<!ENTITY props.domain.label "Хост:">
-<!ENTITY props.path.label "Път:">
-<!ENTITY props.secure.label "Изпратена за:">
-<!ENTITY props.expires.label "Изтича:">
+<!ENTITY props.name.label                  "Име:">
+<!ENTITY props.value.label                 "Съдържание:">
+<!ENTITY props.domain.label                "Хост:">
+<!ENTITY props.path.label                  "Път:">
+<!ENTITY props.secure.label                "Изпратена за:">
+<!ENTITY props.expires.label               "Изтича:">
 
-<!ENTITY window.title "Бисквитки">
-<!ENTITY windowClose.key "w">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY window.title                      "Бисквитки">
+<!ENTITY windowClose.key                   "w">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
 
-<!ENTITY filter.label "Търсене:">
-<!ENTITY filter.accesskey "Т">
+<!ENTITY filter.label                      "Търсене:">
+<!ENTITY filter.accesskey                  "Т">
 
-<!ENTITY button.close.label "Затваряне">
-<!ENTITY button.close.accesskey "З">
+<!ENTITY button.close.label                "Затваряне">
+<!ENTITY button.close.accesskey            "З">
 

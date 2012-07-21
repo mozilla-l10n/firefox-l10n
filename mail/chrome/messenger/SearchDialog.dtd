@@ -1,36 +1,36 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Търсене на писма в:">
-<!ENTITY searchHeading.accesskey "р">
-<!ENTITY searchSubfolders.label "Търсене на подпапки">
-<!ENTITY searchSubfolders.accesskey "ъ">
-<!ENTITY searchOnServer.label "Стартиране търсене на сървъра">
-<!ENTITY searchOnServer.accesskey "т">
-<!ENTITY resetButton.label "Изчистване">
-<!ENTITY resetButton.accesskey "ч">
-<!ENTITY openButton.label "Отваряне">
-<!ENTITY openButton.accesskey "О">
-<!ENTITY deleteButton.label "Изтриване">
-<!ENTITY deleteButton.accesskey "з">
-<!ENTITY searchDialogTitle.label "Търсене на писма">
-<!ENTITY results.label "Резултати">
-<!ENTITY fileHereMenu.label "Записване тук">
-<!ENTITY fileHereMenu.accesskey "а">
-<!ENTITY fileButton.label "Файл">
-<!ENTITY fileButton.accesskey "л">
-<!ENTITY closeCmd.key "W">
-<!ENTITY openInFolder.label "Отваряне в папката">
-<!ENTITY openInFolder.accesskey "к">
-<!ENTITY saveAsVFButton.label "Запиши като папка за търсене">
-<!ENTITY saveAsVFButton.accesskey "ш">
+<!ENTITY searchHeading.label         "Търсене на писма в:">
+<!ENTITY searchHeading.accesskey     "р">
+<!ENTITY searchSubfolders.label      "Търсене на подпапки">
+<!ENTITY searchSubfolders.accesskey  "ъ">
+<!ENTITY searchOnServer.label        "Стартиране търсене на сървъра">
+<!ENTITY searchOnServer.accesskey    "т">
+<!ENTITY resetButton.label           "Изчистване">
+<!ENTITY resetButton.accesskey       "ч">
+<!ENTITY openButton.label            "Отваряне">
+<!ENTITY openButton.accesskey        "О">
+<!ENTITY deleteButton.label          "Изтриване">
+<!ENTITY deleteButton.accesskey      "з">
+<!ENTITY searchDialogTitle.label     "Търсене на писма">
+<!ENTITY results.label               "Резултати">
+<!ENTITY fileHereMenu.label          "Записване тук">
+<!ENTITY fileHereMenu.accesskey      "а">
+<!ENTITY fileButton.label            "Файл">
+<!ENTITY fileButton.accesskey        "л">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Отваряне в папката">
+<!ENTITY openInFolder.accesskey      "к">
+<!ENTITY saveAsVFButton.label        "Запиши като папка за търсене">
+<!ENTITY saveAsVFButton.accesskey    "ш">
 <!-- for ABSearchDialog.xul -->
 
-<!ENTITY abSearchHeading.label "Търсене в:">
-<!ENTITY abSearchHeading.accesskey "Т">
-<!ENTITY propertiesButton.label "Свойства">
-<!ENTITY propertiesButton.accesskey "й">
-<!ENTITY composeButton.label "Писане на писмо">
-<!ENTITY composeButton.accesskey "П">
-<!ENTITY abSearchDialogTitle.label "Разширено търсене в адресника">
+<!ENTITY abSearchHeading.label       "Търсене в:">
+<!ENTITY abSearchHeading.accesskey   "Т">
+<!ENTITY propertiesButton.label      "Свойства">
+<!ENTITY propertiesButton.accesskey  "й">
+<!ENTITY composeButton.label         "Писане на писмо">
+<!ENTITY composeButton.accesskey     "П">
+<!ENTITY abSearchDialogTitle.label   "Разширено търсене в адресника">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Дискусия">
@@ -54,7 +54,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Изберете колони за показване">
-<!ENTITY threadColumn.tooltip "Изберете показване по дискусии">
+<!ENTITY threadColumn.tooltip "Изберете показване по дискусии"> 
 <!ENTITY fromColumn.tooltip "Изберете подреждане по подател">
 <!ENTITY recipientColumn.tooltip "Изберете подреждане по получател">
 <!ENTITY subjectColumn.tooltip "Изберете подреждане по тема">

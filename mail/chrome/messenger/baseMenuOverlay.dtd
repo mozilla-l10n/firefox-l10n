@@ -5,9 +5,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Помощ">
 <!ENTITY helpMenuWin.accesskey "щ">
-<!ENTITY helpTroubleshootingInfo.label "Информация за отстраняване на проблеми">
+<!ENTITY helpTroubleshootingInfo.label     "Информация за отстраняване на проблеми">
 <!ENTITY helpTroubleshootingInfo.accesskey "о">
-<!ENTITY helpSafeMode.label "Рестартиране с изключени добавки…">
+<!ENTITY helpSafeMode.label     "Рестартиране с изключени добавки…">
 <!ENTITY helpSafeMode.accesskey "Р">
 <!ENTITY releaseCmd2.label "Бележки по изданието">
 <!ENTITY releaseCmd2.accesskey "Б">
@@ -19,8 +19,8 @@
 <!ENTITY openHelp.accesskey "С">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Помощ за &brandShortName;">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers "accel">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Относно &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "О">

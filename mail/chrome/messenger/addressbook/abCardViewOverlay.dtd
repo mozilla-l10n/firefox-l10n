@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading "Контакт">
-<!ENTITY home.heading "Домашен">
-<!ENTITY other.heading "Други">
-<!ENTITY phone.heading "Телефон">
-<!ENTITY work.heading "Служебен">
+<!ENTITY contact.heading             "Контакт">
+<!ENTITY home.heading                "Домашен">
+<!ENTITY other.heading               "Други">
+<!ENTITY phone.heading               "Телефон">
+<!ENTITY work.heading                "Служебен">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Описание">
-<!ENTITY addresses.heading "Адреси">
+<!ENTITY description.heading         "Описание">
+<!ENTITY addresses.heading           "Адреси">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label "Карта">
-<!ENTITY mapIt.tooltip "Изобразяване на географска карта на адреса от Интернет">
+<!ENTITY mapItButton.label           "Карта">
+<!ENTITY mapIt.tooltip               "Изобразяване на географска карта на адреса от Интернет">
 

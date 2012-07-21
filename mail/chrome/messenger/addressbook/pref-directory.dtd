@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
-<!ENTITY pref.ldap.window.title "Сървъри за LDAP Директория">
+<!ENTITY pref.ldap.window.title    "Сървъри за LDAP Директория">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "Сървър за LDAP директория:">
+<!ENTITY directories.label         "Сървър за LDAP директория:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label "Изберете сървър за LDAP директория:">
+<!ENTITY directoriesText.label     "Изберете сървър за LDAP директория:">
 <!ENTITY directoriesText.accesskey "И">
-<!ENTITY addDirectory.label "Добавяне">
-<!ENTITY addDirectory.accesskey "Д">
-<!ENTITY editDirectory.label "Редактиране">
-<!ENTITY editDirectory.accesskey "Р">
-<!ENTITY deleteDirectory.label "Изтриване">
+<!ENTITY addDirectory.label        "Добавяне">
+<!ENTITY addDirectory.accesskey    "Д">
+<!ENTITY editDirectory.label       "Редактиране">
+<!ENTITY editDirectory.accesskey   "Р">
+<!ENTITY deleteDirectory.label     "Изтриване">
 <!ENTITY deleteDirectory.accesskey "з">

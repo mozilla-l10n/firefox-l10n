@@ -1,57 +1,57 @@
-<!ENTITY itemGeneral.label "Основни">
-<!ENTITY itemAutoComplete.label "Адресиране">
-<!ENTITY itemSpellCheck.label "Правопис">
+<!ENTITY itemGeneral.label                   "Основни">
+<!ENTITY itemAutoComplete.label              "Адресиране">
+<!ENTITY itemSpellCheck.label                "Правопис">
 
-<!ENTITY forwardMsg.label "Препращане на писмата:">
-<!ENTITY forwardMsg.accesskey "П">
-<!ENTITY inline.label "Вложено">
-<!ENTITY asAttachment.label "Като притурка">
-<!ENTITY addExtension.label "добавяне на разширение към името на файла">
-<!ENTITY addExtension.accesskey "ф">
+<!ENTITY forwardMsg.label                     "Препращане на писмата:">
+<!ENTITY forwardMsg.accesskey                 "П">
+<!ENTITY inline.label                         "Вложено">
+<!ENTITY asAttachment.label                   "Като притурка">
+<!ENTITY addExtension.label                   "добавяне на разширение към името на файла">
+<!ENTITY addExtension.accesskey               "ф">
 
-<!ENTITY htmlComposeHeader.label "HTML">
-<!ENTITY font.label "Шрифт:">
-<!ENTITY font.accesskey "Ш">
-<!ENTITY size.label "Големина:">
-<!ENTITY size.accesskey "Г">
-<!ENTITY fontColor.label "Цвят на текст:">
-<!ENTITY fontColor.accesskey "Ц">
-<!ENTITY bgColor.label "Цвят на фона:">
-<!ENTITY bgColor.accesskey "ф">
-<!ENTITY restoreHTMLDefaults.label "Възстановяване">
-<!ENTITY restoreHTMLDefaults.accesskey "ъ">
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Шрифт:">
+<!ENTITY font.accesskey                       "Ш">
+<!ENTITY size.label                           "Големина:">
+<!ENTITY size.accesskey                       "Г">
+<!ENTITY fontColor.label                      "Цвят на текст:">
+<!ENTITY fontColor.accesskey                  "Ц">
+<!ENTITY bgColor.label                        "Цвят на фона:">
+<!ENTITY bgColor.accesskey                    "ф">
+<!ENTITY restoreHTMLDefaults.label            "Възстановяване">
+<!ENTITY restoreHTMLDefaults.accesskey        "ъ">
 
-<!ENTITY spellCheck.label "Проверка на правописа преди изпращане">
-<!ENTITY spellCheck.accesskey "П">
-<!ENTITY spellCheckInline.label "Проверка на правописа със самото писане">
-<!ENTITY spellCheckInline1.accesskey "в">
-<!ENTITY languagePopup.label "Език:">
-<!ENTITY languagePopup.accessKey "Е">
-<!ENTITY downloadDictionaries.label "Изтегляне на още речници">
+<!ENTITY spellCheck.label                     "Проверка на правописа преди изпращане">
+<!ENTITY spellCheck.accesskey                 "П">
+<!ENTITY spellCheckInline.label               "Проверка на правописа със самото писане">
+<!ENTITY spellCheckInline1.accesskey          "в">
+<!ENTITY languagePopup.label                  "Език:">
+<!ENTITY languagePopup.accessKey              "Е">
+<!ENTITY downloadDictionaries.label           "Изтегляне на още речници">
 
-<!ENTITY warnOnSendAccelKey.label "Потвърждение при използване на клавишни комбинации за изпращане на писмо">
-<!ENTITY warnOnSendAccelKey.accesskey "о">
-<!ENTITY autoSave.label "Автоматичен запис на всеки">
-<!ENTITY autoSave.accesskey "в">
-<!ENTITY autoSaveEnd.label "минути">
+<!ENTITY warnOnSendAccelKey.label             "Потвърждение при използване на клавишни комбинации за изпращане на писмо">
+<!ENTITY warnOnSendAccelKey.accesskey         "о">
+<!ENTITY autoSave.label                       "Автоматичен запис на всеки">
+<!ENTITY autoSave.accesskey                   "в">
+<!ENTITY autoSaveEnd.label                    "минути">
 
-<!ENTITY emailCollectionPicker.label "Автоматично добавяне на изходящите пощ. адреси към моя:">
-<!ENTITY emailCollectionPicker.accesskey "А">
-<!ENTITY addressingTitle.label "Автоматично завършване на адреси">
-<!ENTITY autocompleteText.label "При адресиране на писма, търси за съвпадения в:">
-<!ENTITY addressingEnable.label "Местни адресници">
-<!ENTITY addressingEnable.accesskey "М">
-<!ENTITY directories.label "Сървър директория:">
-<!ENTITY directories.accesskey "д">
-<!ENTITY directoriesNone.label "Без">
-<!ENTITY editDirectories.label "Промяна директории…">
-<!ENTITY editDirectories.accesskey "д">
+<!ENTITY emailCollectionPicker.label           "Автоматично добавяне на изходящите пощ. адреси към моя:">
+<!ENTITY emailCollectionPicker.accesskey       "А">
+<!ENTITY addressingTitle.label                 "Автоматично завършване на адреси">
+<!ENTITY autocompleteText.label                "При адресиране на писма, търси за съвпадения в:">
+<!ENTITY addressingEnable.label                "Местни адресници">
+<!ENTITY addressingEnable.accesskey            "М">
+<!ENTITY directories.label                     "Сървър директория:">
+<!ENTITY directories.accesskey                 "д">
+<!ENTITY directoriesNone.label                 "Без">
+<!ENTITY editDirectories.label                 "Промяна директории…">
+<!ENTITY editDirectories.accesskey             "д">
 
-<!ENTITY sendOptionsDescription.label "Настройка на правила за работа с текстовия формат">
-<!ENTITY sendOptions.label "Настройки за изпращане…">
-<!ENTITY sendOptions.accesskey "Н">
+<!ENTITY sendOptionsDescription.label          "Настройка на правила за работа с текстовия формат">
+<!ENTITY sendOptions.label                     "Настройки за изпращане…">
+<!ENTITY sendOptions.accesskey                 "Н">
 
-<!ENTITY attachmentReminder.label "Проверка за липсващи притурки">
-<!ENTITY attachmentReminder.accesskey "л">
-<!ENTITY attachmentReminderOptions.label "Ключови думи…">
-<!ENTITY attachmentReminderOptions.accesskey "К">
+<!ENTITY attachmentReminder.label              "Проверка за липсващи притурки">
+<!ENTITY attachmentReminder.accesskey          "л">
+<!ENTITY attachmentReminderOptions.label       "Ключови думи…">
+<!ENTITY attachmentReminderOptions.accesskey   "К">

@@ -1,37 +1,37 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label "Писане и адресиране">
+<!ENTITY addressing.label          "Писане и адресиране">
 <!ENTITY addressingGroupTitle.label "Адресиране">
-<!ENTITY addressingText.label "При търсене на адреси:">
+<!ENTITY addressingText.label      "При търсене на адреси:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label "Tази регистрация използва общите настройки за LDAP сървър">
-<!ENTITY useGlobal.accesskey "T">
-<!ENTITY editDirectories.label "Директории…">
+<!ENTITY useGlobal.label           "Tази регистрация използва общите настройки за LDAP сървър">
+<!ENTITY useGlobal.accesskey       "T">
+<!ENTITY editDirectories.label     "Директории…">
 <!ENTITY editDirectories.accesskey "Д">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "се използва друг LDAP сървър:">
-<!ENTITY directories.accesskey "с">
-<!ENTITY directoriesNone.label "Без">
+<!ENTITY directories.label         "се използва друг LDAP сървър:">
+<!ENTITY directories.accesskey     "с">
+<!ENTITY directoriesNone.label     "Без">
 <!-- am-addressing.xul -->
 
 
 <!ENTITY compositionGroupTitle.label "Писане">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label "Писане на писма в HTML формат">
-<!ENTITY useHtml.accesskey "а">
-<!ENTITY autoQuote.label "При отговор автоматично се цитира оригиналното писмо">
-<!ENTITY autoQuote.accesskey "ц">
+<!ENTITY useHtml.label                        "Писане на писма в HTML формат">
+<!ENTITY useHtml.accesskey                    "а">
+<!ENTITY autoQuote.label                      "При отговор автоматично се цитира оригиналното писмо">
+<!ENTITY autoQuote.accesskey                  "ц">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "След това">
-<!ENTITY then.accesskey "л">
-<!ENTITY aboveQuote.label "писането започва над цитирания текст">
-<!ENTITY belowQuote.label "писането започва под цитирания текст">
-<!ENTITY selectAndQuote.label "се избира цитирания текст">
-<!ENTITY place.label "и се поставя подписа ми">
-<!ENTITY place.accesskey "я">
-<!ENTITY belowText.label "под цитата (препоръчително)">
-<!ENTITY aboveText.label "под моя отговор (над цитата)">
-<!ENTITY includeSigOnReply.label "Включване на подпис в отговорите">
-<!ENTITY includeSigOnReply.accesskey "п">
-<!ENTITY includeSigOnForward.label "Включване на подпис при препращане">
-<!ENTITY includeSigOnForward.accesskey "щ">
+<!ENTITY then.label                           "След това">
+<!ENTITY then.accesskey                       "л">
+<!ENTITY aboveQuote.label                     "писането започва над цитирания текст">
+<!ENTITY belowQuote.label                     "писането започва под цитирания текст">
+<!ENTITY selectAndQuote.label                 "се избира цитирания текст">
+<!ENTITY place.label                          "и се поставя подписа ми">
+<!ENTITY place.accesskey                      "я">
+<!ENTITY belowText.label                      "под цитата (препоръчително)">
+<!ENTITY aboveText.label                      "под моя отговор (над цитата)">
+<!ENTITY includeSigOnReply.label              "Включване на подпис в отговорите">
+<!ENTITY includeSigOnReply.accesskey          "п">
+<!ENTITY includeSigOnForward.label            "Включване на подпис при препращане">
+<!ENTITY includeSigOnForward.accesskey        "щ">
