@@ -17,7 +17,7 @@
      longest labels that should fit in the item width are usually those of
      in-progress downloads and those of blocked downloads.
      -->
-<!ENTITY downloads.width                  "65ch">
+<!ENTITY downloads.width                  "67ch">
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
