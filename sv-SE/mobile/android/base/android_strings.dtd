@@ -92,6 +92,7 @@
 <!ENTITY pref_private_data_history "Surf- och filhämtningshistorik">
 <!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
 <!ENTITY pref_private_data_cookies "Kakor och aktiva inloggningar">
+<!ENTITY pref_private_data_passwords "Sparade lösenord">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
