@@ -12,7 +12,7 @@
   -  "simple discardable text editor". -->
 <!ENTITY window.title                 "Kladdeblok">
 
-<!ENTITY fileMenu.label               "Fil">
+<!ENTITY fileMenu.label               "Filer">
 <!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "Nyt vindue">
@@ -41,7 +41,7 @@
 <!ENTITY editMenu.accesskey           "R">
 
 <!ENTITY run.label                    "Kør">
-<!ENTITY run.accesskey                "K">
+<!ENTITY run.accesskey                "ø">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspicer">
