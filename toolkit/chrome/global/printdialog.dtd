@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printdialog.xul -->
+
 
 <!ENTITY printButton.label "Отпечатване">
 
@@ -18,12 +22,12 @@
 <!ENTITY printrangeGroup.label "Отпечатване">
 <!ENTITY allpagesRadio.label "Всички страници">
 <!ENTITY allpagesRadio.accesskey "В">
-<!ENTITY rangeRadio.label "Страници">
-<!ENTITY rangeRadio.accesskey "С">
-<!ENTITY frompageInput.label "от">
-<!ENTITY frompageInput.accesskey "о">
-<!ENTITY topageInput.label "до">
-<!ENTITY topageInput.accesskey "д">
+<!ENTITY rangeRadio.label  "Страници">
+<!ENTITY rangeRadio.accesskey  "С">
+<!ENTITY frompageInput.label  "от">
+<!ENTITY frompageInput.accesskey  "о">
+<!ENTITY topageInput.label  "до">
+<!ENTITY topageInput.accesskey  "д">
 <!ENTITY selectionRadio.label "Маркирания текст">
 <!ENTITY selectionRadio.accesskey "М">
 
@@ -34,7 +38,7 @@
 <!ENTITY printframeGroup.label "Отпечатване на рамките">
 <!ENTITY aslaidoutRadio.label "Както се виждат на екрана">
 <!ENTITY aslaidoutRadio.accesskey "в">
-<!ENTITY selectedframeRadio.label "Маркираната рамка">
-<!ENTITY selectedframeRadio.accesskey "р">
-<!ENTITY eachframesepRadio.label "Всяка рамка поотделно">
-<!ENTITY eachframesepRadio.accesskey "д">
+<!ENTITY selectedframeRadio.label  "Маркираната рамка">
+<!ENTITY selectedframeRadio.accesskey  "р">
+<!ENTITY eachframesepRadio.label  "Всяка рамка поотделно">
+<!ENTITY eachframesepRadio.accesskey  "д">

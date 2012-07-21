@@ -1,41 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label "Настройка на &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey "Н">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; ви позволява от всяко ваше устройство да имате достъп до вашата история, отметки, пароли и отворени подпрозорци.">
+
+<!ENTITY setupButton.label          "Настройка на &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "Н">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ви позволява от всяко ваше устройство да имате достъп до вашата история, отметки, пароли и отворени подпрозорци.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label "Обновяване">
-<!ENTITY resetPass.label "Нулиране">
+<!ENTITY updatePass.label             "Обновяване">
+<!ENTITY resetPass.label              "Нулиране">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label "Управление на акаунта">
-<!ENTITY manageAccount.accesskey "а">
-<!ENTITY viewQuota.label "Показване на квотата">
-<!ENTITY changePassword2.label "Промяна на парола…">
-<!ENTITY myRecoveryKey.label "Моят ключ за възстановяване">
-<!ENTITY resetSync2.label "Анулиране на Sync…">
+<!ENTITY manageAccount.label          "Управление на акаунта">
+<!ENTITY manageAccount.accesskey      "а">
+<!ENTITY viewQuota.label              "Показване на квотата">
+<!ENTITY changePassword2.label        "Промяна на парола…">
+<!ENTITY myRecoveryKey.label          "Моят ключ за възстановяване">
+<!ENTITY resetSync2.label             "Анулиране на Sync…">
 
-<!ENTITY addDevice.label "Добавяне на устройство">
+<!ENTITY pairDevice.label             "Сдвояване на устройство">
 
-<!ENTITY syncMy.label "Sync на моите">
-<!ENTITY engine.bookmarks.label "Отметки">
+<!ENTITY syncMy.label               "Sync на моите">
+<!ENTITY engine.bookmarks.label     "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
-<!ENTITY engine.tabs.label "Подпрозорци">
-<!ENTITY engine.tabs.accesskey "П">
-<!ENTITY engine.history.label "История">
-<!ENTITY engine.history.accesskey "И">
-<!ENTITY engine.passwords.label "Пароли">
+<!ENTITY engine.tabs.label          "Подпрозорци">
+<!ENTITY engine.tabs.accesskey      "П">
+<!ENTITY engine.history.label       "История">
+<!ENTITY engine.history.accesskey   "И">
+<!ENTITY engine.passwords.label     "Пароли">
 <!ENTITY engine.passwords.accesskey "П">
-<!ENTITY engine.prefs.label "Настройки">
-<!ENTITY engine.prefs.accesskey "Н">
+<!ENTITY engine.prefs.label         "Настройки">
+<!ENTITY engine.prefs.accesskey     "Н">
+<!ENTITY engine.addons.label        "Добавки">
+<!ENTITY engine.addons.accesskey    "б">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label "Име на компютъра:">
-<!ENTITY syncComputerName.accesskey "И">
-<!ENTITY unlinkDevice.label "Разкачване на устройството">
+<!ENTITY syncComputerName.label       "Име на компютъра:">
+<!ENTITY syncComputerName.accesskey   "И">
+<!ENTITY unlinkDevice.label           "Разкачване на устройството">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label "Условия за ползване на услугата">
-<!ENTITY prefs.ppLink.label "Политика за личните данни">
+<!ENTITY prefs.tosLink.label        "Условия за ползване на услугата">
+<!ENTITY prefs.ppLink.label         "Политика за личните данни">

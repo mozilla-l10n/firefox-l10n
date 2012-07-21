@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Грешка при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
 <!-- Specific error messages -->
@@ -23,6 +27,9 @@
 
 <!ENTITY netInterrupt.title "Прехвърлянето на данни е прекъснато">
 <!ENTITY netInterrupt.longDesc "<p>Браузърът се свърза успешно, но връзката беше прекъсната докато данните се прехвърляха. Моля, опитайте отново.</p><ul><li>Не може да разглеждате и други сайтове? Проверете връзката на компютъра с мрежата.</li><li>Ако все още има проблем, обърнете се за помощ към мрежовия си администратор или Интернет доставчика.</li></ul>">
+
+<!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
+<!ENTITY notCached.longDesc "<p>Исканият документ не е наличен в кеша на браузъра.</p><ul><li>Като мярка за безопасност, браузърът не изтегля наново сенситивни документи.</li><li>Натиснете Опит отново за изтегляне наново на документа от сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Режим „Работа извън мрежата“">
 <!ENTITY netOffline.longDesc2 "<p>Браузърът е настроен да работи в този режим и затова не може да се свърже.</p><ul><li>Работи ли мрежата към която е свързан компютърът?</li><li>Включете режим „Работа в мрежата“ и опитайте отново.</li></ul>">

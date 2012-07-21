@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+
+<!ENTITY indicator.tooltiptext            "Изтегляния">
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+
+<!ENTITY downloads.title                  "Изтегляния">
+
+<!ENTITY cmd.pause.label                  "Пауза">
+<!ENTITY cmd.pause.accesskey              "П">
+<!ENTITY cmd.resume.label                 "Продължаване">
+<!ENTITY cmd.resume.accesskey             "П">
+<!ENTITY cmd.cancel.label                 "Прекъсване">
+<!ENTITY cmd.cancel.accesskey             "П">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Отваряне на съдържащата папка">
+<!ENTITY cmd.show.accesskey               "п">
+<!ENTITY cmd.showMac.label                "Показване във Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "Опит отново">
+<!ENTITY cmd.goToDownloadPage.label       "Отиване на страницата, откъдето е изтеглено">
+<!ENTITY cmd.goToDownloadPage.accesskey   "О">
+<!ENTITY cmd.copyDownloadLink.label       "Копиране на връзката за изтегляне">
+<!ENTITY cmd.copyDownloadLink.accesskey   "в">
+<!ENTITY cmd.removeFromList.label         "Премахване от списъка">
+<!ENTITY cmd.removeFromList.accesskey     "П">
+<!ENTITY cmd.clearList.label              "Изчистване на списъка">
+<!ENTITY cmd.clearList.accesskey          "ч">
+
+<!ENTITY downloadshistory.label           "Показване на всички изтегляния">
+<!ENTITY downloadshistory.accesskey       "в">

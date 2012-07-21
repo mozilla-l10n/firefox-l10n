@@ -1,17 +1,24 @@
-<!ENTITY newWindowsAsTabs.label "Отваряне на новите прозорци в нов подпрозорец">
-<!ENTITY newWindowsAsTabs.accesskey "д">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY warnCloseMultipleTabs.label "Предупреждение при затваряне на няколко подпрозореца">
-<!ENTITY warnCloseMultipleTabs.accesskey "з">
+<!ENTITY newWindowsAsTabs.label       "Отваряне на новите прозорци в нов подпрозорец">
+<!ENTITY newWindowsAsTabs.accesskey   "д">
 
-<!ENTITY warnOpenManyTabs.label "Предупреждение, когато отварянето на няколко подпрозореца може да забави &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "о">
+<!ENTITY warnCloseMultipleTabs.label  "Предупреждение при затваряне на няколко подпрозореца">
+<!ENTITY warnCloseMultipleTabs.accesskey  "з">
 
-<!ENTITY showTabBar.label "Лентата с подпрозорци винаги да е показана">
-<!ENTITY showTabBar.accesskey "Л">
+<!ENTITY warnOpenManyTabs.label       "Предупреждение, когато отварянето на няколко подпрозореца може да забави &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "о">
 
-<!ENTITY switchToNewTabs.label "Превключване към новоотворен подпрозорец">
-<!ENTITY switchToNewTabs.accesskey "н">
+<!ENTITY showTabBar.label             "Лентата с подпрозорци винаги да е показана">
+<!ENTITY showTabBar.accesskey         "Л">
 
-<!ENTITY showTabsInTaskbar.label "Показване на съдържанието на подпрозорците в Windows taskbar">
-<!ENTITY showTabsInTaskbar.accesskey "с">
+<!ENTITY restoreTabsOnDemand.label        "Подпрозорците да не се зареждат, докато не се отиде на тях">
+<!ENTITY restoreTabsOnDemand.accesskey    "з">
+
+<!ENTITY switchToNewTabs.label        "Превключване към новоотворен подпрозорец">
+<!ENTITY switchToNewTabs.accesskey    "н">
+
+<!ENTITY showTabsInTaskbar.label          "Показване на съдържанието на подпрозорците в Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "с">
