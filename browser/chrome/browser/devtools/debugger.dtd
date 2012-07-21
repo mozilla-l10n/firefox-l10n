@@ -43,6 +43,18 @@
   -  button that steps out of a function call. -->
 <!ENTITY debuggerUI.stepOutButton.tooltip    "Schritt heraus">
 
+<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
+  -  button that steps over a function call. -->
+<!ENTITY debuggerUI.stepOverButton   "Schritt darüber">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the label for the
+  -  button that steps into a function call. -->
+<!ENTITY debuggerUI.stepInButton     "Schritt hinein">
+
+<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
+  -  button that steps out of a function call. -->
+<!ENTITY debuggerUI.stepOutButton    "Schritt heraus">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 <!ENTITY debuggerUI.stackTitle       "Aufrufliste">

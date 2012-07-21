@@ -5,6 +5,10 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "Zu Adressbuch hinzufügen…">
 <!ENTITY AddToAddressBook.accesskey        "Z">
+<!ENTITY EditContact.label                 "Kontakt bearbeiten…">
+<!ENTITY EditContact.accesskey             "K">
+<!ENTITY ViewContact.label                 "Kontakt ansehen">
+<!ENTITY ViewContact.accesskey             "s">
 <!ENTITY SendMailTo.label                  "Mail verfassen an…">
 <!ENTITY SendMailTo.accesskey              "M">
 <!ENTITY CopyEmailAddress.label            "E-Mail-Adresse kopieren">
@@ -18,7 +22,7 @@
 <!ENTITY copyLinkCmd.label                 "Link-Adresse kopieren">
 <!ENTITY copyLinkCmd.accesskey             "L">
 <!ENTITY CopyMessageId.label               "Nachrichten-ID kopieren">
-<!ENTITY CopyMessageId.accesskey           "k">
+<!ENTITY CopyMessageId.accesskey           "a">
 <!ENTITY OpenMessageForMsgId.label         "Nachricht für ID öffnen">
 <!ENTITY OpenMessageForMsgId.accesskey     "N">
 <!ENTITY OpenBrowserWithMsgId.label        "Browser mit Nachrichten-ID öffnen">

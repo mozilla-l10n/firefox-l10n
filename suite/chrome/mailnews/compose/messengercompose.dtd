@@ -83,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Empfangsbestätigung">
 <!ENTITY returnReceiptMenu.accesskey "E">
+<!ENTITY dsnMenu.label "Sendestatus-Benachrichtigung">
+<!ENTITY dsnMenu.accesskey "S">
+
 <!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Autom. bestimmen">

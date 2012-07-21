@@ -47,10 +47,12 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Adressbuch-Symbolleiste"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "A">  
-
-<!ENTITY showCardPane.label                             "Kontaktzusammenfassungsfenster">
-<!ENTITY showCardPane.accesskey                         "K">
-  
+<!ENTITY layoutMenu.label                               "Layout">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "Verzeichnisbereich">
+<!ENTITY showDirectoryPane.accesskey                    "V">
+<!ENTITY showContactPane2.label                         "Kontaktbereich">
+<!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen:"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!ENTITY firstLastCmd.label                             "Vorname Nachname">  
@@ -95,6 +97,20 @@
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adressbücher">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Kontakt">
+<!ENTITY home.heading                                   "Startseite">
+<!ENTITY other.heading                                  "Andere">
+<!ENTITY phone.heading                                  "Telefon">
+<!ENTITY work.heading                                   "Dienstlich">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Beschreibung">
+<!ENTITY addresses.heading                              "Adressen">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Karte holen">
+<!ENTITY mapIt.tooltip                                  "Karte für diese Adresse aus dem Web anzeigen">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
