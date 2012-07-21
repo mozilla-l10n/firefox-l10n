@@ -4,6 +4,7 @@
 
 <!ENTITY indicator.tooltiptext "Download">
 <!ENTITY downloads.title "Download">
+<!ENTITY downloads.width "65ch">
 <!ENTITY cmd.pause.label "Pausa">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.label "Riprendi">
