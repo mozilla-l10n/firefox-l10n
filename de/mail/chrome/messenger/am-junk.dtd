@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Junk-Filter">
-<!ENTITY trainingWarning.label "Wenn der Junk-Filter aktiviert ist, muss er trainiert werden, sodass unerwünschte Post (Junk) im Laufe der Zeit zuverlässig erkannt wird. Verwenden Sie zum Trainieren die Schaltfläche &quot;Junk&quot; in der Symbolleiste, um jede falsch eingestufte Nachricht korrekt als &quot;Junk&quot; oder &quot;Kein Junk&quot; einzustufen.">
+<!ENTITY trainingDescription.label "Wenn er aktiviert ist, muss &brandShortName; erst trainiert werden. Verwenden Sie die Schaltfläche &quot;Junk&quot; in der Symbolleiste, um Nachrichten als &quot;Junk&quot; oder &quot;Kein Junk&quot; zu kennzeichnen. Danach wird &brandShortName; in der Lage sein, Junk automatisch zu erkennen.">
 <!ENTITY level.label "Junk-Filter für dieses Konto aktivieren">
 <!ENTITY level.accesskey "F">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "Tage">
 
-<!ENTITY whitelist.label "Absendern der gewählten Adressbücher vertrauen:">
-<!ENTITY whitelist.accesskey "b">
+<!ENTITY whitelistHeader.label "Nachrichten nicht automatisch als Junk kennzeichnen, falls der Absender in einem der folgenden Adressbücher ist:">
+<!ENTITY whitelistHeader.accesskey "b">
 
+<!ENTITY ispHeadersWarning.label "Falls diese Option aktiviert ist, wird &brandShortName; die von diesem externen Filter markierten Nachrichten automatisch als Junk einstufen.">
 <!ENTITY ispHeaders.label "Junk-Kopfzeilen dieses externen Filters vertrauen:">
 <!ENTITY ispHeaders.accesskey "J">
+
+<!ENTITY junkClassification.label "Klassifizierung">
+<!ENTITY junkActions.label "Speicherplatz">
