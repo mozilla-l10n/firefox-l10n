@@ -104,6 +104,7 @@
 
 <!ENTITY share "Delen">
 <!ENTITY share_title "Delen via">
+<!ENTITY share_image_failed "Niet gelukt om deze afbeelding te delen">
 <!ENTITY save_as_pdf "Opslaan als PDF">
 <!ENTITY find_in_page "Zoeken op pagina">
 <!ENTITY desktop_mode "Desktopwebsite opvragen">
