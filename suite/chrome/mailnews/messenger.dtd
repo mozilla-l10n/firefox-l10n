@@ -540,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label "Kein Scam">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Der Absender dieser Nachricht hat um eine Bestätigung angefragt, wenn Sie die Nachricht lesen. Soll der Absender benachrichtigt werden?">
 <!ENTITY mdnBarIgnoreButton.label "Anfrage ignorieren">
+<!ENTITY mdnBarIgnoreButton.accesskey "n">
 <!ENTITY mdnBarSendButton.label "Bestätigung senden">
+<!ENTITY mdnBarSendButton.accesskey "B">

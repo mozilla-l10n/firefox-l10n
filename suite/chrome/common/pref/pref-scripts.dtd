@@ -21,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Kontextmenü einer Seite deaktivieren oder ersetzen">
 <!ENTITY allowHideStatusBar.label        "Statusleiste verstecken">
 
-<!ENTITY enablePlugin.label              "Plugins aktivieren für:">
+<!ENTITY enablePlugins.label             "Plugins aktivieren für">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "Wenn zusätzliche Plugins benötigt werden">
-<!ENTITY displayNotification.label       "Eine Benachrichtigungsleiste am oberen Rand des Inhaltsbereichs anzeigen">
-<!ENTITY displayNotification.accesskey   "E">
+<!ENTITY whenPageRequiresPlugins.label   "Wenn eine Seite Plugins benötigt">
+<!ENTITY activateAllPlugins.label        "Alle Plugins standardmäßig aktivieren">
+<!ENTITY activateAllPlugins.accesskey    "A">
+<!ENTITY warnPluginsRequired.label       "Warnen, wenn zusätzliche Plugins installiert werden müssen">
+<!ENTITY warnPluginsRequired.accesskey   "W">
