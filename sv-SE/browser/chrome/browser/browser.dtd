@@ -642,7 +642,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY addonBarCloseButton.tooltip  "Stäng Tilläggsfältet">
-<!ENTITY toggleAddonBarCmd.key        "Å">
+<!ENTITY toggleAddonBarCmd.key        "å">
 
 <!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
 located in front of the breadcrumbs display in the inspector toolbar. The button
