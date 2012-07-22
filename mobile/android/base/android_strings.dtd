@@ -50,8 +50,7 @@
 
 <!ENTITY close_tab "Luk faneblad">
 <!ENTITY new_tab "Nyt faneblad">
-<!ENTITY one_tab "1 faneblad">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d faneblade">
 <!ENTITY new_tab_opened "Et nyt faneblad blev åbnet">
@@ -191,3 +190,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importerer historik
                                          fra Android">
 <!ENTITY bookmarkhistory_import_wait "Vent...">
+
+<!ENTITY desktop_mode "Anmod om desktopversion">
