@@ -47,9 +47,14 @@
 
 <!ENTITY reload "أعد التحميل">
 <!ENTITY forward "أمام">
+<!ENTITY menu "القائمة">
+<!ENTITY back "خلف">
+<!ENTITY stop "أوقف">
+<!ENTITY site_security "أمن الموقع">
 
 <!ENTITY close_tab "أغلق اللسان">
 <!ENTITY new_tab "لسان جديد">
+<!ENTITY one_tab "لسان واحد">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d لسان">
@@ -60,6 +65,7 @@
 <!ENTITY pref_category_general "عام">
 <!ENTITY pref_category_privacy "الخصوصية والسرية">
 <!ENTITY pref_category_content "المحتوى">
+<!ENTITY pref_category_importexport "استورد وصدّر">
 <!ENTITY pref_about_firefox "عن &brandShortName;">
 <!ENTITY pref_do_not_track "أخبِر المواقع ألا تتعقبني">
 <!ENTITY pref_telemetry "أرسِل بيانات الأداء">
@@ -68,10 +74,7 @@
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
-<!ENTITY pref_clear_history "امسح التأريخ">
-<!ENTITY pref_clear_history_confirm "سيُمسح تأريخ التصفح">
 <!ENTITY pref_clear_private_data "امسح البيانات الخاصة">
-<!ENTITY pref_clear_private_data_confirm "ستُمسح الإعدادات، بما فيها كلمات السر والكعكات">
 <!ENTITY pref_plugins "الملحقات">
 <!ENTITY pref_plugins_enabled "مفعّلة">
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
@@ -84,17 +87,29 @@
 <!ENTITY pref_font_size_xlarge "كبير جدا">
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_sync "تزامُن">
+<!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
+<!ENTITY pref_import_android "استورد من أندرويد">
+<!ENTITY pref_private_data_history "تأريخ التصفح والتنزيلات">
+<!ENTITY pref_private_data_formdata "تأريخ البحث والنماذج">
+<!ENTITY pref_private_data_cookies "الكعكات">
+<!ENTITY pref_private_data_cache "الخبيئة">
+<!ENTITY pref_private_data_sessions "الولوجات النشِطة">
+<!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
+<!ENTITY pref_private_data_siteSettings "تفضيلات الموقع">
 
 <!ENTITY quit "أغلق">
 
 <!ENTITY addons "الإضافات">
 <!ENTITY downloads "التنزيلات">
+<!ENTITY apps "التطبيقات">
 <!ENTITY char_encoding "ترميز المحارف">
 
 <!ENTITY share "تشارك">
 <!ENTITY share_title "تشارك عبر">
+<!ENTITY share_image_failed "تعّذرت مشاركة هذا الموقع">
 <!ENTITY save_as_pdf "احفظ ك‍ PDF">
 <!ENTITY find_in_page "ابحث في الصفحة">
+<!ENTITY desktop_mode "اطلب موقع سطح مكتب">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -108,6 +123,9 @@
 <!ENTITY contextmenu_remove_bookmark "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
 <!ENTITY contextmenu_share "تشارَك">
+<!ENTITY contextmenu_pasteandgo "ألصق واذهب">
+<!ENTITY contextmenu_paste "لصق">
+<!ENTITY contextmenu_copyurl "انسخ العنوان">
 <!ENTITY contextmenu_edit_bookmark "حرِّر">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -124,9 +142,10 @@
 <!ENTITY site_settings_clear        "امسح">
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
 
-<!ENTITY add_to_reading_list "أضِف إلى قائمة القراءة">
+<!ENTITY reading_list "قائمة القراءة">
 <!ENTITY reading_list_added "أضِفت الصفحة إلى قائمة القراءة">
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
+<!ENTITY reading_list_failed "فشلت إضافة الصفحة إلى قائمة القراءة">
 <!ENTITY reader_mode "وضع القارئ">
 
 <!ENTITY masterpassword_create_title "أنشئ كلمة سر رئيسية">
@@ -136,6 +155,7 @@
 
 <!ENTITY button_ok "حسنا">
 <!ENTITY button_cancel "ألغِ">
+<!ENTITY button_clear_data "امسح البيانات">
 
 <!ENTITY abouthome_addons_title "إضافات &brandShortName;">
 <!ENTITY abouthome_addons_browse "تصفّح كل إضافات &brandShortName;">
@@ -166,3 +186,17 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "والذي يعمل ب‍">
+
+<!ENTITY private_data_success "مُسحت البيانات الخاصة">
+<!ENTITY private_data_fail "تعذّر مسح بعض البيانات الخاصة">
+
+<!ENTITY bookmarkhistory_button_import "استورد">
+<!ENTITY bookmarkhistory_import_both "يستورد العلامات والتأريخ 
+من أندرويد">
+<!ENTITY bookmarkhistory_import_bookmarks "يستورد العلامات 
+من أندرويد">
+<!ENTITY bookmarkhistory_import_history "يستورد التأريخ 
+من أندرويد">
+<!ENTITY bookmarkhistory_import_wait "انتظر من فضلك...">
+
+<!ENTITY webapp_generic_name "تطبيق">

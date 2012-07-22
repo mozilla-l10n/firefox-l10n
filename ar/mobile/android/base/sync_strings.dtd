@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "أعِد المحاولة">
 <!ENTITY sync.button.manual.label "إعداد يدوي">
 <!ENTITY sync.subtitle.nointernet.label "لا يتوفر اتصال بالإنترنت.">
+<!ENTITY sync.subtitle.failaccount.label "فشل إنشاء الحساب على جهازك.">
+<!ENTITY sync.subtitle.failmultiple.label "ألديك أكثر من نسخة فيَرفُكس مثبّتة؟ حاليا لا يدعم &syncBrand.fullName.label; أكثر من تثبيت لفيَرفُكس في المرة. من فضلك أزل التثبيتات الأخرى لتستطيع استخدام &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "اكتمل الإعداد">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "لا يُدعم إلا حساب &syncBrand.fullName.label; واحد.">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "اسم الحساب أو كلمة السر خطأ.">
+<!ENTITY sync.invalidserver.label "رجاءً أدخِل عنوان خادوم صالح">
+<!ENTITY sync.verifying.label "يتحقق…">
 <!ENTITY sync.new.recoverykey.status.incorrect "مفتاح الاستعادة خطأ. من فضلك أعد المحاولة.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "أرسِل اللسان إلى الأجهزة">
+<!ENTITY sync.button.send.label "أرسِل">
+<!ENTITY sync.button.set.up.sync.label "اضبط &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "اضبط &syncBrand.shortName.label; لإرسال الألسنة">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "اضبط &syncBrand.shortName.label; على جهازك لإرسال الألسنة إلى الأجهزة الأخرى.">
+<!ENTITY sync.text.tab.sent.label "أُرسِل اللسان.">
