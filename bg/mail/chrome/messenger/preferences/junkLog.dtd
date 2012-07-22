@@ -1,5 +1,9 @@
-<!ENTITY junkLog.title "Журнал за нежеланата поща">
-<!ENTITY junkLogInfo.label "Отчитане дейността на контрола върху нежеланата поща.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY adaptiveJunkLog.title "Журнал на разпознаването на нежелана поща">
+<!ENTITY adaptiveJunkLogInfo.label "Журнал на контрола върху нежеланата поща.">
 <!ENTITY clearLog.label "Изчистване на журнала">
 <!ENTITY clearLog.accesskey "И">
 <!ENTITY closeLog.label "Затваряне">

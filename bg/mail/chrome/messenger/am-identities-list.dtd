@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY identitiesListDesc.label "Поддръжка на много самоличности">
 <!ENTITY identitiesListAdd.label  "Добавяне…">
 <!ENTITY identitiesListAdd.accesskey  "Д">
@@ -5,3 +9,5 @@
 <!ENTITY identitiesListEdit.accesskey "П">
 <!ENTITY identitiesListDelete.label "Изтриване">
 <!ENTITY identitiesListDelete.accesskey "И">
+<!ENTITY identitiesListClose.label "Затваряне">
+<!ENTITY identitiesListClose.accesskey "З">

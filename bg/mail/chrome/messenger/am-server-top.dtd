@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-server-top.xul -->
 
+
+<!ENTITY messageStorage.label "Съхранение на съобщения">
 <!ENTITY securitySettings.label "Настройки за защита">
 <!ENTITY serverSettings.label "Настройки на сървъра">
 <!ENTITY serverType.label "Вид сървър:">
@@ -63,16 +68,19 @@
 <!ENTITY alwaysAuthenticate.label "При свързване с този сървър винаги се изисква идентификация">
 <!ENTITY alwaysAuthenticate.accesskey "ъ">
 <!ENTITY newsrcFilePath.label "newsrc файл:">
-<!ENTITY localPath.label "Местна директория:">
+<!ENTITY newsrcPicker.label "Изберете newsrc файл">
 <!ENTITY abbreviate.label "Имената на дискусионните групи се показват с:">
 <!ENTITY abbreviateOn.label "Пълни имена (напр. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Съкратени имена (напр. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Разширени…">
 <!ENTITY advancedButton.accesskey "ш">
 <!ENTITY serverDefaultCharset.label "Подразбиращо се знаково кодиране:">
+<!ENTITY localPath.label "Местна директория:">
 <!ENTITY localFolderPicker.label "Изберете директория">
 <!ENTITY browseFolder.label "Избор…">
 <!ENTITY browseFolder.accesskey "б">
-<!ENTITY newsrcPicker.label "Изберете newsrc файл">
 <!ENTITY browseNewsrc.label "Избор…">
 <!ENTITY browseNewsrc.accesskey "о">
+
+<!ENTITY accountTitle.label "Настройки на сметка">
+<!ENTITY accountSettingsDesc.label "Следва специална сметка. Няма идентичности, свързани с нея.">

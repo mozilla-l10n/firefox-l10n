@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -26,6 +30,10 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "П">
 <!ENTITY newExistingEmailAccountCmd.label "Съществуваща регистрация…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "С">
+<!ENTITY newIMAccountCmd.label "Сметка за разговор…">
+<!ENTITY newIMAccountCmd.accesskey "С">
+<!ENTITY newIMContactCmd.label "Контакт за разговор…">
+<!ENTITY newIMContactCmd.accesskey "К">
 <!ENTITY openMessageFileCmd.label "Отваряне на записано писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY openAttachmentCmd.label "Притурки">
@@ -326,6 +334,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Разговор">
+<!ENTITY goChatCmd.accesskey "Р">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Писмо със звезда">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -333,6 +344,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Тази папка">
 <!ENTITY thisFolder.accesskey "п">
 <!ENTITY goRecentlyClosedTabs.label "Наскоро затворени подпрозорци">
+<!ENTITY goRecentlyClosedTabs.accesskey "Н">
 <!ENTITY startPageCmd.label "Начална страница">
 <!ENTITY startPageCmd.accesskey "Н">
 <!-- Message Menu -->
@@ -353,8 +365,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Отговор само до подателя">
 <!ENTITY replySenderCmd.accesskey "с">
-<!ENTITY replyNewsgroupCmd.label "Отговор до групата">
-<!ENTITY replyNewsgroupCmd.accesskey  "г">
+<!ENTITY replyNewsgroupCmd2.label "Отговор в новинарската група">
+<!ENTITY replyNewsgroupCmd2.accesskey  "О">
 <!ENTITY replyToAllMsgCmd.label "Отговор до всички">
 <!ENTITY replyToAllMsgCmd.accesskey  "в">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -468,6 +480,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "б">
 <!ENTITY activitymanager.label "Управление на активността">
 <!ENTITY activitymanager.accesskey "в">
+<!ENTITY imAccountsStatus.label "Състояние на разговора">
+<!ENTITY imAccountsStatus.accesskey "С">
+<!ENTITY imStatus.available          "Наличен">
+<!ENTITY imStatus.unavailable        "Недостъпен">
+<!ENTITY imStatus.offline            "Без връзка">
+<!ENTITY imStatus.showAccounts       "Показване на сметките…">
+<!ENTITY joinChatCmd.label "Присъединяване към разговор…">
+<!ENTITY joinChatCmd.accesskey "П">
 <!ENTITY savedFiles.label "Записани файлове">
 <!ENTITY savedFiles.accesskey "й">
 <!ENTITY savedFiles.key "j">
@@ -487,6 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "я">
 <!ENTITY errorConsoleCmd.label "Конзола за грешки">
 <!ENTITY errorConsoleCmd.accesskey "н">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Настройки на регистрация…">
 <!ENTITY accountManagerCmd.accesskey "к">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -503,7 +524,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Файл">
 <!ENTITY archiveButton.label "Архивиране">
 <!ENTITY nextButton.label "Следващо">
+<!ENTITY nextButtonToolbarItem.label "Следващо непрочетено">
+<!ENTITY nextMsgButton.label "Следващо">
 <!ENTITY previousButton.label "Предишно">
+<!ENTITY previousButtonToolbarItem.label "Предишно непрочетено">
+<!ENTITY previousMsgButton.label "Предишно">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Препращане">
 <!ENTITY deleteItem.title "Изтриване">
@@ -517,6 +542,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Нежелана поща">
 <!ENTITY notJunkButton.label "Желана поща">
 <!ENTITY addressBookButton.label "Адресник">
+<!ENTITY chatButton.label "Разговор">
 <!ENTITY glodaSearch.title "Всеобщо търсене">
 <!ENTITY searchItem.title "Бързо търсене">
 <!ENTITY mailViewsToolbarItem.title "Изгледи на пощата">
@@ -537,7 +563,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Записване като файл">
 <!ENTITY archiveButton.tooltip "Архивиране на избраните съобщения">
 <!ENTITY nextButton.tooltip "Напред към следващото непрочетено писмо">
+<!ENTITY nextMsgButton.tooltip "Напред към следващото непрочетено писмо">
 <!ENTITY previousButton.tooltip "Назад към предишното непрочетено писмо">
+<!ENTITY previousMsgButton.tooltip "Назад към предишното непрочетено писмо">
 <!ENTITY goForwardButton.tooltip "Напред едно писмо">
 <!ENTITY goBackButton.tooltip "Назад едно писмо">
 <!ENTITY deleteButton.tooltip "Изтриване на избрано писмо или папка">
@@ -548,6 +576,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Отбелязване на избраните писма като нежелани">
 <!ENTITY notJunkButton.tooltip "Отбелязване на избраните писма като желани">
 <!ENTITY addressBookButton.tooltip "Отваряне на адресника">
+<!ENTITY chatButton.tooltip "Показване на подпрозореца за разговори">
 <!ENTITY tagButton.tooltip "Писма с етикет">
 <!ENTITY compactButton.tooltip "Премахване на изтритите писма от избраната папка">
 <!-- Tags Menu Popup -->
@@ -588,8 +617,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ч">
 <!ENTITY folderContextSubscribe.label "Абониране…">
 <!ENTITY folderContextSubscribe.accesskey "б">
-<!ENTITY folderContextSearchForMessages.label "Search Messages…">
-<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextSearchForMessages.label "Търсене на писма…">
+<!ENTITY folderContextSearchForMessages.accesskey "Т">
 <!ENTITY folderContextProperties.label "Свойства…">
 <!ENTITY folderContextProperties.accesskey "й">
 <!ENTITY folderContextFavoriteFolder.label "Любима папка">
@@ -673,8 +702,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Отговор само до подателя">
 <!ENTITY contextReplySender.accesskey "с">
-<!ENTITY contextReplyNewsgroup.label "Отговор до групата">
-<!ENTITY contextReplyNewsgroup.accesskey "г">
+<!ENTITY contextReplyNewsgroup2.label "Отговор до новинарска група">
+<!ENTITY contextReplyNewsgroup2.accesskey "О">
 <!ENTITY contextReplyAll.label "Отговор до всички">
 <!ENTITY contextReplyAll.accesskey "в">
 <!ENTITY contextReplyList.label "Отговор до списък">
@@ -754,7 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "О">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage1.label "Нежелана поща">
+<!ENTITY junkBarMessage2.label "&brandShortName; смята. че това съобщение е нежелано.">
 <!ENTITY junkBarButton1.label "Желана поща">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
@@ -780,28 +809,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      -->
 
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Търсене във всички съобщения… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Търсене… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Добавяне в адресника…">
