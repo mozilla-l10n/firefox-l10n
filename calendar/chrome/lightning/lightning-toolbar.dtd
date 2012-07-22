@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lightning.toolbar.calendar.name "Лента с инструменти на календара">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.name "Лента инструменти за задачи">
+<!ENTITY lightning.toolbar.task.accesskey "T">
+
+<!ENTITY lightning.toolbar.sync.label "Синхронизиране">
+<!ENTITY lightning.toolbar.delete.label "Изтриване">
+<!ENTITY lightning.toolbar.edit.label "Редактиране">
+<!ENTITY lightning.toolbar.gototoday.label "Отиване в днешния ден">
+<!ENTITY lightning.toolbar.print.label "Отпечатване">
+<!-- Mode Toolbar -->
+
+<!ENTITY lightning.toolbar.mail.label         "Поща">
+<!ENTITY lightning.toolbar.mail.accesskey     "П">
+<!ENTITY lightning.toolbar.calendar.label     "Календар">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Превключване към подпрозореца с календара">
+<!ENTITY lightning.toolbar.calendar.accesskey "К">
+<!ENTITY lightning.toolbar.task.label         "Задачи">
+<!ENTITY lightning.toolbar.task.tooltip       "Превключване към подпрозореца със задачи">
+<!ENTITY lightning.toolbar.task.accesskey     "З">
+<!-- Toolbar write button -->
+
+<!ENTITY lightning.toolbar.newevent.label     "Събитие">
+<!ENTITY lightning.toolbar.newtask.label      "Задача">
+<!-- Calendar and Task Mode Toolbar -->
+
+<!ENTITY lightning.toolbar.day.label                 "Ден">
+<!ENTITY lightning.toolbar.day.accesskey             "Д">
+<!ENTITY lightning.toolbar.week.label                "Седмица">
+<!ENTITY lightning.toolbar.week.accesskey            "С">
+<!ENTITY lightning.toolbar.multiweek.label           "Седмици">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "и">
+<!ENTITY lightning.toolbar.month.label               "Месец">
+<!ENTITY lightning.toolbar.month.accesskey           "М">

@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
 <!ENTITY msgComposeWindow.title "Писане: (без тема)">
 <!-- File Menu -->
 
@@ -17,6 +21,8 @@
 <!ENTITY attachFileCmd.label "Файл(ове)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Уеб страница…">
 <!ENTITY attachPageCmd.accesskey "У">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -68,11 +74,13 @@
 <!ENTITY pasteCmd.accesskey "в">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Пренареждане">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "р">
 <!ENTITY deleteCmd.label "Изтриване">
 <!ENTITY deleteCmd.accesskey "з">
+<!ENTITY editRewrapCmd.label "Пренареждане">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Преименуване на притурка…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Избор на всичко">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "И"> 
@@ -218,7 +226,7 @@
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "у">
+<!ENTITY attachments.accesskey "п">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Вмъкване на физиономии">
@@ -268,6 +276,14 @@
 <!ENTITY selectAll.accesskey "И">
 <!ENTITY attachFile.label "Прилагане на файл(ове)…">
 <!ENTITY attachFile.accesskey "ф">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Конвертиране в…">
+<!ENTITY convertCloud.accesskey "К">
+<!ENTITY cancelUpload.label "Прекъсване на качването">
+<!ENTITY cancelUpload.accesskey "П">
+<!ENTITY convertRegularAttachment.label "Обекновена притурка">
+<!ENTITY convertRegularAttachment.accesskey "п">
 <!ENTITY attachPage.label "Прилагане на уеб страница…">
 <!ENTITY attachPage.accesskey "б">
 <!-- Spell checker context menu items -->

@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Настройване на Filelink">
+<!ENTITY addAccountDialog.menuTitle "Изберете услуга за онлайн съхранение">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Име на сметка:">
+<!ENTITY addAccountDialog.noAccountText "Съжаляваме, но текущата версия на &brandShortName; позволява само една сметка от всяка услуга за онлайн съхранение.">
+<!ENTITY addAccountDialog.createAccountText2 "Можете да изпращате големи приложени файлове, използвайки един от няколко услуги за онлайн съхраняване. Моля задайте съществуваща сметка или регистрирайте нова сметка.">
+<!ENTITY addAccountDialog.authorizing "Проверка на удостоверяването...">
+<!ENTITY addAccountDialog.error "Грешка при създаването на сметка!">
+<!ENTITY addAccountDialog.acceptButton.label "Създаване на сметка">
+<!ENTITY addAccountDialog.learnMore "Научете повече…">

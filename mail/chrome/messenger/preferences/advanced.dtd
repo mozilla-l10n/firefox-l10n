@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "Основни">
 <!ENTITY itemDisplay.label       "Четене и показване">
 <!ENTITY itemUpdate.label        "Обновяване">
@@ -66,6 +70,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "П">
 <!ENTITY showUpdates.label              "Показване хронологията на обновяванията">
 <!ENTITY showUpdates.accesskey          "о">
+
+<!ENTITY useService.label                "Използване на фонова услуга за инсталиране на обновявания">
+<!ENTITY useService.accesskey            "ф">
 <!-- Networking and Disk Space -->
 
 <!ENTITY showSettings.label            "Настройки…">

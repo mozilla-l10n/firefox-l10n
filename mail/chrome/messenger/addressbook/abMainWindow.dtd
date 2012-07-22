@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Адресник">
 <!-- File Menu -->
 
@@ -160,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "И">
 <!ENTITY PrimaryEmail.label                             "Е-поща">
 <!ENTITY PrimaryEmail.accesskey                         "Е">
-<!ENTITY ScreenName.label                               "Изобразено име">
-<!ENTITY ScreenName.accesskey                           "б">
+<!ENTITY ChatName.label                                 "Име на разговор">
+<!ENTITY ChatName.accesskey                             "И">
 <!ENTITY Company.label                                  "Организация">
 <!ENTITY Company.accesskey                              "г">
 <!ENTITY NickName.label                                 "Псевдоним">
@@ -194,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Контакт">
 <!ENTITY home.heading                                   "Домашен">
 <!ENTITY other.heading                                  "Други">
+<!ENTITY chat.heading                                   "Разговор">
 <!ENTITY phone.heading                                  "Телефон">
 <!ENTITY work.heading                                   "Служебен">
 <!-- Special Box Headings, for mailing lists -->

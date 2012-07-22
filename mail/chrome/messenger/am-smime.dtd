@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Защита">
 <!ENTITY securityTab.label "Защита">
 <!ENTITY securityHeading.label "За да изпращате и получавате подписани или шифровани писма, вие трябва да определите сертификат за цифров подпис и сертификат за шифроване.">
