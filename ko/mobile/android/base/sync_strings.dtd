@@ -37,6 +37,8 @@
 <!ENTITY sync.button.tryagain.label '다시 설정'>
 <!ENTITY sync.button.manual.label '수동 설정'>
 <!ENTITY sync.subtitle.nointernet.label '인터넷 접속 할 수 없습니다.'>
+<!ENTITY sync.subtitle.failaccount.label '기기에 계정 생성을 실패했습니다.'>
+<!ENTITY sync.subtitle.failmultiple.label '하나 이상의 Firefox가 설치되어 있습니까? 현재, &syncBrand.fullName.label;는 한번에 하나의 Firefox 설치만을 지원합니다. &syncBrand.shortName.label;을 사용하시려면 삭제하시기 바랍니다.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '설정 완료'>
@@ -72,4 +74,18 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '하나의 &syncBrand.fullName.label; 계정만이 지원되고 있습니다.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label '올바르지 않은 계정 이름 또는 비밀번호입니다.'>
+<!ENTITY sync.invalidserver.label '유효한 서버 URL을 입력해 주십시오'>
+<!ENTITY sync.verifying.label '확인하는 중…'>
 <!ENTITY sync.new.recoverykey.status.incorrect '복원키가 올바르지는 않습니다. 다시 시도해 주십시오.'>
+
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label '탭을 기기로 보내기'>
+<!ENTITY sync.button.send.label '보내기'>
+<!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; 설치'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label '탭을 보내기 위해 &syncBrand.shortName.label; 설치'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label '다른 기기로 탭을 보내기 위해 &syncBrand.fullName.label; 설치'>
+<!ENTITY sync.text.tab.sent.label '탭을 보냈습니다!'>

@@ -27,7 +27,7 @@
 
 <!ENTITY awesomebar_default_text "검색어나 URL을 입력해 주십시오.">
 
-<!ENTITY remote_tabs "동기화된 탭 목록">
+<!ENTITY remote_tabs "동기화된 탭">
 <!ENTITY remote_tabs_show_all "모든 탭 표시">
 
 <!ENTITY bookmark "북마크">
@@ -49,6 +49,7 @@
 
 <!ENTITY new_tab "새 탭">
 <!ENTITY close_tab "탭 닫기">
+<!ENTITY one_tab "한 개의 탭">
 <!ENTITY num_tabs "&#037;d 개의 탭">
 <!ENTITY new_tab_opened "열린 새 탭">
 
@@ -92,10 +93,12 @@
 
 <!ENTITY addons "부가 기능">
 <!ENTITY downloads "다운로드">
+<!ENTITY apps "앱">
 <!ENTITY char_encoding "문자 인코딩">
 
 <!ENTITY share "공유">
 <!ENTITY share_title "공유 방법 선택">
+<!ENTITY share_image_failed "이미지 공유하지 않기">
 <!ENTITY save_as_pdf "PDF로 저장">
 <!ENTITY desktop_mode "PC웹으로 보기">
 <!ENTITY find_in_page "페이지내 검색">
@@ -129,9 +132,10 @@
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
-<!ENTITY add_to_reading_list "읽기 목록 추가">
+<!ENTITY reading_list "읽기 목록">
 <!ENTITY reading_list_added "페이지를 읽기 목록에서 추가 완료">
 <!ENTITY reading_list_removed "페이지를 읽기 항목에서 삭제 완료">
+<!ENTITY reading_list_failed "읽기 목록에 페이지 추가 실패">
 <!ENTITY reader_mode "읽기 모드">
 
 
@@ -171,3 +175,5 @@
 <!ENTITY bookmarkhistory_import_bookmarks "북마크 가져오는 중">
 <!ENTITY bookmarkhistory_import_history "방문 기록 가져오는 중">
 <!ENTITY bookmarkhistory_import_wait "잠시 기다리세요...">
+
+<!ENTITY webapp_generic_name "앱">
