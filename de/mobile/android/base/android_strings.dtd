@@ -1,11 +1,11 @@
 
 <!ENTITY  splash_settingup "&brandShortName; wird eingerichtet\u2026">
-<!ENTITY  splash_bookmarks_history "Ihre Lesezeichen und Chronik wird aktualisiert, dies kann eine Minute in Anspruch nehmen.">
+<!ENTITY  splash_bookmarks_history "Ihre Lesezeichen und Chronik werden aktualisiert, dies kann eine Minute in Anspruch nehmen.">
 
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
 <!ENTITY  error_loading_file "Beim Versuch, Dateien zu laden, die &brandShortName; benötigt, ist ein Fehler aufgetreten">
 
-<!ENTITY  awesomebar_all_pages_title "Meistbesuchte Seiten">
+<!ENTITY  awesomebar_all_pages_title "Meistbesucht">
 <!ENTITY  awesomebar_bookmarks_title "Lesezeichen">
 <!ENTITY  awesomebar_history_title "Chronik">
 <!ENTITY  awesomebar_search_engine "Suche für \&quot;&#037;s\&quot;">
@@ -62,7 +62,7 @@
 <!ENTITY pref_category_content "Inhalt">
 <!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Über &brandShortName;">
-<!ENTITY pref_do_not_track "Website mitteilen, dass ich nicht verfolgt werden möchte">
+<!ENTITY pref_do_not_track "Website bitten, mich nicht zu verfolgen">
 <!ENTITY pref_telemetry "Performanz-Daten senden">
 <!ENTITY pref_remember_signons "Passwörter speichern">
 <!ENTITY pref_cookies "Cookies akzeptieren">
@@ -130,7 +130,7 @@
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Schlagwort">
 
-<!ENTITY site_settings_title        "Seiteneinstellungen löschen">
+<!ENTITY site_settings_title        "Seiteneinstell. löschen">
 <!ENTITY site_settings_cancel       "Abbrechen">
 <!ENTITY site_settings_clear        "Löschen">
 <!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar.">
