@@ -11,6 +11,13 @@
 <!ENTITY telemetryInfoLink.label       "Više informacija o telemetriji">
 <!ENTITY enableGlodaSearch.label       "Omogući globalno pretraživanje i indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+
+<!ENTITY scrolling.label               "Listanje">
+<!ENTITY useAutoScroll.label           "Koristi automatsko listanje">
+<!ENTITY useAutoScroll.accesskey       "t">
+<!ENTITY useSmoothScrolling.label      "Koristi glatko listanje">
+<!ENTITY useSmoothScrolling.accesskey  "g">
+
 <!ENTITY systemIntegration.label       "Sistemska integracija">
 <!ENTITY alwaysCheckDefault.label      "Prilikom pokretanja uvijek provjeri je li &brandShortName; zadani program za e-poštu">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
@@ -81,9 +88,9 @@
 <!ENTITY showOffline.accesskey         "I">
 
 <!ENTITY Diskspace "Diskovni prostor">
-<!ENTITY offlineCompact.label "Sažmi mape kada se može uštedjeti više od">
-<!ENTITY offlineCompact.accesskey "m">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "Sažmi sve mape kada će uštedjeti više od">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB ukupno">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

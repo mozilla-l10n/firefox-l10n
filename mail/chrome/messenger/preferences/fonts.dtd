@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltički">
 <!ENTITY  font.langGroup.el                       "Grčki">
 <!ENTITY  font.langGroup.turkish                  "Turski">
-<!ENTITY  font.langGroup.unicode                  "Ostali jezici">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Korisnički određeno">
 <!ENTITY  font.langGroup.thai                     "Tajlandski">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejski">
