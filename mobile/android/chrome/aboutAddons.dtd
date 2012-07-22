@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "فعّل">
 <!ENTITY addonAction.disable                    "عطّل">
 <!ENTITY addonAction.uninstall                  "أزِل">
-<!ENTITY addonAction.cancel                     "ألغِ">
+<!ENTITY addonAction.undo                       "تراجَع">
