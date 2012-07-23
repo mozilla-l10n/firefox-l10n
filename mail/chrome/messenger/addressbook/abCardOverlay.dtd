@@ -186,7 +186,7 @@
 <!ENTITY BrowsePhoto.accesskey          "G">
 <!ENTITY PhotoURL.label                 "På nettet">
 <!ENTITY PhotoURL.accesskey             "e">
-<!ENTITY PhotoURL.placeholder           "Indsæt eller skriv et fotos web-adresse">
+<!ENTITY PhotoURL.placeholder           "Indsæt eller skriv et fotos webadresse">
 <!ENTITY UpdatePhoto.label              "Opdater">
 <!ENTITY UpdatePhoto.accesskey          "d">
 
