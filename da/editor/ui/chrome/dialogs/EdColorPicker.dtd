@@ -9,7 +9,7 @@
 <!ENTITY default.accessKey "D">
 <!ENTITY palette.label "Palet:">
 <!ENTITY standardPalette.label "Standard">
-<!ENTITY webPalette.label "Alle web-farver">
+<!ENTITY webPalette.label "Alle webfarver">
 <!ENTITY background.label "Tekstbaggrund:">
 <!ENTITY background.accessKey "B">
 <!ENTITY table.label "Tabel">
