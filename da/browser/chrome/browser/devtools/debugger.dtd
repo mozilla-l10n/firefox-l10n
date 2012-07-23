@@ -64,4 +64,4 @@
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "Ingen scripts.">
+<!ENTITY debuggerUI.emptyScriptText  "Ingen scripts">
