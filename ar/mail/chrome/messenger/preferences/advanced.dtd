@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "مزيد من المعلومات عن قياسات الأداء">
 <!ENTITY enableGlodaSearch.label       "فعّل البحث العمومي والفهرسة">
 <!ENTITY enableGlodaSearch.accesskey   "ف">
+
+<!ENTITY scrolling.label               "اللف">
+<!ENTITY useAutoScroll.label           "استخدم اللّف الآلي">
+<!ENTITY useAutoScroll.accesskey       "ف">
+<!ENTITY useSmoothScrolling.label      "استخدم اللّف السلس">
+<!ENTITY useSmoothScrolling.accesskey  "خ">
+
 <!ENTITY systemIntegration.label       "تكامل النظام">
 <!ENTITY alwaysCheckDefault.label      "تحقق دائمًا عند البدء إن كان &brandShortName; هو عميل البريد الافتراضي">
 <!ENTITY alwaysCheckDefault.accesskey  "ئ">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "غير متصل…">
 <!ENTITY showOffline.accesskey         "ص">
 
-<!ENTITY Diskspace "مساحة القرص ">
-<!ENTITY offlineCompact.label "ادمج المجلدات إذا كانت ستوفِّر أكثر من">
-<!ENTITY offlineCompact.accesskey "و">
-<!ENTITY mb.label "ميغابايت">
+<!ENTITY Diskspace                       "مساحة القرص ">
+<!ENTITY offlineCompactFolders.label     "ادمج كل المجلدات إذا كانت ستوفِّر أكثر من">
+<!ENTITY offlineCompactFolders.accesskey "و">
+<!ENTITY offlineCompactFoldersMB.label   "م.بايت">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

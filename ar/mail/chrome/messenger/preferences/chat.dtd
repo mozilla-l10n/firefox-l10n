@@ -17,8 +17,8 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "ع">
 <!ENTITY  idleTime                      "دقائق من عدم النشاط">
 
-<!ENTITY  andSetStatusToAway.label      'واجعل حالتي "بعيدا" مع هذه الرسالة:'>
-<!ENTITY  andSetStatusToAway.accesskey  "A">
+<!ENTITY  andSetStatusToAway.label      "واجعل حالتي غائب مع هذه الرسالة:">
+<!ENTITY  andSetStatusToAway.accesskey  "غ">
 
 <!ENTITY  sendTyping.label              "أرسل تنويهات الكتابة في المحادثات">
 <!ENTITY  sendTyping.accesskey          "ك">
