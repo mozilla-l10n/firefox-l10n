@@ -86,6 +86,7 @@
 <!ENTITY pref_private_data_history "Besuchte Seiten &amp; Download-Chronik">
 <!ENTITY pref_private_data_formdata "Eingegebene Suchbegriffe &amp; Formulardaten">
 <!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Gespeicherte Passwörter">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_sessions "Aktive Logins">
 <!ENTITY pref_private_data_offlineApps "Offline-Website-Daten">
