@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Limite de armazenamento alcançado">
+<!ENTITY fileExceedsQuota.accept "Atualizar">
+<!ENTITY fileExceedsQuota.cancel "Cancelar">
+<!ENTITY fileExceedsQuota.description "Alcançou o limite de 2GB de armazenamento da sua conta.">
+<!ENTITY fileExceedsQuota.description1 "A sua utilização atual do armazenamento é de #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Atualize hoje para uma conta Pro Plus e obtenha mais armazenamento.">
+<!ENTITY fileExceedsQuota.description3 "pode também escolher alguns ficheiros para eliminar para ganhar mais espaço.">
