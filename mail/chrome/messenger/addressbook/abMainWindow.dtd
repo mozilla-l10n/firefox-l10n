@@ -92,11 +92,11 @@
 <!ENTITY customizeToolbar.label                         "خصّص…">
 <!ENTITY customizeToolbar.accesskey                     "خ">
 <!ENTITY layoutMenu.label                               "التخطيط">
-<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY layoutMenu.accesskey                           "ت">
 <!ENTITY showDirectoryPane.label                        "لوحة المجلدات">
-<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showDirectoryPane.accesskey                    "ح">
 <!ENTITY showContactPane2.label                         "لوحة المراسلين">
-<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY showContactPane2.accesskey                     "س">
 <!ENTITY menu_ShowNameAs.label                          "اعرض الاسم ك‍">
 <!ENTITY menu_ShowNameAs.accesskey                      "ك"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here

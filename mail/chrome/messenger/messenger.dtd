@@ -329,7 +329,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.accesskey "غ">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "إلى الأمام">
-<!ENTITY goForwardCmd.accesskey "أ">
+<!ENTITY goForwardCmd.accesskey "م">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "إلى الخلف">
 <!ENTITY goBackCmd.accesskey "خ">
@@ -583,6 +583,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addNewTag.label "وسم جديد…">
 <!ENTITY addNewTag.accesskey "و">
+<!ENTITY manageTags.label "أدِر الوسوم…">
+<!ENTITY manageTags.accesskey "س">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "الاسم">
