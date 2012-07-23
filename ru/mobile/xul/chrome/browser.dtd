@@ -81,7 +81,7 @@
 <!ENTITY contextSaveImage.label "Сохранить изображение">
 <!ENTITY contextCopyLink.label "Копировать ссылку">
 <!ENTITY contextCopyEmail.label "Копировать адрес электронной почты">
-<!ENTITY contextCopyPhone.label "Копировать телефонный номер">
+<!ENTITY contextCopyPhone.label "Копировать номер телефона">
 <!ENTITY contextCopyImageLocation.label "Копировать ссылку на изображение">
 <!ENTITY contextShareLink.label "Поделиться ссылкой">
 <!ENTITY contextShareImage.label "Поделиться изображением">
