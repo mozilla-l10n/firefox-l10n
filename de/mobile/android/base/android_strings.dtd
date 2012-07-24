@@ -155,7 +155,7 @@
 <!ENTITY abouthome_last_tabs_open "Alle Tabs der letzten Sitzung öffnen">
 <!ENTITY abouthome_top_sites_title "Meistbesuchte Seiten">
 <!ENTITY abouthome_top_sites_browse "Alle häufig besuchten Seiten durchsehen">
-<!ENTITY abouthome_no_top_sites "Sie verfügen noch nicht über meistbesuchte Seiten. Tippen Sie auf Titelleiste, um mit dem Surfen zu beginnen.">
+<!ENTITY abouthome_no_top_sites "Sie verfügen noch nicht über meistbesuchte Seiten. Tippen Sie auf die Titelleiste, um mit dem Surfen zu beginnen.">
 <!ENTITY abouthome_about_sync "Richten Sie Firefox-Sync ein, um auf Lesezeichen, Chronik und Tabs von anderen Geräten aus zuzugreifen">
 <!ENTITY abouthome_sync_bold_name "Firefox-Sync">
 
