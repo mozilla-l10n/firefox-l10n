@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Próbálja újra'>
 <!ENTITY sync.button.manual.label 'Kézi beállítás'>
 <!ENTITY sync.subtitle.nointernet.label 'Nincs internetkapcsolat.'>
+<!ENTITY sync.subtitle.failaccount.label 'A fiók létrehozása meghiúsult az eszközén.'>
+<!ENTITY sync.subtitle.failmultiple.label 'A Firefox több példánya is telepítve van? Jelenleg a &syncBrand.fullName.label; egyszerre csak egy Firefox telepítést támogat. A &syncBrand.shortName.label; használatához távolítsa el a többi példányt.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'A beállítás kész'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Csak egy &syncBrand.fullName.label;-fiók támogatott.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Helytelen fióknév vagy jelszó.'>
+<!ENTITY sync.invalidserver.label 'Írjon be egy érvényes kiszolgáló URL-t'>
+<!ENTITY sync.verifying.label 'Ellenőrzés…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'A helyreállítási kulcs helytelen. Próbálja meg újra.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Lap küldése eszközökre'>
+<!ENTITY sync.button.send.label 'Küldés'>
+<!ENTITY sync.button.set.up.sync.label 'A &syncBrand.shortName.label; beállítása'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Lapok küldéséhez állítsa be a &syncBrand.shortName.label;-et'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Állítsa be a &syncBrand.fullName.label;-et az eszközén a lapok más eszközökre küldéséhez.'>
+<!ENTITY sync.text.tab.sent.label 'A lap elküldve!'>

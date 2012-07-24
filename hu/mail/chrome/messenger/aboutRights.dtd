@@ -14,16 +14,16 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "A &brandShortName; a ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Ez azt jelenti, hogy a  &brandShortName; használható, másolható és terjeszthető. A &brandShortName; forráskódjának igény szerinti módosítása szintén megengedett. A Mozilla Public License megadja a jogot a módosított verziók terjesztésére is.">
+<!ENTITY rights.intro-point1c " feltételei szerint lett közreadva. Ez azt jelenti, hogy a  &brandShortName; használható, másolható és terjeszthető. A &brandShortName; forráskódjának igény szerinti módosítása szintén megengedett. A Mozilla Public License megadja a jogot a módosított verziók terjesztésére is.">
 
 <!ENTITY rights.intro-point2a "A Mozilla nem ad semmilyen jogot a Mozilla és a Thunderbird védjegyekre vagy logókra. A védjegyekről további információ ">
 <!ENTITY rights.intro-point2b "itt">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2c " olvasható.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "A &vendorShortName; termékeinek adatvédelmi irányelvei ">
 <!ENTITY rights.intro-point3b "itt">
-<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3c " találhatók.">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Itt kell felsorolni a termékben alkalmazott adatvédelmi irányelveket.">
@@ -31,7 +31,7 @@
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "A &brandShortName; opcionális szolgáltatásokat is nyújt, ilyen például a kiegészítők frissítése szolgáltatás. Mindazonáltal nem garantálható, hogy ez 100&#37;-osan pontos és hibamentes. A szolgáltatások letiltásáról szóló információk a ">
 <!ENTITY rights.intro-point4b "szolgáltatás feltételei">
-<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4c " dokumentumban olvashatók.">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Ha ez a termék webes szolgáltatásokat is tartalmaz, akkor ezen szolgáltatások feltételei a ">
