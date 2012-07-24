@@ -9,9 +9,9 @@
 <!ENTITY accountUsernameDuplicate.label "Ce compte est déjà configuré !">
 
 <!ENTITY accountPasswordTitle.label "Mot de passe">
-<!ENTITY accountPasswordInfo.label "Veuillez saisir votre mot de passe dans la boîte ci-dessous.">
+<!ENTITY accountPasswordInfo.label "Veuillez saisir votre mot de passe.">
 <!ENTITY accountPasswordField.label "Mot de passe :">
-<!ENTITY accountPasswordManager.label "Le mot de passe saisi ici sera stocké dans le gestionnaire de mot de passe. Laisser cette boîte vide si vous voulez que le mot de passe vous soit demandé à chaque connexion.">
+<!ENTITY accountPasswordManager.label "Ce mot de passe sera conservé dans le gestionnaire de mots de passe. Laissez cette boîte vide si vous voulez que le mot de passe vous soit demandé à chaque connexion.">
 
 <!ENTITY accountAdvancedTitle.label "Options avancées">
 <!ENTITY accountAdvancedInfo.label "Vous pouvez sauter cette étape si vous le désirez.">
@@ -25,4 +25,4 @@
 
 <!ENTITY accountSummaryTitle.label "Résumé">
 <!ENTITY accountSummaryInfo.label "Un résumé des informations que vous avez saisies est affiché ci-dessous. Veuillez le vérifier avant la création du compte.">
-<!ENTITY accountSummary.connectNow.label "Connecter ce compte maintenant.">
+<!ENTITY accountSummary.connectNow.label "Se connecter à ce compte maintenant.">
