@@ -19,9 +19,9 @@
 <!ENTITY about.relnotes.afterTheLink  " .">
 
 <!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
-<!ENTITY about.buildconfig.beforeTheLink "Nézze meg az ezen verzió összeépítéséhez használt">
+<!ENTITY about.buildconfig.beforeTheLink "Nézze meg az ezen verzió összeépítéséhez használt ">
 <!ENTITY about.buildconfig.linkTitle     "konfigurációs paramétereket">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.buildconfig.afterTheLink  " .">
 
-<!ENTITY about.buildIdentifier        "Az összeépítés (build) azonosítója:">
+<!ENTITY about.buildIdentifier        "Az összeépítés (build) azonosítója: ">
