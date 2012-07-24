@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "További információ a telemetriáról">
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
+
+<!ENTITY scrolling.label               "Görgetés">
+<!ENTITY useAutoScroll.label           "Automatikus görgetés">
+<!ENTITY useAutoScroll.accesskey       "u">
+<!ENTITY useSmoothScrolling.label      "Finom görgetés">
+<!ENTITY useSmoothScrolling.accesskey  "F">
+
 <!ENTITY systemIntegration.label       "Integrálódás a rendszerbe">
 <!ENTITY alwaysCheckDefault.label      "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett levelező">
 <!ENTITY alwaysCheckDefault.accesskey  "I">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "Kapcsolat nélkül…">
 <!ENTITY showOffline.accesskey         "K">
 
-<!ENTITY Diskspace "Lemezterület">
-<!ENTITY offlineCompact.label "Mappák tömörítése, ha a megtakarított hely több lenne, mint">
-<!ENTITY offlineCompact.accesskey "t">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Lemezterület">
+<!ENTITY offlineCompactFolders.label     "Minden mappa tömörítése, ha a megtakarított hely több lenne, mint">
+<!ENTITY offlineCompactFolders.accesskey "t">
+<!ENTITY offlineCompactFoldersMB.label   "MB összesen">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

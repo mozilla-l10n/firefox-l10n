@@ -327,7 +327,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.label "Olvasatlan üzenet">
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Továbbítás">
+<!ENTITY goForwardCmd.label "Előre">
 <!ENTITY goForwardCmd.accesskey "E">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Vissza">
@@ -582,6 +582,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Új címke…">
 <!ENTITY addNewTag.accesskey "c">
+<!ENTITY manageTags.label "Címkék kezelése…">
+<!ENTITY manageTags.accesskey "m">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Név">
