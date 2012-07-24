@@ -44,7 +44,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "This action cannot be undone.">
+<!ENTITY sanitizeEverythingUndoWarning     "Cette action est irréversible.">
 
 <!ENTITY dialog.width                 "28em">
 <!ENTITY column.width                 "14em">
