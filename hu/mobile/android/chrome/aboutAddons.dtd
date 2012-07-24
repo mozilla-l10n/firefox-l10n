@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Engedélyezés">
 <!ENTITY addonAction.disable                    "Letiltás">
 <!ENTITY addonAction.uninstall                  "Eltávolítás">
-<!ENTITY addonAction.cancel                     "Mégse">
+<!ENTITY addonAction.undo                       "Visszavonás">

@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Balti">
 <!ENTITY  font.langGroup.el                       "Görög">
 <!ENTITY  font.langGroup.turkish                  "Török">
-<!ENTITY  font.langGroup.unicode                  "Más nyelvek">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Felhasználó által megadott">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Héber">
