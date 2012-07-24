@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "錯誤主控台">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "清除最近的歷史記錄…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "帳號設定…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
