@@ -144,7 +144,7 @@
 <!ENTITY abouthome_top_sites_title "Népszerű oldalak">
 <!ENTITY abouthome_top_sites_browse "A népszerű oldalainak böngészése">
 <!ENTITY abouthome_no_top_sites "Még nincsenek népszerű oldalai. Koppintson a címsorra a böngészés megkezdéséhez.">
-<!ENTITY abouthome_about_sync "Állítsa be aFirefox Syncet a más eszközökön használt könyvjelzői, előzményei és lapjai eléréséhez">
+<!ENTITY abouthome_about_sync "Állítsa be a Firefox Syncet a más eszközökön használt könyvjelzői, előzményei és lapjai eléréséhez">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
 <!ENTITY filepicker_title "Fájlválasztás">
