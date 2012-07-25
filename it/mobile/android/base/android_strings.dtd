@@ -77,6 +77,7 @@
 <!ENTITY pref_private_data_history "Cronologia navigazione e download">
 <!ENTITY pref_private_data_formdata "Moduli e ricerche">
 <!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_passwords "Password salvate">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_sessions "Accessi effettuati">
 <!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
