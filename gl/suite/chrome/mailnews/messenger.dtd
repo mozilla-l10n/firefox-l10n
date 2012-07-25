@@ -466,7 +466,7 @@
 <!ENTITY replyButton.tooltip "Responder á mensaxe">
 <!ENTITY replyAllButton.tooltip "Responder ao remitente e a todos os destinatarios">
 <!ENTITY replyAllButtonNews.tooltip "Responder ao remitente da rolda">
-<!ENTITY forwardButton.tooltip "Reencamiñar mensaxe seleccionada">
+<!ENTITY forwardButton.tooltip "Reenviar a mensaxe seleccionada">
 <!ENTITY fileButton.tooltip "Gardar mensaxe seleccionada">
 <!ENTITY nextButton.tooltip "Ir á seguinte mensaxe non lida">
 <!ENTITY goBackButton.tooltip "Retroceder unha mensaxe">
@@ -576,6 +576,7 @@
 <!ENTITY removePhishingBarButton.label "Non é correo fraudulento">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "O remitente desta mensaxe solicitou que o avisen cando a lea. ¿Desexa avisar ao remitente?">
 <!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "Enviar pedido">
+<!ENTITY mdnBarSendButton.accesskey "d">

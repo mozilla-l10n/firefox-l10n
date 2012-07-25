@@ -64,8 +64,10 @@
 <!ENTITY PhoneticField2.label           "Nome fonético:">
 <!ENTITY DisplayName.label              "Mostrar:">
 <!ENTITY DisplayName.accesskey          "M">
+<!ENTITY preferDisplayName.label        "Preferir sempre o nome mostrado ao da cabeceira da mensaxe">
+<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Alcume:">
-<!ENTITY NickName.accesskey             "A">
+<!ENTITY NickName.accesskey             "u">
 
 <!ENTITY PrimaryEmail.label             "Correo electrónico:">
 <!ENTITY PrimaryEmail.accesskey         "e">
