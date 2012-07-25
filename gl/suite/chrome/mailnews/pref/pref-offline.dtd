@@ -29,6 +29,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "C">
 <!ENTITY mailnewsTimeoutSeconds.label     "segundos">
 <!ENTITY Diskspace                        "Espazo no disco">
-<!ENTITY offlineCompact.label             "Compactar cartafoles ao liberar">
-<!ENTITY offlineCompact.accesskey         "C">
-<!ENTITY mb.label                         "MB">
+<!ENTITY offlineCompactFolders.label      "Compactar todos os cartafoles ao liberar">
+<!ENTITY offlineCompactFolders.accesskey  "C">
+<!ENTITY offlineCompactFoldersMB.label    "MB en total">
