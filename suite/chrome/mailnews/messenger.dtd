@@ -576,6 +576,7 @@
 <!ENTITY removePhishingBarButton.label "Non é correo fraudulento">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "O remitente desta mensaxe solicitou que o avisen cando a lea. ¿Desexa avisar ao remitente?">
 <!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "Enviar pedido">
+<!ENTITY mdnBarSendButton.accesskey "d">
