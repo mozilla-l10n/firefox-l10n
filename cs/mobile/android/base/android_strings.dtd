@@ -90,10 +90,12 @@
 <!ENTITY pref_private_data_history "Historie a stahování">
 <!ENTITY pref_private_data_formdata "Formuláře a hledání">
 <!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Uložená hesla">
 <!ENTITY pref_private_data_cache "Mezipaměť">
 <!ENTITY pref_private_data_sessions "Aktivní přihlášení">
 <!ENTITY pref_private_data_offlineApps "Offline data">
 <!ENTITY pref_private_data_siteSettings "Předvolby serveru">
+<!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 
 <!ENTITY quit "Ukončit">
 
