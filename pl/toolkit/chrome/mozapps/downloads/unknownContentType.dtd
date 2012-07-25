@@ -39,7 +39,7 @@
 -->
 
 
-<!ENTITY intro.label "Rozpoczęto pobieranie pliku:" >
+<!ENTITY intro2.label "Rozpoczęto pobieranie pliku:" >
 <!ENTITY from.label "Adres:" >
 <!ENTITY actionQuestion.label "Po zakończeniu pobierania:" >
 <!ENTITY openWith.label "Otwórz za pomocą" >
