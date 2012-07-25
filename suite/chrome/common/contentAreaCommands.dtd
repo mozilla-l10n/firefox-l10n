@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label "Zakázat vyskakovací okna z tohoto serveru">
 <!ENTITY popupWindowRejectCmd.accesskey "">
@@ -117,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
 <!ENTITY spellAddToDictionary.label "Přidat do slovníku">
 <!ENTITY spellAddToDictionary.accesskey "p">
+<!ENTITY spellUndoAddToDictionary.label "Vrátit přidání do slovníku">
+<!ENTITY spellUndoAddToDictionary.accesskey "p">
 <!ENTITY spellIgnoreWord.label "Ignorovat slovo">
 <!ENTITY spellIgnoreWord.accesskey "I">
 <!ENTITY spellCheckEnable.label "Kontrolovat pravopis">
