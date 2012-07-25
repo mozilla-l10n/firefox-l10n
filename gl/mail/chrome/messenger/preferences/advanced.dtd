@@ -11,6 +11,13 @@
 <!ENTITY telemetryInfoLink.label       "Máis información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Activar indexador de mensaxes">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Desprazamento">
+<!ENTITY useAutoScroll.label           "Utilizar desprazamento automático">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Utilizar desprazamento suave">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Integración co sistema">
 <!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador predefinido no inicio">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
