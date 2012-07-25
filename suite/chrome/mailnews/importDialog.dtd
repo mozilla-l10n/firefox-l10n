@@ -41,12 +41,14 @@
 <!ENTITY importAll.accesskey      "T">
 <!ENTITY importMail.label         "Viestit">
 <!ENTITY importMail.accesskey     "V">
+<!ENTITY importFeeds.label        "Syötetilaukset">
+<!ENTITY importFeeds.accesskey    "S">
 <!ENTITY importAddressbook.label  "Osoitekirjat">
 <!ENTITY importAddressbook.accesskey "O">
 <!ENTITY importSettings.label     "Asetukset">
 <!ENTITY importSettings.accesskey "A">
 <!ENTITY importFilters.label      "Suodattimet">
-<!ENTITY importFilters.accesskey  "S">
+<!ENTITY importFilters.accesskey  "u">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -58,7 +60,10 @@
 <!ENTITY importDescription2.label "Tuonnin valmistuttua, tuodut kohteet ovat käytettävissä &brandShortName;ssä.">
 
 <!ENTITY selectDescription.label  "Valitse ohjelma, josta haluat tuoda tietoja:">
+<!ENTITY selectDescriptionB.label "Valitse jokin näistä tileistä tai luo uusi:">
 <!ENTITY selectDescription.accesskey "V">
+<!ENTITY acctName.label           "Nimi:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Edellinen">
 <!ENTITY forward.label            "Seuraava &gt;">
