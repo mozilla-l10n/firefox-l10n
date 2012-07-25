@@ -131,6 +131,20 @@
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Axendas de enderezos">
 
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Contacto">
+<!ENTITY home.heading                                   "Domicilio">
+<!ENTITY other.heading                                  "Outro">
+<!ENTITY phone.heading                                  "Teléfono">
+<!ENTITY work.heading                                   "Traballo">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Descrición">
+<!ENTITY addresses.heading                              "Enderezos">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Obter mapa">
+<!ENTITY mapIt.tooltip                                  "Mostrar un mapa deste enderezo da Internet">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
 
