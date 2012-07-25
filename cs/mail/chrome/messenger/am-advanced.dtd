@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Nastavení odchozího serveru (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Ačkoliv můžete zadat více odchozích serverů (SMTP), je toto nastavení vhodné pouze pro pokročilé uživatele. Nastavení více SMTP serverů může způsobit chyby při odesílání zpráv.">
+<!ENTITY smtpDescription.label "U každé identity v účtu lze nastavit různý odchozí server (SMTP) výběrem z tohoto seznamu. Je také možné použít výchozí server, který si zde můžete zvolit.">
 
 <!ENTITY smtpListAdd.label "Přidat…">
 <!ENTITY smtpListAdd.accesskey "P">
