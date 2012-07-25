@@ -506,6 +506,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey "r">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Limpar historial recente…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Configuración da conta…">
 <!ENTITY accountManagerCmd.accesskey "C">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
