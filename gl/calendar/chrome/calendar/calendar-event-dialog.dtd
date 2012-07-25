@@ -221,11 +221,21 @@
 <!ENTITY event.description.accesskey                      "D">
 <!ENTITY event.attachments.label                          "Anexos:" >
 <!ENTITY event.attachments.accesskey                      "A" >
-<!ENTITY event.attachments.popup.remove.label             "Eliminar" >
+
+<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
+  but I want to land Filelink support for Lightning soon. The attach
+  button will become a dropdown button that allows to attach links
+  as usual, but also files via the Filelink providers. -->
+<!ENTITY event.attachments.menubutton.label               "Anexar">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Páxina web…">
+<!ENTITY event.attachments.url.accesskey                  "w">
+
+<!ENTITY event.attachments.popup.remove.label             "Retirar" >
 <!ENTITY event.attachments.popup.remove.accesskey         "r" >
 <!ENTITY event.attachments.popup.open.label               "Abrir" >
-<!ENTITY event.attachments.popup.open.accesskey           "A" >
-<!ENTITY event.attachments.popup.removeAll.label          "Eliminar todos" >
+<!ENTITY event.attachments.popup.open.accesskey           "b" >
+<!ENTITY event.attachments.popup.removeAll.label          "Retirar todos" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Anexar páxina web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
