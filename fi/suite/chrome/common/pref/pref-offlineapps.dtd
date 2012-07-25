@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Verkkosovellukset yhteydettömässä tilassa">
+<!ENTITY pref.offlineCache.caption          "Verkkosovellukset ja käyttäjätiedot yhteydettömässä tilassa">
+
+<!ENTITY clearOfflineAppCache.label         "Tyhjennä">
+<!ENTITY clearOfflineAppCache.accesskey     "T">
+
+<!ENTITY offlineNotify.label                "Ilmoita, kun verkkosivu pyytää lupaa tallentaa dataa yhteydettömässä tilassa käytettäväksi.">
+<!ENTITY offlineNotify.accesskey            "I">
+<!ENTITY offlineNotifyPermissions.label     "Muokkaa oikeuksia">
+<!ENTITY offlineNotifyPermissions.accesskey "M">
+
+<!ENTITY offlineAppsList.label              "Seuraavien verkkosivujen on sallittu tallentaa dataa yhteydettömässä tilassa käytettäväksi:">
+<!ENTITY offlineAppsListRemove.label        "Tyhjennä datat…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">
