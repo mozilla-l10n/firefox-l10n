@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
 <!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode                  "Outros idiomas">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Definido polo usuario">
 <!ENTITY  font.langGroup.thai                     "Tailandés">
 <!ENTITY  font.langGroup.hebrew                   "Hebreo">
@@ -68,9 +68,9 @@
 <!ENTITY sendDefaultCharset.label         "Correo de saída:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
 <!ENTITY languagesTitle1.label            "Codificacións de caracteres">
-<!ENTITY composingDescription.label       "Estabeleza as codificacións predefinidas para o correo de entrada e de saída:">
+<!ENTITY composingDescription.label       "Estabeleza as codificacións predeterminadas para o correo de entrada e de saída:">
 
 <!ENTITY viewDefaultCharsetList.label     "Correo de entrada:">
 <!ENTITY viewDefaultCharsetList.accesskey  "a">
-<!ENTITY replyInDefaultCharset2.label     "Cando sexa posíbel, utilice a codificación de caracteres predefinida en respostas">
+<!ENTITY replyInDefaultCharset2.label     "Cando sexa posíbel, utilice a codificación de caracteres predeterminada en respostas">
 <!ENTITY replyInDefaultCharset2.accesskey "n">
