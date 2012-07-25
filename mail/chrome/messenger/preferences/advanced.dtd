@@ -80,10 +80,10 @@
 <!ENTITY showOffline.label             "Sen conexión…">
 <!ENTITY showOffline.accesskey         "S">
 
-<!ENTITY Diskspace "Espazo en disco">
-<!ENTITY offlineCompact.label "Compactar cartafoles ao liberar">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Espazo en disco">
+<!ENTITY offlineCompactFolders.label     "Compactar todos os cartafoles ao liberar">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB en total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
