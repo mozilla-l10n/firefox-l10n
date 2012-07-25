@@ -576,6 +576,7 @@
 <!ENTITY removePhishingBarButton.label "Tämä ei ole huijausyritys">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Tämän viestin lähettäjä haluaa saada ilmoituksen sitten kun avaat tämän viestin. Sallitaanko tämä?">
-<!ENTITY mdnBarIgnoreButton.label "Älä lähetä">
-<!ENTITY mdnBarSendButton.label "Lähetä">
+<!ENTITY mdnBarIgnoreButton.label "Ohita pyyntö">
+<!ENTITY mdnBarIgnoreButton.accesskey "O">
+<!ENTITY mdnBarSendButton.label "Lähetä kuittaus">
+<!ENTITY mdnBarSendButton.accesskey "L">

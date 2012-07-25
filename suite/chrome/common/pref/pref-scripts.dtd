@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
@@ -17,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Poistaa ja muuttaa ponnahdusvalikkoja">
 <!ENTITY allowHideStatusBar.label        "Piilottaa tilarivin">
 
-<!ENTITY enablePlugin.label              "Salli liitännäisten käyttö:">
+<!ENTITY enablePlugins.label              "Salli liitännäisten käyttö:">
 <!ENTITY enablePluginForSuite.label      "Ohjelmistopaketissa">
 <!ENTITY enablePluginForSuite.accesskey  "h">
 
-<!ENTITY whenPluginsRequired.label       "Kun uusia liitännäisiä tarvitaan">
-<!ENTITY displayNotification.label       "Näytä ilmoitus sivun yläreunassa">
-<!ENTITY displayNotification.accesskey   "N">
+<!ENTITY whenPageRequiresPlugins.label   "Jos sivusto vaatii liitännäisiä">
+<!ENTITY activateAllPlugins.label        "Aktivoi kaikki liitännäiset oletusarvoisesti">
+<!ENTITY activateAllPlugins.accesskey    "o">
+<!ENTITY warnPluginsRequired.label       "Kysy, jos lisää liitännäisiä tarvitsee asentaa">
+<!ENTITY warnPluginsRequired.accesskey   "o">

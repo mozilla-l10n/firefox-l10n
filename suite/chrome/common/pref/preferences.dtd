@@ -26,6 +26,7 @@
 <!ENTITY advance.label "Lisäasetukset">
 <!ENTITY down.label "Nouda">
 <!ENTITY cache.label "Väliaikaistiedostot">
+<!ENTITY offlineApps.label "Yhteydettömän tilan sovellukset">
 <!ENTITY proxies.label "Välityspalvelimet">
 <!ENTITY httpnetworking.label "HTTP-asetukset">
 <!ENTITY smart.label "Ohjelmistoasennukset">

@@ -117,6 +117,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "V">
 <!ENTITY spellAddToDictionary.label     "Lisää sanastoon">
 <!ENTITY spellAddToDictionary.accesskey "s">
+<!ENTITY spellUndoAddToDictionary.label      "Kumoa Lisää sanastoon">
+<!ENTITY spellUndoAddToDictionary.accesskey  "m">
 <!ENTITY spellIgnoreWord.label          "Ohita sana">
 <!ENTITY spellIgnoreWord.accesskey      "h">
 <!ENTITY spellCheckEnable.label         "Oikolue">

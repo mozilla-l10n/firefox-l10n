@@ -40,14 +40,20 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Kopioi">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Valitse kaikki">
-<!ENTITY  selectall.accesskey   "V">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Kopioi">
+<!ENTITY  copy.accesskey         "K">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Valitse kaikki">
+<!ENTITY  selectall.accesskey    "V">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
+<!ENTITY  copyLinks.label           "Kopioi linkki (linkit)">
+<!ENTITY  copyLinks.accesskey       "l">
+<!ENTITY  openInNewTab.label        "Avaa uuteen välilehteen">
+<!ENTITY  openInNewTab.accesskey    "v">
+<!ENTITY  openInNewWindow.label     "Avaa uuteen ikkunaan">
+<!ENTITY  openInNewWindow.accesskey "i">
 
 <!ENTITY  generalTab            "Yleiset">
 <!ENTITY  generalTab.accesskey  "Y">
