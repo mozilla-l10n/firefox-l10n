@@ -17,10 +17,12 @@
 <!ENTITY allowContextmenuDisable.label   "Desactivar ou substituír menús de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
 
-<!ENTITY enablePlugin.label              "Activar os engadidos para:">
+<!ENTITY enablePlugins.label             "Activar os engadidos para">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "Cando son requiridos engadidos adicionais">
-<!ENTITY displayNotification.label       "Mostrar unha barra de notificación na parte superior da área de contido">
-<!ENTITY displayNotification.accesskey   "n">
+<!ENTITY whenPageRequiresPlugins.label   "Cando unha páxina requira engadidos">
+<!ENTITY activateAllPlugins.label        "Activar todos os engadidos de forma predeterminada">
+<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY warnPluginsRequired.label       "Avisarme se é necesaro instalar un engadido adicional">
+<!ENTITY warnPluginsRequired.accesskey   "v">
