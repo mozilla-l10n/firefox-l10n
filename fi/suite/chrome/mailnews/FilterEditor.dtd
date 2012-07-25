@@ -95,3 +95,6 @@
 <!ENTITY ignoreSubthread.label "Ohita aliviestiketju">
 <!ENTITY watchThread.label "Seuraa viestiketjua">
 <!ENTITY stopExecution.label "Pysäytä suodattaminen">
+
+<!ENTITY addAction.tooltip "Lisää uusi toiminne">
+<!ENTITY removeAction.tooltip "Poista tämä toiminne">

@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Lähtevän postin (SMTP) palvelinasetukset">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Lähtevälle postille voidaan määrittää useita palvelimia (SMTP), mutta tätä ei suositella kuin kokeneille käyttäjille. Usean SMTP-palvelimen määrittäminen voi aiheuttaa virheitä viestejä lähetettäessä.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Voit käyttää jotain tämän listan palvelinta valitsemalla sen lähtevien viestien palvelimeksi (SMTP) tai voit käyttää oletuspalvelinta valitsemalla &quot;Käytä oletuspalvelinta&quot;.">
 
 <!ENTITY smtpListAdd.label  "Lisää…">
 <!ENTITY smtpListAdd.accesskey  "L">

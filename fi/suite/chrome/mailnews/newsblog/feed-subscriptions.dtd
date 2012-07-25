@@ -28,5 +28,6 @@
 <!ENTITY button.importOPML.accesskey "T">
 <!ENTITY button.exportOPML.label     "Vie">
 <!ENTITY button.exportOPML.accesskey "V">
+<!ENTITY button.exportOPML.tooltip   "Vie syötteet kansiorakenteen kanssa; ctrl-napsauta tai paina ctrl+enter, jos haluat viedä syötteet luettelona">
 
 <!ENTITY cmd.close.commandKey        "w">
