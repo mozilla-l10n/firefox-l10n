@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Zkusit znovu">
 <!ENTITY sync.button.manual.label "Ruční nastavení">
 <!ENTITY sync.subtitle.nointernet.label "Připojení k Internetu není dostupné.">
+<!ENTITY sync.subtitle.failaccount.label "Vyvoření účtu skončilo chybou.">
+<!ENTITY sync.subtitle.failmultiple.label "Máte nainstalováno více než jednu aplikaci Firefox? &syncBrand.fullName.label; podporuje v současnosti pouze jednu instalaci aplikace Firefox. Pro použití &syncBrand.shortName.label; musíte ostatní istalace aplikace Firefox odinstalovat.">
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Nastavení dokončeno">
@@ -77,4 +79,14 @@
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "Pouze jeden účet &syncBrand.fullName.label; je podporován.">
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label "Neplatný název účtu nebo heslo.">
+<!ENTITY sync.invalidserver.label "Vložte prosím platnou adresu serveru">
+<!ENTITY sync.verifying.label "Ověřování…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Obnovovací klíč je neplatný. Zkuste to prosím znovu.">
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label "Odeslat panel na zařízení">
+<!ENTITY sync.button.send.label "Odeslat">
+<!ENTITY sync.button.set.up.sync.label "Nastavení &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Nastavení &syncBrand.shortName.label; odesílání panelů">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Nastavit &syncBrand.fullName.label; na tomto zařízení k odesílání panelů na jiné zařízení.">
+<!ENTITY sync.text.tab.sent.label "Panel byl odeslán">

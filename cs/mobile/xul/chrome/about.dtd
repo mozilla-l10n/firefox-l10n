@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutPage.title "O aplikaci &brandShortName;">
 <!ENTITY aboutPage.warningVersion "&brandShortName; je experimentální verze a může být nestabilní.">
 <!ENTITY aboutPage.telemetryStart " &brandShortName; automaticky odesílá data o výkonu, hardware, používání a přizpůsobení, která slouží vývojářům z organizace ">
