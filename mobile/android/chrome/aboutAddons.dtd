@@ -1,8 +1,12 @@
-<!ENTITY aboutAddons.title                      "Add-onbehearder">
-<!ENTITY aboutAddons.header2                    "Jo Add-ons">
-<!ENTITY aboutAddons.options                    "Opsjes">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addonAction.enable                     "Ynskeakelje">
-<!ENTITY addonAction.disable                    "Utskeakelje">
-<!ENTITY addonAction.uninstall                  "De-ynstallearje">
-<!ENTITY addonAction.cancel                     "Annulearje">
+<!ENTITY aboutAddons.title                    "Add-onbehearder">
+<!ENTITY aboutAddons.header2                  "Jo add-ons">
+<!ENTITY aboutAddons.options                  "Opsjes">
+
+<!ENTITY addonAction.enable                   "Ynskeakelje">
+<!ENTITY addonAction.disable                  "Utskeakelje">
+<!ENTITY addonAction.uninstall                "De-ynstallearje">
+<!ENTITY addonAction.undo                     "Ungedien meitsje">

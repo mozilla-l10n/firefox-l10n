@@ -53,6 +53,7 @@
 
 <!ENTITY close_tab "Ljepblêd slute">
 <!ENTITY new_tab "Nij ljepblêd">
+<!ENTITY one_tab "1 ljepblêd">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d ljepblêden">
@@ -63,7 +64,7 @@
 <!ENTITY pref_category_general "Algemien">
 <!ENTITY pref_category_privacy "Privacy &amp; befeiliging">
 <!ENTITY pref_category_content "Ynhâld">
-<!ENTITY pref_category_importexport "Ymport &amp; Eksport">
+<!ENTITY pref_category_importexport "Ymport &amp; eksport">
 <!ENTITY pref_about_firefox "Oer &brandShortName;">
 <!ENTITY pref_do_not_track "Websteeën fertelle my net te folgjen">
 <!ENTITY pref_telemetry "Prestaasjegegevens ferstjoere">
@@ -85,10 +86,12 @@
 <!ENTITY pref_font_size_xlarge "Ekstra grut">
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Toan sykfoarstellen">
 <!ENTITY pref_import_android "Ymportearje út Android">
 <!ENTITY pref_private_data_history "Browse &amp; download skiednis">
 <!ENTITY pref_private_data_formdata "Formulier &amp; sykskiednis">
 <!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Bewarre wachtwurden">
 <!ENTITY pref_private_data_cache "Buffer">
 <!ENTITY pref_private_data_sessions "Aktive lochyns">
 <!ENTITY pref_private_data_offlineApps "Offline websteegegevens">
@@ -98,10 +101,12 @@
 
 <!ENTITY addons "Add-ons">
 <!ENTITY downloads "Downloads">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Tekenset">
 
 <!ENTITY share "Diele">
 <!ENTITY share_title "Diele fia">
+<!ENTITY share_image_failed "Net slagge om dizze ôfbylding te dielen">
 <!ENTITY save_as_pdf "Bewarje as PDF">
 <!ENTITY find_in_page "Sykje op side">
 <!ENTITY desktop_mode "Fersyk desktop webstee">
@@ -137,9 +142,10 @@
 <!ENTITY site_settings_clear        "Wiskje">
 <!ENTITY site_settings_no_settings  "Der binne gjin ynstellingen om te wiskjen.">
 
-<!ENTITY add_to_reading_list "Oan lêslist tafoegje">
+<!ENTITY reading_list "Lêslist">
 <!ENTITY reading_list_added "Side tafoege oan jo lêslist">
 <!ENTITY reading_list_removed "Side fuortsmiten fan jo lêslist">
+<!ENTITY reading_list_failed "Side tafoegje oan jo lêslist mislearre">
 <!ENTITY reader_mode "Lêsmoadus">
 
 <!ENTITY masterpassword_create_title "Haadwachtwurd oanmeitsje">
@@ -181,6 +187,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "dy´t beheard wurdt troch">
 
+<!ENTITY private_data_success "Priveegegevens wiske">
+<!ENTITY private_data_fail "Net alle priveegegevens koenen wiske wurden">
+
 <!ENTITY bookmarkhistory_button_import "Ymportearje">
 <!ENTITY bookmarkhistory_import_both "Ymportearje blêdwizers en skiednis
                                       út Android">
@@ -190,5 +199,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          út Android">
 <!ENTITY bookmarkhistory_import_wait "In momint...">
 
-<!ENTITY private_data_success "Priveegegevens wiske">
-<!ENTITY private_data_fail "Net alle priveegegevens koenen wiske wurden">
+<!ENTITY webapp_generic_name "App">
