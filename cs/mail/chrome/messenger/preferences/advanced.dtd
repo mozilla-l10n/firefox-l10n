@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label "Více informací o sběru dat">
 <!ENTITY enableGlodaSearch.label "Povolit globální hledání a indexaci">
 <!ENTITY enableGlodaSearch.accesskey "g">
+
+<!ENTITY scrolling.label "Posunování">
+<!ENTITY useAutoScroll.label "Použít automatické posunování">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "Použít jemné posunování">
+<!ENTITY useSmoothScrolling.accesskey "e">
+
 <!ENTITY systemIntegration.label "Nastavení systému">
 <!ENTITY alwaysCheckDefault.label "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
 <!ENTITY alwaysCheckDefault.accesskey "s">
@@ -85,9 +92,9 @@
 <!ENTITY showOffline.accesskey "o">
 
 <!ENTITY Diskspace "Místo na disku">
-<!ENTITY offlineCompact.label "Provést údržbu složek, pokud se tím ušetří přes">
-<!ENTITY offlineCompact.accesskey "k">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Provést údržbu složek, ušetří-li se celkově přes">
+<!ENTITY offlineCompactFolders.accesskey "k">
+<!ENTITY offlineCompactFoldersMB.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
