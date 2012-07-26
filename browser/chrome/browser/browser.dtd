@@ -657,11 +657,21 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Socialt verktygsfält">
 <!ENTITY social.notLoggedIn.label   "Inte inloggad">
 
-<!ENTITY social.sharePopup.undo.label     "Ångra delning">
-<!ENTITY social.sharePopup.undo.accesskey "Å">
+<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
+     used for the "OK" button for two different social panels. One appears when
+     the feature is activated (social.activated.* below), and the other when
+     the user clicks the "Share" button a second time (social.sharePopup.*
+     below). -->
 <!ENTITY social.sharePopup.ok.label       "OK">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
+
+<!ENTITY social.sharePopup.undo.label     "Ångra delning">
+<!ENTITY social.sharePopup.undo.accesskey "Å">
 <!ENTITY social.sharePopup.shared.label   "Du delade ut denna sida.">
 <!ENTITY social.sharePopup.portrait.arialabel "Användarprofilbild">
+
 <!ENTITY social.toggleSidebar.label "Visa sidofält">
 <!ENTITY social.toggleSidebar.accesskey "V">
+
+<!ENTITY social.activated.button.label "Ojdå, ångra">
+<!ENTITY social.activated.button.accesskey "å">
