@@ -80,7 +80,7 @@
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
 <!ENTITY pref_font_size_tiny "Muy chico">
-<!ENTITY pref_font_size_smaShow "Chico">
+<!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
