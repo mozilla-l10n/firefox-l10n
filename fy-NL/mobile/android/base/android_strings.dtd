@@ -85,10 +85,12 @@
 <!ENTITY pref_font_size_xlarge "Ekstra grut">
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Toan sykfoarstellen">
 <!ENTITY pref_import_android "Ymportearje út Android">
 <!ENTITY pref_private_data_history "Browse &amp; download skiednis">
 <!ENTITY pref_private_data_formdata "Formulier &amp; sykskiednis">
 <!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Bewarre wachtwurden">
 <!ENTITY pref_private_data_cache "Buffer">
 <!ENTITY pref_private_data_sessions "Aktive lochyns">
 <!ENTITY pref_private_data_offlineApps "Offline websteegegevens">
