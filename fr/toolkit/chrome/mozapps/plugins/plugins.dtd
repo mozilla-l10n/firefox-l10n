@@ -21,6 +21,8 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; doit être redémarré pour que le(s) plugin(s) fonctionne(nt).">
 
 <!ENTITY missingPlugin                                       "Un plugin est nécessaire pour afficher ce contenu.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform): Mobile only. Plugins are not supported on some mobile devices. -->
+<!ENTITY unsupportedPlatform                                 "Les plugins ne sont pas pris en charge par cet appareil.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Toucher ici pour activer le plugin.">
 <!ENTITY clickToPlayPlugin                                   "Cliquer ici pour activer le plugin.">
