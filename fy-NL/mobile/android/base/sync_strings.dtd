@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Opnij probearje'>
 <!ENTITY sync.button.manual.label 'Hânmjittige konfiguraasje'>
 <!ENTITY sync.subtitle.nointernet.label 'Gjin ynternetferbining beskikber.'>
+<!ENTITY sync.subtitle.failaccount.label 'Account oanmeitsjen op jo apparaat mislearre.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Hawwe jo mear as ien Firefox ynstallearre? Op dit stuit stipet &syncBrand.fullName.label; mar ien Firefox ynstallaasje per kear. De-ynstallearje oar ferzjes om &syncBrand.shortName.label; te brûken.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Ynstellen foltôge'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Mar ien &syncBrand.fullName.label;-account wurdt stipe.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Ferkeard accountnamme of wachtwurd.'>
+<!ENTITY sync.invalidserver.label 'Jou in falid tsjinner-URL'>
+<!ENTITY sync.verifying.label 'Ferifikaasje…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Werstelkaai net goed. Probearje it opnij.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Stjoer ljepblêd nei apparaten'>
+<!ENTITY sync.button.send.label 'Stjoer'>
+<!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; ynstelle'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; ynstelle om ljepblêden te stjoeren'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; ynstelle op jo apparaat om ljepblêden nei oare apparaten te stjoeren.'>
+<!ENTITY sync.text.tab.sent.label 'Jo ljepblêd is ferstjoerd!'>
