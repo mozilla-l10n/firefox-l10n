@@ -1,64 +1,19 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org Code.
-   -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-#endif
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; trygg modus">
-<!ENTITY window.width                 "37em">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY autoSafeModeIntro.label      "&brandShortName; stoppa uventa under oppstart">
-<!ENTITY autoSafeModeDescription.label "Vi er svært leie for dette. &brandShortName; køyrer no i trygg modus, som mellombels slår av eigne innstillingar, tema og utvidingar.">
+<!ENTITY startSafeMode.label          "Start i trygg modus">
+<!ENTITY resetProfile.label           "Tilbakestill &brandShortName;">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; køyrer no i trygg modus. Eigendefinerte innstillingar, tema og utvidingar er i dette moduset mellombels slått av.">
-<!ENTITY safeModeDescription2.label   "Du kan gjere alle, eller berre nokre av desse innstillingane varige:">
+<!ENTITY safeModeDescription3.label   "Trygg Modus er ein spesiell modus i &brandShortName; som kan brukast for å feilsøke problem.">
+<!ENTITY safeModeDescription4.label   "Utvidingar og tilpassa innstillingar vil kortvarig slåast av.">
 
-<!ENTITY disableAddons.label          "Slå av alle utvidingane">
-<!ENTITY disableAddons.accesskey      "S">
+<!ENTITY resetProfileInstead.label    "Du kan også Tilbakestille &brandShortName; dersom du ynskjer å starte helt framanfrå.">
 
-<!ENTITY resetToolbars.label          "Still tilbake verktøylinjer og kontrollar">
-<!ENTITY resetToolbars.accesskey      "t">
-
-<!ENTITY deleteBookmarks.label        "Slett alle bokmerke med unntak av reservekopiar">
-<!ENTITY deleteBookmarks.accesskey    "l">
-
-<!ENTITY resetUserPrefs.label         "Still tilbake brukarinnstillingane til &brandShortName; standard">
-<!ENTITY resetUserPrefs.accesskey     "n">
-
-<!ENTITY restoreSearch.label          "Still tilbake til standard søkjemotorar">
-<!ENTITY restoreSearch.accesskey      "t">
-
-<!ENTITY changeAndRestartButton.label "Lagre endringane og start på nytt">
-<!ENTITY continueButton.label         "Hald fram i trygg modus">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; lukka uventa mens den starta. Årsaka til dette kan vere ei utviding eller eit anna problem. Du kan freiste å rette problemet ved å tilbakestille &brandShortName; til standardinnstilling, eller feilsøkje i Sikker Modus.">
+<!ENTITY resetProfileFooter.label       "Alt anna vil tilbakestillast til fabrikkinnstillingane.">
+<!ENTITY safeModeInstead.label          "Dersom du ikkje ynskjer dette kan du fortsetje med Sikker Modus for å gjere di eiga feilsøking med kortvarige avslåtte utvidingar og innstillingar.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Uynskt e-post">
 <!ENTITY itemPhishing.label      "E-postsvindel">
 <!ENTITY itemPasswords.label     "Passord">
@@ -49,7 +53,7 @@
 <!ENTITY acceptCookies.accesskey        "G">
 <!ENTITY keepUntil.label                "Ta vare på til:">
 <!ENTITY keepUntil.accesskey            "a">
-<!ENTITY expire.label                   "dei går ut">
+<!ENTITY expire.label                   "dei går ut på dato">
 <!ENTITY close.label                    "eg lèt att &brandShortName;">
 <!ENTITY askEachTime.label              "spør meg kvar gong">
 <!ENTITY cookieExceptions.label         "Unntak …">
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "Vis infokapslar">
 <!ENTITY showCookies.accesskey          "V">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ynskjer å bli spora">
+<!ENTITY doNotTrack.accesskey           "d">

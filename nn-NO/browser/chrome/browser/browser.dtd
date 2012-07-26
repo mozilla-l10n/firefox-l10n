@@ -305,7 +305,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Nyleg attlatne faner">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nyleg attlatne vindauge">
-<!ENTITY historyRestoreLastSession.label "Bygg oppatt førre programøkt">
+<!ENTITY historyRestoreLastSession.label "Bygg oppatt siste programøkt">
 
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY onlineContactsHeader.label    "Tilkopla kontaktar">
 <!ENTITY offlineContactsHeader.label   "Fråkopla kontaktar">
 <!ENTITY conversationsHeader.label     "Samtalar">
@@ -31,17 +35,6 @@
 <!ENTITY addBuddyButton.label          "Legg til ein kontakt">
 <!ENTITY joinChatButton.label          "Start nettprat">
 <!ENTITY chatAccountsButton.label      "Vis kontoar">
-
-<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
-     This is the base of the empty text for the chat search box.  We replace
-     #1 with the contents of the appropriate search.keyLabel.* value for the
-     platform (defined in messenger/messenger.dtd).
-     The goal is to convey to the user that typing in the box will allow them
-     to search for conversations and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
-     box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY searchAllChatMessages.label.base "Søk i alle samtalar … #1">
 
 <!ENTITY status.available          "Tilgjengeleg">
 <!ENTITY status.unavailable        "Utilgjengeleg">

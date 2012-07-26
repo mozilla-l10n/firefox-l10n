@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonnement på nyhendekjelder">
 <!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverke tidlegare nedlasta artiklar.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Eksporter">
 <!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY button.exportOPML.tooltip   "Eksporter nyhendekjelder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere nyhendekjelder som ei liste">
 
 <!ENTITY cmd.close.commandKey        "w">
