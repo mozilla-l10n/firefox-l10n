@@ -8,7 +8,7 @@
   -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.preferencesLabel "Dagatal">
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label "Atburður…">
 <!ENTITY lightning.menupopup.new.event.accesskey "A">

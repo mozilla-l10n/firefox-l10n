@@ -168,6 +168,14 @@
 <!ENTITY event.description.accesskey "L">
 <!ENTITY event.attachments.label "Viðhengi:">
 <!ENTITY event.attachments.accesskey "h">
+<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
+  but I want to land Filelink support for Lightning soon. The attach
+  button will become a dropdown button that allows to attach links
+  as usual, but also files via the Filelink providers. -->
+<!ENTITY event.attachments.menubutton.label "Setja inn">
+<!ENTITY event.attachments.menubutton.accesskey "a">
+<!ENTITY event.attachments.url.label "Vefsíða…">
+<!ENTITY event.attachments.url.accesskey "V">
 <!ENTITY event.attachments.popup.remove.label "Fjarlægja">
 <!ENTITY event.attachments.popup.remove.accesskey "r">
 <!ENTITY event.attachments.popup.open.label "Opna">
