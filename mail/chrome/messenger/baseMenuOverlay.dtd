@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Hjelp">
 <!ENTITY helpMenu.accesskey "H">
@@ -5,7 +9,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Hjelp">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY helpTroubleshootingInfo.label     "Feilsøkingsinformasjon">
+<!ENTITY helpTroubleshootingInfo.label     "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey "F">
 <!ENTITY helpSafeMode.label     "Start på nytt utan utvidingar …">
 <!ENTITY helpSafeMode.accesskey "S">
@@ -13,8 +17,6 @@
 <!ENTITY releaseCmd2.accesskey "V">
 <!ENTITY whatsNewCmd.label "Kva er nytt">
 <!ENTITY whatsNewCmd.accesskey "K">
-<!ENTITY featureConfiguratorCmd.label "Migrasjonsassistent">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Innhald">
 <!ENTITY openHelp.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">

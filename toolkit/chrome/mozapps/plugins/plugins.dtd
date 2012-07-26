@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin                                       "Eit programtillegg trengs for å vise dette innhaldet.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Trykk her for å aktivere programtillegg.">
-<!ENTITY clickToPlayPlugins                                  "Trykk her for å aktivere programtillegg.">
+<!ENTITY clickToPlayPlugin                                   "Trykkher for å aktivere programtillegg.">
 <!ENTITY disabledPlugin                                      "Dette programtillegget er avslått.">
 <!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å verne deg.">
 

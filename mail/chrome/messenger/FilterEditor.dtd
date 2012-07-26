@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filterreglar">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Filternamn:">
@@ -28,7 +32,7 @@
 <!ENTITY forwardTo.label "Vidaresend melding til">
 <!ENTITY replyWithTemplate.label "Svar med mal">
 <!ENTITY markMessageRead.label "Merk som lesen">
-<!ENTITY markMessageUnread.label "Merk som ulest">
+<!ENTITY markMessageUnread.label "Merk som ulesen">
 <!ENTITY markMessageStarred.label "Merk med stjerne">
 <!ENTITY setPriority.label "Sett prioritet til">
 <!ENTITY addTag.label "Merk melding">
@@ -37,6 +41,9 @@
 <!ENTITY deleteFromPOP.label "Slett frå POP-tenaren">
 <!ENTITY fetchFromPOP.label "Hent frå POP-tenaren">
 <!ENTITY ignoreThread.label "Ignorer tråd">
-<!ENTITY ignoreSubthread.label "Ignorer deltråd">
+<!ENTITY ignoreSubthread.label "Ignorer undertråd">
 <!ENTITY watchThread.label "Følg tråd">
 <!ENTITY stopExecution.label "Stopp filtrering">
+
+<!ENTITY addAction.tooltip "Legg til ei ny handling">
+<!ENTITY removeAction.tooltip "Fjern denne handlinga">

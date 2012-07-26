@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -28,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Nettpratkonto …">
 <!ENTITY newIMAccountCmd.accesskey "N">
+<!ENTITY newIMContactCmd.label "Nettpratkontakt …">
+<!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Opne lagra melding …">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Vedlegg">
@@ -182,7 +188,7 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Mottakar">
 <!ENTITY sortByRecipientCmd.accesskey "M">
-<!ENTITY sortByUnreadCmd.label "Lest">
+<!ENTITY sortByUnreadCmd.label "Lesen">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Mottatt rekkjefølgje">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Utilgjengeleg">
 <!ENTITY imStatus.offline            "Fråkopla">
 <!ENTITY imStatus.showAccounts       "Vis kontoar …">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Lagra filer">
 <!ENTITY savedFiles.accesskey "L">
 <!ENTITY savedFiles.key "j">
@@ -602,9 +610,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSendUnsentMessages.accesskey "u">
 <!ENTITY folderContextUnsubscribe.label "Meld ut">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
-<!ENTITY folderContextMarkNewsgroupRead.label "Merk nyhendegruppe som lesen">
+<!ENTITY folderContextMarkNewsgroupRead.label "Merk nyhendegruppe som lest">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
-<!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lesen">
+<!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lest">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
 <!ENTITY folderContextSubscribe.label "Meld inn …">
 <!ENTITY folderContextSubscribe.accesskey "M">
@@ -647,7 +655,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkStatusColumn.label "Uynskt-status">
 <!ENTITY unreadColumn.label "Ulesen">
 <!ENTITY totalColumn.label "Totalt">
-<!ENTITY readColumn.label "Lesen">
+<!ENTITY readColumn.label "Lest">
 <!ENTITY receivedColumn.label "Mottatt">
 <!ENTITY starredColumn.label "Stjerne">
 <!ENTITY locationColumn.label "Plassering">
@@ -669,7 +677,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uynskt-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Totalt tal på meldingar i tråden">
-<!ENTITY readColumn.tooltip "Trykk her for å sortere etter lesen-tilstand">
+<!ENTITY readColumn.tooltip "Trykk her for å sortere etter lest-tilstand">
 <!ENTITY receivedColumn.tooltip "Trykk her for å sortere etter dato mottatt">
 <!ENTITY starredColumn.tooltip "Trykk her for å sortere etter stjerne">
 <!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "å">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Uynskt e-post">
+<!ENTITY junkBarMessage2.label "&brandShortName; trur denne meldinga er uynskt.">
 <!ENTITY junkBarButton1.label "Ynskt">
 <!ENTITY junkInfoButton.label "?">
 

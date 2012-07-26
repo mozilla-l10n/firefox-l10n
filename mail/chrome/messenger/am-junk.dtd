@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Innstillingar for uynskt e-post">
-<!ENTITY trainingWarning.label "Dersom denne funksjonen er slått på, må du fyrst trene opp &brandShortName; til å oppdage uynskt e-post (t.d. reklame du ikkje har bedt om) ved å bruke verktøylinja for å merkje meldingar som er uynskte. Du må identifisere både ynskte meldingar og uynskte lmeldingar. ">
+<!ENTITY trainingDescription.label "Viss påslått, må du fyrst trene opp &brandShortName; til å oppdage uynskt e-post ved å bruke Uynskt-knappen for å merke meldinar som uynskt eller ikkje. Du må indikere både meldinger du ynskjer og ikkje ynskjer å motta. Etter dette vil &brandShortName; vere i stand til å merke uynskt post automatisk.">
 <!ENTITY level.label "Tillat adaptivt filter for uynskt e-post på denne kontoen">
 <!ENTITY level.accesskey "T">
 
@@ -13,8 +17,13 @@
 <!ENTITY purge1.accesskey "A">
 <!ENTITY purge2.label "dagar">
 
-<!ENTITY whitelist.label "Ikkje merk e-post som uynskt dersom avsendaren er i: ">
-<!ENTITY whitelist.accesskey "I">
+<!ENTITY whitelistHeader.label "Ikkje automatisk marker e-post som uynskt dersom avsendar er i: ">
+<!ENTITY whitelistHeader.accesskey "I">
 
+<!ENTITY ispHeadersWarning.label "Viss påslått vil &brandShortName; automatisk vurdere meldingar som er merkte med denne eksterne klassifikasjonen som uynskt.
+  ">
 <!ENTITY ispHeaders.label "Stol på uynskt-meldingshovud frå: ">
 <!ENTITY ispHeaders.accesskey "S">
+
+<!ENTITY junkClassification.label "Utval">
+<!ENTITY junkActions.label "Mål og lagring">
