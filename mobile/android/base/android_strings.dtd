@@ -79,7 +79,7 @@
 <!ENTITY pref_import_android "Importa da Android">
 <!ENTITY pref_private_data_history "Cronologia navigazione e download">
 <!ENTITY pref_private_data_formdata "Moduli e ricerche">
-<!ENTITY pref_private_data_cookies "Cookie e accessi attivi">
+<!ENTITY pref_private_data_cookies2 "Cookie e accessi attivi">
 <!ENTITY pref_private_data_passwords "Password salvate">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
