@@ -102,6 +102,7 @@
 
 <!ENTITY addons "Add-ons">
 <!ENTITY downloads "Downloads">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Tekenset">
 
 <!ENTITY share "Delen">
@@ -142,6 +143,7 @@
 <!ENTITY site_settings_clear        "Wissen">
 <!ENTITY site_settings_no_settings  "Er zijn geen instellingen om te wissen.">
 
+<!ENTITY reading_list "Leeslijst">
 <!ENTITY add_to_reading_list "Toevoegen aan leeslijst">
 <!ENTITY reading_list_added "Pagina toegevoegd aan uw leeslijst">
 <!ENTITY reading_list_removed "Pagina verwijderd van uw leeslijst">
