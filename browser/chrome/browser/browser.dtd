@@ -470,11 +470,13 @@
 <!ENTITY markupButton.accesskey "C">
 <!ENTITY socialToolbar.title "Pulsante barra degli strumenti social">
 <!ENTITY social.notLoggedIn.label "Accesso non effettuato">
+<!ENTITY social.ok.label "OK">
+<!ENTITY social.ok.accesskey "O">
 <!ENTITY social.sharePopup.undo.label "Rimuovi condivisione">
 <!ENTITY social.sharePopup.undo.accesskey "R">
-<!ENTITY social.sharePopup.ok.label "OK">
-<!ENTITY social.sharePopup.ok.accesskey "O">
 <!ENTITY social.sharePopup.shared.label "Hai condiviso questa pagina.">
 <!ENTITY social.sharePopup.portrait.arialabel "Immagine profilo utente">
 <!ENTITY social.toggleSidebar.label "Visualizza barra laterale">
 <!ENTITY social.toggleSidebar.accesskey "V">
+<!ENTITY social.activated.button.label "Oops, annulla">
+<!ENTITY social.activated.button.accesskey "a">
