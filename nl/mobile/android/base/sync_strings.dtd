@@ -41,7 +41,9 @@
 <!ENTITY sync.button.tryagain.label 'Opnieuw proberen'>
 <!ENTITY sync.button.manual.label 'Handmatige configuratie'>
 <!ENTITY sync.subtitle.nointernet.label 'Geen internetverbinding beschikbaar.'>
-  
+<!ENTITY sync.subtitle.failaccount.label 'Account aanmaken op uw apparaat is mislukt.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Heeft u meer dan een Firefox geïnstalleerd? Momenteel ondersteund &syncBrand.fullName.label; maar een Firefox-installatie tegelijkertijd. De-installeer de ander explaren om &syncBrand.shortName.label; te gebruiken.'>
+ 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Set-up voltooid'>
 <!ENTITY sync.subtitle.success.label1 'Uw gegevens worden nu op de achtergrond gedownload. U kunt naar Instellingen gaan om uw account te beheren, of beginnen met navigeren via &brandShortName;.'>
