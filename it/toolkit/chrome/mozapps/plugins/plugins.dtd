@@ -14,6 +14,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Cerca altre informazioni sui plugin o cerca manualmente i plugin mancanti.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; deve essere riavviato affinché i plugin funzionino.">
 <!ENTITY missingPlugin "Per visualizzare questo contenuto è richiesto un plugin.">
+<!ENTITY unsupportedPlatform "I plugin non sono supportati su questo dispositivo.">
 <!ENTITY tapToPlayPlugin "Toccare qui per attivare il plugin.">
 <!ENTITY clickToPlayPlugin "Fare clic per attivare il plugin.">
 <!ENTITY clickToPlayPluginVulnerableUpdateAvailable "Fare clic per attivare il plugin vulnerabile.">
