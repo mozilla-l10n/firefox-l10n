@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
@@ -285,17 +289,26 @@
     send the message when you&apos;re pressing Ctrl+Return in message editor.
     This may help you avoid accidentally sending the message if you enter the
     keyboard shortcut by mistake when composing a message.</li>
+  <li><strong>Select reply header type</strong>:
+    Select the type of reply header you wish to use. There are four choices
+    available:
+    <ol>
+      <li>No Reply Header</li>
+      <li>[Author] wrote:<br/>
+        This setting is based on the mailnews.reply_header_authorwrote 
+        preference.</li>
+      <li>On [date], [author] wrote:<br/>
+        This setting is based on a combination of the mailnews.reply_header_ondate, 
+        mailnews.reply_header_separator and mailnews.reply_header_authorwrote 
+        preferences.</li>
+      <li>[Author] wrote, On [date]:<br/>
+        This setting is based on a combination of the 
+        mailnews.reply_header_authorwrote, mailnews.reply_header_separator and 
+        mailnews.reply_header_ondate preferences.</li>
+    </ol>
+  </li>
   <li><strong>Wrap plain text messages at [__] characters</strong>: Enter a
     number to set the right margin for text in the message area.</li>
-  <li><strong>Check spelling before sending</strong>: Select this option to
-    have Mail &amp; Newsgroups always check the spelling of your message before
-    you send it.</li>
-  <li><strong>Check spelling as you type</strong>: Select this option to have
-    Mail &amp; Newsgroups always check the spelling of your message as you type
-    it.</li>
-  <li><strong>Language</strong>: Use the drop-down list to select the language
-    you want to use to check the spelling in your messages or to download more
-    dictionaries.</li>
   <li><strong>Defaults for HTML Messages</strong>: Here you can define what the
     defaults are for font, size, text and background color if you choose to
     send mails in HTML format.</li>

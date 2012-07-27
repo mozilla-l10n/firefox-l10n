@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Najít přímo při psaní">
 <!ENTITY findAsYouTypeBehavior.label "Najít přímo při psaní">
 <!ENTITY findAsYouTypeTip.label "Tip: pokud chcete ručně spustit funkci Najít psaný text, napište / pro hledání textu nebo ' pro hledání odkazů a následně napište hledaný text.">

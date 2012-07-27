@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Vytvořit: (beze jména)">
 
@@ -79,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Potvrzení o přečtení">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Potvrzení o doručení">
+<!ENTITY dsnMenu.accesskey "d">
+
 <!ENTITY outputFormatMenu.label "Formát">
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Automaticky rozpoznat">
