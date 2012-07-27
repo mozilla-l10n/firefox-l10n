@@ -13,8 +13,10 @@
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; ha completato l'installazione dei plugin mancanti:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Cerca altre informazioni sui plugin o cerca manualmente i plugin mancanti.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; deve essere riavviato affinché i plugin funzionino.">
+<!ENTITY unsupportedPlatform.pre "Siamo spiacenti, non è possibile utilizzare Flash con &brandShortName; su questo dispositivo.">
+<!ENTITY unsupportedPlatform.learnMore "Ulteriori informazioni…">
+<!ENTITY unsupportedPlatform.post "">
 <!ENTITY missingPlugin "Per visualizzare questo contenuto è richiesto un plugin.">
-<!ENTITY unsupportedPlatform "I plugin non sono supportati su questo dispositivo.">
 <!ENTITY tapToPlayPlugin "Toccare qui per attivare il plugin.">
 <!ENTITY clickToPlayPlugin "Fare clic per attivare il plugin.">
 <!ENTITY clickToPlayPluginVulnerableUpdateAvailable "Fare clic per attivare il plugin vulnerabile.">
