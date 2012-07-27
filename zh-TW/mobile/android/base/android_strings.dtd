@@ -103,7 +103,7 @@ size. -->
 <!ENTITY pref_import_android "自 Android 匯入">
 <!ENTITY pref_private_data_history "瀏覽與下載紀錄">
 <!ENTITY pref_private_data_formdata "表單與搜尋紀錄">
-<!ENTITY pref_private_data_cookies "Cookie 與目前的登入狀況">
+<!ENTITY pref_private_data_cookies2 "Cookie 與目前的登入狀況">
 <!ENTITY pref_private_data_passwords "已存密碼">
 <!ENTITY pref_private_data_cache "快取">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
