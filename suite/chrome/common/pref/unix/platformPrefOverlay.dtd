@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.label "Control+Enter v adresním řádku">
 <!ENTITY urlbar.accesskey "L">
 <!ENTITY middleClick.label "Prostřední tlačítko, Control+klepnutí nebo Control+Enter na odkazu na webové stránce">

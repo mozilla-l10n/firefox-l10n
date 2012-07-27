@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Pro ušetření místa na disku nestahovat:">
 <!ENTITY doNotDownloadNntp.label "Pro ušetření místa na disku nestahovat pro offline použití:">
 <!ENTITY doNotDownloadImap.label "Pro ušetření místa na disku lze stahování zpráv ze serveru a uchovávání jejich místní kopie omezit velikostí či stářím.">

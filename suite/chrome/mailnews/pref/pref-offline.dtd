@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
@@ -29,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey "m">
 <!ENTITY mailnewsTimeoutSeconds.label "sekund">
 <!ENTITY Diskspace "Místo na disku">
-<!ENTITY offlineCompact.label "Provést údržbu složek, pokud bude ušetřeno více než">
-<!ENTITY offlineCompact.accesskey "P">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Provést údržbu složek, ušetří-li se celkově přes">
+<!ENTITY offlineCompactFolders.accesskey "k">
+<!ENTITY offlineCompactFoldersMB.label "MB">
