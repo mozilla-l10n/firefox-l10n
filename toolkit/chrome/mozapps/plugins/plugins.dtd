@@ -53,6 +53,8 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; måste startas om för att insticksmodulerna ska fungera.">
 
 <!ENTITY missingPlugin                                       "En insticksmodul behövs för att visa innehållet.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform): Mobile only. Plugins are not supported on some mobile devices. -->
+<!ENTITY unsupportedPlatform                                 "Insticksmoduler stöds inte på den här enheten.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tryck för att aktivera insticksmodulen.">
 <!ENTITY clickToPlayPlugin                                   "Klicka för att aktivera insticksmodulen.">
