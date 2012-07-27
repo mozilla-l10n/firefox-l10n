@@ -643,6 +643,9 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
+<!ENTITY socialToolbar.title        "Botón de barra social">
+<!ENTITY social.notLoggedIn.label   "No ingresado">
+
 <!ENTITY social.sharePopup.undo.label     "Descompartir">
 <!ENTITY social.sharePopup.undo.accesskey "D">
 <!ENTITY social.sharePopup.ok.label       "Aceptar">
