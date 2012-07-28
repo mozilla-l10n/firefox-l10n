@@ -79,7 +79,7 @@
 <!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY pref_private_data_history "Журнал посещений и загрузок">
 <!ENTITY pref_private_data_formdata "Журнал форм и поиска">
-<!ENTITY pref_private_data_cookies "Куки и активные сеансы">
+<!ENTITY pref_private_data_cookies2 "Куки и активные сеансы">
 <!ENTITY pref_private_data_passwords "Сохранённые пароли">
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">

@@ -4,6 +4,7 @@
 
 <!ENTITY linkToolbar.label "Панель навигации по веб-сайту">
 <!ENTITY linkToolbar.accesskey "П">
+<!ENTITY linkToolbar.tooltip "Панель навигации по веб-сайту">
 <!ENTITY linkToolbarAlways.label "Всегда показывать">
 <!ENTITY linkToolbarAlways.accesskey "В">
 <!ENTITY linkToolbarAsNeeded.label "Показывать по мере надобности">
