@@ -650,6 +650,9 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
+<!ENTITY socialToolbar.title        "Social-werkbalkknop">
+<!ENTITY social.notLoggedIn.label   "Niet ingelogd">
+
 <!ENTITY social.sharePopup.undo.label     "Stoppen met delen">
 <!ENTITY social.sharePopup.undo.accesskey "S">
 <!ENTITY social.sharePopup.ok.label       "OK">
