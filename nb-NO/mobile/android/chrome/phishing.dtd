@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "Mistenkt nettsvindel">
 
 <!ENTITY safeb.palm.message.p1 "Denne siden er rapportert som en nettsvindel som er bygd for å lure brukere til å dele personlig eller økonomisk informasjon. Dersom du skriver inn informasjon på dette nettstedet kan det føre til identitetstyveri eller annen svindel. &#160;">

@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Prøv igjen'>
 <!ENTITY sync.button.manual.label 'Manuelle innstillinger'>
 <!ENTITY sync.subtitle.nointernet.label 'Ingen Internett-tilkobling er tilgjengelig.'>
+<!ENTITY sync.subtitle.failaccount.label 'Klarte ikke opprette konto på enheten din.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Har du installert mer enn en Firefox? &syncBrand.fullName.label; støtter foreløpig bare en Firefox-installasjon om gangen. Avinstaller de andre instansene for å bruke &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Oppsettet er fullført'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Bare en &syncBrand.fullName.label;-konto støttes.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Feil kontonavn eller passord.'>
+<!ENTITY sync.invalidserver.label 'Skriv inn en gyldig tjener-URL'>
+<!ENTITY sync.verifying.label 'Kontrollerer …'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Gjenopprettingsnøkkelen er feil. Prøv igjen.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Send fane til enheter'>
+<!ENTITY sync.button.send.label 'Send'>
+<!ENTITY sync.button.set.up.sync.label 'Sett opp &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Sett opp &syncBrand.shortName.label; for å sende faner'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Sett opp &syncBrand.fullName.label; på enheten din for å sende faner til andre enheter.'>
+<!ENTITY sync.text.tab.sent.label 'Fanearket ble sendt!'>
