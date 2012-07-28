@@ -6,9 +6,9 @@
 
 <!ENTITY generalTab.label                "一般">
 
-<!ENTITY accessibility.label             "其他輔助功能">
+<!ENTITY accessibility.label             "輔助功能">
 
-<!ENTITY useCursorNavigation.label       "總是使用鍵盤方向鍵瀏覽網頁 (鍵盤瀏覽)">
+<!ENTITY useCursorNavigation.label       "總是使用鍵盤方向鍵瀏覽網頁（鍵盤瀏覽）">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "打字時直接搜尋頁面文字（隨打即找）">
 <!ENTITY searchStartTyping.accesskey     "x">
