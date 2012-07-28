@@ -92,6 +92,7 @@
 <!ENTITY pref_private_data_history "تأريخ التصفح والتنزيلات">
 <!ENTITY pref_private_data_formdata "تأريخ البحث والنماذج">
 <!ENTITY pref_private_data_cookies "الكعكات">
+<!ENTITY pref_private_data_passwords "كلمات السر المحفوظة">
 <!ENTITY pref_private_data_cache "الخبيئة">
 <!ENTITY pref_private_data_sessions "الولوجات النشِطة">
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
