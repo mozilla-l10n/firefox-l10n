@@ -20,6 +20,15 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "關於外掛程式的進一步訊息或手動尋找所需的外掛程式。">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; 重新啟動後才能使用這些外掛程式。">
 
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre                             "很抱歉，&brandShortName; 無法於此裝置播放 Flash 內容。 ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "更多資訊…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
 <!ENTITY missingPlugin                                       "需要安裝某個外掛程式才能檢視此內容。">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "點此處啟用外掛程式。">
