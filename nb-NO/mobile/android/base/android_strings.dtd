@@ -90,6 +90,7 @@
 <!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
 <!ENTITY pref_private_data_cookies "Infokapsler">
+<!ENTITY pref_private_data_passwords "Lagrede passord">
 <!ENTITY pref_private_data_cache "Hurtiglager">
 <!ENTITY pref_private_data_sessions "Aktive innlogginger">
 <!ENTITY pref_private_data_offlineApps "Frakoblet nettstedsdata">
