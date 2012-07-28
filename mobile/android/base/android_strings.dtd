@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Lukk fane">
 <!ENTITY new_tab "Ny fane">
+<!ENTITY one_tab "1 fane">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d faner">
@@ -86,6 +87,7 @@
 <!ENTITY pref_font_size_xlarge "Ekstra stor">
 <!ENTITY pref_use_master_password "Bruk et hovedpassord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Vis søkeforslag">
 <!ENTITY pref_import_android "Importer fra Android">
 <!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
@@ -95,16 +97,17 @@
 <!ENTITY pref_private_data_sessions "Aktive innlogginger">
 <!ENTITY pref_private_data_offlineApps "Frakoblet nettstedsdata">
 <!ENTITY pref_private_data_siteSettings "Nettstedsinnstillinger">
-<!ENTITY pref_search_suggestions "Vis søkeforslag">
 
 <!ENTITY quit "Avslutt">
 
 <!ENTITY addons "Programtillegg">
 <!ENTITY downloads "Nedlastinger">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Tegnkoding">
 
 <!ENTITY share "Del">
 <!ENTITY share_title "Del via">
+<!ENTITY share_image_failed "Klarte ikke dele dette bildet">
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY find_in_page "Finn på siden">
 <!ENTITY desktop_mode "Forespør desktop-nettsted">
@@ -140,9 +143,10 @@
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillinger å fjerne.">
 
-<!ENTITY add_to_reading_list "Legg til i leselisten">
+<!ENTITY reading_list "Leseliste">
 <!ENTITY reading_list_added "Siden er lagt til i leselisten">
 <!ENTITY reading_list_removed "Siden er fjernet fra leselisten">
+<!ENTITY reading_list_failed "Klarte ikke legge til siden i leselisten">
 <!ENTITY reader_mode "Lesemodus">
 
 <!ENTITY masterpassword_create_title "Lag et hovedpassord">
@@ -184,6 +188,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drives av">
 
+<!ENTITY private_data_success "Privat data slettet">
+<!ENTITY private_data_fail "Klarte ikke slette noen av de privata dataene">
+
 <!ENTITY bookmarkhistory_button_import "Importer">
 <!ENTITY bookmarkhistory_import_both "Importerer bokmerker og historikk
                                       fra Android">
@@ -193,5 +200,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          fra Android">
 <!ENTITY bookmarkhistory_import_wait "Vent ...">
 
-<!ENTITY private_data_success "Privat data slettet">
-<!ENTITY private_data_fail "Noen av de private data kunne ikke bli slettet">
+<!ENTITY webapp_generic_name "App">
