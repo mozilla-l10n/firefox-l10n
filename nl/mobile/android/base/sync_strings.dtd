@@ -80,6 +80,9 @@
 <!ENTITY sync.notification.oneaccount.label 'Er wordt maar één &syncBrand.fullName.label;-account ondersteund.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Onjuiste accountnaam of wachtwoord.'>
+<!ENTITY sync.invalidserver.label 'Voer een geldige server-URL in'>
+<!ENTITY sync.verifying.label 'Verifiëren…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Herstelsleutel onjuist. Probeer het opnieuw.'>
 
 <!-- Send tab to device. -->
