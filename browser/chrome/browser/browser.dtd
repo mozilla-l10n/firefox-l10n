@@ -470,11 +470,13 @@
 <!ENTITY markupButton.accesskey "а">
 <!ENTITY socialToolbar.title "Кнопка социальной панели">
 <!ENTITY social.notLoggedIn.label "Не зашёл">
+<!ENTITY social.ok.label "OK">
+<!ENTITY social.ok.accesskey "O">
 <!ENTITY social.sharePopup.undo.label "Больше не делиться">
 <!ENTITY social.sharePopup.undo.accesskey "ш">
-<!ENTITY social.sharePopup.ok.label "OK">
-<!ENTITY social.sharePopup.ok.accesskey "O">
 <!ENTITY social.sharePopup.shared.label "Вы поделились этой страницей.">
 <!ENTITY social.sharePopup.portrait.arialabel "Фото профиля пользователя">
 <!ENTITY social.toggleSidebar.label "Показать боковую панель">
 <!ENTITY social.toggleSidebar.accesskey "з">
+<!ENTITY social.activated.button.label "Ой, отменить">
+<!ENTITY social.activated.button.accesskey "м">
