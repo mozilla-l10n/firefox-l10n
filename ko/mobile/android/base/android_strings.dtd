@@ -84,6 +84,7 @@
 <!ENTITY pref_private_data_history "방문 및 다운로드 기록">
 <!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
 <!ENTITY pref_private_data_cookies "쿠키">
+<!ENTITY pref_private_data_passwords "저장한 암호">
 <!ENTITY pref_private_data_cache "캐시">
 <!ENTITY pref_private_data_sessions "로그인 기록">
 <!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
