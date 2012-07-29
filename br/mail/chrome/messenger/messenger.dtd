@@ -116,7 +116,7 @@
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Dizober Dilemel ar gemennadenn">
 <!ENTITY redoDeleteMsgCmd.label "Adober Dilemel ar gemennadenn">
-<!ENTITY undoMoveMsgCmd.label "Nullañ Dilec'hiañ ar gemennadenn">
+<!ENTITY undoMoveMsgCmd.label "Dizober Dilec'hiañ ar gemennadenn">
 <!ENTITY redoMoveMsgCmd.label "Adober Dilec'hiañ ar gemennadenn">
 <!ENTITY undoCopyMsgCmd.label "Dizober Eilañ ar gemennadenn">
 <!ENTITY redoCopyMsgCmd.label "Adober Eilañ ar gemennadenn">
