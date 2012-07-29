@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Frakoblede webapplikasjoner">
+<!ENTITY pref.offlineCache.caption          "Frakoblet webinnhold og brukerdata">
+
+<!ENTITY clearOfflineAppCache.label         "Tøm">
+<!ENTITY clearOfflineAppCache.accesskey     "T">
+
+<!ENTITY offlineNotify.label                "Varsle meg når et nettsted ønsker å lagre data for frakoblet bruk.">
+<!ENTITY offlineNotify.accesskey            "V">
+<!ENTITY offlineNotifyPermissions.label     "Behandle tillatelser">
+<!ENTITY offlineNotifyPermissions.accesskey "B">
+
+<!ENTITY offlineAppsList.label              "Følgende nettsted har tillatelse til å lagre data for frakoblet bruk:">
+<!ENTITY offlineAppsListRemove.label        "Tøm data …">
+<!ENTITY offlineAppsListRemove.accesskey    "d">

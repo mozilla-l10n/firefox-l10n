@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
@@ -17,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Slå av eller erstatte kontekstmenyer">
 <!ENTITY allowHideStatusBar.label        "Skjule statuslinjen">
 
-<!ENTITY enablePlugin.label              "Tillat programtillegg for">
+<!ENTITY enablePlugins.label             "Tillat programtillegg for">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "Når andre programtillegg er påkrevd">
-<!ENTITY displayNotification.label       "Vis en varslingslinje øverst i innholdsområdet">
-<!ENTITY displayNotification.accesskey   "V">
+<!ENTITY whenPageRequiresPlugins.label   "Når en side krever programtillegg">
+<!ENTITY activateAllPlugins.label        "Aktiver alle programtillegg som standard">
+<!ENTITY activateAllPlugins.accesskey    "k">
+<!ENTITY warnPluginsRequired.label       "Advar meg om flere programtillegg må installeres">
+<!ENTITY warnPluginsRequired.accesskey   "A">
