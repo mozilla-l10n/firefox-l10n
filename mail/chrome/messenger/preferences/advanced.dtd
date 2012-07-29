@@ -14,6 +14,11 @@
 <!ENTITY telemetryInfoLink.label "Meiri upplýsingar um Telemetry">
 <!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
 <!ENTITY enableGlodaSearch.accesskey "i">
+<!ENTITY scrolling.label "Skrun">
+<!ENTITY useAutoScroll.label "Nota sjálfvirka skrunun">
+<!ENTITY useAutoScroll.accesskey "u">
+<!ENTITY useSmoothScrolling.label "Nota fíngerða skrunun">
+<!ENTITY useSmoothScrolling.accesskey "f">
 <!ENTITY systemIntegration.label "Samþætting kerfis">
 <!ENTITY alwaysCheckDefault.label "Alltaf athuga hvort &brandShortName; sé sjálfgefið póstforrit í ræsingu">
 <!ENTITY alwaysCheckDefault.accesskey "l">
@@ -78,9 +83,9 @@
 <!ENTITY showOffline.label "Ónettengdur…">
 <!ENTITY showOffline.accesskey "t">
 <!ENTITY Diskspace "Diskpláss">
-<!ENTITY offlineCompact.label "Þjappa möppum ef það sparar yfir">
-<!ENTITY offlineCompact.accesskey "Þ">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Þjappa öllum möppum þegar vistað er yfir">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label "MB alls">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
