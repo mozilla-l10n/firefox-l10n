@@ -36,3 +36,5 @@
 <!ENTITY ignoreSubthread.label "Ігнараваць паднізку">
 <!ENTITY watchThread.label "Сачыць за нізкай">
 <!ENTITY stopExecution.label "Спыніць выкананне сіта">
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY removeAction.tooltip "Remove this action">

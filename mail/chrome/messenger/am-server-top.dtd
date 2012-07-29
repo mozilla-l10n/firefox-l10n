@@ -1,3 +1,4 @@
+<!ENTITY messageStorage.label "Сховішча лістоў">
 <!ENTITY securitySettings.label "Наладжванні бяспекі">
 <!ENTITY serverSettings.label "Наладжванні паслугача">
 <!ENTITY serverType.label "Тып паслугача:">
@@ -50,16 +51,18 @@
 <!ENTITY alwaysAuthenticate.label "Заўсёды патрабаваць апазнаванне ў час злучэння з гэтым паслугачом">
 <!ENTITY alwaysAuthenticate.accesskey "ў">
 <!ENTITY newsrcFilePath.label "файл newsrc:">
-<!ENTITY localPath.label "Мясцовая дырэкторыя:">
+<!ENTITY newsrcPicker.label "Выбраць файл newsrc">
 <!ENTITY abbreviate.label "Паказваць назвы навінакупаў у шыбе паштовай папкі як:">
 <!ENTITY abbreviateOn.label "Цэлыя назвы (Напрыклад, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Скарочаныя назвы (Напрыклад, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Пашыраны…">
 <!ENTITY advancedButton.accesskey "ш">
 <!ENTITY serverDefaultCharset.label "Змоўчная кадоўка знакаў:">
+<!ENTITY localPath.label "Мясцовая дырэкторыя:">
 <!ENTITY localFolderPicker.label "Вылучыць мясцовую дырэкторыю">
 <!ENTITY browseFolder.label "Агляд…">
 <!ENTITY browseFolder.accesskey "г">
-<!ENTITY newsrcPicker.label "Выбраць файл newsrc">
 <!ENTITY browseNewsrc.label "Агляд…">
 <!ENTITY browseNewsrc.accesskey "г">
+<!ENTITY accountTitle.label "Наладжванні рахунку">
+<!ENTITY accountSettingsDesc.label "Гэта адмысловы рахунак.  Няма адметаў, злучаных з ім.">

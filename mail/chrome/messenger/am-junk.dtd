@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Наладжванні лухты">
-<!ENTITY trainingWarning.label "Спачатку вы павінны натрэнаваць &brandShortName; вызначаць пошту-лухту. Ужывайце кнопку Лухта на паліцы прыладаў для пазначэння лістоў лухтою ці не. Вы мусіце вызначаць як лухтовыя, так і нелухтовыя лісты.">
+<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
 <!ENTITY level.label "Дазволіць прыстасоўныя кіроўцы поштай-лухтой для гэтага рахунку">
 <!ENTITY level.accesskey "Д">
 <!ENTITY move.label "Перамяшчаць новыя лісты-лухту ў:">
@@ -11,7 +11,10 @@
 <!ENTITY purge1.label "Самастойна выдаляць лісты-лухту, старэйшыя чым">
 <!ENTITY purge1.accesskey "С">
 <!ENTITY purge2.label "дзён">
-<!ENTITY whitelist.label "Не пазначаць лісты як лухту, калі адпраўнік у:">
-<!ENTITY whitelist.accesskey "Н">
+<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
+<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
 <!ENTITY ispHeaders.label "Давяраць загалоўкам, якія вызначаюць ліст як лухту, усталяваным:">
 <!ENTITY ispHeaders.accesskey "в">
+<!ENTITY junkClassification.label "Selection">
+<!ENTITY junkActions.label "Destination and Retention">

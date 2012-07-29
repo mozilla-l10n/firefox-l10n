@@ -13,7 +13,11 @@
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; скончыў усталяванне адсутных убудоваў:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Знайсці больш звестак пра ўбудовы або знайсці адсутныя ўбудовы ўручную.">
 <!ENTITY pluginWizard.finalPage.restart.label "Трэба перазапусціць &brandShortName;, каб убудова(ы) пачала(і) працаваць.">
+<!ENTITY unsupportedPlatform.pre "We're very sorry, but &brandShortName; can't play Flash on this device. ">
+<!ENTITY unsupportedPlatform.learnMore "Learn More…">
+<!ENTITY unsupportedPlatform.post "">
 <!ENTITY missingPlugin "Для адлюстравання гэтага змесціва патрэбна ўбудова.">
+<!ENTITY tapToPlayPlugin "Tap here to activate plugin.">
 <!ENTITY clickToPlayPlugin "Ляпніце тут, каб задзейнічаць убудову.">
 <!ENTITY disabledPlugin "Гэтая ўбудова забароненая.">
 <!ENTITY blockedPlugin.label "Гэтая ўбудова заблакавана для вашай абароны.">

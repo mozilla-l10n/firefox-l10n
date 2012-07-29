@@ -32,13 +32,20 @@
 <!ENTITY history_older_section "Раней, чым тыдзень назад">
 <!ENTITY reload "Абнавіць">
 <!ENTITY forward "Наперад">
+<!ENTITY menu "Menu">
+<!ENTITY back "Back">
+<!ENTITY stop "Stop">
+<!ENTITY site_security "Site Security">
+<!ENTITY close_tab "Close Tab">
 <!ENTITY new_tab "Новая ўстаўка">
+<!ENTITY num_tabs "&#037;d tabs">
 <!ENTITY new_tab_opened "Адчынена новая ўстаўка">
 <!ENTITY settings "Наладжванні">
 <!ENTITY settings_title "Наладжванні">
 <!ENTITY pref_category_general "Агульныя">
 <!ENTITY pref_category_privacy "Адасабленне і бяспека">
 <!ENTITY pref_category_content "Змесціва">
+<!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
 <!ENTITY pref_do_not_track "Забараняць сеціўным пляцоўкам сачыць за мною">
 <!ENTITY pref_telemetry "Дасыланне здаткаў працавыніковасці">
@@ -47,10 +54,7 @@
 <!ENTITY pref_char_encoding "Кадоўка знакаў">
 <!ENTITY pref_char_encoding_on "Паказваць меню">
 <!ENTITY pref_char_encoding_off "Не паказваць меню">
-<!ENTITY pref_clear_history "Знішчыць гісторыю">
-<!ENTITY pref_clear_history_confirm "Гісторыя азірання будзе вынішчана">
 <!ENTITY pref_clear_private_data "Ачысціць асабістыя здаткі">
-<!ENTITY pref_clear_private_data_confirm "Наладжванні азірання, уключаючы паролі і біркі, будуць выдалены">
 <!ENTITY pref_plugins "Убудовы">
 <!ENTITY pref_plugins_enabled "Дазволена">
 <!ENTITY pref_plugins_tap_to_play "Ляпніце, каб прайграць">
@@ -63,6 +67,16 @@
 <!ENTITY pref_font_size_xlarge "Звыш-вялікі">
 <!ENTITY pref_use_master_password "Ужываць галоўны пароль">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_sessions "Active logins">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY quit "Выйсці">
 <!ENTITY addons "Дадаткі">
 <!ENTITY downloads "Загрузкі">
@@ -70,11 +84,22 @@
 <!ENTITY share "Дзяліцца">
 <!ENTITY share_title "Падзеляецца праз">
 <!ENTITY save_as_pdf "Захаваць як PDF">
+<!ENTITY find_in_page "Find in Page">
+<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY find_text "Find in Page">
+<!ENTITY find_prev "Previous">
+<!ENTITY find_next "Next">
+<!ENTITY find_close "Close">
 <!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
+<!ENTITY contextmenu_remove_history "Remove">
 <!ENTITY contextmenu_remove_bookmark "Прыняць">
 <!ENTITY contextmenu_add_to_launcher "Дадаць на хатні экран">
 <!ENTITY contextmenu_share "Дзяліцца">
+<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
+<!ENTITY contextmenu_paste "Paste">
+<!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Праўка">
+<!ENTITY history_removed "Page removed">
 <!ENTITY bookmark_edit_title "Праўка закладкі">
 <!ENTITY bookmark_edit_name "Назва">
 <!ENTITY bookmark_edit_location "Месцазнаходжанне">
@@ -83,12 +108,17 @@
 <!ENTITY site_settings_cancel "Скасаваць">
 <!ENTITY site_settings_clear "Ачысціць">
 <!ENTITY site_settings_no_settings "Няма наладжванняў для ачысткі.">
+<!ENTITY add_to_reading_list "Add to Reading List">
+<!ENTITY reading_list_added "Page added to your Reading List">
+<!ENTITY reading_list_removed "Page removed from your Reading List">
+<!ENTITY reader_mode "Reader Mode">
 <!ENTITY masterpassword_create_title "Стварэнне галоўны пароль">
 <!ENTITY masterpassword_remove_title "Выдаленне галоўнага пароля">
 <!ENTITY masterpassword_password "Пароль">
 <!ENTITY masterpassword_confirm "Пацвердзіць пароль">
 <!ENTITY button_ok "Добра">
 <!ENTITY button_cancel "Скасаваць">
+<!ENTITY button_clear_data "Clear data">
 <!ENTITY abouthome_addons_title "Дадаткі для вашага &brandShortName;">
 <!ENTITY abouthome_addons_browse "Азірнуць усе дадткі &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Вашы апошнія ўстаўкі">
@@ -102,3 +132,15 @@
 <!ENTITY filepicker_audio_title "Выбраць ці запісаць гук">
 <!ENTITY filepicker_image_title "Выбраць выяву ці зрабіць фота">
 <!ENTITY filepicker_video_title "Выбраць ці запісаць відэя">
+<!ENTITY identity_connected_to "You are connected to">
+<!ENTITY identity_run_by "which is run by">
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">

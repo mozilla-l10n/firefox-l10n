@@ -27,7 +27,6 @@
 <!ENTITY addBuddyButton.label "Дадаць сувязь">
 <!ENTITY joinChatButton.label "Пачаць гутарыць">
 <!ENTITY chatAccountsButton.label "Паказаць рахункі">
-<!ENTITY searchAllChatMessages.label.base "Пошук у ўсіх размовах… #1">
 <!ENTITY status.available "Даступны">
 <!ENTITY status.unavailable "Недаступны">
 <!ENTITY status.offline "Па-за сеткаю">

@@ -21,6 +21,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Рахунак гутаркі…">
 <!ENTITY newIMAccountCmd.accesskey "г">
+<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY openAttachmentCmd.label "Далучэнні">
@@ -323,8 +325,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Адказаць толькі адпраўніку">
 <!ENTITY replySenderCmd.accesskey "А">
-<!ENTITY replyNewsgroupCmd.label "Адказаць навінакупе">
-<!ENTITY replyNewsgroupCmd.accesskey "ь">
+<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
 <!ENTITY replyToAllMsgCmd.label "Адказаць усім">
 <!ENTITY replyToAllMsgCmd.accesskey "з">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -440,6 +442,8 @@
 <!ENTITY imStatus.unavailable "Недаступны">
 <!ENTITY imStatus.offline "Па-за сеткаю">
 <!ENTITY imStatus.showAccounts "Паказаць рахункі…">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Захаваныя файлы">
 <!ENTITY savedFiles.accesskey "ф">
 <!ENTITY savedFiles.key "j">
@@ -459,6 +463,7 @@
 <!ENTITY importCmd.accesskey "І">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "п">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
 <!ENTITY accountManagerCmd.accesskey "н">
 <!ENTITY accountManagerCmdUnix.accesskey "р">
@@ -625,8 +630,8 @@
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
 <!ENTITY contextReplySender.accesskey "А">
-<!ENTITY contextReplyNewsgroup.label "Адказаць навінакупе">
-<!ENTITY contextReplyNewsgroup.accesskey "ь">
+<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Адказаць усім">
 <!ENTITY contextReplyAll.accesskey "У">
 <!ENTITY contextReplyList.label "Адказаць спісу">
@@ -660,7 +665,7 @@
 <!ENTITY contextMute.accesskey "З">
 <!ENTITY contextUnmute.label "Уключыць гук">
 <!ENTITY contextUnmute.accesskey "У">
-<!ENTITY junkBarMessage1.label "Пошта-лухта">
+<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
 <!ENTITY junkBarButton1.label "Не лухта">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "Каб захаваць ваша адасабленне, &brandShortName; блакаваў адлеглае змесціва ў гэтым лісце.">

@@ -27,8 +27,7 @@
 <!ENTITY PlainText.label "Просты тэкст">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Невядома">
-<!ENTITY ScreenName.label "Экраннае імя:">
-<!ENTITY ScreenName.accesskey "я">
+<!ENTITY chatName.label "Назва гутаркі:">
 <!ENTITY allowRemoteContent1.label "Дазволіць адлеглае змесціва.">
 <!ENTITY allowRemoteContent1.accesskey "д">
 <!ENTITY allowRemoteContent1.tooltip "Лісты ў фармаце HTML могуць змяшчаць
@@ -103,6 +102,24 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Заўвагі:">
 <!ENTITY Notes.accesskey "З">
+<!ENTITY Chat.tab "Гутарка">
+<!ENTITY Chat.accesskey "a">
+<!ENTITY Gtalk.label "Google Talk:">
+<!ENTITY Gtalk.accesskey "G">
+<!ENTITY AIM.label "AIM:">
+<!ENTITY AIM.accesskey "r">
+<!ENTITY Yahoo.label "Yahoo!:">
+<!ENTITY Yahoo.accesskey "Y">
+<!ENTITY Skype.label "Skype:">
+<!ENTITY Skype.accesskey "S">
+<!ENTITY QQ.label "QQ:">
+<!ENTITY QQ.accesskey "Q">
+<!ENTITY MSN.label "MSN:">
+<!ENTITY MSN.accesskey "M">
+<!ENTITY ICQ.label "ICQ:">
+<!ENTITY ICQ.accesskey "I">
+<!ENTITY XMPP.label "Jabber ID:">
+<!ENTITY XMPP.accesskey "J">
 <!ENTITY Photo.tab "Здымак">
 <!ENTITY Photo.accesskey "д">
 <!ENTITY PhotoDesc.label "Узяць адзін з наступных:">

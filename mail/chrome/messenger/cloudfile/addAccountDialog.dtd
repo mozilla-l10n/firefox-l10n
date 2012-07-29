@@ -3,7 +3,8 @@
 <!ENTITY addAccountDialog.style "width: 42em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Назва рахунку:">
 <!ENTITY addAccountDialog.noAccountText "Прабачце, цяперашняя версія &brandShortName; дазваляе мець толькі адзін рахунак на кожнай службе сеткавага сховішча.">
-<!ENTITY addAccountDialog.createAccountText "Гэтая асаблівасць дазваляе вам дасылаць вялікія далучэнні з дапамогаю адной або некалькіх службаў сеткавага сховішча. Вы можаце злучыцца ці з існым рахункам, ці падпісацца на новы.">
+<!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
 <!ENTITY addAccountDialog.authorizing "Праверка ўпаўнаважання...">
 <!ENTITY addAccountDialog.error "Здарылася памылка падчас наладжвання рахунку!">
 <!ENTITY addAccountDialog.acceptButton.label "Наладзіць рахунак">
+<!ENTITY addAccountDialog.learnMore "Learn more…">
