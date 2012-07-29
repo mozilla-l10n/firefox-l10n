@@ -560,6 +560,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nýr flokkur…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Sýsla með tög…">
+<!ENTITY manageTags.accesskey "m">
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Nafn">
 <!ENTITY folderSizeColumn.label "Stærð">

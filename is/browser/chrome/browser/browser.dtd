@@ -611,7 +611,7 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey "M">
-<!ENTITY socialToolbar.title "Félagsleg tækjaslá hnappur">
+<!ENTITY socialToolbar.title "Samfélags tækjaslá hnappur">
 <!ENTITY social.notLoggedIn.label "Ekki innskráður">
 <!ENTITY social.sharePopup.undo.label "Ekki deila">
 <!ENTITY social.sharePopup.undo.accesskey "E">
