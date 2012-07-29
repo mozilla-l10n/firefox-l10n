@@ -1,5 +1,5 @@
 <!ENTITY smtpServer.label "Наладжванні выходнага паслугача (SMTP)">
-<!ENTITY smtpDesc.label "Хоць вы можаце прызначыць больш за адзін выходны паслугач (SMTP), гэта раіцца толькі для дасведчаных карыстальнікаў. Усталяванне некалькіх паслугачоў SMTP можа прывесці да памылак падчас дасылання лістоў.">
+<!ENTITY smtpDescription.label "When managing your identities you can use a server from this list by selecting it as the Outgoing Server (SMTP), or you can use the default server from this list by selecting &quot;Use Default Server&quot;.">
 <!ENTITY smtpListAdd.label "Дадаць…">
 <!ENTITY smtpListAdd.accesskey "д">
 <!ENTITY smtpListEdit.label "Правіць…">

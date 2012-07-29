@@ -4,6 +4,8 @@
 <!ENTITY importAll.accesskey "ё">
 <!ENTITY importMail.label "Пошту">
 <!ENTITY importMail.accesskey "П">
+<!ENTITY importFeeds.label "Падпіскі на жывільнікі">
+<!ENTITY importFeeds.accesskey "ж">
 <!ENTITY importAddressbook.label "Адрасныя кнігі">
 <!ENTITY importAddressbook.accesskey "А">
 <!ENTITY importSettings.label "Наладжванні">
@@ -14,10 +16,13 @@
 <!ENTITY window.macWidth "55em">
 <!ENTITY importTitle.label "Чарадзей Імпарту &brandShortName;">
 <!ENTITY importShortDesc.label "Імпарт пошты, адрасных кнігаў, наладжванняў і сітаў з іншых праграмаў">
-<!ENTITY importDescription1.label "Гэты чарадзей імпартуе лісты пошты, запісы адраснай кнігі, перавагі і/ці сіты з іншых паштовых праграмаў і агульных фарматаў адрасных кніг у &brandShortName;.">
+<!ENTITY importDescription1.label "Гэты чарадзей імпартуе лісты пошты, запісы адраснай кнігі, падпіскі на жывільнікі, перавагі і/ці сіты з іншых паштовых праграмаў і агульных фарматаў адрасных кніг у &brandShortName;.">
 <!ENTITY importDescription2.label "Як толькі яны будуць імпартаваны, вы будзеце здольны зварочвацца да іх у &brandShortName;.">
 <!ENTITY selectDescription.label "Выберыце, калі ласка, тып файла, які вы хочаце імпартаваць:">
+<!ENTITY selectDescriptionB.label "Вылучыце, калі ласка, існы рахунак або стварыце новы:">
 <!ENTITY selectDescription.accesskey "В">
+<!ENTITY acctName.label "Назва:">
+<!ENTITY acctName.accesskey "Н">
 <!ENTITY back.label "&lt; Назад">
 <!ENTITY forward.label "Наперад &gt;">
 <!ENTITY finish.label "Скончыць">

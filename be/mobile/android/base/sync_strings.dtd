@@ -26,10 +26,11 @@
 <!ENTITY sync.button.manual.label "Ручное ўладкаванне">
 <!ENTITY sync.subtitle.nointernet.label "Няма злучэння з Інтэрнэтам.">
 <!ENTITY sync.title.success.label "Уладкаванне скончана">
-<!ENTITY sync.subtitle.success.label "Вашы здаткі зараз фонава сцягваюцца. Вы не можаце змяняць ваш рахунак у наладжваннях.">
+<!ENTITY sync.subtitle.success.label1 "Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.">
 <!ENTITY sync.settings.label "Наладжванні">
-<!ENTITY sync.subtitle.manage.label "Ваш рахунак &syncBrand.fullName.label; ужо ўладкаваны. Перайсці ў наладжванні, каб кіраваць рахункам.">
+<!ENTITY sync.subtitle.manage.label1 "Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.">
 <!ENTITY sync.pair.tryagain.label "Паспрабуйце, калі ласка, зноў.">
+<!ENTITY sync.pair.connectlocation.label "To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”">
 <!ENTITY sync.settings.options.label "Наладжванні">
 <!ENTITY sync.summary.pair.label "Злучыць іншую збудову з вашым рахункам &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Скасаваць">
@@ -43,4 +44,6 @@
 <!ENTITY bookmarks.folder.unfiled.label "Неразмеркаваныя закладкі">
 <!ENTITY bookmarks.folder.desktop.label "Закладкі працоўнага стала.">
 <!ENTITY bookmarks.folder.mobile.label "Мабільныя закладкі">
+<!ENTITY bookmarks.folder.readinglist.label "Reading List">
 <!ENTITY sync.notification.oneaccount.label "Толькі рахунак &syncBrand.fullName.label; падтрымліваецца.">
+<!ENTITY sync.new.recoverykey.status.incorrect "Recovery Key incorrect. Please try again.">

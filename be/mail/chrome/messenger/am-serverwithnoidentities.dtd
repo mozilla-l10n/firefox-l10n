@@ -1,11 +1,2 @@
-<!ENTITY accountTitle.label "Наладжванні рахунку">
-<!ENTITY accountSettingsDesc.label "Наступны рахунак асаблівы. Не існуе своеасаблівасцяў, спалучаных з ім.">
 <!ENTITY accountName.label "Назва рахунку:">
 <!ENTITY accountName.accesskey "Н">
-<!ENTITY messageStorage.label "Захоўванне лістоў">
-<!ENTITY emptyTrashOnExit.label "Выкідаць смецце перад выхадам">
-<!ENTITY emptyTrashOnExit.accesskey "ы">
-<!ENTITY localPath.label "Мясцовая дырэкторыя:">
-<!ENTITY localFolderPicker.label "Вылучыць мясцовую дырэкторыю">
-<!ENTITY browseFolder.label "Агляд…">
-<!ENTITY browseFolder.accesskey "г">

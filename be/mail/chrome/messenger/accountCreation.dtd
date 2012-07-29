@@ -48,8 +48,8 @@
 <!ENTITY technicaldetails.label "Тэхнічныя падрабязнасці.">
 <!ENTITY confirmWarning.label "Я разумею рызыку.">
 <!ENTITY confirmWarning.accesskey "р">
-<!ENTITY createAccount.label "Стварыць рахунак">
-<!ENTITY createAccount.accesskey "С">
+<!ENTITY doneAccount.label "Done">
+<!ENTITY doneAccount.accesskey "D">
 <!ENTITY changeSettings.label "Змяніць наладжванні">
 <!ENTITY changeSettings.accesskey "З">
 <!ENTITY contactYourProvider.description "&brandShortName; можа дазволіць вам карыстацца вашай поштай з дамамогаю гэтых наладжванняў. Тым не менш, вы павінны паведаміць вашаму спраўніку ці дастаўшчыку э-пошты пра гэтыя няспраўныя злучэнні. Больш падрабязныя звесткі можна атрымаць у Thunderbird FAQ.">

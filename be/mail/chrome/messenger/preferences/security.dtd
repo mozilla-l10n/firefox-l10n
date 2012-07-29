@@ -12,8 +12,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "і">
 <!ENTITY markAsReadOnSpam.label "Пазначыць лісты, вызначаныя як лухта, прачытанымі">
 <!ENTITY markAsReadOnSpam.accesskey "з">
-<!ENTITY enableJunkLogging.label "Дазволіць метрыку сіта лухты">
-<!ENTITY enableJunkLogging.accesskey "л">
+<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Паказаць метрыку">
 <!ENTITY openJunkLog.accesskey "м">
 <!ENTITY resetTrainingData.label "Скінуць вывучаныя даныя">
@@ -46,3 +46,5 @@
 <!ENTITY cookieExceptions.accesskey "В">
 <!ENTITY showCookies.label "Паказаць біркі…">
 <!ENTITY showCookies.accesskey "П">
+<!ENTITY doNotTrack.label "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey "d">

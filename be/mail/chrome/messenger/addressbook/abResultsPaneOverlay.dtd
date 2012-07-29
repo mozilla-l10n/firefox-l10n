@@ -60,8 +60,8 @@
 <!ENTITY HomePhone.accesskey "Х">
 <!ENTITY WorkPhone.label "Працоўны тэляфон">
 <!ENTITY WorkPhone.accesskey "П">
-<!ENTITY ScreenName.label "Экраннае імя">
-<!ENTITY ScreenName.accesskey "Э">
+<!ENTITY ChatName.label "Назва гутаркі">
+<!ENTITY ChatName.accesskey "г">
 <!ENTITY sortAscending.label "Узыходны">
 <!ENTITY sortAscending.accesskey "У">
 <!ENTITY sortDescending.label "Сыходны">

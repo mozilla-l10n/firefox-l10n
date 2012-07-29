@@ -74,11 +74,6 @@
 <!ENTITY insertCharsCmd.accesskey "З">
 <!ENTITY insertBreakAllCmd.label "Разрыў пад выявай(-мі)">
 <!ENTITY insertBreakAllCmd.accesskey "Р">
-<!ENTITY spellCheckNoSuggestions.label "(няма прапановаў)">
-<!ENTITY spellCheckIgnoreWord.label "Ігнараваць слова">
-<!ENTITY spellCheckIgnoreWord.accesskey "І">
-<!ENTITY spellCheckAddToDictionary.label "Дадаць у слоўнік">
-<!ENTITY spellCheckAddToDictionary.accesskey "Д">
 <!ENTITY createLinkCmd.label "Стварыць спасылку…">
 <!ENTITY createLinkCmd.accesskey "ы">
 <!ENTITY editLinkCmd.label "Рэдагаваць спасылку ў новым Укладальніку.">

@@ -137,8 +137,8 @@
 <!ENTITY GeneratedName.accesskey "і">
 <!ENTITY PrimaryEmail.label "Э-пошта">
 <!ENTITY PrimaryEmail.accesskey "э">
-<!ENTITY ScreenName.label "Экраннае імя">
-<!ENTITY ScreenName.accesskey "Э">
+<!ENTITY ChatName.label "Назва гутаркі">
+<!ENTITY ChatName.accesskey "г">
 <!ENTITY Company.label "Установа">
 <!ENTITY Company.accesskey "у">
 <!ENTITY NickName.label "Мянушка">
@@ -168,6 +168,7 @@
 <!ENTITY contact.heading "Сувязь">
 <!ENTITY home.heading "Хатні">
 <!ENTITY other.heading "Іншае">
+<!ENTITY chat.heading "Гутарка">
 <!ENTITY phone.heading "Тэляфон">
 <!ENTITY work.heading "Працоўны">
 <!ENTITY description.heading "Апісанне">

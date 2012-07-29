@@ -3,6 +3,8 @@
 <!ENTITY composeMsgLink.label "Укласці новы ліст">
 <!ENTITY newsSectionHdr.label "Навінакупы">
 <!ENTITY subscribeNewsLink.label "Кіраваць падпіскамі на навінакупы">
+<!ENTITY feedsSectionHdr.label "Жывільнікі">
+<!ENTITY subscribeFeeds.label "Кіраваць падпіскамі">
 <!ENTITY accountsSectionHdr.label "Рахункі">
 <!ENTITY subscribeImapFolders.label "Кіраваць падпіскамі на папкі">
 <!ENTITY settingsLink.label "Праглядзець наладжванні гэтага рахунку">
@@ -12,5 +14,3 @@
 <!ENTITY filtersLink.label "Кіраваць сітамі лістоў">
 <!ENTITY junkSettings.label "Наладжванні пошты-лухты">
 <!ENTITY offlineLink.label "Па-за сеткавыя наладжванні">
-<!ENTITY feedsSectionHdr.label "Жывільнікі">
-<!ENTITY subscribeFeeds.label "Кіраваць падпіскамі">

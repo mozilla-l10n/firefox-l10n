@@ -88,11 +88,6 @@
 <!ENTITY attachButton.tooltip "Уключыць далучэнне">
 <!ENTITY saveButton.tooltip "Захаваць гэты ліст">
 <!ENTITY stopButton.tooltip "Спыніць цяперашні перанос">
-<!ENTITY spellCheckNoSuggestions.label "(прапановы не знойдзены)">
-<!ENTITY spellCheckIgnoreWord.label "Ігнараваць слова">
-<!ENTITY spellCheckIgnoreWord.accesskey "І">
-<!ENTITY spellCheckAddToDictionary.label "Дадаць у слоўнік">
-<!ENTITY spellCheckAddToDictionary.accesskey "с">
 <!ENTITY openAttachment.label "Адчыніць">
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY renameAttachment.label "Змяніць назву…">

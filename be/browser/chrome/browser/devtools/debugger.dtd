@@ -1,6 +1,14 @@
-<!ENTITY debuggerMenu.label "Наладчык сцэнараў">
+<!ENTITY debuggerMenu.label2 "Debugger">
+<!ENTITY remoteDebuggerMenu.label "Remote Debugger">
+<!ENTITY chromeDebuggerMenu.label "Browser Debugger">
 <!ENTITY debuggerMenu.commandkey "S">
-<!ENTITY debuggerUI.closeButton "Зачыніць">
+<!ENTITY debuggerUI.closeButton.tooltip "Close">
+<!ENTITY debuggerUI.pauseExceptions "Pause on exceptions">
+<!ENTITY debuggerUI.stepOverButton.tooltip "Step Over">
+<!ENTITY debuggerUI.stepInButton.tooltip "Step In">
+<!ENTITY debuggerUI.stepOutButton.tooltip "Step Out">
 <!ENTITY debuggerUI.stackTitle "Стос выклікаў">
 <!ENTITY debuggerUI.scriptTitle "Сцэнар">
 <!ENTITY debuggerUI.propertiesTitle "Зменныя ш абшары">
+<!ENTITY debuggerUI.emptyFilterText "Filter scripts">
+<!ENTITY debuggerUI.emptyScriptText "No scripts.">
