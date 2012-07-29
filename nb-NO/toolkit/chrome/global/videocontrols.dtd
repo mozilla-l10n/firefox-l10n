@@ -10,15 +10,15 @@
 <!ENTITY stats.activity "Aktivitet">
 <!ENTITY stats.activityPaused "Pause">
 <!ENTITY stats.activityPlaying "Spiller av">
-<!ENTITY stats.activityEnded "Fullført">
+<!ENTITY stats.activityEnded "Slutt">
 <!ENTITY stats.activitySeeking "(søker)">
 <!ENTITY stats.volume "Volum">
 <!ENTITY stats.channels "Kanaler">
 <!ENTITY stats.sampleRate "Samplingsrate">
-<!ENTITY stats.framesParsed "Bilder innlest">
-<!ENTITY stats.framesDecoded "Bilder dekodet">
-<!ENTITY stats.framesPresented "Bilder presentert">
-<!ENTITY stats.framesPainted "Bilder tegnet opp">
+<!ENTITY stats.framesParsed "Rammer lest">
+<!ENTITY stats.framesDecoded "Rammer dekodet">
+<!ENTITY stats.framesPresented "Rammer presentert">
+<!ENTITY stats.framesPainted "Rammer tegnet">
 
 <!ENTITY error.aborted "Videolasting stoppet.">
 <!ENTITY error.network "Videoavspilling avbrutt på grunn av nettverksfeil.">
@@ -32,4 +32,4 @@ media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-<!ENTITY scrubberScale.nameFormat "#1 av #2 avspilt">
+<!ENTITY scrubberScale.nameFormat "#1 av #2 forløpt">

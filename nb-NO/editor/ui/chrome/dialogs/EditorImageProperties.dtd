@@ -99,7 +99,7 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Vis kantlinje rund lenket bilde">
 <!ENTITY showImageLinkBorder.accessKey "V">
-<!ENTITY LinkAdvancedEditButton.label "Lenk avansert redigering …">
+<!ENTITY LinkAdvancedEditButton.label "Lenk til avansert redigering …">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
 <!ENTITY LinkAdvancedEditButton.tooltip "Legg til eller endre HTML-attributter, stilattributter og JavaScript">
 
