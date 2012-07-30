@@ -7,7 +7,7 @@
 <!ENTITY warnOpenManyTabs.label       "Advar mig, hvis jeg åbner flere faneblade, som kan gøre &brandShortName; langsommere">
 <!ENTITY warnOpenManyTabs.accesskey   "å">
 
-<!ENTITY restoreTabsOnDemand.label        "Indlæs ikke faneblade før de vælges">
+<!ENTITY restoreTabsOnDemand.label        "Indlæs først faneblade når de vælges">
 <!ENTITY restoreTabsOnDemand.accesskey    "I">
 
 <!ENTITY showTabBar.label             "Vis altid fanebladslinjen">
