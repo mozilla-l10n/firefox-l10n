@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Barrachd fiosrachaidh mu theileimeatrachd">
 <!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+
+<!ENTITY scrolling.label               "Sgroladh">
+<!ENTITY useAutoScroll.label           "Cleachd fèin-sgroladh">
+<!ENTITY useAutoScroll.accesskey       "o">
+<!ENTITY useSmoothScrolling.label      "Cleachd sgroladh rèidh">
+<!ENTITY useSmoothScrolling.accesskey  "h">
+
 <!ENTITY systemIntegration.label       "Co-fhilleadh an t-siostaim">
 <!ENTITY alwaysCheckDefault.label      "Bheir &brandShortName; sùil an e e fhèin do roghainn prògram nam post-dealain gach turas a thòiseachas e">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
@@ -85,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace "Àite air an diosg">
-<!ENTITY offlineCompact.label "Dùmhlaich na pasgain nan sàbhaladh seo barrachd air">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "CDùmhlaich na pasgain nan sàbhaladh seo barrachd air">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB uile gu lèir">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
