@@ -47,7 +47,7 @@
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Afprøv konfigurationen">
-<!ENTITY half-manual-test.accesskey      "A">
+<!ENTITY half-manual-test.accesskey      "ø">
 <!ENTITY manual-edit.label               "Manuel konfiguration">
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY switch-to-provisioner.label     "Få en ny konto">
