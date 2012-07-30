@@ -182,6 +182,15 @@
 <!ENTITY event.email.tentative.attendees.label            "Sgrìobh post-dealain dha na freastalaichean nach eil cinnteach fhathast…">
 <!ENTITY event.email.tentative.attendees.accesskey        "S">
 
+<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
+  but I want to land Filelink support for Lightning soon. The attach
+  button will become a dropdown button that allows to attach links
+  as usual, but also files via the Filelink providers. -->
+<!ENTITY event.attachments.menubutton.label               "Cuir ris">
+<!ENTITY event.attachments.menubutton.accesskey           "C">
+<!ENTITY event.attachments.url.label                      "Duilleag-lìn…">
+<!ENTITY event.attachments.url.accesskey                  "D">
+
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
