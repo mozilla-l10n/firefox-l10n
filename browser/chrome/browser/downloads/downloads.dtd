@@ -4,6 +4,7 @@
 
 <!ENTITY indicator.tooltiptext "Descargas">
 <!ENTITY downloads.title "Descargas">
+<!ENTITY downloads.width "65ch">
 <!ENTITY cmd.pause.label "Pausar">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.label "Continuar">
