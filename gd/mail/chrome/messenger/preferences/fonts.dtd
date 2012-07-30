@@ -23,15 +23,15 @@
 <!ENTITY  font.langGroup.latin1                   "Siarach">
 <!ENTITY  font.langGroup.latin2                   "Meadhan-Eòrpach">
 <!ENTITY  font.langGroup.japanese                 "Seapanais">
-<!ENTITY  font.langGroup.trad-chinese             "Sìneach tradaiseanta (Taidh-Bhàn)">
+<!ENTITY  font.langGroup.trad-chinese             "Sìnis thradaiseanta (Taidh-Bhàn)">
 <!ENTITY  font.langGroup.simpl-chinese            "Sìnis shimplichte">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Sìneach tradaiseanta (Hong Kong)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Sìnis thradaiseanta (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coireanais">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilis">
 <!ENTITY  font.langGroup.baltic                   "Baltach">
 <!ENTITY  font.langGroup.el                       "Greugais">
 <!ENTITY  font.langGroup.turkish                  "Turcais">
-<!ENTITY  font.langGroup.unicode                  "Cànain eile">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Roghnadh a' chleachdaiche">
 <!ENTITY  font.langGroup.thai                     "Tàidh">
 <!ENTITY  font.langGroup.hebrew                   "Eabhra">
