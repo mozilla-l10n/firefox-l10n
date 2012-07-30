@@ -37,7 +37,6 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "మీరు  తెరుచుటకు  ఎంపికచేసికొనినారు">
 <!ENTITY  from.label                  "నుండి:">
 <!ENTITY  actionQuestion.label        "&brandShortName; ఈ  ఫైల్ తో  ఏమి చేయాలి?">
 
@@ -57,3 +56,4 @@
 <!ENTITY  unknownPromptText.label     "మీరు ఈ ఫైల్ ను  భద్రపరచాలని అనుకుంటున్నారా?">
 <!ENTITY  saveFile.label              "ఫైల్ భద్రపరచు">
 <!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  intro2.label                "మీరు  తెరుచుటకు  ఎంపికచేసికొనినారు:">
