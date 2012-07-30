@@ -88,6 +88,7 @@
 <!ENTITY pref_private_data_formdata "Formular- og søgehistorik">
 <!ENTITY pref_private_data_cookies "Cookies">
 <!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_passwords "Gemte adgangskoder">
 <!ENTITY pref_private_data_sessions "Aktive logins">
 <!ENTITY pref_private_data_offlineApps "Offline webapplikationsdata">
 <!ENTITY pref_private_data_siteSettings "Webstedsindstillinger">

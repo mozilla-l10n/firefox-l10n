@@ -17,6 +17,15 @@
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; blev færdig med at installere de manglende plugins:">
 
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre                             "&brandShortName; kan desværre ikke afvikle Flash på denne enhed. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Læs mere…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Hør mere om plugins eller find selv flere plugins.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; skal genstartes for at de nye plugins kan blive aktiveret.">
 
