@@ -52,7 +52,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
 <!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!ENTITY sync.notification.oneaccount.label "Sólo está permitida una cuenta de &syncBrand.fullName.label;.">
-<!ENTITY sync.invalidcreds.label "Nombre de cuenta o contraseña incorrecto">
+<!ENTITY sync.invalidcreds.label "Nombre de cuenta o contraseña incorrectos.">
 <!ENTITY sync.invalidserver.label "Por favor, introduzca una URL de servidor válida">
 <!ENTITY sync.verifying.label "Verificando…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Pruebe de nuevo.">

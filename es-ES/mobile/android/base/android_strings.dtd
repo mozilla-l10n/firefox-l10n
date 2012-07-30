@@ -42,6 +42,7 @@
 <!ENTITY site_security "Seguridad del sitio">
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY new_tab "Pestaña nueva">
+<!ENTITY one_tab "1 pestaña">
 <!ENTITY num_tabs "&#037;d pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 <!ENTITY settings "Configuración">
@@ -69,15 +70,18 @@
 <!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
+<!ENTITY pref_font_size_set "Configurar">
+<!ENTITY pref_font_size_adjust_char "r">
+<!ENTITY pref_font_size_preview_text "El rapidísimo zorro naranja salta sobre sus expectativas con más velocidad, más flexibilidad y más seguridad. Sin ánimo de lucro, somos libres para innovar por usted sin ninguna presión hacia el compromiso. Esto resulta en una mejor experiencia para el usuario como usted y un futuro más brillante para la web.">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_private_data_history "Historial de navegación y descargas">
 <!ENTITY pref_private_data_formdata "Formularios e historial de búsquedas">
-<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
+<!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_private_data_cache "Caché">
-<!ENTITY pref_private_data_sessions "Sesiones activas">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
 <!ENTITY quit "Salir">
@@ -87,6 +91,7 @@
 <!ENTITY char_encoding "Codif. caracteres">
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por">
+<!ENTITY share_image_failed "Imposible compartir esta imagen">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
@@ -149,3 +154,4 @@
 <!ENTITY bookmarkhistory_import_history "Importar historial
                                       desde Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, espere…">
+<!ENTITY webapp_generic_name "Aplicaciones">
