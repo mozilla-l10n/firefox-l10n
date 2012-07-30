@@ -46,6 +46,10 @@
 
 <!ENTITY reload "Obnoviť">
 <!ENTITY forward "Dopredu">
+<!ENTITY menu "Ponuka">
+<!ENTITY back "Naspäť">
+<!ENTITY stop "Zastaviť">
+<!ENTITY site_security "Zabezpečenie stránky">
 
 <!ENTITY close_tab "Zavrieť kartu">
 <!ENTITY new_tab "Nová karta">
@@ -59,6 +63,7 @@
 <!ENTITY pref_category_general "Všeobecné">
 <!ENTITY pref_category_privacy "Súkromie a bezpečnosť">
 <!ENTITY pref_category_content "Obsah">
+<!ENTITY pref_category_importexport "Import a export">
 <!ENTITY pref_about_firefox "O prehliadači &brandShortName;">
 <!ENTITY pref_do_not_track "Požiadať stránky, aby nesledovali moju aktivitu">
 <!ENTITY pref_telemetry "Odosielať údaje o výkonnosti">
@@ -67,10 +72,7 @@
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobraziť ponuku">
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
-<!ENTITY pref_clear_history "Vymazať históriu">
-<!ENTITY pref_clear_history_confirm "História prehliadania bude vymazaná">
 <!ENTITY pref_clear_private_data "Vymazať súkromné údaje">
-<!ENTITY pref_clear_private_data_confirm "Odstránené budú nastavenia prehliadania vrátane hesiel a cookies.">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolené">
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
@@ -83,6 +85,16 @@
 <!ENTITY pref_font_size_xlarge "Veľmi veľké">
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_sync "Synchronizácia">
+<!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
+<!ENTITY pref_import_android "Import z Androidu">
+<!ENTITY pref_private_data_history "História prehliadania a prevzatých súborov">
+<!ENTITY pref_private_data_formdata "História vyhľadávania a formulárov">
+<!ENTITY pref_private_data_cookies "Súbory Cookies">
+<!ENTITY pref_private_data_passwords "Uložené heslá">
+<!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
+<!ENTITY pref_private_data_sessions "Aktívne prihlásenia">
+<!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
+<!ENTITY pref_private_data_siteSettings "Nastavenia stránok">
 
 <!ENTITY quit "Ukončiť">
 
@@ -94,6 +106,7 @@
 <!ENTITY share_title "Zdieľať cez">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 <!ENTITY find_in_page "Hľadať na stránke">
+<!ENTITY desktop_mode "Požiadať plnú verziu stránky">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -107,6 +120,9 @@
 <!ENTITY contextmenu_remove_bookmark "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_share "Zdieľať">
+<!ENTITY contextmenu_pasteandgo "Prilepiť a prejsť">
+<!ENTITY contextmenu_paste "Prilepiť">
+<!ENTITY contextmenu_copyurl "Kopírovať adresu">
 <!ENTITY contextmenu_edit_bookmark "Upraviť">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -135,6 +151,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušiť">
+<!ENTITY button_clear_data "Vymazať údaje">
 
 <!ENTITY abouthome_addons_title "Doplnky pre váš &brandShortName;">
 <!ENTITY abouthome_addons_browse "Prehľadávať všetky doplnky pre &brandShortName;">
@@ -165,3 +182,12 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Spravuje ju">
+
+<!ENTITY private_data_success "Súkromné údaje vymazané">
+<!ENTITY private_data_fail "Niektoré súkromné údaje nemohli byť odstránené">
+
+<!ENTITY bookmarkhistory_button_import "Importovať">
+<!ENTITY bookmarkhistory_import_both "Importujú sa záložky a história z Androidu">
+<!ENTITY bookmarkhistory_import_bookmarks "Importujú sa záložky z Androidu">
+<!ENTITY bookmarkhistory_import_history "Importuje sa história z Androidu">
+<!ENTITY bookmarkhistory_import_wait "Čakajte, prosím…">
