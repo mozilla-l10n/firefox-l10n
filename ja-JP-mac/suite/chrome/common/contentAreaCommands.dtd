@@ -117,6 +117,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "辞書に追加">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label      "辞書への追加を取り消す">
+<!ENTITY spellUndoAddToDictionary.accesskey  "i">
 <!ENTITY spellIgnoreWord.label          "単語を無視">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "スペルチェックする">
