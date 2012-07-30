@@ -35,7 +35,7 @@
 <!ENTITY font.langGroup.baltic                    "Pobaltské">
 <!ENTITY font.langGroup.el                        "Grécke">
 <!ENTITY font.langGroup.turkish                   "Turecké">
-<!ENTITY font.langGroup.unicode                   "Iné jazyky">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY font.langGroup.user-def                  "Vlastné">
 <!ENTITY font.langGroup.thai                      "Thajské">
 <!ENTITY font.langGroup.hebrew                    "Hebrejské">

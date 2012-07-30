@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Webové aplikácie v režime offline">
+<!ENTITY pref.offlineCache.caption          "Webový obsah v režime offline a používateľské údaje">
+
+<!ENTITY clearOfflineAppCache.label         "Vymazať">
+<!ENTITY clearOfflineAppCache.accesskey     "V">
+
+<!ENTITY offlineNotify.label                "Upozorniť, ak sa webová stránka pokúša uložiť údaje pre použitie v režime offline.">
+<!ENTITY offlineNotify.accesskey            "U">
+<!ENTITY offlineNotifyPermissions.label     "Spravovať povolenia">
+<!ENTITY offlineNotifyPermissions.accesskey "S">
+
+<!ENTITY offlineAppsList.label              "Nasledujúce webové stránky majú povolené ukladať údaje pre použitie v režime offline:">
+<!ENTITY offlineAppsListRemove.label        "Vymazať údaje…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">

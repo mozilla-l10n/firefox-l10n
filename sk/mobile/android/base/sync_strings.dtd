@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Skúsiť znova'>
 <!ENTITY sync.button.manual.label 'Manuálne nastavenie'>
 <!ENTITY sync.subtitle.nointernet.label 'Nie je dostupné pripojenie k sieti internet.'>
+<!ENTITY sync.subtitle.failaccount.label 'Vytvorenie účtu vo vašom zariadení zlyhalo.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Máte Firefox nainštalovaný viackrát? &syncBrand.fullName.label; nateraz podporuje súčasne len jednu inštaláciu Firefoxu. Ak chcete používať &syncBrand.shortName.label; odinštalujte ostatné inštalácie Firefoxu.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Nastavenie dokončené'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Podporovaný je len jeden účet služby &syncBrand.fullName.label;.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Neplatný názov účtu alebo heslo.'>
+<!ENTITY sync.invalidserver.label 'Zadajte platnú adresu servera'>
+<!ENTITY sync.verifying.label 'Overuje sa…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Nesprávny Obnovovací kľúč. Skúste to znova.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Odoslať kartu na zariadenia'>
+<!ENTITY sync.button.send.label 'Odoslať'>
+<!ENTITY sync.button.set.up.sync.label 'Nastaviť službu &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.shortName.label; na odosielanie kariet'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.fullName.label; na tomto zariadení na odosielanie kariet na ďalšie zariadenia.'>
+<!ENTITY sync.text.tab.sent.label 'Karta bola odoslaná!'>

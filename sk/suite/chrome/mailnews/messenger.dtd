@@ -540,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label "Dôveryhodná">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Odosielateľ žiada potvrdenie o prečítaní tejto správy. Chcete toto potvrdenie odoslať?">
 <!ENTITY mdnBarIgnoreButton.label "Ignorovať žiadosť">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "Odoslať potvrdenie">
+<!ENTITY mdnBarSendButton.accesskey "s">

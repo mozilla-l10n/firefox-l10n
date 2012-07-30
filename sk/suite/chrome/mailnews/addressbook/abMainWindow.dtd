@@ -48,9 +48,12 @@
 <!ENTITY showAbToolbarCmd.label                         "Panel nástrojov Adresár">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 
-<!ENTITY showCardPane.label                             "Panel súhrnu karty">
-<!ENTITY showCardPane.accesskey                         "h">
-
+<!ENTITY layoutMenu.label                               "Rozloženie">
+<!ENTITY layoutMenu.accesskey                           "R">
+<!ENTITY showDirectoryPane.label                        "Panel adresárov">
+<!ENTITY showDirectoryPane.accesskey                    "a">
+<!ENTITY showContactPane2.label                         "Panel kontaktov">
+<!ENTITY showContactPane2.accesskey                     "k">
 <!ENTITY menu_ShowNameAs.label                          "Meno zobraziť ako">
 <!ENTITY menu_ShowNameAs.accesskey                      "M">
 <!ENTITY firstLastCmd.label                             "Meno priezvisko">
@@ -95,6 +98,20 @@
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adresáre">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Kontakt">
+<!ENTITY home.heading                                   "Domov">
+<!ENTITY other.heading                                  "Ostatné">
+<!ENTITY phone.heading                                  "Telefón">
+<!ENTITY work.heading                                   "Zamestnanie">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Popis">
+<!ENTITY addresses.heading                              "Adresy">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Zobraziť mapu">
+<!ENTITY mapIt.tooltip                                  "Zobraziť adresu na mape">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">

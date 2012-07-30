@@ -83,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Potvrdenie o prečítaní">
 <!ENTITY returnReceiptMenu.accesskey "d">
+<!ENTITY dsnMenu.label "Notifikácia o stave doručenia">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Formát">
 <!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Automaticky">
