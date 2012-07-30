@@ -88,6 +88,7 @@
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Añadir esta página a marcadores">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
@@ -176,6 +177,10 @@
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar el Inspector">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar la barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
+<!ENTITY devToolbarMenu.accesskey "d">
+<!ENTITY devToolbar.keycode "VK_F2">
+<!ENTITY devToolbar.keytext "F2">
+<!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
@@ -463,3 +468,15 @@
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY markupButton.arialabel "Marcado">
 <!ENTITY markupButton.accesskey "M">
+<!ENTITY socialToolbar.title "Botón de la barra de herramientas social">
+<!ENTITY social.notLoggedIn.label "Sesión no iniciada">
+<!ENTITY social.ok.label "Aceptar">
+<!ENTITY social.ok.accesskey "A">
+<!ENTITY social.sharePopup.undo.label "Dejar de compartir">
+<!ENTITY social.sharePopup.undo.accesskey "j">
+<!ENTITY social.sharePopup.shared.label "Ha compartido esta página.">
+<!ENTITY social.sharePopup.portrait.arialabel "Imagen de perfil de usuario">
+<!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
+<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.activated.button.label "¡Uy! deshacer">
+<!ENTITY social.activated.button.accesskey "u">
