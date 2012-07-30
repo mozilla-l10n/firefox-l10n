@@ -32,6 +32,7 @@
 <!ENTITY advance.label "Rozšírené">
 <!ENTITY down.label "Preberanie súborov">
 <!ENTITY cache.label "Vyrovnávacia pamäť">
+<!ENTITY offlineApps.label "Offline aplikácie">
 <!ENTITY proxies.label "Servery proxy">
 <!ENTITY httpnetworking.label "Spojenia HTTP">
 <!ENTITY smart.label "Inštalácia softvéru">

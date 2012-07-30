@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Povoliť">
 <!ENTITY addonAction.disable                    "Zakázať">
 <!ENTITY addonAction.uninstall                  "Odinštalovať">
-<!ENTITY addonAction.cancel                     "Zrušiť">
+<!ENTITY addonAction.undo                       "Späť">

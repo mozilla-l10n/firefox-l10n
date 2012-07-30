@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Vymazať históriu…">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd.label "Nastavenie účtov…">
 <!ENTITY accountManagerCmd.accesskey "N">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -582,6 +584,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nový popis…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Spravovať popisy…">
+<!ENTITY manageTags.accesskey "S">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Názov:">
