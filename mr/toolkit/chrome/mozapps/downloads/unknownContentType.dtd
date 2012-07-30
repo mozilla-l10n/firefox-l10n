@@ -25,3 +25,6 @@
 <!ENTITY  unknownPromptText.label     "तुम्हाला ही फाइल संचयीत करायची?">
 <!ENTITY  saveFile.label              "फाइल संचयीत करा">
 <!ENTITY  saveFile.accesskey          "s">
+
+<!ENTITY  intro2.label                "तुम्ही उघडायचे, असे निश्चित केले आहे:">
+
