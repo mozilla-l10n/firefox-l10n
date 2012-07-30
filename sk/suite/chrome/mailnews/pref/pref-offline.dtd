@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "sekúnd">
 <!ENTITY Diskspace                        "Miesto na disku">
-<!ENTITY offlineCompact.label             "Vykonať údržbu priečinkov, ak sa tým ušetrí viac ako">
-<!ENTITY offlineCompact.accesskey         "V">
-<!ENTITY mb.label                         "MB">
+<!ENTITY offlineCompactFolders.label      "Vykonať údržbu všetkých priečinkov, ak sa celkovo ušetrí aspoň">
+<!ENTITY offlineCompactFolders.accesskey  "V">
+<!ENTITY offlineCompactFoldersMB.label    "MB">

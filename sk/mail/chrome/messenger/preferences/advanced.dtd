@@ -91,10 +91,10 @@
 <!ENTITY showOffline.label              "Nastavenia…">
 <!ENTITY showOffline.accesskey          "a">
 
-<!ENTITY Diskspace                      "Miesto na disku">
-<!ENTITY offlineCompact.label           "Vykonať údržbu priečinkov, ak sa tým ušetrí viac ako">
-<!ENTITY offlineCompact.accesskey       "V">
-<!ENTITY mb.label                       "MB">
+<!ENTITY Diskspace                       "Miesto na disku">
+<!ENTITY offlineCompactFolders.label     "Vykonať údržbu všetkých priečinkov, ak sa celkovo ušetrí aspoň">
+<!ENTITY offlineCompactFolders.accesskey "V">
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

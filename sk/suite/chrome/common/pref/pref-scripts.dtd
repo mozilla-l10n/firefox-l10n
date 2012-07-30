@@ -21,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Zakázať alebo nahradiť kontextovú ponuku">
 <!ENTITY allowHideStatusBar.label        "Skryť stavový riadok">
 
-<!ENTITY enablePlugin.label              "Povoliť zásuvné moduly pre:">
+<!ENTITY enablePlugins.label             "Povoliť zásuvné moduly pre">
 <!ENTITY enablePluginForSuite.label      "Prehliadač">
 <!ENTITY enablePluginForSuite.accesskey  "h">
 
-<!ENTITY whenPluginsRequired.label       "Pri žiadosti stránky o inštaláciu zásuvných modulov">
-<!ENTITY displayNotification.label       "Zobraziť notifikačný panel nad horným okrajom stránky">
-<!ENTITY displayNotification.accesskey   "n">
+<!ENTITY whenPageRequiresPlugins.label   "Keď stránka vyžaduje zásuvné moduly">
+<!ENTITY activateAllPlugins.label        "Predvolene aktivovať všetky zásuvné moduly">
+<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY warnPluginsRequired.label       "Upozorniť, ak je potrebné nainštalovať ďalšie zásuvné moduly">
+<!ENTITY warnPluginsRequired.accesskey   "U">

@@ -180,6 +180,16 @@
 <!ENTITY event.description.accesskey                      "P">
 <!ENTITY event.attachments.label                          "Prílohy:" >
 <!ENTITY event.attachments.accesskey                      "h" >
+
+<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
+  but I want to land Filelink support for Lightning soon. The attach
+  button will become a dropdown button that allows to attach links
+  as usual, but also files via the Filelink providers. -->
+<!ENTITY event.attachments.menubutton.label               "Pripojiť">
+<!ENTITY event.attachments.menubutton.accesskey           "i">
+<!ENTITY event.attachments.url.label                      "Webová stránka…">
+<!ENTITY event.attachments.url.accesskey                  "W">
+
 <!ENTITY event.attachments.popup.remove.label             "Odstrániť" >
 <!ENTITY event.attachments.popup.remove.accesskey         "d" >
 <!ENTITY event.attachments.popup.open.label               "Otvoriť" >
