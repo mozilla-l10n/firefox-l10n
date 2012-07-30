@@ -684,4 +684,5 @@
 <!ENTITY social.sharePopup.undo.accesskey "U">
 <!ENTITY social.sharePopup.ok.label       "ठिक आहे">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
+<!ENTITY devToolbar.keycode                "VK_F2">
 
