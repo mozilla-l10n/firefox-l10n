@@ -69,7 +69,7 @@
 <!ENTITY update.downloading.start   "Henter opdatering — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Der opdateres…">
+<!ENTITY update.applying            "Installerer opdatering…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
