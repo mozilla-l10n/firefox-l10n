@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Cuntanschì la limita da memoria">
+<!ENTITY fileExceedsQuota.accept "Cumprar">
+<!ENTITY fileExceedsQuota.cancel "Interrumper">
+<!ENTITY fileExceedsQuota.description "Ti has cuntanschì tia limita da memoria dal conto da 2GB.">
+<!ENTITY fileExceedsQuota.description1 "Actualmain dovras ti #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Cumpra ussa in conto da Pro Plus e retschaiva dapli memoria.">
+<!ENTITY fileExceedsQuota.description3 "Ti pos era stizzar datotecas da tes conto per far plaz.">

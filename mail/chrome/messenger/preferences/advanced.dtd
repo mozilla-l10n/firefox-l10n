@@ -11,6 +11,13 @@
 <!ENTITY telemetryInfoLink.label       "Dapli infurmaziuns davart 'Telemetry'">
 <!ENTITY enableGlodaSearch.label       "Activar la tschertga globala e l'indexaziun da messadis">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+<!ENTITY scrolling.label               "Defilada">
+<!ENTITY useAutoScroll.label           "Activar la defilada automatica">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Activar la defilada cuntinuanta">
+<!ENTITY useSmoothScrolling.accesskey  "n">
+
 <!ENTITY systemIntegration.label       "Integraziun en il sistem">
 <!ENTITY alwaysCheckDefault.label      "Adina controllar cun aviar sche &brandShortName; è l'applicaziun dad e-mail predefinida">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
@@ -81,10 +88,10 @@
 <!ENTITY showOffline.label             "Senza connexiun…">
 <!ENTITY showOffline.accesskey         "S">
 
-<!ENTITY Diskspace "Capacitad da memorisar">
-<!ENTITY offlineCompact.label "Cumprimer ils ordinaturs sche quai spargna dapli capacitad che">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Capacitad da memorisar">
+<!ENTITY offlineCompactFolders.label     "Cumprimer tut ils ordinaturs sche quai spargna dapli capacitad che totalmain">
+<!ENTITY offlineCompactFolders.accesskey "C">
+<!ENTITY offlineCompactFoldersMB.label   "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
