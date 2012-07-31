@@ -88,3 +88,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurer &syncBrand.shortName.label; pour l\u0027envoi d\u0027onglets'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurez &syncBrand.fullName.label; sur votre appareil afin qu\u0027il puisse envoyer des onglets à d\u0027autres appareils.'>
 <!ENTITY sync.text.tab.sent.label 'Votre onglet a été envoyé !'>
+<!ENTITY sync.text.tab.not.sent.label 'Un problème est survenu lors de l\u0027envoi de votre onglet.'>
