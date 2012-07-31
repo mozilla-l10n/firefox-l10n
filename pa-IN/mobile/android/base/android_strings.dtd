@@ -49,11 +49,11 @@
 
 <!ENTITY reload "ਮੁੜ-ਲੋਡ">
 <!ENTITY forward "ਅੱਗੇ">
-<!ENTITY menu "Menu">
+<!ENTITY menu "ਮੇਨੂ">
 
-<!ENTITY back "Back">
-<!ENTITY stop "Stop">
-<!ENTITY site_security "Site Security">
+<!ENTITY back "ਪਿੱਛੇ">
+<!ENTITY stop "ਰੋਕੋ">
+<!ENTITY site_security "ਸਾਇਟ ਸੁਰੱਖਿਆ">
 
 <!ENTITY close_tab "ਟੈਬ ਬੰਦ">
 <!ENTITY new_tab "ਨਵੀਂ ਟੈਬ">
@@ -68,7 +68,7 @@
 <!ENTITY pref_category_general "ਆਮ">
 <!ENTITY pref_category_privacy "ਪਰਾਈਵੇਸੀ ਤੇ ਸੁਰੱਖਿਆ">
 <!ENTITY pref_category_content "ਸਮੱਗਰੀ">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "ਇੰਪੋਰਟ &amp; ਐਕਸਪੋਰਟ">
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_do_not_track "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ">
 <!ENTITY pref_telemetry "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
@@ -93,14 +93,16 @@
 <!ENTITY pref_font_size_xlarge "ਬਹੁਤ ਵੱਡੇ">
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_sync "ਸਿੰਕ">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
-<!ENTITY pref_private_data_cookies "Cookies">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Active logins">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_import_android "ਐਡਰਾਇਡ ਤੋਂ ਇੰਪੋਰਟ ਕਰੋ">
+<!ENTITY pref_private_data_history "ਬਰਾਊਜ਼ ਕਰਨ &amp; ਡਾਊਨਲੋਡ ਅਤੀਤ">
+<!ENTITY pref_private_data_formdata "ਖੋਜ &amp; ਖੋਜ ਅਤੀਤ">
+<!ENTITY pref_private_data_cookies "ਕੂਕੀਜ਼">
+<!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
+<!ENTITY pref_private_data_cache "ਕੈਸ਼">
+<!ENTITY pref_private_data_sessions "ਸਰਗਰਮ ਲਾਗਇਨ">
+<!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈਬਸਾਈਟ ਡਾਟਾ">
+<!ENTITY pref_private_data_siteSettings "ਸਾਈਟ ਪਸੰਦ">
+<!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
 
 <!ENTITY quit "ਬੰਦ ਕਰੋ">
 
@@ -113,7 +115,7 @@
 <!ENTITY save_as_pdf "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
 
 <!ENTITY find_in_page "ਪੇਜ਼ ਵਿੱਚ ਲੱਭੋ">
-<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY desktop_mode "ਡੈਸਕਟਾਪ ਸਾਈਟ ਦੀ ਮੰਗ">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -128,8 +130,9 @@
 <!ENTITY contextmenu_remove_bookmark "ਹਟਾਓ">
 <!ENTITY contextmenu_add_to_launcher "Home Screen ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
-<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
-<!ENTITY contextmenu_paste "Paste">
+<!ENTITY contextmenu_pasteandgo "ਚੇਪੋ &amp; ਜਾਓ">
+<!ENTITY contextmenu_paste "ਚੇਪੋ">
+<!ENTITY contextmenu_copyurl "ਐਡਰੈਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧ">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -157,8 +160,8 @@
 <!ENTITY masterpassword_confirm "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ">
 
 <!ENTITY button_ok "ਠੀਕ">
-<!ENTITY button_cancel "ਰੱਦ">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_cancel "ਰੱਦ ਕਰੋ">
+<!ENTITY button_clear_data "ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 
 
 <!ENTITY abouthome_addons_title "ਤੁਹਾਡੇ &brandShortName; ਲਈ ਐਡ-ਆਨ">
@@ -191,14 +194,13 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ਜੋ ਕਿ ਚਲਾਈ ਜਾਂਦੀ ਹੈ, ਵਲੋਂ">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
+<!ENTITY bookmarkhistory_button_import "ਇੰਪੋਰਟ ਕਰੋ">
+<!ENTITY bookmarkhistory_import_both "ਐਡਰਾਇਡ ਤੋਂ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਇੰਪੋਰਟ ਕਰੋ">
 <!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
                                            from Android">
 <!ENTITY bookmarkhistory_import_history "Importing history
                                          from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_import_wait "...ਉਡੀਕੋ ਜੀ">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕੀਤਾ">
+<!ENTITY private_data_fail "ਕੁਝ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ">
