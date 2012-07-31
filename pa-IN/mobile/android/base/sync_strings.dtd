@@ -41,7 +41,9 @@
 <!ENTITY sync.button.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY sync.button.manual.label 'ਖੁਦ ਸੈਟਅੱਪ'>
 <!ENTITY sync.subtitle.nointernet.label 'ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।'>
-  
+<!ENTITY sync.subtitle.failaccount.label 'ਤੁਹਾਡੇ ਜੰਤਰ ਉੱਤੇ ਅਕਾਊਂਟ ਬਣਾਉਣ ਲਈ ਫੇਲ੍ਹ ਹੈ।'>
+<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ'>
 <!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
@@ -79,5 +81,19 @@
 <!ENTITY sync.notification.oneaccount.label 'ਕੇਵਲ ਇੱਕ ਹੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਸਹਾਇਕ ਹੈ'>
 
 <!-- Incorrect settings and changing credentials. -->
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'ਗਲਤ ਅਕਾਊਂਟ ਜਾਂ ਪਾਸਵਰਡ ਹੈ।'>
+<!ENTITY sync.invalidserver.label 'ਠੀਕ ਸਰਵਰ URL ਦਿਉ ਜੀ'>
+<!ENTITY sync.verifying.label '…ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'ਰਿਕਵਰੀ ਕੁੰਜੀ ਗਲਤੀ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'ਟੈਬ ਜੰਤਰਾਂ ਉੱਤੇ ਭੇਜੋ'>
+<!ENTITY sync.button.send.label 'ਭੇਜੋ'>
+<!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; ਸੈਟਅੱਪ'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'ਟੈਬਾਂ ਭੇਜਣ ਲਈ &syncBrand.shortName.label; ਸੈਟ ਅੱਪ ਕਰੋ'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
+<!ENTITY sync.text.tab.sent.label 'ਤੁਹਾਡੀ ਟੈਬ ਭੇਜੀ ਗਈ!'>
+
 
