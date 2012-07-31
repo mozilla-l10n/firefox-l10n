@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Yritä uudestaan'>
 <!ENTITY sync.button.manual.label 'Muokkaa asetuksia käsin'>
 <!ENTITY sync.subtitle.nointernet.label 'Ei Internet-yhteyttä.'>
+<!ENTITY sync.subtitle.failaccount.label 'Tilin luonti laitteellasi epäonnistui.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Onko laitteellesi asennettu useampi versio Firefoxista? Tällä hetkellä &syncBrand.fullName.label; tukee vain yhtä asennettua Firefoxia. Poista muut Firefoxin asennukset ennen kuin käytät &syncBrand.shortName.label;ia.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Määritys valmis'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Tuemme vain yhtä &syncBrand.fullName.label; -tiliä.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Virheellinen käyttäjätunnus tai salasana.'>
+<!ENTITY sync.invalidserver.label 'Anna kelvollinen palvelimen osoite'>
+<!ENTITY sync.verifying.label 'Todennetaan…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Virheellinen palautusavain. Yritä uudestaan.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Lähetä välilehti laitteille'>
+<!ENTITY sync.button.send.label 'Lähetä'>
+<!ENTITY sync.button.set.up.sync.label 'Määritä &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Määritä &syncBrand.shortName.label; lähettääksesi välilehtiä'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Määritä &syncBrand.fullName.label; laitteellasi lähettääksesi välilehtiä toisiin laitteisiin.'>
+<!ENTITY sync.text.tab.sent.label 'Välilehti lähetettiin.'>

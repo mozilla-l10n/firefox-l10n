@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Sulje välilehti">
 <!ENTITY new_tab "Uusi välilehti">
+<!ENTITY one_tab "1 välilehti">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d välilehteä">
@@ -64,6 +65,7 @@
 <!ENTITY pref_category_general "Yleiset">
 <!ENTITY pref_category_privacy "Tietosuoja ja turvallisuus">
 <!ENTITY pref_category_content "Sisältö">
+<!ENTITY pref_category_importexport "Tuo &amp; vie">
 <!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
 <!ENTITY pref_do_not_track "Ilmoita sivustoille, etten halua niiden seuraavan minua">
 <!ENTITY pref_telemetry "Lähetä suorituskykytietoja">
@@ -72,10 +74,7 @@
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
 <!ENTITY pref_char_encoding_off "Älä näytä valikkoa">
-<!ENTITY pref_clear_history "Tyhjennä sivuhistoria">
-<!ENTITY pref_clear_history_confirm "Sivuhistoria poistetaan">
 <!ENTITY pref_clear_private_data "Poista yksityisyystiedot">
-<!ENTITY pref_clear_private_data_confirm "Selaimen asetukset sekä salasanat ja evästeet poistetaan">
 <!ENTITY pref_plugins "Liitännäiset">
 <!ENTITY pref_plugins_enabled "Käytössä">
 <!ENTITY pref_plugins_tap_to_play "Toista painamalla">
@@ -88,17 +87,30 @@
 <!ENTITY pref_font_size_xlarge "Erittäin suuri">
 <!ENTITY pref_use_master_password "Käytä pääsalasanaa">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Näytä hakuehdotukset">
+<!ENTITY pref_import_android "Tuo Androidista">
+<!ENTITY pref_private_data_history "Sivu- ja lataushistoria">
+<!ENTITY pref_private_data_formdata "Lomake- ja hakuhistoria">
+<!ENTITY pref_private_data_cookies "Evästeet">
+<!ENTITY pref_private_data_passwords "Tallennetut salasanat">
+<!ENTITY pref_private_data_cache "Väliaikaistiedostot">
+<!ENTITY pref_private_data_sessions "Voimassa olevat kirjautumiset">
+<!ENTITY pref_private_data_offlineApps "Verkkosivustojen yhteydettömän tilan tiedot">
+<!ENTITY pref_private_data_siteSettings "Sivustoasetukset">
 
 <!ENTITY quit "Lopeta">
 
 <!ENTITY addons "Lisäosat">
 <!ENTITY downloads "Lataukset">
+<!ENTITY apps "Sovellukset">
 <!ENTITY char_encoding "Merkistökoodaus">
 
 <!ENTITY share "Jaa">
 <!ENTITY share_title "Jaa palvelulla">
+<!ENTITY share_image_failed "Kuvan jakaminen ei onnistunut">
 <!ENTITY save_as_pdf "Tallenna PDF-muodossa">
 <!ENTITY find_in_page "Etsi sivulta">
+<!ENTITY desktop_mode "Pyydä sivuston työpöytäversiota">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -112,6 +124,9 @@
 <!ENTITY contextmenu_remove_bookmark "Poista">
 <!ENTITY contextmenu_add_to_launcher "Lisää kotinäkymään">
 <!ENTITY contextmenu_share "Jaa">
+<!ENTITY contextmenu_pasteandgo "Liitä ja avaa">
+<!ENTITY contextmenu_paste "Liitä">
+<!ENTITY contextmenu_copyurl "Kopioi osoite">
 <!ENTITY contextmenu_edit_bookmark "Muokkaa">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -128,9 +143,10 @@
 <!ENTITY site_settings_clear        "Poista">
 <!ENTITY site_settings_no_settings  "Ei löytynyt tallennettuja asetuksia.">
 
-<!ENTITY add_to_reading_list "Lisää lukulistaan">
+<!ENTITY reading_list "Lukulista">
 <!ENTITY reading_list_added "Sivu lisättiin lukulistaan">
 <!ENTITY reading_list_removed "Sivu poistettiin lukulistalta">
+<!ENTITY reading_list_failed "Sivun lisääminen lukulistaan epäonnistui">
 <!ENTITY reader_mode "Lukutila">
 
 <!ENTITY masterpassword_create_title "Aseta pääsalasana">
@@ -140,6 +156,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Peruuta">
+<!ENTITY button_clear_data "Poista tiedot">
 
 <!ENTITY abouthome_addons_title "Lisäosat &brandShortName;ille">
 <!ENTITY abouthome_addons_browse "Selaa kaikkia &brandShortName;in lisäosia">
@@ -170,3 +187,17 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Sivustoa hallinnoi">
+
+<!ENTITY private_data_success "Yksityistiedot poistettiin">
+<!ENTITY private_data_fail "Joitain yksityistietoja ei voitu poistaa">
+
+<!ENTITY bookmarkhistory_button_import "Tuo">
+<!ENTITY bookmarkhistory_import_both "Tuodaan kirjanmerkkejä ja sivuhistoriaa
+                                      Androidista">
+<!ENTITY bookmarkhistory_import_bookmarks "Tuodaan kirjanmerkkejä
+                                           Androidista">
+<!ENTITY bookmarkhistory_import_history "Tuodaan sivuhistoriaa
+                                         Androidista">
+<!ENTITY bookmarkhistory_import_wait "Odota...">
+
+<!ENTITY webapp_generic_name "Sovellus">
