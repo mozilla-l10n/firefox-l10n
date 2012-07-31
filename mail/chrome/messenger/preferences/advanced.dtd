@@ -55,8 +55,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey "П">
 <!ENTITY showUpdates.label "Паказаць гісторыю абнаўленняў">
 <!ENTITY showUpdates.accesskey "г">
-<!ENTITY useService.label "Use a background service to install updates">
-<!ENTITY useService.accesskey "b">
+<!ENTITY useService.label "Ужываць фонаваю службу для ўсталявання абналенняў">
+<!ENTITY useService.accesskey "У">
 <!ENTITY showSettings.label "Наладжванні…">
 <!ENTITY showSettings.accesskey "л">
 <!ENTITY proxiesConfigure.label "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">

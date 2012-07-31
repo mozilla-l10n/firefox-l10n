@@ -32,20 +32,20 @@
 <!ENTITY history_older_section "Раней, чым тыдзень назад">
 <!ENTITY reload "Абнавіць">
 <!ENTITY forward "Наперад">
-<!ENTITY menu "Menu">
-<!ENTITY back "Back">
-<!ENTITY stop "Stop">
-<!ENTITY site_security "Site Security">
-<!ENTITY close_tab "Close Tab">
+<!ENTITY menu "Меню">
+<!ENTITY back "Назад">
+<!ENTITY stop "Спыніць">
+<!ENTITY site_security "Бяспека пляцоўкі">
+<!ENTITY close_tab "Зачыніць устаўку">
 <!ENTITY new_tab "Новая ўстаўка">
-<!ENTITY num_tabs "&#037;d tabs">
+<!ENTITY num_tabs "&#037;d устаўкі(-ак)">
 <!ENTITY new_tab_opened "Адчынена новая ўстаўка">
 <!ENTITY settings "Наладжванні">
 <!ENTITY settings_title "Наладжванні">
 <!ENTITY pref_category_general "Агульныя">
 <!ENTITY pref_category_privacy "Адасабленне і бяспека">
 <!ENTITY pref_category_content "Змесціва">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "Імпарт і экспарт">
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
 <!ENTITY pref_do_not_track "Забараняць сеціўным пляцоўкам сачыць за мною">
 <!ENTITY pref_telemetry "Дасыланне здаткаў працавыніковасці">
@@ -67,16 +67,16 @@
 <!ENTITY pref_font_size_xlarge "Звыш-вялікі">
 <!ENTITY pref_use_master_password "Ужываць галоўны пароль">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
-<!ENTITY pref_private_data_cookies "Cookies">
-<!ENTITY pref_private_data_passwords "Saved passwords">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Active logins">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
-<!ENTITY pref_search_suggestions "Show search suggestions">
+<!ENTITY pref_import_android "Імпарт з Android">
+<!ENTITY pref_private_data_history "Гісторыя азірання і сцягванняў">
+<!ENTITY pref_private_data_formdata "Гісторыя пошуку і запаўнення формаў">
+<!ENTITY pref_private_data_cookies "Біркі">
+<!ENTITY pref_private_data_passwords "Захаваныя паролі">
+<!ENTITY pref_private_data_cache "Запаснік">
+<!ENTITY pref_private_data_sessions "Дзейныя ўваходы">
+<!ENTITY pref_private_data_offlineApps "Пазасеткавыя здаткі пляцовак сеціва">
+<!ENTITY pref_private_data_siteSettings "Перавагі пляцовак">
+<!ENTITY pref_search_suggestions "Паказаць прапановы пошуку">
 <!ENTITY quit "Выйсці">
 <!ENTITY addons "Дадаткі">
 <!ENTITY downloads "Загрузкі">
@@ -84,22 +84,22 @@
 <!ENTITY share "Дзяліцца">
 <!ENTITY share_title "Падзеляецца праз">
 <!ENTITY save_as_pdf "Захаваць як PDF">
-<!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Request Desktop Site">
-<!ENTITY find_text "Find in Page">
-<!ENTITY find_prev "Previous">
-<!ENTITY find_next "Next">
-<!ENTITY find_close "Close">
+<!ENTITY find_in_page "Знайсці на старонцы">
+<!ENTITY desktop_mode "Запыт настольнай пляцоўкі">
+<!ENTITY find_text "Знайсці на старонцы">
+<!ENTITY find_prev "Папярэдняя">
+<!ENTITY find_next "Наступная">
+<!ENTITY find_close "Закрыць">
 <!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
-<!ENTITY contextmenu_remove_history "Remove">
+<!ENTITY contextmenu_remove_history "Выдаліць">
 <!ENTITY contextmenu_remove_bookmark "Прыняць">
 <!ENTITY contextmenu_add_to_launcher "Дадаць на хатні экран">
 <!ENTITY contextmenu_share "Дзяліцца">
-<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
-<!ENTITY contextmenu_paste "Paste">
-<!ENTITY contextmenu_copyurl "Copy Address">
+<!ENTITY contextmenu_pasteandgo "Уставіць і пайсці">
+<!ENTITY contextmenu_paste "Уставіць">
+<!ENTITY contextmenu_copyurl "Скапіяваць адрас ">
 <!ENTITY contextmenu_edit_bookmark "Праўка">
-<!ENTITY history_removed "Page removed">
+<!ENTITY history_removed "Старонка выдалена">
 <!ENTITY bookmark_edit_title "Праўка закладкі">
 <!ENTITY bookmark_edit_name "Назва">
 <!ENTITY bookmark_edit_location "Месцазнаходжанне">
@@ -108,17 +108,17 @@
 <!ENTITY site_settings_cancel "Скасаваць">
 <!ENTITY site_settings_clear "Ачысціць">
 <!ENTITY site_settings_no_settings "Няма наладжванняў для ачысткі.">
-<!ENTITY add_to_reading_list "Add to Reading List">
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
-<!ENTITY reader_mode "Reader Mode">
+<!ENTITY add_to_reading_list "Дадаць да спісу чытання">
+<!ENTITY reading_list_added "Старонка дададзена ў ваш спіс чытання">
+<!ENTITY reading_list_removed "Старонка выдалена з вашага спісу чытання">
+<!ENTITY reader_mode "Рэжым чытання">
 <!ENTITY masterpassword_create_title "Стварэнне галоўны пароль">
 <!ENTITY masterpassword_remove_title "Выдаленне галоўнага пароля">
 <!ENTITY masterpassword_password "Пароль">
 <!ENTITY masterpassword_confirm "Пацвердзіць пароль">
 <!ENTITY button_ok "Добра">
 <!ENTITY button_cancel "Скасаваць">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_clear_data "Ачысціць здаткі">
 <!ENTITY abouthome_addons_title "Дадаткі для вашага &brandShortName;">
 <!ENTITY abouthome_addons_browse "Азірнуць усе дадткі &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Вашы апошнія ўстаўкі">
@@ -132,15 +132,15 @@
 <!ENTITY filepicker_audio_title "Выбраць ці запісаць гук">
 <!ENTITY filepicker_image_title "Выбраць выяву ці зрабіць фота">
 <!ENTITY filepicker_video_title "Выбраць ці запісаць відэя">
-<!ENTITY identity_connected_to "You are connected to">
-<!ENTITY identity_run_by "which is run by">
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY identity_connected_to "Вы з злучаны з">
+<!ENTITY identity_run_by "які падтрымліваецца">
+<!ENTITY bookmarkhistory_button_import "Імпартаваць">
+<!ENTITY bookmarkhistory_import_both "Імпартаванне закладак і гісторыі
+                                      з Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Імпартаванне закладак
+                                           з Android">
+<!ENTITY bookmarkhistory_import_history "Імпартаванне закладак і гісторыі
+                                         з Android">
+<!ENTITY bookmarkhistory_import_wait "Пачакайце, калі ласка...">
+<!ENTITY private_data_success "Асабістыя здаткі ачышчаныя">
+<!ENTITY private_data_fail "Асобныя асабістыя здаткі немагчыма ачысціць">
