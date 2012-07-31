@@ -51,8 +51,8 @@
 <!ENTITY viewVideoCmd.accesskey       "v">
 <!ENTITY viewBGImageCmd.label         "Afficher l'image de fond">
 <!ENTITY viewBGImageCmd.accesskey     "h">
-<!ENTITY setWallpaperCmd.label        "Définir comme fond d'écran">
-<!ENTITY setWallpaperCmd.accesskey    "f">
+<!ENTITY setDesktopBackgroundCmd.label     "Choisir comme fond d'écran…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "f">
 <!ENTITY bookmarkPageCmd.label        "Marquer cette page…">
 <!ENTITY bookmarkPageCmd.accesskey    "p">
 <!ENTITY bookmarkLinkCmd.label        "Marquer ce lien…">
