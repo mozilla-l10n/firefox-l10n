@@ -20,6 +20,16 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "ਪਲੱਗਇਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ਜਾਂ ਨਾ-ਮੌਜੂਦ ਪਲੱਗਇਨ ਖੁਦ ਲੱਭੋ।">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ਨੂੰ ਪਲੱਗਇਨ ਦੇ ਕੰਮ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।">
   
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre                             "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ, ਪਰ &brandShortName; ਇਸ ਜੰਤਰ ਉੱਤੇ ਫਲੈਸ਼ ਨਹੀਂ ਚਲਾ ਸਕਦਾ ਹੈ। ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "…ਹੋਰ ਜਾਣੋ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
+
 <!ENTITY missingPlugin                                       "ਇਹ ਸਮੱਗਰੀ ਵੇਖਾਉਣ ਲਈ ਪਲੱਗਇਨ ਦੀ ਲੋੜ ਹੈ।">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਛੂਹੋ।">
