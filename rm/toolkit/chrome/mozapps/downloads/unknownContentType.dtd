@@ -37,13 +37,13 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "Ti vuls telechargiar la suandanta datoteca:">
+<!ENTITY  intro2.label                "Ti vuls telechargiar la suandanta datoteca:">
 <!ENTITY  from.label                  "Da:">
 <!ENTITY  actionQuestion.label        "Tge duai &brandShortName; far cun questa datoteca?">
 
 <!ENTITY  openWith.label              "Avrir cun">
 <!ENTITY  openWith.accesskey          "A">
-<!ENTITY  other.label                 "Auters...">
+<!ENTITY  other.label                 "Auters…">
 
 <!ENTITY  saveFile.label              "Memorisar la datoteca">
 <!ENTITY  saveFile.accesskey          "M">
@@ -53,9 +53,9 @@
 
 <!ENTITY  whichIsA.label              "Dal tip:">
 
-<!ENTITY  chooseHandlerMac.label      "Tschertgar en...">
+<!ENTITY  chooseHandlerMac.label      "Tschertgar en…">
 <!ENTITY  chooseHandlerMac.accesskey  "T">
-<!ENTITY  chooseHandler.label         "Tschertgar en...">
+<!ENTITY  chooseHandler.label         "Tschertgar en…">
 <!ENTITY  chooseHandler.accesskey     "T">
 
 <!ENTITY  unknownPromptText.label     "Vuls ti memorisar questa datoteca sin in purtader da datas?">
