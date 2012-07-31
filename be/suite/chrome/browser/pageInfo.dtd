@@ -8,12 +8,12 @@
 <!ENTITY selectall.accesskey "у">
 <!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "w">
-<!ENTITY copyLinks.label "Copy Link(s)">
-<!ENTITY copyLinks.accesskey "L">
-<!ENTITY openInNewTab.label "Open in New Tab">
-<!ENTITY openInNewTab.accesskey "T">
-<!ENTITY openInNewWindow.label "Open in New Window">
-<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY copyLinks.label "Скапіяваць спасылку(-і)">
+<!ENTITY copyLinks.accesskey "с">
+<!ENTITY openInNewTab.label "Адчыніць у новай устаўцы">
+<!ENTITY openInNewTab.accesskey "А">
+<!ENTITY openInNewWindow.label "Адкрыць у новым акне">
+<!ENTITY openInNewWindow.accesskey "А">
 <!ENTITY generalTab "Агульныя">
 <!ENTITY generalTab.accesskey "А">
 <!ENTITY generalURL "Адрас:">

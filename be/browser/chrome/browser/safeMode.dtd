@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title "Бяспечны рэжым &brandShortName;">
 <!ENTITY window.maxWidth "400">
 <!ENTITY startSafeMode.label "Start in Safe Mode">
-<!ENTITY resetProfile.label "Reset &brandShortName;">
+<!ENTITY resetProfile.label "Скінуць &brandShortName;">
 <!ENTITY safeModeDescription3.label "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
 <!ENTITY safeModeDescription4.label "Your add-ons and custom settings will be temporarily disabled.">
 <!ENTITY resetProfileInstead.label "You can also Reset &brandShortName; if you want to start fresh.">
