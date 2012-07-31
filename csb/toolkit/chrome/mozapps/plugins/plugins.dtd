@@ -48,3 +48,6 @@
 <!ENTITY report.failed                                       "Felënk wësłaniô.">
 <!ENTITY report.unavailable                                  "Felënk przistãpnëch repòrtów.">
 <!ENTITY report.please                                       "Sélôj rapòrt ò awarii">
+<!ENTITY unsupportedPlatform.learnMore 						 "Wicy…">
+<!ENTITY unsupportedPlatform.post 							 "">
+<!ENTITY unsupportedPlatform.pre "Przeprôszómë, ale &brandShortName; ni mòże òdtwarzac filmów ôrtu Flash na tim ùrządzeniu.">
