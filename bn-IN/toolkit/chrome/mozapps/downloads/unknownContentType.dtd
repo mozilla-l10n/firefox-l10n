@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "খোলার জন্য আপনি">
+<!-- ENTITY  intro.label                 "খোলার জন্য আপনি" -->
 <!ENTITY  from.label                  "চিহ্নিত স্থান নির্বাচন করেছেন:">
 <!ENTITY  actionQuestion.label        "&brandShortName;-র দ্বারা এই ফাইলের কি ব্যবস্থা করা হবে?">
 

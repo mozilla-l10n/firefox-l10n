@@ -420,8 +420,8 @@ items are mutually exclusive. -->
 <!-- ENTITY bookmarkLinkCmd.accesskey    "L" -->
 <!-- ENTITY bookmarkFrameCmd.label       "বর্তমান ফ্রেম বুকমার্ক করুন..." -->
 <!-- ENTITY bookmarkFrameCmd.accesskey   "F" -->
-<!ENTITY sendPageCmd.label            "লিঙ্ক প্রেরণ করুন...">
-<!ENTITY sendPageCmd.accesskey        "e">
+<!-- ENTITY sendPageCmd.label            "লিঙ্ক প্রেরণ করুন..." -->
+<!-- ENTITY sendPageCmd.accesskey        "e" -->
 <!ENTITY savePageCmd.label            "নতুন নামে পৃষ্ঠা সংরক্ষণ করুন...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -431,16 +431,16 @@ items are mutually exclusive. -->
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY saveLinkCmd.label            "নতুন নামে লিঙ্ক সংরক্ষণ করুন...">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "লিঙ্ক প্রেরণ করুন..."> 
-<!ENTITY sendLinkCmd.accesskey        "d">
+<!-- ENTITY sendLinkCmd.label            "লিঙ্ক প্রেরণ করুন..." -->
+<!-- ENTITY sendLinkCmd.accesskey        "d" -->
 <!ENTITY saveImageCmd.label           "নতুন নামে ছবি সংরক্ষণ করুন...">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "ছবি প্রেরণ করুন...">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "ভিডিও পাঠিয়ে দিন…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "অডিও পাঠিয়ে দিন…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!-- ENTITY sendImageCmd.label           "ছবি প্রেরণ করুন..." -->
+<!-- ENTITY sendImageCmd.accesskey       "n" -->
+<!-- ENTITY sendVideoCmd.label           "ভিডিও পাঠিয়ে দিন…" -->
+<!-- ENTITY sendVideoCmd.accesskey       "n" -->
+<!-- ENTITY sendAudioCmd.label           "অডিও পাঠিয়ে দিন…" -->
+<!-- ENTITY sendAudioCmd.accesskey       "n" -->
 <!ENTITY saveVideoCmd.label           "নতুন রূপে ভিডিও সংরক্ষণ করুন…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "নতুন রূপে অডিও সংরক্ষণ করুন…">
