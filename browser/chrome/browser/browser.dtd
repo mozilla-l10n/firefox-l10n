@@ -228,7 +228,6 @@
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "ಚಿತ್ರವನ್ನು ಕಳುಹಿಸು...">
 <!ENTITY copyLinkCmd.label            "ತಾಣದ ವಿಳಾಸವನ್ನು (ಲಿಂಕ್ ಲೋಕೇಶನ್)  ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ಚಿತ್ರದ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
@@ -646,4 +645,6 @@ items are mutually exclusive. -->
 <!ENTITY social.sharePopup.undo.accesskey "U">
 <!ENTITY social.sharePopup.ok.label       "ಸರಿ">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
+<!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
+<!ENTITY emailPageCmd.accesskey       "E">
 

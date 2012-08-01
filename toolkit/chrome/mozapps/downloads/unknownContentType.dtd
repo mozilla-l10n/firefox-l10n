@@ -36,8 +36,7 @@
 #
 # ***** END LICENSE BLOCK *****
 -->
-
-<!ENTITY  intro.label                 "ನೀವು ಇದನ್ನು ತೆರೆಯಲು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ">
+<!ENTITY  intro2.label                "ನೀವು ಇದನ್ನು ತೆರೆಯಲು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ:">
 <!ENTITY  from.label                  "ಇಂದ:">
 <!ENTITY  actionQuestion.label        "&brandShortName;ಈ ಕಡತದಿಂದ ಏನು ಮಾಡಬೇಕು?">
 
