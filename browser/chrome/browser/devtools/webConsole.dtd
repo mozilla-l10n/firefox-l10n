@@ -37,6 +37,6 @@
 <!ENTITY positionMenu.below "In basso">
 <!ENTITY positionMenu.window "Finestra">
 <!ENTITY filterBox.placeholder "Filtro">
-<!ENTITY btnClear.label "Svuota">
-<!ENTITY btnClear.tooltip "Elimina i messaggi nella Console web">
+<!ENTITY btnClear.label "Cancella">
+<!ENTITY btnClear.tooltip "Cancella il contenuto della Console web">
 <!ENTITY btnClose.tooltip "Chiudi la Console web">
