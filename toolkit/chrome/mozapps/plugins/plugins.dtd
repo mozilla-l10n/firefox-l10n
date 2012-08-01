@@ -44,3 +44,6 @@
 <!ENTITY report.failed                                       "Spediçión no arioscîa.">
 <!ENTITY report.unavailable                                  "No gh'é nisciùn report.">
 
+<!ENTITY unsupportedPlatform.pre "Ne spiâxe, ma no l'é poscìbile adêuviâ Flash co-o &brandShortName; in sce quésto dispoxitîvo.">
+<!ENTITY unsupportedPlatform.learnMore "Âtre informaçioìn…">
+<!ENTITY unsupportedPlatform.post "">
