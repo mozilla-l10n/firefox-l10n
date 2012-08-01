@@ -183,6 +183,12 @@
 <!ENTITY event.description.accesskey                      "s">
 <!ENTITY event.attachments.label                          "Załączniki:" >
 <!ENTITY event.attachments.accesskey                      "n" >
+
+<!ENTITY event.attachments.menubutton.label "Załącz">
+<!ENTITY event.attachments.menubutton.accesskey "Z">
+<!ENTITY event.attachments.url.label "Stronę WWW…">
+<!ENTITY event.attachments.url.accesskey "S">
+
 <!ENTITY event.attachments.popup.remove.label             "Usuń" >
 <!ENTITY event.attachments.popup.remove.accesskey         "U" >
 <!ENTITY event.attachments.popup.open.label               "Otwórz" >
