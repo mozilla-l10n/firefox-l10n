@@ -231,6 +231,10 @@
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
 <!ENTITY event.url.label                                  "관련 링크:" >
 <!ENTITY event.priority2.label                            "중요도:">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.menubutton.label               "첨부파일">
+<!ENTITY event.attachments.url.accesskey                  "W">
+<!ENTITY event.attachments.url.label                      "웹 페이지…">
 
 <!ENTITY event.reminder.none.label                        "알림 없음 " >
 <!ENTITY event.reminder.0minutes.before.label             "지금 바로" >
