@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Låt &syncBrand.shortName.label; skicka flikar'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Ställ in &syncBrand.fullName.label; på din enhet så flikar skickas till andra enheter.'>
 <!ENTITY sync.text.tab.sent.label 'Fliken skickades!'>
+<!ENTITY sync.text.tab.not.sent.label 'Det uppstod ett problem vid skickandet av fliken.'>
