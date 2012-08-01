@@ -51,3 +51,7 @@
 <!ENTITY report.unavailable                                  "No gh'é nisciùn report.">
 
 <!ENTITY checkForUpdates "Contròlla i agiornaménti…">
+
+<!ENTITY unsupportedPlatform.pre "Ne spiâxe, ma no l'é poscìbile adêuviâ Flash co-o &brandShortName; in sce quésto dispoxitîvo.">
+<!ENTITY unsupportedPlatform.learnMore "Âtre informaçioìn…">
+<!ENTITY unsupportedPlatform.post "">
