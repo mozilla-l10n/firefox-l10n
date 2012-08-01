@@ -6,7 +6,7 @@
 <!ENTITY helpMenuWin.label "Hjælp">
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Teknisk information">
-<!ENTITY helpTroubleshootingInfo.accesskey "p">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Genstart med tilføjelser deaktiveret…">
 <!ENTITY helpSafeMode.accesskey "G">
 <!ENTITY releaseCmd2.label "Udgivelsesnoter">

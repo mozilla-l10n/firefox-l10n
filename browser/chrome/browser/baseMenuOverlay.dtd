@@ -19,7 +19,7 @@
 <!ENTITY helpSafeMode.accesskey   "G">
 
 <!ENTITY helpTroubleshootingInfo.label      "Teknisk information…">
-<!ENTITY helpTroubleshootingInfo.accesskey  "p">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "Indsend feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "I">
