@@ -62,3 +62,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurazione di &syncBrand.shortName.label; per l’invio di schede">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura &syncBrand.fullName.label; per inviare le schede ad altri dispositivi.">
 <!ENTITY sync.text.tab.sent.label "La scheda è stata inviata.">
+<!ENTITY sync.text.tab.not.sent.label "Si è verificato un problema con l'invio della scheda.">
