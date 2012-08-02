@@ -54,8 +54,8 @@
 <!ENTITY viewVideoCmd.accesskey "к">
 <!ENTITY viewBGImageCmd.label "Открыть фоновое изображение">
 <!ENTITY viewBGImageCmd.accesskey "р">
-<!ENTITY setWallpaperCmd.label "Поместить на Рабочий стол">
-<!ENTITY setWallpaperCmd.accesskey "е">
+<!ENTITY setDesktopBackgroundCmd.label "Сделать фоном рабочего стола…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "ф">
 <!ENTITY bookmarkPageCmd.label "Добавить страницу в закладки…">
 <!ENTITY bookmarkPageCmd.accesskey "б">
 <!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки…">
