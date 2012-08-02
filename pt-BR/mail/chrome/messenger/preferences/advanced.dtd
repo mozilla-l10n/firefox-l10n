@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Mais informações sobre o envio de dados">
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+
+<!ENTITY scrolling.label               "Navegação">
+<!ENTITY useAutoScroll.label           "Autorolagem">
+<!ENTITY useAutoScroll.accesskey       "T">
+<!ENTITY useSmoothScrolling.label      "Rolagem suave">
+<!ENTITY useSmoothScrolling.accesskey  "R">
+
 <!ENTITY systemIntegration.label       "Integração com o sistema">
 <!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o aplicativo de e-mail padrão">
 <!ENTITY alwaysCheckDefault.accesskey  "o">
@@ -85,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace "Espaço em disco">
-<!ENTITY offlineCompact.label "Condensar pastas se puder liberar pelo menos">
-<!ENTITY offlineCompact.accesskey "n">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Condensar todas as pastas se puder liberar pelo menos">
+<!ENTITY offlineCompactFolders.accesskey "n">
+<!ENTITY offlineCompactFoldersMB.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
