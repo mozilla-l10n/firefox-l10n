@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "o">
 <!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
 <!ENTITY viewBGImageCmd.accesskey     "z">
-<!ENTITY setWallpaperCmd.label        "Als Hintergrundbild setzen">
-<!ENTITY setWallpaperCmd.accesskey    "s">
+<!ENTITY setDesktopBackgroundCmd.label     "Als Hintergrundbild einrichten…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "s">
 <!ENTITY bookmarkPageCmd.label        "Lesezeichen für diese Seite hinzufügen…">
 <!ENTITY bookmarkPageCmd.accesskey    "z">
 <!ENTITY bookmarkLinkCmd.label        "Lesezeichen für diesen Link hinzufügen…">
