@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Calendar">
+<!ENTITY lightning.preferencesLabel "Kalendarz">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label        "Wydarzenie…">
@@ -13,7 +13,7 @@
 <!ENTITY lightning.menupopup.new.calendar.label     "Kalendarz…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "a">
 
-<!-- Open menu popup in File menu -->  
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Otwórz">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Zapisana wiadomość…">
