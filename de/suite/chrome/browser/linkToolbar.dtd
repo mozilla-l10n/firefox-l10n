@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Website-Navigationsleiste">
 <!ENTITY linkToolbar.accesskey "i">
+<!ENTITY linkToolbar.tooltip "Website-Navigationsleiste">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Immer anzeigen">
