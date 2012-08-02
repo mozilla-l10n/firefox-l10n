@@ -8,4 +8,4 @@
 <!ENTITY addonAction.enable "Activar">
 <!ENTITY addonAction.disable "Desactivar">
 <!ENTITY addonAction.uninstall "Desinstalar">
-<!ENTITY addonAction.cancel "Cancelar">
+<!ENTITY addonAction.undo "Deshacer">
