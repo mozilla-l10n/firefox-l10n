@@ -22,7 +22,7 @@
 <!ENTITY btnPageNet.label "Red">
 <!ENTITY btnPageNet.tooltip "Registrar acceso a la red">
 <!ENTITY btnPageCSS.label "CSS">
-<!ENTITY btnPageCSS.tooltip "Registrar errores de parseo en el CSS">
+<!ENTITY btnPageCSS.tooltip "Registrar errores de análisis en el CSS">
 <!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Registrar excepciones JavaScript">
 <!ENTITY btnPageLogging.label "Registro">
