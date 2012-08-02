@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltysk">
 <!ENTITY  font.langGroup.el                       "Gryksk">
 <!ENTITY  font.langGroup.turkish                  "Turks">
-<!ENTITY  font.langGroup.unicode                  "Onre talen">
+<!ENTITY  font.langGroup.unicode1                 "Unikoade">
 <!ENTITY  font.langGroup.user-def                 "Troch brûker definiearre">
 <!ENTITY  font.langGroup.thai                     "Taisk">
 <!ENTITY  font.langGroup.hebrew                   "Hebrieusk">
