@@ -651,7 +651,7 @@ toolbar button -->
 <!ENTITY socialToolbar.title             "Buttun da la trav d'utensils sociala">
 <!ENTITY social.notLoggedIn.label        "Betg s'annunzià">
 
-<!ENTITY social.sharePopup.undo.label     "Annular il cundivider">
+<!ENTITY social.sharePopup.undo.label     "Annullar il cundivider">
 <!ENTITY social.sharePopup.undo.accesskey "U">
 <!ENTITY social.sharePopup.ok.label       "OK">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
