@@ -443,8 +443,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey "a">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
 <!ENTITY bookmarkThisFrameCmd.accesskey "D">
-<!ENTITY sendPageCmd.label "Wyślij odnośnik…" >
-<!ENTITY sendPageCmd.accesskey "n" >
+<!ENTITY emailPageCmd.label "Wyślij odnośnik…">
+<!ENTITY emailPageCmd.accesskey "n">
 <!ENTITY savePageCmd.label "Zapisz stronę jako…" >
 <!ENTITY savePageCmd.accesskey "p" >
 <!ENTITY savePageCmd.accesskey2 "s" >
@@ -461,12 +461,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Zapisz dźwięk jako…">
 <!ENTITY saveAudioCmd.accesskey       "s">
-<!ENTITY sendImageCmd.label "Wyślij obrazek…" >
-<!ENTITY sendImageCmd.accesskey "o" >
-<!ENTITY sendVideoCmd.label           "Wyślij wideo…">
-<!ENTITY sendVideoCmd.accesskey       "o">
-<!ENTITY sendAudioCmd.label           "Wyślij dźwięk…">
-<!ENTITY sendAudioCmd.accesskey       "d">
+<!ENTITY emailImageCmd.label "Wyślij obrazek…">
+<!ENTITY emailImageCmd.accesskey "o">
+<!ENTITY emailVideoCmd.label "Wyślij wideo…">
+<!ENTITY emailVideoCmd.accesskey "o">
+<!ENTITY emailAudioCmd.label "Wyślij dźwięk…">
+<!ENTITY emailAudioCmd.accesskey "o">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika" >
 <!ENTITY copyLinkCmd.accesskey "K" >
 <!ENTITY copyImageCmd.label "Kopiuj adres obrazka" >
