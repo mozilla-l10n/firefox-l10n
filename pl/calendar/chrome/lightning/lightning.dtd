@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Calendar">
+<!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label        "Wydarzenie…">
