@@ -22,6 +22,8 @@
 <!ENTITY codeEval.accesskey "C">
 <!ENTITY evaluate.label "Luacháil">
 <!ENTITY evaluate.accesskey "L">
+<!ENTITY filter.label "Filter">
+<!ENTITY filter.accesskey "F">
 
 <!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.accesskey "C">

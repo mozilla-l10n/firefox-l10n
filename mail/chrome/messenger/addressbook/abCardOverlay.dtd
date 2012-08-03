@@ -65,7 +65,7 @@
 <!ENTITY Home.tab "Príobháideach">
 <!ENTITY Home.accesskey "R">
 <!ENTITY HomeAddress.label "Seoladh:">
-<!ENTITY HomeAddress.accesskey "S">
+<!ENTITY HomeAddress.accesskey "d">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Cathair:">
@@ -95,7 +95,7 @@
 <!ENTITY Company.label "Eagras:">
 <!ENTITY Company.accesskey "g">
 <!ENTITY WorkAddress.label "Seoladh:">
-<!ENTITY WorkAddress.accesskey "S">
+<!ENTITY WorkAddress.accesskey "d">
 <!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Cathair:">

@@ -583,6 +583,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addNewTag.label "Clib Nua…">
 <!ENTITY addNewTag.accesskey "C">
+<!ENTITY manageTags.label "Manage Tags…">
+<!ENTITY manageTags.accesskey "M">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Ainm">
