@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label "Tuilleadh eolais faoi Theiliméadracht">
 <!ENTITY enableGlodaSearch.label "Cumasaigh Cuardach Cuimsitheach agus an tInneacsóir">
 <!ENTITY enableGlodaSearch.accesskey "e">
+
+<!ENTITY scrolling.label "Scrolling">
+<!ENTITY useAutoScroll.label "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey "U">
+<!ENTITY useSmoothScrolling.label "Úsáid mínscrollú">
+<!ENTITY useSmoothScrolling.accesskey "m">
+
 <!ENTITY systemIntegration.label "Comhtháthú Córais">
 <!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an cliant réamhshocraithe ríomhphoist">
 <!ENTITY alwaysCheckDefault.accesskey "a">
@@ -85,9 +92,9 @@
 <!ENTITY showOffline.accesskey "A">
 
 <!ENTITY Diskspace "Spás Diosca">
-<!ENTITY offlineCompact.label "Dlúthaigh fillteáin má sábhálfar níos mó ná">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label "MB in total">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

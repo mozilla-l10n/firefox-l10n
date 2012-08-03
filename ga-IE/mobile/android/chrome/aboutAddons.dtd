@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable "Cumasaigh">
 <!ENTITY addonAction.disable "Díchumasaigh">
 <!ENTITY addonAction.uninstall "Díshuiteáil">
-<!ENTITY addonAction.cancel "Cealaigh">
+<!ENTITY addonAction.undo "Cealaigh">

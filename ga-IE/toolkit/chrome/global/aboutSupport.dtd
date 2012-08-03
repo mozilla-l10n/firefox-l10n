@@ -47,6 +47,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Bailitheoir Dramhaíola Incriminteach">
 
+<!ENTITY aboutSupport.a11yTitle "Inrochtaineacht">
+<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Leaganacha Leabharlann">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Stair Suiteála">
