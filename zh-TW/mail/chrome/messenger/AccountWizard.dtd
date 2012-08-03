@@ -21,7 +21,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "身份識別">
-<!ENTITY identityDesc.label "每個帳號都有自已的識別內容以與別人區分，確保您所寄發的郵件不會由他人假冒。">
+<!ENTITY identityDesc.label "每個帳號都有自已的身份識別資料以與別人區分，確保您所寄發的郵件不會是他人假冒的。">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "請輸入您寄信時在「寄件者」欄要用的名字">
