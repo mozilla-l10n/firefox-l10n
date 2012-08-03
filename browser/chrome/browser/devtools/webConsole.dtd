@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
+
+<!ENTITY networkPanel.requestURL                  "URL de la requèsta">
+<!ENTITY networkPanel.requestMethod               "Metòde de la requèsta">
+<!ENTITY networkPanel.statusCode                  "Còde d'estat">
+
+<!ENTITY networkPanel.requestHeaders              "Entèstas de la requèsta">
+<!ENTITY networkPanel.requestCookie               "Cookie mandat">
+<!ENTITY networkPanel.requestBody                 "Contengut de la requèsta">
+<!ENTITY networkPanel.requestFormData             "Donadas de formulari mandadas">
+
+<!ENTITY networkPanel.responseHeaders             "Entèstas de la responsa">
+<!ENTITY networkPanel.responseBody                "Contengut de la responsa">
+<!ENTITY networkPanel.responseBodyCached          "Donadas en escondedor">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tipe de contengut desconegut">
+<!ENTITY networkPanel.responseNoBody              "Pas cap de contengut dins la responsa">
+<!ENTITY networkPanel.responseImage               "Imatge recebut">
+<!ENTITY networkPanel.responseImageCached         "Imatge en escondedor">

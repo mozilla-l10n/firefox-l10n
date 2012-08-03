@@ -1,39 +1,52 @@
-<!ENTITY window.width2 "485">
-<!ENTITY window.height "300">
-<!ENTITY starting.label "Aviada...">
-<!ENTITY scanning.label "Analisi per l'antivirús…">
-<!ENTITY downloads.title "Telecargaments">
-<!ENTITY cmd.pause.label "Pausa">
-<!ENTITY cmd.pause.accesskey "P">
-<!ENTITY cmd.resume.label "Tornar prene">
-<!ENTITY cmd.resume.accesskey "R">
-<!ENTITY cmd.cancel.label "Anullar">
-<!ENTITY cmd.cancel.accesskey "A">
-<!ENTITY cmd.show.label "Dobrir lo repertòri que conten lo fichièr">
-<!ENTITY cmd.show.accesskey "F">
-<!ENTITY cmd.showMac.label "Afichar dins lo Folder">
-<!ENTITY cmd.showMac.accesskey "F">
-<!ENTITY cmd.open.label "Dobrir">
-<!ENTITY cmd.open.accesskey "D">
-<!ENTITY cmd.openWith.label "Dobrir amb...">
-<!ENTITY cmd.openWith.accesskey "b">
-<!ENTITY cmd.retry.label "Tornar ensajar">
-<!ENTITY cmd.retry.accesskey "T">
-<!ENTITY cmd.goToDownloadPage.label "Anar a la pagina de telecargament">
-<!ENTITY cmd.goToDownloadPage.accesskey "h">
-<!ENTITY cmd.copyDownloadLink.label "Copiar l'adreça d'origina del telecargament">
-<!ENTITY cmd.copyDownloadLink.accesskey "d">
-<!ENTITY cmd.removeFromList.label "Levar de la tièra">
-<!ENTITY cmd.removeFromList.accesskey "e">
-<!ENTITY cmd.close.commandKey "w">
-<!ENTITY cmd.close2.commandKey "j">
-<!ENTITY cmd.close2Unix.commandKey "y">
-<!ENTITY cmd.clearList.label "Voidar la tièra">
-<!ENTITY cmd.clearList.tooltip "Lèva los telecargaments acabats, anullats o infructuoses de la tièra">
-<!ENTITY cmd.clearList.accesskey "V">
-<!ENTITY cmd.find.commandKey "f">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300"> 
+
+<!ENTITY starting.label                   "Aviada...">
+<!ENTITY scanning.label                   "Analisi per l'antivirús…">
+
+<!ENTITY downloads.title                  "Telecargaments">
+
+<!ENTITY cmd.pause.label                  "Pausa">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Tornar prene">
+<!ENTITY cmd.resume.accesskey             "r">
+<!ENTITY cmd.cancel.label                 "Anullar">
+<!ENTITY cmd.cancel.accesskey             "A">
+<!ENTITY cmd.show.label                   "Dobrir lo repertòri que conten lo fichièr">
+<!ENTITY cmd.show.accesskey               "f">
+<!ENTITY cmd.showMac.label                "Afichar dins lo Folder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.open.label                   "Dobrir">
+<!ENTITY cmd.open.accesskey               "D">
+<!ENTITY cmd.openWith.label               "Dobrir amb...">
+<!ENTITY cmd.openWith.accesskey           "b">
+<!ENTITY cmd.retry.label                  "Tornar ensajar">
+<!ENTITY cmd.retry.accesskey              "T">
+<!ENTITY cmd.goToDownloadPage.label       "Anar a la pagina de telecargament">
+<!ENTITY cmd.goToDownloadPage.accesskey   "g">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar l'adreça d'origina del telecargament">
+<!ENTITY cmd.copyDownloadLink.accesskey   "d">
+<!ENTITY cmd.removeFromList.label         "Levar de la tièra">
+<!ENTITY cmd.removeFromList.accesskey     "e">
+
+<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close2.commandKey            "j">
+<!ENTITY cmd.close2Unix.commandKey        "y">
+<!ENTITY cmd.clearList.label              "Voidar la tièra">
+<!ENTITY cmd.clearList.tooltip            "Lèva los telecargaments acabats, anullats o infructuoses de la tièra">
+<!ENTITY cmd.clearList.accesskey          "V">
+<!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
-<!ENTITY closeWhenDone.label "Tampar quand los telescargaments son acabats">
-<!ENTITY closeWhenDone.tooltip "Tampa la fenèstra dels telecargaments quand totes los fichièrs son completament telecargats">
-<!ENTITY showFolder.label "Visualizar aqueste repertòri">
-<!ENTITY searchBox.label "Recercar...">
+
+<!ENTITY closeWhenDone.label              "Tampar quand los telescargaments son acabats">
+<!ENTITY closeWhenDone.tooltip            "Tampa la fenèstra dels telecargaments quand totes los fichièrs son completament telecargats">
+
+<!ENTITY showFolder.label                 "Visualizar aqueste repertòri">
+<!ENTITY searchBox.label                  "Recercar...">

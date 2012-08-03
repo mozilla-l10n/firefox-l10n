@@ -1,16 +1,31 @@
-<!ENTITY windowtitle.label "&brandShortName; - Causissètz un perfil d'utilizaire">
-<!ENTITY profilename.label "Nom del perfil :">
-<!ENTITY start.label "Aviar &brandShortName;">
-<!ENTITY exit.label "Sortir">
-<!ENTITY availprofiles.label "Perfils disponibles">
-<!ENTITY newButton.label "Crear un perfil...">
-<!ENTITY newButton.accesskey "C">
-<!ENTITY renameButton.label "Tornar nomenar un perfil...">
-<!ENTITY renameButton.accesskey "T">
-<!ENTITY deleteButton.label "Suprimir un perfil...">
-<!ENTITY deleteButton.accesskey "S">
-<!ENTITY pmDescription.label "&brandShortName; garda las entresenhas que concernisson vòstres paramètres personals e preferéncias dins vòstre perfil.">
-<!ENTITY offlineState.label "Trabalhar sens connexion">
-<!ENTITY offlineState.accesskey "c">
-<!ENTITY autoSelect.label "Demandar pas a l'aviada">
-<!ENTITY autoSelect.accesskey "s">
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY            windowtitle.label      "&brandShortName; - Causissètz un perfil d'utilizaire">
+
+<!ENTITY            profilename.label      "Nom del perfil :">
+
+<!ENTITY            start.label            "Aviar &brandShortName;">
+<!ENTITY            exit.label             "Sortir">
+
+<!ENTITY            availprofiles.label    "Perfils disponibles">
+
+<!ENTITY            newButton.label        "Crear un perfil...">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "Tornar nomenar un perfil...">
+<!ENTITY            renameButton.accesskey "T">
+<!ENTITY            deleteButton.label     "Suprimir un perfil...">
+<!ENTITY            deleteButton.accesskey "S">
+<!-- manager entities -->
+
+<!ENTITY            pmDescription.label    "&brandShortName; garda las entresenhas que concernisson vòstres paramètres personals e preferéncias dins vòstre perfil.">
+
+<!ENTITY            offlineState.label    "Trabalhar sens connexion">
+<!ENTITY            offlineState.accesskey "c">
+
+<!ENTITY            autoSelect.label       "Demandar pas a l'aviada">
+<!ENTITY            autoSelect.accesskey   "s">

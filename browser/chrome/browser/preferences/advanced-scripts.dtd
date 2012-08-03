@@ -1,13 +1,15 @@
-<!ENTITY advancedJSDialog.title "Paramètres JavaScript avançats">
-<!ENTITY window.width "37em">
-<!ENTITY allowScripts.label "Autorizar los escriptes a :">
-<!ENTITY moveResizeWindows.label "Desplaçar o redimensionar las fenèstras existentas">
-<!ENTITY moveResizeWindows.accesskey "D">
-<!ENTITY raiseLowerWindows.label "Passar las fenèstras a l'avant o al rèire plan">
-<!ENTITY raiseLowerWindows.accesskey "R">
-<!ENTITY disableContextMenus.label "Desactivar o tornar plaçar los menuts contextuals">
-<!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "Amagar la barra d'estat">
-<!ENTITY hideStatusBar.accesskey "A">
-<!ENTITY changeStatusBar.label "Modificar lo tèxt de la barra d'estat">
-<!ENTITY changeStatusBar.accesskey "M">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY advancedJSDialog.title         "Paramètres JavaScript avançats">
+<!ENTITY window.width                   "37em">
+
+<!ENTITY allowScripts.label             "Autorizar los escripts a :">
+
+<!ENTITY moveResizePopupWindows.label     "Desplaçar o redimensionar de fenèstras popup">
+<!ENTITY moveResizePopupWindows.accesskey "D">
+<!ENTITY raiseLowerWindows.label        "Passar las fenèstras a l'avant o al rèire plan">
+<!ENTITY raiseLowerWindows.accesskey    "r">
+<!ENTITY disableContextMenus.label      "Desactivar o remplaçar los menuts contextuals">
+<!ENTITY disableContextMenus.accesskey  "D">

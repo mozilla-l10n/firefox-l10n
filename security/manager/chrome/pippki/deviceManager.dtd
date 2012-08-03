@@ -1,28 +1,36 @@
-<!ENTITY devmgr.title "Gestionari de periferics">
-<!ENTITY devmgr.devlist.label "Moduls e periferics de seguretat">
-<!ENTITY devmgr.details.title "Detalhs">
-<!ENTITY devmgr.details.title2 "Valor">
-<!ENTITY devmgr.status.label "Estat">
-<!ENTITY devmgr.version.label "Version">
-<!ENTITY devmgr.button.changeslotname.label "Cambiar lo nom del slot">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY devmgr.title                           "Gestionari de periferics">
+
+<!ENTITY devmgr.devlist.label                   "Moduls e periferics de seguretat">
+<!ENTITY devmgr.details.title                   "Detalhs">
+<!ENTITY devmgr.details.title2                  "Valor">
+<!ENTITY devmgr.status.label                    "Estat">
+<!ENTITY devmgr.version.label                   "Version">
+
+<!ENTITY devmgr.button.changeslotname.label     "Cambiar lo nom del slot">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "Connexion">
-<!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "Desconnexion">
-<!ENTITY devmgr.button.logout.accesskey "D">
-<!ENTITY devmgr.button.changepw.label "Cambiar lo senhal">
-<!ENTITY devmgr.button.changepw.accesskey "m">
-<!ENTITY devmgr.button.load.label "Cargar">
-<!ENTITY devmgr.button.load.accesskey "g">
-<!ENTITY devmgr.button.unload.label "Descargar">
-<!ENTITY devmgr.button.unload.accesskey "D">
-<!ENTITY devmgr.button.fips.accesskey "F">
-<!ENTITY loaddevice.info "Picar las entresenhas sul modul que volètz apondre.">
-<!ENTITY loaddevice.modname "Nom del modul :">
-<!ENTITY loaddevice.modname.accesskey "o">
-<!ENTITY loaddevice.modname.default "Modul PKCS#11 novèl">
-<!ENTITY loaddevice.filename "Nom de fichièr del modul :">
-<!ENTITY loaddevice.filename.accesskey "i">
-<!ENTITY loaddevice.browse "Percórrer...">
-<!ENTITY loaddevice.browse.accesskey "P">
-<!ENTITY loaddevice.title "Cargar un periferic PKCS#11">
+<!ENTITY devmgr.button.login.label              "Connexion">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "Desconnexion">
+<!ENTITY devmgr.button.logout.accesskey         "D">
+<!ENTITY devmgr.button.changepw.label           "Cambiar lo senhal">
+<!ENTITY devmgr.button.changepw.accesskey       "m">
+<!ENTITY devmgr.button.load.label               "Cargar">
+<!ENTITY devmgr.button.load.accesskey           "g">
+<!ENTITY devmgr.button.unload.label             "Descargar">
+<!ENTITY devmgr.button.unload.accesskey         "D">
+<!ENTITY devmgr.button.fips.accesskey           "F">
+
+<!ENTITY loaddevice.info                        "Picar las entresenhas sul modul que volètz apondre.">
+<!ENTITY loaddevice.modname                     "Nom del modul :">
+<!ENTITY loaddevice.modname.accesskey           "o">
+<!ENTITY loaddevice.modname.default             "Modul PKCS#11 novèl">
+<!ENTITY loaddevice.filename                    "Nom de fichièr del modul :">
+<!ENTITY loaddevice.filename.accesskey          "i">
+<!ENTITY loaddevice.browse                      "Percórrer...">
+<!ENTITY loaddevice.browse.accesskey            "P">
+
+<!ENTITY loaddevice.title                       "Cargar un periferic PKCS#11">

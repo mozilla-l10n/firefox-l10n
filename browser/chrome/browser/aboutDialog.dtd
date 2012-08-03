@@ -1,14 +1,81 @@
-<!ENTITY aboutDialog.title "A prepaus de &brandFullName;">
-<!ENTITY copyright "Contributors">
-<!ENTITY copyright.accesskey "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink "&lt; A prepaus de &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "version">
-<!ENTITY closeCmdGNOME.label        "Tampar">  
-<!ENTITY closeCmdGNOME.accesskey    "T">
-<!ENTITY copyrightInfo1 "©1998-2009 Contributors. Totes los dreches reservats(">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Entresenhas sus la licéncia">
-<!ENTITY copyrightInfo2             ").">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY aboutDialog.title          "A prepaus de &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
+<!ENTITY warningDesc.version        "&brandShortName; es experimental e pòt èsser instable.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Manda automaticament d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " es una ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "comunautat mondiala">
+<!ENTITY community.exp.end          " de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.">
+
+<!ENTITY community.start2           "&brandShortName; es concebut per ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", una ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "contributors">
+<!ENTITY community.end3             " que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.">
+
+<!ENTITY contribute.start           "Aquò vos interèssa ?">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Participatz !">
+<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license        "Entresenhas sus la licéncia">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights         "Dreches de l'utilizaire">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+
+<!ENTITY bottomLinks.privacy        "Politica de confidencialitat">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.checkingForUpdates  "Recèrca de mesas a jorn...">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Verificacion de compatibilitat dels moduls...">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; es a jorn">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Las mesas a jorn son desactivadas per vòstre administrator del sistèma">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.failed.start        "La mesa a jorn a fracassat.">
+<!ENTITY update.failed.linkText     "Telecargar la darrièra version">
+<!ENTITY update.failed.end          "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.manual.start        "Mesas a jorn disponiblas a">
+<!ENTITY update.manual.end          "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+
+<!ENTITY update.downloading.start   "Telecargament de mesa a jorn—  ">
+<!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "Aplicacion de la mesa a jorn…">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "Actualament, utilizatz lo canal de mesa a jorn ">
+<!ENTITY channel.description.end    ". ">

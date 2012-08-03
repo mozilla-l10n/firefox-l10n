@@ -1,22 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+
 <!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!ENTITY mainWindow.titlemodifierseparator "-">
-<!ENTITY mainWindow.preface "Font de :">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Font de : ">
+
 <!ENTITY fileMenu.label "Fichièr">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Enregistrar la pagina jos...">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Mesa en pagina...">
-<!ENTITY pageSetupCmd.accesskey "m">
+<!ENTITY pageSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Apercebut abans estampatge">
 <!ENTITY printPreviewCmd.accesskey "b">
 <!ENTITY printCmd.label "Estampar...">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY closeCmd.label "Tampar">
 <!ENTITY closeCmd.accesskey "T">
 <!ENTITY closeCmd.commandkey "W">
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
 <!ENTITY textEnlarge.commandkey3 "">
@@ -24,36 +41,45 @@
 <!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
+
 <!ENTITY goToLineCmd.label "Anar a la linha...">
 <!ENTITY goToLineCmd.accesskey "A">
 <!ENTITY goToLineCmd.commandkey "I">
-<!ENTITY viewMenu.label "Afichatge">
-<!ENTITY viewMenu.accesskey "V">
+
+<!ENTITY viewMenu.label           "Afichatge">
+<!ENTITY viewMenu.accesskey       "h">
 <!ENTITY reloadCmd.label "Actualizar">
 <!ENTITY reloadCmd.accesskey "A">
 <!ENTITY reloadCmd.commandkey "a">
-<!ENTITY menu_wrapLongLines.title "Retorn a la linha automatica">
+<!ENTITY menu_wrapLongLines.title "Retorn a la linha automatica"> 
 <!ENTITY menu_wrapLongLines.accesskey "R">
 <!ENTITY menu_highlightSyntax.label "Coloracion sintaxica">
 <!ENTITY menu_highlightSyntax.accesskey "C">
 <!ENTITY menu_textSize.label "Talha de tèxt">
 <!ENTITY menu_textSize.accesskey "x">
-<!ENTITY menu_textEnlarge.label "Pus bèla">
+<!ENTITY menu_textEnlarge.label "Pus granda">
 <!ENTITY menu_textEnlarge.accesskey "g">
 <!ENTITY menu_textReduce.label "Pus pichona">
-<!ENTITY menu_textReduce.accesskey "p">
+<!ENTITY menu_textReduce.accesskey "P">
 <!ENTITY menu_textReset.label "Normala">
 <!ENTITY menu_textReset.accesskey "N">
-<!ENTITY findOnCmd.label "Recercar dins la pagina...">
+
+<!ENTITY findOnCmd.label     "Recercar dins la pagina...">
 <!ENTITY findOnCmd.accesskey "R">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Recercar tornamai">
+<!ENTITY findAgainCmd.label  "Recercar tornamai">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
 <!ENTITY backCmd.label "Tornar">
 <!ENTITY backCmd.accesskey "T">
 <!ENTITY forwardCmd.label "Avançar">
 <!ENTITY forwardCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label "Copiar l'adreça del ligam">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyEmailCmd.label "Copiar l'adreça electronica">
+<!ENTITY copyEmailCmd.accesskey "e">

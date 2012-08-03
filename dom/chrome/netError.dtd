@@ -1,7 +1,11 @@
-<!ENTITY loadError.label "Page Load Error">
-<!ENTITY retry.label "Try Again">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY loadError.label "Page Load Error">
+<!ENTITY retry.label "Ensajatz tornarmai">
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Failed to Connect">
 <!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
@@ -24,18 +28,22 @@
 <!ENTITY netInterrupt.title "Data Transfer Interrupted">
 <!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
-<!ENTITY netOffline.title "Offline Mode">
-<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY notCached.title "Lo document a expirat">
+<!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins l'escondedor del navigador.</p> <ul> 
+<li>Per de rasons de seguretat, lo navigador redemanda pas automaticament los documents sensibles.</li> 
+<li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> 
+</ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY netOffline.title "Offline Mode">
+<!ENTITY netOffline.longDesc2 "<p>Lo navigador es en mòde fòra connexion e se pòt pas connectar a l'adreça indicada.</p><ul><li>L'ordenador es connectat a la ret ?</li><li>Clicatz sul boton « Ensajar tornarmai » per tornar en mòde connectat e recargar la pagina.</li></ul>">
+
+<!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "Tipe de fichièr pas segur">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Connection Interrupted">
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
@@ -58,30 +66,35 @@
 <!ENTITY unknownSocketType.title "Incorrect Response">
 <!ENTITY unknownSocketType.longDesc "<p>The site responded to the network request in an unexpected way and the browser cannot continue.</p>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.title "La connexion segura a pas capitat">
+<!ENTITY nssFailure2.longDesc "<p>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pò pas èsser verificada.</p><ul><li>Contactatz los proprietaris del site Web per los n'assabentar.</li></ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li>
-<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li>
-</ul>
+<!ENTITY nssBadCert.title "La connexion segura a pas capitat">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li> 
+<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
+<!ENTITY malwareBlocked.longDesc "<p>Los sites malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p> 
+<p>Los proprietaris de sites Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo'>demandar una revision</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Suspicion de site contrefach !">
+<!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p><p>Aquestes tipes de contrefaiçon de sits son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins lasquinas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas avètz fisança.</p>
 ">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY cspFrameAncestorBlocked.title "Blocat per Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "Lo navigador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY corruptedContentError.title "Error deguda a un contengut corromput">
+<!ENTITY corruptedContentError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
 
+<!ENTITY remoteXUL.title "XUL distant">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
+
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

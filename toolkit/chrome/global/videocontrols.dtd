@@ -1,10 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY playButton.playLabel "Legir">
 <!ENTITY playButton.pauseLabel "Pausa">
 <!ENTITY muteButton.muteLabel "Silenciós">
 <!ENTITY muteButton.unmuteLabel "Sonòr">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Ecran complet">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Sortida del mòde ecran complet">
 
+<!ENTITY stats.media "Mèdia">
+<!ENTITY stats.size "Talha">
+<!ENTITY stats.activity "Activitat">
+<!ENTITY stats.activityPaused "En pausa">
+<!ENTITY stats.activityPlaying "Lectura en cors">
+<!ENTITY stats.activityEnded "Acabat">
+<!ENTITY stats.activitySeeking "(recèrca)">
+<!ENTITY stats.volume "Volum">
+<!ENTITY stats.channels "Canals">
+<!ENTITY stats.sampleRate "Taus d'escandalhatge">
+<!ENTITY stats.framesParsed "Imatges analisats">
+<!ENTITY stats.framesDecoded "Imatges desencodats">
+<!ENTITY stats.framesPresented "Imatges presentats">
+<!ENTITY stats.framesPainted "Imatges dessenhats">
+
+<!ENTITY error.aborted "Cargament de la vidèo arrestat.">
+<!ENTITY error.network "La lectura de la vidèo es estada arrestada a causa d'una error de ret.">
+<!ENTITY error.decode "La vidèo pòt pas èsser visionada perque lo fichièr es corromput.">
+<!ENTITY error.srcNotSupported "Lo format vidèo o lo tipe MIME es pas gerit.">
+<!ENTITY error.noSource2 "Cap de vidèo que lo format o lo tipe MIME es pas gerit es pas estada trobada.">
+<!ENTITY error.generic "La lectura de la vidèo es estada arrestada a causa d'una error desconeguda.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed". -->
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+
 <!ENTITY scrubberScale.nameFormat "#1 sus #2 passat(s)">

@@ -1,77 +1,123 @@
-<!ENTITY generalTab.label "General">
-<!ENTITY accessibility.label "Accessibilitat">
-<!ENTITY useCursorNavigation.label "Utilizar totjorn las tòcas de navigacion per se desplaçar a l'interior d'una pagina">
-<!ENTITY useCursorNavigation.accesskey "t">
-<!ENTITY searchStartTyping.label "Recercar de tèxt quand comenci de picar">
-<!ENTITY searchStartTyping.accesskey "x">
-<!ENTITY blockAutoRefresh.label "Prevenir quand de sits Web ensajan de tornar dirigir o de tornar cargar la pagina">
-<!ENTITY blockAutoRefresh.accesskey "P">
-<!ENTITY browsing.label "Navigacion">
-<!ENTITY useAutoScroll.label "Utilizar lo desfilament automatic">
-<!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "Utilizar lo desfilament doç">
-<!ENTITY useSmoothScrolling.accesskey "d">
-<!ENTITY checkSpelling.label "Verificar l'ortografia pendent que picatz">
-<!ENTITY checkSpelling.accesskey "V">
-<!ENTITY systemDefaults.label "Valors per defaut del sistèma">
-<!ENTITY alwaysCheckDefault.label "Totjorn verificar a l'aviada que &brandShortName; es lo navigador per defaut">
-<!ENTITY alwaysCheckDefault.accesskey "o">
-<!ENTITY checkNow.label "Verificar ara">
-<!ENTITY checkNow.accesskey "a">
-<!ENTITY networkTab.label "Ret">
-<!ENTITY connection.label "Connexion">
-<!ENTITY connectionDesc.label "Configurar cossí &brandShortName; se connecta a internet">
-<!ENTITY connectionSettings.label "Paramètres">
-<!ENTITY connectionSettings.accesskey "e">
-<!ENTITY offlineStorage.label "Estocatge sens connexion">
-<!ENTITY useCacheBefore.label "Utilizar al maximum">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "Mo d'espaci per l'amagatal">
-<!ENTITY clearCacheNow.label "Voidar ara">
-<!ENTITY clearCacheNow.accesskey "V">
-<!ENTITY updateTab.label "Metre a jorn">
-<!ENTITY autoCheck.label "Recercar automaticament de mesas a jorn per :">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Moduls complementaris installats">
-<!ENTITY enableAddonsUpdate.accesskey "n">
-<!ENTITY enableSearchUpdate.label "Motors de recèrca">
-<!ENTITY enableSearchUpdate.accesskey "m">
-<!ENTITY whenUpdatesFound.label "Quand se tròban de mesas a jorn de &brandShortName; :">
-<!ENTITY askMe.label "Me demandar çò que vòli far">
-<!ENTITY askMe.accesskey "d">
-<!ENTITY modeAutomatic.label "Telecargar e installar automaticament la mesa a jorn">
-<!ENTITY modeAutomatic.accesskey "T">
-<!ENTITY modeAutoAddonWarn.label "M'alertar s'aquò desactiva de moduls">
-<!ENTITY modeAutoAddonWarn.accesskey "a">
-<!ENTITY updateHistory.label "Visualizar l'istoric de las mesas a jorn">
-<!ENTITY updateHistory.accesskey "A">
-<!ENTITY offlineNotify.label "Me dire quand un sit web demanda a estocar de donadas per las utilizar sens connexion">
-<!ENTITY offlineNotify.accesskey "d">
-<!ENTITY offlineNotifyExceptions.label "Excepcions…">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "General">
+
+<!ENTITY accessibility.label             "Accessibilitat">
+
+<!ENTITY useCursorNavigation.label       "Utilizar totjorn las tòcas de navigacion per se desplaçar a l'interior d'una pagina">
+<!ENTITY useCursorNavigation.accesskey   "t">
+<!ENTITY searchStartTyping.label         "Aviar la recèrca al moment de la picada de tèxte">
+<!ENTITY searchStartTyping.accesskey     "i">
+<!ENTITY blockAutoRefresh.label          "Prevenir quand de sites Web ensajan de tornar dirigir o de tornar cargar la pagina">
+<!ENTITY blockAutoRefresh.accesskey      "P">
+
+<!ENTITY browsing.label                  "Navigacion">
+
+<!ENTITY useAutoScroll.label             "Utilizar lo desfilament automatic">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Utilizar lo desfilament doç">
+<!ENTITY useSmoothScrolling.accesskey    "d">
+<!ENTITY allowHWAccel.label              "Utilisar l'acceleracion grafica materiala se disponibla">
+<!ENTITY allowHWAccel.accesskey          "n">
+<!ENTITY checkSpelling.label             "Verificar l'ortografia pendent que picatz">
+<!ENTITY checkSpelling.accesskey         "V">
+
+<!ENTITY systemDefaults.label            "Valors per defaut del sistèma">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Verificar totjorn a l'aviada que &brandShortName; es lo navigador per defaut">
+<!ENTITY alwaysCheckDefault.accesskey    "o">
+<!ENTITY setDefault.label                "Far de &brandShortName; lo navigador per defaut">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; es actualament vòstre navigador per defaut">
+<!ENTITY submitCrashes.label             "Mandar los rapòrts de plantatge">
+<!ENTITY submitCrashes.accesskey         "M">
+<!ENTITY submitTelemetry.label           "Mandar los rapòrts de performància">
+<!ENTITY submitTelemetry.accesskey       "m">
+
+<!ENTITY networkTab.label                "Ret">
+
+<!ENTITY connection.label                "Connexion">
+
+<!ENTITY connectionDesc.label            "Configurar cossí &brandShortName; se connècta a internet">
+<!ENTITY connectionSettings.label        "Paramètres">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY httpCache.label                 "Contengut Web en escondedor">
+
+<!ENTITY offlineStorage2.label           "Contengut Web e donadas de l'utilizaire fòra connexion">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Limitar l'escondedor a">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "Mo d'espaci de disc">
+<!ENTITY clearCacheNow.label             "Voidar ara">
+<!ENTITY clearCacheNow.accesskey         "V">
+<!ENTITY clearOfflineAppCacheNow.label   "Voidar ara">
+<!ENTITY clearOfflineAppCacheNow.accesskey "V">
+<!ENTITY overrideSmartCacheSize.label    "Modificar la gestion automatica de l'escondedor">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
+
+<!ENTITY updateTab.label                 "Metre a jorn">
+
+<!ENTITY updateApp.label                 "Mesas a jorn de &brandShortName;">
+<!ENTITY updateAuto.label                "Installar automaticament las mesas a jorn (recomandat per vòstra seguretat)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Verificar l'existéncia de mesas a jorn mas me daissar decidir de lor installacion">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Verificar pas jamai las mesas a jorn (desconselhat, aquò representa un risc de seguretat)">
+<!ENTITY updateManual.accesskey          "V">
+
+<!ENTITY updateAutoAddonWarn.label       "M'alertar s'aquò desactiva de moduls">
+<!ENTITY updateAutoAddonWarn.accesskey   "a">
+
+<!ENTITY updateHistory.label             "Afichar l'istoric de las mesas a jorn">
+<!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY useService.label                "Utilizar un servici en rèire plan per installar las mesas a jorn">
+<!ENTITY useService.accesskey            "z">
+
+<!ENTITY updateOthers.label              "Metre a jorn automaticament :">
+<!ENTITY enableSearchUpdate.label        "Los motors de recèrca">
+<!ENTITY enableSearchUpdate.accesskey    "m">
+
+<!ENTITY offlineNotify.label             "Avisar quand un site desira conservar de donadas per una utilizacion fòra connexion">
+<!ENTITY offlineNotify.accesskey         "i">
+<!ENTITY offlineNotifyExceptions.label   "Excepcions…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
-<!ENTITY offlineAppsList.label "Los sits web seguents an estocat de donadas per las utilizar sens connexion :">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "Suprimir...">
+
+<!ENTITY offlineAppsList2.label          "Los sites seguents son autorizats a emmagazinar de donadas per una utilizacion fòra connexion :">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Suprimir...">
 <!ENTITY offlineAppsListRemove.accesskey "S">
-<!ENTITY offlineAppRemove.confirm "Suprimir las donadas sens connexion">
-<!ENTITY encryptionTab.label "Criptatge">
-<!ENTITY protocols.label "Protocòls">
-<!ENTITY useSSL3.label "Utilizar SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "Utilizar TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Certificats">
-<!ENTITY certSelection.description "Quand un servidor demanda mon certificat personal :">
-<!ENTITY certs.auto "Ne causir un automaticament">
-<!ENTITY certs.auto.accesskey "c">
-<!ENTITY certs.ask "Me demandar a cada còp">
-<!ENTITY certs.ask.accesskey "M">
-<!ENTITY viewCerts.label "Visualizar los certificats">
-<!ENTITY viewCerts.accesskey "s">
-<!ENTITY viewCRLs.label "Tièras de revocacion">
-<!ENTITY viewCRLs.accesskey "R">
-<!ENTITY verify2.label "Validacion">
-<!ENTITY verify2.accesskey "V">
-<!ENTITY viewSecurityDevices.label "Periferics de seguretat">
-<!ENTITY viewSecurityDevices.accesskey "g">
+<!ENTITY offlineAppRemove.confirm        "Suprimir las donadas fòra connexion">
+
+<!ENTITY encryptionTab.label             "Chiframent">
+
+<!ENTITY protocols.label                 "Protocòls">
+<!ENTITY useSSL3.label                   "Utilizar SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Utilizar TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificats">
+<!ENTITY certSelection.description       "Quand un servidor demanda mon certificat personal :">
+<!ENTITY certs.auto                      "ne seleccionar un automaticament">
+<!ENTITY certs.auto.accesskey            "c">
+<!ENTITY certs.ask                       "Me demandar a cada còp">
+<!ENTITY certs.ask.accesskey             "M">
+<!ENTITY viewCerts.label                 "Afichar los certificats">
+<!ENTITY viewCerts.accesskey             "A">
+<!ENTITY viewCRLs.label                  "Listas de revocacion">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Validacion">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
+<!ENTITY viewSecurityDevices.accesskey   "g">

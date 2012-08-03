@@ -1,58 +1,73 @@
-<!ENTITY fontsDialog.title "Poliças">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
-<!ENTITY language.label "Poliças per :">
-<!ENTITY language.accesskey "P">
-<!ENTITY size.label "Talha :">
-<!ENTITY sizeProportional.accesskey "T">
-<!ENTITY sizeMonospace.accesskey "e">
-<!ENTITY proportional.label "Proporcional :">
-<!ENTITY proportional.accesskey "P">
-<!ENTITY serif.label "Serif :">
-<!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sens-serif :">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Monospace :">
-<!ENTITY monospace.accesskey "M">
-<!ENTITY font.langGroup.latin1 "Occidental">
-<!ENTITY font.langGroup.latin2 "European central">
-<!ENTITY font.langGroup.japanese "Japonés">
-<!ENTITY font.langGroup.trad-chinese "Chinés tradicional (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "Chinés simplificat">
-<!ENTITY font.langGroup.trad-chinese-hk "Chinés tradicional (Hong Kong)">
-<!ENTITY font.langGroup.korean "Corean">
-<!ENTITY font.langGroup.cyrillic "Cirillic">
-<!ENTITY font.langGroup.baltic "Baltic">
-<!ENTITY font.langGroup.el "Grèc">
-<!ENTITY font.langGroup.turkish "Turc">
-<!ENTITY font.langGroup.unicode "Autras lengas">
-<!ENTITY font.langGroup.user-def "Definit per l'utilizaire">
-<!ENTITY font.langGroup.thai "Tai">
-<!ENTITY font.langGroup.hebrew "Ebrieu">
-<!ENTITY font.langGroup.arabic "Arabi">
-<!ENTITY font.langGroup.devanagari "Devanagari">
-<!ENTITY font.langGroup.tamil "Tamil">
-<!ENTITY font.langGroup.armenian "Armèni">
-<!ENTITY font.langGroup.bengali "Bengali">
-<!ENTITY font.langGroup.canadian "Sillabari canadian unificat">
-<!ENTITY font.langGroup.ethiopic "Etiopian">
-<!ENTITY font.langGroup.georgian "Georgian">
-<!ENTITY font.langGroup.gujarati "Gujarati">
-<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
-<!ENTITY font.langGroup.khmer "Cmèr">
-<!ENTITY font.langGroup.malayalam "Malayalam">
-<!ENTITY font.langGroup.oriya "Oriya">
-<!ENTITY font.langGroup.telugu "Telugu">
-<!ENTITY font.langGroup.kannada "Kannada">
-<!ENTITY font.langGroup.sinhala "Sinhala">
-<!ENTITY minSize.label "Talha minimal de la poliça :">
-<!ENTITY minSize.accesskey "m">
-<!ENTITY minSize.none "Pas cap">
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Sens Serif">
-<!ENTITY allowPagesToUse.label "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
-<!ENTITY allowPagesToUse.accesskey "A">
-<!ENTITY languages.customize.Charset.grouplabel "Encodatge de caractèr">
-<!ENTITY languages.customize.DefaultCharset.label "Encodatge de caractèr per defaut">
-<!ENTITY languages.customize.DefaultCharset.accesskey "E">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsDialog.title                       "Poliças">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Poliças per :">
+<!ENTITY  language.accesskey                      "P">
+
+<!ENTITY  size.label                              "Talha :">
+<!ENTITY  sizeProportional.accesskey              "T">
+<!ENTITY  sizeMonospace.accesskey                 "e">
+
+<!ENTITY  proportional.label                      "Proporcionala :">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serif :">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sens-serif :">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace :">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "Occidental">
+<!ENTITY  font.langGroup.latin2                   "Europèu central">
+<!ENTITY  font.langGroup.japanese                 "Japonés">
+<!ENTITY  font.langGroup.trad-chinese             "Chinés tradicional (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Chinés simplificat">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chinés tradicional (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Corean">
+<!ENTITY  font.langGroup.cyrillic                 "Cirillic">
+<!ENTITY  font.langGroup.baltic                   "Baltic">
+<!ENTITY  font.langGroup.el                       "Grèc">
+<!ENTITY  font.langGroup.turkish                  "Turc">
+<!ENTITY  font.langGroup.unicode                  "Autras lengas">
+<!ENTITY  font.langGroup.user-def                 "Definit per l'utilizaire">
+<!ENTITY  font.langGroup.thai                     "Tai">
+<!ENTITY  font.langGroup.hebrew                   "Ebrieu">
+<!ENTITY  font.langGroup.arabic                   "Arabi">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armèni">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Sillabari canadian unificat">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopian">
+<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Cmèr">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Talha minimal de la poliça :">
+<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize.none                             "Pas cap">
+<!-- default font type -->
+
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sens Serif">
+
+<!ENTITY  allowPagesToUse.label                   "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
+<!ENTITY  allowPagesToUse.accesskey               "A">
+
+<!ENTITY languages.customize.Charset.grouplabel         "Encodatge de caractèr">
+<!ENTITY languages.customize.DefaultCharset.label       "Encodatge de caractèr per defaut">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "E">

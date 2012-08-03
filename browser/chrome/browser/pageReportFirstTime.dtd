@@ -1,4 +1,0 @@
-<!ENTITY startDescription.label "Un sit Web a ensajat de dobrir una fenèstra popup sens vòstra permission. &brandShortName; a blocat automaticament aqueste popup. A cada còp qu'aquò se produsís veiretz una icòna dins la barra d'estat.">
-<!ENTITY endDescription.label "Podètz clicar sus aquesta icòna per veire quin sit es estat blocat per &brandShortName; e l'autorizar a afichar de popups se son malgrat tot requesits pel bon foncionament del sit.">
-<!ENTITY caption.label "A prepaus del blocatge de fenèstras sorgissentas">
-<!ENTITY done.label "Acabat">

@@ -1,100 +1,114 @@
-<!ENTITY certmgr.title "Gestionari de certificats">
-<!ENTITY certmgr.tab.mine "Vòstres certificats">
-<!ENTITY certmgr.tab.others2 "Personas">
-<!ENTITY certmgr.tab.websites3 "Servidors">
-<!ENTITY certmgr.tab.ca "Autoritats">
-<!ENTITY certmgr.tab.orphan2 "Autres">
-<!ENTITY certmgr.ca.builtins "Certificats embarcats">
-<!ENTITY certmgr.ca.mycas "Certificats que gerissètz">
-<!ENTITY certmgr.mine "Avètz de certificats d'aquestas organizacions que vos identifican :">
-<!ENTITY certmgr.others "Avètz de certificats enregistrats qu'identifican aquestas personas :">
-<!ENTITY certmgr.websites2 "Avètz de certificats enregistrats qu'identifican aquestes servidors :">
-<!ENTITY certmgr.cas "Avètz de certificats enregistrats qu'identifican aquestas autoritats de certificacion :">
-<!ENTITY certmgr.orphans "Avètz de certificats enregistrats que correspondon pas a  cap d'autra categoria :">
-<!ENTITY certmgr.detail.general_tab.title "General">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY certmgr.title                       "Gestionari de certificats">
+
+<!ENTITY certmgr.tab.mine                     "Vòstres certificats">
+<!ENTITY certmgr.tab.others2                  "Personas">
+<!ENTITY certmgr.tab.websites3                "Servidors">
+<!ENTITY certmgr.tab.ca                       "Autoritats">
+<!ENTITY certmgr.tab.orphan2                  "Autres">
+
+<!ENTITY certmgr.ca.builtins                  "Certificats embarcats">
+<!ENTITY certmgr.ca.mycas                     "Certificats que gerissètz">
+
+<!ENTITY certmgr.mine                         "Avètz de certificats d'aquestas organizacions que vos identifican :">
+<!ENTITY certmgr.others                       "Avètz de certificats enregistrats qu'identifican aquestas personas :">
+<!ENTITY certmgr.websites2                    "Avètz de certificats enregistrats qu'identifican aquestes servidors :">
+<!ENTITY certmgr.cas                          "Avètz de certificats enregistrats qu'identifican aquestas autoritats de certificacion :">
+<!ENTITY certmgr.orphans                      "Avètz de certificats enregistrats que correspondon pas a  cap d'autra categoria :">
+
+<!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalhs">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
-<!ENTITY certmgr.pending.label "Verificacion dels certificats en cors…">
-<!ENTITY certmgr.subjectinfo.label "Emes cap a">
-<!ENTITY certmgr.issuerinfo.label "Emes per">
-<!ENTITY certmgr.validity.label "Validitat">
-<!ENTITY certmgr.fingerprints.label "Emprenchas numericas">
-<!ENTITY certmgr.certdetail.title "Detalhs del certificat">
-<!ENTITY certmgr.certdetail.cn "Nom comun (CN)">
-<!ENTITY certmgr.certdetail.o "Organizacion (O)">
-<!ENTITY certmgr.certdetail.ou "Unitat d'organizacion (OU)">
-<!ENTITY certmgr.certdetail.serialnumber "Numèro de seria">
-<!ENTITY certmgr.certdetail.sha1fingerprint "Emprencha numerica SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint "Emprencha numerica MD5">
-<!ENTITY certmgr.editcert.title "Edicion dels paramètres dels certificats de seguretat">
-<!ENTITY certmgr.editcacert.title "Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)">
-<!ENTITY certmgr.editsslcert.title "Edicion dels paramètres del contracte de certificat del sit Web">
-<!ENTITY certmgr.editcert.edittrust "Modificar los paramètres de fisança :">
-<!ENTITY certmgr.editcert.trustssl "Aqueste certificat pòt identifcar de sits Web.">
-<!ENTITY certmgr.editcert.trustemail "Aqueste certificat pòt identifcar d'utilizaires de corrièr electronic.">
-<!ENTITY certmgr.editcert.trustobjsign "Aqueste certificat pòt identifcar de creators de logicials.">
-<!ENTITY certmgr.editsslcert.edittrust "Modificar los paramètres de fisança dels certificats :">
-<!ENTITY certmgr.editsslcert.dotrust "Far fisança a l'autenticitat d'aqueste certificat.">
-<!ENTITY certmgr.editsslcert.donttrust "Far pas fisança a l'autenticitat d'aqueste certificat.">
-<!ENTITY certmgr.editemailcert.title "Edicion dels paramètres de fisança d'un certificat de corrièr">
-<!ENTITY certmgr.editemailcert.edittrust "Modificar los paramètres de fisança :">
-<!ENTITY certmgr.editemailcert.dotrust "Far fisança a l'autenticitat d'aqueste certificat.">
-<!ENTITY certmgr.editemailcert.donttrust "Far pas fisança a l'autenticitat d'aqueste certificat.">
-<!ENTITY certmgr.deletecert.title "Suprimir un certificat">
-<!ENTITY certmgr.deletecert.beforename "Avètz demandat de suprimir aqueste certificat :">
-<!ENTITY certmgr.deletecert.aftername "Sètz segur(a) que volètz suprimir aqueste certificat ?">
-<!ENTITY certmgr.deleteusercert.title "Suprimir vòstre certificat">
-<!ENTITY certmgr.deleteusercert.beforename "Avètz demandat de suprimir lo certificat :">
-<!ENTITY certmgr.deleteusercert.aftername "Un còp lo certificat suprimit, poiretz pas mai legir lo corrièr chifrat amb aqueste certificat.">
-<!ENTITY certmgr.certname "Nom del certificat">
-<!ENTITY certmgr.certserver "Servidor">
-<!ENTITY certmgr.typesofoverrides "Excepcions">
-<!ENTITY certmgr.override_lifetime "Durada de vida">
-<!ENTITY certmgr.tokenname "Periferic de seguretat">
-<!ENTITY certmgr.purpose "Subjèctes">
-<!ENTITY certmgr.issued "Emes lo">
-<!ENTITY certmgr.expires "Expira lo">
-<!ENTITY certmgr.email "Adreça electronica">
-<!ENTITY certmgr.serial "Numèro de seria">
-<!ENTITY certmgr.close.label "Tampar">
-<!ENTITY certmgr.close.accesskey "T">
-<!ENTITY certmgr.view2.label "Veire...">
-<!ENTITY certmgr.view2.accesskey "V">
-<!ENTITY certmgr.edit2.label "Modificar...">
-<!ENTITY certmgr.edit2.accesskey "M">
-<!ENTITY certmgr.editca.label "Modificar lo nivèl de fisança de l'AC">
-<!ENTITY certmgr.editca.accesskey "o">
-<!ENTITY certmgr.add.label "Apondre">
-<!ENTITY certmgr.add.accesskey "A">
-<!ENTITY certmgr.export.label "Exportar…">
-<!ENTITY certmgr.export.accesskey "x">
-<!ENTITY certmgr.delete2.label "Suprimir…">
-<!ENTITY certmgr.delete2.accesskey "S">
-<!ENTITY certmgr.backup2.label "Salvar...">
-<!ENTITY certmgr.backup2.accesskey "S">
-<!ENTITY certmgr.backupall2.label "Salvat tot...">
-<!ENTITY certmgr.backupall2.accesskey "T">
-<!ENTITY certmgr.restore2.label "Importar…">
-<!ENTITY certmgr.restore2.accesskey "I">
-<!ENTITY certmgr.details.label "Camps del certificat">
-<!ENTITY certmgr.details.accesskey "C">
-<!ENTITY certmgr.fields.label "Valor del camp">
-<!ENTITY certmgr.fields.accesskey "V">
-<!ENTITY certmgr.hierarchy.label "Ierarquia dels certificats">
-<!ENTITY certmgr.hierarchy.accesskey "I">
-<!ENTITY certmgr.addException.label "Apondre una excepcion…">
-<!ENTITY certmgr.addException.accesskey "x">
-<!ENTITY exceptionMgr.title "Apondre una excepcion de seguretat">
-<!ENTITY exceptionMgr.exceptionButton "Confirmar l'excepcion de seguretat">
-<!ENTITY exceptionMgr.exceptionButtonAccess "C">
-<!ENTITY exceptionMgr.supplementalWarning "Las bancas, magasins e autres sits Web publics legitims vos demandaràn pas de far aquò.">
-<!ENTITY exceptionMgr.certlocation.caption2 "Servidor">
-<!ENTITY exceptionMgr.certlocation.url "Emplaçament :">
-<!ENTITY exceptionMgr.certlocation.download "Obténer lo certificat">
-<!ENTITY exceptionMgr.certlocation.accesskey "O">
-<!ENTITY exceptionMgr.certstatus.caption "Estat del certificat">
-<!ENTITY exceptionMgr.certstatus.viewCert "Veire...">
-<!ENTITY exceptionMgr.certstatus.accesskey "V">
-<!ENTITY exceptionMgr.permanent.label "Conservar aquesta excepcion d'un biais permanent">
-<!ENTITY exceptionMgr.permanent.accesskey "S">
+
+<!ENTITY certmgr.pending.label                "Verificacion dels certificats en cors…">
+<!ENTITY certmgr.subjectinfo.label            "Emes cap a">
+<!ENTITY certmgr.issuerinfo.label             "Emes per">
+<!ENTITY certmgr.validity.label               "Validitat" >
+<!ENTITY certmgr.fingerprints.label           "Emprenchas numericas">
+<!ENTITY certmgr.certdetail.title             "Detalhs del certificat">
+<!ENTITY certmgr.certdetail.cn                "Nom comun (CN)">
+<!ENTITY certmgr.certdetail.o                 "Organizacion (O)">
+<!ENTITY certmgr.certdetail.ou                "Unitat d'organizacion (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Numèro de seria">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Emprencha numerica SHA1">
+<!ENTITY certmgr.certdetail.md5fingerprint    "Emprencha numerica MD5">
+
+<!ENTITY certmgr.editcert.title               "Edicion dels paramètres dels certificats de seguretat">
+<!ENTITY certmgr.editcacert.title             "Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)">
+<!ENTITY certmgr.editsslcert.title            "Edicion dels paramètres del contracte de certificat del site Web">
+<!ENTITY certmgr.editcert.edittrust           "Modificar los paramètres de fisança :">
+<!ENTITY certmgr.editcert.trustssl            "Aqueste certificat pòt identifcar de sites Web.">
+<!ENTITY certmgr.editcert.trustemail          "Aqueste certificat pòt identifcar d'utilizaires de corrièr electronic.">
+<!ENTITY certmgr.editcert.trustobjsign        "Aqueste certificat pòt identifcar de creators de logicials.">
+<!ENTITY certmgr.editsslcert.edittrust        "Modificar los paramètres de fisança dels certificats :">
+<!ENTITY certmgr.editsslcert.dotrust          "Far fisança a l'autenticitat d'aqueste certificat.">
+<!ENTITY certmgr.editsslcert.donttrust        "Far pas fisança a l'autenticitat d'aqueste certificat.">
+<!ENTITY certmgr.editemailcert.title          "Edicion dels paramètres de fisança d'un certificat de corrièr">
+<!ENTITY certmgr.editemailcert.edittrust      "Modificar los paramètres de fisança :">
+<!ENTITY certmgr.editemailcert.dotrust        "Far fisança a l'autenticitat d'aqueste certificat.">
+<!ENTITY certmgr.editemailcert.donttrust      "Far pas fisança a l'autenticitat d'aqueste certificat.">
+
+<!ENTITY certmgr.deletecert.title             "Suprimir un certificat">
+<!ENTITY certmgr.deletecert.beforename        "Avètz demandat de suprimir aqueste certificat :">
+<!ENTITY certmgr.deletecert.aftername         "Sètz segur(a) que volètz suprimir aqueste certificat ?">
+<!ENTITY certmgr.deleteusercert.title         "Suprimir vòstre certificat">
+<!ENTITY certmgr.deleteusercert.beforename    "Avètz demandat de suprimir lo certificat :">
+<!ENTITY certmgr.deleteusercert.aftername     "Un còp lo certificat suprimit, poiretz pas mai legir lo corrièr chifrat amb aqueste certificat.">
+
+<!ENTITY certmgr.certname                     "Nom del certificat">
+<!ENTITY certmgr.certserver                   "Servidor">
+<!ENTITY certmgr.override_lifetime            "Durada de vida">
+<!ENTITY certmgr.tokenname                    "Periferic de seguretat">
+<!ENTITY certmgr.issued                       "Emes lo">
+<!ENTITY certmgr.expires                      "Expira lo">
+<!ENTITY certmgr.email                        "Adreça electronica">
+<!ENTITY certmgr.serial                       "Numèro de seria">
+
+<!ENTITY certmgr.close.label                  "Tampar">
+<!ENTITY certmgr.close.accesskey              "T">
+<!ENTITY certmgr.view2.label                  "Veire...">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "Modificar la fisança…">
+<!ENTITY certmgr.edit3.accesskey              "M">
+<!ENTITY certmgr.editca.label                 "Modificar lo nivèl de fisança de l'AC">
+<!ENTITY certmgr.editca.accesskey             "o">
+<!ENTITY certmgr.add.label                    "Apondre">
+<!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.export.label                 "Exportar…">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Suprimir…">
+<!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.delete_builtin.label         "Suprimir o far pas mai fisança…">
+<!ENTITY certmgr.delete_builtin.accesskey     "S">
+<!ENTITY certmgr.backup2.label                "Salvar...">
+<!ENTITY certmgr.backup2.accesskey            "S">
+<!ENTITY certmgr.backupall2.label             "Salvat tot...">
+<!ENTITY certmgr.backupall2.accesskey         "t">
+<!ENTITY certmgr.restore2.label               "Importar…">
+<!ENTITY certmgr.restore2.accesskey           "I">
+<!ENTITY certmgr.details.label                "Camps del certificat">
+<!ENTITY certmgr.details.accesskey            "C">
+<!ENTITY certmgr.fields.label                 "Valor del camp">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.label              "Ierarquia dels certificats">
+<!ENTITY certmgr.hierarchy.accesskey          "I">
+<!ENTITY certmgr.addException.label           "Apondre una excepcion…">
+<!ENTITY certmgr.addException.accesskey       "x">
+
+<!ENTITY exceptionMgr.title                   "Apondre una excepcion de seguretat">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirmar l'excepcion de seguretat">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "Las bancas, magazins e autres sites Web publics legitims vos demandaràn pas de far aquò.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
+<!ENTITY exceptionMgr.certlocation.url        "Emplaçament :">
+<!ENTITY exceptionMgr.certlocation.download   "Obténer lo certificat">
+<!ENTITY exceptionMgr.certlocation.accesskey  "O">
+<!ENTITY exceptionMgr.certstatus.caption      "Estat del certificat">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Veire...">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "Conservar aquesta excepcion d'un biais permanent">
+<!ENTITY exceptionMgr.permanent.accesskey     "s">

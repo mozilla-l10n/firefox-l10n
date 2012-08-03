@@ -1,27 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
 <!ENTITY printJobOptions.title "Proprietats de l'estampaira">
+
 <!ENTITY paperInput.label "Talha del papièr :">
 <!ENTITY paperInput.accesskey "T">
+
 <!ENTITY plexInput.label "Mòde de distribucion :">
 <!ENTITY plexInput.accesskey "M">
+
 <!ENTITY resolutionInput.label "Resolucion/qualitat :">
 <!ENTITY resolutionInput.accesskey "e">
+
 <!ENTITY cmdInput.label "Comanda d'estampatge :">
 <!ENTITY cmdInput.accesskey "o">
+
 <!ENTITY jobTitleInput.label "Títol del document :">
 <!ENTITY jobTitleInput.accesskey "c">
+
 <!ENTITY colorGroup.label "Color :">
 <!ENTITY grayRadio.label "Nivèls de gris">
 <!ENTITY grayRadio.accesskey "g">
 <!ENTITY colorRadio.label "Color">
 <!ENTITY colorRadio.accesskey "C">
+
 <!ENTITY colorspaceInput.label "Espaci de colors :">
 <!ENTITY colorspaceInput.accesskey "s">
+
 <!ENTITY fontsGroup.label "Poliças :">
 <!ENTITY downloadFonts.label "Telecargar las poliças cap a l'estampaira ?">
 <!ENTITY downloadFonts.accesskey "T">
+
 <!ENTITY edgeMarginInput.label "Espaci entre lo bòrd del papièr e los marges">
 <!ENTITY topInput.label "Naut :">
-<!ENTITY topInput.accesskey "Naut :">
+<!ENTITY topInput.accesskey "N">
 <!ENTITY bottomInput.label "Bas :">
 <!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Esquèrra :">

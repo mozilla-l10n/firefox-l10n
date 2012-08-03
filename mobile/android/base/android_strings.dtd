@@ -1,0 +1,202 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_settingup "Configuracion de &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Mesa a jorn de vòstres marcapaginas e de vòstre istoric. Aquò pòt prene una o doas minutas.">
+
+<!ENTITY  no_space_to_start_error "I a pas pro d\u0027espaci disponible per permetre a &brandShortName; de s\'aviar.">
+<!ENTITY  error_loading_file "Una error s\'es producha en ensajant de cargar de fichièrs necessaris per aviar &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Sites favorits">
+<!ENTITY  awesomebar_bookmarks_title "Marcapaginas">
+<!ENTITY  awesomebar_history_title "Istoric">
+<!ENTITY  awesomebar_search_engine "Recercar « &#x25;s »">
+
+<!ENTITY  crash_reporter_title "Rapòrt de plantatge de &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\'aviada de &brandShortName; a son aviada que ven.">
+<!ENTITY  crash_help_message "Ajudatz-nos a corregir aqueste problèma !">
+<!ENTITY  crash_send_report_message "Mandar un rapòrt de plantatge a Mozilla">
+<!ENTITY  crash_include_url "Inclure l\u0027adreça de la pagina">
+<!ENTITY  crash_close_label "Tampar">
+<!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
+<!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
+<!ENTITY  exit_label "Sortir">
+<!ENTITY  continue_label "Contunhar">
+
+<!ENTITY  launcher_shortcuts_title "Aplicacions Web per &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Cap d\'aplicacion Web pas trobada">
+
+<!ENTITY choose_file "Causir un fichièr">
+
+<!ENTITY awesomebar_default_text "Recèrca o adreça">
+
+<!ENTITY remote_tabs "Onglets sincronizats">
+<!ENTITY remote_tabs_show_all "Afichar totes los onglets">
+
+<!ENTITY bookmark "Marcapaginas">
+<!ENTITY bookmark_added "Marcapaginas apondut">
+<!ENTITY bookmark_removed "Marcapaginas suprimit">
+<!ENTITY bookmark_updated "Marcapaginas mes a jorn">
+
+<!ENTITY history_today_section "Uèi">
+<!ENTITY history_yesterday_section "Ièr">
+<!ENTITY history_week_section "Fa 7 jorns">
+<!ENTITY history_older_section "Mai de 7 jorns">
+
+<!ENTITY reload "Tornar cargar">
+<!ENTITY forward "Pagina seguenta">
+<!ENTITY menu "Menut">
+<!ENTITY back "Retorn">
+<!ENTITY stop "Arrestar">
+<!ENTITY site_security "Seguretat del site">
+
+<!ENTITY close_tab "Tampar l\'onglet">
+<!ENTITY new_tab "Onglet novèl">
+<!ENTITY one_tab "1 onglet">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#x25;d onglets">
+<!ENTITY new_tab_opened "Novèl onglet dobèrt">
+
+<!ENTITY settings "Paramètres">
+<!ENTITY settings_title "Paramètres">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_privacy "Vida privada e seguretat">
+<!ENTITY pref_category_content "Contengut">
+<!ENTITY pref_category_importexport "Importar e exportar">
+<!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
+<!ENTITY pref_do_not_track "Dire de me pistar pas">
+<!ENTITY pref_telemetry "Mandar donadas de perf.">
+<!ENTITY pref_remember_signons "Enreg. los senhals :">
+<!ENTITY pref_cookies "Autorizar los cookies">
+<!ENTITY pref_char_encoding "Encodatge de caractèrs">
+<!ENTITY pref_char_encoding_on "Afichar lo menut">
+<!ENTITY pref_char_encoding_off "Amagar lo menut">
+<!ENTITY pref_clear_private_data "Suprimir las donadas personalas">
+<!ENTITY pref_plugins "Empeutons (Plugins)">
+<!ENTITY pref_plugins_enabled "Activat">
+<!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
+<!ENTITY pref_plugins_disabled "Desactivat">
+<!ENTITY pref_text_size "Talha del tèxte">
+<!ENTITY pref_font_size_tiny "Fòrça pichona">
+<!ENTITY pref_font_size_small "Pichona">
+<!ENTITY pref_font_size_medium "Mejana">
+<!ENTITY pref_font_size_large "Granda">
+<!ENTITY pref_font_size_xlarge "Fòrça granda">
+<!ENTITY pref_use_master_password "Senhal principal">
+<!ENTITY pref_sync "Sincr">
+<!ENTITY pref_search_suggestions "Afichar las suggestions de recèrca">
+<!ENTITY pref_import_android "Importar dempuèi Android">
+<!ENTITY pref_private_data_history "Istoric de navigacion e dels telecargaments">
+<!ENTITY pref_private_data_formdata "Istoric dels formularis e de las recèrcas">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_cache "Escondedor">
+<!ENTITY pref_private_data_sessions "Connexions activas">
+<!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
+<!ENTITY pref_private_data_siteSettings "Preferéncias del site">
+
+<!ENTITY quit "Quitar">
+
+<!ENTITY addons "Moduls complementaris">
+<!ENTITY downloads "Telecargaments">
+<!ENTITY apps "Apps">
+<!ENTITY char_encoding "Encodatge de caractèr">
+
+<!ENTITY share "Partejar">
+<!ENTITY share_title "Partejar amb l\u0027ajuda de">
+<!ENTITY share_image_failed "Unable to share this image">
+<!ENTITY save_as_pdf "Enregistrar en PDF">
+<!ENTITY find_in_page "Recercar dins la pagina">
+<!ENTITY desktop_mode "Veire version ordenador">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Recercar dins la pagina">
+<!ENTITY find_prev "Precedent">
+<!ENTITY find_next "Seguent">
+<!ENTITY find_close "Tampar">
+
+<!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
+<!ENTITY contextmenu_remove_history "Suprimir">
+<!ENTITY contextmenu_remove_bookmark "Suprimir">
+<!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
+<!ENTITY contextmenu_share "Partejar">
+<!ENTITY contextmenu_pasteandgo "Pegar e dobrir">
+<!ENTITY contextmenu_paste "Empegar">
+<!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
+<!ENTITY contextmenu_edit_bookmark "Modificar">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "Pagina suprimida">
+
+<!ENTITY bookmark_edit_title "Modificar lo marcapaginas">
+<!ENTITY bookmark_edit_name "Nom">
+<!ENTITY bookmark_edit_location "Emplaçament">
+<!ENTITY bookmark_edit_keyword "Mot clau">
+
+<!ENTITY site_settings_title        "Escafar paramètre de site">
+<!ENTITY site_settings_cancel       "Anullar">
+<!ENTITY site_settings_clear        "Escafar">
+<!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
+
+<!ENTITY reading_list "Lista de lectura">
+<!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
+<!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
+<!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reader_mode "Mòde de lectura :">
+
+<!ENTITY masterpassword_create_title "Crear un senhal principal">
+<!ENTITY masterpassword_remove_title "Supression del senhal principal">
+<!ENTITY masterpassword_password "Senhal">
+<!ENTITY masterpassword_confirm "Confirmar lo senhal :">
+
+<!ENTITY button_ok "D\'acòrdi">
+<!ENTITY button_cancel "Anullar">
+<!ENTITY button_clear_data "Escafar las donadas">
+
+<!ENTITY abouthome_addons_title "Moduls per vòstre &brandShortName;">
+<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
+<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
+<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
+<!ENTITY abouthome_top_sites_title "Sites favorits">
+<!ENTITY abouthome_top_sites_browse "Percórrer totes vòstres favorits">
+<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
+<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Causir un fichièr">
+<!ENTITY filepicker_audio_title "Causir o enregistrar un son">
+<!ENTITY filepicker_image_title "Choose or take a picture">
+<!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Sètz connectat a">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "que lo detentor n\'es">
+
+<!ENTITY private_data_success "Donadas personalas escafadas">
+<!ENTITY private_data_fail "Some private data could not be cleared">
+
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric dempuèi Android">
+<!ENTITY bookmarkhistory_import_wait "Esperatz...">
+
+<!ENTITY webapp_generic_name "App">

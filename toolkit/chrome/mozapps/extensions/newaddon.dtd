@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title           "Installacion de modul">
+<!ENTITY intro           "Un autre programa sus vòstre ordenador voldriá modificar 
+&brandShortName; amb los moduls complementaris seguents :">
+<!ENTITY warning         "Installetz pas que de moduls complementaris que los autors an vòstra fisança.">
+<!ENTITY allow           "Autorizar aquesta installacion">
+<!ENTITY later           "Podètz tornar sus vòstra decision a tot moment en anant dins lo gestionari de moduls complementaris.">
+<!ENTITY continue        "Contunhar">
+<!ENTITY restartMessage  "Vos cal reaviar &brandShortName; per acabar l'installacion d'aqueste modul complementari.">
+<!ENTITY restartButton   "Tornar aviar &brandShortName;">
+<!ENTITY cancelButton    "Anullar">

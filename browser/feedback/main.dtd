@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.settings.label                   "Paramètres">
+<!ENTITY testpilot.settings.dataSubmission.label    "Mandadís de donadas">
+<!ENTITY testpilot.settings.notifications.label     "Notificacions">
+<!ENTITY testpilot.settings.notifyWhen.label        "M'avisar quand…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "un estudi es prèst per èsser mandat">
+<!ENTITY testpilot.settings.newStudy.label          "un estudi novèl es disponible">
+<!ENTITY testpilot.settings.hasNewResults.label     "un estudi dispausa de resultats novèls">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Mandar automaticament mas informacions (demandar pas)">
+<!ENTITY testpilot.allYourStudies.label             "Totes vòstres estudis d'utilizacion…">
+<!ENTITY testpilot.about.label                      "A prepaus de Test Pilot">
+<!-- all studies window -->
+
+<!ENTITY testpilot.studiesWindow.title                  "Vòstres estudis Test Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Estudis en cors">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Estudis acabats">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Descobèrtas d'estudis">
+<!ENTITY testpilot.studiesWindow.settings.label         "Paramètres">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Cargament en cors, pacientatz…">
+<!-- raw data dialog -->
+
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot : informacions brutas">
+<!-- notification -->
+
+<!ENTITY testpilot.notification.close.tooltip            "Tampar">
+<!-- Firefox 4 beta version UI -->
+
+<!ENTITY testpilot.enable.label                        "Activar los estudis d'utilizacion">
+<!ENTITY testpilot.feedbackbutton.label                "Reagir">
+<!ENTITY testpilot.happy.label        "M'agrada Firefox perque…">
+<!ENTITY testpilot.sad.label          "M'agrada pas Firefox perque…">
+<!ENTITY testpilot.broken.label      "Senhalar aqueste site Web coma pas foncional…">
+<!ENTITY testpilot.idea.label        "Nos far una suggestion…">

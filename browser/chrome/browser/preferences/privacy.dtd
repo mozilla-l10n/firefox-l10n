@@ -1,82 +1,80 @@
-<!ENTITY history.label "Istoric">
-<!ENTITY  locationBar.label             "Barra d'emplaçament">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  locbar.pre.label              "Quand utilizi la barra d'emplaçament, suggerir :">
+<!ENTITY tracking.label                 "Pistatge">
+
+<!ENTITY doNotTrack.label               "Indicar als sites Web de me pistar pas">
+<!ENTITY doNotTrack.accesskey           "d">
+
+<!ENTITY  history.label                 "Istoric">
+
+<!ENTITY  locationBar.label             "Barra d'adreça">
+
+<!ENTITY  locbar.pre.label              "Quand utilizi la barra d'adreça, suggerir :">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Istoric e marcapaginas">
+<!ENTITY  locbar.both.label             "Istoric e favorits">
 <!ENTITY  locbar.history.label          "Istoric">
-<!ENTITY  locbar.bookmarks.label        "Marcapaginas">
+<!ENTITY  locbar.bookmarks.label        "Favorits">
 <!ENTITY  locbar.nothing.label          "Pas res">
 
-<!ENTITY rememberDaysBefore.label "Gardar mon istoric al mens">
-<!ENTITY rememberDaysBefore.accesskey "i">
-<!ENTITY rememberDaysAfter2.label "jorns">
-<!ENTITY rememberForms.label "Memorizar çò qu'ai picat dins los formularis e la barra de recèrca">
-<!ENTITY rememberForms.accesskey "S">
-<!ENTITY rememberDownloads.label "Memorizar çò qu'ai telecargat">
-<!ENTITY rememberDownloads.accesskey "t">
-<!ENTITY cookies.label "Cookies">
-<!ENTITY acceptCookies.label "Acceptar de cookies de sits">
-<!ENTITY acceptCookies.accesskey "c">
-<!ENTITY acceptThirdParty.label "Acceptar los cookies tèrces">
-<!ENTITY acceptThirdParty.accesskey "t">
-<!ENTITY keepUntil.label "Gardar fins :">
-<!ENTITY keepUntil.accesskey "G">
-<!ENTITY expire.label "lor expiracion">
-<!ENTITY close.label "la tampadura de &brandShortName;">
-<!ENTITY askEachTime.label "me demandar cada còp">
-<!ENTITY cookieExceptions.label "Excepcions…">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Visualizar los cookies…">
-<!ENTITY showCookies.accesskey "v">
-<!ENTITY privateData.label "Donadas privadas">
-<!ENTITY alwaysClear.label "Totjorn escafar mas entresenhas personalas quand tampi &brandShortName;">
-<!ENTITY alwaysClear.accesskey "T">
-<!ENTITY clearDataSettings.label "Paramètres…">
-<!ENTITY clearDataSettings.accesskey "t">
-<!ENTITY clearDataNow.label "Voidar ara…">
-<!ENTITY clearDataNow.accesskey "a">
-<!ENTITY  clearOnClose.label             "Voidar l'istoric quand &brandShortName; se tampa">
-<!ENTITY  clearOnClose.accesskey         "q">
-<!ENTITY  clearOnCloseSettings.label     "Paramètres…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  acceptCookies.label           "Acceptar de cookies de sites">
+<!ENTITY  acceptCookies.accesskey       "c">
 
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz tanben ">
-<!ENTITY  dontrememberActions.clearHistory.label "voidar tot l'istoric recent">
-<!ENTITY  dontrememberActions.post.label         ".">
-<!ENTITY  privateBrowsingAutoStart.label "Aviar automaticament &brandShortName; dins una sesilha de navigacion privada">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  acceptThirdParty.label        "Acceptar los cookies tèrces">
+<!ENTITY  acceptThirdParty.accesskey    "t">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "memorizarà l'istoric">
-<!ENTITY  historyHeader.dontremember.label "memorizarà pas jamai l'istoric">
-<!ENTITY  historyHeader.custom.label       "utilizarà de paramètres personalizats per l'istoric">
+<!ENTITY  keepUntil.label               "Los conservar fins a :">
+<!ENTITY  keepUntil.accesskey           "L">
+
+<!ENTITY  expire.label                  "lor expiracion">
+<!ENTITY  close.label                   "la tampadura de &brandShortName;">
+<!ENTITY  askEachTime.label             "me demandar a cada còp">
+
+<!ENTITY  cookieExceptions.label        "Excepcions…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "Afichar los cookies…">
+<!ENTITY  showCookies.accesskey         "k">
+
+<!ENTITY  historyHeader.pre.label          "Règlas de conservacion :">
+<!ENTITY  historyHeader.pre.accesskey      "R">
+<!ENTITY  historyHeader.remember.label     "conservar l'istoric">
+<!ENTITY  historyHeader.dontremember.label "conservar pas jamai l'istoric">
+<!ENTITY  historyHeader.custom.label       "utilizar los paramètres personalizats per l'istoric">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que en navigacion privada e memorizarà pas pus d'istoric quand navigaretz sus internet.">
-
+<!ENTITY  rememberDescription.label      "&brandShortName; conservarà las donadas de navigacion, los telecargaments, los formularis e l'istoric recèrca e los cookies dels sites web que visitaretz.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Benlèu que volètz tanben ">
+
+<!ENTITY  rememberActions.pre.label           "Benlèu que volètz">
 <!ENTITY  rememberActions.clearHistory.label  "voidar tot l'istoric recent">
 <!ENTITY  rememberActions.middle.label        ", o ">
-<!ENTITY  rememberActions.removeCookies.label "suprimir totes los cookies">
+<!ENTITY  rememberActions.removeCookies.label "suprimir de cookies especifics">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  rememberDescription.label  "&brandShortName; memorizarà vòstre istoric de navigacion, de telecargament, de formularis e de recèrca e conservar los cookies dels sits web que visitatz.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navigacion privada e conservarà pas cap d'istoric quand navigaretz sus internet.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberHistory.pre.label      "Memorizar mon istoric de navigacion pendent al mens">
-<!ENTITY  rememberHistory.pre.accesskey  "i">
-<!ENTITY  rememberHistory.post.label     "jorns">
+<!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz">
+<!ENTITY  dontrememberActions.clearHistory.label "escafar la totalitat de l'istoric actual">
+<!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  rememberDownload.label         "Memorizar l'istoric de telecargaments">
-<!ENTITY  rememberDownload.accesskey     "t">
+<!ENTITY  privateBrowsingPermanent2.label "Utilizar totjorn lo mòde de navigacion privada">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberSearchForm.label       "Memorizar mon istoric de recèrca e de formularis">
+<!ENTITY  rememberHistory2.label      "Conservar l'istoric de navigacion e dels telecargaments">
+<!ENTITY  rememberHistory2.accesskey  "C">
+
+<!ENTITY  rememberSearchForm.label       "Conservar l'istoric de las recèrcas e dels formularis">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
+<!ENTITY  clearOnClose.label             "Voidar l'istoric quand &brandShortName; se tampa">
+<!ENTITY  clearOnClose.accesskey         "q">
+
+<!ENTITY  clearOnCloseSettings.label     "Paramètres…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

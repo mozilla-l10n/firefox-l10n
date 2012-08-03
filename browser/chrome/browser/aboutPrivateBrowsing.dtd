@@ -1,11 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY privatebrowsingpage.title                 "Navigacion privada">
 <!ENTITY privatebrowsingpage.title.normal          "Volètz començar la navigacion privada ?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; memorizarà pas pu l'istoric d'aqueste sesilha.">
-
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; es pas en mòde de navigacion privada.">
 
 <!ENTITY privatebrowsingpage.description               "Dins una sesilha de navigacion privada, &brandShortName; memoriza pas l'istoric del navigador, l'istoric de recèrca, l'istoric dels formularis web, los cookies o los fichièrs temporaris d'internet. Ça que la, los fichièrs que telecargatz e los marca-paginas seràn gardats.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Benlèu que volètz tanben començar ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "en netejant l'istoric recent">
@@ -13,10 +18,11 @@
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Començar la navigacion privada">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStop                 "Per arrestar la navigacion privada, seleccionatz &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; o tampatz &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Per aviar la navigacion privada, podètz tanben seleccionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "Per arrestar la navigacion privada, seleccionatz &basePBMenu.label; > &privateBrowsingCmd.stop.label; o tampatz &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; > &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ne saber mai">
-

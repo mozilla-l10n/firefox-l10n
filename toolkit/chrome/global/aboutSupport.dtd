@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  Aquesta pagina conten d'informacions tecnicas que poirián èsser utilas quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions correntas sus &brandShortName;, consultatz nòstre site Web d'assisténcia.">
+
+<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionName "Nom">
+<!ENTITY aboutSupport.extensionEnabled "Activat">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsName "Nome">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dorsièr de perfil">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activats">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizaire">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Rapòrts de plantatge">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Utilizacion memòria">
+
+<!ENTITY aboutSupport.showDir.label "Dobrir lo dorsièr correspondent">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Dobrir lo dorsièr correspondent">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferéncias modificadas importantas">
+<!ENTITY aboutSupport.modifiedPrefsName "Nom">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valor">
+
+<!ENTITY aboutSupport.graphicsTitle "Acceleracion grafica">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.a11yTitle "Accessibilitat">
+<!ENTITY aboutSupport.a11yActivated "Activar">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Version de las bibliotèca">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">

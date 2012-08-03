@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.warning.title "Suspicion de sit Web contrafach">
+
+<!ENTITY safeb.palm.message.p1 "Aquesta pagina es estada senhalada coma essent una contrafaiçon destinada a enganar los utilizaires pr'amor que comuniquen lors entresenhas personalas o financièras. La picada d'entresenhas personalas sus aquesta pagina pòt conduire a una raubariá d'identitat o a una autra fraudariá.">
+<!ENTITY safeb.palm.message.p1.linkText "Ne saber mai »">
+<!ENTITY safeb.palm.p1.linkStatusText "Ne saber mai...">
+
+<!ENTITY safeb.palm.message.p2.start "Aquestes tipes de sits Web son utilizats dins de fraudariás conegudas jol tèrme d'atacs per phishing (o anquetatge), dins lasqualas de paginas Web o de corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas podètz aver fisança. Ne podètz saber mai sus">
+<!ENTITY safeb.palm.message.p2.linkText "cossí &brandShortName; vos protegís">
+<!ENTITY safeb.palm.message.p2.end "dels atacs per phishing.">
+
+<!ENTITY safeb.palm.accept.label "Sortir d'aicí !">
+<!ENTITY safeb.palm.accept.statustext "Anar sus ma pagina d'acuèlh">
+<!ENTITY safeb.palm.decline.label "Ignorar aqueste avertiment">
+<!ENTITY safeb.palm.decline.statustext "Tampar l'avertiment" >
+<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
+<!ENTITY safeb.palm.reportPage.label "Perqué la pagina es blocada ?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Sit d'atac raportat !">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Lo sit de <span id='malware_sitename'/> es estat raportat coma un sit d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sites d'atac ensajan d'installar de programas que vos raubar d'entresenhas personalas, utilizan vòstre ordenador per n'atacar d'autres o damatjan vòstre sistèma.</p><p>D'unes sites d'atac distribuisson amb intencion de programas dangieroses mas fòrça son implicats sens o que sos proprietaris lo sàpian o l'ajan permes.</b>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Suspicion de site Web contrafach">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aquestes tipes de sites Web son utilizats dins de fraudariás conegudas jol tèrme d'atacs per phishing (o anquetatge), dins las qualas de paginas Web o de corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas podètz aver fisança.</p>">

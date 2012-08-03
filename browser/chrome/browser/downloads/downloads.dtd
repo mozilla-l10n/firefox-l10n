@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+
+<!ENTITY indicator.tooltiptext            "Telecargaments">
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+
+<!ENTITY downloads.title                  "Telecargaments">
+
+<!ENTITY cmd.pause.label                  "Pausa">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Tornar prene">
+<!ENTITY cmd.resume.accesskey             "r">
+<!ENTITY cmd.cancel.label                 "Anullar">
+<!ENTITY cmd.cancel.accesskey             "A">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Dobrir lo repertòri que conten lo fichièr">
+<!ENTITY cmd.show.accesskey               "f">
+<!ENTITY cmd.showMac.label                "Dobrir dins lo Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "Tornar ensajar">
+<!ENTITY cmd.goToDownloadPage.label       "Anar a la pagina de telecargament">
+<!ENTITY cmd.goToDownloadPage.accesskey   "A">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar l'adreça d'origina del telecargament">
+<!ENTITY cmd.copyDownloadLink.accesskey   "d">
+<!ENTITY cmd.removeFromList.label         "Levar de la tièra">
+<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.clearList.label              "Escafar la lista">
+<!ENTITY cmd.clearList.accesskey          "l">
+
+<!ENTITY downloadshistory.label           "Afichar totes los telecargaments">
+<!ENTITY downloadshistory.accesskey       "i">

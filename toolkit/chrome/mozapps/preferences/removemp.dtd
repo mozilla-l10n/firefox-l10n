@@ -1,5 +1,10 @@
-<!ENTITY removePassword.title "Supression del senhal principal">
-<!ENTITY removeInfo.label "Vos cal picar vòstre senhal principal actual per contunhar :">
-<!ENTITY removeWarning1.label "Vòstre senhal principal es utilizat per protegir d'entresenhas sensiblas coma lo senhals utilizats suls sits.">
-<!ENTITY removeWarning2.label "Se suprimissètz vòstre senhal principal, vòstras informacions seràn pas protegidas se vòstre ordenador es compromés.">
-<!ENTITY setPassword.oldPassword.label "Senhal actual :">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY removePassword.title              "Supression del senhal principal">
+<!ENTITY removeInfo.label                  "Vos cal picar vòstre senhal principal actual per contunhar :">
+<!ENTITY removeWarning1.label              "Vòstre senhal principal es utilizat per protegir d'entresenhas sensiblas coma lo senhals utilizats suls sits.">
+<!ENTITY removeWarning2.label              "Se suprimissètz vòstre senhal principal, vòstras informacions seràn pas protegidas se vòstre ordenador es compromés.">
+<!ENTITY setPassword.oldPassword.label     "Senhal actual :">
+

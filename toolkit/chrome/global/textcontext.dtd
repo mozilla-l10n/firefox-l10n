@@ -1,17 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Copar">
 <!ENTITY cutCmd.accesskey "p">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Empegar">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Anullar">
 <!ENTITY undoCmd.accesskey "A">
 <!ENTITY selectAllCmd.label "Seleccionar tot">
-<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Suprimir">
 <!ENTITY deleteCmd.accesskey "S">
+
 <!ENTITY spellAddToDictionary.label "Apondre al diccionari">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Anullar l'apondon al diccionari">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Verificar l'ortografia">
 <!ENTITY spellCheckEnable.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(pas de mot suggerit)">

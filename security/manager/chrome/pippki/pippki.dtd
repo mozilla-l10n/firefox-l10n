@@ -1,18 +1,31 @@
-<!ENTITY setPassword.title "Modificar lo senhal principal">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title  "Modificar lo senhal principal">
 <!ENTITY setPassword.tokenName.label "Periferic de seguretat">
 <!ENTITY setPassword.oldPassword.label "Senhal actual :">
 <!ENTITY setPassword.newPassword.label "Picatz lo senhal actual :">
 <!ENTITY setPassword.reenterPassword.label "Tornatz picatz lo senhal :">
 <!ENTITY setPassword.meter.label "Mesura de la qualitat del senhal">
 <!ENTITY setPassword.meter.loading "Cargament">
+<!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "Escafar">
-<!ENTITY resetPassword.title "Tornar inicializar lo senhal principal">
-<!ENTITY resetPassword.text "S'escafatz vòstre senhal principal, totes vòstres senhals Web e corrièr, vòstras donadas de formularis, vòstres certificats personals e vòstras claus privadas seràn doblidats. Volètz vertadièrament suprimir lo senhal principal ?">
-<!ENTITY getPassword.title "Picar lo senhal principal">
+<!ENTITY resetPassword.title  "Tornar inicializar lo senhal principal">
+<!ENTITY resetPassword.text  "S'escafatz vòstre senhal principal, totes vòstres senhals Web e corrièr, vòstras donadas de formularis, vòstres certificats personals e vòstras claus privadas seràn doblidats. Volètz vertadièrament suprimir lo senhal principal ?">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title  "Picar lo senhal principal">
 <!ENTITY getPassword.tokenName2.label "Periferic de seguretat">
 <!ENTITY getPassword.password.label "Senhal :">
+<!-- These should be common -->
+
 <!ENTITY piperror.title "Error">
 <!ENTITY pipalert.title "Error - impossible de recuperar">
+<!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "Seguretat">
 <!ENTITY pref.security.general.rHeader "Paramètres generals de seguretat">
 <!ENTITY pref.security.general.header "Paramètres generals de seguretat">
@@ -20,9 +33,11 @@
 <!ENTITY pref.security.general.paranoid.label "Utilizar lo nivèl de seguretat paranoiac">
 <!ENTITY pref.security.general.certificates.title "Certificats">
 <!ENTITY pref.security.general.manageCert.label "Gerir los certificats">
+<!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "Telecargament del certificat">
 <!ENTITY downloadCert.message1 "Se vos a demandat de confirmar una autoritat de certificacion novèla (AC).">
-<!ENTITY downloadCert.trustSSL "Confirmar aquesta AC per identificar de sits Web.">
+<!ENTITY downloadCert.trustSSL "Confirmar aquesta AC per identificar de sites Web.">
 <!ENTITY downloadCert.trustEmail "Confirmar aquesta AC per identificar los utilizaires de corrièr.">
 <!ENTITY downloadCert.trustObjSign "Confirmar aquesta AC per identificar los desvolopaires de logicials.">
 <!ENTITY downloadCert.message3 "Abans de confirmar aquesta AC per quina rason que siá, la deuriatz examinar, ela, sos metòdes e sas proceduras (se possible).">
@@ -30,41 +45,58 @@
 <!ENTITY downloadCert.viewPolicy.label "Politica">
 <!ENTITY downloadCert.viewCert.text "Examinar lo certificat d'AC">
 <!ENTITY downloadCert.viewPolicy.text "Examinar la politica d'AC e sas proceduras">
+<!-- Certificate Exists in database -->
+
 <!ENTITY caCertExists.title "Lo certificat exitís.">
 <!ENTITY caCertExists.message "Lo certificat exitís ja.">
+<!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "Requèsta d'identificacion d'utilizaire">
 <!ENTITY clientAuthAsk.message1 "Aqueste sit vos demanda de vos identificar amb un certificat de seguretat :">
 <!ENTITY clientAuthAsk.message2 "Causir un certificat de presentar coma identificacion :">
 <!ENTITY clientAuthAsk.message3 "Detalhs del certificat seleccionat :">
+<!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "Seleccionatz un certificat">
-<!ENTITY certPicker.info "Certificat :">
+<!ENTITY certPicker.info  "Certificat :">
 <!ENTITY certPicker.detailsLabel "Detalhs del certificat seleccionat :">
-<!ENTITY pkcs12.setpassword.title "Causir un senhal de salvament del certificat">
-<!ENTITY pkcs12.setpassword.message "Lo senhal de salvament del certificat que venètz de definir protegís lo fichièr de salvamanet qu'anatz crear. Vos cal balhar lo senhal per començar aqueste salvament.">
+
+<!ENTITY pkcs12.setpassword.title  "Causir un senhal de salvament del certificat">
+<!ENTITY pkcs12.setpassword.message  "Lo senhal de salvament del certificat que venètz de definir protegís lo fichièr de salvamanet qu'anatz crear. Vos cal balhar lo senhal per començar aqueste salvament.">
 <!ENTITY pkcs12.setpassword.label1 "Senhal de salvament del certificat :">
 <!ENTITY pkcs12.setpassword.label2 "Senhal de salvament del certificat (encara) :">
 <!ENTITY pkcs12.setpassword.reminder "Important : s'avètz doblidat vòstre senhal de seguretat, poiretz pas pus importar aqueste salvament mai tard. Conservatz-lo en luòc segur.">
-<!ENTITY pkcs12.getpassword.title "Fenèstra d'entrada del senhal">
+
+<!ENTITY pkcs12.getpassword.title  "Fenèstra d'entrada del senhal">
 <!ENTITY pkcs12.getpassword.message "Picatz lo senhal portable de seguretat que protegís aqueste certificat de seguretat e la clau privada.">
-<!ENTITY chooseToken.title "Causida del geton">
+
+<!ENTITY chooseToken.title  "Causida del geton">
 <!ENTITY chooseToken.message1 "Causissètz un geton">
+
 <!ENTITY escrowWarn.title "Còpia de la clau de chiframent">
 <!ENTITY escrowWarn.message1 "Important : aquesta autoritat de certificat a demandat de far un salvament de vòstra clau privada de chiframent.">
 <!ENTITY escrowWarn.benefit1 "L'interès es que se perdètz l'accès a vòstra clau de chiframent privada, ne poiretz demandar una còpia a aquesta autoritat de certificat.">
 <!ENTITY escrowWarn.message2 "Ça que la, vòstra clau de chiframent privada serà estocada per l'autoritat de certificat, e poirà èsser utilizada per legir lo corrièr o de documents chifrats sens vòstra permission.">
 <!ENTITY examineCert.label "Veire lo certificat">
 <!ENTITY examineCert.accesskey "V">
+
 <!ENTITY serverCrlNextupdate.message "Demandatz d'ajuda a l'administrator de vòstre sistèma">
+<!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "Generar una clau privada">
 <!ENTITY createCertInfo.msg1 "Generacion de la clau en cors… Aquesta operacion pòt prendre mantuna minuta…">
 <!ENTITY createCertInfo.msg2 "Esperatz...">
+<!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "Requèsta de signatura de tèxt">
 <!ENTITY formSigning.cert "Certificat de signatura">
 <!ENTITY formSigning.confirmPassword "Per confirmar qu'acceptatz de signar aqueste messatge amb lo certificat seleccionat, picatz lo senhal principal :">
+<!-- Strings for protectedAuth dialog -->
+
 <!ENTITY protectedAuth.title "Autentificacion protegida per geton">
 <!ENTITY protectedAuth.msg "Autentificatz-vos al geton. Lo metòde d'autentificacion depen del tipe de vòstre geton.">
 <!ENTITY protectedAuth.tokenName.label "Geton :">
+
 <!ENTITY certErrorDlg.title "La connexion segura a pas capitat">
 <!ENTITY certErrorDlg.info1 "Lo problèma poiriá venir de la configuracion del servidor o del fach que qualqu'un es a ensajar de s'apropriar lo servidor.">
 <!ENTITY certErrorDlg.info2 "Se vos sètz ja connectat a-n aqueste servidor amb succès, benlèu que l'error es temporària, tornatz ensajar pus tard.">
-

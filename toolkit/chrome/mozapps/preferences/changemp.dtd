@@ -1,9 +1,13 @@
-<!ENTITY setPassword.title "Modificar lo senhal principal">
-<!ENTITY setPassword.tokenName.label "Periferic de seguretat">
-<!ENTITY setPassword.oldPassword.label "Senhal actual :">
-<!ENTITY setPassword.newPassword.label "Picatz lo senhal actual :">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY setPassword.title                 "Modificar lo senhal principal">
+<!ENTITY setPassword.tokenName.label       "Periferic de seguretat">
+<!ENTITY setPassword.oldPassword.label     "Senhal actual :">
+<!ENTITY setPassword.newPassword.label     "Picatz lo senhal actual :">
 <!ENTITY setPassword.reenterPassword.label "Tornatz picatz lo senhal :">
-<!ENTITY setPassword.meter.label "Mesura de la qualitat del senhal">
-<!ENTITY setPassword.meter.loading "Cargament">
-<!ENTITY masterPasswordDescription.label "Un senhal principal servís per protegir d'entresenhas sensiblas coma los senhals utilizats suls sits. Se ne creatz un, vos serà demandat de l'introduire un còp per sesilha quand &brandShortName; accedís a las entresenhas enregistradas protegidas per aqueste senhal.">
-<!ENTITY masterPasswordWarning.label "Fasètz atencion a doblidar pas lo senhal principal. S'o doblidatz, aurètz pas pus accès a las entresenhas que protegís.">
+<!ENTITY setPassword.meter.label           "Mesura de la qualitat del senhal">
+<!ENTITY setPassword.meter.loading         "Cargament">
+<!ENTITY masterPasswordDescription.label   "Un senhal principal servís per protegir d'entresenhas sensiblas coma los senhals utilizats suls sits. Se ne creatz un, vos serà demandat de l'introduire un còp per sesilha quand &brandShortName; accedís a las entresenhas enregistradas protegidas per aqueste senhal.">
+<!ENTITY masterPasswordWarning.label       "Fasètz atencion a doblidar pas lo senhal principal. S'o doblidatz, aurètz pas pus accès a las entresenhas que protegís.">

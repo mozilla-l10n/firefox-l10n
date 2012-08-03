@@ -1,22 +1,32 @@
-<!ENTITY window.width "36em">
-<!ENTITY cookiesonsystem.label "Los cookies seguents son estocats sus vòstre ordenador :">
-<!ENTITY cookiename.label "Nom del cookie">
-<!ENTITY cookiedomain.label "Sit">
-<!ENTITY button.removecookie.label "Suprimir lo Cookie">
-<!ENTITY button.removecookie.accesskey "S">
-<!ENTITY button.removeallcookies.label "Suprimir totes los Cookies">
-<!ENTITY button.removeallcookies.accesskey "T">
-<!ENTITY props.name.label "Nom :">
-<!ENTITY props.value.label "Contengut :">
-<!ENTITY props.domain.label "Òste :">
-<!ENTITY props.path.label "Camin :">
-<!ENTITY props.secure.label "Mandat per :">
-<!ENTITY props.expires.label "Expira :">
-<!ENTITY window.title "Cookies">
-<!ENTITY windowClose.key "w">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "Recercar :">
-<!ENTITY filter.accesskey "R">
-<!ENTITY button.close.label "Tampar">
-<!ENTITY button.close.accesskey "T">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                       "36em">
+
+<!ENTITY     cookiesonsystem.label          "Los cookies seguents son emmagazinats sus vòstre ordenador :">
+<!ENTITY     cookiename.label               "Nom del cookie">
+<!ENTITY     cookiedomain.label             "Site"> 
+<!ENTITY     button.removecookies.label     "Suprimir los Cookies">
+<!ENTITY     button.removecookie.label      "Suprimir lo Cookie">
+<!ENTITY     button.removecookie.accesskey  "S">
+<!ENTITY     button.removeallcookies.label  "Suprimir totes los Cookies">
+<!ENTITY     button.removeallcookies.accesskey "t">
+
+<!ENTITY     props.name.label               "Nom :">
+<!ENTITY     props.value.label              "Contengut :">
+<!ENTITY     props.domain.label             "Òste :">
+<!ENTITY     props.path.label               "Camin :">
+<!ENTITY     props.secure.label             "Mandat per :">
+<!ENTITY     props.expires.label            "Expira :">
+
+<!ENTITY     window.title                   "Cookies">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
+
+<!ENTITY     filter.label                   "Recercar :">
+<!ENTITY     filter.accesskey               "R">
+
+<!ENTITY     button.close.label             "Tampar">
+<!ENTITY     button.close.accesskey         "T">

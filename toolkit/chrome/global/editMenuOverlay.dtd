@@ -1,31 +1,35 @@
-<!ENTITY editMenu.label "Edicion">
-<!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Anullar">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Tornar far">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "T">
-<!ENTITY cutCmd.label "Copar">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "p">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Empegar">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Suprimir">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY selectAllCmd.label "Seleccionar tot">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "T">
-<!ENTITY findCmd.label "Recercar">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "c">
-<!ENTITY findAgainCmd.label "Recercar tornamai">
-<!ENTITY findAgainCmd.key "t">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findPreviousCmd.label "Recercar lo precendent">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editMenu.label            "Edicion">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label             "Anullar">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "u">
+<!ENTITY redoCmd.label             "Tornar far">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "T">
+<!ENTITY cutCmd.label              "Copar">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "p">
+<!ENTITY copyCmd.label             "Copiar">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY pasteCmd.label            "Empegar">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "p">
+<!ENTITY deleteCmd.label           "Suprimir">
+<!ENTITY deleteCmd.accesskey       "S">
+<!ENTITY selectAllCmd.label        "Seleccionar tot">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "t">
+<!ENTITY findCmd.label             "Recercar">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "c">
+<!ENTITY findAgainCmd.label        "Recercar lo seguent">
+<!ENTITY findAgainCmd.key          "t">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "n">
+<!ENTITY findPreviousCmd.label     "Recercar lo precendent">
 <!ENTITY findPreviousCmd.accesskey "e">

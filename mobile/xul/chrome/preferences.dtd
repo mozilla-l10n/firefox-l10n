@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY prefsHeader.label                         "Preferéncias">
+<!ENTITY about.title                               "A prepaus de &brandShortName;">
+<!ENTITY about.button                              "Anar a la pagina">
+<!ENTITY content.title                             "Contengut">
+<!ENTITY reflowZoom.title                          "Reformat text on zoom">
+<!ENTITY showImages.title                          "Show images">
+<!ENTITY enableJavaScript.title                    "Activar JavaScript">
+<!ENTITY privacy.title                             "Vida privada e seguretat">
+<!ENTITY allowCookies.title                        "Allow cookies">
+<!ENTITY doNotTrack.title                          "Dire de me pistar pas">
+<!ENTITY masterPassword.title                      "Utilizar un senhal principal">
+<!ENTITY clearPrivateData2.title                   "Suprimir las donadas personalas">
+<!ENTITY clearPrivateData.button                   "Escafar">
+<!ENTITY rememberPasswords.title                   "Enreg. los senhals">
+<!ENTITY language.title                            "Lenga">
+<!ENTITY language.auto                             "Deteccion automatica">
+<!ENTITY defaultBrowser.title                      "Navigador per defaut">
+<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
+<!ENTITY homepage.title                            "Acuèlh">
+<!ENTITY homepage.none                             "Pagina voida">
+<!ENTITY homepage.default                          "Acuèlh de &brandShortName;">
+<!ENTITY homepage.currentpage                      "Utilizar la pagina activa">
+<!ENTITY showCharsetEncoding.title                 "Afichar l'encodatge">
+<!ENTITY actionbar.default                         "Paramètres de &brandShortName;">

@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+<!-- These strings are used in the sync progress upload page -->
+
+<!ENTITY syncProgress.pageTitle    "Vòstra primièra sincronizacion">
+<!ENTITY syncProgress.textBlurb    "Vòstras donadas son ara chifradas e mandadas en rèire plan. Podètz tampar aqueste onglet e contunhar d'utilizar &brandShortName;.">
+<!ENTITY syncProgress.closeButton  "Tampar">
+<!ENTITY syncProgress.logoAltText  "&brandShortName;">
+<!ENTITY syncProgress.diffText     "&brandShortName; serà d'ara enlà sincronizat automaticament en rèire plan. Podètz tampar aqueste onglet e contunhar d'utilizar &brandShortName;.">
+

@@ -1,33 +1,42 @@
-<!ENTITY startup.label "Aviada">
-<!ENTITY startupPage.label "Quand &brandShortName; s'avia :">
-<!ENTITY startupPage.accesskey "s">
-<!ENTITY startupHomePage.label "Visualizar ma pagina d'acuèlh">
-<!ENTITY startupBlankPage.label "Visualizar una pagina voida">
-<!ENTITY startupLastSession.label "Visualizar los onglets e fenèstras del darrièr còp">
-<!ENTITY location.label "Pagina d'acuèlh :">
-<!ENTITY location.accesskey "a">
-<!ENTITY useCurrentPage.label "Utilizar la pagina activa">
-<!ENTITY useCurrentPage.accesskey "U">
-<!ENTITY useMultiple.label "Utilizar las paginas activas">
-<!ENTITY useBookmark.label "Utilizar un marcapaginas">
-<!ENTITY useBookmark.accesskey "s">
-<!ENTITY restoreDefault.label "Restablir la valor per defaut">
-<!ENTITY restoreDefault.accesskey "R">
-<!ENTITY downloads.label "Telecargaments">
-<!ENTITY showWhenDownloading.label "Visualizar la fenèstra dels Telecargaments quand telecargatz un fichièr">
-<!ENTITY showWhenDownloading.accesskey "T">
-<!ENTITY closeWhenDone.label "Tampar quand los telescargaments son acabats">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "Aviada">
+
+<!ENTITY startupPage.label         "A l'aviada de &brandShortName; :">
+<!ENTITY startupPage.accesskey     "v">
+<!ENTITY startupHomePage.label     "Afichar ma pagina d'acuèlh">
+<!ENTITY startupBlankPage.label    "Afichar una pagina voida">
+<!ENTITY startupLastSession.label  "Afichar los onglets e fenèstras utilizats lo darrièr còp">
+
+<!ENTITY homepage.label            "Pagina d'acuèlh :">
+<!ENTITY homepage.accesskey        "a">
+<!ENTITY useCurrentPage.label      "Utilizar la pagina activa">
+<!ENTITY useCurrentPage.accesskey  "U">
+<!ENTITY useMultiple.label         "Utilizar las paginas activas">
+<!ENTITY chooseBookmark.label      "Favorits...">
+<!ENTITY chooseBookmark.accesskey  "s">
+<!ENTITY restoreDefault.label      "Restablir la configuracion per defaut">
+<!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY downloads.label     "Telecargaments">
+
+<!ENTITY showWhenDownloading.label     "Afichar la fenèstra dels Telecargaments quand telecargatz un fichièr">
+<!ENTITY showWhenDownloading.accesskey "f">
+<!ENTITY closeWhenDone.label "La tampar quand totes los telescargaments son acabats">
 <!ENTITY closeWhenDone.accesskey "L">
-<!ENTITY saveTo.label "Enregistrar los fichièrs dins lo repertòri">
+<!ENTITY saveTo.label "Enregistrar los fichièrs dins lo dorsièr">
 <!ENTITY saveTo.accesskey "n">
-<!ENTITY chooseFolderWin.label "Percórrer...">
-<!ENTITY chooseFolderWin.accesskey "P">
-<!ENTITY chooseFolderMac.label "Causir...">
-<!ENTITY chooseFolderMac.accesskey "C">
-<!ENTITY alwaysAsk.label "Totjorn demandar ont enregistrar los fichièrs">
-<!ENTITY alwaysAsk.accesskey "T">
-<!ENTITY addonsMgr.label "Moduls complementaris">
-<!ENTITY manageAddonsDescWin.label "Modificar las opcions de vòstres moduls complementaris">
-<!ENTITY manageAddonsDescUnix2.label "Modificar las preferéncias de vòstres moduls complementaris">
-<!ENTITY manageAddons.label "Gerir los moduls complementaris...">
-<!ENTITY manageAddons.accesskey "G">
+<!ENTITY chooseFolderWin.label        "Percórrer...">
+<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderMac.label        "Causir...">
+<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY alwaysAsk.label "Demandar totjorn ont cal enregistrar los fichièrs">
+<!ENTITY alwaysAsk.accesskey "t">
+
+<!ENTITY addonsMgr.label               "Moduls complementaris">
+<!ENTITY manageAddonsDescWin.label     "Modificar las opcions de vòstres moduls complementaris">
+<!ENTITY manageAddonsDescUnix2.label   "Modificar las preferéncias de vòstres moduls complementaris">
+<!ENTITY manageAddons.label            "Gerir los moduls complementaris...">
+<!ENTITY manageAddons.accesskey        "G">

@@ -1,2 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY selectBookmark.title "Definir la pagina d'acuèlh">
-<!ENTITY selectBookmark.label "Causir un marcapaginas coma pagina d'acuèlh. Se causissètz un repertòri , los marcapaginas d'aqueste repertòri se dobriràn dins d'onglets.">
+<!ENTITY selectBookmark.label "Causir un marcapaginas coma pagina d'acuèlh. Se causissètz un dorsièr, los marcapaginas d'aqueste dorsièr se dobriràn dins d'onglets.">
+

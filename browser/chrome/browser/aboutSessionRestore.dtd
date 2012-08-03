@@ -1,19 +1,21 @@
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY restorepage.tabtitle       "Restaurar la sesilha">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "Bon, es embestiant.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; a de problèmas a recobrar vòstres fenèstras e onglets. En general, lo problèma ven d'una pagina web dobèrta fa pauc de temps.">
-
 <!ENTITY restorepage.tryThis        "Podètz ensajar de :">
 <!ENTITY restorepage.restoreSome    "levar un onglet (o mai) que poiriá causar lo problèma a vòstre vejaire">
 <!ENTITY restorepage.startNew       "aviar una sesilha de navigacion novèla">
 
 <!ENTITY restorepage.tryagainButton "Restaurar">
-
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Aviar una sesilha novèla">
-<!ENTITY restorepage.cancel.access  "A">
+<!ENTITY restorepage.closeButton    "Tampar">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Fenèstras e onglets">

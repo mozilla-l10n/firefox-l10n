@@ -1,6 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY crashes.title              "Rapòrts de plantatge mandats">
 <!ENTITY id.heading                 "Identificant del rapòrt">
 <!ENTITY date.heading               "Data de somission">
 <!ENTITY noReports.label            "Cap de rapòrt de plantatge es pas estat mandat.">
 <!ENTITY noConfig.label             "Aquesta aplicacion es pas configurada per afichar los rapòrts de plantatge. Vos cal definir la variabla <code>breakpad.reportURL</code>">
-<!ENTITY clearReports.label      "Suprimir totes los rapòrts">
+<!ENTITY clearAllReports.label      "Suprimir totes los rapòrts">
+

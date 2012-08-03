@@ -1,49 +1,66 @@
-<!ENTITY sanitizePrefs2.title           "Paramètres per voidar las donadas privadas">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sanitizePrefs2.title          "Paramètres per voidar las donadas privadas">
 <!ENTITY sanitizeDialog2.title         "Voidar l'istoric recent">
-<!ENTITY sanitizeItems.label "Voidar los elements seguents ara :">
+
+<!ENTITY sanitizeItems.label          "Voidar los elements seguents ara :">
 <!ENTITY clearDataSettings2.label     "Quand sortissi de &brandShortName;, deu voidar automaticament :">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+
 <!ENTITY clearTimeDuration.label          "Periòde a suprimir : ">
-<!ENTITY clearTimeDuration.accesskey      "S">
+<!ENTITY clearTimeDuration.accesskey      "s">
 <!ENTITY clearTimeDuration.lastHour       "la darrièra ora">
 <!ENTITY clearTimeDuration.last2Hours     "las 2 darrièras oras">
-<!ENTITY clearTimeDuration.last4Hours     "las 4 darrièras oras">
-<!ENTITY clearTimeDuration.today          "mon istoric de uèi">
+<!ENTITY clearTimeDuration.last4Hours     "las quatre darrièras oras">
+<!ENTITY clearTimeDuration.today          "mon istoric d'uèi">
 <!ENTITY clearTimeDuration.everything     "mon istoric en entièr">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
+that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
 <!ENTITY clearTimeDuration.dateColumn     "Data de visita">
 <!ENTITY clearTimeDuration.nameColumn     "Nom">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
 
 <!ENTITY detailsProgressiveDisclosure.label     "Detalhs">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Istoric">
+<!ENTITY dataSection.label            "Donadas">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+
+<!ENTITY itemHistoryAndDownloads.label     "Istoric de navigacion e dels telecargaments">
+<!ENTITY itemHistoryAndDownloads.accesskey "n">
 <!ENTITY itemBrowsingHistory.label         "Istoric de navigacion">
 <!ENTITY itemBrowsingHistory.accesskey     "n">
-
-<!ENTITY dataSection.label            "Donadas">
-<!ENTITY itemOfflineApps.label "Donadas de sits web sens connexion">
-<!ENTITY itemOfflineApps.accesskey "s">
-<!ENTITY itemFormSearchHistory.label  "Dintradas de formularis e de recèrca">
-<!ENTITY itemFormSearchHistory.accesskey "f">
-<!ENTITY itemPasswords.label          "Mots de pas enregistrats">
-<!ENTITY itemPasswords.accesskey      "p">
-<!ENTITY itemCookies.label            "Cookies">
-<!ENTITY itemCookies.accesskey        "C">
-<!ENTITY itemCache.label           "Amagantal web">
-<!ENTITY itemCache.accesskey       "w">
-<!ENTITY itemDownloadHistory.label       "Tièra de telecargaments">
-<!ENTITY itemDownloadHistory.accesskey   "t">
-<!ENTITY itemActiveLogins.label       "Connexions activas">
-<!ENTITY itemActiveLogins.accesskey   "a">
-<!ENTITY column.width                 "14em">
-<!ENTITY dialog.width                 "32em">
-<!ENTITY itemHistoryAndDownloads.label     "Istoric de navigacion e de telecargament">
-<!ENTITY itemHistoryAndDownloads.accesskey "n">
-<!ENTITY itemSitePreferences.label         "Preferéncias del sit">
+<!ENTITY itemFormSearchHistory.label       "Istoric dels formularis e de las recèrcas">
+<!ENTITY itemFormSearchHistory.accesskey   "f">
+<!ENTITY itemPasswords.label               "Senhals enregistrats">
+<!ENTITY itemPasswords.accesskey           "h">
+<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Escondedor">
+<!ENTITY itemCache.accesskey               "n">
+<!ENTITY itemOfflineApps.label             "Donadas de sitz web fòra connexion">
+<!ENTITY itemOfflineApps.accesskey         "s">
+<!ENTITY itemDownloadHistory.label         "Istoric dels telecargaments">
+<!ENTITY itemDownloadHistory.accesskey     "o">
+<!ENTITY itemActiveLogins.label            "Connexions activas">
+<!ENTITY itemActiveLogins.accesskey        "a">
+<!ENTITY itemSitePreferences.label         "Preferéncias del site">
 <!ENTITY itemSitePreferences.accesskey     "s">
-
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
+
 <!ENTITY sanitizeEverythingUndoWarning     "Impossible d'anullar aquesta accion.">
 
+<!ENTITY dialog.width                 "32em">
+<!ENTITY column.width                 "14em">
