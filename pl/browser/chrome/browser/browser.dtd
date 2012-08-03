@@ -637,6 +637,9 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "Z">
 
+<!ENTITY socialToolbar.title "Przycisk paska społecznościowego">
+<!ENTITY social.notLoggedIn.label "Nie zalogowano">
+
 <!ENTITY social.sharePopup.undo.label "Przestań udostępniać">
 <!ENTITY social.sharePopup.undo.accesskey "P">
 <!ENTITY social.sharePopup.ok.label "OK">
