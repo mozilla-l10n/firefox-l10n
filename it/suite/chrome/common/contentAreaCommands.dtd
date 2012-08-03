@@ -50,8 +50,8 @@
 <!ENTITY viewVideoCmd.accesskey "M">
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
 <!ENTITY viewBGImageCmd.accesskey "d">
-<!ENTITY setWallpaperCmd.label "Imposta come sfondo">
-<!ENTITY setWallpaperCmd.accesskey "f">
+<!ENTITY setDesktopBackgroundCmd.label "Imposta sfondo del desktop…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "k">
 <!ENTITY bookmarkPageCmd.label "Aggiungi pagina nei segnalibri…">
 <!ENTITY bookmarkPageCmd.accesskey "b">
 <!ENTITY bookmarkLinkCmd.label "Aggiungi link nei segnalibri…">

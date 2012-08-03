@@ -38,6 +38,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY linkToolbar.label "Barra navigazione sito">
 <!ENTITY linkToolbar.accesskey "t">
+<!ENTITY linkToolbar.tooltip "Barra navigazione sito">
 <!ENTITY linkToolbarAlways.label "Mostra sempre">
 <!ENTITY linkToolbarAlways.accesskey "M">
 <!ENTITY linkToolbarAsNeeded.label "Mostra solo se necessario">
