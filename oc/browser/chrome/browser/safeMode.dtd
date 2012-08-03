@@ -1,16 +1,19 @@
-<!ENTITY safeModeDialog.title "Mòde segur de &brandShortName;">
-<!ENTITY window.width "37em">
-<!ENTITY safeModeDescription.label "&brandShortName; marca ara en mòde segur, çò que desactiva per un moment vòstres paramètres, tèmas e extensions personalizats.">
-<!ENTITY safeModeDescription2.label "D'unas (o totas las) modificacions pòdon venir permanentas :">
-<!ENTITY disableAddons.label "Desactivar totes los moduls complementaris">
-<!ENTITY disableAddons.accesskey "D">
-<!ENTITY resetToolbars.label "Tornat inicializar las barras d'espleches e los contraròtles">
-<!ENTITY resetToolbars.accesskey "T">
-<!ENTITY resetBookmarks.label "Tornar inicializar los marcapaginas per defaut de &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "s">
-<!ENTITY resetUserPrefs.label "Tornar inicializar las preferéncias per defaut de &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "p">
-<!ENTITY restoreSearch.label "Restablir los motors de recèrca per defaut">
-<!ENTITY restoreSearch.accesskey "m">
-<!ENTITY changeAndRestartButton.label "Aplicar las modificacions e tornar aviar">
-<!ENTITY continueButton.label "Contunhar en mòde segur">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title         "Mòde segur de &brandShortName;">
+<!ENTITY window.maxWidth              "400">
+
+<!ENTITY startSafeMode.label          "Aviar en mòde sens fracàs">
+<!ENTITY resetProfile.label           "Reïnicializar &brandShortName;">
+
+<!ENTITY safeModeDescription3.label   "Lo mòde sens fracàs es un mòde particular de &brandShortName; pòt èsser utilizat per resòlvre de problèmas.">
+<!ENTITY safeModeDescription4.label   "Vòstres moduls e paramètres personalizats seràn temporàriament desactivats.">
+
+<!ENTITY resetProfileInstead.label    "Tanben, podètz reïnicializar &brandShortName; se preferissètz tornar començar a zèro.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; s'es tampat inopinèament al moment de son aviada. Aquò pòt èsser causat per de moduls o per d'autres problèmas. Podètz ensajar de resòlvre lo problèma en reïnicializant &brandShortName; a son estat original o de lo reglar via lo mòde sens fracàs.">
+<!ENTITY resetProfileFooter.label       "Tot lo demai serà reïnicializat a son estat per defaut.">
+<!ENTITY safeModeInstead.label          "S'es pas çò que desiratz, podètz contunhar en mòde sens fracàs per reglar lo problèma a vòstre biais mentre que vòstres moduls e reglatges personalizats son temporàriament desactivats.">

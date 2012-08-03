@@ -1,21 +1,6 @@
-<!ENTITY untitledTab "(sens títol)">
-<!ENTITY newTab.label "Onglet novèl">
-<!ENTITY newTab.accesskey "n">
-<!ENTITY closeTab.label "Tampar l'onglet">
-<!ENTITY closeTab.accesskey "T">
-<!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY closeOtherTabs.label "Tampar los autres onglets">
-<!ENTITY reloadAllTabs.label "Tornar cargar totes los onglets">
-<!ENTITY reloadAllTabs.accesskey "T">
-<!ENTITY reloadTab.label "Tornar cargar l'onglet">
-<!ENTITY reloadTab.accesskey "r">
-<!ENTITY listAllTabs.label "Far la tièra de totes los onglets">
-<!ENTITY bookmarkAllTabs.label "Marcar totes los onglets...">
-<!ENTITY bookmarkAllTabs.accesskey "o">
-<!ENTITY bookmarkThisTab.label "Marcar aqueste onglet">
-<!ENTITY bookmarkThisTab.accesskey "M">
-<!ENTITY undoCloseTab.label "Anullar la tampadura de l'onglet">
-<!ENTITY undoCloseTab.accesskey "u">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  closeTab.label         "Tampar l'onglet">
 <!ENTITY  newTabButton.tooltip        "Dobrir un onglet novèl">
-<!ENTITY  openTabInNewWindow.label     "Dobrir dins una fenèstra novèla">
-<!ENTITY  openTabInNewWindow.accesskey "f">

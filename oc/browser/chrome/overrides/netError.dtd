@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
 <!ENTITY loadError.label "Problèma al moment de cargar la pagina">
 <!ENTITY retry.label "Tornatz ensajar">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Impossible de se connectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -13,64 +17,53 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Impossible de trobar lo servidor">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Verificatz se i a pas d'error de picada de 
-    l'adreça coma <strong>ww</strong>.exemple.com al 
-    luòc de <strong>www</strong>.exemple.com</li>
-  <li>Se capitatz pas a navigar sus cap de sit, verificatz la connexion.</li>
-  <li>Se vòstre ordenador es protegit per un parafuòc o un proxy, asseguratz-vos
-    que &brandShortName; a l'autorizacion d'accedir a internet.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Verificatz se i a pas d'error de picada de 
+l'adreça coma <strong>ww</strong>.exemple.com al 
+luòc de <strong>www</strong>.exemple.com</li> 
+<li>Se capitatz pas a navigar sus cap de sit, verificatz la connexion.</li> 
+<li>Se vòstre ordenador es protegit per un parafuòc o un proxy, asseguratz-vos 
+que &brandShortName; a l'autorizacion d'accedir a internet.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fichièrs pas trobat">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas)&nbsp;;</li>
-  <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li>
-</ul>
-">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;</li> 
+<li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> 
+</ul>">
 
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName;  pòt pas cargar aquesta pagina.</p>
-">
+<!ENTITY generic.title "La requèsta pòt pas abotir">
+<!ENTITY generic.longDesc "<p>&brandShortName;  pòt pas cargar aquesta pagina.</p>">
 
 <!ENTITY malformedURI.title "Aquesta adreça es pas valida.">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>La sintaxi de las adreças web es generalament 
-    <strong>http://www.exemple.com/</strong></li>
-  <li>Asseguratz-vos qu'utilizatz plan las bonas barras oblicas 
-    (es a dire <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>La sintaxi de las adreças web es generalament 
+<strong>http://www.exemple.com/</strong></li> 
+<li>Asseguratz-vos qu'utilizatz plan las bonas barras oblicas 
+(es a dire <strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "La connexion es estada interrompuda">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Lo document a expirat">
+<!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins l'escondedor de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; torna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Ensajar Tornarmai per tornar demandar aqueste document dempuèi lo site web.</li></ul>">
+
 <!ENTITY netOffline.title "Mòde sens connexion">
-<!ENTITY netOffline.longDesc "
-<ul>
-<li>Desmarcatz &quot;Trabalhar fòra connexion&quot; dins lo menut Fichièr e ensajatz tornamai.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 " <ul> 
+<li>Clicatz sul boton « Ensajatz tornarmai » per tornar en mòde connectat e recargar la pagina.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-<li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li> 
+</ul>">
 
-<!ENTITY unsafeContentType.title "Mena de fichièr pas segura">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-<li>Contactatz los proprietaris del sit Web per los assabentar d'aqueste problèma.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "Tipe de fichièr pas segur">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li> 
+</ul>">
 
 <!ENTITY netReset.title "La connexion es estada reinicializada">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -79,99 +72,82 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "La connexion es pas estada compresa">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-<li>Benlèu es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.</li>
-</ul>
-">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Benlèu es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Lo servidor mandatòri refusa las connexions">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-<li>Verificatz que los paramètres del proxy son corrèctes&nbsp;;</li>
-<li>Contactatz vòstre administrator de ret per vos assegurar que lo servidor proxy
-fonciona.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Verificatz que los paramètres del proxy son corrèctes ;</li> 
+<li>Contactatz vòstre administrator de ret per vos assegurar que lo servidor proxy 
+fonciona.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatòri">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-<li>Verificatz que los paramètres del proxy son corrèctes&nbsp;;</li>
-<li>Verificatz que la connexion ret de vòstre ordenador fonciona&nbsp;;</li>
-<li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy,
-asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Verificatz que los paramètres del proxy son corrèctes ;</li> 
+<li>Verificatz que la connexion ret de vòstre ordenador fonciona ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-<li>La causa d'aqueste problèma pòt èsser la desactivacion o lo refús
-dels cookies.</li>
-</ul>
-">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>La causa d'aqueste problèma pòt èsser la desactivacion o lo refús 
+dels cookies.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "Responsa inesperada del servidor">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-<li>Verificatz que lo gestionari de seguretat personala (PSM) es installat sus
-vòstre sistèma.</li>
-<li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Verificatz que lo gestionari de seguretat personala (PSM) es installat sus 
+vòstre sistèma.</li> 
+<li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li> </ul>">
 
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas
-pòt pas èsser verificada.</li>
-<li>Contactatz los proprietaris del sit Web per los n'assabentar.
-Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un sit pas foncional.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas 
+pòt pas èsser verificada.</li> 
+<li>Contactatz los proprietaris del sit Web per los n'assabentar. 
+Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un sit pas foncional.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-<!ENTITY nssBadCert.longDesc2 "
-<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li>
-<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> 
+<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> 
+</ul>">
 
-<!ENTITY sharedLongDesc "
-<ul>
-<li>Benlèu lo sit es temporàriament indisponible o subrecargat. Tornatz ensajar pus
-tard&nbsp;;</li>
-<li>Se capitatz pas de navigar sus cap de sit, verificatz la connexion
-a la ret de vòstre ordenador&nbsp;;</li>
-<li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy,
-asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc "<ul> 
+<li>Benlèu lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus 
+tard ;</li> 
+<li>Se capitatz pas de navigar sus cap de sit, verificatz la connexion 
+a la ret de vòstre ordenador ;</li> 
+<li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
-<!ENTITY malwareBlocked.title "Suspicion de sit malvolent !">
-<!ENTITY malwareBlocked.longDesc "
-<p>Los sits malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p>
-<p>Los proprietaris de sits Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo'>demandar una revision</a>.</p>
-">
+<!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
+<!ENTITY malwareBlocked.longDesc "<p>Los sits malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p> 
+<p>Los proprietaris de sits Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo' >demandar una revision</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Suspicion de sit contrefach !">
-<!ENTITY phishingBlocked.longDesc "
-<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p><p>Aquestes tipes de contrefaiçon de sits son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins lasquinas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas avètz fisança.</p>
-">
+<!ENTITY phishingBlocked.title "Suspicion de site contrefach !">
+<!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p> 
+<p>Aquestes tipes de contrafaiçon de sits son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins lasquinas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins las qualas avètz fisança.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocat per una estrategia de seguretat de contengut">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
+
+<!ENTITY corruptedContentError.title "Error deguda a un contengut corromput">
+<!ENTITY corruptedContentError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Quitar aquesta pagina !">
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Vos cal pas apondre d'excepcion s'utilizatz una connexion a Internet dins laquala avètz pas totalament fisança o s'avètz pas la costuma de recebre un avertiment per aqueste servidor.</p>
+<!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre cap d'exception se utilizatz una connexion a Internet que vos i fisatz pas totalament o se sètz pas acostumat a recebre un avertiment per aqueste servidor.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+<!ENTITY remoteXUL.title "XUL distant">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li></ul></p>">

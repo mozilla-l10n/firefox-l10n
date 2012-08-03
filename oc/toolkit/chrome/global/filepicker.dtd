@@ -1,15 +1,21 @@
-<!ENTITY lookInMenuList.label "Recercar dins :">
-<!ENTITY lookInMenuList.accesskey "R">
-<!ENTITY textInput.label "Nom del fichièr :">
-<!ENTITY textInput.accesskey "N">
-<!ENTITY filterMenuList.label "Fichièrs de tipe :">
-<!ENTITY filterMenuList.accesskey "t">
-<!ENTITY name.label "Nom">
-<!ENTITY size.label "Talha">
-<!ENTITY lastModified.label "Darrièra modificacion">
-<!ENTITY showHiddenFiles.label "Visualizar los fichièrs e repertòris amagats">
-<!ENTITY showHiddenFiles.accesskey "V">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lookInMenuList.label   "Recercar dins :">
+<!ENTITY lookInMenuList.accesskey   "R">
+<!ENTITY textInput.label        "Nom del fichièr :">
+<!ENTITY textInput.accesskey        "N">
+<!ENTITY filterMenuList.label   "Fichièrs de tipe :">
+<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY name.label             "Nom">
+<!ENTITY size.label             "Talha">
+<!ENTITY lastModified.label     "Darrièra modificacion">
+<!ENTITY showHiddenFiles.label  "Visualizar los fichièrs e repertòris amagats">
+<!ENTITY showHiddenFiles.accesskey  "V">
+
 <!ENTITY noPermissionError.label "Avètz pas las permissions necessàrias per veire aqueste repertòri.">
-<!ENTITY folderUp.tooltiptext "Montar d'un nivèl">
+
+<!ENTITY folderUp.tooltiptext   "Montar d'un nivèl">
 <!ENTITY folderHome.tooltiptext "Anar a la pagina d'acuèlh">
-<!ENTITY folderNew.tooltiptext "Crear un repertòri novèl">
+<!ENTITY folderNew.tooltiptext  "Crear un repertòri novèl">

@@ -1,18 +1,24 @@
-<!ENTITY button-back-mac.label "Tornar">
-<!ENTITY button-back-mac.accesskey "T">
-<!ENTITY button-next-mac.label "Contunhar">
-<!ENTITY button-next-mac.accesskey "C">
-<!ENTITY button-finish-mac.label "Acabat">
-<!ENTITY button-cancel-mac.label "Anullar">
-<!ENTITY button-back-unix.label "Precedent">
-<!ENTITY button-back-unix.accesskey "P">
-<!ENTITY button-next-unix.label "Seguent">
-<!ENTITY button-next-unix.accesskey "S">
-<!ENTITY button-finish-unix.label "Acabar">
-<!ENTITY button-cancel-unix.label "Anullar">
-<!ENTITY button-back-win.label "&lt; Precedent">
-<!ENTITY button-back-win.accesskey "P">
-<!ENTITY button-next-win.label "Seguent &gt;">
-<!ENTITY button-next-win.accesskey "S">
-<!ENTITY button-finish-win.label "Acabar">
-<!ENTITY button-cancel-win.label "Anullar">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  button-back-mac.label        "Tornar">
+<!ENTITY  button-back-mac.accesskey    "T">
+<!ENTITY  button-next-mac.label        "Contunhar">
+<!ENTITY  button-next-mac.accesskey    "C">
+<!ENTITY  button-finish-mac.label      "Acabat">
+<!ENTITY  button-cancel-mac.label      "Anullar">
+
+<!ENTITY  button-back-unix.label       "Precedent">
+<!ENTITY  button-back-unix.accesskey   "P">
+<!ENTITY  button-next-unix.label       "Seguent">
+<!ENTITY  button-next-unix.accesskey   "S">
+<!ENTITY  button-finish-unix.label     "Acabar">
+<!ENTITY  button-cancel-unix.label     "Anullar">
+
+<!ENTITY  button-back-win.label        "&lt; Precedent">
+<!ENTITY  button-back-win.accesskey    "P">
+<!ENTITY  button-next-win.label        "Seguent &gt;">
+<!ENTITY  button-next-win.accesskey    "S">
+<!ENTITY  button-finish-win.label      "Acabar">
+<!ENTITY  button-cancel-win.label      "Anullar">

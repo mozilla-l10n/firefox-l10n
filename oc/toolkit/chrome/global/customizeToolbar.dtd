@@ -1,12 +1,16 @@
-<!ENTITY dialog.title "Personalizar la barra d'espleches">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
-<!ENTITY instructions.description "Apondètz o suprimissètz d'elements en los lisant cap a o en defòra de las barras d'espleches.">
-<!ENTITY show.label "Mostrar :">
-<!ENTITY iconsAndText.label "Icònas e tèxt">
-<!ENTITY icons.label "Icònas">
-<!ENTITY text.label "Tèxt">
-<!ENTITY useSmallIcons.label "Icònas pichonas">
-<!ENTITY restoreDefaultSet.label "Configuracion per defaut">
-<!ENTITY addNewToolbar.label "Barra novèla">
-<!ENTITY saveChanges.label "Acabar">
-<!ENTITY undoChanges.label "Anullar los cambiaments">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "Personalizar la barra d'aisinas">
+<!ENTITY dialog.dimensions        "width: 45em; height: 32em;">
+<!ENTITY instructions.description "Apondètz o suprimissètz d'elements en los lisant cap a o en defòra de las barras d'aisinas.">
+<!ENTITY show.label               "Afichar :">
+<!ENTITY iconsAndText.label       "Icònas e tèxte">
+<!ENTITY icons.label              "Icònas">
+<!ENTITY text.label               "Tèxte">
+<!ENTITY useSmallIcons.label      "Icònas pichonas">
+<!ENTITY restoreDefaultSet.label  "Configuracion per defaut">
+<!ENTITY addNewToolbar.label      "Barra novèla">
+<!ENTITY saveChanges.label        "Acabar">
+<!ENTITY undoChanges.label        "Anullar los cambiaments">

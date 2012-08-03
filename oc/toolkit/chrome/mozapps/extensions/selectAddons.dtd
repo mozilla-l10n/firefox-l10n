@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+
+<!ENTITY checking.heading            "Verificacion de vòstres moduls complementaris">
+<!ENTITY checking.progress.label     "Verificacion de la compatibilitat de vòstres moduls complementaris amb aquesta version de &brandShortName;.">
+
+<!ENTITY select.heading              "Seleccion de vòstres moduls complementaris">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "Fasètz &brandShortName; encara mai rapid en desactivant los moduls complementaris qu'utilizatz pas mai. Los moduls complementaris ja installats per de tèrces seràn desactivats automaticament levat se los seleccionatz çaijós.">
+<!ENTITY select.keep                 "Conservar">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "width: 6ch;">
+<!ENTITY select.action               "Accion">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "width: 35ch;">
+<!ENTITY select.source               "Installat per :">
+<!ENTITY select.name                 "Nom">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "width: 33ch;">
+
+<!ENTITY confirm.heading             "Seleccionar los moduls">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "Fasètz &brandShortName; encara mai rapid en desactivant los moduls complementaris qu'utilizatz pas mai. Los moduls complementaris ja installats per de tèrces seràn desactivats automaticament levat se los seleccionatz çaijós.">
+
+<!ENTITY action.disable.heading      "Los moduls complementaris seguents seràn desactivats :">
+<!ENTITY action.incompatible.heading "Los moduls complementaris seguents son desactivats mas seràn reactivats tre que seràn compatibles tornarmai :">
+<!ENTITY action.update.heading       "Los moduls complementaris seguents seràn meses a jorn :">
+<!ENTITY action.enable.heading       "Los moduls complementaris seguents seràn activats :">
+
+<!ENTITY update.heading              "Mesa a jorn dels moduls complementaris">
+<!ENTITY update.progress.label       "Telecargament e installacion de las mesas a jorn pels moduls complementaris seleccionats.">
+
+<!ENTITY errors.heading              "&brandShortName; a pas pogut metre a jorn d'unas moduls complementaris.">
+<!ENTITY errors.description          "L'installacion de las mesas a jorn de certans dels moduls comlementaris a fracassat. &brandShortName; ensajarà automaticament de los metre a jorn mai tard.">
+
+<!ENTITY footer.label                "Podètz totjorn modificar los moduls en anant dins lo gestionari de moduls complementaris.">
+<!ENTITY cancel.label                "Anullar">
+<!ENTITY back.label                  "Precedent">
+<!ENTITY next.label                  "Seguent">
+<!ENTITY done.label                  "Acabat">

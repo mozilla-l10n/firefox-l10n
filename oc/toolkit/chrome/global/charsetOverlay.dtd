@@ -1,20 +1,25 @@
-<!ENTITY charsetMenu.label "Encodatge dels caractèrs">
-<!ENTITY charsetMenu.accesskey "E">
-<!ENTITY charsetMenuAutodet.label "Deteccion automatica">
-<!ENTITY charsetMenuAutodet.accesskey "a">
-<!ENTITY charsetMenuMore.label "Mai d'encodatges">
-<!ENTITY charsetMenuMore.accesskey "M">
-<!ENTITY charsetMenuMore1.label "Euròpa de l'oèst">
-<!ENTITY charsetMenuMore1.accesskey "o">
-<!ENTITY charsetMenuMore2.label "Euròpa de l'èst">
-<!ENTITY charsetMenuMore2.accesskey "è">
-<!ENTITY charsetMenuMore3.label "Àsia de l'èst">
-<!ENTITY charsetMenuMore3.accesskey "A">
-<!ENTITY charsetMenuMore4.label "SE e SO asiatic">
-<!ENTITY charsetMenuMore4.accesskey "S">
-<!ENTITY charsetMenuMore5.label "Mejan oriental">
-<!ENTITY charsetMenuMore5.accesskey "M">
-<!ENTITY charsetMenuUnicode.label "Unicode">
-<!ENTITY charsetMenuUnicode.accesskey "U">
-<!ENTITY charsetCustomize.label "Personalizar la tièra...">
-<!ENTITY charsetCustomize.accesskey "P">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from charsetOverlay.xul -->
+
+<!ENTITY charsetMenu.label             "Encodatge dels caractèrs">
+<!ENTITY charsetMenu.accesskey         "E">
+<!ENTITY charsetMenuAutodet.label      "Deteccion automatica">
+<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuMore.label         "Mai d'encodatges">
+<!ENTITY charsetMenuMore.accesskey     "M">
+<!ENTITY charsetMenuMore1.label        "Euròpa de l'oèst">
+<!ENTITY charsetMenuMore1.accesskey    "o">
+<!ENTITY charsetMenuMore2.label        "Europèu de l'Èst">
+<!ENTITY charsetMenuMore2.accesskey    "E">
+<!ENTITY charsetMenuMore3.label        "Àsia de l'èst">
+<!ENTITY charsetMenuMore3.accesskey    "a">
+<!ENTITY charsetMenuMore4.label        "SE e SO asiatic">
+<!ENTITY charsetMenuMore4.accesskey    "S">
+<!ENTITY charsetMenuMore5.label        "Mejan oriental">
+<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuUnicode.label      "Unicode">
+<!ENTITY charsetMenuUnicode.accesskey  "U">
+<!ENTITY charsetCustomize.label        "Personalizar la lista...">
+<!ENTITY charsetCustomize.accesskey    "P">

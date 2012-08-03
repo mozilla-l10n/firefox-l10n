@@ -1,38 +1,52 @@
-<!ENTITY updateWizard.title "Mesa a jorn de &brandShortName;">
-<!ENTITY offline.title "&brandShortName; es en mòde desconnectat">
-<!ENTITY offline.description "&brandShortName; deu èsser en mòde connectat pr'amor de verificar se de mesas a jorn de vòstres moduls sont disponiblas per los rendre compatibles amb aquesta version">
-<!ENTITY offline.toggleOffline.label "Tornar en mòde connectat ara.">
-<!ENTITY offline.toggleOffline.accesskey "T">
-<!ENTITY mismatch.win.title "Moduls incompatibles">
-<!ENTITY mismatch.top.label "Los moduls seguents son pas compatibles amb aquesta version de &brandShortName; e son estats desactivats :">
-<!ENTITY mismatch.bottom.label "&brandShortName; pòt verificar se i a de versions compatiblas d'aquestes moduls disponiblas.">
-<!ENTITY checking.wizard.title "Verificacion dels moduls compatibles">
-<!ENTITY checking.top.label "Verificacion de la disponibilitat de mesas a jorn pels moduls incompatibles…">
-<!ENTITY checking.status "Aquò pòt prendre maitas minutas…">
-<!ENTITY found.wizard.title "Moduls compatibles trobats">
-<!ENTITY found.top.label "Seleccionatz los moduls que desiratz installar :">
-<!ENTITY found.disabledXPinstall.label "Aquestas mesas a jorn pòdon pas èsser installadas perque l'installacion de logicials es actualament desactivada. Podètz cambiar aqueste paramètre çaijós.">
-<!ENTITY found.enableXPInstall.label "Autorizar los sits Web a installar de logicials">
-<!ENTITY found.enableXPInstall.accesskey "A">
-<!ENTITY installing.wizard.title "Installacion des moduls compatibles">
-<!ENTITY installing.top.label "Telecargament e installacion de las mesas a jorn dels moduls…">
-<!ENTITY noupdates.wizard.title "Cap de modul compatible es pas estat  trobat">
-<!ENTITY noupdates.intro.desc "&brandShortName; a pas pogut trobar de mesas a jorn disponiblas pels moduls incompatibles.">
-<!ENTITY noupdates.error.desc "De problèmas son subrevenguts al moment de la recèrca de mesas a jorn.">
-<!ENTITY noupdates.checkEnabled.desc "&brandShortName; verificarà regularament e vos assabentarà quand de mesas a jorn compatiblas seràn disponiblas.">
-<!ENTITY finished.wizard.title "Los moduls compatibles son estats installats">
-<!ENTITY finished.top.label "&brandShortName; a installat las mesas a jorn dels moduls.">
-<!ENTITY finished.checkDisabled.desc "&brandShortName; pòt verificar regularament e vos assabentar quand de mesas a jorn pels moduls son disponiblas.">
-<!ENTITY finished.checkEnabled.desc "&brandShortName; verificarà regularament e vos assabentarà quand de mesas a jorn pels moduls seràn disponiblas.">
-<!ENTITY adminDisabled.wizard.title "Impossible de verificar la disponibilitat de mesas a jorn">
-<!ENTITY adminDisabled.warning.label "Es pas possible de verificar la disponibilitat de mesas a jorn per vòstres moduls incompatibles perque l'installacion de logicials per &brandShortName; es estada desactivada. Contactatz vòstre administrator del sistèma per obténer d'assisténcia.">
-<!ENTITY versioninfo.wizard.title "Verificacion de la compatibilitat dels moduls">
-<!ENTITY versioninfo.top.label "Verificacion de la compatibilitat dels moduls amb aquesta version de &brandShortName;.">
-<!ENTITY versioninfo.waiting "Aquò pòt prendre qualques minutas…">
-<!ENTITY installerrors.wizard.title "Problèmas al moment de l'installacion de las mesas a jorn">
-<!ENTITY installerrors.intro.label "&brandShortName; a rencontrat de problèmas al moment de la mesa a jorn d'unes dels moduls.">
-<!ENTITY clickFinish.label "Clicatz sus Acabar per contunhar l'aviada de &brandShortName;.">
-<!ENTITY clickFinish.labelMac "Clicatz sus Acabar per contunhar l'aviada de &brandShortName;.">
-<!ENTITY enableChecking.label "Permetre a &brandShortName; de verificar la disponibilitat de mesas a jorn.">
-<!ENTITY details.label "Detalhs...">
-<!ENTITY details.accesskey "D">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  updateWizard.title              "Mesa a jorn de &brandShortName;">
+
+<!ENTITY  offline.title                   "&brandShortName; es en mòde desconnectat">
+<!ENTITY  offline.description             "&brandShortName; deu èsser en mòde connectat pr'amor de verificar se de mesas a jorn de vòstres moduls sont disponiblas per los rendre compatibles amb aquesta version">
+<!ENTITY  offline.toggleOffline.label     "Tornar en mòde connectat ara.">
+<!ENTITY  offline.toggleOffline.accesskey "T">
+
+<!ENTITY  mismatch.win.title              "Moduls incompatibles">
+<!ENTITY  mismatch.top.label              "Los moduls seguents son pas compatibles amb aquesta version de &brandShortName; e son estats desactivats :">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; pòt verificar se i a de versions compatiblas d'aquestes moduls disponiblas.">
+
+<!ENTITY  checking.wizard.title           "Verificacion dels moduls compatibles">
+<!ENTITY  checking.top.label              "Verificacion de la disponibilitat de mesas a jorn pels moduls incompatibles…">
+<!ENTITY  checking.status                 "Aquò pòt prendre maitas minutas…">
+
+<!ENTITY  found.wizard.title               "Moduls compatibles trobats">
+<!ENTITY  found.top.label                 "Seleccionatz los moduls que desiratz installar :">
+<!ENTITY  found.disabledXPinstall.label   "Aquestas mesas a jorn pòdon pas èsser installadas perque l'installacion de logicials es actualament desactivada. Podètz cambiar aqueste paramètre çaijós.">
+<!ENTITY  found.enableXPInstall.label     "Autorizar los sites Web a installar de logicials">
+<!ENTITY  found.enableXPInstall.accesskey "A">
+
+<!ENTITY  installing.wizard.title         "Installacion des moduls compatibles">
+<!ENTITY  installing.top.label            "Telecargament e installacion de las mesas a jorn dels moduls…">
+
+<!ENTITY  noupdates.wizard.title          "Cap de modul compatible es pas estat  trobat">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; a pas pogut trobar de mesas a jorn disponiblas pels moduls incompatibles.">
+<!ENTITY  noupdates.error.desc            "De problèmas son subrevenguts al moment de la recèrca de mesas a jorn.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; verificarà regularament e vos assabentarà quand de mesas a jorn compatiblas seràn disponiblas.">
+
+<!ENTITY  finished.wizard.title           "Los moduls compatibles son estats installats">
+<!ENTITY  finished.top.label              "&brandShortName; a installat las mesas a jorn dels moduls.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; pòt verificar regularament e vos assabentar quand de mesas a jorn pels moduls son disponiblas.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; verificarà regularament e vos assabentarà quand de mesas a jorn pels moduls seràn disponiblas.">
+
+<!ENTITY  adminDisabled.wizard.title      "Impossible de verificar la disponibilitat de mesas a jorn">
+<!ENTITY  adminDisabled.warning.label     "Es pas possible de verificar la disponibilitat de mesas a jorn per vòstres moduls incompatibles perque l'installacion de logicials per &brandShortName; es estada desactivada. Contactatz vòstre administrator del sistèma per obténer d'assisténcia.">
+
+<!ENTITY  versioninfo.wizard.title        "Verificacion de la compatibilitat dels moduls">
+<!ENTITY  versioninfo.top.label           "Verificacion de la compatibilitat dels moduls amb aquesta version de &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "Aquò pòt prendre qualques minutas…">
+
+<!ENTITY  installerrors.wizard.title      "Problèmas al moment de l'installacion de las mesas a jorn">
+<!ENTITY  installerrors.intro.label       "&brandShortName; a rencontrat de problèmas al moment de la mesa a jorn d'unes dels moduls.">
+<!-- general strings used by several of the finish pages -->
+
+<!ENTITY  clickFinish.label               "Clicatz sus Acabar per contunhar l'aviada de &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Clicatz sus Acabar per contunhar l'aviada de &brandShortName;.">
+<!ENTITY  enableChecking.label            "Permetre a &brandShortName; de verificar la disponibilitat de mesas a jorn.">

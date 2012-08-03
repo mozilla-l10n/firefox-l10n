@@ -1,6 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printdialog.xul -->
+
+
 <!ENTITY printButton.label "Estampar">
+
 <!ENTITY printDialog.title "Estampar">
+
 <!ENTITY fpDialog.title "Enregistrar lo fichièr">
+
 <!ENTITY fileCheck.label "Estampar dins un fichièr">
 <!ENTITY fileCheck.accesskey "f">
 <!ENTITY propertiesButton.label "Proprietats…">
@@ -9,24 +18,27 @@
 <!ENTITY printer.label "Estampaira">
 <!ENTITY printerInput.label "Nom de l'estampaira :">
 <!ENTITY printerInput.accesskey "N">
+
 <!ENTITY printrangeGroup.label "Paginas">
 <!ENTITY allpagesRadio.label "Totas las paginas">
 <!ENTITY allpagesRadio.accesskey "T">
-<!ENTITY rangeRadio.label "Paginas">
+<!ENTITY rangeRadio.label  "Paginas">
 <!ENTITY rangeRadio.accesskey  "P">
-<!ENTITY frompageInput.label "sus">
+<!ENTITY frompageInput.label  "sus">
 <!ENTITY frompageInput.accesskey  "s">
-<!ENTITY topageInput.label "a">
+<!ENTITY topageInput.label  "a">
 <!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Seleccion">
 <!ENTITY selectionRadio.accesskey "S">
+
 <!ENTITY copies.label "Còpias">
 <!ENTITY numCopies.label "Nombre de còpias :">
 <!ENTITY numCopies.accesskey "c">
+
 <!ENTITY printframeGroup.label "Estampar los quadres">
 <!ENTITY aslaidoutRadio.label "Tals coma son a l'ecran">
 <!ENTITY aslaidoutRadio.accesskey "l">
-<!ENTITY selectedframeRadio.label "Lo quadre seleccionat">
+<!ENTITY selectedframeRadio.label  "Lo quadre seleccionat">
 <!ENTITY selectedframeRadio.accesskey  "q">
-<!ENTITY eachframesepRadio.label "Cada quadre separadament">
+<!ENTITY eachframesepRadio.label  "Cada quadre separadament">
 <!ENTITY eachframesepRadio.accesskey  "q">

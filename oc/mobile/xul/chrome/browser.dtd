@@ -1,0 +1,126 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "Recèrca o adreça">
+
+<!ENTITY back.label            "Precedenta">
+<!ENTITY forward.label         "Seguenta">
+<!ENTITY reload.label          "Tornar cargar">
+<!ENTITY stop.label            "Arrestar">
+<!ENTITY go.label              "Go">
+<!ENTITY star.label            "Star">
+
+<!ENTITY showTabs.label        "Show Tabs">
+<!ENTITY newtab.label          "Onglet novèl">
+<!ENTITY closetab.label        "Tampar l'onglet">
+
+<!ENTITY cut.label             "Copar">
+<!ENTITY copy.label            "Copiar">
+<!ENTITY copyAll.label         "Copiar tot">
+<!ENTITY copylink.label        "Copiar l'adreça del ligam">
+<!ENTITY paste.label           "Empegar">
+<!ENTITY pasteAndGo.label      "Pegar e dobrir">
+<!ENTITY delete.label          "Suprimir">
+<!ENTITY selectAll.label       "Seleccionar tot">
+<!ENTITY noSuggestions.label   "(Pas cap de suggestion)">
+<!ENTITY addToDictionary.label "Apondre al diccionari">
+<!ENTITY inputMethod.label     "Cambiar lo mòde de picada">
+
+<!ENTITY allPagesHeader.label      "Totas las paginas">
+<!ENTITY bookmarksHeader.label     "Marcapaginas">
+<!ENTITY historyHeader.label       "Istoric">
+<!ENTITY desktopHeader.label       "Burèu">
+
+<!ENTITY editBookmarkDialog.title  "Modificar lo marcapaginas">
+<!ENTITY editBookmarkDone.label    "Acabat">
+<!ENTITY editBookmarkTags.label    "Apondre d'etiquetas">
+
+<!ENTITY selectHelper.done         "Acabat">
+
+<!ENTITY addonsHeader.label        "Moduls complementaris">
+<!ENTITY addonsLocal.label         "Vòstres moduls">
+<!ENTITY addonsUpdate.label        "Metre a jorn">
+<!ENTITY addonsRepo.label          "Obténer de moduls complementaris">
+<!ENTITY addonsRecommended.label   "Recomandats">
+<!ENTITY addonsSearch.label        "Recercar">
+<!ENTITY addonsSearch2.emptytext   "Cercar dins lo catalòg">
+<!ENTITY addonsSearch.recommended  "Recomandats">
+
+<!ENTITY addonOptions.label        "Opcions">
+<!ENTITY addonEnable.label         "Activar">
+<!ENTITY addonDisable.label        "Desactivar">
+<!ENTITY addonInstall2.label       "Apondre a &brandShortName;">
+<!ENTITY addonUninstall.label      "Desinstallar">
+<!ENTITY addonCancel.label         "Anullar">
+<!ENTITY addonShowPage.label       "Go to Page">
+
+<!ENTITY downloadsHeader.label     "Telecargaments">
+<!ENTITY downloadShowPage.label    "Go to Page">
+<!ENTITY downloadShow2.label       "Recercar">
+<!ENTITY downloadOpen2.label       "Dobrir">
+<!ENTITY downloadCancel.label      "Anullar">
+<!ENTITY downloadPause.label       "Pausa">
+<!ENTITY downloadResume.label      "Tornar prene">
+<!ENTITY downloadRetry.label       "Tornar ensajar">
+<!ENTITY downloadRemove.label      "Suprimir">
+<!ENTITY downloadDelete.label      "Suprimir">
+<!ENTITY downloadFailed.label      "Pas capitat">
+
+<!ENTITY noResults.label           "Pas de resultat">
+<!ENTITY allBookmarks.label        "Totes los marcapaginas">
+
+<!ENTITY bookmarkPopup.label       "Pagina marcada">
+<!ENTITY bookmarkRemove.label      "Suprimir">
+<!ENTITY bookmarkEdit.label        "Modificar">
+<!ENTITY bookmarkShortcut.label    "Apondre a l'acuèlh">
+
+<!ENTITY identity.unverifiedsite2 "Aqueste site balha pas d'entresenhas sus son identitat">
+<!ENTITY identity.connectedTo2 "Connexion a">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "detengut per">
+
+<!ENTITY consoleHeader.label       "Consòla d'errors">
+<!ENTITY consoleAll.label          "Tot">
+<!ENTITY consoleErrors.label       "Errors">
+<!ENTITY consoleWarnings.label     "Avertiments">
+<!ENTITY consoleMessages.label     "Messatges">
+<!ENTITY consoleCodeEval.label     "Còde :">
+<!ENTITY consoleClear.label        "Escafar">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Fichier font :">
+<!ENTITY consoleErrLine.label      "Linha :">
+<!ENTITY consoleErrColumn.label    "Colomna :">
+
+<!ENTITY contextOpenInNewTab.label    "Dobrir dins un onglet novèl">
+<!ENTITY contextSaveImage.label       "Enregistrar l'imatge">
+<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyEmail.label       "Copiar l'adreça electronica">
+<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyImageLocation.label       "Copiar l'adreça de l'imatge">
+<!ENTITY contextShareLink.label       "Partejar lo ligam">
+<!ENTITY contextShareImage.label      "Partejar l'imatge">
+<!ENTITY contextBookmarkLink.label    "Marcar lo ligam">
+<!ENTITY contextSaveVideo.label       "Enregistrar la vidèo">
+<!ENTITY contextShareVideo.label      "Partejar la vidèo">
+<!ENTITY contextPlayMedia.label       "Lectura">
+<!ENTITY contextPauseMedia.label      "Pausa">
+<!ENTITY contextFullScreen.label      "Ecran complet">
+<!ENTITY contextEditBookmark.label    "Modificar">
+<!ENTITY contextRemoveBookmark.label  "Suprimir">
+<!ENTITY contextShortcutBookmark.label "Apondon acorchi acuèlh">
+
+<!ENTITY pageactions.saveas.pdf      "Enregistrar al format PDF">
+<!ENTITY pageactions.share.page      "Partejar">
+<!ENTITY pageactions.password.forget "Doblidar lo senhal">
+<!ENTITY pageactions.quit            "Quitar">
+<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "Apondre un motor de recèrca">
+<!ENTITY pageactions.charEncoding    "Encodatge de caractèr">
+
+<!ENTITY appMenu.siteOptions         "Opcions del site">

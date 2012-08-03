@@ -1,2 +1,6 @@
-<!ENTITY settingsChangePreferences.label "Los paramètres pòdon èsser modificats en utilizant l'onglet Aplicacions del menut Preferéncias de &brandShortName;.">
-<!ENTITY settingsChangeOptions.label "Los paramètres pòdon èsser modificats en utilizant l'onglet Aplicacions del menut &brandShortName;.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  settingsChangePreferences.label  "Los paramètres pòdon èsser modificats en utilizant l'onglet Aplicacions del menut Preferéncias de &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Los paramètres pòdon èsser modificats en utilizant l'onglet Aplicacions del menut &brandShortName;.">

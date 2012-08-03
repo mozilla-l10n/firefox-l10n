@@ -1,0 +1,22 @@
+<!ENTITY aboutPage.title                        "A prepaus de &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; es experimental e pòt èsser instable.">
+<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " per ajudar a melhorar &brandShortName;.">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Assisténcia">
+<!ENTITY aboutPage.privacyPolicy.label          "Politica de confidencialitat">
+<!ENTITY aboutPage.rights.label                 "A prepaus de vòstres dreches">
+<!ENTITY aboutPage.relNotes.label               "Nòtas de version">
+<!ENTITY aboutPage.credits.label                "Contributors">
+<!ENTITY aboutPage.checkForUpdates.button       "Verificar las mesas a jorn">
+<!ENTITY aboutPage.checkForUpdates.checking     "Recèrca de mesas a jorn...">
+<!ENTITY aboutPage.checkForUpdates.none         "Cap de mesa a jorn pas disponibla">
+<!ENTITY aboutPage.checkForUpdates.found        "Mesa a jorn disponibla">
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+
+
+<!ENTITY aboutPage.licenseLink                  "Entresenhas sus la licéncia">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

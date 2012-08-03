@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_firstrun "Configuracion de &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "I a pas pro d\u0027espaci disponible per permetre a &brandShortName; de s\'aviar.">
+<!ENTITY  error_loading_file "Una error s\'es producha en ensajant de cargar de fichièrs necessaris per aviar &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Rapòrt de plantatge de &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\'aviada de &brandShortName; a son aviada que ven.">
+<!ENTITY  crash_help_message "Ajudatz-nos a corregir aqueste problèma !">
+<!ENTITY  crash_send_report_message "Mandar un rapòrt de plantatge a Mozilla">
+<!ENTITY  crash_include_url "Inclure l\u0027adreça de la pagina">
+<!ENTITY  crash_close_label "Tampar">
+<!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
+<!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
+<!ENTITY  exit_label "Sortir">
+<!ENTITY  continue_label "Contunhar">
+
+<!ENTITY  launcher_shortcuts_title "Aplicacions Web per &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Cap d\'aplicacion Web pas trobada">
+
+<!ENTITY choose_file "Causir un fichièr">

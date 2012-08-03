@@ -1,13 +1,17 @@
-<!ENTITY ocspDialog.title "Validacion de certificat">
-<!ENTITY enableOCSP.label "Utilizar lo protocòl d'estatut de certificat en linha (OCSP) per confirmar la validitat actuala de vòstres certificats">
-<!ENTITY enableOCSP.accesskey "U">
-<!ENTITY certOCSP2.label "Validar un certificat s'especifica un servidor OCSP">
-<!ENTITY certOCSP2.accesskey "V">
-<!ENTITY proxyOCSP2.label "Validar totes los certificats qu'utilizan lo servidor OCSP seguent :">
-<!ENTITY proxyOCSP2.accesskey "a">
-<!ENTITY serviceURL.label "URL del servici :">
-<!ENTITY serviceURL.accesskey "s">
-<!ENTITY signingCA.label "Signatari de responsa :">
-<!ENTITY signingCA.accesskey "R">
-<!ENTITY requireOCSP.label "Quand la connexion a un servidor OCSP fracassa, considerar lo certificat coma invalid">
-<!ENTITY requireOCSP.accesskey "W">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY ocspDialog.title             "Validacion de certificat">
+<!ENTITY enableOCSP.label             "Utilizar lo protocòl d'estatut de certificat en linha (OCSP) per confirmar la validitat actuala de vòstres certificats">
+<!ENTITY enableOCSP.accesskey         "U">
+<!ENTITY certOCSP2.label              "Validar un certificat s'especifica un servidor OCSP">
+<!ENTITY certOCSP2.accesskey          "V">
+<!ENTITY proxyOCSP2.label             "Validar totes los certificats qu'utilizan lo servidor OCSP seguent :">
+<!ENTITY proxyOCSP2.accesskey         "a">
+<!ENTITY serviceURL.label             "URL del servici :">
+<!ENTITY serviceURL.accesskey         "s">
+<!ENTITY signingCA.label              "Signatari de responsa :">
+<!ENTITY signingCA.accesskey          "r">
+<!ENTITY requireOCSP.label            "Quand la connexion a un servidor OCSP fracassa, considerar lo certificat coma invalid">
+<!ENTITY requireOCSP.accesskey        "Q">

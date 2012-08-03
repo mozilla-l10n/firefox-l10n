@@ -1,10 +1,13 @@
-<!ENTITY header.label "Títol cort">
-<!ENTITY message.label "Vaquí un tèxt d'exemple">
-<!ENTITY editfield0.label "Utilizaire :">
-<!ENTITY editfield1.label "Senhal :">
-<!ENTITY editfield2.label "Confirmar lo senhal :">
-<!ENTITY checkbox.label "Verificar">
-<!ENTITY copyCmd.label "Copiar">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY header.label     "Títol cort"> 
+<!ENTITY message.label    "Vaquí un tèxt d'exemple">
+<!ENTITY editfield0.label "Utilizaire :"> 
+<!ENTITY editfield1.label "Senhal :"> 
+<!ENTITY checkbox.label   "Verificar">
+<!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleccionar tot">
-<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY selectAllCmd.accesskey "t">

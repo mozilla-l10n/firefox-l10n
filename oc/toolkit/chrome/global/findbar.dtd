@@ -1,12 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+<!-- entities split out from browser.dtd -->
+
+
 <!ENTITY next.label "Seguent">
 <!ENTITY next.accesskey "S">
 <!ENTITY next.tooltip "Tròba l'ocurréncia venenta de la frasa">
 <!ENTITY previous.label "Precedent">
 <!ENTITY previous.accesskey "P">
-<!ENTITY previous.tooltip "Tròba l'occurréncia precedenta de la frasa">
+<!ENTITY previous.tooltip "Tròba l'ocurréncia precedenta de la frasa">
 <!ENTITY findCloseButton.tooltip "Tampar la Barra de recèrca">
 <!ENTITY highlight.label "Suslinhar tot">
 <!ENTITY highlight.accesskey "u">
-<!ENTITY highlight.tooltiptext "Suslinhar totas las occurréncias de la frasa">
+<!ENTITY highlight.tooltiptext "Suslinhar totas las ocurréncias de la frasa">
 <!ENTITY caseSensitiveCheckbox.label "Respectar la cassa">
 <!ENTITY caseSensitiveCheckbox.accesskey "R">

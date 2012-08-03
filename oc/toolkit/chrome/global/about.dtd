@@ -1,14 +1,27 @@
-<!ENTITY about.version "version">
-<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2008 by">
-<!ENTITY about.copy.linkTitle "contributors">
-<!ENTITY about.copy.afterLink "del projècte Mozilla.">
-<!ENTITY about.license.beforeLink "Legir">
-<!ENTITY about.license.linkTitle "las entresenhas sus la licéncia">
-<!ENTITY about.license.afterLink "d'aqueste produch.">
-<!ENTITY about.relnotes.beforeLink "Legir las">
-<!ENTITY about.relnotes.linkTitle "nòtas de version">
-<!ENTITY about.relnotes.afterLink "d'aquesta version">
-<!ENTITY about.buildconfig.beforeLink "Veire la">
-<!ENTITY about.buildconfig.linkTitle "configuracion de compilacion">
-<!ENTITY about.buildconfig.afterLink "utilizada per aquesta version.">
-<!ENTITY about.buildIdentifier "Identificant de compilacion :">
+<!ENTITY about.version                "version">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+
+<!ENTITY about.credits.beforeLink     "Consultar la lista dels ">
+<!ENTITY about.credits.linkTitle      "contributors">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      "al projècte Mozilla.">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+
+<!ENTITY about.license.beforeTheLink  "Legir">
+<!ENTITY about.license.linkTitle      "las entresenhas sus la licéncia">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink   "per aqueste produch.">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+
+<!ENTITY about.relnotes.beforeTheLink "Legir las">
+<!ENTITY about.relnotes.linkTitle     "nòtas de version">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink  "per aquesta version">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+
+<!ENTITY about.buildconfig.beforeTheLink "Veire la">
+<!ENTITY about.buildconfig.linkTitle     "configuracion de compilacion">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  "utilizada per aquesta version.">
+
+<!ENTITY about.buildIdentifier        "Identificant de compilacion :">

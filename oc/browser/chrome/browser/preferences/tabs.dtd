@@ -1,10 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "Dobrir las fenèstras novèlas puslèu dins un onglet novèl">
 <!ENTITY newWindowsAsTabs.accesskey   "g">
-<!ENTITY warnCloseMultipleTabs.label "M'alertar quand tampi mai d'un onglet">
-<!ENTITY warnCloseMultipleTabs.accesskey "A">
-<!ENTITY warnOpenManyTabs.label "M'avertir que dobrir mai d'un onglet poiriá alentir &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "t">
-<!ENTITY showTabBar.label "Totjorn visualizar la barra d'onglets">
-<!ENTITY showTabBar.accesskey "b">
-<!ENTITY switchToNewTabs.label "Quand dobrissi un ligam dins un onglet novèl, lo visualizar sulpic">
-<!ENTITY switchToNewTabs.accesskey "v">
+
+<!ENTITY warnCloseMultipleTabs.label  "M'alertar quand tampi mai d'un onglet">
+<!ENTITY warnCloseMultipleTabs.accesskey  "a">
+
+<!ENTITY warnOpenManyTabs.label       "M'avertir que dobrir mai d'un onglet poiriá alentir &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "t">
+
+<!ENTITY showTabBar.label             "Afichar totjorn la barra d'onglets">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY restoreTabsOnDemand.label        "Cargar pas los onglets tant que son pas seleccionats">
+<!ENTITY restoreTabsOnDemand.accesskey    "C">
+
+<!ENTITY switchToNewTabs.label        "Quand dobrissi un ligam dins un onglet novèl, lo visualizar sulpic">
+<!ENTITY switchToNewTabs.accesskey    "v">
+
+<!ENTITY showTabsInTaskbar.label          "Afichar los apercebuts d'onglets dins la barra dels prètzfaches de Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "c">

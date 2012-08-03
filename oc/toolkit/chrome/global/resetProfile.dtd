@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY resetProfile.dialog.title        "Reïnicializar &brandShortName;">
+<!ENTITY resetProfile.dialog.description  "Sètz segur que volètz tornar a las valors per defaut de Firefox ?">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; s'esforçarà de conservar los elements seguents :">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; reaviarà e tot lo demai serà suprimit.">
+<!ENTITY resetProfile.dialog.button.label "Reïnicializar &brandShortName;">
+
+<!ENTITY resetProfile.title               "Restablir &brandShortName; dins son estat inicial">
+<!ENTITY resetProfile.description         "S'avètz de problèmas màgers qu'arribatz pas a resòlvre, aviatz amb un perfil tot nòu que compòrte pas que vòstras informacions essencialas.">
+<!ENTITY resetProfile.button.label        "Reïnicializar &brandShortName;">
+
+<!ENTITY resetProfile.cleaning.description "Pacientatz pendent que &brandShortName; neteja vòstras ancianas donadas…">

@@ -1,75 +1,97 @@
-<!ENTITY pageInfoWindow.width "600">
-<!ENTITY pageInfoWindow.height "500">
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Copiar">
-<!ENTITY copy.accesskey "C">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Seleccionar tot">
-<!ENTITY selectall.accesskey "T">
-<!ENTITY closeWindow.key "w">
-<!ENTITY generalTab "General">
-<!ENTITY generalTab.accesskey "G">
-<!ENTITY generalURL "Adreça :">
-<!ENTITY generalType "Tipe :">
-<!ENTITY generalMode "Mòde de rendut :">
-<!ENTITY generalSize "Talha :">
-<!ENTITY generalReferrer "URL de provenença :">
-<!ENTITY generalSource "Font de l'amagatal :">
-<!ENTITY generalModified "Modificat :">
-<!ENTITY generalEncoding "Encodatge :">
-<!ENTITY generalMetaName "Nom">
-<!ENTITY generalMetaContent "Contengut">
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Copiar">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Seleccionar tot">
+<!ENTITY  selectall.accesskey   "t">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "General">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Adreça :">
+<!ENTITY  generalType           "Tipe :">
+<!ENTITY  generalMode           "Mòde de rendut :">
+<!ENTITY  generalSize           "Talha :">
+<!ENTITY  generalReferrer       "URL de provenença :">
+<!ENTITY  generalSource         "Font de l'escondedor :">
+<!ENTITY  generalModified       "Modificat :">
+<!ENTITY  generalEncoding       "Encodatge :">
+<!ENTITY  generalMetaName       "Nom">
+<!ENTITY  generalMetaContent    "Contengut">
 <!ENTITY  generalSecurityDetails   "Detalhs">
 <!ENTITY  generalSecurityDetails.accesskey "D">
-<!ENTITY mediaTab "Mèdia">
-<!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaLocation "Emplaçament :">
-<!ENTITY mediaText "Tèxt associat :">
-<!ENTITY mediaAltHeader "Tèxt alternatiu">
-<!ENTITY mediaAddress "Adreça">
-<!ENTITY mediaType "Tipe">
-<!ENTITY mediaSize "Talha">
-<!ENTITY mediaCount "Nombre">
-<!ENTITY mediaDimension "Dimensions :">
-<!ENTITY mediaLongdesc "Descripcion longa :">
-<!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Enregistrar jos...">
-<!ENTITY mediaSaveAs.accesskey "c">
-<!ENTITY mediaSaveAs2.accesskey "E">
-<!ENTITY mediaPreview "Apercebut del mèdia :">
-<!ENTITY feedTab "Fluses">
-<!ENTITY feedTab.accesskey "F">
-<!ENTITY feedSubscribe "S'abonar">
-<!ENTITY feedSubscribe.accesskey "S">
-<!ENTITY permTab "Permissions">
-<!ENTITY permTab.accesskey "P">
-<!ENTITY permUseDefault "Utilizar las valors per defaut">
+
+<!ENTITY  mediaTab              "Mèdia">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Emplaçament :">
+<!ENTITY  mediaText             "Tèxt associat :">
+<!ENTITY  mediaAltHeader        "Tèxt alternatiu">
+<!ENTITY  mediaAddress          "Adreça">
+<!ENTITY  mediaType             "Tipe">
+<!ENTITY  mediaSize             "Talha">
+<!ENTITY  mediaCount            "Nombre">
+<!ENTITY  mediaDimension        "Dimensions :">
+<!ENTITY  mediaLongdesc         "Descripcion longa :">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Enregistrar jos...">
+<!ENTITY  mediaSaveAs.accesskey "c">
+<!ENTITY  mediaSaveAs2.accesskey "E">
+<!ENTITY  mediaPreview          "Apercebut del mèdia :">
+
+<!ENTITY  feedTab               "Fluxes">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "S'abonar">
+<!ENTITY  feedSubscribe.accesskey "S">
+
+<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Utilizar las valors per defaut">
 <!ENTITY  permAskAlways         "Totjorn demandar">
-<!ENTITY permAllow "Autorizar">
-<!ENTITY permAllowSession "Autorizar pendent la sesilha">
-<!ENTITY permBlock "Blocar">
-<!ENTITY permissionsFor "Permissions per :">
-<!ENTITY permImage "Cargar los imatges">
-<!ENTITY permPopup "Dobrir de fenèstras sorgissentas">
-<!ENTITY permCookie "Definir de cookies">
-<!ENTITY permInstall "Installar d'extensions o de tèmas">
+<!ENTITY  permAllow             "Autorizar">
+<!ENTITY  permAllowSession      "Autorizar pendent la sesilha">
+<!ENTITY  permBlock             "Blocar">
+<!ENTITY  permissionsFor        "Permissions per :">
+<!ENTITY  permImage             "Cargar los imatges">
+<!ENTITY  permPopup             "Dobrir de fenèstras sorgissentas">
+<!ENTITY  permCookie            "Definir de cookies">
+<!ENTITY  permInstall           "Installar d'extensions o de tèmas">
 <!ENTITY  permGeo               "Partejar l'emplaçament">
-<!ENTITY securityTab "Seguretat">
-<!ENTITY securityTab.accesskey "S">
-<!ENTITY securityHeader "Entresenhas de seguretat per aquesta pagina">
-<!ENTITY securityView.certView "Visualizar lo certificat">
-<!ENTITY securityView.accesskey "V">
-<!ENTITY securityView.unknown "Desconegut">
-<!ENTITY securityView.identity.header "Identitat del sit web">
-<!ENTITY securityView.identity.owner "Proprietari :">
-<!ENTITY securityView.identity.domain "Sit web :">
-<!ENTITY securityView.identity.verifier "Verificat per :">
-<!ENTITY securityView.privacy.header "Vida privada e istoric">
-<!ENTITY securityView.privacy.history "Ai ja visitat aqueste sit ?">
-<!ENTITY securityView.privacy.cookies "Aqueste sit web estòca d'entresenhas (cookies) sus mon ordenador ?">
-<!ENTITY securityView.privacy.viewCookies "Veire los cookies">
-<!ENTITY securityView.privacy.viewCookies.accessKey "k">
-<!ENTITY securityView.privacy.passwords "Ai enregistrat un senhal per aqueste sit web ?">
-<!ENTITY securityView.privacy.viewPasswords "Visualizar los senhals enregistrats">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "V">
-<!ENTITY securityView.technical.header "Detalhs tecnics">
+<!ENTITY  permPlugins           "Activar los plugins">
+<!ENTITY  permFullscreen        "Passar en mòde ecran complet">
+
+<!ENTITY  permIndexedDB              "Conservar de donadas fòra connexion">
+<!ENTITY  permClearStorage           "Suprimir las donadas">
+<!ENTITY  permClearStorage.accesskey "d">
+
+<!ENTITY  securityTab           "Seguretat">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Entresenhas de seguretat per aquesta pagina">
+<!ENTITY  securityView.certView "Visualizar lo certificat">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Desconegut">
+
+
+<!ENTITY  securityView.identity.header   "Identitat del site web">
+<!ENTITY  securityView.identity.owner    "Proprietari :">
+<!ENTITY  securityView.identity.domain   "Site web :">
+<!ENTITY  securityView.identity.verifier "Verificat per :">
+
+<!ENTITY  securityView.privacy.header                   "Vida privada e istoric">
+<!ENTITY  securityView.privacy.history                  "Ai ja visitat aqueste site ?">
+<!ENTITY  securityView.privacy.cookies                  "Aqueste site web collècta d'entresenhas (cookies) sus mon ordenador ?">
+<!ENTITY  securityView.privacy.viewCookies              "Veire los cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Ai enregistrat un senhal per aqueste site web ?">
+<!ENTITY  securityView.privacy.viewPasswords            "Visualizar los senhals enregistrats">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "V">
+
+<!ENTITY  securityView.technical.header                 "Detalhs tecnics">

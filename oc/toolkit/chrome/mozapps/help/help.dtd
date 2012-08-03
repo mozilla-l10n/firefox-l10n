@@ -1,39 +1,57 @@
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY backButton.label "Precedenta">
-<!ENTITY backButton.accesskey "d">
-<!ENTITY backButton.tooltip "Recuolar d'una pagina">
-<!ENTITY forwardButton.label "Seguenta">
-<!ENTITY forwardButton.accesskey "S">
-<!ENTITY forwardButton.tooltip "Avançar d'una pagina">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Seleccionar tot">
-<!ENTITY selectAllCmd.accesskey "T">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Acuèlh">
-<!ENTITY homeButton.tooltip "Anar a la pagina d'acuèlh de l'ajuda">
-<!ENTITY printButton.label "Estampar">
-<!ENTITY printButton.tooltip "Estampar la pagina">
-<!ENTITY closeWindow.commandkey "W">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Precedent">
+<!ENTITY backButton.accesskey           "P">
+<!ENTITY backButton.tooltip             "Recuolar d'una pagina">
+<!ENTITY forwardButton.label            "Seguenta">
+<!ENTITY forwardButton.accesskey        "S">
+<!ENTITY forwardButton.tooltip          "Avançar d'una pagina">
+<!ENTITY copyCmd.label                  "Copiar">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "Seleccionar tot">
+<!ENTITY selectAllCmd.accesskey         "t">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Acuèlh">
+<!ENTITY homeButton.tooltip             "Anar a la pagina d'acuèlh de l'ajuda">
+<!ENTITY printButton.label              "Estampar">
+<!ENTITY printButton.tooltip            "Estampar la pagina">
+<!ENTITY closeWindow.commandkey         "W">
+
 <!ENTITY search.emptytext               "Recercar">
-<!ENTITY searchHeader.label             "Recercar de resultas">
-<!ENTITY toctab.label "Ensenhador">
-<!ENTITY toctab.accesskey "E">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY searchHeader.label             "Resultats de la recèrca">
+<!ENTITY toctab.label                   "Somari">
+<!ENTITY toctab.accesskey               "o">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY helpSearch.commandkey "k">
-<!ENTITY zLevel.label "Totjorn visible">
-<!ENTITY zLevel.accesskey "v">
-<!ENTITY fullZoomReduceBtn.label "Reduire la talha">
-<!ENTITY fullZoomReduceBtn.accesskey "i">
-<!ENTITY fullZoomEnlargeBtn.label "Augmentar la talha">
-<!ENTITY fullZoomEnlargeBtn.accesskey "g">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Totjorn visible">
+<!ENTITY zLevel.accesskey               "v">
+
+<!ENTITY fullZoomReduceBtn.label        "Reduire">
+<!ENTITY fullZoomReduceBtn.accesskey    "R">
+<!ENTITY fullZoomEnlargeBtn.label       "Agrandir">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "A">

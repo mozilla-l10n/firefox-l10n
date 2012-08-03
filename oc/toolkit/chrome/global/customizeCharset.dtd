@@ -1,11 +1,16 @@
-<!ENTITY title.label "Personalizar l'encodatge dels caractèrs">
-<!ENTITY current.label "Encodatges de caractèrs actius :">
-<!ENTITY remove.label "Suprimir">
-<!ENTITY remove.accessKey "S">
-<!ENTITY additional.label "Encodatges de caractèrs disponibles :">
-<!ENTITY add.label "Apondre">
-<!ENTITY add.accessKey "A">
-<!ENTITY moveUp.label "Montar">
-<!ENTITY moveUp.accessKey "M">
-<!ENTITY moveDown.label "Davalar">
+<!-- -*- Mode: HTML -*- -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title.label        "Personalizar l'encodatge dels caractèrs">
+<!ENTITY current.label      "Encodatges de caractèrs actius :">
+<!ENTITY remove.label       "Suprimir">
+<!ENTITY remove.accessKey   "S">
+<!ENTITY additional.label   "Encodatges de caractèrs disponibles :">
+<!ENTITY add.label          "Apondre">
+<!ENTITY add.accessKey      "A">
+<!ENTITY moveUp.label       "Montar">
+<!ENTITY moveUp.accessKey   "M">
+<!ENTITY moveDown.label     "Davalar">
 <!ENTITY moveDown.accessKey "D">

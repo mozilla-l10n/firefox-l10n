@@ -1,16 +1,21 @@
-<!ENTITY props.name.label "Nom :">
-<!ENTITY props.value.label "Contengut :">
-<!ENTITY props.domain.label "Òste :">
-<!ENTITY props.path.label "Camin :">
-<!ENTITY props.secure.label "Mandat per :">
-<!ENTITY props.expires.label "Expira :">
-<!ENTITY props.policy.label "Poliça :">
-<!ENTITY button.allow.label "Autorizar">
-<!ENTITY button.allow.accesskey "A">
-<!ENTITY button.session.label "Autorizar pendent la sesilha">
-<!ENTITY button.session.accesskey "s">
-<!ENTITY button.deny.label "Interdire">
-<!ENTITY button.deny.accesskey "I">
-<!ENTITY dialog.title "Personalizar la barra d'espleches">
-<!ENTITY dialog.remember.label "Aplicar aquesta causida per totes los cookies d'aqueste sit">
-<!ENTITY dialog.remember.accesskey "A">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     props.name.label               "Nom :">
+<!ENTITY     props.value.label              "Contengut :">
+<!ENTITY     props.domain.label             "Òste :">
+<!ENTITY     props.path.label               "Camin :">
+<!ENTITY     props.secure.label             "Mandat per :">
+<!ENTITY     props.expires.label            "Expira :">
+
+<!ENTITY     button.allow.label             "Autorizar">
+<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.session.label           "Autorizar pendent la sesilha">
+<!ENTITY     button.session.accesskey       "s">
+<!ENTITY     button.deny.label              "Interdire">
+<!ENTITY     button.deny.accesskey          "I">
+
+<!ENTITY     dialog.title                   "Confirmar los paramètres de cookie">
+<!ENTITY     dialog.remember.label          "Aplicar aquesta causida per totes los cookies d'aqueste site">
+<!ENTITY     dialog.remember.accesskey      "A">

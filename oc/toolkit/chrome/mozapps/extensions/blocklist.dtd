@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY blocklist.title             "De moduls complementaris pòdon pausar de problèmas">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; a determinat que los moduls complementaris seguents son coneguts per provocar d'insestabilitat o de problèmas de seguretat :">
@@ -8,3 +12,6 @@
 
 <!ENTITY blocklist.accept.label      "Tornar aviar &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "T">
+
+<!ENTITY blocklist.blocked.label     "Blocat">
+<!ENTITY blocklist.checkbox.label    "Desactivar">

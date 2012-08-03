@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "C">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permet d'accedir a vòstre istoric, vòstres marcapaginas, vòstres senhals e onglets dobèrts dempuèi diferents ordenadors e aparelhs.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Metre a jorn">
+<!ENTITY resetPass.label              "Reïnicializar">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Gestion del compte">
+<!ENTITY manageAccount.accesskey      "c">
+<!ENTITY viewQuota.label              "Afichar lo quota">
+<!ENTITY changePassword2.label        "Modificar lo senhal...">
+<!ENTITY myRecoveryKey.label          "Ma clau de recuperacion">
+<!ENTITY resetSync2.label             "Reïnicializar la sincronizacion…">
+
+<!ENTITY pairDevice.label             "Associar un aparelh">
+
+<!ENTITY syncMy.label               "Sincronizar">
+<!ENTITY engine.bookmarks.label     "los marcapaginas">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "los onglets">
+<!ENTITY engine.tabs.accesskey      "o">
+<!ENTITY engine.history.label       "l'istoric">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "los senhals">
+<!ENTITY engine.passwords.accesskey "h">
+<!ENTITY engine.prefs.label         "las preferéncias">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "los moduls complementaris">
+<!ENTITY engine.addons.accesskey    "u">
+<!-- Device Settings -->
+
+<!ENTITY syncComputerName.label       "Nom de l'ordenador :">
+<!ENTITY syncComputerName.accesskey   "d">
+<!ENTITY unlinkDevice.label           "Levar aqueste aparelh">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Condicions d'utilizacion">
+<!ENTITY prefs.ppLink.label         "Politica de confidencialitat">

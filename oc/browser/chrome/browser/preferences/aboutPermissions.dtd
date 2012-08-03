@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY permissionsManager.title        "Gestion de las permissions">
+
+<!ENTITY sites.search                    "Recercar de sites">
+<!ENTITY sites.allSites                  "Totes los sites">
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+
+<!ENTITY header.site.start               "Permissions per :">
+<!ENTITY header.site.end                 "">
+
+<!ENTITY header.defaults                 "Permissions per defaut per totes los sites">
+
+<!ENTITY permissions.forgetSite          "Doblidar las informacions sus aqueste site">
+
+<!ENTITY permission.alwaysAsk            "Demandar totjorn">
+<!ENTITY permission.allow                "Autorizar">
+<!ENTITY permission.allowForSession      "Autorizar pendent la sesilha">
+<!ENTITY permission.block                "Blocar">
+
+<!ENTITY password.label                  "Afichar los senhals">
+<!ENTITY password.manage                 "Gerir los senhals...">
+
+<!ENTITY cookie.label                    "Definir de cookies">
+<!ENTITY cookie.remove                   "Suprimir de cookies">
+<!ENTITY cookie.manage                   "Gerir los Cookies...">
+<!ENTITY cookie.removeAll                "Suprimir totes los Cookies">
+
+<!ENTITY geo.label                       "Partejar l'emplaçament">
+
+<!ENTITY plugins.label                   "Empeutons (Plugins)">
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+
+<!ENTITY indexedDB.label                 "Conservar de donadas fòra connexion">
+
+<!ENTITY popup.label                     "Dobrir de fenèstras sorgissentas">
+
+<!ENTITY fullscreen.label                "Ecran complet">

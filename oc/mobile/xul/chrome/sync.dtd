@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Pas connectat">
+<!ENTITY sync.connect               "Connect">
+<!ENTITY sync.connected             "Connectat">
+<!ENTITY sync.details               "Detalhs">
+<!ENTITY sync.deviceName            "Aqueste aparelh">
+<!ENTITY sync.disconnect            "Desconnectar">
+<!ENTITY sync.syncNow               "Sincronizar">
+
+<!ENTITY sync.setup.title           "Se connectar a Sync">
+<!ENTITY sync.setup.pair            "Per activar, seleccionatz « Associar un aparelh » sus vòstre autre aparelh.">
+<!ENTITY sync.fallback              "I'm not near my computer…">
+<!ENTITY sync.setup.manual          "Enter your Sync account information">
+<!ENTITY sync.account               "Nom del compte">
+<!ENTITY sync.password              "Senhal">
+<!ENTITY sync.recoveryKey           "Clau de recuperacion">
+<!ENTITY sync.customServer          "Utilizar un servidor personalizat">
+<!ENTITY sync.serverURL             "URL del servidor">
+<!ENTITY sync.setup.connect         "Connect">
+<!ENTITY sync.setup.cancel          "Anullar">
+<!ENTITY sync.setup.tutorial        "Guida">
+<!ENTITY sync.setup.waiting2        "En espèra de l\u0027autre aparelh…">
+
+<!ENTITY sync.pair.title            "Associar un aparelh">
+<!ENTITY sync.pair.description      "Per activar vòstre novèl aparelh, seleccionatz « Configurar la sincronizacion » sus aquel d'aquí.">
+<!ENTITY sync.setup.close           "Tampar">
+<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

@@ -1,41 +1,44 @@
-<!ENTITY connectionsDialog.title "Paramètres de connexion">
-<!ENTITY window.width "37em">
-<!ENTITY window.macWidth "39em">
-<!ENTITY proxyTitle.label "Configurar los servidors mandatòris per accedir a internet">
-<!ENTITY noProxyTypeRadio.label "Pas cap de servidor mandatòri">
-<!ENTITY noProxyTypeRadio.accesskey "d">
-<!ENTITY systemTypeRadio.label "Utilizar los paramètres de servidor mandatòri del sistèma">
-<!ENTITY systemTypeRadio.accesskey "u">
-<!ENTITY WPADTypeRadio.label "Detectar automaticament los paramètres de servidor mandatòri d'aquesta ret">
-<!ENTITY WPADTypeRadio.accesskey "u">
-<!ENTITY manualTypeRadio.label "Configuracion manuala del servidor mandatòri :">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "URL de configuracion automatica de servidor mandatòri :">
-<!ENTITY autoTypeRadio.accesskey "A">
-<!ENTITY reload.label "Tornar cargar">
-<!ENTITY reload.accesskey "t">
-<!ENTITY ftp.label "Servidor mandatòri FTP :">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Servidor mandatòri Gopher :">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "Servidor mandatòri HTTP :">
-<!ENTITY http.accesskey "H">
-<!ENTITY ssl.label "Servidor mandatòri SSL :">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "Òste SOCKS :">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Pòrt :">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
-<!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Pas de servidor mandatòri per :">
-<!ENTITY noproxy.accesskey "x">
-<!ENTITY noproxyExplain.label "Exemple : .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Utilizar aqueste servidor mandatòri per totes los protocòls">
-<!ENTITY shareproxy.accesskey "x">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  connectionsDialog.title       "Paramètres de connexion">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Configurar los servidors mandatòris per accedir a internet">
+<!ENTITY  noProxyTypeRadio.label        "Pas cap de servidor mandatòri">
+<!ENTITY  noProxyTypeRadio.accesskey    "d">
+<!ENTITY  systemTypeRadio.label         "Utilizar los paramètres de servidor mandatòri del sistèma">
+<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  WPADTypeRadio.label           "Detectar automaticament los paramètres de servidor mandatòri d'aquesta ret">
+<!ENTITY  WPADTypeRadio.accesskey       "u">
+<!ENTITY  manualTypeRadio.label         "Configuracion manuala del servidor mandatòri :">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL de configuracion automatica de servidor mandatòri :">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Tornar cargar">
+<!ENTITY  reload.accesskey              "T">
+<!ENTITY  ftp.label                     "Servidor mandatòri FTP :">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "Servidor mandatòri HTTP :">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "Servidor mandatòri SSL :">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "Òste SOCKS :">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Pòrt :">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Pas de servidor mandatòri per :">
+<!ENTITY  noproxy.accesskey             "P">
+<!ENTITY  noproxyExplain.label          "Exemple : .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Utilizar aqueste servidor mandatòri per totes los protocòls">
+<!ENTITY  shareproxy.accesskey          "z">

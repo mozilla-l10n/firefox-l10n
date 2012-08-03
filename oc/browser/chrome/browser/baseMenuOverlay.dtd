@@ -1,36 +1,42 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimizar">
-<!ENTITY bringAllToFront.label "Tot menar al primièr plan">
-<!ENTITY zoomWindow.label "Zoom">
-<!ENTITY windowMenu.label "Fenèstra">
-<!ENTITY helpMenu.label "Ajuda">
-<!ENTITY helpMenu.accesskey "A">
-<!ENTITY helpMenuWin.label "Ajuda">
-<!ENTITY helpMenuWin.accesskey "A">
-<!ENTITY aboutCmd.label "A prepaus de &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
-<!ENTITY helpContents.label "Ensenhador de l'ajuda">
-<!ENTITY helpContents.accesskey "a">
-<!ENTITY helpContentsMac.label "Ajuda de &brandShortName;">
-<!ENTITY helpForIEUsers.label "Pels utilizaires d'Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
-<!ENTITY helpReleaseNotes.label "Nòtas de version">
-<!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY updateCmd.label "Verificar se i a de mesas a jorn...">
-<!ENTITY updateCmd.accesskey "v">
-<!ENTITY preferencesCmdMac.label "Preferéncias...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Servicis">
-<!ENTITY hideThisAppCmdMac.label "Amagar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "A">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Amagar los autres">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimizar">
+<!ENTITY bringAllToFront.label    "Tot menar al primièr plan">
+<!ENTITY zoomWindow.label         "Zoom">
+<!ENTITY windowMenu.label         "Fenèstra">
+
+<!ENTITY helpMenu.label           "Ajuda"> 
+<!ENTITY helpMenu.accesskey       "A"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Ajuda"> 
+<!ENTITY helpMenuWin.accesskey    "A">
+<!ENTITY aboutProduct.label       "A prepaus de &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "p">
+<!ENTITY productHelp.label        "Ajuda de &brandShortName;">
+<!ENTITY productHelp.accesskey    "j">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Reaviar amb los moduls desactivats…">
+<!ENTITY helpSafeMode.accesskey   "R">
+
+<!ENTITY helpTroubleshootingInfo.label      "Entresenhas de despanatge">
+<!ENTITY helpTroubleshootingInfo.accesskey  "d">
+
+<!ENTITY helpFeedbackPage.label      "Balhar vòstre vejaire…">
+<!ENTITY helpFeedbackPage.accesskey  "B">
+
+<!ENTITY preferencesCmdMac.label        "Preferéncias...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Servicis">
+
+<!ENTITY hideThisAppCmdMac.label        "Amagar &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "A">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Amagar los autres">
 <!ENTITY hideOtherAppsCmdMac.commandkey "A">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Tot visualizar">
+
+<!ENTITY showAllAppsCmdMac.label        "Tot visualizar">
