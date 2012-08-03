@@ -23,9 +23,13 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY openRecentMenu.label         "সম্প্রতি ব্যবহৃত ফাইল খুলুন">
+<!ENTITY openRecentMenu.accesskey     "R">
+
 <!ENTITY saveFileCmd.label            "সংরক্ষণ">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
+
 
 <!ENTITY saveFileAsCmd.label          "নতুন রূপে সংরক্ষণ…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
