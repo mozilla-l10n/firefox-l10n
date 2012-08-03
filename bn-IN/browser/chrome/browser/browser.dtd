@@ -44,6 +44,8 @@
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisFrameCmd.label      "বর্তমান ফ্রেম বুকমার্ক করুন">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY emailPageCmd.label           "লিংক ই-মেইল করুন…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY bookmarkThisLinkCmd.label      "চিহ্নিত লিঙ্ক বুকমার্ক করুন">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisPageCmd.label "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">

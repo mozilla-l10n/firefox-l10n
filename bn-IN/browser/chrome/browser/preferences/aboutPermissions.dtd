@@ -30,8 +30,12 @@
 
 <!ENTITY geo.label                       "অবস্থান প্রকাশ করা হবে">
 
+<!ENTITY plugins.label                   "প্লাগ-ইন">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "অফ-লাইন সংগ্রহস্থল বজায় রাখা হবে">
 
 <!ENTITY popup.label                     "পপ-আপ উইন্ডো খুলুন">
+
+<!ENTITY fullscreen.label                "সম্পূর্ণ পর্দায় প্রদর্শন">
