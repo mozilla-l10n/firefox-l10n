@@ -37,7 +37,8 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "ଖୋଲିବା ପାଇଁ ଆପଣଙ୍କୁ ବଛାଯାଇଛି">
+
+<!ENTITY  intro2.label                "ଖୋଲିବା ପାଇଁ ଆପଣଙ୍କୁ ବଛାଯାଇଛି:">
 <!ENTITY  from.label                  "ରୁ:">
 <!ENTITY  actionQuestion.label        "&brandShortName; ଏହି ଫାଇଲ ସହିତ କଣ କରିବ?">
 
