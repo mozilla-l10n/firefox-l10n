@@ -20,6 +20,15 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Dowiedz się więcej o wtyczkach lub ręcznie wyszukaj brakujące.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Aby wtyczka została uruchomiona, niezbędne jest ponowne uruchomienie programu &brandShortName;.">
 
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre                             "Przepraszamy, &brandShortName; nie może odtwarzać treści Flash na tym urządzeniu. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Więcej informacji…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
 <!ENTITY missingPlugin                                       "Do wyświetlenia treści tego typu konieczna jest wtyczka.">
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
