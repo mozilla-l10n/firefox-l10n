@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Dosegnuli ste ograničenje pohrane">
+<!ENTITY fileExceedsQuota.accept "Nadogradi">
+<!ENTITY fileExceedsQuota.cancel "Odustani">
+<!ENTITY fileExceedsQuota.description "Dosegnuli ste ograničenje pohrane za vaš račun od 2GB.">
+<!ENTITY fileExceedsQuota.description1 "Trenutno koristite #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Nadogradite danas na Pro Plus račun i dobijte više prostora.">
+<!ENTITY fileExceedsQuota.description3 "Također možete i obrisati datoteke u vašem računu kako biste oslobodili nešto prostora.">
