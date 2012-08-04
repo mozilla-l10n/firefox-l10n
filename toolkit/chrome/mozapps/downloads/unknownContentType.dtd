@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "Odabrali ste pokrenuti">
+<!ENTITY  intro2.label                "Odabrali ste pokrenuti:">
 <!ENTITY  from.label                  "iz:">
 <!ENTITY  actionQuestion.label        "Što bi &brandShortName; trebao učiniti s ovom datotekom?">
 
