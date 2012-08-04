@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Roskapostiasetukset">
-<!ENTITY trainingWarning.label "Jos roskapostisuodatus otetaan käyttöön, sinun tulee ensin näyttää &brandShortName;lle, mitkä viestit ovat roskapostia, merkitsemällä ne Roskapostia-painikkeella. Jotta suodatus toimisi tehokkaasti, korjaa väärin luokiteltujen viestin roskapostiluokitus painamalla samaa painiketta.">
+<!ENTITY trainingDescription.label "Jos roskapostisuodatus otetaan käyttöön, sinun tulee ensin näyttää &brandShortName;lle, mitkä viestit ovat roskapostia, merkitsemällä ne työkalupalkin Roskapostia-painikkeella. Jotta suodatus toimisi tehokkaasti, korjaa väärin luokiteltujen viestin roskapostiluokitus painamalla samaa painiketta.">
 <!ENTITY level.label "Käytä mukautuvaa roskapostin tunnistusta tällä tilillä">
 <!ENTITY level.accesskey "K">
 
@@ -17,8 +17,8 @@
 <!ENTITY purge1.accesskey "P">
 <!ENTITY purge2.label "päivää vanhat roskapostit">
 
-<!ENTITY whitelistHeaders.label "Älä merkitse viestiä roskapostiksi, jos lähettäjä on osoitekirjassa: ">
-<!ENTITY whitelistHeaders.accesskey "Ä">
+<!ENTITY whitelistHeader.label "Älä merkitse viestiä roskapostiksi, jos lähettäjä on osoitekirjassa: ">
+<!ENTITY whitelistHeader.accesskey "Ä">
 
 <!ENTITY ispHeadersWarning.label "Jos tämä otetaan käyttöön, &brandShortName; pitää automaattisesti tämän ulkopuolisen luokittelijan merkitsemiä viestejä roskapostina.">
 <!ENTITY ispHeaders.label "Luota roskapostiotsakkeisiin, jotka on asettanut: ">
