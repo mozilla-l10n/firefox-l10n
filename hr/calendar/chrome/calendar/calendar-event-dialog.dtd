@@ -221,6 +221,12 @@
 <!ENTITY event.description.accesskey                      "i">
 <!ENTITY event.attachments.label                          "Privici:" >
 <!ENTITY event.attachments.accesskey                      "r" >
+
+<!ENTITY event.attachments.menubutton.label               "Priloži">
+<!ENTITY event.attachments.menubutton.accesskey           "P">
+<!ENTITY event.attachments.url.label                      "Web stranica…">
+<!ENTITY event.attachments.url.accesskey                  "W">
+
 <!ENTITY event.attachments.popup.remove.label             "Ukloni" >
 <!ENTITY event.attachments.popup.remove.accesskey         "U" >
 <!ENTITY event.attachments.popup.open.label               "Otvori" >
