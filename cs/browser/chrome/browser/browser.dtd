@@ -667,5 +667,8 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.label "Nesdílet">
 <!ENTITY social.sharePopup.undo.accesskey "N">
 
+<!ENTITY social.toggleSidebar.label "Zobrazit postranní lištu">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
 <!ENTITY social.activated.button.label "Vrátit zpět">
 <!ENTITY social.activated.button.accesskey "V">
