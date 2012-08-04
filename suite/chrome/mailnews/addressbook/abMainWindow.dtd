@@ -34,8 +34,12 @@
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY showAbToolbarCmd.label "Barra de herramientas de direcciones">
 <!ENTITY showAbToolbarCmd.accesskey "o">
-<!ENTITY showCardPane.label "Resumen de las tarjetas">
-<!ENTITY showCardPane.accesskey "t">
+<!ENTITY layoutMenu.label "Disposición">
+<!ENTITY layoutMenu.accesskey "D">
+<!ENTITY showDirectoryPane.label "Panel de directorio">
+<!ENTITY showDirectoryPane.accesskey "P">
+<!ENTITY showContactPane2.label "Panel de contactos">
+<!ENTITY showContactPane2.accesskey "a">
 <!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "Nombre y apellidos">
@@ -72,5 +76,14 @@
 <!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
 <!ENTITY dirTreeHeader.label "Libretas de direcciones">
+<!ENTITY contact.heading "Contacto">
+<!ENTITY home.heading "Casa">
+<!ENTITY other.heading "Otros">
+<!ENTITY phone.heading "Teléfono">
+<!ENTITY work.heading "Trabajo">
+<!ENTITY description.heading "Descripción">
+<!ENTITY addresses.heading "Direcciones">
+<!ENTITY mapItButton.label "Obtener mapa">
+<!ENTITY mapIt.tooltip "Obtener de la web un mapa de esta dirección">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">

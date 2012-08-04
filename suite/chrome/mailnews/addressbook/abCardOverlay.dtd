@@ -17,6 +17,8 @@
 <!ENTITY PhoneticField2.label "Apellido fonético:">
 <!ENTITY DisplayName.label "Mostrado:">
 <!ENTITY DisplayName.accesskey "M">
+<!ENTITY preferDisplayName.label "Preferir siempre el nombre mostrado al de la cabecera del mensaje">
+<!ENTITY preferDisplayName.accesskey "P">
 <!ENTITY NickName.label "Apodo:">
 <!ENTITY NickName.accesskey "A">
 <!ENTITY PrimaryEmail.label "Correo electrónico:">
