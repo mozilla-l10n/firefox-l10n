@@ -29,6 +29,7 @@
 <!ENTITY advance.label "Avanzadas">
 <!ENTITY down.label "Descargar">
 <!ENTITY cache.label "Caché">
+<!ENTITY offlineApps.label "Aplicaciones sin conexión">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "Config. de HTTP">
 <!ENTITY smart.label "Instalación de software">
