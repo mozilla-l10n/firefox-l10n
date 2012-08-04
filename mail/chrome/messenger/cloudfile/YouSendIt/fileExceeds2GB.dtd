@@ -2,4 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY dropboxMgmt.viewSettings "Ver la configuración de mi cuenta en dropbox.com">
+<!ENTITY fileExceeds2GB.title "YouSendIt">
+<!ENTITY fileExceeds2GB.cancel "Aceptar">
+<!ENTITY fileExceeds2GB.description "No se permite enviar archivos de más de 2 GB.">
