@@ -192,7 +192,7 @@
 <!ENTITY alignLeft.label "靠左">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "向左對齊">
-<!ENTITY alignCenter.label "靠中">
+<!ENTITY alignCenter.label "置中">
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "置中對齊">
 <!ENTITY alignRight.label "靠右">

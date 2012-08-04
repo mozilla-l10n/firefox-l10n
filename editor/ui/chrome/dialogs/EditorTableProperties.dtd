@@ -71,5 +71,5 @@
 <!ENTITY backgroundColor.label            "背景色彩:">
 <!ENTITY backgroundColor.accessKey        "B">
 <!ENTITY AlignLeft.label                  "靠左">
-<!ENTITY AlignCenter.label                "靠中">
+<!ENTITY AlignCenter.label                "置中">
 <!ENTITY AlignRight.label                 "靠右">

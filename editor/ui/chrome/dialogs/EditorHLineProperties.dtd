@@ -15,7 +15,7 @@
 <!ENTITY alignmentBox.label "對齊">
 <!ENTITY leftRadio.label "靠左">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "靠中">
+<!ENTITY centerRadio.label "置中">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "靠右">
 <!ENTITY rightRadio.accessKey "R">
