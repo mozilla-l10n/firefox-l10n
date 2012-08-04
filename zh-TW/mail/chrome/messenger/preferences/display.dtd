@@ -16,7 +16,7 @@
 <!ENTITY regularSize.label                "正常">
 <!ENTITY bigger.label                     "增大">
 <!ENTITY smaller.label                    "減少">
-<!ENTITY color.label                      "色彩:">
+<!ENTITY color.label                      "顏色:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayWidth.label               "純文字郵件">
 <!ENTITY displayText.label                "顯示引用的純文字郵件時:">
