@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Syötetilaukset">
 <!ENTITY subscriptionDesc.label      "Huom. Syötteen kansion muuttaminen tai poistaminen ei vaikuta ennen sitä ladattuihin artikkeleihin.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "T">
 <!ENTITY button.exportOPML.label     "Vie">
 <!ENTITY button.exportOPML.accesskey "V">
+<!ENTITY button.exportOPML.tooltip   "Vie syötteet kansiorakenteen kanssa; ctrl-napsauta tai paina ctrl+enter, jos haluat viedä syötteet luettelona">
 
 <!ENTITY cmd.close.commandKey        "w">
