@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltisch">
 <!ENTITY  font.langGroup.el                       "Griechisch">
 <!ENTITY  font.langGroup.turkish                  "Türkisch">
-<!ENTITY  font.langGroup.unicode                  "Andere Sprachen">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Benutzerdefiniert">
 <!ENTITY  font.langGroup.thai                     "Thailändisch">
 <!ENTITY  font.langGroup.hebrew                   "Hebräisch">
