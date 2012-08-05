@@ -90,3 +90,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Nastavení &syncBrand.shortName.label; odesílání panelů">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Nastavit &syncBrand.fullName.label; na tomto zařízení k odesílání panelů na jiné zařízení.">
 <!ENTITY sync.text.tab.sent.label "Panel byl odeslán">
+<!ENTITY sync.text.tab.not.sent.label "Při odesílání panelu nastala chyba.">
