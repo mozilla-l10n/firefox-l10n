@@ -1,4 +1,8 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Pisave in kodiranja">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+   <!ENTITY  fontsAndEncodingsDialog.title           "Pisave in kodiranja">
 <!ENTITY  window.width                            "45em">
 <!ENTITY  window.macWidth                         "47em">
 <!ENTITY  window.unixWidth                        "45em">
@@ -31,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltsko">
 <!ENTITY  font.langGroup.el                       "Grščina">
 <!ENTITY  font.langGroup.turkish                  "Turščina">
-<!ENTITY  font.langGroup.unicode                  "Unicode">
+<!ENTITY  font.langGroup.unicode1                  "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Določi uporabnik">
 <!ENTITY  font.langGroup.thai                     "Tajščina">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejščina">
