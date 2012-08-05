@@ -17,7 +17,7 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "Tage">
 
-<!ENTITY whitelistHeader.label "Absendern der gewählten Adressbücher vertrauen:">
+<!ENTITY whitelistHeader.label "Nachrichten nicht automatisch als Junk kennzeichnen, falls der Absender in einem der folgenden Adressbücher ist:">
 <!ENTITY whitelistHeader.accesskey "b">
 
 <!ENTITY ispHeadersWarning.label "Falls diese Option aktiviert ist, wird &brandShortName; die von diesem externen Filter markierten Nachrichten automatisch als Junk einstufen.">
