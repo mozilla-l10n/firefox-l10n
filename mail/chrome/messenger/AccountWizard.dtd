@@ -28,7 +28,7 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "서버에 메일 남기기">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY portNum.label			"포토 번호:">
+<!ENTITY portNum.label			"포트 번호:">
 <!ENTITY portNum.accesskey		"o">
 <!ENTITY defaultPortLabel.label		"기본 포트:">
 <!ENTITY defaultPortValue.label		"">
