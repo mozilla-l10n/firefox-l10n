@@ -18,9 +18,9 @@
 <!ENTITY systemDefaults.label "Сістэмныя змоўчкі">
 <!ENTITY alwaysCheckDefault.label "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным азіральнікам">
 <!ENTITY alwaysCheckDefault.accesskey "З">
-<!ENTITY setDefault.label "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey "d">
-<!ENTITY isDefault.label "&brandShortName; is currently your default browser">
+<!ENTITY setDefault.label "Зрабіць &brandShortName; змоўчным азіральнікам">
+<!ENTITY setDefault.accesskey "з">
+<!ENTITY isDefault.label "&brandShortName; зараз змоўчны азіральнік">
 <!ENTITY submitCrashes.label "Дасыланне справаздачаў пра крахі">
 <!ENTITY submitCrashes.accesskey "Д">
 <!ENTITY submitTelemetry.label "Падаць звесткі пра працавыніковасць ">
