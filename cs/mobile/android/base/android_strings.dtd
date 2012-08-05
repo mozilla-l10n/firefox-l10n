@@ -85,6 +85,7 @@
 <!ENTITY pref_font_size_medium "Střední">
 <!ENTITY pref_font_size_large "Velké">
 <!ENTITY pref_font_size_xlarge "Extra velké">
+<!ENTITY pref_font_size_set "Nastavit">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
