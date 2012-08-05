@@ -719,6 +719,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY compactButton.tooltip "선택한 폴더에서 삭제 표시된 메시지 지우기">
 <!ENTITY addNewTag.label "새 태그…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "태그 관리하기…">
+<!ENTITY manageTags.accesskey "M">
 <!ENTITY folderContextFavoriteFolder.label "즐겨찾기 폴더">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY tagsColumn.label "태그">

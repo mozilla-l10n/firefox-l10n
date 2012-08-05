@@ -31,7 +31,7 @@
 <!ENTITY font.langGroup.baltic "발틱어">
 <!ENTITY font.langGroup.el "그리스어">
 <!ENTITY font.langGroup.turkish "터키어">
-<!ENTITY font.langGroup.unicode "유니코드">
+<!ENTITY font.langGroup.unicode1 "유니코드">
 <!ENTITY font.langGroup.user-def "사용자 정의">
 <!ENTITY font.langGroup.thai "타이어">
 <!ENTITY font.langGroup.hebrew "히브리어">
