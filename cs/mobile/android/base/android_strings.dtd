@@ -91,7 +91,7 @@
 <!ENTITY pref_import_android "Importovat z Androidu">
 <!ENTITY pref_private_data_history "Historie a stahování">
 <!ENTITY pref_private_data_formdata "Formuláře a hledání">
-<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cookies2 "Cookies">
 <!ENTITY pref_private_data_passwords "Uložená hesla">
 <!ENTITY pref_private_data_cache "Mezipaměť">
 <!ENTITY pref_private_data_sessions "Aktivní přihlášení">
