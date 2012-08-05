@@ -74,8 +74,8 @@
 <!ENTITY fullScreenExit.accesskey "В">
 <!ENTITY fullscreenAllowButton.label "Дазволіць">
 <!ENTITY fullscreenExitButton.label "Забараніць">
-<!ENTITY fullscreenApproval.value "Allow fullscreen?">
-<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
+<!ENTITY fullscreenApproval.value "Дазволіць поўны экран?">
+<!ENTITY fullscreenExitHint.value "Націсніце ESC, калі захочаце выйсці з рэжыму поўнага экрану.">
 <!ENTITY leaveDOMFullScreen.label "Закрыць поўны экран">
 <!ENTITY leaveDOMFullScreen.accesskey "З">
 <!ENTITY closeWindow.label "Зачыніць акно">
@@ -162,32 +162,32 @@
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Даследаваць адзінку">
 <!ENTITY inspectContextMenu.accesskey "Д">
-<!ENTITY responsiveDesignTool.label "Responsive Design View">
-<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.label "Чулая праява ўладкавання">
+<!ENTITY responsiveDesignTool.accesskey "ч">
 <!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY scratchpad.label "Scratchpad">
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыць Назіральнік">
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label "Developer Toolbar">
-<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbarCloseButton.tooltiptext "Закрыць прыладапаліцу распрацаўніка">
+<!ENTITY devToolbarMenu.label "Прыладапаліца распрацаўніка">
+<!ENTITY devToolbarMenu.accesskey "р">
 <!ENTITY devToolbar.commandkey "v">
 <!ENTITY webConsoleButton.label "Кансоль Сеціва">
-<!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
+<!ENTITY inspectorButton.label "Назіральнік">
+<!ENTITY scriptsButton.label "Сцэнары">
 <!ENTITY inspectorHTMLCopyInner.label "Скапіваць унутраны HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "у">
 <!ENTITY inspectorHTMLCopyOuter.label "Скапіваць вонкавы HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "в">
 <!ENTITY inspectorHTMLDelete.label "Выдаліць вузел">
 <!ENTITY inspectorHTMLDelete.accesskey "д">
-<!ENTITY inspectOptionButton.tooltiptext "Inspector Options">
-<!ENTITY inspectorToggleVeil.label "Dim The Page">
-<!ENTITY inspectorToggleVeil.accesskey "D">
-<!ENTITY inspectorToggleInfobar.label "Show Node Info">
-<!ENTITY inspectorToggleInfobar.accesskey "S">
+<!ENTITY inspectOptionButton.tooltiptext "Наладжванні назіральніка">
+<!ENTITY inspectorToggleVeil.label "Затуманіць старонку">
+<!ENTITY inspectorToggleVeil.accesskey "т">
+<!ENTITY inspectorToggleInfobar.label "Паказаць звесткі пра вузел">
+<!ENTITY inspectorToggleInfobar.accesskey "в">
 <!ENTITY inspect3DViewButton.label "3-М від">
 <!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectStyleButton.label "Стыль">
@@ -462,5 +462,5 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Закрыць паліцу дадаткаў">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY markupButton.arialabel "Markup">
-<!ENTITY markupButton.accesskey "M">
+<!ENTITY markupButton.arialabel "Разметка">
+<!ENTITY markupButton.accesskey "Р">

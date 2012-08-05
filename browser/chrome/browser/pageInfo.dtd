@@ -55,8 +55,8 @@
 <!ENTITY permCookie "Усталёўваць біркі">
 <!ENTITY permInstall "Усталёўваць пашырэнні або тэмы">
 <!ENTITY permGeo "Дзяліцца месцазнаходжаннем">
-<!ENTITY permPlugins "Activate Plugins">
-<!ENTITY permFullscreen "Enter Fullscreen">
+<!ENTITY permPlugins "Задзейнічаць убудовы">
+<!ENTITY permFullscreen "Пераход на поўны экран">
 <!ENTITY permIndexedDB "Падтрыманне пазасеткавага сховішча">
 <!ENTITY permClearStorage "Ачысціць сховішча">
 <!ENTITY permClearStorage.accesskey "ч">
