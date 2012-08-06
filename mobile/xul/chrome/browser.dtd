@@ -8,19 +8,19 @@
 <!ENTITY forward.label         "Seguenta">
 <!ENTITY reload.label          "Tornar cargar">
 <!ENTITY stop.label            "Arrestar">
-<!ENTITY go.label              "Go">
-<!ENTITY star.label            "Star">
+<!ENTITY go.label              "Anar">
+<!ENTITY star.label            "Marcar">
 
-<!ENTITY showTabs.label        "Show Tabs">
+<!ENTITY showTabs.label        "Afichar los onglets">
 <!ENTITY newtab.label          "Onglet novèl">
 <!ENTITY closetab.label        "Tampar l'onglet">
 
 <!ENTITY cut.label             "Copar">
 <!ENTITY copy.label            "Copiar">
-<!ENTITY copyAll.label         "Copiar tot">
+<!ENTITY copyAll.label         "Tot copiar">
 <!ENTITY copylink.label        "Copiar l'adreça del ligam">
 <!ENTITY paste.label           "Empegar">
-<!ENTITY pasteAndGo.label      "Pegar e dobrir">
+<!ENTITY pasteAndGo.label      "Empegar &amp; anar">
 <!ENTITY delete.label          "Suprimir">
 <!ENTITY selectAll.label       "Seleccionar tot">
 <!ENTITY noSuggestions.label   "(Pas cap de suggestion)">
@@ -53,10 +53,10 @@
 <!ENTITY addonInstall2.label       "Apondre a &brandShortName;">
 <!ENTITY addonUninstall.label      "Desinstallar">
 <!ENTITY addonCancel.label         "Anullar">
-<!ENTITY addonShowPage.label       "Go to Page">
+<!ENTITY addonShowPage.label       "AAnar a la pagina">
 
 <!ENTITY downloadsHeader.label     "Telecargaments">
-<!ENTITY downloadShowPage.label    "Go to Page">
+<!ENTITY downloadShowPage.label    "Site Web">
 <!ENTITY downloadShow2.label       "Recercar">
 <!ENTITY downloadOpen2.label       "Dobrir">
 <!ENTITY downloadCancel.label      "Anullar">
@@ -98,9 +98,9 @@
 
 <!ENTITY contextOpenInNewTab.label    "Dobrir dins un onglet novèl">
 <!ENTITY contextSaveImage.label       "Enregistrar l'imatge">
-<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyLink.label        "Copiar lo ligam">
 <!ENTITY contextCopyEmail.label       "Copiar l'adreça electronica">
-<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyPhone.label       "Copiar lo numèro de telefòn">
 <!ENTITY contextCopyImageLocation.label       "Copiar l'adreça de l'imatge">
 <!ENTITY contextShareLink.label       "Partejar lo ligam">
 <!ENTITY contextShareImage.label      "Partejar l'imatge">
@@ -118,8 +118,8 @@
 <!ENTITY pageactions.share.page      "Partejar">
 <!ENTITY pageactions.password.forget "Doblidar lo senhal">
 <!ENTITY pageactions.quit            "Quitar">
-<!ENTITY pageactions.reset           "Clear Site Preferences">
-<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.reset           "Escafar las preferéncias de site">
+<!ENTITY pageactions.findInPage      "Recer. tèxte">
 <!ENTITY pageactions.search.addNew   "Apondre un motor de recèrca">
 <!ENTITY pageactions.charEncoding    "Encodatge de caractèr">
 

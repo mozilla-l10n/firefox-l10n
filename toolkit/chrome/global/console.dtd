@@ -29,7 +29,7 @@
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Òrdre cronologic">
-<!ENTITY sortFirst.accesskey "Ò">
+<!ENTITY sortFirst.accesskey "r">
 <!ENTITY sortLast.label      "Òrdre cronologic invèrse">
 <!ENTITY sortLast.accesskey  "d">
 <!ENTITY closeCmd.commandkey "W">  

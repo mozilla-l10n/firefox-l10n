@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "Marrit">
 
 <!ENTITY feedback.tools.title           "Aisinas">
-<!ENTITY feedback.allowTelemetry.title  "Mandar donadas de perf.">
+<!ENTITY feedback.allowTelemetry.title  "Mandar las donadas de perf.">
 <!ENTITY feedback.forceCompat.title     "Moduls incompat. permeses">
 <!ENTITY feedback.errorConsole.title    "Activar la consòla d'errors">

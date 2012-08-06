@@ -12,9 +12,9 @@
 <!ENTITY sync.syncNow               "Sincronizar">
 
 <!ENTITY sync.setup.title           "Se connectar a Sync">
-<!ENTITY sync.setup.pair            "Per activar, seleccionatz « Associar un aparelh » sus vòstre autre aparelh.">
-<!ENTITY sync.fallback              "I'm not near my computer…">
-<!ENTITY sync.setup.manual          "Enter your Sync account information">
+<!ENTITY sync.setup.pair            "Per activar, seleccionatz &#x0022;Associar un aparelh&#x0022; sus vòstre autre aparelh">
+<!ENTITY sync.fallback              "Ai pas accès a mon ordenador pel moment…">
+<!ENTITY sync.setup.manual          "Picatz vòstras informacions de compte Sync">
 <!ENTITY sync.account               "Nom del compte">
 <!ENTITY sync.password              "Senhal">
 <!ENTITY sync.recoveryKey           "Clau de recuperacion">
@@ -23,9 +23,9 @@
 <!ENTITY sync.setup.connect         "Connexion">
 <!ENTITY sync.setup.cancel          "Anullar">
 <!ENTITY sync.setup.tutorial        "Guida">
-<!ENTITY sync.setup.waiting2        "En espèra de l\u0027autre aparelh…">
+<!ENTITY sync.setup.waiting2        "En espèra de l'autre aparelh…">
 
 <!ENTITY sync.pair.title            "Associar un aparelh">
-<!ENTITY sync.pair.description      "Per activar vòstre novèl aparelh, seleccionatz « Configurar la sincronizacion » sus aquel d'aquí.">
+<!ENTITY sync.pair.description      "Per activar vòstre novèl aparelh, causissètz &#x0022;Configurar la sincronizacion&#x0022; sus aqueste.">
 <!ENTITY sync.setup.close           "Tampar">
-<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
+<!ENTITY sync.setup.waitingdownload "Vòstras donadas son telecargadas en rèire plan. Podètz tampar aqueste dialòg quand lo desiratz.">

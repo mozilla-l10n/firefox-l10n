@@ -1,6 +1,6 @@
 <!ENTITY aboutPage.title                        "A prepaus de &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; es experimental e pòt èsser instable.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryStart               " Manda automaticament d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " per ajudar a melhorar &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "FAQ">

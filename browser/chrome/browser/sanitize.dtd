@@ -36,11 +36,11 @@ that require it.  -->
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 
-<!ENTITY itemHistoryAndDownloads.label     "Istoric de navigacion e dels telecargaments">
-<!ENTITY itemHistoryAndDownloads.accesskey "n">
+<!ENTITY itemHistoryAndDownloads.label     "Istoric de navigacion &amp; dels telecargaments">
+<!ENTITY itemHistoryAndDownloads.accesskey "I">
 <!ENTITY itemBrowsingHistory.label         "Istoric de navigacion">
 <!ENTITY itemBrowsingHistory.accesskey     "n">
-<!ENTITY itemFormSearchHistory.label       "Istoric dels formularis e de las recèrcas">
+<!ENTITY itemFormSearchHistory.label       "Istoric dels formularis &amp; de las recèrcas">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Senhals enregistrats">
 <!ENTITY itemPasswords.accesskey           "h">

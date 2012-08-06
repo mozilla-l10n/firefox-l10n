@@ -6,19 +6,19 @@
 <!ENTITY  splash_settingup "Configuracion de &brandShortName;">
 <!ENTITY  splash_bookmarks_history "Mesa a jorn de vòstres marcapaginas e de vòstre istoric. Aquò pòt prene una o doas minutas.">
 
-<!ENTITY  no_space_to_start_error "I a pas pro d\u0027espaci disponible per permetre a &brandShortName; de s\'aviar.">
+<!ENTITY  no_space_to_start_error "I a pas pro d\'espaci disponible per permetre a &brandShortName; de s\'aviar.">
 <!ENTITY  error_loading_file "Una error s\'es producha en ensajant de cargar de fichièrs necessaris per aviar &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Sites favorits">
 <!ENTITY  awesomebar_bookmarks_title "Marcapaginas">
 <!ENTITY  awesomebar_history_title "Istoric">
-<!ENTITY  awesomebar_search_engine "Recercar « &#x25;s »">
+<!ENTITY  awesomebar_search_engine "Recercar \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Rapòrt de plantatge de &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\'aviada de &brandShortName; a son aviada que ven.">
 <!ENTITY  crash_help_message "Ajudatz-nos a corregir aqueste problèma !">
 <!ENTITY  crash_send_report_message "Mandar un rapòrt de plantatge a Mozilla">
-<!ENTITY  crash_include_url "Inclure l\u0027adreça de la pagina">
+<!ENTITY  crash_include_url "Inclure l\'adreça de la pagina">
 <!ENTITY  crash_close_label "Tampar">
 <!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
 <!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
@@ -57,15 +57,15 @@
 <!ENTITY one_tab "1 onglet">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#x25;d onglets">
+<!ENTITY num_tabs "&#037;d onglets">
 <!ENTITY new_tab_opened "Novèl onglet dobèrt">
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Vida privada e seguretat">
+<!ENTITY pref_category_privacy "Vida privada &amp; seguretat">
 <!ENTITY pref_category_content "Contengut">
-<!ENTITY pref_category_importexport "Importar e exportar">
+<!ENTITY pref_category_importexport "Importar &amp; exportar">
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_do_not_track "Dire de me pistar pas">
 <!ENTITY pref_telemetry "Mandar donadas de perf.">
@@ -73,7 +73,7 @@
 <!ENTITY pref_cookies "Autorizar los cookies">
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menut">
-<!ENTITY pref_char_encoding_off "Amagar lo menut">
+<!ENTITY pref_char_encoding_off "Amagar lo menut\">
 <!ENTITY pref_clear_private_data "Suprimir las donadas personalas">
 <!ENTITY pref_plugins "Empeutons (Plugins)">
 <!ENTITY pref_plugins_enabled "Activat">
@@ -89,8 +89,8 @@
 <!ENTITY pref_sync "Sincr">
 <!ENTITY pref_search_suggestions "Afichar las suggestions de recèrca">
 <!ENTITY pref_import_android "Importar dempuèi Android">
-<!ENTITY pref_private_data_history "Istoric de navigacion e dels telecargaments">
-<!ENTITY pref_private_data_formdata "Istoric dels formularis e de las recèrcas">
+<!ENTITY pref_private_data_history "Istoric de navigacion &amp; dels telecargaments">
+<!ENTITY pref_private_data_formdata "Istoric dels formularis &amp; de las recèrcas">
 <!ENTITY pref_private_data_cookies "Cookies">
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Escondedor">
@@ -106,8 +106,8 @@
 <!ENTITY char_encoding "Encodatge de caractèr">
 
 <!ENTITY share "Partejar">
-<!ENTITY share_title "Partejar amb l\u0027ajuda de">
-<!ENTITY share_image_failed "Unable to share this image">
+<!ENTITY share_title "Partejar amb l\'ajuda de">
+<!ENTITY share_image_failed "Impossible de partejar aqueste imatge">
 <!ENTITY save_as_pdf "Enregistrar en PDF">
 <!ENTITY find_in_page "Recercar dins la pagina">
 <!ENTITY desktop_mode "Veire version ordenador">
@@ -122,11 +122,11 @@
 <!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
 <!ENTITY contextmenu_remove_history "Suprimir">
 <!ENTITY contextmenu_remove_bookmark "Suprimir">
-<!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
+<!ENTITY contextmenu_add_to_launcher "Apondre a l\'ecran d\'acuèlh">
 <!ENTITY contextmenu_share "Partejar">
-<!ENTITY contextmenu_pasteandgo "Pegar e dobrir">
+<!ENTITY contextmenu_pasteandgo "Pegar &amp; dobrir">
 <!ENTITY contextmenu_paste "Empegar">
-<!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
+<!ENTITY contextmenu_copyurl "Copiar l\'adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -141,12 +141,12 @@
 <!ENTITY site_settings_title        "Escafar paramètre de site">
 <!ENTITY site_settings_cancel       "Anullar">
 <!ENTITY site_settings_clear        "Escafar">
-<!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
+<!ENTITY site_settings_no_settings  "I a pas de paramètre d\'escafar.">
 
 <!ENTITY reading_list "Lista de lectura">
 <!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
 <!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reading_list_failed "Impossible d\'apondre la pagina a vòstra lista de lectura">
 <!ENTITY reader_mode "Mòde de lectura :">
 
 <!ENTITY masterpassword_create_title "Crear un senhal principal">
@@ -159,18 +159,18 @@
 <!ENTITY button_clear_data "Escafar las donadas">
 
 <!ENTITY abouthome_addons_title "Moduls per vòstre &brandShortName;">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
-<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
+<!ENTITY abouthome_addons_browse "Percórrer totes los moduls per &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Vòstres darrièrs onglets dobèrts">
+<!ENTITY abouthome_last_tabs_open "Dobrir totes los onglets">
 <!ENTITY abouthome_top_sites_title "Sites favorits">
 <!ENTITY abouthome_top_sites_browse "Percórrer totes vòstres favorits">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
+<!ENTITY abouthome_no_top_sites "Avètz pas encara de sites favorits. Tocar la barra de títol per començar la navigacion.">
+<!ENTITY abouthome_about_sync "Parametrar Firefox Sync per accedir als marcapaginas, a l\'istoric e als onglets de vòstres autres aparelhs">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
 <!ENTITY filepicker_title "Causir un fichièr">
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
-<!ENTITY filepicker_image_title "Choose or take a picture">
+<!ENTITY filepicker_image_title "Causir un imatge o far una còpia d\'ecran">
 <!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
 <!-- Site identity popup -->
 
@@ -189,14 +189,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que lo detentor n\'es">
 
 <!ENTITY private_data_success "Donadas personalas escafadas">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_fail "D\'unas donadas personalas pòdon pas èsser escafadas">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric dempuèi Android">
+<!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de 
+l\'istoric dempuèi Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas 
+dempuèi Android">
+<!ENTITY bookmarkhistory_import_history "Importacion de l\'istoric 
+dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 
 <!ENTITY webapp_generic_name "App">

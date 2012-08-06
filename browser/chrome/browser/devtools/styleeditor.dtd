@@ -50,7 +50,7 @@
 <!ENTITY noStyleSheet-tip-start.label  "Benlèu que volètz ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
+<!ENTITY noStyleSheet-tip-action.label "apondre un novèl fuèlh d'estils">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 <!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->

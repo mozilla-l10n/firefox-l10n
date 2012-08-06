@@ -6,20 +6,20 @@
 <!ENTITY about.title                               "A prepaus de &brandShortName;">
 <!ENTITY about.button                              "Anar a la pagina">
 <!ENTITY content.title                             "Contengut">
-<!ENTITY reflowZoom.title                          "Reformat text on zoom">
-<!ENTITY showImages.title                          "Show images">
+<!ENTITY reflowZoom.title                          "Zoom textual reformatat">
+<!ENTITY showImages.title                          "Afichar los imatges">
 <!ENTITY enableJavaScript.title                    "Activar JavaScript">
-<!ENTITY privacy.title                             "Vida privada e seguretat">
-<!ENTITY allowCookies.title                        "Allow cookies">
+<!ENTITY privacy.title                             "Vida privada &amp; confidencialitat">
+<!ENTITY allowCookies.title                        "Autorizar los cookies">
 <!ENTITY doNotTrack.title                          "Dire de me pistar pas">
 <!ENTITY masterPassword.title                      "Utilizar un senhal principal">
-<!ENTITY clearPrivateData2.title                   "Suprimir las donadas personalas">
+<!ENTITY clearPrivateData2.title                   "Donadas privadas">
 <!ENTITY clearPrivateData.button                   "Escafar">
 <!ENTITY rememberPasswords.title                   "Enreg. los senhals">
 <!ENTITY language.title                            "Lenga">
 <!ENTITY language.auto                             "Deteccion automatica">
 <!ENTITY defaultBrowser.title                      "Navigador per defaut">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
+<!ENTITY defaultBrowser.description                "Far de &brandShortName; vòstre navigador per defaut">
 <!ENTITY homepage.title                            "Acuèlh">
 <!ENTITY homepage.none                             "Pagina voida">
 <!ENTITY homepage.default                          "Acuèlh de &brandShortName;">

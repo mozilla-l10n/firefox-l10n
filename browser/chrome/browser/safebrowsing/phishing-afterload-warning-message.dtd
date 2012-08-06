@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.warning.title "Suspicion de sit Web contrafach">
 
-<!ENTITY safeb.palm.message.p1 "Aquesta pagina es estada senhalada coma essent una contrafaiçon destinada a enganar los utilizaires pr'amor que comuniquen lors entresenhas personalas o financièras. La picada d'entresenhas personalas sus aquesta pagina pòt conduire a una raubariá d'identitat o a una autra fraudariá.">
+<!ENTITY safeb.palm.message.p1 "Aquesta pagina es estada senhalada coma essent una contrafaiçon destinada a enganar los utilizaires pr'amor que comuniquen lors entresenhas personalas o financièras. La picada d'entresenhas personalas sus aquesta pagina pòt conduire a una raubariá d'identitat o a una autra fraudariá. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Ne saber &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Ne saber mai &#133;">
 

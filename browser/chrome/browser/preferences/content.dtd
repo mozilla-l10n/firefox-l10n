@@ -21,14 +21,14 @@
 <!ENTITY  enableJava.accesskey        "J">
 
 
-<!ENTITY  fontsAndColors.label        "Poliças e colors">
+<!ENTITY  fontsAndColors.label        "Poliças &amp; colors">
 
 <!ENTITY  defaultFont.label           "Poliça per defaut :">
 <!ENTITY  defaultFont.accesskey       "d">
 <!ENTITY  defaultSize.label           "Talha :">
 <!ENTITY  defaultSize.accesskey       "T">
 
-<!ENTITY  advancedFonts.label         "Avançat...">
+<!ENTITY  advancedFonts.label         "Avançat…">
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Colors…">

@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY webapps.title.placeholder "Enter a title">
+<!ENTITY webapps.title.placeholder "Picar un títol">
 <!ENTITY webapps.permissions "Autorizar l'accès :">
 <!ENTITY webapps.perm.geolocation "Navigacion geolocalizada">
-<!ENTITY webapps.perm.offline "Offline data storage">
+<!ENTITY webapps.perm.offline "Emmagazinatge de donadas fòra connexion">
 <!ENTITY webapps.perm.notifications "Notificacions sul burèu">
 <!ENTITY webapps.perm.requestedHint "(accès demandat)">
 <!ENTITY webapps.add-homescreen "Apondre a l'ecran d'acuèlh">

@@ -60,9 +60,9 @@
 <!ENTITY pairDevice.title.label             "Associar un aparelh">
 <!ENTITY addDevice.showMeHow.label          "Cossí far ?">
 <!ENTITY addDevice.dontHaveDevice.label     "Ai pas l'aparelh amb ieu">
-<!ENTITY pairDevice.setup.description.label  "Per activar, seleccionatz « Associar un aparelh » sus vòstre autre aparelh.">
+<!ENTITY pairDevice.setup.description.label  "Per activar, seleccionatz &#x0022;Associar un aparelh&#x0022; sus vòstre autre aparelh.">
 <!ENTITY addDevice.setup.enterCode.label    "Picatz puèi aqueste còde :">
-<!ENTITY pairDevice.dialog.description.label "Per activar vòstre novèl aparelh, seleccionatz « Configurar la sincronizacion » sus aquel d'aquí.">
+<!ENTITY pairDevice.dialog.description.label "Per activar vòstre novèl aparelh, seleccionatz &#x0022;Configurar la sincronizacion&#x0022; sus aquel d'aquí.">
 <!ENTITY addDevice.dialog.enterCode.label   "Picatz lo còde provesit per l'aparelh :">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ensajatz tornarmai.">
 <!ENTITY addDevice.dialog.successful.label  "L'aparelh es estat apondut. La primièra sincronizacion pòt prene mantuna minuta e s'acabarà en rèire plan.">
@@ -71,7 +71,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Connexion">
-<!ENTITY existingRecoveryKey.description "Podètz obténer una còpia de vòstra clau de recuperacion en anant dins las opcions de &syncBrand.shortName.label; sus vòstre autre aparelh e en seleccionant  « Ma clau de recuperacion » dins « Gestion del compte ».">
+<!ENTITY existingRecoveryKey.description "Podètz obténer una còpia de vòstra clau de recuperacion en anant dins las opcions de &syncBrand.shortName.label; sus vòstre autre aparelh e en seleccionant &#x0022;Ma clau de recuperacion&#x0022; dins &#x0022;Gestion del compte&#x0022;.">
 <!ENTITY verifying.label              "Verificacion…">
 <!ENTITY resetPassword.label          "Reïnicializar lo senhal">
 <!ENTITY resetSyncKey.label           "Accedissi pas mai a mon autre aparelh.">

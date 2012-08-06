@@ -6,7 +6,7 @@
 
 <!ENTITY printSetup.title    "Mesa en pagina">
 
-<!ENTITY basic.tab           "Format e opcions">
+<!ENTITY basic.tab           "Format &amp; opcions">
 
 <!ENTITY formatGroup.label   "Format">
 
@@ -25,10 +25,10 @@
 
 <!ENTITY optionsGroup.label  "Opcions">
 
-<!ENTITY printBG.label       "Estampar lo fons de pagina (colors e imatges)">
+<!ENTITY printBG.label       "Estampar lo fons de pagina (colors &amp; imatges)">
 <!ENTITY printBG.accesskey   "f">
 
-<!ENTITY advanced.tab        "Marges, entèstas e pès de pagina">
+<!ENTITY advanced.tab        "Marges, entèstas &amp; pès de pagina">
 
 <!ENTITY marginGroup.label   "Marges (#1)">
 <!ENTITY marginUnits.inches  "poces">
@@ -42,7 +42,7 @@
 <!ENTITY marginRight.label   "Drecha :">
 <!ENTITY marginRight.accesskey "D">
 
-<!ENTITY headerFooter.label  "Entèstas e pès de pagina">
+<!ENTITY headerFooter.label  "Entèstas &amp; pès de pagina">
 
 <!ENTITY hfLeft.label        "Esquèrra :">
 <!ENTITY hfCenter.label      "Centre :">

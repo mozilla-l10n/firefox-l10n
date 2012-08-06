@@ -85,7 +85,7 @@
 <!ENTITY  securityView.identity.domain   "Site web :">
 <!ENTITY  securityView.identity.verifier "Verificat per :">
 
-<!ENTITY  securityView.privacy.header                   "Vida privada e istoric">
+<!ENTITY  securityView.privacy.header                   "Vida privada &amp; istoric">
 <!ENTITY  securityView.privacy.history                  "Ai ja visitat aqueste site ?">
 <!ENTITY  securityView.privacy.cookies                  "Aqueste site web collècta d'entresenhas (cookies) sus mon ordenador ?">
 <!ENTITY  securityView.privacy.viewCookies              "Veire los cookies">

@@ -38,7 +38,7 @@
 <!ENTITY  showCookies.label             "Afichar los cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "Règlas de conservacion :">
+<!ENTITY  historyHeader.pre.label          "Règlas de conservacion de &brandShortName; :">
 <!ENTITY  historyHeader.pre.accesskey      "R">
 <!ENTITY  historyHeader.remember.label     "conservar l'istoric">
 <!ENTITY  historyHeader.dontremember.label "conservar pas jamai l'istoric">

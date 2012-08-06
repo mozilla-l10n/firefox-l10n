@@ -33,8 +33,8 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tocar aicí per activar lo plugin.">
 <!ENTITY clickToPlayPlugin                                   "Clicar aicí per activar lo plugin.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Click here to activate vulnerable plugin.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Click here to activate vulnerable plugin (no update available).">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Clicatz aicí per activar lo modul vulnerable.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Clicatz aicí per activar lo modul vulnerable (pas cap de mesa a jorn disponibla).">
 <!ENTITY checkForUpdates                                     "Verificar se i a de mesas a jorn...">
 <!ENTITY disabledPlugin                                      "Aqueste plugin es desactivat.">
 <!ENTITY blockedPlugin.label                                 "Aqueste modul complementari es estat blocat per vòstra seguretat.">
