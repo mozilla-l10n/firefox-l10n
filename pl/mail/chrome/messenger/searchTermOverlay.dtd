@@ -9,7 +9,6 @@
 <!ENTITY matchAllMsgs.label     "Brak warunków, wszystkie wiadomości">
 <!ENTITY matchAllMsgs.accesskey "B">
 
-<!ENTITY searchTermListAttributesFlexValue "6">
-<!ENTITY searchTermListOperatorsFlexValue  "6">
-<!ENTITY searchTermListValueFlexValue      "4">
-<!ENTITY searchTermListButtonsFlexValue    "1">
+<!ENTITY searchTermListAttributesFlexValue "1">
+<!ENTITY searchTermListOperatorsFlexValue "1">
+<!ENTITY searchTermListValueFlexValue "3">
