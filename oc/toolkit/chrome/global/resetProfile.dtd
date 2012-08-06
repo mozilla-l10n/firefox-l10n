@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY resetProfile.dialog.title        "Reïnicializar &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "Sètz segur que volètz tornar a las valors per defaut de Firefox ?">
+<!ENTITY resetProfile.dialog.description  "Sètz segur que volètz tornar a las valors per defaut de &brandShortName; ?">
 <!ENTITY resetProfile.dialog.items2.label "&brandShortName; s'esforçarà de conservar los elements seguents :">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; reaviarà e tot lo demai serà suprimit.">
 <!ENTITY resetProfile.dialog.button.label "Reïnicializar &brandShortName;">

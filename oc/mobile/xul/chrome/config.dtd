@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Recercar">
-<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY newpref.label          "Apondre una novèla preferéncia">
 <!ENTITY addpref.name           "Nom">
 <!ENTITY addpref.value          "Valor">
 

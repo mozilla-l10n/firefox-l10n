@@ -17,14 +17,12 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Impossible de trobar lo servidor">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Verificatz la sintaxi de l'adreça 
+(picada de <strong>ww</strong>.exemple.com al luòc de 
+<strong>www</strong>.exemple.com per exemple).</li> 
+<li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fichièrs pas trobat">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -51,11 +49,9 @@
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins l'escondedor de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; torna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Ensajar Tornarmai per tornar demandar aqueste document dempuèi lo site web.</li></ul>">
 
 <!ENTITY netOffline.title "Mòde sens connexion">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Ensajatz tornarmai. &brandShortName; ensajarà de dobrir una connexion e d'actualizar la pagina.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -86,12 +82,10 @@ fonciona.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatòri">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Verificatz que los paramètres del proxy son corrèctes.</li> 
+<li>Verificatz que la connexion donadas o WiFi de vòstre aparelh fonciona.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -107,26 +101,25 @@ vòstre sistèma.</li>
 
 <!ENTITY nssFailure2.title "Fracàs de la connexion securizada">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas 
-pòt pas èsser verificada.</li> 
-<li>Contactatz los proprietaris del sit Web per los n'assabentar. 
-Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un sit pas foncional.</li> 
+<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> 
+<li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un sit pas foncional.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-<!ENTITY nssBadCert.longDesc2 "<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> 
-<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> 
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja
+d'usurpar l'identitat del servidor.</li> 
+<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz
+ensajar tornamai pus tard.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li> 
+<li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh.</li> 
+</ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blocat per una estrategia de seguretat de contengut">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d'aquesta pagina d'aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
 <!ENTITY corruptedContentError.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada. </p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
@@ -140,7 +133,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre cap d'exception se utilizatz una connexion a Internet que vos i fisatz pas totalament o se sètz pas acostumat a recebre un avertiment per aqueste servidor.</p> 
+<!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre cap d'exception s'utilizatz una connexion a Internet dins la quala vos fisatz pas totalament o se sètz pas acostumats a recebre un avertiment per aqueste servidor.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

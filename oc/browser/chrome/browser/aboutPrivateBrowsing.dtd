@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStop2                "Per arrestar la navigacion privada, seleccionatz &basePBMenu.label; > &privateBrowsingCmd.stop.label; o tampatz &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; > &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "Per arrestar la navigacion privada, seleccionatz &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; o tampatz &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ne saber mai">

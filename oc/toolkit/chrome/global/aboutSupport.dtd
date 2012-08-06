@@ -5,7 +5,9 @@
 <!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Aquesta pagina conten d'informacions tecnicas que poirián èsser utilas quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions correntas sus &brandShortName;, consultatz nòstre site Web d'assisténcia.">
+<!ENTITY aboutSupport.pageSubtitle "  Aquesta pagina conten d'informacions tecnicas que poirián èsser utilas
+quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions
+ correntas sus &brandShortName;, consultatz nòstre <a id='supportLink'>site Web d'assisténcia</a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensions">
 <!ENTITY aboutSupport.extensionName "Nom">
@@ -45,11 +47,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Acceleracion grafica">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Amassamicas incremental">
 
 <!ENTITY aboutSupport.a11yTitle "Accessibilitat">
 <!ENTITY aboutSupport.a11yActivated "Activar">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yForceDisabled "Limitar l'accessibilitat">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Version de las bibliotèca">
 

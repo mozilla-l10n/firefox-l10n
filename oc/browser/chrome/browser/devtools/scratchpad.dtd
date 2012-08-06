@@ -20,7 +20,7 @@
 
 
 
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Lausa JavaScript">
 
 <!ENTITY fileMenu.label               "Fichièr">
 <!ENTITY fileMenu.accesskey           "F">
@@ -92,8 +92,8 @@
 <!ENTITY helpMenuWin.label            "Ajuda">
 <!ENTITY helpMenuWin.accesskey        "A">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
-<!ENTITY documentationLink.accesskey  "D">
+<!ENTITY documentationLink.label      "Ajuda per la lausa JavaScript sus MDN">
+<!ENTITY documentationLink.accesskey  "A">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->

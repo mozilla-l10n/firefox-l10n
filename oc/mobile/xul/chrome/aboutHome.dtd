@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs                   "Your tabs from last time">
-<!ENTITY aboutHome.remoteTabs                   "Tabs from your other computers">
-<!ENTITY aboutHome.recommendedAddons2           "Moduls per vòstre &brandShortName;">
+<!ENTITY aboutHome.header                       "<span>Acuèlh de </span><span id='header-suffix'>&brandShortName;</span>">
+<!ENTITY aboutHome.recentTabs                   "Los onglets de la sesilha precedenta">
+<!ENTITY aboutHome.remoteTabs                   "Los onglets de Firefox sus vòstres autres ordenadors">
+<!ENTITY aboutHome.recommendedAddons2           "Moduls per &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Reagir">
-<!ENTITY aboutHome.getHelp                      "Get Help">
+<!ENTITY aboutHome.getHelp                      "Obténer d'ajuda">
 <!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Tot dobrir dins d'onglets">
-<!ENTITY aboutHome.noTabs                       "No tabs from last time">
-<!ENTITY aboutHome.noAddons                     "No recommended add-ons">
+<!ENTITY aboutHome.noTabs                       "Pas cap d'onglet de restablir">
+<!ENTITY aboutHome.noAddons                     "Pas cap de modul recomandat">
 <!ENTITY aboutHome.getLocale                    "Cambiar de lenga">
-<!ENTITY aboutHome.getInBeforeBeta              "Get in before Beta.">
-<!ENTITY aboutHome.tryAurora                    "Try Firefox Aurora and help shape the future of Firefox.">
+<!ENTITY aboutHome.getInBeforeBeta              "Abans la quita version Bèta">
+<!ENTITY aboutHome.tryAurora                    "Ensajatz Firefox Aurora e ajudatz-nos a donar forma al futur Firefox.">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->

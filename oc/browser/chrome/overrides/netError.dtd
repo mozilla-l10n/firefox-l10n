@@ -18,10 +18,11 @@
 
 <!ENTITY dnsNotFound.title "Impossible de trobar lo servidor">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Verificatz se i a pas d'error de picada de 
-l'adreça coma <strong>ww</strong>.exemple.com al 
-luòc de <strong>www</strong>.exemple.com</li> 
-<li>Se capitatz pas a navigar sus cap de sit, verificatz la connexion.</li> 
+<li>Verificatz se i a pas d'error de picada de l'adreça coma 
+<strong>ww</strong>.exemple.com al luòc de 
+<strong>www</strong>.exemple.com</li> 
+<li>Se capitatz pas a navigar sus cap de site,
+verificatz la connexion.</li> 
 <li>Se vòstre ordenador es protegit per un parafuòc o un proxy, asseguratz-vos 
 que &brandShortName; a l'autorizacion d'accedir a internet.</li> 
 </ul>">
@@ -52,7 +53,7 @@ que &brandShortName; a l'autorizacion d'accedir a internet.</li>
 
 <!ENTITY netOffline.title "Mòde sens connexion">
 <!ENTITY netOffline.longDesc2 " <ul> 
-<li>Clicatz sul boton « Ensajatz tornarmai » per tornar en mòde connectat e recargar la pagina.</li> 
+<li>Clicatz sul boton &quot;Ensajatz tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
@@ -86,7 +87,10 @@ fonciona.</li>
 <!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatòri">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Verificatz que los paramètres del proxy son corrèctes ;</li> 
-<li>Verificatz que la connexion ret de vòstre ordenador fonciona ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
+<li>Verificatz que la connexion ret de vòstre ordenador fonciona ;</li> 
+<li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy,
+asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -98,19 +102,21 @@ dels cookies.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Verificatz que lo gestionari de seguretat personala (PSM) es installat sus 
 vòstre sistèma.</li> 
-<li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li> </ul>">
+<li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li>
+ </ul>">
 
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas 
-pòt pas èsser verificada.</li> 
-<li>Contactatz los proprietaris del sit Web per los n'assabentar. 
-Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un sit pas foncional.</li> 
+<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> 
+<li>Contactatz los proprietaris del site Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un site pas foncional.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-<!ENTITY nssBadCert.longDesc2 "<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> 
-<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> 
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Aquò pòt èsser degut a un problèma de configuracion del servidor 
+o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> 
+<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error 
+es temporària e podètz ensajar tornamai pus tard.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 

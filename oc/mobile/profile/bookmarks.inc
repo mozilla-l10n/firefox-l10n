@@ -34,7 +34,7 @@
 # link title for https://addons.mozilla.org/en-US/mobile
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox : Personalizar amb de moduls complementaris
 
 
 
