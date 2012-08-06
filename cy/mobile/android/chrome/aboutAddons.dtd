@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Galluogi">
 <!ENTITY addonAction.disable                    "Atal">
 <!ENTITY addonAction.uninstall                  "Dadosod">
-<!ENTITY addonAction.cancel                     "Diddymu">
+<!ENTITY addonAction.undo                       "Dadwneud">

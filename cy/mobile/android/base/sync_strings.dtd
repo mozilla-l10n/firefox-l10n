@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Ceisio eto">
 <!ENTITY sync.button.manual.label "Gosod gyda Llaw">
 <!ENTITY sync.subtitle.nointernet.label "Dim cysylltiad gwe ar gael.">
+<!ENTITY sync.subtitle.failaccount.label "Methodd creu cyfrif ar eich dyfais">
+<!ENTITY sync.subtitle.failmultiple.label "A oes gennych fwy nag un Firefox wedi ei osod? Ar hyn o bryd mae &syncBrand.fullName.label; yn cynnal dim ond un Firefox ar y tro. Dadosodwch unrhyw engraifft er mwyn defnyddio&syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Wedi Cwblhau’r Gosod">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy’n cael ei gynnal.">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "Enw cyfrif neu gyfrinair anghywir.">
+<!ENTITY sync.invalidserver.label "Rhowch URL gweinydd dilys">
+<!ENTITY sync.verifying.label "Dilysu…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Allwedd Adfer anghywir. Ceisiwch eto.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Anfon Tab i Ddyfeisiadau">
+<!ENTITY sync.button.send.label "Anfon">
+<!ENTITY sync.button.set.up.sync.label "Gosod &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Gosod &syncBrand.shortName.label; i anfon tabiau">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Gosod &syncBrand.fullName.label; ar eich dyfais i anfon tabiau i ddyfeisiadau eraill.">
+<!ENTITY sync.text.tab.sent.label "Anfonwyd eich tab!">

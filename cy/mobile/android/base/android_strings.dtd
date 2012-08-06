@@ -50,10 +50,11 @@
 <!ENTITY menu "Dewislen">
 <!ENTITY back "Nôl">
 <!ENTITY stop "Atal">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Diogelwch Gwefan">
 
 <!ENTITY close_tab "Cau Tab">
 <!ENTITY new_tab "Tab Newydd">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d tab">
@@ -64,6 +65,7 @@
 <!ENTITY pref_category_general "Cyffredinol">
 <!ENTITY pref_category_privacy "Preifatrwydd a Diogelwch">
 <!ENTITY pref_category_content "Cynnwys">
+<!ENTITY pref_category_importexport "Mewnforio ac Allforio">
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_do_not_track "Dweud wth wefannau i beidio fy nilyn">
 <!ENTITY pref_telemetry "Anfonwch ddata perfformiad">
@@ -72,10 +74,7 @@
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
 <!ENTITY pref_char_encoding_off "Peidio dangos dewislen">
-<!ENTITY pref_clear_history "Clirio Hanes">
-<!ENTITY pref_clear_history_confirm "Bydd hanes pori’n cael ei ddileu">
 <!ENTITY pref_clear_private_data "Clirio data preifat">
-<!ENTITY pref_clear_private_data_confirm "Bydd gosodiadau pori, gan gynnwys cyfrineiriau a chwcis, yn cael eu dileu">
 <!ENTITY pref_plugins "Ategion">
 <!ENTITY pref_plugins_enabled "Galluogwyd">
 <!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
@@ -88,17 +87,30 @@
 <!ENTITY pref_font_size_xlarge "Mawr Iawn">
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_sync "Cydweddu">
+<!ENTITY pref_search_suggestions "Dangos awgrymiadau chwilio">
+<!ENTITY pref_import_android "Mewnforio o Android">
+<!ENTITY pref_private_data_history "Hanes a hanes llwytho i lawr">
+<!ENTITY pref_private_data_formdata "Hanes chwilio a ffurflen">
+<!ENTITY pref_private_data_cookies "Cwcis">
+<!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
+<!ENTITY pref_private_data_cache "Storfa">
+<!ENTITY pref_private_data_sessions "Mewngofnodion gweithredol">
+<!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
+<!ENTITY pref_private_data_siteSettings "Dewisiadau\'r wefan">
 
 <!ENTITY quit "Gadael">
 
 <!ENTITY addons "Ychwanegion">
 <!ENTITY downloads "Llwythi">
+<!ENTITY apps "Apiau">
 <!ENTITY char_encoding "Nodau Amgodio">
 
 <!ENTITY share "Rhannu">
 <!ENTITY share_title "Rhannu drwy">
+<!ENTITY share_image_failed "Methu rhannu\'r ddelwedd">
 <!ENTITY save_as_pdf "Cadw fel PDF">
 <!ENTITY find_in_page "Canfod yn y Dudalen">
+<!ENTITY desktop_mode "Gofyn am Wefan Bwrdd Gwaith">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -112,6 +124,9 @@
 <!ENTITY contextmenu_remove_bookmark "Tynnu">
 <!ENTITY contextmenu_add_to_launcher "Ychwanegu i’r Sgrin Cartref">
 <!ENTITY contextmenu_share "Rhannu">
+<!ENTITY contextmenu_pasteandgo "Gludo a Mynd">
+<!ENTITY contextmenu_paste "Gludo">
+<!ENTITY contextmenu_copyurl "Copïo Cyfeiriad">
 <!ENTITY contextmenu_edit_bookmark "Golygu">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -128,9 +143,10 @@
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
 
-<!ENTITY add_to_reading_list "Ychwanegu at y Rhestr Ddarllen">
+<!ENTITY reading_list "Rhestr Ddarllen">
 <!ENTITY reading_list_added "Tudalen wedi ei hychwanegu at eich Rhestr Ddarllen">
 <!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\'ch Rhestr Ddarllen">
+<!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\'ch Rhestr Darllen">
 <!ENTITY reader_mode "Modd Darllen">
 
 <!ENTITY masterpassword_create_title "Creu Prif Gyfrinair">
@@ -140,6 +156,7 @@
 
 <!ENTITY button_ok "Iawn">
 <!ENTITY button_cancel "Diddymu">
+<!ENTITY button_clear_data "Clirio data">
 
 <!ENTITY abouthome_addons_title "Ychwanegion &brandShortName;">
 <!ENTITY abouthome_addons_browse "Pori holl ychwanegion &brandShortName;">
@@ -170,3 +187,17 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "sy\'n cael ei redeg gan">
+
+<!ENTITY private_data_success "Clirio data preifat">
+<!ENTITY private_data_fail "Nid oedd modd clirio peth data preifat">
+
+<!ENTITY bookmarkhistory_button_import "Mewnforio">
+<!ENTITY bookmarkhistory_import_both "Mewnforio nodau tudalen a hanes
+gan Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Mewnforio nodau tudalen
+o Android">
+<!ENTITY bookmarkhistory_import_history "Mewnforio hanes
+o Android">
+<!ENTITY bookmarkhistory_import_wait "Arhoswch…">
+
+<!ENTITY webapp_generic_name "Ap">
