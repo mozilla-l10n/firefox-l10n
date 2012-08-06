@@ -491,6 +491,8 @@
 <!ENTITY errorConsoleCmd.label             "Konsola błędów">
 <!ENTITY errorConsoleCmd.accesskey         "s">
 <!ENTITY errorConsoleCmd.commandkey "K">
+<!ENTITY clearRecentHistory.label "Wyczyść historię przeglądania…">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY filtersCmd.label                  "Filtrowanie wiadomości…">
 <!ENTITY filtersCmd.accesskey              "F">
 <!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">

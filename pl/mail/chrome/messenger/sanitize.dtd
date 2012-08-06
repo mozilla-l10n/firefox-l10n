@@ -1,0 +1,32 @@
+<!ENTITY sanitizePrefs2.title "Ustawienia czyszczenia historii">
+<!ENTITY sanitizeDialog2.title "Wyczyść historię przeglądania">
+
+<!ENTITY sanitizeItems.label "Wyczyść następujące elementy:">
+<!ENTITY clearDataSettings2.label "Podczas zamykania programu &brandShortName; powinny zostać usunięte następujące elementy:">
+
+<!ENTITY clearTimeDuration.label "Okres do wyczyszczenia: ">
+<!ENTITY clearTimeDuration.accesskey "O">
+<!ENTITY clearTimeDuration.lastHour "ostatnia godzina">
+<!ENTITY clearTimeDuration.last2Hours "ostatnie dwie godziny">
+<!ENTITY clearTimeDuration.last4Hours "ostatnie cztery godziny">
+<!ENTITY clearTimeDuration.today "dzisiaj">
+<!ENTITY clearTimeDuration.everything "wszystko">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Data odwiedzin">
+<!ENTITY clearTimeDuration.nameColumn "Nazwa">
+
+<!ENTITY detailsProgressiveDisclosure.label "Szczegóły">
+<!ENTITY detailsProgressiveDisclosure.accesskey "S">
+
+<!ENTITY historySection.label "Historia">
+<!ENTITY dataSection.label "Dane">
+
+<!ENTITY itemCookies.label "Ciasteczka">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Pamięć podręczna">
+<!ENTITY itemCache.accesskey "P">
+
+<!ENTITY sanitizeEverythingUndoWarning "Tej operacji nie można cofnąć.">
+
+<!ENTITY dialog.width "32em">
+<!ENTITY column.width "14em">
