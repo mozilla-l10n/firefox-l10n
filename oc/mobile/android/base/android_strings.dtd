@@ -92,7 +92,7 @@
 <!ENTITY pref_private_data_history "Istoric de navigacion &amp; dels telecargaments">
 <!ENTITY pref_private_data_formdata "Istoric dels formularis &amp; de las recèrcas">
 <!ENTITY pref_private_data_cookies "Cookies">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_passwords "Senhals enregistrats">
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_sessions "Connexions activas">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">

@@ -72,13 +72,15 @@ Asseguratz-vos que dispausatz de la darrièra version de &brandShortName; a :">
  Pas segura. Contactatz vòstre provesidor de ret per demandar d'ajuda.">
 
 <!ENTITY  finishedPage.title              "Mesa a jorn prèsta a s'installar">
-<!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
+<!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. 
+Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
 
 <!ENTITY  finishedBackgroundPage.text     "S'es telecargada una mesa a jorn de seguretat e d'estabilitat per &brandShortName;. 
 Es prèsta a èsser installada.">
 <!ENTITY  finishedBackground.name         "Mesa a jorn:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
+<!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. 
+Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
 
 <!ENTITY  installed.title                 "Mesa a jorn installada">
 <!ENTITY  installed.intro                 "La mesa a jorn es estada installada amb succès.">
