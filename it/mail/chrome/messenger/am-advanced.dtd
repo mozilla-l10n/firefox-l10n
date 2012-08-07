@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
 <!ENTITY smtpDescription.label "Nella gestione delle proprie identità è possibile usare un server della lista seguente selezionandolo come Server in uscita (SMTP) o lasciare il predefinito selezionando &quot;Server predefinito&quot;.">
 <!ENTITY smtpListAdd.label "Aggiungi…">
