@@ -48,3 +48,10 @@
 <!ENTITY report.failed                                       "Felënk wësłaniô.">
 <!ENTITY report.unavailable                                  "Felënk przistãpnëch repòrtów.">
 <!ENTITY report.please                                       "Sélôj rapòrt ò awarii">
+<!ENTITY checkForUpdates 								"Sprôwdzôj przistãpné atualizacje…">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate 			"Klëkni bë włączëc dodôwk (bez aktualizacji)">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable 	"Klëkni bë zaktualnic dodôwk">
+<!ENTITY unsupportedPlatform.learnMore 					"Wicy wëdowiédzë…">
+<!ENTITY unsupportedPlatform.post 			"">
+<!ENTITY unsupportedPlatform.pre 			"Przprôszómë, ale &brandShortName; ni mòże òdtwòrzëc Flasha na tim ùrządzeniu.">
+

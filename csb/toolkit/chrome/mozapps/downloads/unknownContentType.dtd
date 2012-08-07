@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "Môsz wëbróné òtemkniãcé">
+<!ENTITY intro2.label 				"Chcész òtemknąc:">
 <!ENTITY  from.label                  "z:">
 <!ENTITY  actionQuestion.label        "Co mô zrobic &brandShortName; z tim lopkã?">
 

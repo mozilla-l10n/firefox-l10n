@@ -72,3 +72,5 @@
 <!ENTITY closeCmd.commandkey "Z">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
+<!ENTITY filter.label        "filter">
+<!ENTITY filter.accesskey    "i">
