@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Aplicações web no modo desligado">
+<!ENTITY pref.offlineCache.caption          "Conteúdo web no modo desligado e dados de utilizador">
+
+<!ENTITY clearOfflineAppCache.label         "Limpar">
+<!ENTITY clearOfflineAppCache.accesskey     "L">
+
+<!ENTITY offlineNotify.label                "Notificar-me quando um sítio web quiser guardar dados para o modo desligado.">
+<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineNotifyPermissions.label     "Gerir permissões">
+<!ENTITY offlineNotifyPermissions.accesskey "p">
+
+<!ENTITY offlineAppsList.label              "Os seguintes sítios web têm permissão para guardar dados no modo desligado:">
+<!ENTITY offlineAppsListRemove.label        "Limpar dados…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">
