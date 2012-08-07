@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialogTitle.label "Opzioni di archiviazione">
 <!ENTITY archiveGranularityPrefix.label "Quando si archiviano i messaggi metterli in:">
 <!ENTITY archiveFlat.label "Una singola cartella">
