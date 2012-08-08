@@ -92,6 +92,7 @@
 <!ENTITY pref_private_data_history "Eachdraidh a\' bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
 <!ENTITY pref_private_data_cookies "Briosgaidean">
+<!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
 <!ENTITY pref_private_data_cache "An tasgadan">
 <!ENTITY pref_private_data_sessions "Logadh a-steach beò sam bith">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
