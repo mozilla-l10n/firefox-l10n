@@ -1,8 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Windows' preferences dialog -->
 <!ENTITY pref.scripts.title              "Skript &amp; Insticksmoduler">
 
-<!--LOCALIZATION NOTE (enableJsCheck.label): 'JavaScript' should never be translated -->
 <!ENTITY navigator.label             "Webbläsare">
 <!ENTITY navigator.accesskey         "W">
 
@@ -17,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Blockera eller ersätta snabbvalsmenyer">
 <!ENTITY allowHideStatusBar.label        "Dölja statusfältet">
 
-<!ENTITY enablePlugin.label              "Aktivera insticksmoduler för">
+<!ENTITY enablePlugins.label             "Aktivera insticksmoduler för">
 <!ENTITY enablePluginForSuite.label      "Sviten">
 <!ENTITY enablePluginForSuite.accesskey  "v">
 
-<!ENTITY whenPluginsRequired.label       "När insticksmoduler behövs">
-<!ENTITY displayNotification.label       "Visa ett meddelande i innehållsfönstrets överkant">
-<!ENTITY displayNotification.accesskey   "m">
+<!ENTITY whenPageRequiresPlugins.label   "När en sida behöver insticksmoduler">
+<!ENTITY activateAllPlugins.label        "Aktivera alla insticksmoduler som standard">
+<!ENTITY activateAllPlugins.accesskey    "s">
+<!ENTITY warnPluginsRequired.label       "Varna mig om ytterligare insticksmoduler behöver installeras">
+<!ENTITY warnPluginsRequired.accesskey   "i">
