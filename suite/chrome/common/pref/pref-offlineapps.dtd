@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Webbapplikation för nedkopplat läge">
+<!ENTITY pref.offlineCache.caption          "Webbinnehåll och användardata för nedkopplat läge">
+
+<!ENTITY clearOfflineAppCache.label         "Rensa">
+<!ENTITY clearOfflineAppCache.accesskey     "R">
+
+<!ENTITY offlineNotify.label                "Meddela mig när en webbplats vill lagra data att användas i nedkopplat läge.">
+<!ENTITY offlineNotify.accesskey            "M">
+<!ENTITY offlineNotifyPermissions.label     "Hantera tillåtelser">
+<!ENTITY offlineNotifyPermissions.accesskey "t">
+
+<!ENTITY offlineAppsList.label              "Följande webbplatser får lagra data att användas i nedkopplat läge:">
+<!ENTITY offlineAppsListRemove.label        "Rensa data…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">
