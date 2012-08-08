@@ -88,7 +88,7 @@
 <!ENTITY consoleAll.label          "Fof">
 <!ENTITY consoleErrors.label       "Juume">
 <!ENTITY consoleWarnings.label     "Deentine">
-<!ENTITY consoleMessages.label     "Ɓatakuje">
+<!ENTITY consoleMessages.label     "Ɓatakuuje">
 <!ENTITY consoleCodeEval.label     "Dokkol:">
 <!ENTITY consoleClear.label        "Momtu">
 <!ENTITY consoleEvaluate.label     "…">

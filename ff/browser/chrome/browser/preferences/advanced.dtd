@@ -19,7 +19,7 @@
 
 <!ENTITY useAutoScroll.label             "Huutoro ŋaylogol jaajol">
 <!ENTITY useAutoScroll.accesskey         "j">
-<!ENTITY useSmoothScrolling.label        "Huutoro ŋaylogol teeyngol">
+<!ENTITY useSmoothScrolling.label        "Huutoro woragol teeyngol">
 <!ENTITY useSmoothScrolling.accesskey    "t">
 <!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">

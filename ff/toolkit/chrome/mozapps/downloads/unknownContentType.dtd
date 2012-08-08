@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  intro2.label                "A suɓiima udditde:">
-<!ENTITY  from.label                  "iwde:">
+<!ENTITY  from.label                  "wonnde to:">
 <!ENTITY  actionQuestion.label        "Hol ko &brandShortName; foti waɗde e ndee fiilde?">
 
 <!ENTITY  openWith.label              "Udditir">
@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Waɗ ɗum e jaajol dow piille nannduɗe e ndee-ɗoo tuggi jooni.">
 <!ENTITY  rememberChoice.accesskey    "j">
 
-<!ENTITY  whichIsA.label              "gonɗo:">
+<!ENTITY  whichIsA.label              "ko nde fiilde:">
 
 <!ENTITY  chooseHandlerMac.label      "Suɓo…">
 <!ENTITY  chooseHandlerMac.accesskey  "S">
