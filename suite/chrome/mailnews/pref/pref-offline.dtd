@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
@@ -29,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "b">
 <!ENTITY mailnewsTimeoutSeconds.label     "sekunder">
 <!ENTITY Diskspace                        "Diskutrymme">
-<!ENTITY offlineCompact.label             "Komprimera mappar när det sparar mer än">
-<!ENTITY offlineCompact.accesskey         "m">
-<!ENTITY mb.label                         "MB">
+<!ENTITY offlineCompactFolders.label      "Komprimera alla mappar när det sparar mer än">
+<!ENTITY offlineCompactFolders.accesskey  "m">
+<!ENTITY offlineCompactFoldersMB.label    "MB tillsammans">
