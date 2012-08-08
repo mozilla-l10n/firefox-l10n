@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "टैब बंद करें">
 <!ENTITY new_tab "नया टैब">
+<!ENTITY one_tab "1 टैब">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d टैब">
@@ -86,10 +87,12 @@
 <!ENTITY pref_font_size_xlarge "बहुत बड़ा">
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
 <!ENTITY pref_sync "सिंक">
+<!ENTITY pref_search_suggestions "खोज सलाह दिखाएँ">
 <!ENTITY pref_import_android "एंड्रायड से आयात">
 <!ENTITY pref_private_data_history "ब्राउज़िंग और डाउनलोड इतिहास">
 <!ENTITY pref_private_data_formdata "फॉर्म व खोज इतिहास">
 <!ENTITY pref_private_data_cookies "कूकीज">
+<!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "कैश">
 <!ENTITY pref_private_data_sessions "सक्रिय लॉगिन">
 <!ENTITY pref_private_data_offlineApps "ऑफ़ाइल वेबसाइट आँकड़ा">
@@ -99,10 +102,12 @@
 
 <!ENTITY addons "सहयुक्ति">
 <!ENTITY downloads "डाउनलोड्स">
+<!ENTITY apps "एप्प्स">
 <!ENTITY char_encoding "वर्ण ऐन्कोडिंग">
 
 <!ENTITY share "साझा करें">
 <!ENTITY share_title "इससे साझा करें">
+<!ENTITY share_image_failed "इस छवि को साझा करने में असमर्थ">
 <!ENTITY save_as_pdf "बतौर PDF सहेजें">
 <!ENTITY find_in_page "पृष्ठ में ढूँढें">
 <!ENTITY desktop_mode "डेस्कटॉप साइट के लिए आग्रह करें">
@@ -138,9 +143,10 @@
 <!ENTITY site_settings_clear        "साफ़ करें">
 <!ENTITY site_settings_no_settings  "साफ़ करने के लिए कोई सेटिंग नहीं.">
 
-<!ENTITY add_to_reading_list "पठन सूची जोड़ें">
+<!ENTITY reading_list "पठन सूची">
 <!ENTITY reading_list_added "आपकी पठन सूची में पृष्ठ जोड़ा गया">
 <!ENTITY reading_list_removed "आपकी पठन सूची से पृष्ठ हटाया गया">
+<!ENTITY reading_list_failed "आपकी पठन सूची में पृष्ठ जोड़ने में विफल">
 <!ENTITY reader_mode "रीडर विधि">
 
 <!ENTITY masterpassword_create_title "प्रधान कूटशब्द बनाएँ">
@@ -183,6 +189,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "कौन इसके द्वारा चलता है">
 
+<!ENTITY private_data_success "निजी आँकड़ा साफ़ किया गया">
+<!ENTITY private_data_fail "कुछ निजी आँकड़ा साफ नहीं किया जा सका">
+
 <!ENTITY bookmarkhistory_button_import "आयात करें…">
 <!ENTITY bookmarkhistory_import_both "पुस्तचिह्न और इतिहास का आयात 
 एंड्रायड से कर रहा है">
@@ -192,5 +201,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 एंड्रायड से कर रहा है">
 <!ENTITY bookmarkhistory_import_wait "कृपया प्रतीक्षा करें...">
 
-<!ENTITY private_data_success "निजी आँकड़ा साफ़ किया गया">
-<!ENTITY private_data_fail "कुछ निजी आँकड़ा साफ नहीं किया जा सका">
+<!ENTITY webapp_generic_name "एप्प">

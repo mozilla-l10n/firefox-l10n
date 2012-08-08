@@ -1,4 +1,4 @@
-<!ENTITY aboutPage.title                        "brandShortName; का परिचय">
+<!ENTITY aboutPage.title                        "&brandShortName; का परिचय">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
 <!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">

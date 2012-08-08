@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "फिर कोशिश करें">
 <!ENTITY sync.button.manual.label "Manual Setup">
 <!ENTITY sync.subtitle.nointernet.label "No internet connection available.">
+<!ENTITY sync.subtitle.failaccount.label "आपके डिवायस पर खाता निर्माण विफल रहा.">
+<!ENTITY sync.subtitle.failmultiple.label "क्या आपके पास एक से अधिक फ़ायरफ़ॉक्स संस्थापित है? अभी, &syncBrand.fullName.label; केवल एक फ़ायरफ़ॉक्स का संस्थापन का समर्थन करता है. कृपया &syncBrand.shortName.label; के उपयोग के लिए दूसरे का उपयोग करें.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "सेटअप पूर्ण">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Only one &syncBrand.fullName.label; account is supported.">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "गलत खाता नाम या कूटशब्द.">
+<!ENTITY sync.invalidserver.label "कृपया एक वैध सर्वर URL दाखिल करें">
+<!ENTITY sync.verifying.label "जाँच रहा है…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Recovery Key incorrect. Please try again.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "टैब युक्तियों में भेजें">
+<!ENTITY sync.button.send.label "भेजें">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; सेटअप करें">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "टैब भेजने के लिए &syncBrand.shortName.label; सेटअप करें">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; को अपने डिवायस पर सेटअप करें ताकि दूसरे डिवायस में टैब भेजे जा सकें.">
+<!ENTITY sync.text.tab.sent.label "आपका टैब भेजा गया!">
