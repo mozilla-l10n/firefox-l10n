@@ -59,6 +59,8 @@
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
+<!ENTITY pref_private_data_passwords "Contraseñas guardadas">
+<!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, será eliminada">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activados">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
