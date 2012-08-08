@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Mandargaal xët wi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Takkoo ak xët wile">
 <!ENTITY subscribeToPageMenuitem.label "Takkoo ak xët wile…">
 <!ENTITY addCurPagesCmd.label "Mandargaal koñ yépp…">
@@ -238,11 +239,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tëj banqaasu tallal">
 <!ENTITY devToolbarMenu.label              "Banqaasu tallal">
 <!ENTITY devToolbarMenu.accesskey          "q">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY webConsoleButton.label "Konsolu Web">
 <!ENTITY inspectorButton.label "Inspektëër">
-<!ENTITY scriptsButton.label "Skiript">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Duppi innerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "i">
@@ -438,8 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "b">
 <!ENTITY bookmarkThisFrameCmd.label      "Mandarga xët ci kaadar bi">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
-<!ENTITY sendPageCmd.label            "Yonnee benn buum ci xët…">
-<!ENTITY sendPageCmd.accesskey        "Y">
+<!ENTITY emailPageCmd.label           "Buumu imeel…">
+<!ENTITY emailPageCmd.accesskey       "B">
 <!ENTITY savePageCmd.label            "Aar ci…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -451,20 +452,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "M">
 <!ENTITY saveLinkCmd.label            "Aar jëmu buum gi ci…">
 <!ENTITY saveLinkCmd.accesskey        "j">
-<!ENTITY sendLinkCmd.label            "Yónnee buum…"> 
-<!ENTITY sendLinkCmd.accesskey        "Y">
 <!ENTITY saveImageCmd.label           "Aar nataal bi ci…">
 <!ENTITY saveImageCmd.accesskey       "i">
 <!ENTITY saveVideoCmd.label           "Aar wideyoo bi niki…">
 <!ENTITY saveVideoCmd.accesskey       "w">
 <!ENTITY saveAudioCmd.label           "Aar jibin wi niki…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY sendImageCmd.label           "Yónnee nataal bi…">
-<!ENTITY sendImageCmd.accesskey       "Y">
-<!ENTITY sendVideoCmd.label           "Yonnee wideyoo bi…">
-<!ENTITY sendVideoCmd.accesskey       "Y">
-<!ENTITY sendAudioCmd.label           "Yonnee jibin…">
-<!ENTITY sendAudioCmd.accesskey       "Y">
+<!ENTITY emailImageCmd.label          "NataaIu imeel…">
+<!ENTITY emailImageCmd.accesskey      "t">
+<!ENTITY emailVideoCmd.label          "Imeel Wideyo…">
+<!ENTITY emailVideoCmd.accesskey      "e">
+<!ENTITY emailAudioCmd.label          "Imeel Wax…">
+<!ENTITY emailAudioCmd.accesskey      "W">
 <!ENTITY copyLinkCmd.label            "Duppi màkkaanu buum bi">
 <!ENTITY copyLinkCmd.accesskey        "m">
 <!ENTITY copyImageCmd.label           "Duppi màkkaanu nataal bi">
@@ -654,3 +653,11 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Butoŋu banqaasu jumtukaay mbooloo">
+<!ENTITY social.notLoggedIn.label   "Jokkoowul">
+
+<!ENTITY social.sharePopup.undo.label     "Seddoowul">
+<!ENTITY social.sharePopup.undo.accesskey "S">
+<!ENTITY social.sharePopup.ok.label       "OK">
+<!ENTITY social.sharePopup.ok.accesskey   "O">

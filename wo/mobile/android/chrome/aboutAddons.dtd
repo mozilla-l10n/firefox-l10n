@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Suqali">
 <!ENTITY addonAction.disable                    "Suuxal">
 <!ENTITY addonAction.uninstall                  "Simpi">
-<!ENTITY addonAction.cancel                     "Neenal">
+<!ENTITY addonAction.undo                       "Neenal">

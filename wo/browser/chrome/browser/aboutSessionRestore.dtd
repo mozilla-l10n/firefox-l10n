@@ -14,8 +14,8 @@
 
 <!ENTITY restorepage.tryagainButton "Delloo na woon">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Tambali sesiyoŋ bu bees">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.closeButton    "Tëj">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Delloo na woon">
 <!ENTITY restorepage.listHeader     "Palanteer yi ak koñ yi">

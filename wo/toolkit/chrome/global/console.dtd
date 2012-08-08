@@ -22,6 +22,8 @@
 <!ENTITY codeEval.accesskey "u">
 <!ENTITY evaluate.label     "Evaluate">
 <!ENTITY evaluate.accesskey "v">
+<!ENTITY filter.label       "Segukaay">
+<!ENTITY filter.accesskey   "S">
 
 <!ENTITY copyCmd.label       "Duppi">  
 <!ENTITY copyCmd.accesskey   "D"> 

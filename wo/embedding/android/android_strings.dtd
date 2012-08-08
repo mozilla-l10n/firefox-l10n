@@ -19,7 +19,7 @@
 <!ENTITY  exit_label "Génn">
 <!ENTITY  continue_label "Kontineel">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_title "paraameetar &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "No web apps were found">
 
 <!ENTITY choose_file "Tànn benn dencukaay">

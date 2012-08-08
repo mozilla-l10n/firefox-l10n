@@ -19,11 +19,23 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Gëna xam ci plugin yi walla wut sa wutum bopp plugins yi amul.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; dafa wara tambaliwaat ngir plugin bi/yi dox.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "ñi ngiy jeggalu, ndax &brandShortName; mënul gis Flash ci aparey bi.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Gëna xam…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
 
 <!ENTITY missingPlugin                                       "Faww mu am plugin boo bëgge këmb li wonewu.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Laalal fii ngir sajj plugin bi.">
 <!ENTITY clickToPlayPlugin                                   "Cuqal fii ngir sajj plugin bi.">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Cuqal fii ngir sajj plugin bu nooy.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Cuqal fii ngir sajj plugin bu nooy (amul benn yeesal bu féex).">
+<!ENTITY checkForUpdates                                     "Wut ay mottali…">
 <!ENTITY disabledPlugin                                      "Plugin dafa suux.">
 <!ENTITY blockedPlugin.label                                 "Plugin bii dañu ko boloke ngir sa kaarange.">
 

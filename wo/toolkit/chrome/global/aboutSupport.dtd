@@ -49,6 +49,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
+<!ENTITY aboutSupport.a11yTitle "Yomb jot">
+<!ENTITY aboutSupport.a11yActivated "Suqali">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Sumbu kaggu yi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Jaar jaaru samp">
