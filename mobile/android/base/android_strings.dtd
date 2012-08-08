@@ -76,6 +76,7 @@
 <!ENTITY pref_private_data_formdata "Formularios e historial de búsquedas">
 <!ENTITY pref_private_data_cookies "Cookies">
 <!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_private_data_sessions "Sesiones activas">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
