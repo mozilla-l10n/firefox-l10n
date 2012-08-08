@@ -50,6 +50,7 @@
 <!ENTITY pref_clear_history "Limpiar historial">
 <!ENTITY pref_clear_history_confirm "El historial de navegación será eliminado">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
+<!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, será eliminada">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activados">
