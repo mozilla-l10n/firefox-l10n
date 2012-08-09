@@ -10,3 +10,4 @@
 <!ENTITY providerUninstall.preName.label                   "您已要求移除或取消：">
 <!ENTITY providerUninstall.postName.label                  "這將導致下列行事曆無法被使用。">
 <!ENTITY providerUninstall.reinstallNote.label             "除非您打算重新安裝此行事曆提供者，否則建議您取消訂閱這個提供者的行事曆。">
+
