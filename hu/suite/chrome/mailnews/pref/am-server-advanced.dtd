@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Haladó postafiók-beállítások">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP server directory:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "m">
 <!ENTITY usingSubscription.label "Csak a feliratkozott mappák megjelenítése">
 <!ENTITY usingSubscription.accesskey "f">
 <!ENTITY dualUseFolders.label "A kiszolgáló támogat olyan mappákat, amelyek további almappákat és leveleket tartalmaznak">
@@ -20,7 +24,7 @@
 <!ENTITY otherUsersNamespace.accesskey "M">
 <!ENTITY overrideNamespaces.label "A kiszolgáló felülírhatja ezeket a névtartományokat">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "POP-levél letöltésekor erről a kiszolgálóról a következő mappaa használata az új levelekhez:">
+<!ENTITY pop3Desc.label "POP-levél letöltésekor erről a kiszolgálóról a következő mappaa használata az új levelekhez:" >
 <!ENTITY globalInbox.label "Globális gyűjtő (Helyi mappák)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Beérkezett üzenetek mappa">

@@ -1,83 +1,49 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY pref.viewing.messages.title "Üzenetek megjelenítése">
-<!ENTITY style.label "Stílus:">
-<!ENTITY style.accesskey "t">
-<!ENTITY regular.label "Normál">
-<!ENTITY bold.label "Félkövér">
-<!ENTITY italic.label "Dőlt">
-<!ENTITY boldItalic.label "Félkövér dőlt">
-<!ENTITY size.label "Méret:">
-<!ENTITY size.accesskey "M">
-<!ENTITY bigger.label "Nagyobb">
-<!ENTITY smaller.label "Kisebb">
-<!ENTITY color.label "Szín:">
-<!ENTITY color.accesskey "S">
-<!ENTITY displayPlainText.caption "Normál szöveges levelek">
-<!ENTITY fontPlainText.label "Betű:">
-<!ENTITY fontPlainText.accesskey "B">
-<!ENTITY displayQuoted.label "Idézett üzenetek beállításai:">
-<!ENTITY wrapInMsg.label "Szöveg tördelése az ablak méretének megfelelően">
-<!ENTITY wrapInMsg.accesskey "t">
+<!ENTITY pref.viewing.messages.title      "Üzenetek megjelenítése">
+<!ENTITY style.label                      "Stílus:">
+<!ENTITY style.accesskey                  "t">
+<!ENTITY regular.label                    "Normál">
+<!ENTITY bold.label                       "Félkövér">
+<!ENTITY italic.label                     "Dőlt">
+<!ENTITY boldItalic.label                 "Félkövér dőlt">
+<!ENTITY size.label                       "Méret:">
+<!ENTITY size.accesskey                   "M">
+<!ENTITY bigger.label                     "Nagyobb">
+<!ENTITY smaller.label                    "Kisebb">
+<!ENTITY color.label                      "Szín:">
+<!ENTITY color.accesskey                  "S">
+<!ENTITY displayPlainText.caption         "Normál szöveges levelek">
+<!ENTITY fontPlainText.label              "Betű:">
+<!ENTITY fontPlainText.accesskey          "B">
+<!ENTITY displayQuoted.label              "Idézett üzenetek beállításai:">
+<!ENTITY wrapInMsg.label                  "Szöveg tördelése az ablak méretének megfelelően">
+<!ENTITY wrapInMsg.accesskey              "t">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label "Hangulatjelek megjelenítése grafikaként">
-<!ENTITY convertEmoticons.accesskey "m">
-<!ENTITY generalMessageDisplay.caption "Általános">
-<!ENTITY autoMarkAsRead.label "Üzenetek automatikus olvasottnak jelölése">
-<!ENTITY autoMarkAsRead.accesskey "j">
-<!ENTITY markAsReadNoDelay.label "Azonnal megjelenítéskor">
-<!ENTITY markAsReadNoDelay.accesskey "A">
+<!ENTITY convertEmoticons.label           "Hangulatjelek megjelenítése grafikaként">
+<!ENTITY convertEmoticons.accesskey       "m">
+<!ENTITY generalMessageDisplay.caption    "Általános">
+<!ENTITY autoMarkAsRead.label             "Üzenetek automatikus olvasottnak jelölése">
+<!ENTITY autoMarkAsRead.accesskey         "j">
+<!ENTITY markAsReadNoDelay.label          "Azonnal megjelenítéskor">
+<!ENTITY markAsReadNoDelay.accesskey      "A">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "Megjelenítés után">
-<!ENTITY markAsReadDelay.accesskey "u">
-<!ENTITY secondsLabel.label "másodperccel">
+<!ENTITY markAsReadDelay.label            "Megjelenítés után">
+<!ENTITY markAsReadDelay.accesskey        "u">
+<!ENTITY secondsLabel.label               "másodperccel">
 
-<!ENTITY openingMessages.label "Megnyitott üzenetek megjelenítése:">
-<!ENTITY newWindowRadio.label "Új üzenetablakban">
-<!ENTITY newWindowRadio.accesskey "n">
-<!ENTITY existingWindowRadio.label "Létező üzenetablakban">
-<!ENTITY existingWindowRadio.accesskey "e">
-<!ENTITY disableContent.label "Távoli képek és tartalmak blokkolása az üzenetekben">
-<!ENTITY disableContent.accesskey "T">
-<!ENTITY showCondensedAddresses.label "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
+<!ENTITY openingMessages.label            "Megnyitott üzenetek megjelenítése:">
+<!ENTITY newWindowRadio.label             "Új üzenetablakban">
+<!ENTITY newWindowRadio.accesskey         "n">
+<!ENTITY existingWindowRadio.label        "Létező üzenetablakban">
+<!ENTITY existingWindowRadio.accesskey    "e">
+<!ENTITY disableContent.label             "Távoli képek és tartalmak blokkolása az üzenetekben">
+<!ENTITY disableContent.accesskey         "T">
+<!ENTITY showCondensedAddresses.label     "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
 <!ENTITY showCondensedAddresses.accesskey "k">
-<!ENTITY closeMsgWindowOnDelete.label "Üzenetablak bezárása az üzenet törlésekor">
+<!ENTITY closeMsgWindowOnDelete.label     "Üzenetablak bezárása az üzenet törlésekor">
 <!ENTITY closeMsgWindowOnDelete.accesskey "l">

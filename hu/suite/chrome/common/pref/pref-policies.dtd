@@ -1,19 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.policies.title "Biztonsági házirend">
 
-<!ENTITY zoneIntro.label "A &brandShortName; lehetővé teszi, hogy létrehozzon elveket, amelyek meghatározzák, hogy mit érhetnek el, illetve mit tehetnek meg az egyes weboldalak különböző funkcionalitás mellett, beleértve a parancsfájlokat és a Javát.">
+<!ENTITY  pref.policies.title "Biztonsági házirend">
 
-<!ENTITY policies.label "Irányelvek:">
-<!ENTITY default.label "Alapelv">
-<!ENTITY allWebsites.label "Minden webhely">
-<!ENTITY trusted.label "Megbízható webhelyek">
-<!ENTITY annoyances.label "Zaklatások">
-<!ENTITY restricted.label "Korlátozott webhelyek">
+<!ENTITY  zoneIntro.label     "A &brandShortName; lehetővé teszi, hogy létrehozzon elveket, amelyek meghatározzák, hogy mit érhetnek el, illetve mit tehetnek meg az egyes weboldalak különböző funkcionalitás mellett, beleértve a parancsfájlokat és a Javát.">
 
-<!ENTITY addSite.label "Webhely hozzáadása...">
-<!ENTITY addSite.accesskey "W">
-<!ENTITY settings.label "Beállítások a következőhöz ">
-<!ENTITY settings.accesskey "B">
+<!ENTITY  policies.label      "Irányelvek:">
+<!ENTITY  default.label       "Alapelv">
+<!ENTITY  allWebsites.label   "Minden webhely">
+<!ENTITY  trusted.label       "Megbízható webhelyek">
+<!ENTITY  annoyances.label    "Zaklatások">
+<!ENTITY  restricted.label    "Korlátozott webhelyek">
 
-<!ENTITY description.label "Elvek leírása:">
+<!ENTITY  addSite.label       "Webhely hozzáadása...">
+<!ENTITY  addSite.accesskey   "W">
+<!ENTITY  settings.label      "Beállítások a következőhöz ">
+<!ENTITY  settings.accesskey  "B">
+
+<!ENTITY  description.label   "Elvek leírása:">
 

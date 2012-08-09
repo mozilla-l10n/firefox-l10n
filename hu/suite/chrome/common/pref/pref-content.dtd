@@ -1,21 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
-<!ENTITY pref.content.title "Tartalom">
-<!ENTITY pref.content.description "Ezek a beállítások a webhely és a szöveges tartalom megjelenését befolyásolják a &brandShortName; programban.">
-<!ENTITY siteIcons.label "Webhely ikonok">
-<!ENTITY useSiteIcons.label "Webhely ikonok megjelenítése">
-<!ENTITY useSiteIcons.accesskey "s">
-<!ENTITY useFavIcons.label "Agresszív ikonfelderítés, ha a webhelyen nincs megadva">
-<!ENTITY useFavIcons.accesskey "A">
-<!ENTITY enableAutomaticImageResizing.label "Nagy képek átméretezése, hogy elférjen a böngésző ablakban">
+
+<!ENTITY pref.content.title                     "Tartalom">
+<!ENTITY pref.content.description               "Ezek a beállítások a webhely és a szöveges tartalom megjelenését befolyásolják a &brandShortName; programban.">
+<!ENTITY siteIcons.label                        "Webhely ikonok">
+<!ENTITY useSiteIcons.label                     "Webhely ikonok megjelenítése">
+<!ENTITY useSiteIcons.accesskey                 "s">
+<!ENTITY useFavIcons.label                      "Agresszív ikonfelderítés, ha a webhelyen nincs megadva">
+<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY enableAutomaticImageResizing.label     "Nagy képek átméretezése, hogy elférjen a böngésző ablakban">
 <!ENTITY enableAutomaticImageResizing.accesskey "N">
-<!ENTITY useSmoothScroll.label "Finom görgetés">
-<!ENTITY useSmoothScroll.accesskey "F">
-<!ENTITY allowHWAccel.label "Hardveres gyorsítás használata, ha lehetséges">
-<!ENTITY allowHWAccel.accesskey "e">
-<!ENTITY textZoomOnly.label "csak a szöveg nagyítása a teljes oldal helyett">
-<!ENTITY textZoomOnly.accesskey "c">
-<!ENTITY blockAutoRefresh.label "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
-<!ENTITY blockAutoRefresh.accesskey "F">
-<!ENTITY siteSpecific.label "Minden webhely egyedi nagyításának megjegyzése">
-<!ENTITY siteSpecific.accesskey "m">
+<!ENTITY useSmoothScroll.label                  "Finom görgetés">
+<!ENTITY useSmoothScroll.accesskey              "F">
+<!ENTITY allowHWAccel.label                     "Hardveres gyorsítás használata, ha lehetséges">
+<!ENTITY allowHWAccel.accesskey                 "e">
+<!ENTITY textZoomOnly.label                     "csak a szöveg nagyítása a teljes oldal helyett">
+<!ENTITY textZoomOnly.accesskey                 "c">
+<!ENTITY blockAutoRefresh.label                 "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
+<!ENTITY blockAutoRefresh.accesskey             "F">
+<!ENTITY siteSpecific.label                     "Minden webhely egyedi nagyításának megjegyzése">
+<!ENTITY siteSpecific.accesskey                 "M">

@@ -1,38 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
-<!ENTITY pref.locationBar.title "Címmező">
 
-<!ENTITY autoComplete.label "Automatikus kiegészítés">
-<!ENTITY enableAutoComplete.label "Automatikus kiegészítés az előzményekből beíráskor">
-<!ENTITY enableAutoComplete.accesskey "A">
-<!ENTITY autoCompleteAutoFill.label "Automatikus kiegészítés beírás közben">
-<!ENTITY autoCompleteAutoFill.accesskey "u">
-<!ENTITY autoCompleteShowPopup.label "Lehetséges címek megjelenítése">
-<!ENTITY autoCompleteShowPopup.accesskey "L">
-<!ENTITY autoCompleteMatchOnlyTyped.label "Csak az előzőleg begépelt webhelyek megjelenítése">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey "C">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Egyezés a webhely helyével, a weboldal címének figyelmen kívül hagyásával">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
+<!ENTITY pref.locationBar.title                "Címmező">
+
+<!ENTITY autoComplete.label                    "Automatikus kiegészítés">
+<!ENTITY enableAutoComplete.label              "Automatikus kiegészítés az előzményekből beíráskor">
+<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteAutoFill.label            "Automatikus kiegészítés beírás közben">
+<!ENTITY autoCompleteAutoFill.accesskey        "u">
+<!ENTITY autoCompleteShowPopup.label           "Lehetséges címek megjelenítése">
+<!ENTITY autoCompleteShowPopup.accesskey       "L">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Csak az előzőleg begépelt webhelyek megjelenítése">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "C">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Egyezés a webhely helyével, a weboldal címének figyelmen kívül hagyásával">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
 -->
-<!ENTITY autoCompleteMatch.label "Egyezés">
-<!ENTITY autoCompleteMatch.accesskey "E">
-<!ENTITY autoCompleteMatchAnywhere "Egyezés bárhol a webhely helyében és címében">
-<!ENTITY autoCompleteMatchWordsFirst "Egyezés bárhol, de a szöveghatárok előnyben részesítésével">
-<!ENTITY autoCompleteMatchWords "Csak a szöveghatárokon">
-<!ENTITY autoCompleteMatchStart "Csak a webhely helynek és címének elején">
+<!ENTITY autoCompleteMatch.label               "Egyezés">
+<!ENTITY autoCompleteMatch.accesskey           "E">
+<!ENTITY autoCompleteMatchAnywhere             "Egyezés bárhol a webhely helyében és címében">
+<!ENTITY autoCompleteMatchWordsFirst           "Egyezés bárhol, de a szöveghatárok előnyben részesítésével">
+<!ENTITY autoCompleteMatchWords                "Csak a szöveghatárokon">
+<!ENTITY autoCompleteMatchStart                "Csak a webhely helynek és címének elején">
 
 <!ENTITY formatting.label                      "Formátum">
 <!ENTITY domainFormatting.label                "Webhelyek és FTP-kiszolgálók tartománynevének jelzése">
 <!ENTITY domainFormatting.accesskey            "W">
 
-<!ENTITY searchEngine.label "Internetes keresőszolgáltatás">
-<!ENTITY showSearchEngine.label "Alapértelmezett keresőszolgáltatás megjelenítése">
-<!ENTITY showSearchEngine.accesskey "A">
+<!ENTITY searchEngine.label                    "Internetes keresőszolgáltatás">
+<!ENTITY showSearchEngine.label                "Alapértelmezett keresőszolgáltatás megjelenítése">
+<!ENTITY showSearchEngine.accesskey            "A">
 
-<!ENTITY unknownLocations.label "Ismeretlen helyek">
-<!ENTITY domainGuessing.label "&quot;www.&quot; és &quot;.com&quot; névtagok hozzáadása, ha a webhely nem található">
-<!ENTITY domainGuessing.accesskey "h">
-<!ENTITY keywords.label "Keresés végrehajtása, ha a beírt szöveg nem egy webhely címe">
-<!ENTITY keywords.accesskey "K">
+<!ENTITY unknownLocations.label                "Ismeretlen helyek">
+<!ENTITY domainGuessing.label                  "&quot;www.&quot; és &quot;.com&quot; névtagok hozzáadása, ha a webhely nem található">
+<!ENTITY domainGuessing.accesskey              "h">
+<!ENTITY keywords.label                        "Keresés végrehajtása, ha a beírt szöveg nem egy webhely címe">
+<!ENTITY keywords.accesskey                    "K">
