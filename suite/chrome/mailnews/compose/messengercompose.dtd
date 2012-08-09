@@ -1,15 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
 <!ENTITY msgComposeWindow.title "Új üzenet: (nincs tárgy)">
 
 <!ENTITY fromAddr.label "Feladó:">
 <!ENTITY fromAddr.accesskey "F">
-<!ENTITY subject.label "Tárgy:">
+<!ENTITY subject.label  "Tárgy:">
 <!ENTITY subject.accesskey "T">
 <!ENTITY attachments.label "Mellékletek:">
 <!ENTITY attachments.accesskey "M">
-
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- File menu items -->
+
+
 <!ENTITY saveCmd.label "Mentés">
 <!ENTITY saveCmd.accesskey "M">
 <!ENTITY saveAsCmd.label "Mentés másként">
@@ -39,7 +44,7 @@
 
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "j">
-<!ENTITY editRewrapCmd.accesskey "r">
+<!ENTITY editRewrapCmd.accesskey  "r">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->
@@ -79,7 +84,7 @@
 <!ENTITY returnReceiptMenu.label "Tértivevény">
 <!ENTITY returnReceiptMenu.accesskey "T">
 <!ENTITY outputFormatMenu.label "Formátum">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Automatikus felismerés">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Csak sima szöveg">
@@ -106,14 +111,14 @@
 
 <!ENTITY addressBar.tooltip "Címsor">
 <!ENTITY formatToolbar.tooltip "Formázás eszköztár">
-<!ENTITY sendButton.tooltip "Üzenet elküldése azonnal">
-<!ENTITY sendlaterButton.tooltip "Üzenet elküldése később">
-<!ENTITY addressButton.tooltip "Egy címzett kiválasztása a címjegyzékből">
-<!ENTITY attachButton.tooltip "Melléklet hozzáadása">
-<!ENTITY saveButton.tooltip "Az üzenet mentése">
-<!ENTITY stopButton.tooltip "Átvitel megszakítása">
-
+<!ENTITY sendButton.tooltip "Üzenet elküldése azonnal"> 
+<!ENTITY sendlaterButton.tooltip "Üzenet elküldése később"> 
+<!ENTITY addressButton.tooltip "Egy címzett kiválasztása a címjegyzékből"> 
+<!ENTITY attachButton.tooltip "Melléklet hozzáadása"> 
+<!ENTITY saveButton.tooltip "Az üzenet mentése"> 
+<!ENTITY stopButton.tooltip "Átvitel megszakítása"> 
 <!-- context menu items -->
+
 <!ENTITY openAttachment.label "Megnyitás">
 <!ENTITY openAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "Átnevezés">

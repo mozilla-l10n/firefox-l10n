@@ -1,36 +1,40 @@
-<!ENTITY pref.download.title "Letöltések">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY downloadBehavior.label "A letöltés kezdetekor">
-<!ENTITY focusWhenStarting.label "A letöltéskezelő vilogással jelzi, ha már meg van nyitva, minden más esetben:">
-<!ENTITY focusWhenStarting.accesskey "v">
-<!ENTITY openDM.label "Letöltéskezelő megnyitása">
-<!ENTITY openDM.accesskey "L">
-<!ENTITY openProgressDialog.label "Folyamatkijelző ablak megnyitása">
-<!ENTITY openProgressDialog.accesskey "F">
-<!ENTITY doNothing.label "Ne nyisson meg semmit">
-<!ENTITY doNothing.accesskey "N">
+<!ENTITY pref.download.title            "Letöltések">
 
-<!ENTITY downloadLocation.label "Fájl mentésekor">
-<!ENTITY saveTo.label "Fájlok mentése:">
-<!ENTITY saveTo.accesskey "m">
-<!ENTITY chooseDownloadFolder.label "Mappa választása...">
+<!ENTITY downloadBehavior.label         "A letöltés kezdetekor">
+<!ENTITY focusWhenStarting.label        "A letöltéskezelő vilogással jelzi, ha már meg van nyitva, minden más esetben:">
+<!ENTITY focusWhenStarting.accesskey    "v">
+<!ENTITY openDM.label                   "Letöltéskezelő megnyitása">
+<!ENTITY openDM.accesskey               "L">
+<!ENTITY openProgressDialog.label       "Folyamatkijelző ablak megnyitása">
+<!ENTITY openProgressDialog.accesskey   "F">
+<!ENTITY doNothing.label                "Ne nyisson meg semmit">
+<!ENTITY doNothing.accesskey            "N">
+
+<!ENTITY downloadLocation.label         "Fájl mentésekor">
+<!ENTITY saveTo.label                   "Fájlok mentése:">
+<!ENTITY saveTo.accesskey               "m">
+<!ENTITY chooseDownloadFolder.label     "Mappa választása...">
 <!ENTITY chooseDownloadFolder.accesskey "M">
-<!ENTITY alwaysAsk.label "Rákérdezés a fájlok letöltési helyére">
-<!ENTITY alwaysAsk.accesskey "R">
+<!ENTITY alwaysAsk.label                "Rákérdezés a fájlok letöltési helyére">
+<!ENTITY alwaysAsk.accesskey            "R">
 
-<!ENTITY downloadHistory.label "Letöltési előzmények">
-<!ENTITY removeEntries.label "Letöltött elemek eltávolítása">
-<!ENTITY removeEntries.accesskey "L">
-<!ENTITY whenCompleted.label "Letöltés befejezésekor">
-<!ENTITY whenQuittingApp.label "Kilépéskor">
-<!ENTITY neverRemove.label "Soha">
+<!ENTITY downloadHistory.label          "Letöltési előzmények">
+<!ENTITY removeEntries.label            "Letöltött elemek eltávolítása">
+<!ENTITY removeEntries.accesskey        "L">
+<!ENTITY whenCompleted.label            "Letöltés befejezésekor">
+<!ENTITY whenQuittingApp.label          "Kilépéskor">
+<!ENTITY neverRemove.label              "Soha">
 
-<!ENTITY finishedBehavior.label "A letöltés befejeztekor">
-<!ENTITY playSound.label "Hangjelzés">
-<!ENTITY playSound.accesskey "H">
-<!ENTITY showAlert.label "Figyelmeztető ablak">
-<!ENTITY showAlert.accesskey "i">
-<!ENTITY browse.label "Tallózás...">
-<!ENTITY browse.accesskey "T">
-<!ENTITY playButton.label "Lejátszás">
-<!ENTITY playButton.accesskey "L">
+<!ENTITY finishedBehavior.label         "A letöltés befejeztekor">
+<!ENTITY playSound.label                "Hangjelzés">
+<!ENTITY playSound.accesskey            "H">
+<!ENTITY showAlert.label                "Figyelmeztető ablak">
+<!ENTITY showAlert.accesskey            "i">
+<!ENTITY browse.label                   "Tallózás...">
+<!ENTITY browse.accesskey               "T">
+<!ENTITY playButton.label               "Lejátszás">
+<!ENTITY playButton.accesskey           "L">

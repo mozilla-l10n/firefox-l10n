@@ -1,12 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title "Haladó">
 
-<!ENTITY systemPref.caption "Rendszerbeállítások">
-<!ENTITY systemPrefCheck.label "Rendszerbeállítások használata">
-<!ENTITY systemPrefCheck.accesskey "R">
-<!ENTITY systemPref.desc "Ha bejelöli ezt a négyzetet, akkor a rendszerbeállítások lesznek használva. A rendszerbeállítások felülbírálják a &brandShortName; beállításait.">
+<!ENTITY pref.advanced.title        "Haladó">
 
-<!ENTITY prefCheckDefault.caption "Rendszer alapbeállításai">
+<!ENTITY systemPref.caption         "Rendszerbeállítások">
+<!ENTITY systemPrefCheck.label      "Rendszerbeállítások használata">
+<!ENTITY systemPrefCheck.accesskey  "R">
+<!ENTITY systemPref.desc            "Ha bejelöli ezt a négyzetet, akkor a rendszerbeállítások lesznek használva. A rendszerbeállítások felülbírálják a &brandShortName; beállításait.">
+
+<!ENTITY prefCheckDefault.caption   "Rendszer alapbeállításai">
 <!ENTITY prefCheckDefaultClient.label "Alapértelmezett programok beállításának ellenőrzése inuláskor">
 <!ENTITY prefCheckDefaultClient.accesskey "A">
 

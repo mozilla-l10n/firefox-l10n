@@ -1,63 +1,30 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
+<!ENTITY pref.mailnews.title              "Levelező és hírolvasó">
+<!ENTITY generalSettings.caption          "Általános beállítások">
+<!ENTITY confirmMove.label                "Jóváhagyás kérése mappáknak a Törölt elemek mappába való áthelyezésekor">
+<!ENTITY confirmMove.accesskey            "J">
+<!ENTITY preserveThreading.label          "Témacsoportok megőrzése az üzenetek rendezésekor">
+<!ENTITY preserveThreading.accesskey      "T">
+<!ENTITY mailBiffOnNewWindow.label        "Új üzenetek letöltése csak a Levelező és hírolvasó megnyitása után">
+<!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
+<!ENTITY defaultMailSettings.description  "A &brandShortName; az alapértelmezett alkalmazás a következőkhöz:">
+<!ENTITY setDefaultMail.label             "Levelezés">
+<!ENTITY setDefaultMail.accesskey         "L">
+<!ENTITY setDefaultNews.label             "Hírcsoportok">
+<!ENTITY setDefaultNews.accesskey         "H">
+<!ENTITY setDefaultFeed.label             "Hírforrások">
+<!ENTITY setDefaultFeed.accesskey         "o">
 
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY pref.mailnews.title "Levelező és hírolvasó">
-<!ENTITY generalSettings.caption "Általános beállítások">
-<!ENTITY confirmMove.label "Jóváhagyás kérése mappáknak a Törölt elemek mappába való áthelyezésekor">
-<!ENTITY confirmMove.accesskey "J">
-<!ENTITY preserveThreading.label "Témacsoportok megőrzése az üzenetek rendezésekor">
-<!ENTITY preserveThreading.accesskey "T">
-<!ENTITY mailBiffOnNewWindow.label "Új üzenetek letöltése csak a Levelező és hírolvasó megnyitása után">
-<!ENTITY mailBiffOnNewWindow.accesskey "O">
-
-<!ENTITY defaultMailSettings.description "A &brandShortName; az alapértelmezett alkalmazás a következőkhöz:">
-<!ENTITY setDefaultMail.label "Levelezés">
-<!ENTITY setDefaultMail.accesskey "L">
-<!ENTITY setDefaultNews.label "Hírcsoportok">
-<!ENTITY setDefaultNews.accesskey "H">
-<!ENTITY setDefaultFeed.label "Hírforrások">
-<!ENTITY setDefaultFeed.accesskey "o">
-
-<!ENTITY messengerStartPage.caption "Levelező kezdőoldala">
-<!ENTITY enableStartPage.label "A Levelező indításakor a Levelező kezdőoldala töltődik be az üzenetek helyére">
-<!ENTITY enableStartPage.accesskey "k">
-<!ENTITY location.label "Hely:">
-<!ENTITY location.accesskey "H">
-<!ENTITY useDefault.label "Alaphelyzet">
-<!ENTITY useDefault.accesskey "A">
-<!ENTITY rememberLastMsg.label "Az utolsó kijelölés megjegyzése">
-<!ENTITY rememberLastMsg.accesskey "u">
+<!ENTITY messengerStartPage.caption       "Levelező kezdőoldala">
+<!ENTITY enableStartPage.label            "A Levelező indításakor a Levelező kezdőoldala töltődik be az üzenetek helyére">
+<!ENTITY enableStartPage.accesskey        "k">
+<!ENTITY location.label                   "Hely:">
+<!ENTITY location.accesskey               "H">
+<!ENTITY useDefault.label                 "Alaphelyzet">
+<!ENTITY useDefault.accesskey             "A">
+<!ENTITY rememberLastMsg.label            "Az utolsó kijelölés megjegyzése">
+<!ENTITY rememberLastMsg.accesskey        "u">
