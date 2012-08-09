@@ -6,28 +6,35 @@
 <!ENTITY nameColumn.label "Имя фильтра">
 <!ENTITY activeColumn.label "Включён">
 <!ENTITY newButton.label "Создать…">
-<!ENTITY newButton.accesskey "о">
+<!ENTITY newButton.accesskey "з">
 <!ENTITY editButton.label "Изменить…">
-<!ENTITY editButton.accesskey "И">
+<!ENTITY editButton.accesskey "м">
 <!ENTITY deleteButton.label "Удалить">
-<!ENTITY deleteButton.accesskey "У">
+<!ENTITY deleteButton.accesskey "д">
+<!ENTITY reorderTopButton "Переместить в начало">
+<!ENTITY reorderTopButton.accessKey "ч">
+<!ENTITY reorderTopButton.toolTip "Переместите фильтр, чтобы он выполнялся перед всеми остальными">
 <!ENTITY reorderUpButton.label "Вверх">
-<!ENTITY reorderUpButton.accesskey "В">
+<!ENTITY reorderUpButton.accesskey "х">
 <!ENTITY reorderDownButton.label "Вниз">
 <!ENTITY reorderDownButton.accesskey "н">
+<!ENTITY reorderBottomButton "Переместить в конец">
+<!ENTITY reorderBottomButton.accessKey "е">
+<!ENTITY reorderBottomButton.toolTip "Переместите фильтр, чтобы он выполнялся после всех остальных">
 <!ENTITY filterHeader.label "Включённые фильтры запускаются автоматически в указанном ниже порядке.">
 <!ENTITY filtersForPrefix.label "Фильтры для:">
-<!ENTITY filtersForPrefix.accesskey "Ф">
+<!ENTITY filtersForPrefix.accesskey "и">
 <!ENTITY viewLogButton.label "Журнал фильтров">
-<!ENTITY viewLogButton.accesskey "Ж">
+<!ENTITY viewLogButton.accesskey "а">
 <!ENTITY runFilters.label "Запустить">
-<!ENTITY runFilters.accesskey "З">
+<!ENTITY runFilters.accesskey "п">
 <!ENTITY stopFilters.label "Остановить">
-<!ENTITY stopFilters.accesskey "с">
+<!ENTITY stopFilters.accesskey "о">
 <!ENTITY folderPickerPrefix.label "Запустить выбранные фильтры в папке:">
-<!ENTITY folderPickerPrefix.accesskey "З">
+<!ENTITY folderPickerPrefix.accesskey "ы">
 <!ENTITY choosethis.label "выбрать эту папку">
 <!ENTITY choosethisnewsserver.label "выбрать этот сервер новостей">
 <!ENTITY helpButton.label "Справка">
-<!ENTITY helpButton.accesskey "п">
+<!ENTITY helpButton.accesskey "к">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Поиск фильтров по имени…">
