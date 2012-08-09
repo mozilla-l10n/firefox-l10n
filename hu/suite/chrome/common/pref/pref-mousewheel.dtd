@@ -1,28 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
-<!ENTITY pref.mouseWheel.title "Egérgörgő">
-<!ENTITY mouseWheelPanel.label "Válassza ki a görgő viselkedését, ha az alábbi módosító billentyűvel együtt használják: ">
-<!ENTITY usingJustTheWheel.label "Nincs módosító billentyű">
-<!ENTITY usingWheelAndAlt.label "&altKey.label;">
-<!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
-<!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label "Függőleges görgetés">
-<!ENTITY mousewheelHorizGroup.label "Vízszintes görgetés">
-<!ENTITY scroll.label "Dokumentum görgetése ">
-<!ENTITY scroll.accesskey "D">
-<!ENTITY scrollHoriz.accesskey "k">
-<!ENTITY scrollLines.label " sor. ">
-<!ENTITY scrollChars.label " karakter. ">
-<!ENTITY useSystemDefault.label "Az alapértelmezett rendszerbeállítás használata">
-<!ENTITY useSystemDefault.accesskey "A">
+
+<!ENTITY pref.mouseWheel.title           "Egérgörgő">
+<!ENTITY mouseWheelPanel.label           "Válassza ki a görgő viselkedését, ha az alábbi módosító billentyűvel együtt használják: ">
+<!ENTITY usingJustTheWheel.label         "Nincs módosító billentyű">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "Függőleges görgetés">
+<!ENTITY mousewheelHorizGroup.label      "Vízszintes görgetés">
+<!ENTITY scroll.label                    "Dokumentum görgetése ">
+<!ENTITY scroll.accesskey                "D">
+<!ENTITY scrollHoriz.accesskey           "k">
+<!ENTITY scrollLines.label               " sor. ">
+<!ENTITY scrollChars.label               " karakter. ">
+<!ENTITY useSystemDefault.label          "Az alapértelmezett rendszerbeállítás használata">
+<!ENTITY useSystemDefault.accesskey      "A">
 <!ENTITY useSystemDefaultHoriz.accesskey "l">
-<!ENTITY scrollPgUpPgDn.label "Görgetés egy oldallal feljebb vagy lejjebb">
-<!ENTITY scrollPgUpPgDn.accesskey "o">
-<!ENTITY scrollPgLtPgRt.label "Görgetés egy oldallal jobbra vagy balra">
-<!ENTITY scrollPgLtPgRt.accesskey "o">
-<!ENTITY history.label "Előre/Vissza az előzmények közt">
-<!ENTITY history.accesskey "m">
-<!ENTITY historyHoriz.accesskey "z">
-<!ENTITY zoom.label "Nagyítás és kicsinyítés">
-<!ENTITY zoom.accesskey "N">
-<!ENTITY zoomHoriz.accesskey "g">
+<!ENTITY scrollPgUpPgDn.label            "Görgetés egy oldallal feljebb vagy lejjebb">
+<!ENTITY scrollPgUpPgDn.accesskey        "o">
+<!ENTITY scrollPgLtPgRt.label            "Görgetés egy oldallal jobbra vagy balra">
+<!ENTITY scrollPgLtPgRt.accesskey        "o">
+<!ENTITY history.label                   "Előre/Vissza az előzmények közt">
+<!ENTITY history.accesskey               "m">
+<!ENTITY historyHoriz.accesskey          "z">
+<!ENTITY zoom.label                      "Nagyítás és kicsinyítés">
+<!ENTITY zoom.accesskey                  "N">
+<!ENTITY zoomHoriz.accesskey             "g">
