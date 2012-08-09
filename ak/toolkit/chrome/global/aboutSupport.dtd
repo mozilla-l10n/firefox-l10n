@@ -50,8 +50,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "GC Ntosontoso">
 
 <!ENTITY aboutSupport.a11yTitle "Hokwanma">
-<!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yActivated "Akenyan">
+<!ENTITY aboutSupport.a11yForceDisabled "Siw hokwanma ho kwan">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Nwomasiebea Vɛɛhyennom">
 
