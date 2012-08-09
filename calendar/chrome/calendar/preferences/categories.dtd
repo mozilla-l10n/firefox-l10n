@@ -22,3 +22,4 @@
 <!ENTITY pref.categories.overwrite "有相同名稱的類別存在。\n 您要覆寫嗎？">
 <!ENTITY pref.categories.overwrite.title "警告: 重複的名稱">
 <!ENTITY pref.categories.noBlankCategories "您必須輸入類別名稱。">
+

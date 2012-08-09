@@ -11,7 +11,7 @@
 <!ENTITY pref.dateformat.label "日期文字格式:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "長" >
-<!ENTITY pref.dateformat.short "短"  >
+<!ENTITY pref.dateformat.short "短" >
 <!ENTITY pref.defaultlength.label "預設事件長度:" >
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
@@ -20,3 +20,4 @@
 <!ENTITY pref.accessibility.label "其他輔助功能" >
 <!ENTITY pref.systemcolors.label "使用較具親和力的色彩" >
 <!ENTITY pref.systemcolors.accesskey "c">
+

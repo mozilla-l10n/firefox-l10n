@@ -16,14 +16,10 @@
 
 <!ENTITY brandMotto       "光陰似箭">
 <!ENTITY credit.thanks    "特別感謝">
-
-<!-- localization credits look like this: -->
-<!--
-<!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 <!ENTITY credit.translation "<h3>翻譯與在地化：<br />Mozilla Taiwan Community (MozTW)</h3><ul><li>Bob Po-chiang Chao 趙柏強</li><li>Alan &quot;coolcd&quot; Cheng</li><li>Wei-Lun Sun 孫偉倫</li><li>Wu, Ru-kang 吳汝剛</li><li>Peter Pin-Guang Chen 陳品光</li></ul>">
 
 <!ENTITY credit.powered     "是由">
 <!ENTITY license.and        "與">
 <!ENTITY cmdClose.macKey  "W">
+
