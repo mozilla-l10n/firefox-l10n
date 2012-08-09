@@ -1,29 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- unix -->
 <!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label "Bezárás">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "B">
 
-<!ENTITY quitApplicationCmd.label "Kilépés">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "K">
+<!ENTITY closeCmd.label                 "Bezárás">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "B">
 
-<!ENTITY redoCmd.key "Y">
+<!ENTITY quitApplicationCmd.label       "Kilépés"> 
+<!ENTITY quitApplicationCmd.key         "Q"> 
+<!ENTITY quitApplicationCmd.accesskey   "K">
 
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
-<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY redoCmd.key                    "Y">  
 
-<!ENTITY accel.emacs_conflict "accel,shift">
+<!ENTITY findCmd.key2                   "VK_F19">
+<!ENTITY findTypeTextCmd.key            "/">
+<!ENTITY findTypeLinksCmd.key           "'">
+
+<!ENTITY accel.emacs_conflict           "accel,shift">
 <!-- Help viewer -->
 
-<!ENTITY openHelpCmd.label "Tartalom">
-<!ENTITY openHelpCmd.accesskey "T">
-<!ENTITY openHelpCmd.key "VK_F1">
+<!ENTITY openHelpCmd.label              "Tartalom">
+<!ENTITY openHelpCmd.accesskey          "T">
+<!ENTITY openHelpCmd.key                "VK_F1">
 <!-- Key labels, for mousewheel prefs -->
 
-<!ENTITY ctrlKey.label "Ctrl">
-<!ENTITY altKey.label "Alt">
-<!ENTITY shiftKey.label "Shift">
+<!ENTITY ctrlKey.label                  "Ctrl">
+<!ENTITY altKey.label                   "Alt">
+<!ENTITY shiftKey.label                 "Shift">

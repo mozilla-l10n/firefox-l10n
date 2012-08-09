@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Levélszemét-beállítások">
-<!ENTITY trainingWarning.label "Ha engedélyezi, először be kell tanítania a &brandShortName; programot, hogy mely leveleket tartja szemétnek. A Levélszemét eszköztárgomb segítségével mind a szemét, mind a hasznos leveleket azonosítania kell.">
+<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
 <!ENTITY level.label "Adaptív levélszemét-kezelés engedélyezése ehhez a postafiókhoz">
 <!ENTITY level.accesskey "e">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "v">
 <!ENTITY purge2.label "nap múlva">
 
-<!ENTITY whitelist.label "Ne jelölje meg levélszemétként az üzenetet, ha a feladója benne van: ">
-<!ENTITY whitelist.accesskey "N">
+<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
+<!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
 <!ENTITY ispHeaders.label "Szolgáltató levélszemétszűrőjének elfogadása: ">
 <!ENTITY ispHeaders.accesskey "S">
+
+<!ENTITY junkClassification.label "Selection">
+<!ENTITY junkActions.label "Destination and Retention">
