@@ -83,6 +83,11 @@
 <!ENTITY insertBreakAllCmd.accesskey "s">
 
 <!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(Öneri bulunamadı)">
+<!ENTITY spellCheckIgnoreWord.label "Kelimeyi görmezden gel">
+<!ENTITY spellCheckIgnoreWord.accesskey "K">
+<!ENTITY spellCheckAddToDictionary.label "Sözlüğe ekle">
+<!ENTITY spellCheckAddToDictionary.accesskey "S">
 <!ENTITY createLinkCmd.label "Bağlantı oluştur…">
 <!ENTITY createLinkCmd.accesskey "B">
 <!ENTITY editLinkCmd.label "Bağlantıyı yeni Düzenleyicide düzenle">
