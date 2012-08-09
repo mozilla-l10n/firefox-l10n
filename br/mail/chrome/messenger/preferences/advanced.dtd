@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Muioc'h a ditouroù a-zivout Telemetry">
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
+
+<!ENTITY scrolling.label               "Dibunañ">
+<!ENTITY useAutoScroll.label           "Arverañ an dibunañ emgefreek">
+<!ENTITY useAutoScroll.accesskey       "e">
+<!ENTITY useSmoothScrolling.label      "Arverañ an dibunañ flour">
+<!ENTITY useSmoothScrolling.accesskey  "f">
+
 <!ENTITY systemIntegration.label       "Enframmadur reizhiad">
 <!ENTITY alwaysCheckDefault.label      "Gwiriañ bepred, pa loc'h ar goulev, ma'z eo &brandShortName; ho posteler dre ziouer">
 <!ENTITY alwaysCheckDefault.accesskey  "z">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "Ezlinenn…">
 <!ENTITY showOffline.accesskey         "z">
 
-<!ENTITY Diskspace "Egor war ar gantenn">
-<!ENTITY offlineCompact.label "Koazhañ teuliadoù p'ez a o ment dreist da">
-<!ENTITY offlineCompact.accesskey "z">
-<!ENTITY mb.label "ME">
+<!ENTITY Diskspace                       "Egor war ar gantenn">
+<!ENTITY offlineCompactFolders.label     "Koazhañ an holl deuliadoù pa e tieub an dra-se muioc'h eget">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "Me en holl">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

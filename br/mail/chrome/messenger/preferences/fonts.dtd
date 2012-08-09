@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Nodrezhoù &amp; Bonegadurioù">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
@@ -31,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Balteg">
 <!ENTITY  font.langGroup.el                       "Gresianeg">
 <!ENTITY  font.langGroup.turkish                  "Turkeg">
-<!ENTITY  font.langGroup.unicode                  "Yezhoù all">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Despizet gant an arveriad">
 <!ENTITY  font.langGroup.thai                     "Thaieg">
 <!ENTITY  font.langGroup.hebrew                   "Hebraeg">
