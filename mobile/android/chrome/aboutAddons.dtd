@@ -12,6 +12,10 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutAddons.title                      "Gestionar de suplimente">
 <!ENTITY aboutAddons.header2                    "Suplimentele tale">
 <!ENTITY aboutAddons.options                    "Opțiuni">
@@ -19,5 +23,5 @@
 <!ENTITY addonAction.enable                     "Activează">
 <!ENTITY addonAction.disable                    "Deactivează">
 <!ENTITY addonAction.uninstall                  "Dezinstalează">
-<!ENTITY addonAction.cancel                     "Renunță">
+<!ENTITY addonAction.undo                       "Undo">
 

@@ -3,19 +3,21 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!ENTITY aboutPage.title                        "Despre &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryStart               " Acesta trimite automat informații legate de performanță, hardware, consum și personalizări înapoi către">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
+<!ENTITY aboutPage.telemetryEnd                 "pentru a ajuta la îmbunătățirea &brandShortName;. ">
 <!ENTITY aboutPage.checkForUpdates.link         "Caută actualizări »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Se caută actualizări…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nicio actualizare disponibilă">
