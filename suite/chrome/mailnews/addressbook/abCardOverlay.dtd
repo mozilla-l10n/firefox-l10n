@@ -1,43 +1,10 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY Contact.tab "Névjegy">
-<!ENTITY Contact.accesskey "N">
-<!ENTITY Name.box "Név">
+<!ENTITY Contact.tab                     "Névjegy">
+<!ENTITY Contact.accesskey               "N">
+<!ENTITY Name.box                        "Név">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -48,128 +15,127 @@
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
 
 
-<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id "LastName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label "Vezetéknév:">
-<!ENTITY NameField1.accesskey "V">
-<!ENTITY NameField2.label "Utónév:">
-<!ENTITY NameField2.accesskey "U">
-<!ENTITY PhoneticField1.label "Fonetikus:">
-<!ENTITY PhoneticField2.label "Fonetikus:">
-<!ENTITY DisplayName.label "Becenév:">
-<!ENTITY DisplayName.accesskey "B">
-<!ENTITY NickName.label "Becenév:">
-<!ENTITY NickName.accesskey "B">
+<!ENTITY NameField1.label               "Vezetéknév:">
+<!ENTITY NameField1.accesskey           "V">
+<!ENTITY NameField2.label               "Utónév:">
+<!ENTITY NameField2.accesskey           "U">
+<!ENTITY PhoneticField1.label           "Fonetikus:">
+<!ENTITY PhoneticField2.label           "Fonetikus:">
+<!ENTITY DisplayName.label              "Becenév:">
+<!ENTITY DisplayName.accesskey          "B">
+<!ENTITY NickName.label                 "Becenév:">
+<!ENTITY NickName.accesskey             "B">
 
-<!ENTITY PrimaryEmail.label "E-mail:">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY SecondEmail.label "További e-mail:">
-<!ENTITY SecondEmail.accesskey "o">
-<!ENTITY PreferMailFormat.label "Normál szöveg">
-<!ENTITY PreferMailFormat.accesskey "r">
-<!ENTITY PlainText.label "Normál szöveg">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "Ismeretlen">
-<!ENTITY ScreenName.label "Felhasználói név:">
-<!ENTITY ScreenName.accesskey "F">
+<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "További e-mail:">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "Normál szöveg">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "Normál szöveg">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Ismeretlen">
+<!ENTITY ScreenName.label               "Felhasználói név:">
+<!ENTITY ScreenName.accesskey           "F">
 
-<!ENTITY allowRemoteContent1.label "Távoli tartalom megjelenítése">
-<!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "A HTML-üzenetekbe be lehet ágyazni távoli forrásból származó tartalmakat.
-Egy ilyen üzenet megnyitása kapcsolatot nyit meg e távoli forrás felé.
-Így lehetővé válhat annak nyomon követése, hogy a levelet mikor olvassák el.
-A négyzet bejelölésével engedélyezi az ilyen beágyazott tartalmakat a
+<!ENTITY allowRemoteContent1.label      "Távoli tartalom megjelenítése">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "A HTML-üzenetekbe be lehet ágyazni távoli forrásból származó tartalmakat. 
+Egy ilyen üzenet megnyitása kapcsolatot nyit meg e távoli forrás felé. 
+Így lehetővé válhat annak nyomon követése, hogy a levelet mikor olvassák el. A négyzet bejelölésével engedélyezi az ilyen beágyazott tartalmakat a 
 HTML-üzenetekben ettől a kapcsolattól.">
 
-<!ENTITY WorkPhone.label "Munkahelyi:">
-<!ENTITY WorkPhone.accesskey "u">
-<!ENTITY HomePhone.label "Otthoni:">
-<!ENTITY HomePhone.accesskey "O">
-<!ENTITY FaxNumber.label "Fax:">
-<!ENTITY FaxNumber.accesskey "x">
-<!ENTITY PagerNumber.label "Személyhívó:">
-<!ENTITY PagerNumber.accesskey "h">
-<!ENTITY CellularNumber.label "Mobil:">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY WorkPhone.label                "Munkahelyi:">
+<!ENTITY WorkPhone.accesskey            "u">
+<!ENTITY HomePhone.label                "Otthoni:">
+<!ENTITY HomePhone.accesskey            "O">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Személyhívó:">
+<!ENTITY PagerNumber.accesskey          "h">
+<!ENTITY CellularNumber.label           "Mobil:">
+<!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Home.tab "Otthon">
-<!ENTITY Home.accesskey "O">
-<!ENTITY HomeAddress.label "Cím:">
-<!ENTITY HomeAddress.accesskey "C">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "Város:">
-<!ENTITY HomeCity.accesskey "V">
-<!ENTITY HomeState.label "Állam/tartomány:">
-<!ENTITY HomeState.accesskey "t">
-<!ENTITY HomeZipCode.label "Irányítószám:">
-<!ENTITY HomeZipCode.accesskey "I">
-<!ENTITY HomeCountry.label "Ország:">
-<!ENTITY HomeCountry.accesskey "O">
-<!ENTITY HomeWebPage.label "Weboldal:">
-<!ENTITY HomeWebPage.accesskey "W">
-<!ENTITY Birthday.label "Születésnap:">
-<!ENTITY Birthday.accesskey "S">
-<!ENTITY In.label "">
-<!ENTITY Year.placeholder "Év">
-<!ENTITY Or.value "vagy">
-<!ENTITY Age.placeholder "Életkor">
-<!ENTITY YearsOld.label "">
+<!ENTITY Home.tab                       "Otthon">
+<!ENTITY Home.accesskey                 "O">
+<!ENTITY HomeAddress.label              "Cím:">
+<!ENTITY HomeAddress.accesskey          "C">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Város:">
+<!ENTITY HomeCity.accesskey             "V">
+<!ENTITY HomeState.label                "Állam/tartomány:">
+<!ENTITY HomeState.accesskey            "t">
+<!ENTITY HomeZipCode.label              "Irányítószám:">
+<!ENTITY HomeZipCode.accesskey          "I">
+<!ENTITY HomeCountry.label              "Ország:">
+<!ENTITY HomeCountry.accesskey          "O">
+<!ENTITY HomeWebPage.label              "Weboldal:">
+<!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY Birthday.label                 "Születésnap:">
+<!ENTITY Birthday.accesskey             "S">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Év">
+<!ENTITY Or.value                       "vagy">
+<!ENTITY Age.placeholder                "Életkor">
+<!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab "Munkahely">
-<!ENTITY Work.accesskey "M">
-<!ENTITY JobTitle.label "Cím:">
-<!ENTITY JobTitle.accesskey "C">
-<!ENTITY Department.label "Osztály:">
-<!ENTITY Department.accesskey "O">
-<!ENTITY Company.label "Szervezet:">
-<!ENTITY Company.accesskey "S">
-<!ENTITY WorkAddress.label "Cím:">
-<!ENTITY WorkAddress.accesskey "C">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "Város:">
-<!ENTITY WorkCity.accesskey "V">
-<!ENTITY WorkState.label "Állam/tartomány:">
-<!ENTITY WorkState.accesskey "t">
-<!ENTITY WorkZipCode.label "Irányítószám:">
-<!ENTITY WorkZipCode.accesskey "I">
-<!ENTITY WorkCountry.label "Ország:">
-<!ENTITY WorkCountry.accesskey "O">
-<!ENTITY WorkWebPage.label "Weboldal:">
-<!ENTITY WorkWebPage.accesskey "W">
+<!ENTITY Work.tab                       "Munkahely">
+<!ENTITY Work.accesskey                 "M">
+<!ENTITY JobTitle.label                 "Cím:">
+<!ENTITY JobTitle.accesskey             "C">
+<!ENTITY Department.label               "Osztály:">
+<!ENTITY Department.accesskey           "O">
+<!ENTITY Company.label                  "Szervezet:">
+<!ENTITY Company.accesskey              "S">
+<!ENTITY WorkAddress.label              "Cím:">
+<!ENTITY WorkAddress.accesskey          "C">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Város:">
+<!ENTITY WorkCity.accesskey             "V">
+<!ENTITY WorkState.label                "Állam/tartomány:">
+<!ENTITY WorkState.accesskey            "t">
+<!ENTITY WorkZipCode.label              "Irányítószám:">
+<!ENTITY WorkZipCode.accesskey          "I">
+<!ENTITY WorkCountry.label              "Ország:">
+<!ENTITY WorkCountry.accesskey          "O">
+<!ENTITY WorkWebPage.label              "Weboldal:">
+<!ENTITY WorkWebPage.accesskey          "W">
 
-<!ENTITY Other.tab "Egyéb">
-<!ENTITY Other.accesskey "E">
-<!ENTITY Custom1.label "Egyéb 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Egyéb 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Egyéb 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Egyéb 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "Megjegyzés">
-<!ENTITY Notes.accesskey "M">
+<!ENTITY Other.tab                      "Egyéb">
+<!ENTITY Other.accesskey                "E">
+<!ENTITY Custom1.label                  "Egyéb 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Egyéb 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Egyéb 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Egyéb 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Megjegyzés">
+<!ENTITY Notes.accesskey                "M">
 
-<!ENTITY Photo.tab "Fotó">
-<!ENTITY Photo.accesskey "o">
-<!ENTITY PhotoDesc.label "Válasszon a következők közül:">
-<!ENTITY GenericPhoto.label "Általános fotó">
-<!ENTITY GenericPhoto.accesskey "l">
-<!ENTITY DefaultPhoto.label "Alapértelmezett">
-<!ENTITY PhotoFile.label "Ezen a számítógépen">
-<!ENTITY PhotoFile.accesskey "n">
-<!ENTITY BrowsePhoto.label "Tallózás">
-<!ENTITY BrowsePhoto.accesskey "T">
-<!ENTITY PhotoURL.label "Weben">
-<!ENTITY PhotoURL.accesskey "b">
-<!ENTITY PhotoURL.placeholder "Illessze be vagy írja be a fotó internet-címét">
-<!ENTITY UpdatePhoto.label "Frissítés">
-<!ENTITY UpdatePhoto.accesskey "F">
+<!ENTITY Photo.tab                      "Fotó">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Válasszon a következők közül:">
+<!ENTITY GenericPhoto.label             "Általános fotó">
+<!ENTITY GenericPhoto.accesskey         "l">
+<!ENTITY DefaultPhoto.label             "Alapértelmezett">
+<!ENTITY PhotoFile.label                "Ezen a számítógépen">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Tallózás">
+<!ENTITY BrowsePhoto.accesskey          "T">
+<!ENTITY PhotoURL.label                 "Weben">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Illessze be vagy írja be a fotó internet-címét">
+<!ENTITY UpdatePhoto.label              "Frissítés">
+<!ENTITY UpdatePhoto.accesskey          "F">
