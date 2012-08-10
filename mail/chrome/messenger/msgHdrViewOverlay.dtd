@@ -32,7 +32,7 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Répondre à tous les destinataires">
 <!ENTITY hdrReplyListButton1.label "Répondre à la liste">
 <!ENTITY hdrReplyListButton1.tooltip "Répondre à la liste de diffusion">
-<!ENTITY hdrFollowupButton1.label "Faire suivre">
+<!ENTITY hdrFollowupButton1.label "Répondre au groupe">
 <!ENTITY hdrFollowupButton1.tooltip "Faire suivre à ce groupe">
 <!ENTITY hdrForwardButton1.label "Transférer">
 <!ENTITY hdrForwardButton1.tooltip "Transférer ce message">
