@@ -41,3 +41,5 @@
 <!ENTITY stopExecution.label "Detener ejecución de los filtros">
 <!ENTITY addAction.tooltip "Añadir una acción nueva">
 <!ENTITY removeAction.tooltip "Eliminar esta acción">
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
