@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 天前">
 <!ENTITY history_older_section "早於 7 天前">
 
+<!ENTITY go "衝">
+<!ENTITY search "搜尋">
 <!ENTITY reload "重新載入">
 <!ENTITY forward "下一頁">
 <!ENTITY menu "選單">
