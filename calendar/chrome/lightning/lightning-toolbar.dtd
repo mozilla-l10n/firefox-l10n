@@ -35,9 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barre d'outils d'agenda">
-<!ENTITY lightning.toolbar.calendar.accesskey "a">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "a">
 <!ENTITY lightning.toolbar.task.name "Barre d'outils des tâches">
-<!ENTITY lightning.toolbar.task.accesskey "t">
+<!ENTITY lightning.toolbar.task.name.accesskey "t">
 
 <!ENTITY lightning.toolbar.sync.label "Synchroniser">
 <!ENTITY lightning.toolbar.delete.label "Supprimer">
@@ -46,8 +46,6 @@
 <!ENTITY lightning.toolbar.print.label "Imprimer">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Courrier">
-<!ENTITY lightning.toolbar.mail.accesskey     "C">
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Aller à l'onglet d'agenda">
 <!ENTITY lightning.toolbar.calendar.accesskey "A">
