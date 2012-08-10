@@ -40,6 +40,8 @@
 <!ENTITY history_week_section "Il y a 7 jours">
 <!ENTITY history_older_section "Il y a plus de 7 jours">
 
+<!ENTITY go "Aller">
+<!ENTITY search "Rechercher">
 <!ENTITY reload "Actualiser">
 <!ENTITY forward "Page suivante">
 <!ENTITY menu "Menu">
