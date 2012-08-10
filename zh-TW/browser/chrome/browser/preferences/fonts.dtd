@@ -71,3 +71,4 @@
 <!ENTITY languages.customize.Charset.grouplabel         "語言及字元編碼">
 <!ENTITY languages.customize.DefaultCharset.label       "預設字元編碼方式:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+
