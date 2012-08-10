@@ -446,8 +446,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "I">
 <!ENTITY saveLinkCmd.label            "Gardar ligazón como…">
 <!ENTITY saveLinkCmd.accesskey        "l">
-<!ENTITY sendLinkCmd.label            "Enviar ligazón…"> 
-<!ENTITY sendLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Gardar imaxe como…">
 <!ENTITY saveImageCmd.accesskey       "G">
 <!ENTITY saveVideoCmd.label           "Gardar vídeo como…">
