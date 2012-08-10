@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barra de herramientas del calendario">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "B">
 <!ENTITY lightning.toolbar.task.name "Barra de herramientas de tareas">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "a">
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
 <!ENTITY lightning.toolbar.delete.label "Eliminar">
 <!ENTITY lightning.toolbar.edit.label "Editar">
 <!ENTITY lightning.toolbar.gototoday.label "Ir a hoy">
 <!ENTITY lightning.toolbar.print.label "Imprimir">
-<!ENTITY lightning.toolbar.mail.label "Correo">
-<!ENTITY lightning.toolbar.mail.accesskey "o">
 <!ENTITY lightning.toolbar.calendar.label "Calendario">
 <!ENTITY lightning.toolbar.calendar.tooltip "Pasar a la pestaña del calendario">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label "Tareas">
 <!ENTITY lightning.toolbar.task.tooltip "Pasar a la barra de herramientas de tareas">
+<!ENTITY lightning.toolbar.task.accesskey "T">
 <!ENTITY lightning.toolbar.newevent.label "Evento">
 <!ENTITY lightning.toolbar.newtask.label "Tarea">
 <!ENTITY lightning.toolbar.day.label "Día">
