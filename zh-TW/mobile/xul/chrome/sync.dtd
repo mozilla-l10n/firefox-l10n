@@ -29,3 +29,4 @@
 <!ENTITY sync.pair.description      "請在您的裝置上選擇「設定 Sync」以啟用您的新裝置。">
 <!ENTITY sync.setup.close           "關閉">
 <!ENTITY sync.setup.waitingdownload "您的資料即將在背景中被下載，現在可以關閉這個視窗了。">
+
