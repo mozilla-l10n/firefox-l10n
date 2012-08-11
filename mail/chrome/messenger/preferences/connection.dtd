@@ -39,3 +39,4 @@
 <!ENTITY  noproxyExplain.label          "範例: .mozilla.org, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "所有通訊協定都使用此 Proxy 代理伺服器">
 <!ENTITY  shareproxy.accesskey          "x">
+

@@ -9,3 +9,4 @@
 <!ENTITY info2.label   "首先，您必須用工具列上的「垃圾信」按鈕標示郵件是否為垃圾信以訓練 &brandShortName; 辨識垃圾郵件。">
 <!ENTITY info3.label   "直到 &brandShortName; 能正確辨識垃圾信時，您就可以用「垃圾郵件控制」自動把垃圾信移到「垃圾郵件」匣。">
 <!ENTITY info4.label   "請選「說明」取得詳細資訊。">
+

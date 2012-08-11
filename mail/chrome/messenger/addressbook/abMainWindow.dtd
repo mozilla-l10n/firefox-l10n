@@ -73,7 +73,7 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "false">
+<!ENTITY hideSwapFnLnUI                                 "false">
 <!ENTITY propertiesCmd.label                            "屬性…">
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -147,7 +147,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "編輯選取的項目">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送訊息或聊天">
-<!ENTITY deleteButton2.tooltip                           "刪除選取的項目">
+<!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "通訊錄">
@@ -157,7 +157,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "進階地址搜尋">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title "快速搜尋">
+<!ENTITY searchItem.title                               "快速搜尋">
 
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "姓名">
@@ -190,7 +190,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortAscending.accesskey                        "A">
 <!ENTITY sortDescending.label                           "由大到小">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "注音碼">
+<!ENTITY _PhoneticName.label                            "姓名注音">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
@@ -217,3 +217,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "將此程式所有視窗移至最前">
 <!ENTITY zoomWindow.label "縮放">
+

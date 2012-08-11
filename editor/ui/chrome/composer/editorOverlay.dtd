@@ -133,7 +133,7 @@
 <!ENTITY formatFontColor.label "文字顏色…">
 <!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "表格或儲存格背景顏色..">
-<!ENTITY tableOrCellColor.accesskey "b">
+<!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
@@ -322,7 +322,7 @@
 <!ENTITY alignLeftButton.tooltip "將文字對齊左邊界">
 <!ENTITY alignCenterButton.tooltip "將文字對齊中央">
 <!ENTITY alignRightButton.tooltip "將文字對齊右邊界">
-<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
+<!ENTITY alignJustifyButton.tooltip "將文字對齊左右邊界">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "選取">
@@ -341,3 +341,4 @@
 <!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "目錄…">
 <!ENTITY tocMenu.accesskey        "b">
+
