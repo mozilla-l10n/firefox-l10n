@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Navigace webu">
 <!ENTITY linkToolbar.accesskey "n">
+<!ENTITY linkToolbar.tooltip "Lišta navigace webu">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Vždy zobrazit">
