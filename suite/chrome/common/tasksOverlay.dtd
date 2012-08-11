@@ -8,7 +8,7 @@
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label     "Composer">
-<!ENTITY editorCmd.accesskey    "l">
+<!ENTITY editorCmd.accesskey    "L">
 <!ENTITY editorCmd.commandkey    "4">
 
 <!ENTITY errorConsoleCmd.label                                  "Hibakonzol">

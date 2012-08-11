@@ -540,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label "Nem az">
 <!-- MDN Bar -->
 
-<!ENTITY mdnBarMessage.label "Az üzenet küldője értesítést kér, hogy Ön átvette-e az üzenetét. Értesíti a küldőt üzenetének átvételéről?">
 <!ENTITY mdnBarIgnoreButton.label "Nincs értesítés">
+<!ENTITY mdnBarIgnoreButton.accesskey "s">
 <!ENTITY mdnBarSendButton.label "Értesítés küldése">
+<!ENTITY mdnBarSendButton.accesskey "K">
