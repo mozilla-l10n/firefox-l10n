@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "másodperc">
 <!ENTITY Diskspace                        "Lemezterület">
-<!ENTITY offlineCompact.label             "Mappák tömörítése, ha a megtakarított hely több lenne, mint">
-<!ENTITY offlineCompact.accesskey         "t">
-<!ENTITY mb.label                         "MB">
+<!ENTITY offlineCompactFolders.label      "Minden mappa tömörítése, ha a megtakarított hely több lenne, mint">
+<!ENTITY offlineCompactFolders.accesskey  "b">
+<!ENTITY offlineCompactFoldersMB.label    "MB összesen">

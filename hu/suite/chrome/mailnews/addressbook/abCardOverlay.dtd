@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "Fonetikus:">
 <!ENTITY DisplayName.label              "Becenév:">
 <!ENTITY DisplayName.accesskey          "B">
+<!ENTITY preferDisplayName.label        "A megjelenítendő név használata az üzenetfejlécben levő helyett">
+<!ENTITY preferDisplayName.accesskey    "m">
 <!ENTITY NickName.label                 "Becenév:">
 <!ENTITY NickName.accesskey             "B">
 

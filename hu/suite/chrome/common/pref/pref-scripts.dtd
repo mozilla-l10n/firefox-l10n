@@ -21,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Előugró menük letiltása vagy cseréje">
 <!ENTITY allowHideStatusBar.label        "Állapotsor elrejtése">
 
-<!ENTITY enablePlugin.label              "Bővítmények engedélyezése">
+<!ENTITY enablePlugins.label             "Bővítmények engedélyezése a következőhöz:">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "Amennyiben további Bővítmény telepítése szükséges">
-<!ENTITY displayNotification.label       "Értesítés megjelenítése az ablak tetején">
-<!ENTITY displayNotification.accesskey   "m">
+<!ENTITY whenPageRequiresPlugins.label   "Ha egy weboldal bővítményeket használ">
+<!ENTITY activateAllPlugins.label        "Minden bővítmény engedélyezése">
+<!ENTITY activateAllPlugins.accesskey    "M">
+<!ENTITY warnPluginsRequired.label       "Figyelmeztetés, ha további bővítmények telepítése szükséges">
+<!ENTITY warnPluginsRequired.accesskey   "F">
