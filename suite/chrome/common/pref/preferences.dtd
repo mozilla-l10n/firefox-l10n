@@ -30,6 +30,7 @@
 <!ENTITY advance.label "Haladó">
 <!ENTITY down.label "Letöltés">
 <!ENTITY cache.label "Gyorsítótár">
+<!ENTITY offlineApps.label "Webalkalmazások">
 <!ENTITY proxies.label "Proxyk">
 <!ENTITY httpnetworking.label "HTTP-beállítások">
 <!ENTITY smart.label "Szoftvertelepítés">

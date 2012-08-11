@@ -5,6 +5,10 @@
 
 <!ENTITY AddToAddressBook.label            "Felvétel a címjegyzékbe...">
 <!ENTITY AddToAddressBook.accesskey        "F">
+<!ENTITY EditContact.label                 "Névjegy szerkesztése...">
+<!ENTITY EditContact.accesskey             "s">
+<!ENTITY ViewContact.label                 "Névjegy megtekintése">
+<!ENTITY ViewContact.accesskey             "V">
 <!ENTITY SendMailTo.label                  "Levél írása...">
 <!ENTITY SendMailTo.accesskey              "L">
 <!ENTITY CopyEmailAddress.label            "E-mail cím másolása">
