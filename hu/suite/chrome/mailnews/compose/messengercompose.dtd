@@ -83,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Tértivevény">
 <!ENTITY returnReceiptMenu.accesskey "T">
+<!ENTITY dsnMenu.label "Értesítés a kézbesítésről">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Formátum">
 <!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Automatikus felismerés">

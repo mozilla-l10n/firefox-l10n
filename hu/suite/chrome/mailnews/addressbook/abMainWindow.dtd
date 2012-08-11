@@ -47,10 +47,12 @@
 
 <!ENTITY showAbToolbarCmd.label                         "Címjegyzék eszköztár"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "C">  
-
-<!ENTITY showCardPane.label                             "Névjegykártya panel">
-<!ENTITY showCardPane.accesskey                         "N">
-  
+<!ENTITY layoutMenu.label                               "Elrendezés">
+<!ENTITY layoutMenu.accesskey                           "t">
+<!ENTITY showDirectoryPane.label                        "Könyvtár ablaktábla">
+<!ENTITY showDirectoryPane.accesskey                    "l">
+<!ENTITY showContactPane2.label                         "Névjegyek ablaktábla">
+<!ENTITY showContactPane2.accesskey                     "b">
 <!ENTITY menu_ShowNameAs.label                          "Nevek megjelenítése"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!ENTITY firstLastCmd.label                             "Utónév, vezetéknév">  
@@ -95,6 +97,20 @@
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Címjegyzékek">
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+
+<!ENTITY contact.heading                                "Névjegy">
+<!ENTITY home.heading                                   "Otthon">
+<!ENTITY other.heading                                  "Egyéb">
+<!ENTITY phone.heading                                  "Telefon">
+<!ENTITY work.heading                                   "Munka">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Leírás">
+<!ENTITY addresses.heading                              "Címek">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Térkép">
+<!ENTITY mapIt.tooltip                                  "A címhez tartozó térkép megjelenítése a webről">
 <!-- Status Bar -->  
 
 <!ENTITY statusText.label                               "">
