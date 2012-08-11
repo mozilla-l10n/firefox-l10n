@@ -12,10 +12,10 @@
 <!ENTITY enableGlodaSearch.label       "Omogući globalno pretraživanje i indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 
-<!ENTITY scrolling.label               "Listanje">
-<!ENTITY useAutoScroll.label           "Koristi automatsko listanje">
+<!ENTITY scrolling.label               "Klizanje">
+<!ENTITY useAutoScroll.label           "Koristi automatsko klizanje">
 <!ENTITY useAutoScroll.accesskey       "t">
-<!ENTITY useSmoothScrolling.label      "Koristi glatko listanje">
+<!ENTITY useSmoothScrolling.label      "Koristi glatko klizanje">
 <!ENTITY useSmoothScrolling.accesskey  "g">
 
 <!ENTITY systemIntegration.label       "Sistemska integracija">
