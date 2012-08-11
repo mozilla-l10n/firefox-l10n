@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 dagar sedan">
 <!ENTITY history_older_section "Äldre än 7 dagar">
 
+<!ENTITY go "Gå till">
+<!ENTITY search "Sök">
 <!ENTITY reload "Uppdatera">
 <!ENTITY forward "Framåt">
 <!ENTITY menu "Meny">
