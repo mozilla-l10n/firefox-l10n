@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+
+<!ENTITY pref.offlineapps.title             "Webalkalmazások">
+<!ENTITY pref.offlineCache.caption          "Offline webtartalom és felhasználói adatok">
+
+<!ENTITY clearOfflineAppCache.label         "Alaphelyzet">
+<!ENTITY clearOfflineAppCache.accesskey     "A">
+
+<!ENTITY offlineNotify.label                "Értesítés, ha a webhely kapcsolat nélküli adatokat tárolna.">
+<!ENTITY offlineNotify.accesskey            "r">
+<!ENTITY offlineNotifyPermissions.label     "Jogosultságok kezelése">
+<!ENTITY offlineNotifyPermissions.accesskey "J">
+
+<!ENTITY offlineAppsList.label              "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra:">
+<!ENTITY offlineAppsListRemove.label        "Törlés most...">
+<!ENTITY offlineAppsListRemove.accesskey    "T">
