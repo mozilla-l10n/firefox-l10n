@@ -34,6 +34,8 @@
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section "7 дней назад">
 <!ENTITY history_older_section "Более 7 дней назад">
+<!ENTITY go "Перейти">
+<!ENTITY search "Поиск">
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
 <!ENTITY menu "Меню">
