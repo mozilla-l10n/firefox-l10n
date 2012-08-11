@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Zobrazit obrázek pozadí">
 <!ENTITY viewBGImageCmd.accesskey "o">
-<!ENTITY setWallpaperCmd.label "Nastavit jako pozadí">
-<!ENTITY setWallpaperCmd.accesskey "S">
+<!ENTITY setDesktopBackgroundCmd.label "Nastavit pozadí plochy…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "t">
 <!ENTITY bookmarkPageCmd.label "Přidat stránku k záložkám…">
 <!ENTITY bookmarkPageCmd.accesskey "p">
 <!ENTITY bookmarkLinkCmd.label "Přidat odkaz k záložkám…">
