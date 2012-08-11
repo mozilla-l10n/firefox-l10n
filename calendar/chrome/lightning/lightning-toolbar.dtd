@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Lišta kalendáře">
-<!ENTITY lightning.toolbar.calendar.accesskey "k">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "k">
 <!ENTITY lightning.toolbar.task.name "Lišta úkolů">
-<!ENTITY lightning.toolbar.task.accesskey "o">
+<!ENTITY lightning.toolbar.task.name.accesskey "o">
 
 <!ENTITY lightning.toolbar.sync.label "Synchronizovat">
 <!ENTITY lightning.toolbar.delete.label "Smazat">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Tisk">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label "Pošta">
-<!ENTITY lightning.toolbar.mail.accesskey "P">
 <!ENTITY lightning.toolbar.calendar.label "Kalendář">
 <!ENTITY lightning.toolbar.calendar.tooltip "Přepne na panel kalendáře">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
