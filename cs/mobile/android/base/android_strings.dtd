@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "Posledních 7 dnů">
 <!ENTITY history_older_section "Starší než 7 dnů">
 
+<!ENTITY go "Přejít">
+<!ENTITY search "Hledat">
 <!ENTITY reload "Obnovit">
 <!ENTITY forward "Vpřed">
 <!ENTITY menu "Nabídka">
