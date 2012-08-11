@@ -90,6 +90,7 @@
 
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por">
+<!ENTITY share_image_failed "Foi imposíbel compartir esta imaxe">
 <!ENTITY save_as_pdf "Gardar como PDF">
 <!ENTITY find_in_page "Atopar na páxina">
 
