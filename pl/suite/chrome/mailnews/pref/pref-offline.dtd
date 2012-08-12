@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-offline.xul -->
 
 <!ENTITY pref.network.title "Sieć i miejsce na dysku">
@@ -28,6 +32,6 @@
 <!ENTITY mailnewsTimeout.accesskey "L">
 <!ENTITY mailnewsTimeoutSeconds.label "sekund">
 <!ENTITY Diskspace "Miejsce na dysku">
-<!ENTITY offlineCompact.label "Automatycznie porządkuj foldery, gdy zaoszczędzi to więcej niż">
-<!ENTITY offlineCompact.accesskey "c">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Automatycznie porządkuj wszystkie foldery, gdy zaoszczędzi to w sumie ponad">
+<!ENTITY offlineCompactFolders.accesskey "A">
+<!ENTITY offlineCompactFoldersMB.label "MB">
