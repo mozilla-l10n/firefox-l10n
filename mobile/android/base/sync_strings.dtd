@@ -37,6 +37,8 @@
 <!ENTITY sync.button.tryagain.label 'Tentar de novo'>
 <!ENTITY sync.button.manual.label 'Configuración manual'>
 <!ENTITY sync.subtitle.nointernet.label 'Sen conexións a internet dispoñíbeis.'>
+<!ENTITY sync.subtitle.failaccount.label 'Fallou a creación da conta no seu dispositivo.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Ten instalada máis dunha versión do Firefox? Actualmente, &syncBrand.fullName.label; só admite unha instalación do Firefox á vez. Desinstale as outras instancias para usar o &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Rematou a configuración'>
@@ -74,4 +76,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Só está permitida unha conta de &syncBrand.fullName.label;.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Nome de conta ou contrasinal incorrecto.'>
+<!ENTITY sync.invalidserver.label 'Introduza un URL de servidor correcto'>
+<!ENTITY sync.verifying.label 'Comprobando…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Chave de recuperación incorrecta. Tente de novo.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Enviar a lapela aos dispositivos'>
+<!ENTITY sync.button.send.label 'Enviar'>
+<!ENTITY sync.button.set.up.sync.label 'Configurar &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar &syncBrand.shortName.label; para enviar as lapelas'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar &syncBrand.fullName.label; no dispositivo para enviar as lapelas a outros dispositivos.'>
+<!ENTITY sync.text.tab.sent.label 'Enviáronse as lapelas!'>
