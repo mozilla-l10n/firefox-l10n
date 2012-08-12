@@ -580,8 +580,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip                         "Eemalda kustutatud kirjad valitud kaustast">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label                               "Uus silt...">
+<!ENTITY addNewTag.label                               "Uus silt…">
 <!ENTITY addNewTag.accesskey                           "U">
+<!ENTITY manageTags.label                              "Halda silte…">
+<!ENTITY manageTags.accesskey                          "H">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label                            "Nimi">

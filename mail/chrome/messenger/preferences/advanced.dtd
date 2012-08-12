@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label          "Rohkem teavet telemeetria saatmise kohta">
 <!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey      "L">
+
+<!ENTITY scrolling.label                   "Kerimine">
+<!ENTITY useAutoScroll.label               "Kasutatakse automaatset kerimist">
+<!ENTITY useAutoScroll.accesskey           "u">
+<!ENTITY useSmoothScrolling.label          "Kasutatakse sujuvat kerimist">
+<!ENTITY useSmoothScrolling.accesskey      "s">
+
 <!ENTITY systemIntegration.label          "Süsteemi integratsioon">
 <!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on e-posti vaikeklient">
 <!ENTITY alwaysCheckDefault.accesskey     "a">
@@ -85,9 +92,9 @@
 <!ENTITY showOffline.accesskey            "S">
 
 <!ENTITY Diskspace                        "Kettaruum">
-<!ENTITY offlineCompact.label             "Kaustad tihendatakse, kui see säästab rohkem kui">
-<!ENTITY offlineCompact.accesskey         "b">
-<!ENTITY mb.label                         "MiB">
+<!ENTITY offlineCompactFolders.label      "Kõik kaustad tihendatakse, kui see säästab kokku rohkem kui">
+<!ENTITY offlineCompactFolders.accesskey  "b">
+<!ENTITY offlineCompactFoldersMB.label    "MiB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
