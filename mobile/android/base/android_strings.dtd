@@ -77,6 +77,11 @@
 <!ENTITY pref_font_size_medium "Medio">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Moi grande">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "O panda laranxa máis veloz salta máis alá das súas expectativas con máis velocidade, máis flexibilidade e máis seguridade. Como unha organización sen ánimo de lucro, somos libres para innovar por vostede sen ningún tipo de presión e sen compromiso. Isto resulta nunha mellor experiencia para vostede e nun mellor futuro para a Web.">
+
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Amosar suxestións de busca">
