@@ -646,3 +646,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.ok.accesskey   "A">
 <!ENTITY social.sharePopup.shared.label   "Compartiu esta páxina.">
 <!ENTITY social.sharePopup.portrait.arialabel "Imaxe de perfil do usuario">
+<!ENTITY social.toggleSidebar.label "Amosar barra lateral">
+<!ENTITY social.toggleSidebar.accesskey "s">
