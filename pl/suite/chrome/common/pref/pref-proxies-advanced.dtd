@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.proxies.advanced.title "Zaawansowane ustawienia proxy">
 <!ENTITY protocols.caption "Proxy charakterystyczne dla (danego) protokołu">
 <!ENTITY protocols.description "W normalnym przypadku ten sam proxy jest w stanie obsłużyć wszystkie wymienione protokoły.">
