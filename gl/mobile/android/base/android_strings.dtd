@@ -170,4 +170,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que pertence a">
 
+<!ENTITY private_data_success "Limpáronse os datos privados">
+<!ENTITY private_data_fail "Non foi posíbel limpar algúns datos privados">
+
 <!ENTITY webapp_generic_name "Aplicativo">
