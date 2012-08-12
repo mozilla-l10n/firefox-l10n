@@ -644,3 +644,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.accesskey "x">
 <!ENTITY social.sharePopup.ok.label       "Aceptar">
 <!ENTITY social.sharePopup.ok.accesskey   "A">
+<!ENTITY social.sharePopup.shared.label   "Compartiu esta páxina.">
+<!ENTITY social.sharePopup.portrait.arialabel "Imaxe de perfil do usuario">
