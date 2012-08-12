@@ -1,0 +1,16 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!ENTITY pref.offlineapps.title "Aplikacje internetowe trybu offline">
+<!ENTITY pref.offlineCache.caption "Dane witryn oraz użytkownika dla trybu offline">
+
+<!ENTITY clearOfflineAppCache.label "Wyczyść">
+<!ENTITY clearOfflineAppCache.accesskey "C">
+
+<!ENTITY offlineNotify.label "Powiadamiaj mnie, gdy witryna chce przechowywać dane do użytku w trybie offline.">
+<!ENTITY offlineNotify.accesskey "N">
+<!ENTITY offlineNotifyPermissions.label "Zarządzaj uprawnieniami">
+<!ENTITY offlineNotifyPermissions.accesskey "P">
+
+<!ENTITY offlineAppsList.label "Następujące witryny mają uprawnienia do przechowywania danych do użytku w trybie offline:">
+<!ENTITY offlineAppsListRemove.label "Wyczyść dane…">
+<!ENTITY offlineAppsListRemove.accesskey "d">
