@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY msgComposeWindow.title "Komponowanie: (bez tematu)">
 
 <!ENTITY fromAddr.label "Nadawca:">
@@ -77,6 +81,9 @@
 
 <!ENTITY returnReceiptMenu.label "Żądaj potwierdzenia doręczenia">
 <!ENTITY returnReceiptMenu.accesskey "p">
+<!ENTITY dsnMenu.label "Informuj o statusie dostarczania">
+<!ENTITY dsnMenu.accesskey "n">
+
 <!ENTITY outputFormatMenu.label "Wyślij wiadomość jako">
 <!ENTITY outputFormatMenu.accesskey "j">
 <!ENTITY autoFormatCmd.label "Wybierz automatycznie">
