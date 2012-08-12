@@ -37,6 +37,8 @@
 <!ENTITY sync.button.tryagain.label 'Tentar de novo'>
 <!ENTITY sync.button.manual.label 'Configuración manual'>
 <!ENTITY sync.subtitle.nointernet.label 'Sen conexións a internet dispoñíbeis.'>
+<!ENTITY sync.subtitle.failaccount.label 'Fallou a creación da conta no seu dispositivo.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Ten instalada máis dunha versión do Firefox? Actualmente, &syncBrand.fullName.label; só admite unha instalación do Firefox á vez. Desinstale as outras instancias para usar o &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Rematou a configuración'>
