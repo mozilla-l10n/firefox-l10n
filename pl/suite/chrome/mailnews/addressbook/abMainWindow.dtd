@@ -1,39 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
 <!ENTITY addressbookWindow.title "Książka adresowa">
@@ -80,9 +47,12 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label "Pasek narzędzi książki adresowej">
 <!ENTITY showAbToolbarCmd.accesskey "o">
-
-<!ENTITY showCardPane.label "Panel wizytówek">
-<!ENTITY showCardPane.accesskey "P">
+<!ENTITY layoutMenu.label "Układ">
+<!ENTITY layoutMenu.accesskey "U">
+<!ENTITY showDirectoryPane.label "Panel książek adresowych">
+<!ENTITY showDirectoryPane.accesskey "P">
+<!ENTITY showContactPane2.label "Panel kontaktu">
+<!ENTITY showContactPane2.accesskey "k">
 <!ENTITY menu_ShowNameAs.label "Wyświetlaj nazwę jako">
 <!ENTITY menu_ShowNameAs.accesskey "z">
 <!ENTITY firstLastCmd.label "Imię Nazwisko">
@@ -102,7 +72,7 @@
 <!ENTITY newContactButton.label "Nowa wizytówka">
 <!ENTITY newContactButton.accesskey "N">
 <!ENTITY newlistButton.label "Nowa lista dystrybucyjna">
-<!ENTITY newlistButton.accesskey "L">
+<!ENTITY newlistButton.accesskey "l">
 <!ENTITY editItemButton.label "Właściwości">
 <!ENTITY editItemButton.accesskey "W">
 <!ENTITY newmsgButton.label "Nowa">
@@ -127,6 +97,20 @@
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Książki adresowe">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading "Kontakt">
+<!ENTITY home.heading "Dom">
+<!ENTITY other.heading "Inne">
+<!ENTITY phone.heading "Telefon">
+<!ENTITY work.heading "Praca">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading "Opis">
+<!ENTITY addresses.heading "Adresy">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label "Pokaż mapę">
+<!ENTITY mapIt.tooltip "Wyświetl mapę z sieci WWW dla tego adresu">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label "">
