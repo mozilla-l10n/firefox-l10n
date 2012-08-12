@@ -12,6 +12,13 @@
      -->
 <!ENTITY downloads.title                  "Descargas">
 
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel list items, expressed using a CSS unit.  The
+     longest labels that should fit in the item width are usually those of
+     in-progress downloads and those of blocked downloads.
+     -->
+<!ENTITY downloads.width                  "80ch">
+
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Retomar">
@@ -25,7 +32,7 @@
      -->
 <!ENTITY cmd.show.label                   "Abrir o cartafol contedor">
 <!ENTITY cmd.show.accesskey               "f">
-<!ENTITY cmd.showMac.label                "Mostrar no Finder">
+<!ENTITY cmd.showMac.label                "Amosar no Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Tentar de novo">
 <!ENTITY cmd.goToDownloadPage.label       "Ir á páxina de descargas">
@@ -37,5 +44,5 @@
 <!ENTITY cmd.clearList.label              "Limpar lista">
 <!ENTITY cmd.clearList.accesskey          "a">
 
-<!ENTITY downloadshistory.label           "Mostrar todas as descargas">
+<!ENTITY downloadshistory.label           "Amosar todas as descargas">
 <!ENTITY downloadshistory.accesskey       "s">
