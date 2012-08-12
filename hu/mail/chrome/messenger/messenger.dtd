@@ -88,7 +88,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Üzenet törlése">
-<!ENTITY deleteMsgCmd.accesskey "t">
+<!ENTITY deleteMsgCmd.accesskey "r">
 <!ENTITY undeleteMsgCmd.label "Törölt üzenet visszaállítása">
 <!ENTITY undeleteMsgCmd.accesskey "v">
 <!ENTITY deleteMsgsCmd.label "Kijelölt üzenetek törlése">
@@ -423,7 +423,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Megjelölés">
-<!ENTITY markMenu.accesskey "M">
+<!ENTITY markMenu.accesskey "s">
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Olvasottként">
 <!ENTITY markAsReadCmd.accesskey "O">
@@ -686,13 +686,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Üzenet megnyitása új ablakban">
-<!ENTITY contextOpenNewWindow.accesskey "a">
+<!ENTITY contextOpenNewWindow.accesskey "b">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Üzenet megnyitása új lapon">
-<!ENTITY contextOpenNewTab.accesskey "l">
+<!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextOpenConversation.label "Üzenet megnyitása beszélgetésben">
 <!ENTITY contextOpenConversation.accesskey "b">
 <!ENTITY contextEditAsNew.label "Szerkesztés újként…">
@@ -704,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup2.label "Válasz a hírcsoportnak">
 <!ENTITY contextReplyNewsgroup2.accesskey "h">
 <!ENTITY contextReplyAll.label "Válasz mindenkinek">
-<!ENTITY contextReplyAll.accesskey "m">
+<!ENTITY contextReplyAll.accesskey "d">
 <!ENTITY contextReplyList.label "Válasz a listára">
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Továbbítás">
@@ -718,11 +718,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextCopyMsgMenu.label "Átmásolás">
 <!ENTITY contextCopyMsgMenu.accesskey "m">
 <!ENTITY contextSaveAs.label "Mentés másként…">
-<!ENTITY contextSaveAs.accesskey "M">
+<!ENTITY contextSaveAs.accesskey "e">
 <!ENTITY contextPrint.label "Nyomtatás…">
 <!ENTITY contextPrint.accesskey "N">
 <!ENTITY contextPrintPreview.label "Nyomtatási kép">
-<!ENTITY contextPrintPreview.accesskey "t">
+<!ENTITY contextPrintPreview.accesskey "o">
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
