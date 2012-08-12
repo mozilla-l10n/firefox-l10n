@@ -68,10 +68,7 @@
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar o menú">
 <!ENTITY pref_char_encoding_off "Non mostrar o menú">
-<!ENTITY pref_clear_history "Limpar historial">
-<!ENTITY pref_clear_history_confirm "Eliminarase o historial de navegación">
 <!ENTITY pref_clear_private_data "Limpar os datos privados">
-<!ENTITY pref_clear_private_data_confirm "Elimináranse os parámetros de navegación, incluíndo os contrasinais e as cookies">
 <!ENTITY pref_plugins "Engadidos">
 <!ENTITY pref_plugins_enabled "Activado">
 <!ENTITY pref_plugins_tap_to_play "Pulse para activar">
@@ -84,6 +81,14 @@
 <!ENTITY pref_font_size_xlarge "Moi grande">
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_private_data_history "Historial de navegación e descargas">
+<!ENTITY pref_private_data_formdata "Historial de formularios e buscas">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_sessions "Sesións activas">
+<!ENTITY pref_private_data_offlineApps "Datos de sitios web sen conexión">
+<!ENTITY pref_private_data_siteSettings "Preferencias do sitio">
+
 
 <!ENTITY quit "Saír">
 
