@@ -45,6 +45,10 @@
 <!ENTITY search "Buscar">
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Adiante">
+<!ENTITY menu "Menú">
+<!ENTITY back "Atrás">
+<!ENTITY stop "Deter">
+<!ENTITY site_security "Seguranza do sitio">
 
 <!ENTITY close_tab "Pechar lapela">
 <!ENTITY new_tab "Nova lapela">
