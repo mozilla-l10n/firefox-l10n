@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label          'Proovi uuesti'>
 <!ENTITY sync.button.manual.label            'Seadista käsitsi'>
 <!ENTITY sync.subtitle.nointernet.label      'Internetiühendus puudub.'>
+<!ENTITY sync.subtitle.failaccount.label     'Konto loomine sinu seadmel ebaõnnestus.'>
+<!ENTITY sync.subtitle.failmultiple.label    'Kas oled paigaldanud rohkem kui ühe Firefoxi? Hetkel toetab &syncBrand.fullName.label; ainult üht Firefoxi paigaldust korraga. &syncBrand.shortName.label;i kasutamiseks eemalda teised paigaldatud versioonid.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label            'Seadistamine lõpetatud'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label  'Toetatud on ainult üks &syncBrand.fullName.label;i konto.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label               'Vigane konto nimi või parool.'>
+<!ENTITY sync.invalidserver.label              'Palun sisesta korrektne serveri URL'>
+<!ENTITY sync.verifying.label                  'Kontrollimine…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Taastamise võti pole õige. Palun proovi uuesti.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label                'Kaardi saatmine seadmetesse'>
+<!ENTITY sync.button.send.label                   'Saada'>
+<!ENTITY sync.button.set.up.sync.label            'Seadista &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Kaartide saatmiseks seadista &syncBrand.shortName.label;'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label  'Kaartide saatmiseks teistesse seadmetesse seadista &syncBrand.fullName.label;.'>
+<!ENTITY sync.text.tab.sent.label                 'Kaart saadetud!'>

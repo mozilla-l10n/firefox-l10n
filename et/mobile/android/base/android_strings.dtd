@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab                       "Sulge kaart">
 <!ENTITY new_tab                         "Uus kaart">
+<!ENTITY one_tab                         "1 kaart">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs                        "&#037;d kaarti">
@@ -86,10 +87,12 @@
 <!ENTITY pref_font_size_xlarge           "väga suur">
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
 <!ENTITY pref_sync                       "Sync">
+<!ENTITY pref_search_suggestions         "Kuvatakse otsingu soovitusi">
 <!ENTITY pref_import_android             "Androidist importimine">
 <!ENTITY pref_private_data_history       "Veebilehitsemise ja allalaadimiste ajalugu">
 <!ENTITY pref_private_data_formdata      "Vormide ja otsingu ajalugu">
 <!ENTITY pref_private_data_cookies       "Küpsised">
+<!ENTITY pref_private_data_passwords     "Salvestatud paroolid">
 <!ENTITY pref_private_data_cache         "Vahemälu">
 <!ENTITY pref_private_data_sessions      "Aktiivsed sisselogimised">
 <!ENTITY pref_private_data_offlineApps   "Veebilehtede võrguta režiimis kasutamiseks mõeldud andmed">
@@ -99,10 +102,12 @@
 
 <!ENTITY addons                          "Lisad">
 <!ENTITY downloads                       "Allalaadimised">
+<!ENTITY apps                            "Rakendused">
 <!ENTITY char_encoding                   "Kodeering">
 
 <!ENTITY share                           "Jaga">
 <!ENTITY share_title                     "Jagamine kasutades">
+<!ENTITY share_image_failed              "Selle pildi jagamine pole võimalik">
 <!ENTITY save_as_pdf                     "Salvesta PDFina">
 <!ENTITY find_in_page                    "Otsi lehelt">
 <!ENTITY desktop_mode                    "Nõua tavaarvutile mõeldud saiti">
@@ -138,9 +143,10 @@
 <!ENTITY site_settings_clear             "Kustuta">
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
 
-<!ENTITY add_to_reading_list             "Lisa lugemise nimekirja">
+<!ENTITY reading_list                    "Lugemise nimekiri">
 <!ENTITY reading_list_added              "Leht lisati lugemise nimekirja">
 <!ENTITY reading_list_removed            "Leht eemaldati lugemise nimekirjast">
+<!ENTITY reading_list_failed             "Lehe lugemise nimekirja lisamine ebaõnnestus">
 <!ENTITY reader_mode                     "Lugemise režiim">
 
 <!ENTITY masterpassword_create_title     "Ülemparooli loomine">
@@ -182,6 +188,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by                 "ja seda hooldab">
 
+<!ENTITY private_data_success            "Privaatsed andmed kustutati">
+<!ENTITY private_data_fail               "Kõiki privaatseid andmeid polnud võimalik kustutada">
+
 <!ENTITY bookmarkhistory_button_import   "Impordi">
 <!ENTITY bookmarkhistory_import_both     "Järjehoidjate ja ajaloo importimine
                                           Androidist">
@@ -191,5 +200,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                           Androidist">
 <!ENTITY bookmarkhistory_import_wait     "Palun oota...">
 
-<!ENTITY private_data_success            "Privaatsed andmed kustutati">
-<!ENTITY private_data_fail               "Kõiki privaatseid andmeid polnud võimalik kustutada">
+<!ENTITY webapp_generic_name             "Rakendus">

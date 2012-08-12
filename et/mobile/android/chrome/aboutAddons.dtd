@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutAddons.title                      "Lisade haldur">
 <!ENTITY aboutAddons.header2                    "Paigaldatud lisad">
 <!ENTITY aboutAddons.options                    "Sätted">
@@ -5,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Luba">
 <!ENTITY addonAction.disable                    "Keela">
 <!ENTITY addonAction.uninstall                  "Eemalda">
-<!ENTITY addonAction.cancel                     "Loobu">
+<!ENTITY addonAction.undo                       "Võta tagasi">
