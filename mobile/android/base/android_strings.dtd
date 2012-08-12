@@ -77,6 +77,7 @@
 <!ENTITY pref_font_size_medium "Medio">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Moi grande">
+<!ENTITY pref_font_size_set "Estabelecer">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
