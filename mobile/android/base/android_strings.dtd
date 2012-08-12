@@ -90,7 +90,7 @@
 <!ENTITY pref_private_data_sessions "Sesións activas">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sen conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias do sitio">
-
+<!ENTITY pref_search_suggestions "Amosar suxestións de busca">
 
 <!ENTITY quit "Saír">
 
