@@ -84,8 +84,7 @@
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label 'Enviar a lapela aos dispositivos'>
 <!ENTITY sync.button.send.label 'Enviar'>
-<!ENTITY sync.button.setup.label 'Configurar sincronización'>
-<!ENTITY sync.button.continue.browsing.label 'Continuar navegando'>
-<!ENTITY sync.title.redirect.to.setup.label 'Configurar a sincronización para enviar as lapelas'>
-<!ENTITY sync.text.redirect.to.setup.label 'Configurar Firefox Sync no dispositivo para enviar as lapelas a outros dispositivos.'>
+<!ENTITY sync.button.set.up.sync.label 'Configurar &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar &syncBrand.shortName.label; para enviar as lapelas'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar &syncBrand.fullName.label; no dispositivo para enviar as lapelas a outros dispositivos.'>
 <!ENTITY sync.text.tab.sent.label 'Enviáronse as lapelas!'>
