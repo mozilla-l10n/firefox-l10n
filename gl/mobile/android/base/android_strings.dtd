@@ -60,6 +60,7 @@
 <!ENTITY pref_category_general "Xeral">
 <!ENTITY pref_category_privacy "Privacidade e seguranza">
 <!ENTITY pref_category_content "Contido">
+<!ENTITY pref_category_importexport "Importar e exportar">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_do_not_track "Dicirlle aos sitios que non me sigan">
 <!ENTITY pref_telemetry "Enviar os datos de rendemento">
@@ -81,6 +82,7 @@
 <!ENTITY pref_font_size_xlarge "Moi grande">
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_private_data_history "Historial de navegación e descargas">
 <!ENTITY pref_private_data_formdata "Historial de formularios e buscas">
 <!ENTITY pref_private_data_cookies "Cookies">
@@ -172,3 +174,10 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que pertence a">
+
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importando marcadores e historial desde Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores desde Android">
+<!ENTITY bookmarkhistory_import_history "Importando historial desde Android">
+<!ENTITY bookmarkhistory_import_wait "Agarde...">
+
