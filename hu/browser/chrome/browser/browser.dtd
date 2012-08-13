@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ugrás egy webhelyre">
-<!ENTITY urlbar.accesskey             "U">
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Váltás erre a lapra:">
 
 <!-- 
