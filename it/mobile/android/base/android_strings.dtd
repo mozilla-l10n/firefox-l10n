@@ -34,6 +34,8 @@
 <!ENTITY history_yesterday_section "Ieri">
 <!ENTITY history_week_section "7 giorni fa">
 <!ENTITY history_older_section "Più vecchi di 7 giorni">
+<!ENTITY go "Vai">
+<!ENTITY search "Cerca">
 <!ENTITY reload "Ricarica">
 <!ENTITY forward "Avanti">
 <!ENTITY menu "Menu">
