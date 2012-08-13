@@ -8,7 +8,7 @@
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "公司">
 <!ENTITY Company.accesskey                     "z">
-<!ENTITY _PhoneticName.label                   "注音碼">
+<!ENTITY _PhoneticName.label                   "姓名注音">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "暱稱">
 <!ENTITY NickName.accesskey                    "i">
@@ -48,3 +48,4 @@
 <!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "屬性">
 <!ENTITY addrBookCardProperties.accesskey      "P">
+

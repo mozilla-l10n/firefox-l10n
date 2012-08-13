@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
@@ -51,13 +55,20 @@
   <li>Click the Advanced category.</li>
 </ol>
 
-<p class="unix">The main Advanced preferences panel allows you to:</p>
+<p>The main Advanced preferences panel allows you to:</p>
 
 <ul>
-  <li class="unix"><strong>Use Preferences from System</strong>: Select
-    this to use the already set system preferences, overriding 
-    &brandShortName;&apos; ones.
-  </li>
+  <li class="unix"><strong>Use Preferences from System</strong>: Select this to
+    use the already set system preferences, overriding &brandShortName;&apos;.</li>
+  <li class="win"><strong>Check default application settings on startup</strong>:
+    Select this to have &brandShortName; check whether it is the default
+    application for tasks like browsing and mail. If &brandShortName; detects
+    on startup that it is not the default application for any of these tasks,
+    a dialog will appear that allows you to choose which tasks &brandShortName;
+    should handle by default.</li>
+  <li><strong>Submit crash reports</strong>: Select this to enable the Mozilla
+    Crash Reporter. If &brandShortName; crashes, you will be asked in each case
+    whether to report the issue.</li>
 </ul>
 
 <p>[<a href="#advanced_preferences">Return to beginning of section</a>]</p>
@@ -105,19 +116,31 @@
         webpages.</li>
     </ul>
   </li>
-  <li><strong>Enable Plugins for</strong>: Check this checkbox to control how
+  <li><strong>Enable Plugins for</strong>: Use these checkboxes to control how
     plugins are used:
     <ul>
+      <li><strong>Suite</strong>: Globally enables or disables plugins.</li>
       <li><strong>Mail &amp; Newsgroups</strong>: Allows plugins to be used in
         Mail &amp; Newsgroups.</li>
     </ul>
   </li>
-  <li><strong>When additional plugins are required</strong>: Check this
-    checkbox if you want to be informed whenever a website requires additional
+  <li><strong>When a page requires plugins</strong>: Select these
+    checkboxes to control what &brandShortName; should do if a web page requires
     plugins:
     <ul>
-      <li><strong>Display a notification bar at the top of the content
-        area</strong>: When a website requires a plugin which is not installed,
+      <li><strong>Activate all plugins by default</strong>: If you select this,
+        &brandShortName; will load and run all plugins found on the web page.
+        Otherwise, if the page requires plugins, &brandShortName; will show a
+        notification (plugin icon in the location bar or notification bar), plus
+        a placeholder for every plugin instance found on the page (unless the
+        website is whitelisted, see below).
+        You can activate individual visible plugin instances with a left mouse
+        click or use the notification to activate all the plugins on the page.
+        From the notification you have the option to either temporarily activate
+        the plugins or remember the choice for the current website. Remembered
+        choices can be edited using the Data Manager (Permissions tab).</li>
+      <li><strong>Warn me if additional plugins need to be installed</strong>:
+        When a website requires a plugin which is not installed,
         a notification bar will be displayed above the website content area.
         From the bar you will be able to download and install the missing
         plugin.</li>

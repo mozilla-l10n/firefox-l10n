@@ -22,3 +22,4 @@
 <!ENTITY signingCA.accesskey                      "R">
 <!ENTITY validation.requireOCSP.description       "當 OCSP 伺服器連線失敗時，將憑證視為無效">
 <!ENTITY validation.requireOCSP.accesskey         "W">
+

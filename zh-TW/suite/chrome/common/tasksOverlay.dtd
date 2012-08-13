@@ -7,8 +7,8 @@
 <!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label					"設計師">
-<!ENTITY editorCmd.accesskey				"C">
+<!ENTITY editorCmd.label					"Composer">
+<!ENTITY editorCmd.accesskey				"c">
 <!ENTITY editorCmd.commandkey				"4">
 
 <!ENTITY errorConsoleCmd.label                                  "錯誤主控台">
@@ -58,3 +58,4 @@
 <!ENTITY syncSetup.accesskey       "S">
 <!ENTITY syncSyncNowItem.label     "立刻同步">
 <!ENTITY syncSyncNowItem.accesskey "S">
+

@@ -30,3 +30,4 @@
 <!ENTITY  socksRemoteDNS.label        "使用代理伺服器來解析主機名稱（建議於 SOCKS v5 使用）">
 <!ENTITY  socksRemoteDNS.accesskey    "e">
 <!ENTITY  SOCKSport.accesskey         "t">
+
