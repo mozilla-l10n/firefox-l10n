@@ -297,7 +297,7 @@
 <!ENTITY calendar.server.dialog.name.label          "行事曆名稱:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label                    "色彩:">
+<!ENTITY calendarproperties.color.label                    "顏色:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
