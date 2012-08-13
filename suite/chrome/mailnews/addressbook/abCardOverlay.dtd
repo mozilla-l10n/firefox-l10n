@@ -124,7 +124,7 @@
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Photo.tab                      "相片">
-<!ENTITY Photo.accesskey                "相片">
+<!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "從下列選一個:">
 <!ENTITY GenericPhoto.label             "一般相片">
 <!ENTITY GenericPhoto.accesskey         "G">
@@ -138,3 +138,4 @@
 <!ENTITY PhotoURL.placeholder           "貼上或輸入相片的網址">
 <!ENTITY UpdatePhoto.label              "更新">
 <!ENTITY UpdatePhoto.accesskey          "U">
+

@@ -14,3 +14,4 @@
 <!ENTITY sendDefaultCharset.accesskey    "C">
 <!ENTITY replyInDefaultCharset2.label    "回信時盡量使用預設字元編碼。（未勾選時，只有新訊息會採用預設字元編碼。）">
 <!ENTITY replyInDefaultCharset2.accesskey "W">
+

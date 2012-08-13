@@ -35,3 +35,4 @@
 <!ENTITY button.exportOPML.tooltip   "匯出包含資料夾結構的資訊來源；按住 Ctrl 再點擊，或是按下 Ctrl+Enter 以單純將資訊來源匯出為清單">
 
 <!ENTITY cmd.close.commandKey        "w">
+
