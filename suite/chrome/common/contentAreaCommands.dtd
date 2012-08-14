@@ -51,8 +51,8 @@
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Ver a imaxe de fondo">
 <!ENTITY viewBGImageCmd.accesskey     "V">
-<!ENTITY setWallpaperCmd.label        "Estabelecer como fondo de escritorio">
-<!ENTITY setWallpaperCmd.accesskey    "a">
+<!ENTITY setDesktopBackgroundCmd.label     "Estabelecer como fondo de escritorio">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "Marcar esta páxina">
 <!ENTITY bookmarkPageCmd.accesskey    "M">
 <!ENTITY bookmarkLinkCmd.label        "Marcar esta ligazón">
