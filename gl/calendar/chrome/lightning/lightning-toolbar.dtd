@@ -35,9 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barra de ferramentas do calendario">
-<!ENTITY lightning.toolbar.calendar.accesskey "c">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "c">
 <!ENTITY lightning.toolbar.task.name "Barra de ferramentas das tarefas">
-<!ENTITY lightning.toolbar.task.accesskey "t">
+<!ENTITY lightning.toolbar.task.name.accesskey "t">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
 <!ENTITY lightning.toolbar.delete.label "Eliminar">
@@ -46,8 +46,6 @@
 <!ENTITY lightning.toolbar.print.label "Imprimir">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Correo">
-<!ENTITY lightning.toolbar.mail.accesskey     "C">
 <!ENTITY lightning.toolbar.calendar.label     "Calendario">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Cambiar á lapela calendario">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
