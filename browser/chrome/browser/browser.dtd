@@ -241,11 +241,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Entwickler-Symbolleiste schließen">
 <!ENTITY devToolbarMenu.label              "Entwickler-Symbolleiste">
 <!ENTITY devToolbarMenu.accesskey          "E">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY webConsoleButton.label "Web-Konsole">
 <!ENTITY inspectorButton.label "Untersuchen">
-<!ENTITY scriptsButton.label "Skripte">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Nur vom Knoten umschlossenes HTML kopieren">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "u">
@@ -433,8 +433,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label    "Lesezeichen für diesen Frame hinzufügen">
 <!ENTITY bookmarkThisFrameCmd.accesskey "z">
-<!ENTITY sendPageCmd.label            "Link senden…">
-<!ENTITY sendPageCmd.accesskey        "s">
+<!ENTITY emailPageCmd.label           "Link per E-Mail senden…">
+<!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Seite speichern unter…">
 <!ENTITY savePageCmd.accesskey        "u">
 <!-- alternate for content area context menu -->
@@ -446,20 +446,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "d">
 <!ENTITY saveLinkCmd.label            "Ziel speichern unter…">
 <!ENTITY saveLinkCmd.accesskey        "Z">
-<!ENTITY sendLinkCmd.label            "Link senden…"> 
-<!ENTITY sendLinkCmd.accesskey        "s">
 <!ENTITY saveImageCmd.label           "Grafik speichern unter…">
 <!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY saveVideoCmd.label           "Video speichern unter…">
 <!ENTITY saveVideoCmd.accesskey       "u">
 <!ENTITY saveAudioCmd.label           "Audio speichern unter…">
 <!ENTITY saveAudioCmd.accesskey       "u">
-<!ENTITY sendImageCmd.label           "Grafik senden…">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Video senden…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Audio senden…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Grafik per E-Mail senden…">
+<!ENTITY emailImageCmd.accesskey      "n">
+<!ENTITY emailVideoCmd.label          "Video per E-Mail senden…">
+<!ENTITY emailVideoCmd.accesskey      "n">
+<!ENTITY emailAudioCmd.label          "Audio per E-Mail senden…">
+<!ENTITY emailAudioCmd.accesskey      "n">
 <!ENTITY copyLinkCmd.label            "Link-Adresse kopieren">
 <!ENTITY copyLinkCmd.accesskey        "k">
 <!ENTITY copyImageCmd.label           "Grafikadresse kopieren">
