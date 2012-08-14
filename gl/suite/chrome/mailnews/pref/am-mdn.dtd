@@ -1,6 +1,8 @@
 <!ENTITY pane.title                   "Avisos de recepción">
 <!ENTITY useGlobalPrefs.label         "Utilizar as miñas preferencias globais do aviso de recepción para esta conta">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "Preferencias globais…">
+<!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalizar avisos de recepción para esta conta">
 <!ENTITY useCustomPrefs.accesskey     "c">
 <!ENTITY requestReceipt.label         "Cando se envíen mensaxes pedir sempre aviso de recepción">
