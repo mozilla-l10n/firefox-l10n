@@ -39,13 +39,14 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Barra de navegación do sitio web">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "Barra de navegación do sitio web">
 
 <!-- Link Toolbar visibility options -->
-<!ENTITY linkToolbarAlways.label "Mostrar sempre">
+<!ENTITY linkToolbarAlways.label "Amosar sempre">
 <!ENTITY linkToolbarAlways.accesskey "s">
-<!ENTITY linkToolbarAsNeeded.label "Mostrar só cando sexa necesaria">
+<!ENTITY linkToolbarAsNeeded.label "Amosar só cando sexa necesaria">
 <!ENTITY linkToolbarAsNeeded.accesskey "o">
-<!ENTITY linkToolbarNever.label "Ocultar sempre">
+<!ENTITY linkToolbarNever.label "Agochar sempre">
 <!ENTITY linkToolbarNever.accesskey "m">
 
 <!-- Toolbar buttons, menus, and menuitems -->
