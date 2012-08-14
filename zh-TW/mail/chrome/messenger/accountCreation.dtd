@@ -7,7 +7,7 @@
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "姓名">
 <!ENTITY name.text                       "您的名字，用於顯示在您的郵件上">
-<!ENTITY email.label                     "Email 位址:">
+<!ENTITY email.label                     "電子郵件地址:">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "密碼:">
