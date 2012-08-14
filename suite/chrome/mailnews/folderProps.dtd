@@ -102,3 +102,10 @@
 <!ENTITY folderQuotaRoot.label "Racine des quotas :">
 <!ENTITY folderQuotaUsage.label "Utilisation :">
 <!ENTITY folderQuotaStatus.label "Statut :">
+
+<!ENTITY numberOfMessages.label                  "Nombre de messages :">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "inconnu">
+<!ENTITY sizeOnDisk.label                        "Taille sur le disque :">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "inconnue">
