@@ -1,6 +1,8 @@
 <!ENTITY pane.title                   "Accusés de réception">
 <!ENTITY useGlobalPrefs.label         "Utiliser mes préférences globales d'accusés de réception pour ce compte">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "Préférences globales…">
+<!ENTITY globalReceipts.accesskey     "f">
 <!ENTITY useCustomPrefs.label         "Personnaliser les accusés de réception pour ce compte">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Lors de l'envoi d'un message, toujours demander un accusé de réception">
