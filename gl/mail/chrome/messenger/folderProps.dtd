@@ -100,3 +100,10 @@
 <!ENTITY folderQuotaRoot.label                   "Raíz da cota:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Estado:">
+
+<!ENTITY numberOfMessages.label                  "Número de mensaxes:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "descoñecido">
+<!ENTITY sizeOnDisk.label                        "Tamaño no disco:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "descoñecido">
