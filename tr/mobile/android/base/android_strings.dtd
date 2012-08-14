@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Sekmeyi kapat">
 <!ENTITY new_tab "Yeni sekme">
+<!ENTITY one_tab "1 sekme">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d sekme">
@@ -86,24 +87,27 @@
 <!ENTITY pref_font_size_xlarge "Çok büyük">
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Arama önerilerini göster">
 <!ENTITY pref_import_android "Android\'den al">
 <!ENTITY pref_private_data_history "Tarama ve indirme geçmişi">
 <!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
 <!ENTITY pref_private_data_cookies "Çerezler">
+<!ENTITY pref_private_data_passwords "Kayıtlı parolalar">
 <!ENTITY pref_private_data_cache "Önbellek">
 <!ENTITY pref_private_data_sessions "Etkin oturumlar">
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
 <!ENTITY pref_private_data_siteSettings "Site tercihleri">
-<!ENTITY pref_search_suggestions "Arama önerilerini göster">
 
 <!ENTITY quit "Çık">
 
 <!ENTITY addons "Eklentiler">
 <!ENTITY downloads "İndirilenler">
+<!ENTITY apps "Uygulamalar">
 <!ENTITY char_encoding "Karakter kodlaması">
 
 <!ENTITY share "Paylaş">
 <!ENTITY share_title "Paylaş">
+<!ENTITY share_image_failed "Bu resim paylaşılamadı">
 <!ENTITY save_as_pdf "PDF olarak kaydet">
 <!ENTITY find_in_page "Sayfada bul">
 <!ENTITY desktop_mode "Masaüstü sitesini iste">
@@ -139,9 +143,10 @@
 <!ENTITY site_settings_clear        "Temizle">
 <!ENTITY site_settings_no_settings  "Temizlenecek ayar yok.">
 
-<!ENTITY add_to_reading_list "Okuma listesine ekle">
+<!ENTITY reading_list "Okuma Listesi">
 <!ENTITY reading_list_added "Sayfa, okuma listenize eklendi">
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
+<!ENTITY reading_list_failed "Sayfa, Okuma Listenize eklenemedi">
 <!ENTITY reader_mode "Okuyucu kipi">
 
 <!ENTITY masterpassword_create_title "Ana parola oluştur">
@@ -183,11 +188,14 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "İşleten:">
 
+<!ENTITY private_data_success "Özel veriler temizlendi">
+<!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
+
 <!ENTITY bookmarkhistory_button_import "İçe aktar">
 <!ENTITY bookmarkhistory_import_both "Android\'den yer imleri ve geçmiş alınıyor">
 <!ENTITY bookmarkhistory_import_bookmarks "Android\'den yer imleri alınıyor">
 <!ENTITY bookmarkhistory_import_history "Android\'den geçmiş alınıyor">
 <!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
 
-<!ENTITY private_data_success "Özel veriler temizlendi">
-<!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
+<!ENTITY webapp_generic_name "Uygulama">
+
