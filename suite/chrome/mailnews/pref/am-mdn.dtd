@@ -4,7 +4,9 @@
 
 <!ENTITY pane.title "Potvrzení o přečtení">
 <!ENTITY useGlobalPrefs.label "Použít pro tento účet globální nastavení potvrzení o přečtení">
-<!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY useGlobalPrefs.accesskey "u">
+<!ENTITY globalReceipts.label "Globální nastavení…">
+<!ENTITY globalReceipts.accesskey "G">
 <!ENTITY useCustomPrefs.label "Nastavit vlastní potvrzení o přečtení pro tento účet">
 <!ENTITY useCustomPrefs.accesskey "t">
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
