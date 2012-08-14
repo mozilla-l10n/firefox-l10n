@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Acuses de recibo">
 <!ENTITY useGlobalPrefs.label         "Usar las preferencias globales de acuse de recibo para esta cuenta">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "Preferencias globales…">
+<!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalizar acuse de recibo para esta cuenta">
 <!ENTITY useCustomPrefs.accesskey     "c">
 <!ENTITY requestReceipt.label         "Al enviar mensajes, solicitar siempre un acuse de recibo">
