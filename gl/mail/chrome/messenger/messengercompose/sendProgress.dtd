@@ -1,4 +1,4 @@
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Enviando mensaxes"> 
+<!ENTITY sendDialog.title "Procesando mensaxes">
 <!ENTITY status.label "Estado:">
 <!ENTITY progress.label "Progreso:">
