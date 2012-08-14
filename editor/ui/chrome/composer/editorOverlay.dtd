@@ -133,7 +133,7 @@
 <!ENTITY formatFontColor.label "文字顏色…">
 <!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "表格或儲存格背景顏色..">
-<!ENTITY tableOrCellColor.accesskey "B">
+<!ENTITY tableOrCellColor.accesskey "b">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">

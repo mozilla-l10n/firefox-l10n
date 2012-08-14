@@ -33,7 +33,7 @@
 <!ENTITY fullnameLabel.label "您的大名:">
 <!ENTITY fullnameLabel.accesskey "Y">
 
-<!ENTITY emailLabel.label "Email 位址:">
+<!ENTITY emailLabel.label "電子郵件地址:">
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Incoming Server page -->

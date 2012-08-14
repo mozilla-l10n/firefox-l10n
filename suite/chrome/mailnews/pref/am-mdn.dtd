@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "收件回執">
 <!ENTITY useGlobalPrefs.label         "使用我的全域收件回執設定">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "全域設定…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "自訂此帳號的收件回執">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "寄送郵件時一律要求收件回執">
