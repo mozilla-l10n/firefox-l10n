@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Yeniden dene'>
 <!ENTITY sync.button.manual.label 'Elle kurulum'>
 <!ENTITY sync.subtitle.nointernet.label 'İnternet bağlantısı yok.'>
+<!ENTITY sync.subtitle.failaccount.label 'Aygıtınızda hesap oluşturma başarısız oldu.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Birden fazla Firefox kurulumunuz mu var? Şimdilik &syncBrand.fullName.label; aynı anda tek bir Firefox kurulumunu destekliyor. &syncBrand.shortName.label;\u0027ı kullanmak için lütfen diğer kurulumları kaldırın.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Kurulum tamamlandı'>
@@ -78,5 +80,16 @@
 <!ENTITY sync.notification.oneaccount.label 'Yalnızca bir &syncBrand.fullName.label; hesabı kurabilirsiniz.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Yanlış hesap adı veya parola.'>
+<!ENTITY sync.invalidserver.label 'Lütfen geçerli bir sunucu adresi girin'>
+<!ENTITY sync.verifying.label 'Doğrulanıyor…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Kurtarma anahtarı yanlış. Lütfen tekrar deneyin.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Sekmeyi aygıtlara gönder'>
+<!ENTITY sync.button.send.label 'Gönder'>
+<!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label;\u0027i kur'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Sekme göndermek için &syncBrand.shortName.label;\u0027i kurun'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Diğer aygıtlara sekme göndermek için aygıtınızda &syncBrand.fullName.label;\u0027i kurun.'>
+<!ENTITY sync.text.tab.sent.label 'Sekmeniz gönderildi!'>
 

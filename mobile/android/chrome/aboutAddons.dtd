@@ -9,5 +9,5 @@
 <!ENTITY addonAction.enable                     "Etkinleştir">
 <!ENTITY addonAction.disable                    "Devre dışı bırak">
 <!ENTITY addonAction.uninstall                  "Kaldır">
-<!ENTITY addonAction.cancel                     "Vazgeç">
+<!ENTITY addonAction.undo                       "Geri al">
 
