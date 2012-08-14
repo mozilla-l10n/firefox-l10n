@@ -40,12 +40,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Konfiguracja zakończona'>
-<!ENTITY sync.subtitle.success.label 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem.'>
+<!ENTITY sync.subtitle.success.label1 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem, albo uruchom &brandShortName; i zacznij przeglądać Sieć.'>
 <!ENTITY sync.settings.label 'Ustawienia'>
-<!ENTITY sync.subtitle.manage.label 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać.'>
+<!ENTITY sync.subtitle.manage.label1 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać, albo uruchom program &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
+<!ENTITY sync.pair.connectlocation.label 'Aby aktywować nowe urządzenie, wybierz „Skonfiguruj &syncBrand.shortName.label;” na urządzeniu, a następnie wybierz „Mam konto”. '>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Ustawienia'>
@@ -67,6 +68,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Zakładki nieposortowane'>
 <!ENTITY bookmarks.folder.desktop.label 'Zakładki z komputera'>
 <!ENTITY bookmarks.folder.mobile.label 'Zakładki z telefonu'>
+<!ENTITY bookmarks.folder.readinglist.label 'Lista „do przeczytania”'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Można używać tylko jednego konta &syncBrand.fullName.label; naraz.'>
