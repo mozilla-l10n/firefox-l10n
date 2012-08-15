@@ -37,7 +37,8 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "Jūs esat izvēlējies atvērt">
+
+<!ENTITY intro2.label "Jūs esat izvēlējies atvērt:">
 <!ENTITY from.label "no:">
 <!ENTITY actionQuestion.label "Ko &brandShortName; vajadzētu darīt ar šo failu?">
 
