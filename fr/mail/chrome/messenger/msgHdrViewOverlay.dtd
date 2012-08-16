@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Imprimer…">
 <!ENTITY otherActionsPrint1.accesskey "m">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Afficher par défaut le panneau des pièces jointes">
+<!ENTITY startExpandedCmd.accesskey    "A">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Ouvrir">
 <!ENTITY openAttachmentCmd.accesskey "O">
