@@ -5,6 +5,8 @@
 <!ENTITY pane.title "Уведомления о прочтении">
 <!ENTITY useGlobalPrefs.label "Использовать глобальные настройки уведомлений о прочтении">
 <!ENTITY useGlobalPrefs.accesskey "л">
+<!ENTITY globalReceipts.label "Глобальные настройки…">
+<!ENTITY globalReceipts.accesskey "б">
 <!ENTITY useCustomPrefs.label "Настроить использование уведомлений о прочтении">
 <!ENTITY useCustomPrefs.accesskey "а">
 <!ENTITY requestReceipt.label "Всегда запрашивать уведомление о прочтении при отправке сообщений">

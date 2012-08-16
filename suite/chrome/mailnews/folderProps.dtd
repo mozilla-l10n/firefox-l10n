@@ -55,3 +55,7 @@
 <!ENTITY folderQuotaRoot.label "Квота:">
 <!ENTITY folderQuotaUsage.label "Использовано:">
 <!ENTITY folderQuotaStatus.label "Состояние:">
+<!ENTITY numberOfMessages.label "Число сообщений:">
+<!ENTITY numberUnknown.label "неизвестно">
+<!ENTITY sizeOnDisk.label "Размер на диске:">
+<!ENTITY sizeUnknown.label "неизвестен">
