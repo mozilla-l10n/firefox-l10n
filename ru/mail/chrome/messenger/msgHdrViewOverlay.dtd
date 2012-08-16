@@ -63,6 +63,8 @@
 <!ENTITY viewSourceMenuItem1.accesskey "а">
 <!ENTITY otherActionsPrint1.label "Распечатать…">
 <!ENTITY otherActionsPrint1.accesskey "п">
+<!ENTITY startExpandedCmd.label "Сначала показать панель вложений">
+<!ENTITY startExpandedCmd.accesskey "л">
 <!ENTITY openAttachmentCmd.label "Открыть">
 <!ENTITY openAttachmentCmd.accesskey "к">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
