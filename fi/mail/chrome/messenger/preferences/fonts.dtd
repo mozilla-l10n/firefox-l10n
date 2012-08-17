@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Kirjasinlajit ja merkistökoodaukset">
 <!ENTITY  window.width                             "46em">
 <!ENTITY  window.macWidth                          "46em">
@@ -31,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                    "Balttilainen">
 <!ENTITY  font.langGroup.el                        "Kreikkalainen">
 <!ENTITY  font.langGroup.turkish                   "Turkkilainen">
-<!ENTITY  font.langGroup.unicode                   "Muut kielet">
+<!ENTITY  font.langGroup.unicode1                  "Unicode">
 <!ENTITY  font.langGroup.user-def                  "Käyttäjän määrittelemä">
 <!ENTITY  font.langGroup.thai                      "Thaimaalainen">
 <!ENTITY  font.langGroup.hebrew                    "Heprealainen">

@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Lue lisää lähetyistä tiedoista">
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
+
+<!ENTITY scrolling.label               "Vieritys">
+<!ENTITY useAutoScroll.label           "Vieritä sivua automaattisesti">
+<!ENTITY useAutoScroll.accesskey       "V">
+<!ENTITY useSmoothScrolling.label      "Vieritä sivua portaattomasti">
+<!ENTITY useSmoothScrolling.accesskey  "e">
+
 <!ENTITY systemIntegration.label       "Järjestelmään liittäminen">
 <!ENTITY alwaysCheckDefault.label      "Tarkista aina onko &brandShortName; järjestelmän oletussähköpostiohjelma">
 <!ENTITY alwaysCheckDefault.accesskey  "T">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "Yhteydetön tila…">
 <!ENTITY showOffline.accesskey         "h">
 
-<!ENTITY Diskspace "Levytilan käyttö">
-<!ENTITY offlineCompact.label "Tiivistä kansiot aina kun se säästää yli">
-<!ENTITY offlineCompact.accesskey "T">
-<!ENTITY mb.label "Mt">
+<!ENTITY Diskspace 			"Levytilan käyttö">
+<!ENTITY offlineCompactFolders.label     "Tiivistä kansiot kun se säästää yhteensä yli">
+<!ENTITY offlineCompactFolders.accesskey "T">
+<!ENTITY offlineCompactFoldersMB.label   "Mt">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
