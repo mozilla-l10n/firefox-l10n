@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label     "Nome:">
 <!ENTITY calendarproperties.readonly.label "Apenas de leitura">
 <!ENTITY calendarproperties.firealarms.label "Mostrar Alarmes">
-<!ENTITY calendarproperties.cache2.label    "Cache (EXPERIMENTAL, necessita reinício)">
+<!ENTITY calendarproperties.cache3.label    "Suporte no modo desligado">
 <!ENTITY calendarproperties.enabled.label "Activar este calendário">
 <!ENTITY calendarproperties.forceDisabled.label            "O fornecedor deste calendário não foi encontrado. Isto acontece se desactivou ou desinstalou determinados extras.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar subscrição">
