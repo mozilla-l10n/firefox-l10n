@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Tipos de Letra e Codificações">
 <!ENTITY  window.width                            "55em">
 <!ENTITY  window.macWidth                         "46em">
@@ -31,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
 <!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode                  "Unicode">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Definido pelo utilizador">
 <!ENTITY  font.langGroup.thai                     "Tailandês">
 <!ENTITY  font.langGroup.hebrew                   "Hebraico">
