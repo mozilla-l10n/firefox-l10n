@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "p">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "De início mostrar painel de anexos">
+<!ENTITY startExpandedCmd.accesskey    "s">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "A">
