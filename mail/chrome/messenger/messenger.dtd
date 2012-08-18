@@ -740,3 +740,5 @@
 <!ENTITY joinChatCmd.accesskey "X">
 <!ENTITY newIMContactCmd.label "Contautos de chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY manageTags.label "Alministrar etiquetes…">
+<!ENTITY manageTags.accesskey "m">
