@@ -302,7 +302,7 @@
 <!ENTITY calendarproperties.name.label                     "Name:">
 <!ENTITY calendarproperties.readonly.label                 "Schreibgeschützt">
 <!ENTITY calendarproperties.firealarms.label               "Erinnerungen anzeigen">
-<!ENTITY calendarproperties.cache2.label                   "Cache">
+<!ENTITY calendarproperties.cache3.label                   "Offline-Unterstützung">
 <!ENTITY calendarproperties.enabled.label                  "Diesen Kalender aktivieren">
 <!ENTITY calendarproperties.forceDisabled.label            "Der Provider für diesen Kalender konnte nicht gefunden werden. Ursache hierfür ist häufig, dass Sie bestimmte Add-ons deaktiviert oder deinstalliert haben.">
 <!ENTITY calendarproperties.unsubscribe.label              "Abbestellen">
