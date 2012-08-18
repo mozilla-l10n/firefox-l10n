@@ -6,7 +6,7 @@
 <!ENTITY sanitizeDialog2.title "Limpiar historial reciente">
 <!ENTITY sanitizeItems.label "Vaciar ahora los siguientes elementos:">
 <!ENTITY clearDataSettings2.label "Cuando salga de &brandShortName;, debería limpiar automáticamente todos los:">
-<!ENTITY clearTimeDuration.label "Intervalo de tiempo a limpiar:">
+<!ENTITY clearTimeDuration.label "Intervalo de tiempo a limpiar: ">
 <!ENTITY clearTimeDuration.accesskey "I">
 <!ENTITY clearTimeDuration.lastHour "La última hora">
 <!ENTITY clearTimeDuration.last2Hours "Las últimas dos horas">
