@@ -1,6 +1,6 @@
-
+nv_done=முடிந்தது
 nv_timeout=நேரம் முடிந்தது
-
+nv_stopped=நிறுத்தப்பட்டது
 openFile=கோப்பினை திற
 
 
@@ -144,7 +144,7 @@ privateBrowsingYesTitle=தனிப்பட்ட உலாவுதலை த
 privateBrowsingNoTitle=ரத்து (&C)
 privateBrowsingNeverAsk=&இந்த தகவலை மீண்டும் காட்டாதே
 
-
+geolocation.siteWantsToKnow=%S உங்கள் இடத்தை அறிய வேண்டுமாம்.
 
 # LOCALIZATION NOTE (menuRestoreAllWindows, menuUndoCloseWindowLabel, menuUndoCloseWindowSingleTabLabel):
 # see bug 394759
@@ -167,8 +167,8 @@ sanitizeButtonOK=இப்போது துடை
 # provided that the user has not modified the default set of history items to clear.
 sanitizeEverythingWarning2=அனைத்து வரலாறும் துடைக்கப்படும்.
 
-
-
+geolocation.dontShareLocation=பகிர வேண்டாம்
+geolocation.dontShareLocation.accesskey=o
 # LOCALIZATION NOTE (geolocation.learnMore): Use the unicode ellipsis char, \u2026,
 # or use "..." if \u2026 doesn't suit traditions in your locale.
 geolocation.learnMore=மேலும் கற்க…
@@ -243,11 +243,11 @@ ctrlTab.showAll.label=;அனைத்து #1 தத்தல்களைய�
 extensions.{972ce4c6-7e08-4474-a285-3208198ce6fd}.name=முன்னிருப்பு
 extensions.{972ce4c6-7e08-4474-a285-3208198ce6fd}.description=முன்னிருப்பு தீம்.
 
-
-
-
-
-
+geolocation.alwaysShare=எப்போதும் பகிரவும்
+geolocation.alwaysShare.accesskey=A
+geolocation.neverShare=ஒருபோதும் பகிர வேண்டாம்
+geolocation.neverShare.accesskey=N
+geolocation.fileWantsToKnow=இந்த கோப்பு %S உங்கள் இடத்தை அறிய விரும்புகிறது.
 
 identity.mixed_content=Your connection to this site is only partially encrypted, and does not prevent eavesdropping.
 indexedDB.usage=This website (%1$S) is attempting to store more than %2$S MB of data on your computer for offline use.
@@ -298,7 +298,7 @@ safeModeRestartPromptMessage=அனைத்து கூடுதல் இண�
 sanitizeSelectedWarning=அனைத்து தேர்ந்தெடுக்கப்பட்ட உருப்படிகளும் துடைக்கப்படும்.
 
 # TabView
-
+tabView2.title=%S - உங்கள் தத்தல்களை குழுப்படுத்துவும்
 
 # Check for Updates in the About Dialog - button labels and accesskeys
 # LOCALIZATION NOTE - all of the following update buttons labels will only be
@@ -312,51 +312,12 @@ update.resumeButton.label=%S-ஐ பதிவிறக்கத்தை தொ�
 update.resumeButton.accesskey=D
 update.openUpdateUI.applyButton.label=புதுப்பித்தலை செயல்படுத்து…
 update.openUpdateUI.applyButton.accesskey=A
-
-
+update.restart.applyButton.label=புதுப்பித்தலை செயல்படுத்து
+update.restart.applyButton.accesskey=A
 update.openUpdateUI.upgradeButton.label=இப்போது மேம்படுத்து…
 update.openUpdateUI.upgradeButton.accesskey=U
 update.restart.upgradeButton.label=இப்போது மேம்படுத்து
 update.restart.upgradeButton.accesskey=U
-
+carbonFailurePluginsMessage.title=இந்தப் பக்கம் 32-பிட் முறைமையில் இயங்கும் ஒரு கூடுதல் இணைப்பு தேவைப்படுகிறது
 carbonFailurePluginsMessage.restartButton.label=32-பிட் முறைமையில் மறுதுவக்கு
 carbonFailurePluginsMessage.restartButton.accesskey=R
-activatePluginsMessage.accesskey=A
-activatePluginsMessage.always=இந்த தளத்திற்கு எப்போதும் செருகுநிரல்களை செயல்படுத்து
-activatePluginsMessage.always.accesskey=c
-activatePluginsMessage.label=செருகுநிரல்களை செயல்படுத்து
-activatePluginsMessage.message=இந்த தளத்தில் செருகுநிரல்களைச் செயல்படுத்த விரும்புகிறீர்களா?
-activatePluginsMessage.never=இந்த தளத்திற்கு ஒரு போதும் செருகுநிரல்களைச் செயல்படுத்த வேண்டாம்
-activatePluginsMessage.never.accesskey=N
-carbonFailurePluginsMessage.message=இந்தப் பக்கம் 32 பிட் பயன்முறையில் மட்டுமே இயங்கக்கூடிய ஒரு செருகுநிரலைப் பயன்படுத்தக் கேட்கிறது
-fullscreen.entered=இப்போது %S முழுத் திரையில் உள்ளது.
-fullscreen.rememberDecision=%S க்கான விருப்பத்தை நினைவில் வைத்துக்கொள்
-geolocation.alwaysShareLocation=எப்போதும் இருப்பிடத்தைச் சேமி
-geolocation.alwaysShareLocation.accesskey=A
-geolocation.neverShareLocation=ஒருபோதும் இருப்பிடத்தைப் பகிர வேண்டாம்
-geolocation.neverShareLocation.accesskey=N
-geolocation.shareWithFile=%S கோப்புடன் உங்கள் இருப்பிடத்தைப் பகிர்ந்துகொள்ள விரும்புகிறீர்களா?
-geolocation.shareWithSite=%S உடன் உங்கள் இருப்பிடத்தைப் பகிர்ந்துகொள்ள விரும்புகிறீர்களா??
-safeModeRestartButton=மறுதொடக்கம் செய்
-social.pageShared.label=பக்கம் பகிரப்பட்டது
-social.shareButton.sharedtooltip=நீங்கள் இதைப் பகிர்ந்தீர்கள்
-social.shareButton.tooltip=இதைப் பகிர்
-syncPromoNotification.bookmarks.description=%S ஐக் கொண்டு உங்கள் சாதனங்கள் அனைத்திலும் உங்கள் புத்தகக்குறிகளை நீங்கள் அணுகலாம்.\u0020
-syncPromoNotification.learnMoreLinkText=மேலும் அறிக
-syncPromoNotification.passwords.description=%S ஐக் கொண்டு உங்கள் சாதனங்கள் அனைத்திலும் உங்கள் கடவுச்சொற்களை நீங்கள் அணுகலாம்.\u0020
-tabview.moveToUnnamedGroup.label=#1 மற்றும் மேலும் 1;#1 மற்றும் மேலும் #2
-tabview.title=%S - உங்கள் தாவல்களைக் குழுப்படுத்துக
-telemetryLinkLabel = மேலும் அறிக
-telemetryNoButtonAccessKey = N
-telemetryNoButtonLabel = இல்லை
-telemetryOptInPrompt = %1$S ஐ இன்னும் மேம்படுத்த, செயல்திறன், வன்பொருள், பயன்பாடு மற்றும் தனிப்பயனாக்கம் ஆகியவை பற்றிய தகவலை %2$S க்கு அனுப்ப விரும்புகிறீர்களா?
-telemetryOptOutPrompt = %3$S ஐ இன்னும் மேம்படுத்த உதவியாக %1$S செயல்திறன், வன்பொருள், பயன்பாடு மற்றும் தனிப்பயனாக்கம் ஆகியவை பற்றிய தகவலை %2$S க்கு அனுப்பும்.
-telemetryYesButtonAccessKey = Y
-telemetryYesButtonLabel2 = ஆம், உதவ விரும்புகிறேன்
-update.restart.updateButton.accesskey=R
-update.restart.updateButton.label=புதுப்பிக்க மறுதொடக்கம் செய்யவும்
-webapps.install = நிறுவு
-webapps.install.accesskey = I
-webapps.install.success = பயன்பாடு நிறுவப்பட்டது
-webapps.requestInstall = இந்த தளத்திலிருந்து (%2$S) "%1$S" ஐ நிறுவ விரும்புகிறீர்களா?
-
