@@ -63,6 +63,8 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "I">
+<!ENTITY startExpandedCmd.label "Al abrir, mostrar el panel de adjuntos">
+<!ENTITY startExpandedCmd.accesskey "b">
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "b">
 <!ENTITY saveAsAttachmentCmd.label "Guardar como…">
