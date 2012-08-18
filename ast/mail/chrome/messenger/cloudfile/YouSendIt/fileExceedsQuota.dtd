@@ -1,0 +1,8 @@
+<!ENTITY fileExceedsQuota.title "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached "Algamóse'l llímite d'almacenamientu">
+<!ENTITY fileExceedsQuota.accept "Anovar">
+<!ENTITY fileExceedsQuota.cancel "Encaboxar">
+<!ENTITY fileExceedsQuota.description "Algamóse'l llímite d'almacenamientu de la to cuenta de 2 GB.">
+<!ENTITY fileExceedsQuota.description1 "L'usu d'almacenamientu actual ye #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Anova güei a una cuenta Pro Plus y consigui más almacenamientu.">
+<!ENTITY fileExceedsQuota.description3 "Tamién pues escoyer desaniciar ficheros na to cuenta pa facer más espaciu.">
