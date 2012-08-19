@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Tisknout">
 <!ENTITY otherActionsPrint1.accesskey "T">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label "Zobrazovat panel příloh">
+<!ENTITY startExpandedCmd.accesskey "Z">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Otevřít">
 <!ENTITY openAttachmentCmd.accesskey "O">
