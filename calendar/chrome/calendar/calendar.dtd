@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label "Název:">
 <!ENTITY calendarproperties.readonly.label "Pouze ke čtení">
 <!ENTITY calendarproperties.firealarms.label "Zobrazovat upozornění">
-<!ENTITY calendarproperties.cache2.label "Mezipaměť">
+<!ENTITY calendarproperties.cache3.label "Podpora režimu offline">
 <!ENTITY calendarproperties.enabled.label "Zapnout kalendář">
 <!ENTITY calendarproperties.forceDisabled.label "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
 <!ENTITY calendarproperties.unsubscribe.label "Neodebírat">
