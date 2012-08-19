@@ -26,7 +26,7 @@
 <!ENTITY font.langGroup.baltic "Bálticu">
 <!ENTITY font.langGroup.el "Griegu">
 <!ENTITY font.langGroup.turkish "Turcu">
-<!ENTITY font.langGroup.unicode "Otres llingües">
+<!ENTITY font.langGroup.unicode1 "Unicode">
 <!ENTITY font.langGroup.user-def "Definío pol usuariu">
 <!ENTITY font.langGroup.thai "Tailandés">
 <!ENTITY font.langGroup.hebrew "Hebréu">
