@@ -67,4 +67,4 @@
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">
 <!ENTITY filter.label        "Filtru">
-24 <!ENTITY filter.accesskey "F">
+<!ENTITY filter.accesskey    "F">
