@@ -64,9 +64,6 @@
 <!ENTITY showOffline.label "Ensin conexón…">
 <!ENTITY showOffline.accesskey "S">
 <!ENTITY Diskspace "Espaciu en discu">
-<!ENTITY offlineCompact.label "Compautar carpetes si s'aforra más de">
-<!ENTITY offlineCompact.accesskey "o">
-<!ENTITY mb.label "MB">
 <!ENTITY useCacheBefore.label "Usar hasta">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB d'espaciu pa la caché">
@@ -87,3 +84,11 @@
 <!ENTITY viewSecurityDevices.accesskey "P">
 <!ENTITY useService.label "Usar un serviciu en segundu planu pa instalar anovamientos">
 <!ENTITY useService.accesskey "v">
+<!ENTITY offlineCompactFolders.label "Compautar toles carpetes cuando s'aforren más de">
+<!ENTITY offlineCompactFolders.accesskey "C">
+<!ENTITY offlineCompactFoldersMB.label "MB en total">
+<!ENTITY scrolling.label "Desplazamientu">
+<!ENTITY useAutoScroll.label "Usar desplazamientu automáticu">
+<!ENTITY useAutoScroll.accesskey "U">
+<!ENTITY useSmoothScrolling.label "Usar desplazamientu suave">
+<!ENTITY useSmoothScrolling.accesskey "d">
