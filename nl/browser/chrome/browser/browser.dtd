@@ -238,6 +238,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Ontwikkelaarswerkbalk sluiten">
 <!ENTITY devToolbarMenu.label 		   "Ontwikkelaarswerkbalk">
+<!ENTITY devToolbarMenu.accesskey          "O">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY webConsoleButton.label "Webconsole">
 <!ENTITY inspectorButton.label "Inspector">
