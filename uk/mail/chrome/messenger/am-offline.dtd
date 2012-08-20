@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Щоб зекономити місце на диску, не завантажувати:">
 <!ENTITY doNotDownloadNntp.label "Щоб зекономити місце на диску, не завантажувати для роботи в автономному режимі:">
 <!ENTITY doNotDownloadImap.label "Щоб зекономити місце на диску, на завантаження листів з сервера та зберігання локальних копій може бути накладене обмеження за віком та розміром.">
