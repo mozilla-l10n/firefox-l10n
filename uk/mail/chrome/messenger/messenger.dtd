@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " — ">
 
@@ -26,8 +30,10 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "З">
 <!ENTITY newExistingEmailAccountCmd.label "Існуюча скринька…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
-<!ENTITY newIMAccountCmd.label "Chat Account…">
-<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMAccountCmd.label "Чатовий запис…">
+<!ENTITY newIMAccountCmd.accesskey "Ч">
+<!ENTITY newIMContactCmd.label "Чатовий контакт…">
+<!ENTITY newIMContactCmd.accesskey "к">
 <!ENTITY openMessageFileCmd.label "Відкрити збережений лист…">
 <!ENTITY openMessageFileCmd.accesskey "з">
 <!ENTITY openAttachmentCmd.label "Вкладення">
@@ -479,6 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Unavailable">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Show Accounts…">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Збережені файли">
 <!ENTITY savedFiles.accesskey "З">
 <!ENTITY savedFiles.key "j">
@@ -774,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "і">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Спам">
+<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
 <!ENTITY junkBarButton1.label "Не спам">
 <!ENTITY junkInfoButton.label "?">
 
