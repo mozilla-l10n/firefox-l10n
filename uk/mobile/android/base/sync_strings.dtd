@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -40,12 +44,13 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Налаштування завершено'>
-<!ENTITY sync.subtitle.success.label 'Ваші дані завантажуються походу. Ви можете зайти в Настройки щоб керувати вашим акаунтом.'>
+<!ENTITY sync.subtitle.success.label1 'Ваші дані завантажуються походу. Ви можете зайти в Настройки щоб керувати вашим акаунтом, чи почати перегляд з &brandShortName;.'>
 <!ENTITY sync.settings.label 'Настройки'>
-<!ENTITY sync.subtitle.manage.label 'Ваш акаунт &syncBrand.fullName.label; вже налаштовано. Перейдіть в Настройки щоб керувати вашим акаунтом.'>
+<!ENTITY sync.subtitle.manage.label1 'Ваш акаунт &syncBrand.fullName.label; вже налаштовано. Ви можете зайти в Настройки щоб керувати вашим акаунтом, чи запустити &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Спробуйте ще раз.'>
+<!ENTITY sync.pair.connectlocation.label 'Щоб активувати ваш новий пристрій, виберіть «Налаштувати &syncBrand.shortName.label;» на пристрої і потів виберіть “Я вже маю акаунт.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Настройки'>
@@ -67,6 +72,7 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Несортовані закладки'>
 <!ENTITY bookmarks.folder.desktop.label 'Закладки стільниці'>
 <!ENTITY bookmarks.folder.mobile.label 'Мобільні закладки'>
+<!ENTITY bookmarks.folder.readinglist.label 'Список читання'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Підтримується лише один акаунт &syncBrand.fullName.label;.'>
