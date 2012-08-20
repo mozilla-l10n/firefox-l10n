@@ -5,6 +5,8 @@
 <!ENTITY pane.title               "Potwierdzenia doręczenia wiadomości">
 <!ENTITY useGlobalPrefs.label     "Użyj globalnych ustawień potwierdzenia doręczenia wiadomości dla tego konta">
 <!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY globalReceipts.label "Ustawienia globalne…">
+<!ENTITY globalReceipts.accesskey "a">
 <!ENTITY useCustomPrefs.label     "Dostosuj ustawienia potwierdzenia doręczenia wiadomości dla tego konta">
 <!ENTITY useCustomPrefs.accesskey "c">
 <!ENTITY requestReceipt.label     "Zawsze żądaj potwierdzeń doręczenia wysyłanych wiadomości">
