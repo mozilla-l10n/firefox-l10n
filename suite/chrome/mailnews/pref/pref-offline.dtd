@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
@@ -29,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "segundos">
 <!ENTITY Diskspace                        "Espaço em Disco">
-<!ENTITY offlineCompact.label             "Compactar pastas quando poupar mais de">
-<!ENTITY offlineCompact.accesskey         "C">
-<!ENTITY mb.label                         "MB">
+<!ENTITY offlineCompactFolders.label      "Compactar todas as pastas quando poupar mais de">
+<!ENTITY offlineCompactFolders.accesskey  "C">
+<!ENTITY offlineCompactFolders.label      "total em MB">
