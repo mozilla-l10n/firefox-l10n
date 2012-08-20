@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  prefWindow.titleWin     "Налаштування">
 <!ENTITY  prefWindow.titleGNOME   "Налаштування &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 41em;">
@@ -7,7 +11,7 @@
 <!ENTITY paneGeneral.title        "Основні">
 <!ENTITY paneDisplay.title        "Відображення">
 <!ENTITY paneComposition.title    "Створення">
-<!ENTITY paneChat.title           "Chat">
+<!ENTITY paneChat.title           "Чат">
 <!ENTITY paneAttachments.title    "Вкладення">
 <!ENTITY paneSecurity.title       "Безпека">
 <!ENTITY paneAdvanced.title       "Додатково">
