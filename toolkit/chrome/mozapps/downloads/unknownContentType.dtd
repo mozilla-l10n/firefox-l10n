@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "Escoyó abrir">
+<!ENTITY  intro2.label                "Escoyisti abrir:">
 <!ENTITY  from.label                  "de:">
 <!ENTITY  actionQuestion.label        "¿Qué tendría de facer &brandShortName; con esti ficheru?">
 
