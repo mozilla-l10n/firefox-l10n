@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Persediaan">
 
 <!-- First page of the wizard -->
 
@@ -48,7 +48,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Untuk menjamin privasi anda, semua data anda akan disulitkan sebelum dimuat naik. Kunci pemulihan diperlukan untuk menyahsulitkan data anda yang tidak dimuat naikkan lagi.">
 <!ENTITY recoveryKeyEntry.label        "Kekunci pemulihan anda">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
+<!ENTITY syncGenerateNewKey.label  "Menghasilkan kunci yang baru">
 <!ENTITY recoveryKeyBackup.description "kunci pemulihan anda diperlukan untuk mengakses &syncBrand.fullName.label; pada alat lain. sila buat salinan backup. kami tidak dapat membantu anda mendapatkan kunci pemulihan anda kembali.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Cetak...">

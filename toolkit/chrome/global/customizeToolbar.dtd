@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title             "Customize Toolbar">
+<!ENTITY dialog.title             "Peyesuaian Bar alat">
 <!ENTITY dialog.dimensions        "lebar: 92ch; tinggi: 36em;">
 <!ENTITY instructions.description "Anda boleh tambah atau singkir item dengan heret ke atau daripada bar alat.">
 <!ENTITY show.label               "Tunjuk:">

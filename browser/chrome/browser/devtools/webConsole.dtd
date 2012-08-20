@@ -8,7 +8,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY networkPanel.requestURL                  "Request URL">
+<!ENTITY networkPanel.requestURL                  "URL permintaan">
 <!ENTITY networkPanel.requestMethod               "Permintaan Kaedah">
 <!ENTITY networkPanel.statusCode                  "Kod Status">
 

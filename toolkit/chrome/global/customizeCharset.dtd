@@ -3,7 +3,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title.label        "Customize Character Encoding">
+<!ENTITY title.label        "Penyesuaian Pengkodan Aksara">
 <!ENTITY current.label      "Pengkodan Aksara Aktif:">
 <!ENTITY remove.label       "Singkir">
 <!ENTITY remove.accessKey   "R">

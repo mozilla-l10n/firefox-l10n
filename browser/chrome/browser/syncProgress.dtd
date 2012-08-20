@@ -7,7 +7,7 @@
     %brandDTD;
 
 <!-- These strings are used in the sync progress upload page -->
-<!ENTITY syncProgress.pageTitle    "Your First Sync">
+<!ENTITY syncProgress.pageTitle    "Sync Pertama Anda">
 <!ENTITY syncProgress.textBlurb    "Data anda sekarang sedang dienkrip dan dimuatnaik dalam latar belakang. Anda boleh menutup tab ini dan sambung menggunakan &brandShortName; semula.">
 <!ENTITY syncProgress.closeButton  "Tutup">
 <!ENTITY syncProgress.logoAltText  "&brandShortName; logo">

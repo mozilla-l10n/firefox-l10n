@@ -4,7 +4,7 @@
 
 <!-- extracted from printdialog.xul -->
 
-<!ENTITY printButton.label "Print">
+<!ENTITY printButton.label "Cetak">
 
 <!ENTITY printDialog.title "Cetak">
 

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  connectionsDialog.title       "Connection Settings">
+<!ENTITY  connectionsDialog.title       "Tetapan Sambungan">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 

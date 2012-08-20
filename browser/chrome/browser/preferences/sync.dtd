@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Tubuhkan &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; membenarkan anda mengakses sejarah layaran, bookmarks, kata laluan dan tab terbuka dalam semua alat.">
 

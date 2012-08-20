@@ -4,7 +4,7 @@
 
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Printer Properties">
+<!ENTITY printJobOptions.title "Ciri Pencetak">
 
 <!ENTITY paperInput.label "Saiz kertas:">
 <!ENTITY paperInput.accesskey "P">

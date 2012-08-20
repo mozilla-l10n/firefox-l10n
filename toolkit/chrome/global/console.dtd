@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY errorConsole.title "Error Console">
+<!ENTITY errorConsole.title "Masalah Konsol">
 
 <!ENTITY errFile.label   "Fail Sumber:">
 <!ENTITY errLine.label   "Baris:">
@@ -22,6 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Menilai">
 <!ENTITY evaluate.accesskey "v">
+<!ENTITY filter.label       "Penapis">
+<!ENTITY filter.accesskey   "F">
 
 <!ENTITY copyCmd.label       "Salin">  
 <!ENTITY copyCmd.accesskey   "C"> 

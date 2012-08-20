@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "Import Bestari">
 
 <!ENTITY importFrom.label               "Import Pilihan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">
 <!ENTITY importFromUnix.label           "Import Keutamaan, Tandabuku, Sejarah, Kata laluan dan lain-lain data dari:">

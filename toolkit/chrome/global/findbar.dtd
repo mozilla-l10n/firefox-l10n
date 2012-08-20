@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 <!-- entities split out from browser.dtd -->
-<!ENTITY next.label "Next">
+<!ENTITY next.label "seterusnya">
 <!ENTITY next.accesskey "n">
 <!ENTITY next.tooltip "Cari teks frasa berkenaan yang berikut">
 <!ENTITY previous.label "Terdahulu">

@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newprofile.title             "Create Profile Wizard">
-<!ENTITY window.size                  "width: 45em; height: 32em;">
+<!ENTITY newprofile.title             "Wizard Mencipta Profil ">
+<!ENTITY window.size                  "lebar : 45em; ketinggian : 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; menyimpan maklumat perihal tetapan dan keutamaan anda dalam profil peribadi anda.">
@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "Jika anda mencipta beberapa profil anda boleh panggilnya dengan nama profil. Anda boleh gunakan nama yang disediakan atau gunakan nama yang anda pilih.">
 <!ENTITY profilePrompt.label            "Masukkan nama profil baru:">
 <!ENTITY profilePrompt.accesskey        "E">
-<!ENTITY profileDirectoryExplanation.text   "Your user settings, preferences and other user-related data will be stored in:">
+<!ENTITY profileDirectoryExplanation.text   "Tetapan pengguna anda, pilihan dan lain-lain yang berkaitan dengan data pengguna akan disimpan di dalam:">
 <!ENTITY profileDefaultName             "Pengguna Default">
 <!ENTITY button.choosefolder.label      "Pilih Folder...">
 <!ENTITY button.choosefolder.accesskey  "C">

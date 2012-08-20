@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ocspDialog.title             "Certificate Validation">
+<!ENTITY ocspDialog.title             "Pembuktian">
 <!ENTITY enableOCSP.label             "Guna Protokol Status Sijil Dalam Talian (OCSP) untuk memastikan pengesahan semasa sijil">
 <!ENTITY enableOCSP.accesskey         "u">
 <!ENTITY certOCSP2.label              "Sahkan sijil jika ia menspesifikkan pelayan OCSP">

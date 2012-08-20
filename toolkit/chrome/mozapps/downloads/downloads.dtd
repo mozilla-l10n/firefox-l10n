@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "B">
 <!ENTITY cmd.show.label                   "Buka Folder Berisi">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Show in Finder">
+<!ENTITY cmd.showMac.label                "Tunjuk dalam Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Buka">
 <!ENTITY cmd.open.accesskey               "k">

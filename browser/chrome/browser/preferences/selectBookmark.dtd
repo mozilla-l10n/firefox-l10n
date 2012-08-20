@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY selectBookmark.title
-  "Set Home Page">
+  "Tetapkan laman utama">
 <!ENTITY selectBookmark.label
   "Pilih tandabuku untuk dijadikan laman utama anda. Jika anda memilih folder, tandabuku di dalam folder tersebut akan dibuka dalam Tab-Tab.">
 

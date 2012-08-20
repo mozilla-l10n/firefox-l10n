@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "About &brandFullName;">
+<!ENTITY aboutDialog.title          "Tentang &brandFullName;">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; sedang dieksperimen dan ia masih tidak stabil.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "It automatically sends information about performance, hardware, usage and customizations back to &vendorShortName; to help make &brandShortName; better.">
+<!ENTITY warningDesc.telemetryDesc  "Ia secara automatik menghantar maklumat mengenai prestasi, penggunaan, perkakasan dan penyesuaian dihantar kepada &vendorShortName; untuk membantu &brandShortName; buat yang lebih baik.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -72,7 +72,7 @@
 <!ENTITY update.downloading.start   "Memuat turun kemas kini — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Applying update…">
+<!ENTITY update.applying            "Memohon kemas kini ...">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.

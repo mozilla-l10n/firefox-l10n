@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  validation.crlmanager.label             "Manage CRLs">
+<!ENTITY  validation.crlmanager.label             "Urus CRLs">
 <!ENTITY  validation.crlmanager.description       "Certificate Revocation Lists (CRL) telah disimpan dalam database sijil anda. ">
 <!ENTITY  validation.crlname.label                "Nama">
 <!ENTITY  validation.crllastupdate.label          "Pengemaskinian terakhir">
@@ -29,7 +29,7 @@
 <!ENTITY  crl.issuer.org.label                    "Organisasi :">
 <!ENTITY  crl.issuer.orgunit.label                "Unit: ">
 <!ENTITY  crl.import.nextupdate.label             "Kemaskini Seterusnya Pada: ">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Kegagalan Kemaskini Berturut-turut sebelumnya:">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Perincian mengenai Kegagalan Kemaskini Terakhir :">
 <!ENTITY  edit.button                             "Tetapan">
 

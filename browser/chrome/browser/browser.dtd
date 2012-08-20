@@ -83,9 +83,9 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY enterFullScreenCmd.label "Masukkan Skrin penuh">
+<!ENTITY enterFullScreenCmd.accesskey "f">
+<!ENTITY exitFullScreenCmd.label "Keluar dari Muka Penuh">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Skrin Penuh">
 <!ENTITY fullScreenCmd.accesskey "P">
@@ -100,12 +100,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar Mod Skrin Penuh">
 <!ENTITY fullScreenExit.accesskey "K">
-<!ENTITY fullscreenAllowButton.label "Allow">
-<!ENTITY fullscreenExitButton.label "Deny">
-<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+<!ENTITY fullscreenAllowButton.label "Benarkan">
+<!ENTITY fullscreenExitButton.label "Nafikan">
+<!ENTITY fullscreenApproval.value "membenarkan skrin penuh?">
 
-<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
-<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+<!ENTITY fullscreenExitHint.value "Tekan ESC pada bila-bila masa untuk keluar dari skrin penuh.">
+<!ENTITY leaveDOMFullScreen.label "Keluar dari Muka Penuh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Tutup Tetingkap">
@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "T">
 <!ENTITY bookmarkThisPageCmd.label "Penandabuku Laman Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini">
 <!ENTITY addCurPagesCmd.label "Tanda semua tab">
@@ -214,9 +215,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Pemeriksaan elemen">
 <!ENTITY inspectContextMenu.accesskey "P">
 
-<!ENTITY responsiveUI.label            "Responsive Mode">
-<!ENTITY responsiveUI.accesskey        "R">
-<!ENTITY responsiveUI.commandkey       "R">
+<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -235,14 +236,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectCloseButton.tooltiptext "tutup pemeriksa">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
+<!ENTITY devToolbarCloseButton.tooltiptext "Tutup Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
-<!ENTITY webConsoleButton.label "Web Console">
+<!ENTITY webConsoleButton.label "Konsol Web">
 <!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Salin Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "C">
@@ -257,12 +258,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
   -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
+<!ENTITY inspectOptionButton.tooltiptext    "Inspektor Pilihan">
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Dim The Page">
+<!ENTITY inspectorToggleVeil.label          "Malap Halaman">
 <!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "Show Node Info">
+<!ENTITY inspectorToggleInfobar.label       "Tunjukkan Maklumat Nod">
 <!ENTITY inspectorToggleInfobar.accesskey   "T">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
@@ -322,7 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY clearRecentHistory.accesskey           "B">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Start Private Browsing">
+<!ENTITY privateBrowsingCmd.start.label         "Mulakan Pelayaran Peribadi">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "Berhenti Melungsur Secara Peribadi">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
@@ -355,7 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuEdit.label "ubahsuai">
 <!ENTITY appMenuCustomize.label "Pengubahsuaian">
 <!ENTITY appMenuToolbarLayout.label "Bentangan Bar Alatan ">
-<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuSidebars.label "Bar sebelah">
 <!ENTITY appMenuFind.label "Cari">
 <!ENTITY appMenuUnsorted.label "Tidak isihan penandabuku">
 <!ENTITY appMenuWebDeveloper.label "Pembangun Web">
@@ -440,8 +441,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Tanda Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "T">
-<!ENTITY sendPageCmd.label            "Hantar Pautan...">
-<!ENTITY sendPageCmd.accesskey        "P">
+<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Simpan Halaman Sebagai...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -453,20 +454,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "C">
 <!ENTITY saveLinkCmd.label            "Simpan Pautan Sebagai...">
 <!ENTITY saveLinkCmd.accesskey        "P">
-<!ENTITY sendLinkCmd.label            "Hantar Pautan..."> 
-<!ENTITY sendLinkCmd.accesskey        "P">
 <!ENTITY saveImageCmd.label           "Simpan Imej Sebagai...">
 <!ENTITY saveImageCmd.accesskey       "I">
 <!ENTITY saveVideoCmd.label           "Simpan Video Sebagai...">
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Simpan Audio Sebagai...">
 <!ENTITY saveAudioCmd.accesskey       "S">
-<!ENTITY sendImageCmd.label           "Hantar Imej...">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Hantar Video...">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Hantar Audio...">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Salin Lokasi Pautan">
 <!ENTITY copyLinkCmd.accesskey        "S">
 <!ENTITY copyImageCmd.label           "Salin Lokasi Imej">
@@ -655,4 +654,12 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label   "Not logged in">
+
+<!ENTITY social.sharePopup.undo.label     "Unshare">
+<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.ok.label       "OK">
+<!ENTITY social.sharePopup.ok.accesskey   "O">
 

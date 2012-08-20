@@ -33,6 +33,9 @@
 <!ENTITY openFileCmd.accesskey        "B">
 <!ENTITY openFileCmd.commandkey       "B">
 
+<!ENTITY openRecentMenu.label         "Open Recent">
+<!ENTITY openRecentMenu.accesskey     "R">
+
 <!ENTITY saveFileCmd.label            "Simpan">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "S">
@@ -84,9 +87,9 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<!ENTITY helpMenu.label               "Help">
+<!ENTITY helpMenu.label               "Bantuan">
 <!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "Help">
+<!ENTITY helpMenuWin.label            "Bantuan">
 <!ENTITY helpMenuWin.accesskey        "H">
 
 <!ENTITY documentationLink.label      "Bantuan Scratchpad pada MDN">
