@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name      "Pasek narzędzi kalendarza">
-<!ENTITY lightning.toolbar.calendar.accesskey "k">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "k">
 <!ENTITY lightning.toolbar.task.name          "Pasek narzędzi zadań">
-<!ENTITY lightning.toolbar.task.accesskey     "z">
+<!ENTITY lightning.toolbar.task.name.accesskey "z">
 
 <!ENTITY lightning.toolbar.sync.label      "Synchronizuj">
 <!ENTITY lightning.toolbar.delete.label    "Usuń">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label     "Drukuj">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Poczta">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendarz">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Przełącz na widok kalendarza">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
