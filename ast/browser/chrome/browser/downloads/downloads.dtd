@@ -21,3 +21,4 @@
 <!ENTITY cmd.clearList.accesskey "a">
 <!ENTITY downloadshistory.label "Amosar toles descargues">
 <!ENTITY downloadshistory.accesskey "S">
+<!ENTITY downloads.width "65ch">

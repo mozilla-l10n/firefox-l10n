@@ -468,3 +468,20 @@
 <!ENTITY emailAudioCmd.accesskey "a">
 <!ENTITY emailPageCmd.label "Unviar enllaz…">
 <!ENTITY emailPageCmd.accesskey "U">
+<!ENTITY devToolbarMenu.accesskey "d">
+<!ENTITY devToolbar.keycode "VK_F2">
+<!ENTITY devToolbar.keytext "F2">
+<!ENTITY devToolbarOtherToolsButton.label "Más ferramientes">
+<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY socialToolbar.title "Botón de la barra de ferramientes social">
+<!ENTITY social.notLoggedIn.label "Sesión non aniciada">
+<!ENTITY social.ok.label "Aceutar">
+<!ENTITY social.ok.accesskey "A">
+<!ENTITY social.sharePopup.undo.label "Dexar de compartir">
+<!ENTITY social.sharePopup.undo.accesskey "x">
+<!ENTITY social.sharePopup.shared.label "Compartióse esta páxina.">
+<!ENTITY social.sharePopup.portrait.arialabel "Imaxe de perfil d'usuariu">
+<!ENTITY social.toggleSidebar.label "Amosar barra llateral">
+<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.activated.button.label "¡Eeepa! desfacer">
+<!ENTITY social.activated.button.accesskey "e">
