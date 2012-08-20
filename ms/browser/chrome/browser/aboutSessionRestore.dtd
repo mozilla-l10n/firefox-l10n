@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Restore Session">
+<!ENTITY restorepage.tabtitle       "Sesi Pulih">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
@@ -14,8 +14,8 @@
 
 <!ENTITY restorepage.tryagainButton "Baik pulih">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Mula Sesi Baru">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.closeButton    "Tutup">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Baik pulih">
 <!ENTITY restorepage.listHeader     "Tetingkap dan Tab">

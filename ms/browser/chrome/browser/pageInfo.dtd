@@ -65,8 +65,8 @@
 <!ENTITY  permCookie            "Tetapkan Cecikut">
 <!ENTITY  permInstall           "Pasang Sambungan atau tema">
 <!ENTITY  permGeo               "Kongsi Lokasi">
-<!ENTITY  permPlugins           "Activate Plugins">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPlugins           "Plugin Aktif">
+<!ENTITY  permFullscreen        "Masukkan skrin penuh">
 
 <!ENTITY  permIndexedDB              "Kekalkan Storan Luartalian">
 <!ENTITY  permClearStorage           "Bersihkan Storan">

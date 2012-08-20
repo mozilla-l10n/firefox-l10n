@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.brand.label                      "Ujian Percubaan">
 <!ENTITY testpilot.settings.label                   "Tetapan">
 <!ENTITY testpilot.settings.dataSubmission.label    "Penyerahan Data">
 <!ENTITY testpilot.settings.notifications.label     "Pemberitahuan">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Settings for Clearing History">
+<!ENTITY sanitizePrefs2.title          "Tetapan untuk kosongkan sejarah layaran">
 <!ENTITY sanitizeDialog2.title         "Padamkan Sejarah Layaran baru">
 
 <!ENTITY sanitizeItems.label          "Padamkan butir berikut sekarang:">

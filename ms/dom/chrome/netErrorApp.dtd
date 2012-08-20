@@ -6,7 +6,7 @@
      file, all messages that likely don't need to tie into app-specific UI
      should go into netError.dtd -->
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
+<!ENTITY securityOverride.linkText "Atau anda boleh menambah pengecualian…">
 <!ENTITY securityOverride.warningContent "<p>Awak tidak perlu menambah pengecualian jika awak menggunakan sambungan internet yang awak tidak percaya sepenuhnya atau jika awak tidak menggunakan untuk melihat amaran untuk server ini. </p>
 <p>Jika awak masih berharap untuk menambah pengecualian untuk laman ini, awak boleh jika lakukan penetapan pada tetapan penyulitan  </p>">
 

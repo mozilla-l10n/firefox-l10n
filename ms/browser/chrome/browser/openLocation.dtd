@@ -4,7 +4,7 @@
 
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Enter the web location (URL), or specify the local file you would like to open:">  
+<!ENTITY enter.label "Masukkan lokasi web (URL), atau nyatakan fail tempatan yang ingin anda buka:">  
 <!ENTITY chooseFile.label "Pilih Fail">
 <!ENTITY newTab.label "Tab Baru">
 <!ENTITY newWindow.label "Tetingkap Baru">

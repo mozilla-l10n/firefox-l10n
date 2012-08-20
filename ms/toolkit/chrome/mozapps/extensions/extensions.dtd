@@ -20,11 +20,11 @@
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.safemode.label                    "Semua add-ons telah dimatikan oleh safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Pemeriksaan kesesuaian add-on telah dimatikan. Anda mungkin mempunya add-on yang tidak sesuai.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktif Keupayaan">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Hidupkan pemeriksaan kesesuaian add-on">
-<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.label              "Pemeriksaan keselamatan add-on telah dimatikan. Anda mungkin dikompromi ketika mengemaskini.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktif Keupayaan">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Membenarkan pemeriksaan keselamatan kemaskini add-on">
 
@@ -83,7 +83,7 @@
 <!ENTITY cmd.enableAddon.accesskey            "e">
 <!ENTITY cmd.disableAddon.label               "Lumpuhkan">
 <!ENTITY cmd.disableAddon.accesskey           "L">
-<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.label                "Tema Digunakan">
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
 <!ENTITY cmd.disableTheme.accesskey           "B">
@@ -108,11 +108,10 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Apakah Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.description2                "Tambahan adalah aplikasi yang membenarkan anda memperibadikan &brandShortName; with
+  kefungsian lebih atau stail. Cubalah bar tepi yang menjimatkan masa, sebuah pemberitahu cuaca, atau sebuah tema lihat untuk buat &brandShortName;
+  anda sendiri.">
+<!ENTITY discover.footer                      "Apabila anda telah disambungkan ke Internet, anak tetingkap ini akan memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba. ">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versi">
@@ -121,7 +120,8 @@
 <!ENTITY detail.homepage.label                "Homepage">
 <!ENTITY detail.numberOfDownloads.label       "Muat Turun">
 
-<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+<!ENTITY detail.contributions.description     "Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.
+">
 
 <!ENTITY detail.updateType                    "Kemaskini automatik">
 <!ENTITY detail.updateDefault.label           "Default">
@@ -183,7 +183,7 @@
      necessary -->
 <!ENTITY addon.update.postfix                 "Mengemaskini">
 <!ENTITY addon.undoAction.label               "Kembali Asal">
-<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoAction.tooltip             "Membatalkan tindakan ini">
 <!ENTITY addon.undoRemove.label               "Kembali Asal">
 <!ENTITY addon.undoRemove.tooltip             "Kekalkan pemasangan add-on ini">
 <!ENTITY addon.restartNow.label               "Mulakan semula sekarang">
@@ -196,7 +196,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Menyemak kemas kini…">
 <!ENTITY addon.releaseNotes.label             "Nota Pelepasan:">
 <!ENTITY addon.loadingReleaseNotes.label      "Loading">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, namun terdapat satu ralat memuatkan nota pelepasan.">
 
 <!ENTITY addon.createdBy.label                "Oleh ">
 

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Character Encoding">
+<!ENTITY charsetMenu.label             "Mengkod Aksara">
 <!ENTITY charsetMenu.accesskey         "M">
 <!ENTITY charsetMenuAutodet.label      "Auto-Kesan">
 <!ENTITY charsetMenuAutodet.accesskey  "a">

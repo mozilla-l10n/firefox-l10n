@@ -4,7 +4,7 @@
 
 <!-- extracted from finddialog.xul -->
 
-<!ENTITY findDialog.title "Find in This Page">
+<!ENTITY findDialog.title "Cari dalam Laman Ini">
 <!ENTITY findField.label "Cari apa:">
 <!ENTITY findField.accesskey "a">
 <!ENTITY caseSensitiveCheckbox.label "Sepadan kes">

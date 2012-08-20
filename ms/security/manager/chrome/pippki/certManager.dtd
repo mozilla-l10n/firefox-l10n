@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY certmgr.title                       "Certificate Manager">
+<!ENTITY certmgr.title                       "Pengurus Sijil">
 
 <!ENTITY certmgr.tab.mine                     "Sijil Anda">
 <!ENTITY certmgr.tab.others2                  "Manusia">
@@ -109,7 +109,7 @@
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Status sijil">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Papar...">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.certstatus.accesskey    "v">
 <!ENTITY exceptionMgr.permanent.label         "Simpan pengecualian ini secara tetap">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">
 

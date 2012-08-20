@@ -9,7 +9,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!ENTITY abouthome.pageTitle "Laman Mula &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Carian">
 
@@ -22,11 +22,11 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Ia mudah untuk menyesuaikan Firefox anda betul-betul cara anda mahu. <a>Pilih daripada beribu-ribu add-ons</a>.">
 
-<!ENTITY abouthome.bookmarksButton.label "Bookmarks">
-<!ENTITY abouthome.historyButton.label   "History">
-<!ENTITY abouthome.settingsButton.label  "Settings">
+<!ENTITY abouthome.bookmarksButton.label "Penandabuku">
+<!ENTITY abouthome.historyButton.label   "Latar">
+<!ENTITY abouthome.settingsButton.label  "Tetapan">
 <!ENTITY abouthome.addonsButton.label    "Add-ons">
 <!ENTITY abouthome.appsButton.label      "Marketplace">
-<!ENTITY abouthome.downloadsButton.label "Downloads">
+<!ENTITY abouthome.downloadsButton.label "Muat Turun">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Printing"> 
+<!ENTITY printWindow.title "Mencetak"> 
 <!ENTITY title    "Tajuk:"> 
 <!ENTITY progress "Kemajuan:">
 <!ENTITY preparing "Menyediakan...">

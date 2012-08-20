@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Library">
+<!ENTITY places.library.title  "Perpustakaan">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "470">
 <!ENTITY organize.label        "Atur">

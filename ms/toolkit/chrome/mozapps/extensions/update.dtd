@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  updateWizard.title              "&brandShortName; Update">
+<!ENTITY  updateWizard.title              "Kemaskini &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; bekerje di luar talian">
 <!ENTITY  offline.description             "&brandShortName; perlu masuk talian bagi melihat jika terdapat
@@ -61,6 +61,6 @@
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Klik Tamat untuk terus memulakan &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Click Done to continue starting &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Klik Selesai untuk sambung memulakan &brandShortName;.">
 <!ENTITY  enableChecking.label            "Benarkan &brandShortName; memeriksa kemaskinian.">
 

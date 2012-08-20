@@ -79,8 +79,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Copy Link Location">
+<!ENTITY copyLinkCmd.label "Salin Lokasi Pautan">
 <!ENTITY copyLinkCmd.accesskey "L">
-<!ENTITY copyEmailCmd.label "Copy Email Address">
+<!ENTITY copyEmailCmd.label "Salin Alamat E-mel">
 <!ENTITY copyEmailCmd.accesskey "E">
 

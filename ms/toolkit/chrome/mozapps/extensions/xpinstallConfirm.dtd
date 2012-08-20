@@ -4,7 +4,7 @@
 
 <!-- extracted from institems.xul -->
 
-<!ENTITY dialog.title            "Software Installation">
+<!ENTITY dialog.title            "Pemasangan Perisian">
 <!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "Pasang add-on daripada penulis yang anda percayai sahaja.">
 <!ENTITY warningSecondary.label  "Perisian yang berniat jahat boleh merosakkan komputer anda atau mencabul privasi anda.">

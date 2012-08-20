@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Menyelesaikan masalah Informasi">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
@@ -37,24 +37,28 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Tunjuk dalam Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "Tunjuk Folder">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Pengubahan rujukan pilihan yang penting">
 <!ENTITY aboutSupport.modifiedPrefsName "Nama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Nilai">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
-<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsTitle "JavaSkrip">
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
+
+<!ENTITY aboutSupport.a11yTitle "akses">
+<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Sejarah Pemasangan">
 <!ENTITY aboutSupport.updateHistoryTitle "Sejarah Kemaskini">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Menyalin semua ke klipbod">
 

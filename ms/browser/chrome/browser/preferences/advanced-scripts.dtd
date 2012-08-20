@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY advancedJSDialog.title         "Advanced JavaScript Settings">
+<!ENTITY advancedJSDialog.title         "Tetapan JavaScript Lanjutan">
 <!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "Benarkan skrip-skrip untuk:">

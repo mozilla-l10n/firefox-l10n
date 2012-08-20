@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "Play">
+<!ENTITY playButton.playLabel "Memainkan">
 <!ENTITY playButton.pauseLabel "Jeda">
 <!ENTITY muteButton.muteLabel "Senyap">
 <!ENTITY muteButton.unmuteLabel "Nyah senyap">
@@ -25,11 +25,11 @@
 <!ENTITY stats.framesPainted "Frames painted">
 
 <!ENTITY error.aborted "Video yang dimuatkan berhenti.">
-<!ENTITY error.network "Video playback aborted due to a network error.">
-<!ENTITY error.decode "Video can't be played because the file is corrupt.">
+<!ENTITY error.network "Video ulangan digugurkan kerana kesalahan rangkaian.">
+<!ENTITY error.decode "Video tidak dapat dimainkan disebabkan fail telah korup.">
 <!ENTITY error.srcNotSupported "Format video atau jenis MIME adalah tidak disokong.">
 <!ENTITY error.noSource2 "Tiada video dijumpai dengan format dan jenis MIME yang disokong.">
-<!ENTITY error.generic "Video playback aborted due to an unknown error.">
+<!ENTITY error.generic "Pemaparan video diberhentikan kerana masalah yang tidak diketahui.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

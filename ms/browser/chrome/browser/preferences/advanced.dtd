@@ -4,7 +4,7 @@
 
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label                "General">
+<!ENTITY generalTab.label                "Umum">
 
 <!ENTITY accessibility.label             "akses">
 
@@ -29,9 +29,9 @@
 <!ENTITY systemDefaults.label            "Kembali ke Piawaian Sistem">
 <!ENTITY alwaysCheckDefault.label        "Selalu periksa sama ada &brandShortName; adalah pelungsur piawai waktu bermula"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.label                "Membuat &brandShortName; ke pelayar lalai">
 <!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY isDefault.label                 "&brandShortName; pelayar lalai anda">
 <!ENTITY submitCrashes.label             "Hantar laporan-laporan nahas">
 <!ENTITY submitCrashes.accesskey         "s">
 <!ENTITY submitTelemetry.label           "Hantarkan Prestasi Data">
