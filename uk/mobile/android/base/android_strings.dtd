@@ -1,0 +1,127 @@
+
+<!ENTITY  splash_settingup "Налаштування вашого &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Ми оновлюємо ваші закладки та історію, це займе десь хвилину.">
+
+<!ENTITY  no_space_to_start_error "Недостатньо місця для запуску &brandShortName;.">
+<!ENTITY  error_loading_file "Сталась помилка під час завантаження файлів, необхідних для запуску &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Часті сайти">
+<!ENTITY  awesomebar_bookmarks_title "Закладки">
+<!ENTITY  awesomebar_history_title "Історія">
+<!ENTITY  awesomebar_search_engine "Шукати \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Доповідач про аварії &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; впав. Ваші вкладки мають бути показані на початковій сторінці &brandShortName; після перезапуску.">
+<!ENTITY  crash_help_message "Будь ласка, допоможіть нам виправити цю проблему!">
+<!ENTITY  crash_send_report_message "Надіслати в Mozilla звіт про аварію">
+<!ENTITY  crash_include_url "Включно з адресою сторінки">
+<!ENTITY  crash_close_label "Закрити">
+<!ENTITY  crash_restart_label "Перезапустити &brandShortName;">
+<!ENTITY  sending_crash_report "Відсилання звіту про аварію\u2026">
+<!ENTITY  exit_label "Вийти">
+<!ENTITY  continue_label "Продовжити">
+
+<!ENTITY  launcher_shortcuts_title "Веб-програми &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Веб-програм не знайдено">
+
+<!ENTITY choose_file "Виберіть файл">
+
+<!ENTITY awesomebar_default_text "Введіть запит чи адресу">
+
+<!ENTITY remote_tabs "Синхронізовані вкладки">
+<!ENTITY remote_tabs_show_all "Показати усі вкладки">
+
+<!ENTITY bookmark "Закласти">
+<!ENTITY bookmark_added "Закладку додано">
+<!ENTITY bookmark_removed "Закладку вилучено">
+<!ENTITY bookmark_updated "Закладку оновлено">
+
+<!ENTITY history_today_section "Сьогодні">
+<!ENTITY history_yesterday_section "Учора">
+<!ENTITY history_week_section "7 днів тому">
+<!ENTITY history_older_section "Давніше ніж 7 днів">
+
+<!ENTITY reload "Перегрузити">
+<!ENTITY forward "Вперед">
+
+<!ENTITY new_tab "Нова вкладка">
+<!ENTITY new_tab_opened "Нову вкладку відкрито">
+
+<!ENTITY settings "Настройки">
+<!ENTITY settings_title "Настройки">
+<!ENTITY pref_category_general "Загальні">
+<!ENTITY pref_category_privacy "Приватність та безпека">
+<!ENTITY pref_category_content "Вміст">
+<!ENTITY pref_about_firefox "Про &brandShortName;">
+<!ENTITY pref_do_not_track "Казати сайтам не слідити за мною">
+<!ENTITY pref_telemetry "Надсилати дані про швидкодію">
+<!ENTITY pref_remember_signons "Пам’ятати паролі">
+<!ENTITY pref_cookies "Дозволити куки">
+<!ENTITY pref_char_encoding "Кодування символів">
+<!ENTITY pref_char_encoding_on "Показувати меню">
+<!ENTITY pref_char_encoding_off "Не показувати меню">
+<!ENTITY pref_clear_history "Очистити історію">
+<!ENTITY pref_clear_history_confirm "Історія переглядів буде видалена">
+<!ENTITY pref_clear_private_data "Очистити приватні дані">
+<!ENTITY pref_clear_private_data_confirm "Історія переглядів, включно з паролями та куками, буде видалена">
+<!ENTITY pref_plugins "Плагіни">
+<!ENTITY pref_plugins_enabled "Увімкнено">
+<!ENTITY pref_plugins_tap_to_play "Тицнути щоб грати">
+<!ENTITY pref_plugins_disabled "Вимкнено">
+<!ENTITY pref_text_size "Розмір тексту">
+<!ENTITY pref_font_size_tiny "Дрібний">
+<!ENTITY pref_font_size_small "Малий">
+<!ENTITY pref_font_size_medium "Середній">
+<!ENTITY pref_font_size_large "Великий">
+<!ENTITY pref_font_size_xlarge "Дуже великий">
+<!ENTITY pref_use_master_password "Використовувати головний пароль">
+<!ENTITY pref_sync "Синхронізація">
+
+<!ENTITY quit "Вийти">
+
+<!ENTITY addons "Додатки">
+<!ENTITY downloads "Завантаження">
+<!ENTITY char_encoding "Кодування">
+
+<!ENTITY share "Поділитись">
+<!ENTITY share_title "Поділитись через">
+<!ENTITY save_as_pdf "Зберегти як PDF">
+
+<!ENTITY contextmenu_open_new_tab "Відкрити у новій вкладці">
+<!ENTITY contextmenu_remove_bookmark "Вилучити">
+<!ENTITY contextmenu_add_to_launcher "Додати на домашню сторінку">
+<!ENTITY contextmenu_share "Поділитись">
+<!ENTITY contextmenu_edit_bookmark "Редагувати">
+
+<!ENTITY bookmark_edit_title "Редагувати закладку">
+<!ENTITY bookmark_edit_name "Назва">
+<!ENTITY bookmark_edit_location "Адреса">
+<!ENTITY bookmark_edit_keyword "Ключове слово">
+
+<!ENTITY site_settings_title        "Вичистити настройки сайта">
+<!ENTITY site_settings_cancel       "Скасувати">
+<!ENTITY site_settings_clear        "Вичистити">
+<!ENTITY site_settings_no_settings  "Нема чого вичищати.">
+
+<!ENTITY masterpassword_create_title "Створити головний пароль">
+<!ENTITY masterpassword_remove_title "Вилучити головний пароль">
+<!ENTITY masterpassword_password "Пароль">
+<!ENTITY masterpassword_confirm "Підтвердити пароль">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Скасувати">
+
+<!ENTITY abouthome_addons_title "Додатки до вашого &brandShortName;">
+<!ENTITY abouthome_addons_browse "Переглянути всі додатки &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Ваші вкладки з того разу">
+<!ENTITY abouthome_last_tabs_open "Відкрити всі вкладки з того разу">
+<!ENTITY abouthome_top_sites_title "Часті сайти">
+<!ENTITY abouthome_top_sites_browse "Переглянути всі ваші часті сайти">
+<!ENTITY abouthome_no_top_sites "У вас ще нема частих сайтів. Тицьніть на верхній рядок щоб почати перегляд.">
+<!ENTITY abouthome_about_sync "Налаштуйте Firefox Sync щоб синхронізувати закладки, історію та вкладки з інших пристроїв">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Виберіть файл">
+<!ENTITY filepicker_audio_title "Виберіть чи запишіть звук">
+<!ENTITY filepicker_image_title "Виберіть чи клацніть фото">
+<!ENTITY filepicker_video_title "Виберіть чи запишіть відео">
