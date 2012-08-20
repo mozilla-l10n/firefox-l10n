@@ -44,3 +44,9 @@
 <!ENTITY report.unavailable                                  "Informe non disponible.">
 <!ENTITY clickToPlayPlugin                                   "Calca equí p'activar el plugin.">
 <!ENTITY tapToPlayPlugin                                     "Toca equí p'activar el plugin.">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Calca equí p'activar el plugin vulnerable.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Calca equí p'activar el plugin vulnerable (nun hai anovamientos disponibles).">
+<!ENTITY checkForUpdates "Guetar anovamientos…">
+<!ENTITY unsupportedPlatform.pre "Sentímoslo, pero &brandShortName; nun pue reproducir conteníu Flash nesti preséu. ">
+<!ENTITY unsupportedPlatform.learnMore "Deprender más…">
+<!ENTITY unsupportedPlatform.post "">
