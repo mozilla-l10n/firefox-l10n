@@ -52,9 +52,21 @@ M mail/chrome/overrides/netError.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.properties
 
+/home/tim/recommitter/beta/uk/mail/chrome/messenger-newsblog/newsblog.properties
+
 
 
 toolkit/chrome/global/aboutSupport.dtd
 перевірити aboutSupport.showDir.label на різних системах
 
 dom/chrome/accessibility/AccessFu.properties
+
+smtpDescription.label
+
+Чатовий запис (?)
+/home/tim/recommitter/beta/uk/mail/chrome/overrides/settingsChange.dtd
+
+mail/feedback
+
+<!ENTITY junkClassification.label "Вибірка">
+<!ENTITY junkActions.label "Призначення і затримка">
