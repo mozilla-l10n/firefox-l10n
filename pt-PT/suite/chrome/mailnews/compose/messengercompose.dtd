@@ -79,6 +79,8 @@
 
 <!ENTITY returnReceiptMenu.label "Recibo de leitura">
 <!ENTITY returnReceiptMenu.accesskey "o">
+<!ENTITY dsnMenu.label "Notificação do Estado da Entrega">
+<!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "Formatação">
 <!ENTITY outputFormatMenu.accesskey  "r">
 <!ENTITY autoFormatCmd.label "Seleccionar automaticamente">
