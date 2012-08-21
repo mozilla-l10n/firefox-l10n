@@ -148,7 +148,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY reading_list "Liosta Léitheoireachta">
 <!ENTITY reading_list_added "Cuireadh le do liosta léitheoireachta é">
 <!ENTITY reading_list_removed "Baineadh ó do liosta léitheoireachta">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reading_list_failed "Níor cuireadh an leathanach le do liosta léitheoireachta">
 <!ENTITY reader_mode "Mód Léitheoireachta">
 
 <!ENTITY masterpassword_create_title "Cruthaigh Príomhfhocal Faire">
@@ -191,7 +191,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "atá á reáchtáil ag">
 
 <!ENTITY private_data_success "Glanadh na sonraí príobháideacha">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_fail "Níorbh fhéidir sonraí áirithe príobháideacha a ghlanadh">
 
 <!ENTITY bookmarkhistory_button_import "Iompórtáil">
 <!ENTITY bookmarkhistory_import_both "Leabharmharcanna agus stair á n-iompórtáil 

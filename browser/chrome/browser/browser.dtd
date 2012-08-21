@@ -439,8 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Cruthaigh Leabharmharc don Fhráma Seo">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY emailPageCmd.label "Email Link…">
-<!ENTITY emailPageCmd.accesskey "E">
+<!ENTITY emailPageCmd.label "Seol an Nasc trí Ríomhphost…">
+<!ENTITY emailPageCmd.accesskey "S">
 <!ENTITY savePageCmd.label "Sábháil an Leathanach Mar…">
 <!ENTITY savePageCmd.accesskey "M">
 <!-- alternate for content area context menu -->
@@ -458,11 +458,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey "F">
 <!ENTITY saveAudioCmd.label "Sábháil an Fhuaim Mar…">
 <!ENTITY saveAudioCmd.accesskey "b">
-<!ENTITY emailImageCmd.label "Email Image…">
+<!ENTITY emailImageCmd.label "Seol an Íomhá trí Ríomhphost…">
 <!ENTITY emailImageCmd.accesskey "a">
-<!ENTITY emailVideoCmd.label "Email Video…">
+<!ENTITY emailVideoCmd.label "Seol an Físeán trí Ríomhphost…">
 <!ENTITY emailVideoCmd.accesskey "a">
-<!ENTITY emailAudioCmd.label "Email Audio…">
+<!ENTITY emailAudioCmd.label "Seol an Fhuaim trí Ríomhphost…">
 <!ENTITY emailAudioCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "p">
@@ -655,9 +655,9 @@ toolbar button -->
 <!ENTITY markupButton.accesskey "M">
 
 <!ENTITY socialToolbar.title "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label "Not logged in">
+<!ENTITY social.notLoggedIn.label "Níl tú logáilte isteach">
 
-<!ENTITY social.sharePopup.undo.label "Unshare">
-<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.undo.label "Díroinn">
+<!ENTITY social.sharePopup.undo.accesskey "D">
 <!ENTITY social.sharePopup.ok.label "OK">
 <!ENTITY social.sharePopup.ok.accesskey "O">

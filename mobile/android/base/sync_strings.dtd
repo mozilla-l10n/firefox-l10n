@@ -41,8 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Bain triail eile as">
 <!ENTITY sync.button.manual.label "Socrú De Láimh">
 <!ENTITY sync.subtitle.nointernet.label "Níl ceangal leis an Idirlíon ar fáil.">
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failaccount.label "Níorbh fhéidir cuntas a chruthú ar do ghléas.">
+<!ENTITY sync.subtitle.failmultiple.label "An bhfuil níos mó ná Firefox amháin suiteáilte agat? Ní thacaíonn syncBrand.fullName.label le níos mó ná leagan amháin de Firefox faoi láthair. Caithfidh tú leaganacha eile a dhíshuiteáil chun &syncBrand.shortName.label; a úsáid.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Críochnaithe">
@@ -89,6 +89,6 @@
 <!ENTITY sync.title.send.tab.label "Seol an Cluaisín Chuig Ghléasanna">
 <!ENTITY sync.button.send.label "Seol">
 <!ENTITY sync.button.set.up.sync.label "Socraigh &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Socraigh &syncBrand.shortName.label; chun cluaisíní a sheoladh">
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
 <!ENTITY sync.text.tab.sent.label "Seoladh do chluaisín!">
