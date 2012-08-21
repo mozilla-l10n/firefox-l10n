@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Offline Webtoepassingen">
+<!ENTITY pref.offlineCache.caption          "Offline webinhoud en gebruikersgegevens">
+
+<!ENTITY clearOfflineAppCache.label         "Wissen">
+<!ENTITY clearOfflineAppCache.accesskey     "W">
+
+<!ENTITY offlineNotify.label                "Mij waarschuwen wanneer een webstie gegevens wil opslaan voor offlinegebruik.">
+<!ENTITY offlineNotify.accesskey            "M">
+<!ENTITY offlineNotifyPermissions.label     "Toestemmingen beheren">
+<!ENTITY offlineNotifyPermissions.accesskey "T">
+
+<!ENTITY offlineAppsList.label              "De volgende websites hebben toestemming om gegevens op te slaan voor offlinegebruik:">
+<!ENTITY offlineAppsListRemove.label        "Gegevens wissen…">
+<!ENTITY offlineAppsListRemove.accesskey    "G">
