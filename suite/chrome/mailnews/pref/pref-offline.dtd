@@ -35,4 +35,4 @@
 <!ENTITY Diskspace                        "Espaço em Disco">
 <!ENTITY offlineCompactFolders.label      "Compactar todas as pastas quando poupar mais de">
 <!ENTITY offlineCompactFolders.accesskey  "C">
-<!ENTITY offlineCompactFolders.label      "total em MB">
+<!ENTITY offlineCompactFoldersMB.label    "total em MB">
