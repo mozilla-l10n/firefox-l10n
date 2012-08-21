@@ -146,7 +146,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Emplacement">
 <!ENTITY bookmark_edit_keyword "Mot-clé">
 
-<!ENTITY site_settings_title        "Effacer paramètres de site">
+<!ENTITY site_settings_title2       "Paramètres de site…">
 <!ENTITY site_settings_cancel       "Annuler">
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Il n\u0027y a pas de paramètre à effacer.">
