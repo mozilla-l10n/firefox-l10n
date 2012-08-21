@@ -476,3 +476,5 @@
 <!ENTITY social.notLoggedIn.label "Sesión non aniciada">
 <!ENTITY social.sharePopup.undo.label "Dexar de compartir">
 <!ENTITY social.sharePopup.undo.accesskey "x">
+<!ENTITY social.sharePopup.ok.label "Aceutar">
+<!ENTITY social.sharePopup.ok.accesskey "c">
