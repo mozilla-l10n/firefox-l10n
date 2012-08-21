@@ -6,10 +6,7 @@ browser/chrome/browser/devtools/tilt.properties
 browser/chrome/browser/devtools/sourceeditor.properties
 browser/chrome/browser/devtools/webconsole.properties
 
-browser/chrome/browser/inspector.properties
-browser/chrome/browser/styleinspector.dtd
-browser/chrome/browser/styleinspector.properties
-
+dom/chrome/accessibility/AccessFu.properties
 dom/chrome/dom/dom.properties
 dom/chrome/layout/css.properties (grep keyframe)
 dom/chrome/layout/xbl.properties
@@ -17,11 +14,8 @@ dom/chrome/layout/htmlparser.properties
 security/manager/chrome/pipnss/nsserrors.properties (grep SSL_ERROR_RX_UNEXPECTED_NEW_SESSION_TICKET, SEC_ERROR_OUT_OF_SEARCH_LIMITS )
 security/manager/chrome/pipnss/pipnss.properties (grep Surname)
 
-
 mail/feedback/main.dtd
 mail/feedback/main.properties
-
-
 M editor/ui/chrome/composer/editor.dtd
 M editor/ui/chrome/composer/editorOverlay.dtd
 M editor/ui/chrome/dialogs/EditorImageProperties.dtd
@@ -41,15 +35,7 @@ M mail/chrome/messenger/templateUtils.properties
 M mail/chrome/overrides/netError.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.properties
-
-/home/tim/recommitter/beta/uk/mail/chrome/messenger-newsblog/newsblog.properties
-
-
-
-toolkit/chrome/global/aboutSupport.dtd
-перевірити aboutSupport.showDir.label на різних системах
-
-dom/chrome/accessibility/AccessFu.properties
+  mail/chrome/messenger-newsblog/newsblog.properties
 
 smtpDescription.label
 
@@ -58,5 +44,5 @@ smtpDescription.label
 
 mail/feedback
 
-<!ENTITY junkClassification.label "Вибірка">
-<!ENTITY junkActions.label "Призначення і затримка">
+<!ENTITY junkClassification.label "Вибірка"> ??
+<!ENTITY junkActions.label "Призначення і затримка"> ??
