@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label                "Drukuj…">
 <!ENTITY otherActionsPrint1.accesskey            "D">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label "Wyświetlaj listę załączników">
+<!ENTITY startExpandedCmd.accesskey "W">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label           "Otwórz">
 <!ENTITY openAttachmentCmd.accesskey       "O">
