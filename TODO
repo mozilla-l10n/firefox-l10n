@@ -1,41 +1,31 @@
-A browser/chrome/browser/inspector.properties
-A browser/chrome/browser/styleinspector.dtd
-A browser/chrome/browser/styleinspector.properties
-? browser/chrome/browser/devtools/styleeditor.dtd
-? browser/chrome/browser/devtools/styleeditor.properties
-? browser/chrome/browser/devtools/tilt.properties
-? browser/chrome/browser/devtools/sourceeditor.properties
+browser/chrome/browser/devtools/gcli.properties
+browser/chrome/browser/devtools/gclicommands.properties
+browser/chrome/browser/devtools/styleeditor.dtd
+browser/chrome/browser/devtools/styleeditor.properties
+browser/chrome/browser/devtools/tilt.properties
+browser/chrome/browser/devtools/sourceeditor.properties
+browser/chrome/browser/devtools/webconsole.properties
 
-? browser/chrome/browser/devtools/responsiveUI.properties
-? browser/pdfviewer/chrome.properties
-? browser/pdfviewer/viewer.properties
-? browser/webapp-uninstaller/webapp-uninstaller.properties
-
+browser/chrome/browser/inspector.properties
+browser/chrome/browser/styleinspector.dtd
+browser/chrome/browser/styleinspector.properties
 
 dom/chrome/dom/dom.properties
 dom/chrome/layout/css.properties (grep keyframe)
 dom/chrome/layout/xbl.properties
-
+dom/chrome/layout/htmlparser.properties
 security/manager/chrome/pipnss/nsserrors.properties (grep SSL_ERROR_RX_UNEXPECTED_NEW_SESSION_TICKET, SEC_ERROR_OUT_OF_SEARCH_LIMITS )
 security/manager/chrome/pipnss/pipnss.properties (grep Surname)
 
 
-A mail/feedback/main.dtd
-A mail/feedback/main.properties
+mail/feedback/main.dtd
+mail/feedback/main.properties
 
 
 M editor/ui/chrome/composer/editor.dtd
 M editor/ui/chrome/composer/editorOverlay.dtd
 M editor/ui/chrome/dialogs/EditorImageProperties.dtd
-? browser/chrome/browser/devtools/gcli.properties
-? browser/chrome/browser/devtools/gclicommands.properties
-? browser/chrome/browser/devtools/webconsole.properties
-? dom/chrome/layout/htmlparser.properties
 ? editor/ui/chrome/composer/editingOverlay.dtd
-
-
-
-
 A mail/chrome/messenger/aboutSupportMail.dtd
 A mail/chrome/messenger/aboutSupportMail.properties
 M mail/chrome/messenger-region/region.properties
