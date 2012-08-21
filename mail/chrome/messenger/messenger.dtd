@@ -537,11 +537,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Друк">
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY throbberItem.title "Індикатор активності">
-<!ENTITY junkItem.title "Junk">
+<!ENTITY junkItem.title "Спам">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресна книга">
-<!ENTITY chatButton.label "Chat">
+<!ENTITY chatButton.label "Чат">
 <!ENTITY glodaSearch.title "Глобальний пошук">
 <!ENTITY searchItem.title "Швидкий пошук">
 <!ENTITY mailViewsToolbarItem.title "Вигляд пошти">
@@ -575,7 +575,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Позначити обрані повідомлення як спам">
 <!ENTITY notJunkButton.tooltip "Позначити обрані повідомлення як не спам">
 <!ENTITY addressBookButton.tooltip "Відкрити адресну книгу">
-<!ENTITY chatButton.tooltip "Show the Chat tab">
+<!ENTITY chatButton.tooltip "Показати вкладку чату">
 <!ENTITY tagButton.tooltip "Помітити повідомлення">
 <!ENTITY compactButton.tooltip "Усунути вилучені повідомлення з вибраної теки">
 
@@ -817,7 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Search… #1">
+<!ENTITY search.label.base "Пошук… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
