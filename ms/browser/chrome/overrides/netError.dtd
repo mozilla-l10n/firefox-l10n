@@ -124,12 +124,11 @@
 ">
 
 <!ENTITY nssFailure2.title "penyambungan keselamatan telah gagal">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc " 
+<ul> 
+  <li>Laman yang anda cuba paparkan tidak dapat ditunjukkan kerana kesahihan data yang diterima tidak dapat disahkan.</li> 
+  <li>Sila hubungi pemilik-pemilik lamanweb untuk memaklumkan masalah ini. Alternatifnya adalah dengan menggunakan arahan yang boleh dijumpai pada menu bantuan untuk melaporkan laman bermasalah ini.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "penyambungan keselamatan telah gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ini mungkin masalah konfigurasi server, atau seseorang cuba meniru jadi server.</li><li>Jika kamu telah disambungkan ke server ini dengan jayanya sebelum ini, masalah ini mungkin sementara, dan anda boleh cuba lagi kemudian.</li></ul>">
