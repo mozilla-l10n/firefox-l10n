@@ -115,7 +115,7 @@
 <!ENTITY bookmark_edit_name "Имя">
 <!ENTITY bookmark_edit_location "Расположение">
 <!ENTITY bookmark_edit_keyword "Краткое имя">
-<!ENTITY site_settings_title "Очистить настройки сайта">
+<!ENTITY site_settings_title2 "Параметры сайта…">
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
