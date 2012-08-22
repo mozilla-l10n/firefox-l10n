@@ -30,6 +30,8 @@
 <!ENTITY update.downloading.start "Pobieranie aktualizacji — ">
 <!ENTITY update.downloading.end   "">
 
+<!ENTITY update.applying "Instalowanie aktualizacji…">
+
 <!ENTITY channel.description.start "Obecnie korzystasz z kanału aktualizacji ">
 <!ENTITY channel.description.end   ". ">
 
