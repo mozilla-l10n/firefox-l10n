@@ -22,6 +22,7 @@
 <!ENTITY update.manual.end "">
 <!ENTITY update.downloading.start "Загрузка обновления — ">
 <!ENTITY update.downloading.end "">
+<!ENTITY update.applying "Применение обновления…">
 <!ENTITY channel.description.start "Сейчас вы находитесь на канале обновлений ">
 <!ENTITY channel.description.end ".">
 <!ENTITY cmdCloseMac.commandKey "w">
