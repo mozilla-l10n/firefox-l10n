@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Kemaskinian Perisian">
 
 <!ENTITY  checking.title                  "Memeriksa Kemaskinian">
-<!ENTITY  updateCheck.label               "Mencari versi &brandShortName yang lebih baru;">
+<!ENTITY  updateCheck.label               "Mencari versi &brandShortName; yang lebih baru">
 
 <!ENTITY  pluginupdatesfound.title        "Terdapat Kemas kini bagi Plugin">
 <!ENTITY  pluginupdatesfound.label        "Versi yang lebih baru  kepada satu atau lebih plugin anda telah dijumpai.">
