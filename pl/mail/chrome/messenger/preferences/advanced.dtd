@@ -70,7 +70,7 @@
 <!ENTITY modeAutoAddonWarn.accesskey  "o">
 <!ENTITY showUpdates.label            "Wyświetl historię aktualizacji">
 <!ENTITY showUpdates.accesskey        "W">
-<!ENTITY useService.label "Używaj usługi instalacji aktualizacji działającej w tle">
+<!ENTITY useService.label "Używaj usługi instalowania aktualizacji działającej w tle">
 <!ENTITY useService.accesskey "g">
 
 <!-- Networking and Disk Space -->
