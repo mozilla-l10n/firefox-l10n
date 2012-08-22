@@ -12,8 +12,8 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
-<!ENTITY rights.intro-point1b "lesen awam MOzilla">
+<!ENTITY rights.intro-point1a "&brandShortName; adalah dicipta sedia ada untuk anda di bawah semua terma daripada">
+<!ENTITY rights.intro-point1b "lesen awam Mozilla">
 <!ENTITY rights.intro-point1c ". Ini bermaksud anda boleh menggunakan, menyalin dan mengedarkan &brandShortName; kepada pihak lain. Anda juga dialu-alukan untuk mengolah kod sumber &brandShortName; mengikut keperluan anda. Lesen Umum Mozilla juga memberikan hak kepada anda untuk mengedarkan versi yang telah diubah.">
 
 <!ENTITY rights.intro-point2-a "Anda tidak dikurniakan sebarang hak tanda dagangan atau lesen kepada tanda dagangan Yayasan Mozilla atau sebarang pihak, termasuk tanpa had kepada nama Firefox atau logonya. Maklumat tambahan kepada tanda dagangan boleh dijumpai ">
@@ -32,16 +32,16 @@
 <!ENTITY rights.intro-point3-unbranded "Sebarang polisi persendirian yang diguna pakai untuk produk ini mestilah disenaraikan di sini.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Beberapa &brandShortName; ciri-ciri menggunakan perkhidmatan-perkhidmatan maklumat berlandaskan web, walaubagaimanapun, kami tidak boleh menjamin bahawa ciri-ciri tersebut 100% tepat atau tiada ralat. Maklumat lanjut, termasuk maklumat mengenai bagaimana untuk mematikan ciri-ciri yang menggunakan perkhidmatan-perkhidmatan ini, boleh didapati di dalam ">
+<!ENTITY rights2.intro-point4a "Beberapa &brandShortName; ciri-ciri menggunakan perkhidmatan-perkhidmatan maklumat berlandaskan web, walaubagaimana, kami tidak boleh menjamin bahawa ciri-ciri tersebut 100% tepat atau tiada ralat. Maklumat lanjut, termasuk maklumat mengenai bagaimana untuk mematikan ciri-ciri yang menggunakan perkhidmatan-perkhidmatan ini, boleh didapati dalamnya ">
 <!ENTITY rights.intro-point4b "Terma-terma perkhidmatan">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Sekiranya produk ini merangkumi perkhidmatan web, sebarang terma perkhidmatan yang diguna pakai untuk perkhidmatan ini perlu dihubungkan ke ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
+<!ENTITY rights.intro-point4b-unbranded "Servis Laman Web">
 <!ENTITY rights.intro-point4c-unbranded "seksyen.">
 
-<!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
+<!ENTITY rights2.webservices-header "&brandFullName; Servis Informasi berdasarkan Web">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -78,7 +78,7 @@
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "&vendorShortName; dan penyumbang-penyumbang, pemberi-pemberi lesen dan rakan-rakan bekerja untuk menyediakan perkhidmatan-perkhidmatan yang paling tepat dan up-to-tarikh. Walau bagaimanapun, kami tidak dapat menjamin bahawa maklumat ini adalah komprehensif dan bebas dari kesalahan. Sebagai contoh, Perkhidmatan Pelayaran Selamat tidak boleh mengenal pasti beberapa laman web yang berisiko dan boleh mengenal pasti beberapa laman web yang selamat dalam kesesatan dan Perkhidmatan Lokasi Mengetahui semua lokasi yang dikembalikan oleh pembekal perkhidmatan kami adalah anggaran sahaja dan kita bersama tidak pembekal perkhidmatan kami menjamin ketepatan lokasi yang disediakan .">
 <!ENTITY rights.webservices-term2 "&vendorShortName; mungkin tidak meneruskan atau menukar Perkhidmatan tersebut bergantung kepada budi-bicaranya.">
-<!ENTITY rights2.webservices-term3 "Anda dialu-alukan untuk menggunakan perkhidmatan-perkhidmatan ini dengan versi &brandShortName dan &vendorShortName; yang disertakan, yang memberikan anda hak untuk berbuat sedemikian. &vendorShortName; dan pemberi-pemberi lesennya mempunyai semua hak-hak lain dalam perkhidmatan-perkhidmatan tersebut. Terma-terma ini tidak bertujuan untuk menghadkan apa-apa hak yang diberikan di bawah lesen-lesen sumber terbuka yang boleh digunakan ke atas &brandShortName; dan sumber versi-versi kod &brandShortName; yang berkaitan.">
+<!ENTITY rights2.webservices-term3 "Anda dialu-alukan untuk menggunakan perkhidmatan-perkhidmatan ini dengan versi &brandShortName;, dan &vendorShortName; yang disertakan, yang memberikan anda hak untuk berbuat sedemikian. &vendorShortName; dan pemberi-pemberi lesennya mempunyai semua hak-hak lain dalam perkhidmatan-perkhidmatan tersebut. Terma-terma ini tidak bertujuan untuk menghadkan apa-apa hak yang diberikan di bawah lesen-lesen sumber terbuka yang boleh digunakan ke atas &brandShortName; dan sumber versi-versi kod &brandShortName; yang berkaitan.">
 <!ENTITY rights.webservices-term4 "Perkhidmatan-perkhidmatan yang disediakan &quot;as-is.&quot; &vendorShortName;, para penyumbang, pemberi-pemberi lesennya, dan pengedar-pengedar, menafikan semua jaminan, sama ada yang dinyatakan atau yang tersirat, termasuk tanpa batasan, jaminan-jaminan bahawa perkhidmatan-perkhidmatan yang boleh diperdagangkan dan sesuai untuk tujuan-tujuan anda yang tertentu. Anda menanggung risiko secara menyeluruh untuk memilih perkhidmatan-perkhidmatan untuk apa jua tujuan anda dan kepada kualiti dan prestasi perkhidmatan-perkhidmatan. Sesetengah bidang kuasa tidak membenarkan pengecualian atau pembatasan jaminan-jaminan yang tersirat, jadi penafian ini tidak mungkin dikenakan kepada anda.">
 <!ENTITY rights.webservices-term5 "Kecuali dikehendaki oleh undang-undang, &vendorShortName;, penyumbang-penyumbang, pemberi-pemberi lesen, dan pengedar-pengedar tidak akan bertanggungjawab atas kerosakan yang tidak langsung, ganti rugi khas, sampingan, berbangkit, punitif, atau teladan">
 <!ENTITY rights.webservices-term6 "&vendorShortName; mungkin mengemaskinikan terma-terma ini jika diperlukan dari masa ke semasa. Terma-terma tersebut tidak boleh diubah atau dibatalkan tanpa persetujuan bertulis &vendorShortName;.">
