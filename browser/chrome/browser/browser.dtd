@@ -51,7 +51,7 @@ can reach it easily. -->
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "অৱস্থান খোলক…">
 <!ENTITY openLocationCmd.accesskey "L">
-<!ENTITY openFileCmd.label "নথিপত্ৰ খোলক…">
+<!ENTITY openFileCmd.label "ফাইল খোলক…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "পৃষ্টা সংস্থাপন…">
@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.label        "অধিক সঁজুলিসমূহ প্ৰাপ্ত কৰক">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
-<!ENTITY fileMenu.label         "নথিপত্ৰ"> 
+<!ENTITY fileMenu.label         "ফাইল"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো">
 <!ENTITY newNavigatorCmd.key        "N">

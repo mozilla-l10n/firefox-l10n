@@ -68,11 +68,11 @@
 <!ENTITY updateTab.label                 "উন্নয়ন">
 
 <!ENTITY updateApp.label                 "&brandShortName; আপডেইটসমূহ:">
-<!ENTITY updateAuto.label                "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক (উপদেশিত: উন্নত সুৰক্ষা)">
+<!ENTITY updateAuto.label                "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক (উপদেশিত: উন্নত সুসংৰক্ষণ)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "আপডেইটসমূহ নীৰিক্ষণ কৰক, কিন্তু সিহতক ইনস্টল কৰা হব নে মোক বাছিব দিব">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "আপডেইটসমূহৰ বাবে কেতিয়াও নীৰিক্ষণ নকৰিব (উপদেশিত নহয়: সুৰক্ষা ভয়)">
+<!ENTITY updateManual.label              "আপডেইটসমূহৰ বাবে কেতিয়াও নীৰিক্ষণ নকৰিব (উপদেশিত নহয়: সুসংৰক্ষণ ভয়)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "যদি ই মোৰ কোনো এড-অন অসামৰ্থবান কৰে মোক সতৰ্ক কৰিব">
@@ -118,5 +118,5 @@
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                    "প্ৰমাণীকৰণ">
 <!ENTITY verify2.accesskey                "V">
-<!ENTITY viewSecurityDevices.label       "সুৰক্ষাৰ ডিভাইচসমূহ">
+<!ENTITY viewSecurityDevices.label       "সুসংৰক্ষণৰ ডিভাইচসমূহ">
 <!ENTITY viewSecurityDevices.accesskey   "y">

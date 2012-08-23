@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "পছন্দক &brandShortName; ৰ পছন্দসমূহত সলনি কৰিব পাৰি ।">
-<!ENTITY  settingsChangeOptions.label      "পছন্দক &brandShortName;ৰ বিকল্পসমূহত সলনি কৰিব পাৰি ।">
+<!ENTITY  settingsChangePreferences.label  "পছন্দক &brandShortName; ৰ পছন্দসমূহত সলনি কৰিব পাৰি।">
+<!ENTITY  settingsChangeOptions.label      "পছন্দক &brandShortName;ৰ বিকল্পসমূহত সলনি কৰিব পাৰি।">

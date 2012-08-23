@@ -18,14 +18,14 @@
 <!ENTITY  checking.status                 "কিছু সময়ৰ প্ৰয়োজন হ'ব...">
 
 <!ENTITY  found.wizard.title               "সুসঙ্গত এড-অ'ন পোৱা গৈছে">
-<!ENTITY  found.top.label                 "সংস্থাপন কৰিব বিচৰা এড-অ'নসমূহ বাচি লওক:">
-<!ENTITY  found.disabledXPinstall.label   "এই উন্নয়ন সংস্থাপন কৰিব নোৱাৰি কাৰণ চালনাজ্ঞানৰ সংস্থাপন বৰ্ত্তমানে নিষ্ক্ৰিয় । এই পছন্দ আপুনি তলত সলনি কৰিব পাৰে ।">
+<!ENTITY  found.top.label                 "ইনস্টল কৰিব বিচৰা এড-অ'নসমূহ বাচি লওক:">
+<!ENTITY  found.disabledXPinstall.label   "এই উন্নয়ন ইনস্টল কৰিব নোৱাৰি কাৰণ চফ্টৱেৰৰ ইনস্টল বৰ্ত্তমানে নিষ্ক্ৰিয় । এই পছন্দ আপুনি তলত সলনি কৰিব পাৰে ।">
 
-<!ENTITY  found.enableXPInstall.label     "ৱেব ছাইটক চালনাজ্ঞান সংস্থাপন কৰিব দিব">
+<!ENTITY  found.enableXPInstall.label     "ৱেব ছাইটক চফ্টৱেৰ ইনস্টল কৰিব দিব">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
-<!ENTITY  installing.wizard.title         "সুসঙ্গত এড-অ'ন সংস্থাপন কৰা হৈছে">
-<!ENTITY  installing.top.label            "আপোনাৰ এড-অ'নলৈ উন্নয়ন ডাউন্‌লোড কৰি সংস্থাপন কৰা গৈছে...">
+<!ENTITY  installing.wizard.title         "সুসঙ্গত এড-অ'ন ইনস্টল কৰা হৈছে">
+<!ENTITY  installing.top.label            "আপোনাৰ এড-অ'নলৈ উন্নয়ন ডাউন্‌লোড কৰি ইনস্টল কৰা গৈছে...">
 
 <!ENTITY  noupdates.wizard.title          "কোনো সুসঙ্গত এড-অ'ন পোৱা ন'গ'ল">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; এ আপোনাৰ অসঙ্গত এড-অ'নৰ কাৰণে উন্নয়ন নাপালে ।">
@@ -35,14 +35,14 @@
 
 
 <!ENTITY  finished.wizard.title           "সুসঙ্গত এড-অ'ন সংস্থাপিত">
-<!ENTITY  finished.top.label              "&brandShortName; এ আপোনাৰ এড-অ'নত উন্নয়ন সংস্থাপন কৰিলে ।">
+<!ENTITY  finished.top.label              "&brandShortName; এ আপোনাৰ এড-অ'নত উন্নয়ন ইনস্টল কৰিলে ।">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; এ সময়ে সময়ে পৰীক্ষা কৰিব আৰু এড-অ'নৰ কাৰণে উন্নয়ন কেতিয়া পোৱা যায় আপোনাক ক'ব ।">
 
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; এ সময়ে সময়ে পৰীক্ষা কৰিব আৰু এড-অ'নৰ কাৰণে উন্নয়ন কেতিয়া পোৱা যায় আপোনাক ক'ব ।">
 
 
 <!ENTITY  adminDisabled.wizard.title      "উন্নয়নৰ কাৰণে পৰীক্ষা কৰিব নোৱাৰি">
-<!ENTITY  adminDisabled.warning.label     "অসঙ্গত এড-অ'নৰ কাৰণে উন্নয়ন পৰীক্ষা কৰিব নোৱাৰি কাৰণ &brandShortName; ৰ কাৰণে চালনাজ্ঞানৰ সংস্থাপন নিষ্ক।ৰিয় কৰা হৈছে । সহায়ৰ কাৰণে আপোনাৰ ব্যৱস্থাপ্ৰণালীৰ প্ৰশাসকক লগ ধৰক ।">
+<!ENTITY  adminDisabled.warning.label     "অসঙ্গত এড-অ'নৰ কাৰণে উন্নয়ন পৰীক্ষা কৰিব নোৱাৰি কাৰণ &brandShortName; ৰ কাৰণে চফ্টৱেৰৰ ইনস্টল নিষ্ক।ৰিয় কৰা হৈছে । সহায়ৰ কাৰণে আপোনাৰ ব্যৱস্থাপ্ৰণালীৰ প্ৰশাসকক লগ ধৰক ।">
 
 
 
@@ -51,7 +51,7 @@
 
 <!ENTITY  versioninfo.waiting             "কিছু সময়ৰ প্ৰয়োজন হ'ব পাৰে...">
 
-<!ENTITY  installerrors.wizard.title      "উন্নয়ন সংস্থাপন কৰিবলৈ সমস্যা">
+<!ENTITY  installerrors.wizard.title      "উন্নয়ন ইনস্টল কৰিবলৈ সমস্যা">
 <!ENTITY  installerrors.intro.label       "আপোনাৰ কিছুমান এড-অ'ন উন্নয়ন কৰোঁতে &brandShortName; এ কিছুমান সমস্যা পাইছে ।">
 
 

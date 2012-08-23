@@ -4,7 +4,7 @@
 
 <!ENTITY errorConsole.title "ত্ৰুটিৰ কনচৌল">
 
-<!ENTITY errFile.label   "উৎসৰ নথিপত্ৰ:">
+<!ENTITY errFile.label   "উৎসৰ ফাইল:">
 <!ENTITY errLine.label   "শাৰী:">
 <!ENTITY errColumn.label "স্তম্ভ:">
 
