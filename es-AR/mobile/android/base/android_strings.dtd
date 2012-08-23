@@ -152,7 +152,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 
-<!ENTITY site_settings_title        "Borrar configuración del sitio">
+<!ENTITY site_settings_title2       "Configuración del sitio…">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Borrar">
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
