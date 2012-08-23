@@ -1,4 +1,5 @@
-<!ENTITY aboutApps.title "Vos applications">
+<!ENTITY aboutApps.title2                          "Applications">
+<!ENTITY aboutApps.header                          "Vos applications">
 
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
