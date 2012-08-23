@@ -29,6 +29,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Chat Account…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ਅਟੈਚਮੈਂਟ">
@@ -481,6 +483,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.offline            "ਆਫਲਾਈਨ">
 <!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
 <!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "ਸੰਭਾਲੀਆਂ ਫਾਇਲਾਂ">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -570,6 +574,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "ਨਵਾਂ ਟੈਗ…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Manage Tags…">
+<!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "ਨਾਂ">
