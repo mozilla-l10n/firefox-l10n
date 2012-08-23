@@ -16,7 +16,7 @@
 <!ENTITY  paneContent.title       "সমল">
 <!ENTITY  paneApplications.title  "এপ্লিকেচনসমূহ">
 <!ENTITY  panePrivacy.title       "গোপনীয়তা">
-<!ENTITY  paneSecurity.title      "সুসংৰক্ষণ">
+<!ENTITY  paneSecurity.title      "সুৰক্ষা">
 <!ENTITY  paneAdvanced.title      "উন্নত">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
