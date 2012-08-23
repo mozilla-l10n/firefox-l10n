@@ -8,7 +8,7 @@
    - provide them with some default functionality, like the standard OS
    - menus/menuitems. -->
 
-<!ENTITY fileMenu.label                     "নথিপত্ৰ">
+<!ENTITY fileMenu.label                     "ফাইল">
 <!ENTITY fileMenu.accesskey                 "F">
 
 <!ENTITY quitApplicationCmdWin.label        "প্ৰস্থান কৰক">

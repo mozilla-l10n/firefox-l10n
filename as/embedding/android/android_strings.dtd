@@ -2,7 +2,7 @@
 <!ENTITY  splash_firstrun "&brandShortName;\u2026 সংহতি কৰা ">
 
 <!ENTITY  no_space_to_start_error "&brandShortName; আৰম্ভ হবলে পৰ্যাপ্ত স্থান নাই।">
-<!ENTITY  error_loading_file "&brandShortName; চলিবলে প্ৰয়োজনীয় নথিপত্ৰসমূহ ল'ড কৰোতে এটা ত্ৰুটি দেখা দিলে ">
+<!ENTITY  error_loading_file "&brandShortName; চলিবলে প্ৰয়োজনীয় ফাইলসমূহ ল'ড কৰোতে এটা ত্ৰুটি দেখা দিলে ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; স্খলন সংবাদক">
 <!ENTITY  crash_message "&brandShortName; স্খলিত হৈছে। আপুনি পুনৰাম্ভ কৰোতে আপোনাৰ টেবসমূহ &brandShortName; আৰম্ভণি পৃষ্ঠাত তালিকাভুক্ত থাকিব লাগিব।">
@@ -15,7 +15,7 @@
 <!ENTITY  exit_label "প্ৰস্থান কৰক">
 <!ENTITY  continue_label "চলাই নিয়ক">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; ৱেব অনুপ্ৰয়োগসমূহ">
-<!ENTITY  launcher_shortcuts_empty "কোনো ৱেব অনুপ্ৰয়োগ পোৱা নগল">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ৱেব এপ্লিকেচনসমূহ">
+<!ENTITY  launcher_shortcuts_empty "কোনো ৱেব এপ্লিকেচন পোৱা নগল">
 
-<!ENTITY choose_file "নথিপত্ৰ নিৰ্বাচন কৰক">
+<!ENTITY choose_file "ফাইল নিৰ্বাচন কৰক">

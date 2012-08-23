@@ -10,22 +10,22 @@
 <!ENTITY forwardButton.label            "আগলৈ">
 <!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "এক পৃষ্ঠা আগলৈ যাওক">
-<!ENTITY copyCmd.label                  "নকল কৰক">
+<!ENTITY copyCmd.label                  "কপি কৰক">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "সকলো নিৰ্ব্বাচন কৰক">
+<!ENTITY selectAllCmd.label             "সকলো নিৰ্বাচন কৰক">
 <!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "ঘৰ">
 <!ENTITY homeButton.tooltip             "সহায় আৰম্ভৰ পৃষ্ঠালৈ যাওক">
-<!ENTITY printButton.label              "মূদৰ্ণ কৰক">
-<!ENTITY printButton.tooltip            "এই পৃষ্ঠা মূদ্ৰণ কৰক">
+<!ENTITY printButton.label              "প্ৰিন্ট কৰক">
+<!ENTITY printButton.tooltip            "এই পৃষ্ঠা প্ৰিন্ট কৰক">
 <!ENTITY closeWindow.commandkey         "W">
 
 
 
 
-<!ENTITY toctab.label       	  	"বিষয়বস্তু">
+<!ENTITY toctab.label       	  	"সমল">
 <!ENTITY toctab.accesskey               "C">
 
  <!-- + is above this key on many keyboards -->
