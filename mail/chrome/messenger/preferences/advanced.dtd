@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Update">
@@ -11,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "System Integration">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
@@ -67,6 +78,9 @@
 <!ENTITY showUpdates.label              "Show Update History">
 <!ENTITY showUpdates.accesskey          "S">
 
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Settings…">
 <!ENTITY showSettings.accesskey        "S">
@@ -77,10 +91,10 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Disk Space">
-<!ENTITY offlineCompact.label "Compact folders when it will save over">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Disk Space">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

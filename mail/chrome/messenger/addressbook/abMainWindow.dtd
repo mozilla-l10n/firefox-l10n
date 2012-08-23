@@ -160,8 +160,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "ਈਮੇਲ">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "ਸਕਰੀਨ ਨਾਂ">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "Chat Name">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "ਸੰਗਠਨ">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "ਛੋਟਾ ਨਾਂ">
@@ -194,6 +194,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "ਸੰਪਰਕ">
 <!ENTITY home.heading                                   "ਘਰ">
 <!ENTITY other.heading                                  "ਹੋਰ">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "ਫੋਨ">
 <!ENTITY work.heading                                   "ਕੰਮ">
 <!-- Special Box Headings, for mailing lists -->
