@@ -151,7 +151,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Adress">
 <!ENTITY bookmark_edit_keyword "Nyckelord">
 
-<!ENTITY site_settings_title        "Rensa platsinställningar">
+<!ENTITY site_settings_title2       "Platsinställningar…">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Rensa">
 <!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
