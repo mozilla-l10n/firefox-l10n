@@ -9,7 +9,7 @@
      Luna since widget heights are different based on the OS theme -->
 <!ENTITY  prefWinMinSize.styleWin2      "width: 42em; min-height: 37.5em;">
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
-<!ENTITY  prefWinMinSize.styleGNOME     "lebar:  45.5em; min-tinggi: 40.5em;">
+<!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title       "Umum">
 <!ENTITY  paneTabs.title          "Tab-tab">
@@ -17,7 +17,7 @@
 <!ENTITY  paneApplications.title  "Aplikasi">
 <!ENTITY  panePrivacy.title       "Peribadi">
 <!ENTITY  paneSecurity.title      "Sekuriti">
-<!ENTITY  paneAdvanced.title      "maju">
+<!ENTITY  paneAdvanced.title      "Lanjutan">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">

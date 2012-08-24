@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title              "Pilih Folder">
-<!ENTITY window.style              "lebar: 36em; tinggi: 18em;">
+<!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Pindah ke:">
 <!ENTITY newFolderButton.label     "Folder Baru">
 <!ENTITY newFolderButton.accesskey "F">

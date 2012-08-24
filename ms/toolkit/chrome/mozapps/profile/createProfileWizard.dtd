@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newprofile.title             "Wizard Mencipta Profil ">
-<!ENTITY window.size                  "lebar : 45em; ketinggian : 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; menyimpan maklumat perihal tetapan dan keutamaan anda dalam profil peribadi anda.">
