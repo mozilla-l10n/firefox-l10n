@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY splash_settingup "Programa „&brandShortName;“ konigūruojama">
 <!ENTITY splash_bookmarks_history "Luktelėkite, kol bus atnaujintas Jūsų adresynas ir žurnalas.">
 
@@ -49,6 +53,7 @@
 
 <!ENTITY close_tab "Užverti kortelę">
 <!ENTITY new_tab "Nauja kortelė">
+<!ENTITY one_tab "1 kortelė">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d kortelės (-ių)">
@@ -86,6 +91,7 @@
 <!ENTITY pref_private_data_history "Naršymo ir atsiuntimų žurnalas">
 <!ENTITY pref_private_data_formdata "Formų ir paieškos laukų reikšmės">
 <!ENTITY pref_private_data_cookies "Slapukai">
+<!ENTITY pref_private_data_passwords "Įrašyti slaptažodžiai">
 <!ENTITY pref_private_data_cache "Podėlis">
 <!ENTITY pref_private_data_sessions "Esami prisijungimai">
 <!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
@@ -100,6 +106,7 @@
 
 <!ENTITY share "Dalintis tinklalapiu">
 <!ENTITY share_title "Dalintis per">
+<!ENTITY share_image_failed "Paveikslu pasidalinti nepavyko">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
 <!ENTITY find_in_page "Ieškoti tinklalapyje">
 <!ENTITY desktop_mode "Prašyti svetainės kompiuteriui">
@@ -191,3 +198,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importuojamas žurnalas
                                          iš „Android“">
 <!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
+
+<!ENTITY webapp_generic_name "Programa">
