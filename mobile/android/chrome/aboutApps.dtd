@@ -2,7 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutApps.title "Applicazioni">
+<!ENTITY aboutApps.title2 "App">
+<!ENTITY aboutApps.header "Le tue app">
 <!ENTITY aboutApps.noApps.pre "Nessuna web app installata. Scaricale dall'">
-<!ENTITY aboutApps.noApps.middle "app store">
+<!ENTITY aboutApps.noApps.middle2 "Mozilla Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
