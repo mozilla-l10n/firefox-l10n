@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Title -->
 <!ENTITY addressbookWindow.title                        "Adresų knyga">
 
@@ -94,6 +98,20 @@
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adresų knygos">  
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Adresatas">
+<!ENTITY home.heading                                   "Namai">
+<!ENTITY other.heading                                  "Kita">
+<!ENTITY phone.heading                                  "Telefonai">
+<!ENTITY work.heading                                   "Darbovietė">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Aprašymas">
+<!ENTITY addresses.heading                              "Adresai">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Rodyti žemėlapį">
+<!ENTITY mapIt.tooltip                                  "Rodyti šį adresą saityno žemėlapyje">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
