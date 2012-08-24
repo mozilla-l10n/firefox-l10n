@@ -172,7 +172,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Ouvrir tous les onglets">
 <!ENTITY abouthome_top_sites_title "Sites favoris">
 <!ENTITY abouthome_top_sites_browse "Parcourir tous vos sites favoris">
-<!ENTITY abouthome_no_top_sites "Vous n\u0027avez pas encore de sites favoris. Toucher la barre de titre pour commencer la navigation.">
 <!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
