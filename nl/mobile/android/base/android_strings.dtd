@@ -85,12 +85,17 @@
 <!ENTITY pref_font_size_medium "Gemiddeld">
 <!ENTITY pref_font_size_large "Groot">
 <!ENTITY pref_font_size_xlarge "Extra groot">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_import_android "Importeren uit Android">
 <!ENTITY pref_private_data_history "Navigatie- &amp; downloadgeschiedenis">
 <!ENTITY pref_private_data_formdata "Formulier- &amp; zoekgeschiedenis">
-<!ENTITY pref_private_data_cookies "Cookies &amp; Actieve aanmeldingen">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; Actieve aanmeldingen">
 <!ENTITY pref_private_data_passwords "Opgeslagen wachtwoorden">
 <!ENTITY pref_private_data_cache "Buffer">
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
