@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 dagen geleden">
 <!ENTITY history_older_section "Ouder dan 7 dagen">
 
+<!ENTITY go "Ga">
+<!ENTITY search "Zoeken">
 <!ENTITY reload "Vernieuwen">
 <!ENTITY forward "Vooruit">
 <!ENTITY menu "Menu">
