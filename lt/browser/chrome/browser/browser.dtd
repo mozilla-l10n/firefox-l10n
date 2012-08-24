@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label             "Taisa">
 <!ENTITY appMenuCustomize.label        "Tvarkyti">
-<!ENTITY appMenuToolbarLayout.label    "Priemonių juostos išdėstymas…">
+<!ENTITY appMenuToolbarLayout.label    "Tvarkyti priemonių juostas…">
 <!ENTITY appMenuSidebars.label         "Parankinė">
 <!ENTITY appMenuFind.label             "Ieškoti…">
 <!ENTITY appMenuUnsorted.label         "Nerūšiuoti adresai">

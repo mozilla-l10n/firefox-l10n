@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filtravimo taisyklės">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 
@@ -44,3 +48,11 @@
 
 <!ENTITY addAction.tooltip "Pridėti naują veiksmą">
 <!ENTITY removeAction.tooltip "Pašalinti šį veiksmą">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
