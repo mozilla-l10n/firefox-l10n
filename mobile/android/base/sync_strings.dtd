@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; instellen om tabbladen te verzenden'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; instellen op uw apparaat om tabbladen naar andere apparaten te verzenden.'>
 <!ENTITY sync.text.tab.sent.label 'Uw tabblad is verzonden!'>
+<!ENTITY sync.text.tab.not.sent.label 'Er is een probleem opgetreden bij het verzenden van uw tabblad.'>
