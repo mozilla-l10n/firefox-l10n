@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -89,3 +93,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Sukonfigūruokite „&syncBrand.shortName.label;“, kad galėtumėte siųsti korteles'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Kad galėtumete į kitus įrenginius siųsti korteles, turite šiame įrenginyje sukonfigūruoti „&syncBrand.fullName.label;“.'>
 <!ENTITY sync.text.tab.sent.label 'Kortelė nusiųsta!'>
+<!ENTITY sync.text.tab.not.sent.label 'Kortelės nusiųsti nepavyko.'>

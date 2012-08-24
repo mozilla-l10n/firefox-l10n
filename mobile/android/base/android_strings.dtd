@@ -44,6 +44,8 @@
 <!ENTITY history_week_section "Prieš 7 dienas">
 <!ENTITY history_older_section "Seniau nei prieš 7 dienas">
 
+<!ENTITY go "Atverti">
+<!ENTITY search "Ieškoti">
 <!ENTITY reload "Naujinti">
 <!ENTITY forward "Pirmyn">
 <!ENTITY menu "Meniu">
@@ -84,16 +86,27 @@
 <!ENTITY pref_font_size_medium "Vidutiniai">
 <!ENTITY pref_font_size_large "Dideli">
 <!ENTITY pref_font_size_xlarge "Ypač dideli">
+<!ENTITY pref_font_size_set "Parinkti">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą.">
+
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
 <!ENTITY pref_sync "Sinchronizavimas">
 <!ENTITY pref_search_suggestions "Rodyti paieškos žodžių siūlymus">
 <!ENTITY pref_import_android "Importuoti iš „Android“">
 <!ENTITY pref_private_data_history "Naršymo ir atsiuntimų žurnalas">
 <!ENTITY pref_private_data_formdata "Formų ir paieškos laukų reikšmės">
-<!ENTITY pref_private_data_cookies "Slapukai">
+<!ENTITY pref_private_data_cookies2 "Slapukai ir esami prisijungimai">
 <!ENTITY pref_private_data_passwords "Įrašyti slaptažodžiai">
 <!ENTITY pref_private_data_cache "Podėlis">
-<!ENTITY pref_private_data_sessions "Esami prisijungimai">
 <!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
 <!ENTITY pref_private_data_siteSettings "Svetainių nuostatos">
 
@@ -137,7 +150,7 @@
 <!ENTITY bookmark_edit_location "Vieta">
 <!ENTITY bookmark_edit_keyword "Gairė">
 
-<!ENTITY site_settings_title        "Išalyti svetainės nuostatas">
+<!ENTITY site_settings_title2       "Svetainės nuostatos…">
 <!ENTITY site_settings_cancel       "Atsisakyti">
 <!ENTITY site_settings_clear        "Išvalyti">
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
@@ -163,9 +176,20 @@
 <!ENTITY abouthome_last_tabs_open "Visos atvertos kortelės iš pastarojo seanso">
 <!ENTITY abouthome_top_sites_title "Dažniausiai lankomos">
 <!ENTITY abouthome_top_sites_browse "Naršyti visas dažniausiai lankomas svetaines">
-<!ENTITY abouthome_no_top_sites "Dažniausiai lankomų svetainių sąrašas kol kas tuščias. Bakstelėkite antraštės juostą ir pradėkite naršymą.">
-<!ENTITY abouthome_about_sync "Sukonfigūruokite „Firefox Sync“ ir galėsite naudotis savo adresynu, žurnalu ir kortelėmis iš kitų įrenginių">
-<!ENTITY abouthome_sync_bold_name "Sinchronizavimas">
+<!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync2 "Sukonfigūruokite „Firefox Sync“ ir galėsite naudotis savo adresynu, žurnalu ir kortelėmis iš kitų įrenginių »">
+<!ENTITY abouthome_about_apps "Įsigykite programų ir „Mozillos“ krautuvės ir atraskite geriausia, ką Jums gali pasiūlyti saitynas »">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
+<!ENTITY abouthome_sync_bold_name "„Firefox Sync“">
+<!ENTITY abouthome_apps_bold_name "„Mozillos“ krautuvės">
+
 
 <!ENTITY filepicker_title "Parinkite failą">
 <!ENTITY filepicker_audio_title "Parinkite arba įrašykite garsą">
