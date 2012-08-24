@@ -115,7 +115,7 @@
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Indirizzo">
 <!ENTITY bookmark_edit_keyword "Parola chiave">
-<!ENTITY site_settings_title "Elimina impostazioni sito">
+<!ENTITY site_settings_title2 "Impostazioni sito…">
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
@@ -137,9 +137,10 @@
 <!ENTITY abouthome_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
 <!ENTITY abouthome_top_sites_title "Siti principali">
 <!ENTITY abouthome_top_sites_browse "Sfoglia tutti i siti principali">
-<!ENTITY abouthome_no_top_sites "Non ci sono ancora siti principali. Tocca la barra del titolo per iniziare la navigazione.">
-<!ENTITY abouthome_about_sync "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi.">
+<!ENTITY abouthome_about_sync2 "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi »">
+<!ENTITY abouthome_about_apps "Scarica nuove app da Mozilla Marketplace e scopri il meglio che il Web può offrire »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 <!ENTITY filepicker_title "Seleziona un file">
 <!ENTITY filepicker_audio_title "Seleziona o registra un suono">
 <!ENTITY filepicker_image_title "Seleziona o scatta una fotografia">
