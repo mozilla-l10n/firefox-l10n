@@ -177,7 +177,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Alle tabbladen van de vorige keer openen">
 <!ENTITY abouthome_top_sites_title "Topwebsites">
 <!ENTITY abouthome_top_sites_browse "Door alle topwebsites bladeren">
-<!ENTITY abouthome_no_top_sites "U hebt nog geen topwebsites. Tik op de titelbalk om te starten.">
 <!ENTITY abouthome_about_sync "Stel Firefox Sync in voor toegang tot uw bladwijzers, geschiedenis en tabbladen van uw andere apparaten">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
