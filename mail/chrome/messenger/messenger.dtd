@@ -550,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Localização da pasta">
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compactar">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Pesquisa avançada de mensagens">
@@ -580,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Mostrar o separador de chat">
 <!ENTITY tagButton.tooltip "Etiqueta as mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens eliminadas da pasta seleccionadas">
+<!ENTITY appmenuButton.tooltip "Apresenta o menu de aplicações">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
+<!ENTITY appmenuNewContactCmd.label "Contato do livro de endereços…">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuQFBMenu.label "Barra de filtro rápido">
+<!ENTITY appmenuToolbarLayout.label "Esquema da barra de ferramentas…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova etiqueta...">
