@@ -660,8 +660,8 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
-<!ENTITY socialToolbar.title        "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label   "Not logged in">
+<!ENTITY socialToolbar.title        "ਸਮਾਜਿਕ ਟੂਲਬਾਰ ਬਟਨ">
+<!ENTITY social.notLoggedIn.label   "ਲਾਗਇਨ ਨਹੀਂ ਹੈ">
 
 <!ENTITY social.sharePopup.undo.label     "ਨਾ-ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY social.sharePopup.undo.accesskey "U">
