@@ -23,9 +23,9 @@
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "ਫਾਇਲਾਂ ਨੂੰ ਸੰਭਾਲੋ">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "ਝਲਕ…">
+<!ENTITY chooseFolderWin.label        "…ਝਲਕ">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "ਚੋਣ…">
+<!ENTITY chooseFolderMac.label        "…ਚੋਣ">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ਮੈਨੂੰ ਹਮੇਸ਼ਾ ਪੁੱਛੋ ਕਿ ਫਾਇਲਾਂ ਕਿੱਥੇ ਸੰਭਾਲਣੀਆਂ ਹਨ">
 <!ENTITY alwaysAsk.accesskey "A">
@@ -40,5 +40,5 @@
 <!ENTITY addonsMgr.label               "ਐਡ-ਆਨ">
 <!ENTITY manageAddonsDescWin.label     "ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਚੋਣਾਂ ਬਦਲੋ">
 <!ENTITY manageAddonsDescUnix2.label   "ਆਪਣੀ ਐਡ-ਆਨ ਲਈ ਚੋਣਾਂ ਬਦਲੋ">
-<!ENTITY manageAddons.label            "ਐਡ-ਆਨ ਪਰਬੰਧ…">
+<!ENTITY manageAddons.label            "…ਐਡ-ਆਨ ਪਰਬੰਧ">
 <!ENTITY manageAddons.accesskey        "M">
