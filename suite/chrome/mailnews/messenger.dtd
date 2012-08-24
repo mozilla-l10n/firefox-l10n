@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerWindow.title "Paštas ir naujienų grupės">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " – ">
@@ -536,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label "Nėra apgaulės">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Šio laiško siuntėjas pageidavo pažymos, kad perskaitėte jo laišką. Ar išsiųsti tokią pažymą?">
 <!ENTITY mdnBarIgnoreButton.label "Nepaisyti prašymo">
+<!ENTITY mdnBarIgnoreButton.accesskey "N">
 <!ENTITY mdnBarSendButton.label "Išsiųsti pažymą">
+<!ENTITY mdnBarSendButton.accesskey "s">
