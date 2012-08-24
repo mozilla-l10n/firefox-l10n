@@ -545,7 +545,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Dobrir una fenèstra novèla">
 <!ENTITY sidebarCloseButton.tooltip     "Tampar la barra laterala">
 
-<!ENTITY cutButton.tooltip              "Copar">
+<!ENTITY cutButton.tooltip              "Talhar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Empegar">
 

@@ -15,7 +15,7 @@
 <!ENTITY newtab.label          "Onglet novèl">
 <!ENTITY closetab.label        "Tampar l'onglet">
 
-<!ENTITY cut.label             "Copar">
+<!ENTITY cut.label             "Talhar">
 <!ENTITY copy.label            "Copiar">
 <!ENTITY copyAll.label         "Tot copiar">
 <!ENTITY copylink.label        "Copiar l'adreça del ligam">

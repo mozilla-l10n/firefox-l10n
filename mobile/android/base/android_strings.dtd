@@ -73,7 +73,7 @@
 <!ENTITY pref_cookies "Autorizar los cookies">
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menut">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "Amagar lo menut\">
 <!ENTITY pref_clear_private_data "Suprimir las donadas personalas">
 <!ENTITY pref_plugins "Empeutons (Plugins)">
 <!ENTITY pref_plugins_enabled "Activat">

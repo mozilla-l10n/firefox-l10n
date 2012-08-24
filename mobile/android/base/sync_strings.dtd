@@ -86,9 +86,9 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Clau de recuperacion incorrècta. Ensajatz tornarmai.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
+<!ENTITY sync.title.send.tab.label "Mandar un onglet als aparelhs">
 <!ENTITY sync.button.send.label "Mandar">
 <!ENTITY sync.button.set.up.sync.label "Installar &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Installar &syncBrand.shortName.label; per mandar d\'onglets">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Installar &syncBrand.fullName.label; sus vòstre aparelh per mandar d\'onglets a d\'autres aparelhs.">
 <!ENTITY sync.text.tab.sent.label "Vòstre onglet es estat mandat !">
