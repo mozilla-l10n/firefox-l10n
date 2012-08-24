@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label           "Savybės">
 
 <!ENTITY generalInfo.label                       "Bendroji informacija">
@@ -60,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "Kvotos šaknis:">
 <!ENTITY folderQuotaUsage.label                  "Naudojimas:">
 <!ENTITY folderQuotaStatus.label                 "Būsena:">
+
+<!ENTITY numberOfMessages.label                  "Laiškų kiekis:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "nežinomas">
+<!ENTITY sizeOnDisk.label                        "Dydis diske:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "nežinomas">

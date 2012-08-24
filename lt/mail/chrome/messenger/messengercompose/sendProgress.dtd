@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendDialog.title "Laiškų apdorojimas">
+<!ENTITY sendDialog.title "Laiško apdorojimas">
 <!ENTITY status.label     "Būsena:">
 <!ENTITY progress.label   "Eiga:">

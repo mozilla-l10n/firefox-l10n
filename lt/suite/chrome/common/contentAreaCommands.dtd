@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Neatverti iškylančiųjų langų iš šios svetainės">
 <!ENTITY popupWindowRejectCmd.accesskey "N">
@@ -42,7 +46,7 @@
 <!ENTITY viewFrameInfoCmd.label       "Informacija apie kadrą">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY fitImageCmd.label            "Priderinti paveikslą prie lango">
-<!ENTITY fitImageCmd.accesskey        "d">
+<!ENTITY fitImageCmd.accesskey        "l">
 <!ENTITY reloadImageCmd.label         "Atsiųsti paveikslą iš naujo">
 <!ENTITY reloadImageCmd.accesskey     "n">
 <!ENTITY viewImageCmd.label           "Rodyti paveikslą">
@@ -51,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setWallpaperCmd.label        "Padaryti užsklandos piešiniu">
-<!ENTITY setWallpaperCmd.accesskey    "ž">
+<!ENTITY setDesktopBackgroundCmd.label        "Naudoti kaip darbastalio fono piešinį…">
+<!ENTITY setDesktopBackgroundCmd.accesskey    "d">
 <!ENTITY bookmarkPageCmd.label        "Tinklalapį įrašyti į adresyną">
 <!ENTITY bookmarkPageCmd.accesskey    "š">
 <!ENTITY bookmarkLinkCmd.label        "Saitą įrašyti į adresyną">

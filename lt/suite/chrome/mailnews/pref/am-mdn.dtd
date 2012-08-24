@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Pranešimai apie išsiųstus laiškus">
 <!ENTITY useGlobalPrefs.label         "Naudoti bendrąsias pašto programos nuostatas">
 <!ENTITY useGlobalPrefs.accesskey     "N">
+<!ENTITY globalReceipts.label         "Bendrosios nuostatos…">
+<!ENTITY globalReceipts.accesskey     "B">
 <!ENTITY useCustomPrefs.label         "Parinkti individualias (paskyros) nuostatas">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Išsiunčiant laišką visada prašyti pranešti apie jo pristatymą">
