@@ -636,7 +636,7 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "G">
 
-<!--ENTITY socialToolbar.title        "Socialiosios juostos mygtukas"-->
+<!ENTITY socialToolbar.title        "Socializavimosi juostos mygtukas">
 <!ENTITY social.notLoggedIn.label   "Neįsiregistruota">
 
 <!ENTITY social.sharePopup.undo.label     "Nebesidalinti">
