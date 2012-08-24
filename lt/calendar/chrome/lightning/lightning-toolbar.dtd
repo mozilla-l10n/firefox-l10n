@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY lightning.toolbar.calendar.name "Kalendoriaus juosta">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Darbų juosta">
-<!ENTITY lightning.toolbar.task.accesskey "D">
+<!ENTITY lightning.toolbar.task.name.accesskey "D">
 
 <!ENTITY lightning.toolbar.sync.label "Sinchronizuoti">
 <!ENTITY lightning.toolbar.delete.label "Pašalinti">
@@ -10,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Spausdinti">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Paštas">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendorius">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Atverti kalendoriaus kortelę">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">

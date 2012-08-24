@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Kalendorius">
 <!ENTITY calendar.calendar.accesskey "K">
@@ -303,7 +307,7 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label "Tik pagal komandą">
 <!ENTITY calendarproperties.name.label              "Pavadinimas:">
 <!ENTITY calendarproperties.readonly.label          "Skirtas tik skaitymui">
-<!ENTITY calendarproperties.cache2.label            "Laikomas podėlyje">
+<!ENTITY calendarproperties.cache3.label                 "Gali būti naudojamas neprisijungus">
 <!ENTITY calendarproperties.firealarms.label        "Rodyti priminimus">
 <!ENTITY calendarproperties.enabled.label           "Naudoti šį kalendorių">
 <!ENTITY calendarproperties.forceDisabled.label     "Prieigos prie šio kalendoriaus teiktuvas nerastas. Tai gali nutikti, jei esate išjungę ar pašalinę kai kuriuos priedus.">
