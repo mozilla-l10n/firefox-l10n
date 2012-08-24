@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -496,6 +500,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey "u">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Valyti žurnalą…">
+<!ENTITY clearRecentHistory.accesskey "ž">
 <!ENTITY filtersCmd.label "Laiškų filtrai…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Filtruoti pažymėto aplanko laiškus">
@@ -540,6 +546,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Aplanko vieta">
 <!ENTITY tagButton.label "Gairės">
 <!ENTITY compactButton.label "Suglaudinti">
+<!ENTITY appmenuButton.label "Programos meniu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Ieškoti laiškų…">
@@ -570,6 +577,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Atverti pokalbių kortelę">
 <!ENTITY tagButton.tooltip "Priskirti gaires pažymėtiems laiškams">
 <!ENTITY compactButton.tooltip "Sunaikinti pašalintus laiškus iš pažymėto aplanko">
+<!ENTITY appmenuButton.tooltip "Atverti programos meniu">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Naujas laiškas">
+<!ENTITY appmenuNewContactCmd.label "Adresatas…">
+<!ENTITY appmenuEditMenu.label "Taisa">
+<!ENTITY appmenuQFBMenu.label "Sparčiojo filtro juosta">
+<!ENTITY appmenuToolbarLayout.label "Tvarkyti priemonių juostas…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nauja gairė…">

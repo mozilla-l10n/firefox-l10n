@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY toField3.label "Gavėjas ">
 <!ENTITY fromField3.label "Nuo ">
 <!ENTITY senderField3.label "Siuntėjas ">
@@ -63,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "P">
 <!ENTITY otherActionsPrint1.label "Spausdinti…">
 <!ENTITY otherActionsPrint1.accesskey "S">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Iškart rodyti priedų polangį">
+<!ENTITY startExpandedCmd.accesskey    "r">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Atverti">
