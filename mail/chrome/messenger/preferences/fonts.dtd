@@ -35,14 +35,14 @@
 <!ENTITY  font.langGroup.baltic                   "波罗的海语言">
 <!ENTITY  font.langGroup.el                       "希腊语">
 <!ENTITY  font.langGroup.turkish                  "土耳其语">
-<!ENTITY  font.langGroup.unicode                  "其他语言">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "用户定义">
 <!ENTITY  font.langGroup.thai                     "泰语">
 <!ENTITY  font.langGroup.hebrew                   "希伯莱语">
 <!ENTITY  font.langGroup.arabic                   "阿拉伯语">
 <!ENTITY  font.langGroup.devanagari               "梵文">
 <!ENTITY  font.langGroup.tamil                    "泰米尔语">
-<!ENTITY  font.langGroup.armenian                 " 亚美尼亚语">
+<!ENTITY  font.langGroup.armenian                 "亚美尼亚语">
 <!ENTITY  font.langGroup.bengali                  "孟加拉语">
 <!ENTITY  font.langGroup.canadian                 "加拿大标准音节">
 <!ENTITY  font.langGroup.ethiopic                 "埃塞俄比亚语">
