@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "सक्रिय करू ">
 <!ENTITY addonAction.disable                    "निष्क्रिय करू ">
 <!ENTITY addonAction.uninstall                  "Uninstall">
-<!ENTITY addonAction.cancel                     "रद्द  करू ">
+<!ENTITY addonAction.undo                       "पहिने जहिना">
