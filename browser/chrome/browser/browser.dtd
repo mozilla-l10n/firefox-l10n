@@ -669,5 +669,9 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.accesskey "S">
 <!ENTITY social.sharePopup.shared.label   "U heeft deze pagina gedeeld.">
 <!ENTITY social.sharePopup.portrait.arialabel "Gebruikersprofiel afbeelding">
+
 <!ENTITY social.toggleSidebar.label "Zijbalk tonen">
 <!ENTITY social.toggleSidebar.accesskey "Z">
+
+<!ENTITY social.activated.undobutton.label "Ongedaan maken">
+<!ENTITY social.activated.undobutton.accesskey "O"
