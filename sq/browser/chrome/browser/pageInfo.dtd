@@ -96,6 +96,7 @@
 <!ENTITY  permInstall           "Instalim Zgjerimesh ose Temash">
 <!ENTITY  permGeo               "Lejo Tregim Vendi">
 <!ENTITY  permPlugins           "Aktivizo Shtojcat">
+<!ENTITY  permFullscreen        "Kalo Në Mënyrën Krejt Ekrani">
 
 <!ENTITY  securityTab           "Siguri">
 <!ENTITY  securityTab.accesskey "S">

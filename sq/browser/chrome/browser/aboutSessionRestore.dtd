@@ -7,8 +7,8 @@
 <!ENTITY restorepage.tabtitle       "Rikthim Sesioni">
 <!ENTITY restorepage.restore.access "R">
 
-<!ENTITY restorepage.cancelButton   "Fillo Sesion të Ri">
-<!ENTITY restorepage.cancel.access  "F">
+<!ENTITY restorepage.closeButton    "Mbylle">
+<!ENTITY restorepage.close.access   "M">
 
 <!ENTITY restorepage.restoreHeader  "Rikthim">
 <!ENTITY restorepage.listHeader     "Dritare dhe Skeda">

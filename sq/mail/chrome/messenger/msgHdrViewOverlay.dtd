@@ -39,7 +39,7 @@
 <!ENTITY fromField3.label "Nga ">
 <!ENTITY senderField3.label "Dërgues ">
 <!ENTITY organizationField3.label "Organizëm ">
-<!ENTITY replyToField3.label "Përgjigju te ">
+<!ENTITY replyToField3.label "Përgjigjuni te ">
 
 <!ENTITY subjectField3.label "Subjekt ">
 <!ENTITY ccField3.label "Cc ">
@@ -63,7 +63,7 @@
 <!ENTITY hdrReplyButton1.tooltip "Përgjigjiuni këtij mesazhi">
 <!ENTITY hdrReplyAllButton1.label "Përgjigjiuni të Tërëve">
 <!ENTITY hdrReplyAllButton1.tooltip "Përgjigjiuni dërguesit dhe tërë marrësve">
-<!ENTITY hdrReplyListButton1.label "Përgjigju te Lista">
+<!ENTITY hdrReplyListButton1.label "Përgjigjuni te Lista">
 <!ENTITY hdrReplyListButton1.tooltip "Përgjigjuni te lista e postimeve">
 <!ENTITY hdrFollowupButton1.label "Vazhdim">
 <!ENTITY hdrFollowupButton1.tooltip "Postoni një vazhdim te ky grup lajmesh">
@@ -80,7 +80,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "I">
 <!ENTITY hdrViewToolbarShowText.label "Shfaq Vetëm Tekst">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Shfaqe Përherë pjesën Përgjigjiu Dërguesit">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Shfaqe Përherë pjesën Përgjigjiuni Dërguesit">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "P">
 
 <!ENTITY otherActionsButton1.label "Veprime të Tjera">
