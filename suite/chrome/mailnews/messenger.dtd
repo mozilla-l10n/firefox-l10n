@@ -540,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label "不是电子诈骗邮件">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "这条消息的发送者要求您读到消息时通知他。您愿意通知发送者吗？">
 <!ENTITY mdnBarIgnoreButton.label "忽略请求">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "发送回执">
+<!ENTITY mdnBarSendButton.accesskey "S">
