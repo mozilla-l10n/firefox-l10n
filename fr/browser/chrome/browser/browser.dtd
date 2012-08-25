@@ -675,5 +675,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Afficher le panneau latéral">
 <!ENTITY social.toggleSidebar.accesskey "A">
 
-<!ENTITY social.activated.button.label "Oups, annuler">
-<!ENTITY social.activated.button.accesskey "u">
+<!ENTITY social.activated.undobutton.label "Annuler">
+<!ENTITY social.activated.undobutton.accesskey "A">
