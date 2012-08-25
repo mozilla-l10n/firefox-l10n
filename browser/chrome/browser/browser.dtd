@@ -663,5 +663,6 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.activated.button.label "Epa, deshacer">
-<!ENTITY social.activated.button.accesskey "h">
+<!ENTITY social.activated.undobutton.label "Deshacer">
+<!ENTITY social.activated.undobutton.accesskey "h">
+
