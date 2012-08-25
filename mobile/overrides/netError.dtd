@@ -46,7 +46,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Daeth y Ddogfen i Ben">
-<!ENTITY notCached.longDesc "<p>Nid yw;r ddogfen gofynnwyd amdani ar gael yn storfa &brandShortName;.</p><ul><li>Fel cam i sicrhau dogelwch nid yw &brandShortName; yn gofyn yr ail waith am ddogfennau snsitif.</li><li>Cliciwch Ceisio Eto i ail ofyn am y ddogfen o'r wefan.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen gofynnwyd amdani ar gael yn storfa &brandShortName;.</p><ul><li>Fel cam i sicrhau diogelwch nid yw &brandShortName; yn gofyn yr ail waith am ddogfennau sensitif.</li><li>Cliciwch Ceisio Eto i ail ofyn am y ddogfen o'r wefan.</li></ul>">
 
 <!ENTITY netOffline.title "Modd all-lein">
 <!ENTITY netOffline.longDesc2 "<ul> 

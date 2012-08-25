@@ -9,7 +9,7 @@
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Hoff Wefan">
+<!ENTITY  awesomebar_all_pages_title "Hoff Wefannau">
 <!ENTITY  awesomebar_bookmarks_title "Nodau Tudalen">
 <!ENTITY  awesomebar_history_title "Hanes">
 <!ENTITY  awesomebar_search_engine "Chwilio am \&quot;&#037;s\&quot;">
@@ -25,8 +25,8 @@
 <!ENTITY  exit_label "Gadael">
 <!ENTITY  continue_label "Parhau">
 
-<!ENTITY  launcher_shortcuts_title "Aps Gwe &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Heb ganfod aps gwe">
+<!ENTITY  launcher_shortcuts_title "Apiau Gwe &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Heb ganfod apiau gwe">
 
 <!ENTITY choose_file "Dewis Ffeil">
 
@@ -110,7 +110,7 @@
 <!ENTITY share_image_failed "Methu rhannu\'r ddelwedd">
 <!ENTITY save_as_pdf "Cadw fel PDF">
 <!ENTITY find_in_page "Canfod yn y Dudalen">
-<!ENTITY desktop_mode "Gofyn am Wefan Bwrdd Gwaith">
+<!ENTITY desktop_mode "Gofyn am Wefan Lawn">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -162,7 +162,7 @@
 <!ENTITY abouthome_addons_browse "Pori holl ychwanegion &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Eich tabiau o’r tro diwethaf">
 <!ENTITY abouthome_last_tabs_open "Agor pob tab ers y tro diwethaf">
-<!ENTITY abouthome_top_sites_title "Hoff wefan">
+<!ENTITY abouthome_top_sites_title "Hoff wefannau">
 <!ENTITY abouthome_top_sites_browse "Pori eich hoff wefannau">
 <!ENTITY abouthome_no_top_sites "Does gennych chi ddim hoff gwefannau eto. Tapiwch y Bar Teitl i gychwn pori.">
 <!ENTITY abouthome_about_sync "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a thabiau eich dyfeisiau eraill">
