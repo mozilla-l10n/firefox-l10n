@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "离线网页应用程序">
+<!ENTITY pref.offlineCache.caption          "离线 Web 内容和用户数据">
+
+<!ENTITY clearOfflineAppCache.label         "清除">
+<!ENTITY clearOfflineAppCache.accesskey     "C">
+
+<!ENTITY offlineNotify.label                "当网站请求存储数据供离线使用时通知我。(T)">
+<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineNotifyPermissions.label     "权限管理">
+<!ENTITY offlineNotifyPermissions.accesskey "P">
+
+<!ENTITY offlineAppsList.label              "以下网站被允许存储供离线使用的数据：">
+<!ENTITY offlineAppsListRemove.label        "清除数据… (D)">
+<!ENTITY offlineAppsListRemove.accesskey    "d">

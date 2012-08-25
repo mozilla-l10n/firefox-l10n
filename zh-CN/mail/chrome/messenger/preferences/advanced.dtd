@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "更多有关遥测的信息">
 <!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+<!ENTITY scrolling.label               "滚动">
+<!ENTITY useAutoScroll.label           "使用自动滚屏">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "使用平滑滚动">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "系统集成">
 <!ENTITY alwaysCheckDefault.label      "启动时检查 &brandShortName; 是否为默认邮件客户端">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "脱机…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "磁盘空间">
-<!ENTITY offlineCompact.label "压缩文件夹，当它的内容大于">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "磁盘空间">
+<!ENTITY offlineCompactFolders.label     "需要节省空间时压缩全部文件夹">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB 合计">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

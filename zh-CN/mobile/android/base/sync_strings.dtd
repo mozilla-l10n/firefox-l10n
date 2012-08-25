@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label '重试'>
 <!ENTITY sync.button.manual.label '手动设置'>
 <!ENTITY sync.subtitle.nointernet.label '没有可用的因特网连接。'>
+<!ENTITY sync.subtitle.failaccount.label '在您的设备上创建帐户失败。'>
+<!ENTITY sync.subtitle.failmultiple.label '您安装了超过一个以上的 Firefox？目前 &syncBrand.fullName.label; 只支持在同一时间使用一个 Firefox 安装副本。请卸载其他的副本再使用 &syncBrand.shortName.label;。'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '初始设置完成'>
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 帐号。'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label '不正确的帐户名或密码。'>
+<!ENTITY sync.invalidserver.label '请输入有效的服务器 URL'>
+<!ENTITY sync.verifying.label '正在校验…'>
 <!ENTITY sync.new.recoverykey.status.incorrect '恢复密钥不正确。请重试。'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label '发送标签页到设备'>
+<!ENTITY sync.button.send.label '发送'>
+<!ENTITY sync.button.set.up.sync.label '设置 &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label '设置 &syncBrand.shortName.label; 以发送标签页'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label '在您的设备上设置 &syncBrand.fullName.label; 以发送标签页到其他设备。'>
+<!ENTITY sync.text.tab.sent.label '您的标签页已发送！'>

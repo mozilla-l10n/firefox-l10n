@@ -21,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "禁用或更换快捷菜单">
 <!ENTITY allowHideStatusBar.label        "隐藏状态栏">
 
-<!ENTITY enablePlugin.label              "使用插件">
+<!ENTITY enablePlugins.label             "允许插件用于">
 <!ENTITY enablePluginForSuite.label      "套件">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "当需要附加插件的时候">
-<!ENTITY displayNotification.label       "在正文区域顶部显示通知栏">
-<!ENTITY displayNotification.accesskey   "N">
+<!ENTITY whenPageRequiresPlugins.label   "当一个页面需要插件">
+<!ENTITY activateAllPlugins.label        "默认启用所有插件">
+<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY warnPluginsRequired.label       "如果需要安装额外的插件时警示我">
+<!ENTITY warnPluginsRequired.accesskey   "W">
