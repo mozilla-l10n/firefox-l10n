@@ -70,9 +70,9 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "ਸੁਨੇਹੇ ਸਰਵਰ ਉੱਤੇ ਰਹਿਣ ਦਿਓ">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.label "ਪੋਰਟ:">
 <!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Default:">
+<!ENTITY defaultPortLabel.label "ਡਿਫਾਲਟ:">
 <!ENTITY defaultPortValue.label "">
 
 <!-- for when the user has an SMTP server pre-configured -->

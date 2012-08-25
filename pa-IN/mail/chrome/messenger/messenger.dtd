@@ -483,7 +483,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.offline            "ਆਫਲਾਈਨ">
 <!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
 <!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
-<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.label "…ਗੱਲਬਾਤ ਵਿੱਚ ਭਾਗ ਲਵੋ">
 <!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "ਸੰਭਾਲੀਆਂ ਫਾਇਲਾਂ">
 <!ENTITY savedFiles.accesskey "l">
@@ -895,11 +895,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖਾਓ">
 
 
-<!ENTITY previousMsgButton.label "Previous">
+<!ENTITY previousMsgButton.label "ਪਿੱਛੇ">
 <!ENTITY previousButtonToolbarItem.label "Previous Unread">
 <!ENTITY previousMsgButton.tooltip "Move to the previous message">
 
-<!ENTITY nextMsgButton.label "Next">
+<!ENTITY nextMsgButton.label "ਅੱਗੇ">
 <!ENTITY nextMsgButton.tooltip "Move to the next message">
 
 <!ENTITY nextButtonToolbarItem.label "Next Unread">
