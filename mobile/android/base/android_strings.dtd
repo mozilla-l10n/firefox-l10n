@@ -151,7 +151,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Adresa">
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
 
-<!ENTITY site_settings_title "Vymazat nastavení serveru">
+<!ENTITY site_settings_title2 "Nastavení serveru…">
 <!ENTITY site_settings_cancel "Zrušit">
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
