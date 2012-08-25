@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "名字发音：">
 <!ENTITY DisplayName.label              "显示名称：">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "消息头优先列出显示名称">
+<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY NickName.label                 "昵称：">
 <!ENTITY NickName.accesskey             "N">
 
@@ -64,7 +66,7 @@
 <!ENTITY Home.tab                       "私人">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "地址：">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "城市：">
@@ -94,7 +96,7 @@
 <!ENTITY Company.label                  "工作单位：">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "地址：">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "城市：">

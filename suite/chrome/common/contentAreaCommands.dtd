@@ -123,7 +123,7 @@
 <!ENTITY spellAddToDictionary.label     "添加至字典">
 <!ENTITY spellAddToDictionary.accesskey "n">
 <!ENTITY spellUndoAddToDictionary.label      "撤销添加到字典">
-<!ENTITY spellUndoAddToDictionary.accesskey  "t">
+<!ENTITY spellUndoAddToDictionary.accesskey  "i">
 <!ENTITY spellIgnoreWord.label          "忽略该词">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "拼写检查">
