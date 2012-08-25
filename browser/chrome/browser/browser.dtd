@@ -673,5 +673,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Visa sidofält">
 <!ENTITY social.toggleSidebar.accesskey "V">
 
-<!ENTITY social.activated.button.label "Ojdå, ångra">
-<!ENTITY social.activated.button.accesskey "å">
+<!ENTITY social.activated.undobutton.label "Ångra">
+<!ENTITY social.activated.undobutton.accesskey "Å">
