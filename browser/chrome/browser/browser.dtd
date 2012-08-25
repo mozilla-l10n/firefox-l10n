@@ -45,12 +45,18 @@
 <!ENTITY pageInfoCmd.label "Të dhëna Faqeje">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Kaloni në Mënyrën Krejt Ekrani">
+<!ENTITY enterFullScreenCmd.accesskey "K">
+<!ENTITY exitFullScreenCmd.label "Dilni nga Mënyra Krejt Ekrani">
+<!ENTITY exitFullScreenCmd.accesskey "K">
 <!ENTITY fullScreenCmd.label "Tërë Ekranin">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenMinimize.tooltip "Minimizojeni">
 <!ENTITY fullScreenRestore.tooltip "Rikthejeni">
 <!ENTITY fullScreenClose.tooltip "Mbylleni">
-<!ENTITY domFullScreenWarning.label "Shtypni tastin ESC që të dilni nga mënyra krejt-ekrani">
 <!ENTITY closeWindow.label "Mbylle Dritaren">
 <!ENTITY bookmarksMenu.label "Faqerojtësa">
 <!ENTITY bookmarksMenu.accesskey "F">
@@ -362,6 +368,14 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Dil nga Mënyra Tërë Ekrani">
 <!ENTITY fullScreenExit.accesskey "T">
+<!ENTITY fullscreenAllowButton.label "Lejoje">
+<!ENTITY fullscreenExitButton.label "Mos e Lejo">
+<!ENTITY fullscreenApproval.value "Të lejohet mënyra krejt ekrani?">
+
+<!ENTITY fullscreenExitHint.value "Shtypni ESC në çfarëdo kohe që të dilni nga mënyra krejt ekrani.">
+<!ENTITY leaveDOMFullScreen.label "Dil Nga Mënyra Krejt Ekrani">
+<!ENTITY leaveDOMFullScreen.accesskey "D">
+
 <!ENTITY editBookmark.cancel.label                   "Anuloje">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
@@ -461,6 +475,15 @@
 
 <!ENTITY inspectCloseButton.tooltiptext "Mbylleni Shqyrtuesin">
 
+<!ENTITY devToolbarCloseButton.tooltiptext "Mbylleni Panelin e Zhvilluesit">
+<!ENTITY devToolbarMenu.label              "Paneli i Zhvilluesit">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.commandkey             "v">
+
+<!ENTITY webConsoleButton.label "Konsolë Web">
+<!ENTITY inspectorButton.label "Shqyrtues">
+<!ENTITY scriptsButton.label "Programthe">
+
 <!ENTITY inspectorHTMLCopyInner.label       "Kopjo HTML-në e Brendshme">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "B">
 
@@ -469,6 +492,16 @@
 
 <!ENTITY inspectorHTMLDelete.label          "Fshije Nyjen">
 <!ENTITY inspectorHTMLDelete.accesskey      "F">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "Mundësi Shqyrtuesi">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "Ulja Ndriçimin Faqes">
+<!ENTITY inspectorToggleVeil.accesskey      "U">
+<!ENTITY inspectorToggleInfobar.label       "Shfaq të Dhëna Nyjeje">
+<!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -484,11 +517,6 @@
 <!ENTITY styleeditor.accesskey        "P">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
-
-
-
-
-
 
 <!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
 <!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
@@ -569,6 +597,11 @@ can reach it easily. -->
 
 <!ENTITY inspectContextMenu.label     "Shqyrtoje Elementin">
 <!ENTITY inspectContextMenu.accesskey "E">
+
+<!ENTITY responsiveDesignTool.label   "Pamje Hartim Reagues">
+<!ENTITY responsiveDesignTool.accesskey "P">
+<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.

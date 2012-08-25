@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label     "Shfaq faqen time hyrëse">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe bosh">
 <!ENTITY startupLastSession.label  "Shfaq dritaren dhe skedat e mia të herës së fundit">
-<!ENTITY restoreOnDemand.label     "Mos ngarko skeda, pa u zgjedhur një e tillë">
-<!ENTITY restoreOnDemand.accesskey "o">
 
 <!ENTITY homepage.label            "Faqe Hyrëse:">
 <!ENTITY homepage.accesskey        "H">
