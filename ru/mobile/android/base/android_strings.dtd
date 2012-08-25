@@ -137,7 +137,7 @@
 <!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY abouthome_top_sites_title "Топ сайтов">
 <!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
-<!ENTITY abouthome_about_sync2 "Настройте Firefox Sync, чтобы получить доступ к закладкам, истории и вкладкам с других ваших устройств »">
+<!ENTITY abouthome_about_sync2 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
 <!ENTITY abouthome_about_apps "Загрузите приложения из магазина Mozilla и откройте для себя всё самое лучшее, что может предложить Интернет »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 <!ENTITY abouthome_apps_bold_name "Магазин Mozilla">
