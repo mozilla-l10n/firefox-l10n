@@ -177,7 +177,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Otevřít všechny panely z minula">
 <!ENTITY abouthome_top_sites_title "Top stránky">
 <!ENTITY abouthome_top_sites_browse "Zobrazit všechny top stránky">
-<!ENTITY abouthome_no_top_sites "Zatím nemáte žádné top stránky. Brouzdání začnete klepnutím na pole titulku.">
 <!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
