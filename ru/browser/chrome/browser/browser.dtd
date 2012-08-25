@@ -478,5 +478,5 @@
 <!ENTITY social.sharePopup.portrait.arialabel "Фото профиля пользователя">
 <!ENTITY social.toggleSidebar.label "Показать боковую панель">
 <!ENTITY social.toggleSidebar.accesskey "з">
-<!ENTITY social.activated.button.label "Ой, отменить">
-<!ENTITY social.activated.button.accesskey "м">
+<!ENTITY social.activated.undobutton.label "Отменить">
+<!ENTITY social.activated.undobutton.accesskey "м">

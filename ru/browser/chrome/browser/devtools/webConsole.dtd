@@ -40,3 +40,10 @@
 <!ENTITY btnClear.label "Очистить">
 <!ENTITY btnClear.tooltip "Очистить вывод веб-консоли">
 <!ENTITY btnClose.tooltip "Закрыть веб-консоль">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
