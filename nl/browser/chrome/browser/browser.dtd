@@ -662,3 +662,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.ok.accesskey   "O">
 <!ENTITY social.sharePopup.shared.label   "U heeft deze pagina gedeeld.">
 <!ENTITY social.sharePopup.portrait.arialabel "Gebruikersprofiel afbeelding">
+<!ENTITY social.toggleSidebar.label "Zijbalk tonen">
+<!ENTITY social.toggleSidebar.accesskey "Z">
