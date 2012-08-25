@@ -178,8 +178,19 @@ size. -->
 <!ENTITY abouthome_top_sites_title "Top stránky">
 <!ENTITY abouthome_top_sites_browse "Zobrazit všechny top stránky">
 <!ENTITY abouthome_no_top_sites "Zatím nemáte žádné top stránky. Brouzdání začnete klepnutím na pole titulku.">
-<!ENTITY abouthome_about_sync "Nastavte si Firefox Sync a přistupujte ke svým záložkám, historii a panelům ze svých ostatních zařízení">
+<!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync2 "Nastavte si Firefox Sync a přistupujte ke svým záložkám, historii a panelům ze svých ostatních zařízení »">
+<!ENTITY abouthome_about_apps "Získejte z tržiště Mozilly nové aplikace a objevte to nejlepší, co web nabízí »">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Tržiště Mozilly">
 
 <!ENTITY filepicker_title "Vyberte soubor">
 <!ENTITY filepicker_audio_title "Vyberte nebo nahrajte zvuk">
