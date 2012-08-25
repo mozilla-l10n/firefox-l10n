@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; du denc benn jaar jaar ci sesiyoŋ bi.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nekkul léegi ci anamu joowum biir.">
 
-<!ENTITY privatebrowsingpage.description               "Ci sesiyoŋu joowum biir, &brandShortName; du denc benn jaar jaaru joow, wut, yeb, formileer web, cookies walla ay dencukaayi internet. Wante dencukaay yi ñu yeb walla mandarga xët yi ñu yokk, dina ñu leen denc.">
+<!ENTITY privatebrowsingpage.description               "Ci sesiyoŋu joowum biir, &brandShortName; du denc benn jaar jaaru joow, wut, yeb, formileer web, kuki walla ay dencukaayi internet.  Wante dencukaay yi ñu yeb walla mandarga xët yi ñu yokk, dina ñu leen denc.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 

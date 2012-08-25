@@ -8,7 +8,7 @@
 <!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
 <!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
 <!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY blocklist.moreinfo          "Xibaar yu gën bari">
 
 <!ENTITY blocklist.accept.label      "Tambaliwaat &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "T">

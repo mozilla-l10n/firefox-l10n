@@ -37,7 +37,7 @@
   -  match, a match, a parent match, or a rule did not match the element the
   -  user has highlighted. -->
 
-<!ENTITY bestMatch             "Best Match">
+<!ENTITY bestMatch             "Bi gën ànd">
 <!ENTITY matched               "Matched">
 <!ENTITY parentMatch           "Parent Match">
 <!ENTITY unmatched             "Unmatched">

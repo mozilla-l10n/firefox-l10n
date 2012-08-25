@@ -1,10 +1,10 @@
 <!ENTITY aboutPage.title                        "Ci mbiru &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; dafa bees la mën am ay tolof tolof.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryStart               " Dafay yonnee ci ñakk ndigal ay xibaar ci ngoora yi, materiyel bijëfandikoo bi ak solal yi ci ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
+<!ENTITY aboutPage.telemetryEnd                 " ngir gën baaxal &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
+<!ENTITY aboutPage.support.label                "Ndimmal">
 <!ENTITY aboutPage.privacyPolicy.label          "Poltigu dundu biir">
 <!ENTITY aboutPage.rights.label                 "Ci sa mbiri sañ sañ">
 <!ENTITY aboutPage.relNotes.label               "Karmati sumb">

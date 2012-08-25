@@ -9,7 +9,7 @@
 <!ENTITY importFromUnix.label           "Fat taamu yi, mandarga xët yi, jaar jaar yi, baati jàll yi ak yeneen rootaan yi dale ko ci :">
 <!ENTITY importFromBookmarks.label      "Fat mandarga xët yi dale ko ci :">
 
-<!ENTITY importFromIE.label             "Mikorosoft Internet Ekspolorë">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Bul fat dara">
 <!ENTITY importFromNothing.accesskey    "d">
@@ -20,7 +20,7 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
-<!ENTITY noMigrationSources.label       "Amul benn xelteef bu ëmb ay mandarga xët, jaar jaar walla baatu jàll bu ñu aar.">
+<!ENTITY noMigrationSources.label       "Amul benn xeltéef bu ëmb ay mandarga xët, jaar jaar walla baatu jàll bu ñu aar.">
 
 <!ENTITY importSource.title             "Fat parameetar yi ak rootaan yi">
 <!ENTITY importItems.title              "Mbir yu ñu wara fat">

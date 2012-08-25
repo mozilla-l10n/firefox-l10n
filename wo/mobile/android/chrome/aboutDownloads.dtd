@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Yeb yi">
-<!ENTITY aboutDownloads.header                     "Your Downloads">
-<!ENTITY aboutDownloads.empty                      "No Downloads">
+<!ENTITY aboutDownloads.header                     "Say yeb">
+<!ENTITY aboutDownloads.empty                      "Yeb yi">

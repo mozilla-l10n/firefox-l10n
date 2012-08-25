@@ -13,13 +13,13 @@
 <!ENTITY networkPanel.statusCode                  "Status Code">
 
 <!ENTITY networkPanel.requestHeaders              "Boppi laaj bi">
-<!ENTITY networkPanel.requestCookie               "Kuki bu ñu yonnee">
+<!ENTITY networkPanel.requestCookie               "Kuki bu ñu yónnee">
 <!ENTITY networkPanel.requestBody                 "Ëmbu laaj bi">
-<!ENTITY networkPanel.requestFormData             "Rootaani formileer yi ñu yonnee">
+<!ENTITY networkPanel.requestFormData             "Rootaani formileer yi ñu yónnee">
 
 <!ENTITY networkPanel.responseHeaders             "Boppi tontu li">
 <!ENTITY networkPanel.responseBody                "Ëmbu tontu bi">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
+<!ENTITY networkPanel.responseBodyCached          "Rootaan yi nëbbu">
 <!ENTITY networkPanel.responseBodyUnknownType     "Ëmb bu ni mel xameesuko">
 <!ENTITY networkPanel.responseNoBody              "Amul benn ëmb ci tontu bi">
 <!ENTITY networkPanel.responseImage               "Nataal bi jot nañu ko">

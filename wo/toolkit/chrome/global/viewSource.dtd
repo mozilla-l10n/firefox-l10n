@@ -53,8 +53,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Dello ñakk ndigal ci rëdd"> 
 <!ENTITY menu_wrapLongLines.accesskey "D">
-<!ENTITY menu_highlightSyntax.label "Coloration syntaxique">
-<!ENTITY menu_highlightSyntax.accesskey "C">
+<!ENTITY menu_highlightSyntax.label "Melaxaal ci roofo baat">
+<!ENTITY menu_highlightSyntax.accesskey "M">
 <!ENTITY menu_textSize.label "Dayo mbind mi">
 <!ENTITY menu_textSize.accesskey "m">
 <!ENTITY menu_textEnlarge.label "Gëna rëy">

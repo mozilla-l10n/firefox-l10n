@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title                      "Saytukatu modili mottali yi">
-<!ENTITY aboutAddons.header2                    "Your Add-ons">
+<!ENTITY aboutAddons.header2                    "Say modili mottali">
 <!ENTITY aboutAddons.options                    "Tànneef yi">
 
 <!ENTITY addonAction.enable                     "Suqali">

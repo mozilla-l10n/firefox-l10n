@@ -6,7 +6,7 @@
 <!ENTITY     props.value.label              "Këmb gi:">
 <!ENTITY     props.domain.label             "Njaatige :">
 <!ENTITY     props.path.label               "Yoon:">
-<!ENTITY     props.secure.label             "Yonnee ngir:">
+<!ENTITY     props.secure.label             "Yónnee ngir:">
 <!ENTITY     props.expires.label            "App gi:">
 
 <!ENTITY     button.allow.label             "Joxe ndigal">
@@ -16,6 +16,6 @@
 <!ENTITY     button.deny.label              "Tere">
 <!ENTITY     button.deny.accesskey          "T">
 
-<!ENTITY     dialog.title                   "Dëggal paraameetaaru cookie">
-<!ENTITY     dialog.remember.label          "Def tànn bii ci cookies dal bii">
+<!ENTITY     dialog.title                   "Dëggal paraameetaaru kuki">
+<!ENTITY     dialog.remember.label          "Def tànn bii ci kuki dal bii">
 <!ENTITY     dialog.remember.accesskey      "D">

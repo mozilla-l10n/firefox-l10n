@@ -16,8 +16,8 @@
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Log Out">
 <!ENTITY devmgr.button.logout.accesskey         "O">
-<!ENTITY devmgr.button.changepw.label           "Change Password">
-<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.changepw.label           "Soppi baatu jàll bi">
+<!ENTITY devmgr.button.changepw.accesskey       "b">
 <!ENTITY devmgr.button.load.label               "Load">
 <!ENTITY devmgr.button.load.accesskey           "L">
 <!ENTITY devmgr.button.unload.label             "Unload">

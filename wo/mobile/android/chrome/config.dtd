@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder2    "Search Settings">
+<!ENTITY search.placeholder2    "Paraameetari wut">
 <!ENTITY clear.altText          "Tuur konsol bi">
-<!ENTITY newpref.label2         "Add a New Setting">
+<!ENTITY newpref.label2         "Yokk beneen paraameetar">

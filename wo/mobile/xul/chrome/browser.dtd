@@ -2,125 +2,125 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Wut walla makkaan">
 
 <!ENTITY back.label            "Xët bi jiitu">
 <!ENTITY forward.label         "Bi ci topp">
 <!ENTITY reload.label          "Yeesal">
 <!ENTITY stop.label            "Taxaw">
-<!ENTITY go.label              "Go">
-<!ENTITY star.label            "Star">
+<!ENTITY go.label              "Demal">
+<!ENTITY star.label            "Mandargaal">
 
-<!ENTITY showTabs.label        "Show Tabs">
+<!ENTITY showTabs.label        "Wone koñ yi">
 <!ENTITY newtab.label          "Koñ bu bees">
 <!ENTITY closetab.label        "Tëj koñ bi">
 
 <!ENTITY cut.label             "Dog">
 <!ENTITY copy.label            "Duppi">
-<!ENTITY copyAll.label         "Copy All">
+<!ENTITY copyAll.label         "Duppi yépp">
 <!ENTITY copylink.label        "Duppi màkkaanu buum bi">
 <!ENTITY paste.label           "Taf">
-<!ENTITY pasteAndGo.label      "Paste &amp; Go">
+<!ENTITY pasteAndGo.label      "Taf te dem">
 <!ENTITY delete.label          "Màbb">
 <!ENTITY selectAll.label       "Fal lépp">
-<!ENTITY noSuggestions.label   "(No suggestions)">
+<!ENTITY noSuggestions.label   "(Amul benn tektal)">
 <!ENTITY addToDictionary.label "Yokk ci téere baat bi">
-<!ENTITY inputMethod.label     "Select Input Method">
+<!ENTITY inputMethod.label     "Soppi anamu tappe bi">
 
 <!ENTITY allPagesHeader.label      "Xêt yépp">
-<!ENTITY bookmarksHeader.label     "Bookmarks">
+<!ENTITY bookmarksHeader.label     "Mandarga xët yi">
 <!ENTITY historyHeader.label       "Jaar jaar">
-<!ENTITY desktopHeader.label       "Desktop">
+<!ENTITY desktopHeader.label       "Ordinatëër">
 
-<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
-<!ENTITY editBookmarkDone.label    "Done">
-<!ENTITY editBookmarkTags.label    "Add tags here">
+<!ENTITY editBookmarkDialog.title  "Soppali mandarga xët wi">
+<!ENTITY editBookmarkDone.label    "Sotti na">
+<!ENTITY editBookmarkTags.label    "Yokk ay etiket fii">
 
-<!ENTITY selectHelper.done         "Done">
+<!ENTITY selectHelper.done         "Sotti na">
 
 <!ENTITY addonsHeader.label        "Modilu mottali">
-<!ENTITY addonsLocal.label         "Your Add-ons">
+<!ENTITY addonsLocal.label         "Say modil">
 <!ENTITY addonsUpdate.label        "Yeesal">
 <!ENTITY addonsRepo.label          "Katalog">
-<!ENTITY addonsRecommended.label   "Recommended">
+<!ENTITY addonsRecommended.label   "Santaane nañu leen">
 <!ENTITY addonsSearch.label        "Wut">
-<!ENTITY addonsSearch2.emptytext   "Search Catalog">
-<!ENTITY addonsSearch.recommended  "Recommended">
+<!ENTITY addonsSearch2.emptytext   "Wut katalog">
+<!ENTITY addonsSearch.recommended  "Santaane nañu leen">
 
 <!ENTITY addonOptions.label        "Tànnéef yi">
 <!ENTITY addonEnable.label         "Suqali">
 <!ENTITY addonDisable.label        "Suuxal">
-<!ENTITY addonInstall2.label       "Add to &brandShortName;">
+<!ENTITY addonInstall2.label       "Yokk ci &brandShortName;">
 <!ENTITY addonUninstall.label      "Simpi">
-<!ENTITY addonCancel.label         "Cancel">
-<!ENTITY addonShowPage.label       "Go to Page">
+<!ENTITY addonCancel.label         "Neenal">
+<!ENTITY addonShowPage.label       "Dem ci xët">
 
 <!ENTITY downloadsHeader.label     "Yeb yi">
-<!ENTITY downloadShowPage.label    "Go to Page">
+<!ENTITY downloadShowPage.label    "Dem ci xët wi">
 <!ENTITY downloadShow2.label       "Wut">
 <!ENTITY downloadOpen2.label       "Ubbi">
-<!ENTITY downloadCancel.label      "Cancel">
+<!ENTITY downloadCancel.label      "Neenal">
 <!ENTITY downloadPause.label       "Taxaw">
 <!ENTITY downloadResume.label      "Dooraat">
 <!ENTITY downloadRetry.label       "Jéemaat">
-<!ENTITY downloadRemove.label      "Remove">
+<!ENTITY downloadRemove.label      "Màbbal">
 <!ENTITY downloadDelete.label      "Màbb">
 <!ENTITY downloadFailed.label      "Lajj na">
 
-<!ENTITY noResults.label           "No results">
-<!ENTITY allBookmarks.label        "See all bookmarks">
+<!ENTITY noResults.label           "Amul dara">
+<!ENTITY allBookmarks.label        "Mandarga xët yépp">
 
 <!ENTITY bookmarkPopup.label       "Xët bu ñu mandarga">
-<!ENTITY bookmarkRemove.label      "Remove">
-<!ENTITY bookmarkEdit.label        "Edit">
-<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
+<!ENTITY bookmarkRemove.label      "Màbbal">
+<!ENTITY bookmarkEdit.label        "Soppi">
+<!ENTITY bookmarkShortcut.label    "Yokk ci dalal jamm bi">
 
-<!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
+<!ENTITY identity.unverifiedsite2 "Dalub web bi joxewul benn xibaar ci dantiteem.">
 <!ENTITY identity.connectedTo2 "Jokkoo ak">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "run by">
+<!ENTITY identity.runBy2 "ki ko saytu">
 
 <!ENTITY consoleHeader.label       "Konsol njumte yi">
-<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleAll.label          "Yépp">
 <!ENTITY consoleErrors.label       "Njumte yi">
 <!ENTITY consoleWarnings.label     "Artu yi">
-<!ENTITY consoleMessages.label     "Messages">
+<!ENTITY consoleMessages.label     "Bataaxal yi">
 <!ENTITY consoleCodeEval.label     "Suulaale:">
 <!ENTITY consoleClear.label        "Tuur konsol bi">
-<!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Source File:">
-<!ENTITY consoleErrLine.label      "Line:">
-<!ENTITY consoleErrColumn.label    "Column:">
+<!ENTITY consoleEvaluate.label     "...">
+<!ENTITY consoleErrFile.label      "Dencukaay cosaan:">
+<!ENTITY consoleErrLine.label      "Rëdd:">
+<!ENTITY consoleErrColumn.label    "Xall:">
 
 <!ENTITY contextOpenInNewTab.label    "Ubbi buum bi ci koñ bu bees">
 <!ENTITY contextSaveImage.label       "Aar nataal bi">
-<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyLink.label        "Duppi buum gi">
 <!ENTITY contextCopyEmail.label       "Duppi màkkaanu i meel">
-<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyPhone.label       "Duppi nimero telefon bi">
 <!ENTITY contextCopyImageLocation.label       "Duppi màkkaanu nataal bi">
-<!ENTITY contextShareLink.label       "Share Link">
-<!ENTITY contextShareImage.label      "Share Image">
-<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextShareLink.label       "Seddoo buum bi">
+<!ENTITY contextShareImage.label      "Seddoo nataal bi">
+<!ENTITY contextBookmarkLink.label    "Mandargaal buum bi">
 <!ENTITY contextSaveVideo.label       "Aar wideyoo bi">
-<!ENTITY contextShareVideo.label      "Share Video">
+<!ENTITY contextShareVideo.label      "Seddoo wideyoo bi">
 <!ENTITY contextPlayMedia.label       "Tambali">
 <!ENTITY contextPauseMedia.label      "Taxaw">
 <!ENTITY contextFullScreen.label      "Seetukaay bu yambalaŋ">
-<!ENTITY contextEditBookmark.label    "Edit">
-<!ENTITY contextRemoveBookmark.label  "Remove">
-<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
+<!ENTITY contextEditBookmark.label    "Jagal">
+<!ENTITY contextRemoveBookmark.label  "Màbbal">
+<!ENTITY contextShortcutBookmark.label "Yokk gattal dalal jamm bi">
 
-<!ENTITY pageactions.saveas.pdf      "Save As PDF">
-<!ENTITY pageactions.share.page      "Share Page">
-<!ENTITY pageactions.password.forget "Forget Password">
+<!ENTITY pageactions.saveas.pdf      "Aar ci daytalu PDF">
+<!ENTITY pageactions.share.page      "Seddoo">
+<!ENTITY pageactions.password.forget "Fatte baatu jàll">
 <!ENTITY pageactions.quit            "Génn">
-<!ENTITY pageactions.reset           "Clear Site Preferences">
-<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.reset           "Far taamu dal">
+<!ENTITY pageactions.findInPage      "Wut mbind">
 <!ENTITY pageactions.search.addNew   "Yokk benn motëru wut">
 <!ENTITY pageactions.charEncoding    "Suulale araf yi">
 
-<!ENTITY appMenu.siteOptions         "Site Options">
+<!ENTITY appMenu.siteOptions         "Tànneefi dalub web bi">

@@ -13,12 +13,12 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Reset">
-<!ENTITY resetPassword.title  "Reset Master Password">
+<!ENTITY resetPassword.title  "Far baatu jàll bi gëna am solo">
 <!ENTITY resetPassword.text  "If you reset your master password, all your stored web and e-mail passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title  "Enter Master Password">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
+<!ENTITY getPassword.title  "Dugal baatu jàll bi gëna am solo">
+<!ENTITY getPassword.tokenName2.label "Wër ndombo kaarange">
 <!ENTITY getPassword.password.label "Baatu jàll:">
 <!-- These should be common -->
 
@@ -29,7 +29,7 @@
 <!ENTITY pref.security.general.lHeader "Kaarange">
 <!ENTITY pref.security.general.rHeader "Settings for general security">
 <!ENTITY pref.security.general.header "Settings for general security">
-<!ENTITY pref.security.general.level.title "Security Level">
+<!ENTITY pref.security.general.level.title "Tollu tollu kaarange">
 <!ENTITY pref.security.general.paranoid.label "Use paranoid security settings">
 <!ENTITY pref.security.general.certificates.title "Sarsifikaa">
 <!ENTITY pref.security.general.manageCert.label "Manage Certificates">
@@ -42,7 +42,7 @@
 <!ENTITY downloadCert.trustObjSign "Trust this CA to identify software developers.">
 <!ENTITY downloadCert.message3 "Before trusting this CA for any purpose, you should examine its certificate and its policy and procedures (if available).">
 <!ENTITY downloadCert.viewCert.label "Wone bi">
-<!ENTITY downloadCert.viewPolicy.label "Policy">
+<!ENTITY downloadCert.viewPolicy.label "Politig">
 <!ENTITY downloadCert.viewCert.text "Examine CA certificate">
 <!ENTITY downloadCert.viewPolicy.text "Examine CA policies and procedures">
 <!-- Certificate Exists in database -->
@@ -58,7 +58,7 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Select Certificate">
-<!ENTITY certPicker.info  "Certificate:">
+<!ENTITY certPicker.info  "Sarsifikaa:">
 <!ENTITY certPicker.detailsLabel "Details of selected certificate:">
 
 <!ENTITY pkcs12.setpassword.title  "Choose a Certificate Backup Password">
@@ -77,8 +77,8 @@
 <!ENTITY escrowWarn.message1 "Important: This certificate authority has asked to make a backup of your encryption private key.">
 <!ENTITY escrowWarn.benefit1 "The benefit is that if you lose access to your encryption private key, you can request a copy from this certificate authority.">
 <!ENTITY escrowWarn.message2 "However, your encryption private key will be stored by the certificate authority, and could be used to read your encrypted email or documents without your permission.">
-<!ENTITY examineCert.label "View Certificate">
-<!ENTITY examineCert.accesskey "V">
+<!ENTITY examineCert.label "Gis sarsifika">
+<!ENTITY examineCert.accesskey "G">
 
 <!ENTITY serverCrlNextupdate.message "Please ask your system administrator for assistance">
 <!-- Strings for the CreateCertInfo dialog  -->

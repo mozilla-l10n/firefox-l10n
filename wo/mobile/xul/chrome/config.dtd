@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY empty.label            "Wut">
-<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY newpref.label          "Yokk taamu bu bees">
 <!ENTITY addpref.name           "Tur">
 <!ENTITY addpref.value          "Solo">
 
 <!ENTITY cancel.label           "Neenal">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY reset.label            "Sàjjaat">
+<!ENTITY done.label             "Jeex na">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
+<!ENTITY integer.label          "Ñumm">
+<!ENTITY string.label           "Calala">
 <!ENTITY boolean.label          "Boolean">

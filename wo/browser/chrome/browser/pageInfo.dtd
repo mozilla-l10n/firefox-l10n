@@ -18,10 +18,10 @@
 <!ENTITY  generalTab            "Ëmb lépp">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Màkkaan (URL) :">
-<!ENTITY  generalType           "Gir :">
+<!ENTITY  generalType           "Giir :">
 <!ENTITY  generalMode           "Anamu dippi :">
 <!ENTITY  generalSize           "Dayo :">
-<!ENTITY  generalReferrer       "URL bi mu ñëwe :">
+<!ENTITY  generalReferrer       "URL bi mu tukkee :">
 <!ENTITY  generalSource         "Cosaanu nëbb gi :">
 <!ENTITY  generalModified       "Soppi ci :">
 <!ENTITY  generalEncoding       "Suulaalee :">

@@ -4,18 +4,18 @@
 
 <!ENTITY  blockPopups.label           "Tëye panlanteeru popup">
 <!ENTITY  blockPopups.accesskey       "T">
-<!ENTITY  popupExceptions.label       "Lu kenn tëggaalewul…">
-<!ENTITY  popupExceptions.accesskey   "L">
+<!ENTITY  popupExceptions.label       "Yi kenn tëggaalewul…">
+<!ENTITY  popupExceptions.accesskey   "Y">
 
-<!ENTITY  loadImages.label            "Fat boppam nataal yi">
+<!ENTITY  loadImages.label            "Fat boppamu nataal yi">
 <!ENTITY  loadImages.accesskey        "n">
-<!ENTITY  exceptions.label            "Lu kenn tëggaalewul…">
+<!ENTITY  exceptions.label            "Yi kenn tëggaalewul…">
 <!ENTITY  exceptions.accesskey        "k">
 
 <!ENTITY  enableJavaScript.label      "Suqali JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "S">
-<!ENTITY  advancedJS.label            "Sore…">
-<!ENTITY  advancedJS.accesskey        "S">
+<!ENTITY  advancedJS.label            "Xóot…">
+<!ENTITY  advancedJS.accesskey        "X">
 
 <!ENTITY  enableJava.label            "Dekkali Java">
 <!ENTITY  enableJava.accesskey        "J">
@@ -28,8 +28,8 @@
 <!ENTITY  defaultSize.label           "Dayo :">
 <!ENTITY  defaultSize.accesskey       "D">
 
-<!ENTITY  advancedFonts.label         "Sore…">
-<!ENTITY  advancedFonts.accesskey     "S">
+<!ENTITY  advancedFonts.label         "Xóot…">
+<!ENTITY  advancedFonts.accesskey     "X">
 
 <!ENTITY  colors.label                "Melo yi…">
 <!ENTITY  colors.accesskey            "M">

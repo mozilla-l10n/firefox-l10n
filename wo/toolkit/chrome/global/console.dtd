@@ -4,13 +4,13 @@
 
 <!ENTITY errorConsole.title "Konsol njumte yi">
 
-<!ENTITY errFile.label   "Source File:">
-<!ENTITY errLine.label   "Line:">
-<!ENTITY errColumn.label "Column:">
+<!ENTITY errFile.label   "Dencukaay cosaan:">
+<!ENTITY errLine.label   "Rëdd:">
+<!ENTITY errColumn.label "Xall:">
 
 <!ENTITY all.label          "All">
 <!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "Errors">
+<!ENTITY errors.label       "Njumte yi">
 <!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Artu yi">
 <!ENTITY warnings.accesskey "A">

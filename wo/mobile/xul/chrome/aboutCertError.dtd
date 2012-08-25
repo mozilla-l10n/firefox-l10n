@@ -24,7 +24,7 @@ was trying to connect. -->
 <!ENTITY certerror.expert.heading "Xam naa risk yi">
 <!ENTITY certerror.expert.content "Boo xamee li am, mën nga wax &brandShortName; mu tàmbali am koolute ci dantite dal bi. <b> Boo wóoloo sax dal bi, njumte bi mën na tekki ni dafa am ku bëgg jariñoo sa jokkoo.</b>">
 <!ENTITY certerror.expert.contentPara2 "Bul yokk lu kenn tëggaalewul ndare mu wóor la lu tax dal bi di jëfandikoo dantite bu ñu wóoralul.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+<!ENTITY certerror.addTemporaryException.label "Gane dalub web bi">
+<!ENTITY certerror.addPermanentException.label "Yokk seppi bu amul app">
 
 <!ENTITY certerror.technical.heading "Benn bennal yu xarala">

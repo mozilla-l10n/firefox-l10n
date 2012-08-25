@@ -1,15 +1,15 @@
 <!ENTITY aboutPage.title                        "Ci mbiru &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; dafa bees la mën am ay tolof tolof.">
-<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryStart               " Dafay yonnee ay xibaar ci mën mën yi, materiyel bi, jëfandikoo yi ak solal yi ci ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
+<!ENTITY aboutPage.telemetryEnd                 " ngir gëna baaxal &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Wut ay yeesal">
 <!ENTITY aboutPage.checkForUpdates.checking     "Wut ay yeesal...">
 <!ENTITY aboutPage.checkForUpdates.none         "Benn yeesal féexul">
 <!ENTITY aboutPage.checkForUpdates.found        "Yeesal bu féex">
 <!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
-<!ENTITY aboutPage.privacyPolicy.label          "Poltigu dundu biir">
+<!ENTITY aboutPage.support.label                "Ndimmal">
+<!ENTITY aboutPage.privacyPolicy.label          "Politigu dundu biir">
 <!ENTITY aboutPage.rights.label                 "Ci sa mbiri sañ sañ">
 <!ENTITY aboutPage.relNotes.label               "karmati sumb">
 <!ENTITY aboutPage.credits.label                "Ñi wall si">

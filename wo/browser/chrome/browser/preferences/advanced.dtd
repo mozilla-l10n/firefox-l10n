@@ -23,12 +23,12 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Jëfandikoo xiiralu masin bi su feexee">
 <!ENTITY allowHWAccel.accesskey          "n">
-<!ENTITY checkSpelling.label             "Seetantal mbind mi boo dee dugal">
+<!ENTITY checkSpelling.label             "Settantal mbind mi boo dee dugal">
 <!ENTITY checkSpelling.accesskey         "d">
 
 <!ENTITY systemDefaults.label            "Doxalin">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Saa su ne boo dee tambali xoolal ndax &brandShortName; mooy joowkat ñakk ndigal">
+<!ENTITY alwaysCheckDefault.label        "Saa su ne boo dee tàmbali xoolal ndax &brandShortName; mooy joowkat ñakk ndigal">
 <!ENTITY alwaysCheckDefault.accesskey    "a">
 <!ENTITY setDefault.label                "Defal &brandShortName; sa joowukaay ñakk ndigal">
 <!ENTITY setDefault.accesskey            "D">
@@ -58,7 +58,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Yemale denc mi ci">
 <!ENTITY limitCacheSizeBefore.accesskey  "Y">
-<!ENTITY limitCacheSizeAfter.label       "Mo ci dendu disk bi">
+<!ENTITY limitCacheSizeAfter.label       "MB ci dendu disk bi">
 <!ENTITY clearCacheNow.label             "Tuur ndenc mi leegi">
 <!ENTITY clearCacheNow.accesskey         "T">
 <!ENTITY clearOfflineAppCacheNow.label   "Tuural leegi">
@@ -82,7 +82,7 @@
 <!ENTITY updateHistory.label             "Wone jaar jaaru mottali yi">
 <!ENTITY updateHistory.accesskey         "a">
 
-<!ENTITY useService.label                "Jëfandikool ab sarwiisu laltu ngir ssamp yeesal yi">
+<!ENTITY useService.label                "Jëfandikool ab sarwiisu laltu ngir samp yeesal yi">
 <!ENTITY useService.accesskey            "k">
 
 <!ENTITY updateOthers.label              "Yeesal ñakk ndigal:">
@@ -98,7 +98,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Far…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
-<!ENTITY offlineAppRemove.confirm        "Mabb rootaan yi ne ci jokkoodiku">
+<!ENTITY offlineAppRemove.confirm        "Màbb rootaan yi ne ci jokkoodiku">
 
 <!ENTITY encryptionTab.label             "Woññi wi">
 
@@ -117,7 +117,7 @@
 <!ENTITY viewCerts.accesskey             "a">
 <!ENTITY viewCRLs.label                  "Limi bañ">
 <!ENTITY viewCRLs.accesskey              "L">
-<!ENTITY verify2.label                   "Wóóral gi">
+<!ENTITY verify2.label                   "Wóoral gi">
 <!ENTITY verify2.accesskey               "W">
 <!ENTITY viewSecurityDevices.label       "Wër ndombo kaarange">
 <!ENTITY viewSecurityDevices.accesskey   "a">

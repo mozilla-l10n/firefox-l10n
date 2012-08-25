@@ -6,7 +6,7 @@
 
 <!ENTITY certmgr.tab.mine                     "Your Certificates">
 <!ENTITY certmgr.tab.others2                  "People">
-<!ENTITY certmgr.tab.websites3                "Servers">
+<!ENTITY certmgr.tab.websites3                "Serwëër yi">
 <!ENTITY certmgr.tab.ca                       "Authorities">
 <!ENTITY certmgr.tab.orphan2                  "Yeneen">
 
@@ -14,9 +14,9 @@
 <!ENTITY certmgr.ca.mycas                     "CAs Managed By You">
 
 <!ENTITY certmgr.mine                         "You have certificates from these organizations that identify you:">
-<!ENTITY certmgr.others                       "You have certificates on file that identify these people:">
-<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
-<!ENTITY certmgr.cas                          "You have certificates on file that identify these certificate authorities:">
+<!ENTITY certmgr.others                       "Am bga sarsifika yu ñu aar di wone ñi ñooy ñan:">
+<!ENTITY certmgr.websites2                    "Am nga ay sarsifikaa yu ñu aar te mëna xammee serwëër yii:">
+<!ENTITY certmgr.cas                          "Am nga ay sarsifikaa yu ñu aar, tey xammee kelifa yi ci wallu sarsifikaa:">
 <!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Ëmb lépp">
@@ -31,7 +31,7 @@
 <!ENTITY certmgr.fingerprints.label           "Fingerprints">
 <!ENTITY certmgr.certdetail.title             "Certificate Detail">
 <!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
-<!ENTITY certmgr.certdetail.o                 "Organization (O)">
+<!ENTITY certmgr.certdetail.o                 "Mbootaay">
 <!ENTITY certmgr.certdetail.ou                "Organizational Unit (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Serial Number">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Fingerprint">
@@ -52,20 +52,20 @@
 <!ENTITY certmgr.editemailcert.dotrust        "Trust the authenticity of this certificate.">
 <!ENTITY certmgr.editemailcert.donttrust      "Do not trust the authenticity of this certificate.">
 
-<!ENTITY certmgr.deletecert.title             "Delete Certificate">
+<!ENTITY certmgr.deletecert.title             "Màbb benn sarsifikaa">
 <!ENTITY certmgr.deletecert.beforename        "You have requested to delete this certificate:">
-<!ENTITY certmgr.deletecert.aftername         "Are you sure you want to delete this certificate?">
-<!ENTITY certmgr.deleteusercert.title         "Delete Your Certificate">
+<!ENTITY certmgr.deletecert.aftername         "Ndax bëgg dëgg màbb sasifikaa bii?">
+<!ENTITY certmgr.deleteusercert.title         "Màbb sarsifikaa">
 <!ENTITY certmgr.deleteusercert.beforename    "You have requested to delete the certificate:">
 <!ENTITY certmgr.deleteusercert.aftername     "Once you have deleted this certificate, you will not be able to read mail that has been encrypted with it.">
 
 <!ENTITY certmgr.certname                     "Certificate Name">
-<!ENTITY certmgr.certserver                   "Server">
+<!ENTITY certmgr.certserver                   "Serwëër">
 <!ENTITY certmgr.override_lifetime            "Lifetime">
 <!ENTITY certmgr.tokenname                    "Wër ndombo kaarange">
 <!ENTITY certmgr.issued                       "Issued On">
 <!ENTITY certmgr.expires                      "Expires On">
-<!ENTITY certmgr.email                        "E-Mail Address">
+<!ENTITY certmgr.email                        "Màkkaanu imeel">
 <!ENTITY certmgr.serial                       "Serial Number">
 
 <!ENTITY certmgr.close.label                  "Tëj">
@@ -78,8 +78,8 @@
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Yokk">
 <!ENTITY certmgr.add.accesskey                "Y">
-<!ENTITY certmgr.export.label                 "Export…">
-<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.export.label                 "jàllale…">
+<!ENTITY certmgr.export.accesskey             "j">
 <!ENTITY certmgr.delete2.label                "Màbb...">
 <!ENTITY certmgr.delete2.accesskey            "M">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
@@ -88,26 +88,26 @@
 <!ENTITY certmgr.backup2.accesskey            "A">
 <!ENTITY certmgr.backupall2.label             "Backup All…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Import…">
-<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.restore2.label               "Fat…">
+<!ENTITY certmgr.restore2.accesskey           "F">
 <!ENTITY certmgr.details.label                "Certificate Fields">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Field Value">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "Add Exception…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.addException.label           "Yokk lu kenn tëgaalewul…">
+<!ENTITY certmgr.addException.accesskey       "Y">
 
 <!ENTITY exceptionMgr.title                   "Add Security Exception">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Server">
+<!ENTITY exceptionMgr.certlocation.caption2   "Serwëër">
 <!ENTITY exceptionMgr.certlocation.url        "Màkkaan :">
-<!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
+<!ENTITY exceptionMgr.certlocation.download   "Am sarsifikaa">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">
+<!ENTITY exceptionMgr.certstatus.caption      "Nekkinu sarsifikaa bi">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Wone…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Permanently store this exception">

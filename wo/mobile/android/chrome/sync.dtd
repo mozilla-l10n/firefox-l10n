@@ -3,29 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Jàppante">
-<!ENTITY sync.notconnected          "Not connected">
-<!ENTITY sync.connect               "Connect">
-<!ENTITY sync.connected             "Connected">
+<!ENTITY sync.notconnected          "Jokkoowul">
+<!ENTITY sync.connect               "Jokkoo">
+<!ENTITY sync.connected             "Jokkoo">
 <!ENTITY sync.details               "Benn bennal yi">
-<!ENTITY sync.deviceName            "This device">
-<!ENTITY sync.disconnect            "Disconnect">
+<!ENTITY sync.deviceName            "Aparey bii">
+<!ENTITY sync.disconnect            "Jokkoowul">
 <!ENTITY sync.syncNow               "Jàppanteel léegi">
 
-<!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "Boo bëggee sajj, falal « boole ci benn apaarey » ci sa beneen apaarey.">
-<!ENTITY sync.fallback              "I'm not near my computer…">
-<!ENTITY sync.setup.manual          "Enter your Sync account information">
-<!ENTITY sync.account               "Account Name">
+<!ENTITY sync.setup.title           "Jokkoo ak Sync">
+<!ENTITY sync.setup.pair            "Boo bëggee sàjj, falal « boole ci benn apaarey » ci sa beneen apaarey.">
+<!ENTITY sync.fallback              "Mënuma jot sama ordinatëër ci jamono jii...">
+<!ENTITY sync.setup.manual          "Dugal say xibaari koont Sync">
+<!ENTITY sync.account               "Turu koont">
 <!ENTITY sync.password              "Baatu jàll">
-<!ENTITY sync.recoveryKey           "Recovery Key">
+<!ENTITY sync.recoveryKey           "Caabi delloosi">
 <!ENTITY sync.customServer          "Jëfandikoo serwëër bu ñu solal">
-<!ENTITY sync.serverURL             "Server URL">
-<!ENTITY sync.setup.connect         "Connect">
+<!ENTITY sync.serverURL             "URL sewëër bi">
+<!ENTITY sync.setup.connect         "Jokkoo">
 <!ENTITY sync.setup.cancel          "Neenal">
 <!ENTITY sync.setup.tutorial        "Nan la">
-<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+<!ENTITY sync.setup.waiting2        "Ci xaar yeneen apaarey...">
 
 <!ENTITY sync.pair.title            "Boole ak benn aparey">
 <!ENTITY sync.pair.description      "Boo bëggee sajj sa apparey bu bees falal « tabbal jappante » ci moom.">
 <!ENTITY sync.setup.close           "Tëj">
-<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
+<!ENTITY sync.setup.waitingdownload "Say rootaan yabu nañu ci ginnaaw. Mën nga tëj palanteer bi waxtu wu la neexee.">

@@ -12,11 +12,11 @@
 <!ENTITY safeb.palm.message.p2.linkText "nila &brandShortName; di aare">
 <!ENTITY safeb.palm.message.p2.end " songu dóolinka.">
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
+<!ENTITY safeb.palm.accept.label "Génn fii!">
 <!ENTITY safeb.palm.accept.statustext "Dem ci sama xëtu dalal jamm">
 <!ENTITY safeb.palm.decline.label "Bul faale artu bii">
 <!ENTITY safeb.palm.decline.statustext "Tëj artu bi" >
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
+<!ENTITY safeb.palm.notforgery.label2 "Lii du dalub web royaal...">
 <!ENTITY safeb.palm.reportPage.label "Lu tax ñu boloke dal bi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Xët bu bon !">
@@ -25,5 +25,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Xët yu bon yi dañuy jéema samp ay porogaraam yuy sacc say xibaar, di jëfandikoo sa ordinatëër ngir song yeneen walla ñu yaq sa doxalin.</p><p>Xët yu bari da ñuy tay di yonnee ay xeltéef yu bon, wante xët yu bari dañuy taq te seen boroom yëgul.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Dal bi royaal la !">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "<p>Boo dugalee ay xibaar ci xëtu web bii, mën nañu sacc sa dantite walla def yeneen forod.</p>">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Giri dalub web yii seen liggéey mooy naxe te ñu kooy tudde soŋu doolinka.</p>">

@@ -2,32 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs                   "Your tabs from last time">
-<!ENTITY aboutHome.remoteTabs                   "Tabs from your other computers">
-<!ENTITY aboutHome.recommendedAddons2           "Add-ons for your &brandShortName;">
-<!ENTITY aboutHome.giveFeedback                 "Give Feedback">
-<!ENTITY aboutHome.getHelp                      "Get Help">
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>Dalu</span><span>&brandShortName;</span>">
+<!ENTITY aboutHome.recentTabs                   "Koñi sesiyoŋ bi jiitu">
+<!ENTITY aboutHome.remoteTabs                   "Koñi Firefox ci sa yeneen ordinatëër">
+<!ENTITY aboutHome.recommendedAddons2           "Modil pur &brandShortName;">
+<!ENTITY aboutHome.giveFeedback                 "Joxe sa xalaat">
+<!ENTITY aboutHome.getHelp                      "Am ndimmal">
 <!ENTITY aboutHome.footerWidth                  "10em">
-<!ENTITY aboutHome.openAllTabs                  "Open all in tabs">
-<!ENTITY aboutHome.noTabs                       "No tabs from last time">
-<!ENTITY aboutHome.noAddons                     "No recommended add-ons">
-<!ENTITY aboutHome.getLocale                    "Change Language">
-<!ENTITY aboutHome.getInBeforeBeta              "Get in before Beta.">
-<!ENTITY aboutHome.tryAurora                    "Try Firefox Aurora and help shape the future of Firefox.">
+<!ENTITY aboutHome.openAllTabs                  "Ubbi yépp ci ay koñ">
+<!ENTITY aboutHome.noTabs                       "Amul benn koñ ci yi mujj">
+<!ENTITY aboutHome.noAddons                     "Amul benn modil bu ñu digle">
+<!ENTITY aboutHome.getLocale                    "Tannal aw lakk">
+<!ENTITY aboutHome.getInBeforeBeta              "Am ko laata Beta.">
+<!ENTITY aboutHome.tryAurora                    "Liggééyal ci Firefox Aurora ngir dimmali ñu ci Firefox bi di ñëw.">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<!ENTITY aboutHome.downloadAurora  "Download Aurora">
+<!ENTITY aboutHome.downloadAurora  "Yeb Aurora">
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
-<!ENTITY aboutHome.forAndroid   "for Android">
+<!ENTITY aboutHome.forAndroid   "pur Android">
 <!-- LOCALIZATION NOTE:
      (aboutHome.setupSync): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.setupSync            "Set Up Sync">
+<!ENTITY aboutHome.setupSync            "Tabb jappante bi">
 <!-- LOCALIZATION NOTE:
      (aboutHome.syncPairDevice): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.

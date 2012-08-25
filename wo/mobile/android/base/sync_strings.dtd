@@ -4,59 +4,59 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "Faayafoks jàppante">
+<!ENTITY syncBrand.fullName.label "Firefox jàppante">
 <!ENTITY syncBrand.shortName.label "Jàppante">
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Tabb &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
+<!ENTITY sync.title.adddevice.label "Yokk benn koont &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Boole ak benn aparey">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
+<!ENTITY sync.subtitle.connect.label "Boo bëggee sajj sa apaarey bu bees, falal « Tabb &syncBrand.shortName.label;» ci aparey bi.">
+<!ENTITY sync.subtitle.header.label "Dugalal suulaale bi ci sa ordinatëër">
+<!ENTITY sync.subtitle.connectlocation.label "Falal « &sync.title.pair.label; » ci biir &syncBrand.shortName.label; ay tànneefi Firefox ci sa ordinatëër.">
 <!ENTITY sync.subtitle.pair.label "Boo bëggee sajj, falal « boole ci benn apaarey » ci sa beneen apaarey.">
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Won ma nan la.">
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
+<!ENTITY sync.link.advancedsetup.label "Tabbin bu xoot...">
 <!ENTITY sync.link.nodevice.label "Amewuma aparey ak man...">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Mi ngiy xaar beneen aparey bi...">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
+<!ENTITY sync.subtitle.account.label "Dugalal say xammeekaayi koont pur &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Turu koont bi">
 <!ENTITY sync.input.password.label "Baatu jàll">
 <!ENTITY sync.input.key.label "Caabi jëli">
 <!ENTITY sync.checkbox.server.label "Jëfandikoo serwëër bu ñu solal">
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.input.server.label "URL serwëër bi">
 <!-- Setup Fail -->
   
 <!ENTITY sync.title.fail.label "Tabb &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; mënula jokkoo ak serwëër bi. Ndax bëgg nga jéemaat?">
 <!ENTITY sync.button.tryagain.label "Jéemaatal">
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+<!ENTITY sync.button.manual.label "Tabbinu loxo">
+<!ENTITY sync.subtitle.nointernet.label "Jokkoo internet feexul.">
+<!ENTITY sync.subtitle.failaccount.label "Sos koont ci sa apaprey lajj na.">
+<!ENTITY sync.subtitle.failmultiple.label "Ndax Firefox yu bari nga samp ? Leegi, syncBrand.fullName.label ; benn  Firefox rekk la mëna samp.Simpil yeneen yi ngir mëna jëfandikoo syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Tabbin bi sotti na">
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 "Say rootaan yi jappoo nañu ci ginnaaw. Mën nga dem ci njëlu parameetar yi ngir saytu sa koont walla nga tàmbali joow ak &brandShortName;.">
 <!ENTITY sync.settings.label "Parammeetar yi">
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 "Sa koont &syncBrand.fullName.label;tabbu na ba pare. Mën nga dem ci njëlu parameetar ngir saytu sa koont, walla nga tàmbali &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Jéemaatal.">
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+<!ENTITY sync.pair.connectlocation.label "Boo bëggee sàjj aparey bu bees, falal, « Tabb &syncBrand.shortName.label; » ci aparey bi , te nga fal « Am naa koont.»">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Tànneef yi">
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.summary.pair.label "Boole beneen aparey ci sa koont &syncBrand.shortName.label;">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Neenal">
@@ -69,15 +69,15 @@
   
 <!ENTITY bookmarks.folder.menu.label "Njëlu mandarga xët yi">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
+<!ENTITY bookmarks.folder.tags.label "Etiket">
 <!ENTITY bookmarks.folder.toolbar.label "Sa banqaasu bopp">
 <!ENTITY bookmarks.folder.unfiled.label "Mandarga xët yu ñu ràññetlewul">
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+<!ENTITY bookmarks.folder.desktop.label "Mandarga xëti orddinatëër">
 <!ENTITY bookmarks.folder.mobile.label "Mandarga xëti telefon">
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.readinglist.label "Limu njàng">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label "Benn koont &syncBrand.fullName.label; rekk moon la ñu mëna saytu.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Turu koont walla baatu jàll bu jaaduwul.">
@@ -86,9 +86,9 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Caabi jëli bi baaxul. Jéemaatal.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
+<!ENTITY sync.title.send.tab.label "Yónnee koñ bi ci aparey yi">
+<!ENTITY sync.button.send.label "Yónnee">
+<!ENTITY sync.button.set.up.sync.label "Tabb &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Taxawal ay &syncBrand.shortName.label; ngir yónnee">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Tabbal &syncBrand.fullName.label; ci sa aparey ngir yonnee ay koñ ci yeneen aparey.">
+<!ENTITY sync.text.tab.sent.label "Sa koñ bi yonnee nañu ko!">

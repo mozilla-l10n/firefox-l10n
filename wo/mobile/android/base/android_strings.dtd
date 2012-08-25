@@ -3,96 +3,96 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "Tabbinu &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Yeesalu say mandarga xët ak sa jaar jaar. Mën na jël benn walla ñaari simili.">
 
-<!ENTITY  no_space_to_start_error "Dend bi doyul ngir &brandShortName; mëna tambali.">
+<!ENTITY  no_space_to_start_error "Dend bi doyul ngir &brandShortName; mëna tàmbali.">
 <!ENTITY  error_loading_file "Am na ab njumte bi ñuy jéema yeb dencukaay yiy dawloo &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
-<!ENTITY  awesomebar_bookmarks_title "Bookmarks">
+<!ENTITY  awesomebar_all_pages_title "Dal yu xejj">
+<!ENTITY  awesomebar_bookmarks_title "Mandarga xët yi">
 <!ENTITY  awesomebar_history_title "Jaar jaar">
-<!ENTITY  awesomebar_search_engine "Search for \&quot;&#037;s\&quot;">
+<!ENTITY  awesomebar_search_engine "Wut \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Rapooru lajj &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Tambaliwaat &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  crash_message "&brandShortName; ngiroo na. Say koñ war nañu feeñ ci xëtu tàmbali &brandShortName; su tàmbaliwaatee.">
+<!ENTITY  crash_help_message "Dimmaliñu ñu jubbanti tolof tolof bii!">
+<!ENTITY  crash_send_report_message "Yonnee benn raapooru ngiroo ci Mozilla">
+<!ENTITY  crash_include_url "Dugal makkaanu xët wi">
+<!ENTITY  crash_close_label "Tëj">
+<!ENTITY  crash_restart_label "Tàmbaliwaat &brandShortName;">
+<!ENTITY  sending_crash_report "Yónnee raapooru ngiroo\u2026">
 <!ENTITY  exit_label "Génn">
 <!ENTITY  continue_label "Kontineel">
 
 <!ENTITY  launcher_shortcuts_title "paraameetar &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_empty "Amul benn jëfekaayu web bu ñu gis">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Tànn benn dencukaay">
 
-<!ENTITY awesomebar_default_text "Enter Search or Address">
+<!ENTITY awesomebar_default_text "Wut walla makkaan">
 
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs "Koñ yu jappoo">
+<!ENTITY remote_tabs_show_all "Wone koñ yépp">
 
 <!ENTITY bookmark "Mandarga xët">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark_added "Mandarga xët bu ñu yokk">
+<!ENTITY bookmark_removed "Mandarga xët wu màbb">
+<!ENTITY bookmark_updated "Mandarga xët bu ñu yeesal">
 
-<!ENTITY history_today_section "Today">
+<!ENTITY history_today_section "Tey">
 <!ENTITY history_yesterday_section "Démb">
 <!ENTITY history_week_section "Am na léegi 7 fan">
 <!ENTITY history_older_section "Am na lu ëpp 7 fan">
 
 <!ENTITY reload "Yeesal">
-<!ENTITY forward "Forward">
+<!ENTITY forward "Xët wi ci topp">
 <!ENTITY menu "Njël">
-<!ENTITY back "Back">
+<!ENTITY back "Dellu ginnaaw">
 <!ENTITY stop "Taxaw">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Kaarange dal bi">
 
 <!ENTITY close_tab "Tëj koñ bi">
 <!ENTITY new_tab "Koñ bu bees">
-<!ENTITY one_tab "1 tab">
+<!ENTITY one_tab "1 koñ">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d tabs">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY num_tabs "&#037;d koñ">
+<!ENTITY new_tab_opened "Koñ bu bees ubbeekuna">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
+<!ENTITY settings "Parammeetar yi">
+<!ENTITY settings_title "Parammeetar yi">
 <!ENTITY pref_category_general "Ëmb lépp">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
+<!ENTITY pref_category_privacy "Dundu biir ak kaarange">
 <!ENTITY pref_category_content "Këmb gi">
-<!ENTITY pref_category_importexport "Import &amp; Export">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_do_not_track "Tell sites not to track me">
+<!ENTITY pref_category_importexport "Fat ak jàllale">
+<!ENTITY pref_about_firefox "Tàmbaliwaat &brandShortName;">
+<!ENTITY pref_do_not_track "Waxal ñu bañ ma topp">
 <!ENTITY pref_telemetry "Joxe ngoora rootaan yi">
-<!ENTITY pref_remember_signons "Remember passwords">
-<!ENTITY pref_cookies "Enable cookies">
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data "Clear private data">
+<!ENTITY pref_remember_signons "Fattaliku baatu jàll">
+<!ENTITY pref_cookies "Jox ndigal kuki yi">
+<!ENTITY pref_char_encoding "Suulale araf yi">
+<!ENTITY pref_char_encoding_on "Wone njël li">
+<!ENTITY pref_char_encoding_off "Nëbb njël li">
+<!ENTITY pref_clear_private_data "Màbb rootaani biir yi">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
+<!ENTITY pref_plugins_enabled "Suqali">
+<!ENTITY pref_plugins_tap_to_play "Laal mu tàkk">
+<!ENTITY pref_plugins_disabled "Suuxal">
 <!ENTITY pref_text_size "Dayo mbind mi">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
+<!ENTITY pref_font_size_tiny "Tuuti lool">
+<!ENTITY pref_font_size_small "Tuuti">
+<!ENTITY pref_font_size_medium "Yam ci digg bi">
+<!ENTITY pref_font_size_large "Yaatu">
+<!ENTITY pref_font_size_xlarge "Yaatu bu bari">
 <!ENTITY pref_use_master_password "Jëfandikoo baatu jàll bi gëna am solo">
 <!ENTITY pref_sync "Jàppante">
 <!ENTITY pref_search_suggestions "Wane tektali wut">
-<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_import_android "Fat dale ko ci Android">
 <!ENTITY pref_private_data_history "Joowum &amp; yeb jaar jaar bi">
 <!ENTITY pref_private_data_formdata "Formileer &amp; wut jaar jaar bi">
 <!ENTITY pref_private_data_cookies "Kuki yi">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_passwords "Baati jàll yi ñu aar">
 <!ENTITY pref_private_data_cache "Damb bu gaaw">
 <!ENTITY pref_private_data_sessions "Jokkoo yiy dox">
 <!ENTITY pref_private_data_offlineApps "Rotaani dalub web yu jokkoowul">
@@ -102,76 +102,76 @@
 
 <!ENTITY addons "Modilu mottali">
 <!ENTITY downloads "Yeb yi">
-<!ENTITY apps "Apps">
+<!ENTITY apps "Jëfekaay">
 <!ENTITY char_encoding "Suulale araf yi">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY share_image_failed "Unable to share this image">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY share "Seddoo">
+<!ENTITY share_title "Seddoo ci">
+<!ENTITY share_image_failed "Kenn mëneesula seddoo nataal bi">
+<!ENTITY save_as_pdf "Aar ko ci PDF">
+<!ENTITY find_in_page "Wut ci biir xët wi">
+<!ENTITY desktop_mode "Xool sumbu ordinatëër bi">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Find in Page">
+<!ENTITY find_text "Wut ci biir xët bi">
 <!ENTITY find_prev "Bi jiitu">
 <!ENTITY find_next "Bi ci topp">
-<!ENTITY find_close "Close">
+<!ENTITY find_close "Tëj">
 
 <!ENTITY contextmenu_open_new_tab "Ubbi ci biir koñ bu bees">
-<!ENTITY contextmenu_remove_history "Remove">
-<!ENTITY contextmenu_remove_bookmark "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
-<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
+<!ENTITY contextmenu_remove_history "Màbbal">
+<!ENTITY contextmenu_remove_bookmark "Màbbal">
+<!ENTITY contextmenu_add_to_launcher "Yokk ci palanteeru dalal jamm bi">
+<!ENTITY contextmenu_share "Seddoo">
+<!ENTITY contextmenu_pasteandgo "Taf te ubbi">
 <!ENTITY contextmenu_paste "Taf">
-<!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_copyurl "Duppi màkkaan bi">
+<!ENTITY contextmenu_edit_bookmark "Soppi">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
 
-<!ENTITY history_removed "Page removed">
+<!ENTITY history_removed "Xët bi ñu màbbal">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_title "Soppali mandarga xët bi">
 <!ENTITY bookmark_edit_name "Tur">
 <!ENTITY bookmark_edit_location "Màkkaan">
 <!ENTITY bookmark_edit_keyword "Caabi baat">
 
-<!ENTITY site_settings_title        "Clear Site Settings">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Tuur konsol bi">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_title        "Far parameetaru dal bi">
+<!ENTITY site_settings_cancel       "Neenal">
+<!ENTITY site_settings_clear        "Far">
+<!ENTITY site_settings_no_settings  "Amul parameetar bu ñuy far.">
 
-<!ENTITY reading_list "Reading List">
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reading_list "Limu jàng">
+<!ENTITY reading_list_added "Xët bu ñu yokk ci sa limu njàng">
+<!ENTITY reading_list_removed "Xët bu ñu rocci ci sa limu njàng">
+<!ENTITY reading_list_failed "Mëneesula yokk xët wi ci sa limu njang">
 <!ENTITY reader_mode "Anamu dippi">
 
 <!ENTITY masterpassword_create_title "Soppi baatu jàll bi gëna am solo">
 <!ENTITY masterpassword_remove_title "Soppi baatu jàll bi gëna am solo">
 <!ENTITY masterpassword_password "Baatu jàll">
-<!ENTITY masterpassword_confirm "Dëggal baatu caabi bi">
+<!ENTITY masterpassword_confirm "Dëggal baatu jàll bi">
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Cancel">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_cancel "Neenal">
+<!ENTITY button_clear_data "Far rootaan">
 
-<!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
-<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
-<!ENTITY abouthome_sync_bold_name "Faayafoks jàppante">
+<!ENTITY abouthome_addons_title "Modil ngir sa &brandShortName;">
+<!ENTITY abouthome_addons_browse "Seetal modil yépp ngir &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Say koñ yi mujj ubbeeku">
+<!ENTITY abouthome_last_tabs_open "Ubbil mandarga yépp">
+<!ENTITY abouthome_top_sites_title "Dalub web yu xejj yi">
+<!ENTITY abouthome_top_sites_browse "Seetal say dal yu xéjj yépp">
+<!ENTITY abouthome_no_top_sites "Amagoo benn dal bu xejj. Laalal banqaasu bopp bi ngir tàmbali joow.">
+<!ENTITY abouthome_about_sync "Parameetaral Firefox ngir agg say mandarga xët, jaar jaar ak koñi yeneen aparey yi">
+<!ENTITY abouthome_sync_bold_name "Firefox jàppante">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_title "Tànn benn dencukaay">
+<!ENTITY filepicker_audio_title "Tànn walla aar benn riir">
+<!ENTITY filepicker_image_title "Tànn benn nataal walla nga duppi ko">
+<!ENTITY filepicker_video_title "Tànn walla aar benn wideyo">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "Yaa ngi ci">
@@ -188,16 +188,16 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "te boroom di">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "Rootaan biir yi far">
+<!ENTITY private_data_fail "Am ay rootaani biir yu kenn mënul far">
 
 <!ENTITY bookmarkhistory_button_import "Fat">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_import_both "Fat ay mandarga xët ak jaar jaar
+dale ko ci Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Fat ay mandarga xët ak jaar jaar
+dale ko ci Android">
+<!ENTITY bookmarkhistory_import_history "Fat jaar jaar
+dale ko ci Android">
+<!ENTITY bookmarkhistory_import_wait "Xaaral...">
 
-<!ENTITY webapp_generic_name "App">
+<!ENTITY webapp_generic_name "Jëfekaay">

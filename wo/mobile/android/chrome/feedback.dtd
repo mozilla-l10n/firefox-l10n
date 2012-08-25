@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedbackHeader2.label          "Feedback Tools">
+<!ENTITY feedbackHeader2.label          "Jumtukaay pur tas wax">
 
-<!ENTITY feedback.communicate.title     "Communicate to Us!">
-<!ENTITY feedback.feedback.title        "Give feedback">
-<!ENTITY feedback.feedback.good         "Good">
-<!ENTITY feedback.feedback.bad          "Bad">
+<!ENTITY feedback.communicate.title     "Jokkoo ak ñun!">
+<!ENTITY feedback.feedback.title        "Joxe li nga yëg">
+<!ENTITY feedback.feedback.good         "Baax na">
+<!ENTITY feedback.feedback.bad          "Baaxul">
 
-<!ENTITY feedback.tools.title           "Tools">
+<!ENTITY feedback.tools.title           "Jumtukaay yi">
 <!ENTITY feedback.allowTelemetry.title  "Joxe ngoora rootaan yi">
-<!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
-<!ENTITY feedback.errorConsole.title    "Enable the Error Console">
+<!ENTITY feedback.forceCompat.title     "Forseel modil yi ñu ànd">
+<!ENTITY feedback.errorConsole.title    "Sàjj konsolu njumte yi">

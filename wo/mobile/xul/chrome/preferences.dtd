@@ -4,25 +4,25 @@
 
 <!ENTITY prefsHeader.label                         "Taamu yi">
 <!ENTITY about.title                               "Ci mbiru &brandShortName;">
-<!ENTITY about.button                              "Go to Page">
+<!ENTITY about.button                              "Dem ci xët">
 <!ENTITY content.title                             "Këmb">
-<!ENTITY reflowZoom.title                          "Reformat text on zoom">
-<!ENTITY showImages.title                          "Show images">
+<!ENTITY reflowZoom.title                          "Mbind yambalaŋ bu ñu daytalaat">
+<!ENTITY showImages.title                          "Wone nataal yi">
 <!ENTITY enableJavaScript.title                    "Suqali JavaScript">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
+<!ENTITY privacy.title                             "Dundu biir ak kaarange">
+<!ENTITY allowCookies.title                        "Jox ndigal kuki yi">
+<!ENTITY doNotTrack.title                          "Bu ma kenn topp">
 <!ENTITY masterPassword.title                      "Jëfandikoo baatu jàll bi gëna am solo">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
+<!ENTITY clearPrivateData2.title                   "Rootaani biir">
 <!ENTITY clearPrivateData.button                   "Tuur konsol bi">
-<!ENTITY rememberPasswords.title                   "Remember passwords">
+<!ENTITY rememberPasswords.title                   "Fattaliku baatu jàll">
 <!ENTITY language.title                            "Lammiñ">
 <!ENTITY language.auto                             "Gis boppam">
 <!ENTITY defaultBrowser.title                      "Joowkat ñakk ndigal">
 <!ENTITY defaultBrowser.description                "Defal &brandShortName; sa joowukaay ñakk ndigal">
-<!ENTITY homepage.title                            "Start page">
-<!ENTITY homepage.none                             "Blank Page">
+<!ENTITY homepage.title                            "Dalal jamm">
+<!ENTITY homepage.none                             "Xët bu weyëŋ">
 <!ENTITY homepage.default                          "Dalub &brandShortName;">
-<!ENTITY homepage.currentpage                      "Use Current Page">
-<!ENTITY showCharsetEncoding.title                 "Show character encoding">
+<!ENTITY homepage.currentpage                      "Xët biy daw">
+<!ENTITY showCharsetEncoding.title                 "Wone suulaale bi">
 <!ENTITY actionbar.default                         "Paraameetar &brandShortName;">

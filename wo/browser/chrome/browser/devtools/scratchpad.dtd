@@ -87,10 +87,10 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Help">
-<!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "Help">
-<!ENTITY helpMenuWin.accesskey        "H">
+<!ENTITY helpMenu.label               "Ndimbal">
+<!ENTITY helpMenu.accesskey           "d">
+<!ENTITY helpMenuWin.label            "Ndimbal">
+<!ENTITY helpMenuWin.accesskey        "d">
 
 <!ENTITY documentationLink.label      "Scratchpad Help on MDN">
 <!ENTITY documentationLink.accesskey  "D">

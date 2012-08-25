@@ -5,21 +5,21 @@
 
 <!ENTITY  splash_firstrun "Tabbinu &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "Dend bi doyul ngir &brandShortName; mëna tambali.">
+<!ENTITY  no_space_to_start_error "Dend bi doyul ngir &brandShortName; mëna tàmbali.">
 <!ENTITY  error_loading_file "Am na ab njumte bi ñuy jéema yeb dencukaay yiy dawloo &brandShortName;">
 
 <!ENTITY  crash_reporter_title "Rapooru lajj &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
+<!ENTITY  crash_message "&brandShortName; dafa ngiroo. Say koñ war nañu feeñ ci xëtu tàmbali &brandShortName; su tàmbaliwaatee.">
+<!ENTITY  crash_help_message "Dimmali ma jubbanti tolof tolof bi!">
+<!ENTITY  crash_send_report_message "Yónneel benn rapooru ngiroo ci Mozilla">
+<!ENTITY  crash_include_url "Dugalal màkkaanu xët wi">
 <!ENTITY  crash_close_label "Tëj">
-<!ENTITY  crash_restart_label "Tambaliwaat &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  crash_restart_label "Tàmbaliwaat &brandShortName;">
+<!ENTITY  sending_crash_report "Yónnee rapooru ngiroo\u2026">
 <!ENTITY  exit_label "Génn">
 <!ENTITY  continue_label "Kontineel">
 
 <!ENTITY  launcher_shortcuts_title "paraameetar &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_empty "Gisuñu benn jëfekaayu web">
 
 <!ENTITY choose_file "Tànn benn dencukaay">

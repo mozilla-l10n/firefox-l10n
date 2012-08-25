@@ -37,15 +37,15 @@
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
 
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Step Over">
+<!ENTITY debuggerUI.stepOverButton.tooltip   "Jéego bi ci tegu">
 <!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
   -  button that steps into a function call. -->
 
-<!ENTITY debuggerUI.stepInButton.tooltip     "Step In">
+<!ENTITY debuggerUI.stepInButton.tooltip     "Ci biir jéego bi">
 <!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
   -  button that steps out of a function call. -->
 
-<!ENTITY debuggerUI.stepOutButton.tooltip    "Step Out">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "Génn">
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 
@@ -59,12 +59,12 @@
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
 
-<!ENTITY debuggerUI.propertiesTitle  "Scope variables">
+<!ENTITY debuggerUI.propertiesTitle  "Sorewaay yu wuute">
 <!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
   -  appears in the filter text box when it is empty. -->
 
-<!ENTITY debuggerUI.emptyFilterText  "Filter scripts">
+<!ENTITY debuggerUI.emptyFilterText  "Segg scripts yi">
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
 
-<!ENTITY debuggerUI.emptyScriptText  "No scripts.">
+<!ENTITY debuggerUI.emptyScriptText  "Amul sripts.">

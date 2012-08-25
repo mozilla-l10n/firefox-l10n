@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title             "Soppi banqaasi jumtukaay yi">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
-<!ENTITY instructions.description "Boo bëggee yokk mba neenal ay mbir da nga leen di tegg walla nga dindi leen ci banqaasu jumtukaay yi.">
+<!ENTITY instructions.description "Boo bëggee yokk mba neenal ay mbir da nga leen di teg walla nga dindi leen ci banqaasu jumtukaay yi.">
 <!ENTITY show.label               "Wone:">
 <!ENTITY iconsAndText.label       "Njunj ak bind">
 <!ENTITY icons.label              "Njunj yi">

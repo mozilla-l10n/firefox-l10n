@@ -28,8 +28,8 @@
 
 <!ENTITY search.emptytext               "Wut">
 <!ENTITY searchHeader.label             "Search results">
-<!ENTITY toctab.label                   "Contents">
-<!ENTITY toctab.accesskey               "C">
+<!ENTITY toctab.label                   "Këmb gi">
+<!ENTITY toctab.accesskey               "K">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

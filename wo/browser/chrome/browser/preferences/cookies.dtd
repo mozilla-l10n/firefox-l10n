@@ -4,20 +4,20 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Cookies yii ñi ngi sa biir ordinatëër :">
-<!ENTITY     cookiename.label               "Turu cookie bi">
+<!ENTITY     cookiesonsystem.label          "Kuki yii ñi ngi sa biir ordinatëër:">
+<!ENTITY     cookiename.label               "Turu kuki bi">
 <!ENTITY     cookiedomain.label             "Dal"> 
-<!ENTITY     button.removecookies.label     "Màbbal cookie yi">
-<!ENTITY     button.removecookie.label      "Màbbal cookie">
+<!ENTITY     button.removecookies.label     "Màbbal kuki yi">
+<!ENTITY     button.removecookie.label      "Màbbal kuki">
 <!ENTITY     button.removecookie.accesskey  "M">
-<!ENTITY     button.removeallcookies.label  "Màbbal cookies yépp">
+<!ENTITY     button.removeallcookies.label  "Màbbal kuki yépp">
 <!ENTITY     button.removeallcookies.accesskey "y">
 
 <!ENTITY     props.name.label               "Tur :">
 <!ENTITY     props.value.label              "Ëmb gi :">
-<!ENTITY     props.domain.label             "Gan :">
+<!ENTITY     props.domain.label             "Njaatige:">
 <!ENTITY     props.path.label               "Yoon:">
-<!ENTITY     props.secure.label             "Yonnee ngir :">
+<!ENTITY     props.secure.label             "Yónnee ngir:">
 <!ENTITY     props.expires.label            "Jeex :">
 
 <!ENTITY     window.title                   "Kuki yi">

@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY webapps.title.placeholder "Enter a title">
-<!ENTITY webapps.permissions "Allow access:">
+<!ENTITY webapps.title.placeholder "Dugal benn bopp">
+<!ENTITY webapps.permissions "Joxe ndigalu dugg:">
 <!ENTITY webapps.perm.geolocation "Joow ci fi nga dëkke">
-<!ENTITY webapps.perm.offline "Offline data storage">
-<!ENTITY webapps.perm.notifications "Desktop notifications">
-<!ENTITY webapps.perm.requestedHint "(requested)">
-<!ENTITY webapps.add-homescreen "Add to home screen">
+<!ENTITY webapps.perm.offline "Denc ay rootaan ci ñakk jokkoo">
+<!ENTITY webapps.perm.notifications "Biral yi ci biro bi">
+<!ENTITY webapps.perm.requestedHint "(laaj dugg)">
+<!ENTITY webapps.add-homescreen "Yokk ci seetukaayu dalal jamm bi">

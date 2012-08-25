@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "Tambali">
+<!ENTITY startup.label             "Tàmbali">
 
 <!ENTITY startupPage.label         "Bu &brandShortName; tambalee :">
 <!ENTITY startupPage.accesskey     "t">
@@ -17,26 +17,26 @@
 <!ENTITY useMultiple.label         "Xët yiy daw">
 <!ENTITY chooseBookmark.label      "Mandarga xët...">
 <!ENTITY chooseBookmark.accesskey  "M">
-<!ENTITY restoreDefault.label      "Delloosi tabbin ñakk ndigal">
+<!ENTITY restoreDefault.label      "Delloosi tabbinu ñakk ndigal">
 <!ENTITY restoreDefault.accesskey  "D">
 
 <!ENTITY downloads.label     "Yeb yi">
 
-<!ENTITY showWhenDownloading.label     "Wane palanteeru yeb yi bu ñu dee yeb ab dencukaay">
-<!ENTITY showWhenDownloading.accesskey "a">
-<!ENTITY closeWhenDone.label "Tëjal palanteer bi bu yeb yépp jeexee">
+<!ENTITY showWhenDownloading.label     "Wone palanteeru yeb yi bu ñu dee yeb ab dencukaay">
+<!ENTITY showWhenDownloading.accesskey "o">
+<!ENTITY closeWhenDone.label "Tëjal palanteer bi bu yeb yépp sottee">
 <!ENTITY closeWhenDone.accesskey "l">
-<!ENTITY saveTo.label "Aar dencukaay yi ci biir">
+<!ENTITY saveTo.label "Aar dencukaay yi ci biir wayndare bi">
 <!ENTITY saveTo.accesskey "n">
 <!ENTITY chooseFolderWin.label        "Seet…">
 <!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Tànn…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-<!ENTITY alwaysAsk.label "Laaj saa su nekk fan lañuy aar dencukaay yi">
+<!ENTITY alwaysAsk.label "Laaj saa su ne fan la ñuy aar dencukaay yi">
 <!ENTITY alwaysAsk.accesskey "L">
 
-<!ENTITY addonsMgr.label               "Modili mottali">
-<!ENTITY manageAddonsDescWin.label     "Soppi tànnéef yi ngir say modil">
-<!ENTITY manageAddonsDescUnix2.label   "Soppi taamu yi ngir modil">
+<!ENTITY addonsMgr.label               "Modili mottali yi">
+<!ENTITY manageAddonsDescWin.label     "Soppi tànneef yi ngir say modil">
+<!ENTITY manageAddonsDescUnix2.label   "Soppi taamu yi ngir say modil">
 <!ENTITY manageAddons.label            "Saytu modili mottali…">
 <!ENTITY manageAddons.accesskey        "S">
