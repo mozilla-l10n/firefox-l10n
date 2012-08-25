@@ -47,9 +47,14 @@
 
 <!ENTITY reload "重新加载">
 <!ENTITY forward "前进">
+<!ENTITY menu "菜单">
+<!ENTITY back "后退">
+<!ENTITY stop "停止">
+<!ENTITY site_security "网站安全">
 
 <!ENTITY close_tab "关闭标签页">
 <!ENTITY new_tab "新建标签页">
+<!ENTITY one_tab "1 个标签页">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d 个标签页">
@@ -60,6 +65,7 @@
 <!ENTITY pref_category_general "常规">
 <!ENTITY pref_category_privacy "隐私和安全">
 <!ENTITY pref_category_content "内容">
+<!ENTITY pref_category_importexport "导入和导出">
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
 <!ENTITY pref_do_not_track "告诉网站不要追踪我">
 <!ENTITY pref_telemetry "发送性能数据">
@@ -68,10 +74,7 @@
 <!ENTITY pref_char_encoding "显示字符编码">
 <!ENTITY pref_char_encoding_on "显示菜单">
 <!ENTITY pref_char_encoding_off "不显示菜单">
-<!ENTITY pref_clear_history "清空历史记录">
-<!ENTITY pref_clear_history_confirm "浏览历史记录将被删除">
 <!ENTITY pref_clear_private_data "清除隐私数据">
-<!ENTITY pref_clear_private_data_confirm "浏览设置，包括密码和 cookie，都将被删除">
 <!ENTITY pref_plugins "插件">
 <!ENTITY pref_plugins_enabled "已启用">
 <!ENTITY pref_plugins_tap_to_play "轻击即可播放">
@@ -84,17 +87,30 @@
 <!ENTITY pref_font_size_xlarge "超大">
 <!ENTITY pref_use_master_password "使用主密码">
 <!ENTITY pref_sync "同步">
+<!ENTITY pref_search_suggestions "显示搜索建议">
+<!ENTITY pref_import_android "从安卓系统导入">
+<!ENTITY pref_private_data_history "浏览和下载历史">
+<!ENTITY pref_private_data_formdata "表单和搜索历史">
+<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_passwords "已保存密码">
+<!ENTITY pref_private_data_cache "高速缓存">
+<!ENTITY pref_private_data_sessions "已登录会话">
+<!ENTITY pref_private_data_offlineApps "离线站点数据">
+<!ENTITY pref_private_data_siteSettings "网站偏好">
 
 <!ENTITY quit "退出">
 
 <!ENTITY addons "附加组件">
 <!ENTITY downloads "下载">
+<!ENTITY apps "应用">
 <!ENTITY char_encoding "字符编码">
 
 <!ENTITY share "共享">
 <!ENTITY share_title "分享，通过">
+<!ENTITY share_image_failed "无法分享这个图像">
 <!ENTITY save_as_pdf "另存为 PDF">
 <!ENTITY find_in_page "在页面中查找">
+<!ENTITY desktop_mode "请求桌面版网站">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -108,6 +124,9 @@
 <!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_share "共享">
+<!ENTITY contextmenu_pasteandgo "粘贴并转到">
+<!ENTITY contextmenu_paste "粘贴">
+<!ENTITY contextmenu_copyurl "复制地址">
 <!ENTITY contextmenu_edit_bookmark "编辑">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
@@ -124,9 +143,10 @@
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "无需要清空的设置。">
 
-<!ENTITY add_to_reading_list "添加到阅读列表">
+<!ENTITY reading_list "正在读取列表">
 <!ENTITY reading_list_added "页面已添加到你的阅读列表">
 <!ENTITY reading_list_removed "页面已经从你的阅读列表中移除">
+<!ENTITY reading_list_failed "添加页面到您的阅读列表失败">
 <!ENTITY reader_mode "阅读器模式">
 
 <!ENTITY masterpassword_create_title "创建主密码">
@@ -136,6 +156,7 @@
 
 <!ENTITY button_ok "确定">
 <!ENTITY button_cancel "取消">
+<!ENTITY button_clear_data "清除数据">
 
 <!ENTITY abouthome_addons_title "您的 &brandShortName; 附加组件">
 <!ENTITY abouthome_addons_browse "浏览所有 &brandShortName; 附加组件">
@@ -166,3 +187,14 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "它的经营者为">
+
+<!ENTITY private_data_success "私人数据已清除">
+<!ENTITY private_data_fail "一些私人数据不能被清除">
+
+<!ENTITY bookmarkhistory_button_import "导入">
+<!ENTITY bookmarkhistory_import_both "从安卓系统导入书签和历史记录">
+<!ENTITY bookmarkhistory_import_bookmarks "正在从 Android 导入书签">
+<!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史纪录">
+<!ENTITY bookmarkhistory_import_wait "请稍候...">
+
+<!ENTITY webapp_generic_name "应用">
