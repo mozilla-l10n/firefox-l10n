@@ -92,7 +92,7 @@
 <!ENTITY pref_private_data_history "ब्राउज़िंग और डाउनलोड इतिहास">
 <!ENTITY pref_private_data_formdata "फॉर्म व खोज इतिहास">
 <!ENTITY pref_private_data_cookies "कूकीज">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_passwords "सहेजा कूटशब्द">
 <!ENTITY pref_private_data_cache "कैश">
 <!ENTITY pref_private_data_sessions "सक्रिय लॉगिन">
 <!ENTITY pref_private_data_offlineApps "ऑफ़ाइल वेबसाइट आँकड़ा">
