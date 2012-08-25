@@ -19,7 +19,7 @@
 <!ENTITY  exit_label "Gadael">
 <!ENTITY  continue_label "Parhau">
 
-<!ENTITY  launcher_shortcuts_title "Aps Gwe &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Heb ganfod aps gwe">
+<!ENTITY  launcher_shortcuts_title "Apiau Gwe &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Heb ganfod apiau gwe">
 
 <!ENTITY choose_file "Dewis Ffeil">
