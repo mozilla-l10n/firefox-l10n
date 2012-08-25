@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Sobozesa">
 <!ENTITY addonAction.disable                    "Jjako">
 <!ENTITY addonAction.uninstall                  "Jjamu">
-<!ENTITY addonAction.cancel                     "Sazaamu">
+<!ENTITY addonAction.undo                       "Ddayo">

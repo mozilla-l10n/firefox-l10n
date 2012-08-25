@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Ggalawo Awaddirira">
 <!ENTITY new_tab "Awaddirira Awapya">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "Awaddirira &#037;d">
@@ -86,10 +87,12 @@
 <!ENTITY pref_font_size_xlarge "Enene Ddala">
 <!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
 <!ENTITY pref_sync "Tusaganya">
+<!ENTITY pref_search_suggestions "Laga ebirowoozo by\'okunoonya">
 <!ENTITY pref_import_android "Import from Android">
 <!ENTITY pref_private_data_history "Ebifudeyo mu\'kunoonya &amp; mu\'kutikula">
 <!ENTITY pref_private_data_formdata "Ebifudeyo ku fomu &amp; okunoonya">
 <!ENTITY pref_private_data_cookies "Kukki">
+<!ENTITY pref_private_data_passwords "Obusumulizzo obu terekeddwa">
 <!ENTITY pref_private_data_cache "Eterekero elyo kumpii">
 <!ENTITY pref_private_data_sessions "Abalimunda kakano">
 <!ENTITY pref_private_data_offlineApps "Bwiino we\'ekibanja ekitayungiddwa ku Mutimbangano">
@@ -99,10 +102,12 @@
 
 <!ENTITY addons "Ebigattibwako">
 <!ENTITY downloads "Ebiwanulwa">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Ennyukuta Enkusike">
 
 <!ENTITY share "Gaabana">
 <!ENTITY share_title "Gaabanira mu">
+<!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "Tereka nga PDF">
 <!ENTITY find_in_page "Zzula mu Muko">
 <!ENTITY desktop_mode "Saaba Ekibanja Kumeza">
@@ -138,9 +143,10 @@
 <!ENTITY site_settings_clear        "Jjawo">
 <!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
 
-<!ENTITY add_to_reading_list "Yongera ku Lukalala Lwe\'byokusooma">
+<!ENTITY reading_list "Olukalala Lwebyokusooma">
 <!ENTITY reading_list_added "Omuko gwongeddwa ku Lukalala lwo Olwebyokusooma">
 <!ENTITY reading_list_removed "Omuko gujjiddwa ku Lukalala lwo Olwebyokusooma">
+<!ENTITY reading_list_failed "Failed to add page to your Reading List">
 <!ENTITY reader_mode "Embera yo Omusoomi">
 
 <!ENTITY masterpassword_create_title "Tonda Akasumulizo Akagula Woona">
@@ -182,6 +188,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kiddukanyizibwa">
 
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">
+
 <!ENTITY bookmarkhistory_button_import "Leeta okuva ewalala">
 <!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
                                       from Android">
@@ -191,5 +200,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          from Android">
 <!ENTITY bookmarkhistory_import_wait "Nsaba olindeeko...">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY webapp_generic_name "App">

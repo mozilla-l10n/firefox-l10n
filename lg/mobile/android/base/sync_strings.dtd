@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Ddamu ogezeeko">
 <!ENTITY sync.button.manual.label "Okwetegekera">
 <!ENTITY sync.subtitle.nointernet.label "Tewali mukutu gwa yintanet guliwo.">
+<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Okutekamu Kuwede">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Akaunta emu yoka eya &syncBrand.fullName.label; ewagirwa.">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "Elinya lya akaunta oba ekyisumuluzo ebikyamu">
+<!ENTITY sync.invalidserver.label "Bambi tekamu URL ye\'ngabizi entufu">
+<!ENTITY sync.verifying.label "Okukakasa…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Akasumuluzoko Akokuzawo kakyamu. Bambi gezako natte.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
+<!ENTITY sync.button.send.label 'Send'>
+<!ENTITY sync.button.set.up.sync.label "Tegeka &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
+<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
