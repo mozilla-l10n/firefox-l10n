@@ -30,6 +30,7 @@
 <!ENTITY advance.label "高级">
 <!ENTITY down.label "下载">
 <!ENTITY cache.label "高速缓存">
+<!ENTITY offlineApps.label "离线应用">
 <!ENTITY proxies.label "代理服务器">
 <!ENTITY httpnetworking.label "HTTP 连网">
 <!ENTITY smart.label "软件安装">

@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "秒">
 <!ENTITY Diskspace                        "磁盘空间">
-<!ENTITY offlineCompact.label             "压缩文件夹，当它的内容大于">
-<!ENTITY offlineCompact.accesskey         "C">
-<!ENTITY mb.label                         "MB">
+<!ENTITY offlineCompactFolders.label      "需要节省空间时压缩全部文件夹">
+<!ENTITY offlineCompactFolders.accesskey  "C">
+<!ENTITY offlineCompactFoldersMB.label    "MB 合计">
