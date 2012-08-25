@@ -14,7 +14,7 @@
 <!ENTITY sync.title.pair.label "Ket Jami tic aryo ayo">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Me miyo Jami tic megi manyen, “Yer &syncBrand.shortName.label;” ikum jami tic">
+<!ENTITY sync.subtitle.connect.label "Me miyo Jami tic megi manyen, “Yer &syncBrand.shortName.label;” ikum jami tic.">
 <!ENTITY sync.subtitle.header.label "Ket nyig coc ma eni ni i kom kompiuta mamegi">
 <!ENTITY sync.subtitle.connectlocation.label "Yer “&sync.title.pair.label;” iyi &syncBrand.shortName.label; dul me cal me ayera pi Firefox ma i kompiuta mamegi.">
 <!ENTITY sync.subtitle.pair.label "Me miyo tic, yer “Ket jami tic aryo aryo” ikom jami tic megi mapat.">
@@ -22,10 +22,10 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Nyuta yore mene.">
 <!ENTITY sync.link.advancedsetup.label "Ter me rwom ma lamal…">
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "Ape ki jami tic bota…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "Tye ka kuro jami tic mukene...">
+<!ENTITY sync.jpake.subtitle.waiting.label "Tye ka kuro jami tic mukene…">
 <!-- Account Login Screen -->
 
 <!ENTITY sync.subtitle.account.label "Ket ngec pa akaunti megi i &syncBrand.fullName.label;">
@@ -36,11 +36,13 @@
 <!ENTITY sync.input.server.label "Lapok tic me URL">
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label "Ter &syncBrand.shortName.label;…">
+<!ENTITY sync.title.fail.label "Ter &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; pe onongo romo kube ki lapok tic. I mito temo ne doki?">
 <!ENTITY sync.button.tryagain.label "Tem doki">
 <!ENTITY sync.button.manual.label "Tera me cing">
 <!ENTITY sync.subtitle.nointernet.label "Intanet pe okube.">
+<!ENTITY sync.subtitle.failaccount.label "Keto Akaunti ni ikom jami tic mamegi pe olare.">
+<!ENTITY sync.subtitle.failmultiple.label "Onyo iketo Firefox makato acel oko? Ikom kare ni, &syncBrand.fullName.label; cwako ka keto Firefox acel keken icawa mo ni. Tim ber ikwany woko gin mukene w ek ti ki &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Tero Otyeko">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Kicwako ka akaunti pa &syncBrand.fullName.label; acel keken.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.new.recoverykey.status.incorrect "Lagony me Sync pe tye kakare, tim ber item doki">
+<!ENTITY sync.invalidcreds.label "Nying akaunt ki mung mape tye kakare.">
+<!ENTITY sync.invalidserver.label "Tim ber iket lapok tic me URL matiyo">
+<!ENTITY sync.verifying.label "Moko…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Lagony me Sync pe tye kakare. Tim ber item doki.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Cwal Dirica matidi Bot Jami tic">
+<!ENTITY sync.button.send.label "Cwali">
+<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Kub &syncBrand.shortName.label; pi cwalo dirica matidi">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Kub &syncBrand.fullName.label; ikom jami tic mamegi w ek icwal dirica matidi ikom jamitic mukene">
+<!ENTITY sync.text.tab.sent.label "Otyeko dong cwalo dirica ni matidi!">

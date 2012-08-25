@@ -10,7 +10,7 @@
 <!ENTITY select.heading              "Yer Lamed Mamegi">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Mi &brandShortName; me tic oyoto kun kwanyo woko lamed en pa pe itiyo kwede. Lamed matye ma ngat mo aye oketome ki bi kwanyo kene ka pe i yero gi piny kany .">
+<!ENTITY select.description          "Mi &brandShortName; me tic oyoto kun kwanyo woko lamed en pa pe itiyo kwede. Lamed matye ma ngat mo aye oketome ki bi kwanyo kene ka pe i yero gi piny kany.">
 <!ENTITY select.keep                 "Gwoki">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->

@@ -6,7 +6,7 @@
 <!ENTITY intro           "Purugram mukene me kompiuta ni tye ka mito yubo &brandShortName; kwede lalub me lamed:">
 <!ENTITY warning         "Ket Lamed ni aa ikom laco ne keken ma igeno.">
 <!ENTITY allow           "Ye keto ma eni ni">
-<!ENTITY later           "Itwero loko tami karekikare i caa mo keken kun iwoto i lamed .">
+<!ENTITY later           "Itwero loko tami karekikare i caa mo keken kun iwoto i lamed.">
 <!ENTITY continue        "Mede anyim">
 <!ENTITY restartMessage  "Myero i cak nitit &brandShortName; i tyeko keto lamed ikom ma eni ni.">
 <!ENTITY restartButton   "Cak nitit &brandShortName;">

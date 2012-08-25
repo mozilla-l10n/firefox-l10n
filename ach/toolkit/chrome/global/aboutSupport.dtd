@@ -49,6 +49,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC ma kimedo">
 
+<!ENTITY aboutSupport.a11yTitle "Kite me nongo">
+<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yForceDisabled "Geng Donyo iye">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Cik pa kagwoko jami">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Stori mo Kato">

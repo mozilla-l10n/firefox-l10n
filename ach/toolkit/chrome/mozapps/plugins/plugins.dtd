@@ -19,11 +19,23 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Nong ngec mukene makwako Gin arwaka onyo in kikomi iyeny gi arwaka ma onwo rwenyo.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mito ni ki cak nitit pi gin arwaka me tic.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "Okwayo kica, ento &brandShortName; pe twero tuku Flash ikom jami tic man. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Nong ngec madwong…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
 
 <!ENTITY missingPlugin                                       "Gin arwaka mite me yaro gin manonge iye kamaleng.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Gwet kany me mino gin arwaka cak tic.">
 <!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Dii kany wek iket rwak iyie ma kwiri.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Dii kany wek iket purugram makwiri (ngec mukene peke).">
+<!ENTITY checkForUpdates                                     "Rot pi Ngec…">
 <!ENTITY disabledPlugin                                      "Gin arwaka ma eni ni kikwanyo woko.">
 <!ENTITY blockedPlugin.label                                 "Gin arwaka ma eni ni ki gengo woko pi konyi gwoko.">
 

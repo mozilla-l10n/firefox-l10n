@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; pe aromo poyo mukato mo keken pi kare man.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; pe tye ikit yeny mamega.">
 
-<!ENTITY privatebrowsingpage.description               "I kare me Yeny pa dano, &brandShortName; pe gwoko layeny mo keken mukato, yeny mukato, gol mukato, fom me Web mukato, kakube, onyo pwail me intanet me tutunu. Akadi kono bed amanono, pwail ma igolo ki alama pot karatac ma itimo bi gwoke.">
+<!ENTITY privatebrowsingpage.description               "I kare me Yeny pa dano, &brandShortName; pe gwoko layeny mo keken mukato, yeny mukato, gol mukato, fom me Web mukato, kakube, onyo pwail me intanet me tutunu. Akadi kono bed amanono, pwail ma igolo ki alama pot buk ma itimo bi gwoke.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 

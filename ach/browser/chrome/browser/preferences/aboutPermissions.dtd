@@ -23,7 +23,7 @@
 <!ENTITY permission.block                "Geng">
 
 <!ENTITY password.label                  "Kan mung">
-<!ENTITY password.manage                 "Loo Mung">
+<!ENTITY password.manage                 "Loo Mung…">
 
 <!ENTITY cookie.label                    "Ter Kakube">
 <!ENTITY cookie.remove                   "Kwany Kakube woko">

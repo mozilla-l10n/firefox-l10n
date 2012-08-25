@@ -39,7 +39,7 @@
 
 <!ENTITY rights.intro-point4a-unbranded "Ka jami man oripe itic me Web, kit tic mo keken me cik pi tic(s) myero kikub bot ">
 <!ENTITY rights.intro-point4b-unbranded "Tic me kakube me Web">
-<!ENTITY rights.intro-point4c-unbranded " dul">
+<!ENTITY rights.intro-point4c-unbranded " dul.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Nyec tic me Web-Based">
 <!-- Note that this paragraph references a couple of entities from
@@ -62,7 +62,7 @@
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Kabedo Ngeyo Yengo: ">
-<!ENTITY rights.locationawarebrowsing-b "Pol kare geno-iye. Pe tye kit ngec mo keken me kabedo ma kicwalo labongo twero mamegi.  Ka ce imito juko kit jami odoco, lub yoo magi:">
+<!ENTITY rights.locationawarebrowsing-b "Pol kare geno-iye.  Pe tye kit ngec mo keken me kabedo ma kicwalo labongo twero mamegi.  Ka ce imito juko kit jami odoco, lub yoo magi:">
 <!ENTITY rights.locationawarebrowsing-term1a "I yi URL bar, kit ">
 <!ENTITY rights.locationawarebrowsing-term1b "ikom:can">
 <!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
@@ -78,8 +78,8 @@
 
 <!ENTITY rights2.webservices-term1 "&vendorShortName; ki lupok, lumi lanycec ki jo maripe tiyo me poko tic mamwonya ni oo naka tic ma koni.  Amanono, wan pe watwero cung ni ngec man obedo di bar mape jale ki romo nyutu di bar maber iyi bal ki Kabedo me tic pi Ngec tic weng lupok ne dwogo ki lupok tic mamegwa gumyeko keken ki wan onyo lupok tic cungi tic maber pi kabedo ma kipoko.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; pe romo kwano ne onyo loko tic itwero ne.">
-<!ENTITY rights2.webservices-term3 "Gijoli pi tic ki Tice magi kwede cik malwoko kor &brandShortName;, ki &vendorShortName; mini twero ne me timo kumeno.  &vendorShortName; ki lumi lanycec ne gwoko twero weng mapat me tic. Cik man pe gutimo tetek me gengo twero mo keken ma kimino ite dul me open source licenses applicable bot &brandShortName; ki ka magamo cik me coc pi &brandShortName;.">
+<!ENTITY rights2.webservices-term3 "Gijoli pi tic ki Tice magi kwede cik malwoko kor &brandShortName;, ki &vendorShortName; mini twero ne me timo kumeno.   &vendorShortName; ki lumi lanycec ne gwoko twero weng mapat me tic.  Cik man pe gutimo tetek me gengo twero mo keken ma kimino ite dul me open source licenses applicable bot &brandShortName; ki ka magamo cik me coc pi &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Tic gimino &quot;as-is.&quot;  &vendorShortName;, lupok, lumi lanycec, ki lugab ne, gin pe mito cungo, akadi me oyoto onyo mot, medo ki labongo gengo, kare mo ni tic mito adwoka ki ket pi tic mamegi mo.  I ciro can me balo kare calo yero tic pi tic mamegi ki calo me tic maber ki mamwonya me tic. Cik mogo pe weki keto woko onyo gengo pi kare matero, dong ba man pe tiyo.">
 <!ENTITY rights.webservices-term5 "Kwanyo mite kwede cik, &vendorShortName;, lupok, lumi lanycec, ki lugab pe romo nonge pi gin mogo ma kore pe niange, mapire tek, me atura, karekare,mape yot, onyo me bal ma lapor ma donyo woko onyo i kore kubo gi itic me &brandShortName;, ki tic.  Ajog me jami ite cik magi pe romo kato $500 (Cente me lobo America maromo Alib mia abic). Jo mukene pe guye weko woko onyo gengo bale mogo, dong weko woko man ki gengo pe romo tic boti.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; romo mino ngec manyen pi cik macalo ki cawa ki cawa. Cik man pe romo yupe onyo juke labongo  &vendorShortName; coc me winye.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; romo mino ngec manyen pi cik macalo ki cawa ki cawa. Cik man pe romo yupe onyo juke labongo &vendorShortName; coc me winye.">
 <!ENTITY rights.webservices-term7 "Cik magi tye ite cik me lobo Califonia, U.S.A., kiweko lweny pi poko cik. Ka nucu me cik man kinongo pe tye katic onyo pe guketo tek, nucu ma odong gu biketo itic me oyoto. I lweny i kin cik ma kiloko pi cik magi ki cik me Leb munu, Cik me Leb munu en aye bino gwoko ne.">

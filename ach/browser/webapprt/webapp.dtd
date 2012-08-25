@@ -41,7 +41,7 @@
 <!ENTITY pasteCmd.label                     "Daci">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "D">
-<!ENTITY deleteCmd.label                    "Kwany…">
+<!ENTITY deleteCmd.label                    "Kwany">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "K">
 <!ENTITY selectAllCmd.label                 "Yer Weng">

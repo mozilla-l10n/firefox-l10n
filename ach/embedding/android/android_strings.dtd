@@ -5,7 +5,7 @@
 
 <!ENTITY  splash_firstrun "Tero &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "Kabedo pe tye muromo wek &brandShortName;  ocakke.">
+<!ENTITY  no_space_to_start_error "Kabedo pe tye muromo wek &brandShortName; ocakke.">
 <!ENTITY  error_loading_file "Bal otime ikare me temo pango pwail mamite pi tic i &brandShortName;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Lami ngec me Bal ma time atura">

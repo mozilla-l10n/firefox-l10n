@@ -113,11 +113,11 @@ bedo pi tutunu, ki iromo temo doki lacen.</li>
 
 <!ENTITY sharedLongDesc2 "<ul> 
 <li>Di bar romo bedi pe nonge onyo tic odio matek. Tem doki ikare mo manok.</li> 
-<li>Ka pe i romo pango pot buk, rot nyonyo mamegi me  tici onyo Wi-Fi connection.</li> 
+<li>Ka pe i romo pango pot buk, rot nyonyo mamegi me tici onyo Wi-Fi connection.</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Kigengo ne ki Cik me Gwoko kuc pa jami matye iye">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; otyeko gengo pot buk man ki pango iyore man pien pot karatac tye ki cik me jami matye iye mape yee en.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; otyeko gengo pot buk man ki pango iyore man pien pot buk tye ki cik me jami matye iye mape yee en.</p>">
 
 <!ENTITY corruptedContentError.title "Bal me Jami Matye Iye">
 <!ENTITY corruptedContentError.longDesc "<p>Pot buk ma i tye katemo neno ne pe romo nyutu pien bal me cwalo tic onyutu.</p><ul><li>Tim ber i kube wegi di bar me web me mino gi ngec pi peko man.</li></ul>">

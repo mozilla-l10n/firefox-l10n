@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Mi tii">
 <!ENTITY addonAction.disable                    "Kijuko woko">
 <!ENTITY addonAction.uninstall                  "Pe I ket">
-<!ENTITY addonAction.cancel                     "Jwik">
+<!ENTITY addonAction.undo                       "Dok cen">

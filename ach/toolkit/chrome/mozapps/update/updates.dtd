@@ -79,8 +79,8 @@ cako nitit &brandShortName; kombedi, onyo mede tic ki cak nitit lacen.">
 golo woko ci tye atera me aketa.">
 <!ENTITY  finishedBackground.name         "Ngec:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Ngec obi keto  ikare mabino &brandShortName; cako. I romo
- cako nitit &brandShortName; kombedi, onyo mede tic ki cak nitit lacen.">
+<!ENTITY  finishedBackground.more         "Ngec obi keto ikare mabino &brandShortName; cako. I romo 
+cako nitit &brandShortName; kombedi, onyo mede tic ki cak nitit lacen.">
 
 <!ENTITY  installed.title                 "Kiketo ngec woko">
 <!ENTITY  installed.intro                 "Kityeko keto ngec woko maber.">

@@ -24,7 +24,7 @@
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Nino">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL ki bi kelo ki woko ki:">
 <!ENTITY  crl.import.status.title                 "CRL Kel kite">
-<!ENTITY  crl.import.success.message              "Crtificate me revocation list-ni ki gamo ki cen maber adada.">
+<!ENTITY  crl.import.success.message              "Catifikate me Revocation List (CRL) ki gamo ki cen maber adada.">
 <!ENTITY  crl.issuer.label                        "CRL Lamiyone obedo:">
 <!ENTITY  crl.issuer.org.label                    "Yuba/Kampuni: ">
 <!ENTITY  crl.issuer.orgunit.label                "Yunit: ">

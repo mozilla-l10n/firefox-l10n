@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Lor Dirica matidi">
 <!ENTITY new_tab "Tab Manyen">
+<!ENTITY one_tab "dirica matidi 1">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d dirica matidi">
@@ -64,7 +65,7 @@
 <!ENTITY pref_category_general "Kacel">
 <!ENTITY pref_category_privacy "I mung pa dano &amp; Gwoko kuc">
 <!ENTITY pref_category_content "Gin manonge iye">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "Kel ki woko &amp; Cwal woko">
 <!ENTITY pref_about_firefox "Makwako &brandShortName;">
 <!ENTITY pref_do_not_track "Waci kakube pe maka">
 <!ENTITY pref_telemetry "Cwal tic me jami">
@@ -86,23 +87,27 @@
 <!ENTITY pref_font_size_xlarge "Madit loyo">
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
+<!ENTITY pref_import_android "Kel ki woko ki Android">
+<!ENTITY pref_private_data_history "Tye ka yabo &amp; Gol Mukato">
+<!ENTITY pref_private_data_formdata "Fom &amp; yeny mukato">
 <!ENTITY pref_private_data_cookies "Kakube me intanet">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Active logins">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_cache "Kagwoko">
+<!ENTITY pref_private_data_sessions "Tye ka tic Dony iyie">
+<!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
+<!ENTITY pref_private_data_siteSettings "Gin ma imito i di bar">
 
 <!ENTITY quit "Wek woko">
 
 <!ENTITY addons "Lamed-ikome">
 <!ENTITY downloads "Kigolo woko">
+<!ENTITY apps "Purugram">
 <!ENTITY char_encoding "Kit ma Kicoyo Kwede">
 
 <!ENTITY share "Nywak">
 <!ENTITY share_title "Nywak kun beo">
+<!ENTITY share_image_failed "Pe twero nywako pot buk man">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Kwa Di bar me cal ma i kompiuta">
@@ -120,8 +125,8 @@
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
 <!ENTITY contextmenu_share "Nywak">
 <!ENTITY contextmenu_pasteandgo "Dac &amp; Ceti">
-<!ENTITY contextmenu_paste "Paste">
-<!ENTITY contextmenu_copyurl "Copy Address">
+<!ENTITY contextmenu_paste "Dani">
+<!ENTITY contextmenu_copyurl "Lok Address">
 <!ENTITY contextmenu_edit_bookmark "Yubi">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -138,9 +143,10 @@
 <!ENTITY site_settings_clear        "Jwa">
 <!ENTITY site_settings_no_settings  "Ter mo peke me ajwa.">
 
-<!ENTITY add_to_reading_list "Med ikom Nying jami me akwana">
+<!ENTITY reading_list "Nying jami me kwan">
 <!ENTITY reading_list_added "Kimedo woko pot buk ii Nying jami me Akwan mamegi">
 <!ENTITY reading_list_removed "Kikwanyo woko pot nuk ki Nying jami me akwani ni">
+<!ENTITY reading_list_failed "Medo pot buk pe olare ki Nying Jami me kwani">
 <!ENTITY reader_mode "Reader Mode">
 
 <!ENTITY masterpassword_create_title "Ket I cwil me donyo Madit">
@@ -150,7 +156,7 @@
 
 <!ENTITY button_ok "Kakare">
 <!ENTITY button_cancel "Jwik">
-<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_clear_data "Ywe tic">
 
 <!ENTITY abouthome_addons_title "Med iwiye pi &brandShortName; megi">
 <!ENTITY abouthome_addons_browse "Yeny &brandShortName; weng pi med iwiye">
@@ -182,14 +188,16 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "En aye tiyo kwede">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY private_data_success "Giyweyo woko tic pa dano">
+<!ENTITY private_data_fail "Pe onwongo gitwero yweyo woko tic pa dano">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY bookmarkhistory_button_import "Kel ki woko">
+<!ENTITY bookmarkhistory_import_both "Kelo ki woko alama buke ki lok mukato angec
+ki Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Kel ki woko alama buke
+ ki Android">
+<!ENTITY bookmarkhistory_import_history "Kelo kiwoko lok mukato 
+ki Android">
+<!ENTITY bookmarkhistory_import_wait "Tim ber i kur...">
+
+<!ENTITY webapp_generic_name "Purugram">

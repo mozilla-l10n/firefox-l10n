@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "A">
 <!ENTITY bookmarkThisPageCmd.label "Ket Alama i Pot Buk Man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Cone i pot buk man">
 <!ENTITY subscribeToPageMenuitem.label "Cone i pot buk man…">
 <!ENTITY addCurPagesCmd.label "Ket Alama i dirica magi Weng…">
@@ -238,11 +239,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Lor Gin tic pa Luyub">
 <!ENTITY devToolbarMenu.label              "Luyub Bar me gin tic">
 <!ENTITY devToolbarMenu.accesskey          "y">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY webConsoleButton.label "Web Console">
 <!ENTITY inspectorButton.label "Lakwed te">
-<!ENTITY scriptsButton.label "Scripts">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Lok HTML ma iyie">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "H">
@@ -361,7 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.label "Cak odoco ki-medone ma Kijuko woko…">
 <!ENTITY appMenuSafeMode.accesskey "C">
 
-<!ENTITY openCmd.commandkey           "1">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ceti i kakube me Web">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Kobe i dirica matidi:">
@@ -438,8 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Ketalama I Purem man">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "a">
-<!ENTITY sendPageCmd.label            "Cwal Kakube…">
-<!ENTITY sendPageCmd.accesskey        "w">
+<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Gwok Pot Buk calo…">
 <!ENTITY savePageCmd.accesskey        "c">
 <!-- alternate for content area context menu -->
@@ -451,20 +452,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "C">
 <!ENTITY saveLinkCmd.label            "Gwok Kakube Calo…">
 <!ENTITY saveLinkCmd.accesskey        "e">
-<!ENTITY sendLinkCmd.label            "Cwal Kakube…"> 
-<!ENTITY sendLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Gwok Cal Calo…">
 <!ENTITY saveImageCmd.accesskey       "k">
 <!ENTITY saveVideoCmd.label           "Gwok Video Calo…">
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Gwok Dwon Calo…">
 <!ENTITY saveAudioCmd.accesskey       "o">
-<!ENTITY sendImageCmd.label           "Cwal Cal…">
-<!ENTITY sendImageCmd.accesskey       "l">
-<!ENTITY sendVideoCmd.label           "Cwal Video…">
-<!ENTITY sendVideoCmd.accesskey       "a">
-<!ENTITY sendAudioCmd.label           "Cwal Dwon…">
-<!ENTITY sendAudioCmd.accesskey       "a">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Lok Kabedo me Kakube">
 <!ENTITY copyLinkCmd.accesskey        "e">
 <!ENTITY copyImageCmd.label           "Lok Kabedo me Cal">
@@ -654,3 +653,11 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Mapeca me Gin tic me Kube pa lwak">
+<!ENTITY social.notLoggedIn.label   "Not logged in">
+
+<!ENTITY social.sharePopup.undo.label     "Pe onywako">
+<!ENTITY social.sharePopup.undo.accesskey "P">
+<!ENTITY social.sharePopup.ok.label       "Kakare">
+<!ENTITY social.sharePopup.ok.accesskey   "K">

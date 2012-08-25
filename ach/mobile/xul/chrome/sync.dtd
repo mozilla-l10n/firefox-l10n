@@ -22,10 +22,10 @@
 <!ENTITY sync.serverURL             "Lapok tic me URL">
 <!ENTITY sync.setup.connect         "Kub">
 <!ENTITY sync.setup.cancel          "Juk">
-<!ENTITY sync.setup.tutorial        "Nyuta yore mene.">
-<!ENTITY sync.setup.waiting2        "Tye ka kuro nyonyo mukene...">
+<!ENTITY sync.setup.tutorial        "Nyuta yore mene">
+<!ENTITY sync.setup.waiting2        "Tye ka kuro nyonyo mukene…">
 
 <!ENTITY sync.pair.title            "Ket nonyo aryo aryo">
 <!ENTITY sync.pair.description      "Me mino nyonyo mamegi tic kakare, yer &#x0022; Sync&#x0022; ikom nyonyo.">
 <!ENTITY sync.setup.close           "Ceg">
-<!ENTITY sync.setup.waitingdownload "Tic mamegi kombedi tye ka golo i yonge. I  romo dong cego dirija man i cawa mo keken.">
+<!ENTITY sync.setup.waitingdownload "Tic mamegi kombedi tye ka golo i yonge. I romo dong cego dirija man i cawa mo keken.">
