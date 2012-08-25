@@ -65,7 +65,7 @@
 <!ENTITY Home.tab                       "私人">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "地址：">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "城市：">
@@ -95,7 +95,7 @@
 <!ENTITY Company.label                  "工作单位：">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "地址：">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "城市：">
