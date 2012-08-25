@@ -673,5 +673,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Zobrazit postranní lištu">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.activated.button.label "Vrátit zpět">
-<!ENTITY social.activated.button.accesskey "V">
+<!ENTITY social.activated.undobutton.label "Zpět">
+<!ENTITY social.activated.undobutton.accesskey "Z">
