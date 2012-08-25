@@ -660,3 +660,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.accesskey "S">
 <!ENTITY social.sharePopup.ok.label       "OK">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
+<!ENTITY social.sharePopup.shared.label   "U heeft deze pagina gedeeld.">
+<!ENTITY social.sharePopup.portrait.arialabel "Gebruikersprofiel afbeelding">
