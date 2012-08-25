@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutApps.title2 "Приложения">
-<!ENTITY aboutApps.header "Ваши приложения">
+<!ENTITY aboutApps.header "Мои приложения">
 <!ENTITY aboutApps.noApps.pre "Ни одного веб-приложения не установлено. Вы можете установить их из ">
 <!ENTITY aboutApps.noApps.middle2 "магазина Mozilla">
 <!ENTITY aboutApps.noApps.post ".">
