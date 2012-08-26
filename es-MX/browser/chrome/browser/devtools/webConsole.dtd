@@ -1,3 +1,4 @@
+<!ENTITY window.title "Web Console">
 <!ENTITY networkPanel.requestURL "URL de la petición">
 <!ENTITY networkPanel.requestMethod "Método de la petición">
 <!ENTITY networkPanel.statusCode "Código de estado">
@@ -12,3 +13,33 @@
 <!ENTITY networkPanel.responseNoBody "La respuesta no tenía cuerpo">
 <!ENTITY networkPanel.responseImage "Imagen recibida">
 <!ENTITY networkPanel.responseImageCached "Imagen en caché">
+<!ENTITY saveBodies.label "Log Request and Response Bodies">
+<!ENTITY saveBodies.accesskey "L">
+<!ENTITY btnPageNet.label "Net">
+<!ENTITY btnPageNet.tooltip "Log network access">
+<!ENTITY btnPageCSS.label "CSS">
+<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+<!ENTITY btnPageJS.label "JS">
+<!ENTITY btnPageJS.tooltip "Log JavaScript exceptions">
+<!ENTITY btnPageLogging.label "Logging">
+<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnConsoleErrors "Errors">
+<!ENTITY btnConsoleInfo "Info">
+<!ENTITY btnConsoleWarnings "Warnings">
+<!ENTITY btnConsoleLog "Log">
+<!ENTITY btnPosition.label "Position">
+<!ENTITY btnPosition.tooltip "Position the Web Console above or below the document">
+<!ENTITY positionMenu.above "Above">
+<!ENTITY positionMenu.below "Below">
+<!ENTITY positionMenu.window "Window">
+<!ENTITY filterBox.placeholder "Filter">
+<!ENTITY btnClear.label "Clear">
+<!ENTITY btnClear.tooltip "Clear the Web Console output">
+<!ENTITY btnClose.tooltip "Close the Web Console">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">

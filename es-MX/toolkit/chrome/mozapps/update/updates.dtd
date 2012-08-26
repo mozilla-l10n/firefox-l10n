@@ -41,8 +41,8 @@
 <!ENTITY details.link "Detalles">
 <!ENTITY error.title "Actualización fallida">
 <!ENTITY error.label "Hubo problemas al comprobar, descargar o instalar esta
-                                           actualización. No se pudo actualizar &brandShortName; porque:">
-<!ENTITY errorManual.label "Se puede actualizar &brandShortName; manualmente visitando este enlace
+                                           actualización. &brandShortName; no pudo actualizarse porque:">
+<!ENTITY errorManual.label "Puedes actualizar &brandShortName; manualmente visitando este enlace
                                            y descargando la última versión:">
 <!ENTITY errorpatching.intro "No se pudo aplicar la actualización parcial.
                                            &brandShortName; volverá a intentarlo descargando la actualización completa.">
