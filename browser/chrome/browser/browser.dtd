@@ -673,5 +673,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Бүйір панелін көрсету">
 <!ENTITY social.toggleSidebar.accesskey "Б">
 
-<!ENTITY social.activated.button.label "Әттеген-ай, болдырмау">
-<!ENTITY social.activated.button.accesskey "�">
+<!ENTITY social.activated.button.label "Ой-бай, болдырмау">
+<!ENTITY social.activated.button.accesskey "О">
