@@ -44,5 +44,3 @@
 <!ENTITY cmd.clearList.label              "Rensa listan">
 <!ENTITY cmd.clearList.accesskey          "R">
 
-<!ENTITY downloadshistory.label           "Visa alla hämtningar">
-<!ENTITY downloadshistory.accesskey       "h">
