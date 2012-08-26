@@ -32,33 +32,33 @@
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "D">
 <!ENTITY openAttachmentCmd.label "Anhänge">
-<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY openAttachmentCmd.accesskey "ä">
 <!ENTITY saveAsMenu.label "Speichern unter">
-<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsMenu.accesskey "c">
 <!ENTITY saveAsFileCmd.label "Datei">
 <!ENTITY saveAsFileCmd.accesskey "D">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Vorlage">
 <!ENTITY saveAsTemplateCmd.accesskey "V">
 <!ENTITY getNewMsgCmd.label "Neue Nachrichten abrufen">
-<!ENTITY getNewMsgCmd.accesskey "N">
+<!ENTITY getNewMsgCmd.accesskey "e">
 <!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Neue Nachrichten empfangen für">
-<!ENTITY getNewMsgForCmd.accesskey "N">
+<!ENTITY getNewMsgForCmd.accesskey "p">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle Accounts">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Alle neuen Nachrichten empfangen">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Nächste 500 News-Nachrichten abrufen">
-<!ENTITY getNextNMsgCmd.accesskey "N">
+<!ENTITY getNextNMsgCmd.accesskey "ä">
 <!ENTITY sendUnsentCmd.label "Ungesendete Nachrichten absenden">
 <!ENTITY sendUnsentCmd.accesskey "U">
 <!ENTITY subscribeCmd.label "Abonnieren…">
 <!ENTITY subscribeCmd.accesskey "A">
 <!ENTITY renameFolder.label "Ordner umbenennen…">
-<!ENTITY renameFolder.accesskey "O">
+<!ENTITY renameFolder.accesskey "m">
 <!ENTITY compactFolders.label "Account-Ordner komprimieren">
-<!ENTITY compactFolders.accesskey		"O">
+<!ENTITY compactFolders.accesskey		"k">
 <!ENTITY emptyTrashCmd.label "Papierkorb leeren">
 <!ENTITY emptyTrashCmd.accesskey		"P">
 <!ENTITY offlineMenu.label "Offline">
@@ -120,7 +120,7 @@
 <!ENTITY showTabsToolbarCmd.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
-<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneLayoutStyle.accesskey "a">
 <!ENTITY messagePaneClassic.label "Klassische Ansicht">
 <!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneWide.label "Breite Ansicht">
@@ -136,7 +136,7 @@
 
 <!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Sortieren nach">
-<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortMenu.accesskey "o">
 
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "D">
@@ -165,7 +165,7 @@
 <!ENTITY sortByOrderReceivedCmd.label "Empfangsreihenfolge">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
 <!ENTITY sortByAttachmentsCmd.label "Anhänge">
-<!ENTITY sortByAttachmentsCmd.accesskey "c">
+<!ENTITY sortByAttachmentsCmd.accesskey "n">
 <!ENTITY sortAscending.label "Aufsteigend">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Absteigend">
@@ -175,18 +175,18 @@
 <!ENTITY sortUnthreaded.label "Ohne Threads">
 <!ENTITY sortUnthreaded.accesskey "O">
 <!ENTITY groupBySort.label "Nach Sortierung gruppiert">
-<!ENTITY groupBySort.accesskey "N">
+<!ENTITY groupBySort.accesskey "u">
 <!ENTITY msgsMenu.label "Nachrichten">
 <!ENTITY msgsMenu.accesskey "N">
 <!ENTITY threads.label "Threads">
-<!ENTITY threads.accesskey "T">
+<!ENTITY threads.accesskey "h">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Alle Threads aufklappen">
-<!ENTITY expandAllThreadsCmd.accesskey "A">
+<!ENTITY expandAllThreadsCmd.accesskey "k">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Alle Threads zuklappen">
-<!ENTITY collapseAllThreadsCmd.accesskey "A">
+<!ENTITY collapseAllThreadsCmd.accesskey "z">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Ungelesene">
 <!ENTITY unreadMsgsCmd.accesskey "U">
@@ -204,7 +204,7 @@
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Nachrichtentext als">
-<!ENTITY bodyMenu.accesskey "N">
+<!ENTITY bodyMenu.accesskey "c">
 <!ENTITY bodyAllowHTML.label "Originales HTML">
 <!ENTITY bodyAllowHTML.accesskey "O">
 <!ENTITY bodySanitized.label "Vereinfachtes HTML">
@@ -224,13 +224,13 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Anhänge innerhalb anzeigen">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "I">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "b">
 <!ENTITY reloadCmd.label "Neu laden">
-<!ENTITY reloadCmd.accesskey "N">
+<!ENTITY reloadCmd.accesskey "l">
 <!ENTITY stopCmd.label "Stopp">
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY pageSourceCmd.label "Nachrichten-Quelltext">
-<!ENTITY pageSourceCmd.accesskey "N">
+<!ENTITY pageSourceCmd.accesskey "Q">
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "In dieser Nachricht suchen…">
@@ -286,9 +286,9 @@
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Antwort nur an Absender">
-<!ENTITY replySenderCmd.accesskey "A">
+<!ENTITY replySenderCmd.accesskey "u">
 <!ENTITY replyNewsgroupCmd.label "Antwort an Newsgroup">
-<!ENTITY replyNewsgroupCmd.accesskey	"n">
+<!ENTITY replyNewsgroupCmd.accesskey	"A">
 <!ENTITY replyToAllMsgCmd.label "Antwort an alle">
 <!ENTITY replyToAllMsgCmd.accesskey	"o">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -300,13 +300,13 @@
 <!ENTITY forwardMsgCmd.accesskey "W">
 <!ENTITY forwardMsgCmd.key	"l">
 <!ENTITY forwardAsMenu.label "Weiterleiten als">
-<!ENTITY forwardAsMenu.accesskey "W">
+<!ENTITY forwardAsMenu.accesskey "l">
 <!ENTITY forwardAsInline.label "Innerhalb">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Anhang">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editMsgAsNewCmd.label "Nachricht als neu bearbeiten">
-<!ENTITY editMsgAsNewCmd.accesskey "N">
+<!ENTITY editMsgAsNewCmd.accesskey "b">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
@@ -328,7 +328,7 @@
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Thread beobachten">
-<!ENTITY watchThreadMenu.accesskey "T">
+<!ENTITY watchThreadMenu.accesskey "r">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Hier ablegen">
 <!ENTITY fileHereMenu.accesskey "H">

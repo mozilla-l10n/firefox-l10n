@@ -11,7 +11,7 @@
 <!ENTITY markFlaggedCmd.key       "i">
 
 <!ENTITY openMessageWindowCmd.label     "Nachricht öffnen">
-<!ENTITY openMessageWindowCmd.accesskey "N">
+<!ENTITY openMessageWindowCmd.accesskey "ö">
 <!ENTITY openMessageWindowCmd.key       "o">
 
 <!ENTITY tagCmd0.key "0">

@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Empfangsbestätigungen">
 <!ENTITY useGlobalPrefs.label         "Globale Empfangsbestätigungs-Einstellungen für diesen Account verwenden">
 <!ENTITY useGlobalPrefs.accesskey     "M">
+<!ENTITY globalReceipts.label         "Globale Einstellungen…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Empfangsbestätigungen für diesen Account anpassen">
 <!ENTITY useCustomPrefs.accesskey     "E">
 <!ENTITY requestReceipt.label         "Beim Senden von Nachrichten immer eine Empfangsbestätigung verlangen">
