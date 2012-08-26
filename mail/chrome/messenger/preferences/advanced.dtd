@@ -89,7 +89,7 @@
 <!ENTITY showOffline.accesskey         "S">
 
 <!ENTITY Diskspace                       "Capacitad da memorisar">
-<!ENTITY offlineCompactFolders.label     "Cumprimer tut ils ordinaturs sche quai spargna dapli capacitad che totalmain">
+<!ENTITY offlineCompactFolders.label     "Cumprimer tut ils ordinaturs sche quai spargna dapli che">
 <!ENTITY offlineCompactFolders.accesskey "C">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
 
