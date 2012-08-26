@@ -49,11 +49,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Grafisch">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Incrementele GC">
 
 <!ENTITY aboutSupport.a11yTitle "Toegankelijkheid">
 <!ENTITY aboutSupport.a11yActivated "Geactiveerd">
-<!ENTITY aboutSupport.a11yForceDisabled "Voorkom toegankelijkheid">
+<!ENTITY aboutSupport.a11yForceDisabled "Toegankelijkheid voorkomen">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotheekversies">
 
