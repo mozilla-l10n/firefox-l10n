@@ -13,6 +13,9 @@
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; terminó de instalar los plugins faltantes:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Más acerca de plugins o buscar manualmente los plugins faltantes.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; necesita ser reiniciado para activar los plugins.">
+<!ENTITY unsupportedPlatform.pre "We're very sorry, but &brandShortName; can't play Flash on this device. ">
+<!ENTITY unsupportedPlatform.learnMore "Learn More…">
+<!ENTITY unsupportedPlatform.post "">
 <!ENTITY missingPlugin "Se necesita un plugin para mostrar este contenido.">
 <!ENTITY tapToPlayPlugin "Pulsa aquí para activar el plugin.">
 <!ENTITY clickToPlayPlugin "Clic aquí para activar el plugin.">
