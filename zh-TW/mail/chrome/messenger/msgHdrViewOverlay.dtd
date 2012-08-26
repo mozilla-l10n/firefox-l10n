@@ -69,7 +69,7 @@
 <!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "啟動時就顯示附件窗格">
+<!ENTITY startExpandedCmd.label    "啟動時顯示附件窗格">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
