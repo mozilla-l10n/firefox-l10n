@@ -550,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Umístění složky">
 <!ENTITY tagButton.label "Štítek">
 <!ENTITY compactButton.label "Provést údržbu">
+<!ENTITY appmenuButton.label "Nabídka aplikace">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Rozšířené vyhledávání zpráv">
@@ -580,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Zobrazí panel chatu">
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
+<!ENTITY appmenuButton.tooltip "Zobrazí nabídku aplikace">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nová zprávae">
+<!ENTITY appmenuNewContactCmd.label "Kontakt v adresáři…">
+<!ENTITY appmenuEditMenu.label "Upravit">
+<!ENTITY appmenuQFBMenu.label "Rychlý filtr">
+<!ENTITY appmenuToolbarLayout.label "Upravit lišty…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nový štítek…">
