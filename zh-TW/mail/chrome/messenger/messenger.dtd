@@ -550,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "資料夾位址">
 <!ENTITY tagButton.label "標籤">
 <!ENTITY compactButton.label "壓實重整">
+<!ENTITY appmenuButton.label "應用程式選單">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "進階郵件搜尋">
@@ -580,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "顯示聊天分頁">
 <!ENTITY tagButton.tooltip "將郵件加上標籤">
 <!ENTITY compactButton.tooltip "從指定資料夾移除已刪郵件">
+<!ENTITY appmenuButton.tooltip "顯示應用程式選單">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "發新郵件">
+<!ENTITY appmenuNewContactCmd.label "通訊錄連絡人…">
+<!ENTITY appmenuEditMenu.label "編輯">
+<!ENTITY appmenuQFBMenu.label "快速過濾列">
+<!ENTITY appmenuToolbarLayout.label "工具列配置…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "新標籤…">
