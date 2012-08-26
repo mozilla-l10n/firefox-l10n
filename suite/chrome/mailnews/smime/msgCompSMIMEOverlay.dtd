@@ -17,4 +17,4 @@
 <!ENTITY securityButton.tooltip "Sicherheitseinstellungen ansehen oder ändern">
 
 <!ENTITY menu_viewSecurityStatus.label "Nachrichtensicherheitsinformation">
-<!ENTITY menu_viewSecurityStatus.accesskey "N">
+<!ENTITY menu_viewSecurityStatus.accesskey "i">

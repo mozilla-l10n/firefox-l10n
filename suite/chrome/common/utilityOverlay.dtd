@@ -73,7 +73,7 @@
 <!ENTITY findCmd.accesskey "h">
 <!ENTITY findAgainCmd.label "Weitersuchen">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "W">
+<!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Vorheriges suchen">
 <!ENTITY findPrevCmd.key "G">
