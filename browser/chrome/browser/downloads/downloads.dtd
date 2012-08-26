@@ -44,6 +44,4 @@
 <!ENTITY cmd.clearList.label              "清空下載清單">
 <!ENTITY cmd.clearList.accesskey          "a">
 
-<!ENTITY downloadshistory.label           "顯示所有下載">
-<!ENTITY downloadshistory.accesskey       "S">
 

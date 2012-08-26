@@ -673,6 +673,6 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "顯示側邊欄">
 <!ENTITY social.toggleSidebar.accesskey "S">
 
-<!ENTITY social.activated.button.label "還原">
-<!ENTITY social.activated.button.accesskey "u">
+<!ENTITY social.activated.undobutton.label "復原">
+<!ENTITY social.activated.undobutton.accesskey "U">
 
