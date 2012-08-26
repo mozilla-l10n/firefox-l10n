@@ -7,12 +7,12 @@
 <!ENTITY button-back-unix.label "Atrás">
 <!ENTITY button-back-unix.accesskey "A">
 <!ENTITY button-next-unix.label "Siguiente">
-<!ENTITY button-next-unix.accesskey "n">
+<!ENTITY button-next-unix.accesskey "S">
 <!ENTITY button-finish-unix.label "Finalizar">
 <!ENTITY button-cancel-unix.label "Cancelar">
 <!ENTITY button-back-win.label "&lt; Atrás">
 <!ENTITY button-back-win.accesskey "A">
 <!ENTITY button-next-win.label "Siguiente &gt;">
-<!ENTITY button-next-win.accesskey "n">
+<!ENTITY button-next-win.accesskey "S">
 <!ENTITY button-finish-win.label "Finalizar">
 <!ENTITY button-cancel-win.label "Cancelar">
