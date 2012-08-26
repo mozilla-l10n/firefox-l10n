@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
@@ -17,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Disable or replace context menus">
 <!ENTITY allowHideStatusBar.label        "Hide the status bar">
 
-<!ENTITY enablePlugin.label              "Enable Plugins for:">
+<!ENTITY enablePlugins.label             "Enable Plugins for">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "When additional plugins are required">
-<!ENTITY displayNotification.label       "Display a notification bar at the top of the content area">
-<!ENTITY displayNotification.accesskey   "N">
+<!ENTITY whenPageRequiresPlugins.label   "When a page requires plugins">
+<!ENTITY activateAllPlugins.label        "Activate all plugins by default">
+<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY warnPluginsRequired.label       "Warn me if additional plugins need to be installed">
+<!ENTITY warnPluginsRequired.accesskey   "W">
