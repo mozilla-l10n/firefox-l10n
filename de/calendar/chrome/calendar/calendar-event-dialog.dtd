@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Einstellungen">
 <!ENTITY  event.menu.options.accesskey                        "E">
-<!ENTITY  event.menu.options.attachments.label                "Webseite anhängen…">
-<!ENTITY  event.menu.options.attachments.accesskey            "W">
 <!ENTITY  event.menu.options.attendees.label                  "Teilnehmer einladen…">
 <!ENTITY  event.menu.options.attendees.accesskey              "T">
 <!ENTITY  event.menu.options.spellcheck.label                 "Rechtschreibprüfung…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Teilnehmer einladen">
 <!ENTITY  event.toolbar.spellcheck.label                  "Rechtschreibprüfung">
 <!ENTITY  event.toolbar.privacy.label                     "Privatsphäre">
-<!ENTITY  event.toolbar.attachments.label                 "Anhang">
 
 <!-- Main page -->	
 <!ENTITY event.title.textbox.label                        "Titel:">
@@ -180,11 +177,6 @@
 <!ENTITY event.description.accesskey                      "c">
 <!ENTITY event.attachments.label                          "Anhänge:">
 <!ENTITY event.attachments.accesskey                      "ä">
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Anhängen">
 <!ENTITY event.attachments.menubutton.accesskey           "ä">
 <!ENTITY event.attachments.url.label                      "Webseite…">
