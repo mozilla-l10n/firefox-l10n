@@ -151,7 +151,7 @@ size. -->
 <!ENTITY bookmark_edit_location "網址">
 <!ENTITY bookmark_edit_keyword "關鍵字">
 
-<!ENTITY site_settings_title        "清除網站設定值">
+<!ENTITY site_settings_title2       "網站設定…">
 <!ENTITY site_settings_cancel       "取消">
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
@@ -177,9 +177,19 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "打開上次開啟的所有分頁">
 <!ENTITY abouthome_top_sites_title "最常瀏覽的網站">
 <!ENTITY abouthome_top_sites_browse "瀏覽您最常開啟的網站">
-<!ENTITY abouthome_no_top_sites "目前還無法列出您最常瀏覽的網站。請點下標題列開始瀏覽。">
-<!ENTITY abouthome_about_sync "設定 Firefox Sync 以自您其他裝置上存取書籤、瀏覽紀錄與分頁標籤。">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "設定 Firefox Sync 以在您的其他裝置中存取書籤、歷史紀錄，以及分頁標籤&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "到 Mozilla Marketplace 取得應用程式，並探索網路的最佳體驗&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "選擇檔案">
 <!ENTITY filepicker_audio_title "選擇或錄製一段聲音檔">
