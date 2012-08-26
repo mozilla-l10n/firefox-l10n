@@ -48,7 +48,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "Accessibladad">
 <!ENTITY aboutSupport.a11yActivated "Activà">
-<!ENTITY aboutSupport.a11yForceDisabled "Impedir accessibladad">
+<!ENTITY aboutSupport.a11yForceDisabled "Impedir l'accessibladad">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiuns da bibliotecas">
 
