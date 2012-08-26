@@ -21,7 +21,7 @@
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Tonen hoe.'>
-<!ENTITY sync.link.advancedsetup.label 'Uitgebreide configuratie...'>
+<!ENTITY sync.link.advancedsetup.label 'Uitgebreide configuratie…'>
 <!ENTITY sync.link.nodevice.label 'Ik heb het apparaat niet bij me…'>
 
 <!-- J-PAKE Waiting Screen -->
@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label 'Handmatige configuratie'>
 <!ENTITY sync.subtitle.nointernet.label 'Geen internetverbinding beschikbaar.'>
 <!ENTITY sync.subtitle.failaccount.label 'Account aanmaken op uw apparaat is mislukt.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Heeft u meer dan een Firefox geïnstalleerd? Momenteel ondersteund &syncBrand.fullName.label; maar een Firefox-installatie tegelijkertijd. De-installeer de ander explaren om &syncBrand.shortName.label; te gebruiken.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Hebt u meer dan één Firefox geïnstalleerd? &syncBrand.fullName.label; ondersteunt momenteel maar één Firefox-installatie tegelijk. De-installeer andere exemplaren om &syncBrand.shortName.label; te gebruiken.'>
  
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Set-up voltooid'>
@@ -86,7 +86,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect 'Herstelsleutel onjuist. Probeer het opnieuw.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Tabblaben naar apparaten verzenden'>
+<!ENTITY sync.title.send.tab.label 'Tabbladen naar apparaten verzenden'>
 <!ENTITY sync.button.send.label 'Verzenden'>
 <!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; instellen'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; instellen om tabbladen te verzenden'>

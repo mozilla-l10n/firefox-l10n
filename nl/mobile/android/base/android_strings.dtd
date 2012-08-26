@@ -87,6 +87,7 @@
 <!ENTITY pref_font_size_xlarge "Extra groot">
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
 <!ENTITY pref_import_android "Importeren uit Android">
 <!ENTITY pref_private_data_history "Navigatie- &amp; downloadgeschiedenis">
 <!ENTITY pref_private_data_formdata "Formulier- &amp; zoekgeschiedenis">
@@ -96,7 +97,6 @@
 <!ENTITY pref_private_data_sessions "Actieve aanmeldingen">
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
 <!ENTITY pref_private_data_siteSettings "Websitevoorkeuren">
-<!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
 
 <!ENTITY quit "Afsluiten">
 
@@ -107,7 +107,7 @@
 
 <!ENTITY share "Delen">
 <!ENTITY share_title "Delen via">
-<!ENTITY share_image_failed "Niet gelukt om deze afbeelding te delen">
+<!ENTITY share_image_failed "Kan deze afbeelding niet delen">
 <!ENTITY save_as_pdf "Opslaan als PDF">
 <!ENTITY find_in_page "Zoeken op pagina">
 <!ENTITY desktop_mode "Desktopwebsite opvragen">
@@ -146,7 +146,7 @@
 <!ENTITY reading_list "Leeslijst">
 <!ENTITY reading_list_added "Pagina toegevoegd aan uw leeslijst">
 <!ENTITY reading_list_removed "Pagina verwijderd van uw leeslijst">
-<!ENTITY reading_list_failed "Pagina toegevoegen aan uw leeslijst mislukt">
+<!ENTITY reading_list_failed "Pagina toevoegen aan uw leeslijst mislukt">
 <!ENTITY reader_mode "Leesmodus">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
@@ -158,8 +158,8 @@
 <!ENTITY button_cancel "Annuleren">
 <!ENTITY button_clear_data "Gegevens wissen">
 
-<!ENTITY abouthome_addons_title "Add-ons voor &brandShortName;">
-<!ENTITY abouthome_addons_browse "Door alle &brandShortName; add-ons bladeren">
+<!ENTITY abouthome_addons_title "Add-ons voor uw &brandShortName;">
+<!ENTITY abouthome_addons_browse "Door alle &brandShortName;-add-ons bladeren">
 <!ENTITY abouthome_last_tabs_title "Uw tabbladen van de vorige keer">
 <!ENTITY abouthome_last_tabs_open "Alle tabbladen van de vorige keer openen">
 <!ENTITY abouthome_top_sites_title "Topwebsites">
