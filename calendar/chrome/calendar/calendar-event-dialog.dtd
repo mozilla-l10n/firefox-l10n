@@ -126,8 +126,6 @@
 <!ENTITY event.menu.view.showlink.accesskey "C">
 <!ENTITY event.menu.options.label "Opzioni">
 <!ENTITY event.menu.options.accesskey "O">
-<!ENTITY event.menu.options.attachments.label "Allega pagina web…">
-<!ENTITY event.menu.options.attachments.accesskey "w">
 <!ENTITY event.menu.options.attendees.label "Invita partecipanti…">
 <!ENTITY event.menu.options.attendees.accesskey "n">
 <!ENTITY event.menu.options.spellcheck.label "Correzione ortografica…">
@@ -173,7 +171,6 @@
 <!ENTITY event.toolbar.attendees.label "Invita partecipanti">
 <!ENTITY event.toolbar.spellcheck.label "Correttore ortografico">
 <!ENTITY event.toolbar.privacy.label "Privacy">
-<!ENTITY event.toolbar.attachments.label "Allega">
 <!ENTITY event.title.textbox.label "Titolo:">
 <!ENTITY event.title.textbox.accesskey "T">
 <!ENTITY event.location.label "Luogo:">
