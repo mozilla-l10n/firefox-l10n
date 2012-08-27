@@ -254,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorHTMLDelete.label          "Supprimer le nœud">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Options de l'inspecteur">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Réduire l'intensité de la page">
-<!ENTITY inspectorToggleVeil.accesskey      "d">
-<!ENTITY inspectorToggleInfobar.label       "Infos sur le nœud">
-<!ENTITY inspectorToggleInfobar.accesskey   "s">
-
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
