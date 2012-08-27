@@ -255,16 +255,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorHTMLDelete.label          "Šalinti elementą">
 <!ENTITY inspectorHTMLDelete.accesskey      "Š">
 
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Tyriklio parinktys">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Temdyti tinklalapį">
-<!ENTITY inspectorToggleVeil.accesskey      "T">
-<!ENTITY inspectorToggleInfobar.label       "Rodyti elemento informaciją">
-<!ENTITY inspectorToggleInfobar.accesskey   "R">
-
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -660,5 +650,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Rodyti parankinę">
 <!ENTITY social.toggleSidebar.accesskey "p">
 
-<!ENTITY social.activated.button.label "Ojoi, atšaukti!">
-<!ENTITY social.activated.button.accesskey "a">
+<!ENTITY social.activated.undobutton.label "Atšaukti">
+<!ENTITY social.activated.undobutton.accesskey "A">

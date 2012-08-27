@@ -43,6 +43,3 @@
 <!ENTITY cmd.removeFromList.accesskey     "š">
 <!ENTITY cmd.clearList.label              "Išvalyti sąrašą">
 <!ENTITY cmd.clearList.accesskey          "v">
-
-<!ENTITY downloadshistory.label           "Rodyti visus atsiuntimus">
-<!ENTITY downloadshistory.accesskey       "R">
