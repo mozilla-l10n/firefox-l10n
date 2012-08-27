@@ -331,6 +331,10 @@
 <!ENTITY event.attendee.role.optional "Partecipante non necessario">
 <!ENTITY event.attendee.role.chair "Presidente">
 <!ENTITY event.attendee.role.nonparticipant "Non partecipante">
+<!ENTITY event.attendee.usertype.individual "Persona">
+<!ENTITY event.attendee.usertype.group "Gruppo">
+<!ENTITY event.attendee.usertype.resource "Risorsa">
+<!ENTITY event.attendee.usertype.room "Stanza">
 <!ENTITY timezone.title.label "Specificare il fuso orario">
 <!ENTITY event.timezone.custom.label "Ulteriori fusi orari…">
 <!ENTITY read.only.general.label "Generale">
