@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pageTitle                 "Atsiliepimas apie „&brandShortName;“">
+
+<!ENTITY intro.header              "Ar galite skirti minutę?">
+<!ENTITY intro.message             "Pasakykite, ką šiuo metu manote apie „Android“ įrenginiams skirtą „&brandShortName;“.">
+<!ENTITY intro.happyLink           "Labai patinka">
+<!ENTITY intro.sadLink             "Susidūriau su keletu problemų">
+<!ENTITY intro.ideaLink            "Turiu pasiūlymą">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre               "Prireikus pagalbos ar susidūrus su problema naudojantis „&brandShortName;“, kviečiame aplankyti ">
+<!ENTITY support.link              "„&brandShortName;“ žinyno">
+<!ENTITY support.post              " svetainę.">
+
+<!ENTITY happy.header              "Džiugu girdėti!">
+<!ENTITY happy.message             "Gal norite pasidalinti savo džiaugsmu, įvertindami mus penkiomis žvaigždutėmis „Google Play“ krautuvėje?">
+<!ENTITY happy.finePrint           "Tai užtruks mažiau nei minutę ir padės pasijusti puikiai.">
+<!ENTITY happy.ratingLink          "Taip, atverti „Google Play“">
+<!ENTITY happy.maybeLater          "Galbūt vėliau">
+<!ENTITY happy.noThanks            "Ačiū, ne">
+
+<!ENTITY sad.message               "Apgailestaujame, jog patyrėte nepatogumų, naudodamiesi „&brandShortName;“. Papasakokite, kas nutiko, kad galėtume šią problemą pašalinti.">
+<!ENTITY sad.placeholder           "Įrašykite savo atsiliepimą čia">
+<!ENTITY sad.lastSite              "Paskiausiai lankyta svetainė (neprivaloma)">
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "Ačiū už informaciją.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop, sad.thanksMessageBottom): These two
+     strings will appear as separate paragraphs but make up one message. -->
+<!ENTITY sad.thanksMessageTop      "Mes nuolat stengiamės „&brandShortName;“ tobulinti. Būkite ramūs – Jūsų atsiliepimą peržiūrės gyvi žmonės, ir jie padarys viską, ką gali, kad Jūsų problema būtų išspręsta.">
+<!-- <!ENTITY sad.thanksMessageBottom   "Or else."> -->
+
+<!ENTITY idea.message              "Mes visuomet džiaugiamės Jūsų idėjomis! Kviečiame pasidalinti savo mintimis (tačiau tik susijusiomis su „&brandShortName;“) žemiau.">
+<!ENTITY idea.placeholder          "Įveskite savo pasiūlymą čia">
+<!ENTITY idea.thanksHeader         "Ačiū!">
+
+<!-- LOCALIZATION NOTE (idea.thanksMessageTop, idea.thanksMessageBottom): These two
+     strings will appear as separate paragraphs but make up one message. -->
+<!ENTITY idea.thanksMessageTop     "Dėkojame už pasidalinti mintimis skirtą laiką. Mes nuolat stengiamės „&brandShortName;“ tobulinti, ir atsiliepimai, kaip kad šis, gali tapti kažko tikrai įspūdingo pradžia.">
+<!ENTITY idea.thanksMessageBottom  "Jūs to nematote, tačiau mes Jums tiesiame dešinę.">
+
+<!ENTITY feedback.privacy          "Kad apsaugotumėte savo privatumą, pasistenkite atsiliepime neįrašyti nieko, kas galėtų padėti atskleisti Jūsų tapatybę.">
+<!ENTITY feedback.send             "Siųsti atsiliepimą">
