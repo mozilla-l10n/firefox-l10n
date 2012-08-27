@@ -654,7 +654,7 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey "M">
 
-<!ENTITY socialToolbar.title "Social Toolbar Button">
+<!ENTITY socialToolbar.title "Cnaipe Barra Shóisialta">
 <!ENTITY social.notLoggedIn.label "Níl tú logáilte isteach">
 
 <!ENTITY social.sharePopup.undo.label "Díroinn">
