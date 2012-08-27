@@ -43,6 +43,3 @@
 <!ENTITY cmd.removeFromList.accesskey     "e">
 <!ENTITY cmd.clearList.label              "Limpar lista">
 <!ENTITY cmd.clearList.accesskey          "a">
-
-<!ENTITY downloadshistory.label           "Mostrar todas as transferências">
-<!ENTITY downloadshistory.accesskey       "s">
