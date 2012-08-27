@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Nor lokoo daabu">
 <!ENTITY new_tab "Nor loku taaga">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "Nor loku &#x25;d">
@@ -86,10 +87,12 @@
 <!ENTITY pref_font_size_xlarge "Bebbeeri">
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Zaa Android ra">
 <!ENTITY pref_private_data_history "Ceeciyan &amp; zumandiyan taariki">
 <!ENTITY pref_private_data_formdata "Šeedatiirawey &amp; ceeciyan taariki">
 <!ENTITY pref_private_data_cookies "Aleewawey">
+<!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Tugudoo">
 <!ENTITY pref_private_data_sessions "Ciyari goyantey">
 <!ENTITY pref_private_data_offlineApps "Bila-nda-ciyari Interneti nungu bayhayey">
@@ -99,10 +102,12 @@
 
 <!ENTITY addons "Tontoney">
 <!ENTITY downloads "Zumandiyaney">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Harfu hawyan">
 
 <!ENTITY share "Žemna">
 <!ENTITY share_title "Žemna nda">
+<!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
 <!ENTITY find_in_page "Ceeci moɲoo ra">
 <!ENTITY desktop_mode "Ordinater nungu hãa">
@@ -138,9 +143,10 @@
 <!ENTITY site_settings_clear        "Tuusu">
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
 
-<!ENTITY add_to_reading_list "Tonton caw maašeedaa ga">
+<!ENTITY reading_list "Caw maašeede">
 <!ENTITY reading_list_added "Moo tontonandi war caw maašeedaa ga">
 <!ENTITY reading_list_removed "Moo tuusandi war caw maašeedaa ra">
+<!ENTITY reading_list_failed "Failed to add page to your Reading List">
 <!ENTITY reader_mode "Cawyan alhaali">
 
 <!ENTITY masterpassword_create_title "Takaddaɲaa šennikufaloo tee">
@@ -182,6 +188,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kaŋ tunandikaa ti">
 
+<!ENTITY private_data_success "Sutura bayhayey hun">
+<!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
+
 <!ENTITY bookmarkhistory_button_import "Cendi ka dam">
 <!ENTITY bookmarkhistory_import_both "Doo-šilbawey nda taariki zaa 
 Android ra">
@@ -191,5 +200,4 @@ Android ra">
 Android ra">
 <!ENTITY bookmarkhistory_import_wait "Batu taare...">
 
-<!ENTITY private_data_success "Sutura bayhayey hun">
-<!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
+<!ENTITY webapp_generic_name "App">

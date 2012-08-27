@@ -9,4 +9,4 @@
 <!ENTITY addonAction.enable                     "Tunandi">
 <!ENTITY addonAction.disable                    "Kayandi">
 <!ENTITY addonAction.uninstall                  "Dogu">
-<!ENTITY addonAction.cancel                     "Naŋ">
+<!ENTITY addonAction.undo                       "Taafeeri">
