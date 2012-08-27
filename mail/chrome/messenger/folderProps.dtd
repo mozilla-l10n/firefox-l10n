@@ -38,7 +38,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Properties">
+<!ENTITY folderProps.windowtitle.label           "ਵਿਸ਼ੇਸ਼ਤਾ">
 
 <!ENTITY generalInfo.label                       "General Information">
 <!ENTITY folderCharsetTab.label                  "Default Character Encoding:">
