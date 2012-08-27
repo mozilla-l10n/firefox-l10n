@@ -176,13 +176,13 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Visos atvertos kortelės iš pastarojo seanso">
 <!ENTITY abouthome_top_sites_title "Dažniausiai lankomos">
 <!ENTITY abouthome_top_sites_browse "Naršyti visas dažniausiai lankomas svetaines">
-<!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync2 "Sukonfigūruokite „Firefox Sync“ ir galėsite naudotis savo adresynu, žurnalu ir kortelėmis iš kitų įrenginių »">
-<!ENTITY abouthome_about_apps "Įsigykite programų ir „Mozillos“ krautuvės ir atraskite geriausia, ką Jums gali pasiūlyti saitynas »">
+<!ENTITY abouthome_about_sync3 "Sukonfigūruokite „Firefox Sync“ ir galėsite naudotis savo adresynu, žurnalu ir kortelėmis iš kitų įrenginių&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Įsigykite programų ir „Mozillos“ krautuvės ir atraskite geriausia, ką Jums gali pasiūlyti saitynas&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
