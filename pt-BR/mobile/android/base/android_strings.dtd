@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Fechar aba">
 <!ENTITY new_tab "Nova aba">
+<!ENTITY one_tab "1 aba">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d abas">
@@ -86,24 +87,27 @@
 <!ENTITY pref_font_size_xlarge "Gigante">
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Exibir sugestões de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
 <!ENTITY pref_private_data_history "Histórico e downloads efetuados">
 <!ENTITY pref_private_data_formdata "Campos memorizados de páginas e da pesquisa">
 <!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Senhas memorizadas">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_sessions "Logins ativos">
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
 <!ENTITY pref_private_data_siteSettings "Preferências de sites">
-<!ENTITY pref_search_suggestions "Exibir sugestões de pesquisa">
 
 <!ENTITY quit "Sair">
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Downloads">
+<!ENTITY apps "Aplicativos">
 <!ENTITY char_encoding "Codificação">
 
 <!ENTITY share "Compartilhar">
 <!ENTITY share_title "Compartilhar via">
+<!ENTITY share_image_failed "Não foi possível compartilhar esta página">
 <!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY find_in_page "Localizar na página">
 <!ENTITY desktop_mode "Solicitar site do desktop">
@@ -139,9 +143,10 @@
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Não há configurações para limpar.">
 
-<!ENTITY add_to_reading_list "Adicionar à lista de leitura">
+<!ENTITY reading_list "Lista de leitura">
 <!ENTITY reading_list_added "Página adicionada à lista de leitura">
 <!ENTITY reading_list_removed "Página excluída da lista de leitura">
+<!ENTITY reading_list_failed "Falha ao adicionar a página na lista de leitura">
 <!ENTITY reader_mode "Modo de leitura">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
@@ -183,11 +188,13 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é administrado por">
 
+<!ENTITY private_data_success "Dados pessoais limpos">
+<!ENTITY private_data_fail "Alguns dados pessoais podem não ter sido limpos">
+
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico do Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importando favoritos do Android">
 <!ENTITY bookmarkhistory_import_history "Importando histórico do Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, aguarde…">
 
-<!ENTITY private_data_success "Dados pessoais limpos">
-<!ENTITY private_data_fail "Alguns dados pessoais podem não ter sido limpos">
+<!ENTITY webapp_generic_name "Aplicativo">

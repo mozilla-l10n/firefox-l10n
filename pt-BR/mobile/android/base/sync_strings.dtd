@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Tentar de novo">
 <!ENTITY sync.button.manual.label "Configuração manual">
 <!ENTITY sync.subtitle.nointernet.label "Sem conexão com a internet.">
+<!ENTITY sync.subtitle.failaccount.label "Falha na criação da conta no seu dispositivo.">
+<!ENTITY sync.subtitle.failmultiple.label "Você possui mais de um Firefox instalado? Atualmente, o &syncBrand.fullName.label; suporta somente uma instalação do Firefox de cada vez. Por favor, desinstale outras instâncias para usar o &syncBrand.shortName.label;.">
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Configuração concluída">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Apenas uma conta &syncBrand.fullName.label; é suportada.">
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label "Nome da conta ou senha incorreta.">
+<!ENTITY sync.invalidserver.label "Por favor, forneça um endereço de servidor válido">
+<!ENTITY sync.verifying.label "Verificando…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Por favor, tente de novo.">
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label "Enviar aba para dispositivos">
+<!ENTITY sync.button.send.label "Enviar">
+<!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar o &syncBrand.shortName.label; para enviar abas">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar o &syncBrand.fullName.label; no seu dispositivo para enviar abas para outros dispositivos.">
+<!ENTITY sync.text.tab.sent.label "Sua aba foi enviada!">
