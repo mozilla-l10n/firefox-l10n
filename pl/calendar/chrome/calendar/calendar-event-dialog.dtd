@@ -99,9 +99,6 @@
 
 <!ENTITY  event.menu.options.label                             "Opcje">
 <!ENTITY  event.menu.options.accesskey                         "e">
-<!ENTITY  event.menu.options.attachments.label                 "Dołącz stronę internetową…
-">
-<!ENTITY  event.menu.options.attachments.accesskey             "o">
 <!ENTITY  event.menu.options.attendees.label                   "Zaproś uczestników…">
 <!ENTITY  event.menu.options.attendees.accesskey               "Z">
 <!ENTITY  event.menu.options.spellcheck.label                  "Sprawdzanie pisowni…">
@@ -150,7 +147,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Zaproś uczestników">
 <!ENTITY  event.toolbar.spellcheck.label                  "Sprawdzanie pisowni">
 <!ENTITY  event.toolbar.privacy.label                     "Prywatność">
-<!ENTITY  event.toolbar.attachments.label                 "Dołącz">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Nazwa:" >
