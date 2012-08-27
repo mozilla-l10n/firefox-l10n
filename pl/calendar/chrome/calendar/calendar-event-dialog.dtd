@@ -334,6 +334,10 @@
 <!ENTITY event.attendee.role.optional           "Uczestnik opcjonalny">
 <!ENTITY event.attendee.role.chair              "Przewodniczący">
 <!ENTITY event.attendee.role.nonparticipant     "Do wiadomości">
+<!ENTITY event.attendee.usertype.individual "Osoba">
+<!ENTITY event.attendee.usertype.group "Grupa">
+<!ENTITY event.attendee.usertype.resource "Zasób">
+<!ENTITY event.attendee.usertype.room "Pokój">
 
 <!-- Timezone dialog -->
 
