@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Nuostatos">
 <!ENTITY  event.menu.options.accesskey                        "N">
-<!ENTITY  event.menu.options.attachments.label                "Pridėti tinklalapį…">
-<!ENTITY  event.menu.options.attachments.accesskey            "t">
 <!ENTITY  event.menu.options.attendees.label                  "Pakviesti dalyvius…">
 <!ENTITY  event.menu.options.attendees.accesskey              "d">
 <!ENTITY  event.menu.options.spellcheck.label                 "Tikrinti rašybą…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Pakviesti dalyvius">
 <!ENTITY  event.toolbar.spellcheck.label                  "Tikrinti rašybą">
 <!ENTITY  event.toolbar.privacy.label                     "Viešumas">
-<!ENTITY  event.toolbar.attachments.label                 "Pridėti">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pavadinimas:" >
