@@ -122,7 +122,7 @@
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
 <!ENTITY contextmenu_remove_history "Verwijderen">
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
-<!ENTITY contextmenu_add_to_launcher "Toevoegen aan startpagina">
+<!ENTITY contextmenu_add_to_launcher "Toevoegen aan startscherm">
 <!ENTITY contextmenu_share "Delen">
 <!ENTITY contextmenu_pasteandgo "Plakken &amp; Gaan">
 <!ENTITY contextmenu_paste "Plakken">
