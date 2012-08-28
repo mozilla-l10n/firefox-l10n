@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
@@ -8,60 +12,77 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Privatumo ir saugumo nuostatos - liudijimai</title>
+<title>Privacy &amp; Security Preferences - Certificates</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<h1 id="certificate_settings">Liudijimų nuostatos</h1>
+<h1 id="certificate_settings">Certificate Settings</h1>
 
-<p>Šiame skyriuje aprašoma, kaip parenkamos liudijimų nuostatos, kaip dirbti su liudijimų tvarkytuve, saugumo priemonių tvarkytuve ir kaip naudotis kitais su liudijimais susijusiais dialogo langais.</p>
+<p>This section describes how to set your certificate preferences and how to
+  use the Certificate Manager, Device Manager, and other dialog boxes related
+  to certificates.</p>
 
-<p>Įvairių su liudijimais susijusių darbų pažingsninis aprašymas pateikiamas sk. <a href="using_certs_help.xhtml">Liudijimų naudojimas</a>.</p>
+<p>For step-by-step descriptions of various tasks related to certificates, see
+  <a href="using_certs_help.xhtml">Using Certificates</a>.</p>
 
-<div class="contentsBox">Šiame skyriuje:
+<div class="contentsBox">In this section:
   <ul>
-    <li><a href="#privacy_and_security_preferences_certificates">Liudijimų nuostatos</a></li>
-    <li><a href="certs_help.xhtml">Liudijimų tvarkytuvė</a></li>
-    <li><a href="certs_help.xhtml#device_manager">Įrenginių tvarkytuvė</a></li>
-    <li><a href="cert_dialog_help.xhtml">Liudijimų informacija ir sprendimai</a></li>
+    <li><a href="#privacy_and_security_preferences_certificates">Certificate 
+      Preferences</a></li>
+    <li><a href="certs_help.xhtml">Certificate Manager</a></li>
+    <li><a href="certs_help.xhtml#device_manager">Device Manager</a></li>
+    <li><a href="cert_dialog_help.xhtml">Certificate Information and
+      Decisions</a></li>
   </ul>
 </div>
 
-<h1 id="privacy_and_security_preferences_certificates">Privatumo ir saugumo nuostatos - liudijimai</h1>
+<h1 id="privacy_and_security_preferences_certificates">Privacy &amp; Security
+  Preferences - Certificates</h1>
 
-<p>Šis skyrius aprašo liudijimų nuostatų skydelio naudojimą. Liudijimų nuostatų peržiūra vykdoma taip:</p>
+<p>This section describes use the Certificates preferences panel. To view
+  Certificates preferences, follow these steps:</p>
 
 <ol>
-  <li>Atverkite <span class="mac">&brandShortName;</span>
-    <span class="noMac">Taisa</span> meniu ir pasirinkite <i>Nuostatos</i>.</li>
-  <li>Privatumo ir saugumo kategorijoje spragtelkite <i>Liudijimai</i>. (Jei pogrupių nesimato, dukart spragelkite pavadinimą <i>Privatumas ir saugumas</i>.)</li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Certificates. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
 </ol>
 
-<h3 id="client_certificate_selection">Kliento liudijimų pasirinkimas</h3>
+<h3 id="client_certificate_selection">Client Certificate Selection</h3>
 
-<p>Kai kurie tinklalapiai reikalauja patvirtinti savo tapatybę liudijimu. Čia pasirinktos nuostatos apibrėžia, kaip naršyklė atpažins reikiamą liudijimą tarp turimų faile:</p>
+<p>Some websites require you to identify yourself with a certificate. The
+  option you select here determines how the browser identifies the certificate
+  to present among those you may have on file:</p>
 
 <ul>
-  <li><strong>Pasirinkti automatiškai:</strong> Spragtelėkite šią nuostatą, jei norite, kad naršyklė pasirinktų liudijimą neklausdama jūsų. Tai yra standartinis pasirinkimas.</li>
-  <li><strong>Kaskart klausti:</strong> Spragtelėkite šią nuostatą, jei norite, kad naršyklė, tinklalapiui to paprašius, kaskart atsiklaustų, kurį liudijimą naudoti.</li>
+  <li><strong>Select Automatically:</strong> Click this option if you want
+    the browser to select a certificate without asking you.</li>
+  <li><strong>Ask Every Time:</strong> Click this option if you want the browser
+    to ask you which certificate to use each time a website requests one.</li>
 </ul>
 
-<h3 id="manage_certificates">Tvarkyti liudijimus</h3>
+<h3 id="manage_certificates">Manage Certificates</h3>
 
-<p>Liudijimai yra skaitmeniniai identifikavimo kortelių atitikmenys; jie padeda kitiem žmonėms atpažinti jus, o jums - kitus žmones, tinklalapius ir organizacijas.</p>
+<p>Certificates are the digital equivalent of ID cards&mdash;they help other
+  people identify you, and they help you identify other people, websites, and
+  organizations.</p>
 
-<p>Norėdami patikrinti ar tvarkyti turimus liudijimus, paspauskite <i>Tvarkyti liudijimus</i>.</p>
+<p>To examine or configure the certificates you have on file, click Manage
+  Certificates.</p>
 
-<h3 id="manage_security_devices">Tvarkyti saugumo priemones</h3>
+<h3 id="manage_security_devices">Manage Security Devices</h3>
 
-<p>Saugumo priemonė yra įrenginys ar programa, sauganti jūsų liudijimus ir raktus. Pavyzdžiui, lustinė kortelė yra saugumo priemonė. Jūsų naršyklė turi įdiegtą nuosavą programinę saugumo priemonę, ir jūs galite tuo pačiu metu naudoti papildomas saugumo priemones, pvz., lustines korteles.</p>
+<p>A security device is a hardware or software device that stores your
+  certificates and keys. For example, a smart card is a security device. Your
+  browser has its own built-in software security device, and you can use
+  additional security devices, such as smart cards, at the same time.</p>
 
-<p>Turimų saugumo priemonių peržiūrai ir tvarkymui paspauskite <i>Tvarkyti saugumo priemones</i>.</p>
-
-
-<p>&copyright.string;</p>
+<p>To examine or configure your security devices, click Manage Security
+  Devices.</p>
 
 </body>
 </html>
