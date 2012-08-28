@@ -189,11 +189,6 @@
 <!ENTITY inspectorHTMLCopyOuter.accesskey "о">
 <!ENTITY inspectorHTMLDelete.label "Удалить узел">
 <!ENTITY inspectorHTMLDelete.accesskey "д">
-<!ENTITY inspectOptionButton.tooltiptext "Настройки инспектора">
-<!ENTITY inspectorToggleVeil.label "Затемнить страницу">
-<!ENTITY inspectorToggleVeil.accesskey "е">
-<!ENTITY inspectorToggleInfobar.label "Показать сведения об узле">
-<!ENTITY inspectorToggleInfobar.accesskey "о">
 <!ENTITY inspect3DViewButton.label "3D вид">
 <!ENTITY inspect3DViewButton.accesskey "в">
 <!ENTITY inspectStyleButton.label "Стиль">
