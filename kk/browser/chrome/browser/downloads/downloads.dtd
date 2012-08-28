@@ -43,6 +43,3 @@
 <!ENTITY cmd.removeFromList.accesskey     "Т">
 <!ENTITY cmd.clearList.label              "Тізімді тазарту">
 <!ENTITY cmd.clearList.accesskey          "Т">
-
-<!ENTITY downloadshistory.label           "Барлық жүктемелерді көрсету">
-<!ENTITY downloadshistory.accesskey       "Б">

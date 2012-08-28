@@ -255,16 +255,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorHTMLDelete.label          "Ноданы өшіру">
 <!ENTITY inspectorHTMLDelete.accesskey      "Н">
 
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Бақылаушы баптаулары">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Парақты қараңғылату">
-<!ENTITY inspectorToggleVeil.accesskey      "П">
-<!ENTITY inspectorToggleInfobar.label       "Торап ақпаратын көрсету">
-<!ENTITY inspectorToggleInfobar.accesskey   "Т">
-
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -673,5 +663,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Бүйір панелін көрсету">
 <!ENTITY social.toggleSidebar.accesskey "Б">
 
-<!ENTITY social.activated.button.label "Ой-бай, болдырмау">
-<!ENTITY social.activated.button.accesskey "О">
+<!ENTITY social.activated.undobutton.label "Болдырмау">
+<!ENTITY social.activated.undobutton.accesskey "Б">
