@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setWallpaperCmd.label        "Definir como imagem de fundo do ambiente de trabalho">
-<!ENTITY setWallpaperCmd.accesskey    "D">
+<!ENTITY setDesktopBackgroundCmd.label        "Definir como imagem de fundo do ambiente de trabalho">
+<!ENTITY setDesktopBackgroundCmd.accesskey    "D">
 <!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Adicionar ligação aos marcadores">

@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Recibos de Leitura">
 <!ENTITY useGlobalPrefs.label         "Usar as minhas preferências gerais para os recibos de leitura para esta conta">
 <!ENTITY useGlobalPrefs.accesskey     "a">
+<!ENTITY globalReceipts.label         "Preferências globais…">
+<!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalizar recibos de leitura para esta conta">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Ao enviar mensagens, pedir sempre um recibo de leitura">
