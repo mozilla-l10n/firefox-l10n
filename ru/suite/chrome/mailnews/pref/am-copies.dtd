@@ -16,7 +16,7 @@
 <!ENTITY bccAddressList.placeholder "Разделяйте адреса запятыми">
 <!ENTITY saveMessageDlg.label "Запрашивать подтверждение при сохранении сообщений">
 <!ENTITY saveMessageDlg.accesskey "п">
-<!ENTITY sentFolderOn.label "папку «Отправленные» в:">
+<!ENTITY sentFolderOn.label "папку «Отправленные» на:">
 <!ENTITY sentFolderOn.accesskey "а">
 <!ENTITY sentInOtherFolder.label "Другую папку:">
 <!ENTITY sentInOtherFolder.accesskey "г">
@@ -25,18 +25,18 @@
 <!ENTITY keepArchives.accesskey "х">
 <!ENTITY archiveHierarchyButton.label "Настройки архивации…">
 <!ENTITY archiveHierarchyButton.accesskey "с">
-<!ENTITY archivesFolderOn.label "папке «Архивы» в:">
+<!ENTITY archivesFolderOn.label "папке «Архивы» на:">
 <!ENTITY archivesFolderOn.accesskey "в">
 <!ENTITY archiveInOtherFolder.label "Другой папке:">
 <!ENTITY archiveInOtherFolder.accesskey "о">
 <!ENTITY specialFolders.label "Черновики и Шаблоны">
 <!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
-<!ENTITY draftsFolderOn.label "папке «Черновики» в:">
+<!ENTITY draftsFolderOn.label "папке «Черновики» на:">
 <!ENTITY draftsFolderOn.accesskey "н">
 <!ENTITY draftInOtherFolder.label "Другой папке:">
 <!ENTITY draftInOtherFolder.accesskey "у">
 <!ENTITY keepTemplates.label "Хранить шаблоны сообщений в:">
-<!ENTITY templatesFolderOn.label "папке «Шаблоны» в:">
+<!ENTITY templatesFolderOn.label "папке «Шаблоны» на:">
 <!ENTITY templatesFolderOn.accesskey "б">
 <!ENTITY templateInOtherFolder.label "Другой папке:">
 <!ENTITY templateInOtherFolder.accesskey "р">

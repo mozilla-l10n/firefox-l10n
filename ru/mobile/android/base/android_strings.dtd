@@ -34,6 +34,8 @@
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section "7 дней назад">
 <!ENTITY history_older_section "Более 7 дней назад">
+<!ENTITY go "Перейти">
+<!ENTITY search "Поиск">
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
 <!ENTITY menu "Меню">
@@ -70,16 +72,18 @@
 <!ENTITY pref_font_size_medium "Средний">
 <!ENTITY pref_font_size_large "Большой">
 <!ENTITY pref_font_size_xlarge "Огромный">
+<!ENTITY pref_font_size_set "Другой">
+<!ENTITY pref_font_size_adjust_char "A">
+<!ENTITY pref_font_size_preview_text "Быстрый оранжевый лис перепрыгивает через ваши ожидания с высокой скоростью, большей гибкостью и повышенной безопасностью. Будучи некоммерческой организацией, мы свободны в своём развитии и нам не нужно идти на компромиссы. Мы улучшим для вас работу в Интернете и сделаем его будущее более светлым.">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_sync "Синхронизация">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY pref_private_data_history "Журнал посещений и загрузок">
 <!ENTITY pref_private_data_formdata "Журнал форм и поиска">
-<!ENTITY pref_private_data_cookies "Куки">
+<!ENTITY pref_private_data_cookies2 "Куки и активные сеансы">
 <!ENTITY pref_private_data_passwords "Сохранённые пароли">
 <!ENTITY pref_private_data_cache "Кэш">
-<!ENTITY pref_private_data_sessions "Активные сеансы">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings "Настройки сайтов">
 <!ENTITY quit "Выход">
@@ -111,7 +115,7 @@
 <!ENTITY bookmark_edit_name "Имя">
 <!ENTITY bookmark_edit_location "Расположение">
 <!ENTITY bookmark_edit_keyword "Краткое имя">
-<!ENTITY site_settings_title "Очистить настройки сайта">
+<!ENTITY site_settings_title2 "Параметры сайта…">
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
@@ -133,9 +137,10 @@
 <!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY abouthome_top_sites_title "Топ сайтов">
 <!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
-<!ENTITY abouthome_no_top_sites "В вашем топе пока нет ни одного сайта. Нажмите на заголовок для начала веб-сёрфинга.">
-<!ENTITY abouthome_about_sync "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств">
+<!ENTITY abouthome_about_sync3 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
+<!ENTITY abouthome_about_apps2 "Загрузите приложения из магазина Mozilla и откройте для себя всё самое лучшее, что может предложить Интернет »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Магазин Mozilla">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">

@@ -20,26 +20,10 @@
 <!ENTITY detailsProgressiveDisclosure.accesskey "д">
 <!ENTITY historySection.label "История">
 <!ENTITY dataSection.label "Данные">
-<!ENTITY itemHistoryAndDownloads.label "Журнал посещений и загрузок">
-<!ENTITY itemHistoryAndDownloads.accesskey "п">
-<!ENTITY itemBrowsingHistory.label "Журнал посещений">
-<!ENTITY itemBrowsingHistory.accesskey "п">
-<!ENTITY itemFormSearchHistory.label "Журнал форм и поиска">
-<!ENTITY itemFormSearchHistory.accesskey "ф">
-<!ENTITY itemPasswords.label "Сохранённые пароли">
-<!ENTITY itemPasswords.accesskey "р">
 <!ENTITY itemCookies.label "Куки">
 <!ENTITY itemCookies.accesskey "у">
 <!ENTITY itemCache.label "Кэш">
 <!ENTITY itemCache.accesskey "э">
-<!ENTITY itemOfflineApps.label "Данные автономных веб-сайтов">
-<!ENTITY itemOfflineApps.accesskey "н">
-<!ENTITY itemDownloadHistory.label "Журнал загрузок">
-<!ENTITY itemDownloadHistory.accesskey "з">
-<!ENTITY itemActiveLogins.label "Активные сеансы">
-<!ENTITY itemActiveLogins.accesskey "с">
-<!ENTITY itemSitePreferences.label "Настройки сайтов">
-<!ENTITY itemSitePreferences.accesskey "о">
 <!ENTITY sanitizeEverythingUndoWarning "Это действие не может быть отменено.">
 <!ENTITY dialog.width "28em">
 <!ENTITY column.width "16em">
