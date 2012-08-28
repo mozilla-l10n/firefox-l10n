@@ -203,7 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label "Ritill">
-<!ENTITY scratchpad.accesskey "R">
+<!ENTITY scratchpad.accesskey "l">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Loka skoðara">
