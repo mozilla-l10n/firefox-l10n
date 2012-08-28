@@ -189,11 +189,6 @@
 <!ENTITY inspectorHTMLCopyOuter.accesskey "T">
 <!ENTITY inspectorHTMLDelete.label "Elimina nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "E">
-<!ENTITY inspectOptionButton.tooltiptext "Opzioni analisi">
-<!ENTITY inspectorToggleVeil.label "Offusca pagina">
-<!ENTITY inspectorToggleVeil.accesskey "O">
-<!ENTITY inspectorToggleInfobar.label "Mostra inf. nodo">
-<!ENTITY inspectorToggleInfobar.accesskey "M">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Stile">
@@ -478,5 +473,5 @@
 <!ENTITY social.sharePopup.portrait.arialabel "Immagine profilo utente">
 <!ENTITY social.toggleSidebar.label "Visualizza barra laterale">
 <!ENTITY social.toggleSidebar.accesskey "V">
-<!ENTITY social.activated.button.label "Oops, annulla">
-<!ENTITY social.activated.button.accesskey "a">
+<!ENTITY social.activated.undobutton.label "Annulla">
+<!ENTITY social.activated.undobutton.accesskey "A">
