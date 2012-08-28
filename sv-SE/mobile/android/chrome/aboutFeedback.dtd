@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pageTitle                 "&brandShortName; Feedback">
+
+<!ENTITY intro.header              "Har du en minut?">
+<!ENTITY intro.message             "Berätta vad du tycker om &brandShortName; för Android hittills.">
+<!ENTITY intro.happyLink           "Jag gillar den">
+<!ENTITY intro.sadLink             "Jag stötte på vissa problem">
+<!ENTITY intro.ideaLink            "Jag har en idé">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre               "Behöver du hjälp eller har du ett problem med &brandShortName;, besök ">
+<!ENTITY support.link              "&brandShortName; Support">
+<!ENTITY support.post              ".">
+
+<!ENTITY happy.header              "Det var kul att höra!">
+<!ENTITY happy.message             "Vill du dela med dig av glädjen genom att ge oss en 5:a i betyg på Google Play?">
+<!ENTITY happy.finePrint           "Det tar mindre än en minut och är enkelt.">
+<!ENTITY happy.ratingLink          "Ja, gå till Google Play">
+<!ENTITY happy.maybeLater          "Kanske senare">
+<!ENTITY happy.noThanks            "Nej tack">
+
+<!ENTITY sad.message               "Det var tråkigt att du hade problem med &brandShortName;. Berätta vad som hände så kanske vi kan fixa det.">
+<!ENTITY sad.placeholder           "Skriv in dina synpunkter här">
+<!ENTITY sad.lastSite              "Senast besökta webbplats (valfritt)">
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "Tack för dina synpunkter.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop, sad.thanksMessageBottom): These two
+     strings will appear as separate paragraphs but make up one message. -->
+<!ENTITY sad.thanksMessageTop      "Vi arbetar hela tiden med att förbättra &brandShortName;. Vi kommer att titta på dina synpunkter och göra vårt bästa för att åtgärda problemet.">
+<!ENTITY sad.thanksMessageBottom   "">
+
+<!ENTITY idea.message              "Vi lyssnar gärna på dina idéer! Dela med dig av dina tankar här nedan. (Men bara dom som handlar om &brandShortName; tack.)">
+<!ENTITY idea.placeholder          "Skriv in dina idéer här">
+<!ENTITY idea.thanksHeader         "Tack!">
+
+<!-- LOCALIZATION NOTE (idea.thanksMessageTop, idea.thanksMessageBottom): These two
+     strings will appear as separate paragraphs but make up one message. -->
+<!ENTITY idea.thanksMessageTop     "Vi uppskattar att du tar dig tid att dela med dig av dina synpunkter. Vi arbetar ständigt för att förbättra &brandShortName; och bidrag som ditt kan vara till stor hjälp.">
+<!ENTITY idea.thanksMessageBottom  "Det syns kanske inte, men här får du en high five.">
+
+<!ENTITY feedback.privacy          "Av integritetsskäl bör du inte inkludera några uppgifter som identifierar dig personligen i dina synpunkter.">
+<!ENTITY feedback.send             "Skicka synpunkter">
