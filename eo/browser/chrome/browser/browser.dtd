@@ -238,7 +238,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Fermi ilaron de programistoj">
 <!ENTITY devToolbarMenu.label              "Ilaro de programistoj">
 <!ENTITY devToolbarMenu.accesskey          "p">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+
 
 <!ENTITY webConsoleButton.label "Teksaĵa konzolo">
 <!ENTITY inspectorButton.label "Inspektilo">
@@ -458,23 +460,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.label           "Konservi videon kiel…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Konservi sonon kiel…">
-<!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "Sendi bildon…">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Sendi videon…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Sendi sonon…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY saveAudioCmd.accesskey       "s">
+<!ENTITY emailImageCmd.label          "Sendi bildon retpoŝte…">
+<!ENTITY emailImageCmd.accesskey      "b">
+<!ENTITY emailVideoCmd.label          "Sendi filmeton retpoŝte…">
+<!ENTITY emailVideoCmd.accesskey      "f">
+<!ENTITY emailAudioCmd.label          "Sendi sonon retpoŝte…">
+<!ENTITY emailAudioCmd.accesskey      "s">
 <!ENTITY copyLinkCmd.label            "Kopii adreson de ligilo">
 <!ENTITY copyLinkCmd.accesskey        "k">
 <!ENTITY copyImageCmd.label           "Kopii adreson de bildo">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopii bildon">
 <!ENTITY copyImageContentsCmd.accesskey  "b"> 
-<!ENTITY copyVideoURLCmd.label        "Kopii adreson de video">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.label        "Kopii adreson de filmeto">
+<!ENTITY copyVideoURLCmd.accesskey    "f">
 <!ENTITY copyAudioURLCmd.label        "Kopii adreson de sono">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.accesskey    "s">
 <!ENTITY copyEmailCmd.label           "Kopii retpoŝtan adreson">
 <!ENTITY copyEmailCmd.accesskey       "R">
 <!ENTITY thisFrameMenu.label              "Tiu ĉi kadro">
@@ -653,3 +655,11 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Butono de socia ilaro">
+<!ENTITY social.notLoggedIn.label   "Ne konektita">
+
+<!ENTITY social.sharePopup.undo.label     "Ne plu dividi">
+<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.ok.label       "En ordo">
+<!ENTITY social.sharePopup.ok.accesskey   "O">
