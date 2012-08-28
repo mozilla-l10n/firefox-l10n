@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title                      "Tillägg">
+<!ENTITY aboutAddons.title2                     "Tillägg">
 <!ENTITY aboutAddons.header2                    "Dina tillägg">
 <!ENTITY aboutAddons.options                    "Inställningar">
 
