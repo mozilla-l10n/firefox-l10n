@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Torna-lo a prebar">
 <!ENTITY sync.button.manual.label "Configuración manual">
 <!ENTITY sync.subtitle.nointernet.label "No i hai garra connexión d'Internet disponible.">
+<!ENTITY sync.subtitle.failaccount.label "Ha fallau a creyación d'a cuenta en o suyo dispositivo.">
+<!ENTITY sync.subtitle.failmultiple.label "Tien instalau mas d'un Firefox? Actualment &syncBrand.fullName.label; nomás admite una instalación de Firefox de vez. Por favor, desinstale as atras instancias ta fer servir &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "S'ha rematau a configuración">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Nomás se permite una cuenta de &syncBrand.fullName.label;">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "Nombre de cuenta u clau incorrectos.">
+<!ENTITY sync.invalidserver.label "Escriba una URL de servidor valida">
+<!ENTITY sync.verifying.label "Verificando...">
 <!ENTITY sync.new.recoverykey.status.incorrect "A clau de recuperación ye incorrecta. Torne a prebar-lo.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Ninviar a pestanya ta o dispositivo">
+<!ENTITY sync.button.send.label "Ninviar">
+<!ENTITY sync.button.set.up.sync.label "Configurar o &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar o &syncBrand.shortName.label; ta ninviar pestanyas">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar o &syncBrand.fullName.label; en o suyo dispositivo ta ninviar pestanyas enta atros equipos.">
+<!ENTITY sync.text.tab.sent.label "S'ha ninviau a pestanya!">

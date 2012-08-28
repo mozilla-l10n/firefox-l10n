@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Meter ista pachina en marcapachinas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Conducir-se a ista pachina">
 <!ENTITY subscribeToPageMenuitem.label "Conducir-se a ista pachina…">
 <!ENTITY addCurPagesCmd.label "Adhibir pestanyas ta marcapachinas…">
@@ -214,9 +215,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
 
-<!ENTITY responsiveUI.label            "Modo liquido">
-<!ENTITY responsiveUI.accesskey        "q">
-<!ENTITY responsiveUI.commandkey       "M">
+<!ENTITY responsiveDesignTool.label   "Vista de disenyo adaptativo">
+<!ENTITY responsiveDesignTool.accesskey "y">
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -238,11 +239,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Zarrar a barra ta desembolicadors">
 <!ENTITY devToolbarMenu.label              "Barra de desembolicadors">
 <!ENTITY devToolbarMenu.accesskey          "B">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML Interior">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -361,7 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.label "Reiniciar con os complementos desactivaus…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
-<!ENTITY openCmd.commandkey           "l">
+<!ENTITY openCmd.commandkey           "I">
 <!ENTITY urlbar.placeholder           "Ir ta un puesto web">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Ir ta la pestanya:">
@@ -438,8 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Adhibir ista bastida a las marcapachinas">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY sendPageCmd.label            "Ninviar a pachina…">
-<!ENTITY sendPageCmd.accesskey        "v">
+<!ENTITY emailPageCmd.label           "Ninviar vinclo por correu…">
+<!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Alzar a pachina como…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
@@ -451,20 +452,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Alzar o vinclo como…">
 <!ENTITY saveLinkCmd.accesskey        "n">
-<!ENTITY sendLinkCmd.label            "Ninviar o vinclo…"> 
-<!ENTITY sendLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Alzar a imachen como…">
 <!ENTITY saveImageCmd.accesskey       "i">
 <!ENTITY saveVideoCmd.label           "Alzar o video como…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Alzar l'audio como...">
 <!ENTITY saveAudioCmd.accesskey       "a">
-<!ENTITY sendImageCmd.label           "Ninviar a imachen…">
-<!ENTITY sendImageCmd.accesskey       "c">
-<!ENTITY sendVideoCmd.label           "Ninviar o video…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Ninviar l'audio…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Ninviar a imachen por correu…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Ninviar o video por correu…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Ninviar l'audio por correu…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Copiar a rota d'o vinclo">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Copiar a rota d'a imachen">
@@ -654,3 +653,11 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Botón d'a barra de ferramientas social">
+<!ENTITY social.notLoggedIn.label   "No ha iniciau sesión">
+
+<!ENTITY social.sharePopup.undo.label     "Deixar de compartir">
+<!ENTITY social.sharePopup.undo.accesskey "x">
+<!ENTITY social.sharePopup.ok.label       "Acceptar">
+<!ENTITY social.sharePopup.ok.accesskey   "c">

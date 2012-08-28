@@ -47,9 +47,14 @@
 
 <!ENTITY reload "Esviellar">
 <!ENTITY forward "Entabant">
+<!ENTITY menu "Menú">
+<!ENTITY back "Enta zaga">
+<!ENTITY stop "Aturar">
+<!ENTITY site_security "Seguridat d'o puesto">
 
 <!ENTITY close_tab "Zarrar a pestanya">
 <!ENTITY new_tab "Pestanya nueva">
+<!ENTITY one_tab "1 pestanya">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d pestanyas">
@@ -60,6 +65,7 @@
 <!ENTITY pref_category_general "Cheneral">
 <!ENTITY pref_category_privacy "Privacidat y seguranza">
 <!ENTITY pref_category_content "Conteniu">
+<!ENTITY pref_category_importexport "Importar &amp; exportar">
 <!ENTITY pref_about_firefox "Quanto a &brandShortName;">
 <!ENTITY pref_do_not_track "Indicar que no me sigan o bayo">
 <!ENTITY pref_telemetry "Ninviar datos d\'o rendimiento">
@@ -68,10 +74,7 @@
 <!ENTITY pref_char_encoding "Amostrar a codificación">
 <!ENTITY pref_char_encoding_on "Amostrar o menú">
 <!ENTITY pref_char_encoding_off "No amostrar o menú">
-<!ENTITY pref_clear_history "Limpiar l\'historial">
-<!ENTITY pref_clear_history_confirm "Se eliminará l'\historial de navegación">
 <!ENTITY pref_clear_private_data "Limpiar os datos privaus">
-<!ENTITY pref_clear_private_data_confirm "Se eliminarán os parametros de navegación, incluyendo-ie as claus y as cookies">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Activau">
 <!ENTITY pref_plugins_tap_to_play "Toque-lo ta enchegar">
@@ -84,17 +87,30 @@
 <!ENTITY pref_font_size_xlarge "Muit gran">
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
 <!ENTITY pref_sync "Sincronizar">
+<!ENTITY pref_search_suggestions "Amostrar as sucherencias de busca">
+<!ENTITY pref_import_android "Importar dende Android">
+<!ENTITY pref_private_data_history "Navegación &amp; historial de descargas">
+<!ENTITY pref_private_data_formdata "Formulario &amp; historial de busca">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Claus alzadas">
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_sessions "Sesions activas">
+<!ENTITY pref_private_data_offlineApps "Datos offline d'o puesto web">
+<!ENTITY pref_private_data_siteSettings "Preferencias d'o puesto">
 
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Baixadas">
+<!ENTITY apps "Aplicacions">
 <!ENTITY char_encoding "Codificación d\'os caracters">
 
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por meyo de">
+<!ENTITY share_image_failed "No se puet compartir a imachen">
 <!ENTITY save_as_pdf "Alzar como PDF">
 <!ENTITY find_in_page "Trobar en a pachina">
+<!ENTITY desktop_mode "Demandar a versión d'escritorio d'o puesto">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -108,6 +124,9 @@
 <!ENTITY contextmenu_remove_bookmark "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Adhibir-lo a la pantalla inicial">
 <!ENTITY contextmenu_share "Compartir">
+<!ENTITY contextmenu_pasteandgo "Apegar &amp; Ir">
+<!ENTITY contextmenu_paste "Apegar">
+<!ENTITY contextmenu_copyurl "Copiar l'adreza">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -124,9 +143,10 @@
 <!ENTITY site_settings_clear        "Limpiar">
 <!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar">
 
-<!ENTITY add_to_reading_list "S'ha adhibiu en a Lista de lectura">
+<!ENTITY reading_list "Lista de lectura">
 <!ENTITY reading_list_added "S'ha adhibiu a la suya pachina de lectura">
 <!ENTITY reading_list_removed "S'ha eliminau d'a suya pachina de lectura">
+<!ENTITY reading_list_failed "No s'ha puesto adhibir a pachina en a suya Lista de lectura">
 <!ENTITY reader_mode "Modo lector">
 
 <!ENTITY masterpassword_create_title "Creyar una clau mayestra">
@@ -136,6 +156,7 @@
 
 <!ENTITY button_ok "D\'alcuerdo">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_clear_data "Borrar os datos">
 
 <!ENTITY abouthome_addons_title "Os complementos de &brandShortName;">
 <!ENTITY abouthome_addons_browse "Amostrar totz os complementos de &brandShortName;">
@@ -166,3 +187,17 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que perteneix a">
+
+<!ENTITY private_data_success "S'ha borrau os datos privaus">
+<!ENTITY private_data_fail "Bells datos privaus no s'han puesto borrar">
+
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Se son importando os marcapachinas y 
+l'historial dende Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Se son importando os 
+marcapachinas dende Android">
+<!ENTITY bookmarkhistory_import_history "Se ye importando l'historial 
+dende Android">
+<!ENTITY bookmarkhistory_import_wait "Aguarde por favor...">
+
+<!ENTITY webapp_generic_name "Aplicacions">

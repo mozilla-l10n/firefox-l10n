@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "Phonetic:">
 <!ENTITY DisplayName.label              "Display:">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
+<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY NickName.label                 "Nickname:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -67,8 +69,8 @@ content in HTML messages from this contact.">
 
 <!ENTITY Home.tab                       "Private">
 <!ENTITY Home.accesskey                 "P">
-<!ENTITY HomeAddress.label              "Adreza:">
-<!ENTITY HomeAddress.accesskey          "r">
+<!ENTITY HomeAddress.label              "Address:">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "City:">
@@ -98,7 +100,7 @@ content in HTML messages from this contact.">
 <!ENTITY Company.label                  "Organization:">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Address:">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "City:">

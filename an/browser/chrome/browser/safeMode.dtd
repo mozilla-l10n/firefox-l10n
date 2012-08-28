@@ -16,4 +16,4 @@
 
 <!ENTITY autoSafeModeDescription2.label "O &brandShortName; s'ha zarrau de sopetón entre que s'iniciaba.  A causa puede estar en os complementos u talment en atros problemas. Puet mirar de resolver o problema restablindo o &brandShortName; a lo suyo estau predeterminau u mirar de solucionar problemas en o Modo seguro.">
 <!ENTITY resetProfileFooter.label       "Tot o de demas se restaurará a las suyas valuras por defecto de fabrica.">
-<!ENTITY safeModeInstead.label          "Si no quiere isto, pued continar en Modo seguro ta mirar de solucionar os suyos problemas con os suyos complementos y as suyas preferencias desactivadas temporalment.">
+<!ENTITY safeModeInstead.label          "Si no quiere isto, puet continar en Modo seguro ta mirar de solucionar os suyos problemas con os suyos complementos y as suyas preferencias desactivadas temporalment.">

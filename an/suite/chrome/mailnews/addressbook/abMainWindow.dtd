@@ -47,10 +47,12 @@
 
 <!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "o">  
-
-<!ENTITY showCardPane.label                             "Card Summary Pane">
-<!ENTITY showCardPane.accesskey                         "C">
-  
+<!ENTITY layoutMenu.label                               "Layout">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "Directory Pane">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Contact Pane">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Show Name As"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "First Last">  
@@ -95,6 +97,20 @@
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Address Books">
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+
+<!ENTITY contact.heading                                "Contact">
+<!ENTITY home.heading                                   "Home">
+<!ENTITY other.heading                                  "Other">
+<!ENTITY phone.heading                                  "Phone">
+<!ENTITY work.heading                                   "Work">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Description">
+<!ENTITY addresses.heading                              "Addresses">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Get Map">
+<!ENTITY mapIt.tooltip                                  "Display a map of this address from the Web">
 <!-- Status Bar -->  
 
 <!ENTITY statusText.label                               "">

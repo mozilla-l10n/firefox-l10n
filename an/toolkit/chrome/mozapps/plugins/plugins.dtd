@@ -19,11 +19,23 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Saber mas sobre os plugins u mirar manualment os plugins que i mancan.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Cal reiniciar &brandShortName; ta que o(s) plugin(s) funcione(n).">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "O &brandShortName; no puede reproducir o Flash en iste dispositivo. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Saber-ne mas...">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
 
 <!ENTITY missingPlugin                                       "S'amenista un plugin ta amostrar iste conteniu.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Toca aquí ta activar o connector">
 <!ENTITY clickToPlayPlugin                                   "Faiga click aquí ta activar o complemento.">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Faiga clic aquí ta activar o plugin vulnerable">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Faiga clic aquí ta activar o plugin vulnerable (no i hai garra actualización disponible).">
+<!ENTITY checkForUpdates                                     "Mirar actualizacions...">
 <!ENTITY disabledPlugin                                      "S'ha desactivau iste plugin.">
 <!ENTITY blockedPlugin.label                                 "S'ha bloquiau iste plugin t'a suya protección.">
 

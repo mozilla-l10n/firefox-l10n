@@ -68,7 +68,7 @@ borrau.</li>
 <li>Contacta con os propietarios d'o puesto web ta informar-los d'iste problema.</li> 
 </ul>">
 
-<!ENTITY netReset.title "A connexión s'ha reiniciau">
+<!ENTITY netReset.title "S'ha reiniciau a connexión">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "A connexión ha circumduciu">
