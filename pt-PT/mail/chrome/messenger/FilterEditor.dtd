@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Regras dos Filtros">
 <!ENTITY filterEditorDialog.dimensions "width: 108ch;">
 <!ENTITY filterName.label "Nome do Filtro:">
@@ -43,3 +47,11 @@
 
 <!ENTITY addAction.tooltip "Adicionar uma nova ação">
 <!ENTITY removeAction.tooltip "Remover esta ação">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

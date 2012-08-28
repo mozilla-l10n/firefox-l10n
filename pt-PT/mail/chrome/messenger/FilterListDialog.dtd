@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filtros de mensagens">
 <!ENTITY nameColumn.label "Nome do Filtro">
 <!ENTITY activeColumn.label "Activado">
@@ -7,10 +11,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Eliminar">
 <!ENTITY deleteButton.accesskey "l">
+<!ENTITY reorderTopButton "Mover para o topo">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Rearranjar filtro para que execute antes de todos os outros">
 <!ENTITY reorderUpButton.label "Mover para Cima">
 <!ENTITY reorderUpButton.accesskey "C">
 <!ENTITY reorderDownButton.label "Mover para Baixo">
 <!ENTITY reorderDownButton.accesskey "B">
+<!ENTITY reorderBottomButton "Mover para o fundo">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Rearranjar filtro para que execute depois de todos os outros">
 <!ENTITY filterHeader.label "Os filtros ligados estão a funcionar automaticamente na ordem mostrada em baixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "O">
@@ -27,3 +37,5 @@
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "U">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Pesquisar filtros pelo nome…">
+
