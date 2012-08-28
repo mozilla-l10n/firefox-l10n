@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pageTitle "Commenti per &brandShortName;">
+<!ENTITY intro.header "Hai un minuto?">
+<!ENTITY intro.message "Che cosa ne pensi di &brandShortName; per Android?">
+<!ENTITY intro.happyLink "Mi piace">
+<!ENTITY intro.sadLink "Ho riscontrato qualche problema">
+<!ENTITY intro.ideaLink "Ho un'idea">
+<!ENTITY support.pre "Se hai bisogno di aiuto o hai un problema con &brandShortName; visita ">
+<!ENTITY support.link "Supporto per &brandShortName;">
+<!ENTITY support.post ".">
+<!ENTITY happy.header "Grandioso!">
+<!ENTITY happy.message "Vuoi condividere il tuo apprezzamento assegnandoci 5 stelle su Google Play?">
+<!ENTITY happy.finePrint "Richiede meno di un minuto e ti farà sentire bene.">
+<!ENTITY happy.ratingLink "Sì, apri Google Play">
+<!ENTITY happy.maybeLater "Magari più tardi">
+<!ENTITY happy.noThanks "No grazie">
+<!ENTITY sad.message "Ci dispiace che tu abbia riscontrato problemi con &brandShortName;. Dicci che cosa è successo e cercheremo di risolverli.">
+<!ENTITY sad.placeholder "Inserisci i tuoi commenti">
+<!ENTITY sad.lastSite "Ultimo sito visitato (facoltativo)">
+<!ENTITY sad.urlPlaceholder "http://">
+<!ENTITY sad.thanksHeader "Grazie per avercelo comunicato.">
+<!ENTITY sad.thanksMessageTop "Siamo costantemente al lavoro per migliorare &brandShortName;. Ti garantiamo che persone in carne e ossa leggeranno i tuoi commenti e faranno del loro meglio per risolvere il problema.">
+<!ENTITY sad.thanksMessageBottom "È una promessa.">
+<!ENTITY idea.message "Ci piacerebbe conoscere le tue idee. Condividi i tuoi commenti qui sotto (solo se riguardano &brandShortName;).">
+<!ENTITY idea.placeholder "Inserisci la tua idea">
+<!ENTITY idea.thanksHeader "Grazie!">
+<!ENTITY idea.thanksMessageTop "Ti ringraziamo per aver speso del tempo per condividere le tue idee. Cerchiamo ogni giorno di migliorare &brandShortName; e contributi come il tuo ci aiutano a realizzare grandi obiettivi.">
+<!ENTITY idea.thanksMessageBottom "Da qui non si vede ma ti stiamo dando il cinque in questo preciso istante.">
+<!ENTITY feedback.privacy "Per proteggere la tua privacy non includere alcuna informazione personale nei tuoi commenti.">
+<!ENTITY feedback.send "Invia commento">
