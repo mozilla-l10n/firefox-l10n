@@ -5,8 +5,8 @@
 
 <!-- Calendar Invitations Dialog -->
 <!ENTITY calendar.invitations.dialog.invitations.text "Fundarboð">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text "Uppfæri lista af boðskortum.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text "Fann engin óstaðfest boðskort.">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text "Uppfæri lista af fundarboðum.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text "Fann engin óstaðfest fundarboð.">
 <!-- Calendar Invitations List -->
 <!ENTITY calendar.invitations.list.accept.button.label "Samþykkja">
 <!ENTITY calendar.invitations.list.decline.button.label "Hafna">

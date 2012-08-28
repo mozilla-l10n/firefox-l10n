@@ -488,6 +488,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Hreinsa nýlega ferla…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Stillingar reiknings…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -528,6 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Möppustaðsetning">
 <!ENTITY tagButton.label "Flokkur">
 <!ENTITY compactButton.label "Þjappa">
+<!ENTITY appmenuButton.label "AppMenu">
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Ítarleg póstleit">
 <!ENTITY getMsgButton.tooltip "Ná í nýjan póst">
@@ -557,6 +560,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Sýna spjallflipann">
 <!ENTITY tagButton.tooltip "Flokka póst">
 <!ENTITY compactButton.tooltip "Eyða eyddum póstum frá valinni möppu">
+<!ENTITY appmenuButton.tooltip "Birta forritavalmynd">
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nýr póstur">
+<!ENTITY appmenuNewContactCmd.label "Tengiliður í nafnaskrá…">
+<!ENTITY appmenuEditMenu.label "Breyta">
+<!ENTITY appmenuQFBMenu.label "Flýtisíuslá">
+<!ENTITY appmenuToolbarLayout.label "Útlit tækjaslár…">
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nýr flokkur…">
 <!ENTITY addNewTag.accesskey "N">

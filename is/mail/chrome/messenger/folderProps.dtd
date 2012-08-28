@@ -58,3 +58,9 @@
 <!ENTITY folderQuotaRoot.label "Kvóti rótar:">
 <!ENTITY folderQuotaUsage.label "Notkun:">
 <!ENTITY folderQuotaStatus.label "Staða:">
+<!ENTITY numberOfMessages.label "Fjöldi skilaboða:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label "óþekkt">
+<!ENTITY sizeOnDisk.label "Stærð á diski:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label "óþekkt">

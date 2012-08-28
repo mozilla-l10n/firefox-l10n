@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Eyða">
 <!ENTITY deleteButton.accesskey "E">
+<!ENTITY reorderTopButton "Færa efst">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Endurraða síu þannig að hún keyri á undan öðrum">
 <!ENTITY reorderUpButton.label "Færa upp">
 <!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Færa niður">
 <!ENTITY reorderDownButton.accesskey "i">
+<!ENTITY reorderBottomButton "Færa neðst">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Endurraða síu þannig að hún keyri á eftir öðrum">
 <!ENTITY filterHeader.label "Virkar síur eru keyrðar sjálfkrafa í þeirri röð sem er hér fyrir neðan.">
 <!ENTITY filtersForPrefix.label "Sía fyrir:">
 <!ENTITY filtersForPrefix.accesskey "f">
@@ -32,3 +38,4 @@
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
  
+<!ENTITY searchBox.emptyText "Leita í síum eftir nafni…">

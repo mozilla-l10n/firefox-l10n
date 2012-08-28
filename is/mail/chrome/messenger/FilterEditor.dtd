@@ -42,3 +42,10 @@
 <!ENTITY stopExecution.label "Stöðva keyrslu síu">
 <!ENTITY addAction.tooltip "Bæta við nýrri aðgerð">
 <!ENTITY removeAction.tooltip "Fjarlægja þessa aðgerð">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
