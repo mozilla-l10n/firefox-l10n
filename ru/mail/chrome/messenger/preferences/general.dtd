@@ -28,8 +28,3 @@
 <!ENTITY customsound.accesskey "в">
 <!ENTITY browse.label "Обзор…">
 <!ENTITY browse.accesskey "б">
-<!ENTITY addonsMgr.label "Дополнения">
-<!ENTITY manageAddonsDescWin.label "Изменение параметров дополнений">
-<!ENTITY manageAddonsDescUnix2.label "Изменение параметров дополнений">
-<!ENTITY manageAddons.label "Настроить дополнения…">
-<!ENTITY manageAddons.accesskey "с">
