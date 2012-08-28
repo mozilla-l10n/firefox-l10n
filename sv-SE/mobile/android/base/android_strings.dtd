@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 dagar sedan">
 <!ENTITY history_older_section "Äldre än 7 dagar">
 
+<!ENTITY go "Gå till">
+<!ENTITY search "Sök">
 <!ENTITY reload "Uppdatera">
 <!ENTITY forward "Framåt">
 <!ENTITY menu "Meny">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Normal">
 <!ENTITY pref_font_size_large "Stor">
 <!ENTITY pref_font_size_xlarge "Extra stor">
+<!ENTITY pref_font_size_set "Ställ in">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompomissa. Det blir bättre för dig och för webben.">
+
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_import_android "Importera från Android">
 <!ENTITY pref_private_data_history "Surf- och filhämtningshistorik">
 <!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
-<!ENTITY pref_private_data_cookies "Kakor">
+<!ENTITY pref_private_data_cookies2 "Kakor och aktiva inloggningar">
 <!ENTITY pref_private_data_passwords "Sparade lösenord">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Aktiva inloggningar">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Adress">
 <!ENTITY bookmark_edit_keyword "Nyckelord">
 
-<!ENTITY site_settings_title        "Rensa platsinställningar">
+<!ENTITY site_settings_title2       "Platsinställningar…">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Rensa">
 <!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Öppna alla flikar från sist">
 <!ENTITY abouthome_top_sites_title "Mest besökta">
 <!ENTITY abouthome_top_sites_browse "Bläddra bland de mest besökta">
-<!ENTITY abouthome_no_top_sites "Du har inga mest besökta platser ännu. Tryck på adressfältet för att börja surfa.">
-<!ENTITY abouthome_about_sync "Ställ in Firefox Sync för att få tillgång till bokmärken, historik och flikar från dina andra enheter">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Ställ in Firefox Sync för att få tillgång till bokmärken, historik och flikar från dina andra enheter&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Hämta appar från Mozilla Marketplace och upptäck det bästa som webben har att erbjuda&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Välj fil">
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
