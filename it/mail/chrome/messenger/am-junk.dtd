@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Posta indesiderata">
 <!ENTITY trainingDescription.label "Se abilitata è necessario istruire &brandShortName; ad identificare la posta indesiderata usando il tasto Posta indesiderata per segnare i messaggi indesiderati o no. Si deve identificare sia i messaggi indesiderati sia quelli non indesiderati. In questo modo &brandShortName; sarà in grado di contrassegnare la psota indesiderata autonomamente.">
 <!ENTITY level.label "Attiva i controlli incrementali di posta indesiderata per questo account">
