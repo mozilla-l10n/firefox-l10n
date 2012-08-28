@@ -37,6 +37,8 @@
 <!ENTITY sync.button.tryagain.label 'Erneut versuchen'>
 <!ENTITY sync.button.manual.label 'Manuelle Einrichtung'>
 <!ENTITY sync.subtitle.nointernet.label 'Keine Internetverbindung verfügbar.'>
+<!ENTITY sync.subtitle.failaccount.label 'Kann Konto auf dem Gerät nicht einrichten'>
+<!ENTITY sync.subtitle.failmultiple.label 'Haben Sie Firefox mehrmals installiert? Derzeit unterstützt &syncBrand.fullName.label; nur eine Firefox-Installation. Bitte deinstallieren Sie andere Versionen, um &syncBrand.shortName.label; nutzen zu können.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Einrichtung abgeschlossen'>
@@ -74,4 +76,15 @@
 <!ENTITY sync.notification.oneaccount.label 'Es wird nur ein &syncBrand.fullName.label;-Konto unterstützt.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Kontoname oder Passwort sind inkorrekt.'>
+<!ENTITY sync.invalidserver.label 'Bitte geben Sie eine gültige Server-Adresse ein'>
+<!ENTITY sync.verifying.label 'Überprüfung…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Falscher Wiederherstellungsschlüssel. Bitte versuchen Sie es erneut.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Tab an Gerät senden'>
+<!ENTITY sync.button.send.label 'Senden'>
+<!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; einrichten'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; einrichten'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; muss eingerichtet werden, um Tabs an andere Geräte zu senden.'>
+<!ENTITY sync.text.tab.sent.label 'Tab wurde gesendet'>

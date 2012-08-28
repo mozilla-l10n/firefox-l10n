@@ -50,6 +50,7 @@
 
 <!ENTITY close_tab "Tab schließen">
 <!ENTITY new_tab "Neuer Tab">
+<!ENTITY one_tab "1 Tab">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d Tabs">
@@ -86,6 +87,7 @@
 <!ENTITY pref_private_data_history "Besuchte Seiten &amp; Download-Chronik">
 <!ENTITY pref_private_data_formdata "Eingegebene Suchbegriffe &amp; Formulardaten">
 <!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Gespeicherte Passwörter">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_sessions "Aktive Logins">
 <!ENTITY pref_private_data_offlineApps "Offline-Website-Daten">
@@ -96,10 +98,12 @@
 
 <!ENTITY addons "Add-ons">
 <!ENTITY downloads "Downloads">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Zeichenkodierung">
 
 <!ENTITY share "Teilen">
 <!ENTITY share_title "Teilen mittels">
+<!ENTITY share_image_failed "Grafik konnte auf Grund eines Fehlers nicht geteilt werden">
 <!ENTITY save_as_pdf "Als PDF speichern">
 <!ENTITY find_in_page "In Seite suchen">
 <!ENTITY desktop_mode "Desktop-Seite anfordern">
@@ -135,9 +139,10 @@
 <!ENTITY site_settings_clear        "Löschen">
 <!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar.">
 
-<!ENTITY add_to_reading_list "Zur Leseliste hinzufügen">
+<!ENTITY reading_list "Leseliste">
 <!ENTITY reading_list_added "Seite zu Ihrer Leseliste hinzugefügt">
 <!ENTITY reading_list_removed "Seite aus Ihrer Leseliste gelöscht">
+<!ENTITY reading_list_failed "Seite konnte nicht zur Leseliste hinzugefügt werden">
 <!ENTITY reader_mode "Lese-Modus">
 
 <!ENTITY masterpassword_create_title "Master-Passwort festlegen">
@@ -187,3 +192,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY private_data_success "Private Daten gelöscht">
 <!ENTITY private_data_fail "Einige private Daten konnten nicht gelöscht werden">
+
+<!ENTITY webapp_generic_name "App">
