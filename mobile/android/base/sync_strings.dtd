@@ -62,3 +62,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Настройка &syncBrand.shortName.label; для отправки вкладок">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Настройка &syncBrand.fullName.label; на вашем устройстве для отправки вкладок на другие устройства.">
 <!ENTITY sync.text.tab.sent.label "Ваша вкладка была отправлена!">
+<!ENTITY sync.text.tab.not.sent.label "При отправке вашей вкладки возникла проблема.">
