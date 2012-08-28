@@ -28,8 +28,3 @@
 <!ENTITY browse.label "Navegar...">
 <!ENTITY browse.accesskey "G">
 
-<!ENTITY addonsMgr.label                  "Extras">
-<!ENTITY manageAddonsDescWin.label        "Mudar opções dos seus extras">
-<!ENTITY manageAddonsDescUnix2.label      "Mudar preferências dos seus extras">
-<!ENTITY manageAddons.label               "Gerir Extras…">
-<!ENTITY manageAddons.accesskey           "x">
