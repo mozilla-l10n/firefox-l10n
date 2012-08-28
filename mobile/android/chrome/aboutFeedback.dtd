@@ -34,7 +34,7 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop, sad.thanksMessageBottom): These two
      strings will appear as separate paragraphs but make up one message. -->
 <!ENTITY sad.thanksMessageTop      "Mes nuolat stengiamės „&brandShortName;“ tobulinti. Būkite ramūs – Jūsų atsiliepimą peržiūrės gyvi žmonės, ir jie padarys viską, ką gali, kad Jūsų problema būtų išspręsta.">
-<!-- <!ENTITY sad.thanksMessageBottom   "Or else."> -->
+<!ENTITY sad.thanksMessageBottom   "Garbės žodis!">
 
 <!ENTITY idea.message              "Mes visuomet džiaugiamės Jūsų idėjomis! Kviečiame pasidalinti savo mintimis (tačiau tik susijusiomis su „&brandShortName;“) žemiau.">
 <!ENTITY idea.placeholder          "Įveskite savo pasiūlymą čia">
