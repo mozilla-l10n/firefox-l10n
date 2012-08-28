@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                        "Opções">
 <!ENTITY  event.menu.options.accesskey                    "O">
-<!ENTITY  event.menu.options.attachments.label                "Anexar página web…">
-<!ENTITY  event.menu.options.attachments.accesskey            "w">
 <!ENTITY  event.menu.options.attendees.label              "Convidar Participantes…">
 <!ENTITY  event.menu.options.attendees.accesskey          "o">
 <!ENTITY  event.menu.options.spellcheck.label             "Verificar ortografia…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Convidar Participantes">
 <!ENTITY  event.toolbar.spellcheck.label                  "Verificação da escrita">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
-<!ENTITY  event.toolbar.attachments.label                 "Anexar">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
@@ -180,11 +177,6 @@
 <!ENTITY event.description.accesskey                      "ç">
 <!ENTITY event.attachments.label                          "Anexos:" >
 <!ENTITY event.attachments.accesskey                      "x" >
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Anexar">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
 <!ENTITY event.attachments.url.label                      "Página web…">
@@ -337,6 +329,10 @@
 <!ENTITY event.attendee.role.optional           "Presença opcional">
 <!ENTITY event.attendee.role.chair              "Cadeira">
 <!ENTITY event.attendee.role.nonparticipant     "Não presente">
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Grupo">
+<!ENTITY event.attendee.usertype.resource       "Recurso">
+<!ENTITY event.attendee.usertype.room           "Quarto">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Por favor especifique o Fuso horário">
