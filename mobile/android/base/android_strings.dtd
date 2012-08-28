@@ -137,8 +137,8 @@
 <!ENTITY abouthome_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
 <!ENTITY abouthome_top_sites_title "Siti principali">
 <!ENTITY abouthome_top_sites_browse "Sfoglia tutti i siti principali">
-<!ENTITY abouthome_about_sync3 "">
-<!ENTITY abouthome_about_apps2 "">
+<!ENTITY abouthome_about_sync3 "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi »">
+<!ENTITY abouthome_about_apps2 "Scarica nuove app da Mozilla Marketplace e scopri il meglio che il Web può offrire »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 <!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 <!ENTITY filepicker_title "Seleziona un file">
