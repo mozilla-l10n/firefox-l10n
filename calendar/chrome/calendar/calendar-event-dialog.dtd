@@ -335,6 +335,10 @@
 <!ENTITY event.attendee.role.optional             "Nebūtinas dalyvis">
 <!ENTITY event.attendee.role.chair                "Pirmininkas">
 <!ENTITY event.attendee.role.nonparticipant       "Nedalyvauja">
+<!ENTITY event.attendee.usertype.individual       "Asmuo">
+<!ENTITY event.attendee.usertype.group            "Grupė">
+<!ENTITY event.attendee.usertype.resource         "Išteklius">
+<!ENTITY event.attendee.usertype.room             "Kambarys">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Prašom parinkti laiko juostą">
