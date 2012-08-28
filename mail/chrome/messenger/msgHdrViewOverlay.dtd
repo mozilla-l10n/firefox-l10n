@@ -63,6 +63,9 @@
 <!ENTITY viewSourceMenuItem1.accesskey "f">
 <!ENTITY otherActionsPrint1.label "Prenta…">
 <!ENTITY otherActionsPrint1.accesskey "P">
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label "Sýna viðhengjaflipa í byrjun">
+<!ENTITY startExpandedCmd.accesskey "S">
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Opna">
 <!ENTITY openAttachmentCmd.accesskey "O">

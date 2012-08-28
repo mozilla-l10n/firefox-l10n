@@ -88,8 +88,6 @@
 <!ENTITY event.menu.view.showlink.accesskey "S">
 <!ENTITY event.menu.options.label "Valkostir">
 <!ENTITY event.menu.options.accesskey "V">
-<!ENTITY event.menu.options.attachments.label "Bæta við vefsíðu…">
-<!ENTITY event.menu.options.attachments.accesskey "v">
 <!ENTITY event.menu.options.attendees.label "Bjóða þátttakendum…">
 <!ENTITY event.menu.options.attendees.accesskey "B">
 <!ENTITY event.menu.options.spellcheck.label "Yfirfara stafsetningu…">
@@ -136,7 +134,6 @@
 <!ENTITY event.toolbar.attendees.label "Bjóða þátttakendum">
 <!ENTITY event.toolbar.spellcheck.label "Skoða stafsetningu">
 <!ENTITY event.toolbar.privacy.label "Friðhelgi">
-<!ENTITY event.toolbar.attachments.label "Skrá">
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titill:">
 <!ENTITY event.title.textbox.accesskey "T">
@@ -168,10 +165,6 @@
 <!ENTITY event.description.accesskey "L">
 <!ENTITY event.attachments.label "Viðhengi:">
 <!ENTITY event.attachments.accesskey "h">
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label "Setja inn">
 <!ENTITY event.attachments.menubutton.accesskey "a">
 <!ENTITY event.attachments.url.label "Vefsíða…">
@@ -311,6 +304,10 @@
 <!ENTITY event.attendee.role.optional "Valfrjáls þátttakandi">
 <!ENTITY event.attendee.role.chair "Stjórnandi">
 <!ENTITY event.attendee.role.nonparticipant "Ekki þátttakandi">
+<!ENTITY event.attendee.usertype.individual "Einstaklingur">
+<!ENTITY event.attendee.usertype.group "Setja í hóp">
+<!ENTITY event.attendee.usertype.resource "Tilfang">
+<!ENTITY event.attendee.usertype.room "Herbergi">
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Settu inn tímabelti">
 <!ENTITY event.timezone.custom.label "Fleiri tímabelti…">

@@ -3,17 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Dagatal verkfærarein">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "D">
 <!ENTITY lightning.toolbar.task.name "Verk verkfærarein">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "V">
 <!ENTITY lightning.toolbar.sync.label "Samstilla">
 <!ENTITY lightning.toolbar.delete.label "Eyða">
 <!ENTITY lightning.toolbar.edit.label "Breyta">
 <!ENTITY lightning.toolbar.gototoday.label "Hoppa á daginn í dag">
 <!ENTITY lightning.toolbar.print.label "Prenta">
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label "Póstur">
-<!ENTITY lightning.toolbar.mail.accesskey "P">
 <!ENTITY lightning.toolbar.calendar.label "Dagatal">
 <!ENTITY lightning.toolbar.calendar.tooltip "Skipta yfir í dagatalsflipa">
 <!ENTITY lightning.toolbar.calendar.accesskey "D">

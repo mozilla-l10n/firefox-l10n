@@ -5,6 +5,8 @@
 <!ENTITY pane.title "Staðfesting á lestri">
 <!ENTITY useGlobalPrefs.label "Nota aðalstillingu á staðfestingu á lestri fyrir þennan reikning">
 <!ENTITY useGlobalPrefs.accesskey "u">
+<!ENTITY globalReceipts.label "Víðværir valkostir…">
+<!ENTITY globalReceipts.accesskey "V">
 <!ENTITY useCustomPrefs.label "Sérsniða staðfestingar á lestri fyrir þennan reikning">
 <!ENTITY useCustomPrefs.accesskey "S">
 <!ENTITY requestReceipt.label "Þegar póstur er sendur, alltaf krefjast staðfestingar á lestri">
