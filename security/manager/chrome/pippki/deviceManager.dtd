@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY devmgr.title                           "Gestô di Aparâti">
-
+<!ENTITY devmgr.style 						    "width: 55em; height: 33em;">
 <!ENTITY devmgr.devlist.label                   "Mòdoli e aparâti de seguéssa">
 <!ENTITY devmgr.details.title                   "Detàlli">
 <!ENTITY devmgr.details.title2                  "Valô">
