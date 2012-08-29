@@ -44,5 +44,3 @@
 <!ENTITY cmd.clearList.label              "Limpiar lista">
 <!ENTITY cmd.clearList.accesskey          "a">
 
-<!ENTITY downloadshistory.label           "Mostrar todas las descargas">
-<!ENTITY downloadshistory.accesskey       "s">
