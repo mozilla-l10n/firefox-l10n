@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Taxawal ay &syncBrand.shortName.label; ngir yónnee">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Tabbal &syncBrand.fullName.label; ci sa aparey ngir yonnee ay koñ ci yeneen aparey.">
 <!ENTITY sync.text.tab.sent.label "Sa koñ bi yonnee nañu ko!">
+<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>

@@ -33,17 +33,17 @@
 <!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Copy Value">
 <!ENTITY copyValue.accesskey "V">
-<!ENTITY modify.label "Modify">
-<!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "Toggle">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY modify.label "Soppali">
+<!ENTITY modify.accesskey "S">
+<!ENTITY toggle.label "Wangarñi">
+<!ENTITY toggle.accesskey "W">
 <!ENTITY reset.label "Reset">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "New">
 <!ENTITY new.accesskey "w">
-<!ENTITY string.label "String">
-<!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Integer">
-<!ENTITY integer.accesskey "I">
+<!ENTITY string.label "Calala">
+<!ENTITY string.accesskey "C">
+<!ENTITY integer.label "Ñumm">
+<!ENTITY integer.accesskey "Ñ">
 <!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">

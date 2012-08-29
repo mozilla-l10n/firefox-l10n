@@ -8,8 +8,8 @@
 <!ENTITY errLine.label   "Rëdd:">
 <!ENTITY errColumn.label "Xall:">
 
-<!ENTITY all.label          "All">
-<!ENTITY all.accesskey      "A">
+<!ENTITY all.label          "Yépp">
+<!ENTITY all.accesskey      "Y">
 <!ENTITY errors.label       "Njumte yi">
 <!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Artu yi">

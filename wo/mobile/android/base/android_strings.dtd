@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "Am na léegi 7 fan">
 <!ENTITY history_older_section "Am na lu ëpp 7 fan">
 
+<!ENTITY go "Demal">
+<!ENTITY search "Wut">
 <!ENTITY reload "Yeesal">
 <!ENTITY forward "Xët wi ci topp">
 <!ENTITY menu "Njël">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Yam ci digg bi">
 <!ENTITY pref_font_size_large "Yaatu">
 <!ENTITY pref_font_size_xlarge "Yaatu bu bari">
+<!ENTITY pref_font_size_set "Wut">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Orãs bu gaaw,xaj bi dafay gatananu say bëgg bëgg ak gaawaay, ak xel ak kaarange. Doo wutkatu xaalis, bu la\ neexee nga fent ci sa tur te kenn du la sonal. Loolu dafay tekki jëf gis bu baax ci yaw ak ëlëgu Web bu baax.">
+
 <!ENTITY pref_use_master_password "Jëfandikoo baatu jàll bi gëna am solo">
 <!ENTITY pref_sync "Jàppante">
 <!ENTITY pref_search_suggestions "Wane tektali wut">
 <!ENTITY pref_import_android "Fat dale ko ci Android">
 <!ENTITY pref_private_data_history "Joowum &amp; yeb jaar jaar bi">
 <!ENTITY pref_private_data_formdata "Formileer &amp; wut jaar jaar bi">
-<!ENTITY pref_private_data_cookies "Kuki yi">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; jokkoo yi sàjj">
 <!ENTITY pref_private_data_passwords "Baati jàll yi ñu aar">
 <!ENTITY pref_private_data_cache "Damb bu gaaw">
-<!ENTITY pref_private_data_sessions "Jokkoo yiy dox">
 <!ENTITY pref_private_data_offlineApps "Rotaani dalub web yu jokkoowul">
 <!ENTITY pref_private_data_siteSettings "Taamu dalub web">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Màkkaan">
 <!ENTITY bookmark_edit_keyword "Caabi baat">
 
-<!ENTITY site_settings_title        "Far parameetaru dal bi">
+<!ENTITY site_settings_title2       "Paraameetaru dal bi…">
 <!ENTITY site_settings_cancel       "Neenal">
 <!ENTITY site_settings_clear        "Far">
 <!ENTITY site_settings_no_settings  "Amul parameetar bu ñuy far.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Ubbil mandarga yépp">
 <!ENTITY abouthome_top_sites_title "Dalub web yu xejj yi">
 <!ENTITY abouthome_top_sites_browse "Seetal say dal yu xéjj yépp">
-<!ENTITY abouthome_no_top_sites "Amagoo benn dal bu xejj. Laalal banqaasu bopp bi ngir tàmbali joow.">
-<!ENTITY abouthome_about_sync "Parameetaral Firefox ngir agg say mandarga xët, jaar jaar ak koñi yeneen aparey yi">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Parameetaral Firefox ngir agg ci say mandarga xët, jaar jaar ak koñi yeneen aparey yi&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox jàppante">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Tànn benn dencukaay">
 <!ENTITY filepicker_audio_title "Tànn walla aar benn riir">

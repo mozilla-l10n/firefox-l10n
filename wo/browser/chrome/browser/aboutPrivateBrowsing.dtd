@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                 "Njoowum biir">
-<!ENTITY privatebrowsingpage.title.normal          "Ndax bëgg nga tambali benn sesiyoŋu joowum biir?">
+<!ENTITY privatebrowsingpage.title.normal          "Ndax bëgg nga tàmbali benn sesiyoŋu joowum biir?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; du denc benn jaar jaar ci sesiyoŋ bi.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nekkul léegi ci anamu joowum biir.">
 
-<!ENTITY privatebrowsingpage.description               "Ci sesiyoŋu joowum biir, &brandShortName; du denc benn jaar jaaru joow, wut, yeb, formileer web, kuki walla ay dencukaayi internet.  Wante dencukaay yi ñu yeb walla mandarga xët yi ñu yokk, dina ñu leen denc.">
+<!ENTITY privatebrowsingpage.description               "Ci sesiyoŋu joowum biir, &brandShortName; du denc benn jaar jaaru joow, wut, yeb, formileer web, cookies walla ay dencukaayi internet.  Wante dencukaay yi ñu yeb walla mandarga xët yi ñu yokk, dina ñu leen denc.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Mën nga tambali ci">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Mën nga tàmbali ci ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "set setal sa jaar jaar bi gëna bees">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Tambali joowum biir">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Tàmbali joowum biir">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "T">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
@@ -25,4 +25,4 @@
 <!ENTITY privatebrowsingpage.howToStart2               "Boo bëggee tàmbali joowum biir, mën nga fal itam &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Doonte ordinatëër bi du denc sa jaar jaaru joow, sa joxekatu yoon internet walla sa njiit mën nañu xam xët yi nga gane.">
-<!ENTITY privatebrowsingpage.learnMore                 "Gën cee jangaat">
+<!ENTITY privatebrowsingpage.learnMore                 "Gën cee jàngaat">
