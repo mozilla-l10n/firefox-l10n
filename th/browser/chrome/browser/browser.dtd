@@ -111,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "น">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้าเว็บนี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
@@ -234,11 +235,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+
 
 <!ENTITY webConsoleButton.label "เว็บคอนโซล">
 <!ENTITY inspectorButton.label "ตัวตรวจดู">
-<!ENTITY scriptsButton.label "สคริปต์">
 
 <!ENTITY inspectorHTMLCopyInner.label       "คัดลอก Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -351,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuToolbarLayout.label "รูปแบบแถบเครื่องมือ…">
 <!ENTITY appMenuSidebars.label "แถบข้าง">
 <!ENTITY appMenuFind.label "ค้นหา…">
-<!ENTITY appMenuUnsorted.label "ที่คั่นหน้าที่ยังไม่ได้เรียงลำดับ">
+<!ENTITY appMenuUnsorted.label "ที่คั่นหน้าที่ยังไม่จำแนก">
 <!ENTITY appMenuWebDeveloper.label "นักพัฒนาเว็บ">
 <!ENTITY appMenuGettingStarted.label "เริ่มต้น">
 <!ENTITY appMenuSafeMode.label "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
@@ -436,8 +438,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey "ล">
 <!ENTITY bookmarkThisFrameCmd.label "คั่นกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey "อ">
-<!ENTITY sendPageCmd.label "ส่งลิงก์…">
-<!ENTITY sendPageCmd.accesskey "ส">
+<!ENTITY emailPageCmd.label           "อีเมลลิงก์…">
+<!ENTITY emailPageCmd.accesskey       "ม">
 <!ENTITY savePageCmd.label "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey "ป">
 <!-- alternate for content area context menu -->
@@ -449,20 +451,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey "พ">
 <!ENTITY saveLinkCmd.label "บันทึกลิงก์เป็น…">
 <!ENTITY saveLinkCmd.accesskey "ล">
-<!ENTITY sendLinkCmd.label "ส่งลิงก์…">
-<!ENTITY sendLinkCmd.accesskey "ส">
 <!ENTITY saveImageCmd.label "บันทึกรูปเป็น…">
 <!ENTITY saveImageCmd.accesskey "ท">
 <!ENTITY saveVideoCmd.label "บันทึกวีดิทัศน์เป็น…">
 <!ENTITY saveVideoCmd.accesskey "ป">
 <!ENTITY saveAudioCmd.label "บันทึกเสียงเป็น…">
 <!ENTITY saveAudioCmd.accesskey "ป">
-<!ENTITY sendImageCmd.label "ส่งรูป…">
-<!ENTITY sendImageCmd.accesskey "ส">
-<!ENTITY sendVideoCmd.label "ส่งวีดิทัศน์…">
-<!ENTITY sendVideoCmd.accesskey "ส">
-<!ENTITY sendAudioCmd.label "ส่งแฟ้มเสียง…">
-<!ENTITY sendAudioCmd.accesskey "ส">
+<!ENTITY emailImageCmd.label          "อีเมลรูป…">
+<!ENTITY emailImageCmd.accesskey      "อ">
+<!ENTITY emailVideoCmd.label          "อีเมลวีดิทัศน์…">
+<!ENTITY emailVideoCmd.accesskey      "อ">
+<!ENTITY emailAudioCmd.label          "อีเมลเสียง…">
+<!ENTITY emailAudioCmd.accesskey      "อ"> 
 <!ENTITY copyLinkCmd.label "คัดลอกที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey "ต">
 <!ENTITY copyImageCmd.label "คัดลอกที่ตั้งภาพ">
@@ -640,3 +640,10 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "ม">
+<!ENTITY socialToolbar.title        "ปุ่มแถบเครื่องมือสังคม">
+<!ENTITY social.notLoggedIn.label   "ไม่ได้ล็อกอิน">
+
+<!ENTITY social.sharePopup.undo.label     "เลิกแบ่งปัน">
+<!ENTITY social.sharePopup.undo.accesskey "ล">
+<!ENTITY social.sharePopup.ok.label       "ตกลง">
+<!ENTITY social.sharePopup.ok.accesskey   "ต">

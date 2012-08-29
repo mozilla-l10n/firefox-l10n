@@ -6,13 +6,13 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "การเชื่อมที่ไม่น่าเชื่อถือ">
+<!ENTITY certerror.pagetitle  "การเชื่อมต่อที่ไม่น่าเชื่อถือ">
 <!ENTITY certerror.longpagetitle "การเชื่อมต่อนี้ไม่น่าเชื่อถือ">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "คุณได้ร้องขอให้ &brandShortName; ทำการเชื่อมต่อนิรภัยไปยัง <b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อมต่อของคุณนั้นนิรภัย">
+<!ENTITY certerror.introPara1 "คุณได้ร้องขอให้ &brandShortName; เชื่อมต่อแบบนิรภัยไปยัง <b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อมต่อของคุณนั้นนิรภัย">
 <!ENTITY certerror.introPara2 "ตามปกติแล้ว เมื่อคุณเชื่อมต่อแบบนิรภัยไปยังเว็บไซต์ใด ๆ เว็บไซต์นั้น ๆ จะต้องมีการแสดงตัวตนที่เชื่อถือได้เพื่อยืนยันว่าคุณได้เข้ามาถูกที่ อย่างไรก็ตามเราไม่สามารถพิสูจน์ตัวตนของเว็บไซต์นี้ได้">
 
 <!ENTITY certerror.whatShouldIDo.heading "ฉันควรทำอย่างไร?">

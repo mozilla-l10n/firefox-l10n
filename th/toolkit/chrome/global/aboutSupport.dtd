@@ -44,6 +44,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "จาวาสคริปต์">
 <!ENTITY aboutSupport.jsIncrementalGC "ตัวเก็บกวาดขยะแบบเพิ่มขึ้น">
 
+<!ENTITY aboutSupport.a11yTitle "กลไกการเข้าถึงได้">
+<!ENTITY aboutSupport.a11yActivated "เปิดใช้งาน">
+<!ENTITY aboutSupport.a11yForceDisabled "ปิดกั้นกลไกการเข้าถึงได้">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "เวอร์ชันของไลบรารี">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ประวัติการติดตั้ง">
