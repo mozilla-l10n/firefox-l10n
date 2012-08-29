@@ -100,3 +100,10 @@
 <!ENTITY folderQuotaRoot.label                   "Kiintiön juuri:">
 <!ENTITY folderQuotaUsage.label                  "Käytössä:">
 <!ENTITY folderQuotaStatus.label                 "Tila:">
+
+<!ENTITY numberOfMessages.label                  "Viestien lukumäärä:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "tuntematon">
+<!ENTITY sizeOnDisk.label                        "Koko levyllä:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "tuntematon">
