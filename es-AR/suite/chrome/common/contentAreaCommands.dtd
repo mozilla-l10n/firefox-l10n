@@ -48,15 +48,15 @@
 <!ENTITY fitImageCmd.label            "Encajar imagen en la ventana">
 <!ENTITY fitImageCmd.accesskey        "E">
 <!ENTITY reloadImageCmd.label         "Recargar imagen">
-<!ENTITY reloadImageCmd.accesskey     "e">
+<!ENTITY reloadImageCmd.accesskey     "c">
 <!ENTITY viewImageCmd.label           "Ver imagen">
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewVideoCmd.label           "Ver video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Ver imagen de fondo">
 <!ENTITY viewBGImageCmd.accesskey     "V">
-<!ENTITY setWallpaperCmd.label        "Elegir como fondo de pantalla">
-<!ENTITY setWallpaperCmd.accesskey    "E">
+<!ENTITY setDesktopBackgroundCmd.label     "Establecer como fondo de escritorio…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "Marcar esta página">
 <!ENTITY bookmarkPageCmd.accesskey    "M">
 <!ENTITY bookmarkLinkCmd.label        "Marcar este enlace">

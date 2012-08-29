@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Borrar historial reciente…">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd.label "Configuración de cuentas…">
 <!ENTITY accountManagerCmd.accesskey "f">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Dirección de la carpeta">
 <!ENTITY tagButton.label "Etiquetar">
 <!ENTITY compactButton.label "Compactar">
+<!ENTITY appmenuButton.label "Menu de aplicaciones">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de mensajes">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Mostrar la pestaña de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta actual">
+<!ENTITY appmenuButton.tooltip "Mostrar el menú de aplicaciones">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
+<!ENTITY appmenuNewContactCmd.label "Contacto de libreta de direcciones…">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuQFBMenu.label "Barra de filtro rápido">
+<!ENTITY appmenuToolbarLayout.label "Diseño de la barra…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nueva etiqueta…">
