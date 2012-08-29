@@ -653,3 +653,9 @@ toolbar button -->
 <!ENTITY social.sharePopup.ok.accesskey "b">
 <!ENTITY socialToolbar.title "Poméllo bâra di struménti sociâli">
 <!ENTITY social.notLoggedIn.label "No ti ê intròu">
+
+<!ENTITY devToolbarOtherToolsButton.label "Âtri struménti">
+<!ENTITY social.sharePopup.shared.label "T'æ condivîzo sta pàgina.">
+<!ENTITY social.sharePopup.portrait.arialabel "Inmàgine profî uténte">
+<!ENTITY social.toggleSidebar.label "Móstra a bâra de sciànco">
+<!ENTITY social.toggleSidebar.accesskey "M">
