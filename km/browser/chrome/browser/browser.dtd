@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "ឧបករណ៍​ច្រើន​ទៀត">
 
 <!ENTITY webConsoleButton.label "កុងសូល​បណ្ដាញ">
 <!ENTITY inspectorButton.label "អ្នក​ពិនិត្យ">
@@ -253,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "លុប Node">
 <!ENTITY inspectorHTMLDelete.accesskey      "ល">
-
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "ជម្រើស​អ្នក​ពិនិត្យ">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "បន្ថយ​ទំព័រ">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "បង្ហាញ​ព័ត៌មាន​ថ្នាំង">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -656,8 +647,22 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "ប៊ុតុង​របារ​ឧបករណ៍​សង្គម">
 <!ENTITY social.notLoggedIn.label   "មិន​បាន​ចូល">
 
+<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
+     used for the "OK" button for two different social panels. One appears when
+     the feature is activated (social.activated.* below), and the other when
+     the user clicks the "Share" button a second time (social.sharePopup.*
+     below). -->
+<!ENTITY social.ok.label       "យល់ព្រម">
+<!ENTITY social.ok.accesskey   "O">
+
 <!ENTITY social.sharePopup.undo.label     "មិន​ចែករំលែក">
 <!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.ok.label       "យល់ព្រម">
-<!ENTITY social.sharePopup.ok.accesskey   "O">
+<!ENTITY social.sharePopup.shared.label   "អ្នក​បាន​ចែករំលែក​ទំព័រ​នេះ ។">
+<!ENTITY social.sharePopup.portrait.arialabel "រូបថត​របស់​ប្រវត្តិ​​អ្នក​ប្រើ">
+
+<!ENTITY social.toggleSidebar.label "បង្ហាញ​របារ​ចំហៀង">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.activated.undobutton.label "មិនធ្វើវិញ">
+<!ENTITY social.activated.undobutton.accesskey "U">
 
