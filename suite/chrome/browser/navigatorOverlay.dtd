@@ -120,7 +120,7 @@
 
 <!ENTITY cookieAllowPopupsCmd.label "Salli tämän sivuston ponnahdusikkunat">
 <!ENTITY cookieAllowPopupsCmd.accesskey "S">
-<!ENTITY cookieManagePopups.label "Muokkaa ponnahdusikkunoidenavausoikeuksia">
+<!ENTITY cookieManagePopups.label "Muokkaa ponnahdusikkunoiden avausoikeuksia">
 <!ENTITY cookieManagePopups.accesskey "M">
 
 <!ENTITY cookieCookieManager.label "Evästeiden hallinta">
