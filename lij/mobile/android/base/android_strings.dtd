@@ -96,7 +96,8 @@
 <!ENTITY bookmark_edit_location "Indirìsso">
 <!ENTITY bookmark_edit_keyword "Paròlla ciâve">
 
-<!ENTITY site_settings_title        "Scancèlla e inpostaçioìn do scîto">
+<!ENTITY site_settings_title2 "Inpostaçioìn do scîto…">
+
 <!ENTITY site_settings_cancel       "Anùlla">
 <!ENTITY site_settings_clear        "Polìsci">
 <!ENTITY site_settings_no_settings  "No gh\'é de inpostaçioìn da scancelâ.">
@@ -115,8 +116,8 @@
 <!ENTITY abouthome_last_tabs_open "Àrvi tùtti i féuggi de l\'ùrtima vòtta">
 <!ENTITY abouthome_top_sites_title "Mêgio scîti">
 <!ENTITY abouthome_top_sites_browse "Amîa tùtti i teu scîti preferîi">
-<!ENTITY abouthome_no_top_sites "No ti gh\'æ ancón di mêgio scîti. Tócca a bâra do tìtolo pe iniçiâ a navegâ.">
-<!ENTITY abouthome_about_sync "Inpòsta Firefox Sync perché o pòsse intrâ a-i segnalìbbri, a-a stöia e a-i féuggi da-i teu âtri dispoxitîvi">
+<!ENTITY abouthome_about_sync3 "Inpòsta Firefox Sync pe lêze segnalìbbri, stöia e féuggi da-i teu âtri dispoxitîvi »">
+
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
 <!ENTITY filepicker_title "Çèrni o File">
@@ -150,9 +151,9 @@
 <!ENTITY pref_import_android "Inpòrta dò-u Android">
 <!ENTITY pref_private_data_history "Stöia da navegaçión e descaregaménto">
 <!ENTITY pref_private_data_formdata "Mòdoli e riçèrca">
-<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_cookies2 "Cookie e acéssi atîvi">
+
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Acéssi fæti">
 <!ENTITY pref_private_data_offlineApps "Dæti fêua lìnia di scîti web">
 <!ENTITY pref_private_data_siteSettings "Preferénse di scîti">
 <!ENTITY desktop_mode "Domànda versción desktop">
@@ -178,3 +179,13 @@
 <!ENTITY reading_list_failed "Inposcìbile azónze a pàgina a Elénco letûa">
 <!ENTITY share_image_failed "Inposcìbile condivìdde sta inmàgine">
 <!ENTITY webapp_generic_name "App">
+
+<!ENTITY abouthome_about_apps2 "Scàrega nêuve app da Mozilla Marketplace e descòvri o mêgio do Web »">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+
+<!ENTITY go "Vànni">
+<!ENTITY search "Çèrca">
+<!ENTITY pref_font_size_set "Inpòsta">
+<!ENTITY pref_font_size_adjust_char "A">
+<!ENTITY pref_font_size_preview_text "A vórpe cô de çetrón pàssa sórvia ògni òstàcolo con velocitæ de lóngo magiô, flescibilitæ e siguéssa. In quànto organizaçión sénsa fìn de goâgno sémmo càpaci de creâ inovaçoioìn pe o bén di uténti sénsa càzze in prescioìn ò conpromìssi. Quésto scignìfica \'na mêgio esperiénsa pe tùtti e \'n mêgio avegnî pe-o Web.">
+<!ENTITY pref_use_master_password "Adêvia paròlla segrétta prinçipâ">
