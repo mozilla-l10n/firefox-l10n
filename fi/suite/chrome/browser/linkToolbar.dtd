@@ -39,6 +39,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Sivustonavigaatiopalkki">
 <!ENTITY linkToolbar.accesskey "S">
+<!ENTITY linkToolbar.tooltip "Sivustonavigaatiopalkki">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Näytä aina">

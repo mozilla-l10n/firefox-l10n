@@ -1,6 +1,8 @@
 <!ENTITY pane.title                   "Vastaanottokuittaukset">
 <!ENTITY useGlobalPrefs.label         "Käytä yleisiä vastaanottokuittausasetuksia">
 <!ENTITY useGlobalPrefs.accesskey     "u">
+<!ENTITY globalReceipts.label         "Yleiset asetukset…">
+<!ENTITY globalReceipts.accesskey     "Y">
 <!ENTITY useCustomPrefs.label         "Määritä tilille omat vastaanottokuittausasetukset">
 <!ENTITY useCustomPrefs.accesskey     "M">
 <!ENTITY requestReceipt.label         "Pyydä aina vastaanottokuittausta lähetettäessä viestiä">

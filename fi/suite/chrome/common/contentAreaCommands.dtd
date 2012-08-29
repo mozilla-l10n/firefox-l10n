@@ -51,8 +51,8 @@
 <!ENTITY viewVideoCmd.accesskey       "N">
 <!ENTITY viewBGImageCmd.label         "Näytä taustakuva">
 <!ENTITY viewBGImageCmd.accesskey     "N">
-<!ENTITY setWallpaperCmd.label        "Aseta työpöydän taustakuvaksi">
-<!ENTITY setWallpaperCmd.accesskey    "A">
+<!ENTITY setDesktopBackgroundCmd.label     "Aseta työpöydän taustakuvaksi…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "A">
 <!ENTITY bookmarkPageCmd.label        "Lisää sivu kirjanmerkkeihin">
 <!ENTITY bookmarkPageCmd.accesskey    "L">
 <!ENTITY bookmarkLinkCmd.label        "Lisää kohde kirjanmerkkeihin">
