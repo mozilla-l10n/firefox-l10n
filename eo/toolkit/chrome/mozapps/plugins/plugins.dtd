@@ -35,7 +35,7 @@
 <!ENTITY clickToPlayPlugin                                   "Alklaku ĉi tie por aktivigi kromprogramon.">
 <!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Alklaku ĉi tie por aktivigi difekteblan kromprogramon.">
 <!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Alklaku ĉi tie por aktivigi difekteblan kromprogramon (ne ekzistas ĝisdatigo).">
-<!ENTITY checkForUpdates                                     "Kontroli ĉu estas ĝisdatigoj…"
+<!ENTITY checkForUpdates                                     "Kontroli ĉu estas ĝisdatigoj…">
 <!ENTITY disabledPlugin                                      "Tiu ĉi kromprogramo ne estas aktiva.">
 <!ENTITY blockedPlugin.label                                 "Tiu ĉi kromprogramo estis blokita por protekti vin.">
 

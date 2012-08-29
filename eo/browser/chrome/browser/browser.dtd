@@ -245,7 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webConsoleButton.label "Teksaĵa konzolo">
 <!ENTITY inspectorButton.label "Inspektilo">
-<!ENTITY scriptsButton.label "Skriptoj">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopii enan HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "e">
