@@ -19,11 +19,23 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label "ดูเพิ่มเกี่ยวกับโปรแกรมเสริมต่าง ๆ หรือหาโปรแกรมเสริมที่ขาดหายไปด้วยตัวเอง">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; จำเป็นต้องเริ่มใหม่เพื่อให้โปรแกรมเสริมทำงาน">
-  
+
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre "เสียใจด้วย &brandShortName; ไม่สามารถเล่น Flash บนอุปกรณ์นี้ได้">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "เรียนรู้เพิ่มเติม…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
 <!ENTITY missingPlugin        "ต้องใช้โปรแกรมเสริมเพื่อดูเนื้อหานี้">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin      "แตะที่นี่เพือเปิดใช้งานโปรแกรมเสริม">
 <!ENTITY clickToPlayPlugin    "คลิกที่นี่เพือเปิดใช้งานโปรแกรมเสริม">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable "คลิกที่นี่เพือเปิดใช้งานโปรแกรมเสริมที่มีความเสี่ยง">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate "คลิกที่นี่เพือเปิดใช้งานโปรแกรมเสริมที่มีความเสี่ยง (ไม่พบการปรับรุ่น)">
+<!ENTITY checkForUpdates                "ตรวจสอบการปรับปรุง…">
 <!ENTITY disabledPlugin       "โปรแกรมเสริมนี้ถูกปิดการใช้งาน">
 <!ENTITY blockedPlugin.label "โปรแกรมเสริมนี้ถูกปิดกั้นเพื่อปกป้องคุณ">
 

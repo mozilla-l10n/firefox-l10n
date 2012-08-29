@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "คุณเลือกเปิด">
+<!ENTITY  intro2.label                "คุณเลือกเปิด :">
 <!ENTITY from.label "จาก :">
 <!ENTITY actionQuestion.label "&brandShortName; ควรทำอะไรกับแฟ้มนี้">
 

@@ -55,6 +55,8 @@
 <!ENTITY codeEval.accesskey "ต">
 <!ENTITY evaluate.label "หาค่า">
 <!ENTITY evaluate.accesskey "ห">
+<!ENTITY filter.label       "ตัวกรอง">
+<!ENTITY filter.accesskey   "ก">
 
 <!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.accesskey "ค">
