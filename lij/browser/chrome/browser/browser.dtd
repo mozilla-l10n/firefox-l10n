@@ -634,11 +634,6 @@ toolbar button -->
 <!ENTITY leaveDOMFullScreen.label "Sciòrti da a tùtto schèrmo">
 <!ENTITY leaveDOMFullScreen.accesskey "h">
 
-<!ENTITY inspectOptionButton.tooltiptext "Inpostaçioìn anàlixi">
-<!ENTITY inspectorToggleVeil.label "Scûa pàgina">
-<!ENTITY inspectorToggleVeil.accesskey "O">
-<!ENTITY inspectorToggleInfobar.label "Móstra inf. gróppo">
-<!ENTITY inspectorToggleInfobar.accesskey "M">
 <!ENTITY inspectorButton.label "Anàlixi">
 
 <!ENTITY responsiveDesignTool.label "Vìsta flescìbile">
@@ -649,8 +644,8 @@ toolbar button -->
 
 <!ENTITY social.sharePopup.undo.label "No condivìdde ciù">
 <!ENTITY social.sharePopup.undo.accesskey "ù">
-<!ENTITY social.sharePopup.ok.label "Va bén">
-<!ENTITY social.sharePopup.ok.accesskey "b">
+<!ENTITY social.ok.label "Va bén">
+<!ENTITY social.ok.accesskey "b">
 <!ENTITY socialToolbar.title "Poméllo bâra di struménti sociâli">
 <!ENTITY social.notLoggedIn.label "No ti ê intròu">
 
@@ -659,3 +654,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.portrait.arialabel "Inmàgine profî uténte">
 <!ENTITY social.toggleSidebar.label "Móstra a bâra de sciànco">
 <!ENTITY social.toggleSidebar.accesskey "M">
+<!ENTITY social.activated.undobutton.label "Anùlla">
+<!ENTITY social.activated.undobutton.accesskey "A">

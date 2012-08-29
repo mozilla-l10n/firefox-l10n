@@ -3,7 +3,7 @@ close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Descaregaménti">
-
+<!ENTITY downloads.width 				  "65ch">
 <!ENTITY cmd.pause.label                  "Pösa">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Repìggio">
@@ -25,8 +25,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.accesskey          "c">
 
 <!ENTITY cmd.retry.label                  "Prêuva tórna">
-
-<!ENTITY downloadshistory.label           "Fànni védde tùtti i descaregaménti">
-<!ENTITY downloadshistory.accesskey       "t">
 
 <!ENTITY indicator.tooltiptext            "Descaregaménti">
