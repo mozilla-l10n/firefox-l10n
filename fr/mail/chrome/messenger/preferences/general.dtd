@@ -27,9 +27,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Parcourir…">
 <!ENTITY browse.accesskey                 "r">
-
-<!ENTITY addonsMgr.label                  "Modules complémentaires">
-<!ENTITY manageAddonsDescWin.label        "Modifier les options pour vos modules">
-<!ENTITY manageAddonsDescUnix2.label      "Modifier les préférences pour vos modules">
-<!ENTITY manageAddons.label               "Gérer les modules complémentaires…">
-<!ENTITY manageAddons.accesskey           "G">
