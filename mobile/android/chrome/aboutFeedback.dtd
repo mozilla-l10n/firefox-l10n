@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pageTitle "Coménti pe &brandShortName;">
+<!ENTITY intro.header "T'æ mîga un moménto?">
+<!ENTITY intro.message "Cöse ti ne pénsi de &brandShortName; pe Android?">
+<!ENTITY intro.happyLink "Me piâxe">
+<!ENTITY intro.sadLink "Ò trovòu quàrche problêma">
+<!ENTITY intro.ideaLink "Gh'ò 'n'idêa">
+<!ENTITY support.pre "T'æ bezéugno d'agiùtto ò ti gh'æ 'n problêma con &brandShortName; vìxita ">
+<!ENTITY support.link "Sopòrto pe &brandShortName;">
+<!ENTITY support.post ".">
+<!ENTITY happy.header "Mâvegiôzo!">
+<!ENTITY happy.message "T'eu condivìdde o teu entuziàsmo dàndone 5 stélle in sciô Google Play?">
+<!ENTITY happy.finePrint "Sèrve mêno de 'n menûto e te faiâ sentî bén.">
+<!ENTITY happy.ratingLink "Sci, àrvi Google Play">
+<!ENTITY happy.maybeLater "Magâra dòppo">
+<!ENTITY happy.noThanks "No gràçie">
+<!ENTITY sad.message "Sémmo dispiaxûi che t'àgge avûo problêmi con &brandShortName;. Dìnne cösa l'é sucésso e amiêmo de scistemâ tùtto.">
+<!ENTITY sad.placeholder "Scrîvi i teu coménti">
+<!ENTITY sad.lastSite "Ùrtimo scîto vixitòu (sôlo se t'eu)">
+<!ENTITY sad.urlPlaceholder "http://">
+<!ENTITY sad.thanksHeader "Gràçie d'avéinelo dîto.">
+<!ENTITY sad.thanksMessageTop "Sémmo de lóngo a-o travàggio pe migiorâ sto &brandShortName;. Te garantìmmo che de persónn-e in càrne e òsse se metiàn a lêze i teu coménti e faiàn o poscìbile pe risòlve o problêæma.">
+<!ENTITY sad.thanksMessageBottom "L'é 'na promìssa.">
+<!ENTITY idea.message "Ne piaxêva conósce e teu idêe. Condivìddi i teu coménti chi sótto (mîa bén, sôlo se gh'ìntran co-o &brandShortName;).">
+<!ENTITY idea.placeholder "Scrîvi a teu idêa">
+<!ENTITY idea.thanksHeader "Gràçie!">
+<!ENTITY idea.thanksMessageTop "Te ringraçiémmo pe avéi spéizo do ténpo pe condivìdde e teu idêe. Çerchémmo ògni giórno de migiorâ &brandShortName; e agiùtti cómme o teu ne pêua fâ realizâ gréndi obietîvi.">
+<!ENTITY idea.thanksMessageBottom "Da chi no se védde ma sémmo asæ conténti do teu agiùtto.">
+<!ENTITY feedback.privacy "Pe protézze a teu privacy no inclùdde nisciùnn-a informaçioìn personâle inti teu coménti.">
+<!ENTITY feedback.send "Mànda coménto">
+
