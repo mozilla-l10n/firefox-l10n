@@ -255,16 +255,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorHTMLDelete.label "Smazat uzel">
 <!ENTITY inspectorHTMLDelete.accesskey "m">
 
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext "Možnosti průzkumíka">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label "Ztmavit stránku">
-<!ENTITY inspectorToggleVeil.accesskey "">
-<!ENTITY inspectorToggleInfobar.label "Zobrazit informace uzlu">
-<!ENTITY inspectorToggleInfobar.accesskey "Z">
-
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
