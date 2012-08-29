@@ -371,7 +371,11 @@
 <!ENTITY event.attendee.role.required "Participation obligatoire">
 <!ENTITY event.attendee.role.optional "Participation facultative">
 <!ENTITY event.attendee.role.chair "Organisateur">
-<!ENTITY event.attendee.role.nonparticipant     "Non participant">
+<!ENTITY event.attendee.role.nonparticipant "Non participant">
+<!ENTITY event.attendee.usertype.individual "Individu">
+<!ENTITY event.attendee.usertype.group "Groupe">
+<!ENTITY event.attendee.usertype.resource "Ressource">
+<!ENTITY event.attendee.usertype.room "Canal">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Veuillez indiquer le fuseau horaire">
