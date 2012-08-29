@@ -4,8 +4,8 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
+#define bookmarks_title 書籤
+#define bookmarks_heading 書籤
 
 #define bookmarks_toolbarfolder 個人書籤列
 #define bookmarks_toolbarfolder_description 此處的書籤會出現於書籤工具列上
