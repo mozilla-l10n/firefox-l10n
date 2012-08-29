@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
-<!ENTITY debuggerMenu.commandkey     "ក">
+<!ENTITY debuggerMenu.commandkey     "D">
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->

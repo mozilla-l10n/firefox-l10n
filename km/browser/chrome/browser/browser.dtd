@@ -52,10 +52,10 @@ can reach it easily. -->
 <!ENTITY openLocationCmd.label "បើកទីតាំង…">
 <!ENTITY openLocationCmd.accesskey "ក">
 <!ENTITY openFileCmd.label "បើក​ឯកសារ…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "ឯ">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ការ​រៀបចំ​ទំព័រ…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "រ">
 <!ENTITY printPreviewCmd.label "មើល​មុន​បោះពុម្ព">
 <!ENTITY printPreviewCmd.accesskey "ល">
 <!ENTITY printCmd.label "បោះពុម្ព…">
@@ -182,7 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ឧបករណ៍">
-<!ENTITY toolsMenu.accesskey          "ឧ"> 
+<!ENTITY toolsMenu.accesskey          "ណ"> 
 
 <!ENTITY keywordfield.label           "បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...">
 <!ENTITY keywordfield.accesskey       "ព">
@@ -216,7 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "ត">
 
 <!ENTITY responsiveDesignTool.label   "ទិដ្ឋភាព​រចនា​ដែល​​បើក​ទូលាយ">
-<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.accesskey "ដ">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -253,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 
 <!ENTITY inspectorHTMLDelete.label          "លុប Node">
-<!ENTITY inspectorHTMLDelete.accesskey      "ល">
+<!ENTITY inspectorHTMLDelete.accesskey      "e">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuWebDeveloper.label "អ្នក​អភិវឌ្ឍន៍​បណ្ដាញ">
 <!ENTITY appMenuGettingStarted.label "ចាប់ផ្ដើម">
 <!ENTITY appMenuSafeMode.label "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បិទ...">
-<!ENTITY appMenuSafeMode.accesskey "Վ">
+<!ENTITY appMenuSafeMode.accesskey "ម">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "ទៅកាន់​តំបន់​បណ្ដាញ">
@@ -431,7 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "ចំណាំ​ស៊ុម​នេះ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ន">
 <!ENTITY emailPageCmd.label           "អ៊ីមែល​តំណ...">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.accesskey       "ណ">
 <!ENTITY savePageCmd.label            "រក្សា​ទុក​ទំព័រ​ជា...">
 <!ENTITY savePageCmd.accesskey        "រ">
 <!-- alternate for content area context menu -->
@@ -450,11 +450,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.label           "រក្សា​ទុក​អូឌីយ៉ូ​ជា...">
 <!ENTITY saveAudioCmd.accesskey       "ក">
 <!ENTITY emailImageCmd.label          "អ៊ីមែល​រូបភាព...">
-<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailImageCmd.accesskey      "ភ">
 <!ENTITY emailVideoCmd.label          "អ៊ីមែល​វីដេអូ">
-<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.accesskey      "អ">
 <!ENTITY emailAudioCmd.label          "អ៊ីមែល​អូឌីយ៉ូ...">
-<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.accesskey      "ឌ">
 <!ENTITY copyLinkCmd.label            "ចម្លង​ទីតាំង​តំណ">
 <!ENTITY copyLinkCmd.accesskey        "ណ">
 <!ENTITY copyImageCmd.label           "ចម្លង​ទីតាំង​រូបភាព">
@@ -595,7 +595,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
 <!ENTITY editBookmark.cancel.label                   "បោះបង់">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.removeBookmark.accessKey       "ង">
 
 <!ENTITY identity.unverifiedsite2 "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ ។">
 <!ENTITY identity.connectedTo "អ្នក​បាន​តភ្ជាប់​ទៅ">
@@ -642,7 +642,7 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!ENTITY markupButton.arialabel          "ចំណាំ">
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
+<!ENTITY markupButton.accesskey          "ច">
 
 <!ENTITY socialToolbar.title        "ប៊ុតុង​របារ​ឧបករណ៍​សង្គម">
 <!ENTITY social.notLoggedIn.label   "មិន​បាន​ចូល">
@@ -653,16 +653,16 @@ toolbar button -->
      the user clicks the "Share" button a second time (social.sharePopup.*
      below). -->
 <!ENTITY social.ok.label       "យល់ព្រម">
-<!ENTITY social.ok.accesskey   "O">
+<!ENTITY social.ok.accesskey   "ព">
 
 <!ENTITY social.sharePopup.undo.label     "មិន​ចែករំលែក">
-<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.undo.accesskey "រ">
 <!ENTITY social.sharePopup.shared.label   "អ្នក​បាន​ចែករំលែក​ទំព័រ​នេះ ។">
 <!ENTITY social.sharePopup.portrait.arialabel "រូបថត​របស់​ប្រវត្តិ​​អ្នក​ប្រើ">
 
 <!ENTITY social.toggleSidebar.label "បង្ហាញ​របារ​ចំហៀង">
-<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.accesskey "ញ">
 
 <!ENTITY social.activated.undobutton.label "មិនធ្វើវិញ">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.undobutton.accesskey "ធ">
 

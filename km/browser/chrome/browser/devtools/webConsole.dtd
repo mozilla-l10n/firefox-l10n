@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY saveBodies.label     "សំណើ​កំណត់ហេតុ និង​តួ​ឆ្លើយតប">
-<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.accesskey "ណ">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
