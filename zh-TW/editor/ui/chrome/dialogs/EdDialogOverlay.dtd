@@ -16,3 +16,4 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "輸入網址、本機檔案路徑，或由選單中選取一個錨點或是標題:">
 <!ENTITY LinkURLEditField.accessKey "w">
+

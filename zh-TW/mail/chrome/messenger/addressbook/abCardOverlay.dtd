@@ -27,8 +27,8 @@
 <!ENTITY NameField1.accesskey           "F">
 <!ENTITY NameField2.label               "姓氏:">
 <!ENTITY NameField2.accesskey           "L">
-<!ENTITY PhoneticField1.label           "注音碼:">
-<!ENTITY PhoneticField2.label           "注音碼:">
+<!ENTITY PhoneticField1.label           "注音:">
+<!ENTITY PhoneticField2.label           "注音:">
 <!ENTITY DisplayName.label              "顯示名稱:">
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.label        "總是在郵件檔頭上方顯示姓名">
@@ -68,9 +68,9 @@
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "縣／市:">
+<!ENTITY HomeCity.label                 "鄉／鎮／市／區:">
 <!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "市／鎮:">
+<!ENTITY HomeState.label                "縣／市:">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "郵遞區號:">
 <!ENTITY HomeZipCode.accesskey          "Z">
@@ -88,7 +88,7 @@
 
 <!ENTITY Work.tab                       "商務">
 <!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "標題:">
+<!ENTITY JobTitle.label                 "職稱:">
 <!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "部門:">
 <!ENTITY Department.accesskey           "m">
@@ -98,9 +98,9 @@
 <!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "縣／市:">
+<!ENTITY WorkCity.label                 "鄉／鎮／市／區:">
 <!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "市／鎮:">
+<!ENTITY WorkState.label                "縣／市:">
 <!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label              "郵遞區號:">
 <!ENTITY WorkZipCode.accesskey          "Z">
@@ -156,3 +156,4 @@
 <!ENTITY PhotoURL.placeholder           "貼上或輸入相片的網址">
 <!ENTITY UpdatePhoto.label              "更新">
 <!ENTITY UpdatePhoto.accesskey          "U">
+

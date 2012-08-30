@@ -8,7 +8,7 @@
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "公司">
 <!ENTITY Company.accesskey                     "z">
-<!ENTITY _PhoneticName.label                   "注音碼">
+<!ENTITY _PhoneticName.label                   "姓名注音">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "暱稱">
 <!ENTITY NickName.accesskey                    "i">
@@ -34,3 +34,4 @@
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "由大到小">
 <!ENTITY sortDescending.accesskey              "D">
+

@@ -7,7 +7,7 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-<!ENTITY  pref.composer.title           "設計師">
+<!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "最近開啟頁面">
 <!ENTITY  documentsInMenu.label         "最大列出頁數:">
 <!ENTITY  documentsInMenu.accesskey     "n">
@@ -27,3 +27,4 @@
 <!ENTITY  useCSS.accesskey              "U">
 <!ENTITY  crInPCreatesNewP.label        "在段落中按下 Enter 時建立新段落">
 <!ENTITY  crInPCreatesNewP.accesskey    "r">
+
