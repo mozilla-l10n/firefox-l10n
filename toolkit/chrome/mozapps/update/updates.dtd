@@ -54,7 +54,7 @@
 
 <!ENTITY  error.label                     "Det oppstod problem under kontroll, nedlasting eller installering av denne oppdateringa. Klarte ikkje å oppdatere &brandShortName; fordi:">
                                            
-<!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; manuelt ved å gå til denne lenkja, for å laste ned siste versjon:">
+<!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; manuelt ved å gå til denne lenka, for å laste ned siste versjon:">
                                            
 <!ENTITY  errorpatching.intro             "Installering av den aukande oppdateringa feila. 
                               &brandShortName; vil prøve å laste ned ei fullstendige oppdatering.">

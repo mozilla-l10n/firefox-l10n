@@ -1,44 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1999-2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Sammy Ford
-   -   Blake Ross
-   -   Ryan Cassin (rcassin@supernova.org)
-   -   Daniel Glazman (glazman@netscape.com)
-   -   Stephen Donner (technutz@netscape.net)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
@@ -64,12 +26,12 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Set inn">
 <!ENTITY insertMenu.accesskey "i">
-<!ENTITY insertLinkCmd.label "Lenkje …">
+<!ENTITY insertLinkCmd.label "Lenke …">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Namngjeve anker …">
 <!ENTITY insertAnchorCmd.accesskey "a">
-<!ENTITY insertImageCmd.label "Bilete …">
+<!ENTITY insertImageCmd.label "Bilde …">
 <!ENTITY insertImageCmd.accesskey "B">
 <!ENTITY insertHLineCmd.label "Horisontal linje">
 <!ENTITY insertHLineCmd.accesskey "o">
@@ -79,13 +41,13 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Teikn og symbol …">
 <!ENTITY insertCharsCmd.accesskey "s">
-<!ENTITY insertBreakAllCmd.label "Linjeskift under bilete">
+<!ENTITY insertBreakAllCmd.label "Linjeskift under bilde">
 <!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
-<!ENTITY createLinkCmd.label "Lag lenkje …">
+<!ENTITY createLinkCmd.label "Lag lenke …">
 <!ENTITY createLinkCmd.accesskey "l">
-<!ENTITY editLinkCmd.label "Rediger lenkje i nytt nettsideutviklar-vindauge">
+<!ENTITY editLinkCmd.label "Rediger lenke i nytt nettsideutviklar-vindauge">
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
@@ -330,14 +292,14 @@
 <!ENTITY findToolbarCmd.tooltip "Finn tekst på sida">
 <!ENTITY spellToolbarCmd.label "Stavekontroll">
 <!ENTITY spellToolbarCmd.tooltip "Kontroller merkt område eller heile sida for stavefeil">
-<!ENTITY imageToolbarCmd.label "Bilete">
-<!ENTITY imageToolbarCmd.tooltip "Set inn nytt bilete eller rediger eigenskapane til det valde biletet">
+<!ENTITY imageToolbarCmd.label "Bilde">
+<!ENTITY imageToolbarCmd.tooltip "Set inn nytt bilde eller rediger eigenskapane til det valde bildet">
 <!ENTITY hruleToolbarCmd.label "Horisontal linje">
 <!ENTITY hruleToolbarCmd.tooltip "Set inn horisontal linje eller rediger eigenskapane til den valde linja">
 <!ENTITY tableToolbarCmd.label "Tabell">
 <!ENTITY tableToolbarCmd.tooltip "Set inn ny tabell eller rediger eigenskapane til den valde tabellen">
-<!ENTITY linkToolbarCmd.label "Lenkje">
-<!ENTITY linkToolbarCmd.tooltip "Set inn ny lenkje eller rediger eigenskapane til den valde lenkja">
+<!ENTITY linkToolbarCmd.label "Lenke">
+<!ENTITY linkToolbarCmd.tooltip "Set inn ny lenke eller rediger eigenskapane til den valde lenka">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Set inn nytt namngjeve anker eller rediger eigenskapane til det valde ankeret">
 <!ENTITY TextColorButton.tooltip "Vel tekstfarge">
@@ -356,7 +318,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Reduser innrykk (flytt mot venstre)">
 <!ENTITY indentToolbarCmd.tooltip "Auk innrykk (flytt mot høgre)">
 <!ENTITY AlignPopupButton.tooltip "Vel tekstjustering">
-<!ENTITY InsertPopupButton.tooltip "Set inn lenkje, anker, bilete, horisontal linje eller tabell">
+<!ENTITY InsertPopupButton.tooltip "Set inn lenke, anker, bilde, horisontal linje eller tabell">
 <!ENTITY alignLeftButton.tooltip "Juster tekst langs venstre marg">
 <!ENTITY alignCenterButton.tooltip "Midtstill tekst">
 <!ENTITY alignRightButton.tooltip "Juster tekst langs høgre marg">

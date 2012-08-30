@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.emptytext      "Skriv inn søk eller adresse">
 
 <!ENTITY back.label            "Tilbake">
@@ -14,7 +18,7 @@
 <!ENTITY cut.label             "Klipp ut">
 <!ENTITY copy.label            "Kopier">
 <!ENTITY copyAll.label         "Kopier alt">
-<!ENTITY copylink.label        "Kopier lenkjeadresse">
+<!ENTITY copylink.label        "Kopier lenkeadresse">
 <!ENTITY paste.label           "Lim inn">
 <!ENTITY pasteAndGo.label      "Lim inn og opne">
 <!ENTITY delete.label          "Slett">
@@ -92,15 +96,15 @@
 <!ENTITY consoleErrLine.label      "Linje:">
 <!ENTITY consoleErrColumn.label    "Kolonne:">
 
-<!ENTITY contextOpenInNewTab.label    "Opne lenkje i ny fane">
-<!ENTITY contextSaveImage.label       "Lagre bilete">
-<!ENTITY contextCopyLink.label        "Kopier lenkje">
+<!ENTITY contextOpenInNewTab.label    "Opne lenke i ny fane">
+<!ENTITY contextSaveImage.label       "Lagre bilde">
+<!ENTITY contextCopyLink.label        "Kopier lenke">
 <!ENTITY contextCopyEmail.label       "Kopier e-postadresse">
 <!ENTITY contextCopyPhone.label       "Kopier telefonnummer">
 <!ENTITY contextCopyImageLocation.label       "Kopier bildeadresse">
-<!ENTITY contextShareLink.label       "Del lenkje">
-<!ENTITY contextShareImage.label      "Del bilete">
-<!ENTITY contextBookmarkLink.label    "Bokmerk lenkje">
+<!ENTITY contextShareLink.label       "Del lenke">
+<!ENTITY contextShareImage.label      "Del bilde">
+<!ENTITY contextBookmarkLink.label    "Bokmerk lenke">
 <!ENTITY contextSaveVideo.label       "Lagre video">
 <!ENTITY contextShareVideo.label      "Del video">
 <!ENTITY contextPlayMedia.label       "Spel av">

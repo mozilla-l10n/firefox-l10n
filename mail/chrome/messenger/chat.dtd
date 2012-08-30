@@ -40,5 +40,5 @@
 <!ENTITY status.unavailable        "Utilgjengeleg">
 <!ENTITY status.offline            "Fråkopla">
 
-<!ENTITY openLinkCmd.label            "Opne lenkje …">
+<!ENTITY openLinkCmd.label            "Opne lenke …">
 <!ENTITY openLinkCmd.accesskey        "O">

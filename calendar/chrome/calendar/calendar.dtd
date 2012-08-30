@@ -222,7 +222,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 veke">
 <!ENTITY calendar.context.postpone.1week.accesskey  "v">
 
-<!ENTITY calendar.copylink.label       "Kopier lenkjeadresse">
+<!ENTITY calendar.copylink.label       "Kopier lenkeadresse">
 <!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->

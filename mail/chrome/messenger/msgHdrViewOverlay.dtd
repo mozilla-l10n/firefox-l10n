@@ -94,7 +94,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Lagre alle">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Lagre alle vedlagde filer">
 
-<!ENTITY copyLinkCmd.label        "Kopier lenkjeadresse">
+<!ENTITY copyLinkCmd.label        "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopier meldings-ID">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Kontoinnstillingar">
@@ -18,7 +22,7 @@
 <!ENTITY signatureText.accesskey "S">
 <!ENTITY signatureHtml.label "Bruk HTML (t.d., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "T">
-<!ENTITY signatureFile.label "Legg ved signaturen frå ei fil i staden (tekst, HTML, eller bilete):">
+<!ENTITY signatureFile.label "Legg ved signaturen frå ei fil i staden (tekst, HTML, eller bilde):">
 <!ENTITY signatureFile.accesskey "L">
 <!ENTITY edit.label "Rediger …">
 <!ENTITY choose.label "Vel …">
