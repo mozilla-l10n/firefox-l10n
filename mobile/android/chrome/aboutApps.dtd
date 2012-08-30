@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutApps.title "您的應用程式">
+<!ENTITY aboutApps.title2                          "應用程式">
+<!ENTITY aboutApps.header                          "您的應用程式">
 
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 <!ENTITY aboutApps.noApps.pre "未安裝網路應用程式。到 ">
-<!ENTITY aboutApps.noApps.middle "App Store">
+<!ENTITY aboutApps.noApps.middle2 "Mozilla Marketplace">
 <!ENTITY aboutApps.noApps.post "下載一些吧！">
+
