@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -113,7 +117,7 @@
   <li>Sida du prøver å opne kan ikkje visast fordi autensiteten til mottekne
 data ikkje kunne stadfestast.</li>
   <li>Kontakt eigarane av nettsida for å informere dei om problemet. Alternativt kan du bruke, 
-kommandoen i hjelpemenyen for å rapportere ei øydelagd lenkje.</li>
+kommandoen i hjelpemenyen for å rapportere ei øydelagd lenke.</li>
 </ul>
 ">
 

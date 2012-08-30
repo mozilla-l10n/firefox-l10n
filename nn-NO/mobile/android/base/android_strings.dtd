@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "Konfigurerer &brandShortName;">
 <!ENTITY  splash_bookmarks_history "Vi oppdaterer bokmerka og historikken din, som kan ta ei lita stund.">
@@ -43,8 +47,16 @@
 
 <!ENTITY reload "Last på nytt">
 <!ENTITY forward "Fram">
+<!ENTITY menu "Meny">
+<!ENTITY back "Tilbake">
+<!ENTITY stop "Stopp">
+<!ENTITY site_security "Nettstadstryggleik">
 
+<!ENTITY close_tab "Lat att fane">
 <!ENTITY new_tab "Ny fane">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d faner">
 <!ENTITY new_tab_opened "Ny fane opna">
 
 <!ENTITY settings "Innstillingar">
@@ -52,6 +64,7 @@
 <!ENTITY pref_category_general "Generelt">
 <!ENTITY pref_category_privacy "Personvern og tryggleik">
 <!ENTITY pref_category_content "Innhald">
+<!ENTITY pref_category_importexport "Import og eksport">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_do_not_track "Be nettsider om å ikkje spore meg">
 <!ENTITY pref_telemetry "Send ytingsdata">
@@ -60,10 +73,7 @@
 <!ENTITY pref_char_encoding "Teiknkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikkje vis meny">
-<!ENTITY pref_clear_history "Tøm historikk">
-<!ENTITY pref_clear_history_confirm "Nettlesarhistorikk vil verte sletta">
 <!ENTITY pref_clear_private_data "Slett private data">
-<!ENTITY pref_clear_private_data_confirm "Nettlesarinnstillingar, inkludert passord og infokapslar, vil verte sletta">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
 <!ENTITY pref_plugins_tap_to_play "Trykk for å spele av">
@@ -76,6 +86,16 @@
 <!ENTITY pref_font_size_xlarge "Ekstra stor">
 <!ENTITY pref_use_master_password "Bruk eit hovudpassord">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_import_android "Import frå Android">
+<!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
+<!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
+<!ENTITY pref_private_data_cookies "Infokapslar">
+<!ENTITY pref_private_data_passwords "Lagra passord">
+<!ENTITY pref_private_data_cache "Snøgglager">
+<!ENTITY pref_private_data_sessions "Aktive innloggingar">
+<!ENTITY pref_private_data_offlineApps "Fråkopla nettstaddata">
+<!ENTITY pref_private_data_siteSettings "Nettstadinnstillingar">
+<!ENTITY pref_search_suggestions "Vis søkeforslag">
 
 <!ENTITY quit "Avslutt">
 
@@ -86,12 +106,29 @@
 <!ENTITY share "Del">
 <!ENTITY share_title "Del via">
 <!ENTITY save_as_pdf "Lagre som PDF">
+<!ENTITY find_in_page "Finn på sida">
+<!ENTITY desktop_mode "Be om desktop-nettstad">
 
-<!ENTITY contextmenu_open_new_tab "OPne i ny fane">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Finn på sida">
+<!ENTITY find_prev "Førre">
+<!ENTITY find_next "Neste">
+<!ENTITY find_close "Lat att">
+
+<!ENTITY contextmenu_open_new_tab "Opne i ny fane">
+<!ENTITY contextmenu_remove_history "Slett">
 <!ENTITY contextmenu_remove_bookmark "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på framsida">
 <!ENTITY contextmenu_share "Del">
+<!ENTITY contextmenu_pasteandgo "Lim inn og opne">
+<!ENTITY contextmenu_paste "Lim inn">
+<!ENTITY contextmenu_copyurl "Kopier adresse">
 <!ENTITY contextmenu_edit_bookmark "Rediger">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Sida fjerna">
 
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
 <!ENTITY bookmark_edit_name "Namn">
@@ -103,6 +140,11 @@
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillingar å fjerne.">
 
+<!ENTITY add_to_reading_list "Legg til i leselista">
+<!ENTITY reading_list_added "Sida er lagt til i leselista">
+<!ENTITY reading_list_removed "Sida er fjerna frå leselista">
+<!ENTITY reader_mode "Lesemodus">
+
 <!ENTITY masterpassword_create_title "Lag eit hovudpassord">
 <!ENTITY masterpassword_remove_title "Fjern hovudpassordet">
 <!ENTITY masterpassword_password "Passord">
@@ -110,6 +152,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Avbryt">
+<!ENTITY button_clear_data "Tøm data">
 
 <!ENTITY abouthome_addons_title "Utvidingar for din &brandShortName;">
 <!ENTITY abouthome_addons_browse "Bla gjennom alle &brandShortName;-utvidingane">
@@ -123,9 +166,32 @@
 
 <!ENTITY filepicker_title "Vel fil">
 <!ENTITY filepicker_audio_title "Vel eller spel inn ein lyd">
-<!ENTITY filepicker_image_title "VEl eller ta eit bilete">
+<!ENTITY filepicker_image_title "Vel eller ta eit bilde">
 <!ENTITY filepicker_video_title "Vel eller spel inn ein video">
 
-<!ENTITY ics_dumbness_title "Der er eit problem">
-<!ENTITY ics_dumbness_message "\&quot;Ikkje behold aktivitetar\&quot; er påslått. Skru den av i Innstillingar > Utviklarinnstillingar.">
-<!ENTITY ics_dumbness_ok "Innstillingar">
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Du er tilkopla">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "som vert driven av">
+
+<!ENTITY bookmarkhistory_button_import "Importer">
+<!ENTITY bookmarkhistory_import_both "Importerer bokmerke og historikk
+                                      frå Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importerer bokmerke
+                                           frå Android">
+<!ENTITY bookmarkhistory_import_history "Importerer historikk
+                                         frå Android">
+<!ENTITY bookmarkhistory_import_wait "Vent …">
+
+<!ENTITY private_data_success "Private data sletta">
+<!ENTITY private_data_fail "Klarte ikkje å slette nokre private data">

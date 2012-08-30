@@ -860,14 +860,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "L">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Lagre lenkje som …">
+<!ENTITY saveLinkAsCmd.label "Lagre lenke som …">
 <!ENTITY saveLinkAsCmd.accesskey "r">
-<!ENTITY saveImageAsCmd.label "Lagre biletet som …">
+<!ENTITY saveImageAsCmd.label "Lagre bildet som …">
 <!ENTITY saveImageAsCmd.accesskey "a">
-<!ENTITY copyLinkCmd.label "Kopier lenkjeadresse">
+<!ENTITY copyLinkCmd.label "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageAllCmd.label "Kopier bilete">
-<!ENTITY copyImageAllCmd.accesskey "t">
+<!ENTITY copyImageAllCmd.label "Kopier bilde">
+<!ENTITY copyImageAllCmd.accesskey "d">
 <!ENTITY copyEmailCmd.label "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Stopp">
@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.accesskey "O">
 <!ENTITY openInBrowser.label "Opne i nettlesar">
 <!ENTITY openInBrowser.accesskey "n">
-<!ENTITY openLinkInBrowser.label "Opne lenkje i nettlesar">
+<!ENTITY openLinkInBrowser.label "Opne lenke i nettlesar">
 <!ENTITY openLinkInBrowser.accesskey "e">
 
 <!-- Statusbar -->

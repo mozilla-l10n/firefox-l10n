@@ -17,7 +17,7 @@
 <!ENTITY restoreTabsOnDemand.label        "Ikkje last inn faner før dei vert valde">
 <!ENTITY restoreTabsOnDemand.accesskey    "I">
 
-<!ENTITY switchToNewTabs.label        "Når eg opnar ei lenkje i ei ny fane, byt til fana med ein gong">
+<!ENTITY switchToNewTabs.label        "Når eg opnar ei lenke i ei ny fane, byt til fana med ein gong">
 <!ENTITY switchToNewTabs.accesskey    "N">
 
 <!ENTITY showTabsInTaskbar.label          "Vis førehandsvising av faner i Windows-oppgåvelinja">

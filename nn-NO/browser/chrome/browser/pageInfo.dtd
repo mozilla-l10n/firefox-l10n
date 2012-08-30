@@ -60,7 +60,7 @@
 <!ENTITY  permAllowSession      "Tillat for programøkta">
 <!ENTITY  permBlock             "Blokker">
 <!ENTITY  permissionsFor        "Løyve for:">
-<!ENTITY  permImage             "Last bilete">
+<!ENTITY  permImage             "Last bilde">
 <!ENTITY  permPopup             "Opne sprettoppvindauge">
 <!ENTITY  permCookie            "Still inn infokapslar">
 <!ENTITY  permInstall           "Installer utvidingar eller tema">
