@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "網站導覽列">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "網站導覽列">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "一直顯示">
@@ -45,3 +46,4 @@
 <!ENTITY alternateButton.label "其它版本">
 
 <!ENTITY feedButton.label "訂閱">
+

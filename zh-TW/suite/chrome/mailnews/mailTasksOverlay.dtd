@@ -4,8 +4,8 @@
 
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
-<!ENTITY messengerCmd.label					"郵件與新聞群組">
-<!ENTITY messengerCmd.accesskey				"M">
+<!ENTITY messengerCmd.label					"Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey				"m">
 <!ENTITY messengerCmd.commandkey			"2">
 <!ENTITY addressBookCmd.label				"通訊錄">  
 <!ENTITY addressBookCmd.accesskey			"A">
@@ -21,3 +21,4 @@
 <!ENTITY searchMailCmd.label "搜尋訊息…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
+

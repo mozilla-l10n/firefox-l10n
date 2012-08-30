@@ -29,3 +29,4 @@
 <!ENTITY prefetchTitle.label             "鏈結預讀 (Prefetch)">
 <!ENTITY enablePrefetch.label            "在沒事時預先抓網頁，所以設計為要預抓(prefetch)的網頁可以快速載入。">
 <!ENTITY enablePrefetch.accesskey        "p">
+

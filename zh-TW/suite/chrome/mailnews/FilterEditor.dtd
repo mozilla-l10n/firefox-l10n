@@ -48,3 +48,11 @@
 
 <!ENTITY addAction.tooltip "新增動作">
 <!ENTITY removeAction.tooltip "移除此動作">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "5">
+<!ENTITY filterActionTargetFlexValue "4">
+

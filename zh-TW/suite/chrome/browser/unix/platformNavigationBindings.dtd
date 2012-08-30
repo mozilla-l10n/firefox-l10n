@@ -7,3 +7,4 @@
 <!ENTITY goForwardCmd.keyCode "VK_RIGHT">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+

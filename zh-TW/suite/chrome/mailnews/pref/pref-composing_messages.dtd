@@ -53,3 +53,4 @@
   mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
   need to be translated, and the correct separator put in. -->
 <!ENTITY authorWroteOnDateOption.label        "[作者] 於 [日期] 寫道:">
+

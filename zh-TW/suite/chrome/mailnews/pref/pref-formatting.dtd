@@ -37,3 +37,4 @@
 <!ENTITY domainnameError.title        "網域名稱錯誤">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "網域名稱 @string@ 無效，將會被忽略。有效的網域名稱必須包含至少一個點，且兩側都要有字母。">
+

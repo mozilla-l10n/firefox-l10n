@@ -17,3 +17,4 @@
 <!ENTITY            introStart.label         "要存取包含您已存的訊息、設定值，以及其他個人化資訊的設定檔，請從以下清單選擇您的設定檔，並點下 &start.label; 以開始。">
 <!ENTITY            introSwitch.label        "若要切換到其他包含您已存的訊息、設定值，以及其他個人化資訊的設定檔，請從以下清單選擇該設定檔，並點下 &select.label; 以開始使用該設定檔。">
 <!ENTITY            profileManagerText.label "&brandShortName; 會將關於您的設定值、偏好、書籤、已存訊息，以及其他使用者資訊儲存於您的使用者設定檔。">
+

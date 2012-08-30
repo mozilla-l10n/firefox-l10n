@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY GeneratedName.label                   "名稱">
+<!ENTITY GeneratedName.label                   "姓名">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "電子郵件">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "公司">
 <!ENTITY Company.accesskey                     "z">
-<!ENTITY _PhoneticName.label                   "注音碼">
+<!ENTITY _PhoneticName.label                   "姓名拼音">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "暱稱">
 <!ENTITY NickName.accesskey                    "i">
@@ -39,7 +39,7 @@
 <!ENTITY composeEmail.label                    "發送 Email 到">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY copyAddress.label                     "複製電子郵件地址">
-<!ENTITY copyAddress.accesskey                 "a">
+<!ENTITY copyAddress.accesskey                 "A">
 <!ENTITY deleteAddrBookCard.label              "刪除">
 <!ENTITY deleteAddrBookCard.accesskey          "D">
 <!ENTITY newAddrBookCard.label                 "新增名片卡…">
@@ -48,3 +48,4 @@
 <!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "屬性">
 <!ENTITY addrBookCardProperties.accesskey      "P">
+

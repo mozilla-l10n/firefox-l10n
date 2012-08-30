@@ -31,3 +31,4 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "永遠使用我的色彩設定，忽略文件指定的色彩與圖片">
 <!ENTITY useMyColors.accesskey             "m">
+
