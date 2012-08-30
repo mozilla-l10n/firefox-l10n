@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "選項">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attachments.label                "附加網頁">
-<!ENTITY  event.menu.options.attachments.accesskey            "W">
 <!ENTITY  event.menu.options.attendees.label                  "邀請參與者…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.spellcheck.label                 "檢查拼字…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "邀請參與者">
 <!ENTITY  event.toolbar.spellcheck.label                  "拼字檢查">
 <!ENTITY  event.toolbar.privacy.label                     "隱私">
-<!ENTITY  event.toolbar.attachments.label                 "附件">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "標題:" >
@@ -180,16 +177,10 @@
 <!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "附加檔案:" >
 <!ENTITY event.attachments.accesskey                      "h" >
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "附件">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
 <!ENTITY event.attachments.url.label                      "網頁…">
 <!ENTITY event.attachments.url.accesskey                  "W">
-
 <!ENTITY event.attachments.popup.remove.label             "移除" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "開啟舊檔" >
@@ -338,6 +329,10 @@
 <!ENTITY event.attendee.role.optional           "可選擇與會者">
 <!ENTITY event.attendee.role.chair              "主席">
 <!ENTITY event.attendee.role.nonparticipant     "非參加者">
+<!ENTITY event.attendee.usertype.individual     "個人">
+<!ENTITY event.attendee.usertype.group          "群組">
+<!ENTITY event.attendee.usertype.resource       "資源">
+<!ENTITY event.attendee.usertype.room           "聊天室">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "請指定時區">
@@ -364,3 +359,4 @@
 <!ENTITY read.only.description.label     "描述">
 <!ENTITY read.only.documents.label       "文件">
 <!ENTITY read.only.link.label            "相關鏈結">
+
