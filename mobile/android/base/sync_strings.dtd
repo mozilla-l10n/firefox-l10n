@@ -25,7 +25,7 @@
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Geben Sie Ihre &syncBrand.fullName.label;-Kontoinformationen ein'>
-<!ENTITY sync.input.username.label 'Benuzerkonto'>
+<!ENTITY sync.input.username.label 'Benutzerkonto'>
 <!ENTITY sync.input.password.label 'Passwort'>
 <!ENTITY sync.input.key.label 'Wiederherstellungsschlüssel'>
 <!ENTITY sync.checkbox.server.label 'Eigenen Server verwenden'>
