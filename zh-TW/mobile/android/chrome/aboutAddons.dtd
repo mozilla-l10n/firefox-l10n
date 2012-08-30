@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title                      "附加元件管理員">
+<!ENTITY aboutAddons.title2                     "附加元件">
 <!ENTITY aboutAddons.header2                    "您的附加元件">
 <!ENTITY aboutAddons.options                    "選項">
 
@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "停用">
 <!ENTITY addonAction.uninstall                  "移除">
 <!ENTITY addonAction.undo                       "復原">
+

@@ -92,3 +92,5 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label '設定 &syncBrand.shortName.label; 以傳送分頁標籤'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '在您的裝置上設定 &syncBrand.fullName.label; 以將分頁標籤傳送至其他裝置。'>
 <!ENTITY sync.text.tab.sent.label '已送出您的分頁！'>
+<!ENTITY sync.text.tab.not.sent.label '傳送您的分頁時發生問題。'>
+
