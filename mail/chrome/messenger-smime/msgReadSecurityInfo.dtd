@@ -10,5 +10,6 @@
 
 <!ENTITY signer.name "簽署者:">
 <!ENTITY recipient.name "加密給:">
-<!ENTITY email.address "Email 位址:">
+<!ENTITY email.address "電子郵件地址:">
 <!ENTITY issuer.name "憑證發行者:">
+

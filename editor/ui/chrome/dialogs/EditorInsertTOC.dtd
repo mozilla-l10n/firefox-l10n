@@ -4,7 +4,7 @@
 
 <!ENTITY Window.title        "目錄">
 <!ENTITY buildToc.label      "由此來源建立表格:">
-<!ENTITY tag.label           "Tag:">
+<!ENTITY tag.label           "標籤:">
 <!ENTITY class.label         "Class:">
 <!ENTITY header1.label       "第 1 級">
 <!ENTITY header2.label       "第 2 級">
@@ -14,3 +14,4 @@
 <!ENTITY header6.label       "第 6 級">
 <!ENTITY makeReadOnly.label  "設表格內容為唯讀">
 <!ENTITY orderedList.label   "用數字依序幫表格內容編號">
+

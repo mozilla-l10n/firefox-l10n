@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "列印…">
 <!ENTITY otherActionsPrint1.accesskey "P">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "啟動時顯示附件窗格">
+<!ENTITY startExpandedCmd.accesskey    "S">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "開啟">
 <!ENTITY openAttachmentCmd.accesskey    "O">
@@ -103,3 +107,4 @@
 <!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "在瀏覽器開啟此 Message-ID 的郵件">
 <!ENTITY OpenBrowserWithMsgId.accesskey "B">
+

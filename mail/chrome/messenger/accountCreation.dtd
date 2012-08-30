@@ -7,7 +7,7 @@
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "姓名">
 <!ENTITY name.text                       "您的名字，用於顯示在您的郵件上">
-<!ENTITY email.label                     "Email 位址:">
+<!ENTITY email.label                     "電子郵件地址:">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "密碼:">
@@ -86,3 +86,4 @@
 <!ENTITY insecureUnencrypted.description "您的 E-mail 與認證在傳送期間將不會加密，因此您的密碼（與您的郵件）很容易遭人側錄。&brandShortName; 還是會讓您存取您的郵件，但建議您要求您的電子郵件提供者開放可透過安全方式連線的伺服器。">
 <!ENTITY insecureSelfSigned.description  "伺服器使用了我們無法信任的憑證，所以我們無法確認是不是有人會中途擷取伺服器與 &brandShortName; 之間的通訊內容。 &brandShortName; 將會讓您傳送郵件，但您應該告知您的電子郵件提供者使用受信任的憑證。">
 <!ENTITY secureServer.description        "恭喜！ 這是個安全的伺服器。">
+

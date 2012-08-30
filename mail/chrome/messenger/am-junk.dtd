@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "垃圾郵件設定">
-<!ENTITY trainingDescription.label "若啟用，您必須透過垃圾信件工具列上的按鈕來將訊息標示為垃圾郵件或非垃圾郵件，以訓練 &brandShortName; 來識別垃圾信。您必須識別垃圾郵件與非垃圾郵件兩種郵件，在訓練完成之後 &brandShortName; 才能正常地自動標示垃圾郵件。">
+<!ENTITY trainingDescription.label "啟用後，您必須透過垃圾信件工具列上的按鈕來將訊息標示為垃圾郵件或非垃圾郵件（兩種郵件都要），以訓練 &brandShortName; 來識別垃圾信。訓練完成後 &brandShortName; 才能正確地自動標示垃圾郵件。">
 <!ENTITY level.label "對此帳號啟用漸進式垃圾郵件控制">
 <!ENTITY level.accesskey "E">
 
@@ -20,9 +20,10 @@
 <!ENTITY whitelistHeader.label "不要自動將郵件標示為垃圾郵件，若寄件者位於: ">
 <!ENTITY whitelistHeader.accesskey "D">
 
-<!ENTITY ispHeadersWarning.label "若啟用，&brandShortName; 將會自動參考下列外部垃圾郵件分類器的分類結果來識別垃圾郵件。">
+<!ENTITY ispHeadersWarning.label "若啟用，&brandShortName; 將會自動參考上列外部垃圾郵件分類器的分類結果來識別垃圾郵件。">
 <!ENTITY ispHeaders.label "信任下列程式設定的垃圾郵件標頭: ">
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "選取範圍">
-<!ENTITY junkActions.label "目的地與停滯時間">
+<!ENTITY junkActions.label "目的地與保留時間">
+

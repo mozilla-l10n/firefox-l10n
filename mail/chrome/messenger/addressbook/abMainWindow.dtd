@@ -6,27 +6,27 @@
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "檔案">
-<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "新增">
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newContact.label                               "通訊錄連絡人…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "群組名單…">
-<!ENTITY newListCmd.accesskey                           "l">
+<!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "通訊錄…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP 目錄…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
-<!ENTITY newMessageCmd.label                            "郵件">
+<!ENTITY newMessageCmd.label                            "訊息">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "M">
+<!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "使用 Mac OS X 通訊錄">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "關閉">
 <!ENTITY closeCmd.key                                   "W">
-<!ENTITY closeCmd.accesskey                             "C">
+<!ENTITY closeCmd.accesskey                             "c">
 <!ENTITY printSetupCmd.label                            "頁面設定…">
 <!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewContactCmd.label                   "預覽列印連絡人">
@@ -41,24 +41,24 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "編輯">
-<!ENTITY editMenu.accesskey                             "E">
+<!ENTITY editMenu.accesskey                             "e">
 <!ENTITY undoCmd.label                                  "復原">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "U">
+<!ENTITY undoCmd.accesskey                              "u">
 <!ENTITY redoCmd.label                                  "取消「復原」">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "R">
+<!ENTITY redoCmd.accesskey                              "r">
 <!ENTITY cutCmd.label                                   "剪下">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
 <!ENTITY copyCmd.label                                  "複製">
 <!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
+<!ENTITY copyCmd.accesskey                              "c">
 <!ENTITY pasteCmd.label                                 "貼上">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
+<!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "刪除">
-<!ENTITY deleteCmd.accesskey                            "D">
+<!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "刪除通訊錄">
 <!ENTITY deleteContactCmd.label                         "刪除連絡人">
 <!ENTITY deleteContactsCmd.label                        "刪除連絡人">
@@ -68,7 +68,7 @@
 <!ENTITY selectAllCmd.label                             "全選">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "A">
+<!ENTITY selectAllCmd.accesskey                         "a">
 <!ENTITY swapFirstNameLastNameCmd.label                 "交換姓／名的顯示位置">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -80,7 +80,7 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "檢視">
-<!ENTITY viewMenu.accesskey                             "V">
+<!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "工具列">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
 <!ENTITY menubarCmd.label                               "選單列">
@@ -98,15 +98,15 @@
 <!ENTITY showContactPane2.label                         "聯絡人窗格">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "姓名顯示方式">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "[名] [姓] (英式)">
-<!ENTITY firstLastCmd2.accesskey                        "F"> 
+<!ENTITY firstLastCmd2.accesskey                        "f"> 
 <!ENTITY lastFirstCmd.label                             "[姓][名] (中式)">
-<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "顯示名稱">
-<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "排序方式">
 <!ENTITY sortMenu.accesskey                             "S">
 
@@ -114,13 +114,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY tasksMenu.label                                "工具">
 <!ENTITY tasksMenu.accesskey                            "T">
 <!ENTITY messengerCmd.label                             "郵件與新聞群組">
-<!ENTITY messengerCmd.accesskey                         "M">
+<!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "搜尋地址…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "匯入…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "匯出選取的項目…">
+<!ENTITY exportCmd.label                                "匯出…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "選項…">
 <!ENTITY preferencesCmd.accesskey                       "O">
@@ -146,7 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "新增群組寄信名單">
 <!ENTITY editButton2.tooltip                            "編輯選取的項目">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
-<!ENTITY newIM.tooltip                                  "傳送訊息或聊天">
+<!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY deleteButton2.tooltip                           "刪除選取的項目">
 
 <!-- Dir Tree header -->
@@ -155,7 +155,7 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "姓名 或 Email">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "進階地址搜尋">
+<!ENTITY advancedButton.tooltip                         "進階位址搜尋">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "快速搜尋">
 
@@ -176,7 +176,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Department.accesskey                           "r">
 <!ENTITY JobTitle.label                                 "頭銜">
 <!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "行動電話">
+<!ENTITY CellularNumber.label                           "在行動裝置上">
 <!ENTITY CellularNumber.accesskey                       "M">
 <!ENTITY PagerNumber.label                              "呼叫器">
 <!ENTITY PagerNumber.accesskey                          "P">
@@ -190,20 +190,20 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortAscending.accesskey                        "A">
 <!ENTITY sortDescending.label                           "由大到小">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "注音碼">
+<!ENTITY _PhoneticName.label                            "姓名注音">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "連絡資訊">
-<!ENTITY home.heading                                   "首頁">
+<!ENTITY home.heading                                   "住家">
 <!ENTITY other.heading                                  "其他">
 <!ENTITY chat.heading                                   "聊天">
 <!ENTITY phone.heading                                  "電話">
 <!ENTITY work.heading                                   "商務">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "敘述">
-<!ENTITY addresses.heading                              "住址">
+<!ENTITY description.heading                            "描述">
+<!ENTITY addresses.heading                              "地址">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "顯示地圖">
 <!ENTITY mapIt.tooltip                                  "顯示此地址的網路地圖">
@@ -217,3 +217,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "將此程式所有視窗移至最前">
 <!ENTITY zoomWindow.label "縮放">
+
