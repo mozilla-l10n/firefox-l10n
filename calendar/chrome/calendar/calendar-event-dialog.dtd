@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                        "Opciones">
 <!ENTITY  event.menu.options.accesskey                    "O">
-<!ENTITY  event.menu.options.attachments.label                "Adjuntar página web…">
-<!ENTITY  event.menu.options.attachments.accesskey            "w">
 <!ENTITY  event.menu.options.attendees.label              "Invitar participantes…">
 <!ENTITY  event.menu.options.attendees.accesskey          "I">
 <!ENTITY  event.menu.options.spellcheck.label             "Verificar ortografía…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Invitar participantes">
 <!ENTITY  event.toolbar.spellcheck.label                  "Ortografía">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidad">
-<!ENTITY  event.toolbar.attachments.label                 "Adjuntar">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
@@ -338,6 +335,10 @@
 <!ENTITY event.attendee.role.optional           "Asistencia opcional">
 <!ENTITY event.attendee.role.chair              "Coordinador">
 <!ENTITY event.attendee.role.nonparticipant     "No participante">
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Grupo">
+<!ENTITY event.attendee.usertype.resource       "Recurso">
+<!ENTITY event.attendee.usertype.room           "Salón">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Especifique el huso horario">
