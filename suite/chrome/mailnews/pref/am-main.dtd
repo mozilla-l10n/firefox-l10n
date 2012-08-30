@@ -11,7 +11,7 @@
 <!ENTITY identityDesc.label "每個帳號都可以有自己的身份識別資料，這會出現於您寄出的郵件內。">
 <!ENTITY name.label "您的大名:">
 <!ENTITY name.accesskey "Y">
-<!ENTITY email.label "Email 位址:">
+<!ENTITY email.label "電子郵件地址:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "回函位址:">
 <!ENTITY replyTo.accesskey "s">
@@ -39,4 +39,5 @@
 <!ENTITY smtpName.label "寄件伺服器 (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "使用預設伺服器">
+
 

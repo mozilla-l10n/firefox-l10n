@@ -28,8 +28,9 @@
 <!ENTITY globalInbox.label "全域收件匣 (本機郵件匣帳號) ">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "此伺服器帳號的「收件匣」">
-<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "不同帳號的「收件匣」">
-<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "檢查新郵件時包含此伺服器">
 <!ENTITY deferGetNewMail.accesskey "I">
+

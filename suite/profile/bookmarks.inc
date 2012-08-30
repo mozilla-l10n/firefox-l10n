@@ -3,7 +3,7 @@
 # LOCALIZATION NOTE: The 'en-US' strings in some URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're live.
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title 書籤
 #define bookmarks_heading Bookmarks
 
 #define personal_toolbarfolder 書籤工具列
@@ -20,7 +20,7 @@
 
 # LOCALIZATION NOTE (mozilla_org):
 # link title for http://www.mozilla.org/ (in the personal toolbar)
-#define mozilla_org Mozilla 基金會
+#define mozilla_org mozilla.org
 
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for http://www.mozilla.org/ (in normal bookmarks)
@@ -77,11 +77,11 @@
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n Mozilla Taiwan Comminity (MozTW)
+#define seamonkey_l10n  
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
-#define seamonkey_l10n_long <DT><A HREF="http://moztw.org">Mozilla Taiwan Comminity (MozTW)</a> 
+#define seamonkey_l10n_long  
 
 #unfilter emptyLines

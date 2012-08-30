@@ -7,11 +7,11 @@
 
 <!ENTITY closeCmd.label                 "關閉">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "c">
 
-<!ENTITY quitApplicationCmd.label       "結束"> 
+<!ENTITY quitApplicationCmd.label       "離開"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.accesskey   "q">
 
 <!ENTITY redoCmd.key                    "Y">  
 
@@ -30,3 +30,4 @@
 <!ENTITY ctrlKey.label                  "Ctrl">
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Shift">
+
