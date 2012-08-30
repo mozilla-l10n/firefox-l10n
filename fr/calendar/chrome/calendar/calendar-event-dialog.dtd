@@ -137,8 +137,6 @@
 
 <!ENTITY event.menu.options.label "Options">
 <!ENTITY event.menu.options.accesskey "O">
-<!ENTITY event.menu.options.attachments.label "Joindre une page Web…">
-<!ENTITY event.menu.options.attachments.accesskey "W">
 <!ENTITY event.menu.options.attendees.label "Inviter des participants…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
 <!ENTITY event.menu.options.spellcheck.label "Correcteur orthographique…">
@@ -187,7 +185,6 @@
 <!ENTITY event.toolbar.attendees.label "Participants">
 <!ENTITY event.toolbar.spellcheck.label "Orthographe">
 <!ENTITY event.toolbar.privacy.label "Confidentialité">
-<!ENTITY event.toolbar.attachments.label "Joindre">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titre :" >
