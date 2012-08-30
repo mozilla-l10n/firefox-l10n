@@ -297,7 +297,7 @@
 <!ENTITY calendar.server.dialog.name.label          "行事曆名稱:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label                    "色彩:">
+<!ENTITY calendarproperties.color.label                    "顏色:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "名稱:">
 <!ENTITY calendarproperties.readonly.label                 "唯讀">
 <!ENTITY calendarproperties.firealarms.label               "顯示鬧鈴">
-<!ENTITY calendarproperties.cache2.label                   "快取">
+<!ENTITY calendarproperties.cache3.label                   "離線支援">
 <!ENTITY calendarproperties.enabled.label                  "顯示此行事曆">
 <!ENTITY calendarproperties.forceDisabled.label            "無法找到此行事曆的提供者，此狀況通常發生於您停用或移除某些套件。">
 <!ENTITY calendarproperties.unsubscribe.label              "取消訂閱">
@@ -348,3 +348,4 @@
 <!ENTITY calendar.error.code "錯誤代碼:">
 <!ENTITY calendar.error.description "描述:">
 <!ENTITY calendar.error.title "發生錯誤">
+

@@ -37,7 +37,7 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+<!ENTITY lightning.calendarproperties.email.label               "電子郵件:">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "此郵件包含事件的邀請。">
@@ -61,3 +61,4 @@
 <!ENTITY todaypane.showTodayPane.label "顯示今日視窗">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
 <!ENTITY todaypane.statusButton.label "今日窗格">
+

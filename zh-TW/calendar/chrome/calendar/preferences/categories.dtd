@@ -16,9 +16,10 @@
 <!ENTITY pref.categories.removeButton.label "移除">
 <!ENTITY pref.categories.removeButton.accesskey "R">
 <!ENTITY pref.categories.name.label "名稱">
-<!ENTITY pref.categories.color.label "色彩">
+<!ENTITY pref.categories.color.label "顏色">
 <!ENTITY pref.categories.usecolor.label "使用色彩">
 <!ENTITY pref.categories.none.label "(無)">
 <!ENTITY pref.categories.overwrite "有相同名稱的類別存在。\n 您要覆寫嗎？">
 <!ENTITY pref.categories.overwrite.title "警告: 重複的名稱">
 <!ENTITY pref.categories.noBlankCategories "您必須輸入類別名稱。">
+

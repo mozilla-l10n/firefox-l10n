@@ -8,9 +8,10 @@
 <!ENTITY gdata.privacy.default.accesskey "D">
 
 <!ENTITY gdata.migration.title "轉移唯讀的行事曆">
-<!ENTITY gdata.migration.description "在 Google 行事曆上發現您現有的 Google 行事曆只能使用於唯讀模式。若您想要升級行事曆，請在下面選擇">
+<!ENTITY gdata.migration.description "Google Calendar 提供者發現您擁有只能使用於唯讀模式的行事曆。若您想要升級這些行事曆，請在下面選擇">
 <!ENTITY gdata.migration.upgrade.label "升級">
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "總是檢查 ">
 
 <!ENTITY gdata.reminder.action.sms.label "傳送手機簡訊">
+
