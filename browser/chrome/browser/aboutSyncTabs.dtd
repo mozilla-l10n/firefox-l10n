@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
-<!ENTITY tabs.otherComputers.label               "Onglets d'autres ordinateurs">
+<!ENTITY tabs.otherDevices.label               "Onglets d'autres appareils">
 
 <!ENTITY tabs.searchText.label                   "Rechercher des onglets…">
 
