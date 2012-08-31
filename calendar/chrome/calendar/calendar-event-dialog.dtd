@@ -85,8 +85,6 @@
 <!ENTITY event.menu.view.showlink.accesskey "R">
 <!ENTITY event.menu.options.label "Opciones">
 <!ENTITY event.menu.options.accesskey "O">
-<!ENTITY event.menu.options.attachments.label "Adjuntar página web…">
-<!ENTITY event.menu.options.attachments.accesskey "W">
 <!ENTITY event.menu.options.attendees.label "Invitar a asistentes…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
 <!ENTITY event.menu.options.spellcheck.label "Revisar ortografía…">
@@ -132,7 +130,6 @@
 <!ENTITY event.toolbar.attendees.label "Invitar a asistentes">
 <!ENTITY event.toolbar.spellcheck.label "Revisar ortografía">
 <!ENTITY event.toolbar.privacy.label "Privacidad">
-<!ENTITY event.toolbar.attachments.label "Adjuntar">
 <!ENTITY event.title.textbox.label "Título:">
 <!ENTITY event.title.textbox.accesskey "u">
 <!ENTITY event.location.label "Lugar:">
@@ -293,6 +290,10 @@
 <!ENTITY event.attendee.role.optional "Asistente opcional">
 <!ENTITY event.attendee.role.chair "Presidencia">
 <!ENTITY event.attendee.role.nonparticipant "No participante">
+<!ENTITY event.attendee.usertype.individual "Individuo">
+<!ENTITY event.attendee.usertype.group "Grupo">
+<!ENTITY event.attendee.usertype.resource "Recurso">
+<!ENTITY event.attendee.usertype.room "Sala">
 <!ENTITY timezone.title.label "Por favor, especifique la zona horaria">
 <!ENTITY event.timezone.custom.label "Más zonas horarias…">
 <!ENTITY read.only.general.label "General">
