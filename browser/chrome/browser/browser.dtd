@@ -452,7 +452,7 @@
 <!ENTITY downloadMonitor2.tooltip "Fare clic per aprire la finestra dei download">
 <!ENTITY allTabs.filter.emptyText "Cerca tra le schede">
 <!ENTITY tabsToolbar.label "Schede del browser">
-<!ENTITY syncTabsMenu.label "Schede da altri computer">
+<!ENTITY syncTabsMenu2.label "Schede da altri dispositivi">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurazione di &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "y">
