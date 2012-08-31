@@ -11,8 +11,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pour activer votre nouvel appareil, sélectionner « Configurer la synchronisation » sur celui-ci.'>
-<!ENTITY sync.subtitle.header.label 'Saisissez ce code sur votre ordinateur'>
-<!ENTITY sync.subtitle.connectlocation.label 'Sélectionnez « &sync.title.pair.label; » dans la section &syncBrand.shortName.label; des options de Firefox sur votre ordinateur.'>
+<!ENTITY sync.subtitle.header2.label 'Saisissez ce code sur votre appareil'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Sélectionnez « &sync.title.pair.label; » dans la section &syncBrand.shortName.label; des options de Firefox sur votre appareil.'>
 <!ENTITY sync.subtitle.pair.label 'Pour activer, sélectionnez « Associer un appareil » sur votre appareil.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
