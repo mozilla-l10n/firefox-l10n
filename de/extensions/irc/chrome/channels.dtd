@@ -4,8 +4,11 @@
 
 <!ENTITY window.title  "Channel betreten">
 
-<!ENTITY qsearch.label     "Schnellsuche:">
-<!ENTITY qsearch.accesskey "S">
+<!ENTITY network.label     "Netzwerk:">
+<!ENTITY network.accesskey "N">
+
+<!ENTITY channel.label     "Channel:">
+<!ENTITY channel.accesskey "C">
 
 <!ENTITY topics.label     "Themen und Channel-Namen durchsuchen">
 <!ENTITY topics.accesskey "T">
@@ -14,7 +17,7 @@
 <!ENTITY join.accesskey "B">
 
 <!ENTITY minusers.label     "Min. Benutzer:">
-<!ENTITY minusers.accesskey "n">
+<!ENTITY minusers.accesskey "M">
 
 <!ENTITY maxusers.label     "Max. Benutzer:">
 <!ENTITY maxusers.accesskey "x">
@@ -22,6 +25,9 @@
 <!ENTITY refresh.label     "Aktualisieren">
 <!ENTITY refresh.accesskey "A">
 
+<!ENTITY network.hint.label "Geben Sie einen Netzwerk- oder Servernamen (ein Port kann inkludiert werden) und einen Channel zum Betreten an.">
+
+<!ENTITY col.network "Netzwerk">
 <!ENTITY col.name  "Name">
 <!ENTITY col.users "Benutzer">
 <!ENTITY col.topic "Thema">
