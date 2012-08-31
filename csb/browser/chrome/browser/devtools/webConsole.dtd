@@ -4,6 +4,7 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
+<!ENTITY window.title "Kònsola WWW">
 <!ENTITY networkPanel.requestURL                  "Żądóny adres URL">
 <!ENTITY networkPanel.requestMethod               "Metoda żądaniô">
 <!ENTITY networkPanel.statusCode                  "Kòd stónu">

@@ -639,7 +639,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.sharePopup.undo.accesskey "p">
 <!ENTITY devToolbarOtherToolsButton.label "Jiné nôrzãdła">
 <!ENTITY social.sharePopup.shared.label "Mòżesz ùprzistãpnic nã stronã">
-<!ENTITY social.sharePopup.portrait.arialabel "foto-profil brëkòwnika>
+<!ENTITY social.sharePopup.portrait.arialabel "foto-profil brëkòwnika">
 <!ENTITY social.toggleSidebar.label "Wëskrzëni w bòczny lëstwie">
 <!ENTITY social.toggleSidebar.accesskey "b">
 <!ENTITY social.activated.undobutton.label "Copni">
