@@ -4,6 +4,7 @@
 
 <!ENTITY linkToolbar.label "Barra de navegación del sitio web">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "Barra de navegación del sitio web">
 <!ENTITY linkToolbarAlways.label "Mostrar siempre">
 <!ENTITY linkToolbarAlways.accesskey "S">
 <!ENTITY linkToolbarAsNeeded.label "Mostrar sólo cuando sea necesaria">
