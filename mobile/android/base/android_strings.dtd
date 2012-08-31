@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 làithean air ais">
 <!ENTITY history_older_section "Nas sine na 7 làithean">
 
+<!ENTITY go "Rach ann">
+<!ENTITY search "Lorg">
 <!ENTITY reload "Ath-luchdaich">
 <!ENTITY forward "Air adhart">
 <!ENTITY menu "Clàr-taice">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Meadhanach">
 <!ENTITY pref_font_size_large "Mòr">
 <!ENTITY pref_font_size_xlarge "Anabarrach mòr">
+<!ENTITY pref_font_size_set "Set">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
 <!ENTITY pref_private_data_history "Eachdraidh a\' bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
-<!ENTITY pref_private_data_cookies "Briosgaidean">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
 <!ENTITY pref_private_data_cache "An tasgadan">
-<!ENTITY pref_private_data_sessions "Logadh a-steach beò sam bith">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
 <!ENTITY pref_private_data_siteSettings "Roghainnean na làraich">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Àite">
 <!ENTITY bookmark_edit_keyword "Facal-luirg">
 
-<!ENTITY site_settings_title        "Glan roghainnean na làraich">
+<!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "Sguir dheth">
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
 <!ENTITY abouthome_top_sites_title "Sàr-làraichean">
 <!ENTITY abouthome_top_sites_browse "Brabhsaich gach sàr-làrach agad">
-<!ENTITY abouthome_no_top_sites "Chan eil sàr-làrach agad fhathast. Gnog air a\' bhàr-tiotail gus tòiseachadh air brabhsadh.">
-<!ENTITY abouthome_about_sync "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \'s na tabaichean agad o innealan eile agad">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Co-shioncronachadh Firefox">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Tagh faidhle">
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">

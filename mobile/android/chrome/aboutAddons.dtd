@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title                      "Manaidsear nan tuilleadan">
+<!ENTITY aboutAddons.title2                     "Tuilleadain">
 <!ENTITY aboutAddons.header2                    "Na tuilleadain agad">
 <!ENTITY aboutAddons.options                    "Roghainnean">
 
