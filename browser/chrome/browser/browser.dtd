@@ -452,7 +452,7 @@
 <!ENTITY downloadMonitor2.tooltip "Щёлкните, чтобы открыть окно загрузок">
 <!ENTITY allTabs.filter.emptyText "Поиск вкладок">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
-<!ENTITY syncTabsMenu.label "Вкладки с других компьютеров">
+<!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Настроить &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "с">
