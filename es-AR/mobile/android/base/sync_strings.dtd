@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Para activar tu nuevo dispositivo, seleccioná “Configurar &syncBrand.shortName.label;” en el dispositivo.'>
-<!ENTITY sync.subtitle.header.label 'Poné este código en tu computadora'>
-<!ENTITY sync.subtitle.connectlocation.label 'Seleccioná “&sync.title.pair.label;” en la sección &syncBrand.shortName.label; de las opciones de Firefox en tu PC de escritorio.'>
+<!ENTITY sync.subtitle.header2.label 'Poné este código en tu otro dispositivo'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Seleccioná “&sync.title.pair.label;” en la sección &syncBrand.shortName.label; de las opciones de Firefox en tu otro dispositivo.'>
 <!ENTITY sync.subtitle.pair.label 'Para activar, seleccioná “Asociar un dispositivo” en tu otro dispositivo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -92,4 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar &syncBrand.shortName.label; para enviar pestañas'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar &syncBrand.fullName.label; en tu dispositivo para enviar pestañas a otros dispositivos.'>
 <!ENTITY sync.text.tab.sent.label '¡Tu pestaña fue enviada!'>
-<!ENTITY sync.text.tab.not.sent.label 'Hubo un problema enviando tu pestaña.'>
+<!ENTITY sync.text.tab.not.sent.label 'Hubo un problema enviando tu pestañasync.subtitle.connectlocatio.'>
