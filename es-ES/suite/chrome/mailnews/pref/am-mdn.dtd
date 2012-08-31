@@ -5,6 +5,8 @@
 <!ENTITY pane.title "Acuses de recibo">
 <!ENTITY useGlobalPrefs.label "Usar preferencias globales de acuse de recibo para esta cuenta">
 <!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY globalReceipts.label "Preferencias generales…">
+<!ENTITY globalReceipts.accesskey "P">
 <!ENTITY useCustomPrefs.label "Personalizar acuse de recibo para esta cuenta">
 <!ENTITY useCustomPrefs.accesskey "C">
 <!ENTITY requestReceipt.label "Al enviar mensajes, solicitar siempre un acuse de recibo">
