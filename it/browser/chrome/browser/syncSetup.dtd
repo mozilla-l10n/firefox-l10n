@@ -76,13 +76,13 @@
 <!ENTITY engine.addons.accesskey "o">
 <!ENTITY choice2a.merge.main.label "Unisci i dati di questo dispositivo con quelli di &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Consigliato:">
-<!ENTITY choice2a.client.main.label "Sostituisci tutti i dati presenti su questo dispositivo con quelli di &syncBrand.shortName.label;">
+<!ENTITY choice2a.client.main.label "Sostituisci tutti i dati presenti in questo dispositivo con quelli di &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label "Sostituisci i dati di tutti gli altri dispositivi con i dati di questo dispositivo">
 <!ENTITY setup.optionsConfirmPage.title "Conferma">
 <!ENTITY confirm.merge2.label "Si è deciso di unire i dati di questo dispositivo con i dati degli altri dispositivi connessi a &syncBrand.fullName.label;.">
-<!ENTITY confirm.client3.label "Attenzione, i seguenti dati di &brandShortName; presenti su questo dispositivo verranno eliminati:">
+<!ENTITY confirm.client3.label "Attenzione, i seguenti dati di &brandShortName; presenti in questo dispositivo verranno eliminati:">
 <!ENTITY confirm.client2.moreinfo.label "I dati di &brandShortName; verranno copiati da &syncBrand.fullName.label; su questo dispositivo.">
-<!ENTITY confirm.server2.label "Attenzione, i dati presenti sui seguenti dispositivi verranno sostituiti dai dati presenti in locale:">
+<!ENTITY confirm.server2.label "Attenzione, i dati presenti nei seguenti dispositivi verranno sostituiti dai dati presenti in locale:">
 <!ENTITY setup.successPage.title "Configurazione completata">
 <!ENTITY changeOptions.label "È possibile modificare questa preferenza selezionando Opzioni di sincronizzazione.">
 <!ENTITY continueUsing.label "Adesso è possibile tornare a utilizzare &brandShortName;.">
