@@ -627,8 +627,8 @@ toolbar button -->
 <!ENTITY enterFullScreenCmd.accesskey "h">
 <!ENTITY exitFullScreenCmd.label "Sciòrti da a tùtto schèrmo">
 <!ENTITY exitFullScreenCmd.accesskey "h">
-<!ENTITY fullscreenAllowButton.label "Permétti">
-<!ENTITY fullscreenExitButton.label "No permétte">
+<!ENTITY fullscreenAllowButton.label "Sci">
+<!ENTITY fullscreenExitButton.label "No">
 <!ENTITY fullscreenApproval.value "Vànni a tùtto schèrmo?">
 <!ENTITY fullscreenExitHint.value "Sciàcca ESC pe sciortî dò-u mòddo a tùtto schèrmo">
 <!ENTITY leaveDOMFullScreen.label "Sciòrti da a tùtto schèrmo">
