@@ -611,8 +611,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Pestañas de otras computadoras">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu2.label     "Pestañas de otros dispositivos">
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
