@@ -55,3 +55,7 @@
 <!ENTITY folderQuotaRoot.label "Cuota raíz:">
 <!ENTITY folderQuotaUsage.label "Uso:">
 <!ENTITY folderQuotaStatus.label "Estado:">
+<!ENTITY numberOfMessages.label "Número de mensajes:">
+<!ENTITY numberUnknown.label "desconocido">
+<!ENTITY sizeOnDisk.label "Tamaño en disco:">
+<!ENTITY sizeUnknown.label "desconocido">

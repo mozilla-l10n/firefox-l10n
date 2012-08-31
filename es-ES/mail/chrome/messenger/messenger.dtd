@@ -468,6 +468,8 @@
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Limpiar historial reciente…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Configuración de las cuentas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
@@ -505,6 +507,7 @@
 <!ENTITY folderLocationToolbarItem.title "Ubicación de la carpeta">
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compactar">
+<!ENTITY appmenuButton.label "AppMenu">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de mensajes">
 <!ENTITY getMsgButton.tooltip "Recibir mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
@@ -533,6 +536,12 @@
 <!ENTITY chatButton.tooltip "Mostrar la pestaña de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta seleccionada">
+<!ENTITY appmenuButton.tooltip "Muestra el menú de aplicaciones">
+<!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
+<!ENTITY appmenuNewContactCmd.label "Contacto de la libreta de direcciones…">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuQFBMenu.label "Barra de filtrado rápido">
+<!ENTITY appmenuToolbarLayout.label "Disposición de la barra de herramientas…">
 <!ENTITY addNewTag.label "Nueva etiqueta…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Administrar etiquetas…">
