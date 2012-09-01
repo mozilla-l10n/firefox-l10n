@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "回执">
 <!ENTITY useGlobalPrefs.label         "对此帐号使用我的全局返回邮件回执设置">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "全局首选项…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "为此帐号定制返回的邮件回执">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "发送消息时，总是要求得到邮件回执">
