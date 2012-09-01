@@ -56,8 +56,8 @@
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "查看背景图像">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setWallpaperCmd.label        "设为桌面">
-<!ENTITY setWallpaperCmd.accesskey    "A">
+<!ENTITY setDesktopBackgroundCmd.label     "设为桌面背景…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "将此标签页设为书签">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "将此链接加为书签">
