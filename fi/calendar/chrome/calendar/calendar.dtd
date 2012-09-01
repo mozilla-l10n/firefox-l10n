@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Nimi:">
 <!ENTITY calendarproperties.readonly.label                 "Vain luku">
 <!ENTITY calendarproperties.firealarms.label               "Näytä muistutukset">
-<!ENTITY calendarproperties.cache2.label                   "Välimuisti">
+<!ENTITY calendarproperties.cache3.label                   "Yhteydettömän tilan tuki">
 <!ENTITY calendarproperties.enabled.label                  "Tämä kalenteri on aktiivinen">
 <!ENTITY calendarproperties.forceDisabled.label            "Tämän kalenterin tuottajaa ei löytynyt. Tämä tapahtuu usein tiettyjen lisäosien poistamisen tai käytöstä poistamisen jälkeen.">
 <!ENTITY calendarproperties.unsubscribe.label              "Peruuta tilaus">
