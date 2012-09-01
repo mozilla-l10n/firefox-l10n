@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "日历工具栏">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "任务工具栏">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "同步">
 <!ENTITY lightning.toolbar.delete.label "删除">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "打印">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "邮件">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
 <!ENTITY lightning.toolbar.calendar.label     "日历">
 <!ENTITY lightning.toolbar.calendar.tooltip   "切换到日历选项卡">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
