@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "网站导航栏">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "网站导航栏">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "总是显示">

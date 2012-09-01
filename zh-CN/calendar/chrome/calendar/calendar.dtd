@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "名称：">
 <!ENTITY calendarproperties.readonly.label                 "只读">
 <!ENTITY calendarproperties.firealarms.label               "显示提醒">
-<!ENTITY calendarproperties.cache2.label                   "高速缓存">
+<!ENTITY calendarproperties.cache3.label                   "离线支持">
 <!ENTITY calendarproperties.enabled.label                  "启用此日历">
 <!ENTITY calendarproperties.forceDisabled.label            "未找到该日历的提供者，常见原因是你禁用或者卸载了某些附加组件。">
 <!ENTITY calendarproperties.unsubscribe.label              "取消订阅">
