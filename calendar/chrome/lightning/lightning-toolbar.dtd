@@ -35,9 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY lightning.toolbar.calendar.name "Kalenterityökalupalkki">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Tehtävätyökalupalkki">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Synkronoi">
 <!ENTITY lightning.toolbar.delete.label "Poista">
@@ -46,8 +46,6 @@
 <!ENTITY lightning.toolbar.print.label "Tulosta">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Sähköposti">
-<!ENTITY lightning.toolbar.mail.accesskey     "S">
 <!ENTITY lightning.toolbar.calendar.label     "Kalenteri">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Siirry Kalenteri-välilehteen">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">

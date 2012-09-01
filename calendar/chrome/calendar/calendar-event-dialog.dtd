@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Valinnat">
 <!ENTITY  event.menu.options.accesskey                        "V">
-<!ENTITY  event.menu.options.attachments.label                "Lisää verkkosivu liitteeksi…">
-<!ENTITY  event.menu.options.attachments.accesskey            "L">
 <!ENTITY  event.menu.options.attendees.label                  "Kutsu osallistujia…">
 <!ENTITY  event.menu.options.attendees.accesskey              "K">
 <!ENTITY  event.menu.options.spellcheck.label                 "Oikolue…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Kutsu osallistujia">
 <!ENTITY  event.toolbar.spellcheck.label                  "Oikoluku">
 <!ENTITY  event.toolbar.privacy.label                     "Tietosuoja">
-<!ENTITY  event.toolbar.attachments.label                 "Lisää liite">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Otsikko:" >
@@ -338,6 +335,10 @@
 <!ENTITY event.attendee.role.optional           "Mahdollinen osallistuja">
 <!ENTITY event.attendee.role.chair              "Puheenjohtaja">
 <!ENTITY event.attendee.role.nonparticipant     "Ei osallistuva">
+<!ENTITY event.attendee.usertype.individual     "Yksittäinen henkilö">
+<!ENTITY event.attendee.usertype.group          "Ryhmä">
+<!ENTITY event.attendee.usertype.resource       "Resurssi">
+<!ENTITY event.attendee.usertype.room           "Huone">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Määritä aikavyöhyke">
