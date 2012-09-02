@@ -1,5 +1,5 @@
 <!ENTITY titledefault.label "&brandFullName;">
-<!ENTITY titleSeparator.label "-">
+<!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe…">
