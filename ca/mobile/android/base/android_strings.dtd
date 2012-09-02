@@ -146,7 +146,7 @@
 <!ENTITY reading_list "Llista de lectura">
 <!ENTITY reading_list_added "S\'ha afegit a la vostra pàgina de lectura">
 <!ENTITY reading_list_removed "S\'ha suprimit de la vostra pàgina de lectura">
-<!ENTITY reading_list_failed "No s'ha pogut afegir la pàgina a la vostra llista de lectura">
+<!ENTITY reading_list_failed "No s\'ha pogut afegir la pàgina a la vostra llista de lectura">
 <!ENTITY reader_mode "mode lector">
 
 <!ENTITY masterpassword_create_title "Crea una contrasenya mestra">
@@ -188,8 +188,8 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "funciona mitjançant">
 
-<!ENTITY private_data_success "S'han netejat les dades privades">
-<!ENTITY private_data_fail "No s'han pogut netejar algunes dades privades">
+<!ENTITY private_data_success "S\'han netejat les dades privades">
+<!ENTITY private_data_fail "No s\'han pogut netejar algunes dades privades">
 
 <!ENTITY bookmarkhistory_button_import "Importa">
 <!ENTITY bookmarkhistory_import_both "S\'estan important les adreces d\'interès i historial 
