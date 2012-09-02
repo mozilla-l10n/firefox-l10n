@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip           "停止載入此網頁">
 <!ENTITY goEndCap.tooltip             "按此瀏覽位址列中的網址">
 <!ENTITY printButton.label            "列印">
-<!ENTITY printButton.tooltip          "列印頁面">
+<!ENTITY printButton.tooltip          "列印此頁">
 
 <!ENTITY backForwardItem.title        "上一頁／下一頁">
 <!ENTITY locationItem.title           "位址">
@@ -254,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "刪除節點">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
-
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "檢測器選項">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "把頁面調暗">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "顯示節點資訊">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -631,8 +621,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "瀏覽器分頁">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "來自其他電腦的分頁">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu2.label     "來自其他裝置的分頁">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
