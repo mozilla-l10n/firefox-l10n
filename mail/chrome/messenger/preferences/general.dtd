@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "浏览…">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "附加组件">
-<!ENTITY manageAddonsDescWin.label        "更改附加组件选项">
-<!ENTITY manageAddonsDescUnix2.label      "更改附加组件首选项">
-<!ENTITY manageAddons.label               "管理附加组件…">
-<!ENTITY manageAddons.accesskey           "M">
