@@ -189,11 +189,6 @@
 <!ENTITY inspectorHTMLCopyOuter.accesskey "O">
 <!ENTITY inspectorHTMLDelete.label "Eliminar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "m">
-<!ENTITY inspectOptionButton.tooltiptext "Opciones del inspector">
-<!ENTITY inspectorToggleVeil.label "Atenuar la página">
-<!ENTITY inspectorToggleVeil.accesskey "A">
-<!ENTITY inspectorToggleInfobar.label "Mostrar información del nodo">
-<!ENTITY inspectorToggleInfobar.accesskey "S">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Estilo">
@@ -457,7 +452,7 @@
 <!ENTITY downloadMonitor2.tooltip "Clic para abrir la ventana de descargas">
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
-<!ENTITY syncTabsMenu.label "Pestañas de otros dispositivos">
+<!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "f">
@@ -478,5 +473,5 @@
 <!ENTITY social.sharePopup.portrait.arialabel "Imagen de perfil de usuario">
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
-<!ENTITY social.activated.button.label "¡Uy! deshacer">
-<!ENTITY social.activated.button.accesskey "u">
+<!ENTITY social.activated.undobutton.label "Deshacer">
+<!ENTITY social.activated.undobutton.accesskey "h">
