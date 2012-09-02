@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Torna-ho a provar">
 <!ENTITY sync.button.manual.label "Configuració manual">
 <!ENTITY sync.subtitle.nointernet.label "No hi ha cap connexió a Internet disponible.">
+<!ENTITY sync.subtitle.failaccount.label "Ha fallat la creació del compte al dispositiu.">
+<!ENTITY sync.subtitle.failmultiple.label "Teniu més d'un Firefox instal·lat? Actualment, el &syncBrand.fullName.label; només permet una instal·lació del Firefox alhora. Desinstal·leu les altres instàncies per poder utilitzar el &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "S\'ha finalitzat la configuració">
@@ -50,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Torna-ho a provar.">
-<!ENTITY sync.pair.connectlocation.label 'Per activar el nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» al dispositiu, i després seleccioneu «Tinc un compte».'>
+<!ENTITY sync.pair.connectlocation.label "Per activar el nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» al dispositiu, i després seleccioneu «Tinc un compte».">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opcions">
@@ -78,4 +80,15 @@
 <!ENTITY sync.notification.oneaccount.label "Només es permet un compte de &syncBrand.fullName.label;">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "El nom del compte o de la contrasenya són incorrectes.">
+<!ENTITY sync.invalidserver.label "Introduïu un URL de servidor vàlid">
+<!ENTITY sync.verifying.label "S'està verificant…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Recovery Key incorrect. Please try again.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Envia la pestanya als dispositius">
+<!ENTITY sync.button.send.label "Envia">
+<!ENTITY sync.button.set.up.sync.label "Configura el &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Configura el &syncBrand.shortName.label; per enviar pestanyes">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configura el &syncBrand.fullName.label; en el dispositiu per enviar pestanyes a d'altres.">
+<!ENTITY sync.text.tab.sent.label "S'ha enviat la pestanya!">

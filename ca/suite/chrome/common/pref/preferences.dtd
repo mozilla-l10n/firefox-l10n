@@ -30,6 +30,7 @@
 <!ENTITY advance.label "Avançat">
 <!ENTITY down.label "Baixades">
 <!ENTITY cache.label "Memòria cau">
+<!ENTITY offlineApps.label "Aplicacions fora de línia">
 <!ENTITY proxies.label "Servidors intermediaris">
 <!ENTITY httpnetworking.label "Xarxa HTTP">
 <!ENTITY smart.label "Instal·lació de programari">

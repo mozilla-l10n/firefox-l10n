@@ -487,7 +487,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.offline            "Fora de línia">
 <!ENTITY imStatus.showAccounts       "Mostra els comptes…">
 <!ENTITY joinChatCmd.label "Uniu-vos al xat...">
-<!ENTITY joinChatCmd.accesskey "u">
+<!ENTITY joinChatCmd.accesskey "U">
 <!ENTITY savedFiles.label "Fitxers desats">
 <!ENTITY savedFiles.accesskey "d">
 <!ENTITY savedFiles.key "j">
@@ -583,6 +583,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addNewTag.label "Afegeix una etiqueta…">
 <!ENTITY addNewTag.accesskey "n">
+<!ENTITY manageTags.label "Gestiona les etiquetes…">
+<!ENTITY manageTags.accesskey "G">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Nom">

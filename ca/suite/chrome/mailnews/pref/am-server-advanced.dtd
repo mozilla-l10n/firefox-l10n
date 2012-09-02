@@ -5,7 +5,7 @@
 <!ENTITY serverAdvanced.label "Paràmetres avançats del compte">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP server directory:">
-<!ENTITY serverDirectory.accesskey "p">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Mostra només les carpetes subscrites">
 <!ENTITY usingSubscription.accesskey "o">
 <!ENTITY dualUseFolders.label "El servidor permet l'ús de carpetes que contenen subcarpetes i missatges">
