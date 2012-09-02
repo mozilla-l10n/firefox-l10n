@@ -9,8 +9,8 @@
 <!ENTITY sync.title.adddevice.label "Añadir una cuenta de &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Emparejar un dispositivo">
 <!ENTITY sync.subtitle.connect.label 'Para activar un nuevo dispositivo, seleccione \"Configurar &syncBrand.shortName.label;\" en su dispositivo.'>
-<!ENTITY sync.subtitle.header.label "Escriba este código en su equipo">
-<!ENTITY sync.subtitle.connectlocation.label "Seleccione “&sync.title.pair.label;” en la sección &syncBrand.shortName.label; de las preferencias de su Firefox de escritorio.">
+<!ENTITY sync.subtitle.header2.label "Escriba este código en su otro dispositivo">
+<!ENTITY sync.subtitle.connectlocation2.label "Seleccione “&sync.title.pair.label;” en la sección de &syncBrand.shortName.label; en las preferencias de su otro dispositivo con Firefox.">
 <!ENTITY sync.subtitle.pair.label 'Para activarlo, seleccione \"Emparejar un dispositivo\" en su otro dispositivo.'>
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
