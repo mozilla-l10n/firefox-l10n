@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "错误控制台">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "清除最近历史记录…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "文件夹地址">
 <!ENTITY tagButton.label "标签">
 <!ENTITY compactButton.label "压缩">
+<!ENTITY appmenuButton.label "应用菜单">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "高级消息搜索">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "显示聊天选项卡">
 <!ENTITY tagButton.tooltip "为消息添加标签">
 <!ENTITY compactButton.tooltip "从选中文件夹移除已删除消息">
+<!ENTITY appmenuButton.tooltip "显示应用程序菜单">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "新建消息">
+<!ENTITY appmenuNewContactCmd.label "通讯录联系人…">
+<!ENTITY appmenuEditMenu.label "编辑">
+<!ENTITY appmenuQFBMenu.label "快速过滤栏">
+<!ENTITY appmenuToolbarLayout.label "工具栏布局…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "新建标签…">
