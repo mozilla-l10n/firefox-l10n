@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label '设置 &syncBrand.shortName.label; 以发送标签页'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '在您的设备上设置 &syncBrand.fullName.label; 以发送标签页到其他设备。'>
 <!ENTITY sync.text.tab.sent.label '您的标签页已发送！'>
+<!ENTITY sync.text.tab.not.sent.label '发送您的标签页时遇到问题。'>

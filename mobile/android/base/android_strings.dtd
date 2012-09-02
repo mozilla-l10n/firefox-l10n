@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "七天前">
 <!ENTITY history_older_section "早于七天">
 
+<!ENTITY go "转到">
+<!ENTITY search "搜索">
 <!ENTITY reload "重新加载">
 <!ENTITY forward "前进">
 <!ENTITY menu "菜单">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "中">
 <!ENTITY pref_font_size_large "大">
 <!ENTITY pref_font_size_xlarge "超大">
+<!ENTITY pref_font_size_set "设置">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we're free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "使用主密码">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "显示搜索建议">
 <!ENTITY pref_import_android "从安卓系统导入">
 <!ENTITY pref_private_data_history "浏览和下载历史">
 <!ENTITY pref_private_data_formdata "表单和搜索历史">
-<!ENTITY pref_private_data_cookies "Cookie">
+<!ENTITY pref_private_data_cookies2 "Cookie 以及活动登录会话">
 <!ENTITY pref_private_data_passwords "已保存密码">
 <!ENTITY pref_private_data_cache "高速缓存">
-<!ENTITY pref_private_data_sessions "已登录会话">
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings "网站偏好">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "地址">
 <!ENTITY bookmark_edit_keyword "关键字">
 
-<!ENTITY site_settings_title        "清空站点设置">
+<!ENTITY site_settings_title2       "网站设置…">
 <!ENTITY site_settings_cancel       "取消">
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "无需要清空的设置。">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "打开上一次的所有标签页">
 <!ENTITY abouthome_top_sites_title "热门网站">
 <!ENTITY abouthome_top_sites_browse "浏览您的所有热门网站">
-<!ENTITY abouthome_no_top_sites "您还没有热门网站。轻击标题栏即可开始浏览。">
-<!ENTITY abouthome_about_sync "设置 Firefox 同步后即可从其他设备访问书签，历史记录以及标签页">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "设置 Firefox 同步 以访问你的其他设备上的书签、历史记录和标签页&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "从 Mozilla 市场获取应用并探索其中的佼佼者&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox 同步">
+<!ENTITY abouthome_apps_bold_name "Mozilla 市场">
 
 <!ENTITY filepicker_title "选择文件">
 <!ENTITY filepicker_audio_title "选择或者录制一段声音">
