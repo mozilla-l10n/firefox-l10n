@@ -4,13 +4,13 @@
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY sync.app.name.label "Configuración de &syncBrand.fullName.label;">
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Conectar a &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Añadir una cuenta de &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Emparejar un dispositivo">
 <!ENTITY sync.subtitle.connect.label 'Para activar un nuevo dispositivo, seleccione \"Configurar &syncBrand.shortName.label;\" en su dispositivo.'>
 <!ENTITY sync.subtitle.header.label "Escriba este código en su equipo">
-<!ENTITY sync.subtitle.connectlocation.label "Seleccione “&sync.title.pair.label;” en la sección &syncBrand.shortName.label; de las preferencias de su Firefox de escritorio.">
+<!ENTITY sync.subtitle.connectlocation.label "Seleccione “&sync.title.pair.label;” en las opciones de &syncBrand.shortName.label; en su navegador de escritorio.">
 <!ENTITY sync.subtitle.pair.label 'Para activarlo, seleccione \"Emparejar un dispositivo\" en su otro dispositivo.'>
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -42,7 +42,7 @@
 <!ENTITY sync.button.cancel.label "Cancelar">
 <!ENTITY sync.button.connect.label "Conectar">
 <!ENTITY sync.button.ok.label "Aceptar">
-<!ENTITY sync.account.label.label "Configuración de &syncBrand.fullName.label;">
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!ENTITY bookmarks.folder.menu.label "Menú de marcadores">
 <!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
@@ -62,3 +62,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar &syncBrand.shortName.label; para enviar pestañas">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar &syncBrand.fullName.label; en su dispositivo para enviar pestañas a otros equipos.">
 <!ENTITY sync.text.tab.sent.label "¡Su pestaña ha sido enviada!">
+<!ENTITY sync.text.tab.not.sent.label "Hubo un problema al enviar su pestaña.">
