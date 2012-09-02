@@ -138,8 +138,6 @@
 
 <!ENTITY  event.menu.options.label                            "Opcións">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attachments.label                "Anexar páxina web…">
-<!ENTITY  event.menu.options.attachments.accesskey            "w">
 <!ENTITY  event.menu.options.attendees.label                  "Invitar á asistentes…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.spellcheck.label                 "Verificación ortográfica…">
@@ -188,7 +186,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Invitar á asistentes">
 <!ENTITY  event.toolbar.spellcheck.label                  "Revisar a ortografía">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
-<!ENTITY  event.toolbar.attachments.label                 "Anexar">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
