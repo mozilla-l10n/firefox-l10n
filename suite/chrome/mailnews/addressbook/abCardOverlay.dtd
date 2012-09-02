@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "Fonètica:">
 <!ENTITY DisplayName.label              "Nom a mostrar:">
 <!ENTITY DisplayName.accesskey          "m">
+<!ENTITY preferDisplayName.label        "Es prefereix mostrar sempre el nom sobre la capçalera del missatge">
+<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY NickName.label                 "Sobrenom:">
 <!ENTITY NickName.accesskey             "S">
 

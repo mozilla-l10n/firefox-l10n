@@ -540,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label "No és cap missatge fraudulent">
 <!-- MDN Bar -->
 
-<!ENTITY mdnBarMessage.label "El remitent d'aquest missatge ha demanat que se li enviï una notificació quan hàgiu llegit aquest missatge. Voleu que se li enviï la notificació?">
 <!ENTITY mdnBarIgnoreButton.label "Ignora la sol·licitud">
+<!ENTITY mdnBarIgnoreButton.accesskey "l">
 <!ENTITY mdnBarSendButton.label "Envia la notificació">
+<!ENTITY mdnBarSendButton.accesskey "v">

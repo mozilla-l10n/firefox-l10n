@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY adaptiveJunkLog.title "Registre de correu brossa adaptatiu">
-<!ENTITY adaptiveJunkLogInfo.label "Registre de l'activitat de control de correu brossa adaptatiu.">
-<!ENTITY clearLog.label "Buida el registre">
-<!ENTITY clearLog.accesskey "B">
+<!ENTITY adaptiveJunkLogInfo.label "Registre de l'activitat de control de correu brossa adaptatiu">
+<!ENTITY clearLog.label "Neteja el registre">
+<!ENTITY clearLog.accesskey "N">
 <!ENTITY closeLog.label "Tanca">
 <!ENTITY closeLog.accesskey "c">

@@ -8,7 +8,7 @@
 <!ENTITY importMail.label         "Correu">
 <!ENTITY importMail.accesskey     "C">
 <!ENTITY importFeeds.label        "Subscripcions al canal de notícies">
-<!ENTITY importFeeds.accesskey    "s">
+<!ENTITY importFeeds.accesskey    "S">
 <!ENTITY importAddressbook.label  "Llibretes d'adreces">
 <!ENTITY importAddressbook.accesskey "a">
 <!ENTITY importSettings.label     "Paràmetres">

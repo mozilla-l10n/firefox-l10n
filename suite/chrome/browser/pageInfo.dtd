@@ -16,11 +16,11 @@
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Copia l'enllaç(os)">
-<!ENTITY  copyLinks.accesskey       "E">
+<!ENTITY  copyLinks.accesskey       "e">
 <!ENTITY  openInNewTab.label        "Obre en una pestanya nova">
-<!ENTITY  openInNewTab.accesskey    "P">
+<!ENTITY  openInNewTab.accesskey    "p">
 <!ENTITY  openInNewWindow.label     "Obre en una finestra nova">
-<!ENTITY  openInNewWindow.accesskey "F">
+<!ENTITY  openInNewWindow.accesskey "f">
 
 <!ENTITY  generalTab            "General">
 <!ENTITY  generalTab.accesskey  "G">
