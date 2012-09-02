@@ -329,6 +329,10 @@
 <!ENTITY event.attendee.role.optional           "可選擇與會者">
 <!ENTITY event.attendee.role.chair              "主席">
 <!ENTITY event.attendee.role.nonparticipant     "非參加者">
+<!ENTITY event.attendee.usertype.individual     "個人">
+<!ENTITY event.attendee.usertype.group          "群組">
+<!ENTITY event.attendee.usertype.resource       "資源">
+<!ENTITY event.attendee.usertype.room           "空間">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "請指定時區">
