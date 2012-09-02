@@ -1,0 +1,17 @@
+<!-- extracted from content/pref-offlineapps.xul -->
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+
+<!ENTITY pref.offlineapps.title             "Aplicacions web fora de línia">
+<!ENTITY pref.offlineCache.caption          "Contingut web fora de línia i dades de l'usuari">
+
+<!ENTITY clearOfflineAppCache.label         "Neteja">
+<!ENTITY clearOfflineAppCache.accesskey     "N">
+
+<!ENTITY offlineNotify.label                "Notifiqueu-me quan un lloc web vulgui emmagatzemar dades per al seu ús fora de línia">
+<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineNotifyPermissions.label     "Gestiona els permisos">
+<!ENTITY offlineNotifyPermissions.accesskey "p">
+
+<!ENTITY offlineAppsList.label              "Els llocs web següents estan autoritzats a emmagatzemar dades per el seu ús fora de línia:">
+<!ENTITY offlineAppsListRemove.label        "Neteja les dades…">
+<!ENTITY offlineAppsListRemove.accesskey    "N">
