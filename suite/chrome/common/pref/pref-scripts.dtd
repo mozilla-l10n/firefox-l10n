@@ -15,16 +15,18 @@
 <!ENTITY allowScripts.label              "Permet als scripts:">
 <!ENTITY allowScripts.accesskey          "s">
 <!ENTITY allowWindowMoveResize.label     "Moure o canviar la mida de finestres ja existents">
-<!ENTITY allowWindowFlip.label           "Aixecar o abaixar finestres">
+<!ENTITY allowWindowFlip.label           "Posar finestres en primer o segon pla">
 <!ENTITY allowWindowStatusChange.label   "Canviar el text de la barra d'estat">
 <!ENTITY allowWindowImageSrcChange.label "Canviar les imatges">
 <!ENTITY allowContextmenuDisable.label   "Inhabilitar o reemplaçar menús contextuals">
 <!ENTITY allowHideStatusBar.label        "Amagar la barra d'estat">
 
-<!ENTITY enablePlugin.label              "Habilita els connectors per a:">
+<!ENTITY enablePlugins.label             "Habilita els connectors per a">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "Quan calguin connectors addicionals:">
-<!ENTITY displayNotification.label       "Mostra una barra de notificació a la part superior de l'àrea de contingut">
-<!ENTITY displayNotification.accesskey   "n">
+<!ENTITY whenPageRequiresPlugins.label   "Quan una pàgina necessita extensions">
+<!ENTITY activateAllPlugins.label        "Activa totes les extensions per defecte">
+<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY warnPluginsRequired.label       "Avisa'm si cal instal·lar extensions addicionals">
+<!ENTITY warnPluginsRequired.accesskey   "v">

@@ -84,9 +84,9 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Obre a pantalla completa">
-<!ENTITY enterFullScreenCmd.accesskey "P">
+<!ENTITY enterFullScreenCmd.accesskey "p">
 <!ENTITY exitFullScreenCmd.label "Surt de la pantalla completa">
-<!ENTITY exitFullScreenCmd.accesskey "P">
+<!ENTITY exitFullScreenCmd.accesskey "p">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "r">
 <!ENTITY bookmarkThisPageCmd.label "Afegeix a les adreces d'interès">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Subscriu-me a la pàgina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
@@ -215,9 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "I">
 
 <!ENTITY responsiveDesignTool.label   "Vista de disseny responsiu">
-<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.accesskey "r">
 <!ENTITY responsiveDesignTool.commandkey "M">
-
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -239,11 +239,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tanca la barra per a desenvolupadors">
 <!ENTITY devToolbarMenu.label              "Barra de tasques per a desenvolupadors">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
 
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copia l'HTML interior">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "i">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorToggleVeil.label          "Enfosqueix la pàgina">
 <!ENTITY inspectorToggleVeil.accesskey      "E">
 <!ENTITY inspectorToggleInfobar.label       "Mostra la informació del node">
-<!ENTITY inspectorToggleInfobar.accesskey   "N">
+<!ENTITY inspectorToggleInfobar.accesskey   "n">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -439,8 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY sendPageCmd.label            "Envia la pàgina…">
-<!ENTITY sendPageCmd.accesskey        "v">
+<!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Anomena i desa la pàgina…">
 <!ENTITY savePageCmd.accesskey        "s">
 <!-- alternate for content area context menu -->
@@ -452,20 +452,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Anomena i desa el contingut de l'enllaç…">
 <!ENTITY saveLinkCmd.accesskey        "s">
-<!ENTITY sendLinkCmd.label            "Envia l'enllaç…"> 
-<!ENTITY sendLinkCmd.accesskey        "i">
 <!ENTITY saveImageCmd.label           "Anomena i desa la imatge…">
 <!ENTITY saveImageCmd.accesskey       "A">
 <!ENTITY saveVideoCmd.label           "Anomena i desa el vídeo…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Anomena i desa l'àudio…">
 <!ENTITY saveAudioCmd.accesskey       "u">
-<!ENTITY sendImageCmd.label           "Envia la imatge…">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Envia el vídeo…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Envia l'àudio…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Envia la imatge per correu…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Envia el vídeo per correu…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Envia l'àudio per correu…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copia la ubicació de la imatge">
@@ -655,3 +653,11 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Botó de barra social">
+<!ENTITY social.notLoggedIn.label   "No s'ha iniciat la sessió">
+
+<!ENTITY social.sharePopup.undo.label     "Deixa de compartir">
+<!ENTITY social.sharePopup.undo.accesskey "D">
+<!ENTITY social.sharePopup.ok.label       "D'acord">
+<!ENTITY social.sharePopup.ok.accesskey   "o">

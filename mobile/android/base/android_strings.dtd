@@ -54,6 +54,7 @@
 
 <!ENTITY close_tab "Tanca la pestanya">
 <!ENTITY new_tab "Pestanya nova">
+<!ENTITY one_tab "1 pestanya">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d pestanyes">
@@ -64,6 +65,7 @@
 <!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "Privadesa i seguretat">
 <!ENTITY pref_category_content "Contingut">
+<!ENTITY pref_category_importexport "Importació i exportació">
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
 <!ENTITY pref_do_not_track "Indica que no em segueixin">
 <!ENTITY pref_telemetry "Envia dades del rendiment">
@@ -72,10 +74,7 @@
 <!ENTITY pref_char_encoding "Mostra la codificació">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
 <!ENTITY pref_char_encoding_off "No mostris el menú">
-<!ENTITY pref_clear_history "Neteja l\'historial">
-<!ENTITY pref_clear_history_confirm "Es suprimirà l\'historial de navegació">
 <!ENTITY pref_clear_private_data "Neteja les dades privades">
-<!ENTITY pref_clear_private_data_confirm "Es suprimiran les opcions de navegació incloses les contrasenyes i les galetes.">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Habilitat">
 <!ENTITY pref_plugins_tap_to_play "Toqueu per engegar">
@@ -88,17 +87,30 @@
 <!ENTITY pref_font_size_xlarge "Molt grossa">
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sincronitza">
+<!ENTITY pref_search_suggestions "Mostra els suggeriments de cerca">
+<!ENTITY pref_import_android "Importa de l\'Android">
+<!ENTITY pref_private_data_history "Historial de navegació i baixades">
+<!ENTITY pref_private_data_formdata "Historial de formularis i cerques">
+<!ENTITY pref_private_data_cookies "Galetes">
+<!ENTITY pref_private_data_passwords "Contrasenyes desades">
+<!ENTITY pref_private_data_cache "Memòria cau">
+<!ENTITY pref_private_data_sessions "Sessions actives">
+<!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
+<!ENTITY pref_private_data_siteSettings "Preferències dels lloc web">
 
 <!ENTITY quit "Surt">
 
 <!ENTITY addons "Complements">
 <!ENTITY downloads "Baixades">
+<!ENTITY apps "Aplicacions">
 <!ENTITY char_encoding "Codificació dels caràcters">
 
 <!ENTITY share "Comparteix">
 <!ENTITY share_title "Comparteix mitjançant">
+<!ENTITY share_image_failed "No es pot compartir la imatge">
 <!ENTITY save_as_pdf "Desa com a PDF">
 <!ENTITY find_in_page "Cerca a la pàgina">
+<!ENTITY desktop_mode "Sol·licita el lloc per a escriptori">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -112,6 +124,9 @@
 <!ENTITY contextmenu_remove_bookmark "Suprimeix">
 <!ENTITY contextmenu_add_to_launcher "Afegeix-ho a la pantalla inicial">
 <!ENTITY contextmenu_share "Comparteix">
+<!ENTITY contextmenu_pasteandgo "Enganxa-ho i vés-hi">
+<!ENTITY contextmenu_paste "Enganxa">
+<!ENTITY contextmenu_copyurl "Copia l\'adreça">
 <!ENTITY contextmenu_edit_bookmark "Edita">
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -128,9 +143,10 @@
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap opció per netejar.">
 
-<!ENTITY add_to_reading_list "S\'ha afegit a la pàgina de lectura">
+<!ENTITY reading_list "Llista de lectura">
 <!ENTITY reading_list_added "S\'ha afegit a la vostra pàgina de lectura">
 <!ENTITY reading_list_removed "S\'ha suprimit de la vostra pàgina de lectura">
+<!ENTITY reading_list_failed "No s\'ha pogut afegir la pàgina a la vostra llista de lectura">
 <!ENTITY reader_mode "mode lector">
 
 <!ENTITY masterpassword_create_title "Crea una contrasenya mestra">
@@ -140,6 +156,7 @@
 
 <!ENTITY button_ok "D\'acord">
 <!ENTITY button_cancel "Cancel·la">
+<!ENTITY button_clear_data "Neteja les dades">
 
 <!ENTITY abouthome_addons_title "Els complements del &brandShortName;">
 <!ENTITY abouthome_addons_browse "Mostra tots els complements del &brandShortName;">
@@ -170,3 +187,17 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "funciona mitjançant">
+
+<!ENTITY private_data_success "S\'han netejat les dades privades">
+<!ENTITY private_data_fail "No s\'han pogut netejar algunes dades privades">
+
+<!ENTITY bookmarkhistory_button_import "Importa">
+<!ENTITY bookmarkhistory_import_both "S\'estan important les adreces d\'interès i historial 
+de l\'Android">
+<!ENTITY bookmarkhistory_import_bookmarks "S\'estan important les adreces d\'interès 
+de l\'Android">
+<!ENTITY bookmarkhistory_import_history "S\'està important l\'historial 
+de l\'Android">
+<!ENTITY bookmarkhistory_import_wait "Espereu…">
+
+<!ENTITY webapp_generic_name "Aplicacions">

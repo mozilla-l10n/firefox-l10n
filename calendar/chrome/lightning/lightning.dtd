@@ -8,7 +8,7 @@
 <!-- Tools menu -->
 
 
-<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.preferencesLabel "Calendari">
 <!-- New menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.new.event.label    "Cita…">
@@ -58,6 +58,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "No mostris res">
 <!ENTITY todaypane.showNone.accesskey "r">
-<!ENTITY todaypane.showTodayPane.label "Mostra el Plafó d'avui">
+<!ENTITY todaypane.showTodayPane.label "Mostra el plafó d'avui">
 <!ENTITY todaypane.showTodayPane.accesskey "a">
 <!ENTITY todaypane.statusButton.label "Plafó d'avui">

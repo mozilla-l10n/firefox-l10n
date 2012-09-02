@@ -5,6 +5,10 @@
 
 <!ENTITY AddToAddressBook.label            "Afegeix a la llibreta d'adreces…">
 <!ENTITY AddToAddressBook.accesskey        "b">
+<!ENTITY EditContact.label                 "Edita el contacte…">
+<!ENTITY EditContact.accesskey             "E">
+<!ENTITY ViewContact.label                 "Mostra el contacte">
+<!ENTITY ViewContact.accesskey             "M">
 <!ENTITY SendMailTo.label                  "Redacta un missatge per a…">
 <!ENTITY SendMailTo.accesskey              "s">
 <!ENTITY CopyEmailAddress.label            "Copia l'adreça electrònica">

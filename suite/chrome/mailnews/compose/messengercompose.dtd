@@ -83,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Confirmació de recepció">
 <!ENTITY returnReceiptMenu.accesskey "r">
+<!ENTITY dsnMenu.label "Notificació d'estat de lliurament">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Detecció automàtica">

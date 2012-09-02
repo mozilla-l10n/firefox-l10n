@@ -19,11 +19,23 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Informeu-vos sobre els connectors o cerqueu manualment els connectors que hi manquen.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Cal que es reiniciï el &brandShortName; per a que els connectors funcionin.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "Ho sentim, però el &brandShortName; no pot reproduir contingut Flash en aquest dispositiu. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Més informació…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
 
 <!ENTITY missingPlugin                                       "Cal un connector per mostrar aquest contingut.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Toqueu aquí per activar el connector.">
 <!ENTITY clickToPlayPlugin                                   "Toqueu aquí per activar el complement.">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Feu clic aquí per activar el connector vulnerable.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Feu clic aquí per activar el connector vulnerable (no n'hi ha cap actualització)">
+<!ENTITY checkForUpdates                                     "Comprova si hi ha actualitzacions…">
 <!ENTITY disabledPlugin                                      "S'ha inhabilitat el connector.">
 <!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
 
