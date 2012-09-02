@@ -14,8 +14,8 @@
 
 <!ENTITY restorepage.tryagainButton "Restaura">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Inicia una sessió nova">
-<!ENTITY restorepage.cancel.access  "s">
+<!ENTITY restorepage.closeButton    "Tanca">
+<!ENTITY restorepage.close.access   "c">
 
 <!ENTITY restorepage.restoreHeader  "Restaura">
 <!ENTITY restorepage.listHeader     "Finestres i pestanyes">

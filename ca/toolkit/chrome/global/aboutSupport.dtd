@@ -48,6 +48,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Context Gràfic (GC) incremental">
 
+<!ENTITY aboutSupport.a11yTitle "Accessibilitat">
+<!ENTITY aboutSupport.a11yActivated "Activat">
+<!ENTITY aboutSupport.a11yForceDisabled "Evita l'accessibilitat">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions de la llibreria">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instal·lació">
