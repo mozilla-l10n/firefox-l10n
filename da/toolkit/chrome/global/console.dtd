@@ -61,7 +61,7 @@
 <!ENTITY copyCmd.accesskey   "K">
 <!ENTITY copyCmd.commandkey  "C">
 <!ENTITY sortFirst.label     "Første > Sidste sorteringsrækkefølge">
-<!ENTITY sortFirst.accesskey "f">
+<!ENTITY sortFirst.accesskey "F">
 <!ENTITY sortLast.label      "Sidste > Første sorteringsrækkefølge">
 <!ENTITY sortLast.accesskey  "S">
 <!ENTITY closeCmd.commandkey "w">

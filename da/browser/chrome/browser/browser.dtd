@@ -318,9 +318,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY clearRecentHistory.accesskey           "R">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Start Privat browsing">
+<!ENTITY privateBrowsingCmd.start.label         "Start privat browsing">
 <!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Stop Privat browsing">
+<!ENTITY privateBrowsingCmd.stop.label          "Stop privat browsing">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
