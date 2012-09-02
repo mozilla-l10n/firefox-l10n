@@ -8,7 +8,7 @@
 <!ENTITY intro.happyLink "Me encanta">
 <!ENTITY intro.sadLink "Tengo algunos problemas">
 <!ENTITY intro.ideaLink "Tengo una idea">
-<!ENTITY support.pre "Si necesita ayuda o tiene un problema con &brandShortName;, por favor visite">
+<!ENTITY support.pre "Si necesita ayuda o tiene un problema con &brandShortName;, por favor visite ">
 <!ENTITY support.link "Asistencia de &brandShortName;">
 <!ENTITY support.post ".">
 <!ENTITY happy.header "¡Esto está bien!">
