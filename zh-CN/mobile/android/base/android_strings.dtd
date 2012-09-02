@@ -12,7 +12,7 @@
 <!ENTITY  awesomebar_all_pages_title "热门网站">
 <!ENTITY  awesomebar_bookmarks_title "书签">
 <!ENTITY  awesomebar_history_title "历史">
-<!ENTITY  awesomebar_search_engine "搜索 \\&quot;&#037;s\\&quot;">
+<!ENTITY  awesomebar_search_engine "搜索 \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
 <!ENTITY  crash_message "&brandShortName; 已崩溃。您的标签页将在重启 &brandShortName; 时列在开始页面。">
