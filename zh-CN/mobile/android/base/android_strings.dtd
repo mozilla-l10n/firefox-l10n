@@ -12,7 +12,7 @@
 <!ENTITY  awesomebar_all_pages_title "热门网站">
 <!ENTITY  awesomebar_bookmarks_title "书签">
 <!ENTITY  awesomebar_history_title "历史">
-<!ENTITY  awesomebar_search_engine "搜索 \&quot;&#037;s\&quot;">
+<!ENTITY  awesomebar_search_engine "搜索 \\&quot;&#037;s\\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
 <!ENTITY  crash_message "&brandShortName; 已崩溃。您的标签页将在重启 &brandShortName; 时列在开始页面。">
@@ -97,7 +97,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we're free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "敏捷的橙色小狐狸以超越预期的速度，灵活度以及安全性跳跃着。作为非营利机构，我们没有任何妥协的压力，能真正以您的名义进行自由的创新。这意味着更好的体验，为您和您的网络创造更加美好的未来。">
 
 <!ENTITY pref_use_master_password "使用主密码">
 <!ENTITY pref_sync "同步">
