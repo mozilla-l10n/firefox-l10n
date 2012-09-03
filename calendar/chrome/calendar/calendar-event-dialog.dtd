@@ -177,16 +177,10 @@
 <!ENTITY event.description.accesskey "P">
 <!ENTITY event.attachments.label "Přílohy:">
 <!ENTITY event.attachments.accesskey "l">
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label "Připojit">
 <!ENTITY event.attachments.menubutton.accesskey "P">
 <!ENTITY event.attachments.url.label "Webová stránka…">
 <!ENTITY event.attachments.url.accesskey "W">
-
 <!ENTITY event.attachments.popup.remove.label "Odstranit">
 <!ENTITY event.attachments.popup.remove.accesskey "d">
 <!ENTITY event.attachments.popup.open.label "Otevřít">
@@ -335,6 +329,10 @@
 <!ENTITY event.attendee.role.optional "Nepovinný účastník">
 <!ENTITY event.attendee.role.chair "Předsedající">
 <!ENTITY event.attendee.role.nonparticipant "Nezúčastněný">
+<!ENTITY event.attendee.usertype.individual "Jednotlivec">
+<!ENTITY event.attendee.usertype.group "Skupina">
+<!ENTITY event.attendee.usertype.resource "Zdroj">
+<!ENTITY event.attendee.usertype.room "Místnost">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Vyberte prosím časovou zónu">
