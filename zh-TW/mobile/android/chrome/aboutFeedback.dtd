@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pageTitle                 "&brandShortName; 意見回饋">
+
+<!ENTITY intro.header              "有空嗎？">
+<!ENTITY intro.message             "請告訴我們您使用 Android 版 &brandShortName; 到現在有什麼感想。">
+<!ENTITY intro.happyLink           "我愛它">
+<!ENTITY intro.sadLink             "我遇到一些問題">
+<!ENTITY intro.ideaLink            "我有個點子">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre               "如果您需要幫助，或是遇到 &brandShortName; 的問題，請到">
+<!ENTITY support.link              "&brandShortName; 技術支援">
+<!ENTITY support.post              "。">
+
+<!ENTITY happy.header              "很高興您能提供意見給我們！">
+<!ENTITY happy.message             "方便在 Google Play 上給我們五顆星的評價嗎？">
+<!ENTITY happy.finePrint           "這花不到您一分鐘就可以完成。">
+<!ENTITY happy.ratingLink          "是，請帶我到 Google Play">
+<!ENTITY happy.maybeLater          "之後再說吧">
+<!ENTITY happy.noThanks            "不，謝了">
+
+<!ENTITY sad.message               "我們對於您在使用 &brandShortName; 的時候遇到問題感到相當抱歉。請告訴我們發生了什麼事，讓我們來修復它。">
+<!ENTITY sad.placeholder           "請在此輸入您的意見">
+<!ENTITY sad.lastSite              "最近開啟的網站（非必要）">
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "感謝您讓我們知道這個問題">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop, sad.thanksMessageBottom): These two
+     strings will appear as separate paragraphs but make up one message. -->
+<!ENTITY sad.thanksMessageTop      "我們努力讓 &brandShortName; 變得更好。請放心，會有人負責收集您的意見回饋，並竭盡所能解決您的問題。">
+<!ENTITY sad.thanksMessageBottom   "或者，">
+
+<!ENTITY idea.message              "我們熱愛聽到您的意見！請在下面分享您的想法。（請只列出與 &brandShortName; 產品本身有關的就好。）">
+<!ENTITY idea.placeholder          "請在此輸入您的點子">
+<!ENTITY idea.thanksHeader         "感謝您！">
+
+<!-- LOCALIZATION NOTE (idea.thanksMessageTop, idea.thanksMessageBottom): These two
+     strings will appear as separate paragraphs but make up one message. -->
+<!ENTITY idea.thanksMessageTop     "感謝您花時間分享您的意見。我們努力讓 &brandShortName; 變得更好，像您這樣的貢獻能幫助我們做出更棒的產品。">
+<!ENTITY idea.thanksMessageBottom  "雖然您看不到，但我們正向您擊掌歡呼。">
+
+<!ENTITY feedback.privacy          "為了您的隱私安全，請勿在回饋內容中包含任何可認出您的個人資訊。">
+<!ENTITY feedback.send             "傳送意見回饋">
+
