@@ -34,8 +34,8 @@
 <!ENTITY engine.addons.accesskey    "a">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Nome do computador:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Nome do dispositivo:">
+<!ENTITY syncDeviceName.accesskey   "s">
 <!ENTITY unlinkDevice.label           "Desligar este dispositivo">
 
 <!-- Footer stuff -->
