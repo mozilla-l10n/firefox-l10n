@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "Configuração do &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
@@ -8,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Já usou antes o &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Já uso o &syncBrand.shortName.label; noutro computador">
+<!ENTITY setup.choicePage.existing2.label "Já uso o &syncBrand.shortName.label; noutro computador">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor">
@@ -74,8 +78,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opções do Sync">
-<!ENTITY syncComputerName.label       "Nome do computador:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Nome do dispositivo:">
+<!ENTITY syncDeviceName.accesskey   "s">
 
 <!ENTITY syncMy.label               "Sincronizar os meus">
 <!ENTITY engine.bookmarks.label     "Marcadores">
@@ -91,16 +95,16 @@
 <!ENTITY engine.addons.label        "Extras">
 <!ENTITY engine.addons.accesskey    "a">
 
-<!ENTITY choice2.merge.main.label      "Juntar os dados deste computador com os do &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label      "Juntar os dados deste dispositivo com os do &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
-<!ENTITY choice2.client.main.label     "Substituir todos os dados neste computador pelos dados do &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Substituir todos os outros dispositivos com pelos dados deste computador">
+<!ENTITY choice2a.client.main.label     "Substituir todos os dados neste dispositivo pelos dados do &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label     "Substituir todos os outros dispositivos pelos dados deste dispositivo">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
-<!ENTITY confirm.merge.label    "O &syncBrand.fullName.label; irá agora juntar todos os dados do navegador deste computador para a sua conta do Sync.">
-<!ENTITY confirm.client2.label         "Aviso: Os seguintes dados do &brandShortName; neste computador serão eliminados:">
-<!ENTITY confirm.client.moreinfo.label "O &brandShortName; irá depois copiar os seus dados do &syncBrand.fullName.label; para este computador.">
+<!ENTITY confirm.merge2.label    "O &syncBrand.fullName.label; irá agora juntar todos os dados do navegador deste dispositivo para a sua conta do Sync.">
+<!ENTITY confirm.client3.label         "Aviso: Os seguintes dados do &brandShortName; neste dispositivo serão eliminados:">
+<!ENTITY confirm.client2.moreinfo.label "O &brandShortName; irá depois copiar os seus dados do &syncBrand.fullName.label; para este dispositivo.">
 <!ENTITY confirm.server2.label         "Aviso: Os seguintes dispositivos serão sobrescritos pelos seus dados locais:">
 
 <!-- New & Existing Account: Setup Complete -->
