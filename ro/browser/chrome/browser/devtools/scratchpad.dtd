@@ -3,6 +3,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# secarica <orice@secarica.ro>
 #
 -->
 <!--
@@ -45,6 +46,9 @@
 <!ENTITY openFileCmd.label            "Deschide un fișier…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY openRecentMenu.label         "Deschide fișiere recente">
+<!ENTITY openRecentMenu.accesskey     "r">
 
 <!ENTITY saveFileCmd.label            "Salvează">
 <!ENTITY saveFileCmd.accesskey        "S">

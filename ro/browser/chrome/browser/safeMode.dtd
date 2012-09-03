@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# turcan <nicturcan@gmail.com>
 #
 -->
 <!--
@@ -19,7 +20,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Pornește în modul sigur">
-<!ENTITY resetProfile.label           "Reset &brandShortName;">
+<!ENTITY resetProfile.label           "Resetează &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Modul sigur este un mod special în care &brandShortName; poate fi folosit să rezolvați unele probleme.">
 <!ENTITY safeModeDescription4.label   "Suplimentele și setările suplimentare vor fi temporar dezactivate.">

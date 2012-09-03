@@ -25,11 +25,11 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label2          "Debugger">
+<!ENTITY debuggerMenu.label2          "Depanator">
 
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
-<!ENTITY remoteDebuggerMenu.label    "Remote Debugger">
+<!ENTITY remoteDebuggerMenu.label    "Depanator la distanță">
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
@@ -41,7 +41,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip        "Close">
+<!ENTITY debuggerUI.closeButton.tooltip        "Închide">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
@@ -49,15 +49,15 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
   -  the button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Step Over">
+<!ENTITY debuggerUI.stepOverButton.tooltip   "Treci mai departe">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
   -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton.tooltip     "Step In">
+<!ENTITY debuggerUI.stepInButton.tooltip     "Intră">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
   -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton.tooltip    "Step Out">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "Ieși din funcție">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->

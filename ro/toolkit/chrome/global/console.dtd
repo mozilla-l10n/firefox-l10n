@@ -34,6 +34,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Evaluează">
 <!ENTITY evaluate.accesskey "v">
+<!ENTITY filter.label       "Filtrează">
+<!ENTITY filter.accesskey   "F">
 
 <!ENTITY copyCmd.label       "Copiază">  
 <!ENTITY copyCmd.accesskey   "C"> 
