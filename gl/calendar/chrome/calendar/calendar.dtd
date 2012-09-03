@@ -54,7 +54,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Crear unha nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar as tarefas rematadas">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Amosar as tarefas rematadas">
 
 <!ENTITY calendar.today.button.label       "Hoxe">
 <!ENTITY calendar.tomorrow.button.label       "Mañá">
@@ -99,7 +99,7 @@
 <!ENTITY calendar.unifinder.close.tooltip                "Pechar a lista da busca de eventos e a lista de eventos">
 
 <!ENTITY calendar.today.button.tooltip          "Ir ao día actual" >
-<!ENTITY calendar.todaypane.button.tooltip      "Mostrar o panel de hoxe" >
+<!ENTITY calendar.todaypane.button.tooltip      "Amosar o panel de hoxe" >
 
 <!ENTITY calendar.day.button.tooltip            "Cambiar á vista diaria" >
 <!ENTITY calendar.week.button.tooltip           "Cambiar á vista semanal" >
@@ -140,8 +140,8 @@
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Tarefas na vista" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "T" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Mostrar as tarefas rematadas" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "M" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Amosar as tarefas rematadas" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "m" >
 
 <!ENTITY calendar.orientation.label "Rotar vista" >
 <!ENTITY calendar.orientation.accesskey "o" >
@@ -150,7 +150,7 @@
 
 <!ENTITY calendar.list.header.label                 "Calendario">
 
-<!ENTITY calendar.task.filter.title.label           "Mostrar">
+<!ENTITY calendar.task.filter.title.label           "Amosar">
 <!ENTITY calendar.task.filter.all.label             "Todas">
 <!ENTITY calendar.task.filter.all.accesskey         "a">
 <!ENTITY calendar.task.filter.today.label           "Hoxe">
@@ -351,8 +351,8 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
 <!ENTITY calendarproperties.name.label                     "Nome:">
 <!ENTITY calendarproperties.readonly.label                 "Só de lectura">
-<!ENTITY calendarproperties.firealarms.label               "Mostrar alarmas">
-<!ENTITY calendarproperties.cache2.label                   "Caché">
+<!ENTITY calendarproperties.firealarms.label               "Amosar alarmas">
+<!ENTITY calendarproperties.cache3.label                   "Compatíbel co modo sen conexión">
 <!ENTITY calendarproperties.enabled.label                  "Activar este calendario">
 <!ENTITY calendarproperties.forceDisabled.label            "Non foi posíbel atopar o fornecedor para este calendario. Iso sucede frecuentemente se desactivou ou desinstalou certos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar subscrición">
