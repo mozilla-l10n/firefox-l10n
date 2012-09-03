@@ -644,3 +644,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.accesskey "P">
 <!ENTITY social.sharePopup.ok.label "OK">
 <!ENTITY social.sharePopup.ok.accesskey "O">
+<!ENTITY social.sharePopup.shared.label "Udostępniasz już tę stronę.">
+<!ENTITY social.sharePopup.portrait.arialabel "Obrazek profilu użytkownika">
