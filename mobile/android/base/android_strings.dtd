@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 dias atrás">
 <!ENTITY history_older_section "Com mais de 7 dias">
 
+<!ENTITY go "Ir">
+<!ENTITY search "Pesquisar">
 <!ENTITY reload "Recarregar">
 <!ENTITY forward "Avançar">
 <!ENTITY menu "Menu">
@@ -54,6 +56,7 @@
 
 <!ENTITY close_tab "Fechar separador">
 <!ENTITY new_tab "Novo separador">
+<!ENTITY one_tab "1 separador">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d separadores">
@@ -84,15 +87,27 @@
 <!ENTITY pref_font_size_medium "Média">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Muito grande">
+<!ENTITY pref_font_size_set "Definir">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
 <!ENTITY pref_private_data_history "Navegação &amp; histórico de transferências">
 <!ENTITY pref_private_data_formdata "Formulário &amp; histórico de pesquisa">
-<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; inícios de sessão">
+<!ENTITY pref_private_data_passwords "Senhas guardadas">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_sessions "Inícios de sessão ativos">
 <!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
 <!ENTITY pref_private_data_siteSettings "Preferências do sítio">
 
@@ -105,6 +120,7 @@
 
 <!ENTITY share "Partilhar">
 <!ENTITY share_title "Partilhar através">
+<!ENTITY share_image_failed "Não é possível partilhar esta imagem">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Procurar na página">
 <!ENTITY desktop_mode "Pedir sítio do Desktop">
@@ -135,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Localização">
 <!ENTITY bookmark_edit_keyword "Palavra chave">
 
-<!ENTITY site_settings_title        "Limpar definições do sítio">
+<!ENTITY site_settings_title2       "Definições do sítioâ€¦">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "limpar">
 <!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
@@ -161,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Abrir todos os separadores da última vez">
 <!ENTITY abouthome_top_sites_title "Top de sítios">
 <!ENTITY abouthome_top_sites_browse "Navegar em todos os seus top sítios">
-<!ENTITY abouthome_no_top_sites "Ainda não tem sítios top. Toque na barra de título para iniciar a navegação.">
-<!ENTITY abouthome_about_sync "Configurar o Firefox Sync para aceder a marcadores, histórico e separadores de outros dispositivos">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "Â»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Configurar o Firefox Sync para aceder a marcadores, histórico e separadores de outros dispositivos&#x00A0;Â»">
+<!ENTITY abouthome_about_apps2 "Obtenha apps a partir do Mozilla Marketplace e descubra o melhor que a web tem para oferecer&#x00A0;Â»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Escolha um ficheiro">
 <!ENTITY filepicker_audio_title "Escolher ou gravar um som">
@@ -196,3 +222,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "A importar histórico
                                          do Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, aguarde...">
+
+<!ENTITY webapp_generic_name "App">
