@@ -29,7 +29,7 @@
 <!ENTITY closeConversationButton.tooltip "Fermer une conversation">
 
 <!ENTITY addBuddyButton.label "Ajouter le contact">
-<!ENTITY joinChatButton.label "Rejoindre la messagerie instantanée">
+<!ENTITY joinChatButton.label "Rejoindre une discussion">
 <!ENTITY chatAccountsButton.label "Afficher les comptes">
 
 <!ENTITY status.available "Disponible">
