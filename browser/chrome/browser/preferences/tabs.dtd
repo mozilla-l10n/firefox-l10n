@@ -26,7 +26,7 @@
 <!ENTITY showTabBar.label             "Arată întotdeauna bara de file">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
+<!ENTITY restoreTabsOnDemand.label        "Nu încărca filele până nu sunt selectate">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "La deschiderea unei legături într-o filă nouă, comută la ea imediat">

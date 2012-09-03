@@ -18,8 +18,8 @@
 <!ENTITY tile.label                 "Mozaic">
 <!ENTITY center.label               "Centrat">
 <!ENTITY stretch.label              "Întins">
-<!ENTITY fill.label                 "Fill">
-<!ENTITY fit.label                  "Fit">
+<!ENTITY fill.label                 "Umple">
+<!ENTITY fit.label                  "Potrivește">
 <!ENTITY preview.label              "Previzualizare">
 <!ENTITY color.label                "Culoare:">
 <!ENTITY setDesktopBackground.title "Setare fundal pentru spațiul de lucru">
