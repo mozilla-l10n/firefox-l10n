@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
+     fun and playful. Please feel free to adjust the tone as works best in
+     your language and/or locale. More detailed notes below. -->
+
+<!ENTITY pageTitle "Hodnocení aplikace &brandShortName;">
+
+<!ENTITY intro.header "Máte chvilku času?">
+<!ENTITY intro.message "Dejte nám vědět, jak se vám &brandShortName; pro Android líbí.">
+<!ENTITY intro.happyLink "Líbí se mi">
+<!ENTITY intro.sadLink "Narazil jsem na problém">
+<!ENTITY intro.ideaLink "Mám nápad na zlepšení">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre "Pokud potřebujete s aplikací &brandShortName; pomoci, navštivte prosím stránky">
+<!ENTITY support.link "Podpora aplikace &brandShortName;">
+<!ENTITY support.post ".">
+
+<!ENTITY happy.header "Tak to nás těší!">
+
+<!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
+<!ENTITY happy.message "Mohli byste nás prosím ohodnotit 5 hvězdičkami na Google Play?">
+
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+<!ENTITY happy.finePrint "Zaberete to míň než minutu a budete mít z toho dobrý pocit.">
+
+<!ENTITY happy.ratingLink "Ano, přejít na Google Play">
+<!ENTITY happy.maybeLater "Možná později">
+<!ENTITY happy.noThanks "Ne, díky">
+
+<!ENTITY sad.message "Je nám líto, že jste s aplikací &brandShortName; narazili na problém. Dejte nám prosím vědět, co se stalo.">
+<!ENTITY sad.placeholder "Popis problému">
+<!ENTITY sad.lastSite "Stránka s problémem (volitelné)">
+
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder "http://">
+<!ENTITY sad.thanksHeader "Díky za odeslání popisu.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
+     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+<!ENTITY sad.thanksMessageTop "Neustále se snažíme &brandShortName; vylepšovat, a proto váš komentář budou číst skuteční lidé, kteří udělají maximum, aby odstranili váš problém.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
+     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
+     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+<!ENTITY sad.thanksMessageBottom "">
+
+<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
+     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
+     to tell us anything they're thinking about. -->
+<!ENTITY idea.message "Rádi uslyšíme o vašem nápadu! Podělte se prosím s námi o vaše myšlenky - pouze ty o aplikaci &brandShortName;, prosím.)">
+<!ENTITY idea.placeholder "Zde vložte váš nápad">
+<!ENTITY idea.thanksHeader "Díky!">
+
+<!ENTITY idea.thanksMessageTop "Díky za sdílení vašeho nápadu. Neustále se snažíme &brandShortName; vylepšovat a podobné nápady jako ten váš mohou vést k velkým věcem.">
+
+<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
+     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
+     something physical, which is why they can't see it.-->
+<!ENTITY idea.thanksMessageBottom "Díky! Rádi bychom vám za vaši spolupráci potřásli pravicí.">
+
+<!ENTITY feedback.privacy "Z důvodů ochrany vašeho soukromí nevkládejte prosím do hodnocení žádné osobní informace.">
+<!ENTITY feedback.send "Odeslat hodnocení">
