@@ -14,9 +14,9 @@
 <!ENTITY sync.title.pair.label 'Emparelhar um dispositivo'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Para ativar o seu novo dispositivo,  selecione “Configurar o &syncBrand.shortName.label;”.'>
-<!ENTITY sync.subtitle.header.label 'Escreva este código no seu computador'>
-<!ENTITY sync.subtitle.connectlocation.label 'Selecione “&sync.title.pair.label;” na secção &syncBrand.shortName.label; na opções do Firefox no computador.'>
+<!ENTITY sync.subtitle.connect.label 'Para ativar o seu novo dispositivo, selecione “Configurar o &syncBrand.shortName.label;”.'>
+<!ENTITY sync.subtitle.header2.label 'Escreva este código no seu dispositivo'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Selecione “&sync.title.pair.label;” na secção &syncBrand.shortName.label; na opções do Firefox no computador.'>
 <!ENTITY sync.subtitle.pair.label 'Para ativar selecione, “Emparelhar um dispositivo” no seu outro dispositivo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar o &syncBrand.shortName.label; para enviar separadores'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar o &syncBrand.fullName.label; no seu dispositivo para enviar separadores para outros dispositivos.'>
 <!ENTITY sync.text.tab.sent.label 'O seu separador foi enviado!'>
+<!ENTITY sync.text.tab.not.sent.label 'Houve um problema ao enviar o seu separador.'>
