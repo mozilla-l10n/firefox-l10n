@@ -656,5 +656,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Pokaż panel boczny">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
-<!ENTITY social.activated.button.label "Oops, cofnij">
-<!ENTITY social.activated.button.accesskey "c">
+<!ENTITY social.activated.undobutton.label "Cofnij">
+<!ENTITY social.activated.undobutton.accesskey "C">
