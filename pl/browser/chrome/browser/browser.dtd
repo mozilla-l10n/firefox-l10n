@@ -646,3 +646,5 @@ toolbar button -->
 <!ENTITY social.sharePopup.ok.accesskey "O">
 <!ENTITY social.sharePopup.shared.label "Udostępniasz już tę stronę.">
 <!ENTITY social.sharePopup.portrait.arialabel "Obrazek profilu użytkownika">
+<!ENTITY social.toggleSidebar.label "Pokaż panel boczny">
+<!ENTITY social.toggleSidebar.accesskey "b">
