@@ -261,17 +261,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorHTMLDelete.label          "Usuń węzeł">
 <!ENTITY inspectorHTMLDelete.accesskey      "U">
 
-
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Opcje Inspektora">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Przyciemnij stronę">
-<!ENTITY inspectorToggleVeil.accesskey      "P">
-<!ENTITY inspectorToggleInfobar.label       "Wyświetl informacje o węźle">
-<!ENTITY inspectorToggleInfobar.accesskey   "W">
-
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
