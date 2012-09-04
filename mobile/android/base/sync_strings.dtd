@@ -14,8 +14,8 @@
 <!ENTITY sync.title.pair.label 'Emparelhar um dispositivo'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Para ativar o seu novo dispositivo,  selecione “Configurar o &syncBrand.shortName.label;”.'>
-<!ENTITY sync.subtitle.header.label 'Escreva este código no seu computador'>
+<!ENTITY sync.subtitle.connect.label 'Para ativar o seu novo dispositivo, selecione “Configurar o &syncBrand.shortName.label;”.'>
+<!ENTITY sync.subtitle.header.label 'Escreva este código no seu dispositivo'>
 <!ENTITY sync.subtitle.connectlocation.label 'Selecione “&sync.title.pair.label;” na secção &syncBrand.shortName.label; na opções do Firefox no computador.'>
 <!ENTITY sync.subtitle.pair.label 'Para ativar selecione, “Emparelhar um dispositivo” no seu outro dispositivo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Tentar de novo'>
 <!ENTITY sync.button.manual.label 'Configuração manual'>
 <!ENTITY sync.subtitle.nointernet.label 'Nenhuma ligação de internet disponível.'>
+<!ENTITY sync.subtitle.failaccount.label 'A criação da conta no seu dispositivo falhou.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Tem mais do que um Firefox instalado? De momento o &syncBrand.fullName.label; apenas suporta uma instalação do Firefox. Por favor, desinsta-le as outras aplicações para utilizar o &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuração terminada'>
@@ -78,4 +80,16 @@
 <!ENTITY sync.notification.oneaccount.label 'Apenas é suportada uma conta do &syncBrand.fullName.label;.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Nome da conta ou senha incorretos.'>
+<!ENTITY sync.invalidserver.label 'Por favor escreva um url de servidor válido'>
+<!ENTITY sync.verifying.label 'A verificar…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Chave de recuperação incorreta. Tente novamente.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Enviar separador para os dispositivos'>
+<!ENTITY sync.button.send.label 'Enviar'>
+<!ENTITY sync.button.set.up.sync.label 'Configurar o &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurar o &syncBrand.shortName.label; para enviar separadores'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurar o &syncBrand.fullName.label; no seu dispositivo para enviar separadores para outros dispositivos.'>
+<!ENTITY sync.text.tab.sent.label 'O seu separador foi enviado!'>
+<!ENTITY sync.text.tab.not.sent.label 'Houve um problema ao enviar o seu separador.'>
