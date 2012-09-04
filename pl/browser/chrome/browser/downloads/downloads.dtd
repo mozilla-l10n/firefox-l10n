@@ -43,6 +43,3 @@
 <!ENTITY cmd.removeFromList.accesskey     "U">
 <!ENTITY cmd.clearList.label              "Wyczyść listę">
 <!ENTITY cmd.clearList.accesskey          "c">
-
-<!ENTITY downloadshistory.label           "Wyświetl pobrane pliki">
-<!ENTITY downloadshistory.accesskey       "e">
