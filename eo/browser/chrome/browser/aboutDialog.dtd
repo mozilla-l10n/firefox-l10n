@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; estas prova versio kaj povas esti nestabila.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc      "Ĝi aŭtomate sendas informon pri efikeco, aparataro, uzado kaj personaj agordoj al &vendorShortName; por helpi plibonigi &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc  "Ĝi aŭtomate sendas informon pri efikeco, aparataro, uzado kaj personaj agordoj al &vendorShortName; por helpi plibonigi &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -69,7 +69,7 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Elŝutado de ĝisdatigo — ">
+<!ENTITY update.downloading.start   "Ĝisdatigo elŝutata — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplikado de ĝisdatigo…">
