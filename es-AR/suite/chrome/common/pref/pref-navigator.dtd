@@ -42,4 +42,5 @@
 <!ENTITY defaultBrowserButton.accesskey "d">
 <!ENTITY alreadyDefaultText             "&brandShortName; ya es su navegador predeterminado.">
 <!ENTITY defaultPendingText             "&brandShortName; será configurado como su navegador predeterminado cuando haga clic en Aceptar.">
+<!ENTITY wasMadeDefaultText             "&brandShortName; ha sido configurado como su navegador predeterminado.">
 <!ENTITY makeDefaultText                "Establecer &brandShortName; como su navegador predeterminado.">
