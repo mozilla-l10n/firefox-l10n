@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "L">
 <!ENTITY bookmarkThisPageCmd.label "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj langetoj…">
@@ -240,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "p">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "Pli da iloj">
 
 <!ENTITY webConsoleButton.label "Teksaĵa konzolo">
 <!ENTITY inspectorButton.label "Inspektilo">
@@ -252,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "Forigi nodon">
 <!ENTITY inspectorHTMLDelete.accesskey      "F">
-
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Paligi paĝon">
-<!ENTITY inspectorToggleVeil.accesskey      "P">
-<!ENTITY inspectorToggleInfobar.label       "Montri informon de nodo">
-<!ENTITY inspectorToggleInfobar.accesskey   "M">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -438,7 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
-<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.label           "Retpoŝte sendi ligilon…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey        "K">
@@ -456,13 +448,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.label           "Konservi videon kiel…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Konservi sonon kiel…">
-<!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "Email Video…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Email Audio…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY saveAudioCmd.accesskey       "s">
+<!ENTITY emailImageCmd.label          "Sendi bildon retpoŝte…">
+<!ENTITY emailImageCmd.accesskey      "b">
+<!ENTITY emailVideoCmd.label          "Sendi filmeton retpoŝte…">
+<!ENTITY emailVideoCmd.accesskey      "f">
+<!ENTITY emailAudioCmd.label          "Sendi sonon retpoŝte…">
+<!ENTITY emailAudioCmd.accesskey      "s">
 <!ENTITY copyLinkCmd.label            "Kopii adreson de ligilo">
 <!ENTITY copyLinkCmd.accesskey        "k">
 <!ENTITY copyImageCmd.label           "Kopii adreson de bildo">
@@ -470,9 +462,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.label   "Kopii bildon">
 <!ENTITY copyImageContentsCmd.accesskey  "b"> 
 <!ENTITY copyVideoURLCmd.label        "Kopii adreson de video">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.accesskey    "f">
 <!ENTITY copyAudioURLCmd.label        "Kopii adreson de sono">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.accesskey    "s">
 <!ENTITY copyEmailCmd.label           "Kopii retpoŝtan adreson">
 <!ENTITY copyEmailCmd.accesskey       "R">
 <!ENTITY thisFrameMenu.label              "Tiu ĉi kadro">
@@ -629,8 +621,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Langetoj de retesplorilo">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Langetoj el aliaj komputiloj">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu2.label     "Langetoj el aliaj aparatoj">
 
 <!ENTITY syncBrand.shortName.label    "Speguli">
 
@@ -651,3 +643,25 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Butono de socia ilaro">
+<!ENTITY social.notLoggedIn.label   "Ne konektita">
+
+<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
+     used for the "OK" button for two different social panels. One appears when
+     the feature is activated (social.activated.* below), and the other when
+     the user clicks the "Share" button a second time (social.sharePopup.*
+     below). -->
+<!ENTITY social.ok.label       "Akcepti">
+<!ENTITY social.ok.accesskey   "A">
+
+<!ENTITY social.sharePopup.undo.label     "Ne plu dividi">
+<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.shared.label   "Vi dividis tiun ĉi paĝon.">
+<!ENTITY social.sharePopup.portrait.arialabel "Bildo de profilo de uzanto">
+
+<!ENTITY social.toggleSidebar.label "Montri flankstrion">
+<!ENTITY social.toggleSidebar.accesskey "f">
+
+<!ENTITY social.activated.undobutton.label "Malfari">
+<!ENTITY social.activated.undobutton.accesskey "M">
