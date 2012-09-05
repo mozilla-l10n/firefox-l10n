@@ -224,5 +224,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          desde Android">
 <!ENTITY bookmarkhistory_import_wait "Esperá...">
 
-<!ENTITY webapp_generic_name "Aplicación"
->
+<!ENTITY webapp_generic_name "Aplicación">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Actualización de &brandShortName; disponible&#8230;">
+<!ENTITY updater_start_select "Seleccioná para descargar la actualización.">
+
+<!ENTITY updater_downloading_title "Descargando &brandShortName;">
+<!ENTITY updater_downloading_ticker "Descargando actualización de &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Falló la descarga de la actualización de &brandShortName;&#8230;">
+<!ENTITY updater_downloading_select "Seleccioná para aplicar la actualización cuando esté completa.">
+<!ENTITY updater_downloading_retry "Seleccioná para reintentar la descarga de la actualización.">
+<!ENTITY updater_downloading_willapply "Esperando que se complete la descarga.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Actualización de &brandShortName; disponible&#8230;">
+<!ENTITY updater_apply_select "Seleccioná para aplicar la actualización descargada.">
+
+<!ENTITY updater_installing_title "&brandShortName;">
+<!ENTITY updater_installing_ticker "Actualizando &brandShortName;&#8230;">
+<!ENTITY updater_installing_ticker_success "&brandShortName; actualizado exitosamente">
+<!ENTITY updater_installing_ticker_fail "Falló la actualización de &brandShortName;">
+<!ENTITY updater_installing_text "Instalando actualización&#8230;">
+<!ENTITY updater_installing_text_success "Actualizado exitosamente.">
+<!ENTITY updater_installing_text_fail "Falló la instalación de la actualización.">
