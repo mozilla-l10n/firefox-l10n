@@ -3,28 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.mouseWheel.title "Колесико мыши">
-<!ENTITY mouseWheelPanel.label "Установить особые функции колесика, используя клавишу: ">
-<!ENTITY usingJustTheWheel.label "Нет">
+<!ENTITY mouseWheelPanel.label "Установить особые функции колесика мыши, используя клавишу: ">
+<!ENTITY usingJustTheWheel.label "Нет клавиши">
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label "Вертикальная прокрутка">
-<!ENTITY mousewheelHorizGroup.label "Горизонтальная прокрутка">
-<!ENTITY scroll.label "Прокручивать документ на ">
-<!ENTITY scroll.accesskey "П">
-<!ENTITY scrollHoriz.accesskey "и">
-<!ENTITY scrollLines.label "строк">
-<!ENTITY scrollChars.label "символов">
-<!ENTITY useSystemDefault.label "Системные настройки">
-<!ENTITY useSystemDefault.accesskey "С">
-<!ENTITY useSystemDefaultHoriz.accesskey "и">
-<!ENTITY scrollPgUpPgDn.label "Прокручивать на страницу вниз или вверх">
-<!ENTITY scrollPgUpPgDn.accesskey "р">
-<!ENTITY scrollPgLtPgRt.label "Прокручивать на страницу влево или вправо">
-<!ENTITY scrollPgLtPgRt.accesskey "к">
+<!ENTITY mouseWheelAction.label "Действие колесика мыши">
+<!ENTITY doNothing.label "Не делать ничего">
+<!ENTITY doNothing.accesskey "е">
+<!ENTITY scrollDocument.label "Прокручивать документ">
+<!ENTITY scrollDocument.accesskey "и">
 <!ENTITY history.label "Перемещаться вперёд и назад в журнале посещений">
 <!ENTITY history.accesskey "ж">
-<!ENTITY historyHoriz.accesskey "в">
 <!ENTITY zoom.label "Увеличение или уменьшение страницы">
-<!ENTITY zoom.accesskey "в">
-<!ENTITY zoomHoriz.accesskey "м">
+<!ENTITY zoom.accesskey "л">
+<!ENTITY mouseWheelSpeed.label "Скорость колесика мыши">
+<!ENTITY verticalSpeed.label "Вертикальная:">
+<!ENTITY verticalSpeed.accesskey "к">
+<!ENTITY verticalReverse.label "Реверсивное направление">
+<!ENTITY verticalReverse.accesskey "в">
+<!ENTITY horizontalSpeed.label "Горизонтальная:">
+<!ENTITY horizontalSpeed.accesskey "з">
+<!ENTITY horizontalReverse.label "Реверсивное направление">
+<!ENTITY horizontalReverse.accesskey "н">
