@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Ginearálta">
-<!ENTITY itemDisplay.label "Léamh &amp; Taispeáint">
+<!ENTITY itemDisplay.label "Léamh agus Taispeáint">
 <!ENTITY itemUpdate.label "Nuashonrú">
-<!ENTITY itemNetworking.label "Líonra &amp; Spás Diosca">
+<!ENTITY itemNetworking.label "Líonra agus Spás Diosca">
 <!ENTITY itemCertificates.label "Teastais">
 <!-- General Settings -->
 
@@ -16,9 +16,9 @@
 <!ENTITY enableGlodaSearch.label "Cumasaigh Cuardach Cuimsitheach agus an tInneacsóir">
 <!ENTITY enableGlodaSearch.accesskey "e">
 
-<!ENTITY scrolling.label "Scrolling">
-<!ENTITY useAutoScroll.label "Use autoscrolling">
-<!ENTITY useAutoScroll.accesskey "U">
+<!ENTITY scrolling.label "Scrollú">
+<!ENTITY useAutoScroll.label "Úsáid uathscrollú">
+<!ENTITY useAutoScroll.accesskey "s">
 <!ENTITY useSmoothScrolling.label "Úsáid mínscrollú">
 <!ENTITY useSmoothScrolling.accesskey "m">
 
@@ -92,9 +92,9 @@
 <!ENTITY showOffline.accesskey "A">
 
 <!ENTITY Diskspace "Spás Diosca">
-<!ENTITY offlineCompactFolders.label "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.label "Dlúthaigh fillteáin dá sábhálfadh sé níos mó ná">
 <!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label "MB in total">
+<!ENTITY offlineCompactFoldersMB.label "MB iomlán">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey "u">
 <!ENTITY browse.label "Brabhsáil…">
 <!ENTITY browse.accesskey "B">
-
-<!ENTITY addonsMgr.label "Breiseáin">
-<!ENTITY manageAddonsDescWin.label "Athraigh roghanna le haghaidh do bhreiseán">
-<!ENTITY manageAddonsDescUnix2.label "Athraigh sainroghanna le haghaidh do bhreiseán">
-<!ENTITY manageAddons.label "Bainistigh Breiseáin…">
-<!ENTITY manageAddons.accesskey "t">

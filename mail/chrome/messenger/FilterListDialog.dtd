@@ -11,11 +11,17 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Scrios">
 <!ENTITY deleteButton.accesskey "o">
+<!ENTITY reorderTopButton "Go dtí an barr">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Cuir an scagaire seo i bhfeidhm roimh na cinn eile">
 <!ENTITY reorderUpButton.label "Bog Suas">
 <!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Bog Síos">
 <!ENTITY reorderDownButton.accesskey "o">
-<!ENTITY filterHeader.label "Ritear scagairí cumasaithe san ord thíos go huathoibríoch .">
+<!ENTITY reorderBottomButton "Go dtí an bun">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Cuir an scagaire seo i bhfeidhm tar éis na cinn eile">
+<!ENTITY filterHeader.label "Cuirtear scagairí cumasaithe i bhfeidhm san ord thíos go huathoibríoch.">
 <!ENTITY filtersForPrefix.label "Scagairí do:">
 <!ENTITY filtersForPrefix.accesskey "g">
 <!ENTITY viewLogButton.label "Loga na Scagairí">
@@ -31,3 +37,5 @@
 <!ENTITY helpButton.label "Cabhair">
 <!ENTITY helpButton.accesskey "h">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Aimsigh scagaire de réir a ainm…">
+

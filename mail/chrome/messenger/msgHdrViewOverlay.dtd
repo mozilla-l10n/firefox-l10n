@@ -67,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "A">
 <!ENTITY otherActionsPrint1.label "Priontáil…">
 <!ENTITY otherActionsPrint1.accesskey "P">
+<!-- Attachment bar context menu items -->
+
+<!ENTITY startExpandedCmd.label "Taispeáin an pána iatáin i dtosach báire">
+<!ENTITY startExpandedCmd.accesskey "T">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label "Oscail">
