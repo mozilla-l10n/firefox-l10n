@@ -4,7 +4,7 @@
 <!-- extracted from am-copies.xul -->
 
 
-<!ENTITY copyAndFolderTitle.label "Cóipeanna &amp; Fillteáin">
+<!ENTITY copyAndFolderTitle.label "Cóipeanna agus Fillteáin">
 <!ENTITY sendingPrefix.label "Agus teachtaireachtaí á seoladh:">
 <!ENTITY fccMailFolder.label "Cuir cóip i:">
 <!ENTITY fccMailFolder.accesskey "p">

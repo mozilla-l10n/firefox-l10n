@@ -309,7 +309,7 @@
 <!ENTITY calendarproperties.name.label "Teideal:">
 <!ENTITY calendarproperties.readonly.label "Inléite Amháin">
 <!ENTITY calendarproperties.firealarms.label "Taispeáin Meabhrúcháin">
-<!ENTITY calendarproperties.cache2.label "Taisce">
+<!ENTITY calendarproperties.cache3.label "Tacaíocht As Líne">
 <!ENTITY calendarproperties.enabled.label "Cumasaigh an féilire seo">
 <!ENTITY calendarproperties.forceDisabled.label "Níorbh fhéidir soláthraí an fhéilire seo a aimsiú. Tarlaíonn sé seo go minic má tá breiseáin áirithe díchumasaithe nó díshuiteáilte agat.">
 <!ENTITY calendarproperties.unsubscribe.label "Díliostáil">

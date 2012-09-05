@@ -169,7 +169,7 @@
 
 <!ENTITY tasksMenu.label "Uirlisí">
 <!ENTITY tasksMenu.accesskey "U">
-<!ENTITY messengerCmd.label "Ríomhphost &amp; Grúpaí Nuachta">
+<!ENTITY messengerCmd.label "Ríomhphost agus Grúpaí Nuachta">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">

@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Socraigh &syncBrand.shortName.label; chun cluaisíní a sheoladh">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Socraigh &syncBrand.fullName.label; ar do ghléas chun cluaisíní a sheoladh chuig ghléasanna eile.">
 <!ENTITY sync.text.tab.sent.label "Seoladh do chluaisín!">
+<!ENTITY sync.text.tab.not.sent.label "Tharla earráid agus do chluaisín á sheoladh.">

@@ -97,8 +97,6 @@
 
 <!ENTITY event.menu.options.label "Roghanna">
 <!ENTITY event.menu.options.accesskey "o">
-<!ENTITY event.menu.options.attachments.label "Ceangail Leathanach Gréasáin…">
-<!ENTITY event.menu.options.attachments.accesskey "L">
 <!ENTITY event.menu.options.attendees.label "Tabhair Cuireadh Do Rannpháirtithe…">
 <!ENTITY event.menu.options.attendees.accesskey "T">
 <!ENTITY event.menu.options.spellcheck.label "Seiceáil an Litriú…">
@@ -147,7 +145,6 @@
 <!ENTITY event.toolbar.attendees.label "Tabhair Cuireadh Do Rannpháirtithe">
 <!ENTITY event.toolbar.spellcheck.label "Seiceáil Litrithe">
 <!ENTITY event.toolbar.privacy.label "Príobháideachas">
-<!ENTITY event.toolbar.attachments.label "Ceangail">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label "Teideal:">
@@ -180,16 +177,10 @@
 <!ENTITY event.description.accesskey "C">
 <!ENTITY event.attachments.label "Iatáin:">
 <!ENTITY event.attachments.accesskey "I">
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
-
 <!ENTITY event.attachments.menubutton.label "Ceangail">
 <!ENTITY event.attachments.menubutton.accesskey "C">
 <!ENTITY event.attachments.url.label "Leathanach Gréasáin…">
 <!ENTITY event.attachments.url.accesskey "L">
-
 <!ENTITY event.attachments.popup.remove.label "Bain">
 <!ENTITY event.attachments.popup.remove.accesskey "B">
 <!ENTITY event.attachments.popup.open.label "Oscail">
@@ -338,6 +329,10 @@
 <!ENTITY event.attendee.role.optional "Rannpháirtí Roghnach">
 <!ENTITY event.attendee.role.chair "Cathaoirleach">
 <!ENTITY event.attendee.role.nonparticipant "Neamh-rannpháirtí">
+<!ENTITY event.attendee.usertype.individual "Duine Aonair">
+<!ENTITY event.attendee.usertype.group "Grúpa">
+<!ENTITY event.attendee.usertype.resource "Acmhainn">
+<!ENTITY event.attendee.usertype.room "Seomra">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label "Sonraigh crios ama">

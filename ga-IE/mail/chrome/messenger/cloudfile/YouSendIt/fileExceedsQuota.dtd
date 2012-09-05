@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title "YouSendIt">
-<!ENTITY fileExceedsQuota.storageLimitReached "Storage limit reached">
+<!ENTITY fileExceedsQuota.storageLimitReached "Shroich tú do theorainn stórála">
 <!ENTITY fileExceedsQuota.accept "Uasghrádú">
 <!ENTITY fileExceedsQuota.cancel "Cealaigh">
-<!ENTITY fileExceedsQuota.description "You have reached your account storage limit of 2GB.">
-<!ENTITY fileExceedsQuota.description1 "Your current storage usage is #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Upgrade today to Pro Plus account and get more storage.">
-<!ENTITY fileExceedsQuota.description3 "You can also choose to delete files in your account to create more space.">
+<!ENTITY fileExceedsQuota.description "Shroich tú teorainn stórála do chuntais (2GB).">
+<!ENTITY fileExceedsQuota.description1 "Tá tú ag úsáid #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Uasghrádaigh inniu agus faigh tuilleadh spáis le cuntas Pro Plus.">
+<!ENTITY fileExceedsQuota.description3 "Nó is féidir comhaid a scriosadh chun fairsinge a dhéanamh.">

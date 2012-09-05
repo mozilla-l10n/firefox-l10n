@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label "Fréamh an Chuóta:">
 <!ENTITY folderQuotaUsage.label "Úsáid:">
 <!ENTITY folderQuotaStatus.label "Stádas:">
+
+<!ENTITY numberOfMessages.label "Líon na dteachtaireachtaí:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label "anaithnid">
+<!ENTITY sizeOnDisk.label "Méid ar an diosca:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label "anaithnid">

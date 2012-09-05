@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barra Féilirí">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Barra Tascanna">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sioncrónaigh">
 <!ENTITY lightning.toolbar.delete.label "Scrios">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Priontáil">
 <!-- Mode Toolbar -->
 
-<!ENTITY lightning.toolbar.mail.label "Ríomhphost">
-<!ENTITY lightning.toolbar.mail.accesskey "m">
 <!ENTITY lightning.toolbar.calendar.label "Féilire">
 <!ENTITY lightning.toolbar.calendar.tooltip "Féach ar chluaisín an fhéilire">
 <!ENTITY lightning.toolbar.calendar.accesskey "F">

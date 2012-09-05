@@ -471,7 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tasksMenu.label "Uirlisí">
 <!ENTITY tasksMenu.accesskey "U">
-<!ENTITY messengerCmd.label "Ríomhphost &amp; Grúpaí Nuachta">
+<!ENTITY messengerCmd.label "Ríomhphost agus Grúpaí Nuachta">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">
 <!ENTITY addressBookCmd.accesskey "b">
@@ -508,6 +508,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
+<!ENTITY clearRecentHistory.accesskey "S">
 <!ENTITY accountManagerCmd.label "Socruithe an Chuntais…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -549,6 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Suíomh an Fhillteáin">
 <!ENTITY tagButton.label "Clib">
 <!ENTITY compactButton.label "Dlúthaigh">
+<!ENTITY appmenuButton.label "Feidhmchláir">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Ardchuardach na dteachtaireachtaí">
@@ -579,12 +582,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Taispeáin an cluaisín Comhrá">
 <!ENTITY tagButton.tooltip "Clibeáil Teachtaireachtaí">
 <!ENTITY compactButton.tooltip "Bain teachtaireachtaí scriosta den fhillteán roghnaithe">
+<!ENTITY appmenuButton.tooltip "Taispeáin an Roghchlár Feidhmchlár">
+<!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
+<!ENTITY appmenuNewContactCmd.label "Teagmháil sa Leabhar Seoltaí…">
+<!ENTITY appmenuEditMenu.label "Eagar">
+<!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
+<!ENTITY appmenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Clib Nua…">
 <!ENTITY addNewTag.accesskey "C">
-<!ENTITY manageTags.label "Manage Tags…">
-<!ENTITY manageTags.accesskey "M">
+<!ENTITY manageTags.label "Bainistigh Clibeanna…">
+<!ENTITY manageTags.accesskey "B">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Ainm">
