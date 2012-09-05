@@ -33,8 +33,8 @@
 <!ENTITY openFileCmd.accesskey        "M">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
+<!ENTITY openRecentMenu.label         "Malfermi ĵusan">
+<!ENTITY openRecentMenu.accesskey     "u">
 
 <!ENTITY saveFileCmd.label            "Konservi">
 <!ENTITY saveFileCmd.accesskey        "K">
