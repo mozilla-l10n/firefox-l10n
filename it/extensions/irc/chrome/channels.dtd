@@ -35,8 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY window.title "Collegamento al canale">
-<!ENTITY qsearch.label "Ricerca rapida:">
-<!ENTITY qsearch.accesskey "R">
+<!ENTITY network.label "Rete:">
+<!ENTITY network.accesskey "R">
+<!ENTITY channel.label "Canale:">
+<!ENTITY channel.accesskey "C">
 <!ENTITY topics.label "Ricerca tra gli argomenti oltre ai nomi dei canali">
 <!ENTITY topics.accesskey "R">
 <!ENTITY join.label "Collegati">
@@ -47,6 +49,8 @@
 <!ENTITY maxusers.accesskey "U">
 <!ENTITY refresh.label "Aggiorna ora">
 <!ENTITY refresh.accesskey "A">
+<!ENTITY network.hint.label "Inserire una rete o un nome server (è possibile includere una porta) e un canale in cui entrare.">
+<!ENTITY col.network "Rete">
 <!ENTITY col.name "Nome">
 <!ENTITY col.users "Utenti">
 <!ENTITY col.topic "Argomento">
