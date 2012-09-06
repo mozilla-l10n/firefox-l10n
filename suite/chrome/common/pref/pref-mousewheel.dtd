@@ -4,23 +4,21 @@
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label "Scorrimento verticale">
-<!ENTITY mousewheelHorizGroup.label "Scorrimento orizzontale">
-<!ENTITY scroll.label "Scorri il documento di">
-<!ENTITY scroll.accesskey "S">
-<!ENTITY scrollHoriz.accesskey "c">
-<!ENTITY scrollLines.label "linee">
-<!ENTITY scrollChars.label "caratteri">
-<!ENTITY useSystemDefault.label "Utilizza le impostazioni predefinite">
-<!ENTITY useSystemDefault.accesskey "U">
-<!ENTITY useSystemDefaultHoriz.accesskey "z">
-<!ENTITY scrollPgUpPgDn.label "Scorri di una pagina in su o in giù">
-<!ENTITY scrollPgUpPgDn.accesskey "d">
-<!ENTITY scrollPgLtPgRt.label "Scorri di una pagina a sinistra o a destra">
-<!ENTITY scrollPgLtPgRt.accesskey "n">
+<!ENTITY mouseWheelAction.label "Azione rotellina mouse">
+<!ENTITY doNothing.label "Non fare niente">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY scrollDocument.label "Scorri il documento">
+<!ENTITY scrollDocument.accesskey "S">
 <!ENTITY history.label "Muovi avanti/indietro nella cronologia">
 <!ENTITY history.accesskey "M">
-<!ENTITY historyHoriz.accesskey "v">
 <!ENTITY zoom.label "Fai zoom dentro o fuori la pagina">
 <!ENTITY zoom.accesskey "F">
-<!ENTITY zoomHoriz.accesskey "e">
+<!ENTITY mouseWheelSpeed.label "Velocità rotellina mouse">
+<!ENTITY verticalSpeed.label "Verticale:">
+<!ENTITY verticalSpeed.accesskey "V">
+<!ENTITY verticalReverse.label "Direzione inversa">
+<!ENTITY verticalReverse.accesskey "z">
+<!ENTITY horizontalSpeed.label "Orizzontale:">
+<!ENTITY horizontalSpeed.accesskey "O">
+<!ENTITY horizontalReverse.label "Direzione inversa">
+<!ENTITY horizontalReverse.accesskey "D">
