@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                        "Možnosti">
 <!ENTITY  event.menu.options.accesskey                    "M">
-<!ENTITY  event.menu.options.attachments.label            "Pripojiť webovú stránku…">
-<!ENTITY  event.menu.options.attachments.accesskey        "w">
 <!ENTITY  event.menu.options.attendees.label              "Pozvať účastníkov…">
 <!ENTITY  event.menu.options.attendees.accesskey          "P">
 <!ENTITY  event.menu.options.spellcheck.label             "Kontrola pravopisu…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Pozvať účastníkov">
 <!ENTITY  event.toolbar.spellcheck.label                  "Kontrola pravopisu">
 <!ENTITY  event.toolbar.privacy.label                     "Súkromie">
-<!ENTITY  event.toolbar.attachments.label                 "Pripojiť">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Názov:" >
@@ -181,15 +178,10 @@
 <!ENTITY event.attachments.label                          "Prílohy:" >
 <!ENTITY event.attachments.accesskey                      "h" >
 
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Pripojiť">
 <!ENTITY event.attachments.menubutton.accesskey           "i">
 <!ENTITY event.attachments.url.label                      "Webová stránka…">
 <!ENTITY event.attachments.url.accesskey                  "W">
-
 <!ENTITY event.attachments.popup.remove.label             "Odstrániť" >
 <!ENTITY event.attachments.popup.remove.accesskey         "d" >
 <!ENTITY event.attachments.popup.open.label               "Otvoriť" >
@@ -338,6 +330,10 @@
 <!ENTITY event.attendee.role.optional           "Voliteľná účasť">
 <!ENTITY event.attendee.role.chair              "Organizátor">
 <!ENTITY event.attendee.role.nonparticipant     "Nezúčastňuje sa">
+<!ENTITY event.attendee.usertype.individual     "Jednotlivec">
+<!ENTITY event.attendee.usertype.group          "Skupina">
+<!ENTITY event.attendee.usertype.resource       "Prostriedok">
+<!ENTITY event.attendee.usertype.room           "Miestnosť">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spresnite časové pásmo">

@@ -10,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Vertikálny posun">
-<!ENTITY mousewheelHorizGroup.label      "Horizontálny posun">
-<!ENTITY scroll.label                    "Posunúť dokument o ">
-<!ENTITY scroll.accesskey                "d">
-<!ENTITY scrollHoriz.accesskey           "o">
-<!ENTITY scrollLines.label               "riadkov">
-<!ENTITY scrollChars.label               "znakov">
-<!ENTITY useSystemDefault.label          "Použiť systémové nastavenie">
-<!ENTITY useSystemDefault.accesskey      "u">
-<!ENTITY useSystemDefaultHoriz.accesskey "s">
-<!ENTITY scrollPgUpPgDn.label            "Posunúť stránku nahor alebo nadol">
-<!ENTITY scrollPgUpPgDn.accesskey        "h">
-<!ENTITY scrollPgLtPgRt.label            "Posunúť stránku doľava alebo doprava">
-<!ENTITY scrollPgLtPgRt.accesskey        "v">
+<!ENTITY mouseWheelAction.label          "Akcia pre koliesko myši">
+<!ENTITY doNothing.label                 "Nerobiť nič">
+<!ENTITY doNothing.accesskey             "N">
+<!ENTITY scrollDocument.label            "Posunúť dokument">
+<!ENTITY scrollDocument.accesskey        "s">
 <!ENTITY history.label                   "Presunúť sa dopredu alebo dozadu v histórii prehliadania">
 <!ENTITY history.accesskey               "r">
-<!ENTITY historyHoriz.accesskey          "e">
 <!ENTITY zoom.label                      "Priblížiť alebo vzdialiť stránku">
 <!ENTITY zoom.accesskey                  "b">
-<!ENTITY zoomHoriz.accesskey             "z">
+<!ENTITY mouseWheelSpeed.label           "Rýchlosť kolieska myši">
+<!ENTITY verticalSpeed.label             "Vertikálny posun:">
+<!ENTITY verticalSpeed.accesskey         "V">
+<!ENTITY verticalReverse.label           "Opačný smer">
+<!ENTITY verticalReverse.accesskey       "e">
+<!ENTITY horizontalSpeed.label           "Horizontálny posun:">
+<!ENTITY horizontalSpeed.accesskey       "H">
+<!ENTITY horizontalReverse.label         "Opačný smer">
+<!ENTITY horizontalReverse.accesskey     "O">

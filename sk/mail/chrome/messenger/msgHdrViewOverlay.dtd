@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Tlačiť…">
 <!ENTITY otherActionsPrint1.accesskey "T">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Zobrazovať rozbalený panel s prílohami">
+<!ENTITY startExpandedCmd.accesskey    "Z">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Otvoriť">
 <!ENTITY openAttachmentCmd.accesskey "O">

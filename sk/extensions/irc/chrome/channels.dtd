@@ -4,8 +4,11 @@
 
 <!ENTITY window.title  "Pripojiť ku kanálu">
 
-<!ENTITY qsearch.label     "Rýchle vyhľadávanie:">
-<!ENTITY qsearch.accesskey "R">
+<!ENTITY network.label     "Sieť:">
+<!ENTITY network.accesskey "S">
+
+<!ENTITY channel.label     "Kanál:">
+<!ENTITY channel.accesskey "K">
 
 <!ENTITY topics.label     "Vyhľadať témy a názvy kanálov">
 <!ENTITY topics.accesskey "t">
@@ -22,6 +25,9 @@
 <!ENTITY refresh.label     "Obnoviť">
 <!ENTITY refresh.accesskey "">
 
+<!ENTITY network.hint.label "Zadajte názov servera alebo siete (môžete zadať aj port) a kanál, ku ktorému sa chcete pripojiť.">
+
+<!ENTITY col.network "Sieť">
 <!ENTITY col.name  "Názov">
 <!ENTITY col.users "Používatelia">
 <!ENTITY col.topic "Téma">

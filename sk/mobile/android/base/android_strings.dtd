@@ -44,6 +44,8 @@
 <!ENTITY history_week_section "7 dní dozadu">
 <!ENTITY history_older_section "Staršie ako 7 dní">
 
+<!ENTITY go "Prejsť">
+<!ENTITY search "Hľadať">
 <!ENTITY reload "Obnoviť">
 <!ENTITY forward "Dopredu">
 <!ENTITY menu "Ponuka">
@@ -149,7 +151,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Umiestnenie">
 <!ENTITY bookmark_edit_keyword "Kľúčové slovo">
 
-<!ENTITY site_settings_title        "Vymazať nastavenia stránok">
+<!ENTITY site_settings_title2       "Nastavenia stránok…">
 <!ENTITY site_settings_cancel       "Zrušiť">
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
@@ -175,9 +177,19 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY abouthome_top_sites_title "Najlepšie stránky">
 <!ENTITY abouthome_top_sites_browse "Prehľadávať všetky najlepšie stránky">
-<!ENTITY abouthome_no_top_sites "Zatiaľ nemáte žiadne najlepšie stránky. Ťuknutím na titulok začnite s prehliadaním stránok.">
-<!ENTITY abouthome_about_sync "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach.">
+<!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Získajte aplikácie z archívu Mozilla Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Služba Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Výber súboru">
 <!ENTITY filepicker_audio_title "Vyberte alebo nahrajte zvuk">
@@ -209,3 +221,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Čakajte, prosím…">
 
 <!ENTITY webapp_generic_name "Aplikácia">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Je dostupná aktualizácia pre &brandShortName;&#8230;">
+<!ENTITY updater_start_select "Zvoľte na prevzatie aktualizácie">
+
+<!ENTITY updater_downloading_title "Preberá sa &brandShortName;">
+<!ENTITY updater_downloading_ticker "Preberá sa aktualizácia pre &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Nepodarilo sa prevziať aktualizáciu pre &brandShortName;&#8230;">
+<!ENTITY updater_downloading_select "Zvoľte na použitie aktualizácie po jej prevzatí.">
+<!ENTITY updater_downloading_retry "Zvoľte na opakovanie pokusu o prevzatie aktualizácie.">
+<!ENTITY updater_downloading_willapply "Čaká sa na ukončenie preberania.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Je dostupná aktualizácia pre &brandShortName;&#8230;">
+<!ENTITY updater_apply_select "Zvoľte na použitie aktualizácie">
+
+<!ENTITY updater_installing_title "&brandShortName;">
+<!ENTITY updater_installing_ticker "Aktualizuje sa &brandShortName;&#8230;">
+<!ENTITY updater_installing_ticker_success "&brandShortName; bol úspešne aktualizovaný">
+<!ENTITY updater_installing_ticker_fail "&brandShortName; sa nepodarilo aktualizovať">
+<!ENTITY updater_installing_text "Inštaluje sa aktualizácia&#8230;">
+<!ENTITY updater_installing_text_success "Aktualizácia úspešná.">
+<!ENTITY updater_installing_text_fail "Aktualizáciu sa nepodarilo nainštalovať.">

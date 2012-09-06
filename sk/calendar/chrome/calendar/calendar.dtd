@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Názov:">
 <!ENTITY calendarproperties.readonly.label                 "Len na čítanie">
 <!ENTITY calendarproperties.firealarms.label               "Zobraziť upozornenia">
-<!ENTITY calendarproperties.cache2.label                   "Vyrovnávacia pamäť">
+<!ENTITY calendarproperties.cache3.label                   "Podpora pre režim offline">
 <!ENTITY calendarproperties.enabled.label                  "Zapnúť tento kalendár">
 <!ENTITY calendarproperties.forceDisabled.label            "Poskytovateľ tohto kalendára nebol nájdený. Toto sa často stáva, ak zakážete alebo odinštalujte určité rozšírenia.">
 <!ENTITY calendarproperties.unsubscribe.label              "Odhlásiť sa">
