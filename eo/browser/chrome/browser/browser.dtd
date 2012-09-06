@@ -161,7 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Legosignoj">
 <!ENTITY bookmarksButton.tooltip        "Montri viajn legosignojn">
-<!ENTITY bookmarksButton.accesskey      "L">
+<!ENTITY bookmarksButton.accesskey  "L">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
@@ -242,7 +242,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 
-
 <!ENTITY webConsoleButton.label "Teksaĵa konzolo">
 <!ENTITY inspectorButton.label "Inspektilo">
 
@@ -290,8 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 
-<!ENTITY editMenu.label         "Modifi"> 
-<!ENTITY editMenu.accesskey       "M"> 
+<!ENTITY editMenu.label         "Redakti"> 
+<!ENTITY editMenu.accesskey       "R"> 
 <!ENTITY undoCmd.label            "Malfari">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "M"> 
@@ -334,8 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Ilaraj strioj"> 
 <!ENTITY viewToolbarsMenu.accesskey     "I"> 
-<!ENTITY viewSidebarMenu.label        "Flanka strio">
-<!ENTITY viewSidebarMenu.accesskey      "F">
+<!ENTITY viewSidebarMenu.label "Flanka strio">
+<!ENTITY viewSidebarMenu.accesskey "F">
 <!ENTITY viewCustomizeToolbar.label       "Persone agordi…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY viewTabsOnTop.label            "Langetoj supre">
