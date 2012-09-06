@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                  "Hlavná kvóta:">
 <!ENTITY folderQuotaUsage.label                 "Využitie:">
 <!ENTITY folderQuotaStatus.label                "Stav:">
+
+<!ENTITY numberOfMessages.label                  "Počet správ:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "neznámy">
+<!ENTITY sizeOnDisk.label                        "Veľkosť na disku:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "neznáma">

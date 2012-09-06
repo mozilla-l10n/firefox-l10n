@@ -22,8 +22,8 @@
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Čaká sa na druhé zariadenie…'>
-<!ENTITY sync.subtitle.header.label 'Zadajte tento kód na svojom počítači'>
-<!ENTITY sync.subtitle.connectlocation.label 'Zvoľte položku “&sync.title.pair.label;” v sekcii &syncBrand.shortName.label; v okne nastavení Firefoxu vo vašom počítači.'>
+<!ENTITY sync.subtitle.header2.label 'Zadajte tento kód na svojom zariadení'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Zvoľte položku “&sync.title.pair.label;” v sekcii &syncBrand.shortName.label; v okne nastavení Firefoxu vo vašom zariadení.'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.advancedsetup.label 'Rozšírené nastavenia…'>
 

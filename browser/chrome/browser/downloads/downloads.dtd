@@ -43,6 +43,3 @@
 <!ENTITY cmd.removeFromList.accesskey     "d">
 <!ENTITY cmd.clearList.label              "Vymazať zoznam">
 <!ENTITY cmd.clearList.accesskey          "V">
-
-<!ENTITY downloadshistory.label           "Zobraziť všetky prevzaté súbory">
-<!ENTITY downloadshistory.accesskey       "Z">

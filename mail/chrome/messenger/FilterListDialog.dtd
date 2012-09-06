@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "U">
 <!ENTITY deleteButton.label "Odstrániť">
 <!ENTITY deleteButton.accesskey "O">
+<!ENTITY reorderTopButton "Presunúť hore">
+<!ENTITY reorderTopButton.accessKey "e">
+<!ENTITY reorderTopButton.toolTip "Presunie filter na prvú pozíciu, takže bude vykonaný skôr ako ostatné definované filtre">
 <!ENTITY reorderUpButton.label "Posunúť nahor">
 <!ENTITY reorderUpButton.accesskey "h">
 <!ENTITY reorderDownButton.label "Posunúť nadol">
 <!ENTITY reorderDownButton.accesskey "d">
+<!ENTITY reorderBottomButton "Presunúť dole">
+<!ENTITY reorderBottomButton.accessKey "r">
+<!ENTITY reorderBottomButton.toolTip "Presunie filter na poslednú pozíciu, takže bude vykonaný až po ostatných definovaných filtroch">
 <!ENTITY filterHeader.label "Povolené filtre budú spustené v zobrazenom poradí.">
 <!ENTITY filtersForPrefix.label "Filtre pre:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -25,9 +31,10 @@
 <!ENTITY stopFilters.label "Zastaviť">
 <!ENTITY stopFilters.accesskey "s">
 <!ENTITY folderPickerPrefix.label "Spustiť vybrané filtre na priečinok:">
-<!ENTITY folderPickerPrefix.accesskey "r">
+<!ENTITY folderPickerPrefix.accesskey "v">
 <!ENTITY choosethis.label "Zvoliť tento priečinok">
 <!ENTITY choosethisnewsserver.label "Zvoliť tento server diskusných skupín">
 <!ENTITY helpButton.label "Pomocník">
 <!ENTITY helpButton.accesskey "P">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Hľadať filtre podľa názvu…">

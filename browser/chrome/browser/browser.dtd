@@ -255,16 +255,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectorHTMLDelete.label          "Odstrániť uzol">
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
 
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Nastavenia prieskumníka">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Zatemniť stránku">
-<!ENTITY inspectorToggleVeil.accesskey      "a">
-<!ENTITY inspectorToggleInfobar.label       "Zobraziť informácie o uzle">
-<!ENTITY inspectorToggleInfobar.accesskey   "Z">
-
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -631,7 +621,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Karty prehliadača">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label "Karty z ďalších počítačov">
+<!ENTITY syncTabsMenu2.label "Karty z ďalších zariadení">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -672,5 +662,5 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Zobraziť bočný panel">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
-<!ENTITY social.activated.button.label "Ups, vrátiť späť">
-<!ENTITY social.activated.button.accesskey "v">
+<!ENTITY social.activated.undobutton.label "Vrátiť späť">
+<!ENTITY social.activated.undobutton.accesskey "V">
