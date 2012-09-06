@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Panel s navigáciou stránok">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "Panel s navigáciou stránok">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Vždy zobraziť">

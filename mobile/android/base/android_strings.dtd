@@ -44,6 +44,8 @@
 <!ENTITY history_week_section "7 dní dozadu">
 <!ENTITY history_older_section "Staršie ako 7 dní">
 
+<!ENTITY go "Prejsť">
+<!ENTITY search "Hľadať">
 <!ENTITY reload "Obnoviť">
 <!ENTITY forward "Dopredu">
 <!ENTITY menu "Ponuka">
@@ -85,15 +87,27 @@
 <!ENTITY pref_font_size_large "Veľké">
 <!ENTITY pref_font_size_xlarge "Veľmi veľké">
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
+<!ENTITY pref_font_size_set "Nastaviť">
+
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "-/+">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Rýchla oranžová líška presahuje vaše očakávania vyššou rýchlosťou, väčšou flexibilitou a zlepšenou bezpečnosťou. Pretože me neziskoví, sme slobodní pri inováciách bez tlaku na kompromisy. To znamená lepší zážitok pre vás a svetlejšiu budúcnosťo pre web.">
+
 <!ENTITY pref_sync "Synchronizácia">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_private_data_history "História prehliadania a prevzatých súborov">
 <!ENTITY pref_private_data_formdata "História vyhľadávania a formulárov">
-<!ENTITY pref_private_data_cookies "Súbory Cookies">
+<!ENTITY pref_private_data_cookies2 "Cookies a aktívne prihlásenia">
 <!ENTITY pref_private_data_passwords "Uložené heslá">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
-<!ENTITY pref_private_data_sessions "Aktívne prihlásenia">
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
 <!ENTITY pref_private_data_siteSettings "Nastavenia stránok">
 
@@ -137,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Umiestnenie">
 <!ENTITY bookmark_edit_keyword "Kľúčové slovo">
 
-<!ENTITY site_settings_title        "Vymazať nastavenia stránok">
+<!ENTITY site_settings_title2       "Nastavenia stránok…">
 <!ENTITY site_settings_cancel       "Zrušiť">
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
@@ -163,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY abouthome_top_sites_title "Najlepšie stránky">
 <!ENTITY abouthome_top_sites_browse "Prehľadávať všetky najlepšie stránky">
-<!ENTITY abouthome_no_top_sites "Zatiaľ nemáte žiadne najlepšie stránky. Ťuknutím na titulok začnite s prehliadaním stránok.">
-<!ENTITY abouthome_about_sync "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach.">
+<!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Získajte aplikácie z archívu Mozilla Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Služba Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Výber súboru">
 <!ENTITY filepicker_audio_title "Vyberte alebo nahrajte zvuk">

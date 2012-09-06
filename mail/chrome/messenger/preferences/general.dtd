@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "n">
 <!ENTITY browse.label                     "Prehľadávať…">
 <!ENTITY browse.accesskey                 "P">
-
-<!ENTITY addonsMgr.label                  "Doplnky">
-<!ENTITY manageAddonsDescWin.label        "Zmeniť nastavenia nainštalovaných doplnkov">
-<!ENTITY manageAddonsDescUnix2.label      "Zmeniť predvoľby nainštalovaných doplnkov">
-<!ENTITY manageAddons.label               "Spravovať doplnky…">
-<!ENTITY manageAddons.accesskey           "r">

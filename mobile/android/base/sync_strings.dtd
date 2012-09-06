@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.shortName.label; na odosielanie kariet'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.fullName.label; na tomto zariadení na odosielanie kariet na ďalšie zariadenia.'>
 <!ENTITY sync.text.tab.sent.label 'Karta bola odoslaná!'>
+<!ENTITY sync.text.tab.not.sent.label 'Pri odosielaní karty sa vyskytla chyba.'>
