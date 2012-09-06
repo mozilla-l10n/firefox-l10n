@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Повече информация за телеметрията">
 <!ENTITY enableGlodaSearch.label       "Разрешаване на глобално търсене и индексиране">
 <!ENTITY enableGlodaSearch.accesskey   "Р">
+
+<!ENTITY scrolling.label               "Плъзгане">
+<!ENTITY useAutoScroll.label           "Използване на автоматично плъзгане">
+<!ENTITY useAutoScroll.accesskey       "И">
+<!ENTITY useSmoothScrolling.label      "Използване на плавно плъзгане">
+<!ENTITY useSmoothScrolling.accesskey  "п">
+
 <!ENTITY systemIntegration.label       "Системно интегриране">
 <!ENTITY alwaysCheckDefault.label      "Винаги при стартиране се извършва проверка дали &brandShortName; е подразбиращият се пощенски клиент.">
 <!ENTITY alwaysCheckDefault.accesskey  "В">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "Без връзка…">
 <!ENTITY showOffline.accesskey         "Б">
 
-<!ENTITY Diskspace "Дисково място">
-<!ENTITY offlineCompact.label "Уплътняване на папките, когато ще се спести над">
-<!ENTITY offlineCompact.accesskey "У">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Дисково място">
+<!ENTITY offlineCompactFolders.label     "Уплътняване на папките, когато ще се спести над">
+<!ENTITY offlineCompactFolders.accesskey "У">
+<!ENTITY offlineCompactFoldersMB.label   "MB общо">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
