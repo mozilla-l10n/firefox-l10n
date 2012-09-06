@@ -10,7 +10,7 @@
 <!ENTITY feedTitle.accesskey         "З">
 
 <!ENTITY feedLocation.label          "Адрес на емисия:">
-<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.accesskey      "А">
 <!ENTITY feedLocation.placeholder    "Въведете валиден адрес на емисия за добавяне">
 
 <!ENTITY feedFolder.label            "Съхраняване на статиите в: ">

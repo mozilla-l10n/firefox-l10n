@@ -80,7 +80,7 @@
 <!ENTITY editRewrapCmd.label "Пренареждане">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Преименуване на притурка…">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.accesskey "П">
 <!ENTITY selectAllCmd.label "Избор на всичко">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "И"> 
