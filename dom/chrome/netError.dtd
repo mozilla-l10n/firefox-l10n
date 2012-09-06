@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "[p]The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.[/p][ul][li]Are you unable to browse other sites? Check the computer's network connection.[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
 
 <!ENTITY netOffline.title "இணையத்தில் இல்லை பிழை">
-<!ENTITY netOffline.longDesc "உலாவி தற்போது இணையத்தொடர்பில் இல்லை. கேட்ட இணைய பக்கத்துடன் இணைக்க முடியவில்லை. மீண்டும் முயற்சி செய்வதற்கு முன் உங்கள் உலாவியை இணையத்தொடர்புடன் இணைகவும்.">
+
 
 <!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
 <!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
@@ -88,4 +88,11 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+
+<!ENTITY corruptedContentError.longDesc "<p>நீங்கள் பார்க்க முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது, ஏனெனில் தரவுப் பரிமாற்றத்தில் ஒரு பிழை இருப்பதாகக் கண்டறியப்பட்டுள்ளது.</p><ul><li>இந்தச் சிக்கல் பற்றித் தெரிவிக்க வலைத்தள உரிமையாளர்களைத் தொடர்பு கொள்ளவும்.</li></ul>">
+
+<!ENTITY netOffline.longDesc2 "<p>உலாவி ஆஃப்லைன் பயன்முறையில் இயங்குகிறது, அதனால் கோரப்பட்ட உருப்படிக்கு இணைக்க முடியாது.</p><ul><li>கணினி செயலிலுள்ள பிணையத்துடன் இணைப்பிலுள்ளதா?</li><li>ஆன்லைன் பயன்முறைக்கு மாறி, பக்கத்தை மீண்டும் ஏற்ற &quot;மீண்டும் முயற்சிக்கவும்&quot; என்பதை அழுத்தவும்.</li></ul>">
+<!ENTITY notCached.longDesc "<p>கோரப்பட்ட ஆவணம் உலாவியின் தேக்ககத்தில் கிடைக்கவில்லை.</p><ul><li>பாதுகாப்பு அம்சத்திற்காக உலாவியானது முக்கியமான ஆவணங்களை வலைத்தளத்திலிருந்து மீண்டும் கோருவதில்லை.</li><li>வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சிக்கவும் என்பதைக் கிளிக் செய்யவும்.</li></ul>">
+<!ENTITY notCached.title "ஆவணம் காலாவாதியானது">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>இந்தச் சிக்கல் பற்றித் தெரிவிக்க வலைத்தள உரிமையாளர்களைத் தொடர்பு கொள்ளவும்.</li></ul></p>">
+<!ENTITY remoteXUL.title "தொலைநிலை XUL">

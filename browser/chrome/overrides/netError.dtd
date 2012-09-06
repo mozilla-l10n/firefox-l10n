@@ -49,11 +49,7 @@
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+
 <!ENTITY netReset.title "இணைப்பு மறுஅமைக்கப்பட்டது">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
@@ -122,4 +118,16 @@ be temporary, and you can try again later.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
+<!ENTITY corruptedContentError.longDesc "<p>நீங்கள் பார்க்க முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது, ஏனெனில் தரவு பரிமாற்றத்தில் ஒரு பிழை இருப்பதாகக் கண்டறியப்பட்டுள்ளது.</p><ul><li>இந்தச் சிக்கலைப் பற்றிப் புகாரளிக்க வலைத்தள உரிமையாளர்களைத் தொடர்பு கொள்ளவும்.</li></ul>">
+<!ENTITY corruptedContentError.title "சிதைந்த உள்ளடக்கப் பிழை">
+<!ENTITY netOffline.title "ஆஃப்லைன் பயன்முறை">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>மீண்டும் ஆன்லைன் பயன்முறைக்கு மாறி பக்கத்தை மீன்டும் ஏற்ற முயற்சிக்க &quot;மீண்டும் முயற்சிக்கவும்&quot; என்பதை அழுத்தவும்.</li>
+</ul>
+">
+<!ENTITY notCached.longDesc "<p>கோரப்பட்ட ஆவணம் &brandShortName; இன் தேக்ககத்தில் கிடைக்கவில்லை.</p><ul><li>பாதுகாப்பு எச்சரிக்கைக்காக, &brandShortName; ஆனது முக்கியமான ஆவணங்களை மறுமுறை கோராதபடி அமைக்கப்பட்டுள்ளது.</li><li>வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சிக்கவும் என்பதைக் கிளிக் செய்யவும்.</li></ul>">
+<!ENTITY notCached.title "ஆவணம் காலாவதியாகிவிட்டது">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>இந்தச் சிக்கல் பற்றிப் புகாரளிக்க வலைத்தள உரிமையாளர்களைத் தொடர்புகொள்ளவும்.</li></ul></p>">
+<!ENTITY remoteXUL.title "தொலைநிலை XUL">
 

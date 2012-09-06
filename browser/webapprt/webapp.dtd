@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+<!ENTITY fileMenu.label                     "கோப்பு">
+<!ENTITY fileMenu.accesskey                 "F">
+
+<!ENTITY quitApplicationCmdWin.label        "வெளியேறு">
+<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmd.label           "வெளியேறு">
+<!ENTITY quitApplicationCmd.accesskey       "Q">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "மற்றதை மறை">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "எல்லாம் காண்பி">
+
+<!ENTITY editMenu.label                     "திருத்து">
+<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY undoCmd.label                      "செயல்தவிர்">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "U">
+<!ENTITY redoCmd.label                      "மீண்டும் செய்">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "R">
+<!ENTITY cutCmd.label                       "வெட்டு">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY copyCmd.label                      "நகலெடு">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY pasteCmd.label                     "ஒட்டு">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "P">
+<!ENTITY deleteCmd.label                    "நீக்கு">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "D">
+<!ENTITY selectAllCmd.label                 "எல்லாம் தேர்ந்தெடு">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "A">

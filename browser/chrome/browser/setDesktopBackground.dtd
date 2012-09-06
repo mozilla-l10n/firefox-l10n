@@ -7,3 +7,6 @@
 <!ENTITY setDesktopBackground.title "பணிமேடை பின்னணியாக அமைக்கவும்">
 <!ENTITY openDesktopPrefs.label "திறந்த பணிமேடை முன்னுரிமைகள்">
 <!ENTITY closeWindow.key "w">
+<!ENTITY fill.label                 "நிரப்பு">
+<!ENTITY fit.label                  "பொருத்து">
+

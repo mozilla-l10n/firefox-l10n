@@ -1,5 +1,5 @@
 <!ENTITY engineManager.title "தேடும் பொறி பட்டியலை மேலாண்மை செய்யவும்">
-<!ENTITY engineManager.style "குறைந்தபட்ச அகலம்: 35em;">
+<!ENTITY engineManager.style       "min-width: 35em;">
 <!ENTITY engineManager.intro "பின்வரும் தேடும் பொறிகள் நிறுவப்பட்டுள்ளது:">
 
 <!ENTITY columnLabel.name "பெயர்">

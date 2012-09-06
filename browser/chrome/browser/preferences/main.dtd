@@ -8,8 +8,7 @@
 <!ENTITY useCurrentPage.label "நடப்பு பக்கத்தை பயன்படுத்து">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "நடப்பு பக்கங்களை பயன்படுத்து">
-<!ENTITY useBookmark.label "புத்தக குறிகளை பயன்படுத்து">
-<!ENTITY useBookmark.accesskey "B">
+
 <!ENTITY restoreDefault.label "முன்னிருப்பு மாற்று">
 <!ENTITY restoreDefault.accesskey "R">
 <!ENTITY homepage.label            "முகப்பு பக்கம்:">
@@ -37,3 +36,5 @@
 <!ENTITY manageAddonsDescUnix2.label   "உங்கள் கூடுதல் இணைப்புகள்க்கு முன்னுரிமைகளை மாற்று">
 <!ENTITY manageAddons.label "கூடுதல் இணைப்புகளை மேலாண்மை செய்...">
 <!ENTITY manageAddons.accesskey "M">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY chooseBookmark.label      "புத்தகக்குறியைப் பயன்படுத்து…">

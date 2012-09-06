@@ -32,11 +32,11 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "தேடு">
 <!ENTITY view.discover.label                  "கூடுதல் இணைப்புகளை பெறு">
-<!ENTITY view.locales.label                   "மொழிகள்">
-<!ENTITY view.searchengines.label             "தேடும் பொறிகள்">
-<!ENTITY view.features.label                  "விரிவாக்கங்கள்">
-<!ENTITY view.appearance2.label               "தோற்றம்">
-<!ENTITY view.plugins.label                   "செருகிகள்">
+
+
+
+
+
 <!ENTITY view.recentUpdates.label             "சமீபத்திய புதுப்பித்தல்கள்">
 <!ENTITY view.availableUpdates.label          "இருக்கும் புதுப்பித்தல்கள்">
 
@@ -195,3 +195,8 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "ஏற்று நிறுவு…">
+<!ENTITY info.plugincheck.label                 "உங்கள் செருகுநிரல்கள் புதுப்பிக்கப்பட்ட நிலையில் உள்ளதா எனப் பார்க்க தேர்வு செய்யவும்">
+<!ENTITY info.plugincheck.tooltip               "உங்கள் செருகுநிரல்கள் புதுப்பிக்கப்பட்ட நிலையில் உள்ளதா எனப் பார்க்க தேர்வு செய்யவும்">
+<!ENTITY search.commandkey                    "f">
+<!ENTITY settings.path.button.label           "உலாவு…">
+
