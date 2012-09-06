@@ -50,3 +50,7 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Click here to activate vulnerable plugin.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Click here to activate vulnerable plugin (no update available).">
+<!ENTITY checkForUpdates                                     "Check for updates…">
+
