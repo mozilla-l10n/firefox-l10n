@@ -128,3 +128,6 @@
 <!ENTITY  permClearStorage           "சேமிப்பகத்தை துடை">
 <!ENTITY  permClearStorage.accesskey "C">
 <!ENTITY  permIndexedDB              "ஆஃப்லைன் சேமிப்பகத்தை பராமரிக்கவும்">
+<!ENTITY  permFullscreen        "முழுத்திரைக்குச் செல்">
+<!ENTITY  permPlugins           "செருகுநிரல்களைச் செயல்படுத்து">
+

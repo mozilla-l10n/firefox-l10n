@@ -21,14 +21,14 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "உருவாக்க கட்டமைப்பு">
 <!ENTITY aboutSupport.appBasicsUserAgent "பயனர் முகவர்">
 
-<!ENTITY aboutSupport.show.label "இருக்கும் கோப்புறையைத் திற">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "தேடியில் காட்டு">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "மாற்றப்பட்ட விருப்பங்கள்">
+
 <!ENTITY aboutSupport.modifiedPrefsName "பெயர்">
 <!ENTITY aboutSupport.modifiedPrefsValue "மதிப்பு">
 
@@ -38,3 +38,16 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "வரலாற்றைப் புதுப்பி">
 
 <!ENTITY aboutSupport.copyToClipboard.label "அனைத்தையும் கிளிப்போர்டில் நகலெடு">
+<!ENTITY aboutSupport.a11yActivated "செயல்படுத்தப்பட்டது">
+<!ENTITY aboutSupport.a11yForceDisabled "அணுகல் தன்மையைத் தடுக்கவும்">
+<!ENTITY aboutSupport.a11yTitle "அணுகல் தன்மை">
+<!ENTITY aboutSupport.appBasicsCrashIDs "செயலிழப்புப் புகார்கள்">
+<!ENTITY aboutSupport.appBasicsMemoryUse "நினைவகப் பயன்">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "சுயவிவரக் கோப்புறை">
+<!ENTITY aboutSupport.jsIncrementalGC "அதிகரிப்பு GC">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.libraryVersionsTitle "தரவகப் பதிப்புகள்">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "முக்கியமான மாற்றியமைக்கப்பட்ட விருப்பத்தேர்வுகள்">
+<!ENTITY aboutSupport.showDir.label "கோப்புறையைத் திற">
+<!ENTITY aboutSupport.showWin.label "கோப்புறையைக் காண்பி">
+

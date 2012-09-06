@@ -40,25 +40,35 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title "&brandShortName; பாதுகாப்பு முறை">
-<!ENTITY window.width "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; இப்போது பாதுகாப்பு முறையில் இயங்குகிறது, இது உங்கள் தனிபயன் அமைவுகள், தீம்கள் மற்றும் விரிவாக்கங்களை தற்காலிகமாக செயல்நீக்கும்.">
-<!ENTITY safeModeDescription2.label "நீங்கள் சில அல்லது இந்த அனைத்து மாற்றங்களை நிரந்தரமாக செய்யலாம்:">
 
-<!ENTITY disableAddons.label "அனைத்து கூடுதல் இணைப்புகளையும் செயல்நீக்கவும்">
-<!ENTITY disableAddons.accesskey "D">
 
-<!ENTITY resetToolbars.label "கருவிப்பட்டை மற்றும் கட்டுப்பாடுகளை மறுஅமைவு செய்யவும்">
-<!ENTITY resetToolbars.accesskey "R">
 
-<!ENTITY resetUserPrefs.label "&brandShortName;இன் முன்னிருப்புக்கு அனைத்து பயனர் முன்னுரிமைகளை மறுஅமை">
-<!ENTITY resetUserPrefs.accesskey "p">
 
-<!ENTITY deleteBookmarks.label        "பிரதியிடுதல்களுக்கு தவிர அனைத்து புத்தகக்குறிகளையும் அழி">
-<!ENTITY deleteBookmarks.accesskey    "b">
 
-<!ENTITY restoreSearch.label "முன்னிருப்பு தேடும் பொறிகளை மறுஅமைக்கவும்">
-<!ENTITY restoreSearch.accesskey "s">
 
-<!ENTITY changeAndRestartButton.label "மாற்றங்கள் செய்து மறுதுவக்கம் செய்யவும்">
-<!ENTITY continueButton.label "பாதுகாப்பு முறையில் தொடரவும்">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; ஐத் தொடங்கும் போது எதிர்பாராத விதமாக மூடிவிச்சது. இதற்கு துணை நிரல்கள் அல்லது வேறு பிரச்சனைகள் காரணமாக இருக்கலாம். நீங்கள் &brandShortName; ஐ அதன் முன்னிருப்பு நிலைக்கு மீட்டமைப்பதன் மூலமோ அல்லது பாதுகாப்பு பயன்முறையில் சிக்கல் தீர்ப்பதன் மூலமோ இந்தப் பிரச்சனையைத் தீர்க்கலாம்.">
+<!ENTITY resetProfile.label           "&brandShortName; ஐ மீட்டமை">
+<!ENTITY resetProfileFooter.label       "மற்ற அனைத்தும் தொழிற்சாலை முன்னிருப்பு அமைப்புக்கு மீட்டமைக்கப்படும்.">
+<!ENTITY resetProfileInstead.label    "நீங்கள் மீண்டும் புதிதாகத் தொடங்க விரும்பினால்,  &brandShortName; ஐயும் மீட்டமைக்கலாம்.">
+<!ENTITY safeModeDescription3.label   "பாதுகாப்பு பயன்முறை என்பது &brandShortName; இன் சிறப்புப் பயன்முறையாகும், இந்தப் பயன்முறையில் சிக்கல்களைத் தீர்க்கலாம்.">
+<!ENTITY safeModeDescription4.label   "உங்கள் துணை நிரல்களும் தனிப்பயன் அமைப்புகளும் தற்காலிகமாக முடக்கப்படும்.">
+<!ENTITY safeModeInstead.label          "நீங்கள் இதை விரும்பாவிட்டால், பாதுகாப்பு பயன்முறையில் தொடர்ந்து நிங்களாகவே சிக்கல் தீர்க்க முயற்சிக்கலாம், அப்போது தற்காலிகமாக உங்கள் துணை நிரல்களும் தனிப்பயன் அமைப்புகளும் முடக்கப்படும்.">
+<!ENTITY startSafeMode.label          "பாதுகாப்பு பயன்முறையில் தொடங்கு">
+<!ENTITY window.maxWidth              "400">
+

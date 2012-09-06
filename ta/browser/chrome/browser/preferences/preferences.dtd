@@ -18,3 +18,6 @@
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "ஒத்திசை">
+<!ENTITY  buttonBack.tooltip      "ஒரு பக்கம் பின் செல்">
+<!ENTITY  buttonForward.tooltip   "ஒரு பக்கம் முன் செல்">
+

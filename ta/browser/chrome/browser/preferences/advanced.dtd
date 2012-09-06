@@ -23,8 +23,8 @@
 <!ENTITY systemDefaults.label            "கணினி முன்னிருப்புகள்">
 <!ENTITY alwaysCheckDefault.label        "துவக்கத்தில் எப்போதும் &brandShortName; முன்னிருப்பு உலாவியாக இருக்கிறதா என சரி பார்க்கவும்"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "இப்போது சரிபார்க்கவும்">
-<!ENTITY checkNow.accesskey              "N">
+
+
 
 <!ENTITY networkTab.label                "பிணையம்">
 
@@ -34,7 +34,7 @@
 <!ENTITY connectionSettings.label        "அமைவுகள்…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "இணைப்பில்லாத சேமிப்பகம்">
+
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -47,18 +47,18 @@
 
 <!ENTITY updateTab.label                 "மேம்படுத்தல்">
 
-<!ENTITY autoCheck.label                 "தானாக மேம்படுத்தலுக்கு சோதிக்கவும்:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+
+
+
 <!ENTITY enableSearchUpdate.label        "தேடும் பொறிகள்">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "&brandShortName;க்கு மேம்படுத்தல்கள் காணப்படும் போது:">
-<!ENTITY askMe.label                     "நான் என்ன செய்ய வேண்டும் என கேள்">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "தானாக பதிவிறக்கி மேம்படுத்தலை நிறுவு">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "இது என் கூடுதல் இணைப்புகள் எதையாவது செயல்நீக்குகிறதா என எச்சரி">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+
+
+
+
+
+
+
 <!ENTITY updateHistory.label             "மேம்படுத்தல் வரலாற்றைக் காட்டு">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -67,7 +67,7 @@
 <!ENTITY offlineNotifyExceptions.label   "விதிவிலக்குகள்…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "பின்வரும் இணையதளங்கள் இணைப்பில்லாமல் பயன்படுத்த தரவை சேமித்துள்ளது:">
+
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "நீக்கு…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -97,11 +97,11 @@
 
 <!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY doNotTrack.label                "என்னை தேடுவதை விரும்பவில்லை என இணையதளங்களுக்குச் சொல்லவும்">
-<!ENTITY doNotTrack.accesskey            "d">
 
-<!ENTITY enableAddonsUpdate2.label       "கூடுதல் இணைப்புகள்">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+
+
+
 
 <!ENTITY limitCacheSizeBefore.label      "இடையக வரம்பு">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
@@ -112,3 +112,26 @@
 
 <!ENTITY submitCrashes.label             "க்ராஷ் அறிக்கைகளை சமர்ப்பி">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.label   "இப்போது அழி">
+<!ENTITY httpCache.label                 "தேக்ககப்படுத்திய வலை உள்ளடக்கம்">
+<!ENTITY isDefault.label                 "தற்போது உங்கள் முன்னிருப்பு உலாவி &brandShortName; ஆகும்">
+<!ENTITY offlineAppsList2.label          "பின்வரும் வலைத்தளங்கள் ஆஃப்லைன் பயன்பாட்டுக்காக தரவைச் சேமிக்க அனுமதிக்கப்பட்டுள்ளன:">
+<!ENTITY offlineStorage2.label           "ஆஃப்லைன் வலை உள்ளடக்கமும் பயனர் தரவும்">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY setDefault.label                "&brandShortName; ஐ உங்கள் முன்னிருப்பு உலாவியாக்கவும்">
+<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "செயல்திறன் தரவைச் சமர்ப்பி">
+<!ENTITY updateApp.label                 "&brandShortName; புதுப்பிப்புகள்:">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAuto.label                "புதுப்பிப்புகளை தானாகவே நிறுவு (பரிந்துரைக்கப்படுகிறது: மேம்பட்ட்ட பாதுகாப்பு)">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateAutoAddonWarn.label       "இது என் துணை நிரல்கள் எதையேனும் முடக்கும் என்றால் என்னை எச்சரி">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateCheck.label               "புதுப்பிப்புகள் உள்ளதா எனப் பார், ஆனால் அவற்றை நிறுவ வேண்டுமா என்பதைப் பற்றி நானே தேர்வு செய்கிறேன்">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateManual.label              "ஒரு போதும் புதுப்பிப்புகள் உள்ளதா எனப் பார்க்க வேண்டாம் (பரிந்துரைக்கப்படுவதில்லை: பாதுகாப்பு ஆபத்துகள் கொண்டது)">
+<!ENTITY updateOthers.label              "தானாக புதுப்பி:">
+<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்து">
+

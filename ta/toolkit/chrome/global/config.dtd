@@ -45,9 +45,9 @@
 <!ENTITY aboutWarningButton.label "நான் கவனமாக இருப்பேன்!">
 <!ENTITY aboutWarningCheckbox.label "இந்த எச்சரிக்கை அடுத்த முறையும் காட்டவும்">
 
-<!ENTITY filterPrefs.label "வடிப்பி:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+
+
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "முன்னுரிமை பெயர்">
@@ -81,3 +81,7 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "பூலியன்">
 <!ENTITY boolean.accesskey "B">
+<!ENTITY focusSearch.key "r">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "தேடு:">
+

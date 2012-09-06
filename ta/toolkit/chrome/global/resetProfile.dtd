@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY resetProfile.dialog.title        "&brandShortName; ஐ மீட்டமை">
+<!ENTITY resetProfile.dialog.description  "நிச்சயமாக நீங்கள் &brandShortName; ஐ தொடக்க நிலைக்கு மீட்டமைக்க விரும்புகிறீர்களா?">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; இதனைப் பாதுகாக்க முயற்சிக்கும்:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; மறுதொடக்கம் ஆகி மற்றது அனைத்தும் நீக்கப்படும்.">
+<!ENTITY resetProfile.dialog.button.label "&brandShortName; ஐ மீட்டமை">
+
+<!ENTITY resetProfile.title               "&brandShortName; ஐ அதன் முன்னிருப்பு நிலைக்கு மீட்டமை">
+<!ENTITY resetProfile.description         "உங்களுக்கு தீர்க்க முடியாத பெரிய சிக்கல்கள் இருந்தால், உங்களுக்கு மிக இன்றியமையாத தகவல்களை மட்டும் கொண்டு புதிதாகத் தொடங்கவும்.">
+<!ENTITY resetProfile.button.label        "&brandShortName; ஐ மறுதொடக்கம் செய்யவும்">
+
+<!ENTITY resetProfile.cleaning.description "&brandShortName; உங்கள் பழைய தரவை அழிக்கும் வரை காத்திருக்கவும்…">

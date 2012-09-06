@@ -72,16 +72,24 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 
-<!ENTITY  privateBrowsingPermanent.label "நிரந்தர தனிப்பட்ட உலாவும் முறைமை">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
-
-<!ENTITY  rememberHistory.label      "எனது உலாவும் வரலாற்றை நினைவுப்படுத்து">
-<!ENTITY  rememberHistory.accesskey  "b">
 
 
-<!ENTITY  rememberDownload.label         "பதிவிறக்க வரலாற்றை நினைவில் கொள்">
-<!ENTITY  rememberDownload.accesskey     "d">
+
+
+
+
+
+
+
 
 <!ENTITY  rememberSearchForm.label       "தேடும் மற்றும் படிவ வரலாற்றை நினைவில் கொள்">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 <!ENTITY  rememberDescription.label      "&brandShortName; உங்கள் உலாவும், பதிவிறக்கும், படிவ மற்றும் தேடும் வரலாற்றை நினைவில் வைத்து நீங்கள் பார்வையிடும் இணைய தளங்களின் குக்கீகளையும் வைத்திருக்கும்.">
+<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label               "என்னைத் தடமறிவதை நான் விரும்பவில்லை என வலைத்தளங்களுக்குக் கூறு">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "எப்போதுமே தனிப்பட்ட உலாவல் பயன்முறையையே பயன்படுத்து">
+<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் வைத்துக்கொள்">
+<!ENTITY tracking.label                 "தடமறிதல்">
+

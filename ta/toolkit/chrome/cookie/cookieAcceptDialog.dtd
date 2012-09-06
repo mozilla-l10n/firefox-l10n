@@ -4,7 +4,7 @@
 <!ENTITY props.path.label "பாதை:">
 <!ENTITY props.secure.label "அனுப்பிய காரணம்:">
 <!ENTITY props.expires.label "காலாவதி:">
-<!ENTITY props.policy.label "கொள்கை:">
+
 
 <!ENTITY button.allow.label "அனுமதி">
 <!ENTITY button.allow.accesskey "A">

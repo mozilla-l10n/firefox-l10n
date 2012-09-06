@@ -21,8 +21,8 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "கூடுதல் இணைப்பு பற்றி இன்னும் அறிக அல்லது கைமுறையாக விடுபட்ட கூடுதல் இணைப்புகளை தேடவும்.">
 <!ENTITY pluginWizard.finalPage.restart.label                "கூடுதல் இணைப்பு வேலை செய்ய &brandShortName;ஐ மறுதுவக்கம் செய்ய வேண்டும்.">
   
-<!ENTITY missingPlugin.label                                 "இங்கு சொடுக்கி கூடுதல் இணைப்புகளை பதிவிறக்கும் செய்யவும்.">
-<!ENTITY disabledPlugin.label                                "இந்த உள்ளடக்கத்தின் கூடுதல் இணைப்பு செயல்நீக்கப்பட்டுள்ளது. இங்கு சொடுக்கி உங்கள் கூடுதல் இணைப்புகளை மேலாண்மை செய்யவும்.">
+
+
 <!ENTITY blockedPlugin.label                                 "உங்கள் பாதுகாப்புக்காக இந்த கூடுதல் இணைப்பு தடுக்கப்பட்டுள்ளது.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -37,3 +37,16 @@
 <!ENTITY report.disabled                                     "க்ராஷ் அறிக்கையிடுதல் செயல்நீக்கப்பட்டது.">
 <!ENTITY report.failed                                       "சமர்ப்பித்தல் தோல்வியுற்றது.">
 <!ENTITY report.unavailable                                  "அறிக்கை எதுவும் இல்லை.">
+<!ENTITY checkForUpdates                                     "புதுப்பிப்புகள் உள்ளதா எனப் பார்…">
+<!ENTITY clickToPlayPlugin                                   "செருகு நிராலைச் செயல்படுத்த இங்கு கிளிக் செய்யவும்.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "தாக்குதலுக்குட்படத்தக்க செருகு நிராலைச் செயல்படுத்த இங்கு கிளிக் செய்யவும் புதுப்பிப்பு இல்லை).">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "தாக்குதலுக்குட்படத்தக்க செருகு நிராலைச் செயல்படுத்த இங்கு கிளிக் செய்யவும்.">
+<!ENTITY disabledPlugin                                      "இந்த செருகு நிரல் முடக்கப்பட்டது.">
+<!ENTITY installPlugin                                       "செருகு நிரலை நிறுவு…">
+<!ENTITY managePlugins                                       "செருகு நிரல்களை நிர்வகி…">
+<!ENTITY missingPlugin                                       "இந்த உள்ளடக்கத்தைக் காண்பிக்க ஒரு செருகு நிரல் தேவை.">
+<!ENTITY tapToPlayPlugin                                     "செருகு நிரலைச் செயல்படுத்த இங்கு தட்டவும்.">
+<!ENTITY unsupportedPlatform.learnMore                       "மேலும் அறிக…">
+<!ENTITY unsupportedPlatform.post                            "">
+<!ENTITY unsupportedPlatform.pre                             "வருந்துகிறோம், &brandShortName; ஆல் இந்த சாதனத்தில் Flash கோப்பை இயக்க முடியாது. ">
+

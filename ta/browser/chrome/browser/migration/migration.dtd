@@ -7,32 +7,32 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird or Phoenix">
-<!ENTITY importFromPhoenix.accesskey    "P">
+
+
 <!ENTITY importFromNothing.label        "எதையும் இறக்க வேண்டாம்">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "Camino">
-<!ENTITY importFromCamino.accesskey     "C">
+
+
+
+
+
+
+
+
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromOmniWeb.label        "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey    "W">
-<!ENTITY importFromICab.label           "iCab">
-<!ENTITY importFromICab.accesskey       "i">
-<!ENTITY importFromKonqueror.label      "Konqueror">
-<!ENTITY importFromKonqueror.accesskey  "K">
-<!ENTITY importFromEpiphany.label       "Epiphany">
-<!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "Galeon">
-<!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "ஒரு HTML கோப்பிலிருந்து">
-<!ENTITY importFromHTMLFile.accesskey   "F">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY noMigrationSources.label       "புத்தகக்குறிகள், வரலாறு அல்லது கடவுச்சொல் தரவு போன்றவற்றைக் கொண்ட நிரல்களை காண முடியவில்லை.">
 
@@ -48,4 +48,7 @@
 
 <!ENTITY done.title                     "இறக்குதல் முடிவு">
 <!ENTITY done.label                     "பின்வரும் உருப்படிகள் வெற்றிகரமாக இறக்கப்பட்டது:">
-
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromFirefox.label        "Firefox">

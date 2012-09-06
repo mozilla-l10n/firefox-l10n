@@ -18,3 +18,6 @@
 <!ENTITY spellNoSuggestions.label "(எழுத்துப்பிழை கருத்து இல்லை)">
 <!ENTITY spellDictionaries.label "மொழி">
 <!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label "அகராதியில் சேர்த்ததைச் செயல்தவிர்">
+

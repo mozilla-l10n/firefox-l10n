@@ -1,4 +1,4 @@
 <!ENTITY appManager.title     "பயன்பாடு விவரங்கள்">
-<!ENTITY appManager.style     "அகலம்: 30em; குறைந்த உயரம்: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "நீக்கு">
 <!ENTITY remove.accesskey     "R">
