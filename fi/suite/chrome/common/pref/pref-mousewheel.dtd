@@ -1,28 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Hiiren rulla">
 <!ENTITY mouseWheelPanel.label           "Voit määrittää, mitä tapahtuu, kun rullaa käytetään tämä näppäin pohjassa: ">
-<!ENTITY usingJustTheWheel.label         "Oletus">
+<!ENTITY usingJustTheWheel.label         "Ei tarkenäppäintä">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Pystyvieritys">
-<!ENTITY mousewheelHorizGroup.label      "Vaakavieritys">
-<!ENTITY scroll.label                    "Vieritä sivua ">
-<!ENTITY scroll.accesskey                "V">
-<!ENTITY scrollHoriz.accesskey           "i">
-<!ENTITY scrollLines.label               "riviä">
-<!ENTITY scrollChars.label               "merkkiä">
-<!ENTITY useSystemDefault.label          "Käytä järjestelmän oletusasetusta">
-<!ENTITY useSystemDefault.accesskey      "K">
-<!ENTITY useSystemDefaultHoriz.accesskey "ä">
-<!ENTITY scrollPgUpPgDn.label            "Vieritä yhden sivun verran ylös tai alas">
-<!ENTITY scrollPgUpPgDn.accesskey        "e">
-<!ENTITY scrollPgLtPgRt.label            "Vieritä yhden sivun verran vasemmalle tai oikealle">
-<!ENTITY scrollPgLtPgRt.accesskey        "r">
-<!ENTITY history.label                   "Siirry sivuhistoriassa taakse- tai eteenpäin">
-<!ENTITY history.accesskey               "o">
-<!ENTITY historyHoriz.accesskey          "a">
+<!ENTITY mouseWheelAction.label          "Hiiren rullan toiminta">
+<!ENTITY doNothing.label                 "Ei mitään">
+<!ENTITY doNothing.accesskey             "E">
+<!ENTITY scrollDocument.label            "Vieritä dokumenttia">
+<!ENTITY scrollDocument.accesskey        "V">
+<!ENTITY history.label                   "Siirry eteen- tai taaksepäin sivuhistoriassa">
+<!ENTITY history.accesskey               "S">
 <!ENTITY zoom.label                      "Suurenna tai pienennä sivua">
-<!ENTITY zoom.accesskey                  "S">
-<!ENTITY zoomHoriz.accesskey             "u">
+<!ENTITY zoom.accesskey                  "u">
+<!ENTITY mouseWheelSpeed.label           "Hiiren rullan nopeus">
+<!ENTITY verticalSpeed.label             "Pystysuunnassa:">
+<!ENTITY verticalSpeed.accesskey         "P">
+<!ENTITY verticalReverse.label           "Käännä suunta">
+<!ENTITY verticalReverse.accesskey       "K">
+<!ENTITY horizontalSpeed.label           "Vaakasuunnassa:">
+<!ENTITY horizontalSpeed.accesskey       "V">
+<!ENTITY horizontalReverse.label         "Käännä suunta">
+<!ENTITY horizontalReverse.accesskey     "n">
