@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "b">
 <!ENTITY viewBGImageCmd.label         "Zobraziť obrázok pozadia">
 <!ENTITY viewBGImageCmd.accesskey     "b">
-<!ENTITY setWallpaperCmd.label        "Nastaviť ako pozadie pracovnej plochy">
-<!ENTITY setWallpaperCmd.accesskey    "N">
+<!ENTITY setDesktopBackgroundCmd.label     "Nastaviť ako pozadie pracovnej plochy…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "N">
 <!ENTITY bookmarkPageCmd.label        "Vytvoriť záložku pre túto stránku…">
 <!ENTITY bookmarkPageCmd.accesskey    "z">
 <!ENTITY bookmarkLinkCmd.label        "Vytvoriť záložku pre tento odkaz…">
