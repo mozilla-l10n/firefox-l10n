@@ -34,7 +34,7 @@
 <!ENTITY tapToPlayPlugin                                     "Tik hier om de plug-in te activeren.">
 <!ENTITY clickToPlayPlugin                                   "Klik hier om de plug-in te activeren.">
 <!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Klik hier om de kwetsbare plug-in te activeren.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Klik hier om de kwetsbare plug-in te activeren (geen updates beschikbaar).">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Klik hier om de kwetsbare plug-in te activeren (geen update beschikbaar).">
 <!ENTITY checkForUpdates                                     "Controleren op updates…">
 <!ENTITY disabledPlugin                                      "Deze plug-in is uitgeschakeld.">
 <!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
