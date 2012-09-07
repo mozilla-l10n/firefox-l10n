@@ -441,7 +441,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Bladwijzer voor dit deelvenster maken">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Koppeling e-mailen…">
-<!ENTITY emailPageCmd.accesskey       "e">
+<!ENTITY emailPageCmd.accesskey       "m">
 <!ENTITY savePageCmd.label            "Pagina opslaan als…">
 <!ENTITY savePageCmd.accesskey        "p">
 <!-- alternate for content area context menu -->
@@ -654,8 +654,8 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
-<!ENTITY socialToolbar.title        "Social-werkbalkknop">
-<!ENTITY social.notLoggedIn.label   "Niet ingelogd">
+<!ENTITY socialToolbar.title        "Sociale-werkbalkknop">
+<!ENTITY social.notLoggedIn.label   "Niet aangemeld">
 
 <!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
      used for the "OK" button for two different social panels. One appears when
@@ -665,8 +665,6 @@ toolbar button -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Stoppen met delen">
-<!ENTITY social.sharePopup.undo.accesskey "S">
 <!ENTITY social.sharePopup.shared.label   "U heeft deze pagina gedeeld.">
 <!ENTITY social.sharePopup.portrait.arialabel "Gebruikersprofiel afbeelding">
 
