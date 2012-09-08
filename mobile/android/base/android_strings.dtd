@@ -224,3 +224,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Vänta …">
 
 <!ENTITY webapp_generic_name "App">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "En &brandShortName;-uppdatering finns&#8230;">
+<!ENTITY updater_start_select "Välj att hämta uppdateringen.">
+
+<!ENTITY updater_downloading_title "Hämtar &brandShortName;">
+<!ENTITY updater_downloading_ticker "Hämtar &brandShortName;-uppdatering&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Kunde inte hämta &brandShortName;-uppdatering&#8230;">
+<!ENTITY updater_downloading_select "Välj att slutföra uppdateringen när den är färdig.">
+<!ENTITY updater_downloading_retry "Välj att hämta uppdateringen igen.">
+<!ENTITY updater_downloading_willapply "Väntar på att hämtningen slutförs.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "En &brandShortName;-uppdatering finns&#8230;">
+<!ENTITY updater_apply_select "Välj att slutföra uppdateringen.">
+
+<!ENTITY updater_installing_title "&brandShortName;">
+<!ENTITY updater_installing_ticker "Uppdaterar &brandShortName;&#8230;">
+<!ENTITY updater_installing_ticker_success "&brandShortName; är uppdaterad">
+<!ENTITY updater_installing_ticker_fail "Kunde inte uppdatera &brandShortName;">
+<!ENTITY updater_installing_text "Installerar uppdatering&#8230;">
+<!ENTITY updater_installing_text_success "Uppdateringen är klar.">
+<!ENTITY updater_installing_text_fail "Kunde inte installera updatering.">
