@@ -41,6 +41,8 @@
 <!ENTITY history_week_section "Seneste 7 dage">
 <!ENTITY history_older_section "Ældre end 7 dage">
 
+<!ENTITY go "Gå">
+<!ENTITY search "Søg">
 <!ENTITY reload "Genindlæs">
 <!ENTITY forward "Fremad">
 <!ENTITY menu "Menu">
@@ -81,16 +83,27 @@
 <!ENTITY pref_font_size_medium "Mellem">
 <!ENTITY pref_font_size_large "Stor">
 <!ENTITY pref_font_size_xlarge "Ekstra Stor">
+<!ENTITY pref_font_size_set "Indstil">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "T">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Den hurtige orange ræv springer over dine forventninger med større hastighed, mere fleksibilitet og mere sikkerhed. Som en non-profit-organisation, kan vi udvikle på dine vegne uden at blive presset til at gå på kompromis. Det betyder en bedre oplevelse for dig og en lysere fremtid for internettet.">
+
 <!ENTITY pref_use_master_password "Brug hovedadgangskode">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søgeforslag">
 <!ENTITY pref_import_android "Importer fra Android">
 <!ENTITY pref_private_data_history "Browser- og filhentningshistorik">
 <!ENTITY pref_private_data_formdata "Formular- og søgehistorik">
-<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cookies2 "Cookies og aktive logins">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_passwords "Gemte adgangskoder">
-<!ENTITY pref_private_data_sessions "Aktive logins">
 <!ENTITY pref_private_data_offlineApps "Offline webapplikationsdata">
 <!ENTITY pref_private_data_siteSettings "Webstedsindstillinger">
 
@@ -106,6 +119,7 @@
 <!ENTITY share_image_failed "Kunne ikke dele dette billede">
 <!ENTITY save_as_pdf "Gem som PDF">
 <!ENTITY find_in_page "Find på siden">
+<!ENTITY desktop_mode "Anmod om desktopversion">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -133,7 +147,7 @@
 <!ENTITY bookmark_edit_location "Placering">
 <!ENTITY bookmark_edit_keyword "Stikord">
 
-<!ENTITY site_settings_title        "Ryd webstedsindstillinger">
+<!ENTITY site_settings_title2       "Webstedsindstillinger…">
 <!ENTITY site_settings_cancel       "Annuller">
 <!ENTITY site_settings_clear        "Ryd">
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
@@ -159,9 +173,19 @@
 <!ENTITY abouthome_last_tabs_open "Åbn alle faneblade fra sidst">
 <!ENTITY abouthome_top_sites_title "Hyppige steder">
 <!ENTITY abouthome_top_sites_browse "Vis alle dine hyppige steder">
-<!ENTITY abouthome_no_top_sites "Du har ikke nogle hyppige steder endnu. Tryk på titellinjen for at starte.">
-<!ENTITY abouthome_about_sync "Opsæt Firefox Sync for at få adgang til bogmærker, historik og faneblade fra dine andre enheder">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Opsæt Firefox Sync for at få adgang til bogmærker, historik og faneblade fra dine andre enheder&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Hent apps fra Mozilla Marketplace og oplev det bedste internettet kan tilbyded&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Vælg fil">
 <!ENTITY filepicker_audio_title "Vælg eller optag et lydklip">
@@ -196,5 +220,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Vent...">
 
 <!ENTITY webapp_generic_name "App">
-
-<!ENTITY desktop_mode "Anmod om desktopversion">

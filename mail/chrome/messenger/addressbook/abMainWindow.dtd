@@ -52,7 +52,7 @@
 <!ENTITY copyCmd.accesskey "o">
 <!ENTITY pasteCmd.label "Indsæt">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "i">
+<!ENTITY pasteCmd.accesskey "æ">
 <!ENTITY deleteCmd.label "Slet">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY deleteAbCmd.label "Slet adressebog">
