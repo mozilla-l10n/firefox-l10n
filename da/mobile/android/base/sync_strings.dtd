@@ -88,3 +88,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Indstil &syncBrand.shortName.label; til at sende faneblade'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Indstil &syncBrand.fullName.label; på din enhed til at sende faneblade til andre enheder.'>
 <!ENTITY sync.text.tab.sent.label 'Dit faneblad blev sendt!'>
+<!ENTITY sync.text.tab.not.sent.label 'Der opstod et problem med at sende dit faneblad.'>
