@@ -11,7 +11,7 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY recentlyClosedTabsCmd.label "Nyligt lukkede faneblade">
+<!ENTITY recentlyClosedTabsCmd.label "Senest lukkede faneblade">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
@@ -341,7 +341,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Denne mappe">
 <!ENTITY thisFolder.accesskey "D">
-<!ENTITY goRecentlyClosedTabs.label "Nyligt lukkede faneblade">
+<!ENTITY goRecentlyClosedTabs.label "Senest lukkede faneblade">
 <!ENTITY goRecentlyClosedTabs.accesskey "y">
 <!ENTITY startPageCmd.label "Startsiden">
 <!ENTITY startPageCmd.accesskey "S">

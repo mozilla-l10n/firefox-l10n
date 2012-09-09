@@ -4,11 +4,11 @@
 <!ENTITY filterName.accesskey "i">
 <!ENTITY junk.label "Spam">
 <!ENTITY notJunk.label "Ikke-spam">
-<!ENTITY lowestPriorityCmd.label "Lavest">
+<!ENTITY lowestPriorityCmd.label "Laveste">
 <!ENTITY lowPriorityCmd.label "Lav">
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Høj">
-<!ENTITY highestPriorityCmd.label "Højest">
+<!ENTITY highestPriorityCmd.label "Højeste">
 <!ENTITY filterActionDesc.label "Udfør disse handlinger:">
 <!ENTITY filterActionDesc.accesskey "U">
 <!ENTITY moveMessage.label "Flyt meddelelse til">
