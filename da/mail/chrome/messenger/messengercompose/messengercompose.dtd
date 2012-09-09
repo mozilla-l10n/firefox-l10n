@@ -148,7 +148,7 @@
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "Prioritet:">
-<!ENTITY lowestPriorityCmd.label "Lavest">
+<!ENTITY lowestPriorityCmd.label "Laveste">
 <!ENTITY lowestPriorityCmd.accesskey "a">
 <!ENTITY lowPriorityCmd.label "Lav">
 <!ENTITY lowPriorityCmd.accesskey "L">
@@ -156,7 +156,7 @@
 <!ENTITY normalPriorityCmd.accesskey "n">
 <!ENTITY highPriorityCmd.label "Høj">
 <!ENTITY highPriorityCmd.accesskey "h">
-<!ENTITY highestPriorityCmd.label "Højest">
+<!ENTITY highestPriorityCmd.label "Højeste">
 <!ENTITY highestPriorityCmd.accesskey "ø">
 <!ENTITY fileCarbonCopyCmd.label "Send en kopi til">
 <!ENTITY fileCarbonCopyCmd.accesskey "k">

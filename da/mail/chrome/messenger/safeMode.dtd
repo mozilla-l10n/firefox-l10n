@@ -46,7 +46,7 @@
 <!ENTITY disableAddons.accesskey          "D">
 
 <!ENTITY resetToolbars.label              "Nulstil værktøjslinjer">
-<!ENTITY resetToolbars.accesskey          "v">
+<!ENTITY resetToolbars.accesskey          "N">
 
 <!ENTITY changeAndRestartButton.label     "Udfør ændringer og genstart">
 <!ENTITY changeAndRestartButton.accesskey "U">
