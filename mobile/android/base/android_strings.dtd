@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 diwrnod yn ôl">
 <!ENTITY history_older_section "Mwy na 7 diwrnod">
 
+<!ENTITY go "Mynd">
+<!ENTITY search "Chwilio">
 <!ENTITY reload "Ail-lwytho">
 <!ENTITY forward "Ymlaen">
 <!ENTITY menu "Dewislen">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Canolig">
 <!ENTITY pref_font_size_large "Mawr">
 <!ENTITY pref_font_size_xlarge "Mawr Iawn">
+<!ENTITY pref_font_size_set "Gosod">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Mae\'r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\'r We.">
+
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_sync "Cydweddu">
 <!ENTITY pref_search_suggestions "Dangos awgrymiadau chwilio">
 <!ENTITY pref_import_android "Mewnforio o Android">
 <!ENTITY pref_private_data_history "Hanes a hanes llwytho i lawr">
 <!ENTITY pref_private_data_formdata "Hanes chwilio a ffurflen">
-<!ENTITY pref_private_data_cookies "Cwcis">
+<!ENTITY pref_private_data_cookies2 "Cwcis a mewngofnodi gweithredol">
 <!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
 <!ENTITY pref_private_data_cache "Storfa">
-<!ENTITY pref_private_data_sessions "Mewngofnodion gweithredol">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
 <!ENTITY pref_private_data_siteSettings "Dewisiadau\'r wefan">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Lleoliad">
 <!ENTITY bookmark_edit_keyword "Allweddair">
 
-<!ENTITY site_settings_title        "Clirio Gosodiadau Gwefan">
+<!ENTITY site_settings_title2       "Gosodiadau Gwefan...">
 <!ENTITY site_settings_cancel       "Diddymu">
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Agor pob tab ers y tro diwethaf">
 <!ENTITY abouthome_top_sites_title "Hoff wefannau">
 <!ENTITY abouthome_top_sites_browse "Pori eich hoff wefannau">
-<!ENTITY abouthome_no_top_sites "Does gennych chi ddim hoff gwefannau eto. Tapiwch y Bar Teitl i gychwn pori.">
-<!ENTITY abouthome_about_sync "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a thabiau eich dyfeisiau eraill">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a thabiau eich dyfeisiau eraill&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Estynnwch apiau o\'r Mozilla Marketplace a darganfod y gorau sydd gan y We ei gynnig&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Dewis Ffeil">
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
