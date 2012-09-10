@@ -174,7 +174,7 @@
 <!ENTITY sortByAttachmentsCmd.accesskey "V">
 <!ENTITY sortByPriorityCmd.label "Prioritet">
 <!ENTITY sortByPriorityCmd.accesskey "P">
-<!ENTITY sortBySizeCmd.label "Storleik">
+<!ENTITY sortBySizeCmd.label "Størrelse">
 <!ENTITY sortBySizeCmd.accesskey "t">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
@@ -582,10 +582,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nytt stikkord …">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Behandle stikkord …">
+<!ENTITY manageTags.accesskey "B">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Namn">
-<!ENTITY folderSizeColumn.label "Storleik">
+<!ENTITY folderSizeColumn.label "størrelse">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hent meldingar">
@@ -651,7 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagsColumn.label "Stikkord">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Storleik">
+<!ENTITY sizeColumn.label "Størrelse">
 <!ENTITY junkStatusColumn.label "Uynskt-status">
 <!ENTITY unreadColumn.label "Ulesen">
 <!ENTITY totalColumn.label "Totalt">
@@ -673,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter stikkord">
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
-<!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter storleik">
+<!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
 <!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uynskt-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Totalt tal på meldingar i tråden">
