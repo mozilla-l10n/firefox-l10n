@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Gosod &syncBrand.shortName.label; i anfon tabiau">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Gosod &syncBrand.fullName.label; ar eich dyfais i anfon tabiau i ddyfeisiadau eraill.">
 <!ENTITY sync.text.tab.sent.label "Anfonwyd eich tab!">
+<!ENTITY sync.text.tab.not.sent.label "Bu anhawster wrth anfon eich tab.">
