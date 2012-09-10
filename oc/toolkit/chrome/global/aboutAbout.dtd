@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAbout.title  "A prepaus de « A prepaus »">
-<!ENTITY aboutAbout.note   "S'agís d'una lista de paginas « A prepaus de » a vòstra disposicion.<br/> 
-D'unas d'elas pòdon èsser confusas. D'unas son unicament destinadas a far de diagnostics.<br/> E d'autras son omesas perque necessitan de cadenas de requèsta.">
+<!ENTITY aboutAbout.note   "This is a list of “about” pages for your convenience.<br/>
+                            Some of them might be confusing. Some are for diagnostic purposes only.<br/>
+                            And some are omitted because they require query strings.">

@@ -122,9 +122,10 @@ es temporària e podètz ensajar tornamai pus tard.</li>
 <!ENTITY sharedLongDesc "<ul> 
 <li>Benlèu lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus 
 tard ;</li> 
-<li>Se capitatz pas de navigar sus cap de sit, verificatz la connexion 
+<li>Se capitatz pas de navigar sus cap de site, verificatz la connexion 
 a la ret de vòstre ordenador ;</li> 
-<li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
+<li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
 <!ENTITY malwareBlocked.longDesc "<p>Los sits malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p> 

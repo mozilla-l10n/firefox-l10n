@@ -10,7 +10,7 @@
 <!ENTITY  noupdatesfound.title            "Cap de mesa a jorn pas trobada">
 <!ENTITY  noupdatesautoenabled.intro      "I a pas cap de mesa a jorn disponibla. &brandShortName; 
 verificarà regularament se n'ia.">
-<!ENTITY  noupdatesautodisabled.intro     "I a pas cap de mesa a jorn disponibla. Tornatz verificar pus tard o activatz la verificacion automatica de mesas de jorn de &brandShortName;.">
+<!ENTITY  noupdatesautodisabled.intro     "I a pas cap de mesa a jorn disponibla. Tornatz verificar pus tard o activatz la verificacion automatica de mesa de jorn de &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Impossible de metre a jorn">
 <!ENTITY  manualUpdate.desc               "Una mesa a jorn de seguretat e d'estabilitat es disponibla mas avètz pas 

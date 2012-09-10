@@ -8,6 +8,8 @@
   - documentation on web development on the web. -->
 
 
+<!ENTITY window.title "Consòla Web">
+
 <!ENTITY networkPanel.requestURL                  "URL de la requèsta">
 <!ENTITY networkPanel.requestMethod               "Metòde de la requèsta">
 <!ENTITY networkPanel.statusCode                  "Còde d'estat">
@@ -24,3 +26,66 @@
 <!ENTITY networkPanel.responseNoBody              "Pas cap de contengut dins la responsa">
 <!ENTITY networkPanel.responseImage               "Imatge recebut">
 <!ENTITY networkPanel.responseImageCached         "Imatge en escondedor">
+<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
+   - Console context menu. -->
+
+<!ENTITY saveBodies.label     "Jornalizar lo contengut de las requèstas e de las responsas">
+<!ENTITY saveBodies.accesskey "l">
+<!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
+  -  button that allows users to toggle the network logging output.
+  -  This string and the following strings toggle various kinds of output
+  -  filters. -->
+
+<!ENTITY btnPageNet.label   "Ret">
+<!ENTITY btnPageNet.tooltip "Jornalizar los accèsses a la ret">
+<!ENTITY btnPageCSS.label   "CSS">
+<!ENTITY btnPageCSS.tooltip "Jornalizar las errors d'analisi CSS">
+<!ENTITY btnPageJS.label    "JS">
+<!ENTITY btnPageJS.tooltip  "Jornalizar las excepcions JavaScript">
+<!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls such console.log() and
+  -  console.error(). -->
+
+<!ENTITY btnPageLogging.label   "Jornal">
+<!ENTITY btnPageLogging.tooltip "Jornalizar los messatges mandats a l'objècte « consòla »">
+<!ENTITY btnConsoleErrors       "Errors">
+<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleWarnings     "Avertiments">
+<!ENTITY btnConsoleLog          "Log">
+<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
+  -  allows the user to toggle between the Web Console positioning types. -->
+
+<!ENTITY btnPosition.label     "Posicion">
+<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
+  -  hovers the Position button in the Web Console toolbar. -->
+
+<!ENTITY btnPosition.tooltip   "Posicion de la consòla Web en dessús o en dejós del document">
+<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
+  -  Web Console interface is displayed above the web page. -->
+
+<!ENTITY positionMenu.above    "En dessús">
+<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
+  -  Web Console interface is displayed below the web page. -->
+
+<!ENTITY positionMenu.below    "En dejós">
+<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
+  -  Web Console interface is displayed in a floating panel. -->
+
+<!ENTITY positionMenu.window   "Fenèstra">
+
+<!ENTITY filterBox.placeholder "Filtre">
+<!ENTITY btnClear.label        "Netejar">
+<!ENTITY btnClear.tooltip      "Viodar la Consòla Web">
+<!ENTITY btnClose.tooltip      "Tampar la consòla">
+
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">

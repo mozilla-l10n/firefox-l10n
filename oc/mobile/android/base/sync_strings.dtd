@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Installar &syncBrand.shortName.label; per mandar d\'onglets">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Installar &syncBrand.fullName.label; sus vòstre aparelh per mandar d\'onglets a d\'autres aparelhs.">
 <!ENTITY sync.text.tab.sent.label "Vòstre onglet es estat mandat !">
+<!ENTITY sync.text.tab.not.sent.label "Un problèma s\'es produch al moment del mandadís de vòstre onglet.">
