@@ -97,7 +97,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Orãs bu gaaw,xaj bi dafay gatananu say bëgg bëgg ak gaawaay, ak xel ak kaarange. Doo wutkatu xaalis, bu la\ neexee nga fent ci sa tur te kenn du la sonal. Loolu dafay tekki jëf gis bu baax ci yaw ak ëlëgu Web bu baax.">
+<!ENTITY pref_font_size_preview_text "Orãs bu gaaw, xaj bi dafay gatanu say bëgg bëgg ak gaawaay, ak xel ak kaarange. Doo wutkatu xaalis, bu la\neexee nga fent ci sa tur te kenn du la sonal. Loolu dafay tekki jëfgis bu baax ci yaw ak ëlëgu Web bu baax.">
 
 <!ENTITY pref_use_master_password "Jëfandikoo baatu jàll bi gëna am solo">
 <!ENTITY pref_sync "Jàppante">
@@ -183,13 +183,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Parameetaral Firefox ngir agg ci say mandarga xët, jaar jaar ak koñi yeneen aparey yi&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Jële ay jëfekaay ci marse Mozilla te gis li gën ci web bi &#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox jàppante">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name "Marse Mozilla">
 
 <!ENTITY filepicker_title "Tànn benn dencukaay">
 <!ENTITY filepicker_audio_title "Tànn walla aar benn riir">
