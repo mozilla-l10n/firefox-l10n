@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Skrifttypar og teiknkoding">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
@@ -31,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltisk">
 <!ENTITY  font.langGroup.el                       "Gresk">
 <!ENTITY  font.langGroup.turkish                  "Tyrkisk">
-<!ENTITY  font.langGroup.unicode                  "Andre språk">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Brukardefinert">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebraisk">
