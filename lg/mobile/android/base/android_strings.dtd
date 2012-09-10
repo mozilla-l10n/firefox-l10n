@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "ennaku 7 eziyise">
 <!ENTITY history_older_section "Ebisuuse munnaku 7">
 
+<!ENTITY go "Genda">
+<!ENTITY search "Noonya">
 <!ENTITY reload "Ddamu otikke">
 <!ENTITY forward "Mumasso">
 <!ENTITY menu "Eby\'okulondako">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Wakati">
 <!ENTITY pref_font_size_large "Enene">
 <!ENTITY pref_font_size_xlarge "Enene Ddala">
+<!ENTITY pref_font_size_set "Set">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
 <!ENTITY pref_sync "Tusaganya">
 <!ENTITY pref_search_suggestions "Laga ebirowoozo by\'okunoonya">
 <!ENTITY pref_import_android "Import from Android">
 <!ENTITY pref_private_data_history "Ebifudeyo mu\'kunoonya &amp; mu\'kutikula">
 <!ENTITY pref_private_data_formdata "Ebifudeyo ku fomu &amp; okunoonya">
-<!ENTITY pref_private_data_cookies "Kukki">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "Obusumulizzo obu terekeddwa">
 <!ENTITY pref_private_data_cache "Eterekero elyo kumpii">
-<!ENTITY pref_private_data_sessions "Abalimunda kakano">
 <!ENTITY pref_private_data_offlineApps "Bwiino we\'ekibanja ekitayungiddwa ku Mutimbangano">
 <!ENTITY pref_private_data_siteSettings "Eby\'okweroboza ku Kibanja">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Ekifo">
 <!ENTITY bookmark_edit_keyword "Ekigambo ekikulu">
 
-<!ENTITY site_settings_title        "Jjawo Entegeka za Ekibanja">
+<!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "Sazaamu">
 <!ENTITY site_settings_clear        "Jjawo">
 <!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Gulawo awadirira wonna awabadewo">
 <!ENTITY abouthome_top_sites_title "Ebibanja ebisufu">
 <!ENTITY abouthome_top_sites_browse "Noonya ebibanja byo byoona ebisufu">
-<!ENTITY abouthome_no_top_sites "Tolina bibanja bisufu byoona. Koona ku Kabawo ko Omutwe okutandika okunoonya.">
-<!ENTITY abouthome_about_sync "Tegeka Firefox Sync okutuka mu bulambe, ebifudeyo na awadirira okuyita mu byuma ebirala">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Okutusaganya Firefox">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Londa Fayiro">
 <!ENTITY filepicker_audio_title "Londa oba kwata edoboozi">
