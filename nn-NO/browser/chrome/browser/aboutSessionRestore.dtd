@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY restorepage.tabtitle       "Bygg opp att programøkta">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
@@ -10,8 +14,8 @@
 
 <!ENTITY restorepage.tryagainButton "Bygg opp att">
 <!ENTITY restorepage.restore.access "B">
-<!ENTITY restorepage.cancelButton   "Start ny programøkt">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.closeButton    "Lat att">
+<!ENTITY restorepage.close.access   "L">
 
 <!ENTITY restorepage.restoreHeader  "Bygg opp att">
 <!ENTITY restorepage.listHeader     "Vindauge og faner">
