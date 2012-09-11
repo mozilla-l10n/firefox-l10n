@@ -20,7 +20,7 @@
 <!ENTITY  generalURL            "URL:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Oppteikningsmodus:">
-<!ENTITY  generalSize           "Storleik:">
+<!ENTITY  generalSize           "Størrelse:">
 <!ENTITY  generalReferrer       "Tilvisande URL:">
 <!ENTITY  generalSource         "Kjelde:">
 <!ENTITY  generalModified       "Sist endra:">
@@ -37,7 +37,7 @@
 <!ENTITY  mediaAltHeader        "Alternativ tekst">
 <!ENTITY  mediaAddress          "Adresse">
 <!ENTITY  mediaType             "Type">
-<!ENTITY  mediaSize             "Storleik">
+<!ENTITY  mediaSize             "Størrelse">
 <!ENTITY  mediaCount            "Tal">
 <!ENTITY  mediaDimension        "Dimensjonar:">
 <!ENTITY  mediaLongdesc         "Lang skildring:">

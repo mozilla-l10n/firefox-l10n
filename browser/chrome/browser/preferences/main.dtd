@@ -38,5 +38,5 @@
 <!ENTITY addonsMgr.label               "Utvidingar">
 <!ENTITY manageAddonsDescWin.label     "Endre innstillingar for utvidingane">
 <!ENTITY manageAddonsDescUnix2.label   "Endre innstillingar for utvidingane">
-<!ENTITY manageAddons.label            "Handsame utvidingar …">
+<!ENTITY manageAddons.label            "Behandle utvidingar …">
 <!ENTITY manageAddons.accesskey        "e">

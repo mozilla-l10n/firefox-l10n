@@ -37,7 +37,7 @@
 <!ENTITY InputDisabled.accesskey "å">
 <!ENTITY tabIndex.label "Tabulatorindeks">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "Feltstorleik:">
+<!ENTITY TextSize.label "Feltstørrelse:">
 <!ENTITY TextSize.accesskey "F">
 <!ENTITY TextLength.label "Makslengde">
 <!ENTITY TextLength.accesskey "L">

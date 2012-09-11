@@ -12,8 +12,8 @@
 <!ENTITY ccField3.label "Kopi">
 <!ENTITY bccField3.label "Blindkopi">
 <!ENTITY newsgroupsField3.label "Nyhenderupper">
-<!ENTITY followupToField3.label "Oppfølgjing">
-<!ENTITY tagsHdr3.label "Stikkord">
+<!ENTITY followupToField3.label "Oppfølging">
+<!ENTITY tagsHdr3.label "Merkelappar">
 <!ENTITY dateField3.label "Dato">
 <!ENTITY userAgentField3.label "Program">
 <!ENTITY referencesField3.label "Referansar">

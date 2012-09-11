@@ -1,12 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY virtualFolderProperties.title "Nytt lagra søk">
 <!ENTITY name.label                 "Namn:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Opprett som undermappe av:">
 <!ENTITY description.accesskey      "O">
 
-<!ENTITY searchTermCaption.label "Vel søkjekriteria for dette søket: ">
+<!ENTITY searchTermCaption.label "Vel søkekriteria for dette søket: ">
 
-<!ENTITY folderSelectionCaption.label "Vel mapper å søkje i: ">
+<!ENTITY folderSelectionCaption.label "Vel mapper å søke i: ">
 <!ENTITY chooseFoldersButton.label "Vel …">
 <!ENTITY chooseFoldersButton.accesskey "V">
 

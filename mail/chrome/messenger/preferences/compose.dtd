@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label                   "Generelt">
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Stavekontroll">
@@ -12,8 +16,8 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Skrifttype:">
 <!ENTITY font.accesskey                       "p">
-<!ENTITY size.label                           "Storleik:">
-<!ENTITY size.accesskey                       "o">
+<!ENTITY size.label                           "Størrelse:">
+<!ENTITY size.accesskey                       "ø">
 <!ENTITY fontColor.label                      "Tekstfarge:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Bakgrunnsfarge:">

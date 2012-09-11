@@ -67,7 +67,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Vel skriftstorleik">
+<!ENTITY FontSizeSelect.tooltip "Vel skriftstørrelse">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decreaseFontSize.key "-">
@@ -76,7 +76,7 @@
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Storleik">
+<!ENTITY fontSizeMenu.label "Størrelse">
 <!ENTITY fontSizeMenu.accesskey "e">
 <!ENTITY size-xx-smallCmd.label "xx-liten">
 <!ENTITY size-xx-smallCmd.accesskey "t">

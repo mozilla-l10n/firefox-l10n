@@ -131,11 +131,11 @@
 <!ENTITY detail.updateManual.tooltip          "Ikkje automatisk installer oppdateringar">
 <!ENTITY detail.home                          "Heimeside">
 <!ENTITY detail.repository                    "Utvidingsprofil">
-<!ENTITY detail.size                          "Storleik">
+<!ENTITY detail.size                          "Størrelse">
 
 <!ENTITY detail.checkForUpdates.label         "Sjå etter oppdateringar">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "Søkjer etter oppdateringar for denne utvidinga">
+<!ENTITY detail.checkForUpdates.tooltip       "Søker etter oppdateringar for denne utvidinga">
 <!ENTITY detail.showPreferencesWin.label      "Innstillingar">
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
 <!ENTITY detail.showPreferencesWin.tooltip    "Endre innstillingane til denne utvidinga">
