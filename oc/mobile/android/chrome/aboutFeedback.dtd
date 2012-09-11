@@ -32,7 +32,7 @@
 <!ENTITY happy.finePrint           "It takes less than a minute and feels great.">
 
 <!ENTITY happy.ratingLink          "Yes, go to Google Play">
-<!ENTITY happy.maybeLater          "Maybe Later">
+<!ENTITY happy.maybeLater          "Benlèu mai tard">
 <!ENTITY happy.noThanks            "Non, mercé">
 
 <!ENTITY sad.message               "We’re sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
