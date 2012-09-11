@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Fichiers récents">
 <!ENTITY openRecentMenu.accesskey     "r">
 
+<!ENTITY revertCmd.label              "Revenir au dernier enregistrement…">
+<!ENTITY revertCmd.accesskey          "d">
+
 <!ENTITY saveFileCmd.label            "Enregistrer">
 <!ENTITY saveFileCmd.accesskey        "s">
 <!ENTITY saveFileCmd.commandkey       "s">
