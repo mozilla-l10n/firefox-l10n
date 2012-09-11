@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Velkomen til &brandShortName;">
 <!ENTITY header2.label "Vil du ha ei ny e-postadresse?">
 <!ENTITY other.languages "Vi viser berre tilbydarane som tilbyr adresser i ditt område. Trykk her for å vise alle tilbydarane.">
@@ -16,8 +20,8 @@
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 <!ENTITY success.title.before "Hei">
-<!ENTITY success.title.after ", fylgjande e-postadresser er tilgjengelege for deg:">
-<!ENTITY success.tip "(Du kan óg prøve å søkje etter kallenamn eller andre søkjeord for å finne fleire e-postadresser)">
+<!ENTITY success.title.after ", følgande e-postadresser er tilgjengelege for deg:">
+<!ENTITY success.tip "(Du kan óg prøve å søke etter kallenamn eller andre søkjeord for å finne fleire e-postadresser)">
 <!ENTITY partnership.description "I partnerskap med fleire tilbydarar kan &brandShortName; tilby deg ein ny e-postkonto. Berre fyll inn fornamn og etternamn, og evt. andre ord du ynskjer, i felta nedanfor for å kome i gang.">
 <!ENTITY existing.header "Har du allereie ei adresse du ynskjer å nytte?">
 <!ENTITY tinyheader.title "Har du ei adresse?">
@@ -34,6 +38,6 @@
 <!ENTITY successful.close "Lat att dete vindauget.">
 <!ENTITY input.namePlaceholder "Namnet ditt, eller kallenamnet">
 <!ENTITY input.search "Søk">
-<!ENTITY search_engine.title "Tilpass søkemotoren">
-<!ENTITY search_engine.message "E-posttilbydaren din kan óg gje deg søkjemoglegheiter på nettet">
+<!ENTITY search_engine.title "Tilpass søkjemotor">
+<!ENTITY search_engine.message "E-posttilbydaren din kan også gi deg søkjealternativ på nettet">
 <!ENTITY search_engine.button "Fullfør">

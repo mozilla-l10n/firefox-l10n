@@ -93,7 +93,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Unntak …">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList2.label          "Følgjande nettstad har løyve til å lagre data for fråkopla bruk:">
+<!ENTITY offlineAppsList2.label          "Følgande nettstad har løyve til å lagre data for fråkopla bruk:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Slett …">
 <!ENTITY offlineAppsListRemove.accesskey "S">

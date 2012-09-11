@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemFormatting.label             "Formatering">
-<!ENTITY itemTags.label                   "Stikkord">
+<!ENTITY itemTags.label                   "Merkelappar">
 
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "S">
@@ -11,7 +11,7 @@
 <!ENTITY bold.label                       "Feit">
 <!ENTITY italic.label                     "Kursiv">
 <!ENTITY boldItalic.label                 "Feit og kursiv">
-<!ENTITY size.label                       "Storleik:">
+<!ENTITY size.label                       "Størrelse:">
 <!ENTITY size.accesskey                   "t">
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Større">
@@ -21,7 +21,7 @@
 <!ENTITY displayWidth.label               "Meldingar i normal tekst">
 <!ENTITY displayText.label                "Når ein viser sitat i tekstmeldingar:">
 <!ENTITY colors.label                     "Fargar">
-<!ENTITY overrideColors.label             "Bruk følgjande fargar ved vising av meldingar:">
+<!ENTITY overrideColors.label             "Bruk følgande fargar ved vising av meldingar:">
 <!ENTITY textColor.label                  "Tekstfarge:">
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Bakgrunnsfarge:">
@@ -32,7 +32,7 @@
 <!ENTITY convertEmoticons.accesskey    "V">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Stikkord kan brukast for å kategorisere og prioritere meldingane dine.">
+<!ENTITY displayTagsText.label     "Merkelappar kan brukast for å kategorisere og prioritere meldingane dine.">
 <!ENTITY addTagButton.label        "Legg til">
 <!ENTITY addTagButton.accesskey    "L">
 <!ENTITY editTagButton.label       "Rediger">
@@ -44,7 +44,7 @@
 <!ENTITY fontsAndColors.label    "Skrifttypar">
 <!ENTITY defaultFont.label       "Standard skrifttype:">
 <!ENTITY defaultFont.accesskey   "t">
-<!ENTITY defaultSize.label       "Storleik:">
-<!ENTITY defaultSize.accesskey   "o">
+<!ENTITY defaultSize.label       "Størrelse:">
+<!ENTITY defaultSize.accesskey   "ø">
 <!ENTITY fontOptions.accesskey   "r">
 <!ENTITY fontOptions.label       "Skrifttypar …">

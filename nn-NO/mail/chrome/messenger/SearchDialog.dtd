@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Søk etter meldingar i:">
 <!ENTITY searchHeading.accesskey     "ø">
@@ -42,7 +46,7 @@
 <!ENTITY tagsColumn.label "Stikkord">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Storleik">
+<!ENTITY sizeColumn.label "Størrelse">
 <!ENTITY junkStatusColumn.label "uynskt">
 <!ENTITY unreadColumn.label "Ikkje lese">
 <!ENTITY totalColumn.label "Til saman">
@@ -50,7 +54,7 @@
 <!ENTITY receivedColumn.label "Mottatt">
 <!ENTITY starredColumn.label "Stjerne">
 <!ENTITY locationColumn.label "Plassering">
-<!ENTITY idColumn.label "Mottaksrekkjefølgje">
+<!ENTITY idColumn.label "Mottaksrekkefølge">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Trykk her for å velje kolonner som skal visast">
@@ -63,7 +67,7 @@
 <!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter stikkord">
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
-<!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter storleik">
+<!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
 <!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uynskt-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Meldingar i tråden til saman">
@@ -71,4 +75,4 @@
 <!ENTITY receivedColumn.tooltip "Trykk her for å sortere etter dato mottatt">
 <!ENTITY starredColumn.tooltip "Trykk her for å sortere etter stjerne">
 <!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
-<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottatt-rekkjefølgje">
+<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottatt rekkefølge">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Meldingsfilter">
 <!ENTITY nameColumn.label "Filternamn">
 <!ENTITY activeColumn.label "Slått på">
@@ -11,7 +15,7 @@
 <!ENTITY reorderUpButton.accesskey "o">
 <!ENTITY reorderDownButton.label "Flytt ned">
 <!ENTITY reorderDownButton.accesskey "n">
-<!ENTITY filterHeader.label "Filter som er slått på vert utførde i den rekkjefølgja dei står i nedanfor.">
+<!ENTITY filterHeader.label "Filter som er slått på vert utførde i den rekkefølga dei står i nedanfor.">
 <!ENTITY filtersForPrefix.label "Filter for:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogg">

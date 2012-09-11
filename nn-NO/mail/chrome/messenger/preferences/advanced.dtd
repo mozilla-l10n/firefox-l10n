@@ -25,7 +25,7 @@
 <!ENTITY systemIntegration.label       "Systemintegrasjon">
 <!ENTITY alwaysCheckDefault.label      "Alltid kontroller om &brandShortName; er standard e-postklient ved oppstart">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY searchIntegration.label       "Tillat &searchIntegration.engineName; å søkje i meldingar">
+<!ENTITY searchIntegration.label       "Tillat &searchIntegration.engineName; å søke i meldingar">
 <!ENTITY searchIntegration.accesskey   "T">
 <!ENTITY checkNow.label                "Kontroller no">
 <!ENTITY checkNow.accesskey            "n">

@@ -25,7 +25,7 @@
 
 <!ENTITY  defaultFont.label           "Standard skrifttype:">
 <!ENTITY  defaultFont.accesskey       "d">
-<!ENTITY  defaultSize.label           "Storleik:">
+<!ENTITY  defaultSize.label           "Størrelse:">
 <!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Avansert …">
