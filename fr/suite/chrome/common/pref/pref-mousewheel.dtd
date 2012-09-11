@@ -1,28 +1,26 @@
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
-<!ENTITY pref.mouseWheel.title "Molette de la souris">
-<!ENTITY mouseWheelPanel.label "Spécifier le comportement de la molette en combinaison avec cette touche de modification : ">
-<!ENTITY usingJustTheWheel.label "aucune touche de modification">
-<!ENTITY usingWheelAndAlt.label "&altKey.label;">
-<!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
-<!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label "Défilement vertical">
-<!ENTITY mousewheelHorizGroup.label "Défilement horizontal">
-<!ENTITY scroll.label "Faire défiler le document de ">
-<!ENTITY scroll.accesskey "d">
-<!ENTITY scrollHoriz.accesskey "c">
-<!ENTITY scrollLines.label " lignes">
-<!ENTITY scrollChars.label " caractères">
-<!ENTITY useSystemDefault.label "Utiliser les paramètres par défaut du système">
-<!ENTITY useSystemDefault.accesskey "U">
-<!ENTITY useSystemDefaultHoriz.accesskey "s">
-<!ENTITY scrollPgUpPgDn.label "Faire défiler d'une page vers le haut ou vers le bas">
-<!ENTITY scrollPgUpPgDn.accesskey "F">
-<!ENTITY scrollPgLtPgRt.label "Faire défiler d'une page vers la gauche ou vers la droite">
-<!ENTITY scrollPgLtPgRt.accesskey "r">
-<!ENTITY history.label "Aller en avant ou en arrière dans l'historique">
-<!ENTITY history.accesskey "h">
-<!ENTITY historyHoriz.accesskey "v">
-<!ENTITY zoom.label "Zoom">
-<!ENTITY zoom.accesskey "Z">
-<!ENTITY zoomHoriz.accesskey "o">
+<!ENTITY pref.mouseWheel.title           "Molette de la souris">
+<!ENTITY mouseWheelPanel.label           "Spécifier le comportement de la molette en combinaison avec cette touche de modification : ">
+<!ENTITY usingJustTheWheel.label         "aucune touche de modification">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mouseWheelAction.label          "Action de la molette">
+<!ENTITY doNothing.label                 "Ne rien faire">
+<!ENTITY doNothing.accesskey             "N">
+<!ENTITY scrollDocument.label            "Faire défiler le document">
+<!ENTITY scrollDocument.accesskey        "F">
+<!ENTITY history.label                   "Aller en avant ou en arrière dans l'historique">
+<!ENTITY history.accesskey               "A">
+<!ENTITY zoom.label                      "Zoomer">
+<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY mouseWheelSpeed.label           "Vitesse de la molette">
+<!ENTITY verticalSpeed.label             "Vertical :">
+<!ENTITY verticalSpeed.accesskey         "V">
+<!ENTITY verticalReverse.label           "Inverser la direction">
+<!ENTITY verticalReverse.accesskey       "I">
+<!ENTITY horizontalSpeed.label           "Horizontal :">
+<!ENTITY horizontalSpeed.accesskey       "H">
+<!ENTITY horizontalReverse.label         "Inverser la direction">
+<!ENTITY horizontalReverse.accesskey     "n">
