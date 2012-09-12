@@ -645,3 +645,6 @@ toolbar button -->
 <!ENTITY social.sharePopup.shared.label   "Jūs iesakāt šo lapu.">
 <!ENTITY social.sharePopup.portrait.arialabel "Lietotāja profila attēls">
 
+<!ENTITY social.toggleSidebar.label "Rādīt sānu joslu">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
