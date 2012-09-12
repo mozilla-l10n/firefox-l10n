@@ -8,7 +8,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY window.title "Web-konsol">
+<!ENTITY window.title "Webkonsol">
 
 <!ENTITY networkPanel.requestURL                  "Forespørgsels-URL">
 <!ENTITY networkPanel.requestMethod               "Forespørgselsmetode">
@@ -60,7 +60,7 @@
 
 <!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
   -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "Placer Webkonsollen over eller under dokumentet">
+<!ENTITY btnPosition.tooltip   "Placer webkonsollen over eller under dokumentet">
 
 <!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
   -  Web Console interface is displayed above the web page. -->

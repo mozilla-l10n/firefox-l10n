@@ -506,6 +506,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Fejlkonsol">
 <!ENTITY errorConsoleCmd.accesskey "j">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Ryd seneste historik…">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd.label "Kontoindstillinger…">
 <!ENTITY accountManagerCmd.accesskey "o">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -547,6 +549,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Mappeplacering">
 <!ENTITY tagButton.label "Mærkat">
 <!ENTITY compactButton.label "Optimer">
+<!ENTITY appmenuButton.label "Appmenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Avanceret adressesøgning">
@@ -577,6 +580,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Vis fanebladet Chat">
 <!ENTITY tagButton.tooltip "Marker meddelelser">
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
+
+<!ENTITY appmenuButton.tooltip "Vis applikationsmenuen">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Ny meddelelse">
+<!ENTITY appmenuNewContactCmd.label "Adressebogskontakt…">
+<!ENTITY appmenuEditMenu.label "Rediger">
+<!ENTITY appmenuQFBMenu.label "Lynfilterlinje">
+<!ENTITY appmenuToolbarLayout.label "Tilpas værktøjslinje…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nyt mærkat…">

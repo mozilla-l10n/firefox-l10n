@@ -7,10 +7,16 @@
 <!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Slet">
 <!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderTopButton "Flyt til top">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Placer filter, så det udføres før alle andre">
 <!ENTITY reorderUpButton.label "Flyt op">
 <!ENTITY reorderUpButton.accesskey "o">
 <!ENTITY reorderDownButton.label "Flyt ned">
 <!ENTITY reorderDownButton.accesskey "e">
+<!ENTITY reorderBottomButton "Flyt til bund">
+<!ENTITY reorderBottomButton.accessKey "b">
+<!ENTITY reorderBottomButton.toolTip "Placer filter, så det udføres efter alle andre">
 <!ENTITY filterHeader.label "Aktiverede filtre køres automatisk i den rækkefølge, der er vist nedenfor.">
 <!ENTITY filtersForPrefix.label "Filtre for:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -27,3 +33,4 @@
 <!ENTITY helpButton.label "Hjælp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Søg i filtre efter navn…">

@@ -102,6 +102,10 @@
 <!ENTITY otherActionsPrint1.label "Udskriv…">
 <!ENTITY otherActionsPrint1.accesskey "U">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Vis ruden for vedhæftninger">
+<!ENTITY startExpandedCmd.accesskey    "V">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Åbn">
 <!ENTITY openAttachmentCmd.accesskey    "Å">
