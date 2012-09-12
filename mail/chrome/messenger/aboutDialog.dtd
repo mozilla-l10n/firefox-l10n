@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutDialog.title          "Sobre o &brandFullName;">
 
 <!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
@@ -55,6 +59,8 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Recebendo atualização — ">
 <!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "Aplicando atualização…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
