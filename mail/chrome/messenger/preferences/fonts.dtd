@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltic">
 <!ENTITY  font.langGroup.el                       "ග්‍රීක">
 <!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "වෙනත් භාෂාවන්">
+<!ENTITY  font.langGroup.unicode1                 "යුනිකෝඩ්">
 <!ENTITY  font.langGroup.user-def                 "පරිශීලක තේරූ">
 <!ENTITY  font.langGroup.thai                     "තායි">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">

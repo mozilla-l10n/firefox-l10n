@@ -550,6 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "නව ටැගයක්…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "ටැග් කළමනාකරණය…">
+<!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "නම">
