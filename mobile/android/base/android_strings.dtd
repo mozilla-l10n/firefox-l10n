@@ -102,6 +102,7 @@
 <!ENTITY find_next "Следующее">
 <!ENTITY find_close "Закрыть">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
+<!ENTITY contextmenu_open_in_reader "Открыть для чтения">
 <!ENTITY contextmenu_remove_history "Удалить">
 <!ENTITY contextmenu_remove_bookmark "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
@@ -123,7 +124,7 @@
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
 <!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
-<!ENTITY reader_mode "Режим чтения">
+<!ENTITY reader "Чтение">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
 <!ENTITY masterpassword_password "Пароль">
@@ -167,10 +168,3 @@
 <!ENTITY updater_apply_title "&brandShortName;">
 <!ENTITY updater_apply_ticker "Доступно обновление &brandShortName;…">
 <!ENTITY updater_apply_select "Выберите для применения загруженного обновления.">
-<!ENTITY updater_installing_title "&brandShortName;">
-<!ENTITY updater_installing_ticker "Обновление &brandShortName;…">
-<!ENTITY updater_installing_ticker_success "&brandShortName; успешно обновлён">
-<!ENTITY updater_installing_ticker_fail "Не удалось обновить &brandShortName;">
-<!ENTITY updater_installing_text "Установка обновления…">
-<!ENTITY updater_installing_text_success "Успешно обновлён.">
-<!ENTITY updater_installing_text_fail "Не удалось установить обновление.">
