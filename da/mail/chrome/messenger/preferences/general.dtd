@@ -26,10 +26,3 @@
 <!ENTITY customsound.accesskey            "n">
 <!ENTITY browse.label                     "Gennemse…">
 <!ENTITY browse.accesskey                 "e">
-
-<!ENTITY addonsMgr.label                  "Tilføjelser">
-<!ENTITY manageAddonsDescWin.label        "Skift indstillinger for dine tilføjelser">
-<!ENTITY manageAddonsDescUnix2.label      "Skift præferencer for dine tilføjelser">
-<!ENTITY manageAddons.label               "Administrer tilføjelser…">
-<!ENTITY manageAddons.accesskey           "m">
-

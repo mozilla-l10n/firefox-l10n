@@ -1,6 +1,8 @@
 <!ENTITY pane.title "Kvitteringer">
 <!ENTITY useGlobalPrefs.label "Brug mine globale kvitteringsindstillinger for denne konto">
-<!ENTITY useGlobalPrefs.accesskey "g">
+<!ENTITY useGlobalPrefs.accesskey "o">
+<!ENTITY globalReceipts.label         "Globale indstillinger…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label "Tilpas kvitteringsindstillinger for denne konto">
 <!ENTITY useCustomPrefs.accesskey "T">
 <!ENTITY requestReceipt.label "Bed altid om en kvittering, når der sendes meddelelser">

@@ -305,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Præferencer">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
-<!ENTITY clearRecentHistory.label               "Ryd senest historik…">
+<!ENTITY clearRecentHistory.label               "Ryd seneste historik…">
 <!ENTITY clearRecentHistory.accesskey           "R">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
@@ -644,8 +644,8 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.label     "Fjern deling">
 <!ENTITY social.sharePopup.undo.accesskey "F">
 
-<!ENTITY social.sharePopup.shared.label   "You shared this page.">
-<!ENTITY social.sharePopup.portrait.arialabel "User profile picture">
+<!ENTITY social.sharePopup.shared.label   "Du har delt denne side.">
+<!ENTITY social.sharePopup.portrait.arialabel "Brugers profilbillede">
 
 <!ENTITY social.toggleSidebar.label "Vis sidebjælke">
 <!ENTITY social.toggleSidebar.accesskey "V">
