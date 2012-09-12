@@ -12,8 +12,8 @@
 <!ENTITY support.link "сайт поддержки &brandShortName;">
 <!ENTITY support.post ".">
 <!ENTITY happy.header "Мы рады это слышать!">
-<!ENTITY happy.message "Want to share the love by giving us a 5 star rating on Google Play?">
-<!ENTITY happy.finePrint "It takes less than a minute and feels great.">
+<!ENTITY happy.message "Хотите этим поделиться, оценив нас в 5 звёздочек на Google Play?">
+<!ENTITY happy.finePrint "Это займет не более минуты и сделает всех немного счастливее.">
 <!ENTITY happy.ratingLink "Да, перейти на Google Play">
 <!ENTITY happy.maybeLater "Может быть позже">
 <!ENTITY happy.noThanks "Нет, спасибо">
@@ -22,12 +22,12 @@
 <!ENTITY sad.lastSite "Последний посещённый сайт (необязательно)">
 <!ENTITY sad.urlPlaceholder "http://">
 <!ENTITY sad.thanksHeader "Спасибо, что дали нам знать.">
-<!ENTITY sad.thanksMessageTop "We’re always working to make &brandShortName; better. Rest assured that real people will look at your feedback and do their very best to resolve your issue.">
-<!ENTITY sad.thanksMessageBottom "Or else.">
-<!ENTITY idea.message "We love hearing your ideas! Please share your thoughts below. (Just the ones about &brandShortName;, please.)">
+<!ENTITY sad.thanksMessageTop "Мы постоянно работаем над тем, чтобы сделать &brandShortName; ещё лучше. Будьте уверены, что ваш отзыв увидят живые люди, которые сделают всё возможное, чтобы решить вашу проблему.">
+<!ENTITY sad.thanksMessageBottom "Иначе им не поздоровится.">
+<!ENTITY idea.message "Мы с радостью выслушаем ваши идеи! Вы можете поделиться ими через размещённое ниже поле (но только теми, что относятся к &brandShortName;).">
 <!ENTITY idea.placeholder "Напишите здесь свою идею">
 <!ENTITY idea.thanksHeader "Спасибо!">
-<!ENTITY idea.thanksMessageTop "We appreciate you taking the time to share your thoughts. We’re always working to make &brandShortName; better and contributions like yours can lead to great things.">
-<!ENTITY idea.thanksMessageBottom "You can't see it, but we're giving you a high five right now.">
-<!ENTITY feedback.privacy "For your privacy, please don't include any personally indentifiable information in your feedback.">
+<!ENTITY idea.thanksMessageTop "Мы очень ценим то, что вы нашли время поделиться своими мыслями. Мы постоянно работаем над тем, чтобы сделать &brandShortName; ещё лучше, и ваши идеи всегда могут привести нас к чему-то новому.">
+<!ENTITY idea.thanksMessageBottom "Хотя вы этого не видите, прямо сейчас мы жмём вам руку.">
+<!ENTITY feedback.privacy "Для обеспечения вашей приватности, пожалуйста, не включайте в отзыв любую идентифицирующую вас информацию.">
 <!ENTITY feedback.send "Отправить отзыв">
