@@ -4,7 +4,7 @@
 
 <!ENTITY tracking.label                 "Sporing">
 
-<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ynskjer å verte spora">
+<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ynskjer å bli spora">
 <!ENTITY doNotTrack.accesskey           "F">
 
 <!ENTITY  history.label                 "Historikk">
