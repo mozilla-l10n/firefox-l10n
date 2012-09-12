@@ -65,7 +65,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAppUpdate.accesskey      "B">
 <!ENTITY enableAddonsUpdate.label       "Extensões e temas instalados">
 <!ENTITY enableAddonsUpdate.accesskey   "E">
 <!ENTITY whenUpdatesFound.label         "Ao encontrar atualizações do &brandShortName;:">

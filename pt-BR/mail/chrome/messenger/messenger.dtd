@@ -484,8 +484,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Ocupado">
 <!ENTITY imStatus.offline            "Off-line">
-<!ENTITY imStatus.showAccounts       "Exibir contas…">
-<!ENTITY joinChatCmd.label "Entrar no bate-papo…">
+<!ENTITY imStatus.showAccounts       "Contas de bate-papo…">
+<!ENTITY joinChatCmd.label "Entrar em uma sala de bate-papo…">
 <!ENTITY joinChatCmd.accesskey "E">
 <!ENTITY savedFiles.label "Arquivos salvos">
 <!ENTITY savedFiles.accesskey "u">
@@ -507,10 +507,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Limpar dados de navegação…">
+<!ENTITY clearRecentHistory.accesskey "L">
 <!ENTITY accountManagerCmd.label "Configurar contas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
-        which is placed under the Edit menu on Unix systems -->
+     which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "n">
 
 <!-- Mail Toolbar -->
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Endereço da pasta">
 <!ENTITY tagButton.label "Tags">
 <!ENTITY compactButton.label "Condensar">
+<!ENTITY appmenuButton.label "Menu &brandShortName;">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Mais opções de pesquisa">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Exibir aba de bate-papo">
 <!ENTITY tagButton.tooltip "Aplicar tag em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
+<!ENTITY appmenuButton.tooltip "Exibir o Menu &brandShortName;">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
+<!ENTITY appmenuNewContactCmd.label "Contato no catálogo de endereços…">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuQFBMenu.label "Barra de filtragem">
+<!ENTITY appmenuToolbarLayout.label "Personalizar barras…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova tag…">

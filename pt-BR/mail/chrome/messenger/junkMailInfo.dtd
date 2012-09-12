@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "Usando o anti-spam">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "O &brandShortName; pode identificar, assim que forem recebidas, mensagens que podem ser spam. Mensagens que o &brandShortName; considerar indesejadas exibirão um ícone no campo “Spam”.">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountsWindow.title                "Status de mensagem instantânea">
+<!ENTITY accountsWindow.title                "Contas de bate-papo">
 <!ENTITY accountsWindow2.style               "width: 42em; height: 28em;">
 <!ENTITY accountManager.newAccount.label     "Nova conta">
 <!ENTITY accountManager.newAccount.accesskey "N">
