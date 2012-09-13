@@ -158,7 +158,7 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "වි. තැ. ලිපිනය">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Chat Name">
+<!ENTITY ChatName.label                                 "චැට් නාමය">
 <!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "ආයතනය">
 <!ENTITY Company.accesskey                              "z">
@@ -172,7 +172,7 @@
 <!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "ජංගම දු.ක.">
 <!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pager">
+<!ENTITY PagerNumber.label                              "පේජරය">
 <!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "ෆැකස්">
 <!ENTITY FaxNumber.accesskey                            "F">
@@ -184,7 +184,7 @@
 <!ENTITY sortAscending.accesskey                        "A">
 <!ENTITY sortDescending.label                           "අවරෝහණ පිළිවෙළට">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "Phonetic Name">
+<!ENTITY _PhoneticName.label                            "ශබ්දානුකූල (Phonetic) නම">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
@@ -192,7 +192,7 @@
 <!ENTITY contact.heading                                "සබඳතාවය">
 <!ENTITY home.heading                                   "නිවස">
 <!ENTITY other.heading                                  "වෙනත්">
-<!ENTITY chat.heading                                   "Chat">
+<!ENTITY chat.heading                                   "චැට්">
 <!ENTITY phone.heading                                  "දුරකතනය">
 <!ENTITY work.heading                                   "කාර්යාලය">
 <!-- Special Box Headings, for mailing lists -->
