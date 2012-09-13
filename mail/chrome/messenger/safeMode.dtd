@@ -1,19 +1,13 @@
 
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
 <!ENTITY disableAddons.accesskey "D">
-<!ENTITY safeModeDescription2.label "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription2.label "ඔබට මෙම සමහර හෝ සියළුම වෙනස්කම් ස්ථිර කළ හැකිය:">
 <!ENTITY changeAndRestartButton.accesskey "M">
-<!ENTITY continueButton.label "Continue in Safe Mode">
-<!ENTITY safeModeDialog.title "&brandShortName; Safe Mode">
-<!ENTITY resetToolbars.label "Reset toolbars and controls">
-<!ENTITY safeModeDescription.label "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY disableAddons.label "Disable all add-ons">
+<!ENTITY continueButton.label "ආරක්ෂිත ආකාරය (Safe Mode) තුළ දිගටම ක්‍රියාත්මක වන්න">
+<!ENTITY safeModeDialog.title "&brandShortName; ආරක්ෂිත ආකාරය (Safe Mode)">
+<!ENTITY resetToolbars.label "මෙවලම්තීරු සහ පාලක (controls) ප්‍රති-සකසන්න">
+<!ENTITY safeModeDescription.label "&brandShortName; ආරක්ෂිත ආකාරය (Safe Mode) තුළ ක්‍රියාත්මක වේ, එය ඔබගේ රිසිකරණ සැකසුම්, තේමාවන්, සහ දිගුකිරීම් තාවකාලිකව අබක (disable) කරනු ඇත.">
+<!ENTITY disableAddons.label "සියළු ඇඩෝන අබල (Disable) කරන්න">
 <!ENTITY resetToolbars.accesskey "R">
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
+<!ENTITY changeAndRestartButton.label "වෙනස්කම් සිදුකර යළි-ආරම්භ කරන්න">
 <!ENTITY continueButton.accesskey "C">
 <!ENTITY window.width "37em">

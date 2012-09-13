@@ -15,7 +15,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "චැට් ගිණුම…">
 <!ENTITY newIMAccountCmd.accesskey "C">
-<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newIMContactCmd.label "චැට් සබඳතාවය…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් අරින්න...">
 <!ENTITY openMessageFileCmd.accesskey "O">
@@ -719,7 +719,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "ෆෝල්ඩර සහ ඒවායේ කොටස්…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -744,7 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
+<!ENTITY junkBarMessage2.label "&brandShortName; මෙම ලිපිය නිසරු සේ සලකයි.">
 <!ENTITY junkBarButton1.label "නිසරු නොවූ">
 <!ENTITY junkInfoButton.label "?">
 
@@ -752,9 +752,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY remoteContentMessage2.label "ඔබගේ පෞද්ගලිකත්වය රැකීම සඳහා, &brandShortName; මෙම ලිපියේ දුරස්ථ අන්තර්ගතයන් අවහිර කර ඇත.">
 <!ENTITY loadRemoteContentButton3.label "දුරස්ථ අන්තර්ගතයන් පෙන්වන්න">
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "This message may be a scam.">
+<!ENTITY phishingBarMessage2.label "මෙම ලිපිය වංචාකාරී (scam) එකක් විය හැකිය.">
 <!ENTITY removePhishingBarButton1.label "අවවාදය නොසලකා වරින්න">
-<!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
+<!ENTITY reportPhishingError1.label "මෙම ලිපිය වංචාකාරී (scam) එකක් සේ නොපෙනේ.">
 
 
 <!-- Quick Search Bar -->
