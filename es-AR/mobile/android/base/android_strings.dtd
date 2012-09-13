@@ -134,6 +134,7 @@ size. -->
 <!ENTITY find_close "Cerrar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
+<!ENTITY contextmenu_open_in_reader "Abrir en lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
@@ -161,7 +162,7 @@ size. -->
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
 <!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
-<!ENTITY reader_mode "Modo lector">
+<!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
@@ -242,10 +243,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_ticker "Actualización de &brandShortName; disponible&#8230;">
 <!ENTITY updater_apply_select "Seleccioná para aplicar la actualización descargada.">
 
-<!ENTITY updater_installing_title "&brandShortName;">
-<!ENTITY updater_installing_ticker "Actualizando &brandShortName;&#8230;">
-<!ENTITY updater_installing_ticker_success "&brandShortName; actualizado exitosamente">
-<!ENTITY updater_installing_ticker_fail "Falló la actualización de &brandShortName;">
-<!ENTITY updater_installing_text "Instalando actualización&#8230;">
-<!ENTITY updater_installing_text_success "Actualizado exitosamente.">
-<!ENTITY updater_installing_text_fail "Falló la instalación de la actualización.">

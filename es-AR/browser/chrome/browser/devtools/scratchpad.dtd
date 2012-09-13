@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Abrir reciente">
 <!ENTITY openRecentMenu.accesskey     "r">
 
+<!ENTITY revertCmd.label              "Revertir…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "Guardar">
 <!ENTITY saveFileCmd.accesskey        "G">
 <!ENTITY saveFileCmd.commandkey       "s">
