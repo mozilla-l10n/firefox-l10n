@@ -5,9 +5,9 @@
 <!ENTITY itemCertificates.label  "සහතික">
 
 <!-- General Settings -->
-<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.label         "කාර්යයසාධන (Performance) දත්ත යවන්න">
 <!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
+<!ENTITY telemetryInfoLink.label       "Telemetry පිළිබඳ වැඩිමනත් තොරතුරු">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 
@@ -70,7 +70,7 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
 <!ENTITY showUpdates.accesskey          "y">
-<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.label                "යාවත්කාලීන ස්ථාපනය සඳහා පසුබිම් සේවාවන් භාවිතා කරන්න">
 <!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
@@ -85,9 +85,9 @@
 
 <!ENTITY Diskspace "ඩිස්ක ඉඩ">
 
-<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.label     "සුරකින්නේ නම් සියළු ෆෝලඩර සංයුක්ත (Compact) කරන්න">
 <!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label   "MB in total">
+<!ENTITY offlineCompactFoldersMB.label   "MB (මුළු එකතුව)">
 
 <!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
 <!ENTITY clearCacheNow.accesskey         "C">
@@ -110,12 +110,6 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "ආරක්‍ෂක මෙවලම්">
 <!ENTITY viewSecurityDevices.accesskey  "u">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
 
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY closeMsgOnMoveOrDelete.label "මැකීමේදී හෝ ගෙනයාමේදී නවුළුව/ටැබය වසන්න">

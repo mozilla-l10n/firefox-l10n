@@ -18,11 +18,6 @@
 <!ENTITY aboutMenuCmd.accesskey "A">
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
 <!ENTITY releaseCmd2.label "නිකුතු සටහන්">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">

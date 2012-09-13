@@ -21,4 +21,4 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY editContactAddressBook.accesskey "A">
 <!ENTITY editContactAddressBook.label "ලිපින පොත:">
-<!ENTITY contactMoveDisabledWarning.description "සබඳතා ලිපි ලැයිස්තුවේ ඇති බැවින් ඔබට පිබින පොත වෙනස් කළ නොහැකිය.">
+<!ENTITY contactMoveDisabledWarning.description "සබඳතා ලිපි ලැයිස්තුවේ ඇති බැවින් ඔබට ලිපින පොත වෙනස් කළ නොහැකිය.">
