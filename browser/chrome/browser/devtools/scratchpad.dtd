@@ -13,6 +13,8 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY openRecentMenu.label "Apri recenti">
 <!ENTITY openRecentMenu.accesskey "r">
+<!ENTITY revertCmd.label "Ripristina…">
+<!ENTITY revertCmd.accesskey "t">
 <!ENTITY saveFileCmd.label "Salva">
 <!ENTITY saveFileCmd.accesskey "S">
 <!ENTITY saveFileCmd.commandkey "s">
