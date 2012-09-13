@@ -36,13 +36,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ආයාතකළ වෙනස්කළ මනාපයන්">
 <!ENTITY aboutSupport.appBasicsCrashIDs "බිඳවැටුම් වාර්තා">
 <!ENTITY aboutSupport.appBasicsMemoryUse "මෙමරි භාවිතය">
-<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsTitle "ජාවාස්ක්‍රිප්ට්">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "පුස්තකාල නිකුතුව">
 
-<!ENTITY aboutSupport.a11yTitle "Accessibility">
-<!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yTitle "ප්‍රවේශ හැකියාව">
+<!ENTITY aboutSupport.a11yActivated "සක්‍රීය කළ">
+<!ENTITY aboutSupport.a11yForceDisabled "ප්‍රවේශ හැකියාව වළකන්න">
 
 

@@ -64,9 +64,9 @@
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "නව">
 <!ENTITY new.accesskey "N">
-<!ENTITY string.label "String">
+<!ENTITY string.label "අනුලකුණුවැල">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Integer">
+<!ENTITY integer.label "පූර්ණාංක">
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "බූලීය">
 <!ENTITY boolean.accesskey "B">
