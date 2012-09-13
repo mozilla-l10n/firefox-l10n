@@ -102,6 +102,7 @@
 <!ENTITY find_next "Successivo">
 <!ENTITY find_close "Chiudi">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
+<!ENTITY contextmenu_open_in_reader "Apri in Lettore">
 <!ENTITY contextmenu_remove_history "Rimuovi">
 <!ENTITY contextmenu_remove_bookmark "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Aggiungi a schermata Home">
@@ -123,7 +124,7 @@
 <!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
 <!ENTITY reading_list_removed "Pagina eliminata da Elenco lettura">
 <!ENTITY reading_list_failed "Impossibile aggiungere la pagina a Elenco lettura">
-<!ENTITY reader_mode "Modalità lettura">
+<!ENTITY reader "Lettore">
 <!ENTITY masterpassword_create_title "Imposta password principale">
 <!ENTITY masterpassword_remove_title "Rimuovi password principale">
 <!ENTITY masterpassword_password "Password">
@@ -155,3 +156,15 @@
 <!ENTITY bookmarkhistory_import_history "Importazione cronologia da Android">
 <!ENTITY bookmarkhistory_import_wait "Attendere…">
 <!ENTITY webapp_generic_name "App">
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Aggiornamento disponibile per &brandShortName;…">
+<!ENTITY updater_start_select "Seleziona per scaricare l'aggiornamento.">
+<!ENTITY updater_downloading_title "Download di &brandShortName; in corso">
+<!ENTITY updater_downloading_ticker "Download di &brandShortName; in corso…">
+<!ENTITY updater_downloading_ticker_failed "Impossibile scaricare l'aggiornamento di &brandShortName;…">
+<!ENTITY updater_downloading_select "Seleziona per installare l'aggiornamento al termine del download.">
+<!ENTITY updater_downloading_retry "Seleziona per riprovare il download.">
+<!ENTITY updater_downloading_willapply "In attesa del completamento del download.">
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Aggiornamento disponibile per &brandShortName;…">
+<!ENTITY updater_apply_select "Seleziona per installare l'aggiornamento.">
