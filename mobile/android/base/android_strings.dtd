@@ -158,13 +158,13 @@
 <!ENTITY webapp_generic_name "App">
 <!ENTITY updater_start_title "&brandShortName;">
 <!ENTITY updater_start_ticker "Aggiornamento disponibile per &brandShortName;…">
-<!ENTITY updater_start_select "Seleziona per scaricare l'aggiornamento.">
+<!ENTITY updater_start_select "Seleziona per scaricare l’aggiornamento.">
 <!ENTITY updater_downloading_title "Download di &brandShortName; in corso">
 <!ENTITY updater_downloading_ticker "Download di &brandShortName; in corso…">
-<!ENTITY updater_downloading_ticker_failed "Impossibile scaricare l'aggiornamento di &brandShortName;…">
-<!ENTITY updater_downloading_select "Seleziona per installare l'aggiornamento al termine del download.">
+<!ENTITY updater_downloading_ticker_failed "Impossibile scaricare l’aggiornamento di &brandShortName;…">
+<!ENTITY updater_downloading_select "Seleziona per installare l’aggiornamento al termine del download.">
 <!ENTITY updater_downloading_retry "Seleziona per riprovare il download.">
 <!ENTITY updater_downloading_willapply "In attesa del completamento del download.">
 <!ENTITY updater_apply_title "&brandShortName;">
 <!ENTITY updater_apply_ticker "Aggiornamento disponibile per &brandShortName;…">
-<!ENTITY updater_apply_select "Seleziona per installare l'aggiornamento.">
+<!ENTITY updater_apply_select "Seleziona per installare l’aggiornamento.">
