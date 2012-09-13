@@ -1,9 +1,9 @@
 
 <!ENTITY  prefWindow.titleWin     "වරණ">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; මනාපයන්">
-<!ENTITY  prefWindow.styleWindows "width: 69em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleWindows "width: 79em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 52em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 57em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "සාමාන්‍ය">
 <!ENTITY paneDisplay.title        "පෙන්වීම">
