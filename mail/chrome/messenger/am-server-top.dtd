@@ -82,5 +82,5 @@
 <!ENTITY browseNewsrc.label "පිරික්සන්න...">
 <!ENTITY browseNewsrc.accesskey "e">
 
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
+<!ENTITY accountTitle.label "ගිණුම් සැකසුම්">
+<!ENTITY accountSettingsDesc.label "පහත දැක්වෙන්නේ විශේෂිත ගිණුමකි.  ඒහා සම්බන්ධිත හැඳුනුම් නොමැත.">

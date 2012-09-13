@@ -40,5 +40,17 @@
 <!ENTITY reloadPlugin.post " නැවත උත්සාහ කිරීමට.">
 <!ENTITY report.submitting "වාර්තාව යවයි…">
 <!ENTITY report.submitted "බිඳවැටුම් වාර්තාව යවන ලදී.">
-<!ENTITY clickToPlayPlugin                                   "ප්ලගීනය සක්‍රීය කිරීමට මෙහි ක්ලික් කරන්න.">
+<!ENTITY clickToPlayPlugin "ප්ලගීනය සක්‍රීය කිරීමට මෙහි ක්ලික් කරන්න.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre                             "කණගාටුයි, &brandShortName; ට මෙම උපාංගය තුළ ප්ලෑෂ් ක්‍රියාත්මක කළ නොහැකිය. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "වැඩිදුරටත් දැනුවත්වන්න…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Click here to activate vulnerable plugin.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Click here to activate vulnerable plugin (no update available).">
+<!ENTITY checkForUpdates                                     "Check for updates…">
 

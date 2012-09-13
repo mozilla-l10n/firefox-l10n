@@ -24,7 +24,7 @@
 <!ENTITY backgroundColor.accesskey        "b">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label           "Display emoticons as graphics">
+<!ENTITY convertEmoticons.label           "ඉමෝටිකෝන (emoticons) පිංතූර ලෙස පෙන්වන්න">
 <!ENTITY convertEmoticons.accesskey       "D">
 
 <!-- labels -->

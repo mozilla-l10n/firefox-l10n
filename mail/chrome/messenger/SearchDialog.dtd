@@ -3,7 +3,7 @@
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "සොයන උප-ෆෝල්ඩරය">
 <!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY searchOnServer.label        "Run search on server">
+<!ENTITY searchOnServer.label        "සේවාදායකය තුළ සෙවුම කරන්න">
 <!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "හිස් කරන්න">
 <!ENTITY resetButton.accesskey       "C">
