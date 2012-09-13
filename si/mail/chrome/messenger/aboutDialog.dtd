@@ -2,12 +2,6 @@
 
 <!ENTITY cmdCloseMac.commandKey "w">
 
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
 <!ENTITY update.failed.end "">
 
 <!ENTITY update.noUpdatesFound "&brandShortName; යාවත්කාලීනයි">
@@ -17,13 +11,13 @@ Entities below were automatically added by compare-locales,
 <!ENTITY update.manual.linkText "නවතම නිකුතුව">
 <!ENTITY community.middle2 ", a ">
 <!ENTITY update.checkingAddonCompat "ඇඩෝන අනුකූලතාවය පරීක්ෂා කරයි…">
-<!ENTITY update.manual.start "Download the ">
-<!ENTITY update.failed.start "Update failed. ">
+<!ENTITY update.manual.start "බාගත කරන්න ">
+<!ENTITY update.failed.start "යාවත්කාලීන අසාර්ථක විය. ">
 <!ENTITY bottomLinks.license "බලපත්‍ර තොරතුරු">
 <!ENTITY contribute.end "">
 <!ENTITY channel.description.start "You are currently on the ">
 <!ENTITY bottomLinks.privacy "Privacy Policy">
-<!ENTITY update.adminDisabled "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled "ඔබගේ පද්ධති පරිපාලක විසින් යාවත්කාලීන අබල (disabled) කර ඇත">
 <!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
 
 <!ENTITY contribute.start "Sound interesting? ">

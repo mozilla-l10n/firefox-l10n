@@ -1,7 +1,7 @@
 <!-- -*- Mode: Java; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-
 -->
 
-<!ENTITY  intro.label                 "ඔබ විවෘත කිරීමට තෝරන ලදි">
+<!ENTITY  intro2.label                "ඔබ විවෘත කිරීමට තෝරන ලද:">
 <!ENTITY  from.label                  "සිට:">
 <!ENTITY  actionQuestion.label        "&brandShortName; මෙ ගොනුව සමග කුමක් කළ යුතුද?">
 

@@ -5,11 +5,18 @@
 <!ENTITY itemCertificates.label  "සහතික">
 
 <!-- General Settings -->
-<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.label         "කාර්යයසාධන (Performance) දත්ත යවන්න">
 <!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
+<!ENTITY telemetryInfoLink.label       "Telemetry පිළිබඳ වැඩිමනත් තොරතුරු">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "පද්ධති ඒකාබද්ධ කිරීම">
 <!ENTITY searchIntegration.label       "ලිපි සෙවීමට &searchIntegration.engineName; ට ඉඩදෙන්න">
 <!ENTITY searchIntegration.accesskey   "S">
@@ -63,7 +70,7 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
 <!ENTITY showUpdates.accesskey          "y">
-<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.label                "යාවත්කාලීන ස්ථාපනය සඳහා පසුබිම් සේවාවන් භාවිතා කරන්න">
 <!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
@@ -77,8 +84,11 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "ඩිස්ක ඉඩ">
-<!ENTITY offlineCompact.label "මෙම ඉඩට වඩා ඉතිරි කරන්නේ නම් ෆෝල්ඩර සංයුක්ත කරන්න">
-<!ENTITY offlineCompact.accesskey "v">
+
+<!ENTITY offlineCompactFolders.label     "සුරකින්නේ නම් සියළු ෆෝලඩර සංයුක්ත (Compact) කරන්න">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB (මුළු එකතුව)">
+
 <!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY useCacheBefore.label            "කෑච් (Cache) සඳහා මෙගාබයිට (MB)">
@@ -101,12 +111,5 @@
 <!ENTITY viewSecurityDevices.label      "ආරක්‍ෂක මෙවලම්">
 <!ENTITY viewSecurityDevices.accesskey  "u">
 
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-<!ENTITY mb.label "MB">
 <!ENTITY closeMsgOnMoveOrDelete.label "මැකීමේදී හෝ ගෙනයාමේදී නවුළුව/ටැබය වසන්න">

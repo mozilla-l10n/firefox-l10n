@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "සංචිතය සීමාවට පැමිණ ඇත">
+<!ENTITY fileExceedsQuota.accept "ඉහළ දමන්න (Upgrade)">
+<!ENTITY fileExceedsQuota.cancel "එපා">
+<!ENTITY fileExceedsQuota.description "ඔබගේ ගිණුම සංචිත සීමාව වන 2GB ට පැමිණ ඇත.">
+<!ENTITY fileExceedsQuota.description1 "ඔබගේ වත්මන් සංචිත භාවිතය #XXX GB වේ.">
+<!ENTITY fileExceedsQuota.description2 "අදම Pro Plus ගිණුමක් දක්වා ඉහළ දමා (Upgrade) වැඩි සංචිත සීමාවක් ලබාගන්න.">
+<!ENTITY fileExceedsQuota.description3 "ඔබට දැනට ගිණුමේ ඇති ගොනු කිහිපයක් මකා සංචිත ඉඩ ලබාගත හැකිය.">
