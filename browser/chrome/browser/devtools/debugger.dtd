@@ -35,18 +35,6 @@
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions          "Paŭzigi ĉe esceptoj">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
-  -  the button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Preterpaŝi">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
-  -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton.tooltip     "Enpaŝi">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
-  -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton.tooltip    "Elpaŝi">
-
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 <!ENTITY debuggerUI.stackTitle       "Stako de vokoj">
@@ -59,11 +47,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Kuntekstaj variaĵoj">
+<!ENTITY debuggerUI.propertiesTitle  "Variaĵoj laŭ amplekso">
 
-<!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
-  -  appears in the filter text box when it is empty. -->
-<!ENTITY debuggerUI.emptyFilterText  "Filtri skriptojn">
+<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
+  -  appears in the filter panel popup as a description. -->
+<!ENTITY debuggerUI.searchPanelTitle    "Operaciiloj">
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
