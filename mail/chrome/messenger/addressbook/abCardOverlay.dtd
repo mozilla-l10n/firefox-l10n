@@ -61,8 +61,8 @@
 <!ENTITY NameField1.accesskey           "F">
 <!ENTITY NameField2.label               "අවසන්:">
 <!ENTITY NameField2.accesskey           "L">
-<!ENTITY PhoneticField1.label           "Phonetic:">
-<!ENTITY PhoneticField2.label           "Phonetic:">
+<!ENTITY PhoneticField1.label           "ශබ්දානුකූල (Phonetic):">
+<!ENTITY PhoneticField2.label           "ශබ්දානුකූල (Phonetic):">
 <!ENTITY DisplayName.label              "නම පෙන්වීම:">
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY NickName.label                 "විකල්පනාමය:">
@@ -77,7 +77,7 @@
 <!ENTITY PlainText.label                "සාමාන්‍ය පාඨ (Plain Text)">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "නොදන්නා">
-<!ENTITY chatName.label                 "Chat Name:">
+<!ENTITY chatName.label                 "චැට් නාමය:">
 
 <!ENTITY allowRemoteContent1.label      "දුරස්ථ අන්තර්ගතයන්ට ඉඩ දෙන්න.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -159,7 +159,7 @@ content in HTML messages from this contact.">
 <!ENTITY Notes.label                    "සටහන්">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.tab                       "චැට්">
 <!ENTITY Chat.accesskey                 "a">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
@@ -192,12 +192,6 @@ content in HTML messages from this contact.">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY UpdatePhoto.label              "යාවත්කාලීන කරන්න">
 <!ENTITY UpdatePhoto.accesskey          "u">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
 
 <!ENTITY preferDisplayName.accesskey "y">
 <!ENTITY PhotoURL.placeholder "ඡායාරූපයක වෙබ් ලිපිනය අලවන්න හෝ ටයිප් කරන්න">
