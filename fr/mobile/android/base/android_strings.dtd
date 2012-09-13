@@ -128,6 +128,7 @@ size. -->
 <!ENTITY find_close "Fermer">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
+<!ENTITY contextmenu_open_in_reader "Ouvrir dans le lecteur">
 <!ENTITY contextmenu_remove_history "Supprimer">
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
@@ -155,7 +156,7 @@ size. -->
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
 <!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
-<!ENTITY reader_mode "Mode de lecture">
+<!ENTITY reader "Lecteur">
 
 <!ENTITY masterpassword_create_title "Créer un mot de passe principal">
 <!ENTITY masterpassword_remove_title "Effacer le mot de passe principal">
