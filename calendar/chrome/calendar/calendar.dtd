@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Ainm:">
 <!ENTITY calendarproperties.readonly.label                 "Ri leughadh a-mhàin">
 <!ENTITY calendarproperties.firealarms.label               "Seall caismeachdan">
-<!ENTITY calendarproperties.cache2.label                    "Tasgadan">
+<!ENTITY calendarproperties.cache3.label                   "Taic far loidhne">
 <!ENTITY calendarproperties.enabled.label                  "Cuir air am mìosachan seo">
 <!ENTITY calendarproperties.forceDisabled.label            "Cha deach solaraiche a' mhìosachain seo a lorg. Tachraidh seo gu tric ma chuir thu à comas tuilleadain sònraichte no ma dhì-stàlaich thu iad.">
 <!ENTITY calendarproperties.unsubscribe.label              "Sguir dhen fho-sgrìobhadh">
