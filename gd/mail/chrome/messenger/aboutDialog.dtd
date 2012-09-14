@@ -56,6 +56,8 @@
 <!ENTITY update.downloading.start   "A' luchdadh a-nuas ùrachadh — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "A' cur an sàs an ùrachaidh…">
+
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

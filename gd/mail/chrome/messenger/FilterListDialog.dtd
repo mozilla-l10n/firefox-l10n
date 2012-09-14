@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Criathragan nan teachdaireachd">
 <!ENTITY nameColumn.label "Ainm na criathraige">
 <!ENTITY activeColumn.label "Air a chur an comas">
@@ -7,10 +11,16 @@
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Sguab às">
 <!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderTopButton "Gluais gun bharr">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Cuir a' chriathrag air dòigh airson 's gun dèid a chleachdadh a thoiseach air càch">
 <!ENTITY reorderUpButton.label "Gluais suas">
 <!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Gluais sìos">
 <!ENTITY reorderDownButton.accesskey "G">
+<!ENTITY reorderBottomButton "Gluais gun bhonn">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Cuir a' chriathrag air dòigh airson 's gun dèid a chleachdadh an dèidh chàch">
 <!ENTITY filterHeader.label "Tha na criathragan a tha air a chur an comas 'gan ruith leotha fhèin san òrdugh a chì thu gu h-ìosal.">
 <!ENTITY filtersForPrefix.label "Criathragan airson:">
 <!ENTITY filtersForPrefix.accesskey "C">
@@ -27,3 +37,7 @@
 <!ENTITY helpButton.label "Cobhair">
 <!ENTITY helpButton.accesskey "h">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Lorg criathragan a-rèir ainm…">
+
+
+
