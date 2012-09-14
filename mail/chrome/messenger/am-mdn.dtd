@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Bannan-cuidhteis">
 <!ENTITY useGlobalPrefs.label         "Cleachd na roghainnean uile-choitcheann agam a thaobh nam bannan-cuidhteis airson a' chunntais seo">
 <!ENTITY useGlobalPrefs.accesskey     "u">
+<!ENTITY globalReceipts.label         "Roghainnean uile-choitcheann…">
+<!ENTITY globalReceipts.accesskey     "R">
 <!ENTITY useCustomPrefs.label         "Gnàthaich na bannan-cuidhteis airson a' chunntais seo">
 <!ENTITY useCustomPrefs.accesskey     "c">
 <!ENTITY requestReceipt.label         "Iarr bann-cuidhteas an-còmhnaidh nuair a chuireas mi teachdaireachd">
