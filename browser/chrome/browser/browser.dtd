@@ -221,10 +221,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "ශ්‍රව්‍ය සුරකින අයුර…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendVideoCmd.label           "දෘශ්‍ය යවන්න…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "ශ්‍රව්‍ය යවන්න…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY viewVideoCmd.label           "දෘශ්‍ය දර්ශනය">
 <!ENTITY viewVideoCmd.accesskey       "I">
 
@@ -295,23 +297,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "තිරයේ පසුබිමසේ සකසන්න...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY sendPageCmd.label            "වෙබ් ලිපිනය යවන්න...">
-<!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "පිටුව සුරකින්න...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "රාමුව සුරකින අයුර...">
 <!ENTITY saveFrameCmd.accesskey       "A">
 <!ENTITY saveLinkCmd.label            "සබැඳුම සුරකින අයුර...">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "සබැඳුම යවන්න..."> 
-<!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "රූපය සුරකින අයුර...">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "රූපය යවන්න...">
-<!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "පුරුකේ ස්ථානය පිටපත් කරන්න">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "රූපයෙ ස්ථානය පිටපත් කරන්න">
@@ -393,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- new bookmarks and history -->
 
-
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY bookmarksToolbarChevron.tooltip "තවත් පිටුසලකුණු පෙන්වන්න">
 <!ENTITY privateBrowsingCmd.start.label         "පෞද්ගලික ගවේෂණය අරඹන්න">
 <!ENTITY privateBrowsingCmd.start.accesskey     "B">
@@ -530,6 +528,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY getMoreDevtoolsCmd.label        "තවත් මෙවලම් ලබාගන්න">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -549,11 +550,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
 
 <!ENTITY webConsoleButton.label "Web Console">
 <!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
 
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
@@ -583,4 +582,11 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
+<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label   "Not logged in">
+
+<!ENTITY social.sharePopup.undo.label     "Unshare">
+<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.ok.label       "OK">
+<!ENTITY social.sharePopup.ok.accesskey   "O">
 
