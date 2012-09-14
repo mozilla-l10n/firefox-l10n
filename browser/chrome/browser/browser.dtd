@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "x">
 
 <!ENTITY responsiveDesignTool.label      "Vue adaptative">
-<!ENTITY responsiveDesignTool.accesskey  "R">
+<!ENTITY responsiveDesignTool.accesskey  "V">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
