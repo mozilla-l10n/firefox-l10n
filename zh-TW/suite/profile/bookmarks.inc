@@ -4,7 +4,7 @@
 # your locale code, and link to your translated pages as soon as they're live.
 
 #define bookmarks_title 書籤
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading 書籤
 
 #define personal_toolbarfolder 書籤工具列
 

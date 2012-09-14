@@ -100,14 +100,14 @@
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "聯絡人">
+<!ENTITY contact.heading                                "連絡資訊">
 <!ENTITY home.heading                                   "住家">
 <!ENTITY other.heading                                  "其他">
 <!ENTITY phone.heading                                  "電話">
 <!ENTITY work.heading                                   "公司">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "說明">
-<!ENTITY addresses.heading                              "住址">
+<!ENTITY addresses.heading                              "地址">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "顯示地圖">
 <!ENTITY mapIt.tooltip                                  "顯示此地址的網路地圖">
