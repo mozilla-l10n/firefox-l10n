@@ -37,5 +37,3 @@
 <!ENTITY cmd.clearList.label              "Lijst wissen">
 <!ENTITY cmd.clearList.accesskey          "w">
 
-<!ENTITY downloadshistory.label           "Alle downloads tonen">
-<!ENTITY downloadshistory.accesskey       "A">
