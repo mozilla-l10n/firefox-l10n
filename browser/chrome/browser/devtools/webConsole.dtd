@@ -78,3 +78,13 @@
 <!ENTITY btnClear.label        "Wissen">
 <!ENTITY btnClear.tooltip      "Webconsole-uitvoer wissen">
 <!ENTITY btnClose.tooltip      "Webconsole sluiten">
+
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
