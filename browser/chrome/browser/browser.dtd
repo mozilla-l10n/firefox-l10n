@@ -24,6 +24,8 @@
 <!ENTITY identity.moreInfoLinkText "Περισσότερα για αυτή την ιστοσελίδα...">
 <!ENTITY newTabButton.tooltip           "Άνοιγμα μιας νέας καρτέλας">
 
+<!ENTITY emailPageCmd.label           "Αποστολή δεσμού…">
+ <!ENTITY emailPageCmd.accesskey       "σ">
 
 <!ENTITY allowPopups.accesskey "ν">
 <!ENTITY backButton.tooltip "Μετάβαση μια σελίδα πίσω">
