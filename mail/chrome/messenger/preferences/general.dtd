@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY messengerStartPage.label         "Duilleag tòiseachaidh &brandShortName;">
 <!ENTITY enableStartPage.label            "Nuair a thòiseachas &brandShortName;, seall an duilleag tòiseachaidh ann an raon nan teachdaireachdan">
 <!ENTITY enableStartPage.accesskey        "N">
@@ -27,9 +31,3 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Brabhsaich…">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "Tuilleadain">
-<!ENTITY manageAddonsDescWin.label        "Atharraich roghainnean nan tuilleadan agad">
-<!ENTITY manageAddonsDescUnix2.label      "Atharraich roghainnean nan tuilleadan agad">
-<!ENTITY manageAddons.label               "Rianaich tuilleadan…">
-<!ENTITY manageAddons.accesskey           "R">

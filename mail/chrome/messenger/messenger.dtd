@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consol nam mearachd">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Falamhaich an eachdraidh faisg ort…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Roghainnean a' chunntais…">
 <!ENTITY accountManagerCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Seòladh a' phasgain">
 <!ENTITY tagButton.label "Taga">
 <!ENTITY compactButton.label "Dùmhlaich">
+<!ENTITY appmenuButton.label "Clàr-taice na h-aplacaid">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Lorg adhartach nan teachdaireachdan">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Seall taba na cabadaich">
 <!ENTITY tagButton.tooltip "Cuir taga ris na teachdaireachdan">
 <!ENTITY compactButton.tooltip "Thoir air falbh na teachdaireachdan a chaidh an sguabadh às on phasgan a thagh thu">
+<!ENTITY appmenuButton.tooltip "Seallaidh seo clàr-taice na h-aplacaid">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Teachdaireachd ùr">
+<!ENTITY appmenuNewContactCmd.label "neach-aithne ann an leabhar nan seòladh…">
+<!ENTITY appmenuEditMenu.label "Deasaich">
+<!ENTITY appmenuQFBMenu.label "Bàr a' ghrad-chriathraidh">
+<!ENTITY appmenuToolbarLayout.label "Co-dhealbhachd a' bhàr-inneal…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Taga ùr…">

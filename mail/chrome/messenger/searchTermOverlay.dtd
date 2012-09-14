@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY matchAll.label     "Faigh seise do gach aon dhe na leanas">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Faigh seise do ghin dhe na leanas">
@@ -13,4 +17,3 @@
 <!ENTITY searchTermListAttributesFlexValue "5">
 <!ENTITY searchTermListOperatorsFlexValue "5">
 <!ENTITY searchTermListValueFlexValue "5">
-<!ENTITY searchTermListButtonsFlexValue "2">
