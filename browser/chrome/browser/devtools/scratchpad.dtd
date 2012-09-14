@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "開啟最近檔案">
 <!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.label              "還原…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "儲存">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">

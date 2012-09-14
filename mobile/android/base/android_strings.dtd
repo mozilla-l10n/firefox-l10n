@@ -133,6 +133,7 @@ size. -->
 <!ENTITY find_close "關閉">
 
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
+<!ENTITY contextmenu_open_in_reader "在閱讀器中開啟">
 <!ENTITY contextmenu_remove_history "移除">
 <!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
@@ -160,7 +161,7 @@ size. -->
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
-<!ENTITY reader_mode "閱讀模式">
+<!ENTITY reader "閱讀器">
 
 <!ENTITY masterpassword_create_title "建立主控密碼">
 <!ENTITY masterpassword_remove_title "移除主控密碼">
@@ -224,4 +225,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "請稍候…">
 
 <!ENTITY webapp_generic_name "程式">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "有 &brandShortName; 更新可安裝&#8230;">
+<!ENTITY updater_start_select "選擇此處下載更新。">
+
+<!ENTITY updater_downloading_title "正在下載 &brandShortName;">
+<!ENTITY updater_downloading_ticker "正在下載 &brandShortName; 更新&#8230;">
+<!ENTITY updater_downloading_ticker_failed "&brandShortName; 更新檔下載失敗&#8230;">
+<!ENTITY updater_downloading_select "選擇此處在下載完成後套用更新。">
+<!ENTITY updater_downloading_retry "選擇此處以重試更新。">
+<!ENTITY updater_downloading_willapply "正在等待下載完成。">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "有 &brandShortName; 更新可安裝&#8230;">
+<!ENTITY updater_apply_select "選擇此處套用已下載的更新檔。">
 
