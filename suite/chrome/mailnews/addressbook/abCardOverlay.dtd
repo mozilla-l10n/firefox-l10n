@@ -69,9 +69,9 @@
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "縣市:">
+<!ENTITY HomeCity.label                 "鄉／鎮／市／區:">
 <!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "省市:">
+<!ENTITY HomeState.label                "縣／市:">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "郵遞區號:">
 <!ENTITY HomeZipCode.accesskey          "Z">
@@ -99,9 +99,9 @@
 <!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "縣市:">
+<!ENTITY WorkCity.label                 "鄉／鎮／市／區:">
 <!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "省市:">
+<!ENTITY WorkState.label                "縣／市:">
 <!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label              "郵遞區號:">
 <!ENTITY WorkZipCode.accesskey          "Z">
