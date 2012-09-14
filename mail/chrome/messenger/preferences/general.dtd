@@ -34,8 +34,4 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "පිරික්සන්න...">
 <!ENTITY browse.accesskey                 "B">
-<!ENTITY addonsMgr.label                  "ඇඩෝන">
-<!ENTITY manageAddonsDescWin.label        "ඔබගේ ඇඩෝන සඳහා වරණ වෙනස් කරන්න">
-<!ENTITY manageAddonsDescUnix2.label      "ඔබගේ ඇඩෝන සඳහා මනාපයන්  වෙනස් කරන්න">
-<!ENTITY manageAddons.label               "ඇඩෝන කළමණාකරණය…">
-<!ENTITY manageAddons.accesskey           "M">
+

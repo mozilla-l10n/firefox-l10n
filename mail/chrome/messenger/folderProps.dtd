@@ -100,3 +100,10 @@
 <!ENTITY folderQuotaRoot.label                   "Quota Root:">
 <!ENTITY folderQuotaUsage.label                  "භාවිතාව:">
 <!ENTITY folderQuotaStatus.label                 "තත්ත්වය:">
+
+<!ENTITY numberOfMessages.label                  "ලිපි ගණන:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "නොදනී">
+<!ENTITY sizeOnDisk.label                        "ඩිස්කය තුළ විශාලත්වය:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "නොදනී">

@@ -1,6 +1,8 @@
 <!ENTITY pane.title                   "ලදුපත්">
 <!ENTITY useGlobalPrefs.label         "මගේ පොදු ලදුපත් මනාපයන් මෙම ගිණුම සඳහා භාවිතා කරන්න">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "පොදු මනාපයන්…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "මෙම ගිණුම සඳහා ලදුපත් රිසිකරනය">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "ලිපි යැවීමේදී, සෑම විටම ලදුපතක් ඉල්ලුම් කරන්න">

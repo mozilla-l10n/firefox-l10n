@@ -472,6 +472,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "දෝෂ කොන්සෝලය">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "ආසන්න පෙරදෑ හිස් කරන්න…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY filtersCmd.label "ලිපි පෙරහන්...">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "ෆෝල්ඩරය මත පෙරහන් ක්‍රියා ක.">
@@ -516,6 +518,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "ෆෝල්ඩර ස්ථානය">
 <!ENTITY tagButton.label "ටැග">
 <!ENTITY compactButton.label "සංයුක්ත">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "වැඩිමනත් ලිපි සෙවුම">
@@ -546,6 +549,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookButton.tooltip "ලිපින පොතට යොමුවීමට">
 <!ENTITY tagButton.tooltip "ටැග් ලිපි">
 <!ENTITY compactButton.tooltip "තෝරාගත් ෆෝල්ඩරයෙන් මැකූ ලිපි ඉවත් කිරීමට">
+<!ENTITY appmenuButton.tooltip "යෙදවුම් මෙනුව පෙන්වයි">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "නව ලිපියක්">
+<!ENTITY appmenuNewContactCmd.label "ලිපින පොතේ සබඳතාවක්…">
+<!ENTITY appmenuEditMenu.label "සැකසුම්">
+<!ENTITY appmenuQFBMenu.label "ක්ෂණික පෙරහන් තීරුව">
+<!ENTITY appmenuToolbarLayout.label "මෙවලම්තීරු සැකසුම…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "නව ටැගයක්…">
