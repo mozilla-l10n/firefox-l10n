@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title  "關於垃圾信件">
+<!ENTITY window.title  "關於垃圾郵件">
 <!ENTITY window.width  "450">
-<!ENTITY info1a.label  "郵件程式會自動偵測出新郵件為垃圾信（Spam）。這類郵件會顯示為一個表示垃圾信的圖示。">
-<!ENTITY info1b.label  ".">
-<!ENTITY info2.label   "首先，您要訓練郵件程式去識別垃圾信。請用垃圾信工具列上的按鈕來標記垃圾信。">
-<!ENTITY info3.label   "等到程式能夠自動辨識出垃圾信，您就可以使用垃圾信件控制來自動把垃圾信移到垃圾信郵件匣。">
-<!ENTITY info4.label   "進一步說明請按「說明」。">
+<!ENTITY info1a.label  "郵件程式能自動偵測出新進郵件中可能的垃圾郵件 (Spam)，這些郵件會被標上垃圾信的圖示 ">
+<!ENTITY info1b.label  "。">
+<!ENTITY info2.label   "首先，您必須用工具列上的「垃圾信」按鈕標示郵件是否為垃圾信以訓練郵件軟體辨識垃圾郵件。">
+<!ENTITY info3.label   "等到郵件程式能夠自動辨識出垃圾信，您就可以使用「垃圾郵件控制」自動把垃圾信移到「垃圾郵件」匣。">
+<!ENTITY info4.label   "請選「說明」取得詳細資訊。">
 

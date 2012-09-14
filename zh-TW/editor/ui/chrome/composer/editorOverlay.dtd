@@ -287,7 +287,7 @@
 <!ENTITY copyToolbarCmd.tooltip "複製">
 <!ENTITY pasteToolbarCmd.tooltip "貼上">
 <!ENTITY printToolbarCmd.label "列印">
-<!ENTITY printToolbarCmd.tooltip "列印頁面">
+<!ENTITY printToolbarCmd.tooltip "列印此頁">
 <!ENTITY findToolbarCmd.label "搜尋">
 <!ENTITY findToolbarCmd.tooltip "在此頁面中尋找">
 <!ENTITY spellToolbarCmd.label "拼字">

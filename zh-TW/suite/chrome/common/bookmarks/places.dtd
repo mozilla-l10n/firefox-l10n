@@ -75,7 +75,7 @@
 <!ENTITY cmd.moveBookmarks.label                  "移動…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY col.title.label         "開啟">
+<!ENTITY col.title.label         "名稱">
 <!ENTITY col.tags.label          "標籤">
 <!ENTITY col.url.label           "網址">
 <!ENTITY col.lastvisit.label     "瀏覽日期">

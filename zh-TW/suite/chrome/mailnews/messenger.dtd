@@ -135,7 +135,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "F">
 
 <!-- sortMenu is also used by addressbook -->
-<!ENTITY sortMenu.label "排序">
+<!ENTITY sortMenu.label "排序方式">
 <!ENTITY sortMenu.accesskey "t">
 
 <!ENTITY sortByDateCmd.label "日期">
