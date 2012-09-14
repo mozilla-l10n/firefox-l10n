@@ -102,6 +102,10 @@
 <!ENTITY otherActionsPrint1.label "මුද්‍රණය…">
 <!ENTITY otherActionsPrint1.accesskey "p">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
+<!ENTITY startExpandedCmd.accesskey    "S">
+
 <!ENTITY openAttachmentCmd.label    "විවෘත කරන්න">
 <!ENTITY openAttachmentCmd.accesskey		"O">
 <!ENTITY saveAsAttachmentCmd.label    "සුරකින්නේ මෙලෙස...">

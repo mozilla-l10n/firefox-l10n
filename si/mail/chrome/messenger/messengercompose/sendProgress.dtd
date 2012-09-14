@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "ලිපි යවමින් තිබේ"> 
+<!ENTITY sendDialog.title "ලිපිය සකසයි">
 <!ENTITY status.label   "තත්ත්වය:"> 
 <!ENTITY progress.label "ප්‍රගතිය:">
 
