@@ -132,7 +132,7 @@
 <!ENTITY bookmark_edit_title "Lesezeichen bearbeiten">
 <!ENTITY bookmark_edit_name "Name">
 <!ENTITY bookmark_edit_location "Adresse">
-<!ENTITY bookmark_edit_keyword "Schlagwort">
+<!ENTITY bookmark_edit_keyword "Schlüsselwort">
 
 <!ENTITY site_settings_title        "Seiteneinstell. löschen">
 <!ENTITY site_settings_cancel       "Abbrechen">
