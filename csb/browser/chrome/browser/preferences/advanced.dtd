@@ -17,7 +17,7 @@
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchStartTyping.label         "Naczni szëkbã przë wpisëwaniu tekstu">
 <!ENTITY searchStartTyping.accesskey     "k">
-<!ENTITY blockAutoRefresh.label          "Òstrzégôj, jeżlë jinternetowé stronë próbùją przeczérowac abò zladowac stronã znôwù">
+<!ENTITY blockAutoRefresh.label          "Òstrzégôj, jeżlë Internetowé stronë próbùją przeczérowac abò zladowac stronã znôwù">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Przezéranié">
@@ -43,10 +43,10 @@
 
 <!ENTITY connection.label                "Sparłãczenié">
 
-<!ENTITY connectionDesc.label            "Kònfigùrëjë na jaczi ôrt &brandShortName; mô sã parłãczëc z jinternetã">
+<!ENTITY connectionDesc.label            "Kònfigùrëjë na jaczi ôrt &brandShortName; mô sã parłãczëc z Internetã">
 <!ENTITY connectionSettings.label        "Nastôwë…">
 <!ENTITY connectionSettings.accesskey    "N">
-<!ENTITY offlineStorage2.label           "Pamiãc tribù offline ë pòdôwków brëkòwnika">
+<!ENTITY offlineStorage2.label           "Pamiãc tribù offline i pòdôwków brëkòwnika">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -68,12 +68,12 @@
 <!ENTITY updateTab.label                 "Aktualizacjô">
 
 <!ENTITY updateApp.label                 "Aktualizacje programù &brandShortName;:">
-<!ENTITY updateAuto.label                "Automatno jinstalëjë aktualizacje(bédowóné: zwikszóny bezpiék)">
+<!ENTITY updateAuto.label                "Automatno instalëjë aktualizacje(bédowóné: zwikszóny bezpiék)">
 <!ENTITY updateAuto.accesskey            "n">
 
 <!ENTITY updateOthers.label              "Aktualizëjë automatno:">
 
-<!ENTITY updateCheck.label               "Sprawdzôj przistãp aktualizacji, ale wëmôgôj pocwierdzeniô jich jinstalacji">
+<!ENTITY updateCheck.label               "Sprawdzôj przistãp aktualizacji, ale wëmôgôj pocwierdzeniô jich instalacji">
 <!ENTITY updateCheck.accesskey           "S">
 
 <!ENTITY updateAutoAddonWarn.label       "Òstrzégôj, Jeżlë aktualizacjô doprowadzy do wëłączeniô dodôwków">
@@ -84,15 +84,15 @@
 <!ENTITY enableSearchUpdate.accesskey    "k">
 <!ENTITY updateHistory.label             "Wëskrzëni histroriã aktualizacji">
 <!ENTITY updateHistory.accesskey         "h">
-<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô jinstalowaniégò aktualizacji">
+<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô instalowaniégò aktualizacji">
 <!ENTITY useService.accesskey            "Ù">
 
-<!ENTITY offlineNotify.label             "Dôwôj wiedzã jeżlë jinternetowô strona pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
+<!ENTITY offlineNotify.label             "Dôwôj wiedzã jeżlë Internetowô strona pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
 <!ENTITY offlineNotify.accesskey         "D">
 <!ENTITY offlineNotifyExceptions.label   "Wëjimczi…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
 
-<!ENTITY offlineAppsList2.label          "Nôslédné jinternetowé stronë trzëmają na diskù pòdôwczi w tribie offline:">
+<!ENTITY offlineAppsList2.label          "Nôslédné Internetowé stronë trzëmają na diskù pòdôwczi w tribie offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Rëmôj…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

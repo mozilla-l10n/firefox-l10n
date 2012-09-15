@@ -20,7 +20,7 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Pòmòc ë ùczbòwniczi
+#define firefox_help Pòmòc i ùczbòwniczi
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/

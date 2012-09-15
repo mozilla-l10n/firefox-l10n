@@ -109,7 +109,7 @@
 <!ENTITY  permImage             "Ladowanié òbrôzków">
 <!ENTITY  permPopup             "Òtmëkanié wëskakùjącëch òknów">
 <!ENTITY  permCookie            "Zapisywanié kùszków">
-<!ENTITY  permInstall           "Jinstalacjô rozszerzeniów ë mòtiwów">
+<!ENTITY  permInstall           "Instalacjô rozszerzeniów i mòtiwów">
 <!ENTITY  permGeo               "Ùprzistãpniôj pòłóżenié">
 <!ENTITY  permPlugins           "Actiwùjë wtëkôcze">
 
@@ -130,7 +130,7 @@
 <!ENTITY  securityView.identity.domain   "strona:">
 <!ENTITY  securityView.identity.verifier "Zwerifikòwóné przez:">
 
-<!ENTITY  securityView.privacy.header                   "Priwatnota ë historiô">
+<!ENTITY  securityView.privacy.header                   "Priwatnota i historiô">
 <!ENTITY  securityView.privacy.history                  "Móm jô na stronã ju rëchli òbzeróną?">
 <!ENTITY  securityView.privacy.cookies                  "Trzëmô na strona wëdowiédzã (kùszczi) na mòjim kòmpùtrze?">
 <!ENTITY  securityView.privacy.viewCookies              "Wëskrzëni kùszczi">

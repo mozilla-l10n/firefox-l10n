@@ -21,7 +21,7 @@
 <!ENTITY networkPanel.responseNoBody              "Felëje tekstù òdpòwiescë">
 <!ENTITY networkPanel.responseImage               "Dostóny òbrôzk">
 <!ENTITY networkPanel.responseImageCached         "Òbrôzk w pòdrãczny pamiãcë">
-<!ENTITY saveBodies.label "Zapiszë zamkłosc żądania ë òdpòwiescé">
+<!ENTITY saveBodies.label "Zapiszë zamkłosc żądania i òdpòwiescé">
 <!ENTITY saveBodies.accesskey "Z">
 <!ENTITY btnPageNet.label "Séc">
 <!ENTITY btnPageNet.tooltip "Zapiszë sécowé sparłãczenia">
@@ -32,7 +32,7 @@
 <!ENTITY btnPageLogging.label "Dniownik">
 <!ENTITY btnPageLogging.tooltip "Zapiszë dzejania sélóné do objektu window.console">
 <!ENTITY btnConsoleErrors "Fele">
-<!ENTITY btnConsoleInfo "Jinfò">
+<!ENTITY btnConsoleInfo "Infò">
 <!ENTITY btnConsoleWarnings "Òstrzédżi">
 <!ENTITY btnConsoleLog "Dniownik">
 <!ENTITY btnPosition.label "Lokalizacjô">

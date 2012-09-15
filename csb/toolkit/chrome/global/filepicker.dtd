@@ -7,7 +7,7 @@
 <!ENTITY name.label             "Miono">
 <!ENTITY size.label             "Miara:">
 <!ENTITY lastModified.label     "Slédnô zmòdifikòwónô">
-<!ENTITY showHiddenFiles.label  "Wëskrzëni zataconé lopczi ë katalodżi">
+<!ENTITY showHiddenFiles.label  "Wëskrzëni zataconé lopczi i katalodżi">
 <!ENTITY showHiddenFiles.accesskey  "W">
 
 <!ENTITY noPermissionError.label "Ni môsz dosc prawa do przezeraniô negò kataloga.">

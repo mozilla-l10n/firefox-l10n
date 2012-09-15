@@ -8,7 +8,7 @@
 <!-- The page shown when not logged in… -->
 <!ENTITY setupButton.label          "Ùstawi &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dôwô Tobie przistãp do Twòji historii, załóżkòw, parolów ë òtmëkô kôrtë na wszëtczéch Twòjich ùrzãdzeniach.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dôwô Tobie przistãp do Twòji historii, załóżkòw, parolów i òtmëkô kôrtë na wszëtczéch Twòjich ùrzãdzeniach.">
 
 <!-- The page shown when logged in... -->
 

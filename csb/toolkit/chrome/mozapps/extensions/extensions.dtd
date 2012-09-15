@@ -10,13 +10,13 @@
 <!ENTITY search.placeholder                   "Szëkba we wszëtczich dodôwkach">
 <!ENTITY search.commandkey "f">
 <!ENTITY loading.label                        "Ladowanié…">
-<!ENTITY listEmpty.installed.label            "Ni môsz zajinstalowóné taczich dodôwków">
+<!ENTITY listEmpty.installed.label            "Ni môsz zainstalowóné taczich dodôwków">
 <!ENTITY listEmpty.availableUpdates.label     "Nie nalôzł niżódnëch aktualizacjów">
 <!ENTITY listEmpty.recentUpdates.label        "Długò ni môsz aktualizowóné dodôwków">
 <!ENTITY listEmpty.findUpdates.label          "Sprawdzë zaktualnienia">
 <!ENTITY listEmpty.search.label               "Nie nalôzł pasownëch dodôwków">
 <!ENTITY listEmpty.button.label               "Wicy wëdowiédzë ò dodôwkach">
-<!ENTITY installAddonFromFile.label           "Wjinstalëje pòdôwczi z lopka…">
+<!ENTITY installAddonFromFile.label           "Winstalëje pòdôwczi z lopka…">
 <!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Nôrzãdła dlô wszëtczich dodôwków">
 
@@ -65,11 +65,11 @@
 <!ENTITY updates.updating.label               "Aktualizacjô dodôwków">
 <!ENTITY updates.installed.label              "Dodôwczi òstałé zaktualnioné.">
 <!ENTITY updates.downloaded.label             "Dodôwczi òstałe zladowóné.">
-<!ENTITY updates.restart.label                "Zrëszë znowa abë skùńczëc jinstalacjã">
+<!ENTITY updates.restart.label                "Zrëszë znowa abë skùńczëc instalacjã">
 <!ENTITY updates.noneFound.label              "Nie nalôzł niżódnëch aktualizacjów">
 <!ENTITY updates.manualUpdatesFound.label     "Wëskrzëni przistãpné aktualizacje">
-<!ENTITY updates.updateSelected.label         "wjinstalujë aktualizacje">
-<!ENTITY updates.updateSelected.tooltip       "Wjinstalëje przistãpné aktualizacje z ti lëstë">
+<!ENTITY updates.updateSelected.label         "winstalëjë aktualizacje">
+<!ENTITY updates.updateSelected.tooltip       "Winstalëje przistãpné aktualizacje z ti lëstë">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Wëskrzëni wicy wëdowiédzë">
@@ -91,7 +91,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "w">
 <!ENTITY cmd.disableTheme.label               "Nie ùżëwôj mòtiwù">
 <!ENTITY cmd.disableTheme.accesskey           "w">
-<!ENTITY cmd.installAddon.label               "wjinstalujë">
+<!ENTITY cmd.installAddon.label               "winstalëjë">
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Rëmôj">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
@@ -116,7 +116,7 @@
   czë sztélów &brandShortName;. Wëpróbùje czas-szpurowną bòczną lëstew, notifikatór wiodrów,
   czë mòtiwë do mòdifikacji wëzdrzatkù &brandShortName; na swòjã mòdã.
 ">
-<!ENTITY discover.footer                      "Czej jes sparłãczony z Jinternetã, na lëstwie wëskrzënią sã
+<!ENTITY discover.footer                      "Czej jes sparłãczony z Internetã, na lëstwie wëskrzënią sã
   nôbarżi widzałé dodôwczi do spróbòwôniô.">
 
 <!-- detail view -->
@@ -130,11 +130,11 @@
 
 <!ENTITY detail.updateType                    "Automatné aktualizacje">
 <!ENTITY detail.updateDefault.label           "Domëslno">
-<!ENTITY detail.updateDefault.tooltip         "Automatno wjinstalujë aktualizacje żlë taczi je domëslny nastôw">
+<!ENTITY detail.updateDefault.tooltip         "Automatno winstalëjë aktualizacje żlë taczi je domëslny nastôw">
 <!ENTITY detail.updateAutomatic.label         "Włączoné">
-<!ENTITY detail.updateAutomatic.tooltip       "Automatno wjinstalujë aktualizacje">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatno winstalëjë aktualizacje">
 <!ENTITY detail.updateManual.label            "Wëłączoné">
-<!ENTITY detail.updateManual.tooltip          "Nie wjinstaliwùjë aktualizacjów automatno">
+<!ENTITY detail.updateManual.tooltip          "Nie winstaliwùjë aktualizacjów automatno">
 <!ENTITY detail.home                          "Domôcô strona">
 <!ENTITY detail.repository                    "Profil dodôwka">
 <!ENTITY detail.size                          "Miara">
@@ -170,9 +170,9 @@
 
 <!ENTITY search.filter2.label                 "Szëkba:">
 <!ENTITY search.filter2.installed.label       "Mòje dodôwczi">
-<!ENTITY search.filter2.installed.tooltip     "Wëskrzëni wjinstalowóné dodôwczi">
+<!ENTITY search.filter2.installed.tooltip     "Wëskrzëni winstalowóné dodôwczi">
 <!ENTITY search.filter2.available.label       "Przëstãpné dodôwczi">
-<!ENTITY search.filter2.available.tooltip     "Wëskrzëni dodôwczi przistãpné do jinstalacji">
+<!ENTITY search.filter2.available.tooltip     "Wëskrzëni dodôwczi przistãpné do instalacji">
 
 <!ENTITY addon.homepage                       "Domôcô strona">
 <!ENTITY addon.details.label                  "Wicy">
@@ -190,12 +190,12 @@
 <!ENTITY addon.undoAction.label               "Doprowadzë nazôd">
 <!ENTITY addon.undoAction.tooltip             "Doprowadzë nazôd dzejanié">
 <!ENTITY addon.undoRemove.label               "Doprowadzë nazôd">
-<!ENTITY addon.undoRemove.tooltip             "Dô pòkù - òstôw dodôwk wjinstalowóny">
+<!ENTITY addon.undoRemove.tooltip             "Dô pòkù - òstôw dodôwk winstalowóny">
 <!ENTITY addon.restartNow.label               "Zrëszë znowa">
-<!ENTITY addon.install.label                  "wjinstalujë">
-<!ENTITY addon.install.tooltip                "Jinstalëjë nen dodôwk">
+<!ENTITY addon.install.label                  "winstalëjë">
+<!ENTITY addon.install.tooltip                "instalëjë nen dodôwk">
 <!ENTITY addon.updateNow.label                "Zaktualizëjë terô">
-<!ENTITY addon.updateNow.tooltip              "Wjinstalëje zaktualnienie dlô negò dodôwkù">
+<!ENTITY addon.updateNow.tooltip              "Winstalëje zaktualnienie dlô negò dodôwkù">
 <!ENTITY addon.includeUpdate.label            "Dodôj do zaktualnieniô">
 <!ENTITY addon.updateAvailable.label          "Aktualizacjô je przistãpnô">
 <!ENTITY addon.checkingForUpdates.label       "Szëkanié za aktualizacjama…">
@@ -208,7 +208,7 @@
 <!ENTITY eula.title                           "Licencjowô zgòda brëkòwnika">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Akceptëjã, wjinstalëjë…">
+<!ENTITY eula.accept                          "Akceptëjã, winstalëjë…">
 
 <!ENTITY settings.path.button.label           "Przezérôj…">
 

@@ -44,11 +44,11 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Historiô przezéraniô ë zladënków">
+<!ENTITY itemHistoryAndDownloads.label     "Historiô przezéraniô i zladënków">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemBrowsingHistory.label         "Historiô przezéraniô">
 <!ENTITY itemBrowsingHistory.accesskey     "H">
-<!ENTITY itemFormSearchHistory.label       "Pòdôwczi fòrmùlôrzów ë historiô szëkbë">
+<!ENTITY itemFormSearchHistory.label       "Pòdôwczi fòrmùlôrzów i historiô szëkbë">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Spamiãtóné parole">
 <!ENTITY itemPasswords.accesskey           "p">

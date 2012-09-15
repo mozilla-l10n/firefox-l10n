@@ -17,7 +17,7 @@
 <!ENTITY  allowPagesToUse.label           "Zezwòlë stronom ùżëwac jiszich fòntów jakno nastôwioné tuwò">
 <!ENTITY  allowPagesToUse.accesskey       "Z">
 
-<!ENTITY  color                           "Tekst ë spòdlé">
+<!ENTITY  color                           "Tekst i spòdlé">
 <!ENTITY  textColor.label                 "Tekst:">
 <!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Spòdlé:">

@@ -73,7 +73,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Szerifòwi">
 <!ENTITY  useDefaultFontSansSerif.label           "Bezszerifòwi">
 
-<!ENTITY  allowPagesToUse.label                   "Zezwòlë stronom ùżëwac jiszich fòntów jakno nastôwioné tuwò">
+<!ENTITY  allowPagesToUse.label                   "Zezwòlë stronom ùżëwac jinëch fòntów òd nastôwionëch">
 <!ENTITY  allowPagesToUse.accesskey               "Z">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Zestôwk céchów">

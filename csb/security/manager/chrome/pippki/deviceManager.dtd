@@ -45,7 +45,7 @@
 <!ENTITY devmgr.title                           "Menadżera ùrzãdzeniów">
 <!ENTITY devmgr.style "width: 62em; height: 32em;">
 
-<!ENTITY devmgr.devlist.label                   "Mòdułë ë ùrzãdzenia bezpiekù">
+<!ENTITY devmgr.devlist.label                   "Mòdułë i ùrzãdzenia bezpiekù">
 <!ENTITY devmgr.details.title                   "Detale">
 <!ENTITY devmgr.details.title2                  "Wôrtnota">
 <!ENTITY devmgr.status.label                    "Stón">

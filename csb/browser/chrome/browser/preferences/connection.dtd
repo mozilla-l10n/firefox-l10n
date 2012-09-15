@@ -16,7 +16,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Kònfigùracëjô serwerów proxy do sparłãczeniô z jinternetã">
+<!ENTITY  proxyTitle.label              "Kònfigùracëjô serwerów proxy do sparłãczeniô z Internetã">
 <!ENTITY  noProxyTypeRadio.label        "Bez serwera proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Brëkùjë systemòwëch nastôwów serwerów proxy">

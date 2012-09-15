@@ -47,7 +47,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Miono">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wôrtnota">
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
-<!ENTITY aboutSupport.installationHistoryTitle "Historiô jinstalacji">
+<!ENTITY aboutSupport.installationHistoryTitle "Historiô instalacji">
 <!ENTITY aboutSupport.updateHistoryTitle "Historiô aktualizacji">
 <!ENTITY aboutSupport.copyToClipboard.label "Kòpérëjë wszëtkò do tacnika">
 <!ENTITY aboutSupport.a11yActivated "Aktiwny">

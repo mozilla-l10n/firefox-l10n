@@ -225,7 +225,7 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Zamkni Jinspektora">
+<!ENTITY inspectCloseButton.tooltiptext "Zamkni Inspektora">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kòpérëjë bënowi HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "b">
@@ -612,7 +612,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullscreenExitButton.label "Niezezwòlë">
 <!ENTITY fullscreenExitHint.value "Wcësni ESC bë wińdz z fùlekranowégò tribù.">
 
-<!ENTITY inspectorButton.label "Jinspector">
+<!ENTITY inspectorButton.label "Inspector">
 
 <!ENTITY leaveDOMFullScreen.label "Wińdzë z fùlekranowégò tribù">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
