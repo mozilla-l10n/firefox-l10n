@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Mushjul">
@@ -6,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Vertikal rullning">
-<!ENTITY mousewheelHorizGroup.label      "Horisontell rullning">
-<!ENTITY scroll.label                    "Rulla dokumentet med ">
-<!ENTITY scroll.accesskey                "R">
-<!ENTITY scrollHoriz.accesskey           "l">
-<!ENTITY scrollLines.label               "rader">
-<!ENTITY scrollChars.label               "tecken">
-<!ENTITY useSystemDefault.label          "Använd systemstandard">
-<!ENTITY useSystemDefault.accesskey      "ä">
-<!ENTITY useSystemDefaultHoriz.accesskey "d">
-<!ENTITY scrollPgUpPgDn.label            "Rulla en sida upp eller en sida ned">
-<!ENTITY scrollPgUpPgDn.accesskey        "u">
-<!ENTITY scrollPgLtPgRt.label            "Rulla en sida åt vänster eller en sida åt höger">
-<!ENTITY scrollPgLtPgRt.accesskey        "å">
+<!ENTITY mouseWheelAction.label          "När mushjulet används">
+<!ENTITY doNothing.label                 "Gör ingenting">
+<!ENTITY doNothing.accesskey             "G">
+<!ENTITY scrollDocument.label            "Rulla dokumentet">
+<!ENTITY scrollDocument.accesskey        "R">
 <!ENTITY history.label                   "Gå bakåt eller framåt i historiken">
 <!ENTITY history.accesskey               "k">
-<!ENTITY historyHoriz.accesskey          "b">
 <!ENTITY zoom.label                      "Zooma in eller ut sidan">
 <!ENTITY zoom.accesskey                  "Z">
-<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY mouseWheelSpeed.label           "Mushjulets känslighet">
+<!ENTITY verticalSpeed.label             "Vertikalt:">
+<!ENTITY verticalSpeed.accesskey         "V">
+<!ENTITY verticalReverse.label           "Omvänd riktning">
+<!ENTITY verticalReverse.accesskey       "r">
+<!ENTITY horizontalSpeed.label           "Horisontellt:">
+<!ENTITY horizontalSpeed.accesskey       "o">
+<!ENTITY horizontalReverse.label         "Omvänd riktning">
+<!ENTITY horizontalReverse.accesskey     "m">

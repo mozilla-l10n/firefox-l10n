@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Mottagningskvitton">
 <!ENTITY useGlobalPrefs.label         "Använd mina globala inställningar för detta konto">
 <!ENTITY useGlobalPrefs.accesskey     "n">
+<!ENTITY globalReceipts.label         "Globala inställningar…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Anpassa mottagningskvitton för detta konto">
 <!ENTITY useCustomPrefs.accesskey     "p">
 <!ENTITY requestReceipt.label         "Begär alltid mottagningskvitto när meddelanden skickas">
