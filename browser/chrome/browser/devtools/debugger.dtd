@@ -61,9 +61,9 @@
   -  debugger. -->
 <!ENTITY debuggerUI.propertiesTitle  "Räckviddsvariabler">
 
-<!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
-  -  appears in the filter text box when it is empty. -->
-<!ENTITY debuggerUI.emptyFilterText  "Filtrera skript">
+<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
+  -  appears in the filter panel popup as a description. -->
+<!ENTITY debuggerUI.searchPanelTitle    "Operatorer">
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
