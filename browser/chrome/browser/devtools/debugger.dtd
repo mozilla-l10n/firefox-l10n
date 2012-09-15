@@ -8,11 +8,8 @@
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
-<!ENTITY debuggerUI.stepOverButton.tooltip "Перешагнуть">
-<!ENTITY debuggerUI.stepInButton.tooltip "Зайти">
-<!ENTITY debuggerUI.stepOutButton.tooltip "Выйти">
 <!ENTITY debuggerUI.stackTitle "Стек вызовов">
 <!ENTITY debuggerUI.scriptTitle "Сценарий">
 <!ENTITY debuggerUI.propertiesTitle "Переменные по области действия">
-<!ENTITY debuggerUI.emptyFilterText "Фильтр сценариев">
+<!ENTITY debuggerUI.searchPanelTitle "Операторы">
 <!ENTITY debuggerUI.emptyScriptText "Нет сценариев">
