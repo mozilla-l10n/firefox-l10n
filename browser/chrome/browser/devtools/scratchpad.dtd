@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Öppna senaste">
 <!ENTITY openRecentMenu.accesskey     "a">
 
+<!ENTITY revertCmd.label              "Återgå…">
+<!ENTITY revertCmd.accesskey          "Å">
+
 <!ENTITY saveFileCmd.label            "Spara">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
