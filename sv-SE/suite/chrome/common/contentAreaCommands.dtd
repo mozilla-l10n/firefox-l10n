@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "a">
 <!ENTITY viewBGImageCmd.label         "Visa bakgrundsbild">
 <!ENTITY viewBGImageCmd.accesskey     "g">
-<!ENTITY setWallpaperCmd.label        "Använd som skrivbordsbild">
-<!ENTITY setWallpaperCmd.accesskey    "s">
+<!ENTITY setDesktopBackgroundCmd.label     "Använd som skrivbordsbakgrund…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "s">
 <!ENTITY bookmarkPageCmd.label        "Bokmärke till denna sida">
 <!ENTITY bookmarkPageCmd.accesskey    "B">
 <!ENTITY bookmarkLinkCmd.label        "Bokmärke till denna länk">
