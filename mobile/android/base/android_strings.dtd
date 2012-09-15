@@ -241,11 +241,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title "&brandShortName;">
 <!ENTITY updater_apply_ticker "En &brandShortName;-uppdatering finns&#8230;">
 <!ENTITY updater_apply_select "Välj att slutföra uppdateringen.">
-
-<!ENTITY updater_installing_title "&brandShortName;">
-<!ENTITY updater_installing_ticker "Uppdaterar &brandShortName;&#8230;">
-<!ENTITY updater_installing_ticker_success "&brandShortName; är uppdaterad">
-<!ENTITY updater_installing_ticker_fail "Kunde inte uppdatera &brandShortName;">
-<!ENTITY updater_installing_text "Installerar uppdatering&#8230;">
-<!ENTITY updater_installing_text_success "Uppdateringen är klar.">
-<!ENTITY updater_installing_text_fail "Kunde inte installera updatering.">
