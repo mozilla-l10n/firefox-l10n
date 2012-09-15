@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Goulenn postel HTML">
 
-<!ENTITY recipient.label "Degemerien zo ha n'emaint ket war roll ar re gouest da resev posteloù e HTML.">
+<!ENTITY recipient.label "Degemererien zo ha n'emaint ket war roll ar re gouest da resev posteloù e HTML.">
 
 <!ENTITY question.label "Ha fellout a ra deoc'h amdreiñ ar postel e testenn eeun pe gas anezhañ evel m'emañ e HTML ?">
 

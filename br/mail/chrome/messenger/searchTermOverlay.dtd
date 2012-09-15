@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY matchAll.label     "Kenglotañ gant pep hini eus ar re da-heul">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Kenglotañ gant unan da nebeutañ eus ar re da-heul">
@@ -13,4 +17,3 @@
 <!ENTITY searchTermListAttributesFlexValue "4">
 <!ENTITY searchTermListOperatorsFlexValue "4">
 <!ENTITY searchTermListValueFlexValue "4">
-<!ENTITY searchTermListButtonsFlexValue "2">

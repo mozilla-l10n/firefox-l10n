@@ -36,31 +36,15 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Roll istor ar merdeiñ &amp; ar pellgargadurioù">
-<!ENTITY itemHistoryAndDownloads.accesskey "i">
-<!ENTITY itemBrowsingHistory.label         "Roll istor ar merdeiñ">
-<!ENTITY itemBrowsingHistory.accesskey     "m">
-<!ENTITY itemFormSearchHistory.label       "Furmskridoù gwaredet ha rolladoù istor">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "Gerioù-tremen enrollet">
-<!ENTITY itemPasswords.accesskey           "t">
 <!ENTITY itemCookies.label                 "Toupinoù">
 <!ENTITY itemCookies.accesskey             "o">
 <!ENTITY itemCache.label                   "Krubuilh">
 <!ENTITY itemCache.accesskey               "r">
-<!ENTITY itemOfflineApps.label             "Roadennoù al lec'hienn ezlinenn">
-<!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Roll istor ar pellgargadurioù">
-<!ENTITY itemDownloadHistory.accesskey     "p">
-<!ENTITY itemActiveLogins.label            "Kennaskoù oberiant">
-<!ENTITY itemActiveLogins.accesskey        "K">
-<!ENTITY itemSitePreferences.label         "Gwellvezioù lec'hienn">
-<!ENTITY itemSitePreferences.accesskey     "w">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Ne c'haller ket dizober ar gwezh-mañ.">
+<!ENTITY sanitizeEverythingUndoWarning     "Ne c'haller ket dizober an gwezh-mañ..">
 
-<!ENTITY dialog.width                 "29em">
+<!ENTITY dialog.width                 "28em">
 <!ENTITY column.width                 "14em">

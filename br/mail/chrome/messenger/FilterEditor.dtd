@@ -45,6 +45,13 @@
 <!ENTITY watchThread.label "Sellout ouzh an neudennad">
 <!ENTITY stopExecution.label "Paouez erounezadur ar sil">
 
-
 <!ENTITY addAction.tooltip "Ouzhpennañ ur gwezh nevez">
 <!ENTITY removeAction.tooltip "Lemel ar gwezh-mañ">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

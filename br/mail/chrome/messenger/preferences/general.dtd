@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "Pajenn degemer &brandShortName;">
 <!ENTITY enableStartPage.label            "Pa loc'h &brandShortName;, diskouez ar bajenn degemer war tachad ar gemennadenn">
 <!ENTITY enableStartPage.accesskey        "l">
@@ -27,9 +31,3 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Furchal…">
 <!ENTITY browse.accesskey                 "F">
-
-<!ENTITY addonsMgr.label                  "Askouezhioù">
-<!ENTITY manageAddonsDescWin.label        "Kemmañ an dibarzhioù evit hoc'h askouezhioù">
-<!ENTITY manageAddonsDescUnix2.label      "Kemmañ ar gwellvezioù evit hoc'h askouezhioù">
-<!ENTITY manageAddons.label               "Ardeiñ an askouezhioù…">
-<!ENTITY manageAddons.accesskey           "A">

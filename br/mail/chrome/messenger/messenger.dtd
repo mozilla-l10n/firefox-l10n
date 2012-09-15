@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Penel ar fazioù">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Skarzhañ ar roll istor nevesañ…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Arventennoù ar c'hontoù…">
 <!ENTITY accountManagerCmd.accesskey "A">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Lec'hiadur an teuliad">
 <!ENTITY tagButton.label "Merk">
 <!ENTITY compactButton.label "Koazhañ">
+<!ENTITY appmenuButton.label "Lañser an arloadoù">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Klask kempleshoc'h er c'hemennadennoù">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Diskouez an ivinell postelerezh prim">
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
+<!ENTITY appmenuButton.tooltip "Diskouez lañser an arloadoù">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Kemennadenn nevez">
+<!ENTITY appmenuNewContactCmd.label "Darempred ar c'harned chomlec'hioù …">
+<!ENTITY appmenuEditMenu.label "Embann">
+<!ENTITY appmenuQFBMenu.label "Barrenn siloù prim">
+<!ENTITY appmenuToolbarLayout.label "Aozadur ar varrenn ostilhoù…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Merk nevez…">
@@ -668,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY columnChooser.tooltip "Klikañ evit diuzañ ar bannoù da skrammañ">
 <!ENTITY threadColumn.tooltip "Klikañ evit diskouez neudennadoù ar c'hemennadennoù">
 <!ENTITY fromColumn.tooltip "Klikañ evit rummañ dre ar c'haser">
-<!ENTITY recipientColumn.tooltip "Klikañ evit rummañ dre an degemerien">
+<!ENTITY recipientColumn.tooltip "Klikañ evit rummañ dre an degemererien">
 <!ENTITY subjectColumn.tooltip "Klikañ evit rummañ dre an danvez">
 <!ENTITY dateColumn.tooltip "Klikañ evit rummañ dre an deiziad">
 <!ENTITY priorityColumn.tooltip "Klikañ evit rummañ dre an tevet">

@@ -1,6 +1,6 @@
-<!ENTITY joinChatWindow.title           "Kejañ ar postelerezh prim">
+<!ENTITY joinChatWindow.title           "Kejañ ouzh ar postelerezh prim">
 <!ENTITY name.label                     "Saloñs">
 <!ENTITY optional.label                 "(diret)">
 <!ENTITY account.label                  "Kont">
-<!ENTITY autojoin.label                 "Kejañ ar saloñs-mañ ent emgefreek">
+<!ENTITY autojoin.label                 "Kejañ ouzh ar saloñs-mañ ent emgefreek">
 <!ENTITY autojoin.accesskey             "j">

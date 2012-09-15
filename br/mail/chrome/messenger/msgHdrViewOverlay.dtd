@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Moullañ…">
 <!ENTITY otherActionsPrint1.accesskey "M">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Diskouez penel ar c'henstagadurioù dre ziouer">
+<!ENTITY startExpandedCmd.accesskey    "i">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Digeriñ">
 <!ENTITY openAttachmentCmd.accesskey    "D">

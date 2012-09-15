@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Testenioù-degemer">
 <!ENTITY useGlobalPrefs.label         "Ober gant ma gwellvezioù hollek evit ardeiñ an testenioù-degemer">
 <!ENTITY useGlobalPrefs.accesskey     "b">
+<!ENTITY globalReceipts.label         "Gwellvezioù hollek…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Personelaat an testenioù-degemer evit ar gont-mañ">
 <!ENTITY useCustomPrefs.accesskey     "t">
 <!ENTITY requestReceipt.label         "Atav goulenn un testeni-degemer pa gasan kemennadennoù">

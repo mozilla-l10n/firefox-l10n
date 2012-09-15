@@ -85,7 +85,7 @@
 <!ENTITY showSettings.label            "Arventennoù…">
 <!ENTITY showSettings.accesskey        "A">
 <!ENTITY proxiesConfigure.label        "Despizañ penaos e kennasko &brandShortName; ouzh internet">
-<!ENTITY connectionsInfo.caption       "Kennaskañ">
+<!ENTITY connectionsInfo.caption       "Kennask">
 <!ENTITY offlineInfo.caption           "Ezlinenn">
 <!ENTITY offlineInfo.label             "Kefluniañ an arventennoù ezlinenn">
 <!ENTITY showOffline.label             "Ezlinenn…">
