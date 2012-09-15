@@ -133,6 +133,7 @@ size. -->
 <!ENTITY find_close "Stäng">
 
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
+<!ENTITY contextmenu_open_in_reader "Öppna i läsaren">
 <!ENTITY contextmenu_remove_history "Ta bort">
 <!ENTITY contextmenu_remove_bookmark "Ta bort">
 <!ENTITY contextmenu_add_to_launcher "Lägg till på startsidan">
@@ -160,7 +161,7 @@ size. -->
 <!ENTITY reading_list_added "Sidan finns nu i din läslista">
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
 <!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
-<!ENTITY reader_mode "Läsläge">
+<!ENTITY reader "Läsaren">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
 <!ENTITY masterpassword_remove_title "Ta bort huvudlösenord">
