@@ -47,7 +47,7 @@
 <!ENTITY statusColumn.label "Staða">
 <!ENTITY sizeColumn.label "Stærð">
 <!ENTITY junkStatusColumn.label "Rusl staða">
-<!ENTITY unreadColumn.label "Ólesin">
+<!ENTITY unreadColumn.label "Ólesið">
 <!ENTITY totalColumn.label "Allt">
 <!ENTITY readColumn.label "Lesa">
 <!ENTITY receivedColumn.label "Móttekið">

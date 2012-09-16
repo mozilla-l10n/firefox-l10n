@@ -207,7 +207,7 @@
 <!ENTITY collapseAllThreadsCmd.label "Fella saman allar umræður">
 <!ENTITY collapseAllThreadsCmd.accesskey "e">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Ólesnar">
+<!ENTITY unreadMsgsCmd.label "Ólesið">
 <!ENTITY unreadMsgsCmd.accesskey "l">
 <!ENTITY threadsWithUnreadCmd.label "Ólesnar umræður">
 <!ENTITY threadsWithUnreadCmd.accesskey "u">
@@ -637,7 +637,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Staða">
 <!ENTITY sizeColumn.label "Stærð">
 <!ENTITY junkStatusColumn.label "Rusl staða">
-<!ENTITY unreadColumn.label "Ólesin">
+<!ENTITY unreadColumn.label "Ólesið">
 <!ENTITY totalColumn.label "Allt">
 <!ENTITY readColumn.label "Lesa">
 <!ENTITY receivedColumn.label "Móttekið">

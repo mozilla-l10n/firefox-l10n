@@ -39,7 +39,7 @@
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
-<!ENTITY quickFilterBar.unread.label "Ólesinn">
+<!ENTITY quickFilterBar.unread.label "Ólesið">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
