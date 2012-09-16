@@ -1,42 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   David Bienvenu <bienvenu@netscape.com>
-   -   Mohan Bhamidipati <mohanb@netscape.com>
-   -   Lorenzo Colitti   <lorenzo@colitti.com>
-   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label           "Eigenschappen">
 
@@ -45,35 +9,35 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Standaard toepassen op alle berichten in de map (de in berichten opgegeven tekenset en autodetectie worden genegeerd)">
 <!ENTITY folderCharsetOverride.accesskey         "t">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Index van samenvattingsbestand opnieuw opbouwen">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Samenvattingsbestand opnieuw opbouwen">      
 <!ENTITY folderRebuildSummaryFile2.label         "Map repareren">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Soms raakt het mapindexbestand (.msf) beschadigd en kunnen berichten lijken te ontbreken of verwijderde berichten zichtbaar blijven; repareren van de map kan deze problemen oplossen.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Berichten in deze map meenemen in globale zoekresultaten">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "o">
-
+     
 <!ENTITY retention.label "Behoudbeleid">
 <!ENTITY retentionUseAccount.label  "Mijn accountinstellingen gebruiken">
 <!ENTITY retentionUseAccount.accesskey "M">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
-<!ENTITY retentionCleanup.label "Berichten bewaren:">
-<!ENTITY retentionCleanupImap.label "Berichten bewaren, zowel de lokale kopieën als de originele op de server:">
-<!ENTITY retentionCleanupPop.label "Berichten bewaren, inclusief de originele op de server:">
+<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd.">
+<!ENTITY retentionCleanupImap.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd, zowel de lokale als de orginele versies op de server.">
+<!ENTITY retentionCleanupPop.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd, inclusief de orginele op de server.">
 <!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
 <!ENTITY retentionDeleteMsg.accesskey "o">
-<!ENTITY retentionKeepAll.label "Alle berichten">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "De nieuwste">
-<!ENTITY retentionKeepRecent.accesskey "n">
+<!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Alle berichten verwijderen, behalve de meest recente">
+<!ENTITY retentionKeepRecent.accesskey "a">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdsinstellingen negeren)">
-<!ENTITY retentionApplyToFlagged.label "Gemarkeerde berichten altijd bewaren">
+<!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisatie">
-<!ENTITY folderCheckForNewMessages2.label        "Bij het ophalen van nieuwe berichten voor deze account, altijd deze map controleren">
-<!ENTITY folderCheckForNewMessages2.accesskey    "c">
+<!ENTITY folderCheckForNewMessages2.label         "Bij het ophalen van nieuwe berichten voor deze account, altijd deze map controleren">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Deze map voor offlinegebruik selecteren">
 <!ENTITY offlineFolder.check.accesskey           "s">
@@ -100,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "Quota root:">
 <!ENTITY folderQuotaUsage.label                  "Gebruik:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
+
+<!ENTITY numberOfMessages.label                  "Aantal berichten:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "onbekend">
+<!ENTITY sizeOnDisk.label                        "Diskruimte:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "onbekend">
