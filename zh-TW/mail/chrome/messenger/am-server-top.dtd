@@ -76,7 +76,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "預設字元編碼方式:">
 <!ENTITY localPath.label "本地目錄:">
-<!ENTITY localFolderPicker.label "選取本機郵件匣">
+<!ENTITY localFolderPicker.label "選取本地目錄">
 <!ENTITY browseFolder.label "瀏覽…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY browseNewsrc.label "瀏覽…">
