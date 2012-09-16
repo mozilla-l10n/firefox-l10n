@@ -549,7 +549,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Mappeplacering">
 <!ENTITY tagButton.label "Mærkat">
 <!ENTITY compactButton.label "Optimer">
-<!ENTITY appmenuButton.label "Appmenu">
+<!ENTITY appmenuButton.label "Programmenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Avanceret adressesøgning">
@@ -581,11 +581,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagButton.tooltip "Marker meddelelser">
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
 
-<!ENTITY appmenuButton.tooltip "Vis applikationsmenuen">
+<!ENTITY appmenuButton.tooltip "Vis programmenuen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny meddelelse">
-<!ENTITY appmenuNewContactCmd.label "Adressebogskontakt…">
+<!ENTITY appmenuNewContactCmd.label "Kontakt…">
 <!ENTITY appmenuEditMenu.label "Rediger">
 <!ENTITY appmenuQFBMenu.label "Lynfilterlinje">
 <!ENTITY appmenuToolbarLayout.label "Tilpas værktøjslinje…">

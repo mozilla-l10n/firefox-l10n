@@ -5,8 +5,8 @@
 <!ENTITY sanitizePrefs2.title          "Indstillinger for rydning af historik">
 <!ENTITY sanitizeDialog2.title         "Ryd seneste historik">
 
-<!ENTITY sanitizeItems.label          "Ryd de følgende dele nu:">
-<!ENTITY clearDataSettings2.label     "Ryd al historik når &brandShortName;lukkes:">
+<!ENTITY sanitizeItems.label          "Ryd følgende dele nu:">
+<!ENTITY clearDataSettings2.label     "Ryd al historik når &brandShortName; lukkes:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.

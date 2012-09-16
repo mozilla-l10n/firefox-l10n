@@ -95,7 +95,7 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "O">
 <!ENTITY  event.menu.item.new.message.label               "Meddelelse">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
-<!ENTITY  event.menu.item.new.contact.label               "Adressebogskontakt">
+<!ENTITY  event.menu.item.new.contact.label               "Kontakt">
 <!ENTITY  event.menu.item.new.contact.accesskey           "k">
 <!ENTITY  event.menu.item.close.label                     "Afslut">
 <!ENTITY  event.menu.item.close.accesskey                 "A">
@@ -111,7 +111,7 @@
 <!ENTITY  event.menu.item.print.accesskey                 "U">
 
 <!ENTITY event.menu.edit.label "Rediger">
-<!ENTITY event.menu.edit.accesskey "E">
+<!ENTITY event.menu.edit.accesskey "R">
 <!ENTITY event.menu.edit.undo.label "Fortryd">
 <!ENTITY event.menu.edit.undo.accesskey "F">
 <!ENTITY event.menu.edit.redo.label "Gendan">
