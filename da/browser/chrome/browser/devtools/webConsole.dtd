@@ -29,7 +29,7 @@
 
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY saveBodies.label     "Logfør forespørgsler og retursvar">
+<!ENTITY saveBodies.label     "Logfør request og response bodies">
 <!ENTITY saveBodies.accesskey "L">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
@@ -37,9 +37,9 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 <!ENTITY btnPageNet.label   "Net">
-<!ENTITY btnPageNet.tooltip "Logfør netværksadgang">
+<!ENTITY btnPageNet.tooltip "Logfør netværksaktivitet">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Logfør CSS-fortolkningsfejl">
+<!ENTITY btnPageCSS.tooltip "Logfør CSS parser-fejl">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Logfør JavaScript-undtagelser">
 
@@ -48,7 +48,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Logning">
-<!ENTITY btnPageLogging.tooltip "Log-beskeder sendt til window.console-objektet">
+<!ENTITY btnPageLogging.tooltip "Logfør beskeder sendt til window.console-objektet">
 <!ENTITY btnConsoleErrors       "Fejl">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Advarsler">

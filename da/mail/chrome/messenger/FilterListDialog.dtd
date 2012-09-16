@@ -8,7 +8,7 @@
 <!ENTITY deleteButton.label "Slet">
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY reorderTopButton "Flyt til top">
-<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.accessKey "t">
 <!ENTITY reorderTopButton.toolTip "Placer filter, så det udføres før alle andre">
 <!ENTITY reorderUpButton.label "Flyt op">
 <!ENTITY reorderUpButton.accesskey "o">
