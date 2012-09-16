@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Berichtenfilters">
 <!ENTITY nameColumn.label "Filternaam">
 <!ENTITY activeColumn.label "Actief">
@@ -7,11 +11,16 @@
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Verwijderen">
 <!ENTITY deleteButton.accesskey "V">
+<!ENTITY reorderTopButton "Bovenaan plaatsen">
+<!ENTITY reorderTopButton.accessKey "B">
+<!ENTITY reorderTopButton.toolTip "Verplaats filter zodat het als eerste uitgevoerd wordt">
 <!ENTITY reorderUpButton.label "Omhoog verplaatsen">
-<!ENTITY reorderUpButton.accesskey "h">
+<!ENTITY reorderUpButton.accesskey "m">
 <!ENTITY reorderDownButton.label "Omlaag verplaatsen">
 <!ENTITY reorderDownButton.accesskey "l">
-<!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
+<!ENTITY reorderBottomButton "Onderaan plaatsen">
+<!ENTITY reorderBottomButton.accessKey "O">
+<!ENTITY reorderBottomButton.toolTip "Verplaats filter zodat het als laatste uitgevoerd wordt"><!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
 <!ENTITY filtersForPrefix.label "Filters voor:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogboek">
@@ -27,3 +36,4 @@
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Filters op naam zoeken…">
