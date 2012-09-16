@@ -11,7 +11,7 @@
 <!ENTITY importFromUnix.label           "Impòrtëjë òptacje, załóżczi, historiã, parole i jinszé pòdôwczi z:">
 <!ENTITY importFromBookmarks.label      "Impòrtëjë załóżczi z:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorera">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Nick nie impòrtëjë">
 <!ENTITY importFromNothing.accesskey    "N">

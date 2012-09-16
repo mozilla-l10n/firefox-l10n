@@ -72,7 +72,7 @@
 <!ENTITY certmgr.certdetail.cn                "Zwëczajné miono (CN)">
 <!ENTITY certmgr.certdetail.o                 "Òrganizacjô (O)">
 <!ENTITY certmgr.certdetail.ou                "Jednostka òrganizacji (OU)">
-<!ENTITY certmgr.certdetail.serialnumber      "Numer seriowy">
+<!ENTITY certmgr.certdetail.serialnumber      "Numer seriowi">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Òbcësk palca SHA1">
 <!ENTITY certmgr.certdetail.md5fingerprint    "Òbcësk palca MD5">
 
@@ -105,7 +105,7 @@
 <!ENTITY certmgr.issued                       "Wëstôwiony dnia">
 <!ENTITY certmgr.expires                      "Kùńczi sã">
 <!ENTITY certmgr.email                        "E-mailowi adres">
-<!ENTITY certmgr.serial                       "Numer seriowy">
+<!ENTITY certmgr.serial                       "Numer seriowi">
 
 <!ENTITY certmgr.close.label                  "Zamkni">
 <!ENTITY certmgr.close.accesskey              "Z">

@@ -23,7 +23,7 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Domôcô strona">
-<!ENTITY homeButton.tooltip             "Biéj do startowy stronë pòmòcë">
+<!ENTITY homeButton.tooltip             "Biéj do startowi stronë pòmòcë">
 <!ENTITY printButton.label              "Drëkòwanié">
 <!ENTITY printButton.tooltip            "Drëkùjë tã stronã">
 <!ENTITY closeWindow.commandkey         "W">

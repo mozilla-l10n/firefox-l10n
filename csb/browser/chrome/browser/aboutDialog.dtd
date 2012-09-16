@@ -24,8 +24,8 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.end " wëspółrobiącą bë Internet béł bëlniészi. Mómë wiarã, że Internet mùszi bëc òtemkłi, pùbliczny i przistãpny dlô wszëtczich bez niżódnëch restrikcjów.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink "swiatowô spòlëznã">
-<!ENTITY community.creditsLink      "swiatowô spòlëznã">
+<!ENTITY community.exp.creditsLink "swiatowã spòlëzną">
+<!ENTITY community.creditsLink      "swiatową spòlëzną">
 <!ENTITY community.end3             " wëspółrobiącą bë Internet béł bëlniészi. Mómë wiarã, że Internet mùszi bëc òtemkłi, pùbliczny i przistãpny dlô wszëtczich bez niżódnëch restrikcjów.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Sprôwdzanié zgòdnoscë dodôwków…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "Program &brandShortName; je fùl zaktualizowóny">
+<!ENTITY update.noUpdatesFound      "Program &brandShortName; je ju zaktualizowóny">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Aktualizacje zablokòwóné przez sprôwnika systemù">
 
@@ -87,4 +87,4 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Jes terô na kanale aktualizacji ">
 <!ENTITY channel.description.end    ".">
-<!ENTITY warningDesc.telemetryDesc  "Automatno sélôj infòrmacje ò wëdajnocë, ùżëcym hardwôra i ùstawach nazôd do &vendorShortName; żebë pòmòc w ùdobrzenim programù &brandShortName;">
+<!ENTITY warningDesc.telemetryDesc  "Automatno sélôj infòrmacje ò wëdajnocë, ùżëcym hardwôra i ùstawach nazôd do &vendorShortName; bë pòmòc w ùdobrzenim programù &brandShortName;">

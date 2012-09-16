@@ -131,11 +131,11 @@
 <!ENTITY  securityView.identity.verifier "Zwerifikòwóné przez:">
 
 <!ENTITY  securityView.privacy.header                   "Priwatnota i historiô">
-<!ENTITY  securityView.privacy.history                  "Móm jô na stronã ju rëchli òbzeróną?">
-<!ENTITY  securityView.privacy.cookies                  "Trzëmô na strona wëdowiédzã (kùszczi) na mòjim kòmpùtrze?">
+<!ENTITY  securityView.privacy.history                  "Móm na ti stronie ju rëchli bëti?">
+<!ENTITY  securityView.privacy.cookies                  "Móm kùszczi dlô ti tronë na mòjim kòmpùtrze?">
 <!ENTITY  securityView.privacy.viewCookies              "Wëskrzëni kùszczi">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Móm jô zapisóné parole z ti stronë?">
+<!ENTITY  securityView.privacy.passwords                "Móm zapisóné parole z ti stronë?">
 <!ENTITY  securityView.privacy.viewPasswords            "Wëskrzëni zapisóné parole">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 

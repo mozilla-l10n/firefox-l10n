@@ -17,7 +17,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nie dało sã sparłãczec">
-<!ENTITY connectionFailure.longDesc "<p>Nimò, że adres stronë wëdôwô sã bëc dobri, przezérnik nie béł w sztãdze sã sparłączëc.</p><ul><li>Je na strona terëczasno nieprzistãpnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòże przezérac téż jinszëch stronów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracjô mòże doprowadzëc do problemów w przezéraniu Internetowëch stronów.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Nimò, że adres stronë wëdôwô sã bëc dobri, przezérnik nie béł w sztãdze sã sparłączëc.</p><ul><li>Je na strona terëczasno nieprzistãpnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòże przezérac téż jinszëch stronów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracjô mòże doprowadzëc do problemów w przezéraniu internetowëch stronów.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Pòrt je zastrzeżony z przëczënë bezpiekù">
 <!ENTITY deniedPortAccess.longDesc "<p>Żądóny adres zamëkô w se numer pòrtu (np. w adresu <q>mozilla.org:80</q> wielëna 80 to pòrt na serwerze mozilla.org), chtërny zwëczajno <em>nie je</em> brëkòwóny do przezéraniô stronów WWW. Przezérnik anulowôł to żądzanié dlô twòjégò bezpiekù.</p>">

@@ -11,7 +11,7 @@
 <!ENTITY  blockAttackSites.label     "Blokùjë zgłoszoné stronë robiącé zagrozbã">
 <!ENTITY  blockAttackSites.accesskey "B">
 
-<!ENTITY  blockWebForgeries.label     "Blokùjë zgłoszoné próbë Internetowegò szachrajstwa">
+<!ENTITY  blockWebForgeries.label     "Blokùjë zgłoszoné próbë internetowegò szachrajstwa">
 <!ENTITY  blockWebForgeries.accesskey "p">
 
 <!ENTITY  addonExceptions.label         "Wëjimczi…">

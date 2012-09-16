@@ -17,7 +17,7 @@
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchStartTyping.label         "Naczni szëkbã przë wpisëwaniu tekstu">
 <!ENTITY searchStartTyping.accesskey     "k">
-<!ENTITY blockAutoRefresh.label          "Òstrzégôj, jeżlë Internetowé stronë próbùją przeczérowac abò zladowac stronã znôwù">
+<!ENTITY blockAutoRefresh.label          "Òstrzégôj, żlë internetowé stronë próbùją przeczérowac abò zladowac stronã znowa">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Przezéranié">
@@ -87,16 +87,16 @@
 <!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô instalowaniégò aktualizacji">
 <!ENTITY useService.accesskey            "Ù">
 
-<!ENTITY offlineNotify.label             "Dôwôj wiedzã jeżlë Internetowô strona pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
+<!ENTITY offlineNotify.label             "Dôwôj wiedzã żlë internetowô strona chce zapisac pòdôwczi dlô tribù offline">
 <!ENTITY offlineNotify.accesskey         "D">
 <!ENTITY offlineNotifyExceptions.label   "Wëjimczi…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
 
-<!ENTITY offlineAppsList2.label          "Nôslédné Internetowé stronë trzëmają na diskù pòdôwczi w tribie offline:">
+<!ENTITY offlineAppsList2.label          "Môsz pòdôwczi dlô nôslédnëch internetowëch stronów (trib offline):">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Rëmôj…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi tribù offline">
+<!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi dlô tribù offline">
 
 <!ENTITY encryptionTab.label             "Szifrowanié">
 <!ENTITY protocols.label                 "Protokulë">
@@ -105,20 +105,20 @@
 <!ENTITY useTLS1.label                   "Brëkùjë TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certifikatë">
-<!ENTITY certSelection.description       "Jeżlë serwer żądô swòjegò certifikatu brëkòwnika:">
+<!ENTITY certSelection.description       "Żlë serwer żądô certifikatu brëkòwnika:">
 <!ENTITY certs.auto                      "Wëbierzë certifikat automatno">
 <!ENTITY certs.auto.accesskey            "c">
-<!ENTITY certs.ask                       "pëtôj wiedno">
+<!ENTITY certs.ask                       "wiedno pëtôj">
 <!ENTITY certs.ask.accesskey             "t">
 <!ENTITY viewCerts.label                 "Wëskrzëni certifikatë">
 <!ENTITY viewCerts.accesskey             "e">
-<!ENTITY viewCRLs.label                  "Lëstë òdwòłaniô">
+<!ENTITY viewCRLs.label                  "Lëstë òdwòłónëch certifikatów">
 <!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Werifikacjô">
 <!ENTITY verify2.accesskey               "j">
 <!ENTITY viewSecurityDevices.label       "Ùrzãdzenia bezpiekù">
-<!ENTITY viewSecurityDevices.accesskey   "d">
+<!ENTITY viewSecurityDevices.accesskey   "b">
 
 <!ENTITY isDefault.label                 "&brandShortName; je Twòjim domëszlnym przezérnikã">
-<!ENTITY setDefault.label                "Zaznaczë &brandShortName; jakno domëszlny przezérnik">
+<!ENTITY setDefault.label                "Wëbierzë &brandShortName; jakno domëszlny przezérnik">
 <!ENTITY setDefault.accesskey            "d">
