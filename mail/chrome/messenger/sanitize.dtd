@@ -36,26 +36,10 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Navigatie- &amp; downloadgeschiedenis">
-<!ENTITY itemHistoryAndDownloads.accesskey "N">
-<!ENTITY itemBrowsingHistory.label         "Navigatiegeschiedenis">
-<!ENTITY itemBrowsingHistory.accesskey     "N">
-<!ENTITY itemFormSearchHistory.label       "Formulier- &amp; zoekgeschiedenis">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "Opgeslagen wachtwoorden">
-<!ENTITY itemPasswords.accesskey           "w">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Buffer">
 <!ENTITY itemCache.accesskey               "B">
-<!ENTITY itemOfflineApps.label             "Offlinewebsitegegevens">
-<!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemDownloadHistory.label         "Downloadgeschiedenis">
-<!ENTITY itemDownloadHistory.accesskey     "D">
-<!ENTITY itemActiveLogins.label            "Actieve aanmeldingen">
-<!ENTITY itemActiveLogins.accesskey        "A">
-<!ENTITY itemSitePreferences.label         "Websitevoorkeuren">
-<!ENTITY itemSitePreferences.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
