@@ -30,7 +30,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY pinAppTab.label                "Pin as app-ljepblêd">
 <!ENTITY pinAppTab.accesskey            "P">
-<!ENTITY unpinAppTab.label              "Jjepblêd unpinne">
+<!ENTITY unpinAppTab.label              "Ljepblêd unpinne">
 <!ENTITY unpinAppTab.accesskey          "b">
 <!ENTITY moveToGroup.label              "Ferpleatse nei groep">
 <!ENTITY moveToGroup.accesskey          "F">
@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label 	              "Add-ons">
-<!ENTITY addons.accesskey             "E">
+<!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Webûntwikkeler">
