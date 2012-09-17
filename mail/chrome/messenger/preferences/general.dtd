@@ -1,12 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "&brandShortName;-startside">
-<!ENTITY enableStartPage.label            "Wannear &brandShortName; start, de startside yn it berjochtdiel toane">
+<!ENTITY enableStartPage.label            "Wannear't &brandShortName; start, de startside yn it berjochtdiel toane">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Lokaasje:">
 <!ENTITY location1.accesskey              "L">
 <!ENTITY useDefault.label                 "Standertynstelling tebeksette">
 <!ENTITY useDefault.accesskey             "S">
 
-<!ENTITY bounceSystemDockIcon.label       "It systeemfakpiktogram animearje">
+<!ENTITY bounceSystemDockIcon.label       "It systeemfekpiktogram animearje">
 <!ENTITY bounceSystemDockIcon.accesskey   "i">
 
 <!ENTITY newMessagesArrive.label          "As nije berjochten oankomme:">
@@ -14,7 +18,7 @@
 <!ENTITY playSound1.accesskey             "l">
 <!ENTITY showAnimatedAlert.label          "In melding toane">
 <!ENTITY showAnimatedAlert.accesskey      "t">
-<!ENTITY customizeMailAlert.label         "Oanpasse...">
+<!ENTITY customizeMailAlert.label         "Oanpasse…">
 <!ENTITY customizeMailAlert.accesskey     "O">
 
 <!ENTITY play.label                       "Ofspylje">
@@ -25,11 +29,5 @@
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "It folgjende lûdsbestân brûke">
 <!ENTITY customsound.accesskey            "l">
-<!ENTITY browse.label                     "Blêdzje...">
+<!ENTITY browse.label                     "Blêdzje…">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "Tafoegings">
-<!ENTITY manageAddonsDescWin.label        "Wizigje opsjes foar jo tafoegings">
-<!ENTITY manageAddonsDescUnix2.label      "Wizigje foarkarren foar jo tafoegings">
-<!ENTITY manageAddons.label               "Behear tafoegings…">
-<!ENTITY manageAddons.accesskey           "B">

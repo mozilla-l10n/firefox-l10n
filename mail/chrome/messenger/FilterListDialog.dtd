@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Berjochtefilters">
 <!ENTITY nameColumn.label "Filternamme">
 <!ENTITY activeColumn.label "Aktyf">
@@ -7,10 +11,16 @@
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Fuortsmite">
 <!ENTITY deleteButton.accesskey "F">
+<!ENTITY reorderTopButton "Boppe-oan pleatse">
+<!ENTITY reorderTopButton.accessKey "B">
+<!ENTITY reorderTopButton.toolTip "Ferpleats filter sadat it as earste útfierd wurdt">
 <!ENTITY reorderUpButton.label "Omheech ferpleatse">
 <!ENTITY reorderUpButton.accesskey "h">
 <!ENTITY reorderDownButton.label "Omleech ferpleatse">
 <!ENTITY reorderDownButton.accesskey "l">
+<!ENTITY reorderBottomButton "Underoan pleatse">
+<!ENTITY reorderBottomButton.accessKey "U">
+<!ENTITY reorderBottomButton.toolTip "Ferpleats filter sadat it as lêste útfierd wurdt"><!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
 <!ENTITY filterHeader.label "Aktivearre filters wurkje yn dizze folchoarder.">
 <!ENTITY filtersForPrefix.label "Filters foar:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -27,3 +37,4 @@
 <!ENTITY helpButton.label "Help">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Filters op namme sykje…">
