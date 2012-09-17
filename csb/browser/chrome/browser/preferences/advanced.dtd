@@ -22,11 +22,11 @@
 
 <!ENTITY browsing.label                  "Przezéranié">
 
-<!ENTITY useAutoScroll.label             "Brëkùjë automatnegò przewijaniô">
+<!ENTITY useAutoScroll.label             "Ùżëjë automatnegò przewijaniô">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Brëkùjë lejnegò przewijaniô">
+<!ENTITY useSmoothScrolling.label        "Ùżëjë lejnegò przewijaniô">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Brëkùjë sprzãtowégò wspòmaganiô czedë je przistãpné">
+<!ENTITY allowHWAccel.label              "Ùżëjë sprzãtowégò wspòmaganiô żlë je przistãpné">
 <!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkSpelling.label             "Sprawdzë pisënk przë wpisëwaniu tekstu">
 <!ENTITY checkSpelling.accesskey         "t">
@@ -84,11 +84,11 @@
 <!ENTITY enableSearchUpdate.accesskey    "k">
 <!ENTITY updateHistory.label             "Wëskrzëni histroriã aktualizacji">
 <!ENTITY updateHistory.accesskey         "h">
-<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô instalowaniégò aktualizacji">
+<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô instalowaniô aktualizacji">
 <!ENTITY useService.accesskey            "Ù">
 
-<!ENTITY offlineNotify.label             "Dôwôj wiedzã żlë internetowô strona chce zapisac pòdôwczi dlô tribù offline">
-<!ENTITY offlineNotify.accesskey         "D">
+<!ENTITY offlineNotify.label             "Infòrmùjë żlë strona chce zapisac pòdôwczi dlô tribù offline">
+<!ENTITY offlineNotify.accesskey         "I">
 <!ENTITY offlineNotifyExceptions.label   "Wëjimczi…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
 
@@ -96,23 +96,23 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Rëmôj…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi dlô tribù offline">
+<!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi tribù offline">
 
 <!ENTITY encryptionTab.label             "Szifrowanié">
 <!ENTITY protocols.label                 "Protokulë">
-<!ENTITY useSSL3.label                   "Brëkùjë SSL 3.0">
+<!ENTITY useSSL3.label                   "Ùżëwôj SSL 3.0">
 <!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Brëkùjë TLS 1.0">
+<!ENTITY useTLS1.label                   "Ùżëwôj TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certifikatë">
 <!ENTITY certSelection.description       "Żlë serwer żądô certifikatu brëkòwnika:">
-<!ENTITY certs.auto                      "Wëbierzë certifikat automatno">
+<!ENTITY certs.auto                      "automatny wëbierk certifikatu">
 <!ENTITY certs.auto.accesskey            "c">
 <!ENTITY certs.ask                       "wiedno pëtôj">
 <!ENTITY certs.ask.accesskey             "t">
 <!ENTITY viewCerts.label                 "Wëskrzëni certifikatë">
 <!ENTITY viewCerts.accesskey             "e">
-<!ENTITY viewCRLs.label                  "Lëstë òdwòłónëch certifikatów">
+<!ENTITY viewCRLs.label                  "Lësta òdwòłónëch certifikatów">
 <!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Werifikacjô">
 <!ENTITY verify2.accesskey               "j">

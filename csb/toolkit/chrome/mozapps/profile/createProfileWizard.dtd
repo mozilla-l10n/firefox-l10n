@@ -10,12 +10,12 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "Abë nacząc ùsôdzanié profilu, klëkni na Dali.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Ùsôdzany profil mùszi miec miono jinszé òd tëch, jaczé ju dô. Brëkùjë miona pòdónegò niżi, abò wpiszë swòjé.">
+<!ENTITY profileCreationIntro.text      "Ùsôdzany profil mùszi miec miono jinszé òd tëch, jaczé ju dô. Ùżëjë miona pòdónegò niżi, abò wpiszë swòjé.">
 <!ENTITY profilePrompt.label            "Wpiszë miono nowégò profilu:">
 <!ENTITY profilePrompt.accesskey        "n">
 <!ENTITY profileDirectoryExplanation.text   "Nastôwë, preferencje i jinszé swòjé pòdôwczi brëkòwnika bãdã trzëmóné w:">
 <!ENTITY profileDefaultName             "Domëslny brëkòwnik">
 <!ENTITY button.choosefolder.label      "Wëbierzë katalog…">
 <!ENTITY button.choosefolder.accesskey  "W">
-<!ENTITY button.usedefault.label        "Brëkùjë domëslnegò kataloga">
-<!ENTITY button.usedefault.accesskey    "B">
+<!ENTITY button.usedefault.label        "Ùżëjë domëslnegò kataloga">
+<!ENTITY button.usedefault.accesskey    "d">

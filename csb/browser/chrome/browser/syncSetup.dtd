@@ -26,7 +26,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serwer">
-<!ENTITY serverType.custom2.label   "Brëkùjë swòjégò serwera…">
+<!ENTITY serverType.custom2.label   "Ùżëjë swòjégò serwera…">
 <!ENTITY serverType.default.label   "Domëslno: Mozilla &syncBrand.fullName.label; serwer">
 <!ENTITY signIn.account2.label      "Kònto">
 <!ENTITY signIn.account2.accesskey  "K">

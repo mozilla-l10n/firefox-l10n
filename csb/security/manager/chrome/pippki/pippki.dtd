@@ -69,7 +69,7 @@
 <!ENTITY pref.security.general.rHeader "Òglowé nastôwé bezpiekù">
 <!ENTITY pref.security.general.header "Òglowé nastôwé bezpiekù">
 <!ENTITY pref.security.general.level.title "Lédżi bezpiekù">
-<!ENTITY pref.security.general.paranoid.label "Brëkùjë nôwiższich nastôwów bezpiekù">
+<!ENTITY pref.security.general.paranoid.label "Ùżëjë nôwiższich nastôwów bezpiekù">
 <!ENTITY pref.security.general.certificates.title "Certifikatë">
 <!ENTITY pref.security.general.manageCert.label "Sprôwiôj certifikatë">
 

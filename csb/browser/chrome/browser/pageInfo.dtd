@@ -100,7 +100,7 @@
 
 <!ENTITY  permTab               "Przistãp">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Brëkùjë domëslnëch">
+<!ENTITY  permUseDefault        "Ùżëjë domëslnëch">
 <!ENTITY  permAskAlways         "Pëtôj wiedno">
 <!ENTITY  permAllow             "Zezwòlë">
 <!ENTITY  permAllowSession      "Zezwòlë dlô sesji">

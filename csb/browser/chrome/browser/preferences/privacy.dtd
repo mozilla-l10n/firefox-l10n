@@ -24,7 +24,7 @@
 <!ENTITY  rememberHistory2.accesskey  "z">
 
 
-<!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresu òpierôj na:">
+<!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresu òpiarté na:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "historii i załóżkach">
@@ -54,9 +54,9 @@
 
 <!ENTITY  historyHeader.pre.label          "Program &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "m">
-<!ENTITY  historyHeader.remember.label     "Pamiãtôj historiã">
-<!ENTITY  historyHeader.dontremember.label "Nie pamiãtôj historii">
-<!ENTITY  historyHeader.custom.label       "Brëkùjë swòjich nastôwów historii">
+<!ENTITY  historyHeader.remember.label     "Spamiãtiwôj historiã">
+<!ENTITY  historyHeader.dontremember.label "Nie spamiãtiwôj historii">
+<!ENTITY  historyHeader.custom.label       "Ùżëjë swòji historii">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; spamiãtô historiã przezéraniô, szëkbë, zladënkù lopków i pòdôwków fòrmùlôrzów, bãdze trzëmôł téż kùszczi z òdwiedzónëch stronów,">
@@ -64,9 +64,9 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Mòże">
-<!ENTITY  rememberActions.clearHistory.label  "wëczëszczëc slédną historiã">
-<!ENTITY  rememberActions.middle.label        "abò">
+<!ENTITY  rememberActions.pre.label           "Mòże ">
+<!ENTITY  rememberActions.clearHistory.label  "wëczëszczëc slédną historiã ">
+<!ENTITY  rememberActions.middle.label        "abò ">
 <!ENTITY  rememberActions.removeCookies.label "rëmnąc pòjedińcze kùszczi">
 <!ENTITY  rememberActions.post.label          ".">
 
