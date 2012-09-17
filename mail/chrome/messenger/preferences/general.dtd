@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "&brandShortName;-startpagina">
 <!ENTITY enableStartPage.label            "Wanneer &brandShortName; start, de startpagina in het berichtgedeelte tonen">
 <!ENTITY enableStartPage.accesskey        "W">
@@ -28,8 +32,3 @@
 <!ENTITY browse.label                     "Bladeren…">
 <!ENTITY browse.accesskey                 "B">
 
-<!ENTITY addonsMgr.label                  "Add-ons">
-<!ENTITY manageAddonsDescWin.label        "Opties van uw add-ons aanpassen">
-<!ENTITY manageAddonsDescUnix2.label      "Voorkeuren van uw add-ons aanpassen">
-<!ENTITY manageAddons.label               "Add-ons beheren…">
-<!ENTITY manageAddons.accesskey           "e">
