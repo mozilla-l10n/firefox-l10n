@@ -97,15 +97,15 @@
 
 <!ENTITY  event.menu.options.label                            "Opsjes">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attachments.label                "Webstee keppelje…">
-<!ENTITY  event.menu.options.attendees.accesskey              "G">
+<!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnoegje…">
+<!ENTITY  event.menu.options.attendees.accesskey              "D">
 <!ENTITY  event.menu.options.spellcheck.label                 "Stavering kontrolearje…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "k">
 <!ENTITY  event.menu.options.inline.spellcheck.label          "Stavering kontrolearje tiidens it typen">
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Keppeling tafoegje…">
 <!ENTITY  event.menu.options.link.accesskey                   "K">
-<!ENTITY  event.menu.options.timezone2.label                   "Tiidsônes toane">
+<!ENTITY  event.menu.options.timezone2.label                   "Tiidsoanes toane">
 <!ENTITY  event.menu.options.timezone2.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
