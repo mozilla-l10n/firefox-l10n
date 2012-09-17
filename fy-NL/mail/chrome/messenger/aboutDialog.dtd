@@ -23,13 +23,13 @@
 <!ENTITY bottomLinks.privacy        "Privacybelied">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Kontrolearret op fernijings…">
+<!ENTITY update.checkingForUpdates  "Kontrolearret op fernijingen…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Kontrolearret tafoegingskompatibiliteit…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; is by de tiid">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Fernijings útskeakele troch jo systeembehearder">
+<!ENTITY update.adminDisabled       "Fernijingen útskeakele troch jo systeembehearder">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -55,6 +55,8 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Fernijing ynlade — ">
 <!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "Fernijing tapasse…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.

@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Flaterkonsole">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Resinte skiednis wiskje…">
+<!ENTITY clearRecentHistory.accesskey "g">
 <!ENTITY accountManagerCmd.label "Accountynstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -549,6 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Chatljepblêd toane">
 <!ENTITY tagButton.label "Labelje">
 <!ENTITY compactButton.label "Komprimearje">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Wiidweidich berjochten sykje">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookButton.tooltip "Adresboek iepenje">
 <!ENTITY tagButton.tooltip "Berjocht labelje">
 <!ENTITY compactButton.tooltip "Fuortsmiten berjochten út de selektearre map definityf fuortsmite">
+<!ENTITY appmenuButton.tooltip "Tapassingsmenu toane">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nij berjocht">
+<!ENTITY appmenuNewContactCmd.label "Adresboekkontakt…">
+<!ENTITY appmenuEditMenu.label "Bewurkje">
+<!ENTITY appmenuQFBMenu.label "Fluchfilterbalke">
+<!ENTITY appmenuToolbarLayout.label "Arkbalke-yndieling…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nij label…">

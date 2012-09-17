@@ -69,6 +69,10 @@
 <!ENTITY otherActionsPrint1.label "Ofdrukke…">
 <!ENTITY otherActionsPrint1.accesskey "O">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Inisjeel bylagefinster toane">
+<!ENTITY startExpandedCmd.accesskey    "I">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Iepenje">
 <!ENTITY openAttachmentCmd.accesskey "I">
