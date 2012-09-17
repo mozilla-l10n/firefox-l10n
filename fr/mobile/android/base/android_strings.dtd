@@ -226,10 +226,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title "Téléchargement de &brandShortName;">
 <!ENTITY updater_downloading_ticker "Téléchargement de la mise à jour de &brandShortName;&#8230;">
 <!ENTITY updater_downloading_ticker_failed "Impossible de télécharger la mise à jour de &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Sélectionner pour appliquer la mise à jour à la fin du téléchargement.">
-<!ENTITY updater_downloading_retry "Sélectionner pour télécharger de nouveau la mise à jour.">
+<!ENTITY updater_downloading_select "Appliquer la mise à jour à la fin du téléchargement.">
+<!ENTITY updater_downloading_retry "Télécharger de nouveau la mise à jour.">
 <!ENTITY updater_downloading_willapply "En attente de la fin du téléchargement.">
 
 <!ENTITY updater_apply_title "&brandShortName;">
 <!ENTITY updater_apply_ticker "Mise à jour de &brandShortName; disponible&#8230;">
-<!ENTITY updater_apply_select "Sélectionner pour appliquer la mise à jour téléchargée.">
+<!ENTITY updater_apply_select "Appliquer la mise à jour téléchargée.">
