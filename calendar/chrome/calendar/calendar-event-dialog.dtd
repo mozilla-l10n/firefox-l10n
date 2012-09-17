@@ -98,8 +98,6 @@
 <!ENTITY  event.menu.options.label                            "Opsjes">
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attachments.label                "Webstee keppelje…">
-<!ENTITY  event.menu.options.attachments.accesskey            "W">
-<!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnoegje…">
 <!ENTITY  event.menu.options.attendees.accesskey              "G">
 <!ENTITY  event.menu.options.spellcheck.label                 "Stavering kontrolearje…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "k">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Dielnimmers útnoegje">
 <!ENTITY  event.toolbar.spellcheck.label                  "Staveringskontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
-<!ENTITY  event.toolbar.attachments.label                 "Keppelje">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
@@ -338,10 +335,14 @@
 <!ENTITY event.attendee.role.optional	 "Opsjonele dielnimmer">
 <!ENTITY event.attendee.role.chair		 "Stoel">
 <!ENTITY event.attendee.role.nonparticipant     "Net-dielnimmer">
+<!ENTITY event.attendee.usertype.individual     "Yndividueel">
+<!ENTITY event.attendee.usertype.group          "Groep">
+<!ENTITY event.attendee.usertype.resource       "Boarne">
+<!ENTITY event.attendee.usertype.room           "Romte">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spesifisearje de tiidsoane">
- <!ENTITY event.timezone.custom.label     "Mear tiidsônes…">
+ <!ENTITY event.timezone.custom.label     "Mear tiidsoanes…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemien">
