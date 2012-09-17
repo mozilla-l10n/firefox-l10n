@@ -550,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Maplocatie">
 <!ENTITY tagButton.label "Labelen">
 <!ENTITY compactButton.label "Comprimeren">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Uitgebreid berichten zoeken">
@@ -580,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Het chattabblad tonen">
 <!ENTITY tagButton.tooltip "Berichten labelen">
 <!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map verwijderen">
+<!ENTITY appmenuButton.tooltip "Toepassingsmenu tonen">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nieuw bericht">
+<!ENTITY appmenuNewContactCmd.label "Adresboekcontact…">
+<!ENTITY appmenuEditMenu.label "Bewerken">
+<!ENTITY appmenuQFBMenu.label "Snelfilterbalk">
+<!ENTITY appmenuToolbarLayout.label "Werkbalkindeling…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nieuw label…">
