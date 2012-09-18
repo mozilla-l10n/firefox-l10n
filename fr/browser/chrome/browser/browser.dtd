@@ -196,14 +196,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "e">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Développeur Web">
+<!ENTITY webDeveloperMenu.label       "Développeur web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "Console d'erreurs">
 <!ENTITY errorConsoleCmd.accesskey    "s">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Console Web">
+<!ENTITY webConsoleCmd.label          "Console web">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
@@ -242,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
 
-<!ENTITY webConsoleButton.label "Console Web">
+<!ENTITY webConsoleButton.label "Console web">
 <!ENTITY inspectorButton.label "Inspecteur">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copier innerHTML">
@@ -348,13 +348,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSidebars.label "Panneau latéral">
 <!ENTITY appMenuFind.label "Rechercher dans la page…">
 <!ENTITY appMenuUnsorted.label "Marque-pages non classés">
-<!ENTITY appMenuWebDeveloper.label "Développement Web">
+<!ENTITY appMenuWebDeveloper.label "Développement web">
 <!ENTITY appMenuGettingStarted.label "Pour commencer">
 <!ENTITY appMenuSafeMode.label "Redémarrer avec les modules désactivés…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Se rendre sur un site Web">
+<!ENTITY urlbar.placeholder           "Se rendre sur un site web">
 <!-- LOCALIZATION NOTE (urlbar.accesskey): do NOT change this "accesskey"
      this is the ALT+D shortcut from IE -->
 <!ENTITY urlbar.accesskey             "d">
@@ -568,7 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY pageStylePersistentOnly.label "Style de base de la page">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Changer la politique popups de ce site Web">
+<!ENTITY pageReportIcon.tooltip            "Changer la politique popups de ce site web">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -600,7 +600,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY editBookmark.cancel.label                   "Annuler">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Ce site Web ne fournit aucune information sur son identité.">
+<!ENTITY identity.unverifiedsite2 "Ce site web ne fournit aucune information sur son identité.">
 <!ENTITY identity.connectedTo "Vous vous trouvez sur">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.

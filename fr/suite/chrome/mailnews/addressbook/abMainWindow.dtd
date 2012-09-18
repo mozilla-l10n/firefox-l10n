@@ -125,7 +125,7 @@
 <!ENTITY newmsgButton.tooltip          "Écrire un courrier à la sélection">
 <!ENTITY newIM.tooltip "Envoyer un message instantané ou initier un chat">
 <!ENTITY deleteItemButton.tooltip "Supprimer l'élément sélectionné">
-<!ENTITY throbber.tooltip                   "Visiter le site Web de &vendorShortName;">
+<!ENTITY throbber.tooltip                   "Visiter le site web de &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Recherche avancée d'adresses">
 
 <!-- Dir Tree header -->

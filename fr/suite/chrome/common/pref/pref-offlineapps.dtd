@@ -1,8 +1,8 @@
 <!-- extracted from content/pref-offlineapps.xul -->
 
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
-<!ENTITY pref.offlineapps.title             "Applications Web hors connexion">
-<!ENTITY pref.offlineCache.caption          "Contenu Web et données utilisateur hors connexion">
+<!ENTITY pref.offlineapps.title             "Applications web hors connexion">
+<!ENTITY pref.offlineCache.caption          "Contenu web et données utilisateur hors connexion">
 
 <!ENTITY clearOfflineAppCache.label         "Effacer">
 <!ENTITY clearOfflineAppCache.accesskey     "E">

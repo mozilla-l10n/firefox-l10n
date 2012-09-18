@@ -2,7 +2,7 @@
 <!ENTITY itemPhishing.label      "Courrier frauduleux">
 <!ENTITY itemPasswords.label     "Mots de passe">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Contenu Web">
+<!ENTITY itemCookies.label       "Contenu web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».">
@@ -44,7 +44,7 @@
 <!ENTITY antiVirus.accesskey  "P">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; vous permet de spécifier les blogs, flux de nouvelles et sites Web qui sont autorisés à stocker des cookies.">
+<!ENTITY cookies.intro                  "&brandShortName; vous permet de spécifier les blogs, flux de nouvelles et sites web qui sont autorisés à stocker des cookies.">
 <!ENTITY acceptCookies.label            "Accepter les cookies">
 <!ENTITY acceptCookies.accesskey        "A">
 <!ENTITY keepUntil.label                "Les conserver jusqu'à :">
@@ -58,6 +58,6 @@
 <!ENTITY showCookies.accesskey          "k">
 
 <!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Indiquer aux sites Web de ne pas me pister">
+<!ENTITY doNotTrack.label               "Indiquer aux sites web de ne pas me pister">
 <!ENTITY doNotTrack.accesskey           "d">
 

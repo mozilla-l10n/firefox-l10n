@@ -1,11 +1,11 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Contenu">
-<!ENTITY pref.content.description               "Ces paramètres influencent l'affichage du contenu des sites Web et des messages par &brandShortName;.">
-<!ENTITY siteIcons.label                        "Icônes de sites Web">
-<!ENTITY useSiteIcons.label                     "Afficher les icônes de sites Web">
+<!ENTITY pref.content.description               "Ces paramètres influencent l'affichage du contenu des sites web et des messages par &brandShortName;.">
+<!ENTITY siteIcons.label                        "Icônes de sites web">
+<!ENTITY useSiteIcons.label                     "Afficher les icônes de sites web">
 <!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "Rechercher activement les icônes de sites Web quand la page n'en définit pas">
+<!ENTITY useFavIcons.label                      "Rechercher activement les icônes de sites web quand la page n'en définit pas">
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "Réduire les images à la taille de la fenêtre">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">

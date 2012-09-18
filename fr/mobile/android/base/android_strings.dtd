@@ -20,8 +20,8 @@
 <!ENTITY  exit_label "Quitter">
 <!ENTITY  continue_label "Continuer">
 
-<!ENTITY  launcher_shortcuts_title "Applications Web pour &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Aucune application Web trouvée">
+<!ENTITY  launcher_shortcuts_title "Applications web pour &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Aucune application web trouvée">
 
 <!ENTITY choose_file "Choisir un fichier">
 
@@ -103,7 +103,7 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Cookies et connexions actives">
 <!ENTITY pref_private_data_passwords "Mots de passe enregistrés">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Données de site Web hors connexion">
+<!ENTITY pref_private_data_offlineApps "Données de site web hors connexion">
 <!ENTITY pref_private_data_siteSettings "Préférences de site">
 
 <!ENTITY quit "Quitter">

@@ -67,7 +67,7 @@
 <!-- cookies -->
 <!ENTITY cookies.description "Ce domaine conserve les cookies suivants sur votre ordinateur :">
 
-<!ENTITY cookies.tree.host.label "Site Web">
+<!ENTITY cookies.tree.host.label "Site web">
 <!ENTITY cookies.tree.name.label "Nom du cookie">
 <!ENTITY cookies.tree.expires.label "Expiration">
 
@@ -89,7 +89,7 @@
 <!ENTITY cookies.button.remove.label "Supprimer">
 <!ENTITY cookies.button.remove.accesskey "S">
 
-<!ENTITY cookies.blockOnRemove.label "À la suppression, bloquer les sites Web listés pour les empêcher de définir des cookies à l'avenir">
+<!ENTITY cookies.blockOnRemove.label "À la suppression, bloquer les sites web listés pour les empêcher de définir des cookies à l'avenir">
 <!ENTITY cookies.blockOnRemove.accesskey "b">
 
 <!-- permissions -->
@@ -106,9 +106,9 @@
 <!ENTITY perm.button.add.accesskey "A">
 
 <!-- preferences -->
-<!ENTITY prefs.description "Les préférences de contenu sont une manière pour &brandShortName; d'enregistrer ses paramètres tels que le niveau de zoom pour un site Web en particulier.">
+<!ENTITY prefs.description "Les préférences de contenu sont une manière pour &brandShortName; d'enregistrer ses paramètres tels que le niveau de zoom pour un site web en particulier.">
 
-<!ENTITY prefs.tree.host.label "Site Web">
+<!ENTITY prefs.tree.host.label "Site web">
 <!ENTITY prefs.tree.name.label "Nom de la préférence">
 <!ENTITY prefs.tree.value.label "Valeur">
 
@@ -123,7 +123,7 @@
 <!-- passwords -->
 <!ENTITY pwd.description "Les mots de passe suivants sont enregistrés pour ce domaine :">
 
-<!ENTITY pwd.tree.host.label "Site Web">
+<!ENTITY pwd.tree.host.label "Site web">
 <!ENTITY pwd.tree.username.label "Utilisateur">
 <!ENTITY pwd.tree.password.label "Mot de passe">
 

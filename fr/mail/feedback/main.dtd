@@ -32,5 +32,5 @@
 <!ENTITY testpilot.sad.label                            "Je n'aime pas Firefox car…">
 <!ENTITY testpilot.happy.thunderbirdLabel               "J'aime Thunderbird car…">
 <!ENTITY testpilot.sad.thunderbirdLabel                 "Je n'aime pas Thunderbird car…">
-<!ENTITY testpilot.broken.label                         "Signaler ce site Web comme non fonctionnel…">
+<!ENTITY testpilot.broken.label                         "Signaler ce site web comme non fonctionnel…">
 <!ENTITY testpilot.idea.label                           "Nous faire une suggestion…">

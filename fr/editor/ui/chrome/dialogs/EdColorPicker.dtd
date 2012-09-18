@@ -46,7 +46,7 @@
 <!ENTITY default.accessKey "D">
 <!ENTITY palette.label "Palette :">
 <!ENTITY standardPalette.label "Standard">
-<!ENTITY webPalette.label "Toutes les couleurs Web">
+<!ENTITY webPalette.label "Toutes les couleurs web">
 <!ENTITY background.label "Fond pour :">
 <!ENTITY background.accessKey "F">
 <!ENTITY table.label "Tableau">

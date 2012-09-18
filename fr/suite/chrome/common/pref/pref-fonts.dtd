@@ -60,11 +60,11 @@
 <!ENTITY  useDefaultFontSerif.label "Serif">
 <!ENTITY  useDefaultFontSansSerif.label "Sans serif">
 
-<!ENTITY  useDocumentFonts.label "Autoriser les pages Web à utiliser d'autres polices">
+<!ENTITY  useDocumentFonts.label "Autoriser les pages web à utiliser d'autres polices">
 <!ENTITY  useDocumentFonts.accesskey "u">
 
 <!-- leaving this stuff in for now -->
 
-<!ENTITY  header2 "Quand une page Web choisit ses propres polices de caractères">
-<!ENTITY  useDefaultFont.label "Utiliser mes polices par défaut, et ignorer celles que propose la page Web.">
+<!ENTITY  header2 "Quand une page web choisit ses propres polices de caractères">
+<!ENTITY  useDefaultFont.label "Utiliser mes polices par défaut, et ignorer celles que propose la page web.">
 <!ENTITY  useDefaultFont.accesskey "u">

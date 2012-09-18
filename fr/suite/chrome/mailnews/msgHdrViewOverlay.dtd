@@ -54,7 +54,7 @@
 <!ENTITY referencesField.label "Références : ">
 <!ENTITY messageIdField.label "ID de message : ">
 <!ENTITY inReplyToField.label "En réponse à : ">
-<!ENTITY originalWebsite.label "Site Web : ">
+<!ENTITY originalWebsite.label "Site web : ">
 
 <!ENTITY editMessage.label "Éditer le brouillon…">
 <!ENTITY editMessage.accesskey "b">
