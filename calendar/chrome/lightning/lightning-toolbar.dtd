@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Takvim araç çubuğu">
-<!ENTITY lightning.toolbar.calendar.accesskey "T">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "T">
 <!ENTITY lightning.toolbar.task.name "Görev araç çubuğu">
-<!ENTITY lightning.toolbar.task.accesskey     "G">
+<!ENTITY lightning.toolbar.task.name.accesskey "G">
 
 <!ENTITY lightning.toolbar.sync.label "Eşitle">
 <!ENTITY lightning.toolbar.delete.label "Sil">
@@ -14,12 +14,12 @@
 <!ENTITY lightning.toolbar.print.label "Yazdır">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Posta">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Takvim">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Takvim sekmesine geç">
+<!ENTITY lightning.toolbar.calendar.accesskey "T">
 <!ENTITY lightning.toolbar.task.label         "Görevler">
 <!ENTITY lightning.toolbar.task.tooltip       "Görevler sekmesine geç">
+<!ENTITY lightning.toolbar.task.accesskey     "G">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Etkinlik">

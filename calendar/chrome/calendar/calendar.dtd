@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Adı:">
 <!ENTITY calendarproperties.readonly.label                 "Salt okunur">
 <!ENTITY calendarproperties.firealarms.label               "Hatırlatmaları göster">
-<!ENTITY calendarproperties.cache2.label                   "Önbellek">
+<!ENTITY calendarproperties.cache3.label                   "Çevrimdışı desteği">
 <!ENTITY calendarproperties.enabled.label                  "Takvim devre içi">
 <!ENTITY calendarproperties.forceDisabled.label            "Takvim sağlayıcısı bulunamıyor. Bu tür sorunlar sağlayıcı için gerekli eklentilerin devre dışı bırakılması veya kaldırması ile genelde oluşuyor.">
 <!ENTITY calendarproperties.unsubscribe.label              "Aboneliği iptal et">

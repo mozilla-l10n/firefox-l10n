@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Seçenekler">
 <!ENTITY  event.menu.options.accesskey                        "S">
-<!ENTITY  event.menu.options.attachments.label                "Web sayfası ekle...">
-<!ENTITY  event.menu.options.attachments.accesskey            "W">
 <!ENTITY  event.menu.options.attendees.label                  "Katılımcıları davet et…">
 <!ENTITY  event.menu.options.attendees.accesskey              "K">
 <!ENTITY  event.menu.options.spellcheck.label                 "İmla Denetimi…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Katılımcıları davet et">
 <!ENTITY  event.toolbar.spellcheck.label                  "İmla denetimi">
 <!ENTITY  event.toolbar.privacy.label                     "Gizlilik">
-<!ENTITY  event.toolbar.attachments.label                 "Ekle">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Başlık:" >
@@ -180,16 +177,10 @@
 <!ENTITY event.description.accesskey                      "A">
 <!ENTITY event.attachments.label                          "Ekler:" >
 <!ENTITY event.attachments.accesskey                      "E" >
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Ekle">
-<!ENTITY event.attachments.menubutton.accesskey           "E">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
 <!ENTITY event.attachments.url.label                      "Web sayfası…">
 <!ENTITY event.attachments.url.accesskey                  "W">
-
 <!ENTITY event.attachments.popup.remove.label             "Kaldır" >
 <!ENTITY event.attachments.popup.remove.accesskey         "r" >
 <!ENTITY event.attachments.popup.open.label               "Aç" >
@@ -338,6 +329,10 @@
 <!ENTITY event.attendee.role.optional           "İsteğe bağlı katılımcı">
 <!ENTITY event.attendee.role.chair              "Başkan">
 <!ENTITY event.attendee.role.nonparticipant     "Katılımcı değil">
+<!ENTITY event.attendee.usertype.individual     "Birey">
+<!ENTITY event.attendee.usertype.group          "Grup">
+<!ENTITY event.attendee.usertype.resource       "Kaynak">
+<!ENTITY event.attendee.usertype.room           "Oda">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Lütfen saat dilimini belirleyin">
