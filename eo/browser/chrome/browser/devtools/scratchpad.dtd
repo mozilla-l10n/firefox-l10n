@@ -105,6 +105,10 @@
 <!ENTITY resetContext2.label          "Reŝargi parametrojn">
 <!ENTITY resetContext2.accesskey      "p">
 
+<!ENTITY reloadAndRun.label           "Reŝargi kaj ruli">
+<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.key             "r">
+
 <!ENTITY executeMenu.label            "Ruli">
 <!ENTITY executeMenu.accesskey        "u">
 
