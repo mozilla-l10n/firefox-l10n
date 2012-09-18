@@ -11,16 +11,10 @@
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Verwijderen">
 <!ENTITY deleteButton.accesskey "V">
-<!ENTITY reorderTopButton "Bovenaan plaatsen">
-<!ENTITY reorderTopButton.accessKey "B">
-<!ENTITY reorderTopButton.toolTip "Verplaats filter zodat het als eerste uitgevoerd wordt">
 <!ENTITY reorderUpButton.label "Omhoog verplaatsen">
 <!ENTITY reorderUpButton.accesskey "m">
 <!ENTITY reorderDownButton.label "Omlaag verplaatsen">
 <!ENTITY reorderDownButton.accesskey "l">
-<!ENTITY reorderBottomButton "Onderaan plaatsen">
-<!ENTITY reorderBottomButton.accessKey "O">
-<!ENTITY reorderBottomButton.toolTip "Verplaats filter zodat het als laatste uitgevoerd wordt">
 <!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
 <!ENTITY filtersForPrefix.label "Filters voor:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -34,4 +28,3 @@
 <!ENTITY folderPickerPrefix.accesskey "p">
 <!ENTITY choosethis.label "deze map kiezen">
 <!ENTITY choosethisnewsserver.label "deze nieuwsserver kiezen">
-<!ENTITY searchBox.emptyText "Filters op naam zoeken…">
