@@ -1,9 +1,9 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Installation des logiciels">
 <!ENTITY addOnsTitle.label                    "Modules complémentaires">
-<!ENTITY addOnsAllow.label                    "Autoriser les sites Web à installer et à mettre à jour des modules complémentaires">
+<!ENTITY addOnsAllow.label                    "Autoriser les sites web à installer et à mettre à jour des modules complémentaires">
 <!ENTITY addOnsAllow.accesskey                "b">
-<!ENTITY allowedSitesLink.label               "Sites Web autorisés">
+<!ENTITY allowedSitesLink.label               "Sites web autorisés">
 <!ENTITY autoAddOnsUpdates.label              "Vérifier automatiquement les mises à jour">
 <!ENTITY autoAddOnsUpdates.accesskey          "r">
 <!ENTITY daily.label                          "tous les jours">

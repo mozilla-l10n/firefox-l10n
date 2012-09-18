@@ -5,7 +5,7 @@
 <!ENTITY remove.accesskey "S">
 <!ENTITY removeall.label "Tout supprimer">
 <!ENTITY removeall.accesskey "u">
-<!ENTITY address.label "Adresse du site Web :">
+<!ENTITY address.label "Adresse du site web :">
 <!ENTITY address.accesskey "W">
 <!ENTITY block.label "Bloquer">
 <!ENTITY block.accesskey "B">

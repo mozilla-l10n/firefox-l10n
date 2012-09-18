@@ -48,9 +48,9 @@
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY printButton.tooltip "Imprimer cette page">
 
-<!ENTITY throbber.tooltip "Visiter le site Web de &vendorShortName;">
+<!ENTITY throbber.tooltip "Visiter le site web de &vendorShortName;">
 
-<!ENTITY locationBar.tooltip "Saisir un terme à rechercher, un mot-clé ou une adresse Web">
+<!ENTITY locationBar.tooltip "Saisir un terme à rechercher, un mot-clé ou une adresse web">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Adresse">
 

@@ -46,7 +46,7 @@
 <!ENTITY openFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Ouvrir une page Web…">
+<!ENTITY openRemoteCmd.label "Ouvrir une page web…">
 <!ENTITY openRemoteCmd.accesskey "W">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Pages récentes">

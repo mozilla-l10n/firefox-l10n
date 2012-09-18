@@ -19,7 +19,7 @@
 <!ENTITY referencesField3.label "Références ">
 <!ENTITY messageIdField3.label "Identifiant du message ">
 <!ENTITY inReplyToField3.label "En réponse à ">
-<!ENTITY originalWebsite3.label "Site Web ">
+<!ENTITY originalWebsite3.label "Site web ">
 
 <!ENTITY editMessageDescription.label "Ceci est un brouillon">
 <!ENTITY editMessageButton.label "Modifier…">

@@ -24,7 +24,7 @@
 <!ENTITY autoCompleteMatchStart "Seulement au début de l'adresse ou du titre de page">
 
 <!ENTITY formatting.label "Formatage">
-<!ENTITY domainFormatting.label "Mettre en valeur le nom de domaine pour les sites Web et les serveurs FTP">
+<!ENTITY domainFormatting.label "Mettre en valeur le nom de domaine pour les sites web et les serveurs FTP">
 <!ENTITY domainFormatting.accesskey "d">
 
 <!ENTITY searchEngine.label "Moteur de recherche Internet">
@@ -32,7 +32,7 @@
 <!ENTITY showSearchEngine.accesskey "m">
 
 <!ENTITY unknownLocations.label "Adresses inconnues">
-<!ENTITY domainGuessing.label "Ajouter automatiquement « www. » et « .com » à l'adresse si une page Web n'est pas trouvée.">
+<!ENTITY domainGuessing.label "Ajouter automatiquement « www. » et « .com » à l'adresse si une page web n'est pas trouvée.">
 <!ENTITY domainGuessing.accesskey "w">
-<!ENTITY keywords.label "Lancer une recherche Internet lorsque le texte saisi n'est pas une adresse Web.">
+<!ENTITY keywords.label "Lancer une recherche Internet lorsque le texte saisi n'est pas une adresse web.">
 <!ENTITY keywords.accesskey "n">

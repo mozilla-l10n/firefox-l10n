@@ -1,8 +1,8 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY languages.customize.prefLangDescript "Certaines pages Web sont disponibles en plusieurs langues. Choisissez les langues à utiliser par ordre de préférence.">
+<!ENTITY languages.customize.prefLangDescript "Certaines pages web sont disponibles en plusieurs langues. Choisissez les langues à utiliser par ordre de préférence.">
 <!ENTITY languages.customize.title "Langues">
-<!ENTITY langtitle.label "Langue des pages Web">
+<!ENTITY langtitle.label "Langue des pages web">
 <!ENTITY languages.customize.prefAddLangDescript "Sélectionner les langues que vous voulez ajouter.">
 <!ENTITY languages.customize.addButton.label "Ajouter…">
 <!ENTITY languages.customize.addButton.accesskey "o">

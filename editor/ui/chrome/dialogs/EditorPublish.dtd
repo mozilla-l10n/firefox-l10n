@@ -48,7 +48,7 @@
 <!ENTITY siteList.tooltip         "Sélectionner le site vers lequel vous voulez publier">
 <!ENTITY newSiteButton.label      "Nouveau site">
 <!ENTITY newSiteButton.accesskey "s">
-<!ENTITY docDirList.label         "Répertoire pour la page Web :">
+<!ENTITY docDirList.label         "Répertoire pour la page web :">
 <!ENTITY docDirList.accesskey "R">
 <!ENTITY docDirList.tooltip "Sélectionner ou saisir le nom du sous-répertoire distant pour cette page">
 <!ENTITY publishImgCheckbox.label "Inclure les images et autres fichiers">
@@ -64,10 +64,10 @@
 <!ENTITY pageTitle.label          "Titre de la page :">
 <!ENTITY pageTitle.accesskey "T">
 <!ENTITY pageTitle.tooltip        "Saisir un titre pour identifier la page dans sa fenêtre et dans les marque-pages">
-<!ENTITY pageTitleExample.label   "exemple : « Ma page Web »">
+<!ENTITY pageTitleExample.label   "exemple : « Ma page web »">
 <!ENTITY filename.label           "Nom du fichier :">
 <!ENTITY filename.accesskey "o">
-<!ENTITY filename.tooltip         "Saisir un nom pour ce fichier, en incluant « .html » pour une page Web">
+<!ENTITY filename.tooltip         "Saisir un nom pour ce fichier, en incluant « .html » pour une page web">
 <!ENTITY filenameExample.label    "exemple : « ma_page.html »">
 <!ENTITY setDefaultButton.label   "Définir par défaut">
 <!ENTITY setDefaultButton.accesskey "D">
@@ -83,13 +83,13 @@
 <!ENTITY siteName.tooltip     "Un nom qui identifie ce site de publication (exemple : « MonSite »)">
 <!ENTITY siteUrl.label        "Adresse de publication (exemple : ftp://ftp.monfai.com/monnom/) :">
 <!ENTITY siteUrl.accesskey "A">
-<!ENTITY siteUrl.tooltip      "Adresse FTP ou HTTP fournie par votre FAI ou votre service d'hébergement Web">
+<!ENTITY siteUrl.tooltip      "Adresse FTP ou HTTP fournie par votre FAI ou votre service d'hébergement web">
 <!ENTITY browseUrl.label      "Adresse HTTP de la page initiale (exemple : http://www.monfai.com/monnom/) :">
 <!ENTITY browseUrl.accesskey "H">
 <!ENTITY browseUrl.tooltip    "Adresse HTTP de votre répertoire initial (n'incluez pas de nom de fichier)">
 <!ENTITY username.label       "Nom d'utilisateur :">
 <!ENTITY username.accesskey "u">
-<!ENTITY username.tooltip     "Le nom d'utilisateur que vous utilisez pour vous connecter à votre FAI ou votre service d'hébergement Web">
+<!ENTITY username.tooltip     "Le nom d'utilisateur que vous utilisez pour vous connecter à votre FAI ou votre service d'hébergement web">
 <!ENTITY password.label       "Mot de passe :">
 <!ENTITY password.accesskey "M">
 <!ENTITY password.tooltip     "Le mot de passe associé à votre nom d'utilisateur">

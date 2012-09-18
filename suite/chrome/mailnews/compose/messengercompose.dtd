@@ -29,7 +29,7 @@
 <!ENTITY attachMenu.accesskey "J">
 <!ENTITY attachFileCmd.label "Fichier(s)…">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Page Web…">
+<!ENTITY attachPageCmd.label "Page web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Carte de visite (vCard)">
@@ -130,5 +130,5 @@
 <!ENTITY selectAllAttachments.accesskey "T">
 <!ENTITY attachFile.label "Joindre fichier(s)…">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachPage.label "Joindre une page Web…">
+<!ENTITY attachPage.label "Joindre une page web…">
 <!ENTITY attachPage.accesskey "W">
