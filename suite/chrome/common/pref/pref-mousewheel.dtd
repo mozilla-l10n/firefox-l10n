@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Muiswiel">
@@ -6,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Verticaal schuiven">
-<!ENTITY mousewheelHorizGroup.label      "Horizontaal schuiven">
-<!ENTITY scroll.label                    "Het document ">
-<!ENTITY scroll.accesskey                "d">
-<!ENTITY scrollHoriz.accesskey           "c">
-<!ENTITY scrollLines.label               "regels verschuiven">
-<!ENTITY scrollChars.label               "tekens verschuiven">
-<!ENTITY useSystemDefault.label          "Systeemstandaard gebruiken">
-<!ENTITY useSystemDefault.accesskey      "S">
-<!ENTITY useSystemDefaultHoriz.accesskey "y">
-<!ENTITY scrollPgUpPgDn.label            "Een pagina omhoog of omlaag schuiven">
-<!ENTITY scrollPgUpPgDn.accesskey        "o">
-<!ENTITY scrollPgLtPgRt.label            "Een pagina naar links of naar rechts schuiven">
-<!ENTITY scrollPgLtPgRt.accesskey        "n">
+<!ENTITY mouseWheelAction.label          "Muiswielactie">
+<!ENTITY doNothing.label                 "Doe niks">
+<!ENTITY doNothing.accesskey             "D">
+<!ENTITY scrollDocument.label            "Document scrollen">
+<!ENTITY scrollDocument.accesskey        "s">
 <!ENTITY history.label                   "Voor- en achteruit door de navigatiegeschiedenis bladeren">
 <!ENTITY history.accesskey               "V">
-<!ENTITY historyHoriz.accesskey          "a">
 <!ENTITY zoom.label                      "De pagina in- of uitzoomen">
 <!ENTITY zoom.accesskey                  "z">
-<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY mouseWheelSpeed.label           "Muiswielsnelheid">
+<!ENTITY verticalSpeed.label             "Verticaal:">
+<!ENTITY verticalSpeed.accesskey         "V">
+<!ENTITY verticalReverse.label           "Tegengestelde richting">
+<!ENTITY verticalReverse.accesskey       "T">
+<!ENTITY horizontalSpeed.label           "Horizontaal:">
+<!ENTITY horizontalSpeed.accesskey       "o">
+<!ENTITY horizontalReverse.label         "Tegengestelde richting">
+<!ENTITY horizontalReverse.accesskey     "e">
