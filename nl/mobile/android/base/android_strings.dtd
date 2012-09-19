@@ -240,11 +240,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title "&brandShortName;">
 <!ENTITY updater_apply_ticker "&brandShortName;-update beschikbaar&#8230;">
 <!ENTITY updater_apply_select "Selecteer om update te downloaden.">
-
-<!ENTITY updater_installing_title "&brandShortName;">
-<!ENTITY updater_installing_ticker "&brandShortName; bijwerken&#8230;">
-<!ENTITY updater_installing_ticker_success "&brandShortName; is succesvol bijgewerkt">
-<!ENTITY updater_installing_ticker_fail "&brandShortName; bijwerken mislukt">
-<!ENTITY updater_installing_text "Update installeren&#8230;">
-<!ENTITY updater_installing_text_success "Succesvol bijgewerkt.">
-<!ENTITY updater_installing_text_fail "Update installatie mislukt.">
