@@ -233,7 +233,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title "&brandShortName; downloaden">
 <!ENTITY updater_downloading_ticker "&brandShortName;-update downloaden&#8230;">
-+<!ENTITY updater_downloading_ticker_failed "&brandShortName;-update downloaden mislukt&#8230;">
+<!ENTITY updater_downloading_ticker_failed "&brandShortName;-update downloaden mislukt&#8230;">
 <!ENTITY updater_downloading_select "Selecteer om update toe te passen wanneer voltooid.">
 <!ENTITY updater_downloading_retry "Selecteer om update download opnieuw te proberen.">
 <!ENTITY updater_downloading_willapply "Wachten op voltooien van download.">
