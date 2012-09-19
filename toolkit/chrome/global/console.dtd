@@ -47,7 +47,7 @@
 <!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Alàrmi">
 <!ENTITY warnings.accesskey "A">
-<!ENTITY messages.label     "Notiçie">
+<!ENTITY messages.label     "Notìçie">
 <!ENTITY messages.accesskey "N">
 <!ENTITY clear.label        "Polìsci">
 <!ENTITY clear.accesskey    "c">

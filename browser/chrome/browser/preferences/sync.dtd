@@ -10,7 +10,7 @@
 <!ENTITY resetPass.label              "Reinpòsta">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Gestión do Account">
+<!ENTITY manageAccount.label          "Gestión de l'Account">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Fànni védde a quöta">
 <!ENTITY changePassword2.label        "Càngia paròlla segrétta…">

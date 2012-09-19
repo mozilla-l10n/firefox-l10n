@@ -84,7 +84,7 @@
 <!ENTITY consoleAll.label          "Tùtto">
 <!ENTITY consoleErrors.label       "Eroî">
 <!ENTITY consoleWarnings.label     "Alàrmi">
-<!ENTITY consoleMessages.label     "Notiçie">
+<!ENTITY consoleMessages.label     "Notìçie">
 <!ENTITY consoleCodeEval.label     "Còdice:">
 <!ENTITY consoleClear.label        "Polìsci">
 <!ENTITY consoleEvaluate.label     "…">

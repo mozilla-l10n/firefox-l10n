@@ -3,7 +3,7 @@
 <!ENTITY  splash_bookmarks_history "Agiornémmo i teu segnalìbbri e a teu stöia, o quæ o porieiva pigiâ ciù ò mêno un menûto.">
 
 <!ENTITY  no_space_to_start_error "No gh\'é ne abasta de spàçio in sciô disco pe &brandShortName;.">
-<!ENTITY  error_loading_file "Gh\'é stæto \'n erô quande ò provòu a caregâ di file domandæ pe fâ anâ o &brandShortName;">
+<!ENTITY  error_loading_file "Gh\'é stæto \'n erô quànde ò provòu a caregâ di file domandæ pe fâ anâ o &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "I prìmmi scîti">
 <!ENTITY  awesomebar_bookmarks_title "Segnalìbbri">
@@ -11,7 +11,7 @@
 <!ENTITY  awesomebar_search_engine "Çèrca \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Report di ciànti do &brandShortName;">
-<!ENTITY  crash_message "O &brandShortName; o se ciantòu. I teu féuggi doven êse inta pagina iniçiâ de &brandShortName; quande ti reavîi.">
+<!ENTITY  crash_message "O &brandShortName; o se ciantòu. I teu féuggi doven êse inta pagina iniçiâ de &brandShortName; quànde ti reavîi.">
 <!ENTITY  crash_help_message "Pe favô danni un agiùtto pe scistemâ sto problêma!">
 <!ENTITY  crash_send_report_message "Mànda a Mozilla \'n report do ciànto">
 <!ENTITY  crash_include_url "Mettighe l\'indirìsso da pagina">

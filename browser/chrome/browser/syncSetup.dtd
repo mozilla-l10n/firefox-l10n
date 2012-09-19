@@ -66,7 +66,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Intra">
-<!ENTITY existingRecoveryKey.description "Ti peu pigiâ 'na còpia da teu Ciâve de repìggio se ti væ inte inpostaçioìn de &syncBrand.shortName.label; inte teu âtri aparâti e ti seleçionn-i &#x0022;A me ci^ve de repìggio&#x0022; sotta &#x0022;Gestión do Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Ti peu pigiâ 'na còpia da teu Ciâve de repìggio se ti væ inte inpostaçioìn de &syncBrand.shortName.label; inte teu âtri aparâti e ti seleçionn-i &#x0022;A mæ ciâve de repìggio&#x0022; sótta &#x0022;Gestión de l'Account&#x0022;.">
 <!ENTITY verifying.label              "Verifico…">
 <!ENTITY resetPassword.label          "Reinpòsta a paròlla segrétta">
 <!ENTITY resetSyncKey.label           "Ò perso o mæ âtro aparâto.">
@@ -93,7 +93,7 @@
 <!ENTITY choice2.merge.main.label      "Unisci i dæti de sto computer co-i mæ dæti de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Racomandòu:">
 <!ENTITY choice2.client.main.label     "Rinpiassa tùtti i dæti de sto computer co-i mæ dæti de &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Rimpiassa tùtte i âtri device con sti dæti">
+<!ENTITY choice2.server.main.label     "Rimpiassa tùtte i âtri aparâti con sti dæti">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confèrma">
