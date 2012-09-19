@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "Òstrzégôj, żlë stronë chcą winstalowac przëdôwczi">
+<!ENTITY  warnAddonInstall.label        "Òstrzégôj, żlë stronë chcą winstalowac dodôwczi">
 <!ENTITY  warnAddonInstall.accesskey    "s">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):

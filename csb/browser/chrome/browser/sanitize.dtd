@@ -54,8 +54,8 @@ that require it.  -->
 <!ENTITY itemPasswords.accesskey           "p">
 <!ENTITY itemCookies.label                 "Kùszczi">
 <!ENTITY itemCookies.accesskey             "K">
-<!ENTITY itemCache.label                   "Pòdrãcznô pamiãc">
-<!ENTITY itemCache.accesskey               "p">
+<!ENTITY itemCache.label                   "Kasz">
+<!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Pòdôwczi stronów offline ">
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemDownloadHistory.label         "Historiô zladënków">

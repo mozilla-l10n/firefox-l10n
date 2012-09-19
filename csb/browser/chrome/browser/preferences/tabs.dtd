@@ -16,11 +16,11 @@
 <!ENTITY showTabBar.label             "Wiedno wëskrzëniwôj lëstew kôrtów">
 <!ENTITY showTabBar.accesskey         "W">
 
-<!ENTITY switchToNewTabs.label        "Pò òtemkniãcym lënka w nowi kôrce, biéj tam automatno">
+<!ENTITY switchToNewTabs.label        "Pò òtemkniãcym lënka w kôrce, przeńdzë na niégò automatno">
 <!ENTITY switchToNewTabs.accesskey    "P">
 
-<!ENTITY showTabsInTaskbar.label          "Wëskrzëniwôj kôrtë w lëstwie dzejaniô Windowsa">
-<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY showTabsInTaskbar.label          "Przeniesë kôrtë na lëstwã dzejaniô Windowsa">
+<!ENTITY showTabsInTaskbar.accesskey      "P">
 
 <!ENTITY restoreTabsOnDemand.label        "Nie ladëje kôrtów, chòba że òstałé wëbróné">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">

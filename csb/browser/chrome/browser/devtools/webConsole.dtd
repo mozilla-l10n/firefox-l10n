@@ -16,11 +16,11 @@
 
 <!ENTITY networkPanel.responseHeaders             "Nadgłówczi òdpòwiescë">
 <!ENTITY networkPanel.responseBody                "Tekst òdpòwiescë">
-<!ENTITY networkPanel.responseBodyCached          "Pòdôwczi w pòdrãczny pamiãcë">
+<!ENTITY networkPanel.responseBodyCached          "Pòdôwczi w kaszu">
 <!ENTITY networkPanel.responseBodyUnknownType     "Nieznóny ôrt zamkłoscë">
 <!ENTITY networkPanel.responseNoBody              "Felëje tekstù òdpòwiescë">
 <!ENTITY networkPanel.responseImage               "Dostóny òbrôzk">
-<!ENTITY networkPanel.responseImageCached         "Òbrôzk w pòdrãczny pamiãcë">
+<!ENTITY networkPanel.responseImageCached         "Òbrôzk w kaszu">
 <!ENTITY saveBodies.label "Zapiszë zamkłosc żądania i òdpòwiescé">
 <!ENTITY saveBodies.accesskey "Z">
 <!ENTITY btnPageNet.label "Séc">
