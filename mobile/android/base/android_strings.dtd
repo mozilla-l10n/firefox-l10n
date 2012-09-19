@@ -133,6 +133,7 @@ size. -->
 <!ENTITY find_close "Sluiten">
 
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
+<!ENTITY contextmenu_open_in_reader "Openen in lezer">
 <!ENTITY contextmenu_remove_history "Verwijderen">
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan startscherm">
@@ -160,7 +161,7 @@ size. -->
 <!ENTITY reading_list_added "Pagina toegevoegd aan uw leeslijst">
 <!ENTITY reading_list_removed "Pagina verwijderd van uw leeslijst">
 <!ENTITY reading_list_failed "Pagina toevoegen aan uw leeslijst mislukt">
-<!ENTITY reader_mode "Leesmodus">
+<!ENTITY reader "Lezer">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
 <!ENTITY masterpassword_remove_title "Hoofdwachtwoord verwijderen">
