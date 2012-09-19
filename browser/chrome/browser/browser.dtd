@@ -432,7 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Tanda Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "T">
-<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.label           "Link Emel">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Simpan Halaman Sebagai...">
 <!ENTITY savePageCmd.accesskey        "A">
@@ -451,12 +451,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Simpan Audio Sebagai...">
 <!ENTITY saveAudioCmd.accesskey       "S">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "Email Video…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Email Audio…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY emailImageCmd.label          "Imej Emel">
+<!ENTITY emailImageCmd.accesskey      "I">
+<!ENTITY emailVideoCmd.label          "Video Email">
+<!ENTITY emailVideoCmd.accesskey      "V">
+<!ENTITY emailAudioCmd.label          "Audio Email">
+<!ENTITY emailAudioCmd.accesskey      "A">
 <!ENTITY copyLinkCmd.label            "Salin Lokasi Pautan">
 <!ENTITY copyLinkCmd.accesskey        "S">
 <!ENTITY copyImageCmd.label           "Salin Lokasi Imej">
@@ -646,8 +646,8 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
-<!ENTITY socialToolbar.title        "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label   "Not logged in">
+<!ENTITY socialToolbar.title        "Butang Bar Alatan Sosial">
+<!ENTITY social.notLoggedIn.label   "Tidak log masuk">
 
 <!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
      used for the "OK" button for two different social panels. One appears when
@@ -657,14 +657,14 @@ toolbar button -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Unshare">
-<!ENTITY social.sharePopup.undo.accesskey "U">
+<!ENTITY social.sharePopup.undo.label     "Tidak dikongsi">
+<!ENTITY social.sharePopup.undo.accesskey "T">
 <!ENTITY social.sharePopup.shared.label   "You shared this page.">
 <!ENTITY social.sharePopup.portrait.arialabel "User profile picture">
 
 <!ENTITY social.toggleSidebar.label "Show sidebar">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.activated.undobutton.label "Undo">
+<!ENTITY social.activated.undobutton.label "Kembali Asal">
 <!ENTITY social.activated.undobutton.accesskey "U">
 

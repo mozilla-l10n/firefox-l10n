@@ -52,8 +52,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
 
 <!ENTITY aboutSupport.a11yTitle "akses">
-<!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yActivated "Diaktifkan">
+<!ENTITY aboutSupport.a11yForceDisabled "Elak Accessibility">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 
