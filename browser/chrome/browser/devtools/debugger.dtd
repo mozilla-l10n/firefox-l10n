@@ -8,11 +8,8 @@
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Cerrar">
 <!ENTITY debuggerUI.pauseExceptions "Pausar en las excepciones">
-<!ENTITY debuggerUI.stepOverButton.tooltip "Saltar">
-<!ENTITY debuggerUI.stepInButton.tooltip "Entrar">
-<!ENTITY debuggerUI.stepOutButton.tooltip "Salir">
 <!ENTITY debuggerUI.stackTitle "Pila de llamadas">
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ámbito de las variables">
-<!ENTITY debuggerUI.emptyFilterText "Filtrar scripts">
+<!ENTITY debuggerUI.searchPanelTitle "Operadores">
 <!ENTITY debuggerUI.emptyScriptText "Sin scripts">
