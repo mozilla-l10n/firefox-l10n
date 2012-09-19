@@ -369,7 +369,7 @@ can reach it easily. -->
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarega o riquàddro">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Fànni védde a sorgénte da parte seleçionâ">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Fànni védde a sorgénte da pàrte seleçionâ">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Fànni védde a sorgénte do MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->

@@ -1,7 +1,7 @@
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Codifica do caràtere">
 <!ENTITY charsetMenu.accesskey         "C">
-<!ENTITY charsetMenuAutodet.label      "Riconoscimento aotomàtico">
+<!ENTITY charsetMenuAutodet.label      "Riconosciménto aotomàtico">
 <!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "Ciù codifiche">
 <!ENTITY charsetMenuMore.accesskey     "C">

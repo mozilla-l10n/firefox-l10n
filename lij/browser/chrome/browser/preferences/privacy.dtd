@@ -19,7 +19,7 @@
 <!ENTITY  acceptCookies.label           "açétta i cookie da sti scîti">
 <!ENTITY  acceptCookies.accesskey       "k">
 
-<!ENTITY  acceptThirdParty.label        "açetta i cookie de terçe parti">
+<!ENTITY  acceptThirdParty.label        "acètta i cookie de terçe parti">
 <!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "Mantégni fìn a che:">
@@ -67,7 +67,7 @@
 <!ENTITY  rememberHistory2.label      "Aregòrda da mæ stöia de navegaçión e descaregaménti">
 <!ENTITY  rememberHistory2.accesskey  "ç">
 
-<!ENTITY  rememberSearchForm.label       "Aregòrda e riçèrche e a stöia di mòduli">
+<!ENTITY  rememberSearchForm.label       "Aregòrda e riçèrche e a stöia di mòdoli">
 <!ENTITY  rememberSearchForm.accesskey   "l">
 
 <!ENTITY  clearOnClose.label             "Scancélla a stöia quàndo o &brandShortName; o se særa">
