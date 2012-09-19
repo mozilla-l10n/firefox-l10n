@@ -48,6 +48,9 @@
 <!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Restablecer">
 <!ENTITY resetContext2.accesskey "R">
+<!ENTITY reloadAndRun.label "Recargar y ejecutar">
+<!ENTITY reloadAndRun.accesskey "E">
+<!ENTITY reloadAndRun.key "r">
 <!ENTITY executeMenu.label "Acción">
 <!ENTITY executeMenu.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
