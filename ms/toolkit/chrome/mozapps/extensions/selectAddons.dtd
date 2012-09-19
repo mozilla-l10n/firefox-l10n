@@ -4,10 +4,10 @@
 
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
-<!ENTITY checking.heading            "Semakan Add-ons anda">
-<!ENTITY checking.progress.label     "Menyemak keserasian tambahan yang dilakukan bagi versi &brandShortName;.">
+<!ENTITY checking.heading            "Semakan Addon anda">
+<!ENTITY checking.progress.label     "Menyemak keserasian addon yang dilakukan bagi versi &brandShortName;.">
 
-<!ENTITY select.heading              "Pilih Add-ons anda">
+<!ENTITY select.heading              "Pilih Addon anda">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Buat &brandShortName; Justeru lebih pantas dengan mematikan addon yang anda tidak gunakan lagi. Addon yang sudah dipasang oleh pihak ketiga akan dimatikan automatik melainkan anda telah memilih ia dibawah ini.">
@@ -26,23 +26,23 @@
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
-<!ENTITY confirm.heading             "Pilih Add-ons anda">
+<!ENTITY confirm.heading             "Pilih Addon anda">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY confirm.description         "Buat &brandShortName; Lebih pantas jika anda mematikan addon yang tidak gunakan lagi. Addon yang sudah dipasang oleh pihak ketiga akan dimatikan secara automatik melainkan anda telah memilihnya dibawah.">
 
-<!ENTITY action.disable.heading      "Tambahan berikut akan dinyahaktifkan:">
-<!ENTITY action.incompatible.heading "Tambahan berikut telah dinyahaktif, tetapi akan diaktifkan semula setelah tambahan tersebut serasi:">
-<!ENTITY action.update.heading       "Add-ons berikut akan dikemaskini:">
-<!ENTITY action.enable.heading       "Tambahan berikut akan diaktifkan:">
+<!ENTITY action.disable.heading      "Addon berikut akan dinyahaktifkan:">
+<!ENTITY action.incompatible.heading "Addon berikut telah dinyahaktif, tetapi akan diaktifkan semula setelah tambahan tersebut serasi:">
+<!ENTITY action.update.heading       "Addon berikut akan dikemaskini:">
+<!ENTITY action.enable.heading       "Addon berikut akan diaktifkan:">
 
-<!ENTITY update.heading              "Mengemaskini Add-ons anda ">
-<!ENTITY update.progress.label       "Memuat turun dan memasang kemaskini perisian untuk pilihan add-ons anda.">
+<!ENTITY update.heading              "Mengemaskini Addon anda ">
+<!ENTITY update.progress.label       "Memuat turun dan memasang kemaskini perisian untuk pilihan addon anda.">
 
-<!ENTITY errors.heading              "&brandShortName; tidak boleh mengemaskini beberapa add-ons anda.">
-<!ENTITY errors.description          "Pembaharuan untuk sesetengah tambahan tidak berjaya. &brandShortName; akan diperbaharui secara automatik kemudian.">
+<!ENTITY errors.heading              "&brandShortName; tidak boleh mengemaskini beberapa addon anda.">
+<!ENTITY errors.description          "Pembaharuan untuk sesetengah addon tidak berjaya. &brandShortName; akan diperbaharui secara automatik kemudian.">
 
-<!ENTITY footer.label                "Anda boleh menukar add-ons anda dengan melayari pengurus add-ons.">
+<!ENTITY footer.label                "Anda boleh menukar addon anda dengan melayari pengurus addon.">
 <!ENTITY cancel.label                "Batal">
 <!ENTITY back.label                  "Kembali">
 <!ENTITY next.label                  "seterusnya">

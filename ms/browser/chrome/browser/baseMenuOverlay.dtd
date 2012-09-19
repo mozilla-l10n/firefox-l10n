@@ -19,7 +19,7 @@
 <!ENTITY productHelp.label        "&brandShortName; Bantuan">
 <!ENTITY productHelp.accesskey    "B">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Mulakan semula tanpa Add-ons">
+<!ENTITY helpSafeMode.label       "Mulakan semula tanpa Addon">
 <!ENTITY helpSafeMode.accesskey   "M">
 
 <!ENTITY helpTroubleshootingInfo.label      "Menyelesaikan masalah Informasi">
