@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tabHeader.label "Onglets">
 <!ENTITY tabDisplay.label "Affichage par onglets">
 <!ENTITY autoHide.label "Masquer la barre des onglets s'il n'y en a qu'un d'ouvert">
