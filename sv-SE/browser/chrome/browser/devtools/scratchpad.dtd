@@ -105,6 +105,10 @@
 <!ENTITY resetContext2.label          "Återställ variabler">
 <!ENTITY resetContext2.accesskey      "Å">
 
+<!ENTITY reloadAndRun.label           "Ladda om och kör">
+<!ENTITY reloadAndRun.accesskey       "L">
+<!ENTITY reloadAndRun.key             "r">
+
 <!ENTITY executeMenu.label            "Kör">
 <!ENTITY executeMenu.accesskey        "K">
 
