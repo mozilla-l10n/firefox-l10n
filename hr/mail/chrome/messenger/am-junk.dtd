@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Postavke neželjene pošte">
 <!ENTITY trainingDescription.label "Ukoliko je omogućeno, morate prvo naučiti &brandShortName; kako prepoznati neželjenu poštu koristeći tipku Neželjena pošta na alatnoj traci kako bi označili poruku kao neželjenu ili željenu. Trebate identificirati neželjenu i željenu poštu. Nakon toga &brandShortName; će automatski prepoznati neželjenu poštu.">
 <!ENTITY level.label "Omogući kontrolu neželjene pošte za ovaj račun">

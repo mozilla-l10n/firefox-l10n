@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Kako bi se uštedio diskovni prostor, ne preuzimaj:">
 <!ENTITY doNotDownloadNntp.label "Kako bi se uštedio diskovni prostor, ne preuzimaj za izvanmrežno korištenje:">
 <!ENTITY doNotDownloadImap.label "Kako bi se uštedio diskovni prostor, preuzimanje poruka s poslužitelja i čuvanje lokalnih kopija za izvanmrežno korištenje može biti ograničeno po starosti ili veličini.">

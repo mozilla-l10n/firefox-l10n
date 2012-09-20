@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Sigurnost">
 <!ENTITY securityTab.label "Sigurnost">
 <!ENTITY securityHeading.label "Da biste slali i primali potpisane ili kriptirane poruke, trebate odrediti certifikat za digitalni potpis i certifikat za kriptiranje.">
