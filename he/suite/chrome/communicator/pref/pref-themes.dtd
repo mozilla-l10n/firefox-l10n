@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.themes.title "ערכות נושא">
 <!ENTITY skinIntro.label "בחירה בערכת נושא חדשה משנה את המראה של כפתורים, תיבות דו־שיח, תפריטים, סרגלי כלים ופריטים נוספים. היא אינה משנה את הדרך בה פריטים אלה פועלים.">
 <!ENTITY installedThemes.label "השתמש בערכת נושא:">

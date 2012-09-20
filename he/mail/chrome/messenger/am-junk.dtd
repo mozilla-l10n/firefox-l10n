@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "הגדרות זבל">
 <!ENTITY trainingWarning.label "אם זה מופעל, אתה חייב ראשית לאמן את &brandShortName; לזהות את דואר הזבל באמצעות כפתור דואר הזבל בסרגל כדי לסמן הודעות כזבל או לא. תצטרך לזהות גם הודעות זבל וגם הודעות שאינן זבל.">
 <!ENTITY level.label "אפשר פקדי דואר זבל מסתגלים לחשבון זה">

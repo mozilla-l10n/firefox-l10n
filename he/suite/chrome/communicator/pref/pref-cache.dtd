@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.cache.title "מטמון">
 <!ENTITY pref.cache.caption "קבע אפשרויות מטמון">
 <!ENTITY cachePara 'המטמון שומר עותקים של דפים בהם אתה מבקר לעיתים קרובות על הדיסק הקשיח שלך. (לחיצה על "טעינה מחדש" תמיד מראה לך את הגרסה האחרונה של דף.)'>
