@@ -48,6 +48,9 @@
 <!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Reimposta variabili">
 <!ENTITY resetContext2.accesskey "m">
+<!ENTITY reloadAndRun.label "Ricarica ed esegui">
+<!ENTITY reloadAndRun.accesskey "R">
+<!ENTITY reloadAndRun.key "r">
 <!ENTITY executeMenu.label "Esecuzione">
 <!ENTITY executeMenu.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
