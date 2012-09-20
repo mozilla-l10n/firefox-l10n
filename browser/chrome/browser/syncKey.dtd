@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "మీ &syncBrand.fullName.label; కీ">
 <!ENTITY syncKey.page.description         "ఈ కీ అనునది మీ &syncBrand.fullName.label; ఖాతా నందలి డాటాను డీకోడ్ చేయుటకు వుపయోగించును. మీరు &syncBrand.fullName.label;ను మీ కొత్త కంప్యూటర్ లేదా పరికరముపై ఆకృతీకరించిన ప్రతిసారి ఆ కీను ప్రవేశపెట్టవలసి వుంటుంది.">
 <!ENTITY syncKey.keepItSecret.heading     "దీనిని రహస్యంగా వుంచుము">
