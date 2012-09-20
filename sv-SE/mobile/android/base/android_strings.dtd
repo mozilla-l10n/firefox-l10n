@@ -171,6 +171,8 @@ size. -->
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Avbryt">
 <!ENTITY button_clear_data "Rensa data">
+<!ENTITY button_set "Ange">
+<!ENTITY button_clear "Rensa">
 
 <!ENTITY abouthome_addons_title "Tillägg till &brandShortName;">
 <!ENTITY abouthome_addons_browse "Bläddra bland alla &brandShortName;-tillägg">
