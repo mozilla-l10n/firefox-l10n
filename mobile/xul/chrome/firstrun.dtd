@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY welcome.title                      "به &brandShortName; خوش آمدید">
 <!ENTITY intro.description                  "رایانهٴ شخصی و تلفن همراه‌تان را با Weave Sync هماهنگ سازید. با افزودنی‌ها فایرفاکس را مطابق میل خود تغییر دهید. با نوار مکان هوشمند اینترنت را مرور کنید، و چندین امکان دیگر.">
 <!ENTITY weave.title                        "شروع کنید">
