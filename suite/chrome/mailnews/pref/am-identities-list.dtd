@@ -1,9 +1,11 @@
-<!ENTITY identitiesListDesc.label       "Gestion des identités multiples">
-<!ENTITY identitiesListAdd.label        "Ajouter…">
-<!ENTITY identitiesListAdd.accesskey    "j">
-<!ENTITY identitiesListEdit.label       "Éditer…">
-<!ENTITY identitiesListEdit.accesskey   "d">
-<!ENTITY identitiesListDelete.label     "Supprimer">
-<!ENTITY identitiesListDelete.accesskey "S">
-<!ENTITY identitiesListClose.label      "Fermer">
-<!ENTITY identitiesListClose.accesskey  "F">
+<!ENTITY identitiesListManageDesc.label  "Gérer les identités pour ce compte. La première identité est utilisée par défaut.">
+<!ENTITY identitiesListAdd.label         "Ajouter…">
+<!ENTITY identitiesListAdd.accesskey     "j">
+<!ENTITY identitiesListEdit.label        "Éditer…">
+<!ENTITY identitiesListEdit.accesskey    "d">
+<!ENTITY identitiesListDefault.label     "Définir par défaut">
+<!ENTITY identitiesListDefault.accesskey "p">
+<!ENTITY identitiesListDelete.label      "Supprimer">
+<!ENTITY identitiesListDelete.accesskey  "S">
+<!ENTITY identitiesListClose.label       "Fermer">
+<!ENTITY identitiesListClose.accesskey   "F">
