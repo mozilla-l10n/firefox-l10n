@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Sécurité">
 <!ENTITY securityTab.label "Sécurité">
 <!ENTITY securityHeading.label "Pour envoyer et recevoir des messages signés ou chiffrés, il est nécessaire de spécifier à la fois un certificat de signature numérique et un certificat de chiffrement.">
