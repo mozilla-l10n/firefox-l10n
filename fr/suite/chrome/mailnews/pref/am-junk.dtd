@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Paramètres pour les indésirables">
 <!ENTITY trainingDescription.label "Quand cette fonctionnalité est activée, vous devez d'abord entraîner &brandShortName; à identifier les courriels indésirables en utilisant le bouton « Indésirables » de la barre d'outils pour marquer les messages comme indésirables ou pas. Vous devez identifier à la fois les courriels indésirables et ceux qui ne le sont pas. Par la suite, &brandShortName; sera en mesure de détecter les indésirables automatiquement.">
 <!ENTITY level.label "Activer les contrôles adaptatifs de courriels indésirables pour ce compte">
