@@ -97,6 +97,7 @@
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY find_in_page "Trova nella pagina">
 <!ENTITY desktop_mode "Modalità desktop">
+<!ENTITY tools "Strumenti">
 <!ENTITY find_text "Trova nella pagina">
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
@@ -132,6 +133,8 @@
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annulla">
 <!ENTITY button_clear_data "Elimina dati">
+<!ENTITY button_set "Imposta">
+<!ENTITY button_clear "Cancella">
 <!ENTITY abouthome_addons_title "Componenti aggiuntivi per &brandShortName;">
 <!ENTITY abouthome_addons_browse "Sfoglia tutti i comp. aggiuntivi per &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Schede dall’ultima esecuzione">
