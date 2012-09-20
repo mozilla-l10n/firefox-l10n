@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Net-winske-berjochteynstellings">
 <!ENTITY trainingDescription.label "As aktivearre, moat &brandShortName; earst traind wurde yn it identifisearjen fan net winske berjochten. Dit bart troch mei de arkbalkeknop “Net winske” oan te jaan oft berjochten wol of net net winske binne. Jo moatte sawol net winske as winske berjochten identifisearje. Dêrnei sil &brandShortName; net winske berjochten automatysk markearje kinne.">
 <!ENTITY level.label "Selslearende net-winske-berjochtedeteksje foar dizze account aktifearje">
