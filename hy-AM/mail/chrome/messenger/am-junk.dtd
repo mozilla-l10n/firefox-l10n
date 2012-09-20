@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Խլամի կարգավորումներ">
 <!ENTITY trainingWarning.label "Եթե միացրած է, ապա &brandShortName;-ը նախ պետք է փորձարկվի՝ օգտագործելով Խլամ կոճակը՝ նշելու համար նամակները խլամ են, թե ոչ։ Նախ Դուք պետք է որոշեք խլամ և ոչ խլամ նամակները։">
 <!ENTITY level.label "Միացնել խլամի ղեկավարումը այս փոստարկղում">

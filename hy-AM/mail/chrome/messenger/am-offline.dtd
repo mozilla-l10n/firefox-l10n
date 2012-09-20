@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Ազատ տեղ ունենալու համար մի ներբեռնեք.">
 <!ENTITY doNotDownloadNntp.label "Ազատ տեղ ունենալու համար մի ներբեռնեք նամակները.">
 <!ENTITY doNotDownloadImap.label "Ազատ տեղ ունենալու համար նամակների բեռնումը սպասարկիչից և լոկալ օրինակների պահումը՝ ցանցից դուրս օգտ. համար կարող է սահմանափակել ըստ ժամկետի կամ չափի։">

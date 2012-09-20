@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Անվտանգությունը">
 <!ENTITY securityTab.label "Անվտանգությունը">
 <!ENTITY securityHeading.label "Ուղարկելու և ստանալու համար ստորագրված կամ կոդավորված նամակներ, նախ պետք է որոշեք թվային ստորագրության հավաստագիրը և կոդավորված հավաստագիրը։">
