@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY reportWizard.title "דווח על אתר שבור">
 <!ENTITY privacyNotice.label "מדיניות פרטיות">
 <!ENTITY reportWizardPrivacy.description "כלי זה מאפשר לך לספר לצוות התאמת האתרים על אתרים שאינם פועלים כראוי ב־&brandShortName; או חוסמים את הגישה ל־&brandShortName;. זוהי הדרך שלך לעזור לנו להבטיח את החוויה הטובה ביותר האפשרית למשתמשי &brandShortName;. אנא הקדש רגע כדי לקרוא את הדברים הבאים, וללמוד כיצד אנו משתמשים במידע שאנו אוספים אם תבחר להשתתף.">
