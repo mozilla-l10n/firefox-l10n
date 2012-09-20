@@ -19,6 +19,8 @@
 <!ENTITY networkPanel.responseImageCached "Imagen en caché">
 <!ENTITY saveBodies.label "Registrar los cuerpos de peticiones y respuestas">
 <!ENTITY saveBodies.accesskey "y">
+<!ENTITY openURL.label "Abrir en una pestaña nueva">
+<!ENTITY openURL.accesskey "T">
 <!ENTITY btnPageNet.label "Red">
 <!ENTITY btnPageNet.tooltip "Registrar acceso a la red">
 <!ENTITY btnPageCSS.label "CSS">

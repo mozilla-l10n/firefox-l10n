@@ -97,6 +97,7 @@
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
+<!ENTITY tools "Herramientas">
 <!ENTITY find_text "Buscar en la página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
@@ -132,6 +133,8 @@
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
 <!ENTITY button_clear_data "Limpiar datos">
+<!ENTITY button_set "Configurar">
+<!ENTITY button_clear "Limpiar">
 <!ENTITY abouthome_addons_title "Complementos para &brandShortName;">
 <!ENTITY abouthome_addons_browse "Ver los complementos de &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Pestañas de su última sesión">
