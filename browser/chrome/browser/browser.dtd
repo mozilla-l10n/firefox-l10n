@@ -73,7 +73,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Blêdwizerarkbalke-ûnderdiel">
 <!ENTITY addonBarCmd.label "Add-onsbalke">
-<!ENTITY addonBarCmd.accesskey "T">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Sideboarne">
 <!ENTITY pageSourceCmd.accesskey "r">
