@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "For å spare diskplass, ikke last ned:">
 <!ENTITY doNotDownloadNntp.label "For å spare diskplass, ikke last ned for frakoblet bruk:">
 <!ENTITY doNotDownloadImap.label "For å spare diskplass kan nedlasting av meldinger fra tjeneren og oppbevaring av lokale kopier for frakoblet bruk begrenses til en bestemt alder eller størrelse.">

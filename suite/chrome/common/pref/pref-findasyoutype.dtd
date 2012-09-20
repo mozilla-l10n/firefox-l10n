@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Finn mens du skriver">
 <!ENTITY findAsYouTypeBehavior.label "Finn mens du skriver">
 <!ENTITY findAsYouTypeTip.label "Tips: For å starte 'Finn mens du skriver', trykk / for å finne tekst, eller ' for å finne lenker, etterfulgt av teksten du ønsker å finne.">
