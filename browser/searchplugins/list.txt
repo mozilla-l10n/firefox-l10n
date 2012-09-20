@@ -1,4 +1,5 @@
-creativecommons
 google
+kaz-kk
 wikipedia-kk
-yandex
+flip
+twitter
