@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Om skiifromte te besparjen, net ynlade:">
 <!ENTITY doNotDownloadNntp.label "Om skiifromte te besparjen, net ynlade foar offline gebrûk:">
 <!ENTITY doNotDownloadImap.label "Om skiifromte te besparjen, berjochten ynlade fan de tsjinner en lokale kopiën bewarje foar offline gebrûk kin beheint wirde troch leeftiid of grutte.">

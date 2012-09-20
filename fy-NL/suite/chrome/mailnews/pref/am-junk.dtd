@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Ongewenste-berichteninstellingen">
 <!ENTITY trainingWarning.label "Wanneer geactiveerd, moet &brandShortName; eerst worden getraind om ongewenste berichten te identificeren. Dit gebeurt door met de werkbalkknop &quot;Ongewenst&quot; aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren.">
 <!ENTITY level.label "Zelflerende ongewenste-berichtendetectie voor deze account activeren">
