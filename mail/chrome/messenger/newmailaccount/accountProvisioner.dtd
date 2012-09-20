@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "&brandShortName; uygulamasına hoş geldiniz">
 <!ENTITY header2.label "Yeni bir e-posta adresi ister misiniz?">
 <!ENTITY other.languages "Yalnızca sizin bölgenize adres sunan sağlayıcıları görüntülüyoruz. Tüm sağlayıcıları görmek için buraya tıklayın.">
