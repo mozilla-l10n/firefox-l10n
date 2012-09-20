@@ -175,6 +175,7 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Chiudi la barra laterale">
 <!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
 <!ENTITY devToolbarMenu.label "Barra sviluppatori">
 <!ENTITY devToolbarMenu.accesskey "v">
@@ -397,7 +398,7 @@
 <!ENTITY fullZoom.accesskey "Z">
 <!ENTITY newTabButton.tooltip "Apri una nuova scheda">
 <!ENTITY newWindowButton.tooltip "Apri una nuova finestra">
-<!ENTITY sidebarCloseButton.tooltip "Chiudi barra laterale">
+<!ENTITY sidebarCloseButton.tooltip "Chiudi la barra laterale">
 <!ENTITY cutButton.tooltip "Taglia">
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Incolla">
