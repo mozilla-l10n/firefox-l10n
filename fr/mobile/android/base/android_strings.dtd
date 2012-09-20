@@ -166,6 +166,8 @@ size. -->
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annuler">
 <!ENTITY button_clear_data "Effacer les données">
+<!ENTITY button_set "Valider">
+<!ENTITY button_clear "Effacer">
 
 <!ENTITY abouthome_addons_title "Modules pour votre &brandShortName;">
 <!ENTITY abouthome_addons_browse "Parcourir tous les modules pour &brandShortName;">
