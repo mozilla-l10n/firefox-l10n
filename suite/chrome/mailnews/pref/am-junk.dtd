@@ -27,3 +27,6 @@
 <!ENTITY junkClassification.label "選取範圍">
 <!ENTITY junkActions.label "目的地與保留時間">
 
+<!ENTITY globalJunkPrefs.label "全域垃圾郵件偏好設定…">
+<!ENTITY globalJunkPrefs.accesskey "G">
+
