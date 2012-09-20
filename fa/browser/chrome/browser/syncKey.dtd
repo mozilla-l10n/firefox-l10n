@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title "کلید &syncBrand.fullName.label; شما">
 <!ENTITY syncKey.page.description "از این کلید برای رمزگشایی از اطلاعات موجود در حساب کاربری &syncBrand.fullName.label; شما استفاده می‌شود.  هر بار که &syncBrand.fullName.label; را در یک رایانهٔ  جدید تنظیم می‌کنید باید این کلید را وارد نمایید.">
 <!ENTITY syncKey.keepItSecret.heading "این کلید را در اختیار دیگران قرار ندهید">
