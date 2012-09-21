@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Auswahl">
 <!ENTITY junkActions.label "Ziel und Laufzeit">
+
+<!ENTITY globalJunkPrefs.label "Globale Junk-Einstellungen…">
+<!ENTITY globalJunkPrefs.accesskey "G">

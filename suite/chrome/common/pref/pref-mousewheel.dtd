@@ -10,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Vertikales Scrollen">
-<!ENTITY mousewheelHorizGroup.label      "Horizontales Scrollen">
-<!ENTITY scroll.label                    "Dokument scrollen um ">
-<!ENTITY scroll.accesskey                "D">
-<!ENTITY scrollHoriz.accesskey           "o">
-<!ENTITY scrollLines.label               "Zeilen">
-<!ENTITY scrollChars.label               "Buchstaben">
-<!ENTITY useSystemDefault.label          "Systemstandard verwenden.">
-<!ENTITY useSystemDefault.accesskey      "y">
-<!ENTITY useSystemDefaultHoriz.accesskey "t">
-<!ENTITY scrollPgUpPgDn.label            "Eine Seite nach oben oder unten scrollen">
-<!ENTITY scrollPgUpPgDn.accesskey        "E">
-<!ENTITY scrollPgLtPgRt.label            "Eine Seite nach links oder rechts scrollen">
-<!ENTITY scrollPgLtPgRt.accesskey        "n">
+<!ENTITY mouseWheelAction.label          "Mausrad-Aktion">
+<!ENTITY doNothing.label                 "Keine Aktion">
+<!ENTITY doNothing.accesskey             "k">
+<!ENTITY scrollDocument.label            "Das Dokument scrollen">
+<!ENTITY scrollDocument.accesskey        "D">
 <!ENTITY history.label                   "Vor und zurück in der Browser-Chronik bewegen">
 <!ENTITY history.accesskey               "V">
-<!ENTITY historyHoriz.accesskey          "z">
 <!ENTITY zoom.label                      "Die Seite vergrößern oder verkleinern">
 <!ENTITY zoom.accesskey                  "S">
-<!ENTITY zoomHoriz.accesskey             "g">
+<!ENTITY mouseWheelSpeed.label           "Mausrad-Geschwindigkeit">
+<!ENTITY verticalSpeed.label             "Vertikal:">
+<!ENTITY verticalSpeed.accesskey         "e">
+<!ENTITY verticalReverse.label           "u">
+<!ENTITY verticalReverse.accesskey       "Richtung umkehren">
+<!ENTITY horizontalSpeed.label           "Horizontal:">
+<!ENTITY horizontalSpeed.accesskey       "H">
+<!ENTITY horizontalReverse.label         "R">
+<!ENTITY horizontalReverse.accesskey     "Richtung umkehren">

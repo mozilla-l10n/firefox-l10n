@@ -46,4 +46,5 @@
 <!ENTITY defaultBrowserButton.accesskey "S">
 <!ENTITY alreadyDefaultText             "&brandShortName; ist bereits Ihr Standard-Browser.">
 <!ENTITY defaultPendingText             "&brandShortName; wird als Ihr Standard-Browser gesetzt, wenn Sie OK klicken.">
+<!ENTITY wasMadeDefaultText             "&brandShortName; wurde als Ihr Standardbrowser gesetzt.">
 <!ENTITY makeDefaultText                "&brandShortName; als Ihren Standard-Browser setzen.">
