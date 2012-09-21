@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountTitle.label "ખાતા સુયોજનો">
 <!ENTITY accountSettingsDesc.label "નીચેનું ખાતુ વિશિષ્ટ છે. ત્યાં તેની સાથે સંકળાયેલ કોઈપણ ઓળખ નથી.">
 <!ENTITY accountName.label "ખાતા નામ:">

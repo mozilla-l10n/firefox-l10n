@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "ડિસ્કની જગ્યા બચાવવા માટે, ડાઉનલોડ કરો નહિં:">
 <!ENTITY doNotDownload.label "ડિસ્ક જગ્યા બચાવવા માટે, ઓફલાઈન વપરાશ માટે ડાઉનલોડ કરો નહિં:">
 <!ENTITY offlineNewFolder.label "જ્યારે હું નવા ફોલ્ડરો બનાવું, તેમને ઓફળાઈન વપરાશ માટે પસંદ કરો">

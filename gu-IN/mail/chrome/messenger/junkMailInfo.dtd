@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "બગડેલ મેઈલ વિશે">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; આપોઆપ આવતા સંદેશાઓને શોધી કાઢે છે કે જે બગડેલા મેઈલ તરીકે દેખાય છે (સ્પામ તરીકે પણ ઓળખાય છે). સંદેશાઓ કે જે મેઈલ વિચારે છે તેઓ બગડેલા તરીકે પ્રદર્શિત થાય છે">

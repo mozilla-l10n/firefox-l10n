@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>શરૂઆત</span>">
 <!ENTITY aboutHome.recentTabs                   "છેલ્લા વખતની તમારી ટેબ">
 <!ENTITY aboutHome.remoteTabs                   "તમારા અન્ય કમ્પ્યૂટરોમાંથી ટેબ">

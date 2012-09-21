@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "બગડેલા મેઈલ નિયંત્રણો">
 <!ENTITY mainDescription.label "&brandShortName; પાસે બગડેલા મેઈલ, અથવા ખરાબ મેઈલ શોધવા માટે ઘણા માર્ગો છે. આ નિયંત્રણો આવતા સંદેશાઓને ઉકેલી શકે છે અને તેઓને ઓળખી શકે છે કે જેઓ મોટે ભાગે બગડેલ મેઈલ જેવા હોય છે. બગડેલું ચિહ્ન પ્રદર્શિત થાય છે જો સંદેશો બગડેલા મેઈલ તરીકે ઓળખાયેલ હોય.">
 
