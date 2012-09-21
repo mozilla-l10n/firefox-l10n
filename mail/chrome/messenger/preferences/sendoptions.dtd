@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "મોકલો વિકલ્પો">
 <!ENTITY sendMail.title               "લખાણ બંધારણ">
 <!ENTITY sendMaildesc.label           "જ્યારે સંદેશાઓ HTML બંધારણમાં મોકલી રહ્યા હોય અને એક અથવા વદુ મેળવનારાઓ HTML મેળવવા માટે યાદી થયેલ હોય:">

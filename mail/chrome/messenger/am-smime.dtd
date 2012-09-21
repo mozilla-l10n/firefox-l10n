@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "સુરક્ષા">
 <!ENTITY securityHeading.label "સહી કરેલ અથવા એનક્રિપ્ટ થયેલ સંદેશાઓ મોકલવા અને મેળવવા માટે, તમારે બંને ડિજીટલ સહીકરણ પ્રમાણપત્ર અને એનક્રિપ્શન પ્રમાણપત્ર સ્પષ્ટ કરવું જોઈએ.">
 <!ENTITY encryptionGroupTitle.label "એનક્રિપ્શન">

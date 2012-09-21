@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "બગડેલ સુયોજનો">
 <!ENTITY trainingWarning.label "જો સક્રિયકૃત હોય, તો તમારે પ્રથમ &brandShortName; ને બગડેલ મેઈલ ઓળખવા માટે પ્રશિક્ષિત કરવું જ જોઈએ બગડેલ સાધનપટ્ટી બટનની મદદથી સંદેશો બગડેલ છે કે નહિં એમ ચિહ્નિત કરીને. તમારે બગડેલ હોય એવા અને નહિં બગડેલ હોય એવા બંને સંદેશાઓ ઓળખાવવા પડે.">
 <!ENTITY level.label "આ ખાતા માટે અનૂકુલનાત્મક બગડેલ મેઈલ નિયંત્રણો સક્રિય કરો">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                  "મળેલી રસીદો">
 <!ENTITY receiptSettings.label         "મળેલી રસીદો">
 <!ENTITY requestReceipt.label          "જ્યારે સંદેશાઓ મોકલી રહ્યા હોય, ત્યારે હંમેશા પછી મળતી રસીદની અરજી કરો">

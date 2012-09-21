@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY newsBlogSubscriptions.label "RSS ઉમેદવારીઓ">
 <!ENTITY subscriptionDesc.label "નોંધ: ફીડ માટે ફોલ્ડરને દૂર કરવાનું અથવા બદલવાનું પહેલાના ડાઉનલોડ થયેલ લેખોને અસર કરશે નહિં.">
