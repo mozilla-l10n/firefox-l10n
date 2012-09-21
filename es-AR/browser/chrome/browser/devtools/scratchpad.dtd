@@ -104,6 +104,10 @@
 <!ENTITY resetContext2.label          "Reiniciar variables">
 <!ENTITY resetContext2.accesskey      "v">
 
+<!ENTITY reloadAndRun.label           "Recargar y ejecutar">
+<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.key             "r">
+
 <!ENTITY executeMenu.label            "Ejecutar">
 <!ENTITY executeMenu.accesskey        "j">
 
