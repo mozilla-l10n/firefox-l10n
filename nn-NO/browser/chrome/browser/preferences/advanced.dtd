@@ -61,7 +61,7 @@
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
 <!ENTITY clearOfflineAppCacheNow.label   "Tøm no">
-<!ENTITY clearOfflineAppCacheNow.accesskey "T">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ø">
 <!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk kontroll av snøgglager">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
