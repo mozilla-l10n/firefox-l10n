@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY viewLog.title "Filterlogboek">
 <!ENTITY viewLogInfo.text "Het filterlogboek registreert welke filters zijn toegepast voor deze account. Gebruik het selectievakje om de registratie te activeren.">
 <!ENTITY clearLog.label "Logboek wissen">
