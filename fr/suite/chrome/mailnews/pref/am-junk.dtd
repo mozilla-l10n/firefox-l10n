@@ -22,3 +22,6 @@
 
 <!ENTITY junkClassification.label "Sélection">
 <!ENTITY junkActions.label "Destination et rétention">
+
+<!ENTITY globalJunkPrefs.label "Préférences globales des indésirables…">
+<!ENTITY globalJunkPrefs.accesskey "P">
