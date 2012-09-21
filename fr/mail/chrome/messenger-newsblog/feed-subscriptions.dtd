@@ -15,7 +15,7 @@
 <!ENTITY feedFolder.label            "Conserver les articles du flux dans : ">
 <!ENTITY feedFolder.accesskey        "C">
 
-<!ENTITY quickMode.label             "Afficher le résumé de l'article plutôt que de télécharger la page Web">
+<!ENTITY quickMode.label             "Afficher le résumé de l'article plutôt que de télécharger la page web">
 <!ENTITY quickMode.accesskey         "m">
 
 <!ENTITY locationValidate.label      "Valider">

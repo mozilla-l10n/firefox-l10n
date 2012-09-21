@@ -14,8 +14,8 @@
 <!ENTITY  exit_label "Quitter">
 <!ENTITY  continue_label "Continuer">
 
-<!ENTITY  launcher_shortcuts_title "Applications Web pour &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Aucune application Web trouvée">
+<!ENTITY  launcher_shortcuts_title "Applications web pour &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Aucune application web trouvée">
 
 <!ENTITY choose_file "Choisir un fichier">
 

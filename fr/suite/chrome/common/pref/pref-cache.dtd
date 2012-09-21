@@ -3,7 +3,7 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Cache">
 <!ENTITY pref.cache.caption              "Définition des options du cache">
-<!ENTITY cachePara                       "Le cache garde sur votre disque dur une copie des pages Web fréquemment visitées (en cliquant sur « Recharger », la page affichée sera toujours la dernière version).">
+<!ENTITY cachePara                       "Le cache garde sur votre disque dur une copie des pages web fréquemment visitées (en cliquant sur « Recharger », la page affichée sera toujours la dernière version).">
 <!ENTITY cacheCheck.label                "Permettre à &brandShortName; de gérer la taille du cache.">
 <!ENTITY cacheCheck.accesskey            "P">
 <!ENTITY diskCacheUpTo.label             "Utiliser jusqu'à">
@@ -23,5 +23,5 @@
 <!ENTITY checkAutomatically.label        "Lorsque la page a expiré">
 
 <!ENTITY prefetchTitle.label             "Préchargement des liens">
-<!ENTITY enablePrefetch.label            "Précharger les pages Web pendant les pauses du navigateur afin que les liens des pages utilisant cette fonction soient affichés plus rapidement.">
+<!ENTITY enablePrefetch.label            "Précharger les pages web pendant les pauses du navigateur afin que les liens des pages utilisant cette fonction soient affichés plus rapidement.">
 <!ENTITY enablePrefetch.accesskey        "P">

@@ -80,7 +80,7 @@ dans les messages HTML de ce contact.">
 <!ENTITY HomeZipCode.accesskey          "d">
 <!ENTITY HomeCountry.label              "Pays :">
 <!ENTITY HomeCountry.accesskey          "P">
-<!ENTITY HomeWebPage.label              "Page Web :">
+<!ENTITY HomeWebPage.label              "Page web :">
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Anniversaire :">
 <!ENTITY Birthday.accesskey             "A">
@@ -110,7 +110,7 @@ dans les messages HTML de ce contact.">
 <!ENTITY WorkZipCode.accesskey          "t">
 <!ENTITY WorkCountry.label              "Pays :">
 <!ENTITY WorkCountry.accesskey          "s">
-<!ENTITY WorkWebPage.label              "Page Web :">
+<!ENTITY WorkWebPage.label              "Page web :">
 <!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab                      "Informations complémentaires">
@@ -157,6 +157,6 @@ dans les messages HTML de ce contact.">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Sur le Web">
 <!ENTITY PhotoURL.accesskey             "W">
-<!ENTITY PhotoURL.placeholder           "Coller ou saisir l'adresse Web d'une photo">
+<!ENTITY PhotoURL.placeholder           "Coller ou saisir l'adresse web d'une photo">
 <!ENTITY UpdatePhoto.label              "Mettre à jour">
 <!ENTITY UpdatePhoto.accesskey          "M">
