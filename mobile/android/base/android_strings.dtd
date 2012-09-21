@@ -125,6 +125,7 @@ size. -->
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
+<!ENTITY tools "Herramientas">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -172,6 +173,8 @@ size. -->
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
 <!ENTITY button_clear_data "Limpiar datos">
+<!ENTITY button_set "Establecer">
+<!ENTITY button_clear "Limpiar">
 
 <!ENTITY abouthome_addons_title "Complementos para tu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Examinar todos los complementos de &brandShortName;">
