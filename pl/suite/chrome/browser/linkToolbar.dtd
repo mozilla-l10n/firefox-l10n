@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Pasek narzędzi nawigacyjnych witryny">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "Pasek narzędzi nawigacyjnych witryny">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Zawsze pokazuj">
