@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Pokaż obrazek tła">
 <!ENTITY viewBGImageCmd.accesskey "t">
-<!ENTITY setWallpaperCmd.label "Ustaw jako tapetę">
-<!ENTITY setWallpaperCmd.accesskey "t">
+<!ENTITY setDesktopBackgroundCmd.label "Ustaw tapetę…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "t">
 <!ENTITY bookmarkPageCmd.label "Dodaj zakładkę do tej strony…">
 <!ENTITY bookmarkPageCmd.accesskey "D">
 <!ENTITY bookmarkLinkCmd.label "Dodaj zakładkę do tego odnośnika…">
