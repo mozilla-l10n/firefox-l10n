@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "Din &syncBrand.fullName.label;-nøkkel">
 <!ENTITY syncKey.page.description         "Denne nøkkelen vert brukt til å dekode data i &syncBrand.fullName.label;-kontoen. Du må skrive inn nøkkelen kvar gong du set opp &syncBrand.fullName.label; på ei ny datamaskin eller eining.">
 <!ENTITY syncKey.keepItSecret.heading     "Hald han hemmeleg">
