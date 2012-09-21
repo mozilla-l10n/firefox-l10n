@@ -14,7 +14,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Zezwòlë stronom ùżëwac jiszich fòntów jakno nastôwioné tuwò">
+<!ENTITY  allowPagesToUse.label           "Zezwòlë stronóm ùżëwac jiszich fòntów òd ùstawionëch">
 <!ENTITY  allowPagesToUse.accesskey       "Z">
 
 <!ENTITY  color                           "Tekst i spòdlé">

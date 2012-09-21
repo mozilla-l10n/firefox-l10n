@@ -68,10 +68,10 @@ ju wicy automatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl�
 <!ENTITY netTimeout.longDesc "<p>strona przez dłëższi czas nie òdpòwiôdô na żądóné sparłãczenie i przezérnik òprzestôł żdac na òdpòwiesc.</p><ul><li>Mòżlëwé, że serwer terëczasno nie robi abò je przecążony. Jeżlë jo, to je nót spróbòwac pòzdze znowa.</li><li>Ni mòże òbzerac jinszich stronów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Je kòmpùtr brëkòwnika abò séc zazychrowónô ògniową scaną abò serwerã proxy? Tëch lëchô kònfigùracjô mòże prowôdzëc do problemów z przezéraniém internetowëch stronów.</li><li>Jeżlë dali dô problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò dowòznikã internetu.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Nieznóny protokół">
-<!ENTITY protocolNotFound.longDesc "<p>Adres zamëkô w se protokół (np. <q>wxyz://</q>), chtëren nie je rozpòznôwóny przez przezérnik. Przez to nie je òn w sztãdze pòprôwno sparłãczëc sã ze stroną.</p><ul><li>Brëkùjesz mùltimediów abò jinszëch nietekstowëch ùsłëżnotów? Sprawdzë, czë strona ni mô dodôwnëch wëmôganiów.</li><li>Òbsłużënk niejednëch protokołów mòże chcec softwôrë abò wtëkôczów òd bùntnowich producentów.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>Adres zamëkô w se protokół (np. <q>wxyz://</q>), chtëren nie je rozpòznôwóny przez przezérnik. Przez to nie je òn w sztãdze pòprôwno sparłãczëc sã ze stroną.</p><ul><li>Brëkùjesz mùltimediów abò jinszëch nietekstowëch ùsłëżnotów? Sprôwdzë, czë strona ni mô dodôwnëch wëmôganiów.</li><li>Òbsłużënk niejednëch protokołów mòże chcec softwôrë abò wtëkôczów òd bùntnowich producentów.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serwer proxy pòcysnął sparłãczenié">
-<!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcysnął sparłãczenié.</p><ul><li>Je kònfigùracjô serwerów proxy w przezérnikù dobrô? Sprawdzë nastôw i spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcysnął sparłãczenié.</p><ul><li>Je kònfigùracjô serwerów proxy w przezérnikù dobrô? Sprôwdzë nastôw i spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Nie jidze nalezc serwera proxy">
 <!ENTITY proxyResolveFailure.longDesc "<p>Przezérnik je tak skònfigùrowny, abë brëkòwac serwera proxy, równak nen ni mòże bëc nalazłi.</p><ul><li>Je kònfigùracjô serwerów proxy dobrô? Nót je sprôwdzëc nastôw i spróbòwac znowa.</li><li>Je kòmpùtr sparłãczony z robiącą sécą?</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
@@ -94,8 +94,8 @@ ju wicy automatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl�
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Na strona mòże bëc terëczasno nieprzistãpnô abò zajãtô. Spróbùjë znowa za sztócëk.</li>
-  <li>Jeżlë ni mòżesz zaladowac niżódny stronë, Sprawdzë ùstôwë swòjégò sécowégò sparłãczeniô.</li>
-  <li>Jeżlë twòj kòmpùtr abò séc je chronionô przez firewall abò proxy, Sprawdzë, czë program &brandShortName; mô prawa przëstãpù do Internetu.</li>
+  <li>Jeżlë ni mòżesz zaladowac niżódny stronë, Sprôwdzë ùstôwë swòjégò sécowégò sparłãczeniô.</li>
+  <li>Jeżlë twòj kòmpùtr abò séc je chronionô przez firewall abò proxy. Sprôwdzë, czë program &brandShortName; mô prawa przëstãpù do Internetu.</li>
 </ul>
 ">
 

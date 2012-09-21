@@ -206,7 +206,7 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "n">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Sprawdzë">
+<!ENTITY inspectMenu.label            "Sprôwdzë">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
 
@@ -248,7 +248,7 @@ can reach it easily. -->
 <!ENTITY styleeditor.accesskey        "S">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
-<!ENTITY inspectContextMenu.label     "Sprawdzë Element">
+<!ENTITY inspectContextMenu.label     "Sprôwdzë Element">
 <!ENTITY inspectContextMenu.accesskey "E">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Nalezë wicy nôrzãdłów">
@@ -308,7 +308,7 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Dopasëjë…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "D">
-<!ENTITY viewTabsOnTop.label            "Kôrtë na wierzchù">
+<!ENTITY viewTabsOnTop.label            "Kôrtë na wiérzchù">
 <!ENTITY viewTabsOnTop.accesskey        "K">
 
 <!ENTITY historyMenu.label "Historiô">
@@ -469,7 +469,7 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Zwikszë">
+<!ENTITY fullZoomEnlargeCmd.label       "Zmiona wiôlgòscë">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -485,9 +485,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zwikszë blós tekst">
+<!ENTITY fullZoomToggleCmd.label        "Zwikszë le tekst">
 <!ENTITY fullZoomToggleCmd.accesskey    "k">
-<!ENTITY fullZoom.label                 "Zwikszenié">
+<!ENTITY fullZoom.label                 "Zwikszë">
 <!ENTITY fullZoom.accesskey             "w">
 
 <!ENTITY newTabButton.tooltip           "Òtemkni nową kôrtã">

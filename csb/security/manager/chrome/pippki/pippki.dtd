@@ -82,8 +82,8 @@
 <!ENTITY downloadCert.message3 "Nim dôsz wiarë nemù CA, przezdrzë jegò certifikat, pòlitikã bezpiekù i procedurë (Żlë są dô).">
 <!ENTITY downloadCert.viewCert.label "Wëzdrzatk">
 <!ENTITY downloadCert.viewPolicy.label "Wskôzë">
-<!ENTITY downloadCert.viewCert.text "Sprawdzë certifikat Òrganu Certifikacji">
-<!ENTITY downloadCert.viewPolicy.text "Sprawdzë pòlitikã i procedurë Òrganu Certifikacji">
+<!ENTITY downloadCert.viewCert.text "Sprôwdzë certifikat Òrganu Certifikacji">
+<!ENTITY downloadCert.viewPolicy.text "Sprôwdzë pòlitikã i procedurë Òrganu Certifikacji">
 
 <!-- Certificate Exists in database -->
 <!ENTITY caCertExists.title "Certifikat ju je">

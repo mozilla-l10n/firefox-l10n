@@ -101,7 +101,7 @@
 <!ENTITY certmgr.certname                     "Miono certifikatu">
 <!ENTITY certmgr.certserver                   "Serwer">
 <!ENTITY certmgr.override_lifetime            "Dosmiertny">
-<!ENTITY certmgr.tokenname                    "Zabezpieczającé ùrzãdzenié">
+<!ENTITY certmgr.tokenname                    "Zabezpieczającé ùrządzenié">
 <!ENTITY certmgr.issued                       "Wëstôwiony dnia">
 <!ENTITY certmgr.expires                      "Kùńczi sã">
 <!ENTITY certmgr.email                        "E-mailowi adres">

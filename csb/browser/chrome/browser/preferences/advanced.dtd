@@ -13,26 +13,26 @@
 
 <!ENTITY accessibility.label             "Przëstãpnosc">
 
-<!ENTITY useCursorNavigation.label       "Zezwòlë na ùżëcé knąpów kùrsora do nawigacji pò stronach">
+<!ENTITY useCursorNavigation.label       "Zezwòlë na ùżëcé kùrsora do nawigacji pò stronach">
 <!ENTITY useCursorNavigation.accesskey   "Z">
-<!ENTITY searchStartTyping.label         "Zaczni szëkbã przez wpisywanié tekstu">
+<!ENTITY searchStartTyping.label         "Szëkôj przez wpisywanié tekstu">
 <!ENTITY searchStartTyping.accesskey     "t">
 <!ENTITY blockAutoRefresh.label          "Òstrzégôj, żlë stronë próbùją przeczérowac abò zladowac stronã znowa">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Przezéranié">
 
-<!ENTITY useAutoScroll.label             "Ùżëjë automatnegò przewijaniô">
+<!ENTITY useAutoScroll.label             "Ùżëjë automatnégò przewijaniô">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Ùżëjë lejnegò przewijaniô">
+<!ENTITY useSmoothScrolling.label        "Ùżëjë lejnégò przewijaniô">
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Ùżëjë sprzãtowégò wspòmaganiô, żlë je przistãpné">
 <!ENTITY allowHWAccel.accesskey          "w">
-<!ENTITY checkSpelling.label             "Sprawdzôj pisënk">
+<!ENTITY checkSpelling.label             "Sprôwdzôj pisënk">
 <!ENTITY checkSpelling.accesskey         "p">
 
 <!ENTITY systemDefaults.label            "Systemòwé nastôwë">
-<!--XXX--><!ENTITY alwaysCheckDefault.label        "Przë zrëszani, sprôwdzë czë &brandShortName; je domëslnym przezérnikã">
+<!--XXX--><!ENTITY alwaysCheckDefault.label        "Przë zrëszanim, sprôwdzë czë &brandShortName; je domëslnym przezérnikã">
 <!ENTITY alwaysCheckDefault.accesskey    "p">
 <!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awariach">
 <!ENTITY submitCrashes.accesskey         "S">
@@ -43,7 +43,7 @@
 
 <!ENTITY connection.label                "Sparłãczenié">
 
-<!ENTITY connectionDesc.label            "Ùstawi jak &brandShortName; mô sã parłãczëc z Internetã">
+<!ENTITY connectionDesc.label            "Ùstawi to jak &brandShortName; mô sã sparłãczëc z Internetã">
 <!ENTITY connectionSettings.label        "Nastôwë…">
 <!ENTITY connectionSettings.accesskey    "N">
 <!ENTITY offlineStorage2.label           "Pamiãc dlô tribù offline i pòdôwków">
@@ -63,7 +63,7 @@
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 <!ENTITY clearOfflineAppCacheNow.accesskey "z">
 <!ENTITY clearOfflineAppCacheNow.label   "Wëczëszczë">
-<!ENTITY httpCache.label                 "Ùżëcé kaszu">
+<!ENTITY httpCache.label                 "Kasz">
 
 <!ENTITY updateTab.label                 "Aktualizacjô">
 
@@ -73,12 +73,12 @@
 
 <!ENTITY updateOthers.label              "Aktualizëjë automatno:">
 
-<!ENTITY updateCheck.label               "Sprawdzôj przistãp aktualizacji, ale ządôj pocwierdzenia przë instalacji">
+<!ENTITY updateCheck.label               "Sprôwdzë przistãp aktualizacji, ale ządôj pocwierdzenia przë instalacji">
 <!ENTITY updateCheck.accesskey           "S">
 
-<!ENTITY updateAutoAddonWarn.label       "Òstrzégôj, żlë aktualizacjô chce wëłączëc dodôwczi">
+<!ENTITY updateAutoAddonWarn.label       "Òstrzéżë, żlë aktualizacje chcą wëłączëc dodôwczi">
 <!ENTITY updateAutoAddonWarn.accesskey   "Ò">
-<!ENTITY updateManual.label              "Nie sprawdzôj przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiekù)">
+<!ENTITY updateManual.label              "Nie sprôwdzë przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiekù)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY enableSearchUpdate.label        "Szëkôcze">
 <!ENTITY enableSearchUpdate.accesskey    "k">
@@ -106,7 +106,7 @@
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certifikatë">
 <!ENTITY certSelection.description       "Żlë serwer żądô certifikatu brëkòwnika:">
-<!ENTITY certs.auto                      "wëbierz certifikat automatno">
+<!ENTITY certs.auto                      "wëbierzë certifikat automatno">
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "wiedno pëtôj">
 <!ENTITY certs.ask.accesskey             "p">
@@ -116,7 +116,7 @@
 <!ENTITY viewCRLs.accesskey              "d">
 <!ENTITY verify2.label                   "Werifikacjô">
 <!ENTITY verify2.accesskey               "e">
-<!ENTITY viewSecurityDevices.label       "Ùrzãdzenia bezpiekù">
+<!ENTITY viewSecurityDevices.label       "Ùrządzenia bezpiekù">
 <!ENTITY viewSecurityDevices.accesskey   "b">
 
 <!ENTITY isDefault.label                 "&brandShortName; je Twòjim domëslnym przezérnikã">

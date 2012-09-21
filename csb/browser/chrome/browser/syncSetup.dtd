@@ -44,9 +44,9 @@
 <!ENTITY setup.confirmPassword.label     "Pòcwierdzë parolã">
 <!ENTITY setup.confirmPassword.accesskey "P">
 
-<!ENTITY pairDevice.setup.description.label "Abë zaktiwòwac na jinym ùrzãdzenim, wëbierzë &#x0022;Spôrëjë ùrzãdzenié&#x0022;.">
-<!ENTITY pairDevice.title.label             "Spôrëjë ùrzãdzenié">
-<!ENTITY pairDevice.dialog.description.label "Abë zaktiwòwac nowé ùrzãdzenié, wëbierzë òptacjã &#x0022;Skònfigùrëjë synchronizacjã&#x0022;.">
+<!ENTITY pairDevice.setup.description.label "Abë zaktiwòwac na jinym ùrządzenim, wëbierzë &#x0022;Spôrëjë ùrządzenié&#x0022;.">
+<!ENTITY pairDevice.title.label             "Spôrëjë ùrządzenié">
+<!ENTITY pairDevice.dialog.description.label "Abë zaktiwòwac nowé ùrządzenié, wëbierzë òptacjã &#x0022;Skònfigùrëjë synchronizacjã&#x0022;.">
 
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -65,7 +65,7 @@
 <!ENTITY recoveryKeyEntry.label        "Twój klucz òdzwëskù">
 <!ENTITY recoveryKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Generëjë nowi klucz">
-<!ENTITY recoveryKeyBackup.description "Twój klucz òdzwëskù je wëmôgóny bë dostac sã do &syncBrand.fullName.label; na jinëch ùrzãdzeniach. Proszã ùsadzë jegò kòpiã. Ni mòżemë pòmòc Cë w dostanim nazôd Twòjégò klucza.">
+<!ENTITY recoveryKeyBackup.description "Twój klucz òdzwëskù je wëmôgóny bë dostac sã do &syncBrand.fullName.label; na jinëch ùrządzeniach. Proszã ùsadzë jegò kòpiã. Ni mòżemë pòmòc Cë w dostanim nazôd Twòjégò klucza.">
 <!ENTITY button.syncKeyBackup.print.label     "Drëkùjë…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
 <!ENTITY button.syncKeyBackup.save.label      "Zapiszë…">
@@ -74,20 +74,20 @@
 <!-- New Account Page 3: Captcha -->
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.showMeHow.label          "Pòkażë mie, jak.">
-<!ENTITY addDevice.dontHaveDevice.label     "Ni móm tegò ùrzãdzeniô ze mną">
+<!ENTITY addDevice.dontHaveDevice.label     "Ni móm tegò ùrządzeniô ze mną">
 <!ENTITY addDevice.setup.enterCode.label    "Zôs wpiszë nen kòd:">
-<!ENTITY addDevice.dialog.enterCode.label   "Wpiszë kòd dlô ùrzãdzeniô:">
+<!ENTITY addDevice.dialog.enterCode.label   "Wpiszë kòd dlô ùrządzeniô:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Proszã spróbòwac znôwù.">
-<!ENTITY addDevice.dialog.successful.label  "Ùrzãdzenie òstało dodóné. Pierszô synchronizacjô mòże dérowac czile minutów i zakùńczë sã w spòdlim.">
-<!ENTITY addDevice.dialog.recoveryKey.label "Abë zaktiwowac swòjé ùrzãdzenie nót je wpisac klucz òdzwëskù. Proszã gò wëdrëkòwac abò zapisac i miec gò kòle se.">
-<!ENTITY addDevice.dialog.connected.label   "Ùrzãdzenie pòdłączoné">
+<!ENTITY addDevice.dialog.successful.label  "Ùrządzenie òstało dodóné. Pierszô synchronizacjô mòże dérowac czile minutów i zakùńczë sã w spòdlim.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Abë zaktiwowac swòjé ùrządzenie nót je wpisac klucz òdzwëskù. Proszã gò wëdrëkòwac abò zapisac i miec gò kòle se.">
+<!ENTITY addDevice.dialog.connected.label   "Ùrządzenie pòdłączoné">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Wlogùjë">
-<!ENTITY existingRecoveryKey.description "Mòżesz dostac kòpiã swòjégò klucza òdzwëskù w òptacjach programù &syncBrand.shortName.label; na swòjim ùrzãdzenim wëbiérającë tam &#x0022;Mój klucz Sync&#x0022; w &#x0022;Sprôwianié kòntã&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Mòżesz dostac kòpiã swòjégò klucza òdzwëskù w òptacjach programù &syncBrand.shortName.label; na swòjim ùrządzenim wëbiérającë tam &#x0022;Mój klucz Sync&#x0022; w &#x0022;Sprôwianié kòntã&#x0022;.">
 <!ENTITY verifying.label              "Sprôwdzanié…">
 <!ENTITY resetPassword.label          "Wëczëszczë parolã">
-<!ENTITY resetSyncKey.label           "Móm zgùbioné no drëdżi ùrzãdzenié.">
+<!ENTITY resetSyncKey.label           "Móm zgùbioné no drëdżi ùrządzenié.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Òptacje synchronizacji">
@@ -111,14 +111,14 @@
 <!ENTITY choice2.merge.main.label      "Dodôj pòdôwczi negò kòmpùtra do pòdwôków programù &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Zalécóné:">
 <!ENTITY choice2.client.main.label     "Zastąpi wszëtczé pòdôwczi z tegò kòmpùtra mòjima pòdôwkama programù &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Zastąpi pòdôwczi na jinëch ùrzãdzeniach tima z tegò kòmpùtra">
+<!ENTITY choice2.server.main.label     "Zastąpi pòdôwczi na jinëch ùrządzeniach tima z tegò kòmpùtra">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Pòcwierdzë">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; dodôj terô wszëtczé pòdôwczi z tegò przezérnika do Twòjégò kònta Sync.">
 <!ENTITY confirm.client2.label         "Bôczënk: Ne pòdôwczi programù &brandShortName; òstaną rëmniãté:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; skòpérëje Twòje pòdôwczi z programù &syncBrand.fullName.label; na nen kòmpùtr.">
-<!ENTITY confirm.server2.label         "Òstrzéga: Ne ùrzãdzeniô dostóną Twòje môlowe pòdôwczi:">
+<!ENTITY confirm.server2.label         "Òstrzéga: Ne ùrzãądzeniô dostóną Twòje môlowe pòdôwczi:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Ùstôw parôt">

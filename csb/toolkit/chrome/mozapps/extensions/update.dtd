@@ -11,7 +11,7 @@
 <!ENTITY  mismatch.win.title              "Niekòmpatibilné dodôwczi">
 <!ENTITY  mismatch.top.label              "Nôslédny dodôwczi nie są zgódné z ną wersją programù
                                            &brandShortName; i òstałë wëłączoné:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; mòże sprawdzëc, czë są przistãpné kòmpatibilné
+<!ENTITY  mismatch.bottom.label           "&brandShortName; mòże sprôwdzëc, czë są przistãpné kòmpatibilné
                                            wersje nëch dodôwków.">
 
 <!ENTITY  checking.wizard.title           "Szëkba za kòmpatibilnyma dodôwkama">
@@ -37,12 +37,12 @@
 
 <!ENTITY  finished.wizard.title           "Winstalowóné òstałé kòmpatibilné dodôwczi">
 <!ENTITY  finished.top.label              "Program &brandShortName; winstalowôł aktualizacje dlô dodôwków.">
-<!ENTITY  finished.checkDisabled.desc     "Program &brandShortName; mòże periodiczno sprawdzac i dawac wiédzã
+<!ENTITY  finished.checkDisabled.desc     "Program &brandShortName; mòże periodiczno sprôwdzac i dawac wiédzã
                                            ò przistãpnëch kòmpatibilnëch zaktualnieniach dlô dodôwków.">
 <!ENTITY  finished.checkEnabled.desc      "Program &brandShortName; bãdzë periodiczno sprôwdzôł i dôwôł wiédzã
                                            ò przistãpnych zaktualnieniach dlô dodôwków.">
 
-<!ENTITY  adminDisabled.wizard.title      "Ni mòże sprawdzëc przistãpnotë zaktualnieniów">
+<!ENTITY  adminDisabled.wizard.title      "Ni mòże sprôwdzëc przistãpnotë zaktualnieniów">
 <!ENTITY  adminDisabled.warning.label     "Nalézenié zaktualnieniów dlô niekòmpatibilnëch dodôwków nie je mòżlëwé, dlôte że
                                            instalacjô softwôrë w programie &brandShortName; òsta wëłączonô.
                                            Proszã sparłãczëc sã ze sprôwnikã systemù.">

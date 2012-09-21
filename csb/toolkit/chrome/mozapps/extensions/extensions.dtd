@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Ni môsz zainstalowóné nëch dodôwków">
 <!ENTITY listEmpty.availableUpdates.label     "Nie nalôzł niżódnëch aktualizacjów">
 <!ENTITY listEmpty.recentUpdates.label        "Długò ni môsz aktualizowóné dodôwków">
-<!ENTITY listEmpty.findUpdates.label          "Sprawdzë zaktualnienia">
+<!ENTITY listEmpty.findUpdates.label          "Sprôwdzë zaktualnienia">
 <!ENTITY listEmpty.search.label               "Nie nalôzł pasownëch dodôwków">
 <!ENTITY listEmpty.button.label               "Wicy wëdowiédzë ò dodôwkach">
 <!ENTITY installAddonFromFile.label           "Winstalëje pòdôwczi z lopka…">
@@ -33,8 +33,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Włączë sprôwdzanié bezpiekù aktualizacji dodôwków">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Sprawdzë aktualnosc dodôwków">
-<!ENTITY info.plugincheck.tooltip               "Sprawdzë aktualnosc dodôwków">
+<!ENTITY info.plugincheck.label                 "Sprôwdzë aktualnosc dodôwków">
+<!ENTITY info.plugincheck.tooltip               "Sprôwdzë aktualnosc dodôwków">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Szëkba">
@@ -43,7 +43,7 @@
 <!ENTITY view.availableUpdates.label          "Przistãpné aktualizacje">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Sprawdzë zaktualnienia">
+<!ENTITY updates.checkForUpdates.label        "Sprôwdzë zaktualnienia">
 <!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Wëskrzëni slédné zaktualnienia">
 <!ENTITY updates.viewUpdates.accesskey        "W">
@@ -139,9 +139,9 @@
 <!ENTITY detail.repository                    "Profil dodôwka">
 <!ENTITY detail.size                          "Miara">
 
-<!ENTITY detail.checkForUpdates.label         "Sprawdzë zaktualnienia">
+<!ENTITY detail.checkForUpdates.label         "Sprôwdzë zaktualnienia">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "Sprawdzë zaktualnienia dlô negò dodôwka">
+<!ENTITY detail.checkForUpdates.tooltip       "Sprôwdzë zaktualnienia dlô negò dodôwka">
 <!ENTITY detail.showPreferencesWin.label      "Òptacje">
 <!ENTITY detail.showPreferencesWin.accesskey  "Ò">
 <!ENTITY detail.showPreferencesWin.tooltip    "Zmieni òptacje negò dodôwka">

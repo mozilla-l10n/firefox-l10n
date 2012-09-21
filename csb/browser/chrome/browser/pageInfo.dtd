@@ -111,7 +111,7 @@
 <!ENTITY  permCookie            "Zapisywanié kùszków">
 <!ENTITY  permInstall           "Instalacjô rozszerzeniów i mòtiwów">
 <!ENTITY  permGeo               "Ùprzistãpniôj pòłóżenié">
-<!ENTITY  permPlugins           "Aktiwùjë wtëkôcze">
+<!ENTITY  permPlugins           "Włączë wtëkôcze">
 
 <!ENTITY  permIndexedDB              "Zachòwôj zamkłosc offline">
 <!ENTITY  permClearStorage           "Wëczëszczë zamkłosc">
