@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label "Limit miejsca:">
 <!ENTITY folderQuotaUsage.label "Użycie:">
 <!ENTITY folderQuotaStatus.label "Status:">
+
+<!ENTITY numberOfMessages.label "Liczba wiadomości:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label "nieznana">
+<!ENTITY sizeOnDisk.label "Rozmiar na dysku:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label "nieznany">
