@@ -28,8 +28,3 @@
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Sfoglia…">
 <!ENTITY browse.accesskey "S">
-<!ENTITY addonsMgr.label "Componenti aggiuntivi">
-<!ENTITY manageAddonsDescWin.label "Modifica le opzioni per i componenti aggiuntivi">
-<!ENTITY manageAddonsDescUnix2.label "Modifica preferenze per i componenti aggiuntivi">
-<!ENTITY manageAddons.label "Gestione componenti aggiuntivi…">
-<!ENTITY manageAddons.accesskey "G">
