@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Zoeken terwijl u typt">
 <!ENTITY findAsYouTypeBehavior.label "Zoeken terwijl u typt">
 <!ENTITY findAsYouTypeTip.label "Tip: handmatig Zoeken terwijl u typt kunt u starten door / om tekst te zoeken of door ' om koppelingen te zoeken, gevolgd door de tekst die u wilt zoeken.">

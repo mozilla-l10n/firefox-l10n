@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Om schijfruimte te besparen, niet downloaden:">
 <!ENTITY doNotDownloadNntp.label "Om schijfruimte te besparen, niet downloaden voor offlinegebruik:">
 <!ENTITY doNotDownloadImap.label "Om schijfruimte te besparen kan het downloaden van berichten van de server en het bewaren van lokale versies voor offlinegebruik worden beperkt op leeftijd of grootte.">
