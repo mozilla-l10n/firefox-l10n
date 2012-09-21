@@ -224,7 +224,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Updater notifications -->
 <!ENTITY updater_start_title "&brandShortName;">
 <!ENTITY updater_start_ticker "Mise à jour de &brandShortName; disponible&#8230;">
-<!ENTITY updater_start_select "Sélectionner pour télécharger la mise à jour.">
+<!ENTITY updater_start_select "Télécharger la mise à jour.">
 
 <!ENTITY updater_downloading_title "Téléchargement de &brandShortName;">
 <!ENTITY updater_downloading_ticker "Téléchargement de la mise à jour de &brandShortName;&#8230;">
