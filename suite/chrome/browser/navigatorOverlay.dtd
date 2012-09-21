@@ -2,7 +2,7 @@
 <!ENTITY tabCmd.label "Nouvel onglet">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Ouvrir le site Web…">
+<!ENTITY openCmd.label "Ouvrir le site web…">
 <!ENTITY openCmd.accesskey "W">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Ouvrir un fichier…">

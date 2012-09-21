@@ -40,7 +40,7 @@
 <!ENTITY malformedURI.title "L'adresse n'est pas valide">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>La syntaxe des adresses Web est généralement
+  <li>La syntaxe des adresses web est généralement
     <strong>http://www.exemple.com/</strong>&#x00A0;;</li>
   <li>Assurez-vous de bien utiliser des barres obliques (c.à.d.
     <strong>/</strong>).</li>
@@ -70,7 +70,7 @@
 <!ENTITY unsafeContentType.title "Type de fichier non sûr">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li>
+  <li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li>
 </ul>
 ">
 
@@ -126,7 +126,7 @@
 <ul>
   <li>La page que vous essayez de consulter ne peut pas être affichée car l'authenticité des données reçues
 ne peut être vérifiée.</li>
-  <li>Veuillez contacter les propriétaires du site Web pour les en informer.
+  <li>Veuillez contacter les propriétaires du site web pour les en informer.
 Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un site non fonctionnel.</li>
 </ul>
 ">
@@ -168,7 +168,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY corruptedContentError.title "Erreur due à un contenu corrompu">
-<!ENTITY corruptedContentError.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL distant">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul></p>">

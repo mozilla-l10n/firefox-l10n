@@ -34,11 +34,11 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Si ce logiciel intègre des services Web, toutes les modalités d'utilisation applicables pour le ou les services doivent être liées à la section ">
-<!ENTITY rights.intro-point4b-unbranded "Services de sites Web">
+<!ENTITY rights.intro-point4a-unbranded "Si ce logiciel intègre des services web, toutes les modalités d'utilisation applicables pour le ou les services doivent être liées à la section ">
+<!ENTITY rights.intro-point4b-unbranded "Services de sites web">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights.webservices-header "Services de sites Web de &brandFullName;">
+<!ENTITY rights.webservices-header "Services de sites web de &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-e ", et en désactivant les options sous «&#x00A0;Rechercher automatiquement des mises à jour pour&#x00A0;».">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Un aperçu des services de sites Web intégrés dans le logiciel, accompagné des instructions sur la manière de les désactiver, le cas échéant, doit être indiqué ici.">
+<!ENTITY rights.webservices-unbranded "Un aperçu des services de sites web intégrés dans le logiciel, accompagné des instructions sur la manière de les désactiver, le cas échéant, doit être indiqué ici.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Toutes les modalités d'utilisation applicables pour ce logiciel doivent être indiquées ici.">

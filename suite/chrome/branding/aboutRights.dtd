@@ -27,11 +27,11 @@
 <!ENTITY rights.intro-point3c " sur les logiciels de &vendorShortName;.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; met également à disposition des services facultatifs d'information sur les sites Web, comme le service de mise à jour des modules complémentaires&#x00A0;; cependant, nous ne pouvons pas garantir à 100&#37; qu'ils soient appropriés ou dénués d'erreur. Vous pouvez trouver plus de détails, y compris des informations sur la manière de désactiver les services, dans les ">
+<!ENTITY rights.intro-point4a "&brandShortName; met également à disposition des services facultatifs d'information sur les sites web, comme le service de mise à jour des modules complémentaires&#x00A0;; cependant, nous ne pouvons pas garantir à 100&#37; qu'ils soient appropriés ou dénués d'erreur. Vous pouvez trouver plus de détails, y compris des informations sur la manière de désactiver les services, dans les ">
 <!ENTITY rights.intro-point4b "modalités d'utilisation">
 <!ENTITY rights.intro-point4c ".">
 
-<!ENTITY rights.webservices-header "Services de sites Web de &brandFullName;">
+<!ENTITY rights.webservices-header "Services de sites web de &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in

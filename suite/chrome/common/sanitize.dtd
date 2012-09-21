@@ -13,7 +13,7 @@
 <!ENTITY itemCache.accesskey             "e">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemOfflineApps.label           "Données de sites Web hors connexion">
+<!ENTITY itemOfflineApps.label           "Données de sites web hors connexion">
 <!ENTITY itemOfflineApps.accesskey       "D">
 <!ENTITY itemPasswords.label             "Mots de passe enregistrés">
 <!ENTITY itemPasswords.accesskey         "M">
