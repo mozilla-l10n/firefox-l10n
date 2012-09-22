@@ -17,7 +17,7 @@
 <!ENTITY clearDiskCache.accesskey "d">
 <!ENTITY chooseDiskCacheFolder.label "Wybierz katalog…">
 <!ENTITY chooseDiskCacheFolder.accesskey "k">
-<!ENTITY diskCacheFolderExplanation "Pliki pamięci podręcznej będą przechowywane w podkatalogu &quot;Cache&quot; wybranego katalogu. Aby zmiany zostały zaktualizowane, należy ponownie uruchomić &brandShortName;.">
+<!ENTITY diskCacheFolderExplanation "Pliki pamięci podręcznej będą przechowywane w podkatalogu „Cache” wybranego katalogu. Aby zmiany zostały zaktualizowane, należy ponownie uruchomić &brandShortName;.">
 <!ENTITY docCache.label "Porównuj stronę w pamięci podręcznej do strony w sieci:">
 <!ENTITY docCache.accesskey "s">
 <!ENTITY checkOncePerSession.label "Jednokrotnie w trakcie każdej sesji">

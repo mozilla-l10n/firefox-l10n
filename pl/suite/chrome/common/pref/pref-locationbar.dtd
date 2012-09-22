@@ -31,7 +31,7 @@
 <!ENTITY showSearchEngine.accesskey "e">
 
 <!ENTITY unknownLocations.label "Nieznane adresy">
-<!ENTITY domainGuessing.label "Automatycznie dodawaj &quot;www.&quot; oraz &quot;.com&quot; do wprowadzonego adresu, jeżeli odnalezienie witryny nie jest możliwe">
+<!ENTITY domainGuessing.label "Automatycznie dodawaj „www.” oraz „.com” do wprowadzonego adresu, jeżeli odnalezienie witryny nie jest możliwe">
 <!ENTITY domainGuessing.accesskey "d">
 <!ENTITY keywords.label "Wykonuj wyszukiwanie w sieci, gdy wpisany tekst nie jest adresem internetowym">
 <!ENTITY keywords.accesskey "y">

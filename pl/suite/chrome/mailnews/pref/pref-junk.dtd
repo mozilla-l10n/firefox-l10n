@@ -9,7 +9,7 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label "W przypadku ręcznego oznaczenia wiadomości jako niechcianej:">
 <!ENTITY manualMark.accesskey "y">
-<!ENTITY manualMarkModeMove.label "Przenieś wiadomości do folderu &quot;Niechciane&quot;">
+<!ENTITY manualMarkModeMove.label "Przenieś wiadomości do folderu „Niechciane”">
 <!ENTITY manualMarkModeMove.accesskey "P">
 <!ENTITY manualMarkModeDelete.label "Usuń wiadomości">
 <!ENTITY manualMarkModeDelete.accesskey "U">
