@@ -22,3 +22,6 @@
 
 <!ENTITY junkClassification.label "Selectie">
 <!ENTITY junkActions.label "Doel en behoud">
+
+<!ENTITY globalJunkPrefs.label "Globale ongewensteberichteninstellingen…">
+<!ENTITY globalJunkPrefs.accesskey "G">
