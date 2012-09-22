@@ -175,6 +175,7 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Закрыть боковую панель">
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
 <!ENTITY devToolbarMenu.label "Панель разработки">
 <!ENTITY devToolbarMenu.accesskey "а">

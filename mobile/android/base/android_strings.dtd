@@ -97,6 +97,7 @@
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Полная версия сайта">
+<!ENTITY tools "Инструменты">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Предыдущее">
 <!ENTITY find_next "Следующее">
@@ -132,6 +133,8 @@
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Отмена">
 <!ENTITY button_clear_data "Удалить данные">
+<!ENTITY button_set "Установить">
+<!ENTITY button_clear "Очистить">
 <!ENTITY abouthome_addons_title "Дополнения для вашего &brandShortName;">
 <!ENTITY abouthome_addons_browse "Обзор всех дополнений &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">

@@ -48,6 +48,9 @@
 <!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Сбросить переменные">
 <!ENTITY resetContext2.accesskey "м">
+<!ENTITY reloadAndRun.label "Перезагрузить и запустить">
+<!ENTITY reloadAndRun.accesskey "г">
+<!ENTITY reloadAndRun.key "r">
 <!ENTITY executeMenu.label "Выполнить">
 <!ENTITY executeMenu.accesskey "п">
 <!ENTITY errorConsoleCmd.commandkey "j">
