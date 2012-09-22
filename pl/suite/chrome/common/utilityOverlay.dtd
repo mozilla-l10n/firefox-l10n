@@ -94,7 +94,7 @@
 <!ENTITY helpMenu.label "Pomoc">
 <!ENTITY helpMenu.accesskey "c">
 
-<!ENTITY helpTroubleshootingInfo.label "Informacje dla rozwiązywania problemów">
+<!ENTITY helpTroubleshootingInfo.label "Informacje dla pomocy technicznej">
 <!ENTITY helpTroubleshootingInfo.accesskey "r">
 <!ENTITY releaseCmd.label "Informacje o wersji programu">
 <!ENTITY releaseCmd.accesskey "I">
