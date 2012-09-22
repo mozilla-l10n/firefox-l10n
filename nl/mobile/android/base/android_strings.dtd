@@ -171,6 +171,8 @@ size. -->
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annuleren">
 <!ENTITY button_clear_data "Gegevens wissen">
+<!ENTITY button_set "Instellen">
+<!ENTITY button_clear "Wissen">
 
 <!ENTITY abouthome_addons_title "Add-ons voor uw &brandShortName;">
 <!ENTITY abouthome_addons_browse "Door alle &brandShortName;-add-ons bladeren">
