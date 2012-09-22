@@ -158,3 +158,15 @@
                                       desde Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, espere…">
 <!ENTITY webapp_generic_name "Aplicaciones">
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Actualización de &brandShortName; disponible…">
+<!ENTITY updater_start_select "Seleccione para descargar la actualización.">
+<!ENTITY updater_downloading_title "Descargando &brandShortName;">
+<!ENTITY updater_downloading_ticker "Descargando actualización de &brandShortName;…">
+<!ENTITY updater_downloading_ticker_failed "Hubo un fallo al descargar la actualización de &brandShortName;…">
+<!ENTITY updater_downloading_select "Seleccione para aplicar la descarga cuando termine.">
+<!ENTITY updater_downloading_retry "Seleccione para reintentar la descarga.">
+<!ENTITY updater_downloading_willapply "Esperando a que acabe la descarga.">
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Actualización de &brandShortName; disponible…">
+<!ENTITY updater_apply_select "Seleccione para aplicar la actualización.">
