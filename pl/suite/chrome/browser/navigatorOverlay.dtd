@@ -105,7 +105,7 @@
 <!ENTITY cookieCookiesDefaultCmd.label "Użyj domyślnych uprawnień">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Ciasteczka pochodzące z tej witryny będą akceptowane lub odrzucane w zależności od ustawień domyślnych.">
-<!ENTITY cookieBlockCookiesCmd.label "Zablokuj pochodzące z tej witryny">
+<!ENTITY cookieBlockCookiesCmd.label "Blokuj pochodzące z tej witryny">
 <!ENTITY cookieBlockCookiesCmd.accesskey "b">
 <!ENTITY cookieBlockCookiesMsg.label "Ciasteczka pochodzące z tej witryny będą zawsze odrzucane.">
 
@@ -118,7 +118,7 @@
 <!ENTITY cookieImagesDefaultCmd.label "Użyj domyślnych uprawnień">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
 <!ENTITY cookieImagesDefaultMsg.label "Obrazki pochodzące z tej witryny będą pobierane w zależności od ustawień domyślnych.">
-<!ENTITY cookieBlockImagesCmd.label "Zablokuj pochodzące z tej witryny">
+<!ENTITY cookieBlockImagesCmd.label "Blokuj pochodzące z tej witryny">
 <!ENTITY cookieBlockImagesCmd.accesskey "b">
 <!ENTITY cookieBlockImagesMsg.label "Obrazki pochodzące z tej witryny nigdy nie będą pobierane.">
 

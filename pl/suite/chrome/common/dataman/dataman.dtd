@@ -63,10 +63,10 @@
 <!ENTITY perm.UseDefault "Użyj domyślnych">
 <!ENTITY perm.AskAlways "Zawsze pytaj">
 <!ENTITY perm.NeverSave "Nigdy nie zapisuj">
-<!ENTITY perm.Allow "Zezwól">
-<!ENTITY perm.AllowSameDomain "Zezwól dla tej samej domeny">
-<!ENTITY perm.AllowSession "Zezwól na czas sesji">
-<!ENTITY perm.Block "Zablokuj">
+<!ENTITY perm.Allow "Zezwalaj">
+<!ENTITY perm.AllowSameDomain "Zezwalaj dla tej samej domeny">
+<!ENTITY perm.AllowSession "Zezwalaj na czas sesji">
+<!ENTITY perm.Block "Blokuj">
 
 <!ENTITY perm.host.placeholder "Wprowadź nazwę hosta">
 <!ENTITY perm.button.add.label "Dodaj">

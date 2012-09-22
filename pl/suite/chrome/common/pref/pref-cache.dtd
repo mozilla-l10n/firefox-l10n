@@ -7,7 +7,7 @@
 <!ENTITY pref.cache.title "Pamięć podręczna">
 <!ENTITY pref.cache.caption "Ustawienia pamięci podręcznej">
 <!ENTITY cachePara "Kopie często oglądanych stron WWW przechowywane są na dysku twardym komputera, co pozwala na skrócenie czasu koniecznego do pobrania elementów strony (naciśnięcie przycisku Odśwież w oknie przeglądarki spowoduje pobranie aktualnej wersji strony).">
-<!ENTITY cacheCheck.label "Zezwól programowi &brandShortName; zarządzać wielkością pamięci podręcznej.">
+<!ENTITY cacheCheck.label "Zezwalaj programowi &brandShortName; zarządzać wielkością pamięci podręcznej.">
 <!ENTITY cacheCheck.accesskey "r">
 <!ENTITY diskCacheUpTo.label "Używaj do">
 <!ENTITY diskCacheUpTo.accesskey "U">

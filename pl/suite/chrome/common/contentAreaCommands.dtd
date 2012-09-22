@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label "Zablokuj wyświetlanie wyskakujących okien przez tę witrynę">
+<!ENTITY popupWindowRejectCmd.label "Blokuj wyświetlanie wyskakujących okien przez tę witrynę">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę">
 <!ENTITY popupWindowAllowCmd.accesskey "o">

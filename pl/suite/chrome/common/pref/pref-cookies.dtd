@@ -14,7 +14,7 @@
 <!ENTITY accOrgCookiesRadio.label "Akceptuj ciasteczka tylko z serwera, z którym nawiązano pierwotne połączenie">
 <!ENTITY accOrgCookiesRadio.accesskey "s">
 
-<!ENTITY disableCookies.label "Zablokuj ciasteczka">
+<!ENTITY disableCookies.label "Blokuj ciasteczka">
 <!ENTITY disableCookies.accesskey "z">
 
 <!ENTITY cookieRetentionPolicy.label "Zapamiętywanie ciasteczek">
