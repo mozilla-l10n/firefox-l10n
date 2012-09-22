@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Webkonsole">
+
 <!ENTITY networkPanel.requestURL                  "Fersochte URL">
 <!ENTITY networkPanel.requestMethod               "Fersykmetoade">
 <!ENTITY networkPanel.statusCode                  "Steatkoade">
@@ -33,8 +35,8 @@
 <!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip "CSS-parseflaters registrearje">
 <!ENTITY btnPageJS.label    "JS">
-<!ENTITY btnPageJS.tooltip  "JavaScript-útsûnderingen registreren">
-                                                            registrearje
+<!ENTITY btnPageJS.tooltip  "JavaScript-útsûnderingen registrearje">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
@@ -52,7 +54,7 @@
 
 <!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
   -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "De webconsole boppe of ûnder it dokumint posisjonearje">
+<!ENTITY btnPosition.tooltip   "De webkonsole boppe of ûnder it dokumint posysjonearje">
 
 <!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
   -  Web Console interface is displayed above the web page. -->
@@ -68,8 +70,8 @@
 
 <!ENTITY filterBox.placeholder "Filter">
 <!ENTITY btnClear.label        "Wiskje">
-<!ENTITY btnClear.tooltip      "Webconsole-útfier wiskje">
-<!ENTITY btnClose.tooltip      "Webconsole slute">
+<!ENTITY btnClear.tooltip      "Webkonsole-útfier wiskje">
+<!ENTITY btnClose.tooltip      "Webkonsole slute">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
