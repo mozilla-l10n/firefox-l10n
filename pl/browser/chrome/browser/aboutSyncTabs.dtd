@@ -1,5 +1,5 @@
-<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
-<!ENTITY tabs.otherComputers.label               "Karty z innych komputerów">
+<!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
+<!ENTITY tabs.otherDevices.label                 "Karty z innych urządzeń">
 
 <!ENTITY tabs.searchText.label                   "Pisz tutaj, by wyszukać karty…">
 
