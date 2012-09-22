@@ -4,8 +4,11 @@
 
 <!ENTITY window.title "Wejdź na kanał">
 
-<!ENTITY qsearch.label "Szybkie wyszukiwanie:">
-<!ENTITY qsearch.accesskey "S">
+<!ENTITY network.label "Sieć:">
+<!ENTITY network.accesskey "S">
+
+<!ENTITY channel.label "Kanał:">
+<!ENTITY channel.accesskey "K">
 
 <!ENTITY topics.label "Przeszukuj tematy i nazwy kanałów">
 <!ENTITY topics.accesskey "t">
@@ -22,6 +25,9 @@
 <!ENTITY refresh.label "Odśwież teraz">
 <!ENTITY refresh.accesskey "">
 
+<!ENTITY network.hint.label "Wprowadź nazwę sieci bądź serwera (można podać port) oraz kanał do dołączenia.">
+
+<!ENTITY col.network "Sieć">
 <!ENTITY col.name "Nazwa">
 <!ENTITY col.users "Użytkowników">
 <!ENTITY col.topic "Temat">
