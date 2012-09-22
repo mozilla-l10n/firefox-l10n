@@ -46,4 +46,5 @@
 <!ENTITY defaultBrowserButton.accesskey "e">
 <!ENTITY alreadyDefaultText "Program &brandShortName; jest już domyślną przeglądarką.">
 <!ENTITY defaultPendingText "Program &brandShortName; zostanie domyślną przeglądarką po potwierdzeniu wyboru.">
+<!ENTITY wasMadeDefaultText "Program &brandShortName; został ustawiony jako domyślna przeglądarka.">
 <!ENTITY makeDefaultText "Ustaw &brandShortName; jako domyślną przeglądarkę.">
