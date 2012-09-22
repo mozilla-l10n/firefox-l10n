@@ -1,4 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY lightning.toolbar.calendar.name	"캘린더 도구모음">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name		"ToDo 도구모음">
 <!ENTITY lightning.toolbar.task.accesskey	"T">
 
@@ -9,11 +14,11 @@
 <!ENTITY lightning.toolbar.print.label		"인쇄">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "메일">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
 <!ENTITY lightning.toolbar.calendar.label     "캘린더">
+<!ENTITY lightning.toolbar.calendar.tooltip     "캘린더 탭으로 전환">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "태스크">
+<!ENTITY lightning.toolbar.task.tooltip         "ToDo 탭으로 전환">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
@@ -29,6 +34,3 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "u">
 <!ENTITY lightning.toolbar.month.label               "월별">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-
-<!ENTITY lightning.toolbar.calendar.tooltip     "캘린더 탭으로 전환">
-<!ENTITY lightning.toolbar.task.tooltip         "ToDo 탭으로 전환">
