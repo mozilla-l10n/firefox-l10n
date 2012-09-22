@@ -26,6 +26,9 @@
 <!ENTITY openRecentMenu.label         "Otwórz ostatnie">
 <!ENTITY openRecentMenu.accesskey     "e">
 
+<!ENTITY revertCmd.label              "Wycofaj…">
+<!ENTITY revertCmd.accesskey          "c">
+
 <!ENTITY saveFileCmd.label            "Zapisz">
 <!ENTITY saveFileCmd.accesskey        "Z">
 <!ENTITY saveFileCmd.commandkey       "s">
