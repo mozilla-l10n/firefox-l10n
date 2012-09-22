@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Filtrowanie i klasyfikacja">
 <!ENTITY junkActions.label "Przenoszenie i przechowywanie">
+
+<!ENTITY globalJunkPrefs.label "Preferencje niechcianej poczty…">
+<!ENTITY globalJunkPrefs.accesskey "r">
