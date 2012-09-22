@@ -53,3 +53,7 @@
 <!ENTITY report.disabled                                     "Праќањето извештаи е исклучено.">
 <!ENTITY report.failed                                       "Праќањето не успеа.">
 <!ENTITY report.unavailable                                  "Не е достапен извештај.">
+
+<!ENTITY checkForUpdates                                     "Провери за надградби…">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Кликнете овде за да го активирате ранливиот приклучок (нема достапна надградба).">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Кликнете овде за да го активирате ранливиот приклучок.">
