@@ -5,4 +5,4 @@
 <!ENTITY addonAction.enable                     "Włącz">
 <!ENTITY addonAction.disable                    "Wyłącz">
 <!ENTITY addonAction.uninstall                  "Usuń">
-<!ENTITY addonAction.cancel                     "Anuluj">
+<!ENTITY addonAction.undo                       "Cofnij">
