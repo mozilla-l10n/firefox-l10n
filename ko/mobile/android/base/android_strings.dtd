@@ -40,6 +40,8 @@
 <!ENTITY history_week_section "7일 이내">
 <!ENTITY history_older_section "7일 이전">
 
+<!ENTITY go "이동">
+<!ENTITY search "검색">
 <!ENTITY reload "새로 고침">
 <!ENTITY forward "앞으로">
 <!ENTITY menu "메뉴">
@@ -78,16 +80,25 @@
 <!ENTITY pref_font_size_medium "중간">
 <!ENTITY pref_font_size_large "크게">
 <!ENTITY pref_font_size_xlarge "매우 크게">
+<!ENTITY pref_font_size_set "설정">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "가">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "불여우는 여러분이 생각하는 속도, 유연성, 안전성을 뛰어넘습니다. 비영리 단체이기 때문에 타협하는 압박 없이 여러분을 위한 혁신을 마음껏 할 수 있습니다. 이것은 여러분에게 더 나은 인터넷 경험과 웹 미래를  밝게 해줄 것입니다.">
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync "동기화">
 <!ENTITY pref_search_suggestions "추천 검색어 표시">
 <!ENTITY pref_import_android "Android에서 가져오기">
 <!ENTITY pref_private_data_history "방문 및 다운로드 기록">
 <!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
-<!ENTITY pref_private_data_cookies "쿠키">
+<!ENTITY pref_private_data_cookies2 "쿠키 및 로그인">
 <!ENTITY pref_private_data_passwords "저장한 암호">
 <!ENTITY pref_private_data_cache "캐시">
-<!ENTITY pref_private_data_sessions "로그인 기록">
 <!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
 <!ENTITY pref_private_data_siteSettings "웹 사이트별 설정">
 <!ENTITY quit "종료">
@@ -128,7 +139,7 @@
 <!ENTITY bookmark_edit_location "위치">
 <!ENTITY bookmark_edit_keyword "키워드">
 
-<!ENTITY site_settings_title        "웹 페이지 정보">
+<!ENTITY site_settings_title        "웹 페이지 정보…">
 <!ENTITY site_settings_cancel       "취소">
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
@@ -155,9 +166,19 @@
 <!ENTITY abouthome_last_tabs_open "마지막 닫은 탭 모두 열기">
 <!ENTITY abouthome_top_sites_title "상위사이트">
 <!ENTITY abouthome_top_sites_browse "자주 방문 사이트 모두 보기">
-<!ENTITY abouthome_no_top_sites "자주 방문 하는 사이트가 없습니다. 주소창을 선택하고 웹 사이트를 방문하세요.">
-<!ENTITY abouthome_about_sync "Firefox Sync를 설정하여, 다른 기기로부터 북마크나 방문 기록, 탭 정보 등을 가져올 수 있습니다.">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+      clicking this text in the promotions box will perform some action. Note
+      that a non-breaking space (unicode= U+00A0) should be used between this
+      character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Firefox Sync를 설정하여, 다른 기기로부터 북마크나 방문 기록, 탭 정보 등을 가져올 수 있습니다&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Mozilla Marketplace에서 앱을 받으세요. 그리고 웹이 제공하는 최고의 경험을 느껴보세요&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+      These strings are accentuated as bold text in the "abouthome_about_..."
+      strings above. These strings should be a subset of the strings above and
+      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "파일 선택">
 <!ENTITY filepicker_audio_title "음성 선택 또는 녹음">
