@@ -4,7 +4,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
-<!ENTITY  intro.label                 "Одбравте да отворите">
 <!ENTITY  from.label                  "од:">
 <!ENTITY  actionQuestion.label        "Што треба &brandShortName; да прави со оваа датотека?">
 
@@ -26,3 +25,7 @@
 <!ENTITY  chooseHandler.accesskey     "Р">
 
 <!ENTITY  unknownPromptText.label     "Дали би сакале да ја снимите оваа датотека?">
+
+
+
+<!ENTITY  intro2.label                "Одбравте да отворите:">
