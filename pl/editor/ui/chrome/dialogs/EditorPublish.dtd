@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label         "Opublikuj stronę">
+<!ENTITY windowTitle.label         "Publikuj stronę">
 <!ENTITY windowTitleSettings.label "Ustawienia publikacji">
-<!ENTITY publishTab.label          "Opublikuj">
+<!ENTITY publishTab.label          "Publikuj">
 <!ENTITY settingsTab.label         "Ustawienia">
-<!ENTITY publishButton.label       "Publikuj">
+<!ENTITY publishButton.label       "Opublikuj">
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Nazwa witryny:">
