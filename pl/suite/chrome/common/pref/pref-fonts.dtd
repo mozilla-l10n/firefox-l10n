@@ -62,7 +62,7 @@
 
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Szeryfowa">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY useDefaultFontSansSerif.label "Bezszeryfowa">
 
 <!ENTITY useDocumentFonts.label "Zezwalaj na użycie czcionek zadeklarowanych w wyświetlanych dokumentach">
 <!ENTITY useDocumentFonts.accesskey "o">
