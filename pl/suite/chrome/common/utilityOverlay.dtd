@@ -107,13 +107,13 @@
 <!ENTITY aboutCommPluginsCmd.label "O wtyczkach">
 <!ENTITY aboutCommPluginsCmd.accesskey "w">
 
-<!ENTITY direct.label "Online (Proxy: Brak)">
+<!ENTITY direct.label "Online (proxy: brak)">
 <!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Online (Proxy: Ręczne)">
+<!ENTITY manual.label "Online (proxy: ręczne)">
 <!ENTITY manual.accesskey "r">
-<!ENTITY pac.label "Online (Proxy: Automatyczne)">
+<!ENTITY pac.label "Online (proxy: automatyczne)">
 <!ENTITY pac.accesskey "a">
-<!ENTITY wpad.label "Online (Proxy: Automatyczne wykrywanie)">
+<!ENTITY wpad.label "Online (proxy: automatyczne wykrywanie)">
 <!ENTITY wpad.accesskey "w">
 <!ENTITY system.label "Online (proxy: systemowe)">
 <!ENTITY system.accesskey "s">
