@@ -122,7 +122,7 @@
 <!ENTITY Notes.label                    "Notennoù">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Chat.tab                       "Postelrezh prim">
+<!ENTITY Chat.tab                       "Postelerezh prim">
 <!ENTITY Chat.accesskey                 "P">
 <!ENTITY Gtalk.label                    "Google Talk :">
 <!ENTITY Gtalk.accesskey                "G">

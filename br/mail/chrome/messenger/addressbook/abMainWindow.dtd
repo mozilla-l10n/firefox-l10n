@@ -146,7 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Krouiñ ur roll nevez">
 <!ENTITY editButton2.tooltip                            "Embann an elfenn diuzet">
 <!ENTITY newmsgButton.tooltip                           "Kas ur postel">
-<!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapiñ">
+<!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapañ">
 <!ENTITY deleteButton2.tooltip                           "Dilemel an elfenn diuzet">
 
 <!-- Dir Tree header -->
@@ -202,7 +202,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY phone.heading                                  "Pellgomz">
 <!ENTITY work.heading                                   "Labour">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Deskrivadenn">
+<!ENTITY description.heading                            "Deskrivadur">
 <!ENTITY addresses.heading                              "Posteloù">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Kerc'hat ar gartenn">

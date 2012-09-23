@@ -559,7 +559,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.accesskey "e">
 <!ENTITY newMsgButton.tooltip "Sevel ur gemennadenn nevez">
 <!ENTITY replyButton.tooltip "Respont d'ar gemennadenn-mañ">
-<!ENTITY replyAllButton.tooltip "Respont d'ar c'haser ha d'an holl zegemerien">
+<!ENTITY replyAllButton.tooltip "Respont d'ar c'haser ha d'an holl zegemererien">
 <!ENTITY replyListButton.tooltip "Respont d'ar roll skignañ">
 <!ENTITY forwardButton.tooltip "Treuzkas ar gemennadenn diuzet">
 <!ENTITY fileButton.tooltip "Leuniañ ar gemennadenn diuzet">
