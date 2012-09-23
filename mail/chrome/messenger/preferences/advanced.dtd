@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Telemetry-ri buruzko informazio gehiago">
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Korritzea">
+<!ENTITY useAutoScroll.label           "Erabili korritze automatikoa">
+<!ENTITY useAutoScroll.accesskey       "a">
+<!ENTITY useSmoothScrolling.label      "Erabili korritze leuna">
+<!ENTITY useSmoothScrolling.accesskey  "u">
+
 <!ENTITY systemIntegration.label       "Sistemaren integrazioa">
 <!ENTITY alwaysCheckDefault.label      "Egiaztatu beti &brandShortName; lehenetsitako posta-bezeroa dela abiaraztean">
 <!ENTITY alwaysCheckDefault.accesskey  "g">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "Lineaz kanpo…">
 <!ENTITY showOffline.accesskey         "o">
 
-<!ENTITY Diskspace "Diskoko lekua">
-<!ENTITY offlineCompact.label "Trinkotu karpetak hau baino gehiago aurrezten denean:">
-<!ENTITY offlineCompact.accesskey "k">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Diskoko lekua">
+<!ENTITY offlineCompactFolders.label     "Trinkotu karpeta guztiak hau baino gehiago aurrezten denean:">
+<!ENTITY offlineCompactFolders.accesskey "k">
+<!ENTITY offlineCompactFoldersMB.label   "MB guztira">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

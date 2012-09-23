@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltikoa">
 <!ENTITY  font.langGroup.el                       "Grekoa">
 <!ENTITY  font.langGroup.turkish                  "Turkiera">
-<!ENTITY  font.langGroup.unicode                  "Beste hizkuntzak">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Erabiltzaileak definitua">
 <!ENTITY  font.langGroup.thai                     "Thailandiera">
 <!ENTITY  font.langGroup.hebrew                   "Hebreera">
