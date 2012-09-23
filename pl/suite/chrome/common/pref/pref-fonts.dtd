@@ -14,17 +14,17 @@
 <!ENTITY sizes.label "Rozmiar (piksele)">
 
 <!ENTITY proportional.label "Proporcjonalna:">
-<!ENTITY proportional.accesskey "p">
+<!ENTITY proportional.accesskey "r">
 
 <!ENTITY serif.label "Szeryfowa:">
-<!ENTITY serif.accesskey "s">
+<!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "Bezszeryfowa:">
 <!ENTITY sans-serif.accesskey "B">
 <!ENTITY monospace.label "O stałej szerokości:">
 <!ENTITY monospace.accesskey "O">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY fantasy.label "Fantazyjna:">
-<!ENTITY fantasy.accesskey "f">
+<!ENTITY fantasy.accesskey "F">
 <!ENTITY cursive.label "Kursywa:">
 <!ENTITY cursive.accesskey "K">
 
@@ -65,10 +65,10 @@
 <!ENTITY useDefaultFontSansSerif.label "Bezszeryfowa">
 
 <!ENTITY useDocumentFonts.label "Zezwalaj na użycie czcionek zadeklarowanych w wyświetlanych dokumentach">
-<!ENTITY useDocumentFonts.accesskey "o">
+<!ENTITY useDocumentFonts.accesskey "e">
 
 <!-- leaving this stuff in for now -->
 
 <!ENTITY header2 "Kiedy strona używa określonych przez jej twórcę czcionek">
-<!ENTITY useDefaultFont.label "Użyj moich domyślnych czcionek, omijając te z dokumentu">
-<!ENTITY useDefaultFont.accesskey "u">
+<!ENTITY useDefaultFont.label "Użyj moich domyślnych czcionek, ignorując te określone przez twórcę strony">
+<!ENTITY useDefaultFont.accesskey "d">
