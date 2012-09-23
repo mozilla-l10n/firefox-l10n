@@ -31,7 +31,7 @@
 <!ENTITY font.langGroup.latin1 "Zachodnie">
 <!ENTITY font.langGroup.latin2 "Środkowoeuropejskie">
 <!ENTITY font.langGroup.japanese "Japońskie">
-<!ENTITY font.langGroup.trad-chinese "Chińskie tradycyjne (Taiwan)">
+<!ENTITY font.langGroup.trad-chinese "Chińskie tradycyjne (Tajwan)">
 <!ENTITY font.langGroup.simpl-chinese "Chińskie uproszczone">
 <!ENTITY font.langGroup.trad-chinese-hk "Chińskie tradycyjne (Hong Kong)">
 <!ENTITY font.langGroup.korean "Koreańskie">
@@ -44,17 +44,17 @@
 <!ENTITY font.langGroup.thai "Tajskie">
 <!ENTITY font.langGroup.hebrew "Hebrajskie">
 <!ENTITY font.langGroup.arabic "Arabskie">
-<!ENTITY font.langGroup.devanagari "Symboliczne: Devanagari">
+<!ENTITY font.langGroup.devanagari "Dewanagari">
 <!ENTITY font.langGroup.tamil "Tamilskie">
-<!ENTITY font.langGroup.armenian "Armeńskie">
+<!ENTITY font.langGroup.armenian "Ormiańskie">
 <!ENTITY font.langGroup.bengali "Bengalskie">
-<!ENTITY font.langGroup.canadian "Zunifikowane kanadyjskie sylaby">
+<!ENTITY font.langGroup.canadian "Ujednolicony sylabariusz kanadyjski">
 <!ENTITY font.langGroup.ethiopic "Etiopskie">
 <!ENTITY font.langGroup.georgian "Gruzińskie">
-<!ENTITY font.langGroup.gujarati "Gujaratarskie">
-<!ENTITY font.langGroup.gurmukhi "Gurmukhierskie">
+<!ENTITY font.langGroup.gujarati "Gudżarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
 <!ENTITY font.langGroup.khmer "Khmerskie">
-<!ENTITY font.langGroup.malayalam "Malajskie">
+<!ENTITY font.langGroup.malayalam "Malajalam">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimalny rozmiar czcionki:">
 <!ENTITY minSize.accesskey "z">
