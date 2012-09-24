@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Stuuropsies">
 <!ENTITY sendMail.title "Teksformaat">
 <!ENTITY sendMaildesc.label "Wanneer boodskappe in HTML-formaat gestuur word en een of meer ontvangers is nie gelys as mense wat HTML kan ontvang nie:">
