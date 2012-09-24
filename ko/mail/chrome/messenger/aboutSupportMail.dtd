@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.appBasicsAppBuildID "애플리케이션 빌드 ID">
 <!ENTITY aboutSupport.accountsTitle "메일과 뉴스 계정">
 <!ENTITY aboutSupport.showPrivateData.mainText "계정 이름 포함">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  splash_settingup "&brandShortName; 설정 중...">
 <!ENTITY  splash_bookmarks_history "북마크와 방문 기록을 업데이트 하는 중. 이 작업은 약간 오래 걸릴 수 있습니다.">
 

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "스팸 차단 설정">
 <!ENTITY level.label "이 계정에서 지능형 스팸 메일 처리 기능 사용">
 <!ENTITY level.accesskey "E">
