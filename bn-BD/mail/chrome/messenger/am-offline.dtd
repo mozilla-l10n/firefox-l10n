@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "ডিস্কের জায়গা সংরক্ষণ করতে, ডাউনলোড করা হবে না:">
 <!ENTITY doNotDownloadNntp.label "ডিস্কের জায়গা সংরক্ষণ করতে, অফলাইন ব্যবহারের জন্য ডাউনলোড করা হবে না:">
 <!ENTITY doNotDownloadImap.label "ডিস্কের জায়গা সংরক্ষণ করতে, সার্ভার থেকে বার্তা ডাউনলোড এবং অফলাইন ব্যবহারের জন্য স্থানীয় কপি রাখার ক্ষেত্রে সময় অথবা আকার দ্বারা সীমাবদ্ধ করা যায়।">

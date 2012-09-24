@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title "আপনার &syncBrand.fullName.label; কী">
 <!ENTITY syncKey.page.description "আপনার &syncBrand.fullName.label; অ্যাকাউন্টে ডাটা ডিকোড করার জন্য এ কী ব্যবহৃত হয়। আপনি নতুন কোনো কম্পিউটার বা ডিভাইসে যতবার syncBrand.fullName.label কনফিগার করবেন ততবার এ কী দিতে হবে।">
 <!ENTITY syncKey.keepItSecret.heading "এটা গোপন রাখুন">
