@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY matchAll.label     "Coincidir con todo o seguinte">
 <!ENTITY matchAll.accesskey "C">
 <!ENTITY matchAny.label     "Coincidir con calquera do seguinte">
@@ -14,7 +10,6 @@
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
-<!ENTITY searchTermListAttributesFlexValue "5">
-<!ENTITY searchTermListOperatorsFlexValue "5">
-<!ENTITY searchTermListValueFlexValue "5">
-<!ENTITY searchTermListButtonsFlexValue "2">
+<!ENTITY searchTermListAttributesFlexValue "1">
+<!ENTITY searchTermListOperatorsFlexValue "1">
+<!ENTITY searchTermListValueFlexValue "3">
