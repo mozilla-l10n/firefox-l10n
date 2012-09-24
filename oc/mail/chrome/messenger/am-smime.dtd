@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 ﻿<!ENTITY securityTitle.label "Seguretat">
 <!ENTITY securityTab.label "Seguretat">
 <!ENTITY securityHeading.label "Per mandar e recebre de messatges signats o chifrats, es necessari d'especificar a l'encòp un certificat de signatura numerica e un certificat de chiframent.">
