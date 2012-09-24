@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Ukuze wonge isikhala kudiski, ungafaki ukwaziswa:">
 <!ENTITY doNotDownload.label "Ukuze wonge isikhala kudiski, ungafaki ukwaziswa okuzosetshenziswa kungaxhunyiwe ku-Inthaneti:">
 <!ENTITY offlineNewFolder.label "Lapho ngakha ama-folda amasha, wakhethe ukuba asebenze engaxhunyiwe ku-Inthaneti">
