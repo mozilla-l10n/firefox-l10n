@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "जंक मेल नियंत्रण">
 <!ENTITY mainDescription.label "&brandShortName; के पास जंक मेल जांचने के कई तरीके हैं. ये नियंत्रण आने वाले संदेश का मूल्यांकन करते हैं और उनको पहचानते हैं जो कि ज्यादा संभावना जंक मेल हों.">
 

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "जंक मेल के बारे में">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; स्वतः आने वाले मेल को जांचता है जो जंक की तरह प्रतीत होता है (स्पैम के रूप में भी विदित). संदेश जो &brandShortName; सोचता है कि जंक है वह जंक प्रतीक दिखायेगा">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "सुरक्षा">
 <!ENTITY securityHeading.label "हस्ताक्षरित व गोपित संदेश प्राप्त करने के लिये, आपको दोनों डिजिटल हस्ताक्षरित व गोपन प्रमाणपत्र निर्दिष्ट करना चाहिये.">
 <!ENTITY encryptionGroupTitle.label "गोपन">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkLog.title "जंक मेल लॉग">
 <!ENTITY junkLogInfo.text "जंक मेल लॉग इस खाते पर जंक मेल क्रियाकलाप को दस्तावेजित करता है. लॉगिंग सक्रिय करने के लिये जांचपेटी का प्रयोग करें.">
 <!ENTITY clearLog.label "लॉग साफ करें">
