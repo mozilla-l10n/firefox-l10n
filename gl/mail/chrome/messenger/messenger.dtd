@@ -249,10 +249,10 @@
 <!ENTITY viewFeedWebPage.accesskey "w">
 <!ENTITY viewFeedSummary.label "Resumo">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Formato predefinido">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Formato predeterminado">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Mostrar os anexos inseridos">
+<!ENTITY viewAttachmentsInlineCmd.label "Amosar os anexos inseridos">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "x">
 
 <!-- LOCALIZATION NOTE :
@@ -406,7 +406,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killSubthreadMenu.label "Ignorar fío secundario">
 <!ENTITY killSubthreadMenu.accesskey "n">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Mostrar fío">
+<!ENTITY watchThreadMenu.label "Amosar fío">
 <!ENTITY watchThreadMenu.accesskey "f">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Gardar aquí">
@@ -487,7 +487,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.available          "Dispoñíbel">
 <!ENTITY imStatus.unavailable        "Non dispoñíbel">
 <!ENTITY imStatus.offline            "Desconectado">
-<!ENTITY imStatus.showAccounts       "Mostrar as contas…">
+<!ENTITY imStatus.showAccounts       "Amosar as contas…">
 <!ENTITY joinChatCmd.label "Entrar na conversa…">
 <!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Ficheiros gardados">
@@ -510,6 +510,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey "r">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Limpar historial recente…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Configuración da conta…">
 <!ENTITY accountManagerCmd.accesskey "C">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -551,6 +553,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Localización do cartafol">
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compactar">
+<!ENTITY appmenuButton.label "Menú do aplicativo">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Busca avanzada de mensaxes">
@@ -578,9 +581,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marcar as mensaxes seleccionadas como correo lixo">
 <!ENTITY notJunkButton.tooltip "Marcar as mensaxes seleccionadas como correo normal">
 <!ENTITY addressBookButton.tooltip "Ir á axenda de enderezos">
-<!ENTITY chatButton.tooltip "Mostra a lapela das conversas">
+<!ENTITY chatButton.tooltip "Amosa a lapela das conversas">
 <!ENTITY tagButton.tooltip "Etiquetar mensaxes">
 <!ENTITY compactButton.tooltip "Eliminar mensaxes eliminadas do cartafol seleccionado">
+<!ENTITY appmenuButton.tooltip "Amosa o menú do aplicativo">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nova mensaxe">
+<!ENTITY appmenuNewContactCmd.label "Contacto da axenda de enderezos…">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuQFBMenu.label "Barra de filtro rápido">
+<!ENTITY appmenuToolbarLayout.label "Disposición da barra de ferramentas…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova etiqueta…">
@@ -668,8 +679,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.label "Anexos">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Prema para seleccionar as columnas a mostrar">
-<!ENTITY threadColumn.tooltip "Prema para mostrar as mensaxes agrupadas por fíos">
+<!ENTITY columnChooser.tooltip "Prema para seleccionar as columnas a amosar">
+<!ENTITY threadColumn.tooltip "Prema para amosar as mensaxes agrupadas por fíos">
 <!ENTITY fromColumn.tooltip "Premer para ordenar por De">
 <!ENTITY recipientColumn.tooltip "Prema para ordenar por destinatario">
 <!ENTITY subjectColumn.tooltip "Prema para ordenar por asunto">
@@ -730,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
-<!ENTITY columnPicker.resetToInbox.label "Restabelecer ás columnas predefinidas">
+<!ENTITY columnPicker.resetToInbox.label "Restabelecer ás columnas predeterminadas">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -789,7 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage2.label "Para protexer a súa privacidade, &brandShortName; bloqueou o contido remoto.">
-<!ENTITY loadRemoteContentButton3.label "Mostrar contido remoto">
+<!ENTITY loadRemoteContentButton3.label "Amosar contido remoto">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Esta mensaxe é sospeitosa de fraude">
@@ -900,4 +911,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.label      "Ocultar outros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "O">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Mostrar todo">
+<!ENTITY showAllAppsCmdMac.label        "Amosar todo">
