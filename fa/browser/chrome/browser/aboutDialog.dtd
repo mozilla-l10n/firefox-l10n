@@ -21,3 +21,30 @@
 <!ENTITY update.manual.end " قابل دریافت هستند.">
 <!ENTITY update.downloading.start "در حال دریافت به‌هنگام‌سازی — ">
 <!ENTITY update.downloading.end "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "شما در حال حاضر در کانال به‌هنگام‌سازی ">
+<!ENTITY channel.description.end    " قرار دارید. ">
+
+<!ENTITY channel.change             "تغییر">
+
+<!ENTITY channel.release.description       "از نسخه‌ای از فایرفاکس که توسط صدها میلیون نفر در سراسر جهان آزمایش شده است استفاده کنید.
+کنترل تجربهٔ خود در اینترنت را با سرعت زیاد، مطابق میل خود و با آخرین فن‌آوری‌های وب به دست گیرید.">
+<!ENTITY channel.beta.description          "ویژگی‌های جدید را با کمک مرورگری پایدار امتحان کنید.
+نظرات خود را برای بهتر ساختن نسخهٔ نهایی فایرفاکس ارسال نمایید.">
+<!ENTITY channel.aurora.description        "جدیدترین نوآوری‌ها را در محیطی غیرپایدار امتحان کنید.
+برای کمک به تعیین این که کدام ویژگی‌ها به نسخهٔ نهایی افزوده می‌شوند نظرات خود را ارسال نمایید.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "تغییر به کانال به‌هنگام‌سازی ">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "اعمال و به‌هنگام‌سازی">
+<!ENTITY channel.selector.cancelButton   "انصراف">
