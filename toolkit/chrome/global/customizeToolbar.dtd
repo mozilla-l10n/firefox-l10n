@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "টুলবার স্বনির্ধারণ">
 <!ENTITY dialog.style "width: 635px; height: 400px;">
 <!ENTITY instructions.description "টুলবারে টেনে এনে বা টুলবার থেকে টেনে বের করে আপনি আইটেম যোগ বা অপসারণ করতে পারেন।">

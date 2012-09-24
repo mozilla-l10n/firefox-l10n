@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "অপ্রয়োজনীয় মেইল সম্পর্কিত">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "&brandShortName; স্বয়ংক্রিয়ভাবে আসন্ন বার্তাসমূহ সনাক্ত করে, যেগুলো অপ্রয়োজনীয় মেইল (স্পাম হিসেবেও পরিচিত) হিসেবে প্রদর্শিত হয় । &brandShortName; যে মেইলসমূহকে অপ্রয়োজনীয় মনে করবে, তারা অপ্রয়োজনীয় মেইলের আইকন প্রদর্শন করবে">

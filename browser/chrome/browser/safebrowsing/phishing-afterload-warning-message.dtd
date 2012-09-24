@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "ওয়েব জালিয়াতির আশংকা">
 
 <!ENTITY safeb.palm.message.p1 "এই সাইটি একটি জাল সাইট হিসেবে চিহ্নিত হয়েছে। এসব সাইটগুলো, পরিচিত ও বিশ্বাসযোগ্য সাইট নকল করে আপনার কাছ থেকে  ব্যক্তিগত ও অর্থ সংক্রান্ত তথ্য বের করে নেয়। এই পৃষ্ঠায় ব্যক্তিগত তথ্য দিয়ে থাকলে আপনি পরিচয় প্রতারণা বা অন্যান্য প্রতারণার শিকার হতে পারেন। &#160;">

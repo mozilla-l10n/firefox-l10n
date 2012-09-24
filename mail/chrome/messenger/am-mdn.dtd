@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title "প্রাপ্তিজ্ঞাপন">
 <!ENTITY useGlobalPrefs.label "এই অ্যাকাউন্টটির জন্য আমার গ্লোবাল প্রাপ্তিজ্ঞাপন পছন্দসমূহ ব্যবহার করা হবে (U)">
 <!ENTITY useGlobalPrefs.accesskey "U">

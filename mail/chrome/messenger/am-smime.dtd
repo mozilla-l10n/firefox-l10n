@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "নিরাপত্তা">
 <!ENTITY securityTab.label "নিরাপত্তা">
 <!ENTITY securityHeading.label "স্বাক্ষরিত বা এনক্রিপ্টকৃত বার্তা পাঠাতে এবং গ্রহণ করতে, আপনাকে ডিজিটাল স্বাক্ষরকরণ সার্টিফিকেট এবং এনক্রিপ্টশন সার্টিফিকেট উভয়ই পাঠাতে হবে।">

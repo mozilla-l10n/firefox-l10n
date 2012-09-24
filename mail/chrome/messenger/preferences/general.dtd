@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label "&brandShortName; প্রারম্ভিক পৃষ্ঠা">
 <!ENTITY enableStartPage.label "&brandShortName; চালু করা হলে, বার্তা এলাকায় প্রারম্ভিক পৃষ্ঠাটি প্রদর্শিত হয় (W)">
 <!ENTITY enableStartPage.accesskey "W">
