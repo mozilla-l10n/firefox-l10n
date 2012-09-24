@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "스팸 메일에 대하여">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "메일 중 스팸 메일로 판명되는 메시지가 전송되면 메일 프로그램은 메일에 스팸 아이콘을 표시합니다.">

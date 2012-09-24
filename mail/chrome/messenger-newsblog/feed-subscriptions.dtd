@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "피드 구독">
 <!ENTITY subscriptionDesc.label "알림: 폴더 변경 및 삭제가 이전에 받은 기사에는 영향을 주지 않습니다.">

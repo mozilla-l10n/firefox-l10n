@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY siteUrl.label "사이트 URL:">
 <!ENTITY docSubdir.label "페이지 하위 디렉토리:">
 <!ENTITY otherSubdir.label "이미지 하위 디렉토리:">

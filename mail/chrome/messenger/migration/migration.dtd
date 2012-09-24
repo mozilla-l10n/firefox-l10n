@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY migrationWizard.title "가져오기 마법사">
 <!ENTITY importFromWin.label "가져올 메일 설정, 계정 설정, 주소록, 필터등의 데이터:">
 <!ENTITY importFromNonWin.label "가져오기올 메일 환경 설정, 계정 설정, 주소록, 필터 등의 데이터:">

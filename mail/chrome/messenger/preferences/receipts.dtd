@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                  "수신 확인 메시지 설정">
 <!ENTITY requestReceipt.label          "메시지를 보낼 때 항상 수신 확인을 요청하기">
 <!ENTITY requestReceipt.accesskey      "W">

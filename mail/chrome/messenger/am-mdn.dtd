@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "수신 확인">
 <!ENTITY useGlobalPrefs.label         "이 계정에 수신 확인 설정 사용">
 <!ENTITY useGlobalPrefs.accesskey     "U">

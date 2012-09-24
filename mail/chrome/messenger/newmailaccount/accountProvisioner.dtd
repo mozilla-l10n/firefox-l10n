@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "&brandShortName;을 사용해 주셔서 감사합니다!">
 <!ENTITY header2.label "새 메일 주소가 필요하신 분">
 <!ENTITY other.languages "메일 주소를 제공하는 서비스 제공자의 목록을 제공해 드립니다. 모든 제공자를 보시려면 여기를 선택해 주십시오.">
