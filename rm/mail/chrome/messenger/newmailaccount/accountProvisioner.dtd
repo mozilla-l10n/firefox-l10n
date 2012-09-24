@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Bainvegni a &brandShortName;">
 <!ENTITY header2.label "Vuls ti ina nova adressa dad e-mail?">
 <!ENTITY other.languages "Nus mussain be purschiders che offreschan adressas en tia regiun. Clicca qua per mussar tut ils purschiders.">

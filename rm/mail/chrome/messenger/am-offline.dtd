@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Per spargnar capacitad da memorisar, betg telechargiar:">
 <!ENTITY doNotDownloadNntp.label "Per spargnar capacitad da memorisar, betg telechargiar per l'utilisaziun senza connexiun:">
 <!ENTITY doNotDownloadImap.label "Per spargnar capacitad da memorisar, pon ins limitar tenor criteris da temp e grondezza il telechargiar da messadis dal server IMAP ed il preservar da copias localas per leger senza connexiun.">
