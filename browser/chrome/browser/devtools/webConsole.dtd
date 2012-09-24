@@ -94,3 +94,6 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY copyURLCmd.label     "複製鏈結網址">
+<!ENTITY copyURLCmd.accesskey "a">
+
