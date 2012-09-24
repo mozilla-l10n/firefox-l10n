@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "Roghainnean a' chuir">
 <!ENTITY sendMail.title               "Fòrmat teacsa">
 <!ENTITY sendMaildesc.label           "Nuair a chuireas mi teachdaireachdan ann am fòrmat HTML gu aonan no barrachd dhaoine 's fios nach urrainn dhaibh HTML fhaighinn:">

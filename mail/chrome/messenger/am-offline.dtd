@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Na luchdaich a-nuas na leanas gus àite a chaomhnadh air an diosg:">
 <!ENTITY doNotDownloadNntp.label "Na luchdaich a-nuas na leanas a chum cleachdadh far loidhne gus àite a chaomhnadh air an diosg:">
 <!ENTITY doNotDownloadImap.label "'S urrainn dhut cuingeachadh a-rèir aoise is meud a chur air luchdadh a-nuas de theachdaireachdan on fhrithealaiche 's air cumail de lethbhric ionadail gus àite a chaomhnadh air an diosg.">
