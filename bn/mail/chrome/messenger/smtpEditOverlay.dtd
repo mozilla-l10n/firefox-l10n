@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY settings.caption "সেটিং">
 <!ENTITY security.caption "নিরাপত্তা এবং প্রমাণীকরণ">
 <!ENTITY serverName.label "সার্ভারের নাম (S):">

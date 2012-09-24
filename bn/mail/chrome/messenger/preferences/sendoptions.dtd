@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "প্রেরণের অপশন">
 <!ENTITY sendMail.title "টেক্সট বিন্যাস">
 <!ENTITY sendMaildesc.label "HTML ফরম্যাটে বার্তা পাঠানোর সময় যদি HTML বার্তা গ্রহনে অক্ষম এমন তালিকাভুক্ত কোন প্রাপক   থাকে:">
