@@ -138,8 +138,6 @@
 
 <!ENTITY event.menu.options.label "Indstillinger">
 <!ENTITY event.menu.options.accesskey "I">
-<!ENTITY event.menu.options.attachments.label "Vedhæft hjemmeside…">
-<!ENTITY event.menu.options.attachments.accesskey "V">
 <!ENTITY event.menu.options.attendees.label "Inviter deltagere…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
 <!ENTITY event.menu.options.spellcheck.label "Stavekontrol…">
@@ -187,8 +185,6 @@
 <!ENTITY event.toolbar.delete.label "Slet">
 <!ENTITY event.toolbar.attendees.label "Inviter deltagere">
 <!ENTITY event.toolbar.spellcheck.label "Stavekontrol">
-<!ENTITY event.toolbar.privacy.label "Privatliv">
-<!ENTITY event.toolbar.attachments.label "Vedhæft">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titel:">
@@ -379,6 +375,10 @@
 <!ENTITY event.attendee.role.optional "Ikke-nødvendig deltager">
 <!ENTITY event.attendee.role.chair "Mødeleder">
 <!ENTITY event.attendee.role.nonparticipant "Deltager ikke">
+<!ENTITY event.attendee.usertype.individual     "Individuel">
+<!ENTITY event.attendee.usertype.group          "Gruppe">
+<!ENTITY event.attendee.usertype.resource       "Ressource">
+<!ENTITY event.attendee.usertype.room           "Rum">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Angiv tidszone">
