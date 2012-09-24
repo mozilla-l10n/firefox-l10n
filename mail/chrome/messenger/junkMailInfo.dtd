@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "Davart messadis nungiavischads">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; dispona d'in filter spezial che identifitgescha messadis nungiavischads (Junk/Spam) cun intercurir tut ils messadis che entran e silsuenter assortir els. Messadis che paran tenor &brandShortName; dad esser nungiavischads vegnan marcads cun in simbol correspundent">

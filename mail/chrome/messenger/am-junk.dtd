@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Configuraziun per e-mails nungiavischads">
 <!ENTITY trainingDescription.label "Sch'il filter per e-mails nungiavischads è activà, sto el vegnir trenà uschia che e-mails nungiavischads (Junk/Spam) vegnan identifitgads cun il temp cun auta probabilitad. Utilisescha ils buttuns &quot;Nungiavischà&quot; resp. &quot;Betg nungiavischà&quot; en la trav da simbols per classifitgar endretg messadis ch'è n'èn betg vegnids identifitgads a moda correcta. Pli tard vegn &brandShortName; ad esser abel da marcar automaticamain messadis sco nungiavischads.">
 <!ENTITY level.label "Activar en quest conto il filter intelligent per e-mails nungiavischads">
