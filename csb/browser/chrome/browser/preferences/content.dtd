@@ -10,7 +10,7 @@
 
 <!ENTITY  enableJavaScript.label      "Włączë JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "W">
-<!ENTITY  advancedJS.label            "Zawansowóné…">
+<!ENTITY  advancedJS.label            "Zaawansowóné…">
 <!ENTITY  advancedJS.accesskey        "a">
 
 <!ENTITY  enableJava.label            "Włączë Java">
@@ -24,7 +24,7 @@
 <!ENTITY  defaultSize.label           "Miara:">
 <!ENTITY  defaultSize.accesskey       "M">
 
-<!ENTITY  advancedFonts.label         "Zawansowóné…">
+<!ENTITY  advancedFonts.label         "Zaawansowóné…">
 <!ENTITY  advancedFonts.accesskey     "Z">
 
 <!ENTITY  colors.label                "Farwë…">
