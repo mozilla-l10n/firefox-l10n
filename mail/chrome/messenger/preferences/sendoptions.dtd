@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "विकल्प भेजें">
 <!ENTITY sendMail.title               "पाठ प्रारूप">
 <!ENTITY sendMaildesc.label           "HTML प्रारूप में संदेश भेजने के दौरान और एक या अधिक प्राप्तकर्ता को HTML में प्राप्त करने के लिये नहीं सूचीबद्ध है:">
