@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY blocklist.title             "கூடுதல் இணைப்புள் சிக்கலை உண்டு பண்ணலாம்">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; பின்வரும் கூடுதல் இணைப்புகள் நிலைப்பு தன்மை அல்லது பாதுகாப்பு சிக்கல்களை கொண்டுள்ளது என அறிகிறது:">

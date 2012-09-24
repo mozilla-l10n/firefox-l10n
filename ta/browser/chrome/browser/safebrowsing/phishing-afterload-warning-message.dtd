@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "இணைய மோசடி என கருதப்படுகிறது">
 
 <!ENTITY safeb.palm.message.p1 "இந்த பக்கம் தனிப்பட்ட அல்லது நிதி விவரங்களை பகிர ஒரு இணைய மோசடியாக அறிக்கையிடப்பட்டுள்ளது. இதில் தனிப்பட்ட விவரங்களை உள்ளிட்டால் அவை திருடு போவதற்கு வாய்ப்புள்ளது. &#160;">
