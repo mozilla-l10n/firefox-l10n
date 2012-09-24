@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.navigator.title           "Navegador">
 
-<!ENTITY navRadio.label                 "Mostrar en">
+<!ENTITY navRadio.label                 "Amosar en">
 <!ENTITY navRadio.accesskey             "n">
 <!ENTITY navStartPageMenu.label         "Inicio do navegador">
 <!ENTITY newWinPageMenu.label           "Nova xanela">
@@ -37,9 +41,10 @@
 <!ENTITY useDefault.label               "Restaurar as predefinicións">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "Navegador predefinido">
+<!ENTITY defaultBrowserGroup.label      "Navegador predeterminado">
 <!ENTITY defaultBrowserButton.label     "Estabelecer navegador predeterminado">
 <!ENTITY defaultBrowserButton.accesskey "d">
 <!ENTITY alreadyDefaultText             "&brandShortName; xa é o seu navegador predeterminado.">
 <!ENTITY defaultPendingText             "&brandShortName; estabelecerase como o navegador predeterminado cando prema no botón Aceptar.">
+<!ENTITY wasMadeDefaultText             "&brandShortName; estabeleceuse como o seu navegador predeterminado.">
 <!ENTITY makeDefaultText                "Estabelecer &brandShortName; como o seu navegador predeterminado.">
