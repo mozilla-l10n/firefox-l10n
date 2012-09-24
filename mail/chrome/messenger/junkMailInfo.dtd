@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Mabapi le Melaetša ya go se be Bohlokwa">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "&brandShortName; e kgona go lemoga melaetša ye e tsenago yeo e tšwelelago e le melaetša ya go hlakahlakana ka tsela ya othomethiki (gape e tsebja bjalo ka sepamo). Melaetša yeo &brandShortName; e gopolago gore ke ya go hlakahlakana e tšweletša aekhone ya go hlakahlakana">

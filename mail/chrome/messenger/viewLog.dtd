@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY viewLog.title "Lloko ya Filthara">
 <!ENTITY viewLogInfo.text "Ditokumente tša Lloko ya Filthara di boloka difilthara tšeo di sepetšago akhaonte ye. Šomiša tšhekepokisi ka fase go thuša go loka.">
 <!ENTITY clearLog.label "Tloša Lloko">
