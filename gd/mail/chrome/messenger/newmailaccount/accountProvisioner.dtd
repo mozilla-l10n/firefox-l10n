@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Fàilte gu &brandShortName;">
 <!ENTITY header2.label "A bheil thu ag iarraidh seòladh puist-dhealain ùr?">
 <!ENTITY other.languages "Chan fhaic thu an-seo ach na solaraichean san sgìre agad.  Briog an-seo gus a h-uile solaraiche fhaicinn.">
