@@ -1,8 +1,10 @@
-<!ENTITY identitiesListDesc.label "Funzione identità multiple">
+<!ENTITY identitiesListManageDesc.label "Gestisci le identità per questo account. La prima identità viene usata come predefinita.">
 <!ENTITY identitiesListAdd.label "Aggiungi…">
 <!ENTITY identitiesListAdd.accesskey "A">
 <!ENTITY identitiesListEdit.label "Modifica…">
 <!ENTITY identitiesListEdit.accesskey "M">
+<!ENTITY identitiesListDefault.label "Imposta come predefinito">
+<!ENTITY identitiesListDefault.accesskey "m">
 <!ENTITY identitiesListDelete.label "Elimina">
 <!ENTITY identitiesListDelete.accesskey "E">
 <!ENTITY identitiesListClose.label "Chiudi">
