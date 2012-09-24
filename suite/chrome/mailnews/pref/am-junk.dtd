@@ -18,3 +18,5 @@
 <!ENTITY ispHeaders.accesskey "U">
 <!ENTITY junkClassification.label "Selezione">
 <!ENTITY junkActions.label "Destinazione e conservazione">
+<!ENTITY globalJunkPrefs.label "Impostazioni globali spam…">
+<!ENTITY globalJunkPrefs.accesskey "z">
