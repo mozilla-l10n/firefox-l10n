@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "Páxina de inicio de &brandShortName;">
 <!ENTITY enableStartPage.label            "Mostrar a páxina de inicio na área de mensaxes cando se inicia &brandShortName;.">
 <!ENTITY enableStartPage.accesskey        "a">

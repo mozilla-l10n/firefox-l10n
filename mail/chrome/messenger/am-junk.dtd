@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Configuración de correo lixo">
 <!ENTITY trainingDescription.label "Se activa esta opción, debe adestrar &brandShortName; para que identifique o lixo co botón Correo lixo da barra de ferramentas. É necesario identificar tanto mensaxes que son lixo como as que non o son. Despois disto, &brandShortName; poderá marcalas automaticamente.">
 <!ENTITY level.label "Activar os controis adaptábeis de correo lixo nesta conta">
