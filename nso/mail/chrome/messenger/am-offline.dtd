@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Go boloka sekgoba sa tisiki, o se ke wa laolla:">
 <!ENTITY doNotDownload.label "Go boloka sekgoba sa tisiki, o se ke wa laolla go tla go se šomišetša ge megala ya kgokagano e sa šome:">
 <!ENTITY offlineNewFolder.label "Ge ke hlama difoltara tše mpsha, di kgethe go di šomišetša ge megala ya kgokagano e sa šome">
