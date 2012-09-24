@@ -35,18 +35,6 @@
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions          "Pausar com exceções">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
-  -  the button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Passar por cima">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
-  -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton.tooltip     "Entrar">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the label for the
-  -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton.tooltip     "Sair">
-
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
 <!ENTITY debuggerUI.stackTitle       "Call stack">
@@ -61,9 +49,9 @@
   -  debugger. -->
 <!ENTITY debuggerUI.propertiesTitle  "Variáveis da aplicação">
 
-<!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
-  -  appears in the filter text box when it is empty. -->
-<!ENTITY debuggerUI.emptyFilterText  "Filtrar scripts">
+<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
+  -  appears in the filter panel popup as a description. -->
+<!ENTITY debuggerUI.searchPanelTitle    "Operadores">
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
