@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "عمومی">
@@ -21,8 +25,6 @@
 <!ENTITY allowHWAccel.accesskey "ش">
 <!ENTITY checkSpelling.label             "بررسی املا در هنگام وارد کردن متن">
 <!ENTITY checkSpelling.accesskey         "م">
-<!ENTITY doNotTrack.label "درخواست از وب‌گاه‌ها برای عدم پیگیری فعالیت‌های من">
-<!ENTITY doNotTrack.accesskey "ع">
 
 <!ENTITY systemDefaults.label            "پیش‌فرض‌های سیستم">
 <!ENTITY alwaysCheckDefault.label        "همیشه هنگام شروع بررسی شود که آیا &brandShortName; مرورگر پیش‌فرض است یا خیر"><!--XXX-->
