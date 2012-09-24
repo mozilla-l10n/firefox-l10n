@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "Páxina de inicio de &brandShortName;">
-<!ENTITY enableStartPage.label            "Mostrar a páxina de inicio na área de mensaxes cando se inicia &brandShortName;.">
+<!ENTITY enableStartPage.label            "Amosar a páxina de inicio na área de mensaxes cando se inicia &brandShortName;.">
 <!ENTITY enableStartPage.accesskey        "a">
 <!ENTITY location.label                   "Localización:">
 <!ENTITY location1.accesskey               "o">
@@ -12,24 +16,18 @@
 <!ENTITY newMessagesArrive.label          "Cando cheguen mensaxes novas:">
 <!ENTITY playSound.label                  "Reproducir un son">
 <!ENTITY playSound1.accesskey              "u">
-<!ENTITY showAnimatedAlert.label          "Mostrar un aviso">
+<!ENTITY showAnimatedAlert.label          "Amosar un aviso">
 <!ENTITY showAnimatedAlert.accesskey      "r">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
 <!ENTITY play.label                       "Reproducir">
 <!ENTITY play.accesskey                   "r">
-<!ENTITY systemsound.label                "Son predefinido do sistema para correo novo">
+<!ENTITY systemsound.label                "Son predeterminado do sistema para correo novo">
 <!ENTITY systemsoundMac.label             "Son de aviso do sistema">
 <!ENTITY systemsoundMac.accesskey         "i">
 <!ENTITY systemsound.accesskey            "o">
-<!ENTITY customsound.label                "Utilizar o seguinte ficheiro de son">
+<!ENTITY customsound.label                "Usar o seguinte ficheiro de son">
 <!ENTITY customsound.accesskey            "n">
 <!ENTITY browse.label                     "Examinar…">
 <!ENTITY browse.accesskey                 "x">
-
-<!ENTITY addonsMgr.label                  "Complementos">
-<!ENTITY manageAddonsDescWin.label        "Modificar opcións dos complementos">
-<!ENTITY manageAddonsDescUnix2.label      "Modificar preferencias dos complementos">
-<!ENTITY manageAddons.label               "Xestionar complementos…">
-<!ENTITY manageAddons.accesskey           "X">
