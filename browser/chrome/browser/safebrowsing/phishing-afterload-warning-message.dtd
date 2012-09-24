@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "ეჭვი ვებ ყალთაბანდობაზე">
 
 <!ENTITY safeb.palm.message.p1 "ეს გვერდი ცნობილია როგორც ვებ ყალთაბანდი და რომ იგი შექმნილია მომხმარებელთაგან პირადი და ფინანსური ინფორმაციის გამოსატყუებლად. ამ გვერდზე პირადი მონაცემების შეტანას შესაძლოა თქვენი პირადი მონაცემების ბოორტად გამოყენება მოჰყვეს. &#160;">

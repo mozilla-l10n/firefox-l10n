@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "ჯართის პარამეტრები">
 <!ENTITY trainingWarning.label "თუ ჩართულია, ჯერ &brandShortName; უნდა გაავრჯიშოთ კჯართის მითითებით ჯართის პულტის ღილაკის საშუალებით. უნდ ამიუთითოთ ორივე, ჯარათისა და არა ჯართის წერილები.">
 <!ENTITY level.label "ჯართის მოქნილი კონტროლის ჩართვა ამ ანგარიშისთვის">

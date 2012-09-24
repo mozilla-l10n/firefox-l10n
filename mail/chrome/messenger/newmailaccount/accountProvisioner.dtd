@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 ﻿<!ENTITY window.title "მოგესალმებათ &brandShortName;">
 <!ENTITY header.label "გნებავთ ახალი ელფოსტის მისამართი &brandShortName;-ში?">
 <!ENTITY other.languages "ჩვენ გიჩვენებთ ელფოსტის მხოლოდ პროვაიდერებს თქვენი რეგიონიდან.  ყველა პროვაიდერის საჩვენებლად დაწკაპეთ აქ.">
