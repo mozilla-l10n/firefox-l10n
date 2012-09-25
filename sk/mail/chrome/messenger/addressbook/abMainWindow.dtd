@@ -146,7 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
 <!ENTITY editButton2.tooltip                            "Upraviť označený kontakt">
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
-<!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať chatovať (Instant message - IM)">
+<!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteButton2.tooltip                          "Odstrániť označenú položku">
 
 <!-- Dir Tree header -->

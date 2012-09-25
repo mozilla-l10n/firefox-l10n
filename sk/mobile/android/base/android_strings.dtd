@@ -98,7 +98,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
      demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Rýchla oranžová líška presahuje vaše očakávania vyššou rýchlosťou, väčšou flexibilitou a zlepšenou bezpečnosťou. Pretože me neziskoví, sme slobodní pri inováciách bez tlaku na kompromisy. To znamená lepší zážitok pre vás a svetlejšiu budúcnosťo pre web.">
+<!ENTITY pref_font_size_preview_text "Rýchla oranžová líška presahuje vaše očakávania vyššou rýchlosťou, väčšou flexibilitou a zlepšenou bezpečnosťou. Pretože sme neziskoví, sme slobodní pri inováciách bez tlaku na kompromisy. To znamená lepší zážitok pre vás a svetlejšiu budúcnosť pre web.">
 
 <!ENTITY pref_sync "Synchronizácia">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
@@ -221,3 +221,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Čakajte, prosím…">
 
 <!ENTITY webapp_generic_name "Aplikácia">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Je dostupná aktualizácia pre &brandShortName;&#8230;">
+<!ENTITY updater_start_select "Zvoľte na prevzatie aktualizácie">
+
+<!ENTITY updater_downloading_title "Preberá sa &brandShortName;">
+<!ENTITY updater_downloading_ticker "Preberá sa aktualizácia pre &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Nepodarilo sa prevziať aktualizáciu pre &brandShortName;&#8230;">
+<!ENTITY updater_downloading_select "Zvoľte na použitie aktualizácie po jej prevzatí.">
+<!ENTITY updater_downloading_retry "Zvoľte na opakovanie pokusu o prevzatie aktualizácie.">
+<!ENTITY updater_downloading_willapply "Čaká sa na ukončenie preberania.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Je dostupná aktualizácia pre &brandShortName;&#8230;">
+<!ENTITY updater_apply_select "Zvoľte na použitie aktualizácie">
