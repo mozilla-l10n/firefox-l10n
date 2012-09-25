@@ -657,7 +657,7 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.label     "Zrušiť zdieľanie">
 <!ENTITY social.sharePopup.undo.accesskey "Z">
 <!ENTITY social.sharePopup.shared.label   "Zdieľate túto stránku.">
-<!ENTITY social.sharePopup.portrait.arialabel "Obrzáok používateľského profilu">
+<!ENTITY social.sharePopup.portrait.arialabel "Obrázok používateľského profilu">
 
 <!ENTITY social.toggleSidebar.label "Zobraziť bočný panel">
 <!ENTITY social.toggleSidebar.accesskey "b">
