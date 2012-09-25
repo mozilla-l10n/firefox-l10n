@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "כללי">
@@ -23,10 +27,11 @@
 <!ENTITY checkSpelling.accesskey         "א">
 
 <!ENTITY systemDefaults.label            "ברירות מחדל">
-<!ENTITY alwaysCheckDefault.label        "בדוק בכל הפעלה אם &brandShortName; הוא דפדפן ברירת המחדל"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "בדוק בכל הפעלה אם &brandShortName; הוא דפדפן ברירת המחדל">
 <!ENTITY alwaysCheckDefault.accesskey    "ת">
-<!ENTITY checkNow.label                  "בדוק כעת">
-<!ENTITY checkNow.accesskey              "כ">
+<!ENTITY setDefault.label                "הגדרת &brandShortName; כדפדפן ברירת המחדל">
+<!ENTITY setDefault.accesskey            "ב">
+<!ENTITY isDefault.label                 "&brandShortName; כרגע דפדפן ברירת המחדל שלך">
 <!ENTITY submitCrashes.label             "שלח דיווחי קריסה">
 <!ENTITY submitCrashes.accesskey         "ש">
 <!ENTITY submitTelemetry.label           "שליחת נתוני ביצועים">
@@ -40,7 +45,9 @@
 <!ENTITY connectionSettings.label        "הגדרות...">
 <!ENTITY connectionSettings.accesskey    "ה">
 
-<!ENTITY offlineStorage.label            "אחסון לא מקוון">
+<!ENTITY httpCache.label                 "תוכן רשת במטמון">
+
+<!ENTITY offlineStorage2.label           "תוכן רשת לא מקוון ונתוני משתמש">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,34 +60,40 @@
 <!ENTITY limitCacheSizeAfter.label       "מ״ב של מקום">
 <!ENTITY clearCacheNow.label             "מחק עכשיו">
 <!ENTITY clearCacheNow.accesskey         "מ">
+<!ENTITY clearOfflineAppCacheNow.label   "מחק עכשיו">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ח">
 <!ENTITY overrideSmartCacheSize.label    "עקוף את ניהול המטמון האוטומטי">
-<!ENTITY overrideSmartCacheSize.accesskey "ע">
+<!ENTITY overrideSmartCacheSize.accesskey "א">
 
 <!ENTITY updateTab.label                 "עדכון">
 
-<!ENTITY autoCheck.label                 "בדוק אוטומטית אם ישנם עדכונים עבור:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "תוספות">
-<!ENTITY enableAddonsUpdate2.accesskey   "ת">
-<!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
-<!ENTITY enableSearchUpdate.accesskey    "מ">
-<!ENTITY whenUpdatesFound.label          "כאשר נמצאים עדכונים עבור &brandShortName;:">
-<!ENTITY askMe.label                     "שאל אותי מה לעשות">
-<!ENTITY askMe.accesskey                 "ש">
-<!ENTITY modeAutomatic.label             "הורד והתקן את העדכון אוטומטית">
-<!ENTITY modeAutomatic.accesskey         "ע">
-<!ENTITY modeAutoAddonWarn.label         "הזהר אותי אם זה ינטרל תוספת כלשהי">
-<!ENTITY modeAutoAddonWarn.accesskey     "נ">
+<!ENTITY updateApp.label                 "עדכוני &brandShortName;:">
+<!ENTITY updateAuto.label                "התקנת עדכונים אוטומטית (מומלץ אבטחה משופרת)">
+<!ENTITY updateAuto.accesskey            "א">
+<!ENTITY updateCheck.label               "בדיקת עדכונים, אבל הצגת הודעה שתאפשר לי לבחור אם להתקין אותם">
+<!ENTITY updateCheck.accesskey           "ה">
+<!ENTITY updateManual.label              "לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)">
+<!ENTITY updateManual.accesskey          "ל">
+
+<!ENTITY updateAutoAddonWarn.label       "הזהר אותי אם עדכון זה ינטרל תוספות מותקנות">
+<!ENTITY updateAutoAddonWarn.accesskey   "ז">
+
 <!ENTITY updateHistory.label             "הצג היסטורית עדכונים">
 <!ENTITY updateHistory.accesskey         "צ">
+
+<!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
+<!ENTITY useService.accesskey            "ר">
+
+<!ENTITY updateOthers.label              "עדכונים אוטומטיים עבור:">
+<!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
+<!ENTITY enableSearchUpdate.accesskey    "מ">
 
 <!ENTITY offlineNotify.label             "דווח לי כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון">
 <!ENTITY offlineNotify.accesskey         "ד">
 <!ENTITY offlineNotifyExceptions.label   "חריגות…">
 <!ENTITY offlineNotifyExceptions.accesskey "ח">
 
-<!ENTITY offlineAppsList.label           "לאתרים הבאים נשמרים נתונים לשימוש לא מקוון:">
+<!ENTITY offlineAppsList2.label          "האתרים הבאים מורשים לשמור נתונים לשימוש לא מקוון:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "הסר...">
 <!ENTITY offlineAppsListRemove.accesskey "ה">
@@ -107,3 +120,4 @@
 <!ENTITY verify2.accesskey               "א">
 <!ENTITY viewSecurityDevices.label       "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey   "ה">
+

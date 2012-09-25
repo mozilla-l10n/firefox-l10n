@@ -1,3 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  prefWindow.titleWin     "אפשרויות">
 <!ENTITY  prefWindow.titleGNOME   "העדפות של &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
@@ -10,3 +20,4 @@
 <!ENTITY paneAttachments.title    "נספחים">
 <!ENTITY paneSecurity.title       "אבטחה">
 <!ENTITY paneAdvanced.title       "מתקדם">
+

@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>התחלת השימוש ב־</span><span>&brandShortName; </span>">
+<!ENTITY aboutHome.recentTabs                   "הלשוניות שלך מן הפעם הקודמת">
+<!ENTITY aboutHome.remoteTabs                   "לשוניות מן המחשבים האחרים שלך">
+<!ENTITY aboutHome.recommendedAddons2           "תוספות עבור ה־&brandShortName; שלך">
+<!ENTITY aboutHome.giveFeedback                 "הוספת משוב">
+<!ENTITY aboutHome.getHelp                      "קבלת עזרה">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "פתח הכל בלשוניות">
+<!ENTITY aboutHome.noTabs                       "אין לשוניות מהפעם הקודמת">
+<!ENTITY aboutHome.noAddons                     "אין תוספות מומלצות">
+<!ENTITY aboutHome.getLocale                    "שינוי שפה">
+<!ENTITY aboutHome.getInBeforeBeta              "הצטרפו לפני הבטא.">
+<!ENTITY aboutHome.tryAurora                    "נסו את Firefox Aurora ועזרו לעצב את העתיד של Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"הורדת Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"עבור Android">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "התקנת Sync">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "שייך התקן">
+

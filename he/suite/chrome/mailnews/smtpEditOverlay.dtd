@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY settings.caption "הגדרות">
 <!ENTITY security.caption "אבטחה ואימות">
 <!ENTITY serverName.label "שם השרת:">
@@ -6,7 +10,7 @@
 <!ENTITY serverDescription.accesskey "ת">
 <!ENTITY serverPort.label "שער:">
 <!ENTITY serverPort.accesskey "ע">
-<!ENTITY alwaysUseUsername.label "השתמש בשם וסיסמה">
+<!ENTITY alwaysUseUsername.label "השתמש בשם וססמה">
 <!ENTITY alwaysUseUsername.accesskey "מ">
 <!ENTITY userName.label "שם משתמש:">
 <!ENTITY userName.accesskey "ם">

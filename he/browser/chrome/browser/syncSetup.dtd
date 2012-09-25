@@ -1,11 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label    "התקנת &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "ברוך הבא, אם מעולם לא השתמשת ב־&syncBrand.fullName.label; בעבר, יהיה עליך ליצור חשבון חדש.">
+<!ENTITY setup.pickSetupType.description2 "ברוכים הבאים! במידה ומעולם לא השתמשתם ב־&syncBrand.fullName.label; בעבר, יהיה עליכם ליצור חשבון חדש.">
 <!ENTITY button.createNewAccount.label "צור חשבון חדש">
-<!ENTITY setup.haveAccount.label "יש לי חשבון &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "התחברות">
+<!ENTITY button.haveAccount.label      "יש לי חשבון">
 
 <!ENTITY setup.choicePage.title.label     "האם השתמשת ב־&syncBrand.fullName.label; בעבר?">
 <!ENTITY setup.choicePage.new.label       "מעולם לא השתמשתי ב־&syncBrand.shortName.label; בעבר">
@@ -13,14 +16,14 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "שרת">
-<!ENTITY serverType.main.label      "שרת &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "ברירת מחדל: שרת &syncBrand.fullName.label; של Mozilla">
 <!ENTITY serverType.custom2.label   "השתמש בשרת מותאם אישית…">
 <!ENTITY signIn.account2.label      "חשבון">
 <!ENTITY signIn.account2.accesskey  "ח">
 <!ENTITY signIn.password.label      "ססמה">
 <!ENTITY signIn.password.accesskey  "ס">
-<!ENTITY signIn.syncKey.label       "מפתח סינכרון">
-<!ENTITY signIn.syncKey.accesskey   "מ">
+<!ENTITY signIn.recoveryKey.label       "מפתח שחזור">
+<!ENTITY signIn.recoveryKey.accesskey   "מ">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "פרטי החשבון">
@@ -38,39 +41,37 @@
 <!ENTITY setup.tosAgree2.label      "וגם ל־">
 <!ENTITY setup.ppLink.label         "מדיניות הפרטיות">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "ו">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "ל־&brandShortName; אכפת בנוגע לפרטיות שלך">
-<!ENTITY setup.newSyncKeyPage.description.label "כדי לדאוג שפרטיותך לא תיפגע, כל הנתונים שלך מוצפנים בטרם ההעלאה. מפתח הסנכרון הנחוץ לפענוח הנתונים שלך לא יועלה.">
-<!ENTITY syncKeyEntry.label        "מפתח הסנכרון שלך">
-<!ENTITY syncKeyEntry.accesskey    "מ">
+<!-- My Recovery Key dialog -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "ל־&brandShortName; אכפת בנוגע לפרטיות שלך">
+<!ENTITY setup.newRecoveryKeyPage.description.label "כדי לדאוג שפרטיותך לא תיפגע, כל הנתונים שלך מוצפנים בטרם ההעלאה. מפתח השחזור הנחוץ לפענוח הנתונים שלך לא יועלה.">
+<!ENTITY recoveryKeyEntry.label        "מפתח השחזור שלך">
+<!ENTITY recoveryKeyEntry.accesskey    "מ">
 <!ENTITY syncGenerateNewKey.label  "יצירת מפתח חדש">
-<!ENTITY syncKeyBackup.description "מפתח הסנכרון שלך דרוש כדי לגשת אל &syncBrand.fullName.label; במחשבים אחרים. אנא צור עותק גיבוי. לא נוכל לסייע לך לשחזר את מפתח הסנכרון שלך.">
+<!ENTITY recoveryKeyBackup.description "מפתח השחזור שלך דרוש כדי לגשת אל &syncBrand.fullName.label; במחשבים אחרים. אנא צור עותק גיבוי. לא נוכל לסייע לך לשחזר את מפתח השחזור שלך.">
 
 <!ENTITY button.syncKeyBackup.print.label     "הדפסה...">
 <!ENTITY button.syncKeyBackup.print.accesskey "ה">
 <!ENTITY button.syncKeyBackup.save.label      "שמירה…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "ש">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "נא אשר שאינך רובוט">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "הוסף התקן">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "שייך התקן">
 <!ENTITY addDevice.showMeHow.label          "הראה לי כיצד.">
 <!ENTITY addDevice.dontHaveDevice.label     "אין לי את ההתקן איתי">
-<!ENTITY addDevice.setup.description.label  "להפעלה, עבור אל האפשרויות של &syncBrand.shortName.label; בהתקן האחר ובחר &#x0022;הוספת התקן&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "כדי להפעיל, בחר &#x0022;שייך התקן&#x0022; בהתקן האחר שלך.">
 <!ENTITY addDevice.setup.enterCode.label    "לאחר מכן, הקלד את הקוד הבא:">
-<!ENTITY addDevice.dialog.description.label "להפעלת ההתקן החדש שלך, עבור למסך האפשרויות של &syncBrand.shortName.label; בהתקן ובחר &#x0022;התחברות&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "כדי להפעיל את ההתקן החדש שלך עליך לבחור ב־&#x0022;הגדרת Sync&#x0022; בהתקן.">
 <!ENTITY addDevice.dialog.enterCode.label   "הקלד את הקוד שההתקן מספק:">
 <!ENTITY addDevice.dialog.tryAgain.label    "נא לנסות שנית.">
 <!ENTITY addDevice.dialog.successful.label  "ההתקן התווסף בהצלחה. השלמת הסנכרון הראשוני יכולה לקחת מספר דקות ותסתיים ברקע.">
-<!ENTITY addDevice.dialog.syncKey.label     "כדי להפעיל את ההתקן שלך יש צורך להקליד את מפתח הסינכרון. נא להדפיס או לשמור את המפתח ולקחת אותו איתך.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "כדי להפעיל את ההתקן שלך יהיה צור להקליד את מפתח השחזור. נא להדפיס או לשמור את המפתח הזה ולקחת אותו עמך.">
 <!ENTITY addDevice.dialog.connected.label   "ההתקן מחובר">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "התחברות">
-<!ENTITY existingSyncKey.description "ניתן לקבל עותק של מפתח הסנכרון במסך האפשרויות של &syncBrand.shortName.label; בהתקן, ובחירה באפשרות &#x0022;מפתח הסנכרון שלי&#x0022; תחת &#x0022;ניהול חשבון&#x0022;.">
+<!ENTITY existingRecoveryKey.description "ניתן לקבל עותק של מפתח השחזור במסך האפשרויות של &syncBrand.shortName.label; בהתקן ובחירה באפשרות &#x0022;מפתח השחזור שלי&#x0022; תחת &#x0022;ניהול חשבון&#x0022;.">
 <!ENTITY verifying.label              "מאמת…">
 <!ENTITY resetPassword.label          "אפס סיסמה">
 <!ENTITY resetSyncKey.label           "איבדתי את ההתקן הנוסף שלי.">
@@ -91,6 +92,8 @@
 <!ENTITY engine.passwords.accesskey "ס">
 <!ENTITY engine.prefs.label         "העדפות">
 <!ENTITY engine.prefs.accesskey     "ה">
+<!ENTITY engine.addons.label        "תוספות">
+<!ENTITY engine.addons.accesskey    "ת">
 
 <!ENTITY choice2.merge.main.label      "מיזוג נתוני מחשב זה עם נתוני ה־&syncBrand.shortName.label; שלי">
 <!ENTITY choice2.merge.recommended.label "מומלץ:">
@@ -108,3 +111,4 @@
 <!ENTITY setup.successPage.title "ההתקנה הושלמה">
 <!ENTITY changeOptions.label "ניתן לשנות העדפה זו על ידי בחירה באפשרויות הסנכרון להלן.">
 <!ENTITY continueUsing.label "כעת תוכל להמשיך להשתמש ב־&brandShortName;.">
+

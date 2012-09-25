@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "עזרה">
 <!ENTITY helpMenu.accesskey "ע">
@@ -8,7 +24,7 @@
 <!ENTITY helpTroubleshootingInfo.label     "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey "מ">
 <!ENTITY helpSafeMode.label     "הפעלה מחדש עם תוספות מנוטרלות…">
-<!ENTITY helpSafeMode.accesskey "ה">
+<!ENTITY helpSafeMode.accesskey "מ">
 <!ENTITY releaseCmd2.label "הערות שחרור">
 <!ENTITY releaseCmd2.accesskey "ה">
 <!ENTITY whatsNewCmd.label "מה חדש">
@@ -24,3 +40,4 @@
 
 <!ENTITY aboutMenuCmd.label "אודות &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "א">
+

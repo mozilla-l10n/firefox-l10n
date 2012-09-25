@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY editMenu.label            "עריכה">
 <!ENTITY editMenu.accesskey        "ע">
 <!ENTITY undoCmd.label             "בטל">
@@ -17,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "ה">
 <!ENTITY deleteCmd.label           "מחק">
 <!ENTITY deleteCmd.accesskey       "מ">
-<!ENTITY selectAllCmd.label        "בחר הכל">
+<!ENTITY selectAllCmd.label        "בחר הכול">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "ב">
 <!ENTITY findCmd.label             "חפש">
@@ -29,3 +33,4 @@
 <!ENTITY findAgainCmd.accesskey    "ש">
 <!ENTITY findPreviousCmd.label     "מצא את הקודם">
 <!ENTITY findPreviousCmd.accesskey "v">
+

@@ -1,3 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
+#
+-->
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "הגדרות חשבון">
@@ -11,6 +28,7 @@
 <!ENTITY email.accesskey "ד">
 <!ENTITY replyTo.label "כתובת לתשובה:">
 <!ENTITY replyTo.accesskey "ת">
+<!ENTITY replyTo.placeholder "ממוענים יגיבו לכתובת חלופית זו">
 <!ENTITY organization.label "ארגון:">
 <!ENTITY organization.accesskey "א">
 <!ENTITY signatureText.label "טקסט לחתימה:">
@@ -35,3 +53,4 @@
 <!ENTITY smtpName.label "שרת דואר יוצא (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "השתמש בשרת ברירת המחדל">
+

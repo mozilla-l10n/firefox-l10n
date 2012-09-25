@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY itemGeneral.label                   "כללי">
 <!ENTITY itemAutoComplete.label              "מיעון">
 <!ENTITY itemSpellCheck.label                "איות">
@@ -55,3 +71,4 @@
 <!ENTITY attachmentReminder.accesskey          "ח">
 <!ENTITY attachmentReminderOptions.label       "מילות מפתח…">
 <!ENTITY attachmentReminderOptions.accesskey   "מ">
+

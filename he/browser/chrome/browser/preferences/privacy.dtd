@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "מעקב">
 
 <!ENTITY doNotTrack.label               "אמור לאתרים כי אין ברצוני שיעקבו אחרי">
@@ -15,14 +19,13 @@
 <!ENTITY  locbar.bookmarks.label        "סימניות">
 <!ENTITY  locbar.nothing.label          "שום דבר">
 
+<!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
+<!ENTITY  acceptCookies.accesskey       "ק">
 
-<!ENTITY  acceptCookies.label           "קבל עוגיות מאתרים">
-<!ENTITY  acceptCookies.accesskey       "ע">
-
-<!ENTITY  acceptThirdParty.label        "קבל עוגיות צד־שלישי">
+<!ENTITY  acceptThirdParty.label        "קבלת עוגיות צד־שלישי">
 <!ENTITY  acceptThirdParty.accesskey    "ש">
 
-<!ENTITY  keepUntil.label               "שמור עד ש:">
+<!ENTITY  keepUntil.label               "שמירה עד ש:">
 <!ENTITY  keepUntil.accesskey           "מ">
 
 <!ENTITY  expire.label                  "הן פגות">
@@ -61,20 +64,18 @@
 <!ENTITY  dontrememberActions.clearHistory.label "לנקות את כל ההיסטוריה הנוכחית">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "השתמש תמיד במצב גלישה פרטית">
+<!ENTITY  privateBrowsingPermanent2.label "שימוש תמידי במצב גלישה פרטית">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ה">
 
-<!ENTITY  rememberHistory.label      "שמור את היסטורית הגלישה שלי">
-<!ENTITY  rememberHistory.accesskey  "ש">
+<!ENTITY  rememberHistory2.label      "שמירת היסטורית גלישה והורדות">
+<!ENTITY  rememberHistory2.accesskey  "ג">
 
-<!ENTITY  rememberDownload.label         "זכור היסטורית הורדות">
-<!ENTITY  rememberDownload.accesskey     "ז">
-
-<!ENTITY  rememberSearchForm.label       "זכור חיפושים והיסטורית טפסים">
+<!ENTITY  rememberSearchForm.label       "שמירת חיפושים והיסטורית טפסים">
 <!ENTITY  rememberSearchForm.accesskey   "ט">
 
-<!ENTITY  clearOnClose.label             "מחק היסטוריה כאשר &brandShortName; נסגר">
+<!ENTITY  clearOnClose.label             "מחיקת היסטוריה כאשר &brandShortName; נסגר">
 <!ENTITY  clearOnClose.accesskey         "נ">
 
 <!ENTITY  clearOnCloseSettings.label     "הגדרות…">
 <!ENTITY  clearOnCloseSettings.accesskey "ה">
+

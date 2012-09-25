@@ -1,3 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "חבר הודעה: (ללא נושא)">
 
@@ -16,6 +33,7 @@
 <!ENTITY attachMenu.accesskey "ר">
 <!ENTITY attachFileCmd.label "קובץ (קבצים)…">
 <!ENTITY attachFileCmd.accesskey "ק">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "דף אינטרנט…">
 <!ENTITY attachPageCmd.accesskey "א">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,12 +85,14 @@
 <!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "מחק">
 <!ENTITY deleteCmd.accesskey "ח">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "שינוי שם קובץ מצורף…">
+<!ENTITY renameAttachmentCmd.accesskey "ש">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב"> 
 <!ENTITY findCmd.label "מצא והחלף…">
@@ -92,6 +112,8 @@
 <!ENTITY viewMenu.accesskey "ת">
 <!ENTITY viewToolbarsMenuNew.label "סרגלי כלים"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "כ"> 
+<!ENTITY menubarCmd.label "סרגל תפריטים">
+<!ENTITY menubarCmd.accesskey "ת">
 <!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
 <!ENTITY showCompositionToolbarCmd.accesskey "כ">
 <!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
@@ -175,7 +197,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "מזער">
-<!ENTITY bringAllToFront.label "הבא הכל לקידמה">
+<!ENTITY bringAllToFront.label "הבא הכול לקדמה">
 <!ENTITY zoomWindow.label "הגדל חלון"> 
 <!ENTITY windowMenu.label "חלון">
 
@@ -215,7 +237,7 @@
 <!ENTITY subject.accesskey "נ">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "מ">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "הכנס פרצוף מחייך">
@@ -261,7 +283,7 @@
 <!ENTITY removeAttachment.accesskey "מ">
 <!ENTITY renameAttachment.label "שנה שם…">
 <!ENTITY renameAttachment.accesskey "ש">
-<!ENTITY selectAll.label "בחר הכל">
+<!ENTITY selectAll.label "בחר הכול">
 <!ENTITY selectAll.accesskey "ב">
 <!ENTITY attachFile.label "צירוף קובץ או קבצים)…">
 <!ENTITY attachFile.accesskey "ק">
@@ -274,4 +296,5 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "אנשי קשר">
+
 

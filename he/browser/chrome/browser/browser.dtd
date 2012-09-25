@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -77,6 +81,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "כניסה למסך מלא">
+<!ENTITY enterFullScreenCmd.accesskey "מ">
+<!ENTITY exitFullScreenCmd.label "יציאה ממסך מלא">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "מסך מלא">
 <!ENTITY fullScreenCmd.accesskey "ס">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -90,6 +100,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "ה">
 <!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
 <!ENTITY fullScreenExit.accesskey "צ">
+<!ENTITY fullscreenAllowButton.label "אפשר">
+<!ENTITY fullscreenExitButton.label "דחה">
+<!ENTITY fullscreenApproval.value "אפשר מסך מלא?">
+
+<!ENTITY fullscreenExitHint.value "נא ללחוץ ESC בכל עת על־מנת לצאת ממצב מסך מלא.">
+<!ENTITY leaveDOMFullScreen.label "יציאה ממסך מלא">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "סגור חלון">
 <!ENTITY closeWindow.accesskey "ס">
@@ -98,6 +115,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "ס">
 <!ENTITY bookmarkThisPageCmd.label "צור סימנייה לדף זה">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "הירשם לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
@@ -111,6 +129,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "קדימה">
 <!ENTITY forwardCmd.accesskey         "ק">
 <!ENTITY forwardButton.tooltip        "התקדם דף אחד קדימה">
+<!ENTITY backForwardButtonMenu.tooltip "לחיצה ימנית או משיכה מטה כדי להציג היסטוריה">
+<!ENTITY backForwardButtonMenuMac.tooltip "משיכה מטה כדי להציג היסטוריה">
 <!ENTITY reloadCmd.label              "טען מחדש">
 <!ENTITY reloadCmd.accesskey          "ט">
 <!ENTITY reloadButton.tooltip         "טען מחדש דף נוכחי">
@@ -192,6 +212,13 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "ח">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "חקירת אלמנט">
+<!ENTITY inspectContextMenu.accesskey "ח">
+
+<!ENTITY responsiveDesignTool.label   "תצוגת עיצוב רספונסיבי">
+<!ENTITY responsiveDesignTool.accesskey "ר">
+<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -207,9 +234,51 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "חקור">
-<!ENTITY inspectButton.accesskey      "ח">
+<!ENTITY inspectCloseButton.tooltiptext "סגור את החוקר">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "סגירת סרגל כלים מפתחים">
+<!ENTITY devToolbarMenu.label              "סרגל כלים מפתחים">
+<!ENTITY devToolbarMenu.accesskey          "ס">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+
+<!ENTITY webConsoleButton.label "מסוף רשת">
+<!ENTITY inspectorButton.label "חוקר">
+
+<!ENTITY inspectorHTMLCopyInner.label       "העתקת HTML פנימי">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "פ">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "העתקת HTML חיצוני">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "ח">
+
+<!ENTITY inspectorHTMLDelete.label          "מחיקת צומת">
+<!ENTITY inspectorHTMLDelete.accesskey      "צ">
+
+<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
+  -  toolbar.  -->
+<!ENTITY inspectOptionButton.tooltiptext    "אפשרויות חוקר">
+
+<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
+<!ENTITY inspectorToggleVeil.label          "החשכת הדף">
+<!ENTITY inspectorToggleVeil.accesskey      "ח">
+<!ENTITY inspectorToggleInfobar.label       "הצגת מידע צומת">
+<!ENTITY inspectorToggleInfobar.accesskey   "צ">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "תצוגת תלת מימד">
+<!ENTITY inspect3DViewButton.accesskey "ת">
+
+<!ENTITY inspectStyleButton.label     "סגנון">
+<!ENTITY inspectStyleButton.accesskey "ס">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "עורך סגנון">
+<!ENTITY styleeditor.accesskey        "ס">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "קבלת כלים נוספים">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ק">
@@ -222,25 +291,25 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "עריכה"> 
 <!ENTITY editMenu.accesskey       "ע"> 
-<!ENTITY undoCmd.label            "בטל">  
+<!ENTITY undoCmd.label            "ביטול">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "ט"> 
-<!ENTITY redoCmd.label            "בצע שוב">  
+<!ENTITY redoCmd.label            "ביצוע שוב">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "צ"> 
-<!ENTITY cutCmd.label           "גזור">  
+<!ENTITY cutCmd.label           "גזירה">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ג"> 
-<!ENTITY copyCmd.label            "העתק">  
+<!ENTITY copyCmd.label            "העתקה">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "ת"> 
-<!ENTITY pasteCmd.label           "הדבק">  
+<!ENTITY pasteCmd.label           "הדבקה">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "ה"> 
-<!ENTITY deleteCmd.label          "מחק">  
+<!ENTITY deleteCmd.label          "מחיקה">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "ח"> 
-<!ENTITY selectAllCmd.label         "בחר הכל">  
+<!ENTITY selectAllCmd.label         "בחירת הכול">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ב"> 
 <!ENTITY preferencesCmd2.label       "אפשרויות">
@@ -248,13 +317,13 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey     "ד"> 
 
-<!ENTITY clearRecentHistory.label               "נקה היסטוריה אחרונה…">
+<!ENTITY clearRecentHistory.label               "ניקוי היסטוריה אחרונה…">
 <!ENTITY clearRecentHistory.accesskey           "נ">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "התחל גלישה פרטית">
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "התחלת גלישה פרטית">
 <!ENTITY privateBrowsingCmd.start.accesskey     "ג">
-<!ENTITY privateBrowsingCmd.stop.label          "הפסק גלישה פרטית">
+<!ENTITY privateBrowsingCmd.stop.label          "הפסקת גלישה פרטית">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "ג">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -308,6 +377,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +388,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -368,8 +439,8 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
 <!ENTITY bookmarkThisFrameCmd.label      "צור סימנייה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
-<!ENTITY sendPageCmd.label            "שלח דף...">
-<!ENTITY sendPageCmd.accesskey        "ל">
+<!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
+<!ENTITY emailPageCmd.accesskey       "ק">
 <!ENTITY savePageCmd.label            "שמור דף בשם...">
 <!ENTITY savePageCmd.accesskey        "ר">
 <!-- alternate for content area context menu -->
@@ -381,20 +452,18 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "ה">
 <!ENTITY saveLinkCmd.label            "שמור קישור בשם...">
 <!ENTITY saveLinkCmd.accesskey        "מ">
-<!ENTITY sendLinkCmd.label            "שלח קישור..."> 
-<!ENTITY sendLinkCmd.accesskey        "ש">
 <!ENTITY saveImageCmd.label           "שמור תמונה בשם...">
 <!ENTITY saveImageCmd.accesskey       "ב">
 <!ENTITY saveVideoCmd.label           "שמור וידאו בשם…">
 <!ENTITY saveVideoCmd.accesskey       "מ">
 <!ENTITY saveAudioCmd.label           "שמור אודיו בשם…">
 <!ENTITY saveAudioCmd.accesskey       "מ">
-<!ENTITY sendImageCmd.label           "שלח תמונה...">
-<!ENTITY sendImageCmd.accesskey       "נ">
-<!ENTITY sendVideoCmd.label           "שלח וידאו…">
-<!ENTITY sendVideoCmd.accesskey       "ל">
-<!ENTITY sendAudioCmd.label           "שלח אודיו…">
-<!ENTITY sendAudioCmd.accesskey       "ל">
+<!ENTITY emailImageCmd.label          "שליחת תמונה בדוא״ל…">
+<!ENTITY emailImageCmd.accesskey      "ת">
+<!ENTITY emailVideoCmd.label          "שליחת וידאו בדוא״ל…">
+<!ENTITY emailVideoCmd.accesskey      "ו">
+<!ENTITY emailAudioCmd.label          "שליחת אודיו בדוא״ל…">
+<!ENTITY emailAudioCmd.accesskey      "א">
 <!ENTITY copyLinkCmd.label            "העתק מיקום קישור">
 <!ENTITY copyLinkCmd.accesskey        "ה">
 <!ENTITY copyImageCmd.label           "העתק מיקום התמונה">
@@ -411,21 +480,38 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "ג">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "נגן">
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "ניגון">
 <!ENTITY mediaPlay.accesskey         "נ">
 <!ENTITY mediaPause.label            "השהה">
 <!ENTITY mediaPause.accesskey        "ה">
-<!ENTITY mediaMute.label             "השתק">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "השתקה">
 <!ENTITY mediaMute.accesskey         "ש">
 <!ENTITY mediaUnmute.label           "בטל השתקה">
 <!ENTITY mediaUnmute.accesskey       "ש">
-<!ENTITY mediaShowControls.label     "הצג פקדים">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "הצגת פקדים">
 <!ENTITY mediaShowControls.accesskey "פ">
 <!ENTITY mediaHideControls.label     "הסתר פקדים">
 <!ENTITY mediaHideControls.accesskey "פ">
 <!ENTITY videoFullScreen.label       "מסך מלא">
 <!ENTITY videoFullScreen.accesskey   "מ">
-
+<!ENTITY videoSaveImage.label        "שמור צילום בשם…">
+<!ENTITY videoSaveImage.accesskey    "צ">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "הצגת סטטיסטיקה">
+<!ENTITY videoShowStats.accesskey    "צ">
+<!ENTITY videoHideStats.label        "הסתר סטטיסטיקות">
+<!ENTITY videoHideStats.accesskey    "ס">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -557,3 +643,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "סגירת שורת התוספות">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "סימון">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "ס">
+
+<!ENTITY socialToolbar.title        "כפתור סרגל כלים חברתי">
+<!ENTITY social.notLoggedIn.label   "לא מחובר">
+
+<!ENTITY social.sharePopup.undo.label     "ביטול שיתוף">
+<!ENTITY social.sharePopup.undo.accesskey "ב">
+<!ENTITY social.sharePopup.ok.label       "אישור">
+<!ENTITY social.sharePopup.ok.accesskey   "א">
+

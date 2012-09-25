@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.cache.title "מטמון">
 <!ENTITY pref.cache.caption "קבע אפשרויות מטמון">
 <!ENTITY cachePara 'המטמון שומר עותקים של דפים בהם אתה מבקר לעיתים קרובות על הדיסק הקשיח שלך. (לחיצה על "טעינה מחדש" תמיד מראה לך את הגרסה האחרונה של דף.)'>
@@ -9,7 +13,7 @@
 <!ENTITY clearDiskCache.accesskey "נ">
 <!ENTITY chooseDiskCacheFolder.label "בחר תיקייה...">
 <!ENTITY chooseDiskCacheFolder.accesskey "ח">
-<!ENTITY diskCacheFolderExplanation "קבצי מטמון יאוחסנו בתת‏־תיקייה של התיקייה שתציין בשם &quot;Cache&quot;. אתחל את &brandShortName; כדי שהשינויים יכנסו לתוקף.">
+<!ENTITY diskCacheFolderExplanation "קובצי מטמון יאוחסנו בתת‏־תיקייה של התיקייה שתציין בשם &quot;Cache&quot;. אתחל את &brandShortName; כדי שהשינויים יכנסו לתוקף.">
 <!ENTITY docCache "השווה את הדף במטמון לדף ברשת:">
 <!ENTITY oncePsessionRadio.label "פעם אחת בהפעלה">
 <!ENTITY oncePsessionRadio.accesskey "א">

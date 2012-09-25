@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY caption.label "פותח את #1">
 <!ENTITY intro.label "הקובץ &quot;#3&quot; הוא מסוג #2 ‏(#1), ו־ #4 אינו יודע כיצד לטפל בקובץ מסוג זה. מיקום הקובץ הוא:">
 <!ENTITY intro.noDesc.label "הקובץ &quot;#3&quot; הוא מסוג #2, ו־ #4 אינו יודע כיצד לטפל בקובץ מסוג זה. מיקום הקובץ הוא:">
