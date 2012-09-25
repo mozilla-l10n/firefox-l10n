@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "Om skräppost">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "E-postklienten upptäcker automatiskt inkommande meddelanden som ger intryck av att vara skräppost (även kallat spam). Meddelanden som e-postklienten klassar som skräppost kommer att indikeras med en skräppostikon">
