@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Hartu-agiriak">
 <!ENTITY useGlobalPrefs.label         "Erabili nire hartu-agirien hobespen orokorrak kontu honetan">
 <!ENTITY useGlobalPrefs.accesskey     "E">
+<!ENTITY globalReceipts.label         "Hobespen orokorrak…">
+<!ENTITY globalReceipts.accesskey     "o">
 <!ENTITY useCustomPrefs.label         "Pertsonalizatu kontu honen hartu-agiriak">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Eskatu beti hartu-agiria mezuak bidaltzean">

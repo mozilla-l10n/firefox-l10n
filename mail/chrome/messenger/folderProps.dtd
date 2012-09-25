@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "Kuota-erroa:">
 <!ENTITY folderQuotaUsage.label                  "Erabilera:">
 <!ENTITY folderQuotaStatus.label                 "Egoera:">
+
+<!ENTITY numberOfMessages.label                  "Mezu kopurua:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "ezezaguna">
+<!ENTITY sizeOnDisk.label                        "Tamaina diskoan:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "ezezaguna">

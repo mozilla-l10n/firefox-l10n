@@ -8,7 +8,7 @@
 <!-- Tools menu -->
 
 
-<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.preferencesLabel "Calendar">
 <!-- New menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.new.event.label    "Gertaera…">
@@ -40,7 +40,7 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "Mezu honek gertaera bati gonbidapena du.">
+<!ENTITY lightning.imipbar.description "Mezu honek gertaera bateko gonbidapena du.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">

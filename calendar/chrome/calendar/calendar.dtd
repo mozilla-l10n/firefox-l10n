@@ -309,7 +309,7 @@
 <!ENTITY calendarproperties.name.label                     "Izena:">
 <!ENTITY calendarproperties.readonly.label                 "Irakurketa soilekoa">
 <!ENTITY calendarproperties.firealarms.label               "Erakutsi gogorarazleak">
-<!ENTITY calendarproperties.cache2.label                   "Cache-a">
+<!ENTITY calendarproperties.cache3.label                   "Lineaz kanpoko laguntza">
 <!ENTITY calendarproperties.enabled.label                  "Aldatu egutegi hau:">
 <!ENTITY calendarproperties.forceDisabled.label            "Egutegi honen hornitzailea ezin da aurkitu. Gehigarri jakin batzuk ezgaitu edo desintalatu dituzulako izan daiteke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Eten harpidetza">
