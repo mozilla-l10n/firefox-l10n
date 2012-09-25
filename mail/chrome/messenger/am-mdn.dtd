@@ -5,6 +5,8 @@
 <!ENTITY pane.title "Ricevute di ritorno">
 <!ENTITY useGlobalPrefs.label "Per questo account utilizza le preferenze globali">
 <!ENTITY useGlobalPrefs.accesskey "u">
+<!ENTITY globalReceipts.label "Preferenze globali…">
+<!ENTITY globalReceipts.accesskey "G">
 <!ENTITY useCustomPrefs.label "Personalizza le opzioni per le ricevute di ritorno di questo account">
 <!ENTITY useCustomPrefs.accesskey "P">
 <!ENTITY requestReceipt.label "Quando si spediscono i messaggi chiedi sempre la Ricevuta di ritorno">

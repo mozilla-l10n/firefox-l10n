@@ -468,6 +468,8 @@
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "d">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Cancella la cronologia recente…">
+<!ENTITY clearRecentHistory.accesskey "c">
 <!ENTITY accountManagerCmd.label "Impostazioni account…">
 <!ENTITY accountManagerCmd.accesskey "p">
 <!ENTITY accountManagerCmdUnix.accesskey "u">
@@ -480,10 +482,10 @@
 <!ENTITY fileButton.label "Sposta in">
 <!ENTITY archiveButton.label "Archivia">
 <!ENTITY nextButton.label "Successivo">
-<!ENTITY nextButtonToolbarItem.label "successivo non letto">
-<!ENTITY nextMsgButton.label "Avanti">
+<!ENTITY nextButtonToolbarItem.label "Successivo non letto">
+<!ENTITY nextMsgButton.label "Sucessivo">
 <!ENTITY previousButton.label "Precedente">
-<!ENTITY previousButtonToolbarItem.label "Messaggio precedente non letto">
+<!ENTITY previousButtonToolbarItem.label "Precedente non letto">
 <!ENTITY previousMsgButton.label "Precedente">
 <!ENTITY backButton1.label "Indietro">
 <!ENTITY goForwardButton1.label "Avanti">
@@ -505,6 +507,7 @@
 <!ENTITY folderLocationToolbarItem.title "Posizione cartella">
 <!ENTITY tagButton.label "Etichetta">
 <!ENTITY compactButton.label "Compatta">
+<!ENTITY appmenuButton.label "AppMenu">
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
 <!ENTITY getMsgButton.tooltip "Scarica nuovi messaggi">
 <!ENTITY getAllNewMsgCmd.label "Scarica tutti i nuovi messaggi">
@@ -519,7 +522,7 @@
 <!ENTITY nextButton.tooltip "Vai al messaggio successivo non letto">
 <!ENTITY nextMsgButton.tooltip "Passa al messaggio successivo">
 <!ENTITY previousButton.tooltip "Vai al precedente messaggio non letto ">
-<!ENTITY previousMsgButton.tooltip "Sposta al messaggio precedente">
+<!ENTITY previousMsgButton.tooltip "Vai al messaggio precedente">
 <!ENTITY goForwardButton.tooltip "Avanti di un messaggio">
 <!ENTITY goBackButton.tooltip "Indietro di un messaggio">
 <!ENTITY deleteButton.tooltip "Elimina i messaggi o le cartelle selezionate">
@@ -533,6 +536,12 @@
 <!ENTITY chatButton.tooltip "Mostra scheda della chat">
 <!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
+<!ENTITY appmenuButton.tooltip "Mostra il menu applicazione">
+<!ENTITY appmenuNewMsgCmd.label "Nuovo messaggio">
+<!ENTITY appmenuNewContactCmd.label "Contatto rubrica…">
+<!ENTITY appmenuEditMenu.label "Modifica">
+<!ENTITY appmenuQFBMenu.label "Barra filtro veloce">
+<!ENTITY appmenuToolbarLayout.label "Personalizza barra degli strumenti…">
 <!ENTITY addNewTag.label "Nuova etichetta…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Gestisci i Tag…">
