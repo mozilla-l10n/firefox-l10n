@@ -581,7 +581,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Zobraziť kartu Konverzácie">
 <!ENTITY tagButton.tooltip "Priradiť k správe popis">
 <!ENTITY compactButton.tooltip "Odstrániť vymazané správy z označeného priečinka">
-<!ENTITY appmenuButton.tooltip "Zobrazí hlavnú ponuku aplikácie">
+<!ENTITY appmenuButton.tooltip "Zobraziť hlavnú ponuku aplikácie">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová správa">
