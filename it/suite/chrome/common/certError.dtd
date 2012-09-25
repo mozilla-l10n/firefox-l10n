@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY certerror.pagetitle "Connessione non verificata">
 <!ENTITY certerror.longpagetitle "Questa connessione non è verificata">
 <!ENTITY certerror.introPara1 "Hai chiesto a &brandShortName; di connettersi in modo sicuro a <b>#1</b>, ma non possiamo confermare che la connessione sia sicura.">

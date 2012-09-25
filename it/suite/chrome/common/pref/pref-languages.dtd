@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY languages.customize.prefLangDescript "Le pagine web sono a volte disponibili in più lingue. Scegliere le lingue con cui mostrare le pagine web, in ordine di preferenza.">
 <!ENTITY languages.customize.title "Lingue">
 <!ENTITY langtitle.label "Lingue per le pagine web">
