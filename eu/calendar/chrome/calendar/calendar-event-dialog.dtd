@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Aukerak">
 <!ENTITY  event.menu.options.accesskey                        "A">
-<!ENTITY  event.menu.options.attachments.label                "Erantsi web-orria…">
-<!ENTITY  event.menu.options.attachments.accesskey            "w">
 <!ENTITY  event.menu.options.attendees.label                  "Gonbidatu partaideak…">
 <!ENTITY  event.menu.options.attendees.accesskey              "G">
 <!ENTITY  event.menu.options.spellcheck.label                 "Egiaztaketa ortografikoa…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Gonbidatu partaideak">
 <!ENTITY  event.toolbar.spellcheck.label                  "Ortografia">
 <!ENTITY  event.toolbar.privacy.label                     "Pribatutasuna">
-<!ENTITY  event.toolbar.attachments.label                 "Erantsi">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Izenburua:" >
@@ -180,6 +177,10 @@
 <!ENTITY event.description.accesskey                      "D">
 <!ENTITY event.attachments.label                          "Eranskinak:" >
 <!ENTITY event.attachments.accesskey                      "r" >
+<!ENTITY event.attachments.menubutton.label               "Erantsi">
+<!ENTITY event.attachments.menubutton.accesskey           "E">
+<!ENTITY event.attachments.url.label                      "Web orria…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Kendu" >
 <!ENTITY event.attachments.popup.remove.accesskey         "K" >
 <!ENTITY event.attachments.popup.open.label               "Ireki" >
@@ -328,6 +329,10 @@
 <!ENTITY event.attendee.role.optional           "Aukerazkoa bertaratzea">
 <!ENTITY event.attendee.role.chair              "Mahaiburu">
 <!ENTITY event.attendee.role.nonparticipant     "Partaiderik ez">
+<!ENTITY event.attendee.usertype.individual     "Norbanakoa">
+<!ENTITY event.attendee.usertype.group          "Taldea">
+<!ENTITY event.attendee.usertype.resource       "Baliabidea">
+<!ENTITY event.attendee.usertype.room           "Gela">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Mesedez zehaztu ordu-zonaldea">

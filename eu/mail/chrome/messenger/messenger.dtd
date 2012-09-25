@@ -508,6 +508,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Errore-kontsola">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Garbitu azkenaldiko historia…">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd.label "Posta eta berri-taldeen kontu-ezarpenak…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -549,6 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Karpetaren kokapena">
 <!ENTITY tagButton.label "Etiketa">
 <!ENTITY compactButton.label "Trinkoa">
+<!ENTITY appmenuButton.label "AplMenua">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Mezuen bilaketa aurreratua">
@@ -579,10 +582,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Erakutsi txataren fitxa">
 <!ENTITY tagButton.tooltip "Etiketatu mezuak">
 <!ENTITY compactButton.tooltip "Kendu ezabatutako mezuak hautatutako karpetatik">
+<!ENTITY appmenuButton.tooltip "Aplikazioen menua bistaratzen du">
+<!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "Mezu berria">
+<!ENTITY appmenuNewContactCmd.label "Helbide-liburuko kontaktua…">
+<!ENTITY appmenuEditMenu.label "Editatu">
+<!ENTITY appmenuQFBMenu.label "Iragazki bizkorren barra">
+<!ENTITY appmenuToolbarLayout.label "Tresna-barraren diseinua…">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Etiketa berria…">
 <!ENTITY addNewTag.accesskey "b">
+<!ENTITY manageTags.label "Kudeatu etiketak…">
+<!ENTITY manageTags.accesskey "K">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Izena">

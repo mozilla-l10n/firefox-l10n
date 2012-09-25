@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Egutegiaren tresna-barra">
-<!ENTITY lightning.toolbar.calendar.accesskey "E">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "E">
 <!ENTITY lightning.toolbar.task.name "Zereginen tresna-barra">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "Z">
 
 <!ENTITY lightning.toolbar.sync.label "Sinkronizatu">
 <!ENTITY lightning.toolbar.delete.label "Ezabatu">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Inprimatu">
 <!-- Mode Toolbar -->
 
-<!ENTITY lightning.toolbar.mail.label         "Posta">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Egutegia">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Aldatu egutegiaren fitxara">
 <!ENTITY lightning.toolbar.calendar.accesskey "E">

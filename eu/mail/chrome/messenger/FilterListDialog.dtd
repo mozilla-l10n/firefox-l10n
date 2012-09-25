@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Ezabatu">
 <!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderTopButton "Mugitu gora">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Berrordenatu iragazkia gainontzeko guztien aurretik exekuta dadin">
 <!ENTITY reorderUpButton.label "Eraman gorantz">
 <!ENTITY reorderUpButton.accesskey "g">
 <!ENTITY reorderDownButton.label "Eraman beherantz">
 <!ENTITY reorderDownButton.accesskey "b">
+<!ENTITY reorderBottomButton "Mugitu behera">
+<!ENTITY reorderBottomButton.accessKey "b">
+<!ENTITY reorderBottomButton.toolTip "Berrordenatu iragazkia gainontzekoen ondoren exekuta dadin">
 <!ENTITY filterHeader.label "Gaitutako iragazkiak automatikoki exekutatzen dira, behean erakutsitako ordenan.">
 <!ENTITY filtersForPrefix.label "Honen iragazkiak:">
 <!ENTITY filtersForPrefix.accesskey "H">
@@ -31,3 +37,5 @@
 <!ENTITY helpButton.label "Laguntza">
 <!ENTITY helpButton.accesskey "L">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Bilatu iragazkiak izenearen arabera…">
+

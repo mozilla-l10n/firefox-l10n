@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Arakatu…">
 <!ENTITY browse.accesskey                 "A">
-
-<!ENTITY addonsMgr.label                  "Gehigarriak">
-<!ENTITY manageAddonsDescWin.label        "Aldatu zure gehigarrien aukerak">
-<!ENTITY manageAddonsDescUnix2.label      "Aldatu zure gehigarrien ezarpenak">
-<!ENTITY manageAddons.label               "Kudeatu gehigarriak…">
-<!ENTITY manageAddons.accesskey           "K">

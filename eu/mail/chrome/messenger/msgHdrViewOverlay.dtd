@@ -67,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "I">
 <!ENTITY otherActionsPrint1.label "Inprimatu…">
 <!ENTITY otherActionsPrint1.accesskey "p">
+<!-- Attachment bar context menu items -->
+
+<!ENTITY startExpandedCmd.label    "Erakutsi eranskinen panela hasieran">
+<!ENTITY startExpandedCmd.accesskey    "E">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "Ireki">

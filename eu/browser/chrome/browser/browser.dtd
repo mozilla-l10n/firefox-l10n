@@ -115,6 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "m">
 <!ENTITY bookmarkThisPageCmd.label "Egin orriaren laster-marka">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Harpidetu orri honetara">
 <!ENTITY subscribeToPageMenuitem.label "Harpidetu orri honetara…">
 <!ENTITY addCurPagesCmd.label "Egin fitxa guztien laster-marka…">
@@ -238,11 +239,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Itxi garatzailearen tresna-barra">
 <!ENTITY devToolbarMenu.label              "Garatzailearen tresna-barra">
 <!ENTITY devToolbarMenu.accesskey          "G">
-<!ENTITY devToolbar.commandkey             "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "Tresna gehiago">
 
 <!ENTITY webConsoleButton.label "Web kontsola">
 <!ENTITY inspectorButton.label "Ikuskatzailea">
-<!ENTITY scriptsButton.label "Script-ak">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopiatu barruko HTMLa">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "b">
@@ -252,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "Ezabatu nodoa">
 <!ENTITY inspectorHTMLDelete.accesskey      "E">
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-
-<!ENTITY inspectOptionButton.tooltiptext    "Ikuskatzailearen aukerak">
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-
-<!ENTITY inspectorToggleVeil.label          "Ilundu orria">
-<!ENTITY inspectorToggleVeil.accesskey      "u">
-<!ENTITY inspectorToggleInfobar.label       "Erakutsi nodoaren informazioa">
-<!ENTITY inspectorToggleInfobar.accesskey   "E">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -438,8 +430,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY sendPageCmd.label            "Bidali lotura…">
-<!ENTITY sendPageCmd.accesskey        "i">
+<!ENTITY emailPageCmd.label           "Bidali lotura posta elektronikoz…">
+<!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
@@ -451,20 +443,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Gorde lotura honela…">
 <!ENTITY saveLinkCmd.accesskey        "G">
-<!ENTITY sendLinkCmd.label            "Bidali lotura…"> 
-<!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "Gorde irudia honela…">
 <!ENTITY saveImageCmd.accesskey       "G">
 <!ENTITY saveVideoCmd.label           "Gorde bideoa honela…">
 <!ENTITY saveVideoCmd.accesskey       "b">
 <!ENTITY saveAudioCmd.label           "Gorde audioa honela…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY sendImageCmd.label           "Bidali irudia…">
-<!ENTITY sendImageCmd.accesskey       "d">
-<!ENTITY sendVideoCmd.label           "Bidali bideoa…">
-<!ENTITY sendVideoCmd.accesskey       "d">
-<!ENTITY sendAudioCmd.label           "Bidali audioa…">
-<!ENTITY sendAudioCmd.accesskey       "d">
+<!ENTITY emailImageCmd.label          "Bidali irudia posta elektronikoz…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Bidali bideoa posta elektronikoz…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Bidali audioa posta elektronikoz…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Kopiatu loturaren helbidea">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopiatu irudiaren helbidea">
@@ -654,3 +644,25 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Tresna-barra sozialaren botoia">
+<!ENTITY social.notLoggedIn.label   "Saioa hasi gabe">
+<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
+     used for the "OK" button for two different social panels. One appears when
+     the feature is activated (social.activated.* below), and the other when
+     the user clicks the "Share" button a second time (social.sharePopup.*
+     below). -->
+
+<!ENTITY social.ok.label       "Ados">
+<!ENTITY social.ok.accesskey   "A">
+
+<!ENTITY social.sharePopup.undo.label     "Despartekatu">
+<!ENTITY social.sharePopup.undo.accesskey "D">
+<!ENTITY social.sharePopup.shared.label   "Orri hau partekatu duzu.">
+<!ENTITY social.sharePopup.portrait.arialabel "Erabiltzaile-profilaren argazkia">
+
+<!ENTITY social.toggleSidebar.label "Erakutsi alboko barra">
+<!ENTITY social.toggleSidebar.accesskey "E">
+
+<!ENTITY social.activated.undobutton.label "Desegin">
+<!ENTITY social.activated.undobutton.accesskey "D">
