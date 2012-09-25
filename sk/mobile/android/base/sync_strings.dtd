@@ -48,7 +48,7 @@
 <!ENTITY sync.title.success.label 'Nastavenie dokončené'>
 <!ENTITY sync.subtitle.success.label1 'Vaše údaje sú teraz preberané na pozadí. Ak chcete, môžete si spravovať svoj účet v nastaveniach prehliadača alebo začnite s prehliadaním webu v prehliadači &brandShortName;.'>
 <!ENTITY sync.settings.label 'Nastavenia'>
-<!ENTITY sync.subtitle.manage.label1 'Váš účet služby &syncBrand.fullName.label; je už nastavený. Ak ho chcete spravovať, prejdite do nastavení prehliadača. Inak môžete rovno prehlaidať web.'>
+<!ENTITY sync.subtitle.manage.label1 'Váš účet služby &syncBrand.fullName.label; je už nastavený. Ak ho chcete spravovať, prejdite do nastavení prehliadača. Inak môžete rovno prehliadať web.'>
   
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Skúsiť znova.'>

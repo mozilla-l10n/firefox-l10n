@@ -71,7 +71,7 @@
 <!ENTITY outgoingServer.description "Zadajte názor servera pre odosielanie pošty (SMTP) (napríklad &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Server pre odosielanie pošty:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Zadajte používateľské meno pre odosielanie pošty, ktoré vám poskytol poskytovateľ vašej e-mailovej schránky (zvyšajne býva totožné s menom na príjem pošty).">
+<!ENTITY outgoingUsername.description "Zadajte používateľské meno pre odosielanie pošty, ktoré vám poskytol poskytovateľ vašej e-mailovej schránky (zvyčajne býva totožné s menom na príjem pošty).">
 <!ENTITY outgoingUsername.label "Používateľské meno pre odosielanie:">
 <!ENTITY outgoingUsername.accesskey "o">
 
