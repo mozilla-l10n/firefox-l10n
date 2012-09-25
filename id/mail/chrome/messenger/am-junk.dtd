@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Pengaturan Pesan Junk">
 <!ENTITY trainingWarning.label 'Jika diaktifkan, Anda perlu untuk "melatih" &brandShortName; agar dapat mengidentifikasi email junk dengan menggunakan tombol Junk pada bilah alat untuk menandai apakah pesan merupakan pesan junk. Anda perlu mengidentifikasi mana yang pesan junk dan mana yang bukan.'>
 <!ENTITY level.label "Gunakan kontrol email junk adaptif untuk akun ini">
