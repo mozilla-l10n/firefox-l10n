@@ -91,7 +91,7 @@
 <!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
 <!ENTITY editItemButton.tooltip                         "Upraviť označenú položku">
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
-<!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať chatovať (Instant message - IM)">
+<!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteItemButton.tooltip                       "Odstrániť označenú položku">
 <!ENTITY throbber.tooltip                               "Prejsť na domovskú stránku &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
