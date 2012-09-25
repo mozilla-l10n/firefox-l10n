@@ -10,8 +10,8 @@
 
 <!ENTITY restorepage.tryagainButton "Kembalikan">
 <!ENTITY restorepage.restore.access "K">
-<!ENTITY restorepage.cancelButton   "Mulai Sesi Baru">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.closeButton    "Tutup">
+<!ENTITY restorepage.close.access   "T">
 
 <!ENTITY restorepage.restoreHeader  "Kembalikan Sesi?">
 <!ENTITY restorepage.listHeader     "Judul Jendela dan Tab">
