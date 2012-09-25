@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.policies.title "מדיניות אבטחה">
 <!ENTITY zoneIntro.label "&brandShortName; מאפשר לך ליצור חוקי מדיניות הקובעים איזו גישה יש לאתרים מסוימים לתיפקודים שונים, כולל היבטים של סקריפט ו־Java.">
 <!ENTITY policies.label "מדיניות:">

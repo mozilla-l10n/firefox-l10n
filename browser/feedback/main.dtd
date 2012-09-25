@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!ENTITY testpilot.settings.label                   "הגדרות">
 <!ENTITY testpilot.settings.dataSubmission.label    "שליחת מידע">
@@ -27,7 +31,8 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "הפעל את מבחני הרגלי השימוש">
 <!ENTITY testpilot.feedbackbutton.label                "משוב">
-<!ENTITY testpilot.happy.label        "Firefox משמח אותי בגלל…">
-<!ENTITY testpilot.sad.label          "Firefox מעציב אותי בגלל…">
+<!ENTITY testpilot.happy.label        "Firefox משמח אותי כי…">
+<!ENTITY testpilot.sad.label          "Firefox מעציב אותי כי…">
 <!ENTITY testpilot.broken.label      "דווח על אתר זה כשבור…">
 <!ENTITY testpilot.idea.label        "תנו לנו הצעות…">
+

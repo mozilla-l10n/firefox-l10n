@@ -1,0 +1,54 @@
+<!--
+# Translator(s):
+#
+# hatul <amiadb@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# hatul <amiadb@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "פתח קובץ…">
+<!ENTITY openFileCmd.accesskey "פ">
+<!ENTITY openFileCmd.key "פ">
+<!ENTITY openRemoteCmd.label "פתח כתובת רשת…">
+<!ENTITY openRemoteCmd.accesskey "כ">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "דפים אחרונים">
+<!ENTITY fileRecentMenu.accesskey "ד">
+<!ENTITY saveCmd.label "שמירה">
+<!ENTITY saveCmd.accesskey "ש">
+<!ENTITY saveAsCmd.label "שמירה בשם…">
+<!ENTITY saveAsCmd.accesskey "ב">
+<!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תווים">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "ק">
+<!ENTITY publishCmd.label "פרסם">
+<!ENTITY publishCmd.accesskey "פ">
+<!ENTITY publishCmd.key "פ">
+<!ENTITY publishAsCmd.label "פרסם בתור…">
+<!ENTITY publishAsCmd.accesskey "פ">
+<!ENTITY fileRevert.label "החזר">
+<!ENTITY fileRevert.accesskey "ח">
+
+<!-- Edit menu items -->
+<!ENTITY publishSettings.label "הגדרות פרסום אתר…">
+<!ENTITY publishSettings.accesskey "פ">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "חדש">
+<!ENTITY newToolbarCmd.tooltip "יצירת דף Composer חדש">
+<!ENTITY openToolbarCmd.label "פתיחה">
+<!ENTITY openToolbarCmd.tooltip "פתיחת קובץ מקומי">
+<!ENTITY saveToolbarCmd.tooltip "שמירת קובץ למיקום מקומי">
+<!ENTITY publishToolbarCmd.tooltip "העלאת קובץ למיקום מרוחק">
+

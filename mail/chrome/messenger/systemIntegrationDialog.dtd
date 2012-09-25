@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY systemIntegration.title  "השתלבות במערכת">
+<!ENTITY defaultClient.intro  "השתמש ב־&brandShortName; כלקוח ברירת מחדל עבור:">
+
+<!ENTITY email.label "דואר אלקטרוני">
+<!ENTITY newsgroups.label "קבוצות דיון">
+<!ENTITY feeds.label "הזנות">
+
+<!ENTITY checkOnStartup.label "בצע בדיקה זו בכל הפעלה של &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "כ">
+
+<!ENTITY searchIntegration.label "השתמש ב־&searchIntegration.engineName; כדי לחפש הודעות">
+<!ENTITY searchIntegration.accesskey "ה">
+
+

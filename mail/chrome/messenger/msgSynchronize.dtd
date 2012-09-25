@@ -1,6 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "הורד וסנכרן הודעות">
+<!ENTITY MsgSynchronize.label "הורדה וסנכרון הודעות">
 <!ENTITY MsgSelect.label "פריטים לשימוש לא־מקוון">
 <!ENTITY MsgSyncDesc.label "אם כבר בחרת תיקיות דואר או קבוצות דיון לשימוש לא־מקוון, אתה יכול להוריד ו/או לסנכרן אותם עכשיו. אחרת, השתמש בכפתור &quot;בחירה&quot; לבחירת תיקיות דואר וקבוצות דיון לשימוש לא־מקוון.">
 <!ENTITY MsgSyncDirections.label "הורד ו/או סנכרן את הבאים:">

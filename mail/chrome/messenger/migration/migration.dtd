@@ -1,3 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 
 <!ENTITY migrationWizard.title          "אשף היבוא">
 
@@ -6,8 +23,8 @@
 
 <!ENTITY importFromNothing.label        "אל תייבא דבר">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x או SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ומעלה">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
@@ -27,3 +44,4 @@
 
 <!ENTITY done.title                     "היבוא הושלם">
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">
+

@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!ENTITY aboutSupport.appBasicsAppBuildID "מזהה בניית יישום">
+
+<!ENTITY aboutSupport.accountsTitle "חשבונות דוא״ל וחדשות">
+<!ENTITY aboutSupport.showPrivateData.mainText "הוספת שמות החשבונות">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(מידע שעלול לגרום לזיהוי)">
+<!ENTITY aboutSupport.accountsID "מזהה">
+<!ENTITY aboutSupport.accountsName "שם">
+<!ENTITY aboutSupport.accountsIncomingServer "שרת דואר נכנס">
+<!ENTITY aboutSupport.accountsOutgoingServers "שרתי דואר יוצא">
+<!ENTITY aboutSupport.accountsServerName "שם">
+<!ENTITY aboutSupport.accountsConnSecurity "אבטחת החיבור">
+<!ENTITY aboutSupport.accountsAuthMethod "שיטת האימות">
+<!ENTITY aboutSupport.accountsDefault "בררת מחדל?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "שליחה בדוא״ל">
+
+

@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY window.title "חוקי מסנן">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "שם מסנן:">
@@ -28,6 +44,7 @@
 <!ENTITY forwardTo.label "העבר אל:">
 <!ENTITY replyWithTemplate.label "השב עם תבנית:">
 <!ENTITY markMessageRead.label "סמן כנקרא">
+<!ENTITY markMessageUnread.label "סימון כלא נקרא">
 <!ENTITY markMessageStarred.label "הוסף כוכבית">
 <!ENTITY setPriority.label "קבע עדיפות ל:">
 <!ENTITY addTag.label "סמן הודעה">
@@ -39,3 +56,4 @@
 <!ENTITY ignoreSubthread.label "התעלם מתת שרשור">
 <!ENTITY watchThread.label "עקוב אחר נושא דיון">
 <!ENTITY stopExecution.label "הפסק הפעלת מסננים">
+

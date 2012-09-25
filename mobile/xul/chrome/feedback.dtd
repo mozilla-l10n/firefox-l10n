@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "כלי משוב">
+
+<!ENTITY feedback.communicate.title     "יצירת קשר איתנו!">
+<!ENTITY feedback.feedback.title        "שליחת משוב">
+<!ENTITY feedback.feedback.good         "טוב">
+<!ENTITY feedback.feedback.bad          "רע">
+
+<!ENTITY feedback.tools.title           "כלים">
+<!ENTITY feedback.allowTelemetry.title  "שליחת נתוני ביצועים">
+<!ENTITY feedback.forceCompat.title     "כפיית תאימות תוספות">
+<!ENTITY feedback.errorConsole.title    "אפשור מסוף השגיאות">
+

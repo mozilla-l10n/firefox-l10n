@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY printCmd.commandkey            "p">
 
 <!ENTITY findOnCmd.commandkey           "F">
@@ -12,7 +16,7 @@
 <!ENTITY forwardButton.tooltip          "התקדם דף אחד קדימה">
 <!ENTITY copyCmd.label                  "העתק">
 <!ENTITY copyCmd.accesskey              "ת">
-<!ENTITY selectAllCmd.label             "בחר הכל">
+<!ENTITY selectAllCmd.label             "בחר הכול">
 <!ENTITY selectAllCmd.accesskey         "ב">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
@@ -50,3 +54,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.accesskey    "ר">
 <!ENTITY fullZoomEnlargeBtn.label       "התקרבות">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "ק">
+

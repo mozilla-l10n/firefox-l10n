@@ -1,4 +1,24 @@
-<!ENTITY messengerWindow.title "דואר וקבוצות דיון">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
+# Yaron <sh.yaron@gmail.com>
+# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
+# hatul <amiadb@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
+#
+-->
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -9,9 +29,6 @@
 <!ENTITY closeTabCmd2.accesskey "ס">
 <!ENTITY closeOtherTabsCmd2.label "סגירת לשוניות אחרות">
 <!ENTITY closeOtherTabsCmd2.accesskey "א">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "לשוניות שנסגרו לאחרונה">
 <!ENTITY recentlyClosedTabsCmd.accesskey "נ">
 
@@ -26,8 +43,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "פ">
 <!ENTITY newOtherAccountsCmd.label "חשבונות אחרים…">
 <!ENTITY newOtherAccountsCmd.accesskey "א">
-<!ENTITY newEmailAccountCmd.label "חשבון דואר…">
-<!ENTITY newEmailAccountCmd.accesskey "ד">
+<!ENTITY newCreateEmailAccountCmd.label "קבלת חשבון דואר חדש…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "ח">
+<!ENTITY newExistingEmailAccountCmd.label "חשבון דואר קיים…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "ק">
 <!ENTITY openMessageFileCmd.label "פתח הודעה שמורה…">
 <!ENTITY openMessageFileCmd.accesskey "ת">
 <!ENTITY openAttachmentCmd.label "קבצים מצורפים">
@@ -95,7 +114,7 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "מ">
 <!ENTITY selectMenu.label "בחר">
 <!ENTITY selectMenu.accesskey "ב">
-<!ENTITY all.label "הכל">
+<!ENTITY all.label "הכול">
 <!ENTITY all.accesskey "ה">
 <!ENTITY selectThreadCmd.label "נושא דיון">
 <!ENTITY selectThreadCmd.accesskey "נ">
@@ -114,14 +133,16 @@
 <!ENTITY redoMoveMsgCmd.label "בצע שוב העברת הודעה">
 <!ENTITY undoCopyMsgCmd.label "בטל העתקת הודעה">
 <!ENTITY redoCopyMsgCmd.label "בצע שוב העתקת הודעה">
-<!ENTITY undoMarkAllCmd.label "בטל סמן הכל כנקרא">
-<!ENTITY redoMarkAllCmd.label "בצע שוב סמן הכל כנקרא">
+<!ENTITY undoMarkAllCmd.label "בטל סמן הכול כנקרא">
+<!ENTITY redoMarkAllCmd.label "בצע שוב סמן הכול כנקרא">
 <!ENTITY undoDefaultCmd.label "ביטול פעולה אחרונה">
 <!ENTITY undoDefaultCmd.accesskey "ב">
 <!ENTITY redoDefaultCmd.label "בצע שוב">
 <!ENTITY redoDefaultCmd.accesskey "צ">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "שורת תפריט">
+<!ENTITY menubarCmd.accesskey "ש">
 <!ENTITY showMessengerToolbarCmd.label "סרגל כלים דואר">
 <!ENTITY showMessengerToolbarCmd.accesskey "ס">
 <!ENTITY customizeToolbar.label "התאמה אישית…">
@@ -135,6 +156,8 @@
 <!ENTITY messagePaneWide.accesskey "ח">
 <!ENTITY messagePaneVertical.label "תצוגה אנכית">
 <!ENTITY messagePaneVertical.accesskey "א">
+<!ENTITY showFolderPaneCmd.label "לוח תיקיות">
+<!ENTITY showFolderPaneCmd.accesskey "ת">
 <!ENTITY showMessageCmd.label "חלונית הודעה">
 <!ENTITY showMessageCmd.accesskey "ה">
 
@@ -142,7 +165,7 @@
 <!ENTITY folderView.accesskey "ת">
 <!ENTITY unifiedFolders.label "מאוחד">
 <!ENTITY unifiedFolders.accesskey "א">
-<!ENTITY allFolders.label "הכל">
+<!ENTITY allFolders.label "הכול">
 <!ENTITY allFolders.accesskey "ה">
 <!ENTITY unreadFolders.label "לא נקראה">
 <!ENTITY unreadFolders.accesskey "נ">
@@ -196,7 +219,7 @@
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "נושאי דיון">
 <!ENTITY threads.accesskey "e">
-<!ENTITY allMsgsCmd.label "הכל">
+<!ENTITY allMsgsCmd.label "הכול">
 <!ENTITY allMsgsCmd.accesskey "ה">
 <!ENTITY expandAllThreadsCmd.label "הרחב את כל נושאי הדיון">
 <!ENTITY expandAllThreadsCmd.accesskey "ה">
@@ -215,7 +238,7 @@
 
 <!ENTITY headersMenu.label "כותרות">
 <!ENTITY headersMenu.accesskey "כ">
-<!ENTITY headersAllCmd.label "הכל">
+<!ENTITY headersAllCmd.label "הכול">
 <!ENTITY headersAllCmd.accesskey "ה">
 <!ENTITY headersNormalCmd.label "רגילה">
 <!ENTITY headersNormalCmd.accesskey "ר">
@@ -227,6 +250,8 @@
 <!ENTITY bodySanitized.accesskey "פ">
 <!ENTITY bodyAsPlaintext.label "כטקסט פשוט">
 <!ENTITY bodyAsPlaintext.accesskey "ט">
+<!ENTITY bodyAllParts.label "כל חלקי הגוף">
+<!ENTITY bodyAllParts.accesskey "ג">
 
 <!ENTITY bodyMenuFeed.label "גוף הודעות הזנה בתור">
 <!ENTITY bodyMenuFeed.accesskey "ז">
@@ -270,6 +295,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "קוד מקור ההודעה">
 <!ENTITY pageSourceCmd.accesskey "מ">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "מצא">
@@ -326,6 +353,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "תיקייה זו">
 <!ENTITY thisFolder.accesskey "ז">
 <!ENTITY goRecentlyClosedTabs.label "לשוניות שנסגרו לאחרונה">
+<!ENTITY goRecentlyClosedTabs.accesskey "א">
 <!ENTITY startPageCmd.label "דף הפתיחה">
 <!ENTITY startPageCmd.accesskey "ה">
 
@@ -414,10 +442,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markThreadAsReadCmd.label "נושא כנקרא">
 <!ENTITY markThreadAsReadCmd.accesskey "נ">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "כנקראו מתאריך...">
+<!ENTITY markReadByDateCmd.label "כנקראות מתאריך…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "הכל כנקרא">
+<!ENTITY markAllReadCmd.label "הכול כנקרא">
 <!ENTITY markAllReadCmd.accesskey "ה">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "הוסף כוכבית">
@@ -499,12 +527,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "קודם">
 <!ENTITY backButton1.label "אחורה">
 <!ENTITY goForwardButton1.label "קדימה">
+<!ENTITY deleteItem.title "מחיקה">
 <!ENTITY deleteButton.label "מחק">
 <!ENTITY undeleteButton.label "בטל מחיקה">
 <!ENTITY markButton.label "סמן">
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY stopButton.label "עצור">
 <!ENTITY throbberItem.title "מחוון פעילות">
+<!ENTITY junkItem.title "זבל">
 <!ENTITY junkButton.label "דואר זבל">
 <!ENTITY notJunkButton.label "לא זבל">
 <!ENTITY addressBookButton.label "ספר כתובות">
@@ -575,12 +605,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextUnsubscribe.accesskey "U">
 <!ENTITY folderContextMarkNewsgroupRead.label "סמן קבוצת דיון כנקרא">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "ס">
-<!ENTITY folderContextMarkMailFolderRead.label "סמן תיקייה כנקראה">
+<!ENTITY folderContextMarkMailFolderRead.label "סמן תיקייה כנקראת">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ס">
-<!ENTITY folderContextSubscribe.label "הירשם כמנוי...">
+<!ENTITY folderContextSubscribe.label "הירשם כמנוי…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "חפש...">
-<!ENTITY folderContextSearchMessages.accesskey "ש">
+<!ENTITY folderContextSearchForMessages.label "חיפוש הודעות…">
+<!ENTITY folderContextSearchForMessages.accesskey "ח">
 <!ENTITY folderContextProperties.label "מאפיינים…">
 <!ENTITY folderContextProperties.accesskey "א">
 <!ENTITY folderContextFavoriteFolder.label "תיקייה מועדפת">
@@ -780,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "חיפוש בכל ההודעות… #1">
+<!ENTITY searchAllMessages.label.base "חיפוש… #1">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -862,4 +892,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.label      "הסתר אחרים">
 <!ENTITY hideOtherAppsCmdMac.commandkey "א">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "הצג הכל">
+<!ENTITY showAllAppsCmdMac.label        "הצג הכול">
+

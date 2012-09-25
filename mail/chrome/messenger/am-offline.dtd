@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "כדי לחסוך שטח דיסק, אל תוריד:">
 <!ENTITY doNotDownloadNntp.label "כדי לשמור שטח דיסק, אל תוריד לשימוש לא־מקוון:">
 <!ENTITY doNotDownloadImap.label "כדי לשמור שטח דיסק, הורדת הודעות מהשרת ושמירת עותקים מקומיים לשימוש לא מקוון יכולים להיות מוגבלים לפי גיל או גודל הודעה">
@@ -21,7 +25,7 @@
 <!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
-<!ENTITY retentionKeepRecent.label "מחק הכל מלבד">
+<!ENTITY retentionKeepRecent.label "מחק הכול מלבד">
 <!ENTITY retentionKeepRecent.accesskey "מ">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "מחק תמיד הודעות שנקראו (עוקף הגדרות גיל)">
@@ -52,3 +56,4 @@
 <!ENTITY monthAgeInterval.label          "חודשים">
 <!ENTITY yearAgeInterval.label           "שנים">
 <!ENTITY ageAutosyncAfter.label          "">
+

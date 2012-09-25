@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY popupWindowRejectCmd.label "מנע חלונות קופצים מאתר זה">
 <!ENTITY popupWindowRejectCmd.accesskey "מ">
 <!ENTITY popupWindowAllowCmd.label "אפשר חלונות קופצים מאתר זה">
@@ -69,7 +73,7 @@
 <!ENTITY saveImageCmd.accesskey "ש">
 <!ENTITY copyCmd.label "העתק">
 <!ENTITY copyCmd.accesskey "ה">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.accesskey "ב">
 <!ENTITY copyLinkCmd.label "העתק מיקום קישור">
 <!ENTITY copyLinkCmd.accesskey "ע">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--null-->
 <!ENTITY window.title "about:config">
 <!ENTITY scaryWarningTitle.label "היזהר!">
@@ -6,7 +10,7 @@
 <!ENTITY scaryWarningCheckbox.label "הראה אזהרה זו בפעם הבאה">
 <!ENTITY filterPrefs.label "מסנן:">
 <!ENTITY filterPrefs.accesskey "מ">
-<!ENTITY showAll.label "הצג הכל">
+<!ENTITY showAll.label "הצג הכול">
 <!ENTITY showAll.accesskey "ה">
 <!ENTITY prefColumn.label "שם העדפה">
 <!ENTITY lockColumn.label "מצב">

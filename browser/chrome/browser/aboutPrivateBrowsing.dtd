@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY privatebrowsingpage.title                 "גלישה פרטית">
 <!ENTITY privatebrowsingpage.title.normal          "האם ברצונך להתחיל גלישה פרטית?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; לא יזכור היסטוריה כלשהי בהפעלה זו.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; לא נמצא כעת במצב גלישה פרטית.">
 
-<!ENTITY privatebrowsingpage.description               "בהפעלה במצב גלישה פרטית, &brandShortName; לא ישמור את היסטורית דפדפן כלשהי, היסטורית חיפוש, היסטורית הורדות, היסטורית טפסים, עוגיות, או קבצי אינטרנט זמניים. למרות זאת, קבצים שתוריד וסימניות שתיצור ישמרו.">
+<!ENTITY privatebrowsingpage.description               "בהפעלה במצב גלישה פרטית, &brandShortName; לא ישמור את היסטורית דפדפן כלשהי, היסטורית חיפוש, היסטורית הורדות, היסטורית טפסים, עוגיות, או קובצי אינטרנט זמניים. למרות זאת, קבצים שתוריד וסימניות שתיצור ישמרו.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -22,3 +26,4 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "למרות שמחשב זה לא ישמור את היסטורית הגלישה שלך, ספק שירותי האינטרנט שלך או המעסיק עדיין יוכלו לעקוב אחר הדפים שאתה מבקר בהם.">
 <!ENTITY privatebrowsingpage.learnMore                 "מידע נוסף">
+

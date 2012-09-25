@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY sanitizePrefs2.title          "הגדרות למחיקת היסטוריה">
 <!ENTITY sanitizeDialog2.title         "מחיקת היסטוריה אחרונה">
 
@@ -13,7 +17,7 @@
 <!ENTITY clearTimeDuration.last2Hours     "שעתיים אחרונות">
 <!ENTITY clearTimeDuration.last4Hours     "4 שעות אחרונות">
 <!ENTITY clearTimeDuration.today          "היום">
-<!ENTITY clearTimeDuration.everything     "הכל">
+<!ENTITY clearTimeDuration.everything     "הכול">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -38,7 +42,7 @@ that require it.  -->
 <!ENTITY itemBrowsingHistory.accesskey     "ה">
 <!ENTITY itemFormSearchHistory.label       "היסטורית טפסים וחיפוש">
 <!ENTITY itemFormSearchHistory.accesskey   "ט">
-<!ENTITY itemPasswords.label               "סיסמאות שמורות">
+<!ENTITY itemPasswords.label               "ססמאות שמורות">
 <!ENTITY itemPasswords.accesskey           "ס">
 <!ENTITY itemCookies.label                 "עוגיות">
 <!ENTITY itemCookies.accesskey             "ע">
@@ -60,3 +64,4 @@ that require it.  -->
 
 <!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">
+

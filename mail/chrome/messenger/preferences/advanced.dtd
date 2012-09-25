@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY itemGeneral.label       "כללי">
 <!ENTITY itemDisplay.label       "קריאה ותצוגה">
 <!ENTITY itemUpdate.label        "עדכון">
@@ -6,6 +22,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "שליחת נתוני ביצועים">
+<!ENTITY submitTelemetry.accesskey     "ב">
+<!ENTITY telemetryInfoLink.label       "מידע נוסף על Telemetry">
 <!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
 <!ENTITY enableGlodaSearch.accesskey   "ח">
 <!ENTITY systemIntegration.label       "השתלבות במערכת">
@@ -28,7 +47,7 @@
 <!ENTITY showCondensedAddresses.label  "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
 <!ENTITY showCondensedAddresses.accesskey "צ">
 
-<!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראו">
+<!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראות">
 <!ENTITY autoMarkAsRead.accesskey      "א">
 <!ENTITY markAsReadNoDelay.label       "מיד עם הצגתה">
 <!ENTITY markAsReadNoDelay.accesskey   "מ">
@@ -106,3 +125,4 @@
 <!ENTITY validation.accesskey           "א">
 <!ENTITY viewSecurityDevices.label      "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey  "ה">
+

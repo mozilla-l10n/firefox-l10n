@@ -1,3 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  fontsAndEncodingsDialog.title           "גופנים וקידודים">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
@@ -74,3 +91,4 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "נ">
 <!ENTITY replyInDefaultCharset2.label     "במידת האפשר, עשה שימוש בקידוד ברירת המחדל בתשובות">
 <!ENTITY replyInDefaultCharset2.accesskey "ש">
+

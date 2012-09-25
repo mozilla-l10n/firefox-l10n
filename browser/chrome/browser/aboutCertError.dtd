@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
@@ -26,3 +30,4 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "הוסף חריגה…">
 
 <!ENTITY certerror.technical.heading "פרטים טכניים">
+

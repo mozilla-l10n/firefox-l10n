@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY notificationsDialog2.title       "התאם אישית התראת דואר חדש">
 <!ENTITY window.width                     "30em">
 
@@ -8,4 +24,5 @@
 <!ENTITY subject.accesskey                "נ">
 <!ENTITY sender.label                     "שולח">
 <!ENTITY sender.accesskey                 "ש">
+
 

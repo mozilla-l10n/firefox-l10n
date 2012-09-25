@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  connectionsDialog.title       "הגדרות חיבור">
 <!ENTITY  window.width                   "46em">
 
@@ -35,3 +51,4 @@
 <!ENTITY  noproxyExplain.label          "דוגמה: mozilla.org,‏ .net.il, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
 <!ENTITY  shareproxy.accesskey          "כ">
+
