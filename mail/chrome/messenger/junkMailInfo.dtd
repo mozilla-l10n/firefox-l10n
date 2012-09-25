@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "Tentang Email Junk">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; secara otomatis mendeteksi email masuk yang tampak sebagai email junk (juga dikenal sebagai spam). Pesan yang &brandShortName; dianggap sebagai junk akan ditampilkan dengan ikon junk">
