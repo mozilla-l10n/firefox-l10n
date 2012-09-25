@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Programma di miglioramento dell'esperienza con ChatZilla">
 <!ENTITY window.size "width: 42em;">
 <!ENTITY intro.label "Il Progamma di miglioramento dell'esperienza ChatZilla raccoglie informazioni sul tuo utilizzo di ChatZilla, senza darti fastidio. Ciò aiuta gli sviluppatori ad identificare quali funzioni di ChatZilla devono essere migliorate. Nessuna informazione viene utilizzata per identificarti o contattarti.">
