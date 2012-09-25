@@ -55,6 +55,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Aksesibilitas">
 <!ENTITY aboutSupport.a11yActivated "Diaktifkan">
 
+<!ENTITY aboutSupport.a11yTitle "Aksesibilitas">
+<!ENTITY aboutSupport.a11yActivated "Aktif">
+<!ENTITY aboutSupport.a11yForceDisabled "Aksesibilitas Dicegah">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Versi Pustaka">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Riwayat Instalasi">
