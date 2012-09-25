@@ -63,6 +63,8 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Stampa…">
 <!ENTITY otherActionsPrint1.accesskey "S">
+<!ENTITY startExpandedCmd.label "Mostrare il pannello degli allegati dall'inizio">
+<!ENTITY startExpandedCmd.accesskey "M">
 <!ENTITY openAttachmentCmd.label "Apri">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsAttachmentCmd.label "Salva come…">

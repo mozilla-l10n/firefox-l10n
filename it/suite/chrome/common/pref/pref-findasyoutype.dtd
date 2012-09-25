@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Cerca quanto digitato">
 <!ENTITY findAsYouTypeBehavior.label "Cerca quanto digitato">
 <!ENTITY findAsYouTypeTip.label "Suggerimento: per avviare manualmente la ricerca durante la digitazione, premere il tasto / per cercare nel testo o il tasto ' per cercare nei collegamenti, seguito dal testo da cercare.">

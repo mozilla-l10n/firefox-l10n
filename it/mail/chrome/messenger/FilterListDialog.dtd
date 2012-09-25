@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "M">
 <!ENTITY deleteButton.label "Elimina">
 <!ENTITY deleteButton.accesskey "E">
+<!ENTITY reorderTopButton "Sposta in cima">
+<!ENTITY reorderTopButton.accessKey "m">
+<!ENTITY reorderTopButton.toolTip "Impostare questo filtro in modo che venga eseguito prima degli altri">
 <!ENTITY reorderUpButton.label "Sposta su">
 <!ENTITY reorderUpButton.accesskey "S">
 <!ENTITY reorderDownButton.label "Sposta giù">
 <!ENTITY reorderDownButton.accesskey "g">
+<!ENTITY reorderBottomButton "Sposta in basso">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Impostare questo filtro in modo che venga eseguito dopo gli altri">
 <!ENTITY filterHeader.label "I filtri attivati vengono eseguiti automaticamente nel seguente ordine.">
 <!ENTITY filtersForPrefix.label "Filtri per:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -31,3 +37,4 @@
 <!ENTITY helpButton.label "?">
 <!ENTITY helpButton.accesskey "?">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Cerca filtri per nome…">

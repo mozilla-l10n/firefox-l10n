@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY restorepage.tabtitle "Ripristino della sessione">
 <!ENTITY restorepage.pagetitle "Ripristinare la tua sessione?">
 <!ENTITY restorepage.issueDesc "La tua precedente sessione di &brandShortName; si è chiusa inaspettatamente. Ci dispiace molto per l'inconveniente. Puoi ripristinare le schede e le finestre della sessione precedente, o iniziarne una nuova se non ne hai più bisogno.">
