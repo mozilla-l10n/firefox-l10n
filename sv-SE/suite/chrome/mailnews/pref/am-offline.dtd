@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "För att spara diskutrymme, hämta inte:">
 <!ENTITY doNotDownloadNntp.label "För att spara diskutrymme, hämta inte meddelande för användning nedkopplad:">
 <!ENTITY doNotDownloadImap.label "För att spara diskutrymme kan hämtningen av meddelanden från servern och bevarandet av lokala kopior för användning nedkopplad begränsas med ålder eller storlek.">

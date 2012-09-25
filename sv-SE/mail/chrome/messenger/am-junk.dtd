@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Skräppost">
 <!ENTITY trainingWarning.label "Om du vill aktivera detta måste du först träna upp &brandShortName; i att identifiera skräppost genom att använda knappen Skräppost i verktygsfältet för att märka meddelanden som skräp eller inte skräp. Du behöver identifiera både sådant som är skräp och sådant som inte är skräp.">
 <!ENTITY level.label "Aktivera skräppost-kontroll">
