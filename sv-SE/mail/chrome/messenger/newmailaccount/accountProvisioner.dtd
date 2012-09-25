@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Välkommen till &brandShortName;">
 <!ENTITY header.label "Vill du ha en ny e-postadress för &brandShortName;?">
 <!ENTITY other.languages "Vi visar endast de adressleverantörer som finns för ditt område.  Klicka här för att visa alla leverantörer.">
