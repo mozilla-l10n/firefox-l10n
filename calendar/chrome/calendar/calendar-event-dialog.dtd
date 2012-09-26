@@ -145,6 +145,7 @@
 <!ENTITY event.toolbar.delete.label "Slet">
 <!ENTITY event.toolbar.attendees.label "Inviter deltagere">
 <!ENTITY event.toolbar.spellcheck.label "Stavekontrol">
+<!ENTITY  event.toolbar.privacy.label "Privatliv">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label "Titel:">
@@ -335,10 +336,10 @@
 <!ENTITY event.attendee.role.optional "Ikke-nødvendig deltager">
 <!ENTITY event.attendee.role.chair "Mødeleder">
 <!ENTITY event.attendee.role.nonparticipant "Deltager ikke">
-<!ENTITY event.attendee.usertype.individual     "Individuel">
+<!ENTITY event.attendee.usertype.individual     "Person">
 <!ENTITY event.attendee.usertype.group          "Gruppe">
 <!ENTITY event.attendee.usertype.resource       "Ressource">
-<!ENTITY event.attendee.usertype.room           "Rum">
+<!ENTITY event.attendee.usertype.room           "Lokale">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Angiv tidszone">
