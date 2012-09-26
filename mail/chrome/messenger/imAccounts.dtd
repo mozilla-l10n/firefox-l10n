@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountsWindow.title                "Състояние на незабавните съобщения">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
+<!ENTITY accountManager.newAccount.label     "Нова сметка">
+<!ENTITY accountManager.newAccount.accesskey "Н">
+<!ENTITY accountManager.close.label          "Затваряне">
+<!ENTITY accountManager.close.accesskey      "З">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Не е настроена сметка">
+<!ENTITY accountManager.noAccount.description "Щракнете на бутона &accountManager.newAccount.label; и оставете &brandShortName; да ви води в процеса на настройка.">
+<!ENTITY account.autoSignOn.label     "Вписване при пускане">
+<!ENTITY account.autoSignOn.accesskey "В">
+<!ENTITY account.connect.label        "Свързване">
+<!ENTITY account.connect.accesskey    "С">
+<!ENTITY account.disconnect.label     "Изключване">
+<!ENTITY account.disconnect.accesskey "И">
+<!ENTITY account.edit.label           "Свойства">
+<!ENTITY account.edit.accesskey       "С">
+<!ENTITY account.moveup.label         "Преместване нагоре">
+<!ENTITY account.movedown.label       "Преместване надолу">
+<!ENTITY account.cancelReconnection.label         "Прекъсване на свързването наново">
+<!ENTITY account.cancelReconnection.accesskey     "П">
+<!ENTITY account.connecting           "Свързване…">
+<!ENTITY account.disconnecting        "Изключване…">
+<!ENTITY account.disconnected         "Няма свързване">

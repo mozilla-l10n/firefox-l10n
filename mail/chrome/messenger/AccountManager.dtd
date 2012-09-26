@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from AccountManager.xul -->
+
 
 <!ENTITY accountManagerTitle.label "Настройки на регистрация">
 
@@ -6,6 +10,8 @@
 <!ENTITY accountActionsButton.accesskey "р">
 <!ENTITY addMailAccountButton.label "Добавяне на пощенска регистрация…">
 <!ENTITY addMailAccountButton.accesskey "Д">
+<!ENTITY addIMAccountButton.label "Добавяне на сметка за разговор…">
+<!ENTITY addIMAccountButton.accesskey "р">
 <!ENTITY addOtherAccountButton.label "Добавяне на друга регистрация…">
 <!ENTITY addOtherAccountButton.accesskey "у">
 <!ENTITY setDefaultButton.label "По подразбиране">

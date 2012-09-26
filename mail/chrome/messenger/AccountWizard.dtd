@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Entities for AccountWizard -->
+
 
 <!ENTITY windowTitle.label "Помощник за регистрация">
 <!ENTITY accountWizard.size "width: 50em; height: 38em;">
@@ -31,23 +35,11 @@
 
 <!ENTITY emailLabel.label "Адрес на е-поща:">
 <!ENTITY emailLabel.accesskey "А">
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
 
-<!ENTITY serverTitle.label "Информация за сървър">
+<!ENTITY incomingTitle.label "Информация за входящия сървър">
 <!ENTITY incomingServerTypeDesc.label "Изберете какъв вид входящ сървър ще използвате.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Въведете името на входящия сървър (например: &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Входящ сървър:">
-<!ENTITY incomingServerLabel.accesskey "В">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Въведете името на новинарския сървър (NNTP) (например: &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Въведете името на изходящия сървър (SMTP) (например: &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "Изходящ сървър:">
-<!ENTITY smtpServerLabel.accesskey "И">
-<!ENTITY newsServerLabel.label "Сървър на дискусионна група:">
-<!ENTITY newsServerLabel.accesskey "С">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -56,42 +48,56 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Запазване съобщенията на сървъра">
 <!ENTITY leaveMsgsOnSrvr.accesskey "З">
-<!ENTITY portNum.label "Port:">
-<!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Default:">
+<!ENTITY portNum.label "Порт:">
+<!ENTITY portNum.accesskey "о">
+<!ENTITY defaultPortLabel.label "По подразбиране:">
 <!ENTITY defaultPortValue.label "">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Въведете името на входящия сървър (например: &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Входящ сървър:">
+<!ENTITY incomingServer.accesskey "В">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Въведете потребителското име, дадено ви от доставчика на поща (напр „jsmith“).">
+<!ENTITY incomingUsername.label "Потребителско име">
+<!ENTITY incomingUsername.accesskey "П">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Въведете името на новинарския сървър (NNTP) (например: &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "Сървър на дискусионна група:">
+<!ENTITY newsServerLabel.accesskey "С">
+<!-- Entities for Outgoing Server page -->
+
+
+<!ENTITY outgoingTitle.label "Информация за изходящия сървър">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Въведете името на изходящия сървър (SMTP) (например: &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Изходящ сървър:">
+<!ENTITY outgoingServer.accesskey "И">
+<!ENTITY outgoingUsername.description "Въведете потребителското име, дадено ви от доставчика на пощенска услуга, за изходящия сървър (обикновено е същото като входящото потребителско име).">
+<!ENTITY outgoingUsername.label "Изходящо потребителско име:">
+<!ENTITY outgoingUsername.accesskey "И">
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-
+<!ENTITY modifyOutgoing.suffix "Можете да промените изходящия сървър в настройките на регистрацията.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
 <!ENTITY haveSmtp1.prefix "Ще бъде използван вашият съществуващ изходящ сървър (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;. Изходящите сървъри могат да бъдат променени в настройките на регистрацията.">
-<!-- Entities for Login page -->
-
-
-<!ENTITY loginTitle.label "Потребителски имена">
-<!ENTITY usernameDesc.label "Въведете входящото потребителско име, дадено ви от доставчика на пощенски услуги">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(например, &quot;ipetrov&quot;).">
-<!ENTITY usernameLabel.label "Входящо потребителско име:">
-<!ENTITY usernameLabel.accesskey "В">
-<!ENTITY usernameSmtpDesc.label "Въведете потребителското име, дадено ви от доставчика на пощенска услуга, за изходящия сървър (обикновено е същото като входящото потребителско име).">
-<!ENTITY usernameSmtpLabel.label "Изходящо потребителско име:">
-<!ENTITY usernameSmtpLabel.accesskey "И">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ще бъде използвано вашето съществуващо изходящо (SMTP) потребителско име,  &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;. Изходящите сървъри могат да бъдат променени в настройките на регистрацията.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, ще бъде използвано.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Вашия изходящ (SMTP) сървър &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot; е еднакъв с входящия сървър. Входящото потребителско име ще бъде използвано за достъп. Изходящите сървъри могат да бъдат променени в настройките на регистрацията.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, е идентичен с входящия сървър, входящото потребителско име може да се използва за достъп.">
 <!-- Entities for Account name page -->
 
 

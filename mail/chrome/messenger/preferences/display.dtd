@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemFormatting.label             "Форматиране">
 <!ENTITY itemTags.label                   "Етикети">
 
@@ -7,8 +11,8 @@
 <!ENTITY bold.label                       "Удебелен">
 <!ENTITY italic.label                     "Курсив">
 <!ENTITY boldItalic.label                 "Удебелен курсив">
-<!ENTITY size.label                       "Размер:">
-<!ENTITY size.accesskey                   "м">
+<!ENTITY size.label                       "Големина:">
+<!ENTITY size.accesskey                   "Г">
 <!ENTITY regularSize.label                "Стандартен">
 <!ENTITY bigger.label                     "По-голям">
 <!ENTITY smaller.label                    "По-малък">

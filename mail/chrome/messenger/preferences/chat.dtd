@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  startupAction.label         "Когато се пуска &brandShortName;:">
+<!ENTITY  startupAction.accesskey     "п">
+<!ENTITY  startupOffline.label        "Сметките ми за разговори да са офлайн">
+<!ENTITY  startupConnectAuto.label    "Автоматично свързване на сметките ми за разговори">
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+
+<!ENTITY  reportIdleAfter.label         "Нека контактите ми знаят, че съм далеч след">
+<!ENTITY  reportIdleAfter.accesskey     "ч">
+<!ENTITY  idleTime                      "минути неактивност">
+
+<!ENTITY  andSetStatusToAway.label      "и задай състоянието ми на Далеч със следното съобщение за състоянието:">
+<!ENTITY  andSetStatusToAway.accesskey  "ч">
+
+<!ENTITY  sendTyping.label              "Изпращане на уводомявания за писане по време на разговор">
+<!ENTITY  sendTyping.accesskey          "п">
