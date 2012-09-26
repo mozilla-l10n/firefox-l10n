@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY MsgSynchronize.label "Hent og synkroniser meddelelser">
 <!ENTITY MsgSelect.label "Elementer til anvendelse offline">
 <!ENTITY MsgSyncDesc.label "Hvis du allerede har valgt mailmapper eller nyhedsgrupper til anvendelse offline, kan du hente og/eller synkronisere dem nu. Ellers brug &quot;Vælg&quot; knappen til at vælge mailmapper og nyhedsgrupper til anvendelse offline.">
