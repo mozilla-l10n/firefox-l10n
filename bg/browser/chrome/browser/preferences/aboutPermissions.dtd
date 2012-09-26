@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY permissionsManager.title        "Управление на права">
 
 <!ENTITY sites.search                    "Търсене на сайтове">
@@ -27,9 +31,13 @@
 <!ENTITY cookie.removeAll                "Премахване на всички бисквитки">
 
 <!ENTITY geo.label                       "Споделяне на местоположение">
+
+<!ENTITY plugins.label                   "Приставки">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
 <!ENTITY indexedDB.label                 "Поддържане на хранилище за работа без връзка">
 
 <!ENTITY popup.label                     "Отваряне на изскачащи прозорци">
+
+<!ENTITY fullscreen.label                "Цял екран">

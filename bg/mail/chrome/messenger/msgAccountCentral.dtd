@@ -1,20 +1,24 @@
-<!ENTITY emailSectionHdr.label        "Електронна поща"> 
-<!ENTITY readMsgsLink.label           "Четене на писма"> 
-<!ENTITY composeMsgLink.label         "Писане на ново писмо"> 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newsSectionHdr.label         "Дискусионни групи"> 
-<!ENTITY subscribeNewsLink.label      "Управление на абонирането за дискусионни групи"> 
+<!ENTITY emailSectionHdr.label        "Електронна поща">
+<!ENTITY readMsgsLink.label           "Четене на писма">
+<!ENTITY composeMsgLink.label         "Писане на ново писмо">
 
-<!ENTITY accountsSectionHdr.label     "Регистрации"> 
-<!ENTITY subscribeImapFolders.label   "Управление на абонирането за папка">
-<!ENTITY settingsLink.label           "Преглед настройките на регистрацията"> 
-<!ENTITY newAcctLink.label            "Създаване на нова регистрация"> 
-
-<!ENTITY advFeaturesSectionHdr.label  "Допълнителни възможности"> 
-<!ENTITY searchMsgsLink.label         "Търсене на писма"> 
-<!ENTITY filtersLink.label            "Управление на филтрирането">
-<!ENTITY junkSettings.label           "Настройки за нежелана поща">
-<!ENTITY offlineLink.label            "Настройки за работа без мрежа">
+<!ENTITY newsSectionHdr.label         "Дискусионни групи">
+<!ENTITY subscribeNewsLink.label      "Управление на абонирането за дискусионни групи">
 
 <!ENTITY feedsSectionHdr.label        "Емисии">
 <!ENTITY subscribeFeeds.label         "Управление на абониранията">
+
+<!ENTITY accountsSectionHdr.label     "Регистрации">
+<!ENTITY subscribeImapFolders.label   "Управление на абонирането за папка">
+<!ENTITY settingsLink.label           "Преглед настройките на регистрацията">
+<!ENTITY newAcctLink.label            "Създаване на нова регистрация">
+
+<!ENTITY advFeaturesSectionHdr.label  "Допълнителни възможности">
+<!ENTITY searchMsgsLink.label         "Търсене на писма">
+<!ENTITY filtersLink.label            "Управление на филтрирането">
+<!ENTITY junkSettings.label           "Настройки за нежелана поща">
+<!ENTITY offlineLink.label            "Настройки за работа без мрежа">

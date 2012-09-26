@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Добре дошли в &brandShortName;">
-<!ENTITY header.label "Искате нов пощенски адрес за &brandShortName;?">
+<!ENTITY header2.label "Желаете ли нов мейл адрес?">
 <!ENTITY other.languages "Изобразени са само доставчиците, които предлагат адреси във вашия район. Натиснете тук, за да се покажат всички доставчици.">
 <!ENTITY error.line1 "За съжаление не са открити никакви предложени адреси.">
 <!ENTITY error.line2 "Можете да опитате търсене по прякори или някакъв друг термин, за да откриетеповече е-пощенски адреси.">
