@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -237,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-
+<!ENTITY devToolbarOtherToolsButton.label  "เครื่องมืออื่น">
 
 <!ENTITY webConsoleButton.label "เว็บคอนโซล">
 <!ENTITY inspectorButton.label "ตัวตรวจดู">
@@ -250,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  
 <!ENTITY inspectorHTMLDelete.label          "ลบโหนด">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
-
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "ตัวเลือกตัวตรวจดู">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "ลดความสว่างหน้าเว็บ">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "แสดงข้อมูลโหนด">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -643,7 +637,21 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "ปุ่มแถบเครื่องมือสังคม">
 <!ENTITY social.notLoggedIn.label   "ไม่ได้ล็อกอิน">
 
+<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
+     used for the "OK" button for two different social panels. One appears when
+     the feature is activated (social.activated.* below), and the other when
+     the user clicks the "Share" button a second time (social.sharePopup.*
+     below). -->
+<!ENTITY social.ok.label       "ตกลง">
+<!ENTITY social.ok.accesskey   "ต">
+
 <!ENTITY social.sharePopup.undo.label     "เลิกแบ่งปัน">
 <!ENTITY social.sharePopup.undo.accesskey "ล">
-<!ENTITY social.sharePopup.ok.label       "ตกลง">
-<!ENTITY social.sharePopup.ok.accesskey   "ต">
+<!ENTITY social.sharePopup.shared.label   "คุณแบ่งปันหน้านี้">
+<!ENTITY social.sharePopup.portrait.arialabel "ภาพโพรไฟล์ผู้ใช้">
+
+<!ENTITY social.toggleSidebar.label "แสดงแถบข้าง">
+<!ENTITY social.toggleSidebar.accesskey "ถ">
+
+<!ENTITY social.activated.undobutton.label "เรียกคืน">
+<!ENTITY social.activated.undobutton.accesskey "ค">

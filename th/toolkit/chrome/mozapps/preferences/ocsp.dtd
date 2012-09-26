@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY ocspDialog.title "ตรวจสอบความถูกต้องของใบรับรอง">
 <!ENTITY enableOCSP.label "ใช้โพรโทคอลสถานะใบรับรองออนไลน์ (OCSP) เพื่อยืนยันความถูกต้องของใบรับรองหนังสือรับรองนี้">
 <!ENTITY enableOCSP.accesskey "ช">
