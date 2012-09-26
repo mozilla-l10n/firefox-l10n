@@ -12,6 +12,13 @@
      -->
 <!ENTITY downloads.title                  "การดาวน์โหลด">
 
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel list items, expressed using a CSS unit.  The
+     longest labels that should fit in the item width are usually those of
+     in-progress downloads and those of blocked downloads.
+     -->
+<!ENTITY downloads.width                  "65ch">
+
 <!ENTITY cmd.pause.label                  "หยุดชั่วคราว">
 <!ENTITY cmd.pause.accesskey              "ห">
 <!ENTITY cmd.resume.label                 "โหลดต่อ">
@@ -36,6 +43,3 @@
 <!ENTITY cmd.removeFromList.accesskey     "ล">
 <!ENTITY cmd.clearList.label              "ล้างรายการ">
 <!ENTITY cmd.clearList.accesskey          "ร">
-
-<!ENTITY downloadshistory.label           "แสดงการดาวน์โหลดทั้งหมด">
-<!ENTITY downloadshistory.accesskey       "S">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "พบข้อสงสัยว่าจะเป็นเว็บหลอกลวง">
 
 <!ENTITY safeb.palm.message.p1 "หน้าเว็บนี้ถูกรายงานว่าเป็นเว็บปลอมแปลงที่จะพยายามหลอกให้ผู้ใช้เปิดเผยข้อมูลส่วนบุคคล หรือข้อมูลธุรกรรมทางการเงิน การป้อนข้อมูลส่วนตัวให้กับเว็บไซต์นี้ อาจทำให้ถูกขโมยอัตลักษณ์หรือหลอกลวงอื่นได้ &#160;">

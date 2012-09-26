@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "กุญแจ &syncBrand.fullName.label; ของคุณ">
 <!ENTITY syncKey.page.description         "กุญแจนี้ถูกใช้ในการเข้ารหัสข้อมูลสำหรับบัญชี &syncBrand.fullName.label; ของคุณ คุณจะต้องใช้กุญแจนี้ทุกครั้งที่ตั้งค่า &syncBrand.fullName.label; บนคอมพิวเตอร์หรืออุปกรณ์อื่น">
 <!ENTITY syncKey.keepItSecret.heading     "เก็บไว้เป็นความลับ">
