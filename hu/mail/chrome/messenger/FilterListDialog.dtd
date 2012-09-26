@@ -21,11 +21,11 @@
 <!ENTITY viewLogButton.label "Szűrőnapló">
 <!ENTITY viewLogButton.accesskey "n">
 <!ENTITY runFilters.label "Futtatás most">
-<!ENTITY runFilters.accesskey "F">
+<!ENTITY runFilters.accesskey "u">
 <!ENTITY stopFilters.label "Leállítás">
-<!ENTITY stopFilters.accesskey "L">
+<!ENTITY stopFilters.accesskey "e">
 <!ENTITY folderPickerPrefix.label "Kijelölt szűrők futtatása ezen a mappán:">
-<!ENTITY folderPickerPrefix.accesskey "f">
+<!ENTITY folderPickerPrefix.accesskey "K">
 <!ENTITY choosethis.label "mappa kiválasztása">
 <!ENTITY choosethisnewsserver.label "hírkiszolgáló kiválasztása">
 <!ENTITY helpButton.label "Súgó">
