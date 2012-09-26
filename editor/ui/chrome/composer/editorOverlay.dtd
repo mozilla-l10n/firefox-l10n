@@ -304,7 +304,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Insérer une ancre nommée ou modifier les propriétés de l'ancre sélectionnée">
 <!ENTITY TextColorButton.tooltip "Choisir la couleur du texte">
 <!ENTITY BackgroundColorButton.tooltip "Choisir une couleur pour le fond">
-<!ENTITY throbber.tooltip "Visiter le site Web de &vendorShortName;">
+<!ENTITY throbber.tooltip "Visiter le site web de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Choisir la mise en couleur pour le texte">
 
 <!-- editor toolbar -->
