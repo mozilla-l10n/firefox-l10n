@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "HTML-meddelelses spørgsmål">
 <!ENTITY recipient.label "Nogle af modtagerne er ikke opført som i stand til at læse HTML-mail">
 <!ENTITY question.label "Skal meddelelsen konverteres til ren tekst eller sendes som HTML alligevel?">

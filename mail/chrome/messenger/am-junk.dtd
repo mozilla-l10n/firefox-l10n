@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Spam-indstillinger">
 <!ENTITY trainingDescription.label "Hvis funktionen aktiveres, skal &brandShortName; først lære at identificere spam ved, at du benytter spam-knapperne til at markere, hvilke meddelelser som er spam og ikke-spam. Herefter vil &brandShortName; være i stand til automatisk at markere spam.">
 <!ENTITY level.label "Aktiver evalueringsfilter mod spam for denne konto">
