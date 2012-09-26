@@ -188,7 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY search.label                 "Rechercher sur le Web">
 <!ENTITY search.accesskey             "c">
 <!ENTITY downloads.label              "Téléchargements">
-<!ENTITY downloads.tooltip            "Affiche la progression des téléchargements en cours">
+<!ENTITY downloads.tooltip            "Afficher la progression des téléchargements en cours">
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
