@@ -243,9 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
 
-<!ENTITY webConsoleButton.label "Console web">
-<!ENTITY inspectorButton.label "Inspecteur">
-
 <!ENTITY inspectorHTMLCopyInner.label       "Copier innerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "C">
 
