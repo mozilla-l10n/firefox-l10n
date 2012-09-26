@@ -1,6 +1,0 @@
-<!ENTITY junkLog.title "Журнал за нежеланата поща">
-<!ENTITY junkLogInfo.label "Отчитане дейността на контрола върху нежеланата поща.">
-<!ENTITY clearLog.label "Изчистване на журнала">
-<!ENTITY clearLog.accesskey "И">
-<!ENTITY closeLog.label "Затваряне">
-<!ENTITY closeLog.accesskey "я">
