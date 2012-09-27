@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "اضبط &syncBrand.shortName.label; لإرسال الألسنة">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "اضبط &syncBrand.shortName.label; على جهازك لإرسال الألسنة إلى الأجهزة الأخرى.">
 <!ENTITY sync.text.tab.sent.label "أُرسِل اللسان.">
+<!ENTITY sync.text.tab.not.sent.label "حدثت مشكلة أثناء إرسال اللسان.">
