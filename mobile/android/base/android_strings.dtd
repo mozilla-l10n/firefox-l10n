@@ -87,7 +87,7 @@
 <!ENTITY pref_font_size_medium "中">
 <!ENTITY pref_font_size_large "大">
 <!ENTITY pref_font_size_xlarge "特大">
-<!ENTITY pref_font_size_set "設定">
+<!ENTITY pref_font_size_set "自訂">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise

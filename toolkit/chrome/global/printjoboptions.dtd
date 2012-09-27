@@ -24,7 +24,7 @@
 <!ENTITY colorGroup.label "顏色:">
 <!ENTITY grayRadio.label "灰階">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "顏色">
+<!ENTITY colorRadio.label "色彩">
 <!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY colorspaceInput.label "色彩空間:">
