@@ -19,13 +19,18 @@ was trying to connect. -->
 <b>#1</b>، ولكن لا شيء يؤكد أن اتصالك سيكون آمنًا.">
 
 <!ENTITY certerror.whatShouldIDo.heading "ماذا ينبغي أن أفعل؟">
-<!ENTITY certerror.whatShouldIDo.content "إن كنتَ تتصل عادة بهذا الموقع دون مشكلات، فهذا يعني أن أحدًا يحاول تقمص هوية الموقع، وينبغي عليك ألا تتابع.">
+<!ENTITY certerror.whatShouldIDo.content "إن كنتَ تتصل عادة 
+بهذا الموقع دون مشكلات، فهذا يعني أن أحدًا يحاول 
+تقمص هوية الموقع، وينبغي عليك ألا تتابع.">
 <!ENTITY certerror.getMeOutOfHere.label "أخرجني من هنا!">
 
 <!ENTITY certerror.expert.heading "أتفهّم المجازفة">
-<!ENTITY certerror.expert.content "إن كنتَ تفهم ما الذي يحدث، يمكنك أن تطلب من &brandShortName; أن يبدأ بالوثوق بهوية هذا الموقع. 
-<b>حتى لو كنتَ تثق بهذا الموقع، فهذا الخطأ قد يشير إلى أن أحدًا يعبث باتصالك.</b>">
-<!ENTITY certerror.expert.contentPara2 "لا تضِف استثناءً إلا إن كنت تعلم سببًا قويًا لعدم استخدام هذا الموقع لتعريف موثوق به.">
+<!ENTITY certerror.expert.content "إن كنتَ تفهم ما الذي يحدث، يمكنك 
+أن تطلب من &brandShortName; أن يبدأ بالوثوق بهوية هذا الموقع. 
+<b>حتى لو كنتَ تثق بهذا الموقع، فهذا الخطأ قد يشير 
+إلى أن أحدًا يعبث باتصالك.</b>">
+<!ENTITY certerror.expert.contentPara2 "لا تضِف استثناءً إلا إن كنت 
+تعلم سببًا قويًا لعدم استخدام هذا الموقع لتعريف موثوق به.">
 <!ENTITY certerror.addTemporaryException.label "زُر الموقع">
 <!ENTITY certerror.addPermanentException.label "أضِف استثناءً دائمًا">
 
