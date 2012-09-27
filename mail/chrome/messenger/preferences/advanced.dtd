@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Дізнатись більше про телеметрію">
 <!ENTITY enableGlodaSearch.label       "Ввімкнути глобальний пошук та індексацію">
 <!ENTITY enableGlodaSearch.accesskey   "і">
+
+<!ENTITY scrolling.label               "Прокрутка">
+<!ENTITY useAutoScroll.label           "Використовувати автопрокрутку">
+<!ENTITY useAutoScroll.accesskey       "а">
+<!ENTITY useSmoothScrolling.label      "Використовувати плавну прокрутку">
+<!ENTITY useSmoothScrolling.accesskey  "п">
+
 <!ENTITY systemIntegration.label       "Системна інтеграція">
 <!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
 <!ENTITY alwaysCheckDefault.accesskey  "ш">
@@ -84,10 +91,10 @@
 <!ENTITY showOffline.label             "Автономний режим…">
 <!ENTITY showOffline.accesskey         "А">
 
-<!ENTITY Diskspace "Дисковий простір">
-<!ENTITY offlineCompact.label "Стискати теки, якщо при цьому вивільнятиметься більше">
-<!ENTITY offlineCompact.accesskey "С">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Дисковий простір">
+<!ENTITY offlineCompactFolders.label     "Стискати всі теки, якщо це звільнить більш ніж">
+<!ENTITY offlineCompactFolders.accesskey "в">
+<!ENTITY offlineCompactFoldersMB.label   "MB загалом">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

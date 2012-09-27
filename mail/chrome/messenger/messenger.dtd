@@ -582,6 +582,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Нова мітка…">
 <!ENTITY addNewTag.accesskey "Н">
+<!ENTITY manageTags.label "Керувати мітками…">
+<!ENTITY manageTags.accesskey "К">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Назва">
