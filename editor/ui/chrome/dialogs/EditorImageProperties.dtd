@@ -51,7 +51,7 @@
 <!ENTITY actualSizeRadio.tooltip "Revenir à la taille réelle de l'image">
 <!ENTITY customSizeRadio.label "Taille personnalisée">
 <!ENTITY customSizeRadio.accessKey "p">
-<!ENTITY customSizeRadio.tooltip "Change la taille de l'image dans la page">
+<!ENTITY customSizeRadio.tooltip "Changer la taille de l'image dans la page">
 <!ENTITY heightEditField.label "Hauteur :">
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Largeur :">

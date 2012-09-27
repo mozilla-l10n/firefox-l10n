@@ -42,7 +42,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Fermer lorsque les téléchargements sont terminés">
-<!ENTITY closeWhenDone.tooltip            "Ferme la fenêtre des téléchargements lorsque tous les fichiers sont complètement téléchargés">
+<!ENTITY closeWhenDone.tooltip            "Fermer la fenêtre des téléchargements lorsque tous les fichiers sont complètement téléchargés">
 
 <!ENTITY showFolder.label                 "Afficher ce dossier">
 
