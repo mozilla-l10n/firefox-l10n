@@ -1,3 +1,4 @@
 google
 twitter
 wikipedia-ru
+yandex-ru
