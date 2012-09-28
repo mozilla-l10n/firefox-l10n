@@ -45,19 +45,21 @@
 <!ENTITY history_week_section "7 օր առաջ">
 <!ENTITY history_older_section "7 օրից հին ">
 
+<!ENTITY go "Անցնել">
+<!ENTITY search "Փնտրել">
 <!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
 <!ENTITY menu "Ընտրացանկ">
 <!ENTITY back "Նախորդ">
 <!ENTITY stop "Կանգնեցնել">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Կայքի անվտանգությունը">
 
 <!ENTITY close_tab "Փակել Էջը">
 <!ENTITY new_tab "Նոր էջ">
 <!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d tabs">
+<!ENTITY num_tabs "&#037;d էջեր">
 <!ENTITY new_tab_opened "Նոր էջ է բացվել">
 
 <!ENTITY settings "Կարգավորումներ">
@@ -65,7 +67,7 @@
 <!ENTITY pref_category_general "Գլխավորը">
 <!ENTITY pref_category_privacy "Գաղտնիության &amp;Դրույթները">
 <!ENTITY pref_category_content "Պարունակություն">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "Ներմուծել &amp; Արտածել">
 <!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
 <!ENTITY pref_do_not_track "Հաղորդել կայքերի մասին">
 <!ENTITY pref_telemetry "Ուղարկել արտադրողականության տվյալը">
@@ -85,15 +87,27 @@
 <!ENTITY pref_font_size_medium "Միջին">
 <!ENTITY pref_font_size_large "Մեծ">
 <!ENTITY pref_font_size_xlarge "Շատ մեծ">
+<!ENTITY pref_font_size_set "Set">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Օգտ. գաղտնաբառերի պահոցը">
 <!ENTITY pref_sync "Սինք">
-<!ENTITY pref_search_suggestions "Show search suggestions">
-<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_search_suggestions "Ցուցադրել որոնման հուշումներ">
+<!ENTITY pref_import_android "Ներմուծել Android-ից">
 <!ENTITY pref_private_data_history "Browsing &amp; download history">
 <!ENTITY pref_private_data_formdata "Form &amp; search history">
-<!ENTITY pref_private_data_cookies "Cookie-ներ">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
+<!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Պահոցը">
-<!ENTITY pref_private_data_sessions "Active logins">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings "Site preferences">
 
@@ -108,12 +122,12 @@
 <!ENTITY share_title "Տարածել՝">
 <!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "Պահպանել որպես PDF">
-<!ENTITY find_in_page "Find in Page">
+<!ENTITY find_in_page "Գտնել էջում">
 <!ENTITY desktop_mode "Request Desktop Site">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Find in Page">
+<!ENTITY find_text "Գտնել էջում">
 <!ENTITY find_prev "Նախորդը">
 <!ENTITY find_next "Հաջորդը">
 <!ENTITY find_close "Փակել">
@@ -130,14 +144,14 @@
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
-<!ENTITY history_removed "Page removed">
+<!ENTITY history_removed "Էջը ջնջվել է">
 
 <!ENTITY bookmark_edit_title "Խմբագրել Էջանիշը">
 <!ENTITY bookmark_edit_name "Անունը">
 <!ENTITY bookmark_edit_location "Տեղադրությունը">
 <!ENTITY bookmark_edit_keyword "Հիմնաբառ">
 
-<!ENTITY site_settings_title        "Մաքրել կայքի կարգավորումները">
+<!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "Չեղարկել">
 <!ENTITY site_settings_clear        "Մաքրել">
 <!ENTITY site_settings_no_settings  "Չկան կարգավորումներ՝ ջնջելու համար:">
@@ -163,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Բացել վերջին բոլոր էջերը">
 <!ENTITY abouthome_top_sites_title "Հայտնի կայքերը">
 <!ENTITY abouthome_top_sites_browse "Բացել բոլոր հայտնի կայքերը">
-<!ENTITY abouthome_no_top_sites "Դուք չունեք ընտրած հայտնի կայքեր: ">
-<!ENTITY abouthome_about_sync "Կարգավորեք Firefox Սինքը՝ մուտք ունենալու համար այլ սարքերի էջանիշներին, պատմությանը և էջերին">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Սինք">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Ընտրել Ֆայլը">
 <!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք ձայն">
@@ -200,3 +224,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Please wait...">
 
 <!ENTITY webapp_generic_name "App">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_start_select "Select to download update.">
+
+<!ENTITY updater_downloading_title "&brandShortName;-ը բեռնվում է">
+<!ENTITY updater_downloading_ticker "Downloading &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Failed to download &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_select "Select to apply update when complete.">
+<!ENTITY updater_downloading_retry "Select to retry update download.">
+<!ENTITY updater_downloading_willapply "Waiting for download to complete.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_apply_select "Select to apply downloaded update.">
