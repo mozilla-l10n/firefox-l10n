@@ -59,7 +59,7 @@
 
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label     "Szeryfowa">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY useDefaultFontSansSerif.label "Bezszeryfowa">
 
 <!-- fonts in message -->
 <!ENTITY fontControl.label               "Zasady używania czcionek">
