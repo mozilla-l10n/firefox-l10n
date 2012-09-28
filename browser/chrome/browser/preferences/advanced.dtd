@@ -45,9 +45,9 @@
 <!ENTITY connectionSettings.label        "Կարգավորել...">
 <!ENTITY connectionSettings.accesskey    "Կ">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
+<!ENTITY httpCache.label                 "կուտակել ցանցային բովանդակությունը">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+<!ENTITY offlineStorage2.label           "Ցանցից դուրս ցանցային բովանդակություն եւ օգտատերի տվյալներ">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -62,7 +62,7 @@
 <!ENTITY clearCacheNow.accesskey         "Մ">
 <!ENTITY clearOfflineAppCacheNow.label   "Մաքրել հիմա">
 <!ENTITY clearOfflineAppCacheNow.accesskey "Մ">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.label    "Վերակարգավորել պահոցի կառավարումը">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Թարմացնել">
@@ -70,9 +70,9 @@
 <!ENTITY updateApp.label                 "&brandShortName; updates:">
 <!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.label               "ստուգել թարմացումները բայց տեղակայման ընտրությունը թողնել ինձ">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.label              "երբեք չստուգել թարմացումները (խուրհուրդ չի տրվում: անվտանգության վտանգ)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "Զգուշացրու ինձ եթե այն պիտի պասիվացնի որևէ հավելում">
@@ -81,7 +81,7 @@
 <!ENTITY updateHistory.label             "Ցուցադրել Թարմացումների Պատմությունը">
 <!ENTITY updateHistory.accesskey         "Ց">
 
-<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.label                "օգտվել ֆոնային ծառայությունից թարմացումները տեղակայելիս">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Ինքնաշխատ թարմացնել.">
@@ -93,7 +93,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Բացառություններ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label          "Տվյալ կայքը թույլ ե տալիս պաշարել տվյալներ ցանցից դուրս օգտագործման համար:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ջնջել…">
 <!ENTITY offlineAppsListRemove.accesskey "Ջ">

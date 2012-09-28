@@ -4,7 +4,7 @@
 
 <!ENTITY permissionsManager.title        "Permissions Manager">
 
-<!ENTITY sites.search                    "Search Sites">
+<!ENTITY sites.search                    "Փնտրել կայքեր">
 <!ENTITY sites.allSites                  "Բոլոր կայքերը">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
@@ -22,12 +22,12 @@
 <!ENTITY permission.allowForSession      "Թույ տալ նիստի ընթացքում">
 <!ENTITY permission.block                "Արգելել">
 
-<!ENTITY password.label                  "Store Passwords">
-<!ENTITY password.manage                 "Manage Passwords…">
+<!ENTITY password.label                  "Դասավորել գաղտնաբառերը">
+<!ENTITY password.manage                 "Կառավարել գաղտնաբառերը...">
 
 <!ENTITY cookie.label                    "Տեղադրել Քուուկի">
 <!ENTITY cookie.remove                   "Հեռացնել կուկերը">
-<!ENTITY cookie.manage                   "Manage Cookies…">
+<!ENTITY cookie.manage                   "Կառավարել Cookies-ները...">
 <!ENTITY cookie.removeAll                "Ջնջել Բոլոր Պատրաստուքները">
 
 <!ENTITY geo.label                       "Հայտնել գտնվելու վայրը">

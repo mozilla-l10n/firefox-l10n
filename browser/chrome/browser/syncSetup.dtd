@@ -48,8 +48,8 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
 <!ENTITY recoveryKeyEntry.label        "Ձեր վերականգնման բանալին">
 <!ENTITY recoveryKeyEntry.accesskey    "Ձ">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
-<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
+<!ENTITY syncGenerateNewKey.label  "Ստեղծել նոր բանալի">
+<!ENTITY recoveryKeyBackup.description "Վերականգնման բանալին պահանջում է մուտք &syncBrand.fullName.label;-ին։ Նախ ստեղծեք պահուստային օրինակը։">
 
 <!ENTITY button.syncKeyBackup.print.label     "Տպել…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Տ">
@@ -66,7 +66,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Մուտքագրեք գաղտնաբառը, որը սարքը տրամադրում է">
 <!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձեք:">
 <!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է: Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">
-<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Սարքը ակտիվացնելու համար պետք է մուտքագրեք Վերականգնման բանալին։ Տպեք կամ պահպանեք բանալին։">
 <!ENTITY addDevice.dialog.connected.label   "Սարքը միացված է">
 
 <!-- Existing Account Page 2: Manual Login -->

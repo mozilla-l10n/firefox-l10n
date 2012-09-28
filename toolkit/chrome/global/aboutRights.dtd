@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -58,7 +54,7 @@
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-a "Անվտանգ նավարկում.">
 <!ENTITY rights.safebrowsing-b "Խորհուրդ չի տրվում անջատել Անվտանգությունն Ապահովող հատկությունը,  քանզի դուք արդյունքում կարող եք մուտք գործել վտանգավոր կայքեր:Եթե դուք ցանկանում եք ամբողջությամբ անջատել տվյալ հատկությունը, հետևեք այս քայլերին:">
 <!ENTITY rights.safebrowsing-term1 "Open the application preferences">
 <!ENTITY rights.safebrowsing-term2 "Select the Security selection">
@@ -66,7 +62,7 @@
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
+<!ENTITY rights.locationawarebrowsing-a "Տեղադրության ցուցադրում.">
 <!ENTITY rights.locationawarebrowsing-b "միշտ ընտրված է:Տեղակայվածության վերաբերյալ ոչ մի ինֆորմացիա չի կարող երբէ ուղղարկվել առանց ձեր թույլտվության:Եթե դուք ցանկանում եք ամբողջովին անջատել այս առանձնահատկությունը ,հետևեք այս քայլերին.">
 <!ENTITY rights.locationawarebrowsing-term1a "URL դաշտում գրել՝ ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
