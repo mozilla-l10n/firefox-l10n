@@ -651,5 +651,8 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Visa sidofält">
 <!ENTITY social.toggleSidebar.accesskey "V">
 
+<!ENTITY social.toggleNotifications.label "Visa skrivbordsnotifikationer">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
 <!ENTITY social.activated.undobutton.label "Ångra">
 <!ENTITY social.activated.undobutton.accesskey "Å">
