@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "Apgaulė saityne">
 
 <!ENTITY safeb.palm.message.p1 "Yra pranešta, kad šis tinklalapis sukurtas siekiant apgauti lankytojus ir pasinaudoti jų privačiais duomenimis. Šiame tinklalapje įvesta asmeninė informacija gali būti pavogta ir nesankcionuotai panaudota. &#160;">
