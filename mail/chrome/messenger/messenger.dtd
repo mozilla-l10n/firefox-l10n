@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Hibakonzol">
 <!ENTITY errorConsoleCmd.accesskey "H">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Előzmények törlése…">
+<!ENTITY clearRecentHistory.accesskey "E">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Mappa helye">
 <!ENTITY tagButton.label "Címke">
 <!ENTITY compactButton.label "Tömörítés">
+<!ENTITY appmenuButton.label "Alkalmazásmenü">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Keresés az üzenetekben…">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "A Csevegés lap megjelenítése">
 <!ENTITY tagButton.tooltip "Üzenetek címkézése">
 <!ENTITY compactButton.tooltip "Törölt üzenetek eltávolítása a kijelölt mappából">
+<!ENTITY appmenuButton.tooltip "Megjeleníti az alkalmazásmenüt">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Új üzenet">
+<!ENTITY appmenuNewContactCmd.label "Névjegy…">
+<!ENTITY appmenuEditMenu.label "Szerkesztés">
+<!ENTITY appmenuQFBMenu.label "Gyorsszűrő sáv">
+<!ENTITY appmenuToolbarLayout.label "Eszköztár elrendezése…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Új címke…">
@@ -847,7 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SendMessageTo.label "Üzenet írása">
 <!ENTITY SendMessageTo.accesskey "z">
 <!ENTITY CopyEmailAddress.label "E-mail cím másolása">
-<!ENTITY CopyEmailAddress.accesskey "E">
+<!ENTITY CopyEmailAddress.accesskey "m">
 <!ENTITY CopyNewsgroupName.label "Hírcsoportnév másolása">
 <!ENTITY CopyNewsgroupName.accesskey "H">
 <!ENTITY CopyNewsgroupURL.label "Hírcsoport URL másolása">
@@ -871,7 +882,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageAllCmd.label "Kép másolása">
 <!ENTITY copyImageAllCmd.accesskey "K">
 <!ENTITY copyEmailCmd.label "E-mail cím másolása">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "m">
 <!ENTITY stopCmd.label "Leállítás">
 <!ENTITY stopCmd.accesskey "L">
 <!ENTITY reloadCmd.label "Frissítés">

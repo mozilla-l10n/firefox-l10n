@@ -36,26 +36,10 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Böngészési és letöltési előzmények">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemBrowsingHistory.label         "Böngészés előzményei">
-<!ENTITY itemBrowsingHistory.accesskey     "B">
-<!ENTITY itemFormSearchHistory.label       "Űrlapok és keresőmezők előzményei">
-<!ENTITY itemFormSearchHistory.accesskey   "r">
-<!ENTITY itemPasswords.label               "Jelszókezelő">
-<!ENTITY itemPasswords.accesskey           "J">
 <!ENTITY itemCookies.label                 "Sütik">
 <!ENTITY itemCookies.accesskey             "t">
 <!ENTITY itemCache.label                   "Gyorsítótár">
 <!ENTITY itemCache.accesskey               "G">
-<!ENTITY itemOfflineApps.label             "Kapcsolat nélküli webhelyadatok">
-<!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemDownloadHistory.label         "Letöltési előzmények">
-<!ENTITY itemDownloadHistory.accesskey     "L">
-<!ENTITY itemActiveLogins.label            "Aktív bejelentkezések">
-<!ENTITY itemActiveLogins.accesskey        "A">
-<!ENTITY itemSitePreferences.label         "Webhely beállításai">
-<!ENTITY itemSitePreferences.accesskey     "W">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

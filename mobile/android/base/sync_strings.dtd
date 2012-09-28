@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Lapok küldéséhez állítsa be a &syncBrand.shortName.label;-et'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Állítsa be a &syncBrand.fullName.label;-et az eszközén a lapok más eszközökre küldéséhez.'>
 <!ENTITY sync.text.tab.sent.label 'A lap elküldve!'>
+<!ENTITY sync.text.tab.not.sent.label 'Probléma merült fel a lap küldésekor.'>
