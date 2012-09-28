@@ -46,6 +46,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
+<!ENTITY sync.pair.connectlocation.label 'Aby aktywować nowe urządzenie, wybierz na nim “Skonfiguruj &syncBrand.shortName.label;”, a następnie wybierz “Mam już konto”.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Ustawienia'>
@@ -67,9 +68,21 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Zakładki nieposortowane'>
 <!ENTITY bookmarks.folder.desktop.label 'Zakładki z komputera'>
 <!ENTITY bookmarks.folder.mobile.label 'Zakładki z telefonu'>
+<!ENTITY bookmarks.folder.readinglist.label 'Do przeczytania'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Można używać tylko jednego konta &syncBrand.fullName.label; naraz.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.new.recoverykey.status.incorrect 'Nieprawidłowy klucz odzyskiwania. Spróbuj ponownie.'>
+<!ENTITY sync.invalidcreds.label 'Niepoprawne hasło lub nazwa konta.'>
+<!ENTITY sync.invalidserver.label 'Wprowadź poprawny adres URL serwera.'>
+<!ENTITY sync.verifying.label 'Weryfikacja…'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Wyślij karty na urządzenia'>
+<!ENTITY sync.button.send.label 'Wyślij'>
+<!ENTITY sync.button.set.up.sync.label 'Skonfiguruj &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.'>
+<!ENTITY sync.text.tab.sent.label 'Karta wysłana!'>
