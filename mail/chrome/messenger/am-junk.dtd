@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Brukalo nuostatos">
 <!ENTITY trainingDescription.label "Įjungus adaptyvųjį brukalo filtrą, programą „&brandShortName;“ reikės apmokyti, jai parodant, kurie laiškai laikomi brukalu, o kurie – ne. Tam naudokite mygtuką „Brukalas“ priemonių juostoje. Šitaip apmokius programą, brukalą ji mokės atskirti pati.">
 <!ENTITY level.label "Įjungti šios paskyros adaptyvųjį brukalo filtrą">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  splash_firstrun "Įdiegiama programa „&brandShortName;“…">
 <!ENTITY  no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
 <!ENTITY  error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
