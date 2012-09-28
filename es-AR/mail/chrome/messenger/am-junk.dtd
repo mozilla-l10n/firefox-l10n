@@ -27,3 +27,6 @@
 <!ENTITY junkClassification.label "Selección">
 <!ENTITY junkActions.label "Destino y retención">
 
+<!ENTITY globalJunkPrefs.label "Preferencias globales de basura…">
+<!ENTITY globalJunkPrefs.accesskey "g">
+
