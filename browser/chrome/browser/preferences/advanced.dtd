@@ -24,7 +24,7 @@
 <!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
 <!ENTITY alwaysCheckDefault.label "Athuga alltaf í ræsingu hvort &brandShortName; sé sjálfgefinn vafri">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey "h">
+<!ENTITY alwaysCheckDefault.accesskey "g">
 <!ENTITY setDefault.label "Gera &brandShortName; að sjálfgefnum vafra">
 <!ENTITY setDefault.accesskey "g">
 <!ENTITY isDefault.label "&brandShortName; er núna sjálfgefinn vafri">
@@ -49,7 +49,7 @@
 <!ENTITY limitCacheSizeBefore.accesskey "T">
 <!ENTITY limitCacheSizeAfter.label "MB af plássi">
 <!ENTITY clearCacheNow.label "Hreinsa núna">
-<!ENTITY clearCacheNow.accesskey "H">
+<!ENTITY clearCacheNow.accesskey "r">
 <!ENTITY clearOfflineAppCacheNow.label "Hreinsa núna">
 <!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label "Hunsa sjálfvirka umsýslu skyndiminnis">
@@ -74,7 +74,7 @@
 <!ENTITY offlineNotify.label "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ónettengda notkun">
 <!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Undanþágur…">
-<!ENTITY offlineNotifyExceptions.accesskey "U">
+<!ENTITY offlineNotifyExceptions.accesskey "d">
 <!ENTITY offlineAppsList2.label "Eftirfarandi vefsvæði hafa leyfi til að geyma gögn fyrir notkun án nettengingar:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Fjarlægja…">
