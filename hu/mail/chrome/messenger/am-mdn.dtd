@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Tértivevények">
 <!ENTITY useGlobalPrefs.label         "A globális tértivevény-beállítások használata erre a postafiókra">
 <!ENTITY useGlobalPrefs.accesskey     "A">
+<!ENTITY globalReceipts.label         "Globális beállítások…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Tértivevényekkel kapcsolatos beállítások ehhez a postafiókhoz">
 <!ENTITY useCustomPrefs.accesskey     "T">
 <!ENTITY requestReceipt.label         "Tértivevény kérése minden elküldött üzenethez">

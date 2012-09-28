@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Név:">
 <!ENTITY calendarproperties.readonly.label                 "Csak olvasható">
 <!ENTITY calendarproperties.firealarms.label               "Emlékeztetők megjelenítése">
-<!ENTITY calendarproperties.cache2.label                   "Gyorsítótár">
+<!ENTITY calendarproperties.cache3.label                   "Kapcsolat nélküli munka">
 <!ENTITY calendarproperties.enabled.label                  "Naptár bekapcsolása">
 <!ENTITY calendarproperties.forceDisabled.label            "A naptár szolgáltatója nem található. Ez gyakran előfordul, ha letilt vagy eltávolít egyes kiegészítőket.">
 <!ENTITY calendarproperties.unsubscribe.label              "Leiratkozás">

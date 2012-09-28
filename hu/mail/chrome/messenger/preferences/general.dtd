@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "h">
 <!ENTITY browse.label                     "Tallózás…">
 <!ENTITY browse.accesskey                 "T">
-
-<!ENTITY addonsMgr.label                  "Kiegészítők">
-<!ENTITY manageAddonsDescWin.label        "Kiegészítők beállítása">
-<!ENTITY manageAddonsDescUnix2.label      "Kiegészítők beállítása">
-<!ENTITY manageAddons.label               "Kiegészítők kezelése…">
-<!ENTITY manageAddons.accesskey           "z">

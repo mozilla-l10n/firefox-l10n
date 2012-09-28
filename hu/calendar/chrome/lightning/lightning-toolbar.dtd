@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Naptár eszköztár">
-<!ENTITY lightning.toolbar.calendar.accesskey "N">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "N">
 <!ENTITY lightning.toolbar.task.name "Feladat eszköztár">
-<!ENTITY lightning.toolbar.task.accesskey "F">
+<!ENTITY lightning.toolbar.task.name.accesskey "F">
 
 <!ENTITY lightning.toolbar.sync.label "Szinkronizálás">
 <!ENTITY lightning.toolbar.delete.label "Törlés">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Nyomtatás">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Levelezés">
-<!ENTITY lightning.toolbar.mail.accesskey     "L">
 <!ENTITY lightning.toolbar.calendar.label     "Naptár">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Átváltás a naptár lapra">
 <!ENTITY lightning.toolbar.calendar.accesskey "N">
