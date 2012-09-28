@@ -20,7 +20,7 @@
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
-<!ENTITY selectedElementLabel  "Selected element:">
+<!ENTITY selectedElementLabel  "Ընտրել տարրը:">
 
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is

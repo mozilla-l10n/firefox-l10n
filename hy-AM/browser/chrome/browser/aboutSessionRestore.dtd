@@ -14,7 +14,7 @@
 
 <!ENTITY restorepage.tryagainButton "Վերականգնել">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Close">
+<!ENTITY restorepage.closeButton    "Փակել">
 <!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Վերականգնել">

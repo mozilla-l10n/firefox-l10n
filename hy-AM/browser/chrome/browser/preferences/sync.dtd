@@ -19,7 +19,7 @@
 <!ENTITY viewQuota.label              "Դիտել քվոտան">
 <!ENTITY changePassword2.label        "Փոխել Գաղտնաբառը…">
 <!ENTITY myRecoveryKey.label          "Իմ վերականգնող բանալին">
-<!ENTITY resetSync2.label             "Reset Sync…">
+<!ENTITY resetSync2.label             "Ետարկել Սինքը...">
 
 <!ENTITY pairDevice.label             "Սարքի զույգը">
 
@@ -40,7 +40,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
 <!ENTITY syncComputerName.accesskey   "Հ">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
+<!ENTITY unlinkDevice.label           "Հետկցել այս սարքը">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ծառայության պայմաններին">

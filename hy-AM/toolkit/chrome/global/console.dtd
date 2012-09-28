@@ -22,7 +22,7 @@
 <!ENTITY codeEval.accesskey "Կ">
 <!ENTITY evaluate.label     "Բացորոշել">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter.label       "Filter">
+<!ENTITY filter.label       "Ֆիլտր">
 <!ENTITY filter.accesskey   "F">
 
 <!ENTITY copyCmd.label       "Կրկնակել">  
