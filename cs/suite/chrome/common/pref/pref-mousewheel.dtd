@@ -10,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label "Vertikální posunování">
-<!ENTITY mousewheelHorizGroup.label "Horizontální posunování">
-<!ENTITY scroll.label "Posunout dokument o ">
-<!ENTITY scroll.accesskey "P">
-<!ENTITY scrollHoriz.accesskey "o">
-<!ENTITY scrollLines.label " řádků">
-<!ENTITY scrollChars.label " znaků">
-<!ENTITY useSystemDefault.label "Použít nastavení systému">
-<!ENTITY useSystemDefault.accesskey "a">
-<!ENTITY useSystemDefaultHoriz.accesskey "s">
-<!ENTITY scrollPgUpPgDn.label "Posunout stránku nahoru, nebo dolů">
-<!ENTITY scrollPgUpPgDn.accesskey "u">
-<!ENTITY scrollPgLtPgRt.label "Posunovat stránku vlevo, nebo vpravo">
-<!ENTITY scrollPgLtPgRt.accesskey "n">
+<!ENTITY mouseWheelAction.label "Při otočení kolečka myši">
+<!ENTITY doNothing.label "Nedělat nic">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY scrollDocument.label "Posunout dokument">
+<!ENTITY scrollDocument.accesskey "P">
 <!ENTITY history.label "Jít zpět nebo dopředu v historii sezení">
 <!ENTITY history.accesskey "J">
-<!ENTITY historyHoriz.accesskey "b">
 <!ENTITY zoom.label "Zvětšit nebo zmenšit stránku">
 <!ENTITY zoom.accesskey "Z">
-<!ENTITY zoomHoriz.accesskey "m">
+<!ENTITY mouseWheelSpeed.label "Rychlost posunování kolečkem myši">
+<!ENTITY verticalSpeed.label "Vertikálně:">
+<!ENTITY verticalSpeed.accesskey "V">
+<!ENTITY verticalReverse.label "Obrátit směr">
+<!ENTITY verticalReverse.accesskey "O">
+<!ENTITY horizontalSpeed.label "Horizontálně:">
+<!ENTITY horizontalSpeed.accesskey "H">
+<!ENTITY horizontalReverse.label "Obrátit směr">
+<!ENTITY horizontalReverse.accesskey "b">
