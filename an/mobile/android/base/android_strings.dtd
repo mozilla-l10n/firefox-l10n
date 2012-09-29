@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "Fa 7 días">
 <!ENTITY history_older_section "Fa mas de 7 días">
 
+<!ENTITY go "Ir-ie">
+<!ENTITY search "Mirar-lo">
 <!ENTITY reload "Esviellar">
 <!ENTITY forward "Entabant">
 <!ENTITY menu "Menú">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Meyana">
 <!ENTITY pref_font_size_large "Gran">
 <!ENTITY pref_font_size_xlarge "Muit gran">
+<!ENTITY pref_font_size_set "Fixar">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "A raboseta narancha blinca as suyas expectativas con mas rapideza, mas flexibilidat y mas seguranza. Como no tenemos animo de lucro, somo libre d'innovar sin garra presión ni compromiso. Isto significa una millor experiencia ta vusté y un millor esdevenidor ta la Web.">
+
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
 <!ENTITY pref_sync "Sincronizar">
 <!ENTITY pref_search_suggestions "Amostrar as sucherencias de busca">
 <!ENTITY pref_import_android "Importar dende Android">
 <!ENTITY pref_private_data_history "Navegación &amp; historial de descargas">
 <!ENTITY pref_private_data_formdata "Formulario &amp; historial de busca">
-<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cookies2 "Galletas &amp; dentradas activas">
 <!ENTITY pref_private_data_passwords "Claus alzadas">
 <!ENTITY pref_private_data_cache "Caché">
-<!ENTITY pref_private_data_sessions "Sesions activas">
 <!ENTITY pref_private_data_offlineApps "Datos offline d'o puesto web">
 <!ENTITY pref_private_data_siteSettings "Preferencias d'o puesto">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Ubicación">
 <!ENTITY bookmark_edit_keyword "Parola clau">
 
-<!ENTITY site_settings_title        "Limpiar as opcions d'o puesto">
+<!ENTITY site_settings_title2       "Achustes d'o puesto...">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpiar">
 <!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Ubrir todas as pestanyas d\'a zaguera vegada">
 <!ENTITY abouthome_top_sites_title "Os vuestros puestos">
 <!ENTITY abouthome_top_sites_browse "Amostrar-me os míos puestos web mas habituals">
-<!ENTITY abouthome_no_top_sites "Encara no tiene garra puesto seleccionau. Toque a barra de titol ta seleccionar-lo.">
-<!ENTITY abouthome_about_sync "Configure Firefox Sync ta acceder a os marcapachinas, l\'historial y las pestanyas d'os atros dispositivos que tiene">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Configurar o Firefox Sync ta accedir ta os marcapachinas, l'historial y as pestanyas d'os suyos atros dispositivos&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Pillar as aplicacions dende o Mozilla Marketplace y descubrir-ie o millor que a web puede ofrir&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Trigue un fichero">
 <!ENTITY filepicker_audio_title "Trigue un grave un soniu">

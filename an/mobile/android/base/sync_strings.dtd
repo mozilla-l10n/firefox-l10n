@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar o &syncBrand.shortName.label; ta ninviar pestanyas">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar o &syncBrand.fullName.label; en o suyo dispositivo ta ninviar pestanyas enta atros equipos.">
 <!ENTITY sync.text.tab.sent.label "S'ha ninviau a pestanya!">
+<!ENTITY sync.text.tab.not.sent.label "I ha habiu bell problema en ninviar a suya pestanya">

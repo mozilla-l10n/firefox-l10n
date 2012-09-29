@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "B">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "Mas ferramientas">
 
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
@@ -253,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-
-<!ENTITY inspectOptionButton.tooltiptext    "Opcions de l'inspector">
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-
-<!ENTITY inspectorToggleVeil.label          "Atenuar a pachina">
-<!ENTITY inspectorToggleVeil.accesskey      "A">
-<!ENTITY inspectorToggleInfobar.label       "Amostrar a información d'o nodo">
-<!ENTITY inspectorToggleInfobar.accesskey   "s">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -293,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Desfer">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "f"> 
+<!ENTITY undoCmd.accesskey          "s"> 
 <!ENTITY redoCmd.label            "Refer">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
@@ -464,9 +455,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Ninviar l'audio por correu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY copyLinkCmd.label            "Copiar a rota d'o vinclo">
+<!ENTITY copyLinkCmd.label            "Copiar l'adreza d'o vinclo">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Copiar a rota d'a imachen">
+<!ENTITY copyImageCmd.label           "Copiar l'adreza d'a imachen">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiar a imachen">
 <!ENTITY copyImageContentsCmd.accesskey  "C"> 
@@ -586,10 +577,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar l'adreza d'a pachina">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar l'adreza d'o texto">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar o sentiu d'a pachina">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar o sentiu d'o texto">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "b">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Trobar en ista pachina…">
@@ -656,8 +647,22 @@ toolbar button -->
 
 <!ENTITY socialToolbar.title        "Botón d'a barra de ferramientas social">
 <!ENTITY social.notLoggedIn.label   "No ha iniciau sesión">
+<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
+     used for the "OK" button for two different social panels. One appears when
+     the feature is activated (social.activated.* below), and the other when
+     the user clicks the "Share" button a second time (social.sharePopup.*
+     below). -->
+
+<!ENTITY social.ok.label       "Acceptar">
+<!ENTITY social.ok.accesskey   "c">
 
 <!ENTITY social.sharePopup.undo.label     "Deixar de compartir">
 <!ENTITY social.sharePopup.undo.accesskey "x">
-<!ENTITY social.sharePopup.ok.label       "Acceptar">
-<!ENTITY social.sharePopup.ok.accesskey   "c">
+<!ENTITY social.sharePopup.shared.label   "Ha compartiu ista pachina.">
+<!ENTITY social.sharePopup.portrait.arialabel "Fotografía d'o perfil d'usuario">
+
+<!ENTITY social.toggleSidebar.label "Amostrar a barra lateral">
+<!ENTITY social.toggleSidebar.accesskey "A">
+
+<!ENTITY social.activated.undobutton.label "Desfer">
+<!ENTITY social.activated.undobutton.accesskey "D">

@@ -16,7 +16,7 @@
 <!ENTITY     props.name.label               "Nombre:">
 <!ENTITY     props.value.label              "Conteniu:">
 <!ENTITY     props.domain.label             "Servidor:">
-<!ENTITY     props.path.label               "Rota:">
+<!ENTITY     props.path.label               "Camín:">
 <!ENTITY     props.secure.label             "Ninviar ta:">
 <!ENTITY     props.expires.label            "Circumducción:">
 
