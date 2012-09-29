@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label                         "Vigade konsool">
 <!ENTITY errorConsoleCmd.accesskey                     "i">
 <!ENTITY errorConsoleCmd.commandkey                    "j">
+<!ENTITY clearRecentHistory.label                      "Kustuta hiljutine ajalugu…">
+<!ENTITY clearRecentHistory.accesskey                  "h">
 <!ENTITY accountManagerCmd.label                       "Kontode sätted...">
 <!ENTITY accountManagerCmd.accesskey                   "K">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title               "Kausta asukoht">
 <!ENTITY tagButton.label                               "Sildista">
 <!ENTITY compactButton.label                           "Tihenda">
+<!ENTITY appmenuButton.label                           "Rakenduse menüü">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip                        "Laiendatud otsing kirjadest">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip                            "Kuva kiirsuhtluse kaarti">
 <!ENTITY tagButton.tooltip                             "Sildista kirju">
 <!ENTITY compactButton.tooltip                         "Eemalda kustutatud kirjad valitud kaustast">
+<!ENTITY appmenuButton.tooltip                         "Kuva rakenduse menüüd">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label                        "Uus kiri">
+<!ENTITY appmenuNewContactCmd.label                    "Aadressiraamatu kontakt…">
+<!ENTITY appmenuEditMenu.label                         "Redigeerimine">
+<!ENTITY appmenuQFBMenu.label                          "Kiirfiltri riba">
+<!ENTITY appmenuToolbarLayout.label                    "Kohanda tööriistariba…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label                               "Uus silt…">
