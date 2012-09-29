@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "Fa 7 dies">
 <!ENTITY history_older_section "Fa més de 7 dies">
 
+<!ENTITY go "Vés-hi">
+<!ENTITY search "Cerca">
 <!ENTITY reload "Actualitza">
 <!ENTITY forward "Endavant">
 <!ENTITY menu "Menú">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Mitjana">
 <!ENTITY pref_font_size_large "Grossa">
 <!ENTITY pref_font_size_xlarge "Molt grossa">
+<!ENTITY pref_font_size_set "Defineix">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\'innovar en el vostre nom sense cap tipus de pressió a l\'hora de comprometre\'ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al Web.">
+
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sincronitza">
 <!ENTITY pref_search_suggestions "Mostra els suggeriments de cerca">
 <!ENTITY pref_import_android "Importa de l\'Android">
 <!ENTITY pref_private_data_history "Historial de navegació i baixades">
 <!ENTITY pref_private_data_formdata "Historial de formularis i cerques">
-<!ENTITY pref_private_data_cookies "Galetes">
+<!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
 <!ENTITY pref_private_data_passwords "Contrasenyes desades">
 <!ENTITY pref_private_data_cache "Memòria cau">
-<!ENTITY pref_private_data_sessions "Sessions actives">
 <!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
 <!ENTITY pref_private_data_siteSettings "Preferències dels lloc web">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Ubicació">
 <!ENTITY bookmark_edit_keyword "Paraula clau">
 
-<!ENTITY site_settings_title        "Neteja les opcions del lloc">
+<!ENTITY site_settings_title2       "Paràmetres del lloc...">
 <!ENTITY site_settings_cancel       "Cancel·la">
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap opció per netejar.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\'última vegada">
 <!ENTITY abouthome_top_sites_title "Els vostres llocs">
 <!ENTITY abouthome_top_sites_browse "Mostra\'m els meus llocs més habituals">
-<!ENTITY abouthome_no_top_sites "Encara no teniu cap lloc seleccionat. Toqueu la barra del títol per seleccionar-lo.">
-<!ENTITY abouthome_about_sync "Configureu el Firefox Sync per accedir a les adreces d\'interès, l\'historial i les pestanyes dels altres dispositius que teniu">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Configureu el Firefox Sync per accedir a les adreces d\'interès, l\'historial i les pestanyes dels vostres altres dispositius&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Obtingueu aplicacions al Mozilla Marketplace i descobriu el millor que us pot oferir el Web&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Trieu un fitxer">
 <!ENTITY filepicker_audio_title "Trieu o enregistreu un so">
@@ -201,3 +224,20 @@ de l\'Android">
 <!ENTITY bookmarkhistory_import_wait "Espereu…">
 
 <!ENTITY webapp_generic_name "Aplicacions">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Actualització del &brandShortName; disponible&#8230;">
+<!ENTITY updater_start_select "Select to download update.">
+
+<!ENTITY updater_downloading_title "S\'està baixant el &brandShortName;">
+<!ENTITY updater_downloading_ticker "S\'està baixant l\'actualització del &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "No s\'ha pogut baixar l\'actualització del &brandShortName;#8230;">
+<!ENTITY updater_downloading_select "Selecciona per aplicar l\'actualització quan acabi.">
+<!ENTITY updater_downloading_retry "Selecciona per tornar a baixar l\'actualització.">
+<!ENTITY updater_downloading_willapply "S\'està esperant que acabi l\'actualització.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Actualització del &brandShortName; disponible&#8230;">
+<!ENTITY updater_apply_select "Selecciona per aplicar l\'actualització baixada.">
+

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Rodeta del ratolí">
 <!ENTITY mouseWheelPanel.label           "Indiqueu el comportament de la roda del ratolí en utilitzar-lo amb aquesta tecla: ">
@@ -10,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Desplaçament vertical">
-<!ENTITY mousewheelHorizGroup.label      "Desplaçament horitzontal">
-<!ENTITY scroll.label                    "Desplaça el document">
-<!ENTITY scroll.accesskey                "s">
-<!ENTITY scrollHoriz.accesskey           "ç">
-<!ENTITY scrollLines.label               " línies">
-<!ENTITY scrollChars.label               " caràcters">
-<!ENTITY useSystemDefault.label          "Per defecte al sistema">
-<!ENTITY useSystemDefault.accesskey      "i">
-<!ENTITY useSystemDefaultHoriz.accesskey "d">
-<!ENTITY scrollPgUpPgDn.label            "Desplaça una pàgina amunt o avall">
-<!ENTITY scrollPgUpPgDn.accesskey        "p">
-<!ENTITY scrollPgLtPgRt.label            "Desplaça't una pàgina a l'esquerra o a la dreta">
-<!ENTITY scrollPgLtPgRt.accesskey        "o">
+<!ENTITY mouseWheelAction.label          "Acció de la roda del ratolí">
+<!ENTITY doNothing.label                 "Cap">
+<!ENTITY doNothing.accesskey             "C">
+<!ENTITY scrollDocument.label            "Desplaça el document">
+<!ENTITY scrollDocument.accesskey        "S">
+<!ENTITY mouseWheelSpeed.label           "Velocitat de la roda del ratolí">
 <!ENTITY history.label                   "Mou enrere o endavant en l'historial de navegació">
 <!ENTITY history.accesskey               "h">
-<!ENTITY historyHoriz.accesskey          "v">
 <!ENTITY zoom.label                      "Augmenta o redueix la pàgina">
 <!ENTITY zoom.accesskey                  "t">
-<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY verticalSpeed.label             "Vertical:">
+<!ENTITY verticalSpeed.accesskey         "V">
+<!ENTITY verticalReverse.label           "Direcció inversa">
+<!ENTITY verticalReverse.accesskey       "i">
+<!ENTITY horizontalSpeed.label           "Horitzontal:">
+<!ENTITY horizontalSpeed.accesskey       "o">
+<!ENTITY horizontalReverse.label         "Direcció inversa">
+<!ENTITY horizontalReverse.accesskey     "e">

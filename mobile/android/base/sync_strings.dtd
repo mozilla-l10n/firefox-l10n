@@ -68,7 +68,7 @@
 <!-- Bookmark folder strings -->
   
 <!ENTITY bookmarks.folder.menu.label "Menú de les adreces d\'interès">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "">
 <!ENTITY bookmarks.folder.tags.label "Etiquetes">
 <!ENTITY bookmarks.folder.toolbar.label "Barra d\'eines de les adreces">
 <!ENTITY bookmarks.folder.unfiled.label "Adreces desordenades">
@@ -91,4 +91,5 @@
 <!ENTITY sync.button.set.up.sync.label "Configura el &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configura el &syncBrand.shortName.label; per enviar pestanyes">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configura el &syncBrand.fullName.label; en el dispositiu per enviar pestanyes a d\'altres.">
-<!ENTITY sync.text.tab.sent.label "S\'ha enviat la pestanya!">
+<!ENTITY sync.text.tab.sent.label "S\'ha enviat la pestanya.">
+<!ENTITY sync.text.tab.not.sent.label "S\'ha produït un problema en enviar la pestanya.">

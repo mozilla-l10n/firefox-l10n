@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Suprimeix">
 <!ENTITY deleteButton.accesskey "u">
+<!ENTITY reorderTopButton "Mou a la part superior">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Reorganitza el filtre per a que s'executi abans que tots els altres">
 <!ENTITY reorderUpButton.label "Mou cap amunt">
 <!ENTITY reorderUpButton.accesskey "M">
 <!ENTITY reorderDownButton.label "Mou cap avall">
 <!ENTITY reorderDownButton.accesskey "o">
+<!ENTITY reorderBottomButton "Mou a la part inferior">
+<!ENTITY reorderBottomButton.accessKey "i">
+<!ENTITY reorderBottomButton.toolTip "Reorganitza el filtre per a que s'executi després de tots els altres">
 <!ENTITY filterHeader.label "Els filtres habilitats s'executen automàticament en l'ordre que s'indica a sota.">
 <!ENTITY filtersForPrefix.label "Filtres per a:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -31,3 +37,5 @@
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "j">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Cerca els filtres pel nom…">
+

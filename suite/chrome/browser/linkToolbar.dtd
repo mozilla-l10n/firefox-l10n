@@ -5,6 +5,7 @@
 
 <!ENTITY linkToolbar.label "Barra de navegació del lloc">
 <!ENTITY linkToolbar.accesskey "B">
+<!ENTITY linkToolbar.tooltip "Barra de navegació del lloc web">
 <!-- Link Toolbar visibility options -->
 
 <!ENTITY linkToolbarAlways.label "Mostra sempre">
