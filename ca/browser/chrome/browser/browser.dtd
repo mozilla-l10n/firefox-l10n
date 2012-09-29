@@ -106,7 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullscreenExitHint.value "Premeu ESC en qualsevol moment per sortir de la pantalla completa.">
 <!ENTITY leaveDOMFullScreen.label "Tanca la pantalla completa">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY leaveDOMFullScreen.accesskey "p">
 
 <!ENTITY closeWindow.label "Tanca la finestra">
 <!ENTITY closeWindow.accesskey "f">
@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "Més eines">
 
 <!ENTITY webConsoleButton.label "Consola web">
 <!ENTITY inspectorButton.label "Inspector">
@@ -253,16 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "Suprimeix el node ">
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-
-<!ENTITY inspectOptionButton.tooltiptext    "Opcions de l'inspector">
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-
-<!ENTITY inspectorToggleVeil.label          "Enfosqueix la pàgina">
-<!ENTITY inspectorToggleVeil.accesskey      "E">
-<!ENTITY inspectorToggleInfobar.label       "Mostra la informació del node">
-<!ENTITY inspectorToggleInfobar.accesskey   "n">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -656,8 +647,22 @@ toolbar button -->
 
 <!ENTITY socialToolbar.title        "Botó de barra social">
 <!ENTITY social.notLoggedIn.label   "No s'ha iniciat la sessió">
+<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
+     used for the "OK" button for two different social panels. One appears when
+     the feature is activated (social.activated.* below), and the other when
+     the user clicks the "Share" button a second time (social.sharePopup.*
+     below). -->
+
+<!ENTITY social.ok.label       "D'acord">
+<!ENTITY social.ok.accesskey   "O">
 
 <!ENTITY social.sharePopup.undo.label     "Deixa de compartir">
 <!ENTITY social.sharePopup.undo.accesskey "D">
-<!ENTITY social.sharePopup.ok.label       "D'acord">
-<!ENTITY social.sharePopup.ok.accesskey   "o">
+<!ENTITY social.sharePopup.shared.label   "Heu compartit la pàgina.">
+<!ENTITY social.sharePopup.portrait.arialabel "Fotografia del perfil d'usuari">
+
+<!ENTITY social.toggleSidebar.label "Mostra la barra lateral">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.activated.undobutton.label "Desfés">
+<!ENTITY social.activated.undobutton.accesskey "D">

@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Visualitza la imatge de fons">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setWallpaperCmd.label        "Assigna com a fons d'escriptori">
-<!ENTITY setWallpaperCmd.accesskey    "s">
+<!ENTITY setDesktopBackgroundCmd.label     "Defineix el fons d'escriptori...">
+<!ENTITY setDesktopBackgroundCmd.accesskey "o">
 <!ENTITY bookmarkPageCmd.label        "Afegeix aquesta pàgina a les adreces d'interès…">
 <!ENTITY bookmarkPageCmd.accesskey    "p">
 <!ENTITY bookmarkLinkCmd.label        "Afegeix aquest enllaç a les adreces d'interès…">

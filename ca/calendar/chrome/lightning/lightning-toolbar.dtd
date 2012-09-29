@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barra d'eines del calendari">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Barra d'eines de les tasques">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronitza">
 <!ENTITY lightning.toolbar.delete.label "Suprimeix">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Imprimeix">
 <!-- Mode Toolbar -->
 
-<!ENTITY lightning.toolbar.mail.label         "Correu">
-<!ENTITY lightning.toolbar.mail.accesskey     "u">
 <!ENTITY lightning.toolbar.calendar.label     "Calendari">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Mostra la pestanya del calendari">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">

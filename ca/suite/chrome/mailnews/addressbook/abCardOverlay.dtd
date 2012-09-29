@@ -32,7 +32,7 @@
 <!ENTITY DisplayName.label              "Nom a mostrar:">
 <!ENTITY DisplayName.accesskey          "m">
 <!ENTITY preferDisplayName.label        "Es prefereix mostrar sempre el nom sobre la capçalera del missatge">
-<!ENTITY preferDisplayName.accesskey    "A">
+<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Sobrenom:">
 <!ENTITY NickName.accesskey             "S">
 
@@ -89,7 +89,7 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY Year.placeholder               "Any">
 <!ENTITY Or.value                       "o">
 <!ENTITY Age.placeholder                "Edat">
-<!ENTITY YearsOld.label                 "">
+<!ENTITY YearsOld.label                 " anys">
 
 <!ENTITY Work.tab                       "Feina">
 <!ENTITY Work.accesskey                 "F">

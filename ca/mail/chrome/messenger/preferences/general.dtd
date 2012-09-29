@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Navega…">
 <!ENTITY browse.accesskey                 "N">
-
-<!ENTITY addonsMgr.label                  "Complements">
-<!ENTITY manageAddonsDescWin.label        "Canvia les opcions dels vostres complements">
-<!ENTITY manageAddonsDescUnix2.label      "Canvia les preferències dels vostres complements">
-<!ENTITY manageAddons.label               "Gestiona els complements…">
-<!ENTITY manageAddons.accesskey           "G">

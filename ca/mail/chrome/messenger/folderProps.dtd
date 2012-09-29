@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "Arrel de la quota:">
 <!ENTITY folderQuotaUsage.label                  "Utilització:">
 <!ENTITY folderQuotaStatus.label                 "Estat:">
+
+<!ENTITY numberOfMessages.label                  "Nombre de missatges:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "desconegut">
+<!ENTITY sizeOnDisk.label                        "Mida al disc:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "desconegut">

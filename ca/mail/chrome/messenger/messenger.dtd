@@ -508,6 +508,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consola d'errors">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Neteja l'historial recent…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Paràmetres dels comptes…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -549,6 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Ubicació de la carpeta">
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compacta">
+<!ENTITY appmenuButton.label "Menú App">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Cerca avançada de missatges">
@@ -579,6 +582,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Mostra la pestanya de xat">
 <!ENTITY tagButton.tooltip "Etiqueta els missatges">
 <!ENTITY compactButton.tooltip "Treu els missatges suprimits de la carpeta seleccionada">
+<!ENTITY appmenuButton.tooltip "Mostra el menú d'aplicacions">
+<!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "Missatge nou">
+<!ENTITY appmenuNewContactCmd.label "Contacte de la llibreta d'adreces…">
+<!ENTITY appmenuEditMenu.label "Edita">
+<!ENTITY appmenuQFBMenu.label "Barra del filtre ràpid">
+<!ENTITY appmenuToolbarLayout.label "Format de la barra d'eines…">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Afegeix una etiqueta…">

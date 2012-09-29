@@ -67,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "C">
 <!ENTITY otherActionsPrint1.label "Imprimeix...">
 <!ENTITY otherActionsPrint1.accesskey "I">
+<!-- Attachment bar context menu items -->
+
+<!ENTITY startExpandedCmd.label    "Inicialment mostra la subfinestra d'adjuncions">
+<!ENTITY startExpandedCmd.accesskey    "S">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "Obre">
