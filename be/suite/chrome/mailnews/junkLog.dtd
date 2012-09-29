@@ -37,8 +37,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY junkLog.title "Метрыка паштовай лухты">
-<!ENTITY junkLogInfo.label "Заносіць у метрыку дзейнасць кіроўца поштай-лухтой.">
+<!ENTITY adaptiveJunkLog.title "Метрыка прыстасоўных сітаў пошты-лухты">
+<!ENTITY adaptiveJunkLogInfo.label "Метрыка дзейнасці прыстасоўных сітаў пошты-лухты">
 <!ENTITY clearLog.label "Ачысціць метрыку">
 <!ENTITY clearLog.accesskey "ч">
 <!ENTITY closeLog.label "Зачыніць">

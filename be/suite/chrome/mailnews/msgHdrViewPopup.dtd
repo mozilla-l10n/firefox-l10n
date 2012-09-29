@@ -1,6 +1,10 @@
 <!--null-->
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
 <!ENTITY AddToAddressBook.accesskey "к">
+<!ENTITY EditContact.label "Правіць сувязь…">
+<!ENTITY EditContact.accesskey "П">
+<!ENTITY ViewContact.label "Прагляд сувязі">
+<!ENTITY ViewContact.accesskey "г">
 <!ENTITY SendMailTo.label "Укласці ліст да…">
 <!ENTITY SendMailTo.accesskey "у">
 <!ENTITY CopyEmailAddress.label "Капіяваць адрас э-пошты">

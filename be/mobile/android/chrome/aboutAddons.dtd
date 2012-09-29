@@ -4,4 +4,4 @@
 <!ENTITY addonAction.enable "Дазволіць">
 <!ENTITY addonAction.disable "Забараніць">
 <!ENTITY addonAction.uninstall "Высталяваць">
-<!ENTITY addonAction.cancel "Скасаваць">
+<!ENTITY addonAction.undo "Адмяніць">

@@ -14,6 +14,8 @@
 <!ENTITY PhoneticField2.label "Фанетычны:">
 <!ENTITY DisplayName.label "Адлюстроўваць як:">
 <!ENTITY DisplayName.accesskey "Я">
+<!ENTITY preferDisplayName.label "Заўсёды аддаваць перавагу адлюстроўнаму імя перад загалоўкам ліста">
+<!ENTITY preferDisplayName.accesskey "З">
 <!ENTITY NickName.label "Мянушка:">
 <!ENTITY NickName.accesskey "М">
 <!ENTITY PrimaryEmail.label "Э-Пошта:">

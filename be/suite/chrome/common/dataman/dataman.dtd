@@ -80,7 +80,7 @@
 <!ENTITY perm.AskAlways "Заўсёды пытаць">
 <!ENTITY perm.NeverSave "Ніколі не захоўваць">
 <!ENTITY perm.Allow "Дазволіць">
-<!ENTITY perm.AllowSameDomain "Allow for Same Domain">
+<!ENTITY perm.AllowSameDomain "Дазволіць для дамену">
 <!ENTITY perm.AllowSession "Дазволіць на час сэсіі">
 <!ENTITY perm.Block "Блакаваць">
 <!ENTITY perm.host.placeholder "Увядзіце назву трымальніка">

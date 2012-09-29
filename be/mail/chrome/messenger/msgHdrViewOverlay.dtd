@@ -22,13 +22,13 @@
 <!ENTITY hdrArchiveButton1.tooltip "Архіваваць гэты ліст">
 <!ENTITY hdrSmartReplyButton1.label "Кемны адказ">
 <!ENTITY hdrReplyButton1.label "Адказаць">
-<!ENTITY hdrReplyButton2.tooltip "Reply to the sender of this message">
+<!ENTITY hdrReplyButton2.tooltip "Адказаць дасылальніку гэтага ліста">
 <!ENTITY hdrReplyAllButton1.label "Адк. усім">
 <!ENTITY hdrReplyAllButton1.tooltip "Адказаць адпраўніку і ўсім атрымальнікам">
 <!ENTITY hdrReplyListButton1.label "Адказаць спісу">
 <!ENTITY hdrReplyListButton1.tooltip "Адказаць паштоваму спісу">
-<!ENTITY hdrFollowupButton1.label "Followup">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrFollowupButton1.label "Даслаць водгук">
+<!ENTITY hdrFollowupButton1.tooltip "Даслаць водгук у навінакупу">
 <!ENTITY hdrForwardButton1.label "Накіраваць">
 <!ENTITY hdrForwardButton1.tooltip "Накіраваць гэты ліст">
 <!ENTITY hdrJunkButton1.label "Лухта">

@@ -25,6 +25,7 @@
 <!ENTITY advance.label "Пашыраны">
 <!ENTITY down.label "Загрузка">
 <!ENTITY cache.label "Запаснік">
+<!ENTITY offlineApps.label "Пазасеткавыя прыстасаванні">
 <!ENTITY proxies.label "Пасярэднікі">
 <!ENTITY httpnetworking.label "Сетка HTTP">
 <!ENTITY smart.label "Усталяванне праграмнага забеспячэння">

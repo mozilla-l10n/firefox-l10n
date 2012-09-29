@@ -1,0 +1,10 @@
+<!ENTITY fileExceedsLimit.title "YouSendIt">
+<!ENTITY fileExceedsLimit.thatsBigFile "Дасыланне большых за 50МБ файлаў">
+<!ENTITY fileExceedsLimit.thatsBigFile2 "прэміяльная ўласцівасць">
+<!ENTITY fileExceedsLimit.accept "Узняць">
+<!ENTITY fileExceedsLimit.cancel "Скасаваць">
+<!ENTITY fileExceedsLimit.style "width: 42em; min-height: 20em;">
+<!ENTITY fileExceedsLimit.proIncludes "Узняць закзар, каб даслаць гэты файл. Плюс:">
+<!ENTITY fileExceedsLimit.pros1 "Дасыланне файлаў і папак да 2 ГБ">
+<!ENTITY fileExceedsLimit.pros2 "Неабмежаванае захаванне файлаў у сетцы">
+<!ENTITY fileExceedsLimit.pros3 "Доступ і падзел файламі адусюль">

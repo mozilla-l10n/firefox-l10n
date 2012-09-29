@@ -25,12 +25,14 @@
 <!ENTITY sync.button.tryagain.label "Паспрабаваць зноў">
 <!ENTITY sync.button.manual.label "Ручное ўладкаванне">
 <!ENTITY sync.subtitle.nointernet.label "Няма злучэння з Інтэрнэтам.">
+<!ENTITY sync.subtitle.failaccount.label "Няўдача стварэння рахунку на вашай збудове.">
+<!ENTITY sync.subtitle.failmultiple.label "Вы маеце некалькі ўсталяваных Firefox? Зараз &syncBrand.fullName.label; падтрымлівае толькі адно ўсталяванне Firefox. Высталюйце, калі ласка, іншыя асобнікі, каб скарыстацца &syncBrand.shortName.label;.">
 <!ENTITY sync.title.success.label "Уладкаванне скончана">
-<!ENTITY sync.subtitle.success.label1 "Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Вашы здаткі зараз фонава сцягваюцца. Вы можаце перайсці ў Наладжванні, каб кіраваць вашым рахункам, або пачаць азіранне ў &brandShortName;.">
 <!ENTITY sync.settings.label "Наладжванні">
-<!ENTITY sync.subtitle.manage.label1 "Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.">
+<!ENTITY sync.subtitle.manage.label1 "Ваш рахунак &syncBrand.fullName.label; ужо наладжаны. Вы можаце перайсці ў Наладжванні, каб кіраваць вашым рахункам, або запусціць &brandShortName;.">
 <!ENTITY sync.pair.tryagain.label "Паспрабуйце, калі ласка, зноў.">
-<!ENTITY sync.pair.connectlocation.label "To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”">
+<!ENTITY sync.pair.connectlocation.label "Каб задзейнічаць новую збудову, выберыце “Наладзіць &syncBrand.shortName.label;” на збудове і тады вылучыце “Я маю рахунак.”">
 <!ENTITY sync.settings.options.label "Наладжванні">
 <!ENTITY sync.summary.pair.label "Злучыць іншую збудову з вашым рахункам &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Скасаваць">
@@ -44,6 +46,15 @@
 <!ENTITY bookmarks.folder.unfiled.label "Неразмеркаваныя закладкі">
 <!ENTITY bookmarks.folder.desktop.label "Закладкі працоўнага стала.">
 <!ENTITY bookmarks.folder.mobile.label "Мабільныя закладкі">
-<!ENTITY bookmarks.folder.readinglist.label "Reading List">
+<!ENTITY bookmarks.folder.readinglist.label "Спіс чытання">
 <!ENTITY sync.notification.oneaccount.label "Толькі рахунак &syncBrand.fullName.label; падтрымліваецца.">
-<!ENTITY sync.new.recoverykey.status.incorrect "Recovery Key incorrect. Please try again.">
+<!ENTITY sync.invalidcreds.label "Няправільная назва рахунку аоб пароль.">
+<!ENTITY sync.invalidserver.label "Увядзіце, калі ласка, сапраўдны URL паслугача">
+<!ENTITY sync.verifying.label "Праверка…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Няправільны узноўны ключ. Паспрабуйце, калі ласка, зноў.">
+<!ENTITY sync.title.send.tab.label "Даслаць устаўку на збудовы">
+<!ENTITY sync.button.send.label "Даслаць">
+<!ENTITY sync.button.set.up.sync.label "Наладзіць &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Наладка дасылання ўставак праз &syncBrand.shortName.label;">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Наладжванне &syncBrand.fullName.label; на вашай збудове для дасылання ўставак на іншыя збудовы.">
+<!ENTITY sync.text.tab.sent.label "Ваша ўстаўка даслана!">
