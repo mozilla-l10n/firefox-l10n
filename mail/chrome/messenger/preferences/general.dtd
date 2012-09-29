@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey          "e">
 <!ENTITY browse.label                   "Lehitse...">
 <!ENTITY browse.accesskey               "L">
-
-<!ENTITY addonsMgr.label                "Lisad">
-<!ENTITY manageAddonsDescWin.label      "Muuda oma lisade sätteid">
-<!ENTITY manageAddonsDescUnix2.label    "Muuda oma lisade eelistusi">
-<!ENTITY manageAddons.label             "Halda lisasid...">
-<!ENTITY manageAddons.accesskey         "H">

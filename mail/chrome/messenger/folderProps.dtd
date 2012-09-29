@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                  "Kvoodi juurkaust:">
 <!ENTITY folderQuotaUsage.label                 "Kasutamine:">
 <!ENTITY folderQuotaStatus.label                "Olek:">
+
+<!ENTITY numberOfMessages.label                 "Kirju:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "pole teada">
+<!ENTITY sizeOnDisk.label                        "Suurus kettal:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "pole teada">

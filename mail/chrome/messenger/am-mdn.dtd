@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Kättesaamise kinnitus">
 <!ENTITY useGlobalPrefs.label         "Kasutatakse üldiseid kättesaamise kinnituse sätteid">
 <!ENTITY useGlobalPrefs.accesskey     "K">
+<!ENTITY globalReceipts.label         "Üldised sätted…">
+<!ENTITY globalReceipts.accesskey     "b">
 <!ENTITY useCustomPrefs.label         "Kohandatud kättesaamise kinnitus">
 <!ENTITY useCustomPrefs.accesskey     "o">
 <!ENTITY requestReceipt.label         "Kirjade saatmisel nõutakse alati kättesaamise kinnitust">

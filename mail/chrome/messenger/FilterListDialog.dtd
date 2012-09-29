@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey         "R">
 <!ENTITY deleteButton.label           "Kustuta">
 <!ENTITY deleteButton.accesskey       "K">
+<!ENTITY reorderTopButton             "Liiguta esimeseks">
+<!ENTITY reorderTopButton.accessKey   "g">
+<!ENTITY reorderTopButton.toolTip     "Liiguta filter esimeseks, nii et see käivituks enne teisi">
 <!ENTITY reorderUpButton.label        "Liiguta üles">
-<!ENTITY reorderUpButton.accesskey    "g">
+<!ENTITY reorderUpButton.accesskey    "t">
 <!ENTITY reorderDownButton.label      "Liiguta alla">
 <!ENTITY reorderDownButton.accesskey  "a">
+<!ENTITY reorderBottomButton          "Liiguta viimaseks">
+<!ENTITY reorderBottomButton.accessKey "v">
+<!ENTITY reorderBottomButton.toolTip  "Liiguta filter viimaseks, nii et see käivituks pärast teisi">
 <!ENTITY filterHeader.label           "Aktiivsed filtrid rakenduvad alljärgnevas järjestuses.">
 <!ENTITY filtersForPrefix.label       "Filtrid kontole:">
 <!ENTITY filtersForPrefix.accesskey   "F">
@@ -31,3 +37,4 @@
 <!ENTITY helpButton.label             "Abi">
 <!ENTITY helpButton.accesskey         "A">
 <!ENTITY closeCmd.key                 "W">
+<!ENTITY searchBox.emptyText          "Otsi filtrit nime järgi…">
