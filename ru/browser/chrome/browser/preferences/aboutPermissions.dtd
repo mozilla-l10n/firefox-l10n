@@ -12,7 +12,7 @@
 <!ENTITY permission.alwaysAsk "Всегда спрашивать">
 <!ENTITY permission.allow "Разрешить">
 <!ENTITY permission.allowForSession "Разрешить на сессию">
-<!ENTITY permission.allowFirstPartyOnly "Принимать только с посещаемого сайта">
+<!ENTITY permission.allowFirstPartyOnly "Принимать только с этого сайта">
 <!ENTITY permission.block "Блокировать">
 <!ENTITY password.label "Хранить пароли">
 <!ENTITY password.manage "Управление паролями…">
