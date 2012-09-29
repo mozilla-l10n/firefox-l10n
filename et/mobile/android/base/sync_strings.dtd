@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Kaartide saatmiseks seadista &syncBrand.shortName.label;'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label  'Kaartide saatmiseks teistesse seadmetesse seadista &syncBrand.fullName.label;.'>
 <!ENTITY sync.text.tab.sent.label                 'Kaart saadetud!'>
+<!ENTITY sync.text.tab.not.sent.label             'Kaardi saatmisel esines probleem.'>
