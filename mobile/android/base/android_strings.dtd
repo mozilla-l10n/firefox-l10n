@@ -45,6 +45,8 @@
 <!ENTITY history_week_section            "Viimased 7 päeva">
 <!ENTITY history_older_section           "Vanemad kui 7 päeva">
 
+<!ENTITY go                              "Mine">
+<!ENTITY search                          "Otsi">
 <!ENTITY reload                          "Laadi uuesti">
 <!ENTITY forward                         "Edasi">
 <!ENTITY menu                            "Menüü">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium           "keskmine">
 <!ENTITY pref_font_size_large            "suur">
 <!ENTITY pref_font_size_xlarge           "väga suur">
+<!ENTITY pref_font_size_set              "kohandatud">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char      "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text     "Kiire oranž rebane hüppab üle sinu ootuste suurema kiirusega, parema paindlikkusega ning tõhusama turvalisusega. Mittetulunduslikena oleme innovatiivsed just sinu jaoks ja me ei pea tegema survestatud kompromisse. See tähendab paremat kasutuskogemust sinule ja helgemat tulevikku tervele veebile.">
+
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
 <!ENTITY pref_sync                       "Sync">
 <!ENTITY pref_search_suggestions         "Kuvatakse otsingu soovitusi">
 <!ENTITY pref_import_android             "Androidist importimine">
 <!ENTITY pref_private_data_history       "Veebilehitsemise ja allalaadimiste ajalugu">
 <!ENTITY pref_private_data_formdata      "Vormide ja otsingu ajalugu">
-<!ENTITY pref_private_data_cookies       "Küpsised">
+<!ENTITY pref_private_data_cookies2      "Küpsised ja aktiivsed sisselogimised">
 <!ENTITY pref_private_data_passwords     "Salvestatud paroolid">
 <!ENTITY pref_private_data_cache         "Vahemälu">
-<!ENTITY pref_private_data_sessions      "Aktiivsed sisselogimised">
 <!ENTITY pref_private_data_offlineApps   "Veebilehtede võrguta režiimis kasutamiseks mõeldud andmed">
 <!ENTITY pref_private_data_siteSettings  "Saitide sätted">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location          "Asukoht">
 <!ENTITY bookmark_edit_keyword           "Võtmesõna">
 
-<!ENTITY site_settings_title             "Saidi sätete kustutamine">
+<!ENTITY site_settings_title2            "Saidi sätted…">
 <!ENTITY site_settings_cancel            "Loobu">
 <!ENTITY site_settings_clear             "Kustuta">
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open        "Ava kõik kaardid eelmisest korrast">
 <!ENTITY abouthome_top_sites_title       "Top saidid">
 <!ENTITY abouthome_top_sites_browse      "Sirvi kõiki top saite">
-<!ENTITY abouthome_no_top_sites          "Top saidid hetkel puuduvad. Lehitsemise alustamiseks puuduta tiitliriba.">
-<!ENTITY abouthome_about_sync            "Seadista Firefox Sync, et ligi pääseda oma teistes seadmetes olevatele järjehoidjatele, ajaloole ja kaartidele">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3           "Seadista Firefox Sync, et ligi pääseda oma teistes seadmetes olevatele järjehoidjatele, ajaloole ja kaartidele&#x00A0;»">
+<!ENTITY abouthome_about_apps2           "Hangi veebirakendusi Mozilla veebipoest ning avasta parimat, mida veebil pakkuda on&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name        "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name        "Mozilla veebipoest">
 
 <!ENTITY filepicker_title                "Faili valimine">
 <!ENTITY filepicker_audio_title          "Heli valimine või salvestamine">
@@ -201,3 +224,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait     "Palun oota...">
 
 <!ENTITY webapp_generic_name             "Rakendus">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title             "&brandShortName;">
+<!ENTITY updater_start_ticker            "&brandShortName;ile on saadaval uuendus&#8230;">
+<!ENTITY updater_start_select            "Uuenduse allalaadimiseks vali.">
+
+<!ENTITY updater_downloading_title       "&brandShortName;i allalaadimine">
+<!ENTITY updater_downloading_ticker      "&brandShortName;i uuenduse allalaadimine&#8230;">
+<!ENTITY updater_downloading_ticker_failed "&brandShortName;i uuenduse allalaadimine ebaõnnestus&#8230;">
+<!ENTITY updater_downloading_select      "Vali, kui soovid, et uuendus rakendataks allalaadimise lõppemisel.">
+<!ENTITY updater_downloading_retry       "Vali, kui soovid uuenduse allalaadimist uuesti proovida.">
+<!ENTITY updater_downloading_willapply   "Oodatakse, et allalaadimine lõpeks.">
+
+<!ENTITY updater_apply_title             "&brandShortName;">
+<!ENTITY updater_apply_ticker            "&brandShortName;ile on saadaval uuendus&#8230;">
+<!ENTITY updater_apply_select            "Vali, kui soovid rakendada allalaaditud uuenduse.">
