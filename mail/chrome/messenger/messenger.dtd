@@ -21,8 +21,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Рахунак гутаркі…">
 <!ENTITY newIMAccountCmd.accesskey "г">
-<!ENTITY newIMContactCmd.label "Chat Contact…">
-<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY newIMContactCmd.label "Гутарковая сувязь…">
+<!ENTITY newIMContactCmd.accesskey "г">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY openAttachmentCmd.label "Далучэнні">
@@ -325,8 +325,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Адказаць толькі адпраўніку">
 <!ENTITY replySenderCmd.accesskey "А">
-<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
-<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY replyNewsgroupCmd2.label "Адказаць у навінакупе">
+<!ENTITY replyNewsgroupCmd2.accesskey "у">
 <!ENTITY replyToAllMsgCmd.label "Адказаць усім">
 <!ENTITY replyToAllMsgCmd.accesskey "з">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -442,8 +442,8 @@
 <!ENTITY imStatus.unavailable "Недаступны">
 <!ENTITY imStatus.offline "Па-за сеткаю">
 <!ENTITY imStatus.showAccounts "Паказаць рахункі…">
-<!ENTITY joinChatCmd.label "Join Chat…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.label "Далучыцца да гутакі…">
+<!ENTITY joinChatCmd.accesskey "Д">
 <!ENTITY savedFiles.label "Захаваныя файлы">
 <!ENTITY savedFiles.accesskey "ф">
 <!ENTITY savedFiles.key "j">
@@ -531,6 +531,8 @@
 <!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
+<!ENTITY manageTags.label "Кіраваць тэгамі…">
+<!ENTITY manageTags.accesskey "К">
 <!ENTITY folderColumn.label "Назва">
 <!ENTITY folderSizeColumn.label "Памер">
 <!ENTITY folderContextGetMessages.label "Атрымаць лісты">
@@ -630,8 +632,8 @@
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
 <!ENTITY contextReplySender.accesskey "А">
-<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyNewsgroup2.label "Адказаць у навінакупе">
+<!ENTITY contextReplyNewsgroup2.accesskey "н">
 <!ENTITY contextReplyAll.label "Адказаць усім">
 <!ENTITY contextReplyAll.accesskey "У">
 <!ENTITY contextReplyList.label "Адказаць спісу">
@@ -665,7 +667,7 @@
 <!ENTITY contextMute.accesskey "З">
 <!ENTITY contextUnmute.label "Уключыць гук">
 <!ENTITY contextUnmute.accesskey "У">
-<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
+<!ENTITY junkBarMessage2.label "&brandShortName; лічыць, што гэты ліст пошта-лухта.">
 <!ENTITY junkBarButton1.label "Не лухта">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "Каб захаваць ваша адасабленне, &brandShortName; блакаваў адлеглае змесціва ў гэтым лісце.">

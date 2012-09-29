@@ -486,6 +486,7 @@
 <!ENTITY loadRemoteContentButton.label "Паказаць адлеглае змесціва">
 <!ENTITY phishingBarMessage.label "&brandShortName; лічыць, што гэты ліст – э-паштовая ашука.">
 <!ENTITY removePhishingBarButton.label "Не ашука">
-<!ENTITY mdnBarMessage.label "Адпраўнік гэтага ліста просіць паведаміць яму, што вы прачыталі гэты ліст. Вы хочаце паведаміць адпраўніку аб прачытанні?">
 <!ENTITY mdnBarIgnoreButton.label "Ігнараваць запыт">
+<!ENTITY mdnBarIgnoreButton.accesskey "І">
 <!ENTITY mdnBarSendButton.label "Даслаць квіток">
+<!ENTITY mdnBarSendButton.accesskey "к">

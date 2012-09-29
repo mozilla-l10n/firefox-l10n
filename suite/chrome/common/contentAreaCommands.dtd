@@ -116,8 +116,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "т">
 <!ENTITY spellAddToDictionary.label "Дадаць у слоўнік">
 <!ENTITY spellAddToDictionary.accesskey "Д">
-<!ENTITY spellUndoAddToDictionary.label "Undo Add to Dictionary">
-<!ENTITY spellUndoAddToDictionary.accesskey "i">
+<!ENTITY spellUndoAddToDictionary.label "Адмяніць даданне ў слоўнік">
+<!ENTITY spellUndoAddToDictionary.accesskey "А">
 <!ENTITY spellIgnoreWord.label "Ігнараваць слова">
 <!ENTITY spellIgnoreWord.accesskey "с">
 <!ENTITY spellCheckEnable.label "Правяраць правапіс">

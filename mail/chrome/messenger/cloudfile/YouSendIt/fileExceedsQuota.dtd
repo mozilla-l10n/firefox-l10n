@@ -1,0 +1,8 @@
+<!ENTITY fileExceedsQuota.title "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached "Дасягнута абмежаванне аб'ёму захаванняў">
+<!ENTITY fileExceedsQuota.accept "Узняць">
+<!ENTITY fileExceedsQuota.cancel "Скасаваць">
+<!ENTITY fileExceedsQuota.description "Вы засягнулі абмежавання памеру захаванняў рахунку ў 2 ГБ.">
+<!ENTITY fileExceedsQuota.description1 "Зараз вашы захаванні важаць #XXX ГБ.">
+<!ENTITY fileExceedsQuota.description2 "Узняць сёння да рахунку Pro Plus і атрымаць больш месца для захаванняў.">
+<!ENTITY fileExceedsQuota.description3 "Вы таксама можаце выдаліць непатрэбныя файлы ў вашым рахунку, каб вызваліць месца.">

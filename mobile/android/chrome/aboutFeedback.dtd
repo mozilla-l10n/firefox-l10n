@@ -1,0 +1,29 @@
+<!ENTITY pageTitle "Водгук пра &brandShortName;">
+<!ENTITY intro.header "Маеце вольную хвіліну?">
+<!ENTITY intro.message "Паведамце нам, што вы думаеце пра &brandShortName; для Android.">
+<!ENTITY intro.happyLink "Мне ён падабаецца">
+<!ENTITY intro.sadLink "Я зазнаў праблемы">
+<!ENTITY intro.ideaLink "Маю ідэю">
+<!ENTITY support.pre "Калі вам патрэбна дапамога або вы заналі праблему з &brandShortName;, наведайце, калі ласка, ">
+<!ENTITY support.link "пляцоўку падтрымкі &brandShortName;">
+<!ENTITY support.post ".">
+<!ENTITY happy.header "Прыемна ведаць!">
+<!ENTITY happy.message "Хочаце падзяліцца вашай улёбённасцю, даўшы нам 5 зорак на Google Play?">
+<!ENTITY happy.finePrint "Гэта зойме менш хвіліны і гучыць цудоўна!">
+<!ENTITY happy.ratingLink "Так, наведаць Google Play">
+<!ENTITY happy.maybeLater "Пазней">
+<!ENTITY happy.noThanks "Не, дзякуй">
+<!ENTITY sad.message "Мы вельмі шкадуем, што вы зазналі праблемы з &brandShortName;. Раскажыце, калі ласка, нам, што здарылася, і мы выправім іх.">
+<!ENTITY sad.placeholder "Увядзіце ваш водгук тут">
+<!ENTITY sad.lastSite "Апошняя наведаная пляцоўка (неабавязкова)">
+<!ENTITY sad.urlPlaceholder "http://">
+<!ENTITY sad.thanksHeader "Дзякуй за паведамленне нам.">
+<!ENTITY sad.thanksMessageTop "Мы штодзённа працуем, каб зрабіць &brandShortName; лепшым. Будзьце ўпэўненымі, што сапраўдныя людзі прачытаюць ваш водгук і зробяць усё, каб вырашыць вашу праблему.">
+<!ENTITY sad.thanksMessageBottom "Ці іншае.">
+<!ENTITY idea.message "Нам падабаецца чуць вашы ідэі! Падзяліцеся вашымі думкамі. (Толькі пра &brandShortName;, калі ласка.)">
+<!ENTITY idea.placeholder "Увядзіце вашу ідэю тут">
+<!ENTITY idea.thanksHeader "Дзякуй!">
+<!ENTITY idea.thanksMessageTop "Шчыра дзякуем, што вы знайшлі час, каб падзяліцца вашымі думкамі! Мы штодзённа працуем, каб зрабіць &brandShortName; лепшым, і ўнёскі, какія, як вашы, могуць прывесці да вялікіх поспехаў.">
+<!ENTITY idea.thanksMessageBottom "Вы не бачыце гэтага, але вы даяце пяць зорак зараз.">
+<!ENTITY feedback.privacy "Для захаванне вашага адасаблення не ўключайце, калі ласка, ніякіх асоба-вызначальных звестак у вашым водгуку.">
+<!ENTITY feedback.send "Даслаць водгук">

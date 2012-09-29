@@ -10,7 +10,7 @@
 <!ENTITY account.autoSignOn.label "Увайсці падчас запуску">
 <!ENTITY account.autoSignOn.accesskey "У">
 <!ENTITY account.connect.label "Злучыцца">
-<!ENTITY account.connect.accesskey "o">
+<!ENTITY account.connect.accesskey "З">
 <!ENTITY account.disconnect.label "Разлучыцца">
 <!ENTITY account.disconnect.accesskey "Р">
 <!ENTITY account.edit.label "Уласцівасці">

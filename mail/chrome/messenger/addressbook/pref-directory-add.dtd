@@ -20,7 +20,7 @@
 <!ENTITY searchFilter.label "Сіта пошуку:">
 <!ENTITY searchFilter.accesskey "С">
 <!ENTITY scope.label "Ахоп: ">
-<!ENTITY scope.accesskey "М">
+<!ENTITY scope.accesskey "А">
 <!ENTITY scopeOneLevel.label "Адзін узровень">
 <!ENTITY scopeOneLevel.accesskey "У">
 <!ENTITY scopeSubtree.label "Паддрэва">

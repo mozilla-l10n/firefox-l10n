@@ -9,7 +9,7 @@
 <!ENTITY feedFolder.accesskey "ў">
 <!ENTITY quickMode.label "Паказваць зводку артыкула замест сцягвання сеціўнай старонкі">
 <!ENTITY quickMode.accesskey "к">
-<!ENTITY locationValidate.label "Validate">
+<!ENTITY locationValidate.label "Праверыць">
 <!ENTITY validateText.label "Правяраць і атрымліваць спраўны URL.">
 <!ENTITY button.addFeed.label "Дадаць">
 <!ENTITY button.addFeed.accesskey "Д">
@@ -21,5 +21,5 @@
 <!ENTITY button.importOPML.accesskey "І">
 <!ENTITY button.exportOPML.label "Экспартаваць">
 <!ENTITY button.exportOPML.accesskey "Э">
-<!ENTITY button.exportOPML.tooltip "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
+<!ENTITY button.exportOPML.tooltip "Экспарт жывільнікаў у папках; ctrl-пстрык або ctrl-увод экспартуюць жывільнікі як спіс">
 <!ENTITY cmd.close.commandKey "w">

@@ -8,6 +8,11 @@
 <!ENTITY telemetryInfoLink.label "Падрабязней пра тэлеметрыю">
 <!ENTITY enableGlodaSearch.label "Дазволіць агульныя пошук і стварэнне паказнікаў">
 <!ENTITY enableGlodaSearch.accesskey "а">
+<!ENTITY scrolling.label "Пракручванне">
+<!ENTITY useAutoScroll.label "Ужываць самапракручванне">
+<!ENTITY useAutoScroll.accesskey "У">
+<!ENTITY useSmoothScrolling.label "Ужываць плаўнае пракручванне">
+<!ENTITY useSmoothScrolling.accesskey "У">
 <!ENTITY systemIntegration.label "Узаемадзеянне з сістэмай">
 <!ENTITY alwaysCheckDefault.label "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным спажыўцом пошты">
 <!ENTITY alwaysCheckDefault.accesskey "ў">
@@ -66,9 +71,9 @@
 <!ENTITY showOffline.label "Па-за сеткаю…">
 <!ENTITY showOffline.accesskey "з">
 <!ENTITY Diskspace "Месца на дыску">
-<!ENTITY offlineCompact.label "Ушчыльняць папкі, калі яны захоўваюць больш, чым">
-<!ENTITY offlineCompact.accesskey "У">
-<!ENTITY mb.label "МБ">
+<!ENTITY offlineCompactFolders.label "Ушчыльняць усе папкі, калі я захоўваю больш">
+<!ENTITY offlineCompactFolders.accesskey "ш">
+<!ENTITY offlineCompactFoldersMB.label "МБ">
 <!ENTITY useCacheBefore.label "Ужываць да">
 <!ENTITY useCacheBefore.accesskey "У">
 <!ENTITY useCacheAfter.label "МБ прасторы для запасніку">

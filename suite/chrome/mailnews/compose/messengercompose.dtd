@@ -61,6 +61,8 @@
 <!ENTITY highestPriorityCmd.accesskey "в">
 <!ENTITY returnReceiptMenu.label "Квіток атрымання">
 <!ENTITY returnReceiptMenu.accesskey "т">
+<!ENTITY dsnMenu.label "Пацвярджэнне дастаўкі">
+<!ENTITY dsnMenu.accesskey "П">
 <!ENTITY outputFormatMenu.label "Фармат">
 <!ENTITY outputFormatMenu.accesskey "Ф">
 <!ENTITY autoFormatCmd.label "Сама-вызначэнне">

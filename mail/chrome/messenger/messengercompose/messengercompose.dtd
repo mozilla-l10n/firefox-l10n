@@ -242,7 +242,7 @@
 <!ENTITY convertCloud.label "Ператварыць у…">
 <!ENTITY convertCloud.accesskey "т">
 <!ENTITY cancelUpload.label "Скасаваць зацягванне">
-<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY cancelUpload.accesskey "к">
 <!ENTITY convertRegularAttachment.label "Звычайнае далучэнне">
 <!ENTITY convertRegularAttachment.accesskey "д">
 <!ENTITY attachPage.label "Далучыць старонку Сеціва…">

@@ -19,6 +19,9 @@
 <!ENTITY missingPlugin "Для адлюстравання гэтага змесціва патрэбна ўбудова.">
 <!ENTITY tapToPlayPlugin "Ляпніце тут, каб задзейнічаць убудову.">
 <!ENTITY clickToPlayPlugin "Пстрыкніце тут, каб задзейнічаць убудову.">
+<!ENTITY clickToPlayPluginVulnerableUpdateAvailable "Пстрыкніце тут, каб задзейнічаць прыступную ўбудову.">
+<!ENTITY clickToPlayPluginVulnerableNoUpdate "Пстрыкніце тут, каб задзейнічаць прыступную ўбудову (няма даступных абнаўленняў).">
+<!ENTITY checkForUpdates "Праверка існавання абнаўленняў…">
 <!ENTITY disabledPlugin "Гэтая ўбудова забароненая.">
 <!ENTITY blockedPlugin.label "Гэтая ўбудова заблакавана для вашай абароны.">
 <!ENTITY installPlugin "Усталяваць убудову…">

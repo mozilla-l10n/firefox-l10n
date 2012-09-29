@@ -26,6 +26,6 @@
 <!ENTITY mailnewsTimeout.accesskey "Ч">
 <!ENTITY mailnewsTimeoutSeconds.label "секундаў">
 <!ENTITY Diskspace "Дыскавая прастора">
-<!ENTITY offlineCompact.label "Ушчыльняць папкі, калі яны захоўваюць больш">
-<!ENTITY offlineCompact.accesskey "У">
-<!ENTITY mb.label "МБ">
+<!ENTITY offlineCompactFolders.label "Ушчыльняць усе папкі, калі я захоўваю больш">
+<!ENTITY offlineCompactFolders.accesskey "У">
+<!ENTITY offlineCompactFoldersMB.label "МБ">
