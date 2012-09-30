@@ -511,6 +511,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Stizzar la cronologia…">
+<!ENTITY clearRecentHistory.accesskey "c">
 <!ENTITY accountManagerCmd.label "Configuraziun da contos…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -552,6 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Posiziun da l'ordinatur">
 <!ENTITY tagButton.label "Etichetta">
 <!ENTITY compactButton.label "Cumprimer">
+!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Tschertga da messadis avanzada">
@@ -582,6 +585,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Mussar il tab da chat">
 <!ENTITY tagButton.tooltip "(De)etichettar ils messadis">
 <!ENTITY compactButton.tooltip "Eliminar definitivamain ils messadis stizzads da l'ordinatur tschernì">
+<!ENTITY appmenuButton.tooltip "Mussa il menu da l'applicaziun">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nov messadi">
+<!ENTITY appmenuNewContactCmd.label "Contact en il cudischet d'adressas…">
+<!ENTITY appmenuEditMenu.label "Modifitgar">
+<!ENTITY appmenuQFBMenu.label "Trav per filtrar svelt">
+<!ENTITY appmenuToolbarLayout.label "Layout da la trav d'utensils…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova etichetta…">
