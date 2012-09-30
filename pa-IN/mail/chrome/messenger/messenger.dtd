@@ -505,7 +505,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "ਗਲਤੀ ਕਨਸੋਲ">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY accountManagerCmd.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ…">
+<!ENTITY clearRecentHistory.label "...ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY accountManagerCmd.label "...ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
@@ -542,6 +544,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "ਫੋਲਡਰ ਟਿਕਾਣਾ">
 <!ENTITY tagButton.label "ਟੈਗ">
 <!ENTITY compactButton.label "ਸੰਖੇਪ">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "ਤਕਨੀਕੀ ਸੁਨੇਹਾ ਖੋਜ">
@@ -570,11 +573,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "ਗੱਲਬਾਤ ਟੈਬ ਵੇਖਾਓ">
 <!ENTITY tagButton.tooltip "ਸੁਨੇਹੇ ਟੈਗ ਕਰੋ">
 <!ENTITY compactButton.tooltip "ਚੁਣੇ ਫੋਲਡਰ ਤੋਂ ਹਟਾਏ ਗਏ ਸੁਨੇਹੇ ਹਟਾਓ">
+<!ENTITY appmenuButton.tooltip "Displays the Application Menu">
+
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "ਨਵਾਂ ਸੁਨੇਹਾ">
+<!ENTITY appmenuNewContactCmd.label "…ਐਡਰੈਸ ਬੁੱਕ ਸੰਪਰਕ">
+<!ENTITY appmenuEditMenu.label "ਸੋਧ">
+<!ENTITY appmenuQFBMenu.label "ਤੁਰੰਤ ਫਿਲਟਰ ਪੱਟੀ">
+<!ENTITY appmenuToolbarLayout.label "…ਟੂਲਬਾਰ ਲੇਆਉਟ">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "ਨਵਾਂ ਟੈਗ…">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Manage Tags…">
+<!ENTITY manageTags.label "…ਟੈਗ ਪਰਬੰਧ">
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->

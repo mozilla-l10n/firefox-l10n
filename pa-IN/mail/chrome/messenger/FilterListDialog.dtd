@@ -7,10 +7,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "ਹਟਾਓ">
 <!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderUpButton.label "ਉੱਤੇ ਭੇਜੋ">
+
+<!ENTITY reorderTopButton "Move to Top">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Rearrange filter so it executes before all others">
+<!ENTITY reorderUpButton.label "Move Up">
 <!ENTITY reorderUpButton.accesskey "U">
-<!ENTITY reorderDownButton.label "ਹੇਠਾਂ ਭੇਜੋ">
+<!ENTITY reorderDownButton.label "Move Down">
 <!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderBottomButton "Move to Bottom">
+<!ENTITY reorderBottomButton.accessKey "B">
 <!ENTITY filterHeader.label "ਹੇਠਾਂ ਦਿੱਤੇ ਕ੍ਰਮ ਵਿੱਚ ਫਿਲਟਰ ਖੁਦ ਹੀ ਚਲਾਉਣੇ ਯੋਗ ਹਨ।">
 <!ENTITY filtersForPrefix.label "ਇਸ ਲਈ ਫਿਲਟਰ:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -27,3 +33,6 @@
 <!ENTITY helpButton.label "ਮੱਦਦ">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
+
+<!ENTITY searchBox.emptyText "Search filters by name…">
+

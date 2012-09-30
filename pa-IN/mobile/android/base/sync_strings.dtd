@@ -96,4 +96,7 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
 <!ENTITY sync.text.tab.sent.label 'ਤੁਹਾਡੀ ਟੈਬ ਭੇਜੀ ਗਈ!'>
 
+<!ENTITY sync.text.tab.not.sent.label 'ਤੁਹਾਡੀ ਟੈਬ ਭੇਜਣ ਲਈ ਸਮੱਸਿਆ ਆਈ ਸੀ।'>
+
+
 
