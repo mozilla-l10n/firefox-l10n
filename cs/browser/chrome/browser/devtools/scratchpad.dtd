@@ -102,6 +102,10 @@
 <!ENTITY resetContext2.label "Vymazat proměnné">
 <!ENTITY resetContext2.accesskey "m">
 
+<!ENTITY reloadAndRun.label "Obnovit načtení a spustit">
+<!ENTITY reloadAndRun.accesskey "O">
+<!ENTITY reloadAndRun.key "r">
+
 <!ENTITY executeMenu.label "Vykonat">
 <!ENTITY executeMenu.accesskey "k">
 
