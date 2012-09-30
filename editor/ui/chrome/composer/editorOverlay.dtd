@@ -108,11 +108,12 @@
 <!ENTITY FontSizeSelect.tooltip "Tekengrootte kiezen">
 <!ENTITY decreaseFontSize.label "Kleiner">
 <!ENTITY decreaseFontSize.accesskey "n">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key "&lt;">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Groter">
 <!ENTITY increaseFontSize.accesskey "o">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key "&gt;">
+<!ENTITY increaseFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Grootte">
 <!ENTITY fontSizeMenu.accesskey "G">
