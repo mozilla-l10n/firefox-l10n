@@ -25,11 +25,5 @@
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "ਹੇਠ ਦਿੱਤੀ ਫਾਇਲ ਵਰਤੋਂ">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "ਝਲਕ…">
+<!ENTITY browse.label                     "...ਝਲਕ">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "ਐਡਆਨ">
-<!ENTITY manageAddonsDescWin.label        "ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਚੋਣਾਂ ਬਦਲੋ">
-<!ENTITY manageAddonsDescUnix2.label      "ਆਪਣੀ ਐਡ-ਆਨ ਲਈ ਪਸੰਦ ਬਦਲੋ">
-<!ENTITY manageAddons.label               "ਐਡ-ਆਨ ਪਰਬੰਧ…">
-<!ENTITY manageAddons.accesskey           "M">

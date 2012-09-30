@@ -47,6 +47,9 @@
 <!ENTITY history_week_section "7 ਦਿਨ ਪਹਿਲਾਂ">
 <!ENTITY history_older_section "7 ਦਿਨਾਂ ਤੋਂ ਪੁਰਾਣਾ">
 
+
+<!ENTITY go "Go">
+<!ENTITY search "Search">
 <!ENTITY reload "ਮੁੜ-ਲੋਡ">
 <!ENTITY forward "ਅੱਗੇ">
 <!ENTITY menu "ਮੇਨੂ">
@@ -70,7 +73,7 @@
 <!ENTITY pref_category_general "ਆਮ">
 <!ENTITY pref_category_privacy "ਪਰਾਈਵੇਸੀ ਤੇ ਸੁਰੱਖਿਆ">
 <!ENTITY pref_category_content "ਸਮੱਗਰੀ">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_importexport "ਇੰਪੋਰਟ ਤੇ ਐਕਸਪੋਰਟ">
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_do_not_track "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ">
 <!ENTITY pref_telemetry "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
@@ -93,16 +96,28 @@
 <!ENTITY pref_font_size_medium "ਮੱਧਮ">
 <!ENTITY pref_font_size_large "ਵੱਡੇ">
 <!ENTITY pref_font_size_xlarge "ਬਹੁਤ ਵੱਡੇ">
+<!ENTITY pref_font_size_set "ਦਿਓ">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_sync "ਸਿੰਕ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
 <!ENTITY pref_import_android "ਐਡਰਾਇਡ ਤੋਂ ਇੰਪੋਰਟ">
 <!ENTITY pref_private_data_history "ਬਰਾਊਜ਼  ਕਰਨ ਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ">
 <!ENTITY pref_private_data_formdata "ਫਾਰਮ ਤੇ ਖੋਜ ਅਤੀਤ">
-<!ENTITY pref_private_data_cookies "ਕੂਕੀਜ਼">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
-<!ENTITY pref_private_data_sessions "ਸਰਗਰਮ ਲਾਗਇਨ">
+
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings "ਸਾਈਟ ਪਸੰਦ">
 
@@ -150,7 +165,7 @@
 <!ENTITY bookmark_edit_location "ਟਿਕਾਣਾ">
 <!ENTITY bookmark_edit_keyword "ਸ਼ਬਦ">
 
-<!ENTITY site_settings_title        "ਸਾਈਟ ਸੈਟਿੰਗ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY site_settings_title2       "…ਸਾਈਟ ਸੈਟਿੰਗ">
 <!ENTITY site_settings_cancel       "ਰੱਦ ਕਰੋ">
 <!ENTITY site_settings_clear        "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਵੀ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
@@ -177,9 +192,21 @@
 <!ENTITY abouthome_last_tabs_open "ਪਿਛਲੇ ਵਾਰ ਦੀਆਂ ਸਭ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
 <!ENTITY abouthome_top_sites_title "ਚੋਟੀਆਂ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY abouthome_top_sites_browse "ਆਪਣੀ ਸਭ ਚੋਟੀਆਂ ਦੀਆਂ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
-<!ENTITY abouthome_no_top_sites "ਤੁਹਾਡੇ ਕੋਲ ਹਾਲੇ ਕੋਈ ਵੀ ਚੋਟੀ ਦੀ ਸਾਈਟ ਨਹੀਂ ਹੈ। ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਟਾਈਟਲ ਪੱਟੀ ਨੂੰ ਛੂਹੋ।">
-<!ENTITY abouthome_about_sync "ਆਪਣੇ ਹੋਰ ਜੰਤਰਾਂ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਸੈਟ ਅੱਪ ਕਰੋ">
+
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "ਫਾਇਰਫਾਕਸ ਸਿੰਕ">
+<!ENTITY abouthome_apps_bold_name "ਮੋਜ਼ੀਲਾ ਮੰਡੀ">
+
 
 <!ENTITY filepicker_title "ਫਾਇਲ ਚੁਣੋ">
 <!ENTITY filepicker_audio_title "ਸਾਊਂਡ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
@@ -211,4 +238,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "ਕੁਝ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ">
 
 <!ENTITY webapp_generic_name "ਐਪ">
+
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ&#8230;">
+<!ENTITY updater_start_select "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਚੁਣੋ।">
+
+<!ENTITY updater_downloading_title "&brandShortName; ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY updater_downloading_ticker "&brandShortName; ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਿਹਾ ਹੈ&#8230;">
+<!ENTITY updater_downloading_ticker_failed "&brandShortName; ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ&#8230;">
+<!ENTITY updater_downloading_select "ਜਦੋਂ ਪੂਰਾ ਹੋ ਜਾਵੇ ਤਾਂ ਅੱਪਡੇਟ ਲਾਗੂ ਕਰਨ ਲਈ ਚੁਣੋ।">
+<!ENTITY updater_downloading_retry "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਚੁਣੋ।">
+<!ENTITY updater_downloading_willapply "ਪੂਰਾ ਕਰਨ ਲਈ ਡਾਊਨਲੋਡ ਹੋਣ ਦੀ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ&#8230;">
+<!ENTITY updater_apply_select "ਡਾਊਨਲੋਡ ਕੀਤੇ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕਰਨ ਲਈ ਚੁਣੋ">
 
