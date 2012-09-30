@@ -554,7 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Posiziun da l'ordinatur">
 <!ENTITY tagButton.label "Etichetta">
 <!ENTITY compactButton.label "Cumprimer">
-!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Tschertga da messadis avanzada">
