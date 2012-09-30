@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Naam:">
 <!ENTITY calendarproperties.readonly.label                 "Alleen-lezen">
 <!ENTITY calendarproperties.firealarms.label               "Herinneringen tonen">
-<!ENTITY calendarproperties.cache2.label                   "Buffer">
+<!ENTITY calendarproperties.cache3.label                   "Offlineondersteuning">
 <!ENTITY calendarproperties.enabled.label                  "Deze agenda inschakelen">
 <!ENTITY calendarproperties.forceDisabled.label            "De provider voor deze agenda kon niet worden gevonden. Dit gebeurt vaak als u bepaalde add-ons hebt uitgeschakeld of gede-installeerd.">
 <!ENTITY calendarproperties.unsubscribe.label              "Afmelden">

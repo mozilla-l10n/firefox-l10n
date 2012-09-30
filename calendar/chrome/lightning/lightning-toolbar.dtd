@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Agendawerkbalk">
-<!ENTITY lightning.toolbar.calendar.accesskey "n">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "n">
 <!ENTITY lightning.toolbar.task.name "Taakwerkbalk">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Synchroniseren">
 <!ENTITY lightning.toolbar.delete.label "Verwijderen">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Afdrukken">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-mail">
-<!ENTITY lightning.toolbar.mail.accesskey     "m">
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Wisselen naar het agendatabblad">
 <!ENTITY lightning.toolbar.calendar.accesskey "A">
