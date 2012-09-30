@@ -233,23 +233,6 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "м">
 <!ENTITY viewAttachmentsInlineCmd.label "Показывать вложения в теле сообщения">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "П">
-<!ENTITY fullZoomEnlargeCmd.label "Увеличить">
-<!ENTITY fullZoomEnlargeCmd.accesskey "в">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Уменьшить">
-<!ENTITY fullZoomReduceCmd.accesskey "м">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Сбросить">
-<!ENTITY fullZoomResetCmd.accesskey "б">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Только текст">
-<!ENTITY fullZoomToggleCmd.accesskey "т">
-<!ENTITY fullZoom.label "Масштаб">
-<!ENTITY fullZoom.accesskey "ш">
 <!ENTITY pageSourceCmd.label "Исходный текст">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
