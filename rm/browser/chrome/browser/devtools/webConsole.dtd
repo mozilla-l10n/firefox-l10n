@@ -45,7 +45,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Protocollar">
-<!ENTITY btnPageLogging.tooltip "Protocollar messadis tramess a l'object "window.console"">
+<!ENTITY btnPageLogging.tooltip "Protocollar messadis tramess a l'object 'window.console'">
 <!ENTITY btnConsoleErrors       "Errurs">
 <!ENTITY btnConsoleInfo         "Infurmaziuns">
 <!ENTITY btnConsoleWarnings     "Avertiments">
