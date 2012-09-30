@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Consola web">
+
 <!ENTITY networkPanel.requestURL                  "URL da la dumonda">
 <!ENTITY networkPanel.requestMethod               "Metoda da la dumonda">
 <!ENTITY networkPanel.statusCode                  "Code dal status">
@@ -18,11 +20,6 @@
 <!ENTITY networkPanel.responseNoBody              "Nagin corp da la resposta">
 <!ENTITY networkPanel.responseImage               "Grafica retschavida">
 <!ENTITY networkPanel.responseImageCached         "Grafica en il cache">
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
@@ -75,3 +72,14 @@
 <!ENTITY btnClear.label        "Stizzar">
 <!ENTITY btnClear.tooltip      "Stizzar l'output da la consola web">
 <!ENTITY btnClose.tooltip      "Serrar la consola web">
+
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
