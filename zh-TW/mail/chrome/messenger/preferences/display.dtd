@@ -33,7 +33,7 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "標籤可以用來分類或排出郵件的優先順序。">
-<!ENTITY addTagButton.label        "加入">
+<!ENTITY addTagButton.label        "新增">
 <!ENTITY addTagButton.accesskey    "A">
 <!ENTITY editTagButton.label       "編輯">
 <!ENTITY editTagButton.accesskey   "E">

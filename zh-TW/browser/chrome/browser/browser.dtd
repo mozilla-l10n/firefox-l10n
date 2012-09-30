@@ -651,6 +651,9 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "顯示側邊欄">
 <!ENTITY social.toggleSidebar.accesskey "S">
 
+<!ENTITY social.toggleNotifications.label "顯示桌面通知">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
 <!ENTITY social.activated.undobutton.label "復原">
 <!ENTITY social.activated.undobutton.accesskey "U">
 
