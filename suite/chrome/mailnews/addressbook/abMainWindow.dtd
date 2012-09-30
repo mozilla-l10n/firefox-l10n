@@ -104,7 +104,7 @@
 <!ENTITY home.heading                                   "住家">
 <!ENTITY other.heading                                  "其他">
 <!ENTITY phone.heading                                  "電話">
-<!ENTITY work.heading                                   "公司">
+<!ENTITY work.heading                                   "商務">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "說明">
 <!ENTITY addresses.heading                              "地址">

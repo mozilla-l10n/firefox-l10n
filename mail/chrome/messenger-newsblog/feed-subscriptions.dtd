@@ -22,7 +22,7 @@
 <!ENTITY locationValidate.label      "驗證">
 <!ENTITY validateText.label          "確認是否有效並回傳有效的網址。">
 
-<!ENTITY button.addFeed.label        "加入">
+<!ENTITY button.addFeed.label        "新增">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.editFeed.label       "更新">
 <!ENTITY button.editFeed.accesskey   "U">
