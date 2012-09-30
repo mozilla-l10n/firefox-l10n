@@ -191,7 +191,7 @@
 <!ENTITY windowMenu.label "視窗">
 
 <!-- Mail Toolbar -->
-<!ENTITY sendButton.label "寄送">
+<!ENTITY sendButton.label "傳送">
 <!ENTITY quoteButton.label "引言">
 <!ENTITY addressButton.label "通訊錄">
 <!ENTITY attachButton.label "附件">

@@ -87,7 +87,7 @@
 <!ENTITY Age.placeholder                "年齡">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "公司">
+<!ENTITY Work.tab                       "商務">
 <!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "職稱:">
 <!ENTITY JobTitle.accesskey             "i">
