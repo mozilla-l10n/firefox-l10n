@@ -244,9 +244,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Pli da iloj">
 
-<!ENTITY webConsoleButton.label "Teksaĵa konzolo">
-<!ENTITY inspectorButton.label "Inspektilo">
-
 <!ENTITY inspectorHTMLCopyInner.label       "Kopii enan HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "e">
 
@@ -653,6 +650,9 @@ toolbar button -->
 
 <!ENTITY social.toggleSidebar.label "Montri flankstrion">
 <!ENTITY social.toggleSidebar.accesskey "f">
+
+<!ENTITY social.toggleNotifications.label "Montri labortablajn sciigojn">
+<!ENTITY social.toggleNotifications.accesskey "M">
 
 <!ENTITY social.activated.undobutton.label "Malfari">
 <!ENTITY social.activated.undobutton.accesskey "M">
