@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Tschertgar en…">
 <!ENTITY browse.accesskey                 "e">
-
-<!ENTITY addonsMgr.label                  "Supplements">
-<!ENTITY manageAddonsDescWin.label        "Midar las preferenzas per ils supplements">
-<!ENTITY manageAddonsDescUnix2.label      "Midar las opziuns per ils supplements">
-<!ENTITY manageAddons.label               "Administrar ils supplements…">
-<!ENTITY manageAddons.accesskey           "M">

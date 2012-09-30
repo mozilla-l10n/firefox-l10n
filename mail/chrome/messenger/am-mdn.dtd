@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Confermas da retschavida (MDN)">
 <!ENTITY useGlobalPrefs.label         "Utilisar mias preferenzas globalas areguard las confermas da retschavida">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "Preferenzas globalas…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Adattar las confermas da retschavida per quest conto">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "Adina pretender ina conferma da retschavida">
