@@ -92,4 +92,5 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Sekme göndermek için &syncBrand.shortName.label;\u0027i kurun'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Diğer aygıtlara sekme göndermek için aygıtınızda &syncBrand.fullName.label;\u0027i kurun.'>
 <!ENTITY sync.text.tab.sent.label 'Sekmeniz gönderildi!'>
+<!ENTITY sync.text.tab.not.sent.label 'Sekmeniz gönderilirken bir sorun oluştu.'>
 
