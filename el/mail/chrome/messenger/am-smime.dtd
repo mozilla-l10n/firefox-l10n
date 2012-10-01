@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Ασφάλεια">
 <!ENTITY securityTab.label "Ασφάλεια">
 <!ENTITY securityHeading.label "Για την αποστολή και λήψη υπογεγραμμένων και κρυπτογραφημένων μηνυμάτων θα πρέπει να καθορίσετε ένα πιστοποιητικό υπογραφής και ένα πιστοποιητικό κρυπτογράφησης">

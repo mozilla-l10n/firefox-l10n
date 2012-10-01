@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Ρυθμίσεις ανεπιθύμητης αλληλογραφίας">
 <!ENTITY trainingWarning.label "Αν ενεργοποιηθεί, θα πρέπει πρώτα να εκπαιδεύσετε τον &brandShortName; να αναγνωρίζει τα μηνύματα
 με τη χρήση του κουμπιού της εργαλειοθήκης ανεπιθύμητης αλληλογραφίας για τη σημείωση των μηνυμάτων ως ανεπιθύμητα ή όχι.
