@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Alatna traka kalendara">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "k">
 <!ENTITY lightning.toolbar.task.name "Alatna traka zadataka">
-<!ENTITY lightning.toolbar.task.accesskey "t">
+<!ENTITY lightning.toolbar.task.name.accesskey "z">
 
 <!ENTITY lightning.toolbar.sync.label "Sinkroniziraj">
 <!ENTITY lightning.toolbar.delete.label "Obriši">
@@ -14,12 +14,12 @@
 <!ENTITY lightning.toolbar.print.label "Ispis">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Pošta">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendar">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Prebaci na karticu kalendara">
 <!ENTITY lightning.toolbar.calendar.accesskey "k">
 <!ENTITY lightning.toolbar.task.label         "Zadaci">
+<!ENTITY lightning.toolbar.task.accesskey     "Z">
 <!ENTITY lightning.toolbar.task.tooltip       "Prebaci na karticu zadataka">
 <!ENTITY lightning.toolbar.task.accesskey     "c">
 
