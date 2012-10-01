@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Ερώτηση Αλληλογραφίας HTML ">
 <!ENTITY recipient.label "Μερικοί από τους παραλήπτες δεν είναι καταγεγραμμένοι ως ικανοί να λαμβάνουν HTML">
 <!ENTITY question.label "Θέλετε να μετατραπεί το μήνυμα σε μορφή απλού κειμένου, ή θέλετε να το στείλετε ως HTML οπωσδήποτε;">

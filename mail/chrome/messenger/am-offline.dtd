@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Για εξοικονόμηση αποθηκευτικού χώρου, να μη λαμβάνονται:">
 <!ENTITY doNotDownloadNntp.label "Για εξοικονόμηση αποθηκευτικού χώρου, να μη λαμβάνονται για εργασία χωρίς σύνδεση:">
 <!ENTITY doNotDownloadImap.label "Για εξοικονόμηση αποθηκευτικού χώρου η λήψη μηνυμάτων και η διατήρηση τοπικών αντιγράφων για εργασία χωρίς σύνδεση, μπορεί να περιοριστεί κατά ημερομηνία ή μέγεθος. ">

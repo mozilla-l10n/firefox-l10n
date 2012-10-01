@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY featureConfigurator.title "Βοηθός εισαγωγής">
 <!ENTITY featureConfigurator.heading1 "Νέες λειτουργίες του  &brandShortName; που αξίζει να γνωρίζετε">
 <!ENTITY featureConfigurator.para.1 "Αυτή η νέα έκδοση του  &brandShortName; ενσωματώνει νέες πανίσχυρες λειτουργίες, για τις οποίες είμαστε περήφανοι και είμαστε βέβαιοι ότι θα τις αγαπήσετε. Μιας και όμως οι ανάγκες και οι προτιμήσεις κάθε χρήστη διαφέρουν, κάναμε πιο εύκολη την προσαρμογή και τον έλεγχο του &brandShortName;.">

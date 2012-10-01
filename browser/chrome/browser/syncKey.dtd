@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "Το κλειδί &syncBrand.fullName.label; σας">
 <!ENTITY syncKey.page.description         "Αυτό το κλειδί χρησιμοποιείται για την αποκρυπτογράφηση των δεδομένων σας στο λογαριασμό &syncBrand.fullName.label;. Θα πρέπει να εισάγετε το κλειδί κάθε φορά που ρυθμίζετε το &syncBrand.fullName.label; σε ένα νέο υπολογιστή ή συσκευή.">
 <!ENTITY syncKey.keepItSecret.heading     "Κρατήστε το μυστικό">
