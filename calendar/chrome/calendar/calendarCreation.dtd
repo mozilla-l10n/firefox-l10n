@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title             "Creu Calendr Newydd" >
+<!ENTITY wizard.label             "Creu calendr newydd" >
+<!ENTITY wizard.description       "Lleoli eich calendr" >
+
+<!ENTITY initialpage.description    "Mae modd gosod eich calendr ar eich cyfrifiadur neu ar weinydd fel bod modd i chi gael mynediad o bell neu ei rannu gyda'ch ffrindiau a'ch cydweithwyr." >
+<!ENTITY initialpage.computer.label  "Ar Fy Nghyfrifiadur">
+<!ENTITY initialpage.network.label  "Ar y Rhwydwaith">
+
+<!ENTITY locationpage.description         "Darparwch y wybodaeth angenrheidiol ar gyfer cael mynediad at eich calendr pell" >
+<!ENTITY locationpage.login.description   "Dewisol: rhowch enw defnyddiwr a chyfrinair" >
+<!ENTITY locationpage.username.label      "Enw defnyddiwr:" >
+<!ENTITY locationpage.password.label      "Cyfrinair:" >
+
+<!ENTITY custompage.shortdescription  "Cyfaddasu eich calendr" >
+<!ENTITY custompage.longdescription   "Mae modd rhoi enw i'r calendr a lliwio digwyddiadau'r calendr." >
+
+<!ENTITY finishpage.shortdescription  "Crëwyd y Calendr" >
+<!ENTITY finishpage.longdescription   "Mae eich calendr wedi'i greu." >
+
