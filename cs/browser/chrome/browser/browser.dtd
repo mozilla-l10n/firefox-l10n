@@ -244,9 +244,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolbarOtherToolsButton.label "Další nástroje">
 
-<!ENTITY webConsoleButton.label "Webová konzola">
-<!ENTITY inspectorButton.label "Průzkumník">
-
 <!ENTITY inspectorHTMLCopyInner.label "Kopírovat vnitřní HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "p">
 
