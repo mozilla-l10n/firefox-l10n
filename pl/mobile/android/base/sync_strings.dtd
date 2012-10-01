@@ -37,12 +37,14 @@
 <!ENTITY sync.button.tryagain.label 'Spróbuj ponownie'>
 <!ENTITY sync.button.manual.label 'Skonfiguruj ręcznie'>
 <!ENTITY sync.subtitle.nointernet.label 'Brak połączenia z Internetem.'>
+<!ENTITY sync.subtitle.failaccount.label 'Nie udało się utworzyć konta na tym urządzeniu.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Czy zainstalowano więcej niż jednego Firefoksa? &syncBrand.fullName.label; obsługuje obecnie tylko jedną instalację naraz. Aby skorzystać z usługi &syncBrand.shortName.label;, odinstaluj pozostałe instancje.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Konfiguracja zakończona'>
-<!ENTITY sync.subtitle.success.label 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem.'>
+<!ENTITY sync.subtitle.success.label1 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem, lub zacznij korzystać z przeglądarki &brandShortName;.'>
 <!ENTITY sync.settings.label 'Ustawienia'>
-<!ENTITY sync.subtitle.manage.label 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać.'>
+<!ENTITY sync.subtitle.manage.label1 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać, lub uruchom przeglądarkę &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
