@@ -49,9 +49,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Інкрементний GC">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.a11yTitle "Можливості доступності">
+<!ENTITY aboutSupport.a11yActivated "Активовано">
+<!ENTITY aboutSupport.a11yForceDisabled "Блокувати можливості доступності">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Версії бібліотек">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Історія встановлень">
 <!ENTITY aboutSupport.updateHistoryTitle "Історія оновлень">

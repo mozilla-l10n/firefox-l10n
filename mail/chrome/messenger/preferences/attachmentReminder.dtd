@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY attachmentReminderDialog.title   "Ключові слова Вкладень">
 <!ENTITY attachKeywordText.label          "&brandShortName; буде попереджати вас про відсутні вкладення, якщо у листі що ви збираєтесь відіслати є одне з цих ключових слів.">
 <!ENTITY addKeywordButton.label           "Додати">
