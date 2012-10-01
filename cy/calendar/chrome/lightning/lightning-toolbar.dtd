@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lightning.toolbar.calendar.name "Bar Offer Calendr">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "B">
+<!ENTITY lightning.toolbar.task.name "Bar Offer Tasgau">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
+
+<!ENTITY lightning.toolbar.sync.label "Cydweddu">
+<!ENTITY lightning.toolbar.delete.label "Dileu">
+<!ENTITY lightning.toolbar.edit.label "Golygu">
+<!ENTITY lightning.toolbar.gototoday.label "Mynd i Heddiw">
+<!ENTITY lightning.toolbar.print.label "Argraffu">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.calendar.label     "Calendr">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Symud i'r tab calendr">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "Tasgau">
+<!ENTITY lightning.toolbar.task.tooltip       "sumud i'r tab tasgau">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Digwyddiad">
+<!ENTITY lightning.toolbar.newtask.label      "Tasg">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Diwrnod">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Wythnos">
+<!ENTITY lightning.toolbar.week.accesskey            "W">
+<!ENTITY lightning.toolbar.multiweek.label           "Wythnosau">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "y">
+<!ENTITY lightning.toolbar.month.label               "Mis">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+

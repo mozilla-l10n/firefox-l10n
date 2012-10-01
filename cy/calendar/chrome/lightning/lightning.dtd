@@ -1,0 +1,64 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- Tools menu -->
+<!ENTITY lightning.preferencesLabel "Calendr">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Digwyddiad...">
+<!ENTITY lightning.menupopup.new.event.accesskey "D">
+<!ENTITY lightning.menupopup.new.task.label     "Tasg...">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
+<!ENTITY lightning.menupopup.new.calendar.label "Calendr…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "C">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Agor">
+<!ENTITY lightning.menupopup.open.accesskey           "A">
+<!ENTITY lightning.menupopup.open.message.label       "Neges wedi'i Chadw...">
+<!ENTITY lightning.menupopup.open.message.accesskey   "N">
+<!ENTITY lightning.menupopup.open.calendar.label      "Ffeil Calendr...">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "F">
+
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Calendr">
+<!ENTITY lightning.menu.view.calendar.accesskey        "a">
+<!ENTITY lightning.menu.view.tasks.label               "Tasgau">
+<!ENTITY lightning.menu.view.tasks.accesskey           "a">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Digwyddiadau a Thasgau">
+<!ENTITY lightning.menu.eventtask.accesskey            "D">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.email.label               "E-Bost:">
+
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.description "Mae'r neges hon yn cynnwys gwahoddiad i ddigwyddiad.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Creu calendr newydd">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Dangos Mis Bach">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Dangos Diwrnod Bach">
+<!ENTITY todaypane.showMiniday.accesskey  "D">
+<!ENTITY todaypane.showNone.label "Dangos Dim">
+<!ENTITY todaypane.showNone.accesskey "a">
+<!ENTITY todaypane.showTodayPane.label "Dangos Paen Heddiw">
+<!ENTITY todaypane.showTodayPane.accesskey "P">
+<!ENTITY todaypane.statusButton.label "Paen Heddiw">
+
