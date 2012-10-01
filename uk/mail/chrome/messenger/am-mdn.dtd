@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Звіти про прочитання">
 <!ENTITY useGlobalPrefs.label         "Використовувати глобальні параметри звітів для цього облікового запису">
 <!ENTITY useGlobalPrefs.accesskey     "В">

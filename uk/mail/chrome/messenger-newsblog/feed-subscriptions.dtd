@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Підписки на стрічки">
 <!ENTITY subscriptionDesc.label      "Примітка: вилучення чи зміна теки RSS-каналу не вплине на раніше завантажені статті.">
@@ -28,5 +32,6 @@
 <!ENTITY button.importOPML.accesskey "І">
 <!ENTITY button.exportOPML.label     "Експорт">
 <!ENTITY button.exportOPML.accesskey "Е">
+<!ENTITY button.exportOPML.tooltip   "Експортувати стрічки з структурою тек; Ctrl+клаць чи Ctrl+Enter щоб експортувати стрічки як список">
 
 <!ENTITY cmd.close.commandKey        "w">

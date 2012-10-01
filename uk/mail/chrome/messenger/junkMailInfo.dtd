@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "Про спам">
 <!ENTITY window.width  "460">
 <!ENTITY info1a.label  "&brandShortName; автоматично визначає вхідні повідомлення, які схожі на спам (небажану рекламу). Повідомлення, які &brandShortName; вважає спамом, позначаються спеціальним значком">
