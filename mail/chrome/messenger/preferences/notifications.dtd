@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY notificationsDialog2.title       "Cyfaddasu Rhybudd E-bost Newydd">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Dewis pa faes i'w ddangos yn yr hysbysiad rhybudd:">
+<!ENTITY previewText.label                "Testun Rhagolwg Neges">
+<!ENTITY previewText.accesskey            "R">
+<!ENTITY subject.label                    "Pwnc">
+<!ENTITY subject.accesskey                "P">
+<!ENTITY sender.label                     "Anfonwr">
+<!ENTITY sender.accesskey                 "A">
+
+

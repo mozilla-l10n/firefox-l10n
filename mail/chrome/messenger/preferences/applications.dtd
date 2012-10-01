@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Math o Gynnwys ">
+<!ENTITY  typeColumn.accesskey        "M">
+
+<!ENTITY  actionColumn2.label         "Gweithred">
+<!ENTITY  actionColumn2.accesskey     "G">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Chwilio">
+
+<!ENTITY saveTo.label                 "Cadw ffeiliau yn">
+<!ENTITY saveTo.accesskey             "C">
+<!ENTITY alwaysAsk.label              "Gofyn i mi lle i gadw pob ffeil">
+<!ENTITY alwaysAsk.accesskey          "G">
+<!ENTITY chooseFolderWin.label        "Pori...">
+<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderMac.label        "Dewis...">
+<!ENTITY chooseFolderMac.accesskey    "D">
+
+<!ENTITY attachments.incoming.label   "Derbyn">
+<!ENTITY attachments.outgoing.label   "Anfon">
+
+<!ENTITY addCloudFileAccount.label        "Ychwanegu">
+<!ENTITY addCloudFileAccount.accesskey    "Y">
+<!ENTITY addCloudFileAccount.description  "Ychwanegu gwasanaeth storio Filelink newydd">
+<!ENTITY removeCloudFileAccount.label     "Tynnu">
+<!ENTITY removeCloudFileAccount.accesskey "T">
+<!ENTITY authRequired.description         "Mae angen eich caniatâd er mwyn gweld y gosodiadau ar y gwasanaeth storio hwn.">
+<!ENTITY authRequired.button.label        "Caniatáu">
+<!ENTITY authRequired.button.accesskey    "a">
+
+<!ENTITY enableCloudFileAccountOffer.label "Cynnig rhannu ar gyfer ffeiliau mwy na">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
+

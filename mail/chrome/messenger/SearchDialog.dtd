@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Chwilio am negeseuon yn:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "Chwilio is-ffolderi">
+<!ENTITY searchSubfolders.accesskey  "w">
+<!ENTITY searchOnServer.label        "Rhedeg chwilio ar weinydd">
+<!ENTITY searchOnServer.accesskey    "R">
+<!ENTITY resetButton.label           "Clirio">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY openButton.label            "Agor">
+<!ENTITY openButton.accesskey        "A">
+<!ENTITY deleteButton.label          "Dileu">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "Chwilio drwy'r Negeseuon">
+<!ENTITY results.label               "Canlyniadau">
+<!ENTITY fileHereMenu.label          "Ffeilio Yma">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "Ffeil">
+<!ENTITY fileButton.accesskey        "F">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Agor yn Ffolder">
+<!ENTITY openInFolder.accesskey      "A">
+<!ENTITY saveAsVFButton.label        "Cadw fel Ffolder Chwilio">
+<!ENTITY saveAsVFButton.accesskey    "a">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Chwilio yn:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "Priodweddau">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Ysgrifennu">
+<!ENTITY composeButton.accesskey     "Y">
+<!ENTITY abSearchDialogTitle.label   "Chwilio Uwch drwy'r Llyfr Cyfeiriadau">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Edefyn">
+<!ENTITY fromColumn.label "Oddi wrth">
+<!ENTITY recipientColumn.label "Derbynnydd">
+<!ENTITY subjectColumn.label "Pwnc">
+<!ENTITY dateColumn.label "Dyddiad">
+<!ENTITY priorityColumn.label "Blaenoriaeth">
+<!ENTITY tagsColumn.label "Tagiau">
+<!ENTITY accountColumn.label "Cyfrif">
+<!ENTITY statusColumn.label "Statws">
+<!ENTITY sizeColumn.label "Maint">
+<!ENTITY junkStatusColumn.label "Statws Sbam">
+<!ENTITY unreadColumn.label "Heb eu Darllen">
+<!ENTITY totalColumn.label "Cyfanswm">
+<!ENTITY readColumn.label "Darllenwyd">
+<!ENTITY receivedColumn.label "Derbyniwyd">
+<!ENTITY starredColumn.label "Serennog">
+<!ENTITY locationColumn.label "Lleoliad">
+<!ENTITY idColumn.label "Trefn Derbyniwyd">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos">
+<!ENTITY threadColumn.tooltip "Cliciwch i ddangos edafedd negeseuon"> 
+<!ENTITY fromColumn.tooltip "Cliciwch i drefnu oddi wrth">
+<!ENTITY recipientColumn.tooltip "Cliciwch i drefnu yn ôl derbynnydd">
+<!ENTITY subjectColumn.tooltip "Cliciwch i drefnu yn ôl pwnc">
+<!ENTITY dateColumn.tooltip "Cliciwch i drefnu yn ôl dyddiad">
+<!ENTITY priorityColumn.tooltip "Cliciwch i drefnu yn ôl blaenoriaeth">
+<!ENTITY tagsColumn.tooltip "Cliciwch i drefnu yn ôl tagiau">
+<!ENTITY accountColumn.tooltip "Cliciwch i drefnu yn ôl cyfrif">
+<!ENTITY statusColumn.tooltip "Cliciwch i drefnu yn ôl statws">
+<!ENTITY sizeColumn.tooltip "Cliciwch i drefnu yn ôl maint">
+<!ENTITY junkStatusColumn.tooltip "Cliciwch i drefnu yn ôl statws sbam">
+<!ENTITY unreadColumn.tooltip "Nifer y negeseuon heb eu darllen yn y edefyn">
+<!ENTITY totalColumn.tooltip "Cyfanswm y nifer o negeseuon yn yr edefyn">
+<!ENTITY readColumn.tooltip "Cliciwch i drefnu yn ôl wedi'u darllen">
+<!ENTITY receivedColumn.tooltip "Cliciwch i drefnu yn ôl dyddiad derbyn">
+<!ENTITY starredColumn.tooltip "Cliciwch i drefnu yn ôl seren">
+<!ENTITY locationColumn.tooltip "Cliciwch i drefnu yn ôl lleoliad">
+<!ENTITY idColumn.tooltip "Cliciwch i drefnu yn ôl trefn derbyniwyd">
+

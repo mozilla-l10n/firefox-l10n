@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY identitiesListDesc.label "Cefnogaeth Hunaniaeth Niferus">
+<!ENTITY identitiesListAdd.label  "Ychwanegu...">
+<!ENTITY identitiesListAdd.accesskey  "Y">
+<!ENTITY identitiesListEdit.label "Golygu...">
+<!ENTITY identitiesListEdit.accesskey "G">
+<!ENTITY identitiesListDelete.label "Dileu">
+<!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListClose.label "Cau">
+<!ENTITY identitiesListClose.accesskey "u">
+

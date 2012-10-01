@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  prefWindow.titleWin     "Dewisiadau">
+<!ENTITY  prefWindow.titleGNOME   "Dewisiadau &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title        "Cyffredinol">
+<!ENTITY paneDisplay.title        "Dangos">
+<!ENTITY paneComposition.title    "Ysgrifennu">
+<!ENTITY paneChat.title           "Sgwrsio">
+<!ENTITY paneAttachments.title    "Atodiadau">
+<!ENTITY paneSecurity.title       "Diogelwch">
+<!ENTITY paneAdvanced.title       "Uwch">
+

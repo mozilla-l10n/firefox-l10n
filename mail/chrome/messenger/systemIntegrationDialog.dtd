@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY systemIntegration.title  "Integreiddio System">
+<!ENTITY defaultClient.intro  "Defnyddio &brandShortName; fel y rhaglen rhagosodedig ar gyfer:">
+
+<!ENTITY email.label "E-Bost">
+<!ENTITY newsgroups.label "Grwpiau Newyddion">
+<!ENTITY feeds.label "Llif">
+
+<!ENTITY checkOnStartup.label "Gwirio hwn bob tro wrth gychwyn &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "G">
+
+<!ENTITY searchIntegration.label "Caniatáu i &searchIntegration.engineName; chwilio drwy'r negeseuon">
+<!ENTITY searchIntegration.accesskey "C">
+
