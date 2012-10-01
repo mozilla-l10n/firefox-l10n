@@ -663,5 +663,8 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Zobrazit postranní lištu">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.toggleNotifications.label "Zobrazit oznámení">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
 <!ENTITY social.activated.undobutton.label "Zpět">
 <!ENTITY social.activated.undobutton.accesskey "Z">
