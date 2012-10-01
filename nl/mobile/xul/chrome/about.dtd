@@ -2,7 +2,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; is experimenteel en kan onstabiel zijn.">
 <!ENTITY aboutPage.telemetryStart               " Er worden automatisch gegevens over prestaties, hardware, gebruik en aanpassingen naar ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " teruggestuurd, zodat &brandShortName; kan worden verbeterd.">
+<!ENTITY aboutPage.telemetryEnd                 " verzonden, zodat &brandShortName; kan worden verbeterd.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Ondersteuning">
 <!ENTITY aboutPage.privacyPolicy.label          "Privacybeleid">
