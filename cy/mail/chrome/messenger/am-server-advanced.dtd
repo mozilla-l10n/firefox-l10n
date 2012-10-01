@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY serverAdvanced.label "Gosodiadau Cyfrif Uwch">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Cyfeiriadur gweinydd IMAP:">
+<!ENTITY serverDirectory.accesskey "g">
+<!ENTITY usingSubscription.label "Dangos ffolderi tanysgrifiwyd iddynt">
+<!ENTITY usingSubscription.accesskey "t">
+<!ENTITY dualUseFolders.label "Mae'r gweinydd yn cynnal ffolderi sy'n cynnwys is-ffolderi a negeseuon">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "Defnyddiwch orchymyn IDLE os yw'r gweinydd yn ei gynnal">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Uchafswm cysylltiadau gweinydd i'r storfa">
+<!ENTITY maximumConnectionsNumber.accesskey "U">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Mae'r dewisiadau yn pennu bwlchenw ar eich gweinydd IMAP">
+<!ENTITY personalNamespace.label "Bwlchenw personol:">
+<!ENTITY personalNamespace.accesskey "B">
+<!ENTITY publicNamespace.label "Cyhoeddus (rhannu):">
+<!ENTITY publicNamespace.accesskey "y">
+<!ENTITY otherUsersNamespace.label "Defnyddwyr Eraill:">
+<!ENTITY otherUsersNamespace.accesskey "D">
+<!ENTITY overrideNamespaces.label "Caniatáu i'r gweinydd i wrth-wneud y bylchau enw">
+<!ENTITY overrideNamespaces.accesskey "C">
+<!ENTITY pop3Desc.label "Wrth lwytho e-byst pop i lawr ar gyfer y gweinydd hwn, mae modd defnyddio'r ffoler canlynol ar gyfer e-byst newydd:" >
+<!ENTITY globalInbox.label "Blwch Derbyn Eang (Cyfrif Ffolder i Lleol)">
+<!ENTITY globalInbox.accesskey "D">
+<!ENTITY accountDirectory.label "Blwch Derbyn cyfrif y gweinydd hwn">
+<!ENTITY accountDirectory.accesskey "D">
+<!ENTITY deferToServer.label "Blwch Derbyn cyfrif gwahanol">
+<!ENTITY deferToServer.accesskey "g">
+<!ENTITY deferGetNewMail.label "Cynnwys y gweinydd hwn wrth estyn e-byst newydd">
+<!ENTITY deferGetNewMail.accesskey "y">
+

@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label     "Tanysgrifiad Llif">
+<!ENTITY subscriptionDesc.label      "Sylw: Ni fydd tynnu neu newid y ffolder llif yn effeithio ar yr erthyglau sydd wedi'u llwytho i lawr eisoes.">
+
+<!ENTITY feedTitle.label             "Teitl:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "URL Llif:">
+<!ENTITY feedLocation.accesskey      "L">
+<!ENTITY feedLocation.placeholder    "Rhowch URL llif dilys i Ychwanegu">
+
+<!ENTITY feedFolder.label            "Cadw erthyglau yn:">
+<!ENTITY feedFolder.accesskey        "e">
+
+<!ENTITY quickMode.label             "Dangos crynodeb erthygl yn lle llwytho tudalen gwe">
+<!ENTITY quickMode.accesskey         "c">
+
+<!ENTITY locationValidate.label      "Dilysu">
+<!ENTITY validateText.label          "Gwirio dilysiad ac estyn URL dilys.">
+
+<!ENTITY button.addFeed.label        "Ychwanegu">
+<!ENTITY button.addFeed.accesskey    "Y">
+<!ENTITY button.editFeed.label       "Diweddaru">
+<!ENTITY button.editFeed.accesskey   "D">
+<!ENTITY button.removeFeed.label     "Tynnu">
+<!ENTITY button.removeFeed.accesskey "T">
+<!ENTITY button.importOPML.label     "Mewnforio">
+<!ENTITY button.importOPML.accesskey "M">
+<!ENTITY button.exportOPML.label     "Allforio">
+<!ENTITY button.exportOPML.accesskey "A">
+<!ENTITY button.exportOPML.tooltip   "Allforiwch Llif gyda strwythur ffolderi; ctrl clic neu ctrl enter i allforio Llif fel rhestr">
+
+<!ENTITY cmd.close.commandKey        "w">
+

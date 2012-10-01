@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Wedi cyrraedd terfyn maint storio">
+<!ENTITY fileExceedsQuota.accept "Diweddaru">
+<!ENTITY fileExceedsQuota.cancel "Diddymu">
+<!ENTITY fileExceedsQuota.description "Rtdtch wedi cyrraedd terfyn maint storio o 2GB.">
+<!ENTITY fileExceedsQuota.description1 "Mae eich maint storio cyfredol yn #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Diweddarwch heddiw i gyfrif Pro Plus a chael storfa mwy.">
+<!ENTITY fileExceedsQuota.description3 "Mae hefyd modd i ddileu ffeiliau yn eich cyfrif er mwyn creu rhagor o le.">
+

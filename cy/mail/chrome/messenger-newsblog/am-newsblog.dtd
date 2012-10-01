@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY biffStart.label "Gwirio am erthyglau bob ">
+<!ENTITY biffStart.accesskey "e">
+<!ENTITY biffEnd.label "munud">
+
+<!ENTITY loginAtStartup.label "Gwirio am erthyglau newydd wrth gychwyn"> 
+<!ENTITY loginAtStartup.accesskey "w">
+
+<!ENTITY useQuickMode.label "Dangos crynodeb o erthygl yn lle llwytho tudalen gwe fel rhagosodiad"> 
+<!ENTITY useQuickMode.accesskey "c">
+
+<!ENTITY manageSubscriptions.label "Rheoli Tanysgrifiadau..."> 
+<!ENTITY manageSubscriptions.accesskey "T">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogiau a Llif Newyddion">
+<!ENTITY feeds.wizardShortName "Llif">
+<!ENTITY feeds.wizardLongName "Blogiau a Llif Newyddion">
+<!ENTITY feeds.wizardLongName.accesskey "B">
+

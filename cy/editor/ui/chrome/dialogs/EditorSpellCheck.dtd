@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Gwirio Sillafu">
+
+<!ENTITY misspelledWord.label "Gair wedi'i gamsillafu:">
+<!ENTITY wordEditField.label "Amnewid gyda:">
+<!ENTITY wordEditField.accessKey "A">
+<!ENTITY checkwordButton.label "Gwirio Gair">
+<!ENTITY checkwordButton.accessKey "G">
+<!ENTITY suggestions.label "Awgrymiadau:">
+<!ENTITY suggestions.accessKey "A">
+<!ENTITY ignoreButton.label "Anwybyddu">
+<!ENTITY ignoreButton.accessKey "A">
+<!ENTITY ignoreAllButton.label "Anwybyddu Popeth">
+<!ENTITY ignoreAllButton.accessKey "P">
+<!ENTITY replaceButton.label "Amnewid">
+<!ENTITY replaceButton.accessKey "m">
+<!ENTITY replaceAllButton.label "Amnewid Popeth">
+<!ENTITY replaceAllButton.accessKey "o">
+<!ENTITY stopButton.label "Atal">
+<!ENTITY stopButton.accessKey "t">
+<!ENTITY userDictionary.label "Geiriadur Personol:">
+<!ENTITY moreDictionaries.label "Llwytho Rhagor i Lawr">
+<!ENTITY addToUserDictionaryButton.label "Ychwanegu Gair">
+<!ENTITY addToUserDictionaryButton.accessKey "G">
+<!ENTITY editUserDictionaryButton.label "Golygu...">
+<!ENTITY editUserDictionaryButton.accessKey "G">
+<!ENTITY recheckButton.label "Ailwirio Tudalen">
+<!ENTITY recheckButton.accessKey "A">
+<!ENTITY closeButton.label "Cau">
+<!ENTITY closeButton.accessKey "u">
+<!ENTITY sendButton.label "Anfon">
+<!ENTITY sendButton.accessKey "S">
+<!ENTITY languagePopup.label "Iaith:">
+<!ENTITY languagePopup.accessKey "I">
+

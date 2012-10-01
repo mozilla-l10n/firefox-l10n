@@ -1,0 +1,220 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressbookWindow.title                        "Llyfr Cyfeiriadau">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Ffeil">
+<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY newMenu.label                                  "Newydd">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newContact.label                               "Cysylltiad Llyfr Cyfeiriadau...">
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "C">
+<!ENTITY newListCmd.label                               "Rhestr E-bostio...">
+<!ENTITY newListCmd.accesskey                           "R">
+<!ENTITY newAddressBookCmd.label                        "Llyfr Cyfeiriadau">
+<!ENTITY newAddressBookCmd.accesskey                    "L">
+<!ENTITY newLDAPDirectoryCmd.label                      "Cyfeiriadur LDAP...">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "y">
+<!ENTITY newMessageCmd.label                            "Neges">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "N">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Defnyddio Llyfr Cyfeiriadau Mac OS X ">
+<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY closeCmd.label                                 "Cau">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "u">
+<!ENTITY printSetupCmd.label                            "Gosodiad Tudalen...">
+<!ENTITY printSetupCmd.accesskey                        "u">
+<!ENTITY printPreviewContactCmd.label                   "Rhagolwg Argraffu'r Cysylltiad">
+<!ENTITY printPreviewContactCmd.accesskey               "R">
+<!ENTITY printPreviewAddressBook.label                  "Rhagolwg Argraffu Llyfr Cyfeiriadau">
+<!ENTITY printPreviewAddressBook.accesskey              "A">
+<!ENTITY printContactCmd.label                          "Argraffu'r Cysylltiad">
+<!ENTITY printContactCmd.accesskey                      "A">
+<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printAddressBook.label                         "Argraffu'r Llyfr Cyfeiriadau...">
+<!ENTITY printAddressBook.accesskey                     "L">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Golygu">
+<!ENTITY editMenu.accesskey                             "G">
+<!ENTITY undoCmd.label                                  "Dadwneud">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "u">
+<!ENTITY redoCmd.label                                  "Ailwneud">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "A">
+<!ENTITY cutCmd.label                                   "Torri">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "T">
+<!ENTITY copyCmd.label                                  "Copïo">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "C">
+<!ENTITY pasteCmd.label                                 "Gludo">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "G">
+<!ENTITY deleteCmd.label                                "Dileu">
+<!ENTITY deleteCmd.accesskey                            "D">
+<!ENTITY deleteAbCmd.label                              "Delete Address Book">
+<!ENTITY deleteContactCmd.label                         "Dileu Cysylltiad">
+<!ENTITY deleteContactsCmd.label                        "Dileu Cysylltiadau">
+<!ENTITY deleteListCmd.label                            "Dileu Rhestr">
+<!ENTITY deleteListsCmd.label                           "Dileu Rhestrau">
+<!ENTITY deleteItemsCmd.label                           "Dileu Eitemau">
+<!ENTITY selectAllCmd.label                             "Dewis Popeth">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "D">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Amnewid Enw Cyntaf/Olaf">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "A">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label                            "Priodweddau...">
+<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Golwg">
+<!ENTITY viewMenu.accesskey                             "l">
+<!ENTITY viewToolbarsMenu.label                         "Barrau Offer">
+<!ENTITY viewToolbarsMenu.accesskey                     "B"> 
+<!ENTITY menubarCmd.label                               "Bar Dewislen">
+<!ENTITY menubarCmd.accesskey                           "D">
+<!ENTITY showAbToolbarCmd.label                         "Bar Offer Llyfr Cyfeiriadau">
+<!ENTITY showAbToolbarCmd.accesskey                     "a">
+<!ENTITY showTaskbarCmd.label                           "Bar Statws">
+<!ENTITY showTaskbarCmd.accesskey                       "S">
+<!ENTITY customizeToolbar.label                         "Cyfaddasu...">
+<!ENTITY customizeToolbar.accesskey                     "C">
+<!ENTITY layoutMenu.label                               "Cynllun">
+<!ENTITY layoutMenu.accesskey                           "y">
+<!ENTITY showDirectoryPane.label                        "Paen Cyfeiriadur">
+<!ENTITY showDirectoryPane.accesskey                    "C">
+<!ENTITY showContactPane2.label                         "Paen Cysylltiad">
+<!ENTITY showContactPane2.accesskey                     "y">
+<!ENTITY menu_ShowNameAs.label                          "Dangos yr Enw Fel">
+<!ENTITY menu_ShowNameAs.accesskey                      "E"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Cyntaf Olaf">
+<!ENTITY firstLastCmd2.accesskey                        "n"> 
+<!ENTITY lastFirstCmd.label                             "Cyntaf, Olaf">
+<!ENTITY lastFirstCmd.accesskey                         "C">
+<!ENTITY displayNameCmd.label                           "Enw Dangos">
+<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY sortMenu.label                                 "Trefnu yn ôl">
+<!ENTITY sortMenu.accesskey                             "T">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Offer">
+<!ENTITY tasksMenu.accesskey                            "O">
+<!ENTITY messengerCmd.label                             "E-bost a Grwpiau Newyddion">
+<!ENTITY messengerCmd.accesskey                         "E">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Chwilio Cyfeiriadau...">
+<!ENTITY searchAddressesCmd.accesskey                   "C">
+<!ENTITY importCmd.label                                "Mewnforio...">
+<!ENTITY importCmd.accesskey                            "M">
+<!ENTITY exportCmd.label                                "Allforio...">
+<!ENTITY exportCmd.accesskey                            "A">
+<!ENTITY preferencesCmd.label                           "Dewisiadau...">
+<!ENTITY preferencesCmd.accesskey                       "D">
+<!ENTITY preferencesCmdUnix.label                       "Dewisiadau">
+<!ENTITY preferencesCmdUnix.accesskey                   "e">
+
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newContactButton.label                         "Cysylltiad Newydd">
+<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newlistButton.label                            "Rhestr Newydd">
+<!ENTITY newlistButton.accesskey                        "R">
+<!ENTITY editButton2.label                              "Priodweddau">
+<!ENTITY editButton2.accesskey                          "P">
+<!ENTITY newmsgButton.label                             "Ysgrifennu">
+<!ENTITY newmsgButton.accesskey                         "Y">
+<!ENTITY newIM.label                                    "Neges Chwim">
+<!ENTITY newIM.accesskey                                "N">
+<!ENTITY deleteButton2.label                            "Dileu">
+<!ENTITY deleteButton2.accesskey                        "D">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newContactButton.tooltip                       "Creu cysylltiad llyfr cyfeiriadau newydd">
+<!ENTITY newlistButton.tooltip                          "Creu rhestr newydd">
+<!ENTITY editButton2.tooltip                            "Golygu'r eitem hon">
+<!ENTITY newmsgButton.tooltip                           "Anfon neges e-bost">
+<!ENTITY newIM.tooltip                                  "Send an instant message or chat">
+<!ENTITY deleteButton2.tooltip                           "Dileu'r eitem hon">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Llyfrau Cyfeiriadau">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Enw neu E-bost">
+<!ENTITY SearchNameOrEmail.accesskey                    "E">
+<!ENTITY advancedButton.tooltip                         "Chwilio cyfeiriadau uwch">
+<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "Chwilio Cyflym">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                            "Enw">
+<!ENTITY GeneratedName.accesskey                        "n">
+<!ENTITY PrimaryEmail.label                             "E-bost">
+<!ENTITY PrimaryEmail.accesskey                         "b">
+<!ENTITY ChatName.label                                 "Enw Sgwrsio">
+<!ENTITY ChatName.accesskey                             "E">
+<!ENTITY Company.label                                  "Corff">
+<!ENTITY Company.accesskey                              "C">
+<!ENTITY NickName.label                                 "Llysenw">
+<!ENTITY NickName.accesskey                             "L">
+<!ENTITY SecondEmail.label                              "E-bost Ychwanegol">
+<!ENTITY SecondEmail.accesskey                          "Y">
+<!ENTITY Department.label                               "Adran">
+<!ENTITY Department.accesskey                           "A">
+<!ENTITY JobTitle.label                                 "Teitl">
+<!ENTITY JobTitle.accesskey                             "T">
+<!ENTITY CellularNumber.label                           "Symudol">
+<!ENTITY CellularNumber.accesskey                       "m">
+<!ENTITY PagerNumber.label                              "Swnyn">
+<!ENTITY PagerNumber.accesskey                          "S">
+<!ENTITY FaxNumber.label                                "Ffacs">
+<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "Ffôn Cartref">
+<!ENTITY HomePhone.accesskey                            "C">
+<!ENTITY WorkPhone.label                                "Ffôn Gwaith">
+<!ENTITY WorkPhone.accesskey                            "G">
+<!ENTITY sortAscending.label                            "Esgyn">
+<!ENTITY sortAscending.accesskey                        "E">
+<!ENTITY sortDescending.label                           "Disgyn">
+<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY _PhoneticName.label                            "Phonetic Name">
+<!ENTITY _PhoneticName.accesskey                        "o">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Cysylltiad">
+<!ENTITY home.heading                                   "Cartref">
+<!ENTITY other.heading                                  "Arall">
+<!ENTITY chat.heading                                   "Sgwrsio">
+<!ENTITY phone.heading                                  "Ffôn">
+<!ENTITY work.heading                                   "Gwaith">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Disgrifiad">
+<!ENTITY addresses.heading                              "Cyfeiriadau">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Estyn Map">
+<!ENTITY mapIt.tooltip                                  "Dangos map o'r cyfeiriad o'r We">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "Ffenestr">
+<!ENTITY minimizeWindow.label "Lleihau">
+<!ENTITY minimizeWindow.key "L">
+<!ENTITY bringAllToFront.label "Dwyn y Cyfan i'r Blaen">
+<!ENTITY zoomWindow.label "Chwyddo">
+

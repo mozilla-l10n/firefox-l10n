@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY messengerStartPage.label         "Tudalen Cychwyn &brandShortName;">
+<!ENTITY enableStartPage.label            "Pan fydd &brandShortName; yn cychwyn, dangos y Dudalen Cychwyn yn y maes neges">
+<!ENTITY enableStartPage.accesskey        "P">
+<!ENTITY location.label                   "Lleoliad:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Adfer y Rhagosodiad">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Animeiddio eicon y doc">
+<!ENTITY bounceSystemDockIcon.accesskey   "d">
+
+<!ENTITY newMessagesArrive.label          "Pan fydd neges newydd yn cyrraedd:">
+<!ENTITY playSound.label                  "Canu nodyn">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Dangos rhybudd">
+<!ENTITY showAnimatedAlert.accesskey      "D">
+<!ENTITY customizeMailAlert.label         "Cyfaddasu...">
+<!ENTITY customizeMailAlert.accesskey     "C">
+
+<!ENTITY play.label                       "Chwarae">
+<!ENTITY play.accesskey                   "h">
+<!ENTITY systemsound.label                "Sain rhagosodedig y system ar gyfer e-bost newydd">
+<!ENTITY systemsoundMac.label             "Sain Rhybudd System">
+<!ENTITY systemsoundMac.accesskey         "a">
+<!ENTITY systemsound.accesskey            "S">
+<!ENTITY customsound.label                "Defnyddio'r ffeil sain ganlynol">
+<!ENTITY customsound.accesskey            "c">
+<!ENTITY browse.label                     "Pori...">
+<!ENTITY browse.accesskey                 "P">
+

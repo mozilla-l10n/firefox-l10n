@@ -1,0 +1,81 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsAndEncodingsDialog.title           "Ffontiau ac Amgodio">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Ffontiau ar gyfer:">
+<!ENTITY  language.accesskey                      "F">
+
+<!ENTITY  size.label                              "Maint:">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  sizeMono.accesskey                      "i">
+
+<!ENTITY  proportional.label                      "Cyfrannol:">
+<!ENTITY  proportional.accesskey                  "y">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "Gorllewin">
+<!ENTITY  font.langGroup.latin2                   "Canol Ewrop">
+<!ENTITY  font.langGroup.japanese                 "Siapanëeg">
+<!ENTITY  font.langGroup.trad-chinese             "Tsieinëeg Traddodiadol (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Tsieinëeg Syml">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tsieinëeg Traddodiadol (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Corëeg">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrilig">
+<!ENTITY  font.langGroup.baltic                   "Baltig">
+<!ENTITY  font.langGroup.el                       "Groeg">
+<!ENTITY  font.langGroup.turkish                  "Twrceg">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
+<!ENTITY  font.langGroup.user-def                 "Defnyddiwr Diffiniedig">
+<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.hebrew                   "Hebraeg">
+<!ENTITY  font.langGroup.arabic                   "Arabeg">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armeneg">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Sillafiad Unedig Canada">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopeg">
+<!ENTITY  font.langGroup.georgian                 "Georgeg">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Lleiafswm maint ffont:">
+<!ENTITY minSize.accesskey                        "L">
+<!ENTITY minSize.none                             "Dim">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Rheoli Ffontiau">
+<!ENTITY  useFixedWidthForPlainText.label         "Defnyddio ffont lled sefydlog ar gyfer negeseuon testun plaen">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Caniatáu i negeseuon ddefnyddio ffontiau eraill">
+<!ENTITY  useDocumentFonts.accesskey              "a">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Anfon E-bost:">
+<!ENTITY sendDefaultCharset.accesskey     "A">
+<!ENTITY languagesTitle1.label            "Amgodio Nodau">
+<!ENTITY composingDescription.label       "Gosod yr amgodio nodau rhagosodedig ar gyfer anfon a derbyn e-bost">
+
+<!ENTITY viewDefaultCharsetList.label     "Derbyn E-bost:">
+<!ENTITY viewDefaultCharsetList.accesskey  "M">
+<!ENTITY replyInDefaultCharset2.label     "Pan yn bosib, defnyddio amgodiad nod rhagosodedig mewn atebion">
+<!ENTITY replyInDefaultCharset2.accesskey "a">
+

@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY attachmentReminderDialog.title   "Allweddair Atgoffa Atodiad">
+<!ENTITY attachKeywordText.label          "Bydd &brandShortName; yn eich rhybuddio am atodiadau coll os ydych ar fin anfon e-bost yn cynnwys un o'r allweddeiriau hyn.">
+<!ENTITY addKeywordButton.label           "Ychwanegu">
+<!ENTITY addKeywordButton.accesskey       "Y">
+<!ENTITY editKeywordButton.label          "Golygu">
+<!ENTITY editKeywordButton.accesskey      "G">
+<!ENTITY removeKeywordButton.label        "Dileu">
+<!ENTITY removeKeywordButton.accesskey    "D">
+
