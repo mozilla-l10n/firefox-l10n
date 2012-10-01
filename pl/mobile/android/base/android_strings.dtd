@@ -83,7 +83,7 @@
 <!ENTITY pref_font_size_xlarge "Bardzo duży">
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Wyświetlaj podpowiedzi wyszukiwania">
+<!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_import_android "Importuj z Androida">
 <!ENTITY pref_private_data_history "Historia przeglądania i pobierania">
 <!ENTITY pref_private_data_formdata "Historia wyszukiwania i formularzy">
@@ -105,7 +105,7 @@
 <!ENTITY share_title "Udostępnij przez">
 <!ENTITY share_image_failed "Tego obrazka nie można udostępnić">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
-<!ENTITY desktop_mode "Wyświetl w trybie stacjonarnym">
+<!ENTITY desktop_mode "Tryb stacjonarny">
 <!ENTITY find_in_page "Znajdź na stronie">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
