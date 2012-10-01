@@ -20,7 +20,8 @@
 <!ENTITY permission.alwaysAsk "Vždy se zeptat">
 <!ENTITY permission.allow "Povolit">
 <!ENTITY permission.allowForSession "Povolit pro relaci">
-<!ENTITY permission.block "Blokovat">
+<!ENTITY permission.allowFirstPartyOnly "Blokovat třetí strany">
+<!ENTITY permission.block "Blokovat vše">
 
 <!ENTITY password.label "Ukládat hesla">
 <!ENTITY password.manage "Správce hesel…">
