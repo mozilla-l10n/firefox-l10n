@@ -72,7 +72,7 @@
 <!ENTITY pref_font_size_medium "Средний">
 <!ENTITY pref_font_size_large "Большой">
 <!ENTITY pref_font_size_xlarge "Огромный">
-<!ENTITY pref_font_size_set "Другой">
+<!ENTITY pref_font_size_set "Установить">
 <!ENTITY pref_font_size_adjust_char "A">
 <!ENTITY pref_font_size_preview_text "Быстрый оранжевый лис перепрыгивает через ваши ожидания с высокой скоростью, большей гибкостью и повышенной безопасностью. Будучи некоммерческой организацией, мы свободны в своём развитии и нам не нужно идти на компромиссы. Мы улучшим для вас работу в Интернете и сделаем его будущее более светлым.">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
