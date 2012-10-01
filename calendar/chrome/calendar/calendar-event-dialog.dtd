@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Mogućnosti">
 <!ENTITY  event.menu.options.accesskey                        "o">
-<!ENTITY  event.menu.options.attachments.label                "Priloži web stranicu…">
-<!ENTITY  event.menu.options.attachments.accesskey            "w">
 <!ENTITY  event.menu.options.attendees.label                  "Pozovi sudionike…">
 <!ENTITY  event.menu.options.attendees.accesskey              "i">
 <!ENTITY  event.menu.options.spellcheck.label                 "Provjeri pravopis…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Pozovi sudionike">
 <!ENTITY  event.toolbar.spellcheck.label                  "Provjera pravopisa">
 <!ENTITY  event.toolbar.privacy.label                     "Privatnost">
-<!ENTITY  event.toolbar.attachments.label                 "Priloži">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Naslov:" >
@@ -334,6 +331,10 @@
 <!ENTITY event.attendee.role.optional           "Neobavezni sudionik">
 <!ENTITY event.attendee.role.chair              "Predsjedatelj">
 <!ENTITY event.attendee.role.nonparticipant     "Ne sudjeluje">
+<!ENTITY event.attendee.usertype.individual     "Individualni">
+<!ENTITY event.attendee.usertype.group          "Grupni">
+<!ENTITY event.attendee.usertype.resource       "Resurs">
+<!ENTITY event.attendee.usertype.room           "Soba">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Odaberite vremensku zonu">
