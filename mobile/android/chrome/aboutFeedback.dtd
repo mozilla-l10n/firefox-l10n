@@ -8,8 +8,8 @@
 
 <!ENTITY pageTitle                 "&brandShortName; Feedback">
 
-<!ENTITY intro.header              "Heeft u een minuutje?">
-<!ENTITY intro.message             "Vertel ons wat u tot zover vindt van &brandShortName; voor Android.">
+<!ENTITY intro.header              "Hebt u even?">
+<!ENTITY intro.message             "Vertel ons wat u tot nu toe van &brandShortName; voor Android vindt.">
 <!ENTITY intro.happyLink           "Fantastisch">
 <!ENTITY intro.sadLink             "Er zijn wat probleempjes">
 <!ENTITY intro.ideaLink            "Ik heb een idee">
@@ -21,7 +21,7 @@
 <!ENTITY support.link              "&brandShortName;-ondersteuning">
 <!ENTITY support.post              ".">
 
-<!ENTITY happy.header              "Dat is goed om te horen!">
+<!ENTITY happy.header              "Da’s goed om te horen!">
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
@@ -29,14 +29,14 @@
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
-<!ENTITY happy.finePrint           "Het kost een minuutje en geeft een goed gevoel.">
+<!ENTITY happy.finePrint           "Het kost minder dan een minuut en geeft een goed gevoel.">
 
-<!ENTITY happy.ratingLink          "Ja, ga naar Google Play">
+<!ENTITY happy.ratingLink          "Ja, naar Google Play">
 <!ENTITY happy.maybeLater          "Misschien later">
 <!ENTITY happy.noThanks            "Nee bedankt">
 
 <!ENTITY sad.message               "Het spijt ons dat &brandShortName; u teleurstelde. Vertel ons wat er mis ging, zodat we hier iets aan kunnen doen.">
-<!ENTITY sad.placeholder           "Voer u feedback hier in">
+<!ENTITY sad.placeholder           "Voer uw feedback hier in">
 <!ENTITY sad.lastSite              "Laatst bezochte website (optioneel)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
@@ -45,7 +45,7 @@
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "We zijn continu bezig om &brandShortName; beter te maken. Vertrouw er op dat we uw feedback lezen en we ons best gaan doen om uw probleem op te lossen.">
+<!ENTITY sad.thanksMessageTop      "We zijn continu bezig om &brandShortName; te verbeteren. Vertrouw erop dat we uw feedback lezen en ons uiterste best doen om uw probleem op te lossen.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
@@ -55,17 +55,16 @@
 <!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
      tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
      to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Ideeën horen we graag! Beschrijf hieronder uw idee. (Natuurlijk over &brandShortName;.)">
+<!ENTITY idea.message              "Ideeën horen we graag! Beschrijf hieronder uw gedachten. (Alleen over &brandShortName; graag.)">
 <!ENTITY idea.placeholder          "Voer uw idee hier in">
 <!ENTITY idea.thanksHeader         "Bedankt!">
 
-<!ENTITY idea.thanksMessageTop     "We waarderen dat u tijd neemt om us ideeën te delen. We zijn continu bezig om &brandShortName; beter te maken en bijdragen zoals die van u kan leiden tot fantastische dingen.">
+<!ENTITY idea.thanksMessageTop     "We waarderen dat u de tijd neemt om uw gedachten te delen. We zijn continu bezig om &brandShortName; te verbeteren, en bijdragen zoals die van u kunnen tot fantastische dingen leiden.">
 
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
      something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "U hoort het niet maar u krijgt nu een applaus van ons.">
+<!ENTITY idea.thanksMessageBottom  "U hoort het niet, maar u krijgt nu een applaus van ons.">
 
 <!ENTITY feedback.privacy          "Zorg er omwille van uw privacy voor dat er geen persoonlijke gegevens in uw feedback zijn opgenomen.">
 <!ENTITY feedback.send             "Feedback versturen">
-

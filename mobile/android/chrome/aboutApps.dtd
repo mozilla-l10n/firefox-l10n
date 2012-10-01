@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutApps.title2                          "Apps">
-<!ENTITY aboutApps.header                          "Uw Apps">
+<!ENTITY aboutApps.header                          "Uw apps">
 
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
