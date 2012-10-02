@@ -67,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "ص">
 <!ENTITY otherActionsPrint1.label "اطبع…">
 <!ENTITY otherActionsPrint1.accesskey "ط">
+<!-- Attachment bar context menu items -->
+
+<!ENTITY startExpandedCmd.label    "اعرض لوحة المرفقات مبدئيا">
+<!ENTITY startExpandedCmd.accesskey    "م">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "افتح">
