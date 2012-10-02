@@ -20,15 +20,15 @@
 <!ENTITY closeOtherTabs.label                "Zamknij inne karty" >
 <!ENTITY closeOtherTabs.accesskey            "i" >
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Przypnij jako kartę aplikacji">
-<!ENTITY  pinAppTab.accesskey                "n">
-<!ENTITY  unpinAppTab.label                  "Odepnij kartę">
-<!ENTITY  unpinAppTab.accesskey              "n">
+<!ENTITY  pinTab.label                       "Przypnij kartę">
+<!ENTITY  pinTab.accesskey                   "n">
+<!ENTITY  unpinTab.label                     "Odepnij kartę">
+<!ENTITY  unpinTab.accesskey                 "n">
 
 <!ENTITY moveToGroup.label                   "Przenieś do grupy">
 <!ENTITY moveToGroup.accesskey               "e">
