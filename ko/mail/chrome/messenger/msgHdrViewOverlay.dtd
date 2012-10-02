@@ -86,6 +86,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "e">
 <!ENTITY openAttachment.tooltip "첨부 파일 열기">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "시작할 때 첨부파일 창 보이기">
+<!ENTITY startExpandedCmd.accesskey    "S">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label "저장">
 <!ENTITY saveAttachmentButton1.tooltip "첨부 파일을 저장합니다">
