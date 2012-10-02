@@ -628,6 +628,9 @@ toolbar button -->
 <!ENTITY socialToolbar.title "Przycisk paska społecznościowego">
 <!ENTITY social.notLoggedIn.label "Nie zalogowano">
 
+<!ENTITY social.toggleNotifications.label "Wyświetlaj powiadomienia pulpitu">
+<!ENTITY social.toggleNotifications.accesskey "e">
+
 <!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
      used for the "OK" button for two different social panels. One appears when
      the feature is activated (social.activated.* below), and the other when
