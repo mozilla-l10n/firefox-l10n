@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "p">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Kompiuterio vardas:">
-<!ENTITY syncComputerName.accesskey   "v">
+<!ENTITY syncDeviceName.label         "Įrenginio vardas:">
+<!ENTITY syncDeviceName.accesskey     "v">
 <!ENTITY unlinkDevice.label           "Atsieti šį įrenginį">
 
 <!-- Footer stuff -->
