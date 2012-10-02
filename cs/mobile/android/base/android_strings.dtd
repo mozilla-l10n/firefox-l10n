@@ -171,6 +171,8 @@ size. -->
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušit">
 <!ENTITY button_clear_data "Vymazat data">
+<!ENTITY button_set "Nastavit">
+<!ENTITY button_clear "Vymazat">
 
 <!ENTITY abouthome_addons_title "Doplňky aplikace &brandShortName;">
 <!ENTITY abouthome_addons_browse "Zobrazit všechny doplňky aplikace &brandShortName;">
