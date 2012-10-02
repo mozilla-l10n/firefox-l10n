@@ -165,8 +165,8 @@
 <!ENTITY addressBookCmd.label "주소록">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "계정…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd.label "계정 설정…">
+<!ENTITY accountManagerCmd.accesskey "S">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "설정…">
 <!ENTITY preferencesCmd.accesskey "O">
