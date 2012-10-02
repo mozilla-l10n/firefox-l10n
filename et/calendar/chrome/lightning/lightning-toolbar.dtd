@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Kalendririba">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Ülesanderiba">
-<!ENTITY lightning.toolbar.task.accesskey "Ü">
+<!ENTITY lightning.toolbar.task.name.accesskey "Ü">
 
 <!ENTITY lightning.toolbar.sync.label "Sünkroniseeri">
 <!ENTITY lightning.toolbar.delete.label "Kustuta">
@@ -14,12 +14,12 @@
 <!ENTITY lightning.toolbar.print.label "Prindi">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-post">
-<!ENTITY lightning.toolbar.mail.accesskey     "p">
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Lülitu kalendri kaardile">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Ülesanded">
 <!ENTITY lightning.toolbar.task.tooltip       "Lülitu ülesannete kaardile">
+<!ENTITY lightning.toolbar.task.accesskey     "Ü">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Sündmus">
