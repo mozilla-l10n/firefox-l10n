@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "لتوفير مساحة القرص، لا تنزّل:">
 <!ENTITY doNotDownloadNntp.label "لتوفير مساحة القرص، لا تنزّل من أجل الاستخدام بلا اتصال:">
 <!ENTITY doNotDownloadImap.label "لتوفير مساحة القرص، يمكن أن يكون تنزيل الرسائل من الخادوم والاحتفاظ بنسخ محلية منها مقيّدًا بحجمها أو عمرها.">
