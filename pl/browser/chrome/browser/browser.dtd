@@ -636,10 +636,6 @@ toolbar button -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label "Przestań udostępniać">
-<!ENTITY social.sharePopup.undo.accesskey "P">
-<!ENTITY social.sharePopup.shared.label "Udostępniasz już tę stronę.">
-<!ENTITY social.sharePopup.portrait.arialabel "Obrazek profilu użytkownika">
 <!ENTITY social.toggleSidebar.label "Pokaż panel boczny">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
