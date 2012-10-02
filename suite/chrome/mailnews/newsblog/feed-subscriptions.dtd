@@ -1,18 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Підписування на подачі">
-<!ENTITY subscriptionDesc.label "Примітка: вилучення чи зміна теки каналу RSS не вплине на раніше звантажені статті.">
-<!ENTITY feedTitle.label "Заголовок:">
-<!ENTITY location.label  "Адреса:">
+<!ENTITY feedSubscriptions.label     "Підписування на подачі">
+<!ENTITY subscriptionDesc.label      "Примітка: вилучення чи зміна теки каналу RSS не вплине на раніше звантажені статті.">
 
-<!ENTITY button.addFeed.label       "Додати">
-<!ENTITY button.addFeed.accesskey   "Д">
-<!ENTITY button.editFeed.label      "Змінити">
-<!ENTITY button.editFeed.accesskey  "З">
-<!ENTITY button.removeFeed.label "Вилучити">
-<!ENTITY button.removeFeed.accesskey   "В">
-<!ENTITY button.importOPML.label "Імпортувати">
-<!ENTITY button.importOPML.accesskey   "І">
-<!ENTITY button.exportOPML.label "Експортувати">
-<!ENTITY button.exportOPML.accesskey   "Е">
+<!ENTITY feedTitle.label             "Заголовок:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+
+<!ENTITY feedFolder.label            "Store Articles in:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY locationValidate.label      "Validate">
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+
+<!ENTITY button.addFeed.label        "Додати">
+<!ENTITY button.addFeed.accesskey    "Д">
+<!ENTITY button.editFeed.label       "Змінити">
+<!ENTITY button.editFeed.accesskey   "З">
+<!ENTITY button.removeFeed.label     "Вилучити">
+<!ENTITY button.removeFeed.accesskey "В">
+<!ENTITY button.importOPML.label     "Імпортувати">
+<!ENTITY button.importOPML.accesskey "І">
+<!ENTITY button.exportOPML.label     "Експортувати">
+<!ENTITY button.exportOPML.accesskey "Е">
+<!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
+
+<!ENTITY cmd.close.commandKey        "w">
