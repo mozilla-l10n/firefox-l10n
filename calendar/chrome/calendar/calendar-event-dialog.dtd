@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Valikud">
 <!ENTITY  event.menu.options.accesskey                        "V">
-<!ENTITY  event.menu.options.attachments.label                "Veebilehe kaasamine…">
-<!ENTITY  event.menu.options.attachments.accesskey            "b">
 <!ENTITY  event.menu.options.attendees.label                  "Osalejate kutsumine…">
 <!ENTITY  event.menu.options.attendees.accesskey              "o">
 <!ENTITY  event.menu.options.spellcheck.label                 "Kontrolli õigekirja…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Kutsu osalejad">
 <!ENTITY  event.toolbar.spellcheck.label                  "Õigekirjakontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Privaatsus">
-<!ENTITY  event.toolbar.attachments.label                 "Kaasa fail">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pealkiri:" >
@@ -337,6 +334,10 @@
 <!ENTITY event.attendee.role.optional           "Vabatahtlik osaleja">
 <!ENTITY event.attendee.role.chair              "Koosoleku juhataja">
 <!ENTITY event.attendee.role.nonparticipant     "Vaatleja">
+<!ENTITY event.attendee.usertype.individual     "Isik">
+<!ENTITY event.attendee.usertype.group          "Grupp">
+<!ENTITY event.attendee.usertype.resource       "Ressurss">
+<!ENTITY event.attendee.usertype.room           "Ruum">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ajavööndi määramine">
