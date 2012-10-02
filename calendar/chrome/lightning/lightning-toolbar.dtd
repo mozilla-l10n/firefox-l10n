@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Панель календаря">
-<!ENTITY lightning.toolbar.calendar.accesskey "к">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "к">
 <!ENTITY lightning.toolbar.task.name "Панель задач">
-<!ENTITY lightning.toolbar.task.accesskey "з">
+<!ENTITY lightning.toolbar.task.name.accesskey "з">
 
 <!ENTITY lightning.toolbar.sync.label "Синхронизация">
 <!ENTITY lightning.toolbar.delete.label "Удалить">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Печать">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Почта">
-<!ENTITY lightning.toolbar.mail.accesskey     "П">
 <!ENTITY lightning.toolbar.calendar.label     "Календарь">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Переключиться на вкладку календаря">
 <!ENTITY lightning.toolbar.calendar.accesskey "к">

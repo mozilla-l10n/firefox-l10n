@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Название:">
 <!ENTITY calendarproperties.readonly.label                 "Только для чтения">
 <!ENTITY calendarproperties.firealarms.label               "Показывать оповещения">
-<!ENTITY calendarproperties.cache2.label                    "Кэшировать">
+<!ENTITY calendarproperties.cache3.label                    "Автономная работа">
 <!ENTITY calendarproperties.enabled.label                  "Включите этот календарь">
 <!ENTITY calendarproperties.forceDisabled.label            "Провайдер для этого календаря не найден. Зачастую это происходит после отключения или удаления специальных дополнений.">
 <!ENTITY calendarproperties.unsubscribe.label              "Отменить подписку">
