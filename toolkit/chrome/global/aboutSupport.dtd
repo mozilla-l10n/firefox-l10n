@@ -61,4 +61,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle     "Įdiegimo žurnalas">
 <!ENTITY aboutSupport.updateHistoryTitle           "Atnaujinimo žurnalas">
 
-<!ENTITY aboutSupport.copyToClipboard.label        "Viską kopijuoti į iškarpinę">
+<!ENTITY aboutSupport.copyTextToClipboard.label    "Kopijuoti tekstą į iškarpinę">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopijuoti neapdorotus duomenis į iškarpinę">

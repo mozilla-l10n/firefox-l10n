@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Visuomet klausti">
 <!ENTITY permission.allow                "Leisti">
 <!ENTITY permission.allowForSession      "Leisti vienam seansui">
+<!ENTITY permission.allowFirstPartyOnly  "Leisti tik pirmajam asmeniui">
 <!ENTITY permission.block                "Neleisti">
 
 <!ENTITY password.label                  "Slaptažodžių įrašymas">
