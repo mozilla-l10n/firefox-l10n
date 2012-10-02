@@ -508,6 +508,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "مرقاب الأعطال">
 <!ENTITY errorConsoleCmd.accesskey "ط">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
+<!ENTITY clearRecentHistory.accesskey "س">
 <!ENTITY accountManagerCmd.label "إعدادات الحساب …">
 <!ENTITY accountManagerCmd.accesskey "ع">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -549,6 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "موقع المجلد">
 <!ENTITY tagButton.label "وسم">
 <!ENTITY compactButton.label "ضغط">
+<!ENTITY appmenuButton.label "قائمة التطبيق">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "بحث متقدِّم في الرسائل">
@@ -579,6 +582,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "أظهر لسان الدردشة">
 <!ENTITY tagButton.tooltip "سِمْ الرسائل">
 <!ENTITY compactButton.tooltip "أزِل الرسائل المحذوفة من المجلد المحدد">
+<!ENTITY appmenuButton.tooltip "يعرض قائمة التطبيق">
+<!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "رسالة جديدة">
+<!ENTITY appmenuNewContactCmd.label "متراسل دفتر العناوين…">
+<!ENTITY appmenuEditMenu.label "تحرير">
+<!ENTITY appmenuQFBMenu.label "شريط الترشيح السريع">
+<!ENTITY appmenuToolbarLayout.label "تنسيق شريط الأدوات…">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "وسم جديد…">

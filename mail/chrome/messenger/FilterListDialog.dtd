@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "ح">
 <!ENTITY deleteButton.label "احذف">
 <!ENTITY deleteButton.accesskey "ح">
+<!ENTITY reorderTopButton "انقل إلى البداية">
+<!ENTITY reorderTopButton.accessKey "ن">
+<!ENTITY reorderTopButton.toolTip "غيّر ترتيب المُرشَّح لينفّذ قبل الآخرين.">
 <!ENTITY reorderUpButton.label "انقل لأعلى">
 <!ENTITY reorderUpButton.accesskey "ع">
 <!ENTITY reorderDownButton.label "انقل لأسفل">
 <!ENTITY reorderDownButton.accesskey "س">
+<!ENTITY reorderBottomButton "انقل إلى النهاية">
+<!ENTITY reorderBottomButton.accessKey "ق">
+<!ENTITY reorderBottomButton.toolTip "غيّر ترتيب المُرشَّح لينفّذ بعد الآخرين.">
 <!ENTITY filterHeader.label "تُشغّل المرشحات تلقائيًّا حسب التّرتيب الظّاهر أدناه.">
 <!ENTITY filtersForPrefix.label "مرشّحات لأجل:">
 <!ENTITY filtersForPrefix.accesskey "م">
@@ -31,3 +37,5 @@
 <!ENTITY helpButton.label "مساعدة">
 <!ENTITY helpButton.accesskey "م">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "ابحث في المُرشّحات بالاسم…">
+
