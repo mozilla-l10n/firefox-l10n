@@ -53,6 +53,8 @@ example : Downloading update - 111 KB of 13 MB -->
 <!ENTITY update.downloading.start "업데이트 다운로드 중 -">
 <!ENTITY update.downloading.end "">
 
+<!ENTITY update.applying            "업데이트 적용중…">
+
 <!-- LOCALIZATION NOTE (channel.description.start, channel.description.end) : channel.description.start and
 channel.description.end create one sentence, with the current channel label inserted in between.
 example : You are currently on the _Stable_ update channel. -->
