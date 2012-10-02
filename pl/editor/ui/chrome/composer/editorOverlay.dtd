@@ -68,11 +68,12 @@
 <!ENTITY FontSizeSelect.tooltip     "Wybierz rozmiar czcionki">
 <!ENTITY decreaseFontSize.label     "Mniejszy">
 <!ENTITY decreaseFontSize.accesskey "n">
-<!ENTITY decreaseFontSize.key       "-">
+<!ENTITY decreaseFontSize.key "&lt;">
+<!ENTITY decreaseFontSize.key2 ","><!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label     "Większy">
 <!ENTITY increaseFontSize.accesskey "W">
-<!ENTITY increaseFontSize.key       "+">
-<!ENTITY increaseFontSize.key2      "="><!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key "&gt;">
+<!ENTITY increaseFontSize.key2 "."><!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label         "Rozmiar czcionki">
 <!ENTITY fontSizeMenu.accesskey     "R">
