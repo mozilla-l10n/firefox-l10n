@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Suomenkielinen (FI)
+#define MOZ_LANG_TITLE Finnish
