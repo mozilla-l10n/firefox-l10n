@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from content/pref-fonts.xul -->
-<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 <!ENTITY pref.fonts.title "Písma">
 
 <!ENTITY language.label "Znaková sada:">
@@ -39,7 +39,7 @@
 <!ENTITY font.langGroup.baltic "Baltské jazyky">
 <!ENTITY font.langGroup.el "Řečtina">
 <!ENTITY font.langGroup.turkish "Turecká">
-<!ENTITY font.langGroup.unicode "Unicode">
+<!ENTITY font.langGroup.unicode1 "Unicode">
 <!ENTITY font.langGroup.user-def "Definovaná uživatelem">
 <!ENTITY font.langGroup.thai "Thajština">
 <!ENTITY font.langGroup.hebrew "Hebrejština">
@@ -59,15 +59,15 @@
 <!ENTITY minSize.label "Minimální velikost fontů:">
 <!ENTITY minSize.accesskey "m">
 <!ENTITY minSize.none "Žádná">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Patkové">
 <!ENTITY useDefaultFontSansSerif.label "Bezpatkové">
 
 <!ENTITY useDocumentFonts.label "Povolit stránkám použít jiné písmo">
 <!ENTITY useDocumentFonts.accesskey "j">
-<!-- leaving this stuff in for now -->
 
+<!-- leaving this stuff in for now -->
 
 <!ENTITY header2 "Určuje-li si stránka vlastní písma">
 <!ENTITY useDefaultFont.label "Použít zde nastavená písma, bez ohledu na písma určovaná stránkou">
