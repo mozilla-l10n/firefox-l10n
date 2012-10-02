@@ -12,7 +12,7 @@
 <!ENTITY italic.label "기울임">
 <!ENTITY boldItalic.label "굵게 기울임">
 <!ENTITY size.label "크기:">
-<!ENTITY size.accesskey "s">
+<!ENTITY size.accesskey "z">
 <!ENTITY regularSize.label "규칙">
 <!ENTITY bigger.label "크게">
 <!ENTITY smaller.label "작게">

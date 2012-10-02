@@ -8,7 +8,7 @@
 <!ENTITY fccMailFolder.label "사본 위치:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "답을 보내는 메시지 폴더에 회신 저장하기">
-<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "다음 메일 주소를 Cc에 추가:">
 <!ENTITY ccAddress.accesskey "C">

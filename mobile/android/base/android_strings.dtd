@@ -143,7 +143,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY bookmark_edit_location "위치">
 <!ENTITY bookmark_edit_keyword "키워드">
 
-<!ENTITY site_settings_title        "웹사이트 설정…">
+<!ENTITY site_settings_title2        "웹사이트 설정…">
 <!ENTITY site_settings_cancel       "취소">
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
