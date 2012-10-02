@@ -143,7 +143,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY bookmark_edit_location "위치">
 <!ENTITY bookmark_edit_keyword "키워드">
 
-<!ENTITY site_settings_title        "웹 페이지 정보…">
+<!ENTITY site_settings_title        "웹사이트 설정…">
 <!ENTITY site_settings_cancel       "취소">
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
@@ -200,6 +200,22 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY bookmarkhistory_import_both "안드로이드로 부터 북마크 및 방문기록 가져오기">
 <!ENTITY bookmarkhistory_import_bookmarks "북마크 가져오는 중">
 <!ENTITY bookmarkhistory_import_history "방문 기록 가져오는 중">
-<!ENTITY bookmarkhistory_import_wait "잠시 기다리세요...">
+<!ENTITY bookmarkhistory_import_wait "잠시 기다리세요…">
 
 <!ENTITY webapp_generic_name "앱">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; - 새로 나온 업데이트">
+<!ENTITY updater_start_select "업데이트를 다운로드합니다.">
+
+<!ENTITY updater_downloading_title "&brandShortName; 다운로드 중">
+<!ENTITY updater_downloading_ticker "&brandShortName; 업데이트 다운로드 중…">
+<!ENTITY updater_downloading_ticker_failed "&brandShortName; 업데이트 다운로드를 실패했습니다...">
+<!ENTITY updater_downloading_select "다운로드 완료시 업데이트를 적용합니다.">
+<!ENTITY updater_downloading_retry "업데이트를 다시 다운로드합니다.">
+<!ENTITY updater_downloading_willapply "다운로드 완료를 기다리고 있습니다.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; 업데이트">
+<!ENTITY updater_apply_select "다운로드한 업데이트를 적용합니다.">
