@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Norėdami įjungti sinchronizavimą kitame įrenginyje, jame pasirinkite „Konfigūruoti sinchronizavimą“.'>
-<!ENTITY sync.subtitle.header.label 'Įveskite kompiuteryje šį kodą'>
-<!ENTITY sync.subtitle.connectlocation.label 'Kompiuteryje veikiančios „Firefox“ nuostatų skyrelyje „Sinchronizavimas“ pasirinkite punktą „Suporuoti įrenginį“.'>
+<!ENTITY sync.subtitle.header2.label 'Įveskite kitame įrenginyje šį kodą'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Kitame įrenginyje veikiančios „Firefox“ nuostatų skyrelyje „Sinchronizavimas“ pasirinkite punktą „&sync.title.pair.label;“.'>
 <!ENTITY sync.subtitle.pair.label 'Norėdami įjungti sinchronizavimą, kitame įrenginyje pasirinkite „Suporuoti įrenginį“.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>

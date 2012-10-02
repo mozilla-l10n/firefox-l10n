@@ -122,7 +122,8 @@ size. -->
 <!ENTITY share_image_failed "Paveikslu pasidalinti nepavyko">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
 <!ENTITY find_in_page "Ieškoti tinklalapyje">
-<!ENTITY desktop_mode "Prašyti svetainės kompiuteriui">
+<!ENTITY desktop_mode "Prašyti svetainės kompiuterio ekranui">
+<!ENTITY tools "Priemonės">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -132,6 +133,7 @@ size. -->
 <!ENTITY find_close "Užverti">
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
+<!ENTITY contextmenu_open_in_reader "Atverti skaityklėje">
 <!ENTITY contextmenu_remove_history "Pašalinti">
 <!ENTITY contextmenu_remove_bookmark "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
@@ -159,7 +161,7 @@ size. -->
 <!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
 <!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
 <!ENTITY reading_list_failed "Tinklalapio nepavyko įtraukti į skaitinių sąrašą">
-<!ENTITY reader_mode "Skaityklės veiksena">
+<!ENTITY reader "Skaityklė">
 
 <!ENTITY masterpassword_create_title "Sukurti pagrindinį slaptažodį">
 <!ENTITY masterpassword_remove_title "Pašalinti pagrindinį slaptažodį">
@@ -169,6 +171,8 @@ size. -->
 <!ENTITY button_ok "Gerai">
 <!ENTITY button_cancel "Atsisakyti">
 <!ENTITY button_clear_data "Valyti duomenis">
+<!ENTITY button_set "Nurodyti">
+<!ENTITY button_clear "Valyti">
 
 <!ENTITY abouthome_addons_title "Priedai „&brandShortName;“ naršyklei">
 <!ENTITY abouthome_addons_browse "Naršyti visus „&brandShortName;“ priedus">
@@ -224,3 +228,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
 
 <!ENTITY webapp_generic_name "Programa">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Išleistas „&brandShortName;“ naujinimas&#8230;">
+<!ENTITY updater_start_select "Pažymėkite, kad naujinimas būtų parsiųstas.">
+
+<!ENTITY updater_downloading_title "Parsiunčiama „&brandShortName;“">
+<!ENTITY updater_downloading_ticker "Parsiunčiamas „&brandShortName;“ naujinimas&#8230;">
+<!ENTITY updater_downloading_ticker_failed "„&brandShortName;“ naujinimo parsiųsti nepavyko&#8230;">
+<!ENTITY updater_downloading_select "Pažymėkite, kad užbaigus, naujinimas būtų įdiegtas.">
+<!ENTITY updater_downloading_retry "Pažymėkite, kad būtų pakartotinai bandoma atsiųsti naujinimą.">
+<!ENTITY updater_downloading_willapply "Laukiama, kol naujinimas bus parsiųstas.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Parsiųstas „&brandShortName;“ naujinimas&#8230;">
+<!ENTITY updater_apply_select "Pažymėkite, kad parsiųstasis naujinimas būtų įdiegtas.">
