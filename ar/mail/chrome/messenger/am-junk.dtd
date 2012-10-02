@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "إعدادت السُّخام">
 <!ENTITY trainingWarning.label 'إذا فعِّلت هذا فينبغي عليك تدريب &brandShortName; ليتعرّف على السخام مستخدما زر شريط الأدوات "سخام" لتأشر الرسائل كسخام أو لا. يجب عليك التعرف على ما هو سخام و ما هو غير ذلك. '>
 <!ENTITY level.label "فعّل التحكم التكيفي في السُّخام لهذا الحساب">
