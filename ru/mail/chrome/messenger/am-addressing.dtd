@@ -5,7 +5,7 @@
 <!ENTITY addressing.label "Составление и адресация">
 <!ENTITY addressingGroupTitle.label "Адресация">
 <!ENTITY addressingText.label "При подборе адресов:">
-<!ENTITY useGlobal.label "Использовать для этой учётной записи глобальные настройки LDAP-сервера ">
+<!ENTITY useGlobal.label "Использовать для этой учётной записи глобальные настройки LDAP-сервера">
 <!ENTITY useGlobal.accesskey "л">
 <!ENTITY editDirectories.label "Изменить сервер каталогов…">
 <!ENTITY editDirectories.accesskey "з">
