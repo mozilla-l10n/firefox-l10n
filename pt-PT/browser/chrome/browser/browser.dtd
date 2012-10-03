@@ -28,10 +28,10 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Fixar como separador de aplicação">
-<!ENTITY  pinAppTab.accesskey                "p">
-<!ENTITY  unpinAppTab.label                  "Anular fixar do separador">
-<!ENTITY  unpinAppTab.accesskey              "r">
+<!ENTITY  pinTab.label                       "Fixar como separador">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "Anular fixar do separador">
+<!ENTITY  unpinTab.accesskey                 "r">
 <!ENTITY  moveToGroup.label                  "Mover para grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
@@ -243,9 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Mais ferramentas">
-
-<!ENTITY webConsoleButton.label "Consola web">
-<!ENTITY inspectorButton.label "Inspector">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -648,21 +645,14 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Botão da barra de ferramentas social">
 <!ENTITY social.notLoggedIn.label   "Não ligado">
 
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Despartilhar">
-<!ENTITY social.sharePopup.undo.accesskey "D">
-<!ENTITY social.sharePopup.shared.label   "Você partilhou esta página.">
-<!ENTITY social.sharePopup.portrait.arialabel "Imagem do perfil do utilizador">
-
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Mostrar notificações no desktop">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Anular">
 <!ENTITY social.activated.undobutton.accesskey "u">
