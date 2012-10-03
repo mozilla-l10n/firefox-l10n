@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey "o">
 <!ENTITY includeSigOnForward.label "Ajouter la signature pour les transferts">
 <!ENTITY includeSigOnForward.accesskey "u">
+
+<!ENTITY globalComposingPrefs.label       "Préférences globales de rédaction…">
+<!ENTITY globalComposingPrefs.accesskey   "g">
+
+<!ENTITY globalAddressingPrefs.label      "Préférences globales d'adressage…">
+<!ENTITY globalAddressingPrefs.accesskey  "P">
