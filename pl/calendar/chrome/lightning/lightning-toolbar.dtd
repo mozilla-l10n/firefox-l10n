@@ -34,3 +34,5 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "W">
 <!ENTITY lightning.toolbar.month.label               "Miesiąc">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
+<!ENTITY lightning.toolbar.appmenuButton.label "Menu">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip "Wyświetla menu programu">
