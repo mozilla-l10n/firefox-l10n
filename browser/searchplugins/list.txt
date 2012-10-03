@@ -1,6 +1,5 @@
-amazondotcom
-bing
-eBay
 google
+bing
+amazondotcom
 wikipedia
-yahoo
+twitter
