@@ -5,3 +5,5 @@
 <!ENTITY closeNotification.tooltip "Fermer ce message">
 
 <!ENTITY closeNotificationItem.label "Plus tard">
+
+<!ENTITY checkForUpdates "Rechercher des mises à jour…">
