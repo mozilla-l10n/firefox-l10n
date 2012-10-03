@@ -229,6 +229,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title "Mise à jour disponible pour &brandShortName;">
 <!ENTITY updater_start_select "Toucher pour télécharger">
 
+<!ENTITY updater_downloading_title "Téléchargement de &brandShortName;">
 <!ENTITY updater_downloading_title_failed "Le téléchargement a échoué">
 <!ENTITY updater_downloading_select "Toucher pour appliquer la mise à jour une fois téléchargée">
 <!ENTITY updater_downloading_retry "Toucher pour réessayer">
