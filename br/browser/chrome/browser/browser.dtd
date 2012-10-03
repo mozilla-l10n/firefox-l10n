@@ -643,13 +643,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "Mat eo">
 <!ENTITY social.ok.accesskey   "M">
 
-<!ENTITY social.sharePopup.undo.label     "Nullañ ar rannañ">
-<!ENTITY social.sharePopup.undo.accesskey "u">
-<!ENTITY social.sharePopup.shared.label   "Rannet hoc'h eus ar bajenn-mañ.">
-<!ENTITY social.sharePopup.portrait.arialabel "Skeudenn eus aelad an arveriad">
-
 <!ENTITY social.toggleSidebar.label "Diskouez ar varrenn gostez">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Diskouez ar c'hemennadennoù rebuziñ war ar burev">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Dizober">
 <!ENTITY social.activated.undobutton.accesskey "D">
