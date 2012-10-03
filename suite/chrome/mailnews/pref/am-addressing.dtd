@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Endereçamento e Composição">
@@ -25,15 +29,21 @@
 <!ENTITY autoQuote.accesskey                  "a">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Então,">
-<!ENTITY then.accesskey                       "E">
+<!ENTITY then.accesskey                       "t">
 <!ENTITY aboveQuote.label                     "iniciar a minha resposta acima da citação">
 <!ENTITY belowQuote.label                     "iniciar a minha resposta abaixo da citação">
 <!ENTITY selectAndQuote.label                 "seleccione a citação">
 <!ENTITY place.label                          "e coloque a minha assinatura">
-<!ENTITY place.accesskey                      "c">
+<!ENTITY place.accesskey                      "u">
 <!ENTITY belowText.label                      "abaixo da citação (recomendado)">
 <!ENTITY aboveText.label                      "abaixo da resposta (acima da citação)">
 <!ENTITY includeSigOnReply.label              "Incluir assinatura nas respostas">
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Incluir assinatura nos reencaminhamentos">
-<!ENTITY includeSigOnForward.accesskey        "e">
+<!ENTITY includeSigOnForward.accesskey        "i">
+
+<!ENTITY globalComposingPrefs.label           "Preferências de composição globais…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Preferências de endereçamento globais…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
