@@ -29,8 +29,8 @@
 
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
-<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.label                 "ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੀਆਂ ਪਲੱਗਇਨ ਅੱਪਡੇਟ ਹਨ">
+<!ENTITY info.plugincheck.tooltip               "ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੀਆਂ ਪਲੱਗਇਨ ਅੱਪਡੇਟ ਹਨ ਕਿ ਨਹੀਂ">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "ਖੋਜ">

@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_import_android "ਐਡਰਾਇਡ ਤੋਂ ਇੰਪੋਰਟ">
 <!ENTITY pref_private_data_history "ਬਰਾਊਜ਼  ਕਰਨ ਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ">
 <!ENTITY pref_private_data_formdata "ਫਾਰਮ ਤੇ ਖੋਜ ਅਤੀਤ">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
+<!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਅਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
 <!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
 
@@ -150,7 +150,7 @@ size. -->
 <!ENTITY contextmenu_remove_bookmark "ਹਟਾਓ">
 <!ENTITY contextmenu_add_to_launcher "Home Screen ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
-<!ENTITY contextmenu_pasteandgo "ਚੇਪੋ &amp; ਜਾਓ">
+<!ENTITY contextmenu_pasteandgo "ਚੇਪੋ ਤੇ ਜਾਓ">
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
 <!ENTITY contextmenu_copyurl "ਐਡਰੈਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧ">

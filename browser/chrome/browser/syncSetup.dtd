@@ -45,9 +45,9 @@
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "ਇੱਕ ਨਵੀਂ ਕੁੰਜੀ ਬਣਾਓ">
 <!ENTITY recoveryKeyBackup.description "ਤੁਹਾਡੀ ਰਿਕਵਰੀ ਕੁੰਜੀ  ਹੋਰ ਮਸ਼ੀਨਾਂ ਉੱਤੇ &syncBrand.fullName.label; ਦੀ ਵਰਤੋਂ ਲਈ ਚਾਹੀਦੀ ਹੈ। ਧਿਆਨ ਨਾਲ ਬੈਕਅੱਪ ਕਾਪੀ ਬਣਾ ਲਵੋ। ਤੁਹਾਡੀ ਰਿਕਵਰੀ ਕੁੰਜੀ ਲਈ ਅਸੀਂ ਤੁਹਾਡੀ ਮੱਦਦ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵਾਂਗੇ।">
-<!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">
+<!ENTITY button.syncKeyBackup.print.label     "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "ਸੰਭਾਲੋ…">
+<!ENTITY button.syncKeyBackup.save.label      "…ਸੰਭਾਲੋ">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->

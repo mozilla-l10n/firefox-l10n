@@ -2,7 +2,7 @@
 
 <!ENTITY startupPage.label         "ਜਦੋਂ &brandShortName; ਸ਼ੁਰੂ ਹੋਵੇ:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "ਮੇਰਾ ਮੇਨ ਪੇਜ਼ ਵੇਖੋ">
+<!ENTITY startupHomePage.label     "ਮੇਰਾ ਮੁੱਖ ਪੇਜ਼ ਵੇਖੋ">
 <!ENTITY startupBlankPage.label    "ਇੱਕ ਖਾਲੀ ਪੇਜ਼ ਵੇਖੋ">
 <!ENTITY startupLastSession.label  "ਆਖਰੀ ਸਮੇਂ ਦੇ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਵੇਖੋ">
 <!ENTITY homepage.label            "ਮੁੱਖ ਪੇਜ਼:">
