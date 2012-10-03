@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Tulosta…">
 <!ENTITY otherActionsPrint1.accesskey "u">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Liitepaneeli näkyvissä oletuksena">
+<!ENTITY startExpandedCmd.accesskey    "L">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label     "Avaa">
 <!ENTITY openAttachmentCmd.accesskey		 "A">

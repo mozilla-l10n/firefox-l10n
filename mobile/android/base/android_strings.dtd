@@ -224,3 +224,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Odota...">
 
 <!ENTITY webapp_generic_name "Sovellus">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName;in päivitys saatavilla&#8230;">
+<!ENTITY updater_start_select "Valitse ladataksesi päivityksen.">
+
+<!ENTITY updater_downloading_title "Ladataan &brandShortName;">
+<!ENTITY updater_downloading_ticker "Ladataan päivitystä &brandShortName;iin &#8230;">
+<!ENTITY updater_downloading_ticker_failed "Päivityksen lataus &brandShortName;iin epäonnistui&#8230;">
+<!ENTITY updater_downloading_select "Valitse asentaaksesi päivitys latauksen päätyttyä.">
+<!ENTITY updater_downloading_retry "Valitse yrittääksesi uudestaan päivityksen lataamista.">
+<!ENTITY updater_downloading_willapply "Odotetaan latauksen päättymistä.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName;in päivitys saatavilla&#8230;">
+<!ENTITY updater_apply_select "Valitse asentaaksesi ladatun päivityksen.">
