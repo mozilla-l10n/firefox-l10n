@@ -226,17 +226,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "application">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Mise à jour de &brandShortName; disponible&#8230;">
-<!ENTITY updater_start_select "Télécharger la mise à jour.">
+<!ENTITY updater_start_title "Mise à jour disponible pour &brandShortName;">
+<!ENTITY updater_start_select "Toucher pour télécharger">
 
-<!ENTITY updater_downloading_title "Téléchargement de &brandShortName;">
-<!ENTITY updater_downloading_ticker "Téléchargement de la mise à jour de &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Impossible de télécharger la mise à jour de &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Appliquer la mise à jour à la fin du téléchargement.">
-<!ENTITY updater_downloading_retry "Télécharger de nouveau la mise à jour.">
-<!ENTITY updater_downloading_willapply "En attente de la fin du téléchargement.">
+<!ENTITY updater_downloading_title_failed "Le téléchargement a échoué">
+<!ENTITY updater_downloading_select "Toucher pour appliquer la mise à jour une fois téléchargée">
+<!ENTITY updater_downloading_retry "Toucher pour réessayer">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Mise à jour de &brandShortName; disponible&#8230;">
-<!ENTITY updater_apply_select "Appliquer la mise à jour téléchargée.">
+<!ENTITY updater_apply_title "Mise à jour disponible pour &brandShortName;">
+    1.32 +<!ENTITY updater_apply_select "Toucher pour mettre à jour">
