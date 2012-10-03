@@ -231,16 +231,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "disponível atualização do &brandShortName;">
 <!ENTITY updater_start_select "Selecione para transferir atualização.">
 
 <!ENTITY updater_downloading_title "A transferir &brandShortName;">
-<!ENTITY updater_downloading_ticker "A transferir a atualização do &brandShortName;">
-<!ENTITY updater_downloading_ticker_failed "A transfer~encia da atualização do &brandShortName; falhou">
-<!ENTITY updater_downloading_select "Selecione para aplicar a atualização ao terminar.">
-<!ENTITY updater_downloading_retry "Selecione para voltar a tentar a transferência da atualização.">
-<!ENTITY updater_downloading_willapply "A aguardar que a transfer~encia termine.">
+<!ENTITY updater_downloading_title_failed "A transferência falhou">
+<!ENTITY updater_downloading_select "Toque para aplicar a atualização após transferência">
+<!ENTITY updater_downloading_retry "Toque para voltar a tentar">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Disponível atualização para o &brandShortName;">
-<!ENTITY updater_apply_select "Selecione para aplicar a atualização transferida.">
+<!ENTITY updater_apply_title "Atualização disponível para o &brandShortName;">
+<!ENTITY updater_apply_select "Toque para atualizar.">
