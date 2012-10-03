@@ -234,4 +234,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_retry "Toucher pour réessayer">
 
 <!ENTITY updater_apply_title "Mise à jour disponible pour &brandShortName;">
-    1.32 +<!ENTITY updater_apply_select "Toucher pour mettre à jour">
+<!ENTITY updater_apply_select "Toucher pour mettre à jour">
