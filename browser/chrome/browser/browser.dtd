@@ -655,13 +655,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "확인">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "공유하지 않음">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.shared.label   "현재 페이지 공유 완료">
-<!ENTITY social.sharePopup.portrait.arialabel "사용자 프로필 이미지">
-
 <!ENTITY social.toggleSidebar.label "사이드바 보기">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "바탕화면 표시">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "실행 취소">
 <!ENTITY social.activated.undobutton.accesskey "U">
