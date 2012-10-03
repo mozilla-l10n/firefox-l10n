@@ -37,3 +37,10 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Incluir firmas en los reenvíos">
 <!ENTITY includeSigOnForward.accesskey        "I">
+
+<!ENTITY globalComposingPrefs.label           "Preferencas globales de escritura…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Preferencias globales de direcciones…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
+

@@ -71,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Más pequeño">
 <!ENTITY decreaseFontSize.accesskey "s">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Más grande">
 <!ENTITY increaseFontSize.accesskey "r">
 <!ENTITY increaseFontSize.key "+">
