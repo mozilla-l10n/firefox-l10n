@@ -5,3 +5,5 @@
 <!ENTITY closeNotification.tooltip "Luk denne besked"> 
 
 <!ENTITY closeNotificationItem.label "Ikke nu">
+
+<!ENTITY checkForUpdates "Søg efter opdateringer…">

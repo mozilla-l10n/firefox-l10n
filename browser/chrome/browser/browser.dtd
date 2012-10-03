@@ -645,14 +645,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Fjern deling">
-<!ENTITY social.sharePopup.undo.accesskey "F">
-
-<!ENTITY social.sharePopup.shared.label   "Du har delt denne side.">
-<!ENTITY social.sharePopup.portrait.arialabel "Brugers profilbillede">
-
 <!ENTITY social.toggleSidebar.label "Vis sidebjælke">
 <!ENTITY social.toggleSidebar.accesskey "V">
+
+<!ENTITY social.toggleNotifications.label "Vis systembeskeder">
+<!ENTITY social.toggleNotifications.accesskey "s">
 
 <!ENTITY social.activated.undobutton.label "Fortryd">
 <!ENTITY social.activated.undobutton.accesskey "F">
