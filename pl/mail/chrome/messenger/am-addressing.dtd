@@ -14,7 +14,7 @@
 <!ENTITY directories.accesskey      "L">
 <!ENTITY directoriesNone.label      "brak">
 
-<!ENTITY compositionGroupTitle.label   "Tworzenie wiadomości">
+<!ENTITY compositionGroupTitle.label "Tworzenie wiadomości">
 <!ENTITY useHtml.label                 "Twórz wiadomości w formacie HTML">
 <!ENTITY useHtml.accesskey             "T">
 <!ENTITY autoQuote.label               "Podczas tworzenia odpowiedzi automatycznie cytuj oryginalną wiadomość">
@@ -32,3 +32,9 @@
 <!ENTITY includeSigOnReply.accesskey   "s">
 <!ENTITY includeSigOnForward.label     "Dołączaj sygnaturkę przy przekazywaniu">
 <!ENTITY includeSigOnForward.accesskey "n">
+
+<!ENTITY globalComposingPrefs.label "Globalne preferencje tworzenia wiadomości…">
+<!ENTITY globalComposingPrefs.accesskey "w">
+
+<!ENTITY globalAddressingPrefs.label "Globalne preferencje adresowania…">
+<!ENTITY globalAddressingPrefs.accesskey "G">
