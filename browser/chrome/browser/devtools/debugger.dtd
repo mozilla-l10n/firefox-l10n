@@ -8,8 +8,4 @@
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
-<!ENTITY debuggerUI.stackTitle "Стек вызовов">
-<!ENTITY debuggerUI.scriptTitle "Сценарий">
-<!ENTITY debuggerUI.propertiesTitle "Переменные по области действия">
 <!ENTITY debuggerUI.searchPanelTitle "Операторы">
-<!ENTITY debuggerUI.emptyScriptText "Нет сценариев">

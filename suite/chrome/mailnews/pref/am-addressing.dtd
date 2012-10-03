@@ -8,7 +8,7 @@
 <!ENTITY autocompleteToMyDomain.accesskey "в">
 <!ENTITY addressingText.label "При подборе адресов:">
 <!ENTITY useGlobal.label "Использовать для этой учётной записи глобальные настройки LDAP-сервера ">
-<!ENTITY useGlobal.accesskey "с">
+<!ENTITY useGlobal.accesskey "л">
 <!ENTITY editDirectories.label "Изменить сервер каталогов…">
 <!ENTITY editDirectories.accesskey "з">
 <!ENTITY directories.label "Использовать другой LDAP-сервер:">
@@ -16,11 +16,11 @@
 <!ENTITY directoriesNone.label "Нет">
 <!ENTITY compositionGroupTitle.label "Составление">
 <!ENTITY useHtml.label "Составлять сообщения в формате HTML">
-<!ENTITY useHtml.accesskey "с">
+<!ENTITY useHtml.accesskey "я">
 <!ENTITY autoQuote.label "При ответе автоматически цитировать текст исходного сообщения">
 <!ENTITY autoQuote.accesskey "о">
 <!ENTITY then.label "Затем:">
-<!ENTITY then.accesskey "а">
+<!ENTITY then.accesskey "е">
 <!ENTITY aboveQuote.label "поместить курсор перед цитируемым текстом">
 <!ENTITY belowQuote.label "поместить курсор после цитируемого текста">
 <!ENTITY selectAndQuote.label "выделить цитируемый текст">
@@ -29,6 +29,10 @@
 <!ENTITY belowText.label "после цитируемого текста (рекомендуется)">
 <!ENTITY aboveText.label "после моего ответа (перед цитируемым текстом)">
 <!ENTITY includeSigOnReply.label "Включать подпись в ответы">
-<!ENTITY includeSigOnReply.accesskey "т">
+<!ENTITY includeSigOnReply.accesskey "ю">
 <!ENTITY includeSigOnForward.label "Включать подпись в пересылаемые письма">
 <!ENTITY includeSigOnForward.accesskey "с">
+<!ENTITY globalComposingPrefs.label "Глобальные настройки составления сообщений…">
+<!ENTITY globalComposingPrefs.accesskey "а">
+<!ENTITY globalAddressingPrefs.label "Глобальные настройки адресации…">
+<!ENTITY globalAddressingPrefs.accesskey "ы">
