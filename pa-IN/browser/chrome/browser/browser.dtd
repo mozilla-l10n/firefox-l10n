@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -115,7 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "…ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
 <!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
-<!ENTITY unsortedBookmarksCmd.label "ਗ਼ੈਰ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕਗ">
+<!ENTITY unsortedBookmarksCmd.label "ਗ਼ੈਰ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
@@ -213,7 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ਐਲੀਮੈਂਟ ਜਾਂਚ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.label   "ਜਵਾਬਰੇਹ ਡਿਜ਼ਾਇਨ ਝਲਕ">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
@@ -665,13 +669,12 @@ toolbar button -->
 <!ENTITY social.ok.label       "ਠੀਕ ਹੈ">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "ਸਾਂਝਾ ਨਾ ਕਰੋ">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.shared.label   "ਇਹ ਪੇਜ਼ਾ ਸਾਂਝਾ ਕਰੋ।">
-<!ENTITY social.sharePopup.portrait.arialabel "User profile picture">
 
 <!ENTITY social.toggleSidebar.label "ਬਾਹੀ ਵੇਖਾਓ">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.activated.undobutton.label "Undo">
+<!ENTITY social.toggleNotifications.label "ਡੈਸਕਟਾਪ ਸੂਚਨਾਵਾਂ ਵੇਖਾਓ">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "ਵਾਪਿਸ">
 <!ENTITY social.activated.undobutton.accesskey "U">
