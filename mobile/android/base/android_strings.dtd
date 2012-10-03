@@ -159,11 +159,11 @@
 <!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
 <!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
 <!ENTITY webapp_generic_name "Приложение">
-<!ENTITY updater_start_title "Update available for &brandShortName;">
+<!ENTITY updater_start_title "Доступно обновление &brandShortName;">
 <!ENTITY updater_start_select "Нажмите для загрузки">
 <!ENTITY updater_downloading_title "Загрузка &brandShortName;">
 <!ENTITY updater_downloading_title_failed "Загрузка не удалась">
 <!ENTITY updater_downloading_select "Нажмите для применения обновления по завершении загрузки">
 <!ENTITY updater_downloading_retry "Нажмите для повтора">
-<!ENTITY updater_apply_title "Update available for &brandShortName;">
+<!ENTITY updater_apply_title "Доступно обновление &brandShortName;">
 <!ENTITY updater_apply_select "Нажмите для обновления">
