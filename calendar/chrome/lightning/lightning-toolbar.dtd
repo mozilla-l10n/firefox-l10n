@@ -34,3 +34,8 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey "a">
 <!ENTITY lightning.toolbar.month.label "Mois">
 <!ENTITY lightning.toolbar.month.accesskey "M">
+
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "Menu de l'application">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Afficher le menu de l'application">
