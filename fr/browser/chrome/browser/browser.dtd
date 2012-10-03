@@ -616,7 +616,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "dont le détenteur est">
 <!ENTITY identity.moreInfoLinkText "Plus d'informations…">
 
-<!ENTITY downloadMonitor2.tooltip "Cliquez pour ouvrir la fenêtre des téléchargements">
+<!ENTITY downloadMonitor2.tooltip "Ouvrir la fenêtre des téléchargements">
 
 <!ENTITY allTabs.filter.emptyText "Rechercher dans les onglets">
 <!-- Name for the tabs toolbar as spoken by screen readers.
