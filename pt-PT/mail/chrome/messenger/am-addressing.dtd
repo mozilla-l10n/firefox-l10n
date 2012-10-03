@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label "Endereçamento e Composição">
@@ -35,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Incluir assinatura nos reencaminhamentos">
 <!ENTITY includeSigOnForward.accesskey        "i">
+
+<!ENTITY globalComposingPrefs.label           "Preferências de composição globais…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Preferências de endereçamento globais…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
