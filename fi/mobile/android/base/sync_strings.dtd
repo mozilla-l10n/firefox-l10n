@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Määritä &syncBrand.shortName.label; lähettääksesi välilehtiä'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Määritä &syncBrand.fullName.label; laitteellasi lähettääksesi välilehtiä toisiin laitteisiin.'>
 <!ENTITY sync.text.tab.sent.label 'Välilehti lähetettiin.'>
+<!ENTITY sync.text.tab.not.sent.label 'Välilehden lähetettäminen ei onnistunut.'>

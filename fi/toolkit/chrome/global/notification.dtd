@@ -5,3 +5,5 @@
 <!ENTITY closeNotification.tooltip "Sulje tämä viesti"> 
 
 <!ENTITY closeNotificationItem.label "Ei nyt">
+
+<!ENTITY checkForUpdates "Hae päivityksiä…">
