@@ -89,7 +89,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY pref_font_size_medium "Measartha">
 <!ENTITY pref_font_size_large "Mór">
 <!ENTITY pref_font_size_xlarge "An-mhór">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_font_size_set "Socraithe">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -99,7 +99,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Léim an madra rua tapa thar do ríomhaire, agus thug sé luas, solúbthacht, agus slándáil duit. Mar eagraíocht neamhbhrabúis, táimid in ann rudaí nuálacha a chruthú ar do shon, gan aon bhrú seachtrach. Ciallaíonn sé sin go mbainfidh tú níos mó taitneamh as an nGréasán.">
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
 <!ENTITY pref_sync "Sync">
@@ -125,7 +125,7 @@ size. -->
 <!ENTITY share_image_failed "Ní féidir an íomhá seo a roinnt">
 <!ENTITY save_as_pdf "Sábháil mar PDF">
 <!ENTITY find_in_page "Aimsigh sa Leathanach">
-<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY desktop_mode "Iarr Suíomh don Ríomhaire">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -184,8 +184,8 @@ size. -->
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Socraigh Firefox Sync chun do stair, leabharmharcanna, agus cluaisíní a rochtain ar gach gléas atá agat&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Faigh feidhmchláir ó Mhargadh Mhozilla agus aimsigh na rudaí is fearr ar an nGréasán&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -226,3 +226,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Fan le do thoil...">
 
 <!ENTITY webapp_generic_name "Feidhmchlár">
+<!-- Updater notifications -->
+
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Nuashonrú &brandShortName; ar fáil&#8230;">
+<!ENTITY updater_start_select "Roghnaigh é chun an nuashonrú a íosluchtú.">
+
+<!ENTITY updater_downloading_title "&brandShortName; á íosluchtú">
+<!ENTITY updater_downloading_ticker "Nuashonrú &brandShortName; á íosluchtú&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Níorbh fhéidir an nuashonrú &brandShortName; a íosluchtú&#8230;">
+<!ENTITY updater_downloading_select "Roghnaigh chun an nuashonrú a chur i bhfeidhm.">
+<!ENTITY updater_downloading_retry "Roghnaigh chun an nuashonrú a íosluchtú arís.">
+<!ENTITY updater_downloading_willapply "Ag fanacht leis an íosluchtú.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Nuashonrú &brandShortName; ar fáil&#8230;">
+<!ENTITY updater_apply_select "Roghnaigh chun an nuashonrú íosluchtaithe a chur i bhfeidhm.">
