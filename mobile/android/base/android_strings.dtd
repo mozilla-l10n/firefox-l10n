@@ -124,7 +124,6 @@ size. -->
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Procurar na página">
 <!ENTITY desktop_mode "Pedir sítio do Desktop">
-<!ENTITY tools "Ferramentas">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -134,7 +133,6 @@ size. -->
 <!ENTITY find_close "Fechar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir num novo separador">
-<!ENTITY contextmenu_open_in_reader "Abrir no leitor">
 <!ENTITY contextmenu_remove_history "Remover">
 <!ENTITY contextmenu_remove_bookmark "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
@@ -171,8 +169,6 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
-<!ENTITY button_clear_data "Limpar dados">
-<!ENTITY button_set "Definir">
 <!ENTITY button_clear "Limpar">
 
 <!ENTITY abouthome_addons_title "Extras para o seu &brandShortName;">
@@ -231,16 +227,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "disponível atualização do &brandShortName;">
 <!ENTITY updater_start_select "Selecione para transferir atualização.">
 
 <!ENTITY updater_downloading_title "A transferir &brandShortName;">
-<!ENTITY updater_downloading_ticker "A transferir a atualização do &brandShortName;">
-<!ENTITY updater_downloading_ticker_failed "A transfer~encia da atualização do &brandShortName; falhou">
-<!ENTITY updater_downloading_select "Selecione para aplicar a atualização ao terminar.">
-<!ENTITY updater_downloading_retry "Selecione para voltar a tentar a transferência da atualização.">
-<!ENTITY updater_downloading_willapply "A aguardar que a transfer~encia termine.">
+<!ENTITY updater_downloading_title_failed "A transferência falhou">
+<!ENTITY updater_downloading_select "Toque para aplicar a atualização após transferência">
+<!ENTITY updater_downloading_retry "Toque para voltar a tentar">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Disponível atualização para o &brandShortName;">
-<!ENTITY updater_apply_select "Selecione para aplicar a atualização transferida.">
+<!ENTITY updater_apply_title "Atualização disponível para o &brandShortName;">
+<!ENTITY updater_apply_select "Toque para atualizar.">
