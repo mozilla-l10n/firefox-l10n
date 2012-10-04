@@ -467,11 +467,9 @@
 <!ENTITY social.notLoggedIn.label "Accesso non effettuato">
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
-<!ENTITY social.sharePopup.undo.label "Rimuovi condivisione">
-<!ENTITY social.sharePopup.undo.accesskey "R">
-<!ENTITY social.sharePopup.shared.label "Hai condiviso questa pagina.">
-<!ENTITY social.sharePopup.portrait.arialabel "Immagine profilo utente">
 <!ENTITY social.toggleSidebar.label "Visualizza barra laterale">
 <!ENTITY social.toggleSidebar.accesskey "V">
+<!ENTITY social.toggleNotifications.label "Visualizza notifiche desktop">
+<!ENTITY social.toggleNotifications.accesskey "k">
 <!ENTITY social.activated.undobutton.label "Annulla">
 <!ENTITY social.activated.undobutton.accesskey "A">
