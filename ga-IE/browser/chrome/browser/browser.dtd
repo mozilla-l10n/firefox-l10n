@@ -647,22 +647,15 @@ toolbar button -->
 
 <!ENTITY socialToolbar.title "Cnaipe Barra Shóisialta">
 <!ENTITY social.notLoggedIn.label "Níl tú logáilte isteach">
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
 
-<!ENTITY social.sharePopup.undo.label "Díroinn">
-<!ENTITY social.sharePopup.undo.accesskey "D">
-<!ENTITY social.sharePopup.shared.label "Chomhroinn tú an leathanach seo.">
-<!ENTITY social.sharePopup.portrait.arialabel "Grianghraf úsáideora">
-
 <!ENTITY social.toggleSidebar.label "Taispeáin an barra taoibh">
 <!ENTITY social.toggleSidebar.accesskey "T">
+
+<!ENTITY social.toggleNotifications.label "Taispeáin fógraí deisce">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Cealaigh">
 <!ENTITY social.activated.undobutton.accesskey "C">

@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre "If you need help or have a problem with &brandShortName;, please visit ">
+<!ENTITY support.pre "Má tá cabhair uait, nó má tá fadhb agat le &brandShortName;, déan cuairt ar ">
 <!ENTITY support.link "Tacaíocht &brandShortName;">
 <!ENTITY support.post ".">
 
@@ -29,13 +29,13 @@
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
-<!ENTITY happy.finePrint "It takes less than a minute and feels great.">
+<!ENTITY happy.finePrint "Beidh níos lú ná nóiméad amháin i gceist, agus cuirfidh sé gliondar ar do chroí.">
 
 <!ENTITY happy.ratingLink "Tá, déan cuairt ar Google Play">
 <!ENTITY happy.maybeLater "B'fhéidir ar ball">
 <!ENTITY happy.noThanks "Níl">
 
-<!ENTITY sad.message "We’re sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
+<!ENTITY sad.message "Tá brón orainn go raibh fadhb agat le &brandShortName;. Abair linn cad é a bhí briste agus deiseoimid é más féidir.">
 <!ENTITY sad.placeholder "Cuir do chuid aiseolais anseo">
 <!ENTITY sad.lastSite "An suíomh a raibh tú ann (roghnach)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop "We’re always working to make &brandShortName; better. Rest assured that real people will look at your feedback and do their very best to resolve your issue.">
+<!ENTITY sad.thanksMessageTop "Bímid ag iarraidh &brandShortName; a fheabhsú i gcónaí. Féadfaidh tú a bheith cinnte go léifidh duine éigin do chuid aiseolais agus déanfaimid ár n-iarracht an fhadhb a réiteach.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
@@ -55,16 +55,16 @@
      tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
      to tell us anything they're thinking about. -->
 
-<!ENTITY idea.message "We love hearing your ideas! Please share your thoughts below. (Just the ones about &brandShortName;, please.)">
+<!ENTITY idea.message "Is breá linn do chuid moltaí! Déan cur síos ar do smaoineamh thíos. (Smaointe a bhaineann le &brandShortName; amháin, le do thoil.)">
 <!ENTITY idea.placeholder "Cuir do smaoineamh anseo">
 <!ENTITY idea.thanksHeader "GRMA!">
 
-<!ENTITY idea.thanksMessageTop "We appreciate you taking the time to share your thoughts. We’re always working to make &brandShortName; better and contributions like yours can lead to great things.">
+<!ENTITY idea.thanksMessageTop "We appreciate you taking the time to share your thoughts. We're always working to make &brandShortName; better and contributions like yours can lead to great things.">
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
      something physical, which is why they can't see it.-->
 
-<!ENTITY idea.thanksMessageBottom "You can't see it, but we're giving you a high five right now.">
+<!ENTITY idea.thanksMessageBottom "Ní féidir leat é a fheiceáil, ach táimid ag tabhairt bos in ard duit anois.">
 
-<!ENTITY feedback.privacy "For your privacy, please don't include any personally indentifiable information in your feedback.">
+<!ENTITY feedback.privacy "Bí cinnte nach bhfuil aon fhaisnéis inaitheanta phearsanta i do chuid aiseolais.">
 <!ENTITY feedback.send "Tabhair Aiseolas">

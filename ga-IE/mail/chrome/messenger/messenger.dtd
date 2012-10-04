@@ -588,7 +588,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
 <!ENTITY appmenuNewContactCmd.label "Teagmháil sa Leabhar Seoltaí…">
 <!ENTITY appmenuEditMenu.label "Eagar">
-<!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
+<!ENTITY appmenuQFBMenu.label "Barra Mearscagairí">
 <!ENTITY appmenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!-- Tags Menu Popup -->
 
