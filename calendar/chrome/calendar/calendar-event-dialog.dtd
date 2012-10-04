@@ -107,8 +107,6 @@
 
 <!ENTITY  event.menu.options.label                            "Alternativ">
 <!ENTITY  event.menu.options.accesskey                        "A">
-<!ENTITY  event.menu.options.attachments.label                "Bifoga webbsida…">
-<!ENTITY  event.menu.options.attachments.accesskey            "w">
 <!ENTITY  event.menu.options.attendees.label                  "Bjud in deltagare…">
 <!ENTITY  event.menu.options.attendees.accesskey              "B">
 <!ENTITY  event.menu.options.spellcheck.label                 "Kontrollera stavning…">
@@ -117,8 +115,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Lägg till länk…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Tidszon">
-<!ENTITY  event.menu.options.timezone.accesskey               "T">
+<!ENTITY  event.menu.options.timezone2.label                  "Visa tidszoner">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritet">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Ej angiven">
@@ -150,7 +148,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Bjud in deltagare">
 <!ENTITY  event.toolbar.spellcheck.label                  "Stavningskontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Sekretess">
-<!ENTITY  event.toolbar.attachments.label                 "Bifoga">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
@@ -183,6 +180,10 @@
 <!ENTITY event.description.accesskey                      "s">
 <!ENTITY event.attachments.label                          "Bilagor:" >
 <!ENTITY event.attachments.accesskey                      "B" >
+<!ENTITY event.attachments.menubutton.label               "Bifoga">
+<!ENTITY event.attachments.menubutton.accesskey           "f">
+<!ENTITY event.attachments.url.label                      "Webbsida…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Radera" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "Öppna" >
@@ -331,9 +332,14 @@
 <!ENTITY event.attendee.role.optional           "Valfri deltagare">
 <!ENTITY event.attendee.role.chair              "Stol">
 <!ENTITY event.attendee.role.nonparticipant     "Icke-deltagare">
+<!ENTITY event.attendee.usertype.individual     "Enskild person">
+<!ENTITY event.attendee.usertype.group          "Grupp">
+<!ENTITY event.attendee.usertype.resource       "Resurs">
+<!ENTITY event.attendee.usertype.room           "Rum">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ange tidszon">
+<!ENTITY event.timezone.custom.label     "Fler tidszoner…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Allmänt">
@@ -341,7 +347,7 @@
 <!ENTITY read.only.event.start.label     "Start datum:">
 <!ENTITY read.only.task.start.label      "Start datum:">
 <!ENTITY read.only.event.end.label       "Slut datum:">
-<!ENTITY read.only.task.due.label        "Förafallodatum:">
+<!ENTITY read.only.task.due.label        "Förfallodatum:">
 <!ENTITY read.only.repeat.label          "Repetera:">
 <!ENTITY read.only.location.label        "Plats:">
 <!ENTITY read.only.category.label        "Kategori:">
