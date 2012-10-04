@@ -62,3 +62,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar texto para o clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar dados raw para o clipboard">
+
+<!ENTITY aboutSupport.syncPrefsName "Nome">
+<!ENTITY aboutSupport.syncPrefsValue "Valor">
+<!ENTITY aboutSupport.syncNotSupported "O serviço não está ativado">
