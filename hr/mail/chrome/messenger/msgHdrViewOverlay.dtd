@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Ispis…">
 <!ENTITY otherActionsPrint1.accesskey "p">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Prvo prikaži okno privitka">
+<!ENTITY startExpandedCmd.accesskey    "o">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Otvori">
 <!ENTITY openAttachmentCmd.accesskey    "O">

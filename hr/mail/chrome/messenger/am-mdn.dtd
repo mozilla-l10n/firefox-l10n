@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Potvrde čitanja">
-<!ENTITY useGlobalPrefs.label         "Koristi globale postavke potvrde čitanja za ovaj račun">
+<!ENTITY useGlobalPrefs.label         "Koristi opće postavke potvrde čitanja za ovaj račun">
 <!ENTITY useGlobalPrefs.accesskey     "u">
+<!ENTITY globalReceipts.label         "Opće postavke…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Prilagodi potvrde čitanja za ovaj račun">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Prilikom slanja poruke, uvijek zahtjevaj potvrdu čitanja">
