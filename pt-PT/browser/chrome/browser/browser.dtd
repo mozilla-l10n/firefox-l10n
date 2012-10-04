@@ -655,13 +655,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Despartilhar">
-<!ENTITY social.sharePopup.undo.accesskey "D">
-<!ENTITY social.sharePopup.shared.label   "Você partilhou esta página.">
-<!ENTITY social.sharePopup.portrait.arialabel "Imagem do perfil do utilizador">
-
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Mostrar notificações no desktop">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Anular">
 <!ENTITY social.activated.undobutton.accesskey "u">
