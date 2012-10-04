@@ -9,7 +9,7 @@
 <!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Prilagodi potvrde čitanja za ovaj račun">
 <!ENTITY useCustomPrefs.accesskey     "P">
-<!ENTITY requestReceipt.label         "Prilikom slanja poruke, uvijek zahtjevaj potvrdu čitanja">
+<!ENTITY requestReceipt.label         "Prilikom slanja poruke, uvijek zahtijevaj potvrdu čitanja">
 <!ENTITY requestReceipt.accesskey     "r">
 <!ENTITY receiptArrive.label          "Kada potvrda stigne:">
 <!ENTITY leaveIt.label                "Ostavi je u Primljenoj pošti">
