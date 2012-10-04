@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Odaberi…">
 <!ENTITY browse.accesskey                 "b">
-
-<!ENTITY addonsMgr.label                  "Dodaci">
-<!ENTITY manageAddonsDescWin.label        "Promijenite mogućnosti svojih dodataka">
-<!ENTITY manageAddonsDescUnix2.label      "Promijenite mogućnosti svojih dodataka">
-<!ENTITY manageAddons.label               "Upravljanje dodacima…">
-<!ENTITY manageAddons.accesskey           "d">
