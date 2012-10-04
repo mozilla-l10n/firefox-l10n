@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Kalender Verktygsfält">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Uppgifter Verktygsfält">
-<!ENTITY lightning.toolbar.task.accesskey "U">
+<!ENTITY lightning.toolbar.task.name.accesskey "U">
 
 <!ENTITY lightning.toolbar.sync.label "Synkronisera">
 <!ENTITY lightning.toolbar.delete.label "Radera">
@@ -14,8 +14,7 @@
 <!ENTITY lightning.toolbar.print.label "Skriv ut">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Epost">
-<!ENTITY lightning.toolbar.mail.accesskey     "E">
+
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Växla till fliken kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
@@ -36,3 +35,8 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "F">
 <!ENTITY lightning.toolbar.month.label               "Månad">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
+
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "ProgramMeny">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Visar programmenyn">
