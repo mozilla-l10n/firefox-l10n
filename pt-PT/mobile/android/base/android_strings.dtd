@@ -160,7 +160,7 @@ size. -->
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
 <!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
-<!ENTITY reader "Leitor">
+<!ENTITY reader_mode "Modo leitor">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
 <!ENTITY masterpassword_remove_title "Remover senha mestra">
@@ -169,7 +169,7 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
-<!ENTITY button_clear "Limpar">
+<!ENTITY button_clear_data "Limpar dados">
 
 <!ENTITY abouthome_addons_title "Extras para o seu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Navegar em todos os extras do &brandShortName;">
@@ -227,12 +227,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Disponível atualização para o &brandShortName;">
 <!ENTITY updater_start_select "Selecione para transferir atualização.">
 
 <!ENTITY updater_downloading_title "A transferir &brandShortName;">
-<!ENTITY updater_downloading_title_failed "A transferência falhou">
+<!ENTITY updater_downloading_ticker "A transferir atualização para o &brandShortName;">
+<!ENTITY updater_downloading_ticker_failed "A transferência da atualização do &brandShortName; falhou">
 <!ENTITY updater_downloading_select "Toque para aplicar a atualização após transferência">
 <!ENTITY updater_downloading_retry "Toque para voltar a tentar">
+<!ENTITY updater_downloading_willapply "A aguardar que a transferência termine.">
 
-<!ENTITY updater_apply_title "Atualização disponível para o &brandShortName;">
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_apply_select "Toque para atualizar.">
