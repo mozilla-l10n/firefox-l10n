@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Mouse Wheel">
@@ -6,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Deslocamento vertical">
-<!ENTITY mousewheelHorizGroup.label      "Deslocamento horizontal">
-<!ENTITY scroll.label                    "Deslocar o documento por ">
-<!ENTITY scroll.accesskey                "s">
-<!ENTITY scrollHoriz.accesskey           "c">
-<!ENTITY scrollLines.label               "linhas">
-<!ENTITY scrollChars.label               "caracteres">
-<!ENTITY useSystemDefault.label          "Usar pré-definição do sistema">
-<!ENTITY useSystemDefault.accesskey      "U">
-<!ENTITY useSystemDefaultHoriz.accesskey "d">
-<!ENTITY scrollPgUpPgDn.label            "Deslocar uma página para cima ou para baixo">
-<!ENTITY scrollPgUpPgDn.accesskey        "p">
-<!ENTITY scrollPgLtPgRt.label            "Deslocar uma página para a direita ou esquerda">
-<!ENTITY scrollPgLtPgRt.accesskey        "r">
-<!ENTITY history.label                   "Avançar ou retroceder no histórico de navegação">
-<!ENTITY history.accesskey               "A">
-<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY mouseWheelAction.label          "Ação da roda do rato">
+<!ENTITY doNothing.label                 "Não fazer nada">
+<!ENTITY doNothing.accesskey             "N">
+<!ENTITY scrollDocument.label            "Deslocar documento">
+<!ENTITY scrollDocument.accesskey        "s">
+<!ENTITY history.label                   "Mover para trás e para a frente o histórico de navegação">
+<!ENTITY history.accesskey               "M">
 <!ENTITY zoom.label                      "Aumentar ou diminuir a página">
 <!ENTITY zoom.accesskey                  "u">
-<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY mouseWheelSpeed.label           "Velocidade da roda do rato">
+<!ENTITY verticalSpeed.label             "Vertical:">
+<!ENTITY verticalSpeed.accesskey         "V">
+<!ENTITY verticalReverse.label           "Direção inversa">
+<!ENTITY verticalReverse.accesskey       "r">
+<!ENTITY horizontalSpeed.label           "Horizontal:">
+<!ENTITY horizontalSpeed.accesskey       "o">
+<!ENTITY horizontalReverse.label         "Direção inversa">
+<!ENTITY horizontalReverse.accesskey     "e">
