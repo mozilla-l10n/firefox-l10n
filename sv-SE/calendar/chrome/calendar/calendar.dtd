@@ -69,18 +69,31 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "händelser denna kalendermånad">
 
 <!ENTITY calendar.unifinder.tree.done.label          "Färdig">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Klicka för att sortera på slutförda">
 <!ENTITY calendar.unifinder.tree.priority.label      "Prioritet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klicka för att sortera på prioritet">
 <!ENTITY calendar.unifinder.tree.title.label         "Titel">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Klicka för att sortera på titel">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Färdigt">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klicka för att sortera på &#37; färdig">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Start">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klicka för att sortera på startdatum">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Slut">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klicka för att sortera på slutdatum">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Förfallodag">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klicka för att sortera på förfallodag">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Slutförd">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klicka för att sortera på slutförda">
 <!ENTITY calendar.unifinder.tree.categories.label    "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klicka för att sortera på kategori">
 <!ENTITY calendar.unifinder.tree.location.label      "Plats">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Klicka för att sortera på plats">
 <!ENTITY calendar.unifinder.tree.status.label        "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Klicka för att sortera på plats">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Kalender namn">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klicka för att sortera på kalendernamn">
 <!ENTITY calendar.unifinder.tree.duration.label      "Förfaller inom">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klicka för att sortera på förfaller inom">
 <!ENTITY calendar.unifinder.close.tooltip            "Stäng händelsesökning och händelselista ">
 
 <!ENTITY calendar.today.button.tooltip          "Gå till idag" >
