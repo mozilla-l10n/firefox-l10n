@@ -647,21 +647,14 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Sosyal Araç Çubuğu Düğmesi">
 <!ENTITY social.notLoggedIn.label   "Oturum açılmadı">
 
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "Tamam">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.sharePopup.undo.label     "Paylaşımdan vazgeç">
-<!ENTITY social.sharePopup.undo.accesskey "v">
-<!ENTITY social.sharePopup.shared.label   "Bu sayfayı paylaştınız.">
-<!ENTITY social.sharePopup.portrait.arialabel "Kullanıcı profil resmi">
+<!ENTITY social.ok.accesskey   "T">
 
 <!ENTITY social.toggleSidebar.label "Kenar çubuğunu göster">
 <!ENTITY social.toggleSidebar.accesskey "g">
+
+<!ENTITY social.toggleNotifications.label "Masaüstü bildirimlerini göster">
+<!ENTITY social.toggleNotifications.accesskey "b">
 
 <!ENTITY social.activated.undobutton.label "Geri al ">
 <!ENTITY social.activated.undobutton.accesskey "U">
