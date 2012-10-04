@@ -9,7 +9,8 @@
 <!ENTITY clearDataSettings2.label     "Kada ugasim &brandShortName;, automatski će obrisati:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
-
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Vremeski opseg za čišćenje: ">
 <!ENTITY clearTimeDuration.accesskey      "o">
 <!ENTITY clearTimeDuration.lastHour       "zadnji sat">
@@ -17,39 +18,32 @@
 <!ENTITY clearTimeDuration.last4Hours     "zadnja četiri sata">
 <!ENTITY clearTimeDuration.today          "danas">
 <!ENTITY clearTimeDuration.everything     "sve">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
 <!ENTITY clearTimeDuration.dateColumn     "Datum posjete">
 <!ENTITY clearTimeDuration.nameColumn     "Naziv">
 
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalji">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Povijest">
 <!ENTITY dataSection.label            "Podaci">
 
-<!ENTITY itemHistoryAndDownloads.label     "Povijest pretraživanja i preuzimanja">
-<!ENTITY itemHistoryAndDownloads.accesskey "p">
-<!ENTITY itemBrowsingHistory.label         "Povijest pretraživanja">
-<!ENTITY itemBrowsingHistory.accesskey     "p">
-<!ENTITY itemFormSearchHistory.label       "Povijest formi i traženja">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label          "Spremljene lozinke">
-<!ENTITY itemPasswords.accesskey      "P">
-<!ENTITY itemCookies.label            "Kolačići">
-<!ENTITY itemCookies.accesskey        "K">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemCookies.label                 "Kolačići">
+<!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Međuspremnik">
 <!ENTITY itemCache.accesskey               "s">
-<!ENTITY itemOfflineApps.label        "Podaci izvanmreženih stranica">
-<!ENTITY itemOfflineApps.accesskey    "n">
-<!ENTITY itemDownloadHistory.label         "Povijest preuzimanja">
-<!ENTITY itemDownloadHistory.accesskey     "p">
-<!ENTITY itemActiveLogins.label       "Aktivne prijave">
-<!ENTITY itemActiveLogins.accesskey   "A">
-<!ENTITY itemSitePreferences.label         "Postavke stranice">
-<!ENTITY itemSitePreferences.accesskey     "s">
 
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Ovaj se potez neće moći poništiti.">
 
 <!ENTITY dialog.width                 "32em">
