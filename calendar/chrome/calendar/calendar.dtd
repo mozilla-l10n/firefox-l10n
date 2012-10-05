@@ -167,7 +167,7 @@
 <!ENTITY calendar.context.newtodo.accesskey           "k">
 <!ENTITY calendar.context.deletetask.label            "刪除工作">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
-<!ENTITY calendar.context.deleteevent.label           "刪除選取的事件">
+<!ENTITY calendar.context.deleteevent.label           "刪除事件">
 <!ENTITY calendar.context.deleteevent.accesskey       "l">
 <!ENTITY calendar.context.cutevent.label              "剪下">
 <!ENTITY calendar.context.cutevent.accesskey          "t">

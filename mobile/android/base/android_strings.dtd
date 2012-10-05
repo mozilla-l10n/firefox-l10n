@@ -230,18 +230,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "程式">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "有 &brandShortName; 更新可安裝&#8230;">
-<!ENTITY updater_start_select "選擇此處下載更新。">
+<!ENTITY updater_start_title "有可用的 &brandShortName; 更新">
+<!ENTITY updater_start_select "點選此處下載">
 
 <!ENTITY updater_downloading_title "正在下載 &brandShortName;">
-<!ENTITY updater_downloading_ticker "正在下載 &brandShortName; 更新&#8230;">
-<!ENTITY updater_downloading_ticker_failed "&brandShortName; 更新檔下載失敗&#8230;">
-<!ENTITY updater_downloading_select "選擇此處在下載完成後套用更新。">
-<!ENTITY updater_downloading_retry "選擇此處以重試更新。">
-<!ENTITY updater_downloading_willapply "正在等待下載完成。">
+<!ENTITY updater_downloading_title_failed "下載失敗">
+<!ENTITY updater_downloading_select "點選此處在下載完成後套用更新">
+<!ENTITY updater_downloading_retry "點選此處以重試">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "有 &brandShortName; 更新可安裝&#8230;">
-<!ENTITY updater_apply_select "選擇此處套用已下載的更新檔。">
+<!ENTITY updater_apply_title "有可用的 &brandShortName; 更新">
+<!ENTITY updater_apply_select "選擇此處套用">
 
