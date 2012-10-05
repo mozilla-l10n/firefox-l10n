@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "外掛程式尋找服務">
 <!ENTITY pluginWizard.firstPage.title                        "歡迎使用 &pluginWizard.title;">
 
@@ -33,8 +36,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "點此處啟用外掛程式。">
 <!ENTITY clickToPlayPlugin                                   "點此處啟用外掛程式。">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "點此處啟用有安全性風險的外掛程式。">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "點此處啟用有安全性風險的外掛程式 （無可用更新）。">
 <!ENTITY checkForUpdates                                     "檢查更新…">
 <!ENTITY disabledPlugin                                      "此外掛程式已停用。">
 <!ENTITY blockedPlugin.label                                 "已阻擋此外掛以保護您的電腦。">
