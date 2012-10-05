@@ -7,8 +7,8 @@
 <!ENTITY importAll.accesskey      "с">
 <!ENTITY importMail.label         "Пошту">
 <!ENTITY importMail.accesskey     "П">
-<!ENTITY importFeeds.label        "Feed Subscriptions">
-<!ENTITY importFeeds.accesskey    "d">
+<!ENTITY importFeeds.label        "Підписання на подачі">
+<!ENTITY importFeeds.accesskey    "і">
 <!ENTITY importAddressbook.label  "Адресні книжки">
 <!ENTITY importAddressbook.accesskey "А">
 <!ENTITY importSettings.label     "Параметри">
@@ -26,10 +26,10 @@
 <!ENTITY importDescription2.label "Імпортована одного разу, ця інформація буде доступна для вас з поштового клієнта &brandShortName; і/або адресної книги.">
 
 <!ENTITY selectDescription.label  "Виберіть програму, з якої хочете провести імпортування:">
-<!ENTITY selectDescriptionB.label "Please select an existing account or create a new account:">
+<!ENTITY selectDescriptionB.label "Виберіть наявний обліковий запис або створіть новий:">
 <!ENTITY selectDescription.accesskey "В">
-<!ENTITY acctName.label           "Name:">
-<!ENTITY acctName.accesskey       "N">
+<!ENTITY acctName.label           "Назва:">
+<!ENTITY acctName.accesskey       "Н">
 
 <!ENTITY back.label               "&lt; Назад">
 <!ENTITY forward.label            "Далі &gt;">

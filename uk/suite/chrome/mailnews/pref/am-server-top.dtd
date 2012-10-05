@@ -4,7 +4,7 @@
 
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY messageStorage.label "Message Storage">
+<!ENTITY messageStorage.label "Сховище листів">
 <!ENTITY securitySettings.label "Параметри безпеки">
 <!ENTITY serverSettings.label "Параметри сервера">
 <!ENTITY serverType.label "Тип сервера:">
@@ -82,5 +82,5 @@
 <!ENTITY browseNewsrc.label "Огляд…">
 <!ENTITY browseNewsrc.accesskey "О">
 
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountSettingsDesc.label "The following is a special account. There are no identities associated with it.">
+<!ENTITY accountTitle.label "Параметри облікового запису">
+<!ENTITY accountSettingsDesc.label "Це — особливий обліковий запис. Немає тотожностей пов'язаних з ним.">

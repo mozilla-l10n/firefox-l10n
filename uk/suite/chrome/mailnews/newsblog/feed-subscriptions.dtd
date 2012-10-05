@@ -9,18 +9,18 @@
 <!ENTITY feedTitle.label             "Заголовок:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Feed URL:">
-<!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+<!ENTITY feedLocation.label          "URL подачі:">
+<!ENTITY feedLocation.accesskey      "п">
+<!ENTITY feedLocation.placeholder    "Введіть правильне посилання, щоб додати подачу">
 
-<!ENTITY feedFolder.label            "Store Articles in:">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.label            "Зберігати статті в:">
+<!ENTITY feedFolder.accesskey        "З">
 
-<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
+<!ENTITY quickMode.label             "Показати підсумок статтей замість завантаження сторінки">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY locationValidate.label      "Validate">
-<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+<!ENTITY locationValidate.label      "Завірити">
+<!ENTITY validateText.label          "Перевірити правильність і одержати правильне посилання.">
 
 <!ENTITY button.addFeed.label        "Додати">
 <!ENTITY button.addFeed.accesskey    "Д">
@@ -32,6 +32,6 @@
 <!ENTITY button.importOPML.accesskey "І">
 <!ENTITY button.exportOPML.label     "Експортувати">
 <!ENTITY button.exportOPML.accesskey "Е">
-<!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
+<!ENTITY button.exportOPML.tooltip   "Експортувати подачі зі структурою тек; натисніть ctrl або ctrl і enter, щоб експорувати подачі як список">
 
-<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY cmd.close.commandKey        "к">

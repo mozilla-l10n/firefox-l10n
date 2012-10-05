@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Параметри спаму">
-<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
+<!ENTITY trainingDescription.label "Коли ввімкнено, спочатку потрібно навчити &brandShortName; ідентифікувати спам через кнопку панелі інструментів спаму, щоб зазначати листи як спам або неспам. Потрібно ідентифікувати як і спам, так і неспам. Після цього &brandShortName; зможе автоматично зазначати спам.">
 <!ENTITY level.label "Увімкнути контроль спаму для цього облікового запису">
 <!ENTITY level.accesskey "У">
 
@@ -17,12 +17,12 @@
 <!ENTITY purge1.accesskey "д">
 <!ENTITY purge2.label "днів">
 
-<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
-<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY whitelistHeader.label "Не зазначати пошту як спам автоматично, якщо відправник є в: ">
+<!ENTITY whitelistHeader.accesskey "Н">
 
-<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
+<!ENTITY ispHeadersWarning.label "Коли ввімкнено, &brandShortName; автоматично вважатиме листи зазначеними як спам через зовнішній класифікатор.">
 <!ENTITY ispHeaders.label "Довіряти полям заголовків листів, встановлених: ">
 <!ENTITY ispHeaders.accesskey "Д">
 
-<!ENTITY junkClassification.label "Selection">
-<!ENTITY junkActions.label "Destination and Retention">
+<!ENTITY junkClassification.label "Відбір">
+<!ENTITY junkActions.label "Призначення та утримування">
