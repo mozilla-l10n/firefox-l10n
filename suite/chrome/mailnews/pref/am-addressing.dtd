@@ -32,3 +32,7 @@
 <!ENTITY includeSigOnReply.accesskey "n">
 <!ENTITY includeSigOnForward.label "Includi la firma nei messaggi inoltrati">
 <!ENTITY includeSigOnForward.accesskey "d">
+<!ENTITY globalComposingPrefs.label "Opzioni di composizione globali…">
+<!ENTITY globalComposingPrefs.accesskey "z">
+<!ENTITY globalAddressingPrefs.label "Opzioni di indirizzamento globali…">
+<!ENTITY globalAddressingPrefs.accesskey "n">
