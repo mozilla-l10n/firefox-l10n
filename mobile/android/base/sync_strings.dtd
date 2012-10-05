@@ -88,3 +88,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; einrichten'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; muss eingerichtet werden, um Tabs an andere Geräte zu senden.'>
 <!ENTITY sync.text.tab.sent.label 'Tab wurde gesendet'>
+<!ENTITY sync.text.tab.not.sent.label 'Beim Senden des Tabs trat ein Problem auf.'>
