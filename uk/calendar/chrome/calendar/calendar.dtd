@@ -303,12 +303,12 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Формат:">
 <!ENTITY calendarproperties.location.label                 "Місце:">
-<!ENTITY calendarproperties.refreshInterval.label          "Refresh Calendar:">
-<!ENTITY calendarproperties.refreshInterval.manual.label   "Manually">
+<!ENTITY calendarproperties.refreshInterval.label          "Оновлювати календар:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Вручну">
 <!ENTITY calendarproperties.name.label                     "Назва:">
 <!ENTITY calendarproperties.readonly.label                 "Тільки для читання">
 <!ENTITY calendarproperties.firealarms.label               "Показати сповіщення">
-<!ENTITY calendarproperties.cache2.label                   "Кеш">
+<!ENTITY calendarproperties.cache3.label                   "Робота поза мережею">
 <!ENTITY calendarproperties.enabled.label                  "Перемкнути цей календар на">
 <!ENTITY calendarproperties.forceDisabled.label            "Не знайдено постачальника для цього календаря. Іноді це може настати після вимикання або вилучення спеціальних додатків.">
 <!ENTITY calendarproperties.unsubscribe.label              "Відписатись">
