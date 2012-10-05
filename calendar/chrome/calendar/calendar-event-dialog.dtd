@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Налаштування">
 <!ENTITY  event.menu.options.accesskey                        "Н">
-<!ENTITY  event.menu.options.attachments.label                "Вкласти веб-сторінку…">
-<!ENTITY  event.menu.options.attachments.accesskey            "в">
 <!ENTITY  event.menu.options.attendees.label                  "Запросити учасників…">
 <!ENTITY  event.menu.options.attendees.accesskey              "З">
 <!ENTITY  event.menu.options.spellcheck.label                 "Перевірка орфографії…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Запросити учасників">
 <!ENTITY  event.toolbar.spellcheck.label                  "Перевірка орфографії">
 <!ENTITY  event.toolbar.privacy.label                     "Приватність">
-<!ENTITY  event.toolbar.attachments.label                 "Вкласти">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Назва:" >
@@ -180,6 +177,10 @@
 <!ENTITY event.description.accesskey                      "с">
 <!ENTITY event.attachments.label                          "Вкладення:" >
 <!ENTITY event.attachments.accesskey                      "л" >
+<!ENTITY event.attachments.menubutton.label               "Вкласти">
+<!ENTITY event.attachments.menubutton.accesskey           "В">
+<!ENTITY event.attachments.url.label                      "Вебсторінка…">
+<!ENTITY event.attachments.url.accesskey                  "В">
 <!ENTITY event.attachments.popup.remove.label             "Вилучити" >
 <!ENTITY event.attachments.popup.remove.accesskey         "т" >
 <!ENTITY event.attachments.popup.open.label               "Відкрити" >
@@ -328,10 +329,14 @@
 <!ENTITY event.attendee.role.optional           "Необов’язковий учасник">
 <!ENTITY event.attendee.role.chair              "Організатор">
 <!ENTITY event.attendee.role.nonparticipant     "Не є учасником">
+<!ENTITY event.attendee.usertype.individual     "Особа">
+<!ENTITY event.attendee.usertype.group          "Група">
+<!ENTITY event.attendee.usertype.resource       "Ресурс">
+<!ENTITY event.attendee.usertype.room           "Кімната">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Зазначте часовий пояс">
-<!ENTITY event.timezone.custom.label     "More Timezones…">
+<!ENTITY event.timezone.custom.label     "Інші часові пояси…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Загальне">
