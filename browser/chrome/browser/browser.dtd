@@ -461,7 +461,7 @@
 <!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
 <!ENTITY toggleAddonBarCmd.key "\">
 <!ENTITY markupButton.arialabel "Разметка">
-<!ENTITY markupButton.accesskey "а">
+<!ENTITY markupButton.accesskey "M">
 <!ENTITY socialToolbar.title "Кнопка социальной панели">
 <!ENTITY social.notLoggedIn.label "Не зашёл">
 <!ENTITY social.ok.label "OK">
