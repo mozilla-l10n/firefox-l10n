@@ -100,6 +100,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompomissa. Det blir bättre för dig och för webben.">
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
+<!ENTITY pref_show_product_announcements "Visa produktmeddelanden">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_import_android "Importera från Android">
