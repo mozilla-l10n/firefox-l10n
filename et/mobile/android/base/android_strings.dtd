@@ -156,10 +156,10 @@ size. -->
 <!ENTITY site_settings_clear             "Kustuta">
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
 
-<!ENTITY reading_list                    "Lugemise nimekiri">
-<!ENTITY reading_list_added              "Leht lisati lugemise nimekirja">
-<!ENTITY reading_list_removed            "Leht eemaldati lugemise nimekirjast">
-<!ENTITY reading_list_failed             "Lehe lugemise nimekirja lisamine ebaõnnestus">
+<!ENTITY reading_list                    "Lugemisnimekiri">
+<!ENTITY reading_list_added              "Leht lisati lugemisnimekirja">
+<!ENTITY reading_list_removed            "Leht eemaldati lugemisnimekirjast">
+<!ENTITY reading_list_failed             "Lehe lisamine lugemisnimekirja ebaõnnestus">
 <!ENTITY reader_mode                     "Lugemise režiim">
 
 <!ENTITY masterpassword_create_title     "Ülemparooli loomine">
@@ -171,7 +171,7 @@ size. -->
 <!ENTITY button_cancel                   "Loobu">
 <!ENTITY button_clear_data               "Kustuta andmed">
 
-<!ENTITY abouthome_addons_title          "Lisad sinu &brandShortName;ile">
+<!ENTITY abouthome_addons_title          "Sinu &brandShortName;i lisad">
 <!ENTITY abouthome_addons_browse         "Sirvi kõiki &brandShortName;i lisasid">
 <!ENTITY abouthome_last_tabs_title       "Kaardid eelmisest korrast">
 <!ENTITY abouthome_last_tabs_open        "Ava kõik kaardid eelmisest korrast">
@@ -233,9 +233,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title       "&brandShortName;i allalaadimine">
 <!ENTITY updater_downloading_ticker      "&brandShortName;i uuenduse allalaadimine&#8230;">
 <!ENTITY updater_downloading_ticker_failed "&brandShortName;i uuenduse allalaadimine ebaõnnestus&#8230;">
-<!ENTITY updater_downloading_select      "Vali, kui soovid, et uuendus rakendataks allalaadimise lõppemisel.">
+<!ENTITY updater_downloading_select      "Vali, kui soovid, et uuendus rakendataks pärast allalaadimist.">
 <!ENTITY updater_downloading_retry       "Vali, kui soovid uuenduse allalaadimist uuesti proovida.">
-<!ENTITY updater_downloading_willapply   "Oodatakse, et allalaadimine lõpeks.">
+<!ENTITY updater_downloading_willapply   "Oodatakse allalaadimise lõppemist.">
 
 <!ENTITY updater_apply_title             "&brandShortName;">
 <!ENTITY updater_apply_ticker            "&brandShortName;ile on saadaval uuendus&#8230;">
