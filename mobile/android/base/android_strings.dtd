@@ -100,6 +100,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. 作為非營利組織，我們站在您的立場進行創新，不向任何壓力妥協。您將能夠有更好的上網體驗，並讓網路有個更光明的未來。">
 
 <!ENTITY pref_use_master_password "使用主控密碼">
+<!ENTITY pref_show_product_announcements "顯示產品公告">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
