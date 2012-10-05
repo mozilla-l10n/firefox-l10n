@@ -65,7 +65,7 @@
 <!ENTITY folderQuotaUsage.label                 "Kasutamine:">
 <!ENTITY folderQuotaStatus.label                "Olek:">
 
-<!ENTITY numberOfMessages.label                 "Kirju:">
+<!ENTITY numberOfMessages.label                 "Kirjade arv:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "pole teada">
 <!ENTITY sizeOnDisk.label                        "Suurus kettal:">

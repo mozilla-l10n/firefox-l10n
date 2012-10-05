@@ -69,7 +69,7 @@
 <!ENTITY otherActionsPrint1.accesskey              "P">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label                    "Kirja avamisel kuvatakse manuseid koheselt">
+<!ENTITY startExpandedCmd.label                    "Kirja avamisel kuvatakse manused kohe">
 <!ENTITY startExpandedCmd.accesskey                "i">
 
 <!-- Attachment context menu items -->

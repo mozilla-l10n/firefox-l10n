@@ -25,13 +25,13 @@
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message             "Kas soovid oma rõõmu jagada ja anda meile 5-tärni hinnang Google Plays?">
+<!ENTITY happy.message             "Kas soovid oma rõõmu jagada ja anda meile 5 tärni hinnang Google Plays?">
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 <!ENTITY happy.finePrint           "See võtab vähem kui minuti ja annab hea tunde.">
 
-<!ENTITY happy.ratingLink          "Jah, mine Google Playsse">
+<!ENTITY happy.ratingLink          "Jah, lähen Google Playsse">
 <!ENTITY happy.maybeLater          "Võib-olla hiljem">
 <!ENTITY happy.noThanks            "Tänan, kuid ei soovi">
 
@@ -45,7 +45,7 @@
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Me töötame alati selle nimel, et teha &brandShortName; paremaks. Võid kindel olla, et päris inimesed loevad sinu tagasisidet ja teevad endast parima, et lahendada sinu probleem.">
+<!ENTITY sad.thanksMessageTop      "Me töötame alati selle nimel, et teha &brandShortName; paremaks. Võid kindel olla, et päris inimesed loevad sinu tagasisidet ja annavad endast parima, et lahendada sinu probleem.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
@@ -59,7 +59,7 @@
 <!ENTITY idea.placeholder          "Sisesta oma idee siia">
 <!ENTITY idea.thanksHeader         "Täname!">
 
-<!ENTITY idea.thanksMessageTop     "Me väärtustame aega, mille võtsid, et jagada meiega oma mõtteid. Me töötame alati selle nimel, et teha &brandShortName; paremaks ning kaastöö (nagu sinu mõtted) võib viia suurte asjadeni.">
+<!ENTITY idea.thanksMessageTop     "Me hindame kõrgelt aega, mille võtsid, et jagada meiega oma mõtteid. Me töötame alati selle nimel, et teha &brandShortName; paremaks ning kaastöö (nagu sinu mõtted) võib viia suurte asjadeni.">
 
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
