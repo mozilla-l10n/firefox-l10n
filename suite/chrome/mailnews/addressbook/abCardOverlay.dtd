@@ -31,8 +31,8 @@
 <!ENTITY PhoneticField2.label           "Вимова:">
 <!ENTITY DisplayName.label              "Показувати як:">
 <!ENTITY DisplayName.accesskey          "П">
-<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey    "A">
+<!ENTITY preferDisplayName.label        "Завжди віддавати перевагу показуванню імені над загаловком листа">
+<!ENTITY preferDisplayName.accesskey    "З">
 <!ENTITY NickName.label                 "Псевдонім:">
 <!ENTITY NickName.accesskey             "с">
 

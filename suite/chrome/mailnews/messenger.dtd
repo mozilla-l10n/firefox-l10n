@@ -116,8 +116,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "П">
 <!ENTITY showSearchToolbarCmd.label "Панель пошуку">
 <!ENTITY showSearchToolbarCmd.accesskey "ш">
-<!ENTITY showTabsToolbarCmd.label "Tabs Toolbar">
-<!ENTITY showTabsToolbarCmd.accesskey "T">
+<!ENTITY showTabsToolbarCmd.label "Панель вкладок">
+<!ENTITY showTabsToolbarCmd.accesskey "в">
 
 <!ENTITY messagePaneLayoutStyle.label "Компонування об'єктів">
 <!ENTITY messagePaneLayoutStyle.accesskey "Р">
@@ -541,6 +541,6 @@
 
 <!-- MDN Bar -->
 <!ENTITY mdnBarIgnoreButton.label "Зігнорувати запит">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Послати звістку про одержання">
-<!ENTITY mdnBarSendButton.accesskey "S">
+<!ENTITY mdnBarIgnoreButton.accesskey "З">
+<!ENTITY mdnBarSendButton.label "Заслати звістку про одержання">
+<!ENTITY mdnBarSendButton.accesskey "П">

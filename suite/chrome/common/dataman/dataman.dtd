@@ -64,7 +64,7 @@
 <!ENTITY perm.AskAlways "Завжди запитувати">
 <!ENTITY perm.NeverSave "Ніколи не зберігати">
 <!ENTITY perm.Allow "Дозволити">
-<!ENTITY perm.AllowSameDomain "Allow for Same Domain">
+<!ENTITY perm.AllowSameDomain "Дозволити для того ж домену">
 <!ENTITY perm.AllowSession "Дозволити на сеанс">
 <!ENTITY perm.Block "Заблокувати">
 

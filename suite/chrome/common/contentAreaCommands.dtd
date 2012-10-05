@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "П">
 <!ENTITY viewBGImageCmd.label         "Переглянути зображення тла">
 <!ENTITY viewBGImageCmd.accesskey     "П">
-<!ENTITY setDesktopBackgroundCmd.label     "Set Desktop Background…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "a">
+<!ENTITY setDesktopBackgroundCmd.label     "Встановити тло стільниці…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "т">
 <!ENTITY bookmarkPageCmd.label        "Закласти цю сторінку">
 <!ENTITY bookmarkPageCmd.accesskey    "З">
 <!ENTITY bookmarkLinkCmd.label        "Закласти це посилання">
@@ -121,8 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "Додати до словника">
 <!ENTITY spellAddToDictionary.accesskey "n">
-<!ENTITY spellUndoAddToDictionary.label      "Undo Add to Dictionary">
-<!ENTITY spellUndoAddToDictionary.accesskey  "i">
+<!ENTITY spellUndoAddToDictionary.label      "Вилучити зі словника">
+<!ENTITY spellUndoAddToDictionary.accesskey  "В">
 <!ENTITY spellIgnoreWord.label          "Пропустити слово">
 <!ENTITY spellIgnoreWord.accesskey      "П">
 <!ENTITY spellCheckEnable.label         "Перевіряти правопис">

@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY setDesktopBackground.title "Set Desktop Background">
+<!ENTITY setDesktopBackground.title "Вказати тло стільниці">
 
-<!ENTITY position.label             "Position:">
-<!ENTITY position.accesskey         "P">
-<!ENTITY position.tile.label        "Tile">
-<!ENTITY position.stretch.label     "Stretch">
-<!ENTITY position.center.label      "Center">
-<!ENTITY position.fill.label        "Fill">
-<!ENTITY position.fit.label         "Fit">
-<!ENTITY picker.label               "Color:">
-<!ENTITY picker.accesskey           "C">
-<!ENTITY preview.caption            "Preview">
-<!ENTITY apply.label                "Apply">
-<!ENTITY apply.accesskey            "A">
-<!ENTITY close.label                "Close">
+<!ENTITY position.label             "Позиція:">
+<!ENTITY position.accesskey         "П">
+<!ENTITY position.tile.label        "Мозаїчна">
+<!ENTITY position.stretch.label     "Розтягнута">
+<!ENTITY position.center.label      "Центрована">
+<!ENTITY position.fill.label        "Заповнена">
+<!ENTITY position.fit.label         "Допасована">
+<!ENTITY picker.label               "Колір:">
+<!ENTITY picker.accesskey           "К">
+<!ENTITY preview.caption            "Перегляд">
+<!ENTITY apply.label                "Застосувати">
+<!ENTITY apply.accesskey            "З">
+<!ENTITY close.label                "Закрити">

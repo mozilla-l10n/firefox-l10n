@@ -47,17 +47,17 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Панель адресної книги"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "а">  
-<!ENTITY layoutMenu.label                               "Layout">
-<!ENTITY layoutMenu.accesskey                           "L">
-<!ENTITY showDirectoryPane.label                        "Directory Pane">
-<!ENTITY showDirectoryPane.accesskey                    "D">
-<!ENTITY showContactPane2.label                         "Contact Pane">
-<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY layoutMenu.label                               "Компонування">
+<!ENTITY layoutMenu.accesskey                           "о">
+<!ENTITY showDirectoryPane.label                        "Панель каталогів">
+<!ENTITY showDirectoryPane.accesskey                    "т">
+<!ENTITY showContactPane2.label                         "Панель контактів">
+<!ENTITY showContactPane2.accesskey                     "к">
 <!ENTITY menu_ShowNameAs.label                          "Показувати ім'я як"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "П"> 
 <!ENTITY firstLastCmd.label                             "Ім'я, Прізвище">  
 <!ENTITY firstLastCmd.accesskey                         "І"> 
-<!ENTITY lastFirstCmd.label                             "Прізвище, Ім’я">  
+<!ENTITY lastFirstCmd.label                             "Прізвище, Ім'я">  
 <!ENTITY lastFirstCmd.accesskey                         "П"> 
 <!ENTITY displayNameCmd.label                           "Екранне ім'я">  
 <!ENTITY displayNameCmd.accesskey                       "Е"> 
@@ -100,17 +100,17 @@
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contact">
-<!ENTITY home.heading                                   "Home">
-<!ENTITY other.heading                                  "Other">
-<!ENTITY phone.heading                                  "Phone">
-<!ENTITY work.heading                                   "Work">
+<!ENTITY contact.heading                                "Контакт">
+<!ENTITY home.heading                                   "Домашній">
+<!ENTITY other.heading                                  "Інший">
+<!ENTITY phone.heading                                  "Мобільний">
+<!ENTITY work.heading                                   "Робочий">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Description">
-<!ENTITY addresses.heading                              "Addresses">
+<!ENTITY description.heading                            "Опис">
+<!ENTITY addresses.heading                              "Адреси">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Get Map">
-<!ENTITY mapIt.tooltip                                  "Display a map of this address from the Web">
+<!ENTITY mapItButton.label                              "Карта">
+<!ENTITY mapIt.tooltip                                  "Показати карту за цією адресою в інтернеті">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
