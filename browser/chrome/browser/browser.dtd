@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Pechar o inspector">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Pechar a barra lateral">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Pechar a barra de desenvolvemento">
 <!ENTITY devToolbarMenu.label              "Barra de desenvolvemento">
@@ -447,7 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "G">
 <!ENTITY saveVideoCmd.label           "Gardar vídeo como…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Gardar audio como…">
+<!ENTITY saveAudioCmd.label           "Gardar son como…">
 <!ENTITY saveAudioCmd.accesskey       "a">
 <!ENTITY emailImageCmd.label          "Enviar a imaxe por correo…">
 <!ENTITY emailImageCmd.accesskey      "a">
