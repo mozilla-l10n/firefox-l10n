@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Debugger strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
 
@@ -9,39 +13,27 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label2          "Depurador">
+<!ENTITY debuggerMenu.label2            "Depurador">
 
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
-<!ENTITY remoteDebuggerMenu.label    "Depurador remoto">
+<!ENTITY remoteDebuggerMenu.label       "Depurador remoto">
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
-<!ENTITY chromeDebuggerMenu.label    "Depurador do navegador">
+<!ENTITY chromeDebuggerMenu.label       "Depurador do navegador">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
-<!ENTITY debuggerMenu.commandkey     "s">
+<!ENTITY debuggerMenu.commandkey        "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip        "Pechar">
+<!ENTITY debuggerUI.closeButton.tooltip "Pechar">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions          "Pausar nas excepcións">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
-  -  the button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Paso por encima">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
-  -  button that steps into a function call. -->
-<!ENTITY debuggerUI.stepInButton.tooltip     "Paso para entrar">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
-  -  button that steps out of a function call. -->
-<!ENTITY debuggerUI.stepOutButton.tooltip    "Paso para saír">
+<!ENTITY debuggerUI.pauseExceptions     "Pausar nas excepcións">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
@@ -57,9 +49,9 @@
   -  debugger. -->
 <!ENTITY debuggerUI.propertiesTitle  "Variábeis do entorno">
 
-<!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
-  -  appears in the filter text box when it is empty. -->
-<!ENTITY debuggerUI.emptyFilterText  "Filtrar scripts">
+<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
+  -  appears in the filter panel popup as a description. -->
+<!ENTITY debuggerUI.searchPanelTitle    "Operadores">
 
 <!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
   - there are no scripts. -->
