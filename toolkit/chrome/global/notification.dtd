@@ -5,3 +5,5 @@
 <!ENTITY closeNotification.tooltip "Pechar esta mensaxe">
 
 <!ENTITY closeNotificationItem.label "Agora non">
+
+<!ENTITY checkForUpdates "Buscar actualización…">
