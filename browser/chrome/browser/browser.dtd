@@ -646,22 +646,14 @@ toolbar button -->
 <!ENTITY socialToolbar.title             "Buttun da la trav d'utensils sociala">
 <!ENTITY social.notLoggedIn.label        "Betg annunzià">
 
-
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Annullar la cundivisiun">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.shared.label   "Ti has cundividì questa pagina.">
-<!ENTITY social.sharePopup.portrait.arialabel "Maletg da profil da l'utilisader">
-
 <!ENTITY social.toggleSidebar.label "Mussar la trav laterala">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Mussar avertiments sin il desktop">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Revocar">
 <!ENTITY social.activated.undobutton.accesskey "U">    
