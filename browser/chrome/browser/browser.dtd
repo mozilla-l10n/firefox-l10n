@@ -655,13 +655,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Stopje mei dielen">
-<!ENTITY social.sharePopup.undo.accesskey "S">
-<!ENTITY social.sharePopup.shared.label   "Jo hawwwe dizze side dield.">
-<!ENTITY social.sharePopup.portrait.arialabel "Brûkersprofyl ôfbylding">
-
 <!ENTITY social.toggleSidebar.label "Sidebalke toane">
 <!ENTITY social.toggleSidebar.accesskey "S">
+
+<!ENTITY social.toggleNotifications.label "Toan desktop notifikaasjes">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Ungedien meitsje">
 <!ENTITY social.activated.undobutton.accesskey "U">
