@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
@@ -32,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Abrir ficheiros recentes">
 <!ENTITY openRecentMenu.accesskey     "r">
 
+<!ENTITY revertCmd.label              "Reverter…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "Gardar">
 <!ENTITY saveFileCmd.accesskey        "G">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -54,7 +61,7 @@
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Mostrar">
+<!ENTITY display.label                "Amosar">
 <!ENTITY display.accesskey            "M">
 <!ENTITY display.key                  "l">
 
