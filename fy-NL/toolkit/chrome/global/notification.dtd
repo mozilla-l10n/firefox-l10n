@@ -5,3 +5,5 @@
 <!ENTITY closeNotification.tooltip "Dit berjocht slute"> 
 
 <!ENTITY closeNotificationItem.label "No net">
+
+<!ENTITY checkForUpdates "Kontrolearje op fernijings…">
