@@ -132,7 +132,7 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Vaba">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "V">
 
-<!ENTITY event.invite.attendees.label                     "Kutsu osalejad…">
+<!ENTITY event.invite.attendees.label                     "Kutsu osalejaid…">
 <!ENTITY event.invite.attendees.accesskey                 "o">
 <!ENTITY event.email.attendees.label                      "Koosta kiri kõigile osalejatele…">
 <!ENTITY event.email.attendees.accesskey                  "k">
@@ -142,7 +142,7 @@
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Salvesta ja sulge">
 <!ENTITY  event.toolbar.delete.label                      "Kustuta">
-<!ENTITY  event.toolbar.attendees.label                   "Kutsu osalejad">
+<!ENTITY  event.toolbar.attendees.label                   "Kutsu osalejaid">
 <!ENTITY  event.toolbar.spellcheck.label                  "Õigekirjakontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Privaatsus">
 
