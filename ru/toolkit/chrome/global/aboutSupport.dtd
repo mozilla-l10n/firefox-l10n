@@ -37,6 +37,3 @@
 <!ENTITY aboutSupport.updateHistoryTitle "Журнал обновлений">
 <!ENTITY aboutSupport.copyTextToClipboard.label "Копировать текст в буфер обмена">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копировать необработанные данные в буфер обмена">
-<!ENTITY aboutSupport.syncPrefsName "Имя">
-<!ENTITY aboutSupport.syncPrefsValue "Значение">
-<!ENTITY aboutSupport.syncNotSupported "Служба не включена">
