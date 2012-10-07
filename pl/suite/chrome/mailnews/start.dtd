@@ -12,7 +12,7 @@
 <!ENTITY feat_filters.label "Filtrowanie wiadomości">
 <!ENTITY feat_htmlmsg.label "Obsługa wiadomości w formacie HTML ">
 <!ENTITY feat_abook.label "Książka adresowa">
-<!ENTITY feat_labels.label "Łatwe do dostosowania etykiety dla wiadomości oraz ustawienia okna poczty">
+<!ENTITY feat_tags.label "Łatwe do dostosowania etykiety dla wiadomości oraz ustawienia okna poczty">
 <!ENTITY feat_integration.label "Ściśle zintegrowany z &brandShortName;">
 <!ENTITY dict.title "Słowniki">
 <!ENTITY dict_intro.label "Słowniki są używane do sprawdzania poprawności pisowni.">
