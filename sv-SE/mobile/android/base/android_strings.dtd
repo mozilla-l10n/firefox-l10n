@@ -230,6 +230,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webapp_generic_name "App">
 
+<!ENTITY searchable_description "Bokmärken och historik">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_start_select "Tryck för att hämta">
