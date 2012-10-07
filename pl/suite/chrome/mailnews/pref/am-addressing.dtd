@@ -16,7 +16,7 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Użyj innego serwera LDAP:">
-<!ENTITY directories.accesskey "d">
+<!ENTITY directories.accesskey "L">
 <!ENTITY directoriesNone.label "brak">
 
 <!-- am-addressing.xul -->
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey "s">
 <!ENTITY includeSigOnForward.label "Dołączaj sygnaturkę przy przekazywaniu">
 <!ENTITY includeSigOnForward.accesskey "p">
+
+<!ENTITY globalComposingPrefs.label "Globalne preferencje tworzenia wiadomości…">
+<!ENTITY globalComposingPrefs.accesskey "w">
+
+<!ENTITY globalAddressingPrefs.label "Globalne preferencje adresowania…">
+<!ENTITY globalAddressingPrefs.accesskey "G">
