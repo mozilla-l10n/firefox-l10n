@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Información para solucionar problemas">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
@@ -53,4 +57,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizacións">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copiar todo ao portapapeis">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiar texto ao portapapeis">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo ao portapapeis">
