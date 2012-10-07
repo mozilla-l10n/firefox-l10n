@@ -80,7 +80,7 @@
 <!ENTITY pref_plugins_tap_to_play "Toucher pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivé">
 <!ENTITY pref_text_size "Taille du texte">
-<!ENTITY pref_reflow_on_zoom "Réarranger en zoomant">
+<!ENTITY pref_reflow_on_zoom "Adapter en zoomant">
 <!ENTITY pref_font_size_tiny "Très petite">
 <!ENTITY pref_font_size_small "Petite">
 <!ENTITY pref_font_size_medium "Moyenne">
