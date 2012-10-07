@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Web Site Navigation Bar">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "Web Site Navigation Bar">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Show Always">
