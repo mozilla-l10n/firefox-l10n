@@ -57,7 +57,7 @@
 <!ENTITY switch-to-provisioner.label     "Obtenir un nouveau compte">
 <!ENTITY switch-to-provisioner.accesskey "O">
 
-<!ENTITY warning.label                   "Attention !">
+<!ENTITY warning.label                   "Attention !">
 <!ENTITY incomingSettings.label          "Paramètres du courrier entrant :">
 <!ENTITY outgoingSettings.label          "Paramètres du courrier sortant :">
 <!ENTITY technicaldetails.label          "Détails techniques">
@@ -80,9 +80,9 @@
 
 <!ENTITY contactYourProvider.description "&brandShortName; vous laissera accéder à vos courriels en utilisant les configurations fournies. Cependant, vous devriez vraiment contacter votre administrateur ou votre fournisseur de messagerie concernant ces connexions incorrectes. Consultez la FAQ de &brandShortName; pour plus d'informations.">
 
-<!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
+<!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
 <!ENTITY insecureServer.tooltip.details  "Cliquez sur le cercle pour plus de détails.">
 
 <!ENTITY insecureUnencrypted.description   "Votre courriel et vos identifiants sont envoyés sans chiffrement. Par conséquent, votre mot de passe (et votre message) peuvent facilement être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
 <!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
-<!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
+<!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">

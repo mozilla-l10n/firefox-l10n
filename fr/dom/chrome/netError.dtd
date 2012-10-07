@@ -185,7 +185,7 @@ refusé la connexion.</p>
   peut-être temporaire et vous pouvez essayer à nouveau plus tard.</li>
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspicion de site malveillant !">
+<!ENTITY malwareBlocked.title "Suspicion de site malveillant !">
 <!ENTITY malwareBlocked.longDesc "
 <p>Les sites malveillants tentent d'installer des programmes qui volent les
 informations personnelles, qui utilisent votre ordinateur pour en attaquer
@@ -195,7 +195,7 @@ tort comme malveillant peuvent <a href='http://www.stopbadware.org/home/reviewin
 une révision</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspicion de site contrefait !">
+<!ENTITY phishingBlocked.title "Suspicion de site contrefait !">
 <!ENTITY phishingBlocked.longDesc "
 <p>Saisir des informations personnelles sur cette page peut aboutir à un vol
 d'identité ou à une autre fraude.</p>
