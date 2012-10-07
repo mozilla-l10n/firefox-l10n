@@ -654,13 +654,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Zrušiť zdieľanie">
-<!ENTITY social.sharePopup.undo.accesskey "Z">
-<!ENTITY social.sharePopup.shared.label   "Zdieľate túto stránku.">
-<!ENTITY social.sharePopup.portrait.arialabel "Obrázok používateľského profilu">
-
 <!ENTITY social.toggleSidebar.label "Zobraziť bočný panel">
 <!ENTITY social.toggleSidebar.accesskey "b">
+
+<!ENTITY social.toggleNotifications.label "Zobrazovať upozornenia">
+<!ENTITY social.toggleNotifications.accesskey "r">
 
 <!ENTITY social.activated.undobutton.label "Vrátiť späť">
 <!ENTITY social.activated.undobutton.accesskey "V">
