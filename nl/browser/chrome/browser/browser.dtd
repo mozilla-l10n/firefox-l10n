@@ -653,5 +653,8 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Zijbalk tonen">
 <!ENTITY social.toggleSidebar.accesskey "Z">
 
+<!ENTITY social.toggleNotifications.label "Desktopnotificaties tonen">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
 <!ENTITY social.activated.undobutton.label "Ongedaan maken">
 <!ENTITY social.activated.undobutton.accesskey "O">
