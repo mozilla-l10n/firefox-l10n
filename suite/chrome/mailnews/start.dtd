@@ -13,7 +13,7 @@ abierto, que incluye detección avanzada de correo basura y otras útiles caract
 <!ENTITY feat_filters.label "Filtros de mensajes">
 <!ENTITY feat_htmlmsg.label "Soporte de mensajes HTML">
 <!ENTITY feat_abook.label "Libreta de direcciones">
-<!ENTITY feat_labels.label "Etiquetas y vistas de correo personalizables">
+<!ENTITY feat_tags.label "Etiquetas y vistas de correo personalizables">
 <!ENTITY feat_integration.label "Fuerte integración con la suite de aplicaciones &brandShortName;">
 <!ENTITY dict.title "Diccionarios">
 <!ENTITY dict_intro.label "Los diccionarios se usan para comprobar la ortografía de sus mensajes.">
