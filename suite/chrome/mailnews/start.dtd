@@ -15,7 +15,7 @@
 <!ENTITY feat_filters.label "郵件篩選條件">
 <!ENTITY feat_htmlmsg.label "支援 HTML 訊息">
 <!ENTITY feat_abook.label "通訊錄">
-<!ENTITY feat_labels.label "可自訂的標籤與郵件檢視模式">
+<!ENTITY feat_tags.label "可自訂的標籤與郵件檢視模式">
 <!ENTITY feat_integration.label
 "緊密地整合了 &brandShortName; 套裝應用程式">
 <!ENTITY dict.title "字典">

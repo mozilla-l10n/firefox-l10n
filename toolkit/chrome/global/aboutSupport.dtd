@@ -61,7 +61,3 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "將文字複製到剪貼簿">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "將原始資料複製到剪貼簿">
 
-<!ENTITY aboutSupport.syncPrefsName "名稱">
-<!ENTITY aboutSupport.syncPrefsValue "值">
-<!ENTITY aboutSupport.syncNotSupported "未啟用服務">
-
