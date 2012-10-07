@@ -14,7 +14,7 @@
 <!ENTITY feat_filters.label "Filtres des messages">
 <!ENTITY feat_htmlmsg.label "Gestion des messages au format HTML">
 <!ENTITY feat_abook.label "Carnet d'adresses">
-<!ENTITY feat_labels.label "Personnalisation des étiquettes des messages et de l'affichage">
+<!ENTITY feat_tags.label "Personnalisation des étiquettes des messages et de l'affichage">
 <!ENTITY feat_integration.label "Étroite intégration à la suite applicative &brandShortName;">
 <!ENTITY dict.title "Dictionnaires">
 <!ENTITY dict_intro.label "Les dictionnaires sont utilisés pour vérifier l'orthographe de vos messages.">
