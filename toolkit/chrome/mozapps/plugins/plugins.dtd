@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pluginWizard.title "Servicio de búsqueda de plugins">
 <!ENTITY pluginWizard.firstPage.title "Bienvenido al &pluginWizard.title;">
 <!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; está comprobando ahora los plugins disponibles…">
@@ -19,8 +23,6 @@
 <!ENTITY missingPlugin "Se necesita un plugin para mostrar este contenido.">
 <!ENTITY tapToPlayPlugin "Toque aquí para activar el plugin.">
 <!ENTITY clickToPlayPlugin "Pulse aquí para activar el plugin.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable "Pulse aquí para activar el plugin vulnerable.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate "Pulse aquí para activar el plugin vulnerable (no hay actualizaciones disponibles).">
 <!ENTITY checkForUpdates "Buscar actualizaciones…">
 <!ENTITY disabledPlugin "Este plugin está desactivado.">
 <!ENTITY blockedPlugin.label "Se ha bloqueado este plugin para su protección.">
