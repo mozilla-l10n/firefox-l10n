@@ -656,13 +656,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "D'acord">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Deixa de compartir">
-<!ENTITY social.sharePopup.undo.accesskey "D">
-<!ENTITY social.sharePopup.shared.label   "Heu compartit la pàgina.">
-<!ENTITY social.sharePopup.portrait.arialabel "Fotografia del perfil d'usuari">
-
 <!ENTITY social.toggleSidebar.label "Mostra la barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Mostra les notificacions d\'escriptori">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Desfés">
 <!ENTITY social.activated.undobutton.accesskey "D">

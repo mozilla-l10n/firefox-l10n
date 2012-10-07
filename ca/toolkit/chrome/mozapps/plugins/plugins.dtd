@@ -33,8 +33,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Toqueu aquí per activar el connector.">
 <!ENTITY clickToPlayPlugin                                   "Toqueu aquí per activar el complement.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Feu clic aquí per activar el connector vulnerable.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Feu clic aquí per activar el connector vulnerable (no n'hi ha cap actualització)">
 <!ENTITY checkForUpdates                                     "Comprova si hi ha actualitzacions…">
 <!ENTITY disabledPlugin                                      "S'ha inhabilitat el connector.">
 <!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
