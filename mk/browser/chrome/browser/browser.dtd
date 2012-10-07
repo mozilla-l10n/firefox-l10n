@@ -648,11 +648,10 @@ toolbar button -->
 <!ENTITY emailVideoCmd.accesskey      "а">
 <!ENTITY emailVideoCmd.label          "Испрати видео…">
 <!ENTITY sharePageCmd.commandkey "д">
+<!ENTITY social.activated.undobutton.label "Врати">
 <!ENTITY social.activated.undobutton.accesskey "р">
 
-<!ENTITY social.activated.undobutton.label "Врати">
 <!ENTITY social.notLoggedIn.label   "Не сте пријавени">
-<!ENTITY social.ok.accesskey   "Н">
 
 <!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
      used for the "OK" button for two different social panels. One appears when
@@ -660,13 +659,11 @@ toolbar button -->
      the user clicks the "Share" button a second time (social.sharePopup.*
      below). -->
 <!ENTITY social.ok.label       "Во ред">
-<!ENTITY social.sharePopup.portrait.arialabel "Слика за корисничкиот профил">
-<!ENTITY social.sharePopup.shared.label   "Вие ја споделивте оваа страница.">
-<!ENTITY social.sharePopup.undo.accesskey "О">
-
-<!ENTITY social.sharePopup.undo.label     "Одсподели">
-<!ENTITY social.toggleSidebar.accesskey "с">
-
-<!ENTITY social.toggleSidebar.label "Покажи странична лента">
+<!ENTITY social.ok.accesskey   "В">
 
 <!ENTITY socialToolbar.title        "Друштвен алатник">
+<!ENTITY social.toggleSidebar.label "Покажи странична лента">
+<!ENTITY social.toggleSidebar.accesskey "с">
+
+<!ENTITY social.toggleNotifications.label "Прикажувај десктоп нотификации">
+<!ENTITY social.toggleNotifications.accesskey "н">
