@@ -57,11 +57,12 @@
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key "&lt;">
+<!ENTITY decreaseFontSize.key2 ",">
 <!ENTITY increaseFontSize.label "Más grande">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key "&gt;">
+<!ENTITY increaseFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Tamaño">
 <!ENTITY fontSizeMenu.accesskey "T">
 <!ENTITY size-xx-smallCmd.label "Extrapequeño">

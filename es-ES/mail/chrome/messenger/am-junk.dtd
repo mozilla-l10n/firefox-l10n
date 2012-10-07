@@ -22,3 +22,5 @@
 <!ENTITY ispHeaders.accesskey "C">
 <!ENTITY junkClassification.label "Selección">
 <!ENTITY junkActions.label "Destino y retención">
+<!ENTITY globalJunkPrefs.label "Preferencias generales de correo basura…">
+<!ENTITY globalJunkPrefs.accesskey "P">

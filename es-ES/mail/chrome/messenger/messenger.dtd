@@ -233,23 +233,6 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "o">
 <!ENTITY viewAttachmentsInlineCmd.label "Ver adjuntos incorporados">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-<!ENTITY fullZoomEnlargeCmd.label "Acercar">
-<!ENTITY fullZoomEnlargeCmd.accesskey "A">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Alejar">
-<!ENTITY fullZoomReduceCmd.accesskey "e">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Restablecer">
-<!ENTITY fullZoomResetCmd.accesskey "R">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Sólo ampliar texto">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "Tamaño">
-<!ENTITY fullZoom.accesskey "T">
 <!ENTITY pageSourceCmd.label "Formato original del mensaje">
 <!ENTITY pageSourceCmd.accesskey "F">
 <!ENTITY pageSourceCmd.key "u">
