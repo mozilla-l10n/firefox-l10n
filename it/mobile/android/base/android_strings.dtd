@@ -9,7 +9,6 @@
 <!ENTITY awesomebar_all_pages_title "Siti principali">
 <!ENTITY awesomebar_bookmarks_title "Segnalibri">
 <!ENTITY awesomebar_history_title "Cronologia">
-<!ENTITY awesomebar_search_engine "Cerca \&quot;&#037;s\&quot;">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
 <!ENTITY crash_message "Si è verificato un arresto anomalo di &brandShortName;. Un elenco delle schede aperte dovrebbe essere disponibile nella pagina iniziale di &brandShortName; dopo il riavvio.">
 <!ENTITY crash_help_message "Aiutaci a risolvere il problema!">
@@ -67,6 +66,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
+<!ENTITY pref_reflow_on_zoom "Attiva ricalcolo dopo zoom">
 <!ENTITY pref_font_size_tiny "Molto piccolo">
 <!ENTITY pref_font_size_small "Piccolo">
 <!ENTITY pref_font_size_medium "Medio">
@@ -76,6 +76,7 @@
 <!ENTITY pref_font_size_adjust_char "A">
 <!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
 <!ENTITY pref_use_master_password "Usa password principale">
+<!ENTITY pref_show_product_announcements "Visualizza annunci sul prodotto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
 <!ENTITY pref_import_android "Importa da Android">
@@ -132,6 +133,8 @@
 <!ENTITY masterpassword_confirm "Conferma password">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annulla">
+<!ENTITY button_yes "Sì">
+<!ENTITY button_no "No">
 <!ENTITY button_clear_data "Elimina dati">
 <!ENTITY button_set "Imposta">
 <!ENTITY button_clear "Cancella">
@@ -158,7 +161,9 @@
 <!ENTITY bookmarkhistory_import_bookmarks "Importazione segnalibri da Android">
 <!ENTITY bookmarkhistory_import_history "Importazione cronologia da Android">
 <!ENTITY bookmarkhistory_import_wait "Attendere…">
+<!ENTITY suggestions_prompt "Attivare i suggerimenti di ricerca per &#037;s?">
 <!ENTITY webapp_generic_name "App">
+<!ENTITY searchable_description "Segnalibri e cronologia">
 <!ENTITY updater_start_title "Aggiornamento disponibile per &brandShortName;">
 <!ENTITY updater_start_select "Tocca per scaricare">
 <!ENTITY updater_downloading_title "Download di &brandShortName; in corso">
