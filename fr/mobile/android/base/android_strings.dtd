@@ -231,6 +231,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webapp_generic_name "application">
 
+<!ENTITY searchable_description "Marque-pages et historique">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title "Mise à jour disponible pour &brandShortName;">
 <!ENTITY updater_start_select "Toucher pour télécharger">
