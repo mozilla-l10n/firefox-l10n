@@ -647,18 +647,8 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Sociale-werkbalkknop">
 <!ENTITY social.notLoggedIn.label   "Niet aangemeld">
 
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.sharePopup.undo.label     "Stoppen met delen">
-<!ENTITY social.sharePopup.undo.accesskey "S">
-<!ENTITY social.sharePopup.shared.label   "U heeft deze pagina gedeeld.">
-<!ENTITY social.sharePopup.portrait.arialabel "Gebruikersprofiel afbeelding">
 
 <!ENTITY social.toggleSidebar.label "Zijbalk tonen">
 <!ENTITY social.toggleSidebar.accesskey "Z">
