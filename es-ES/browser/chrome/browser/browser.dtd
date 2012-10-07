@@ -338,7 +338,7 @@
 <!ENTITY saveAudioCmd.label "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey "a">
 <!ENTITY emailImageCmd.label "Enviar imagen…">
-<!ENTITY emailImageCmd.accesskey "g">
+<!ENTITY emailImageCmd.accesskey "a">
 <!ENTITY emailVideoCmd.label "Enviar vídeo…">
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY emailAudioCmd.label "Enviar audio…">
