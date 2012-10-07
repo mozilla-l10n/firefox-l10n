@@ -35,7 +35,7 @@
 <!ENTITY smiley9Cmd.tooltip "Insérer une émoticône Bisou">
 <!ENTITY smiley10Cmd.label "Horreur !">
 <!ENTITY smiley10Cmd.accesskey "H">
-<!ENTITY smiley10Cmd.tooltip "Insérer une émoticône Horreur !">
+<!ENTITY smiley10Cmd.tooltip "Insérer une émoticône Horreur !">
 <!ENTITY smiley11Cmd.label "Cool">
 <!ENTITY smiley11Cmd.accesskey "l">
 <!ENTITY smiley11Cmd.tooltip "Insérer une émoticône Cool">
@@ -44,7 +44,7 @@
 <!ENTITY smiley12Cmd.tooltip "Insérer une émoticône Censuré">
 <!ENTITY smiley13Cmd.label "Oups !">
 <!ENTITY smiley13Cmd.accesskey "O">
-<!ENTITY smiley13Cmd.tooltip "Insérer une émoticône Oups !">
+<!ENTITY smiley13Cmd.tooltip "Insérer une émoticône Oups !">
 <!ENTITY smiley14Cmd.label "Innocent">
 <!ENTITY smiley14Cmd.accesskey "I">
 <!ENTITY smiley14Cmd.tooltip "Insérer une émoticône Innocent">
