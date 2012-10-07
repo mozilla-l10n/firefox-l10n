@@ -36,6 +36,3 @@
 <!ENTITY aboutSupport.updateHistoryTitle "Aggiorna cronologia">
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copia testo negli appunti">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copia dati non elaborati negli appunti">
-<!ENTITY aboutSupport.syncPrefsName "Nome">
-<!ENTITY aboutSupport.syncPrefsValue "Valore">
-<!ENTITY aboutSupport.syncNotSupported "Servizio non attivo">
