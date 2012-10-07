@@ -15,7 +15,7 @@
 <!ENTITY feat_filters.label "Filtrovanie správ">
 <!ENTITY feat_htmlmsg.label "Podpora pre správy vo formáte HTML">
 <!ENTITY feat_abook.label "Adresár kontaktov">
-<!ENTITY feat_labels.label "Prispôsobiteľné menovky a zobrazenia správ">
+<!ENTITY feat_tags.label "Prispôsobiteľné menovky a zobrazenia správ">
 <!ENTITY feat_integration.label
 "Úzka integrácia s balíkom aplikácií &brandShortName;">
 <!ENTITY dict.title "Slovníky">
