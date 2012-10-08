@@ -87,7 +87,7 @@
 <!ENTITY pref_font_size_medium "Meadhanach">
 <!ENTITY pref_font_size_large "Mòr">
 <!ENTITY pref_font_size_xlarge "Anabarrach mòr">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_font_size_set "Suidhich">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -97,7 +97,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \\'s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \\'s gun luaidh air brùthadh eaconamach. \\'S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
@@ -105,7 +105,7 @@ size. -->
 <!ENTITY pref_import_android "Ion-phortaich o Android">
 <!ENTITY pref_private_data_history "Eachdraidh a\' bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
+<!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
 <!ENTITY pref_private_data_cache "An tasgadan">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
@@ -151,7 +151,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Àite">
 <!ENTITY bookmark_edit_keyword "Facal-luirg">
 
-<!ENTITY site_settings_title2       "Site Settings…">
+<!ENTITY site_settings_title2       "Roghainnean na làraich...">
 <!ENTITY site_settings_cancel       "Sguir dheth">
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
@@ -182,14 +182,14 @@ size. -->
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \\'s na tabaichean agad o innealan eile agad&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Faigh aplacaidean o mhargaid Mozilla agus feuch gràinnean-mullaich an lìn&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Co-shioncronachadh Firefox">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name "Margaid Mozilla">
 
 <!ENTITY filepicker_title "Tagh faidhle">
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">
@@ -224,3 +224,19 @@ o Android">
 <!ENTITY bookmarkhistory_import_wait "Fuirich ort…">
 
 <!ENTITY webapp_generic_name "Aplacaid">
+<!-- Updater notifications -->
+
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Tha ùrachadh &brandShortName; ri fhaighinn &#8230;">
+<!ENTITY updater_start_select "Tagh seo gus an t-ùrachadh a luchdadh a-nuas.">
+
+<!ENTITY updater_downloading_title "A\' luchdadh a-nuas &brandShortName;">
+<!ENTITY updater_downloading_ticker "A\' luchdadh a-nuas ùrachadh &brandShortName; &#8230;">
+<!ENTITY updater_downloading_ticker_failed "Dh\'fhàillig luchdadh a-nuas an ùrachaidh airson &brandShortName; &#8230;">
+<!ENTITY updater_downloading_select "Tagh seo gus an t-ùrachadh a chur an gnìomh nuair a bhios e deiseil.">
+<!ENTITY updater_downloading_retry "Tagh seo gus feuchainn ris a luchdadh a-nuas a-rithist.">
+<!ENTITY updater_downloading_willapply "Tha e \'ga luchdadh a-nuas fhathast.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Tha ùrachadh &brandShortName; ri fhaighinn&#8230;">
+<!ENTITY updater_apply_select "Tagh seo gus an t-ùrachadh a chur an gnìomh.">
