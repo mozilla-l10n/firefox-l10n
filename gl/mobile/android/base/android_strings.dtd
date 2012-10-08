@@ -15,7 +15,7 @@
 <!ENTITY  awesomebar_search_engine "Buscar por \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Informador de erros do &brandShortName;">
-<!ENTITY  crash_message "Fallou o &brandShortName;. As súas lapelas deberían mostrarse na páxina de inicio do &brandShortName; ao reiniciar.">
+<!ENTITY  crash_message "Fallou o &brandShortName;. As súas lapelas deberían amosarse na páxina de inicio do &brandShortName; ao reiniciar.">
 <!ENTITY  crash_help_message "Axúdanos a arranxar este problema!">
 <!ENTITY  crash_send_report_message "Enviar a Mozilla un informe de erro">
 <!ENTITY  crash_include_url "Incluír o enderezo da páxina">
@@ -33,11 +33,11 @@
 <!ENTITY awesomebar_default_text "Introducir busca ou enderezo">
 
 <!ENTITY remote_tabs "Lapelas sincronizadas">
-<!ENTITY remote_tabs_show_all "Mostrar todas as lapelas">
+<!ENTITY remote_tabs_show_all "Amosar todas as lapelas">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Engadiuse o marcador">
-<!ENTITY bookmark_removed "Eliminouse o marcador">
+<!ENTITY bookmark_removed "Retirouse o marcador">
 <!ENTITY bookmark_updated "Actualizouse o marcador">
 
 <!ENTITY history_today_section "Hoxe">
@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "Hai 7 días">
 <!ENTITY history_older_section "Hai máis de 7 días">
 
+<!ENTITY go "Ir">
+<!ENTITY search "Buscar">
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Adiante">
 <!ENTITY menu "Menú">
@@ -72,8 +74,8 @@
 <!ENTITY pref_remember_signons "Lembrar os contrasinais">
 <!ENTITY pref_cookies "Activar cookies">
 <!ENTITY pref_char_encoding "Codificación de caracteres">
-<!ENTITY pref_char_encoding_on "Mostrar o menú">
-<!ENTITY pref_char_encoding_off "Non mostrar o menú">
+<!ENTITY pref_char_encoding_on "Amosar o menú">
+<!ENTITY pref_char_encoding_off "Non amosar o menú">
 <!ENTITY pref_clear_private_data "Limpar os datos privados">
 <!ENTITY pref_plugins "Engadidos">
 <!ENTITY pref_plugins_enabled "Activado">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Medio">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Moi grande">
+<!ENTITY pref_font_size_set "Estabelecer">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "O panda laranxa máis veloz salta máis alá das súas expectativas con máis velocidade, máis flexibilidade e máis seguridade. Como unha organización sen ánimo de lucro, somos libres para innovar por vostede sen ningún tipo de presión e sen compromiso. Isto resulta nunha mellor experiencia para vostede e nun mellor futuro para a Web.">
+
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Amosar suxestións de busca">
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_private_data_history "Historial de navegación e descargas">
 <!ENTITY pref_private_data_formdata "Historial de formularios e buscas">
-<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_cookies2 "Cookies e sesións activas">
 <!ENTITY pref_private_data_passwords "Contrasinais gardados">
 <!ENTITY pref_private_data_cache "Caché">
-<!ENTITY pref_private_data_sessions "Sesións activas">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sen conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias do sitio">
 
@@ -110,7 +123,7 @@
 <!ENTITY share_image_failed "Foi imposíbel compartir esta imaxe">
 <!ENTITY save_as_pdf "Gardar como PDF">
 <!ENTITY find_in_page "Atopar na páxina">
-<!ENTITY desktop_mode "Solicitar sitio de escritorio">
+<!ENTITY desktop_mode "Sitio de escritorio">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Localización">
 <!ENTITY bookmark_edit_keyword "Palabra chave">
 
-<!ENTITY site_settings_title        "Limpar a configuración do sitio">
+<!ENTITY site_settings_title2       "Configuración do sitio…">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Non hai configuracións para limpar.">
@@ -150,7 +163,7 @@
 <!ENTITY reader_mode "Modo de lectura">
 
 <!ENTITY masterpassword_create_title "Crear contrasinal principal">
-<!ENTITY masterpassword_remove_title "Eliminar contrasinal principal">
+<!ENTITY masterpassword_remove_title "Retirar contrasinal principal">
 <!ENTITY masterpassword_password "Contrasinal">
 <!ENTITY masterpassword_confirm "Confirmar o contrasinal">
 
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Abrir todas as lapelas da última vez">
 <!ENTITY abouthome_top_sites_title "Sitios favoritos">
 <!ENTITY abouthome_top_sites_browse "Examinar todos os sitios favoritos">
-<!ENTITY abouthome_no_top_sites "Aínda non ten ningún sitio favorito. Prema na barra de título para comezar a navegación.">
-<!ENTITY abouthome_about_sync "Configure Firefox Sync para acceder aos marcadores, ao historial e ás lapelas dos seus dispositivos">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Configure Firefox Sync para acceder aos marcadores, ao historial e ás lapelas dos seus dispositivos&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Obteña aplicativos desde Mozilla Marketplace e descubra o mellor que lle pode ofrecer a Web&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Escoller ficheiro">
 <!ENTITY filepicker_audio_title "Escoller ou gravar un son">
@@ -198,3 +221,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Agarde...">
 
 <!ENTITY webapp_generic_name "Aplicativo">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Actualización do &brandShortName; dispoñíbel&#8230;">
+<!ENTITY updater_start_select "Seleccione para descargar a actualización.">
+
+<!ENTITY updater_downloading_title "Descargando &brandShortName;">
+<!ENTITY updater_downloading_ticker "Descargando actualización do &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Produciuse un fallo ao descargar a actualización do &brandShortName;&#8230;">
+<!ENTITY updater_downloading_select "Seleccione para aplicar a actualización cando remate.">
+<!ENTITY updater_downloading_retry "Seleccione para reintentar a descarga da actualización.">
+<!ENTITY updater_downloading_willapply "Agardando a que remate a descarga.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Actualización do &brandShortName; dispoñíbel&#8230;">
+<!ENTITY updater_apply_select "Seleccione para aplicar a actualización descargada.">
