@@ -224,3 +224,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Wag asseblief...">
 
 <!ENTITY webapp_generic_name "App">
+<!-- Updater notifications -->
+
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_start_select "Select to download update.">
+
+<!ENTITY updater_downloading_title "Laai tans &brandShortName; af">
+<!ENTITY updater_downloading_ticker "Downloading &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Failed to download &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_select "Select to apply update when complete.">
+<!ENTITY updater_downloading_retry "Select to retry update download.">
+<!ENTITY updater_downloading_willapply "Waiting for download to complete.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_apply_select "Select to apply downloaded update.">
