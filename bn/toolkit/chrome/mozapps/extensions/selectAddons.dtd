@@ -1,0 +1,68 @@
+<!--
+# Translator(s):
+#
+# newton <newton@ankur.org.bd>
+# ayesha akhtar <ayesha@ankur.org.bd>
+# Robin Mehdee <robin@ankur.org.bd>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# newton <newton@ankur.org.bd>
+# ayesha akhtar <ayesha@ankur.org.bd>
+# Robin Mehdee <robin@ankur.org.bd>
+# Mahay Alam Khan <mahayalamkhan@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY upgrade.style               "প্রস্থ: ৯৩ch; উচ্চতা: ৪৪৮px;">
+
+<!ENTITY checking.heading            "আপনার Add-ons পরীক্ষা করা হচ্ছে">
+<!ENTITY checking.progress.label     "&brandShortName; এর এই সংস্করণের দ্বারা সামঞ্জস্যের জন্য আপনার অ্যাড-অন পরীক্ষা করা হচ্ছে।">
+
+<!ENTITY select.heading              "আপনার অ্যাড-অন নির্বাচন করুন">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "&brandShortName তৈরি করুন; আপনি যে অ্যাড-অন আর ব্যবহার করবেননা তা নিস্ক্রিয় করার মাধ্যমে আরও দ্রুত করতে পারেন। তৃতীয় পক্ষের দ্বারা ইতোমধ্যে ইনস্টলকৃত অ্যাড-অন স্বয়ংক্রিয়ভাবে নিষ্ক্রিয় করা হবে যদি না আপনি নিচে থেকে তা নির্বাচন করেন।">
+<!ENTITY select.keep                 "রাখুন">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "প্রস্থ: ৬ইch;">
+<!ENTITY select.action               "করণীয় (A)">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "প্রস্থ: ৩৫ch;">
+<!ENTITY select.source               "যার দ্বারা ইন্সটল করা হয়েছে">
+<!ENTITY select.name                 "নাম">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "প্রস্থ: ৩৩ch;">
+
+<!ENTITY confirm.heading             "আপনার অ্যাড-অন নির্বাচন করুন">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "আপনি যে অ্যাড-অন ব্যবহার করবেন না তা নিষ্ক্রিয় করার মাধ্যমে &brandShortName; আরও দ্রুততার সাথে তৈরি করুন। ইতোমধ্যে ইনস্টল করা অ্যাড-অন স্বয়ংক্রিয়ভাবে নিষ্ক্রিয় হয়ে যাবে যদি না আপনি নিচে থেকে তা নির্বাচন করেন।">
+
+<!ENTITY action.disable.heading      "নিম্নলিখিত অ্যাড-অন নিস্ক্রিয় হবে:">
+<!ENTITY action.incompatible.heading "নিম্নলিখিত অ্যাড-অন নিস্ক্রিয়; কিন্তু সক্রিয় হবে যত দ্রুত তারা সুসংগত হবে:">
+<!ENTITY action.update.heading       "নিম্নলিখিত অ্যাড-অন হালনাগাদ করা হবে:">
+<!ENTITY action.enable.heading       "নিম্নলিখিত অ্যাড-অন সক্রিয় করা হবে:">
+
+<!ENTITY update.heading              "আপনার অ্যাড-অন হালনাগাদ করা হচ্ছে">
+<!ENTITY update.progress.label       "আপনার নির্বাচিত অ্যাড-অনের জন্য হালনাগাদ ডাউনলোড এবং ইন্সটল করা হচ্ছে।">
+
+<!ENTITY errors.heading              "&brandShortName; আপনার কিছু অ্যাড-অন হালনাগাদ করা যায়নি।">
+<!ENTITY errors.description          "আপনার কিছু অ্যাড-অনের জন্য হালনাগাদ ইনস্টল ব্যর্থ হয়েছে। &brandShortName; পরবর্তীতে আবার তাদের হালনাগাদ করতে স্বয়ংস্ক্রিয়ভাবে চেষ্টা করবে।">
+
+<!ENTITY footer.label                "আপনি সর্বদা অ্যাড-অন ম্যানেজার দ্বারা আপনার অ্যাড-অন পরিবর্তন করতে পারেন।">
+<!ENTITY cancel.label                "বাতিল">
+<!ENTITY back.label                  "পূর্ববর্তী">
+<!ENTITY next.label                  "পরবর্তী">
+<!ENTITY done.label                  "সম্পন্ন">
+

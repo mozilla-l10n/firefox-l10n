@@ -1,0 +1,30 @@
+<!--
+# Translator(s):
+#
+# ayesha akhtar <ayesha@ankur.org.bd>
+# newton <newton@ankur.org.bd>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# ayesha akhtar <ayesha@ankur.org.bd>
+# Robin Mehdee <robin@ankur.org.bd>
+# newton <newton@ankur.org.bd>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title           "অ্যাড-অন ইনস্টল করুন">
+<!ENTITY intro           "আপনার কম্পিউটারের অন্য প্রোগ্রাম &brandShortName পরিবর্তন করতে চায়; নিম্নলিখিত অ্যাড-অনের মাধ্যমে:">
+<!ENTITY warning         "শুধুমাত্র উদ্ভাবক থেকে অ্যাড-অন ইনস্টল করুন যাকে আপনি বিশ্বাস করেন।">
+<!ENTITY allow           "এটি ইনস্টলেশন করার অনুমতি প্রদান করুন">
+<!ENTITY later           "আপনি যে কোনো সময় অ্যাড-অন ব্যবস্থাপকের মাধ্যমে আপনার মন পরিবর্তন করতে পারেন।">
+<!ENTITY continue        "চালিয়ে যান">
+<!ENTITY restartMessage  "আপনার &brandShortName পুনরায় আরম্ভ করা আবশ্যক; এই অ্যাড-অন ইনস্টল শেষ করার জন্য।">
+<!ENTITY restartButton   "&brandShortName; পুনরায় শুরু করা হবে">
+<!ENTITY cancelButton    "বাতিল">
+
