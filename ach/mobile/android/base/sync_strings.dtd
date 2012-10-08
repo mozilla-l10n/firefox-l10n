@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Kub &syncBrand.shortName.label; pi cwalo dirica matidi">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Kub &syncBrand.fullName.label; ikom jami tic mamegi w ek icwal dirica matidi ikom jamitic mukene">
 <!ENTITY sync.text.tab.sent.label "Otyeko dong cwalo dirica ni matidi!">
+<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>

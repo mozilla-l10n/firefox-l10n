@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "Nino 7 mukato angec">
 <!ENTITY history_older_section "Muti loyo nino 7">
 
+<!ENTITY go "Ceti">
+<!ENTITY search "Yeny">
 <!ENTITY reload "Nwo pango">
 <!ENTITY forward "Cwal anyim">
 <!ENTITY menu "Nying Jami">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Dyere dyere">
 <!ENTITY pref_font_size_large "Lac">
 <!ENTITY pref_font_size_xlarge "Madit loyo">
+<!ENTITY pref_font_size_set "Set">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
 <!ENTITY pref_import_android "Kel ki woko ki Android">
 <!ENTITY pref_private_data_history "Tye ka yabo &amp; Gol Mukato">
 <!ENTITY pref_private_data_formdata "Fom &amp; yeny mukato">
-<!ENTITY pref_private_data_cookies "Kakube me intanet">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Kagwoko">
-<!ENTITY pref_private_data_sessions "Tye ka tic Dony iyie">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
 <!ENTITY pref_private_data_siteSettings "Gin ma imito i di bar">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Kabedo">
 <!ENTITY bookmark_edit_keyword "Lok mapire tek">
 
-<!ENTITY site_settings_title        "Jwa woko Tero Kakube">
+<!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "Jwik">
 <!ENTITY site_settings_clear        "Jwa">
 <!ENTITY site_settings_no_settings  "Ter mo peke me ajwa.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Yab Tab weng ki i kare mukato">
 <!ENTITY abouthome_top_sites_title "Kakube maloyo">
 <!ENTITY abouthome_top_sites_browse "Yeny kakube megi lung maloyo">
-<!ENTITY abouthome_no_top_sites "I pe ki kakube maloyo kombedi. Gwet Bao me Nying wek ocak yenyo.">
-<!ENTITY abouthome_about_sync "Ter kit ma Firefox neno kwede pi donyo i alama buk mapol, lok mukato ki tab ki jami me tic megi mapatpat">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Yer Pwail">
 <!ENTITY filepicker_audio_title "Yer onyo ket tekod me dwon">
@@ -201,3 +224,19 @@ ki Android">
 <!ENTITY bookmarkhistory_import_wait "Tim ber i kur...">
 
 <!ENTITY webapp_generic_name "Purugram">
+<!-- Updater notifications -->
+
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_start_select "Select to download update.">
+
+<!ENTITY updater_downloading_title "Golo &brandShortName;">
+<!ENTITY updater_downloading_ticker "Downloading &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Failed to download &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_select "Select to apply update when complete.">
+<!ENTITY updater_downloading_retry "Select to retry update download.">
+<!ENTITY updater_downloading_willapply "Waiting for download to complete.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_apply_select "Select to apply downloaded update.">

@@ -33,8 +33,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Gwet kany me mino gin arwaka cak tic.">
 <!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Dii kany wek iket rwak iyie ma kwiri.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Dii kany wek iket purugram makwiri (ngec mukene peke).">
 <!ENTITY checkForUpdates                                     "Rot pi Ngec…">
 <!ENTITY disabledPlugin                                      "Gin arwaka ma eni ni kikwanyo woko.">
 <!ENTITY blockedPlugin.label                                 "Gin arwaka ma eni ni ki gengo woko pi konyi gwoko.">
