@@ -44,6 +44,6 @@
 <!ENTITY deleteCmd.label                    "Törlés">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "T">
-<!ENTITY selectAllCmd.label                 "Összes kijelölése">
+<!ENTITY selectAllCmd.label                 "Minden kijelölése">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "s">
