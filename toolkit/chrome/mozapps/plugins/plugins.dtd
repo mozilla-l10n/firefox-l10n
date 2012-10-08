@@ -21,7 +21,7 @@
 <!ENTITY clickToPlayPlugin "Clic aquí para activar el plugin.">
 <!ENTITY clickToPlayPluginVulnerableUpdateAvailable "Click here to activate vulnerable plugin.">
 <!ENTITY clickToPlayPluginVulnerableNoUpdate "Click here to activate vulnerable plugin (no update available).">
-<!ENTITY checkForUpdates "Check for updates…">
+<!ENTITY checkForUpdates "Buscar actualizaciones…">
 <!ENTITY disabledPlugin "Este plugin está desactivado.">
 <!ENTITY blockedPlugin.label "Este plugin se bloqueó para tu protección.">
 <!ENTITY installPlugin "Instalar plugin…">

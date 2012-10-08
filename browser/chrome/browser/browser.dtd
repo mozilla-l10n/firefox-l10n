@@ -51,7 +51,7 @@
 <!ENTITY addonBarCmd.label "Barra de complemento">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "c">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -181,7 +181,7 @@
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "O">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "e">
 <!ENTITY inspectorHTMLDelete.label "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "B">
 <!ENTITY inspectOptionButton.tooltiptext "Inspector Options">
@@ -194,7 +194,7 @@
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor de estilos">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.accesskey "E">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
@@ -320,7 +320,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "l">
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este marco a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY emailPageCmd.label "Email Link…">
+<!ENTITY emailPageCmd.label "Enviar enlace">
 <!ENTITY emailPageCmd.accesskey "E">
 <!ENTITY savePageCmd.label "Guardar como…">
 <!ENTITY savePageCmd.accesskey "G">
@@ -339,7 +339,7 @@
 <!ENTITY saveAudioCmd.label "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey "G">
 <!ENTITY emailImageCmd.label "Email Image…">
-<!ENTITY emailImageCmd.accesskey "a">
+<!ENTITY emailImageCmd.accesskey "g">
 <!ENTITY emailVideoCmd.label "Email Video…">
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY emailAudioCmd.label "Email Audio…">
@@ -464,7 +464,7 @@
 <!ENTITY markupButton.arialabel "Marcado">
 <!ENTITY markupButton.accesskey "M">
 <!ENTITY socialToolbar.title "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label "Not logged in">
+<!ENTITY social.notLoggedIn.label "Sesión no iniciada">
 <!ENTITY social.sharePopup.undo.label "Unshare">
 <!ENTITY social.sharePopup.undo.accesskey "U">
 <!ENTITY social.sharePopup.ok.label "OK">
