@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedPage.title
-  "ஃபீட்டை பார்க்கிறது">
-<!ENTITY feedSubscribeNow
-  "இப்போது சந்தாப்படுத்தவும்">
-<!ENTITY feedLiveBookmarks
-  "லைவ் புத்தகக்குறிகள்">
+<!ENTITY feedPage.title "Viewing Feed">
+<!ENTITY feedSubscribeNow "இப்போது சந்தாப்படுத்தவும்">
+<!ENTITY feedLiveBookmarks "லைவ் புத்தகக்குறிகள்">

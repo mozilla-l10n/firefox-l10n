@@ -2,35 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "இயக்கு">
+<!ENTITY playButton.playLabel "Play">
 <!ENTITY playButton.pauseLabel "இடைநிறுத்து">
 <!ENTITY muteButton.muteLabel "ஒலி நீக்கு">
 <!ENTITY muteButton.unmuteLabel "ஒலிக்க செய்">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
 
+<!ENTITY stats.media "ஊடகம்">
+<!ENTITY stats.size "அளவு">
+<!ENTITY stats.activity "செயல்பாடு">
+<!ENTITY stats.activityPaused "இடைநிறுத்தப்பட்டது">
+<!ENTITY stats.activityPlaying "Playing">
+<!ENTITY stats.activityEnded "Ended">
+<!ENTITY stats.activitySeeking "(seeking)">
+<!ENTITY stats.volume "Volume">
+<!ENTITY stats.channels "Channels">
+<!ENTITY stats.sampleRate "மாதிரி விகிதம்">
+<!ENTITY stats.framesParsed "சட்டங்களை பாகுபடுத்த">
+<!ENTITY stats.framesDecoded "Frames decoded">
+<!ENTITY stats.framesPresented "Frames presented">
+<!ENTITY stats.framesPainted "Frames painted">
+
+<!ENTITY error.aborted "Video loading stopped.">
+<!ENTITY error.network "Video playback aborted due to a network error.">
+<!ENTITY error.decode "Video can't be played because the file is corrupt.">
+<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
+<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
+<!ENTITY error.generic "Video playback aborted due to an unknown error.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed". -->
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+
 <!ENTITY scrubberScale.nameFormat "#1 of #2 elapsed">
-<!ENTITY error.aborted "வீடியோ ஏற்றுதல் நிறுத்தப்பட்டது.">
-<!ENTITY error.decode "கோப்பு சிதைந்துள்ளதால் வீடியோவை இயக்க முடியாது.">
-<!ENTITY error.generic "தெரியாத ஒரு பிழையின் காரணமாக வீடியோ இயக்குதல் கைவிடப்பட்டது.">
-<!ENTITY error.network "பிணையப் பிழையின் காரணமாக வீடியோ இயக்குதல் கைவிடப்பட்டது.">
-<!ENTITY error.noSource2 "ஆதரிக்கப்படும் வடிவமும் MIME வகையும் உள்ள வீடியோ இல்லை.">
-<!ENTITY error.srcNotSupported "வீடியோ வடிவம் அல்லது MIME வகை ஆதரிக்கப்படவில்லை.">
-<!ENTITY fullscreenButton.enterfullscreenlabel "முழுத்திரை">
-<!ENTITY fullscreenButton.exitfullscreenlabel "முழுத்திரையிலிருந்து வெளியேறு">
-<!ENTITY stats.activity "செயல்பாடு">
-<!ENTITY stats.activityEnded "முடிந்தது">
-<!ENTITY stats.activityPaused "இடைநிறுத்தப்பட்டது">
-<!ENTITY stats.activityPlaying "இயக்குகிறது">
-<!ENTITY stats.activitySeeking "(செல்கிறது)">
-<!ENTITY stats.channels "அலைவரிசைகள்">
-<!ENTITY stats.framesDecoded "சட்டகங்கள் குறிநீக்கம் செய்யப்பட்டன">
-<!ENTITY stats.framesPainted "சட்டகம் வண்ணம் தீட்டப்பட்டது">
-<!ENTITY stats.framesParsed "சட்டகங்கள் பாகுபடுத்தப்பட்டது">
-<!ENTITY stats.framesPresented "சட்டகங்கள் வழங்கப்பட்டது">
-<!ENTITY stats.media "ஊடகம்">
-<!ENTITY stats.sampleRate "மாதிரி வீதம்">
-<!ENTITY stats.size "அளவு">
-<!ENTITY stats.volume "ஒலியளவு">

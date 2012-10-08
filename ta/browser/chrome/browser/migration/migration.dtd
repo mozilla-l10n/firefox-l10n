@@ -3,40 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "வழிகாட்டியை இறக்கு">
+<!ENTITY migrationWizard.title          "விசார்டை இறக்குமதி செய்">
 
 <!ENTITY importFrom.label               "விருப்பங்கள், புத்தகக்குறிகள், வரலாறு, கடவுச்சொற்கள் மற்றும் வேறு தரவு போன்றவற்றை இதிலிருந்து இறக்கு:">
 <!ENTITY importFromUnix.label           "முன்னுரிமைகள், புத்தகக்குறிகள், வரலாறு, கடவுச்சொற்கள் மற்றும் வேறு தரவு போன்றவற்றை இதிலிருந்து இறக்கு:">
 <!ENTITY importFromBookmarks.label      "இதிலிருந்து புத்தகக்குறிகளை இறக்கு:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
-
-
+<!ENTITY importFromIE.label             "மைக்ரோசாப்ட் இன்டர்நெட் எக்ஸ்ப்லோரர்">
+<!ENTITY importFromIE.accesskey         "ம">
 <!ENTITY importFromNothing.label        "எதையும் இறக்க வேண்டாம்">
 <!ENTITY importFromNothing.accesskey    "D">
-
-
-
-
-
-
-
-
-<!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY importFromSafari.label         "சபாரி">
+<!ENTITY importFromSafari.accesskey     "ச">
+<!ENTITY importFromChrome.label         "கொறோம்">
+<!ENTITY importFromChrome.accesskey     "க">
+<!ENTITY importFromFirefox.label        "பையர்பாக்ஸ்">
+<!ENTITY importFromFirefox.accesskey    "ப">
 
 <!ENTITY noMigrationSources.label       "புத்தகக்குறிகள், வரலாறு அல்லது கடவுச்சொல் தரவு போன்றவற்றைக் கொண்ட நிரல்களை காண முடியவில்லை.">
 
@@ -52,7 +34,4 @@
 
 <!ENTITY done.title                     "இறக்குதல் முடிவு">
 <!ENTITY done.label                     "பின்வரும் உருப்படிகள் வெற்றிகரமாக இறக்கப்பட்டது:">
-<!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromChrome.label         "Chrome">
-<!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromFirefox.label        "Firefox">
+

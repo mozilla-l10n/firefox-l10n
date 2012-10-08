@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -14,6 +14,37 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(தனிப்பட்ட உலாவுதல்)">
+<!-- Tab context menu -->
+
+<!ENTITY  reloadTab.label                    "தத்தலை மீளேற்று">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "அனைத்து தத்தல்களையும் மீளேற்று">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "மற்ற தத்தல்களை மூடவும்">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY  pinAppTab.label                    "பயன்பாடு தத்தலாக பின் செய்">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "தத்தலை பின் நீக்கு">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  moveToGroup.label                  "குழுவுக்கு நகர்த்து">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "புதிய குழு">
+<!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகர்த்து">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "அனைத்து தத்தல்களையும் புத்தகக்குறியிடு…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "மூடிய தத்தல்களை மறை">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "தத்தலை மூடவும்">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY  listAllTabs.label      "அனைத்து தத்தல்களையும் பட்டியலிடு">
 
 <!ENTITY tabCmd.label "புதிய தத்தல்">
 <!ENTITY tabCmd.accesskey "T">
@@ -31,16 +62,18 @@
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-
-
 <!ENTITY goOfflineCmd.label "இணைப்பில்லாமல் வேலைசெய்">
 <!ENTITY goOfflineCmd.accesskey "w">
 
+<!ENTITY menubarCmd.label "மெனு பட்டை">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "திசையமைப்பு கருவிப்பட்டை">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "புத்தகக்குறிகள் கருவிப்பட்டை">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்">
+<!ENTITY addonBarCmd.label "கூடுதல் இணைப்பு பட்டை">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "பக்க மூலம்">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -48,8 +81,17 @@
 <!ENTITY pageInfoCmd.label "பக்க தகவல்">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
 <!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "அனைத்து தத்தல்களையும் காட்டு">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "குறைத்தல்">
 <!ENTITY fullScreenRestore.tooltip "மறுசேமிப்பு">
@@ -58,6 +100,13 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "முழுத்திரை முறைமையை விட்டு வெளியேறு">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullscreenAllowButton.label "அனுமதி">
+<!ENTITY fullscreenExitButton.label "மறு">
+<!ENTITY fullscreenApproval.value "முழுத்திரையை அனுமதிக்கவா?">
+
+<!ENTITY fullscreenExitHint.value "முழுத்திரையில் இருந்து வெளியேற எந்த நேரத்திலும் ESC அழுத்தவும்.">
+<!ENTITY leaveDOMFullScreen.label "முழுத்திரை முறையிலிருந்து வெளியேறுக">
+<!ENTITY leaveDOMFullScreen.accesskey "ழ">
 
 <!ENTITY closeWindow.label "சாளரத்தை மூடு">
 <!ENTITY closeWindow.accesskey "d">
@@ -66,10 +115,12 @@
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "இந்தப் பக்கத்தைப் புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
 <!ENTITY addCurPagesCmd.label "அனைத்து தத்தல்களையும் புத்தகக்குறியீடு…">
-
+<!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
+<!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கம் செய்யப்படாத புக்மார்க்குகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
 
 <!ENTITY backCmd.label                "பின்னால்">
@@ -78,6 +129,8 @@
 <!ENTITY forwardCmd.label             "முன்னால்">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ஒரு பக்கம் முன்னால் செல்">
+<!ENTITY backForwardButtonMenu.tooltip "வரலாற்றை பார்க்க வலது கிளிக் அல்லது கீழே இழுக்கும்">
+<!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றை பார்க்க கீழே இழுக்கும்">
 <!ENTITY reloadCmd.label              "மீளேற்று">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "நடப்பு பக்கத்தை மீளேற்று">
@@ -89,16 +142,39 @@
 <!ENTITY printButton.label            "அச்சிடு">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடு">
 
+<!ENTITY backForwardItem.title        "பின்னால்/பின்னால்">
 <!ENTITY locationItem.title           "இடம்">
 <!ENTITY searchItem.title             "தேடுதல்">
 <!ENTITY throbberItem.title           "செயல் அறிவிப்பி">
 <!ENTITY bookmarksItem.title          "புத்தகக்குறிகள்">
-
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "முதன்மை பக்கம்">
+
+<!ENTITY appMenuButton.label          "மெனு">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; மெனுவை தேடு">
+<!ENTITY homeButton.label             "முதன்மை பக்கம்">
+
+<!ENTITY tabGroupsButton.label        "தத்தல்கள் குழுக்கள்">
+<!ENTITY tabGroupsButton.tooltip      "உங்கள் தத்தல்களை குழுப்படுத்து">
+
+<!ENTITY feedButton.label             "சந்தாப்படுத்து">
+<!ENTITY feedButton.tooltip           "இந்தப் பக்கத்தை சந்தாப்படுத்தவும்…">
 
 <!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksButton.tooltip        "உங்கள் புத்தகக்குறிகளை காட்டவும்">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
+<!ENTITY bookmarksMenuButton.tooltip        "உங்கள் புத்தகக்குறிகளை காட்டுங்கள்">
+<!ENTITY bookmarksMenuButton.unsorted.label "வரிசைப்படுத்தப்படாத புத்தகக்குறிகள்">
+<!ENTITY viewBookmarksSidebar.label         "பக்கப்பட்டையில் காட்டு">
+<!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "வரலாறு">
 <!ENTITY historyButton.tooltip          "நீங்கள் சமீபத்தில் பார்த்த பக்கங்களை காட்டு">
@@ -119,10 +195,84 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "கூடுதல் இணைப்புகள்">
 <!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY webDeveloperMenu.label       "வலைத்தள டெவலப்பர்">
+<!ENTITY webDeveloperMenu.accesskey   "வ">
 
 <!ENTITY errorConsoleCmd.label        "பிழை பணியகம்">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "வலை பணியகம்">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "ஆய்வு செய்">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "உறுப்பு ஆய்வுசெய்">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY responsiveDesignTool.label   "பரிவு வடிவமைப்பை பார்வையிடு">
+<!ENTITY responsiveDesignTool.accesskey "ப">
+<!ENTITY responsiveDesignTool.commandkey "M">
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY scratchpad.label             "கீறல் அட்டை">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
+<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+
+<!ENTITY webConsoleButton.label "Web Console">
+<!ENTITY inspectorButton.label "Inspector">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Delete Node">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "3D பார்வையிடு">
+<!ENTITY inspect3DViewButton.accesskey "ய">
+
+<!ENTITY inspectStyleButton.label     "பாணி">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "ஸ்டைல் எடிட்டர்">
+<!ENTITY styleeditor.accesskey        "ட">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY getMoreDevtoolsCmd.label        "கூடுதல் கருவிகளை பெற">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "கோப்பு"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -153,46 +303,71 @@
 <!ENTITY selectAllCmd.label         "அனைத்தையும் தேர்ந்தெடு">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY preferencesCmd2.label       "விருப்பங்கள்">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "முன்னுரிமைகள்">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "தனிப்பட்ட உலாவுதலை துவக்கு">
-<!ENTITY privateBrowsingCmd.start.accesskey     "P">
+<!ENTITY clearRecentHistory.label               "சமீபத்திய வரலாற்றை துடை…">
+<!ENTITY clearRecentHistory.accesskey           "H">
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+
+<!ENTITY privateBrowsingCmd.start.label         "தனிப்பட்ட உலாவுதலை தொடங்கு">
+<!ENTITY privateBrowsingCmd.start.accesskey     "த">
 <!ENTITY privateBrowsingCmd.stop.label          "தனிப்பட்ட உலாவுதலை நிறுத்து">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "பார்வை"> 
 <!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewTabGroups.label            "தத்தல் குழுக்கள்">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "கருவிப்பட்டைகள்"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "பக்கப்பட்டை">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "தனிபயனாக்குதல்…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewTabsOnTop.label            "மேலேயுள்ள தத்தல்கள்">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "வரலாறு">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட தத்தல்கள்">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரம்">
+<!ENTITY historyRestoreLastSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 
 <!ENTITY historyHomeCmd.label "முதன்மை பக்கம்">
 <!ENTITY showAllHistoryCmd2.label "அனைத்து வரலாற்றையும் காட்டு">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY appMenuEdit.label "திருத்து">
+<!ENTITY appMenuCustomize.label "தனிபயனாக்கு">
+<!ENTITY appMenuToolbarLayout.label "கருவிப்பட்டை அமைப்பு…">
+<!ENTITY appMenuSidebars.label "பக்கப்பட்டைகள்">
+<!ENTITY appMenuFind.label "தேடு…">
+<!ENTITY appMenuUnsorted.label "வரிசைப்படுத்தாத புத்தகக்குறிகள்">
+<!ENTITY appMenuWebDeveloper.label "இணைய வல்லுநர்">
+<!ENTITY appMenuGettingStarted.label "இங்கே துவக்குங்கள்">
+<!ENTITY appMenuSafeMode.label "கூடுதல் இணைப்புகள் செயல்நீக்கத்துடன் மறுதுவக்கவும்…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "ஒரு இணைய தளத்திற்குச் செல்">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "தத்தலுக்கு மாற்று:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -201,20 +376,24 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-  
  -->
+
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY tabView.commandkey           "e">
+
 <!ENTITY openLinkCmdInTab.label       "புதிய தத்தலில் இணைப்பைத் திற">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
-<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "புதிய தத்தலில் சட்டத்தைத் திற">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
+<!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "இந்த சட்டத்தை மட்டும் காட்டு">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -237,6 +416,8 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "படத்தைக் காட்டு">
 <!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "படத் தகவலைப் பார்">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "வீடியோவை காட்டு">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "பின்னணி படத்தைக் காட்டு">
@@ -249,8 +430,8 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "இந்த சட்டத்தை புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
-
+<!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
+<!ENTITY emailPageCmd.accesskey       "ம">
 <!ENTITY savePageCmd.label            "பக்கத்தை இப்படி சேமி…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -262,20 +443,18 @@
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "இணைப்பை இப்படி சேமி…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-
-
 <!ENTITY saveImageCmd.label           "படத்தை இப்படி சேமி…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "வீடியோவை இப்படி சேமி…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "ஆடியோவை இப்படி சேமி…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-
-
-
-
-
-
+<!ENTITY emailImageCmd.label          "மின்னஞ்சல் படம்...">
+<!ENTITY emailImageCmd.accesskey      "ம">
+<!ENTITY emailVideoCmd.label          "மின்னஞ்சல் வீடியோ...">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "மின்னஞ்சல் ஆடியோ...">
+<!ENTITY emailAudioCmd.accesskey      "ஆ">
 <!ENTITY copyLinkCmd.label            "இணைப்பு இடத்தை நகலெடு">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "பட இடத்தை நகலெடு">
@@ -290,32 +469,52 @@
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "இந்த சட்டம்">
 <!ENTITY thisFrameMenu.accesskey          "h">
-
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+
 <!ENTITY mediaPlay.label             "இயக்கு">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "இடைநிறுத்து">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "ஒலி நீக்கு">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ஒலிக்க செய்">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "கட்டுப்பாடுகளை காட்டு">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "கட்டுப்பாடுகளை மறை">
 <!ENTITY mediaHideControls.accesskey "C">
-
-
+<!ENTITY videoFullScreen.label       "முழுத்திரை">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "திரைக்காப்பாகச் சேமி...">
+<!ENTITY videoSaveImage.accesskey    "த">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "புள்ளிவிவரம் காட்டு">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomEnlargeCmd.label       "பெரிதாக்கு">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "சிறிதாக்கு">
@@ -333,12 +532,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "அளவிடு">
 <!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY newTabButton.tooltip           "ஒரு புதிய தத்தலை திற">
 <!ENTITY newWindowButton.tooltip        "ஒரு புதிய சாளரத்தைத் திற">
 <!ENTITY sidebarCloseButton.tooltip     "பக்கப்பட்டையை காட்டு">
 
 <!ENTITY cutButton.tooltip              "வெட்டு">
 <!ENTITY copyButton.tooltip             "நகலெடு">
 <!ENTITY pasteButton.tooltip            "ஒட்டு">
+
+<!ENTITY fullScreenButton.tooltip       "சாளரத்தை முழுத்திரையாக காட்டவும்">
+
+<!ENTITY zoomOutButton.tooltip          "சிறிதாக்கு">
+<!ENTITY zoomInButton.tooltip           "பெரிதாக்கு">
+<!ENTITY zoomControls.label             "அளவீடு கட்டுப்பாடுகள்">
 
 <!ENTITY quitApplicationCmdWin.label       "வெளியேறு"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -411,95 +617,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "பதிவிறக்க சாளரங்களை திறக்க சொடுக்கவும்">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரம்">
-<!ENTITY newTabButton.tooltip           "ஒரு புதிய தத்தலை திற">
-
-<!ENTITY addonBarCmd.label "கூடுதல் இணைப்பு பட்டை">
-<!ENTITY addonBarCmd.accesskey "A">
-
-<!ENTITY addons.commandkey            "A">
-
 <!ENTITY allTabs.filter.emptyText "தத்தல்களை தேடு">
-
-<!ENTITY appMenuButton.label          "மெனு">
-<!ENTITY appMenuButton.tooltip        "&brandShortName; மெனுவை தேடு">
-
-<!ENTITY appMenuEdit.label "திருத்து">
-<!ENTITY appMenuCustomize.label "தனிபயனாக்கு">
-<!ENTITY appMenuToolbarLayout.label "கருவிப்பட்டை அமைப்பு…">
-<!ENTITY appMenuSidebars.label "பக்கப்பட்டைகள்">
-<!ENTITY appMenuFind.label "தேடு…">
-<!ENTITY appMenuUnsorted.label "வரிசைப்படுத்தாத புத்தகக்குறிகள்">
-<!ENTITY appMenuWebDeveloper.label "இணைய வல்லுநர்">
-<!ENTITY appMenuGettingStarted.label "இங்கே துவக்குங்கள்">
-<!ENTITY appMenuSafeMode.label "கூடுதல் இணைப்புகள் செயல்நீக்கத்துடன் மறுதுவக்கவும்…">
-<!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY backForwardItem.title        "பின்னால்/பின்னால்">
-<!ENTITY  bookmarkAllTabs.label              "அனைத்து தத்தல்களையும் புத்தகக்குறியிடு…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY bookmarksButton.accesskey  "B">
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksCmd.commandkey "b">
-<!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
-<!ENTITY bookmarksMenuButton.tooltip        "உங்கள் புத்தகக்குறிகளை காட்டுங்கள்">
-<!ENTITY bookmarksMenuButton.unsorted.label "வரிசைப்படுத்தப்படாத புத்தகக்குறிகள்">
-
-<!ENTITY bookmarksWinCmd.commandkey "i">
-<!ENTITY clearRecentHistory.label               "சமீபத்திய வரலாற்றை துடை…">
-<!ENTITY clearRecentHistory.accesskey           "H">
-<!ENTITY  closeOtherTabs.label               "மற்ற தத்தல்களை மூடவும்">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-<!ENTITY  closeTab.label                     "தத்தலை மூடவும்">
-<!ENTITY  closeTab.accesskey                 "c">
-<!ENTITY feedButton.label             "சந்தாப்படுத்து">
-<!ENTITY feedButton.tooltip           "இந்தப் பக்கத்தை சந்தாப்படுத்தவும்…">
-<!ENTITY fullScreenButton.tooltip       "சாளரத்தை முழுத்திரையாக காட்டவும்">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY historyRestoreLastSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
-<!ENTITY inspectMenu.label            "ஆய்வு செய்">
-<!ENTITY inspectMenu.accesskey        "T">
-<!ENTITY inspectMenu.commandkey       "I">
-
-
-
-
-
-
-
-
-<!ENTITY inspectStyleButton.label     "பாணி">
-<!ENTITY inspectStyleButton.accesskey "S">
-
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-
-
-<!ENTITY  listAllTabs.label      "அனைத்து தத்தல்களையும் பட்டியலிடு">
-<!ENTITY menubarCmd.label "மெனு பட்டை">
-<!ENTITY menubarCmd.accesskey "M">
-<!ENTITY  moveToGroup.label                  "குழுவுக்கு நகர்த்து">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "புதிய குழு">
-<!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகர்த்து">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY  pinAppTab.label                    "பயன்பாடு தத்தலாக பின் செய்">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "தத்தலை பின் நீக்கு">
-<!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  reloadTab.label                    "தத்தலை மீளேற்று">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "அனைத்து தத்தல்களையும் மீளேற்று">
-<!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY showAllTabsCmd.label "அனைத்து தத்தல்களையும் காட்டு">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "உலாவி தத்தல்கள்">
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+
 <!ENTITY syncTabsMenu.label     "மற்ற கணினிகளிலிருந்து தத்தல்கள்">
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
@@ -510,123 +633,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "ஒத்திசை">
 
-<!ENTITY tabGroupsButton.label        "தத்தல்கள் குழுக்கள்">
-<!ENTITY tabGroupsButton.tooltip      "உங்கள் தத்தல்களை குழுப்படுத்து">
-
-<!ENTITY tabView.commandkey           "e">
-
-<!-- Name for the tabs toolbar as spoken by screen readers.
-     The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "உலாவி தத்தல்கள்">
-
-<!ENTITY  undoCloseTab.label                 "மூடிய தத்தல்களை மறை">
-<!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  unpinAppTab.label                  "தத்தலை பின் நீக்கு">
-<!ENTITY  unpinAppTab.accesskey              "b">
-
-<!ENTITY urlbar.placeholder           "ஒரு இணைய தளத்திற்குச் செல்">
-<!ENTITY urlbar.switchToTab.label     "தத்தலுக்கு மாற்று:">
-
-<!ENTITY videoFullScreen.label       "முழுத்திரை">
-<!ENTITY videoFullScreen.accesskey   "F">
-
-<!ENTITY viewBookmarksSidebar.label         "பக்கப்பட்டையில் காட்டு">
-<!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு">
-
-<!ENTITY viewImageInfoCmd.label       "படத் தகவலைப் பார்">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-
-<!ENTITY viewTabGroups.label            "தத்தல் குழுக்கள்">
-<!ENTITY viewTabGroups.accesskey        "G">
-
-<!ENTITY viewTabsOnTop.label            "மேலேயுள்ள தத்தல்கள்">
-<!ENTITY viewTabsOnTop.accesskey        "T">
-
-<!ENTITY webConsoleCmd.label          "வலை பணியகம்">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
-<!ENTITY zoomOutButton.tooltip          "சிறிதாக்கு">
-<!ENTITY zoomInButton.tooltip           "பெரிதாக்கு">
-<!ENTITY zoomControls.label             "அளவீடு கட்டுப்பாடுகள்">
 <!ENTITY addonBarCloseButton.tooltip  "கூடுதல் இணைப்பு பட்டையை மூடு">
-<!ENTITY preferencesCmd2.label       "விருப்பங்கள்">
-<!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!ENTITY backForwardButtonMenu.tooltip "வரலாற்றைக் காண வலது கிளிக் செய்யவும் அல்லது கீழே இழுக்கவும்">
-<!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றைக் காண  கீழே இழுக்கவும்">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarCloseButton.tooltiptext "உருவாக்குநர் கருவிப்பட்டியை மூடு">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbarMenu.label              "உருவாக்குநர் கருவிப்பட்டி">
-<!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "மின்னஞ்சல் ஆடியோ…">
-<!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailImageCmd.label          "மின்னஞ்சல் படம்…">
-<!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு…">
-<!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "மின்னஞ்சல் வீடியோ…">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY enterFullScreenCmd.label "முழுத்திரைக்குச் செல்">
-<!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "முழுத்திரையிலிருந்து வெளியேறு">
-<!ENTITY fullscreenAllowButton.label "அனுமதி">
-<!ENTITY fullscreenApproval.value "முழுத்திரையை அனுமதிக்க வேண்டுமா?">
-<!ENTITY fullscreenExitButton.label "மறு">
-<!ENTITY fullscreenExitHint.value "எப்போது வேண்டுமானாலும் முழுத்திரையிலிருந்து வெளியேற ESC ஐ அழுத்தவும்.">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
-<!ENTITY getMoreDevtoolsCmd.label        "மேலும் கருவிகளைப் பெறுக">
-<!ENTITY inspect3DViewButton.accesskey "W">
-<!ENTITY inspect3DViewButton.label     "3D காட்சி">
-<!ENTITY inspectCloseButton.tooltiptext "ஆய்வியை மூடு">
-<!ENTITY inspectContextMenu.accesskey "Q">
-<!ENTITY inspectContextMenu.label     "கூறை ஆய்வு செய்">
-<!ENTITY inspectOptionButton.tooltiptext    "ஆய்வி விருப்பங்கள்">
-<!ENTITY inspectorButton.label "ஆய்வி">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
-<!ENTITY inspectorHTMLCopyInner.label       "உள்ளே உள்ள HTML ஐ நகலெடு">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-<!ENTITY inspectorHTMLCopyOuter.label       "வெளியே உள்ள HTML ஐ நகலெடு">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-<!ENTITY inspectorHTMLDelete.label          "கனுவை நீக்கு">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
-<!ENTITY inspectorToggleInfobar.label       "கனு விவரத்தைக் காண்பி">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleVeil.label          "பக்கத்தை மங்கலாக்கு">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
-<!ENTITY leaveDOMFullScreen.label "முழுத் திரையிலிருந்து வெளியேறு">
-<!ENTITY markupButton.accesskey          "M">
-<!ENTITY markupButton.arialabel          "மார்க்கப்">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-<!ENTITY responsiveDesignTool.label   "பதிலளிப்புள்ள வடிவமைப்புக் காட்சி">
-<!ENTITY scratchpad.accesskey         "s">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!ENTITY scratchpad.label             "ஸ்க்ராட்ச் பேட்">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY sharePageCmd.commandkey "l">
-<!ENTITY social.notLoggedIn.label   "உள்நுழையவில்லை">
-<!ENTITY social.sharePopup.ok.accesskey   "O">
-<!ENTITY social.sharePopup.ok.label       "சரி">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.undo.label     "பகிர்வுநீக்கு">
-<!ENTITY socialToolbar.title        "சமூக கருவிப்பட்டி பொத்தான்">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
-<!ENTITY styleeditor.label            "பாணி திருத்தி">
-<!ENTITY unsortedBookmarksCmd.label "வாரிசைப்படுத்தாத புத்தககக்குறிகள்">
-<!ENTITY videoHideStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "புள்ளிவிவரங்களை மறை">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoSaveImage.label        "ஸ்னாப் ஷாட்டை இவ்வாறு சேமி…">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoShowStats.label        "புள்ளிவிவரங்களைக் காண்பி">
-<!ENTITY webConsoleButton.label "இணைய சாதன முனை">
-<!ENTITY webDeveloperMenu.accesskey   "W">
-<!ENTITY webDeveloperMenu.label       "இணைய உருவாக்குநர்">
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
 
+<!ENTITY markupButton.arialabel          "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label   "Not logged in">
+
+<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "பக்கப்பட்டியை காட்டு">
+<!ENTITY social.toggleSidebar.accesskey "ப">
+
+<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "செயல்நீக்கு">
+<!ENTITY social.activated.undobutton.accesskey "U">

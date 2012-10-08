@@ -2,43 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label "துவக்கம்">
+<!ENTITY startup.label             "துவக்கம்">
 
-<!ENTITY startupPage.label "&brandShortName; துவக்கப்படும் போது:">
-<!ENTITY startupPage.accesskey "s">
-<!ENTITY startupHomePage.label "என்னுடைய முதன்னமை பக்கத்தைக் காட்டு">
-<!ENTITY startupBlankPage.label "ஒரு வெற்று பக்கத்தைக் காட்டு">
-<!ENTITY startupLastSession.label "கடைசி நேரத்திலிருந்து என் சாளரங்களை மற்றும் தத்தல்களை காட்டு">
-<!ENTITY useCurrentPage.label "நடப்பு பக்கத்தை பயன்படுத்து">
-<!ENTITY useCurrentPage.accesskey "C">
-<!ENTITY useMultiple.label "நடப்பு பக்கங்களை பயன்படுத்து">
+<!ENTITY startupPage.label         "&brandShortName; துவக்கப்படும் போது:">
+<!ENTITY startupPage.accesskey     "த">
+<!ENTITY startupHomePage.label     "என்னுடைய முகப்பு பக்கத்தைக் காட்டு">
+<!ENTITY startupBlankPage.label    "ஒரு வெற்று பக்கத்தைக் காட்டு">
+<!ENTITY startupLastSession.label  "கடைசி நேரத்திலிருந்து என் சாளரங்களை மற்றும் தத்தல்களை காட்டு">
 
-<!ENTITY restoreDefault.label "முன்னிருப்பு மாற்று">
-<!ENTITY restoreDefault.accesskey "R">
 <!ENTITY homepage.label            "முகப்பு பக்கம்:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY downloads.label "பதிவிறக்கங்கள்">
+<!ENTITY useCurrentPage.label      "நடப்பு பக்கத்தை பயன்படுத்து">
+<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useMultiple.label         "நடப்பு பக்கங்களை பயன்படுத்து">
+<!ENTITY chooseBookmark.label      "புக்மார்க்கை பயன்படுத்தவும்...">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreDefault.label      "முன்னிருப்பு மாற்று">
+<!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY showWhenDownloading.label "பதிவிறக்கங்கள் சாளரத்தை ஒரு கோப்பினை பதிவிறக்கும் போது காட்டு">
+<!ENTITY downloads.label     "பதிவிறக்கங்கள்">
+
+<!ENTITY showWhenDownloading.label     "பதிவிறக்கங்கள் சாளரத்தை ஒரு கோப்பினை பதிவிறக்கும் போது காட்டு">
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "அனைத்து பதிவிறக்கங்களும் முடிந்தவுடன் அதை மூடவும்">
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "கோப்புகளை இதற்கு சேமி">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label "உலாவு...">
-<!ENTITY chooseFolderWin.accesskey "o">
-<!ENTITY chooseFolderMac.label "தேர்ந்தெடு...">
-<!ENTITY chooseFolderMac.accesskey "e">
+<!ENTITY chooseFolderWin.label        "உலாவு...">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "தேர்ந்தெடு...">
+<!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "எங்கே கோப்புகளை சேமிக்க வேண்டுமென எப்போதும் என்னிடம் கேள்">
 <!ENTITY alwaysAsk.accesskey "A">
 
-
-<!--XXX-->
-
-<!ENTITY addonsMgr.label "கூடுதல் வசதிகள்">
+<!ENTITY addonsMgr.label               "கூடுதல் வசதிகள்">
 <!ENTITY manageAddonsDescWin.label     "உங்கள் கூடுதல் இணைப்புகளுக்கு விருப்பங்களை மாற்று">
 <!ENTITY manageAddonsDescUnix2.label   "உங்கள் கூடுதல் இணைப்புகள்க்கு முன்னுரிமைகளை மாற்று">
-<!ENTITY manageAddons.label "கூடுதல் இணைப்புகளை மேலாண்மை செய்...">
-<!ENTITY manageAddons.accesskey "M">
-<!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY chooseBookmark.label      "புத்தகக்குறியைப் பயன்படுத்து…">
+<!ENTITY manageAddons.label            "கூடுதல் இணைப்புகளை மேலாண்மை செய்...">
+<!ENTITY manageAddons.accesskey        "M">

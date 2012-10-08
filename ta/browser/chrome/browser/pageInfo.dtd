@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -55,6 +53,7 @@
 <!ENTITY  permTab               "அனுமதிகள்">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "முன்னிருப்பைப் பயன்படுத்து">
+<!ENTITY  permAskAlways         "எப்போதும் கேள்">
 <!ENTITY  permAllow             "அனுமதி">
 <!ENTITY  permAllowSession      "அமர்வுக்கு அனுமதி">
 <!ENTITY  permBlock             "தடு">
@@ -63,6 +62,13 @@
 <!ENTITY  permPopup             "பாப்பப் சாளரங்களை திற">
 <!ENTITY  permCookie            "குக்கீகளை அமை">
 <!ENTITY  permInstall           "விரிவாக்கங்கள் அல்லது தீம்களை நிறுவு">
+<!ENTITY  permGeo               "இடத்தைப் பகிர்">
+<!ENTITY  permPlugins           "Activate Plugins">
+<!ENTITY  permFullscreen        "Enter Fullscreen">
+
+<!ENTITY  permIndexedDB              "ஆஃப்லைன் சேமிப்பகத்தை பராமரிக்கவும்">
+<!ENTITY  permClearStorage           "சேமிப்பகத்தை துடை">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "பாதுகாப்பு">
 <!ENTITY  securityTab.accesskey "S">
@@ -87,12 +93,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "தொழில்நுட்ப விவரங்கள்">
-
-<!ENTITY  permAskAlways         "எப்போதும் கேள்">
-<!ENTITY  permGeo               "இடத்தைப் பகிர்">
-<!ENTITY  permClearStorage           "சேமிப்பகத்தை துடை">
-<!ENTITY  permClearStorage.accesskey "C">
-<!ENTITY  permIndexedDB              "ஆஃப்லைன் சேமிப்பகத்தை பராமரிக்கவும்">
-<!ENTITY  permFullscreen        "முழுத்திரைக்குச் செல்">
-<!ENTITY  permPlugins           "செருகுநிரல்களைச் செயல்படுத்து">
-

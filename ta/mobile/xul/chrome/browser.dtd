@@ -1,0 +1,126 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "Enter Search or Address">
+
+<!ENTITY back.label            "Back">
+<!ENTITY forward.label         "Forward">
+<!ENTITY reload.label          "Reload">
+<!ENTITY stop.label            "Stop">
+<!ENTITY go.label              "Go">
+<!ENTITY star.label            "Star">
+
+<!ENTITY showTabs.label        "Show Tabs">
+<!ENTITY newtab.label          "New Tab">
+<!ENTITY closetab.label        "Close Tab">
+
+<!ENTITY cut.label             "வெட்டு">
+<!ENTITY copy.label            "நகலெடு">
+<!ENTITY copyAll.label         "Copy All">
+<!ENTITY copylink.label        "Copy Link Location">
+<!ENTITY paste.label           "ஒட்டு">
+<!ENTITY pasteAndGo.label      "Paste &amp; Go">
+<!ENTITY delete.label          "Delete">
+<!ENTITY selectAll.label       "Select All">
+<!ENTITY noSuggestions.label   "(No suggestions)">
+<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY inputMethod.label     "Select Input Method">
+
+<!ENTITY allPagesHeader.label      "All Pages">
+<!ENTITY bookmarksHeader.label     "Bookmarks">
+<!ENTITY historyHeader.label       "வரலாறு">
+<!ENTITY desktopHeader.label       "பணிமேடை">
+
+<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
+<!ENTITY editBookmarkDone.label    "Done">
+<!ENTITY editBookmarkTags.label    "Add tags here">
+
+<!ENTITY selectHelper.done         "Done">
+
+<!ENTITY addonsHeader.label        "Add-ons">
+<!ENTITY addonsLocal.label         "Your Add-ons">
+<!ENTITY addonsUpdate.label        "Update">
+<!ENTITY addonsRepo.label          "கூடுதல் இணைப்புகளை பெறு">
+<!ENTITY addonsRecommended.label   "Recommended">
+<!ENTITY addonsSearch.label        "தேடுதல்">
+<!ENTITY addonsSearch2.emptytext   "Search Catalog">
+<!ENTITY addonsSearch.recommended  "Recommended">
+
+<!ENTITY addonOptions.label        "Options">
+<!ENTITY addonEnable.label         "செயல்படுத்து">
+<!ENTITY addonDisable.label        "செயல்நீக்கு">
+<!ENTITY addonInstall2.label       "Add to &brandShortName;">
+<!ENTITY addonUninstall.label      "Uninstall">
+<!ENTITY addonCancel.label         "Cancel">
+<!ENTITY addonShowPage.label       "Go to Page">
+
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadShowPage.label    "Go to Page">
+<!ENTITY downloadShow2.label       "Find">
+<!ENTITY downloadOpen2.label       "திற">
+<!ENTITY downloadCancel.label      "Cancel">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "தொடரவும்">
+<!ENTITY downloadRetry.label       "Retry">
+<!ENTITY downloadRemove.label      "Remove">
+<!ENTITY downloadDelete.label      "Delete">
+<!ENTITY downloadFailed.label      "தோல்வியுற்றது">
+
+<!ENTITY noResults.label           "No results">
+<!ENTITY allBookmarks.label        "See all bookmarks">
+
+<!ENTITY bookmarkPopup.label       "பக்கம் புத்தகக்குறியிடப்பட்டது">
+<!ENTITY bookmarkRemove.label      "Remove">
+<!ENTITY bookmarkEdit.label        "Edit">
+<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
+
+<!ENTITY identity.unverifiedsite2 "இந்த இணையதளம் அடையாள தகவலைக் கொடுக்கவில்லை.">
+<!ENTITY identity.connectedTo2 "Connected to">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "run by">
+
+<!ENTITY consoleHeader.label       "Error Console">
+<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleErrors.label       "பிழைகள்">
+<!ENTITY consoleWarnings.label     "எச்சரிக்கைகள்">
+<!ENTITY consoleMessages.label     "Messages">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "துடை">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "மூல கோப்பு:">
+<!ENTITY consoleErrLine.label      "வரி:">
+<!ENTITY consoleErrColumn.label    "நெடுவரிசை:">
+
+<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
+<!ENTITY contextSaveImage.label       "படத்தை சேமி">
+<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
+<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextSaveVideo.label       "வீடியோவை சேமி">
+<!ENTITY contextShareVideo.label      "Share Video">
+<!ENTITY contextPlayMedia.label       "Play">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextEditBookmark.label    "Edit">
+<!ENTITY contextRemoveBookmark.label  "Remove">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
+
+<!ENTITY pageactions.saveas.pdf      "Save As PDF">
+<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.password.forget "Forget Password">
+<!ENTITY pageactions.quit            "Quit">
+<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "தேடும் பொறியைச் சேர்">
+<!ENTITY pageactions.charEncoding    "எழுத்து குறிமுறை">
+
+<!ENTITY appMenu.siteOptions         "Site Options">
