@@ -10,7 +10,7 @@
 <!ENTITY move.label "Új levélszemét áthelyezése:">
 <!ENTITY move.accesskey "t">
 <!ENTITY junkFolderOn.label "„Szemét” mappa:">
-<!ENTITY junkFolderOn.accesskey "S">
+<!ENTITY junkFolderOn.accesskey "z">
 <!ENTITY otherFolder.label "Másik:">
 <!ENTITY otherFolder.accesskey "M">
 <!ENTITY purge1.label "A levélszemétként megjelölt üzenetek törlése">

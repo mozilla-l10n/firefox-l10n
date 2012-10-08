@@ -9,7 +9,7 @@
 <!ENTITY addressingText.label      "E-mail címek keresésekor:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "A globális LDAP-kiszolgáló beállításainak használata ennél a postafióknál">
-<!ENTITY useGlobal.accesskey       "A">
+<!ENTITY useGlobal.accesskey       "D">
 <!ENTITY editDirectories.label     "Címtárak szerkesztése…">
 <!ENTITY editDirectories.accesskey "C">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
@@ -32,7 +32,7 @@
 <!ENTITY belowQuote.label                     "a válasz kezdése az idézett szöveg alatt">
 <!ENTITY selectAndQuote.label                 "az idézett szöveg kijelölése">
 <!ENTITY place.label                          "Az aláírás elhelyezése">
-<!ENTITY place.accesskey                      "A">
+<!ENTITY place.accesskey                      "e">
 <!ENTITY belowText.label                      "az idézet alá (javasolt)">
 <!ENTITY aboveText.label                      "a válasz alá (az idézet fölé)">
 <!ENTITY includeSigOnReply.label              "Aláírás a válaszoknál">
