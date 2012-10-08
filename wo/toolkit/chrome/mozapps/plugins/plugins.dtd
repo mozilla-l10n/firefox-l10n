@@ -33,8 +33,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Laalal fii ngir sajj plugin bi.">
 <!ENTITY clickToPlayPlugin                                   "Cuqal fii ngir sajj plugin bi.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Cuqal fii ngir sajj plugin bu nooy.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Cuqal fii ngir sajj plugin bu nooy (amul benn yeesal bu féex).">
 <!ENTITY checkForUpdates                                     "Wut ay mottali…">
 <!ENTITY disabledPlugin                                      "Plugin dafa suux.">
 <!ENTITY blockedPlugin.label                                 "Plugin bii dañu ko boloke ngir sa kaarange.">
