@@ -123,7 +123,8 @@ size. -->
 <!ENTITY share_image_failed "Foi imposíbel compartir esta imaxe">
 <!ENTITY save_as_pdf "Gardar como PDF">
 <!ENTITY find_in_page "Atopar na páxina">
-<!ENTITY desktop_mode "Solicitar sitio de escritorio">
+<!ENTITY desktop_mode "Sitio de escritorio">
+<!ENTITY tools "Ferramentas">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
