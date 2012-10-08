@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "Configurando &brandShortName;">
 <!ENTITY  splash_bookmarks_history "Estamos actualizando os seus marcadores e o historial, isto pode levarlle un minuto ou dous.">
@@ -11,7 +15,7 @@
 <!ENTITY  awesomebar_search_engine "Buscar por \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Informador de erros do &brandShortName;">
-<!ENTITY  crash_message "Fallou o &brandShortName;. As súas lapelas deberían mostrarse na páxina de inicio do &brandShortName; ao reiniciar.">
+<!ENTITY  crash_message "Fallou o &brandShortName;. As súas lapelas deberían amosarse na páxina de inicio do &brandShortName; ao reiniciar.">
 <!ENTITY  crash_help_message "Axúdanos a arranxar este problema!">
 <!ENTITY  crash_send_report_message "Enviar a Mozilla un informe de erro">
 <!ENTITY  crash_include_url "Incluír o enderezo da páxina">
@@ -29,11 +33,11 @@
 <!ENTITY awesomebar_default_text "Introducir busca ou enderezo">
 
 <!ENTITY remote_tabs "Lapelas sincronizadas">
-<!ENTITY remote_tabs_show_all "Mostrar todas as lapelas">
+<!ENTITY remote_tabs_show_all "Amosar todas as lapelas">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Engadiuse o marcador">
-<!ENTITY bookmark_removed "Eliminouse o marcador">
+<!ENTITY bookmark_removed "Retirouse o marcador">
 <!ENTITY bookmark_updated "Actualizouse o marcador">
 
 <!ENTITY history_today_section "Hoxe">
@@ -70,8 +74,8 @@
 <!ENTITY pref_remember_signons "Lembrar os contrasinais">
 <!ENTITY pref_cookies "Activar cookies">
 <!ENTITY pref_char_encoding "Codificación de caracteres">
-<!ENTITY pref_char_encoding_on "Mostrar o menú">
-<!ENTITY pref_char_encoding_off "Non mostrar o menú">
+<!ENTITY pref_char_encoding_on "Amosar o menú">
+<!ENTITY pref_char_encoding_off "Non amosar o menú">
 <!ENTITY pref_clear_private_data "Limpar os datos privados">
 <!ENTITY pref_plugins "Engadidos">
 <!ENTITY pref_plugins_enabled "Activado">
@@ -147,7 +151,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Localización">
 <!ENTITY bookmark_edit_keyword "Palabra chave">
 
-<!ENTITY site_settings_title        "Limpar a configuración do sitio">
+<!ENTITY site_settings_title2       "Configuración do sitio…">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Non hai configuracións para limpar.">
@@ -159,7 +163,7 @@ size. -->
 <!ENTITY reader_mode "Modo de lectura">
 
 <!ENTITY masterpassword_create_title "Crear contrasinal principal">
-<!ENTITY masterpassword_remove_title "Eliminar contrasinal principal">
+<!ENTITY masterpassword_remove_title "Retirar contrasinal principal">
 <!ENTITY masterpassword_password "Contrasinal">
 <!ENTITY masterpassword_confirm "Confirmar o contrasinal">
 
