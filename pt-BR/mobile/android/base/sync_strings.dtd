@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar o &syncBrand.shortName.label; para enviar abas">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configurar o &syncBrand.fullName.label; no seu dispositivo para enviar abas para outros dispositivos.">
 <!ENTITY sync.text.tab.sent.label "Sua aba foi enviada!">
+<!ENTITY sync.text.tab.not.sent.label "Houve um problema ao enviar sua aba.">

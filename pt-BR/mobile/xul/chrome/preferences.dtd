@@ -11,9 +11,9 @@
 <!ENTITY enableJavaScript.title                    "Permitir JavaScript">
 <!ENTITY privacy.title                             "Privacidade e segurança">
 <!ENTITY allowCookies.title                        "Permitir cookies">
-<!ENTITY doNotTrack.title                          "Pedir para não me rastrear">
+<!ENTITY doNotTrack.title                          "Pedir para não ser rastreado">
 <!ENTITY masterPassword.title                      "Usar senha mestra">
-<!ENTITY clearPrivateData2.title                   "Limpar dados pessoais">
+<!ENTITY clearPrivateData2.title                   "Limpar dados de navegação">
 <!ENTITY clearPrivateData.button                   "Limpar">
 <!ENTITY rememberPasswords.title                   "Memorizar senhas">
 <!ENTITY language.title                            "Idioma">
