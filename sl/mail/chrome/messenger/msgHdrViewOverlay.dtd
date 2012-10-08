@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "natisni …">
 <!ENTITY otherActionsPrint1.accesskey "T">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Na začetku prikaži pano s prilogami">
+<!ENTITY startExpandedCmd.accesskey    "S">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Odpri">
 <!ENTITY openAttachmentCmd.accesskey    "O">

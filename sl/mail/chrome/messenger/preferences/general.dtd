@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "&brandShortName;: domača stran">
 <!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, prikaži domačo stran v polju sporočila">
 <!ENTITY enableStartPage.accesskey        "L">
@@ -27,9 +31,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Prebrskaj …">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "Razširitve in teme">
-<!ENTITY manageAddonsDescWin.label        "Spremeni nastavitve razširitev in tem">
-<!ENTITY manageAddonsDescUnix2.label      "Spremeni nastavitve razširitev in tem">
-<!ENTITY manageAddons.label               "Urejaj razširitve">
-<!ENTITY manageAddons.accesskey           "M">
