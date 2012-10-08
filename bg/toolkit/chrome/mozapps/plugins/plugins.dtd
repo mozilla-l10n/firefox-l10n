@@ -33,8 +33,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Натиснете тук за активиране на приставка.">
 <!ENTITY clickToPlayPlugin                                   "Натиснете тук за активиране на приставка.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Натиснете тук, за да активирате уязвима приставка.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Натиснете тук, за да активирате уязвима приставка (няма налично обновяване).">
 <!ENTITY checkForUpdates                                     "Проверка за обновяване…">
 <!ENTITY disabledPlugin                                      "Тази приставка е деактивирана.">
 <!ENTITY blockedPlugin.label                                 "Приставката беше блокирана от съобрания за сигурност.">
