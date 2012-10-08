@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
+     fun and playful. Please feel free to adjust the tone as works best in
+     your language and/or locale. More detailed notes below. -->
+
+<!ENTITY pageTitle                 "Sua opinião sobre o &brandShortName;">
+
+<!ENTITY intro.header              "Tem um minutinho?">
+<!ENTITY intro.message             "Diga-nos o que achou do &brandShortName; para Android até o momento.">
+<!ENTITY intro.happyLink           "Adorei">
+<!ENTITY intro.sadLink             "Tive alguns problemas">
+<!ENTITY intro.ideaLink            "Tenho uma ideia">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre               "Caso precise de ajuda ou se teve problemas com o &brandShortName;, por favor, visite o ">
+<!ENTITY support.link              "suporte do &brandShortName;">
+<!ENTITY support.post              ".">
+
+<!ENTITY happy.header              "É bom ouvir isso!">
+
+<!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
+<!ENTITY happy.message             "Deseja compartilhar? Nos dê uma classificação 5 estrelas no Google Play.">
+
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+<!ENTITY happy.finePrint           "É rapidinho e não custa nada.">
+
+<!ENTITY happy.ratingLink          "Sim, abrir o Google Play">
+<!ENTITY happy.maybeLater          "Talvez depois">
+<!ENTITY happy.noThanks            "Não, obrigado">
+
+<!ENTITY sad.message               "Sentimos muito pelos problemas que você teve com o &brandShortName;. Por favor, conte-nos o que ocorreu para que possamos resolver.">
+<!ENTITY sad.placeholder           "Forneça sua opinião aqui">
+<!ENTITY sad.lastSite              "Último site visitado (opcional)">
+
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "Obrigado por nos informar.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
+     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+<!ENTITY sad.thanksMessageTop      "Estamos sempre trabalhando para tornar o &brandShortName; melhor. Tenha certeza que pessoas de verdade lerão sua opinião e farão o melhor para resolver o problema.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
+     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
+     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+<!ENTITY sad.thanksMessageBottom   "Ou cabeças rolarão.">
+
+<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
+     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
+     to tell us anything they're thinking about. -->
+<!ENTITY idea.message              "Gostaremos de ouvir suas ideias! Compartilhe-as abaixo (mas apenas as sobre o &brandShortName;, por favor).">
+<!ENTITY idea.placeholder          "Forneça sua ideia aqui">
+<!ENTITY idea.thanksHeader         "Obrigado!">
+
+<!ENTITY idea.thanksMessageTop     "Agradecemos o tempo dispensado para compartilhar os seus pensamentos conosco. Estamos sempre trabalhando para tornar o &brandShortName; melhor e contribuições como a sua podem levar a grandes realizações.">
+
+<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
+     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
+     something physical, which is why they can't see it.-->
+<!ENTITY idea.thanksMessageBottom  "Você não consegue ver, mas estamos lhe cumprimentando neste momento.">
+
+<!ENTITY feedback.privacy          "Para sua privacidade, por favor, não inclua em sua opinião informações que possam lhe identificar.">
+<!ENTITY feedback.send             "Dê a sua opinião">
