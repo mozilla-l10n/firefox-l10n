@@ -30,13 +30,13 @@
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Olvasott üzenetek törlése mindig (kor nem számít)">
 <!ENTITY retentionApplyToFlagged.label "Csillagozott üzenetek megtartása">
-<!ENTITY retentionApplyToFlagged.accesskey "C">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Üzenettörzsek törlése, ha régebbiek, mint">
 <!ENTITY nntpRemoveMsgBody.accesskey "t">
 <!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához…">
 <!ENTITY offlineSelectNntp.accesskey "k">
 <!ENTITY offlineImapAdvancedOffline.label "Speciális…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "H">
+<!ENTITY offlineImapAdvancedOffline.accesskey "c">
 <!ENTITY syncGroupTitle.label "Üzenetek szinkronizálása">
 <!ENTITY diskspaceGroupTitle.label "Lemezterület">
 
@@ -47,7 +47,7 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 <!ENTITY allAutosync.label               "Minden üzenet szinkronizálása helyben kortól függetlenül">
-<!ENTITY allAutosync.accesskey           "M">
+<!ENTITY allAutosync.accesskey           "h">
 <!ENTITY ageAutosyncBefore.label         "A legutóbbi">
 <!ENTITY ageAutosync.accesskey           "l">
 <!ENTITY ageAutosyncMiddle.label         "">

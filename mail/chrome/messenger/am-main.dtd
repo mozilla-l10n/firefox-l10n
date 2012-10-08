@@ -6,7 +6,7 @@
 
 <!ENTITY accountTitle.label "Postafiók beállításai">
 <!ENTITY accountName.label "Postafiók neve:">
-<!ENTITY accountName.accesskey "P">
+<!ENTITY accountName.accesskey "f">
 <!ENTITY identityTitle.label "Alapértelmezett személyazonosság">
 <!ENTITY identityDesc.label "Minden postafióknál be lehet állítani különböző személyi adatokat, ezeket a címzett látja a levél olvasásakor">
 <!ENTITY name.label "Név:">

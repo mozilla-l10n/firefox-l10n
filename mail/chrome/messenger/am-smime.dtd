@@ -27,6 +27,6 @@
 
 <!ENTITY certificates.label "Tanúsítványok">
 <!ENTITY manageCerts.label "Tanúsítványok megjelenítése">
-<!ENTITY manageCerts.accesskey "T">
+<!ENTITY manageCerts.accesskey "n">
 <!ENTITY manageDevices.label "Adatvédelmi eszközök">
 <!ENTITY manageDevices.accesskey "A">
