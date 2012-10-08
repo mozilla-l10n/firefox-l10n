@@ -88,3 +88,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.'>
 <!ENTITY sync.text.tab.sent.label 'Karta wysłana!'>
+<!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>

@@ -41,6 +41,8 @@
 <!ENTITY history_week_section "7 dni temu">
 <!ENTITY history_older_section "Starsze niż 7 dni">
 
+<!ENTITY go "Przejdź">
+<!ENTITY search "Szukaj">
 <!ENTITY reload "Odśwież">
 <!ENTITY forward "Do przodu">
 <!ENTITY menu "Menu">
@@ -81,16 +83,23 @@
 <!ENTITY pref_font_size_medium "Średni">
 <!ENTITY pref_font_size_large "Duży">
 <!ENTITY pref_font_size_xlarge "Bardzo duży">
+<!ENTITY pref_font_size_set "Ustaw">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "Aa">
+
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_import_android "Importuj z Androida">
 <!ENTITY pref_private_data_history "Historia przeglądania i pobierania">
 <!ENTITY pref_private_data_formdata "Historia wyszukiwania i formularzy">
-<!ENTITY pref_private_data_cookies "Ciasteczka">
+<!ENTITY pref_private_data_cookies2 "Ciasteczka i aktywne zalogowania">
 <!ENTITY pref_private_data_passwords "Zapamiętane hasła">
 <!ENTITY pref_private_data_cache "Pamięć podręczna">
-<!ENTITY pref_private_data_sessions "Aktywne zalogowania">
 <!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
 <!ENTITY pref_private_data_siteSettings "Ustawienia witryny">
 
@@ -132,7 +141,7 @@
 <!ENTITY bookmark_edit_location "Adres URL">
 <!ENTITY bookmark_edit_keyword "Słowa kluczowe">
 
-<!ENTITY site_settings_title        "Wyczyść ustawienia witryny">
+<!ENTITY site_settings_title2       "Wyczyść ustawienia witryny…">
 <!ENTITY site_settings_cancel       "Anuluj">
 <!ENTITY site_settings_clear        "Wyczyść">
 <!ENTITY site_settings_no_settings  "Brak ustawień">
@@ -158,9 +167,19 @@
 <!ENTITY abouthome_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
 <!ENTITY abouthome_top_sites_title "Najczęstsze">
 <!ENTITY abouthome_top_sites_browse "Zobacz wszystkie">
-<!ENTITY abouthome_no_top_sites "Nie masz jeszcze najczęściej odwiedzanych stron. Dotknij paska adresu, aby zacząć przeglądać Sieć.">
-<!ENTITY abouthome_about_sync "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Zainstaluj aplikacje z Mozilla Marketplace i odkryj to, co najlepsze w Sieci&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Wybierz plik">
 <!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
@@ -183,3 +202,19 @@
 <!ENTITY bookmarkhistory_import_wait "Proszę czekać…">
 
 <!ENTITY webapp_generic_name "Aplikacja">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
+<!ENTITY updater_start_select "Wybierz, aby pobrać aktualizację.">
+
+<!ENTITY updater_downloading_title "Pobieranie: &brandShortName;">
+<!ENTITY updater_downloading_ticker "Pobieranie aktualizacji programu &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Wystapił błąd przy pobieraniu aktualizacji programu &brandShortName;&#8230;">
+<!ENTITY updater_downloading_select "Wybierz, aby zainstalować aktualizację.">
+<!ENTITY updater_downloading_retry "Wybierz, aby ponownie pobrać aktualizację.">
+<!ENTITY updater_downloading_willapply "Oczekiwanie na zakończenie pobierania.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
+<!ENTITY updater_apply_select "Wybierz, aby zainstalować aktualizację.">
