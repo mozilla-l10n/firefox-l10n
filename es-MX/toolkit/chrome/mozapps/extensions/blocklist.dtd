@@ -1,6 +1,6 @@
 <!ENTITY blocklist.title "Algunos complementos pueden estar causando problemas">
 <!ENTITY blocklist.style "width: 45em; height: 30em">
-<!ENTITY blocklist.summary "&brandShortName; ha determinado que, los siguientes complementos, son conocidos por causar problemas de estabilidad o seguridad:">
+<!ENTITY blocklist.summary "&brandShortName; ha determinado que los siguientes complementos son conocidos por causar problemas de estabilidad o seguridad:">
 <!ENTITY blocklist.softblocked "Para tu protección, te recomendamos ampliamente reiniciar con estos complementos deshabilitados.">
 <!ENTITY blocklist.hardblocked "Estos complementos tienen un gran riesgo de causar problemas de estabilidad o seguridad y se han bloqueado, pero es necesario reiniciar para hacerlo completamente.">
 <!ENTITY blocklist.softandhard "Los complementos con un riesgo alto de causar problemas de estabilidad o seguridad han sido bloqueados. Los demás tienen un riesgo menor, pero le recomendamos ampliamente desactivarlos y reiniciar.">

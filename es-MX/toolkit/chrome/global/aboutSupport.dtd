@@ -1,6 +1,6 @@
 <!ENTITY aboutSupport.pageTitle "Información para solucionar problemas">
 <!ENTITY aboutSupport.pageSubtitle "
-Esta página presenta información técnica que puede ser de ayuda si necesitas resolver un problema. Para obtener respuestas a preguntas comúnes sobre &brandShortName; visita nuestro <a id='supportLink'>sitio web de soporte</a>.
+Esta página presenta información técnica que puede ser de ayuda si necesitas resolver un problema. Para obtener respuestas a preguntas comunes sobre &brandShortName; visita nuestro <a id='supportLink'>sitio web de soporte</a>.
 ">
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nombre">
@@ -28,7 +28,7 @@ Esta página presenta información técnica que puede ser de ayuda si necesitas 
 <!ENTITY aboutSupport.jsIncrementalGC "Recogida de basura incremental">
 <!ENTITY aboutSupport.a11yTitle "Accesibilidad">
 <!ENTITY aboutSupport.a11yActivated "Activado">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevenir accesibilidad">
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotecas">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
