@@ -92,4 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Suidhich &syncBrand.shortName.label; gus tabaichean a chur">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Suidhich &syncBrand.fullName.label; air an uidheam agad gus tabaichean a chur gu uidheaman eile.">
 <!ENTITY sync.text.tab.sent.label "Chaidh an taba agad a chur!">
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+<!ENTITY sync.text.tab.not.sent.label "Thachair duilgheadas nuair a chuir sinn a taba agad.">
