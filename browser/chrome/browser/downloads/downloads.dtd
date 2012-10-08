@@ -1,5 +1,6 @@
 <!ENTITY indicator.tooltiptext "Descargas">
 <!ENTITY downloads.title "Descargas">
+<!ENTITY downloads.width "65ch">
 <!ENTITY cmd.pause.label "Pausar">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.label "Reanudar">
@@ -19,5 +20,3 @@
 <!ENTITY cmd.removeFromList.accesskey "q">
 <!ENTITY cmd.clearList.label "Limpiar lista">
 <!ENTITY cmd.clearList.accesskey "a">
-<!ENTITY downloadshistory.label "Mostrar todas las descargas">
-<!ENTITY downloadshistory.accesskey "M">
