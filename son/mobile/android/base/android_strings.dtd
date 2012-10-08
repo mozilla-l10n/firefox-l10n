@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "A ga too jirbi 7">
 <!ENTITY history_older_section "A ga bisa jirbi 7">
 
+<!ENTITY go "Koy">
+<!ENTITY search "Ceeci">
 <!ENTITY reload "Dam taaga">
 <!ENTITY forward "Jine">
 <!ENTITY menu "Šilbayboŋ">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Sasawante">
 <!ENTITY pref_font_size_large "Beeri">
 <!ENTITY pref_font_size_xlarge "Bebbeeri">
+<!ENTITY pref_font_size_set "Set">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Zaa Android ra">
 <!ENTITY pref_private_data_history "Ceeciyan &amp; zumandiyan taariki">
 <!ENTITY pref_private_data_formdata "Šeedatiirawey &amp; ceeciyan taariki">
-<!ENTITY pref_private_data_cookies "Aleewawey">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Tugudoo">
-<!ENTITY pref_private_data_sessions "Ciyari goyantey">
 <!ENTITY pref_private_data_offlineApps "Bila-nda-ciyari Interneti nungu bayhayey">
 <!ENTITY pref_private_data_siteSettings "Nungu ibaayey">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Gorodoo">
 <!ENTITY bookmark_edit_keyword "Kufalkalima">
 
-<!ENTITY site_settings_title        "Nungoo kayandiyaney tuusu">
+<!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "Naŋ">
 <!ENTITY site_settings_clear        "Tuusu">
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Cee kora nor lokey kul feeri">
 <!ENTITY abouthome_top_sites_title "Nungu kaasey">
 <!ENTITY abouthome_top_sites_browse "War nungu kaasey kul guna">
-<!ENTITY abouthome_no_top_sites "War ši nungu kaasayaŋ kul jina. Tiira-maa žeeroo naagu ka naarumi šintin.">
-<!ENTITY abouthome_about_sync "Firefox Sync kayandi ka duu doo-šilbawey, taarikoo nda nor lokey war jinay taney ga">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Tuku suuba">
 <!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
@@ -201,3 +224,19 @@ Android ra">
 <!ENTITY bookmarkhistory_import_wait "Batu taare...">
 
 <!ENTITY webapp_generic_name "App">
+<!-- Updater notifications -->
+
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_start_select "Select to download update.">
+
+<!ENTITY updater_downloading_title "Goo ma &brandShortName; zumandi">
+<!ENTITY updater_downloading_ticker "Downloading &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Failed to download &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_select "Select to apply update when complete.">
+<!ENTITY updater_downloading_retry "Select to retry update download.">
+<!ENTITY updater_downloading_willapply "Waiting for download to complete.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_apply_select "Select to apply downloaded update.">
