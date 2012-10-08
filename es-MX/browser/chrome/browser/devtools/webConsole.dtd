@@ -15,6 +15,8 @@
 <!ENTITY networkPanel.responseImageCached "Imagen en caché">
 <!ENTITY saveBodies.label "Log Request and Response Bodies">
 <!ENTITY saveBodies.accesskey "L">
+<!ENTITY openURL.label "Open URL in New Tab">
+<!ENTITY openURL.accesskey "T">
 <!ENTITY btnPageNet.label "Net">
 <!ENTITY btnPageNet.tooltip "Log network access">
 <!ENTITY btnPageCSS.label "CSS">
@@ -43,3 +45,5 @@
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY copyURLCmd.label "Copy Link Location">
+<!ENTITY copyURLCmd.accesskey "a">
