@@ -2,37 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY errorConsole.title "பிழைப் பணியகம்">
+<!ENTITY errorConsole.title "Error Console">
 
-<!ENTITY errFile.label "மூல கோப்பு:">
-<!ENTITY errLine.label "வரி:">
+<!ENTITY errFile.label   "மூல கோப்பு:">
+<!ENTITY errLine.label   "வரி:">
 <!ENTITY errColumn.label "நெடுவரிசை:">
 
-<!ENTITY all.label "எல்லாம்">
-<!ENTITY all.accesskey "A">
-<!ENTITY errors.label "பிழைகள்">
-<!ENTITY errors.accesskey "E">
-<!ENTITY warnings.label "எச்சரிக்கைகள்">
+<!ENTITY all.label          "எல்லாம்">
+<!ENTITY all.accesskey      "A">
+<!ENTITY errors.label       "பிழைகள்">
+<!ENTITY errors.accesskey   "E">
+<!ENTITY warnings.label     "எச்சரிக்கைகள்">
 <!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label "செய்திகள்">
+<!ENTITY messages.label     "செய்திகள்">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label "தூய்மையாக்கு">
-<!ENTITY clear.accesskey "C">
-<!ENTITY codeEval.label "Code:">
+<!ENTITY clear.label        "தூய்மையாக்கு">
+<!ENTITY clear.accesskey    "C">
+<!ENTITY codeEval.label     "Code:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label "மதிப்பளி">
+<!ENTITY evaluate.label     "மதிப்பளி">
 <!ENTITY evaluate.accesskey "v">
-
-<!ENTITY copyCmd.label "நகல்">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "First > கடைசியாக அடுக்கிய வரிசை">
-<!ENTITY sortFirst.accesskey "f">
-<!ENTITY sortLast.label "Last > முதல் அடுக்கு வரிசை">
-<!ENTITY sortLast.accesskey "l">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY filter.label       "Filter">
 <!ENTITY filter.accesskey   "F">
-<!ENTITY filter.label       "வடிகட்டி">
 
+<!ENTITY copyCmd.label       "நகல்">  
+<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "First > கடைசியாக அடுக்கிய வரிசை">
+<!ENTITY sortFirst.accesskey "F">
+<!ENTITY sortLast.label      "Last > முதல் அடுக்கு வரிசை">
+<!ENTITY sortLast.accesskey  "L">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

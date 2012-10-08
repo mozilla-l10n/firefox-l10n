@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncKey.page.title               "உங்கள் &syncBrand.fullName.label; விசை">
+<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
 <!ENTITY syncKey.page.description         "This key is  used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
 <!ENTITY syncKey.keepItSecret.heading     "இரசிகயமாக வைத்து கொள்ளவும்">
 <!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to  protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">

@@ -2,4 +2,4 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY xml.nostylesheet "XML கோப்பில் பாணி தகவல் கொண்ட ஆவணம் எதுவுமில்லை. ஆவண கிளை கீழே காட்டப்பட்டுள்ளது.">
+<!ENTITY xml.nostylesheet "This XML file does not appear to have any style information associated with it. The document tree is shown below.">

@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label                "பொதுவானது">
+
+<!ENTITY generalTab.label                "பொது">
 
 <!ENTITY accessibility.label             "அணுகக்கூடியது">
 
@@ -21,14 +21,22 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "மென்மையான உருளலை பயன்படுத்து">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "நான் தட்டச்சு செய்தவாறு பிழை சரிபார்க்கவும்">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "கணினி முன்னிருப்புகள்">
-<!ENTITY alwaysCheckDefault.label        "துவக்கத்தில் எப்போதும் &brandShortName; முன்னிருப்பு உலாவியாக இருக்கிறதா என சரி பார்க்கவும்"><!--XXX-->
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "துவக்கத்தில் எப்போதும் &brandShortName; முன்னிருப்பு உலாவியாக இருக்கிறதா என சரி பார்க்கவும்">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-
-
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY submitCrashes.label             "க்ராஷ் அறிக்கைகளை சமர்ப்பி">
+<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "செயல்திறன் தரவை சமர்ப்பி">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "பிணையம்">
 
@@ -38,40 +46,55 @@
 <!ENTITY connectionSettings.label        "அமைவுகள்…">
 <!ENTITY connectionSettings.accesskey    "e">
 
+<!ENTITY httpCache.label                 "Cached Web Content">
 
-
+<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
+<!ENTITY limitCacheSizeBefore.label      "இடையக வரம்பு">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB இடம்">
 <!ENTITY clearCacheNow.label             "இப்போது துடைக்கவும்">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "தானியக்க இடையக மேலாண்மையை மேலெழுது">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "மேம்படுத்தல்">
 
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
 
-
-
-<!ENTITY enableSearchUpdate.label        "தேடும் பொறிகள்">
-<!ENTITY enableSearchUpdate.accesskey    "h">
-
-
-
-
-
-
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
 
 <!ENTITY updateHistory.label             "மேம்படுத்தல் வரலாற்றைக் காட்டு">
 <!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableSearchUpdate.label        "தேடும் பொறிகள்">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
 <!ENTITY offlineNotify.label             "ஒரு இணைய தளம் இணைப்பில்லாமல் பயன்படுத்த தரவை சேமிக்க கேட்டால் என்னிடம் சொல்">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "விதிவிலக்குகள்…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-
+<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "நீக்கு…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -98,44 +121,3 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "பாதுகாப்பு சாதனங்கள்">
 <!ENTITY viewSecurityDevices.accesskey   "y">
-
-<!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
-<!ENTITY allowHWAccel.accesskey          "h">
-
-
-
-
-
-
-<!ENTITY limitCacheSizeBefore.label      "இடையக வரம்பு">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB இடம்">
-
-<!ENTITY overrideSmartCacheSize.label    "தானியக்க இடையக மேலாண்மையை மேலெழுது">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
-
-<!ENTITY submitCrashes.label             "க்ராஷ் அறிக்கைகளை சமர்ப்பி">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY clearOfflineAppCacheNow.label   "இப்போது அழி">
-<!ENTITY httpCache.label                 "தேக்ககப்படுத்திய வலை உள்ளடக்கம்">
-<!ENTITY isDefault.label                 "தற்போது உங்கள் முன்னிருப்பு உலாவி &brandShortName; ஆகும்">
-<!ENTITY offlineAppsList2.label          "பின்வரும் வலைத்தளங்கள் ஆஃப்லைன் பயன்பாட்டுக்காக தரவைச் சேமிக்க அனுமதிக்கப்பட்டுள்ளன:">
-<!ENTITY offlineStorage2.label           "ஆஃப்லைன் வலை உள்ளடக்கமும் பயனர் தரவும்">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY setDefault.label                "&brandShortName; ஐ உங்கள் முன்னிருப்பு உலாவியாக்கவும்">
-<!ENTITY submitTelemetry.accesskey       "P">
-<!ENTITY submitTelemetry.label           "செயல்திறன் தரவைச் சமர்ப்பி">
-<!ENTITY updateApp.label                 "&brandShortName; புதுப்பிப்புகள்:">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateAuto.label                "புதுப்பிப்புகளை தானாகவே நிறுவு (பரிந்துரைக்கப்படுகிறது: மேம்பட்ட்ட பாதுகாப்பு)">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-<!ENTITY updateAutoAddonWarn.label       "இது என் துணை நிரல்கள் எதையேனும் முடக்கும் என்றால் என்னை எச்சரி">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateCheck.label               "புதுப்பிப்புகள் உள்ளதா எனப் பார், ஆனால் அவற்றை நிறுவ வேண்டுமா என்பதைப் பற்றி நானே தேர்வு செய்கிறேன்">
-<!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateManual.label              "ஒரு போதும் புதுப்பிப்புகள் உள்ளதா எனப் பார்க்க வேண்டாம் (பரிந்துரைக்கப்படுவதில்லை: பாதுகாப்பு ஆபத்துகள் கொண்டது)">
-<!ENTITY updateOthers.label              "தானாக புதுப்பி:">
-<!ENTITY useService.accesskey            "b">
-<!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்து">
-

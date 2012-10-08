@@ -2,7 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tracking.label                 "கண்காணிப்பு">
+
+<!ENTITY doNotTrack.label               "நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "வரலாறு">
+
+<!ENTITY  locationBar.label             "இடப் பட்டை">
 
 <!ENTITY  locbar.pre.label              "இடப் பட்டையைப் பயன்படுத்தும் போது:">
 <!ENTITY  locbar.pre.accessKey          "u">
@@ -12,12 +19,6 @@
 <!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">
 <!ENTITY  locbar.nothing.label          "ஒன்றுமில்லை">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
 <!ENTITY  acceptCookies.label           "தளங்களிலிருந்து குக்கீகளை ஏற்கவும்">
 <!ENTITY  acceptCookies.accesskey       "A">
 
@@ -37,20 +38,6 @@
 <!ENTITY  showCookies.label             "குக்கீகளை காட்டு…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; மூடும் போது வரலாற்றை துடை">
-<!ENTITY  clearOnClose.accesskey         "r">
-
-<!ENTITY  clearOnCloseSettings.label     "அமைவுகள்…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
-
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "நீங்களும் இதற்கு விரும்பலாம்">
-<!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாற்று அனைத்தையும் துடை">
-<!ENTITY  dontrememberActions.post.label         ".">
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; செய்யும்:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "வரலாற்றை நினைவு கொள்">
@@ -58,42 +45,36 @@
 <!ENTITY  historyHeader.custom.label       "வரலாற்றுக்கு தனிபயன் அமைவுகளை பயன்படுத்து">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  locationBar.label             "இடப் பட்டை">
-
+<!ENTITY  rememberDescription.label      "&brandShortName; உங்கள் உலாவும், பதிவிறக்கும், படிவ மற்றும் தேடும் வரலாற்றை நினைவில் வைத்து நீங்கள் பார்வையிடும் இணைய தளங்களின் குக்கீகளையும் வைத்திருக்கும்.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "நீங்கள் இதற்கு விரும்பலாம்">
 <!ENTITY  rememberActions.clearHistory.label  "உங்கள் சமீபத்திய வரலாற்றை துடை">
-<!ENTITY  rememberActions.middle.label        ", or ">
+<!ENTITY  rememberActions.middle.label        ", அல்லது">
 <!ENTITY  rememberActions.removeCookies.label "தனி குக்கீகளை நீக்கு">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
+<!ENTITY  dontrememberDescription.label  "&brandShortName; தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
+<!ENTITY  dontrememberActions.pre.label          "நீங்களும் இதற்கு விரும்பலாம்">
+<!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாற்று அனைத்தையும் துடை">
+<!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  privateBrowsingPermanent2.label "எப்பொழுதும் தனிப்பட்ட உலாவல் முறையையே பயன்படுத்தவும்">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-
-
-
-
-
-
-
-
+<!ENTITY  rememberHistory2.label      "என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் கொள்">
+<!ENTITY  rememberHistory2.accesskey  "வ">
 
 <!ENTITY  rememberSearchForm.label       "தேடும் மற்றும் படிவ வரலாற்றை நினைவில் கொள்">
 <!ENTITY  rememberSearchForm.accesskey   "f">
-<!ENTITY  rememberDescription.label      "&brandShortName; உங்கள் உலாவும், பதிவிறக்கும், படிவ மற்றும் தேடும் வரலாற்றை நினைவில் வைத்து நீங்கள் பார்வையிடும் இணைய தளங்களின் குக்கீகளையும் வைத்திருக்கும்.">
-<!ENTITY doNotTrack.accesskey           "d">
-<!ENTITY doNotTrack.label               "என்னைத் தடமறிவதை நான் விரும்பவில்லை என வலைத்தளங்களுக்குக் கூறு">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
-<!ENTITY  privateBrowsingPermanent2.label "எப்போதுமே தனிப்பட்ட உலாவல் பயன்முறையையே பயன்படுத்து">
-<!ENTITY  rememberHistory2.accesskey  "b">
-<!ENTITY  rememberHistory2.label      "என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் வைத்துக்கொள்">
-<!ENTITY tracking.label                 "தடமறிதல்">
 
+<!ENTITY  clearOnClose.label             "&brandShortName; மூடும் போது வரலாற்றை துடை">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "அமைவுகள்…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

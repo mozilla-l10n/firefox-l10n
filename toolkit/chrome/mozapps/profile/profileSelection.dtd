@@ -5,27 +5,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowtitle.label "&brandShortName; - பயனர் விவரக்குறிப்பை தேர்வு செய்யவும்">
+<!ENTITY            windowtitle.label      "&brandShortName; - Choose User Profile">
 
-<!ENTITY profilename.label "விவரம் பெயர்:">
+<!ENTITY            profilename.label      "விவரம் பெயர்:">
 
-<!ENTITY start.label "&brandShortName; ஐ துவக்கு">
-<!ENTITY exit.label "வெளியேறு">
+<!ENTITY            start.label            "&brandShortName; ஐ துவக்கு">
+<!ENTITY            exit.label             "வெளியேறு">
 
-<!ENTITY availprofiles.label "உள்ள விவரக்குறிப்புகள்">
+<!ENTITY            availprofiles.label    "உள்ள விவரக்குறிப்புகள்">
 
-<!ENTITY newButton.label "விவரக்குறிப்பை உருவாக்கு...">
-<!ENTITY newButton.accesskey "C">
-<!ENTITY renameButton.label "விவரக்குறிப்பின் பெயரை மாற்று...">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "விவரக்குறிப்பை நீக்கு...">
-<!ENTITY deleteButton.accesskey "D">
+<!ENTITY            newButton.label        "விவரக்குறிப்பை உருவாக்கு...">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "விவரக்குறிப்பின் பெயரை மாற்று...">
+<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            deleteButton.label     "விவரக்குறிப்பை நீக்கு...">
+<!ENTITY            deleteButton.accesskey "D">
 <!-- manager entities -->
 
-<!ENTITY pmDescription.label "&brandShortName; உங்கள் அமைப்பு, விருப்பங்கள் மற்றும் பற்ற பயனர் தகவல்களை உங்கள் விவரக்குறிப்பில் சேமித்து வைக்கும்.">
+<!ENTITY            pmDescription.label    "&brandShortName; உங்கள் அமைப்பு, விருப்பங்கள் மற்றும் பற்ற பயனர் தகவல்களை உங்கள் விவரக்குறிப்பில் சேமித்து வைக்கும்.">
 
-<!ENTITY offlineState.label "இணையத்தில் இல்லாமல் வேலை செய்">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY            offlineState.label    "இணையத்தில் இல்லாமல் வேலை செய்">
+<!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY autoSelect.label "துவக்கத்தில் எனக்கேட்காதே">
-<!ENTITY autoSelect.accesskey "s">
+<!ENTITY            autoSelect.label       "துவக்கத்தில் எனக்கேட்காதே">
+<!ENTITY            autoSelect.accesskey   "s">
