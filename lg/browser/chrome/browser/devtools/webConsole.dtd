@@ -8,7 +8,7 @@
   - documentation on web development on the web. -->
 
 
-<!ENTITY window.title "Web Console">
+<!ENTITY window.title "Wokolera Kumutimbagano">
 
 <!ENTITY networkPanel.requestURL                  "Ssaba URL">
 <!ENTITY networkPanel.requestMethod               "Ssaba Engeri">
@@ -29,8 +29,8 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.label     "Wandika Ebisabiddwa era ne Biddidwamu">
+<!ENTITY saveBodies.accesskey "W">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -48,7 +48,7 @@
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "Wandika obubaka obuwerezebwa ku kantu ka window.console">
 <!ENTITY btnConsoleErrors       "Ensobi">
 <!ENTITY btnConsoleInfo         "Bubaka">
 <!ENTITY btnConsoleWarnings     "Okulabula">
@@ -77,7 +77,7 @@
 <!ENTITY filterBox.placeholder "Akasengeja">
 <!ENTITY btnClear.label        "Jjawo">
 <!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
+<!ENTITY btnClose.tooltip      "Galawo Web Console">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

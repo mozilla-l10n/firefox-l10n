@@ -182,7 +182,7 @@ size. -->
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Tegeka Firefox Sync okutuka mu bulambe, ebifudeyo na awadirira okuyita mu byuma ebirala&#x00A0;»">
 <!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
@@ -224,3 +224,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Nsaba olindeeko...">
 
 <!ENTITY webapp_generic_name "App">
+<!-- Updater notifications -->
+
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_start_select "Select to download update.">
+
+<!ENTITY updater_downloading_title "Okutikula &brandShortName;">
+<!ENTITY updater_downloading_ticker "Downloading &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Failed to download &brandShortName; update&#8230;">
+<!ENTITY updater_downloading_select "Select to apply update when complete.">
+<!ENTITY updater_downloading_retry "Select to retry update download.">
+<!ENTITY updater_downloading_willapply "Waiting for download to complete.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; update available&#8230;">
+<!ENTITY updater_apply_select "Select to apply downloaded update.">
