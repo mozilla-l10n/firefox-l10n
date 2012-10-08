@@ -65,7 +65,7 @@
 <!ENTITY deleteListCmd.label                            "Lista törlése">
 <!ENTITY deleteListsCmd.label                           "Listák törlése">
 <!ENTITY deleteItemsCmd.label                           "Elemek törlése">
-<!ENTITY selectAllCmd.label                             "Mindent kijelöl">
+<!ENTITY selectAllCmd.label                             "Minden kijelölése">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "d">

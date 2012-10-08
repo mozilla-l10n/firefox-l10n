@@ -30,7 +30,7 @@
 <!ENTITY pasteCmd.accesskey          "B">
 <!ENTITY deleteCmd.label          "Törlés">
 <!ENTITY deleteCmd.accesskey        "s">
-<!ENTITY selectAllCmd.label          "Mindent kijelöl">
+<!ENTITY selectAllCmd.label          "Minden kijelölése">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "i">
 <!ENTITY preferencesCmd.label        "Beállítások…">
