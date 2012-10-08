@@ -210,7 +210,7 @@ size. -->
 
 <!ENTITY updater_downloading_title "Pobieranie: &brandShortName;">
 <!ENTITY updater_downloading_ticker "Pobieranie aktualizacji programu &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Wystapił błąd przy pobieraniu aktualizacji programu &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Wystąpił błąd przy pobieraniu aktualizacji programu &brandShortName;&#8230;">
 <!ENTITY updater_downloading_select "Wybierz, aby zainstalować aktualizację.">
 <!ENTITY updater_downloading_retry "Wybierz, aby ponownie pobrać aktualizację.">
 <!ENTITY updater_downloading_willapply "Oczekiwanie na zakończenie pobierania.">
