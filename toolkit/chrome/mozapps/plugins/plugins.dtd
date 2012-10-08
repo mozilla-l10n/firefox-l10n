@@ -33,8 +33,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Cliciwch yma i gychwyn yr ategyn.">
 <!ENTITY clickToPlayPlugin                                   "Cliciwch yma i gychwyn yr ategyn.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Cliciwch yma i weithredu ategyn bregus.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Cliciwch yma i weithredu ategyn bregus (dim diweddariad ar gael).">
 <!ENTITY checkForUpdates                                     "Gwirio am ddiweddariadau...">
 <!ENTITY disabledPlugin                                      "Mae'r ategyn wedi ei anablu.">
 <!ENTITY blockedPlugin.label                                 "Mae'r ategyn wedi ei rwystro er eich diogelwch.">
