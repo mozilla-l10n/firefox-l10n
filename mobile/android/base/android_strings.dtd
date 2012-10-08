@@ -22,7 +22,7 @@
 <!ENTITY launcher_shortcuts_title "&brandShortName; web app">
 <!ENTITY launcher_shortcuts_empty "Nessuna web app trovata">
 <!ENTITY choose_file "Scelta file">
-<!ENTITY awesomebar_default_text "Inserire indirizzo o testo da cercare">
+<!ENTITY awesomebar_default_text "Indirizzo o testo da cercare">
 <!ENTITY remote_tabs "Schede sincronizzate">
 <!ENTITY remote_tabs_show_all "Visualizza tutte le schede">
 <!ENTITY bookmark "Segnalibro">
