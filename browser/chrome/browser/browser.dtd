@@ -8,10 +8,10 @@
 <!ENTITY reloadAllTabs.accesskey "t">
 <!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY pinAppTab.label "Fijar pestaña">
-<!ENTITY pinAppTab.accesskey "P">
-<!ENTITY unpinAppTab.label "Desanclar pestaña">
-<!ENTITY unpinAppTab.accesskey "D">
+<!ENTITY pinTab.label "Pin Tab">
+<!ENTITY pinTab.accesskey "P">
+<!ENTITY unpinTab.label "Unpin Tab">
+<!ENTITY unpinTab.accesskey "b">
 <!ENTITY moveToGroup.label "Mover a Grupo">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Nuevo Grupo">
@@ -171,14 +171,13 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolbarOtherToolsButton.label "More Tools">
-<!ENTITY webConsoleButton.label "Consola web">
-<!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
@@ -335,7 +334,7 @@
 <!ENTITY saveAudioCmd.label "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey "G">
 <!ENTITY emailImageCmd.label "Email Image…">
-<!ENTITY emailImageCmd.accesskey "a">
+<!ENTITY emailImageCmd.accesskey "g">
 <!ENTITY emailVideoCmd.label "Email Video…">
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY emailAudioCmd.label "Email Audio…">
@@ -448,7 +447,7 @@
 <!ENTITY downloadMonitor2.tooltip "Da clic para abrir la ventana de descargas">
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Navegar pestañas">
-<!ENTITY syncTabsMenu.label "Pestañas de otros equipos">
+<!ENTITY syncTabsMenu2.label "Tabs From Other Devices">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey "Y">
@@ -463,11 +462,9 @@
 <!ENTITY social.notLoggedIn.label "Not logged in">
 <!ENTITY social.ok.label "OK">
 <!ENTITY social.ok.accesskey "O">
-<!ENTITY social.sharePopup.undo.label "Unshare">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.shared.label "You shared this page.">
-<!ENTITY social.sharePopup.portrait.arialabel "User profile picture">
 <!ENTITY social.toggleSidebar.label "Show sidebar">
 <!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.accesskey "n">
 <!ENTITY social.activated.undobutton.label "Undo">
 <!ENTITY social.activated.undobutton.accesskey "U">

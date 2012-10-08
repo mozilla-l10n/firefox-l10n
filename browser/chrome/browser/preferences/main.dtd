@@ -26,8 +26,3 @@
 <!ENTITY chooseFolderMac.accesskey "E">
 <!ENTITY alwaysAsk.label "Preguntarme siempre en dónde guardarlas">
 <!ENTITY alwaysAsk.accesskey "s">
-<!ENTITY addonsMgr.label "Complementos">
-<!ENTITY manageAddonsDescWin.label "Cambiar las opciones de tus complementos">
-<!ENTITY manageAddonsDescUnix2.label "Cambiar las preferencias de tus complementos">
-<!ENTITY manageAddons.label "Administrar…">
-<!ENTITY manageAddons.accesskey "A">
