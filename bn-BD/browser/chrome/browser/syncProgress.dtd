@@ -1,0 +1,32 @@
+<!--
+# Translator(s):
+#
+# newton <newton@ankur.org.bd>
+# alexxed <alexxed@gmail.com>
+# ayesha akhtar <ayesha@ankur.org.bd>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# newton <newton@ankur.org.bd>
+# Mahay Alam Khan <mahayalamkhan@gmail.com>
+# ayesha akhtar <ayesha@ankur.org.bd>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+
+<!-- These strings are used in the sync progress upload page -->
+<!ENTITY syncProgress.pageTitle    "আপনার প্রথম সিঙ্ক">
+<!ENTITY syncProgress.textBlurb    "আপনার ডাটা এখন এনক্রিপ্ট করা হচ্ছে এবং পটভূমিতে আপলোড করা হয়েছে। আপনি এই ট্যাব বন্ধ করতে পারেন এবং &brandShortName; এর ব্যবহার অব্যাহত রাখতে পারেন।">
+<!ENTITY syncProgress.closeButton  "বন্ধ করুন">
+<!ENTITY syncProgress.logoAltText  "&brandShortName; লোগো">
+<!ENTITY syncProgress.diffText     "&brandShortName; বর্তমানে পটভূমিতে স্বয়ংক্রিয়রূপে সিঙ্ক হবে। আপনি এই ট্যাব বন্ধ করতে পারেন এবং &brandShortName; এর ব্যবহার চালিয়ে যেতে পারেন।">
+
+
