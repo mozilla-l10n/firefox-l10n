@@ -105,7 +105,7 @@ size. -->
 <!ENTITY pref_import_android "Importeren uit Android">
 <!ENTITY pref_private_data_history "Navigatie- &amp; downloadgeschiedenis">
 <!ENTITY pref_private_data_formdata "Formulier- &amp; zoekgeschiedenis">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; Actieve aanmeldingen">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; actieve aanmeldingen">
 <!ENTITY pref_private_data_passwords "Opgeslagen wachtwoorden">
 <!ENTITY pref_private_data_cache "Buffer">
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
@@ -187,7 +187,7 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Stel Firefox Sync in voor toegang tot uw bladwijzers, geschiedenis en tabbladen van uw andere apparaten&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Verkrijg apps van de Mozilla Marketplace en ontdek het beste wat het web kan bieden&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Download apps van de Mozilla Marketplace en ontdek het beste wat het internet te bieden heeft&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -238,8 +238,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_ticker "&brandShortName;-update downloaden&#8230;">
 <!ENTITY updater_downloading_ticker_failed "&brandShortName;-update downloaden mislukt&#8230;">
 <!ENTITY updater_downloading_select "Selecteer om update toe te passen wanneer voltooid.">
-<!ENTITY updater_downloading_retry "Selecteer om update download opnieuw te proberen.">
-<!ENTITY updater_downloading_willapply "Wachten op voltooien van download.">
+<!ENTITY updater_downloading_retry "Selecteer om downloaden van update opnieuw te proberen.">
+<!ENTITY updater_downloading_willapply "Wachtend op voltooien van download.">
 
 <!ENTITY updater_apply_title "&brandShortName;">
 <!ENTITY updater_apply_ticker "&brandShortName;-update beschikbaar&#8230;">
