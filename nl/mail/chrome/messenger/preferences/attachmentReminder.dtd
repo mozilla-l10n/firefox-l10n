@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY attachmentReminderDialog.title   "Sleutelwoorden voor bijlageherinnering">
 <!ENTITY attachKeywordText.label          "&brandShortName; zal u waarschuwen voor ontbrekende bijlagen als u een bericht wilt versturen dat één van de volgende sleutelwoorden bevat.">
 <!ENTITY addKeywordButton.label           "Toevoegen">

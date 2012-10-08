@@ -47,12 +47,12 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-<!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Berichten naar het “console”-object registreren">
+<!ENTITY btnPageLogging.label   "Logboekregistratie">
+<!ENTITY btnPageLogging.tooltip "Naar het window.console-object gestuurde berichten registreren">
 <!ENTITY btnConsoleErrors       "Fouten">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Waarschuwingen">
-<!ENTITY btnConsoleLog          "Logregistratie">
+<!ENTITY btnConsoleLog          "Logboek">
 
 <!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
   -  allows the user to toggle between the Web Console positioning types. -->
