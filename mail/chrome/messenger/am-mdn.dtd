@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Povratnice">
 <!ENTITY useGlobalPrefs.label         "Za povratnice uporabi moje splošne nastavitve za ta račun">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "Splošne nastavitve …">
+<!ENTITY globalReceipts.accesskey     "S">
 <!ENTITY useCustomPrefs.label         "Prilagodi povratnice za ta račun">
 <!ENTITY useCustomPrefs.accesskey     "z">
 <!ENTITY requestReceipt.label         "Ko pošiljaš sporočila, vedno zahtevaj povratnico">
