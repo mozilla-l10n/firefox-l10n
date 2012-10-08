@@ -1,5 +1,5 @@
 <!ENTITY next.label "Siguiente">
-<!ENTITY next.accesskey "n">
+<!ENTITY next.accesskey "S">
 <!ENTITY next.tooltip "Ir a la siguiente frase encontrada">
 <!ENTITY previous.label "Anterior">
 <!ENTITY previous.accesskey "A">
