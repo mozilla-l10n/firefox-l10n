@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Konzola za napake">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "e">
+<!ENTITY clearRecentHistory.label "Počisti nedavno zgodovino …">
+<!ENTITY clearRecentHistory.accesskey "N">
 <!ENTITY accountManagerCmd.label "Nastavitve računa …">
 <!ENTITY accountManagerCmd.accesskey "R">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Mesto mape">
 <!ENTITY tagButton.label "Oznaka">
 <!ENTITY compactButton.label "Zgosti">
+<!ENTITY appmenuButton.label "Meni aplikacije">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Napredno iskanje sporočil">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Pokaži zavihek za klepet">
 <!ENTITY tagButton.tooltip "Označi sporočila">
 <!ENTITY compactButton.tooltip "Odstrani izbrisana sporočila iz izbrane mape">
+<!ENTITY appmenuButton.tooltip "Prikaže meni aplikacije">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Novo sporočilo">
+<!ENTITY appmenuNewContactCmd.label "Stik iz imenika …">
+<!ENTITY appmenuEditMenu.label "Uredi">
+<!ENTITY appmenuQFBMenu.label "Vrstica za hitro filtriranje">
+<!ENTITY appmenuToolbarLayout.label "Postavitev orodne vrstice …">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova oznaka …">
