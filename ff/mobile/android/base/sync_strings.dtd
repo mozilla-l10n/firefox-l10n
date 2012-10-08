@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Teelto &syncBrand.shortName.label; ngam neldude tabbe">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Teelto &syncBrand.fullName.label; e kaɓirgol maa ngam neldude tabbe to kaɓirɗi goeei.">
 <!ENTITY sync.text.tab.sent.label "Tabbere maa neldaama!">
+<!ENTITY sync.text.tab.not.sent.label "Caɗeele mbaɗii nde tabbe maa neldetee.">

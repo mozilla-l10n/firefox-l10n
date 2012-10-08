@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "Waɗii balɗe 7">
 <!ENTITY history_older_section "Hecci balɗe 7">
 
+<!ENTITY go "Yah">
+<!ENTITY search "Yiylo">
 <!ENTITY reload "Hesɗitin">
 <!ENTITY forward "Yeeso">
 <!ENTITY menu "Dosol">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Hakindiinde">
 <!ENTITY pref_font_size_large "Mawnde">
 <!ENTITY pref_font_size_xlarge "Ɓurnde Mawnude">
+<!ENTITY pref_font_size_set "Suɓo">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Ɗaɓɓooɓe ƴedoɗe ñaamii ɓurɓaññe, ñaamminii ƴakkooɓe ƴulɓe ƴamooɓe koɗɗaaɗi. Tawde min ɗaɓɓaani dañal, amin kisi e addude kesamhesamaagu e innde maa tawa alaa mo min kuli hay gooto. Ɗuum firti ko kuutorgol ɓurngol moƴƴude e janngo ɓurɗo moƴƴude e Geese.">
+
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_sync "Sanngoɗin">
 <!ENTITY pref_search_suggestions "Hollu wasiyaaji jiirlorɗe">
 <!ENTITY pref_import_android "Jiggo iwde e Android">
 <!ENTITY pref_private_data_history "Peeragol &amp; aslol gaawte">
 <!ENTITY pref_private_data_formdata "Formere &amp; aslol njiilaw">
-<!ENTITY pref_private_data_cookies "Kukiije">
+<!ENTITY pref_private_data_cookies2 "Kukiije &amp; ceŋanɗe caasɗe">
 <!ENTITY pref_private_data_passwords "Finndeeji danndaaɗi">
 <!ENTITY pref_private_data_cache "Kaasol">
-<!ENTITY pref_private_data_sessions "Ceŋanɗe caasɗe">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
 <!ENTITY pref_private_data_siteSettings "Cuɓoraaɗe lowre">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Nokkuure">
 <!ENTITY bookmark_edit_keyword "Helmelde">
 
-<!ENTITY site_settings_title        "Momtu Teelte Lowre">
+<!ENTITY site_settings_title2       "Teelte Lowre…">
 <!ENTITY site_settings_cancel       "Haaytu">
 <!ENTITY site_settings_clear        "Momtu">
 <!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Uddit tabbe cakkitiiɗe fof">
 <!ENTITY abouthome_top_sites_title "Lowe dowrowe">
 <!ENTITY abouthome_top_sites_browse "Feero e lowe dowrowe maa fof">
-<!ENTITY abouthome_no_top_sites "A alaa lowe dowrowe tawo. Tappu e palal tiitooɗe ngal ngam fuɗɗaade peeragol.">
-<!ENTITY abouthome_about_sync "Teelto Firefox Sync ngam naatde e maantore, aslol e tabbe ummoraade e kaɓirɗi goɗɗei">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Teelto Firefox Sync ngam naatde e maantore, aslol e tabbe ummoraade e kaɓirɗi goɗɗi&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Heɓ jaaɓɗe iwɗe e Mozilla Marketplace tee njytaa ko ɓuri yuɓɓude ko Geese addan-maa&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Labo Fiilde">
 <!ENTITY filepicker_audio_title "Labo walla nanngito ojoo">
@@ -201,3 +224,19 @@ iwde e Android">
 <!ENTITY bookmarkhistory_import_wait "Tiiɗno sabbo...">
 
 <!ENTITY webapp_generic_name "Jaaɓngal">
+<!-- Updater notifications -->
+
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Kesɗitinal &brandShortName; ena woodi&#8230;">
+<!ENTITY updater_start_select "Labo ngam aawtaade kesɗitinal.">
+
+<!ENTITY updater_downloading_title "Nana aawtoo &brandShortName;">
+<!ENTITY updater_downloading_ticker "Nana aawtoo kesɗitinal &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Horiima aawtaade kesɗitinal &brandShortName;&#8230;">
+<!ENTITY updater_downloading_select "Labo ngam jamminde kesɗitinal so timmii.">
+<!ENTITY updater_downloading_retry "Labo ngam fuɗɗitaade aawtagol kesɗitinal.">
+<!ENTITY updater_downloading_willapply "Nana sabbii haa aawtagol timma.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Kesɗitinal &brandShortName; ena woodi&#8230;">
+<!ENTITY updater_apply_select "Labo ngam jamminde kesɗitinal aawtangal.">
