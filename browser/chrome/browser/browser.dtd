@@ -649,21 +649,14 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Közösségi eszköztár gomb">
 <!ENTITY social.notLoggedIn.label   "Nincs bejelentkezve">
 
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "Megosztás törlése">
-<!ENTITY social.sharePopup.undo.accesskey "t">
-<!ENTITY social.sharePopup.shared.label   "Megosztotta ezt az oldalt.">
-<!ENTITY social.sharePopup.portrait.arialabel "Felhasználó profilképe">
-
 <!ENTITY social.toggleSidebar.label "Oldalsáv megjelenítése">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Asztali értesítések megjelenítése">
+<!ENTITY social.toggleNotifications.accesskey "A">
 
 <!ENTITY social.activated.undobutton.label "Visszavonás">
 <!ENTITY social.activated.undobutton.accesskey "V">
