@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Verfassen">
+<!ENTITY compositionGroupTitle.label          "Verfassen">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Nachrichten im HTML-Format verfassen">
 <!ENTITY useHtml.accesskey                    "N">
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "A">
 <!ENTITY includeSigOnForward.label            "Signatur für Weiterleitungen inkludieren">
 <!ENTITY includeSigOnForward.accesskey        "W">
+
+<!ENTITY globalComposingPrefs.label           "Globale Verfassen-Einstellungen…">
+<!ENTITY globalComposingPrefs.accesskey       "s">
+
+<!ENTITY globalAddressingPrefs.label          "Globale Adressierungseinstellungen…">
+<!ENTITY globalAddressingPrefs.accesskey      "b">

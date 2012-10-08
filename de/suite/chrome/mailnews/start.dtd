@@ -15,7 +15,7 @@
 <!ENTITY feat_filters.label "Nachrichtenfilter">
 <!ENTITY feat_htmlmsg.label "Unterstützung von HTML-Nachrichten">
 <!ENTITY feat_abook.label "Adressbuch">
-<!ENTITY feat_labels.label "Benutzerdefinierte Tags und Mailansichten">
+<!ENTITY feat_tags.label "Tags und Nachrichtenansichten anpassen">
 <!ENTITY feat_integration.label
 "Enge Integration in die &brandShortName; Anwendungsreihe">
 <!ENTITY dict.title "Wörterbücher">
