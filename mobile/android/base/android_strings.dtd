@@ -171,6 +171,8 @@ size. -->
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
 <!ENTITY button_clear_data "Limpar datos">
+<!ENTITY button_set "Estabelecer">
+<!ENTITY button_clear "Limpar">
 
 <!ENTITY abouthome_addons_title "Complementos para o &brandShortName;">
 <!ENTITY abouthome_addons_browse "Examinar todos os complementos do &brandShortName;">
