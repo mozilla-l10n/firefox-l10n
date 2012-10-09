@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
-<!ENTITY tabs.otherComputers.label               "Cilnes no citiem datoriem">
+<!ENTITY tabs.otherDevices.label               "Cilnes no citām ierīcēm">
 
 <!ENTITY tabs.searchText.label                   "Rakstiet šeit, lai meklētu cilnes…">
 
