@@ -22,3 +22,5 @@
 <!ENTITY ispHeaders.accesskey "с">
 <!ENTITY junkClassification.label "Выделение">
 <!ENTITY junkActions.label "Папка назначения и условия хранения">
+<!ENTITY globalJunkPrefs.label "Глобальные настройки анти-спама…">
+<!ENTITY globalJunkPrefs.accesskey "а">

@@ -38,4 +38,5 @@
 <!ENTITY defaultBrowserButton.accesskey "ч">
 <!ENTITY alreadyDefaultText "&brandShortName; уже является вашим браузером по умолчанию.">
 <!ENTITY defaultPendingText "&brandShortName; станет вашим браузером по умолчанию после нажатия кнопки «OK».">
+<!ENTITY wasMadeDefaultText "&brandShortName; был установлен в качестве вашего браузера по умолчанию.">
 <!ENTITY makeDefaultText "Сделать &brandShortName; браузером по умолчанию.">
