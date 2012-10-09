@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label "Endereçamento e Composição">
@@ -5,13 +9,13 @@
 <!ENTITY addressingText.label "Ao procurar por endereços:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label "Usar as preferências do meu servidor global LDAP para esta conta">
-<!ENTITY useGlobal.accesskey "L">
-<!ENTITY editDirectories.label "Editar Directorias...">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY useGlobal.accesskey "s">
+<!ENTITY editDirectories.label "A editar pastas...">
+<!ENTITY editDirectories.accesskey "d">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Usar um servidor LDAP diferente:">
 <!ENTITY directories.accesskey "r">
-<!ENTITY directoriesNone.label "None">
+<!ENTITY directoriesNone.label "Nenhum">
 
 <!-- am-addressing.xul -->
 
@@ -35,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Incluir assinatura nos reencaminhamentos">
 <!ENTITY includeSigOnForward.accesskey        "i">
+
+<!ENTITY globalComposingPrefs.label           "Preferências de composição globais…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Preferências de endereçamento globais…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
