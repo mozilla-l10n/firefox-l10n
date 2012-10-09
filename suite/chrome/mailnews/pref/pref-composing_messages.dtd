@@ -34,22 +34,22 @@
 <!ENTITY bgColor.label                        "Тло:">
 <!ENTITY bgColor.accesskey                    "Т">
 
-<!ENTITY selectHeaderType.label               "Select reply header type:">
-<!ENTITY selectHeaderType.accesskey           "e">
-<!ENTITY noReplyOption.label                  "No Reply Header">
+<!ENTITY selectHeaderType.label               "Вибрати тип заголовку відповіді:">
+<!ENTITY selectHeaderType.accesskey           "В">
+<!ENTITY noReplyOption.label                  "Без заголовку відповіді">
 <!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the 
   mailnews.reply_header_authorwrote preference. [Author] needs to be 
   translated. -->
-<!ENTITY authorWroteOption.label              "[Author] wrote:">
+<!ENTITY authorWroteOption.label              "[Автор] написав:">
 <!-- LOCALIZATION NOTE (onDateAuthorWroteOption.label): this is tied to the 
   combination of the mailnews.reply_header_ondate(On [date]), 
   mailnews.reply_header_separator (a comma in this case) and 
   mailnews.reply_header_authorwrote([Author] wrote) preferences. [date] and 
   [Author] need to be translated, and the correct  separator put in. -->
-<!ENTITY onDateAuthorWroteOption.label        "On [date], [author] wrote:">
+<!ENTITY onDateAuthorWroteOption.label        "В [дата], [автор] написав:">
 <!-- LOCALIZATION NOTE (authorWroteOnDateOption.label): this is tied to the 
   combination of the mailnews.reply_header_authorwrote([Author] wrote), 
   mailnews.reply_header_separator (a comma in this case), and 
   mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
   need to be translated, and the correct separator put in. -->
-<!ENTITY authorWroteOnDateOption.label        "[Author] wrote, On [date]:">
+<!ENTITY authorWroteOnDateOption.label        "[Автор] написав, в [дата]:">

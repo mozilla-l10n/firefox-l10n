@@ -21,12 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Вимикати або замінювати контекстні меню">
 <!ENTITY allowHideStatusBar.label        "Приховувати рядок стану">
 
-<!ENTITY enablePlugins.label             "Enable Plugins for">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
+<!ENTITY enablePlugins.label             "Увімкнути додатки для">
+<!ENTITY enablePluginForSuite.label      "Набору програм">
+<!ENTITY enablePluginForSuite.accesskey  "Н">
 
-<!ENTITY whenPageRequiresPlugins.label   "When a page requires plugins">
-<!ENTITY activateAllPlugins.label        "Activate all plugins by default">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "Warn me if additional plugins need to be installed">
-<!ENTITY warnPluginsRequired.accesskey   "W">
+<!ENTITY whenPageRequiresPlugins.label   "Коли сторінка вимагає додатки">
+<!ENTITY activateAllPlugins.label        "Типово вмикати всі додатки">
+<!ENTITY activateAllPlugins.accesskey    "Т">
+<!ENTITY warnPluginsRequired.label       "Повідомляти мене, якщо потрібно встановити ще якісь додатки">
+<!ENTITY warnPluginsRequired.accesskey   "П">

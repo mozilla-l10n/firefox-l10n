@@ -7,10 +7,10 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Вибір сертифікатів клієнта">
 
 <!ENTITY pref.ssl.title                     "Рівень надійності сокетів (SSL)">
-<!ENTITY enable.ssl30.label                 "Enable SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "Enable TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY enable.ssl30.label                 "Увімкнути SSL 3.0">
+<!ENTITY enable.ssl30.accesskey             "У">
+<!ENTITY enable.tls10.label                 "Ввімкнути TLS 1.0">
+<!ENTITY enable.tls10.accesskey             "В">
 
 <!ENTITY warn.description                   "&brandShortName; може повідомити вас про стан захисту сторінки, котру ви переглядаєте. Налаштувати &brandShortName; так, щоб він показував попередження і питав дозвіл перед:">
 <!ENTITY warn.enteringsecure                "Завантаженням сторінки, що підтримує шифрування">

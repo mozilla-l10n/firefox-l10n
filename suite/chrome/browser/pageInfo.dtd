@@ -15,12 +15,12 @@
 <!ENTITY  selectall.accesskey    "и">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-<!ENTITY  copyLinks.label           "Copy Link(s)">
-<!ENTITY  copyLinks.accesskey       "L">
-<!ENTITY  openInNewTab.label        "Open in New Tab">
-<!ENTITY  openInNewTab.accesskey    "T">
-<!ENTITY  openInNewWindow.label     "Open in New Window">
-<!ENTITY  openInNewWindow.accesskey "W">
+<!ENTITY  copyLinks.label           "Скопіювати посилання">
+<!ENTITY  copyLinks.accesskey       "с">
+<!ENTITY  openInNewTab.label        "Відкрити у новій вкладці">
+<!ENTITY  openInNewTab.accesskey    "н">
+<!ENTITY  openInNewWindow.label     "Відкрити у новому вікні">
+<!ENTITY  openInNewWindow.accesskey "в">
 
 <!ENTITY  generalTab            "Загальне">
 <!ENTITY  generalTab.accesskey  "З">
