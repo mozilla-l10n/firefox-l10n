@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "В">
 <!ENTITY mailnewsTimeoutSeconds.label     "секунд">
 <!ENTITY Diskspace                        "Дисковий простір">
-<!ENTITY offlineCompactFolders.label      "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.label      "Стиснути всі теки, коли вони збережуться">
 <!ENTITY offlineCompactFolders.accesskey  "C">
-<!ENTITY offlineCompactFoldersMB.label    "MB in total">
+<!ENTITY offlineCompactFoldersMB.label    "МБ усього">

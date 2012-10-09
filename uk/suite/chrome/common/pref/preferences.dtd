@@ -30,7 +30,7 @@
 <!ENTITY advance.label "Додатково">
 <!ENTITY down.label "Звантажити">
 <!ENTITY cache.label "Кеш">
-<!ENTITY offlineApps.label "Offline Apps">
+<!ENTITY offlineApps.label "Автономні програми">
 <!ENTITY proxies.label "Проксі">
 <!ENTITY httpnetworking.label "Організування мережі HTTP">
 <!ENTITY smart.label "Встановлення програм">

@@ -46,8 +46,8 @@
 <!ENTITY watchThread.label "Відстежувати гілку">
 <!ENTITY stopExecution.label "Припинити роботу фільтру">
 
-<!ENTITY addAction.tooltip "Add a new action">
-<!ENTITY removeAction.tooltip "Remove this action">
+<!ENTITY addAction.tooltip "Додати нову дію">
+<!ENTITY removeAction.tooltip "Вилучити цю дію">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus

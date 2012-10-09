@@ -83,8 +83,8 @@
 
 <!ENTITY returnReceiptMenu.label "Сповіщення про доставлення">
 <!ENTITY returnReceiptMenu.accesskey "С">
-<!ENTITY dsnMenu.label "Delivery Status Notification">
-<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY dsnMenu.label "Сповіщення про стан доставлення">
+<!ENTITY dsnMenu.accesskey "д">
 
 <!ENTITY outputFormatMenu.label "Формат">
 <!ENTITY outputFormatMenu.accesskey  "Ф">
