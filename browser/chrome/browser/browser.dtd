@@ -637,9 +637,6 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Sociālo rīku joslas poga">
 <!ENTITY social.notLoggedIn.label   "Nav autorizācijas">
 
-<!ENTITY social.sharePopup.undo.label     "Atcelt ieteikšanu">
-<!ENTITY social.sharePopup.undo.accesskey "A">
-
 <!ENTITY social.toggleSidebar.label "Rādīt sānu joslu">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
