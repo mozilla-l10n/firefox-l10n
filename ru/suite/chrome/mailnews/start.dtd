@@ -12,7 +12,7 @@
 <!ENTITY feat_filters.label "Фильтры сообщений">
 <!ENTITY feat_htmlmsg.label "Составление сообщений в формате HTML">
 <!ENTITY feat_abook.label "Адресная книга">
-<!ENTITY feat_labels.label "Настраиваемые метки и виды сообщений">
+<!ENTITY feat_tags.label "Настраиваемые метки и виды сообщений">
 <!ENTITY feat_integration.label "Тесная интеграция с &brandShortName; application suite">
 <!ENTITY dict.title "Словари проверки орфографии">
 <!ENTITY dict_intro.label "Словари используются для проверки орфографии в ваших почтовых сообщениях.">

@@ -9,7 +9,6 @@
 <!ENTITY awesomebar_all_pages_title "Топ сайтов">
 <!ENTITY awesomebar_bookmarks_title "Закладки">
 <!ENTITY awesomebar_history_title "История">
-<!ENTITY awesomebar_search_engine "Поиск \&quot;&#037;s\&quot;">
 <!ENTITY crash_reporter_title "&brandShortName; Crash Reporter">
 <!ENTITY crash_message "&brandShortName; упал. После перезапуска список ваших вкладок будет показан на странице запуска &brandShortName;.">
 <!ENTITY crash_help_message "Пожалуйста, помогите нам исправить эту проблему!">
@@ -67,6 +66,7 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
+<!ENTITY pref_reflow_on_zoom "Включить Reflow-On-Zoom">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -76,6 +76,7 @@
 <!ENTITY pref_font_size_adjust_char "A">
 <!ENTITY pref_font_size_preview_text "Быстрый оранжевый лис перепрыгивает через ваши ожидания с высокой скоростью, большей гибкостью и повышенной безопасностью. Будучи некоммерческой организацией, мы свободны в своём развитии и нам не нужно идти на компромиссы. Мы улучшим для вас работу в Интернете и сделаем его будущее более светлым.">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
+<!ENTITY pref_show_product_announcements "Показывать анонсы продукта">
 <!ENTITY pref_sync "Синхронизация">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
@@ -97,11 +98,13 @@
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Полная версия сайта">
+<!ENTITY tools "Инструменты">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Предыдущее">
 <!ENTITY find_next "Следующее">
 <!ENTITY find_close "Закрыть">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
+<!ENTITY contextmenu_open_in_reader "Открыть для чтения">
 <!ENTITY contextmenu_remove_history "Удалить">
 <!ENTITY contextmenu_remove_bookmark "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
@@ -123,14 +126,18 @@
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
 <!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
-<!ENTITY reader_mode "Режим чтения">
+<!ENTITY reader "Чтение">
 <!ENTITY masterpassword_create_title "Создать мастер-пароль">
 <!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
 <!ENTITY masterpassword_password "Пароль">
 <!ENTITY masterpassword_confirm "Подтвердите пароль">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Отмена">
+<!ENTITY button_yes "Да">
+<!ENTITY button_no "Нет">
 <!ENTITY button_clear_data "Удалить данные">
+<!ENTITY button_set "Установить">
+<!ENTITY button_clear "Очистить">
 <!ENTITY abouthome_addons_title "Дополнения для вашего &brandShortName;">
 <!ENTITY abouthome_addons_browse "Обзор всех дополнений &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
@@ -154,16 +161,14 @@
 <!ENTITY bookmarkhistory_import_bookmarks "Импорт закладок из Android">
 <!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
 <!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
+<!ENTITY suggestions_prompt "Вы хотите включить поисковые предложения от &#037;s?">
 <!ENTITY webapp_generic_name "Приложение">
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Доступно обновление &brandShortName;…">
-<!ENTITY updater_start_select "Выберите для загрузки обновления.">
+<!ENTITY searchable_description "Закладки и история">
+<!ENTITY updater_start_title "Доступно обновление &brandShortName;">
+<!ENTITY updater_start_select "Нажмите для загрузки">
 <!ENTITY updater_downloading_title "Загрузка &brandShortName;">
-<!ENTITY updater_downloading_ticker "Загрузка обновления &brandShortName;…">
-<!ENTITY updater_downloading_ticker_failed "Не удалось загрузить обновление &brandShortName;…">
-<!ENTITY updater_downloading_select "Выберите для применения обновления по завершении.">
-<!ENTITY updater_downloading_retry "Выберите для повторной загрузки обновления.">
-<!ENTITY updater_downloading_willapply "Ожидание завершения загрузки.">
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Доступно обновление &brandShortName;…">
-<!ENTITY updater_apply_select "Выберите для применения загруженного обновления.">
+<!ENTITY updater_downloading_title_failed "Загрузка не удалась">
+<!ENTITY updater_downloading_select "Нажмите для применения обновления по завершении загрузки">
+<!ENTITY updater_downloading_retry "Нажмите для повтора">
+<!ENTITY updater_apply_title "Доступно обновление &brandShortName;">
+<!ENTITY updater_apply_select "Нажмите для обновления">
