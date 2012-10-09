@@ -226,13 +226,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "App">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "Uppdatering finns för &brandShortName;">
-<!ENTITY updater_start_select "Tryck för att hämta">
+<!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
+<!ENTITY updater_start_select2 "Tryck för att hämta">
 
-<!ENTITY updater_downloading_title "Hämtar &brandShortName;">
-<!ENTITY updater_downloading_title_failed "Hämtningen misslyckades">
-<!ENTITY updater_downloading_select "Tryck för att uppdatera när hämtningen är klar">
-<!ENTITY updater_downloading_retry "Tryck för att försöka igen">
+<!ENTITY updater_downloading_title2 "Hämtar &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Hämtningen misslyckades">
+<!ENTITY updater_downloading_select2 "Tryck för att uppdatera när hämtningen är klar">
+<!ENTITY updater_downloading_retry2 "Tryck för att försöka igen">
 
-<!ENTITY updater_apply_title "Uppdatering finns för &brandShortName;">
-<!ENTITY updater_apply_select "Tryck för att uppdatera">
+<!ENTITY updater_apply_title2 "Uppdatering finns för &brandShortName;">
+<!ENTITY updater_apply_select2 "Tryck för att uppdatera">
