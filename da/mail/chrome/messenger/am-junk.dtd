@@ -24,3 +24,6 @@
 
 <!ENTITY junkClassification.label "Vælg">
 <!ENTITY junkActions.label "Destination og opbevaring">
+
+<!ENTITY globalJunkPrefs.label "Globale indstillinger for spam…">
+<!ENTITY globalJunkPrefs.accesskey "G">

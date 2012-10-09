@@ -30,3 +30,7 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Brug signatur ved videresendelse">
 <!ENTITY includeSigOnForward.accesskey        "v">
+<!ENTITY globalComposingPrefs.label           "Globale indstillinger til redigering…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+<!ENTITY globalAddressingPrefs.label          "Globale indstillinger til adressering…">
+<!ENTITY globalAddressingPrefs.accesskey      "a">
