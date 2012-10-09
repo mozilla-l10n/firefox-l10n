@@ -640,11 +640,9 @@ toolbar button -->
 <!ENTITY social.sharePopup.undo.label     "Atcelt ieteikšanu">
 <!ENTITY social.sharePopup.undo.accesskey "A">
 
-<!ENTITY social.sharePopup.undo.label     "Neieteikt">
-<!ENTITY social.sharePopup.undo.accesskey "N">
-<!ENTITY social.sharePopup.shared.label   "Jūs iesakāt šo lapu.">
-<!ENTITY social.sharePopup.portrait.arialabel "Lietotāja profila attēls">
-
 <!ENTITY social.toggleSidebar.label "Rādīt sānu joslu">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Rādīt paziņojumus">
+<!ENTITY social.toggleNotifications.accesskey "d">
 
