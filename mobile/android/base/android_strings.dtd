@@ -164,11 +164,11 @@
 <!ENTITY suggestions_prompt "Attivare i suggerimenti di ricerca per &#037;s?">
 <!ENTITY webapp_generic_name "App">
 <!ENTITY searchable_description "Segnalibri e cronologia">
-<!ENTITY updater_start_title "Aggiornamento disponibile per &brandShortName;">
-<!ENTITY updater_start_select "Tocca per scaricare">
-<!ENTITY updater_downloading_title "Download di &brandShortName; in corso">
-<!ENTITY updater_downloading_title_failed "Download non riuscito">
-<!ENTITY updater_downloading_select "Seleziona per installare a download completato.">
-<!ENTITY updater_downloading_retry "Tocca per riprovare">
-<!ENTITY updater_apply_title "Aggiornamento disponibile per &brandShortName;">
-<!ENTITY updater_apply_select "Tocca per aggiornare">
+<!ENTITY updater_start_title2 "Aggiornamento disponibile per &brandShortName;">
+<!ENTITY updater_start_select2 "Tocca per scaricare">
+<!ENTITY updater_downloading_title2 "Download di &brandShortName; in corso">
+<!ENTITY updater_downloading_title_failed2 "Download non riuscito">
+<!ENTITY updater_downloading_select2 "Seleziona per installare a download completato.">
+<!ENTITY updater_downloading_retry2 "Tocca per riprovare">
+<!ENTITY updater_apply_title2 "Aggiornamento disponibile per &brandShortName;">
+<!ENTITY updater_apply_select2 "Tocca per aggiornare">
