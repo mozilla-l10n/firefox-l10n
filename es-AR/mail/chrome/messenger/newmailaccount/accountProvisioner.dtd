@@ -25,8 +25,8 @@
 <!ENTITY partnership.description "En sociedad con varios proveedores, &brandShortName; puede ofrecerle una nueva cuenta de correo electrónico. Ingrese su nombre y apellido o algunas otras palabras que desee para comenzar.">
 <!ENTITY existing.header "¿Ya tiene una dirección que desea usar¿?">
 <!ENTITY tinyheader.title "¿Tiene una dirección?">
-<!ENTITY tinyheader.existing "Saltear ésto y usar mi correo existente">
-<!ENTITY content.close "Creo que configuraré mi cuenta después.">
+<!ENTITY tinyheader.existing "Saltear esto y usar mi correo existente">
+<!ENTITY content.close "Creo que configuraré mi cuenta después">
 <!ENTITY successful.title "¡Felicitaciones!">
 <!ENTITY successful.successMessage "Ha configurado su cuenta exitosamente.">
 <!ENTITY successful.write "Escribir algún correo electrónico">
@@ -36,7 +36,7 @@
 <!ENTITY successful.attach "Adjuntar una firma personal a mi correo electrónico">
 <!ENTITY successful.attach.desc "Puede adjuntar automáticamente una cita o alguna información propia a final de cada mensaje que envíe.">
 <!ENTITY successful.close "Cerrar esta ventana.">
-<!ENTITY input.namePlaceholder "Su nombre o apodo">
+<!ENTITY input.namePlaceholder "Su nombre y apellido o un apodo">
 <!ENTITY input.search "Buscar">
 <!ENTITY search_engine.title "Personalizar su buscador">
 <!ENTITY search_engine.message "Su proveedor de correo electrónico también puede ofrecerle la capacidad de búsqueda web.">
