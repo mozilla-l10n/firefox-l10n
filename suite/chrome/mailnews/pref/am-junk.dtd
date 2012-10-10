@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Spam">
 <!ENTITY trainingWarning.label "Se ativado, você deve primeiro treinar o &brandShortName; a identificar mensagens indesejadas através do botão 'Spam'. Você precisa identificar tanto as mensagens que são spam como as que não são.">
 <!ENTITY level.label "Identificar spam ao receber mensagens desta conta">

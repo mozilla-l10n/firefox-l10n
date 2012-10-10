@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.policies.title "Política de segurança">
 <!ENTITY zoneIntro.label "O &brandShortName; permite que você crie políticas que determinam que acesso certos sites têm a algumas funcionalidades, incluindo Java e script.">
 <!ENTITY policies.label "Políticas:">
