@@ -173,6 +173,8 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annuleren">
+<!ENTITY button_yes "Ja">
+<!ENTITY button_no "Nee">
 <!ENTITY button_clear_data "Gegevens wissen">
 <!ENTITY button_set "Instellen">
 <!ENTITY button_clear "Wissen">
