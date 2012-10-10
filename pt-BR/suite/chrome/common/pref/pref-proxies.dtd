@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.proxies.title "Proxies">
 <!ENTITY pref.proxies.desc "Um Proxy é um serviço de rede que pode filtrar e acelerar a sua conexão à Internet.">
 <!ENTITY proxyTitle.label "Acesso à Internet">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.label "Ctrl+Enter na barra de endereços">
 <!ENTITY urlbar.accesskey "e">
 <!ENTITY middleClick.label "Clique com o botão do meio, Ctrl+clique ou Ctrl+Enter em links numa página">

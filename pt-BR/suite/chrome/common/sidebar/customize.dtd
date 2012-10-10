@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY sidebar.customize.title.label "Personalizar &sidebarName;">
 <!ENTITY sidebar.customize.current.label "Abas visualizadas no &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey "V">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY MsgSynchronize.label "Download e sincronização de mensagens">
 <!ENTITY MsgSelect.label "Itens para leitura em modo desconectado">
 <!ENTITY MsgSyncDesc.label "Se você já selecionou pastas de email ou newsgroups para leitura em modo desconectado, agora você recebê-los e/ou sincronizá-los. Para escolher os itens agora utilize o botão &quot;Selecionar&quot;.">

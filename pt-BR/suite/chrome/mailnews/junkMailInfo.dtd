@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Sobre o anti-spam">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label 'O Email &amp; grupos de notícias pode identificar, assim que forem recebidas, mensagens que podem ser spam. Essas mensagens indesejadas possuem o campo "Spam" marcado com um ícone'>
