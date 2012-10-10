@@ -240,13 +240,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Bladwijzers en geschiedenis">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Update beschikbaar voor &brandShortName;">
-<!ENTITY updater_start_select2 "Aanraken om te downloaden">
+<!ENTITY updater_start_title "Update beschikbaar voor &brandShortName;">
+<!ENTITY updater_start_select "Aanraken om te downloaden">
 
-<!ENTITY updater_downloading_title2 "&brandShortName; downloaden">
-<!ENTITY updater_downloading_title_failed2 "Downloaden mislukt">
-<!ENTITY updater_downloading_select2 "Aanraken om update toe te passen wanneer gedownload">
-<!ENTITY updater_downloading_retry2 "Aanraken om opnieuw te proberen">
+<!ENTITY updater_downloading_title "&brandShortName; downloaden">
+<!ENTITY updater_downloading_title_failed "Downloaden mislukt">
+<!ENTITY updater_downloading_select "Aanraken om update toe te passen wanneer gedownload">
+<!ENTITY updater_downloading_retry "Aanraken om opnieuw te proberen">
 
-<!ENTITY updater_apply_title2 "Update beschikbaar voor &brandShortName;">
-<!ENTITY updater_apply_select2 "Aanraken om bij te werken">
+<!ENTITY updater_apply_title "Update beschikbaar voor &brandShortName;">
+<!ENTITY updater_apply_select "Aanraken om bij te werken">
