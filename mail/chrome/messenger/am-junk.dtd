@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Rogha">
 <!ENTITY junkActions.label "Ceann Scríbe agus Coinneáil">
+
+<!ENTITY globalJunkPrefs.label "Sainroghanna Comhchoiteanna Dramhphoist…">
+<!ENTITY globalJunkPrefs.accesskey "g">

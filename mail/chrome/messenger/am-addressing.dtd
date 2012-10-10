@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey "i">
 <!ENTITY includeSigOnForward.label "Cuir síniú san áireamh i dteachtaireachtaí curtha ar aghaidh">
 <!ENTITY includeSigOnForward.accesskey "t">
+
+<!ENTITY globalComposingPrefs.label "Sainroghanna Comhchoiteanna Cumtha…">
+<!ENTITY globalComposingPrefs.accesskey "g">
+
+<!ENTITY globalAddressingPrefs.label "Sainroghanna Comhchoiteanna Seolta…">
+<!ENTITY globalAddressingPrefs.accesskey "S">

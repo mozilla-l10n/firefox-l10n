@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey "B">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label "Ainm an Ríomhaire:">
-<!ENTITY syncComputerName.accesskey "A">
+<!ENTITY syncDeviceName.label "Ainm an Ghléis:">
+<!ENTITY syncDeviceName.accesskey "s">
 <!ENTITY unlinkDevice.label "Dínasc an Gléas Seo">
 <!-- Footer stuff -->
 

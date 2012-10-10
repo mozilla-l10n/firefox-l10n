@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label "Oscail Comhad le Déanaí">
 <!ENTITY openRecentMenu.accesskey "D">
 
+<!ENTITY revertCmd.label "Revert…">
+<!ENTITY revertCmd.accesskey "t">
+
 <!ENTITY saveFileCmd.label "Sábháil">
 <!ENTITY saveFileCmd.accesskey "S">
 <!ENTITY saveFileCmd.commandkey "s">
@@ -101,6 +104,10 @@
 
 <!ENTITY resetContext2.label "Athshocraigh Athróga">
 <!ENTITY resetContext2.accesskey "t">
+
+<!ENTITY reloadAndRun.label "Athluchtaigh agus Rith">
+<!ENTITY reloadAndRun.accesskey "A">
+<!ENTITY reloadAndRun.key "r">
 
 <!ENTITY executeMenu.label "Rith">
 <!ENTITY executeMenu.accesskey "t">
