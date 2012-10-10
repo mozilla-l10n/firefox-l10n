@@ -226,17 +226,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Aplikace">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Dostupná aktualizace aplikace &brandShortName;&#8230;">
-<!ENTITY updater_start_select "Klepněte pro stažení aktualizace.">
+<!ENTITY updater_start_title "Dostupná aktualizace aplikace &brandShortName;">
+<!ENTITY updater_start_select "Klepněte pro stažení aktualizace">
 
 <!ENTITY updater_downloading_title "Stahování aplikace &brandShortName;">
-<!ENTITY updater_downloading_ticker "Stahování aktualizace aplikace &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Chyba při stahování aktualizace aplikace &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Klepněte pro instalaci aktualizace po stažení.">
-<!ENTITY updater_downloading_retry "Klepněte pro opakování stažení aktualizace.">
-<!ENTITY updater_downloading_willapply "Čeká se na stažení aktualizace.">
+<!ENTITY updater_downloading_title_failed "Stahování skončilo chybou">
+<!ENTITY updater_downloading_select "Klepněte pro instalaci aktualizace po stažení">
+<!ENTITY updater_downloading_retry "Klepněte pro opakování stažení">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Dostupná aktualizace aplikace &brandShortName;&#8230;">
-<!ENTITY updater_apply_select "Klepněte pro instalaci aktualizace.">
+<!ENTITY updater_apply_title "Dostupná aktualizace aplikace &brandShortName;">
+<!ENTITY updater_apply_select "Klepněte pro instalaci aktualizace">
