@@ -39,3 +39,13 @@
 <!ENTITY includeSigOnReply.accesskey "o">
 <!ENTITY includeSigOnForward.label "Při přeposlání vložit podpis">
 <!ENTITY includeSigOnForward.accesskey "p">
+
+<!ENTITY globalComposingPrefs.label "Globální nastavení vytváření…">
+<!ENTITY globalComposingPrefs.accesskey "G">
+
+<!ENTITY globalAddressingPrefs.label "Globální nastavení adresování…">
+<!ENTITY globalAddressingPrefs.accesskey "b">
+
+
+
+
