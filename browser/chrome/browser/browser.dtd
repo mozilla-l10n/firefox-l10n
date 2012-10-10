@@ -256,8 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "i">
 <!ENTITY setDesktopBackgroundCmd.label      "Vëreni Si Sfond Desktopi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY sendPageCmd.label            "Dërgoni Lidhjen…">
-<!ENTITY sendPageCmd.accesskey        "L">
 <!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
 <!ENTITY savePageCmd.accesskey        "R">
 <!-- alternate for content area context menu -->
@@ -267,12 +265,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "i">
 <!ENTITY saveLinkCmd.label            "Ruajeni Lidhjen Si…">
 <!ENTITY saveLinkCmd.accesskey        "R">
-<!ENTITY sendLinkCmd.label            "Dërgoni Lidhjen…"> 
-<!ENTITY sendLinkCmd.accesskey        "L">
 <!ENTITY saveImageCmd.label           "Ruajeni Figurën Si…">
 <!ENTITY saveImageCmd.accesskey       "u">
-<!ENTITY sendImageCmd.label           "Dërgoni Figurën…">
-<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Dërgoni Figurë me Email…">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "Dërgoni Video me Email…">
+<!ENTITY emailVideoCmd.accesskey      "v">
+<!ENTITY emailAudioCmd.label          "Dërgoni Audio me Email…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY copyLinkCmd.label            "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopjo Vendndodhje Figure">
@@ -416,10 +418,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "u">
 <!ENTITY saveAudioCmd.label           "Ruajeni Audion Si…">
 <!ENTITY saveAudioCmd.accesskey       "u">
-<!ENTITY sendVideoCmd.label           "Dërgoni Videon…">
-<!ENTITY sendVideoCmd.accesskey       "d">
-<!ENTITY sendAudioCmd.label           "Dërgoni Audion…">
-<!ENTITY sendAudioCmd.accesskey       "d">
 
 <!ENTITY viewVideoCmd.label           "Shiheni Videon">
 <!ENTITY viewVideoCmd.accesskey       "S">
@@ -478,11 +476,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Mbylleni Panelin e Zhvilluesit">
 <!ENTITY devToolbarMenu.label              "Paneli i Zhvilluesit">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
-
-<!ENTITY webConsoleButton.label "Konsolë Web">
-<!ENTITY inspectorButton.label "Shqyrtues">
-<!ENTITY scriptsButton.label "Programthe">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "Më Tepër Mjete">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopjo HTML-në e Brendshme">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "B">
@@ -492,16 +488,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "Fshije Nyjen">
 <!ENTITY inspectorHTMLDelete.accesskey      "F">
-
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Mundësi Shqyrtuesi">
-
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "Ulja Ndriçimin Faqes">
-<!ENTITY inspectorToggleVeil.accesskey      "U">
-<!ENTITY inspectorToggleInfobar.label       "Shfaq të Dhëna Nyjeje">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -540,8 +526,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY  closeOtherTabs.label               "Mbylli Skedat e Tjera">
 <!ENTITY  closeOtherTabs.accesskey           "T">
 
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinTab.label                       "Fiksoje Skedën">
+<!ENTITY  pinTab.accesskey                   "F">
+<!ENTITY  unpinTab.label                     "Çfiksoje Skedën">
+<!ENTITY  unpinTab.accesskey                 "ç">
+
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Skeda Prej Kompjuterësh të Tjerë">
+<!ENTITY syncTabsMenu.label     "Skeda Prej Pajisjesh të Tjera">
 
 <!ENTITY syncBrand.shortName.label  "Njëkohëso">
 <!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
@@ -568,15 +564,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyRestoreLastSession.label "Rikthe Sesionin e Mëparshëm">
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Fiksoje si Skedë Zbatimi">
-<!ENTITY  pinAppTab.accesskey                "F">
-<!ENTITY  unpinAppTab.label                  "Çfiksoje Skedën">
-<!ENTITY  unpinAppTab.accesskey              "Ç">
 
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
 <!ENTITY  moveToNewWindow.accesskey          "D">
@@ -631,3 +618,18 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Buton Paneli për Shoqëroret">
+<!ENTITY social.notLoggedIn.label   "Jo i futur">
+
+<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "Shfaqe anështyllën">
+<!ENTITY social.toggleSidebar.accesskey "S">
+
+<!ENTITY social.toggleNotifications.label "Shfaq njoftime në desktop">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "Zhbëje">
+<!ENTITY social.activated.undobutton.accesskey "Z">
