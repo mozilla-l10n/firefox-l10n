@@ -106,8 +106,6 @@
 
 <!ENTITY confirm.merge2.label   "O &syncBrand.fullName.label; o l'uniâ i dæti de st'aparâto con quélli do teu account Sync.">
 
-<!ENTITY confirm.client2.label         "Atençión: Sti dæti de &brandShortName; in sto computer saiân scancelæ:">
-
 <!ENTITY confirm.client3.label         "Atençión: Sti dæti de &brandShortName; drénto st'aparâto saiân scancelæ:">
 
 <!ENTITY confirm.server2.label         "Atençión: Sti aparâti sàian sorviascrîti co-i teu dæti locâli:">
