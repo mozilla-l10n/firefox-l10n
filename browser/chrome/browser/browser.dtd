@@ -645,13 +645,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "Aceptar">
 <!ENTITY social.ok.accesskey   "A">
 
-<!ENTITY social.sharePopup.undo.label     "Descompartir">
-<!ENTITY social.sharePopup.undo.accesskey "D">
-<!ENTITY social.sharePopup.shared.label   "Ha compartido esta página.">
-<!ENTITY social.sharePopup.portrait.arialabel "Imagen de perfil de usuario">
-
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Deshacer">
 <!ENTITY social.activated.undobutton.accesskey "h">
