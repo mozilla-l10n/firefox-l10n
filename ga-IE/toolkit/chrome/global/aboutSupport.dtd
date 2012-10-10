@@ -56,4 +56,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Stair Suiteála">
 <!ENTITY aboutSupport.updateHistoryTitle "Stair na Nuashonruithe">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Cóipeáil gach rud go dtí an Ghearrthaisce">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Cóipeáil an téacs go dtí an ghearrthaisce">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Cóipeáil amhshonraí go dtí an ghearrthaisce">

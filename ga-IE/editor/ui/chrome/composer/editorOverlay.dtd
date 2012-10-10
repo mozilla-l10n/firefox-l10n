@@ -70,12 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "Roghnaigh clómhéid">
 <!ENTITY decreaseFontSize.label "Níos Lú">
 <!ENTITY decreaseFontSize.accesskey "s">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key "&lt;">
+<!-- < is above this key on many keyboards -->
+<!ENTITY decreaseFontSize.key2 ",">
 <!ENTITY increaseFontSize.label "Níos Mó">
 <!ENTITY increaseFontSize.accesskey "M">
-<!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key "&gt;">
+<!-- > is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key2 ".">
 
 <!ENTITY fontSizeMenu.label "Méid">
 <!ENTITY fontSizeMenu.accesskey "d">
