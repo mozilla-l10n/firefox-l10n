@@ -221,3 +221,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "请稍候...">
 
 <!ENTITY webapp_generic_name "应用">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; 有可用更新&#8230;">
+<!ENTITY updater_start_select "选择下载更新。">
+
+<!ENTITY updater_downloading_title "正在下载 &brandShortName;">
+<!ENTITY updater_downloading_ticker "正在下载 &brandShortName; 更新&#8230;">
+<!ENTITY updater_downloading_ticker_failed "下载 &brandShortName; 更新失败&#8230;">
+<!ENTITY updater_downloading_select "选择完成时应用更新。">
+<!ENTITY updater_downloading_retry "选择再次尝试下载更新。">
+<!ENTITY updater_downloading_willapply "等待下载完成。">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; 有可用更新&#8230;">
+<!ENTITY updater_apply_select "选择应用已下载的更新。">
