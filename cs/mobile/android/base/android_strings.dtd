@@ -100,6 +100,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší zážitek pro vás a světlejší budoucnost pro web.">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
+<!ENTITY pref_show_product_announcements "Zobrazit produktová oznámení">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 <!ENTITY pref_import_android "Importovat z Androidu">
