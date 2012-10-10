@@ -104,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenExitButton.label "拒绝">
 <!ENTITY fullscreenApproval.value "允许全屏？">
 
-<!ENTITY fullscreenExitHint.value "可随时按 ESC 退出全屏。">
+<!ENTITY fullscreenExitHint.value "任何时候按 ESC 退出全屏。">
 <!ENTITY leaveDOMFullScreen.label "退出全屏">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "查看元素">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveDesignTool.label   "自适应设计视图">
+<!ENTITY responsiveDesignTool.label   "响应式设计视图">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
-<!ENTITY inspect3DViewButton.label     "三维视图">
+<!ENTITY inspect3DViewButton.label     "3D 视图">
 <!ENTITY inspect3DViewButton.accesskey "W">
 
 <!ENTITY inspectStyleButton.label     "样式">
@@ -647,21 +647,14 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "社交工具栏按钮">
 <!ENTITY social.notLoggedIn.label   "没有登录">
 
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label     "不分享">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.shared.label   "您已分享此页。">
-<!ENTITY social.sharePopup.portrait.arialabel "用户个人资料照片">
-
 <!ENTITY social.toggleSidebar.label "显示侧栏">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "显示桌面通知">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "撤销">
 <!ENTITY social.activated.undobutton.accesskey "U">

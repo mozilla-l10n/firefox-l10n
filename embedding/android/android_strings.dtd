@@ -15,7 +15,7 @@
 <!ENTITY  exit_label "退出">
 <!ENTITY  continue_label "继续">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; 网页应用">
-<!ENTITY  launcher_shortcuts_empty "没有发现任何网页应用程序">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; 网络应用程序">
+<!ENTITY  launcher_shortcuts_empty "没有发现任何网络应用程序">
 
 <!ENTITY choose_file "选择文件">
