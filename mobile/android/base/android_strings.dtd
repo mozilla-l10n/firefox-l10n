@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "المواقع الأكثر زيارة">
 <!ENTITY  awesomebar_bookmarks_title "العلامات">
 <!ENTITY  awesomebar_history_title "التأريخ">
-<!ENTITY  awesomebar_search_engine "ابحث عن \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "مبلغ انهيارات &brandShortName;">
 <!ENTITY  crash_message "انهار &brandShortName;. ستجد ألسنتك مسرودة في صفحة بداية &brandShortName; عندما تعيد تشغيله.">
@@ -82,6 +81,7 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
+<!ENTITY pref_reflow_on_zoom "فعّل انسياب النص مع التقريب">
 <!ENTITY pref_font_size_tiny "ضئيل">
 <!ENTITY pref_font_size_small "صغير">
 <!ENTITY pref_font_size_medium "متوسط">
@@ -100,6 +100,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
+<!ENTITY pref_show_product_announcements "اعرض أخبار المنتجات">
 <!ENTITY pref_sync "تزامُن">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_import_android "استورد من أندرويد">
@@ -124,6 +125,7 @@ size. -->
 <!ENTITY save_as_pdf "احفظ ك‍ PDF">
 <!ENTITY find_in_page "ابحث في الصفحة">
 <!ENTITY desktop_mode "اطلب موقع سطح مكتب">
+<!ENTITY tools "أدوات">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -133,6 +135,7 @@ size. -->
 <!ENTITY find_close "أغلق">
 
 <!ENTITY contextmenu_open_new_tab "افتح في لسان جديد">
+<!ENTITY contextmenu_open_in_reader "افتح في القارئ">
 <!ENTITY contextmenu_remove_history "أزِل">
 <!ENTITY contextmenu_remove_bookmark "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
@@ -160,7 +163,7 @@ size. -->
 <!ENTITY reading_list_added "أضِفت الصفحة إلى قائمة القراءة">
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!ENTITY reading_list_failed "فشلت إضافة الصفحة إلى قائمة القراءة">
-<!ENTITY reader_mode "وضع القارئ">
+<!ENTITY reader "القارئ">
 
 <!ENTITY masterpassword_create_title "أنشئ كلمة سر رئيسية">
 <!ENTITY masterpassword_remove_title "أزِل كلمة السر الرئيسية">
@@ -169,7 +172,11 @@ size. -->
 
 <!ENTITY button_ok "حسنا">
 <!ENTITY button_cancel "ألغِ">
+<!ENTITY button_yes "نعم">
+<!ENTITY button_no "لا">
 <!ENTITY button_clear_data "امسح البيانات">
+<!ENTITY button_set "حدد">
+<!ENTITY button_clear "امسح">
 
 <!ENTITY abouthome_addons_title "إضافات &brandShortName;">
 <!ENTITY abouthome_addons_browse "تصفّح كل إضافات &brandShortName;">
@@ -222,21 +229,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "يستورد التأريخ 
 من أندرويد">
 <!ENTITY bookmarkhistory_import_wait "انتظر من فضلك...">
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+
+<!ENTITY suggestions_prompt "أتريد تفعيل اقتراحات بحث &#037;s؟">
 
 <!ENTITY webapp_generic_name "تطبيق">
+
+<!ENTITY searchable_description "العلامات والتأريخ">
 <!-- Updater notifications -->
 
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "يتوفر تحديث ل‍&brandShortName;&#8230;">
-<!ENTITY updater_start_select "اختر لتنزيل التحديث.">
+<!ENTITY updater_start_title "يتوفر تحديث &brandShortName;">
+<!ENTITY updater_start_select "المس لبدء التنزيل">
 
 <!ENTITY updater_downloading_title "تنزيل &brandShortName;">
-<!ENTITY updater_downloading_ticker "ينزّل تحديث &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "فشل تنزيل تحديث &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "اختر لتطبيق التحديث عند اكتماله.">
-<!ENTITY updater_downloading_retry "اختر لإعادة محاولة تنزيل التحديث.">
-<!ENTITY updater_downloading_willapply "ينتظر اكتمال التنزيل.">
+<!ENTITY updater_downloading_title_failed "فشل التنزيل">
+<!ENTITY updater_downloading_select "المس لتطبيق التحديث بمجرد تنزيله">
+<!ENTITY updater_downloading_retry "المس لإعادة المحاولة">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "تتو فر تحديثات &brandShortName;&#8230;">
-<!ENTITY updater_apply_select "اختر لتطبيقات التحديثات المُنزّلة.">
+<!ENTITY updater_apply_title "يتوفر تحديث &brandShortName;">
+<!ENTITY updater_apply_select "المس للتحديث">
