@@ -60,6 +60,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Mbylle Dritaren">
 <!ENTITY bookmarksMenu.label "Faqerojtësa">
 <!ENTITY bookmarksMenu.accesskey "F">
+<!ENTITY sharePageCmd.commandkey "t">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
 <!ENTITY addCurPagesCmd.label "Faqeruajini Tërë Skedat…">
@@ -472,6 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectCloseButton.tooltiptext "Mbylleni Shqyrtuesin">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Mbylleni anështyllën">
+
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Mbylleni Panelin e Zhvilluesit">
 <!ENTITY devToolbarMenu.label              "Paneli i Zhvilluesit">
@@ -537,7 +540,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "ç">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Skeda Prej Pajisjesh të Tjera">
+<!ENTITY syncTabsMenu2.label     "Skeda Prej Pajisjesh të Tjera">
 
 <!ENTITY syncBrand.shortName.label  "Njëkohëso">
 <!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
