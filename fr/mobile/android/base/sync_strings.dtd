@@ -86,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Un seul compte &syncBrand.fullName.label; peut être géré.'>
+<!ENTITY sync.notification.configure.saved 'Vos choix ont été enregistrés.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Le nom du compte ou le mot de passe est incorrect.'>
