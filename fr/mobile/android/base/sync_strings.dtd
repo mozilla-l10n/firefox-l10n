@@ -59,7 +59,7 @@
 <!ENTITY sync.summary.pair.label 'Associer un autre appareil à votre compte &syncBrand.shortName.label;'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Quoi synchroniser'>
+<!ENTITY sync.configure.engines.title.label 'Que synchroniser'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synchroniser…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Les marque-pages'>
 <!ENTITY sync.configure.engines.title.passwords 'Les mots de passe'>
