@@ -32,14 +32,14 @@
 <!ENTITY  font.langGroup.latin2                   "Keskieurooppalainen">
 <!ENTITY  font.langGroup.japanese                 "Japanilainen">
 <!ENTITY  font.langGroup.trad-chinese             "Perinteinen kiina (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Kiinalainen, yksinkertaistettu">
+<!ENTITY  font.langGroup.simpl-chinese            "Yksinkertaistettu kiina">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Perinteinen kiina (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korealainen">
 <!ENTITY  font.langGroup.cyrillic                 "Kyrillinen">
 <!ENTITY  font.langGroup.baltic                   "Balttilainen">
 <!ENTITY  font.langGroup.el                       "Kreikkalainen">
 <!ENTITY  font.langGroup.turkish                  "Turkkilainen">
-<!ENTITY  font.langGroup.unicode                  "Muut kielet">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Käyttäjän määrittämä">
 <!ENTITY  font.langGroup.thai                     "Thaimaalainen">
 <!ENTITY  font.langGroup.hebrew                   "Heprealainen">

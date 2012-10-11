@@ -7,7 +7,8 @@
 <!ENTITY headline.label
 'Tervetuloa <a id="vendorURL" href="">&brandShortName;n</a> sähköposti- ja keskusteluryhmäohjelmaan!'>
 <!ENTITY description.label
-"&brandShortName;n sähköposti- ja keskusteluryhmäohjelma on avointa lähdekoodia. Siinä on kehittynyt roskapostin tunnistus sekä muita hyödyllisiä ominaisuuksia.">
+"&brandShortName;n sähköposti- ja keskusteluryhmäohjelma on avointa lähdekoodia.
+Siinä on kehittynyt roskapostin tunnistus ja muita hyödyllisiä ominaisuuksia.">
 <!ENTITY features.title "Ominaisuudet">
 <!ENTITY feat_multiacc.label "Tukee useita tilejä">
 <!ENTITY feat_junk.label "Roskapostin tunnistus">
@@ -15,11 +16,11 @@
 <!ENTITY feat_filters.label "Viestisuodattimet">
 <!ENTITY feat_htmlmsg.label "Tukee HTML-viestejä">
 <!ENTITY feat_abook.label "Osoitekirja">
-<!ENTITY feat_labels.label "Muokattavat tunnukset ja viestinäkymät">
+<!ENTITY feat_tags.label "Muokattavat tunnukset ja viestinäkymät">
 <!ENTITY feat_integration.label
 "Tiivis integraatio muiden &brandShortName;-sovellusten kanssa">
 <!ENTITY dict.title "Sanakirjat">
-<!ENTITY dict_intro.label "Sanakirjoja käytetään viestien oikeinkirjoituksen tarkistamiseen.">
+<!ENTITY dict_intro.label "Sanakirjojen avulla tarkistetaan viestien oikeinkirjoitus.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY dict_info.label
 'Monia lisäkieliä voi ladata <a href="https://addons.mozilla.org/seamonkey/">Mozillan lisäosasivuston</a> kohdasta <a id="dictURL" href="">sanakirjat</a>.'>

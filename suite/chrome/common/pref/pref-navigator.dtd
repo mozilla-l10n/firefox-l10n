@@ -46,4 +46,5 @@
 <!ENTITY defaultBrowserButton.accesskey "o">
 <!ENTITY alreadyDefaultText             "&brandShortName; on jo järjestelmän oletusselain.">
 <!ENTITY defaultPendingText             "&brandShortName; asetetaan järjestelmän oletusselaimeksi, kun painat OK.">
+<!ENTITY wasMadeDefaultText             "&brandShortName; on asetettu järjestelmän oletusselaimeksi.">
 <!ENTITY makeDefaultText                "Aseta &brandShortName; järjestelmän oletusselaimeksi.">
