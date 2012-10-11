@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Опции за испраќање">
 <!ENTITY sendMail.title "Формат на текст">
 <!ENTITY sendMaildesc.label "При праќање на пораки во HTML формат кога еден или повеќе примачи не се заведени дека примаат HTML пораки:">
