@@ -47,6 +47,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Název">
 <!ENTITY aboutSupport.modifiedPrefsValue "Hodnota">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "Předvolby user.js">
+<!ENTITY aboutSupport.userJSDescription "Složka s profilem obsahuje <a id='prefs-user-js-link'>soubor user.js</a>, který obsahuje předvolby, jež nebyly vytvořeny aplikací &brandShortName;.">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
