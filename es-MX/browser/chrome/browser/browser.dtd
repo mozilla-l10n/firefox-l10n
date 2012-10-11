@@ -51,7 +51,7 @@
 <!ENTITY addonBarCmd.label "Barra de complemento">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "c">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -182,7 +182,7 @@
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "O">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "e">
 <!ENTITY inspectorHTMLDelete.label "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "B">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
@@ -190,7 +190,7 @@
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor de estilos">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.accesskey "E">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
@@ -459,13 +459,13 @@
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY markupButton.arialabel "Marcado">
 <!ENTITY markupButton.accesskey "M">
-<!ENTITY socialToolbar.title "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label "Not logged in">
-<!ENTITY social.ok.label "OK">
-<!ENTITY social.ok.accesskey "O">
-<!ENTITY social.toggleSidebar.label "Show sidebar">
-<!ENTITY social.toggleSidebar.accesskey "s">
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY socialToolbar.title "Botón de herramientas sociales">
+<!ENTITY social.notLoggedIn.label "Sesión no iniciada">
+<!ENTITY social.ok.label "Aceptar">
+<!ENTITY social.ok.accesskey "A">
+<!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
+<!ENTITY social.toggleSidebar.accesskey "l">
+<!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
 <!ENTITY social.toggleNotifications.accesskey "n">
-<!ENTITY social.activated.undobutton.label "Undo">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.undobutton.label "Deshacer">
+<!ENTITY social.activated.undobutton.accesskey "D">

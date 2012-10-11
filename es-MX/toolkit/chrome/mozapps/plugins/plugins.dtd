@@ -19,7 +19,7 @@
 <!ENTITY missingPlugin "Se necesita un plugin para mostrar este contenido.">
 <!ENTITY tapToPlayPlugin "Pulsa aquí para activar el plugin.">
 <!ENTITY clickToPlayPlugin "Clic aquí para activar el plugin.">
-<!ENTITY checkForUpdates "Check for updates…">
+<!ENTITY checkForUpdates "Buscar actualizaciones…">
 <!ENTITY disabledPlugin "Este plugin está desactivado.">
 <!ENTITY blockedPlugin.label "Este plugin se bloqueó para tu protección.">
 <!ENTITY installPlugin "Instalar plugin…">

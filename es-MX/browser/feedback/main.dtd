@@ -18,7 +18,7 @@
 <!ENTITY testpilot.rawDataWindow.title "Test Pilot: Datos puros">
 <!ENTITY testpilot.notification.close.tooltip "Cerrar">
 <!ENTITY testpilot.enable.label "Activar los estudios de usuarios">
-<!ENTITY testpilot.feedbackbutton.label "Feedback">
+<!ENTITY testpilot.feedbackbutton.label "Opinión">
 <!ENTITY testpilot.happy.label "Firefox me hace feliz porque...">
 <!ENTITY testpilot.sad.label "Firefox no me gusta porque...">
 <!ENTITY testpilot.broken.label "Informar de este sitio web como dañado…">
