@@ -22,7 +22,7 @@
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
-<!ENTITY engine.addons.accesskey "A">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "e">
 <!ENTITY unlinkDevice.label "Desvincular este dispositivo">
