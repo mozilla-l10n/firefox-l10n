@@ -99,6 +99,7 @@
 <!ENTITY find_in_page "Trova nella pagina">
 <!ENTITY desktop_mode "Modalità desktop">
 <!ENTITY tools "Strumenti">
+<!ENTITY new_pb_tab "Nuova scheda anonima">
 <!ENTITY find_text "Trova nella pagina">
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
@@ -168,7 +169,7 @@
 <!ENTITY updater_start_select2 "Tocca per scaricare">
 <!ENTITY updater_downloading_title2 "Download di &brandShortName; in corso">
 <!ENTITY updater_downloading_title_failed2 "Download non riuscito">
-<!ENTITY updater_downloading_select2 "Seleziona per installare a download completato.">
+<!ENTITY updater_downloading_select2 "Tocca per installare a download completato.">
 <!ENTITY updater_downloading_retry2 "Tocca per riprovare">
 <!ENTITY updater_apply_title2 "Aggiornamento disponibile per &brandShortName;">
 <!ENTITY updater_apply_select2 "Tocca per aggiornare">
