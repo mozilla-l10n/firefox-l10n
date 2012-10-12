@@ -49,7 +49,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Accélération graphique">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Ramasse-miettes incrémental">
+<!ENTITY aboutSupport.jsIncrementalGC "Ramasse-miettes incrémentiel">
 
 <!ENTITY aboutSupport.a11yTitle "Accessibilité">
 <!ENTITY aboutSupport.a11yActivated "Activée">
