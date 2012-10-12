@@ -21,6 +21,7 @@
 <!ENTITY codeEval.label     "ਕੋਡ:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "ਮੁਲਾਂਕਣ">
+<!ENTITY evaluate.accesskey "v">
 
 <!ENTITY copyCmd.label       "ਕਾਪੀ ਕਰੋ">  
 <!ENTITY copyCmd.accesskey   "C"> 
