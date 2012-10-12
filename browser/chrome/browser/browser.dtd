@@ -41,7 +41,7 @@
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Печать…">
-<!ENTITY printCmd.accesskey "е">
+<!ENTITY printCmd.accesskey "ч">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY goOfflineCmd.label "Работать автономно">
 <!ENTITY goOfflineCmd.accesskey "б">
@@ -203,6 +203,8 @@
 <!ENTITY newNavigatorCmd.label "Новое окно">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "Н">
+<!ENTITY newPrivateWindow.label "Новое приватное окно">
+<!ENTITY newPrivateWindow.accesskey "е">
 <!ENTITY editMenu.label "Правка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Отменить">

@@ -39,6 +39,12 @@
 <!ENTITY sync.pair.connectlocation.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;», а затем выберите «У меня есть учётная запись».">
 <!ENTITY sync.settings.options.label "Настройки">
 <!ENTITY sync.summary.pair.label "Связать другое устройство с вашей учётной записью &syncBrand.shortName.label;">
+<!ENTITY sync.configure.engines.title.label "Что синхронизировать">
+<!ENTITY sync.configure.engines.sync.my.title.label "Синхронизировать ваши…">
+<!ENTITY sync.configure.engines.title.bookmarks "Закладки">
+<!ENTITY sync.configure.engines.title.passwords "Пароли">
+<!ENTITY sync.configure.engines.title.history "Историю">
+<!ENTITY sync.configure.engines.title.tabs "Вкладки">
 <!ENTITY sync.button.cancel.label "Отмена">
 <!ENTITY sync.button.connect.label "Соединиться">
 <!ENTITY sync.button.ok.label "OK">
@@ -52,6 +58,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Мобильные закладки">
 <!ENTITY bookmarks.folder.readinglist.label "Список для чтения">
 <!ENTITY sync.notification.oneaccount.label "Только одна учётная запись &syncBrand.fullName.label; поддерживается.">
+<!ENTITY sync.notification.configure.saved "Ваши настройки были сохранены.">
 <!ENTITY sync.invalidcreds.label "Неверное имя учётной записи или пароль.">
 <!ENTITY sync.invalidserver.label "Пожалуйста, введите корректный URL сервера">
 <!ENTITY sync.verifying.label "Проверка…">
