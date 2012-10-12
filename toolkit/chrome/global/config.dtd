@@ -40,7 +40,7 @@
 <!ENTITY aboutWarningButton.label "Seré cuidadoso, ¡lo prometo!">
 <!ENTITY aboutWarningCheckbox.label "Mostrar siempre esta advertencia.">
 <!ENTITY searchPrefs.label "Buscar:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.accesskey "B">
 <!ENTITY focusSearch.key "r">
 <!ENTITY prefColumn.label "Nombre">
 <!ENTITY lockColumn.label "Estado">
