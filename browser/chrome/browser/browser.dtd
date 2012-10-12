@@ -236,9 +236,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY social.activated.undobutton.accesskey "C">
 
 
-
-<!ENTITY inspectorButton.label "Inspektors">
-
 <!ENTITY errorConsoleCmd.label "Kļūdu pārlūks">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
