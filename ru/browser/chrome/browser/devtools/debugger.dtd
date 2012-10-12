@@ -9,4 +9,5 @@
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
+<!ENTITY debuggerUI.showNonEnums "Показать скрытые свойства">
 <!ENTITY debuggerUI.searchPanelTitle "Операторы">
