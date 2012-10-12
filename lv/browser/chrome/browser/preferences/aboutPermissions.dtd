@@ -16,6 +16,7 @@
 <!ENTITY permission.alwaysAsk            "Vienmēr jautāt">
 <!ENTITY permission.allow                "Atļaut">
 <!ENTITY permission.allowForSession      "Atļaut uz sesiju">
+<!ENTITY permission.allowFirstPartyOnly  "Atļaut tikai pirmās puses">
 <!ENTITY permission.block                "Bloķēt">
 
 <!ENTITY password.label                  "Saglabāt paroles">
