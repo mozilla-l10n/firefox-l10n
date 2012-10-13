@@ -65,12 +65,14 @@
 <!ENTITY FontSizeSelect.tooltip "Veldu leturstærð">
 <!ENTITY decreaseFontSize.label "Minna">
 <!ENTITY decreaseFontSize.accesskey "n">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key "&lt;">
+<!ENTITY decreaseFontSize.key2 ",">
+ <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Stærra">
 <!ENTITY increaseFontSize.accesskey "S">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "=">
- <!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key "&gt;">
+<!ENTITY increaseFontSize.key2 ".">
+ <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Stærð">
 <!ENTITY fontSizeMenu.accesskey "æ">

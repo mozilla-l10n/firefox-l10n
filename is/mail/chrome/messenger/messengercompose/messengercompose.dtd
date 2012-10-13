@@ -6,7 +6,6 @@
 <!ENTITY msgComposeWindow.title "Skrifa: (ekkert efni)">
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Skrá">
- 
 <!ENTITY fileMenu.accesskey "S">
 <!ENTITY newMenu.label "Nýr">
 <!ENTITY newMenu.accesskey "N">
@@ -55,24 +54,19 @@
 <!ENTITY printCmd.accesskey "P">
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Breyta">
- 
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Afturkalla">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "u">
- 
 <!ENTITY redoCmd.label "Endurtaka">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "r">
- 
 <!ENTITY cutCmd.label "Klippa">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "K">
- 
 <!ENTITY copyCmd.label "Afrita">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "A">
- 
 <!ENTITY pasteCmd.label "Líma">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "L">
@@ -88,7 +82,6 @@
 <!ENTITY selectAllCmd.label "Velja allt">
 <!ENTITY selectAllCmd.key "V">
 <!ENTITY selectAllCmd.accesskey "j">
- 
 <!ENTITY findCmd.label "Leita og breyta…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "o">
@@ -100,17 +93,12 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "b">
- 
-
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Skoða
 ">
- 
 <!ENTITY viewMenu.accesskey "k">
 <!ENTITY viewToolbarsMenuNew.label "Verkfæraslár">
- 
 <!ENTITY viewToolbarsMenuNew.accesskey "V">
- 
 <!ENTITY menubarCmd.label "Valmynd">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Samsetningarslá">
@@ -122,10 +110,7 @@
 <!ENTITY customizeToolbar.label "Sérsníða…">
 <!ENTITY customizeToolbar.accesskey "S">
 <!ENTITY addressSidebar.label "Tengiliðahliðslá">
- 
 <!ENTITY addressSidebar.accesskey "T">
- 
-
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Snið">
 <!ENTITY formatMenu.accesskey "n">
@@ -189,14 +174,11 @@
 <!ENTITY preferencesCmd.accesskey "V">
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
- 
-
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minnka">
 <!ENTITY bringAllToFront.label "Endurheimta">
 <!ENTITY zoomWindow.label "Aðdráttur">
- 
 <!ENTITY windowMenu.label "Gluggi">
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Senda">
@@ -207,18 +189,12 @@
 <!ENTITY saveButton.label "Vista">
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Senda þennan póst núna">
- 
 <!ENTITY sendlaterButton.tooltip "Senda þennan póst seinna">
- 
 <!ENTITY quoteButton.tooltip "Vitna í fyrri póst">
- 
 <!ENTITY addressButton.tooltip "Veldu viðtakanda úr nafnaskránni">
- 
 <!ENTITY attachButton.tooltip "Bæta við viðhengi">
- 
 <!ENTITY spellingButton.tooltip "Athuga stafsetningu á vali eða öllum póstinum">
 <!ENTITY saveButton.tooltip "Vista þennan póst">
- 
 <!ENTITY cutButton.tooltip "Klippa">
 <!ENTITY copyButton.tooltip "Afrita">
 <!ENTITY pasteButton.tooltip "Líma">
@@ -229,17 +205,11 @@
 <!ENTITY fromAddr.label "Frá:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Til:">
- 
 <!ENTITY ccAddr.label "Afrit:">
- 
 <!ENTITY bccAddr.label "Falið afrit:">
- 
 <!ENTITY replyAddr.label "Svara á:">
- 
 <!ENTITY newsgroupsAddr.label "Fréttahópur:">
- 
 <!ENTITY followupAddr.label "Eftirfylgni:">
- 
 <!ENTITY subject.label "Efni:">
 <!ENTITY subject.accesskey "f">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
