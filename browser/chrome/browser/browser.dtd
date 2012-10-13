@@ -655,11 +655,6 @@ toolbar button -->
 <!ENTITY social.ok.label       "ОК">
 <!ENTITY social.ok.accesskey   "О">
 
-<!ENTITY social.sharePopup.undo.label     "Бөліспеу">
-<!ENTITY social.sharePopup.undo.accesskey "п">
-<!ENTITY social.sharePopup.shared.label   "Сіз осы парақпен бөлістіңіз.">
-<!ENTITY social.sharePopup.portrait.arialabel "Пайдаланушы профилінің суреті">
-
 <!ENTITY social.toggleSidebar.label "Бүйір панелін көрсету">
 <!ENTITY social.toggleSidebar.accesskey "Б">
 
