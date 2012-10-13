@@ -277,6 +277,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nytt fönster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Nytt privat fönster">
+<!ENTITY newPrivateWindow.accesskey "t">
 
 <!ENTITY editMenu.label         "Redigera"> 
 <!ENTITY editMenu.accesskey       "R"> 
