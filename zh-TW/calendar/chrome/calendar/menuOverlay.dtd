@@ -23,7 +23,7 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.label                  "匯出選取的項目…">
+<!ENTITY calendar.export.label                  "匯出…">
 <!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "匯出選取的項目…">
 <!ENTITY calendar.export.selection.accesskey    "S">

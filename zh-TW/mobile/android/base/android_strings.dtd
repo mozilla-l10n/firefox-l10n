@@ -111,7 +111,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings "網站偏好設定">
 
-<!ENTITY quit "結束">
+<!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載項目">
