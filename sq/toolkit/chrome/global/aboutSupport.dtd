@@ -52,9 +52,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC Rritës">
 
+<!ENTITY aboutSupport.a11yTitle "Përdorshmëri">
+<!ENTITY aboutSupport.a11yActivated "E aktivizuar">
+<!ENTITY aboutSupport.a11yForceDisabled "Parandaloje Përdorshmërinë">
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Versione Librarie">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historik Instalimesh">
 <!ENTITY aboutSupport.updateHistoryTitle "Historik Përditësimesh">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Kopjoje krejt në të papastër">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kopjoje tekstin te e papastra">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopjo të dhëna të papërpunuara te e papastra">
