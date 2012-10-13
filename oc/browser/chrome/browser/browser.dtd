@@ -22,16 +22,16 @@
 <!ENTITY  reloadAllTabs.accesskey            "T">
 <!ENTITY  closeOtherTabs.label               "Tampar los autres onglets">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Espingolar aqueste onglet">
-<!ENTITY  pinAppTab.accesskey                "p">
-<!ENTITY  unpinAppTab.label                  "Daissar anar l'onglet">
-<!ENTITY  unpinAppTab.accesskey              "r">
+<!ENTITY  pinTab.label                       "Espingolar aqueste onglet">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "Daissar anar l'onglet">
+<!ENTITY  unpinTab.accesskey                 "r">
 <!ENTITY  moveToGroup.label                  "Desplaçar cap al grop">
 <!ENTITY  moveToGroup.accesskey              "D">
 <!ENTITY  moveToNewGroup.label               "Grop novèl">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Tampar l'inspector">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Tampar lo panèl lateral">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tampar la barra de desvolopament">
 <!ENTITY devToolbarMenu.label              "Barra de desvolopament">
@@ -242,9 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Autras aisinas">
-
-<!ENTITY webConsoleButton.label "Consòla Web">
-<!ENTITY inspectorButton.label "Inspector">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar innerHTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "C">
@@ -534,7 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Dobrir un onglet novèl">
 <!ENTITY newWindowButton.tooltip        "Dobrir una fenèstra novèla">
-<!ENTITY sidebarCloseButton.tooltip     "Tampar la barra laterala">
+<!ENTITY sidebarCloseButton.tooltip     "Tampar lo panèl lateral">
 
 <!ENTITY cutButton.tooltip              "Talhar">
 <!ENTITY copyButton.tooltip             "Copiar">
@@ -621,9 +619,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Onglets del navigador">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "Onglets d'ordenadors mai">
+<!ENTITY syncTabsMenu2.label     "Onglets d'autres aparelhs">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -654,7 +652,7 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Afichar lo panèl lateral">
 <!ENTITY social.toggleSidebar.accesskey "A">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.label "Afichar las notificacions sul burèu">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Anullar">

@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Demandar totjorn">
 <!ENTITY permission.allow                "Autorizar">
 <!ENTITY permission.allowForSession      "Autorizar pendent la sesilha">
+<!ENTITY permission.allowFirstPartyOnly  "Domeni principal sol">
 <!ENTITY permission.block                "Blocar">
 
 <!ENTITY password.label                  "Afichar los senhals">

@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "A prepaus de &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; es experimental e pòt èsser instable.">
 <!ENTITY aboutPage.telemetryStart               " Manda automaticament d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a ">

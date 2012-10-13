@@ -34,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "C">
 <!ENTITY alwaysAsk.label "Demandar totjorn ont cal enregistrar los fichièrs">
 <!ENTITY alwaysAsk.accesskey "t">
-
-<!ENTITY addonsMgr.label               "Moduls complementaris">
-<!ENTITY manageAddonsDescWin.label     "Modificar las opcions de vòstres moduls complementaris">
-<!ENTITY manageAddonsDescUnix2.label   "Modificar las preferéncias de vòstres moduls complementaris">
-<!ENTITY manageAddons.label            "Gerir los moduls complementaris...">
-<!ENTITY manageAddons.accesskey        "G">
