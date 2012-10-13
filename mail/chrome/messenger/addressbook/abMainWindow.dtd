@@ -176,7 +176,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Department.accesskey                           "r">
 <!ENTITY JobTitle.label                                 "頭銜">
 <!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "在行動裝置上">
+<!ENTITY CellularNumber.label                           "行動電話">
 <!ENTITY CellularNumber.accesskey                       "M">
 <!ENTITY PagerNumber.label                              "呼叫器">
 <!ENTITY PagerNumber.accesskey                          "P">

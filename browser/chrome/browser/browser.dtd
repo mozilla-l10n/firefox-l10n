@@ -549,7 +549,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "結束"> 
+<!ENTITY quitApplicationCmd.label       "離開"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac.label    "結束 &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">

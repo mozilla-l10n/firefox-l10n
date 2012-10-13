@@ -117,7 +117,7 @@
 <!ENTITY pageactions.saveas.pdf      "另存成 PDF">
 <!ENTITY pageactions.share.page      "分享頁面">
 <!ENTITY pageactions.password.forget "忘掉在此網站輸入過的密碼">
-<!ENTITY pageactions.quit            "結束">
+<!ENTITY pageactions.quit            "離開">
 <!ENTITY pageactions.reset           "清除頁面的偏好設定">
 <!ENTITY pageactions.findInPage      "尋找">
 <!ENTITY pageactions.search.addNew   "新增搜尋引擎">

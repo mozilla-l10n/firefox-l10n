@@ -79,7 +79,7 @@
 <!ENTITY newmsgButton.accesskey                         "C">  
 <!ENTITY deleteItemButton.label                         "刪除">
 <!ENTITY deleteItemButton.accesskey                     "D">
-<!ENTITY newimButton.label                              "即時簡訊">  
+<!ENTITY newimButton.label                              "即時訊息">  
 <!ENTITY newimButton.accesskey                          "I">  
 <!ENTITY searchNameAndEmail.placeholder                 "搜尋名稱與電子郵件">
 <!ENTITY searchBox.title                                "搜尋">
@@ -90,7 +90,7 @@
 <!ENTITY newlistButton.tooltip                          "新增群組寄信名單"> 
 <!ENTITY editItemButton.tooltip                         "編輯選取的項目">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件"> 
-<!ENTITY newIM.tooltip                                  "傳送簡訊或聊天"> 
+<!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天"> 
 <!ENTITY deleteItemButton.tooltip                       "刪除選取的項目">
 <!ENTITY throbber.tooltip                               "&vendorShortName; 的首頁">
 <!ENTITY advancedButton.tooltip                         "進階位址搜尋">

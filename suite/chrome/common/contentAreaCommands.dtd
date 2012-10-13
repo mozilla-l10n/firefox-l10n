@@ -82,7 +82,7 @@
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY copyLinkCmd.label            "複製鏈結網址">
 <!ENTITY copyLinkCmd.accesskey        "L">
-<!ENTITY copyImageCmd.label           "複製圖片網址">
+<!ENTITY copyImageCmd.label           "複製圖片">
 <!ENTITY copyImageCmd.accesskey       "y">
 <!ENTITY copyVideoURLCmd.label        "複製視訊檔案網址">
 <!ENTITY copyVideoURLCmd.accesskey    "L">
