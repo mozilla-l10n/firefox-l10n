@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Mesa a jorn del logicial">
 
 <!ENTITY  checking.title                  "Recèrca de mesas a jorn">
@@ -10,7 +13,8 @@
 <!ENTITY  noupdatesfound.title            "Cap de mesa a jorn pas trobada">
 <!ENTITY  noupdatesautoenabled.intro      "I a pas cap de mesa a jorn disponibla. &brandShortName; 
 verificarà regularament se n'ia.">
-<!ENTITY  noupdatesautodisabled.intro     "I a pas cap de mesa a jorn disponibla. Tornatz verificar pus tard o activatz la verificacion automatica de mesa de jorn de &brandShortName;.">
+<!ENTITY  noupdatesautodisabled.intro     "I a pas cap de mesa a jorn disponibla. Tornatz verificar tornarmai pus tard, o activatz 
+la verificacion de mesa de jorn automatica de &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Impossible de metre a jorn">
 <!ENTITY  manualUpdate.desc               "Una mesa a jorn de seguretat e d'estabilitat es disponibla mas avètz pas 

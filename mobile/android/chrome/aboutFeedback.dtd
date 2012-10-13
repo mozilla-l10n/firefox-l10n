@@ -9,62 +9,62 @@
 <!ENTITY pageTitle                 "Mesa a jorn de &brandShortName;">
 
 <!ENTITY intro.header              "Avètz una minuta ?">
-<!ENTITY intro.message             "Tell us what you think about &brandShortName; for Android so far.">
+<!ENTITY intro.message             "Digatz-nos çò que pensatz fins a aicí de &brandShortName; per Android.">
 <!ENTITY intro.happyLink           "Adòri">
-<!ENTITY intro.sadLink             "I ran into some problems">
+<!ENTITY intro.sadLink             "Rencontri qualques problèmas">
 <!ENTITY intro.ideaLink            "Ai una idèa">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "If you need help or have a problem with &brandShortName;, please visit ">
+<!ENTITY support.pre               "S'avètz besonh d'ajuda o rencontratz de problèmas amb &brandShortName;, consultatz ">
 <!ENTITY support.link              "Acuèlh de &brandShortName;">
 <!ENTITY support.post              ".">
 
-<!ENTITY happy.header              "That's great to hear!">
+<!ENTITY happy.header              "Aquò's bon de l'ausir !">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "Want to share the love by giving us a 5 star rating on Google Play?">
+<!ENTITY happy.message             "Volètz far passar lo mot en nos atribuissent una nòta de 5 estelas sus Google Play ?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
-<!ENTITY happy.finePrint           "It takes less than a minute and feels great.">
+<!ENTITY happy.finePrint           "Aquò pren mens d'una minuta e vos fa vos sentir plan.">
 
-<!ENTITY happy.ratingLink          "Yes, go to Google Play">
+<!ENTITY happy.ratingLink          "Òc, dobrir Google Play">
 <!ENTITY happy.maybeLater          "Benlèu mai tard">
 <!ENTITY happy.noThanks            "Non, mercé">
 
-<!ENTITY sad.message               "We're sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
-<!ENTITY sad.placeholder           "Enter your feedback here">
-<!ENTITY sad.lastSite              "Last visited site (optional)">
+<!ENTITY sad.message               "Planhèm qu'ajatz qualques problèmas amb &brandShortName;. Explicatz-nos çò que s'es passat per tal que lo poscam corregir.">
+<!ENTITY sad.placeholder           "Picatz vòstra opinion aicí">
+<!ENTITY sad.lastSite              "Darrièr site visitat (opcional)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Thanks for letting us know.">
+<!ENTITY sad.thanksHeader          "Mercé de nos aver assabentat.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "We're always working to make &brandShortName; better. Rest assured that real people will look at your feedback and do their very best to resolve your issue.">
+<!ENTITY sad.thanksMessageTop      "Trabalham sens arrestar per melhorar &brandShortName;. Siatz assegurats que d'èssers umans van legir vòstra opinion e far çò maximum per resòlvre vòstre problèma.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "Or else.">
+<!ENTITY sad.thanksMessageBottom   "O siquenon.">
 <!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
      tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
      to tell us anything they're thinking about. -->
 
-<!ENTITY idea.message              "We love hearing your ideas! Please share your thoughts below. (Just the ones about &brandShortName;, please.)">
+<!ENTITY idea.message              "Adoram escotar vòstras idèas ! Partejatz vòstras pensadas çaijós. (Pas que las que concernisson &brandShortName;, sens vos comandar.)">
 <!ENTITY idea.placeholder          "Picatz vòstra idèa aicí">
 <!ENTITY idea.thanksHeader         "Mercé !">
 
-<!ENTITY idea.thanksMessageTop     "We appreciate you taking the time to share your thoughts. We're always working to make &brandShortName; better and contributions like yours can lead to great things.">
+<!ENTITY idea.thanksMessageTop     "Nos agrada que prengatz lo temps de partejar vòstras idèas. Trabalham sens arrestar per melhorar &brandShortName; e las contribucions coma la vòstra pòdon menar a de grandas causas.">
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
      something physical, which is why they can't see it.-->
 
-<!ENTITY idea.thanksMessageBottom  "You can't see it, but we're giving you a high five right now.">
+<!ENTITY idea.thanksMessageBottom  "Lo podètz pas veire, mas en aqueste meteis moment, vos balham una tustada de la man per vos mercejar.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
-<!ENTITY feedback.send             "Send Feedback">
+<!ENTITY feedback.privacy          "Per tal de preservar vòstra vida privada, incluiscatz pas d'informacions personalas identificablas dins vòstra opinion.">
+<!ENTITY feedback.send             "Mandar vòstra opinion">

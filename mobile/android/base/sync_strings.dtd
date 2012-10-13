@@ -15,8 +15,8 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Per activar vòstre novèl aparelh, seleccionar « Configurar &syncBrand.shortName.label; » sus aqueste.">
-<!ENTITY sync.subtitle.header.label "Picatz aqueste còde sus vòstre ordenador">
-<!ENTITY sync.subtitle.connectlocation.label "Seleccionatz « &sync.title.pair.label; » dins la seccion &syncBrand.shortName.label; de las opcions de Firefox sus vòstre ordenador.">
+<!ENTITY sync.subtitle.header2.label "Picatz aqueste còde sus vòstre aparelh">
+<!ENTITY sync.subtitle.connectlocation2.label "Seleccionatz « &sync.title.pair.label; » dins la seccion &syncBrand.shortName.label; de las opcions de Firefox sus vòstre aparelh\.">
 <!ENTITY sync.subtitle.pair.label "Per activar, seleccionatz « Associar un aparelh » sus vòstre aparelh.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">

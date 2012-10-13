@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Ja avètz utilizat &syncBrand.fullName.label; ?">
 <!ENTITY setup.choicePage.new.label       "Ai pas jamai utilizat &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Utilizi ja &syncBrand.shortName.label; sus un autre ordenador">
+<!ENTITY setup.choicePage.existing2.label "Utilizi ja &syncBrand.shortName.label; sus un autre aparelh">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Servidor">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Opcions de sincronizacion">
-<!ENTITY syncComputerName.label       "Nom de l'ordenador :">
-<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY syncDeviceName.label       "Nom de l'aparelh :">
+<!ENTITY syncDeviceName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcapaginas">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Moduls complementaris">
 <!ENTITY engine.addons.accesskey    "e">
 
-<!ENTITY choice2.merge.main.label      "Fusionar las donadas d'aqueste ordenador amb mas donadas de &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Fusionar las donadas d'aqueste aparelh amb mas donadas de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomandat :">
-<!ENTITY choice2.client.main.label     "Remplaçar totas las donadas d'aqueste ordenador amb mas donadas de &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Remplaçar las donadas de totes mos autres aparelhs amb las donadas d'aqueste ordenador">
+<!ENTITY choice2a.client.main.label      "Remplaçar totas las donadas d'aqueste aparelh amb mas donadas de &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Remplaçar las donadas de totes mos autres aparelhs amb las donadas d'aqueste aparelh">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
-<!ENTITY confirm.merge.label    "Ara, &syncBrand.fullName.label; va fusionar totas las donadas del navigador d'aqueste ordenador amb vòstre compte Sync.">
-<!ENTITY confirm.client2.label         "Atencion : las donadas seguentas de &brandShortName; sus aqueste ordenador seràn suprimidas :">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; copiarà puèi vòstras donadas &syncBrand.fullName.label; sus aqueste ordenador.">
+<!ENTITY confirm.merge2.label    "Ara, &syncBrand.fullName.label; va fusionar totas las donadas del navigador d'aqueste aparelh amb vòstre compte Sync.">
+<!ENTITY confirm.client3.label         "Atencion : las donadas seguentas de &brandShortName; sus aqueste aparelh seràn suprimidas :">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; copiarà puèi vòstras donadas &syncBrand.fullName.label; sus aqueste aparelh.">
 <!ENTITY confirm.server2.label         "Atencion : las donadas dels aparelhs seguents seràn remplaçadas per vòstras donadas localas :">
 <!-- New & Existing Account: Setup Complete -->
 
