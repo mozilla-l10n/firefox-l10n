@@ -22,3 +22,5 @@
 <!ENTITY ispHeaders.accesskey "T">
 <!ENTITY junkClassification.label "Val">
 <!ENTITY junkActions.label "Viðtökustaður og varðveisla">
+<!ENTITY globalJunkPrefs.label "Víðværar ruslpóstsstillingar…">
+<!ENTITY globalJunkPrefs.accesskey "V">

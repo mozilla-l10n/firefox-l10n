@@ -38,3 +38,7 @@
 <!ENTITY includeSigOnReply.accesskey "æ">
 <!ENTITY includeSigOnForward.label "Bæta undirskrift við í áframsend bréf">
 <!ENTITY includeSigOnForward.accesskey "f">
+<!ENTITY globalComposingPrefs.label "Víðværar samsetningarstillingar…">
+<!ENTITY globalComposingPrefs.accesskey "g">
+<!ENTITY globalAddressingPrefs.label "Víðværar póstfanga stillingar…">
+<!ENTITY globalAddressingPrefs.accesskey "p">
