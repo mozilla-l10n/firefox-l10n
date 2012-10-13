@@ -50,7 +50,7 @@
 <!ENTITY goButton.label               "衝">
 <!ENTITY goButton.tooltip             "在網址列中打入網址後按此開始瀏覽">
 <!ENTITY printButton.label            "列印">
-<!ENTITY printButton.tooltip          "列印頁面">
+<!ENTITY printButton.tooltip          "列印此頁">
 
 <!ENTITY throbber.tooltip             "&vendorShortName; 的首頁">
 

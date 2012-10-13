@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "新郵件: (無主旨)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "檔案"> 
+<!ENTITY fileMenu.label "檔案">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "新增">
 <!ENTITY newMenu.accesskey "N">
@@ -55,20 +55,20 @@
 <!ENTITY printCmd.accesskey "P">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "編輯"> 
+<!ENTITY editMenu.label "編輯">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "復原">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "U"> 
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "取消「復原」">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "剪下">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "複製">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "貼上">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
@@ -83,7 +83,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "全選">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "A"> 
+<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY findCmd.label "尋找及取代…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
@@ -94,13 +94,13 @@
 <!ENTITY findPrevCmd.label "找前一個">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v"> 
+<!ENTITY findPrevCmd.accesskey "v">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "檢視"> 
+<!ENTITY viewMenu.label "檢視">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "工具列"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY viewToolbarsMenuNew.label "工具列">
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY menubarCmd.label "選單列">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "編輯工具列">
@@ -112,8 +112,8 @@
 <!ENTITY customizeToolbar.label "自訂…">
 <!ENTITY customizeToolbar.accesskey "C">
 
-<!ENTITY addressSidebar.label "通訊錄"> 
-<!ENTITY addressSidebar.accesskey "o"> 
+<!ENTITY addressSidebar.label "通訊錄">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "格式">
@@ -181,13 +181,13 @@
 <!ENTITY preferencesCmd.label "選項…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "偏好設定">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "縮到最小">
 <!ENTITY bringAllToFront.label "將此程式所有視窗移至最前">
-<!ENTITY zoomWindow.label "縮放"> 
+<!ENTITY zoomWindow.label "縮放">
 <!ENTITY windowMenu.label "視窗">
 
 <!-- Mail Toolbar -->
@@ -199,13 +199,13 @@
 <!ENTITY saveButton.label "儲存">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "立刻寄出此封郵件"> 
-<!ENTITY sendlaterButton.tooltip "稍後再寄出此封郵件"> 
-<!ENTITY quoteButton.tooltip "引入前封郵件的文字"> 
-<!ENTITY addressButton.tooltip "從通訊錄裡選擇收件者"> 
-<!ENTITY attachButton.tooltip "附加檔案到郵件中"> 
+<!ENTITY sendButton.tooltip "立刻寄出此封郵件">
+<!ENTITY sendlaterButton.tooltip "稍後再寄出此封郵件">
+<!ENTITY quoteButton.tooltip "引入前封郵件的文字">
+<!ENTITY addressButton.tooltip "從通訊錄裡選擇收件者">
+<!ENTITY attachButton.tooltip "附加檔案到郵件中">
 <!ENTITY spellingButton.tooltip "對郵件的全部或反白部分檢查拼字">
-<!ENTITY saveButton.tooltip "儲存這封郵件"> 
+<!ENTITY saveButton.tooltip "儲存這封郵件">
 <!ENTITY cutButton.tooltip              "剪下">
 <!ENTITY copyButton.tooltip             "複製">
 <!ENTITY pasteButton.tooltip            "貼上">
@@ -216,12 +216,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "從:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "至:"> 
-<!ENTITY ccAddr.label "副本 (Cc):"> 
-<!ENTITY bccAddr.label "密件副本 (Bcc):"> 
-<!ENTITY replyAddr.label "回函地址:"> 
-<!ENTITY newsgroupsAddr.label "新聞群組:"> 
-<!ENTITY followupAddr.label "原文參見:"> 
+<!ENTITY toAddr.label "至:">
+<!ENTITY ccAddr.label "副本 (Cc):">
+<!ENTITY bccAddr.label "密件副本 (Bcc):">
+<!ENTITY replyAddr.label "回函地址:">
+<!ENTITY newsgroupsAddr.label "新聞群組:">
+<!ENTITY followupAddr.label "原文參見:">
 <!ENTITY subject.label "主旨:">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond

@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "編輯">
+<!ENTITY compositionGroupTitle.label          "編輯">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "以 HTML 格式編輯郵件">
 <!ENTITY useHtml.accesskey                    "C">
@@ -41,4 +41,10 @@
 <!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "轉寄時附加簽名">
 <!ENTITY includeSigOnForward.accesskey        "w">
+
+<!ENTITY globalComposingPrefs.label           "全域編輯偏好設定…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "全域地址偏好設定…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
 
