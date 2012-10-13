@@ -48,3 +48,6 @@
 
 <!ENTITY popup.label                     "Òtmëkanié wëskakùjącëch òknów">
 <!ENTITY fullscreen.label                "Fùl ekran">
+
+<!ENTITY permission.allowFirstPartyOnly  "Tëlkò z ti stronë">
+

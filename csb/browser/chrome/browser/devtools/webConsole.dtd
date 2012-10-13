@@ -42,7 +42,7 @@
 <!ENTITY positionMenu.window "W òknie">
 <!ENTITY filterBox.placeholder "Filter">
 <!ENTITY btnClear.label "Wëczëszczë">
-<!ENTITY btnClear.tooltip "Wëczëszczë kònsolã przë zamkanim">
+<!ENTITY btnClear.tooltip "Wëczëszczë kònsolã przë zamëkanim">
 <!ENTITY btnClose.tooltip "Zamkni web kònsolã">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
@@ -51,3 +51,7 @@
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY copyURLCmd.label     "Kòpérëje adres lënka">
+<!ENTITY copyURLCmd.accesskey "a">
+<!ENTITY openURL.label     "Òtemkni URL w nowi kôrce">
+<!ENTITY openURL.accesskey "k">

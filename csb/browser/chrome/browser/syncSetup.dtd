@@ -1,13 +1,4 @@
 <!--
-# Translator(s):
-#
-# warszk <michol@linuxcsb.org>
-# jurk <jurk@linuxcsb.org>
-#
--->
-<!--
-# Reviewer(s):
-#
 # jurk <jurk@linuxcsb.org>
 #
 -->
@@ -18,11 +9,9 @@
 <!ENTITY setup.pickSetupType.description2 "Witôj! Jeżlë jesz ni môsz brëkòwóné &syncBrand.fullName.label;, nót je ùsadzëc nowé kònto.">
 <!ENTITY button.createNewAccount.label "Ùsadzë nowé kònto">
 <!ENTITY button.haveAccount.label      "Móm ju kònto">
-
-
 <!ENTITY setup.choicePage.title.label     "Czë môsz ju przódë brëkòwóné &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Ni móm jesz brëkòwóné &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Brëkùjã &syncBrand.shortName.label; na jinym kòmpùtrze">
+<!ENTITY setup.choicePage.existing2.label "Ùżiwóm &syncBrand.shortName.label; na jinym ùrządzeniu">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serwer">
@@ -91,9 +80,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Òptacje synchronizacji">
-<!ENTITY syncComputerName.label       "Miono kòmpùtra:">
-<!ENTITY syncComputerName.accesskey   "M">
-
+<!ENTITY syncDeviceName.label       "Miono ùrządzenia:">
+<!ENTITY syncDeviceName.accesskey   "M">
 <!ENTITY syncMy.label               "Synchronizëjë mòje">
 <!ENTITY engine.bookmarks.label     "Załóżczi">
 <!ENTITY engine.bookmarks.accesskey "Z">
@@ -107,18 +95,17 @@
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Dodôwczi">
 <!ENTITY engine.addons.accesskey    "D">
-
-<!ENTITY choice2.merge.main.label      "Dodôj pòdôwczi negò kòmpùtra do pòdwôków programù &syncBrand.shortName.label;">
-<!ENTITY choice2.merge.recommended.label "Zalécóné:">
-<!ENTITY choice2.client.main.label     "Zastąpi wszëtczé pòdôwczi z tegò kòmpùtra mòjima pòdôwkama programù &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Zastąpi pòdôwczi na jinëch ùrządzeniach tima z tegò kòmpùtra">
+<!ENTITY choice2a.merge.main.label       "Dodôj pòdôwczi z negò ùrządzenia do pòdwôków programù &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Zamôdliwóné:">
+<!ENTITY choice2a.client.main.label      "Zastąpi wszëtczé pòdôwczi na tim ùrządzemia mòjima pòdôwkama programù &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Zastąpi pòdôwczi na jinëch ùrządzeniach tima z tegò ùrządzenia">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Pòcwierdzë">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; dodôj terô wszëtczé pòdôwczi z tegò przezérnika do Twòjégò kònta Sync.">
-<!ENTITY confirm.client2.label         "Bôczënk: Ne pòdôwczi programù &brandShortName; òstaną rëmniãté:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; skòpérëje Twòje pòdôwczi z programù &syncBrand.fullName.label; na nen kòmpùtr.">
-<!ENTITY confirm.server2.label         "Òstrzéga: Ne ùrzãądzeniô dostóną Twòje môlowe pòdôwczi:">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label         "Bôczënk: Ne pòdôwczi z ùrządzenia &brandShortName; òstaną rëmniãté:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; skòpérëje Twòje pòdôwczi z programù &syncBrand.fullName.label; na to ùrządzenié.">
+<!ENTITY confirm.server2.label         "Bôczënk: Ne ùrzãądzeniô dostóną Twòje môlowe pòdôwczi:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Ùstôw parôt">

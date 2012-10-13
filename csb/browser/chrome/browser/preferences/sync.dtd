@@ -40,10 +40,12 @@
 <!ENTITY engine.addons.accesskey    "D">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Miono kòmpùtra:">
-<!ENTITY syncComputerName.accesskey   "M">
+<!ENTITY syncDeviceName.label       "Miono ùrządzenia:">
+<!ENTITY syncDeviceName.accesskey   "M">
+
 <!ENTITY unlinkDevice.label           "Òdlënkùjë ùrządzenié">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Leżnoscë brëkòwaniô serwisu">
 <!ENTITY prefs.ppLink.label         "Pòlitika priwatnoscë">
+

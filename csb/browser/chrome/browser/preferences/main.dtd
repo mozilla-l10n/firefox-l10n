@@ -30,9 +30,3 @@
 <!ENTITY chooseFolderMac.accesskey    "b">
 <!ENTITY alwaysAsk.label "Pëtôj gdze zapisywac lopczi">
 <!ENTITY alwaysAsk.accesskey "t">
-
-<!ENTITY addonsMgr.label               "Dodôwczi">
-<!ENTITY manageAddonsDescWin.label     "Zmieni òptacje winstalowónëch dodôwków">
-<!ENTITY manageAddonsDescUnix2.label   "Zmieni preferencje winstalowónëch dodôwków">
-<!ENTITY manageAddons.label            "Sprôwiôj dodôwkama…">
-<!ENTITY manageAddons.accesskey        "S">
