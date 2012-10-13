@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Rregullime për të Pavlerat">
 <!ENTITY trainingWarning.label "Në u aktivizoftë, duhet së pari ta stërvitni &brandShortName;-in të identifikojë postë të pavlerë, duke përdorur butonin për të Pavlerat për shënim mesazhesh si të pavlerë ose jo. Lypset të identifikoni qoftë mesazhet e pavlerë, qoftë ata jo të pavlerë.">
 <!ENTITY level.label "Aktivizo kontrolle përshtatës poste të pavlerë për këtë llogari">
