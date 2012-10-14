@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Sitios favoritos">
 <!ENTITY  awesomebar_bookmarks_title "Marcadores">
 <!ENTITY  awesomebar_history_title "Historial">
-<!ENTITY  awesomebar_search_engine "Buscar por \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Informador de erros do &brandShortName;">
 <!ENTITY  crash_message "Fallou o &brandShortName;. As súas lapelas deberían amosarse na páxina de inicio do &brandShortName; ao reiniciar.">
@@ -82,6 +81,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulse para activar">
 <!ENTITY pref_plugins_disabled "Desactivado">
 <!ENTITY pref_text_size "Tamaño do texto">
+<!ENTITY pref_reflow_on_zoom "Activar axuste automático ao cambiar o tamaño">
 <!ENTITY pref_font_size_tiny "Moi pequeno">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Medio">
@@ -100,6 +100,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "O panda laranxa máis veloz salta máis alá das súas expectativas con máis velocidade, máis flexibilidade e máis seguridade. Como unha organización sen ánimo de lucro, somos libres para innovar por vostede sen ningún tipo de presión e sen compromiso. Isto resulta nunha mellor experiencia para vostede e nun mellor futuro para a Web.">
 
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
+<!ENTITY pref_show_product_announcements "Amosar anuncios do produto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Amosar suxestións de busca">
 <!ENTITY pref_import_android "Importar desde Android">
@@ -124,6 +125,7 @@ size. -->
 <!ENTITY save_as_pdf "Gardar como PDF">
 <!ENTITY find_in_page "Atopar na páxina">
 <!ENTITY desktop_mode "Sitio de escritorio">
+<!ENTITY tools "Ferramentas">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -133,6 +135,7 @@ size. -->
 <!ENTITY find_close "Pechar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
+<!ENTITY contextmenu_open_in_reader "Abrir no lector">
 <!ENTITY contextmenu_remove_history "Retirar">
 <!ENTITY contextmenu_remove_bookmark "Retirar">
 <!ENTITY contextmenu_add_to_launcher "Engadir á pantalla de inicio">
@@ -160,7 +163,7 @@ size. -->
 <!ENTITY reading_list_added "Engadiuse a páxina á lista de lectura">
 <!ENTITY reading_list_removed "Retirouse a páxina da lista de lectura">
 <!ENTITY reading_list_failed "Produciuse un fallo ao engadir a páxina á lista de lectura">
-<!ENTITY reader_mode "Modo de lectura">
+<!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crear contrasinal principal">
 <!ENTITY masterpassword_remove_title "Retirar contrasinal principal">
@@ -169,7 +172,11 @@ size. -->
 
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_yes "Si">
+<!ENTITY button_no "Non">
 <!ENTITY button_clear_data "Limpar datos">
+<!ENTITY button_set "Estabelecer">
+<!ENTITY button_clear "Limpar">
 
 <!ENTITY abouthome_addons_title "Complementos para o &brandShortName;">
 <!ENTITY abouthome_addons_browse "Examinar todos os complementos do &brandShortName;">
@@ -220,20 +227,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importando historial desde Android">
 <!ENTITY bookmarkhistory_import_wait "Agarde...">
 
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+<!ENTITY suggestions_prompt "Desexa activar as suxestións de busca en &#037;s?">
+
 <!ENTITY webapp_generic_name "Aplicativo">
 
+<!ENTITY searchable_description "Marcadores e historial">
+
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Actualización do &brandShortName; dispoñíbel&#8230;">
-<!ENTITY updater_start_select "Seleccione para descargar a actualización.">
+<!ENTITY updater_start_title "Actualización dispoñíbel para o &brandShortName;">
+<!ENTITY updater_start_select "Seleccione para descargar">
 
 <!ENTITY updater_downloading_title "Descargando &brandShortName;">
-<!ENTITY updater_downloading_ticker "Descargando actualización do &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Produciuse un fallo ao descargar a actualización do &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Seleccione para aplicar a actualización cando remate.">
-<!ENTITY updater_downloading_retry "Seleccione para reintentar a descarga da actualización.">
-<!ENTITY updater_downloading_willapply "Agardando a que remate a descarga.">
+<!ENTITY updater_downloading_title_failed "Produciuse un fallo ao descargar">
+<!ENTITY updater_downloading_select "Seleccione para aplicar a actualización unha vez descargada.">
+<!ENTITY updater_downloading_retry "Seleccione para reintentar">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Actualización do &brandShortName; dispoñíbel&#8230;">
-<!ENTITY updater_apply_select "Seleccione para aplicar a actualización descargada.">
+<!ENTITY updater_apply_title "Actualización dispoñíbel para o &brandShortName;">
+<!ENTITY updater_apply_select "Seleccione para actualizar">
