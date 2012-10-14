@@ -630,18 +630,9 @@ toolbar button -->
 <!ENTITY socialToolbar.title "Przycisk paska społecznościowego">
 <!ENTITY social.notLoggedIn.label "Nie zalogowano">
 
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.sharePopup.undo.label "Przestań udostępniać">
-<!ENTITY social.sharePopup.undo.accesskey "P">
-<!ENTITY social.sharePopup.shared.label "Udostępniasz już tę stronę.">
-<!ENTITY social.sharePopup.portrait.arialabel "Obrazek profilu użytkownika">
 <!ENTITY social.toggleSidebar.label "Pokaż panel boczny">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
