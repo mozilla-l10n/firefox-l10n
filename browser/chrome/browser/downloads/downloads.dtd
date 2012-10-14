@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+<!ENTITY indicator.tooltiptext            "Muat Turun">
+
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+<!ENTITY downloads.title                  "Muat Turun">
+
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel list items, expressed using a CSS unit.  The
+     longest labels that should fit in the item width are usually those of
+     in-progress downloads and those of blocked downloads.
+     -->
+<!ENTITY downloads.width                  "65ch">
+
+<!ENTITY cmd.pause.label                  "Jeda">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Sambung">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "Membatalkan">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Buka Folder Kandungan">
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.label                "Tunjuk Dalam Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "Cuba semula">
+<!ENTITY cmd.goToDownloadPage.label       "Pergi Ke Halaman Muatturun">
+<!ENTITY cmd.goToDownloadPage.accesskey   "D">
+<!ENTITY cmd.copyDownloadLink.label       "Salin Pautan Muat Turun">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromList.label         "Buang Dari Senarai">
+<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.clearList.label              "Kosongkan Senarai">
+<!ENTITY cmd.clearList.accesskey          "a">
+
+
