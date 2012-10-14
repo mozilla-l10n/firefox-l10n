@@ -96,8 +96,6 @@
 
 <!ENTITY  event.menu.options.label                            "Mundësi">
 <!ENTITY  event.menu.options.accesskey                        "M">
-<!ENTITY  event.menu.options.attachments.label                "Bashkangjitini Faqe Web…">
-<!ENTITY  event.menu.options.attachments.accesskey            "B">
 <!ENTITY  event.menu.options.attendees.label                  "Ftoni Pjesëmarrës…">
 <!ENTITY  event.menu.options.attendees.accesskey              "F">
 <!ENTITY  event.menu.options.spellcheck.label                 "Kontroll Drejtshkrimi…">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Ftoni Pjesëmarrës">
 <!ENTITY  event.toolbar.spellcheck.label                  "Kontroll Drejtshkrimi">
 <!ENTITY  event.toolbar.privacy.label                     "Vetësi">
-<!ENTITY  event.toolbar.attachments.label                 "Bashkangjitje">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titull:" >
@@ -180,6 +177,10 @@
 <!ENTITY event.description.accesskey                      "ë">
 <!ENTITY event.attachments.label                          "Bashkangjitje:" >
 <!ENTITY event.attachments.accesskey                      "B" >
+<!ENTITY event.attachments.menubutton.label               "Bashkangjitni">
+<!ENTITY event.attachments.menubutton.accesskey           "B">
+<!ENTITY event.attachments.url.label                      "Faqe Web…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Hiqe" >
 <!ENTITY event.attachments.popup.remove.accesskey         "H" >
 <!ENTITY event.attachments.popup.open.label               "Hape" >
@@ -329,6 +330,10 @@
 <!ENTITY event.attendee.role.optional           "Pjesëmarrës Opsional">
 <!ENTITY event.attendee.role.chair              "Kryetar">
 <!ENTITY event.attendee.role.nonparticipant     "Jo Pjesëmarrës">
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Grup">
+<!ENTITY event.attendee.usertype.resource       "Burim">
+<!ENTITY event.attendee.usertype.room           "Sallë">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ju lutem, Përcaktoni Zonën Kohore">

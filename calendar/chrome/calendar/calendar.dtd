@@ -26,19 +26,32 @@
 <!ENTITY calendar.events.filter.next31Days.label "Ngjarjet për 31 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Ngjarjet në këtë Muaj Kalendarik">
 
-<!ENTITY calendar.unifinder.tree.done.label          "U bë">
-<!ENTITY calendar.unifinder.tree.priority.label      "Përparësi">
-<!ENTITY calendar.unifinder.tree.title.label         "Titull">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "Plotësuar &#37;">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Fillim">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Fund">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Mbarim">
-<!ENTITY calendar.unifinder.tree.completeddate.label "E plotësuar">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategori">
-<!ENTITY calendar.unifinder.tree.location.label      "Vend">
-<!ENTITY calendar.unifinder.tree.status.label        "Gjendje">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Emër Kalendari">
-<!ENTITY calendar.unifinder.tree.duration.label      "Mbaron më">
+<!ENTITY calendar.unifinder.tree.done.label              "I kryer">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Klikoni që të renditen sipas Kryerjesh">
+<!ENTITY calendar.unifinder.tree.priority.label          "Përparësi">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klikoni që të renditen sipas Përparësish">
+<!ENTITY calendar.unifinder.tree.title.label             "Titull">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Klikoni që të renditen sipas Titujsh">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; Plotësuar">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Klikoni që të renditen sipas &#37; Plotësimesh">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Fillim">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Klikoni që të renditen sipas Datash Fillimi">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Fund">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Klikoni që të renditen sipas Datash Përfundimi">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Mbarim">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Klikoni që të renditen sipas Datash Mbarimi">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "I plotësuar">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Klikoni që të renditen sipas Plotësimesh">
+<!ENTITY calendar.unifinder.tree.categories.label        "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Klikoni që të renditen sipas Kategorish">
+<!ENTITY calendar.unifinder.tree.location.label          "Vend">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Klikoni që të renditen sipas Vendesh">
+<!ENTITY calendar.unifinder.tree.status.label            "Gjendje">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Klikoni që të renditen sipas Gjendjesh">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Emër Kalendari">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Klikoni që të renditen sipas Emrash Kalendarësh">
+<!ENTITY calendar.unifinder.tree.duration.label          "Mbaron më">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klikoni që të renditen sipas Mbarimesh">
 <!ENTITY calendar.unifinder.close.tooltip            "Mbyllni kërkim ngjarjesh dhe listë ngjarjesh">
 
 <!ENTITY calendar.today.button.tooltip            "Shkoni te e sotmja" >
@@ -270,7 +283,7 @@
 <!ENTITY calendarproperties.name.label                     "Emër:">
 <!ENTITY calendarproperties.readonly.label                 "Vetëm Lexim">
 <!ENTITY calendarproperties.firealarms.label               "Shfaq Alarme">
-<!ENTITY calendarproperties.cache2.label                    "Fshehtinë">
+<!ENTITY calendarproperties.cache3.label                   "Mbulim Offline">
 <!ENTITY calendarproperties.enabled.label                  "Vëre këtë kalendar në punë">
 <!ENTITY calendarproperties.forceDisabled.label            "Ofruesi i këtij kalendari nuk u gjet dot. Shpesh, kjo ndodh nëse keni çaktivizuar apo çinstaluar disa shtesa.">
 <!ENTITY calendarproperties.unsubscribe.label              "Çpajtomë">
