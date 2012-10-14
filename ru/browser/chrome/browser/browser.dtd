@@ -468,7 +468,7 @@
 <!ENTITY social.ok.accesskey "O">
 <!ENTITY social.toggleSidebar.label "Показать боковую панель">
 <!ENTITY social.toggleSidebar.accesskey "з">
-<!ENTITY social.toggleNotifications.label "Показывать уведомления на десктопе">
+<!ENTITY social.toggleNotifications.label "Отображать уведомления на десктопе">
 <!ENTITY social.toggleNotifications.accesskey "а">
 <!ENTITY social.activated.undobutton.label "Отменить">
 <!ENTITY social.activated.undobutton.accesskey "м">
