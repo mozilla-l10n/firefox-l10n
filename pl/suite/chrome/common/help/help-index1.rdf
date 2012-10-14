@@ -42,11 +42,6 @@
          nc:link="using_certs_help.xhtml#using_certificates"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="intermediate_server_CA_certificates"
-         nc:name="certyfikaty pośredniczącego organu certyfikacji"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies"
          nc:name="ciasteczka"
          nc:link="using_priv_help.xhtml#using_the_cookie_manager"/>
@@ -82,6 +77,11 @@
          nc:name="wybór certyfikatu"
          nc:link="certs_prefs_help.xhtml#client_certificate_selection"/>
      </rdf:li>
+      <rdf:li>
+       <rdf:Description ID="Certificates:server"
+         nc:name="certyfikaty serwerów"
+         nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
+     </rdf:li>
      <rdf:li>
        <rdf:Description ID="Certificates:using"
          nc:name="używanie certyfikatów"
@@ -94,8 +94,8 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Certificates:web_site"
-         nc:name="certyfikaty witryn	"
-         nc:link="using_certs_help.xhtml#managing_certificates_that_identify_websites"/>
+         nc:name="certyfikaty witryn"
+         nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Certificates:your_own"
@@ -158,7 +158,12 @@
          nc:name="debugger JavaScript"
          nc:link="developer_tools.xhtml#venkman"/>
      </rdf:li>
-		 <rdf:li>
+      <rdf:li>
+       <rdf:Description ID="add-ons"
+         nc:name="dodatki"
+         nc:link="customize_help.xhtml#add-ons"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="adding"
          nc:name="dodawanie"/>
      </rdf:li>
@@ -173,6 +178,56 @@
          nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/>
      </rdf:li>
      </rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#add-ons">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:about"
+         nc:name="o dodatkach"
+         nc:link="customize_help.xhtml#about_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:installing"
+         nc:name="instalacja"
+         nc:link="customize_help.xhtml#installing_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:manager"
+         nc:name="Menedżer dodatków"
+         nc:link="customize_help.xhtml#using_the_add-on_manager"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#add-ons:manager">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:get_add-ons"
+         nc:name="Panel Pobierz dodatki"
+         nc:link="customize_help.xhtml#the_get_add-ons_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:extensions_panel"
+         nc:name="Panel Rozszerzenia"
+         nc:link="customize_help.xhtml#the_extensions_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:themes_panel"
+         nc:name="Panel Wygląd"
+         nc:link="customize_help.xhtml#the_themes_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:languages_panel"
+         nc:name="Panel Języki"
+         nc:link="customize_help.xhtml#the_languages_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:plugins_panel"
+         nc:name="Panel Wtyczki"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
+     </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -829,6 +884,11 @@
          nc:link="mail_help.xhtml#searching_through_messages"/>
      </rdf:li>
       <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
+         nc:name="preferencje sieci"
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+     </rdf:li>
+      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
          nc:name="ustawienia synchronizacji offline"
          nc:link="mail_help.xhtml#synchronization_and_storage"/>
@@ -1135,7 +1195,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="preferencje trybu offline"
-         nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/>
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
@@ -1148,7 +1208,7 @@
 <rdf:Description about="help-indexAZ.rdf#p">
    <nc:subheadings>
      <rdf:Seq>
-		 <rdf:li>
+	<rdf:li>
        <rdf:Description ID="cache"
          nc:name="pamięć podręczna"
          nc:link="nav_help.xhtml#changing_cache_settings"/>
@@ -1157,6 +1217,25 @@
        <rdf:Description ID="Sidebar"
          nc:name="panel boczny"
          nc:link="customize_help.xhtml#what_is_sidebar"/>
+     </rdf:li>
+       <rdf:Description ID="languages_panel"
+         nc:name="panel języków"
+         nc:link="customize_help.xhtml#the_languages_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="extensions_panel"
+         nc:name="panel rozszerzeń"
+         nc:link="customize_help.xhtml#the_extensions_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="plugins_panel"
+         nc:name="panel wtyczek"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="themes_panel"
+         nc:name="panel wyglądu"
+         nc:link="customize_help.xhtml#the_themes_panel"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="toolbar"
@@ -1192,11 +1271,6 @@
          nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="server_certificate_problems"
-         nc:name="problemy z&nbsp;certyfikatem serwera"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
-     </rdf:li>
-		 <rdf:li>
        <rdf:Description ID="HTTP_Networking"
          nc:name="protokół HTTP"
          nc:link="cs_nav_prefs_advanced.xhtml#http_networking"/>
@@ -1615,6 +1689,16 @@
          nc:name="strona startowa"
          nc:link="customize_help.xhtml#specifying_a_starting_page"/>
      </rdf:li>
+       <rdf:Description ID="browser:session_restore"
+         nc:name="przywracanie sesji"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:crash_recovery"
+         nc:name="odzyskiwanie sesji"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
+     <rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:start_up_components"
          nc:name="komponenty włączane podczas startu"
@@ -1644,11 +1728,6 @@
        <rdf:Description ID="profiles:renaming"
          nc:name="zmiana nazwy profilu"
          nc:link="profiles_help.xhtml#deleting_or_renaming_a_profile"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="profiles:roaming"
-         nc:name="profil przenośny"
-         nc:link="profiles_help.xhtml#roaming_profiles"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
