@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "d">
 <!ENTITY includeSigOnForward.label            "Pripájať podpis pri preposielaní správy">
 <!ENTITY includeSigOnForward.accesskey        "e">
+
+<!ENTITY globalComposingPrefs.label           "Globálne nastavenia pre vytváranie správ…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Globálne nastavenia adresovania…">
+<!ENTITY globalAddressingPrefs.accesskey      "a">

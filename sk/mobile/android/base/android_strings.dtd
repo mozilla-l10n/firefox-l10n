@@ -11,7 +11,6 @@
 <!ENTITY  awesomebar_all_pages_title "Top stránky">
 <!ENTITY  awesomebar_bookmarks_title "Záložky">
 <!ENTITY  awesomebar_history_title "História">
-<!ENTITY  awesomebar_search_engine "Hľadať \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Oznamovateľ zlyhania prehliadača &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; zlyhal. Otvorené karty by mali byť po reštarte dostupné na Úvodnej stránke &brandShortName;u.">
@@ -81,6 +80,7 @@
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
+<!ENTITY pref_reflow_on_zoom "Zapnúť funkciu Reflow-On-Zoom">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
@@ -100,6 +100,7 @@ size. -->
      demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Rýchla oranžová líška presahuje vaše očakávania vyššou rýchlosťou, väčšou flexibilitou a zlepšenou bezpečnosťou. Pretože sme neziskoví, sme slobodní pri inováciách bez tlaku na kompromisy. To znamená lepší zážitok pre vás a svetlejšiu budúcnosť pre web.">
 
+<!ENTITY pref_show_product_announcements "Zobrazovať oznámenia o produkte">
 <!ENTITY pref_sync "Synchronizácia">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
 <!ENTITY pref_import_android "Import z Androidu">
@@ -124,6 +125,7 @@ size. -->
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 <!ENTITY find_in_page "Hľadať na stránke">
 <!ENTITY desktop_mode "Požiadať plnú verziu stránky">
+<!ENTITY tools "Nástroje">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -133,6 +135,7 @@ size. -->
 <!ENTITY find_close "Zavrieť">
 
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
+<!ENTITY contextmenu_open_in_reader "Otvoriť v čítačke">
 <!ENTITY contextmenu_remove_history "Odstrániť">
 <!ENTITY contextmenu_remove_bookmark "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
@@ -160,7 +163,7 @@ size. -->
 <!ENTITY reading_list_added "Stránka pridaná do zoznamu na prečítanie">
 <!ENTITY reading_list_removed "Stránka bola odstránená zo zoznamu na prečítanie">
 <!ENTITY reading_list_failed "Pridanie stránky do zoznamu na prečítanie sa nepodarilo">
-<!ENTITY reader_mode "Režim Na prečítanie">
+<!ENTITY reader "Čítačka">
 
 <!ENTITY masterpassword_create_title "Vytvoriť hlavné heslo">
 <!ENTITY masterpassword_remove_title "Odstrániť hlavné heslo">
@@ -169,7 +172,11 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušiť">
+<!ENTITY button_yes "Áno">
+<!ENTITY button_no "Nie">
 <!ENTITY button_clear_data "Vymazať údaje">
+<!ENTITY button_set "Nastaviť">
+<!ENTITY button_clear "Vymazať">
 
 <!ENTITY abouthome_addons_title "Doplnky pre váš &brandShortName;">
 <!ENTITY abouthome_addons_browse "Prehľadávať všetky doplnky pre &brandShortName;">
@@ -183,13 +190,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Získajte aplikácie z archívu Mozilla Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»»">
+<!ENTITY abouthome_about_apps3 "Získajte aplikácie z archívu Firefox Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Služba Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Výber súboru">
 <!ENTITY filepicker_audio_title "Vyberte alebo nahrajte zvuk">
@@ -220,20 +227,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importuje sa história z Androidu">
 <!ENTITY bookmarkhistory_import_wait "Čakajte, prosím…">
 
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+<!ENTITY suggestions_prompt "Chcete zapnúť zobrazovanie návrhov vyhľadávania v module &#037;s?">
+
 <!ENTITY webapp_generic_name "Aplikácia">
 
+<!ENTITY searchable_description "Záložky a história">
+
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Je dostupná aktualizácia pre &brandShortName;&#8230;">
-<!ENTITY updater_start_select "Zvoľte na prevzatie aktualizácie">
+<!ENTITY updater_start_title "Je dostupná aktualizácia pre &brandShortName;">
+<!ENTITY updater_start_select "Ťuknutím je prevezmete">
 
 <!ENTITY updater_downloading_title "Preberá sa &brandShortName;">
-<!ENTITY updater_downloading_ticker "Preberá sa aktualizácia pre &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Nepodarilo sa prevziať aktualizáciu pre &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Zvoľte na použitie aktualizácie po jej prevzatí.">
-<!ENTITY updater_downloading_retry "Zvoľte na opakovanie pokusu o prevzatie aktualizácie.">
-<!ENTITY updater_downloading_willapply "Čaká sa na ukončenie preberania.">
+<!ENTITY updater_downloading_title_failed "Prevzatie zlyhalo">
+<!ENTITY updater_downloading_select "Ťuknutím nainštalujete aktualizáciu po jej prevzatí">
+<!ENTITY updater_downloading_retry "Ťuknutím to skúste znova">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Je dostupná aktualizácia pre &brandShortName;&#8230;">
-<!ENTITY updater_apply_select "Zvoľte na použitie aktualizácie">
+<!ENTITY updater_apply_title "Je dostupná aktualizácie pre &brandShortName;">
+<!ENTITY updater_apply_select "Ťuknutím ju použijete">

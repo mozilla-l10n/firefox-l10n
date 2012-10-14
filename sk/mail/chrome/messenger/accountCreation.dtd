@@ -37,8 +37,8 @@
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Upresniť nastavenie">
-<!ENTITY advancedSetup.accesskey         "U">
+<!ENTITY advancedSetup.label             "Spresniť nastavenie">
+<!ENTITY advancedSetup.accesskey         "e">
 <!ENTITY cancel.label                    "Zrušiť">
 <!ENTITY cancel.accesskey                "Z">
 <!ENTITY continue.label                  "Pokračovať">
