@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Opcións'>
 <!ENTITY sync.summary.pair.label 'Ligar outro dispositivo a súa conta de &syncBrand.shortName.label;'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Que quere sincronizar'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sincronizar…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Marcadores'>
+<!ENTITY sync.configure.engines.title.passwords 'Contrasinais'>
+<!ENTITY sync.configure.engines.title.history 'Historial'>
+<!ENTITY sync.configure.engines.title.tabs 'Lapelas'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Cancelar'>
 <!ENTITY sync.button.connect.label 'Conectar'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Só está permitida unha conta de &syncBrand.fullName.label;.'>
+<!ENTITY sync.notification.configure.saved 'Gardáronse as súas escollas.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Nome de conta ou contrasinal incorrecto.'>
