@@ -645,5 +645,8 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Pokaż panel boczny">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
+<!ENTITY social.toggleNotifications.label "Wyświetlaj powiadomienia pulpitu">
+<!ENTITY social.toggleNotifications.accesskey "p">
+
 <!ENTITY social.activated.undobutton.label "Cofnij">
 <!ENTITY social.activated.undobutton.accesskey "C">
