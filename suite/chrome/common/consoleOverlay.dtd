@@ -4,7 +4,7 @@
 
 <!ENTITY menuBar.tooltip       "Panel Ponuka">
 <!ENTITY modeToolbar.tooltip   "Panel Režim">
-<!ENTITY entryToolbar.tooltip  "Panel položiek Javascriptu">
+<!ENTITY entryToolbar.tooltip  "Panel položiek JavaScriptu">
 <!ENTITY toolbarsCmd.label     "Zobraziť/Skryť">
 <!ENTITY toolbarsCmd.accesskey "Z">
 <!ENTITY toolbarMode.label     "Režim">
@@ -18,3 +18,4 @@
 <!ENTITY messages.accesskey    "r">
 <!ENTITY clear.accesskey       "m">
 <!ENTITY evaluate.accesskey    "h">
+<!ENTITY filter.accesskey      "f">
