@@ -82,6 +82,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulse para activar">
 <!ENTITY pref_plugins_disabled "Desactivado">
 <!ENTITY pref_text_size "Tamaño do texto">
+<!ENTITY pref_reflow_on_zoom "Activar axuste automático ao cambiar o tamaño">
 <!ENTITY pref_font_size_tiny "Moi pequeno">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Medio">
