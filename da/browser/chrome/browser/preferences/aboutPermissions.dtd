@@ -4,7 +4,7 @@
 
 <!ENTITY permissionsManager.title        "Administration af tilladelser">
 
-<!ENTITY sites.search                    "Søg websteder">
+<!ENTITY sites.search                    "Søg efter websteder">
 <!ENTITY sites.allSites                  "Alle websteder">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
@@ -38,5 +38,5 @@
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Brug offline-lager">
 
-<!ENTITY popup.label                     "Åbn pop-op-vinduer">
+<!ENTITY popup.label                     "Åbn pop op-vinduer">
 <!ENTITY fullscreen.label                "Fuldskærm">

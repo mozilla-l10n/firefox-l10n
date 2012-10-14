@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'For at aktivere din nye enhed, vælg “Opsæt &syncBrand.shortName.label;” på enheden.'>
-<!ENTITY sync.subtitle.header.label 'Indtast denne kode på din computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Vælg “&sync.title.pair.label;” under &syncBrand.shortName.label; i indstillingerne på din desktop-version af Firefox.'>
+<!ENTITY sync.subtitle.header2.label 'Indtast denne kode på din anden enhed'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Vælg “&sync.title.pair.label;” under &syncBrand.shortName.label; under din anden enheds Firefox-indstillinger.'>
 <!ENTITY sync.subtitle.pair.label 'For at aktivere, vælg “Tilføj enhed” på din anden enhed.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
