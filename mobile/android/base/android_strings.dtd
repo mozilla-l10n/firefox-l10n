@@ -100,6 +100,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "O panda laranxa máis veloz salta máis alá das súas expectativas con máis velocidade, máis flexibilidade e máis seguridade. Como unha organización sen ánimo de lucro, somos libres para innovar por vostede sen ningún tipo de presión e sen compromiso. Isto resulta nunha mellor experiencia para vostede e nun mellor futuro para a Web.">
 
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
+<!ENTITY pref_show_product_announcements "Amosar anuncios do produto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Amosar suxestións de busca">
 <!ENTITY pref_import_android "Importar desde Android">
