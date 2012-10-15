@@ -31,25 +31,7 @@
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions          "Zatrzymaj na wyjątkach">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
-  -  widget that displays the call stack frames in the debugger. -->
-<!ENTITY debuggerUI.stackTitle       "Stos wywołań">
-
-<!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
-  -  widget that displays the source code for the script that is currently
-  -  being inspected in the debugger. -->
-<!ENTITY debuggerUI.scriptTitle      "Skrypt">
-
-<!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
-  -  widget that displays the variables in the various available scopes in the
-  -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Zmienne w zasięgu">
-
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle  "Operatory">
-
-<!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
-  - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "Brak skryptów">
 
