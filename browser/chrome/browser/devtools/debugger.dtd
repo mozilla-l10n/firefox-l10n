@@ -30,11 +30,6 @@
   -  button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip      "Aizvērt">
 
-<!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
-  -  widget that displays the source code for the script that is currently
-  -  being inspected in the debugger. -->
-<!ENTITY debuggerUI.scriptTitle      "Skripts">
-
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle    "Darbības">

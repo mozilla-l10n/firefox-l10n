@@ -1,7 +1,7 @@
 <!ENTITY syncKey.page.title               "Jūsu &syncBrand.fullName.label;s atslēga">
-<!ENTITY syncKey.page.description         "Šī atslēga tiks izmantota, lai atšifrētu datus jūsu &syncBrand.fullName.label;s kontā. Šo atslēgu jums vajadzēs ievadīt katru reizi, kad konfigurēsiet &syncBrand.fullName.label;s izmantošanu kādai jaunai ierīcei.">
+<!ENTITY syncKey.page.description2         "Šī atslēga tiks izmantota, lai atšifrētu datus jūsu &syncBrand.fullName.label;s kontā. Šo atslēgu jums vajadzēs ievadīt katru reizi, kad konfigurēsiet &syncBrand.fullName.label;s izmantošanu kādai jaunai ierīcei.">
 <!ENTITY syncKey.keepItSecret.heading     "Turiet šo atslēgu slepenu">
-<!ENTITY syncKey.keepItSecret.description2 "šī atslēga tiek izmantota, lai atkodētu jūsu &syncBrand.fullName.label;s konta datus. Jums vajadzēs šo atslēgu katru reizi, kad pievienosiet jaunu ierīci &syncBrand.fullName.label;s kontam.">
+<!ENTITY syncKey.keepItSecret.description "Jūsu &syncBrand.fullName.label;s konts tiek šifrēts, lai pasargātu jūsu privātumu. Bez šīs atslēgas jūsu privāto datu atšifrēšana prasītu vairākus gadus. Jūs esat vienīgais cilvēks, kam ir zināma šī atslēga. Tas nozīmē, ka jūs esat vienīgais cilvēks, kam ir pieejami dati jūsu &syncBrand.fullName.label;s kontā.">
 <!ENTITY syncKey.keepItSafe.heading       "Turiet to drošībā">
 <!ENTITY syncKey.keepItSafe1.description  "Nepazaudējiet šo atslēgu.">
 <!ENTITY syncKey.keepItSafe2.description  " Pie mums neglabājas jūsu atslēgas kopija (ja tā būtu šī nebūtu slepena atslēga) tāpēc ">
