@@ -7,7 +7,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Vai lietojat &syncBrand.fullName.label;s iespēju?">
 <!ENTITY setup.choicePage.new.label       "Es vēl nelietoju &syncBrand.shortName.label;s iespēju">
-<!ENTITY setup.choicePage.existing.label  "Es jau lietoju &syncBrand.shortName.label;s iespēju citā datorā">
+<!ENTITY setup.choicePage.existing2.label  "Es jau lietoju &syncBrand.shortName.label;s iespēju citā ierīcē">
 
 
 <!-- New Account AND Existing Account -->
