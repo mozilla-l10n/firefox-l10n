@@ -192,7 +192,7 @@
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "未讀主題">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "追蹤未讀的主題">
+<!ENTITY watchedThreadsWithUnreadCmd.label "含有未讀訊息的已追蹤討論串">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "忽略主題">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
