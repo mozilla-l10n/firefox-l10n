@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Zawsze pytaj">
 <!ENTITY permission.allow                "Zezwalaj">
 <!ENTITY permission.allowForSession      "Zezwalaj na czas sesji">
+<!ENTITY permission.allowFirstPartyOnly  "Zezwalaj tylko na ciasteczka własne witryny">
 <!ENTITY permission.block                "Blokuj">
 
 <!ENTITY password.label                  "Przechowywanie haseł">
