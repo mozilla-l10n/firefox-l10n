@@ -70,11 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip        "Pasirinkti šrifto dydį">
 <!ENTITY decreaseFontSize.label        "Mažesnis">
 <!ENTITY decreaseFontSize.accesskey    "M">
-<!ENTITY decreaseFontSize.key          "-">
+<!ENTITY decreaseFontSize.key          "&lt;">
+<!ENTITY decreaseFontSize.key2         ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label        "Didesnis">
 <!ENTITY increaseFontSize.accesskey    "D">
-<!ENTITY increaseFontSize.key          "+">
-<!ENTITY increaseFontSize.key2         "="> <!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key          "&gt;">
+<!ENTITY increaseFontSize.key2         "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label            "Dydis">
 <!ENTITY fontSizeMenu.accesskey        "D">

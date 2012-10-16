@@ -8,8 +8,8 @@
 <!ENTITY addressingGroupTitle.label "Laiškų adresavimas">
 <!ENTITY addressingText.label      "Parenkant adresus:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "naudoti bendrąsias LDAP serverio nuostatas">
-<!ENTITY useGlobal.accesskey       "b">
+<!ENTITY useGlobal.label           "naudoti globaliąsias LDAP serverio nuostatas">
+<!ENTITY useGlobal.accesskey       "L">
 <!ENTITY editDirectories.label     "Taisyti katalogus…">
 <!ENTITY editDirectories.accesskey "T">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
@@ -38,3 +38,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "įdėti prierašą į persiunčiamus laiškus">
 <!ENTITY includeSigOnForward.accesskey        "p">
+
+<!ENTITY globalComposingPrefs.label           "Globaliosios rašymo nuostatos…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Globaliosios adresavimo nuostatos…">
+<!ENTITY globalAddressingPrefs.accesskey      "n">
