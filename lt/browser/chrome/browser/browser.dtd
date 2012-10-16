@@ -642,13 +642,11 @@ toolbar button -->
 <!ENTITY social.ok.label       "Gerai">
 <!ENTITY social.ok.accesskey   "G">
 
-<!ENTITY social.sharePopup.undo.label     "Nebesidalinti">
-<!ENTITY social.sharePopup.undo.accesskey "N">
-<!ENTITY social.sharePopup.shared.label   "Jūs pasidalijote šiuo tinklalapiu.">
-<!ENTITY social.sharePopup.portrait.arialabel "Jūsų profilio nuotrauka">
-
 <!ENTITY social.toggleSidebar.label "Rodyti parankinę">
 <!ENTITY social.toggleSidebar.accesskey "p">
+
+<!ENTITY social.toggleNotifications.label "Rodyti pranešimus">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Atšaukti">
 <!ENTITY social.activated.undobutton.accesskey "A">
