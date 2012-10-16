@@ -190,13 +190,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Stel Firefox Sync in voor toegang tot uw bladwijzers, geschiedenis en tabbladen van uw andere apparaten&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Download apps van de Mozilla Marketplace en ontdek het beste wat het internet te bieden heeft&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Download apps van de Firefox Marketplace en ontdek het beste wat het internet te bieden heeft&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Bestand kiezen">
 <!ENTITY filepicker_audio_title "Een geluid kiezen of opnemen">
