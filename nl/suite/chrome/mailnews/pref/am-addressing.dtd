@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Opstellen">
+<!ENTITY compositionGroupTitle.label          "Opstellen">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Berichten opstellen in HTML-formaat">
 <!ENTITY useHtml.accesskey                    "B">
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "t">
 <!ENTITY includeSigOnForward.label            "Ondertekening invoegen bij doorsturen">
 <!ENTITY includeSigOnForward.accesskey        "s">
+
+<!ENTITY globalComposingPrefs.label           "Algemene opstelinstellingen…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Algemene adresseringsinstellingen…">
+<!ENTITY globalAddressingPrefs.accesskey      "i">
