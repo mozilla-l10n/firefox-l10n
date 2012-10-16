@@ -49,8 +49,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle Konten">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmd.label "Alle Konten abrufen">
-<!ENTITY getAllNewMsgCmd.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuelles Konto">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "k">
 <!ENTITY getNextNMsgCmd.label "Nächste 500 News-Beiträge abrufen">
@@ -224,6 +222,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "B">
 <!ENTITY ignoredThreadsCmd.label "Ignorierte Themen">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
+
 <!ENTITY headersMenu.label "Kopfzeilen">
 <!ENTITY headersMenu.accesskey "K">
 <!ENTITY headersAllCmd.label "Alle">
@@ -481,7 +480,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY activitymanager.label "Aktivitäten">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chat-Status">
-<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imAccountsStatus.accesskey "S">
 <!ENTITY imStatus.available          "Verfügbar">
 <!ENTITY imStatus.unavailable        "Beschäftigt">
 <!ENTITY imStatus.offline            "Nicht verbunden">
@@ -508,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Fehlerkonsole">
 <!ENTITY errorConsoleCmd.accesskey "h">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Neueste Chronik löschen…">
+<!ENTITY clearRecentHistory.accesskey "r">
 <!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
 <!ENTITY accountManagerCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -549,10 +550,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Ordner wechseln">
 <!ENTITY tagButton.label "Schlagwörter">
 <!ENTITY compactButton.label "Komprimieren">
+<!ENTITY appmenuButton.label "Anwendungsmenü">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Erweiterte Nachrichtensuche">
 <!ENTITY getMsgButton.tooltip "Neue Nachrichten empfangen">
+<!ENTITY getAllNewMsgCmd.label "Alle Konten abrufen">
+<!ENTITY getAllNewMsgCmd.accesskey "A">
 <!ENTITY newMsgButton.tooltip "Eine neue Nachricht schreiben">
 <!ENTITY replyButton.tooltip "Auf gewählte Nachricht(en) antworten">
 <!ENTITY replyAllButton.tooltip "Auf gewählte Nachricht(en) an den Absender und alle Empfänger antworten">
@@ -577,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Chat-Tab öffnen">
 <!ENTITY tagButton.tooltip "Bei gewählten Nachrichten Schlagwörter hinzufügen/entfernen">
 <!ENTITY compactButton.tooltip "Gelöschte Nachrichten endgültig aus dem gewählten Ordner entfernen">
+<!ENTITY appmenuButton.tooltip "Anwendungsmenü anzeigen">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Neue Nachricht">
+<!ENTITY appmenuNewContactCmd.label "Adressbuchkontakt…">
+<!ENTITY appmenuEditMenu.label "Bearbeiten">
+<!ENTITY appmenuQFBMenu.label "Schnellfilterleiste">
+<!ENTITY appmenuToolbarLayout.label "Symbolleisten anpassen…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Neues Schlagwort…">
