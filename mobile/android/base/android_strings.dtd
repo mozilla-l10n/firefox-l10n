@@ -190,13 +190,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "設定 Firefox Sync 以在您的其他裝置中存取書籤、歷史紀錄，以及分頁標籤&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "到 Mozilla Marketplace 取得應用程式，並探索網路的最佳體驗&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "到 Firefox 商城下載程式，探索網頁威力所在 &#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox 商城">
 
 <!ENTITY filepicker_title "選擇檔案">
 <!ENTITY filepicker_audio_title "選擇或錄製一段聲音檔">
@@ -239,15 +239,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "書籤與歷史紀錄">
 
-<!-- Updater notifications -->
-<!ENTITY updater_start_title "有可用的 &brandShortName; 更新">
-<!ENTITY updater_start_select "點選此處下載">
-
-<!ENTITY updater_downloading_title "正在下載 &brandShortName;">
-<!ENTITY updater_downloading_title_failed "下載失敗">
-<!ENTITY updater_downloading_select "點選此處在下載完成後套用更新">
-<!ENTITY updater_downloading_retry "點選此處以重試">
-
-<!ENTITY updater_apply_title "有可用的 &brandShortName; 更新">
-<!ENTITY updater_apply_select "選擇此處套用">
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "有可用的 &brandShortName; 更新">
+<!ENTITY updater_start_select2 "點選此處下載">
+ 
+<!ENTITY updater_downloading_title2 "正在下載 &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "下載失敗">
+<!ENTITY updater_downloading_select2 "點選此處在下載完成後套用更新">
+<!ENTITY updater_downloading_retry2 "點選此處以重試">
+ 
+<!ENTITY updater_apply_title2 "有可用的 &brandShortName; 更新">
+<!ENTITY updater_apply_select2 "選擇此處套用">
 
