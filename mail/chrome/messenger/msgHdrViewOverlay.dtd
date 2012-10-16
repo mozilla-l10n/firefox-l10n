@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Drucken…">
 <!ENTITY otherActionsPrint1.accesskey "D">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Erweiterten Anlagenbereich verwenden">
+<!ENTITY startExpandedCmd.accesskey    "E">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Öffnen">
 <!ENTITY openAttachmentCmd.accesskey "f">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filter">
 <!ENTITY nameColumn.label "Filtername">
 <!ENTITY activeColumn.label "Aktiviert">
@@ -7,10 +11,16 @@
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Löschen">
 <!ENTITY deleteButton.accesskey "L">
+<!ENTITY reorderTopButton "Ganz nach oben">
+<!ENTITY reorderTopButton.accessKey "G">
+<!ENTITY reorderTopButton.toolTip "Diesen Filter vor allen anderen ausführen">
 <!ENTITY reorderUpButton.label "Nach oben">
 <!ENTITY reorderUpButton.accesskey "o">
 <!ENTITY reorderDownButton.label "Nach unten">
 <!ENTITY reorderDownButton.accesskey "u">
+<!ENTITY reorderBottomButton "Ganz nach unten">
+<!ENTITY reorderBottomButton.accessKey "z">
+<!ENTITY reorderBottomButton.toolTip "Diesen Filter nach allen anderen ausführen">
 <!ENTITY filterHeader.label "Aktivierte Filter werden automatisch in der unten aufgeführten Reihenfolge angewendet.">
 <!ENTITY filtersForPrefix.label "Filter für:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -27,3 +37,5 @@
 <!ENTITY helpButton.label "Hilfe">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Nach Filternamen suchen…">
+
