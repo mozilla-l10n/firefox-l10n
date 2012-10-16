@@ -1,6 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Empfangsbestätigungen (MDN)">
 <!ENTITY useGlobalPrefs.label         "Globale Einstellungen für dieses Konto verwenden">
 <!ENTITY useGlobalPrefs.accesskey     "G">
+<!ENTITY globalReceipts.label         "Globale Einstellungen…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Einstellungen für dieses Konto anpassen">
 <!ENTITY useCustomPrefs.accesskey     "E">
 <!ENTITY requestReceipt.label         "Immer eine Empfangsbestätigung anfordern">
