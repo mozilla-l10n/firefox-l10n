@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltijos šalių">
 <!ENTITY  font.langGroup.el                       "Graikų">
 <!ENTITY  font.langGroup.turkish                  "Turkų">
-<!ENTITY  font.langGroup.unicode                  "Unikodas">
+<!ENTITY  font.langGroup.unicode1                 "Unikodas">
 <!ENTITY  font.langGroup.user-def                 "Vartotojo apibrėžta">
 <!ENTITY  font.langGroup.thai                     "Tajų">
 <!ENTITY  font.langGroup.hebrew                   "Hebrajų">
