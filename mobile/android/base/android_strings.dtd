@@ -224,3 +224,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
 
 <!ENTITY webapp_generic_name "Programa">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "Išleistas „&brandShortName;“ naujinimas&#8230;">
+<!ENTITY updater_start_select "Pažymėkite, kad naujinimas būtų parsiųstas.">
+
+<!ENTITY updater_downloading_title "Parsiunčiama „&brandShortName;“">
+<!ENTITY updater_downloading_ticker "Parsiunčiamas „&brandShortName;“ naujinimas&#8230;">
+<!ENTITY updater_downloading_ticker_failed "„&brandShortName;“ naujinimo parsiųsti nepavyko&#8230;">
+<!ENTITY updater_downloading_select "Pažymėkite, kad užbaigus, naujinimas būtų įdiegtas.">
+<!ENTITY updater_downloading_retry "Pažymėkite, kad būtų pakartotinai bandoma atsiųsti naujinimą.">
+<!ENTITY updater_downloading_willapply "Laukiama, kol naujinimas bus parsiųstas.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "Parsiųstas „&brandShortName;“ naujinimas&#8230;">
+<!ENTITY updater_apply_select "Pažymėkite, kad parsiųstasis naujinimas būtų įdiegtas.">
