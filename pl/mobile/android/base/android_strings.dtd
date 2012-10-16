@@ -41,10 +41,21 @@
 <!ENTITY history_week_section "7 dni temu">
 <!ENTITY history_older_section "Starsze niż 7 dni">
 
+<!ENTITY go "Przejdź">
+<!ENTITY search "Szukaj">
 <!ENTITY reload "Odśwież">
 <!ENTITY forward "Do przodu">
+<!ENTITY menu "Menu">
+<!ENTITY back "Wstecz">
+<!ENTITY stop "Zatrzymaj">
+<!ENTITY site_security "Bezpieczeństwo strony">
 
+<!ENTITY close_tab "Zamknij kartę">
 <!ENTITY new_tab "Nowa karta">
+<!ENTITY one_tab "Kart: 1">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "Kart: &#037;d">
 <!ENTITY new_tab_opened "Otwarto nową kartę">
 
 <!ENTITY settings "Ustawienia">
@@ -52,6 +63,7 @@
 <!ENTITY pref_category_general "Ogólne">
 <!ENTITY pref_category_privacy "Prywatność i bezpieczeństwo">
 <!ENTITY pref_category_content "Treść">
+<!ENTITY pref_category_importexport "Importowanie i eksportowanie">
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
 <!ENTITY pref_do_not_track "Informuj witryny, że nie chcę być śledzony">
 <!ENTITY pref_telemetry "Przesyłaj informacje o wydajności">
@@ -60,10 +72,7 @@
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
 <!ENTITY pref_char_encoding_off "Nie pokazuj">
-<!ENTITY pref_clear_history "Wyczyść historię">
-<!ENTITY pref_clear_history_confirm "Czy usunąć historię przeglądania?">
 <!ENTITY pref_clear_private_data "Wyczyść dane prywatne">
-<!ENTITY pref_clear_private_data_confirm "Czy usunąć historię przeglądania i ustawienia, w tym zapamiętane hasła i ciasteczka?">
 <!ENTITY pref_plugins "Wtyczki">
 <!ENTITY pref_plugins_enabled "Włączone">
 <!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
@@ -74,34 +83,74 @@
 <!ENTITY pref_font_size_medium "Średni">
 <!ENTITY pref_font_size_large "Duży">
 <!ENTITY pref_font_size_xlarge "Bardzo duży">
+<!ENTITY pref_font_size_set "Ustaw">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "Aa">
+
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
+<!ENTITY pref_import_android "Importuj z Androida">
+<!ENTITY pref_private_data_history "Historia przeglądania i pobierania">
+<!ENTITY pref_private_data_formdata "Historia wyszukiwania i formularzy">
+<!ENTITY pref_private_data_cookies2 "Ciasteczka i aktywne zalogowania">
+<!ENTITY pref_private_data_passwords "Zapamiętane hasła">
+<!ENTITY pref_private_data_cache "Pamięć podręczna">
+<!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
+<!ENTITY pref_private_data_siteSettings "Ustawienia witryny">
 
 <!ENTITY quit "Zakończ">
 
 <!ENTITY addons "Dodatki">
 <!ENTITY downloads "Pobrane pliki">
+<!ENTITY apps "Aplikacje">
 <!ENTITY char_encoding "Kodowanie znaków">
 
 <!ENTITY share "Udostępnij">
 <!ENTITY share_title "Udostępnij przez">
+<!ENTITY share_image_failed "Tego obrazka nie można udostępnić">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
+<!ENTITY desktop_mode "Tryb stacjonarny">
+<!ENTITY find_in_page "Znajdź na stronie">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Znajdź na stronie">
+<!ENTITY find_prev "Poprzedni">
+<!ENTITY find_next "Następny">
+<!ENTITY find_close "Zamknij">
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
 <!ENTITY contextmenu_remove_bookmark "Usuń zakładkę">
+<!ENTITY contextmenu_remove_history "Usuń historię">
 <!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu głównego">
 <!ENTITY contextmenu_share "Udostępnij">
+<!ENTITY contextmenu_pasteandgo "Kopiuj i przejdź do strony">
+<!ENTITY contextmenu_paste "Kopiuj">
+<!ENTITY contextmenu_copyurl "Kopiuj adres">
 <!ENTITY contextmenu_edit_bookmark "Zmień">
+
+<!ENTITY history_removed "Stronę usunięto">
 
 <!ENTITY bookmark_edit_title "Zmień zakładkę">
 <!ENTITY bookmark_edit_name "Nazwa">
 <!ENTITY bookmark_edit_location "Adres URL">
 <!ENTITY bookmark_edit_keyword "Słowa kluczowe">
 
-<!ENTITY site_settings_title        "Wyczyść ustawienia witryny">
+<!ENTITY site_settings_title2       "Wyczyść ustawienia witryny…">
 <!ENTITY site_settings_cancel       "Anuluj">
 <!ENTITY site_settings_clear        "Wyczyść">
 <!ENTITY site_settings_no_settings  "Brak ustawień">
+
+<!ENTITY reading_list "Do przeczytania">
+<!ENTITY reading_list_added "Strona dodana do listy „Do przeczytania”">
+<!ENTITY reading_list_removed "Strona usunięta z listy „Do przeczytania”">
+<!ENTITY reading_list_failed "Nie udało się zapisać strony na liście „Do przeczytania”">
+<!ENTITY reader_mode "Tryb czytania">
 
 <!ENTITY masterpassword_create_title "Utwórz hasło główne">
 <!ENTITY masterpassword_remove_title "Usuń hasło główne">
@@ -110,6 +159,7 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Anuluj">
+<!ENTITY button_clear_data "Usuń dane">
 
 <!ENTITY abouthome_addons_title "Polecane dodatki">
 <!ENTITY abouthome_addons_browse "Zobacz wszystkie dostępne dodatki">
@@ -117,11 +167,54 @@
 <!ENTITY abouthome_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
 <!ENTITY abouthome_top_sites_title "Najczęstsze">
 <!ENTITY abouthome_top_sites_browse "Zobacz wszystkie">
-<!ENTITY abouthome_no_top_sites "Nie masz jeszcze najczęściej odwiedzanych stron. Dotknij paska adresu, aby zacząć przeglądać Sieć.">
-<!ENTITY abouthome_about_sync "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Zainstaluj aplikacje z Mozilla Marketplace i odkryj to, co najlepsze w Sieci&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Wybierz plik">
-<!ENTITY filepicker_audio_title "Wybierz istniejący lub nagraj nowy dźwięk">
-<!ENTITY filepicker_image_title "Wybierz istniejące lub zrób nowe zdjęcie">
-<!ENTITY filepicker_video_title "Wybierz istniejące lub nagraj nowe wideo">
+<!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
+<!ENTITY filepicker_image_title "Wybierz istniejące zdjęcie lub zrób nowe">
+<!ENTITY filepicker_video_title "Wybierz istniejące wideo lub nagraj nowe">
+
+<!ENTITY identity_connected_to "Połączono z">
+<!ENTITY identity_run_by "Witrynę prowadzi:">
+
+<!ENTITY private_data_success "Usunięto prywatne dane">
+<!ENTITY private_data_fail "Nie udało się usunąć wszystkich prywatnych danych">
+
+<!ENTITY bookmarkhistory_button_import "Importuj">
+<!ENTITY bookmarkhistory_import_both "Importowanie zakładek i historii
+                                      z systemu Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importowanie zakładek
+                                           z systemu Android">
+<!ENTITY bookmarkhistory_import_history "Importowanie historii
+                                         z systemu Android">
+<!ENTITY bookmarkhistory_import_wait "Proszę czekać…">
+
+<!ENTITY webapp_generic_name "Aplikacja">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title "&brandShortName;">
+<!ENTITY updater_start_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
+<!ENTITY updater_start_select "Wybierz, aby pobrać aktualizację.">
+
+<!ENTITY updater_downloading_title "Pobieranie: &brandShortName;">
+<!ENTITY updater_downloading_ticker "Pobieranie aktualizacji programu &brandShortName;&#8230;">
+<!ENTITY updater_downloading_ticker_failed "Wystąpił błąd przy pobieraniu aktualizacji programu &brandShortName;&#8230;">
+<!ENTITY updater_downloading_select "Wybierz, aby zainstalować aktualizację.">
+<!ENTITY updater_downloading_retry "Wybierz, aby ponownie pobrać aktualizację.">
+<!ENTITY updater_downloading_willapply "Oczekiwanie na zakończenie pobierania.">
+
+<!ENTITY updater_apply_title "&brandShortName;">
+<!ENTITY updater_apply_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
+<!ENTITY updater_apply_select "Wybierz, aby zainstalować aktualizację.">

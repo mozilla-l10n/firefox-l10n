@@ -37,15 +37,18 @@
 <!ENTITY sync.button.tryagain.label 'Spróbuj ponownie'>
 <!ENTITY sync.button.manual.label 'Skonfiguruj ręcznie'>
 <!ENTITY sync.subtitle.nointernet.label 'Brak połączenia z Internetem.'>
+<!ENTITY sync.subtitle.failaccount.label 'Nie udało się utworzyć konta na tym urządzeniu.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Czy zainstalowano więcej niż jednego Firefoksa? &syncBrand.fullName.label; obsługuje obecnie tylko jedną instalację naraz. Aby skorzystać z usługi &syncBrand.shortName.label;, odinstaluj pozostałe instancje.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Konfiguracja zakończona'>
-<!ENTITY sync.subtitle.success.label 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem.'>
+<!ENTITY sync.subtitle.success.label1 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem, lub zacznij korzystać z przeglądarki &brandShortName;.'>
 <!ENTITY sync.settings.label 'Ustawienia'>
-<!ENTITY sync.subtitle.manage.label 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać.'>
+<!ENTITY sync.subtitle.manage.label1 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać, lub uruchom przeglądarkę &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
+<!ENTITY sync.pair.connectlocation.label 'Aby aktywować nowe urządzenie, wybierz na nim „Skonfiguruj &syncBrand.shortName.label;”, a następnie wybierz “Mam już konto”.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Ustawienia'>
@@ -67,9 +70,22 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Zakładki nieposortowane'>
 <!ENTITY bookmarks.folder.desktop.label 'Zakładki z komputera'>
 <!ENTITY bookmarks.folder.mobile.label 'Zakładki z telefonu'>
+<!ENTITY bookmarks.folder.readinglist.label 'Do przeczytania'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Można używać tylko jednego konta &syncBrand.fullName.label; naraz.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.new.recoverykey.status.incorrect 'Nieprawidłowy klucz odzyskiwania. Spróbuj ponownie.'>
+<!ENTITY sync.invalidcreds.label 'Niepoprawne hasło lub nazwa konta.'>
+<!ENTITY sync.invalidserver.label 'Wprowadź poprawny adres URL serwera.'>
+<!ENTITY sync.verifying.label 'Weryfikacja…'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Wyślij karty na urządzenia'>
+<!ENTITY sync.button.send.label 'Wyślij'>
+<!ENTITY sync.button.set.up.sync.label 'Skonfiguruj &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.'>
+<!ENTITY sync.text.tab.sent.label 'Karta wysłana!'>
+<!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>
