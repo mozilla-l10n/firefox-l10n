@@ -1,4 +1,8 @@
 <?xml version="1.0"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!DOCTYPE rdf:RDF SYSTEM "chrome://branding/locale/brand.dtd" >
 
@@ -8,18 +12,19 @@
   <rdf:Description about="urn:root">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="welcome" nc:name="Žinyno pradžia" nc:link="welcome_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="help-help" nc:name="Žinyno langas" nc:link="help_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="welcome" nc:name="Help and Support Center" nc:link="welcome_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="help-help" nc:name="Using the Help Window" nc:link="help_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="ieusers"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav" nc:name="Naršyklė" nc:link="nav_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail" nc:name="Paštas ir naujienų grupės" nc:link="mail_help.xhtml" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp" nc:name="Rašyklė"  nc:link="composer_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust" nc:name="Programos pritaikymas savo poreikiams"  nc:link="customize_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="using-priv-help" nc:name="Privatumo saugumo tvarkymas" nc:link="privacy_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="using-help-certs" nc:name="Liudijimai" nc:link="using_certs_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="profile-help" nc:name="Naudotojų profiliai" nc:link="profiles_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="shortcuts" nc:name="Spartieji klavišai" nc:link="shortcuts.xhtml"/> </rdf:li>
-		  <rdf:li> <rdf:Description ID="tools" nc:name="Saityno programavimo priemonės" nc:link="developer_tools.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav" nc:name="Browsing the Web" nc:link="nav_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail" nc:name="Using Mail &amp; Newsgroups" nc:link="mailnews_getting_started.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp" nc:name="Creating Web Pages"  nc:link="composer_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust" nc:name="Customizing &brandShortName;"  nc:link="customize_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-priv-help" nc:name="Using Privacy Features" nc:link="privacy_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-help-certs" nc:name="Using Certificates" nc:link="using_certs_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="profile-help" nc:name="Managing Profiles" nc:link="profiles_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="shortcuts" nc:name="&brandShortName; Keyboard Shortcuts" nc:link="shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tools" nc:name="Tools and Development" nc:link="developer_tools.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="glossary" nc:name="Glossary" nc:link="glossary.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -27,10 +32,10 @@
   <rdf:Description about="#help-help">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="help-help-window" nc:name="Pageidautinos temos paieška" nc:link="help_help.xhtml#finding_the_topic_you_want"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="help-help-retrace" nc:name="Spausdinimas ir žingsnių kartojimas" nc:link="help_help.xhtml#retracing_your_steps"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="help-help-buttons" nc:name="Žinyno mygtukas" nc:link="help_help.xhtml#using_help_buttons"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="help-help-tips" nc:name="Patarimai, kaip ieškoti" nc:link="help_help.xhtml#search_tips"/></rdf:li>
+        <rdf:li> <rdf:Description ID="help-help-window" nc:name="Finding the Topic You Want" nc:link="help_help.xhtml#finding_the_topic_you_want"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="help-help-retrace" nc:name="Retracing Your Steps and Printing" nc:link="help_help.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="help-help-buttons" nc:name="Using Help Buttons" nc:link="help_help.xhtml#using_help_buttons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="help-help-tips" nc:name="Search Tips" nc:link="help_help.xhtml#search_tips"/></rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -38,14 +43,14 @@
   <rdf:Description about="#nav">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc" nc:name="Saityno naršymas" nc:link="nav_help.xhtml#navigating_web_pages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-search" nc:name="Paieška saityne" nc:link="nav_help.xhtml#searching_the_web"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-printsave" nc:name="Tinklalapių kopijavimas, įrašymas ir spausdinimas" nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-language" nc:name="Kalbos ir lokalės" nc:link="nav_help.xhtml#using_languages_and_international_content"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-pluginsdownloads" nc:name="Priedai ir atsiuntimai" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-ses" nc:name="Darbo efektyvumas" nc:link="nav_help.xhtml#improving_speed_and_efficiency"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-proxies" nc:name="Įgaliotieji serveriai" nc:link="nav_help.xhtml#proxies"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-page-info" nc:name="Informacijos apie tinklalapį peržiūra" nc:link="page_info_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc" nc:name="Navigating Web Pages" nc:link="nav_help.xhtml#navigating_web_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-search" nc:name="Searching the Web" nc:link="nav_help.xhtml#searching_the_web"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-printsave" nc:name="Copying, Saving, and Printing Pages" nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-language" nc:name="Using Languages and International Content" nc:link="nav_help.xhtml#using_languages_and_international_content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-pluginsdownloads" nc:name="Plugins and Downloads" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-ses" nc:name="Improving Speed and Efficiency" nc:link="nav_help.xhtml#improving_speed_and_efficiency"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-proxies" nc:name="Proxies" nc:link="nav_help.xhtml#proxies"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-page-info" nc:name="Viewing Page Info" nc:link="page_info_help.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -53,14 +58,15 @@
   <rdf:Description about="#nav-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-view" nc:name="Pradžios tinklalapis" nc:link="nav_help.xhtml#viewing_your_home_page"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-move" nc:name="Perėjimas prie kito tinklalapio" nc:link="nav_help.xhtml#moving_to_another_page"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-link" nc:name="Saitai" nc:link="nav_help.xhtml#clicking_a_link"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-steps" nc:name="Grįžimas prie aplankytų tinklalapių" nc:link="nav_help.xhtml#retracing_your_steps"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-reload" nc:name="Siuntimo stabdymas ir kartojimas"  nc:link="nav_help.xhtml#stopping_and_reloading"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-bmark" nc:name="Į adresyną įtrauktų tinklalapių lankymas"  nc:link="nav_help.xhtml#visiting_bookmarked_pages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-tabbed" nc:name="Naršymo kortelės"  nc:link="nav_help.xhtml#using_tabbed_browsing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-sidebar" nc:name="Parankinė"  nc:link="nav_help.xhtml#using_sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-view" nc:name="Viewing Your Home Page" nc:link="nav_help.xhtml#viewing_your_home_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-move" nc:name="Moving to Another Page" nc:link="nav_help.xhtml#moving_to_another_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-link" nc:name="Clicking a Link" nc:link="nav_help.xhtml#clicking_a_link"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-steps" nc:name="Retracing Your Steps" nc:link="nav_help.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-reopen" nc:name="Reopening Closed Tabs or Windows" nc:link="nav_help.xhtml#reopening_closed_tabs_windows"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-reload" nc:name="Stopping and Reloading"  nc:link="nav_help.xhtml#stopping_and_reloading"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-bmark" nc:name="Visiting Bookmarked Pages"  nc:link="nav_help.xhtml#visiting_bookmarked_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-tabbed" nc:name="Using Tabbed Browsing"  nc:link="nav_help.xhtml#using_tabbed_browsing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-sidebar" nc:name="Using Sidebar"  nc:link="nav_help.xhtml#using_sidebar"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -68,12 +74,12 @@
   <rdf:Description about="#nav-doc-search">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-searchweb" nc:name="Sparčioji paieška" nc:link="nav_help.xhtml#fast_searches"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-smartsearch" nc:name="Paieška su keliomis ieškyklėmis" nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-searchprefs" nc:name="Paieškos nuostatų parinkimas" nc:link="nav_help.xhtml#setting_search_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-searchpage" nc:name="Paieška tinklalapyje" nc:link="nav_help.xhtml#searching_within_a_page"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-find_as_you_type" nc:name="Paieška renkant" nc:link="nav_help.xhtml#using_find_as_you_type"/></rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-searchbookmark" nc:name="Paieška adresyne arba žurnale" nc:link="nav_help.xhtml#searching_the_bookmarks_or_history_list"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-searchweb" nc:name="Fast Searches" nc:link="nav_help.xhtml#fast_searches"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-smartsearch" nc:name="Sidebar Advanced Search Mode" nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-searchprefs" nc:name="Setting Search Preferences" nc:link="nav_help.xhtml#setting_search_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-searchpage" nc:name="Searching Within a Page" nc:link="nav_help.xhtml#searching_within_a_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-find_as_you_type" nc:name="Using Find-as-you-type" nc:link="nav_help.xhtml#using_find_as_you_type"/></rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-searchbookmark" nc:name="Searching the Bookmarks or History List" nc:link="nav_help.xhtml#searching_the_bookmarks_or_history_list"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -81,9 +87,9 @@
   <rdf:Description about="#nav-doc-printsave">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-copy" nc:name="Dalies tinklalapio kopijavimas" nc:link="nav_help.xhtml#copying_part_of_a_page"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-save" nc:name="Viso tinklalapio arba jo dalies įrašymas" nc:link="nav_help.xhtml#saving_all_or_part_of_a_page"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-print" nc:name="Tinklalapio spausdinimas" nc:link="nav_help.xhtml#printing_a_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-copy" nc:name="Copying Part of a Page" nc:link="nav_help.xhtml#copying_part_of_a_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-save" nc:name="Saving All or Part of a Page" nc:link="nav_help.xhtml#saving_all_or_part_of_a_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-print" nc:name="Printing a Page" nc:link="nav_help.xhtml#printing_a_page"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -91,9 +97,9 @@
   <rdf:Description about="#nav-doc-language">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-charencode" nc:name="Koduotės ir šriftai" nc:link="nav_help.xhtml#selecting_character_encodings_and_fonts"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-languagepref" nc:name="Kalbų nuostatos" nc:link="nav_help.xhtml#setting_language_preferences"/> </rdf:li>
-		  <rdf:li> <rdf:Description ID="nav-doc-webcontent" nc:name="Lokalizuotos „&brandShortName;“ versijos" nc:link="nav_help.xhtml#finding_localized_version"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-charencode" nc:name="Selecting Character Encodings and Fonts" nc:link="nav_help.xhtml#selecting_character_encodings_and_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-languagepref" nc:name="Setting Language Preferences" nc:link="nav_help.xhtml#setting_language_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-webcontent" nc:name="Finding a &brandShortName; version in your own language" nc:link="nav_help.xhtml#finding_localized_version"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -101,9 +107,9 @@
   <rdf:Description about="#nav-doc-pluginsdownloads">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Programos priedai" nc:link="nav_help.xhtml#plugins"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-helperapps" nc:name="Įvairių tipų failų peržiūra" nc:link="nav_help.xhtml#helper_applications"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-dlmanager" nc:name="Atsiuntimų tvarkyklė" nc:link="nav_help.xhtml#download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Plugins" nc:link="nav_help.xhtml#plugins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-helperapps" nc:name="Helper Applications" nc:link="nav_help.xhtml#helper_applications"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-dlmanager" nc:name="Download Manager" nc:link="nav_help.xhtml#download_manager"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -111,19 +117,11 @@
   <rdf:Description about="#nav-doc-ses">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-autoload" nc:name="Darbo spartinimas" nc:link="nav_help.xhtml#automatic_loading"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-keywords" nc:name="Reikšminių žodžių priskyrimas adresyno įrašams" nc:link="nav_help.xhtml#custom_keywords"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-cache" nc:name="Podėlio nuostatų keitimas" nc:link="nav_help.xhtml#changing_cache_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-smartup" nc:name="Automatiniai naujinimai" nc:link="nav_help.xhtml#getting_the_latest_software_automatically"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-mousewheel" nc:name="Pelės ratukas" nc:link="nav_help.xhtml#using_a_mouse_wheel"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-  <rdf:Description about="#nav-proxies">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-prox" nc:name="Paruošimas darbui su įgaliotuoju serveriu" nc:link="nav_help.xhtml#setting_proxy_values"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-autoload" nc:name="Automatic Loading" nc:link="nav_help.xhtml#automatic_loading"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-keywords" nc:name="Using Custom Bookmark Keywords" nc:link="nav_help.xhtml#custom_keywords"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-cache" nc:name="Changing Cache Settings" nc:link="nav_help.xhtml#changing_cache_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-smartup" nc:name="Getting the Latest Software Automatically" nc:link="nav_help.xhtml#getting_the_latest_software_automatically"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-mousewheel" nc:name="Using a Mouse Wheel" nc:link="nav_help.xhtml#using_a_mouse_wheel"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -131,11 +129,11 @@
   <rdf:Description about="#nav-page-info">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="pageinfo_general" nc:name="Bendroji" nc:link="page_info_help.xhtml#general_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_forms" nc:name="Formos" nc:link="page_info_help.xhtml#forms_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_links" nc:name="Saitai" nc:link="page_info_help.xhtml#links_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_media" nc:name="Įvairialypė terpė" nc:link="page_info_help.xhtml#media_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_security" nc:name="Saugumas" nc:link="page_info_help.xhtml#security_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_general" nc:name="General Tab" nc:link="page_info_help.xhtml#general_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_forms" nc:name="Forms Tab" nc:link="page_info_help.xhtml#forms_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_links" nc:name="Links Tab" nc:link="page_info_help.xhtml#links_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_media" nc:name="Media Tab" nc:link="page_info_help.xhtml#media_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_security" nc:name="Security Tab" nc:link="page_info_help.xhtml#security_tab"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -146,21 +144,22 @@
 <rdf:Description about="#mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Darbo su el. paštu pradžia" nc:link="mail_help.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Laiškų gavimas ir skaitymas" nc:link="mail_help.xhtml#reading_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Laiškų siuntimas" nc:link="mail_help.xhtml#sending_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="Raiškiojo teksto (HTML) laiškai" nc:link="mail_help.xhtml#creating_html_mail_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Laiško priedai" nc:link="mail_help.xhtml#using_attachments" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Laiškų šalinimas" nc:link="mail_help.xhtml#deleting_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Adresų knygos" nc:link="mail_help.xhtml#using_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Laiškų tvarkymas" nc:link="mail_help.xhtml#organizing_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Brukalo valdymas" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Laiškų ir nuostatų importas iš kitų pašto programų" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Darbo su naujienų grupėmis pradžia" nc:link="mail_help.xhtml#getting_started_with_newsgroups" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Darbas atsijungus nuo tinklo" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Laiško skaitmeninis parašas ir šifravimas" nc:link="mail_sec_help.xhtml#secure_mail_first" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Pašto ir naujienų grupių paskyrų nuostatos" nc:link="mail_help.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Pašto programos nuostatos" nc:link="mail_help.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Getting Started with Mail &amp; Newsgroups" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Importing Mail from Other Programs" nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Reading Messages" nc:link="mailnews_using_mail.xhtml#reading_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Sending Messages" nc:link="mailnews_using_mail.xhtml#sending_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="Creating HTML Mail Messages" nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Using Attachments" nc:link="mailnews_using_mail.xhtml#using_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Deleting Messages" nc:link="mailnews_using_mail.xhtml#deleting_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Using Address Books" nc:link="mailnews_addressbooks.xhtml#using_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Organizing Your Messages" nc:link="mailnews_organizing.xhtml#organizing_your_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Controlling Junk Mail" nc:link="mailnews_organizing.xhtml#controlling_junk_mail" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Getting Started With Newsgroups" nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-blogs" nc:name="Getting Started With Blogs &amp; News Feeds" nc:link="mailnews_blogs_and_feeds.xhtml#getting_started_with_blogs_and_news_feeds" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Working Offline" nc:link="mailnews_offline.xhtml#working_offline" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Signing &amp; Encrypting Messages" nc:link="mailnews_security.xhtml#signing_and_encrypting_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Mail &amp; Newsgroups Account Settings" nc:link="mailnews_account_settings.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Mail &amp; Newsgroups Preferences" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -169,8 +168,18 @@
  <rdf:Description about="#mail-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Abonentų registravimas"  nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Veiksmai su paskyromis"  nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Using the Mail Account Setup Wizard"  nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Setting Up Additional Accounts"  nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Changing the Settings for an Account"  nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+ <rdf:Description about="#mail-importing-other">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="mail-importing-mail-messages" nc:name="Importing Mail Messages" nc:link="mailnews_getting_started.xhtml#importing_mail_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-importing-mail-settings" nc:name="Importing Mail Settings" nc:link="mailnews_getting_started.xhtml#importing_mail_settings" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -178,11 +187,11 @@
  <rdf:Description about="#mail-doc-read">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-notify" nc:name="Laiškų gavimas"  nc:link="mail_help.xhtml#getting_new_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="Pašto programos pagrindinio lango išvaizda"  nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Laiškų rikiavimas ir grupavimas"  nc:link="mail_help.xhtml#sorting_and_threading_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Laiškų įrašymas ir spausdinimas"  nc:link="mail_help.xhtml#saving_and_printing_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Paveikslų, scenarijų ir papildinių valdymas"  nc:link="mail_help.xhtml#controlling_images_scripts_and_plug-ins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-notify" nc:name="Getting New Messages"  nc:link="mailnews_using_mail.xhtml#getting_new_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="Choosing How You View the Mail Window"  nc:link="mailnews_using_mail.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Sorting and Threading Messages"  nc:link="mailnews_using_mail.xhtml#sorting_and_threading_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Saving and Printing Messages"  nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Controlling Images, Scripts, and Plugins"  nc:link="mailnews_using_mail.xhtml#controlling_images_scripts_and_plugins"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -190,15 +199,15 @@
   <rdf:Description about="#mail-doc-send">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Laiško rašymas" nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-new" nc:name="Laiškų rašymo langas" nc:link="mail_help.xhtml#using_the_message_composition_window" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-address" nc:name="Laiško adresavimas" nc:link="mail_help.xhtml#addressing_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-options" nc:name="Laiško siuntimo parinktys" nc:link="mail_help.xhtml#selecting_message_sending_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Atsakymas į laišką" nc:link="mail_help.xhtml#replying_to_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Laiško persiuntimas" nc:link="mail_help.xhtml#forwarding_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Pranešimai apie išsiųstus laiškus" nc:link="mail_help.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Laiškų juodraščiai" nc:link="mail_help.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Laiškų šablonai" nc:link="mail_help.xhtml#creating_and_using_templates" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Composing Messages" nc:link="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-new" nc:name="Using the Compose Window" nc:link="mailnews_using_mail.xhtml#using_the_message_composition_window" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-address" nc:name="Addressing a Message" nc:link="mailnews_using_mail.xhtml#addressing_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-options" nc:name="Selecting Message Sending Options" nc:link="mailnews_using_mail.xhtml#selecting_message_sending_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Replying to a Message" nc:link="mailnews_using_mail.xhtml#replying_to_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Forwarding a Message" nc:link="mailnews_using_mail.xhtml#forwarding_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Confirming That Your Message Was Opened" nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Saving and Editing a Message Draft" nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Creating and Using Templates" nc:link="mailnews_using_mail.xhtml#creating_and_using_templates" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -206,11 +215,11 @@
   <rdf:Description about="#mail-doc-html">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-html-use" nc:name="Raiškiojo teksto pasirinkimas" nc:link="mail_help.xhtml#using_html_in_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="Laiško siuntimo parinktys" nc:link="mail_help.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-address" nc:name="Kurio tipo tekstų nori laiškų gavėjai" nc:link="mail_help.xhtml#specifying_recipients_for_html_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="Pirminio raiškiojo (HTML) teksto peržiūra" nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-question" nc:name="Klausimas, kuriuo tekstu išsiųsti laišką" nc:link="mail_help.xhtml#using_the_html_mail_question_dialog_box" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-use" nc:name="Using HTML in Your Messages" nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="Choosing HTML Mail Sending Options" nc:link="mailnews_using_mail.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-address" nc:name="Specifying Recipients for HTML Messages" nc:link="mailnews_using_mail.xhtml#specifying_recipients_for_html_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="Viewing HTML Message Source" nc:link="mailnews_using_mail.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-question" nc:name="Using the HTML Mail Question Dialog Box" nc:link="mailnews_using_mail.xhtml#using_the_html_mail_question_dialog_box" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -218,7 +227,7 @@
 <rdf:Description about="#mail-doc-html-use">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-html-edit" nc:name="HTML elementų taisymas" nc:link="mail_help.xhtml#editing_or_inserting_html_elements" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-edit" nc:name="Editing or Inserting HTML" nc:link="mailnews_using_mail.xhtml#editing_or_inserting_html_elements" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -226,9 +235,9 @@
   <rdf:Description about="#mail-doc-attach">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-file" nc:name="Failo arba tinklalapio pridėjimas prie laiško" nc:link="mail_help.xhtml#attaching_a_file_or_web_page" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-view" nc:name="Priedų peržiūra ir atvėrimas" nc:link="mail_help.xhtml#viewing_and_opening_attachments" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-save" nc:name="Priedų įrašymas į diską" nc:link="mail_help.xhtml#saving_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-file" nc:name="Attaching a File or Web Page" nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-view" nc:name="Viewing and Opening Attachments" nc:link="mailnews_using_mail.xhtml#viewing_and_opening_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-save" nc:name="Saving Attachments" nc:link="mailnews_using_mail.xhtml#saving_attachments" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -236,8 +245,8 @@
 <rdf:Description about="#mail-doc-delete">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-delete-server" nc:name="POP arba IMAP abonentų laiškų šalinimas" nc:link="mail_help.xhtml#deleting_pop_or_imap_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Laiškų šalinimas ir pašalintų atkūrimas" nc:link="mail_help.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete-server" nc:name="Deleting POP or IMAP Messages" nc:link="mailnews_using_mail.xhtml#deleting_pop_or_imap_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Moving Messages to and from the Trash" nc:link="mailnews_using_mail.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -245,15 +254,16 @@
   <rdf:Description about="#mail-doc-address">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Apie adresų knygas" nc:link="mail_help.xhtml#about_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Įrašo įtraukimas į adresų knygą" nc:link="mail_help.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Naujos adresų knygos kūrimas" nc:link="mail_help.xhtml#creating_a_new_address_book" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Naujo įrašo įtraukimas į adresų knygą" nc:link="mail_help.xhtml#creating_a_new_address_book_card" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Adresatų sąrašo sudarymas" nc:link="mail_help.xhtml#creating_a_mailing_list" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Paieška adresų knygose ir kataloguose" nc:link="mail_help.xhtml#searching_address_books_and_directories" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Adresatų sąrašo taisymas" nc:link="mail_help.xhtml#editing_a_mailing_list" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Adresų knygų eksportas" nc:link="mail_help.xhtml#exporting_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="LDAP katalogų pridėjimas ir šalinimas" nc:link="mail_help.xhtml#adding_and_removing_ldap_directories" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="About Mail Address Books" nc:link="mailnews_addressbooks.xhtml#about_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Adding Entries to Your Address Books" nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Creating a New Address Book" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Creating a New Address Book Card" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book_card" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Creating a Mailing List" nc:link="mailnews_addressbooks.xhtml#creating_a_mailing_list" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Editing a Mailing List" nc:link="mailnews_addressbooks.xhtml#editing_a_mailing_list" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Searching Address Books" nc:link="mailnews_addressbooks.xhtml#searching_address_books_and_directories" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Importing Address Books" nc:link="mailnews_addressbooks.xhtml#importing_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Exporting Address Books" nc:link="mailnews_addressbooks.xhtml#exporting_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="Adding and Removing LDAP Directories" nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -262,7 +272,7 @@
 <rdf:Description about="#mail-doc-add-card">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Įrašo peržiūra ir taisymas" nc:link="mail_help.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Editing Card Properties" nc:link="mailnews_addressbooks.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -270,7 +280,7 @@
 <rdf:Description about="#mail_ab_search">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Išsamesnė paieška" nc:link="mail_help.xhtml#searching_for_specific_entries" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Searching for Specific Entries" nc:link="mailnews_addressbooks.xhtml#searching_for_specific_entries" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -278,7 +288,7 @@
 <rdf:Description about="#mail-doc-add-sync-LDAP-add">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Katalogų serverio nuostatos" nc:link="mail_help.xhtml#directory_server_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Directory Server Settings" nc:link="mailnews_addressbooks.xhtml#directory_server_settings" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -286,16 +296,16 @@
   <rdf:Description about="#mail-doc-folders">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="folder-creating" nc:name="Aplanko kūrimas" nc:link="mail_help.xhtml#creating_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-renaming" nc:name="Aplanko vardo keitimas" nc:link="mail_help.xhtml#renaming_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-copying" nc:name="Aplanko perkėlimas arba kopijavimas" nc:link="mail_help.xhtml#moving_or_copying_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-opening" nc:name="Laiško perkėlimas į kitą aplanką" nc:link="mail_help.xhtml#filing_messages_in_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-sharing" nc:name="Bendro naudojimo aplankai" nc:link="mail_help.xhtml#sharing_folders_with_other_users"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="labeling-messages" nc:name="Laiškų žymės" nc:link="mail_help.xhtml#labeling_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Laiško požymio „neskaitytas“ atkūrimas ir žymėjimas gairele" nc:link="mail_xhelp.xhtml#marking_or_flagging_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="message-views-using" nc:name="Rodomi laiškai" nc:link="mail_help.xhtml#using_message_views"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-filters" nc:name="Laiškų filtrai" nc:link="mail_help.xhtml#creating_message_filters"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="search-mailnews" nc:name="Paieška laiškuose" nc:link="mail_help.xhtml#searching_through_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-creating" nc:name="Creating a Folder" nc:link="mailnews_organizing.xhtml#creating_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-renaming" nc:name="Renaming a Folder" nc:link="mailnews_organizing.xhtml#renaming_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-copying" nc:name="Moving or Copying a Folder" nc:link="mailnews_organizing.xhtml#moving_or_copying_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-opening" nc:name="Filing Messages in Folders" nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-sharing" nc:name="Sharing Folders" nc:link="mailnews_organizing.xhtml#sharing_folders_with_other_users"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tagging-messages" nc:name="Tagging Messages" nc:link="mailnews_organizing.xhtml#tagging_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Marking or Flagging Messages" nc:link="mailnews_organizing.xhtml#marking_or_flagging_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="message-views-using" nc:name="Using Message Views" nc:link="mailnews_organizing.xhtml#using_message_views"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-filters" nc:name="Creating Message Filters" nc:link="mailnews_organizing.xhtml#creating_message_filters"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="search-mailnews" nc:name="Searching Through Messages" nc:link="mailnews_organizing.xhtml#searching_through_messages"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -303,18 +313,18 @@
 <rdf:Description about="#folder-sharing">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="folder-subscribing" nc:name="Bendro naudojimo aplankų prenumerata" nc:link="mail_help.xhtml#subscribing_to_a_shared_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-subscribing" nc:name="Subscribing to a Shared Folder" nc:link="mailnews_organizing.xhtml#subscribing_to_a_shared_folder"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
 
-<rdf:Description about="#labeling-messages">
+<rdf:Description about="#tagging-messages">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="label-apply" nc:name="Laiško žymėjimas" nc:link="mail_help.xhtml#applying_a_label"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-customize" nc:name="Žymių pavadinimų ir spalvų keitimas" nc:link="mail_help.xhtml#customizing_labels"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-sort" nc:name="Laiškų rikiavimas pagal žymės stulpelį" nc:link="mail_help.xhtml#sorting_messages_by_label"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-remove" nc:name="Žymių šalinimas" nc:link="mail_help.xhtml#removing_labels"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tag-apply" nc:name="Applying a Tag" nc:link="mailnews_organizing.xhtml#applying_a_tag"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tag-customize" nc:name="Customizing Tags" nc:link="mailnews_organizing.xhtml#customizing_tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tag-sort" nc:name="Sorting Messages by Tags" nc:link="mailnews_organizing.xhtml#sorting_messages_by_tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tag-remove" nc:name="Removing Tags" nc:link="mailnews_organizing.xhtml#removing_tags"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -322,7 +332,7 @@
 <rdf:Description about="#message-views-using">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Rodomų laiškų kategorijos sudarymas" nc:link="mail_help.xhtml#creating_a_custom_view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Creating a Custom View" nc:link="mailnews_organizing.xhtml#creating_a_custom_view"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -330,7 +340,7 @@
 <rdf:Description about="#mail-filters">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="send-filter" nc:name="Filtravimas laiškų, gautų iš konkretaus siuntėjo" nc:link="mail_help.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="send-filter" nc:name="Filtering Messages from a Specific Sender" nc:link="mailnews_organizing.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -338,7 +348,7 @@
 <rdf:Description about="#search-mailnews">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="search_messages" nc:name="Išplėstinė laiškų paieška" nc:link="mail_help.xhtml#searching_for_specific_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="search_messages" nc:name="Searching for Specific Messages" nc:link="mailnews_organizing.xhtml#searching_for_specific_messages"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -346,16 +356,10 @@
 <rdf:Description about="#mail-junk">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Brukalo valdymo mechanizmas" nc:link="mail_help.xhtml#using_junk_mail_controls" /> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#mail-importing-other">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-importing-mail-messages" nc:name="Laiškų importas" nc:link="mail_help.xhtml#importing_mail_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-importing-mail-settings" nc:name="Pašto nuostatų importas" nc:link="mail_help.xhtml#importing_mail_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Using Junk Mail Controls" nc:link="mailnews_organizing.xhtml#using_junk_mail_controls" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-options" nc:name="Junk Mail Controls Options" nc:link="mailnews_organizing.xhtml#junk_controls_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Junk Mail Controls and Filters" nc:link="mailnews_organizing.xhtml#junk_controls_and_filters" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-phishing" nc:name="Phishing Detection" nc:link="mailnews_organizing.xhtml#phishing_detection" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -363,13 +367,41 @@
   <rdf:Description about="#mail-doc-news">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-subscribe" nc:name="Naujienų prenumerata" nc:link="mail_help.xhtml#subscribing_to_newsgroups"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-reading-news" nc:name="Naujienų grupės laiškų skaitymas" nc:link="mail_help.xhtml#reading_newsgroup_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-posting" nc:name="Laiškų siuntimas į naujienų grupę" nc:link="mail_help.xhtml#posting_newsgroup_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-replying-news" nc:name="Įsitraukimas į vykstančią diskusiją" nc:link="mail_help.xhtml#contributing_to_ongoing_discussions"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-monitoring" nc:name="Gijų peržiūra" nc:link="mail_help.xhtml#monitoring_threads"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-delete-news" nc:name="Naujienų grupės šalinimas" nc:link="mail_help.xhtml#removing_a_newsgroup"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-add-newsserver" nc:name="Naujienų serverio įtraukimas" nc:link="mail_help.xhtml#adding_a_newsgroup_server"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-subscribe" nc:name="Subscribing to Newsgroups" nc:link="mailnews_newsgroups.xhtml#subscribing_to_newsgroups"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-reading-news" nc:name="Reading Newsgroup Messages" nc:link="mailnews_newsgroups.xhtml#reading_newsgroup_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-posting" nc:name="Posting Newsgroup Messages" nc:link="mailnews_newsgroups.xhtml#posting_newsgroup_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-replying-news" nc:name="Contributing to Ongoing Discussions" nc:link="mailnews_newsgroups.xhtml#contributing_to_ongoing_discussions"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-monitoring" nc:name="Monitoring Threads" nc:link="mailnews_newsgroups.xhtml#monitoring_threads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-delete-news" nc:name="Removing a Newsgroup" nc:link="mailnews_newsgroups.xhtml#removing_a_newsgroup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-add-newsserver" nc:name="Adding a Newsgroup Server" nc:link="mailnews_newsgroups.xhtml#adding_a_newsgroup_server"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#mail-doc-blogs">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="mail-blogs-subscribe" nc:name="Subscribing to blogs &amp; news feeds" nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-subscribe-from-browser" nc:name="Subscribing to blogs &amp; news feeds from a browser window" nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds_from_browser"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-reading" nc:name="Reading blogs &amp; news feed messages" nc:link="mailnews_blogs_and_feeds.xhtml#reading_blogs_and_news_feed_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-posting" nc:name="Posting blog messages" nc:link="mailnews_blogs_and_feeds.xhtml#posting_blog_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-comments" nc:name="Adding comments to a blog post" nc:link="mailnews_blogs_and_feeds.xhtml#adding_comments_to_a_blog_post"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-exporting-importing" nc:name="Exporting and importing feeds" nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-editing" nc:name="Editing a feed" nc:link="mailnews_blogs_and_feeds.xhtml#editing_a_feed"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-removing" nc:name="Removing a feed" nc:link="mailnews_blogs_and_feeds.xhtml#removing_a_feed"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-using-different-accounts" nc:name="Using different blogs &amp; news feeds accounts" nc:link="mailnews_blogs_and_feeds.xhtml#using_different_blogs_and_news_feeds_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-organizing" nc:name="Organizing your feeds" nc:link="mailnews_blogs_and_feeds.xhtml#organizing_your_feeds"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#mail-blogs-organizing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="mail-blogs-feeds-folders" nc:name="Feeds versus folders" nc:link="mailnews_blogs_and_feeds.xhtml#feeds_vs_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-folders-in-blogs" nc:name="Organizing folders in Blogs &amp; News Feeds accounts" nc:link="mailnews_blogs_and_feeds.xhtml#organizing_folders_in_blogs_and_news_feeds_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-multiple-feeds" nc:name="Downloading multiple feeds in a single folder" nc:link="mailnews_blogs_and_feeds.xhtml#downloading_multiple_feeds_in_a_single_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-blogs-moving-feeds" nc:name="Moving a feed to another folder" nc:link="mailnews_blogs_and_feeds.xhtml#moving_a_feed_to_another_folder"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -377,15 +409,15 @@
 <rdf:Description about="#mail-doc-offline">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Pašto suderinimas darbui atsijungus" nc:link="mail_help.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Laiškų parsisiuntimas į savą kompiuterį" nc:link="mail_help.xhtml#downloading_your_inbox_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Atskiro aplanko parsisiuntimas į savą kompiuterį" nc:link="mail_help.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name="Pasirinktų ar pažymėtų gairele laiškų parsisiuntimas į savą kompiuterį" nc:link="mail_help.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-directory" nc:name="Katalogų įrašų parsisiuntimas į savą kompiuterį" nc:link="mail_help.xhtml#downloading_directory_entries_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-accounts" nc:name="Paskyrų nuostatos darbui atsijungus" nc:link="mail_help.xhtml#setting_up_your_accounts_for_working_offline"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-items" nc:name="Aplankų parinkimas darbui atsijungus" nc:link="mail_help.xhtml#selecting_items_for_offline_viewing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-sync" nc:name="Laiškų parsisiuntimas ir suvienodinimas" nc:link="mail_help.xhtml#downloading_and_synchronizing_your_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-go" nc:name="Atsijungimas ir prisijungimas iš naujo" nc:link="mail_help.xhtml#working_offline_and_reconnecting_later"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Setting Up Mail &amp; Newsgroups to Work Offline" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Downloading All Messages for Offline Use" nc:link="mailnews_offline.xhtml#downloading_all_messages_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Downloading an Individual Folder" nc:link="mailnews_offline.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name="Downloading Selected or Flagged Messages" nc:link="mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-directory" nc:name="Downloading Directory Entries" nc:link="mailnews_offline.xhtml#downloading_directory_entries_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-accounts" nc:name="Setting Up Your Accounts for Working Offline" nc:link="mailnews_offline.xhtml#setting_up_your_accounts_for_working_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-items" nc:name="Selecting Items for Offline Viewing" nc:link="mailnews_offline.xhtml#selecting_items_for_offline_viewing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-sync" nc:name="Downloading and Synchronizing Your Messages" nc:link="mailnews_offline.xhtml#downloading_and_synchronizing_your_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-go" nc:name="Working Offline and Reconnecting Later" nc:link="mailnews_offline.xhtml#working_offline_and_reconnecting_later"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -393,13 +425,13 @@
 <rdf:Description about="#sign-encrypt">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="sign-encrypt-about" nc:name="Apie skaitmeninį parašą ir užšifravimą" nc:link="mail_sec_help.xhtml#about_sigs_encrypt" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="sign-encrypt-get" nc:name="Kitų asmenų liudijimų gavimas" nc:link="mail_sec_help.xhtml#get_mail_certs" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="sign-encrypt-config" nc:name="Saugumo nuostatų sąranka" nc:link="mail_sec_help.xhtml#config_account" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="sign-encrypt-signing" nc:name="Naujo laiško skaitmeninis parašas ir užšifravimas" nc:link="mail_sec_help.xhtml#signing" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="sign-encrypt-read" nc:name="Skaitmeniškai pasirašyto ir užšifruoto laiško skaitymas" nc:link="mail_sec_help.xhtml#reading" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="compose_security" nc:name="Laiško saugumas. Laiškų rašymo langas" nc:link="mail_sec_help.xhtml#compose_security" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="received_security" nc:name="Laiško saugumas. Gautas laiškas" nc:link="mail_sec_help.xhtml#received_security" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-about" nc:name="Digital Signatures &amp; Encryption" nc:link="mailnews_security.xhtml#about_digital_signatures_and_encryption" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-get" nc:name="Getting Other People's Certificates" nc:link="mailnews_security.xhtml#getting_other_peoples_certificates" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-config" nc:name="Configuring Security Settings" nc:link="mailnews_security.xhtml#configuring_security_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-signing" nc:name="Signing &amp; Encrypting a New Message" nc:link="mailnews_security.xhtml#signing_and_encrypting_a_new_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-read" nc:name="Reading Signed &amp; Encrypted Messages" nc:link="mailnews_security.xhtml#reading_signed_and_encrypted_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="compose_security" nc:name="Message Security - Compose Window" nc:link="mailnews_security.xhtml#message_security_compose_window" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="received_security" nc:name="Message Security - Received Message" nc:link="mailnews_security.xhtml#message_security_received_message" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -407,8 +439,8 @@
 <rdf:Description about="#sign-encrypt-about">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="sign-encrypt-about-sig" nc:name="Kaip veikia skaitmeninis parašas" nc:link="mail_sec_help.xhtml#how_sigs_work" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="sign-encrypt-about-encrypt" nc:name="Kaip veikia užšifravimas" nc:link="mail_sec_help.xhtml#how_encrypt_works" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-about-sig" nc:name="How Digital Signatures Work" nc:link="mailnews_security.xhtml#how_digital_signatures_work" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="sign-encrypt-about-encrypt" nc:name="How Encryption Works" nc:link="mailnews_security.xhtml#how_encryption_works" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -417,14 +449,16 @@
 <rdf:Description about="#mail-doc-account-settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_account_identity" nc:name="Paskyros nuostatos"  nc:link="mail_help.xhtml#account_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-choose" nc:name="Serverių nuostatos"  nc:link="mail_help.xhtml#server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_copies" nc:name="Laiškai ir aplankai"  nc:link="mail_help.xhtml#copies_and_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_addressing_settings" nc:name="Laiškų rašymas ir adresavimas"  nc:link="mail_help.xhtml#addressing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-offline-space" nc:name="Darbas atsijungus nuo tinklo ir disko atmintinė"  nc:link="mail_help.xhtml#offline_and_disk_space"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_security_settings" nc:name="Saugumas"  nc:link="mail_help.xhtml#security"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_local_folders_settings" nc:name="Bendrieji aplankai"  nc:link="mail_help.xhtml#local_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Išsiuntimo serverio (SMTP) nuostatos"  nc:link="mail_help.xhtml#outgoing_server"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_account_identity" nc:name="Account Settings"  nc:link="mailnews_account_settings.xhtml#account_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-choose" nc:name="Server Settings"  nc:link="mailnews_account_settings.xhtml#server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_copies" nc:name="Copies &amp; Folders"  nc:link="mailnews_account_settings.xhtml#copies_and_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_addressing_settings" nc:name="Composition &amp; Addressing"  nc:link="mailnews_account_settings.xhtml#addressing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-offline-space" nc:name="Synchronization &amp; Storage"  nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-account-receipts" nc:name="Return Receipts" nc:link="mailnews_account_settings.xhtml#return_receipts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-account-junk" nc:name="Junk Settings" nc:link="mailnews_account_settings.xhtml#junk_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings" nc:name="Security"  nc:link="mailnews_account_settings.xhtml#security"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_local_folders_settings" nc:name="Local Folders"  nc:link="mailnews_account_settings.xhtml#local_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Outgoing Server (SMTP)"  nc:link="mailnews_account_settings.xhtml#outgoing_server"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -432,12 +466,12 @@
 <rdf:Description about="#mail-doc-choose">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-choose-IMAP" nc:name="Interaktyvusis kreipties į elektroninį paštą protokolas (IMAP)"  nc:link="mail_help.xhtml#about_internet_message_access_protocol"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-choose-POP" nc:name="Pašto skyriaus protokolas (POP3)"  nc:link="mail_help.xhtml#about_post_office_protocol"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_imap" nc:name="IMAP serverio nuostatos"  nc:link="mail_help.xhtml#imap_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-imap-advanced" nc:name="Papildomos IMAP serverio nuostatos"  nc:link="mail_help.xhtml#advanced_imap_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_pop3" nc:name="POP serverio nuostatos"  nc:link="mail_help.xhtml#pop_server_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="Naujienų grupių serverio nuostatos"  nc:link="mail_help.xhtml#news_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-choose-IMAP" nc:name="About IMAP"  nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-choose-POP" nc:name="About POP"  nc:link="mailnews_account_settings.xhtml#about_post_office_protocol"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_imap" nc:name="IMAP Server Settings"  nc:link="mailnews_account_settings.xhtml#imap_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-imap-advanced" nc:name="Advanced IMAP Server Settings"  nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_pop3" nc:name="POP Server Settings"  nc:link="mailnews_account_settings.xhtml#pop_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_server_nntp" nc:name="News Server Settings"  nc:link="mailnews_account_settings.xhtml#news_server_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -445,10 +479,10 @@
 <rdf:Description about="#mail-doc-offline-space">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_offline_imap" nc:name="Darbas atsijungus nuo tinklo (IMAP)"  nc:link="mail_help.xhtml#offline_and_disk_space_settings_imap"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_offline_pop3" nc:name="Disko atmintinė (POP)"  nc:link="mail_help.xhtml#disk_space_settings"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_offline_nntp" nc:name="Darbas atsijungus nuo tinklo (Naujienos)"  nc:link="mail_help.xhtml#offline_and_disk_space_settings_nntp"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-account-receipts" nc:name="Pranešimai apie išsiųstus laiškus" nc:link="mail_help.xhtml#return_receipts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_imap" nc:name="IMAP"  nc:link="mailnews_account_settings.xhtml#synchronization_and_storage_settings_imap"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_pop3" nc:name="POP"  nc:link="mailnews_account_settings.xhtml#disk_space_settings_pop"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_blogs" nc:name="Blogs"  nc:link="mailnews_account_settings.xhtml#disk_space_settings_blogs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_offline_nntp" nc:name="News"  nc:link="mailnews_account_settings.xhtml#synchronization_and_storage_settings_nntp"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -456,9 +490,9 @@
 <rdf:Description about="#mail_security_settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_security_settings_certs" nc:name="Tapatybės liudijimai"  nc:link="mail_help.xhtml#about_certificates"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_security_settings_sign" nc:name="Skaitmeninis parašas"  nc:link="mail_help.xhtml#digital_signing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_security_settings_encrypt" nc:name="Užšifravimas"  nc:link="mail_help.xhtml#encryption"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings_certs" nc:name="About Certificates"  nc:link="mailnews_account_settings.xhtml#about_certificates"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings_sign" nc:name="Digital Signing"  nc:link="mailnews_account_settings.xhtml#digital_signing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_security_settings_encrypt" nc:name="Encryption"  nc:link="mailnews_account_settings.xhtml#encryption"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -466,16 +500,17 @@
 <rdf:Description about="#mail-doc-mailprefs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Paštas" nc:link="mail_help.xhtml#mail_and_newsgroups"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_windows" nc:name="Langai" nc:link="mail_help.xhtml#windows"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Laiškų skaitymas" nc:link="mail_help.xhtml#message_display"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Signalai" nc:link="mail_help.xhtml#notifications"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Laiškų rašymas" nc:link="mail_help.xhtml#composition"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Siunčiamo teksto tipai" nc:link="mail_help.xhtml#send_format"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Adresavimas" nc:link="mail_help.xhtml#addressing_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-labels" nc:name="Laiškų žymės" nc:link="mail_help.xhtml#labels"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Pranešimai apie išsiųstus laiškus" nc:link="mail_help.xhtml#return_receipts_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Darbas atsijungus" nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Mail &amp; Newsgroups" nc:link="mailnews_preferences.xhtml#mail_and_newsgroups"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Message Display" nc:link="mailnews_preferences.xhtml#message_display"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Notifications" nc:link="mailnews_preferences.xhtml#notifications"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Composition" nc:link="mailnews_preferences.xhtml#composition"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Send Format" nc:link="mailnews_preferences.xhtml#send_format"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Addressing" nc:link="mailnews_preferences.xhtml#addressing_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Junk &amp; Suspect Mail" nc:link="mailnews_preferences.xhtml#junk_and_suspect_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-tags" nc:name="Tags" nc:link="mailnews_preferences.xhtml#tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Return Receipts" nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Character Encoding" nc:link="mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Network &amp; Storage" nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -485,14 +520,14 @@
 <rdf:Description about="#comp">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc"	nc:name="Naujo tinklalapio rašymas"  nc:link="composer_help.xhtml#comp_start"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="page_change" nc:name="Tinklalapio formatavimas"  nc:link="composer_help.xhtml#page_change"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-table" nc:name="Lentelių įterpimas"  nc:link="composer_help.xhtml#page_table"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-image" nc:name="Paveikslų įterpimas į tinklalapį"  nc:link="composer_help.xhtml#page_picture"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-page" nc:name="Tinklalapio savybių nustatymas"  nc:link="composer_help.xhtml#page_properties"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="link_properties" nc:name="Saitų kūrimas"  nc:link="composer_help.xhtml#page_link"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish" nc:name="Tinklalapių publikavimas saityne"  nc:link="composer_help.xhtml#publish_top"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-prefs" nc:name="Rašyklės nuostatos"  nc:link="composer_help.xhtml#Set_Comp_prefs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc"	nc:name="Starting a New Page"  nc:link="composer_help.xhtml#starting_a_new_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="page_change" nc:name="Formatting Your Web Pages"  nc:link="composer_help.xhtml#formatting_your_web_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-table" nc:name="Adding Tables to Your Web Page"  nc:link="composer_help.xhtml#adding_tables_to_your_web_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-image" nc:name="Adding Images to Your Web Page"  nc:link="composer_help.xhtml#adding_images_to_your_web_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-page" nc:name="Setting Page Properties"  nc:link="composer_help.xhtml#setting_page_properties"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="link_properties" nc:name="Creating Links"  nc:link="composer_help.xhtml#creating_links_in_composer"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish" nc:name="Publishing Your Pages"  nc:link="composer_help.xhtml#publishing_your_pages_on_the_web"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-prefs" nc:name="Composer Preferences"  nc:link="composer_help.xhtml#composer_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -500,8 +535,8 @@
   <rdf:Description about="#comp-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-create" nc:name="Tinklalapio rašymas"  nc:link="composer_help.xhtml#create_document"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-save" nc:name="Naujo tinklalapio įrašymas ir peržiūra"  nc:link="composer_help.xhtml#browse_new_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-create" nc:name="Creating a New Page"  nc:link="composer_help.xhtml#creating_a_new_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-save" nc:name="Saving and Browsing Your Page"  nc:link="composer_help.xhtml#saving_and_browsing_your_new_page"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -509,16 +544,16 @@
   <rdf:Description about="#page_change">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="props-para" nc:name="Pastraipų, antraščių ir sąrašų formatavimas"  nc:link="composer_help.xhtml#PROPERTIES_PARAGRAPH"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="lists" nc:name="Darbas su sąrašais"  nc:link="composer_help.xhtml#lists"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="char" nc:name="Teksto spalvos, stiliaus ir šrifto keitimas"  nc:link="composer_help.xhtml#PROPERTIES_CHARACTER"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="style-remove" nc:name="Teksto stilių atsisakymas arba nebetaikymas"  nc:link="composer_help.xhtml#style_remove"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="find-text" nc:name="Teksto paieška ir keitimas"  nc:link="composer_help.xhtml#FIND_TEXT"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="props-hrule" nc:name="Horizontalės įterpimas"  nc:link="composer_help.xhtml#PROPERTIES_HRULE"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="special-chars" nc:name="Specialiųjų rašmenų įterpimas"  nc:link="composer_help.xhtml#SPECIAL_CHARACTERS"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="html-tag" nc:name="HTML kalbos elementų ir požymių įterpimas"  nc:link="composer_help.xhtml#HTML_TAG"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="validate-html" nc:name="HTML kalbos tikrinimas"  nc:link="composer_help.xhtml#HTML_VALIDATE"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-choose" nc:name="Rodinio parinkimas"  nc:link="composer_help.xhtml#Edit_modes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="props-para" nc:name="Formatting Paragraphs, Headings, and Lists"  nc:link="composer_help.xhtml#formatting_paragraphs_headings_and_lists"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="lists" nc:name="Working with Lists"  nc:link="composer_help.xhtml#working_with_lists"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="char" nc:name="Changing Text Color, Style, and Font"  nc:link="composer_help.xhtml#changing_text_color_style_and_font"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="style-remove" nc:name="Removing or Discontinuing Text Styles"  nc:link="composer_help.xhtml#removing_or_discontinuing_text_styles"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="find-text" nc:name="Finding and Replacing Text"  nc:link="composer_help.xhtml#finding_and_replacing_text"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="props-hrule" nc:name="Inserting Horizontal Lines"  nc:link="composer_help.xhtml#inserting_horizontal_lines"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="special-chars" nc:name="Inserting Special Characters"  nc:link="composer_help.xhtml#inserting_special_characters"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="html-tag" nc:name="Inserting HTML Elements and Attributes"  nc:link="composer_help.xhtml#inserting_html_elements_and_attributes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="validate-html" nc:name="Validating the HTML"  nc:link="composer_help.xhtml#validating_the_html"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-choose" nc:name="Choosing the Right Editing Mode"  nc:link="composer_help.xhtml#choosing_the_right_editing_mode"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -526,7 +561,7 @@
 <rdf:Description about="#props-hrule">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="props-hrule-horiz" nc:name="Horizontalės nuostatos"  nc:link="composer_help.xhtml#horiz_line"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="props-hrule-horiz" nc:name="Setting Horizontal Line Properties"  nc:link="composer_help.xhtml#setting_horizontal_line_properties"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -534,7 +569,7 @@
 <rdf:Description about="#html-tag">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="advanced_property_editor" nc:name="Papildoma taisa"  nc:link="composer_help.xhtml#PROPERTY_EDITOR"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="advanced_property_editor" nc:name="Using the Advanced Property Editor"  nc:link="composer_help.xhtml#using_the_advanced_property_editor"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -542,12 +577,12 @@
   <rdf:Description about="#comp-doc-table">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-table-insert" nc:name="Lentelės įterpimas"  nc:link="composer_help.xhtml#Inserting_a_table"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="table_properties" nc:name="Lentelės savybių keitimas"  nc:link="composer_help.xhtml#Setting_table_properties"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-table-add" nc:name="Eilučių, stulpelių ir langelių įterpimas ir šalinimas"  nc:link="composer_help.xhtml#addtable"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-table-select" nc:name="Lentelės elementų žymėjimas"  nc:link="composer_help.xhtml#TABLE_SELECTION"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-table-copy" nc:name="Lentelės perkėlimas, kopijavimas ir šalinimas"  nc:link="composer_help.xhtml#select_table"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-tableize" nc:name="Teksto pavertimas lentele"  nc:link="composer_help.xhtml#tableize"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-table-insert" nc:name="Inserting a Table"  nc:link="composer_help.xhtml#inserting_a_table"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="table_properties" nc:name="Changing a Table's Properties"  nc:link="composer_help.xhtml#changing_a_tables_properties"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-table-add" nc:name="Adding/Deleting Rows, Columns, and Cells"  nc:link="composer_help.xhtml#adding_and_deleting_rows_columns_and_cells"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-table-select" nc:name="Selecting Table Elements"  nc:link="composer_help.xhtml#selecting_table_elements"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-table-copy" nc:name="Moving, Copying, and Deleting Tables"  nc:link="composer_help.xhtml#moving_copying_and_deleting_tables"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-tableize" nc:name="Converting Text into a Table"  nc:link="composer_help.xhtml#converting_text_into_a_table"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -555,7 +590,7 @@
 <rdf:Description about="#comp-doc-table-add">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-table-change-default" nc:name="Lentelių tvarkymo numatytųjų nuostatų keitimas"  nc:link="composer_help.xhtml#table_editing_default"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-table-change-default" nc:name="Changing the Default Table Editing Behavior"  nc:link="composer_help.xhtml#changing_the_default_table_editing_behavior"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -563,8 +598,8 @@
   <rdf:Description about="#comp-doc-image">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-image-insert" nc:name="Paveikslo įterpimas į tinklalapį"  nc:link="composer_help.xhtml#Insert_an_image"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="image_properties" nc:name="Paveikslo savybių taisymas"  nc:link="composer_help.xhtml#PROPERTIES_IMAGE"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-image-insert" nc:name="Inserting an Image into Your Page"  nc:link="composer_help.xhtml#inserting_an_image_into_your_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="image_properties" nc:name="Editing Image Properties"  nc:link="composer_help.xhtml#editing_image_properties"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -572,8 +607,8 @@
   <rdf:Description about="#comp-doc-page">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-page-props" nc:name="Tinklalapio savybės ir metagairės"  nc:link="composer_help.xhtml#DOCUMENT_PROPERTIES_GENERAL"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-page-appear" nc:name="Tinklalapio spalvos ir fonas"  nc:link="composer_help.xhtml#DOCUMENT_PROPERTIES_APPEARANCE"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-page-props" nc:name="Setting Page Properties and Meta Tags"  nc:link="composer_help.xhtml#setting_page_properties_and_meta_tags"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-page-appear" nc:name="Setting Colors and Background"  nc:link="composer_help.xhtml#setting_page_colors_and_backgrounds"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -581,10 +616,10 @@
   <rdf:Description about="#link_properties">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-links-inpage" nc:name="Saitų kūrimas tame pačiame tinklalapyje"  nc:link="composer_help.xhtml#PROPERTIES_TARGET"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-links-others" nc:name="Saitų į kitus tinklalapius kūrimas"  nc:link="composer_help.xhtml#creating_links"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-links-images" nc:name="Saitai iš paveikslų"  nc:link="composer_help.xhtml#Linking_images"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-links-remove" nc:name="Saitų šalinimas ir saito teksto nutraukimas"  nc:link="composer_help.xhtml#Linking_remove"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-links-inpage" nc:name="Within the Same Page"  nc:link="composer_help.xhtml#creating_links_within_the_same_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-links-others" nc:name="To Other Pages"  nc:link="composer_help.xhtml#creating_links_to_other_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-links-images" nc:name="Using Images as Links"  nc:link="composer_help.xhtml#using_images_as_links"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-links-remove" nc:name="Removing or Discontinuing Links"  nc:link="composer_help.xhtml#removing_or_discontinuing_links"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -592,14 +627,14 @@
 <rdf:Description about="#comp-doc-publish">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-prepare" nc:name="Dokumento publikavimas"  nc:link="composer_help.xhtml#publish_prepare"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-update" nc:name="Publikuoto dokumento atnaujinimas"  nc:link="composer_help.xhtml#publish_update"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-as" nc:name="Failo vardo ir tinklavietės adreso keitimas"  nc:link="composer_help.xhtml#publish_as"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-newsite" nc:name="Naujos tinklavietės aprašo kūrimas"  nc:link="composer_help.xhtml#site_new"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-default" nc:name="Numatytosios publikavimo tinklavietės keitimas"  nc:link="composer_help.xhtml#site_default"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-delete" nc:name="Tinklavietės aprašo šalinimas"  nc:link="composer_help.xhtml#site_delete"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting" nc:name="Publikavimo nesklandumų šalinimas"  nc:link="composer_help.xhtml#pub_problems"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-settings" nc:name="Publikavimo nuostatos"  nc:link="composer_help.xhtml#edit_site"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-prepare" nc:name="Publishing a Document"  nc:link="composer_help.xhtml#publishing_a_document"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-update" nc:name="Updating a Published Document"  nc:link="composer_help.xhtml#updating_a_published_document"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-as" nc:name="Changing the File Name or Publishing Location"  nc:link="composer_help.xhtml#changing_the_filename_or_publishing_location"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-newsite" nc:name="Creating a New Publishing Site"  nc:link="composer_help.xhtml#creating_a_new_publishing_site"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-default" nc:name="Choosing the Default Publishing Site"  nc:link="composer_help.xhtml#choosing_the_default_publishing_site"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-delete" nc:name="Deleting a Publishing Site"  nc:link="composer_help.xhtml#deleting_a_publishing_site"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting" nc:name="Solving Common Publishing Problems"  nc:link="composer_help.xhtml#solving_common_publishing_problems"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-settings" nc:name="Publishing Settings"  nc:link="composer_help.xhtml#publishing_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -607,7 +642,7 @@
 <rdf:Description about="#comp-doc-publish-prepare">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-tips" nc:name="Kaip išvengti neveikiančių saitų ir dingusių paveikslų"  nc:link="composer_help.xhtml#publish_tips"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-tips" nc:name="Publishing Tips"  nc:link="composer_help.xhtml#tips_for_avoiding_broken_links_or_missing_images"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -615,9 +650,9 @@
 <rdf:Description about="#comp-doc-publish-troubleshooting">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting-settings" nc:name="Publikavimo nuostatų tikrinimas"  nc:link="composer_help.xhtml#general_tips"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting-files" nc:name="Failų vardų tikrinimas"  nc:link="composer_help.xhtml#file_tips"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting-errors" nc:name="Publikavimo klaidų taisymas"  nc:link="composer_help.xhtml#pub_errors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting-settings" nc:name="Verifying Your Publishing Settings"  nc:link="composer_help.xhtml#verifying_your_publishing_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting-files" nc:name="Checking Your File Names"  nc:link="composer_help.xhtml#checking_your_filenames"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-troubleshooting-errors" nc:name="Fixing Publishing Errors"  nc:link="composer_help.xhtml#fixing_publishing_errors"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -625,9 +660,9 @@
 <rdf:Description about="#comp-doc-publish-settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-publishtab" nc:name="Tinklalapio publikavimas. Publikavimas"  nc:link="composer_help.xhtml#publish_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-settingstab" nc:name="Tinklalapio publikavimas. Nuostatos"  nc:link="composer_help.xhtml#settings_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish-site-settings" nc:name="Publikavimo nuostatos"  nc:link="composer_help.xhtml#site_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-publishtab" nc:name="Publish Page - Publish"  nc:link="composer_help.xhtml#publish_page_publish"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-settingstab" nc:name="Publish Page - Settings"  nc:link="composer_help.xhtml#publish_page_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish-site-settings" nc:name="Publish Settings"  nc:link="composer_help.xhtml#publish_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -635,24 +670,27 @@
   <rdf:Description about="#comp-doc-prefs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="composer_prefs_general" nc:name="Rašyklė"  nc:link="composer_help.xhtml#PREFERENCES_EDITOR_GENERAL"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="composer_prefs_newpage" nc:name="Naujo tinklalapio nuostatos"  nc:link="composer_help.xhtml#PREFERENCES_NEWPAGE"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="composer_prefs_general" nc:name="Composer"  nc:link="composer_help.xhtml#composer"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="composer_prefs_newpage" nc:name="New Page Settings" nc:link="composer_help.xhtml#new_page_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
 
-
 <!-- CUSTOMIZATION HELP CONTENT -->
+
 <rdf:Description about="#cust">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-doc" nc:name="Parankinė"  nc:link="customize_help.xhtml#cust_sidebar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-tabbed" nc:name="Naršymo kortelės"  nc:link="customize_help.xhtml#cust_tabbed"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-font" nc:name="Šriftų, spalvų bei apvalkalų keitimas"  nc:link="customize_help.xhtml#cust_font"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-toolbar" nc:name="Mygtukų juostos"  nc:link="customize_help.xhtml#cust_toolbar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk" nc:name="Adresynas"  nc:link="customize_help.xhtml#cust_bkmk"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-page" nc:name="„Mozillos“ paleidimo nuostatos"  nc:link="customize_help.xhtml#cust_page"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-settings" nc:name="Naršyklės nuostatos"  nc:link="cs_nav_prefs_appearance.xhtml#nav_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-doc" nc:name="Sidebar"  nc:link="customize_help.xhtml#sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed" nc:name="Tabbed Browsing"  nc:link="customize_help.xhtml#tabbed_browsing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-font" nc:name="Changing Fonts, Colors, and Themes"  nc:link="customize_help.xhtml#changing_fonts_colors_and_themes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-toolbar" nc:name="Toolbars"  nc:link="customize_help.xhtml#toolbars"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk" nc:name="Bookmarks"  nc:link="customize_help.xhtml#bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons" nc:name="Add-ons"  nc:link="customize_help.xhtml#add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-page" nc:name="Specifying How &brandShortName; Starts Up"  nc:link="customize_help.xhtml#specifying_how_mozilla_starts_up"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Appearance Preferences" nc:link="cs_nav_prefs_appearance.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="navigator_pref_navigator" nc:name="Browser Preferences" nc:link="cs_nav_prefs_navigator.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Advanced Preferences" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -660,13 +698,13 @@
  <rdf:Description about="#cust-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-sidebar-define" nc:name="Kas yra parankinė?"  nc:link="customize_help.xhtml#cust_sidebar_define"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-using" nc:name="Parankinės naudojimas"  nc:link="customize_help.xhtml#cust_sidebar_using"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-adding" nc:name="Kortelių įtraukimas į parankinę"  nc:link="customize_help.xhtml#cust_sidebar_adding"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-indiv" nc:name="Parankinės kortelių tvarkymas"  nc:link="customize_help.xhtml#cust_sidebar_indiv"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-reorg" nc:name="Parankinės kortelių pertvarkymas"  nc:link="customize_help.xhtml#cust_sidebar_reorg"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-removing" nc:name="Kortelių šalinimas iš parankinės"  nc:link="customize_help.xhtml#cust_sidebar_removing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-openclose" nc:name="Parankinės atvėrimas, užvėrimas bei dydžio keitimas"  nc:link="customize_help.xhtml#cust_sidebar_openclose"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-define" nc:name="What is Sidebar?"  nc:link="customize_help.xhtml#what_is_sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-openclose" nc:name="Opening, Closing, and Resizing Sidebar"  nc:link="customize_help.xhtml#opening_closing_and_resizing_sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-using" nc:name="Viewing Sidebar Tabs"  nc:link="customize_help.xhtml#viewing_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-adding" nc:name="Adding Sidebar Tabs"  nc:link="customize_help.xhtml#adding_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-indiv" nc:name="Customizing Individual Sidebar Tabs"  nc:link="customize_help.xhtml#customizing_individual_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-reorg" nc:name="Reorganizing Sidebar Tabs"  nc:link="customize_help.xhtml#reorganizing_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-removing" nc:name="Removing Sidebar Tabs"  nc:link="customize_help.xhtml#removing_sidebar_tabs"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -674,11 +712,12 @@
 <rdf:Description about="#cust-tabbed">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-tabbed-whatis" nc:name="Kas yra naršymo kortelės?"  nc:link="customize_help.xhtml#tabbed_whatis"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedsetting" nc:name="Kortelių nuostatos"  nc:link="customize_help.xhtml#tabbed_setting"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedopening" nc:name="Kortelių atvėrimas"  nc:link="customize_help.xhtml#tabbed_opening"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedbookmarking" nc:name="Kortelių grupės įtraukimas į adresyną"  nc:link="customize_help.xhtml#tabbed_bookmarking"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedclosing" nc:name="Kortelių užvėrimas"  nc:link="customize_help.xhtml#tabbed_closing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed-whatis" nc:name="What is Tabbed Browsing?"  nc:link="customize_help.xhtml#what_is_tabbed_browsing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedsetting" nc:name="Setting up Tabbed Browsing"  nc:link="customize_help.xhtml#setting_up_tabbed_browsing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedopening" nc:name="Opening Tabs"  nc:link="customize_help.xhtml#opening_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedmoving" nc:name="Moving Tabs"  nc:link="customize_help.xhtml#moving_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedbookmarking" nc:name="Bookmarking Tabs"  nc:link="customize_help.xhtml#bookmarking_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed-tabbedclosing" nc:name="Closing Tabs"  nc:link="customize_help.xhtml#closing_tabs"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -686,9 +725,9 @@
 <rdf:Description about="#cust-font">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-fonts" nc:name="Numatytųjų šriftų keitimas"  nc:link="customize_help.xhtml#cust_fonts"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-colors" nc:name="Numatytųjų spalvų keitimas"  nc:link="customize_help.xhtml#cust_colors"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-themes" nc:name="Grafinės sąsajos apvalkalo keitimas"  nc:link="customize_help.xhtml#cust_themes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-fonts" nc:name="Changing the Default Font"  nc:link="customize_help.xhtml#changing_the_default_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-colors" nc:name="Changing the Default Colors"  nc:link="customize_help.xhtml#changing_the_default_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-themes" nc:name="Changing the Theme"  nc:link="customize_help.xhtml#changing_the_theme"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -696,11 +735,11 @@
 <rdf:Description about="#cust-toolbar">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-main" nc:name="Naršymo juosta"  nc:link="customize_help.xhtml#cust_main"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-personal" nc:name="Asmeninė mygtukų juosta"  nc:link="customize_help.xhtml#cust_personal"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-status" nc:name="Būsenos juosta"  nc:link="customize_help.xhtml#cust_statusbar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-taskbar" nc:name="Darbų mygtukų juosta"  nc:link="customize_help.xhtml#cust_taskbar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-hide" nc:name="Juostų slėpimas"  nc:link="customize_help.xhtml#cust_hide"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-main" nc:name="Navigation Toolbar"  nc:link="customize_help.xhtml#navigation_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-personal" nc:name="Personal Toolbar"  nc:link="customize_help.xhtml#personal_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-status" nc:name="Status Bar"  nc:link="customize_help.xhtml#status_bar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-taskbar" nc:name="Component Bar"  nc:link="customize_help.xhtml#component_bar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-hide" nc:name="Hiding a Toolbar"  nc:link="customize_help.xhtml#hiding_a_toolbar"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -708,13 +747,23 @@
 <rdf:Description about="#cust-bkmk">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-bkmk-intro" nc:name="Kas yra adresynas?"  nc:link="customize_help.xhtml#cust_bkmk_intro"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk-use" nc:name="Į adresyną įtrauktų tinklalapių lankymas"  nc:link="customize_help.xhtml#cust_bkmk_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk-create" nc:name="Adreso įrašymas į adresyną"  nc:link="customize_help.xhtml#cust_bkmk_create"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk-organize" nc:name="Adresyno tvarkymas"  nc:link="customize_help.xhtml#cust_bkmk_organize"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk-change" nc:name="Adresyno įrašo savybių keitimas"  nc:link="customize_help.xhtml#cust_bkmk_change"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk-search" nc:name="Paieška adresyne"  nc:link="customize_help.xhtml#cust_bkmk_search"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk-multiple" nc:name="Adresyno eksportas ir importas"  nc:link="customize_help.xhtml#cust_bkmk_multiple"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk-intro" nc:name="What Are Bookmarks?"  nc:link="customize_help.xhtml#what_are_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk-use" nc:name="Using Bookmarks"  nc:link="customize_help.xhtml#using_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk-create" nc:name="Creating New Bookmarks"  nc:link="customize_help.xhtml#creating_new_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk-organize" nc:name="Organizing Your Bookmarks"  nc:link="customize_help.xhtml#organizing_your_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk-change" nc:name="Changing Individual Bookmarks"  nc:link="customize_help.xhtml#changing_individual_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk-search" nc:name="Searching Your Bookmarks"  nc:link="customize_help.xhtml#searching_your_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk-multiple" nc:name="Exporting or Importing a Bookmark List"  nc:link="customize_help.xhtml#exporting_or_importing_a_bookmark_list"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#cust-addons">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="cust-addons-about" nc:name="About Add-ons"  nc:link="customize_help.xhtml#about_add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-installing" nc:name="Installing Add-ons"  nc:link="customize_help.xhtml#installing_add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Using the Add-on Manager"  nc:link="customize_help.xhtml#using_the_add-on_manager"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -722,20 +771,9 @@
 <rdf:Description about="#cust-page">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-startpage" nc:name="Tinklalapis, atveriamas paleidus naršyklę"  nc:link="customize_help.xhtml#cust_startpage"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-home" nc:name="Pradžios tinklalapis"  nc:link="customize_help.xhtml#cust_home"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-start" nc:name="Pasirinkimas komponentų, atveriamų paleidus „Mozillą“"  nc:link="customize_help.xhtml#cust_start"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#nav-settings">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="appearance_pref" nc:name="Išvaizda" nc:link="cs_nav_prefs_appearance.xhtml#appearance_pref"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_navigator" nc:name="Naršyklė" nc:link="cs_nav_prefs_navigator.xhtml#nav_settings"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_advanced" nc:name="Kitkas" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
-
+        <rdf:li> <rdf:Description ID="cust-startpage" nc:name="Specifying a Starting Page"  nc:link="customize_help.xhtml#specifying_a_starting_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-home" nc:name="Changing Your Home Page"  nc:link="customize_help.xhtml#changing_your_home_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-start" nc:name="Specifying Which Components Open at Launch"  nc:link="customize_help.xhtml#specifying_which_components_open_at_launch"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -743,10 +781,10 @@
 <rdf:Description about="#appearance_pref">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="appearance_pref_fonts" nc:name="Šriftai" nc:link="cs_nav_prefs_appearance.xhtml#fonts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="appearance_pref_colors" nc:name="Spalvos" nc:link="cs_nav_prefs_appearance.xhtml#colors"/> </rdf:li>
-        <rdf:li><rdf:Description ID="appearance_pref_themes" nc:name="Apvalkalai" nc:link="cs_nav_prefs_appearance.xhtml#themes"/> </rdf:li>
-        <rdf:li><rdf:Description ID="appearance_pref_content_packs" nc:name="Kalbos ir lokalės" nc:link="cs_nav_prefs_appearance.xhtml#content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref_content" nc:name="Content" nc:link="cs_nav_prefs_appearance.xhtml#content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref_fonts" nc:name="Fonts" nc:link="cs_nav_prefs_appearance.xhtml#fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref_colors" nc:name="Colors" nc:link="cs_nav_prefs_appearance.xhtml#colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref_spelling" nc:name="Spelling" nc:link="cs_nav_prefs_appearance.xhtml#spelling"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -754,21 +792,14 @@
 <rdf:Description about="#navigator_pref_navigator">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="navigator_pref_history" nc:name="Žurnalai" nc:link="cs_nav_prefs_navigator.xhtml#History"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_languages" nc:name="Kalbos" nc:link="cs_nav_prefs_navigator.xhtml#Languages"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_helper_applications" nc:name="Failų atvėrimas" nc:link="cs_nav_prefs_navigator.xhtml#Helper"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_smart_browsing" nc:name="Kryptingas naršymas" nc:link="cs_nav_prefs_navigator.xhtml#Smart"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_internet_searching" nc:name="Paieška internete" nc:link="cs_nav_prefs_navigator.xhtml#Internet"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_tabbed_browsing" nc:name="Kortelės" nc:link="cs_nav_prefs_navigator.xhtml#Tabbed"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_downloads" nc:name="Atsiuntimai" nc:link="cs_nav_prefs_navigator.xhtml#downloads"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#navigator_pref_smart_browsing">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="navigator_pref_autocomplete-adv" nc:name="Adreso užbaigimas pagal surinktą jo pradžią" nc:link="cs_nav_prefs_navigator.xhtml#autocomplete-adv"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_history" nc:name="History" nc:link="cs_nav_prefs_navigator.xhtml#history"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_languages" nc:name="Languages" nc:link="cs_nav_prefs_navigator.xhtml#languages"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_helper_applications" nc:name="Helper Applications" nc:link="cs_nav_prefs_navigator.xhtml#helper_applications"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_location_bar" nc:name="Location Bar" nc:link="cs_nav_prefs_navigator.xhtml#location_bar"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_internet_searching" nc:name="Internet Search" nc:link="cs_nav_prefs_navigator.xhtml#internet_search"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_tabbed_browsing" nc:name="Tabbed Browsing" nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_link_behavior" nc:name="Link Behavior" nc:link="cs_nav_prefs_navigator.xhtml#link_behavior"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_downloads" nc:name="Downloads" nc:link="cs_nav_prefs_navigator.xhtml#downloads"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -776,41 +807,44 @@
 <rdf:Description about="#advanced_pref_advanced">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="advanced_pref_scripts" nc:name="Scenarijai ir papildiniai" nc:link="cs_nav_prefs_advanced.xhtml#Scripts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Klaviatūra" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Podėlis" nc:link="cs_nav_prefs_advanced.xhtml#Cache"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Įgaliotieji serveriai" nc:link="cs_nav_prefs_advanced.xhtml#Proxies"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_http_networking" nc:name="HTTP protokolas" nc:link="cs_nav_prefs_advanced.xhtml#HTTP_Networking"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_installation" nc:name="Atnaujinimas" nc:link="cs_nav_prefs_advanced.xhtml#Software_Installation"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_mouse_wheel" nc:name="Pelės ratukas" nc:link="cs_nav_prefs_advanced.xhtml#Mouse_Wheel"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_system" nc:name="Sistema „Windows“" nc:link="cs_nav_prefs_advanced.xhtml#system"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_scripts" nc:name="Scripts &amp; Plugins" nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plugins"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Keyboard Navigation" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_find_as_you_type" nc:name="Find As You Type" nc:link="cs_nav_prefs_advanced.xhtml#fayt"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Cache" nc:link="cs_nav_prefs_advanced.xhtml#cache"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Proxies" nc:link="cs_nav_prefs_advanced.xhtml#proxies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_http_networking" nc:name="HTTP Networking" nc:link="cs_nav_prefs_advanced.xhtml#http_networking"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_installation" nc:name="Software Installation" nc:link="cs_nav_prefs_advanced.xhtml#software_installation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_mouse_wheel" nc:name="Mouse Wheel" nc:link="cs_nav_prefs_advanced.xhtml#mouse_wheel"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_dom_inspector" nc:name="DOM Inspector" nc:link="cs_nav_prefs_advanced.xhtml#dom_inspector"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
+
+<!-- To load Advanced Proxy Preferences Help content from prefs -->
+<rdf:Description ID="nav-prefs-advanced-proxy-advanced" nc:link="cs_nav_prefs_advanced.xhtml#advanced_proxy_preferences"/>
 
 <!-- USING PRIVACY FEATURES CONTENT -->
-<rdf:Description about="#privacy-doc">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="Kokią informaciją naršyklė pateikia lankomai svetainei?"  		nc:link="privacy_help.xhtml#privacy_visit"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy-doc-cookies" nc:name="Kas yra slapukai ir kaip jie veikia?"  		nc:link="privacy_help.xhtml#privacy_cookies"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy-doc-email" nc:name="Kaip valdyti saityno tinklalapius elektroniniuose laiškuose?"  		nc:link="privacy_help.xhtml#privacy_email"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy-doc-unauth" nc:name="Ką daryti, kad informacija nepatektų pašaliniams?"  		nc:link="privacy_help.xhtml#privacy_unauth"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
 <rdf:Description about="#using-priv-help">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies" nc:name="Darbas su slapukais" nc:link="using_priv_help.xhtml#using_cookies"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password" nc:name="Darbas su slaptažodžių tvarkytuve" nc:link="using_priv_help.xhtml#using_password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-forms" nc:name="Formų tvarkytuvės naudojimas" nc:link="using_priv_help.xhtml#using_forms"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-encrypt" nc:name="Įrašomos slaptos informacijos šifravimas" nc:link="using_priv_help.xhtml#using_encrypt"/> </rdf:li>
-        <rdf:li><rdf:Description ID="images-help-managing" nc:name="Paveikslų tvarkymas" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
-        <rdf:li><rdf:Description ID="images-help-managing" nc:name="Paveikslų tvarkymas" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
-        <rdf:li><rdf:Description ID="pop_up_blocking" nc:name="Iškylančiųjų langų valdymas" nc:link="cs_priv_prefs_popup.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="sec_gen" nc:name="Privatumo ir saugumo nuostatos" nc:link="privsec_help.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc" nc:name="Privacy on the Internet" nc:link="privacy_help.xhtml#privacy_on_the_internet"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-cookies" nc:name="Using the Cookie Manager" nc:link="using_priv_help.xhtml#using_the_cookie_manager"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-password" nc:name="Using the Password Manager" nc:link="using_priv_help.xhtml#using_the_password_manager"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-encrypt" nc:name="Encrypting Stored Sensitive Information" nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/> </rdf:li>
+        <rdf:li><rdf:Description ID="images-help-managing" nc:name="Managing Images" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
+        <rdf:li><rdf:Description ID="pop_up_blocking" nc:name="Controlling Popups" nc:link="cs_priv_prefs_popup.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen" nc:name="Privacy &amp; Security Preferences" nc:link="privsec_help.xhtml"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#privacy-doc">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="What Information Does My Browser Give to a Website?"  		nc:link="privacy_help.xhtml#what_information_does_my_browser_give_to_a_web_site"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-cookies" nc:name="What Are Cookies, and How Do They Work?"  		nc:link="privacy_help.xhtml#what_are_cookies_and_how_do_they_work"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-email" nc:name="How Can I Control Web Pages in Email Messages?"  		nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-unauth" nc:name="How Can I Make Sure Unauthorized People Don't Use Information About Me?"  		nc:link="privacy_help.xhtml#how_can_i_make_sure_unauthorized_people_dont_use_information_about_me"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -818,12 +852,11 @@
 <rdf:Description about="#using-priv-help-cookies">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-manage" nc:name="Slapukų priėmimas ir atmetimas" nc:link="using_priv_help.xhtml#cookies_manage"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-site" nc:name="Slapukų nuostatos atskiroms svetainėms" nc:link="using_priv_help.xhtml#cookies_site"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-view" nc:name="Slapukų peržiūra" nc:link="using_priv_help.xhtml#cookies_view"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-remove" nc:name="Slapukų šalinimas" nc:link="using_priv_help.xhtml#cookies_remove"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-policies" nc:name="Privatumo lygio nustatymas" nc:link="using_priv_help.xhtml#privacy_levels"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-settings" nc:name="Slapukų tvarkytuvės nuostatos" nc:link="using_priv_help.xhtml#cookie_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-cookies-manage" nc:name="Enabling &amp; Disabling Cookies" nc:link="using_priv_help.xhtml#enabling_and_disabling_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-cookies-site" nc:name="Managing Cookies Website-By-Website" nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-cookies-view" nc:name="Viewing Cookies" nc:link="using_priv_help.xhtml#viewing_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-cookies-remove" nc:name="Removing Cookies" nc:link="using_priv_help.xhtml#removing_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-cookies-settings" nc:name="Cookie Manager Settings" nc:link="using_priv_help.xhtml#cookie_manager_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -831,21 +864,9 @@
 <rdf:Description about="#using-priv-help-cookies-settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="cookies_prefs" nc:name="Privatumo ir saugumo nuostatos. Slapukai" nc:link="using_priv_help.xhtml#cookie_prefs"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cookies_stored" nc:name="Įrašyti slapukai" nc:link="using_priv_help.xhtml#cookies_stored"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cookie_sites" nc:name="Svetainės" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy_levels" nc:name="Privatumo nuostatos" nc:link="using_priv_help.xhtml#privacy_levels_window"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cookie_notify" nc:name="Slapuko ženklelis" nc:link="using_priv_help.xhtml#cookie_notify"/> </rdf:li>
-
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#privacy_levels">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="privacy_levels-level" nc:name="Privatumo lygis" nc:link="using_priv_help.xhtml#level_of_privacy"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy_levels-accept" nc:name="Slapukų priėmimo taisyklės" nc:link="using_priv_help.xhtml#cookie_acceptance"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies_prefs" nc:name="Cookie Preferences" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies_stored" nc:name="Stored Cookies" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookie_sites" nc:name="Cookie Websites" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -853,11 +874,11 @@
 <rdf:Description about="#using-priv-help-password">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-priv-help-password-manage" nc:name="Slaptažodžių tvarkytuvės naudojimas" nc:link="using_priv_help.xhtml#passwords_manage"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-auto" nc:name="Automatinis vartotojo vardų ir slaptažodžių įvedimas" nc:link="using_priv_help.xhtml#passwords_auto"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-onoff" nc:name="Slaptažodžių tvarkytuvės įjungimas ir išjungimas" nc:link="using_priv_help.xhtml#passwords_onoff"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-view" nc:name="Įrašytų slaptažodžių tvarkymas ir peržiūra" nc:link="using_priv_help.xhtml#passwords_view"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-settings" nc:name="Slaptažodžių nuostatos" nc:link="passwords_help.xhtml#password_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-password-manage" nc:name="Remembering User Names and Passwords" nc:link="using_priv_help.xhtml#using_password_manager_to_remember_user_names_and_passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-password-auto" nc:name="Entering Names and Passwords Automatically" nc:link="using_priv_help.xhtml#entering_user_names_and_passwords_automatically"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-password-onoff" nc:name="Turning Password Manager On and Off" nc:link="using_priv_help.xhtml#turning_password_manager_on_and_off"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-password-view" nc:name="Managing Stored Passwords" nc:link="using_priv_help.xhtml#viewing_and_managing_stored_passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-password-settings" nc:name="Password Settings" nc:link="passwords_help.xhtml#password_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -865,53 +886,13 @@
 <rdf:Description about="#using-priv-help-password-settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="passwords_prefs" nc:name="Privatumo ir saugumo nuostatos. Slaptažodžiai" nc:link="passwords_help.xhtml#passwords_first"/> </rdf:li>
-        <rdf:li><rdf:Description ID="password_mgr" nc:name="Slaptažodžių tvarkytuvė" nc:link="passwords_help.xhtml#password_mgr"/> </rdf:li>
-        <rdf:li><rdf:Description ID="passwords_master" nc:name="Privatumo ir saugumo nuostatos. Pagrindiniai slaptažodžiai" nc:link="passwords_help.xhtml#Master_Password_Timeout"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#passwords_master">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="change_pwd_1" nc:name="Pagrindinio slaptažodžio keitimas" nc:link="passwords_help.xhtml#change_mp_prefs"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-settings-master-prefs-timeout" nc:name="Pagrindinio slaptažodžio tikrinimo intervalai" nc:link="passwords_help.xhtml#Master_Password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-settings-master-prefs-reset" nc:name="Pagrindinio slaptažodžio atšaukimas" nc:link="passwords_help.xhtml#reset_mp_prefs"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#using-priv-help-password-settings">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="change_pwd" nc:name="Pagrindinio slaptažodžio keitimas" nc:link="passwords_help.xhtml#Change_Master_Password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="reset_pwd" nc:name="Pagrindinio slaptažodžio atšaukimas" nc:link="passwords_help.xhtml#Reset_Master_Password"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#using-priv-help-forms">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-priv-help-forms-saveinfo" nc:name="Duomenų, įrašytų į formą, įsiminimas" nc:link="using_priv_help.xhtml#form_saveinfo"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-forms-auto" nc:name="Automatinis formų pildymas" nc:link="using_priv_help.xhtml#form_auto"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-forms-notify" nc:name="Kaip išjungti formų tvarkytuvės pranešimus" nc:link="using_priv_help.xhtml#form_notify"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-forms-view-edit" nc:name="Įsimintų duomenų tvarkymas" nc:link="using_priv_help.xhtml#form_data_view_edit"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-sites-view-edit" nc:name="Svetainių formų tvarkymas" nc:link="using_priv_help.xhtml#form_sites_view_edit"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-forms-forms" nc:name="Privatumo taisyklių peržiūra" nc:link="using_priv_help.xhtml#form_forms"/> </rdf:li>
-        <rdf:li><rdf:Description ID="form_settings" nc:name="Formų nuostatos" nc:link="using_priv_help.xhtml#form_settings"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#form_settings">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="forms_prefs" nc:name="Privatumo ir saugumo nuostatos. Formos" nc:link="using_priv_help.xhtml#forms_prefs"/> </rdf:li>
-        <rdf:li><rdf:Description ID="forms_data" nc:name="Formų tvarkytuvė. Duomenys" nc:link="using_priv_help.xhtml#forms_data"/> </rdf:li>
-        <rdf:li><rdf:Description ID="forms_sites" nc:name="Formų tvarkytuvė. Svetainės" nc:link="using_priv_help.xhtml#forms_sites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="forms_prefill" nc:name="Preliminarus formos užpildymas" nc:link="using_priv_help.xhtml#forms_prefill"/> </rdf:li>
+        <rdf:li><rdf:Description ID="passwords_prefs" nc:name="Password Preferences" nc:link="passwords_help.xhtml#passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="password_mgr" nc:name="Password Manager" nc:link="passwords_help.xhtml#password_manager"/> </rdf:li>
+        <rdf:li><rdf:Description ID="passwords_master" nc:name="Master Password Preferences" nc:link="passwords_help.xhtml#master_passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="master-prefs-change" nc:name="Change Master Password" nc:link="passwords_help.xhtml#change_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="master-prefs-timeout" nc:name="Master Password Timeout" nc:link="passwords_help.xhtml#master_password_timeout"/> </rdf:li>
+        <rdf:li><rdf:Description ID="master-prefs-reset" nc:name="Reset Master Password" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="choosing-good-password" nc:name="Choosing a Good Password" nc:link="passwords_help.xhtml#choosing_a_good_password"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -919,11 +900,10 @@
 <rdf:Description about="#using-priv-help-encrypt">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-priv-help-encrypt-on" nc:name="Šifravimo įjungimas ir išjungimas" nc:link="using_priv_help.xhtml#encrypt_on"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-encrypt-master" nc:name="Pagrindinio slaptažodžio sukūrimas" nc:link="using_priv_help.xhtml#encrypt_master"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-encrypt-change" nc:name="Pagrindinio slaptažodžio keitimas" nc:link="using_priv_help.xhtml#encrypt_change"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-encrypt-logout" nc:name="Pagrindinio slaptažodžio seanso pabaiga" nc:link="using_priv_help.xhtml#encrypt_logout"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-encrypt-forget" nc:name="Ką daryti, pamiršus pagrindinį slaptažodį" nc:link="using_priv_help.xhtml#encrypt_forget"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-encrypt-master" nc:name="Setting a Master Password" nc:link="using_priv_help.xhtml#setting_a_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-encrypt-change" nc:name="Changing Your Master Password" nc:link="using_priv_help.xhtml#changing_your_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-encrypt-logout" nc:name="Logging Out of Your Master Password" nc:link="using_priv_help.xhtml#logging_out_of_your_master_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-encrypt-forget" nc:name="What to Do If You Forget Your Master Password" nc:link="using_priv_help.xhtml#what_to_do_if_you_forget_your_master_password"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -931,7 +911,7 @@
 <rdf:Description about="#pop_up_blocking">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="pop_up_blocking_prefs" nc:name="Privatumo ir saugumo nuostatos. Iškylantieji langai" nc:link="cs_priv_prefs_popup.xhtml#popup_prefs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="pop_up_blocking_prefs" nc:name="Popup Preferences" nc:link="cs_priv_prefs_popup.xhtml#privacy_and_security_preferences_popup_windows"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -940,7 +920,7 @@
 <rdf:Description about="#images-help-managing">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="images_prefs" nc:name="Privatumo ir saugumo nuostatos. Paveikslai" nc:link="using_priv_help.xhtml#using_images"/> </rdf:li>
+        <rdf:li><rdf:Description ID="images_prefs" nc:name="Image Preferences" nc:link="using_priv_help.xhtml#images"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -950,13 +930,13 @@
 <rdf:Description about="#using-help-certs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-get" nc:name="Liudijimo gavimas" nc:link="using_certs_help.xhtml#using_certs_get"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-info" nc:name="Svetainės saugumo tikrinimas" nc:link="using_certs_help.xhtml#using_certs_info"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-manage" nc:name="Liudijimų tvarkymas" nc:link="using_certs_help.xhtml#using_certs_manage"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-devices" nc:name="Intelektualiųjų kortelių ir kitų saugumo priemonių tvarkymas" nc:link="using_certs_help.xhtml#using_certs_devices"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-ssl" nc:name="SSL įspėjimai ir nuostatos" nc:link="using_certs_help.xhtml#using_certs_ssl"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation" nc:name="Patikra" nc:link="using_certs_help.xhtml#using_certs_validation"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-context-help" nc:name="Liudijimų nuostatos" nc:link="certs_prefs_help.xhtml#certificate_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-get" nc:name="Getting Your Own Certificate" nc:link="using_certs_help.xhtml#getting_your_own_certificate"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-info" nc:name="Checking Security For a Web Page" nc:link="using_certs_help.xhtml#checking_security_for_a_web_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage" nc:name="Managing Certificates" nc:link="using_certs_help.xhtml#managing_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-devices" nc:name="Managing Smart Cards and Other Security Devices" nc:link="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-ssl" nc:name="Managing SSL Warnings and Settings" nc:link="using_certs_help.xhtml#managing_ssl_warnings_and_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation" nc:name="Controlling Validation" nc:link="using_certs_help.xhtml#controlling_validation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-context-help" nc:name="Certificate Settings" nc:link="certs_prefs_help.xhtml#certificate_settings"/> </rdf:li>
 
       </rdf:Seq>
     </nc:subheadings>
@@ -966,10 +946,11 @@
 <rdf:Description about="#using-help-certs-manage">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-my" nc:name="Jūsų tapatumą patvirtinančių liudijimų tvarkymas" nc:link="using_certs_help.xhtml#using_certs_my"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-others" nc:name="Kitų asmenų tapatumą patvirtinančių liudijimų tvarkymas" nc:link="using_certs_help.xhtml#using_certs_others"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-sites" nc:name="Svetainių tapatumą patvirtinančių liudijimų tvarkymas" nc:link="using_certs_help.xhtml#using_certs_sites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-manage-cas" nc:name="Liudijimų įstaigų tapatumą patvirtinančių liudijimų tvarkymas" nc:link="using_certs_help.xhtml#using_certs_cas"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-my" nc:name="Certificates That Identify You" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_you"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-others" nc:name="Certificates That Identify People" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_people"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-sites" nc:name="Certificates That Identify Servers" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-cas" nc:name="Certificates That Identify CAs" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_certificate_authorities"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-manage-orphans" nc:name="Certificates That Identify Others" nc:link="using_certs_help.xhtml#managing_certificates_that_identify_others"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -977,10 +958,10 @@
 <rdf:Description about="#using-help-certs-devices">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-devices-about" nc:name="Saugumo priemonės ir moduliai" nc:link="using_certs_help.xhtml#using_certs_devices_about"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-devices-devices" nc:name="Saugumo priemonių naudojimas" nc:link="using_certs_help.xhtml#using_certs_devices_devices"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-devices-modules" nc:name="Saugumo modulių naudojimas" nc:link="using_certs_help.xhtml#using_certs_devices_modules"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-devices-fips" nc:name="FIPS veiksena" nc:link="using_certs_help.xhtml#using_certs_devices_fips"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-devices-about" nc:name="About Security Devices and Modules" nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-devices-devices" nc:name="Using Security Devices" nc:link="using_certs_help.xhtml#using_security_devices"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-devices-modules" nc:name="Using Security Modules" nc:link="using_certs_help.xhtml#using_security_modules"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-devices-fips" nc:name="Enabling FIPS Mode" nc:link="using_certs_help.xhtml#enable_fips_mode"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -988,9 +969,7 @@
 <rdf:Description about="#using-help-certs-ssl">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li>
-	<rdf:Description ID="ssl-settings" nc:name="SSL nuostatos"
-  		nc:link="ssl_help.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="ssl-settings" nc:name="SSL Settings" nc:link="ssl_help.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -998,8 +977,7 @@
 <rdf:Description about="#ssl-settings">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="ssl_prefs" nc:name="Privatumo ir saugumo nuostatos. SSL" nc:link="ssl_help.xhtml#ssl_prefs"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cipher_help" nc:name="Šifrų nuostatos" nc:link="ssl_help.xhtml#cipher_help"/> </rdf:li>
+        <rdf:li><rdf:Description ID="ssl_prefs" nc:name="SSL Preferences" nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1007,10 +985,10 @@
 <rdf:Description about="#using-help-certs-validation">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-how" nc:name="Kaip vyksta patikra" nc:link="using_certs_help.xhtml#How_Certificate_Validation_Works"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls" nc:name="Atšauktų liudijimų sąrašai (CRL)" nc:link="using_certs_help.xhtml#Managing_CRLs"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-ocsp" nc:name=" OCSP sąranka" nc:link="using_certs_help.xhtml#Configuring_Certificate_Manager_for_OCSP"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation_prefs" nc:name="Patikros nuostatos" nc:link="validation_help.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation-how" nc:name="How Validation Works" nc:link="using_certs_help.xhtml#how_validation_works"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation-crls" nc:name="Managing CRLs" nc:link="using_certs_help.xhtml#managing_crls"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation-ocsp" nc:name="Configuring OCSP" nc:link="using_certs_help.xhtml#configuring_ocsp"/> </rdf:li>
+        <rdf:li><rdf:Description ID="validation_prefs" nc:name="Validation Settings" nc:link="validation_help.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1018,9 +996,9 @@
 <rdf:Description about="#using-help-certs-validation-crls">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-next" nc:name="Tolesnio atnaujinimo data" nc:link="using_certs_help.xhtml#next_update"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-import" nc:name="Atšauktų liudijimų sąrašų (CRL) importas" nc:link="using_certs_help.xhtml#Importing_CRLs"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-view" nc:name="Atšauktų liudijimų sąrašų (CRL) peržiūra ir tvarkymas" nc:link="using_certs_help.xhtml#view_manage_CRLs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-next" nc:name="About the Next Update Date" nc:link="using_certs_help.xhtml#about_the_next_update_date"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-import" nc:name="Importing CRLs" nc:link="using_certs_help.xhtml#importing_crls"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-view" nc:name="Viewing and Managing CRLs" nc:link="using_certs_help.xhtml#viewing_and_managing_crls"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1028,10 +1006,10 @@
 <rdf:Description about="#validation_prefs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="validation-prefs" nc:name="Privatumo ir saugumo nuostatos. Patikra" nc:link="validation_help.xhtml#validation_first"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-manage" nc:name="Atšauktų liudijimų sąrašų (CRL) tvarkymas" nc:link="validation_help.xhtml#manage_CRLs_dialog"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-import" nc:name="CRL importo būsena" nc:link="validation_help.xhtml#crl_import_status"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-auto-update-prefs" nc:name="Automatinio CRL atnaujinimo nuostatos" nc:link="validation_help.xhtml#auto_crl_update_prefs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="validation-prefs" nc:name="Validation Preferences" nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="validation-crl-manage" nc:name="Manage CRLs" nc:link="validation_help.xhtml#manage_crls"/> </rdf:li>
+        <rdf:li><rdf:Description ID="validation-crl-import" nc:name="CRL Import Status" nc:link="validation_help.xhtml#crl_import_status"/> </rdf:li>
+        <rdf:li><rdf:Description ID="validation-crl-auto-update-prefs" nc:name="Automatic CRL Update Preferences" nc:link="validation_help.xhtml#automatic_crl_update_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1039,10 +1017,10 @@
 <rdf:Description about="#using-help-certs-context-help">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="certs_prefs" nc:name="Liudijimų nuostatos" nc:link="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="certs-help" nc:name="Liudijimų tvarkytuvė" nc:link="certs_help.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="sec_devices" nc:name="Saugumo priemonių tvarkytuvė" nc:link="certs_help.xhtml#Security_Devices"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cert-dialog-help" nc:name="Informacija apie liudijimus ir sprendimai" nc:link="cert_dialog_help.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="certs_prefs" nc:name="Certificate Preferences" nc:link="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="certs-help" nc:name="Certificate Manager" nc:link="certs_help.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_devices" nc:name="Device Manager" nc:link="certs_help.xhtml#device_manager"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert-dialog-help" nc:name="Certificate Information and Decisions" nc:link="cert_dialog_help.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1052,10 +1030,11 @@
 <rdf:Description about="#certs-help">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="my_certs" nc:name="Jūsų liudijimai" nc:link="certs_help.xhtml#My_Certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="others_certs" nc:name="Kitų asmenų liudijimai" nc:link="certs_help.xhtml#Other_Peoples_Certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="web_certs" nc:name="Svetainių liudijimai" nc:link="certs_help.xhtml#Web_Site_Certificates"/> </rdf:li>
-        <rdf:li><rdf:Description ID="ca_certs" nc:name="Liudijimų įstaigų liudijimai" nc:link="certs_help.xhtml#CA_Certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="my_certs" nc:name="Your Certificates" nc:link="certs_help.xhtml#your_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="others_certs" nc:name="People" nc:link="certs_help.xhtml#people"/> </rdf:li>
+        <rdf:li><rdf:Description ID="web_certs" nc:name="Servers" nc:link="certs_help.xhtml#servers"/> </rdf:li>
+        <rdf:li><rdf:Description ID="ca_certs" nc:name="Authorities" nc:link="certs_help.xhtml#authorities"/> </rdf:li>
+        <rdf:li><rdf:Description ID="orphan_certs" nc:name="Others" nc:link="certs_help.xhtml#others"/> </rdf:li>
 
       </rdf:Seq>
     </nc:subheadings>
@@ -1064,8 +1043,8 @@
 <rdf:Description about="#my_certs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="cert_backup_pwd" nc:name="Liudijimų atsarginės kopijos slaptažodis" nc:link="certs_help.xhtml#Choose_a_Certificate_Backup_Password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="delete_my_certs" nc:name="Jūsų liudijimo šalinimas" nc:link="certs_help.xhtml#Delete_My_Certificate"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert_backup_pwd" nc:name="Choose a Certificate Backup Password" nc:link="certs_help.xhtml#choose_a_certificate_backup_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="delete_my_certs" nc:name="Delete Your Certificate" nc:link="certs_help.xhtml#delete_your_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1073,7 +1052,7 @@
 <rdf:Description about="#others_certs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="delete_email_certs" nc:name="El. pašto liudijimo šalinimas" nc:link="certs_help.xhtml#Delete_Email_Certificate"/> </rdf:li>
+        <rdf:li><rdf:Description ID="delete_email_certs" nc:name="Delete Email Certificates" nc:link="certs_help.xhtml#delete_email_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1081,8 +1060,8 @@
 <rdf:Description about="#web_certs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="edit_web_certs" nc:name="Pasitikėjimo svetainės liudijimu nuostatos" nc:link="certs_help.xhtml#Edit_Web_Site_Certificate_Settings"/> </rdf:li>
-        <rdf:li><rdf:Description ID="delete_web_certs" nc:name="Svetainės liudijimo šalinimas" nc:link="certs_help.xhtml#Delete_Web_Site_Certificate"/> </rdf:li>
+        <rdf:li><rdf:Description ID="edit_web_certs" nc:name="Edit Website Certificate Settings" nc:link="certs_help.xhtml#edit_web_site_certificate_trust_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="delete_web_certs" nc:name="Delete Website Certificate" nc:link="certs_help.xhtml#delete_web_site_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1090,8 +1069,8 @@
 <rdf:Description about="#ca_certs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="edit_ca_certs" nc:name="Pasitikėjimo LĮ liudijimu nuostatos" nc:link="certs_help.xhtml#Edit_CA_Certificate_Settings"/> </rdf:li>
-        <rdf:li><rdf:Description ID="delete_ca_certs" nc:name="LĮ liudijimo šalinimas" nc:link="certs_help.xhtml#Delete_CA_Certificate"/> </rdf:li>
+        <rdf:li><rdf:Description ID="edit_ca_certs" nc:name="Edit CA Certificate Settings" nc:link="certs_help.xhtml#edit_ca_certificate_trust_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="delete_ca_certs" nc:name="Delete CA Certificate" nc:link="certs_help.xhtml#delete_ca_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1100,13 +1079,13 @@
 <rdf:Description about="#cert-dialog-help">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="cert_details" nc:name="Liudijimų žiūriklis" nc:link="cert_dialog_help.xhtml#certificate_viewer"/> </rdf:li>
-        <rdf:li><rdf:Description ID="which_token" nc:name="Saugumo priemonės pasirinkimas" nc:link="cert_dialog_help.xhtml#choose_security_device"/> </rdf:li>
-        <rdf:li><rdf:Description ID="priv_key_copy" nc:name="Užšifravimo rakto kopija" nc:link="cert_dialog_help.xhtml#encryption_key_copy"/> </rdf:li>
-        <rdf:li><rdf:Description ID="backup_your_cert" nc:name="Liudijimo atsarginė kopija" nc:link="cert_dialog_help.xhtml#certificate_backup"/> </rdf:li>
-        <rdf:li><rdf:Description ID="which_cert" nc:name="Vartotojo tapatumo nustatymas" nc:link="cert_dialog_help.xhtml#user_identification_request"/> </rdf:li>
-        <rdf:li><rdf:Description ID="new_ca" nc:name="Nauja liudijimų įstaiga" nc:link="cert_dialog_help.xhtml#new_certificate_authority"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cert-dialog-help-website" nc:name="Svetainių liudijimai" nc:link="cert_dialog_help.xhtml#web_site_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert_details" nc:name="Certificate Viewer" nc:link="cert_dialog_help.xhtml#certificate_viewer"/> </rdf:li>
+        <rdf:li><rdf:Description ID="which_token" nc:name="Choose Security Device" nc:link="cert_dialog_help.xhtml#choose_security_device"/> </rdf:li>
+        <rdf:li><rdf:Description ID="priv_key_copy" nc:name="Encryption Key Copy" nc:link="cert_dialog_help.xhtml#encryption_key_copy"/> </rdf:li>
+        <rdf:li><rdf:Description ID="backup_your_cert" nc:name="Certificate Backup" nc:link="cert_dialog_help.xhtml#certificate_backup"/> </rdf:li>
+        <rdf:li><rdf:Description ID="which_cert" nc:name="User Identification Request" nc:link="cert_dialog_help.xhtml#user_identification_request"/> </rdf:li>
+        <rdf:li><rdf:Description ID="new_ca" nc:name="New Certificate Authority" nc:link="cert_dialog_help.xhtml#new_certificate_authority"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert-dialog-help-website" nc:name="Website Certificates" nc:link="cert_dialog_help.xhtml#web_site_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1114,8 +1093,8 @@
 <rdf:Description about="#cert_details">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="cert-dialog-help-details-general" nc:name="Kortelė „Bendroji“" nc:link="cert_dialog_help.xhtml#general_tab"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cert-dialog-help-details-details" nc:name="Kortelė „Išsamesnė“" nc:link="cert_dialog_help.xhtml#details_tab"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert-dialog-help-details-general" nc:name="General Tab" nc:link="cert_dialog_help.xhtml#general_tab"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert-dialog-help-details-details" nc:name="Details Tab" nc:link="cert_dialog_help.xhtml#details_tab"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1123,10 +1102,12 @@
 <rdf:Description about="#cert-dialog-help-website">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="new_web_cert" nc:name="Svetainės liudijimą išdavė nežinoma LĮ" nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/> </rdf:li>
-        <rdf:li><rdf:Description ID="exp_web_cert" nc:name="Serverio liudijimas nebegalioja" nc:link="cert_dialog_help.xhtml#server_certificate_expired"/> </rdf:li>
-        <rdf:li><rdf:Description ID="not_yet_web_cert" nc:name="Serverio liudijimas dar negalioja" nc:link="cert_dialog_help.xhtml#server_certificate_not_yet_valid"/> </rdf:li>
-        <rdf:li><rdf:Description ID="bad_name_web_cert" nc:name="Sričių vardų nesutapimas" nc:link="cert_dialog_help.xhtml#domain_name_mismatch"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_con_failed_page" nc:name="Secure Connection Failed Page" nc:link="cert_dialog_help.xhtml#secure_connection_failed_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="untrusted_con_page" nc:name="Untrusted Connection Page" nc:link="cert_dialog_help.xhtml#untrusted_connection_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_con_failed_dialog" nc:name="Secure Connection Failed Dialog" nc:link="cert_dialog_help.xhtml#secure_connection_failed_dialog"/> </rdf:li>
+        <rdf:li><rdf:Description ID="exp_web_cert" nc:name="Certificate Expired" nc:link="cert_dialog_help.xhtml#certificate_expired"/> </rdf:li>
+        <rdf:li><rdf:Description ID="not_yet_web_cert" nc:name="Certificate Not Yet Valid" nc:link="cert_dialog_help.xhtml#certificate_not_yet_valid"/> </rdf:li>
+        <rdf:li><rdf:Description ID="bad_name_web_cert" nc:name="Domain Name Mismatch" nc:link="cert_dialog_help.xhtml#domain_name_mismatch"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1136,42 +1117,35 @@
 <rdf:Description about="#profile-help">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="profile-help-create" nc:name="Naujo profilio kūrimas" nc:link="profiles_help.xhtml#creating_profiles"/> </rdf:li>
-        <rdf:li><rdf:Description ID="profile-help-delete" nc:name="Profilio šalinimas arba pervardijimas" nc:link="profiles_help.xhtml#deleting_profiles"/> </rdf:li>
+        <rdf:li><rdf:Description ID="profile-help-create" nc:name="Creating a New Profile" nc:link="profiles_help.xhtml#creating_a_new_profile"/> </rdf:li>
+        <rdf:li><rdf:Description ID="profile-help-delete" nc:name="Deleting or Renaming a Profile" nc:link="profiles_help.xhtml#deleting_or_renaming_a_profile"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
 
-<!-- MOZILLA TOOLS AND DEVELOPMENT CONTENT STARTS-->
+<!-- TOOLS AND DEVELOPMENT CONTENT STARTS -->
  
-<rdf:Description about="urn:root">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li> <rdf:Description ID="tools" nc:name="Saityno programavimo priemonės"
-                   nc:link="developer_tools.xhtml"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-</rdf:Description>
-
 <rdf:Description about="#tools">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="tools-js_console" nc:name="„JavaScript“ pultas" nc:link="developer_tools.xhtml#js_console"/> </rdf:li>
-        <rdf:li><rdf:Description ID="tools-venkman" nc:name="„JavaScript“ derintuvė" nc:link="developer_tools.xhtml#venkman"/> </rdf:li>
+        <rdf:li><rdf:Description ID="tools-js_console" nc:name="Error Console" nc:link="developer_tools.xhtml#js_console"/> </rdf:li>
+        <rdf:li><rdf:Description ID="tools-inspector" nc:name="DOM Inspector" nc:link="developer_tools.xhtml#inspector"/> </rdf:li>
+        <rdf:li><rdf:Description ID="tools-venkman" nc:name="JavaScript Debugger" nc:link="developer_tools.xhtml#venkman"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
 </rdf:Description>
 
-<!-- MOZILLA KEYBOARD SHORTCUTS CONTENT STARTS-->
+<!-- KEYBOARD SHORTCUTS CONTENT STARTS -->
 <rdf:Description about="#shortcuts">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_using" nc:name="Sparčiųjų klavišų naudojimas" nc:link="shortcuts.xhtml#using_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_general" nc:name="Bendrieji „Mozillos“ spartieji klavišai" nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Naršyklės spartieji klavišai" nc:link="shortcuts_navigator.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Pašto ir naujienų grupių spartieji klavišai" nc:link="shortcuts_mailnews.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Rašyklės spartieji klavišai" nc:link="shortcuts_composer.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_help" nc:name="Žinyno lango spartieji klavišai" nc:link="shortcuts.xhtml#help_window_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_using" nc:name="Using Shortcuts" nc:link="shortcuts.xhtml#using_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_general" nc:name="General &brandShortName; Shortcuts" nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts-text-field" nc:name="Text Field Shortcuts" nc:link="shortcuts.xhtml#text_field_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Browser Shortcuts" nc:link="shortcuts_navigator.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Mail &amp; Newsgroups Shortcuts" nc:link="shortcuts_mailnews.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Composer Shortcuts" nc:link="shortcuts_composer.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_help" nc:name="Help Window Shortcuts" nc:link="shortcuts.xhtml#help_window_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1179,11 +1153,12 @@
 <rdf:Description about="#shortcuts_navigator">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Adresyno spartieji klavišai" nc:link="shortcuts_navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Tinklalapio peržiūros spartieji klavišai" nc:link="shortcuts_navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Naršymo kortelių spartieji klavišai" nc:link="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Parankinės spartieji klavišai" nc:link="shortcuts_navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="Formų spartieji klavišai" nc:link="shortcuts_navigator.xhtml#forms_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Bookmark Shortcuts" nc:link="shortcuts_navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="Page Navigation Shortcuts" nc:link="shortcuts_navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Page Viewing Shortcuts" nc:link="shortcuts_navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Tabbed Browsing Shortcuts" nc:link="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Sidebar Shortcuts" nc:link="shortcuts_navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="Forms Shortcuts" nc:link="shortcuts_navigator.xhtml#forms_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1191,9 +1166,9 @@
 <rdf:Description about="#shortcuts_mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Bendrieji pašto ir naujienų grupių spartieji klavišai" nc:link="shortcuts_mailnews.xhtml#general_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Laiškų sąrašo spartieji klavišai" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Laškų rašymo spartieji klavišai" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="General Mail &amp; Newsgroups Shortcuts" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Message List Shortcuts" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Message Compose Shortcuts" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
