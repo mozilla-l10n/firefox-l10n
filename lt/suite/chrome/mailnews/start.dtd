@@ -15,7 +15,7 @@
 <!ENTITY feat_filters.label "Laiškų filtrai">
 <!ENTITY feat_htmlmsg.label "darbas su raiškiaisiais (HTML) laiškais">
 <!ENTITY feat_abook.label "Adresų knyga">
-<!ENTITY feat_labels.label "individualizuojamos laiškų gairės ir rodiniai">
+<!ENTITY feat_tags.label "individualizuojamos laiškų gairės ir rodiniai">
 <!ENTITY feat_integration.label
 "glaudi integracija su „&brandShortName;“ programų paketu">
 <!ENTITY dict.title "Žodynai">

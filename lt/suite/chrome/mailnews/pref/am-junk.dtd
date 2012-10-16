@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Atranka">
 <!ENTITY junkActions.label "Paskirtis ir saugojimas">
+
+<!ENTITY globalJunkPrefs.label "Globaliosios brukalo nuostatos…">
+<!ENTITY globalJunkPrefs.accesskey "G">
