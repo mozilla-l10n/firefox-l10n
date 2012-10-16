@@ -9,4 +9,5 @@
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Cerrar">
 <!ENTITY debuggerUI.pauseExceptions "Pausar en las excepciones">
+<!ENTITY debuggerUI.showNonEnums "Mostrar propiedades ocultas">
 <!ENTITY debuggerUI.searchPanelTitle "Operadores">
