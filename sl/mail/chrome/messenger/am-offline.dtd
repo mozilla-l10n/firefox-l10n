@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Zaradi prihranka prostora na disku, ne prenesi:">
 <!ENTITY doNotDownloadNntp.label "Zaradi prihranka prostora na disku, ne prenesi, kadar delaš brez povezave:">
 <!ENTITY doNotDownloadImap.label "Če želite varčevati s prostorom na disku, je mogoče prenos in krajevno hranjenje sporočil za delo brez povezave omejiti glede da njihovo starost ali velikost.">
