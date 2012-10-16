@@ -15,6 +15,10 @@
   -  application menu item that opens the debugger UI. -->
 <!ENTITY debuggerMenu.label2         "Derintuvė">
 
+<!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
+  -  Tools meny entry of Debugger that opens the debugger UI. -->
+<!ENTITY debuggerMenu.accesskey      "D">
+
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 <!ENTITY remoteDebuggerMenu.label    "Nuotolinė derintuvė">
@@ -35,24 +39,6 @@
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions          "Pristabdyti išimtinių situacijų atveju">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
-  -  widget that displays the call stack frames in the debugger. -->
-<!ENTITY debuggerUI.stackTitle       "Kreipinių dėklas">
-
-<!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
-  -  widget that displays the source code for the script that is currently
-  -  being inspected in the debugger. -->
-<!ENTITY debuggerUI.scriptTitle      "Scenarijus">
-
-<!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
-  -  widget that displays the variables in the various available scopes in the
-  -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Galiojimo srities kintamieji">
-
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle    "Operatoriai">
-
-<!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
-  - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "Scenarijų nėra.">
