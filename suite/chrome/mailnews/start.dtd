@@ -16,7 +16,7 @@ die geavanceerde detectie van ongewenste berichten en andere handige functies on
 <!ENTITY feat_filters.label "Berichtenfilters">
 <!ENTITY feat_htmlmsg.label "Ondersteuning van berichten in HTML">
 <!ENTITY feat_abook.label "Adresboek">
-<!ENTITY feat_labels.label "Aanpasbare labels en berichtenweergaven">
+<!ENTITY feat_tags.label "Aanpasbare labels en berichtenweergaven">
 <!ENTITY feat_integration.label
 "Goede integratie met de suite van &brandShortName;">
 <!ENTITY dict.title "Woordenboeken">
