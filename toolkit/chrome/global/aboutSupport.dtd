@@ -46,6 +46,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Naam">
 <!ENTITY aboutSupport.modifiedPrefsValue "Waarde">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "user.js-voorkeuren">
+<!ENTITY aboutSupport.userJSDescription "Uw profielfolder bevat een <a id='prefs-user-js-link'>user.js bestand</a>, met voorkeuren die niet gemaakt zijn door &brandShortName;.">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafisch">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
