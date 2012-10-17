@@ -66,7 +66,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
-<!ENTITY pref_reflow_on_zoom "Attiva ricalcolo dopo zoom">
+<!ENTITY pref_reflow_on_zoom "Ridisegna testo dopo zoom">
 <!ENTITY pref_font_size_tiny "Molto piccolo">
 <!ENTITY pref_font_size_small "Piccolo">
 <!ENTITY pref_font_size_medium "Medio">
@@ -145,9 +145,9 @@
 <!ENTITY abouthome_top_sites_title "Siti principali">
 <!ENTITY abouthome_top_sites_browse "Sfoglia tutti i siti principali">
 <!ENTITY abouthome_about_sync3 "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi »">
-<!ENTITY abouthome_about_apps2 "Scarica nuove app da Mozilla Marketplace e scopri il meglio che il Web può offrire »">
+<!ENTITY abouthome_about_apps3 "Scarica nuove app da Firefox Marketplace e scopri il meglio che il Web può offrire »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 <!ENTITY filepicker_title "Seleziona un file">
 <!ENTITY filepicker_audio_title "Seleziona o registra un suono">
 <!ENTITY filepicker_image_title "Seleziona o scatta una fotografia">
