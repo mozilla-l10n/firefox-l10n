@@ -40,7 +40,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "開啟資料夾">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "匯入已修改的偏好設定">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "已修改的重要偏好設定">
 <!ENTITY aboutSupport.modifiedPrefsName "名稱">
 <!ENTITY aboutSupport.modifiedPrefsValue "值">
 
