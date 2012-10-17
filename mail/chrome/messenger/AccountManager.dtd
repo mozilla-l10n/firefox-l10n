@@ -6,14 +6,16 @@
 
 <!ENTITY accountActionsButton.label "Kontoåtgärder">
 <!ENTITY accountActionsButton.accesskey "t">
-<!ENTITY addMailAccountButton.label "Lägg till e-postkonto…">
+<!ENTITY addMailAccountButton.label "Lägg till e-postkonto…">¨'
 <!ENTITY addMailAccountButton.accesskey "L">
+<!ENTITY addIMAccountButton.label "Lägg till chattkonto…">
+<!ENTITY addIMAccountButton.accesskey "c>
 <!ENTITY addOtherAccountButton.label "Lägg till annat konto…">
 <!ENTITY addOtherAccountButton.accesskey "a">
 <!ENTITY setDefaultButton.label "Gör till standardkonto">
 <!ENTITY setDefaultButton.accesskey "G">
 <!ENTITY removeButton.label "Ta bort konto">
-<!ENTITY removeButton.accesskey "T">
+<!ENTITY removeButton.accesskey "b">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
