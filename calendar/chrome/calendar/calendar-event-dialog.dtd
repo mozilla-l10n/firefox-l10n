@@ -16,7 +16,7 @@
 <!ENTITY newevent.eventStatus.none.label           "Nicht angegeben">
 <!ENTITY newevent.eventStatus.none.accesskey       "N" >
 <!ENTITY newevent.todoStatus.none.label            "Nicht angegeben">
-<!ENTITY newevent.eventStatus.cancelled.label      "Abgebrochen">
+<!ENTITY newevent.eventStatus.cancelled.label      "Abgesagt">
 <!ENTITY newevent.eventStatus.cancelled.accesskey  "A" >
 <!ENTITY newevent.todoStatus.cancelled.label       "Abgebrochen">
 <!ENTITY newevent.status.tentative.label           "Vorläufig">
