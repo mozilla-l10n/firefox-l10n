@@ -145,9 +145,9 @@
 <!ENTITY abouthome_top_sites_title "Топ сайтов">
 <!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
 <!ENTITY abouthome_about_sync3 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
-<!ENTITY abouthome_about_apps2 "Загрузите приложения из магазина Mozilla и откройте для себя всё самое лучшее, что может предложить Интернет »">
+<!ENTITY abouthome_about_apps3 "Загрузите приложения из магазина Firefox и откройте для себя всё самое лучшее, что может предложить Интернет »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Магазин Mozilla">
+<!ENTITY abouthome_apps_bold_name2 "Магазин Firefox">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
@@ -164,11 +164,11 @@
 <!ENTITY suggestions_prompt "Вы хотите включить поисковые предложения от &#037;s?">
 <!ENTITY webapp_generic_name "Приложение">
 <!ENTITY searchable_description "Закладки и история">
-<!ENTITY updater_start_title "Доступно обновление &brandShortName;">
-<!ENTITY updater_start_select "Нажмите для загрузки">
-<!ENTITY updater_downloading_title "Загрузка &brandShortName;">
-<!ENTITY updater_downloading_title_failed "Загрузка не удалась">
-<!ENTITY updater_downloading_select "Нажмите для применения обновления по завершении загрузки">
-<!ENTITY updater_downloading_retry "Нажмите для повтора">
-<!ENTITY updater_apply_title "Доступно обновление &brandShortName;">
-<!ENTITY updater_apply_select "Нажмите для обновления">
+<!ENTITY updater_start_title2 "Доступно обновление &brandShortName;">
+<!ENTITY updater_start_select2 "Нажмите для загрузки">
+<!ENTITY updater_downloading_title2 "Загрузка &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Загрузка не удалась">
+<!ENTITY updater_downloading_select2 "Нажмите для применения обновления по завершении загрузки">
+<!ENTITY updater_downloading_retry2 "Нажмите для повтора">
+<!ENTITY updater_apply_title2 "Доступно обновление &brandShortName;">
+<!ENTITY updater_apply_select2 "Нажмите для обновления">
