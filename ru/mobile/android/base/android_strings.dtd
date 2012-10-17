@@ -66,7 +66,7 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
-<!ENTITY pref_reflow_on_zoom "Включить Reflow-On-Zoom">
+<!ENTITY pref_reflow_on_zoom2 "Перерисовка после увеличения">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -87,6 +87,10 @@
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings "Настройки сайтов">
+<!ENTITY pref_update_autodownload "Автоматическое обновление">
+<!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Отключено">
+<!ENTITY pref_update_autodownload_enabled "Включено">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
@@ -144,7 +148,6 @@
 <!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
 <!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY abouthome_top_sites_title "Топ сайтов">
-<!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
 <!ENTITY abouthome_about_sync3 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
 <!ENTITY abouthome_about_apps3 "Загрузите приложения из магазина Firefox и откройте для себя всё самое лучшее, что может предложить Интернет »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
