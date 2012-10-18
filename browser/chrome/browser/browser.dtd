@@ -658,5 +658,8 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Бүйір панелін көрсету">
 <!ENTITY social.toggleSidebar.accesskey "Б">
 
+<!ENTITY social.toggleNotifications.label "Хабарламаларды көрсету">
+<!ENTITY social.toggleNotifications.accesskey "Х">
+
 <!ENTITY social.activated.undobutton.label "Болдырмау">
 <!ENTITY social.activated.undobutton.accesskey "Б">
