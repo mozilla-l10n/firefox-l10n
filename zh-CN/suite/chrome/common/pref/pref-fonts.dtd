@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.baltic                   "衍生拉丁字母（波罗的语族）">
 <!ENTITY  font.langGroup.el                       "希腊文">
 <!ENTITY  font.langGroup.turkish                  "拉丁土耳其文">
-<!ENTITY  font.langGroup.unicode                  "其他 Unicode 区块">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "私人使用区（PUA）">
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯来文">
