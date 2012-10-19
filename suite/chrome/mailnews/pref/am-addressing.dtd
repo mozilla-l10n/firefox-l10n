@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "编写">
+<!ENTITY compositionGroupTitle.label          "编写">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "以 HTML 格式编写消息">
 <!ENTITY useHtml.accesskey                    "C">
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "转发时包含签名">
 <!ENTITY includeSigOnForward.accesskey        "w">
+
+<!ENTITY globalComposingPrefs.label           "全局撰写设置…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "全局地址设置…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
