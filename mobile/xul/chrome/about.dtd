@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "关于 &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; 是实验性的，可能不稳定。">
 <!ENTITY aboutPage.telemetryStart               " 它会自动回传有关性能、硬件、使用情况和定制的信息到 ">

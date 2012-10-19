@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label '要想激活您的新设备，请在设备上选择“设置 &syncBrand.shortName.label;”。'>
-<!ENTITY sync.subtitle.header.label '在您的计算机上输入此代码'>
-<!ENTITY sync.subtitle.connectlocation.label '请从您桌面版 Firefox 选项的  &syncBrand.shortName.label; 部分选择 “&sync.title.pair.label;”。'>
+<!ENTITY sync.subtitle.header2.label '在您其他设备中输入此代码'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label '要想激活，请在您的其他设备上选择“设备配对”。'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
