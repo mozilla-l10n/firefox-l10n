@@ -112,6 +112,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
 <!ENTITY pref_private_data_siteSettings "Websitevoorkeuren">
 
+<!ENTITY pref_update_autodownload "Automatische updates">
+<!ENTITY pref_update_autodownload_wifi "Alleen via Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Uitgeschakeld">
+<!ENTITY pref_update_autodownload_enabled "Ingeschakeld">
+
 <!ENTITY quit "Afsluiten">
 
 <!ENTITY addons "Add-ons">
