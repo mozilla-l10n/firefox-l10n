@@ -15,7 +15,7 @@
 <!ENTITY feat_filters.label "消息过滤器">
 <!ENTITY feat_htmlmsg.label "支持HTML邮件">
 <!ENTITY feat_abook.label "通讯录">
-<!ENTITY feat_labels.label "可定制的标签和邮件视图">
+<!ENTITY feat_tags.label "可定制的标签和邮件视图">
 <!ENTITY feat_integration.label
 "和 &brandShortName; 应用程序套件紧密集成">
 <!ENTITY dict.title "字典">
