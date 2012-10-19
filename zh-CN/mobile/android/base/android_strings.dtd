@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "热门网站">
 <!ENTITY  awesomebar_bookmarks_title "书签">
 <!ENTITY  awesomebar_history_title "历史">
-<!ENTITY  awesomebar_search_engine "搜索 \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
 <!ENTITY  crash_message "&brandShortName; 已崩溃。您的标签页将在重启 &brandShortName; 时列在开始页面。">
@@ -82,6 +81,7 @@
 <!ENTITY pref_plugins_tap_to_play "轻击即可播放">
 <!ENTITY pref_plugins_disabled "已禁用">
 <!ENTITY pref_text_size "文字大小">
+<!ENTITY pref_reflow_on_zoom "启用缩放回流">
 <!ENTITY pref_font_size_tiny "极小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -100,6 +100,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "敏捷的橙色小狐狸以超越预期的速度，灵活度以及安全性跳跃着。作为非营利机构，我们没有任何妥协的压力，能真正以您的名义进行自由的创新。这意味着更好的体验，为您和您的网络创造更加美好的未来。">
 
 <!ENTITY pref_use_master_password "使用主密码">
+<!ENTITY pref_show_product_announcements "显示产品公告">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "显示搜索建议">
 <!ENTITY pref_import_android "从安卓系统导入">
@@ -124,6 +125,7 @@ size. -->
 <!ENTITY save_as_pdf "另存为 PDF">
 <!ENTITY find_in_page "在页面中查找">
 <!ENTITY desktop_mode "请求桌面版网站">
+<!ENTITY tools "工具">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -133,6 +135,7 @@ size. -->
 <!ENTITY find_close "关闭">
 
 <!ENTITY contextmenu_open_new_tab "在新标签页中打开">
+<!ENTITY contextmenu_open_in_reader "在阅读器中打开">
 <!ENTITY contextmenu_remove_history "移除">
 <!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
@@ -160,7 +163,7 @@ size. -->
 <!ENTITY reading_list_added "页面已添加到你的阅读列表">
 <!ENTITY reading_list_removed "页面已经从你的阅读列表中移除">
 <!ENTITY reading_list_failed "添加页面到您的阅读列表失败">
-<!ENTITY reader_mode "阅读器模式">
+<!ENTITY reader "阅读器">
 
 <!ENTITY masterpassword_create_title "创建主密码">
 <!ENTITY masterpassword_remove_title "移除主密码">
@@ -169,7 +172,11 @@ size. -->
 
 <!ENTITY button_ok "确定">
 <!ENTITY button_cancel "取消">
+<!ENTITY button_yes "是">
+<!ENTITY button_no "否">
 <!ENTITY button_clear_data "清除数据">
+<!ENTITY button_set "设置">
+<!ENTITY button_clear "清空">
 
 <!ENTITY abouthome_addons_title "您的 &brandShortName; 附加组件">
 <!ENTITY abouthome_addons_browse "浏览所有 &brandShortName; 附加组件">
@@ -183,13 +190,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "设置 Firefox 同步 以访问你的其他设备上的书签、历史记录和标签页&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "从 Mozilla 市场获取应用并探索其中的佼佼者&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "从火狐市场获取应用，去探索发现网络中的瑰宝 &#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox 同步">
-<!ENTITY abouthome_apps_bold_name "Mozilla 市场">
+<!ENTITY abouthome_apps_bold_name2 "火狐市场">
 
 <!ENTITY filepicker_title "选择文件">
 <!ENTITY filepicker_audio_title "选择或者录制一段声音">
@@ -220,4 +227,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史纪录">
 <!ENTITY bookmarkhistory_import_wait "请稍候...">
 
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+<!ENTITY suggestions_prompt "您想要打开 &#037;s 搜索建议吗？">
+
 <!ENTITY webapp_generic_name "应用">
+
+<!ENTITY searchable_description "书签及历史">
+
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "&brandShortName; 有可用更新">
+<!ENTITY updater_start_select2 "点按下载">
+ 
+<!ENTITY updater_downloading_title2 "正在下载 &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "下载失败">
+<!ENTITY updater_downloading_select2 "点按选择下载完毕时应用更新">
+<!ENTITY updater_downloading_retry2 "点按以重试">
+ 
+<!ENTITY updater_apply_title2 "&brandShortName; 有可用更新">
+<!ENTITY updater_apply_select2 "点按更新">
