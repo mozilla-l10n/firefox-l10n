@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY next.label "Следующее">
+<!ENTITY next.label "Далее">
 <!ENTITY next.accesskey "С">
 <!ENTITY next.tooltip "Найти следующее вхождение фразы в текст">
-<!ENTITY previous.label "Предыдущее">
+<!ENTITY previous.label "Назад">
 <!ENTITY previous.accesskey "П">
 <!ENTITY previous.tooltip "Найти предыдущее вхождение фразы в текст">
 <!ENTITY findCloseButton.tooltip "Закрыть панель поиска">
