@@ -240,13 +240,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Záložky a historie">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "Dostupná aktualizace aplikace &brandShortName;">
-<!ENTITY updater_start_select "Klepněte pro stažení aktualizace">
+<!ENTITY updater_start_title2 "Dostupná aktualizace aplikace &brandShortName;">
+<!ENTITY updater_start_select2 "Klepněte pro stažení aktualizace">
 
-<!ENTITY updater_downloading_title "Stahování aplikace &brandShortName;">
-<!ENTITY updater_downloading_title_failed "Stahování skončilo chybou">
-<!ENTITY updater_downloading_select "Klepněte pro instalaci aktualizace po stažení">
-<!ENTITY updater_downloading_retry "Klepněte pro opakování stažení">
+<!ENTITY updater_downloading_title2 "Stahování aplikace &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Stahování skončilo chybou">
+<!ENTITY updater_downloading_select2 "Klepněte pro instalaci aktualizace po stažení">
+<!ENTITY updater_downloading_retry2 "Klepněte pro opakování stažení">
 
-<!ENTITY updater_apply_title "Dostupná aktualizace aplikace &brandShortName;">
-<!ENTITY updater_apply_select "Klepněte pro instalaci aktualizace">
+<!ENTITY updater_apply_title2 "Dostupná aktualizace aplikace &brandShortName;">
+<!ENTITY updater_apply_select2 "Klepněte pro instalaci aktualizace">
