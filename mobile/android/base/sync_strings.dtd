@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Opties'>
 <!ENTITY sync.summary.pair.label 'Een ander apparaat aan uw &syncBrand.shortName.label;-account koppelen'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Wat wilt u synchroniseren'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synchroniseer uw…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Bladwijzers'>
+<!ENTITY sync.configure.engines.title.passwords 'Wachtwoorden'>
+<!ENTITY sync.configure.engines.title.history 'Geschiedenis'>
+<!ENTITY sync.configure.engines.title.tabs 'Tabbladen'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Annuleren'>
 <!ENTITY sync.button.connect.label 'Verbinden'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Er wordt maar één &syncBrand.fullName.label;-account ondersteund.'>
+<!ENTITY sync.notification.configure.saved 'Uw selecties zijn opgeslagen.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Onjuiste accountnaam of wachtwoord.'>
