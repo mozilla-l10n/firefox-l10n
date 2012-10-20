@@ -98,8 +98,8 @@
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Полная версия сайта">
 <!ENTITY find_text "Найти на странице">
-<!ENTITY find_prev "Предыдущее">
-<!ENTITY find_next "Следующее">
+<!ENTITY find_prev "Назад">
+<!ENTITY find_next "Далее">
 <!ENTITY find_close "Закрыть">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
 <!ENTITY contextmenu_remove_history "Удалить">
