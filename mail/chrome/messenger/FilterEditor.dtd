@@ -5,7 +5,7 @@
 <!ENTITY window.title "Правила фильтрации">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Имя фильтра:">
-<!ENTITY filterName.accesskey "И">
+<!ENTITY filterName.accesskey "м">
 <!ENTITY junk.label "Спам">
 <!ENTITY notJunk.label "Не спам">
 <!ENTITY lowestPriorityCmd.label "самую низкую">
@@ -14,14 +14,14 @@
 <!ENTITY highPriorityCmd.label "высокую">
 <!ENTITY highestPriorityCmd.label "самую высокую">
 <!ENTITY contextDesc.label "Применять фильтр при:">
-<!ENTITY contextDesc.accesskey "п">
-<!ENTITY contextIncoming.label "Проверке почты">
+<!ENTITY contextIncomingMail.label "Получении новой почты:">
+<!ENTITY contextIncomingMail.accesskey "о">
 <!ENTITY contextManual.label "Запуске вручную">
-<!ENTITY contextBoth.label "Проверке почты или запуске вручную">
-<!ENTITY contextPostPlugin.label "Проверке почты (после анализа на спам)">
-<!ENTITY contextPostPluginBoth.label "Проверке почты (после анализа на спам) или запуске вручную">
+<!ENTITY contextManual.accesskey "а">
+<!ENTITY contextBeforeCls.label "Фильтровать перед анализом на спам">
+<!ENTITY contextAfterCls.label "Фильтровать после анализа на спам">
 <!ENTITY filterActionDesc.label "Выполнять следующие действия:">
-<!ENTITY filterActionDesc.accesskey "В">
+<!ENTITY filterActionDesc.accesskey "ы">
 <!ENTITY moveMessage.label "Переместить сообщение в">
 <!ENTITY copyMessage.label "Копировать сообщение в">
 <!ENTITY forwardTo.label "Переслать сообщение на">
