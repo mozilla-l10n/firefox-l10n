@@ -22,7 +22,7 @@
 <!ENTITY newCreateEmailAccountCmd.label "Получить новую учётную запись почты…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "л">
 <!ENTITY newExistingEmailAccountCmd.label "Настроить мою учётную запись почты…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "щ">
+<!ENTITY newExistingEmailAccountCmd.accesskey "и">
 <!ENTITY newIMAccountCmd.label "Учётная запись чата…">
 <!ENTITY newIMAccountCmd.accesskey "а">
 <!ENTITY newIMContactCmd.label "Контакт в чате…">

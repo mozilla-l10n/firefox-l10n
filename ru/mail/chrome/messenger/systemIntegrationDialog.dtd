@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title "Интеграция с системой">
+<!ENTITY acceptIntegration.label "Установить по умолчанию">
+<!ENTITY cancelIntegration.label "Пропустить интеграцию">
 <!ENTITY defaultClient.intro "Использовать &brandShortName; по умолчанию в качестве:">
 <!ENTITY email.label "Почтового клиента">
 <!ENTITY newsgroups.label "Клиента групп новостей">

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY next.label "Далее">
-<!ENTITY next.accesskey "С">
+<!ENTITY next.accesskey "а">
 <!ENTITY next.tooltip "Найти следующее вхождение фразы в текст">
 <!ENTITY previous.label "Назад">
-<!ENTITY previous.accesskey "П">
+<!ENTITY previous.accesskey "з">
 <!ENTITY previous.tooltip "Найти предыдущее вхождение фразы в текст">
 <!ENTITY findCloseButton.tooltip "Закрыть панель поиска">
 <!ENTITY highlight.label "Подсветить все">
 <!ENTITY highlight.accesskey "в">
 <!ENTITY highlight.tooltiptext "Подсветить все вхождения фразы в текст">
 <!ENTITY caseSensitiveCheckbox.label "Учесть регистр">
-<!ENTITY caseSensitiveCheckbox.accesskey "р">
+<!ENTITY caseSensitiveCheckbox.accesskey "е">

@@ -162,6 +162,7 @@
 <!ENTITY webConsoleCmd.label "Веб-консоль">
 <!ENTITY webConsoleCmd.accesskey "б">
 <!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY remoteWebConsoleCmd.label "Удалённая веб-консоль">
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
