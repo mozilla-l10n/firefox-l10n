@@ -33,7 +33,7 @@
 <!ENTITY closeConversationButton.tooltip "Avsluta konversation">
 
 <!ENTITY addBuddyButton.label          "Lägg till kontakt">
-<!ENTITY joinChatButton.label          "Gå med i chatt">
+<!ENTITY joinChatButton.label          "Anslut chatt">
 <!ENTITY chatAccountsButton.label      "Visa konton">
 
 <!ENTITY status.available          "Tillgänglig">

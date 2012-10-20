@@ -15,6 +15,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "a">
 <!ENTITY importMail.label         "E-post">
 <!ENTITY importMail.accesskey     "E">
+<!ENTITY importFeeds.label        "Feed prenumeration">
+<!ENTITY importFeeds.accesskey    "p">
 <!ENTITY importAddressbook.label  "Adressböcker">
 <!ENTITY importAddressbook.accesskey "d">
 <!ENTITY importSettings.label     "Inställningar">
@@ -28,11 +30,14 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "&brandShortName;s guide för att importera e-post">
 <!ENTITY importShortDesc.label    "Importerar e-post, adressböcker, inställningar och filter från andra program">
 
-<!ENTITY importDescription1.label "Denna guide hjälper dig att importera e-post, innehållet i adressböcker, inställningar och/eller filter från andra e-postprogram och vanliga adressboksformat till &brandShortName;.">
+<!ENTITY importDescription1.label "Denna guide hjälper dig att importera e-post, innehållet i adressböcker, feeds prenumerationer, inställningar och/eller filter från andra e-postprogram och vanliga adressboksformat till &brandShortName;.">
 <!ENTITY importDescription2.label "När du har importerat uppgifterna kommer du alltså att kunna använda dem i &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Välj vilken typ av fil du vill importera:">
+<!ENTITY selectDescriptionB.label "Välj ett befintligt konto eller skapa ett nytt konto:">
 <!ENTITY selectDescription.accesskey "V">
+<!ENTITY acctName.label           "Namn:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Backa">
 <!ENTITY forward.label            "Nästa &gt;">
