@@ -21,8 +21,8 @@
 <!ENTITY newOtherAccountsCmd.accesskey "г">
 <!ENTITY newCreateEmailAccountCmd.label "Получить новую учётную запись почты…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "л">
-<!ENTITY newExistingEmailAccountCmd.label "Существующая учётная запись почты…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "щ">
+<!ENTITY newExistingEmailAccountCmd.label "Настроить мою учётную запись почты…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "и">
 <!ENTITY newIMAccountCmd.label "Учётная запись чата…">
 <!ENTITY newIMAccountCmd.accesskey "а">
 <!ENTITY newIMContactCmd.label "Контакт в чате…">
@@ -520,7 +520,7 @@
 <!ENTITY tagButton.tooltip "Присвоить сообщению метку">
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
 <!ENTITY appmenuButton.tooltip "Показывать меню приложения">
-<!ENTITY appmenuNewMsgCmd.label "Новое сообщение">
+<!ENTITY appmenuNewMsgCmd.label "Создать">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресной книги…">
 <!ENTITY appmenuEditMenu.label "Правка">
 <!ENTITY appmenuQFBMenu.label "Панель быстрого фильтра">
