@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Webbkonsol">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Fjärrwebbkonsol">
 
 <!ENTITY inspectMenu.label            "Inspektera">
 <!ENTITY inspectMenu.accesskey        "n">
