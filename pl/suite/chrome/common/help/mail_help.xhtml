@@ -2338,11 +2338,18 @@ warunek.</p></li>
   <li><strong>Nazwa serwera</strong>: nazwa serwera, która została określona podczas utworzenia konta poczty. Jeżeli występują problemy z otrzymywaniem wiadomości z tego konta, należy skontaktować się z dostawcą usług internetowych lub administratorem sieci, by potwierdzić że wpisana nazwa serwera jest poprawna.</li>
   <li><strong>Użytkownik</strong>: nazwa użytkownika, która została wybrana podczas utworzenia konta poczty.</li>
   <li><strong>Port</strong>: ustawienie należy zostawić niezmienione, jeśli dostawca usług internetowych lub administrator sieci nie zaleca innego ustawienia.</li>
-  <li><strong>Bezpieczeństwo połączenia</strong>: należy wybrać, jeżeli serwer poczty jest skonfigurowany, aby wysyłać i odbierać zaszyfrowane wiadomości. W razie wątpliwości należy skontaktować się z dostawcą usług internetowych lub administratorem sieci.</li>
+  <li><strong>Bezpieczeństwo połączenia</strong>: należy wybrać jedną z następujących opcji, aby ustanowić <a href="glossary.xhtml#secure_connection">bezpieczne połączenie</a> z serwerem poczty przychodzącej (IMAP):
+    <ul>
+      <li><strong>Bez szyfrowania</strong>: program &brandShortName; będzie używał połączeń nieszyfrowanych. Tę opcję należy wybrać <strong>wyłącznie</strong> w przypadku, gdy serwer poczty przychodzącej nie obsługuje jakiegokolwiek szyfrowania.</li>
+      <li><strong>STARTTLS</strong>: wymaga szyfrowanego połączenia używając metody <a href="glossary.xhtml#starttls">STARTTLS</a>. Ten sposób szyfrowania jest zazwyczaj dostępny na standardowym porcie IMAP, czyli 143.</li>
+      <li><strong>SSL/TLS</strong>: wymaga szyfrowanego połączenia używając metody IMAP-over-SSL method. Ten sposób szyfrowania jest zazwyczaj dostępny na porcie 993.
+      </li>
+    </ul>
+  </li>
   <li><strong>Używaj bezpiecznego uwierzytelniania</strong>: pozwala na użycie bezpiecznego uwierzytelniania podczas logowania, np. CRAM-MD5. W razie wątpliwości, czy serwer wspiera tę możliwość, należy skontaktować się z dostawcą usług internetowych lub administratorem sieci.</li>
   <li><strong>Sprawdzaj podczas uruchamiania, czy są nowe wiadomości</strong>: wybór tego ustawienia spowoduje, że Kurier Poczty po uruchomieniu będzie automatycznie sprawdzał, czy na koncie znajdują się nowe wiadomości.</li>
   <li><strong>Sprawdzaj, czy nadeszły nowe wiadomości co [__] minut</strong>: wybór tego ustawienia pozwala na automatyczne sprawdzanie co określony czas, czy są nowe wiadomości i ich automatyczne pobieranie. Jeśli to ustawienie nie zostanie wybrane to w dowolnym momencie można sprawdzić czy są nowe wiadomości naciskając przycisk Pobierz na pasku narzędzi w głównym oknie Kuriera Poczty.</li>
-  <li id="when_i_delete_a_message"><strong>Wiadomość usunięta lokalnie</strong>: należy wybrać zachowanie dotyczące usuniętych wiadomości. <q>Zostanie przeniesiona do folderu <strong>Kosz</strong></q> jest zalecane, jeśli administrator sieci lub dostawca usług internetowych nie zaleci innych ustawień. Wiadomości zaznaczone jako usunięte zostaną usunięte tylko w czasie porządkowania folderów.</li>
+  <li id="when_i_delete_a_message"><strong>Wiadomość usunięta lokalnie</strong>: należy wybrać zachowanie dotyczące usuniętych wiadomości. Opcja <q>Zostanie przeniesiona do folderu</q>, gdzie można wybrać folder, jest zalecana, jeśli administrator sieci lub dostawca usług internetowych nie zaleci innych ustawień. Wiadomości zaznaczone jako usunięte zostaną usunięte tylko w czasie porządkowania folderów.</li>
   <li><strong>Przy wyjściu z programu porządkuj folder Odebrane</strong>: przy zamykaniu Kuriera Poczty usuwa wiadomości, które zostały oznaczone jako usunięte z folderu Odebrane. Należy zaznaczyć tę opcję, jeśli ustawienie: <q>Wiadomość usunięta lokalnie zostanie oznaczona jako usunięta</q> zostało wybrane.</li>
   <li><strong>Przy wyjściu z programu opróżniaj Kosz</strong>: opróżnia folder Kosz za każdym razem, kiedy Kurier Poczty zostaje zamknięty.</li>
   <li><strong>Zaawansowane</strong>: pozwala na wybranie innego serwera poczty wychodzącej (SMTP) dla wysłanych wiadomości z konta poczty. Więcej informacji w rozdziale <a href="#advanced_imap_server_settings">Zaawansowana konfiguracja serwera IMAP</a>.</li>
@@ -2386,8 +2393,15 @@ warunek.</p></li>
   <li><strong>Nazwa serwera</strong>: nazwa serwera, która została określona podczas utworzenia konta poczty. Jeżeli występują problemy z otrzymywaniem wiadomości z tego konta, należy skontaktować się z dostawcą usług internetowych lub administratorem sieci, by potwierdzić że wpisana nazwa serwera jest poprawna.</li>
   <li><strong>Użytkownik</strong>: nazwa użytkownika, która została wybrana podczas utworzenia konta poczty.</li>
   <li><strong>Port</strong>: ustawienie należy zostawić niezmienione, jeśli dostawca usług internetowych lub administrator sieci nie zaleca innego ustawienia.</li>
-  <li><strong>Bezpieczeństwo połączenia</strong>: należy wybrać, jeżeli serwer poczty jest skonfigurowany, aby wysyłać i odbierać zaszyfrowane wiadomości. W razie wątpliwości należy skontaktować się z dostawcą usług internetowych lub administratorem sieci.</li>
-  <li><strong>Używaj bezpiecznego uwierzytelniania</strong>: pozwala na użycie bezpiecznego uwierzytelniania podczas logowania, np. CRAM-MD5. W razie wątpliwości, czy serwer wspiera tę możliwość, należy skontaktować się z dostawcą usług internetowych lub administratorem sieci.</li>
+  <li><strong>Bezpieczeństwo połączenia</strong>: należy wybrać jedną z następujących opcji, aby ustanowić <a href="glossary.xhtml#secure_connection">bezpieczne połączenie</a> z serwerem poczty przychodzącej (POP):
+    <ul>
+      <li><strong>Bez szyfrowania</strong>: program &brandShortName; będzie używał połączeń nieszyfrowanych. Tę opcję należy wybrać <strong>wyłącznie</strong> w przypadku, gdy serwer poczty przychodzącej nie obsługuje jakiegokolwiek szyfrowania.</li>
+      <li><strong>STARTTLS</strong>: wymaga szyfrowanego połączenia używając metody <a href="glossary.xhtml#starttls">STARTTLS</a>. Ten sposób szyfrowania jest zazwyczaj dostępny na standardowym porcie POP, czyli 110.</li>
+      <li><strong>SSL/TLS</strong>: wymaga szyfrowanego połączenia używając metody POP-over-SSL method. Ten sposób szyfrowania jest zazwyczaj dostępny na porcie 995.
+      </li>
+    </ul>
+  </li>
+  <li><strong>Używaj bezpiecznego uwierzytelniania</strong>: pozwala na użycie bezpiecznego uwierzytelniania podczas logowania, np. CRAM-MD5 i APOP. W razie wątpliwości, czy serwer wspiera tę możliwość, należy skontaktować się z dostawcą usług internetowych lub administratorem sieci.</li>
   <li><strong>Sprawdzaj podczas uruchamiania, czy są nowe wiadomości</strong>: wybór tego ustawienia spowoduje, że Kurier Poczty po uruchomieniu będzie automatycznie sprawdzał, czy na koncie znajdują się nowe wiadomości. Dla kont POP Kurier Poczty nie pobiera nowych wiadomości dopóki nie zostanie naciśnięty przycisk Pobierz na pasku narzędzi w głównym oknie Kuriera Poczty.</li>
   <li><strong>Sprawdzaj, czy nadeszły nowe wiadomości co [__] minut</strong>: wybór tego ustawienia pozwala na automatyczne sprawdzanie co określony czas, czy są nowe wiadomości i ich automatyczne pobieranie. Jeśli to ustawienie nie zostanie wybrane, to w dowolnym momencie można sprawdzić czy są nowe wiadomości naciskając przycisk Pobierz na pasku narzędzi w głównym oknie Kuriera Poczty.</li>
   <li><strong>Automatycznie pobieraj nowe wiadomości</strong>: wybór tego ustawienia spowoduje natychmiastowe pobieranie wiadomości z serwera po każdym nawiązaniu połączenia z nim.</li>
@@ -2422,12 +2436,10 @@ warunek.</p></li>
   <li><strong>Sprawdzaj podczas uruchamiania, czy są nowe wiadomości</strong>: wybór tego ustawienia spowoduje, że Kurier Poczty po uruchomieniu będzie automatycznie sprawdzał, czy na koncie znajdują się nowe wiadomości. Dla kont POP Kurier Poczty nie pobiera nowych wiadomości dopóki nie zostanie naciśnięty przycisk Pobierz na pasku narzędzi w głównym oknie Kuriera Poczty.</li>
   <li><strong>Sprawdzaj, czy nadeszły nowe wiadomości co [__] minut</strong>: wybór tego ustawienia pozwala na automatyczne sprawdzanie co określony czas, czy są nowe wiadomości i ich automatyczne pobieranie. Jeśli to ustawienie nie zostanie wybrane, to w dowolnym momencie można sprawdzić czy są nowe wiadomości naciskając przycisk Pobierz na pasku narzędzi w głównym oknie Kuriera Poczty.</li>
   <li><strong>Pytaj przy pobieraniu więcej niż [__] wiadomości</strong>: wybór tego ustawienia pozwala zaoszczędzić miejsce na dysku i czas pobierania wiadomości przez zmniejszenie ilości wiadomości, które mogą być pobrane jednorazowo.</li>
-  <li><strong>Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem</strong>: niektóre serwery pozwalają na korzystanie z grup na nich dostępnych bez logowania się, ale w takim wypadku ukrywają przed użytkownikiem wszystkie <em>prywatne</em> grupy dyskusyjne i wiadomości do czasu jego zalogowania. Wyór tego ustawienia wymusza, aby &brandShortName; uwierzytelniało użytkownika na serwerze przy każdym połączeniu do serwera nawet jeśli serwer tego nie wymaga (nazywane również <q>Wymuszonym uwierzytelnianiem</q>).</li>to
-  <!-- NIE MA TEGO PRZYCISKU, SMTP JEST POZIOM WYŻEJ  <li><strong>Advanced</strong>: Lets you choose a different outgoing server
-    (SMTP) for outgoing messages from this account.</li> -->
+  <li><strong>Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem</strong>: niektóre serwery pozwalają na korzystanie z grup na nich dostępnych bez logowania się, ale w takim wypadku ukrywają przed użytkownikiem wszystkie <em>prywatne</em> grupy dyskusyjne i wiadomości do czasu jego zalogowania. Wyór tego ustawienia wymusza, aby &brandShortName; uwierzytelniało użytkownika na serwerze przy każdym połączeniu do serwera nawet jeśli serwer tego nie wymaga (nazywane również <q>Wymuszonym uwierzytelnianiem</q>).</li>
   <li><strong>Plik newsrc</strong>: głównie służy do wyświetlania ścieżki dostępu do pliku newsrc. Plik newsrc przechowuje informacje o subskrybowanych przez użytkownika grupach dyskusyjnych i wiadomościach przeczytanych w każdej z grup.</li>
   <li><strong>Katalog lokalny</strong>: umiejscowienie na dysku w komputerze użytkownika katalogu, w którym przechowywane są wiadomości tego konta.</li>
-  <li><strong>Domyślny zestaw znaków</strong>: kodowanie według którego wyświetlane będą znaki w wiadomościach, które nie zawierają definicji kodowania.</li><!-- dopisane -->
+  <li><strong>Domyślny zestaw znaków</strong>: kodowanie według którego wyświetlane będą znaki w wiadomościach, które nie zawierają definicji kodowania (MIME).</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Na początek rozdziału</a>]</p>
@@ -2534,9 +2546,9 @@ warunek.</p></li>
 
     <p><strong>Uwaga</strong>: domyślne ustawienia dla mogą być zmienione dla pojedynczych folderów, ale te ustawienia są <em>usuwane</em> przy każdej zmianie stanu ustawienia <q>Przechowuj wiadomości dla tego konta lokalnie na komputerze</q>.</p>
   </li>
-   <li><strong>Synchronizuj wszystkie wiadomości niezależnie od wieku</strong>: wybór tej opcji powoduje synchronizowanie wszystkich wiadomości.</li>
-   <li><strong>Synchronizuj tylko ostatnie wiadomości [__] [__] </strong>: wybór tej opcji powoduje synchronizowanie tylko wiadomości z określonego okresu.</li>
-   <li><strong>Nie pobieraj wiadomości większych niż [__] KB</strong>: wybór tej opcji pozwala na oszczędzanie miejca na dysku i czasu połączenia z serwerem przez określenie maksymalnej wielkości wiadomości możliwych do pobrania z serwera.</li>
+   <li><strong>Synchronizuj wszystkie wiadomości niezależnie od wieku</strong>: wybór tej opcji powoduje synchronizowanie <em>wszystkich</em> wiadomości, z wyjątkiem sytuacji, gdzie zostały ustawione maksymalne wielkości pobierania.</li>
+   <li><strong>Synchronizuj tylko ostatnie wiadomości [__] [dni] </strong>: wybór tej opcji powoduje synchronizowanie tylko wiadomości nowszych, niż określony okres ostatnich dni, tygodni bądź miesięcy. Po tym okresie, wiadomości będą usuwane lokalnie i niedostępne w trybie offline. Usuwanie <em>nie</em> dotyczy kopii wiadomości przechowywanych na serwerze - te w dalszym ciągu będą tam dostępne.</li>
+   <li><strong>Nie pobieraj wiadomości większych niż [__] KB</strong>: wybór tej opcji pozwala na oszczędzanie miejca na dysku i czasu połączenia z serwerem przez określenie maksymalnej wielkości wiadomości możliwych do pobrania z serwera. Zmiana tej opcji <em>nie</em> dotyczy wiadomości, które już zostały pobrane.</li>
   <li><a href="#retention_policy">Ustawienia retencji</a> mogą zostać użyte do automatycznego usuwania starych wiadomości. Należy podkreślić, że te ustawienia dotyczą <em>zarówno</em> kopii wiadomości przechowywanych lokalnie jak i oryginałów wiadomości przechowywanych na serwerze.</li>
 </ul>
 

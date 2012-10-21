@@ -83,11 +83,6 @@
       <li><strong>Wybierz plik</strong>: Przycisk umożliwia wybór pliku z&nbsp;dysku, który zostanie wczytany jako strona domowa.</li>
     </ul>
   </li>
-  <li><strong>Wybierz przyciski, które będą wyświetlane na pasku narzędzi</strong>: Pola poniżej umożliwiają wybór przycisków, które zostaną wyświetlone na paskach narzędzi przeglądarki.
-    
-    <p>Przyciski: Idź, Szukaj i&nbsp;Drukuj umieszczone są na pasku narzędzi nawigacyjnych, blisko prawego górnego rogu okna Nawigatora. Pozostałe przyciski są pokazywane na osobistym pasku narzędzi. Więcej informacji o&nbsp;dodawaniu własnych zakładek do tego paska narzędzi w&nbsp;rozdziale <a href="customize_help.xhtml#personal_toolbar">Osobisty pasek narzędzi</a>.</p>
-
-  </li>
 </ul>
 
 <p>[<a href="#navigator_preferences">Na początek rozdziału</a>]</p>
@@ -119,6 +114,20 @@
       <li><strong>Wyczyść pasek adresu</strong>: Naciśnięcie tego przycisku spowoduje wyczyszczenie listy stron wpisywanych do paska adresu.</li>
     </ul>
   </li>
+<!-- TODO: start localizing -->
+  <li><strong>Form and Search History</strong>:
+    <ul>
+      <li><strong>Enable form and search history</strong>: Select this to let
+        &brandShortName; keep a history of the forms you fill in and the
+        searches you do.</li>
+      <li><strong>Remember form and search history for up to [__] days</strong>:
+        Type the maximum number of days you want &brandShortName; to keep track
+        of forms you fill in and searches you do. For example, if you set this
+        number to 180 days, forms and searches 180 days old or less will be
+        kept.</li>
+    </ul>
+  </li>
+<!-- TODO: stop localizing -->
 </ul>
 
 <p>Więcej informacji o&nbsp;historii w&nbsp;&brandShortName; można znaleźć w&nbsp;rozdziale <a href="nav_help.xhtml#retracing_your_steps">Cofanie się do poprzednio odwiedzonych stron</a>.</p>
@@ -279,6 +288,11 @@
     <ul>
       <li><strong>Ukryj pasek kart, jeżeli otwarta jest tylko jedna karta</strong>: Zaznaczenie tej opcji spowoduje wyświetlanie paska wyboru karty tylko w&nbsp;przypadku otwarcia więcej niż jednej karty przeglądarki.</li>
       <li><strong>Pokazuj nowootwarte karty na pierwszym planie</strong>: Zaznaczenie tej opcji umożliwia przełączanie pomiędzy kartami przy wyborze polecenia <q>Otwórz odnośnik w&nbsp;nowej karcie</q>.</li>
+<!-- TODO: start localizing -->
+      <li><strong>Warn me when closing a window with multiple tabs</strong>:
+        Select this to make &brandShortName; warn you when you try to close a
+        browser window which has multiple tabs open in it.</li>
+<!-- TODO: stop localizing -->
     </ul>
   </li>
   <li><strong>Podczas otwierania grupy zakładek</strong>:
@@ -327,7 +341,14 @@
 <ul>
   <li><strong>Rozpoczynając pobieranie plików</strong>:
     <ul>
-      <li><strong>Otwórz Menedżera pobierania plików</strong>: Zaznaczenie tej opcji spowoduje wyświetlenie Menedżera pobierania plików, który pokazuje informacje o&nbsp;bieżącym i&nbsp;wcześniejszych pobraniach. Stan wszystkich pobrań jest pokazywany w&nbsp;pojedynczym oknie.</li>
+<!-- TODO: start localizing -->
+      <li><strong>Flash the download manager if it is already open</strong>:
+        Select this to change focus to the Download Manager if it is currently
+        open. It displays the status for current and previous downloads in a
+        single window. This option only takes effect if the Download Manager
+        is already open and overrides the other settings.</li>
+<!-- TODO: stop localizing -->
+      <li><strong>Otwórz Menedżera pobierania plików</strong>: Zaznaczenie tej opcji spowoduje wyświetlanie Menedżera pobierania plików przy rozpoczynaniu pobierania, jeżeli te okno nie jest już otwarte.</li>
       <li><strong>Wyświetl okno postępu</strong>: Zaznaczenie tej opcji spowoduje wyświetlenie okna dialogowego postępu pobierania, które pokazuje informacje o&nbsp;bieżącym pobieraniu. Stan każdego pobierania jest pokazywany w&nbsp;osobnym oknie dialogowym.</li>
       <li><strong>Nie otwieraj okna</strong>: Zaznaczenie tej opcji spowoduje pobieranie plików w&nbsp;sposób niewidoczny dla użytkownika. Żadne z&nbsp;pobierań nie będzie wyświetlało okna dialogowego stanu pobierania.</li>
     </ul>
@@ -337,21 +358,38 @@
 <ul>
   <li><strong>Podczas zapisywania pliku</strong>:
     <ul>
-      <li><strong>Zapytaj i&nbsp;ustaw wybrany folder jako domyślny</strong>: Zaznacz jeżeli zawsze chcesz być w&nbsp;stanie wybrać katalog docelowy podczas zachowywania pliku. Wybierz jedno z&nbsp;poniższych żeby ustawić domyślny katalog.
-        <ul>
-          <li><strong>Ostatnio wybrany folder</strong>: Domyślnym katalogiem będzie ostatnio wybrany katalog.</li>
-          <li><strong>Wybrany folder</strong>: Domyślnym katalogiem będzie wybrany folder.</li>
-        </ul>
-      </li>
-      <li><strong>Pobieraj pliki automatycznie do wybranego folderu pobierania</strong>: Zaznaczenie tej opcji spowoduje ściąganie plików bezpośrednio do wybranego katalogu pobierania, bez zadania pytania o&nbsp;lokalizację docelową.</li>
+<!-- TODO: start localizing -->
+      <li><strong>Save files to</strong>: Select this if you want files to be
+        saved to the specified folder without &brandShortName; prompting you
+        for the download location.</li>
+      <li><strong>Always ask me where to save files</strong>: Select this if
+        you always want to be able to choose a folder for the file to be saved.
+        The default will be the folder you last downloaded a file to.</li>
     </ul>
   </li>
 </ul>
-    
+
 <ul>
-  <li><strong>Bieżący folder pobierania</strong>: Użyj przycisku <q>Wybierz folder</q>, aby wyznaczyć katalog, który ma być domyślnym miejscem zapisywania pobieranych z&nbsp;sieci plików.</li>
+  <li><strong>Download retention</strong>:
+    <ul>
+      <li><strong>Remove downloads</strong>: This determines when a completed
+        entry is removed from the Download Manager listing (the downloaded
+        file will <em>not</em> be affected):
+         <ul>
+          <li><strong>When they have completed</strong>: Select this to
+            remove an entry immediately once the download is successfully
+            completed.</li>
+          <li><strong>When quitting &brandShortName;</strong>: Select this
+            to retain all entries until closing the program, the list will
+            be empty upon restarting &brandShortName;.</li>
+          <li><strong>Never</strong>: Select this to not remove <em>any</em>
+            entry automatically, even after &brandShortName; is restarted.
+            You can remove them manually in the Download Manager.</li>
+    </ul>
+  </li>
 </ul>
-    
+<!-- TODO: stop localizing -->
+
 <ul>
   <li><strong>Gdy pobieranie zostanie zakończone</strong>:
     <ul>

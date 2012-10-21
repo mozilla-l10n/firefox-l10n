@@ -671,7 +671,7 @@
      <rdf:li>
        <rdf:Description ID="Composer:keyboard_shortcuts"
          nc:name="skróty klawiaturowe"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Composer:removing_text_styles"
@@ -1667,7 +1667,7 @@
      <rdf:li>
        <rdf:Description ID="browser:keyboard_shortcuts"
          nc:name="skróty klawiaturowe"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:opening_pages"
@@ -1813,7 +1813,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Composer"
          nc:name="skróty klawiaturowe w&nbsp;Kompozytorze Stron"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:general"
@@ -1828,12 +1828,12 @@
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Mail_and_Newsgroups"
          nc:name="skróty klawiaturowe w&nbsp;Kurierze Poczty"
-         nc:link="shortcuts-mailnews.xhtml"/>
+         nc:link="shortcuts_mailnews.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Navigator"
          nc:name="skróty klawiaturowe w&nbsp;przeglądarce"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
