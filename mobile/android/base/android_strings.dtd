@@ -131,6 +131,7 @@ size. -->
 <!ENTITY find_in_page "Najít ve stránce">
 <!ENTITY desktop_mode "Desktopová verze">
 <!ENTITY tools "Nástroje">
+<!ENTITY new_pb_tab "Nový anonymní panel">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
