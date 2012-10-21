@@ -1601,20 +1601,26 @@ warunek.</p></li>
   <li>W przypadku, gdy skonfigurowano więcej kont pocztowych, wybrać właściwe dla zastosowania filtrów.</li>
   <li>Wybrać Nowy. W oknie Reguły filtrów należy określić reguły, według których filtr będzie sortował wiadomości oraz wykonywał na nich operacje.</li>
   <li>Podać nazwę dla filtru.</li>
-  <li>Wybrać odpowiednie opcje: <q>spełniają <em>wszystkie</em> poniższe kryteria</q> lub <q>spełniają <em>dowolne</em> poniższe kryteria</q>.</li>
+  <li>Wybrać, kiedy filtry mają być stosowane. Ta opcja umożliwia wybranie sposobu stosowania filtrów: automatycznie (podczas sprawdzania poczty), w razie potrzeby (podczas ręcznego uruchamiania) bądź w obydwu przypadkach. <q>Po filtrowaniu niechcianych</q> oznacza, że przed zastosowaniem tego filtra, wiadomości będą sprawdzane, czy są porządane jak i czy nie są próbą oszustwa.</li>
+  <li>Wybrać odpowiednie opcje: <q>do wiadomości spełniających <em>wszystkie</em> kryteria</q>, <q>do wiadomości spełniających <em>dowolne</em> kryteria</q>, lub <q>do <em>wszystkich wiadomości</em></q>.</li>
   <li>Z rozwijanej listy należy wybrać krytria przeszukiwania wiadomości (np. <q>Temat</q>, <q>Nadawca</q>, <q>zawiera</q>, <q>nie zawiera</q>), a następnie wpisać warunek przeszukiwania.
 
     <p><strong>Wskazówka</strong>: aby wyszukać wiadomości zawierające nagłówek nie występujący na pierwszej rozwijanej liście (np. zawierające nagłówek Resent-From), należy wybrać Dostosuj i następnie podać nazwę nagłówka, pod kątem którego mają zostać przeszukane wiadomości. Kurier Poczty &brandShortName; doda skonfigurowany nagłówek do rozwijanej listy, aby możliwy był jego wybór i wyszukiwanie pod jego kątem. Dobrze jest się upewnić, czy wprowadzony nagłówek jest poprawny, ponieważ program wyszuka tylko wiadomości dokładnie spełniające wprowadzony warunek.</p>
   </li>
   <li>Nacisnąć przycisk Dodaj nową regułę (+) w celu dodania kryteriów lub Usuń tę regułę (-), aby usunąć wskazane kryteria przeszukiwania.</li>
-  <li>Z rozwijanej listy wybrać operację, która ma zostać wykonana na wiadomościach (np. przenieś do folderu).
+  <li>Z rozwijanej listy wybrać operację, która ma zostać wykonana na wiadomościach (np. Przenieś wiadomość do). Nacisnąć przycisk Dodaj nową czynność (+) w celu dodania czynności lub Usuń tę czynność (-), aby usunąć wskazane czynności.
 
-    <p><strong>Wskazówka</strong>: aby automatycznie nadawać etykiety przychodzącym wiadomościom, należy z rozwijanej listy wybrać <q>Nadaj etykietę</q>.</p>
+    <p><strong>Wskazówka</strong>: aby automatycznie nadawać etykiety przychodzącym wiadomościom, należy z rozwijanej listy wybrać <q>Oznacz etykietą</q>.</p>
+
+    <p><strong>Wskazówka</strong>: filtry wiadomości są stosowane jeden po drugim. W przypadku, gdy nie wszystkie filtry powinny zostać zastosowane, np. gdy wszystkie wiadomości od szefa mają zostać oznaczone etykietą <q>Ważne</q> oraz wszystkie wiadomości zawierające słowo <q>Memorandum</q> w temacie mają być przeniesione do osobnego folderu, jednak wiadomości od szefa nie, nawet jeżeli zawierają słowo <q>Memorandum</q> w temacie, należy jako pierwszy filtr ustawić filtr zawierający adres e-mail szefa. Filtr ten powinien zawierać dwie czynności: <q>Oznacz etykietą</q> jako <q>Ważne</q> oraz <q>Zatrzymaj wykonywanie filtru</q>.</p>
   </li>
-  <li>Wybrać docelowy folder dla wiadomości lub stworzyć nowy.</li>
+  <li>Jeśli wybrano <q>Przeniesienie</q> bądź <q>Kopiowanie</q> wiadomości, należy wybrać docelowy folder dla wiadomości lub stworzyć nowy.</li>
   <li>Nacisnąć przycisk OK, aby zatwierdzić ustawienia.</li>
+  <li>Aby zastosować filtry na obecnych wiadomościach w folderze, należy wybrać folder z rozwijanej listy, a następnie nacisnąć przycisk <q>Filtruj</q>.</li>
   <li>Nacisnąć przycisk OK w oknie fitrów wiadomości. Filtr zacznie działać w momencie potwierdzenia przyciskiem OK.</li>
 </ol>
+
+<p><strong>Uwaga</strong>: filtry mogą być stosowane ręcznie w dowolnym momencie. W tym celu należy w oknie Kuriera Poczty wybrać Narzędzia, a następnie Zastosuj filtry w bieżącym folderze, aby zastosować filtry w obecnie wybranym folderze, bądź Zastosuj filtry na wiadomości, aby zastsować filtry na wybranej wiadomości (jeśli jakakolwiek wiadomość jest zaznaczona).</p>
 
 <p>Aby zarządzać filtrami, w oknie Kuriera Poczty należy:</p>
 
@@ -1650,8 +1656,10 @@ warunek.</p></li>
 
 <ol>
   <li>Wybrać wiadomość od tego nadawcy.</li>
-  <li>Z menu Wiadomość wybrać Utwórz filtr na podstawie wiadomości. Wyświetlone zostanie okno Reguły filtru z wpisanym adresem nadawcy jako nazwa filtru i parametr filtru oraz wybrane działanie filtru (Przenieś wiadomość do).</li>
-  <li>Wybrać folder docelowy do przechowywania wiadomości od tego nadawcy.</li>
+  <li>Z menu Wiadomość wybrać Utwórz filtr na podstawie wiadomości bądź w nagłówku wiadomości kliknąć prawym przyciskiem myszki na nadawcy i wybrać Utwórz wiadomość na podstawie.</li>
+  <li>Wyświetlone zostanie okno Reguły filtru z wpisanym adresem nadawcy jako kryterium filtru oraz wybrane działanie filtru (Przenieś wiadomość do). Tutaj można zmienić bądź dodać dodatkowe kryteria filtrowania.</li>
+  <li>Wybrać folder docelowy do przechowywania wiadomości od tego nadawcy. Istnieje również możliwość dodania dodatkowych czynności dla tego filtra bądź zmiana domyślnej czynności.</li>
+  <li>Jeżeli nie zostanie wprowadzona żadna nazwa dla tego filtra, to program &brandShortName; wybierze nazwę samemu na podstawie pierwszego kryterium wyszukiwania.</li>
   <li>Nacisnąć przycisk OK, aby potwierdzić ustawienia. Wyświetlone zostanie okno dialogowe <a href="#creating_message_filters">Filtry wiadomości</a>, w którym można tworzyć, usuwać lub zmieniać filtry wiadomości.</li>
   <li>Nacisnąć przycisk OK. Filtr rozpocznie działanie po naciśnięciu przycisku OK.</li>
 </ol>
@@ -1759,13 +1767,13 @@ warunek.</p></li>
 
 <h2 id="junk_controls_options">Ustawienia filtru niechcianej poczty</h2>
 
-<p>Aby dokładnie dostroić pracę filtru niechcianej poczty, należy użyć <a href="#global_junk_settings">panelu globalnych preferencji niechcianej poczty</a>, aby określić ustawienia niezależne od konta oraz <a href="#junk_settings">ustawień niechcianej poczty</a> dla konkretnego konta.</p>
+<p>Aby dokładnie dostroić pracę filtru niechcianej poczty, należy użyć panelu <a href="#junk_and_suspect_preferences">Niechciana i podejrzana poczta</a>, aby określić ustawienia niezależne od konta oraz <a href="#junk_settings">ustawień niechcianej poczty</a> dla konkretnego konta.</p>
 
 <p>[<a href="#controlling_junk_mail">Na początek rozdziału</a>]</p>
 
 <h2 id="junk_controls_and_filters">Filtr niechcianej poczty a filtry wiadomości</h2>
 
-<p>Filtr niechcianej poczty jest uruchamiany po zakończeniu działania filtrów wiadomości zdefiniowanych przez użytkownika i obejmuje tylko wiadomości w folderze Odebrane oraz jego podfolderach. W ten sposób można najpierw przenieść do folderów poza folderem Odebrane wiadomości, co do których nie wiadomo, czy są niechciane. Spowoduje to, że nie zostaną one oznaczone jako niechciane. Jest to funkcja przydatna w przypadku newsletterów i moderowanych list pocztowych.</p>
+<p>Filtr niechcianej poczty jest uruchamiany po zakończeniu działania filtrów wiadomości zdefiniowanych przez użytkownika (jeżeli w ustawieniach filtra nie wybrano opcji sprawdzania <q>po filtrowaniu niechcianych</q>, co oznacza po filtrowaniu niechcianych jak i prób oszustwa) i obejmuje tylko wiadomości w folderze Odebrane oraz jego podfolderach. W ten sposób można najpierw przenieść do folderów poza folderem Odebrane wiadomości, co do których nie wiadomo, czy są niechciane. Spowoduje to, że nie zostaną one oznaczone jako niechciane. Jest to funkcja przydatna w przypadku newsletterów i moderowanych list pocztowych.</p>
 
 <p>[<a href="#controlling_junk_mail">Na początek rozdziału</a>]</p>
 
