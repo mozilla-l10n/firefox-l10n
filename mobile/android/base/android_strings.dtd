@@ -68,7 +68,7 @@
 <!ENTITY pref_category_content "Obsah">
 <!ENTITY pref_category_importexport "Import a export">
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
-<!ENTITY pref_do_not_track "Říct serverům, že nechci být sledován">
+<!ENTITY pref_do_not_track "Nechci být sledován">
 <!ENTITY pref_telemetry "Odesílat data o výkonu">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 <!ENTITY pref_cookies "Povolit cookies">
@@ -81,7 +81,7 @@
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
-<!ENTITY pref_reflow_on_zoom "Povolit přeformátování">
+<!ENTITY pref_reflow_on_zoom2 "Stažením prstů formátovat">
 <!ENTITY pref_font_size_tiny "Drobné">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Střední">
