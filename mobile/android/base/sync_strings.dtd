@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label "Možnosti">
 <!ENTITY sync.summary.pair.label "K účtu &syncBrand.shortName.label; připojit další zařízení">
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label "Nastavení synchronizace">
+<!ENTITY sync.configure.engines.sync.my.title.label "Synchronizovat…">
+<!ENTITY sync.configure.engines.title.bookmarks "Záložky">
+<!ENTITY sync.configure.engines.title.passwords "Hesla">
+<!ENTITY sync.configure.engines.title.history "Historie">
+<!ENTITY sync.configure.engines.title.tabs "Panely">
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Zrušit">
 <!ENTITY sync.button.connect.label "Připojit">
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "Pouze jeden účet &syncBrand.fullName.label; je podporován.">
+<!ENTITY sync.notification.configure.saved "Nastavení synchronizace bylo uloženo.">
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label "Neplatný název účtu nebo heslo.">
