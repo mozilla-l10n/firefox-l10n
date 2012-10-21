@@ -204,9 +204,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.accesskey    "E">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "TTTa konzolo">
+<!ENTITY webConsoleCmd.label          "Teksaĵa konzolo">
 <!ENTITY webConsoleCmd.accesskey      "k">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Fora teksaĵa konzolo">
 
 <!ENTITY inspectMenu.label            "Inspekti">
 <!ENTITY inspectMenu.accesskey        "T">
