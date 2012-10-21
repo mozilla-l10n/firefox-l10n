@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label "Webová konzola">
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY remoteWebConsoleCmd.label "Vzdálená webová konzola">
 
 <!ENTITY inspectMenu.label "Prozkoumat stránku">
 <!ENTITY inspectMenu.accesskey "P">
