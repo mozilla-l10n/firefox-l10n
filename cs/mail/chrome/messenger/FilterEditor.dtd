@@ -17,14 +17,15 @@
 <!ENTITY highestPriorityCmd.label "Nejvyšší">
 
 <!ENTITY contextDesc.label "Použít filtr při:">
-<!ENTITY contextDesc.accesskey "f">
-<!ENTITY contextIncoming.label "kontrole pošty">
-<!ENTITY contextManual.label "manuálním spuštění">
-<!ENTITY contextBoth.label "kontrole pošty a manuálním spuštění">
-<!ENTITY contextPostPlugin.label "kontrole pošty po klasifikaci">
-<!ENTITY contextPostPluginBoth.label "kontrole pošty po klasifikaci a manuálním spuštění">
-<!ENTITY filterActionDesc.label "Provést akci:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY contextIncomingMail.label "Přijímání pošty:">
+<!ENTITY contextIncomingMail.accesskey "P">
+<!ENTITY contextManual.label "Manuálním spuštění">
+<!ENTITY contextManual.accesskey "M">
+<!ENTITY contextBeforeCls.label "Filtrovat před kontrolou nevyžádané pošty">
+<!ENTITY contextAfterCls.label "Filtrovat po kontrole nevyžádané pošty">
+
+<!ENTITY filterActionDesc.label "Provést tyto akce:">
+<!ENTITY filterActionDesc.accesskey "a">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Přesunout zprávu do složky">
