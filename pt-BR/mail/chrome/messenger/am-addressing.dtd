@@ -39,3 +39,10 @@
 <!ENTITY includeSigOnReply.accesskey          "o">
 <!ENTITY includeSigOnForward.label            "Ao encaminhar, incluir assinatura">
 <!ENTITY includeSigOnForward.accesskey        "n">
+
+<!ENTITY globalComposingPrefs.label           "Preferências globais de edição…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Preferências globais de endereçamento…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
+
