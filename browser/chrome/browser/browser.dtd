@@ -281,8 +281,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Nova privata fenestro">
 <!ENTITY newPrivateWindow.accesskey "f">
 
-<!ENTITY editMenu.label         "Modifi"> 
-<!ENTITY editMenu.accesskey       "M"> 
+<!ENTITY editMenu.label         "Redakti"> 
+<!ENTITY editMenu.accesskey       "R"> 
 <!ENTITY undoCmd.label            "Malfari">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "M"> 
@@ -462,7 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopii bildon">
 <!ENTITY copyImageContentsCmd.accesskey  "b"> 
-<!ENTITY copyVideoURLCmd.label        "Kopii adreson de video">
+<!ENTITY copyVideoURLCmd.label        "Kopii adreson de filmeto">
 <!ENTITY copyVideoURLCmd.accesskey    "f">
 <!ENTITY copyAudioURLCmd.label        "Kopii adreson de sono">
 <!ENTITY copyAudioURLCmd.accesskey    "s">
@@ -651,7 +651,7 @@ toolbar button -->
 <!ENTITY social.ok.label       "Akcepti">
 <!ENTITY social.ok.accesskey   "A">
 
-<!ENTITY social.toggleSidebar.label "Montri flankstrion">
+<!ENTITY social.toggleSidebar.label "Montri flankan strion">
 <!ENTITY social.toggleSidebar.accesskey "f">
 
 <!ENTITY social.toggleNotifications.label "Montri labortablajn sciigojn">
