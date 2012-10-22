@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY window.title "Modifica filtro">
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nome filtro:">
@@ -15,12 +14,12 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Massima">
 <!ENTITY contextDesc.label "Applica il filtro:">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "durante il controllo della posta">
+<!ENTITY contextIncomingMail.label "Scarica nuova posta:">
+<!ENTITY contextIncomingMail.accesskey "S">
 <!ENTITY contextManual.label "manualmente">
-<!ENTITY contextBoth.label "durante il controllo della posta o manualmente">
-<!ENTITY contextPostPlugin.label "durante il controllo della posta (dopo la classificazione)">
-<!ENTITY contextPostPluginBoth.label "durante il controllo della posta (dopo la classificazione) o manualmente">
+<!ENTITY contextManual.accesskey "m">
+<!ENTITY contextBeforeCls.label "Filtra prima della classificazione dello spam">
+<!ENTITY contextAfterCls.label "Filtra dopo la classificazione dello spam">
 <!ENTITY filterActionDesc.label "Esegui le seguenti azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
 <!ENTITY moveMessage.label "Sposta messaggio in">
