@@ -162,6 +162,7 @@
 <!ENTITY webConsoleCmd.label "Console web">
 <!ENTITY webConsoleCmd.accesskey "w">
 <!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY remoteWebConsoleCmd.label "Console web remota">
 <!ENTITY inspectMenu.label "Analisi pagina">
 <!ENTITY inspectMenu.accesskey "s">
 <!ENTITY inspectMenu.commandkey "I">
