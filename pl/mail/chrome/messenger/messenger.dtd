@@ -313,7 +313,7 @@
 <!ENTITY goBackCmd.commandKey        "[">
 <!ENTITY goChatCmd.label "Czat">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label     "Wiadomość oznaczona gwiazdką">
 <!ENTITY prevStarredMsgCmd.accesskey "O">
 <!ENTITY folderMenu.label            "Folder">
