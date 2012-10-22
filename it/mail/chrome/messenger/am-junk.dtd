@@ -22,3 +22,5 @@
 <!ENTITY ispHeaders.accesskey "t">
 <!ENTITY junkClassification.label "Selezione">
 <!ENTITY junkActions.label "Destinazione e memorizzazione">
+<!ENTITY globalJunkPrefs.label "Preferenze globali posta indesiderata…">
+<!ENTITY globalJunkPrefs.accesskey "G">
