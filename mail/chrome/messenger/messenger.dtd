@@ -89,7 +89,7 @@
 <!ENTITY deleteFolderCmd.label "Elimina cartella">
 <!ENTITY deleteFolderCmd.accesskey "E">
 <!ENTITY unsubscribeNewsgroupCmd.label "Annulla sottoscrizione">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Seleziona">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Tutti">
@@ -233,23 +233,6 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
 <!ENTITY viewAttachmentsInlineCmd.label "Mostra allegati in linea">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "M">
-<!ENTITY fullZoomEnlargeCmd.label "Aumenta zoom">
-<!ENTITY fullZoomEnlargeCmd.accesskey "A">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Diminuisci zoom">
-<!ENTITY fullZoomReduceCmd.accesskey "D">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Ripristina">
-<!ENTITY fullZoomResetCmd.accesskey "R">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Zoom solo del testo">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "Zoom">
-<!ENTITY fullZoom.accesskey "Z">
 <!ENTITY pageSourceCmd.label "Sorgente del messaggio">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.key "u">
@@ -330,7 +313,7 @@
 <!ENTITY replySenderCmd.label "Rispondi solo al mittente">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd2.label "Rispondi nel gruppo di discussione">
-<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY replyNewsgroupCmd2.accesskey "p">
 <!ENTITY replyToAllMsgCmd.label "Rispondi a tutti">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -646,7 +629,7 @@
 <!ENTITY contextReplySender.label "Rispondi solo al mittente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup2.label "Rispondi nel gruppo di discussione">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Rispondi a tutti">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextReplyList.label "Rispondi alla lista">
