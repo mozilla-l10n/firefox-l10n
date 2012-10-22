@@ -808,7 +808,10 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_helper_applications" nc:name="Aplikacje" nc:link="cs_nav_prefs_navigator.xhtml#helper_applications"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_location_bar" nc:name="Pasek adresu" nc:link="cs_nav_prefs_navigator.xhtml#location_bar"/> </rdf:li>
         <rdf:li><rdf:Description ID="navigator_pref_internet_searching" nc:name="Wyszukiwanie" nc:link="cs_nav_prefs_navigator.xhtml#internet_search"/> </rdf:li>
-        <rdf:li><rdf:Description ID="navigator_pref_tabbed_browsing" nc:name="Karty" nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/> </rdf:li>
+        <rdf:li><rdf:Description ID="navigator_pref_tabbed_browsing" nc:name="Karty" nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/> </rdf:li>
+
+        <rdf:li><rdf:Description ID="navigator_pref_link_behavior" nc:name="Zachowanie odnośników" nc:link="cs_nav_prefs_navigator.xhtml#link_behavior"/> </rdf:li>
+
         <rdf:li><rdf:Description ID="navigator_pref_downloads" nc:name="Pobieranie plików" nc:link="cs_nav_prefs_navigator.xhtml#downloads"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>

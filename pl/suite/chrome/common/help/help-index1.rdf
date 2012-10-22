@@ -1534,6 +1534,13 @@
          nc:name="preferencje języków"
          nc:link="cs_nav_prefs_navigator.xhtml#languages"/>
      </rdf:li>
+
+     <rdf:li>
+       <rdf:Description ID="preferences:Link_Behavior"
+         nc:name="preferencje zachowania odnośników"
+         nc:link="cs_nav_prefs_navigator.xhtml#link_behavior"/>
+     </rdf:li>
+
      <rdf:li>
        <rdf:Description ID="preferences:Navigator"
          nc:name="preferencje przeglądarki"
