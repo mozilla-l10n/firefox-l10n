@@ -44,7 +44,7 @@
 
 <!ENTITY  expire.label                  "jaż wëgasną">
 <!ENTITY  close.label                   "jaż zamknã program &brandShortName;">
-<!ENTITY  askEachTime.label             "wiedno pëtôj">
+<!ENTITY  askEachTime.label             "wiedno pitôj">
 
 <!ENTITY  cookieExceptions.label        "Wëjimczi…">
 <!ENTITY  cookieExceptions.accesskey    "W">

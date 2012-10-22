@@ -68,7 +68,7 @@
 <!ENTITY updateTab.label                 "Aktualizacjô">
 
 <!ENTITY updateApp.label                 "Aktualizacjô programù &brandShortName;:">
-<!ENTITY updateAuto.label                "Automatno instalëjë aktualizacje (bédowóné: zwikszóny bezpiék)">
+<!ENTITY updateAuto.label                "Automatno instalëjë aktualizacje (bédowóné: zwikszóny bezpiek)">
 <!ENTITY updateAuto.accesskey            "A">
 
 <!ENTITY updateOthers.label              "Aktualizëjë automatno:">
@@ -108,7 +108,7 @@
 <!ENTITY certSelection.description       "Żlë serwer żądô certifikatu brëkòwnika:">
 <!ENTITY certs.auto                      "wëbierzë certifikat automatno">
 <!ENTITY certs.auto.accesskey            "a">
-<!ENTITY certs.ask                       "wiedno pëtôj">
+<!ENTITY certs.ask                       "wiedno pitôj">
 <!ENTITY certs.ask.accesskey             "p">
 <!ENTITY viewCerts.label                 "Wëskrzëni certifikatë">
 <!ENTITY viewCerts.accesskey             "W">
