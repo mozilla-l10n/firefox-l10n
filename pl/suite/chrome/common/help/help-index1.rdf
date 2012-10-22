@@ -966,7 +966,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
          nc:name="praca w&nbsp;trybie offline"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1200,7 +1200,7 @@
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
          nc:name="poczta i&nbsp;grupy dyskusyjne w&nbsp;trybie offline"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1259,7 +1259,7 @@
      <rdf:li>
        <rdf:Description ID="Working_Offline"
          nc:name="praca w&nbsp;trybie offline"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences"
