@@ -1,834 +1,526 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  %brandDTD;
-]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" > %brandDTD;]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Organizing Your Messages and Controlling Junk</title>
-<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
-<link rel="stylesheet" href="chrome://communicator/skin/smileys.css"
-      type="text/css"/>
+  <title>Organizowanie wiadomości oraz kontrolowanie niechcianej poczty</title>
+  <link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
+  <link rel="stylesheet" href="chrome://communicator/skin/smileys.css" type="text/css"/>
 </head>
+
 <body>
-<h1 id="organizing_your_messages">Organizing Your Messages</h1>
+
+<h1 id="organizing_your_messages">Organizowanie wiadomości</h1>
 
 <div class="contentsBox">
   <ul>
-    <li><a href="#creating_a_folder">Creating a Folder</a></li>
-    <li><a href="#renaming_a_folder">Renaming a Folder</a></li>
-    <li><a href="#moving_or_copying_a_folder">Moving or Copying a
-      Folder</a></li>
-    <li><a href="#filing_messages_in_folders">Filing Messages in
-      Folders</a></li>
-    <li><a href="#sharing_folders_with_other_users">Sharing Folders With Other
-      Users (IMAP Only)</a></li>
-    <li><a href="#tagging_messages">Tagging Messages</a></li>
-    <li><a href="#marking_or_flagging_messages">Marking or Flagging
-      Messages</a></li>
-    <li><a href="#using_message_views">Using Message Views</a></li>
-    <li><a href="#creating_message_filters">Creating Message Filters</a></li>
-    <li><a href="#searching_through_messages">Searching Through
-      Messages</a></li>
+    <li><a href="#creating_a_folder">Tworzenie folderu</a></li>
+    <li><a href="#renaming_a_folder">Zmiana nazwy folderu</a></li>
+    <li><a href="#moving_or_copying_a_folder">Przenoszenie lub kopiowanie folderu</a></li>
+    <li><a href="#filing_messages_in_folders">Umieszczanie wiadomości w folderach</a></li>
+    <li><a href="#sharing_folders_with_other_users">Współdzielenie folderów z innymi użytkownikami (tylko IMAP)</a></li>
+    <li><a href="#tagging_messages">Etykietowanie wiadomości</a></li>
+    <li><a href="#marking_or_flagging_messages">Zaznaczanie lub flagowanie wiadomości</a></li>
+    <li><a href="#using_message_views">Używanie widoków wiadomości</a></li>
+    <li><a href="#creating_message_filters">Tworzenie filtrów wiadomości</a></li>
+    <li><a href="#searching_through_messages">Wyszukiwanie w wiadomościach</a></li>
   </ul>
 </div>
 
-<h2 id="creating_a_folder">Creating a Folder</h2>
+<h2 id="creating_a_folder">Tworzenie folderu</h2>
 
-<p>To create a message folder, begin from the Mail window:</p>
+<p>Aby utworzyć katalog na wiadomości, należy w oknie Kuriera Poczty:</p>
 
 <ol>
-  <li>Open the File menu, choose New, and then Folder. You see the New Folder
-    dialog box.</li>
-  <li>Type the name of the folder.</li>
-  <li>Click the drop-down list and choose a folder location and click OK. Your
-    new folder appears in your Mail Folders list.</li>
+  <li>Z menu Plik wybrać Nowy, a następnie Podfolder.</li>
+  <li>Podać nazwę dla folderu.</li>
+  <li>Z rozwijanej listy wybrać lokalizację i potwierdzić, naciskając klawisz OK. Nowy utworzony folder pojawi się na liście folderów.</li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="renaming_a_folder">Renaming a Folder</h2>
+<h2 id="renaming_a_folder">Zmiana nazwy folderu</h2>
 
-<p>To rename an existing folder, begin from the Mail window:</p>
+<p>Aby zmienić nazwę istniejącego juz folderu, należy w oknie Kuriera Poczty:</p>
 
 <ol>
-  <li>Select the folder you want to rename.</li>
-  <li>Open the File menu and choose Rename Folder. You see the Rename Folder
-    dialog box.</li>
-  <li>Type the new name and click OK.</li>
+  <li>Wybrać katalog, którego nazwa ma zostać zmieniona.</li>
+  <li>Po wskazaniu na folder z menu plik wybrać Zmień nazwę folderu. Pojawi się okno zmiany nazwy.</li>
+  <li>Należy podać nową nazwę folderu i potwierdzić naciskając przycisk OK.</li>
 </ol>
 
-<p><strong>Note</strong>: If you rename a folder that you&apos;ve been using to
-  store <a href="#creating_message_filters">filtered messages</a>, the filter
-  will automatically update to use the renamed folder.</p>
+<p><strong>Uwaga</strong>: jeżeli zostanie zmieniona nazwa folderu, w którym są przechowywane <a href="#creating_message_filters">przefiltrowane wiadomości</a>, filtr zostanie automatycznie uaktualniony tak, aby używał przemianowanego folderu.</p>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="moving_or_copying_a_folder">Moving or Copying a Folder</h2>
+<h2 id="moving_or_copying_a_folder">Przenoszenie lub kopiowanie folderu</h2>
 
-<p>You can copy a folder and its contents to another mail account, or move a
-  folder within the same mail account.</p>
+<p>Foldery wraz z zawartością można kopiować pomiędzy kontami pocztowymi lub przenosić do innych folderów w obrębie tego samego konta.</p>
 
-<p>To move or copy a folder, begin from the Mail window:</p>
+<p>Aby przenieść lub skopiować folder, w głównym oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Select the folder you want to move or copy.</li>
-  <li>Do one of the following:
+  <li>Wybrać folder, który ma być przeniesiony bądź skopiowany.</li>
+  <li>Wykonać jedno z poniższych:
     <ul>
-      <li>To move the folder under another folder within the same account, drag
-        the folder over the name of the other folder. The folder you moved
-        becomes a subfolder of the other folder.</li>
-      <li>To copy the folder to another account, drag the folder over the name
-        of another account.</li>
-      <li>To copy the folder under another folder in another account, drag the
-        folder over the name of another folder in another account. The folder
-        you copied becomes a subfolder of the other folder.</li>
+      <li>Aby przenieść folder do innego folderu w obrębie tego samego konta, należy przeciągnąć wybrany folder na nazwę docelowego folderu. Przeniesiony folder stanie się jego podfolderem.</li>
+      <li>Aby skopiować folder do innego konta, należy przeciągnąć folder na nazwę wybranego konta.</li>
+      <li>Aby skopiować folder do innego folderu innego konta, należy przeciągnąć folder na nazwę innego folderu w innym koncie. Skopiowany folder stanie się podfolderem.</li>
     </ul>
   </li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="filing_messages_in_folders">Filing Messages in Folders</h2>
+<h2 id="filing_messages_in_folders">Umieszczanie wiadomości w folderach</h2>
 
-<p>You can move messages from one folder to another by using either of these
-  methods:</p>
+<p>Wiadomości pomiędzy katalogami można przenosić:</p>
 
 <ul>
-  <li>Select the message, click the File button on the toolbar, and choose the
-    destination folder.</li>
-  <li>Drag and drop messages into the desired folder.
+  <li>Zaznaczając wiadomość i naciskając przycisk Przenieś, wskazując folder docelowy.</li>
+  <li>Przeciągając wiadomości na wybrany docelowy folder.
 
-    <p><strong>Note</strong>: If you drag and drop a message from an IMAP or
-      POP mail server folder to a local folder on your hard drive, the message
-      is moved to the local folder and removed from the server folder.</p>
+    <p><strong>Uwaga</strong>: podczas przeciągania wiadomości z folderu serwera IMAP lub POP do lokalnego katalogu (na dysku komputera), wiadomość jest przenoszona do folderu lokalnego i usuwana z folderu na serwerze.</p>
   </li>
 </ul>
 
-<p>To copy a message from one folder to another:</p>
+<p>Aby skopiować wiadomość z folderu do folderu, należy:</p>
 
 <ol>
-  <li>Select the message and right-click to display the pop-up menu.</li>
-  <li>Select <q>Copy To</q> and then select the destination account and folder
-    from the drop-down list.</li>
+  <li>Wybrać folder i wywołać menu kontekstowe klikając na nim prawym przyciskiem myszy.</li>
+  <li>Wybrać <q>Kopiuj do</q> i w rozwijanym menu wskazać konto oraz folder docelowy.</li>
 </ol>
 
-<p><strong>Tip</strong>: Alternatively, you can copy a message between folders
-  by holding down the Shift key while dragging the message from the message
-  list over another folder.</p>
+<p><strong>Wskazówka</strong>: wiadomości można również kopiować pomiędzy folderami, przytrzymując klawisz Shift podczas przeciągania wiadomości na wybrany folder.</p>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="sharing_folders_with_other_users">Sharing Folders With Other Users
-  (IMAP Only)</h2>
+<h2 id="sharing_folders_with_other_users">Współdzielenie folderów z innymi użytkownikami (tylko IMAP)</h2>
 
-<p>Users with IMAP mail accounts can share mail folders with other users on the
-  same network. Sharing folders allows several users to see and work with the
-  same messages, similar to a newsgroup. To use shared folders, your IMAP mail
-  server must support Access Control List (ACL) management. Check with your
-  system administrator or help desk if you are not sure that shared folders
-  are supported by your IMAP mail server.</p>
+<p>Użytkownicy posiadający konta na serwerach z obsługą protokołu IMAP mogą współdzielić katalogi poczty z innymi użytkownikami tej samej sieci. Współdzielenie katalogów pozwala kilku użytkownikom widzieć i pracować na tych samych wiadomościach, podobnie jak w grupach dyskusyjnych. Aby współdzielić katalogi, serwer IMAP musi obsługiwać ACL (Access Control List). W razie wątpliwości, czy współdzielenie katalogów jest obsługiwane, można to sprawdzić, kontaktując się z administratorem lub pomocą techniczną.</p>
 
-<p>To share a mail folder with other users on your network, or to view sharing
-  information for a folder, begin from the Mail window:</p>
+<p>Aby współdzielić folder z innymi użytkownikami w sieci lub wyświetlić informacje odnośnie współdzielenia dla folderu, w głównym oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Within an IMAP account, select a folder that you want to share, or select
-    a folder whose sharing privileges you want to view.
+  <li>Wybrać folder konta IMAP przeznaczony do współdzielenia lub wybrać folder, którego ustawienia udostępnienia mają zostać wyświetlone.
 
-    <p>Folders listed under Local Folders, or folders listed under a POP mail
-      account cannot be shared.</p>
+    <p>Foldery należące do lokalnych folderów lub kont pocztowych typu POP nie mogą być współużytkowane.</p>
   </li>
-  <li>Open the Edit menu, and choose Folder Properties.</li>
-  <li>Click the Sharing tab.</li>
-  <li>Click Privileges. You may be prompted to enter your network user name and
-    password.
+  <li>Z menu Edycja wybrać Właściwości folderu.</li>
+  <li>Wybrać kartę Współużytkowanie.</li>
+  <li>Wybrać uprawnienia. Może wystąpić konieczność podania nazwy użytkownika i hasła.
 
-    <p>The Privileges button is only available if the IMAP mail server allows
-      you to set folder sharing privileges. If this button is not available,
-      you can view the folder sharing privileges for this folder but cannot
-      change them.</p>
+    <p>Przycisk uprawnień dostępny jest tylko jeżeli uprawnienia użytkownika pozwalają na zmianę uprawnień dla tego folderu. Jeżeli przycisk jest niewidoczny, możliwe jest wyświetlenie uprawnień współużytkowania folderu, lecz ich zmiana nie jest dostępna.</p>
   </li>
-  <li>Follow the instructions on the screen to add users and to set their
-    folder access privileges.
+  <li>Aby dodać użytkowników i przydzielić im uprawnienia współużytkowania, należy podążać za instrukcjami wyświetlanymi przez program.
     <ul>
-      <li><strong>Read privileges</strong>: Users can read messages and copy
-        their contents, but they cannot modify or delete messages, or copy
-        messages into the folder. Users can flag messages as read or unread.
-        See <a href="#marking_or_flagging_messages">Marking or Flagging
-        Messages</a> for instructions on flagging messages.</li>
-      <li><strong>Read and Write privileges</strong>: In addition to Read
-        privileges, users can modify and delete messages. Users can also copy
-        or move messages into the folder.</li>
-      <li><strong>Manage privileges</strong>: In addition to Read and Write
-        privileges, users can add and remove users and change their folder
-        permissions.</li>
+      <li><strong>Uprawnienia odczytu</strong>: użytkownicy mogą odczytywać wiadomości, jednak nie mogą ich modyfikować, usuwać lub kopiować wiadomości do folderu. Użytkownicy mogą oznaczać wiadomości flagą jako przeczytane lub nieprzeczytane. Szczegóły dotyczące oznaczania wiadomości flagą można znaleźć w rozdziale <a href="#marking_or_flagging_messages">Zaznaczanie lub flagowanie wiadomości</a>.</li>
+      <li><strong>Uprawnienia odczytu i zapisu</strong>: w odróżnieniu od uprawnień tylko do odczytu, użytkownicy mający te uprawnienia mogą dodatkowo modyfikować i usuwać wiadomości oraz przenosić lub kopiować wiadomości do folderu.</li>
+      <li><strong>Uprawnienia zarządzania</strong>: w odróżnieniu od uprawnień odczytu i zapisu, użytkownicy mający te uprawnienia mogą dodatkowo dodawać i usuwać użytkowników oraz zmieniać ich uprawnienia względem folderu.</li>
     </ul>
   </li>
-  <li>Click OK to confirm your changes.</li>
-  <li>Click OK to close the Folder Properties dialog box.</li>
+  <li>Aby zatwierdzić zmiany, należy nacisnąć przycisk OK.</li>
+  <li>Aby zamknąć okno właściwości folderu, należy nacisnąć przycisk OK.</li>
 </ol>
 
-<p>In the list of folders for your mail account, a shared folder displays a
-  distinctive folder icon to indicate that it is shared.</p>
+<p>Współużytkowany folder posiada inną ikonę w widoku drzewa folderów konta pocztowego, aby podkreślić, że jest współużytkowany.</p>
 
-<p>To send a message that tells others how they can subscribe to your shared
-  folder, begin from the Mail window:</p>
+<p>Aby wysłać wiadomość powiadamiającą innych użytkowninków o sposobie, w jaki mogą zasubskrybować współużytkowany folder, w głównym oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Select the shared folder.</li>
-  <li>Right-click to display a pop-up menu, and choose Copy Folder
-    Location.</li>
-  <li>Click Compose to display a Mail compose window.</li>
-  <li>Click in the message body, open the Edit menu, and choose Paste.</li>
-  <li>Address the message, type a subject, and type the message text. Tell
-    message recipients that they can subscribe to the shared folder by clicking
-    the link you pasted into the message.
-
-    <p>Only message recipients who share the same network will be able to
-      subscribe to your shared folder.</p>
+  <li>Wybrać współużytkowany folder.</li>
+  <li>Wywołać menu kontekstowe, klikając prawym przyciskiem myszy na ikonie folderu, a następnie wybrać Kopiuj adres folderu.</li>
+  <li>Wybrać Nowa, aby wyświetlić okno tworzenia wiadomości.</li>
+  <li>Przenieść zaznaczenie na treść wiadomości (np. poprzez wskazanie myszką) i z menu Edycja wybrać Wklej.</li>
+  <li>Zaadresować wiadomość, nadać temat oraz dodać treść wiadomości. Warto wyjaśnić adresatom, że mogą zasubskrybować współużytkowany folder poprzez otworzenie wklejonego wcześniej odnośnika.
+    
+    <p>Tylko adresaci wiadomości znajdujący się w tej samej sieci będą mieli możliwość subskrybcji współużytkowango folderu.</p>
   </li>
-  <li>Click Send.</li>
+  <li>Wybrać Wyślij.</li>
 </ol>
 
-<h3 id="subscribing_to_a_shared_folder">Subscribing to a Shared Folder</h3>
+<h3 id="subscribing_to_a_shared_folder">Subskrybowanie współużytkowanego folderu</h3>
 
-<p>Subscribing to a shared folder is similar to subscribing to a newsgroup. To
-  subscribe to a shared folder, begin from the Mail window:</p>
+<p>Subskrybowanie współużytkowanego folderu jest podobne do subskrybowania grup dyskusyjnych. Aby zasubskrybować współużytkowany folder, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Open the File menu and choose Subscribe. You see the Subscribe dialog
-    box.</li>
-  <li>If necessary, click the Account drop-down list to choose another IMAP
-    mail account.</li>
-  <li>Select the folder that you want to subscribe to.</li>
-  <li>Click Subscribe or click in the Subscribe column next to the folder. You
-    see a checkmark next to each folder to which you subscribe. Click
-    Unsubscribe to cancel a selection.</li>
-  <li>Click OK. The list of your subscribed folders appears in the Mail
-    window.</li>
+  <li>Z menu Plik wybrać Subskrybuj. Pojawi się okno dialogowe subskrypcji.</li>
+  <li>Jeżeli zachodzi taka konieczność, to z rozwijanej listy należy wybrać właściwe konto IMAP.</li>
+  <li>Wskazać folder do subskrybcji.</li>
+  <li>Wybrać Subskrybuj lub zaznaczyć pole w kolumnie subskrybcji. Przy każdym subskrybowanym folderze widoczne jest zaznaczenie. Aby anulować subskrybcję, należy wybrać Anuluj subskrybcję.</li>
+  <li>Wybrać OK. Lista subskrybowanych folderów zostanie wyświetlona w widoku drzewa folderów w głównym oknie programu.</li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="tagging_messages">Tagging Messages</h2>
+<h2 id="tagging_messages">Etykietowanie wiadomości</h2>
 
-<p>You can apply tags to messages to help you organize and prioritize them.
-  You can apply a standard color and tag text to messages, or you can create
-  your own color and tag text to suit your needs.</p>
+<p>W celu łatwiejszego zarządzania wiadomościami można nadawać im etykiety. Do wyboru są standardowe nazwy i kolory etykiet, można też zmodyfikować je i dostosować do własnych potrzeb.</p>
 
-<p>One powerful way to use tags is to set up a message filter to
-  automatically tag incoming messages from a specific sender. For example,
-  you can set up a message filter so that incoming messages from your boss are
-  tagged <q>Important</q> and appear in red. See
-  <a href="#creating_message_filters">Creating Message Filters</a> for more
-  information.</p>
+<p>Stworzenie filtru znacznie ułatwia zarządzanie wiadomościami, umożliwiając automatyczne nadawanie etykiet pobieranym wiadomościom od wybranych nadawców. Możliwe jest stworzenie filtru, który wiadomości od szefa będzie oznaczał jako <q>Ważne</q> &mdash; ich tytuły będą wyróżniane kolorem czerwonym. Więcej informacji na ten temat w rozdziale <a href="#creating_message_filters">Tworzenie filtrów wiadomości</a>.</p>
 
-<h3 id="applying_a_tag">Applying a Tag</h3>
+<h3 id="applying_a_tag">Nadawanie etykiety</h3>
 
-<p>To apply a tag to a message, begin from the Mail window:</p>
+<p>Aby nadać etykietę wiadomości, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Select the message you want to tag.</li>
-  <li>Open the Message menu, and choose Tag.</li>
-  <li>Choose the tag you want to apply from the list.</li>
+  <li>Wybrać wiadomość, której ma zostać nadana etykieta.</li>
+  <li>Z menu Wiadomość wybrać Etykieta.</li>
+  <li>Wybrać z listy etykietę do nadania.</li>
 </ol>
 
-<p>The message summary row changes to the color of the tag with the topmost
-  priority. To see the tag text, you must display the Tags column in the Mail
-  window.</p>
+<p>Wiersz z podsumowaniem wiadomości zostanie wyróżniony kolorem etykiety z najwyższym priorytetem, a Nagłówek wiadomości kolorem wybranej etykiety. Aby zobaczyć tekst etykiety, należy wyświetlić kolumnę etykiet w głównym oknie programu.</p>
 
-<p><strong>Tip</strong>: To quickly tag messages or remove a tag, select
-  one or more messages and press one of the number keys 1-9 on your keyboard.
-  Press 0 to remove all tags.</p>
+<p><strong>Wskazówka</strong>: aby szybko nadawać lub usuwać etykiety wiadomości, należy zaznaczyć jedną lub więcej wiadomości i wybrać na klawiaturze jeden z klawiszy z cyframi od 1 do 9. Aby usunąć wszystkie etykiety należy wybrać 0.</p>
 
-<p>To display the Tags column, begin from the Mail window:</p>
+<p>Aby wyświetlić kolumnę etykiet, w głównym oknie Kuriera Poczty należy:</p>
 
 <ul>
-  <li>Click the Show/Hide Columns icon <img src="images/columns.png" alt=""/>
-    and select Tags from the list.</li>
+  <li>Kliknąć ikonę Pokaż/Ukryj kolumny <img src="images/columns.png" /> i wybrać na liście Etykieta.</li>
 </ul>
 
-<p><strong>Note</strong>: Message tags apply on a per-account basis. For
-  example, if you move or copy a tagged message to another mail account, the
-  tags are not preserved. Similarly, if you forward a tagged message to
-  another recipient, the tags are not preserved. For IMAP mail accounts, if
-  your IMAP server supports user-defined keywords, message tags will persist
-  when you log in to your mail account from a different location.</p>
+<p><strong>Wskazówka</strong>: etykiety są powiązane ze skonfigurowanymi kontami. Przykładowo, jeżeli wiadomość z nadaną etykietą zostanie przeniesiona lub skopiowana do innego konta, etykieta nie zostanie zachowana. Podobnie, jeżeli wiadomość z nadaną etykietą zostanie przekazana do innego adresata, etykieta wiadomości również nie zostanie zachowana. W przypadku kont IMAP, jeżeli serwer IMAP obsługuje konfigurowalne przez użytkowników słowa kluczowe, etykiety wiadomości zostaną zachowane i będą dostępne podczas logowania z innej lokalizacji lub innego programu.</p>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h3 id="customizing_tags">Customizing Tags</h3>
+<h3 id="customizing_tags">Dostosowywanie etykiet</h3>
 
-<p>You can customize tag colors and text and their order to suit your needs.</p>
+<p>Możliwe jest dostosowanie kolorów etykiet oraz ich tekstu i kolejności do własnych potrzeb.</p>
 
-<p>To customize tags, begin from the Mail window:</p>
+<p>Aby dostosować etykiety, w głównym oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences. You see the
-    Preferences dialog box.</li>
-  <li>Under the Mail &amp; Newsgroups category, click Tags. (If no
-    subcategories are visible, double-click Mail &amp; Newsgroups to expand the
-    list.)</li>
-  <li>Edit the tag text, or replace it with your own tag text. The tag
-    can be up to 32 characters long.</li>
-  <li>To change the tag color, click the color block next to that tag and
-    select a new color.</li>
-  <li>Click the Move Up and Move Down buttons to reorder the tags. Tags at
-    the top will have higher priority when coloring messages.</li>
-  <li>Click OK.</li>
+  <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
+  <li>W&nbsp;kategorii Kurier Poczty wybrać Etykiety. Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Kurier Poczty.</li>
+  <li>Zmienić tekst etykiety lub zastąpić własnym. Tekst etykiety może zawierać do 32 znaków.</li>
+  <li>Aby zmienić kolor etykiety, należy wybrać pole koloru obok tekstu etykiety i wskazać nowy kolor.</li>
+  <li>Naciskająć przyciski W górę i W dół zmienić kolejność etykiet. Etykiety na górze listy będą miały większy priorytet przy oznaczaniu wiadomości kolorami.</li>
+  <li>Nacisnąć przycisk OK.</li>
 </ol>
 
-<p>Your changes are immediately applied to all tagged messages in all your
-  mail accounts.</p>
+<p>Zmiany zostaną natychmiast zastosowane dla wszystkich wiadomości z nadanymi etykietami we wszystkich skonfigurowanych kontach.</p>
 
-<p><strong>Tip</strong>: To undo all customizations and restore just the
-  default tags' text and colors, follow the steps above to display the tag
-  settings, and click Restore Defaults.</p>
+<p><strong>Wskazówka</strong>: aby zrezygnować z ustawień użytkownika i przywrócić domyślne kolory i teksty etykiet, należy postąpić według powyższej instrukcji i wybrać Przywróć Domyślne.</p>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h3 id="sorting_messages_by_tags">Sorting Messages by Tags</h3>
+<h3 id="sorting_messages_by_tags">Sortowanie wiadomości według etykiet</h3>
 
-<p>To sort messages by tags, begin from the Mail window:</p>
+<p>Aby posortować wiadomości według etykiet, w głównym oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>To display the Tags column if it is hidden, click the Show/Hide Columns
-    icon <img src="images/columns.png" alt=""/> and select Tags from the
-    list.</li>
-  <li>Click the Tags column to sort messages by tags, and within each tag
-    type, to sort messages by date.</li>
+  <li>Aby wyświetlić kolumnę etykiet jeśli nie jest widoczna, należy kliknąć ikonę Pokaż/Ukryj kolumny <img src="images/columns.png" /> i wybrać na liście Etykieta.</li>
+  <li>Wskazać nagłówek kolumny, aby posortować wiadomości według etykiet. Wiadomości z takimi samymi etykietami zostaną posortowane według dat.</li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h3 id="removing_tags">Removing Tags</h3>
+<h3 id="removing_tags">Usuwanie etykiet</h3>
 
-<p>To remove a message tag, begin from the Mail window:</p>
+<p>Aby usunąć etykietę wiadomości, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Select one or more tagged messages.</li>
-  <li>Open the Message menu, and choose Tag.</li>
-  <li>Choose the tag you want to remove or <q>None</q> to remove all tags
-    from this message.</li>
+  <li>Zaznaczyć jedną lub więcej wiadomości z nadanymi etykietami.</li>
+  <li>Z menu Wiadomość wybrać Etykieta.</li>
+  <li>Wybrać etykietę do usunięcia lub <q>Brak</q>, aby usunąć wszystkie etykiety z tej wiadomości.</li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="marking_or_flagging_messages">Marking or Flagging Messages</h2>
+<h2 id="marking_or_flagging_messages">Zaznaczanie lub flagowanie wiadomości</h2>
 
-<p>You might want to mark a message you&apos;ve read as unread if you later
-  want to re-read the message or respond to it.</p>
+<p>Możliwe jest oznaczenie przeczytanej wiadomości jako nieprzeczytanej celem późniejszego ponownego jej przeczytania lub odpowiedzenia na nią.</p>
 
-<p>To mark a message as unread, begin from the Mail window:</p>
+<p>Aby oznaczyć wiadomość jako nieprzeczytaną, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Select a Mail or Newsgroup folder to display its messages.</li>
-  <li>Click in the Read column of each message you want to mark as unread.
-    Messages marked as unread display a <img src="images/mail_unread.png"
-    alt=""/> symbol in the Read column. Messages marked as read display a
-    <img src="images/mail_read.png" alt=""/> symbol in the Read column. If the
-    Read column is not visible, click the Show/Hide Columns icon
-    <img src="images/columns.png" alt=""/> and select Read from the list.</li>
+  <li>Wybrać katalog poczty lub grup dyskusyjnych, aby wyświetlić zawarte w nim wiadomości.</li>
+  <li>Wskazać każdą wiadomość do oznaczenia w kolumnie Przeczytano każdej wiadomości do oznaczenia jako nieprzeczytaną. Przy wiadomościach oznaczonych jako nieczytane wyświetlany jest symbol <img src="images/mail_unread.png" /> w kolumnie Przeczytano. Wiadomości oznaczone jako czytane wyróżniane są symbolem <img src="images/mail_read.png" /> w kolumnie Przeczytano. Jeżeli kolumna porzeczytano jest ukryta, należy wybrać ikonę Pokaż/Ukryj kolumny <img src="images/columns.png" /> i wskazać Przeczytano na liście.</li>
 </ol>
 
 <table>
   <tr>
-    <td colspan="2"><img src="images/mail_read_column.png" alt=""/></td>
+    <td colspan="4"><img src="images/mail_read_column.png" hspace="81" vspace="0" /></td>
   </tr>
   <tr>
-    <td><strong>Read column</strong></td>
+    <td width="80"></td>
+    <td><strong>Kolumna Przeczytano</strong></td>
   </tr>
 </table>
 
-<p>You can flag messages that you later want to download for
-  <a href="mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use">offline
-  use</a>.</p>
+<p>Możliwe jest oznaczenie wiadomości w celu późniejszego pobrania dla <a href="mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use">dostępności w trybie offline</a>.</p>
 
-<p>To flag messages, begin from the Mail window:</p>
+<p>Aby oznaczyć wiadomość, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Select a Mail or Newsgroup folder to display its messages.</li>
-  <li>Click in the Flag column of each message you want to download. A flag
-    <img src="images/mail_flag.png" alt=""/> appears where you clicked to
-    indicate that the message has been flagged. If the Flag column is not
-    visible, click the Show/Hide Columns icon <img src="images/columns.png"
-    alt=""/> and select Flag from the list.</li>
+  <li>Wybrać katalog poczty lub grup dyskusyjnych, aby wyświetlić zawarte w nim wiadomości.</li>
+  <li>Wskazać w kolumnie Oznaczono każdą wiadomość przeznaczoną do późniejszego pobrania. Oznaczenie flagą <img src="images/mail_flag.png" /> pojawia się po wskazaniu wiadomości. Jeżeli kolumna oznaczenia jest ukryta, należy kliknąć ikonę Pokaż/Ukryj kolumny <img src="images/columns.png" /> i wybrać z listy Oznaczono.</li>
 </ol>
 
 <table>
   <tr>
-    <td colspan="2"><img src="images/mail_flag_column.png" alt=""/></td>
+    <td colspan="4"><img src="images/mail_flag_column.png" hspace="81" vspace="0" /></td>
   </tr>
   <tr>
-    <td><strong>Flag column</strong></td>
+    <td width="80"></td>
+    <td><strong>Kolumna Oznaczone</strong></td>
   </tr>
 </table>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="using_message_views">Using Message Views</h2>
+<h2 id="using_message_views">Używanie widoków wiadomości</h2>
 
-<p>You can apply preset or custom message views to help you manage messages by
-  filtering displayed messages.</p>
+<p>Widok listy wiadomości może być modyfikowany przy użyciu filtrów w celu
+łatwiejszego zarządzania wiadomościami.</p>
 
-<p>To use a message view, open the View menu and choose Messages. Choose an
-  option from the submenu.</p>
+<p>Aby użyć filtrowania widoku wiadomości, należy z menu Widok wybrać Wiadomości. Następnie wybrać jedną z opcji z listy.</p>
 
 <ul>
-  <li><strong>All</strong>: Choose this option to view all messages.</li>
-  <li><strong>Unread</strong>: Choose this option to view only unread
-    messages.</li>
-  <li><strong>Tags</strong>: Choose a <a href="#tagging_messages">tag</a>
-    to view tagged messages.</li>
-  <li><strong>Custom Views</strong>: Choose a custom view. By default you have
-    five preset views: <q>People I Know</q>, <q>Recent Mail</q>, <q>Last 5
-    Days</q>, <q>Not Junk</q>, and <q>Has Attachments</q>.</li>
-  <li><strong>Customize</strong>: Choose this option to view or modify
-    settings for custom views or create your own custom view.</li>
+  <li><strong>Wszystkie</strong> – wszystkie wiadomości zostaną wyświetlone.</li>
+  <li><strong>Nieczytane</strong> – tylko wiadomości oznaczone jako nieczytane zostaną wyświetlone.</li>
+  <li><strong>Etykiety</strong> – po wybraniu <a href="#tagging_messages">Etykiety</a> zostaną wyświetlone wiadomości z wybraną etykietą.</li>
+  <li><strong>Użytkownika</strong> – domyślnie dostępnych jest pięć rodzajów skonfigurowanych widoków: <q>Od znajomych</q>, <q>Ostatnie wiadomości</q>, <q>Z ostatnich 5 dni</q>, <q>Pożądane</q> oraz <q>Posiadające załączniki</q>.</li>
+  <li><strong>Dostosuj</strong> – pozwala modyfikować widoki użytkownika.</li>
 </ul>
 
-<p><strong>Tip</strong>: You can quickly change the message view from the View 
-  box in the Search Bar. If you do not see the Search Bar, open the View menu,
-  choose Show/Hide, and then choose Search Bar.</p>
+<p><strong>Wskazówka</strong>: można szybko zmieniać tryby widoków wiadomości przy pomocy panelu Wyświetl z paska narzędzi wyszukiwania. Jeżeli pasek narzędzi wyszukiwania jest ukryty, należy z menu Widok wybrać Pokaż/Ukryj, a następnie Pasek narzędzi wyszukiwania.</p>
 
-<table>
-  <tr>
-    <td colspan="2"><img src="images/mail_quicksearch.png" alt=""/></td>
-  </tr>
-  <tr>
-    <td style="width: 80px;"></td>
-    <td><strong>Quick mail search bar</strong></td>
-  </tr>
-</table>
+<p><img src="images/mail_quicksearch.png" /></p>
 
-<h3 id="creating_a_custom_view">Creating a Custom View</h3>
+<h3 id="creating_a_custom_view">Dostosowywanie widoku</h3>
 
-<p>You can create custom message views to only display messages matching
-  certain criteria.</p>
+<p>Możliwe jest dostosowanie widoku listy wiadomości, aby wyświetlić jedynie
+wiadomości spełniających wybrane kryteria.</p>
 
-<p>To change or create a custom message view:</p>
+<p>W celu zmiany lub stworzenia nowego widoku dla listy wiadomości, należy:</p>
 
 <ol>
-  <li>Open the View menu, choose Messages, and then choose Customize.</li>
-  <li>To create a new view, click New. To modify a view, select a view and
-    click Edit.</li>
-  <li>Type a name for the message view.</li>
-  <li>Select the matching option you want Mail to use: <q><em>all</em> of the
-    following</q> conditions (criteria) you choose, or <q><em>any</em> of the
-    following</q>.</li>
-  <li>Use the drop-down lists to choose the search criteria (for example,
-    <q>Subject</q>, <q>Sender</q>, <q>contains</q>, <q>doesn&apos;t
-    contain</q>) and then type the text or phrase you want to match.
+  <li>Z menu Widok wybrać Wiadomości i następnie Dostosuj.</li>
+  <li>Aby stworzyć własny widok, należy wybrać Nowy. Aby zmodyfikować istniejący widok, należy wybrać widok oraz nacisnąć przycisk Edytuj.</li>
+  <li>Podać nazwę dla widoku.</li>
+  <li>Wybrać odpowiednie opcje: <q>spełniają <em>wszystkie</em> poniższe kryteria</q> lub <q>spełniają <em>dowolne</em> poniższe kryteria</q>.</li>
+  <li>Z rozwijanej listy należy wybrać kryteria przeszukiwania wiadomości (np. <q>Temat</q>, <q>Nadawca</q>, <q>zawiera</q>, <q>nie zawiera</q>), a następnie wpisać warunek przeszukiwania.
 
-    <p><strong>Tip</strong>: To search for messages that contain a header not
-      listed in the first drop-down menu (for example, if you want to search
-      for messages that include the header Resent-From), choose Customize and
-      type the header you want to search for. &brandShortName; Mail &amp;
-      Newsgroups adds your custom header to the drop-down list, so you can then
-      choose it to search for matching entries. Make sure you enter the custom
-      header correctly, since Mail will only find entries that exactly match
-      what you type.</p>
-  </li>
-  <li>Click More to add criteria and Fewer to remove them.</li>
-  <li>Click OK to confirm your settings.</li>
-  <li>Click OK in the Customize Message Views dialog box. The selected view 
-    setting applies automatically.</li>
+    <p><strong>Wskazówka</strong>: aby wyszukać wiadomości zawierające nagłówek nie występujący na pierwszej rozwijanej liście (np. zawierające nagłówek Resent-From), należy wybrać Dostosuj, a następnie podać nazwę nagłówka, pod kątem którego mają zostać przeszukane wiadomości. Kurier Poczty &brandShortName; doda skonfigurowany nagłówek do rozwijanej listy, aby możliwy był jego wybór i wyszukiwanie pod jego kątem. Dobrze jest się upewnić, czy wprowadzony nagłówek jest poprawny, ponieważ program wyszuka tylko wiadomości, które dokładnie spełniają wprowadzony
+warunek.</p></li>
+  <li>Wybrać Dodaj nową regułę w celu dodania kryteriów lub Usuń tę regułę, aby usunąć wskazane kryteria przeszukiwania.</li>
+  <li>Nacisnąć przycisk OK, aby potwierdzić ustawienia.</li>
+  <li>Nacisnąć przycisk OK w oknie Dostosowywania widoku wiadomości. Wybrane ustawienia widoku zostaną zastosowane automatycznie.</li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="creating_message_filters">Creating Message Filters</h2>
+<h2 id="creating_message_filters">Tworzenie filtrów wiadomości</h2>
 
-<p>Message filters allow you to manage and organize your messages. You can
-  create message filters that &brandShortName; Mail &amp; Newsgroups uses to
-  automatically perform certain actions on incoming messages based on criteria
-  you specify. For example, you can create a message filter that automatically
-  moves incoming messages to a particular folder. Message filters operate on a
-  per-account basis.</p>
+<p>Filtry wiadomości pozwalają na łatwe organizowanie zarządzania wiadomościami. Można tworzyć filtry wiadomości, które Kurier Poczty &brandShortName; zastosuje, aby automatycznie wykonać pewne operacje na przychodzących wiadomościach według zdefiniowanych reguł. Przykładowo, można stworzyć filtr, który automatycznie przeniesie przychodzącą wiadomość do wybranego folderu. Filtry wiadomości są zależne od kont pocztowych (przynależą do każdego z osobna).</p>
 
-<p>If you are not already viewing the Message Filters dialog box, begin from
-  the Mail window:</p>
+<p>Aby wyświetlić okno filtrów wiadomości, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Open the Tools menu and choose Message Filters. You see the Message
-    Filters dialog box.</li>
-  <li>If you have multiple mail accounts, choose the one to which you want to
-    apply the filter.</li>
-  <li>Click New. You use the Filter Rules dialog box to specify the types of
-    messages to act on, and the actions you want the filter to perform.</li>
-  <li>Type a name for the filter.</li>
-  <li>Select when you want the filter to be applied. This setting enables you
-    to define some filters to be applied in an automatic way (when checking
-    mail), on demand (manually run), or both. <q>After classification</q> means
-    that junk and phishing controls will be run before applying the
-    filter.</li>
-  <li>Select the matching option you want Mail to use: <q><em>all</em> of the
-    following</q> conditions (criteria) you choose, <q><em>any</em> of the
-    following</q> conditions you choose, or <q><em>all messages</em></q>.</li>
-  <li>Use the drop-down lists to choose the search criteria (for example,
-    <q>Subject</q>, <q>Sender</q>, <q>contains</q>, <q>doesn&apos;t
-    contain</q>) and then type the text or phrase you want to match.
+  <li>Z menu Narzędzia wybrać Filtrowanie wiadomości.</li>
+  <li>W przypadku, gdy skonfigurowano więcej kont pocztowych, wybrać właściwe dla zastosowania filtrów.</li>
+  <li>Wybrać Nowy. W oknie Reguły filtrów należy określić reguły, według których filtr będzie sortował wiadomości oraz wykonywał na nich operacje.</li>
+  <li>Podać nazwę dla filtru.</li>
+  <li>Wybrać, kiedy filtry mają być stosowane. Ta opcja umożliwia wybranie sposobu stosowania filtrów: automatycznie (podczas sprawdzania poczty), w razie potrzeby (podczas ręcznego uruchamiania) bądź w obydwu przypadkach. <q>Po filtrowaniu niechcianych</q> oznacza, że przed zastosowaniem tego filtra, wiadomości będą sprawdzane, czy są porządane jak i czy nie są próbą oszustwa.</li>
+  <li>Wybrać odpowiednie opcje: <q>do wiadomości spełniających <em>wszystkie</em> kryteria</q>, <q>do wiadomości spełniających <em>dowolne</em> kryteria</q>, lub <q>do <em>wszystkich wiadomości</em></q>.</li>
+  <li>Z rozwijanej listy należy wybrać krytria przeszukiwania wiadomości (np. <q>Temat</q>, <q>Nadawca</q>, <q>zawiera</q>, <q>nie zawiera</q>), a następnie wpisać warunek przeszukiwania.
 
-    <p><strong>Tip</strong>: To search for messages that contain a header not
-      listed in the first drop-down menu (for example, if you want to search
-      for messages that include the header Resent-From), choose Customize and
-      type the header you want to search for. &brandShortName; Mail &amp;
-      Newsgroups adds your custom header to the drop-down list, so you can then
-      choose it to search for matching entries. Make sure you enter the custom
-      header correctly, since Mail will only find entries that exactly match
-      what you type.</p>
+    <p><strong>Wskazówka</strong>: aby wyszukać wiadomości zawierające nagłówek nie występujący na pierwszej rozwijanej liście (np. zawierające nagłówek Resent-From), należy wybrać Dostosuj i następnie podać nazwę nagłówka, pod kątem którego mają zostać przeszukane wiadomości. Kurier Poczty &brandShortName; doda skonfigurowany nagłówek do rozwijanej listy, aby możliwy był jego wybór i wyszukiwanie pod jego kątem. Dobrze jest się upewnić, czy wprowadzony nagłówek jest poprawny, ponieważ program wyszuka tylko wiadomości dokładnie spełniające wprowadzony warunek.</p>
   </li>
-  <li>Click <q>+</q> to add criteria and <q>-</q> to remove them.</li>
-  <li>Use the list to choose the action you want the filter to perform on the
-    messages (for example, Move Message To). Use <q>+</q> and <q>-</q> to add
-    or remove additional actions.
+  <li>Nacisnąć przycisk Dodaj nową regułę (+) w celu dodania kryteriów lub Usuń tę regułę (-), aby usunąć wskazane kryteria przeszukiwania.</li>
+  <li>Z rozwijanej listy wybrać operację, która ma zostać wykonana na wiadomościach (np. Przenieś wiadomość do). Nacisnąć przycisk Dodaj nową czynność (+) w celu dodania czynności lub Usuń tę czynność (-), aby usunąć wskazane czynności.
 
-    <p><strong>Tip</strong>: To automatically tag incoming messages, choose
-      <q>Tag Message</q> from the drop-down list.</p>
+    <p><strong>Wskazówka</strong>: aby automatycznie nadawać etykiety przychodzącym wiadomościom, należy z rozwijanej listy wybrać <q>Oznacz etykietą</q>.</p>
 
-    <p><strong>Tip</strong>: Message filters are applied one after another. It
-      could be that you don&apos;t want all filters to be run if one or more
-      messages match some conditions. For instance, you may want to tag all
-      messages from your boss&apos;s email address as <q>Important</q>, and
-      you may want all messages containing the word <q>Memorandum</q> in their
-      subject to be moved to a folder named <q>Pending Reads</q>, but you
-      don&apos;t want any message from your boss to be moved to another folder,
-      even if it contains <q>Memorandum</q> in the subject. So the first
-      message filter you define should match your boss&apos;s email address,
-      and would contain two actions: <q>Tag Message</q> as <q>Important</q> and
-      <q>Stop Filter Execution</q>.</p>
+    <p><strong>Wskazówka</strong>: filtry wiadomości są stosowane jeden po drugim. W przypadku, gdy nie wszystkie filtry powinny zostać zastosowane, np. gdy wszystkie wiadomości od szefa mają zostać oznaczone etykietą <q>Ważne</q> oraz wszystkie wiadomości zawierające słowo <q>Memorandum</q> w temacie mają być przeniesione do osobnego folderu, jednak wiadomości od szefa nie, nawet jeżeli zawierają słowo <q>Memorandum</q> w temacie, należy jako pierwszy filtr ustawić filtr zawierający adres e-mail szefa. Filtr ten powinien zawierać dwie czynności: <q>Oznacz etykietą</q> jako <q>Ważne</q> oraz <q>Zatrzymaj wykonywanie filtru</q>.</p>
   </li>
-  <li>If you have chosen <q>Move</q> or <q>Copy</q> message to a folder, then
-    select a destination folder in which to store the messages, or create a
-    new folder.</li>
-  <li>Click OK to confirm your settings.</li>
-  <li>To run filters on existing messages in a folder, select the folder
-    in the bottom dropdown list and click the <q>Run Now</q> button.</li>
-  <li>Click OK in the Message Filters dialog box. The filter begins filtering
-    incoming messages as soon as you click OK.</li>
+  <li>Jeśli wybrano <q>Przeniesienie</q> bądź <q>Kopiowanie</q> wiadomości, należy wybrać docelowy folder dla wiadomości lub stworzyć nowy.</li>
+  <li>Nacisnąć przycisk OK, aby zatwierdzić ustawienia.</li>
+  <li>Aby zastosować filtry na obecnych wiadomościach w folderze, należy wybrać folder z rozwijanej listy, a następnie nacisnąć przycisk <q>Filtruj</q>.</li>
+  <li>Nacisnąć przycisk OK w oknie fitrów wiadomości. Filtr zacznie działać w momencie potwierdzenia przyciskiem OK.</li>
 </ol>
 
-<p><strong>Note</strong>: You can also run message filters manually at any
-  time. In the Mail window, choose Tools, and then select Run Filters on Folder
-  to apply filters to the current folder, or Run Filters on Message to apply
-  filters to the selected message (if any).</p>
+<p><strong>Uwaga</strong>: filtry mogą być stosowane ręcznie w dowolnym momencie. W tym celu należy w oknie Kuriera Poczty wybrać Narzędzia, a następnie Zastosuj filtry w bieżącym folderze, aby zastosować filtry w obecnie wybranym folderze, bądź Zastosuj filtry na wiadomości, aby zastsować filtry na wybranej wiadomości (jeśli jakakolwiek wiadomość jest zaznaczona).</p>
 
-<p>To manage your filters, begin from the Mail window:</p>
+<p>Aby zarządzać filtrami, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Open the Tools menu and choose Message Filters. You see the Message
-    Filters dialog box.</li>
-  <li>If you have multiple mail accounts, choose the one to which you want to
-    apply the filter.</li>
-  <li>Choose from the following:
+  <li>Z menu Narzędzia wybrać Filtrowanie wiadomości.</li>
+  <li>W przypadku, gdy skonfigurowano więcej kont pocztowych, wybrać właściwe dla zastosowania filtrów.</li>
+  <li>Wybrać z poniższych:</li>
+  <li style="list-style: none">
     <ul>
-      <li><strong>To turn a filter on or off</strong>: Click the checkbox to
-        the right of the filter name to enable it, or click it again to turn it
-        off.</li>
-      <li><strong>To edit a filter</strong>: Select the filter name and click
-        Edit (or double-click the filter name). Use the Filter Rules dialog box
-        to make your changes.</li>
-      <li><strong>To delete a filter</strong>: Select the filter name and click
-        Delete.</li>
-      <li><strong>To change the order in which filters are applied</strong>: In
-        the filter list, click a filter&apos;s name, and click <q>Move Up</q>
-        or <q>Move Down</q> to move it.
+      <li><strong>Aby włączyć lub wyłączyć filtr</strong>: zaznaczyć pole po prawej stronie nazwy filtru, aby go włączyć lub odznaczyć, aby go wyłączyć.</li>
+      <li><strong>Aby zmienić filtr</strong>: należy wybrać nazwę fitru i nacisnąć przycisk Edytuj (lub podwójnie kliknąć na nazwie filtru), a następnie dokonać zmian w oknie dialogowym Reguły filtru.</li>
+      <li><strong>Aby usunąć filtr</strong>: należy wybrać nazwę filtru i nacisnąć przycisk Usuń.</li>
+      <li><strong>Aby zmienić kolejność, w jakiej fitry są aplikowane</strong>: na liście filtrów należy wybrać filtr i nacisnąć przycisk <q>Przenieś w górę</q> lub <q>Przenieś w dół</q>.
 
-        <p><strong>Note</strong>: Filters are applied to each incoming message
-          in the order you choose, until a filter action results in the message
-          being deleted or moved from the Inbox folder.</p>
+        <p><strong>Uwaga</strong>: filtry są aplikowane do każdej przychodzącej wiadomości w ustalonej kolejności, aż do momentu, w którym działanie filtru spowoduje usunięcie wiadomości lub jej przeniesienie z folderu Odebrane.</p>
       </li>
     </ul>
   </li>
-  <li>Click OK when you are done managing your filters. If you created a new
-    filter, it begins filtering incoming messages as soon as you click OK.</li>
+  <li>Nacisnąć przycisk OK po zakończeniu definiowania fitrów. Jeżeli utworzony został nowy filtr, to rozpocznie on działanie po naciśnięciu przycisku OK.</li>
 </ol>
 
-<p><strong>Note</strong>: If you delete a folder that you&apos;ve been using to
-  store filtered messages, the filter will no longer work. Incoming messages
-  that match the filter criteria will appear in your Inbox. If you rename or
-  move the folder, the filter will automatically update to use the renamed or
-  moved folder.</p>
+<p><strong>Uwaga</strong>: po usunięciu folderu, do którego filtr przenosił wiadomości, filtr przestanie działać, a przychodzące wiadomości spełniające określone w nim kryteria pozostaną w folderze Odebrane. Zmiana nazwy folderu lub zmiana jego położenia spowodują automatyczną aktualizację parametrów filtru, aby wciąż używał tego folderu.</p>
 
-<p><strong>Tip</strong>: If you have existing messages that you want to move to
-  another folder, use the Run Filters on Messages option in the Tools menu.</p>
+<p><strong>Wskazówka</strong>: aby przenieść wiadomości do innych folderów za pomocą filtrów, należy użyć opcji Zastosuj filtry w bieżącym folderze dostępnej w menu Narzędzia.</p>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h3 id="filtering_messages_from_a_specific_sender">Filtering Messages From a
-  Specific Sender</h3>
+<h3 id="filtering_messages_from_a_specific_sender">Filtrowanie wiadomości od określonego nadawcy</h3>
 
-<p>You can quickly create a filter for messages from a particular sender. For
-  example, if you want to automatically move all incoming messages from your
-  child&apos;s teacher into a folder called <q>School</q>, you can quickly set
-  up a filter to do this.</p>
+<p>Można szybko utworzyć filtr dla wiadomości od określonego nadawcy. Przykładowo, można szybko zdefiniować filtr, aby automatycznie przenosić do folderu <q>Szkoła</q> wszystkie wiadomości przychodzące od nauczyciela Twojego dziecka.</p>
 
-<p>To create a filter for messages from a specific sender, begin from the Mail
-  window:</p>
+<p>Aby utworzyć filtr dla wiadomości od określonego nadawcy, należy:</p>
 
 <ol>
-  <li>Select a message from a specific sender.</li>
-  <li>Open the Message menu and choose Create Filter From Message. Or, in the
-    message header pane, right click the sender name and choose Create Filter
-    From.</li>
-  <li>You see the Filter Rules dialog box. Using the sender&apos;s email
-    address, &brandShortName; prefills the filter matching criteria and the
-    filter action (Move Message to). You can change or add new rules to the
-    matching criteria.</li>
-  <li>Choose a destination folder in which to store the incoming messages from
-    the specified sender, or create a new folder. You can also choose other
-    actions for this filter, or change the default one.</li>
-  <li>Note that, if you leave the filter name empty, &brandShortName; will
-    provide a name for it based on the first criterion.</li>
-  <li>Click OK to confirm your settings. You see the
-    <a href="#creating_message_filters">Message Filters</a> dialog box, where
-    you can create, delete, or edit message filters.</li>
-  <li>Click OK. The filter begins filtering incoming messages from the
-    specified sender as soon as you click OK.</li>
+  <li>Wybrać wiadomość od tego nadawcy.</li>
+  <li>Z menu Wiadomość wybrać Utwórz filtr na podstawie wiadomości bądź w nagłówku wiadomości kliknąć prawym przyciskiem myszki na nadawcy i wybrać Utwórz wiadomość na podstawie.</li>
+  <li>Wyświetlone zostanie okno Reguły filtru z wpisanym adresem nadawcy jako kryterium filtru oraz wybrane działanie filtru (Przenieś wiadomość do). Tutaj można zmienić bądź dodać dodatkowe kryteria filtrowania.</li>
+  <li>Wybrać folder docelowy do przechowywania wiadomości od tego nadawcy. Istnieje również możliwość dodania dodatkowych czynności dla tego filtra bądź zmiana domyślnej czynności.</li>
+  <li>Jeżeli nie zostanie wprowadzona żadna nazwa dla tego filtra, to program &brandShortName; wybierze nazwę samemu na podstawie pierwszego kryterium wyszukiwania.</li>
+  <li>Nacisnąć przycisk OK, aby potwierdzić ustawienia. Wyświetlone zostanie okno dialogowe <a href="#creating_message_filters">Filtry wiadomości</a>, w którym można tworzyć, usuwać lub zmieniać filtry wiadomości.</li>
+  <li>Nacisnąć przycisk OK. Filtr rozpocznie działanie po naciśnięciu przycisku OK.</li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h2 id="searching_through_messages">Searching Through Messages</h2>
+<h2 id="searching_through_messages">Wyszukiwanie w wiadomościach</h2>
 
-<p>&brandShortName; Mail &amp; Newsgroups lets you quickly find text in a
-  single message, search messages by subject or sender, or use a combination of
-  criteria to perform a thorough search through all messages in a specific mail
-  folder, newsgroup, or account.</p>
+<p>Kurier Poczty &brandShortName; umożliwia szybkie wyszukanie tekstu w pojedyńczej wiadomości, wyszukiwanie wiadomości po temacie lub nadawcy albo użycie kombinacji kryteriów, aby dokładnie przeszukać wszystkie wiadomości w określonym folderze, grupie dyskusyjnej lub koncie.</p>
 
-<p>To locate text in a single message, begin from the Mail window:</p>
+<p>Aby wyszukać tekst w pojedynczej wiadomości, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>Select the message, open the Edit menu, and choose Find in This
-    Message.</li>
-  <li>Type the text that you want to locate in the dialog box.</li>
-  <li>Click Find to locate the first occurrence of the text.</li>
-  <li>Continue clicking Find to locate additional occurrences, or click Cancel
-    when you are done.</li>
-  <li>Choose Find Again from the Edit menu to continue searching for the text
-    throughout the rest of the message.</li>
+  <li>Wybrać wiadomość, a z menu Edycja wybrać Znajdź w tej wiadomości.</li>
+  <li>Wprowadzić w oknie dialogowym tekst do wyszukania.</li>
+  <li>Nacisnąć przycisk Znajdź, aby zlokalizować pierwsze wystąpienie wyszukiwanego tekstu.</li>
+  <li>Kolejne naciskanie przycisku Znajdź spowoduje lokalizowanie kolejnych wystąpień wyszukiwanego tekstu. Naciśnięcie przycisku Anuluj zakończy wyszukiwanie.</li>
+  <li>Wybór z menu Edycja opcji Znajdź następne umożliwia kontynuowanie wyszukiwania tekstu w pozostałej części wiadomości.</li>
 </ol>
 
-<p>To quickly search for messages in a selected folder by subject or sender,
-  begin from the Mail window:</p>
+<p>Aby szybko wyszukać w wybranym folderze wiadomości od określonego nadawcy lub o określonym temacie, w oknie Kuriera Poczty należy:</p>
 
 <ol>
-  <li>To the right of <q>Subject or Sender contains:</q>, type the subject text
-    or sender name that you want to find. You can type only part of the subject
-    or sender, or you can type the exact word or name that you want to find.
+  <li>Z prawej strony napisu <q>Temat lub nadawca zawiera:</q> wprowadzić tekst lub nazwę nadawcy do wyszukania. Można wprowadzić tylko część wyrażenia lub dokładną treść do wyszukania.
 
-    <p>As soon as you stop typing, &brandShortName; Mail &amp; Newsgroups
-      displays only those messages in the selected folder where the subject or
-      sender contains the search text you entered.</p>
+    <p>Po zakończeniu wprowadzania tekstu &brandShortName; wyświetli tylko te wiadomości w folderze, których temat lub nadawca zawiera wpisany tekst.</p>
   </li>
-  <li>Click Clear to erase the search text and show all messages in the
-    selected folder.</li>
+  <li>Nacisnąć przycisk Wyczyść, aby usunąć tekst do wyszukania i wyświetlić wszystkie wiadomości w aktualnym folderze.</li>
 </ol>
 
-<h3 id="searching_for_specific_messages">Searching for Specific Messages</h3>
+<h3 id="searching_for_specific_messages">Wyszukiwanie konkretnych wiadomości</h3>
 
-<p>You can search mail folders or newsgroups for specific messages. If you are
-  not already viewing the Search Messages dialog box, begin from the Mail
-  window:</p>
+<p>Można wyszukać określone wiadomości w folderach z wiadomościami pocztowymi lub w wiadomościach z grup dyskusyjnych. Aby rozpocząć, należy w oknie Kuriera Poczty:</p>
 
 <ol>
-  <li>Open the Tools menu and choose Search Messages. You see the Search
-    Messages dialog box.</li>
-  <li>Next to <q>Search for messages in</q>, choose the account, newsgroup, or
-    folder through which you want to search.</li>
-  <li>Select <q>Search subfolders</q> to include all subfolders in the
-    search.</li>
-  <li>Select <q>Search local system</q> to search only messages from newsgroups
-    or IMAP accounts that have been saved locally.
+  <li>Z menu Narzędzia wybrać Wyszukaj wiadomości. Wyświetlone zostanie okno dialogowe Wyszukaj wiadomości.</li>
+  <li>Obok <q>Wyszukaj wiadomości, które</q> należy wybrać z listy konto, grupę dyskusyjną lub folder, w którym ma być prowadzone wyszukiwanie.</li>
+  <li>Zaznaczyć <q>Kontynuuj wyszukiwanie w podfolderach</q>, aby wyszukiwać również we wszystkich podfolderach.</li>
+  <li>Zaznaczyć <q>Wyszukaj w lokalnym systemie</q>, aby wyszukiwać jedynie w zapisanych lokalnie wiadomościach z grup dyskusyjnych lub z kont IMAP.
 
-    <p><strong>Note</strong>: The checkbox will be disabled if it&apos;s not
-      possible to search remotely stored messages.</p>
+    <p><strong>Uwaga</strong>: opcja będzie niedostępna, jeżeli nie będzie możliwe wyszukiwanie w wiadomościach przechowywanych na serwerze.</p>
   </li>
-  <li>Select which matching option Mail &amp; Newsgroups will use to search for
-    messages that match all or at least one of the conditions (criteria) that
-    you choose.</li>
-  <li>Use the drop-down lists to indicate the search criteria (for example,
-    <q>Subject</q> and <q>contains</q>) and then type the text or phrase that
-    you want to match.
+  <li>Wybrać, która z opcji dopasowywania warunków będzie używana w czasie wyszukiwania: spełnianie wszystkich czy dowolnego z kryteriów.</li>
+  <li>Użyć rozwijalnych list, aby wybrać kryteria wyszukiwania (przykładowo <q>Temat</q> i <q>zawiera</q>) i następnie wpisać tekst lub frazę do wyszukania.
 
-    <p><strong>Tip</strong>: To search for messages that contain a header not
-      listed in the first drop-down menu (for example, if you want to search
-      for messages that include the header Resent-From), choose Customize and
-      type the header you want to search for. &brandShortName; Mail &amp;
-      Newsgroups adds your custom header to the drop-down list, so you can then
-      choose it to search for matching entries. Make sure you enter the custom
-      header correctly, since Mail will only find entries that exactly match
-      what you type.</p>
+    <p><strong>Wskazówka</strong>: aby wyszukiwać wiadomości, których nagłówek nie jest zdefiniowany na rozwijalnej liście (przykładowo wyszukiwanie wiadomości, które zawierają nagłówek Resent-From (przesłane z), należy wybrać Dostosuj i wpisać nagłówek do wyszukiwania. Kurier Poczty doda go do rozwijalnej listy i będzie możliwe wybranie go do określenia kryterium wyszukiwania. Należy się upewnić, że nagłówek został wprowadzony poprawnie, ponieważ wyszukiwanie będzie prowadzone dokładnie według wprowadzonego tekstu.</p>
   </li>
-  <li>Click More to add criteria and Fewer to remove them.</li>
-  <li>Click Search to begin, or click Clear to reset your entries. The search
-    results appear in lower part of the Search Messages dialog box.
+  <li>Nacisnąć przycisk <q>+</q>, aby dodać kolejne kryterium lub przycisk <q>-</q>, aby usunąć kryterium.</li>
+  <li>Nacisnąć przycisk Znajdź, aby rozpocząć wyszukiwanie lub nacisnąć przycisk Wyczyść, aby usunąć kryteria wyszukiwania. Wyniki wyszukiwania znajdą się w dolnej części okna Wyszukaj wiadomości.
     <ul>
-      <li>To open a message so you can read it, select the message and click
-        Open, or double-click the message.</li>
-      <li>To sort the messages in a different order, click the column that you
-        want to sort by.</li>
-      <li>To move or copy a message in the Results area to another folder,
-        select the message and then choose the destination folder from the File
-        drop-down list. If the destination folder is within the same account,
-        the message is moved to that folder. If the destination folder is
-        within a different account, the message is copied to that folder.</li>
-      <li>To delete a message in the Results area, select the message and then
-        click Delete.</li>
-      <li>To open the folder where the message is stored, select the message
-        and click Open Message Folder.</li>
+      <li>Aby wyświetlić wyszukaną wiadomość, należy ją zaznaczyć i nacisnąć przycisk Otwórz lub podwójnie kliknąć na niej.</li>
+      <li>Aby posortować wiadomości w innym porządku, należy kliknąć nagłówek kolumny, po której ma być przeprowadzone wyszukiwanie.</li>
+      <li>Aby przenieść lub skopiować wyszukane wiadomości z wyników wyszukiwania do innego folderu, należy zaznaczyć wiadomości i wybrać folder docelowy z rozwijalnej listy dostępnej po naciśnięciu przycisku Przenieś. Jeżeli folder docelowy jest w obrębie tego samego konta, to wiadomość jest przenoszona do niego. Jeżeli folder należy do innego konta, to wiadomość jest do niego kopiowana.</li>
+      <li>Aby usunąć wyszukaną wiadomość, należy ją zaznaczyć i nacisnąć przycisk Usuń.</li>
+      <li>Aby wyświetlić folder, w którym wiadomość jest przechowywana, należy zaznaczyć wiadomość i nacisnąć przycisk Otwórz folder wiadomości.</li>
     </ul>
   </li>
 </ol>
 
-<p>[<a href="#organizing_your_messages">Return to beginning of section</a>]</p>
+<p>[<a href="#organizing_your_messages">Na początek rozdziału</a>]</p>
 
-<h1 id="controlling_junk_mail">Controlling Junk Mail</h1>
+<h1 id="controlling_junk_mail">Kontrolowanie niechcianej poczty</h1>
 
-<p>This section describes how to use &brandShortName;&apos;s Junk Mail Controls
-to filter unwanted mail, and how phishing detection works.</p>
+<p>W tym rozdziale opisane jest, jak używać Kuriera Poczty &brandShortName; do filtrowania niechcianych wiadomości i jak działa wykrywanie oszustw.</p>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">W tym rozdziale opisano:
   <ul>
-    <li><a href="#using_junk_mail_controls">Using Junk Mail Controls</a></li>
-    <li><a href="#junk_controls_options">Junk Mail Controls Options</a></li>
-    <li><a href="#junk_controls_and_filters">Junk Mail Controls and
-      Filters</a></li>
-    <li><a href="#phishing_detection">Phishing Detection</a></li>
+    <li><a href="#using_junk_mail_controls">Filtr niechcianej poczty</a></li>
+    <li><a href="#junk_controls_options">Ustawienia filtru niechcianej poczty</a></li>
+    <li><a href="#junk_controls_and_filters">Filtr niechcianej poczty a filtry wiadomości</a></li>
+    <li><a href="#phishing_detection">Wykrywanie oszustw</a></li>
   </ul>
 </div>
 
+<h2 id="using_junk_mail_controls">Filtr niechcianej poczty</h2>
 
-<h2 id="using_junk_mail_controls">Using Junk Mail Controls</h2>
+<p>Filtr niechcianej poczty &brandShortName; może oceniać przychodzące wiadomości i identyfikować wiadomości jako najprawdopodobniej niepożądane (niezamówione reklamy). Używana do tego jest metoda Bayesa. Najpierw należy nauczyć &brandShortName;, jak wyglądają wiadomości niechciane, wskazując, które wiadomości są pożądane, a które nie. Następnie włącza się automatyczną klasyfikację wiadomości. Jeżeli &brandShortName; zrobi błąd w rozpoznaniu wiadomości, to można go poprawić.</p>
 
-<p>&brandShortName;&apos;s Junk Mail Controls feature can evaluate your
-  incoming messages and identify possible junk (or unsolicited) messages. The
-  feature uses the Bayesian classification method. You first train
-  &brandShortName; by showing it a bunch of mail that is junk, and a bunch of
-  mail that is not. Then, you let it auto-classify new mail for you. If
-  &brandShortName; makes any mistakes, you can correct them.</p>
-
-<p>To use Junk Mail Controls:</p>
+<p>Aby używać filtru niechcianej poczty, należy:</p>
 
 <ol>
-  <li>First, train &brandShortName; to recognize Junk messages and Non-Junk
-    messages. There are three ways to toggle junk status of the selected
-    message(s):
+  <li>Najpierw nauczyć &brandShortName; rozpoznawać wiadomości niechciane i pożądane. Odpowienie oznaczenie wiadomości można zmieniać trzema sposobami:
     <ul>
-      <li>Open the Message menu, select <q>Mark</q> and choose <q>As Junk</q>
-        or <q>As Not Junk</q>.</li>
-      <li>Click on the Junk toolbar button.</li>
+      <li>Z menu Wiadomość wybrać <q>Zaznacz</q> i odpowiednio <q>Jako niechcianą</q> lub <q>Jako pożądaną</q>.</li>
+      <li>Nacisnąć przycisk na pasku narzędziowym Niechcianej poczty.</li>
       <li><img src="images/mail_junk_column.png" style="float:right" alt=""/>
 
-        <p>Click to toggle the Junk Status column in the message list. (If you
-          do not see it, click the right-most button (
-          <img src="images/columns.png" alt=""/>) in the list header bar and
-          select Junk Status from the pop-up menu.)</p>
+        <p>Kliknąć na znaczku w kolumnie statusu niechcianej poczty na liście wiadomości. Jeżeli kolumna nie jest widoczna, należy nacisnąć przycisk na prawym końcu nagłówka listy wiadomości (<img src="images/columns.png" alt=""/>) i wybrać z menu pozycję Status niechcianej poczty.</p>
       </li>
     </ul>
 
-    <p>When you toggle junk status, a trash-can icon will appear or disappear
-      in the Junk status column to indicate the junk status of the selected
-      message.</p>
+    <p>Po zmianie statusu wiadomości w kolumnie statusu niechcianej poczty pojawi się lub zniknie ikona kosza odpowiednio wskazując status wybranej wiadomości.</p>
   </li>
-  
-  <li>Open the Edit menu, and choose Mail &amp; Newsgroups Account Settings.
-    You see the Mail &amp; Newsgroups Account Settings dialog box.</li>
-  <li>Click the Junk Settings category for your mail account.</li>
-  <li>Enable the feature and &brandShortName; will automatically classify
-    incoming messages. (See
-    <a href="#junk_controls_options">Junk Mail Controls Options</a>.
-    Details on the other settings there can be found in the 
-    <a href="mailnews_account_settings.xhtml#junk_settings">Junk Settings</a>
-    preference panel description.)
-  </li>
-  <li>If you have trained it on virus mail, consider disabling the white
-    listing (many mail viruses send bulk messages to people in the address book
-    of the infected computer).</li>
-  <li>Make sure to correct the Junk Mail Controls when it incorrectly labels
-    messages either as junk or not junk.</li>
-  <li>To analyze existing messages, select messages, open the Tools menu
-    and choose <q>Run Junk Mail Controls</q>.</li>
+  <li>Z menu Edycja wybrać Konfiguracja kont. Wyświetlone zostanie okno dialogowe Konfiguracja kont.</li>
+  <li>Wybrać kategorię Ustawienia niechcianej poczty dla konta pocztowego.</li>
+  <li>Po włączeniu funkcji filtrowania program &brandShortName; będzie automatycznie klasyfikował przychodzące wiadomości. (Więcej w rozdziale <a href="#junk_controls_options">Ustawienia filtru niechcianej poczty</a>. Szczegóły dotyczące innych ustawień można znaleźć w opisie panelu preferencji <a href="mailnews_account_settings.xhtml#junk_settings">Ustawienia niechcianej poczty</a>.)</li>
+  <li>Jeżeli uczenie było prowadzone na wiadomościach z wirusami, należy rozważyć wyłączenie białych list, ponieważ wiele wirusów wysyła zainfekowane wiadomości do osób z książki adresowej zainfekowanego komputera.</li>
+  <li>Należy poprawiać status niechcianej poczty dla nieprawidłowo oznaczonych wiadomości, zarówno niepożądanych jak i pożądanych.</li>
+  <li>Aby przeprowadzić analizę odebranych wcześniej wiadomości, należy wybrać te wiadomości i wybrać z menu Narzędzia opcję <q>Rozpoznaj w folderze niechciane wiadomości</q>.</li>
 </ol>
 
-<p><strong>Note</strong>: &brandShortName; will only run Junk Mail Controls
-  when the training database has information on non-Junk messages. If Junk Mail
-  Controls do not work, select some messages and explicitly mark them as Not
-  Junk.</p>
+<p><strong>Uwaga</strong>: &brandShortName; uruchomi filtrowanie niechcianej poczty tylko jeżeli baza wiadomości służących do uczenia zawiera również pożądane wiadomości. Jeżeli filtrowanie nie działa, należy wybrać kilka wiadomości i oznaczyć je jako pożądane.</p>
 
-<p>[<a href="#controlling_junk_mail">Return to beginning of section</a>]</p>
+<p>[<a href="#controlling_junk_mail">Na początek rozdziału</a>]</p>
 
-<h2 id="junk_controls_options">Junk Mail Controls Options</h2>
+<h2 id="junk_controls_options">Ustawienia filtru niechcianej poczty</h2>
 
-<p>To fine-tune how Junk Mail Controls work, use the 
-  <a href="mailnews_preferences.xhtml#junk_and_suspect_preferences">Junk &amp;
-  Suspect Mail preference panel</a> for account-independent settings and the
-  account manager's <a href="mailnews_account_settings.xhtml#junk_settings">Junk
-  Settings</a> for settings of a specific mail account.</p>
+<p>Aby dokładnie dostroić pracę filtru niechcianej poczty, należy użyć panelu <a href="#junk_and_suspect_preferences">Niechciana i podejrzana poczta</a>, aby określić ustawienia niezależne od konta oraz <a href="mailnews_account_settings.xhtml#junk_settings">ustawień niechcianej poczty</a> dla konkretnego konta.</p>
 
-<p>[<a href="#controlling_junk_mail">Return to beginning of section</a>]</p>
+<p>[<a href="#controlling_junk_mail">Na początek rozdziału</a>]</p>
 
-<h2 id="junk_controls_and_filters">Junk Mail Controls and Filters</h2>
+<h2 id="junk_controls_and_filters">Filtr niechcianej poczty a filtry wiadomości</h2>
 
-<p>Junk Mail Controls run after mail filters (unless you set the filter to run
-  after classification, where <q>classification</q> includes junk and phishing
-  scanning) and apply only to the Inbox folder and its sub-folders. Use this to
-  your advantage, for example, you can filter mail you are sure not to be Junk
-  to a special folder outside of Inbox so that the messages will not be
-  classified as Junk (especially useful if you subscribe to newsletters or if
-  you are on a moderated mailing list).</p>
+<p>Filtr niechcianej poczty jest uruchamiany po zakończeniu działania filtrów wiadomości zdefiniowanych przez użytkownika (jeżeli w ustawieniach filtra nie wybrano opcji sprawdzania <q>po filtrowaniu niechcianych</q>, co oznacza po filtrowaniu niechcianych jak i prób oszustwa) i obejmuje tylko wiadomości w folderze Odebrane oraz jego podfolderach. W ten sposób można najpierw przenieść do folderów poza folderem Odebrane wiadomości, co do których nie wiadomo, czy są niechciane. Spowoduje to, że nie zostaną one oznaczone jako niechciane. Jest to funkcja przydatna w przypadku newsletterów i moderowanych list pocztowych.</p>
 
-<p>[<a href="#controlling_junk_mail">Return to beginning of section</a>]</p>
+<p>[<a href="#controlling_junk_mail">Na początek rozdziału</a>]</p>
 
-<h2 id="phishing_detection">Phishing Detection</h2>
+<h2 id="phishing_detection">Wykrywanie oszustw</h2>
 
-<p>Phishing is a particularly common fraudulent business scheme in which
-  a party creates counterfeit websites designed to trick recipients into
-  divulging personal data such as credit card numbers, account usernames,
-  passwords and social security numbers. Hijacking brand names of banks,
-  e-retailers and credit card companies, phishers often convince
-  recipients to respond.</p>
+<p>Podszywanie się (phishing) jest stosunkowo częstym schematem wyłudzania, w którym osoba lub grupa osób tworzy fałszywe strony WWW przeznaczone do oszukania adresatów wiadomości, aby poznać ich dane osobowe takie jak numery kart kredytowych, nazwy użytkowników kont, hasła czy numery PESEL. Używając nazw i marek banków, sieci handlowych oraz firm wydających karty kredytowe, wyłudzający często uzyskują pożądane informacje od nieświadomych odbiorców takich wiadomości.</p>
 
-<p>In many cases, you&apos;ll receive a link to a phishing page via an email
-  which claims to come from an official-looking address. You can also end up
-  at these pages by following links that you find on the Web or in IM
-  messages.</p>
+<p>Odnośnik do strony podszywającej się można otrzymać w wiadomości e-mail, która wygląda na wysłaną z oficjalnego adresu danej firmy. Na taką stronę można również trafić aktywując odnośnik otrzymany w treści wiadomości przesłanej za pomocą komunikatora lub na stronach WWW.</p>
 
-<p><strong>Tip</strong>: Since a forged <a href="glossary.xhtml#url">URL</a>
-  can look very similar to a genuine one, it&apos;s safer to use a bookmark
-  you&apos;ve created or to type the URL into the location bar by hand instead
-  of following a link in an email message. Always consider the risk of a forged
-  URL if you&apos;re asked to log in or provide private information on a
-  website.</p>
+<p><strong>Wskazówka</strong>: ponieważ sfałszowany <a href="glossary.xhtml#url">URL</a> może wyglądać bardzo podobnie do oryginalnego, bezpieczniej jest używać własnoręcznie utworzonych zakładek lub wprowadzać adres URL ręcznie w pasku adresu, zamiast aktywować odnośnik z wiadomości e-mail. Zawsze należy rozważyć możliwość sfałszowania adresu URL, gdy strona prosi o zalogowanie się lub podanie prywatnych danych.</p>
 
-<p>&brandShortName; Mail phishing detector is enabled by default. When it
-  encounters a mail which seems to be scam, it will show a warning bar in the
-  message window.</p>
+<p>Wykrywanie oszustw w Kurierze Poczty &brandShortName; jest domyślnie włączone. Po napotkaniu wiadomości, która wygląda na próbującą oszukać użytkownika (scam), w oknie wiadomości wyświetlony zostanie pasek z ostrzeżeniem.</p>
 
-<p>If you think that the email is a valid one, you can click on the <q>Not
-  Scam</q> button, and the warning bar will disappear.</p>
+<p>Jeżeli użytkownik uważa, że wiadomość jest prawdziwa, może nacisnąć klawisz <q>Prawdziwa</q> i pasek z ostrzeżeniem zostanie wyłączony.</p>
 
-<p>When a user clicks on a link in an email that appears to be a phishing URL,
-  &brandShortName; will prompt the user with a dialog box before the website
-  is opened.</p>
+<p>Gdy użytkownik kliknie w wiadomości na odnośniku wyglądającym na sfałszowany, &brandShortName; wyświetli okno dialogowe z prośbą o potwierdzenie zanim strona WWW zostanie wyświetlona.</p>
 
-<p>This prompt will appear if either of the following is true: the host name of
-  the actual URL is an <a href="glossary.xhtml#ip_address">IP address</a>, or
-  the link text is a URL whose host name does not match the host name of the
-  actual URL.</p>
+<p>Okno to zostanie wyświetlone, gdy wystąpi jedna z okoliczności: nazwę hosta w odnośniku stanowi <a href="glossary.xhtml#ip_address">adres IP</a> lub tekstowy URL jest nazwą hosta niezgodną z nazwą hosta podaną w odnośniku.</p>
 
-<p><strong>Note</strong>: Phishing detection has a higher precedence than Junk
-  Mail detection.</p>
+<p><strong>Uwaga</strong>: wykrywanie oszustw ma pierwszeństwo przed filtrem niechcianej poczty.</p>
 
-<p>For more technical details on this subject, see the online document
-  <a href="http://www.honeynet.org/papers/phishing/">Know your Enemy:
-  Phishing</a>.</p>
+<p>Więcej informacji technicznych w dokumencie <a href="http://www.honeynet.org/papers/phishing/">Know your Enemy:
+  Phishing</a>, z angielskiego: Poznaj swojego wroga - Podszywanie się.</p>
 
-<p>[<a href="#controlling_junk_mail">Return to beginning of section</a>]</p>
+<p>[<a href="#controlling_junk_mail">Na początek rozdziału</a>]</p>
+
 </body>
 </html>
