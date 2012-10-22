@@ -872,15 +872,6 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     </nc:subheadings>
   </rdf:Description>
 
-<rdf:Description about="#privacy_levels">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="privacy_levels-level" nc:name="Poziom prywatności" nc:link="using_priv_help.xhtml#level_of_privacy"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy_levels-accept" nc:name="Zasady akceptacji ciasteczek" nc:link="using_priv_help.xhtml#cookie_acceptance_policy"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
 <rdf:Description about="#using-priv-help-password">
     <nc:subheadings>
       <rdf:Seq>
