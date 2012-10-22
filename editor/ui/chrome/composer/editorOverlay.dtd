@@ -71,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Diminuir">
 <!ENTITY decreaseFontSize.accesskey "D">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Aumentar">
 <!ENTITY increaseFontSize.accesskey "A">
 <!ENTITY increaseFontSize.key "+">

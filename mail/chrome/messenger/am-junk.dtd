@@ -26,3 +26,7 @@
 
 <!ENTITY junkClassification.label "Seleção">
 <!ENTITY junkActions.label "Destino e Retenção">
+
+<!ENTITY globalJunkPrefs.label "Preferências globais de Spam…">
+<!ENTITY globalJunkPrefs.accesskey "S">
+
