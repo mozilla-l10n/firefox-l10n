@@ -144,11 +144,11 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Importowanie poczty z innych programów" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
 
-        <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Czytanie wiadomości" nc:link="mail_help.xhtml#reading_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Wysyłanie wiadomości" nc:link="mail_help.xhtml#sending_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="Tworzenie wiadomości w formacie HTML" nc:link="mail_help.xhtml#creating_html_mail_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Załączniki" nc:link="mail_help.xhtml#using_attachments" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Usuwanie wiadomości" nc:link="mail_help.xhtml#deleting_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Czytanie wiadomości" nc:link="mailnews_using_mail.xhtml#reading_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Wysyłanie wiadomości" nc:link="mailnews_using_mail.xhtml#sending_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="Tworzenie wiadomości w formacie HTML" nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Załączniki" nc:link="mailnews_using_mail.xhtml#using_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Usuwanie wiadomości" nc:link="mailnews_using_mail.xhtml#deleting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Praca z książkami adresowymi" nc:link="mailnews_addressbooks.xhtml#using_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Porządkowanie wiadomości" nc:link="mailnews_organizing.xhtml#organizing_your_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-junk" nc:name="Kontrolowanie niechcianej poczty" nc:link="mailnews_organizing.xhtml#controlling_junk_mail" /> </rdf:li>
@@ -194,11 +194,11 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
  <rdf:Description about="#mail-doc-read">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-notify" nc:name="Pobieranie nowych wiadomości"  nc:link="mail_help.xhtml#getting_new_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="Zmiana wyglądu głównego okna Kuriera Poczty"  nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Sortowanie oraz grupowanie wiadomości w wątki"  nc:link="mail_help.xhtml#sorting_and_threading_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Zapisywanie oraz drukowanie wiadomości"  nc:link="mail_help.xhtml#saving_and_printing_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Kontrola obrazków, skryptów i wtyczek"  nc:link="mail_help.xhtml#controlling_images_scripts_and_plugins"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-notify" nc:name="Pobieranie nowych wiadomości"  nc:link="mailnews_using_mail.xhtml#getting_new_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-view" nc:name="Zmiana wyglądu głównego okna Kuriera Poczty"  nc:link="mailnews_using_mail.xhtml#choosing_how_you_view_the_mail_window"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-thread" nc:name="Sortowanie oraz grupowanie wiadomości w wątki"  nc:link="mailnews_using_mail.xhtml#sorting_and_threading_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-printsave" nc:name="Zapisywanie oraz drukowanie wiadomości"  nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-scripts" nc:name="Kontrola obrazków, skryptów i wtyczek"  nc:link="mailnews_using_mail.xhtml#controlling_images_scripts_and_plugins"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -206,15 +206,15 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-send">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Tworzenie nowych wiadomości pocztowych i grup dyskusyjnych" nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-new" nc:name="Korzystanie z okna tworzenia wiadomości" nc:link="mail_help.xhtml#using_the_message_composition_window" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-address" nc:name="Adresowanie wiadomości" nc:link="mail_help.xhtml#addressing_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-options" nc:name="Opcje wysyłania wiadomości" nc:link="mail_help.xhtml#selecting_message_sending_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Tworzenie odpowiedzi na wiadomość" nc:link="mail_help.xhtml#replying_to_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Przesyłanie wiadomości" nc:link="mail_help.xhtml#forwarding_a_message" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Potwierdzenia otwarcia (dostarczenia) wiadomości" nc:link="mail_help.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Zapisywanie i edycja szkiców wiadomości" nc:link="mail_help.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Tworzenie i korzystanie z szablonów" nc:link="mail_help.xhtml#creating_and_using_templates" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-compose" nc:name="Tworzenie nowych wiadomości pocztowych i grup dyskusyjnych" nc:link="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-new" nc:name="Korzystanie z okna tworzenia wiadomości" nc:link="mailnews_using_mail.xhtml#using_the_message_composition_window" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-address" nc:name="Adresowanie wiadomości" nc:link="mailnews_using_mail.xhtml#addressing_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-options" nc:name="Opcje wysyłania wiadomości" nc:link="mailnews_using_mail.xhtml#selecting_message_sending_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Tworzenie odpowiedzi na wiadomość" nc:link="mailnews_using_mail.xhtml#replying_to_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Przesyłanie wiadomości" nc:link="mailnews_using_mail.xhtml#forwarding_a_message" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Potwierdzenia otwarcia (dostarczenia) wiadomości" nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Zapisywanie i edycja szkiców wiadomości" nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Tworzenie i korzystanie z szablonów" nc:link="mailnews_using_mail.xhtml#creating_and_using_templates" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -222,11 +222,11 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-html">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-html-use" nc:name="Używanie HTML w wiadomościach" nc:link="mail_help.xhtml#using_html_in_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="Opcje wysyłania wiadomości w formacie HTML" nc:link="mail_help.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-address" nc:name="Określanie adresatów wiadomości w formacie HTML" nc:link="mail_help.xhtml#specifying_recipients_for_html_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="Wyświetlanie kodu źródłowego wiadomości w HTML" nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-html-question" nc:name="Okno dialogowe wiadomości w formacie HTML" nc:link="mail_help.xhtml#using_the_html_mail_question_dialog_box" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-use" nc:name="Używanie HTML w wiadomościach" nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-options" nc:name="Opcje wysyłania wiadomości w formacie HTML" nc:link="mailnews_using_mail.xhtml#choosing_html_mail_sending_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-address" nc:name="Określanie adresatów wiadomości w formacie HTML" nc:link="mailnews_using_mail.xhtml#specifying_recipients_for_html_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-source" nc:name="Wyświetlanie kodu źródłowego wiadomości w HTML" nc:link="mailnews_using_mail.xhtml#viewing_the_message_source_for_html_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-question" nc:name="Okno dialogowe wiadomości w formacie HTML" nc:link="mailnews_using_mail.xhtml#using_the_html_mail_question_dialog_box" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -234,7 +234,7 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-html-use">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-html-edit" nc:name="Edycja lub wstawianie elementów HTML" nc:link="mail_help.xhtml#editing_or_inserting_html_elements" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-html-edit" nc:name="Edycja lub wstawianie elementów HTML" nc:link="mailnews_using_mail.xhtml#editing_or_inserting_html_elements" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -242,9 +242,9 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:Description about="#mail-doc-attach">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-file" nc:name="Załączanie pliku lub strony WWW" nc:link="mail_help.xhtml#attaching_a_file_or_web_page" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-view" nc:name="Przeglądanie i otwieranie załączników" nc:link="mail_help.xhtml#viewing_and_opening_attachments" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-attach-save" nc:name="Zapisywanie załączników" nc:link="mail_help.xhtml#saving_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-file" nc:name="Załączanie pliku lub strony WWW" nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-view" nc:name="Przeglądanie i otwieranie załączników" nc:link="mailnews_using_mail.xhtml#viewing_and_opening_attachments" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-attach-save" nc:name="Zapisywanie załączników" nc:link="mailnews_using_mail.xhtml#saving_attachments" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -252,8 +252,8 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-delete">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-delete-server" nc:name="Usuwanie wiadomości z kont POP i IMAP" nc:link="mail_help.xhtml#deleting_pop_or_imap_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Przenoszenie wiadomości do i z foldera Kosz" nc:link="mail_help.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete-server" nc:name="Usuwanie wiadomości z kont POP i IMAP" nc:link="mailnews_using_mail.xhtml#deleting_pop_or_imap_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Przenoszenie wiadomości do i z foldera Kosz" nc:link="mailnews_using_mail.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
