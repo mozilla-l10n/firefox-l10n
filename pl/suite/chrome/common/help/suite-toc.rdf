@@ -155,7 +155,7 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Praca w trybie offline" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Podpisywanie i szyfrowanie wiadomości" nc:link="mailnews_security.xhtml#signing_and_encrypting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Ustawienia kont pocztowych i grup dyskusyjnych" nc:link="mail_help.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Preferencje Kuriera Poczty" nc:link="mail_help.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Preferencje Kuriera Poczty" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -501,17 +501,18 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#mail-doc-mailprefs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Preferencje Kuriera Poczty" nc:link="mail_help.xhtml#mail_and_newsgroups"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Wiadomości" nc:link="mail_help.xhtml#message_display"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Powiadomienia" nc:link="mail_help.xhtml#notifications"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Komponowanie" nc:link="mail_help.xhtml#composition"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Formatowanie" nc:link="mail_help.xhtml#send_format"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Adresowanie" nc:link="mail_help.xhtml#addressing_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Niechciane i podejrzane wiadomości" nc:link="mail_help.xhtml#junk_and_suspect_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-tags" nc:name="Etykiety" nc:link="mail_help.xhtml#tags"/> </rdf:li>
-		    <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Potwierdzenia odbioru" nc:link="mail_help.xhtml#return_receipts_preferences"/> </rdf:li>
-		    <rdf:li> <rdf:Description ID="character_encoding" nc:name="Kodowanie znaków" nc:link="mail_help.xhtml#character_encoding"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Sieć i miejsce na dysku" nc:link="mail_help.xhtml#network_and_storage_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Preferencje Kuriera Poczty" nc:link="mailnews_preferences.xhtml#mail_and_newsgroups"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Wiadomości" nc:link="mailnews_preferences.xhtml#message_display"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Powiadomienia" nc:link="mailnews_preferences.xhtml#notifications"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Komponowanie" nc:link="mailnews_preferences.xhtml#composition"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Formatowanie" nc:link="mailnews_preferences.xhtml#send_format"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Adresowanie" nc:link="mailnews_preferences.xhtml#addressing_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Niechciane i podejrzane wiadomości" nc:link="mailnews_preferences.xhtml#junk_and_suspect_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-tags" nc:name="Etykiety" nc:link="mailnews_preferences.xhtml#tags"/> </rdf:li>
+	<rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Potwierdzenia odbioru" nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/> </rdf:li>
+
+	<rdf:li> <rdf:Description ID="character_encoding" nc:name="Kodowanie znaków" nc:link="mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Sieć i miejsce na dysku" nc:link="mmailnews_preferences.xhtml#network_and_storage_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
