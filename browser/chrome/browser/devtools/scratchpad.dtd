@@ -36,8 +36,8 @@
 <!ENTITY openRecentMenu.label "Oscail Comhad le Déanaí">
 <!ENTITY openRecentMenu.accesskey "D">
 
-<!ENTITY revertCmd.label "Revert…">
-<!ENTITY revertCmd.accesskey "t">
+<!ENTITY revertCmd.label "Cealaigh…">
+<!ENTITY revertCmd.accesskey "C">
 
 <!ENTITY saveFileCmd.label "Sábháil">
 <!ENTITY saveFileCmd.accesskey "S">
