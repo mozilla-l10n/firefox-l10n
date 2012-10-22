@@ -18,12 +18,13 @@
 <!ENTITY highestPriorityCmd.label "Najwyższy">
 
 <!ENTITY contextDesc.label           "Stosuj filtr podczas:">
-<!ENTITY contextDesc.accesskey       "f">
-<!ENTITY contextIncoming.label       "sprawdzania poczty">
+<!ENTITY contextIncomingMail.label "pobierania poczty">
+<!ENTITY contextIncomingMail.accesskey "a">
+<!ENTITY contextBeforeCls.label "(przed filtrowaniem niechcianych)">
+<!ENTITY contextAfterCls.label "(po filtrowaniu niechcianych)">
 <!ENTITY contextManual.label         "ręcznego uruchamiania">
-<!ENTITY contextBoth.label           "sprawdzania poczty lub ręcznego uruchamiania">
-<!ENTITY contextPostPlugin.label     "sprawdzania poczty (po filtrowaniu niechcianych)">
-<!ENTITY contextPostPluginBoth.label "sprawdzania poczty (po filtrowaniu niechcianych) lub ręcznego uruchamiania">
+<!ENTITY contextManual.accesskey "r">
+
 <!ENTITY filterActionDesc.label      "…i wykonuj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey  "k">
 
