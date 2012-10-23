@@ -29,8 +29,13 @@
 
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.label "Žurnál těl požadavků a odpovědí">
+<!ENTITY saveBodies.accesskey "u">
+
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+<!ENTITY openURL.label "Otevřít URL v novém panelu">
+<!ENTITY openURL.accesskey "O">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -88,3 +93,6 @@
 
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY copyURLCmd.label "Kopírovat adresu odkazu">
+<!ENTITY copyURLCmd.accesskey "K">

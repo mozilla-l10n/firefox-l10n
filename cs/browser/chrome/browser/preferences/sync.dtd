@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey "D">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label "Název počítače:">
-<!ENTITY syncComputerName.accesskey "N">
+<!ENTITY syncDeviceName.label "Název zařízení:">
+<!ENTITY syncDeviceName.accesskey "N">
 <!ENTITY unlinkDevice.label "Odpojit zařízení">
 
 <!-- Footer stuff -->
