@@ -16,7 +16,7 @@
 <!ENTITY feat_filters.label "Poštovní filtry">
 <!ENTITY feat_htmlmsg.label "Podpora HTML zpráv">
 <!ENTITY feat_abook.label "Kontakty">
-<!ENTITY feat_labels.label "Nastavitelná označení a pohledy na zprávy">
+<!ENTITY feat_tags.label "Uživatelské štítky a pohledy na zprávy">
 <!ENTITY feat_integration.label "Úzká spolupráce s balíkem &brandShortName;">
 
 <!ENTITY dict.title "Slovníky">

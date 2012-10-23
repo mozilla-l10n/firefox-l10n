@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label "Pro aktivaci nového zařízení na něm zvolte „Nastavit &syncBrand.shortName.label;“.">
-<!ENTITY sync.subtitle.header.label "Tento kód vložte na svém počítači">
-<!ENTITY sync.subtitle.connectlocation.label "V nastavení vašeho desktopového Firefoxu klepněte v části &syncBrand.shortName.label; na „&sync.title.pair.label;“.">
+<!ENTITY sync.subtitle.header2.label "Tento kód vložte na svém dalším zařízení">
+<!ENTITY sync.subtitle.connectlocation2.label "V nastavení vašeho dalšího zařízení klepněte v části &syncBrand.shortName.label; na „&sync.title.pair.label;“.">
 <!ENTITY sync.subtitle.pair.label "Pro aktivaci na druhém zařízení zvolte „Připojit nové zařízení“.">
 <!ENTITY sync.pin.default.label "…\n…\n…\n">
 <!ENTITY sync.pin.oneline.label "…">
@@ -78,11 +78,13 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label "Pouze jeden účet &syncBrand.fullName.label; je podporován.">
+
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label "Neplatný název účtu nebo heslo.">
 <!ENTITY sync.invalidserver.label "Vložte prosím platnou adresu serveru">
 <!ENTITY sync.verifying.label "Ověřování…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Obnovovací klíč je neplatný. Zkuste to prosím znovu.">
+
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label "Odeslat panel na zařízení">
 <!ENTITY sync.button.send.label "Odeslat">
