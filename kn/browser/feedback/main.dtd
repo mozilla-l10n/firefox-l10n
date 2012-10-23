@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY testpilot.brand.label                      "ಪರೀಕ್ಷಾರ್ಥ ಪೈಲಟ್">
 <!ENTITY testpilot.settings.label                   "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY testpilot.settings.dataSubmission.label    "ದತ್ತಾಂಶ ಸಲ್ಲಿಸುವಿಕೆ">

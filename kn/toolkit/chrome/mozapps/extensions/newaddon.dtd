@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY title           "ಆಡ್-ಆನ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY intro           "ಈ ಕೆಳಗಿನ ಆಡ್-ಅನ್‌ ಅನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಗಣಕದಲ್ಲಿನ ಬೇರೊಂದು ಪ್ರೊಗ್ರಾಮ್ 
                           &brandShortName; ಅನ್ನು ಮಾರ್ಪಡಿಸಲು ಬಯಸಿದೆ:">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "ನಿಮ್ಮ &syncBrand.fullName.label; ಕೀಲಿ">
 <!ENTITY syncKey.page.description         "ಈ ಕೀಲಿಯನ್ನು ನಿಮ್ಮ &syncBrand.fullName.label; ಖಾತೆಯಲ್ಲಿನ ದತ್ತಾಂಶವನ್ನು ಡೀಕೋಡ್ ಮಾಡಲು ಬಳಸಲಾಗಿದೆ. ಹೊಸ ಗಣಕದಲ್ಲಿ ಅಥವ ಸಾಧನದಲ್ಲಿ &syncBrand.fullName.label; ಅನ್ನು ನೀವು ಪ್ರತಿ ಬಾರಿ ಸಂರಚಿಸದಾಗಲೂ ಸಹ ಕೀಲಿಯನ್ನು ನಮೂದಿಸುವ ಅಗತ್ಯವಿರುತ್ತದೆ.">
 <!ENTITY syncKey.keepItSecret.heading     "ಇದನ್ನು ಗೌಪ್ಯವಾಗಿ ಇರಿಸಿ">
