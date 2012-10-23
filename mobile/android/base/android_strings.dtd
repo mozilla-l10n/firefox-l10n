@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 dager siden">
 <!ENTITY history_older_section "Eldre enn 7 dager">
 
+<!ENTITY go "Gå">
+<!ENTITY search "Søk">
 <!ENTITY reload "Last på nytt">
 <!ENTITY forward "Frem">
 <!ENTITY menu "Meny">
@@ -85,16 +87,27 @@
 <!ENTITY pref_font_size_medium "Medium">
 <!ENTITY pref_font_size_large "Stor">
 <!ENTITY pref_font_size_xlarge "Ekstra stor">
+<!ENTITY pref_font_size_set "Sett">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Bruk et hovedpassord">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søkeforslag">
 <!ENTITY pref_import_android "Importer fra Android">
 <!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
-<!ENTITY pref_private_data_cookies "Infokapsler">
+<!ENTITY pref_private_data_cookies2 "Infokapsler og aktive innlogginger">
 <!ENTITY pref_private_data_passwords "Lagrede passord">
 <!ENTITY pref_private_data_cache "Hurtiglager">
-<!ENTITY pref_private_data_sessions "Aktive innlogginger">
 <!ENTITY pref_private_data_offlineApps "Frakoblet nettstedsdata">
 <!ENTITY pref_private_data_siteSettings "Nettstedsinnstillinger">
 
@@ -138,7 +151,7 @@
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Nøkkelord">
 
-<!ENTITY site_settings_title        "Slett nettstedsinnstillinger">
+<!ENTITY site_settings_title2       "Nettstedsinnstillinger …">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillinger å fjerne.">
@@ -164,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Åpne alle faner fra forrige gang">
 <!ENTITY abouthome_top_sites_title "Toppliste">
 <!ENTITY abouthome_top_sites_browse "Vis alle mest brukte">
-<!ENTITY abouthome_no_top_sites "Du har ikke brukt noen nettsider ennå. Trykk på tittellinjen for å starte bruke nettet.">
-<!ENTITY abouthome_about_sync "Sett opp Firefox Sync for å hente bokmerker, historikk og faner fra andre enheter">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Sett opp Firefox Sync for å få tilgang til bokmerker, historikk og faner fra andre enheter&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Last ned apps fra Mozilla Marketplace og oppdag det beste nettet har å tilby&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Velg fil">
 <!ENTITY filepicker_audio_title "Velg eller spill inn en lyd">
@@ -201,3 +224,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Vent ...">
 
 <!ENTITY webapp_generic_name "App">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Oppdateringer er tilgjengelige for &brandShortName;">
+<!ENTITY updater_start_select2 "Trykk for å laste ned">
+ 
+<!ENTITY updater_downloading_title2 "Laster ned &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Nedlasting feilet">
+<!ENTITY updater_downloading_select2 "Trykk for å installere når ferdig nedlastet">
+<!ENTITY updater_downloading_retry2 "Trykk for å prøve igjen">
+ 
+<!ENTITY updater_apply_title2 "Oppdatering tilgjengelig for &brandShortName;">
+<!ENTITY updater_apply_select2 "Trykk for å oppdatere">
+
