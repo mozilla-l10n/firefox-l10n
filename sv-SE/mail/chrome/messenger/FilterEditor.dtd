@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "Högsta">
 
 <!ENTITY contextDesc.label "Tillämpa filter vid:">
-<!ENTITY contextDesc.accesskey "T">
-<!ENTITY contextIncoming.label "E-posthämtning">
+<!ENTITY contextIncomingMail.label "E-posthämtning:">
+<!ENTITY contextIncomingMail.accesskey "H">
 <!ENTITY contextManual.label "Manuell körning">
-<!ENTITY contextBoth.label "E-posthämtning eller manuell körning">
-<!ENTITY contextPostPlugin.label "E-posthämtning (efter klassificering)">
-<!ENTITY contextPostPluginBoth.label "E-posthämtning (efter klassificering) eller manuell körning">
+<!ENTITY contextManual.accesskey "M">
+<!ENTITY contextBeforeCls.label "Filtrera innan skräppostklassificering">
+<!ENTITY contextAfterCls.label "Filtrera efter skräppostklassificering">
+
 <!ENTITY filterActionDesc.label "Gör följande:">
 <!ENTITY filterActionDesc.accesskey "G">
 
