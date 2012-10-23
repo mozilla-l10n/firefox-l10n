@@ -92,3 +92,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Sett opp &syncBrand.shortName.label; for å sende faner'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Sett opp &syncBrand.fullName.label; på enheten din for å sende faner til andre enheter.'>
 <!ENTITY sync.text.tab.sent.label 'Fanearket ble sendt!'>
+<!ENTITY sync.text.tab.not.sent.label 'Et problem oppstod ved sending av fane.'>
