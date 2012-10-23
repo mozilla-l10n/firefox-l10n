@@ -21,6 +21,8 @@
 <!ENTITY attachFileCmd.label "Bifoga fil…">
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Bifoga webbsida…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -75,6 +77,8 @@
 <!ENTITY editRewrapCmd.label "Gör om radbrytning">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "y">
+<!ENTITY renameAttachmentCmd.label "Byt namn på bilaga…">
+<!ENTITY renameAttachmentCmd.accesskey "B">
 <!ENTITY deleteCmd.label "Ta bort">
 <!ENTITY deleteCmd.accesskey "T">
 <!ENTITY selectAllCmd.label "Markera allt">
@@ -265,13 +269,21 @@
 <!ENTITY delete.label "Ta bort">
 <!ENTITY delete.accesskey "T">
 <!ENTITY removeAttachment.label "Ta bort bilaga">
-<!ENTITY removeAttachment.accesskey "a">
+<!ENTITY removeAttachment.accesskey "o">
 <!ENTITY renameAttachment.label "Byt namn…">
 <!ENTITY renameAttachment.accesskey "n">
 <!ENTITY selectAll.label "Markera allt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Bifoga fil(er)…">
 <!ENTITY attachFile.accesskey "B">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Konvertera till…">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Avbryt överföring">
+<!ENTITY cancelUpload.accesskey "A">
+<!ENTITY convertRegularAttachment.label "Vanlig bilaga">
+<!ENTITY convertRegularAttachment.accesskey "V">
 <!ENTITY attachPage.label "Bifoga webbsida…">
 <!ENTITY attachPage.accesskey "w">
 
