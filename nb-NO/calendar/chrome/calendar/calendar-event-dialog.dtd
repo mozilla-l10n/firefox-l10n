@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Innstillinger">
 <!ENTITY  event.menu.options.accesskey                        "I">
-<!ENTITY  event.menu.options.attachments.label                "Legg ved nettside …">
-<!ENTITY  event.menu.options.attachments.accesskey            "L">
 <!ENTITY  event.menu.options.attendees.label                  "Inviter deltakere …">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.spellcheck.label                 "Stavekontroll …">
@@ -147,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakere">
 <!ENTITY  event.toolbar.spellcheck.label                  "Stavekontroller">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
-<!ENTITY  event.toolbar.attachments.label                 "Legg ved">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Tittel:" >
@@ -180,16 +177,10 @@
 <!ENTITY event.description.accesskey                      "B">
 <!ENTITY event.attachments.label                          "Vedlegg:" >
 <!ENTITY event.attachments.accesskey                      "V" >
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Legg ved">
 <!ENTITY event.attachments.menubutton.accesskey           "L">
 <!ENTITY event.attachments.url.label                      "Nettside …">
 <!ENTITY event.attachments.url.accesskey                  "N">
-
 <!ENTITY event.attachments.popup.remove.label             "Fjern" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
 <!ENTITY event.attachments.popup.open.label               "Åpne" >
@@ -338,6 +329,10 @@
 <!ENTITY event.attendee.role.optional           "Deltakelse valgfritt">
 <!ENTITY event.attendee.role.chair              "Møteleder">
 <!ENTITY event.attendee.role.nonparticipant     "Deltar ikke">
+<!ENTITY event.attendee.usertype.individual     "Individuell">
+<!ENTITY event.attendee.usertype.group          "Gruppe">
+<!ENTITY event.attendee.usertype.resource       "Ressurs">
+<!ENTITY event.attendee.usertype.room           "Rom">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Oppgi tidssone">
