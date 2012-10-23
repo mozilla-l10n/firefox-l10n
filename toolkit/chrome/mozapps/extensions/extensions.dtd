@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addons.windowTitle                   "ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ">
 <!ENTITY search.placeholder                   "ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹುಡುಕು">
 <!ENTITY loading.label                        "ಲೋಡ್‌ ಆಗುತ್ತಿದೆ…">
