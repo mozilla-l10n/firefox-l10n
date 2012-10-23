@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Navn:">
 <!ENTITY calendarproperties.readonly.label                 "Skrivebeskyttet">
 <!ENTITY calendarproperties.firealarms.label               "Vis alarmer">
-<!ENTITY calendarproperties.cache2.label                   "Hurtiglager">
+<!ENTITY calendarproperties.cache3.label                   "Frakoblet støtte">
 <!ENTITY calendarproperties.enabled.label                  "Bruk denne kalenderen">
 <!ENTITY calendarproperties.forceDisabled.label            "Klarte ikke finne tilbyderen av denne kalenderen. Dette skjer ofte dersom du har slått av eller avinstallert enkelte utvidelser.">
 <!ENTITY calendarproperties.unsubscribe.label              "Stopp abonnement">
