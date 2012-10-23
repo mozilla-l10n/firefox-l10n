@@ -155,15 +155,11 @@
 <!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
 <!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
 <!ENTITY webapp_generic_name "Приложение">
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Доступно обновление &brandShortName;…">
-<!ENTITY updater_start_select "Выберите для загрузки обновления.">
-<!ENTITY updater_downloading_title "Загрузка &brandShortName;">
-<!ENTITY updater_downloading_ticker "Загрузка обновления &brandShortName;…">
-<!ENTITY updater_downloading_ticker_failed "Не удалось загрузить обновление &brandShortName;…">
-<!ENTITY updater_downloading_select "Выберите для применения обновления по завершении.">
-<!ENTITY updater_downloading_retry "Выберите для повторной загрузки обновления.">
-<!ENTITY updater_downloading_willapply "Ожидание завершения загрузки.">
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Доступно обновление &brandShortName;…">
-<!ENTITY updater_apply_select "Выберите для применения загруженного обновления.">
+<!ENTITY updater_start_title2 "Доступно обновление &brandShortName;">
+<!ENTITY updater_start_select2 "Нажмите для загрузки"> 
+<!ENTITY updater_downloading_title2 "Загрузка &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Загрузка не удалась">
+<!ENTITY updater_downloading_select2 "Нажмите для применения обновления по завершении загрузки">
+<!ENTITY updater_downloading_retry2 "Нажмите для повтора"> 
+<!ENTITY updater_apply_title2 "Доступно обновление &brandShortName;">
+<!ENTITY updater_apply_select2 "Нажмите для обновления">
