@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Configurações do Lixo Electrónico">
 <!ENTITY trainingDescription.label "Se activado, tem primeiro de treinar o &brandShortName; para identificar o lixo electrónico utilizando o botão lixo na barra de ferramentas para marcar a mensagem como sendo lixo ou não. Tem de identificar as mensagens como sendo lixo ou não. A partir daí o &brandShortName; poderá marcar o lixo automaticamente">
 <!ENTITY level.label "Activar os controlos de lixo adaptativos para esta conta">

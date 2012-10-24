@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Sobre o Lixo Electrónico">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "O &brandShortName; detecta automaticamente as mensagens que chegam e que parecem lixo electrónico (também conhecidas como spam). mensagens que o &brandShortName; pense que é lixo electrónico apresentam um ícone Lixo">

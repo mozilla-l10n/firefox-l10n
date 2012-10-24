@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Opções de envio">
 <!ENTITY sendMail.title "Formato Texto">
 <!ENTITY sendMaildesc.label "Quando envia mensagens no formato HTML e um ou mais destinatários não estão indicados como aptos a receber em HTML:">
