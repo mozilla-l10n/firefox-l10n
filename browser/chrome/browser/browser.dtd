@@ -265,7 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+<!ENTITY devToolbarOtherToolsButton.label  "Mai multe unelte">
 
 <!ENTITY webConsoleButton.label "Consolă web">
 <!ENTITY inspectorButton.label "Inspector">
@@ -669,7 +669,7 @@ toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label   "Not logged in">
+<!ENTITY social.notLoggedIn.label   "Nu ești autenficat">
 
 <!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
      used for the "OK" button for two different social panels. One appears when
@@ -681,8 +681,8 @@ toolbar button -->
 
 <!ENTITY social.sharePopup.undo.label     "Unshare">
 <!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.shared.label   "You shared this page.">
-<!ENTITY social.sharePopup.portrait.arialabel "User profile picture">
+<!ENTITY social.sharePopup.shared.label   "Ați împărtășit această pagină.">
+<!ENTITY social.sharePopup.portrait.arialabel "Fotografie profil utilizator">
 
 <!ENTITY social.toggleSidebar.label "Show sidebar">
 <!ENTITY social.toggleSidebar.accesskey "s">
