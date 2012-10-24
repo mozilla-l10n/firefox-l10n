@@ -12,7 +12,7 @@
      See UI mockup at bug 480169 -->
 
 <!ENTITY clearTimeDuration.label "Raon ama le glanadh: ">
-<!ENTITY clearTimeDuration.accesskey "T">
+<!ENTITY clearTimeDuration.accesskey "R">
 <!ENTITY clearTimeDuration.lastHour "An Uair Is Déanaí">
 <!ENTITY clearTimeDuration.last2Hours "An Dá Uair Is Déanaí">
 <!ENTITY clearTimeDuration.last4Hours "Na Ceithre hUaire Is Déanaí">
