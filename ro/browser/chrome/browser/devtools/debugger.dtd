@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -33,7 +35,7 @@
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
-<!ENTITY chromeDebuggerMenu.label    "Browser Debugger">
+<!ENTITY chromeDebuggerMenu.label    "Depanator navigator">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
@@ -71,7 +73,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Scope variables">
+<!ENTITY debuggerUI.propertiesTitle  "Variabile vizibile">
 
 <!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
   -  appears in the filter text box when it is empty. -->
