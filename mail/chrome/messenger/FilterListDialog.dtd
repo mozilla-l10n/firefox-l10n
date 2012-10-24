@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Ta bort">
 <!ENTITY deleteButton.accesskey "T">
+<!ENTITY reorderTopButton "Flytta till toppen">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Ordna filter så det utförs före alla andra">
 <!ENTITY reorderUpButton.label "Flytta upp">
 <!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Flytta ner">
 <!ENTITY reorderDownButton.accesskey "y">
+<!ENTITY reorderBottomButton "Flytta till botten">
+<!ENTITY reorderBottomButton.accessKey "b">
+<!ENTITY reorderBottomButton.toolTip "Ordna filter så det utförs efter alla andra">
 <!ENTITY filterHeader.label "Aktiva filterregler körs i följande ordning.">
 <!ENTITY filtersForPrefix.label "Filterregler för:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -31,3 +37,4 @@
 <!ENTITY helpButton.label "Hjälp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Sök filter efter namn…">

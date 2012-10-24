@@ -164,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-post">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Skärmnamn">
-<!ENTITY ScreenName.accesskey                           "ä">
+<!ENTITY ChatName.label                                 "Chattnamn">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisation">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Smeknamn">
@@ -198,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Hem">
 <!ENTITY other.heading                                  "Övrigt">
+<!ENTITY chat.heading                                   "Chatt">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Arbete">
 <!-- Special Box Headings, for mailing lists -->

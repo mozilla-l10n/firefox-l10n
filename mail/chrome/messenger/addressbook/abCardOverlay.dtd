@@ -36,7 +36,7 @@
 <!ENTITY NickName.label                 "Smeknamn:">
 <!ENTITY NickName.accesskey             "S">
 
-<!ENTITY PrimaryEmail.label		"E-postadress:">
+<!ENTITY PrimaryEmail.label             "E-postadress:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ytterligare e-post:">
 <!ENTITY SecondEmail.accesskey          "Y">
@@ -45,8 +45,7 @@
 <!ENTITY PlainText.label                "Oformaterad text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Vet ej">
-<!ENTITY ScreenName.label               "Skärmnamn:">
-<!ENTITY ScreenName.accesskey           "ä">
+<!ENTITY chatName.label                 "Chattnamn:">
 
 <!ENTITY allowRemoteContent1.label      "Tillåt fjärrinnehåll.">
 <!ENTITY allowRemoteContent1.accesskey  "å">
@@ -126,6 +125,25 @@ sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Anteckningar:">
 <!ENTITY Notes.accesskey                "n">
+
+<!ENTITY Chat.tab                       "Chatt">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">

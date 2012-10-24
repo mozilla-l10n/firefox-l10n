@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-advanced.xul -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Server för utgående e-post">
+<!ENTITY smtpServer.label "Server (SMTP) för utgående e-post">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Att ange fler än en server för utgående e-post (SMTP) rekommenderas endast för avancerade användare. Att ange flera SMTP-servrar kan orsaka problem när du skickar meddelanden.">
+<!ENTITY smtpDescription.label "När du hanterar dina identiteter kan du använda en server från listan genom att markera den som server för utgående e-post (SMTP), eller så kan du använda den förvalda servern från den här listan genom att välja &quot;Använd standardserver&quot;.">
 
 <!ENTITY smtpListAdd.label  "Lägg till…">
 <!ENTITY smtpListAdd.accesskey  "ä">

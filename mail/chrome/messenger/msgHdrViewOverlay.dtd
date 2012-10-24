@@ -27,11 +27,13 @@
 <!ENTITY hdrArchiveButton1.tooltip "Arkivera meddelandet">
 <!ENTITY hdrSmartReplyButton1.label "Svara smart">
 <!ENTITY hdrReplyButton1.label "Svara">
-<!ENTITY hdrReplyButton1.tooltip "Besvara meddelandet">
+<!ENTITY hdrReplyButton2.tooltip "Svara avsändare av meddelandet">
 <!ENTITY hdrReplyAllButton1.label "Svara alla">
 <!ENTITY hdrReplyAllButton1.tooltip "Svara avsändaren och alla mottagare">
 <!ENTITY hdrReplyListButton1.label "Svara listan">
 <!ENTITY hdrReplyListButton1.tooltip "Svara till e-postlistan">
+<!ENTITY hdrFollowupButton1.label "Uppföljning">
+<!ENTITY hdrFollowupButton1.tooltip "Skicka en uppföljning till nyhetsgruppen">
 <!ENTITY hdrForwardButton1.label "Vidarebefordra">
 <!ENTITY hdrForwardButton1.tooltip "Vidarebefordra meddelandet">
 <!ENTITY hdrJunkButton1.label "Skräp">
@@ -66,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Skriv ut…">
 <!ENTITY otherActionsPrint1.accesskey "u">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Inledningsvis visa panelen bilaga">
+<!ENTITY startExpandedCmd.accesskey    "V">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Öppna">
 <!ENTITY openAttachmentCmd.accesskey    "p">
@@ -96,5 +102,8 @@
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopiera meddelande-ID">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Öppna meddelande för ID">
+<!ENTITY OpenMessageForMsgId.accesskey "p">
 <!ENTITY OpenBrowserWithMsgId.label "Öppna webbläsare med meddelande-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "w">

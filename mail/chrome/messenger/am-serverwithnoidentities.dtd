@@ -2,14 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "Kontoinställningar">
-<!ENTITY accountSettingsDesc.label "Detta är ett Specialkonto. Det finns ingen identitet knuten till det.">
 <!ENTITY accountName.label "Kontonamn:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY messageStorage.label "Meddelandelagring">
-<!ENTITY emptyTrashOnExit.label "Töm papperskorgen vid stängning">
-<!ENTITY emptyTrashOnExit.accesskey "ä">
-<!ENTITY localPath.label "Lokal katalog:">
-<!ENTITY localFolderPicker.label "Välj lokal katalog:">
-<!ENTITY browseFolder.label "Bläddra…">
-<!ENTITY browseFolder.accesskey "B">

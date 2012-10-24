@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Mer information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+
+<!ENTITY scrolling.label               "Scrollning">
+<!ENTITY useAutoScroll.label           "Använd automatisk scrollning">
+<!ENTITY useAutoScroll.accesskey       "u">
+<!ENTITY useSmoothScrolling.label      "Använd mjuk scrollning">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Systemintegration">
 <!ENTITY alwaysCheckDefault.label      "Kontrollera vid start om &brandShortName; är standardklient för e-post">
 <!ENTITY alwaysCheckDefault.accesskey  "o">
@@ -71,6 +78,9 @@
 <!ENTITY showUpdates.label              "Visa tidigare uppdateringar">
 <!ENTITY showUpdates.accesskey          "V">
 
+<!ENTITY useService.label               "Använd en tjänst som körs i bakgrunden för att installera uppdateringar">
+<!ENTITY useService.accesskey           "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Inställningar…">
 <!ENTITY showSettings.accesskey        "I">
@@ -81,10 +91,10 @@
 <!ENTITY showOffline.label             "Nedkopplat läge…">
 <!ENTITY showOffline.accesskey         "N">
 
-<!ENTITY Diskspace                   "Diskutrymme">
-<!ENTITY offlineCompact.label        "Komprimera mappar när det kan spara över">
-<!ENTITY offlineCompact.accesskey    "K">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Diskutrymme">
+<!ENTITY offlineCompactFolders.label     "Komprimera alla mappar när det kommer spara över">
+<!ENTITY offlineCompactFolders.accesskey "K">
+<!ENTITY offlineCompactFoldersMB.label   "MB totalt">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

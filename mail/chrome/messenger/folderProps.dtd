@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "Kvot-rot:">
 <!ENTITY folderQuotaUsage.label                  "Användning:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
+
+<!ENTITY numberOfMessages.label                  "Antal meddelanden:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "okänt">
+<!ENTITY sizeOnDisk.label                        "Storlek på disk:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "okänd">

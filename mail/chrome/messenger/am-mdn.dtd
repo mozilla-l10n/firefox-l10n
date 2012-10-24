@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Mottagningskvitton">
 <!ENTITY useGlobalPrefs.label         "Använd globala inställningar">
 <!ENTITY useGlobalPrefs.accesskey     "A">
+<!ENTITY globalReceipts.label         "Globala inställningar…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Använd kontospecifika inställningar">
 <!ENTITY useCustomPrefs.accesskey     "k">
 <!ENTITY requestReceipt.label         "Begär alltid mottagningskvitto när meddelanden skickas">

@@ -11,6 +11,7 @@
 <!ENTITY paneGeneral.title        "Allmänt">
 <!ENTITY paneDisplay.title        "Visa">
 <!ENTITY paneComposition.title    "Skriva">
+<!ENTITY paneChat.title           "Chatt">
 <!ENTITY paneAttachments.title    "Bilagor">
 <!ENTITY paneSecurity.title       "Säkerhet">
 <!ENTITY paneAdvanced.title       "Avancerat">

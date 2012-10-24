@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Välkommen till &brandShortName;">
-<!ENTITY header.label "Vill du ha en ny e-postadress för &brandShortName;?">
+<!ENTITY header2.label "Vill du ha en ny e-postadress?">
 <!ENTITY other.languages "Vi visar endast de adressleverantörer som finns för ditt område.  Klicka här för att visa alla leverantörer.">
 <!ENTITY error.line1 "Tyvärr, vi kunde inte hitta några förslag på e-postadresser.">
 <!ENTITY error.line2 "Du kan prova att söka efter smeknamn eller andra termer för att hitta fler alternativ">
