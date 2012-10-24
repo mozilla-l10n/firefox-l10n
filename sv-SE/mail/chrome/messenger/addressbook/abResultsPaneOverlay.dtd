@@ -2,35 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY GeneratedName.label 		       "Namn">
-<!ENTITY GeneratedName.accesskey   	       "N">
-<!ENTITY PrimaryEmail.label 		       "E-post">
-<!ENTITY PrimaryEmail.accesskey		       "E">
+<!ENTITY GeneratedName.label 		           "Namn">
+<!ENTITY GeneratedName.accesskey   	           "N">
+<!ENTITY PrimaryEmail.label 		           "E-post">
+<!ENTITY PrimaryEmail.accesskey		           "E">
 <!ENTITY Company.label                         "Organisation">
-<!ENTITY Company.accesskey 		       "O">
+<!ENTITY Company.accesskey 		               "z">
 <!ENTITY _PhoneticName.label                   "Fonetiskt namn">
-<!ENTITY _PhoneticName.accesskey               "F">
-<!ENTITY NickName.label 		       "Smeknamn">
-<!ENTITY NickName.accesskey    		       "s">
-<!ENTITY SecondEmail.label   		       "Ytterligare e-post">
-<!ENTITY SecondEmail.accesskey 		       "y">
-<!ENTITY Department.label		       "Avdelning">
-<!ENTITY Department.accesskey		       "d">
-<!ENTITY JobTitle.label			       "Titel">
-<!ENTITY JobTitle.accesskey  		       "T">
-<!ENTITY CellularNumber.label 		       "Mobiltelefon">
-<!ENTITY CellularNumber.accesskey 	       "M">
-<!ENTITY PagerNumber.label 		       "Personsökare">
-<!ENTITY PagerNumber.accesskey 		       "P">
-<!ENTITY FaxNumber.label 		       "Fax">
-<!ENTITY FaxNumber.accesskey 		       "F">
-<!ENTITY HomePhone.label 		       "Telefon hem">
-<!ENTITY HomePhone.accesskey 		       "H">
-<!ENTITY WorkPhone.label 		       "Telefon arbete">
-<!ENTITY WorkPhone.accesskey 		       "a">
-<!ENTITY ScreenName.label                      "Skärmnamn">
-<!ENTITY ScreenName.accesskey                  "ä">
-<!ENTITY sortAscending.label  		       "Stigande">
-<!ENTITY sortAscending.accesskey  	       "t">
-<!ENTITY sortDescending.label 		       "Fallande">
-<!ENTITY sortDescending.accesskey 	       "f">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label 		               "Smeknamn">
+<!ENTITY NickName.accesskey    		           "k">
+<!ENTITY SecondEmail.label   		           "Ytterligare e-post">
+<!ENTITY SecondEmail.accesskey 		           "Y">
+<!ENTITY Department.label		               "Avdelning">
+<!ENTITY Department.accesskey		           "d">
+<!ENTITY JobTitle.label			               "Titel">
+<!ENTITY JobTitle.accesskey  		           "T">
+<!ENTITY CellularNumber.label 		           "Mobiltelefon">
+<!ENTITY CellularNumber.accesskey 	           "M">
+<!ENTITY PagerNumber.label 		               "Personsökare">
+<!ENTITY PagerNumber.accesskey 		           "P">
+<!ENTITY FaxNumber.label 		               "Fax">
+<!ENTITY FaxNumber.accesskey 		           "x">
+<!ENTITY HomePhone.label 		               "Telefon hem">
+<!ENTITY HomePhone.accesskey 		           "h">
+<!ENTITY WorkPhone.label 		               "Telefon arbete">
+<!ENTITY WorkPhone.accesskey 		           "a">
+<!ENTITY ChatName.label                        "Chattnamn">
+<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label  		           "Stigande">
+<!ENTITY sortAscending.accesskey  	           "S">
+<!ENTITY sortDescending.label 		           "Fallande">
+<!ENTITY sortDescending.accesskey 	           "F">

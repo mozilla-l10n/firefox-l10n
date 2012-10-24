@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY messageStorage.label "Lagring av meddelanden">
 <!ENTITY securitySettings.label "Säkerhetsinställningar">
 <!ENTITY serverSettings.label "Serverinställningar">
 <!ENTITY serverType.label "Typ av teknik:">
@@ -78,3 +81,6 @@
 <!ENTITY newsrcPicker.label "Välj newsrc-fil">
 <!ENTITY browseNewsrc.label "Bläddra…">
 <!ENTITY browseNewsrc.accesskey "d">
+
+<!ENTITY accountTitle.label "Kontoinställningar">
+<!ENTITY accountSettingsDesc.label "Detta är ett specialkonto. Det finns ingen identitet knuten till det.">
