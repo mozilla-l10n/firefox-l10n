@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectMenu.commandkey "I">
 
 <!ENTITY inspectContextMenu.label "Scrúdaigh Eilimint">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "S">
 
 <!ENTITY responsiveDesignTool.label "Dearadh Sofhreagrach">
 <!ENTITY responsiveDesignTool.accesskey "D">
