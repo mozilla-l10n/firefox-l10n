@@ -226,19 +226,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "App">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName;-opdatering tilgængelig&#8230;">
-<!ENTITY updater_start_select "Hent opdatering.">
+<!ENTITY updater_start_title2 "Opdatering tilgængelig til &brandShortName;">
+<!ENTITY updater_start_select2 "Tryk for at hente">
 
-<!ENTITY updater_downloading_title "Henter &brandShortName;">
-<!ENTITY updater_downloading_ticker "Henter &brandShortName;-opdatering&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Kunne ikke hente &brandShortName;-opdatering&#8230;">
-<!ENTITY updater_downloading_select "Installer opdatering, når den er hentet.">
-<!ENTITY updater_downloading_retry "Prøv at hente opdatering igen.">
-<!ENTITY updater_downloading_willapply "Venter på, at hentning er afsluttet.">
+<!ENTITY updater_downloading_title2 "Henter &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Hentning mislykkedes">
+<!ENTITY updater_downloading_select2 "Tryk for at installere opdatering, når den er hentet">
+<!ENTITY updater_downloading_retry2 "Tryk for at prøve igen">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName;-opdatering tilgængelig&#8230;">
-<!ENTITY updater_apply_select "Installer hentet opdatering."> 
+<!ENTITY updater_apply_title2 "Opdatering tilgængelig til &brandShortName;">
+<!ENTITY updater_apply_select2 "Tryk for at opdatere"> 
 
 
