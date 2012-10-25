@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY enableJavaScript.label "जावास्क्रिप्ट कार्यान्वीत करा">
 <!ENTITY enableJavaScript.accesskey "J">
 <!ENTITY advancedJS.label "प्रगत">

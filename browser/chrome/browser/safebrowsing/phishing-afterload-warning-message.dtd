@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "संशयीत वेब बनावटीकरण">
 
 <!ENTITY safeb.palm.message.p1 "हे पान वेब बनावटीकरण पान स्वरूपी घोषीत केले गेले आहे जे वापरकर्त्यांकडुन व्यक्तिगत व आर्थिक माहिती अवैधरित्या प्राप्त करते. ह्या पानावरील व्यक्तिगत माहिती प्रविष्ट केल्यावर चुकिची ओळख किंवा अन्य घोटळे निर्माण होऊ शकतात. &#160;">
