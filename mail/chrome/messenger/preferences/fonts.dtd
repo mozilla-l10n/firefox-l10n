@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltiska språk">
 <!ENTITY  font.langGroup.el                       "Grekiska">
 <!ENTITY  font.langGroup.turkish                  "Turkiska">
-<!ENTITY  font.langGroup.unicode                  "Andra språk">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Användaranpassad">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebreiska">

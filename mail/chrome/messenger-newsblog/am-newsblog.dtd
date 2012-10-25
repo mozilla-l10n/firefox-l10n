@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "Kontoinställningar">
-
 <!ENTITY biffStart.label "Sök efter nya artiklar var ">
-<!ENTITY biffStart.accesskey "ö">
+<!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minut">
 
 <!ENTITY loginAtStartup.label "Sök efter nya artiklar vid start"> 

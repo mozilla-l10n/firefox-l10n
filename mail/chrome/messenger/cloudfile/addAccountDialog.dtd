@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Konfigurera Filelink">
+<!ENTITY addAccountDialog.menuTitle "Välj en lagringstjänt online">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Kontonamn:">
+<!ENTITY addAccountDialog.noAccountText "Vi ber om ursäkt, men den nuvarande versionen av &brandShortName; tillåter endast ett konto från varje lagringstjänst online.">
+<!ENTITY addAccountDialog.createAccountText2 "Du kan skicka stora bilagor med någon av lagringstjänsterna online. Antingen genom att använda ett befintligt konto eller registrera dig för ett nytt konto.">
+<!ENTITY addAccountDialog.authorizing "Kontrollerar tillstånd…">
+<!ENTITY addAccountDialog.error "Ett fel inträffade under installationen av kontot!">
+<!ENTITY addAccountDialog.acceptButton.label "Konfigurera konto">
+<!ENTITY addAccountDialog.learnMore "Läs mer…">
