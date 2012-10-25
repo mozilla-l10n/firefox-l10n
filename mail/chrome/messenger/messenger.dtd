@@ -89,7 +89,7 @@
 <!ENTITY deleteFolderCmd.label "Elimina cartella">
 <!ENTITY deleteFolderCmd.accesskey "E">
 <!ENTITY unsubscribeNewsgroupCmd.label "Annulla sottoscrizione">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Seleziona">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Tutti">
