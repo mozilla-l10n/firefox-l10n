@@ -30,6 +30,10 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "S">
 <!ENTITY newExistingEmailAccountCmd.label "Existerande e-postkonto…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Nytt chattkonto…">
+<!ENTITY newIMAccountCmd.accesskey "c">
+<!ENTITY newIMContactCmd.label "Ny chattkontakt…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
 <!ENTITY openMessageFileCmd.accesskey "s">
 <!ENTITY openAttachmentCmd.label "Bilagor">
@@ -248,33 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Visa bilagor i meddelandet">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "b">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Zooma in">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "Z">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Zooma ut">
-<!ENTITY fullZoomReduceCmd.accesskey    "u">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Återställ">
-<!ENTITY fullZoomResetCmd.accesskey     "Å">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Zooma endast texten">
-<!ENTITY fullZoomToggleCmd.accesskey    "e">
-<!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
-
 <!ENTITY pageSourceCmd.label "Meddelandets källkod">
 <!ENTITY pageSourceCmd.accesskey "k">
 <!ENTITY pageSourceCmd.key "u">
@@ -329,6 +306,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Bakåt">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chatt">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Märkta meddelande">
 <!ENTITY prevStarredMsgCmd.accesskey "ä">
 <!ENTITY folderMenu.label "Mapp">
@@ -336,6 +316,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Den här mappen">
 <!ENTITY thisFolder.accesskey "D">
 <!ENTITY goRecentlyClosedTabs.label "Nyligen stängda flikar">
+<!ENTITY goRecentlyClosedTabs.accesskey "l">
 <!ENTITY startPageCmd.label "Meddelandestartsidan">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -356,8 +337,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Svara endast avsändaren">
 <!ENTITY replySenderCmd.accesskey "ä">
-<!ENTITY replyNewsgroupCmd.label "Svara till diskussionsgrupp">
-<!ENTITY replyNewsgroupCmd.accesskey  "d">
+<!ENTITY replyNewsgroupCmd2.label "Svara till diskussionsgrupp">
+<!ENTITY replyNewsgroupCmd2.accesskey  "d">
 <!ENTITY replyToAllMsgCmd.label "Svara alla">
 <!ENTITY replyToAllMsgCmd.accesskey  "a">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -471,6 +452,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "T">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "e">
+<!ENTITY imAccountsStatus.label "Chattstatus">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Tillgänglig">
+<!ENTITY imStatus.unavailable        "Upptagen">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Visa konton…">
+<!ENTITY joinChatCmd.label "Anslut till chatt…">
+<!ENTITY joinChatCmd.accesskey "A">
 <!ENTITY savedFiles.label "Sparade filer">
 <!ENTITY savedFiles.accesskey "r">
 <!ENTITY savedFiles.key "j">
@@ -490,6 +479,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.label "Felkonsol">
 <!ENTITY errorConsoleCmd.accesskey "s">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Rensa historik…">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd.label "Kontoinställningar…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -506,7 +498,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Spara">
 <!ENTITY archiveButton.label "Arkivera">
 <!ENTITY nextButton.label "Nästa">
-<!ENTITY previousButton.label "Tidigare">
+<!ENTITY nextButtonToolbarItem.label "Nästa olästa">
+<!ENTITY nextMsgButton.label "Nästa">
+<!ENTITY previousButton.label "Föregående">
+<!ENTITY previousButtonToolbarItem.label "Föregående olästa">
+<!ENTITY previousMsgButton.label "Föregående">
 <!ENTITY backButton1.label "Bakåt">
 <!ENTITY goForwardButton1.label "Framåt">
 <!ENTITY deleteItem.title "Ta bort">
@@ -520,12 +516,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Skräppost">
 <!ENTITY notJunkButton.label "Ej skräp">
 <!ENTITY addressBookButton.label "Adressboken">
+<!ENTITY chatButton.label "Chatt">
 <!ENTITY glodaSearch.title "Global sökning">
 <!ENTITY searchItem.title "Snabbsökning">
 <!ENTITY mailViewsToolbarItem.title "Meddelandevyer">
 <!ENTITY folderLocationToolbarItem.title "Mappväljare">
 <!ENTITY tagButton.label "Etikett">
 <!ENTITY compactButton.label "Komprimera">
+<!ENTITY appmenuButton.label "Programmeny">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Avancerad sökning efter meddelanden">
@@ -539,8 +537,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.tooltip "Vidarebefordrar meddelandet">
 <!ENTITY fileButton.tooltip "Sparar markerat meddelande">
 <!ENTITY archiveButton.tooltip "Arkiverar markerat meddelande">
-<!ENTITY nextButton.tooltip "Hoppar till nästa olästa meddelande">
-<!ENTITY previousButton.tooltip "Flytta till det föregående olästa meddelandet">
+<!ENTITY nextButton.tooltip "Flytta till nästa olästa meddelande">
+<!ENTITY nextMsgButton.tooltip "Flytta till nästa meddelande">
+<!ENTITY previousButton.tooltip "Flytta till föregående olästa meddelande">
+<!ENTITY previousMsgButton.tooltip "Flytta till föregående meddelande">
 <!ENTITY goForwardButton.tooltip "Gå framåt ett meddelande">
 <!ENTITY goBackButton.tooltip "Gå bakåt ett meddelande">
 <!ENTITY deleteButton.tooltip "Tar bort markerat meddelande eller mapp">
@@ -551,12 +551,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Märk de markerade meddelandena som skräp">
 <!ENTITY notJunkButton.tooltip "Märk de markerade meddelandena som icke skräp">
 <!ENTITY addressBookButton.tooltip "Gå till adressboken">
+<!ENTITY chatButton.tooltip "Visa fliken chatt">
 <!ENTITY tagButton.tooltip "Sätt etiketter på meddelanden">
 <!ENTITY compactButton.tooltip "Rensa ut borttagna meddelanden från markerad mapp">
+<!ENTITY appmenuButton.tooltip "Visar programmenyn">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nytt meddelande">
+<!ENTITY appmenuNewContactCmd.label "Kontakt addressbok…">
+<!ENTITY appmenuEditMenu.label "Redigera">
+<!ENTITY appmenuQFBMenu.label "Snabbfilter">
+<!ENTITY appmenuToolbarLayout.label "Layout verktygsfält…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Ny etikett…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Hantera etiketter…">
+<!ENTITY manageTags.accesskey "H">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Namn">
@@ -591,8 +602,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
 <!ENTITY folderContextSubscribe.label "Prenumerera…">
 <!ENTITY folderContextSubscribe.accesskey "p">
-<!ENTITY folderContextSearchMessages.label "Sök…">
-<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextSearchForMessages.label "Sök meddelanden…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Egenskaper">
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoritmapp">
@@ -676,8 +687,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "ä">
-<!ENTITY contextReplyNewsgroup.label "Svara till diskussionsgrupp">
-<!ENTITY contextReplyNewsgroup.accesskey "d">
+<!ENTITY contextReplyNewsgroup2.label "Svara till diskussionsgrupp">
+<!ENTITY contextReplyNewsgroup2.accesskey "d">
 <!ENTITY contextReplyAll.label "Svara alla">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "Svara till listan">
@@ -757,7 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "L">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Skräppost">
+<!ENTITY junkBarMessage2.label "&brandShortName; tror att meddelandet är skräppost">
 <!ENTITY junkBarButton1.label "Ej skräp">
 <!ENTITY junkInfoButton.label "?">
 
@@ -783,28 +794,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Sök bland alla meddelanden… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Sök… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Lägg till i adressbok…">

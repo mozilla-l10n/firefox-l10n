@@ -21,3 +21,18 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Välj…">
 <!ENTITY chooseFolderMac.accesskey    "V">
+
+<!ENTITY attachments.incoming.label   "Inkommande">
+<!ENTITY attachments.outgoing.label   "Utgående">
+
+<!ENTITY addCloudFileAccount.label        "Lägg till">
+<!ENTITY addCloudFileAccount.accesskey    "L">
+<!ENTITY addCloudFileAccount.description  "Lägg till en ny Filelink lagringstjänst">
+<!ENTITY removeCloudFileAccount.label     "Ta bort">
+<!ENTITY removeCloudFileAccount.accesskey "T">
+<!ENTITY authRequired.description         "Ditt tillstånd krävs för att se inställningarna för lagringstjänsten.">
+<!ENTITY authRequired.button.label        "Godkänna">
+<!ENTITY authRequired.button.accesskey    "G">
+
+<!ENTITY enableCloudFileAccountOffer.label "Erbjuder dig att dela filer större än">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
