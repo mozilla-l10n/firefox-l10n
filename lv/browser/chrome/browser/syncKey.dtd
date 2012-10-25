@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY syncKey.page.title               "Jūsu &syncBrand.fullName.label;s atslēga">
 <!ENTITY syncKey.page.description2         "Šī atslēga tiks izmantota, lai atšifrētu datus jūsu &syncBrand.fullName.label;s kontā. Šo atslēgu jums vajadzēs ievadīt katru reizi, kad konfigurēsiet &syncBrand.fullName.label;s izmantošanu kādai jaunai ierīcei.">
 <!ENTITY syncKey.keepItSecret.heading     "Turiet šo atslēgu slepenu">
