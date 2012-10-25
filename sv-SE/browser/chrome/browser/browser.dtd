@@ -659,3 +659,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Ångra">
 <!ENTITY social.activated.undobutton.accesskey "Å">
+
+<!ENTITY social.chatBar.commandkey "c">
