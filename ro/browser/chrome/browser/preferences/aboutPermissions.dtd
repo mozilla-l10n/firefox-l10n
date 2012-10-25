@@ -33,6 +33,7 @@
 <!ENTITY permission.alwaysAsk            "Întreabă mereu">
 <!ENTITY permission.allow                "Permite">
 <!ENTITY permission.allowForSession      "Permite pentru sesiune">
+<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
 <!ENTITY permission.block                "Blochează">
 
 <!ENTITY password.label                  "Stocheze parole">

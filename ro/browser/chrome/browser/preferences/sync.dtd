@@ -51,8 +51,8 @@
 <!ENTITY engine.addons.accesskey    "S">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Nume calculator:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 
 <!-- Footer stuff -->

@@ -50,6 +50,9 @@
 <!ENTITY openRecentMenu.label         "Deschide fișiere recente">
 <!ENTITY openRecentMenu.accesskey     "r">
 
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "Salvează">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -115,6 +118,10 @@
   -->
 <!ENTITY resetContext2.label          "Resetează variabilele">
 <!ENTITY resetContext2.accesskey      "t">
+
+<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Execută">
 <!ENTITY executeMenu.accesskey        "x">

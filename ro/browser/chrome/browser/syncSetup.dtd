@@ -26,7 +26,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Folosesc deja &syncBrand.shortName.label; pe alt calculator">
+<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
@@ -92,8 +92,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opțiuni de sincronizare">
-<!ENTITY syncComputerName.label       "Nume calculator:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sincronizează">
 <!ENTITY engine.bookmarks.label     "Semne de carte">
@@ -109,16 +109,16 @@
 <!ENTITY engine.addons.label        "Suplimente">
 <!ENTITY engine.addons.accesskey    "S">
 
-<!ENTITY choice2.merge.main.label      "Combină datele de pe acest calculator cu datele existente în &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Recomandat:">
-<!ENTITY choice2.client.main.label     "Înlocuiește toate datele pe acest calculator cu datele din &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Înlocuiește datele celorlalte dispozitive cu datele de pe acest calculator">
+<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmare">
-<!ENTITY confirm.merge.label    "Ați ales să combinați datele de pe acest calculator cu datele de pe alte dispozitive care rulează &syncBrand.fullName.label;.">
-<!ENTITY confirm.client2.label         "Atenție: Următoarele date &brandShortName; de pe acest calculator vor fi șterse:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; va copia apoi datele din &syncBrand.fullName.label; pe acest calculator.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
 <!ENTITY confirm.server2.label         "Atenție: Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">
 
 <!-- New & Existing Account: Setup Complete -->
