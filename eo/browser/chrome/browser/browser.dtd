@@ -84,9 +84,9 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Eniri plenekranan reĝimon">
-<!ENTITY enterFullScreenCmd.accesskey "P">
+<!ENTITY enterFullScreenCmd.accesskey "n">
 <!ENTITY exitFullScreenCmd.label "Eliri el ekranplena reĝimo">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.accesskey "l">
 <!ENTITY fullScreenCmd.label "Plenekrane">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -476,25 +476,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Ludi">
-<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPlay.accesskey         "L">
 <!ENTITY mediaPause.label            "Paŭzigi">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Silentigi">
-<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Malsilentigi">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "M">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Montri regilojn">
-<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.accesskey "M">
 <!ENTITY mediaHideControls.label     "Kaŝi regilojn">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaHideControls.accesskey "K">
 <!ENTITY videoFullScreen.label       "Plenekrane">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.accesskey   "P">
 <!ENTITY videoSaveImage.label        "Konservi filmetan bildon kiel…">
 <!ENTITY videoSaveImage.accesskey    "K">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
