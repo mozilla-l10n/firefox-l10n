@@ -659,3 +659,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Malfari">
 <!ENTITY social.activated.undobutton.accesskey "M">
+
+<!ENTITY social.chatBar.commandkey "c">
