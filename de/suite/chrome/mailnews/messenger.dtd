@@ -79,7 +79,7 @@
 <!ENTITY undeleteMsgCmd.accesskey "L">
 <!ENTITY cancelNewsMsgCmd.label "Nachricht annullieren">
 <!ENTITY cancelNewsMsgCmd.accesskey "h">
-<!ENTITY deleteMsgsCmd.label "ausgewählte Nachrichten löschen">
+<!ENTITY deleteMsgsCmd.label "Ausgewählte Nachrichten löschen">
 <!ENTITY deleteMsgsCmd.accesskey "a">
 <!ENTITY undeleteMsgsCmd.label "Löschen der gewählten Nachrichten aufheben">
 <!ENTITY undeleteMsgsCmd.accesskey "L">
