@@ -238,12 +238,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Je dostupná aktualizácia pre &brandShortName;">
-<!ENTITY updater_start_select2 "Ťuknutím je prevezmete">
+<!ENTITY updater_start_select2 "Ťuknutím sem ju prevezmete">
 
 <!ENTITY updater_downloading_title2 "Preberá sa &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Prevzatie zlyhalo">
-<!ENTITY updater_downloading_select2 "Ťuknutím nainštalujete aktualizáciu po jej prevzatí">
-<!ENTITY updater_downloading_retry2 "Ťuknutím to skúste znova">
+<!ENTITY updater_downloading_select2 "Ťuknutím sem aktualizáciu po prevzatí nainštalujete">
+<!ENTITY updater_downloading_retry2 "Ťuknutím sem to skúste znova">
 
-<!ENTITY updater_apply_title2 "Je dostupná aktualizácie pre &brandShortName;">
-<!ENTITY updater_apply_select2 "Ťuknutím ju použijete">
+<!ENTITY updater_apply_title2 "Je dostupná aktualizácia pre &brandShortName;">
+<!ENTITY updater_apply_select2 "Ťuknutím sem ju použijete">
