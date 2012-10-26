@@ -308,7 +308,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Konverzácie">
 <!ENTITY goChatCmd.accesskey "K">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Správa s hviezdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
 <!ENTITY folderMenu.label "Priečinok">
@@ -851,7 +851,7 @@
 <!ENTITY saveImageAsCmd.label "Uložiť obrázok ako…">
 <!ENTITY saveImageAsCmd.accesskey "b">
 <!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyLinkCmd.accesskey "d">
 <!ENTITY copyImageAllCmd.label "Kopírovať obrázok">
 <!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Kopírovať e-mailovú adresu">
