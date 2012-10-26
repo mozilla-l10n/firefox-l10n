@@ -585,7 +585,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nytt meddelande">
-<!ENTITY appmenuNewContactCmd.label "Kontakt addressbok…">
+<!ENTITY appmenuNewContactCmd.label "Kontakt adressbok…">
 <!ENTITY appmenuEditMenu.label "Redigera">
 <!ENTITY appmenuQFBMenu.label "Snabbfilter">
 <!ENTITY appmenuToolbarLayout.label "Layout verktygsfält…">
