@@ -9,7 +9,7 @@
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Malantaŭen">
-<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.accesskey           "M">
 <!ENTITY backButton.tooltip             "Iri malantaŭen unu paĝo">
 <!ENTITY forwardButton.label            "Antaŭen">
 <!ENTITY forwardButton.accesskey        "A">
