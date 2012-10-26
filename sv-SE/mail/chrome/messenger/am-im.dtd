@@ -5,7 +5,7 @@
 <!ENTITY accountWindow.title           "Kontoegenskaper">
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Allmän">
-<!ENTITY account.advanced              "Advancerade inställningar">
+<!ENTITY account.advanced              "Avancerade inställningar">
 <!ENTITY account.name                  "Användarnamn:">
 <!ENTITY account.password              "Lösenord:">
 <!ENTITY account.alias                 "Alias:">
