@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Edición e enderezos">
@@ -37,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "Incluír sinatura para os reenvíos">
 <!ENTITY includeSigOnForward.accesskey        "I">
+
+<!ENTITY globalComposingPrefs.label           "Preferencias globais de redacción…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Preferencias globais dos enderezos…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
