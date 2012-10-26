@@ -239,20 +239,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webapp_generic_name "ਐਪ">
 
-
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ&#8230;">
-<!ENTITY updater_start_select "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਚੁਣੋ।">
-
-<!ENTITY updater_downloading_title "&brandShortName; ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY updater_downloading_ticker "&brandShortName; ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਿਹਾ ਹੈ&#8230;">
-<!ENTITY updater_downloading_ticker_failed "&brandShortName; ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ&#8230;">
-<!ENTITY updater_downloading_select "ਜਦੋਂ ਪੂਰਾ ਹੋ ਜਾਵੇ ਤਾਂ ਅੱਪਡੇਟ ਲਾਗੂ ਕਰਨ ਲਈ ਚੁਣੋ।">
-<!ENTITY updater_downloading_retry "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਚੁਣੋ।">
-<!ENTITY updater_downloading_willapply "ਪੂਰਾ ਕਰਨ ਲਈ ਡਾਊਨਲੋਡ ਹੋਣ ਦੀ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।">
-
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ&#8230;">
-<!ENTITY updater_apply_select "ਡਾਊਨਲੋਡ ਕੀਤੇ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕਰਨ ਲਈ ਚੁਣੋ">
-
+<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_select2 "ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਛੂਹੋ">
+ 
+<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
+<!ENTITY updater_downloading_retry2 "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਲਈ ਛੂਹੋ">
+ 
+<!ENTITY updater_apply_title2 "&brandShortName; ਲਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
+<!ENTITY updater_apply_select2 "ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਛੂਹੋ">
