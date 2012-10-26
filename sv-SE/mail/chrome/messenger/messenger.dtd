@@ -558,7 +558,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nytt meddelande">
-<!ENTITY appmenuNewContactCmd.label "Kontakt addressbok…">
+<!ENTITY appmenuNewContactCmd.label "Kontakt adressbok…">
 <!ENTITY appmenuEditMenu.label "Redigera">
 <!ENTITY appmenuQFBMenu.label "Snabbfilter">
 <!ENTITY appmenuToolbarLayout.label "Layout verktygsfält…">
