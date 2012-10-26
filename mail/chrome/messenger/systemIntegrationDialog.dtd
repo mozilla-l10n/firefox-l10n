@@ -1,4 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY systemIntegration.title  "Integração do sistema">
+<!ENTITY acceptIntegration.label  "Definir como padrão">
+<!ENTITY cancelIntegration.label  "Saltar integração">
 <!ENTITY defaultClient.intro  "Usar o &brandShortName; como cliente pré-definido para:">
 
 <!ENTITY email.label "Correio electrónico">

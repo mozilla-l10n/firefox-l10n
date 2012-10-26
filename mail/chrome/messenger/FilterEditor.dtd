@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "Muito Alta">
 
 <!ENTITY contextDesc.label "Aplicar filtro quando:">
-<!ENTITY contextDesc.accesskey "q">
-<!ENTITY contextIncoming.label "A verificar correio">
+<!ENTITY contextIncomingMail.label "A obter novo correio:">
+<!ENTITY contextIncomingMail.accesskey "b">
 <!ENTITY contextManual.label "Verificação manual">
-<!ENTITY contextBoth.label "A verificar correio ou verificação manual">
-<!ENTITY contextPostPlugin.label "A verificar correio (após classificar)">
-<!ENTITY contextPostPluginBoth.label "A verificar correio (após classificar) ou executar manualmente">
+<!ENTITY contextManual.accesskey "f">
+<!ENTITY contextBeforeCls.label "Filtrar antes da classificação de Lixo">
+<!ENTITY contextAfterCls.label "Filtrar depois da classificação de Lixo">
+
 <!ENTITY filterActionDesc.label "Efectuar estas acções:">
 <!ENTITY filterActionDesc.accesskey "F">
 
