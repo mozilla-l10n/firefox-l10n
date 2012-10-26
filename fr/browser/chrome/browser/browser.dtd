@@ -662,3 +662,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Annuler">
 <!ENTITY social.activated.undobutton.accesskey "A">
+
+<!ENTITY social.chatBar.commandkey "c">
