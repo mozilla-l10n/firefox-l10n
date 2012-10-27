@@ -34,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey "ล">
 <!ENTITY alwaysAsk.label "ถามทุกครั้งว่าจะบันทึกแฟ้มที่ไหน">
 <!ENTITY alwaysAsk.accesskey "ถ">
-
-<!ENTITY addonsMgr.label "ส่วนเสริม">
-<!ENTITY manageAddonsDescWin.label "เปลี่ยนแปลงตัวเลือกสำหรับส่วนเสริม">
-<!ENTITY manageAddonsDescUnix2.label "เปลี่ยนแปลงค่าปรับแต่ง สำหรับส่วนเสริม">
-<!ENTITY manageAddons.label "จัดการส่วนเสริม…">
-<!ENTITY manageAddons.accesskey "จ">

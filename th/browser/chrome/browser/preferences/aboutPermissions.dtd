@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "ถามทุกครั้ง">
 <!ENTITY permission.allow                "อนุญาต">
 <!ENTITY permission.allowForSession      "อนุญาตเป็นวาระ">
+<!ENTITY permission.allowFirstPartyOnly  "อนุญาตจากเว็บเดียวกันเท่านั้น">
 <!ENTITY permission.block                "ปิดกั้น">
 
 <!ENTITY password.label                  "เก็บรหัสผ่าน">
