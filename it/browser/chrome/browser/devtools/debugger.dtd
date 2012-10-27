@@ -8,6 +8,11 @@
 <!ENTITY chromeDebuggerMenu.label "Debug browser">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Chiudi">
+<!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
 <!ENTITY debuggerUI.pauseExceptions "Metti in pausa su eccezioni">
+<!ENTITY debuggerUI.pauseExceptions.key "M">
+<!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all'avvio">
+<!ENTITY debuggerUI.showPanesOnInit.key "V">
 <!ENTITY debuggerUI.showNonEnums "Visualizza proprietà nascoste">
+<!ENTITY debuggerUI.showNonEnums.key "s">
 <!ENTITY debuggerUI.searchPanelTitle "Operatori">
