@@ -8,6 +8,11 @@
 <!ENTITY chromeDebuggerMenu.label "Отладчик браузера">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
+<!ENTITY debuggerUI.optsButton.tooltip "Настройки отладчика">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.showPanesOnInit "При запуске открывать панели">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!ENTITY debuggerUI.showNonEnums "Показать скрытые свойства">
+<!ENTITY debuggerUI.showNonEnums.key "P">
 <!ENTITY debuggerUI.searchPanelTitle "Операторы">
