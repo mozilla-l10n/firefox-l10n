@@ -475,3 +475,4 @@
 <!ENTITY social.toggleNotifications.accesskey "k">
 <!ENTITY social.activated.undobutton.label "Annulla">
 <!ENTITY social.activated.undobutton.accesskey "A">
+<!ENTITY social.chatBar.commandkey "c">
