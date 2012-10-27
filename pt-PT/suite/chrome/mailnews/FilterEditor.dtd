@@ -16,13 +16,13 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Muito Alta">
 
-<!ENTITY contextDesc.label "Aplicar filtros ao:">
-<!ENTITY contextDesc.accesskey "a">
-<!ENTITY contextIncoming.label "Verificar Correio">
-<!ENTITY contextManual.label "Correr manualmente">
-<!ENTITY contextBoth.label "Verificar correio ou correr manualmente">
-<!ENTITY contextPostPlugin.label "A verificar correio (após classificar)">
-<!ENTITY contextPostPluginBoth.label "A verificar correio (após classificar) ou executar manualmente">
+<!ENTITY contextDesc.label "Aplicar filtro quando:">
+<!ENTITY contextIncomingMail.label "A obter novo correio:">
+<!ENTITY contextIncomingMail.accesskey "b">
+<!ENTITY contextManual.label "Verificação manual">
+<!ENTITY contextManual.accesskey "f">
+<!ENTITY contextBeforeCls.label "Filtrar antes da classificação de Lixo">
+<!ENTITY contextAfterCls.label "Filtrar depois da classificação de Lixo">
 
 <!ENTITY filterActionDesc.label "Efectuar estas acções:">
 <!ENTITY filterActionDesc.accesskey "f">
@@ -30,7 +30,7 @@
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mover Mensagem para">
 <!ENTITY copyMessage.label "Copiar Mensagem para">
-<!ENTITY forwardTo.label "Re-encaminhar Mensagem para">
+<!ENTITY forwardTo.label "Reencaminhar Mensagem para">
 <!ENTITY replyWithTemplate.label "Responder com papel de carta">
 <!ENTITY markMessageRead.label "Marcar como Lida">
 <!ENTITY markMessageUnread.label "Marcar como não lida">
@@ -40,7 +40,7 @@
 <!ENTITY setJunkScore.label "Configurar o Estado do Lixo Electrónico para">
 <!ENTITY deleteMessage.label "Apagar Mensagem">
 <!ENTITY deleteFromPOP.label "Apagar do Servidor POP">
-<!ENTITY fetchFromPOP.label "Fetch a partir do servidor POP">
+<!ENTITY fetchFromPOP.label "Procurar a partir do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar Tópico">
 <!ENTITY ignoreSubthread.label "Ignorar Subtópico">
 <!ENTITY watchThread.label "Ver Tópico">
