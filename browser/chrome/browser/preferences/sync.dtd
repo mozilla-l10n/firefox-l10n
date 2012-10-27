@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "ส">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">
-<!ENTITY syncComputerName.accesskey   "ค">
+<!ENTITY syncDeviceName.label         "ชื่ออุปกรณ์:">
+<!ENTITY syncDeviceName.accesskey     "อ">
 <!ENTITY unlinkDevice.label           "ยกเลิกการเชื่อมโยงอุปกรณ์นี้">
 
 <!-- Footer stuff -->
