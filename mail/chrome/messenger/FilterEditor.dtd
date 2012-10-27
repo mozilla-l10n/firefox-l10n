@@ -20,7 +20,7 @@
 <!ENTITY contextIncomingMail.label "Lors de la réception du courrier :">
 <!ENTITY contextIncomingMail.accesskey "L">
 <!ENTITY contextManual.label "Lors de son exécution manuelle">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Filtrer avant la vérification des indésirables">
 <!ENTITY contextAfterCls.label "Filter après la vérification des indésirables">
 
