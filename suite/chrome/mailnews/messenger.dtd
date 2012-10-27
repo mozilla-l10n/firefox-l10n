@@ -458,7 +458,7 @@
 <!ENTITY contextReplySender.label "Répondre à l'expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
-<!ENTITY contextReplyNewsgroup.accesskey "f">
+<!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Répondre à tout le monde">
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplySenderAndNewsgroup.label "Répondre à l'exp. et dans le groupe">

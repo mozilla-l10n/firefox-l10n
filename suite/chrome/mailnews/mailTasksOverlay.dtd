@@ -19,5 +19,5 @@
 <!ENTITY searchAddressesCmd.accesskey "a">
 
 <!ENTITY searchMailCmd.label "Rechercher dans le courrier…">
-<!ENTITY searchMailCmd.accesskey "m">
+<!ENTITY searchMailCmd.accesskey "c">
 <!ENTITY searchMailCmd.key "f">
