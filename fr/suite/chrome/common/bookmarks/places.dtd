@@ -16,7 +16,7 @@
 <!ENTITY view.sort.label "Trier par">
 <!ENTITY view.sort.accesskey "T">
 <!ENTITY view.unsorted.label "Non trié">
-<!ENTITY view.unsorted.accesskey "">
+<!ENTITY view.unsorted.accesskey "n">
 <!ENTITY view.sortAscending.label "Ordre croissant (A > Z)">
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordre décroissant (Z > A)">
