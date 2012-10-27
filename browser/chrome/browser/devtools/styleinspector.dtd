@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
+<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
 <!ENTITY userStylesLabel    "Apenas estilos do utilizador">

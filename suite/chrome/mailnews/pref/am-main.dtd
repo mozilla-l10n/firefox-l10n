@@ -2,41 +2,79 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- extracted from am-main.xul -->
+<!-- extracted from am-main.xul -->
+
+
 
 <!ENTITY accountTitle.label "Configurações da Conta">
+
 <!ENTITY accountName.label "Nome da Conta:">
+
 <!ENTITY accountName.accesskey "n">
+
 <!ENTITY identityTitle.label "Identidade Pré-Definida">
+
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que as outras pessoas vêem quando lêem as suas mensagens.">
+
 <!ENTITY name.label "O seu Nome:">
+
 <!ENTITY name.accesskey "N">
+
 <!ENTITY email.label "Endereço de Correio:">
+
 <!ENTITY email.accesskey "E">
+
 <!ENTITY replyTo.label "Responder ao Endereço:">
+
 <!ENTITY replyTo.accesskey "R">
+
 <!ENTITY replyTo.placeholder "Os destinatários responde para este outro endereço">
+
 <!ENTITY organization.label "Organização:">
+
 <!ENTITY organization.accesskey "O">
+
 <!ENTITY signatureText.label "Texto da assinatura:">
+
 <!ENTITY signatureText.accesskey "x">
+
 <!ENTITY signatureHtml.label "Usar HTML">
+
 <!ENTITY signatureHtml.accesskey "L">
+
 <!ENTITY signatureFile.label "Anexar assinatura a partir de um ficheiro:">
+
 <!ENTITY signatureFile.accesskey "t">
+
 <!ENTITY choose.label "Escolher...">
+
 <!ENTITY choose.accesskey "c">
+
 <!ENTITY editVCard.label "Editar Cartão...">
+
 <!ENTITY editVCard.accesskey "d">
+
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+
 <!ENTITY attachVCard.label "Anexar o meu vCard à mensagem">
+
 <!ENTITY attachVCard.accesskey "u">
 
+
+
 <!ENTITY manageIdentities.label "Gerir Identidades...">
+
 <!ENTITY manageIdentities.accesskey "i">
 
+
+
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Servidor de saída (SMTP):">
+
 <!ENTITY smtpName.accesskey "v">
+
 <!ENTITY smtpDefaultServer.label "Usar servidor pré-definido">
+
+
 
