@@ -476,7 +476,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY tasksMenu.label "Outils">
 <!ENTITY tasksMenu.accesskey "O">
 <!ENTITY messengerCmd.label "Courrier et groupes">
-<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.accesskey "g">
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
