@@ -11,6 +11,7 @@
 <!ENTITY image-width.label "Ширина:">
 <!ENTITY image-height.label "Высота:">
 <!ENTITY image-filesize.label "Размер файла:">
+<!ENTITY image-filesize.value "Неизвестен">
 <!ENTITY insdel-sec.label "Добавить/удалить свойства">
 <!ENTITY insdel-cite.label "Информация:">
 <!ENTITY insdel-date.label "Дата:">

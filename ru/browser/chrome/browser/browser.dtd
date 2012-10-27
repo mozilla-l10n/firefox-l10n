@@ -475,3 +475,4 @@
 <!ENTITY social.toggleNotifications.accesskey "а">
 <!ENTITY social.activated.undobutton.label "Отменить">
 <!ENTITY social.activated.undobutton.accesskey "м">
+<!ENTITY social.chatBar.commandkey "c">
