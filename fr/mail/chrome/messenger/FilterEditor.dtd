@@ -24,9 +24,6 @@
 <!ENTITY contextBeforeCls.label "Filtrer avant la vérification des indésirables">
 <!ENTITY contextAfterCls.label "Filter après la vérification des indésirables">
 
-<!ENTITY contextBoth.label "Lors de la réception du courrier ou de son exécution manuelle">
-<!ENTITY contextPostPlugin.label "Vérifier le courrier (après classement)">
-<!ENTITY contextPostPluginBoth.label "Vérifier le courrier (après classement) ou exécuter manuellement">
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
 
