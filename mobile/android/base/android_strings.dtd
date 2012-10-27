@@ -226,19 +226,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webapp_generic_name "Aplicación">
 
-<!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Actualización de &brandShortName; disponible&#8230;">
-<!ENTITY updater_start_select "Seleccioná para descargar la actualización.">
-
-<!ENTITY updater_downloading_title "Descargando &brandShortName;">
-<!ENTITY updater_downloading_ticker "Descargando actualización de &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Falló la descarga de la actualización de &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Seleccioná para aplicar la actualización cuando esté completa.">
-<!ENTITY updater_downloading_retry "Seleccioná para reintentar la descarga de la actualización.">
-<!ENTITY updater_downloading_willapply "Esperando que se complete la descarga.">
-
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Actualización de &brandShortName; disponible&#8230;">
-<!ENTITY updater_apply_select "Seleccioná para aplicar la actualización descargada.">
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Actualización de &brandShortName; disponible">
+<!ENTITY updater_start_select2 "Tocar para descargar">
+ 
+<!ENTITY updater_downloading_title2 "Descargando &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Decarga fallida">
+<!ENTITY updater_downloading_select2 "Tocar para aplicar la actualización cuando este descargada">
+<!ENTITY updater_downloading_retry2 "Tocar para reintentar">
+ 
+<!ENTITY updater_apply_title2 "Actualización de &brandShortName; disponible">
+<!ENTITY updater_apply_select2 "Tocar para actualizar">
 
