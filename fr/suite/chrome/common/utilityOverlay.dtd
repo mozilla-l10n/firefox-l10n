@@ -18,7 +18,7 @@
 <!ENTITY newPageFromTemplateCmd.label "Page utilisant un modèle">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Page utilisant un brouillon">
-<!ENTITY newPageFromDraftCmd.accesskey "d">
+<!ENTITY newPageFromDraftCmd.accesskey "b">
 <!-- LOCALIZATION NOTE  (newNavigatorCmd.label): Do NOT translate "Navigator" -->
 <!ENTITY newNavigatorCmd.label "Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key "n">

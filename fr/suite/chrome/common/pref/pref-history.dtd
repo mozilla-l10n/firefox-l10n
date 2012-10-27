@@ -19,5 +19,5 @@
 <!ENTITY  enableFormfill.label              "Activer l'historique de recherche et des formulaires">
 <!ENTITY  enableFormfill.accesskey          "A">
 <!ENTITY  formfillExpire.label              "Conserver l'historique de recherche et des formulaires pendant">
-<!ENTITY  formfillExpire.accesskey          "v ">
+<!ENTITY  formfillExpire.accesskey          "v">
 <!ENTITY  formfillDays.label                "jours">
