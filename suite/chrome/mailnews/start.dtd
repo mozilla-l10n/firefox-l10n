@@ -16,7 +16,7 @@ byggt på öppen källkod, och som stöder avancerad igenkänning av skräppost 
 <!ENTITY feat_filters.label "Meddelandefilter">
 <!ENTITY feat_htmlmsg.label "Stöd för HTML-meddelanden">
 <!ENTITY feat_abook.label "Adressbok">
-<!ENTITY feat_labels.label "Anpassningsbara etiketter och e-postklientvyer">
+<!ENTITY feat_tags.label "Anpassningsbara etiketter och e-postvyer">
 <!ENTITY feat_integration.label
 "Nära integrerad med &brandShortName;s programsvit">
 <!ENTITY dict.title "Ordlistor">
