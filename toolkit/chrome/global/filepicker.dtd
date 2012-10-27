@@ -12,7 +12,7 @@
 <!ENTITY size.label             "Taille">
 <!ENTITY lastModified.label     "Dernière modification">
 <!ENTITY showHiddenFiles.label  "Afficher les fichiers et répertoires cachés">
-<!ENTITY showHiddenFiles.accesskey  "M">
+<!ENTITY showHiddenFiles.accesskey  "A">
 
 <!ENTITY noPermissionError.label "Vous n'avez pas les permissions nécessaires pour voir ce répertoire.">
 
