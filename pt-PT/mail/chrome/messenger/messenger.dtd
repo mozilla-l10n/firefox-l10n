@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -10,7 +10,7 @@
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY closeTabCmd2.label "Fechar separador">
 <!ENTITY closeTabCmd2.accesskey "e">
-<!ENTITY closeOtherTabsCmd2.label "Fechar outros separadoress">
+<!ENTITY closeOtherTabsCmd2.label "Fechar outros separadores">
 <!ENTITY closeOtherTabsCmd2.accesskey "h">
 <!ENTITY recentlyClosedTabsCmd.label "Separadores fechados recentemente">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
@@ -308,7 +308,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.Key "C">
+<!ENTITY goChatCmd.Key "I">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Pasta">
@@ -335,7 +335,7 @@
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "R">
-<!ENTITY replySenderCmd.label "Responder ao remetente">
+<!ENTITY replySenderCmd.label "Responder apenas ao remetente">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd2.label "Responder ao grupo de discussão">
 <!ENTITY replyNewsgroupCmd2.accesskey "s">
@@ -357,7 +357,7 @@
 <!ENTITY editMsgAsNewCmd.label "Editar como nova">
 <!ENTITY editMsgAsNewCmd.accesskey "D">
 <!ENTITY editMsgAsNewCmd.key "E">
-<!ENTITY createFilter.label "Criar filtro para o remetente...">
+<!ENTITY createFilter.label "Criar filtro a partir da mensagem...">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Mover para">
 <!ENTITY moveMsgToMenu.accesskey "M">
@@ -412,19 +412,19 @@
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "C">
 <!ENTITY markStarredCmd.label "Adicionar estrela">
-<!ENTITY markStarredCmd.accesskey "E">
+<!ENTITY markStarredCmd.accesskey "e">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Como lixo eletrónico">
-<!ENTITY markAsJunkCmd.accesskey "R">
+<!ENTITY markAsJunkCmd.accesskey "r">
 <!ENTITY markAsJunkCmd.key "J">
 <!ENTITY markAsNotJunkCmd.label "Não é lixo eletrónico">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "J">
-<!ENTITY recalculateJunkScoreCmd.label "Aplicar anti-lixo eletrónico">
-<!ENTITY recalculateJunkScoreCmd.accesskey "I">
+<!ENTITY recalculateJunkScoreCmd.label "Aplicar controlos de lixo eletrónico">
+<!ENTITY recalculateJunkScoreCmd.accesskey "c">
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
 <!ENTITY openMessageWindowCmd.accesskey "A">
-<!ENTITY openMessageWindowCmd.key "O">
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Abrir conversação">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
@@ -701,7 +701,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recente">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "C">
-<!ENTITY contextCopyMsgMenu.label "Copiar">
+<!ENTITY contextCopyMsgMenu.label "Copiar para">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextSaveAs.label "Guardar como...">
 <!ENTITY contextSaveAs.accesskey "U">
@@ -768,7 +768,7 @@
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "Lixo eletrónico.">
+<!ENTITY junkBarMessage2.label "O &brandShortName; pensa que esta mensagem é lixo eletrónico.">
 <!ENTITY junkBarButton1.label "Isto não é lixo">
 <!ENTITY junkInfoButton.label "?">
 
@@ -803,7 +803,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Search… #1">
+<!ENTITY search.label.base "Pesquisar… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -842,7 +842,7 @@
 <!ENTITY reportPhishingURL.accesskey "d">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Adicionar dicionário…">
+<!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
@@ -875,14 +875,14 @@
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label "Preferências...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Serviços">
-<!ENTITY hideThisAppCmdMac.label "Esconder o &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Ocultar outros">
+<!ENTITY preferencesCmdMac.label        "Preferências...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Serviços">
+<!ENTITY hideThisAppCmdMac.label        "Ocultar o &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Ocultar outros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Mostrar Tudo">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Mostrar Tudo">
