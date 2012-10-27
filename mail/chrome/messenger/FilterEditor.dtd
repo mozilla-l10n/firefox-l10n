@@ -36,7 +36,7 @@
 <!ENTITY markMessageUnread.label "Marcar como não lida">
 <!ENTITY markMessageStarred.label "Adicionar Estrela">
 <!ENTITY setPriority.label "Configurar prioridade para">
-<!ENTITY addTag.label "Tag na mensagem">
+<!ENTITY addTag.label "Etiquetar mensagem">
 <!ENTITY setJunkScore.label "Configurar o Estado do Lixo Electrónico para">
 <!ENTITY deleteMessage.label "Apagar Mensagem">
 <!ENTITY deleteFromPOP.label "Apagar do Servidor POP">
