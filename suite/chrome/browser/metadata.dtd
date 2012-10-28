@@ -11,6 +11,7 @@
 <!ENTITY image-width.label "Anchura:">
 <!ENTITY image-height.label "Altura:">
 <!ENTITY image-filesize.label "Tamaño del archivo:">
+<!ENTITY image-filesize.value "Desconocido">
 <!ENTITY insdel-sec.label "Insertar/Eliminar propiedades">
 <!ENTITY insdel-cite.label "Información:">
 <!ENTITY insdel-date.label "Fecha:">
