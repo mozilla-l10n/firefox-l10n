@@ -5,8 +5,8 @@
 <!ENTITY menuBar.tooltip       "Barra de menú">
 <!ENTITY modeToolbar.tooltip   "Barra de ferramentas de modo">
 <!ENTITY entryToolbar.tooltip  "Barra de ferramentas de entrada de Javascript">
-<!ENTITY toolbarsCmd.label     "Mostrar/Ocultar">
-<!ENTITY toolbarsCmd.accesskey "M">
+<!ENTITY toolbarsCmd.label     "Amosar/Agochar">
+<!ENTITY toolbarsCmd.accesskey "g">
 <!ENTITY toolbarMode.label     "Modo">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label     "Entrada JavaScript">
@@ -18,3 +18,4 @@
 <!ENTITY messages.accesskey    "M">
 <!ENTITY clear.accesskey       "l">
 <!ENTITY evaluate.accesskey    "u">
+<!ENTITY filter.accesskey      "k">
