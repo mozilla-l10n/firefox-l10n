@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Systeemintegratie">
+<!ENTITY acceptIntegration.label  "Als standaard instellen">
+<!ENTITY cancelIntegration.label  "Integratie overslaan">
 <!ENTITY defaultClient.intro  "&brandShortName; als de standaardclient gebruiken voor:">
 
 <!ENTITY email.label "E-mail">
