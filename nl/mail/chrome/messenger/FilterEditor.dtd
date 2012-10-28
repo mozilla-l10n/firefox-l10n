@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
 <!ENTITY contextDesc.label "Filter toepassen bij het:">
-<!ENTITY contextDesc.accesskey "t">
-<!ENTITY contextIncoming.label "Controleren van e-mail">
+<!ENTITY contextIncomingMail.label "Ophalen nieuwe berichten:">
+<!ENTITY contextIncomingMail.accesskey "O">
 <!ENTITY contextManual.label "Handmatig uitvoeren">
-<!ENTITY contextBoth.label "Controleren van e-mail of handmatig uitvoeren">
-<!ENTITY contextPostPlugin.label "Controleren van e-mail (na classificatie)">
-<!ENTITY contextPostPluginBoth.label "Controleren van e-mail (na classificatie) of handmatig uitvoeren">
+<!ENTITY contextManual.accesskey "H">
+<!ENTITY contextBeforeCls.label "Filter voor ongewensteberichtenclassificatie">
+<!ENTITY contextAfterCls.label "Filter na ongewensteberichtenclassificatie">
+
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "v">
 
