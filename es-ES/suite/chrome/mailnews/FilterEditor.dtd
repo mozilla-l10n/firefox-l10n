@@ -14,12 +14,12 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "La mayor">
 <!ENTITY contextDesc.label "Aplicar filtro cuando:">
-<!ENTITY contextDesc.accesskey "u">
-<!ENTITY contextIncoming.label "se compruebe el correo">
+<!ENTITY contextIncomingMail.label "Al recuperar el correo nuevo:">
+<!ENTITY contextIncomingMail.accesskey "A">
 <!ENTITY contextManual.label "se ejecute manualmente">
-<!ENTITY contextBoth.label "se compruebe el correo o se ejecute manualmente">
-<!ENTITY contextPostPlugin.label "se compruebe el correo (tras clasificarlo)">
-<!ENTITY contextPostPluginBoth.label "se compruebe el correo (tras clasificarlo) o se ejecute manualmente">
+<!ENTITY contextManual.accesskey "s">
+<!ENTITY contextBeforeCls.label "Filtrar antes de identificar el correo basura">
+<!ENTITY contextAfterCls.label "Filtrar tras identificar el correo basura">
 <!ENTITY filterActionDesc.label "Realizar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "R">
 <!ENTITY moveMessage.label "Mover mensaje a">
