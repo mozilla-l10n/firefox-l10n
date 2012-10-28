@@ -53,3 +53,6 @@
 <!ENTITY report.disabled                                     "Crashrapportage uitgeschakeld.">
 <!ENTITY report.failed                                       "Verzending mislukt.">
 <!ENTITY report.unavailable                                  "Geen rapport beschikbaar.">
+
+<!ENTITY plugin.file                                         "Bestand">
+<!ENTITY plugin.mimeTypes                                    "MIME-typen">
