@@ -15,7 +15,7 @@
 <!ENTITY feat_filters.label "Filtros de mensaxes">
 <!ENTITY feat_htmlmsg.label "Compatíbel con mensaxes HTML">
 <!ENTITY feat_abook.label "Axenda de enderezos">
-<!ENTITY feat_labels.label "Visualización de correo e etiquetas personalizábeis">
+<!ENTITY feat_tags.label "Visualización de correo e etiquetas personalizábeis">
 <!ENTITY feat_integration.label
 "Integración axustada coa suite de aplicativos &brandShortName;">
 <!ENTITY dict.title "Dicionarios">
