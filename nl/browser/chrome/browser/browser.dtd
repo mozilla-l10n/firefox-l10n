@@ -659,3 +659,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Ongedaan maken">
 <!ENTITY social.activated.undobutton.accesskey "O">
+
+<!ENTITY social.chatBar.commandkey "c">
