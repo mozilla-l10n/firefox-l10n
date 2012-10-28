@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "Breedte:">
 <!ENTITY image-height.label    "Hoogte:">
 <!ENTITY image-filesize.label  "Bestandsgrootte:">
+<!ENTITY image-filesize.value  "Onbekend">
 <!ENTITY insdel-sec.label      "Eigenschappen invoegen/verwijderen">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Datum:">
