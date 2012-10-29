@@ -22,7 +22,7 @@
 <!ENTITY visitedLinkText.label      "Text da colliaziun visità">
 <!ENTITY visitedLinkText.accesskey  "V">
 <!ENTITY background.label           "Fund davos:">
-<!ENTITY background.accesskey       "B">
+<!ENTITY background.accesskey       "F">
 <!ENTITY colon.character            ":">
 
 <!ENTITY backgroundImage.label      "Maletg dal fund:">

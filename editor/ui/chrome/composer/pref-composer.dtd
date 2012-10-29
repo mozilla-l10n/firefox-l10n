@@ -13,7 +13,7 @@
 <!ENTITY  documentsInMenu.accesskey     "n">
 <!ENTITY  savingFiles.title             "Cun memorisar u publitgar paginas">
 <!ENTITY  preserveExisting.label        "Mantegnair la formataziun originala dal code da funtauna">
-<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.accesskey    "o">
 <!ENTITY  preserveExisting.tooltip      "Mantegnair sigls da lingia e la formataziun originala da la pagina">
 <!ENTITY  saveAssociatedFiles.label     "Memorisar graficas ed autras datotecas integradas ensemen cun las paginas">
 <!ENTITY  saveAssociatedFiles.accesskey "S">

@@ -24,7 +24,7 @@
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Trav d'utensils per rediger">
-<!ENTITY compositionToolbarCmd.accesskey "C">
+<!ENTITY compositionToolbarCmd.accesskey "r">
 <!ENTITY formattingToolbarCmd.label "Trav d'utensils da format">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Trav d'utensils dal modus per editar">

@@ -15,7 +15,7 @@
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "L'ultima ura">
 <!ENTITY clearTimeDuration.last2Hours     "Las ultimas duas uras">
-<!ENTITY clearTimeDuration.last4Hours     "Las ultimas quater uras">
+<!ENTITY clearTimeDuration.last4Hours     "Las ultimas quatter uras">
 <!ENTITY clearTimeDuration.today          "Oz">
 <!ENTITY clearTimeDuration.everything     "Tut">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages

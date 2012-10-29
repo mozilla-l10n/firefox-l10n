@@ -589,7 +589,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nov messadi">
-<!ENTITY appmenuNewContactCmd.label "Contact en il cudischet d'adressas…">
+<!ENTITY appmenuNewContactCmd.label "Contact en il cudeschet d'adressas…">
 <!ENTITY appmenuEditMenu.label "Modifitgar">
 <!ENTITY appmenuQFBMenu.label "Trav per filtrar svelt">
 <!ENTITY appmenuToolbarLayout.label "Layout da la trav d'utensils…">

@@ -21,7 +21,7 @@
 <!ENTITY ButtonDisabled.label "Deactivà">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "Tasta d'access:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "c">
 
 <!ENTITY RemoveButton.label "Allontanar il buttun">
 <!ENTITY RemoveButton.accesskey "R">

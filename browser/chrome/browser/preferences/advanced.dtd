@@ -62,7 +62,7 @@
 <!ENTITY clearCacheNow.label             "Svidar ussa">
 <!ENTITY clearCacheNow.accesskey         "S">
 <!ENTITY clearOfflineAppCacheNow.label     "Svidar ussa">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.accesskey "u">
 <!ENTITY overrideSmartCacheSize.label    "Surscriver l'administraziun automatica dal cache">
 <!ENTITY overrideSmartCacheSize.accesskey "c">
 

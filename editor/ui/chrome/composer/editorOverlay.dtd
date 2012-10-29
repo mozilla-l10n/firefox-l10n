@@ -230,7 +230,7 @@
 <!ENTITY tableInsertMenu2.label "Inserir ina tabella">
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Stizzar la tabella">
-<!ENTITY tableDeleteMenu2.accesskey "D">
+<!ENTITY tableDeleteMenu2.accesskey "t">
 
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Inserir">

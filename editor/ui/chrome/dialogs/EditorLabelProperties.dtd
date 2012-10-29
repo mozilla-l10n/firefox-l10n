@@ -10,9 +10,9 @@
 <!ENTITY EditLabelText.label "Editar il text:">
 <!ENTITY EditLabelText.accesskey "T">
 <!ENTITY LabelFor.label "Per l'element da controlla:">
-<!ENTITY LabelFor.accesskey "F">
+<!ENTITY LabelFor.accesskey "c">
 <!ENTITY AccessKey.label "Tasta d'access:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "c">
 
 <!ENTITY RemoveLabel.label "Allontanar l'etichetta">
 <!ENTITY RemoveLabel.accesskey "R">
