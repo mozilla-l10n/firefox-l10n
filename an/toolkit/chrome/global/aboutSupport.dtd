@@ -58,5 +58,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instalacions">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'actualizacions">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copiar o texto en o portafuellas">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar os datos crudos en o portafuellas">
+<!ENTITY aboutSupport.copyToClipboard.label "Copiar tot ta o portafuellas">

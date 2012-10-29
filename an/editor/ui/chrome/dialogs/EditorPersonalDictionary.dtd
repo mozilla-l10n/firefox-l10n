@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Diccionario personal">
+<!ENTITY windowTitle.label "Personal Dictionary">
 
-<!ENTITY wordEditField.label "Parola nueva:">
-<!ENTITY wordEditField.accessKey "n">
-<!ENTITY AddButton.label "Adhibir">
+<!ENTITY wordEditField.label "New word:">
+<!ENTITY wordEditField.accessKey "N">
+<!ENTITY AddButton.label "Add">
 <!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "Parolas d'o diccionario:">
-<!ENTITY DictionaryList.accessKey "d">
-<!ENTITY ReplaceButton.label "Reemplazar">
+<!ENTITY DictionaryList.label "Words in dictionary:">
+<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY ReplaceButton.label "Replace">
 <!ENTITY ReplaceButton.accessKey "R">
-<!ENTITY RemoveButton.label "Suprimir">
-<!ENTITY RemoveButton.accessKey "S">
+<!ENTITY RemoveButton.label "Remove">
+<!ENTITY RemoveButton.accessKey "e">
 
-<!ENTITY CloseButton.label "Zarrar">
-<!ENTITY CloseButton.accessKey "Z">
+<!ENTITY CloseButton.label "Close">
+<!ENTITY CloseButton.accessKey "C">

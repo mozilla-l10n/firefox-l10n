@@ -12,6 +12,7 @@
 <!ENTITY  awesomebar_all_pages_title "Habituals">
 <!ENTITY  awesomebar_bookmarks_title "Marcapachinas">
 <!ENTITY  awesomebar_history_title "Historial">
+<!ENTITY  awesomebar_search_engine "Mirar \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Reporte de fallas de &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; ha fallau. As suyas pestanyas habrían de salir listadas en a pachina d\'inicio de &brandShortName; en reiniciar.">
@@ -81,7 +82,6 @@
 <!ENTITY pref_plugins_tap_to_play "Toque-lo ta enchegar">
 <!ENTITY pref_plugins_disabled "Desactivau">
 <!ENTITY pref_text_size "Mida d'a letra">
-<!ENTITY pref_reflow_on_zoom "Activar l'achuste automatico en cambiar a mida">
 <!ENTITY pref_font_size_tiny "Muit chicota">
 <!ENTITY pref_font_size_small "Chicota">
 <!ENTITY pref_font_size_medium "Meyana">
@@ -100,7 +100,6 @@ size. -->
 <!ENTITY pref_font_size_preview_text "A raboseta narancha blinca as suyas expectativas con mas rapideza, mas flexibilidat y mas seguranza. Como no tenemos animo de lucro, somo libre d'innovar sin garra presión ni compromiso. Isto significa una millor experiencia ta vusté y un millor esdevenidor ta la Web.">
 
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
-<!ENTITY pref_show_product_announcements "Amostrar anuncios de productos">
 <!ENTITY pref_sync "Sincronizar">
 <!ENTITY pref_search_suggestions "Amostrar as sucherencias de busca">
 <!ENTITY pref_import_android "Importar dende Android">
@@ -125,7 +124,6 @@ size. -->
 <!ENTITY save_as_pdf "Alzar como PDF">
 <!ENTITY find_in_page "Trobar en a pachina">
 <!ENTITY desktop_mode "Demandar a versión d'escritorio d'o puesto">
-<!ENTITY tools "Ferramientas">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -135,7 +133,6 @@ size. -->
 <!ENTITY find_close "Zarrar">
 
 <!ENTITY contextmenu_open_new_tab "Ubrir en una pestanya nueva">
-<!ENTITY contextmenu_open_in_reader "Ubrir en o Lector">
 <!ENTITY contextmenu_remove_history "Suprimir">
 <!ENTITY contextmenu_remove_bookmark "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Adhibir-lo a la pantalla inicial">
@@ -163,7 +160,7 @@ size. -->
 <!ENTITY reading_list_added "S'ha adhibiu a la suya pachina de lectura">
 <!ENTITY reading_list_removed "S'ha eliminau d'a suya pachina de lectura">
 <!ENTITY reading_list_failed "No s'ha puesto adhibir a pachina en a suya Lista de lectura">
-<!ENTITY reader "Lector">
+<!ENTITY reader_mode "Modo lector">
 
 <!ENTITY masterpassword_create_title "Creyar una clau mayestra">
 <!ENTITY masterpassword_remove_title "Suprimir a clau mayestra">
@@ -172,11 +169,7 @@ size. -->
 
 <!ENTITY button_ok "D\'alcuerdo">
 <!ENTITY button_cancel "Cancelar">
-<!ENTITY button_yes "Sí">
-<!ENTITY button_no "No">
 <!ENTITY button_clear_data "Borrar os datos">
-<!ENTITY button_set "Configurar">
-<!ENTITY button_clear "Limpiar">
 
 <!ENTITY abouthome_addons_title "Os complementos de &brandShortName;">
 <!ENTITY abouthome_addons_browse "Amostrar totz os complementos de &brandShortName;">
@@ -190,13 +183,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Configurar o Firefox Sync ta accedir ta os marcapachinas, l'historial y as pestanyas d'os suyos atros dispositivos&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Pillar as aplicacions dende o Mozilla Marketplace y descubrir-ie o millor que a web puede ofrir&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Trigue un fichero">
 <!ENTITY filepicker_audio_title "Trigue un grave un soniu">
@@ -229,24 +222,5 @@ marcapachinas dende Android">
 <!ENTITY bookmarkhistory_import_history "Se ye importando l'historial 
 dende Android">
 <!ENTITY bookmarkhistory_import_wait "Aguarde por favor...">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-
-<!ENTITY suggestions_prompt "Would you like to turn on &#037;s search suggestions?">
 
 <!ENTITY webapp_generic_name "Aplicacions">
-
-<!ENTITY searchable_description "Bookmarks and history">
-<!-- Updater notifications --> 
-
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
- 
-<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
- 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">

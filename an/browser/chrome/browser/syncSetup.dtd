@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Heba feito servir &syncBrand.fullName.label; denantes?">
 <!ENTITY setup.choicePage.new.label       "No heba feito servir nunca &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.existing.label  "Ya foi servir &syncBrand.shortName.label; en unatro dispositivo">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Servidor">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Opcions de sincronización">
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncComputerName.label       "Nombre de l'equipo:">
+<!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Sincronizar:">
 <!ENTITY engine.bookmarks.label     "Marcapachinas">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Complementos">
 <!ENTITY engine.addons.accesskey    "C">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "Unir os datos d'iste ordenador con os míos datos de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendau:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2.client.main.label     "Reemplazar totz os datos en este equipo con os datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Reemplazar totz os datos d'os de demás dispositivos con os d'iste equipo">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.merge.label    "O &syncBrand.fullName.label; combinará agora os datos d'o navegador d'iste equipo con os datos d'a suya cuenta de Sync.">
+<!ENTITY confirm.client2.label         "Alvertencia: Os siguients datos d'o &brandShortName; serán eliminaus d'iste ordinador:">
+<!ENTITY confirm.client.moreinfo.label "Alavez o &brandShortName; copiará os suyos datos de &syncBrand.fullName.label; ta iste ordinador.">
 <!ENTITY confirm.server2.label         "Alvertencia: Se sobrescribirán os datos d'os dispositivos siguients con os suyos datos locals:">
 <!-- New & Existing Account: Setup Complete -->
 

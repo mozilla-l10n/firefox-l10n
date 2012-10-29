@@ -20,7 +20,6 @@
 <!ENTITY permission.alwaysAsk            "Preguntar-me-lo siempre">
 <!ENTITY permission.allow                "Permitir">
 <!ENTITY permission.allowForSession      "Permitir por ista sesión">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
 <!ENTITY permission.block                "Bloqueyar">
 
 <!ENTITY password.label                  "Alzar as claus">

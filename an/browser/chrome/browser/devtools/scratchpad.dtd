@@ -36,9 +36,6 @@
 <!ENTITY openRecentMenu.label         "Ubrir recients">
 <!ENTITY openRecentMenu.accesskey     "r">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
-
 <!ENTITY saveFileCmd.label            "Alzar">
 <!ENTITY saveFileCmd.accesskey        "l">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -55,7 +52,7 @@
 
 <!ENTITY run.label                    "Executar">
 <!ENTITY run.accesskey                "E">
-<!ENTITY run.key                      "r">
+<!ENTITY run.key                      "e">
 
 <!ENTITY inspect.label                "Inspeccionar">
 <!ENTITY inspect.accesskey            "I">
@@ -104,10 +101,6 @@
 
 <!ENTITY resetContext2.label          "Restaurar as variables">
 <!ENTITY resetContext2.accesskey      "t">
-
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Executar">
 <!ENTITY executeMenu.accesskey        "x">

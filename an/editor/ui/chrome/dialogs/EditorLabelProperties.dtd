@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Propiedatz d'a etiqueta">
+<!ENTITY windowTitle.label "Label Properties">
 
-<!ENTITY Settings.label "Parametros">
-<!ENTITY Settings.accesskey "P">
+<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "Editar o texto:">
-<!ENTITY EditLabelText.accesskey "d">
-<!ENTITY LabelFor.label "T'o control:">
-<!ENTITY LabelFor.accesskey "T">
-<!ENTITY AccessKey.label "Tecla d'alcorce:">
-<!ENTITY AccessKey.accesskey "a">
+<!ENTITY EditLabelText.label "Edit Text:">
+<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY LabelFor.label "For Control:">
+<!ENTITY LabelFor.accesskey "F">
+<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveLabel.label "Suprimir a etiqueta">
-<!ENTITY RemoveLabel.accesskey "S">
+<!ENTITY RemoveLabel.label "Remove Label">
+<!ENTITY RemoveLabel.accesskey "R">

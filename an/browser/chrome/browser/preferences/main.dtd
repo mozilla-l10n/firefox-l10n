@@ -34,3 +34,9 @@
 <!ENTITY chooseFolderMac.accesskey    "T">
 <!ENTITY alwaysAsk.label "Preguntar-me siempre a ón alzar os fichers">
 <!ENTITY alwaysAsk.accesskey "a">
+
+<!ENTITY addonsMgr.label               "Complementos">
+<!ENTITY manageAddonsDescWin.label     "Cambiar as opcions d'os complementos">
+<!ENTITY manageAddonsDescUnix2.label   "Cambiar as preferencias d'os complementos">
+<!ENTITY manageAddons.label            "Administrar os complementos…">
+<!ENTITY manageAddons.accesskey        "s">

@@ -8,8 +8,8 @@
 
 
 <!ENTITY windowTitle.label "Alzar y cambiar a codificación de caracters">
-<!ENTITY documentTitleTitle.label "Titol d'a pachina">
+<!ENTITY documentTitleTitle.label "Page Title">
 <!ENTITY documentCharsetTitle.label "Codificación de caracters">
 <!ENTITY documentCharsetDesc.label "Trigue a codificación de caracters con a qual quiere alzar o documento:">
-<!ENTITY documentExportToText.label "Exportar a texto">
+<!ENTITY documentExportToText.label "Export to Text">
 
