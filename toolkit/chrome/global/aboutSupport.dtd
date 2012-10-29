@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Informo por solvado de problemoj">
+<!ENTITY aboutSupport.pageTitle "Informoj por solvado de problemoj">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
@@ -53,7 +53,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktiva">
 <!ENTITY aboutSupport.a11yForceDisabled "Eviti alireblon">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Versio de bibliotekoj">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versioj de bibliotekoj">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historio de instalado">
 <!ENTITY aboutSupport.updateHistoryTitle "Ĝisdatigi historion">
