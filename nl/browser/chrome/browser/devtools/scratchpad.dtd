@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Recente openen">
 <!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.label              "Ongedaan maken…">
+<!ENTITY revertCmd.accesskey          "m">
+
 <!ENTITY saveFileCmd.label            "Opslaan">
 <!ENTITY saveFileCmd.accesskey        "p">
 <!ENTITY saveFileCmd.commandkey       "s">
