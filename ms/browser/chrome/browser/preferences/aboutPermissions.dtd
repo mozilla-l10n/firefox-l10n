@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Selalu ditanya">
 <!ENTITY permission.allow                "Benarkan">
 <!ENTITY permission.allowForSession      "Sesi ini dibenarkan">
+<!ENTITY permission.allowFirstPartyOnly  "Izinkan Pihak Pertama Sahaja">
 <!ENTITY permission.block                "Halang">
 
 <!ENTITY password.label                  "Menyimpan kata laluan">

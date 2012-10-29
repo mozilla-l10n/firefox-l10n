@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "nama komputer:">
-<!ENTITY syncComputerName.accesskey   "n">
+<!ENTITY syncDeviceName.label       "Nama Peranti:">
+<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "Memutuskan sambungan peranti">
 
 <!-- Footer stuff -->

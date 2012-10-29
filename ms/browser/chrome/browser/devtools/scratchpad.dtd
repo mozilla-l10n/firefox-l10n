@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Buka semasa">
 <!ENTITY openRecentMenu.accesskey     "S">
 
+<!ENTITY revertCmd.label              "Berbalik semula…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "Simpan">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "S">
@@ -101,6 +104,10 @@
   -->
 <!ENTITY resetContext2.label          "Reset Variables">
 <!ENTITY resetContext2.accesskey      "S">
+
+<!ENTITY reloadAndRun.label           "Muat Semula dan Jalan">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Lakukan">
 <!ENTITY executeMenu.accesskey        "L">
