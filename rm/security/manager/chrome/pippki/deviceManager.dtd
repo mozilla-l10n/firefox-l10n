@@ -35,7 +35,7 @@
 <!ENTITY loaddevice.modname.default             "Nov modul PKCS#11">
 <!ENTITY loaddevice.filename                    "Num da datoteca dal modul:">
 <!ENTITY loaddevice.filename.accesskey          "o">
-<!ENTITY loaddevice.browse                      "Tschertgar en...">
+<!ENTITY loaddevice.browse                      "Tschertgar en…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
 <!ENTITY loaddevice.title                       "Chargiar l'indriz PKCS#11">

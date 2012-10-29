@@ -38,11 +38,11 @@
 <!ENTITY tabIndex.label "Index da tabulatur:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Grondezza dal champ:">
-<!ENTITY TextSize.accesskey "F">
+<!ENTITY TextSize.accesskey "G">
 <!ENTITY TextLength.label "Lunghezza maximala:">
 <!ENTITY TextLength.accesskey "L">
 <!ENTITY AccessKey.label "Tasta d'access:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "c">
 <!ENTITY Accept.label "Acceptar ils tips:">
 <!ENTITY Accept.accesskey "A">
 
