@@ -4,12 +4,12 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Snap to Grid">
+<!ENTITY windowTitle.label "Achustar a la rella">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "activar l'achuste de rella">
+<!ENTITY enableSnapToGrid.accessKey "a">
 
-<!ENTITY sizeEditField.label "Size:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.label "Mida:">
+<!ENTITY sizeEditField.accessKey "M">
 
 <!ENTITY pixelsLabel.value "pixels">

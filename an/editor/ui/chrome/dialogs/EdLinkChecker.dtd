@@ -4,6 +4,6 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label     "Comprebar l'adreza d'imachens y vinclos">
-<!ENTITY succeeded.label       "Succeeded">
-<!ENTITY failed.label          "Failed">
-<!ENTITY closeButton.label     "Close">
+<!ENTITY succeeded.label       "Con exito">
+<!ENTITY failed.label          "Ha fallau">
+<!ENTITY closeButton.label     "Zarrar">

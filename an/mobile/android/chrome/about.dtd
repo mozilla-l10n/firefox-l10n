@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Quant a &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ye experimental y podría estar instable.">
 <!ENTITY aboutPage.telemetryStart               " ninvia automaticament a información d'o rendimiento, hardware, uso y personalización a ">
