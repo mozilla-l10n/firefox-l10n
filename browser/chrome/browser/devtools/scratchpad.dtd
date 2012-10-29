@@ -105,6 +105,10 @@
 <!ENTITY resetContext2.label          "Variabelen herinitialiseren">
 <!ENTITY resetContext2.accesskey      "V">
 
+<!ENTITY reloadAndRun.label           "Vernieuwen en uitvoeren">
+<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.key             "r">
+
 <!ENTITY executeMenu.label            "Uitvoeren">
 <!ENTITY executeMenu.accesskey        "U">
 
