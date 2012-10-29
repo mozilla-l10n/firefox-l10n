@@ -19,7 +19,7 @@
 <!ENTITY TextAreaTabIndex.label "Index da tabulatur:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Tasta d'access:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
+<!ENTITY TextAreaAccessKey.accessKey "c">
 <!ENTITY InitialText.label "Text inizial:">
 <!ENTITY InitialText.accessKey "t">
 
