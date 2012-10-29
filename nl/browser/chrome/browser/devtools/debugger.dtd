@@ -15,6 +15,10 @@
   -  application menu item that opens the debugger UI. -->
 <!ENTITY debuggerMenu.label2          "Debugger">
 
+<!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
+  -  Tools meny entry of Debugger that opens the debugger UI. -->
+<!ENTITY debuggerMenu.accesskey         "D">
+
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 <!ENTITY remoteDebuggerMenu.label    "Remote-debugger">
@@ -34,24 +38,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions          "Pauzeren bij uitzonderingen">
-
-<!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
-  -  widget that displays the call stack frames in the debugger. -->
-<!ENTITY debuggerUI.stackTitle       "Aanroepstack">
-
-<!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
-  -  widget that displays the source code for the script that is currently
-  -  being inspected in the debugger. -->
-<!ENTITY debuggerUI.scriptTitle      "Script">
-
-<!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
-  -  widget that displays the variables in the various available scopes in the
-  -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Scope-variabelen">
-
-<!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
-  - there are no scripts. -->
-<!ENTITY debuggerUI.emptyScriptText  "Geen scripts">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
