@@ -33,7 +33,7 @@
 <!ENTITY pageTitle.tooltip            "Endatescha in titel per identifitgar la pagina en la fanestra ed en ils segnapaginas">
 <!ENTITY pageTitleExample.label       "p.ex..: &quot;Mia pagina web&quot;">
 <!ENTITY filename.label               "Num da datoteca:">
-<!ENTITY filename.accesskey           "F">
+<!ENTITY filename.accesskey           "d">
 <!ENTITY filename.tooltip             "Endatescha in num per questa datoteca, cun agiuntar '.html' per ina pagina web">
 <!ENTITY filenameExample.label        "p.ex.: &quot;miapagina.html&quot;">
 <!ENTITY setDefaultButton.label       "Definir sco standard">
@@ -58,7 +58,7 @@
 <!ENTITY username.accesskey           "U">
 <!ENTITY username.tooltip             "Il num d'utilisader che ti utiliseschas per s'annunziar tar tes provider u tes servetsch da web hosting">
 <!ENTITY password.label               "Pled-clav:">
-<!ENTITY password.accesskey           "w">
+<!ENTITY password.accesskey           "P">
 <!ENTITY password.tooltip             "Il pled-clav associà cun tes num d'utilisader">
 <!ENTITY savePassword.label           "Memorisar il pled-clav">
 <!ENTITY savePassword.accesskey       "S">
