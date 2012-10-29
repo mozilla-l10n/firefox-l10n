@@ -8,7 +8,6 @@
 <!ENTITY  awesomebar_all_pages_title "Wszystko">
 <!ENTITY  awesomebar_bookmarks_title "Zakładki">
 <!ENTITY  awesomebar_history_title "Historia">
-<!ENTITY  awesomebar_search_engine "Wyszukaj \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; - narzędzie zgłaszania awarii">
 <!ENTITY  crash_message "&brandShortName; uległ awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponowym uruchomieniu.">
@@ -92,6 +91,7 @@ size. -->
 <!ENTITY pref_font_size_adjust_char "Aa">
 
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
+<!ENTITY pref_show_product_announcements "Pokaż informacje o produktach">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_import_android "Importuj z Androida">
@@ -116,6 +116,7 @@ size. -->
 <!ENTITY save_as_pdf "Zapisz jako PDF">
 <!ENTITY desktop_mode "Tryb stacjonarny">
 <!ENTITY find_in_page "Znajdź na stronie">
+<!ENTITY tools "Narzędzia">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -125,6 +126,7 @@ size. -->
 <!ENTITY find_close "Zamknij">
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
+<!ENTITY contextmenu_open_in_reader "Otwórz w trybie czytania">
 <!ENTITY contextmenu_remove_bookmark "Usuń zakładkę">
 <!ENTITY contextmenu_remove_history "Usuń historię">
 <!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu głównego">
@@ -150,7 +152,7 @@ size. -->
 <!ENTITY reading_list_added "Strona dodana do listy „Do przeczytania”">
 <!ENTITY reading_list_removed "Strona usunięta z listy „Do przeczytania”">
 <!ENTITY reading_list_failed "Nie udało się zapisać strony na liście „Do przeczytania”">
-<!ENTITY reader_mode "Tryb czytania">
+<!ENTITY reader "Tryb czytania">
 
 <!ENTITY masterpassword_create_title "Utwórz hasło główne">
 <!ENTITY masterpassword_remove_title "Usuń hasło główne">
@@ -159,7 +161,11 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Anuluj">
+<!ENTITY button_yes "Tak">
+<!ENTITY button_no "Nie">
 <!ENTITY button_clear_data "Usuń dane">
+<!ENTITY button_set "Ustaw">
+<!ENTITY button_clear "Usuń">
 
 <!ENTITY abouthome_addons_title "Polecane dodatki">
 <!ENTITY abouthome_addons_browse "Zobacz wszystkie dostępne dodatki">
@@ -173,13 +179,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Zainstaluj aplikacje z Mozilla Marketplace i odkryj to, co najlepsze w Sieci&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Zainstaluj aplikacje z Firefox Marketplace i odkryj to, co najlepsze w Sieci&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Wybierz plik">
 <!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
@@ -201,20 +207,20 @@ size. -->
                                          z systemu Android">
 <!ENTITY bookmarkhistory_import_wait "Proszę czekać…">
 
+<!ENTITY suggestions_prompt "Czy chcesz włączyć podpowiedzi wyszukiwania?">
+
 <!ENTITY webapp_generic_name "Aplikacja">
 
+<!ENTITY searchable_description "Zakładki i historia">
+
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
-<!ENTITY updater_start_select "Wybierz, aby pobrać aktualizację.">
+<!ENTITY updater_start_title2 "Dla przeglądarki &brandShortName; dostępne są nowe aktualizacje">
+<!ENTITY updater_start_select2 "Dotknij, aby zaktualizować">
 
-<!ENTITY updater_downloading_title "Pobieranie: &brandShortName;">
-<!ENTITY updater_downloading_ticker "Pobieranie aktualizacji programu &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Wystąpił błąd przy pobieraniu aktualizacji programu &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Wybierz, aby zainstalować aktualizację.">
-<!ENTITY updater_downloading_retry "Wybierz, aby ponownie pobrać aktualizację.">
-<!ENTITY updater_downloading_willapply "Oczekiwanie na zakończenie pobierania.">
+<!ENTITY updater_downloading_title2 "Pobieranie: &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Pobieranie nie udało się">
+<!ENTITY updater_downloading_select2 "Wybierz, zainstalować aktualizację po jej pobraniu">
+<!ENTITY updater_downloading_retry2 "Dotknij, aby spróbować ponownie">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
-<!ENTITY updater_apply_select "Wybierz, aby zainstalować aktualizację.">
+<!ENTITY updater_apply_title2 "Dla przeglądarki &brandShortName; dostępne są nowe aktualizacje">
+<!ENTITY updater_apply_select2 "Dotknij, aby zaktualizować">
