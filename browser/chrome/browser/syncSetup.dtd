@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Pernahkah anda menggunakan &syncBrand.fullName.label; sebelum ini?">
 <!ENTITY setup.choicePage.new.label       "Saya tidak pernah guna &syncBrand.shortName.label; sebelum ini">
-<!ENTITY setup.choicePage.existing.label  "Saya sedang menggunakan &syncBrand.shortName.label; pada komputer lain">
+<!ENTITY setup.choicePage.existing2.label "Saya sudah pun menggunakan &syncBrand.shortName.label; pada peranti yang lain">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Pelayan">
@@ -78,8 +78,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Pilihan Sync">
-<!ENTITY syncComputerName.label       "nama komputer:">
-<!ENTITY syncComputerName.accesskey   "n">
+<!ENTITY syncDeviceName.label       "Nama Peranti:">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync Saya">
 <!ENTITY engine.bookmarks.label     "Penandabuku">
@@ -95,16 +95,18 @@
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2.merge.main.label      "Gabungkan data komputer ini dengan data &syncBrand.shortName.label; saya">
+<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Disyorkan:">
-<!ENTITY choice2.client.main.label     "Gantikan semua data dalam komputer ini dengan data &syncBrand.shortName.label; saya">
-<!ENTITY choice2.server.main.label     "Gantikan semua peranti lain dengan data komputer ini">
+<!ENTITY choice2a.client.main.label      "Gantikan semua data dalam peranti ini dengan &syncBrand.shortName.label; data">
+<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Pasti">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; kini akan menggabungkan semua data pelayar komputer ini ke dalam akaun Sync anda.">
-<!ENTITY confirm.client2.label         "Amaran: Data &brandShortName; berikut akan dipadam:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; akan membuat salinan data &syncBrand.fullName.label; anda di dalam komputer ini.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label         "Amaran: Data &brandShortName; berikut pada peranti ini akan dipadam:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; akan seterusnya menyalin data &syncBrand.fullName.label; anda ke peranti ini.
+
+">
 <!ENTITY confirm.server2.label         "Amaran: Alat-alat berikut akan ditulis ganti dengan data tempatan anda:">
 
 <!-- New & Existing Account: Setup Complete -->

@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "Servis Pencari Plugin">
 <!ENTITY pluginWizard.firstPage.title                        "Selamat Datang ke &pluginWizard.title;">
 
@@ -33,8 +36,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Klik sini untuk mengaktifkan plugin.">
 <!ENTITY clickToPlayPlugin                                   "Klik di sini untuk mengaktifkan plugin.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Tekan disini untuk aktif plugin vulnerable.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Tekan sini untuk aktifkan plugin vulnerable (tiada kemaskini disediakan).">
 <!ENTITY checkForUpdates                                     "Semak untuk kemaskini">
 <!ENTITY disabledPlugin                                      "Plugin ini telah dilumpuhkan.">
 <!ENTITY blockedPlugin.label                                 "Plugin ini telah disekat untuk perlindungan anda.">

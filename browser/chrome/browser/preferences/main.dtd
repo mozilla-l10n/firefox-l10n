@@ -36,9 +36,3 @@
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "S">
 
-<!ENTITY addonsMgr.label               "Addon">
-<!ENTITY manageAddonsDescWin.label     "Tukar pilihan untuk addon anda">
-<!ENTITY manageAddonsDescUnix2.label   "Tukar keutamaan untuk addon anda">
-<!ENTITY manageAddons.label            "Urus Addon…">
-<!ENTITY manageAddons.accesskey        "U">
-

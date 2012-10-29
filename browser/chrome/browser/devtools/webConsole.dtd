@@ -32,6 +32,11 @@
 <!ENTITY saveBodies.label     "Log Permintaan dan Respon Bodies">
 <!ENTITY saveBodies.accesskey "L">
 
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+<!ENTITY openURL.label     "Buka URL di Tab Baru">
+<!ENTITY openURL.accesskey "T">
+
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -76,8 +81,8 @@
 
 <!ENTITY filterBox.placeholder "Penapis">
 <!ENTITY btnClear.label        "Bersih">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
+<!ENTITY btnClear.tooltip      "Bersihkan output Web Konsol">
+<!ENTITY btnClose.tooltip      "Tutup Web Konsol">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -88,4 +93,7 @@
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY copyURLCmd.label     "Salin Lokasi Pautan">
+<!ENTITY copyURLCmd.accesskey "a">
 
