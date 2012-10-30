@@ -8,7 +8,7 @@
 <!ENTITY  no_space_to_start_error "Il n\u0027y a pas assez d\u0027espace disponible pour permettre à &brandShortName; de démarrer.">
 <!ENTITY  error_loading_file "Une erreur est survenue en essayant de charger des fichiers nécessaires pour lancer &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Sites favoris">
+<!ENTITY  awesomebar_all_pages_title "Les + visités">
 <!ENTITY  awesomebar_bookmarks_title "Marque-pages">
 <!ENTITY  awesomebar_history_title "Historique">
 
@@ -181,8 +181,8 @@ size. -->
 <!ENTITY abouthome_addons_browse "Parcourir tous les modules pour &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Vos derniers onglets ouverts">
 <!ENTITY abouthome_last_tabs_open "Ouvrir tous les onglets">
-<!ENTITY abouthome_top_sites_title "Sites favoris">
-<!ENTITY abouthome_top_sites_browse "Parcourir tous vos sites favoris">
+<!ENTITY abouthome_top_sites_title "Les plus visités">
+<!ENTITY abouthome_top_sites_browse "Parcourir vos sites les plus visités">
 <!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
