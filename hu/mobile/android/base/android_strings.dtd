@@ -226,17 +226,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Alkalmazás">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; frissítés érhető el&#8230;">
-<!ENTITY updater_start_select "Válassza ki a frissítés letöltéséhez.">
+<!ENTITY updater_start_title2 "Frissítés érhető el a &brandShortName;hoz">
+<!ENTITY updater_start_select2 "Koppintson a letöltéshez">
+ 
+<!ENTITY updater_downloading_title2 "A &brandShortName; letöltése">
+<!ENTITY updater_downloading_title_failed2 "Letöltés sikertelen">
+<!ENTITY updater_downloading_select2 "Koppintson a frissítés alkalmazásához a letöltés után">
+<!ENTITY updater_downloading_retry2 "Koppintson az újraindításhoz">
+ 
+<!ENTITY updater_apply_title2 "Frissítés érhető el a &brandShortName;hoz">
+<!ENTITY updater_apply_select2 "Koppintson a frissítéshez">
 
-<!ENTITY updater_downloading_title "A &brandShortName; letöltése">
-<!ENTITY updater_downloading_ticker "A &brandShortName; frissítés letöltése&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Nem sikerült letölteni a &brandShortName; frissítést&#8230;">
-<!ENTITY updater_downloading_select "Válassza ki a frissítés alkalmazásához, amikor kész.">
-<!ENTITY updater_downloading_retry "Válassza ki a frissítés letöltésének újrapróbálásához.">
-<!ENTITY updater_downloading_willapply "Várakozás a letöltés befejeződésére.">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; frissítés érhető el&#8230;">
-<!ENTITY updater_apply_select "Válassza ki a letöltött frissítés alkalmazásához.">
