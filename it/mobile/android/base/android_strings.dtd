@@ -53,7 +53,7 @@
 <!ENTITY pref_category_content "Contenuti">
 <!ENTITY pref_category_importexport "Importa ed esporta">
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
-<!ENTITY pref_do_not_track "Attiva anti-tracciamento">
+<!ENTITY pref_do_not_track "Attiva antitracciamento">
 <!ENTITY pref_telemetry "Invia dati prestazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
 <!ENTITY pref_cookies "Attiva cookie">
