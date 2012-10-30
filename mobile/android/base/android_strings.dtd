@@ -77,7 +77,6 @@
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
 <!ENTITY pref_plugins_disabled "Deaktiviert">
 <!ENTITY pref_text_size "Textgröße">
-<!ENTITY pref_reflow_on_zoom "Text nach Zoomen anpassen">
 <!ENTITY pref_font_size_tiny "Winzig">
 <!ENTITY pref_font_size_small "Klein">
 <!ENTITY pref_font_size_medium "Mittel">
