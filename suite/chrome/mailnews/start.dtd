@@ -16,7 +16,7 @@ notícias, suportando detecção avançada de lixo electrónico e outras funcion
 <!ENTITY feat_filters.label "Filtros de mensagens">
 <!ENTITY feat_htmlmsg.label "Suporte de mensagens HTML">
 <!ENTITY feat_abook.label "Livro de Endereços">
-<!ENTITY feat_labels.label "Etiquetas e Vistas do Correio Personalizáveis">
+<!ENTITY feat_tags.label "Etiquetas e Vistas do Correio Personalizáveis">
 <!ENTITY feat_integration.label
 "elevada integração com a suite &brandShortName;">
 <!ENTITY dict.title "Dicionários">
