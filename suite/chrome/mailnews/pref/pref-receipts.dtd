@@ -10,7 +10,7 @@
 <!ENTITY receiptArrive.label          "Tértivevények érkezésekor:">
 <!ENTITY leaveIt.label                "Megtartás a Beérkezett üzenetek mappában">
 <!ENTITY leaveIt.accesskey            "B">
-<!ENTITY moveToSent.label             "Áthelyezés az &quot;Elküldött elemek&quot; mappába">
+<!ENTITY moveToSent.label             "Áthelyezés az „Elküldött elemek” mappába">
 <!ENTITY moveToSent.accesskey         "E">
 <!ENTITY requestMDN.label             "Tértivevény küldésére vonatkozó kérés érkezésekor:">
 <!ENTITY returnSome.label             "Tértivevény küldése bizonyos üzeneteknél">

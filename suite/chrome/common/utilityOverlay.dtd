@@ -26,7 +26,7 @@
 <!ENTITY printSetupCmd.accesskey "O">
 <!ENTITY printPreviewCmd.label "Nyomtatási kép">
 <!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printCmd.label "Nyomtatás...">
+<!ENTITY printCmd.label "Nyomtatás…">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "p">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearHistoryCmd.accesskey   "e"> 
 <!ENTITY showSuggestionsCmd.label   "Javaslatok megjelenítése">  
 <!ENTITY showSuggestionsCmd.accesskey  "J"> 
-<!ENTITY preferencesCmd.label    "Beállítások...">
+<!ENTITY preferencesCmd.label    "Beállítások…">
 <!ENTITY preferencesCmd.key     "E">  
 <!ENTITY preferencesCmd.accesskey   "B"> 
 <!ENTITY findCmd.key "F">
@@ -100,7 +100,7 @@
 <!ENTITY releaseCmd.accesskey               "V">
 <!ENTITY helpSafeMode.label                 "Újraindítás letiltott kiegészítőkkel">
 <!ENTITY helpSafeMode.accesskey             "j">
-<!ENTITY updateCmd.label                    "Frissítések keresése...">
+<!ENTITY updateCmd.label                    "Frissítések keresése…">
 <!ENTITY updateCmd.accesskey                "F">
 <!ENTITY aboutCmd.label     "A &brandShortName; névjegye">
 <!ENTITY aboutCmd.accesskey    "A">
@@ -118,14 +118,14 @@
 <!ENTITY system.label                                   "Online (Proxy: rendszerbeállítások használata)">
 <!ENTITY system.accesskey                               "r">
 
-<!ENTITY proxy.label                                    "Proxybeállítás...">
+<!ENTITY proxy.label                                    "Proxybeállítás…">
 <!ENTITY proxy.accesskey                                "P">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Szöveg irányának átváltása">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "z">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY customizeToolbarContext.label            "Testreszabás...">
+<!ENTITY customizeToolbarContext.label            "Testreszabás…">
 <!ENTITY customizeToolbarContext.accesskey        "T">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Eszköztár beállításai">

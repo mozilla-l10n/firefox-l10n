@@ -12,7 +12,7 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "A globális LDAP-kiszolgáló beállításainak használata ennél a postafióknál">
 <!ENTITY useGlobal.accesskey       "A">
-<!ENTITY editDirectories.label     "Címtárak szerkesztése...">
+<!ENTITY editDirectories.label     "Címtárak szerkesztése…">
 <!ENTITY editDirectories.accesskey "C">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Másik LDAP-kiszolgáló használata:">

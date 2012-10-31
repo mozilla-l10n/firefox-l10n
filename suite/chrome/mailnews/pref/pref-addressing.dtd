@@ -18,5 +18,5 @@
 <!ENTITY directories.label                     "Címtárkiszolgáló:">
 <!ENTITY directories.accesskey                 "C">
 <!ENTITY directoriesNone.label                 "Nincs">
-<!ENTITY editDirectories.label                 "Címtárak szerkesztése...">
+<!ENTITY editDirectories.label                 "Címtárak szerkesztése…">
 <!ENTITY editDirectories.accesskey             "C">

@@ -24,15 +24,15 @@
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Attach the signature from a file instead:">
 <!ENTITY signatureFile.accesskey "t">
-<!ENTITY choose.label "Tallózás...">
+<!ENTITY choose.label "Tallózás…">
 <!ENTITY choose.accesskey "T">
-<!ENTITY editVCard.label "Névjegykártya szerkesztése...">
+<!ENTITY editVCard.label "Névjegykártya szerkesztése…">
 <!ENTITY editVCard.accesskey "N">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "A vCard csatolása a levelekhez">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Azonosságok kezelése...">
+<!ENTITY manageIdentities.label "Azonosságok kezelése…">
 <!ENTITY manageIdentities.accesskey "A">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 

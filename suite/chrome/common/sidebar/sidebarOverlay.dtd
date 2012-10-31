@@ -6,7 +6,7 @@
 <!ENTITY sidebar.reload.label           "Frissítés">
 <!ENTITY sidebar.reload.accesskey       "F">
 <!ENTITY sidebar.picker.label           "Panellapok">
-<!ENTITY sidebar.customize.label        "Az Oldalsáv testreszabása...">
+<!ENTITY sidebar.customize.label        "Az Oldalsáv testreszabása…">
 <!ENTITY sidebar.customize.accesskey    "A">
 <!ENTITY sidebar.hide.label             "Panel elrejtése">
 <!ENTITY sidebar.hide.accesskey         "P">
@@ -14,7 +14,7 @@
 <!ENTITY sidebar.switch.accesskey       "V">
 <!ENTITY sidebarCmd.label               "Oldalsáv">
 <!ENTITY sidebarCmd.accesskey           "O">
-<!ENTITY sidebar.loading.label          "Betöltés...">
+<!ENTITY sidebar.loading.label          "Betöltés…">
 <!ENTITY sidebar.loadstopped.label      "Betöltés leállítva">
 <!ENTITY sidebar.loading.stop.label     "Leállítás">
 <!ENTITY sidebar.loading.stop.accesskey "L">
@@ -22,7 +22,7 @@
 <!ENTITY sidebar.no-panels.state     "Az Oldalsáv jelenleg üres.">
 <!ENTITY sidebar.no-panels.add       "Hozzáadhat panellapokat az Oldalsávhoz, ha a fenti Panellapok gombra kattint.">
 <!ENTITY sidebar.no-panels.hide      'Ha szeretné teljesen elrejteni az Oldalsávot, kattintson a fenti "Nézet" menüre, és a "Megjelenítés/Elrejtés" almenüből válassza az "Oldalsáv" parancsot.'>
-<!ENTITY sidebar.sbDirectory.label   "Oldalsáv-katalógus...">
+<!ENTITY sidebar.sbDirectory.label   "Oldalsáv-katalógus…">
 
 <!ENTITY sidebar.pagenotfound.label  "Ez a panellap most nem áll rendelkezésre.">
 <!ENTITY sidebar.close.tooltip       "Bezárás">

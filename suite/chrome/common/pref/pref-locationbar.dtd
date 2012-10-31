@@ -36,7 +36,7 @@
 <!ENTITY showSearchEngine.accesskey            "A">
 
 <!ENTITY unknownLocations.label                "Ismeretlen helyek">
-<!ENTITY domainGuessing.label                  "&quot;www.&quot; és &quot;.com&quot; névtagok hozzáadása, ha a webhely nem található">
+<!ENTITY domainGuessing.label                  "„www.” és „.com” névtagok hozzáadása, ha a webhely nem található">
 <!ENTITY domainGuessing.accesskey              "h">
 <!ENTITY keywords.label                        "Keresés végrehajtása, ha a beírt szöveg nem egy webhely címe">
 <!ENTITY keywords.accesskey                    "K">

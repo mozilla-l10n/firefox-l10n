@@ -6,7 +6,7 @@
 
 <!ENTITY  validation.crl.caption                  "CRL">
 <!ENTITY  validation.crl.description              "A CRL-kezelő segítségével kezelheti a tanúsítvány-adatbázisában tárolt visszavont tanúsítványok listáját (CRL).">
-<!ENTITY  validation.managecrls.button            "CRL-ek kezelése...">
+<!ENTITY  validation.managecrls.button            "CRL-ek kezelése…">
 <!ENTITY  validation.managecrls.accesskey         "C">
 
 <!ENTITY validation.ocsp.caption                  "OCSP">

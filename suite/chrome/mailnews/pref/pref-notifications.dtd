@@ -19,6 +19,6 @@
 <!ENTITY systemsound.accesskey            "z">
 <!ENTITY customsound.label                "Saját WAV-fájl">
 <!ENTITY customsound.accesskey            "S">
-<!ENTITY browse.label                     "Tallózás...">
+<!ENTITY browse.label                     "Tallózás…">
 <!ENTITY browse.accesskey                 "T">
 <!ENTITY browse.title                     "Fájlválasztás">

@@ -12,7 +12,7 @@
 <!ENTITY useQuickMode.label "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett"> 
 <!ENTITY useQuickMode.accesskey "A">
 
-<!ENTITY manageSubscriptions.label "Feliratkozások kezelése..."> 
+<!ENTITY manageSubscriptions.label "Feliratkozások kezelése…"> 
 <!ENTITY manageSubscriptions.accesskey "F">
 <!-- entities from rss.rdf -->
 
