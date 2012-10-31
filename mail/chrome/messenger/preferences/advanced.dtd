@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "o">
 <!ENTITY searchIntegration.label       "Permitir &searchIntegration.engineName; para pesquisar mensagens">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "Verificar Agora">
-<!ENTITY checkNow.accesskey            "V">
+<!ENTITY checkDefaultsNow.label        "Verificar Agora">
+<!ENTITY checkDefaultsNow.accesskey    "V">
 <!ENTITY configEditDesc.label          "Configuração avançada">
 <!ENTITY configEdit.label              "Config Editor…">
 <!ENTITY configEdit.accesskey          "g">
