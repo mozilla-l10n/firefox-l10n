@@ -13,7 +13,7 @@
 <!ENTITY feat_filters.label "Üzenetszűrők">
 <!ENTITY feat_htmlmsg.label "HTML-üzenetek támogatása">
 <!ENTITY feat_abook.label "Címjegyzék">
-<!ENTITY feat_labels.label "Testreszabható címkék és üzenetnézetek">
+<!ENTITY feat_tags.label "Testreszabható címkék és üzenetnézetek">
 <!ENTITY feat_integration.label "Szoros integráció a &brandShortName; alkalmazáscsomaggal">
 <!ENTITY dict.title "Szótárak">
 <!ENTITY dict_intro.label "A szótárak az üzenetek helyesírás-ellőrzésére használatosak.">
