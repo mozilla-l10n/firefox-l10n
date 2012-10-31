@@ -17,7 +17,7 @@
 <!ENTITY downloadLocation.label         "Fájl mentésekor">
 <!ENTITY saveTo.label                   "Fájlok mentése:">
 <!ENTITY saveTo.accesskey               "m">
-<!ENTITY chooseDownloadFolder.label     "Mappa választása...">
+<!ENTITY chooseDownloadFolder.label     "Mappa választása…">
 <!ENTITY chooseDownloadFolder.accesskey "M">
 <!ENTITY alwaysAsk.label                "Rákérdezés a fájlok letöltési helyére">
 <!ENTITY alwaysAsk.accesskey            "R">
@@ -34,7 +34,7 @@
 <!ENTITY playSound.accesskey            "H">
 <!ENTITY showAlert.label                "Figyelmeztető ablak">
 <!ENTITY showAlert.accesskey            "i">
-<!ENTITY browse.label                   "Tallózás...">
+<!ENTITY browse.label                   "Tallózás…">
 <!ENTITY browse.accesskey               "T">
 <!ENTITY playButton.label               "Lejátszás">
 <!ENTITY playButton.accesskey           "L">

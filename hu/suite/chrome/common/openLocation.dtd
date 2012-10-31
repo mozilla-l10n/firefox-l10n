@@ -9,7 +9,7 @@
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->
 <!ENTITY enter.accesskey "R">
-<!ENTITY chooseFile.label "Tallózás...">
+<!ENTITY chooseFile.label "Tallózás…">
 <!ENTITY chooseFile.accesskey "T">
 <!ENTITY newWindow.label "új böngészőablakban">
 <!ENTITY newTab.label "új böngészőlapon">

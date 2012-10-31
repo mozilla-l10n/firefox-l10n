@@ -6,25 +6,25 @@
 <!ENTITY newMessageCmd.accesskey         "Ü">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newContactCmd.label             "Névjegykártya...">
+<!ENTITY newContactCmd.label             "Névjegykártya…">
 <!ENTITY newContactCmd.accesskey         "N">
 
-<!ENTITY sendPage.label                  "Oldal küldése...">
+<!ENTITY sendPage.label                  "Oldal küldése…">
 <!ENTITY sendPage.accesskey              "O">
 
-<!ENTITY contextSendThisPage.label       "Oldal küldése...">
+<!ENTITY contextSendThisPage.label       "Oldal küldése…">
 <!ENTITY contextSendThisPage.accesskey   "O">
-<!ENTITY contextSendThisLink.label       "Hiperhivatkozás küldése...">
+<!ENTITY contextSendThisLink.label       "Hiperhivatkozás küldése…">
 <!ENTITY contextSendThisLink.accesskey   "H">
-<!ENTITY contextSendImage.label          "Kép küldése...">
+<!ENTITY contextSendImage.label          "Kép küldése…">
 <!ENTITY contextSendImage.accesskey      "p">
 <!ENTITY contextSendVideo.label          "Video küldése…">
 <!ENTITY contextSendVideo.accesskey      "i">
 <!ENTITY contextSendAudio.label          "Hang küldése…">
 <!ENTITY contextSendAudio.accesskey      "g">
-<!ENTITY contextSendFrame.label          "Keret küldése...">
+<!ENTITY contextSendFrame.label          "Keret küldése…">
 <!ENTITY contextSendFrame.accesskey      "K">
 
-<!ENTITY sendLinkCmd.label               "Hivatkozás küldése..."> 
+<!ENTITY sendLinkCmd.label               "Hivatkozás küldése…"> 
 <!ENTITY sendLinkCmd.accesskey           "d">
 

@@ -6,24 +6,24 @@
 <!ENTITY tabCmd.label "Böngészőlap">
 <!ENTITY tabCmd.accesskey "l">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Webcím megnyitása...">
+<!ENTITY openCmd.label "Webcím megnyitása…">
 <!ENTITY openCmd.accesskey "W">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Fájl megnyitása...">
+<!ENTITY openFileCmd.label "Fájl megnyitása…">
 <!ENTITY openFileCmd.accesskey "F">
 <!ENTITY openFileCmd.commandkey "o">
 
 <!ENTITY closeOtherTabs.label "Többi böngészőlap bezárása">
 <!ENTITY closeOtherTabs.accesskey "b">
 
-<!ENTITY uploadFile.label "Fájl feltöltése...">
+<!ENTITY uploadFile.label "Fájl feltöltése…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
+<!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "O">
 <!-- Edit Menu -->
 
-<!ENTITY findOnCmd.label "Keresés ezen az oldalon...">
+<!ENTITY findOnCmd.label "Keresés ezen az oldalon…">
 <!-- View Menu -->
 
 <!ENTITY toolbarsCmd.label "Megjelenítés/Elrejtés">
@@ -77,12 +77,12 @@
 <!ENTITY bookmarksMenu.accesskey "K">
 <!ENTITY addCurPageCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
 <!ENTITY addCurPageCmd.accesskey "k">
-<!ENTITY addCurPageAsCmd.label "Könyvjelző felvétele mint...">
+<!ENTITY addCurPageAsCmd.label "Könyvjelző felvétele mint…">
 <!ENTITY addCurPageAsCmd.accesskey "f">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Böngészőlapcsoport könyvjelzőzése...">
+<!ENTITY addCurTabsAsCmd.label "Böngészőlapcsoport könyvjelzőzése…">
 <!ENTITY addCurTabsAsCmd.accesskey "k">
-<!ENTITY manBookmarksCmd.label "Könyvjelzők kezelése...">
+<!ENTITY manBookmarksCmd.label "Könyvjelzők kezelése…">
 <!ENTITY manBookmarksCmd.accesskey "z">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!-- Tools Menu -->
@@ -134,5 +134,5 @@
 <!ENTITY cookiePopupManager.label "Felugró ablakok kezelése">
 <!ENTITY cookiePopupManager.accesskey "F">
 
-<!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése...">
+<!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése…">
 <!ENTITY clearPrivateDataCmd.accesskey "S">

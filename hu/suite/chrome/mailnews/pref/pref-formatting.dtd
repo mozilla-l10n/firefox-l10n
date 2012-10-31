@@ -21,7 +21,7 @@
 <!ENTITY HTMLdomaintitle.accesskey    "e">
 <!ENTITY PlainTexttitle.label         "Normál szöveget kérő tartományok">
 <!ENTITY PlainTexttitle.accesskey     "e">
-<!ENTITY AddButton.label              "Hozzáadás...">
+<!ENTITY AddButton.label              "Hozzáadás…">
 <!ENTITY AddHtmlDomain.accesskey      "H">
 <!ENTITY AddPlainText.accesskey       "o">
 <!ENTITY DeleteButton.label           "Törlés">

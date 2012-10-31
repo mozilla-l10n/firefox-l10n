@@ -22,24 +22,24 @@
 <!ENTITY view.sortDescending.label      "Csökkenő sorrendben">
 <!ENTITY view.sortDescending.accesskey  "C">
 
-<!ENTITY cmd.findInBookmarks.label      "Keresés a könyvjelzők között...">
+<!ENTITY cmd.findInBookmarks.label      "Keresés a könyvjelzők között…">
 <!ENTITY cmd.findInBookmarks.accesskey  "K">
-<!ENTITY cmd.findCurrent.label          "Keresés az aktuális gyűjteményben...">
+<!ENTITY cmd.findCurrent.label          "Keresés az aktuális gyűjteményben…">
 <!ENTITY cmd.findCurrent.accesskey      "e">
 
-<!ENTITY cmd.exportHTML.label           "HTML exportálása...">
+<!ENTITY cmd.exportHTML.label           "HTML exportálása…">
 <!ENTITY cmd.exportHTML.accesskey       "e">
-<!ENTITY cmd.importHTML.label           "HTML importálása...">
+<!ENTITY cmd.importHTML.label           "HTML importálása…">
 <!ENTITY cmd.importHTML.accesskey       "i">
 
-<!ENTITY cmd.backup.label               "Mentés...">
+<!ENTITY cmd.backup.label               "Mentés…">
 <!ENTITY cmd.backup.accesskey           "M">
 <!ENTITY cmd.restore2.label             "Visszaállítás">
 <!ENTITY cmd.restore2.accesskey         "V">
-<!ENTITY cmd.restoreFromFile.label      "Tallózás...">
+<!ENTITY cmd.restoreFromFile.label      "Tallózás…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
-<!ENTITY cmd.bookmarkLink.label         "Oldal felvétele a könyvjelzők közé...">
+<!ENTITY cmd.bookmarkLink.label         "Oldal felvétele a könyvjelzők közé…">
 <!ENTITY cmd.bookmarkLink.accesskey     "O">
 <!ENTITY cmd.delete.label               "Oldal törlése">
 <!ENTITY cmd.delete.accesskey           "t">
@@ -61,9 +61,9 @@
 <!ENTITY cmd.sortby_name.label              "Rendezés név szerint">
 <!ENTITY cmd.sortby_name.accesskey          "R">
 
-<!ENTITY cmd.new_bookmark.label            "Új könyvjelző...">
+<!ENTITY cmd.new_bookmark.label            "Új könyvjelző…">
 <!ENTITY cmd.new_bookmark.accesskey        "k">
-<!ENTITY cmd.new_folder.label              "Új mappa...">
+<!ENTITY cmd.new_folder.label              "Új mappa…">
 <!ENTITY cmd.new_folder.accesskey          "m">
 <!ENTITY cmd.context_new_folder.accesskey  "j">
 <!ENTITY cmd.new_separator.label           "Új elválasztó">
@@ -72,7 +72,7 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Élő könyvjelző frissítése">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "f">
 
-<!ENTITY cmd.moveBookmarks.label                  "Áthelyezés...">
+<!ENTITY cmd.moveBookmarks.label                  "Áthelyezés…">
 <!ENTITY cmd.moveBookmarks.accesskey              "t">
 
 <!ENTITY col.title.label         "Név">
