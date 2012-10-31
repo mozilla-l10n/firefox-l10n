@@ -6,11 +6,11 @@
 <!ENTITY directoryName.label               "Num: ">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Adressa dal server: ">
-<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryHostname.accesskey       "S">
 <!ENTITY directoryBaseDN.label             "DN da basa: ">
 <!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Tschertgar">
-<!ENTITY findButton.accesskey              "F">
+<!ENTITY findButton.accesskey              "T">
 <!ENTITY directorySecure.label             "Utilisar ina connexiun segira (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
@@ -23,7 +23,7 @@
 <!ENTITY searchFilter.label                "Filter da tschertga: ">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Dimensiun: ">
-<!ENTITY scope.accesskey                   "c">
+<!ENTITY scope.accesskey                   "D">
 <!ENTITY scopeOneLevel.label               "In nivel">
 <!ENTITY scopeOneLevel.accesskey           "L">
 <!ENTITY scopeSubtree.label                "Sutierarchia">

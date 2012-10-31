@@ -35,6 +35,6 @@
 <!ENTITY choosethis.label "tscherner quest ordinatur">
 <!ENTITY choosethisnewsserver.label "tscherner quest server da gruppas da discussiun">
 <!ENTITY helpButton.label "Agid">
-<!ENTITY helpButton.accesskey "H">
+<!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Tschertgar filters tenor num…">

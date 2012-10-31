@@ -9,11 +9,11 @@
 <!ENTITY archiveFlat.label "In singul ordinatur">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Ordinaturs archivads annualmain">
-<!ENTITY archiveYearly.accesskey "Y">
+<!ENTITY archiveYearly.accesskey "a">
 <!ENTITY archiveMonthly.label "Ordinaturs archivads mensilmain">
 <!ENTITY archiveMonthly.accesskey "M">
 <!ENTITY keepFolderStructure.label "Preservar la structura dad ordinaturs existenta per messadis archivads">
-<!ENTITY keepFolderStructure.accesskey "K">
+<!ENTITY keepFolderStructure.accesskey "P">
 <!ENTITY archiveExample.label "Exempel">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->

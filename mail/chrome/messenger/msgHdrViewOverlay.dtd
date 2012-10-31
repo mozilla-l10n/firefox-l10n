@@ -75,8 +75,8 @@
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Avrir">
-<!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Memorisar sut...">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Memorisar sut…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Statgar…">
 <!ENTITY detachAttachmentCmd.accesskey    "t">
@@ -87,9 +87,9 @@
 <!ENTITY saveAllAttachmentsCmd.label    "Memorisar tuts…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Statgar tuts…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "t">
 <!ENTITY deleteAllAttachmentsCmd.label    "Stizzar tuts…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "u">
 
 <!ENTITY openAttachment.tooltip "Avrir la datoteca agiuntada">
 
