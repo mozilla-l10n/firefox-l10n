@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Az üzenetek letöltése és szinkronizálása">
 <!ENTITY MsgSelect.label "Elemek kiválasztása kapcsolat nélküli munkához">
-<!ENTITY MsgSyncDesc.label "Ha már kiválasztotta a levelezőmappákat vagy a hírcsoportokat a kapcsolat nélküli munkához, akkor ezeket most letöltheti és/vagy szinkronizálhatja. Egyébként nyomja meg a &quot;Kijelölés&quot; gombot a levelezőmappák és hírcsoportok kijelöléséhez.">
+<!ENTITY MsgSyncDesc.label "Ha már kiválasztotta a levelezőmappákat vagy a hírcsoportokat a kapcsolat nélküli munkához, akkor ezeket most letöltheti és/vagy szinkronizálhatja. Egyébként nyomja meg a „Kijelölés” gombot a levelezőmappák és hírcsoportok kijelöléséhez.">
 <!ENTITY MsgSyncDirections.label "Töltse le és/vagy szinkronizálja a következőket:">
 <!ENTITY syncTypeMail.label "Levelek">
 <!ENTITY syncTypeMail.accesskey "L">
