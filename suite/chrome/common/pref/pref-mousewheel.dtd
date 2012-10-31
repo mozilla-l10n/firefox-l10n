@@ -10,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Függőleges görgetés">
-<!ENTITY mousewheelHorizGroup.label      "Vízszintes görgetés">
-<!ENTITY scroll.label                    "Dokumentum görgetése ">
-<!ENTITY scroll.accesskey                "D">
-<!ENTITY scrollHoriz.accesskey           "k">
-<!ENTITY scrollLines.label               " sor. ">
-<!ENTITY scrollChars.label               " karakter. ">
-<!ENTITY useSystemDefault.label          "Az alapértelmezett rendszerbeállítás használata">
-<!ENTITY useSystemDefault.accesskey      "A">
-<!ENTITY useSystemDefaultHoriz.accesskey "l">
-<!ENTITY scrollPgUpPgDn.label            "Görgetés egy oldallal feljebb vagy lejjebb">
-<!ENTITY scrollPgUpPgDn.accesskey        "o">
-<!ENTITY scrollPgLtPgRt.label            "Görgetés egy oldallal jobbra vagy balra">
-<!ENTITY scrollPgLtPgRt.accesskey        "o">
+<!ENTITY mouseWheelAction.label          "Egérgörgő művelet">
+<!ENTITY doNothing.label                 "Nincs művelet">
+<!ENTITY doNothing.accesskey             "N">
+<!ENTITY scrollDocument.label            "Dokumentum görgetése">
+<!ENTITY scrollDocument.accesskey        "g">
 <!ENTITY history.label                   "Előre/Vissza az előzmények közt">
 <!ENTITY history.accesskey               "m">
-<!ENTITY historyHoriz.accesskey          "z">
 <!ENTITY zoom.label                      "Nagyítás és kicsinyítés">
 <!ENTITY zoom.accesskey                  "N">
-<!ENTITY zoomHoriz.accesskey             "g">
+<!ENTITY mouseWheelSpeed.label           "Egérgörgő-sebesség">
+<!ENTITY verticalSpeed.label             "Függőleges:">
+<!ENTITY verticalSpeed.accesskey         "F">
+<!ENTITY verticalReverse.label           "Fordított irány">
+<!ENTITY verticalReverse.accesskey       "o">
+<!ENTITY horizontalSpeed.label           "Vízszintes:">
+<!ENTITY horizontalSpeed.accesskey       "e">
+<!ENTITY horizontalReverse.label         "Fordított irány">
+<!ENTITY horizontalReverse.accesskey     "d">

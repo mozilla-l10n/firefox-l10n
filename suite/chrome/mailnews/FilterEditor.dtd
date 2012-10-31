@@ -23,10 +23,11 @@
 <!ENTITY contextBoth.label "Levelek ellenőrzésekor vagy kézzel futtatva">
 <!ENTITY contextPostPlugin.label "Levelek ellenőrzésekor (osztályozás után)">
 <!ENTITY contextPostPluginBoth.label "Levelek ellenőrzésekor (osztályozás után) vagy kézzel futtatva">
+
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
-
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Üzenet áthelyezése">
 <!ENTITY copyMessage.label "Üzenet átmásolása">
 <!ENTITY forwardTo.label "Üzenet továbbítása">
@@ -47,7 +48,6 @@
 
 <!ENTITY addAction.tooltip "Új művelet hozzáadása">
 <!ENTITY removeAction.tooltip "A művelet eltávolítása">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus

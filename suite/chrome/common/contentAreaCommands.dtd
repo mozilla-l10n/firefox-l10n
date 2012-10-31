@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "m">
 <!ENTITY viewBGImageCmd.label         "Háttérkép megjelenítése">
 <!ENTITY viewBGImageCmd.accesskey     "H">
-<!ENTITY setWallpaperCmd.label        "Beállítás háttérképként">
-<!ENTITY setWallpaperCmd.accesskey    "B">
+<!ENTITY setDesktopBackgroundCmd.label     "Beállítás háttérképként…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "e">
 <!ENTITY bookmarkPageCmd.label        "Oldal hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkPageCmd.accesskey    "O">
 <!ENTITY bookmarkLinkCmd.label        "Hivatkozás hozzáadása a könyvjelzőkhöz">

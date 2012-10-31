@@ -5,6 +5,7 @@
 
 <!ENTITY linkToolbar.label "Navigációs eszköztár">
 <!ENTITY linkToolbar.accesskey "N">
+<!ENTITY linkToolbar.tooltip "Navigációs eszköztár">
 <!-- Link Toolbar visibility options -->
 
 <!ENTITY linkToolbarAlways.label "Mindig megjelenik">
