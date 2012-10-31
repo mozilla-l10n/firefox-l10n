@@ -240,13 +240,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.label              "Fejlesztői eszköztár">
 <!ENTITY devToolbarMenu.accesskey          "F">
 <!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2
-">
+<!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "További eszközök">
 
 <!ENTITY webConsoleButton.label "Webkonzol">
-<!ENTITY inspectorButton.label "Inspector
-">
+<!ENTITY inspectorButton.label "Inspector">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Inner HTML másolása">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
