@@ -57,8 +57,7 @@
      to tell us anything they're thinking about. -->
 <!ENTITY idea.message              "Szívesen vesszük ötleteit! Ossza meg gondolatait alább. (De csak a &brandShortName;-közelieket.)">
 <!ENTITY idea.placeholder          "Írja be ide az ötletét">
-<!ENTITY idea.thanksHeader         "Köszönjük!
-">
+<!ENTITY idea.thanksHeader         "Köszönjük!">
 
 <!ENTITY idea.thanksMessageTop     "Nagyra becsüljük, hogy megosztja gondolatait. Folyamatosan dolgozunk azon, hogy a &brandShortName; jobb legyen, és az ehhez hasonló hozzájárulások nagyszerű dolgokhoz vezethetnek.">
 

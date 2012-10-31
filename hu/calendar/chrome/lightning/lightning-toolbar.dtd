@@ -34,3 +34,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "T">
 <!ENTITY lightning.toolbar.month.label               "Hónap">
 <!ENTITY lightning.toolbar.month.accesskey           "p">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "Alkalmazásmenü">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Megjeleníti az alkalmazásmenüt">
