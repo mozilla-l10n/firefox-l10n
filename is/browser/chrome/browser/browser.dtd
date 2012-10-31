@@ -611,6 +611,6 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Sýna hliðarslá">
 <!ENTITY social.toggleSidebar.accesskey "s">
 <!ENTITY social.toggleNotifications.label "Sýna skjáborðs tilkynningar">
-<!ENTITY social.toggleNotifications.accesskey "">
+<!ENTITY social.toggleNotifications.accesskey "n">
 <!ENTITY social.activated.undobutton.label "Afturkalla">
 <!ENTITY social.activated.undobutton.accesskey "u">
