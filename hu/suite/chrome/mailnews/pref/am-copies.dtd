@@ -29,7 +29,7 @@
 <!ENTITY archivesTitle.label "Üzenetarchívumok tárolója">
 <!ENTITY keepArchives.label "Üzenetarchívumok tárolója:">
 <!ENTITY keepArchives.accesskey "t">
-<!ENTITY archiveHierarchyButton.label "Archiválási beállítások...">
+<!ENTITY archiveHierarchyButton.label "Archiválási beállítások…">
 <!ENTITY archiveHierarchyButton.accesskey "b">
 <!ENTITY archivesFolderOn.label "„Archív” mappa itt:">
 <!ENTITY archivesFolderOn.accesskey "v">

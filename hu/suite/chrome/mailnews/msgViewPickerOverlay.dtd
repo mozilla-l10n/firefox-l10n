@@ -16,7 +16,7 @@
 <!ENTITY viewTags.accesskey "C">
 <!ENTITY viewCustomViews.label "Egyéni nézetek">
 <!ENTITY viewCustomViews.accesskey "E">
-<!ENTITY viewVirtualFolder.label "Nézet mentése mappaként...">
+<!ENTITY viewVirtualFolder.label "Nézet mentése mappaként…">
 <!ENTITY viewVirtualFolder.accesskey "N">
-<!ENTITY viewCustomizeView.label "Testreszabás...">
+<!ENTITY viewCustomizeView.label "Testreszabás…">
 <!ENTITY viewCustomizeView.accesskey "T">

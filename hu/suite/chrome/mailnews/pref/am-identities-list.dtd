@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identitiesListDesc.label "Több azonosság támogatása">
-<!ENTITY identitiesListAdd.label  "Hozzáadás...">
+<!ENTITY identitiesListAdd.label  "Hozzáadás…">
 <!ENTITY identitiesListAdd.accesskey  "H">
-<!ENTITY identitiesListEdit.label "Szerkesztés...">
+<!ENTITY identitiesListEdit.label "Szerkesztés…">
 <!ENTITY identitiesListEdit.accesskey "z">
 <!ENTITY identitiesListDelete.label "Törlés">
 <!ENTITY identitiesListDelete.accesskey "T">

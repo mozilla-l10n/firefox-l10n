@@ -36,7 +36,7 @@
 <!ENTITY useCurrent.accesskey           "A">
 <!ENTITY useCurrentGroup.label          "Aktuális csoport használata">
 <!ENTITY useCurrentGroup.accesskey      "c">
-<!ENTITY browseFile.label               "Tallózás...">
+<!ENTITY browseFile.label               "Tallózás…">
 <!ENTITY browseFile.accesskey           "T">
 <!ENTITY useDefault.label               "Alaphelyzet">
 <!ENTITY useDefault.accesskey           "A">

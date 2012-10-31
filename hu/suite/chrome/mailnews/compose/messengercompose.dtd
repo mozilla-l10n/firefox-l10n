@@ -29,7 +29,7 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Fájlok…">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Weboldal...">
+<!ENTITY attachPageCmd.label "Weboldal…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Személyi kártya (vCard)">
@@ -45,7 +45,7 @@
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "j">
 <!ENTITY editRewrapCmd.accesskey  "r">
-<!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
+<!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->
 
@@ -64,7 +64,7 @@
 
 <!ENTITY quoteCmd.label "Üzenet idézése">
 <!ENTITY quoteCmd.accesskey "z">
-<!ENTITY selectAddressCmd.label "Címek kiválasztása...">
+<!ENTITY selectAddressCmd.label "Címek kiválasztása…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "C">
 
@@ -128,7 +128,7 @@
 <!ENTITY renameAttachment.accesskey "n">
 <!ENTITY deleteAttachment.accesskey "l">
 <!ENTITY selectAllAttachments.accesskey "e">
-<!ENTITY attachFile.label "Fájl(ok) csatolása...">
+<!ENTITY attachFile.label "Fájl(ok) csatolása…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "Weboldal csatolása...">
+<!ENTITY attachPage.label "Weboldal csatolása…">
 <!ENTITY attachPage.accesskey "W">

@@ -4,11 +4,11 @@
 
 <!ENTITY  managecerts.caption      "Tanúsítványkezelő">
 <!ENTITY  managecerts.text         "A tanúsítványkezelő segítségével mind a saját személyes, mind más emberek és hitelesítésszolgáltatók tanúsítványait kezelheti.">
-<!ENTITY  managecerts.button       "Tanúsítványok kezelése...">
+<!ENTITY  managecerts.button       "Tanúsítványok kezelése…">
 <!ENTITY  managecerts.accesskey    "T">
 <!ENTITY  managedevices.caption    "Adatvédelmi eszközök kezelése">
 <!ENTITY  managedevices.text       "Ezzel a gombbal kezelheti az adatvédelmi eszközeit, pl. az intelligens chipkártyákat.">
-<!ENTITY  managedevices.button     "Adatvédelmi eszközök kezelése...">
+<!ENTITY  managedevices.button     "Adatvédelmi eszközök kezelése…">
 <!ENTITY  managedevices.accesskey  "A">
 
 <!ENTITY  ssl.label                "SSL">

@@ -33,9 +33,9 @@
 <!ENTITY retentionApplyToFlagged.accesskey "C">
 <!ENTITY nntpRemoveMsgBody.label "Üzenettörzsek törlése, ha régebbiek, mint">
 <!ENTITY nntpRemoveMsgBody.accesskey "t">
-<!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához...">
+<!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához…">
 <!ENTITY offlineSelectNntp.accesskey "k">
-<!ENTITY offlineImapAdvancedOffline.label "Haladó...">
+<!ENTITY offlineImapAdvancedOffline.label "Haladó…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "H">
 <!ENTITY syncGroupTitle.label "Üzenetek szinkronizálása">
 <!ENTITY diskspaceGroupTitle.label "Lemezterület">
