@@ -17,7 +17,7 @@
 <!ENTITY openFrameCmd.accesskey       "a">
 <!ENTITY openFrameCmdInTab.label      "Keret megnyitása új lapon">
 <!ENTITY openFrameCmdInTab.accesskey  "l">
-<!ENTITY keywordfield.label           "Kulcsszó hozzáadása a kereséshez...">
+<!ENTITY keywordfield.label           "Kulcsszó hozzáadása a kereséshez…">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Csak az aktuális keret megjelenítése">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
@@ -55,25 +55,25 @@
 <!ENTITY viewVideoCmd.accesskey       "m">
 <!ENTITY viewBGImageCmd.label         "Háttérkép megjelenítése">
 <!ENTITY viewBGImageCmd.accesskey     "H">
-<!ENTITY setWallpaperCmd.label        "Beállítás háttérképként">
-<!ENTITY setWallpaperCmd.accesskey    "B">
+<!ENTITY setDesktopBackgroundCmd.label     "Beállítás háttérképként…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "e">
 <!ENTITY bookmarkPageCmd.label        "Oldal hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkPageCmd.accesskey    "O">
 <!ENTITY bookmarkLinkCmd.label        "Hivatkozás hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkLinkCmd.accesskey    "i">
 <!ENTITY bookmarkFrameCmd.label       "Keret hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkFrameCmd.accesskey   "e">
-<!ENTITY savePageAsCmd.label          "Oldal mentése...">
+<!ENTITY savePageAsCmd.label          "Oldal mentése…">
 <!ENTITY savePageCmd.label            "Oldal mentése">
 <!ENTITY savePageCmd.accesskey        "m">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameAsCmd.label         "Keret mentése más néven...">
+<!ENTITY saveFrameAsCmd.label         "Keret mentése más néven…">
 <!ENTITY saveFrameCmd.label           "Keret mentése">
 <!ENTITY saveFrameCmd.accesskey       "m">
-<!ENTITY saveLinkAsCmd.label          "Hivatkozás mentése más néven...">
+<!ENTITY saveLinkAsCmd.label          "Hivatkozás mentése más néven…">
 <!ENTITY saveLinkCmd.label            "Hivatkozás mentése">
 <!ENTITY saveLinkCmd.accesskey        "n">
-<!ENTITY saveImageAsCmd.label         "Kép mentése más néven...">
+<!ENTITY saveImageAsCmd.label         "Kép mentése más néven…">
 <!ENTITY saveImageCmd.label           "Kép mentése">
 <!ENTITY saveImageCmd.accesskey       "p">
 <!ENTITY saveVideoCmd.label           "Video mentése más néven…">
@@ -130,5 +130,5 @@
 <!ENTITY spellNoSuggestions.label       "(nincs javaslat)">
 <!ENTITY spellDictionaries.label        "Nyelvek">
 <!ENTITY spellDictionaries.accesskey    "N">
-<!ENTITY spellAddDictionaries.label     "További szótárak letöltése...">
+<!ENTITY spellAddDictionaries.label     "További szótárak letöltése…">
 <!ENTITY spellAddDictionaries.accesskey "T">

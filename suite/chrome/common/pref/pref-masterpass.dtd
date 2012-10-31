@@ -15,7 +15,7 @@
 
 <!ENTITY  changepassword.caption                 "Mesterjelszó megváltoztatása">
 <!ENTITY  changepassword.text                    "A mesterjelszó olyan érzékeny adatokat véd, mint a webes jelszavak és tanúsítványok.">
-<!ENTITY  changepassword.button                  "Jelszó megváltoztatása...">
+<!ENTITY  changepassword.button                  "Jelszó megváltoztatása…">
 <!ENTITY  changepassword.accesskey               "m">
 
 <!ENTITY  resetpassword.caption                  "Mesterjelszó törlése">

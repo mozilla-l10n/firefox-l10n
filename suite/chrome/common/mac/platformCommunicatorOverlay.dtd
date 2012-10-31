@@ -9,7 +9,7 @@
   they are different on your locale (should be very rare). -->
 
 
-<!ENTITY preferencesCmd.label           "Beállítások...">
+<!ENTITY preferencesCmd.label           "Beállítások…">
 <!ENTITY preferencesCmd.key             ",">
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Szolgáltatások">
@@ -28,7 +28,7 @@
 <!ENTITY closeCmd.label                 "Bezárás">  
 <!ENTITY closeCmd.key                   "W">  
 
-<!ENTITY printSetupCmd.label            "Oldalbeállítás...">
+<!ENTITY printSetupCmd.label            "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey        "O">
 
 <!ENTITY redoCmd.key                    "Z">  

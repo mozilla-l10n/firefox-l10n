@@ -24,7 +24,7 @@
 <!ENTITY  http.accesskey                "P">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPPort.accesskey            "o">
-<!ENTITY  advanced.label                "Haladó...">
+<!ENTITY  advanced.label                "Haladó…">
 <!ENTITY  advanced.accesskey            "a">
 <!ENTITY  noproxy.label                 "Nincs proxy a következőhöz:">
 <!ENTITY  noproxy.accesskey             "N">

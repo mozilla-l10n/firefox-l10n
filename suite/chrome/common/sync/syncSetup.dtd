@@ -19,7 +19,7 @@
 <!ENTITY server.label               "Kiszolgáló">
 <!ENTITY server.accesskey           "K">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-kiszolgáló">
-<!ENTITY serverType.custom2.label   "Egyéni kiszolgáló használata...">
+<!ENTITY serverType.custom2.label   "Egyéni kiszolgáló használata…">
 <!ENTITY signIn.account2.label      "Fiók">
 <!ENTITY signIn.account2.accesskey  "F">
 <!ENTITY signIn.password.label      "Jelszó">
@@ -51,9 +51,9 @@
 <!ENTITY recoveryGenerateNewKey.label  "Új kulcs létrehozása">
 <!ENTITY recoveryKeyBackup.description "A helyreállítókulcs kelleni fog, ha más gépekről akarja elérni a &syncBrand.fullName.label; szolgáltatást. Készítsen biztonsági másolatot. Nem tudunk segíteni, ha elveszti a helyreállítókulcsát,">
 
-<!ENTITY button.syncKeyBackup.print.label     "Nyomtatás...">
+<!ENTITY button.syncKeyBackup.print.label     "Nyomtatás…">
 <!ENTITY button.syncKeyBackup.print.accesskey "N">
-<!ENTITY button.syncKeyBackup.save.label      "Mentés...">
+<!ENTITY button.syncKeyBackup.save.label      "Mentés…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "M">
 <!-- New Account Page 3: Captcha -->
 
@@ -75,7 +75,7 @@
 
 <!ENTITY setup.signInPage.title.label "Bejelentkezés">
 <!ENTITY existingRecoveryKey.description "A helyreállítókulcs másolata megtalálható a másik eszközön a &syncBrand.shortName.label; Beállítások menüt választva, a „Fiók kezelése” alatt a „Saját helyreállítókulcs” lehetőséget választva.">
-<!ENTITY verifying.label              "Ellenőrzés...">
+<!ENTITY verifying.label              "Ellenőrzés…">
 <!ENTITY resetPassword.label          "Jelszó törlése">
 <!ENTITY resetSyncKey.label           "Elvesztettem a másik eszközt.">
 <!-- Sync Options -->

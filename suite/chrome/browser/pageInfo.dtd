@@ -72,7 +72,7 @@
 <!ENTITY  mediaTitle            "Cím:">
 <!ENTITY  mediaLongdesc         "Hosszú leírás:">
 <!ENTITY  mediaBlockImage.accesskey "b">
-<!ENTITY  mediaSaveAs           "Mentés másként...">
+<!ENTITY  mediaSaveAs           "Mentés másként…">
 <!ENTITY  mediaSaveAs.accesskey "M">
 <!ENTITY  mediaSaveAs2.accesskey "m">
 <!ENTITY  mediaPreview          "Média-előnézet:">

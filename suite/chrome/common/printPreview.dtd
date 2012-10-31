@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Nyomtatás...">
+<!ENTITY print.label          "Nyomtatás…">
 <!ENTITY print.accesskey      "N">
-<!ENTITY pageSetup.label      "Oldalbeállítás...">
+<!ENTITY pageSetup.label      "Oldalbeállítás…">
 <!ENTITY pageSetup.accesskey  "O">
 <!ENTITY page.label           "Oldal:">
 <!ENTITY page.accesskey       "O">
@@ -29,9 +29,9 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Egyedi...">
+<!ENTITY Custom.label         "Egyedi…">
 <!ENTITY ShrinkToFit.label    "Helykitöltés">
-<!ENTITY customPrompt.title   "Egyedi méret...">
+<!ENTITY customPrompt.title   "Egyedi méret…">
 
 <!ENTITY homearrow.tooltip    "Első oldal">
 <!ENTITY endarrow.tooltip     "Utolsó oldal">

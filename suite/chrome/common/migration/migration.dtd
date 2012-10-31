@@ -21,8 +21,8 @@
 <!ENTITY selectProfile.title             "Profil kiválasztása">
 <!ENTITY selectProfile.label             "A következő profilokból lehet importálni:">
 
-<!ENTITY migrating.title                 "Importálás...">
-<!ENTITY migrating.label                 "A következő elemek importálása folyik...">
+<!ENTITY migrating.title                 "Importálás…">
+<!ENTITY migrating.label                 "A következő elemek importálása folyik…">
 
 <!ENTITY done.title                      "Importálás befejeződött">
 <!ENTITY done.label                      "A következő elemek sikeresen importálva lettek:">

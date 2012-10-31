@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Tértivevények">
 <!ENTITY useGlobalPrefs.label         "A globális tértivevény-beállítások használata erre a postafiókra">
 <!ENTITY useGlobalPrefs.accesskey     "A">
+<!ENTITY globalReceipts.label         "Globális beállítások...">
+<!ENTITY globalReceipts.accesskey     "T">
 <!ENTITY useCustomPrefs.label         "Tértivevényekkel kapcsolatos beállítások ehhez a postafiókhoz">
 <!ENTITY useCustomPrefs.accesskey     "T">
 <!ENTITY requestReceipt.label         "Tértivevény kérése minden elküldött üzenethez">
@@ -13,7 +15,7 @@
 <!ENTITY leaveIt.label                "Megtartás a Beérkezett üzenetek mappában">
 <!ENTITY leaveIt.accesskey            "B">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Áthelyezés az &quot;Elküldött elemek&quot; mappába">
+<!ENTITY moveToSent.label             "Áthelyezés az „Elküldött elemek” mappába">
 <!ENTITY moveToSent.accesskey         "E">
 <!ENTITY requestMDN.label             "Tértivevény küldésére vonatkozó kérés érkezésekor:">
 <!ENTITY returnSome.label             "Tértivevény küldése bizonyos üzeneteknél">

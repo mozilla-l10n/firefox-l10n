@@ -23,7 +23,7 @@
 <!ENTITY inReplyToField.label "Válaszazonosító:">
 <!ENTITY originalWebsite.label "Webhely: ">
 
-<!ENTITY editMessage.label                 "Piszkozat szerkesztése...">
+<!ENTITY editMessage.label                 "Piszkozat szerkesztése…">
 <!ENTITY editMessage.accesskey             "P">
 
 <!ENTITY attachmentsTree.label             "Mellékletek:">
@@ -32,15 +32,15 @@
 <!ENTITY openAttachmentCmd.accesskey       "M">
 <!ENTITY viewAttachmentCmd.label           "Forrás megtekintése">
 <!ENTITY viewAttachmentCmd.accesskey       "F">
-<!ENTITY saveAsAttachmentCmd.label         "Mentés másként...">
+<!ENTITY saveAsAttachmentCmd.label         "Mentés másként…">
 <!ENTITY saveAsAttachmentCmd.accesskey     "e">
-<!ENTITY detachAttachmentCmd.label         "Leválasztás...">
+<!ENTITY detachAttachmentCmd.label         "Leválasztás…">
 <!ENTITY detachAttachmentCmd.accesskey     "L">
 <!ENTITY deleteAttachmentCmd.label         "Törlés">
 <!ENTITY deleteAttachmentCmd.accesskey     "T">
-<!ENTITY saveAllAttachmentsCmd.label       "Összes mentése...">
+<!ENTITY saveAllAttachmentsCmd.label       "Összes mentése…">
 <!ENTITY saveAllAttachmentsCmd.accesskey   "e">
-<!ENTITY detachAllAttachmentsCmd.label     "Összes leválasztása...">
+<!ENTITY detachAllAttachmentsCmd.label     "Összes leválasztása…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "l">
-<!ENTITY deleteAllAttachmentsCmd.label     "Összes törlése...">
+<!ENTITY deleteAllAttachmentsCmd.label     "Összes törlése…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "t">

@@ -20,7 +20,7 @@
 <!ENTITY customSound.label              "Egyedi hangfájl">
 <!ENTITY customSound.accesskey          "E">
 
-<!ENTITY selectSound.label              "Kiválasztás...">
+<!ENTITY selectSound.label              "Kiválasztás…">
 <!ENTITY selectSound.accesskey          "K">
 <!ENTITY playSoundButton.label          "Lejátszás">
 <!ENTITY playSoundButton.accesskey      "L">

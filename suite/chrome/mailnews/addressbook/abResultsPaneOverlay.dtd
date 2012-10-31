@@ -42,9 +42,9 @@
 <!ENTITY copyAddress.accesskey                 "E">
 <!ENTITY deleteAddrBookCard.label              "Törlés">
 <!ENTITY deleteAddrBookCard.accesskey          "T">
-<!ENTITY newAddrBookCard.label                 "Új névjegy...">
+<!ENTITY newAddrBookCard.label                 "Új névjegy…">
 <!ENTITY newAddrBookCard.accesskey             "n">
-<!ENTITY newAddrBookMailingList.label          "Új címlista...">
+<!ENTITY newAddrBookMailingList.label          "Új címlista…">
 <!ENTITY newAddrBookMailingList.accesskey      "c">
 <!ENTITY addrBookCardProperties.label          "Tulajdonságok">
 <!ENTITY addrBookCardProperties.accesskey      "T">
