@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Tértivevények">
 <!ENTITY useGlobalPrefs.label         "A globális tértivevény-beállítások használata erre a postafiókra">
 <!ENTITY useGlobalPrefs.accesskey     "A">
+<!ENTITY globalReceipts.label         "Globális beállítások...">
+<!ENTITY globalReceipts.accesskey     "T">
 <!ENTITY useCustomPrefs.label         "Tértivevényekkel kapcsolatos beállítások ehhez a postafiókhoz">
 <!ENTITY useCustomPrefs.accesskey     "T">
 <!ENTITY requestReceipt.label         "Tértivevény kérése minden elküldött üzenethez">
@@ -17,7 +19,7 @@
 <!ENTITY moveToSent.accesskey         "E">
 <!ENTITY requestMDN.label             "Tértivevény küldésére vonatkozó kérés érkezésekor:">
 <!ENTITY returnSome.label             "Tértivevény küldése bizonyos üzeneteknél">
-<!ENTITY returnSome.accesskey         "K">
+<!ENTITY returnSome.accesskey         "k">
 <!ENTITY never.label                  "Sose küldjön tértivevényt">
 <!ENTITY never.accesskey              "S">
 <!ENTITY notInToCc.label              "Ha nem vagyok a címzettek vagy a másolatot kapók között:">

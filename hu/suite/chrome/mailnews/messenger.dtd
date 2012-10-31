@@ -543,4 +543,4 @@
 <!ENTITY mdnBarIgnoreButton.label "Nincs értesítés">
 <!ENTITY mdnBarIgnoreButton.accesskey "s">
 <!ENTITY mdnBarSendButton.label "Értesítés küldése">
-<!ENTITY mdnBarSendButton.accesskey "K">
+<!ENTITY mdnBarSendButton.accesskey "k">
