@@ -15,15 +15,15 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.label                 "Cuntinuar">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Interrumper">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.cancel.accesskey             "r">
 <!ENTITY cmd.undo.label                   "Revocar">
-<!ENTITY cmd.undo.accesskey               "U">
+<!ENTITY cmd.undo.accesskey               "v">
 <!ENTITY cmd.recover.label                "Restaurar">
-<!ENTITY cmd.recover.accesskey            "v">
+<!ENTITY cmd.recover.accesskey            "t">
 <!ENTITY cmd.retry.label                  "Repeter">
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.removeFromList.label         "Allontanar da la glista">
-<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.removeFromList.accesskey     "g">
 
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">

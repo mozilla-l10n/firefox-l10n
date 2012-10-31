@@ -32,11 +32,11 @@
 <!ENTITY authMethod.label "Metoda d'autentificaziun:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Laschar ils messadis sin il server">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "l">
 <!ENTITY headersOnly.label "Telechargiar be ils chaus-pagina">
 <!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Stizzar ils messadis sin il sever suenter">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY deleteByAgeFromServer.accesskey "i">
 <!ENTITY daysEnd.label "dis">
 <!ENTITY deleteOnServer2.label "Stizzar ils messadis sin il server, sch'els vegnan stizzads en la posta entrada">
 <!ENTITY deleteOnServer2.accesskey "d">
@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "messadis">
 <!ENTITY alwaysAuthenticate.label "Adina pretender in'autentificaziun cun connectar a quest server">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY alwaysAuthenticate.accesskey "f">
 <!ENTITY newsrcFilePath.label "datoteca newsrc:">
 <!ENTITY newsrcPicker.label "Tscherner la datoteca newsrc">
 <!ENTITY abbreviate.label "Mussar las gruppas da discussiun en la glista dad ordinaturs cun:">

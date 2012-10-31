@@ -32,7 +32,7 @@
 <!ENTITY retentionApplyToFlagged.label "Adina preservar messadis segnads">
 <!ENTITY retentionApplyToFlagged.accesskey "A">
 <!ENTITY nntpRemoveMsgBody.label "Stizzar cuntegns da messadis ch'èn pli vegls che">
-<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY nntpRemoveMsgBody.accesskey "z">
 <!ENTITY offlineSelectNntp.label "Tscherner gruppas da discussiun per leger offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Extendì…">

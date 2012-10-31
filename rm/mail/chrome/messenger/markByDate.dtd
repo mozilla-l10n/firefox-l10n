@@ -4,6 +4,6 @@
 
 <!ENTITY messageMarkByDate.label "Marcar ils messadis sco legids tenor data">
 <!ENTITY markByDateLower.label "Marcar ils messadis sco legids da:">
-<!ENTITY markByDateLower.accesskey "f">
+<!ENTITY markByDateLower.accesskey "M">
 <!ENTITY markByDateUpper.label "a:">
-<!ENTITY markByDateUpper.accesskey "T">
+<!ENTITY markByDateUpper.accesskey "a">

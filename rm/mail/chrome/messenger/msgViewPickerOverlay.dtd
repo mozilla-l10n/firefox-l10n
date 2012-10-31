@@ -7,7 +7,7 @@
 <!ENTITY viewPicker.label "Vista:">
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "Tuts">
-<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewAll.accesskey "T">
 <!ENTITY viewUnread.label "Nunlegì">
 <!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewNotDeleted.label "Betg stizzads">
@@ -18,5 +18,5 @@
 <!ENTITY viewCustomViews.accesskey "V">
 <!ENTITY viewVirtualFolder.label "Memorisar la vista sco ordinatur…">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Modifitgar...">
-<!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewCustomizeView.label "Modifitgar…">
+<!ENTITY viewCustomizeView.accesskey "M">

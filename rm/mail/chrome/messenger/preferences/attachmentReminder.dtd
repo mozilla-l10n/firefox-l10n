@@ -7,6 +7,6 @@
 <!ENTITY addKeywordButton.label           "Agiuntar">
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "Modifitgar">
-<!ENTITY editKeywordButton.accesskey      "E">
+<!ENTITY editKeywordButton.accesskey      "M">
 <!ENTITY removeKeywordButton.label        "Stizzar">
-<!ENTITY removeKeywordButton.accesskey    "D">
+<!ENTITY removeKeywordButton.accesskey    "z">

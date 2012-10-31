@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editContactPanelDeleteContact.label "Stizzar">
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
+<!ENTITY editContactPanelDeleteContact.accesskey "z">
 
 <!ENTITY editContactName.label "Num:">
 <!ENTITY editContactName.accesskey "N">
@@ -15,9 +15,9 @@
 <!ENTITY editContactAddressBook.accesskey "a">
 
 <!ENTITY editContactPanelCancel.label "Interrumper">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactPanelCancel.accesskey "r">
 
 <!ENTITY editContactPanelDone.label "Terminar">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.accesskey "T">
 
 <!ENTITY contactMoveDisabledWarning.description "Ti na pos betg modifitgar il cudeschet d'adressas perquai ch'il contact figurescha en ina glista d'e-mail.">

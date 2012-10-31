@@ -12,9 +12,9 @@
 <!ENTITY plainTextAndHtml.label "Trametter en text brut e HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Mo trametter en text brut">
-<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY plainTextOnly.accesskey "b">
 <!ENTITY htmlOnly.label "Mo trametter en HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Trametter">
-<!ENTITY send.accesskey "S">
+<!ENTITY send.accesskey "T">

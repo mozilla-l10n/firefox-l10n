@@ -102,11 +102,11 @@
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Prenum num">
-<!ENTITY firstLastCmd2.accesskey                        "F"> 
+<!ENTITY firstLastCmd2.accesskey                        "P"> 
 <!ENTITY lastFirstCmd.label                             "Num, prenum">
-<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Num per mussar">
-<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY displayNameCmd.accesskey                       "m">
 <!ENTITY sortMenu.label                                 "Zavrar tenor">
 <!ENTITY sortMenu.accesskey                             "Z">
 

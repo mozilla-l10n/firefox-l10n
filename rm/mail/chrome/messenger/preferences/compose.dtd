@@ -21,7 +21,7 @@
 <!ENTITY fontColor.label                      "Colur dal text:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Colur dal fund:">
-<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar la successiun da standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
