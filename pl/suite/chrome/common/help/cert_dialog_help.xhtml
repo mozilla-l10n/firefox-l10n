@@ -189,100 +189,97 @@
   </ul>
 </div>
 
-<h3 id="web_site_certified_by_an_unknown_authority">Witryna WWW&nbsp;certyfikowana przez nieznany organ certyfikacji</h3>
+<!-- TODO: start localizing -->
+<h3 id="secure_connection_failed_page">Secure Connection Failed Page</h3>
 
-<p>Wiele witryn WWW&nbsp;używa certyfikatów do własnej identyfikacji w&nbsp;sieci. Jeżeli Menedżer certyfikatów nie rozpozna <a href="glossary.html#certificate_authority">organu certyfikacji (CA)</a>, który wystawił certyfikat witryny, wyświetli ostrzeżenie umożliwiające analizę certyfikatu i&nbsp;podjęcie decyzji o&nbsp;dalszych czynnościach.</p>
+<p>In the case where you have disabled the SSL protocol (e.g. through
+  <a href="ssl_help.xhtml#ssl_settings">SSL Settings</a>) or the site that you
+  are accessing is using an older, insecure version of the SSL protocol then you
+  will be presented with a page titled &quot;Secure Connection Failed&quot;.
+  That page contains some basic background information (including the
+  <strong>Error code</strong> that uniquely identifies the type of problem
+  &brandShortName; detected with the site) and a <strong>Try Again</strong>
+  button that triggers a page reload.</p>
 
-<ul>
-	<li><strong>Sprawdź certyfikat</strong>: Naciśnięcie tego przycisku powoduje wyświetlenie okna z&nbsp;podglądem certyfikatu witryny.</li>
-</ul>
+<h3 id="untrusted_connection_page">Untrusted Connection Page</h3>
 
-<p>W&nbsp;oknie ostrzeżenia można wybrać jedną z&nbsp;następujących opcji:</p>
-
-<ul>
-	<li><strong>Zaakceptuj ten certyfikat na stałe</strong>: Zaznaczenie tej opcji powoduje akceptację certyfikatu witryny pomimo widocznego na ekranie problemu i&nbsp;połączenie z&nbsp;witryną. Menedżer certyfikatów będzie rozpoznawał certyfikat jako wiarygodny do czasu jego wygaśnięcia.</li>
-	<li><strong>Zaakceptuj ten certyfikat tymczasowo, na okres trwania bieżącej sesji</strong>: Zaznaczenie tej opcji powoduje jednorazowe zaakceptowanie certyfikatu i&nbsp;połączenie z&nbsp;witryną. Menedżer certyfikatów będzie rozpoznawał certyfikat jako wiarygodny tylko do następnego uruchomienia przeglądarki. Użytkownik może zobaczyć powtórnie ostrzeżenie przy następnej próbie połączenia się z&nbsp;witryną.</li>
-	<li><strong>Zalecane jest odmówienie akceptacji tego certyfikatu oraz przerwanie połączenia z&nbsp;tą witryną</strong>: Zaznaczenie tej opcji powoduje przerwanie połączenia z&nbsp;witryną. Takie postępowanie jest zalecane przykładowo przy wykonywaniu przy pomocy witryny operacji finansowych. W&nbsp;takim przypadku przed podjęciem dalszych operacji, użytkownik powinien skontaktować się z&nbsp;administratorem organizacji, która zarządza witryną i&nbsp;upewnić się, że certyfikat witryny jest ważny.</li>
-</ul>
-
-<p>Naciśnięcie przycisku OK potwierdza dokonany wybór. Naciśnięcie przycisku Anuluj powoduje uznanie certyfikatu za niewiarygodny i&nbsp;anulowanie połączenia z&nbsp;witryną.</p>
-
-<p><strong>Ważna uwaga dla administratorów serwerów</strong>: To ostrzeżenie może zostać wywołane przez niepoprawnie skonfigurowany serwer WWW. Aby sprawdzić, czy tak jest w&nbsp;danym przypadku, administrator lub opiekun witryny WWW&nbsp;powinien sprawdzić stan żądanego pośredniego organu certyfikacji i&nbsp;&mdash; w&nbsp;razie potrzeby &mdash; zainstalować brakujący certyfikat.</p>
-
-<p>Jeżeli użytkownik w&nbsp;związku z&nbsp;tym ostrzeżeniem zdecyduje się na kontakt z&nbsp;administratorem lub opiekunem witryny WWW, powinien w&nbsp;swojej informacji zawrzeć następujące informacje:</p>
+<p>If SSL itself is enabled then the error page that you will be presented with
+  will be titled &quot;This Connection is Untrusted&quot;. There are many
+  different reasons why a connection can appear untrusted. Here are some of the
+  most common ones:</p>
 
 <ul>
-  <li>Administrator serwera może pobrać więcej informacji o&nbsp;pośrednich organach certyfikacji z&nbsp;następującej lokalizacji: "<a href="http://knowledge.verisign.com/search/solution.jsp?id=vs2119">What is the purpose of the Intermediate CA certificate?</a> (witryna w języku angielskim).</li>
-  <li>Jeżeli serwer używa certyfikatu wystawionego przez organizację VeriSign, administrator może pobrać odpowiedni certyfikat z&nbsp;następującej lokalizacji: <a href="http://www.verisign.com/support/ssl-certificates-support/install-ssl-certificate.html">SSL Certificates Support</a> (witryna w języku angielskim).</li>
+  <li>the certificate of the website is <a href="#certificate_expired">no longer
+    valid (expired)</a></li>
+  <li>the certificate of the website is
+    <a href="#certificate_not_yet_valid">not yet valid</a></li>
+  <li>the certificate of the website is only valid for another site
+    (<a href="#domain_name_mismatch">domain name mismatch</a>)</li>
+  <li>the certificate of the website is self-signed (thus the identity of the
+    website cannot be verified).</li>
+  <li>the issuer certificate is not trusted (&brandShortName; cannot
+    verify the identity of the website because it doesn&apos;t
+    recognize the <a href="glossary.xhtml#certificate_authority">certificate
+    authority (CA)</a> that issued the website&apos;s certificate)</li>
 </ul>
 
-<p><strong>Użytkownicy zaawansowani</strong>: By mieć pewność, że Menedżer certyfikatów traktuje wszystkie certyfikaty wystawione przez organ certyfikacji jako zaufane, można poddać edycji ustawienia poziomu zaufania dla danego certyfikatu organu certyfikacji. Aby to uczynić, należy wykonać poniższe czynności:</p>
+<p>The page displayed in the above cases is meant to help you understand why
+  &brandShortName; was unable to establish a secure connection to the website.
+  It starts by telling you that the site&apos;s identity could not be verified,
+  then offers you to leave the page by clicking the <strong>This sounds bad,
+  take me to my home page instead</strong> button. If you are unsure what to do
+  it is recommended that you follow this advice.</p>
 
-<ol>
-   <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
-	 <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać Certyfikaty. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
-   <li>Nacisnąć przycisk Menedżer certyfikatów.</li>
-   <li>Wybrać kartę Organy certyfikacji.</li>
-   <li>Zaznaczyć certyfikat tego organu, dla którego poziom zaufania ma zostać poddany edycji.</li>
-   <li>Nacisnąć przycisk Edytuj i&nbsp;zaznaczyć właściwe ustawienia zaufania.</li>
-</ol>
+<p>If you want to know a little bit more about the actual problem at hand you
+  may expand the corresponding section by clicking the chevron in front of
+  <strong>Technical Details</strong>. That section also contains the
+  <strong>Error code</strong> that uniquely identifies the type of problem
+  &brandShortName; detected with the site.</p>
 
-<h3 id="server_certificate_expired">Wygasły certyfikat serwera</h3>
+<h4 id="add_security_exception">Adding a Security Exception</h4>
+
+<p>The <strong>I Understand the Risks</strong> section of the Untrusted
+  Connection page allows you to tell &brandShortName; to explicitly override the
+  security checks for this site by adding an exception. If you expand the
+  section by clicking the chevron in front of it you will see an <strong>Add
+  Exception</strong> button that will take you to a dialog allowing you to get
+  and view the website&apos;s certificate and optionally add a Security
+  Exception for it (either permanently or just for the current session). Those
+  exceptions can be administered through the Certificate Manager&apos;s
+  <a href="certs_help.xhtml#servers">Servers</a> tab.</p>
+
+<h3 id="secure_connection_failed_dialog">Secure Connection Failed Dialog</h3>
+
+<p>In cases where &brandShortName; cannot determine the actual cause of the
+  problem a dialog titled &quot;Secure Connection Failed&quot; is shown in
+  addition to the <a href="#untrusted_connection_page">Untrusted Connection
+  page</a>. That dialog includes a <strong>View Certificate</strong> button
+  that allows you to examine the website&apos;s certificate more closely.</p>
+<!-- TODO: stop localizing -->
+
+<h3 id="certificate_expired">Wygasły certyfikat</h3>
 
 <p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.html#certificate">certyfikat</a> jest ważny przez określony okres czasu. Po wygaśnięciu certyfikatu użytkownik musi sobie wyrobić nowy.</p>
 
-<p>Menedżer certyfikatów ostrzega użytkownika przed próbą dostępu do witryny WWW, której certyfikat wygasł. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na datę późniejszą niż data wygaśnięcia certyfikatu, Menedżer certyfikatów będzie traktować certyfikat jako wygasły.</p>
+<p>Program &brandShortName; <a href="#untrusted_connection_page">ostrzega</a> użytkownika przed próbą dostępu do witryny WWW, której certyfikat wygasł. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na datę późniejszą niż data wygaśnięcia certyfikatu, program &brandShortName; będzie traktować certyfikat jako wygasły.</p>
 
-<p>Jeżeli zegar komputera jest ustawiony poprawnie, do użytkownika należy decyzja o&nbsp;zaufaniu okazanym danej witrynie. Taka decyzja może zależeć od tego, jakie czynności chce się wykonywać na witrynie, czy też, czy witryna jest użytkownikowi znana i&nbsp;zaufana. Większość stron komercyjnych uaktualnia swoje certyfikaty przed ich wygaśnięciem.</p>
+<p>Jeżeli zegar komputera jest ustawiony poprawnie, do użytkownika należy decyzja o&nbsp;zaufaniu okazanym danej witrynie. Taka decyzja może zależeć od tego, jakie czynności chce się wykonywać na witrynie, czy też, czy witryna jest użytkownikowi znana i&nbsp;zaufana. Większość stron komercyjnych uaktualnia swoje certyfikaty przed ich wygaśnięciem. <!-- TODO: start localizing -->If you choose to continue you need to <a href="#add_security_exception">add a security exception</a>.<!-- TODO: stop localizing --></p>
 
-<p>Z&nbsp;okna dialogowego informującego o&nbsp;wygaśnięciu certyfikatu można wykonać następujące czynności:</p>
-
-<ul>
-  <li><strong>Pokaż certyfikat</strong>: Naciśnięcie tego przycisku wywoła okno z&nbsp;podglądem certyfikatu, gdzie istnieje możliwość sprawdzenia jego daty ważności.</li>
-  <li><strong>OK</strong>: Jeżeli użytkownik posiada powody do uznania, że wygaśnięcie certyfikatu jest nieumyślnym błędem, może nacisnąć przycisk OK i&nbsp;zaakceptować mimo ostrzeżenia certyfikat na czas trwania bieżącej sesji. Jednakże powinien poinformować osobę odpowiedzialną za działanie witryny o&nbsp;napotkanym problemie.
-
-	  <p>Należy w&nbsp;takim przypadku być szczególnie ostrożnym w&nbsp;wykonywaniu wszelkich czynności na tej witrynie.</p>
-	</li>
-  <li><strong>Anuluj</strong>: Jeżeli użytkownik podejrzewa, że źródłem ostrzeżenia może być istotny problem po stronie witryny i&nbsp;nie chce ryzykować odwiedzin na tej stronie, powinien nacisnąć przycisk Anuluj (co spowoduje, niepołączenie się z&nbsp;witryną).</li>
-</ul>
-
-<h3 id="server_certificate_not_yet_valid">Jeszcze nieważny certyfikat serwera</h3>
+<h3 id="certificate_not_yet_valid">Jeszcze nieważny certyfikat</h3>
 
 <p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.html#certificate">certyfikat</a> jest ważny przez określony okres czasu.</p>
 
-<p>Menedżer certyfikatów ostrzega użytkownika przed próbą dostępu do witryny WWW, której certyfikat jest jeszcze nieważny. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na niewłaściwą datę, Menedżer certyfikatów może traktować certyfikat jako jeszcze nieważny, nawet jeśli tak nie jest w&nbsp;danym konkretnym przypadku.</p>
+<p>Program &brandShortName; <a href="#untrusted_connection_page">ostrzega</a> użytkownika przed próbą dostępu do witryny WWW, której certyfikat jest jeszcze nieważny. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na niewłaściwą datę, program &brandShortName; może traktować certyfikat jako jeszcze nieważny, nawet jeśli tak nie jest w&nbsp;danym konkretnym przypadku.</p>
 
-<p>Jeżeli zegar komputera jest ustawiony poprawnie, do użytkownika należy decyzja o&nbsp;zaufaniu okazanym danej witrynie. Taka decyzja może zależeć od tego, jakie czynności chce się wykonywać na witrynie, czy też, czy witryna jest użytkownikowi znana i&nbsp;zaufana. Większość stron komercyjnych nie udostępnia swoich certyfikatów z&nbsp;datą początku ważności wybiegającą w&nbsp;przyszłość.</p>
-
-<p>Z&nbsp;okna dialogowego informującego o&nbsp;tym, że certyfikat nie jest jeszcze ważny można wykonać następujące czynności:</p>
-
-<ul>
-  <li><strong>Pokaż certyfikat</strong>: Naciśnięcie tego przycisku wywoła okno dialogowe z&nbsp;podglądem certyfikatu, w&nbsp;którym istnieje możliwość sprawdzenia jego okresu ważności.</li>
-  <li><strong>OK</strong>: Jeżeli użytkownik posiada powody do uznania, że ostrzeżenie jest nieumyślnym błędem, może nacisnąć przycisk OK i&nbsp;zaakceptować mimo ostrzeżenia certyfikat na czas trwania bieżącej sesji. Jednakże powinien poinformować osobę odpowiedzialną za działanie witryny o&nbsp;napotkanym problemie.
-	
-    <p>Należy w&nbsp;takim przypadku być szczególnie ostrożnym w&nbsp;wykonywaniu wszelkich czynności na tej witrynie.</p>
-	</li>
-  <li><strong>Anuluj</strong>: Jeżeli użytkownik podejrzewa, że źródłem ostrzeżenia może być istotny problem po stronie witryny i&nbsp;nie chce ryzykować odwiedzin na tej stronie, powinien nacisnąć przycisk Anuluj (co spowoduje niepołączenie się z&nbsp;witryną).</li>
-</ul>
+<p>Jeżeli zegar komputera jest ustawiony poprawnie, do użytkownika należy decyzja o&nbsp;zaufaniu okazanym danej witrynie. Taka decyzja może zależeć od tego, jakie czynności chce się wykonywać na witrynie, czy też, czy witryna jest użytkownikowi znana i&nbsp;zaufana. Większość stron komercyjnych nie udostępnia swoich certyfikatów z&nbsp;datą początku ważności wybiegającą w&nbsp;przyszłość. <!-- TODO: start localizing -->If you choose to continue you need to <a href="#add_security_exception">add a security exception</a>.<!-- TODO: stop localizing --></p>
 
 <h3 id="domain_name_mismatch">Niezgodność nazw domen</h3>
 
 <p><a href="glossary.html#certificate">Certyfikat</a> serwera zawiera nazwę serwera w&nbsp;postaci nazwy domeny witryny. Przykładowo, nazwą domeny witryny WWW&nbsp;organizacji Mozilla jest <tt>www.mozilla.org</tt>. Jeżeli nazwa domeny w&nbsp;certyfikacie serwera nie jest zgodna z&nbsp;aktualną nazwą domeny witryny WWW, może to oznaczać, że ktoś próbuje przechwycić komunikację użytkownika z&nbsp;witryną WWW.</p>
 
-<p>Decyzja, czy mimo ostrzeżenia można traktować witrynę jako zaufaną należy do użytkownika i&nbsp;może zależeć od tego, jakie czynności chce on wykonywać na niej i&nbsp;czy jest ona znana użytkownikowi. Certyfikaty większości stron komercyjnych posiadają taką samą nazwę domeny w&nbsp;certyfikacie, jaka widnieje w&nbsp;pasku adresu przeglądarki.</p>
+<!-- TODO: start localizing --><p>&brandShortName; <a href="#untrusted_connection_page">warns</a> you when you attempt to visit a website whose server certificate&apos;s domain does not match the domain of the website you are trying to visit.<!-- TODO: stop localizing --> Decyzja, czy mimo ostrzeżenia można traktować witrynę jako zaufaną należy do użytkownika i&nbsp;może zależeć od tego, jakie czynności chce on wykonywać na niej i&nbsp;czy jest ona znana użytkownikowi. Certyfikaty większości stron komercyjnych posiadają taką samą nazwę domeny w&nbsp;certyfikacie, jaka widnieje w&nbsp;pasku adresu przeglądarki. <!-- TODO: start localizing -->If you choose to continue you need to <a href="#add_security_exception">add a security exception</a>.<!-- TODO: stop localizing --></p></p>
 
-<p>Z&nbsp;okna dialogowego informującego o&nbsp;błędzie niezgodności nazw domen można wykonać następujące czynności:</p>
-
-<ul>
-  <li><strong>Pokaż certyfikat</strong>: Naciśnięcie tego przycisku wywoła okno z&nbsp;podglądem zawartości certyfikatu.</li>
-  <li><strong>OK</strong>: Jeżeli użytkownik posiada powody do wiary, że ostrzeżenie jest nieumyślnym błędem, może nacisnąć przycisk OK i&nbsp;zaakceptować mimo ostrzeżenia certyfikat na czas trwania bieżącej sesji. Jednakże powinien poinformować osobę odpowiedzialną za działanie witryny o&nbsp;napotkanym problemie.
-
-    <p>Należy w&nbsp;takim przypadku być szczególnie ostrożnym w&nbsp;wykonywaniu wszelkich czynności na tej witrynie i&nbsp;traktować wszelkie informacje na stronie jako potencjalnie niebezpieczne z&nbsp;punktu widzenia bezpieczeństwa systemu.</p>
-	</li>
-  <li><strong>Anuluj</strong>: Jeżeli użytkownik podejrzewa, że źródłem ostrzeżenia może być istotny problem po stronie witryny i&nbsp;nie chce ryzykować odwiedzin na tej stronie, powinien nacisnąć przycisk Anuluj (co spowoduje niepołączenie się z&nbsp;witryną).</li>
-</ul>
-
-<p>Jeżeli użytkownik zdecyduje mimo wszystko zaakceptować certyfikat na czas bieżącej sesji, powinien być ostrożny w&nbsp;wykonywaniu czynności w&nbsp;witrynie i&nbsp;powinien traktować wszelkie informacje na niej jako potencjalnie podejrzane.</p>
+<p>Jeżeli użytkownik zdecyduje mimo wszystko zaakceptować certyfikat (obojętne, czy na czas bieżącej sesji, czy na zawsze), powinien być ostrożny w&nbsp;wykonywaniu czynności w&nbsp;witrynie i&nbsp;powinien traktować wszelkie informacje na niej jako potencjalnie podejrzane.</p>
 
 </body>
 </html>

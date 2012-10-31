@@ -134,7 +134,7 @@
   </li>
   <li><strong>Porównaj dokument zachowany w&nbsp;pamięci podręcznej z&nbsp;oryginałem w&nbsp;sieci</strong>:
     <ul>
-      <li><strong>Podczas każdego połączenia</strong>: Zaznaczenie tej opcji powoduje porównywanie przez przeglądarkę zawartości strony oryginalnej ze stroną zachowaną w&nbsp;pamięci podręcznej przy każdym załadowaniu strony z&nbsp;Internetu.</li>
+      <li><strong>Podczas każdego połączenia</strong>: Zaznaczenie tej opcji powoduje porównywanie przez przeglądarkę zawartości strony oryginalnej ze stroną zachowaną w&nbsp;pamięci podręcznej przy każdym wczytaniu strony z&nbsp;Internetu.</li>
       <li><strong>Gdy strona jest nieaktualna</strong>: Zaznaczenie tej opcji powoduje porównanie przez przeglądarkę zawartości strony oryginalnej ze stroną zachowaną w&nbsp;pamięci podręcznej tylko w&nbsp;przypadku, gdy serwer określi, że strona z&nbsp;pamięci podręcznej jest nieaktualna.</li>
       <li><strong>Jednokrotnie w&nbsp;trakcie każdej sesji</strong>: Zaznaczenie tej opcji powoduje porównanie przez przeglądarkę zawartości strony oryginalnej ze stroną zachowaną w&nbsp;pamięci podręcznej przy każdorazowym starcie &brandShortName;.</li>
       <li><strong>Nigdy</strong>: Zaznaczenie tej opcji wyłącza porównywanie przez przeglądarkę zawartości strony oryginalnej ze stroną zachowaną w&nbsp;pamięci podręcznej. Strony będą zawsze pobierane bezpośrednio z&nbsp;Internetu.</li>
@@ -147,7 +147,7 @@
 
 <h2 id="proxies">Zaawansowane preferencje &mdash; Serwery proxy</h2>
 
-<p>Proxy jest to usługa sieciowa polegająca na przechowywaniu na bliższym serwerze (serwerze pośredniczącym) kopii strony internetowej i&nbsp;udostępnianiu jej zamiast informacji pobieranych z&nbsp;odległego serwera, co ma na celu skrócenie czasu oczekiwania na załadowanie się strony.</p>
+<p>Proxy jest to usługa sieciowa polegająca na przechowywaniu na bliższym serwerze (serwerze pośredniczącym) kopii strony internetowej i&nbsp;udostępnianiu jej zamiast informacji pobieranych z&nbsp;odległego serwera, co ma na celu skrócenie czasu oczekiwania na wczytanie się strony.</p>
 
 <p>Niniejsza część pomocy objaśnia ustawienia panelu preferencji dotyczące serwerów proxy. Jeżeli panel nie jest w&nbsp;tej chwili widoczny, należy:</p>
 
@@ -186,7 +186,7 @@
 <p>Jeżeli zachodzi potrzeba używania różnych ustawień proxy dla różnych protokołów lub proxy SOCKS:</p>
 
 <ul>
-  <li><strong>Serwer proxy HTTP</strong>, <strong>Serwer proxy SSL</strong>, <strong>Serwer proxy FTP</strong>, <strong>Serwer proxy Gopher</strong>: Przy używaniu serwera proxy dla danego protokołu należy wypełnić odpowiadające mu pola dotyczące nazwy serwera i&nbsp;numeru portu.
+  <li><strong>Serwer proxy HTTP</strong>, <strong>Serwer proxy SSL</strong>, <strong>Serwer proxy FTP</strong>: Przy używaniu serwera proxy dla danego protokołu należy wypełnić odpowiadające mu pola dotyczące nazwy serwera i&nbsp;numeru portu.
 
     <p><strong>Uwaga</strong>: Jeżeli używasz tych samych ustawień dla wszystkich typów proxy zaznacz <q>Używaj tego samego proxy dla wszystkich protokołów</q>.</p>
 
@@ -221,11 +221,24 @@
       <li><strong>Użyj protokołu HTTP 1.0</strong>: Powoduje używanie oryginalnej wersji tego protokołu, ustandaryzowanej w&nbsp;roku 1996.</li>
       <li><strong>Użyj protokołu HTTP 1.1</strong>: Powoduje używanie nowej wersji protokołu HTTP, która zapewnia zwiększenie wydajności, włączając bardziej efektywne używanie połączeń HTTP, lepsze wsparcie dla korzystania z&nbsp;pamięci podręcznej klienta, zwielokrotnione żądania HTTP (przetwarzanie potokowe) oraz lepszą kontrolę nad wygasaniem aktualności zawartości pamięci podręcznej i&nbsp;polityką zastępowania jej zawartości.</li>
       <li><strong>Włącz aktywne połączenia</strong>: Zaznaczenie tej opcji powoduje podtrzymywanie otwartego połączenia w&nbsp;celu wykonywania dodatkowych żądań obsługi HTTP, lub zwiększenia prędkości wczytywania stron.</li>
-      <li><strong>Użyj przetwarzania potokowego</strong>: Zaznaczenie tej opcji spowoduje włączenie przetwarzania potokowego (ang. pipelining), które umożliwia wysyłanie naraz do serwera więcej niż jednego żądania HTTP i&nbsp;zmniejsza czas oczekiwania na załadowanie się stron.
+      <li><strong>Użyj przetwarzania potokowego</strong>: Zaznaczenie tej opcji spowoduje włączenie przetwarzania potokowego (ang. pipelining), które umożliwia wysyłanie naraz do serwera więcej niż jednego żądania HTTP i&nbsp;zmniejsza czas oczekiwania na wczytanie się stron.
 
         <p><strong>Uwaga</strong>: Przetwarzanie potokowe jest dostępne tylko dla protokołu HTTP 1.1, a&nbsp;jego stosowanie największe korzyści przynosi na łączach szerokopasmowych.</p></li>
     </ul>
   </li>
+<!-- TODO: start localizing -->
+  <li><strong>User Agent String</strong>:
+    The identifier sent by &brandShortName; to all websites is used for
+    statistics about website usage but also sometimes to expose certain features
+    only to known browsers (a practice known as "sniffing").
+    <ul>
+    <li><strong>Advertise Firefox compatibility</strong>: If this is enabled,
+    &brandShortName; will identify itself as both &brandShortName; and also
+    compatible with Firefox. This allows websites that check for certain
+    browsers rather than certain functionality to work with &brandShortName;.</li>
+    </ul>
+  </li>
+<!-- TODO: stop localizing -->
 </ul>
 
 <p>[<a href="#advanced_preferences">Na początek rozdziału</a>]</p>
@@ -243,10 +256,10 @@
 
 <ul>
   <li><strong>Instalacja wtyczek i&nbsp;dodatkowego oprogramowania</strong>: Zaznaczenie tej opcji pozwoli na instalację dodatkowego oprogramowania (wtyczki, dodatki). Przy każdej próbie instalacji wyświetlone zostanie zapytanie o&nbsp;pozwolenie na instalację dodatkowego oprogramowania.</li>
-  <li><strong>Zezwól witrynom na instalowanie rozszerzeń i aktualizacji</strong>: Zaznaczenie tej opcji umożliwia witrynom instalację dodatkowego oprogramowania (dodatki, wtyczki, rozszerzenia). Przy każdej próbie instalacji wyświetlone zostanie zapytanie o&nbsp;pozwolenie na instalację dodatkowego oprogramowania.</li>
+  <li><strong>Zezwalaj witrynom na instalowanie rozszerzeń i aktualizacji</strong>: Zaznaczenie tej opcji umożliwia witrynom instalację dodatkowego oprogramowania (dodatki, wtyczki, rozszerzenia). Przy każdej próbie instalacji wyświetlone zostanie zapytanie o&nbsp;pozwolenie na instalację dodatkowego oprogramowania.</li>
   <li><strong>Uprawnione witryny</strong>: Naciśnięcie tego przycisku wyświetla okno dialogowe Uprawnione witryny - Instalacja oprogramowania, w którym użytkownik może przeglądać i modyfikować listę witryn mogących instalować oprogramowanie:
     <ul>
-      <li><strong>Zezwól</strong>: Naciśnięcie tego przycisku powoduje dodanie wprowadzonego adresu witryny do listy uprawnionych witryn.</li>
+      <li><strong>Zezwalaj</strong>: Naciśnięcie tego przycisku powoduje dodanie wprowadzonego adresu witryny do listy uprawnionych witryn.</li>
       <li><strong>Usuń witrynę</strong>: Naciśnięcie tego przycisku powoduje usunięcie wybranej witryny z listy.</li>
       <li><strong>Usuń wszystkie witryny</strong>: Naciśnięcie tego przycisku powoduje usunięcie wszystkich witryn z listy.</li>
     </ul>
@@ -265,7 +278,7 @@
       <li><strong>Ostrzegaj, jeżeli to zaskutkuje wyłączeniem dodatków</strong>: Wybranie tej opcji spowoduje wyświetlenie ostrzeżenia, jeżeli automatyczna aktualizacja zaskutkuje wyłączeniem dodatków. W tym wypadku zostanie pokazana lista niekompatybilnych dodatków i będzie można zdecydować, czy dokonać aktualizacji, czy nie.</li>
     </ul>
 
-    <p><strong>Uwaga</strong>: Można używać funkcji Sprawdź dostępność aktualizacji z menu Pomoc w celu ręcznego wymuszenia sprawdzenia dostępności aktulizacji dla programu &brandShortName;. Tekst tej pozycji w menu zmieni się w czasie pobierania aktualizacji bądź gotowości do instalacji.</p>
+    <p><strong>Uwaga</strong>: Można używać funkcji Sprawdź dostępność aktualizacji z menu <span class="mac">&brandShortName;</span><span class="noMac">Pomoc</span> w celu ręcznego wymuszenia sprawdzenia dostępności aktulizacji dla programu &brandShortName;. <span class="noMac">Tekst tej pozycji w menu zmieni się w czasie pobierania aktualizacji bądź gotowości do instalacji.</span></p>
   </li>
   <li><strong>Pokaż historię aktualizacji</strong>: Naciśnięcie tego przycisku zaskutkuje otworzeniem okna Historia aktualizacji wyświetlającym listę zainstalowanych aktualizacji dla programu &brandShortName;, włączając w to typ aktualizacji (np. Aktualizacja bezpieczeństwa), datę instalacji jak i status instalacji. Odnośnik Szczegóły obok każdej pozycji w liście aktualizacji prowadzi do witryn zawierających dalsze informacje o każdej aktualizacji.</li>
 </ul>
