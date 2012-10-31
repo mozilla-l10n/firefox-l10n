@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Panellapok az Oldalsávon:">
 <!ENTITY sidebar.customize.current.accesskey    "O">
-<!ENTITY sidebar.customize.customize.label      "Panellap testreszabása...">
+<!ENTITY sidebar.customize.customize.label      "Panellap testreszabása…">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Eltávolítás">
 <!ENTITY sidebar.customize.remove.accesskey     "E">
@@ -17,11 +17,11 @@
 <!ENTITY sidebar.customize.additional.accesskey "l">
 <!ENTITY sidebar.customize.add.label            "Hozzáadás">
 <!ENTITY sidebar.customize.add.accesskey        "H">
-<!ENTITY sidebar.customize.preview.label        "Előnézet...">
+<!ENTITY sidebar.customize.preview.label        "Előnézet…">
 <!ENTITY sidebar.customize.preview.accesskey    "n">
 <!ENTITY sidebar.customize.up.label             "Fel">
 <!ENTITY sidebar.customize.up.accesskey         "F">
 <!ENTITY sidebar.customize.down.label           "Le">
 <!ENTITY sidebar.customize.down.accesskey       "L">
-<!ENTITY sidebar.more.label                     "További panellapok...">
+<!ENTITY sidebar.more.label                     "További panellapok…">
 <!ENTITY sidebar.more.accesskey                 "T">

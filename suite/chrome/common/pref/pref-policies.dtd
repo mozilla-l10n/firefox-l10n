@@ -14,7 +14,7 @@
 <!ENTITY  annoyances.label    "Zaklatások">
 <!ENTITY  restricted.label    "Korlátozott webhelyek">
 
-<!ENTITY  addSite.label       "Webhely hozzáadása...">
+<!ENTITY  addSite.label       "Webhely hozzáadása…">
 <!ENTITY  addSite.accesskey   "W">
 <!ENTITY  settings.label      "Beállítások a következőhöz ">
 <!ENTITY  settings.accesskey  "B">

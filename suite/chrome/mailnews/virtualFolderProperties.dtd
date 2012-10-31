@@ -11,7 +11,7 @@
 <!ENTITY searchTermCaption.label       "A mentett keresés keresési feltételének beállítása: ">
 
 <!ENTITY folderSelectionCaption.label  "Keresés a következő mappákban: ">
-<!ENTITY chooseFoldersButton.label     "Tallózás...">
+<!ENTITY chooseFoldersButton.label     "Tallózás…">
 <!ENTITY chooseFoldersButton.accesskey "T">
 
 <!ENTITY searchOnline.label            "Online keresés (naprakész eredményeket az IMAP- és News-mappákhoz, de megnövekszik a mappa megnyitásához szükséges idő)">

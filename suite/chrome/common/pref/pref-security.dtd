@@ -23,6 +23,6 @@
   The same accesskey is used for both labels.
 -->
 
-<!ENTITY clearDataDialog.label            "Törlés most...">
+<!ENTITY clearDataDialog.label            "Törlés most…">
 <!ENTITY clearDataSilent.label            "Törlés most">
 <!ENTITY clearDataDialog.accesskey        "T">

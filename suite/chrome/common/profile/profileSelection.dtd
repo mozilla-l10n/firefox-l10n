@@ -8,7 +8,7 @@
 <!ENTITY            windowTitle.label    "Felhasználói profil kiválasztása">
 <!ENTITY            profileManager.title "&brandShortName; - Profilkezelő">
 
-<!ENTITY            manage.label     "Profilkezelő...">
+<!ENTITY            manage.label     "Profilkezelő…">
 <!ENTITY            manage.accesskey "P">
 <!ENTITY            select.label     "Profil használata">
 

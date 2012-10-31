@@ -5,9 +5,9 @@
 <!ENTITY filterListDialog.title "Message Filters">
 <!ENTITY nameColumn.label "Szűrő neve">
 <!ENTITY activeColumn.label "Engedélyezve">
-<!ENTITY newButton.label "Új...">
+<!ENTITY newButton.label "Új…">
 <!ENTITY newButton.accesskey "Ú">
-<!ENTITY editButton.label "Szerkesztés...">
+<!ENTITY editButton.label "Szerkesztés…">
 <!ENTITY editButton.accesskey "S">
 <!ENTITY deleteButton.label "Törlés">
 <!ENTITY deleteButton.accesskey "T">

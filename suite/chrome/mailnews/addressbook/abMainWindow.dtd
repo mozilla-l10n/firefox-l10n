@@ -93,7 +93,7 @@
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés"> 
 <!ENTITY deleteItemButton.tooltip                       "Kiválasztott elemek törlése">
 <!ENTITY throbber.tooltip                               "Ugrás a &vendorShortName; honlapjára">
-<!ENTITY advancedButton.tooltip                         "Keresés az üzenetekben...">
+<!ENTITY advancedButton.tooltip                         "Keresés az üzenetekben…">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Címjegyzékek">
