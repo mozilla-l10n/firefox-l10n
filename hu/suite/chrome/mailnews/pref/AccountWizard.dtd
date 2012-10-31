@@ -24,12 +24,12 @@
 <!ENTITY identityDesc.label "Minden postafiókhoz tartozik egy személyazonosság. Az itt megadott név megjelenik a másoknak küldött levelek fejlécében.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
-<!ENTITY fullnameDesc.label "Adja meg azt a nevet, amelyet a kézbesítendő levelek &quot;Feladó&quot; sorában akar megjelentetni.">
+<!ENTITY fullnameDesc.label "Adja meg azt a nevet, amelyet a kézbesítendő levelek „Feladó” sorában akar megjelentetni.">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(például: &quot;Kovács János&quot;)">
+<!ENTITY fullnameExample.label "(például: „Kovács János”)">
 <!ENTITY fullnameLabel.label "Név:">
 <!ENTITY fullnameLabel.accesskey "N">
 
@@ -57,11 +57,11 @@
 <!ENTITY leaveMsgsOnSrvr.label "Üzenetek megtartása a kiszolgálón">
 <!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, „kovacsj”).">
 <!ENTITY incomingUsername.label "Felhasználói név:">
 <!ENTITY incomingUsername.accesskey "F">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Írja be a hírcsoport-kiszolgáló (NNTP) nevét (például: &quot;news.cegnev.hu&quot;).">
+<!ENTITY newsServerNameDesc.label "Írja be a hírcsoport-kiszolgáló (NNTP) nevét (például: „news.cegnev.hu”).">
 <!ENTITY newsServerLabel.label "Hírcsoport-kiszolgáló:">
 <!ENTITY newsServerLabel.accesskey "H">
 <!-- Entities for Outgoing Server page -->
@@ -96,14 +96,14 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "A kimenő (SMTP) kiszolgálója, &quot;">
+<!ENTITY haveSmtp3.prefix "A kimenő (SMTP) kiszolgálója, „">
 <!ENTITY haveSmtp3.suffix3 "” ugyanaz, mint a bejövő kiszolgálója, és a bejövő felhasználó neve lesz használva az eléréséhez.">
 <!-- Entities for Account name page -->
 
 
 <!ENTITY accnameTitle.label "Postafiók neve">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Írja be milyen néven szeretne hivatkozni erre a postafiókra (például: &quot;Munka&quot;, &quot;Otthon&quot; vagy &quot;Hírek&quot;).">
+<!ENTITY accnameDesc.label "Írja be milyen néven szeretne hivatkozni erre a postafiókra (például: „Munka”, „Otthon” vagy „Hírek”).">
 <!ENTITY accnameLabel.label "Postafiók neve:">
 <!ENTITY accnameLabel.accesskey "P">
 <!-- Entities for Done (Congratulations) page -->

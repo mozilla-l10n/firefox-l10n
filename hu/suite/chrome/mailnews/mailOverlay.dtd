@@ -7,7 +7,7 @@
 <!ENTITY  newMessageCmd.label             "Üzenet">
 <!ENTITY  newMessageCmd.accesskey         "Ü">
  
-<!ENTITY  newContactCmd.label             "Névjegykártya...">
+<!ENTITY  newContactCmd.label             "Névjegykártya…">
 <!ENTITY  newContactCmd.accesskey         "N">
  
 <!ENTITY printButton.label "Nyomtatás">

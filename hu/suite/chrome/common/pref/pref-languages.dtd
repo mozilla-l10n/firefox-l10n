@@ -8,7 +8,7 @@
 <!ENTITY languages.customize.title                      "Nyelvek">
 <!ENTITY langtitle.label                                "A weboldalak nyelve">
 <!ENTITY languages.customize.prefAddLangDescript        "Jelölje ki a hozzáadandó nyelv(ek)et.">
-<!ENTITY languages.customize.addButton.label            "Hozzáadás...">
+<!ENTITY languages.customize.addButton.label            "Hozzáadás…">
 <!ENTITY languages.customize.addButton.accesskey        "H">
 <!ENTITY languages.customize.deleteButton.label         "Eltávolítás">
 <!ENTITY languages.customize.deleteButton.accesskey     "E">

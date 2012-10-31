@@ -13,5 +13,5 @@
 <!ENTITY offlineNotifyPermissions.accesskey "J">
 
 <!ENTITY offlineAppsList.label              "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra:">
-<!ENTITY offlineAppsListRemove.label        "Törlés most...">
+<!ENTITY offlineAppsListRemove.label        "Törlés most…">
 <!ENTITY offlineAppsListRemove.accesskey    "T">
