@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Selection">
 <!ENTITY junkActions.label "Destination and Retention">
+
+<!ENTITY globalJunkPrefs.label "Globális levélszemét-beállítások…">
+<!ENTITY globalJunkPrefs.accesskey "t">

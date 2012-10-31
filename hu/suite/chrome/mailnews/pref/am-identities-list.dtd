@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListDesc.label "Több azonosság támogatása">
+<!ENTITY identitiesListManageDesc.label "Személyazonosságok kezelése ehhez a postafiókhoz. Az első személyazonosság az alapértelmezetten használt.">
 <!ENTITY identitiesListAdd.label  "Hozzáadás…">
 <!ENTITY identitiesListAdd.accesskey  "H">
 <!ENTITY identitiesListEdit.label "Szerkesztés…">
 <!ENTITY identitiesListEdit.accesskey "z">
+<!ENTITY identitiesListDefault.label "Alapértelmezés">
+<!ENTITY identitiesListDefault.accesskey "l">
 <!ENTITY identitiesListDelete.label "Törlés">
 <!ENTITY identitiesListDelete.accesskey "T">
 <!ENTITY identitiesListClose.label "Bezárás">
