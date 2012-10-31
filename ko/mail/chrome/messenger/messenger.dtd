@@ -249,33 +249,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "첨부 보기">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty. -->
-
-<!ENTITY fullZoomEnlargeCmd.label		"확대">
-<!ENTITY fullZoomEnlargeCmd.accesskey		"I">
-<!ENTITY fullZoomEnlargeCmd.commandkey		"+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2		"="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3		"">
-
-<!ENTITY fullZoomReduceCmd.label		"축소">
-<!ENTITY fullZoomReduceCmd.accesskey		"O">
-<!ENTITY fullZoomReduceCmd.commandkey		"-">
-<!ENTITY fullZoomReduceCmd.commandkey2		"">
-
-<!ENTITY fullZoomResetCmd.label			"원래 크기">
-<!ENTITY fullZoomResetCmd.accesskey		"R">
-<!ENTITY fullZoomResetCmd.commandkey		"0">
-<!ENTITY fullZoomResetCmd.commandkey2		"">
-
-<!ENTITY fullZoomToggleCmd.label		"글자 크기만 변경">
-<!ENTITY fullZoomToggleCmd.accesskey		"T">
-<!ENTITY fullZoom.label				"확대">
-<!ENTITY fullZoom.accesskey			"Z">
-
 <!ENTITY pageSourceCmd.label "메시지 소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
