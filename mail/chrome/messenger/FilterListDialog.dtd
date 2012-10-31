@@ -11,7 +11,7 @@
 <!ENTITY editButton.accesskey "M">
 <!ENTITY deleteButton.label "Stizzar">
 <!ENTITY deleteButton.accesskey "z">
-<!ENTITY reorderTopButton "Plazzar	survart">
+<!ENTITY reorderTopButton "Plazzar survart">
 <!ENTITY reorderTopButton.accessKey "i">
 <!ENTITY reorderTopButton.toolTip "Spustar il filter uschia ch'el vegn exequì avant tut ils auters">
 <!ENTITY reorderUpButton.label "Ensi">
@@ -35,6 +35,6 @@
 <!ENTITY choosethis.label "tscherner quest ordinatur">
 <!ENTITY choosethisnewsserver.label "tscherner quest server da gruppas da discussiun">
 <!ENTITY helpButton.label "Agid">
-<!ENTITY helpButton.accesskey "H">
+<!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Tschertgar filters tenor num…">

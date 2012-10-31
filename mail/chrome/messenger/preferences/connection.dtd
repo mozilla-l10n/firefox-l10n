@@ -11,13 +11,13 @@
 <!ENTITY  systemTypeRadio.label         "Utilisar las preferenzas da proxy dal sistem">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Enconuscher automaticamain las preferenzas da proxy per questa rait">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  WPADTypeRadio.accesskey       "E">
 <!ENTITY  manualTypeRadio.label         "Configuraziun da proxy manuala">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "URL per la configuraziun da proxy automatica:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Rechargiar">
-<!ENTITY  reload.accesskey              "l">
+<!ENTITY  reload.accesskey              "R">
 <!ENTITY  http.label                    "Proxy HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy SSL:">

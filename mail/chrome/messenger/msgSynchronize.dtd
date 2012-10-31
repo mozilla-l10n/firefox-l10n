@@ -15,7 +15,7 @@
 <!ENTITY sendMessage.label "Trametter ils messadis betg tramess">
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Lavurar senza connexiun suenter avair telechargià e sincronisà">
-<!ENTITY workOffline.accesskey "W">
+<!ENTITY workOffline.accesskey "x">
 <!ENTITY selectButton.label "Tscherner…">
 <!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Tscherna ordinaturs dad e-mail e gruppas da discussiun per l'utilisaziun en il modus senza connexiun.">
