@@ -21,7 +21,7 @@
 <!-- am-addressing.xul -->
 
 
-<!ENTITY compositionGroupTitle.label "Szerkesztés">
+<!ENTITY compositionGroupTitle.label          "Szerkesztés">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Levelek írása HTML formátumban">
 <!ENTITY useHtml.accesskey                    "L">
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "v">
 <!ENTITY includeSigOnForward.label            "Aláírás a továbbításoknál">
 <!ENTITY includeSigOnForward.accesskey        "t">
+
+<!ENTITY globalComposingPrefs.label           "Globális HTML-szerkesztő beállítások…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Globális címzés beállítások…">
+<!ENTITY globalAddressingPrefs.accesskey      "o">

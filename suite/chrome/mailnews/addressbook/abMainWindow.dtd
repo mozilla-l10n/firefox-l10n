@@ -48,7 +48,7 @@
 <!ENTITY showAbToolbarCmd.label                         "Címjegyzék eszköztár"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "C">  
 <!ENTITY layoutMenu.label                               "Elrendezés">
-<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY layoutMenu.accesskey                           "l">
 <!ENTITY showDirectoryPane.label                        "Könyvtár ablaktábla">
 <!ENTITY showDirectoryPane.accesskey                    "l">
 <!ENTITY showContactPane2.label                         "Névjegyek ablaktábla">
