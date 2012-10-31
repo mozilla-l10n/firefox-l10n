@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Új eszközének aktiválásához válassza az eszközön a „Szinkronizálás beállítása” lehetőséget.'>
-<!ENTITY sync.subtitle.header.label 'Adja meg ezt a kódot a számítógépén'>
-<!ENTITY sync.subtitle.connectlocation.label 'Válassza az „&sync.title.pair.label;” lehetőséget az asztali Firefox beállításainak &syncBrand.shortName.label; szakaszában.'>
+<!ENTITY sync.subtitle.header2.label 'Adja meg ezt a kódot az eszközén'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Válassza az „&sync.title.pair.label;” lehetőséget a másik eszköz Firefox beállításainak &syncBrand.shortName.label; szakaszában.'>
 <!ENTITY sync.subtitle.pair.label 'Az aktiváláshoz válassza a másik eszközön az „Eszköz párosítása” lehetőséget.'>
 <!ENTITY sync.pin.default.label '…\n…\n…\n'>
 <!ENTITY sync.pin.oneline.label '...'>

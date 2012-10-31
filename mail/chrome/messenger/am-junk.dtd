@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Kijelölés">
 <!ENTITY junkActions.label "Cél és megtartás">
+
+<!ENTITY globalJunkPrefs.label "Globális levélszemét-beállítások…">
+<!ENTITY globalJunkPrefs.accesskey "G">

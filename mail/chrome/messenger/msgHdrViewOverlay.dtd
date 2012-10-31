@@ -3,27 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY toField3.label "Címzett ">
-<!ENTITY fromField3.label "Feladó
-">
+<!ENTITY fromField3.label "Feladó">
 <!ENTITY senderField3.label "Küldő ">
-<!ENTITY organizationField3.label "Szervezet
-">
+<!ENTITY organizationField3.label "Szervezet">
 <!ENTITY replyToField3.label "Válaszcím ">
 
-<!ENTITY subjectField3.label "Tárgy
-">
+<!ENTITY subjectField3.label "Tárgy">
 <!ENTITY ccField3.label "Másolat ">
 <!ENTITY bccField3.label "Rejtett másolat ">
-<!ENTITY newsgroupsField3.label "Hírcsoportok
-">
+<!ENTITY newsgroupsField3.label "Hírcsoportok">
 <!ENTITY followupToField3.label "Hírcsop. vál. ">
-<!ENTITY tagsHdr3.label "Címkék
-">
-<!ENTITY dateField3.label "Dátum
-">
+<!ENTITY tagsHdr3.label "Címkék">
+<!ENTITY dateField3.label "Dátum">
 <!ENTITY userAgentField3.label "Ügyfélprogram ">
-<!ENTITY referencesField3.label "Hivatkozások
-">
+<!ENTITY referencesField3.label "Hivatkozások">
 <!ENTITY messageIdField3.label "Üzenetazonosító ">
 <!ENTITY inReplyToField3.label "Válasz erre ">
 <!ENTITY originalWebsite3.label "Webhely ">

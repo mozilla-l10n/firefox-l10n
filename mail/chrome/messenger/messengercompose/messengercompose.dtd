@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Új üzenet: (nincs tárgy)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Fájl"> 
+<!ENTITY fileMenu.label "Fájl">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Új">
 <!ENTITY newMenu.accesskey "Ú">
@@ -55,20 +55,20 @@
 <!ENTITY printCmd.accesskey "N">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Szerkesztés"> 
+<!ENTITY editMenu.label "Szerkesztés">
 <!ENTITY editMenu.accesskey "z">
 <!ENTITY undoCmd.label "Visszavonás">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "V"> 
+<!ENTITY undoCmd.accesskey "V">
 <!ENTITY redoCmd.label "Újra">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r"> 
+<!ENTITY redoCmd.accesskey "r">
 <!ENTITY cutCmd.label "Kivágás">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K"> 
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Másolás">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "M"> 
+<!ENTITY copyCmd.accesskey "M">
 <!ENTITY pasteCmd.label "Beillesztés">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "B">
@@ -83,7 +83,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Minden kijelölése">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "d"> 
+<!ENTITY selectAllCmd.accesskey "d">
 <!ENTITY findCmd.label "Keresés és csere…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "K">
@@ -94,13 +94,13 @@
 <!ENTITY findPrevCmd.label "Előző keresése">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "l"> 
+<!ENTITY findPrevCmd.accesskey "l">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Nézet"> 
+<!ENTITY viewMenu.label "Nézet">
 <!ENTITY viewMenu.accesskey "N">
-<!ENTITY viewToolbarsMenuNew.label "Eszköztárak"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "E"> 
+<!ENTITY viewToolbarsMenuNew.label "Eszköztárak">
+<!ENTITY viewToolbarsMenuNew.accesskey "E">
 <!ENTITY menubarCmd.label "Menüsor">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Szerkesztés eszköztár">
@@ -112,8 +112,8 @@
 <!ENTITY customizeToolbar.label "Testreszabás…">
 <!ENTITY customizeToolbar.accesskey "T">
 
-<!ENTITY addressSidebar.label "Kapcsolatok oldalsáv"> 
-<!ENTITY addressSidebar.accesskey "k"> 
+<!ENTITY addressSidebar.label "Kapcsolatok oldalsáv">
+<!ENTITY addressSidebar.accesskey "k">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formátum">
@@ -181,13 +181,13 @@
 <!ENTITY preferencesCmd.label "Beállítások…">
 <!ENTITY preferencesCmd.accesskey "B">
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
-<!ENTITY preferencesCmdUnix.accesskey   "B"> 
+<!ENTITY preferencesCmdUnix.accesskey   "B">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Kis méret">
 <!ENTITY bringAllToFront.label "Előtérbe hozás">
-<!ENTITY zoomWindow.label "Nagyítás"> 
+<!ENTITY zoomWindow.label "Nagyítás">
 <!ENTITY windowMenu.label "Ablak">
 
 <!-- Mail Toolbar -->
@@ -199,13 +199,13 @@
 <!ENTITY saveButton.label "Mentés">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Üzenet elküldése azonnal"> 
-<!ENTITY sendlaterButton.tooltip "Üzenet elküldése később"> 
-<!ENTITY quoteButton.tooltip "Előző üzenet idézése"> 
-<!ENTITY addressButton.tooltip "Egy címzett kiválasztása a címjegyzékből"> 
-<!ENTITY attachButton.tooltip "Melléklet hozzáadása"> 
+<!ENTITY sendButton.tooltip "Üzenet elküldése azonnal">
+<!ENTITY sendlaterButton.tooltip "Üzenet elküldése később">
+<!ENTITY quoteButton.tooltip "Előző üzenet idézése">
+<!ENTITY addressButton.tooltip "Egy címzett kiválasztása a címjegyzékből">
+<!ENTITY attachButton.tooltip "Melléklet hozzáadása">
 <!ENTITY spellingButton.tooltip "A kijelölt rész vagy az egész üzenet helyesírásának ellenőrzése">
-<!ENTITY saveButton.tooltip "Az üzenet mentése"> 
+<!ENTITY saveButton.tooltip "Az üzenet mentése">
 <!ENTITY cutButton.tooltip              "Kivágás">
 <!ENTITY copyButton.tooltip             "Másolás">
 <!ENTITY pasteButton.tooltip            "Beillesztés">
@@ -216,12 +216,12 @@
 <!ENTITY headersSpace.style "width: 16em;">
 <!ENTITY fromAddr.label "Feladó:">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr.label "Címzett:"> 
-<!ENTITY ccAddr.label "Másolat:"> 
-<!ENTITY bccAddr.label "Rejtett másolat:"> 
-<!ENTITY replyAddr.label "Válaszcím:"> 
-<!ENTITY newsgroupsAddr.label "Hírcsoport:"> 
-<!ENTITY followupAddr.label "Hírcsop. vál.:"> 
+<!ENTITY toAddr.label "Címzett:">
+<!ENTITY ccAddr.label "Másolat:">
+<!ENTITY bccAddr.label "Rejtett másolat:">
+<!ENTITY replyAddr.label "Válaszcím:">
+<!ENTITY newsgroupsAddr.label "Hírcsoport:">
+<!ENTITY followupAddr.label "Hírcsop. vál.:">
 <!ENTITY subject.label "Tárgy:">
 <!ENTITY subject.accesskey "T">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
