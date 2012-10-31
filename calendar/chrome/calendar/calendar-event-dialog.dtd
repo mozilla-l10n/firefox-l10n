@@ -331,8 +331,7 @@
 <!ENTITY event.attendee.role.nonparticipant     "Nem résztvevő">
 <!ENTITY event.attendee.usertype.individual     "Egyén">
 <!ENTITY event.attendee.usertype.group          "Csoport">
-<!ENTITY event.attendee.usertype.resource       "Erőforrás
-">
+<!ENTITY event.attendee.usertype.resource       "Erőforrás">
 <!ENTITY event.attendee.usertype.room           "Szoba">
 
 <!-- Timezone dialog -->
