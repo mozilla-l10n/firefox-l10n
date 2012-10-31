@@ -252,33 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Melléklet megtekintése belül">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "M">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Nagyítás">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "n">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Kicsinyítés">
-<!ENTITY fullZoomReduceCmd.accesskey    "K">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Visszaállítás">
-<!ENTITY fullZoomResetCmd.accesskey     "V">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Csak a szöveg nagyítása">
-<!ENTITY fullZoomToggleCmd.accesskey    "C">
-<!ENTITY fullZoom.label                 "Nagyítás">
-<!ENTITY fullZoom.accesskey             "N">
-
 <!ENTITY pageSourceCmd.label "Üzenet forrása">
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.key "u">
