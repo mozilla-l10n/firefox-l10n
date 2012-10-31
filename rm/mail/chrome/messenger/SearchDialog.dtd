@@ -18,7 +18,7 @@
 <!ENTITY searchDialogTitle.label     "Tschertgar messadis">
 <!ENTITY results.label               "Resultats">
 <!ENTITY fileHereMenu.label          "Spustar nà qua">
-<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileHereMenu.accesskey      "n">
 <!ENTITY fileButton.label            "Datoteca">
 <!ENTITY fileButton.accesskey        "D">
 <!ENTITY closeCmd.key                "W"> 

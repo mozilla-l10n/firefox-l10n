@@ -11,7 +11,7 @@
 <!ENTITY useGlobal.label           "Utilisar las configuraziuns globalas dal server LDAP per quest conto">
 <!ENTITY useGlobal.accesskey       "U">
 <!ENTITY editDirectories.label     "Modifitgar…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY editDirectories.accesskey "M">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Utilisar in auter server LDAP:">
 <!ENTITY directories.accesskey     "d">

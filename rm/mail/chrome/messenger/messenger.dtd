@@ -193,7 +193,7 @@
 <!ENTITY sortByFromCmd.label "Da">
 <!ENTITY sortByFromCmd.accesskey "a">
 <!ENTITY sortByRecipientCmd.label "Destinatur">
-<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByRecipientCmd.accesskey "D">
 <!ENTITY sortByUnreadCmd.label "Legì">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Successiun d'entrada">
@@ -218,7 +218,7 @@
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Zuppentar tut ils temas">
-<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.accesskey "p">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nunlegì">
 <!ENTITY unreadMsgsCmd.accesskey "N">
@@ -247,7 +247,7 @@
 <!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feed cun il text dal messadi sco">
-<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY bodyMenuFeed.accesskey "e">
 <!ENTITY viewFeedWebPage.label "Pagina web">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Resumaziun">
@@ -369,7 +369,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replySenderCmd.label "Respunder mo al speditur">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd2.label "Followup a la gruppa da discussiun">
-<!ENTITY replyNewsgroupCmd2.accesskey  "y">
+<!ENTITY replyNewsgroupCmd2.accesskey  "w">
 <!ENTITY replyToAllMsgCmd.label "Respunder a tuts">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -408,10 +408,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Observar il tema">
-<!ENTITY watchThreadMenu.accesskey "W">
+<!ENTITY watchThreadMenu.accesskey "t">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Spustar nà qua">
-<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileHereMenu.accesskey "n">
 <!ENTITY copyHereMenu.label "Copiar nà qua">
 <!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etichetta">
@@ -460,7 +460,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Avrir il messadi da feed">
-<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedMessage.accesskey "A">
 <!ENTITY openFeedWebPageInWindow.label "Pagina web en ina nova fanestra">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
 <!ENTITY openFeedSummaryInWindow.label "Resumaziun en ina nova fanestra">
@@ -490,7 +490,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Mussar ils contos…">
 <!ENTITY joinChatCmd.label "Acceder il chat…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.accesskey "c">
 <!ENTITY savedFiles.label "Datotecas memorisadas">
 <!ENTITY savedFiles.accesskey "m">
 <!ENTITY savedFiles.key "j">
@@ -560,7 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY advancedButton.tooltip "Tschertga da messadis avanzada">
 <!ENTITY getMsgButton.tooltip "Retschaiver novs messadis">
 <!ENTITY getAllNewMsgCmd.label "Retschaiver tut ils messadis novs">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
+<!ENTITY getAllNewMsgCmd.accesskey "n">
 <!ENTITY newMsgButton.tooltip "Scriver in nov messadi">
 <!ENTITY replyButton.tooltip "Respunder quest messadi">
 <!ENTITY replyAllButton.tooltip "Respunder al speditur ed a tut ils destinaturs">
@@ -786,13 +786,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Fa ir">
-<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPlay.accesskey "F">
 <!ENTITY contextPause.label "Pausa">
 <!ENTITY contextPause.accesskey "P">
 <!ENTITY contextMute.label "Senza tun">
-<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextMute.accesskey "z">
 <!ENTITY contextUnmute.label "Cun tun">
-<!ENTITY contextUnmute.accesskey "m">
+<!ENTITY contextUnmute.accesskey "t">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage2.label "&brandShortName; ha classifitgà quest messadi sco nungiavischà.">
@@ -846,13 +846,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Agiuntar al cudeschet d'adressas…">
-<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddToAddressBook.accesskey "g">
 <!ENTITY AddDirectlyToAddressBook.label "Agiuntar al cudeschet d'adressas">
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.accesskey "g">
 <!ENTITY EditContact.label "Modifitgar il contact…">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact.accesskey "M">
 <!ENTITY ViewContact.label "Mussar il contact">
-<!ENTITY ViewContact.accesskey "V">
+<!ENTITY ViewContact.accesskey "c">
 <!ENTITY SubscribeToNewsgroup.label "Abunar ina gruppa da discussiun">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
 <!ENTITY SendMessageTo.label "Scriver in messadi a">
@@ -875,9 +875,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Memorisar la destinaziun sut…">
-<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveLinkAsCmd.accesskey "d">
 <!ENTITY saveImageAsCmd.label "Memorisar la grafica sut…">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Copiar l'adressa da la colliaziun">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copiar la grafica">
@@ -885,11 +885,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyEmailCmd.label "Copiar l'adressa dad e-mail">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY stopCmd.label "Fermar">
-<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.accesskey "F">
 <!ENTITY reloadCmd.label "Rechargiar">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY openInBrowser.label "Avrir en il navigatur">
-<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openInBrowser.accesskey "A">
 <!ENTITY openLinkInBrowser.label "Avrir la colliaziun en il navigatur">
 <!ENTITY openLinkInBrowser.accesskey "O">
 

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY all.label          "Telechargiar tut ils chaus-pagina">
-<!ENTITY all.accesskey      "D">
+<!ENTITY all.accesskey      "T">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
    with the number of headers to be downloaded inserted between them:
@@ -12,7 +12,7 @@
 -->
 
 <!ENTITY download.label     "Telechargiar">
-<!ENTITY download.accesskey "o">
+<!ENTITY download.accesskey "c">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "chaus-pagina">
 <!ENTITY headers.accesskey  "h">
