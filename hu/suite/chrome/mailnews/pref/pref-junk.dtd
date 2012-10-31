@@ -9,7 +9,7 @@
 
 <!ENTITY manualMark.label               "A levélszemét kézi megjelölésekor:">
 <!ENTITY manualMark.accesskey           "m">
-<!ENTITY manualMarkModeMove.label       "Áthelyezés a &quot;Szemét&quot; mappába">
+<!ENTITY manualMarkModeMove.label       "Áthelyezés a „Szemét” mappába">
 <!ENTITY manualMarkModeMove.accesskey   "t">
 <!ENTITY manualMarkModeDelete.label     "Törlés">
 <!ENTITY manualMarkModeDelete.accesskey "T">
