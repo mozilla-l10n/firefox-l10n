@@ -81,7 +81,6 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
-<!ENTITY pref_reflow_on_zoom "فعّل انسياب النص مع التقريب">
 <!ENTITY pref_font_size_tiny "ضئيل">
 <!ENTITY pref_font_size_small "صغير">
 <!ENTITY pref_font_size_medium "متوسط">
@@ -190,13 +189,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "اضبط تزامُن فيَرفُكس للوصول إلى العلامات والتأريخ والألسنة من أجهزتك الأخرى&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "احصل على التطبيقات من متجر موزيلا واكتشف أفضل ما تقدمه الوب&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "احصل على التطبيقات من متجر فَيرفُكس واكتشف أفضل ما تقدمه الوب&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "تزامُن فَيَرفُكس">
-<!ENTITY abouthome_apps_bold_name "متجر موزيلا">
+<!ENTITY abouthome_apps_bold_name2 "متجر فَيرفُكس">
 
 <!ENTITY filepicker_title "اختر ملفًا">
 <!ENTITY filepicker_audio_title "اختر أو سجل صوتًا">
@@ -238,15 +237,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "تطبيق">
 
 <!ENTITY searchable_description "العلامات والتأريخ">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
 
-<!ENTITY updater_start_title "يتوفر تحديث &brandShortName;">
-<!ENTITY updater_start_select "المس لبدء التنزيل">
-
-<!ENTITY updater_downloading_title "تنزيل &brandShortName;">
-<!ENTITY updater_downloading_title_failed "فشل التنزيل">
-<!ENTITY updater_downloading_select "المس لتطبيق التحديث بمجرد تنزيله">
-<!ENTITY updater_downloading_retry "المس لإعادة المحاولة">
-
-<!ENTITY updater_apply_title "يتوفر تحديث &brandShortName;">
-<!ENTITY updater_apply_select "المس للتحديث">
+<!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
+<!ENTITY updater_start_select2 "المس لبدء التنزيل">
+ 
+<!ENTITY updater_downloading_title2 "تنزيل &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "فشل التنزيل">
+<!ENTITY updater_downloading_select2 "المس لتطبيق التحديث بمجرد تنزيله">
+<!ENTITY updater_downloading_retry2 "المس لإعادة المحاولة">
+ 
+<!ENTITY updater_apply_title2 "يتوفر تحديث &brandShortName;">
+<!ENTITY updater_apply_select2 "المس للتحديث">
