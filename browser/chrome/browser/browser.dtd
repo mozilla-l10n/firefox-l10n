@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "網頁主控台">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "遠端網頁主控台">
 
 <!ENTITY inspectMenu.label            "檢測">
 <!ENTITY inspectMenu.accesskey        "t">
