@@ -4,7 +4,7 @@
 
 <!ENTITY pane.title                   "Empfangsbestätigungen (MDN)">
 <!ENTITY useGlobalPrefs.label         "Globale Einstellungen für dieses Konto verwenden">
-<!ENTITY useGlobalPrefs.accesskey     "G">
+<!ENTITY useGlobalPrefs.accesskey     "o">
 <!ENTITY globalReceipts.label         "Globale Einstellungen…">
 <!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Einstellungen für dieses Konto anpassen">
@@ -16,7 +16,7 @@
 <!ENTITY leaveIt.accesskey            "P">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "In den Ordner für gesendete Nachrichten verschieben">
-<!ENTITY moveToSent.accesskey         "O">
+<!ENTITY moveToSent.accesskey         "v">
 <!ENTITY requestMDN.label             "Wenn aufgefordert wird, eine Empfangsbestätigung zu senden:">
 <!ENTITY returnSome.label             "Bei manchen Nachrichten Empfangsbestätigungen erlauben">
 <!ENTITY returnSome.accesskey         "B">
