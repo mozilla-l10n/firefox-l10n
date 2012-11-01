@@ -8,10 +8,12 @@
 <!ENTITY reloadAllTabs.accesskey "R">
 <!ENTITY closeOtherTabs.label "Zarrar les demás llingüetes">
 <!ENTITY closeOtherTabs.accesskey "Z">
-<!ENTITY pinAppTab.label "Fixar llingüeta">
-<!ENTITY pinAppTab.accesskey "g">
-<!ENTITY unpinAppTab.label "Desfixar llingüeta">
-<!ENTITY unpinAppTab.accesskey "x">
+<!ENTITY devToolbarOtherToolsButton.label "Más ferramientes">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Zarrar panel llateral">
+<!ENTITY pinTab.label "Fixar llingüeta">
+<!ENTITY pinTab.accesskey "F">
+<!ENTITY unpinTab.label "Desaniciar llingüeta fixada">
+<!ENTITY unpinTab.accesskey "x">
 <!ENTITY moveToGroup.label "Mover al grupu">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Grupu nuevu">
@@ -73,7 +75,14 @@
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Amestar esta páxina a marcadores">
+<!ENTITY bookmarkThisPageCmd.label "Amestar est<!ENTITY social.ok.label "Aceptar">
+470 <!ENTITY social.ok.accesskey "A">
+471 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
+472 <!ENTITY social.toggleSidebar.accesskey "s">
+473 <!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
+474 <!ENTITY social.toggleNotifications.accesskey "n">
+475 <!ENTITY social.activated.undobutton.label "Deshacer">
+476 <!ENTITY social.activated.undobutton.accesskey "h">a páxina a marcadores">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Soscribise a esta páxina">
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
@@ -425,7 +434,7 @@
 <!ENTITY downloadMonitor2.tooltip "Clic p'abrir la ventana de descargues">
 <!ENTITY allTabs.filter.emptyText "Guetar llingüetes">
 <!ENTITY tabsToolbar.label "Llingüetes del restolador">
-<!ENTITY syncTabsMenu.label "Llingüetes d'otros equipos">
+<!ENTITY syncTabsMenu2.label "Llingüetes d'otros equipos">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "f">
@@ -448,15 +457,11 @@
 <!ENTITY fullscreenExitButton.label "Refugar">
 <!ENTITY fullscreenApproval.value "¿Permitir pantalla completa?">
 <!ENTITY fullscreenExitHint.value "Calca ESC en cualquier momentu pa colar de la pantalla completa.">
-
-<!ENTITY inspectorButton.label "Inspeicionar">
 <!ENTITY leaveDOMFullScreen.label "Colar de la pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "p">
 <!ENTITY responsiveDesignTool.label "Vista de diseñu adaptable">
 <!ENTITY responsiveDesignTool.accesskey "ñ">
 <!ENTITY responsiveDesignTool.commandkey "M">
-<!ENTITY webConsoleButton.label "Consola web">
-
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY emailImageCmd.label "Unviar imaxen…">
@@ -470,3 +475,11 @@
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY socialToolbar.title "Botón de la barra de ferramientes social">
 <!ENTITY social.notLoggedIn.label "Sesión non aniciada">
+<!ENTITY social.ok.label "Aceutar">
+<!ENTITY social.ok.accesskey "A">
+<!ENTITY social.toggleSidebar.label "Amosar barra llateral">
+<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleNotifications.label "Amosar notificaciones d'escritoriu">
+<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.activated.undobutton.label "Desfacer">
+<!ENTITY social.activated.undobutton.accesskey "f">
