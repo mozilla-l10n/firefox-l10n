@@ -226,17 +226,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "تطبيق">
 <!-- Updater notifications -->
 
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "يتوفر تحديث ل‍&brandShortName;&#8230;">
-<!ENTITY updater_start_select "اختر لتنزيل التحديث.">
-
-<!ENTITY updater_downloading_title "تنزيل &brandShortName;">
-<!ENTITY updater_downloading_ticker "ينزّل تحديث &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "فشل تنزيل تحديث &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "اختر لتطبيق التحديث عند اكتماله.">
-<!ENTITY updater_downloading_retry "اختر لإعادة محاولة تنزيل التحديث.">
-<!ENTITY updater_downloading_willapply "ينتظر اكتمال التنزيل.">
-
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "تتو فر تحديثات &brandShortName;&#8230;">
-<!ENTITY updater_apply_select "اختر لتطبيقات التحديثات المُنزّلة.">
+<!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
+<!ENTITY updater_start_select2 "المس لبدء التنزيل">
+ 
+<!ENTITY updater_downloading_title2 "تنزيل &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "فشل التنزيل">
+<!ENTITY updater_downloading_select2 "المس لتطبيق التحديث بمجرد تنزيله">
+<!ENTITY updater_downloading_retry2 "المس لإعادة المحاولة">
+ 
+<!ENTITY updater_apply_title2 "يتوفر تحديث &brandShortName;">
+<!ENTITY updater_apply_select2 "المس للتحديث">
