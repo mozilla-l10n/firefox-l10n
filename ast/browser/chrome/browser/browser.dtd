@@ -75,14 +75,15 @@
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Amestar est<!ENTITY social.ok.label "Aceptar">
-470 <!ENTITY social.ok.accesskey "A">
-471 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
-472 <!ENTITY social.toggleSidebar.accesskey "s">
-473 <!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
-474 <!ENTITY social.toggleNotifications.accesskey "n">
-475 <!ENTITY social.activated.undobutton.label "Deshacer">
-476 <!ENTITY social.activated.undobutton.accesskey "h">a páxina a marcadores">
+<!ENTITY bookmarkThisPageCmd.label "Amestar esta páxina a marcadores">
+<!ENTITY social.ok.label "Aceutar">
+<!ENTITY social.ok.accesskey "A">
+<!ENTITY social.toggleSidebar.label "Amosar barra llateral">
+<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleNotifications.label "Mostrar notificaciones d'escritoriu">
+<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.activated.undobutton.label "Desfacer">
+<!ENTITY social.activated.undobutton.accesskey "f">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Soscribise a esta páxina">
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
