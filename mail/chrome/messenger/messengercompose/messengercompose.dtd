@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "تحرير: (لا موضوع)">
 <!-- File Menu -->
 
-<!ENTITY fileMenu.label "ملف"> 
+<!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
 <!ENTITY newMenu.label "جديد">
 <!ENTITY newMenu.accesskey "ج">
@@ -55,20 +55,20 @@
 <!ENTITY printCmd.accesskey "ط">
 <!-- Edit Menu -->
 
-<!ENTITY editMenu.label "تحرير"> 
+<!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ر"> 
+<!ENTITY undoCmd.accesskey "ر">
 <!ENTITY redoCmd.label "أعِد">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "ع"> 
+<!ENTITY redoCmd.accesskey "ع">
 <!ENTITY cutCmd.label "قص">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ق"> 
+<!ENTITY cutCmd.accesskey "ق">
 <!ENTITY copyCmd.label "انسخ">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "ن"> 
+<!ENTITY copyCmd.accesskey "ن">
 <!ENTITY pasteCmd.label "الصق">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ل">
@@ -83,7 +83,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "غ">
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ك"> 
+<!ENTITY selectAllCmd.accesskey "ك">
 <!ENTITY findCmd.label "ابحث و استبدل…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "ب">
@@ -94,13 +94,13 @@
 <!ENTITY findPrevCmd.label "ابحث عن السابق">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "ع"> 
+<!ENTITY findPrevCmd.accesskey "ع">
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "عرض"> 
+<!ENTITY viewMenu.label "عرض">
 <!ENTITY viewMenu.accesskey "ع">
-<!ENTITY viewToolbarsMenuNew.label "أشرطة الأدوات"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "ش"> 
+<!ENTITY viewToolbarsMenuNew.label "أشرطة الأدوات">
+<!ENTITY viewToolbarsMenuNew.accesskey "ش">
 <!ENTITY menubarCmd.label "شريط القائمة">
 <!ENTITY menubarCmd.accesskey "ئ">
 <!ENTITY showCompositionToolbarCmd.label "شريط أدوات الإنشاء">
@@ -112,8 +112,8 @@
 <!ENTITY customizeToolbar.label "خصّص…">
 <!ENTITY customizeToolbar.accesskey "خ">
 
-<!ENTITY addressSidebar.label "شريط المتراسلون الجانبي"> 
-<!ENTITY addressSidebar.accesskey "م"> 
+<!ENTITY addressSidebar.label "شريط المتراسلون الجانبي">
+<!ENTITY addressSidebar.accesskey "م">
 <!-- Format Menu -->
 
 <!ENTITY formatMenu.label "التنسيق">
@@ -181,13 +181,13 @@
 <!ENTITY preferencesCmd.label "الخيارات…">
 <!ENTITY preferencesCmd.accesskey "خ">
 <!ENTITY preferencesCmdUnix.label       "التفضيلات">
-<!ENTITY preferencesCmdUnix.accesskey   "ف"> 
+<!ENTITY preferencesCmdUnix.accesskey   "ف">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "صغّر">
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
-<!ENTITY zoomWindow.label "قرّب"> 
+<!ENTITY zoomWindow.label "قرّب">
 <!ENTITY windowMenu.label "نافذة">
 <!-- Mail Toolbar -->
 
@@ -199,13 +199,13 @@
 <!ENTITY saveButton.label "احفظ">
 <!-- Mail Toolbar Tooltips -->
 
-<!ENTITY sendButton.tooltip "أرسِل هذه الرسالة الآن"> 
-<!ENTITY sendlaterButton.tooltip "أرسِل هذه الرسالة لاحقًا"> 
-<!ENTITY quoteButton.tooltip "اقتبس الرسالة السابقة"> 
-<!ENTITY addressButton.tooltip "اختر مستلمًا من دفتر العناوين"> 
-<!ENTITY attachButton.tooltip "أرفق مُرفق"> 
+<!ENTITY sendButton.tooltip "أرسِل هذه الرسالة الآن">
+<!ENTITY sendlaterButton.tooltip "أرسِل هذه الرسالة لاحقًا">
+<!ENTITY quoteButton.tooltip "اقتبس الرسالة السابقة">
+<!ENTITY addressButton.tooltip "اختر مستلمًا من دفتر العناوين">
+<!ENTITY attachButton.tooltip "أرفق مُرفق">
 <!ENTITY spellingButton.tooltip "دقق إملاء التحديد أو كامل الرسالة">
-<!ENTITY saveButton.tooltip "احفظ هذه الرسالة"> 
+<!ENTITY saveButton.tooltip "احفظ هذه الرسالة">
 <!ENTITY cutButton.tooltip              "قص">
 <!ENTITY copyButton.tooltip             "انسخ">
 <!ENTITY pasteButton.tooltip            "الصق">
@@ -216,12 +216,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "مِن:">
 <!ENTITY fromAddr.accesskey "م">
-<!ENTITY toAddr.label "إلى:"> 
-<!ENTITY ccAddr.label "ن.ك:"> 
-<!ENTITY bccAddr.label "ن.ك.م:"> 
-<!ENTITY replyAddr.label "رد إلى:"> 
-<!ENTITY newsgroupsAddr.label "مجموعة أخبار:"> 
-<!ENTITY followupAddr.label "تابع إلى:"> 
+<!ENTITY toAddr.label "إلى:">
+<!ENTITY ccAddr.label "ن.ك:">
+<!ENTITY bccAddr.label "ن.ك.م:">
+<!ENTITY replyAddr.label "رد إلى:">
+<!ENTITY newsgroupsAddr.label "مجموعة أخبار:">
+<!ENTITY followupAddr.label "تابع إلى:">
 <!ENTITY subject.label "الموضوع:">
 <!ENTITY subject.accesskey "م">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond

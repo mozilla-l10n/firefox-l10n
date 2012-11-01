@@ -251,34 +251,6 @@
 
 <!ENTITY viewAttachmentsInlineCmd.label "اعرض المرفقات في السّياق">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "ف">
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-
-<!ENTITY fullZoomEnlargeCmd.label       "كبّر">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "ر">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "صغّر">
-<!ENTITY fullZoomReduceCmd.accesskey    "ص">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "أعِد ضبط">
-<!ENTITY fullZoomResetCmd.accesskey     "ط">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "كبّر النص فقط">
-<!ENTITY fullZoomToggleCmd.accesskey    "ص">
-<!ENTITY fullZoom.label                 "كبّر">
-<!ENTITY fullZoom.accesskey             "ك">
 
 <!ENTITY pageSourceCmd.label "مصدر الرسالة">
 <!ENTITY pageSourceCmd.accesskey "ص">
