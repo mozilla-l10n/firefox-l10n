@@ -207,7 +207,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "ৱেব কনচৌল">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
-<!ENTITY remoteWebConsoleCmd.label    "দূৰৱৰ্তী ৱেব কনচৌল">
 
 <!ENTITY inspectMenu.label            "নীৰিক্ষণ কৰক">
 <!ENTITY inspectMenu.accesskey        "T">
