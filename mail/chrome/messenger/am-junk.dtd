@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Klassifizierung">
 <!ENTITY junkActions.label "Speicherplatz">
+
+<!ENTITY globalJunkPrefs.label "Globale Einstellungen…">
+<!ENTITY globalJunkPrefs.accesskey "G">
