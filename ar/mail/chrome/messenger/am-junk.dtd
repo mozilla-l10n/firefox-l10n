@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "التحديد">
 <!ENTITY junkActions.label "الوجهة والاحتفاظ">
+
+<!ENTITY globalJunkPrefs.label "تفضيلات السخام العامة…">
+<!ENTITY globalJunkPrefs.accesskey "س">
