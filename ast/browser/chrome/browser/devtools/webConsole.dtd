@@ -12,3 +12,38 @@
 <!ENTITY networkPanel.responseNoBody "La rempuesta nun tien cuerpu">
 <!ENTITY networkPanel.responseImage "Imaxe recibida">
 <!ENTITY networkPanel.responseImageCached "Imaxe cacheada">
+<!ENTITY window.title "Consola web">
+<!ENTITY saveBodies.label "Rexistrar los cuerpos de solicitúes y rempuestes">
+<!ENTITY saveBodies.accesskey "y">
+<!ENTITY openURL.label "Abrir nuna llingüeta nueva">
+<!ENTITY openURL.accesskey "T">
+<!ENTITY btnPageNet.label "Rede">
+<!ENTITY btnPageNet.tooltip "Rexistrar accesu a la rede">
+<!ENTITY btnPageCSS.label "CSS">
+<!ENTITY btnPageCSS.tooltip "Rexistrar fallos d'análisis nel CSS">
+<!ENTITY btnPageJS.label "JS">
+<!ENTITY btnPageJS.tooltip "Rexistrar esceiciones JavaScript">
+<!ENTITY btnPageLogging.label "Rexistru">
+<!ENTITY btnPageLogging.tooltip "Rexistrar mensaxes unviaos al oxetu window.console">
+<!ENTITY btnConsoleErrors "fallos">
+<!ENTITY btnConsoleInfo "Información">
+<!ENTITY btnConsoleWarnings "Avisos">
+<!ENTITY btnConsoleLog "Rexistru">
+<!ENTITY btnPosition.label "Posición">
+<!ENTITY btnPosition.tooltip "Posicionar la consola web encima o debaxo del documentu">
+<!ENTITY positionMenu.above "Encima">
+<!ENTITY positionMenu.below "Debaxo">
+<!ENTITY positionMenu.window "Ventana">
+<!ENTITY filterBox.placeholder "Filtru">
+<!ENTITY btnClear.label "Llimpiar">
+<!ENTITY btnClear.tooltip "Llimpiar la salida de la consola web">
+<!ENTITY btnClose.tooltip "Zarrar la consola web">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY copyURLCmd.label "Copiar la ruta del enllaz">
+<!ENTITY copyURLCmd.accesskey "r">
