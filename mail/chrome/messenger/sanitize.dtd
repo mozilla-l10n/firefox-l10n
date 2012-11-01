@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizePrefs2.title          "Einstellungen für das Löschen der Chronik">
-<!ENTITY sanitizeDialog2.title         "Neuste Chronik löschen">
+<!ENTITY sanitizeDialog2.title         "Neueste Chronik löschen">
 
 <!ENTITY sanitizeItems.label          "Folgende Daten jetzt löschen:">
 <!ENTITY clearDataSettings2.label     "Wenn &brandShortName; beendet wird, folgende Daten automatisch löschen:">
