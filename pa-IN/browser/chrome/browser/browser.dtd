@@ -217,7 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ਐਲੀਮੈਂਟ ਜਾਂਚ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveDesignTool.label   "ਜਵਾਬਰੇਹ ਡਿਜ਼ਾਇਨ ਝਲਕ">
+<!ENTITY responsiveDesignTool.label   "ਜਵਾਬਦੇਹ ਡਿਜ਼ਾਇਨ ਝਲਕ">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
