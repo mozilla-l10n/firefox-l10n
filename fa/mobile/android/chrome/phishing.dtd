@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.warning.title "مشکوک به جعل وبی">
+
+<!ENTITY safeb.palm.message.p1 "این صفحه به عنوان یک جعل وبی گزارش شده است که به منظور فریب کاربران برای به اشتراک گذاشتن اطلاعات شخصی یا مالی‌شان طراحی شده است. وارد کردن هرگونه اطلاعات شخصی در این صفحه ممکن است منجر به دزدی هویت یا تقلبی دیگر شود. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "خواندن بیشتر &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "خواندن بیشتر &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "این نوع از جعل‌های وبی در کلاه‌برداری‌هایی تحت عنوان حملات فیشینگ استفاده می‌شوند، که در آن صفحات وبی و رایانامه‌های تقلبی استفاده می‌شوند تا منابعی راکه شما ممکن است به آنها اعتماد داشته باشید تقلید کنند. شما می‌توانید اطلاعات بیشتری دربارهٔ اینکه ">
+<!ENTITY safeb.palm.message.p2.linkText "چگونه &brandShortName; از شما در برابر حملات فیشینگ محافظت می‌کند">
+<!ENTITY safeb.palm.message.p2.end "پیدا کنید.">
+
+<!ENTITY safeb.palm.accept.label "مرا از اینجا خارج کن!">
+<!ENTITY safeb.palm.accept.statustext "هدایت به سمت صفحهٔ آغازه">
+<!ENTITY safeb.palm.decline.label "نادیده گرفتن این هشدار">
+<!ENTITY safeb.palm.decline.statustext "بستن هشدار" >
+<!ENTITY safeb.palm.notforgery.label2 "این یک جعل وبی نیست…">
+<!ENTITY safeb.palm.reportPage.label "چرا این صفحه مسدود بود؟">
+
+<!ENTITY safeb.blocked.malwarePage.title "صفحهٔ تهاجمی گزارش شده است!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "این صفحهٔ وبی در آدرس <span id='malware_sitename'/> به عنوان یک صفحهٔ تهاجمی گزارش شده است و بر مبنای ترجیحات امنیتی شما مسدود شده است.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>صفحات تهاجمی تلاش می‌کنند تا برنامه‌هایی را نصب کنند که اطلاعات خصوصی را می‌دزدند، از کامپیوتر شما برای حمله به دیگران استفاده می‌کنند یا به سیستم شما آسیب می‌رسانند.</p><p>.تعدادی از صفحات تهاجمی عمداً نرم‌افزار مخرب توزیع می‌کنند ولی بسیاری بدون آگاهی یا اجازهٔ صاحبان آنها در خطرند</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "مشکوک به جعل وبی!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "وارد کردن هر گونه اطلاعان شخصی در این صفحه ممکن است منجر به دزدی هویت یا تقلبی دیگر شود.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>این نوع از جعل‌های وبی در کلاه‌برداری‌هایی تحت عنوان حملات فیشینگ استفاده می‌شوند، که در آن صفحات وبی و رایانامه‌های تقلبی استفاده می‌شوند تا منابعی راکه شما ممکن است به آنها اعتماد داشته باشید تقلید کنند.</p>">
