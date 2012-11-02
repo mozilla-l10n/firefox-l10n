@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Kişisel sözlük">
+<!ENTITY windowTitle.label "Kişisel Sözlük">
 
 <!ENTITY wordEditField.label "Yeni sözcük:">
 <!ENTITY wordEditField.accessKey "n">

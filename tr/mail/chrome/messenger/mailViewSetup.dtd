@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewSetupTitle.label "İleti görünümü ayarları">
+<!ENTITY mailViewSetupTitle.label "İleti Görünümü Ayarları">
 <!ENTITY mailViewHeading.label "İleti görünümü ismi:">
 <!ENTITY mailViewHeading.accesskey "e">
 <!ENTITY searchTermCaption.label "Bu gösterim seçildiğinde, sadece buna uyan iletileri göster:">

@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Liste özellikleri">
+<!ENTITY windowTitle.label "Liste Özellikleri">
 
 <!ENTITY ListType.label "Liste türü">
 <!ENTITY bulletStyle.label "Madde imi stili:">

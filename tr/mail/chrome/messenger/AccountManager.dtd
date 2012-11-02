@@ -4,7 +4,7 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Hesap ayarları">
+<!ENTITY accountManagerTitle.label "Hesap Ayaları">
 
 <!ENTITY accountActionsButton.label "Hesap işlemleri">
 <!ENTITY accountActionsButton.accesskey "H">

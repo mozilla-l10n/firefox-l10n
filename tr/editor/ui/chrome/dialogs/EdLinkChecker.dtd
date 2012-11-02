@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Resim ve bağlantı konumlarını denetle">
+<!ENTITY windowTitle.label     "Resim ve Bağlantı Konumlarını Denetle">
 <!ENTITY succeeded.label       "Başarılı">
 <!ENTITY failed.label          "Başarısız">
 <!ENTITY closeButton.label     "Kapat">

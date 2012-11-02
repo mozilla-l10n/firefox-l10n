@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "İleti süzgeçleri">
+<!ENTITY window.title "İleti Süzgeçleri">
 <!ENTITY nameColumn.label "Süzgeç ismi">
 <!ENTITY activeColumn.label "Etkin">
 <!ENTITY newButton.label "Yeni…">
@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Sil">
 <!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderTopButton "Üste taşı">
+<!ENTITY reorderTopButton.accessKey "Ü">
+<!ENTITY reorderTopButton.toolTip "Filtreyi diğerlerinden önce çalışacak şekilde yeniden düzenle">
 <!ENTITY reorderUpButton.label "Yukarı taşı">
 <!ENTITY reorderUpButton.accesskey "Y">
 <!ENTITY reorderDownButton.label "Aşağı taşı">
 <!ENTITY reorderDownButton.accesskey "A">
+<!ENTITY reorderBottomButton "Alta taşı">
+<!ENTITY reorderBottomButton.accessKey "A">
+<!ENTITY reorderBottomButton.toolTip "Filtreyi diğerlerinden sonra çalışacak şekilde yeniden düzenle">
 <!ENTITY filterHeader.label "Etkin süzgeçler aşağıdaki sıralamaya göre otomatik olarak çalıştırılır.">
 <!ENTITY filtersForPrefix.label "Süzgeçlenecek hesap:">
 <!ENTITY filtersForPrefix.accesskey "S">
@@ -31,4 +37,8 @@
 <!ENTITY helpButton.label "Yardım">
 <!ENTITY helpButton.accesskey "Y">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Süzgeçleri isme göre ara…">
+
+
+
 

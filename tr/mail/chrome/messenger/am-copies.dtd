@@ -4,7 +4,7 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Kopyalar ve dizinler">
+<!ENTITY copyAndFolderTitle.label "Kopyalar ve Dizinler">
 <!ENTITY sendingPrefix.label "İletileri gönderirken otomatik olarak: ">
 <!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
 <!ENTITY fccMailFolder.accesskey "p">

@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Tabloya dönüştür">
+<!ENTITY windowTitle.label "Tabloya Dönüştür">
 <!ENTITY instructions1.label   "Düzenleyici, seçimdeki her bir paragraf için yeni bir tablo satırı oluşturur.">
 <!ENTITY instructions2.label   "Seçimi sütunlara ayırmak için kullanılacak karakteri seçin:">
 <!ENTITY commaRadio.label      "Virgül">

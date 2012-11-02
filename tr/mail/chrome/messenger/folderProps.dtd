@@ -65,3 +65,10 @@
 <!ENTITY folderQuotaUsage.label                  "Kullanım:">
 <!ENTITY folderQuotaStatus.label                 "Durum:">
 
+<!ENTITY numberOfMessages.label                  "İleti sayısı:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "bilinmiyor">
+<!ENTITY sizeOnDisk.label                        "Diskteki boyut:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "bilinmiyor">
+

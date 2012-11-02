@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "İleti yaz: (başlıksız)">
+<!ENTITY msgComposeWindow.title "Yaz: (konu yok)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Dosya"> 
+<!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Yeni">
 <!ENTITY newMenu.accesskey "n">
@@ -55,20 +55,20 @@
 <!ENTITY printCmd.accesskey "r">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Düzenle"> 
+<!ENTITY editMenu.label "Düzenle">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Geri al">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "G"> 
+<!ENTITY undoCmd.accesskey "G">
 <!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "Y"> 
+<!ENTITY redoCmd.accesskey "Y">
 <!ENTITY cutCmd.label "Kes">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K"> 
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K"> 
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
@@ -83,7 +83,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "s">
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "e"> 
+<!ENTITY selectAllCmd.accesskey "e">
 <!ENTITY findCmd.label "Bul ve değiştir…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "B">
@@ -94,13 +94,13 @@
 <!ENTITY findPrevCmd.label "Öncekini bul">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "n"> 
+<!ENTITY findPrevCmd.accesskey "n">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Görünüm"> 
+<!ENTITY viewMenu.label "Görünüm">
 <!ENTITY viewMenu.accesskey "G">
-<!ENTITY viewToolbarsMenuNew.label "Araç çubukları"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "b"> 
+<!ENTITY viewToolbarsMenuNew.label "Araç çubukları">
+<!ENTITY viewToolbarsMenuNew.accesskey "b">
 <!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Düzenleme araç çubuğu">
@@ -112,8 +112,8 @@
 <!ENTITY customizeToolbar.label "Özelleştir…">
 <!ENTITY customizeToolbar.accesskey "l">
 
-<!ENTITY addressSidebar.label "Kişiler kenar çubuğu"> 
-<!ENTITY addressSidebar.accesskey "s"> 
+<!ENTITY addressSidebar.label "Kişiler kenar çubuğu">
+<!ENTITY addressSidebar.accesskey "s">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Biçim">
@@ -181,13 +181,13 @@
 <!ENTITY preferencesCmd.label "Seçenekler…">
 <!ENTITY preferencesCmd.accesskey "e">
 <!ENTITY preferencesCmdUnix.label       "Tercihler">
-<!ENTITY preferencesCmdUnix.accesskey   "c"> 
+<!ENTITY preferencesCmdUnix.accesskey   "c">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
 <!ENTITY bringAllToFront.label "Ön plana getir">
-<!ENTITY zoomWindow.label "Yakınlaştır"> 
+<!ENTITY zoomWindow.label "Yakınlaştır">
 <!ENTITY windowMenu.label "Pencere">
 
 <!-- Mail Toolbar -->
@@ -199,13 +199,13 @@
 <!ENTITY saveButton.label "Kaydet">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Bu iletiyi şimdi gönder"> 
-<!ENTITY sendlaterButton.tooltip "Bu iletiyi daha sonra gönder"> 
-<!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap"> 
-<!ENTITY addressButton.tooltip "Adres defterinden alıcı seç"> 
-<!ENTITY attachButton.tooltip "Dosya ekle"> 
+<!ENTITY sendButton.tooltip "Bu iletiyi şimdi gönder">
+<!ENTITY sendlaterButton.tooltip "Bu iletiyi daha sonra gönder">
+<!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap">
+<!ENTITY addressButton.tooltip "Adres defterinden alıcı seç">
+<!ENTITY attachButton.tooltip "Dosya ekle">
 <!ENTITY spellingButton.tooltip "Seçimin veya tüm iletinin imla denetimini yapar">
-<!ENTITY saveButton.tooltip "Bu iletiyi kaydet"> 
+<!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
 <!ENTITY cutButton.tooltip              "Kes">
 <!ENTITY copyButton.tooltip             "Kopyala">
 <!ENTITY pasteButton.tooltip            "Yapıştır">
@@ -216,12 +216,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Gönderen:">
 <!ENTITY fromAddr.accesskey "G">
-<!ENTITY toAddr.label "Kime:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "Yanıt adresi:"> 
-<!ENTITY newsgroupsAddr.label "Haber grubu:"> 
-<!ENTITY followupAddr.label "Takip adresi:"> 
+<!ENTITY toAddr.label "Kime:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Yanıt adresi:">
+<!ENTITY newsgroupsAddr.label "Haber grubu:">
+<!ENTITY followupAddr.label "Takip adresi:">
 <!ENTITY subject.label "Konu:">
 <!ENTITY subject.accesskey "K">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
