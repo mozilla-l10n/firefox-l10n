@@ -5,7 +5,7 @@
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Resim özellikleri">
+<!ENTITY windowTitle.label "Resim Özellikleri">
 
 <!ENTITY pixelsPopup.value "piksel">
 

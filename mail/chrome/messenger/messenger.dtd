@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "M">
 <!ENTITY newIMAccountCmd.label "Sohbet hesabı…">
 <!ENTITY newIMAccountCmd.accesskey "o">
+<!ENTITY newIMContactCmd.label "Sohbet Kişisi…">
+<!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Kaydedilmiş iletiyi aç…">
 <!ENTITY openMessageFileCmd.accesskey "d">
 <!ENTITY openAttachmentCmd.label "Ekler">
@@ -250,33 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Ekleri gövde içinde göster">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "k">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Yakınlaştır">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "B">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Uzaklaştır">
-<!ENTITY fullZoomReduceCmd.accesskey    "K">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Sıfırla">
-<!ENTITY fullZoomResetCmd.accesskey     "S">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Sadece metni yakınlaştır">
-<!ENTITY fullZoomToggleCmd.accesskey    "m">
-<!ENTITY fullZoom.label                 "Yakınlaştır">
-<!ENTITY fullZoom.accesskey             "Y">
-
 <!ENTITY pageSourceCmd.label "İleti kaynağı">
 <!ENTITY pageSourceCmd.accesskey "l">
 <!ENTITY pageSourceCmd.key "u">
@@ -483,6 +458,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Müsait değil">
 <!ENTITY imStatus.offline            "Çevrim dıșı">
 <!ENTITY imStatus.showAccounts       "Hesapları göster…">
+<!ENTITY joinChatCmd.label "Sohbete katıl…">
+<!ENTITY joinChatCmd.accesskey "k">
 <!ENTITY savedFiles.label "Kaydedilmiş dosyalar">
 <!ENTITY savedFiles.accesskey "y">
 <!ENTITY savedFiles.key "j">
@@ -503,6 +480,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Yakın geçmişi temizle…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Hesap ayarları…">
 <!ENTITY accountManagerCmd.accesskey "H">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -544,6 +523,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Dizin konumu">
 <!ENTITY tagButton.label "Etiketle">
 <!ENTITY compactButton.label "Sıkıştır">
+<!ENTITY appmenuButton.label "Uygulama Menüsü">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Gelişmiş ileti arama">
@@ -574,10 +554,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Sohbet sekmesini göster">
 <!ENTITY tagButton.tooltip "İletileri etiketle">
 <!ENTITY compactButton.tooltip "Seçilen dizinden silinmiş iletileri kaldır">
+<!ENTITY appmenuButton.tooltip "Uygulama menüsünü gösterir">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Yeni ileti">
+<!ENTITY appmenuNewContactCmd.label "Adres defteri kişisi…">
+<!ENTITY appmenuEditMenu.label "Düzenle">
+<!ENTITY appmenuQFBMenu.label "Hızlı süzgeç çubuğu">
+<!ENTITY appmenuToolbarLayout.label "Araç çubuğu düzeni…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Yeni etiket…">
 <!ENTITY addNewTag.accesskey "n">
+<!ENTITY manageTags.label "Etiketleri yönet…">
+<!ENTITY manageTags.accesskey "E">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "İsim">
@@ -778,7 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "e">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Gereksiz">
+<!ENTITY junkBarMessage2.label "&brandShortName; bu iletinin gereksiz posta olduğunu düşünüyor.">
 <!ENTITY junkBarButton1.label "Gereksiz değil">
 <!ENTITY junkInfoButton.label "?">
 

@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Kompozisyon ve hitap">
+<!ENTITY addressing.label          "Kompozisyon ve Hitap">
 <!ENTITY addressingGroupTitle.label "Adresler">
 <!ENTITY addressingText.label      "Adreslere bakılırken:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Kompozisyon">
+<!ENTITY compositionGroupTitle.label          "Kompozisyon">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "İletileri HTML biçiminde yaz">
 <!ENTITY useHtml.accesskey                    "H">
@@ -39,4 +39,10 @@
 <!ENTITY includeSigOnReply.accesskey          "i">
 <!ENTITY includeSigOnForward.label            "İletilenlere imza ekle">
 <!ENTITY includeSigOnForward.accesskey        "z">
+
+<!ENTITY globalComposingPrefs.label           "Genel kompozisyon tercihleri…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Genel adres tercihleri…">
+<!ENTITY globalAddressingPrefs.accesskey      "d">
 

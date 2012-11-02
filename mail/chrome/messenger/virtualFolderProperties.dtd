@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY virtualFolderProperties.title "Yeni kayıtlı arama dizini">
+<!ENTITY virtualFolderProperties.title "Yeni Kayıtlı Arama Dizini">
 <!ENTITY name.label                 "İsim:">
 <!ENTITY name.accesskey             "s">
 <!ENTITY description.label          "Buranın alt dizini olarak oluştur:">

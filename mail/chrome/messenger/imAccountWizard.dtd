@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label            "Sohbet Hesabı Sihirbazı">
 
 <!ENTITY accountProtocolTitle.label   "Sohbet ağı">
-<!ENTITY accountProtocolInfo.label    "Sohbet lütfen hesabınızın ağını seçin.">
+<!ENTITY accountProtocolInfo.label    "Lütfen sohbet hesabınızın ağını seçin.">
 <!ENTITY accountProtocolField.label   "Ağ:">
 <!ENTITY accountProtocolGetMore.label "Daha fazlasını edin…">
 
