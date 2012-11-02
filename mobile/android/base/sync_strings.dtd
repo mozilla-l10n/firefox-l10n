@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\u0027i kur”u seçin.'>
-<!ENTITY sync.subtitle.header.label 'Bilgisayarınıza bu kodu girin'>
-<!ENTITY sync.subtitle.connectlocation.label 'Masaüstü Firefox seçeneklerinizin &syncBrand.shortName.label; bölümünden “&sync.title.pair.label;” seçeneğini seçin.'>
+<!ENTITY sync.subtitle.header2.label 'Bu kodu diğer aygıtınıza girin'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label 'Etkinleştirmek için, diğer aygıtınızdan “Aygıt eşleştir”i seçin.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
