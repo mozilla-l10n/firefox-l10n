@@ -205,17 +205,14 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY webapp_generic_name "앱">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; - 새로 나온 업데이트">
-<!ENTITY updater_start_select "업데이트를 다운로드합니다.">
+<!ENTITY updater_start_title2 "&brandShortName; 업데이트 가능">
+<!ENTITY updater_start_select2 "다운로드 하기">
 
-<!ENTITY updater_downloading_title "&brandShortName; 다운로드 중">
-<!ENTITY updater_downloading_ticker "&brandShortName; 업데이트 다운로드 중…">
-<!ENTITY updater_downloading_ticker_failed "&brandShortName; 업데이트 다운로드를 실패했습니다...">
-<!ENTITY updater_downloading_select "다운로드 완료시 업데이트를 적용합니다.">
-<!ENTITY updater_downloading_retry "업데이트를 다시 다운로드합니다.">
-<!ENTITY updater_downloading_willapply "다운로드 완료를 기다리고 있습니다.">
+<!ENTITY updater_downloading_title2 "&brandShortName; 다운로드 중">
+<!ENTITY updater_downloading_title_failed2 "다운로드 실패">
+<!ENTITY updater_downloading_select2 "다운로드된 업데이트 적용">
+<!ENTITY updater_downloading_retry2 "재시도">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; 업데이트">
-<!ENTITY updater_apply_select "다운로드한 업데이트를 적용합니다.">
+<!ENTITY updater_apply_title2 "&brandShortName;의 업데이트 있음">
+<!ENTITY updater_apply_select2 "업데이트">
+
