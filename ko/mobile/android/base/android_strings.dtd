@@ -78,7 +78,6 @@
 <!ENTITY pref_plugins_tap_to_play "탭으로 실행">
 <!ENTITY pref_plugins_disabled "사용 안함">
 <!ENTITY pref_text_size "글자 크기">
-<!ENTITY pref_reflow_on_zoom "Reflow-On-Zoom 사용">
 <!ENTITY pref_font_size_tiny "매우 작게">
 <!ENTITY pref_font_size_small "작게">
 <!ENTITY pref_font_size_medium "중간">
@@ -220,9 +219,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY searchable_description "북마크 및 방문 기록">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; - 새로 나온 업데이트">
-<!ENTITY updater_start_select "업데이트를 다운로드합니다.">
+<!ENTITY updater_start_title2 "&brandShortName; 업데이트 가능">
+<!ENTITY updater_start_select2 "다운로드 하기">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; 다운로드 중">
 <!ENTITY updater_downloading_title_failed2 "다운로드 실패">

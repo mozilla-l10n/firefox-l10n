@@ -15,7 +15,7 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label '새로운 기기를 사용하기 위해 [&syncBrand.shortName.label; 설정]을 선택해 주십시오.'>
-<!ENTITY sync.subtitle.header.label '이 코드를 다른 기기에서 입력해 주십시오.'>
+<!ENTITY sync.subtitle.header2.label '아래의 코드를 다른 기기에 입력하세요'>
 <!ENTITY sync.subtitle.connectlocation2.label '다른 기기의 Firefox 설정 중 &syncBrand.shortName.label;으로부터, [&sync.title.pair.label;]를 선택해 주십시오.'>
 <!ENTITY sync.subtitle.pair.label '유효화를 위해 다른 기기상에서 [기기와 연결하기]를 선택해 주십시오.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
