@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Önemli siteler">
 <!ENTITY  awesomebar_bookmarks_title "Yer imleri">
 <!ENTITY  awesomebar_history_title "Geçmiş">
-<!ENTITY  awesomebar_search_engine "\&quot;&#037;s\&quot; dizgisini ara">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Çöküş Bildirici">
 <!ENTITY  crash_message "&brandShortName; çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenmeli.">
@@ -100,6 +99,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Hızlı turuncu tilki daha fazla hız, esneklik ve güvenlikle beklentilerinizin üstünden atlar. Kâr amacı gütmeyen bir organizasyon olarak, üzerimizde baskı kuracak hiçbir güç olmadan, sizin adınıza yenilikler yapmakta özgürüz. Bu, sizin için daha iyi bir deneyim, Web için daha parlak bir gelecek demek.">
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
+<!ENTITY pref_show_product_announcements "Ürün duyurularını göster">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
 <!ENTITY pref_import_android "Android\'den al">
@@ -124,6 +124,7 @@ size. -->
 <!ENTITY save_as_pdf "PDF olarak kaydet">
 <!ENTITY find_in_page "Sayfada bul">
 <!ENTITY desktop_mode "Masaüstü sitesini iste">
+<!ENTITY tools "Araçlar">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -133,6 +134,7 @@ size. -->
 <!ENTITY find_close "Kapat">
 
 <!ENTITY contextmenu_open_new_tab "Yeni sekmede aç">
+<!ENTITY contextmenu_open_in_reader "Okuyucuda aç">
 <!ENTITY contextmenu_remove_history "Kaldır">
 <!ENTITY contextmenu_remove_bookmark "Kaldır">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana ekle">
@@ -160,7 +162,7 @@ size. -->
 <!ENTITY reading_list_added "Sayfa, okuma listenize eklendi">
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
 <!ENTITY reading_list_failed "Sayfa, Okuma Listenize eklenemedi">
-<!ENTITY reader_mode "Okuyucu kipi">
+<!ENTITY reader "Okuyucu">
 
 <!ENTITY masterpassword_create_title "Ana parola oluştur">
 <!ENTITY masterpassword_remove_title "Ana parolayı kaldır">
@@ -169,9 +171,13 @@ size. -->
 
 <!ENTITY button_ok "Tamam">
 <!ENTITY button_cancel "İptal">
+<!ENTITY button_yes "Evet">
+<!ENTITY button_no "Hayır">
 <!ENTITY button_clear_data "Verileri temizle">
+<!ENTITY button_set "Ayarla">
+<!ENTITY button_clear "Temizle">
 
-<!ENTITY abouthome_addons_title "&brandShortName; için ekletiler">
+<!ENTITY abouthome_addons_title "&brandShortName; için eklentiler">
 <!ENTITY abouthome_addons_browse "Tüm &brandShortName; eklentilerine göz at">
 <!ENTITY abouthome_last_tabs_title "Son oturumunuzdaki sekmeler">
 <!ENTITY abouthome_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
@@ -183,13 +189,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Diğer aygıtlarınızdan yer imlerinize, geçmişinize ve sekmelerinize erişmek için Firefox Sync\'i kurun&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Mozilla Marketplace\'ten yeni uygulamalar edinerek Web\'in sunduğu en iyi şeyleri keşfedin&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Firefox Marketplace\&apos;ten yeni uygulamalar edinin, Web\&apos;in sunduklarını keşfedin&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Dosya seç">
 <!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
@@ -220,21 +226,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Android\'den geçmiş alınıyor">
 <!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
 
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+<!ENTITY suggestions_prompt "&#037;s arama önerilerini açmak ister misiniz?">
+
 <!ENTITY webapp_generic_name "Uygulama">
 
-<!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; güncellemesi mevcut&#8230;">
-<!ENTITY updater_start_select "Güncellemeyi indirmek için seçin.">
+<!ENTITY searchable_description "Yer imleri ve geçmiş">
 
-<!ENTITY updater_downloading_title "&brandShortName; indiriliyor">
-<!ENTITY updater_downloading_ticker "&brandShortName; güncellemesi indiriliyor&#8230;">
-<!ENTITY updater_downloading_ticker_failed "&brandShortName; güncellemesi indirilemedi&#8230;">
-<!ENTITY updater_downloading_select "Tamamlandığında güncellemeyi uygulamak için seçin.">
-<!ENTITY updater_downloading_retry "Güncellemeyi yeniden indirmek için seçin.">
-<!ENTITY updater_downloading_willapply "İndirmenin tamamlanması bekleniyor.">
-
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; güncellemesi mevcut&#8230;">
-<!ENTITY updater_apply_select "İndirilen güncellemeyi uygulamak için seçin.">
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "&brandShortName; için güncelleme mevcut">
+<!ENTITY updater_start_select2 "İndirmek için dokunun">
+ 
+<!ENTITY updater_downloading_title2 "&brandShortName; indiriliyor">
+<!ENTITY updater_downloading_title_failed2 "İndirme başarısız oldu">
+<!ENTITY updater_downloading_select2 "İndirildiğinde güncellemeyi uygulamak için dokunun">
+<!ENTITY updater_downloading_retry2 "Yeniden denemek için dokunun">
+ 
+<!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
+<!ENTITY updater_apply_select2 "Güncellemek için dokunun">
 

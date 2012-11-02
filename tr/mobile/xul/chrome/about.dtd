@@ -1,4 +1,7 @@
-<!ENTITY aboutPage.title                        "&brandShortName; hakkında">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "&brandShortName; Hakkında">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; deneyseldir ve kararsız olabilir.">
 <!ENTITY aboutPage.telemetryStart               " Performans, donanım, kullanım ve özeleştirme ile ilgili bazı bilgiler otomatik olarak ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
