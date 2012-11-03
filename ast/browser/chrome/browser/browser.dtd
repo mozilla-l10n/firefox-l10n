@@ -8,10 +8,9 @@
 <!ENTITY reloadAllTabs.accesskey "R">
 <!ENTITY closeOtherTabs.label "Zarrar les demás llingüetes">
 <!ENTITY closeOtherTabs.accesskey "Z">
-<!ENTITY pinAppTab.label "Fixar llingüeta">
-<!ENTITY pinAppTab.accesskey "g">
-<!ENTITY unpinAppTab.label "Desfixar llingüeta">
-<!ENTITY unpinAppTab.accesskey "x">
+
+
+
 <!ENTITY moveToGroup.label "Mover al grupu">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Grupu nuevu">
@@ -425,7 +424,7 @@
 <!ENTITY downloadMonitor2.tooltip "Clic p'abrir la ventana de descargues">
 <!ENTITY allTabs.filter.emptyText "Guetar llingüetes">
 <!ENTITY tabsToolbar.label "Llingüetes del restolador">
-<!ENTITY syncTabsMenu.label "Llingüetes d'otros equipos">
+
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "f">
@@ -448,18 +447,14 @@
 <!ENTITY fullscreenExitButton.label "Refugar">
 <!ENTITY fullscreenApproval.value "¿Permitir pantalla completa?">
 <!ENTITY fullscreenExitHint.value "Calca ESC en cualquier momentu pa colar de la pantalla completa.">
-<!ENTITY inspectOptionButton.tooltiptext "Opciones del inspector">
-<!ENTITY inspectorButton.label "Inspeicionar">
-<!ENTITY inspectorToggleInfobar.label "Amosar información del nodu">
-<!ENTITY inspectorToggleInfobar.accesskey "S">
-<!ENTITY inspectorToggleVeil.label "Amatagar la páxina">
-<!ENTITY inspectorToggleVeil.accesskey "A">
+
+
 <!ENTITY leaveDOMFullScreen.label "Colar de la pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "p">
 <!ENTITY responsiveDesignTool.label "Vista de diseñu adaptable">
 <!ENTITY responsiveDesignTool.accesskey "ñ">
 <!ENTITY responsiveDesignTool.commandkey "M">
-<!ENTITY webConsoleButton.label "Consola web">
+
 <!ENTITY emailImageCmd.label "Unviar imaxen…">
 <!ENTITY emailImageCmd.accesskey "a">
 <!ENTITY emailVideoCmd.label "Unviar videu…">
@@ -477,11 +472,17 @@
 <!ENTITY social.notLoggedIn.label "Sesión non aniciada">
 <!ENTITY social.ok.label "Aceutar">
 <!ENTITY social.ok.accesskey "A">
-<!ENTITY social.sharePopup.undo.label "Dexar de compartir">
-<!ENTITY social.sharePopup.undo.accesskey "x">
-<!ENTITY social.sharePopup.shared.label "Compartióse esta páxina.">
-<!ENTITY social.sharePopup.portrait.arialabel "Imaxe de perfil d'usuariu">
 <!ENTITY social.toggleSidebar.label "Amosar barra llateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
-<!ENTITY social.activated.button.label "¡Eeepa! desfacer">
-<!ENTITY social.activated.button.accesskey "e">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Zarrar panel llateral">
+<!ENTITY newPrivateWindow.label "Nueva ventana privada">
+<!ENTITY newPrivateWindow.accesskey "P">
+<!ENTITY pinTab.label "Fixar llingüeta">
+<!ENTITY pinTab.accesskey "F">
+<!ENTITY social.activated.undobutton.label "Desfacer">
+<!ENTITY social.activated.undobutton.accesskey "f">
+<!ENTITY social.toggleNotifications.label "Amosar notificaciones d'escritoriu">
+<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY syncTabsMenu2.label "Llingüetes d'otros preseos">
+<!ENTITY unpinTab.label "Desaniciar llingüeta fixada">
+<!ENTITY unpinTab.accesskey "x">
