@@ -35,14 +35,20 @@
   -  the button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip "Pechar">
 
+<!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
+  -  the button that opens up an options context menu for the debugger UI. -->
+<!ENTITY debuggerUI.optsButton.tooltip  "Opcións do depurador">
+
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions     "Pausar nas excepcións">
+<!ENTITY debuggerUI.pauseExceptions.key "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showNonEnums): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. -->
 <!ENTITY debuggerUI.showNonEnums        "Amosar as propiedades agochadas">
+<!ENTITY debuggerUI.showNonEnums.key    "p">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
