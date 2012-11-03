@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "Informe de erros desactivado.">
 <!ENTITY report.failed                                       "Produciuse un fallo no envío.">
 <!ENTITY report.unavailable                                  "Ningún informe dispoñíbel.">
+
+<!ENTITY plugin.file                                         "Ficheiro">
+<!ENTITY plugin.mimeTypes                                    "Tipos MIME">
