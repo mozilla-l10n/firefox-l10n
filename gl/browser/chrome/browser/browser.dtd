@@ -646,3 +646,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Desfacer">
 <!ENTITY social.activated.undobutton.accesskey "D">
+
+<!ENTITY social.chatBar.commandkey "c">
