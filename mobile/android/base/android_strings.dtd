@@ -81,7 +81,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tryk for at afspille">
 <!ENTITY pref_plugins_disabled "Deaktiveret">
 <!ENTITY pref_text_size "Tekststørrelse">
-<!ENTITY pref_reflow_on_zoom "Aktiver ombrydning ved zoom">
 <!ENTITY pref_font_size_tiny "Ekstra lille">
 <!ENTITY pref_font_size_small "Lille">
 <!ENTITY pref_font_size_medium "Mellem">
