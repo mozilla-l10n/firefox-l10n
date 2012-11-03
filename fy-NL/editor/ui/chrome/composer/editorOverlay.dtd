@@ -71,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Lytser">
 <!ENTITY decreaseFontSize.accesskey "L">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Grutter">
 <!ENTITY increaseFontSize.accesskey "u">
 <!ENTITY increaseFontSize.key "+">
