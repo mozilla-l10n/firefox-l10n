@@ -39,10 +39,6 @@
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions          "Pausearje by útsûnderingen">
 
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton): This is the label for the
-  -  button that steps over a function call. -->
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Oerslaan">
-
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle    "Operators">
