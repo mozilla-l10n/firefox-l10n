@@ -486,3 +486,5 @@
 <!ENTITY syncTabsMenu2.label "Llingüetes d'otros preseos">
 <!ENTITY unpinTab.label "Desaniciar llingüeta fixada">
 <!ENTITY unpinTab.accesskey "x">
+<!ENTITY remoteWebConsoleCmd.label    "Consola web remota">
+<!ENTITY social.chatBar.commandkey "c">
