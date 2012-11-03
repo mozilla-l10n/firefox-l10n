@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Diuzad">
 <!ENTITY junkActions.label "Arvoned ha derc'hel">
+
+<!ENTITY globalJunkPrefs.label "Gwellvezioù lastez hollek…">
+<!ENTITY globalJunkPrefs.accesskey "G">

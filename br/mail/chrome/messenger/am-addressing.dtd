@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Ouzhpennañ ar sinadur evit ar c'hemennadennoù treuzkaset">
 <!ENTITY includeSigOnForward.accesskey        "a">
+
+<!ENTITY globalComposingPrefs.label           "Gwellvezioù skridaozañ hollek…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Gwellvezioù chomlec'hiañ hollek…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
