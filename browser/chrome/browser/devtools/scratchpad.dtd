@@ -77,3 +77,6 @@
 <!ENTITY helpMenuWin.accesskey "y">
 <!ENTITY documentationLink.label "Ayuda de borrador en MDN">
 <!ENTITY documentationLink.accesskey "D">
+<!ENTITY reloadAndRun.label "Recargar y executar">
+<!ENTITY reloadAndRun.accesskey "E">
+<!ENTITY reloadAndRun.key "r">
