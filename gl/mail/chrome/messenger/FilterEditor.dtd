@@ -20,7 +20,7 @@
 <!ENTITY contextIncomingMail.label "se reciba o correo novo:">
 <!ENTITY contextIncomingMail.accesskey "b">
 <!ENTITY contextManual.label "se execute manualmente">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "x">
 <!ENTITY contextBeforeCls.label "Filtrar antes de identificar o correo lixo">
 <!ENTITY contextAfterCls.label "Filtrar despois de identificar o correo lixo">
 
