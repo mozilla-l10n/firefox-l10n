@@ -70,12 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "Choose a font size">
 <!ENTITY decreaseFontSize.label "Smaller">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key "&lt;">
+<!-- < is above this key on many keyboards -->
+<!ENTITY decreaseFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Larger">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY increaseFontSize.key "&gt;">
+<!-- > is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Size">
 <!ENTITY fontSizeMenu.accesskey "z">

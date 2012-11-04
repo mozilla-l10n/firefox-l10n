@@ -22,16 +22,16 @@
 <!ENTITY  reloadAllTabs.accesskey            "T">
 <!ENTITY  closeOtherTabs.label               "Zarrar a resta de pestanyas">
 <!ENTITY  closeOtherTabs.accesskey           "Z">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Clavar como pestanya d'aplicación">
-<!ENTITY  pinAppTab.accesskey                "n">
-<!ENTITY  unpinAppTab.label                  "Desclavar a pestanya">
-<!ENTITY  unpinAppTab.accesskey              "D">
+<!ENTITY  pinTab.label                       "Clavar a pestanya">
+<!ENTITY  pinTab.accesskey                   "C">
+<!ENTITY  unpinTab.label                     "Desclavar a pestanya">
+<!ENTITY  unpinTab.accesskey                 "D">
 <!ENTITY  moveToGroup.label                  "Mover ta o grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Nuevo grupo">
@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspeccionar">
-<!ENTITY inspectMenu.accesskey        "r">
+<!ENTITY inspectMenu.accesskey        "o">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Zarrar l'Inspector">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Zarrar a barra lateral">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zarrar a barra ta desembolicadors">
 <!ENTITY devToolbarMenu.label              "Barra de desembolicadors">
@@ -242,9 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Mas ferramientas">
-
-<!ENTITY webConsoleButton.label "Consola web">
-<!ENTITY inspectorButton.label "Inspector">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML Interior">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -449,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Alzar l'audio como...">
 <!ENTITY saveAudioCmd.accesskey       "a">
-<!ENTITY emailImageCmd.label          "Ninviar a imachen por correu…">
+<!ENTITY emailImageCmd.label          "Ninvía la imachen por correu...">
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Ninviar o video por correu…">
 <!ENTITY emailVideoCmd.accesskey      "a">
@@ -621,9 +619,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Pestanyas d'o navegador">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "Pestanyas d'atros ordinadors">
+<!ENTITY syncTabsMenu2.label     "Pestanyas dende atros dispositivos">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -647,22 +645,15 @@ toolbar button -->
 
 <!ENTITY socialToolbar.title        "Botón d'a barra de ferramientas social">
 <!ENTITY social.notLoggedIn.label   "No ha iniciau sesión">
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 
 <!ENTITY social.ok.label       "Acceptar">
 <!ENTITY social.ok.accesskey   "c">
 
-<!ENTITY social.sharePopup.undo.label     "Deixar de compartir">
-<!ENTITY social.sharePopup.undo.accesskey "x">
-<!ENTITY social.sharePopup.shared.label   "Ha compartiu ista pachina.">
-<!ENTITY social.sharePopup.portrait.arialabel "Fotografía d'o perfil d'usuario">
-
 <!ENTITY social.toggleSidebar.label "Amostrar a barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "A">
+
+<!ENTITY social.toggleNotifications.label "Amostrar as notificacions d'escritorio">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Desfer">
 <!ENTITY social.activated.undobutton.accesskey "D">

@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "Servicio de busca de plugins">
 <!ENTITY pluginWizard.firstPage.title                        "Bienplegau en o &pluginWizard.title;">
 
@@ -33,8 +36,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Toca aquí ta activar o connector">
 <!ENTITY clickToPlayPlugin                                   "Faiga click aquí ta activar o complemento.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Faiga clic aquí ta activar o plugin vulnerable">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Faiga clic aquí ta activar o plugin vulnerable (no i hai garra actualización disponible).">
 <!ENTITY checkForUpdates                                     "Mirar actualizacions...">
 <!ENTITY disabledPlugin                                      "S'ha desactivau iste plugin.">
 <!ENTITY blockedPlugin.label                                 "S'ha bloquiau iste plugin t'a suya protección.">

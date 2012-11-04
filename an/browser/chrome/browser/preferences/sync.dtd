@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "C">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label       "Nombre de l'equipo:">
-<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY syncDeviceName.label       "Nombre d'o dispositivo:">
+<!ENTITY syncDeviceName.accesskey   "m">
 <!ENTITY unlinkDevice.label           "Desvincular iste dispositivo">
 <!-- Footer stuff -->
 
