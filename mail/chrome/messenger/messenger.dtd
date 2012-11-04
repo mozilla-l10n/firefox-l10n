@@ -24,7 +24,7 @@
      window.
      -->
 <!ENTITY moveToNewWindow.label "Mover a unha nova xanela">
-<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY moveToNewWindow.accesskey "h">
 <!ENTITY newVirtualFolderCmd.label "Busca gardada…">
 <!ENTITY newVirtualFolderCmd.accesskey "B">
 <!ENTITY newOtherAccountsCmd.label "Outras contas…">
