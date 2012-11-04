@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "Xeral">
 <!ENTITY itemDisplay.label       "Lectura e visualización">
 <!ENTITY itemUpdate.label        "Actualizar">
@@ -19,12 +23,12 @@
 <!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "Integración co sistema">
-<!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador predefinido no inicio">
+<!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador predeterminado no inicio">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; busque nas mensaxes">
 <!ENTITY searchIntegration.accesskey   "P">
-<!ENTITY checkNow.label                "Comprobar agora">
-<!ENTITY checkNow.accesskey            "C">
+<!ENTITY checkDefaultsNow.label        "Comprobar agora…">
+<!ENTITY checkDefaultsNow.accesskey    "C">
 <!ENTITY configEditDesc.label          "Configuración avanzada">
 <!ENTITY configEdit.label              "Editor de configuración…">
 <!ENTITY configEdit.accesskey          "n">
@@ -35,17 +39,17 @@
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Lectura">
 <!ENTITY display.caption               "Visualización">
-<!ENTITY showCondensedAddresses.label  "Mostrar só o nome das persoas da miña axenda de enderezos">
+<!ENTITY showCondensedAddresses.label  "Amosar só o nome das persoas da miña axenda de enderezos">
 <!ENTITY showCondensedAddresses.accesskey "d">
 
 <!ENTITY autoMarkAsRead.label          "Marcar as mensaxes como lidas automaticamente">
 <!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Inmediatamente ao mostralas">
+<!ENTITY markAsReadNoDelay.label       "Inmediatamente ao amosalas">
 <!ENTITY markAsReadNoDelay.accesskey   "I">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Despois de mostralas durante">
+<!ENTITY markAsReadDelay.label         "Despois de amosalas durante">
 <!ENTITY markAsReadDelay.accesskey     "D">
 <!ENTITY secondsLabel.label            "segundos">
 <!ENTITY openMsgIn.label               "Abrir mensaxes:">
@@ -71,7 +75,7 @@
 <!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "Avisarme se supón a desactivación dalgún complemento">
 <!ENTITY modeAutoAddonWarn.accesskey    "g">
-<!ENTITY showUpdates.label              "Mostrar o historial de actualizacións">
+<!ENTITY showUpdates.label              "Amosar o historial de actualizacións">
 <!ENTITY showUpdates.accesskey          "s">
 
 <!ENTITY useService.label                "Usar un servizo en segundo plano para instalar as actualizacións">
