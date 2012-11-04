@@ -219,17 +219,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "App">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName;-Update verfügbar&#8230;">
-<!ENTITY updater_start_select "&brandShortName; herunterladen">
+<!ENTITY updater_start_title2 "Update für &brandShortName; verfügbar">
+<!ENTITY updater_start_select2 "Zum Herunterladen antippen">
 
-<!ENTITY updater_downloading_title "Lädt &brandShortName; herunter">
-<!ENTITY updater_downloading_ticker "Lädt &brandShortName;-Update herunter&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Konnte &brandShortName;-Update nicht herunterladen&#8230;">
-<!ENTITY updater_downloading_select "Nach Beenden zum Anwenden auswählen">
-<!ENTITY updater_downloading_retry "Zum erneuten Herunterladen auswählen">
-<!ENTITY updater_downloading_willapply "Warten auf Fertigstellung des Downloads">
+<!ENTITY updater_downloading_title2 "Lädt &brandShortName; herunter">
+<!ENTITY updater_downloading_title_failed2 "Fehler beim Herunterladen">
+<!ENTITY updater_downloading_select2 "Zum Aktualisieren nach dem Herunterladen antippen">
+<!ENTITY updater_downloading_retry2 "Zum erneuten Herunterladen antippen">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName;-Update verfügbar&#8230;">
-<!ENTITY updater_apply_select "Zum Anwenden des heruntergeladenen Updates auswählen.">
+<!ENTITY updater_apply_title2 "Update für &brandShortName; verfübar">
+<!ENTITY updater_apply_select2 "Zum Aktualisieren antippen">
