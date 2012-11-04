@@ -21,8 +21,8 @@
 <!ENTITY myRecoveryKey.accesskey "й">
 <!ENTITY resetSync.label "Перенастроить Sync">
 <!ENTITY resetSync.accesskey "н">
-<!ENTITY deactivateDevice.label "Деактивировать это устройство">
-<!ENTITY deactivateDevice.accesskey "а">
+<!ENTITY unlinkDevice.label "Отсоединить это устройство">
+<!ENTITY unlinkDevice.accesskey "о">
 <!ENTITY addDevice.label "Добавить устройство">
 <!ENTITY addDevice.accesskey "б">
 <!ENTITY syncComputerName.label "Имя компьютера:">
@@ -39,6 +39,6 @@
 <!ENTITY engine.passwords.label "Пароли">
 <!ENTITY engine.passwords.accesskey "л">
 <!ENTITY engine.prefs.label "Настройки">
-<!ENTITY engine.prefs.accesskey "о">
+<!ENTITY engine.prefs.accesskey "а">
 <!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
