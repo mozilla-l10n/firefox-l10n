@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "alati küsitakse">
 <!ENTITY permission.allow                "lubatud">
 <!ENTITY permission.allowForSession      "lubatud selleks sessiooniks">
+<!ENTITY permission.allowFirstPartyOnly  "sama domeeni piires">
 <!ENTITY permission.block                "keelatud">
 
 <!ENTITY password.label                  "Paroolide salvestamine">
