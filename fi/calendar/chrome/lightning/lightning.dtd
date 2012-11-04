@@ -40,7 +40,7 @@
 <!ENTITY lightning.calendarproperties.email.label               "Sähköposti:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Tämä viesti sisältää tapahtumakutsun.">
+<!ENTITY lightning.imipbar.description "Tässä viestissä on kutsu tapahtumaan.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

@@ -10,7 +10,7 @@
 <!ENTITY lightning.toolbar.sync.label "Synkronoi">
 <!ENTITY lightning.toolbar.delete.label "Poista">
 <!ENTITY lightning.toolbar.edit.label "Muokkaa">
-<!ENTITY lightning.toolbar.gototoday.label "Siirry tähän päivään">
+<!ENTITY lightning.toolbar.gototoday.label "Siirry nykypäivään">
 <!ENTITY lightning.toolbar.print.label "Tulosta">
 
 <!-- Mode Toolbar -->
