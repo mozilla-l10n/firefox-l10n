@@ -4,8 +4,11 @@
 
 <!ENTITY window.title "Rejoindre un salon">
 
-<!ENTITY qsearch.label "Recherche rapide :">
-<!ENTITY qsearch.accesskey "R">
+<!ENTITY network.label     "Réseau :">
+<!ENTITY network.accesskey "R">
+
+<!ENTITY channel.label     "Salon :">
+<!ENTITY channel.accesskey "S">
 
 <!ENTITY topics.label "Rechercher dans les sujets et dans les noms de salons">
 <!ENTITY topics.accesskey "t">
@@ -22,6 +25,9 @@
 <!ENTITY refresh.label "Actualiser">
 <!ENTITY refresh.accesskey "">
 
+<!ENTITY network.hint.label "Enter any network or server name (you can include a port) and a channel to join.">
+
+<!ENTITY col.network "Réseau">
 <!ENTITY col.name "Nom">
 <!ENTITY col.users "Présents">
 <!ENTITY col.topic "Sujet">
