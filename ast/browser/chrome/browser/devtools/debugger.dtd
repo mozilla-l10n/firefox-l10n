@@ -5,5 +5,4 @@
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Zarrar">
 <!ENTITY debuggerUI.pauseExceptions "Posar nes esceiciones">
-<!ENTITY debuggerUI.showNonEnums "Amosar propiedaes anubríes">
 <!ENTITY debuggerUI.searchPanelTitle "Operadores">
