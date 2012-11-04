@@ -347,13 +347,13 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Yleistiedot">
 <!ENTITY read.only.title.label           "Otsikko:">
-<!ENTITY read.only.event.start.label     "Aloituspäivä:">
-<!ENTITY read.only.task.start.label      "Aloituspäivä:">
-<!ENTITY read.only.event.end.label       "Päättymispäivä:">
+<!ENTITY read.only.event.start.label     "Aloitusaika:">
+<!ENTITY read.only.task.start.label      "Aloitusaika:">
+<!ENTITY read.only.event.end.label       "Lopetusaika:">
 <!ENTITY read.only.task.due.label        "Valmis:">
 <!ENTITY read.only.repeat.label          "Toista:">
-<!ENTITY read.only.location.label        "Osoite:">
-<!ENTITY read.only.category.label        "Tyyppi:">
+<!ENTITY read.only.location.label        "Paikka:">
+<!ENTITY read.only.category.label        "Kategoria:">
 <!ENTITY read.only.organizer.label       "Järjestäjä:">
 <!ENTITY read.only.reply.label           "Vastaa:">
 <!ENTITY read.only.accept.label          "Osallistun">
