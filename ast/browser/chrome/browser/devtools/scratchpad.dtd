@@ -80,3 +80,5 @@
 <!ENTITY reloadAndRun.label "Recargar y executar">
 <!ENTITY reloadAndRun.accesskey "E">
 <!ENTITY reloadAndRun.key "r">
+<!ENTITY revertCmd.label "Revertir…">
+<!ENTITY revertCmd.accesskey "t">
