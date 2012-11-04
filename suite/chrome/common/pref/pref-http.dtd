@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.http.title                     "HTTP">
 
 <!-- Network-->
@@ -9,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label              "Usar HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "1">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "Activar conexións permanentes">
-<!ENTITY prefEnableKeepAlive.accesskey       "v">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "A">
 <!ENTITY prefEnablePipelining.label          "Activar pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "p">
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">
