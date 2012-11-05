@@ -66,7 +66,7 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
+<!ENTITY contentEncodingError.title "Ynhâldkodearringsflater">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li>
@@ -93,10 +93,10 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "De proxytsjinner wegeret ferbinings">
+<!ENTITY proxyConnectFailure.title "De proxytsjinner wegeret ferbiningen">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
+  <li>Kontrolearje oft jo proxy-ynstellingen goed binne.</li>
   <li>Nim kontakt op mei jo netwurkbeheerder om te kontrolearjen oft de proxytsjinner
     wurket.</li>
 </ul>
@@ -105,7 +105,7 @@
 <!ENTITY proxyResolveFailure.title "Kin de proxytsjinner net fine">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
+  <li>Kontrolearje oft jo proxy-ynstellingen goed binne.</li>
   <li>Gean nei oft jo kompjûter op in wurkjend netwurk oansletten is.</li>
   <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
     kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
@@ -174,7 +174,7 @@ Oanfalsides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje 
 <!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje...">
+<!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Foech Utsûndering ta">
 

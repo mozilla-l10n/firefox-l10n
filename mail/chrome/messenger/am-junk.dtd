@@ -20,9 +20,12 @@
 <!ENTITY whitelistHeader.label "Berjochten net automatysk as net winske markearje as de ôfstjoerder foarkomt yn myn: ">
 <!ENTITY whitelistHeader.accesskey "m">
 
-<!ENTITY ispHeadersWarning.label "As aktivearre, sil &brandShortName; automatysk berjochten markearre troch dizze eksterne classifier oerwaagje as net winske.">
+<!ENTITY ispHeadersWarning.label "As aktivearre, sil &brandShortName; automatysk berjochten markearre troch dizze eksterne klassifisearder oerwaagje as net winske.">
 <!ENTITY ispHeaders.label "Net-winske-berjochtkoppen fertrouwe dy't ynsteld binne troch: ">
 <!ENTITY ispHeaders.accesskey "f">
 
 <!ENTITY junkClassification.label "Seleksje">
 <!ENTITY junkActions.label "Doel en behâld">
+
+<!ENTITY globalJunkPrefs.label "Globale net-winskeberjochtenynstellingen…">
+<!ENTITY globalJunkPrefs.accesskey "G">
