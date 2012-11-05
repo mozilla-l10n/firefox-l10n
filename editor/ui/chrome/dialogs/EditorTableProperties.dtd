@@ -40,7 +40,7 @@
 <!ENTITY cellSelectCell.label             "Ćelija">
 <!ENTITY cellSelectRow.label              "Red">
 <!ENTITY cellSelectColumn.label           "Stupac">
-<!ENTITY cellSelectNext.label             "Slijedeći">
+<!ENTITY cellSelectNext.label             "Sljedeći">
 <!ENTITY cellSelectNext.accessKey         "l">
 <!ENTITY cellSelectPrevious.label         "Prethodni">
 <!ENTITY cellSelectPrevious.accessKey     "e">
