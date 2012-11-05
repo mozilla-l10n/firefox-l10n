@@ -1,12 +1,14 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - This Source Code Form is subject to the terms of the Mozilla Public
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title  "Entrar no Canal">
 
-<!ENTITY qsearch.label     "Pesquisa Rápida:">
-<!ENTITY qsearch.accesskey "P">
+<!ENTITY network.label     "Rede:">
+<!ENTITY network.accesskey "R">
+
+<!ENTITY channel.label     "Canal:">
+<!ENTITY channel.accesskey "C">
 
 <!ENTITY topics.label     "Pesquisar tópicos assim como nomes dos canais">
 <!ENTITY topics.accesskey "t">
@@ -23,6 +25,9 @@
 <!ENTITY refresh.label     "Recarregar Agora">
 <!ENTITY refresh.accesskey "">
 
+<!ENTITY network.hint.label "screva qualquer rede ou nome de servidor (pode incluir uma porta) ou entrar num canal.">
+
+<!ENTITY col.network "Rede">
 <!ENTITY col.name  "Nome">
 <!ENTITY col.users "Utilizadores">
 <!ENTITY col.topic "Tópico">
