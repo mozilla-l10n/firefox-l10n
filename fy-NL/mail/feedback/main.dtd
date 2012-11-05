@@ -6,11 +6,11 @@
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Ynstellingen">
 <!ENTITY testpilot.settings.dataSubmission.label    "Gegevensferstjoering">
-<!ENTITY testpilot.settings.notifications.label     "Warskôgings">
+<!ENTITY testpilot.settings.notifications.label     "Warskôgingen">
 <!ENTITY testpilot.settings.notifyWhen.label        "My warskôgje as…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "In ûndersyk kin ynsteld wurde">
 <!ENTITY testpilot.settings.newStudy.label          "Der in nij ûndersyk is">
-<!ENTITY testpilot.settings.hasNewResults.label     "Der nije útslaggen fan in ûndersyek binne">
+<!ENTITY testpilot.settings.hasNewResults.label     "Der nije útslaggen fan in ûndersyk binne">
 <!ENTITY testpilot.settings.alwaysSubmitData.shortLabel  "Altyd myn gegevens yntsjinje (net freegje)">
 <!ENTITY testpilot.allYourStudies.label             "Al jo brûkersûndersiken…">
 <!ENTITY testpilot.about.label                      "Oer Test Pilot">
@@ -20,7 +20,7 @@
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Aktuele ûndersiken">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ofmakke ûndersiken">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Undersykútslaggen">
-<!ENTITY testpilot.studiesWindow.settings.label         "Ynstellings">
+<!ENTITY testpilot.studiesWindow.settings.label         "Ynstellingen">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Wurdt laden, momint…">
 
 <!-- raw data dialog -->
@@ -30,7 +30,7 @@
 <!ENTITY testpilot.notification.close.tooltip            "Slute">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Brûkersûndersiken Ynskeakelje">
+<!ENTITY testpilot.enable.label                        "Brûkersûndersiken ynskeakelje">
 <!ENTITY testpilot.feedbackbutton.label                "Feedback">
 <!ENTITY testpilot.happy.label        					"Firefox hat my bliid makke omdat…">
 <!ENTITY testpilot.sad.label          					"Firefox hat my tryst makke omdat…">

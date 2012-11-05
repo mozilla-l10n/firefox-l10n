@@ -31,8 +31,8 @@
 <!ENTITY successful.successMessage "Jo hawwe mei sukses jo account ynsteld.">
 <!ENTITY successful.write "Skriuw in e-mail">
 <!ENTITY successful.write.desc "Lit jo freonen en famylje jo nije adres witte.<br/> Dêrfoar hawwe jo dochs dit nije account?">
-<!ENTITY successful.customize "&brandShortName; oanpasse mei in oantal fantastyske tafoegings">
-<!ENTITY successful.customize.desc "Der binne tûzenen tafoegings dy't jo brûke kinne om &brandShortName; oan te passen oan al jo winsken.">
+<!ENTITY successful.customize "&brandShortName; oanpasse mei in oantal fantastyske tafoegingen">
+<!ENTITY successful.customize.desc "Der binne tûzenen tafoegingen dy't jo brûke kinne om &brandShortName; oan te passen oan al jo winsken.">
 <!ENTITY successful.attach "Persoanlike ûndertekening keppelje oan myn e-mail">
 <!ENTITY successful.attach.desc "Jo kinne automatysk in quote of persoanlike ynformaasje keppelje oan it ein fan elke e-mail dy't jo ferstjoere.">
 <!ENTITY successful.close "Dit finster slute.">
