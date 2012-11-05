@@ -15,7 +15,7 @@
 <!ENTITY wrapCheckbox.accesskey "O">
 <!ENTITY backwardsCheckbox.label "Traži unazad">
 <!ENTITY backwardsCheckbox.accesskey "T">
-<!ENTITY findNextButton.label "Traži slijedeće">
+<!ENTITY findNextButton.label "Traži sljedeće">
 <!ENTITY findNextButton.accesskey "s">
 <!ENTITY replaceButton.label "Zamjeni">
 <!ENTITY replaceButton.accesskey "Z">

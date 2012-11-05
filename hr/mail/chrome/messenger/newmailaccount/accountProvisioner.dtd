@@ -20,7 +20,7 @@
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 <!ENTITY success.title.before "Pozdrav ">
-<!ENTITY success.title.after ", slijedeće adrese e-pošte su vam dostupne:">
+<!ENTITY success.title.after ", sljedeće adrese e-pošte su vam dostupne:">
 <!ENTITY success.tip "(Možete pokušati tražiti prema nadimku ili nekom drugom pojmu kako bi našli više adresa e-pošte)">
 <!ENTITY partnership.description "U suradnji sa više pružatelja usluga, &brandShortName; vam može ponuditi novi račun e-pošte. Unesite svoje ime i prezime ili bilo koji drugi pojam koji želite u polja iznad kako bi zapčeli.">
 <!ENTITY existing.header "Već imate adresu e-pošte koju želite koristiti?">
