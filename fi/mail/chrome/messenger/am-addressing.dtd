@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "L">
 <!ENTITY includeSigOnForward.label            "Lisää allekirjoitus välitettyihin viesteihin">
 <!ENTITY includeSigOnForward.accesskey        "a">
+
+<!ENTITY globalComposingPrefs.label           "Yleiset viestinluontiasetukset…">
+<!ENTITY globalComposingPrefs.accesskey       "v">
+
+<!ENTITY globalAddressingPrefs.label          "Yleiset osoitteistoasetukset…">
+<!ENTITY globalAddressingPrefs.accesskey      "o">

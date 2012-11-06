@@ -252,33 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label  "Näytä liitteet viestiin sisällytettynä">
 <!ENTITY viewAttachmentsInlineCmd.accesskey  "N">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Suurenna">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "S">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Pienennä">
-<!ENTITY fullZoomReduceCmd.accesskey    "P">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Palauta ">
-<!ENTITY fullZoomResetCmd.accesskey     "a">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Muuta vain tekstin kokoa">
-<!ENTITY fullZoomToggleCmd.accesskey    "M">
-<!ENTITY fullZoom.label                 "Viestin suurennus">
-<!ENTITY fullZoom.accesskey             "V">
-
 <!ENTITY pageSourceCmd.label  "Viestin lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey  "k">
 <!ENTITY pageSourceCmd.key  "u">
