@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListDesc.label "Mbulim Identitetesh të Shumëfishtë">
+<!ENTITY identitiesListManageDesc.label "Administroni identitetet për këtë llogari. Identiteti i parë përdoret për parazgjedhjen.">
 <!ENTITY identitiesListAdd.label  "Shtoni…">
 <!ENTITY identitiesListAdd.accesskey  "S">
 <!ENTITY identitiesListEdit.label "Përpunoni…">
 <!ENTITY identitiesListEdit.accesskey "P">
+<!ENTITY identitiesListDefault.label "Caktoje Si Parazgjedhje">
+<!ENTITY identitiesListDefault.accesskey "C">
 <!ENTITY identitiesListDelete.label "Fshije">
 <!ENTITY identitiesListDelete.accesskey "F">
 <!ENTITY identitiesListClose.label "Mbylle">

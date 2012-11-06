@@ -153,8 +153,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "E">
 <!ENTITY PrimaryEmail.label                             "Email-esh">
 <!ENTITY PrimaryEmail.accesskey                         "m">
-<!ENTITY ScreenName.label                               "Emrash në Ekran">
-<!ENTITY ScreenName.accesskey                           "a">
+<!ENTITY ChatName.label                                 "Emrash Fjalosjeje">
+<!ENTITY ChatName.accesskey                             "F">
 <!ENTITY Company.label                                  "Organizmash">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Nofkash">
@@ -189,6 +189,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY other.heading                                  "Tjetër">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "E punës">
+<!ENTITY chat.heading                                   "Fjalosje">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Përshkrim">
 <!ENTITY addresses.heading                              "Adresë">

@@ -28,8 +28,8 @@
 <!ENTITY HomePhone.accesskey                   "s">
 <!ENTITY WorkPhone.label                       "Telefon Pune">
 <!ENTITY WorkPhone.accesskey                   "P">
-<!ENTITY ScreenName.label                      "Emër në Ekran">
-<!ENTITY ScreenName.accesskey                  "k">
+<!ENTITY ChatName.label                        "Emër Fjalosjeje">
+<!ENTITY ChatName.accesskey                    "a">
 <!ENTITY sortAscending.label                   "Rritës">
 <!ENTITY sortAscending.accesskey               "r">
 <!ENTITY sortDescending.label                  "Zbritës">
