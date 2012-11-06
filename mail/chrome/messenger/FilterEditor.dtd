@@ -43,5 +43,17 @@
 <!ENTITY watchThread.label "Vëzhgoje Rrjedhën">
 <!ENTITY stopExecution.label "Ndale Përmbushjen e Filtrit">
 
+<!ENTITY addAction.tooltip "Shtoni një veprim të ri">
+<!ENTITY removeAction.tooltip "Hiqeni këtë veprim">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
+
+
 <!ENTITY contextPostPlugin.label "Kontrollim Poste (pas klasifikimi)">
 <!ENTITY contextPostPluginBoth.label "Kontrollim Poste (pas klasifikimi) ose Xhirim Dorazi">

@@ -71,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Më të vogla">
 <!ENTITY decreaseFontSize.accesskey "v">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Më të mëdhaja">
 <!ENTITY increaseFontSize.accesskey "m">
 <!ENTITY increaseFontSize.key "+">

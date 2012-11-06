@@ -39,3 +39,9 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Përdor një tjetër shërbyes LDAP:">
 <!ENTITY directories.accesskey     "t">
+
+<!ENTITY globalComposingPrefs.label           "Parapëlqime Globale Hartimi…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Parapëlqime Globale Adresimi…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
