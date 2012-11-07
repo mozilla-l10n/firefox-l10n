@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Testenn eeun">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Dianav">
-<!ENTITY chatName.label                 "Anv postelerezh prim:">
+<!ENTITY chatName.label                 "Anv postelerezh prim :">
 
 <!ENTITY allowRemoteContent1.label      "Aotren an endalc'hadoù a-bell.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -57,7 +57,7 @@
 <!ENTITY HomePhone.accesskey            "g">
 <!ENTITY FaxNumber.label                "Pelleiler :">
 <!ENTITY FaxNumber.accesskey            "l">
-<!ENTITY PagerNumber.label              "Pajenner:">
+<!ENTITY PagerNumber.label              "Pajenner :">
 <!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Hezoug :">
 <!ENTITY CellularNumber.accesskey       "H">
@@ -74,11 +74,11 @@
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "Boneg Post/ZIP :">
 <!ENTITY HomeZipCode.accesskey          "Z">
-<!ENTITY HomeCountry.label              "Bro:">
+<!ENTITY HomeCountry.label              "Bro :">
 <!ENTITY HomeCountry.accesskey          "B">
 <!ENTITY HomeWebPage.label              "Lec'hienn :">
 <!ENTITY HomeWebPage.accesskey          "e">
-<!ENTITY Birthday.label                 "Deiz-ha-bloaz:">
+<!ENTITY Birthday.label                 "Deiz-ha-bloaz :">
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Bloavezh">
@@ -111,13 +111,13 @@
 
 <!ENTITY Other.tab                      "All">
 <!ENTITY Other.accesskey                "l">
-<!ENTITY Custom1.label                  "Personelaet 1:">
+<!ENTITY Custom1.label                  "Personelaet 1 :">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "Personelaet 2:">
+<!ENTITY Custom2.label                  "Personelaet 2 :">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "Personelaet 3:">
+<!ENTITY Custom3.label                  "Personelaet 3 :">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "Personelaet 4:">
+<!ENTITY Custom4.label                  "Personelaet 4 :">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notennoù">
 <!ENTITY Notes.accesskey                "N">
@@ -143,7 +143,7 @@
 
 <!ENTITY Photo.tab                      "Luc'hskeudenn">
 <!ENTITY Photo.accesskey                "u">
-<!ENTITY PhotoDesc.label                "Diuzit unan eus ar re da heul:">
+<!ENTITY PhotoDesc.label                "Diuzit unan eus ar re da heul :">
 <!ENTITY GenericPhoto.label             "Luc'hskeudenn rumm">
 <!ENTITY GenericPhoto.accesskey         "r">
 <!ENTITY DefaultPhoto.label             "Diouer">

@@ -29,8 +29,8 @@
 <!ENTITY WorkPhone.label                       "Pellgomz Labour">
 <!ENTITY WorkPhone.accesskey                   "L">
 <!ENTITY ChatName.label                        "Anv postelerezh prim">
-<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY ChatName.accesskey                    "i">
 <!ENTITY sortAscending.label                   "War-gresk">
 <!ENTITY sortAscending.accesskey               "W">
 <!ENTITY sortDescending.label                  "War-zigresk">
-<!ENTITY sortDescending.accesskey              "W">
+<!ENTITY sortDescending.accesskey              "s">

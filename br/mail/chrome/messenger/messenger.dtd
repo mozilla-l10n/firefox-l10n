@@ -33,7 +33,7 @@
 <!ENTITY newIMAccountCmd.label "Kont postelerezh prim…">
 <!ENTITY newIMAccountCmd.accesskey "p">
 <!ENTITY newIMContactCmd.label "Kont darempred…">
-<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Teulioù kenstag">

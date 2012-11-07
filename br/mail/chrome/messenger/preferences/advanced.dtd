@@ -79,7 +79,7 @@
 <!ENTITY showUpdates.accesskey          "u">
 
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.accesskey            "v">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Arventennoù…">

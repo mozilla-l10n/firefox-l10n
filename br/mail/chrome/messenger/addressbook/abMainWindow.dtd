@@ -94,7 +94,7 @@
 <!ENTITY layoutMenu.label                               "Aozadur">
 <!ENTITY layoutMenu.accesskey                           "A">
 <!ENTITY showDirectoryPane.label                        "Penel ar c'havlec'hioù">
-<!ENTITY showDirectoryPane.accesskey                    "k">
+<!ENTITY showDirectoryPane.accesskey                    "l">
 <!ENTITY showContactPane2.label                         "Penel an darempred">
 <!ENTITY showContactPane2.accesskey                     "d">
 <!ENTITY menu_ShowNameAs.label                          "Diskouez an anv evel">
