@@ -13,6 +13,8 @@
 <!ENTITY debuggerUI.pauseExceptions.key "E">
 <!ENTITY debuggerUI.showPanesOnInit "При запуске открывать панели">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showVarsSearch "Показать панель поиска переменных">
+<!ENTITY debuggerUI.showVarsSearch.key "V">
 <!ENTITY debuggerUI.showNonEnums "Показать скрытые свойства">
 <!ENTITY debuggerUI.showNonEnums.key "P">
 <!ENTITY debuggerUI.searchPanelTitle "Операторы">
