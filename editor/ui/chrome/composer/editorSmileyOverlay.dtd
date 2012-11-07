@@ -4,7 +4,7 @@
 
 <!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Gülümseme">
-<!ENTITY insertSmiley.accesskey "s">
+<!ENTITY insertSmiley.accesskey "G">
 
 <!ENTITY smiley1Cmd.label "Gülümseme">
 <!ENTITY smiley1Cmd.accesskey "G">

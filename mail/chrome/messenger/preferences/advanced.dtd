@@ -15,6 +15,13 @@
 <!ENTITY telemetryInfoLink.label       "Telemetry hakkında daha fazla bilgi">
 <!ENTITY enableGlodaSearch.label       "Global aramayı ve endekslemeyi etkinleştir">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+
+<!ENTITY scrolling.label               "Kaydırma">
+<!ENTITY useAutoScroll.label           "Otomatik kaydırmayı kullan">
+<!ENTITY useAutoScroll.accesskey       "y">
+<!ENTITY useSmoothScrolling.label      "Yumuşak kaydırmayı kullan">
+<!ENTITY useSmoothScrolling.accesskey  "Y">
+
 <!ENTITY systemIntegration.label       "Sistem tümleştirmesi">
 <!ENTITY alwaysCheckDefault.label      "&brandShortName; uygulamasının varsayılan e-posta istemcisi olup olmadığını her açılışta denetle">
 <!ENTITY alwaysCheckDefault.accesskey  "h">
@@ -71,6 +78,9 @@
 <!ENTITY showUpdates.label              "Güncelleme geçmişini göster">
 <!ENTITY showUpdates.accesskey          "n">
 
+<!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ayarlar…">
 <!ENTITY showSettings.accesskey        "A">
@@ -81,10 +91,10 @@
 <!ENTITY showOffline.label             "Çevrim dışı…">
 <!ENTITY showOffline.accesskey         "d">
 
-<!ENTITY Diskspace "Disk alanı">
-<!ENTITY offlineCompact.label "Dizinler ">
-<!ENTITY offlineCompact.accesskey "z">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Disk alanı">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB toplam">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

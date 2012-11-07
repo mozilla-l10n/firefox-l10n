@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "Yeni dizin">
+<!ENTITY newFolderDialog.title      "Yeni Dizin">
 <!ENTITY name.label                 "Dizin ismi:">
 <!ENTITY name.accesskey             "D">
 <!ENTITY description.label          "Aşağıdaki dizinin alt dizini olarak oluştur:">

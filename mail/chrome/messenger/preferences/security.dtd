@@ -61,4 +61,7 @@
 <!ENTITY showCookies.label              "Çerezleri göster…">
 <!ENTITY showCookies.accesskey          "z">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Sitelere izlenmek istemediğimi söyle">
+<!ENTITY doNotTrack.accesskey           "d">
 
