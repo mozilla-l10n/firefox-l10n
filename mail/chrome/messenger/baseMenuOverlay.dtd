@@ -17,8 +17,6 @@
 <!ENTITY releaseCmd2.accesskey "S">
 <!ENTITY whatsNewCmd.label "Yenilikler">
 <!ENTITY whatsNewCmd.accesskey "Y">
-<!ENTITY featureConfiguratorCmd.label "Taşınma yardımcısı">
-<!ENTITY featureConfiguratorCmd.accesskey "T">
 <!ENTITY openHelp.label "Yardım içeriği">
 <!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "V">

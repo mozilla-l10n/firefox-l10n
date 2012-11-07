@@ -10,11 +10,13 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "İçe aktar">
+<!ENTITY importDialog.windowTitle "İçeri Aktarma">
 <!ENTITY importAll.label          "Her şeyi içe aktar">
 <!ENTITY importAll.accesskey      "H">
 <!ENTITY importMail.label         "E-posta">
 <!ENTITY importMail.accesskey     "E">
+<!ENTITY importFeeds.label        "Besleme abonelikleri">
+<!ENTITY importFeeds.accesskey    "m">
 <!ENTITY importAddressbook.label  "Adres defterleri">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Ayarlar">
@@ -32,7 +34,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "İçeri alınan kayıtlara daha sonra &brandShortName; içinden erişebileceksiniz.">
 
 <!ENTITY selectDescription.label  "İçeri aktarmak istediğiniz dosya türünü seçin:">
+<!ENTITY selectDescriptionB.label "Lütfen mevcut bir hesap seçin veya yeni bir hesap oluşturun:">
 <!ENTITY selectDescription.accesskey "a">
+<!ENTITY acctName.label           "İsim:">
+<!ENTITY acctName.accesskey       "s">
 
 <!ENTITY back.label               "&lt; Geri">
 <!ENTITY forward.label            "İleri &gt;">

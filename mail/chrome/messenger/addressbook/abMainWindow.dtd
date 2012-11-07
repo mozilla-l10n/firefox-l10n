@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Adres defteri">
+<!ENTITY addressbookWindow.title                        "Adres Defteri">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Dosya">
@@ -164,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "s">
 <!ENTITY PrimaryEmail.label                             "E-posta">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Ekran ismi">
-<!ENTITY ScreenName.accesskey                           "s">
+<!ENTITY ChatName.label                                 "Sohbet adı">
+<!ENTITY ChatName.accesskey                             "S">
 <!ENTITY Company.label                                  "Kurum">
 <!ENTITY Company.accesskey                              "u">
 <!ENTITY NickName.label                                 "Takma isim">
@@ -198,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Kişi">
 <!ENTITY home.heading                                   "Ev">
 <!ENTITY other.heading                                  "Diğer">
+<!ENTITY chat.heading                                   "Sohbet">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "İş">
 <!-- Special Box Headings, for mailing lists -->
