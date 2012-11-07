@@ -63,3 +63,7 @@
 <!ENTITY cookieExceptions.accesskey     "ë">
 <!ENTITY showCookies.label              "Shfaqni &quot;Cookie&quot;-t…">
 <!ENTITY showCookies.accesskey          "S">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Tregoju site-eve web që nuk dua të më gjurmojnë">
+<!ENTITY doNotTrack.accesskey           "T">
