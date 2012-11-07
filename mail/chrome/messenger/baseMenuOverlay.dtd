@@ -23,7 +23,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 <!ENTITY whatsNewCmd.label "Ç'ka të Re">
 <!ENTITY whatsNewCmd.accesskey "Ç">
-<!ENTITY featureConfiguratorCmd.label "Ndihmës Migrimi">
-<!ENTITY featureConfiguratorCmd.accesskey "i">
 <!ENTITY aboutMenuCmd.label "Mbi &brandShortName;-in">
 <!ENTITY aboutMenuCmd.accesskey "M">
