@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY GeneratedName.label                   "Adı ">
-<!ENTITY GeneratedName.accesskey               "A">
+<!ENTITY GeneratedName.label                   "İsim">
+<!ENTITY GeneratedName.accesskey               "s">
 <!ENTITY PrimaryEmail.label                    "E-posta">
 <!ENTITY PrimaryEmail.accesskey                "p">
 <!ENTITY Company.label                         "Kurum">
@@ -28,8 +28,8 @@
 <!ENTITY HomePhone.accesskey                   "E">
 <!ENTITY WorkPhone.label                       "İş telefonu">
 <!ENTITY WorkPhone.accesskey                   "İ">
-<!ENTITY ScreenName.label                      "Ekran adı">
-<!ENTITY ScreenName.accesskey                  "E">
+<!ENTITY ChatName.label                        "Sohbet adı">
+<!ENTITY ChatName.accesskey                    "S">
 <!ENTITY sortAscending.label                   "Artan">
 <!ENTITY sortAscending.accesskey               "t">
 <!ENTITY sortDescending.label                  "Azalan">

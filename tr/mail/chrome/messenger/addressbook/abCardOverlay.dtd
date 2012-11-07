@@ -45,8 +45,7 @@
 <!ENTITY PlainText.label                "Düz metin">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Bilinmiyor">
-<!ENTITY ScreenName.label               "Ekran adı:">
-<!ENTITY ScreenName.accesskey           "r">
+<!ENTITY chatName.label                 "Sohbet adı:">
 
 <!ENTITY allowRemoteContent1.label      "Uzak içeriği kabul et.">
 <!ENTITY allowRemoteContent1.accesskey  "U">
@@ -122,6 +121,25 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notlar:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "Sohbet">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Fotoğraf">
 <!ENTITY Photo.accesskey                "o">
