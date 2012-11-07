@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                 "Gönderme seçenekleri">
+<!ENTITY dialog.title                 "Gönderme Seçenekleri">
 <!ENTITY sendMail.title               "Metin biçimi">
 <!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken ve alıcılardan biri veya daha fazlası HTML ileti alamıyorken:">
 <!ENTITY askMe.label                  "Ne yapılacağını bana sor">

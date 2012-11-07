@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  startupAction.label         "&brandShortName; açıldığında:">
-<!ENTITY  startupAction.accesskey     "a">
+<!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Sohbet hesaplarımı çevrimdışı tut">
 <!ENTITY  startupConnectAuto.label    "Sohbet hesaplarıma otomatik olarak bağlan">
 

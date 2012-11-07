@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltık">
 <!ENTITY  font.langGroup.el                       "Yunanca">
 <!ENTITY  font.langGroup.turkish                  "Türkçe">
-<!ENTITY  font.langGroup.unicode                  "Diğer diller">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Kullanıcı tanımlı">
 <!ENTITY  font.langGroup.thai                     "Tay Dili">
 <!ENTITY  font.langGroup.hebrew                   "İbranice">
