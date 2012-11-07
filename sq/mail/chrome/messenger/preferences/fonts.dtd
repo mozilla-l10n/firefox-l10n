@@ -30,7 +30,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltike">
 <!ENTITY  font.langGroup.el                       "Greke">
 <!ENTITY  font.langGroup.turkish                  "Turke">
-<!ENTITY  font.langGroup.unicode                  "Gjuhë të Tjera">
+<!ENTITY  font.langGroup.unicode1                  "Unikod">
 <!ENTITY  font.langGroup.user-def                 "Përcaktuar nga Përdoruesi">
 <!ENTITY  font.langGroup.thai                     "Tailandeze">
 <!ENTITY  font.langGroup.hebrew                   "Hibru">

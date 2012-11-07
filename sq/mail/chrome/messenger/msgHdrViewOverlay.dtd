@@ -27,7 +27,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Arkivojeni këtë mesazh">
 <!ENTITY hdrSmartReplyButton1.label "Përgjigje e Mençur">
 <!ENTITY hdrReplyButton1.label "Përgjigjuni">
-<!ENTITY hdrReplyButton1.tooltip "Përgjigjiuni këtij mesazhi">
+<!ENTITY hdrReplyButton2.tooltip "Përgjigjiuni dërguesit të këtij mesazhi">
 <!ENTITY hdrReplyAllButton1.label "Përgjigjiuni të Tërëve">
 <!ENTITY hdrReplyAllButton1.tooltip "Përgjigjiuni dërguesit dhe tërë marrësve">
 <!ENTITY hdrReplyListButton1.label "Përgjigjuni te Lista">
@@ -67,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "u">
 <!ENTITY otherActionsPrint1.label "Shtypeni…">
 <!ENTITY otherActionsPrint1.accesskey "y">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Shfaqe Fillimisht Kuadratin e Bashkangjitjeve">
+<!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Hape">

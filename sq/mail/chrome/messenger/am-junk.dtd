@@ -17,8 +17,8 @@
 <!ENTITY purge1.accesskey "F">
 <!ENTITY purge2.label "ditë">
 
-<!ENTITY whitelist.label "Mos shëno postë si të pavlerë, nëse dërguesi është në: ">
-<!ENTITY whitelist.accesskey "M">
+<!ENTITY whitelistHeader.label "Mos e shëno si postë të pavlerë, nëse dërguesi është në: ">
+<!ENTITY whitelistHeader.accesskey "M">
 
 <!ENTITY ispHeadersWarning.label "Në u aktivizoftë, &brandShortName;-i vetvetiu do t&apos;i konsiderojë si të pavlerë mesazhet e treguar si të tillë nga ky klasifikues i jashtëm.">
 <!ENTITY ispHeaders.label "Zëru besë titujve për postë të pavlerë treguar si të tillë prej: ">
