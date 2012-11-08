@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "i">
 <!ENTITY includeSigOnForward.label            "Uključi potpis za proslijeđivanja">
 <!ENTITY includeSigOnForward.accesskey        "p">
+
+<!ENTITY globalComposingPrefs.label           "Globalne postavke pisanja…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Globalne postavke adresiranja…">
+<!ENTITY globalAddressingPrefs.accesskey      "a">
