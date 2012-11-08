@@ -24,7 +24,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Emri i Kompjuterit:">
 <!ENTITY syncComputerName.accesskey   "E">
-<!ENTITY unlinkDevice.label           Shkëpute Këtë Pajisje">
+<!ENTITY unlinkDevice.label           "Shkëpute Këtë Pajisje">
 
 <!ENTITY syncMy.label               "Njëkohëso">
 <!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
