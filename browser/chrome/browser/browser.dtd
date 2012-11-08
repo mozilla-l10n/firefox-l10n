@@ -658,12 +658,16 @@
 <!-- <!ENTITY devToolbar.commandkey             "v"> -->
 <!ENTITY webConsoleButton.label "वेब कंसोल">
 <!ENTITY inspectorButton.label "इंस्पेक्टर">
-<!-- <!ENTITY scriptsButton.label "स्क्रिप्टस्"> -->
+
+<!--
+<!ENTITY scriptsButton.label "स्क्रिप्टस्"> -
 <!ENTITY inspectOptionButton.tooltiptext    "इंस्पेक्टर पर्याय">
 <!ENTITY inspectorToggleVeil.label          "पृष्ठ अंधुक करा">
 <!ENTITY inspectorToggleVeil.accesskey      "D">
 <!ENTITY inspectorToggleInfobar.label       "नोड माहिती दाखवा">
 <!ENTITY inspectorToggleInfobar.accesskey   "S">
+-->
+
 <!ENTITY responsiveDesignTool.label   "रेस्पाँसिव्ह रूपरेखाचे अवलोकन">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
@@ -680,9 +684,12 @@
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY socialToolbar.title        "सोशअल साधनपट्टी बटन">
 <!ENTITY social.notLoggedIn.label   "प्रवेश केले नाही">
+
+<!--
 <!ENTITY social.sharePopup.undo.label     "शेअर अशक्य करा">
 <!ENTITY social.sharePopup.undo.accesskey "U">
 <!ENTITY social.sharePopup.ok.label       "ठिक आहे">
 <!ENTITY social.sharePopup.ok.accesskey   "O">
-<!ENTITY devToolbar.keycode                "VK_F2">
+-->
 
+<!ENTITY devToolbar.keycode                "VK_F2">
