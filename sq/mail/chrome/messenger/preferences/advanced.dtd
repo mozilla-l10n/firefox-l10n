@@ -79,6 +79,9 @@
 <!ENTITY showUpdates.label              "Shfaq Historik Përditësimesh">
 <!ENTITY showUpdates.accesskey          "H">
 
+<!ENTITY useService.label                "Për instalim përditësimesh përdor një shërbim në prapaskenë">
+<!ENTITY useService.accesskey            "i">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Rregullime…">
 <!ENTITY showSettings.accesskey        "R">
