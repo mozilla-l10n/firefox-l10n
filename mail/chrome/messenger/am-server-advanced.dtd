@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY serverAdvanced.label "Avansearre accountynstellings">
+<!ENTITY serverAdvanced.label "Avansearre accountynstellingen">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.accesskey "m">
 <!ENTITY serverDirectory.label "IMAP-tsjinnermap">
@@ -13,9 +13,9 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY useIdle.label "IDLE-commando brûke as de tsjinner it stipet">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!ENTITY maximumConnectionsNumber.label "Maksimumoantal tsjinnerferbinings yn de buffer">
+<!ENTITY maximumConnectionsNumber.label "Maksimumoantal tsjinnerferbiningen yn de buffer">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Dizze ynstellings omskriuwe de namespaces op jo IMAP-tsjinner">
+<!ENTITY namespaceDesc.label "Dizze ynstellingen omskriuwe de namespaces op jo IMAP-tsjinner">
 <!ENTITY personalNamespace.accesskey "e">
 <!ENTITY personalNamespace.label "Persoanlike namespace:">
 <!ENTITY publicNamespace.accesskey "u">

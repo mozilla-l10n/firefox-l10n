@@ -12,8 +12,8 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY cmd.pause.label                  "Pausearje">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Fierdergean">
-<!ENTITY cmd.resume.accesskey             "F">
+<!ENTITY cmd.resume.label                 "Trochgean">
+<!ENTITY cmd.resume.accesskey             "T">
 <!ENTITY cmd.cancel.label                 "Annulearje">
 <!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.undo.label                   "Ungedien meitsje">
@@ -29,7 +29,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "List wisse">
-<!ENTITY cmd.clearList.tooltip            "Smit foltôge, annulearre en mislearre items fuort út de list">
+<!ENTITY cmd.clearList.tooltip            "Smyt foltôge, annulearre en mislearre items fuort út de list">
 <!ENTITY cmd.clearList.accesskey          "L">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">

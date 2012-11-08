@@ -5,5 +5,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 <!ENTITY title.label "Dwaande mei ynladen sertifikaten">
-<!ENTITY info.message "Dwaande mei trochsykjen fan map nei ûntfangsertifikaten. Dat kin in pear minuten duorje.">
-<!ENTITY stop.label "Ophâlde fan sykjen">
+<!ENTITY info.message "Dwaande mei trochsykjen fan map nei ûntfangstsertifikaten. Dat kin in pear minuten duorje.">
+<!ENTITY stop.label "Ophâlde mei sykjen">

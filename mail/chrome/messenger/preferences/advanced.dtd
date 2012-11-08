@@ -32,8 +32,8 @@
 <!ENTITY configEditDesc.label          		"Wiidweidige konfiguraasje">
 <!ENTITY configEdit.label              		"Konfiguraasje-bewurker…">
 <!ENTITY configEdit.accesskey          		"f">
-<!ENTITY returnReceiptsInfo.label      		"Bepale hoe't &brandShortName; omgiet mei lêsbefestigings">
-<!ENTITY showReturnReceipts.label      		"Lêsbefestigings…">
+<!ENTITY returnReceiptsInfo.label      		"Bepale hoe't &brandShortName; omgiet mei lêsbefestigingen">
+<!ENTITY showReturnReceipts.label      		"Lêsbefestigingen…">
 <!ENTITY showReturnReceipts.accesskey  		"L">
 
 <!-- Display and Reading Settings -->
@@ -63,17 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey 	"S">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                	"Automatysk kontrolearje op fernijings foar:">
+<!ENTITY autoCheck.label                	"Automatysk kontrolearje op fernijingen foar:">
 <!ENTITY enableAppUpdate.label          	"&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      	"T">
-<!ENTITY enableAddonsUpdate.label       	"Ynstallearre tafoegings">
+<!ENTITY enableAddonsUpdate.label       	"Ynstallearre tafoegingen">
 <!ENTITY enableAddonsUpdate.accesskey   	"Y">
-<!ENTITY whenUpdatesFound.label         	"As der fernijings foar &brandShortName; fûn wurde:">
+<!ENTITY whenUpdatesFound.label         	"As der fernijingen foar &brandShortName; fûn wurde:">
 <!ENTITY modeAskMe.label                	"My freegje wat ik dwaan wol">
 <!ENTITY modeAskMe.accesskey            	"r">
 <!ENTITY modeAutomatic.label            	"Automatysk de fernijing ynlade en ynstallearje">
 <!ENTITY modeAutomatic.accesskey        	"f">
-<!ENTITY modeAutoAddonWarn.label        	"My warskôgje as dit ien fan myn tafoegings útskeakelje sil">
+<!ENTITY modeAutoAddonWarn.label        	"My warskôgje as dit ien fan myn tafoegingen útskeakelje sil">
 <!ENTITY modeAutoAddonWarn.accesskey    	"s">
 <!ENTITY showUpdates.label              	"Toan fernijingsskiednis">
 <!ENTITY showUpdates.accesskey          	"d">
@@ -82,13 +82,13 @@
 <!ENTITY useService.accesskey            "a">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label         		"Ynstellingen...">
+<!ENTITY showSettings.label         		"Ynstellingen…">
 <!ENTITY showSettings.accesskey    			"n">
 <!ENTITY proxiesConfigure.label				"Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
 <!ENTITY connectionsInfo.caption			"Ferbining">
 <!ENTITY offlineInfo.caption				"Sûnder ferbining">
 <!ENTITY offlineInfo.label					"Sûnder ferbining-ynstellingen konfigurearje">
-<!ENTITY showOffline.label					"Sûnder ferbining...">
+<!ENTITY showOffline.label					"Sûnder ferbining…">
 <!ENTITY showOffline.accesskey				"S">
 
 <!ENTITY Diskspace 							"Skiifromte">

@@ -28,7 +28,7 @@
 <!ENTITY retentionKeepRecent.label "Alle fuortsmite, útsein de lêste">
 <!ENTITY retentionKeepRecent.accesskey "a">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Altyd lêzen berjochten fuortsmite (negearret leeftydsynstellings)">
+<!ENTITY retentionKeepUnreadHidden.label "Altyd lêzen berjochten fuortsmite (negearret leeftydsynstellingen)">
 <!ENTITY retentionApplyToFlagged.label "Berjochten mei stjerke altyd bewarje">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Berjochtkernen fuortsmite âlder as">

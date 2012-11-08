@@ -9,7 +9,7 @@
 <!ENTITY itemCookies.label       "Webynhâld">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Stel jo standertynstellings foar net-winske-berjochtedeteksje yn. Accountspesifike ynstellings kinne konfigurearre wurde yn Accountynstellings.">
+<!ENTITY junkMail.intro "Stel jo standertynstellingen foar net-winske-berjochtedeteksje yn. Accountspesifike ynstellingen kinne konfigurearre wurde yn Accountynstellingen.">
 <!ENTITY manualMark.label "Wannear ik berjochten markearje as net-winske:">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "se ferpleatse nei de map &quot;Net-winske&quot; fan de account">
@@ -56,7 +56,7 @@
 <!ENTITY expire.label                   "se ferrinne">
 <!ENTITY close.label                    "ik &brandShortName; ôfslút">
 <!ENTITY askEachTime.label              "freegje my elke kear">
-<!ENTITY cookieExceptions.label         "Utsûnderings…">
+<!ENTITY cookieExceptions.label         "Utsûnderingen…">
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Toan Cookies…">
 <!ENTITY showCookies.accesskey          "T">

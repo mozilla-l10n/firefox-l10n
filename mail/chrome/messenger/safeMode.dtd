@@ -5,10 +5,10 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; Feilige moadus">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; wurket no yn feilige moadus, wêrtroch jo persoanlike ynstellingen, tema’s en útwreidings tydlik útskeakele binne.">
+<!ENTITY safeModeDescription.label        "&brandShortName; wurket no yn feilige moadus, wêrtroch jo persoanlike ynstellingen, tema’s en útwreidingen tydlik útskeakele binne.">
 <!ENTITY safeModeDescription2.label       "Jo kinne alle of inkele fan dizze wizigingen permanint meitsje:">
 
-<!ENTITY disableAddons.label              "Alle tafoegings útskeakelje">
+<!ENTITY disableAddons.label              "Alle tafoegingen útskeakelje">
 <!ENTITY disableAddons.accesskey          "t">
 
 <!ENTITY resetToolbars.label              "Arkbalken en betsjinningen werinisjalisearje">

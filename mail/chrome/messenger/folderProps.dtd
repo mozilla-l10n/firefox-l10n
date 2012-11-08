@@ -17,7 +17,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
 <!ENTITY retention.label "Behâldbelied">
-<!ENTITY retentionUseAccount.label  "Brûk myn accountynstellings">
+<!ENTITY retentionUseAccount.label  "Brûk myn accountynstellingen">
 <!ENTITY retentionUseAccount.accesskey "r">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
@@ -31,7 +31,7 @@
 <!ENTITY retentionKeepRecent.label "Alle fuortsmite, útsein de lêste">
 <!ENTITY retentionKeepRecent.accesskey "a">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Lêzen berjochten altyd fuortsmite (negearret leeftydsynstellings)">
+<!ENTITY retentionKeepUnreadHidden.label "Lêzen berjochten altyd fuortsmite (negearret leeftydsynstellingen)">
 <!ENTITY retentionApplyToFlagged.label "Berjochten mei stjer altyd bewarje">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

@@ -17,7 +17,7 @@
 <!ENTITY releaseCmd2.accesskey "U">
 <!ENTITY whatsNewCmd.label "Wat is nij">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY openHelp.label "Help ynhâld">
+<!ENTITY openHelp.label "Helpynhâld">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; Help">

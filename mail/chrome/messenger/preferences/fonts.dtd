@@ -62,7 +62,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Skreefleas">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Lettertype ynstellings">
+<!ENTITY  fontControl.label                       "Lettertype ynstellingen">
 <!ENTITY  useFixedWidthForPlainText.label         "Brûk fêstebreedtelettertype foar platte tekstberjochten">
 <!ENTITY  fixedWidth.accesskey                    "f">
 <!ENTITY  useDocumentFonts.label                  "Berjochten tastean om oare lettertypen te brûken">

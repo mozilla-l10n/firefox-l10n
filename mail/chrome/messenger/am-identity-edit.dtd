@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identityDialog.style "width: 67ch;">
-<!ENTITY identityTitle.label "Identiteitynstellingen">
+<!ENTITY identityTitle.label "Identiteitsynstellingen">
 <!ENTITY identityListDesc.label "Konfigurearje de ynstellingen foar dizze identiteit:">
 
 <!ENTITY settingsTab.label "Ynstellingen">

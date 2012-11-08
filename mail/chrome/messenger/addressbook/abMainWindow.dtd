@@ -27,7 +27,7 @@
 <!ENTITY closeCmd.label                                 "Slute">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Side-ynstellings…">
+<!ENTITY printSetupCmd.label                            "Side-ynstellingen…">
 <!ENTITY printSetupCmd.accesskey                        "S">
 <!ENTITY printPreviewContactCmd.label                   "Ofdrukfoarbyld kontakt">
 <!ENTITY printPreviewContactCmd.accesskey               "f">

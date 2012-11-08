@@ -11,7 +11,7 @@
 <!ENTITY ListNickName.label "Listbynamme: ">
 <!ENTITY ListDescription.label "Beskriuwing: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Typ e-mailadressen om dy ta te foegjen oan 'e mailinglist:">
+<!ENTITY AddressTitle.label "Typ e-mailadressen om ta te foegjen oan 'e mailinglist:">
 <!ENTITY UpButton.label "Ferpleats omheech">
 <!ENTITY DownButton.label "Ferpleats omleech">
 

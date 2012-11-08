@@ -16,7 +16,7 @@
 <!ENTITY feedFolder.label            "Artikelen bewarje yn:">
 <!ENTITY feedFolder.accesskey        "b">
 
-<!ENTITY quickMode.label             "Artikelgearfetting werjaan y.s.f de webside lade">
+<!ENTITY quickMode.label             "Artikelgearfetting werjaan y.s.f de webside">
 <!ENTITY quickMode.accesskey         "A">
 
 <!ENTITY locationValidate.label      "Falidearje">

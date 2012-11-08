@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  connectionsDialog.title       "Ferbiningsynstellings">
+<!ENTITY  connectionsDialog.title       "Ferbiningsynstellingen">
 <!ENTITY  window.width                  "41em">
 
 <!ENTITY  proxyTitle.label              "Proxy’s foar tagong ta it ynternet konfigurearje">
 <!ENTITY  noProxyTypeRadio.label        "Gjin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Systeem proxy-ynstellings brûke">
+<!ENTITY  systemTypeRadio.label         "Systeem proxy-ynstellingen brûke">
 <!ENTITY  systemTypeRadio.accesskey     "k">
-<!ENTITY  WPADTypeRadio.label           "Proxy-ynstellings foar dit netwurk automatysk detektearje">
+<!ENTITY  WPADTypeRadio.label           "Proxy-ynstellingen foar dit netwurk automatysk detektearje">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Hânmjittige proxykonfiguraasje:">
 <!ENTITY  manualTypeRadio.accesskey     "m">

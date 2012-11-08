@@ -28,7 +28,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName;-ymportearhelper">
-<!ENTITY importShortDesc.label    "E-mail, adresboeken, ynstellings en filters fan oanre programma’s ymportearje">
+<!ENTITY importShortDesc.label    "E-mail, adresboeken, ynstellingen en filters fan oanre programma’s ymportearje">
 
 <!ENTITY importDescription1.label "Dizze helper sil e-mailberjochten, adresboekgegevens, foarkarren en/of filters fan oare e-mailprogramma’s en bekende adresboekformaten ymportearje yn &brandShortName;.">
 <!ENTITY importDescription2.label "As dizze ien kear ymportearre binne kinne jo se brûke yn &brandShortName;.">
