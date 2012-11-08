@@ -99,7 +99,7 @@
 <!ENTITY engine.addons.accesskey    "t">
 
 <!ENTITY choice2a.merge.main.label       "Përzie të dhënat e kësaj pajisje me të dhënat e mia nga &syncBrand.shortName.label;-u">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
+<!ENTITY choice2.merge.recommended.label "E këshilluar:">
 <!ENTITY choice2a.client.main.label      "Zëvendëso krejt të dhënat në këtë pajisje me të dhënat e mia nga &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Zëvendëso te krejt pajisjet e tjera me të dhënat nga kjo pajisje">
 
