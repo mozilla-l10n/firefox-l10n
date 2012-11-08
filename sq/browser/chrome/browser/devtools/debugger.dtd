@@ -15,10 +15,6 @@
   -  application menu item that opens the debugger UI. -->
 <!ENTITY debuggerMenu.label2          "Diagnostikues">
 
-<!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
-  -  Tools meny entry of Debugger that opens the debugger UI. -->
-<!ENTITY debuggerMenu.accesskey         "D">
-
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 <!ENTITY remoteDebuggerMenu.label       "Diagnostikues i Largët">
@@ -42,3 +38,13 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle    "Operatorë">
+
+<!ENTITY debuggerUI.stackTitle       "Call stack">
+<!ENTITY debuggerUI.propertiesTitle  "Ndryshore fokusi">
+
+
+<!ENTITY debuggerUI.stepOverButton.tooltip   "Step Over">
+<!ENTITY debuggerUI.stepInButton.tooltip     "Step In">
+<!ENTITY debuggerUI.stepOutButton.tooltip    "Step Out">
+<!ENTITY debuggerUI.emptyScriptText  "Pa skripte">
+<!ENTITY debuggerUI.scriptTitle      "Skripte">
