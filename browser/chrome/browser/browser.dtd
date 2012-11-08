@@ -618,12 +618,10 @@ items are mutually exclusive. -->
 <!ENTITY fullscreenApproval.value "ಪೂರ್ಣತೆರೆಯನ್ನು ಅನುಮತಿಸಬೇಕೆ?">
 <!ENTITY fullscreenExitButton.label "ನಿರಾಕರಿಸು">
 <!ENTITY fullscreenExitHint.value "ಪೂರ್ಣತೆರೆಯಿಂದ ಯಾವುದೆ ಸಮಯದಲ್ಲಿ ನಿರ್ಗಮಿಸಲು ESC ಅನ್ನು ಒತ್ತಿ.">
-<!ENTITY inspectOptionButton.tooltiptext    "ತನಿಖೆಗಾರನ ಆಯ್ಕೆಗಳು">
+<!--ENTITY inspectOptionButton.tooltiptext    "ತನಿಖೆಗಾರನ ಆಯ್ಕೆಗಳು"-->
 <!ENTITY inspectorButton.label "ತನಿಖೆಗಾರ">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
-<!ENTITY inspectorToggleInfobar.label       "ನೋಡ್ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleVeil.label          "ಪುಟವನ್ನು ಮಬ್ಬುಗೊಳಿಸು">
+<!--ENTITY inspectorToggleInfobar.label       "ನೋಡ್ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು"-->
+<!--ENTITY inspectorToggleVeil.label          "ಪುಟವನ್ನು ಮಬ್ಬುಗೊಳಿಸು"-->
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY leaveDOMFullScreen.label "ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು">
 <!ENTITY responsiveDesignTool.accesskey "R">
@@ -641,10 +639,6 @@ items are mutually exclusive. -->
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY socialToolbar.title        "ಸಾಮಾಜಿಕ ಉಪಕರಣಪಟ್ಟಿ ಗುಂಡಿ">
 <!ENTITY social.notLoggedIn.label   "ಪ್ರವೇಶಿಸಲಾಗಿಲ್ಲ">
-<!ENTITY social.sharePopup.undo.label     "ಹಂಚಬೇಡ">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.ok.label       "ಸರಿ">
-<!ENTITY social.sharePopup.ok.accesskey   "O">
 <!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
 <!ENTITY emailPageCmd.accesskey       "E">
 
