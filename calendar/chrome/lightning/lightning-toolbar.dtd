@@ -36,3 +36,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "V">
 <!ENTITY lightning.toolbar.month.label               "Mjesec">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "Izbornik">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Otvori izbornik">
