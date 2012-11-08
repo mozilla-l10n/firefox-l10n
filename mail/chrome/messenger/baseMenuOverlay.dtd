@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Ndihmë">
 <!ENTITY helpMenu.accesskey "N">
@@ -19,7 +23,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 <!ENTITY whatsNewCmd.label "Ç'ka të Re">
 <!ENTITY whatsNewCmd.accesskey "Ç">
-<!ENTITY featureConfiguratorCmd.label "Ndihmës Migrimi">
-<!ENTITY featureConfiguratorCmd.accesskey "i">
 <!ENTITY aboutMenuCmd.label "Mbi &brandShortName;-in">
 <!ENTITY aboutMenuCmd.accesskey "M">

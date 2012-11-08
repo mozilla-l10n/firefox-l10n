@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label             "Të përgjithshme">
 <!ENTITY itemDisplay.label             "Lexim &amp; Paraqitje">
 <!ENTITY itemUpdate.label              "Përditësim">
@@ -6,11 +10,18 @@
 
 <!-- General Settings -->
 
-<!ENTITY submitTelemetry.label         "Parashtroni Të dhëna Funksionimi">
+<!ENTITY submitTelemetry.label         "Parashtro Të dhëna Funksionimi">
 <!ENTITY submitTelemetry.accesskey     "P">
 <!ENTITY telemetryInfoLink.label       "Më tepër informacion mbi Matjet Nga Larg">
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+
+<!ENTITY scrolling.label               "Rëshqitje">
+<!ENTITY useAutoScroll.label           "Përdor vetërrëshqitje">
+<!ENTITY useAutoScroll.accesskey       "v">
+<!ENTITY useSmoothScrolling.label      "Përdor rrëshqitje të butë">
+<!ENTITY useSmoothScrolling.accesskey  "b">
+
 <!ENTITY systemIntegration.label       "Integrim me Sistemin">
 <!ENTITY alwaysCheckDefault.label      "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i klienti parazgjedhje për postën">
 <!ENTITY alwaysCheckDefault.accesskey  "G">
@@ -68,6 +79,9 @@
 <!ENTITY showUpdates.label              "Shfaq Historik Përditësimesh">
 <!ENTITY showUpdates.accesskey          "H">
 
+<!ENTITY useService.label                "Për instalim përditësimesh përdor një shërbim në prapaskenë">
+<!ENTITY useService.accesskey            "i">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Rregullime…">
 <!ENTITY showSettings.accesskey        "R">
@@ -79,9 +93,10 @@
 <!ENTITY showOffline.accesskey         "I">
 
 <!ENTITY Diskspace "Hapësirë Disku">
-<!ENTITY offlineCompact.label "Ngjesh dosje, nëse kështu kursehet vend">
-<!ENTITY offlineCompact.accesskey "N">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "Ngjeshi krejt dosjet kur kjo sjell kursim vendi">
+<!ENTITY offlineCompactFolders.accesskey "N">
+<!ENTITY offlineCompactFoldersMB.label   "MB gjithsej">
+
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -29,6 +33,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Llogari Fjalosjeje…">
 <!ENTITY newIMAccountCmd.accesskey "F">
+<!ENTITY newIMContactCmd.label "Kontakt Fjalosjeje…">
+<!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY openAttachmentCmd.label "Bashkangjitje">
@@ -252,33 +258,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Shfaqi Bashkangjitjet Brendazi">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "B">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Zmadhoji">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Zvogëloji">
-<!ENTITY fullZoomReduceCmd.accesskey    "v">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Riktheje">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "&quot;Zoom&quot; Vetëm Tekstit">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "&quot;Zoom&quot;">
-<!ENTITY fullZoom.accesskey             "Z">
-
 <!ENTITY pageSourceCmd.label "Burim Mesazhi">
 <!ENTITY pageSourceCmd.accesskey "B">
 <!ENTITY pageSourceCmd.key "u">
@@ -486,6 +465,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Jo i gatshëm">
 <!ENTITY imStatus.offline            "Jo në linjë">
 <!ENTITY imStatus.showAccounts       "Shfaq Llogari…">
+<!ENTITY joinChatCmd.label "Hyni Në Fjalosje…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Kartela të ruajtura">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -506,6 +487,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Pastroni Historikun Së Fundi…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "Rregullime Llogarish…">
 <!ENTITY accountManagerCmd.accesskey "u">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -547,6 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Vend Dosjeje">
 <!ENTITY tagButton.label "Etiketë">
 <!ENTITY compactButton.label "Ngjeshe">
+<!ENTITY appmenuButton.label "Menu Zbatimesh">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Kërkim i mëtejshëm në mesazhe">
@@ -577,10 +561,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Shfaq skedën e Fjalosjeve">
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
 <!ENTITY compactButton.tooltip "Hiqini mesazhet e fshirë prej dosjes së përzgjedhur">
+<!ENTITY appmenuButton.tooltip "Shfaq Menunë e Zbatimeve">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Mesazh i Ri">
+<!ENTITY appmenuNewContactCmd.label "Kontakt Nga Libër Adresash…">
+<!ENTITY appmenuEditMenu.label "Përpunoni">
+<!ENTITY appmenuQFBMenu.label "Shtyllë Filtrash të Shpejtë">
+<!ENTITY appmenuToolbarLayout.label "Skemë Paneli…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Etiketë e Re…">
 <!ENTITY addNewTag.accesskey "E">
+<!ENTITY manageTags.label "Administroni Etiketa…">
+<!ENTITY manageTags.accesskey "A">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Emër">
@@ -778,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Postë e Pavlerë">
+<!ENTITY junkBarMessage2.label "&brandShortName;-i mendon se ky mesazh është postë e pavlerë.">
 <!ENTITY junkBarButton1.label "Jo e Pavlerë">
 <!ENTITY junkInfoButton.label "?">
 
