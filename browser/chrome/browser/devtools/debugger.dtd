@@ -49,6 +49,11 @@
 <!ENTITY debuggerUI.showPanesOnInit     "Panneaux développés au démarrage">
 <!ENTITY debuggerUI.showPanesOnInit.key "d">
 
+<!-- LOCALIZATION NOTE (debuggerUI.showVarsSearch): This is the label for the
+  -  checkbox that toggles visibility of a designated variables searchbox. -->
+<!ENTITY debuggerUI.showVarsSearch      "Afficher le champ de recherche des variables">
+<!ENTITY debuggerUI.showVarsSearch.key  "v">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showNonEnums): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. -->
