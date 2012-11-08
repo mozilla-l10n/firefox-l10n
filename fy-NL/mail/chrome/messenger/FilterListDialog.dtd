@@ -5,9 +5,9 @@
 <!ENTITY window.title "Berjochtefilters">
 <!ENTITY nameColumn.label "Filternamme">
 <!ENTITY activeColumn.label "Aktyf">
-<!ENTITY newButton.label "Nij...">
+<!ENTITY newButton.label "Nij…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Bewurkje...">
+<!ENTITY editButton.label "Bewurkje…">
 <!ENTITY editButton.accesskey "B">
 <!ENTITY deleteButton.label "Fuortsmite">
 <!ENTITY deleteButton.accesskey "F">
@@ -20,8 +20,8 @@
 <!ENTITY reorderDownButton.accesskey "l">
 <!ENTITY reorderBottomButton "Underoan pleatse">
 <!ENTITY reorderBottomButton.accessKey "U">
-<!ENTITY reorderBottomButton.toolTip "Ferpleats filter sadat it as lêste útfierd wurdt"><!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
-<!ENTITY filterHeader.label "Aktivearre filters wurkje yn dizze folchoarder.">
+<!ENTITY reorderBottomButton.toolTip "Ferpleats filter sadat it as lêste útfierd wurdt">
+<!ENTITY filterHeader.label "Aktivearre filters wurkje automatysk yn ûndersteande folchoarder.">
 <!ENTITY filtersForPrefix.label "Filters foar:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlochboek">

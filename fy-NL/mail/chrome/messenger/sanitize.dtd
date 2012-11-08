@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title				"Ynstellings foar wiskjen skiednis">
+<!ENTITY sanitizePrefs2.title				"Ynstellingen foar wiskjen skiednis">
 <!ENTITY sanitizeDialog2.title				"Wis resinte skiednis">
 
 <!ENTITY sanitizeItems.label				"De folgjende ûnderdielen no fuortsmite:">

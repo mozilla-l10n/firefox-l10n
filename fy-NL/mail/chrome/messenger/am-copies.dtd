@@ -8,7 +8,7 @@
 <!ENTITY sendingPrefix.label "By it ferstjoeren fan berjochten, automatysk:">
 <!ENTITY fccMailFolder.label "In kopy sette yn:">
 <!ENTITY fccMailFolder.accesskey "k">
-<!ENTITY fccReplyFollowsParent.label "Antwurden sette yn de map fan it berjocht dêr't op antwurde wurdt">
+<!ENTITY fccReplyFollowsParent.label "Antwurden sette yn de map fan it berjocht dêr't op antwurdde wurdt">
 <!ENTITY fccReplyFollowsParent.accesskey "A">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc dizze e-mailadressen:">

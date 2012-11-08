@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title       "Offline-ynstellings">
+<!ENTITY offlineDialog.title       "Offline-ynstellingen">
 
 <!ENTITY textStartUp   "By it opstarten:">
 <!ENTITY radioRememberPrevState.label "Foarige onlinesteat hantearje">
@@ -12,14 +12,14 @@
 <!ENTITY radioAlwaysOnline.label "Altyd online opstarte">
 <!ENTITY radioAlwaysOnline.accesskey "o">
 
-<!ENTITY textGoingOnline "Wolle jo net-ferstjoerde berjochten ferstjoere as jo online geane?">
+<!ENTITY textGoingOnline "Wolle jo net-ferstjoerde berjochten ferstjoere as jo online gean?">
 <!ENTITY radioAutoSend.label "Ja">
 <!ENTITY radioAutoSend.accesskey "J">
 <!ENTITY radioNotSend.label "Nee">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "My freegje">
 <!ENTITY radioAskUnsent.accesskey "f">
-<!ENTITY textGoingOffline "Wolle jo berjochten ynlade foar offline gebrûk foardat jo offline geane?">
+<!ENTITY textGoingOffline "Wolle jo berjochten ynlade foar offline gebrûk foardat jo offline gean?">
 <!ENTITY radioAutoDownload.label "Ja">
 <!ENTITY radioAutoDownload.accesskey "a">
 <!ENTITY radioNotDownload.label "Nee">

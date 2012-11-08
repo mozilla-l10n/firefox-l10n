@@ -33,7 +33,7 @@
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY preferencesCmd.label "Opsjes...">
+<!ENTITY preferencesCmd.label "Opsjes…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey "k">
@@ -45,7 +45,7 @@
 <!ENTITY showTaskbarCmd.label "Steatbalke">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY proxy.label "Proxykonfiguraasje...">
+<!ENTITY proxy.label "Proxykonfiguraasje…">
 <!ENTITY proxy.accesskey "P">
 
 <!ENTITY closeCmd.label "Slute">

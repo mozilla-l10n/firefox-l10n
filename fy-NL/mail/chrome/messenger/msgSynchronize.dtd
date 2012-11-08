@@ -16,7 +16,7 @@
 <!ENTITY sendMessage.accesskey "f">
 <!ENTITY workOffline.label "Offline wurkje sadree it ynladen en/of syngronisearjen klear is">
 <!ENTITY workOffline.accesskey "O">
-<!ENTITY selectButton.label "Selektearje...">
+<!ENTITY selectButton.label "Selektearje…">
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Kies e-mailmappen en nijsgroepen foar offline gebrûk.">
 <!ENTITY MsgSelectInd.label "Ynlade">

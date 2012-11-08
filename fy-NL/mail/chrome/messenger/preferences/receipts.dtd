@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "Lêsbefestigings">
+<!ENTITY dialog.title "Lêsbefestigingen">
 <!ENTITY requestReceipt.label "Altyd in lêsbefestiging freegje by it ferstjoeren fan berjochten">
 <!ENTITY requestReceipt.accesskey "t">
 <!ENTITY receiptArrive.label "As in lêsbefestiging oankomt:">

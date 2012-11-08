@@ -11,10 +11,10 @@
 <!ENTITY menu_securitySign.accesskey "d">
 
 <!ENTITY menu_securityStatus.label "Befeiligingsynformaasje besjen">
-<!ENTITY menu_securityStatus.accesskey "Y">
+<!ENTITY menu_securityStatus.accesskey "i">
 
 <!ENTITY securityButton.label "Befeiliging">
-<!ENTITY securityButton.tooltip "Befeiligingsynstellings besjen of wizigje">
+<!ENTITY securityButton.tooltip "Befeiligingsynstellingen besjen of wizigje">
 
 <!ENTITY menu_viewSecurityStatus.label "Befeiligingsynformaasje">
-<!ENTITY menu_viewSecurityStatus.accesskey "Y">
+<!ENTITY menu_viewSecurityStatus.accesskey "i">

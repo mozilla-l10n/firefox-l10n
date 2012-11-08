@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title "Ymportearassistint">
 
-<!ENTITY importFromWin.label "Opsjes, accountynstellings, adresboek, filters en oare gegevens ymportearje út:">
-<!ENTITY importFromNonWin.label "Foarkarren, accountynstellings, adresboek en oare gegevens ymportearje út:">
+<!ENTITY importFromWin.label "Opsjes, accountynstellingen, adresboek, filters en oare gegevens ymportearje út:">
+<!ENTITY importFromNonWin.label "Foarkarren, accountynstellingen, adresboek en oare gegevens ymportearje út:">
 
 <!ENTITY importFromNothing.label "Neat ymportearje">
 <!ENTITY importFromNothing.accesskey "t">

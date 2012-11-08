@@ -11,14 +11,14 @@
 
 <!ENTITY accountsSectionHdr.label		"Accounts">
 <!ENTITY subscribeImapFolders.label		"Mapabonneminten beheare">
-<!ENTITY settingsLink.label				"Ynstellings foar dizze account besjen">
+<!ENTITY settingsLink.label				"Ynstellingen foar dizze account besjen">
 <!ENTITY newAcctLink.label				"Nij account oanmeitsje">
 
 <!ENTITY advFeaturesSectionHdr.label	"Wiidweidige  mooglikheden">
 <!ENTITY searchMsgsLink.label			"Berjochten sykje">
 <!ENTITY filtersLink.label				"Berjochtefilters beheare">
 <!ENTITY junkSettings.label				"Net-winske-berjochtefilters ynstelle">
-<!ENTITY offlineLink.label				"Offline-ynstellings">
+<!ENTITY offlineLink.label				"Offline-ynstellingen">
 
 <!ENTITY feedsSectionHdr.label			"Feeds">
 <!ENTITY subscribeFeeds.label			"Abonneminten beheare">
