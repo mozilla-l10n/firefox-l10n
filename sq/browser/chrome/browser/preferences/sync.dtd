@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Rregulloni &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "R">
@@ -18,8 +22,8 @@
 <!ENTITY pairDevice.label             "Përshoqëroni një Pajisje">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Emri i Kompjuterit:">
-<!ENTITY syncComputerName.accesskey   "E">
+<!ENTITY syncDeviceName.label       "Emri i Pajisjes:">
+<!ENTITY syncDeviceName.accesskey   "E">
 <!ENTITY unlinkDevice.label           "Shkëpute Këtë Pajisje">
 
 <!ENTITY syncMy.label               "Njëkohëso">

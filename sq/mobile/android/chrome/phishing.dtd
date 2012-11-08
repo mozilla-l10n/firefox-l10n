@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "E dyshuar për Sajesë Web">
 
 <!ENTITY safeb.palm.message.p1 "Kjo faqe është raportuar si sajesë web e hartuar për t'i tërhequr përdoruesit rrejshëm në dhënie të dhënash personale ose financiare. Dhënia e çfarëdo të dhëne personale në këtë faqe mund të sjellë vjedhje identiti ose të tjera mashtrime. &#160;">

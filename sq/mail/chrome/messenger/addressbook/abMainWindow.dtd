@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Libër Adresash">
 
 <!-- File Menu -->
@@ -149,8 +153,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "E">
 <!ENTITY PrimaryEmail.label                             "Email-esh">
 <!ENTITY PrimaryEmail.accesskey                         "m">
-<!ENTITY ScreenName.label                               "Emrash në Ekran">
-<!ENTITY ScreenName.accesskey                           "a">
+<!ENTITY ChatName.label                                 "Emrash Fjalosjeje">
+<!ENTITY ChatName.accesskey                             "F">
 <!ENTITY Company.label                                  "Organizmash">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Nofkash">
@@ -185,6 +189,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY other.heading                                  "Tjetër">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "E punës">
+<!ENTITY chat.heading                                   "Fjalosje">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Përshkrim">
 <!ENTITY addresses.heading                              "Adresë">

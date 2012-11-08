@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
@@ -67,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Më të vogla">
 <!ENTITY decreaseFontSize.accesskey "v">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Më të mëdhaja">
 <!ENTITY increaseFontSize.accesskey "m">
 <!ENTITY increaseFontSize.key "+">
