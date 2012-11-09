@@ -17,7 +17,7 @@
 <!ENTITY  WPADTypeRadio.label           "Automatski pronađi proxy postavke za ovu mrežu">
 <!ENTITY  WPADTypeRadio.accesskey       "u">
 <!ENTITY  manualTypeRadio.label         "Ručno podešavanje proxya:">
-<!ENTITY  manualTypeRadio.accesskey     "i">
+<!ENTITY  manualTypeRadio.accesskey     "e">
 <!ENTITY  autoTypeRadio.label           "URL za automatsko podešavanje proxya:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Ponovno učitaj">
@@ -40,7 +40,7 @@
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Bez proxya za:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "x">
 <!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Koristi ovaj proxy poslužitelj za sve protokole">
 <!ENTITY  shareproxy.accesskey          "x">

@@ -65,7 +65,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Vrati">
 <!ENTITY fullScreenClose.tooltip "Zatvori">
 <!ENTITY fullScreenAutohide.label "Sakrij alatne trake">
-<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenAutohide.accesskey "k">
 <!ENTITY fullScreenExit.label "Izađi iz prikaza potpunog ekrana">
 <!ENTITY fullScreenExit.accesskey "p">
 <!ENTITY fullscreenAllowButton.label "Dopusti">
@@ -563,7 +563,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  moveToNewWindow.accesskey          "z">
 <!ENTITY  moveToNewWindow.label              "Premjesti u novi prozor">
 <!ENTITY  pinTab.label                       "Zakači karticu">
-<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  pinTab.accesskey                   "k">
 <!ENTITY  unpinTab.label                     "Otkači karticu">
 <!ENTITY  unpinTab.accesskey                 "O">
 <!ENTITY  reloadAllTabs.label                "Osvježi sve kartice">
