@@ -71,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Manji">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Veći">
 <!ENTITY increaseFontSize.accesskey "V">
 <!ENTITY increaseFontSize.key "+">
