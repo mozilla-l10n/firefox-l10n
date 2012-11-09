@@ -188,7 +188,7 @@
 <!ENTITY event.attachments.popup.open.label               "Otvori" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Ukloni sve" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "k" >
 <!ENTITY event.attachments.popup.attachPage.label         "Priloži web stranicu…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
 <!ENTITY event.url.label                                  "Povezana poveznica:" >
