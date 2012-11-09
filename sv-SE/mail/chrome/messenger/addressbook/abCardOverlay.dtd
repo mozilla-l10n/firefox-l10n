@@ -127,7 +127,7 @@ sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.
 <!ENTITY Notes.accesskey                "n">
 
 <!ENTITY Chat.tab                       "Chatt">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "C">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
