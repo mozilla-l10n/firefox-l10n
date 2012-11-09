@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Panel Kalendari">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Panel Punësh">
-<!ENTITY lightning.toolbar.task.accesskey "P">
+<!ENTITY lightning.toolbar.task.name.accesskey "P">
 
 <!ENTITY lightning.toolbar.sync.label "Njëkohësoje">
 <!ENTITY lightning.toolbar.delete.label "Fshije">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Shtype">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Postë">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendar">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Kaloni te skeda e kalendarit">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
