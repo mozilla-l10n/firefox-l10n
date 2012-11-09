@@ -8,7 +8,7 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Uveæaj">
+<!ENTITY fullZoomEnlargeCmd.label       "UveÄ‡aj">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "v">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -19,12 +19,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Vrati na poèetno">
+<!ENTITY fullZoomResetCmd.label         "Vrati na poÄetno">
 <!ENTITY fullZoomResetCmd.accesskey     "r">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Uveæaj samo tekst">
+<!ENTITY fullZoomToggleCmd.label        "UveÄ‡aj samo tekst">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Uveæanje">
+<!ENTITY fullZoom.label                 "UveÄ‡anje">
 <!ENTITY fullZoom.accesskey             "U">
