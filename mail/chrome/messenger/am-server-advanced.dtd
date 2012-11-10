@@ -5,7 +5,7 @@
 <!ENTITY serverAdvanced.label "Napredne postavke računa">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP poslužiteljska mapa:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "m">
 <!ENTITY usingSubscription.label "Prikaži samo mape na koje sam pretplaćen(a)">
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "Poslužitelj podržava mape koje sadrže podmape i poruke">
