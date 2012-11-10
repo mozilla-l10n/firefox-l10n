@@ -23,7 +23,7 @@
 <!ENTITY searchFilter.label                "Filter za pretraživanje: ">
 <!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Opseg: ">
-<!ENTITY scope.accesskey                   "j">
+<!ENTITY scope.accesskey                   "g">
 <!ENTITY scopeOneLevel.label               "Jedna razina">
 <!ENTITY scopeOneLevel.accesskey           "e">
 <!ENTITY scopeSubtree.label                "Podstablo">

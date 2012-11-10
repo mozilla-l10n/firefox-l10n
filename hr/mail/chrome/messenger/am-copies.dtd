@@ -47,4 +47,4 @@
 <!ENTITY templatesFolderOn.label "Mapi &quot;Predlošci&quot; u:">
 <!ENTITY templatesFolderOn.accesskey "M">
 <!ENTITY templateInOtherFolder.label "Drugo:">
-<!ENTITY templateInOtherFolder.accesskey "i">
+<!ENTITY templateInOtherFolder.accesskey "D">

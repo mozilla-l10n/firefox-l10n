@@ -6,7 +6,7 @@
 <!ENTITY useGlobalPrefs.label         "Koristi opće postavke potvrde čitanja za ovaj račun">
 <!ENTITY useGlobalPrefs.accesskey     "u">
 <!ENTITY globalReceipts.label         "Opće postavke…">
-<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY globalReceipts.accesskey     "p">
 <!ENTITY useCustomPrefs.label         "Prilagodi potvrde čitanja za ovaj račun">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Prilikom slanja poruke, uvijek zahtijevaj potvrdu čitanja">
