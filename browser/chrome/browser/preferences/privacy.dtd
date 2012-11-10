@@ -1,3 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "History">
 
 <!ENTITY  locationBar.label             "Location Bar">
@@ -9,7 +18,6 @@
 <!ENTITY  locbar.history.label          "History">
 <!ENTITY  locbar.bookmarks.label        "Bookmarks">
 <!ENTITY  locbar.nothing.label          "Nothing">
-
 
 <!ENTITY  acceptCookies.label           "Accept cookies from sites">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -29,7 +37,6 @@
 
 <!ENTITY  showCookies.label             "Show Cookies…">
 <!ENTITY  showCookies.accesskey         "S">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
@@ -57,17 +64,14 @@
 <!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Remember download history">
-<!ENTITY  rememberDownload.accesskey     "R">
+<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "h">
+<!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
 <!ENTITY  clearOnClose.accesskey         "n">

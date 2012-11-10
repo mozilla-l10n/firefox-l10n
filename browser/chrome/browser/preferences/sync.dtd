@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
@@ -13,10 +17,11 @@
 <!ENTITY manageAccount.label          "Manage Account">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY changePassword2.label        "Change Password…">
+<!ENTITY myRecoveryKey.label          "My Recovery Key">
+<!ENTITY resetSync2.label             "Reset Sync…">
+
+<!ENTITY pairDevice.label             "Pair a Device">
 
 <!ENTITY syncMy.label               "Synchronise My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
@@ -29,11 +34,13 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferences">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY unlinkDevice.label           "Unlink This Device">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Terms of Service">
