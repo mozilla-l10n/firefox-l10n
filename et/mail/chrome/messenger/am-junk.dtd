@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Valik">
 <!ENTITY junkActions.label      "Sihtkoht ja säilitamine">
+
+<!ENTITY globalJunkPrefs.label  "Üldised rämsposti sätted…">
+<!ENTITY globalJunkPrefs.accesskey "d">

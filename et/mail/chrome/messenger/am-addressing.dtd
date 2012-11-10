@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey   "s">
 <!ENTITY includeSigOnForward.label     "Edastatavatele kirjadele lisatakse signatuur">
 <!ENTITY includeSigOnForward.accesskey "d">
+
+<!ENTITY globalComposingPrefs.label    "Üldised koostamise sätted…">
+<!ENTITY globalComposingPrefs.accesskey "l">
+
+<!ENTITY globalAddressingPrefs.label   "Üldised adresseerimise sätted…">
+<!ENTITY globalAddressingPrefs.accesskey "i">
