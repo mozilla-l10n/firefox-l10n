@@ -25,7 +25,7 @@
 <!ENTITY lightning.toolbar.newevent.label     "Event">
 <!ENTITY lightning.toolbar.newtask.label      "Task">
 
-<!-- Messenger Toolbar -->
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Day">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Week">
@@ -34,3 +34,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "u">
 <!ENTITY lightning.toolbar.month.label               "Month">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Displays the Application Menu">
