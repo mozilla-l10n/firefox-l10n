@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label         'Uue seadme aktiveerimiseks vali antud seadmel “Seadista sünkroniseerimine”.'>
-<!ENTITY sync.subtitle.header.label          'Sisesta see kood oma teises seadmes'>
-<!ENTITY sync.subtitle.connectlocation.label 'Oma töölaua Firefoxi seadistamise alt vali &syncBrand.shortName.label;i kaart ning vajuta “&sync.title.pair.label;”'>
+<!ENTITY sync.subtitle.header2.label         'Sisesta see kood oma teises seadmes'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Leia oma teise seadme Firefoxi seadistamise alt &syncBrand.shortName.label;i sätted ning vajuta “&sync.title.pair.label;”'>
 <!ENTITY sync.subtitle.pair.label            'Aktiveerimiseks vali “Lisa seade” oma teisel seadmel.'>
 <!ENTITY sync.pin.default.label              '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label              '...'>
