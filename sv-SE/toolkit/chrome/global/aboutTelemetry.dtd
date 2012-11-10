@@ -22,7 +22,7 @@
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  Webbläsaren hänger sig
+  Hängningar i webbläsaren
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
@@ -50,7 +50,7 @@
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (Ingen data insamlad)
+  (Ingen insamlad data)
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
