@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
@@ -17,10 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "Вимикати або замінювати контекстні меню">
 <!ENTITY allowHideStatusBar.label        "Приховувати рядок стану">
 
-<!ENTITY enablePlugin.label              "Ввімкнути додатки для">
+<!ENTITY enablePlugins.label             "Увімкнути додатки для">
 <!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
+<!ENTITY enablePluginForSuite.accesskey  "S">
 
-<!ENTITY whenPluginsRequired.label       "Коли потрібно ще додаток">
-<!ENTITY displayNotification.label       "Показувати панель сповіщення зверху контекстної ділянки">
-<!ENTITY displayNotification.accesskey   "П">
+<!ENTITY whenPageRequiresPlugins.label   "Коли сторінка вимагає додатки">
+<!ENTITY activateAllPlugins.label        "Типово вмикати всі додатки">
+<!ENTITY activateAllPlugins.accesskey    "Т">
+<!ENTITY warnPluginsRequired.label       "Повідомляти мене, якщо потрібно встановити ще якісь додатки">
+<!ENTITY warnPluginsRequired.accesskey   "П">

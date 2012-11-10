@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Параметри спаму">
-<!ENTITY trainingWarning.label "Спочатку вам слід навчити &brandShortName; визначати небажану пошту, використовуючи кнопку «Спам», щоб призначити лист спамом. Вам потрібно визначати як небажану, так і звичайну пошту.">
+<!ENTITY trainingDescription.label "Коли ввімкнено, спочатку потрібно навчити &brandShortName; ідентифікувати спам через кнопку панелі інструментів спаму, щоб зазначати листи як спам або неспам. Потрібно ідентифікувати як і спам, так і неспам. Після цього &brandShortName; зможе автоматично зазначати спам.">
 <!ENTITY level.label "Увімкнути контроль спаму для цього облікового запису">
 <!ENTITY level.accesskey "У">
 
@@ -13,8 +17,12 @@
 <!ENTITY purge1.accesskey "д">
 <!ENTITY purge2.label "днів">
 
-<!ENTITY whitelist.label "Не призначати пошту спамом, якщо відправник перебуває в: ">
-<!ENTITY whitelist.accesskey "Н">
+<!ENTITY whitelistHeader.label "Не зазначати пошту як спам автоматично, якщо відправник є в: ">
+<!ENTITY whitelistHeader.accesskey "Н">
 
+<!ENTITY ispHeadersWarning.label "Коли ввімкнено, &brandShortName; автоматично вважатиме листи зазначеними як спам через зовнішній класифікатор.">
 <!ENTITY ispHeaders.label "Довіряти полям заголовків листів, встановлених: ">
 <!ENTITY ispHeaders.accesskey "Д">
+
+<!ENTITY junkClassification.label "Відбір">
+<!ENTITY junkActions.label "Призначення та утримування">

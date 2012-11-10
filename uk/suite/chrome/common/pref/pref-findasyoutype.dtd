@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Знаходити протягом набирання">
 <!ENTITY findAsYouTypeBehavior.label "Знаходити протягом набирання тексту">
 <!ENTITY findAsYouTypeTip.label "Підказка: для автоматичного запуску пошуку протягом набирання, введіть / для знаходження тексту або ' для знаходження посилань, у міру пошуку тексту.">

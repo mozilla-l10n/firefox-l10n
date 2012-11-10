@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
 <!ENTITY pref.locationBar.title                "Панель адрес">
 
@@ -22,6 +26,10 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Скрізь, але переважно в межах слова">
 <!ENTITY autoCompleteMatchWords                "Лише в межах слова">
 <!ENTITY autoCompleteMatchStart                "Лише на початку адреси або назви">
+
+<!ENTITY formatting.label                      "Форматування">
+<!ENTITY domainFormatting.label                "Підсвічувати чинний домен для сайтів і серверів FTP">
+<!ENTITY domainFormatting.accesskey            "і">
 
 <!ENTITY searchEngine.label                    "Пошуковий рушій">
 <!ENTITY showSearchEngine.label                "Показати типовий рушій пошуку">

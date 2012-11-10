@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Відкинути контекстні вікна з цього сайту">
 <!ENTITY popupWindowRejectCmd.accesskey "В">
@@ -51,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "П">
 <!ENTITY viewBGImageCmd.label         "Переглянути зображення тла">
 <!ENTITY viewBGImageCmd.accesskey     "П">
-<!ENTITY setWallpaperCmd.label        "Встановити як шпалери">
-<!ENTITY setWallpaperCmd.accesskey    "A">
+<!ENTITY setDesktopBackgroundCmd.label     "Встановити тло стільниці…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "т">
 <!ENTITY bookmarkPageCmd.label        "Закласти цю сторінку">
 <!ENTITY bookmarkPageCmd.accesskey    "З">
 <!ENTITY bookmarkLinkCmd.label        "Закласти це посилання">
@@ -117,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "Додати до словника">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label      "Вилучити зі словника">
+<!ENTITY spellUndoAddToDictionary.accesskey  "В">
 <!ENTITY spellIgnoreWord.label          "Пропустити слово">
 <!ENTITY spellIgnoreWord.accesskey      "П">
 <!ENTITY spellCheckEnable.label         "Перевіряти правопис">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Коліщатко мишки">
@@ -6,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Вертикальна прокручування">
-<!ENTITY mousewheelHorizGroup.label      "Горизонтальна прокручування">
-<!ENTITY scroll.label                    "Прокручувати документ за ">
-<!ENTITY scroll.accesskey                "П">
-<!ENTITY scrollHoriz.accesskey           "Г">
-<!ENTITY scrollLines.label               "рядками">
-<!ENTITY scrollChars.label               "символами">
-<!ENTITY useSystemDefault.label          "Використовувати типові, задані системою">
-<!ENTITY useSystemDefault.accesskey      "В">
-<!ENTITY useSystemDefaultHoriz.accesskey "Г">
-<!ENTITY scrollPgUpPgDn.label            "Прокручувати сторінку вверх або вниз">
-<!ENTITY scrollPgUpPgDn.accesskey        "П">
-<!ENTITY scrollPgLtPgRt.label            "Прокручувати сторінку вліво або вправо">
-<!ENTITY scrollPgLtPgRt.accesskey        "П">
+<!ENTITY mouseWheelAction.label          "Прокручування миші">
+<!ENTITY doNothing.label                 "Нічого не робити">
+<!ENTITY doNothing.accesskey             "Н">
+<!ENTITY scrollDocument.label            "Прокручувати документ">
+<!ENTITY scrollDocument.accesskey        "П">
 <!ENTITY history.label                   "Повернутись і перейти до історії навігації">
 <!ENTITY history.accesskey               "П">
-<!ENTITY historyHoriz.accesskey          "Г">
 <!ENTITY zoom.label                      "Масштабувати сторінку ближче або дальше">
 <!ENTITY zoom.accesskey                  "М">
-<!ENTITY zoomHoriz.accesskey             "Г">
+<!ENTITY mouseWheelSpeed.label           "Швидкіть прокручування миші">
+<!ENTITY verticalSpeed.label             "Вертикально:">
+<!ENTITY verticalSpeed.accesskey         "В">
+<!ENTITY verticalReverse.label           "Зворотний напрямок">
+<!ENTITY verticalReverse.accesskey       "З">
+<!ENTITY horizontalSpeed.label           "Горизонтально:">
+<!ENTITY horizontalSpeed.accesskey       "Г">
+<!ENTITY horizontalReverse.label         "Зворотний напрямок">
+<!ENTITY horizontalReverse.accesskey     "в">
