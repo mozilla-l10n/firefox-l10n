@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Sidenavigasjonslinje">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "Nettstednavigasjonslinje">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Vis alltid">
