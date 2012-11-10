@@ -12,7 +12,7 @@
 
 <!ENTITY submitTelemetry.label "Envoyer les rapports de performance">
 <!ENTITY submitTelemetry.accesskey "E">
-<!ENTITY telemetryInfoLink.label "Plus de détails sur la métrologie">
+<!ENTITY telemetryInfoLink.label "Plus de détails sur la télémétrie">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
 <!ENTITY scrolling.label "Défilement">
