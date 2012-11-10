@@ -70,11 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip              "Vali fondi suurus">
 <!ENTITY decreaseFontSize.label              "Väiksem">
 <!ENTITY decreaseFontSize.accesskey          "V">
-<!ENTITY decreaseFontSize.key                "-">
+<!ENTITY decreaseFontSize.key                "&lt;">
+<!ENTITY decreaseFontSize.key2               ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label              "Suurem">
 <!ENTITY increaseFontSize.accesskey          "S">
-<!ENTITY increaseFontSize.key                "+">
-<!ENTITY increaseFontSize.key2               "="><!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key                "&gt;">
+<!ENTITY increaseFontSize.key2               "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label                  "Suurus">
 <!ENTITY fontSizeMenu.accesskey              "u">
