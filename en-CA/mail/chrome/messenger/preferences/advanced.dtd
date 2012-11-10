@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Update">
@@ -6,15 +10,25 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "System Integration">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "Check Now">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Advanced Configuration">
 <!ENTITY configEdit.label              "Config Editor…">
 <!ENTITY configEdit.accesskey          "C">
@@ -31,12 +45,12 @@
 <!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.accesskey   "m">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "seconds">
 <!ENTITY openMsgIn.label               "Open messages in:">
 <!ENTITY openMsgInNewTab.label         "A new tab">
@@ -56,13 +70,16 @@
 <!ENTITY enableAddonsUpdate.accesskey   "A">
 <!ENTITY whenUpdatesFound.label         "When updates to &brandShortName; are found,">
 <!ENTITY modeAskMe.label                "Ask me what I want to do">
-<!ENTITY modeAskMe.accesskey            "A">
+<!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "Automatically download and install the update">
 <!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "Warn me if this will disable any of my add-ons">
 <!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "Show Update History">
-<!ENTITY showUpdates.accesskey          "U">
+<!ENTITY showUpdates.accesskey          "S">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Settings…">
@@ -74,10 +91,10 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Disc Space">
-<!ENTITY offlineCompact.label "Compact folders when it will save over">
-<!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "kB">
+<!ENTITY Diskspace                       "Disc Space">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "m">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
