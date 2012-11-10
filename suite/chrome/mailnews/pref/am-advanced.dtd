@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Параметри сервера виходових листів (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Хоча ви можете вказати кілька серверів SMTP, це рекомендовано лише досвідченим користувачам. Встановлення кількох серверів SMTP може призвести до помилок надсилання пошти.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Протягом керування своїми ідентифікаціями, можете використовувати сервер з цього списку, вибравши його як виходовий сервер (SMTP), або можете використовувати типовий сервер зі списку, вибравши &quot;Використовувати типовий сервер&quot;.">
 
 <!ENTITY smtpListAdd.label  "Додати…">
 <!ENTITY smtpListAdd.accesskey  "Д">

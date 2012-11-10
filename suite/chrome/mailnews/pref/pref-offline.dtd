@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
@@ -29,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "В">
 <!ENTITY mailnewsTimeoutSeconds.label     "секунд">
 <!ENTITY Diskspace                        "Дисковий простір">
-<!ENTITY offlineCompact.label             "Стискати теки, якщо за допомогою цього вивільнятиметься більше за">
-<!ENTITY offlineCompact.accesskey         "С">
-<!ENTITY mb.label                         "МБ">
+<!ENTITY offlineCompactFolders.label      "Стиснути всі теки, коли вони наберуть понад">
+<!ENTITY offlineCompactFolders.accesskey  "C">
+<!ENTITY offlineCompactFoldersMB.label    "МБ усього">

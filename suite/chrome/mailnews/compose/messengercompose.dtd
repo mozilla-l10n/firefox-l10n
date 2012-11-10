@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Compose: (no subject)">
 
@@ -79,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Сповіщення про доставлення">
 <!ENTITY returnReceiptMenu.accesskey "С">
+<!ENTITY dsnMenu.label "Сповіщення про стан доставлення">
+<!ENTITY dsnMenu.accesskey "д">
+
 <!ENTITY outputFormatMenu.label "Формат">
 <!ENTITY outputFormatMenu.accesskey  "Ф">
 <!ENTITY autoFormatCmd.label "Автоматичне визначення">
@@ -115,12 +122,6 @@
 <!ENTITY stopButton.tooltip "Зупинити поточне передавання даних"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(Порад не знайдено)">
-<!ENTITY spellCheckIgnoreWord.label "Пропустити слово">
-<!ENTITY spellCheckIgnoreWord.accesskey "П">
-<!ENTITY spellCheckAddToDictionary.label "Додати в словник">
-<!ENTITY spellCheckAddToDictionary.accesskey "Д">
-
 <!ENTITY openAttachment.label "Відкрити">
 <!ENTITY openAttachment.accesskey "В">
 <!ENTITY renameAttachment.label "Перейменувати…">

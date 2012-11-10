@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Сховище листів">
 <!ENTITY securitySettings.label "Параметри безпеки">
 <!ENTITY serverSettings.label "Параметри сервера">
 <!ENTITY serverType.label "Тип сервера:">
@@ -63,16 +68,19 @@
 <!ENTITY alwaysAuthenticate.label "Завжди проводити аутентифікацію під час з'єднання до цього сервера">
 <!ENTITY alwaysAuthenticate.accesskey "З">
 <!ENTITY newsrcFilePath.label "файл newsrc:">
-<!ENTITY localPath.label "Локальна тека:">
+<!ENTITY newsrcPicker.label "Вибрати файл newsrc">
 <!ENTITY abbreviate.label "Показувати назви груп новин як:">
 <!ENTITY abbreviateOn.label "Повні (наприклад, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Абревіатури (наприклад, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Додатково…">
 <!ENTITY serverDefaultCharset.label "Типове кодування:">
 <!ENTITY advancedButton.accesskey "Т">
+<!ENTITY localPath.label "Локальна тека:">
 <!ENTITY localFolderPicker.label "Адреса локальних тек">
 <!ENTITY browseFolder.label "Огляд…">
 <!ENTITY browseFolder.accesskey "О">
-<!ENTITY newsrcPicker.label "Вибрати файл newsrc">
 <!ENTITY browseNewsrc.label "Огляд…">
 <!ENTITY browseNewsrc.accesskey "О">
+
+<!ENTITY accountTitle.label "Параметри облікового запису">
+<!ENTITY accountSettingsDesc.label "Це — особливий обліковий запис. Немає ідентичностей пов'язаних з ним.">
