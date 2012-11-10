@@ -13,6 +13,8 @@
 <!ENTITY debuggerUI.pauseExceptions.key "M">
 <!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all'avvio">
 <!ENTITY debuggerUI.showPanesOnInit.key "V">
+<!ENTITY debuggerUI.showVarsSearch "Visualizza campo di ricerca variabili">
+<!ENTITY debuggerUI.showVarsSearch.key "u">
 <!ENTITY debuggerUI.showNonEnums "Visualizza proprietà nascoste">
 <!ENTITY debuggerUI.showNonEnums.key "s">
 <!ENTITY debuggerUI.searchPanelTitle "Operatori">
