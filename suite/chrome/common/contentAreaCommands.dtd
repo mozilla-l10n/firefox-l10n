@@ -55,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">
 <!ENTITY viewBGImageCmd.accesskey     "b">
-<!ENTITY setWallpaperCmd.label        "Sett som skrivebordsbakgrunn">
-<!ENTITY setWallpaperCmd.accesskey    "S">
+<!ENTITY setDesktopBackgroundCmd.label     "Sett skrivebordsbakgrunn …">
+<!ENTITY setDesktopBackgroundCmd.accesskey "S">
 <!ENTITY bookmarkPageCmd.label        "Bokmerk">
 <!ENTITY bookmarkPageCmd.accesskey    "B">
 <!ENTITY bookmarkLinkCmd.label        "Bokmerk lenke">

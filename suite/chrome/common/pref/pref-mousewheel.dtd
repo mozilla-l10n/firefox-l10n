@@ -10,23 +10,21 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Vertikal rulling">
-<!ENTITY mousewheelHorizGroup.label      "Horisontal rulling">
-<!ENTITY scroll.label                    "Bla dokumentet">
-<!ENTITY scroll.accesskey                "l">
-<!ENTITY scrollHoriz.accesskey           "a">
-<!ENTITY scrollLines.label               "linjer">
-<!ENTITY scrollChars.label               "tegn">
-<!ENTITY useSystemDefault.label          "Bruk standardverdi">
-<!ENTITY useSystemDefault.accesskey      "r">
-<!ENTITY useSystemDefaultHoriz.accesskey "d">
-<!ENTITY scrollPgUpPgDn.label            "Bla en side opp eller ned">
-<!ENTITY scrollPgUpPgDn.accesskey        "B">
-<!ENTITY scrollPgLtPgRt.label            "Rull en side til venstre eller høyre">
-<!ENTITY scrollPgLtPgRt.accesskey        "u">
-<!ENTITY history.label                   "Flytt bakover og forover i historikken">
+<!ENTITY mouseWheelAction.label          "Mushjulhandling">
+<!ENTITY doNothing.label                 "Gjør ingenting">
+<!ENTITY doNothing.accesskey             "G">
+<!ENTITY scrollDocument.label            "Rull i dokumentet">
+<!ENTITY scrollDocument.accesskey        "R">
+<!ENTITY history.label                   "Flytt tilbake og frem i nettleserhistorikken">
 <!ENTITY history.accesskey               "F">
-<!ENTITY historyHoriz.accesskey          "b">
-<!ENTITY zoom.label                      "Forstørr eller forminsk teksten">
-<!ENTITY zoom.accesskey                  "o">
-<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY zoom.label                      "Zoom siden inn eller ut">
+<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY mouseWheelSpeed.label           "Musrullehjulhastighet">
+<!ENTITY verticalSpeed.label             "Vertikalt:">
+<!ENTITY verticalSpeed.accesskey         "V">
+<!ENTITY verticalReverse.label           "Motsatt retning">
+<!ENTITY verticalReverse.accesskey       "M">
+<!ENTITY horizontalSpeed.label           "Horisontalt:">
+<!ENTITY horizontalSpeed.accesskey       "o">
+<!ENTITY horizontalReverse.label         "Motsatt retning">
+<!ENTITY horizontalReverse.accesskey     "t">
