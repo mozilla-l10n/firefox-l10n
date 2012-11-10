@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Returkvitteringer">
 <!ENTITY useGlobalPrefs.label         "Bruk globale innstillinger">
 <!ENTITY useGlobalPrefs.accesskey     "B">
+<!ENTITY globalReceipts.label         "Globale innstillinger …">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Bruk egne innstillinger">
 <!ENTITY useCustomPrefs.accesskey     "r">
 <!ENTITY requestReceipt.label         "Alltid be om kvittering">

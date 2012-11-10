@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "r">
 <!ENTITY browse.label                     "Bla gjennom …">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "Utvidelser">
-<!ENTITY manageAddonsDescWin.label        "Forandre innstillinger for utvidelser">
-<!ENTITY manageAddonsDescUnix2.label      "Forandre innstillinger for utvidelser">
-<!ENTITY manageAddons.label               "Behandle utvidelser …">
-<!ENTITY manageAddons.accesskey           "d">
