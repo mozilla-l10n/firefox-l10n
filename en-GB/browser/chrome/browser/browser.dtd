@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -17,17 +21,17 @@
 <!ENTITY  reloadAllTabs.label                "Reload All Tabs">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  closeOtherTabs.label               "Close Other Tabs">
-<!ENTITY  closeOtherTabs.accesskey           "O">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Move to Group">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "New Group">
@@ -57,8 +61,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Print…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Import…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Work Offline">
 <!ENTITY goOfflineCmd.accesskey "W">
@@ -79,6 +81,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Page Info">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Full Screen">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -92,6 +100,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Exit Full Screen Mode">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullscreenAllowButton.label "Allow">
+<!ENTITY fullscreenExitButton.label "Deny">
+<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+
+<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
+<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Close Window">
 <!ENTITY closeWindow.accesskey "d">
@@ -100,11 +115,12 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Bookmark This Page">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
 <!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page…">
 <!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
 <!ENTITY showAllBookmarks2.label "Show All Bookmarks">
-<!ENTITY bookmarkAllCmd.label "Bookmark All Tabs…">
+<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
 <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
 <!ENTITY backCmd.label                "Back">
@@ -113,6 +129,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Forward">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Go forwards one page">
+<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
 <!ENTITY reloadCmd.label              "Reload">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Reload current page">
@@ -179,6 +197,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Web Developer">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
 <!ENTITY errorConsoleCmd.label        "Error Console">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -186,33 +207,79 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.label          "Web Console">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY inspectMenu.label            "Inspect">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspect">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Next">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Previous">
-<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
+<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Delete Node">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D View">
+<!ENTITY inspect3DViewButton.accesskey "w">
+
 <!ENTITY inspectStyleButton.label     "Style">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Style">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Object">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+       -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Style Editor">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "File"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "New Window">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Edit"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -302,6 +369,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -312,6 +380,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -362,8 +431,8 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Bookmark This Frame">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY sendPageCmd.label            "Send Link…">
-<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Save Page As…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -375,20 +444,18 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Save Link As…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "Send Link…"> 
-<!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "Save Image As…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Save Video As…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Save Audio As…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "Send Image…">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Send Video…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Send Audio…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Copy Link Location">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Copy Image Location">
@@ -405,21 +472,38 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Play">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pause">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mute">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Unmute">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Show Controls">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Hide Controls">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Full Screen">
 <!ENTITY videoFullScreen.accesskey   "F">
-
+<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -531,7 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "More Information…">
 
-<!ENTITY downloadMonitor2.tooltip "Open downloads window">
+<!ENTITY downloadMonitor2.tooltip "Click to open downloads window">
 
 <!ENTITY allTabs.filter.emptyText "Search Tabs">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -539,7 +623,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Browser tabs">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -551,3 +635,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+<!ENTITY markupButton.arialabel          "Markup">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label   "Not logged in">
+
+<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "Show sidebar">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "Undo">
+<!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">
