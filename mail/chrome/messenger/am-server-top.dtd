@@ -75,8 +75,8 @@
 <!ENTITY advancedButton.label             "Täpsemalt...">
 <!ENTITY advancedButton.accesskey         "T">
 <!ENTITY serverDefaultCharset.label       "Vaikimisi kodeering:">
-<!ENTITY localPath.label                  "Kohalik kataloog:">
-<!ENTITY localFolderPicker.label          "Kohaliku kataloogi valimine">
+<!ENTITY localPath.label                  "Kohalik kaust:">
+<!ENTITY localFolderPicker.label          "Kohaliku kausta valimine">
 <!ENTITY browseFolder.label               "Lehitse...">
 <!ENTITY browseFolder.accesskey           "L">
 <!ENTITY browseNewsrc.label               "Lehitse...">
