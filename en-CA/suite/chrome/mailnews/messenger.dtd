@@ -1,42 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-    Karsten Düsterloh <mnyromyr@tprac.de>
-    Jeremy Morton <bugzilla@game-point.net>
-    Ian Neal <iann_bugzilla@blueyonder.co.uk>
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerWindow.title "Mail &amp; Newsgroups">
 <!ENTITY titleModifier.label "&brandShortName;">
@@ -107,13 +71,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadFlaggedCmd.label "Get Flagged Messages">
 <!ENTITY downloadFlaggedCmd.accesskey "G">
-<!ENTITY printCmd.label "Print…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Print Preview">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Delete Message">
@@ -157,10 +114,10 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"Mail Toolbar">
 <!ENTITY showMessengerToolbarCmd.accesskey	"M">
- 
-<!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Search Bar">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
+<!ENTITY showTabsToolbarCmd.label "Tabs Toolbar">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -254,6 +211,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Plain Text">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feed Message Body As">
 <!ENTITY bodyMenuFeed.accesskey "B">
@@ -265,7 +224,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Display Attachments Inline">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "D">
 <!ENTITY reloadCmd.label "Reload">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY stopCmd.label "Stop">
@@ -275,16 +234,10 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Find in This Message…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Find Previous">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
 
 <!-- Go Menu -->
 
@@ -329,9 +282,6 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Message">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Archive">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Reply">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
@@ -360,6 +310,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Create Filter From Message…">
 <!ENTITY createFilter.accesskey "a">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Move To">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Copy Message Location">
@@ -385,21 +338,8 @@
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCustomize.label "Customise…">
 <!ENTITY tagCustomize.accesskey "C">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Mark">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY markAsReadCmd.label "As Read">
-<!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Thread As Read">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -409,9 +349,6 @@
 <!ENTITY markAllReadCmd.label "All Read">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Flag">
-<!ENTITY markFlaggedCmd.accesskey "F">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "As Junk">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
@@ -426,9 +363,6 @@
 <!ENTITY markAsNotPhishCmd.label "As Not Scam">
 <!ENTITY markAsNotPhishCmd.accesskey "S">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Open Message">
-<!ENTITY openMessageWindowCmd.accesskey "O">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Open Feed Message">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
@@ -481,7 +415,6 @@
 <!ENTITY deleteButton.label "Delete">
 <!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Mark">
-<!ENTITY printButton.label "Print">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Not Junk">
@@ -505,7 +438,6 @@
 <!ENTITY deleteButton.tooltip "Delete selected message or folder">
 <!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Mark messages">
-<!ENTITY printButton.tooltip "Print this message">
 <!ENTITY stopButton.tooltip "Stop the current transfer">
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
@@ -521,8 +453,6 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Edit As New…">
 <!ENTITY contextEditAsNew.accesskey "E">
-<!ENTITY contextArchive.label "Archive">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Reply to Sender Only">
 <!ENTITY contextReplySender.accesskey "O">
 <!ENTITY contextReplyNewsgroup.label "Reply to Newsgroup">
@@ -535,6 +465,8 @@
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsAttachment.label "Forward as Attachments">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextArchive.label "Archive">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Move To">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextCopyMsgMenu.label "Copy To">
@@ -608,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label "Not a Scam">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
 <!ENTITY mdnBarIgnoreButton.label "Ignore Request">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "Send Receipt">
+<!ENTITY mdnBarSendButton.accesskey "S">
