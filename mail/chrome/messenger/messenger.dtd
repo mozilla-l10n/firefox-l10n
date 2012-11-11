@@ -70,7 +70,7 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Папярэдні прагляд друку">
+<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
 <!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printSetupCmd.label "Уладкаваць старонку…">
 <!ENTITY printSetupCmd.accesskey "у">
@@ -464,6 +464,8 @@
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "п">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Ачысціць нядаўнюю гісторыю…">
+<!ENTITY clearRecentHistory.accesskey "ч">
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
 <!ENTITY accountManagerCmd.accesskey "н">
 <!ENTITY accountManagerCmdUnix.accesskey "р">
@@ -501,6 +503,7 @@
 <!ENTITY folderLocationToolbarItem.title "Месцазнаходжанне папкі">
 <!ENTITY tagButton.label "Метка">
 <!ENTITY compactButton.label "Ушчыльніць">
+<!ENTITY appmenuButton.label "Меню прыстасаванняў">
 <!ENTITY advancedButton.tooltip "Пашыраны пошук лістоў">
 <!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
 <!ENTITY getAllNewMsgCmd.label "Атрымаць усе новыя лісты">
@@ -529,6 +532,12 @@
 <!ENTITY chatButton.tooltip "Паказаць устаўку гутаркі">
 <!ENTITY tagButton.tooltip "Меткі лістоў">
 <!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
+<!ENTITY appmenuButton.tooltip "Паказвае меню прыстасаванняў">
+<!ENTITY appmenuNewMsgCmd.label "Новы ліст">
+<!ENTITY appmenuNewContactCmd.label "Сувязь з адраснай кнігі…">
+<!ENTITY appmenuEditMenu.label "Праўка">
+<!ENTITY appmenuQFBMenu.label "Паліца хуткага сіта">
+<!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
 <!ENTITY manageTags.label "Кіраваць тэгамі…">
@@ -652,7 +661,7 @@
 <!ENTITY contextSaveAs.accesskey "Я">
 <!ENTITY contextPrint.label "Друкаваць…">
 <!ENTITY contextPrint.accesskey "Д">
-<!ENTITY contextPrintPreview.label "Папярэдні прагляд друку">
+<!ENTITY contextPrintPreview.label "Перадпрагляд друку">
 <!ENTITY contextPrintPreview.accesskey "п">
 <!ENTITY columnPicker.resetToInbox.label "Узнавіць змоўчныя слупкі">
 <!ENTITY columnPicker.applyTo.label "Ужыць слупкі…">

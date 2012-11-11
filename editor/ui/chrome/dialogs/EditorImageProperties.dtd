@@ -48,7 +48,7 @@
 <!ENTITY altTextEditField.tooltip "Набярыце тэкст для адлюстравання замест выявы">
 <!ENTITY noAltText.label "Не ўжываць дадатковы тэкст">
 <!ENTITY noAltText.accessKey "Н">
-<!ENTITY previewBox.label "Папярэдні прагляд выявы">
+<!ENTITY previewBox.label "Перадпрагляд выявы">
 <!ENTITY actualSize.label "Сапраўдны памер:">
 <!ENTITY actualSizeRadio.label "Сапраўдны памер">
 <!ENTITY actualSizeRadio.accessKey "ў">

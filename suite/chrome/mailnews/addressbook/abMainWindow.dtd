@@ -16,7 +16,7 @@
 <!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Надрукаваць адрасную кнігу…">
 <!ENTITY printAddressBook.accesskey "А">
-<!ENTITY printPreviewAddressBook.label "Папярэдні прагляд адраснай кнігі">
+<!ENTITY printPreviewAddressBook.label "Перадпрагляд адраснай кнігі">
 <!ENTITY printPreviewAddressBook.accesskey "К">
 <!ENTITY deleteAbCmd.label "Выдаліць адрасную кнігу">
 <!ENTITY deleteContactCmd.label "Выдаліць сувязь">

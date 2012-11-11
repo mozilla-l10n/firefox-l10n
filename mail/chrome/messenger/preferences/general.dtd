@@ -24,8 +24,3 @@
 <!ENTITY customsound.accesskey "К">
 <!ENTITY browse.label "Агляд…">
 <!ENTITY browse.accesskey "А">
-<!ENTITY addonsMgr.label "Дадаткі">
-<!ENTITY manageAddonsDescWin.label "Змяненне наладжванняў вашых дадаткаў">
-<!ENTITY manageAddonsDescUnix2.label "Змяненне перавагаў вашых дадаткаў">
-<!ENTITY manageAddons.label "Кіраваць дадаткамі…">
-<!ENTITY manageAddons.accesskey "К">

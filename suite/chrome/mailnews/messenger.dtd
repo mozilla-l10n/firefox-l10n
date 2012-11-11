@@ -204,7 +204,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Змоўчны фармат">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ф">
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "ў">
 <!ENTITY reloadCmd.label "Абнавіць">
 <!ENTITY reloadCmd.accesskey "а">
 <!ENTITY stopCmd.label "Спыніць">
@@ -436,7 +436,7 @@
 <!ENTITY contextSaveAs.accesskey "Я">
 <!ENTITY contextPrint.label "Друкаваць…">
 <!ENTITY contextPrint.accesskey "Д">
-<!ENTITY contextPrintPreview.label "Папярэдні прагляд друку">
+<!ENTITY contextPrintPreview.label "Перадпрагляд друку">
 <!ENTITY contextPrintPreview.accesskey "г">
 <!ENTITY folderContextGetMessages.label "Атрымаць лісты для рахунку">
 <!ENTITY folderContextGetMessages.accesskey "А">
