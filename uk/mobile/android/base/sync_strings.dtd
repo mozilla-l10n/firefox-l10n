@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label 'Спробувати ще'>
 <!ENTITY sync.button.manual.label 'Налаштувати вручну'>
 <!ENTITY sync.subtitle.nointernet.label 'З’єднання з інтернетом відсутнє.'>
+<!ENTITY sync.subtitle.failaccount.label 'Створити акаунт на пристрої не вдалось.'>
+<!ENTITY sync.subtitle.failmultiple.label 'У вас встановлено кілька Firefox’ів? Наразі &syncBrand.fullName.label; підтримує лише одну інсталяцію Firefox. Вилучте інші щоб використовувати &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Налаштування завершено'>
@@ -78,4 +80,16 @@
 <!ENTITY sync.notification.oneaccount.label 'Підтримується лише один акаунт &syncBrand.fullName.label;.'>
 
 <!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Неправильне ім’я акаунту або пароль.'>
+<!ENTITY sync.invalidserver.label 'Введіть чинний URL сервера'>
+<!ENTITY sync.verifying.label 'Перевірка…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Ключ відновлення не вірний. Спробуйте ще раз.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Послати вкладку на пристрої'>
+<!ENTITY sync.button.send.label 'Послати'>
+<!ENTITY sync.button.set.up.sync.label 'Налаштувати &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Налаштуйте &syncBrand.shortName.label; щоб слати вкладки'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Налаштуйте &syncBrand.fullName.label; на вашому пристрої щоб слати вкладки на інші пристрої.'>
+<!ENTITY sync.text.tab.sent.label 'Вкладку послано!'>
+<!ENTITY sync.text.tab.not.sent.label 'Вкладку послати не вдалось.'>
