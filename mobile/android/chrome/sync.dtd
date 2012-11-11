@@ -9,7 +9,7 @@
 <!ENTITY sync.details               "Üksikasjad">
 <!ENTITY sync.deviceName            "See seade">
 <!ENTITY sync.disconnect            "Katkesta ühendus">
-<!ENTITY sync.syncNow               "Süngi kohe">
+<!ENTITY sync.syncNow               "Sünkroniseeri kohe">
 
 <!ENTITY sync.setup.title           "Ühendumine Synciga">
 <!ENTITY sync.setup.pair            "Aktiveerimiseks vali &#x0022;Lisa seade&#x0022; oma teisel seadmel.">

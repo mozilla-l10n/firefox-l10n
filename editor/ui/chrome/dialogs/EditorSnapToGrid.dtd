@@ -6,7 +6,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label          "Ruudustikku paigutamine">
 
-<!ENTITY enableSnapToGrid.label     "luba ruudustikku paigutamine">
+<!ENTITY enableSnapToGrid.label     "lubatakse ruudustikku paigutamine">
 <!ENTITY enableSnapToGrid.accessKey "l">
 
 <!ENTITY sizeEditField.label        "Suurus:">

@@ -22,9 +22,9 @@
 <!ENTITY success.title.before          "Tere ">
 <!ENTITY success.title.after           ", saadaval on järgnevad e-posti aadressid:">
 <!ENTITY success.tip                   "(Sa võid proovida otsida hüüdnime või midagi muud, et leida rohkem aadresse)">
-<!ENTITY partnership.description       "Partnerluses mitmete teenusepakkujatega saab &brandShortName; pakkuda sulle e-posti kontot. Lihtsalt sisesta ülalolevale väljale oma ees- ja perekonnanimi või mõni muu sõna, mis sulle meeldib ning tee algust.">
-<!ENTITY existing.header               "Sul on aadress juba olemas?">
-<!ENTITY tinyheader.title              "Aadress olemas?">
+<!ENTITY partnership.description       "Koostöös mitmete teenusepakkujatega saab &brandShortName; pakkuda sulle e-posti kontot. Lihtsalt sisesta ülalolevale väljale oma ees- ja perekonnanimi või mõni muu sõna, mis sulle meeldib, ning tee algust.">
+<!ENTITY existing.header               "Kas sul on aadress juba olemas?">
+<!ENTITY tinyheader.title              "Kas aadress on olemas?">
 <!ENTITY tinyheader.existing           "Jäta see vahele ja kasuta olemasolevat e-posti">
 <!ENTITY content.close                 "Seadista konto hiljem.">
 <!ENTITY successful.title              "Õnnitlused!">

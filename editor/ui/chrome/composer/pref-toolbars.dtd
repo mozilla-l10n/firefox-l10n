@@ -4,7 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Tööriistaribad">
 
-<!ENTITY composition.caption    "Koostamise tööriistaribal näidatakse neid nuppe:">
+<!ENTITY composition.caption    "Koostamisribal näidatakse neid nuppe:">
 
 <!ENTITY new.label              "Uus">
 <!ENTITY open.label             "Ava">
@@ -22,7 +22,7 @@
 <!ENTITY link.label             "Link">
 <!ENTITY anchor.label           "Ankur">
 
-<!ENTITY formatting.caption     "Vormindamise tööriistaribal näidatakse neid nuppe:">
+<!ENTITY formatting.caption     "Vormindamisribal näidatakse neid nuppe:">
 
 <!ENTITY smaller.label          "Väiksem">
 <!ENTITY larger.label           "Suurem">
