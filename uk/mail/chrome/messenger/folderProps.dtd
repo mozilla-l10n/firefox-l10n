@@ -9,7 +9,7 @@
 <!ENTITY folderCharsetTab.accesskey              "К">
 <!ENTITY folderCharsetOverride.label             "Використовувати як кодування за умовчанням для всіх повідомлень в теці (ігнорувати кодування, визначені для окремих повідомлень, і автовизначення).">
 <!ENTITY folderCharsetOverride.accesskey         "м">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса>
+<!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса">
 <!ENTITY folderRebuildSummaryFile2.label         "Відремонтувати теку">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ч">
 <!ENTITY folderRebuildSummaryFile.explanation    "Іноді фал індекса теки (.msf) пошкоджується, і листи можуть здаватись зниклими, або можуть з’являтись видалені; ремонтування теки може вирішити ці проблеми.">
