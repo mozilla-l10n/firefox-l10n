@@ -4,8 +4,8 @@
 
 <!ENTITY debuggerMenu.label2 "Debugger">
 <!ENTITY debuggerMenu.accesskey "D">
-<!ENTITY remoteDebuggerMenu.label "Debug remoto">
-<!ENTITY chromeDebuggerMenu.label "Debug browser">
+<!ENTITY remoteDebuggerMenu.label "Debugger remoto">
+<!ENTITY chromeDebuggerMenu.label "Browser debugger">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Chiudi">
 <!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
