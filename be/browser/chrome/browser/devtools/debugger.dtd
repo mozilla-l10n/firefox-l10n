@@ -11,4 +11,4 @@
 <!ENTITY debuggerUI.scriptTitle "Сцэнар">
 <!ENTITY debuggerUI.propertiesTitle "Зменныя ш абшары">
 <!ENTITY debuggerUI.emptyFilterText "Сітаваць сцэнары">
-<!ENTITY debuggerUI.emptyScriptText "Няма сцэнараў.">
+<!ENTITY debuggerUI.emptyScriptText "Няма сцэнараў">

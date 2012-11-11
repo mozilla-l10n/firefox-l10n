@@ -36,8 +36,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY linkToolbar.label "Паліца з прыладамі навігацыі">
+<!ENTITY linkToolbar.label "Прыладапаліца навігацыі">
 <!ENTITY linkToolbar.accesskey "а">
+<!ENTITY linkToolbar.tooltip "Прыладапаліца навігацыі">
 <!ENTITY linkToolbarAlways.label "Паказваць заўсёды">
 <!ENTITY linkToolbarAlways.accesskey "ў">
 <!ENTITY linkToolbarAsNeeded.label "Паказваць, калі патрэбна">

@@ -34,7 +34,7 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Уладкаваць старонку…">
 <!ENTITY printSetupCmd.accesskey "л">
-<!ENTITY printPreviewCmd.label "Папярэдні прагляд">
+<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
 <!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
@@ -176,6 +176,7 @@
 <!ENTITY devToolbarMenu.accesskey "р">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
+<!ENTITY devToolbarOtherToolsButton.label "Іншыя прылады">
 <!ENTITY webConsoleButton.label "Кансоль Сеціва">
 <!ENTITY inspectorButton.label "Назіральнік">
 <!ENTITY inspectorHTMLCopyInner.label "Скапіваць унутраны HTML">
@@ -184,11 +185,6 @@
 <!ENTITY inspectorHTMLCopyOuter.accesskey "в">
 <!ENTITY inspectorHTMLDelete.label "Выдаліць вузел">
 <!ENTITY inspectorHTMLDelete.accesskey "д">
-<!ENTITY inspectOptionButton.tooltiptext "Наладжванні назіральніка">
-<!ENTITY inspectorToggleVeil.label "Затуманіць старонку">
-<!ENTITY inspectorToggleVeil.accesskey "т">
-<!ENTITY inspectorToggleInfobar.label "Паказаць звесткі пра вузел">
-<!ENTITY inspectorToggleInfobar.accesskey "в">
 <!ENTITY inspect3DViewButton.label "3-М від">
 <!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectStyleButton.label "Стыль">
@@ -465,7 +461,11 @@
 <!ENTITY markupButton.accesskey "Р">
 <!ENTITY socialToolbar.title "Кнопка сацыяльнай прыладапаліцы">
 <!ENTITY social.notLoggedIn.label "Не ўвайшоў">
-<!ENTITY social.sharePopup.undo.label "Скасаваць падзел">
-<!ENTITY social.sharePopup.undo.accesskey "е">
-<!ENTITY social.sharePopup.ok.label "Добра">
-<!ENTITY social.sharePopup.ok.accesskey "Д">
+<!ENTITY social.ok.label "Добра">
+<!ENTITY social.ok.accesskey "Д">
+<!ENTITY social.toggleSidebar.label "Паказаць палічку">
+<!ENTITY social.toggleSidebar.accesskey "п">
+<!ENTITY social.toggleNotifications.label "Паказаць апавяшчэнні працоўнага стала">
+<!ENTITY social.toggleNotifications.accesskey "а">
+<!ENTITY social.activated.undobutton.label "Адмяніць">
+<!ENTITY social.activated.undobutton.accesskey "А">

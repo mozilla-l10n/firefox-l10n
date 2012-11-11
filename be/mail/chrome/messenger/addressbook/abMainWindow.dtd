@@ -24,7 +24,7 @@
 <!ENTITY printSetupCmd.accesskey "н">
 <!ENTITY printPreviewContactCmd.label "Перадпрагляд сувязі">
 <!ENTITY printPreviewContactCmd.accesskey "г">
-<!ENTITY printPreviewAddressBook.label "Папярэдні прагляд адраснай кнігі">
+<!ENTITY printPreviewAddressBook.label "Перадпрагляд адраснай кнігі">
 <!ENTITY printPreviewAddressBook.accesskey "К">
 <!ENTITY printContactCmd.label "Друкаваць сувязь…">
 <!ENTITY printContactCmd.accesskey "Д">

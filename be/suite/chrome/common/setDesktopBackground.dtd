@@ -1,0 +1,14 @@
+<!ENTITY setDesktopBackground.title "Усталяваць фон працоўнага стала">
+<!ENTITY position.label "Месцазнаходжанне:">
+<!ENTITY position.accesskey "М">
+<!ENTITY position.tile.label "Чарапіцаю">
+<!ENTITY position.stretch.label "Расцягнуць">
+<!ENTITY position.center.label "Пасярэдзіне">
+<!ENTITY position.fill.label "Запоўніць">
+<!ENTITY position.fit.label "Уціснуць">
+<!ENTITY picker.label "Колер:">
+<!ENTITY picker.accesskey "К">
+<!ENTITY preview.caption "Перадпрагляд">
+<!ENTITY apply.label "Ужыць">
+<!ENTITY apply.accesskey "У">
+<!ENTITY close.label "Закрыць">

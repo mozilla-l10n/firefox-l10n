@@ -58,3 +58,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Наладка дасылання ўставак праз &syncBrand.shortName.label;">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Наладжванне &syncBrand.fullName.label; на вашай збудове для дасылання ўставак на іншыя збудовы.">
 <!ENTITY sync.text.tab.sent.label "Ваша ўстаўка даслана!">
+<!ENTITY sync.text.tab.not.sent.label "There was a problem sending your tab.">

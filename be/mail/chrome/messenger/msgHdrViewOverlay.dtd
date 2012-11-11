@@ -60,6 +60,8 @@
 <!ENTITY viewSourceMenuItem1.accesskey "з">
 <!ENTITY otherActionsPrint1.label "Друкаваць…">
 <!ENTITY otherActionsPrint1.accesskey "Д">
+<!ENTITY startExpandedCmd.label "Initially Show Attachment Pane">
+<!ENTITY startExpandedCmd.accesskey "S">
 <!ENTITY openAttachmentCmd.label "Адчыніць">
 <!ENTITY openAttachmentCmd.accesskey "А">
 <!ENTITY saveAsAttachmentCmd.label "Захаваць як…">
