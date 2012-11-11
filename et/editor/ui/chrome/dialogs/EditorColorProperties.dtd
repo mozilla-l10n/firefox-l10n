@@ -5,7 +5,7 @@
 
 <!ENTITY windowTitle.label            "Lehe värvid ja taust">
 <!ENTITY pageColors.label             "Lehe värvid">
-<!ENTITY defaultColorsRadio.label     "Lugeja vaikimisi värvid (Lehele ei määrata värve)">
+<!ENTITY defaultColorsRadio.label     "Lugeja vaikimisi värvid (lehele ei määrata värve)">
 <!ENTITY defaultColorsRadio.accessKey "R">
 <!ENTITY defaultColorsRadio.tooltip   "Kasuta ainult vaataja (lugeja) värvide sätteid">
 <!ENTITY customColorsRadio.label      "Kasuta kohandatud värve:">
@@ -21,7 +21,7 @@
 <!ENTITY visitedLinkText.label        "Külastatud lingi tekst">
 <!ENTITY visitedLinkText.accessKey    "T">
 <!ENTITY background.label             "Taust:">
-<!ENTITY background.accessKey         "T">
+<!ENTITY background.accessKey         "u">
 <!ENTITY colon.character              ":">
 <!ENTITY backgroundImage.label        "Taustapilt:">
 <!ENTITY backgroundImage.accessKey    "s">

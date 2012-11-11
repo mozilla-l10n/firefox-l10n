@@ -11,7 +11,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip              "Koostamise tööriistariba">
+<!ENTITY compositionToolbar.tooltip              "Koostamisriba">
 <!ENTITY previewToolbarCmd.label                 "Eelvaade veebilehitsejas">
 <!ENTITY previewToolbarCmd.tooltip               "Eelvaade veebilehitsejas">
 
@@ -24,11 +24,11 @@
 <!ENTITY sendPageCmd.accesskey                   "S">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label             "Koostamise tööriistariba">
+<!ENTITY compositionToolbarCmd.label             "Koostamisriba">
 <!ENTITY compositionToolbarCmd.accesskey         "K">
-<!ENTITY formattingToolbarCmd.label              "Vormingu tööriistariba">
+<!ENTITY formattingToolbarCmd.label              "Vormindamisriba">
 <!ENTITY formattingToolbarCmd.accesskey          "V">
-<!ENTITY editmodeToolbarCmd.label                "Oleku redigeerimise tööriistariba">
+<!ENTITY editmodeToolbarCmd.label                "Oleku muutmise riba">
 <!ENTITY editmodeToolbarCmd.accesskey            "O">
 
 <!-- Format menu items -->
@@ -51,7 +51,7 @@
 <!ENTITY AllTagsModeTab.label                    "HTML sildid">
 <!ENTITY AllTagsMode.label                       "HTML sildid">
 <!ENTITY AllTagsMode.accesskey                   "s">
-<!ENTITY AllTagsMode.tooltip                     "Kuva ikoone kõigile HTML siltidele">
+<!ENTITY AllTagsMode.tooltip                     "Kuva kõigi HTML siltide ikoone">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,

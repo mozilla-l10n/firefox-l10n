@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName;i ohutu režiim">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; jookseb nüüd ohutus režiimis, mis ajutiselt keelab kõik sinu kohandatud sätted, teemad ja laiendused.">
+<!ENTITY safeModeDescription.label        "&brandShortName; töötab nüüd ohutus režiimis, mis ajutiselt keelab kõik sinu kohandatud sätted, teemad ja laiendused.">
 <!ENTITY safeModeDescription2.label       "Sa võid teha mõned või kõik neist muudatustest jäädavaks:">
 
 <!ENTITY disableAddons.label              "Kõik lisad keelatakse">
