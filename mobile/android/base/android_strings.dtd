@@ -45,6 +45,8 @@
 <!ENTITY history_week_section "7 днів тому">
 <!ENTITY history_older_section "Давніше ніж 7 днів">
 
+<!ENTITY go "Перейти">
+<!ENTITY search "Пошук">
 <!ENTITY reload "Перегрузити">
 <!ENTITY forward "Вперед">
 <!ENTITY menu "Меню">
@@ -54,6 +56,7 @@
 
 <!ENTITY close_tab "Close Tab">
 <!ENTITY new_tab "Нова вкладка">
+<!ENTITY one_tab "1 вкладка">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d вкладок">
@@ -84,27 +87,40 @@
 <!ENTITY pref_font_size_medium "Середній">
 <!ENTITY pref_font_size_large "Великий">
 <!ENTITY pref_font_size_xlarge "Дуже великий">
+<!ENTITY pref_font_size_set "Встановити">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "А">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Швидкий рудий лис перестрибне через ваші очікування з більшою швидкістю, гнучкістю та безпечністю. Як некомерційна організація, ми вільні творити заради вас без потреби йти на компроміси. Ми покращимо вашу роботу в інтернеті та зробимо його майбутнє світлим.">
+
 <!ENTITY pref_use_master_password "Використовувати головний пароль">
 <!ENTITY pref_sync "Синхронізація">
+<!ENTITY pref_search_suggestions "Показувати пошукові припущення">
 <!ENTITY pref_import_android "Імпорт з Андроїду">
 <!ENTITY pref_private_data_history "Історія переглідів та завантажень">
 <!ENTITY pref_private_data_formdata "Історія форм та пошуків">
-<!ENTITY pref_private_data_cookies "Куки">
+<!ENTITY pref_private_data_cookies2 "Куки та активні сеанси">
 <!ENTITY pref_private_data_passwords "Збережені паролі">
 <!ENTITY pref_private_data_cache "Кеш">
-<!ENTITY pref_private_data_sessions "Активні сеанси">
 <!ENTITY pref_private_data_offlineApps "Позамережні дані сайтів">
 <!ENTITY pref_private_data_siteSettings "Сайтові вподобання">
-<!ENTITY pref_search_suggestions "Показувати пошукові припущення">
 
 <!ENTITY quit "Вийти">
 
 <!ENTITY addons "Додатки">
 <!ENTITY downloads "Завантаження">
+<!ENTITY apps "Програми">
 <!ENTITY char_encoding "Кодування">
 
 <!ENTITY share "Поділитись">
 <!ENTITY share_title "Поділитись через">
+<!ENTITY share_image_failed "Не вдалось поділитись малюнком">
 <!ENTITY save_as_pdf "Зберегти як PDF">
 <!ENTITY find_in_page "Знайти на сторінці">
 <!ENTITY desktop_mode "Вимагати десктопного сайту">
@@ -135,14 +151,15 @@
 <!ENTITY bookmark_edit_location "Адреса">
 <!ENTITY bookmark_edit_keyword "Ключове слово">
 
-<!ENTITY site_settings_title        "Вичистити настройки сайта">
+<!ENTITY site_settings_title2       "Настройки сайта…">
 <!ENTITY site_settings_cancel       "Скасувати">
 <!ENTITY site_settings_clear        "Вичистити">
 <!ENTITY site_settings_no_settings  "Нема чого вичищати.">
 
-<!ENTITY add_to_reading_list "Додати у список читання">
+<!ENTITY reading_list "Список читання">
 <!ENTITY reading_list_added "Сторінку додано у список читання">
 <!ENTITY reading_list_removed "Сторінку вилучено зі списку читання">
+<!ENTITY reading_list_failed "Не вдалось додати сторінку в ваш список читання">
 <!ENTITY reader_mode "Режим читання">
 
 <!ENTITY masterpassword_create_title "Створити головний пароль">
@@ -160,9 +177,19 @@
 <!ENTITY abouthome_last_tabs_open "Відкрити всі вкладки з того разу">
 <!ENTITY abouthome_top_sites_title "Часті сайти">
 <!ENTITY abouthome_top_sites_browse "Переглянути всі ваші часті сайти">
-<!ENTITY abouthome_no_top_sites "У вас ще нема частих сайтів. Тицьніть на верхній рядок щоб почати перегляд.">
-<!ENTITY abouthome_about_sync "Налаштуйте Firefox Sync щоб синхронізувати закладки, історію та вкладки з інших пристроїв">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Налаштуйте Firefox Sync щоб синхронізувати закладки, історію та вкладки з ваших інших пристроїв&#x00A0;»">
+<!ENTITY abouthome_about_apps2 "Встановіть програми з Mozilla Marketplace та відкрийте для себе все те найкраще, що може запропонувати мережа&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Виберіть файл">
 <!ENTITY filepicker_audio_title "Виберіть чи запишіть звук">
@@ -184,11 +211,26 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "котрий запущено">
 
+<!ENTITY private_data_success "Приватні дані вичищено">
+<!ENTITY private_data_fail "Деякі приватні дані не можна вичистити">
+
 <!ENTITY bookmarkhistory_button_import "Імпорт">
 <!ENTITY bookmarkhistory_import_both "Імпортування закладок і історії з Андроїду">
 <!ENTITY bookmarkhistory_import_bookmarks "Імпортування закладок з Андроїду">
 <!ENTITY bookmarkhistory_import_history "Імпортування історії з Андроїду">
 <!ENTITY bookmarkhistory_import_wait "Зачекайте…">
 
-<!ENTITY private_data_success "Приватні дані вичищено">
-<!ENTITY private_data_fail "Деякі приватні дані не можна вичистити">
+<!ENTITY webapp_generic_name "Програми">
+
+<!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Наявні оновлення для &brandShortName;">
+<!ENTITY updater_start_select2 "Тицьніть щоб завантажити">
+ 
+<!ENTITY updater_downloading_title2 "Завантаження &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Завантаження невдале">
+<!ENTITY updater_downloading_select2 "Тицьніть щоб застосувати оновлення по завершенні">
+<!ENTITY updater_downloading_retry2 "Тицьніть щоб повторити">
+ 
+<!ENTITY updater_apply_title2 "Доступне оновлення для &brandShortName;">
+<!ENTITY updater_apply_select2 "Тицьніть щоб оновити">
+
