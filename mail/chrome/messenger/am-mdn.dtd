@@ -1,8 +1,8 @@
 <!ENTITY pane.title "Квіткі атрымання">
 <!ENTITY useGlobalPrefs.label "Карыстацца маімі агульнымі перавагамі квіткоў атрымання для гэтага рахунку">
 <!ENTITY useGlobalPrefs.accesskey "г">
-<!ENTITY globalReceipts.label "Global Preferences…">
-<!ENTITY globalReceipts.accesskey "G">
+<!ENTITY globalReceipts.label "Агульныя перавагі…">
+<!ENTITY globalReceipts.accesskey "г">
 <!ENTITY useCustomPrefs.label "Наладжванне квіткоў атрымання для гэтага рахунку">
 <!ENTITY useCustomPrefs.accesskey "л">
 <!ENTITY requestReceipt.label "Заўсёды патрабаваць квіток атрымання, калі дасылаюцца лісты">

@@ -91,7 +91,7 @@
 <!ENTITY folderQuotaRoot.label "Корань доляў:">
 <!ENTITY folderQuotaUsage.label "Выкарыстоўванне:">
 <!ENTITY folderQuotaStatus.label "Статус:">
-<!ENTITY numberOfMessages.label "Number of messages:">
-<!ENTITY numberUnknown.label "unknown">
-<!ENTITY sizeOnDisk.label "Size on disk:">
-<!ENTITY sizeUnknown.label "unknown">
+<!ENTITY numberOfMessages.label "Колькасць лістоў:">
+<!ENTITY numberUnknown.label "невядомы">
+<!ENTITY sizeOnDisk.label "Памер на дыску:">
+<!ENTITY sizeUnknown.label "невядомы">
