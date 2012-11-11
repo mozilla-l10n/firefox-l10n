@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
 <!ENTITY pref.locationBar.title                "Location Bar">
 
@@ -22,6 +26,10 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Anywhere but preferring word boundaries">
 <!ENTITY autoCompleteMatchWords                "Only on word boundaries">
 <!ENTITY autoCompleteMatchStart                "Only at the beginning of the location or title">
+
+<!ENTITY formatting.label                      "Formatting">
+<!ENTITY domainFormatting.label                "Highlight the effective domain for websites and FTP servers">
+<!ENTITY domainFormatting.accesskey            "d">
 
 <!ENTITY searchEngine.label                    "Internet Search Engine">
 <!ENTITY showSearchEngine.label                "Show default search engine">

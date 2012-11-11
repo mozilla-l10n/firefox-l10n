@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Compose: (no subject)">
 
@@ -11,10 +15,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Message">  
-<!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "Save">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Save As">
 <!ENTITY saveAsCmd.accesskey "A">
@@ -39,27 +40,11 @@
 <!ENTITY sendLaterCmd.label "Send Later">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Print…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Rewrap">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY findCmd.label "Find and Replace…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "Find Again">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Find Previous">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
@@ -83,12 +68,6 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
 
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
-<!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-
 <!ENTITY priorityMenu.label "Priority">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY lowestPriorityCmd.label "Lowest">
@@ -104,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "Return Receipt">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey  "f">
 <!ENTITY autoFormatCmd.label "Auto-Detect">
@@ -140,14 +122,6 @@
 <!ENTITY stopButton.tooltip "Stop the current transfer"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(No Suggestions Found)">
-<!ENTITY spellCheckIgnoreWord.label "Ignore Word">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Add to Dictionary">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY pasteQuote.label "Paste As Quotation">
-<!ENTITY pasteQuote.accesskey "Q">
-
 <!ENTITY openAttachment.label "Open">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "Rename…">

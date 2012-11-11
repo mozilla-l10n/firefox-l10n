@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
 <!ENTITY languages.customize.prefLangDescript           "Web pages are sometimes available in more than one language. Choose languages for displaying web pages, in order of preference.">
@@ -23,10 +27,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "Move Down">
 <!ENTITY languages.customize.moveDown.accesskey         "D">
-
-<!ENTITY spelling.label                                 "Spelling">
-<!ENTITY checkSpelling.label                            "When typing check my spelling:">
-<!ENTITY checkSpelling.accesskey                        "W">
-<!ENTITY dontCheckSpelling.label                        "Never">
-<!ENTITY multilineCheckSpelling.label                   "In multiline boxes">
-<!ENTITY alwaysCheckSpelling.label                      "All boxes">

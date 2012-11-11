@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Reject popup windows from this site">
 <!ENTITY popupWindowRejectCmd.accesskey "">
@@ -32,7 +36,7 @@
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "View Selection Source">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "View MathML Source">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label      "View Page Source">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "View Frame Source">
@@ -44,19 +48,19 @@
 <!ENTITY fitImageCmd.label            "Fit Image to Window">
 <!ENTITY fitImageCmd.accesskey        "F">
 <!ENTITY reloadImageCmd.label         "Reload Image">
-<!ENTITY reloadImageCmd.accesskey     "e">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "View Image">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewVideoCmd.label           "View Video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "View Background Image">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setWallpaperCmd.label        "Set As Wallpaper">
-<!ENTITY setWallpaperCmd.accesskey    "S">
+<!ENTITY setDesktopBackgroundCmd.label     "Set Desktop Background…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "Bookmark This Page">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Bookmark This Link">
-<!ENTITY bookmarkLinkCmd.accesskey    "L">
+<!ENTITY bookmarkLinkCmd.accesskey    "B">
 <!ENTITY bookmarkFrameCmd.label       "Bookmark This Frame">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "Save Page As…">
@@ -68,7 +72,7 @@
 <!ENTITY saveFrameCmd.accesskey       "m">
 <!ENTITY saveLinkAsCmd.label          "Save Link Target As…">
 <!ENTITY saveLinkCmd.label            "Save Link Target">
-<!ENTITY saveLinkCmd.accesskey        "r">
+<!ENTITY saveLinkCmd.accesskey        "S">
 <!ENTITY saveImageAsCmd.label         "Save Image As…">
 <!ENTITY saveImageCmd.label           "Save Image">
 <!ENTITY saveImageCmd.accesskey       "v">
@@ -77,7 +81,7 @@
 <!ENTITY saveAudioCmd.label           "Save Audio As…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY copyLinkCmd.label            "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyLinkCmd.accesskey        "L">
 <!ENTITY copyImageCmd.label           "Copy Image">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyVideoURLCmd.label        "Copy Video Location">
@@ -104,6 +108,12 @@
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Full Screen">
 <!ENTITY videoFullScreen.accesskey    "F">
+<!ENTITY videoSaveImage.label         "Save Snapshot As…">
+<!ENTITY videoSaveImage.accesskey     "S">
+<!ENTITY videoShowStats.label         "Show Statistics">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Hide Statistics">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
@@ -111,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY spellAddToDictionary.label     "Add to Dictionary">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label      "Undo Add to Dictionary">
+<!ENTITY spellUndoAddToDictionary.accesskey  "t">
 <!ENTITY spellIgnoreWord.label          "Ignore Word">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "Check Spelling">
