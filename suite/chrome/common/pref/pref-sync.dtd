@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
@@ -20,12 +24,12 @@
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Change Password">
 <!ENTITY changePassword.accesskey     "C">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY mySyncKey.accesskey          "M">
+<!ENTITY myRecoveryKey.label          "My Recovery Key">
+<!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "Reset Sync">
 <!ENTITY resetSync.accesskey          "R">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
-<!ENTITY deactivateDevice.accesskey   "D">
+<!ENTITY unlinkDevice.label           "Unlink This Device">
+<!ENTITY unlinkDevice.accesskey       "D">
 <!ENTITY addDevice.label              "Add a Device">
 <!ENTITY addDevice.accesskey          "A">
 
@@ -34,6 +38,8 @@
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy2.label              "Synchronise My:">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Tabs">

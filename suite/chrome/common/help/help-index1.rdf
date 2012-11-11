@@ -1,4 +1,8 @@
 <?xml version="1.0"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:nc="http://home.netscape.com/NC-rdf#">
  
@@ -567,11 +571,6 @@
        <rdf:Description ID="cookies:managing_per_site"
          nc:name="managing cookies per web site"
          nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="cookies:notification_icon"
-         nc:name="notification icon"
-         nc:link="using_priv_help.xhtml#cookie_notification"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:preferences"

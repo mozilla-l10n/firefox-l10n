@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY bookmarksManager.title         "Bookmarks Manager">
 <!ENTITY bookmarksManager.width         "700">
 <!ENTITY bookmarksManager.height        "500">
@@ -67,8 +71,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Reload Live Bookmark">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Reload Live Title">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Move…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
