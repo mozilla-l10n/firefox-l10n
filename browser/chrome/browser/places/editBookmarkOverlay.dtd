@@ -10,7 +10,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "ಸ್ಥಳ ತಾಣ:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!--ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "ಲೈವ್‌ ಶೀರ್ಷಿಕೆಗಳು"-->
 <!ENTITY editBookmarkOverlay.folder.label                    "ಕಡತಕೋಶಗಳು:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕ ಕಡತಕೋಶಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "ಅಡಗಿಸು">

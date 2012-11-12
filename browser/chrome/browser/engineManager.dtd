@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "ಹೆಸರು">
 <!ENTITY  columnLabel.keyword       "ಕೀಲಿಪದ">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "ಮೇಲಕ್ಕೆ ಚಲಿಸು">
 <!ENTITY  up.accesskey              "U">
 <!ENTITY  dn.label                  "ಕೆಳಕ್ಕೆ ಚಲಿಸು">
