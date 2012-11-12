@@ -1,0 +1,102 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title  "ماسٹر پاس ورڈ تبدیل کریں">
+<!ENTITY setPassword.tokenName.label "Security Device">
+<!ENTITY setPassword.oldPassword.label "حالیہ پاس ورڈ:">
+<!ENTITY setPassword.newPassword.label "نیا پاس ورڈ:">
+<!ENTITY setPassword.reenterPassword.label "نیا پاس ورڈ (دوبارہ):">
+<!ENTITY setPassword.meter.label "پاس ورڈ کوالٹی میٹر">
+<!ENTITY setPassword.meter.loading "لوڈ کر رہا ہے">
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "پھر سیٹ کریں">
+<!ENTITY resetPassword.title  "ماسٹر پاس ورڈ پھر سیٹ کریں">
+<!ENTITY resetPassword.text  "اگر آپ اپنا ماسٹر پاس ورڈ پھر سیٹ کرتے ہیں تو آپ کے تمام ذخیرہ شدہ ویب اور ای میل پاس ورڈ، فارم کوائف، ذاتی تصدیق نامے اور نجی کلیدیں بھلا دی جائیں گی۔ کیا آپ واقعی اپنا ماسٹر پاس ورڈ پھر سیٹ کرنا چاہتے ہیں؟">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title  "ماسٹر پاس ورڈ داخل کریں">
+<!ENTITY getPassword.tokenName2.label "Security Device:">
+<!ENTITY getPassword.password.label "پاس ورڈ:">
+<!-- These should be common -->
+
+<!ENTITY piperror.title "نقص">
+<!ENTITY pipalert.title "نقص - بازیافت نہیں کیا جا سکتا">
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "سلامتی">
+<!ENTITY pref.security.general.rHeader "سیٹنگیں برائے عمومی سلامتی">
+<!ENTITY pref.security.general.header "سیٹنگیں برائے عمومی سلامتی">
+<!ENTITY pref.security.general.level.title "سلامتی سطح">
+<!ENTITY pref.security.general.paranoid.label "اختباطی سلامتی سیٹنگیں استعمال کریں">
+<!ENTITY pref.security.general.certificates.title "تصدیق نامے">
+<!ENTITY pref.security.general.manageCert.label "تصدیق نامے بندوبست کریں">
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "تصدیق نامہ ڈاؤن لوڈ کر رہا ہے">
+<!ENTITY downloadCert.message1 "آپ کو نئی مقتدرہ تصدیق نامہ (سی اے) پر بھروسے کے لیے کہا گیا ہے۔">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
+<!ENTITY downloadCert.trustEmail "ای میل صارفین شناخت کرنے کے لیے اس سی اے پر بھروسا کریں۔">
+<!ENTITY downloadCert.trustObjSign "سافٹ ویئر تکمیل کار شناخت کرنے کے لیے اس سی اے پر بھروسا کریں۔">
+<!ENTITY downloadCert.message3 "کسی مقصد کے لیے اس مصدق پر بھروسے سے قبل آپ کو اس کے تصدیق نامے اور اس کی پالیسی وطریق عمل کا معائنہ کرنا چاہیے(اگردستیاب ہو)۔">
+<!ENTITY downloadCert.viewCert.label "نظارہ">
+<!ENTITY downloadCert.viewPolicy.label "پالیسی">
+<!ENTITY downloadCert.viewCert.text "سی اے تصدیق نامہ معائنہ کریں">
+<!ENTITY downloadCert.viewPolicy.text "سی اے پالیسیاں و طریق کار معائنہ کریں">
+<!-- Certificate Exists in database -->
+
+<!ENTITY caCertExists.title "تصدیق نامہ موجود ہے">
+<!ENTITY caCertExists.message "تصدیق نامہ پہلے سے موجود ہے۔">
+<!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "صارف شناختی فرمائش">
+<!ENTITY clientAuthAsk.message1 "اس سائٹ نے فرمائش کی ہے کہ آپ خود کو ایک تصدیق نامے کے ذریعے شناخت کرائیں:">
+<!ENTITY clientAuthAsk.message2 "وئی تصدیق نامہ بطور شناخت  پیش کرنے کے لیےانتخاب کریں:">
+<!ENTITY clientAuthAsk.message3 "منتخب شدہ تصدیق ناموں کی تفصیلات:">
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "تصدیق نامہ منتخب کریں">
+<!ENTITY certPicker.info  "تصدیق نامہ:">
+<!ENTITY certPicker.detailsLabel "منتخب شدہ تصدیق ناموں کی تفصیلات:">
+
+<!ENTITY pkcs12.setpassword.title  "کوئی تصدیق نامہ پشتارہ پاس ورڈ انتخاب کریں">
+<!ENTITY pkcs12.setpassword.message  "آپ کا یہاں سیٹ کردہ تصدیق نامہ پشتارہ پاس ورڈ اس پشتارہ مسل کی حفاظت کرتا ہے جو آپ یہاں بنانے لگے ہیں۔ پشتارہ عمل پذیر کرنے کےلیے آپ کو یہ پاس ورڈ سیٹ سیٹ کرنا ہو گا۔">
+<!ENTITY pkcs12.setpassword.label1 "تصدیق نامہ پشتارہ پاس ورڈ:">
+<!ENTITY pkcs12.setpassword.label2 "تصدیق نامہ پشتارہ پاس ورڈ (دوبارہ):">
+<!ENTITY pkcs12.setpassword.reminder "اہم: اگر آپ اپنا تصدیق نامہ پشتارہ پاس ورڈ بھول جاتے ہیں تو بعد میں آپ یہ پشتارہ بحال کرنے کے اہل نہیں رہیں گے۔ لہذہٰ اسے محفوظ محل وقوع میں ریکارڈ کریں۔">
+
+<!ENTITY pkcs12.getpassword.title  "پاس ورڈ اندراج مکالمہ">
+<!ENTITY pkcs12.getpassword.message "وہ پاس ورڈ داخل کریں جو یہ تصدیق نامہ پشتارہ خفیہ کرنے میں استعمال کیا گیا تھا۔">
+
+<!ENTITY chooseToken.title  "ٹوکن مکالمہ انتخاب کریں">
+<!ENTITY chooseToken.message1 "کوئی ٹوکن انتخاب کریں۔">
+
+<!ENTITY escrowWarn.title "خفیہ کاری کلید کی نقل">
+<!ENTITY escrowWarn.message1 "اہم: اس مقتدرہ تصدیق نامے نے آپ کی نجی خفیہ کاری کلید کا پشتارہ بنانے کے لیے پوچھا ہے۔">
+<!ENTITY escrowWarn.benefit1 "فائدہ یہ ہے کہ اگر آپ اپنی نجی خفیہ کاری کلید تک رسائی کھو دیتے ہیں تو اس مقتدرہ تصدیق نامہ سے نقل کی فرمائش کر سکتے ہیں۔">
+<!ENTITY escrowWarn.message2 "تاہم، آپ کی نجی خفیہ کاری کلید مقتدرہ تصدیق نامہ کے پاس ذخیرہ ہو گی، اور آپ کی اجازت کے بغیر آپ کی خفیہ کردہ ای میل یا دستاویز کا مطالعہ کرنے میں استعمال کی جا سکتی ہے۔">
+<!ENTITY examineCert.label "تصدیق نامہ نظارہ کریں">
+<!ENTITY examineCert.accesskey "V">
+
+<!ENTITY serverCrlNextupdate.message "اپنے نظام کے انتظام کار سے اعانت کے لیے پوچھیں">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "نجی کلید تخلیق کر رہا ہے">
+<!ENTITY createCertInfo.msg1 "Key Generation in progress… This may take a few minutes….">
+<!ENTITY createCertInfo.msg2 "Please wait…">
+<!-- Form Signing confirmation prompt -->
+
+<!ENTITY formSigning.title "متن دستخط کی فرمائش">
+<!ENTITY formSigning.cert "دستخطی تصدیق نامہ">
+<!ENTITY formSigning.confirmPassword "تصدیق کرنے کے لیے کہ آپ اپنا منتخب کردہ تصدیق نامہ استعمال کرتے ہوئے یہ متن پیغام دستخط کرنے پر آمادہ ہیں، ماسٹر پاس ورڈ داخل کرتے ہوئے تصدیق کریں:">
+<!-- Strings for protectedAuth dialog -->
+
+<!ENTITY protectedAuth.title "Protected Token Authentication">
+<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
+<!ENTITY protectedAuth.tokenName.label "Token:">
+
+<!ENTITY certErrorDlg.title "Secure Connection Failed">
+<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
+<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">

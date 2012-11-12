@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+
+<!ENTITY indicator.tooltiptext            "ڈاؤن لوڈ">
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+
+<!ENTITY downloads.title                  "ڈاؤن لوڈ">
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel list items, expressed using a CSS unit.  The
+     longest labels that should fit in the item width are usually those of
+     in-progress downloads and those of blocked downloads.
+     -->
+
+<!ENTITY downloads.width                  "65ch">
+
+<!ENTITY cmd.pause.label                  "توقف کریں">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "پھر جاری کریں">
+<!ENTITY cmd.resume.accesskey             "پ">
+<!ENTITY cmd.cancel.label                 "منسوخ کریں">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "اس کا پوشہ کھولیں">
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.label                "ڈھونڈ کار میں دکھائیں">
+<!ENTITY cmd.showMac.accesskey            "ڈ">
+<!ENTITY cmd.retry.label                  "پھر کوشش کریں">
+<!ENTITY cmd.goToDownloadPage.label       "ڈاؤن لوڈ صفحہ پر جائیں">
+<!ENTITY cmd.goToDownloadPage.accesskey   "ج">
+<!ENTITY cmd.copyDownloadLink.label       "ڈاؤن لوڈ ربط نقل کریں">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ر">
+<!ENTITY cmd.removeFromList.label         "فہرست سے ہٹائیں">
+<!ENTITY cmd.removeFromList.accesskey     "ہ">
+<!ENTITY cmd.clearList.label              "فہرست صاف کریں">
+<!ENTITY cmd.clearList.accesskey          "ف">
+

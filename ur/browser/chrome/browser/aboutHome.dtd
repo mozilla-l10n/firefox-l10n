@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "&brandFullName; ابتدائی صفحہ">
+
+<!ENTITY abouthome.searchEngineButton.label "تلاش کریں">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox کا انتخاب کتنے کا شکریہ! اس کا بہتریں استعمال کرنے کے لیے اس کے <a>تازہ ترین</a> فیچرکے بارے میں اور سیکھیں۔">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox کو اپنی پسند سےتخصیص کرنا آسان ہے۔ <a>ہزاروں ایڈ اونز میں سے چنیں۔</a>">
+
+<!ENTITY abouthome.bookmarksButton.label "نشانیاں">
+<!ENTITY abouthome.historyButton.label   "سابقات">
+<!ENTITY abouthome.settingsButton.label  "سیٹنگیں">
+<!ENTITY abouthome.addonsButton.label    "ایڈ اون">
+<!ENTITY abouthome.appsButton.label      "مارکیٹ">
+<!ENTITY abouthome.downloadsButton.label "ڈاؤن لوڈ">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY devmgr.title                           "آلہ مینیجر">
+<!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
+     window size. Don't translate "width" nor "height". Adjust the numbers
+     to make window contents fit. -->
+<!ENTITY devmgr.style                           "width: 52em; height: 32em;">
+
+<!ENTITY devmgr.devlist.label                   "سلامتی ماڈیول و آلات">
+<!ENTITY devmgr.details.title                   "تفصیلات">
+<!ENTITY devmgr.details.title2                  "قدر">
+<!ENTITY devmgr.status.label                    "حالت">
+<!ENTITY devmgr.version.label                   "ورژن">
+
+<!ENTITY devmgr.button.changeslotname.label     "درز کا نام تبدیل کریں">
+<!ENTITY devmgr.button.changeslotname.accesskey "C">
+<!ENTITY devmgr.button.login.label              "لاگ ان">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "لاگ آؤٹ">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "پاس ورڈ تبدیل کریں">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "لوڈ کریں">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "ان لوڈ کریں">
+<!ENTITY devmgr.button.unload.accesskey         "U">
+<!ENTITY devmgr.button.fips.accesskey           "F">
+
+<!ENTITY loaddevice.info                        "ماڈیول کے لئے جو معلومات آپ شامل کرنا چاہتے ہیں، داخل کریں۔">
+<!ENTITY loaddevice.modname                     "نام ماڈیول:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "نیا PKCS#11 ماڈیول">
+<!ENTITY loaddevice.filename                    "ماڈیول نام مسل:">
+<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.browse                      "Browse…">
+<!ENTITY loaddevice.browse.accesskey            "B">
+
+<!ENTITY loaddevice.title                       "PKCS#11 آلہ لوڈ کریں">

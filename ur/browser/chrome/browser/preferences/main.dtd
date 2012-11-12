@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "سٹارٹ اپ">
+
+<!ENTITY startupPage.label         "جب &brandShortName; شروع ہو:">
+<!ENTITY startupPage.accesskey     "ش">
+<!ENTITY startupHomePage.label     "میرا ہوم صفحہ دکھائیں">
+<!ENTITY startupBlankPage.label    "خالی صفحہ دکھائیں">
+<!ENTITY startupLastSession.label  "پچھلی دفعہ سے میرے دریچے اور ٹیب دکھائیں">
+
+<!ENTITY homepage.label            "ابتدائی صفحہ:">
+<!ENTITY homepage.accesskey        "ص">
+<!ENTITY useCurrentPage.label      "حالیہ صفحہ برتیں">
+<!ENTITY useCurrentPage.accesskey  "ح">
+<!ENTITY useMultiple.label         "حالیہ صفحے اتستعمال کریں">
+<!ENTITY chooseBookmark.label      "نشانی استعمال کریں ...">
+<!ENTITY chooseBookmark.accesskey  "ن">
+<!ENTITY restoreDefault.label      "طے شدہ بحال کریں">
+<!ENTITY restoreDefault.accesskey  "ب">
+
+<!ENTITY downloads.label     "ڈاؤن لوڈ">
+
+<!ENTITY showWhenDownloading.label     "مسل ڈاؤن لوڈ کرتے وقت ڈاؤن لوڈ دریچہ دکھائیں">
+<!ENTITY showWhenDownloading.accesskey "ڈ">
+<!ENTITY closeWhenDone.label "جب تمام ڈاؤن لوڈ ختم ہو جائیں تو اسے بند کریں">
+<!ENTITY closeWhenDone.accesskey "ج">
+<!ENTITY saveTo.label "مسل محفوظ کریں بر">
+<!ENTITY saveTo.accesskey "م">
+<!ENTITY chooseFolderWin.label        "براؤز کریں ...">
+<!ENTITY chooseFolderWin.accesskey    "ب">
+<!ENTITY chooseFolderMac.label        "انتخاب کریں ...">
+<!ENTITY chooseFolderMac.accesskey    "ا">
+<!ENTITY alwaysAsk.label "مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے">
+<!ENTITY alwaysAsk.accesskey "ہ">
+
+<!ENTITY addonsMgr.label               "ایڈ اون">
+<!ENTITY manageAddonsDescWin.label     "اپنے ایڈ اون کے لیے اختیار بدلیں">
+<!ENTITY manageAddonsDescUnix2.label   "اپنے ایڈ اون کے لیے ترجیحات بدلیں">
+<!ENTITY manageAddons.label            "ایڈ اون مینج کریں ...">
+<!ENTITY manageAddons.accesskey        "M">

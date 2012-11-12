@@ -1,0 +1,16 @@
+<!-- -*- Mode: HTML -*- -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title.label        "کریکٹر ضابطہ بندی تخصیص کریں">
+<!ENTITY current.label      "زیر عمل کریکٹر ضابطہ بندیاں:">
+<!ENTITY remove.label       "ہٹائیں">
+<!ENTITY remove.accessKey   "R">
+<!ENTITY additional.label   "دستیاب کریکٹر ضابطہ بندیاں:">
+<!ENTITY add.label          "اضافہ کریں">
+<!ENTITY add.accessKey      "A">
+<!ENTITY moveUp.label       "اوپر لائیں">
+<!ENTITY moveUp.accessKey   "U">
+<!ENTITY moveDown.label     "نیچے لائیں">
+<!ENTITY moveDown.accessKey "D">

@@ -1,0 +1,123 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "عمومی">
+
+<!ENTITY accessibility.label             "رسائی پزیری">
+
+<!ENTITY useCursorNavigation.label       "صفحات میں آگے پیچھے جانے کے لیے ہمیشہ کرسر کلیدیں استعمال کریں">
+<!ENTITY useCursorNavigation.accesskey   "ک">
+<!ENTITY searchStartTyping.label         "جب میں ٹائپ کرنا شروع کروں تو متن کے لیے تلاش شروع کریں">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "جب ویب سائٹیں صفحہ کو دوسری سمت بھیجنے کی یا پھر لوڈ کرنے کی کوشش کریں تو مجھے متنبہ کریں">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "براؤزنگ">
+
+<!ENTITY useAutoScroll.label             "خودکار طومار استعمال کریں">
+<!ENTITY useAutoScroll.accesskey         "خ">
+<!ENTITY useSmoothScrolling.label        "ہموار طومار استعمال کریں">
+<!ENTITY useSmoothScrolling.accesskey    "ہ">
+<!ENTITY allowHWAccel.label              "جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں">
+<!ENTITY allowHWAccel.accesskey          "ہ">
+<!ENTITY checkSpelling.label             "میرے ٹائپ کرتے وقت املا چیک کریں">
+<!ENTITY checkSpelling.accesskey         "ٹ">
+
+<!ENTITY systemDefaults.label            "نظام کے طے شدہ">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "ہمیشہ چیک کریں کہ &brandShortName; آغاز پر طےشدہ براؤزر ہے یا نہیں">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY setDefault.label                "&brandShortName; کو طےشدہ براؤزر بنا دیں">
+<!ENTITY setDefault.accesskey            "ط">
+<!ENTITY isDefault.label                 "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
+<!ENTITY submitCrashes.label             "کریش رپورٹیں ارسال کریں">
+<!ENTITY submitCrashes.accesskey         "ا">
+<!ENTITY submitTelemetry.label           "پرفارمنس کوائف ارسال کریں">
+<!ENTITY submitTelemetry.accesskey       "پ">
+
+<!ENTITY networkTab.label                "نیٹ ورک">
+
+<!ENTITY connection.label                "کنکشن">
+
+<!ENTITY connectionDesc.label            "&brandShortName;  کا انٹرنیٹ سے جڑنے کا طریقہ تشکیل کریں ">
+<!ENTITY connectionSettings.label        "سیٹنگیں...">
+<!ENTITY connectionSettings.accesskey    "س">
+
+<!ENTITY httpCache.label                 "کیسہ بند ویب مواد">
+
+<!ENTITY offlineStorage2.label           "آف لائن ویب مواد اور ویب کوائف">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "کیسہ حد بند کریں">
+<!ENTITY limitCacheSizeBefore.accesskey  "ح">
+<!ENTITY limitCacheSizeAfter.label       "MB جگہ">
+<!ENTITY clearCacheNow.label             "ابھی صاف کریں">
+<!ENTITY clearCacheNow.accesskey         "ص">
+<!ENTITY clearOfflineAppCacheNow.label   "ابھی صاف کریں">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ا">
+<!ENTITY overrideSmartCacheSize.label    "خودکار کیسہ بندوبست زیر کریں">
+<!ENTITY overrideSmartCacheSize.accesskey "ز">
+
+<!ENTITY updateTab.label                 "تازہ کاری کریں">
+
+<!ENTITY updateApp.label                 "&brandShortName; تازہ کاریاں:">
+<!ENTITY updateAuto.label                "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
+<!ENTITY updateAuto.accesskey            "خ">
+<!ENTITY updateCheck.label               "تازہ کاریوں کے لیے چیک کریں، لیکن مجھے انہیں تنصیب کرنے کا انتخاب کرنے دیں">
+<!ENTITY updateCheck.accesskey           "چ">
+<!ENTITY updateManual.label              "تازہ کاری کریوں کے لیے کبھی بھی یہ چیک کریں (تجویز کردہ نہیں: سلامتی خطرہ)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "اگر یہ میرے کوئی بھی ایڈ اون نا اہل بنائے گا تو مجھے متنبہ کریں">
+<!ENTITY updateAutoAddonWarn.accesskey   "م">
+
+<!ENTITY updateHistory.label             "تازہ کاری تاریخ دکھائیں">
+<!ENTITY updateHistory.accesskey         "ت">
+
+<!ENTITY useService.label                "تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں">
+<!ENTITY useService.accesskey            "پ">
+
+<!ENTITY updateOthers.label              "خود بخود تازہ کاری کریں:">
+<!ENTITY enableSearchUpdate.label        "تلاش انجن">
+<!ENTITY enableSearchUpdate.accesskey    "ا">
+
+<!ENTITY offlineNotify.label             "مجھے بتائیں جب کوئی ویب سائٹ آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کے لیے پوچھے">
+<!ENTITY offlineNotify.accesskey         "ب">
+<!ENTITY offlineNotifyExceptions.label   "استثنیات">
+<!ENTITY offlineNotifyExceptions.accesskey "ا">
+
+<!ENTITY offlineAppsList2.label          "مندرجہ ذیل ویب سائٹوں کو آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کی اجازت ہے:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "ہٹائیں">
+<!ENTITY offlineAppsListRemove.accesskey "ہ">
+<!ENTITY offlineAppRemove.confirm        "آف لائن کوائف ہٹائیں">
+
+<!ENTITY encryptionTab.label             "خفیہ کاری">
+
+<!ENTITY protocols.label                 "پروٹوکول">
+<!ENTITY useSSL3.label                   "SSL 3.0 استعمال کریں">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 استعمال کریں">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "تصدیق نامے">
+<!ENTITY certSelection.description       "جب پیش کار میرے ذاتی تصدیق نامہ کی درخواست کرے:">
+<!ENTITY certs.auto                      "خودبخود ایک منتخب کریں">
+<!ENTITY certs.auto.accesskey            "ت">
+<!ENTITY certs.ask                       "مجھے ہر بار پوچھیں">
+<!ENTITY certs.ask.accesskey             "پ">
+<!ENTITY viewCerts.label                 "تصدیق نامے نظارہ کریں">
+<!ENTITY viewCerts.accesskey             "ت">
+<!ENTITY viewCRLs.label                  "باطلفہرستیں">
+<!ENTITY viewCRLs.accesskey              "ب">
+<!ENTITY verify2.label                   "جواز دہی">
+<!ENTITY verify2.accesskey               "ج">
+<!ENTITY viewSecurityDevices.label       "سلامتی آلات">
+<!ENTITY viewSecurityDevices.accesskey   "س">

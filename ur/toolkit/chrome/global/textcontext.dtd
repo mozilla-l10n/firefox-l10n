@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "کاٹیں">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "نقل کریں">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "جوڑیں">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "کالعدم کریں">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "تمام منتخب کریں">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "حذف کریں">
+<!ENTITY deleteCmd.accesskey "d">
+
+<!ENTITY spellAddToDictionary.label "لغت میں اضافہ کریں">
+<!ENTITY spellAddToDictionary.accesskey "م">
+<!ENTITY spellUndoAddToDictionary.label "لغت میں ڈالیں کلعدم کریں">
+<!ENTITY spellUndoAddToDictionary.accesskey "ک">
+<!ENTITY spellCheckEnable.label "ہجے پڑتال کریں">
+<!ENTITY spellCheckEnable.accesskey "ہ">
+<!ENTITY spellNoSuggestions.label "(کوئی ہجے کی تجاویز نہیں)">
+<!ENTITY spellDictionaries.label "زبانیں">
+<!ENTITY spellDictionaries.accesskey "l">

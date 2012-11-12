@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY position.label             "پوزیشن:">
+<!ENTITY tile.label                 "ٹائل">
+<!ENTITY center.label               "مرکز">
+<!ENTITY stretch.label              "کھینچیں">
+<!ENTITY fill.label                 "بھریں">
+<!ENTITY fit.label                  "فٹ">
+<!ENTITY preview.label              "پیش نظارہ">
+<!ENTITY color.label                "رنگ:">
+<!ENTITY setDesktopBackground.title "ڈیسک ٹاپ پس منظر سیٹ کریں">
+<!ENTITY openDesktopPrefs.label     "ڈیسک ٹاپ ترجیحات کھولیں">
+<!ENTITY closeWindow.key            "d">

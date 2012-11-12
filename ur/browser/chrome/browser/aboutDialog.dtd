@@ -1,0 +1,81 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY aboutDialog.title          "&brandFullName; کے متعلق">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "&brandShortName; تجرباتی ہے اور غیر مستحکم ہو سکتا ہے۔">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "یہ &brandShortName; کو بہتر بنانے کے لیے &vendorShortName; کو پرفارمنس، ہارڈ ویئر، استعمال اور تخصیص کاری کے بارے میں خود بخود معلومات بھیجتا ہے۔">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "ایک">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "گلوبل کمیونٹی ہے">
+<!ENTITY community.exp.end          " جو ویب کو کھلا، عوامی اور ہر ایک کے کے رسائی پزیر رکھنے کے لیے کام کر رہی ہے۔">
+
+<!ENTITY community.start2           "&brandShortName; ڈیزائن بمطابق:">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "، ایک">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "گلوبل کمیونٹی">
+<!ENTITY community.end3             " ویب کو کھلا، عوامی اور سب کے لیے رسائی پزیر بنانے کے لیے اکٹھے کام کر رہی ہے۔">
+
+<!ENTITY contribute.start           "دلچسپ لگا؟">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "شامل ہوں!">
+<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license        "لائسنس کرنے کی معلومات">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights         "صارف حقوق">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+
+<!ENTITY bottomLinks.privacy        "پالیسی نجی نوعیت">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے ...">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "اضافہ کی موازنت کی پڑتال کر رہا ہے۔۔۔">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; تازہ ترین ہے">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "تازہ کاریاں آپ کے نظام کے منتظم کی طرف سے نااہل شدہ ہیں">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.failed.start        "تازہ کاری ناکام ہو گئی۔">
+<!ENTITY update.failed.linkText     "تازہ ترین ورژن ڈاؤن لوڈ کریں">
+<!ENTITY update.failed.end          "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.manual.start        "تازہ کاریاں یہاں دستیاب ہیں">
+<!ENTITY update.manual.end          "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+
+<!ENTITY update.downloading.start   "اپ ڈیٹ ڈاؤن لوڈ کر رہا ہے —">
+<!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "تازہ کاری لگائیں ...">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "آپ اس وقت ادھر ہیں">
+<!ENTITY channel.description.end    "چینل اپڈیٹ۔">

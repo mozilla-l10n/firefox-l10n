@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sanitizePrefs2.title          "سابقات صاف کرنے کی سیٹنگیں">
+<!ENTITY sanitizeDialog2.title         "حالیہ سابقات خالی کریں">
+
+<!ENTITY sanitizeItems.label          "مندرجہ ذیل اشیا ابھی صاف کریں:">
+<!ENTITY clearDataSettings2.label     "جب میں &brandShortName; کنارہ کروں تو اسے خود بخود تمام مندرجہ ذیل صاف کر دینے چاہیے:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+
+<!ENTITY clearTimeDuration.label          "خالی کرنے کے لیے وقت کی رینج: ">
+<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.lastHour       "پچھلا گھنٹہ">
+<!ENTITY clearTimeDuration.last2Hours     "پچھلے دو گھنٹے">
+<!ENTITY clearTimeDuration.last4Hours     "پچھلے چار گھنٹے">
+<!ENTITY clearTimeDuration.today          "آج">
+<!ENTITY clearTimeDuration.everything     "سب کچھ">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "مصاحبہ تاریخ">
+<!ENTITY clearTimeDuration.nameColumn     "نام">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+
+<!ENTITY detailsProgressiveDisclosure.label     "تفصیلات">
+<!ENTITY detailsProgressiveDisclosure.accesskey "ت">
+
+<!ENTITY historySection.label         "سابقات">
+<!ENTITY dataSection.label            "کوائف">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+
+<!ENTITY itemHistoryAndDownloads.label     "براؤزنگ &amp; ڈاؤن لوڈ سابقات">
+<!ENTITY itemHistoryAndDownloads.accesskey "ب">
+<!ENTITY itemBrowsingHistory.label         "براؤزنگ سابقات">
+<!ENTITY itemBrowsingHistory.accesskey     "ب">
+<!ENTITY itemFormSearchHistory.label       "فارم &amp; تلاش سابقات">
+<!ENTITY itemFormSearchHistory.accesskey   "ف">
+<!ENTITY itemPasswords.label               "محفوظ شدہ پاس ورڈ">
+<!ENTITY itemPasswords.accesskey           "پ">
+<!ENTITY itemCookies.label                 "کوکیاں">
+<!ENTITY itemCookies.accesskey             "ک">
+<!ENTITY itemCache.label                   "کیسہ">
+<!ENTITY itemCache.accesskey               "ک">
+<!ENTITY itemOfflineApps.label             "آف لائن ویب سائٹ کوائف">
+<!ENTITY itemOfflineApps.accesskey         "آ">
+<!ENTITY itemDownloadHistory.label         "ڈاؤن لوڈ سابقات">
+<!ENTITY itemDownloadHistory.accesskey     "ڈ">
+<!ENTITY itemActiveLogins.label            "متحرک لاگ ان">
+<!ENTITY itemActiveLogins.accesskey        "ل">
+<!ENTITY itemSitePreferences.label         "سائٹ ترجیحات">
+<!ENTITY itemSitePreferences.accesskey     "س">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+
+<!ENTITY sanitizeEverythingUndoWarning     "یہ عمل کلعدم نہیں ہو سکتا۔">
+
+<!ENTITY dialog.width                 "28em">
+<!ENTITY column.width                 "14em">

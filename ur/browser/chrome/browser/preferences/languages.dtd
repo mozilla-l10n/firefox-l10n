@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                                   "30em">
+
+<!ENTITY languages.customize.Header                     "زبانیں">
+<!ENTITY languages.customize.prefLangDescript           "بعض اوقات ویب صفحے ایک سے زیادہ زبانوں میں دستیاب ہوتے ہیں۔ ویب صفحے نمائش کرنے کے لیے، زبانوں کی ترجیحی ترتیب انتخاب کریں۔">
+<!ENTITY languages.customize.active.label               "ترجیحی ترتیب میں زبانیں:">
+<!ENTITY languages.customize.moveUp.label               "اوپر لائیں">
+<!ENTITY languages.customize.moveUp.accesskey           "U">
+<!ENTITY languages.customize.moveDown.label             "نیچے لائیں">
+<!ENTITY languages.customize.moveDown.accesskey         "D">
+<!ENTITY languages.customize.deleteButton.label         "ہٹائیں">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.selectLanguage.label       "اضافہ کرنے کے لیے زبان منتخب کریں...">
+<!ENTITY languages.customize.addButton.label            "اضافہ کریں">
+<!ENTITY languages.customize.addButton.accesskey        "A">
+

@@ -1,0 +1,85 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "rtl">
+<!ENTITY rights.pagetitle       "متعلق: حقوق">
+<!ENTITY rights.intro-header    "آپ کے حقوق کے متعلق">
+<!ENTITY rights.intro "&brandFullName; آزاد اور کھلا ماخذ سافٹ ویئر ہے، جو کے دنیا بھر سے ہزاروں لوگوں کے گروپ نے بنائی ہے۔ کچھ باتیں ہیں جو آپ کو پتہ ہونی چاہیے:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; آپ کو بر اصطلاحات کے زیر تحت دستیاب کیا گیا ہے ">
+<!ENTITY rights.intro-point1b "Mozilla عوامی لائسنس">
+<!ENTITY rights.intro-point1c "۔ اس کا مطلب ہے کہ آپ &brandShortName; کو استعمال، نقل اور دوسروں کو بانٹ سکتے ہیں۔  آپ اپنی ضرورت پوری کرنے لے لیے &brandShortName; کا سورس کوڈ بھی تبدیل کر سکتے ہیں۔ Mozilla عوامی لائسنس آپ کو اپنی تبدیل کی ہوئی ورژن بانٹنے کی بھی اجازت دیتا ہے۔">
+
+<!ENTITY rights.intro-point2-a "آپ کو موزیلا فاونڈیشن یا کسی پارٹی، کے ٹریڈ مارک کے لائسنس یا ٹریڈ مارک حقوق نہیں دیے گئے۔ اس میں بغیر کسی حدبندی کے فائرفاکس نام اور لوگو بھی شامل ہیں۔ ٹریڈمارک پر اضافی معلومات آپ کو ملے گی ">
+<!ENTITY rights.intro-point2-b "ادھر">
+<!ENTITY rights.intro-point2-c "۔">
+<!-- point 2.5 text for official branded builds -->
+
+<!ENTITY rights.intro-point2.5 "&brandShortName; کے کچھ پیچر، جیسا کہ کریش رپورٹر، آپ کو &vendorShortName; تک فیڈ بیک پہنچانے کا اختیار دیتے ہیں۔ فیڈ بیک جمع کرانے کا انتخاب کر کے آپ &vendorShortName; کو اجازت دیتے ہیں کہ وہ یہ فیڈ بیک استعمال کر کے اپنے پراڈکٹ بہتر بنائے، فیڈ بیک اپنی ویب سائٹ پر شائع کرے، اور فیڈ بیک کو بانٹیں۔">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights2.intro-point3a "ہم آپ کی &vendorShortName; کو بھیجی ہوئی ذاتی معلومات اور فیڈ بیک کس طرح &brandShortName; کے ذریعے استعمال کرتے ہیں، یہ بتایا گیا ہے ">
+<!ENTITY rights2.intro-point3b "&brandShortName; نجی نوعیت">
+<!ENTITY rights.intro-point3c "۔">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "اس پراڈکٹ پر اطلاق پزیر نجی نوعیت کی پالسیاں یہاں پر لکھی ہونی چاہیے۔">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights2.intro-point4a "کچھ &brandShortName; فیچر ویب پر مبنی معلوماتی خدمات استعمال کرتے ہیں، لیکن ہم اس بات کی گیرنٹی نہیں دے سکتے کہ یہ سو فیصد ٹھیک یا نقص سے آزاد ہیں۔ ان خدمات کو استعمال کرنے والے فیچر کو نا اہل بنانے کے طریقے اور مزید تفاصیل آپ کو مل سکتی ہیں بر ">
+<!ENTITY rights.intro-point4b "خدمات اصطلاحات">
+<!ENTITY rights.intro-point4c "۔">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "آگ یہ مصنوعہ ویب خدمات شامل کرتا ہے تو خدمات کی کوئی بھی اطلاق پزیر خدمات اصطلاحات مربوط ہونی چاہییں بر ">
+<!ENTITY rights.intro-point4b-unbranded "ویب سائٹ خدمات">
+<!ENTITY rights.intro-point4c-unbranded " صیغہ۔">
+
+<!ENTITY rights2.webservices-header "&brandFullName; ویب پر مبنی معلوماتی خدمات">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights2.webservices-a "&brandFullName; نیچے دی گَی شرائط کے تحت &brandShortName; کی اس بائنری ورژن کے ساتھ آپ کے استعمال کے لیے کچھ فیچر مہیا کرنے کے لیے ویب پر مبنی معلوماتی خدمات (&quot;خدمات&quot;) استعمال کرتا ہے۔ اگر آپ خدمات میں سے ایک یا زیادہ نہیں استعمال کرنا چاہتے یا آپ کو شرائط قبول نہیں تو آپ فیچر یا خدمت نااہل بنا سکتے ہیں۔ کوئی مخصوص فیچر یا خدمت نااہل بنانے کا طریقہ آپ کو ملے گا ">
+<!ENTITY rights2.webservices-b "یہاں">
+<!ENTITY rights2.webservices-c "-">
+<!-- safe browsing points for branded builds -->
+
+<!ENTITY rights.safebrowsing-a "محفوظ براوزنگ">
+<!ENTITY rights.safebrowsing-b "محفوظ براؤزنگ فیچر نا اہل کرنا تجویز کردہ نہیں ہے کیونکہ اس کے نتیجے میں آپ غیر محفوظ سائٹوں پر پہنچ سکتے ہیں۔  اگر آپ اس فیچر کو پوری طرح سے نااہل کرنا چاہتے ہیں، تو یہ مرحلہ پورے کیجیے:">
+<!ENTITY rights.safebrowsing-term1 "ایپلی کیشن کی ترجیحات کھولیں">
+<!ENTITY rights.safebrowsing-term2 "سلامتی انتخاب منتخب کریں">
+<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; اور &quot;&blockWebForgeries.label;&quot; کو بے نشان کریں">
+<!ENTITY rights.safebrowsing-term4 "محفوظ براؤزنگ اب نا اہل ہے">
+<!-- location aware browsing points for branded builds -->
+
+<!ENTITY rights.locationawarebrowsing-a "محل وقوع آگاہ براؤزنگ: ">
+<!ENTITY rights.locationawarebrowsing-b "ہمیشہ خدکار اختیار ہے۔  کوئی بھی محل وقوع معلومات آپ کی اجازت کے بغیر نہیں بھیجی جائے گی۔  اگر آپ اس فیچر کو نااہل کرنا چاہتے ہیں تو یہ مرحلے پورے کریں:">
+<!ENTITY rights.locationawarebrowsing-term1a "یو ار ایل بار میں ٹائپ کریں ">
+<!ENTITY rights.locationawarebrowsing-term1b "بارے میں: تشکیل">
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled ٹائپ کریں">
+<!ENTITY rights.locationawarebrowsing-term3 "geo.enabled ترجیح پر کلک کریں">
+<!ENTITY rights.locationawarebrowsing-term4 "محل وقوع آگاہ براؤزنگ اب نا اہل ہے">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "مصنوعہ کی شامل کردہ خدمات اور ان کو نا اہل بنانے کی ہدایات، اگر اطلاق پزیر ہوں تو، یہاں پر شامل ہونی چاہیے ہیں۔">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "اس مصنوعہ پر کوئی بھی اطلاق پزیر خدمت اصطلاحات یہاں پر شامل فہرست ہونی چاہیے ہیں۔">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights2.webservices-term1 "&vendorShortName; اور اس کے معاونین، لائسنس دینے والے اور شریک سب سے درست اور تازہ خدمات دینے کے لیے کام کرتے ہیں۔  لیکن ہم اس چیز کی گیرنٹی نہیں دے سکتے کہ یہ معلومات پوری اور نقص سے آزاد ہے۔  مثال کے طور پر، محفوظ براؤزنگ خدمت شائد کچھ خطرناک سائٹوں کو نہ شناخت کر سکے اور کچھ محفوظ سائٹوں کو غلطی سے شناخت کر دے اور محل وقوع آگاہ خدمات میں خدمت مہیا کنندہ سے آئی ہوئے تمام محل وقوع اندازے ہوتے ہیں اور نا ہم اور نہ ہمارے خدمت مہیا کنندہ مہیا کی گئے محل وقوع کی درستگی کی گیرنٹی دیتے ہیں۔ ">
+<!ENTITY rights.webservices-term2 "&vendorShortName; خدمات کو موقوف یا تبدیل کر سکتا ہے۔">
+<!ENTITY rights2.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and &vendorShortName; grants you its rights to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or canceled without &vendorShortName;'s written agreement.">
+<!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">

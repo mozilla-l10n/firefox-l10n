@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tracking.label                 "ٹریکنگ">
+
+<!ENTITY doNotTrack.label               "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
+<!ENTITY doNotTrack.accesskey           "ن">
+
+<!ENTITY  history.label                 "سابقات">
+
+<!ENTITY  locationBar.label             "محل وقوع بار">
+
+<!ENTITY  locbar.pre.label              "محل وقوع بار استعمال کرتے وقت، تجویز دیں:">
+<!ENTITY  locbar.pre.accessKey          "ا">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "سابقات اور نشانیاں">
+<!ENTITY  locbar.history.label          "سابقات">
+<!ENTITY  locbar.bookmarks.label        "نشانیاں">
+<!ENTITY  locbar.nothing.label          "کچھ بھی نہیں">
+
+<!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
+<!ENTITY  acceptCookies.accesskey       "ق">
+
+<!ENTITY  acceptThirdParty.label        "تھرڈ پارٹی کوکی قبول کریں">
+<!ENTITY  acceptThirdParty.accesskey    "c">
+
+<!ENTITY  keepUntil.label               "رکھیں جب تک:">
+<!ENTITY  keepUntil.accesskey           "ر">
+
+<!ENTITY  expire.label                  "یہ ایکسبائر ہو جائیں">
+<!ENTITY  close.label                   "میں &brandShortName; بند کروں">
+<!ENTITY  askEachTime.label             "مجھے ہر بار پوچھیں">
+
+<!ENTITY  cookieExceptions.label        "استثنیات ...">
+<!ENTITY  cookieExceptions.accesskey    "ا">
+
+<!ENTITY  showCookies.label             "کوکی دکھائیں ...">
+<!ENTITY  showCookies.accesskey         "د">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; کرے گا:">
+<!ENTITY  historyHeader.pre.accesskey      "ک">
+<!ENTITY  historyHeader.remember.label     "سابقات یاد رکھے">
+<!ENTITY  historyHeader.dontremember.label "کبھی سابقات نہ یاد رکھے">
+<!ENTITY  historyHeader.custom.label       "سابقات کے لیے مخصوص سیٹکگیں استعمال کرے">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; آپ کی براوزنگ، ڈاؤن لوڈ کریںڈاؤن لوڈ، فارم اور تلاش سابقات یاد رکھے گا، اور آپ کی دیکھی ہوئی ویب سائٹوں سے کوکیاں رکھے گا۔">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "آپ شائد ">
+<!ENTITY  rememberActions.clearHistory.label  "اپنی حالیہ سابقات صاف کرنا چاہیں">
+<!ENTITY  rememberActions.middle.label        "، یا  ">
+<!ENTITY  rememberActions.removeCookies.label "اکیلی کوکیاں ہٹانا چاہیں">
+<!ENTITY  rememberActions.post.label          "۔">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; نجی براؤزنگ کی سیٹگنگیں استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "آپ اس کے علاوہ شائد ">
+<!ENTITY  dontrememberActions.clearHistory.label "تمام موجودہ سابقات خالی کرنا چاہیں">
+<!ENTITY  dontrememberActions.post.label         "-">
+
+<!ENTITY  privateBrowsingPermanent2.label "ہمیشہ نجی براوزنگ موڈ استعمال کریں">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ن">
+
+<!ENTITY  rememberHistory2.label      "میری براؤزنگ اور ڈاؤن لوڈ سابقات یاد رکھیں">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "تلاش اور فارم سابقات یاد رکھیں">
+<!ENTITY  rememberSearchForm.accesskey   "ف">
+
+<!ENTITY  clearOnClose.label             "&brandShortName; کے بند ہونے پر سابقات صاف کریں">
+<!ENTITY  clearOnClose.accesskey         "ص">
+
+<!ENTITY  clearOnCloseSettings.label     "سیٹنگیں ...">
+<!ENTITY  clearOnCloseSettings.accesskey "س">

@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                 "نجی براوزنگ">
+<!ENTITY privatebrowsingpage.title.normal          "کیا آپ نجی براوزنگ شروع کرنا چاہیں گے؟">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; سیشن کے لیے کوئی سابقات نہیں یاد رکھے گا۔">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; فی الحال نجی براؤزنگ موڈ میں نہیں ہے۔">
+
+<!ENTITY privatebrowsingpage.description               "نجی براؤزنگ سیشن میں &brandShortName; کوئی براؤزر سابقات، تلاش سابقات، ڈاؤن لوڈ سابقات، ویب فارم سابقات، کوکی، یا عارضی انٹرنیٹ مسلیں نہیں رکھے گا۔  تاہم، آپ کی ڈاؤن لوڈ کی گئی مسلیں اور لگائی ہوئی نشانیاں رکھی جائیں گی۔">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "آپ مندرجہ ذیل سے بھی شروع کر سکتے ہیں ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "حالیہ سابقات صاف کر کے">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   "۔">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "نجی براوزنگ شروع کریں">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "ن">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStop2                "نجی براؤزنگ روکنے کے لیے &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; منتخب کریں، یا &brandShortName; بند کریں۔">
+<!ENTITY privatebrowsingpage.howToStart2               "نجی براؤزنگ شروع کرنے کے لیے آپ &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; بھی منتخب کر سکتے ہیں۔">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "اس کمپیوٹر کے پاس آپ کے براؤزنگ سابقات کا کوئی ریکارڈ نہیں ہو گا، لیکن آپ کا انٹرنیٹ سروس پرووائڈر یا باس پھر بھی آپ کے دیکھے گئے صفحات کا سراغ راہ لگا سکتے ہیں۔">
+<!ENTITY privatebrowsingpage.learnMore                 "مزید سیکھیں">

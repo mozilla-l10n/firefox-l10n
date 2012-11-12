@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; سیٹ اپ کریں">
+<!ENTITY setupButton.accesskey      "س">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; آپ کو آپ کے تمام آلات پر آپ کے سابقات، نشانیاں، پاس ورڈ اور کھلی ٹیبیوں تک رسائی کرنے دیتا ہے۔">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "تازہ کاری کریں">
+<!ENTITY resetPass.label              "پھر سیٹ کریں">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "اکاؤنٹ مینج کریں">
+<!ENTITY manageAccount.accesskey      "ا">
+<!ENTITY viewQuota.label              "کوٹا نظارہ کریں">
+<!ENTITY changePassword2.label        "پاس ورڈ تبدیل کریں ...">
+<!ENTITY myRecoveryKey.label          "میری بازیافت کلید">
+<!ENTITY resetSync2.label             "سنک پھر سیٹ کریں ...">
+
+<!ENTITY pairDevice.label             "آلے کا جوڑا بنائیں">
+
+<!ENTITY syncMy.label               "انہیں سنک کریں">
+<!ENTITY engine.bookmarks.label     "نشانیاں">
+<!ENTITY engine.bookmarks.accesskey "ن">
+<!ENTITY engine.tabs.label          "ٹیب">
+<!ENTITY engine.tabs.accesskey      "ٹ">
+<!ENTITY engine.history.label       "سابقات">
+<!ENTITY engine.history.accesskey   "س">
+<!ENTITY engine.passwords.label     "پاس ورڈ">
+<!ENTITY engine.passwords.accesskey "پ">
+<!ENTITY engine.prefs.label         "ترجیحات">
+<!ENTITY engine.prefs.accesskey     "ت">
+<!ENTITY engine.addons.label        "ایڈ اون">
+<!ENTITY engine.addons.accesskey    "ا">
+<!-- Device Settings -->
+
+<!ENTITY syncComputerName.label       "کمپیوٹر نام:">
+<!ENTITY syncComputerName.accesskey   "ک">
+<!ENTITY unlinkDevice.label           "اس آلے کا ربط توڑیں">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "سروس کی ٹرمز">
+<!ENTITY prefs.ppLink.label         "پالیسی نجی نوعیت">

@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "چھوٹا کریں">
+<!ENTITY bringAllToFront.label    "تمام سامنے لائیں">
+<!ENTITY zoomWindow.label         "زوم">
+<!ENTITY windowMenu.label         "دریچہ">
+
+<!ENTITY helpMenu.label           "مدد"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "مدد"> 
+<!ENTITY helpMenuWin.accesskey    "م">
+<!ENTITY aboutProduct.label       "&brandShortName; کے متعلق">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; مدد">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
+<!ENTITY helpSafeMode.accesskey   "د">
+
+<!ENTITY helpTroubleshootingInfo.label      "ازالہ کاری معلومات">
+<!ENTITY helpTroubleshootingInfo.accesskey  "ا">
+
+<!ENTITY helpFeedbackPage.label      "اپنی رائے بھیجیں">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
+<!ENTITY preferencesCmdMac.label        "ترجیحات ...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "سروسز">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; چھپائیں">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "دیگر چھپائیں">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "تمام دکھائیں">

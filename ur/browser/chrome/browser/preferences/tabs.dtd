@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newWindowsAsTabs.label       "نیا دریچہ نئے ٹیب میں کھولیں">
+<!ENTITY newWindowsAsTabs.accesskey   "ٹ">
+
+<!ENTITY warnCloseMultipleTabs.label  "زیادہ ٹیب ایک ساتھ بند کرنے پر مجھ سے سوال کیجیے">
+<!ENTITY warnCloseMultipleTabs.accesskey  "م">
+
+<!ENTITY warnOpenManyTabs.label       "زیادہ ٹیب کھولنے پر اگر &brandShortName; آہستہ ہوتا ہو تو آگاہ کیجیے">
+<!ENTITY warnOpenManyTabs.accesskey   "ک">
+
+<!ENTITY showTabBar.label             "ہمیشہ ٹیب کی پٹی دکھائیے">
+<!ENTITY showTabBar.accesskey         "ٹ">
+
+<!ENTITY restoreTabsOnDemand.label        "منتخب ہونے تک ٹیب نہ دکھائیں">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
+
+<!ENTITY switchToNewTabs.label        "جب  میں ربط نئے ٹیب میں کھولوں تو اسی کی طرف منتقل ہوجائیے">
+<!ENTITY switchToNewTabs.accesskey    "م">
+
+<!ENTITY showTabsInTaskbar.label          "Windows ٹاسک بار میں ٹیب پیش نظارے دکھائیں">
+<!ENTITY showTabsInTaskbar.accesskey      "ٹ">

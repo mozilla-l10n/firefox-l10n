@@ -1,0 +1,205 @@
+<!ENTITY addons.windowTitle                   "ایڈ اون مینیجر">
+
+<!ENTITY search.placeholder                   "تمام ایڈ اون تلاش کریں">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "ڈ">
+
+<!ENTITY loading.label                        "لوڈ کر رہا ہے...">
+<!ENTITY listEmpty.installed.label            "آپ کے پاس اس قسم کے کوئی ایڈ اون تنصیب شدہ نہیں">
+<!ENTITY listEmpty.availableUpdates.label     "کوئی تازہ کاریاں نہیں ملیں">
+<!ENTITY listEmpty.recentUpdates.label        "آپ نے حالیہ طور پر کوئی ایڈ اون تازہ نہیں کیے">
+<!ENTITY listEmpty.findUpdates.label          "تازہ کاریوں کے لیے چیک کریں">
+<!ENTITY listEmpty.search.label               "کوئی ایسے ایڈ اون نہیں ملے">
+<!ENTITY listEmpty.button.label               "ایڈ اون کے بارے میں اور سیکھیں">
+<!ENTITY installAddonFromFile.label           "ایڈ اون مسل سے تنصیب کریں...">
+<!ENTITY installAddonFromFile.accesskey       "ت">
+<!ENTITY toolsMenu.tooltip                    "تمام ایڈ اون کے لیے ٹول">
+
+<!ENTITY cmd.back.tooltip                     "ایک صفحہ واپس جائیں">
+<!ENTITY cmd.forward.tooltip                  "ایک صفحہ آگے جائیں">
+<!-- global warnings -->
+
+<!ENTITY warning.safemode.label                    "محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔">
+<!ENTITY warning.checkcompatibility.label          "ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔">
+<!ENTITY warning.checkcompatibility.enable.label   "اہل بنائیں">
+<!ENTITY warning.checkcompatibility.enable.tooltip "ایڈ اون موازنت پڑتال اہل بنائیں">
+<!ENTITY warning.updatesecurity.label              "ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔">
+<!ENTITY warning.updatesecurity.enable.label       "اہل بنائیں">
+<!ENTITY warning.updatesecurity.enable.tooltip     "ایڈ اون تازہ کاری سلامتی پڑتال کو اہل بنائیں">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
+<!ENTITY info.plugincheck.tooltip               "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
+<!-- categories / views -->
+
+<!ENTITY view.search.label                    "تلاش کریں">
+<!ENTITY view.discover.label                  "ایڈ اون لائیں">
+<!ENTITY view.recentUpdates.label             "حالیہ تازہ کاریاں">
+<!ENTITY view.availableUpdates.label          "دستیاب تازہ کاریاں">
+<!-- addon updates -->
+
+<!ENTITY updates.checkForUpdates.label        "تازہ کاریوں کے لیے پڑتال کریں">
+<!ENTITY updates.checkForUpdates.accesskey    "پ">
+<!ENTITY updates.viewUpdates.label            "حالیہ تازہ کاریاں نظارہ کریں">
+<!ENTITY updates.viewUpdates.accesskey        "ن">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "ایڈ اون خود بخود تازہ کریں">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "ا">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "تما ایڈ اون کو خود بخود تازہ ہونے کے لیے پھر سیٹ کریں">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "پ">
+<!ENTITY updates.resetUpdatesToManual.label          "تما ایڈ اون کو دستی بہ تازہ ہونے کے لیے پھر سیٹ کریں">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "پ">
+<!ENTITY updates.updating.label               "ایڈ اون تازہ کر رہا ہے">
+<!ENTITY updates.installed.label              "آپ کے ایڈ اون تازہ ہو گئے ہیں۔">
+<!ENTITY updates.downloaded.label             "آپ کے ایڈ اون ڈاؤن لوڈ ہو گئے ہیں۔">
+<!ENTITY updates.restart.label                "تنصیب مکمل کرنے کے لیے ابھی دوباره شروع کریں">
+<!ENTITY updates.noneFound.label              "کوئی تازہ کاریاں نہیں ملیں">
+<!ENTITY updates.manualUpdatesFound.label     "دستیاب تازہ کاریاں نظارہ کریں">
+<!ENTITY updates.updateSelected.label         "تازہ کاریاں تنصیب کریں">
+<!ENTITY updates.updateSelected.tooltip       "اس فہرست میں دستیاب تازہ کاریاں تنصیب کریں">
+<!-- addon actions -->
+
+<!ENTITY cmd.showDetails.label                "مزید معلومات دکھائیں">
+<!ENTITY cmd.showDetails.accesskey            "د">
+<!ENTITY cmd.findUpdates.label                "تازہ کاریاں ڈھونڈیں">
+<!ENTITY cmd.findUpdates.accesskey            "ڈ">
+<!ENTITY cmd.preferencesWin.label             "اختیارات">
+<!ENTITY cmd.preferencesWin.accesskey         "ا">
+<!ENTITY cmd.preferencesUnix.label            "ترجیحات">
+<!ENTITY cmd.preferencesUnix.accesskey        "ت">
+<!ENTITY cmd.about.label                      "متعلق">
+<!ENTITY cmd.about.accesskey                  "م">
+
+<!ENTITY cmd.enableAddon.label                "اہل بنایا گیا">
+<!ENTITY cmd.enableAddon.accesskey            "ا">
+<!ENTITY cmd.disableAddon.label               "نا اہل بنائیں">
+<!ENTITY cmd.disableAddon.accesskey           "ن">
+<!ENTITY cmd.enableTheme.label                "خیالیہ پہنیں">
+<!ENTITY cmd.enableTheme.accesskey            "خ">
+<!ENTITY cmd.disableTheme.label               "خیالیہ پہننا بند کر دیں">
+<!ENTITY cmd.disableTheme.accesskey           "پ">
+<!ENTITY cmd.installAddon.label               "تنصیب کریں">
+<!ENTITY cmd.installAddon.accesskey           "ت">
+<!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.showPreferencesWin.label         "اختیارات">
+<!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
+<!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "اس ایڈ اون کی ترجیحات تبدیل کریں">
+<!ENTITY cmd.contribute.label                 "حصہ لیں">
+<!ENTITY cmd.contribute.accesskey             "ح">
+<!ENTITY cmd.contribute.tooltip               "اس ایڈ اون کی تکمیل کاری میں حصہ لیں">
+
+<!ENTITY cmd.showReleaseNotes.label           "اجرا نوٹ دکھائیں">
+<!ENTITY cmd.showReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ دکھائیں">
+<!ENTITY cmd.hideReleaseNotes.label           "اجرا نوٹ چھپائیں">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ چھپائیں">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title                       "ایڈ اون کیا ہوتے ہیں؟">
+<!ENTITY discover.description2                "ایڈ اون ایسی ایپلی کیشیں ہوتی ہیں جو آپ کو &brandShortName; کو /nاور فعلیت اور طرز سے ذاتی بنانے میں مدد دیتی ہیں. &brandShortName; کو اپنا بنانے لے لیے وقت بچانے والا بغلی بار، موسم اعلان کنندہ /nیا کوئی خیالیہ استعمال کر کے دیکھیں۔">
+<!ENTITY discover.footer                      "جب آپ انٹرنیٹ سے جڑے ہوں گے تو یہ جھروکا آپ کے آزمانے کے لیے /nسب سے بہترین اور معروف ایڈ اون فیچر کرے گا۔">
+<!-- detail view -->
+
+<!ENTITY detail.version.label                 "ورژن">
+<!ENTITY detail.lastupdated.label             "آخری تازہ کاری">
+<!ENTITY detail.creator.label                 "ڈیولپر">
+<!ENTITY detail.homepage.label                "ابتدائی صفحہ">
+<!ENTITY detail.numberOfDownloads.label       "ڈاؤن لوڈ">
+
+<!ENTITY detail.contributions.description     "اس ایڈ اون کا ڈیولپر آپ سے درخواست کرتا ہے کہ آپ اس کی جاری تکمیل کاری کو کچھ مدد دے کر اس کی معاونت کریں۔">
+
+<!ENTITY detail.updateType                    "خودکار تازہ کاریاں">
+<!ENTITY detail.updateDefault.label           "طے شدہ">
+<!ENTITY detail.updateDefault.tooltip         "تازہ کاریاں خود بخود صرف تب تنصیب کریں جب یہ طےشدہ ہو">
+<!ENTITY detail.updateAutomatic.label         "آن">
+<!ENTITY detail.updateAutomatic.tooltip       "تازہ کاریاں خود بخود تنصیب کریں">
+<!ENTITY detail.updateManual.label            "آف کریں">
+<!ENTITY detail.updateManual.tooltip          "تازہ کاریاں خود بخود تنصیب مت کریں">
+<!ENTITY detail.home                          "ابتدائی صفحہ">
+<!ENTITY detail.repository                    "ایڈ اون پروفائل">
+<!ENTITY detail.size                          "سائز">
+
+<!ENTITY detail.checkForUpdates.label         "تازہ کاریوں کے لیے پڑتال کریں">
+<!ENTITY detail.checkForUpdates.accesskey     "ت">
+<!ENTITY detail.checkForUpdates.tooltip       "اس ایڈ اون کے لیے تازہ کاریوں کی پڑتال کریں">
+<!ENTITY detail.showPreferencesWin.label      "اختیارات">
+<!ENTITY detail.showPreferencesWin.accesskey  "ا">
+<!ENTITY detail.showPreferencesWin.tooltip    "اس ایڈ اون کے اختیارات تبدیل کریں">
+<!ENTITY detail.showPreferencesUnix.label     "ترجیحات">
+<!ENTITY detail.showPreferencesUnix.accesskey "ت">
+<!ENTITY detail.showPreferencesUnix.tooltip   "اس ایڈ اون کی ترجیحات تبدیل کریں">
+<!-- ratings -->
+
+
+<!ENTITY rating2.label                        "شرح کاری">
+<!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip               "توقف کریں">
+<!ENTITY progress.cancel.tooltip              "منسوخ کریں">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label                      "نام">
+<!ENTITY sort.name.tooltip                    "بمطابق نام چھانٹیں">
+<!ENTITY sort.dateUpdated.label               "آخری تازہ کاری">
+<!ENTITY sort.dateUpdated.tooltip             "بمطابق تازہ کاری تاریخ چھانٹیں">
+<!ENTITY sort.relevance.label                 "بہترین مشابہ">
+<!ENTITY sort.relevance.tooltip               "بمطابق مناسبت چھانٹیں">
+<!ENTITY sort.price.label                     "قیمت">
+<!ENTITY sort.price.tooltip                   "بمطابق قیمت چھانٹیں">
+
+<!ENTITY search.filter2.label                 "تلاش کریں:">
+<!ENTITY search.filter2.installed.label       "میرے ایڈ اون">
+<!ENTITY search.filter2.installed.tooltip     "تنصیب شدہ ایڈ اون دکھائیں">
+<!ENTITY search.filter2.available.label       "دستیاب ایڈ اون">
+<!ENTITY search.filter2.available.tooltip     "تنصیب کرنے کے لیے دستیاب ایڈ اون دکھائیں">
+
+<!ENTITY addon.homepage                       "ابتدائی صفحہ">
+<!ENTITY addon.details.label                  "مزید">
+<!ENTITY addon.details.tooltip                "اس ایڈ اون کے بارے میں مزید تفاصیل دکھائیں">
+<!ENTITY addon.unknownDate                    "نامعلوم">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(نا اہل)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "تازہ کاری کریں">
+<!ENTITY addon.undoAction.label               "کالعدم کریں">
+<!ENTITY addon.undoAction.tooltip             "اس عمل کو کالعدم کریں">
+<!ENTITY addon.undoRemove.label               "کالعدم کریں">
+<!ENTITY addon.undoRemove.tooltip             "اس ایڈ اون کو تنصیب شدہ رہنے دیں">
+<!ENTITY addon.restartNow.label               "ابھی دوباره شروع کریں">
+<!ENTITY addon.install.label                  "تنصیب کریں">
+<!ENTITY addon.install.tooltip                "اس ایڈ اون کو تنصیب کریں">
+<!ENTITY addon.updateNow.label                "ابھی تازہ کاری کریں">
+<!ENTITY addon.updateNow.tooltip              "اس ایڈ اون کے لیے تازہ کاری تنصیب کریں">
+<!ENTITY addon.includeUpdate.label            "تازہ کاری میں شامل کریں">
+<!ENTITY addon.updateAvailable.label          "تازہ کاری دستیاب ہے">
+<!ENTITY addon.checkingForUpdates.label       "تازہ کاریوں کے لیے پڑتال کر رہا ہے...">
+<!ENTITY addon.releaseNotes.label             "اجرا نوٹ:">
+<!ENTITY addon.loadingReleaseNotes.label      "لوڈ کر رہا ہے...">
+<!ENTITY addon.errorLoadingReleaseNotes.label "اجرا نوٹ لوڈ کرنے میں نقص آ گیا۔">
+
+<!ENTITY addon.createdBy.label                "از  ">
+
+<!ENTITY eula.title                           "اختتامی صارف لائسنس معاہدہ">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "قبول اور تنصیب کریں...">
+
+<!ENTITY settings.path.button.label           "براؤز کریں ...">
