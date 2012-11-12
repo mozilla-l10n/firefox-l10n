@@ -67,3 +67,4 @@
 <!ENTITY loaddevice.browse.accesskey            "A">
 
 <!ENTITY loaddevice.title                       "Cargar preséu PKCS#11">
+<!ENTITY devmgr.style "width: 52em; height: 32em;">
