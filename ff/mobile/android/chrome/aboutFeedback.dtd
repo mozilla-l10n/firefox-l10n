@@ -35,7 +35,7 @@
 <!ENTITY happy.maybeLater          "Haa goɗngol">
 <!ENTITY happy.noThanks            "Alaa, mi yaafiima">
 
-<!ENTITY sad.message               "We're sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
+<!ENTITY sad.message               "Maa njaafo-ɗaa e caɗeele ɗe kɗɓ-ɗaa e &brandShortName; ɗee. Tiiɗno haalan min ko ɗe ngoni ngam min ñawnda-ɗe.">
 <!ENTITY sad.placeholder           "Naatu duttinal maa ɗoo">
 <!ENTITY sad.lastSite              "Lowre sakkitiinde yilleede (waɗɗaaki)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "We're always working to make &brandShortName; better. Rest assured that real people will look at your feedback and do their very best to resolve your issue.">
+<!ENTITY sad.thanksMessageTop      "Sahaa kala min ngoni ko e golle moƴƴitinde &brandShortName;. Faam tigi maa wood yiyɓe duttinal maa kisa mbaɗe feere no caɗeele ɗee ñawndiraa.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
@@ -59,12 +59,12 @@
 <!ENTITY idea.placeholder          "Naatu miijo maa ɗoo">
 <!ENTITY idea.thanksHeader         "A jaaraama!">
 
-<!ENTITY idea.thanksMessageTop     "We appreciate you taking the time to share your thoughts. We're always working to make &brandShortName; better and contributions like yours can lead to great things.">
+<!ENTITY idea.thanksMessageTop     "Amin njettu-maa e ɓamde hojomaaji maa seeɗa ngam wostondireede miijooji maa. Sahaa kala min ngoni ko e golle moƴƴitinde &brandShortName; tee ballitte bayɗe hono ɗee ena ɓeyda geɗe ɗee moƴƴude.">
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
      something physical, which is why they can't see it.-->
 
 <!ENTITY idea.thanksMessageBottom  "A yiyataa ɗum kono min ndokkiima 5 timmuɗi ɗoo jooni.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
+<!ENTITY feedback.privacy          "Ngam suturo maa, tiiɗno hoto waɗ geɗe keeriiɗe baawɗe heftinde ma e nder duttinal maa.">
 <!ENTITY feedback.send             "Neldu Dutttinal">
