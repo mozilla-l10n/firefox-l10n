@@ -21,7 +21,7 @@
 <li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar 
 <strong>ww</strong>.ball-sampaill.com seach 
 <strong>www</strong>.ball-sampaill.com</li> 
-<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an inneil agad.</li> 
+<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an uidheim agad.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
@@ -32,7 +32,7 @@
 
 
 <!ENTITY generic.title "Mo chreach!">
-<!ENTITY generic.longDesc "<p>Chan urrainn do &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
+<!ENTITY generic.longDesc "<p>Chan urrainn dha &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
 <!ENTITY malformedURI.title "Chan e seòladh dligheach a tha ann">
 <!ENTITY malformedURI.longDesc "<ul> 
@@ -84,7 +84,7 @@ am progsaidh ag obair.</li>
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
 <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> 
-<li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an inneal agad.</li> 
+<li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an uidheam agad.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Chan eil an duilleag ag ath-stiùireadh mar bu chòir">
@@ -116,7 +116,7 @@ gu bheil cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li
 
 <!ENTITY sharedLongDesc2 "<ul> 
 <li>Dh'fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann greis.</li> 
-<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an inneil agad.</li> 
+<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an uidheim agad.</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">

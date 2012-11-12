@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Sàr-làraichean">
 <!ENTITY  awesomebar_bookmarks_title "Comharran-lìn">
 <!ENTITY  awesomebar_history_title "Eachdraidh">
-<!ENTITY  awesomebar_search_engine "Dèan lorg airson \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Aithrisiche nan tuislidhean aig &brandShortName;">
 <!ENTITY  crash_message "Thuislich &brandShortName;. Bu chòir dhut na tabaichean agad fhaicinn air duilleag-thòiseachaidh &brandShortName; nuair a thòisicheas tu e a-rithist.">
@@ -100,6 +99,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \\'s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \\'s gun luaidh air brùthadh eaconamach. \\'S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
+<!ENTITY pref_show_product_announcements "Seall naidheachdan bathar">
 <!ENTITY pref_sync "Co-shioncronachadh">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
@@ -124,6 +124,7 @@ size. -->
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
 <!ENTITY find_in_page "Lorg san duilleag">
 <!ENTITY desktop_mode "Iarr làrach nan desktop">
+<!ENTITY tools "Innealan">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -133,6 +134,7 @@ size. -->
 <!ENTITY find_close "Dùin">
 
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
+<!ENTITY contextmenu_open_in_reader "Fosgail san leughadair">
 <!ENTITY contextmenu_remove_history "Thoir air falbh">
 <!ENTITY contextmenu_remove_bookmark "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
@@ -160,7 +162,7 @@ size. -->
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
 <!ENTITY reading_list_failed "Cha b\' urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
-<!ENTITY reader_mode "Am modh leughaidh">
+<!ENTITY reader "An leughadair">
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
 <!ENTITY masterpassword_remove_title "Thoir air falbh am prìomh fhacal-faire">
@@ -169,7 +171,11 @@ size. -->
 
 <!ENTITY button_ok "Ceart ma-tha">
 <!ENTITY button_cancel "Sguir dheth">
+<!ENTITY button_yes "Tha">
+<!ENTITY button_no "Chan eil">
 <!ENTITY button_clear_data "Falamhaich an dàta">
+<!ENTITY button_set "Suidhich">
+<!ENTITY button_clear "Falamhaich">
 
 <!ENTITY abouthome_addons_title "Tuilleadain airson &brandShortName; agad">
 <!ENTITY abouthome_addons_browse "Brabhsaich gach tuilleadan &brandShortName;">
@@ -182,14 +188,14 @@ size. -->
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \\'s na tabaichean agad o innealan eile agad&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Faigh aplacaidean o mhargaid Mozilla agus feuch gràinnean-mullaich an lìn&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \\'s na tabaichean agad o uidheaman eile agad&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Faigh aplacaidean o mhargaid Mozilla agus feuch gràinnean-mullaich an lìn&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Co-shioncronachadh Firefox">
-<!ENTITY abouthome_apps_bold_name "Margaid Mozilla">
+<!ENTITY abouthome_apps_bold_name2 "Margaid Firefox">
 
 <!ENTITY filepicker_title "Tagh faidhle">
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">
@@ -222,21 +228,24 @@ o Android">
 <!ENTITY bookmarkhistory_import_history "Ag ion-phortadh na h-eachdraidh 
 o Android">
 <!ENTITY bookmarkhistory_import_wait "Fuirich ort…">
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+
+<!ENTITY suggestions_prompt "A bheil thu ag iarraidh molaidhean luirg o &#037;?">
 
 <!ENTITY webapp_generic_name "Aplacaid">
-<!-- Updater notifications -->
 
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Tha ùrachadh &brandShortName; ri fhaighinn &#8230;">
-<!ENTITY updater_start_select "Tagh seo gus an t-ùrachadh a luchdadh a-nuas.">
+<!ENTITY searchable_description "Comharran-lìn is an eachdraidh">
+<!-- Updater notifications --> 
 
-<!ENTITY updater_downloading_title "A\' luchdadh a-nuas &brandShortName;">
-<!ENTITY updater_downloading_ticker "A\' luchdadh a-nuas ùrachadh &brandShortName; &#8230;">
-<!ENTITY updater_downloading_ticker_failed "Dh\'fhàillig luchdadh a-nuas an ùrachaidh airson &brandShortName; &#8230;">
-<!ENTITY updater_downloading_select "Tagh seo gus an t-ùrachadh a chur an gnìomh nuair a bhios e deiseil.">
-<!ENTITY updater_downloading_retry "Tagh seo gus feuchainn ris a luchdadh a-nuas a-rithist.">
-<!ENTITY updater_downloading_willapply "Tha e \'ga luchdadh a-nuas fhathast.">
-
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Tha ùrachadh &brandShortName; ri fhaighinn&#8230;">
-<!ENTITY updater_apply_select "Tagh seo gus an t-ùrachadh a chur an gnìomh.">
+<!ENTITY updater_start_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
+<!ENTITY updater_start_select2 "Suath ris gus a luchdadh a-nuas">
+ 
+<!ENTITY updater_downloading_title2 "A\' luchdadh a-nuas &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Dh\'fhàillig an luchdadh a-nuas">
+<!ENTITY updater_downloading_select2 "Suath ris gus an t-ùrachadh a chur an gnìomh turas a bhios e air a luchdadh a-nuas">
+<!ENTITY updater_downloading_retry2 "Suath ris gus feuchainn ris a-rithist">
+ 
+<!ENTITY updater_apply_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
+<!ENTITY updater_apply_select2 "Suath ris gus ùrachadh">
