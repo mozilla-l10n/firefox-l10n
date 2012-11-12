@@ -15,7 +15,7 @@
 <!ENTITY  locbar.pre.accessKey          "a">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "geskiedenis en boekmerke">
-<!ENTITY  locbar.history.label          "geskiedenis">
+<!ENTITY  locbar.history.label          "Geskiedenis">
 <!ENTITY  locbar.bookmarks.label        "boekmerke">
 <!ENTITY  locbar.nothing.label          "niks">
 
