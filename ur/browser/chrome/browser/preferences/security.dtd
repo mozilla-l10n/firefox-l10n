@@ -30,7 +30,7 @@
 <!ENTITY  passwordExceptions.accesskey  "ا">
 
 <!ENTITY  useMasterPassword.label        "ماسٹر پاس ورڈ استعمال کریں">
-<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  useMasterPassword.accesskey    "ا">
 <!ENTITY  changeMasterPassword.label     "ماسٹر پاس ورڈ تبدیل کریں ...">
 <!ENTITY  changeMasterPassword.accesskey "م">
 

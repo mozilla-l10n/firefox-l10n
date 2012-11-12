@@ -9,15 +9,15 @@
 <!ENTITY windowMenu.label         "دریچہ">
 
 <!ENTITY helpMenu.label           "مدد"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+<!ENTITY helpMenu.accesskey       "م"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "مدد"> 
 <!ENTITY helpMenuWin.accesskey    "م">
 <!ENTITY aboutProduct.label       "&brandShortName; کے متعلق">
-<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY aboutProduct.accesskey   "م">
 <!ENTITY productHelp.label        "&brandShortName; مدد">
-<!ENTITY productHelp.accesskey    "H">
+<!ENTITY productHelp.accesskey    "م">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
 <!ENTITY helpSafeMode.accesskey   "د">
@@ -25,8 +25,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "ازالہ کاری معلومات">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ا">
 
-<!ENTITY helpFeedbackPage.label      "اپنی رائے بھیجیں">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.label      "اپنی رائے بھیجیں...">
+<!ENTITY helpFeedbackPage.accesskey  "ب">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

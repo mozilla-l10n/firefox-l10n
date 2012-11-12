@@ -10,12 +10,12 @@
 <!ENTITY  columnLabel.keyword       "کلیدی لفظ">
 <!-- Buttons -->
 
-<!ENTITY  up.label                  "اوپر لائیں">
-<!ENTITY  up.accesskey              "U">
-<!ENTITY  dn.label                  "نیچے لائیں">
-<!ENTITY  dn.accesskey              "D">
+<!ENTITY  up.label                  "اوپر کریں">
+<!ENTITY  up.accesskey              "ا">
+<!ENTITY  dn.label                  "نیچے کریں">
+<!ENTITY  dn.accesskey              "ن">
 <!ENTITY  remove.label              "ہٹائیں">
-<!ENTITY  remove.accesskey          "R">
+<!ENTITY  remove.accesskey          "ہ">
 <!ENTITY  edit.label                "کلیدی لفظ تدویں کریں...">
 <!ENTITY  edit.accesskey            "ت">
 

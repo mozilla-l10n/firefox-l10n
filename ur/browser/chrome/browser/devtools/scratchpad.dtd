@@ -23,32 +23,35 @@
 <!ENTITY window.title                 "Scratchpad">
 
 <!ENTITY fileMenu.label               "مسل">
-<!ENTITY fileMenu.accesskey           "F">
+<!ENTITY fileMenu.accesskey           "م">
 
-<!ENTITY newWindowCmd.label           "New Window">
-<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.label           "نیا دریچہ">
+<!ENTITY newWindowCmd.accesskey       "ن">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.label            "مسل کھولیں...">
+<!ENTITY openFileCmd.accesskey        "م">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Open Recent">
 <!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "محفوظ کریں">
-<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.accesskey        "م">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "محفوظ کریں بطور...">
+<!ENTITY saveFileAsCmd.accesskey      "ب">
 
 <!ENTITY closeCmd.label               "بند کریں">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "ب">
 
 <!ENTITY editMenu.label               "تدوین">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.accesskey           "ت">
 
 <!ENTITY run.label                    "Run">
 <!ENTITY run.accesskey                "R">
@@ -72,8 +75,8 @@
 <!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Content">
-<!ENTITY contentContext.accesskey     "C">
+<!ENTITY contentContext.label         "مشمولات">
+<!ENTITY contentContext.accesskey     "م">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -81,8 +84,8 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "Browser">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.label         "براؤز کریں ...">
+<!ENTITY browserContext.accesskey     "ب">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
@@ -101,6 +104,10 @@
 
 <!ENTITY resetContext2.label          "Reset Variables">
 <!ENTITY resetContext2.accesskey      "T">
+
+<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Execute">
 <!ENTITY executeMenu.accesskey        "X">

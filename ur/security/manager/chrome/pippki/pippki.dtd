@@ -78,7 +78,7 @@
 <!ENTITY escrowWarn.benefit1 "فائدہ یہ ہے کہ اگر آپ اپنی نجی خفیہ کاری کلید تک رسائی کھو دیتے ہیں تو اس مقتدرہ تصدیق نامہ سے نقل کی فرمائش کر سکتے ہیں۔">
 <!ENTITY escrowWarn.message2 "تاہم، آپ کی نجی خفیہ کاری کلید مقتدرہ تصدیق نامہ کے پاس ذخیرہ ہو گی، اور آپ کی اجازت کے بغیر آپ کی خفیہ کردہ ای میل یا دستاویز کا مطالعہ کرنے میں استعمال کی جا سکتی ہے۔">
 <!ENTITY examineCert.label "تصدیق نامہ نظارہ کریں">
-<!ENTITY examineCert.accesskey "V">
+<!ENTITY examineCert.accesskey "ن">
 
 <!ENTITY serverCrlNextupdate.message "اپنے نظام کے انتظام کار سے اعانت کے لیے پوچھیں">
 <!-- Strings for the CreateCertInfo dialog  -->

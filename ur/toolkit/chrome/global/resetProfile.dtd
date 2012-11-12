@@ -12,4 +12,4 @@
 <!ENTITY resetProfile.description         "اگر آپ کے اہم مسائل ہیں جو اپ نہیں حل کر سکتے ہیں ،تو صرف آپ کی ضروری معلومات کے ساتھ تازہ شروعات کریں">
 <!ENTITY resetProfile.button.label        "Reset &brandShortName;">
 
-<!ENTITY resetProfile.cleaning.description "جب تک  brandShortName اپکاپرانا ڈیٹاصاکرتا ہے، .براہ مہربانی انتظار کریں">
+<!ENTITY resetProfile.cleaning.description "جب تک &brandShortName; آپ کے پرانے کوائف صاف کرتا ہے، براہ مہربانی انتظار کریں...">

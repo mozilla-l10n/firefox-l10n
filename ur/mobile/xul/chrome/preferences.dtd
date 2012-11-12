@@ -8,7 +8,7 @@
 <!ENTITY content.title                             "مشمول">
 <!ENTITY reflowZoom.title                          "Reformat text on zoom">
 <!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
+<!ENTITY enableJavaScript.title                    "JavaScript اہل بنائیں">
 <!ENTITY privacy.title                             "Privacy &amp; Security">
 <!ENTITY allowCookies.title                        "Allow cookies">
 <!ENTITY doNotTrack.title                          "Tell sites not to track me">
@@ -19,10 +19,10 @@
 <!ENTITY language.title                            "Language">
 <!ENTITY language.auto                             "Auto-detect">
 <!ENTITY defaultBrowser.title                      "طے شدہ براؤزر">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
+<!ENTITY defaultBrowser.description                "&brandShortName; کو اپنا طےشدہ براؤزر بنائیں">
 <!ENTITY homepage.title                            "Start page">
 <!ENTITY homepage.none                             "Blank Page">
 <!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
+<!ENTITY homepage.currentpage                      "حالیہ صفحہ استعمال کریں">
 <!ENTITY showCharsetEncoding.title                 "Show character encoding">
 <!ENTITY actionbar.default                         "&brandShortName; Settings">

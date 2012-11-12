@@ -7,10 +7,10 @@
 
 <!ENTITY  copy.key              "ن">
 <!ENTITY  copy.label            "نقل کریں">
-<!ENTITY  copy.accesskey        "C">
+<!ENTITY  copy.accesskey        "ن">
 <!ENTITY  selectall.key         "ت">
 <!ENTITY  selectall.label       "تمام منتخب کریں">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.accesskey   "ت">
 <!ENTITY  closeWindow.key       "د">
 
 <!ENTITY  generalTab            "عمومی">

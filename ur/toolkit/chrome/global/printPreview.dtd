@@ -7,16 +7,16 @@
 <!ENTITY pageSetup.label      "صفحہ سیٹ اپ...">
 <!ENTITY pageSetup.accesskey  "س">
 <!ENTITY page.label           "صفحہ:">
-<!ENTITY page.accesskey       "a">
+<!ENTITY page.accesskey       "ص">
 <!ENTITY of.label             "کا">
 <!ENTITY scale.label          "پیمانہ:">
-<!ENTITY scale.accesskey      "S">
+<!ENTITY scale.accesskey      "پ">
 <!ENTITY portrait.label       "عمودی انداز">
-<!ENTITY portrait.accesskey   "o">
+<!ENTITY portrait.accesskey   "ع">
 <!ENTITY landscape.label      "افقی انداز">
-<!ENTITY landscape.accesskey  "L">
+<!ENTITY landscape.accesskey  "ا">
 <!ENTITY close.label          "بند کریں">
-<!ENTITY close.accesskey      "C">
+<!ENTITY close.accesskey      "ب">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">

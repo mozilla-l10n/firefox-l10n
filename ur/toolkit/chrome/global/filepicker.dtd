@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lookInMenuList.label   "دیکھیں در:">
-<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY lookInMenuList.accesskey   "د">
 <!ENTITY textInput.label        "نام مسل:">
-<!ENTITY textInput.accesskey        "n">
+<!ENTITY textInput.accesskey        "ن">
 <!ENTITY filterMenuList.label   "اس قسم کی مسلیں:">
-<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY filterMenuList.accesskey   "ق">
 <!ENTITY name.label             "نام">
 <!ENTITY size.label             "سائز">
 <!ENTITY lastModified.label     "آخری بار ترمیم کردہ">
-<!ENTITY showHiddenFiles.label  "پوشیدہ مسلیں اور ڈائریکٹریاں نمائش کریں">
-<!ENTITY showHiddenFiles.accesskey  "S">
+<!ENTITY showHiddenFiles.label  "پوشیدہ مسلیں اور ڈائریکٹریاں دکھائیں">
+<!ENTITY showHiddenFiles.accesskey  "د">
 
 <!ENTITY noPermissionError.label "آپ کے پاس یہ ڈائریکٹری نظارہ کرنے کے لیے ضروری اجازتیں نہیں ہیں۔">
 

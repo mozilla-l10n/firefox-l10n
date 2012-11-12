@@ -11,16 +11,16 @@
 
 <!ENTITY  color                           "متن و پس منظر">
 <!ENTITY  textColor.label                 "متن:">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.accesskey             "م">
 <!ENTITY  backgroundColor.label           "پس منظر:">
-<!ENTITY  backgroundColor.accesskey       "b">
-<!ENTITY  useSystemColors.label           "نظام کے رنگ استعمال کریں">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  backgroundColor.accesskey       "پ">
+<!ENTITY  useSystemColors.label           "نظام رنگ استعمال کریں">
+<!ENTITY  useSystemColors.accesskey       "ن">
 
 <!ENTITY  underlineLinks.label            "روابط خط کشیدہ کریں">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "خ">
 <!ENTITY  links                           "ربط کے رنگ">
 <!ENTITY  linkColor.label                 "ملاحظہ نہ کیے گئے روابط:">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "ر">
 <!ENTITY  visitedLinkColor.label          "ملاحظہ کیے گئے روابط:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.accesskey      "م">

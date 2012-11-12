@@ -15,23 +15,23 @@
 <!ENTITY  WPADTypeRadio.label           "اس نیٹورک کے لیے پراکسی سیٹنگیں خود کھوج کریں">
 <!ENTITY  WPADTypeRadio.accesskey       "ن">
 <!ENTITY  manualTypeRadio.label         "دستی پراکسی تشکیل:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "د">
 <!ENTITY  autoTypeRadio.label           "خودکار پراکسی تشکیل URL:">
 <!ENTITY  autoTypeRadio.accesskey       "خ">
 <!ENTITY  reload.label                  "پھر لوڈ کریں">
 <!ENTITY  reload.accesskey              "پ">
-<!ENTITY  ftp.label                     " ایف ٹی پی پراکسی:">
+<!ENTITY  ftp.label                     "FTP پراکسی:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP پراکسی:">
 <!ENTITY  http.accesskey                "پ">
 <!ENTITY  ssl.label                     "SSL پراکسی:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS میزبان:">
-<!ENTITY  socks.accesskey               " ">
+<!ENTITY  socks.accesskey               "S">
 <!ENTITY  socks4.label                  "SOCKS ورژن 4">
-<!ENTITY  socks4.accesskey              " ">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS ورژن 5">
-<!ENTITY  socks5.accesskey              " ">
+<!ENTITY  socks5.accesskey              "و">
 <!ENTITY  port.label                    "دہانہ:">
 <!ENTITY  HTTPport.accesskey            "پ">
 <!ENTITY  SSLport.accesskey             "س">

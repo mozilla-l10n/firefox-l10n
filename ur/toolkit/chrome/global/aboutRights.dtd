@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "rtl">
 <!ENTITY rights.pagetitle       "متعلق: حقوق">
@@ -32,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "اس پراڈکٹ پر اطلاق پزیر نجی نوعیت کی پالسیاں یہاں پر لکھی ہونی چاہیے۔">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "کچھ &brandShortName; فیچر ویب پر مبنی معلوماتی خدمات استعمال کرتے ہیں، لیکن ہم اس بات کی گیرنٹی نہیں دے سکتے کہ یہ سو فیصد ٹھیک یا نقص سے آزاد ہیں۔ ان خدمات کو استعمال کرنے والے فیچر کو نا اہل بنانے کے طریقے اور مزید تفاصیل آپ کو مل سکتی ہیں بر ">
+<!ENTITY rights2.intro-point4a "کچھ &brandShortName; فیچر ویب پر مبنی معلوماتی خدمات استعمال کرتے ہیں، لیکن ہم اس بات کی گیرنٹی نہیں دے سکتے کہ یہ 100&#37; ٹھیک یا نقص سے آزاد ہیں۔ ان خدمات کو استعمال کرنے والے فیچر کو نا اہل بنانے کے طریقے اور مزید تفاصیل آپ کو مل سکتی ہیں بر ">
 <!ENTITY rights.intro-point4b "خدمات اصطلاحات">
 <!ENTITY rights.intro-point4c "۔">
 <!-- point 4 text for unbranded builds -->

@@ -17,58 +17,58 @@
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ٹیب پھر لوڈ کریں">
-<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.accesskey                "پ">
 <!ENTITY  reloadAllTabs.label                "تمام ٹیب پھر لوڈ کریں">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  reloadAllTabs.accesskey            "ت">
 <!ENTITY  closeOtherTabs.label               "دیگر ٹیب بند کر دیں">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!ENTITY  closeOtherTabs.accesskey           "د">
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "ایپ ٹیب کے طور پر پن کریں">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "ٹیب انپن کریں">
-<!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "گروپ کی طرف بڑھائیں">
-<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "ٹیب انپن کریں">
+<!ENTITY  unpinTab.accesskey                 "ٹ">
+<!ENTITY  moveToGroup.label                  "گروپ کی طرف کریں">
+<!ENTITY  moveToGroup.accesskey              "ک">
 <!ENTITY  moveToNewGroup.label               "نیا گروپ">
 <!ENTITY  moveToNewWindow.label              "نئے دریچے میں بڑھائیں">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  moveToNewWindow.accesskey          "د">
+<!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں...">
+<!ENTITY  bookmarkAllTabs.accesskey          "ٹ">
 <!ENTITY  undoCloseTab.label                 "ٹیب بند کالعدم کریں">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.accesskey             "ک">
 <!ENTITY  closeTab.label                     "ٹیب بند کر دیں">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "ب">
 
 <!ENTITY  listAllTabs.label      "تمام ٹیب دکھائیں">
 
 <!ENTITY tabCmd.label "نیا ٹیب">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.accesskey "ٹ">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "محل وقوع کھولیں ...">
-<!ENTITY openLocationCmd.accesskey "L">
-<!ENTITY openFileCmd.label "مسل کھولیں ...">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openLocationCmd.label "محل وقوع کھولیں...">
+<!ENTITY openLocationCmd.accesskey "م">
+<!ENTITY openFileCmd.label "مسل کھولیں...">
+<!ENTITY openFileCmd.accesskey "م">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "صفحہ سیٹ اپ ...">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "صفحہ سیٹ اپ...">
+<!ENTITY printSetupCmd.accesskey "س">
 <!ENTITY printPreviewCmd.label "چھپائی پیش نظارہ">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "چھاپیں ...">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printPreviewCmd.accesskey "پ">
+<!ENTITY printCmd.label "چھاپیں...">
+<!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "آف لائن کام کریں">
-<!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY goOfflineCmd.accesskey "ک">
 
 <!ENTITY menubarCmd.label "مینیو بار">
 <!ENTITY menubarCmd.accesskey "م">
 <!ENTITY navbarCmd.label "گشت کاری ٹول بار">
-<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY navbarCmd.accesskey "گ">
 <!ENTITY personalbarCmd.label "نشانیاں ٹول بار">
 <!ENTITY personalbarCmd.accesskey "ن">
 <!ENTITY bookmarksToolbarItem.label "ٹول بار اشیاہ کو نشانی کگاتا ہے">
@@ -76,10 +76,10 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.accesskey "ا">
 
 <!ENTITY pageSourceCmd.label "صفحہ ماخذ">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "م">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "صفحہ معلومات">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "م">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -124,18 +124,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
 
 <!ENTITY backCmd.label                "واپس">
-<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backCmd.accesskey            "و">
 <!ENTITY backButton.tooltip           "ایک صفحہ واپس جائیں">
-<!ENTITY forwardCmd.label             "آگے بھیجیں">
-<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardCmd.label             "آگے کریں">
+<!ENTITY forwardCmd.accesskey         "گ">
 <!ENTITY forwardButton.tooltip        "ایک صفحہ آگے جائیں">
 <!ENTITY backForwardButtonMenu.tooltip "سابقات دکھانے کے لیے دایاں کلک کریں یا نیچے کھینچیں">
 <!ENTITY backForwardButtonMenuMac.tooltip "سابقات دکھانے کے لیے نیچے کھینچیں">
 <!ENTITY reloadCmd.label              "پھر لوڈ کریں">
-<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.accesskey          "پ">
 <!ENTITY reloadButton.tooltip         "حالیہ صفحہ پھر لوڈ کریں">
 <!ENTITY stopCmd.label                "رکیں">
-<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.accesskey            "ر">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "یہ صفحہ لوڈ کرنا روکیں">
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
@@ -182,7 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ٹول">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "ٹ"> 
 
 <!ENTITY keywordfield.label           "اس تلاش کے لیے کلیدی لفظ ڈالیں">
 <!ENTITY keywordfield.accesskey       "ک">
@@ -201,14 +201,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
 <!ENTITY errorConsoleCmd.label        "نقص کنسول">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.accesskey    "ک">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "ویب کنسول">
 <!ENTITY webConsoleCmd.accesskey      "و">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "تحقیق کریں">
+<!ENTITY inspectMenu.label            "تحقیق">
 <!ENTITY inspectMenu.accesskey        "ت">
 <!ENTITY inspectMenu.commandkey       "I">
 
@@ -235,16 +235,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "انسپکٹر بند کریں">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ڈیولپر ٹول بار بند کریں">
 <!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
 <!ENTITY devToolbarMenu.accesskey          "ڈ">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
-
-<!ENTITY webConsoleButton.label "ویب کنسول">
-<!ENTITY inspectorButton.label "انسپکٹر">
+<!ENTITY devToolbarOtherToolsButton.label  "مزید ٹول">
 
 <!ENTITY inspectorHTMLCopyInner.label       "اندرونی HTML نقل کریں">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "ا">
@@ -259,7 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  webpage. -->
 
 <!ENTITY inspect3DViewButton.label     "3D نظارہ">
-<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspect3DViewButton.accesskey "ن">
 
 <!ENTITY inspectStyleButton.label     "طرز:">
 <!ENTITY inspectStyleButton.accesskey "ط">
@@ -275,41 +273,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ا">
 
 <!ENTITY fileMenu.label         "مسل"> 
-<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newNavigatorCmd.label        "نیا دریچہ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ن">
 
 <!ENTITY editMenu.label         "تدوین"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY editMenu.accesskey       "ت"> 
+<!ENTITY undoCmd.label            "کالعدم کریں">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "ک"> 
 <!ENTITY redoCmd.label            "اعادہ کریں">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY redoCmd.accesskey          "ا"> 
 <!ENTITY cutCmd.label           "کاٹیں">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY cutCmd.accesskey         "ک"> 
 <!ENTITY copyCmd.label            "نقل کریں">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "جوڑیں">  
+<!ENTITY copyCmd.accesskey          "ن"> 
+<!ENTITY pasteCmd.label           "چسپاں کریں">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY pasteCmd.accesskey         "چ"> 
 <!ENTITY deleteCmd.label          "حذف کریں">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.accesskey        "ح"> 
 <!ENTITY selectAllCmd.label         "تمام منتخب کریں">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY selectAllCmd.accesskey       "ت"> 
 <!ENTITY preferencesCmd2.label       "اختیارات">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.accesskey     "ا">
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "ج"> 
 
-<!ENTITY clearRecentHistory.label               "حالیہ سابقات خالی کریں ...">
-<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.label               "حالیہ سابقات خالی کریں...">
+<!ENTITY clearRecentHistory.accesskey           "س">
 <!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label         "نجی براوزنگ شروع کریں">
@@ -319,7 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "نظارہ"> 
-<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewMenu.accesskey       "ن"> 
 <!ENTITY viewTabGroups.label            "ٹیب گروپ">
 <!ENTITY viewTabGroups.accesskey        "گ">
 <!ENTITY viewToolbarsMenu.label       "ٹول بار"> 
@@ -385,51 +383,51 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "ربط نئی ٹیب میں کھولیں">
-<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmdInTab.accesskey   "ٹ">
 <!ENTITY openLinkCmd.label            "ربط نئے دریچے میں کھولیں">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "د">
 <!ENTITY openLinkCmdInCurrent.label     "ربط کھولیں">
 <!ENTITY openLinkCmdInCurrent.accesskey "ک">
 <!ENTITY openFrameCmdInTab.label      "فریم نئی ٹیب میں کھولیں">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmdInTab.accesskey  "ٹ">
 <!ENTITY openFrameCmd.label           "فریم نئے دریچے میں کھولیں">
-<!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY showOnlyThisFrameCmd.label     "صرف یہ فریم نمائش کریں">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY openFrameCmd.accesskey       "د">
+<!ENTITY showOnlyThisFrameCmd.label     "صرف یہ فریم دکھائیں">
+<!ENTITY showOnlyThisFrameCmd.accesskey "د">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "فریم پھر لوڈ کریں">
-<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY reloadFrameCmd.accesskey     "پ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "انتخاب ماخذ نظارہ کریں">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "میتھ ایم ایل ماخذ نظارہ کریں">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "صفحہ ماخذ نظارہ کریں">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewPageSourceCmd.accesskey  "ن">
 <!ENTITY viewFrameSourceCmd.label     "فریم ماخذ نظارہ کریں">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.accesskey "ن">
 <!ENTITY viewPageInfoCmd.label        "صفحہ معلومات نظارہ کریں">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.accesskey    "م">
 <!ENTITY viewFrameInfoCmd.label       "فریم معلومات نظارہ کریں">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY viewFrameInfoCmd.accesskey   "م">
 <!ENTITY reloadImageCmd.label         "نقش پھر لوڈ کریں">
 <!ENTITY reloadImageCmd.accesskey     "پ">
 <!ENTITY viewImageCmd.label           "نقش نظارہ کریں">
-<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageCmd.accesskey       "ن">
 <!ENTITY viewImageInfoCmd.label       "صفحہ معلومات نظارہ کریں">
 <!ENTITY viewImageInfoCmd.accesskey   "م">
 <!ENTITY viewVideoCmd.label           "وڈیو دیکھیں">
 <!ENTITY viewVideoCmd.accesskey       "د">
 <!ENTITY viewBGImageCmd.label         "پس منظر نقش نظارہ کریں">
-<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY viewBGImageCmd.accesskey     "ن">
 <!ENTITY setDesktopBackgroundCmd.label      "ڈیسک ٹاپ پس منظر کے طور پر سیٹ کریں ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "س">
 <!ENTITY bookmarkPageCmd2.label       "یہ صفحہ نشان زد کریں">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkPageCmd2.accesskey   "ن">
 <!ENTITY bookmarkThisLinkCmd.label      "یہ ربط نشان زد کریں">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "یہ فریم نشان زد کریں">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "ن">
 <!ENTITY emailPageCmd.label           "ای میل ربط">
 <!ENTITY emailPageCmd.accesskey       "ا">
 <!ENTITY savePageCmd.label            "صفحہ محفوظ کریں بطور ...">
@@ -447,10 +445,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "م">
 <!ENTITY saveVideoCmd.label           "وڈیو محفوظ کریں بطور ...">
 <!ENTITY saveVideoCmd.accesskey       "و">
-<!ENTITY saveAudioCmd.label           "آڈیو محفوظ کریں بطور ...">
-<!ENTITY saveAudioCmd.accesskey       "آ">
-<!ENTITY emailImageCmd.label          "نقش ای میل کریں...">
-<!ENTITY emailImageCmd.accesskey      "ا">
+<!ENTITY saveAudioCmd.label           "آڈیو محفوظ کریں بطور...">
+<!ENTITY saveAudioCmd.accesskey       "م">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "وڈیو ای میل کریں...">
 <!ENTITY emailVideoCmd.accesskey      "ا">
 <!ENTITY emailAudioCmd.label          "آڈیو ای میل کریں...">
@@ -466,9 +464,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "آڈیو محل وقوع نقل کریں">
 <!ENTITY copyAudioURLCmd.accesskey    "ن">
 <!ENTITY copyEmailCmd.label           "ای میل پتہ نقل کریں">
-<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY copyEmailCmd.accesskey       "ا">
 <!ENTITY thisFrameMenu.label              "یہ فریم">
-<!ENTITY thisFrameMenu.accesskey          "h">
+<!ENTITY thisFrameMenu.accesskey          "ی">
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -477,7 +475,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "پلے">
 <!ENTITY mediaPlay.accesskey         "پ">
 <!ENTITY mediaPause.label            "توقف کریں">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.accesskey        "ت">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -517,13 +515,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        " باہر زوم کریں">
-<!ENTITY fullZoomReduceCmd.accesskey    " ">
+<!ENTITY fullZoomReduceCmd.label        "باہر زوم">
+<!ENTITY fullZoomReduceCmd.accesskey    "ب">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "پھر سیٹ کریں">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.accesskey     "پ">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -534,7 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "نئی ٹیب کھولیں">
 <!ENTITY newWindowButton.tooltip        "نیا دریچا کھولیں">
-<!ENTITY sidebarCloseButton.tooltip     "بغلی بار بند کریں">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "کاٹیں">
 <!ENTITY copyButton.tooltip             "نقل کریں">
@@ -547,17 +545,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomControls.label             "کنٹرول زوم کریں">
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "x">
+<!ENTITY quitApplicationCmdWin.accesskey   "خ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.accesskey   "ک">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; خروج کریں">
 <!ENTITY quitApplicationCmdMac.key      "ک">
 
 <!ENTITY closeCmd.label                 "بند کریں">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "ب">
 
 <!ENTITY pageStyleMenu.label "پیج طرز">
 <!ENTITY pageStyleMenu.accesskey "ط">
@@ -579,15 +577,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "صفحے کی سمت سوئچ کریں">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "س">
-<!ENTITY bidiSwitchTextDirectionItem.label        "متن کی سمت سوئچ کریں">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.label        "متن کی سمت بدلیں کریں">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ب">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں ...">
 <!ENTITY findOnCmd.accesskey "ڈ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "دوبارہ ڈھونڈیں">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "د">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
@@ -621,9 +619,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "براؤزر کے ٹیب">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "دوسرے کمپیوٹر سے ٹیب">
+<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
 
 <!ENTITY syncBrand.shortName.label    "ہمہ وار کریں">
 
@@ -647,22 +645,15 @@ toolbar button -->
 
 <!ENTITY socialToolbar.title        "سوشل ٹول بار بٹن">
 <!ENTITY social.notLoggedIn.label   "لاگ ان نہیں">
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 
 <!ENTITY social.ok.label       "ٹھیک ہے">
 <!ENTITY social.ok.accesskey   "ٹ">
 
-<!ENTITY social.sharePopup.undo.label     "حصہ داری واپس لیں">
-<!ENTITY social.sharePopup.undo.accesskey "و">
-<!ENTITY social.sharePopup.shared.label   "You shared this page.">
-<!ENTITY social.sharePopup.portrait.arialabel "User profile picture">
+<!ENTITY social.toggleSidebar.label "سائڈ بار دکھائیں">
+<!ENTITY social.toggleSidebar.accesskey "د">
 
-<!ENTITY social.toggleSidebar.label "Show sidebar">
-<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Undo">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.undobutton.label "کالعدم کریں">
+<!ENTITY social.activated.undobutton.accesskey "ک">

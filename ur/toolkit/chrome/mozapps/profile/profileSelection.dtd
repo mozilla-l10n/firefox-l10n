@@ -25,7 +25,7 @@
 <!ENTITY            pmDescription.label    "&brandShortName; آپ کی سیٹنگوں، ترجیحات اور دیگر صارفی اشیا کے متعلق معلومات آپ کے صارف پروفائل میں ذخیرہ کرتا ہے۔">
 
 <!ENTITY            offlineState.label    "آف لائن کام کریں">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY            offlineState.accesskey "ک">
 
 <!ENTITY            autoSelect.label       "شروع میں مت پوچھیں">
-<!ENTITY            autoSelect.accesskey   "s">
+<!ENTITY            autoSelect.accesskey   "پ">

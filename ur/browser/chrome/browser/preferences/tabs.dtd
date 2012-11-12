@@ -14,8 +14,8 @@
 <!ENTITY showTabBar.label             "ہمیشہ ٹیب کی پٹی دکھائیے">
 <!ENTITY showTabBar.accesskey         "ٹ">
 
-<!ENTITY restoreTabsOnDemand.label        "منتخب ہونے تک ٹیب نہ دکھائیں">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
+<!ENTITY restoreTabsOnDemand.label        "منتخب ہونے تک ٹیب نہ لوڈ کریں">
+<!ENTITY restoreTabsOnDemand.accesskey    "ل">
 
 <!ENTITY switchToNewTabs.label        "جب  میں ربط نئے ٹیب میں کھولوں تو اسی کی طرف منتقل ہوجائیے">
 <!ENTITY switchToNewTabs.accesskey    "م">

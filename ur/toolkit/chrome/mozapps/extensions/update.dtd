@@ -6,8 +6,8 @@
 
 <!ENTITY  offline.title                   "&brandShortName; آف لائن کام موڈ میں کام کر رہا ہے">
 <!ENTITY  offline.description             "&brandShortName; کو آن لائن جانے کی ضرورت ہے، چیک کرنے کے لیے /nکہ اگر آپ کے ایڈ اون کو اس ورژن کے ساتھ موازن کرنے کیے تازہ کاریاں دستیاب /nہیں کہ نہیں۔">
-<!ENTITY  offline.toggleOffline.label     "ابھی آن لائن جائیں">
-<!ENTITY  offline.toggleOffline.accesskey "G">
+<!ENTITY  offline.toggleOffline.label     "ابھی آن لائن جائیں۔">
+<!ENTITY  offline.toggleOffline.accesskey "ج">
 
 <!ENTITY  mismatch.win.title              "غیر موازن ایڈ اون">
 <!ENTITY  mismatch.top.label              "مندرجہ ذیل ایڈ اون &brandShortName; کی اس ورژن /nکے ساتھ موازن نہیں اور نااہل کر دیے گئے ہیں:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "جو ایڈ اون آپ تنصیب کرنا چاہتے ہیں، منتخب کریں:">
 <!ENTITY  found.disabledXPinstall.label   "یہ تازہ کاریاں تنصیب نہیں ہو سکتیں کیونک سافٹ ویئر تنصیب اس وقت /nنااہل ہے۔ آپ اس سیٹگ جو نیچے تبدیل کر سکتے ہیں۔">
 <!ENTITY  found.enableXPInstall.label     "ویب سائٹوں کو سافٹ ویئر تنصیب کرنے دیں">
-<!ENTITY  found.enableXPInstall.accesskey "A">
+<!ENTITY  found.enableXPInstall.accesskey "ک">
 
 <!ENTITY  installing.wizard.title         "موازن ایڈ اون تنصیب کر رہا ہے">
 <!ENTITY  installing.top.label            "آپ کے ایڈ اون کی تازہ کاریاں ڈاؤن لوڈ اور تنصیب کر رہا ہے...">

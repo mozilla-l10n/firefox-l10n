@@ -15,14 +15,14 @@
 <!ENTITY  sizeMonospace.accesskey                 "م">
 
 <!ENTITY  proportional.label                      "متناسب:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional.accesskey                  "م">
 
 <!ENTITY  serif.label                             "سیرف:">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "س">
 <!ENTITY  sans-serif.label                        "سینس- سیرف:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "ن">
 <!ENTITY  monospace.label                         "مونو سپیس:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  monospace.accesskey                     "م">
 
 <!ENTITY  font.langGroup.latin1                   "مغربی">
 <!ENTITY  font.langGroup.latin2                   "وسطی يورپی">
@@ -70,4 +70,4 @@
 
 <!ENTITY languages.customize.Charset.grouplabel         "کریکٹر ضابطہ بندی">
 <!ENTITY languages.customize.DefaultCharset.label       "طے شدہ کریکٹر ضابطہ بندی:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "ک">

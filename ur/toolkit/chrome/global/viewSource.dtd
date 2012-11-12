@@ -13,19 +13,19 @@
 <!ENTITY mainWindow.preface "کا ماخذ:">
 
 <!ENTITY fileMenu.label "مسل">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Save Page As…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY fileMenu.accesskey "م">
+<!ENTITY savePageCmd.label "صفحہ محفوظ کریں بطور...">
+<!ENTITY savePageCmd.accesskey "ب">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Page Setup…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.label "صفحہ سیٹ اپ...">
+<!ENTITY pageSetupCmd.accesskey "س">
 <!ENTITY printPreviewCmd.label "چھپائی پیش نظارہ">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Print…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printPreviewCmd.accesskey "پ">
+<!ENTITY printCmd.label "چھاپیں...">
+<!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "بند کریں">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "ب">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -42,19 +42,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Go to Line…">
-<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.label "سطر پر جائیں...">
+<!ENTITY goToLineCmd.accesskey "س">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "نظارہ">
-<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewMenu.accesskey       "ن">
 <!ENTITY reloadCmd.label "پھر لوڈ کریں">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "پ">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "لمبی سطریں ملفوف کریں"> 
-<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_wrapLongLines.accesskey "ل">
 <!ENTITY menu_highlightSyntax.label "نحو نمایاں کاری">
-<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_highlightSyntax.accesskey "ن">
 <!ENTITY menu_textSize.label "Text Size">
 <!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Increase">
@@ -62,24 +62,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReduce.label "Decrease">
 <!ENTITY menu_textReduce.accesskey "D">
 <!ENTITY menu_textReset.label "عام">
-<!ENTITY menu_textReset.accesskey "N">
+<!ENTITY menu_textReset.accesskey "ع">
 
 <!ENTITY findOnCmd.label     "Find in This Page…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "دوبارہ ڈھونڈیں">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "د">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "واپس">
-<!ENTITY backCmd.accesskey "B">
-<!ENTITY forwardCmd.label "آگے بھیجیں">
-<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY backCmd.accesskey "و">
+<!ENTITY forwardCmd.label "آگے کریں">
+<!ENTITY forwardCmd.accesskey "گ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Copy Link Location">
 <!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "ای میل پتہ نقل کریں">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "ا">

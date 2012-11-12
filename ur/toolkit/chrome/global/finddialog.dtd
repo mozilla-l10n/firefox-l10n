@@ -16,7 +16,7 @@
 <!ENTITY cancelButton.label "منسوخ کریں">
 <!ENTITY closeButton.label "بند کریں">
 <!ENTITY up.label "اوپر">
-<!ENTITY up.accesskey "U">
+<!ENTITY up.accesskey "ا">
 <!ENTITY down.label "نیچے">
-<!ENTITY down.accesskey "D">
+<!ENTITY down.accesskey "ن">
 <!ENTITY direction.label "سمت">

@@ -10,12 +10,12 @@
 <!ENTITY     props.expires.label            "مدت ختم ہوتی ہے:">
 
 <!ENTITY     button.allow.label             "ہونے دیں">
-<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.allow.accesskey         "ہ">
 <!ENTITY     button.session.label           "سیشن کے لیے اجازت دیں">
-<!ENTITY     button.session.accesskey       "S">
+<!ENTITY     button.session.accesskey       "س">
 <!ENTITY     button.deny.label              "انکار کریں">
-<!ENTITY     button.deny.accesskey          "D">
+<!ENTITY     button.deny.accesskey          "ا">
 
 <!ENTITY     dialog.title                   "کوکی کا سیٹ کرنا تصدیق کریں">
 <!ENTITY     dialog.remember.label          "اس سائٹ سے تمام کوکیوں کے لیے میری پسند استعمال کریں">
-<!ENTITY     dialog.remember.accesskey      "U">
+<!ENTITY     dialog.remember.accesskey      "م">

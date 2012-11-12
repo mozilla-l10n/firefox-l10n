@@ -18,16 +18,16 @@
 <!ENTITY cut.label             "کاٹیں">
 <!ENTITY copy.label            "نقل کریں">
 <!ENTITY copyAll.label         "Copy All">
-<!ENTITY copylink.label        "Copy Link Location">
+<!ENTITY copylink.label        "ربط محل وقوع نقل کریں">
 <!ENTITY paste.label           "جوڑیں">
 <!ENTITY pasteAndGo.label      "Paste &amp; Go">
 <!ENTITY delete.label          "Delete">
 <!ENTITY selectAll.label       "Select All">
 <!ENTITY noSuggestions.label   "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY addToDictionary.label "لغت میں اضافہ کریں">
 <!ENTITY inputMethod.label     "Select Input Method">
 
-<!ENTITY allPagesHeader.label      "All Pages">
+<!ENTITY allPagesHeader.label      "تمام صفحات">
 <!ENTITY bookmarksHeader.label     "Bookmarks">
 <!ENTITY historyHeader.label       "سابقات">
 <!ENTITY desktopHeader.label       "ڈیسک ٹاپ">
@@ -38,7 +38,7 @@
 
 <!ENTITY selectHelper.done         "Done">
 
-<!ENTITY addonsHeader.label        "Add-ons">
+<!ENTITY addonsHeader.label        "ایڈ اون">
 <!ENTITY addonsLocal.label         "Your Add-ons">
 <!ENTITY addonsUpdate.label        "تازہ کاری کریں">
 <!ENTITY addonsRepo.label          "ایڈ اون لائیں">
@@ -51,11 +51,11 @@
 <!ENTITY addonEnable.label         "اہل بنائیں">
 <!ENTITY addonDisable.label        "Disable">
 <!ENTITY addonInstall2.label       "Add to &brandShortName;">
-<!ENTITY addonUninstall.label      "Uninstall">
+<!ENTITY addonUninstall.label      "ناتنصیب کریں">
 <!ENTITY addonCancel.label         "Cancel">
 <!ENTITY addonShowPage.label       "Go to Page">
 
-<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadsHeader.label     "ڈاؤن لوڈ">
 <!ENTITY downloadShowPage.label    "Go to Page">
 <!ENTITY downloadShow2.label       "Find">
 <!ENTITY downloadOpen2.label       "کھولیں">
@@ -101,13 +101,13 @@
 <!ENTITY contextCopyLink.label        "Copy Link">
 <!ENTITY contextCopyEmail.label       "Copy Email Address">
 <!ENTITY contextCopyPhone.label       "Copy Phone Number">
-<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
+<!ENTITY contextCopyImageLocation.label       "نقش محل وقوع نقل کریں">
 <!ENTITY contextShareLink.label       "Share Link">
 <!ENTITY contextShareImage.label      "Share Image">
 <!ENTITY contextBookmarkLink.label    "Bookmark Link">
 <!ENTITY contextSaveVideo.label       "وڈیو محفوظ کریں">
 <!ENTITY contextShareVideo.label      "Share Video">
-<!ENTITY contextPlayMedia.label       "Play">
+<!ENTITY contextPlayMedia.label       "پلے">
 <!ENTITY contextPauseMedia.label      "Pause">
 <!ENTITY contextFullScreen.label      "Full Screen">
 <!ENTITY contextEditBookmark.label    "Edit">

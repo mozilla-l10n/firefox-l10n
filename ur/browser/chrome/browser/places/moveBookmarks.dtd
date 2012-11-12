@@ -6,4 +6,4 @@
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "بڑھائیں از:">
 <!ENTITY newFolderButton.label     "نیا پوشہ">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY newFolderButton.accesskey "ن">

@@ -14,7 +14,7 @@
 <!ENTITY  crash_send_report_message "Send Mozilla a crash report">
 <!ENTITY  crash_include_url "Include page address">
 <!ENTITY  crash_close_label "بند کریں">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
+<!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
 <!ENTITY  sending_crash_report "Sending crash report\u2026">
 <!ENTITY  exit_label "خروج">
 <!ENTITY  continue_label "جاری رکھیں">

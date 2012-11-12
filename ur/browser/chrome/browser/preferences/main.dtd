@@ -34,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "ا">
 <!ENTITY alwaysAsk.label "مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے">
 <!ENTITY alwaysAsk.accesskey "ہ">
-
-<!ENTITY addonsMgr.label               "ایڈ اون">
-<!ENTITY manageAddonsDescWin.label     "اپنے ایڈ اون کے لیے اختیار بدلیں">
-<!ENTITY manageAddonsDescUnix2.label   "اپنے ایڈ اون کے لیے ترجیحات بدلیں">
-<!ENTITY manageAddons.label            "ایڈ اون مینج کریں ...">
-<!ENTITY manageAddons.accesskey        "M">

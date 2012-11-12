@@ -6,11 +6,11 @@
 <!ENTITY title.label        "کریکٹر ضابطہ بندی تخصیص کریں">
 <!ENTITY current.label      "زیر عمل کریکٹر ضابطہ بندیاں:">
 <!ENTITY remove.label       "ہٹائیں">
-<!ENTITY remove.accessKey   "R">
+<!ENTITY remove.accessKey   "ہ">
 <!ENTITY additional.label   "دستیاب کریکٹر ضابطہ بندیاں:">
 <!ENTITY add.label          "اضافہ کریں">
-<!ENTITY add.accessKey      "A">
-<!ENTITY moveUp.label       "اوپر لائیں">
-<!ENTITY moveUp.accessKey   "U">
-<!ENTITY moveDown.label     "نیچے لائیں">
-<!ENTITY moveDown.accessKey "D">
+<!ENTITY add.accessKey      "ا">
+<!ENTITY moveUp.label       "اوپر کریں">
+<!ENTITY moveUp.accessKey   "ا">
+<!ENTITY moveDown.label     "نیچے کریں">
+<!ENTITY moveDown.accessKey "ن">

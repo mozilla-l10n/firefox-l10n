@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "پاس ورڈ:"> 
 <!ENTITY checkbox.label   "نشان">
 <!ENTITY copyCmd.label    "نقل کریں">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "ن">
 <!ENTITY selectAllCmd.label "تمام منتخب کریں">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "ت">

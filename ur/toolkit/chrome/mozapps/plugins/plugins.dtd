@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "پلگ ان ڈھونڈ کار خدمت">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; میں خوش آمدید">
 
@@ -33,8 +36,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "پلگ ان کو متحرک کرنے کے لیے ادھر کلک کریں۔">
 <!ENTITY clickToPlayPlugin                                   "پلگ ان کو متحرک کرنے کے لیے ادھر کلک کریں۔">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "زد پزیر پلگ ان کو عمل میں لانے کے لیے یہاں کلک کریں۔">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "زد پزیر پلگ ان کو عمل میں لانے کے لیے یہاں کلک کریں (کوئی تازہ کاری دستیاب نہیں)۔">
 <!ENTITY checkForUpdates                                     "تازہ کاریوں کے لیے پڑتال کریں...">
 <!ENTITY disabledPlugin                                      "یہ پلگ ان نا اہل ہے۔">
 <!ENTITY blockedPlugin.label                                 "یہ پلگ ان آپ کی حفاظت کے لیے بلاک کر دیا گیا ہے۔">

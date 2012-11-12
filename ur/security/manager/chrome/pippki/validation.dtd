@@ -10,11 +10,11 @@
 <!ENTITY  validation.crlautoupdateenabled.label   "خودکار تازہ کاری">
 <!ENTITY  validation.crlautoupdatestatus.label    "خودکار تازہ کاری حالت">
 <!ENTITY  validation.deletecrl.label              "حذف کریں">
-<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY  validation.deletecrl.accesskey          "ح">
 <!ENTITY  validation.updatecrl.label              "تازہ کاری کریں">
-<!ENTITY  validation.updatecrl.accesskey          "U">
+<!ENTITY  validation.updatecrl.accesskey          "ت">
 <!ENTITY  validation.advanced.label               "سیٹنگیں">
-<!ENTITY  validation.advanced.accesskey           "S">
+<!ENTITY  validation.advanced.accesskey           "س">
 
 <!ENTITY  validation.crl.autoupdate.title         "خود کار سی آر ایل تازہ کاری ترجیحات">
 <!ENTITY  validation.crl.autoupdate.enable.label  "اس سی آر ایل کے لیے خودکار تازہ کاری اہل بنائیں">

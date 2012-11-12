@@ -11,7 +11,7 @@
 <!ENTITY organize.tooltip      "اپنی نشانیاں تنظیم کریں">
 
 <!ENTITY file.close.label               "بند کریں">
-<!ENTITY file.close.accesskey           "C">
+<!ENTITY file.close.accesskey           "ب">
 <!ENTITY cmd.close.key                  "ب">
 <!ENTITY views.label                    "نظارے">
 <!ENTITY views.accesskey                "ن">
@@ -21,11 +21,11 @@
 <!ENTITY view.sort.label                "چھانٹیں">
 <!ENTITY view.sort.accesskey            "چ">
 <!ENTITY view.unsorted.label            "ناچھانٹا ہوا">
-<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.unsorted.accesskey        "ن">
 <!ENTITY view.sortAscending.label       "ا > ے چھانٹی ترتیب">
-<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortAscending.accesskey   "ا">
 <!ENTITY view.sortDescending.label      "ے > ا چھانٹی ترتیب">
-<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY view.sortDescending.accesskey  "ے">
 
 <!ENTITY importBookmarksFromHTML.label     "HTML سے نشانیاں درآمد کریں ...">
 <!ENTITY importBookmarksFromHTML.accesskey "د">
@@ -49,7 +49,7 @@
 <!ENTITY cmd.deleteDomainData.accesskey "ب">
 
 <!ENTITY cmd.open.label                  "کھولیں">
-<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open.accesskey              "ک">
 <!ENTITY cmd.open_window.label           "نئے دریچے میں کھولیں">
 <!ENTITY cmd.open_window.accesskey       "ن">
 <!ENTITY cmd.open_tab.label              "نئی ٹیب میں کھولیں">
@@ -58,7 +58,7 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey  "ت">
 
 <!ENTITY cmd.properties.label      "خواص">
-<!ENTITY cmd.properties.accesskey  "i">
+<!ENTITY cmd.properties.accesskey  "خ">
 
 <!ENTITY cmd.sortby_name.label              "چھانٹیں بمطابق نام">
 <!ENTITY cmd.sortby_name.accesskey          "چ">
@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_folder.accesskey          "پ">
 <!ENTITY cmd.context_new_folder.accesskey  "پ">
 <!ENTITY cmd.new_separator.label           "نیا جداکار">
-<!ENTITY cmd.new_separator.accesskey       "S">
+<!ENTITY cmd.new_separator.accesskey       "ج">
 
 <!ENTITY cmd.reloadLivebookmark.label      "لایو نشانی پھر لوڈ کریں">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "پ">
@@ -95,13 +95,13 @@
 <!ENTITY search.scopeFolder.label                  "منتخب پوشہ">
 <!ENTITY search.scopeFolder.accesskey              "پ">
 <!ENTITY search.scopeBookmarks.label               "نشانیاں">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY search.scopeBookmarks.accesskey           "ن">
 <!ENTITY search.scopeDownloads.label               "ڈاونلوڈز">
 <!ENTITY search.scopeDownloads.accesskey           "ڈ">
 <!ENTITY search.scopeHistory.label                 "سابقات">
 <!ENTITY search.scopeHistory.accesskey             "س">
 <!ENTITY saveSearch.label                          "محفوظ کریں">
-<!ENTITY saveSearch.accesskey                      "S">
+<!ENTITY saveSearch.accesskey                      "م">
 
 <!ENTITY cmd.find.key  "ڈ">
 
@@ -127,9 +127,9 @@
 <!ENTITY byDate.accesskey         "ت">
 <!ENTITY bySite.label             "حسبِ سائٹ">
 <!ENTITY bySite.accesskey         "س">
-<!ENTITY byMostVisited.label      "حسبِ زیادہ پیشی">
-<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byMostVisited.label      "برائے زیادہ ملاحظہ کیے گۓ">
+<!ENTITY byMostVisited.accesskey  "م">
 <!ENTITY byLastVisited.label      "حسب آخری بار ملاحظہ کردہ">
-<!ENTITY byLastVisited.accesskey  "آ">
-<!ENTITY byDayAndSite.label       "حسبِ تاریخ اور سائٹ">
-<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY byLastVisited.accesskey  "ب">
+<!ENTITY byDayAndSite.label       "حسب تاریخ اور سائٹ">
+<!ENTITY byDayAndSite.accesskey   "ت">

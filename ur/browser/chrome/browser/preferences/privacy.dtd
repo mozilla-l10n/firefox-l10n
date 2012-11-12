@@ -22,8 +22,8 @@
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">
 
-<!ENTITY  acceptThirdParty.label        "تھرڈ پارٹی کوکی قبول کریں">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.label        "تھرڈ پارٹی کوکیاں قبول کریں">
+<!ENTITY  acceptThirdParty.accesskey    "ق">
 
 <!ENTITY  keepUntil.label               "رکھیں جب تک:">
 <!ENTITY  keepUntil.accesskey           "ر">
@@ -67,8 +67,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "ہمیشہ نجی براوزنگ موڈ استعمال کریں">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ن">
 
-<!ENTITY  rememberHistory2.label      "میری براؤزنگ اور ڈاؤن لوڈ سابقات یاد رکھیں">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "میری براؤزنگ اور ڈاؤن لوڈ سابقاتیاد رکھیں">
+<!ENTITY  rememberHistory2.accesskey  "ی">
 
 <!ENTITY  rememberSearchForm.label       "تلاش اور فارم سابقات یاد رکھیں">
 <!ENTITY  rememberSearchForm.accesskey   "ف">

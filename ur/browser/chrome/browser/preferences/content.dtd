@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  blockPopups.label           "پوپ اپ وینڈوز بلاک کیجیے">
-<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  blockPopups.accesskey       "ب">
 <!ENTITY  popupExceptions.label       "استثنیات ...">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
@@ -26,7 +26,7 @@
 <!ENTITY  defaultFont.label           "طےشدہ فانٹ ...">
 <!ENTITY  defaultFont.accesskey       "ط">
 <!ENTITY  defaultSize.label           "سائز:">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultSize.accesskey       "س">
 
 <!ENTITY  advancedFonts.label         "اعلٰی ...">
 <!ENTITY  advancedFonts.accesskey     "ا">

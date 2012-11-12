@@ -12,7 +12,7 @@
      See UI mockup at bug 480169 -->
 
 <!ENTITY clearTimeDuration.label          "خالی کرنے کے لیے وقت کی رینج: ">
-<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.accesskey      "و">
 <!ENTITY clearTimeDuration.lastHour       "پچھلا گھنٹہ">
 <!ENTITY clearTimeDuration.last2Hours     "پچھلے دو گھنٹے">
 <!ENTITY clearTimeDuration.last4Hours     "پچھلے چار گھنٹے">
@@ -49,7 +49,7 @@ that require it.  -->
 <!ENTITY itemCache.label                   "کیسہ">
 <!ENTITY itemCache.accesskey               "ک">
 <!ENTITY itemOfflineApps.label             "آف لائن ویب سائٹ کوائف">
-<!ENTITY itemOfflineApps.accesskey         "آ">
+<!ENTITY itemOfflineApps.accesskey         "ل">
 <!ENTITY itemDownloadHistory.label         "ڈاؤن لوڈ سابقات">
 <!ENTITY itemDownloadHistory.accesskey     "ڈ">
 <!ENTITY itemActiveLogins.label            "متحرک لاگ ان">

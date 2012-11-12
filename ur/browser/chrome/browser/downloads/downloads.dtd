@@ -20,18 +20,18 @@
 <!ENTITY downloads.width                  "65ch">
 
 <!ENTITY cmd.pause.label                  "توقف کریں">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "ت">
 <!ENTITY cmd.resume.label                 "پھر جاری کریں">
 <!ENTITY cmd.resume.accesskey             "پ">
 <!ENTITY cmd.cancel.label                 "منسوخ کریں">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.cancel.accesskey             "م">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "اس کا پوشہ کھولیں">
-<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.show.label                   "حامل پوشہ کھولیں">
+<!ENTITY cmd.show.accesskey               "پ">
 <!ENTITY cmd.showMac.label                "ڈھونڈ کار میں دکھائیں">
 <!ENTITY cmd.showMac.accesskey            "ڈ">
 <!ENTITY cmd.retry.label                  "پھر کوشش کریں">

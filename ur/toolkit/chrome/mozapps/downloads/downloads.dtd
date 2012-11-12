@@ -14,21 +14,21 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY downloads.title                  "ڈاؤن لوڈ">
 
 <!ENTITY cmd.pause.label                  "توقف کریں">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "ت">
 <!ENTITY cmd.resume.label                 "پھر جاری کریں">
 <!ENTITY cmd.resume.accesskey             "پ">
 <!ENTITY cmd.cancel.label                 "منسوخ کریں">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "اس کا پوشہ کھولیں">
-<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.cancel.accesskey             "م">
+<!ENTITY cmd.show.label                   "حامل پوشہ کھولیں">
+<!ENTITY cmd.show.accesskey               "پ">
 <!ENTITY cmd.showMac.label                "ڈھونڈ کار میں دکھائیں">
 <!ENTITY cmd.showMac.accesskey            "ڈ">
 <!ENTITY cmd.open.label                   "کھولیں">
-<!ENTITY cmd.open.accesskey               "O">
+<!ENTITY cmd.open.accesskey               "ک">
 <!ENTITY cmd.openWith.label               "کھولیں بر...">
 <!ENTITY cmd.openWith.accesskey           "ب">
 <!ENTITY cmd.retry.label                  "پھر کوشش کریں">
-<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.retry.accesskey              "پ">
 <!ENTITY cmd.goToDownloadPage.label       "ڈاؤن لوڈ صفحہ پر جائیں">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ج">
 <!ENTITY cmd.copyDownloadLink.label       "ڈاؤن لوڈ ربط نقل کریں">

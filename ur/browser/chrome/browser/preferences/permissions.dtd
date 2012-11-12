@@ -8,19 +8,19 @@
 <!ENTITY treehead.sitename.label      "سائٹ">
 <!ENTITY treehead.status.label        "حالت">
 <!ENTITY removepermission.label       "سائٹ ہٹائیں">
-<!ENTITY removepermission.accesskey   "R">
+<!ENTITY removepermission.accesskey   "ہ">
 <!ENTITY removeallpermissions.label   "تمام سائٹیں ہٹائیں">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removeallpermissions.accesskey "ہ">
 <!ENTITY address.label                "ویب سائٹ کا پتہ:">
 <!ENTITY address.accesskey            "پ">
 <!ENTITY block.label                  "بلاک کریں">
-<!ENTITY block.accesskey              "B">
+<!ENTITY block.accesskey              "ب">
 <!ENTITY session.label                "سیشن کے لیے اجازت دیں">
-<!ENTITY session.accesskey            "S">
+<!ENTITY session.accesskey            "س">
 <!ENTITY allow.label                  "ہونے دیں">
-<!ENTITY allow.accesskey              "A">
+<!ENTITY allow.accesskey              "ہ">
 <!ENTITY windowClose.key              "د">
 
 <!ENTITY button.close.label           "بند کریں">
-<!ENTITY button.close.accesskey       "C">
+<!ENTITY button.close.accesskey       "ب">
 

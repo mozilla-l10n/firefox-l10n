@@ -8,5 +8,5 @@
 
 <!ENTITY addonAction.enable                     "اہل بنائیں">
 <!ENTITY addonAction.disable                    "Disable">
-<!ENTITY addonAction.uninstall                  "Uninstall">
+<!ENTITY addonAction.uninstall                  "ناتنصیب کریں">
 <!ENTITY addonAction.undo                       "کالعدم کریں">

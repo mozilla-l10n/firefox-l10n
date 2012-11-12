@@ -4,22 +4,22 @@
 <!-- extracted from charsetOverlay.xul -->
 
 <!ENTITY charsetMenu.label             "کریکٹر ضابطہ بندی">
-<!ENTITY charsetMenu.accesskey         "C">
+<!ENTITY charsetMenu.accesskey         "ک">
 <!ENTITY charsetMenuAutodet.label      "خود کھوج">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "خ">
 <!ENTITY charsetMenuMore.label         "مزید ضابطہ بندیاں">
-<!ENTITY charsetMenuMore.accesskey     "m">
+<!ENTITY charsetMenuMore.accesskey     "م">
 <!ENTITY charsetMenuMore1.label        "مغربی یورپی">
-<!ENTITY charsetMenuMore1.accesskey    "w">
+<!ENTITY charsetMenuMore1.accesskey    "م">
 <!ENTITY charsetMenuMore2.label        "مشرقی یورپی">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "مشرقی ایشیائی">
-<!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "جنوب مشرقی و جنوب مغربی ایشیائی">
-<!ENTITY charsetMenuMore4.accesskey    "S">
+<!ENTITY charsetMenuMore3.accesskey    "ا">
+<!ENTITY charsetMenuMore4.label        "جنوب مشرقی &amp; جنوب مغربی ایشیائی">
+<!ENTITY charsetMenuMore4.accesskey    "ج">
 <!ENTITY charsetMenuMore5.label        "وسطی مشرقی">
-<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuMore5.accesskey    "و">
 <!ENTITY charsetMenuUnicode.label      "یونی کوڈ">
-<!ENTITY charsetMenuUnicode.accesskey  "U">
-<!ENTITY charsetCustomize.label        "فہرست تخصیص کریں ...">
-<!ENTITY charsetCustomize.accesskey    "c">
+<!ENTITY charsetMenuUnicode.accesskey  "ی">
+<!ENTITY charsetCustomize.label        "فہرست تخصیص کریں...">
+<!ENTITY charsetCustomize.accesskey    "ت">

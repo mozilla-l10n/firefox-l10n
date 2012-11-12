@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "درآمد مددگار">
 
-<!ENTITY importFrom.label               "Import Options, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromBookmarks.label      "Import Bookmarks from:">
+<!ENTITY importFrom.label               "اختیارات، نشانیاں، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں:">
+<!ENTITY importFromUnix.label           "ترجیحات، نشانیاں، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں:">
+<!ENTITY importFromBookmarks.label      "نشانیاں یہاں سے درآمد کریں:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "Don't import anything">
-<!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromChrome.label         "Chrome">
-<!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromIE.label             "Microsoft انٹرنیٹ ایکسپلورر">
+<!ENTITY importFromIE.accesskey         "ا">
+<!ENTITY importFromNothing.label        "کچھ درآمد نہ کریں">
+<!ENTITY importFromNothing.accesskey    "ن">
+<!ENTITY importFromSafari.label         "سفاری">
+<!ENTITY importFromSafari.accesskey     "س">
+<!ENTITY importFromChrome.label         "کروم">
+<!ENTITY importFromChrome.accesskey     "ک">
+<!ENTITY importFromFirefox.label        "فائر فاکس">
+<!ENTITY importFromFirefox.accesskey    "ف">
 
-<!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
+<!ENTITY noMigrationSources.label       "کوئی بھی نشانیوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔">
 
-<!ENTITY importSource.title             "Import Settings and Data">
-<!ENTITY importItems.title              "Items to Import">
-<!ENTITY importItems.label              "Select which items to import:">
+<!ENTITY importSource.title             "سیٹنگیں اور کوائف درآمد کریں">
+<!ENTITY importItems.title              "درآمد کرنے کی اشیا">
+<!ENTITY importItems.label              "درآمد کرنے کے لیے اشیا منتخب کریں:">
 
-<!ENTITY migrating.title                "Importing…">
-<!ENTITY migrating.label                "The following items are currently being imported…">
+<!ENTITY migrating.title                "درآمد کر رہا ہے...">
+<!ENTITY migrating.label                "مندرجہ ذیل اشیا اس وقت درآمد ہو رہے ہیں...">
 
-<!ENTITY selectProfile.title            "Select Profile">
-<!ENTITY selectProfile.label            "The following profiles are available to import from:">
+<!ENTITY selectProfile.title            "پروفائل منتخب کیجیے">
+<!ENTITY selectProfile.label            "مندرجہ ذیل پروفائل درآمد کے لیے دستیاب ہیں:">
 
-<!ENTITY done.title                     "Import Complete">
-<!ENTITY done.label                     "The following items were successfully imported:">
+<!ENTITY done.title                     "درآمد مکمل">
+<!ENTITY done.label                     "مندرجہ ذیل اشیا کامیابی سے درآمد ہو گئیں:">
 

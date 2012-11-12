@@ -19,10 +19,10 @@
 <!ENTITY certmgr.cas                          "آپ کے پاس مسل پر تصدیق نامے ہیں جو ان تصدیق نامہ مقتدرات کی شناخت کرتے ہیں:">
 <!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
 
-<!ENTITY certmgr.detail.general_tab.title     "General">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Details">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.general_tab.title     "عمومی">
+<!ENTITY certmgr.detail.general_tab.accesskey "ع">
+<!ENTITY certmgr.detail.prettyprint_tab.title "تفصیلات">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "ت">
 
 <!ENTITY certmgr.pending.label                "Currently verifying certificate…">
 <!ENTITY certmgr.subjectinfo.label            "جاری شدہ بنام">
@@ -69,35 +69,35 @@
 <!ENTITY certmgr.serial                       "سیریل نمبر">
 
 <!ENTITY certmgr.close.label                  "بند کریں">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.accesskey              "ب">
 <!ENTITY certmgr.view2.label                  "View…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Edit Trust…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA بھروسا تدوین کریں">
-<!ENTITY certmgr.editca.accesskey             "d">
+<!ENTITY certmgr.editca.accesskey             "ت">
 <!ENTITY certmgr.add.label                    "اضافہ کریں">
-<!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "Export…">
-<!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Delete…">
-<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.add.accesskey                "ا">
+<!ENTITY certmgr.export.label                 "درآمد کریں...">
+<!ENTITY certmgr.export.accesskey             "د">
+<!ENTITY certmgr.delete2.label                "حذف کریں...">
+<!ENTITY certmgr.delete2.accesskey            "ح">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Backup…">
 <!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "Backup All…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Import…">
-<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.backupall2.label             "تمام پشتارہ کریں...">
+<!ENTITY certmgr.backupall2.accesskey         "پ">
+<!ENTITY certmgr.restore2.label               "درآمد کریں...">
+<!ENTITY certmgr.restore2.accesskey           "د">
 <!ENTITY certmgr.details.label                "قطعات تصدیق نامہ">
-<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.details.accesskey            "ق">
 <!ENTITY certmgr.fields.label                 "قطعہ قدر">
-<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.fields.accesskey             "ق">
 <!ENTITY certmgr.hierarchy.label              "تصدیق نامہ درجہ بندی">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "Add Exception…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.hierarchy.accesskey          "ت">
+<!ENTITY certmgr.addException.label           "اکسیپشن اضافہ کریں...">
+<!ENTITY certmgr.addException.accesskey       "ا">
 
 <!ENTITY exceptionMgr.title                   "Add Security Exception">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">

@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "ا">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label       "کمپیوٹر نام:">
-<!ENTITY syncComputerName.accesskey   "ک">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "اس آلے کا ربط توڑیں">
 <!-- Footer stuff -->
 

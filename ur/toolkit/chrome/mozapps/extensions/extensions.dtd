@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "ایڈ اون مینیجر">
 
 <!ENTITY search.placeholder                   "تمام ایڈ اون تلاش کریں">
@@ -90,7 +93,7 @@
 <!ENTITY cmd.installAddon.label               "تنصیب کریں">
 <!ENTITY cmd.installAddon.accesskey           "ت">
 <!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.accesskey         "ہ">
 <!ENTITY cmd.showPreferencesWin.label         "اختیارات">
 <!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">

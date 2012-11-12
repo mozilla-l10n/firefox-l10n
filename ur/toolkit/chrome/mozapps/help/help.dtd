@@ -8,16 +8,16 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Back">
-<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.label               "واپس">
+<!ENTITY backButton.accesskey           "و">
 <!ENTITY backButton.tooltip             "ایک صفحہ واپس جائیں">
-<!ENTITY forwardButton.label            "Forward">
-<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.label            "آگے">
+<!ENTITY forwardButton.accesskey        "گ">
 <!ENTITY forwardButton.tooltip          "ایک صفحہ آگے جائیں">
-<!ENTITY copyCmd.label                  "نقل کریں">
+<!ENTITY copyCmd.label                  "Copy">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "تمام منتخب کریں">
-<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY selectAllCmd.accesskey         "ت">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "گھر">
@@ -29,7 +29,7 @@
 <!ENTITY search.emptytext               "Search">
 <!ENTITY searchHeader.label             "Search results">
 <!ENTITY toctab.label                   "مشمولات">
-<!ENTITY toctab.accesskey               "C">
+<!ENTITY toctab.accesskey               "م">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -48,10 +48,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Always on Top">
-<!ENTITY zLevel.accesskey               "T">
+<!ENTITY zLevel.label                   "ہمیشہ اوپر">
+<!ENTITY zLevel.accesskey               "ا">
 
-<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomReduceBtn.label        "باہر زوم">
+<!ENTITY fullZoomReduceBtn.accesskey    "ب">
+<!ENTITY fullZoomEnlargeBtn.label       "اندر زوم">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "ا">
