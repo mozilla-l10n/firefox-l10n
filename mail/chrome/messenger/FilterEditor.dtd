@@ -37,3 +37,5 @@
 <!ENTITY stopExecution.label "Detener execución de los filtros">
 <!ENTITY addAction.tooltip "Amestar una aición nueva">
 <!ENTITY removeAction.tooltip "Desaniciar esta aición">
+<!ENTITY filterActionTargetFlexValue "4">
+<!ENTITY filterActionTypeFlexValue "1">
