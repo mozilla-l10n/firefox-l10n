@@ -1,0 +1,95 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "ফায়ারফক্স সিঙ্ক">
+<!ENTITY syncBrand.shortName.label "সিঙ্ক">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "syncBrand.shortName.label; এ সংযুক্ত করুন">
+<!ENTITY sync.title.adddevice.label "একটি &syncBrand.fullName.label; একাউন্ট সংযুক্ত করুন">
+<!ENTITY sync.title.pair.label "যন্ত্র যুগলবন্দি করুন">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "নতুন ডিভাইস কার্যকর করতে, ডিভাইসের “syncBrand.shortName.label সেটআপ;” নির্বাচন করুন">
+<!ENTITY sync.subtitle.header2.label "আপনার অন্য ডিভাইসে এই কোড প্রবেশ করান">
+<!ENTITY sync.subtitle.connectlocation2.label "“sync.title.pair.label” নির্বাচন করুন;&syncBrand.shortName.label;;আপনার অন্যান্য ডিভাইসের বিভাগে\\'sফায়ারফক্স অপশন।">
+<!ENTITY sync.subtitle.pair.label "সক্রিয় করার জন্য, আপনার অন্য ডিভাইসটির \&quot;একটি ডিভাইস জোড়া দিন\&quot; নির্বাচন করুন।">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "কিভাবে করা হবে তা আমাকে দেখিয়ে দিন।">
+<!ENTITY sync.link.advancedsetup.label "উন্নত সেটআপ…">
+<!ENTITY sync.link.nodevice.label "আমার কাছে ডিভাইসটি নেই…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "অন্য ডি‌ভাইসের জন্য অপেক্ষা করুন…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "আপনার &syncBrand.fullName.label; একাউন্ট ইনফরমেশন প্রবেশ করান">
+<!ENTITY sync.input.username.label "অ্যাকাউন্টের নাম">
+<!ENTITY sync.input.password.label "পাসওয়ার্ড">
+<!ENTITY sync.input.key.label "পুনরুদ্ধার কী">
+<!ENTITY sync.checkbox.server.label "স্বনির্ধারিত সার্ভার ব্যবহার করুন">
+<!ENTITY sync.input.server.label "সার্ভার ইউআরএল">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; সেটআপ করা যাচ্ছে না">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; সার্ভারে সংযোগ করতে পরেনি। আপনি কি আবার চেষ্টা করতে আগ্রহী?">
+<!ENTITY sync.button.tryagain.label "পুনরায় চেষ্টা">
+<!ENTITY sync.button.manual.label "ম্যানুয়াল সেটআপ">
+<!ENTITY sync.subtitle.nointernet.label "কোনো নেটওয়ার্ক সংযোগ নেই।">
+<!ENTITY sync.subtitle.failaccount.label "আপনার ডিভাইস অ্যাকাউন্ট সৃষ্টিতে ব্যর্থ হয়েছে।">
+<!ENTITY sync.subtitle.failmultiple.label "আপনার কি একাধিক ফায়ারফক্স ইনস্টল করা আছে? সাম্প্রতিক, &syncBrand.fullName.label; শুধুমাত্র একই সময়ে একটি মাত্র ফায়ারফক্স ইনস্টলেশন সমর্থন করে। syncBrand.shortName.label ব্যবহারের জন্য অনুগ্রহ করে অন্যান্য ইনস্ট্যান্স আনইনস্টল করুন;">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "সেটআপ সম্পন্ন">
+<!ENTITY sync.subtitle.success.label1 "আপনার ডাটা এখন পটভূমিতে ডাউনলোড হচ্ছে। আপনার একাউন্টে পরিচালনা করতে আপনি সেটিংস এ যেতে পারেন, অথবা &brandShortName; ব্রাউজ শুরু করতে পারেন।">
+<!ENTITY sync.settings.label "সেটিং">
+<!ENTITY sync.subtitle.manage.label1 "আপনার &syncBrand.fullName.label; অ্যাকাউন্ট (a) ইতিমধ্যেই সেট আপ হয়েছে।আপনি আপনার অ্যাকাউন্ট (a) পরিচালনার জন্য সেটিং এ যেতে পারেন, অথবা &brandShortName; চালু করতে পারেন।">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "অনুগ্রহ করে পুনরায় চেষ্টা করুন।">
+<!ENTITY sync.pair.connectlocation.label "আপনার নতুন ডিভাইস সক্রিয়করণ করতে,ডিভাইসে “Set up syncBrand.shortName.label ”নির্বাচন করুন, এবং \&quot; আমার একটি অ্যাকাউন্ট (a) আছে\&quot;তে নির্বাচন করুন।">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "অপশন">
+<!ENTITY sync.summary.pair.label "আপনার syncBrand.shortName.label এর সাথে অন্য ডিভাইস লিঙ্ক করুন; একাউন্ট">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "বাতিল">
+<!ENTITY sync.button.connect.label "সংযুক্ত করুন">
+<!ENTITY sync.button.ok.label "ঠিক আছে">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "বুকমার্ক মেনু">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "ট্যাগ">
+<!ENTITY bookmarks.folder.toolbar.label "বুকমার্ক টুলবার">
+<!ENTITY bookmarks.folder.unfiled.label "অসংরক্ষিত বুকমার্ক">
+<!ENTITY bookmarks.folder.desktop.label "ডেস্কটপ বুকমার্ক">
+<!ENTITY bookmarks.folder.mobile.label "মোবাইল বুকমার্ক">
+<!ENTITY bookmarks.folder.readinglist.label "পড়ার তালিকা">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "শুধুমাত্র একটি &syncBrand.fullName.label; অ্যাকাউন্ট সমর্থিত।">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "একাউন্ট নাম বা পাসওয়ার্ডে ভুল।">
+<!ENTITY sync.invalidserver.label "অনুগ্রহ করে সার্ভারের কার্যকর URL দিন">
+<!ENTITY sync.verifying.label "পরীক্ষা করা হচ্ছে…">
+<!ENTITY sync.new.recoverykey.status.incorrect "রিকভারী কী ভুল। অনুগ্রহ করে পুনরায় চেষ্টা করুন।">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "ডিভাইসে ট্যাব পাঠান">
+<!ENTITY sync.button.send.label "প্রেরণ করুন">
+<!ENTITY sync.button.set.up.sync.label "syncBrand.shortName.label সেট আপ করুন;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "সেটআপ করুন &syncBrand.shortName.label; ট্যাবে পাঠাতে">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "সেটআপ করুন &syncBrand.fullName.label; আপনার ডিভাইস থেকে অন্যান্য ডিভাইসে ট্যাব পাঠান">
+<!ENTITY sync.text.tab.sent.label "আপনার ট্যাব প্রেরণ করা হয়েছে!">
+<!ENTITY sync.text.tab.not.sent.label "আপনার ট্যাব প্রেরণে একটি সমস্যা হয়েছে।">
