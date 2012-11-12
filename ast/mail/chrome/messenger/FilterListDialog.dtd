@@ -27,3 +27,10 @@
 <!ENTITY helpButton.label "Ayuda">
 <!ENTITY helpButton.accesskey "u">
 <!ENTITY closeCmd.key "W">
+<!ENTITY reorderBottomButton "Mover a la parte inferior">
+<!ENTITY reorderBottomButton.accessKey "o">
+<!ENTITY reorderBottomButton.toolTip "Reordenar filtru pa que s'execute tres tolos demás">
+<!ENTITY reorderTopButton "Mover a la parte superior">
+<!ENTITY reorderTopButton.accessKey "v">
+<!ENTITY reorderTopButton.toolTip "Reordenar filtru para que s'execute enantes de tolos demás">
+<!ENTITY searchBox.emptyText "Guetar filtros por nome…">

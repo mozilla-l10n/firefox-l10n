@@ -91,4 +91,6 @@
 <!ENTITY OpenBrowserWithMsgId.accesskey "A">
 <!ENTITY hdrFollowupButton1.label "Retrucar">
 <!ENTITY hdrFollowupButton1.tooltip "Espublizar una rempuesta a la conversación nesti grupu de noticies">
+<!ENTITY startExpandedCmd.accesskey "b">
+<!ENTITY startExpandedCmd.label "Al abrir, amosar el panel d'axuntos">
 

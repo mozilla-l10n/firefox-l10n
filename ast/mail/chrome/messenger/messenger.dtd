@@ -742,3 +742,12 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY manageTags.label "Alministrar etiquetes…">
 <!ENTITY manageTags.accesskey "m">
+<!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.tooltip "Amuesa'l menú d'aplicaciones">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuNewContactCmd.label "Contautu de la llibreta de direiciones…">
+<!ENTITY appmenuNewMsgCmd.label "Nuevu mensaxe">
+<!ENTITY appmenuQFBMenu.label "Barra de filtráu rápidu">
+<!ENTITY appmenuToolbarLayout.label "Disposición de la barra de ferramientes…">
+<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY clearRecentHistory.label "Llimpiar historial recién…">
