@@ -17,6 +17,8 @@
 
 <!ENTITY spellAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
 <!ENTITY spellAddToDictionary.accesskey "ا">
+<!ENTITY spellUndoAddToDictionary.label "حذف کردن از واژه‌ نامه">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "بررسی املا">
 <!ENTITY spellCheckEnable.accesskey "م">
 <!ENTITY spellNoSuggestions.label "(پیشنهاد املائی موجود نیست)">

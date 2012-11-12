@@ -5,13 +5,3 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
-
-// Use the bidi UI controls
-pref("browser.bidi.ui", true);
-
-// RTL SCROLL
-//pref("mousewheel.horizscroll.withaltkey.numlines", 1);
-//pref("mousewheel.horizscroll.withcontrolkey.numlines", 1);
-//pref("mousewheel.horizscroll.withmetakey.numlines", 1);
-//pref("mousewheel.horizscroll.withnokey.numlines", 1);
-//pref("mousewheel.horizscroll.withshiftkey.numlines", 1);
