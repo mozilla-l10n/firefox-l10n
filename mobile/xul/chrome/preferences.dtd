@@ -9,11 +9,11 @@
 <!ENTITY reflowZoom.title                          "Reformat text on zoom">
 <!ENTITY showImages.title                          "Show images">
 <!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
+<!ENTITY privacy.title                             "Bosephiri bja &amp; Tšhireletšego">
 <!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
+<!ENTITY doNotTrack.title                          "Botša disaete gore di se ke tša ntatelela">
 <!ENTITY masterPassword.title                      "Use master password">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
+<!ENTITY clearPrivateData2.title                   "Tloša tsebišo ya praebete">
 <!ENTITY clearPrivateData.button                   "Clear">
 <!ENTITY rememberPasswords.title                   "Remember passwords">
 <!ENTITY language.title                            "Leleme">

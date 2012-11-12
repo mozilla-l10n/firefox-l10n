@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title                      "Molaodi wa ditlaleletši">
+<!ENTITY aboutAddons.title2                     "Ditlaleletši">
 <!ENTITY aboutAddons.header2                    "Your Add-ons">
 <!ENTITY aboutAddons.options                    "Dikgetho">
 
 <!ENTITY addonAction.enable                     "Kgonagatša">
 <!ENTITY addonAction.disable                    "Šitiša">
 <!ENTITY addonAction.uninstall                  "Ntšha">
-<!ENTITY addonAction.cancel                     "Khansela">
+<!ENTITY addonAction.undo                       "Dirolla">
