@@ -108,7 +108,7 @@
 <!ENTITY certSelection.description       "Żlë serwer żądô certifikatu brëkòwnika:">
 <!ENTITY certs.auto                      "wëbierzë certifikat automatno">
 <!ENTITY certs.auto.accesskey            "a">
-<!ENTITY certs.ask                       "wiedno pitôj">
+<!ENTITY certs.ask                       "wiedno pëtôj">
 <!ENTITY certs.ask.accesskey             "p">
 <!ENTITY viewCerts.label                 "Wëskrzëni certifikatë">
 <!ENTITY viewCerts.accesskey             "W">

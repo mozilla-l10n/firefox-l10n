@@ -377,10 +377,11 @@ can reach it easily. -->
 <!ENTITY reloadFrameCmd.label         "Zladëjë ramã znowa">
 <!ENTITY reloadFrameCmd.accesskey     "Z">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Wëskrzëni zdrój wëbiérkù">
+<!ENTITY viewPartialSourceCmd.accesskey "k">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Wëskrzëni zdrój MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+
 <!ENTITY viewPageSourceCmd.label      "Wëskrzëni zdrój stronë">
 <!ENTITY viewPageSourceCmd.accesskey  "ë">
 <!ENTITY viewFrameSourceCmd.label     "Wëskrzëni zdrój ramë">
