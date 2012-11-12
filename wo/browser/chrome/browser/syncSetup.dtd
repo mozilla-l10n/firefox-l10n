@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Ndax mës nga jëfandikoo &syncBrand.fullName.label; ?">
 <!ENTITY setup.choicePage.new.label       "Mësumoo jëfandikoo &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Maa ngiy jëfandikoo &syncBrand.shortName.label; ci beneen ordi">
+<!ENTITY setup.choicePage.existing2.label "Maa ngiy jëfandikoo &syncBrand.shortName.label; ci beneen aparey">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Serwëër">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Tannéefi synchronisation">
-<!ENTITY syncComputerName.label       "Turu ordinatëër bi:">
-<!ENTITY syncComputerName.accesskey   "T">
+<!ENTITY syncDeviceName.label       "Turu aparey bi :">
+<!ENTITY syncDeviceName.accesskey   "T">
 
 <!ENTITY syncMy.label               "Jàppanteel">
 <!ENTITY engine.bookmarks.label     "Mandarga xët">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Modilu mottali">
 <!ENTITY engine.addons.accesskey    "M">
 
-<!ENTITY choice2.merge.main.label      "Boole rootaani ordinatëër bii ak samay rootaani &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Boole rootaani ordinatëër bii ak samay rootaani &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Digale nañu ko:">
-<!ENTITY choice2.client.main.label     "Wuutal  rootaani ordintëër yépp ak samay rootaan ci &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Wuutal rootaani samay yeneen aparey ak rootaani ordinatëër bile">
+<!ENTITY choice2a.client.main.label      "Wuutal rootaani ordintëër yépp ak samay rootaan ci &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Wuutal rootaani samay yeneen aparey ak rootaani ordinatëër bile">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Dëggal">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; dina boole léegi rootani joowkatu ordinatëër bii ak sa koont Sync.">
-<!ENTITY confirm.client2.label         "Moytul: Rootaan yii yu &brandShortName; dina màbb ci ordinatëër bii:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; dina duppi ginnaaw loolu say rootaani &syncBrand.fullName.label; ci ordinatëër bii.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; dina boole léegi rootani joowkatu ordinatëër bii ak sa koont Sync.">
+<!ENTITY confirm.client3.label         "Moytul: Rootaan yii yu &brandShortName; dina màbb ci ordinatëër bii:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; dina duppi ginnaaw loolu say rootaani &syncBrand.fullName.label; ci ordinatëër bii.">
 <!ENTITY confirm.server2.label         "Moytul: Say rootaani barab dina ñu moxane rootaani aparey yii:">
 <!-- New & Existing Account: Setup Complete -->
 

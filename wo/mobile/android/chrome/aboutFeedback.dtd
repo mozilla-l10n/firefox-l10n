@@ -8,7 +8,7 @@
 
 <!ENTITY pageTitle                 "Yeesalu &brandShortName; ">
 
-<!ENTITY intro.header              "May ma tuuti">
+<!ENTITY intro.header              "May ma tuuti ?">
 <!ENTITY intro.message             "Wax ñu loo xalaat ci &brandShortName; ngir Android.">
 <!ENTITY intro.happyLink           "Sopp naa ko">
 <!ENTITY intro.sadLink             "Dama am ay tolof tolof">
@@ -17,35 +17,35 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "Soo bëggee ndimmal walla nga am tolof tolof ak &brandShortName;, ganejil  ">
-<!ENTITY support.link              "dalub &brandShortName;">
+<!ENTITY support.pre               "Soo bëggee ndimmal walla nga am tolof tolof ak &brandShortName;, ganejil ">
+<!ENTITY support.link              "Ndimbalu &brandShortName;">
 <!ENTITY support.post              ".">
 
 <!ENTITY happy.header              "Lii nees na deg!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "Ndax da nga bëgg seddoo mbëgeel gi te jox ñu 5 biddéew ci powu Google? ">
+<!ENTITY happy.message             "Ndax da nga bëgg seddoo mbëgeel gi te jox ñu 5 biddéew ci powu Google?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
-<!ENTITY happy.finePrint           "It takes less than a minute and feels great.">
+<!ENTITY happy.finePrint           "Du mët simili te di nga yëg feex.">
 
-<!ENTITY happy.ratingLink          "Yes, go to Google Play">
+<!ENTITY happy.ratingLink          "Waaw, ubbi Google Play">
 <!ENTITY happy.maybeLater          "Xëyna ci kanam">
 <!ENTITY happy.noThanks            "Déedéet">
 
-<!ENTITY sad.message               "We're sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
+<!ENTITY sad.message               "Ñu ngiy balu ci li ngeen am ay tolof tolof ak &brandShortName;. Wax leen ñu li am ngir ñu m¨n ko saafara.">
 <!ENTITY sad.placeholder           "Dugal fii sa xalaat">
 <!ENTITY sad.lastSite              "Gane bi mujj (su la neexee)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Thanks for letting us know.">
+<!ENTITY sad.thanksHeader          "Jërajëf ci li ngeen ñu yëgal.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "We're always working to make &brandShortName; better. Rest assured that real people will look at your feedback and do their very best to resolve your issue.">
+<!ENTITY sad.thanksMessageTop      "Ñi ngiy def liggéey bu amul app gëna baaxal &brandShortName;. Na leen wóor ni ay nit daañu jàng seen xibaar te def seen kemtalaayu kattan ngir saafara tolof tolof bi.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
@@ -55,16 +55,16 @@
      tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
      to tell us anything they're thinking about. -->
 
-<!ENTITY idea.message              "We love hearing your ideas! Please share your thoughts below. (Just the ones about &brandShortName;, please.)">
+<!ENTITY idea.message              "Neex nañu di leen deglu ! Joxe lee seen xalaat fii ci suuf. (Xalaat yi jëm ci &brandShortName;, bu la neexe.)">
 <!ENTITY idea.placeholder          "Dugal fii sa xalaat">
 <!ENTITY idea.thanksHeader         "Jërajëf!">
 
-<!ENTITY idea.thanksMessageTop     "We appreciate you taking the time to share your thoughts. We're always working to make &brandShortName; better and contributions like yours can lead to great things.">
+<!ENTITY idea.thanksMessageTop     "Ñi ngiy rafetlu diir bi nga Jël ngir joxe sa xalaat. Ñi ngiy liggéey liggéey bu amul app ngir gën baaxal &brandShortName; ndawtal yu mel na sa bos mën nañu indi lu rëy.">
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
      something physical, which is why they can't see it.-->
 
-<!ENTITY idea.thanksMessageBottom  "You can't see it, but we're giving you a high five right now.">
+<!ENTITY idea.thanksMessageBottom  "Mënuloo ko gis, wante ci jamono jii ñi ngi lay jox loxo ngir gëeram la.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
-<!ENTITY feedback.send             "Send Feedback">
+<!ENTITY feedback.privacy          "Ngir aar sa dundu biir, bul dugal sa xibaari bopp yu ñu mëna xammee ci sa tontu.">
+<!ENTITY feedback.send             "Yonnee tontu">

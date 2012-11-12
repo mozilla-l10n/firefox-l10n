@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Laajal saa su ne">
 <!ENTITY permission.allow                "Maye">
 <!ENTITY permission.allowForSession      "May benn sesiyoŋ">
+<!ENTITY permission.allowFirstPartyOnly  "Diwaan bi gêna am solo rekk">
 <!ENTITY permission.block                "Boloke">
 
 <!ENTITY password.label                  "Aar baati jàll yi">

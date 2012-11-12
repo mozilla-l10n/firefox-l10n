@@ -15,8 +15,8 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Boo bëggee sajj sa apaarey bu bees, falal « Tabb &syncBrand.shortName.label;» ci aparey bi.">
-<!ENTITY sync.subtitle.header.label "Dugalal suulaale bi ci sa ordinatëër">
-<!ENTITY sync.subtitle.connectlocation.label "Falal « &sync.title.pair.label; » ci biir &syncBrand.shortName.label; ay tànneefi Firefox ci sa ordinatëër.">
+<!ENTITY sync.subtitle.header2.label "Dugal kod bii ci sa aparey">
+<!ENTITY sync.subtitle.connectlocation2.label "Falal « &sync.title.pair.label; » ci biir &syncBrand.shortName.label; ay tànneefi Firefox ci sa ordinatëër.">
 <!ENTITY sync.subtitle.pair.label "Boo bëggee sajj, falal « boole ci benn apaarey » ci sa beneen apaarey.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">

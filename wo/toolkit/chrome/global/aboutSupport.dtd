@@ -58,4 +58,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Jaar jaaru samp">
 <!ENTITY aboutSupport.updateHistoryTitle "Yeesal jaar jaar bi">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Duppi ci dencandikaayu kayit yi">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Duppi ci dencandikaayu kayit yi">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Duppi xibaar ci dencandikkaayu kayit yi">

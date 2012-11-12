@@ -31,6 +31,11 @@
 
 <!ENTITY saveBodies.label     "Aar këmbu laaj yi ak tontu yi">
 <!ENTITY saveBodies.accesskey "l">
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+
+<!ENTITY openURL.label     "Ubbi URL bi ci koñ bu bees">
+<!ENTITY openURL.accesskey "k">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -89,3 +94,6 @@
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY copyURLCmd.label     "Duppi màkkaanu buum bi">
+<!ENTITY copyURLCmd.accesskey "m">

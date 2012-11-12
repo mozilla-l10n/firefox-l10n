@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "M">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label       "Turu ordinatëër bi:">
-<!ENTITY syncComputerName.accesskey   "T">
+<!ENTITY syncDeviceName.label       "Turu aparey bi:">
+<!ENTITY syncDeviceName.accesskey   "a">
 <!ENTITY unlinkDevice.label           "Bul jokkoo apaarey bii">
 <!-- Footer stuff -->
 

@@ -34,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "T">
 <!ENTITY alwaysAsk.label "Laaj saa su ne fan la ñuy aar dencukaay yi">
 <!ENTITY alwaysAsk.accesskey "L">
-
-<!ENTITY addonsMgr.label               "Modili mottali yi">
-<!ENTITY manageAddonsDescWin.label     "Soppi tànneef yi ngir say modil">
-<!ENTITY manageAddonsDescUnix2.label   "Soppi taamu yi ngir say modil">
-<!ENTITY manageAddons.label            "Saytu modili mottali…">
-<!ENTITY manageAddons.accesskey        "S">
