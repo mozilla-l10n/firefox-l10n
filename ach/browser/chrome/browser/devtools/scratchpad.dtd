@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Yab Ma okati kombedi">
 <!ENTITY openRecentMenu.accesskey     "M">
 
+<!ENTITY revertCmd.label              "Wir...">
+<!ENTITY revertCmd.accesskey          "r">
+
 <!ENTITY saveFileCmd.label            "Gwok">
 <!ENTITY saveFileCmd.accesskey        "G">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -101,6 +104,10 @@
 
 <!ENTITY resetContext2.label          "Ter odoco Alama">
 <!ENTITY resetContext2.accesskey      "r">
+
+<!ENTITY reloadAndRun.label           "Ket odoco Ki Mi ti">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Tii">
 <!ENTITY executeMenu.accesskey        "i">

@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "L">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label       "Nying kompiuta:">
-<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY syncDeviceName.label       "Nying Jamitic:">
+<!ENTITY syncDeviceName.accesskey   "t">
 <!ENTITY unlinkDevice.label           "Pe i Kub Jami man">
 <!-- Footer stuff -->
 

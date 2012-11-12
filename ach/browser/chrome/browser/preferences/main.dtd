@@ -20,7 +20,7 @@
 <!ENTITY restoreDefault.label      "Dwok wa ikit macon">
 <!ENTITY restoreDefault.accesskey  "D">
 
-<!ENTITY downloads.label     "Kwanyo">
+<!ENTITY downloads.label     "Kigolo woko">
 
 <!ENTITY showWhenDownloading.label     "Nyut pot buk me kwanyo ka itye kakwanyo buk">
 <!ENTITY showWhenDownloading.accesskey "b">
@@ -34,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "r">
 <!ENTITY alwaysAsk.label "Jwii penya ka gwoko buk">
 <!ENTITY alwaysAsk.accesskey "J">
-
-<!ENTITY addonsMgr.label               "Lamed">
-<!ENTITY manageAddonsDescWin.label     "Lok kite pa lamed meri">
-<!ENTITY manageAddonsDescUnix2.label   "Lok kite pa lamed meri">
-<!ENTITY manageAddons.label            "Yik lamed…">
-<!ENTITY manageAddons.accesskey        "Y">
