@@ -470,3 +470,12 @@
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY socialToolbar.title "Botón de la barra de ferramientes social">
 <!ENTITY social.notLoggedIn.label "Sesión non aniciada">
+<!ENTITY devToolbarOtherToolsButton.label "Más ferramientes">
+<!ENTITY social.activated.undobutton.accesskey "f">
+<!ENTITY social.activated.undobutton.label "Desfacer">
+<!ENTITY social.ok.accesskey "A">
+<!ENTITY social.ok.label "Aceutar">
+<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "Amosar notificaciones d'escritoriu">
+<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.label "Amosar barra llateral">
