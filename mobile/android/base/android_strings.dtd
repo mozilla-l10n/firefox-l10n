@@ -81,7 +81,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
 <!ENTITY pref_plugins_disabled "Desactivat">
 <!ENTITY pref_text_size "Talha del tèxte">
-<!ENTITY pref_reflow_on_zoom "Adaptar en zoomant">
 <!ENTITY pref_font_size_tiny "Fòrça pichona">
 <!ENTITY pref_font_size_small "Pichona">
 <!ENTITY pref_font_size_medium "Mejana">
@@ -190,13 +189,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Parametrar Firefox Sync per accedir als marcapaginas, a l\'istoric e als onglets de vòstres autres aparelhs&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Obténer d\'aplicacions sul Mozilla Marketplace e descobrir lo melhor de çò que le Web a d\'ofrir&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Obténer d\'aplicacions sul Mozilla Marketplace e descobrir lo melhor de çò que le Web a d\'ofrir&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Causir un fichièr">
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
@@ -238,15 +237,15 @@ dempuèi Android">
 <!ENTITY webapp_generic_name "App">
 
 <!ENTITY searchable_description "Marcapaginas e istoric">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
 
-<!ENTITY updater_start_title "Mesa a jorn disponibla per &brandShortName;">
-<!ENTITY updater_start_select "Tocar per telecargar">
-
-<!ENTITY updater_downloading_title "Telecargament de &brandShortName;">
-<!ENTITY updater_downloading_title_failed "Lo telecargament a fracassat">
-<!ENTITY updater_downloading_select "Tocar per aplicar la mesa a jorn un còp telecargada">
-<!ENTITY updater_downloading_retry "Tocar per tornar ensajar">
-
-<!ENTITY updater_apply_title "Mesa a jorn disponibla per &brandShortName;">
-<!ENTITY updater_apply_select "Tocar per metre a jorn">
+<!ENTITY updater_start_title2 "Mesa a jorn disponibla per &brandShortName;">
+<!ENTITY updater_start_select2 "Tocar per telecargar">
+ 
+<!ENTITY updater_downloading_title2 "Telecargament de &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Lo telecargament a fracassat">
+<!ENTITY updater_downloading_select2 "Tocar per aplicar la mesa a jorn un còp telecargada">
+<!ENTITY updater_downloading_retry2 "Tocar per tornar ensajar">
+ 
+<!ENTITY updater_apply_title2 "Mesa a jorn disponibla per &brandShortName;">
+<!ENTITY updater_apply_select2 "Tocar per metre a jorn">
