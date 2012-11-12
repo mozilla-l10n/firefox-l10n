@@ -13,58 +13,32 @@
 
 
 
-<!ENTITY debuggerMenu.label2          "Dadfygiwr">
+<!ENTITY debuggerMenu.label2            "Dadfygiwr">
+<!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
+  -  Tools meny entry of Debugger that opens the debugger UI. -->
+
+<!ENTITY debuggerMenu.accesskey         "D">
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 
-<!ENTITY remoteDebuggerMenu.label    "Dadfygiwr Pell">
+<!ENTITY remoteDebuggerMenu.label       "Dadfygiwr Pell">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
 
-<!ENTITY chromeDebuggerMenu.label    "Dadfygiwr Porwr">
+<!ENTITY chromeDebuggerMenu.label       "Dadfygiwr Porwr">
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
 
-<!ENTITY debuggerMenu.commandkey     "S">
+<!ENTITY debuggerMenu.commandkey        "S">
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
 
-<!ENTITY debuggerUI.closeButton.tooltip        "Cau">
+<!ENTITY debuggerUI.closeButton.tooltip "Cau">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions          "Oedi ar eithriadau">
-<!-- LOCALIZATION NOTE (debuggerUI.stepOverButton.tooltip): This is the tooltip for
-  -  the button that steps over a function call. -->
+<!ENTITY debuggerUI.pauseExceptions     "Oedi ar eithriadau">
+<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
+  -  appears in the filter panel popup as a description. -->
 
-<!ENTITY debuggerUI.stepOverButton.tooltip   "Camu Dros">
-<!-- LOCALIZATION NOTE (debuggerUI.stepInButton): This is the tooltip for the
-  -  button that steps into a function call. -->
-
-<!ENTITY debuggerUI.stepInButton.tooltip     "Camu i fewn">
-<!-- LOCALIZATION NOTE (debuggerUI.stepOutButton): This is the tooltip for the
-  -  button that steps out of a function call. -->
-
-<!ENTITY debuggerUI.stepOutButton.tooltip    "Camu Allan">
-<!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
-  -  widget that displays the call stack frames in the debugger. -->
-
-<!ENTITY debuggerUI.stackTitle       "Stac galw">
-<!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
-  -  widget that displays the source code for the script that is currently
-  -  being inspected in the debugger. -->
-
-<!ENTITY debuggerUI.scriptTitle      "Sgript">
-<!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
-  -  widget that displays the variables in the various available scopes in the
-  -  debugger. -->
-
-<!ENTITY debuggerUI.propertiesTitle  "Amrywiolion sgôp">
-<!-- LOCALIZATION NOTE (debuggerUI.emptyFilterText): This is the text that
-  -  appears in the filter text box when it is empty. -->
-
-<!ENTITY debuggerUI.emptyFilterText  "Sgriptiau'r hidl">
-<!-- LOCALIZATION NOTE (emptyScriptText): The text to display in the menulist when
-  - there are no scripts. -->
-
-<!ENTITY debuggerUI.emptyScriptText  "Dim sgriptiau">
+<!ENTITY debuggerUI.searchPanelTitle    "Gweithredwyr">

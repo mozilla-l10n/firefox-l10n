@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Ydych chi wedi defnyddio &syncBrand.fullName.label; o'r blaen?">
 <!ENTITY setup.choicePage.new.label       "Nid wyf wedi defnyddio &syncBrand.shortName.label; o'r blaen">
-<!ENTITY setup.choicePage.existing.label  "Rwyf eisoes yn defnyddio &syncBrand.shortName.label; ar gyfrifiadur arall">
+<!ENTITY setup.choicePage.existing2.label "Rwyf eisoes yn defnyddio &syncBrand.shortName.label; ar ddyfais arall">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Gweinydd">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Dewisiadau Cydweddu">
-<!ENTITY syncComputerName.label       "Enw'r Cyfrifiadur:">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncDeviceName.label       "Enw Dyfais:">
+<!ENTITY syncDeviceName.accesskey   "D">
 
 <!ENTITY syncMy.label               "Cydweddu">
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Ychwanegion">
 <!ENTITY engine.addons.accesskey    "Y">
 
-<!ENTITY choice2.merge.main.label      "Cydweddu data'r cyfrifiadur yma gyda data &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Cydweddu data'r ddyfais yma gyda data &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Cymeradwy:">
-<!ENTITY choice2.client.main.label     "Amnewid holl ddata'r cyfrifiadur yma gyda data &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Amnewid pob dyfais arall gyda data'r cyfrifadur yma">
+<!ENTITY choice2a.client.main.label      "Amnewid holl ddata'r ddyfais yma gyda data &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Amnewid pob dyfais arall gyda data'r ddyfais yma">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Cadarnhau">
-<!ENTITY confirm.merge.label    "Bydd &syncBrand.fullName.label; yn cydweddu holl ddata porwr y cyfrifiadur hwn gyda'ch cyfrif Sync.">
-<!ENTITY confirm.client2.label         "Rhybudd: Bydd y data &brandShortName; canlynol sydd ar y cyfrifiadur yn cael ei ddileu:">
-<!ENTITY confirm.client.moreinfo.label "Bydd &brandShortName; yn copïo data &syncBrand.fullName.label; i'r cyfrifiadur yma.">
+<!ENTITY confirm.merge2.label    "Bydd &syncBrand.fullName.label; yn cydweddu holl ddata porwr y ddyfais hon gyda'ch cyfrif Sync.">
+<!ENTITY confirm.client3.label         "Rhybudd: Bydd y data &brandShortName; canlynol sydd ar y ddyfais  yn cael ei ddileu:">
+<!ENTITY confirm.client2.moreinfo.label "Bydd &brandShortName; yn copïo data &syncBrand.fullName.label; i'r ddyfais yma.">
 <!ENTITY confirm.server2.label         "Rhybudd: Bydd y dyfeisiau canlynol yn cael eu trosysgrifennu gan eich data lleol:">
 <!-- New & Existing Account: Setup Complete -->
 
