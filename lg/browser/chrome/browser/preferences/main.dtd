@@ -34,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "a">
 <!ENTITY alwaysAsk.label "Bulijjo mbuzanga ewokutereka fayiro">
 <!ENTITY alwaysAsk.accesskey "B">
-
-<!ENTITY addonsMgr.label               "Ebigattibwako">
-<!ENTITY manageAddonsDescWin.label     "Kyuusa ebyokweroboza eby'ebigattibwako">
-<!ENTITY manageAddonsDescUnix2.label   "Kyuusa okweroboza eby'ebigattibwako byo">
-<!ENTITY manageAddons.label            "Ddukanya Ebyongerwako…">
-<!ENTITY manageAddons.accesskey        "D">

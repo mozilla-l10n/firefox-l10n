@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Walyo kozesezako &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Sikozesangako &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Natandika da okukozesa &syncBrand.shortName.label; ku kompyuta endala">
+<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Kompyuta efuga zinazo">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Ebyokulondako mu Kutuusa">
-<!ENTITY syncComputerName.label       "Elinnya lya Kompuuta:">
-<!ENTITY syncComputerName.accesskey   "E">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Kwanaganya">
 <!ENTITY engine.bookmarks.label     "Obulambe">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Ebigattibwako">
 <!ENTITY engine.addons.accesskey    "E">
 
-<!ENTITY choice2.merge.main.label      "Gatta ebiri mu kompyuta eno ne ebiri mu &syncBrand.shortName.label; yange">
+<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Ekisembebwa:">
-<!ENTITY choice2.client.main.label     "Awali data ku kompyuta eno, mujjewo otekewo data ali ku &syncBrand.shortName.label; yange">
-<!ENTITY choice2.server.main.label     "Kyusa ebirala byoona mu byuma ebisigade ne'ebiri ku kompyuta eno">
+<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Kakasa">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; kati ejja kugata data yena ali mu kanonyesa ka kompyuta eno ne'ebiri mu akaunta yo Etuusa.">
-<!ENTITY confirm.client2.label         "Okuwabulwa: Ono data owa &brandShortName; ali mu kompyuta eno ajja kusangulwa:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; ejja ku kkopa data ali ku &syncBrand.fullName.label; yo amuteke ku kompyuta eno.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
 <!ENTITY confirm.server2.label         "Okuwabulwa: Ebiri mu byuma bino bijja ku sangulwa wadewo ebiri mu kompyuta:">
 <!-- New & Existing Account: Setup Complete -->
 

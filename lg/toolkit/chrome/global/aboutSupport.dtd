@@ -58,4 +58,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Ebifudeyo mu Kutekamu">
 <!ENTITY aboutSupport.updateHistoryTitle "Ebyayita Ebijja">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Koppa byoona obiteke mu terekero lye'byokusiga">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">

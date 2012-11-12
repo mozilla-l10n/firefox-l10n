@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "E">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label       "Elinnya lya Kompuuta:">
-<!ENTITY syncComputerName.accesskey   "E">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "Jja Enkwaso Kukuma Kano">
 <!-- Footer stuff -->
 

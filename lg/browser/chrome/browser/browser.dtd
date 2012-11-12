@@ -22,16 +22,16 @@
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  closeOtherTabs.label               "Ggalawo Awaddirira Awalala">
 <!ENTITY  closeOtherTabs.accesskey           "A">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Kitwale ng'ekibembekeddwako">
-<!ENTITY  pinAppTab.accesskey                "K">
-<!ENTITY  unpinAppTab.label                  "Taggululako Tabu">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Taggululako Tabu">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Teeka mu Kibinja">
 <!ENTITY  moveToGroup.accesskey              "T">
 <!ENTITY  moveToNewGroup.label               "Kibinja kippya">
@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Lambula">
-<!ENTITY inspectMenu.accesskey        "a">
+<!ENTITY inspectMenu.accesskey        "L">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Wetegereze Ekintu">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Galawo Omukebezi">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Galawo Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.label              "Akabawo ka Abazimbi">
@@ -242,9 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Ekikozesebwa Ebirala">
-
-<!ENTITY webConsoleButton.label "Konsolo yo'Omutimbagano">
-<!ENTITY inspectorButton.label "Omukebeezi">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Koppa Inner HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -449,8 +447,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Ttereka Eddobozzi Nga…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY emailImageCmd.label          "Wereza Ekifaanyi mu emeyilo…">
-<!ENTITY emailImageCmd.accesskey      "r">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Wereza Olutambi mu emeyilo…">
 <!ENTITY emailVideoCmd.accesskey      "z">
 <!ENTITY emailAudioCmd.label          "Wereza eddobozi mu emeyilo…">
@@ -534,7 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Ggulawo enziririro empya">
 <!ENTITY newWindowButton.tooltip        "Ggulawo eddirisa eppya">
-<!ENTITY sidebarCloseButton.tooltip     "Ggalawo akabaawo k'omumabali">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "Sala">
 <!ENTITY copyButton.tooltip             "Koppa">
@@ -621,9 +619,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Amapeesa aganonya">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "Amapeesa okuva ku komputa endala">
+<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
 
 <!ENTITY syncBrand.shortName.label    "Kwanaganya">
 

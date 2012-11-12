@@ -15,8 +15,8 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Okutandika ekyuma ekipya, londa “Tegeka &syncBrand.shortName.label;” ku kyuma.">
-<!ENTITY sync.subtitle.header.label "Yingiza kodi eno mu kumpyuta yo">
-<!ENTITY sync.subtitle.connectlocation.label "Londa “&sync.title.pair.label;” mu kitundu kya &syncBrand.shortName.label; ekye bilondebwako by Firefox.">
+<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "Okutandika, londa “Yunga a ekyuma” ku kyuma kyo ekirala.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
