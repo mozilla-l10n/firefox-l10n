@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printSetup.title    "Сирэй туруоруулара">
+
+<!ENTITY basic.tab           "Формаата уонна опциялара">
+
+<!ENTITY formatGroup.label   "Формаат">
+
+<!ENTITY orientation.label   "Ориентацията:">
+<!ENTITY portrait.label      "Туруору">
+<!ENTITY portrait.accesskey  "Т">
+<!ENTITY landscape.label     "Сытыары">
+<!ENTITY landscape.accesskey "С">
+
+<!ENTITY scale.label         "Масштаб:">
+<!ENTITY scale.accesskey     "ш">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Сирэй кэтитинэн">
+<!ENTITY shrinkToFit.accesskey "к">
+
+<!ENTITY optionsGroup.label  "Опциялара">
+
+<!ENTITY printBG.label       "Фонун бэчээттээ (өҥүн уонна ойуутун)">
+<!ENTITY printBG.accesskey   "б">
+
+<!ENTITY advanced.tab        "Лиис кытыыта уонна колонтитуллара">
+
+<!ENTITY marginGroup.label   "Кырыылара (#1)">
+<!ENTITY marginUnits.inches  "дюйм">
+<!ENTITY marginUnits.metric  "миллимиэтир">
+<!ENTITY marginTop.label     "Үөһэттэн:">
+<!ENTITY marginTop.accesskey "Ү">
+<!ENTITY marginBottom.label  "Аллараттан:">
+<!ENTITY marginBottom.accesskey "А">
+<!ENTITY marginLeft.label    "Хаҥастан:">
+<!ENTITY marginLeft.accesskey "Х">
+<!ENTITY marginRight.label   "Уҥаттан:">
+<!ENTITY marginRight.accesskey "У">
+
+<!ENTITY headerFooter.label  "Колонтитуллар">
+
+<!ENTITY hfLeft.label        "Хаҥастан:">
+<!ENTITY hfCenter.label      "Ортотунан:">
+<!ENTITY hfRight.label       "Уҥаттан:">
+<!ENTITY headerLeft.tip      "Үөһээ колонтитул (хаҥас өттө)">
+<!ENTITY headerCenter.tip    "Үөһээ колонтитул (ортото)">
+<!ENTITY headerRight.tip     "Үөһээ колонтитул (уҥа өттө)">
+<!ENTITY footerLeft.tip      "Аллараа колонтитул (хаҥас өттө)">
+<!ENTITY footerCenter.tip    "Аллараа колонтитул (ортото)">
+<!ENTITY footerRight.tip     "Аллараа колонтитул (уҥа өттө)">
+
+<!ENTITY hfTitle             "Сирэй баһа">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Дьыла-күнэ/Кэмэ">
+<!ENTITY hfPage              "Сирэй нүөмэрэ">
+<!ENTITY hfPageAndTotal      "#, # сирэйтэн">
+<!ENTITY hfBlank             "--кураанах--">
+<!ENTITY hfCustom            "Уларыт...">
+
+<!ENTITY customPrompt.title  "Уларытыы...">
+<!ENTITY customPrompt.prompt "Колонтитулга тугу суруйуоххун баҕараргын суруй">

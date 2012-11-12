@@ -1,0 +1,123 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "Сүрүн">
+
+<!ENTITY accessibility.label             "Эбии кыахтар">
+
+<!ENTITY useCursorNavigation.label       "Курсор клавишаларын сирэйдэри көрөргө куруук туттарга">
+<!ENTITY useCursorNavigation.accesskey   "к">
+<!ENTITY searchStartTyping.label         "Тиэкиһи киллэрэ турдахха көрдөөн киирэн бар">
+<!ENTITY searchStartTyping.accesskey     " ">
+<!ENTITY blockAutoRefresh.label          "Ситим-сирдэр атын сиргэ ыытаары эбэтэр хос хачайданаары гыннахтарына сэрэтээр">
+<!ENTITY blockAutoRefresh.accesskey      "-">
+
+<!ENTITY browsing.label                  "Көрүү">
+
+<!ENTITY useAutoScroll.label             "Аптамаатынан прокрутканы туһан">
+<!ENTITY useAutoScroll.accesskey         "п">
+<!ENTITY useSmoothScrolling.label        "Сүрүн прокрутканы туһан">
+<!ENTITY useSmoothScrolling.accesskey    "п">
+<!ENTITY allowHWAccel.label              "Кыаллар буоллаҕына аппараат түргэтиини туһан">
+<!ENTITY allowHWAccel.accesskey          "п">
+<!ENTITY checkSpelling.label             "Таба суруйуутун суруйа олордохпуна тургут">
+<!ENTITY checkSpelling.accesskey         "т">
+
+<!ENTITY systemDefaults.label            "Тиһик туруоруулара">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "&brandShortName; сүрүн браузер буоларын холбуурга куруук тургут">
+<!ENTITY alwaysCheckDefault.accesskey    "р">
+<!ENTITY setDefault.label                "&brandShortName; браузеры куруук холбонор оҥор">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "Билигин куруук холбонор браузер - &brandShortName;">
+<!ENTITY submitCrashes.label             "Алдьаныы туһунан суруктары ыытарга">
+<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Хайдах үлэлиирин туһунан суруктары ыытарга">
+<!ENTITY submitTelemetry.accesskey       " ">
+
+<!ENTITY networkTab.label                "Ситим">
+
+<!ENTITY connection.label                "Холбонуу">
+
+<!ENTITY connectionDesc.label            "&brandShortName; интэриниэккэ кииритин туруоруулара">
+<!ENTITY connectionSettings.label        "Туруоруулар...">
+<!ENTITY connectionSettings.accesskey    "р">
+
+<!ENTITY httpCache.label                 "Кээстэммит ситим-контент">
+
+<!ENTITY offlineStorage2.label           "Холбоммокко көстөр ситим-контент уонна тус дааннайдар">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Кээш лимиитэ">
+<!ENTITY limitCacheSizeBefore.accesskey  "К">
+<!ENTITY limitCacheSizeAfter.label       "МБ диискэҕэ">
+<!ENTITY clearCacheNow.label             "Билигин сот">
+<!ENTITY clearCacheNow.accesskey         "и">
+<!ENTITY clearOfflineAppCacheNow.label   "Билигин сот">
+<!ENTITY clearOfflineAppCacheNow.accesskey "о">
+<!ENTITY overrideSmartCacheSize.label    "Кээһи аптамаатынан салайыыны араар">
+<!ENTITY overrideSmartCacheSize.accesskey "а">
+
+<!ENTITY updateTab.label                 "Саҥардыылар">
+
+<!ENTITY updateApp.label                 "&brandShortName; саҥардыылара:">
+<!ENTITY updateAuto.label                "Саҥардыылары аптамаатынан туруорар буол (сүбэ: бу куттал суох буолуутугар туһалыыр)">
+<!ENTITY updateAuto.accesskey            "т">
+<!ENTITY updateCheck.label               "Саҥардыылар баалларын көрөр буол, ол гынан баран туруорары миигиттэн ыйыт">
+<!ENTITY updateCheck.accesskey           "ҥ">
+<!ENTITY updateManual.label              "Саҥардыылар баалларын көрбөт буол (сүбэ: бу кутталы улаатыннарар)">
+<!ENTITY updateManual.accesskey          "ҥ">
+
+<!ENTITY updateAutoAddonWarn.label       "Ханнык эмит эбиискэлэр араҕыстахтарына биллэрээр">
+<!ENTITY updateAutoAddonWarn.accesskey   "к">
+
+<!ENTITY updateHistory.label             "Саҥардыы сурунаалын көрдөр">
+<!ENTITY updateHistory.accesskey         "р">
+
+<!ENTITY useService.label                "Саҥардыылары туруорарга фон сулууспаны туһан">
+<!ENTITY useService.accesskey            "ф">
+
+<!ENTITY updateOthers.label              "Аптамаатынан саҥарт:">
+<!ENTITY enableSearchUpdate.label        "Көрдүүр систиэмэлэр плагииннара">
+<!ENTITY enableSearchUpdate.accesskey    "п">
+
+<!ENTITY offlineNotify.label             "Ситим-сир холбоммокко үлэлииргэ анаан хачайданаары гыннаҕына биллэрээр">
+<!ENTITY offlineNotify.accesskey         "-">
+<!ENTITY offlineNotifyExceptions.label   "Туорааһыннар...">
+<!ENTITY offlineNotifyExceptions.accesskey ".">
+
+<!ENTITY offlineAppsList2.label          "Бу ситим-сирдэр холбоммокко үлэлииргэ анаан хачайданыахтарын сөп:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Сот…">
+<!ENTITY offlineAppsListRemove.accesskey "о">
+<!ENTITY offlineAppRemove.confirm        "Хачайдаммыт ситим-сирдэри сот">
+
+<!ENTITY encryptionTab.label             "Шифрдээһин">
+
+<!ENTITY protocols.label                 "Боротокуоллар">
+<!ENTITY useSSL3.label                   "SSL 3.0 тутун">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 тутун">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Сэртипикээттэр">
+<!ENTITY certSelection.description       "Сиэрбэр тус сэртипикээти көрдөөтөҕүнэ:">
+<!ENTITY certs.auto                      "Аптамаатынан ыыт">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Сырыы аайы ыйыт">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Сэртипикээттэрин көрүү">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "CRL салайыы">
+<!ENTITY viewCRLs.accesskey              "C">
+<!ENTITY verify2.label                   "Бигэргэтии">
+<!ENTITY verify2.accesskey               "Б">
+<!ENTITY viewSecurityDevices.label       "Көмүскэл тэриллэрэ">
+<!ENTITY viewSecurityDevices.accesskey   " ">

@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE (indicator.tooltiptext):
+     Tooltip for the indicator that displays the progress of ongoing downloads.
+     -->
+
+<!ENTITY indicator.tooltiptext            "Хачайдааһыннар">
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+
+<!ENTITY downloads.title                  "Хачайдааһыннар">
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel list items, expressed using a CSS unit.  The
+     longest labels that should fit in the item width are usually those of
+     in-progress downloads and those of blocked downloads.
+     -->
+
+<!ENTITY downloads.width                  "65ch">
+
+<!ENTITY cmd.pause.label                  "Тохтото түс">
+<!ENTITY cmd.pause.accesskey              "т">
+<!ENTITY cmd.resume.label                 "Хаттаан">
+<!ENTITY cmd.resume.accesskey             "Х">
+<!ENTITY cmd.cancel.label                 "Салҕаама">
+<!ENTITY cmd.cancel.accesskey             "С">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Билэлээх паапканы арый">
+<!ENTITY cmd.show.accesskey               "л">
+<!ENTITY cmd.showMac.label                "Finder-гэ көрдөр">
+<!ENTITY cmd.showMac.accesskey            "к">
+<!ENTITY cmd.retry.label                  "Хатылаа">
+<!ENTITY cmd.goToDownloadPage.label       "Хачайдааһын сирэйигэр көһүү">
+<!ENTITY cmd.goToDownloadPage.accesskey   "Х">
+<!ENTITY cmd.copyDownloadLink.label       "Хачайдааһын сигэтин төгүллээ">
+<!ENTITY cmd.copyDownloadLink.accesskey   "с">
+<!ENTITY cmd.removeFromList.label         "Тиһиктэн таһаар">
+<!ENTITY cmd.removeFromList.accesskey     "а">
+<!ENTITY cmd.clearList.label              "Тиһиги ыраастаа ">
+<!ENTITY cmd.clearList.accesskey          "р">
+

@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Туорааһыннар">
+<!ENTITY window.width                 "36em">
+
+<!ENTITY treehead.sitename.label      "Ситим-сир">
+<!ENTITY treehead.status.label        "Стаатуһа">
+<!ENTITY removepermission.label       "Сири сот">
+<!ENTITY removepermission.accesskey   "С">
+<!ENTITY removeallpermissions.label   "Сирдэри барыларын сот">
+<!ENTITY removeallpermissions.accesskey "б">
+<!ENTITY address.label                "Ситим-сир аадырыһа:">
+<!ENTITY address.accesskey            "а">
+<!ENTITY block.label                  "Бүөлээ">
+<!ENTITY block.accesskey              "Б">
+<!ENTITY session.label                "Бу сиэссийэ кэмигэр көҥүллээ">
+<!ENTITY session.accesskey            " ">
+<!ENTITY allow.label                  "Көҥүллүүргэ">
+<!ENTITY allow.accesskey              "К">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Сап">
+<!ENTITY button.close.accesskey       "С">
+

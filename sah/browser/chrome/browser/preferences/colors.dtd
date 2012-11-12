@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Өҥнөр">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Ситим сирдэр бэйэлэрин өҥнөрүн тутталларын көҥүллээ">
+<!ENTITY  allowPagesToUse.accesskey       " ">
+
+<!ENTITY  color                           "Тиэкис уона фон">
+<!ENTITY  textColor.label                 "Тиэкис:">
+<!ENTITY  textColor.accesskey             "и">
+<!ENTITY  backgroundColor.label           "Фон:">
+<!ENTITY  backgroundColor.accesskey       "о">
+<!ENTITY  useSystemColors.label           "Тиһик өҥнөрүн туһан">
+<!ENTITY  useSystemColors.accesskey       "һ">
+
+<!ENTITY  underlineLinks.label            "Сигэлэри аннынан тарт">
+<!ENTITY  underlineLinks.accesskey        "С">
+<!ENTITY  links                           "Сигэ өҥө">
+<!ENTITY  linkColor.label                 "Көрүллүбэтэх сигэлэр:">
+<!ENTITY  linkColor.accesskey             "с">
+<!ENTITY  visitedLinkColor.label          "Көрүллүбүт сигэлэр:">
+<!ENTITY  visitedLinkColor.accesskey      "К">

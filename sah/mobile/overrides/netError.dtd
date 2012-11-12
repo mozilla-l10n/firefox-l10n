@@ -1,0 +1,141 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Сирэйи хачайдыыр сатаммата">
+<!ENTITY retry.label "Хатылаан көр">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ситимнэһэр кыаллыбата">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Бу аадырыс бобуллубут">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Сиэрбэр көстүбэтэ">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Аадырыһы суруйууга алҕас тахсыбатах дуо, холобур, 
+<strong>www</strong>.example.com оннугар 
+<strong>ww</strong>.example.com</li> 
+<li>Биир да сирэйи көрөр табыллыбат буоллаҕына интэриниэт ситимҥин тургут.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Билэ көстүбэтэ">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Билэ аата сөпкө суруллубутун, регистрын, атын алҕастар баалларын көр.</li> 
+<li>Баҕар билэ аата уларыйбыта, эбэтэр билэ сотуллубута дуу, көһөрүллүбүтэ дуу буолуо.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Бабат-татай.">
+<!ENTITY generic.longDesc "<p>&brandShortName; бу сирэйи тоҕо эрэ кыайан хачайдаабата.</p>">
+
+<!ENTITY malformedURI.title "Аадырыс формаата алҕастаах">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Ситим аадырыстар маннык суруллаллар 
+<strong>http://www.example.com/</strong></li> 
+<li>Маннык иҥнэри слэш бэлиэ тыллар быыстарыгар баарын көр (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Ситим быстан хаалла">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Дөкүмүөн болдьоҕо ааспыт">
+<!ENTITY notCached.longDesc "<p>Көрдөнүллүбүт дөкүмүөн кэшкэ суох &brandShortName;.</p><ul><li>Куттал суоһаабатын диэн &brandShortName; аптамаатынан хос көрдөөбөт.</li><li>Дөкүмүөнү хат көрдүүргэ «Хат хачайдаа» диэни баттаа.</li></ul>">
+
+<!ENTITY netOffline.title "Холбоммокко үлэлээһин">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Хатылаан көр. &brandShortName; ситимнэһэн көрүө уонна сирэйи хос хачайдыа.</li> 
+</ul> ">
+
+<!ENTITY contentEncodingError.title "Иһинээҕитин куода алҕастаах">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Бука диэн ситим-сир иччитигэр бу туһунан эт.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Билэ куттаалаах көрүҥэ">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Бука диэн ситим-сир иччитигэр бу туһунан эт.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Холбонуу араҕан ылбыт">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "Холбонууну кэтэһии болдьоҕо бүппүт">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "Аадырыс көрүҥэ биллибэт">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Бу аадырыһы арыйарга баҕар туспа бырагыраамманы туруорар наада буолуо.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Прокси-сиэрбэр холбуон баҕарбат">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Прокси-сиэрбэр туруорууларын көр, сөптөөҕүн тургут.</li> 
+<li>Дьаһабылга тахсан прокси-сиэрбэр үлэлиирин ыйыт.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Прокси-сиэрбэри булар сатаммата">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Прокси-сиэрбэр туруорууларын тургут.</li> 
+<li>Тэрилиҥ интэриниэккэ холбоммутун көр.</li> </ul>">
+
+<!ENTITY redirectLoop.title "Сирэй алҕастаах утаарыылаах">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Маннык кыһалҕа кууканыараардахха эбэтэр ылары боптоххо тахсыан сөп.</li> </ul>">
+
+<!ENTITY unknownSocketType.title "Сиэрбэр хоруйа кыайан быһаарыллыбата">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Көмпүүтэргэр «Тус көмүскүүр тэрил (PSM)» турарын тургут.</li> 
+<li>Баҕар субу сиэрбэр конфигурациятыттан тахсыбыта буолуо.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Куттала суох холбонуу сатаммата">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Көрөөрү гынар сирэйиҥ көстөр кыаҕа суох, тоҕо диэтэххэ ылыллыбыт дааннайдары тургутар кыах суох.</li> 
+<li>Бука диэн ситим-сир иччитигэр тахсан бу туһунан кэпсээ. Эбэтэр, алҕас туһунан «Көмө» менютугар баар хамаанда нөҥүө биллэриэххин сөп.</li> 
+</ul> ">
+
+<!ENTITY nssBadCert.title "Көмүскэммит холбонуу сатаммата">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>This could be a problem with the server's configuration, or it could be
+someone trying to impersonate the server.</li>
+  <li>If you have connected to this server successfully in the past, the error may
+be temporary, and you can try again later.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Баҕар ситим-сир быстах кэмҥэ тохтоон ылбыта буолуо, эбэтэр наһаа элбэх киһи кииртэ буолуо. Кыратык кэтэһэ түһэн баран хатылаан көрөөр.</li> 
+<li>Өскө биир да сирэй кыайан хачайдаммат буоллаҕына интэриниэт ситимҥин тургут.</li> 
+</ul>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Куттал суох буоллун диэн хааччахтанна">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузер бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
+
+<!ENTITY corruptedContentError.title "Иһинээҕитэ туох эрэ алҕастаах">
+<!ENTITY corruptedContentError.longDesc "<p>Көрөөрү гыммыт сирэйиҥ сатаан хачайдаммата, тоҕо диэтэххэ биэрии кэмигэр туох эрэ алҕас таҕыста.</p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Эбэтэр бу хааччахтааһынтан туорааһыны эп...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Мантан бардыбыт!">
+<!ENTITY securityOverride.exceptionButtonLabel "Туорааһыны эп...">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Өскө интэриниэккэ тахсарга толору итэҕэтиилээх ситиминэн тахсыбат буоллаххына эбэтэр бу сиэрбэри кытта холбоноргор маннык сэрэтиини урут көрбөтөх буоллаххына быраабылаттан туорааһыны эбимэ.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Тэйиччи XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul></p>">
+

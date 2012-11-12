@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newWindowsAsTabs.label       "Саҥа түннүк оннугар саҥа кыбытыгы арыйар буол">
+<!ENTITY newWindowsAsTabs.accesskey   "а">
+
+<!ENTITY warnCloseMultipleTabs.label  "Хас да кыбытыгы сабаары гыннахпына сэрэтэр буол">
+<!ENTITY warnCloseMultipleTabs.accesskey  "с">
+
+<!ENTITY warnOpenManyTabs.label       "Хас да кыбытыгы арыйыы &brandShortName; бытаардар буоллаҕына сэрэтээр ">
+<!ENTITY warnOpenManyTabs.accesskey   "Х">
+
+<!ENTITY showTabBar.label             "Кыбытыктар тэриллэрин куруук көрдөрөр буолаар">
+<!ENTITY showTabBar.accesskey         "ы">
+
+<!ENTITY restoreTabsOnDemand.label        "Кыбытыктары ыйытыга суох холбоомо">
+<!ENTITY restoreTabsOnDemand.accesskey    "ы">
+
+<!ENTITY switchToNewTabs.label        "Аһыллар кыбытыкка көһөр буолаар">
+<!ENTITY switchToNewTabs.accesskey    "а">
+
+<!ENTITY showTabsInTaskbar.label          "Кыбытыктар эскиистэрин Windows садаачатын панелыгар көрдөрөр буол">
+<!ENTITY showTabsInTaskbar.accesskey      "т">

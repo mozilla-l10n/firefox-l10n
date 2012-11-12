@@ -1,0 +1,60 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Кыһалҕаны быһаарар туһунан">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "   Бу сирэйгэ техническэй информация бэриллэр, ону туһанан кыһалҕаҕын быһаарыаххын сөп. &brandShortName; програаммаҕа куруук көстөр кыһалҕаҕа хоруй ылыаххын баҕарар буоллаххына биһиги <a id='supportLink'>өйүүр ситим-сирбитигэр</a> киир. ">
+
+<!ENTITY aboutSupport.extensionsTitle "Кэҥэтиилэр">
+<!ENTITY aboutSupport.extensionName "Аата">
+<!ENTITY aboutSupport.extensionEnabled "Холбоммут">
+<!ENTITY aboutSupport.extensionVersion "Барыл">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Приложение туһунан">
+<!ENTITY aboutSupport.appBasicsName "Аат">
+<!ENTITY aboutSupport.appBasicsVersion "Барыл">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Профиль паапката">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Профиль паапката">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Холбоммут плагииннар">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Торум (build) конфигурацията">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Саахал туһунан отчуот">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Долоҕойу туттуу">
+
+<!ENTITY aboutSupport.showDir.label "Паапканы арый">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Finder-гэ көрдөр">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Паапканы көрдөр">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Сүрүн уларытыллыбыт туруоруулар ">
+<!ENTITY aboutSupport.modifiedPrefsName "Аат">
+<!ENTITY aboutSupport.modifiedPrefsValue "Суолта">
+
+<!ENTITY aboutSupport.graphicsTitle "Графика">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Инкрементальнай GC">
+
+<!ENTITY aboutSupport.a11yTitle "Киирэргэ дөбөҥө, өйдөнүмтүөтэ">
+<!ENTITY aboutSupport.a11yActivated "Холбоо">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Бибилитиэкэлэр барыллара">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Туруоруу сурунаала">
+<!ENTITY aboutSupport.updateHistoryTitle "Саҥардыы сурунаала">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">

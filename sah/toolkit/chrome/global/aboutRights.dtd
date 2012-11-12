@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "Эн быраабыҥ туһунан">
+<!ENTITY rights.intro "&brandFullName; босхо, аһаҕас куодтаах, тыһыынчанан аан дойду дьоно оҥорор програаммалара. Бу туһунан билиэхтээххин:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; маннык усулуобуйаҕа туһаныллар ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Ол аата &brandShortName; програамманы туһаныаххын, төгүллүөххүн уонна тарҕатыаххын сөп.  Ону таһынан &brandShortName; куодун бэйэҥ баҕаҕынан уларытыаххын сөп. Mozilla лиссиэнсийэтэ уларыппыт програаммаҕын тарҕатаргын эмиэ көҥүллүүр.">
+
+<!ENTITY rights.intro-point2-a "Mozilla Foundation эбэтэр атын ханнык да тэрилтэ табаарынай бэлиэлэрэ эйиэхэ бэриллибэттэр, ол иһигэр  Firefox аата уонна логотииба. Табаарынай бэлиэлэр тустарынан  ">
+<!ENTITY rights.intro-point2-b "манна ааҕыаххын сөп">
+<!ENTITY rights.intro-point2-c ".">
+<!-- point 2.5 text for official branded builds -->
+
+<!ENTITY rights.intro-point2.5 "&brandShortName; сорох функциялара, холобур Crash Reporter, отчуоттаргын манна &vendorShortName; ыытаргын хааччыйаллар. Отчуоккун манна &vendorShortName; ыытаргар ол отчуоту програамманы тупсарарга туһанары, кини ситим-сиригэр бэчээттиири уонна атын ханнык баҕарар ньыманнан тарҕатары көҥүллүүгүн.">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights2.intro-point3a "Эн тускунан информацияны уонна манна &vendorShortName; &brandShortName; нөҥүө ыыппыт отчуоккун хайдах туһанарбыт туһунан манна суруллубут ">
+<!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Бу программаҕа аналлааах ханнык баҕарар көҥүллэнэр бүк охсунуу (приватность политиката) бу тиһиккэ көстүөхтээх">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights2.intro-point4a "&brandShortName; сорох сулууспалара ситим-сулууспалары туһаналлар, ол эрэн биһиги кинилэр отой эҥкилэ суох үлэлииллэрин эрэннэрэр кыахпыт суох. Сиһилии бу туһунан уонна хайдах араарар туһунан манна ааҕыаххын сөп  ">
+<!ENTITY rights.intro-point4b "- сулууспалары туһаныы усулуобуйалара">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "Өскө бу програамма ситим-сирдэр тустарынан кэпсиир сулууспалардаах буоллаҕына, ону туһаныы туһунан сигэлэр манна бааллар: ">
+<!ENTITY rights.intro-point4b-unbranded "Ситим-сир туһунан кэпсиир сулууспалар">
+<!ENTITY rights.intro-point4c-unbranded ".">
+
+<!ENTITY rights2.webservices-header "&brandFullName; биллэрэр-иһитиннэрэр веб-сулууспалара">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights2.webservices-a " &brandShortName; бинаар барылыгар туһаныллар сорох кыахтары туһанарга &brandFullName; биллэрэр-иһитиннэрэр сулууспалары (кылгастык «Сулууспалары») туттар. Усулуобуйалара аллара бэриллэллэр. Өскө бу Сулууспалартан биирдэстэрин эбэтэр барыларын туттуоххун баҕарбат эбэтэр туһаныы усулуобуйатын кытта сөбүлэспэт буоллаххына араарыаххын сөп. Ол туһунан сиһилии  ">
+<!ENTITY rights2.webservices-b "манна ааҕыаххын сөп">
+<!ENTITY rights2.webservices-c ".">
+<!-- safe browsing points for branded builds -->
+
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Safe Browsing үлэтин тохтоттоххо, онтон сылтаан кутталлаах ситим-сирдэргэ тиийэн хаалыахха сөп. Сэрэппит үрдүнэн араарыаххын баҕардаххына манна этиллибит дьайыылары оҥор:">
+<!ENTITY rights.safebrowsing-term1 "Приложение туруорууларын арый">
+<!ENTITY rights.safebrowsing-term2 '"Көмүскэл" салааны тал'>
+<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; уонна &quot;&blockWebForgeries.label;&quot; чыычаахтарын уһул">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing араарылынна">
+<!-- location aware browsing points for branded builds -->
+
+<!ENTITY rights.locationawarebrowsing-a "Брааузеры туһанар кэмҥэр баар сиргин биллэрии: ">
+<!ENTITY rights.locationawarebrowsing-b "куруук эн көҥүллүүргүн кэтэһэр. Эн баар сириҥ туһунан эйигиттэн көҥүлэ суох хаһан да ыытыллыа суоҕа. Бу дьайыыны отой араарыаххын баҕарар буоллаххына бу хаамыылары оҥор:">
+<!ENTITY rights.locationawarebrowsing-term1a "Аадырыс устуруокатыгар киллэр ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Маны иккитэ баттаа geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Баар сиргин биллэрии араарылынна">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "Ситим-сирдэр тустарынан биллэрэр-иһитиннэрэр сулууспалар туһунан уонна ону туһанар туһунан инструкциялар (баар буоллахтарына) манна баар буолуохтаахтар.">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Сулууспалары туһаныы туох баар бэлиитикэтэ манна тиһиллиэхтээх.">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights2.webservices-term1 "&vendorShortName; уонна кини үлэһиттэрэ, лицензиардара уонна партнёрдара Сулууспалар нөҥүө чопчу уонна тиһэх информацияны биэрэргэ кыһаллаллар. Ол гынан баран барыта толору уонна сөптөөх буоларын эрэннэрэр кыахпыт суох. Холобур, Safe Browsing сорох куттааллаах ситим-сирдэри булуо суоҕун, оттон куттала суох ситим-сирдэри алҕас куттааллаах курдук бэлиэтиэн сөп, эбэтэр Баар сири булар Сулууспа баар сири алҕастаах эбэтэр чопчута суох быһаарыан сөп.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; Сулууспалары хаһан баҕарар тохтотуон уонна бэйэтэ билэринэн уларытыан сөп.">
+<!ENTITY rights2.webservices-term3 "Бу Сулууспалары &brandShortName; сөп түбэһэр барылын кытта туһаныаххын сөп, &vendorShortName; онно эйиэхэ көҥүл биэрэр. &vendorShortName; уонна кини лицензиардара Сулууспаны бас билии хаалбыт атын бырааптарын барытын бэйэлэригэр хааллараллар.  Бу усулуобуйа &brandShortName; бырагырааммаҕа уонна &brandShortName; барылларыгар сыһыаннаах аһаҕас лиссиэнсиэйни хааччахтаабат. ">
+<!ENTITY rights.webservices-term4 "Бу сулууспалар «баарын курдук» усулуобуйаҕа туһанылаллар.  &vendorShortName;, кини үлэһиттэрэ, лицензиардара уонна дистрибьютордара туохха да эрэннэрэртэн батыналлар, ол иһигэр Сулууспалар атыыга-эргиэҥҥэ баралларыгар уонна эн соруккар сөп түбэһэллэригэр эмиэ эрэннэрбэттэр. Сулууспаны талбыт эппиэтинэһиҥ барыта эйиэхэ сүктэриллэр.  Сорох дойдуларга маннык туорааһын көҥүллэммэт, онон бу бүк охсунуу эйиэхэ дьайбат буолуон сөп.">
+<!ENTITY rights.webservices-term5 "Сокуон ирдээбэт түгэнигэр, &vendorShortName; уонна кини үлэһиттэрэ, лицензиардара уонна дистрибьютордара &brandShortName; уонна Сулууспалары туһаныыттан тахсыбыт ханнык баҕарар хоромньуга эппиэтинэһи сүкпэттэр. Бөлөххө сүктэриллэр эппиэтинэс $500 (АХШ биэс сүүс дуолларыттан) тахсыбат. Сорох дойдуларга маннык туорааһын көҥүллэммэт, онон бу бүк охсунуу эйиэхэ дьайбат буолуон сөп.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; сөбүн көрөн кэмиттэн кэмигэр бу усулуобуйаны саҥардан биэриэн сөп. Бу усулуобуйа &vendorShortName; суругунан көҥүллээбэтэх буоллаҕына уларытыллар уонна суох оҥоһуллар кыаҕа суох.">
+<!ENTITY rights.webservices-term7 "Бу усулуобуйа Калифорния штаат (АХШ) сокуоннарыгар эппиэттиир (коллизия быраабыттан уратыта). Өскө бу усулуобуйа сорҕото быраап өттүттэн дьайара сатаммата билиннэҕинэ, атын усулуобуйалара син биир оннунан хаалаллар. Өскө бу усулуобуйа тылбааһа уонна ааҥыллыы барыла уратылаах буоллахтарына, ааҥыллыы барылын туһаныллыахтаах.">

@@ -1,0 +1,95 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pageInfoWindow.width  "690">
+<!ENTITY  pageInfoWindow.height "610">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Төгүллээ">
+<!ENTITY  copy.accesskey        "Т">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Барытын тал">
+<!ENTITY  selectall.accesskey   "т">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Сүрүн">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Аадырыс:">
+<!ENTITY  generalType           "Көрүҥ:">
+<!ENTITY  generalMode           "Толоруу ньымата:">
+<!ENTITY  generalSize           "Кээмэйэ:">
+<!ENTITY  generalReferrer       "Сигэнэр URL:">
+<!ENTITY  generalSource         "Кээштээһин источнига:">
+<!ENTITY  generalModified       "Уларытыллыбыт:">
+<!ENTITY  generalEncoding       "Кодировката:">
+<!ENTITY  generalMetaName       "Аат">
+<!ENTITY  generalMetaContent    "Иһинээҕитэ">
+<!ENTITY  generalSecurityDetails   "Сиһилии">
+<!ENTITY  generalSecurityDetails.accesskey "D">
+
+<!ENTITY  mediaTab              "Медиа">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Аадырыһа:">
+<!ENTITY  mediaText             "Ситимнээх тиэкис:">
+<!ENTITY  mediaAltHeader        "Атын тиэкис">
+<!ENTITY  mediaAddress          "Аадырыһа">
+<!ENTITY  mediaType             "Көрүҥ">
+<!ENTITY  mediaSize             "Кээмэй">
+<!ENTITY  mediaCount            "Ахсаана">
+<!ENTITY  mediaDimension        "Кээмэйэ:">
+<!ENTITY  mediaLongdesc         "Бу туһунан сиһилии:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Маннык бигэргэт...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Мултимедианы эрдэ көрүү:">
+
+<!ENTITY  feedTab               "Сонуннар лиэнтэлэрэ">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Суруттар">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "Көҥүллээһин">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Анаан этиллибэтэҕинэ">
+<!ENTITY  permAskAlways         "Куруук ыйытар буолаар">
+<!ENTITY  permAllow             "Көҥүллүүргэ">
+<!ENTITY  permAllowSession      "Сиэссийэҕэ көҥүллүүргэ">
+<!ENTITY  permBlock             "Бүөлээ">
+<!ENTITY  permissionsFor        "Манна аналлаах көҥүл:">
+<!ENTITY  permImage             "Ойуулары көрдөрөр буол">
+<!ENTITY  permPopup             "Ойон тахсар түннүктэри бобума">
+<!ENTITY  permCookie            "Куукалары туһан">
+<!ENTITY  permInstall           "Кэҥэтиилэри уонна тиэмэлэри туруорар гын">
+<!ENTITY  permGeo               "Баар сиргин көрдөр">
+<!ENTITY  permPlugins           "Плагииннары холбоо">
+<!ENTITY  permFullscreen        "Толору экрааҥҥа киирии">
+
+<!ENTITY  permIndexedDB              "Харайар сири салайыы">
+<!ENTITY  permClearStorage           "Харайар сири ыраастаа">
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab           "Көмүскэл">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Сирэй көмүскэлин туһунан">
+<!ENTITY  securityView.certView "Сэртипикээтин көрүү">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Биллибэт">
+
+
+<!ENTITY  securityView.identity.header   "Ситим-сир дьиҥнээҕэ">
+<!ENTITY  securityView.identity.owner    "Бас билээччи:">
+<!ENTITY  securityView.identity.domain   "Ситим-сир:">
+<!ENTITY  securityView.identity.verifier "Бигэргэтилиннэ:">
+
+<!ENTITY  securityView.privacy.header                   "Тус эйгэни көмүскээһин уонна көрүү сурунаала">
+<!ENTITY  securityView.privacy.history                  "Урут бу ситим-сиргэ сылдьыбыттаахпын дуо?">
+<!ENTITY  securityView.privacy.cookies                  "Бу ситим-сир мин туспунан информацияны (куукалары) көмпүүтэрбэр уга сытар дуо?">
+<!ENTITY  securityView.privacy.viewCookies              "Куукалары көрөргө">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Бу ситим-сир киирии тылын көмпүүтэрбэр уура сытабын дуо?">
+<!ENTITY  securityView.privacy.viewPasswords            "Ууруллубут киирии тыллары көрүү">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Техникаҕа сыһыаннаах информация">

@@ -1,0 +1,208 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "Эбиискэлэри салайыы">
+
+<!ENTITY search.placeholder                   "Эбиискэлэртэн көрдөө">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
+<!ENTITY loading.label                        "Хачайдааһын...">
+<!ENTITY listEmpty.installed.label            "Маннык эбиискэни биири да туруора илик эбиккин">
+<!ENTITY listEmpty.availableUpdates.label     "Саҥардыы көстүбэтэ">
+<!ENTITY listEmpty.recentUpdates.label        "Кэнники кэмҥэ ханнык да эбиискэни саҥарда илик эбиккин">
+<!ENTITY listEmpty.findUpdates.label          "Саҥардыы баарын көрүү">
+<!ENTITY listEmpty.search.label               "Биир да сөп түбэһэр эбиискэ көстүбэтэ">
+<!ENTITY listEmpty.button.label               "Эбиискэ туһунан сиһилии">
+<!ENTITY installAddonFromFile.label           "Эбиискэни билэттэн туруор…">
+<!ENTITY installAddonFromFile.accesskey       "с">
+<!ENTITY toolsMenu.tooltip                    "Бары эбиискэлэргэ аналлаах тэриллэр">
+
+<!ENTITY cmd.back.tooltip                     "Бу иннинээҕи сирэйгэ">
+<!ENTITY cmd.forward.tooltip                  "Бу кэннинээҕи сирэйгэ">
+<!-- global warnings -->
+
+<!ENTITY warning.safemode.label                    "Куттала суох үлэлиир эрэсиимҥэ эбиискэлэр араарыллаллар.">
+<!ENTITY warning.checkcompatibility.label          "Эбиискэлэр сөп түбэһэллэрин тургутуу араарыллыбыт. Сөп түбэспэт эбиискэлэр баар буолуохтарны сөп.">
+<!ENTITY warning.checkcompatibility.enable.label   "Холбоо">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Эбиискэлэр сөп түбэһэллэрин тургутууну холбоо">
+<!ENTITY warning.updatesecurity.label              "Эбиискэлэри саҥардарга арчылыыр сулууспа араарыллыбыт. Онон саҥартаххына ол бу буолуон сөп.">
+<!ENTITY warning.updatesecurity.enable.label       "Холбоо">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Саҥардыы кэмигэр арчылыыр сулууспаны холбоо">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Плагиннарыҥ саҥардыллыбыттарын көр">
+<!ENTITY info.plugincheck.tooltip               "Плагиннарыҥ саҥардыллыбыттарын көр">
+<!-- categories / views -->
+
+<!ENTITY view.search.label                    "Көрдөөһүн">
+<!ENTITY view.discover.label                  "Эбиискэлэри хачайдан">
+<!ENTITY view.recentUpdates.label             "Соторутааҥы саҥардыылар">
+<!ENTITY view.availableUpdates.label          "Туттуллар кыахтаах саҥардыылар">
+<!-- addon updates -->
+
+<!ENTITY updates.checkForUpdates.label        "Саҥардыы баарын көрүү">
+<!ENTITY updates.checkForUpdates.accesskey    "д">
+<!ENTITY updates.viewUpdates.label            "Соторутааҥҥы саҥардыылары көрүү">
+<!ENTITY updates.viewUpdates.accesskey        "С">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "Эбиискэлэри аптамаатынан саҥарт">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "а">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Туох баар эбиискэлэргэ аптамаатынан саҥардыыны холбоо">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "э">
+<!ENTITY updates.resetUpdatesToManual.label          "Туох баар эбиискэлэргэ илииннэн саҥардыыны холбоо">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "э">
+<!ENTITY updates.updating.label               "Эбиискэлэри саҥардыы">
+<!ENTITY updates.installed.label              "Эбиискэлэриҥ саҥардылыннылар.">
+<!ENTITY updates.downloaded.label             "Саҥардыылар хачайданнылар.">
+<!ENTITY updates.restart.label                "Түмүктүүргэ көмпүүтэргин хос ыыт">
+<!ENTITY updates.noneFound.label              "Саҥардыы көстүбэтэ">
+<!ENTITY updates.manualUpdatesFound.label     "Туттуллар кыахтаах саҥардыылары көрдөр">
+<!ENTITY updates.updateSelected.label         "Саҥардыылары туруор">
+<!ENTITY updates.updateSelected.tooltip       "Бу тиһиктэн туруоруллар кыахтаах саҥардыылары туруор">
+<!-- addon actions -->
+
+<!ENTITY cmd.showDetails.label                "Сиһилии">
+<!ENTITY cmd.showDetails.accesskey            "С">
+<!ENTITY cmd.findUpdates.label                "Саҥардыылары бул">
+<!ENTITY cmd.findUpdates.accesskey            "С">
+<!ENTITY cmd.preferencesWin.label             "Туруоруулар">
+<!ENTITY cmd.preferencesWin.accesskey         "Т">
+<!ENTITY cmd.preferencesUnix.label            "Туруоруулар">
+<!ENTITY cmd.preferencesUnix.accesskey        "Т">
+<!ENTITY cmd.about.label                      "Эбиискэ туһунан">
+<!ENTITY cmd.about.accesskey                  "Э">
+
+<!ENTITY cmd.enableAddon.label                "Холбоо">
+<!ENTITY cmd.enableAddon.accesskey            "Х">
+<!ENTITY cmd.disableAddon.label               "Араар">
+<!ENTITY cmd.disableAddon.accesskey           "А">
+<!ENTITY cmd.enableTheme.label                "Тиэмэни тутун">
+<!ENTITY cmd.enableTheme.accesskey            "Т">
+<!ENTITY cmd.disableTheme.label               "Бу тиэмэни уонна туттума">
+<!ENTITY cmd.disableTheme.accesskey           "т">
+<!ENTITY cmd.installAddon.label               "Туруор">
+<!ENTITY cmd.installAddon.accesskey           "Т">
+<!ENTITY cmd.uninstallAddon.label             "Сот">
+<!ENTITY cmd.uninstallAddon.accesskey         "о">
+<!ENTITY cmd.showPreferencesWin.label         "Опциялара">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Бу эбиискэ туруорууларын уларыт">
+<!ENTITY cmd.showPreferencesUnix.label        "Туруоруулар">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Бу эбиискэ туруорууларын уларыт">
+<!ENTITY cmd.contribute.label                 "Кыттыс">
+<!ENTITY cmd.contribute.accesskey             "К">
+<!ENTITY cmd.contribute.tooltip               "Бу эбиискэни тупсарарга кыттыс">
+
+<!ENTITY cmd.showReleaseNotes.label           "Барыл быһаарыыларын көрдөр">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Барыл тахсыытыгар анаммыт быһаарыылары көрдөр">
+<!ENTITY cmd.hideReleaseNotes.label           "Быһаарыылары көстүбэт гын">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Быһаарыылары бу саҥардыыга көстүбэт гын">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title                       "Эбиискэ диэн тугуй?">
+<!ENTITY discover.description2                "Эбиискэлэр — &brandShortName; бырагыраамманы бэйэҕэр табыгастаах гына уларытан биэрэр эбии олордуллар тэриллэр. Холобур, ойоҕос хапталы туттан халлаан туругун куруук көрө сылдьыаххын сөп, эбэтэр  &brandShortName; тас көрүҥүн бэйэҥ баҕараргынан уларытан биэриэххин сөп.">
+<!ENTITY discover.footer                      "Интэриниэккэ холбонноххуна бу туонаҕа (хапталга) саамай элбэхтик туһаныллар сорох эбиискэлэр көстүөхтэрэ. Тутатына туттан көрүөххүн сөп.">
+<!-- detail view -->
+
+<!ENTITY detail.version.label                 "Барыл">
+<!ENTITY detail.lastupdated.label             "Бүтэһик саҥардыы">
+<!ENTITY detail.creator.label                 "Разработчик">
+<!ENTITY detail.homepage.label                "Дьиэ-сирэй">
+<!ENTITY detail.numberOfDownloads.label       "Хачайдааһын">
+
+<!ENTITY detail.contributions.description     "Бу эбиискэни оҥорбут киһи эбиискэ сайдарын туһугар Эйигиттэн кыра харчыны эрэйэр.">
+
+<!ENTITY detail.updateType                    "Аптамаатынан саҥардыы">
+<!ENTITY detail.updateDefault.label           "Анаан этиллибэтэҕинэ">
+<!ENTITY detail.updateDefault.tooltip         "Талыллыбыкка саҥардыыны быһа холбонордуу туруорун ">
+<!ENTITY detail.updateAutomatic.label         "Холбоммут">
+<!ENTITY detail.updateAutomatic.tooltip       "Саҥардыыны ыйыппакка туруор">
+<!ENTITY detail.updateManual.label            "Араарыллыбыт">
+<!ENTITY detail.updateManual.tooltip          "Саҥардыылары ыйыппакка туруорума">
+<!ENTITY detail.home                          "Дьиэ-сирэй">
+<!ENTITY detail.repository                    "Эбиискэ профилэ">
+<!ENTITY detail.size                          "Кээмэй">
+
+<!ENTITY detail.checkForUpdates.label         "Саҥардыы баарын көр">
+<!ENTITY detail.checkForUpdates.accesskey     "б">
+<!ENTITY detail.checkForUpdates.tooltip       "Бу эбиискэ саҥардыыта баарын көр">
+<!ENTITY detail.showPreferencesWin.label      "Туруоруулар">
+<!ENTITY detail.showPreferencesWin.accesskey  "Т">
+<!ENTITY detail.showPreferencesWin.tooltip    "Бу эбиискэ туруорууларын уларыт">
+<!ENTITY detail.showPreferencesUnix.label     "Туруоруулар">
+<!ENTITY detail.showPreferencesUnix.accesskey "Т">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Бу эбиискэ туруорууларын уларыт">
+<!-- ratings -->
+
+
+<!ENTITY rating2.label                        "Рейтинг">
+<!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip               "Тохтото түс">
+<!ENTITY progress.cancel.tooltip              "Салҕаама">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label                      "Аат">
+<!ENTITY sort.name.tooltip                    "Аатынан наардааһын">
+<!ENTITY sort.dateUpdated.label               "Бүтэһик саҥардыы">
+<!ENTITY sort.dateUpdated.tooltip             "Саҥардыы күнүнэн-дьылынан наардааһын">
+<!ENTITY sort.relevance.label                 "Ордук сөп түбэсиһии">
+<!ENTITY sort.relevance.tooltip               "Релевантноһынан наардааһын">
+<!ENTITY sort.price.label                     "Сыаната">
+<!ENTITY sort.price.tooltip                   "Сыанатынан наардааһын">
+
+<!ENTITY search.filter2.label                 "Көрдөөһүн:">
+<!ENTITY search.filter2.installed.label       "Мин эбиискэлэрим">
+<!ENTITY search.filter2.installed.tooltip     "Туруоруллубут эбиискэлэри көрдөр">
+<!ENTITY search.filter2.available.label       "Туттуллар кыахтаах эбиискэлэр">
+<!ENTITY search.filter2.available.tooltip     "Туруоруллар кыахтаах эбиискэлэри көрдөр">
+
+<!ENTITY addon.homepage                       "Дьиэ-сирэй">
+<!ENTITY addon.details.label                  "Эбии">
+<!ENTITY addon.details.tooltip                "Бу эбиискэ туһунан сиһилии">
+<!ENTITY addon.unknownDate                    "Биллибэт">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(араарыллыбыт)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "Саҥардыы">
+<!ENTITY addon.undoAction.label               "Төннөр">
+<!ENTITY addon.undoAction.tooltip             "Бу дьайыыны төннөр">
+<!ENTITY addon.undoRemove.label               "Төннөр">
+<!ENTITY addon.undoRemove.tooltip             "Бу эбиискэни сотума">
+<!ENTITY addon.restartNow.label               "Билигин хос холбоо">
+<!ENTITY addon.install.label                  "Туруор">
+<!ENTITY addon.install.tooltip                "Бу эбиискэни туруор">
+<!ENTITY addon.updateNow.label                "Билигин саҥарт">
+<!ENTITY addon.updateNow.tooltip              "Бу эбиискэ саҥардыытын туруор">
+<!ENTITY addon.includeUpdate.label            "Саҥардыыны холбоо">
+<!ENTITY addon.updateAvailable.label          "Саҥардыы баар">
+<!ENTITY addon.checkingForUpdates.label       "Саҥардыы баарын көрүү...">
+<!ENTITY addon.releaseNotes.label             "Барыл туһунан:">
+<!ENTITY addon.loadingReleaseNotes.label      "Хачайдааһын...">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Хомойуох иһин, туох эрэ алҕас таҕыста.">
+
+<!ENTITY addon.createdBy.label                "Киниэнэ - ">
+
+<!ENTITY eula.title                           "Лиссиэнсийэ усулуобуйата">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Сөбүлэһэргэ уонна туруорунарга...">
+
+<!ENTITY settings.path.button.label           "Көрүү…">

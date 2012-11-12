@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printJobOptions.title "Принтер туруоруулара">
+
+<!ENTITY paperInput.label "Кумааҕы кээмэйэ:">
+<!ENTITY paperInput.accesskey "К">
+
+<!ENTITY plexInput.label "Эрэсиимэ:">
+<!ENTITY plexInput.accesskey "Э">
+
+<!ENTITY resolutionInput.label "Разрешениета/Хаачыстыбата:">
+<!ENTITY resolutionInput.accesskey "з">
+
+<!ENTITY cmdInput.label "Бэчээт хамаандата:">
+<!ENTITY cmdInput.accesskey "м">
+
+<!ENTITY jobTitleInput.label "Сорудах аата:">
+<!ENTITY jobTitleInput.accesskey "С">
+
+<!ENTITY colorGroup.label "Өҥө:">
+<!ENTITY grayRadio.label "Бороҥ арааһын туһан">
+<!ENTITY grayRadio.accesskey "Б">
+<!ENTITY colorRadio.label "Өҥө">
+<!ENTITY colorRadio.accesskey "Ө">
+
+<!ENTITY colorspaceInput.label "Өҥнөр:">
+<!ENTITY colorspaceInput.accesskey "Ө">
+
+<!ENTITY fontsGroup.label "Бичиктэр:">
+<!ENTITY downloadFonts.label "Бичиктэри принтергэ киллэр">
+<!ENTITY downloadFonts.accesskey "Б">
+
+<!ENTITY edgeMarginInput.label "Кытыытын кэтитэ">
+<!ENTITY topInput.label "Үөһэттэн:">
+<!ENTITY topInput.accesskey "Ү">
+<!ENTITY bottomInput.label "Аллараттан:">
+<!ENTITY bottomInput.accesskey "А">
+<!ENTITY leftInput.label "Хаҥастан:">
+<!ENTITY leftInput.accesskey "Х">
+<!ENTITY rightInput.label "Уҥаттан:">
+<!ENTITY rightInput.accesskey "У">

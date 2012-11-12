@@ -1,0 +1,73 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsDialog.title                       "Бичиктэр">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "58em">
+<!ENTITY  window.unixWidth                        "56em">
+
+<!ENTITY  language.label                          "Анаммыт бичиктэр:">
+<!ENTITY  language.accesskey                      "А">
+
+<!ENTITY  size.label                              "Кээмэйэ:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
+
+<!ENTITY  proportional.label                      "Пропорциялаах">
+<!ENTITY  proportional.accesskey                  "р">
+
+<!ENTITY  serif.label                             "Эркээйилээх бичик:">
+<!ENTITY  serif.accesskey                         "Э">
+<!ENTITY  sans-serif.label                        "Эркээйитэ суох бичик:">
+<!ENTITY  sans-serif.accesskey                    "Э">
+<!ENTITY  monospace.label                         "Биир кэтиттээх:">
+<!ENTITY  monospace.accesskey                     "к">
+
+<!ENTITY  font.langGroup.latin1                   "Арҕааҥы">
+<!ENTITY  font.langGroup.latin2                   "Киин Европатааҕы">
+<!ENTITY  font.langGroup.japanese                 "Дьоппуоннуу">
+<!ENTITY  font.langGroup.trad-chinese             "Утум кытайдыы (Тайбаан)">
+<!ENTITY  font.langGroup.simpl-chinese            "Судургу кытайдыы">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Утумнуу кытайдыы (Гоҥкоҥ)">
+<!ENTITY  font.langGroup.korean                   "Кэриэйдии">
+<!ENTITY  font.langGroup.cyrillic                 "Кириллица">
+<!ENTITY  font.langGroup.baltic                   "Балтикалыы">
+<!ENTITY  font.langGroup.el                       "Гириэктии">
+<!ENTITY  font.langGroup.turkish                  "Тууроктыы">
+<!ENTITY  font.langGroup.unicode                  "Атын тылларынан">
+<!ENTITY  font.langGroup.user-def                 "Бэйэ быһаарыытынан">
+<!ENTITY  font.langGroup.thai                     "Таайдыы">
+<!ENTITY  font.langGroup.hebrew                   "Иврит">
+<!ENTITY  font.langGroup.arabic                   "Араабтыы">
+<!ENTITY  font.langGroup.devanagari               "Деванагари">
+<!ENTITY  font.langGroup.tamil                    "Тамииллыы">
+<!ENTITY  font.langGroup.armenian                 "Эрмээннии">
+<!ENTITY  font.langGroup.bengali                  "Бенгааллыы">
+<!ENTITY  font.langGroup.canadian                 "Канадаалыы Сүрүн сүһүөх">
+<!ENTITY  font.langGroup.ethiopic                 "Эфиоптуу">
+<!ENTITY  font.langGroup.georgian                 "Грузинныы">
+<!ENTITY  font.langGroup.gujarati                 "Гудьарати">
+<!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
+<!ENTITY  font.langGroup.khmer                    "Кхмер">
+<!ENTITY  font.langGroup.malayalam                "Малайялам">
+<!ENTITY  font.langGroup.oriya                    "Ория">
+<!ENTITY  font.langGroup.telugu                   "Телугу">
+<!ENTITY  font.langGroup.kannada                  "Каннада">
+<!ENTITY  font.langGroup.sinhala                  "Синхаала">
+<!ENTITY  font.langGroup.tibetan                  "Тибиэттии">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Бичик саамай кыра кээмэйэ:">
+<!ENTITY minSize.accesskey                        " ">
+<!ENTITY minSize.none                             "Суох">
+<!-- default font type -->
+
+<!ENTITY  useDefaultFontSerif.label               "Эркээйилээх">
+<!ENTITY  useDefaultFontSansSerif.label           "Эркээйитэ суох">
+
+<!ENTITY  allowPagesToUse.label                   "Ситим сирдэр бэйэлэрин бичиктэрин туруорары көҥүллээ">
+<!ENTITY  allowPagesToUse.accesskey               " ">
+
+<!ENTITY languages.customize.Charset.grouplabel         "Кодировка">
+<!ENTITY languages.customize.DefaultCharset.label       "Сүрүн кодировка:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "д">

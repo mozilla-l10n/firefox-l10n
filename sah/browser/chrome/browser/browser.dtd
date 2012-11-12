@@ -1,0 +1,659 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Саһан көрөөһүн)">
+<!-- Tab context menu -->
+
+<!ENTITY  reloadTab.label                    "Кыбытыгы саҥарт">
+<!ENTITY  reloadTab.accesskey                "К">
+<!ENTITY  reloadAllTabs.label                "Бары кыбытыктары саҥарт">
+<!ENTITY  reloadAllTabs.accesskey            "к">
+<!ENTITY  closeOtherTabs.label               "Атын кыбытыктары сап">
+<!ENTITY  closeOtherTabs.accesskey           "к">
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Кыбытыгы өһүл">
+<!ENTITY  unpinTab.accesskey                 "ы">
+<!ENTITY  moveToGroup.label                  "Бөлөххө көһөр">
+<!ENTITY  moveToGroup.accesskey              "Б">
+<!ENTITY  moveToNewGroup.label               "Саҥа бөлөх">
+<!ENTITY  moveToNewWindow.label              "Саҥа түннүккэ көһөр">
+<!ENTITY  moveToNewWindow.accesskey          "т">
+<!ENTITY  bookmarkAllTabs.label              "Кыбытыктары барыларын бэлиэтээ...">
+<!ENTITY  bookmarkAllTabs.accesskey          "б">
+<!ENTITY  undoCloseTab.label                 "Сабыллыбыт кыбытыгы төннөр">
+<!ENTITY  undoCloseTab.accesskey             "С">
+<!ENTITY  closeTab.label                     "Кыбытыгы сап">
+<!ENTITY  closeTab.accesskey                 "К">
+
+<!ENTITY  listAllTabs.label      "Бары кыбытыктар тиһиктэрэ">
+
+<!ENTITY tabCmd.label "Саҥа кыбытык">
+<!ENTITY tabCmd.accesskey "к">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Аадырыһы арый…">
+<!ENTITY openLocationCmd.accesskey "а">
+<!ENTITY openFileCmd.label "Билэни арый…">
+<!ENTITY openFileCmd.accesskey "Б">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Сирэй туруоруулара...">
+<!ENTITY printSetupCmd.accesskey "т">
+<!ENTITY printPreviewCmd.label "Эрдэ көрүү">
+<!ENTITY printPreviewCmd.accesskey "к">
+<!ENTITY printCmd.label "Бэчээт…">
+<!ENTITY printCmd.accesskey "Б">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY goOfflineCmd.label "Холбоммокко үлэ">
+<!ENTITY goOfflineCmd.accesskey "Х">
+
+<!ENTITY menubarCmd.label "Меню хаптаһына">
+<!ENTITY menubarCmd.accesskey "М">
+<!ENTITY navbarCmd.label "Навигация үстүрүмүөнэ">
+<!ENTITY navbarCmd.accesskey "Н">
+<!ENTITY personalbarCmd.label "Бэлиэтиир үстүрүмүөн">
+<!ENTITY personalbarCmd.accesskey "Б">
+<!ENTITY bookmarksToolbarItem.label "Кыбытык бэлиэлэр элэмиэннэрэ">
+<!ENTITY addonBarCmd.label "Эбиилэр хаптаһыннара">
+<!ENTITY addonBarCmd.accesskey "Э">
+
+<!ENTITY pageSourceCmd.label "Сирэй исходнига">
+<!ENTITY pageSourceCmd.accesskey "и">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Сирэй туһунан">
+<!ENTITY pageInfoCmd.accesskey "т">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Толору экраан">
+<!ENTITY enterFullScreenCmd.accesskey "э">
+<!ENTITY exitFullScreenCmd.label "Толору экраантан таҕыс">
+<!ENTITY exitFullScreenCmd.accesskey "э">
+<!ENTITY fullScreenCmd.label "Толору экраан">
+<!ENTITY fullScreenCmd.accesskey "Т">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Бары кыбытыктары көрдөр">
+<!ENTITY showAllTabsCmd.accesskey "к">
+
+<!ENTITY fullScreenMinimize.tooltip "Кыччат">
+<!ENTITY fullScreenRestore.tooltip "Хат улаатыннар">
+<!ENTITY fullScreenClose.tooltip "Сап">
+<!ENTITY fullScreenAutohide.label "Үстүрүмүөннэри кистээ">
+<!ENTITY fullScreenAutohide.accesskey "Ү">
+<!ENTITY fullScreenExit.label "Толору экраантан таҕыс">
+<!ENTITY fullScreenExit.accesskey "э">
+<!ENTITY fullscreenAllowButton.label "Көҥүллүүргэ">
+<!ENTITY fullscreenExitButton.label "туорат">
+<!ENTITY fullscreenApproval.value "Толору экраан көҥүллэнэр дуо?">
+
+<!ENTITY fullscreenExitHint.value "Толору экрантан тахсарга хаһан баҕарар ESC баттыаххын сөп. ">
+<!ENTITY leaveDOMFullScreen.label "Толору экраантан таҕыс">
+<!ENTITY leaveDOMFullScreen.accesskey "э">
+
+<!ENTITY closeWindow.label "Түннүгү сап">
+<!ENTITY closeWindow.accesskey "с">
+
+<!ENTITY bookmarksMenu.label "Бэлиэлэр">
+<!ENTITY bookmarksMenu.accesskey "Б">
+<!ENTITY bookmarkThisPageCmd.label "Бу сирэйи бэлиэтээ">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY subscribeToPageMenupopup.label "Бу сирэйгэ суруттар">
+<!ENTITY subscribeToPageMenuitem.label "Бу сирэйгэ суруттар...">
+<!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
+<!ENTITY showAllBookmarks2.label "Бэлиэтэммити барытын көрдөр">
+<!ENTITY unsortedBookmarksCmd.label "Суортамматах бэлиэлэр">
+<!ENTITY bookmarksToolbarChevron.tooltip "Өссө бэлиэлэр">
+
+<!ENTITY backCmd.label                "Төнүн">
+<!ENTITY backCmd.accesskey            "Т">
+<!ENTITY backButton.tooltip           "Бу иннинээҕи сирэйгэ">
+<!ENTITY forwardCmd.label             "Инники">
+<!ENTITY forwardCmd.accesskey         "И">
+<!ENTITY forwardButton.tooltip        "Аныгыскы сирэйгэ">
+<!ENTITY backForwardButtonMenu.tooltip "Уҥа тимэҕи баттаан эбэтэр аллара тардан устуоруйатын көр">
+<!ENTITY backForwardButtonMenuMac.tooltip "Устуоруйатын көрөргө аллара тарт">
+<!ENTITY reloadCmd.label              "Саҥарт">
+<!ENTITY reloadCmd.accesskey          "С">
+<!ENTITY reloadButton.tooltip         "Бу сирэйи хос хачайдаа">
+<!ENTITY stopCmd.label                "Тохтот">
+<!ENTITY stopCmd.accesskey            "Т">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Бу сирэйи тохтот">
+<!ENTITY goEndCap.tooltip             "Аадырыс устуруокатын аадырыһыгар киир">
+<!ENTITY printButton.label            "Бэчээт">
+<!ENTITY printButton.tooltip          "Бу сирэйи бэчээттээ">
+
+<!ENTITY backForwardItem.title        "Кэлин/Илин">
+<!ENTITY locationItem.title           "Аадырыс">
+<!ENTITY searchItem.title             "Көрдөөһүн">
+<!ENTITY throbberItem.title           "Дьаныар индикаатора">
+<!ENTITY bookmarksItem.title          "Бэлиэлэр">
+<!-- Toolbar items --> 
+
+<!ENTITY appMenuButton.label          "Меню">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; арый">
+<!ENTITY homeButton.label             "Дьиэ-сирэйгэ">
+
+<!ENTITY tabGroupsButton.label        "Кыбытыктар бөлөхтөрө">
+<!ENTITY tabGroupsButton.tooltip      "Кыбытыктары бөлөхтүүргэ">
+
+<!ENTITY feedButton.label             "Суруттар">
+<!ENTITY feedButton.tooltip           "Бу сирэйгэ суруттар...">
+
+<!ENTITY bookmarksButton.label          "Бэлиэлэр">
+<!ENTITY bookmarksButton.tooltip        "Бэлиэтээбит сирдэргин көрдөр">
+<!ENTITY bookmarksButton.accesskey  "Б">
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Бэлиэлэр">
+<!ENTITY bookmarksMenuButton.tooltip        "Бэлиэтээбиккин көрдөр">
+<!ENTITY bookmarksMenuButton.unsorted.label "Наардамматах бэлиэлэр">
+<!ENTITY viewBookmarksSidebar.label         "Ойоҕос панельга көрдөр">
+<!ENTITY viewBookmarksToolbar.label         "Бэлиэтиир тэрили көрдөр">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "Сурунаал">
+<!ENTITY historyButton.tooltip          "Соторутааҕыта көрүллүбүт сирэйдэр тиһиктэрин көрдөр">
+<!ENTITY historySidebarCmd.accesskey    "s">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Үстүрүмүөннэр">
+<!ENTITY toolsMenu.accesskey          "Ү"> 
+
+<!ENTITY keywordfield.label           "Бу көрдөөһүҥҥэ күлүүс тылла эп…">
+<!ENTITY keywordfield.accesskey       "к">
+<!ENTITY search.label                 "Интэриниэккэ көрдөөһүн">
+<!ENTITY search.accesskey             "к">
+<!ENTITY downloads.label              "Хачайдааһыннар">
+<!ENTITY downloads.tooltip            "Хачайдана турарааччылары көрдөр">
+<!ENTITY downloads.accesskey          "Х">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Эбиискэлэр">
+<!ENTITY addons.accesskey             "Э">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY webDeveloperMenu.label       "Веб-разработка">
+<!ENTITY webDeveloperMenu.accesskey   "б">
+
+<!ENTITY errorConsoleCmd.label        "Алҕастар консоллара">
+<!ENTITY errorConsoleCmd.accesskey    "к">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Ситимҥэ үлэни салайыы">
+<!ENTITY webConsoleCmd.accesskey      "С">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Чинчий">
+<!ENTITY inspectMenu.accesskey        "Ч">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Элэмиэни чинчий">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY responsiveDesignTool.label   "Уларыйар дизайн">
+<!ENTITY responsiveDesignTool.accesskey "У">
+<!ENTITY responsiveDesignTool.commandkey "M">
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY scratchpad.label             "JavaScript судургу эрэдээктэрэ">
+<!ENTITY scratchpad.accesskey         "J">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectCloseButton.tooltiptext "Инспекторы сап">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
+
+<!ENTITY devToolbarCloseButton.tooltiptext "Сайыннарыы хапталын сап">
+<!ENTITY devToolbarMenu.label              "Сйыннарыы хаптала">
+<!ENTITY devToolbarMenu.accesskey          "й">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "Атын тэриллэр">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Ис HTML-ы төгүллээ">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "т">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Тас HTML-ы төгүллээ">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "т">
+
+<!ENTITY inspectorHTMLDelete.label          "Түмүгү сот">
+<!ENTITY inspectorHTMLDelete.accesskey      "Т">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "3D көстүү">
+<!ENTITY inspect3DViewButton.accesskey "к">
+
+<!ENTITY inspectStyleButton.label     "Стиль">
+<!ENTITY inspectStyleButton.accesskey "и">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Истиил эрэдээктэрэ">
+<!ENTITY styleeditor.accesskey        "л">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Атын үстүрүмүөннэр">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "ү">
+
+<!ENTITY fileMenu.label         "Билэ"> 
+<!ENTITY fileMenu.accesskey       "Б">
+<!ENTITY newNavigatorCmd.label        "Саҥа түннүк">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "С">
+
+<!ENTITY editMenu.label         "Уларытыы"> 
+<!ENTITY editMenu.accesskey       "У"> 
+<!ENTITY undoCmd.label            "Төннөр">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "Т"> 
+<!ENTITY redoCmd.label            "Хатылаа">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "Х"> 
+<!ENTITY cutCmd.label           "Кырый">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "К"> 
+<!ENTITY copyCmd.label            "Төгүллээ">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "Т"> 
+<!ENTITY pasteCmd.label           "Ук">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "У"> 
+<!ENTITY deleteCmd.label          "Сот">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "С"> 
+<!ENTITY selectAllCmd.label         "Барытын тал">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "т"> 
+<!ENTITY preferencesCmd2.label       "Туруоруулар">
+<!ENTITY preferencesCmd2.accesskey     "Т">
+<!ENTITY preferencesCmdUnix.label       "Туруоруулар">
+<!ENTITY preferencesCmdUnix.accesskey     "Т"> 
+
+<!ENTITY clearRecentHistory.label               "Соторутааҥы устуоруйаны сот…">
+<!ENTITY clearRecentHistory.accesskey           "о">
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+
+<!ENTITY privateBrowsingCmd.start.label         "Кистээн көрүүнү саҕалаа">
+<!ENTITY privateBrowsingCmd.start.accesskey     "к">
+<!ENTITY privateBrowsingCmd.stop.label          "Кистээн көрүүнү тохтот">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "к">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "Көстүү"> 
+<!ENTITY viewMenu.accesskey       "К"> 
+<!ENTITY viewTabGroups.label            "Кыбытыктар бөлөхтөрө">
+<!ENTITY viewTabGroups.accesskey        "б">
+<!ENTITY viewToolbarsMenu.label       "Тэриллэр"> 
+<!ENTITY viewToolbarsMenu.accesskey     "Т"> 
+<!ENTITY viewSidebarMenu.label "Ойоҕос панель">
+<!ENTITY viewSidebarMenu.accesskey "О">
+<!ENTITY viewCustomizeToolbar.label       "Туруорууларын чопчулаа…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "Т">
+<!ENTITY viewTabsOnTop.label            "Кыбытыктары үөһэ">
+<!ENTITY viewTabsOnTop.accesskey        "К">
+
+<!ENTITY historyMenu.label "Сурунаал">
+<!ENTITY historyMenu.accesskey "С">
+<!ENTITY historyUndoMenu.label "Соторутааҕыта сабыллыбыт кыбытыктар">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Соторутааҕыта сабыллыбыт түннүктэр">
+<!ENTITY historyRestoreLastSession.label "Бу иннинээҕи сиэссийэни сөргүт">
+
+<!ENTITY historyHomeCmd.label "Дьиэ-сирэй">
+<!ENTITY showAllHistoryCmd2.label "Сурунаалы барытын көрдөр">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY appMenuEdit.label "Көннөрүү">
+<!ENTITY appMenuCustomize.label "Уларыт">
+<!ENTITY appMenuToolbarLayout.label "Үстүрүмүөн хаптаһына">
+<!ENTITY appMenuSidebars.label "Ойоҕос панеллар">
+<!ENTITY appMenuFind.label "Көрдөө...">
+<!ENTITY appMenuUnsorted.label "Наардамматах кыбытык-бэлиэлэр">
+<!ENTITY appMenuWebDeveloper.label "Веб-разработка">
+<!ENTITY appMenuGettingStarted.label "Саҕалааһын">
+<!ENTITY appMenuSafeMode.label "Эбиискэлэри арааран баран хат ыыт…">
+<!ENTITY appMenuSafeMode.accesskey "Э">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "Ситим-сири арый">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Кыбытыгы арый:">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+ -->
+
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
+
+<!ENTITY openLinkCmdInTab.label       "Саҥа кыбытыкка арый">
+<!ENTITY openLinkCmdInTab.accesskey   "к">
+<!ENTITY openLinkCmd.label            "Саҥа түннүккэ арый">
+<!ENTITY openLinkCmd.accesskey        "т">
+<!ENTITY openLinkCmdInCurrent.label     "Сигэни арый">
+<!ENTITY openLinkCmdInCurrent.accesskey "С">
+<!ENTITY openFrameCmdInTab.label      "Фреймы саҥа кыбытыкка арый">
+<!ENTITY openFrameCmdInTab.accesskey  "с">
+<!ENTITY openFrameCmd.label           "Фреймы саҥа түннүккэ арый">
+<!ENTITY openFrameCmd.accesskey       "с">
+<!ENTITY showOnlyThisFrameCmd.label     "Бу эрэ фреймы көрдөр">
+<!ENTITY showOnlyThisFrameCmd.accesskey "Б">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Фреймы саҥарт">
+<!ENTITY reloadFrameCmd.accesskey     "Ф">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Бэлиэтэммити исходнигын көрдөр">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML исходнай куода">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Сирэй исходнига">
+<!ENTITY viewPageSourceCmd.accesskey  "С">
+<!ENTITY viewFrameSourceCmd.label     "Фрейм исходнига">
+<!ENTITY viewFrameSourceCmd.accesskey "Ф">
+<!ENTITY viewPageInfoCmd.label        "Сирэй туһунан">
+<!ENTITY viewPageInfoCmd.accesskey    "т">
+<!ENTITY viewFrameInfoCmd.label       "Фрейм туһунан">
+<!ENTITY viewFrameInfoCmd.accesskey   "т">
+<!ENTITY reloadImageCmd.label         "Ойууну хос киллэр">
+<!ENTITY reloadImageCmd.accesskey     "О">
+<!ENTITY viewImageCmd.label           "Ойууну арыйыы">
+<!ENTITY viewImageCmd.accesskey       "О">
+<!ENTITY viewImageInfoCmd.label       "Ойуу туһунан">
+<!ENTITY viewImageInfoCmd.accesskey   "т">
+<!ENTITY viewVideoCmd.label           "Видеону арый">
+<!ENTITY viewVideoCmd.accesskey       "н">
+<!ENTITY viewBGImageCmd.label         "Кэтэх ойууну арый">
+<!ENTITY viewBGImageCmd.accesskey     " ">
+<!ENTITY setDesktopBackgroundCmd.label      "Остуол ойуута гын…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "О">
+<!ENTITY bookmarkPageCmd2.label       "Бу сирэйи бэлиэтээ">
+<!ENTITY bookmarkPageCmd2.accesskey   " ">
+<!ENTITY bookmarkThisLinkCmd.label      "Бу сигэни бэлиэтээ">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "с">
+<!ENTITY bookmarkThisFrameCmd.label      "Бу сирэйи бэлиэ-кыбытыктарга эп">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "с">
+<!ENTITY emailPageCmd.label           "Email сигэ…">
+<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY savePageCmd.label            "Маннык бигэргэт...">
+<!ENTITY savePageCmd.accesskey        "б">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "р">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Фрейми маннык бигэргэт...">
+<!ENTITY saveFrameCmd.accesskey       "б">
+<!ENTITY printFrameCmd.label          "Фрейми бэчээттээһин…">
+<!ENTITY printFrameCmd.accesskey      "и">
+<!ENTITY saveLinkCmd.label            "Сигэни маннык бигэргэт…">
+<!ENTITY saveLinkCmd.accesskey        "б">
+<!ENTITY saveImageCmd.label           "Ойууну маннык бигэргэт…">
+<!ENTITY saveImageCmd.accesskey       " ">
+<!ENTITY saveVideoCmd.label           "Видеону маннык бигэргэт…">
+<!ENTITY saveVideoCmd.accesskey       "м">
+<!ENTITY saveAudioCmd.label           "Аудиону маннык бигэргэт…">
+<!ENTITY saveAudioCmd.accesskey       "м">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "Email видео…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email аудио…">
+<!ENTITY emailAudioCmd.accesskey      "а">
+<!ENTITY copyLinkCmd.label            "Сигэни төгүлээ">
+<!ENTITY copyLinkCmd.accesskey        "г">
+<!ENTITY copyImageCmd.label           "Ойууга сигэни хатылаа">
+<!ENTITY copyImageCmd.accesskey       "г">
+<!ENTITY copyImageContentsCmd.label   "Ойууну хатылаа">
+<!ENTITY copyImageContentsCmd.accesskey  "т"> 
+<!ENTITY copyVideoURLCmd.label        "Видеоҕа сигэни төгүллээ">
+<!ENTITY copyVideoURLCmd.accesskey    "г">
+<!ENTITY copyAudioURLCmd.label        "Аудиоҕа сигэни төгүллээ">
+<!ENTITY copyAudioURLCmd.accesskey    "г">
+<!ENTITY copyEmailCmd.label           "Email-ы төгүллээ">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.label              "Бу фреймҥэ">
+<!ENTITY thisFrameMenu.accesskey          "ф">
+<!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+
+<!ENTITY mediaPlay.label             "Оонньот">
+<!ENTITY mediaPlay.accesskey         "О">
+<!ENTITY mediaPause.label            "Тохтото түс">
+<!ENTITY mediaPause.accesskey        "Т">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Тыаһаабат гын">
+<!ENTITY mediaMute.accesskey         "Т">
+<!ENTITY mediaUnmute.label           "Тыаһын баар гын">
+<!ENTITY mediaUnmute.accesskey       "б">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Салалтаны көрдөр">
+<!ENTITY mediaShowControls.accesskey "С">
+<!ENTITY mediaHideControls.label     "Салалтаны көстүбэт гын">
+<!ENTITY mediaHideControls.accesskey "к">
+<!ENTITY videoFullScreen.label       "Толору экраан">
+<!ENTITY videoFullScreen.accesskey   "Т">
+<!ENTITY videoSaveImage.label        "Каадыры маннык хааллар...">
+<!ENTITY videoSaveImage.accesskey    "х">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Статиистиканы көрдөр">
+<!ENTITY videoShowStats.accesskey    "т">
+<!ENTITY videoHideStats.label        "Статиистиканы кистээ">
+<!ENTITY videoHideStats.accesskey    "т">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label       "Улаатыннар">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "л">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Куччат">
+<!ENTITY fullZoomReduceCmd.accesskey    "ч">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Хаттаан">
+<!ENTITY fullZoomResetCmd.accesskey     "Х">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Тиэкиһи эрэ">
+<!ENTITY fullZoomToggleCmd.accesskey    "Т">
+<!ENTITY fullZoom.label                 "Улаатыннар">
+<!ENTITY fullZoom.accesskey             "У">
+
+<!ENTITY newTabButton.tooltip           "Саҥа кыбытыгы арый">
+<!ENTITY newWindowButton.tooltip        "Саҥа түннүгү арый">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+
+<!ENTITY cutButton.tooltip              "Кырый">
+<!ENTITY copyButton.tooltip             "Төгүллээ">
+<!ENTITY pasteButton.tooltip            "Ук">
+
+<!ENTITY fullScreenButton.tooltip       "Түннүгү экрааҥҥа толору көрдөрөр">
+
+<!ENTITY zoomOutButton.tooltip          "Куччат">
+<!ENTITY zoomInButton.tooltip           "Улаатыннар">
+<!ENTITY zoomControls.label             "Бөдөҥүн салайыы">
+
+<!ENTITY quitApplicationCmdWin.label       "Тахсыы"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "с">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Таҕыс"> 
+<!ENTITY quitApplicationCmd.accesskey   "Т">
+<!ENTITY quitApplicationCmdMac.label    "Маны &brandShortName; бүтэр">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "Сап">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "С">
+
+<!ENTITY pageStyleMenu.label "Сирэй истиилэ">
+<!ENTITY pageStyleMenu.accesskey "т">
+<!ENTITY pageStyleNoStyle.label "Истиилэ суох">
+<!ENTITY pageStyleNoStyle.accesskey "И">
+<!ENTITY pageStylePersistentOnly.label "Сирэй сүрүн истиилэ">
+<!ENTITY pageStylePersistentOnly.accesskey "С">
+
+<!ENTITY pageReportIcon.tooltip            "Бу ситим-сир ойон тахсар түннүктэрин хааччахтыыры уларыт">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Ойон тахсар түннүктэри хайыыры уларыт...">
+<!ENTITY editPopupSettings.label "Ойон тахсар түннүктэри хайыыры уларыт...">
+<!ENTITY editPopupSettings.accesskey "О">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Сирэйгэ тиэкис хайысхатын уларыт">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "х">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Тиэкис хайысхатын уларыт">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "х">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Бу сирэйтэн бул...">
+<!ENTITY findOnCmd.accesskey "Б">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Хат көрдөө">
+<!ENTITY findAgainCmd.accesskey "к">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Тылдьыттары эп…">
+<!ENTITY spellAddDictionaries.accesskey "Т">
+
+<!ENTITY editBookmark.done.label                     "Оҥоһулунна">
+<!ENTITY editBookmark.cancel.label                   "Салҕаама">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+<!ENTITY identity.unverifiedsite2 "Бу ситим-сир дьиҥнээҕин туһунан туох да суох.">
+<!ENTITY identity.connectedTo "Манна холбоммуккун">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "манан салаллар">
+
+<!ENTITY identity.moreInfoLinkText "Сиһилии...">
+
+<!ENTITY downloadMonitor2.tooltip "Маны баттаан хачайдыыры көрдөрөр түннүгү арый">
+
+<!ENTITY allTabs.filter.emptyText "Кыбытыктары көрдөөһүн">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Браузер кыбытыктара">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
+<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; туруоруулара…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Синхроннаа">
+<!ENTITY syncSyncNowItem.accesskey    "С">
+<!ENTITY syncToolbarButton.label      "Синхронизация">
+
+<!ENTITY addonBarCloseButton.tooltip  "Эбиискэ хаптаһынын сап">
+<!ENTITY toggleAddonBarCmd.key        "/">
+<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
+located in front of the breadcrumbs display in the inspector toolbar. The button
+doesn't display any label, but exposes a label to screen-readers with "aria-label".
+-->
+
+<!ENTITY markupButton.arialabel          "Бэлиэтээһин">
+<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
+toolbar button -->
+<!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Социал-ситимнэр хапталлара">
+<!ENTITY social.notLoggedIn.label   "Бэлиэтэммэтэххин">
+
+<!ENTITY social.ok.label       "Сөп">
+<!ENTITY social.ok.accesskey   "С">
+
+<!ENTITY social.toggleSidebar.label "Ойоҕос хапталы көрдөр">
+<!ENTITY social.toggleSidebar.accesskey "О">
+
+<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "Төннөр">
+<!ENTITY social.activated.undobutton.accesskey "Т">

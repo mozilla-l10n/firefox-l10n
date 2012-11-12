@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/openLocation.xul -->
+
+
+<!ENTITY enter.label "Интэриниэт аадырыһы суруй (URL), эбэтэр арыйыаххын баҕарар диискэҕэ баар билэҕин ый:">  
+<!ENTITY chooseFile.label "Билэни тал…">
+<!ENTITY newTab.label "Саҥа кыбытыкка">
+<!ENTITY newWindow.label "Саҥа түннүккэ">
+<!ENTITY topTab.label "Бу кыбытыкка">
+<!ENTITY caption.label "Аадырыһы арыйыы">
+<!ENTITY openWhere.label "Манна арый:">
+<!ENTITY openBtn.label "Ас">

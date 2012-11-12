@@ -1,0 +1,135 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
+<!ENTITY places.library.title  "Билибитиэкэ">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Тэрийии">
+<!ENTITY organize.accesskey    "Т">
+<!ENTITY organize.tooltip      "Кыбытык бэлиэлэри уларытыы">
+
+<!ENTITY file.close.label               "Сап">
+<!ENTITY file.close.accesskey           "С">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Көстүү">
+<!ENTITY views.accesskey                "К">
+<!ENTITY views.tooltip                  "Көстүүтүн уларытыы">
+<!ENTITY view.columns.label             "Колуонкалары көрдөр">
+<!ENTITY view.columns.accesskey         "к">
+<!ENTITY view.sort.label                "Наардааһын">
+<!ENTITY view.sort.accesskey            "Н">
+<!ENTITY view.unsorted.label            "Наардааһына суох">
+<!ENTITY view.unsorted.accesskey        "Н">
+<!ENTITY view.sortAscending.label       "Алпаабытынан наардааһын">
+<!ENTITY view.sortAscending.accesskey   "А">
+<!ENTITY view.sortDescending.label      "Төттөрү наардааһын">
+<!ENTITY view.sortDescending.accesskey  "н">
+
+<!ENTITY importBookmarksFromHTML.label     "HTML-билэттэн кыбытык бэлиэлэри импортаа…">
+<!ENTITY importBookmarksFromHTML.accesskey "H">
+<!ENTITY exportBookmarksToHTML.label       "HTML-билэттэн кыбытык бэлиэлэри экспортаа…">
+<!ENTITY exportBookmarksToHTML.accesskey   "H">
+<!ENTITY importOtherBrowser.label          "Атын браузертан дааннайы импортааһын…">
+<!ENTITY importOtherBrowser.accesskey      "и">
+
+<!ENTITY cmd.backup.label               "Сөргүтэр копията оҥор…">
+<!ENTITY cmd.backup.accesskey           "С">
+<!ENTITY cmd.restore2.label             "Сөргүт">
+<!ENTITY cmd.restore2.accesskey         "С">
+<!ENTITY cmd.restoreFromFile.label      "Билэни талыы…">
+<!ENTITY cmd.restoreFromFile.accesskey  "т">
+
+<!ENTITY cmd.bookmarkLink.label         "Бу сирэйи бэлиэ-кыбытыкка киллэр...">
+<!ENTITY cmd.bookmarkLink.accesskey     "Б">
+<!ENTITY cmd.delete.label               "Бу сирэйи сот">
+<!ENTITY cmd.delete.accesskey           "Б">
+<!ENTITY cmd.deleteDomainData.label     "Бу ситим-сири умнарга">
+<!ENTITY cmd.deleteDomainData.accesskey "Б">
+
+<!ENTITY cmd.open.label                  "Арый">
+<!ENTITY cmd.open.accesskey              "А">
+<!ENTITY cmd.open_window.label           "Саҥа түннүккэ арый">
+<!ENTITY cmd.open_window.accesskey       "т">
+<!ENTITY cmd.open_tab.label              "Саҥа кыбытыкка арый ">
+<!ENTITY cmd.open_tab.accesskey          "к">
+<!ENTITY cmd.open_all_in_tabs.label      "Барытын кыбытыктарга арый">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "к">
+
+<!ENTITY cmd.properties.label      "Уратылар">
+<!ENTITY cmd.properties.accesskey  "р">
+
+<!ENTITY cmd.sortby_name.label              "Аатынан наардаа">
+<!ENTITY cmd.sortby_name.accesskey          "А">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Саҥа бэлиэ...">
+<!ENTITY cmd.new_bookmark.accesskey        "б">
+<!ENTITY cmd.new_folder.label              "Саҥа паапка…">
+<!ENTITY cmd.new_folder.accesskey          "а">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "Саҥа быыс">
+<!ENTITY cmd.new_separator.accesskey       "б">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Сонуннар лиэнтэлэрин саҥардан биэр">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "С">
+
+<!ENTITY cmd.moveBookmarks.label                  "Көһөр…">
+<!ENTITY cmd.moveBookmarks.accesskey              "К">
+
+<!ENTITY col.name.label          "Аат">
+<!ENTITY col.tags.label          "Бэлиэлэр">
+<!ENTITY col.url.label           "Аадырыс">
+<!ENTITY col.lastvisit.label     "Киирии күнэ-дьыла">
+<!ENTITY col.visitcount.label    "Киирии ахсаана">
+<!ENTITY col.keyword.label       "Күлүүс тыл">
+<!ENTITY col.description.label   "Сиһилии">
+<!ENTITY col.dateadded.label     "Эбилиннэ">
+<!ENTITY col.lastmodified.label  "Бүтэһик барыл">
+
+<!ENTITY search.label                              "Көрдөөһүн:">
+<!ENTITY search.accesskey                          "К">
+
+<!ENTITY search.in.label                           "Манна көрдөө:">
+<!ENTITY search.scopeFolder.label                  "Талыллыбыт паапка">
+<!ENTITY search.scopeFolder.accesskey              "л">
+<!ENTITY search.scopeBookmarks.label               "Бэлиэ кыбытыктар">
+<!ENTITY search.scopeBookmarks.accesskey           "л">
+<!ENTITY search.scopeDownloads.label               "Хачайдааһыннар">
+<!ENTITY search.scopeDownloads.accesskey           "Х">
+<!ENTITY search.scopeHistory.label                 "Сурунаал">
+<!ENTITY search.scopeHistory.accesskey             "у">
+<!ENTITY saveSearch.label                          "Бигэргэт">
+<!ENTITY saveSearch.accesskey                      "Б">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "Импорт уонна бэкап">
+<!ENTITY maintenance.accesskey  "И">
+<!ENTITY maintenance.tooltip    "Кыбытык бэлиэлэри импортааһын уонна бэкап">
+
+<!ENTITY backButton.tooltip  "Төнүн">
+
+<!ENTITY forwardButton.tooltip  "Инники бар">
+
+<!ENTITY detailsPane.more.label "Улаатыннар">
+<!ENTITY detailsPane.more.accesskey "л">
+<!ENTITY detailsPane.less.label "Куччат">
+<!ENTITY detailsPane.less.accesskey "у">
+<!ENTITY detailsPane.selectAnItemText.description "Элэмиэн ис тутулун көрөргө уонна көннөрөргө бэйэтин тал">
+
+<!ENTITY find.label               "Көрдөөһүн:">
+<!ENTITY find.accesskey           "К">
+<!ENTITY view.label               "Көстүүтэ">
+<!ENTITY view.accesskey           "т">
+<!ENTITY byDate.label             "Кэминэн">
+<!ENTITY byDate.accesskey         "К">
+<!ENTITY bySite.label             "Ситим-сирдэринэн">
+<!ENTITY bySite.accesskey         "с">
+<!ENTITY byMostVisited.label      "Киирии ахсаанынан">
+<!ENTITY byMostVisited.accesskey  "а">
+<!ENTITY byLastVisited.label      "Кэнники киирии кэминэн">
+<!ENTITY byLastVisited.accesskey  "к">
+<!ENTITY byDayAndSite.label       "Кэминэн уонна ситим-сирдэринэн">
+<!ENTITY byDayAndSite.accesskey   "у">

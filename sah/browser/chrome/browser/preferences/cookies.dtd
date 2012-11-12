@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                       "36em">
+
+<!ENTITY     cookiesonsystem.label          "Эн көмпүүтэриҥ маннык куукалары өйүгэр хатаабыт:">
+<!ENTITY     cookiename.label               "Куука аата">
+<!ENTITY     cookiedomain.label             "Ситим-сир"> 
+<!ENTITY     button.removecookies.label     "Куукалары сот">
+<!ENTITY     button.removecookie.label      "Кууканы сот">
+<!ENTITY     button.removecookie.accesskey  "К">
+<!ENTITY     button.removeallcookies.label  "Бары кууканы сот">
+<!ENTITY     button.removeallcookies.accesskey "к">
+
+<!ENTITY     props.name.label               "Аат:">
+<!ENTITY     props.value.label              "Иһинээҕитэ:">
+<!ENTITY     props.domain.label             "Хост:">
+<!ENTITY     props.path.label               "Суол:">
+<!ENTITY     props.secure.label             "Маннык буоллаҕына ыытаар:">
+<!ENTITY     props.expires.label            "Болдьоҕо ааһан эрэр:">
+
+<!ENTITY     window.title                   "Куукалар">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
+
+<!ENTITY     filter.label                   "Көрдөөһүн:">
+<!ENTITY     filter.accesskey               "К">
+
+<!ENTITY     button.close.label             "Сап">
+<!ENTITY     button.close.accesskey         "С">
