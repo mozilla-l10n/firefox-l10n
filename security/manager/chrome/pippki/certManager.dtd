@@ -101,7 +101,7 @@
 
 <!ENTITY exceptionMgr.title                   "Tambahkan Pengecualian Keamanan">
 <!ENTITY exceptionMgr.exceptionButton.label   "Konfirmasi Pengecualian Keamanan">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "k">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "K">
 <!ENTITY exceptionMgr.supplementalWarning     "Bank, toko, atau situs publik yang sah tidak akan menanyakan hal berikut kepada Anda.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Lokasi:">

@@ -8,3 +8,4 @@
 <!ENTITY webapps.perm.offline "Penyimpanan data luring">
 <!ENTITY webapps.perm.notifications "Pemberitahuan desktop">
 <!ENTITY webapps.perm.requestedHint "(diminta)">
+<!ENTITY webapps.add-homescreen "Add to home screen">
