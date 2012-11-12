@@ -15,8 +15,8 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "I weithredu eich dyfais newydd, dewiswch “Gosod &syncBrand.shortName.label;” ar y ddyfais.">
-<!ENTITY sync.subtitle.header.label "Rhowch y cod yma ar eich cyfrifiadur">
-<!ENTITY sync.subtitle.connectlocation.label "Dewiswch “&sync.title.pair.label;” yn adran &syncBrand.shortName.label; dewisiadau bwrdd gwaith Firefox.">
+<!ENTITY sync.subtitle.header2.label "Rhowch y cod yma ar eich dyfais arall">
+<!ENTITY sync.subtitle.connectlocation2.label "Dewiswch “&sync.title.pair.label;” yn adran &syncBrand.shortName.label; dewisiadau Firefox eich dyfais arall.">
 <!ENTITY sync.subtitle.pair.label "I weithredu, dewiswch “Paru dyfais” yn eich dyfais arall.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">

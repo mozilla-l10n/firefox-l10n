@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
 <!ENTITY aboutSupport.pageSubtitle "  Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiol
-pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynnau
+pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau
 cyffredin am &brandShortName;, edrychwch ar ein wefan cefnogi <a id='supportLink'></a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Estyniadau">
@@ -58,4 +58,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Hanes Gosod">
 <!ENTITY aboutSupport.updateHistoryTitle "Hanes Diweddaru">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copïo popeth i'r clipfwrdd">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copïo testun i'r clipfwrdd">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copïo data bras i'r clipfwrdd">
