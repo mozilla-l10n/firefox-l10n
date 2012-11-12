@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Open Recent">
 <!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "சேமி">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -52,7 +55,7 @@
 
 <!ENTITY run.label                    "Run">
 <!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "R">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspect">
 <!ENTITY inspect.accesskey            "I">
@@ -101,6 +104,10 @@
 
 <!ENTITY resetContext2.label          "Reset Variables">
 <!ENTITY resetContext2.accesskey      "T">
+
+<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Execute">
 <!ENTITY executeMenu.accesskey        "X">

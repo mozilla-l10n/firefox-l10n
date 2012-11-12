@@ -4,8 +4,8 @@
 
 <!ENTITY tracking.label                 "கண்காணிப்பு">
 
-<!ENTITY doNotTrack.label               "நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label               " நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
+<!ENTITY doNotTrack.accesskey           "வ">
 
 <!ENTITY  history.label                 "வரலாறு">
 
