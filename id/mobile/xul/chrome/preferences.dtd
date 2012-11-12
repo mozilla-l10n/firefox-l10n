@@ -25,3 +25,4 @@
 <!ENTITY homepage.default                          "Memulai &brandShortName;">
 <!ENTITY homepage.currentpage                      "Gunakan Laman Sekarang">
 <!ENTITY showCharsetEncoding.title                 "Tampilkan pengodean karakter">
+<!ENTITY actionbar.default                         "&brandShortName; Settings">

@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Pengembalian Sesi">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "Tampaknya hal ini cukup memalukan.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; mengalami masalah saat mencoba mengembalikan jendela dan tab dari sesi sebelumnya. Umumnya masalah ini disebabkan oleh laman web terakhir yang dibuka.">
 <!ENTITY restorepage.tryThis        "Anda bisa mencoba untuk:">

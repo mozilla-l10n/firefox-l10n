@@ -20,8 +20,8 @@
 <!ENTITY            renameButton.accesskey "r">
 <!ENTITY            deleteButton.label     "Hapus Profil…">
 <!ENTITY            deleteButton.accesskey "H">
-
 <!-- manager entities -->
+
 <!ENTITY            pmDescription.label    "&brandShortName; menyimpan informasi tentang pengaturan dan data lainnya di profil Anda.">
 
 <!ENTITY            offlineState.label    "Bekerja luring">

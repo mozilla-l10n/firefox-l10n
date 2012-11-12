@@ -18,7 +18,7 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "f">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Tanpa-serif:">
 <!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Spasi tetap:">
@@ -60,8 +60,8 @@
 <!ENTITY minSize.label                            "Ukuran huruf terkecil:">
 <!ENTITY minSize.accesskey                        "t">
 <!ENTITY minSize.none                             "Tidak Ada">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Tanpa Serif">
 
