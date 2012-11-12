@@ -22,17 +22,17 @@
 <!ENTITY chooseFolderMac.label        "Вибрати…">
 <!ENTITY chooseFolderMac.accesskey    "В">
 
-<!ENTITY attachments.incoming.label   "Incoming">
-<!ENTITY attachments.outgoing.label   "Outgoing">
+<!ENTITY attachments.incoming.label   "Вхідні">
+<!ENTITY attachments.outgoing.label   "Вихідні">
 
-<!ENTITY addCloudFileAccount.label        "Add">
-<!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
-<!ENTITY removeCloudFileAccount.label     "Remove">
-<!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorize">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY addCloudFileAccount.label        "Додати">
+<!ENTITY addCloudFileAccount.accesskey    "Д">
+<!ENTITY addCloudFileAccount.description  "Додати нову службу зберігання Filelink">
+<!ENTITY removeCloudFileAccount.label     "Вилучити">
+<!ENTITY removeCloudFileAccount.accesskey "В">
+<!ENTITY authRequired.description         "Для перегляду налаштувань цієї служби зберігання потрібна ваша авторизація.">
+<!ENTITY authRequired.button.label        "Авторизуватись">
+<!ENTITY authRequired.button.accesskey    "А">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
-<!ENTITY enableCloudFileAccountOffer.mb "MB">
+<!ENTITY enableCloudFileAccountOffer.label "Пропонувати поділитись для файлів більших за ">
+<!ENTITY enableCloudFileAccountOffer.mb "Мб">
