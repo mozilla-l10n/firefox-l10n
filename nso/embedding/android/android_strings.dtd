@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "Go beakanya &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Ga go na sekgoba se lekanego bakeng sa gore &brandShortName; e thome.">
+<!ENTITY  error_loading_file "Go bile le phošo ge go be go lekwa go hlahlela difaele tšeo di nyakegago bakeng sa go dira gore &brandShortName; e šome">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
+<!ENTITY  crash_reporter_title "Sebegi sa go pšhatlega ga &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; e pšhatlegile. Dithepo tša gago di swanetše go lokeletšwa go &brandShortName;. Thoma letlakala ge o thoma ka leswa.">
+<!ENTITY  crash_help_message "Hle re thuše go rarolla bothata bjo!">
+<!ENTITY  crash_send_report_message "Romela Mozilla pego ya go pšhatlega">
+<!ENTITY  crash_include_url "Akaretša le aterese ya letlakala">
 <!ENTITY  crash_close_label "Tswalela">
 <!ENTITY  crash_restart_label "Thoma &brandShortName; ka leswa">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
-<!ENTITY  exit_label "Exit">
-<!ENTITY  continue_label "Continue">
+<!ENTITY  sending_crash_report "Go romela pego ya go pšhatlega\u2026">
+<!ENTITY  exit_label "Etšwa">
+<!ENTITY  continue_label "Tšwela pele">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "Di-App tša wepe tša &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Ga go a hwetšwa di-app tša wepe">
 
 <!ENTITY choose_file "Kgetha faele">
