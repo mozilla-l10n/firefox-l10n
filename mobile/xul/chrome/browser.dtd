@@ -2,41 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY urlbar.emptytext      "آدرس یا کلمۀ جست‌و‌جو را وارد کنید">
+
 <!ENTITY back.label            "عقب">
 <!ENTITY forward.label         "جلو">
 <!ENTITY reload.label          "بازآوردن">
 <!ENTITY stop.label            "توقف">
 <!ENTITY go.label              "برو">
-<!ENTITY openLocation.label    "باز کردن نشانی">
 <!ENTITY star.label            "ستاره‌گذاری">
 
+<!ENTITY showTabs.label        "Show Tabs">
 <!ENTITY newtab.label          "زبانهٔ جدید">
 <!ENTITY closetab.label        "بستن زبانه">
 
 <!ENTITY cut.label             "بریدن">
 <!ENTITY copy.label            "نسخه‌برداری">
+<!ENTITY copyAll.label         "Copy All">
 <!ENTITY copylink.label        "نسخه‌برداری از مکان پیوند">
 <!ENTITY paste.label           "چسباندن">
+<!ENTITY pasteAndGo.label      "Paste &amp; Go">
 <!ENTITY delete.label          "حذف">
 <!ENTITY selectAll.label       "انتخاب همه">
 <!ENTITY noSuggestions.label   "(پیشنهادی موجود نیست)">
 <!ENTITY addToDictionary.label "اضافه‌کردن به واژه‌نامه">
+<!ENTITY inputMethod.label     "Select Input Method">
 
+<!ENTITY allPagesHeader.label      "All Pages">
 <!ENTITY bookmarksHeader.label     "نشانک‌ها">
-<!ENTITY bookmarksManage.label     "مدیریت">
+<!ENTITY historyHeader.label       "تاریخچه">
+<!ENTITY desktopHeader.label       "رومیزی">
 
-<!ENTITY editBookmarkRemove.label  "حذف">
+<!ENTITY editBookmarkDialog.title  "ویرایش نشانک">
 <!ENTITY editBookmarkDone.label    "انجام شد">
 <!ENTITY editBookmarkTags.label    "محل افزودن برچسب">
 
-<!ENTITY helperApp.prompt          "مایل به انجام چه کاری با این پرونده هستید؟">
-<!ENTITY helperApp.open            "باز کردن">
-<!ENTITY helperApp.save            "ذخیره کردن">
-<!ENTITY helperApp.nothing         "هیچ‌کدام">
-
-<!ENTITY formHelper.previous       "قبلی">
-<!ENTITY formHelper.next           "بعدی">
-<!ENTITY formHelper.done           "انجام شد">
+<!ENTITY selectHelper.done         "Done">
 
 <!ENTITY addonsHeader.label        "افزودنی‌ها">
 <!ENTITY addonsLocal.label         "افزودنی‌های شما">
@@ -56,7 +56,6 @@
 <!ENTITY addonShowPage.label       "رفتن به صفحه">
 
 <!ENTITY downloadsHeader.label     "بارگیری‌ها">
-
 <!ENTITY downloadShowPage.label    "رفتن به صفحه">
 <!ENTITY downloadShow2.label       "پیدا کردن">
 <!ENTITY downloadOpen2.label       "باز کردن">
@@ -65,16 +64,16 @@
 <!ENTITY downloadResume.label      "ازسرگیری">
 <!ENTITY downloadRetry.label       "تلاش مجدد">
 <!ENTITY downloadRemove.label      "حذف">
+<!ENTITY downloadDelete.label      "Delete">
 <!ENTITY downloadFailed.label      "شکست خورد">
 
 <!ENTITY noResults.label           "هیچ نتیجه‌ای پیدا نشد">
 <!ENTITY allBookmarks.label        "مشاهدهٴ همهٔ نشانک‌ها">
 
-<!ENTITY searchEngine.addSearch    "افزودن جست‌وجو:">
-
 <!ENTITY bookmarkPopup.label       "صفحه نشانک‌گذاری شد">
 <!ENTITY bookmarkRemove.label      "حذف">
 <!ENTITY bookmarkEdit.label        "ویرایش">
+<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
 
 <!ENTITY identity.unverifiedsite2 "این پایگاه وبی از هویت خود اطلاعاتی فراهم نمی‌کند.">
 <!ENTITY identity.connectedTo2 "پایگاهی که به آن متصل هستید:">
@@ -96,3 +95,32 @@
 <!ENTITY consoleErrFile.label      "پروندهٔ مبدأ:">
 <!ENTITY consoleErrLine.label      "سطر:">
 <!ENTITY consoleErrColumn.label    "ستون:">
+
+<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
+<!ENTITY contextSaveImage.label       "ذخیرهٔ تصویر">
+<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
+<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextSaveVideo.label       "ذخیرهٔ ویدیو">
+<!ENTITY contextShareVideo.label      "Share Video">
+<!ENTITY contextPlayMedia.label       "پخش">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextEditBookmark.label    "Edit">
+<!ENTITY contextRemoveBookmark.label  "Remove">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
+
+<!ENTITY pageactions.saveas.pdf      "Save As PDF">
+<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.password.forget "Forget Password">
+<!ENTITY pageactions.quit            "خروج">
+<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "افزودن موتور جست‌وجو">
+<!ENTITY pageactions.charEncoding    "کدگذاری نویسه‌ها">
+
+<!ENTITY appMenu.siteOptions         "Site Options">

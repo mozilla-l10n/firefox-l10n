@@ -8,7 +8,6 @@
 <!ENTITY     props.path.label               "مسیر:">
 <!ENTITY     props.secure.label             "فرستادن برای:">
 <!ENTITY     props.expires.label            "زمان انقضاء:">
-<!ENTITY     props.policy.label             "سیاست:"> 
 
 <!ENTITY     button.allow.label             "اجازه دادن">
 <!ENTITY     button.allow.accesskey         "ج">
