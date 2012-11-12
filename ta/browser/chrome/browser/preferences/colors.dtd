@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  colorsDialog.title              "Colors">
-<!ENTITY  window.width                    "38em">
+<!ENTITY  colorsDialog.title              "நிறங்கள்">
+<!ENTITY  window.width                    "32em">
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "மேலே என் தேர்வுக்குப் பதிலாக, பக்கங்களை அதன் சொந்த நிறங்களை தேர்ந்தெடுக்க அனுமதி">

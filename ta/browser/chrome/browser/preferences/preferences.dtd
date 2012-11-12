@@ -15,9 +15,9 @@
 <!ENTITY  paneTabs.title          "தத்தல்கள்">
 <!ENTITY  paneContent.title       "உள்ளடக்கம்">
 <!ENTITY  paneApplications.title  "பயன்பாடுகள்">
-<!ENTITY  panePrivacy.title       "தனிப்பட்டது">
+<!ENTITY  panePrivacy.title       "தனியுரிமை">
 <!ENTITY  paneSecurity.title      "பாதுகாப்பு">
-<!ENTITY  paneAdvanced.title      "கூடுதல்">
+<!ENTITY  paneAdvanced.title      "உயர்நிலை">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "ஒத்திசை">

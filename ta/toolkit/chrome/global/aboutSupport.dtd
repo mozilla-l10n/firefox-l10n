@@ -57,4 +57,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "நிறுவல் வரலாறு">
 <!ENTITY aboutSupport.updateHistoryTitle "வரலாற்றைப் புதுப்பி">
 
-<!ENTITY aboutSupport.copyToClipboard.label "அனைத்தையும் கிளிப்போர்டில் நகலெடு">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
