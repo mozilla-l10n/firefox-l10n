@@ -32,4 +32,4 @@
      (aboutHome.syncPairDevice): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.syncPairDevice       "Paidhrich inneal">
+<!ENTITY aboutHome.syncPairDevice       "Paidhrich uidheam">

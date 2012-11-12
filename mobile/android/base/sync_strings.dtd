@@ -11,21 +11,21 @@
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Dèan ceangal ri &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Cuir cunntas &syncBrand.fullName.label; ris">
-<!ENTITY sync.title.pair.label "Paidhrich inneal">
+<!ENTITY sync.title.pair.label "Paidhrich uidheam">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Gus an t-inneal ùr agad a chur thuige, tagh “Suidhich &syncBrand.shortName.label;” air an inneal.">
-<!ENTITY sync.subtitle.header.label "Cuir an còd seo a-steach air a\' choimpiutair agad">
-<!ENTITY sync.subtitle.connectlocation.label "Tagh “&sync.title.pair.label;” san earrann &syncBrand.shortName.label; anns na roghainnean Firefox air an desktop agad.">
-<!ENTITY sync.subtitle.pair.label "Gus a chur an thuige, tagh “Paidhrich inneal” air an dàrna inneal agad.">
+<!ENTITY sync.subtitle.connect.label "Gus an t-uidheam ùr agad a ghnìomhachadh, tagh “Suidhich &syncBrand.shortName.label;” air an uidheam.">
+<!ENTITY sync.subtitle.header2.label "Cuir an còd seo a-steach air an uidheam eile agad">
+<!ENTITY sync.subtitle.connectlocation2.label "Tagh “&sync.title.pair.label;” san earrann &syncBrand.shortName.label; anns na roghainnean Firefox air an uidheam eile agad.">
+<!ENTITY sync.subtitle.pair.label "Gus a ghnìomhachadh, tagh “Paidhrich uidheam” air an dàrna uidheam agad.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Seall dhomh mar a nì mi seo.">
 <!ENTITY sync.link.advancedsetup.label "Suidheachadh adhartach…">
-<!ENTITY sync.link.nodevice.label "Chan eil an t-inneal agam an-seo…">
+<!ENTITY sync.link.nodevice.label "Chan eil an t-uidheam agam an-seo…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "A\' feitheamh ris an dàrna inneal…">
+<!ENTITY sync.jpake.subtitle.waiting.label "A\' feitheamh ris an dàrna uidheam…">
 <!-- Account Login Screen -->
 
 <!ENTITY sync.subtitle.account.label "Cuir a-steach fiosrachadh a\' chunntais &syncBrand.fullName.label; agad">
@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "Suidheachadh a làimh">
 <!ENTITY sync.subtitle.nointernet.label "Chan eil ceangal ris an lìon ann.">
 <!ENTITY sync.subtitle.failaccount.label "Dh\'fhàillig cruthachadh a\' chunntais air an uidheam agad.">
-<!ENTITY sync.subtitle.failmultiple.label "A bheil barrachd air aon Firefox air stàladh agad? Chan eil &syncBrand.fullName.label; a\' cur taic ach ri aon stàladh de Firefox aig an aon àm. Thoir air falbh an fheadhainn eile mus cleachd thu &syncBrand.fullName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "A bheil barrachd air aon Firefox air stàladh agad? Chan eil &syncBrand.fullName.label; a\' cur taic ach ri aon stàladh de Firefox aig an aon àm. Thoir air falbh an fheadhainn eile mus cleachd thu &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Tha an suidheachadh deiseil">
@@ -56,7 +56,7 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Roghainnean">
-<!ENTITY sync.summary.pair.label "Ceangail inneal eile ris a’ chunntas &syncBrand.shortName.label; agad">
+<!ENTITY sync.summary.pair.label "Ceangail uidheam eile ris a’ chunntas &syncBrand.shortName.label; agad">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Sguir dheth">
