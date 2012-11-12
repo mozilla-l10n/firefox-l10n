@@ -14,8 +14,6 @@ dom/chrome/layout/htmlparser.properties
 security/manager/chrome/pipnss/nsserrors.properties (grep SSL_ERROR_RX_UNEXPECTED_NEW_SESSION_TICKET, SEC_ERROR_OUT_OF_SEARCH_LIMITS )
 security/manager/chrome/pipnss/pipnss.properties (grep Surname)
 
-mail/feedback/main.dtd
-mail/feedback/main.properties
 M editor/ui/chrome/composer/editor.dtd
 M editor/ui/chrome/composer/editorOverlay.dtd
 M editor/ui/chrome/dialogs/EditorImageProperties.dtd
