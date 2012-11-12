@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutApps.title2                          "অ্যাপস">
+<!ENTITY aboutApps.header                          "আপনার অ্যাপস">
+<!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+
+<!ENTITY aboutApps.noApps.pre "কোন ওয়েব অ্যাপ ইনস্টল করা নেই। এখান থেকে সংগ্রহ করুন ">
+<!ENTITY aboutApps.noApps.middle3 "ফায়ারফক্স মার্কেটপ্লেস">
+<!ENTITY aboutApps.noApps.post ".">
