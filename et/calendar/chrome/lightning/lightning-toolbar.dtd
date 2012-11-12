@@ -34,3 +34,8 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "ä">
 <!ENTITY lightning.toolbar.month.label               "Kuu">
 <!ENTITY lightning.toolbar.month.accesskey           "K">
+
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "Rakenduse menüü">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Kuva rakenduse menüüd">
