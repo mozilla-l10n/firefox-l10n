@@ -9,9 +9,9 @@
 <!ENTITY pixelsPopup.value "pixler">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "Billedets placering:">
+<!ENTITY locationEditField.label "Billedets adresse:">
 <!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Skriv billedets navn eller placering">
+<!ENTITY locationEditField.tooltip "Skriv billedets navn eller adresse">
 <!ENTITY title.label "Titel">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "HTML-attributten &quot;title&quot; der vises som et værktøjstip">

@@ -18,7 +18,7 @@
 <!ENTITY cut.label             "Klip">
 <!ENTITY copy.label            "Kopier">
 <!ENTITY copyAll.label         "Kopier alt">
-<!ENTITY copylink.label        "Kopier link-placering">
+<!ENTITY copylink.label        "Kopier linkadresse">
 <!ENTITY paste.label           "Indsæt">
 <!ENTITY pasteAndGo.label      "Indsæt &amp; hent">
 <!ENTITY delete.label          "Slet">

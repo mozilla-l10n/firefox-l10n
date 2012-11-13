@@ -150,7 +150,7 @@ size. -->
 
 <!ENTITY bookmark_edit_title "Rediger bogmærke">
 <!ENTITY bookmark_edit_name "Navn">
-<!ENTITY bookmark_edit_location "Placering">
+<!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Stikord">
 
 <!ENTITY site_settings_title2       "Webstedsindstillinger…">
