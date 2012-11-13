@@ -1,34 +1,19 @@
-<!--
-# Translator(s):
-#
-# ayesha akhtar <ayesha@ankur.org.bd>
-# alexxed <alexxed@gmail.com>
-# newton <newton@ankur.org.bd>
-#
--->
-<!--
-# Reviewer(s):
-#
-# ayesha akhtar <ayesha@ankur.org.bd>
-# Robin Mehdee <robin@ankur.org.bd>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
 <!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
    - which loads a webapp in a separate process from Firefox.  Webapps loaded
    - in this way have very little application chrome, but the runtime does
    - provide them with some default functionality, like the standard OS
    - menus/menuitems. -->
 
-<!ENTITY fileMenu.label                     "ফাইল">
+
+<!ENTITY fileMenu.label                     "ফাইল (F)">
 <!ENTITY fileMenu.accesskey                 "F">
 
-<!ENTITY quitApplicationCmdWin.label        "প্রস্থান">
+<!ENTITY quitApplicationCmdWin.label        "প্রস্থান (x)">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "প্রস্থান">
+<!ENTITY quitApplicationCmd.label           "প্রস্থান (Q)">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
@@ -39,27 +24,26 @@
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "সব প্রদর্শন">
 
-<!ENTITY editMenu.label                     "সম্পাদনা">
+<!ENTITY editMenu.label                     "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey                 "E">
-<!ENTITY undoCmd.label                      "পূর্বাবস্থায় ফিরিয়ে আনুন">
+<!ENTITY undoCmd.label                      "পূর্বাবস্থায় ফেরানো (U)">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "পুনরায় করুন">
+<!ENTITY redoCmd.label                      "পুনরায় করা (R)">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "কাটা">
+<!ENTITY cutCmd.label                       "কাটা (t)">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "অনুলিপি">
+<!ENTITY copyCmd.label                      "অনুলিপি (C)">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">
-<!ENTITY pasteCmd.label                     "প্রতিলেপন">
+<!ENTITY pasteCmd.label                     "প্রতিলেপন (P)">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "মুছে ফেলুন">
+<!ENTITY deleteCmd.label                    "মুছে ফেলুন D">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "সব নির্বাচন করুন">
+<!ENTITY selectAllCmd.label                 "সব নির্বাচন (A)">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">
-

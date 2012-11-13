@@ -11,9 +11,9 @@
 <!ENTITY aboutWarningButton.label "আমি আরো সাবধান হবো, প্রতিজ্ঞা করছি!">
 <!ENTITY aboutWarningCheckbox.label "পরবর্তী সময়ে এই সতর্কীকরণ প্রদর্শন করা হবে">
 
-<!ENTITY filterPrefs.label "পরিশোধক: (F)">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "পছন্দের নাম">
@@ -22,8 +22,8 @@
 <!ENTITY valueColumn.label "মান">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "ক্রমানুসারে সাজাতে ক্লিক করুন">
-<!ENTITY columnChooser.tooltip "যে কলাম প্রদর্শিত হবে তা নির্বাচন করতে ক্লিক করুন">
+<!ENTITY prefColumnHeader.tooltip "ক্রমানুসারে সাজাতে ক্লিক করুন"> 
+<!ENTITY columnChooser.tooltip "যে কলাম প্রদর্শিত হবে তা নির্বাচন করতে ক্লিক করুন"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

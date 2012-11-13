@@ -15,7 +15,7 @@
 <!ENTITY safeb.palm.accept.label "আমাকে এখান থেকে উদ্ধার করো!">
 <!ENTITY safeb.palm.accept.statustext "প্রধান পাতায় যাও">
 <!ENTITY safeb.palm.decline.label "এই সতর্কবাণী উপেক্ষা করো">
-<!ENTITY safeb.palm.decline.statustext "সতর্কবাণী বন্ধ করো">
+<!ENTITY safeb.palm.decline.statustext "সতর্কবাণী বন্ধ করো" >
 <!ENTITY safeb.palm.notforgery.label2 "এটি ওয়েব জালিয়াতি নয়…">
 <!ENTITY safeb.palm.reportPage.label "এই পৃষ্ঠাটি কেন ব্লক করা হয়েছে?">
 

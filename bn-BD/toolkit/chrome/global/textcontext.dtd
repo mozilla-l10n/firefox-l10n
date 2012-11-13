@@ -17,6 +17,8 @@
 
 <!ENTITY spellAddToDictionary.label "অভিধানে যোগ (o)">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "অ্যাড টু ডিকসনারী এর পূর্বাবস্থায় ফিরুন">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "বানান পরীক্ষা (S)">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(কোন বানান পরামর্শ নেই)">
