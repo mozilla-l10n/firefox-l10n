@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title         "حالت امن &brandShortName;">
-<!ENTITY window.maxWidth              " ۴۰۰">
+<!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "شروع در حالت ایمن">
 <!ENTITY resetProfile.label           "راه‌اندازی مجدد &brandShortName;">
