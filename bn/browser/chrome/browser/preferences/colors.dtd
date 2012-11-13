@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "রং">
-<!ENTITY  window.width                    "৩৮em">
-<!ENTITY  window.macWidth                 "৪১em">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "উপরে নির্বাচিত মানের পরিবর্তে, পৃষ্ঠাগুলো নিজস্ব রং নির্বাচন করতে পারবে A">
 <!ENTITY  allowPagesToUse.accesskey       "A">
