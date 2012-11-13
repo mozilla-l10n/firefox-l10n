@@ -3,18 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!-- These strings are used in the about:home page -->
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; শুরুর পৃষ্ঠা">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
 
 <!ENTITY abouthome.searchEngineButton.label "অনুসন্ধান">
-
-<!ENTITY abouthome.aboutMozilla "মোজিলা সম্পর্কিত">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -24,3 +21,11 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "আপনার ইচ্ছামত আপনি ফায়ারফক্স স্বনির্ধারণ করতে পারেন। <a>হাজারটা অ্যাডঅন থেকে নির্বাচন</a>।">
+
+<!ENTITY abouthome.bookmarksButton.label "বুকমার্ক">
+<!ENTITY abouthome.historyButton.label   "ইতিহাস">
+<!ENTITY abouthome.settingsButton.label  "সেটিং">
+<!ENTITY abouthome.addonsButton.label    "অ্যাড-অন">
+<!ENTITY abouthome.appsButton.label      "মার্কেটপ্লেস">
+<!ENTITY abouthome.downloadsButton.label "ডাউনলোড">
+<!ENTITY abouthome.syncButton.label      "syncBrand.shortName.label;(s)">

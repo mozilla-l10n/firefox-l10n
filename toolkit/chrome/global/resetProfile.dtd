@@ -1,31 +1,15 @@
-<!--
-# Translator(s):
-#
-# ayesha akhtar <ayesha@ankur.org.bd>
-# newton <newton@ankur.org.bd>
-#
--->
-<!--
-# Reviewer(s):
-#
-# ayesha akhtar <ayesha@ankur.org.bd>
-# newton <newton@ankur.org.bd>
-# Robin Mehdee <robin@ankur.org.bd>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "পুনঃনির্ধারণ করুন &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "আপনি কি নিশ্চিত যে আপনি পুনঃনির্ধারণ করতে চান &brandShortName; এটির প্রাথমিক অবস্থায়?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; আপনাকে সংরক্ষিত করার চেষ্টা করবে:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; পুনরায় আরম্ভ করা হবে এবং  সবকিছু মুছে ফেলা হবে।">
-<!ENTITY resetProfile.dialog.button.label "পুনঃনির্ধারণ করুন &brandShortName;">
+<!ENTITY resetProfile.dialog.title        "&brandShortName; পুনঃস্থাপন করা হবে">
+<!ENTITY resetProfile.dialog.description  "আপনি কি নিশ্চিত যে আপনি &brandShortName; এর প্রাথমিক অবস্থায় এটিকে পুন: স্থাপন করতে চান?">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; চেষ্টা করবে সংরক্ষণ করতে আপনার:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; পুনরায় শুরু হবে এবং এর সবকিছু অপসারিত হবে।">
+<!ENTITY resetProfile.dialog.button.label "&brandShortName; পুনঃস্থাপন করা হবে">
 
-<!ENTITY resetProfile.title               "পুনঃনির্ধারণ করুন &brandShortName; এর পূর্বনির্ধারিত অবস্থায়">
-<!ENTITY resetProfile.description         "যদি আপনার কোন বিশেষ সমস্যা থাকে যা আপনি সমাধান করতে পারছেন না, প্রয়োজনীয় তথ্য নিয়ে নতুনভাবে শুরু করুন।">
-<!ENTITY resetProfile.button.label        "পুনঃনির্ধারণ করুন &brandShortName;">
+<!ENTITY resetProfile.title               "&brandShortName; এর পূর্বনির্ধারিত অবস্থায় পুনরায় স্থাপন করুন">
+<!ENTITY resetProfile.description         "যদি আপনার এরকম সমস্যা থাকে যা আপনি সমাধান করতে পারছেন না, নতুনভাবে শুরু করুন আপনার প্রয়োজনীয় তথ্য নিয়ে।">
+<!ENTITY resetProfile.button.label        "&brandShortName; পুনঃস্থাপন করা হবে">
 
-<!ENTITY resetProfile.cleaning.description "&brandShortName এর সময় অনুগ্রহ করে অপেক্ষা করুন: আপনার পুরোনো ডেটা পরিষ্কার করুন…">
-
+<!ENTITY resetProfile.cleaning.description "অনুগ্রহ করে অপেক্ষা করুন &brandShortName; আপনার পুরাতন তথ্য পরিষ্কার করছে…">

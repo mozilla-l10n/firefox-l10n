@@ -3,53 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title "ইমপোর্ট উইজার্ড">
+<!ENTITY migrationWizard.title          "ইমপোর্ট উইজার্ড">
 
-<!ENTITY importFrom.label "উল্লেখিত স্থান থেকে অপশনসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইমপোর্ট করা হবে:">
-<!ENTITY importFromUnix.label "উল্লেখিত স্থান থেকে পছন্দসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইমপোর্ট করা হবে:">
-<!ENTITY importFromBookmarks.label "উল্লেখিত স্থান থেকে বুকমার্ক ইমপোর্ট করা হবে:">
+<!ENTITY importFrom.label               "উল্লেখিত স্থান থেকে অপশনসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইমপোর্ট করা হবে:">
+<!ENTITY importFromUnix.label           "উল্লেখিত স্থান থেকে পছন্দসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য ইমপোর্ট করা হবে:">
+<!ENTITY importFromBookmarks.label      "উল্লেখিত স্থান থেকে বুকমার্ক ইমপোর্ট করা হবে:">
 
-<!ENTITY importFromIE.label "মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার (M)">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "ফায়ারফক্স 0.8, ফায়ারবার্ড বা ফিনিক্স (P)">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "কিছুই ইমপোর্ট করা হবে না (D)">
-<!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "নেটস্কেপ 6, 7 বা মোজিলা ১.x (N)">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "নেটস্কেপ 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "অপেরা (O)">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "ক্যামিনো (C)">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "সাফারি (S)">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "অমনিওয়েব (W)">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "আইক্যাব (i)">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "কনকোয়েরার (K)">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "এপিফেনি (E)">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "গ্যালিওন (G)">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromHTMLFile.label "HTML ফাইল থেকে (F)">
-<!ENTITY importFromHTMLFile.accesskey "F">
+<!ENTITY importFromIE.label             "মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার (M)">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromNothing.label        "কিছুই ইমপোর্ট করা হবে না (D)">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSafari.label         "সাফারি (S)">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "ক্রোম C">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "ফায়ারফক্স x">
+<!ENTITY importFromFirefox.accesskey    "x">
 
-<!ENTITY noMigrationSources.label "বুকমার্ক, ইতিহাস অথবা পাসওয়ার্ড ধারণকারী কোনো প্রোগ্রাম পাওয়া যায়নি।">
+<!ENTITY noMigrationSources.label       "বুকমার্ক, ইতিহাস অথবা পাসওয়ার্ড ধারণকারী কোনো প্রোগ্রাম পাওয়া যায়নি।">
 
-<!ENTITY importSource.title "উল্লেখিত স্থান থেকে সেটিংসমূহ ও তথ্য ইমপোর্ট করা হবে">
-<!ENTITY importItems.title "ইমপোর্ট করা হবে">
-<!ENTITY importItems.label "ইমপোর্ট করার জন্য আইটেম নির্বাচন:">
+<!ENTITY importSource.title             "উল্লেখিত স্থান থেকে সেটিংসমূহ ও তথ্য ইমপোর্ট করা হবে">
+<!ENTITY importItems.title              "ইমপোর্ট করা হবে">
+<!ENTITY importItems.label              "ইমপোর্ট করার জন্য আইটেম নির্বাচন:">
 
-<!ENTITY migrating.title "ইমপোর্ট করা হচ্ছে...">
-<!ENTITY migrating.label "বর্তমানে নিম্নলিখিত আইটেম ইমপোর্ট করা হচ্ছে...">
+<!ENTITY migrating.title                "ইমপোর্ট করা হচ্ছে...">
+<!ENTITY migrating.label                "বর্তমানে নিম্নলিখিত আইটেম ইমপোর্ট করা হচ্ছে...">
 
-<!ENTITY selectProfile.title "প্রোফাইল নির্বাচন">
-<!ENTITY selectProfile.label "নিম্নলিখিত প্রোফাইলগুলি থেকে বর্তমানে ইমপোর্ট করা সম্ভব:">
+<!ENTITY selectProfile.title            "প্রোফাইল নির্বাচন">
+<!ENTITY selectProfile.label            "নিম্নলিখিত প্রোফাইলগুলি থেকে বর্তমানে ইমপোর্ট করা সম্ভব:">
 
-<!ENTITY done.title "ইমপোর্ট সমাপ্ত">
-<!ENTITY done.label "নিম্নলিখিত আইটেমের ইমপোর্ট সফল হয়েছে:">
+<!ENTITY done.title                     "ইমপোর্ট সমাপ্ত">
+<!ENTITY done.label                     "নিম্নলিখিত আইটেমের ইমপোর্ট সফল হয়েছে:">
 

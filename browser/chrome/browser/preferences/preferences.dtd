@@ -3,21 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY prefWindow.titleWin "অপশন">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; পছন্দসমূহ">
+<!ENTITY  prefWindow.titleWin     "অপশন">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; পছন্দসমূহ">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY prefWinMinSize.styleWin2 "width: 50em; min-height: 45em;">
-<!ENTITY prefWinMinSize.styleMac "width: 50em; min-height: 45em;">
-<!ENTITY prefWinMinSize.styleGNOME "width: 50em; min-height: 45em;">
+<!ENTITY  prefWinMinSize.styleWin2      "width: 50em; min-height: 45em;">
+<!ENTITY  prefWinMinSize.styleMac       "width: 50em; min-height: 45em;">
+<!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 45em;">
 
-<!ENTITY paneGeneral.title "সাধারণ">
-<!ENTITY paneTabs.title "ট্যাব">
-<!ENTITY paneContent.title "বিষয়বস্তু">
-<!ENTITY paneApplications.title "অ্যাপ্লিকেশন">
-<!ENTITY panePrivacy.title "গোপনীয়তা">
-<!ENTITY paneSecurity.title "নিরাপত্তা">
-<!ENTITY paneAdvanced.title "উচ্চপর্যায়ের বৈশিষ্ট্য">
+<!ENTITY  paneGeneral.title       "সাধারণ">
+<!ENTITY  paneTabs.title          "ট্যাব">
+<!ENTITY  paneContent.title       "বিষয়বস্তু">
+<!ENTITY  paneApplications.title  "অ্যাপ্লিকেশন">
+<!ENTITY  panePrivacy.title       "গোপনীয়তা">
+<!ENTITY  paneSecurity.title      "নিরাপত্তা">
+<!ENTITY  paneAdvanced.title      "উচ্চপর্যায়">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY paneSync.title "সিঙ্ক">
+<!ENTITY  paneSync.title          "সিঙ্ক">
+<!ENTITY  buttonForward.tooltip   "এক ধাপ এগিয়ে যাও">
+<!ENTITY  buttonBack.tooltip      "এক ধাপ পিছিয়ে যাও">
