@@ -22,16 +22,16 @@
 <!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  closeOtherTabs.label               "To Ntab A Wɔaka No Mu">
 <!ENTITY  closeOtherTabs.accesskey           "W">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Tim sɛ App tab">
-<!ENTITY  pinAppTab.accesskey                "T">
-<!ENTITY  unpinAppTab.label                  "Yi tab ntim">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  pinTab.label                       "Tim tab">
+<!ENTITY  pinTab.accesskey                   "T">
+<!ENTITY  unpinTab.label                     "Yi tab ntim">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Soa-kɔ kuw mu">
 <!ENTITY  moveToGroup.accesskey              "S">
 <!ENTITY  moveToNewGroup.label               "Kuw foforo">
@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspɛkt">
-<!ENTITY inspectMenu.accesskey        "t">
+<!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Inspɛkt ɛlɛmɛnt">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "To Inspɛkta mu">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "To saedbaa mu">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "To sɔftwɛɛ bɔfo tuulbaa mu">
 <!ENTITY devToolbarMenu.label              "Sɔftwɛɛ bɔfo tuulbaa">
@@ -242,9 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Tuul nom pii">
-
-<!ENTITY webConsoleButton.label "Wɛb kɔnsool">
-<!ENTITY inspectorButton.label "Inspɛkta">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Fa HTML a ɛhyɛ mu">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "h">
@@ -450,7 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.label           "Sie Audio Sɛ…">
 <!ENTITY saveAudioCmd.accesskey       "i">
 <!ENTITY emailImageCmd.label          "Emel mfonin…">
-<!ENTITY emailImageCmd.accesskey      "m">
+<!ENTITY emailImageCmd.accesskey      "f">
 <!ENTITY emailVideoCmd.label          "Emel video…">
 <!ENTITY emailVideoCmd.accesskey      "m">
 <!ENTITY emailAudioCmd.label          "Emel ɔdio…">
@@ -534,7 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Bue tab foforo">
 <!ENTITY newWindowButton.tooltip        "Bue tokuro foforo">
-<!ENTITY sidebarCloseButton.tooltip     "To saedbaa no mu">
+<!ENTITY sidebarCloseButton.tooltip     "To saedbaa mu">
 
 <!ENTITY cutButton.tooltip              "Twa">
 <!ENTITY copyButton.tooltip             "Fa">
@@ -621,9 +619,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Brawsa ntab">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "Ntab firi akɔmputa afoforo">
+<!ENTITY syncTabsMenu2.label     "Ntab firi akɔmputa afoforo">
 
 <!ENTITY syncBrand.shortName.label    "Synk">
 
@@ -654,8 +652,8 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Kyerɛ saedbaa">
 <!ENTITY social.toggleSidebar.accesskey "y">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "Kyerɛ dɛsktɔp asɛnka">
+<!ENTITY social.toggleNotifications.accesskey "s">
 
 <!ENTITY social.activated.undobutton.label "Kɔ-ekyiri">
 <!ENTITY social.activated.undobutton.accesskey "K">
