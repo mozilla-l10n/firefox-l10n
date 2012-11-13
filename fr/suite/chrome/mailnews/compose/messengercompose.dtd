@@ -83,7 +83,7 @@
 
 <!ENTITY returnReceiptMenu.label "Demander un accusé réception">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY dsnMenu.label "Notification de l'état de livraison">
+<!ENTITY dsnMenu.label "Notification de l'état de la distribution">
 <!ENTITY dsnMenu.accesskey "N">
 
 <!ENTITY outputFormatMenu.label "Format">
