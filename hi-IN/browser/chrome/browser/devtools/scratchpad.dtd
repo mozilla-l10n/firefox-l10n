@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "हालिया खोलें  (R)">
 <!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "सहेजें">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -101,6 +104,10 @@
 
 <!ENTITY resetContext2.label          "चर फिर सेट करें">
 <!ENTITY resetContext2.accesskey      "T">
+
+<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "चलाएँ">
 <!ENTITY executeMenu.accesskey        "X">
