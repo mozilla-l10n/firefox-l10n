@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Namn:">
 <!ENTITY calendarproperties.readonly.label                 "Skriveverna">
 <!ENTITY calendarproperties.firealarms.label               "Vis alarmar">
-<!ENTITY calendarproperties.cache2.label                   "Snøgglager">
+<!ENTITY calendarproperties.cache3.label                   "Fråkopla støtte">
 <!ENTITY calendarproperties.enabled.label                  "Slå på denne kalenderen">
 <!ENTITY calendarproperties.forceDisabled.label            "Fann ikkje tilbydaren av denne kalenderen. Dette skjer ofte om du har slått av eller avinstallert enkelte utvidingar.">
 <!ENTITY calendarproperties.unsubscribe.label              "Stopp abonnement">

@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Kalender-verktøylinje">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "K">
 <!ENTITY lightning.toolbar.task.name "Oppgåve-verktøylinje">
-<!ENTITY lightning.toolbar.task.accesskey "O">
+<!ENTITY lightning.toolbar.task.name.accesskey "O">
 
 <!ENTITY lightning.toolbar.sync.label "Synkroniser">
 <!ENTITY lightning.toolbar.delete.label "Slett">
@@ -14,8 +14,6 @@
 <!ENTITY lightning.toolbar.print.label "Skriv ut">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-post">
-<!ENTITY lightning.toolbar.mail.accesskey     "E">
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Byt til kalenderfana">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
