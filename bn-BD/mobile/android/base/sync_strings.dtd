@@ -16,7 +16,7 @@
 
 <!ENTITY sync.subtitle.connect.label "নতুন ডিভাইস কার্যকর করতে, ডিভাইসের “syncBrand.shortName.label সেটআপ;” নির্বাচন করুন">
 <!ENTITY sync.subtitle.header2.label "আপনার অন্য ডিভাইসে এই কোড প্রবেশ করান">
-<!ENTITY sync.subtitle.connectlocation2.label "“sync.title.pair.label” নির্বাচন করুন;&syncBrand.shortName.label;;আপনার অন্যান্য ডিভাইসের বিভাগে\\'sফায়ারফক্স অপশন।">
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "সক্রিয় করার জন্য, আপনার অন্য ডিভাইসটির \&quot;একটি ডিভাইস জোড়া দিন\&quot; নির্বাচন করুন।">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">

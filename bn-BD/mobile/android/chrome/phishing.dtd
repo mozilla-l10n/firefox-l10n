@@ -26,4 +26,4 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "সম্ভাব্য ওয়েব জালিয়াতি!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "এই পৃষ্ঠায় কোনো ব্যক্তিগত তথ্য দিলে কেউ আপনার পরিচয় চুরি করে প্রতারনা করতে পারে।">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>এই ধরনের আক্রমণ ফিশিং নামে পরিচিত, এতে নকল ওয়েব পেজ ও ইমেইলের সাহায্যে ব্যবহারকারীদের ধোকা দেয়া হয়।</p><p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>এই ধরনের আক্রমণ ফিশিং নামে পরিচিত, এতে নকল ওয়েব পেজ ও ইমেইলের সাহায্যে ব্যবহারকারীদের ধোকা দেয়া হয়।</p>">
