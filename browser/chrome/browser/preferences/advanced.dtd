@@ -30,10 +30,10 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "&brandShortName; ডিফল্ট ব্রাউজার কিনা তা প্রতিবার শুরুতে পরীক্ষা করা হবে (w) (b)">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "brandShortName &b; পূর্বনির্ধারিত ব্রাউজার তৈরি করুন d">
-<!ENTITY setDefault.accesskey            "b">
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার b">
-<!ENTITY submitCrashes.label             "&Submit; ক্র্যাশ রিপোর্ট জমা দিন">
+<!ENTITY submitCrashes.label             "Submit crash reports">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "কার্যসম্পাদন তথ্য জমা দিন p">
 <!ENTITY submitTelemetry.accesskey       "p">

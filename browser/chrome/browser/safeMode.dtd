@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; নিরাপদ মোড">
-<!ENTITY window.maxWidth              "৪০০">
+<!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "নিরাপদ মোডে শুরু করুন">
 <!ENTITY resetProfile.label           "&brandShortName; পুনঃনির্ধারণ করা হবে b">
