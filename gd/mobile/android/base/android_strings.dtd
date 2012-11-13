@@ -96,7 +96,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \\'s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \\'s gun luaidh air brùthadh eaconamach. \\'S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
+<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \'s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \'s gun luaidh air brùthadh eaconamach. \'S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_show_product_announcements "Seall naidheachdan bathar">
@@ -188,7 +188,7 @@ size. -->
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \\'s na tabaichean agad o uidheaman eile agad&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \'s na tabaichean agad o uidheaman eile agad&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Faigh aplacaidean o mhargaid Mozilla agus feuch gràinnean-mullaich an lìn&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
