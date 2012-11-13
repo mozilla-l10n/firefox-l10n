@@ -20,7 +20,7 @@
 <!ENTITY whitelistHeader.label  "Kirja ei märgita automaatselt rämpspostiks, kui saatja on järgnevates aadressiraamatutes: ">
 <!ENTITY whitelistHeader.accesskey "K">
 
-<!ENTITY ispHeadersWarning.label "Kui see säte on lubatud, siis märgib &brandShortName; automaatselt rämpsuks kirjad, mis on märgistatud ülal määratud filtri poolt.">
+<!ENTITY ispHeadersWarning.label "Selle sätte lubamise korral märgib &brandShortName; ülal määratud filtri poolt märgistatud kirjad automaatselt rämpsuks.">
 <!ENTITY ispHeaders.label       "Usaldatakse rämpsposti päiseid, mille on määranud:">
 <!ENTITY ispHeaders.accesskey   "L">
 

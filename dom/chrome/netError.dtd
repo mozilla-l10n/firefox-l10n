@@ -96,7 +96,7 @@ muidu kasutatakse <em>muul</em> otstarbel kui veebilehitsemine. Veebilehitseja k
 <!ENTITY corruptedContentError.longDesc        "<p>Lehte, mida üritad vaadata, ei saa kuvada, sest andmete edastamisel tuvastati viga.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Palun kontakteeru veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
