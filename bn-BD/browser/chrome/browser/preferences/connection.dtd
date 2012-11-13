@@ -4,8 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "সংযোগের সেটিং">
-<!ENTITY  window.width                  "৩৭em">
-<!ENTITY  window.macWidth               "৩৯em">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ইন্টারনেট সংযোগের জন্য প্রক্সি কনফিগারেশন">
 <!ENTITY  noProxyTypeRadio.label        "কোন প্রক্সি নয় (y)">
