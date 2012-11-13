@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "ফন্ট">
-<!ENTITY  window.width                            "৩৯em">
-<!ENTITY  window.macWidth                         "৪৩em">
-<!ENTITY  window.unixWidth                        "৪১em">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "ফন্ট: (F)">
 <!ENTITY  language.accesskey                      "F">

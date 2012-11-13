@@ -17,7 +17,7 @@
      in-progress downloads and those of blocked downloads.
      -->
 
-<!ENTITY downloads.width                  "৬৫ch">
+<!ENTITY downloads.width                  "65ch">
 
 <!ENTITY cmd.pause.label                  "বিরতি (P)">
 <!ENTITY cmd.pause.accesskey              "P">

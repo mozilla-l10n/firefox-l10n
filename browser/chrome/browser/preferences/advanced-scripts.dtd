@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY advancedJSDialog.title         "JavaScript-এর উচ্চপর্যায়ের সেটিং">
-<!ENTITY window.width                   "৩৭em">
+<!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "স্ক্রিপ্ট যা যা করতে অনুমোদিত:">
 

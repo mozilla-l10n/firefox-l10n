@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width                                   "৩০em">
+<!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "ভাষা">
 <!ENTITY languages.customize.prefLangDescript           "অনেক ক্ষেত্রে ওয়েবপেজগুলি একাধিক ভাষা সমর্থন করে। আপনার পছন্দ অনুসারে, ওয়েবপেজ প্রদর্শনের ভাষা  নির্বাচন করুন।">
