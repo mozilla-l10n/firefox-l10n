@@ -96,7 +96,7 @@
 <!ENTITY proxyConnectFailure.longDesc          "
 <ul>
   <li>Kontrolli puhverserveri sätteid, et teha kindlaks, kas need on õiged.</li>
-  <li>Kontakteeru oma võrguadministraatoriga, et teha kindlaks, kas puhverserver
+  <li>Võta ühendust oma võrguadministraatoriga, et teha kindlaks, kas puhverserver
     töötab korralikult.</li>
 </ul>
 ">
@@ -192,4 +192,4 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Palun kontakteeru veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
