@@ -91,6 +91,10 @@ representation of the language it is used in that will help show the text in the
 size. -->
 <!ENTITY pref_font_size_adjust_char "Aa">
 
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Chyży ryży lisek zwinnym susem skacze wyżej niż się spodziewasz. Jest szysbszy, bezpieczniejszy i łatwiej dostosować go do swoich potrzeb. Jesteśmy organizacją non-profit, więc nie musimy iść na żadne kompromisy i możemy wymyślać innowacje, które będą służyć twojemu dobru. To oznacza więcej wygody dla ciebie i lepszą przyszłość dla Internetu.">
+
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
@@ -204,17 +208,13 @@ size. -->
 <!ENTITY webapp_generic_name "Aplikacja">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
-<!ENTITY updater_start_select "Wybierz, aby pobrać aktualizację.">
+<!ENTITY updater_start_title2 "Dla przeglądarki &brandShortName; dostępne są nowe aktualizacje">
+<!ENTITY updater_start_select2 "Dotknij, aby zaktualizować">
 
-<!ENTITY updater_downloading_title "Pobieranie: &brandShortName;">
-<!ENTITY updater_downloading_ticker "Pobieranie aktualizacji programu &brandShortName;&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Wystąpił błąd przy pobieraniu aktualizacji programu &brandShortName;&#8230;">
-<!ENTITY updater_downloading_select "Wybierz, aby zainstalować aktualizację.">
-<!ENTITY updater_downloading_retry "Wybierz, aby ponownie pobrać aktualizację.">
-<!ENTITY updater_downloading_willapply "Oczekiwanie na zakończenie pobierania.">
+<!ENTITY updater_downloading_title2 "Pobieranie: &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Pobieranie nie udało się">
+<!ENTITY updater_downloading_select2 "Wybierz, zainstalować aktualizację po jej pobraniu">
+<!ENTITY updater_downloading_retry2 "Dotknij, aby spróbować ponownie">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; — dostępna aktualizacja&#8230;">
-<!ENTITY updater_apply_select "Wybierz, aby zainstalować aktualizację.">
+<!ENTITY updater_apply_title2 "Dla przeglądarki &brandShortName; dostępne są nowe aktualizacje">
+<!ENTITY updater_apply_select2 "Dotknij, aby zaktualizować">
