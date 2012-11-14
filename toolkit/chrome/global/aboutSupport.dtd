@@ -56,4 +56,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "ਇੰਸਟਾਲੇਸ਼ਨ ਅਤੀਤ">
 <!ENTITY aboutSupport.updateHistoryTitle "ਅੱਪਡੇਟ ਅਤੀਤ">
 
-<!ENTITY aboutSupport.copyToClipboard.label "ਸਭ ਕਲਿੱਪਬੋਰਡ 'ਚ ਕਾਪੀ ਕਰੋ">
+<!ENTITY aboutSupport.copyTextToClipboard.label "ਟੈਕਸਟ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ਰਾਅ ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ">
