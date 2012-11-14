@@ -7,7 +7,7 @@
 
 <!ENTITY setup.choicePage.title.label     "ਕੀ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਵਰਤਿਆ ਹੈ?">
 <!ENTITY setup.choicePage.new.label       "ਮੈਂ &syncBrand.shortName.label; ਨੂੰ ਪਹਿਲਾਂ ਕਦੇ ਨਹੀਂ ਵਰਤਿਆ">
-<!ENTITY setup.choicePage.existing.label  "ਮੈਂ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਉੱਤੇ ਪਹਿਲਾਂ ਹੀ &syncBrand.shortName.label; ਵਰਤ ਰਿਹਾ ਹਾਂ">
+<!ENTITY setup.choicePage.existing2.label "ਮੈਂ ਹੋਰ ਜੰਤਰ ਉੱਤੇ ਪਹਿਲਾਂ ਹੀ &syncBrand.shortName.label; ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ਸਰਵਰ">
@@ -75,9 +75,9 @@
 <!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "ਸਿੰਕ ਚੋਣਾਂ">
-<!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "ਸਿੰਕ ਕਰੋ">
 <!ENTITY engine.bookmarks.label     "ਮੇਰੇ ਬੁੱਕਮਾਰਕ">
@@ -93,16 +93,17 @@
 <!ENTITY engine.addons.label        "ਐਡ-ਆਨ">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2.merge.main.label      "ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਡਾਟੇ ਨੂੰ ਮੇਰੇ &syncBrand.shortName.label; ਡਾਟੇ ਨਾਲ ਮਿਲਾਉ">
-<!ENTITY choice2.merge.recommended.label "ਸਿਫਾਰਸ਼ੀ:">
-<!ENTITY choice2.client.main.label     "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ ਡਾਟੇ ਨੂੰ ਮੇਰੇ &syncBrand.shortName.label; ਡਾਟੇ ਨਾਲ ਬਦਲ ਦਿਉ">
-<!ENTITY choice2.server.main.label     "ਹੋਰ ਸਭ ਜੰਤਰਾਂ ਨੂੰ ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਡਾਟੇ ਨਾਲ ਬਦਲ ਦਿਉ">
+<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.recommended.label "ਸਿਫਾਰਸ਼ੀ:">
+<!ENTITY choice2a.client.main.label      "ਇਹ ਜੰਤਰ ਦੇ ਸਭ ਡਾਟੇ ਨੂੰ ਮੇਰੇ &syncBrand.shortName.label; ਡਾਟੇ ਨਾਲ ਬਦਲ ਦਿਉ">
+<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "ਪੁਸ਼ਟੀ">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ਹੁਣ ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਸਭ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਤੁਹਾਡੇ ਸਿੰਕ ਅਕਾਊਂਟ ਨਾਲ ਮਿਲਾਏਗਾ।">
-<!ENTITY confirm.client2.label         "ਚੇਤਾਵਨੀ: ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਅੱਗੇ ਦਿੱਤਾ &brandShortName; ਡਾਟਾ ਹਟਾਇਆ ਜਾਵੇਗਾ:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; ਫੇਰ ਤੁਹਾਡੇ &syncBrand.fullName.label; ਡਾਟੇ ਨੂੰ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਕਾਪੀ ਕਰੇਗਾ।">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label         "ਸਾਵਧਾਨ: The following &brandShortName; data on this device  will be deleted:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
 <!ENTITY confirm.server2.label         "ਚੇਤਾਵਨੀ: ਅੱਗੇ ਦਿੱਤੇ ਜੰਤਰਾਂ ਉੱਤੇ ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਲਿਖਿਆ ਜਾਵੇਗਾ:">
 
 <!-- New & Existing Account: Setup Complete -->
