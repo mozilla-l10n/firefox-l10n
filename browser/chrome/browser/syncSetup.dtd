@@ -19,7 +19,7 @@
 <!ENTITY serverType.custom2.label   "Adêuvia in server personalizòu…">
 <!ENTITY signIn.account2.label      "Account">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "Paròlla segrétta">
+<!ENTITY signIn.password.label      "Paròlla segrêta">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.recoveryKey.label       "Ciâve de repìggio">
 <!ENTITY signIn.recoveryKey.accesskey   "C">
@@ -28,7 +28,7 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Detàlli de l'Account">
 <!ENTITY setup.emailAddress.label     "Indirìsso de pòsta">
 <!ENTITY setup.emailAddress.accesskey "e">
-<!ENTITY setup.choosePassword.label      "Çèrni 'na paròlla segrétta">
+<!ENTITY setup.choosePassword.label      "Çèrni 'na paròlla segrêta">
 <!ENTITY setup.choosePassword.accesskey  "p">
 <!ENTITY setup.confirmPassword.label     "Confèrma Paròlla Segrétta">
 <!ENTITY setup.confirmPassword.accesskey "m">
@@ -72,7 +72,7 @@
 <!ENTITY setup.signInPage.title.label "Intra">
 <!ENTITY existingRecoveryKey.description "Ti peu pigiâ 'na còpia da teu Ciâve de repìggio se ti væ inte inpostaçioìn de &syncBrand.shortName.label; inte teu âtri aparâti e ti seleçionn-i &#x0022;A mæ ciâve de repìggio&#x0022; sótta &#x0022;Gestión de l'Account&#x0022;.">
 <!ENTITY verifying.label              "Verifico…">
-<!ENTITY resetPassword.label          "Reinpòsta a paròlla segrétta">
+<!ENTITY resetPassword.label          "Reinpòsta a paròlla segrêta">
 <!ENTITY resetSyncKey.label           "Ò perso o mæ âtro aparâto.">
 
 <!-- Sync Options -->

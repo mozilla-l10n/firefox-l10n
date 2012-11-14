@@ -75,7 +75,7 @@
 <!ENTITY pref_font_size_medium "Médio">
 <!ENTITY pref_font_size_large "Làrgo">
 <!ENTITY pref_font_size_xlarge "Ciù làrgo no se peu">
-<!ENTITY pref_use_master_password "Dêuvia unna paròlla segrétta prinçipâ">
+<!ENTITY pref_use_master_password "Dêuvia unna paròlla segrêta prinçipâ">
 <!ENTITY pref_sync "Scincronìzza">
 <!ENTITY pref_private_data_passwords "Paròlle segrétte sarvæ">
 
@@ -106,10 +106,10 @@
 <!ENTITY site_settings_clear        "Polìsci">
 <!ENTITY site_settings_no_settings  "No gh\'é de inpostaçioìn da scancelâ.">
 
-<!ENTITY masterpassword_create_title "Crêa unna paròlla segrétta prinçipâ">
-<!ENTITY masterpassword_remove_title "Lêva da mêzo a paròlla segrétta prinçipâ">
-<!ENTITY masterpassword_password "Paròlla segrétta">
-<!ENTITY masterpassword_confirm "Confèrma paròlla segrétta">
+<!ENTITY masterpassword_create_title "Crêa unna paròlla segrêta prinçipâ">
+<!ENTITY masterpassword_remove_title "Lêva da mêzo a paròlla segrêta prinçipâ">
+<!ENTITY masterpassword_password "Paròlla segrêta">
+<!ENTITY masterpassword_confirm "Confèrma paròlla segrêta">
 
 <!ENTITY button_ok "Va bén">
 <!ENTITY button_cancel "Anùlla">
@@ -192,4 +192,4 @@
 <!ENTITY pref_font_size_set "Inpòsta">
 <!ENTITY pref_font_size_adjust_char "A">
 <!ENTITY pref_font_size_preview_text "A vórpe cô de çetrón pàssa sórvia ògni òstàcolo con velocitæ de lóngo magiô, flescibilitæ e siguéssa. In quànto organizaçión sénsa fìn de goâgno sémmo càpaci de creâ inovaçoioìn pe o bén di uténti sénsa càzze in prescioìn ò conpromìssi. Quésto scignìfica \'na mêgio esperiénsa pe tùtti e \'n mêgio avegnî pe-o Web.">
-<!ENTITY pref_use_master_password "Adêvia paròlla segrétta prinçipâ">
+<!ENTITY pref_use_master_password "Adêvia paròlla segrêta prinçipâ">

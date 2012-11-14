@@ -30,7 +30,7 @@
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Informaçión do teu cónto &syncBrand.fullName.label;'>
 <!ENTITY sync.input.username.label 'Nómme account'>
-<!ENTITY sync.input.password.label 'Paròlla segrétta'>
+<!ENTITY sync.input.password.label 'Paròlla segrêta'>
 <!ENTITY sync.input.key.label 'Ciâve de repìggio'>
 <!ENTITY sync.checkbox.server.label 'Dêuvia o server preferîo'>
 <!ENTITY sync.input.server.label 'URL do server'>
@@ -86,7 +86,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Creaçión d’account in sciô dispoxitîvo no ariêscia.">
 <!ENTITY sync.button.send.label "Mànda">
 <!ENTITY sync.button.set.up.sync.label "Configuraçión de &syncBrand.shortName.label;">
-<!ENTITY sync.invalidcreds.label "Nómme uténte ò paròlla segrétta sbaliâ">
+<!ENTITY sync.invalidcreds.label "Nómme uténte ò paròlla segrêta sbaliâ">
 <!ENTITY sync.invalidserver.label "Scrîvi un indirìsso vàlido pe-o server">
 <!ENTITY sync.subtitle.failmultiple.label "L\'é stæto instalòu ciù verscioìn de Firefox? &syncBrand.shortName.label; a-o moménto o no l\'é in gràddo de soportâ ina sôla instalaçión de Firefox. Scancelâ e âtre verscioìn pe adêuviâ &syncBrand.shortName.label;.">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Configûa &syncBrand.fullName.label; pe mandâ i féuggi a âtri dispoxitîvi.">
