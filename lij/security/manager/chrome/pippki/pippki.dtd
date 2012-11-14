@@ -14,7 +14,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Reinpòsta">
 <!ENTITY resetPassword.title  "Reinpòsta a paròlla segrêta prinçipâ">
-<!ENTITY resetPassword.text  "Se ti ti reinposti a teu paròlla segrêta prinçipâ tùtti e teu paròlle segrétte de mail e web, i dæti di mòdoli, i certificâti personâ e ciâvi privæ saiàn ascordæ. T'ê segûo de reinpostâ a teu paròlla segrêta prinçipâ?">
+<!ENTITY resetPassword.text  "Se ti ti reinposti a teu paròlla segrêta prinçipâ tùtti e teu paròlle segrétte de mail e web, i dæti di mòdoli, i certificâti personâli e ciâvi privæ saiàn scancelæ. T'ê segûo de reinpostâ a teu paròlla segrêta prinçipâ?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Inserisci a paròlla segrêta prinçipâ">
