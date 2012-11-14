@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Be platser att inte spåra mig">
 <!ENTITY pref_telemetry "Skicka prestandadata">
 <!ENTITY pref_remember_signons "Spara lösenord">
-<!ENTITY pref_cookies "Aktivera kakor">
+
+<!ENTITY pref_cookies "Kakor">
+<!ENTITY pref_cookies_accept_all "Aktiverade">
+<!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
+<!ENTITY pref_cookies_disabled "Inaktiverade">
+
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
 <!ENTITY pref_char_encoding_off "Visa ingen meny">
