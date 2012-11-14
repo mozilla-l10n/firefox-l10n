@@ -16,7 +16,7 @@
 <!ENTITY sync.fallback              "No són vexìn a-o mæ computer…">
 <!ENTITY sync.setup.manual          "Introdûxi l'informaçión do teu cónto Sync">
 <!ENTITY sync.account               "Nómme de l'account">
-<!ENTITY sync.password              "Paròlla segrétta">
+<!ENTITY sync.password              "Paròlla segrêta">
 <!ENTITY sync.recoveryKey           "Ciâve de repìggio">
 <!ENTITY sync.customServer          "Dêuvia o server preferîo">
 <!ENTITY sync.serverURL             "URL do server">
