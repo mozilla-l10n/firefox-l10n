@@ -30,7 +30,7 @@
 <!ENTITY setup.emailAddress.accesskey "e">
 <!ENTITY setup.choosePassword.label      "Çèrni 'na paròlla segrêta">
 <!ENTITY setup.choosePassword.accesskey  "p">
-<!ENTITY setup.confirmPassword.label     "Confèrma Paròlla Segrétta">
+<!ENTITY setup.confirmPassword.label     "Confèrma Paròlla Segrêta">
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
