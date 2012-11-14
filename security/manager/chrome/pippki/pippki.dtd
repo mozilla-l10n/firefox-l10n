@@ -19,7 +19,7 @@
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Inserisci a paròlla segrêta prinçipâ">
 <!ENTITY getPassword.tokenName2.label "Aparâti de seguéssa:">
-<!ENTITY getPassword.password.label "Paròlla Segrétta:">
+<!ENTITY getPassword.password.label "Paròlla Segrêta:">
 
 <!-- These should be common -->
 <!ENTITY piperror.title "Erô">

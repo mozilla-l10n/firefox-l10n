@@ -124,7 +124,7 @@ can reach it easily. -->
 <!ENTITY reloadCmd.label              "Recàrega">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Recàrega a pàgina corénte">
-<!ENTITY stopCmd.label                "Férma">
+<!ENTITY stopCmd.label                "Fèrma">
 <!ENTITY stopCmd.accesskey            "F">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Fèrmite de caregâ sta pàgina">
