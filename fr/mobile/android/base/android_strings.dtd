@@ -70,7 +70,12 @@
 <!ENTITY pref_do_not_track "Dire de ne pas me pister">
 <!ENTITY pref_telemetry "Envoyer données de perf.">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
-<!ENTITY pref_cookies "Autoriser les cookies">
+
+<!ENTITY pref_cookies "Cookies">
+<!ENTITY pref_cookies_accept_all "Autorisés">
+<!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
+<!ENTITY pref_cookies_disabled "Non autorisés">
+
 <!ENTITY pref_char_encoding "Encodage de caractères">
 <!ENTITY pref_char_encoding_on "Afficher le menu">
 <!ENTITY pref_char_encoding_off "Masquer le menu">
