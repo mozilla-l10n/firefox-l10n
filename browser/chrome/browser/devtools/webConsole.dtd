@@ -14,3 +14,35 @@
 <!ENTITY networkPanel.responseNoBody              "କୌଣସି ବିଷୟବସ୍ତୁ ଉତ୍ତର ନାହିଁ">
 <!ENTITY networkPanel.responseImage               "ଗ୍ରହଣକରାଯାଇଥିବା ପ୍ରତିଛବି">
 <!ENTITY networkPanel.responseImageCached         "କ୍ୟାଶେ ପ୍ରତିଛବି">
+
+<!ENTITY btnClear.label        "ସଫାକରନ୍ତୁ">
+<!ENTITY btnClear.tooltip      "ୱେବ କୋନସଲ ଫଳାଫଳକୁ ସଫାକରନ୍ତୁ">
+<!ENTITY btnClose.tooltip      "ଏହି ୱେବ କୋନସଲକୁ ବନ୍ଦ କରନ୍ତୁ">
+<!ENTITY btnConsoleErrors       "ତ୍ରୁଟିଗୁଡ଼ିକ">
+<!ENTITY btnConsoleInfo         "ସୂଚନା">
+<!ENTITY btnConsoleWarnings     "ଚେତାବନୀଗୁଡ଼ିକ">
+<!ENTITY btnConsoleLog          "ଲଗ">
+<!ENTITY btnPageCSS.label   "CSS">
+<!ENTITY btnPageCSS.tooltip "CSS ପଦବ୍ୟାଖ୍ୟା ତ୍ରୁଟିଗୁଡ଼ିକୁ ଲଗ କରନ୍ତୁ">
+<!ENTITY btnPageJS.label    "JS">
+<!ENTITY btnPageJS.tooltip  "JavaScript ବ୍ୟତୀକ୍ରମଗୁଡ଼ିକୁ ଲଗ କରନ୍ତୁ">
+<!ENTITY btnPageLogging.label   "ଲଗ କରୁଅଛି">
+<!ENTITY btnPageLogging.tooltip "window.console ବସ୍ତୁ ପାଖକୁ ପଠାଯାଇଥିବା ଲଗ ସନ୍ଦେଶଗୁଡ଼ିକ">
+<!ENTITY btnPageNet.label   "ନେଟ">
+<!ENTITY btnPageNet.tooltip "ଲଗ ନେଟୱର୍କ ପ୍ରବେଶାନୁମତି">
+<!ENTITY btnPosition.label     "ସ୍ଥାନ">
+<!ENTITY btnPosition.tooltip   "ୱେବ କୋନସଲକୁ ଦଲିଲ ଉପରେ କିମ୍ବା ତଳେ ରଖନ୍ତୁ">
+<!ENTITY filterBox.placeholder "ଛାଣକ">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY positionMenu.above    "ଉପର">
+<!ENTITY positionMenu.below    "ତଳ">
+<!ENTITY positionMenu.window   "ୱିଣ୍ଡୋ">
+<!ENTITY saveBodies.label     "ଲଗ ଅନୁରୋଧ ଏବଂ ଉତ୍ତର ଲିଖିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY saveBodies.accesskey "L">
+<!ENTITY window.title "ୱେବ କୋନସଲ">
