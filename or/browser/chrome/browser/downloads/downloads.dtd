@@ -36,6 +36,4 @@
 <!ENTITY cmd.removeFromList.accesskey     "e">
 <!ENTITY cmd.clearList.label              "ତାଲିକାକୁ ସଫା କରନ୍ତୁ">
 <!ENTITY cmd.clearList.accesskey          "a">
-
-<!ENTITY downloadshistory.label           "ସମସ୍ତ ଆହରଣଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY downloadshistory.accesskey       "S">
+<!ENTITY downloads.width                  "65ch">
