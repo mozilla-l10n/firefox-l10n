@@ -103,14 +103,14 @@
 
 
 <!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.label           "পুনরায় লোড এবং চালু করুন e">
+<!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
