@@ -207,7 +207,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "معراض الوب">
 <!ENTITY webConsoleCmd.accesskey      "و">
 <!ENTITY webConsoleCmd.commandkey     "k">
-<!ENTITY remoteWebConsoleCmd.label    "مِعراض وب عن بعد">
 
 <!ENTITY inspectMenu.label            "افحص">
 <!ENTITY inspectMenu.accesskey        "ص">
