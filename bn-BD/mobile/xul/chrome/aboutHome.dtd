@@ -13,7 +13,7 @@
 <!ENTITY aboutHome.noTabs                       "সর্বশেষ অবস্থা হতে কোন ট্যব নেই">
 <!ENTITY aboutHome.noAddons                     "কোন সুপারিশকৃত অ্যাড-অন নেই">
 <!ENTITY aboutHome.getLocale                    "ভাষা পরিবর্তন করুন">
-<!ENTITY aboutHome.getInBeforeBeta              "Get in before Beta.">
+<!ENTITY aboutHome.getInBeforeBeta              "বেটার পূর্বে পান।">
 <!ENTITY aboutHome.tryAurora                    "ফায়ারফক্স অরোরা ব্যবহার করুন এবং ফায়ারফক্সের ভবিষ্যতের জন্য সহায়তা করুন।">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.

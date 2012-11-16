@@ -11,7 +11,7 @@
   -  should be displayed or not. -->
 
 
-<!ENTITY userStylesLabel    "Only user styles">
+<!ENTITY userStylesLabel    "শুধুমাত্র ব্যাবহারকারীর স্টাইল">
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 
@@ -20,24 +20,24 @@
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
 
-<!ENTITY selectedElementLabel  "Selected element:">
+<!ENTITY selectedElementLabel  "নির্বাচিত বিষয়বস্ত:">
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
 
-<!ENTITY noPropertiesFound     "No CSS properties found.">
+<!ENTITY noPropertiesFound     "কোনো CSS বৈশিষ্ট্যাবলী পাওয়া যায়নি।">
 <!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
   -  the panel shows whether there are any selectors that do not match the
   -  currently selected element. -->
 
-<!ENTITY unmatchedSelectors    "Unmatched selectors">
+<!ENTITY unmatchedSelectors    "নির্বাচক মেলেনি">
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
   -  For every rule, the rule status is also displayed: a rule can be the best
   -  match, a match, a parent match, or a rule did not match the element the
   -  user has highlighted. -->
 
-<!ENTITY bestMatch             "Best Match">
-<!ENTITY matched               "মিলে যায়">
-<!ENTITY parentMatch           "প্যারেন্ট মিলেছে">
+<!ENTITY bestMatch             "সবচেয়ে বেশি মিল">
+<!ENTITY matched               "মিলেছে">
+<!ENTITY parentMatch           "পেরেন্ট মিল করুন">
 <!ENTITY unmatched             "মিল পাওয়া যায়নি">

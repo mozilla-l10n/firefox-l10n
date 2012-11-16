@@ -29,12 +29,12 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
+<!ENTITY saveBodies.label     "লগ অনুরোধ এবং প্রতিক্রিয়া অংশ L">
 <!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.label     "নতুন ট্যাবে URL লিংক খোলা হবে T">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -52,7 +52,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Logging">
+<!ENTITY btnPageLogging.label   "লগ হচ্ছে">
 <!ENTITY btnPageLogging.tooltip "উইন্ডোতে লগ বার্তা প্রেরণ করা হয়েছে।কনসোল অবজেক্ট">
 <!ENTITY btnConsoleErrors       "ত্রুটি">
 <!ENTITY btnConsoleInfo         "তথ্য">
@@ -73,16 +73,16 @@
 <!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
   -  Web Console interface is displayed below the web page. -->
 
-<!ENTITY positionMenu.below    "Below">
+<!ENTITY positionMenu.below    "নিচে">
 <!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
   -  Web Console interface is displayed in a floating panel. -->
 
 <!ENTITY positionMenu.window   "উইন্ডো">
 
-<!ENTITY filterBox.placeholder "Filter">
-<!ENTITY btnClear.label        "Clear">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
+<!ENTITY filterBox.placeholder "ফিল্টার">
+<!ENTITY btnClear.label        "মুছে ফেলুন">
+<!ENTITY btnClear.tooltip      "ওয়েব কনসোল আউটপুট পরিষ্কার করুন">
+<!ENTITY btnClose.tooltip      "ওয়েব কনসোল বন্ধ করুন">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
