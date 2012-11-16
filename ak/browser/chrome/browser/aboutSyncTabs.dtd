@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
 
-<!ENTITY tabs.otherDevices.label               "Ntab firi akɔmputa afoforo">
+<!ENTITY tabs.otherDevices.label               "Ntab a wofiri mfidie afoforo so">
 
 <!ENTITY tabs.searchText.label                   "Bɔ wɔ ha fa hwehwɛ ntab…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):

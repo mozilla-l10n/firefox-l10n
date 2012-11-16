@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "a">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Fidie Din;">
+<!ENTITY syncDeviceName.accesskey   "i">
 <!ENTITY unlinkDevice.label           "Yi Saa Efidie yi Lenke">
 <!-- Footer stuff -->
 
