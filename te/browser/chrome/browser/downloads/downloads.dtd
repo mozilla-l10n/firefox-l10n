@@ -37,5 +37,7 @@
 <!ENTITY cmd.clearList.label              "జాబితా తుడిచివేయి">
 <!ENTITY cmd.clearList.accesskey          "a">
 
-<!ENTITY downloadshistory.label           "అన్ని డౌనులోడులను చూపు">
-<!ENTITY downloadshistory.accesskey       "S">
+
+<!ENTITY downloads.width                  "65ch">
+
+

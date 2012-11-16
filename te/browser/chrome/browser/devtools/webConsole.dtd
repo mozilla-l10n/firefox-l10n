@@ -18,3 +18,35 @@
 <!ENTITY networkPanel.responseNoBody              "స్పందన బాడీ లేదు">
 <!ENTITY networkPanel.responseImage               "స్వీకరించిన ప్రతిబింబము">
 <!ENTITY networkPanel.responseImageCached         "క్యాచీడ్ ప్రతిబింబము">
+<!ENTITY btnClear.label        "శుభ్రం">
+<!ENTITY btnClear.tooltip      "వెబ్‌కన్సోల్ అవుట్పుట్ శుభ్రం">
+<!ENTITY btnClose.tooltip      "వెబ్‌కన్సోల్ మూయి">
+<!ENTITY btnConsoleErrors       "దోషాలు">
+<!ENTITY btnConsoleInfo         "సమాచారం">
+<!ENTITY btnConsoleLog          "లాగ్">
+<!ENTITY btnConsoleWarnings     "హెచ్చరికలు">
+<!ENTITY btnPageCSS.label   "CSS">
+<!ENTITY btnPageCSS.tooltip "CSS పార్సింగ్ దోషాలను లాగ్ చేయి">
+<!ENTITY btnPageJS.label    "JS">
+<!ENTITY btnPageJS.tooltip  "జావాస్క్రిప్ట్ ఆక్షేపణలను లాగ్ చేయి">
+<!ENTITY btnPageLogging.label   "లాగ్‌చేస్తోంది">
+<!ENTITY btnPageLogging.tooltip "లాగ్ సందేశాలు window.console ఆబ్జక్టుకు పంపబడెను">
+<!ENTITY btnPageNet.label   "నెట్">
+<!ENTITY btnPageNet.tooltip "నెట్వర్కు యాక్సెస్ లాగ్">
+<!ENTITY btnPosition.label     "స్థానం">
+<!ENTITY btnPosition.tooltip   "వెబ్ కన్సోల్‌ను పత్రము పైన లేదా కిందన వుంచుము">
+<!ENTITY filterBox.placeholder "వడపోత">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY positionMenu.above    "పైన">
+<!ENTITY positionMenu.below    "కింద">
+<!ENTITY positionMenu.window   "విండో">
+<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.label     "లాగ్ అభ్యర్ధన మరియు స్పందన బాడీలు">
+<!ENTITY window.title "వెబ్ కన్సోల్">
+
