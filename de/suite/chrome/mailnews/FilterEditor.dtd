@@ -17,12 +17,12 @@
 <!ENTITY highestPriorityCmd.label "Höchste">
 
 <!ENTITY contextDesc.label "Filter anwenden bei:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Prüfung nach Mail">
+<!ENTITY contextIncomingMail.label "Abfragen neuer Mails:">
+<!ENTITY contextIncomingMail.accesskey "b">
 <!ENTITY contextManual.label "Manuellem Ausführen">
-<!ENTITY contextBoth.label "Prüfung nach Mail oder manuellem Ausführen">
-<!ENTITY contextPostPlugin.label "Prüfung nach Mail (nach Klassifizierung)">
-<!ENTITY contextPostPluginBoth.label "Prüfung nach Mail (nach Klassifizierung) oder manuellem Ausführen">
+<!ENTITY contextManual.accesskey "n">
+<!ENTITY contextBeforeCls.label "Filtern vor Junk-Klassifizierung">
+<!ENTITY contextAfterCls.label "Filtern nach Junk-Klassifizierung">
 
 <!ENTITY filterActionDesc.label "Diese Aktionen ausführen:">
 <!ENTITY filterActionDesc.accesskey "D">
