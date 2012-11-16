@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Legosignoj">
 <!ENTITY bookmarksButton.tooltip        "Montri viajn legosignojn">
-<!ENTITY bookmarksButton.accesskey  "L">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Historio">
 <!ENTITY historyButton.tooltip          "Montri antaŭ nelonge viditajn paĝojn">
-<!ENTITY historySidebarCmd.accesskey    "H">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Iloj">
