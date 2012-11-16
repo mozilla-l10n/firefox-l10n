@@ -16,14 +16,14 @@
 
 <!ENTITY window.title               "স্টাইল সম্পাদনা">
 
-<!ENTITY newButton.label            "New">
+<!ENTITY newButton.label            "নতুন N">
 <!ENTITY newButton.tooltip          "নথিতে একটি নতুন স্টাইল শীট তৈরি করুন এবং সংযুক্ত করুন">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "n">
 
-<!ENTITY importButton.label         "Import…">
+<!ENTITY importButton.label         "ইমপোর্ট করুন… m">
 <!ENTITY importButton.tooltip       "নথিতে একটি বিদ্যমান স্টাইল শীট আনয়ন এবং সংযুক্ত করুন">
-<!ENTITY importButton.accesskey     "I">
+<!ENTITY importButton.accesskey     "m">
 <!ENTITY importButton.commandkey    "i">
 
 <!ENTITY visibilityToggle.tooltip   "স্টাইল শীটের দৃশ্যমানতা টগল করুন">

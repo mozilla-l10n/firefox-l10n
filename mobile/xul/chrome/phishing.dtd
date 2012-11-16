@@ -26,4 +26,4 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "সম্ভাব্য ওয়েব জালিয়াতি!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "এই পৃষ্ঠায় কোনো ব্যক্তিগত তথ্য দিলে কেউ আপনার পরিচয় চুরি করে প্রতারনা করতে পারে।">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>স্ক্যামে ব্যবহৃত এই ধরনের ওয়েব জালিয়াতি ফিশিং আক্রমণ নামে পরিচিত, এতে নকল উৎস হতে ওয়েব পেজ ও ইমেইলের সাহায্যে জালিয়াতি করা হয় যা কিনা আপনার কাছে বিশ্বাসযোগ্য মনে হবে।</p>">
