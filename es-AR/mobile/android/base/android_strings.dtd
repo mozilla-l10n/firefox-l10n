@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Decirle a los sitios que no me rastreen">
 <!ENTITY pref_telemetry "Enviar datos de rendimiento">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
+
 <!ENTITY pref_cookies "Habilitar cookies">
+<!ENTITY pref_cookies_accept_all "Habilitadas">
+<!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excepto de terceros">
+<!ENTITY pref_cookies_disabled "Deshabilitadas">
+
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Muy chico">
 <!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
@@ -112,6 +118,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
 
+<!ENTITY pref_update_autodownload "Actualizaciones automáticas">
+<!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Deshabilitadas">
+<!ENTITY pref_update_autodownload_enabled "Habilitadas">
+
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
@@ -126,6 +137,7 @@ size. -->
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
 <!ENTITY tools "Herramientas">
+<!ENTITY new_pb_tab "Nueva pestaña de navegación privada">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -183,7 +195,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Tus pestañas de la última vez">
 <!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Más visitados">
-<!ENTITY abouthome_top_sites_browse "Ver todos los más visitados">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

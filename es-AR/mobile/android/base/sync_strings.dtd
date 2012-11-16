@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Opciones'>
 <!ENTITY sync.summary.pair.label 'Asociar otro dispositivo a tu cuenta de &syncBrand.shortName.label;'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Qué sincronizar'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sincronizar…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Marcadores'>
+<!ENTITY sync.configure.engines.title.passwords 'Contraseñas'>
+<!ENTITY sync.configure.engines.title.history 'Historial'>
+<!ENTITY sync.configure.engines.title.tabs 'Pestañas'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Cancelar'>
 <!ENTITY sync.button.connect.label 'Conectar'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Solamente se soporta una cuenta de  &syncBrand.fullName.label;.'>
+<!ENTITY sync.notification.configure.saved 'Tus selecciones fueron guardadas.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Nombre de cuenta o contraseña incorrecta.'>

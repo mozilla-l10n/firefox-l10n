@@ -5,4 +5,4 @@
 <!-- Labels -->
 <!ENTITY newfolderchoosethis.label "elegir ésta para el nivel superior">
 <!ENTITY filemessageschoosethis.label "elija esta carpeta">
-
+<!ENTITY recentfolders.label            "Recientes">
