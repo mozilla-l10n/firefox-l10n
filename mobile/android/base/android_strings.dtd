@@ -55,7 +55,7 @@
 <!ENTITY close_tab "Zavrieť kartu">
 <!ENTITY new_tab "Nová karta">
 <!ENTITY one_tab "1 karta">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "Počet kariet: &#037;d">
 <!ENTITY new_tab_opened "Nová karta otvorená">
@@ -70,7 +70,12 @@
 <!ENTITY pref_do_not_track "Požiadať stránky, aby nesledovali moju aktivitu">
 <!ENTITY pref_telemetry "Odosielať údaje o výkonnosti">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
-<!ENTITY pref_cookies "Povoliť cookies">
+
+<!ENTITY pref_cookies "Súbory cookies">
+<!ENTITY pref_cookies_accept_all "Povolené">
+<!ENTITY pref_cookies_not_accept_foreign "Povolené, okrem cookies tretích strán">
+<!ENTITY pref_cookies_disabled "Zakázané">
+
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobraziť ponuku">
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
