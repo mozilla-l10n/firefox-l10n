@@ -71,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Nas lugha">
 <!ENTITY decreaseFontSize.accesskey "N">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Nas motha">
 <!ENTITY increaseFontSize.accesskey "N">
 <!ENTITY increaseFontSize.key "+">

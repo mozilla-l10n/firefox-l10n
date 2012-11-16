@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Cuir an t-earr-sgrìobhadh agam ann an teachdaireachdan a tha mi a' sìneadh air adhart">
 <!ENTITY includeSigOnForward.accesskey        "C">
+
+<!ENTITY globalComposingPrefs.label           "Roghainnean sgrìobhaidh uile-choitcheann…">
+<!ENTITY globalComposingPrefs.accesskey       "R">
+
+<!ENTITY globalAddressingPrefs.label          "Roghainnean sheòlaidhean uile-choitcheanns…">
+<!ENTITY globalAddressingPrefs.accesskey      "o">
