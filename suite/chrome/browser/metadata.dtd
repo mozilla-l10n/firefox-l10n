@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY no-properties.label   "Sin propiedades.">
 
 <!ENTITY caption.label         "Propiedades de elemento">
@@ -8,6 +12,7 @@
 <!ENTITY image-width.label     "Ancho:">
 <!ENTITY image-height.label    "Altura:">
 <!ENTITY image-filesize.label  "Tamaño de archivo:">
+<!ENTITY image-filesize.value  "Desconocido">
 <!ENTITY insdel-sec.label      "Insertar/borrar propiedades">
 <!ENTITY insdel-cite.label     "Información:">
 <!ENTITY insdel-date.label     "Fecha:">
