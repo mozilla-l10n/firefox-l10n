@@ -81,7 +81,6 @@
 <!ENTITY pref_plugins_tap_to_play "Toqueu per engegar">
 <!ENTITY pref_plugins_disabled "Inhabilitat">
 <!ENTITY pref_text_size "Mida de la lletra">
-<!ENTITY pref_reflow_on_zoom "Habilita el reflux de zoom">
 <!ENTITY pref_font_size_tiny "Molt petita">
 <!ENTITY pref_font_size_small "Petita">
 <!ENTITY pref_font_size_medium "Mitjana">
@@ -97,7 +96,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d'innovar en el vostre nom sense cap tipus de pressió a l'hora de comprometre'ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al Web.">
+<!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\'innovar en el vostre nom sense cap tipus de pressió a l\'hora de comprometre\'ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_show_product_announcements "Mostra notícies de producte">
@@ -237,15 +236,15 @@ de l\'Android">
 
 <!ENTITY webapp_generic_name "Aplicacions">
 
-<!ENTITY searchable_description "Adreces d'interès i historial">
+<!ENTITY searchable_description "Adreces d\'interès i historial">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_start_select2 "Toqueu per baixar">
  
-<!ENTITY updater_downloading_title2 "S'està baixant el &brandShortName;">
+<!ENTITY updater_downloading_title2 "S\'està baixant el &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ha fallat la baixada">
-<!ENTITY updater_downloading_select2 "Toqueu per aplicar l'actualització un cop baixada">
+<!ENTITY updater_downloading_select2 "Toqueu per aplicar l\'actualització un cop baixada">
 <!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
  
 <!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">
