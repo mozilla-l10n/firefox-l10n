@@ -4,6 +4,7 @@
 
 <!ENTITY downloads.title "Загрузки">
 <!ENTITY downloadDetails.width "50ch">
+<!ENTITY downloadsSummary.minWidth "28ch">
 <!ENTITY cmd.pause.label "Приостановить">
 <!ENTITY cmd.pause.accesskey "н">
 <!ENTITY cmd.resume.label "Возобновить">
@@ -23,3 +24,5 @@
 <!ENTITY cmd.removeFromList.accesskey "л">
 <!ENTITY cmd.clearList.label "Очистить список">
 <!ENTITY cmd.clearList.accesskey "ч">
+<!ENTITY downloadsHistory.label "Показать все загрузки">
+<!ENTITY downloadsHistory.accesskey "а">

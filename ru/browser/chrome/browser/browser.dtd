@@ -127,7 +127,6 @@
 <!ENTITY feedButton.tooltip "Подписаться на ленты новостей…">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
-<!ENTITY bookmarksButton.accesskey "к">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Закладки">
 <!ENTITY bookmarksMenuButton.tooltip "Показать ваши закладки">
@@ -138,7 +137,6 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Журнал">
 <!ENTITY historyButton.tooltip "Отобразить список недавно просмотренных страниц">
-<!ENTITY historySidebarCmd.accesskey "Ж">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Инструменты">
 <!ENTITY toolsMenu.accesskey "И">
