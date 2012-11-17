@@ -511,7 +511,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Stizzar la cronologia…">
+<!ENTITY clearRecentHistory.label "Stizzar la cronologia pli nova…">
 <!ENTITY clearRecentHistory.accesskey "c">
 <!ENTITY accountManagerCmd.label "Configuraziun da contos…">
 <!ENTITY accountManagerCmd.accesskey "S">
@@ -554,7 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Posiziun da l'ordinatur">
 <!ENTITY tagButton.label "Etichetta">
 <!ENTITY compactButton.label "Cumprimer">
-<!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.label "Menu cumpact">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Tschertga da messadis avanzada">

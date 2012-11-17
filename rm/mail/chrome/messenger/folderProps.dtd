@@ -68,6 +68,6 @@
 <!ENTITY numberOfMessages.label                  "Dumber da messadis:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "nunenconuschent">
-<!ENTITY sizeOnDisk.label                        "Grondezza da memorisar:">
+<!ENTITY sizeOnDisk.label                        "Grondezza occupada:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "nunenconuschent">
