@@ -56,7 +56,10 @@
 <!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
 <!ENTITY pref_remember_signons "Запоминать пароли">
-<!ENTITY pref_cookies "Включить куки">
+<!ENTITY pref_cookies "Куки">
+<!ENTITY pref_cookies_accept_all "Включены">
+<!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
+<!ENTITY pref_cookies_disabled "Отключены">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
