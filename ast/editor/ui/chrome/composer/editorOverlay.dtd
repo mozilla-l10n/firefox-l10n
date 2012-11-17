@@ -332,3 +332,4 @@
 <!ENTITY removeTOC.accesskey "r">
 <!ENTITY tocMenu.label "Tabla de conteníos…">
 <!ENTITY tocMenu.accesskey "b">
+<!ENTITY decreaseFontSize.key2 ",">

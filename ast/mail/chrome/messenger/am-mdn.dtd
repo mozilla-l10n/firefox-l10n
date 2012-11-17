@@ -24,3 +24,5 @@
 <!ENTITY askMe.label "Entrugame">
 <!ENTITY alwaysSend.label "Unviar siempre">
 <!ENTITY neverSend.label "Nun unviar enxamás">
+<!ENTITY globalReceipts.label "Preferencies xenerales…">
+<!ENTITY globalReceipts.accesskey "a">

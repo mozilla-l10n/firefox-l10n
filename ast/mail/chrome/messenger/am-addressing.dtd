@@ -26,3 +26,7 @@
 <!ENTITY includeSigOnReply.accesskey "I">
 <!ENTITY includeSigOnForward.label "Incluyir robla en los re-unvios">
 <!ENTITY includeSigOnForward.accesskey "I">
+<!ENTITY globalComposingPrefs.label "Preferencies xenerales de redaición…">
+<!ENTITY globalComposingPrefs.accesskey "P">
+<!ENTITY globalAddressingPrefs.label "Preferencies xenerales de direiciones…">
+<!ENTITY globalAddressingPrefs.accesskey "a">

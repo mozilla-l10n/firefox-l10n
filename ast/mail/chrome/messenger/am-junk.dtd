@@ -19,3 +19,5 @@
 <!ENTITY trainingDescription.label "Si ta activáu, primero vas tener que deprender a &brandShortName; a identificar el corréu puxarra usando'l botón Puxarra de la barra de ferramientes pa conseñar los mensaxes que son corréu puxarra y los que non. Necesites identificar unos y otros como parte del deprendizax. Tres d'ello, &brandShortName; va ser a identificar el corréu puxarra automáticamente.">
 <!ENTITY whitelistHeader.label "Nun marcar automáticamente mensaxes como corréu puxarra si'l remitente ta en:">
 <!ENTITY whitelistHeader.accesskey "N">
+<!ENTITY globalJunkPrefs.label "Preferencies xenerales de corréu puxarra…">
+<!ENTITY globalJunkPrefs.accesskey "P">
