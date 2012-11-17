@@ -11,7 +11,7 @@
 <!ENTITY editButton.accesskey "M">
 <!ENTITY deleteButton.label "Stizzar">
 <!ENTITY deleteButton.accesskey "z">
-<!ENTITY reorderTopButton "Plazzar survart">
+<!ENTITY reorderTopButton "Plazzar sisum">
 <!ENTITY reorderTopButton.accessKey "i">
 <!ENTITY reorderTopButton.toolTip "Spustar il filter uschia ch'el vegn exequì avant tut ils auters">
 <!ENTITY reorderUpButton.label "Ensi">
