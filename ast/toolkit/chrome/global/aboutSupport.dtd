@@ -27,7 +27,8 @@
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instalaciones">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'anovamientos">
-<!ENTITY aboutSupport.copyToClipboard.label "Copiar too al cartafueyu">
 <!ENTITY aboutSupport.a11yTitle "Accesibilidá">
 <!ENTITY aboutSupport.a11yActivated "Activáu">
 <!ENTITY aboutSupport.a11yForceDisabled "Torgar accesibilidá">
+<!ENTITY aboutSupport.copyTextToClipboard.label "">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "">
