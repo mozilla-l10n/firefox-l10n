@@ -225,23 +225,6 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "o">
 <!ENTITY viewAttachmentsInlineCmd.label "Ver axuntos incorporaos">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-<!ENTITY fullZoomEnlargeCmd.label "Agrandar">
-<!ENTITY fullZoomEnlargeCmd.accesskey "A">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Amenorgar">
-<!ENTITY fullZoomReduceCmd.accesskey "m">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Restablecer">
-<!ENTITY fullZoomResetCmd.accesskey "R">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Namái ampliar testu">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "Tamañu">
-<!ENTITY fullZoom.accesskey "T">
 <!ENTITY pageSourceCmd.label "Formatu orixinal del mensaxe">
 <!ENTITY pageSourceCmd.accesskey "F">
 <!ENTITY pageSourceCmd.key "u">
@@ -742,3 +725,12 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY manageTags.label "Alministrar etiquetes…">
 <!ENTITY manageTags.accesskey "m">
+<!ENTITY clearRecentHistory.label "Llimpiar historial recién…">
+<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY appmenuToolbarLayout.label "Disposición de la barra de ferramientes…">
+<!ENTITY appmenuQFBMenu.label "Barra de filtráu rápidu">
+<!ENTITY appmenuNewMsgCmd.label "Mensaxe nuevu">
+<!ENTITY appmenuNewContactCmd.label "Contautu de la llibreta de direiciones…">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuButton.tooltip "Amuesa'l menú d'aplicaciones">
+<!ENTITY appmenuButton.label "AppMenu">

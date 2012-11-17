@@ -24,8 +24,3 @@
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Desaminar…">
 <!ENTITY browse.accesskey "E">
-<!ENTITY addonsMgr.label "Complementos">
-<!ENTITY manageAddonsDescWin.label "Camudar opciones de los complementos">
-<!ENTITY manageAddonsDescUnix2.label "Cambiar preferencies de los complementos">
-<!ENTITY manageAddons.label "Alministrar complementos…">
-<!ENTITY manageAddons.accesskey "A">
