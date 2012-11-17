@@ -127,7 +127,6 @@
 <!ENTITY feedButton.tooltip "Abbonati a questa pagina…">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
-<!ENTITY bookmarksButton.accesskey "a">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
 <!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
@@ -138,7 +137,6 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Cronologia">
 <!ENTITY historyButton.tooltip "Visualizza le pagine visitate recentemente">
-<!ENTITY historySidebarCmd.accesskey "C">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Strumenti">
 <!ENTITY toolsMenu.accesskey "S">
