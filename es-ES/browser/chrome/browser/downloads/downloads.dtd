@@ -4,6 +4,7 @@
 
 <!ENTITY downloads.title "Descargas">
 <!ENTITY downloadDetails.width "50ch">
+<!ENTITY downloadsSummary.minWidth "28ch">
 <!ENTITY cmd.pause.label "Pausar">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.label "Continuar">
@@ -23,3 +24,5 @@
 <!ENTITY cmd.removeFromList.accesskey "e">
 <!ENTITY cmd.clearList.label "Limpiar lista">
 <!ENTITY cmd.clearList.accesskey "a">
+<!ENTITY downloadsHistory.label "Mostrar todas las descargas">
+<!ENTITY downloadsHistory.accesskey "S">
