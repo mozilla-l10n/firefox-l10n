@@ -127,8 +127,7 @@
 <!ENTITY feedButton.tooltip "Suscribirse a esta página…">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
-<!ENTITY bookmarksButton.accesskey "c">
-<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksCmd.commandkey "d">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip "Mostrar sus marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
@@ -138,7 +137,6 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Historial">
 <!ENTITY historyButton.tooltip "Mostrar páginas que ha visto recientemente">
-<!ENTITY historySidebarCmd.accesskey "s">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Herramientas">
 <!ENTITY toolsMenu.accesskey "T">
