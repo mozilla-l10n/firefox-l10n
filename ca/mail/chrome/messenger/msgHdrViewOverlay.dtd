@@ -70,7 +70,7 @@
 <!-- Attachment bar context menu items -->
 
 <!ENTITY startExpandedCmd.label    "Inicialment mostra la subfinestra d'adjuncions">
-<!ENTITY startExpandedCmd.accesskey    "S">
+<!ENTITY startExpandedCmd.accesskey    "s">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "Obre">

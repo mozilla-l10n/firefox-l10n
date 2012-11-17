@@ -71,10 +71,12 @@
 <!ENTITY decreaseFontSize.label "Més petita">
 <!ENTITY decreaseFontSize.accesskey "p">
 <!ENTITY decreaseFontSize.key "-">
+<!-- < is above this key on many keyboards -->
+<!ENTITY decreaseFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Més gran">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards -->
+<!-- > is above this key on many keyboards -->
 <!ENTITY increaseFontSize.key2 "="> 
 
 <!ENTITY fontSizeMenu.label "Mida">
