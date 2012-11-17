@@ -652,7 +652,7 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Mussar la trav laterala">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.toggleNotifications.label "Mussar avertiments sin il desktop">
+<!ENTITY social.toggleNotifications.label "Mussar avis sin il desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Revocar">
