@@ -19,7 +19,7 @@
 <!-- am-addressing.xul -->
 
 
-<!ENTITY compositionGroupTitle.label "Redacció">
+<!ENTITY compositionGroupTitle.label          "Redacció">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Redacta els missatges en format HTML">
 <!ENTITY useHtml.accesskey                    "H">
@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "r">
 <!ENTITY includeSigOnForward.label            "Inclou la signatura als reenviaments">
 <!ENTITY includeSigOnForward.accesskey        "r">
+
+<!ENTITY globalComposingPrefs.label           "Preferències globals de redacció...">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Preferències globals d'adreçament...">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

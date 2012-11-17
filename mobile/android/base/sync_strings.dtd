@@ -15,8 +15,8 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Per activar un nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» a l\'altre dispositiu">
-<!ENTITY sync.subtitle.header.label "Introduïu aquest codi a l\'altre ordinador">
-<!ENTITY sync.subtitle.connectlocation.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del vostre Firefox d\'escriptori">
+<!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l'altre dispositiu">
+<!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l'altre dispositiu.">
 <!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu»a l\'altre dispositiu. ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -68,7 +68,7 @@
 <!-- Bookmark folder strings -->
   
 <!ENTITY bookmarks.folder.menu.label "Menú de les adreces d\'interès">
-<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetes">
 <!ENTITY bookmarks.folder.toolbar.label "Barra d\'eines de les adreces">
 <!ENTITY bookmarks.folder.unfiled.label "Adreces desordenades">
@@ -83,7 +83,7 @@
 <!ENTITY sync.invalidcreds.label "El nom del compte o de la contrasenya són incorrectes.">
 <!ENTITY sync.invalidserver.label "Introduïu un URL de servidor vàlid">
 <!ENTITY sync.verifying.label "S\'està verificant…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Recovery Key incorrect. Please try again.">
+<!ENTITY sync.new.recoverykey.status.incorrect "Clau de recuperació incorrecta. Torneu-ho a provar.">
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.send.tab.label "Envia la pestanya als dispositius">

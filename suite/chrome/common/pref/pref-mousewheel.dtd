@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
 
 <!ENTITY pref.mouseWheel.title           "Rodeta del ratolí">
 <!ENTITY mouseWheelPanel.label           "Indiqueu el comportament de la roda del ratolí en utilitzar-lo amb aquesta tecla: ">
@@ -10,20 +10,20 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Acció de la roda del ratolí">
-<!ENTITY doNothing.label                 "Cap">
-<!ENTITY doNothing.accesskey             "C">
-<!ENTITY scrollDocument.label            "Desplaça el document">
+<!ENTITY mouseWheelAction.label          "Acció de roda del ratolí">
+<!ENTITY doNothing.label                 "No fer res">
+<!ENTITY doNothing.accesskey             "f">
+<!ENTITY scrollDocument.label            "Desplaceu-vos pel document">
 <!ENTITY scrollDocument.accesskey        "S">
-<!ENTITY mouseWheelSpeed.label           "Velocitat de la roda del ratolí">
 <!ENTITY history.label                   "Mou enrere o endavant en l'historial de navegació">
 <!ENTITY history.accesskey               "h">
 <!ENTITY zoom.label                      "Augmenta o redueix la pàgina">
 <!ENTITY zoom.accesskey                  "t">
+<!ENTITY mouseWheelSpeed.label           "Velocitat de la roda del ratolí">
 <!ENTITY verticalSpeed.label             "Vertical:">
 <!ENTITY verticalSpeed.accesskey         "V">
 <!ENTITY verticalReverse.label           "Direcció inversa">
-<!ENTITY verticalReverse.accesskey       "i">
+<!ENTITY verticalReverse.accesskey       "R">
 <!ENTITY horizontalSpeed.label           "Horitzontal:">
 <!ENTITY horizontalSpeed.accesskey       "o">
 <!ENTITY horizontalReverse.label         "Direcció inversa">

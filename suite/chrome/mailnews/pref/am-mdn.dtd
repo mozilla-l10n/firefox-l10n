@@ -6,7 +6,7 @@
 <!ENTITY useGlobalPrefs.label         "Utilitza les preferències globals de confirmació de recepció en aquest compte">
 <!ENTITY useGlobalPrefs.accesskey     "U">
 <!ENTITY globalReceipts.label         "Preferències globals...">
-<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalitza les confirmacions de recepció per a aquest compte">
 <!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Quan s'estan enviant missatges, sempre sol·licita una confirmació de recepció">
