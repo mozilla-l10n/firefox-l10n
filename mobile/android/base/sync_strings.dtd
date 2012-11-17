@@ -15,8 +15,8 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Per activar un nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» a l\'altre dispositiu">
-<!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l'altre dispositiu">
-<!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l'altre dispositiu.">
+<!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l\'altre dispositiu">
+<!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l\'altre dispositiu.">
 <!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu»a l\'altre dispositiu. ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
