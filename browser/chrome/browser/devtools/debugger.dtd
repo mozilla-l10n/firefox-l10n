@@ -63,3 +63,16 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle    "Operadores">
+
+<!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
+  -  appears in the conditional breakpoint panel popup as a description. -->
+<!ENTITY debuggerUI.condBreakPanelTitle "Este punto de quebra deterá a execución só se a seguinte expresión é true">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for adding a breakpoint. -->
+<!ENTITY debuggerUI.seMenuBreak         "Engadir o punto de quebra">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
+  -  appears in the source editor context menu for adding a conditional
+  -  breakpoint. -->
+<!ENTITY debuggerUI.seMenuCondBreak     "Engadir o punto de quebra condicional">
