@@ -21,8 +21,8 @@
 <!ENTITY originalWebsite3.label "Vefsvæði ">
 <!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
 <!ENTITY editMessageButton.label "Breyta…">
-<!ENTITY hdrArchiveButton1.label "Skjalasafn">
-<!ENTITY hdrArchiveButton1.tooltip "Safnvista þessi boð">
+<!ENTITY hdrArchiveButton1.label "Skjalageymsla">
+<!ENTITY hdrArchiveButton1.tooltip "Setja póst í skjalageymslu">
 <!ENTITY hdrSmartReplyButton1.label "Snjallsvar">
 <!ENTITY hdrReplyButton1.label "Svara">
 <!ENTITY hdrReplyButton2.tooltip "Svara sendanda þessa skeytis">

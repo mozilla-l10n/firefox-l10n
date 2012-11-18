@@ -18,14 +18,14 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Póstur eldri en">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti.">
-<!ENTITY retentionCleanupImap.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti, bæði staðbundnu afriti og upprunalegum pósti á netþjóninum.">
-<!ENTITY retentionCleanupPop.label "Til að endurheimta diskpláss, er hægt að eyða varanlega gömlum pósti, einnig upprunalegum pósti á netþjóninum.">
+<!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða gömlum pósti varanlega.">
+<!ENTITY retentionCleanupImap.label "Til að endurheimta diskpláss, er hægt að eyða gömlum pósti varanlega, bæði staðbundnu afriti og upprunalegum pósti á netþjóninum.">
+<!ENTITY retentionCleanupPop.label "Til að endurheimta diskpláss, er hægt að eyða gömlum pósti varanlega, einnig upprunalegum pósti á netþjóninum.">
 <!ENTITY retentionKeepMsg.label "Eyða bréfum eldri en">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ekki eyða neinum bréfum">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "Eyða öllum nema nýjustu">
+<!ENTITY retentionKeepRecent.label "Eyða öllu nema nýjustu">
 <!ENTITY retentionKeepRecent.accesskey "E">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Alltaf eyða lesnum bréfum (hunsa aldursstillingar)">
