@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
+     fun and playful. Please feel free to adjust the tone as works best in
+     your language and/or locale. More detailed notes below. -->
+
+
+<!ENTITY pageTitle                 "&brandShortName; iritzia">
+
+<!ENTITY intro.header              "Badaukazu minutu bat?">
+<!ENTITY intro.message             "Esaiguzu Androiderako &brandShortName;(r)i buruz pentsatzen duzuna.">
+<!ENTITY intro.happyLink           "Gustoko dut">
+<!ENTITY intro.sadLink             "Arazotxo batzuk izan ditut">
+<!ENTITY intro.ideaLink            "Ideia bat daukat">
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+
+<!ENTITY support.pre               "Laguntza behar baduzu edo &brandShortName;(r)ekin arazorik badaukazu, bisitatu">
+<!ENTITY support.link              "&brandShortName;(r)en laguntza">
+<!ENTITY support.post              ".">
+
+<!ENTITY happy.header              "Ederra da hori entzutea!">
+<!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
+
+<!ENTITY happy.message             "Firefox gustoko duzula esan nahi zenuke 5 izar emanez Google Playn?">
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+
+<!ENTITY happy.finePrint           "Minutu bat baino gutxiago behar du eta denontzat da onuragarria.">
+
+<!ENTITY happy.ratingLink          "Bai, joan Google Playra">
+<!ENTITY happy.maybeLater          "Beranduago agian">
+<!ENTITY happy.noThanks            "Ez milesker">
+
+<!ENTITY sad.message               "Sentitzen dugu &brandShortName;(r)ekin arazoak izan dituzula. Esaiguzu zer gertatu den konpontzeko gai izan gaitezen.">
+<!ENTITY sad.placeholder           "Idatzi zure iritzia hemen">
+<!ENTITY sad.lastSite              "Bisitatutako azken gunea (aukerazkoa)">
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "Eskerrik asko zure iritziaren berri emateagatik.">
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
+     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+
+<!ENTITY sad.thanksMessageTop      "&brandShortName; hobetzeko lanean gaude beti. Izan ziur pertsona batek zure iritzia begiratu eta zure arazoa konpontzeko ahal duen guztia egingo duela.">
+<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
+     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
+     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+
+<!ENTITY sad.thanksMessageBottom   "Edo bestela...">
+<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
+     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
+     to tell us anything they're thinking about. -->
+
+<!ENTITY idea.message              "Gustuko dugu zure ideiak entzutea! Partekatu azpian zure pentsamenduak. (&brandShortName;(r)i buruzkoak soilik, mesedez).">
+<!ENTITY idea.placeholder          "Idatzi zure ideia hemen">
+<!ENTITY idea.thanksHeader         "Eskerrik asko!">
+
+<!ENTITY idea.thanksMessageTop     "Zure pentsamenduak partekatzeko hartu duzun denbora eskertzen dizugu. &brandShortName; hobetzeko lanean gaude beti eta zurea bezalako ekarpenek gauza onetara garamatzate.">
+<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
+     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
+     something physical, which is why they can't see it.-->
+
+<!ENTITY idea.thanksMessageBottom  "Ezin dezakezu ikusi, baina bostekoa ari gatzaizu ematen oraintxe bertan.">
+
+<!ENTITY feedback.privacy          "Zure pribatutasunerako, ez sartu inolako informazio pertsonalik zure iritzian.">
+<!ENTITY feedback.send             "Bidali iritzia">
