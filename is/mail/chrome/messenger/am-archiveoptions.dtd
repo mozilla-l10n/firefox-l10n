@@ -4,15 +4,15 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Stillingar fyrir skjalasafn">
-<!ENTITY archiveGranularityPrefix.label "Þegar póstur er settur í skjalasafn, setja í:">
+<!ENTITY dialogTitle.label "Stillingar fyrir skjalageymslu">
+<!ENTITY archiveGranularityPrefix.label "Þegar póstur er settur í skjalageymslu, setja í:">
 <!ENTITY archiveFlat.label "Eina möppu">
 <!ENTITY archiveFlat.accesskey "E">
-<!ENTITY archiveYearly.label "Árlegt skjalasafn">
+<!ENTITY archiveYearly.label "Árleg skjalageymsla">
 <!ENTITY archiveYearly.accesskey "r">
-<!ENTITY archiveMonthly.label "Mánaðarlegt skjalasafn">
+<!ENTITY archiveMonthly.label "Mánaðarleg skjalageymsla">
 <!ENTITY archiveMonthly.accesskey "M">
-<!ENTITY keepFolderStructure.label "Viðhalda möppuskipan í skjalasafni">
+<!ENTITY keepFolderStructure.label "Viðhalda möppuskipan í skjalageymslu">
 <!ENTITY keepFolderStructure.accesskey "k">
 <!ENTITY archiveExample.label "Dæmi">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default

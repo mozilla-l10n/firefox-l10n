@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "n">
 <!ENTITY alwaysEncryptMessage.label "Nauðsynlegt (ekki er hægt að senda póst nema allir viðtakendur séu með skilríki)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Nota þetta skilríki til að dulkóða og afkóða póst sem eru sendir á þig:">
+<!ENTITY encryptionCert.message "Nota þetta skilríki til að dulkóða og afkóða póst sem er sendur á þig:">
 <!ENTITY digitalSign.certificate.button "Velja…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Hreinsa">
@@ -23,7 +23,7 @@
 <!ENTITY signingGroupTitle.label "Rafræn undirskrift">
 <!ENTITY signMessage.label "Skrifa undir póst með rafrænni undirskrift (sjálfgefið)">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Nota þetta skilríki fyrir rafræna undirskrift á póst sem þú sendir:">
+<!ENTITY signingCert.message "Nota þetta skilríki fyrir rafræna undirskrift á pósti sem þú sendir:">
 <!ENTITY certificates.label "Skilríki">
 <!ENTITY manageCerts.label "Skoða skilríki">
 <!ENTITY manageCerts.accesskey "S">

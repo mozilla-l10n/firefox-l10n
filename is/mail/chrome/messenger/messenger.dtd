@@ -313,7 +313,7 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Póstur">
 <!ENTITY newNewMsgCmd.accesskey "P">
-<!ENTITY archiveMsgCmd.label "Skjalasafn">
+<!ENTITY archiveMsgCmd.label "Skjalageymsla">
 <!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Hætta við boð">
@@ -479,7 +479,7 @@
 <!ENTITY replyListButton.label "Svara póstlista">
 <!ENTITY forwardButton.label "Áfram">
 <!ENTITY fileButton.label "Skrá">
-<!ENTITY archiveButton.label "Skjalasafn">
+<!ENTITY archiveButton.label "Skjalageymsla">
 <!ENTITY nextButton.label "Næsta">
 <!ENTITY nextButtonToolbarItem.label "Næsta ólesið">
 <!ENTITY nextMsgButton.label "Næsti">
@@ -518,7 +518,7 @@
 <!ENTITY replyListButton.tooltip "Svara póstlista">
 <!ENTITY forwardButton.tooltip "Áframsenda völdum pósti">
 <!ENTITY fileButton.tooltip "Vista valinn póst">
-<!ENTITY archiveButton.tooltip "Setja valinn póst í skjalasafn">
+<!ENTITY archiveButton.tooltip "Setja valinn póst í skjalageymslu">
 <!ENTITY nextButton.tooltip "Fara yfir á næsta ólesna póst">
 <!ENTITY nextMsgButton.tooltip "Fara á næstu skilaboð">
 <!ENTITY previousButton.tooltip "Fara til baka í fyrri ólesin póst">
@@ -655,7 +655,7 @@
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Breyta pósti sem nýjum…">
 <!ENTITY contextEditAsNew.accesskey "e">
-<!ENTITY contextArchive.label "Skjalasafn">
+<!ENTITY contextArchive.label "Skjalageymsla">
 <!ENTITY contextArchive.accesskey "n">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
 <!ENTITY contextReplySender.accesskey "r">
