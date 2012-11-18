@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Consola web">
 
-<!ENTITY networkPanel.requestURL                  "URL da solicitude">
-<!ENTITY networkPanel.requestMethod               "Método da solicitude">
-<!ENTITY networkPanel.statusCode                  "Código de estado">
+<!ENTITY networkPanel.requestURLColon             "URL da solicitude">
+<!ENTITY networkPanel.requestMethodColon          "Método da solicitude">
+<!ENTITY networkPanel.statusCodeColon             "Código de estado">
 
 <!ENTITY networkPanel.requestHeaders              "Cabeceiras da solicitude">
 <!ENTITY networkPanel.requestCookie               "Cookie enviada">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Datos de formulario enviados">
 
 <!ENTITY networkPanel.responseHeaders             "Cabeceiras da resposta">
+<!ENTITY networkPanel.responseCookie              "Cookie recibida">
 <!ENTITY networkPanel.responseBody                "Corpo da resposta">
 <!ENTITY networkPanel.responseBodyCached          "Datos na caché">
 <!ENTITY networkPanel.responseBodyUnknownType     "Tipo de contido descoñecido">
