@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Gune erabilienak">
 <!ENTITY  awesomebar_bookmarks_title "Laster-markak">
 <!ENTITY  awesomebar_history_title "Historia">
-<!ENTITY  awesomebar_search_engine "Bilatu \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; hutsegite-berriemailea">
 <!ENTITY  crash_message "&brandShortName;(e)k huts egin du. Berrabiaraztean, &brandShortName;(r)en hasiera-orrian zerrendatuko dira zure fitxak.">
@@ -45,6 +44,8 @@
 <!ENTITY history_week_section "Duela 7 egun">
 <!ENTITY history_older_section "7 egun baino zaharragoa">
 
+<!ENTITY go "Joan">
+<!ENTITY search "Bilatu">
 <!ENTITY reload "Birkargatu">
 <!ENTITY forward "Aurrera">
 <!ENTITY menu "Menua">
@@ -54,6 +55,7 @@
 
 <!ENTITY close_tab "Itxi fitxa">
 <!ENTITY new_tab "Fitxa berria">
+<!ENTITY one_tab "fitxa 1">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d fitxa">
@@ -84,14 +86,28 @@
 <!ENTITY pref_font_size_medium "Normala">
 <!ENTITY pref_font_size_large "Handia">
 <!ENTITY pref_font_size_xlarge "Oso handia">
+<!ENTITY pref_font_size_set "Ezarri">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Azeri laranja azkarrak zure aurreikuspenen gainetik egiten du jauzi abiadura, malgutasun eta segurtasun gehiagorekin. Irabazi-asmorik gabeko modura, libre gara zure alde berrikuntzak egiteko inongo akordioen presiorik gabe. Zuretzako esperientzia hobean eta webarentzat etorkizun argiagoan itzultzen da hori.">
+
 <!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
+<!ENTITY pref_show_product_announcements "Erakutsi produktuen iragarpenak">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Erakutsi bilaketa-gomendioak">
 <!ENTITY pref_import_android "Inportatu Android-etik">
 <!ENTITY pref_private_data_history "Nabigazio- eta deskarga-historia">
 <!ENTITY pref_private_data_formdata "Inprimaki- eta bilaketa-historia">
-<!ENTITY pref_private_data_cookies "Cookie-ak">
+<!ENTITY pref_private_data_cookies2 "Cookie-ak eta saio-hasiera aktiboak">
+<!ENTITY pref_private_data_passwords "Gordetako pasahitzak">
 <!ENTITY pref_private_data_cache "Katxea">
-<!ENTITY pref_private_data_sessions "Saio-hasiera aktiboak">
 <!ENTITY pref_private_data_offlineApps "Lineaz kanpoko webguneen datuak">
 <!ENTITY pref_private_data_siteSettings "Gunearen hobespenak">
 
@@ -99,13 +115,16 @@
 
 <!ENTITY addons "Gehigarriak">
 <!ENTITY downloads "Deskargak">
+<!ENTITY apps "Aplikazioak">
 <!ENTITY char_encoding "Karaktere-kodeketa">
 
 <!ENTITY share "Partekatu">
 <!ENTITY share_title "Partekatu">
+<!ENTITY share_image_failed "Ezin da irudia partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
 <!ENTITY find_in_page "Bilatu orrian">
 <!ENTITY desktop_mode "Eskatu mahaigaineko gunea">
+<!ENTITY tools "Tresnak">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -115,6 +134,7 @@
 <!ENTITY find_close "Itxi">
 
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
+<!ENTITY contextmenu_open_in_reader "Ireki irakurgailuan">
 <!ENTITY contextmenu_remove_history "Kendu">
 <!ENTITY contextmenu_remove_bookmark "Kendu">
 <!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
@@ -133,15 +153,16 @@
 <!ENTITY bookmark_edit_location "Helbidea">
 <!ENTITY bookmark_edit_keyword "Gako-hitza">
 
-<!ENTITY site_settings_title        "Garbitu gunearen ezarpenak">
+<!ENTITY site_settings_title2       "Gunearen ezarpenak…">
 <!ENTITY site_settings_cancel       "Utzi">
 <!ENTITY site_settings_clear        "Garbitu">
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
 
-<!ENTITY add_to_reading_list "Gehitu irakurketa-zerrendara">
+<!ENTITY reading_list "Irakurketa-zerrenda">
 <!ENTITY reading_list_added "Orria irakurketa-zerrendara gehituta">
 <!ENTITY reading_list_removed "Orria irakurketa-zerrendatik kenduta">
-<!ENTITY reader_mode "Reader Mode">
+<!ENTITY reading_list_failed "Huts egin du orria zure irakurketa-zerrendara gehitzean">
+<!ENTITY reader "Irakurgailua">
 
 <!ENTITY masterpassword_create_title "Sortu pasahitz nagusia">
 <!ENTITY masterpassword_remove_title "Kendu pasahitz nagusia">
@@ -150,7 +171,11 @@
 
 <!ENTITY button_ok "Ados">
 <!ENTITY button_cancel "Utzi">
+<!ENTITY button_yes "Bai">
+<!ENTITY button_no "Ez">
 <!ENTITY button_clear_data "Garbitu datuak">
+<!ENTITY button_set "Ezarri">
+<!ENTITY button_clear "Garbitu">
 
 <!ENTITY abouthome_addons_title "&brandShortName;(e)rako gehigarriak">
 <!ENTITY abouthome_addons_browse "Arakatu &brandShortName; gehigarri guztiak">
@@ -158,9 +183,19 @@
 <!ENTITY abouthome_last_tabs_open "Ireki azken saioko fitxa guztiak">
 <!ENTITY abouthome_top_sites_title "Gune erabilienak">
 <!ENTITY abouthome_top_sites_browse "Arakatu zure gunerik erabilienak">
-<!ENTITY abouthome_no_top_sites "Ez daukazu gune erabilienik oraindik. Sakatu titulu-barra nabigatzen hasteko.">
-<!ENTITY abouthome_about_sync "Konfiguratu Firefox Sync zure beste gailuetako laster-markak, historia eta fitxak atzitzeko">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Konfiguratu Firefox Sync zure beste gailuetatik laster-markak, historia eta fitxak atzitzeko&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Eskuratu aplikazioak Firefox Marketplace-tik eta deskubritu webak eskaintzeko daukan onena&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Aukeratu fitxategia">
 <!ENTITY filepicker_audio_title "Aukeratu edo grabatu soinua">
@@ -182,14 +217,35 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Honen menpe dago: ">
 
-<!ENTITY bookmarkhistory_button_import "Inportatu">
-<!ENTITY bookmarkhistory_import_both "Laster-markak eta historia inportatzen
-Android-etik">
-<!ENTITY bookmarkhistory_import_bookmarks "Laster-markak inportatzen
-Android-etik">
-<!ENTITY bookmarkhistory_import_history "Historia inportatzen
-Android-etik">
-<!ENTITY bookmarkhistory_import_wait "Itxaron mesedez...">
-
 <!ENTITY private_data_success "Datu pribatuak garbituta">
 <!ENTITY private_data_fail "Datu pribatu batzuk ezin izan dira garbitu">
+
+<!ENTITY bookmarkhistory_button_import "Inportatu">
+<!ENTITY bookmarkhistory_import_both "Laster-markak eta historia inportatzen 
+Android-etik">
+<!ENTITY bookmarkhistory_import_bookmarks "Laster-markak inportatzen 
+Android-etik">
+<!ENTITY bookmarkhistory_import_history "Historia inportatzen 
+Android-etik">
+<!ENTITY bookmarkhistory_import_wait "Itxaron mesedez...">
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+
+<!ENTITY suggestions_prompt "&#037;(r)en bilaketa-gomendioak gaitu nahi dituzu?">
+
+<!ENTITY webapp_generic_name "Apl">
+
+<!ENTITY searchable_description "Laster-markak eta historia">
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
+<!ENTITY updater_start_select2 "Ukitu deskargatzeko">
+ 
+<!ENTITY updater_downloading_title2 "&brandShortName; deskargatzen">
+<!ENTITY updater_downloading_title_failed2 "Deskargak huts egin du">
+<!ENTITY updater_downloading_select2 "Ukitu eguneraketa aplikatzeko behin deskargatuta">
+<!ENTITY updater_downloading_retry2 "Ukitu berriro saiatzeko">
+ 
+<!ENTITY updater_apply_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
+<!ENTITY updater_apply_select2 "Ukitu eguneratzeko">

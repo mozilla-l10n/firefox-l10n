@@ -71,10 +71,12 @@
 <!ENTITY decreaseFontSize.label "Txikiagoa">
 <!ENTITY decreaseFontSize.accesskey "x">
 <!ENTITY decreaseFontSize.key "-">
+<!-- < is above this key on many keyboards -->
+<!ENTITY decreaseFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Handiagoa">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards -->
+<!-- > is above this key on many keyboards -->
 <!ENTITY increaseFontSize.key2 "="> 
 
 <!ENTITY fontSizeMenu.label "Tamaina">

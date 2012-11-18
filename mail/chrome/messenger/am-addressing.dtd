@@ -19,7 +19,7 @@
 <!-- am-addressing.xul -->
 
 
-<!ENTITY compositionGroupTitle.label "Mezuak prestatzea">
+<!ENTITY compositionGroupTitle.label          "Mezuak prestatzea">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Prestatu mezuak HTML formatuan">
 <!ENTITY useHtml.accesskey                    "s">
@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Txertatu sinadura birbidalketetan">
 <!ENTITY includeSigOnForward.accesskey        "b">
+
+<!ENTITY globalComposingPrefs.label           "Mezuak prestatzeko hobespen orokorrak…">
+<!ENTITY globalComposingPrefs.accesskey       "o">
+
+<!ENTITY globalAddressingPrefs.label          "Helbideratzeko hobespen orokorrak…">
+<!ENTITY globalAddressingPrefs.accesskey      "h">

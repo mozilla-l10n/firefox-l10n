@@ -15,8 +15,8 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Zure gailu berria aktibatzeko, hautatu “Konfiguratu &syncBrand.shortName.label;” gailuan.">
-<!ENTITY sync.subtitle.header.label "Sartu kode hau zure ordenagailuan">
-<!ENTITY sync.subtitle.connectlocation.label "Hautatu “&sync.title.pair.label;” zure mahaigaineko Firefoxen aukeren &syncBrand.shortName.label; atalean.">
+<!ENTITY sync.subtitle.header2.label "Idatzi kode hau zure beste gailuan">
+<!ENTITY sync.subtitle.connectlocation2.label "Hautatu “&sync.title.pair.label;” zure beste gailuko Firefoxen aukeren &syncBrand.shortName.label; atalean.">
 <!ENTITY sync.subtitle.pair.label "Aktibatzeko, hautatu “Parekatu gailua” zure beste gailuan.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -41,6 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Saiatu berriro">
 <!ENTITY sync.button.manual.label "Eskuzko konfigurazioa">
 <!ENTITY sync.subtitle.nointernet.label "Ez dago Internet konexiorik erabilgarri.">
+<!ENTITY sync.subtitle.failaccount.label "Zure gailuan kontua sortzeak huts egin du.">
+<!ENTITY sync.subtitle.failmultiple.label "Firefox bat baino gehiago dauzkazu instalatuta? Une honetan &syncBrand.fullName.label;(e)k Firefoxen instalazio bakarra onartzen du. &syncBrand.shortName.label; erabiltzeko, desinstalatu beste instantziak mesedez.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Konfigurazioa osatuta">
@@ -78,4 +80,16 @@
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu bakarra onartzen da.">
 <!-- Incorrect settings and changing credentials. -->
 
+<!ENTITY sync.invalidcreds.label "Kontu-izen edo pasahitz okerra.">
+<!ENTITY sync.invalidserver.label "Sartu baliozko zerbitzariaren URLa">
+<!ENTITY sync.verifying.label "Egiaztatzen…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Berreskuratze-gako okerra. Saiatu berriro.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Bidali fitxa gailuetara">
+<!ENTITY sync.button.send.label "Bidali">
+<!ENTITY sync.button.set.up.sync.label "Konfiguratu &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Konfiguratu &syncBrand.shortName.label; fitxak bidaltzeko">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Konfiguratu &syncBrand.fullName.label; zure gailuan beste gailuetara fitxak bidaltzeko.">
+<!ENTITY sync.text.tab.sent.label "Zure fitxa bidali da!">
+<!ENTITY sync.text.tab.not.sent.label "Arazo bat izan da zure fitxa bidaltzean.">

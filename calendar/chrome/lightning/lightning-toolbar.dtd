@@ -34,3 +34,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "s">
 <!ENTITY lightning.toolbar.month.label               "Hilabete">
 <!ENTITY lightning.toolbar.month.accesskey           "H">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "AplMenua">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Aplikazioen menua bistaratzen du">
