@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Escribir: (sen asunto)">
 
@@ -135,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "v">
 <!ENTITY dsnMenu.label "Notificación do estado de envío">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Formato">
-<!ENTITY outputFormatMenu.accesskey "m">
+<!ENTITY deliveryFormatMenu.label "Formato de envío">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Detección automática">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Só texto sen formato">
@@ -264,7 +268,7 @@
 <!ENTITY openAttachment.accesskey "b">
 <!ENTITY delete.label "Borrar">
 <!ENTITY delete.accesskey "o">
-<!ENTITY removeAttachment.label "Eliminar anexo">
+<!ENTITY removeAttachment.label "Retirar anexo">
 <!ENTITY removeAttachment.accesskey "E">
 <!ENTITY renameAttachment.label "Renomear…">
 <!ENTITY renameAttachment.accesskey "R">
