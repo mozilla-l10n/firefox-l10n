@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Scriver">
+<!ENTITY compositionGroupTitle.label          "Scriver">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Scriver ils messadis en il format HTML">
 <!ENTITY useHtml.accesskey                    "C">
@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Includer la suttascripziun cun renviar">
 <!ENTITY includeSigOnForward.accesskey        "v">
+
+<!ENTITY globalComposingPrefs.label           "Preferenzas globalas per scriver…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Preferenzas globalas per adressar…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
