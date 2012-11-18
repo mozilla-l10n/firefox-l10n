@@ -7,3 +7,8 @@
 <!ENTITY debuggerUI.pauseExceptions "Posar nes esceiciones">
 <!ENTITY debuggerUI.showNonEnums "Amosar propiedaes anubríes">
 <!ENTITY debuggerUI.searchPanelTitle "Operadores">
+<!ENTITY debuggerUI.showVarsSearch.key "V">
+<!ENTITY debuggerUI.showVarsSearch "Amosar el cuadru de gueta de variables">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showPanesOnInit "Amosar paneles al arrancar">
+<!ENTITY debuggerUI.showNonEnums.key "p">
