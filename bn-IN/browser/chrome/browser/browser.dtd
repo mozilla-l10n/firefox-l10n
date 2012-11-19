@@ -748,6 +748,7 @@ can reach it easily. -->
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "অতিরিক্ত সরঞ্জাম">
 
 
 
@@ -800,10 +801,22 @@ hovers over the HTML panel's toolbar button. -->
 toolbar button -->
 <!-- ENTITY htmlPanel.accesskey          "H" -->
 
-<!ENTITY socialToolbar.title        "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label   "Not logged in">
+<!ENTITY socialToolbar.title        "Social টুল-বার বাটন">
+<!ENTITY social.notLoggedIn.label   "লগ-ইন করা হয়নি">
 
 <!-- ENTITY social.sharePopup.undo.label     "Unshare" -->
 <!-- ENTITY social.sharePopup.undo.accesskey "U" -->
 <!-- ENTITY social.sharePopup.ok.label       "OK" -->
 <!-- ENTITY social.sharePopup.ok.accesskey   "O" -->
+
+<!ENTITY social.toggleSidebar.label "সাইড-বার প্রদর্শিত হবে">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "ডেস্কটপের সূচনা প্রদর্শিত হবে">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.ok.label       "ঠিক আছে">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.activated.undobutton.label "পূর্বাবস্থা">
+<!ENTITY social.activated.undobutton.accesskey "U">
