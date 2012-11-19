@@ -642,3 +642,16 @@ items are mutually exclusive. -->
 <!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
 <!ENTITY emailPageCmd.accesskey       "E">
 
+<!ENTITY devToolbarOtherToolsButton.label  "ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು">
+
+<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "ಬದಿ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "ಗಣಕತೆರೆ ಸೂಚನೆಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "ರದ್ದುಗೊಳಿಸು">
+<!ENTITY social.activated.undobutton.accesskey "U">
