@@ -37,5 +37,7 @@
 <!ENTITY cmd.clearList.label              "പട്ടിക വെടിപ്പാക്കുക">
 <!ENTITY cmd.clearList.accesskey          "a">
 
-<!ENTITY downloadshistory.label           "എല്ലാ ഡൌണ്‍ലോഡുകളും കാണിയ്ക്കുക">
-<!ENTITY downloadshistory.accesskey       "S">
+<!-- ENTITY downloadshistory.label           "എല്ലാ ഡൌണ്‍ലോഡുകളും കാണിയ്ക്കുക" -->
+<!-- ENTITY downloadshistory.accesskey       "S" -->
+
+<!ENTITY downloads.width                  "65ch">
