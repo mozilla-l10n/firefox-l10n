@@ -589,13 +589,13 @@
 <!ENTITY fullscreenApproval.value "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍ അനുവദിയ്ക്കണമോ?">
 
 <!ENTITY fullscreenExitHint.value "സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തിലാക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്താം.">
-<!ENTITY inspectOptionButton.tooltiptext    "നിരീക്ഷണത്തിനുള്ള ഐച്ഛികങ്ങള്‍">
+<!-- ENTITY inspectOptionButton.tooltiptext    "നിരീക്ഷണത്തിനുള്ള ഐച്ഛികങ്ങള്‍" -->
 
 <!ENTITY inspectorButton.label "നിരീക്ഷിയ്ക്കുക">
-<!ENTITY inspectorToggleVeil.label          "താളിന്റെ തെളിച്ചം കുറയ്ക്കുക">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "നോഡ് വിവരം കാണിയ്ക്കുക">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
+<!-- ENTITY inspectorToggleVeil.label          "താളിന്റെ തെളിച്ചം കുറയ്ക്കുക" -->
+<!-- ENTITY inspectorToggleVeil.accesskey      "D" -->
+<!-- ENTITY inspectorToggleInfobar.label       "നോഡ് വിവരം കാണിയ്ക്കുക" -->
+<!-- ENTITY inspectorToggleInfobar.accesskey   "S" -->
 <!ENTITY leaveDOMFullScreen.label "സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തില്‍">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY markupButton.arialabel          "മാര്‍ക്കപ്പ്">
@@ -624,7 +624,21 @@
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY socialToolbar.title        "സോഷ്യല്‍ ടൂള്‍ബാര്‍ ബട്ടണ്‍">
 <!ENTITY social.notLoggedIn.label   "പ്രവേശിച്ചിട്ടില്ല">
-<!ENTITY social.sharePopup.undo.label     "പങ്കിടേണ്ട">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.ok.label       "ശരി">
-<!ENTITY social.sharePopup.ok.accesskey   "O">
+<!-- ENTITY social.sharePopup.undo.label     "പങ്കിടേണ്ട" -->
+<!-- ENTITY social.sharePopup.undo.accesskey "U" -->
+<!-- ENTITY social.sharePopup.ok.label       "ശരി" -->
+<!-- ENTITY social.sharePopup.ok.accesskey   "O" -->
+
+<!ENTITY devToolbarOtherToolsButton.label  "കൂടുതല്‍ പ്രയോഗങ്ങള്‍">
+
+<!ENTITY social.activated.undobutton.label "വേണ്ട">
+<!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.ok.label       "ശരി">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "വശത്തുള്ള പാനല്‍ കാണിയ്ക്കുക">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "പണിയിടത്തിലുള്ള അറിയിപ്പുകള്‍ കാണിയ്ക്കുക">
+<!ENTITY social.toggleNotifications.accesskey "n">
