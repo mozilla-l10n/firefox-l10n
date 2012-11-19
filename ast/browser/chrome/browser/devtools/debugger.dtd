@@ -12,3 +12,5 @@
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!ENTITY debuggerUI.showPanesOnInit "Amosar paneles al arrancar">
 <!ENTITY debuggerUI.showNonEnums.key "p">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
