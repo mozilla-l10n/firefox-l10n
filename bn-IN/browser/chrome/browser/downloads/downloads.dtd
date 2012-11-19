@@ -37,5 +37,5 @@
 <!ENTITY cmd.clearList.label              "তালিকা পরিশ্রুত করুন">
 <!ENTITY cmd.clearList.accesskey          "a">
 
-<!ENTITY downloadshistory.label           "সব ডাউনলোড প্রদর্শন করা হবে">
-<!ENTITY downloadshistory.accesskey       "S">
+<!-- ENTITY downloadshistory.label           "সব ডাউনলোড প্রদর্শন করা হবে" -->
+<!-- ENTITY downloadshistory.accesskey       "S" -->
