@@ -160,7 +160,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksButton.tooltip        "Amosar os marcadores">
-<!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
@@ -177,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Historial">
 <!ENTITY historyButton.tooltip          "Amosar as páxinas visitadas recentemente">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ferramentas">
