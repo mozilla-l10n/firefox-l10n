@@ -76,3 +76,5 @@
 
 <!ENTITY loaddevice.title "PKCS#11 ഡിവൈസ് ലഭ്യമാക്കുക">
 
+<!ENTITY devmgr.style                           "width: 52em; height: 32em;">
+
