@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Izbira">
 <!ENTITY junkActions.label "Cilj in ohranitev">
+
+<!ENTITY globalJunkPrefs.label "Globalne nastavitve neželene pošte …">
+<!ENTITY globalJunkPrefs.accesskey "G">

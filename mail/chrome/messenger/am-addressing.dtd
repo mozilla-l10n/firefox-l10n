@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Dodaj podpis posredovanim sporočilom">
 <!ENTITY includeSigOnForward.accesskey        "w">
+
+<!ENTITY globalComposingPrefs.label           "Globalne nastavitve za sestavljanje …">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Globalne nastavitve za naslavljanje …">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
