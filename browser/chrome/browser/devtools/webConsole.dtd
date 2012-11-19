@@ -15,9 +15,9 @@
 <!ENTITY networkPanel.responseImage               "ಪಡೆಯಲಾದ ಚಿತ್ರ">
 <!ENTITY networkPanel.responseImageCached         "ಕ್ಯಾಶ್ ಮಾಡಲಾದ ಚಿತ್ರ">
 
-<!ENTITY filterBox.placeholder "Filter">
-<!ENTITY btnClear.label        "Clear">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
+<!ENTITY filterBox.placeholder "ಸೋಸುಗ">
+<!ENTITY btnClear.label        "ಅಳಿಸು">
+<!ENTITY btnClose.tooltip      "ಜಾಲ ಕನ್ಸೋಲ್ ಅನ್ನು ಮುಚ್ಚು">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -33,47 +33,47 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-<!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
-<!ENTITY btnConsoleErrors       "Errors">
-<!ENTITY btnConsoleInfo         "Info">
-<!ENTITY btnConsoleWarnings     "Warnings">
-<!ENTITY btnConsoleLog          "Log">
+<!ENTITY btnPageLogging.label   "ದಾಖಲಿಸು">
+<!ENTITY btnPageLogging.tooltip "window.console ಆಬ್ಜೆಕ್ಟಿಗೆ ಕಳುಹಿಸಲಾದ ಸಂದೇಶಗಳನ್ನು ದಾಖಲಿಸು">
+<!ENTITY btnConsoleErrors       "ದೋಷಗಳು">
+<!ENTITY btnConsoleInfo         "ಮಾಹಿತಿ">
+<!ENTITY btnConsoleWarnings     "ಎಚ್ಚರಿಕೆಗಳು">
+<!ENTITY btnConsoleLog          "ದಾಖಲೆ">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.label   "Net">
-<!ENTITY btnPageNet.tooltip "Log network access">
+<!ENTITY btnPageNet.label   "ಜಾಲ">
+<!ENTITY btnPageNet.tooltip "ಜಾಲಬಂಧ ನಿಲುಕಣೆಯನ್ನು ದಾಖಲಿಸು">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+<!ENTITY btnPageCSS.tooltip "CSS ಪಾರ್ಸಿಂಗ್ ದೋಷಗಳನ್ನು ದಾಖಲಿಸು">
 <!ENTITY btnPageJS.label    "JS">
-<!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
+<!ENTITY btnPageJS.tooltip  "JavaScript ಆಕ್ಷೇಪಣೆಗಳನ್ನು ದಾಖಲಿಸು">
 
 <!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
   -  allows the user to toggle between the Web Console positioning types. -->
-<!ENTITY btnPosition.label     "Position">
+<!ENTITY btnPosition.label     "ಸ್ಥಾನ">
 
 <!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
   -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "Position the Web Console above or below the document">
+<!ENTITY btnPosition.tooltip   "ಜಾಲ ಕನ್ಸೋಲ್‌ ಅನ್ನು ದಸ್ತಾವೇಜಿನ ಮೇಲೆ ಅಥವ ಕೆಳಗೆ ಇರಿಸು">
 
 <!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
   -  Web Console interface is displayed above the web page. -->
-<!ENTITY positionMenu.above    "Above">
+<!ENTITY positionMenu.above    "ಮೇಲೆ">
 
 <!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
   -  Web Console interface is displayed below the web page. -->
-<!ENTITY positionMenu.below    "Below">
+<!ENTITY positionMenu.below    "ಕೆಳಗೆ">
 
 <!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
   -  Web Console interface is displayed in a floating panel. -->
-<!ENTITY positionMenu.window   "Window">
+<!ENTITY positionMenu.window   "ಕಿಟಕಿ">
 
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
+<!ENTITY saveBodies.label     "ಮನವಿ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆಯ ಮುಖ್ಯಭಾಗಗಳನ್ನು ದಾಖಲಿಸು">
 <!ENTITY saveBodies.accesskey "L">
 
-<!ENTITY window.title "Web Console">
+<!ENTITY window.title "ಜಾಲ ಕನ್ಸೋಲ್‌">
