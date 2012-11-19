@@ -72,7 +72,7 @@
 <!ENTITY pref_telemetry "Skicka prestandadata">
 <!ENTITY pref_remember_signons "Spara lösenord">
 
-<!ENTITY pref_cookies "Kakor">
+<!ENTITY pref_cookies_menu "Kakor">
 <!ENTITY pref_cookies_accept_all "Aktiverade">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
