@@ -232,7 +232,7 @@ Android-etik">
      be kept in the string; this will be replaced with the name of the search
      engine. -->
 
-<!ENTITY suggestions_prompt "&#037;(r)en bilaketa-gomendioak gaitu nahi dituzu?">
+<!ENTITY suggestions_prompt "&#037;s(r)en bilaketa-gomendioak gaitu nahi dituzu?">
 
 <!ENTITY webapp_generic_name "Apl">
 
