@@ -77,3 +77,5 @@
 <!ENTITY saveBodies.accesskey "L">
 
 <!ENTITY window.title "ಜಾಲ ಕನ್ಸೋಲ್‌">
+
+<!ENTITY btnClear.tooltip      "ಜಾಲ ಕನ್ಸೋಲ್ ಔಟ್‌ಪುಟ್ ಅನ್ನು ಅಳಿಸು">
