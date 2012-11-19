@@ -15,8 +15,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Desfacer Amestar al diccionariu">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckEnable.label "Revisar ortografía">
-<!ENTITY spellCheckEnable.accesskey "s">
 <!ENTITY spellNoSuggestions.label "(Nun hai suxerencies d'ortografía)">
 <!ENTITY spellDictionaries.label "Llingües">
 <!ENTITY spellDictionaries.accesskey "g">
+<!ENTITY spellCheckToggle.label "Comprobar ortografía">
+<!ENTITY spellCheckToggle.accesskey "b">
