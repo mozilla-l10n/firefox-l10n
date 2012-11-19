@@ -18,3 +18,6 @@
 <!ENTITY debuggerUI.showNonEnums "Visualizza proprietà nascoste">
 <!ENTITY debuggerUI.showNonEnums.key "s">
 <!ENTITY debuggerUI.searchPanelTitle "Operatori">
+<!ENTITY debuggerUI.condBreakPanelTitle "Questo punto di interruzione blocca l'esecuzione solo se l'espressione seguente è vera">
+<!ENTITY debuggerUI.seMenuBreak "Aggiungi punto di interruzione">
+<!ENTITY debuggerUI.seMenuCondBreak "Aggiunto punto di interruzione condizionale">
