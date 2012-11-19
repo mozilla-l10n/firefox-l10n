@@ -682,13 +682,13 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
   -  toolbar.  -->
-<!ENTITY inspectOptionButton.tooltiptext    "Inspector-র বৈশিষ্ট্য">
+<!-- ENTITY inspectOptionButton.tooltiptext    "Inspector-র বৈশিষ্ট্য" -->
 
 <!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-<!ENTITY inspectorToggleVeil.label          "পৃষ্ঠার উজ্জ্বলতা হ্রাস করা হবে">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "নোডের তথ্য প্রদর্শন করা হবে">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
+<!-- ENTITY inspectorToggleVeil.label          "পৃষ্ঠার উজ্জ্বলতা হ্রাস করা হবে" -->
+<!-- ENTITY inspectorToggleVeil.accesskey      "D" -->
+<!-- ENTITY inspectorToggleInfobar.label       "নোডের তথ্য প্রদর্শন করা হবে" -->
+<!-- ENTITY inspectorToggleInfobar.accesskey   "S" -->
 
 <!-- ENTITY inspectPanelTitle.label      "HTML" -->
 <!-- ENTITY inspectButton.label          "তদারকি" -->
@@ -803,7 +803,7 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Social Toolbar Button">
 <!ENTITY social.notLoggedIn.label   "Not logged in">
 
-<!ENTITY social.sharePopup.undo.label     "Unshare">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.ok.label       "OK">
-<!ENTITY social.sharePopup.ok.accesskey   "O">
+<!-- ENTITY social.sharePopup.undo.label     "Unshare" -->
+<!-- ENTITY social.sharePopup.undo.accesskey "U" -->
+<!-- ENTITY social.sharePopup.ok.label       "OK" -->
+<!-- ENTITY social.sharePopup.ok.accesskey   "O" -->
