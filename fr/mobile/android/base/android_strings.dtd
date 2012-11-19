@@ -71,7 +71,7 @@
 <!ENTITY pref_telemetry "Envoyer données de perf.">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 
-<!ENTITY pref_cookies "Cookies">
+<!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Autorisés">
 <!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
 <!ENTITY pref_cookies_disabled "Non autorisés">
