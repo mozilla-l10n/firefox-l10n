@@ -56,7 +56,7 @@
 <!ENTITY pref_do_not_track "Attiva antitracciamento">
 <!ENTITY pref_telemetry "Invia dati prestazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
-<!ENTITY pref_cookies "Cookie">
+<!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
 <!ENTITY pref_cookies_disabled "Disattivati">
