@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label '選項'>
 <!ENTITY sync.summary.pair.label '鏈結其他裝置至您的 &syncBrand.shortName.label; 帳號'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label '要同步什麼'>
+<!ENTITY sync.configure.engines.sync.my.title.label '同步您的…'>
+<!ENTITY sync.configure.engines.title.bookmarks '書籤'>
+<!ENTITY sync.configure.engines.title.passwords '密碼'>
+<!ENTITY sync.configure.engines.title.history '歷史'>
+<!ENTITY sync.configure.engines.title.tabs '分頁'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label '取消'>
 <!ENTITY sync.button.connect.label '連線'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '僅支援一個 &syncBrand.fullName.label; 帳號。'>
+<!ENTITY sync.notification.configure.saved '已儲存您的選擇。'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label '錯誤的帳號或密碼。'>
