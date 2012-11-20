@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Alternativ'>
 <!ENTITY sync.summary.pair.label 'Länka annan enhet till ditt &syncBrand.shortName.label;-konto'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Vad ska synkas'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synka …'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Bokmärken'>
+<!ENTITY sync.configure.engines.title.passwords 'Lösenord'>
+<!ENTITY sync.configure.engines.title.history 'Historik'>
+<!ENTITY sync.configure.engines.title.tabs 'Flikar'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Avbryt'>
 <!ENTITY sync.button.connect.label 'Anslut'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
+<!ENTITY sync.notification.configure.saved 'Dina val har sparats.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Fel kontonamn eller lösenord.'>
