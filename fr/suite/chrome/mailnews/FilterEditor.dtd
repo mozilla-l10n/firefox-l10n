@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "Maximale">
 
 <!ENTITY contextDesc.label "Appliquer le filtre :">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "Lors de la réception du courrier">
+<!ENTITY contextIncomingMail.label "Lors de la réception du courrier :">
+<!ENTITY contextIncomingMail.accesskey "L">
 <!ENTITY contextManual.label "Lors de son exécution manuelle">
-<!ENTITY contextBoth.label "Lors de la réception du courrier ou de son exécution manuelle">
-<!ENTITY contextPostPlugin.label "Vérifier le courrier (après classement)">
-<!ENTITY contextPostPluginBoth.label "Vérifier le courrier (après classement) ou exécuter manuellement">
+<!ENTITY contextManual.accesskey "r">
+<!ENTITY contextBeforeCls.label "Filtrer avant la vérification des indésirables">
+<!ENTITY contextAfterCls.label "Filter après la vérification des indésirables">
+
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
 
