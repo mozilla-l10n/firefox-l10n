@@ -11,9 +11,6 @@
 <!ENTITY prefEnableHTTP11.label "Использовать HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey "с">
 <!ENTITY prefEnableHTTP11Proxy.accesskey "т">
-<!ENTITY prefEnableKeepAlive.label "Поддерживать соединение">
-<!ENTITY prefEnableKeepAlive.accesskey "П">
-<!ENTITY prefEnableKeepAliveProxy.accesskey "о">
 <!ENTITY prefEnablePipelining.label "Использовать конвейерную обработку данных">
 <!ENTITY prefEnablePipelining.accesskey "к">
 <!ENTITY prefEnablePipeliningProxy.accesskey "с">

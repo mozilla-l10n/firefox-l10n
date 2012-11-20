@@ -56,7 +56,10 @@
 <!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
 <!ENTITY pref_remember_signons "Запоминать пароли">
-<!ENTITY pref_cookies "Включить куки">
+<!ENTITY pref_cookies_menu "Куки">
+<!ENTITY pref_cookies_accept_all "Включены">
+<!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
+<!ENTITY pref_cookies_disabled "Отключены">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
@@ -66,6 +69,7 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
+<!ENTITY pref_reflow_on_zoom2 "Перерисовка после увеличения">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -86,6 +90,10 @@
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings "Настройки сайтов">
+<!ENTITY pref_update_autodownload "Автоматическое обновление">
+<!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Отключено">
+<!ENTITY pref_update_autodownload_enabled "Включено">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
@@ -98,6 +106,7 @@
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Полная версия сайта">
 <!ENTITY tools "Инструменты">
+<!ENTITY new_pb_tab "Новая приватная вкладка">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Назад">
 <!ENTITY find_next "Далее">
@@ -142,7 +151,6 @@
 <!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
 <!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY abouthome_top_sites_title "Топ сайтов">
-<!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
 <!ENTITY abouthome_about_sync3 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
 <!ENTITY abouthome_about_apps3 "Загрузите приложения из магазина Firefox и откройте для себя всё самое лучшее, что может предложить Интернет »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
