@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Stäng flik">
 <!ENTITY new_tab "Ny flik">
 <!ENTITY one_tab "1 flik">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d flikar">
 <!ENTITY new_tab_opened "Ny flik öppnades">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Be platser att inte spåra mig">
 <!ENTITY pref_telemetry "Skicka prestandadata">
 <!ENTITY pref_remember_signons "Spara lösenord">
-<!ENTITY pref_cookies "Aktivera kakor">
+
+<!ENTITY pref_cookies_menu "Kakor">
+<!ENTITY pref_cookies_accept_all "Aktiverade">
+<!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
+<!ENTITY pref_cookies_disabled "Inaktiverade">
+
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
 <!ENTITY pref_char_encoding_off "Visa ingen meny">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverade">
 <!ENTITY pref_text_size "Textstorlek">
+<!ENTITY pref_reflow_on_zoom2 "Nyp för att omarbeta text">
 <!ENTITY pref_font_size_tiny "Pytteliten">
 <!ENTITY pref_font_size_small "Liten">
 <!ENTITY pref_font_size_medium "Normal">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
 
+<!ENTITY pref_update_autodownload "Automatiska uppdateringar">
+<!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Inaktiverat">
+<!ENTITY pref_update_autodownload_enabled "Aktiverat">
+
 <!ENTITY quit "Avsluta">
 
 <!ENTITY addons "Tillägg">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Sök på sidan">
 <!ENTITY desktop_mode "Begär datoranpassad webbplats">
 <!ENTITY tools "Verktyg">
+<!ENTITY new_pb_tab "Ny privat flik">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Dina senaste flikar">
 <!ENTITY abouthome_last_tabs_open "Öppna alla flikar från sist">
 <!ENTITY abouthome_top_sites_title "Mest besökta">
-<!ENTITY abouthome_top_sites_browse "Bläddra bland de mest besökta">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

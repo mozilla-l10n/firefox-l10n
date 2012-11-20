@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "o">
 <!ENTITY searchIntegration.label       "Låt &searchIntegration.engineName; söka igenom meddelanden">
 <!ENTITY searchIntegration.accesskey   "L">
-<!ENTITY checkNow.label                "Kontrollera nu">
-<!ENTITY checkNow.accesskey            "n">
+<!ENTITY checkDefaultsNow.label        "Kontrollera nu…">
+<!ENTITY checkDefaultsNow.accesskey    "n">
 <!ENTITY configEditDesc.label          "Avancerade inställningar">
 <!ENTITY configEdit.label              "Konfigurationsredigerare…">
 <!ENTITY configEdit.accesskey          "K">
