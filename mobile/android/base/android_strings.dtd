@@ -22,7 +22,7 @@
 <!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY  sending_crash_report "Sending crash report\u2026">
 <!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
-<!ENTITY  continue_label "ਜਾਰੀ ਰੱਖੋ>
+<!ENTITY  continue_label "ਜਾਰੀ ਰੱਖੋ">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ਵੈਬ ਐਪਸ">
 <!ENTITY  launcher_shortcuts_empty "ਕੋਈ ਵੈਬ ਐਪਸ ਨਹੀਂ ਲੱਭੀ">
