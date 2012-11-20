@@ -135,8 +135,8 @@
 <!ENTITY returnReceiptMenu.accesskey        "d">
 <!ENTITY dsnMenu.label                      "Informuj o statusie dostarczania">
 <!ENTITY dsnMenu.accesskey                  "n">
-<!ENTITY outputFormatMenu.label             "Wyślij wiadomość jako">
-<!ENTITY outputFormatMenu.accesskey         "W">
+<!ENTITY deliveryFormatMenu.label "Wyślij wiadomość jako">
+<!ENTITY deliveryFormatMenu.accesskey "W">
 <!ENTITY autoFormatCmd.label                "Wybierz automatycznie">
 <!ENTITY autoFormatCmd.accesskey            "a">
 <!ENTITY plainTextFormatCmd.label           "Tylko tekst">
