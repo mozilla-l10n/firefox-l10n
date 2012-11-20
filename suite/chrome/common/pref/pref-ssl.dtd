@@ -13,8 +13,6 @@
 <!ENTITY warn.description "&brandShortName; может сообщать о степени шифрования просматриваемой вами страницы. &brandShortName; будет выводить предупреждения и запрашивать разрешение перед:">
 <!ENTITY warn.enteringsecure "загрузкой страницы, поддерживающей шифрование">
 <!ENTITY warn.enteringsecure.accesskey "о">
-<!ENTITY warn.enteringweak "загрузкой страницы, использующей слабое шифрование">
-<!ENTITY warn.enteringweak.accesskey "с">
 <!ENTITY warn.insecurepost "отправкой данных формы с незашифрованной страницы на незашифрованную">
 <!ENTITY warn.insecurepost.accesskey "ф">
 <!ENTITY warn.leavingsecure "уходом со страницы, поддерживающей шифрование">

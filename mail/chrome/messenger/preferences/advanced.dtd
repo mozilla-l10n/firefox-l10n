@@ -22,8 +22,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "п">
 <!ENTITY searchIntegration.label "Разрешить &searchIntegration.engineName; производить поиск сообщений">
 <!ENTITY searchIntegration.accesskey "з">
-<!ENTITY checkNow.label "Проверить сейчас">
-<!ENTITY checkNow.accesskey "с">
+<!ENTITY checkDefaultsNow.label "Проверить сейчас…">
+<!ENTITY checkDefaultsNow.accesskey "с">
 <!ENTITY configEditDesc.label "Дополнительные настройки">
 <!ENTITY configEdit.label "Редактор настроек…">
 <!ENTITY configEdit.accesskey "д">
