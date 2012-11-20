@@ -9,6 +9,7 @@
 <!ENTITY email.label "Почтового клиента">
 <!ENTITY newsgroups.label "Клиента групп новостей">
 <!ENTITY feeds.label "Клиента лент новостей">
+<!ENTITY unsetDefault.tooltip "Невозможно отказаться от использования &brandShortName; в качестве клиента по умолчанию, находясь в самом &brandShortName;. Чтобы установить другое приложение в качестве клиента по умолчанию, вы должны использовать его функцию 'Установка по умолчанию'.">
 <!ENTITY checkOnStartup.label "Всегда производить эту проверку при запуске &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "В">
 <!ENTITY searchIntegration.label "Разрешить &searchIntegration.engineName; производить поиск сообщений">
