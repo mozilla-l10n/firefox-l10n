@@ -11,6 +11,8 @@
 <!ENTITY newsgroups.label "Diskussionsgrupper">
 <!ENTITY feeds.label "RSS-kanaler">
 
+<!ENTITY unsetDefault.tooltip "Det är inte möjligt att ta bort &brandShortName; som standardklient inuti &brandShortName;. För att göra ett annat program till standard måste du använda dess 'Ange som standard'-dialog.">
+
 <!ENTITY checkOnStartup.label "Gör alltid denna kontroll när &brandShortName; startar">
 <!ENTITY checkOnStartup.accesskey "G">
 
