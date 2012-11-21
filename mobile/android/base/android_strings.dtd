@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Aktiver Spor-mig-ikke">
 <!ENTITY pref_telemetry "Indsend ydelsesdata">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
-<!ENTITY pref_cookies "Aktiver cookies">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Aktiveret">
+<!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
+<!ENTITY pref_cookies_disabled "Deaktiveret">
+
 <!ENTITY pref_char_encoding "Tegnkodning">
 <!ENTITY pref_char_encoding_on "Vis menu">
 <!ENTITY pref_char_encoding_off "Vis ikke menu">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tryk for at afspille">
 <!ENTITY pref_plugins_disabled "Deaktiveret">
 <!ENTITY pref_text_size "Tekststørrelse">
+<!ENTITY pref_reflow_on_zoom2 "Knib for at reformatere teksten">
 <!ENTITY pref_font_size_tiny "Ekstra lille">
 <!ENTITY pref_font_size_small "Lille">
 <!ENTITY pref_font_size_medium "Mellem">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline webapplikationsdata">
 <!ENTITY pref_private_data_siteSettings "Webstedsindstillinger">
 
+<!ENTITY pref_update_autodownload "Automatiske opdateringer">
+<!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Deaktiveret">
+<!ENTITY pref_update_autodownload_enabled "Aktivere">
+
 <!ENTITY quit "Afslut">
 
 <!ENTITY addons "Tilføjelser">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Find på siden">
 <!ENTITY desktop_mode "Anmod om desktopversion">
 <!ENTITY tools "Funktioner">
+<!ENTITY new_pb_tab "Nyt faneblad med privat browsing">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Dine faneblade fra sidst">
 <!ENTITY abouthome_last_tabs_open "Åbn alle faneblade fra sidst">
 <!ENTITY abouthome_top_sites_title "Hyppige steder">
-<!ENTITY abouthome_top_sites_browse "Vis alle dine hyppige steder">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

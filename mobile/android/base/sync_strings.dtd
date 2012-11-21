@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Indstillinger'>
 <!ENTITY sync.summary.pair.label 'Kobl en anden enhed til din &syncBrand.shortName.label;-konto'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Skal synkroniseres'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synkroniser dine…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Bogmærker'>
+<!ENTITY sync.configure.engines.title.passwords 'Adgangskoder'>
+<!ENTITY sync.configure.engines.title.history 'Historik'>
+<!ENTITY sync.configure.engines.title.tabs 'Faneblade'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Annuller'>
 <!ENTITY sync.button.connect.label 'Forbind'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Kun én &syncBrand.fullName.label;-konto er understøttet.'>
+<!ENTITY sync.notification.configure.saved 'Dine valg er blevet gemt.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Forkert kontonavn eller adgangskode.'>
