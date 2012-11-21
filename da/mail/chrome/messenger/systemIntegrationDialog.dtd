@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Systemintegration">
+<!ENTITY acceptIntegration.label  "Angiv som standard">
+<!ENTITY cancelIntegration.label  "Undlad integration">
 <!ENTITY defaultClient.intro  "Brug &brandShortName; som standardprogram til:">
 
 <!ENTITY email.label "Mail">
 <!ENTITY newsgroups.label "Nyhedsgrupper">
 <!ENTITY feeds.label "Feeds">
+
+<!ENTITY unsetDefault.tooltip "Det er ikke muligt at angive et andet standardprogram end &brandShortName; inde fra &brandShortName;. For at angive et andet standardprogram skal du gå ind i det ønskede program og der angive, at det skal bruges som standard.">
 
 <!ENTITY checkOnStartup.label "Undersøg altid om &brandShortName; er standardprogram, når &brandShortName; startes">
 <!ENTITY checkOnStartup.accesskey "A">

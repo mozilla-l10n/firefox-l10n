@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "i">
 <!ENTITY dsnMenu.label "Meddelelse om leveringsstatus">
 <!ENTITY dsnMenu.accesskey "M">
-<!ENTITY outputFormatMenu.label "Formater">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY deliveryFormatMenu.label "Leveringsformat">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Find automatisk">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Kun ren tekst">

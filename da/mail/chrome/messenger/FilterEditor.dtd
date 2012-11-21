@@ -34,12 +34,12 @@
 <!ENTITY stopExecution.label "Stop filter">
 
 <!ENTITY contextDesc.label "Kør filter ved:">
-<!ENTITY contextDesc.accesskey "K">
-<!ENTITY contextIncoming.label "Mailhentning">
+<!ENTITY contextIncomingMail.label "Henter nye meddelelser:">
+<!ENTITY contextIncomingMail.accesskey "H">
 <!ENTITY contextManual.label "Manuel start">
-<!ENTITY contextBoth.label "Mailhentning og manuel start">
-<!ENTITY contextPostPlugin.label "Mailhentning (efter klassifikation)">
-<!ENTITY contextPostPluginBoth.label "Mailhentning (efter klassifikation) og Manuel start">
+<!ENTITY contextManual.accesskey "M">
+<!ENTITY contextBeforeCls.label "Filtrer før spam-klassificering">
+<!ENTITY contextAfterCls.label "Filtrer efter spam-klassificering">
 
 <!ENTITY addAction.tooltip "Tilføj en ny handling">
 <!ENTITY removeAction.tooltip "Fjern denne handling">
