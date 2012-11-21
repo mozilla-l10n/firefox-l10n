@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "回覆">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "回信給寄件者">
-<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyListCmd.label "回覆至清單">
+<!ENTITY replyListCmd.accesskey "y">
 <!ENTITY replyNewsgroupCmd.label "回覆到新聞群組">
 <!ENTITY replyNewsgroupCmd.accesskey	"y">
+<!ENTITY replySenderCmd.label "回信給寄件者">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "回信給所有人">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "回信給寄件者">
 <!ENTITY contextReplySender.accesskey "o">
+<!ENTITY contextReplyList.label "回覆至清單">
+<!ENTITY contextReplyList.accesskey "y">
 <!ENTITY contextReplyNewsgroup.label "回覆到新聞群組">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "回信給所有人">
