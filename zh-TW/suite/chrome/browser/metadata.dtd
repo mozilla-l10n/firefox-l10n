@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "寬度:">
 <!ENTITY image-height.label    "高度:">
 <!ENTITY image-filesize.label  "檔案大小:">
+<!ENTITY image-filesize.value  "未知">
 <!ENTITY insdel-sec.label      "插入／刪除屬性">
 <!ENTITY insdel-cite.label     "資訊:">
 <!ENTITY insdel-date.label     "日期:">
