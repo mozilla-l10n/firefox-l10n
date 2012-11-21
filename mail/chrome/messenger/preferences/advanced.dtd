@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "U">
 <!ENTITY searchIntegration.label       "Tillad &searchIntegration.engineName; at søge efter meddelelser">
 <!ENTITY searchIntegration.accesskey   "T">
-<!ENTITY checkNow.label                "Undersøg nu">
-<!ENTITY checkNow.accesskey            "n">
+<!ENTITY checkDefaultsNow.label        "Undersøg nu…">
+<!ENTITY checkDefaultsNow.accesskey    "n">
 <!ENTITY configEditDesc.label          "Avanceret konfiguration">
 <!ENTITY configEdit.label              "Avancerede indstillinger…">
 <!ENTITY configEdit.accesskey          "r">

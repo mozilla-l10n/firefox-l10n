@@ -317,7 +317,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "C">
 <!ENTITY prevStarredMsgCmd.label "Stjernemarkerede meddelelse">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Mappe">
