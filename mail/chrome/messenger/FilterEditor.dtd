@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "最高">
 
 <!ENTITY contextDesc.label "套用篩選器當:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "檢查郵件時">
+<!ENTITY contextIncomingMail.label "正在取回新郵件:">
+<!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "手動執行">
-<!ENTITY contextBoth.label "檢查郵件時或手動執行時">
-<!ENTITY contextPostPlugin.label "檢查郵件(分類後)">
-<!ENTITY contextPostPluginBoth.label "檢查郵件(分類後)或手動執行">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "在進行垃圾信偵測前進行過濾">
+<!ENTITY contextAfterCls.label "在進行垃圾信偵測後進行過濾">
+
 <!ENTITY filterActionDesc.label "執行下列動作:">
 <!ENTITY filterActionDesc.accesskey "P">
 
