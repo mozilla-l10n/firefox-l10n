@@ -123,7 +123,6 @@
 <!ENTITY feedButton.tooltip "Soscribise a esta páxina…">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Amosar los marcadores">
-<!ENTITY bookmarksButton.accesskey "c">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip "Amosar los marcadores">
@@ -134,7 +133,6 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Historial">
 <!ENTITY historyButton.tooltip "Amosar páxines visitaes de recién">
-<!ENTITY historySidebarCmd.accesskey "s">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Ferramientes">
 <!ENTITY toolsMenu.accesskey "T">

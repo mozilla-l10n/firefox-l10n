@@ -1,6 +1,3 @@
-<!ENTITY networkPanel.requestURL "URL de la solicitú">
-<!ENTITY networkPanel.requestMethod "Método de la solicitú">
-<!ENTITY networkPanel.statusCode "Códigu d'estáu">
 <!ENTITY networkPanel.requestHeaders "Testeres de la solicitú">
 <!ENTITY networkPanel.requestCookie "Cookie unviada">
 <!ENTITY networkPanel.requestBody "Cuerpu de la solicitú">
