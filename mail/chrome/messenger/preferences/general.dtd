@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "&brandShortName;-Startseite">
 <!ENTITY enableStartPage.label            "Beim Aufrufen von &brandShortName; die Startseite anzeigen">
 <!ENTITY enableStartPage.accesskey        "m">
@@ -27,9 +31,3 @@
 <!ENTITY customsound.accesskey            "e">
 <!ENTITY browse.label                     "Durchsuchen…">
 <!ENTITY browse.accesskey                 "u">
-
-<!ENTITY addonsMgr.label                  "Add-ons">
-<!ENTITY manageAddonsDescWin.label        "Add-on-Einstellungen ändern">
-<!ENTITY manageAddonsDescUnix2.label      "Add-on-Optionen ändern">
-<!ENTITY manageAddons.label               "Add-ons verwalten…">
-<!ENTITY manageAddons.accesskey           "v">

@@ -8,7 +8,6 @@
 <!ENTITY  awesomebar_all_pages_title "Meistbesucht">
 <!ENTITY  awesomebar_bookmarks_title "Lesezeichen">
 <!ENTITY  awesomebar_history_title "Chronik">
-<!ENTITY  awesomebar_search_engine "Suche für \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-Absturz-Melder">
 <!ENTITY  crash_message "&brandShortName; ist abgestürzt. Ihre Tabs sollten auf der &brandShortName;-Startseite angezeigt werden, wenn Sie neu starten.">
@@ -96,6 +95,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Der schnelle, orange Fuchs überspringt Ihre Erwartungen mit mehr Geschwindigkeit, mehr Flexibilität und mehr Sicherheit. Als nicht-kommerzielle Organisation sind wir frei, um zu Ihrem Wohle zu entwickeln ohne durch äußeren Druck Kompromisse eingehen zu müssen. Das bedeutet ein besseres Benutzererlebnis für Sie und eine rosigere Zukunft für das Internet.">
 
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
+<!ENTITY pref_show_product_announcements "Produktankündigungen anzeigen">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_import_android "Import aus Android">
 <!ENTITY pref_private_data_history "Besuchte Seiten &amp; Download-Chronik">
@@ -120,6 +120,7 @@ size. -->
 <!ENTITY save_as_pdf "Als PDF speichern">
 <!ENTITY find_in_page "In Seite suchen">
 <!ENTITY desktop_mode "Desktop-Seite">
+<!ENTITY tools "Extras">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -129,6 +130,7 @@ size. -->
 <!ENTITY find_close "Schließen">
 
 <!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
+<!ENTITY contextmenu_open_in_reader "Im Lesemodus öffnen">
 <!ENTITY contextmenu_remove_history "Löschen">
 <!ENTITY contextmenu_remove_bookmark "Löschen">
 <!ENTITY contextmenu_add_to_launcher "Zu Startbildschirm hinzufügen">
@@ -156,7 +158,7 @@ size. -->
 <!ENTITY reading_list_added "Seite zu Ihrer Leseliste hinzugefügt">
 <!ENTITY reading_list_removed "Seite aus Ihrer Leseliste gelöscht">
 <!ENTITY reading_list_failed "Seite konnte nicht zur Leseliste hinzugefügt werden">
-<!ENTITY reader_mode "Lese-Modus">
+<!ENTITY reader "Lesemodus">
 
 <!ENTITY masterpassword_create_title "Master-Passwort festlegen">
 <!ENTITY masterpassword_remove_title "Master-Passwort entfernen">
@@ -165,7 +167,11 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Abbrechen">
+<!ENTITY button_yes "Ja">
+<!ENTITY button_no "Nein">
 <!ENTITY button_clear_data "Daten löschen">
+<!ENTITY button_set "Übernehmen">
+<!ENTITY button_clear "Leeren">
 
 <!ENTITY abouthome_addons_title "Add-ons für &brandShortName;">
 <!ENTITY abouthome_addons_browse "Alle &brandShortName;-Add-ons durchsehen">
@@ -179,13 +185,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Richten Sie Firefox-Sync ein, um auf Lesezeichen, Chronik und Tabs von anderen Geräten aus zuzugreifen.&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Holen Sie sich Apps aus dem Mozilla Marketplace und entdecken Sie das Beste, was das Web zu bieten hat.&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Holen Sie sich Apps aus dem Firefox-Marketplace und entdecken Sie das Beste, was das Web zu bieten hat.&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox-Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox-Marketplace">
 
 <!ENTITY filepicker_title "Datei auswählen">
 <!ENTITY filepicker_audio_title "Einen Ton auswählen oder aufnehmen">
@@ -216,20 +222,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Private Daten gelöscht">
 <!ENTITY private_data_fail "Einige private Daten konnten nicht gelöscht werden">
 
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+<!ENTITY suggestions_prompt "Sollen Suchvorschläge von &#037;s angezeigt werden?">
+
 <!ENTITY webapp_generic_name "App">
 
+<!ENTITY searchable_description "Lesezeichen und Chronik">
+
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName;-Update verfügbar&#8230;">
-<!ENTITY updater_start_select "&brandShortName; herunterladen">
+<!ENTITY updater_start_title2 "Update für &brandShortName; verfügbar">
+<!ENTITY updater_start_select2 "Zum Herunterladen antippen">
 
-<!ENTITY updater_downloading_title "Lädt &brandShortName; herunter">
-<!ENTITY updater_downloading_ticker "Lädt &brandShortName;-Update herunter&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Konnte &brandShortName;-Update nicht herunterladen&#8230;">
-<!ENTITY updater_downloading_select "Nach Beenden zum Anwenden auswählen">
-<!ENTITY updater_downloading_retry "Zum erneuten Herunterladen auswählen">
-<!ENTITY updater_downloading_willapply "Warten auf Fertigstellung des Downloads">
+<!ENTITY updater_downloading_title2 "Lädt &brandShortName; herunter">
+<!ENTITY updater_downloading_title_failed2 "Fehler beim Herunterladen">
+<!ENTITY updater_downloading_select2 "Zum Aktualisieren nach dem Herunterladen antippen">
+<!ENTITY updater_downloading_retry2 "Zum erneuten Herunterladen antippen">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName;-Update verfügbar&#8230;">
-<!ENTITY updater_apply_select "Zum Anwenden des heruntergeladenen Updates auswählen.">
+<!ENTITY updater_apply_title2 "Update für &brandShortName; verfübar">
+<!ENTITY updater_apply_select2 "Zum Aktualisieren antippen">
