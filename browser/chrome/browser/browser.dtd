@@ -151,7 +151,6 @@ can reach it easily. -->
 
 <!ENTITY bookmarksButton.label          "Segnalìbbri">
 <!ENTITY bookmarksButton.tooltip        "Vèddi i teu segnalìbbri">
-<!ENTITY bookmarksButton.accesskey  "b">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Segnalìbbri">
@@ -168,7 +167,6 @@ can reach it easily. -->
 
 <!ENTITY historyButton.label            "Stöia">
 <!ENTITY historyButton.tooltip          "Fànni védde e pàgine che ti t'æ visto urtimaménte">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Struménti">
@@ -664,3 +662,7 @@ toolbar button -->
 <!ENTITY social.toggleNotifications.label "Fànni védde e notìfiche do desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
+<!ENTITY newPrivateWindow.accesskey "u">
+<!ENTITY newPrivateWindow.label "Nêuvo barcón anònimo">
+<!ENTITY remoteWebConsoleCmd.label "Console web remòtta">
+<!ENTITY social.chatBar.commandkey "c">

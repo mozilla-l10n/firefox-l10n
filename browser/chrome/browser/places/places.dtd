@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Riçèrca:">
 <!ENTITY search.accesskey                          "R">
 
-<!ENTITY search.in.label                           "Çèrca in:">
-<!ENTITY search.scopeFolder.label                  "Cartélla seleçionâ">
-<!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "Segnalìbbri">
-<!ENTITY search.scopeBookmarks.accesskey           "S">
-<!ENTITY search.scopeDownloads.label               "Descaregaménti">
-<!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "Stöia">
-<!ENTITY search.scopeHistory.accesskey             "S">
-<!ENTITY saveSearch.label                          "Sàrva">
-<!ENTITY saveSearch.accesskey                      "S">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Inportâ e fâ de còpie de seguéssa">
