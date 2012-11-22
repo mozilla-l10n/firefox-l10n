@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Antwort">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "Antwort nur an Absender">
-<!ENTITY replySenderCmd.accesskey "u">
+<!ENTITY replyListCmd.label "Antwort an Liste">
+<!ENTITY replyListCmd.accesskey "s">
 <!ENTITY replyNewsgroupCmd.label "Antwort an Newsgroup">
 <!ENTITY replyNewsgroupCmd.accesskey	"A">
+<!ENTITY replySenderCmd.label "Antwort nur an Absender">
+<!ENTITY replySenderCmd.accesskey "u">
 <!ENTITY replyToAllMsgCmd.label "Antwort an alle">
 <!ENTITY replyToAllMsgCmd.accesskey	"o">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextReplySender.label "Antwort nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
+<!ENTITY contextReplyList.label "Antwort an Liste">
+<!ENTITY contextReplyList.accesskey "r">
 <!ENTITY contextReplyNewsgroup.label "Antwort an Newsgroup">
 <!ENTITY contextReplyNewsgroup.accesskey "N">
 <!ENTITY contextReplyAll.label "Antwort an alle">

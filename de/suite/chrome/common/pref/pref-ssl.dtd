@@ -15,8 +15,6 @@
 <!ENTITY warn.description                   "&brandShortName; kann Sie über den Sicherheitsstatus von Webseiten, die Sie ansehen, informieren. Anzeigen einer Warnung und Frage um Erlaubnis aktivieren vor:">
 <!ENTITY warn.enteringsecure                "Laden einer Seite, die Verschlüsselung unterstützt">
 <!ENTITY warn.enteringsecure.accesskey      "L">
-<!ENTITY warn.enteringweak                  "Laden einer Seite, die eine nur schwache Verschlüsselung verwendet">
-<!ENTITY warn.enteringweak.accesskey        "d">
 <!ENTITY warn.insecurepost                  "Senden von Formulardaten von einer unverschlüsselten Seite an eine unverschlüsselte Seite">
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "Verlassen einer Seite, die Verschlüsselung unterstützt">
