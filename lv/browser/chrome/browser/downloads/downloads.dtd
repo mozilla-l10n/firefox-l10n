@@ -12,7 +12,7 @@
      longest labels that should fit in the item width are usually those of
      in-progress downloads and those of blocked downloads.
       -->
-<!ENTITY downloadsDetails.width                  "60ch">
+<!ENTITY downloadDetails.width                  "60ch">
 <!ENTITY downloadsSummary.minWidth        "28ch">
 
 
