@@ -117,8 +117,6 @@
 <!ENTITY returnReceiptMenu.accesskey "D">
 <!ENTITY dsnMenu.label "Notificación d'estáu d'entrega">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Formatu">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Autodeteutar">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Namái testu ensin formatu">

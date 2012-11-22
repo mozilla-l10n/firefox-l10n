@@ -10,12 +10,7 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "La más alta">
 <!ENTITY contextDesc.label "Aplicar filtru cuando:">
-<!ENTITY contextDesc.accesskey "u">
-<!ENTITY contextIncoming.label "se compruebe'l corréu">
 <!ENTITY contextManual.label "s'execute manualmente">
-<!ENTITY contextBoth.label "se compruebe'l corréu o s'execute manualmente">
-<!ENTITY contextPostPlugin.label "se compruebe'l corréu (tres clasificalu)">
-<!ENTITY contextPostPluginBoth.label "se compruebe'l corréu (tres clasificalu) o s'execute manualmente">
 <!ENTITY filterActionDesc.label "Facer estes aiciones:">
 <!ENTITY filterActionDesc.accesskey "F">
 <!ENTITY moveMessage.label "Mover mensaxe a">

@@ -699,7 +699,6 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY goChatCmd.label "Charrar">
 <!ENTITY goChatCmd.accesskey "h">
-<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY imAccountsStatus.label "Estáu de chat">
 <!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available "Disponible">
