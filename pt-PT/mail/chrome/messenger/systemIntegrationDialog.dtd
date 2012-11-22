@@ -11,6 +11,8 @@
 <!ENTITY newsgroups.label "Grupos de discussão">
 <!ENTITY feeds.label "Fontes">
 
+<!ENTITY unsetDefault.tooltip "Não é possível anulara seleção do &brandShortName; como o cliente pré-definido do &brandShortName;. Para tornar outra aplicação a pré-definida tem de utilizar o seu diálogo de 'Definir como pré-definido'.">
+
 <!ENTITY checkOnStartup.label "Fazer sempre esta verificação ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "F">
 
