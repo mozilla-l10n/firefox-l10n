@@ -56,7 +56,7 @@
 <!ENTITY pref_do_not_track "No quiero ser rastreado">
 <!ENTITY pref_telemetry "Enviar info. de rend.">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
-<!ENTITY pref_cookies "Cookies">
+<!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, excluyendo la de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
