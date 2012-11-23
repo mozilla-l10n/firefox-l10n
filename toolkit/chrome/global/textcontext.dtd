@@ -19,8 +19,10 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Anùlla l'azónta a-o diçionâio">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckEnable.label "Contròlla o mæ tésto">
-<!ENTITY spellCheckEnable.accesskey "s">
+
+<!ENTITY spellCheckToggle.label "Contròllo òrtogràfico">
+<!ENTITY spellCheckToggle.accesskey "o">
+
 <!ENTITY spellNoSuggestions.label "(No sugerimenti in sciô tésto)">
 <!ENTITY spellDictionaries.label "Léngoe">
 <!ENTITY spellDictionaries.accesskey "L">
