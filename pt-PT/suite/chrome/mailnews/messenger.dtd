@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "Responder apenas ao Remetente">
-<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyListCmd.label "Responder à lista">
+<!ENTITY replyListCmd.accesskey "d">
 <!ENTITY replyNewsgroupCmd.label "Responder ao Grupo de Discussão">
 <!ENTITY replyNewsgroupCmd.accesskey	"G">
+<!ENTITY replySenderCmd.label "Responder apenas ao Remetente">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Responder a Todos">
 <!ENTITY replyToAllMsgCmd.accesskey	"t">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "d">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
 <!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyList.label "Responder à lista">
+<!ENTITY contextReplyList.accesskey "d">
 <!ENTITY contextReplyNewsgroup.label "Responder ao grupo de discussão">
 <!ENTITY contextReplyNewsgroup.accesskey "p">
 <!ENTITY contextReplyAll.label "Responder a todos">
