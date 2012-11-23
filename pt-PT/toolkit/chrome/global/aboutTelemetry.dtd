@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "TDados da telemetria">
+
+<!ENTITY aboutTelemetry.pageSubtitle "
+  This page shows the performance and feature-use data collected by Telemetry.
+  This information is submitted anonymously to Mozilla to help improve &brandShortName;.
+">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "
+  A telemetria está <span>ativada</span>.
+">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "
+  A telemetria está <span>desativada</span>.
+">
+
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Declarações de SQL lentas
+">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  O navegador bloqueia
+">
+
+<!ENTITY aboutTelemetry.histogramsSection "
+  Histogramas
+">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "
+  Medições simples
+">
+
+<!ENTITY aboutTelemetry.systemInfoSection "
+  Informação do sistema
+">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "
+  Histogramas obtidos por extras
+">
+
+<!ENTITY aboutTelemetry.toggleOn "
+  Clique para expandir a secção
+">
+
+<!ENTITY aboutTelemetry.toggleOff "
+  Clique para colapsar a secção
+">
+
+<!ENTITY aboutTelemetry.emptySection "
+  (nenhuns dados obtidos)
+">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "
+  NOTA: A depuração de SQL lento está ativado. Strings de SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.
+">
+
+<!ENTITY aboutTelemetry.fetchSymbols "
+  Procurar nomes das funções para conjuntos de bloqueios
+">
+
+<!ENTITY aboutTelemetry.hideSymbols "
+  Mostrar os dados em bruto dos bloqueios
+">
