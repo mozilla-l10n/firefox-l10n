@@ -1,17 +1,54 @@
-<!ENTITY networkPanel.requestURL                  "URL solicitada">
-<!ENTITY networkPanel.requestMethod               "Método solicitado">
-<!ENTITY networkPanel.statusCode                  "Código de estado">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY networkPanel.requestHeaders              "Encabezados solicitados">
-<!ENTITY networkPanel.requestCookie               "Cookie enviada">
-<!ENTITY networkPanel.requestBody                 "Cuerpo solicitado">
-<!ENTITY networkPanel.requestFormData             "Datos de formulario enviados">
-
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Datos en caché">
-<!ENTITY networkPanel.responseBodyUnknownType     "Tipo de contenido desconocido">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Imagen recibida">
-<!ENTITY networkPanel.responseImageCached         "Imagen en caché">
-
+<!ENTITY window.title "">
+<!ENTITY networkPanel.requestURLColon "">
+<!ENTITY networkPanel.requestMethodColon "">
+<!ENTITY networkPanel.statusCodeColon "">
+<!ENTITY networkPanel.requestHeaders "Encabezados solicitados">
+<!ENTITY networkPanel.requestCookie "Cookie enviada">
+<!ENTITY networkPanel.requestBody "Cuerpo solicitado">
+<!ENTITY networkPanel.requestFormData "Datos de formulario enviados">
+<!ENTITY networkPanel.responseHeaders "">
+<!ENTITY networkPanel.responseCookie "">
+<!ENTITY networkPanel.responseBody "">
+<!ENTITY networkPanel.responseBodyCached "Datos en caché">
+<!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
+<!ENTITY networkPanel.responseNoBody "">
+<!ENTITY networkPanel.responseImage "Imagen recibida">
+<!ENTITY networkPanel.responseImageCached "Imagen en caché">
+<!ENTITY saveBodies.label "">
+<!ENTITY saveBodies.accesskey "">
+<!ENTITY openURL.label "">
+<!ENTITY openURL.accesskey "">
+<!ENTITY btnPageNet.label "">
+<!ENTITY btnPageNet.tooltip "">
+<!ENTITY btnPageCSS.label "">
+<!ENTITY btnPageCSS.tooltip "">
+<!ENTITY btnPageJS.label "">
+<!ENTITY btnPageJS.tooltip "">
+<!ENTITY btnPageLogging.label "">
+<!ENTITY btnPageLogging.tooltip "">
+<!ENTITY btnConsoleErrors "">
+<!ENTITY btnConsoleInfo "">
+<!ENTITY btnConsoleWarnings "">
+<!ENTITY btnConsoleLog "">
+<!ENTITY btnPosition.label "">
+<!ENTITY btnPosition.tooltip "">
+<!ENTITY positionMenu.above "">
+<!ENTITY positionMenu.below "">
+<!ENTITY positionMenu.window "">
+<!ENTITY filterBox.placeholder "">
+<!ENTITY btnClear.label "">
+<!ENTITY btnClear.tooltip "">
+<!ENTITY btnClose.tooltip "">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY copyURLCmd.label "">
+<!ENTITY copyURLCmd.accesskey "">
