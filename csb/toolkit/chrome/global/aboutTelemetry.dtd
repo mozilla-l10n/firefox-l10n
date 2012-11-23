@@ -26,7 +26,7 @@
 
 <!ENTITY aboutTelemetry.toggleOff "Klëkni, bë zwinąc sekcjã">
 
-<!ENTITY aboutTelemetry.emptySection (ni mô pòdôwków)">
+<!ENTITY aboutTelemetry.emptySection "(felëje pòdôwków)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "NOTATKA: Włączoné je wòlné SQL debùgging. Całé wërażenia SQL mògą sã wëskrzënic, ale nie bãdą wësłóné do Telemetrii.">
 
