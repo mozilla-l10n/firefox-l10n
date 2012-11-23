@@ -56,7 +56,10 @@
 <!ENTITY pref_do_not_track "No quiero ser rastreado">
 <!ENTITY pref_telemetry "Enviar info. de rend.">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
-<!ENTITY pref_cookies "Activar cookies">
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Activadas">
+<!ENTITY pref_cookies_not_accept_foreign "Activadas, excluyendo la de terceras partes">
+<!ENTITY pref_cookies_disabled "Desactivadas">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
@@ -66,6 +69,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
 <!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_text_size "Tamaño del texto">
+<!ENTITY pref_reflow_on_zoom2 "Pellizcar para reformatear el texto">
 <!ENTITY pref_font_size_tiny "Diminuto">
 <!ENTITY pref_font_size_small "Pequeño">
 <!ENTITY pref_font_size_medium "Mediano">
@@ -86,6 +90,10 @@
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
+<!ENTITY pref_update_autodownload "Actualizaciones automáticas">
+<!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Desactivadas">
+<!ENTITY pref_update_autodownload_enabled "Activadas">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
@@ -98,6 +106,7 @@
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
 <!ENTITY tools "Herramientas">
+<!ENTITY new_pb_tab "Nueva pestaña de navegación privada">
 <!ENTITY find_text "Buscar en la página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
@@ -142,7 +151,6 @@
 <!ENTITY abouthome_last_tabs_title "Pestañas de su última sesión">
 <!ENTITY abouthome_last_tabs_open "Abrir las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Frecuentes">
-<!ENTITY abouthome_top_sites_browse "Navegar por sus sitios frecuentes">
 <!ENTITY abouthome_about_sync3 "Configure Firefox Sync para acceder a los marcadores, historial y pestañas de sus otros dispositivos »">
 <!ENTITY abouthome_about_apps3 "Consiga aplicaciones desde Firefox Marketplace y descubra lo mejor que la web puede ofrecerle »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">

@@ -39,6 +39,12 @@
 <!ENTITY sync.pair.connectlocation.label "Para activar su nuevo dispositivo, seleccione “Configurar &syncBrand.shortName.label;“ en el dispositivo, y seleccione “Tengo una cuenta“.">
 <!ENTITY sync.settings.options.label "Opciones">
 <!ENTITY sync.summary.pair.label "Vincule otro dispositivo a su cuenta de &syncBrand.shortName.label;">
+<!ENTITY sync.configure.engines.title.label "Qué sincronizar">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar sus…">
+<!ENTITY sync.configure.engines.title.bookmarks "Marcadores">
+<!ENTITY sync.configure.engines.title.passwords "Contraseñas">
+<!ENTITY sync.configure.engines.title.history "Historial">
+<!ENTITY sync.configure.engines.title.tabs "Pestañas">
 <!ENTITY sync.button.cancel.label "Cancelar">
 <!ENTITY sync.button.connect.label "Conectar">
 <!ENTITY sync.button.ok.label "Aceptar">
@@ -52,6 +58,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
 <!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!ENTITY sync.notification.oneaccount.label "Sólo está permitida una cuenta de &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.configure.saved "Sus selecciones han sido guardadas.">
 <!ENTITY sync.invalidcreds.label "Nombre de cuenta o contraseña incorrectos.">
 <!ENTITY sync.invalidserver.label "Por favor, introduzca una URL de servidor válida">
 <!ENTITY sync.verifying.label "Verificando…">
