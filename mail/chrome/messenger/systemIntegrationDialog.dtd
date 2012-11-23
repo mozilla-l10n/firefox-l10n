@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integração do sistema">
+<!ENTITY acceptIntegration.label  "Definir como padrão">
+<!ENTITY cancelIntegration.label  "Saltar integração">
 <!ENTITY defaultClient.intro  "Usar o &brandShortName; como cliente pré-definido para:">
 
 <!ENTITY email.label "Correio electrónico">
 <!ENTITY newsgroups.label "Grupos de discussão">
 <!ENTITY feeds.label "Fontes">
+
+<!ENTITY unsetDefault.tooltip "Não é possível anulara seleção do &brandShortName; como o cliente pré-definido do &brandShortName;. Para tornar outra aplicação a pré-definida tem de utilizar o seu diálogo de 'Definir como pré-definido'.">
 
 <!ENTITY checkOnStartup.label "Fazer sempre esta verificação ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "F">

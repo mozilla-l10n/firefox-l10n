@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label "Escolha isto para o parent">
-<!ENTITY filemessageschoosethis.label "Escolher esta pasta">
+<!ENTITY newfolderchoosethis.label "escolha isto para o parent">
+<!ENTITY filemessageschoosethis.label "escolher esta pasta">
+<!ENTITY recentfolders.label            "Recente">

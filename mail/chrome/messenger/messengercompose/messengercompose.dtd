@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "o">
 <!ENTITY dsnMenu.label "Notificação do Estado da Entrega">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Formatação">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY deliveryFormatMenu.label "Formato de entrega">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Detectar automaticamente">
 <!ENTITY autoFormatCmd.accesskey "d">
 <!ENTITY plainTextFormatCmd.label "Sem formatação">
