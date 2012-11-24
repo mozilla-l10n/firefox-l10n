@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Skriv ut …">
 <!ENTITY otherActionsPrint1.accesskey "S">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Vis vedleggspanelet initielt">
+<!ENTITY startExpandedCmd.accesskey    "V">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Opne">
 <!ENTITY openAttachmentCmd.accesskey    "O">
