@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Slett">
 <!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderTopButton "Flytt øvst">
+<!ENTITY reorderTopButton.accessKey "v">
+<!ENTITY reorderTopButton.toolTip "Omorganiser filter slik at det køyrer før alle andre">
 <!ENTITY reorderUpButton.label "Flytt opp">
 <!ENTITY reorderUpButton.accesskey "o">
 <!ENTITY reorderDownButton.label "Flytt ned">
 <!ENTITY reorderDownButton.accesskey "n">
+<!ENTITY reorderBottomButton "Flytt nedst">
+<!ENTITY reorderBottomButton.accessKey "d">
+<!ENTITY reorderBottomButton.toolTip "Rearrange filter so it executes after all others">
 <!ENTITY filterHeader.label "Filter som er slått på vert utførde i den rekkefølga dei står i nedanfor.">
 <!ENTITY filtersForPrefix.label "Filter for:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -31,3 +37,7 @@
 <!ENTITY helpButton.label "Hjelp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Søk i filter etter namn …">
+
+
+

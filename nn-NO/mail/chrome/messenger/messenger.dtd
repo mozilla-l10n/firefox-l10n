@@ -143,8 +143,8 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Vertikal vising">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Mappepanel">
+<!ENTITY showFolderPaneCmd.accesskey "M">
 <!ENTITY showMessageCmd.label "Meldingsvindauge">
 <!ENTITY showMessageCmd.accesskey "v">
 
@@ -507,6 +507,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.label "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Slett nyleg historikk …">
+<!ENTITY clearRecentHistory.accesskey "n">
 <!ENTITY accountManagerCmd.label "Konto …">
 <!ENTITY accountManagerCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -548,6 +550,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Mappeplassering">
 <!ENTITY tagButton.label "Merkelapp">
 <!ENTITY compactButton.label "Komprimer">
+<!ENTITY appmenuButton.label "AppMeny">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Avansert meldingssøk">
@@ -578,6 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Vis nettprat-fana">
 <!ENTITY tagButton.tooltip "Merk meldingar">
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
+<!ENTITY appmenuButton.tooltip "Viser applikasjons-menyen">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Ny melding">
+<!ENTITY appmenuNewContactCmd.label "Adressebok-kontaktar …">
+<!ENTITY appmenuEditMenu.label "Rediger">
+<!ENTITY appmenuQFBMenu.label "Snøggfilterhjelpelinje">
+<!ENTITY appmenuToolbarLayout.label "Verktøylinje-utsjånad …">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Ny merkelapp …">
@@ -852,7 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyNewsgroupName.accesskey "o">
 <!ENTITY CopyNewsgroupURL.label "Kopier adresse til nyhendegruppe">
 <!ENTITY CopyNewsgroupURL.accesskey "K">
-<!ENTITY CreateFilterFrom.label "Lag filter frå …">
+<!ENTITY CreateFilterFrom.label "Lag filter …">
 <!ENTITY CreateFilterFrom.accesskey "L">
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
 <!ENTITY reportPhishingURL.accesskey "o">

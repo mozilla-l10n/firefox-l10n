@@ -4,7 +4,7 @@
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ser no etter tilgjengelege programtillegg …">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Programtillegg tilgjengelege for nedlasting">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Følgande programtillegg er tilgjengelege:">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Fylgjande programtillegg er tilgjengelege:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Trykk på «Neste» for å installere desse programtillegga.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nokre programtillegg krev at du gjev tilleggsinformasjon under installasjonen.">
 
@@ -33,8 +33,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Trykk her for å aktivere programtillegg.">
 <!ENTITY clickToPlayPlugin                                   "Trykk her for å aktivere programtillegg.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Trykk her for å aktivere sårbart programtillegg..">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Trykk her for å aktivere sårbart programtillegg (ingen oppdateringar tilgjengelege).">
 <!ENTITY checkForUpdates                                     "Sjå etter oppdateringar …">
 <!ENTITY disabledPlugin                                      "Dette programtillegget er avslått.">
 <!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å verne deg.">
