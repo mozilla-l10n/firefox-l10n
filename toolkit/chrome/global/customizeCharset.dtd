@@ -1,4 +1,3 @@
-<!-- -*- Mode: HTML -*- -->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -22,6 +21,7 @@
    - Contributor(s):
    -  Stephen Lamm <slamm@netscape.com>
    -  Pierre Chanial <p_ch@verizon.net>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label        "Personalizar la codificación de caracteres">
-<!ENTITY current.label      "Codificaciones de caracteres activas:">
-<!ENTITY remove.label       "Eliminar">
-<!ENTITY remove.accessKey   "R">
-<!ENTITY additional.label   "Codificaciones de caracteres disponibles:">
-<!ENTITY add.label          "Añadir">
-<!ENTITY add.accessKey      "A">
-<!ENTITY moveUp.label       "Mover hacia arriba">
-<!ENTITY moveUp.accessKey   "U">
-<!ENTITY moveDown.label     "Mover hacia abajo">
+<!ENTITY title.label "Personalizar la codificación de caracteres">
+<!ENTITY current.label "Codificaciones de caracteres activas:">
+<!ENTITY remove.label "Eliminar">
+<!ENTITY remove.accessKey "R">
+<!ENTITY additional.label "Codificaciones de caracteres disponibles:">
+<!ENTITY add.label "Añadir">
+<!ENTITY add.accessKey "A">
+<!ENTITY moveUp.label "Mover hacia arriba">
+<!ENTITY moveUp.accessKey "U">
+<!ENTITY moveDown.label "Mover hacia abajo">
 <!ENTITY moveDown.accessKey "D">

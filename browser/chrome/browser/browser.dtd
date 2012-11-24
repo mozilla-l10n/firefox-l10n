@@ -160,13 +160,13 @@
 <!ENTITY webConsoleCmd.label "Consola web">
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY remoteWebConsoleCmd.label "">
+<!ENTITY remoteWebConsoleCmd.label "Consola web remota">
 <!ENTITY inspectMenu.label "Inspeccionar">
 <!ENTITY inspectMenu.accesskey "n">
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "o">
-<!ENTITY responsiveDesignTool.label "">
+<!ENTITY responsiveDesignTool.label "Vista de diseño flexible">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY scratchpad.label "Borrador">
@@ -181,9 +181,9 @@
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
-<!ENTITY inspectorHTMLCopyInner.label "">
+<!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
-<!ENTITY inspectorHTMLCopyOuter.label "">
+<!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "O">
 <!ENTITY inspectorHTMLDelete.label "Eliminar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "D">
@@ -464,7 +464,7 @@
 <!ENTITY markupButton.arialabel "">
 <!ENTITY markupButton.accesskey "M">
 <!ENTITY socialToolbar.title "">
-<!ENTITY social.notLoggedIn.label "">
+<!ENTITY social.notLoggedIn.label "No conectado">
 <!ENTITY social.ok.label "">
 <!ENTITY social.ok.accesskey "O">
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
