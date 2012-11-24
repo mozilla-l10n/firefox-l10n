@@ -14,15 +14,13 @@
 
 <!ENTITY warn.description                   "&brandShortName; vás môže upozorniť na stav zabezpečenia stránky, ktorú prehliadate. Nastavte si &brandShortName; tak, aby zobrazoval upozornenie a vyžadoval súhlas predtým, ako:">
 <!ENTITY warn.enteringsecure                "načíta zašifrovanú stránku">
-<!ENTITY warn.enteringsecure.accesskey      "z">
-<!ENTITY warn.enteringweak                  "načíta stránku, ktorá používa nízku úroveň šifrovania">
-<!ENTITY warn.enteringweak.accesskey        "n">
+<!ENTITY warn.enteringsecure.accesskey      "n">
 <!ENTITY warn.insecurepost                  "odošle vyplnený formulár z nezašifrovanej stránky na nezašifrovanú stránku">
-<!ENTITY warn.insecurepost.accesskey        "o">
+<!ENTITY warn.insecurepost.accesskey        "m">
 <!ENTITY warn.leavingsecure                 "opustí zašifrovanú stránku">
 <!ENTITY warn.leavingsecure.accesskey       "u">
 <!ENTITY warn.viewmixed                     "zobrazí stránku so zmiešaným zašifrovaným/nezašifrovaným obsahom">
-<!ENTITY warn.viewmixed.accesskey           "m">
+<!ENTITY warn.viewmixed.accesskey           "z">
 
 <!ENTITY certselect.description             "Rozhodnite, ako má &brandShortName; vyberať certifikát, ktorý poskytne serverom, ktoré ho vyžadujú:">
 <!ENTITY certselect.auto                    "Vybrať automaticky">

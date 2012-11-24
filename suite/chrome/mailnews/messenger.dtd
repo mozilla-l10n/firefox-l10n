@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Odpovedať">
 <!ENTITY replyMsgCmd.accesskey "d">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Odpovedať odosielateľovi">
-<!ENTITY replySenderCmd.accesskey "d">
+<!ENTITY replyListCmd.label "Odpovedať zoznamu">
+<!ENTITY replyListCmd.accesskey "O">
 <!ENTITY replyNewsgroupCmd.label "Odpovedať do diskusnej skupiny">
 <!ENTITY replyNewsgroupCmd.accesskey "O">
+<!ENTITY replySenderCmd.label "Odpovedať odosielateľovi">
+<!ENTITY replySenderCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.label "Odpovedať všetkým">
 <!ENTITY replyToAllMsgCmd.accesskey "m">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "n">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
 <!ENTITY contextReplySender.accesskey "d">
+<!ENTITY contextReplyList.label "Odpovedať zoznamu">
+<!ENTITY contextReplyList.accesskey "d">
 <!ENTITY contextReplyNewsgroup.label "Odpovedať do diskusnej skupiny">
 <!ENTITY contextReplyNewsgroup.accesskey "s">
 <!ENTITY contextReplyAll.label "Odpovedať všetkým">
