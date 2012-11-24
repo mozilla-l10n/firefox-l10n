@@ -453,7 +453,7 @@
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
-<!ENTITY syncBrand.shortName.label "">
+<!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "Y">
 <!ENTITY syncSyncNowItem.label "Sincronizar ahora">
@@ -461,11 +461,11 @@
 <!ENTITY syncToolbarButton.label "Sincronizar">
 <!ENTITY addonBarCloseButton.tooltip "Cerrar barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY markupButton.arialabel "">
+<!ENTITY markupButton.arialabel "Marcado">
 <!ENTITY markupButton.accesskey "M">
-<!ENTITY socialToolbar.title "">
+<!ENTITY socialToolbar.title "Botón de la barra de herramientas social">
 <!ENTITY social.notLoggedIn.label "No conectado">
-<!ENTITY social.ok.label "">
+<!ENTITY social.ok.label "Aceptar">
 <!ENTITY social.ok.accesskey "O">
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">

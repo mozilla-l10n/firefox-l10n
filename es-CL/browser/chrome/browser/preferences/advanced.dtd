@@ -22,7 +22,7 @@
 <!ENTITY systemDefaults.label "Parámetros por defecto del sistema">
 <!ENTITY alwaysCheckDefault.label "Siempre revisar al inicio si &brandShortName; es el navegador predeterminado">
 <!ENTITY alwaysCheckDefault.accesskey "S">
-<!ENTITY setDefault.label "Dejar &brandShortName; como el navegador predeterminado">
+<!ENTITY setDefault.label "Hacer &brandShortName; el navegador predeterminado">
 <!ENTITY setDefault.accesskey "d">
 <!ENTITY isDefault.label "&brandShortName; es actualmente su navegador predeterminado">
 <!ENTITY submitCrashes.label "Enviar informes de errores">
