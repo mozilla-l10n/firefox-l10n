@@ -11,6 +11,8 @@
 <!ENTITY newsgroups.label "Diskusné skupiny">
 <!ENTITY feeds.label "Informačné kanály (RSS)">
 
+<!ENTITY unsetDefault.tooltip "Ak chcete zrušiť &brandShortName; ako predvolený e-mailový klient, použite zamýšľanú predvolenú aplikáciu a jej voľbu 'Nastaviť ako predvolenú aplikáciu'. Túto zmenu nie je možné vykonať priamo v aplikácii &brandShortName;.">
+
 <!ENTITY checkOnStartup.label "Pri štarte &brandShortName;u vždy vykonať túto kontrolu">
 <!ENTITY checkOnStartup.accesskey "a">
 

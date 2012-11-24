@@ -71,7 +71,7 @@
 <!ENTITY pref_telemetry "Odosielať údaje o výkonnosti">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
-<!ENTITY pref_cookies "Súbory cookies">
+<!ENTITY pref_cookies_menu "Súbory cookies">
 <!ENTITY pref_cookies_accept_all "Povolené">
 <!ENTITY pref_cookies_not_accept_foreign "Povolené, okrem cookies tretích strán">
 <!ENTITY pref_cookies_disabled "Zakázané">
