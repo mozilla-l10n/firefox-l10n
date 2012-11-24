@@ -13,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label              "Použiť HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "Povoliť trvalé spojenia (Keep-Alive)">
-<!ENTITY prefEnableKeepAlive.accesskey       "K">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "A">
 <!ENTITY prefEnablePipelining.label          "Povoliť Pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "v">
 <!ENTITY prefEnablePipeliningProxy.accesskey "e">

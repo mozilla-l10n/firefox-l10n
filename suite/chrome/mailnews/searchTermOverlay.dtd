@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY matchAll.label "Správy spĺňajúce všetky nasledujúce podmienky">
-<!ENTITY matchAll.accesskey "e">
+<!ENTITY matchAll.accesskey "S">
 <!ENTITY matchAny.label "Správy spĺňajúce aspoň jednu podmienku">
-<!ENTITY matchAny.accesskey "c">
+<!ENTITY matchAny.accesskey "a">
 <!ENTITY matchAllMsgs.label     "Všetky správy">
-<!ENTITY matchAllMsgs.accesskey "V">
+<!ENTITY matchAllMsgs.accesskey "e">
 
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.

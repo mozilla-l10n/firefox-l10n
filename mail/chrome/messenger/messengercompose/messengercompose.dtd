@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "d">
 <!ENTITY dsnMenu.label "Doručiť notifikáciu o stave">
 <!ENTITY dsnMenu.accesskey "o">
-<!ENTITY outputFormatMenu.label "Formát">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Doručiť vo formáte">
+<!ENTITY deliveryFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Automaticky">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Len text">
