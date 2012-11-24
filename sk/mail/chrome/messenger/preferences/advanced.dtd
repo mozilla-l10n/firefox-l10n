@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey   "k">
 <!ENTITY searchIntegration.label        "Umožniť službe &searchIntegration.engineName; prehľadávať správy">
 <!ENTITY searchIntegration.accesskey    "U">
-<!ENTITY checkNow.label                 "Skontrolovať">
-<!ENTITY checkNow.accesskey             "S">
+<!ENTITY checkDefaultsNow.label        "Skontrolovať…">
+<!ENTITY checkDefaultsNow.accesskey    "S">
 <!ENTITY configEditDesc.label           "Pokročilé nastavenia">
 <!ENTITY configEdit.label               "Editor nastavení…">
 <!ENTITY configEdit.accesskey           "E">

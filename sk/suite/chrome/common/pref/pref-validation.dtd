@@ -12,13 +12,5 @@
 <!ENTITY validation.ocsp.caption              "Online overenie stavu certifikátov">
 <!ENTITY enableOCSP.label                     "Použiť Online overenie stavu certifikátov (OCSP) na potvrdenie platnosti certifikátov">
 <!ENTITY enableOCSP.accesskey                 "u">
-<!ENTITY certOCSP2.label                      "Overiť certifikát, ak to určuje server OCSP">
-<!ENTITY certOCSP2.accesskey                  "v">
-<!ENTITY proxyOCSP2.label                     "Overiť všetky certifikáty pomocou nasledujúceho servera OCSP:">
-<!ENTITY proxyOCSP2.accesskey                 "e">
-<!ENTITY serviceURL.label                     "Adresa URL služby:">
-<!ENTITY serviceURL.accesskey                 "d">
-<!ENTITY signingCA.label                      "Odpoveď podpísal:">
-<!ENTITY signingCA.accesskey                  "O">
 <!ENTITY validation.requireOCSP.description   "Ak pripojenie k serveru OCSP zlyhá, označiť certifikát ako neplatný">
 <!ENTITY validation.requireOCSP.accesskey     "A">
