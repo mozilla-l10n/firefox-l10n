@@ -5,7 +5,7 @@
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-data">
 
 <!ENTITY aboutTelemetry.pageSubtitle "
-Denne side viser telemetrys indsamlede data for ydelse og funktionsbrug. De indsamlede data sendes anonymt til Mozilla for at hjælpe med at forbedre &brandShortName;.
+Denne side viser Telemetrys indsamlede data for ydelse og funktionsbrug. De indsamlede data sendes anonymt til Mozilla for at hjælpe med at forbedre &brandShortName;.
 ">
 
 <!ENTITY aboutTelemetry.telemetryEnabled "
@@ -53,11 +53,11 @@ Denne side viser telemetrys indsamlede data for ydelse og funktionsbrug. De inds
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  Bemærk: Langsom SQL-debugging er aktiveret. Hele SQL-strenge vil måske være vist nedenfor, men de bliver ikke sendt til telemetry.
+  Bemærk: Langsom SQL-debugging er aktiveret. Hele SQL-strenge vil måske være vist nedenfor, men de bliver ikke sendt til Telemetry.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  Hent navne for funktioner for hængende stacks
+  Hent navne for funktioner for frosne stacks
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols "
