@@ -71,6 +71,7 @@
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Større">
 <!ENTITY increaseFontSize.accesskey "S">
 <!ENTITY increaseFontSize.key "+">

@@ -26,3 +26,6 @@
 
 <!ENTITY junkClassification.label "Valg">
 <!ENTITY junkActions.label "Mål og bevaring">
+
+<!ENTITY globalJunkPrefs.label "Globale søppelpostinnstillinger …">
+<!ENTITY globalJunkPrefs.accesskey "G">

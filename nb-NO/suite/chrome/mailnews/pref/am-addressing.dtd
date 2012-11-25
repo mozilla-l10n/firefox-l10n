@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Utforming">
+<!ENTITY compositionGroupTitle.label          "Utforming">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Skriv meldinger i HTML-format">
 <!ENTITY useHtml.accesskey                    "H">
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Inkluder signatur for videresendte meldinger">
 <!ENTITY includeSigOnForward.accesskey        "k">
+
+<!ENTITY globalComposingPrefs.label           "Globale utforminginnstillinger …">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Globale adresseinnstillinger …">
+<!ENTITY globalAddressingPrefs.accesskey      "n">
