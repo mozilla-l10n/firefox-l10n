@@ -13,8 +13,6 @@
 <!ENTITY warn.description "&brandShortName; puede alertarle del estado de seguridad de la página web que está viendo. Configure &brandShortName; para mostrar una advertencia y pedir permiso antes de:">
 <!ENTITY warn.enteringsecure "Cargar una página que utiliza cifrado">
 <!ENTITY warn.enteringsecure.accesskey "C">
-<!ENTITY warn.enteringweak "Cargar una página que utiliza cifrado de bajo nivel">
-<!ENTITY warn.enteringweak.accesskey "r">
 <!ENTITY warn.insecurepost "Enviar datos de formulario desde una página sin cifrar a otra sin cifrar">
 <!ENTITY warn.insecurepost.accesskey "E">
 <!ENTITY warn.leavingsecure "Abandonar una página que utiliza cifrado">
