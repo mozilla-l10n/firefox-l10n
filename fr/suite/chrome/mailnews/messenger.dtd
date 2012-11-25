@@ -284,10 +284,12 @@
 <!ENTITY replyMsgCmd.label "Répondre">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Répondre à l'exp. seulement">
-<!ENTITY replySenderCmd.accesskey "x">
+<!ENTITY replyListCmd.label "Répondre à la liste">
+<!ENTITY replyListCmd.accesskey "l">
 <!ENTITY replyNewsgroupCmd.label "Répondre dans le groupe">
 <!ENTITY replyNewsgroupCmd.accesskey "g">
+<!ENTITY replySenderCmd.label "Répondre à l'exp. seulement">
+<!ENTITY replySenderCmd.accesskey "x">
 <!ENTITY replyToAllMsgCmd.label "Répondre à tous">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -463,6 +465,8 @@
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplySenderAndNewsgroup.label "Répondre à l'exp. et dans le groupe">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY contextReplyList.label "Répondre à la liste">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Transférer">
 <!ENTITY contextForward.accesskey "s">
 <!ENTITY contextForwardAsAttachment.label "Transférer comme pièce jointe">
