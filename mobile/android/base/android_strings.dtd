@@ -162,7 +162,7 @@ size. -->
 <!ENTITY reading_list_added "Siden er lagt til i leselisten">
 <!ENTITY reading_list_removed "Siden er fjernet fra leselisten">
 <!ENTITY reading_list_failed "Klarte ikke legge til siden i leselisten">
-<!ENTITY reader_mode "Lesemodus">
+<!ENTITY reader "Leser">
 
 <!ENTITY masterpassword_create_title "Lag et hovedpassord">
 <!ENTITY masterpassword_remove_title "Fjern hovedpassordet">

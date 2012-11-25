@@ -16,7 +16,7 @@ som støtter avansert søppelpostkontroll og andre nyttige funksjoner.">
 <!ENTITY feat_filters.label "Meldingsfiltre">
 <!ENTITY feat_htmlmsg.label "Støtte for HTML-meldinger">
 <!ENTITY feat_abook.label "Adressebok">
-<!ENTITY feat_labels.label "Egendefinerbare etiketter og e-postvisninger">
+<!ENTITY feat_tags.label "Egendefinerbare etiketter og e-postvisninger">
 <!ENTITY feat_integration.label
 "Tett integrasjon med programpakken &brandShortName;">
 <!ENTITY dict.title "Ordbøker">
