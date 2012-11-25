@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "e">
 <!ENTITY includeSigOnForward.label            "Legg ved signaturen min i videresendte meldinger">
 <!ENTITY includeSigOnForward.accesskey        "s">
+
+<!ENTITY globalComposingPrefs.label           "Globale utformingsinnstillinger …">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Globale adresseinnstillinger …">
+<!ENTITY globalAddressingPrefs.accesskey      "a">
