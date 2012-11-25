@@ -4,8 +4,11 @@
 
 <!ENTITY window.title  "Koble til kanal">
 
-<!ENTITY qsearch.label     "Hurtigsøk:">
-<!ENTITY qsearch.accesskey "H">
+<!ENTITY network.label     "Nettverk:">
+<!ENTITY network.accesskey "N">
+
+<!ENTITY channel.label     "Kanal:">
+<!ENTITY channel.accesskey "K">
 
 <!ENTITY topics.label     "Søk i emner og kanalnavn">
 <!ENTITY topics.accesskey "t">
@@ -22,6 +25,9 @@
 <!ENTITY refresh.label     "Oppdater nå">
 <!ENTITY refresh.accesskey "">
 
+<!ENTITY network.hint.label "Skriv inn et nettverks- eller tjenernavn (du kan inkludere en port) og en kanal for å koble til.">
+
+<!ENTITY col.network "Nettverk">
 <!ENTITY col.name  "Navn">
 <!ENTITY col.users "Brukere">
 <!ENTITY col.topic "Emne">
