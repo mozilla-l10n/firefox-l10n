@@ -18,24 +18,24 @@
 <!ENTITY networkPanel.responseNoBody "No hay cuerpo de respuesta">
 <!ENTITY networkPanel.responseImage "Imagen recibida">
 <!ENTITY networkPanel.responseImageCached "Imagen en caché">
-<!ENTITY saveBodies.label "">
-<!ENTITY saveBodies.accesskey "">
-<!ENTITY openURL.label "">
-<!ENTITY openURL.accesskey "">
-<!ENTITY btnPageNet.label "">
+<!ENTITY saveBodies.label "Registrar cuerpos de petición y respuesta">
+<!ENTITY saveBodies.accesskey "L">
+<!ENTITY openURL.label "Abrir enlace en una nueva pestaña">
+<!ENTITY openURL.accesskey "T">
+<!ENTITY btnPageNet.label "Red">
 <!ENTITY btnPageNet.tooltip "Registrar accesos de red">
-<!ENTITY btnPageCSS.label "">
-<!ENTITY btnPageCSS.tooltip "">
-<!ENTITY btnPageJS.label "">
+<!ENTITY btnPageCSS.label "CSS">
+<!ENTITY btnPageCSS.tooltip "Registrar análisis de errores CSS">
+<!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Registrar excepciones JavaScript">
 <!ENTITY btnPageLogging.label "Registrando">
 <!ENTITY btnPageLogging.tooltip "Registrar mensajes enviados al objeto window.console">
 <!ENTITY btnConsoleErrors "Errores">
-<!ENTITY btnConsoleInfo "">
+<!ENTITY btnConsoleInfo "Info">
 <!ENTITY btnConsoleWarnings "Advertencias">
 <!ENTITY btnConsoleLog "Registro">
-<!ENTITY btnPosition.label "">
-<!ENTITY btnPosition.tooltip "">
+<!ENTITY btnPosition.label "Posición">
+<!ENTITY btnPosition.tooltip "Ubique la consola Web sobre o debajo del documento">
 <!ENTITY positionMenu.above "Sobre">
 <!ENTITY positionMenu.below "Debajo">
 <!ENTITY positionMenu.window "Ventana">
@@ -50,5 +50,5 @@
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY copyURLCmd.label "">
+<!ENTITY copyURLCmd.label "Copiar ubicación del enlace">
 <!ENTITY copyURLCmd.accesskey "a">
