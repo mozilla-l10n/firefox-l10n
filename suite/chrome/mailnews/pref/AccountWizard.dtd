@@ -12,7 +12,7 @@
 <!ENTITY accountSetupInfo2.label "Jotta voisit vastaanottaa viestejä, sinun tulee asentaa tili.">
 <!ENTITY accountTypeTitle.label "Uuden tilin asennus">
 <!ENTITY accountTypeDesc2.label "Tämä ohjattu toiminto kysyy sinulta tilin asentamiseen tarvittavat tiedot. Jos sinulla ei ole pyydettyjä tietoja, voit tiedustella niitä järjestelmänvalvojalta tai palveluntarjoajalta.">
-<!ENTITY accountTypeDirections.label "Valitse sen tyyppinen tili, jonka haluat asentaa:">
+<!ENTITY accountTypeDirections.label "Valitse, minkätyyppisen tilin haluat asentaa:">
 <!ENTITY accountTypeMail.label "Sähköpostitili">
 <!ENTITY accountTypeMail.accesskey "S">
 <!ENTITY accountTypeNews.label "Keskusteluryhmätili">

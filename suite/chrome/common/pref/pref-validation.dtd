@@ -12,13 +12,5 @@
 <!ENTITY validation.ocsp.caption                  "OCSP">
 <!ENTITY enableOCSP.label                         "Käytä OCSP:tä varmenteiden tilan tarkastamiseen">
 <!ENTITY enableOCSP.accesskey                     "K">
-<!ENTITY certOCSP2.label                          "Kelpuuta varmenteet, jotka määrittävät OCSP-palvelimen osoitteen">
-<!ENTITY certOCSP2.accesskey                      "e">
-<!ENTITY proxyOCSP2.label                         "Kelpuuta kaikki varmenteet seuraavalla OCSP-palvelimella:">
-<!ENTITY proxyOCSP2.accesskey                     "l">
-<!ENTITY serviceURL.label                         "Palvelu-URL:">
-<!ENTITY serviceURL.accesskey                     "P">
-<!ENTITY signingCA.label                          "Allekirjoittaja:">
-<!ENTITY signingCA.accesskey                      "A">
 <!ENTITY validation.requireOCSP.description       "Älä hyväksy varmennetta, jos OCSP-palvelimeen ei pystytä muodostamaan yhteyttä">
 <!ENTITY validation.requireOCSP.accesskey         "Ä">

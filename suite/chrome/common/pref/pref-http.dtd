@@ -13,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label              "Käytä HTTP 1.1:a">
 <!ENTITY prefEnableHTTP11.accesskey          "ä">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "P">
-<!ENTITY prefEnableKeepAlive.label           "Ota käyttöön elossapito">
-<!ENTITY prefEnableKeepAlive.accesskey       "O">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "ö">
 <!ENTITY prefEnablePipelining.label          "Ota käyttöön liukuhihnoitus">
 <!ENTITY prefEnablePipelining.accesskey      "a">
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">

@@ -15,8 +15,6 @@
 <!ENTITY warn.description                   "Näytä varoitus:">
 <!ENTITY warn.enteringsecure                "Avattaessa salattua sivua">
 <!ENTITY warn.enteringsecure.accesskey      "A">
-<!ENTITY warn.enteringweak                  "Avattaessa heikosti salattua sivua">
-<!ENTITY warn.enteringweak.accesskey        "v">
 <!ENTITY warn.insecurepost                  "Lähetettäessä tietoa salaamatta">
 <!ENTITY warn.insecurepost.accesskey        "L">
 <!ENTITY warn.leavingsecure                 "Siirryttäessä salatulta sivulta salaamattomalle sivulle">
