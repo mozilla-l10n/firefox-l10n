@@ -16,16 +16,16 @@
 <!ENTITY highPriorityCmd.label "Korkea">
 <!ENTITY highestPriorityCmd.label "Korkein">
 
-<!ENTITY contextDesc.label "Suodata viestit, kun:">
-<!ENTITY contextDesc.accesskey "u">
-<!ENTITY contextIncoming.label "Viestejä noudetaan">
-<!ENTITY contextManual.label "Suodattimet suoritetaan">
-<!ENTITY contextBoth.label "Viestejä noudetaan tai suodattimet suoritetaan">
-<!ENTITY contextPostPlugin.label "Viestejä noudetaan (luokittelun jälkeen)">
-<!ENTITY contextPostPluginBoth.label "Viestejä noudetaan (luokittelun jälkeen) tai suodattimet suoritetaan">
+<!ENTITY contextDesc.label "Käytä suodatinta:">
+<!ENTITY contextIncomingMail.label "Noudettaessa uusia viestejä:">
+<!ENTITY contextIncomingMail.accesskey "N">
+<!ENTITY contextManual.label "Käsin suoritettaessa">
+<!ENTITY contextManual.accesskey "K">
+<!ENTITY contextBeforeCls.label "Suodata ennen roskapostiluokittelua">
+<!ENTITY contextAfterCls.label "Suodata roskapostiluokittelun jälkeen">
 
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
-<!ENTITY filterActionDesc.accesskey "o">
+<!ENTITY filterActionDesc.accesskey "u">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Siirrä kansioon">

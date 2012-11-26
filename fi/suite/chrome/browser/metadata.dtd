@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "Leveys:">
 <!ENTITY image-height.label    "Korkeus:">
 <!ENTITY image-filesize.label  "Tiedostokoko:">
+<!ENTITY image-filesize.value  "Tuntematon">
 <!ENTITY insdel-sec.label      "Lisää tai poista ominaisuuksia">
 <!ENTITY insdel-cite.label     "Tiedot:">
 <!ENTITY insdel-date.label     "Päivämäärä:">

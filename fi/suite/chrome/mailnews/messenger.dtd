@@ -285,6 +285,8 @@
 <!ENTITY replyMsgCmd.label "Vastaa">
 <!ENTITY replyMsgCmd.accesskey "V">
 <!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyListCmd.label "Vastaa listalle">
+<!ENTITY replyListCmd.accesskey "i">
 <!ENTITY replySenderCmd.label "Vastaa lähettäjälle">
 <!ENTITY replySenderCmd.accesskey "V">
 <!ENTITY replyNewsgroupCmd.label "Vastaa keskusteluryhmään">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextReplySender.label "Vastaa lähettäjälle">
 <!ENTITY contextReplySender.accesskey "l">
+<!ENTITY contextReplyList.label "Vastaa listalle">
+<!ENTITY contextReplyList.accesskey "i">
 <!ENTITY contextReplyNewsgroup.label "Vastaa keskusteluryhmään">
 <!ENTITY contextReplyNewsgroup.accesskey "k">
 <!ENTITY contextReplyAll.label "Vastaa kaikille">

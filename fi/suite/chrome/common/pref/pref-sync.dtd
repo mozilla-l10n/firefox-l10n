@@ -28,8 +28,8 @@
 <!ENTITY myRecoveryKey.accesskey      "P">
 <!ENTITY resetSync.label              "Nollaa Sync">
 <!ENTITY resetSync.accesskey          "N">
-<!ENTITY deactivateDevice.label       "Irrota laite palvelusta">
-<!ENTITY deactivateDevice.accesskey   "I">
+<!ENTITY unlinkDevice.label           "Irrota laite palvelusta">
+<!ENTITY unlinkDevice.accesskey       "I">
 <!ENTITY addDevice.label              "Lisää laite">
 <!ENTITY addDevice.accesskey          "a">
 
