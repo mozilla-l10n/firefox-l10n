@@ -9,5 +9,5 @@
 <!ENTITY unmatchedSelectors "Hay selectores que no coinciden">
 <!ENTITY bestMatch "Mejor coincidencia">
 <!ENTITY matched "Coincidencia">
-<!ENTITY parentMatch "">
+<!ENTITY parentMatch "Coincidencia padre">
 <!ENTITY unmatched "Sin coincidencia">

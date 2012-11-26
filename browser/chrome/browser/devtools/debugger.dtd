@@ -2,22 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY debuggerMenu.label2 "">
+<!ENTITY debuggerMenu.label2 "Depurador">
 <!ENTITY debuggerMenu.accesskey "D">
-<!ENTITY remoteDebuggerMenu.label "">
-<!ENTITY chromeDebuggerMenu.label "">
+<!ENTITY remoteDebuggerMenu.label "Depurador remoto">
+<!ENTITY chromeDebuggerMenu.label "Depurador de navegador+">
 <!ENTITY debuggerMenu.commandkey "S">
-<!ENTITY debuggerUI.closeButton.tooltip "">
-<!ENTITY debuggerUI.optsButton.tooltip "">
-<!ENTITY debuggerUI.pauseExceptions "">
+<!ENTITY debuggerUI.closeButton.tooltip "Cerrar">
+<!ENTITY debuggerUI.optsButton.tooltip "Opciones del depurador">
+<!ENTITY debuggerUI.pauseExceptions "Pausar en excepciones">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
-<!ENTITY debuggerUI.showPanesOnInit "">
+<!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al iniciar">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
-<!ENTITY debuggerUI.showVarsSearch "">
+<!ENTITY debuggerUI.showVarsSearch "Mostrar caja de búsqueda de variables">
 <!ENTITY debuggerUI.showVarsSearch.key "V">
-<!ENTITY debuggerUI.showNonEnums "">
+<!ENTITY debuggerUI.showNonEnums "Mostrar propiedades ocultas">
 <!ENTITY debuggerUI.showNonEnums.key "P">
-<!ENTITY debuggerUI.searchPanelTitle "">
-<!ENTITY debuggerUI.condBreakPanelTitle "">
-<!ENTITY debuggerUI.seMenuBreak "">
-<!ENTITY debuggerUI.seMenuCondBreak "">
+<!ENTITY debuggerUI.searchPanelTitle "Operadores">
+<!ENTITY debuggerUI.condBreakPanelTitle "Este punto de quiebre detendrá la ejecución solo si la siguiente expresión es verdadera">
+<!ENTITY debuggerUI.seMenuBreak "Agregar punto de quiebre">
+<!ENTITY debuggerUI.seMenuCondBreak "Agregar punto de quiebre condicional">
