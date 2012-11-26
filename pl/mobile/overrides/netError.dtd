@@ -95,7 +95,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.title "Nie odnaleziono serwera proxy">
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Upewnij się, że ustawienia serwera proxy są poprawne.</li>

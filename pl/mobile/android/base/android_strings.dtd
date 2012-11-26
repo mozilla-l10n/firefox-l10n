@@ -90,6 +90,11 @@ representation of the language it is used in that will help show the text in the
 size. -->
 <!ENTITY pref_font_size_adjust_char "Aa">
 
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "Chyży ryży lisek zwinnym susem skacze wyżej niż się spodziewasz. Jest szysbszy, bezpieczniejszy i łatwiej dostosować go do swoich potrzeb. Jesteśmy organizacją non-profit, więc nie musimy iść na żadne kompromisy i możemy wymyślać innowacje, które będą służyć twojemu dobru. To oznacza więcej wygody dla ciebie i lepszą przyszłość dla Internetu.">
+
+
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_show_product_announcements "Pokaż informacje o produktach">
 <!ENTITY pref_sync "Sync">
