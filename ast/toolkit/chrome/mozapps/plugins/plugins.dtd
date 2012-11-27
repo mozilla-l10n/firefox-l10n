@@ -44,3 +44,5 @@
 <!ENTITY unsupportedPlatform.pre "Sentímoslo, pero &brandShortName; nun pue reproducir conteníu Flash nesti preséu. ">
 <!ENTITY unsupportedPlatform.learnMore "Deprender más…">
 <!ENTITY unsupportedPlatform.post "">
+<!ENTITY plugin.mimeTypes "Tipos MIME">
+<!ENTITY plugin.file "Ficheru">

@@ -17,3 +17,5 @@
 <!ENTITY spellNoSuggestions.label "(Nun hai soxerencies d'ortografía)">
 <!ENTITY spellDictionaries.label "Llingües">
 <!ENTITY spellDictionaries.accesskey "g">
+<!ENTITY spellCheckToggle.label "Comprobar ortografía">
+<!ENTITY spellCheckToggle.accesskey "b">

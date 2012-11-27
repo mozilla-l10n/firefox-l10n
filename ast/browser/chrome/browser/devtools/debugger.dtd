@@ -6,3 +6,14 @@
 <!ENTITY debuggerUI.closeButton.tooltip "Zarrar">
 <!ENTITY debuggerUI.pauseExceptions "Posar nes esceiciones">
 <!ENTITY debuggerUI.searchPanelTitle "Operadores">
+<!ENTITY debuggerUI.showVarsSearch.key "V">
+<!ENTITY debuggerUI.showVarsSearch "Amosar el cuadru de gueta de variables">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showPanesOnInit "Amosar paneles al arrancar">
+<!ENTITY debuggerUI.showNonEnums.key "p">
+<!ENTITY debuggerUI.showNonEnums "Amosar propiedaes anubríes">
+<!ENTITY debuggerUI.seMenuCondBreak "Amestar puntu de rotura condicional">
+<!ENTITY debuggerUI.seMenuBreak "Puntu de rotura amestáu">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
+<!ENTITY debuggerUI.condBreakPanelTitle "Esti puntu de rotura va parar la execución namái si la siguiente espresión devuelve braero">
