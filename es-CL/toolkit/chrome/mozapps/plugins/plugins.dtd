@@ -18,7 +18,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Encuentre más información sobre los Plugins o encuentre los plugins faltantes manualmente.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; necesita ser reiniciado para que el o los plugins funcionen.">
 <!ENTITY unsupportedPlatform.pre "Lo lamentamos, pero &brandShortName; no puede reproducir Flash en este dispositivo.">
-<!ENTITY unsupportedPlatform.learnMore "Aprender más...">
+<!ENTITY unsupportedPlatform.learnMore "Saber más…">
 <!ENTITY unsupportedPlatform.post "">
 <!ENTITY missingPlugin "Se necesita un plugin para mostrar este contenido.">
 <!ENTITY tapToPlayPlugin "Pulse aquí para activar el complemento">
@@ -30,12 +30,10 @@
 <!ENTITY managePlugins "Administrar plugins…">
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Recargue la página">
-<!ENTITY reloadPlugin.post " para intentar de nuevo.">
+<!ENTITY reloadPlugin.post " para intentar nuevamente.">
 <!ENTITY report.please "Enviar informe de errores">
 <!ENTITY report.submitting "Enviando informe…">
 <!ENTITY report.submitted "Informe de errores enviado.">
 <!ENTITY report.disabled "Informes de errores deshabilitados.">
 <!ENTITY report.failed "El envío ha fallado.">
 <!ENTITY report.unavailable "No hay informe disponible.">
-<!ENTITY plugin.file "Archivo">
-<!ENTITY plugin.mimeTypes "Tipos MIME">

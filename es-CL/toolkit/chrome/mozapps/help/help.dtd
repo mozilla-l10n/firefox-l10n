@@ -7,15 +7,15 @@
 <!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY backButton.label "Atrás">
-<!ENTITY backButton.accesskey "A">
+<!ENTITY backButton.accesskey "B">
 <!ENTITY backButton.tooltip "Retrocede una página">
 <!ENTITY forwardButton.label "Adelante">
-<!ENTITY forwardButton.accesskey "A">
+<!ENTITY forwardButton.accesskey "F">
 <!ENTITY forwardButton.tooltip "Avanza una página">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Inicio">
@@ -36,8 +36,8 @@
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY helpSearch.commandkey "k">
 <!ENTITY zLevel.label "Siempre visible">
-<!ENTITY zLevel.accesskey "S">
+<!ENTITY zLevel.accesskey "T">
 <!ENTITY fullZoomReduceBtn.label "Achicar">
-<!ENTITY fullZoomReduceBtn.accesskey "A">
-<!ENTITY fullZoomEnlargeBtn.label "Agrandar">
-<!ENTITY fullZoomEnlargeBtn.accesskey "A">
+<!ENTITY fullZoomReduceBtn.accesskey "O">
+<!ENTITY fullZoomEnlargeBtn.label "Aumentar">
+<!ENTITY fullZoomEnlargeBtn.accesskey "I">

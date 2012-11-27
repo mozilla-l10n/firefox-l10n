@@ -26,6 +26,6 @@
 <!ENTITY errors.description "Falló la instalación de actualizaciones para algunos de los complementos. &brandShortName; luego intentará actualizarlos automáticamnte.">
 <!ENTITY footer.label "Siempre puede cambiar sus complementos ingresando en el administrador de complementos.">
 <!ENTITY cancel.label "Cancelar">
-<!ENTITY back.label "Anterior">
+<!ENTITY back.label "Atrás">
 <!ENTITY next.label "Siguiente">
 <!ENTITY done.label "Listo">
