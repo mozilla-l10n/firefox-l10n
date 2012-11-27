@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "允许 &searchIntegration.engineName; 搜索邮件">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "立即检查…">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label        "立即检查…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "高级配置">
 <!ENTITY configEdit.label              "配置编辑器…">
 <!ENTITY configEdit.accesskey          "C">
