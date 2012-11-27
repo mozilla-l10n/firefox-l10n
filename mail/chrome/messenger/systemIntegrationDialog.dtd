@@ -7,3 +7,6 @@
 <!ENTITY checkOnStartup.accesskey "F">
 <!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; guete nos mensaxes">
 <!ENTITY searchIntegration.accesskey "P">
+<!ENTITY unsetDefault.tooltip "Nun ye dable desaniciar &brandShortName; como veceru predetermináu dende'l propiu &brandShortName;. Pa que otra aplicación seya la predeterminada, tienes d'usar el diálogu 'Afitar como predeterminada'.">
+<!ENTITY cancelIntegration.label "Omitir integración">
+<!ENTITY acceptIntegration.label "Definir como predet.">

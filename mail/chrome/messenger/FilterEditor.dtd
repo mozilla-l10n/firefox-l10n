@@ -34,3 +34,8 @@
 <!ENTITY removeAction.tooltip "Desaniciar esta aición">
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
+<!ENTITY contextManual.accesskey "s">
+<!ENTITY contextIncomingMail.label "Al recuperar el corréu nuevu:">
+<!ENTITY contextIncomingMail.accesskey "A">
+<!ENTITY contextBeforeCls.label "Peñerar enantes d'identificar el corréu puxarra">
+<!ENTITY contextAfterCls.label "Peñerar tres d'identificar el corréu puxarra">
