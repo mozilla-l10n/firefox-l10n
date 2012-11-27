@@ -8,16 +8,16 @@
 <!ENTITY columnLabel.name "Nombre">
 <!ENTITY columnLabel.keyword "Palabra clave">
 <!ENTITY up.label "Mover hacia arriba">
-<!ENTITY up.accesskey "M">
+<!ENTITY up.accesskey "U">
 <!ENTITY dn.label "Mover hacia abajo">
-<!ENTITY dn.accesskey "M">
-<!ENTITY remove.label "Eliminar">
-<!ENTITY remove.accesskey "r">
+<!ENTITY dn.accesskey "D">
+<!ENTITY remove.label "RemoverEliminar">
+<!ENTITY remove.accesskey "R">
 <!ENTITY edit.label "Editar palabra clave…">
 <!ENTITY edit.accesskey "t">
 <!ENTITY addEngine.label "Obtener más motores de búsqueda…">
-<!ENTITY addEngine.accesskey "a">
+<!ENTITY addEngine.accesskey "A">
 <!ENTITY enableSuggest.label "Mostrar sugerencias de búsqueda">
-<!ENTITY enableSuggest.accesskey "s">
+<!ENTITY enableSuggest.accesskey "S">
 <!ENTITY restoreDefaults.label "Restaurar predeterminados">
 <!ENTITY restoreDefaults.accesskey "e">

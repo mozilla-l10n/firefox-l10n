@@ -4,54 +4,54 @@
 
 <!ENTITY window.title "Borrador">
 <!ENTITY fileMenu.label "Archivo">
-<!ENTITY fileMenu.accesskey "A">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newWindowCmd.label "Nueva ventana">
 <!ENTITY newWindowCmd.accesskey "N">
 <!ENTITY newWindowCmd.commandkey "n">
 <!ENTITY openFileCmd.label "Abrir archivo…">
-<!ENTITY openFileCmd.accesskey "b">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY openRecentMenu.label "Abrir reciente">
 <!ENTITY openRecentMenu.accesskey "R">
 <!ENTITY revertCmd.label "Revertir">
 <!ENTITY revertCmd.accesskey "t">
 <!ENTITY saveFileCmd.label "Guardar">
-<!ENTITY saveFileCmd.accesskey "G">
+<!ENTITY saveFileCmd.accesskey "S">
 <!ENTITY saveFileCmd.commandkey "s">
 <!ENTITY saveFileAsCmd.label "Guardar como…">
-<!ENTITY saveFileAsCmd.accesskey "o">
+<!ENTITY saveFileAsCmd.accesskey "A">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY run.label "Ejecutar">
-<!ENTITY run.accesskey "E">
+<!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">
 <!ENTITY inspect.label "Inspeccionar">
 <!ENTITY inspect.accesskey "I">
 <!ENTITY inspect.key "i">
 <!ENTITY display.label "Mostrar">
-<!ENTITY display.accesskey "M">
+<!ENTITY display.accesskey "D">
 <!ENTITY display.key "l">
 <!ENTITY environmentMenu.label "Entorno">
-<!ENTITY environmentMenu.accesskey "n">
+<!ENTITY environmentMenu.accesskey "N">
 <!ENTITY contentContext.label "Contenido">
 <!ENTITY contentContext.accesskey "C">
 <!ENTITY browserContext.label "Navegador">
-<!ENTITY browserContext.accesskey "N">
+<!ENTITY browserContext.accesskey "B">
 <!ENTITY helpMenu.label "Ayuda">
-<!ENTITY helpMenu.accesskey "u">
+<!ENTITY helpMenu.accesskey "H">
 <!ENTITY helpMenuWin.label "Ayuda">
-<!ENTITY helpMenuWin.accesskey "u">
+<!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY documentationLink.label "Ayuda del borrador en MDN">
-<!ENTITY documentationLink.accesskey "d">
+<!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Reiniciar variables">
-<!ENTITY resetContext2.accesskey "v">
+<!ENTITY resetContext2.accesskey "T">
 <!ENTITY reloadAndRun.label "Recargar y ejecutar">
 <!ENTITY reloadAndRun.accesskey "E">
 <!ENTITY reloadAndRun.key "r">
 <!ENTITY executeMenu.label "Ejecutar">
-<!ENTITY executeMenu.accesskey "j">
+<!ENTITY executeMenu.accesskey "X">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY webConsoleCmd.commandkey "k">

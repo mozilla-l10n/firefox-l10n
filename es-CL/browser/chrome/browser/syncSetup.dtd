@@ -13,21 +13,21 @@
 <!ENTITY serverType.default.label "Por defecto: Servidor de Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label "Usar un servidor personalizado…">
 <!ENTITY signIn.account2.label "Cuenta">
-<!ENTITY signIn.account2.accesskey "e">
+<!ENTITY signIn.account2.accesskey "A">
 <!ENTITY signIn.password.label "Contraseña">
-<!ENTITY signIn.password.accesskey "C">
+<!ENTITY signIn.password.accesskey "P">
 <!ENTITY signIn.recoveryKey.label "Clave de recuperación">
-<!ENTITY signIn.recoveryKey.accesskey "r">
+<!ENTITY signIn.recoveryKey.accesskey "K">
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de cuenta">
 <!ENTITY setup.emailAddress.label "Correo electrónico">
-<!ENTITY setup.emailAddress.accesskey "C">
+<!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label "Seleccione una contraseña">
-<!ENTITY setup.choosePassword.accesskey "e">
+<!ENTITY setup.choosePassword.accesskey "P">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
-<!ENTITY setup.confirmPassword.accesskey "o">
+<!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.tosAgree1.label "Acepto los">
-<!ENTITY setup.tosAgree1.accesskey "A">
-<!ENTITY setup.tosLink.label "Términos del servicio">
+<!ENTITY setup.tosAgree1.accesskey "a">
+<!ENTITY setup.tosLink.label "Terminos del servicio">
 <!ENTITY setup.tosAgree2.label "y la">
 <!ENTITY setup.ppLink.label "Política de privacidad">
 <!ENTITY setup.tosAgree3.label "">
@@ -35,13 +35,13 @@
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; se preocupa por su privacidad">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser subidos. La clave de recuperacion necesaria para descifrar sus datos no es subida.">
 <!ENTITY recoveryKeyEntry.label "Su clave de recuperación">
-<!ENTITY recoveryKeyEntry.accesskey "r">
+<!ENTITY recoveryKeyEntry.accesskey "K">
 <!ENTITY syncGenerateNewKey.label "Generar una nueva clave">
 <!ENTITY recoveryKeyBackup.description "Se requiere su clave de recuperación para acceder a &syncBrand.fullName.label; en otros dispositivos. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de recuperación.">
 <!ENTITY button.syncKeyBackup.print.label "Imprimir…">
-<!ENTITY button.syncKeyBackup.print.accesskey "p">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
-<!ENTITY button.syncKeyBackup.save.accesskey "G">
+<!ENTITY button.syncKeyBackup.save.accesskey "S">
 <!ENTITY pairDevice.title.label "Asociar un dispositivo">
 <!ENTITY addDevice.showMeHow.label "Mostrarme cómo.">
 <!ENTITY addDevice.dontHaveDevice.label "No tengo el dispositivo conmigo">
@@ -59,21 +59,21 @@
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY resetSyncKey.label "He perdido mi otro dispositivo.">
 <!ENTITY setup.optionsPage.title "Opciones de sincronización">
-<!ENTITY syncDeviceName.label "Nombre de dispositivo:">
+<!ENTITY syncDeviceName.label "Nombre del dispositivo">
 <!ENTITY syncDeviceName.accesskey "c">
 <!ENTITY syncMy.label "Sincronizar mis">
 <!ENTITY engine.bookmarks.label "Marcadores">
-<!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">
-<!ENTITY engine.tabs.accesskey "t">
+<!ENTITY engine.tabs.accesskey "T">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.passwords.label "Contraseñas">
-<!ENTITY engine.passwords.accesskey "n">
+<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label "Preferencias">
-<!ENTITY engine.prefs.accesskey "s">
+<!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
-<!ENTITY engine.addons.accesskey "o">
+<!ENTITY engine.addons.accesskey "A">
 <!ENTITY choice2a.merge.main.label "Mezclar los datos de este dispositivo con mis datos de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
 <!ENTITY choice2a.client.main.label "Reemplazar todos los datos en este dispositivo con mis datos de &syncBrand.shortName.label;">

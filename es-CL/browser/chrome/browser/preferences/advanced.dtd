@@ -16,19 +16,19 @@
 <!ENTITY useSmoothScrolling.label "Usar desplazamiento suave">
 <!ENTITY useSmoothScrolling.accesskey "m">
 <!ENTITY allowHWAccel.label "Usar aceleración por hardware cuando esté disponible">
-<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY allowHWAccel.accesskey "r">
 <!ENTITY checkSpelling.label "Revisar mi ortografía mientras escribo">
 <!ENTITY checkSpelling.accesskey "t">
 <!ENTITY systemDefaults.label "Parámetros por defecto del sistema">
 <!ENTITY alwaysCheckDefault.label "Siempre revisar al inicio si &brandShortName; es el navegador predeterminado">
-<!ENTITY alwaysCheckDefault.accesskey "S">
+<!ENTITY alwaysCheckDefault.accesskey "w">
 <!ENTITY setDefault.label "Hacer &brandShortName; el navegador predeterminado">
 <!ENTITY setDefault.accesskey "d">
 <!ENTITY isDefault.label "&brandShortName; es actualmente su navegador predeterminado">
 <!ENTITY submitCrashes.label "Enviar informes de errores">
-<!ENTITY submitCrashes.accesskey "s">
+<!ENTITY submitCrashes.accesskey "S">
 <!ENTITY submitTelemetry.label "Enviar datos de rendimiento">
-<!ENTITY submitTelemetry.accesskey "r">
+<!ENTITY submitTelemetry.accesskey "P">
 <!ENTITY networkTab.label "Red">
 <!ENTITY connection.label "Conexión">
 <!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
@@ -40,36 +40,36 @@
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY limitCacheSizeAfter.label "MB de espacio">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
-<!ENTITY clearCacheNow.accesskey "h">
+<!ENTITY clearCacheNow.accesskey "C">
 <!ENTITY clearOfflineAppCacheNow.label "Limpiar ahora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "i">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label "Anular administración automática de caché">
-<!ENTITY overrideSmartCacheSize.accesskey "o">
-<!ENTITY updateTab.label "Actualización">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY updateTab.label "Actualizar">
 <!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
 <!ENTITY updateAuto.label "Instalar actualizaciones automáticamente (recomendado: mejoras de seguridad)">
-<!ENTITY updateAuto.accesskey "a">
+<!ENTITY updateAuto.accesskey "A">
 <!ENTITY updateCheck.label "Buscar actualizaciones, pero dejarme elegir si deseo instalarlas">
-<!ENTITY updateCheck.accesskey "c">
+<!ENTITY updateCheck.accesskey "C">
 <!ENTITY updateManual.label "Nunca buscar actualizaciones (no recomendado: riesgos de seguridad)">
 <!ENTITY updateManual.accesskey "N">
 <!ENTITY updateAutoAddonWarn.label "Avisarme si ésto deshabilitará alguno de mis complementos">
-<!ENTITY updateAutoAddonWarn.accesskey "v">
+<!ENTITY updateAutoAddonWarn.accesskey "W">
 <!ENTITY updateHistory.label "Mostrar historial de actualización">
-<!ENTITY updateHistory.accesskey "H">
+<!ENTITY updateHistory.accesskey "p">
 <!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
-<!ENTITY useService.accesskey "U">
+<!ENTITY useService.accesskey "b">
 <!ENTITY updateOthers.label "Actualizar automáticamente:">
 <!ENTITY enableSearchUpdate.label "Motores de Búsqueda">
-<!ENTITY enableSearchUpdate.accesskey "M">
+<!ENTITY enableSearchUpdate.accesskey "E">
 <!ENTITY offlineNotify.label "Avisarme cuando un sitio web pide almacenar datos para uso sin conexión">
-<!ENTITY offlineNotify.accesskey "t">
+<!ENTITY offlineNotify.accesskey "T">
 <!ENTITY offlineNotifyExceptions.label "Excepciones…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 <!ENTITY offlineAppsList2.label "Los siguientes sitios web tienen permitido guardar datos para uso sin conexión:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Eliminar...">
-<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm "Eliminar datos sin conexión">
 <!ENTITY encryptionTab.label "Cifrado">
 <!ENTITY protocols.label "Protocolos">
@@ -82,12 +82,12 @@
 <!ENTITY certs.auto "Seleccionar uno automáticamente">
 <!ENTITY certs.auto.accesskey "l">
 <!ENTITY certs.ask "Preguntarme cada vez">
-<!ENTITY certs.ask.accesskey "P">
+<!ENTITY certs.ask.accesskey "i">
 <!ENTITY viewCerts.label "Ver Certificados">
 <!ENTITY viewCerts.accesskey "s">
 <!ENTITY viewCRLs.label "Listas de revocados">
-<!ENTITY viewCRLs.accesskey "r">
+<!ENTITY viewCRLs.accesskey "R">
 <!ENTITY verify2.label "Validación">
 <!ENTITY verify2.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Dispositivos de Seguridad">
-<!ENTITY viewSecurityDevices.accesskey "D">
+<!ENTITY viewSecurityDevices.accesskey "y">
