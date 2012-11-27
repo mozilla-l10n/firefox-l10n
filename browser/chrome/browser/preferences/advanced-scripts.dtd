@@ -19,6 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,14 +36,12 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "Configuraciones avanzadas de JavaScript">
-<!ENTITY window.width                   "39em">
-
-<!ENTITY allowScripts.label             "Permitir scripts a:">
-
-<!ENTITY moveResizePopupWindows.label     "Mover o cambiar tamaño de ventanas emergentes">
-<!ENTITY moveResizePopupWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label        "Resaltar u ocultar ventanas">
-<!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "Desactivar o reemplazar menús contextuales">
-<!ENTITY disableContextMenus.accesskey  "D">
+<!ENTITY advancedJSDialog.title "Configuraciones avanzadas de JavaScript">
+<!ENTITY window.width "39em">
+<!ENTITY allowScripts.label "Permitir scripts a:">
+<!ENTITY moveResizePopupWindows.label "Mover o cambiar tamaño de ventanas emergentes">
+<!ENTITY moveResizePopupWindows.accesskey "">
+<!ENTITY raiseLowerWindows.label "Resaltar u ocultar ventanas">
+<!ENTITY raiseLowerWindows.accesskey "">
+<!ENTITY disableContextMenus.label "Desactivar o reemplazar menús contextuales">
+<!ENTITY disableContextMenus.accesskey "">

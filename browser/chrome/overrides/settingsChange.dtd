@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Las configuraciones pueden ser cambiadas usando la pestaña Aplicaciones en las Preferencias de &brandShortName;">
-<!ENTITY  settingsChangeOptions.label      "Las configuraciones pueden ser cambiadas en la pestaña Aplicaciones en Opciones de &brandShortName;.">
+<!ENTITY settingsChangePreferences.label "Las configuraciones pueden ser cambiadas usando la pestaña Aplicaciones en las Preferencias de &brandShortName;">
+<!ENTITY settingsChangeOptions.label "Las configuraciones pueden ser cambiadas en la pestaña Aplicaciones en Opciones de &brandShortName;.">
