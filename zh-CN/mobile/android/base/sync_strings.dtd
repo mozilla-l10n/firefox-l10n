@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label '选项'>
 <!ENTITY sync.summary.pair.label '链接其他设备到您的 &syncBrand.shortName.label; 帐户'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label '同步范围'>
+<!ENTITY sync.configure.engines.sync.my.title.label '同步你的…'>
+<!ENTITY sync.configure.engines.title.bookmarks '书签'>
+<!ENTITY sync.configure.engines.title.passwords '密码'>
+<!ENTITY sync.configure.engines.title.history '历史记录'>
+<!ENTITY sync.configure.engines.title.tabs '标签页'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label '取消'>
 <!ENTITY sync.button.connect.label '连接'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 帐号。'>
+<!ENTITY sync.notification.configure.saved '你的选择已保存。'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label '不正确的帐户名或密码。'>
