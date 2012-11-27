@@ -12,10 +12,10 @@
 <!ENTITY importButton.accesskey "I">
 <!ENTITY importButton.commandkey "i">
 <!ENTITY visibilityToggle.tooltip "Alternar visibilidad de la hoja de estilo">
-<!ENTITY visibilityToggle.accesskey "v">
+<!ENTITY visibilityToggle.accesskey "V">
 <!ENTITY saveButton.label "Guardar">
 <!ENTITY saveButton.tooltip "Guardar esta hoja de estilo en un archivo">
-<!ENTITY saveButton.accesskey "s">
+<!ENTITY saveButton.accesskey "S">
 <!ENTITY saveButton.commandkey "s">
 <!ENTITY scoped.label "Ámbito.">
 <!ENTITY editorTextbox.placeholder "Ingrese CSS aquí.">

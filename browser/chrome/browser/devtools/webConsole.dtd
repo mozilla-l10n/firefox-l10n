@@ -3,15 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Consola web">
-<!ENTITY networkPanel.requestURLColon "Solicitar URL:">
-<!ENTITY networkPanel.requestMethodColon "Solicitar método:">
-<!ENTITY networkPanel.statusCodeColon "Código de estado:">
+<!ENTITY networkPanel.requestURL "Solicitar URL:">
+<!ENTITY networkPanel.requestMethod "Solicitar método:">
+<!ENTITY networkPanel.statusCode "Código de estado:">
 <!ENTITY networkPanel.requestHeaders "Encabezados solicitados">
 <!ENTITY networkPanel.requestCookie "Cookie enviada">
 <!ENTITY networkPanel.requestBody "Cuerpo solicitado">
 <!ENTITY networkPanel.requestFormData "Datos de formulario enviados">
 <!ENTITY networkPanel.responseHeaders "Encabezados de respuesta">
-<!ENTITY networkPanel.responseCookie "Cookie recivida">
 <!ENTITY networkPanel.responseBody "Cuerpo de respuesta">
 <!ENTITY networkPanel.responseBodyCached "Datos en caché">
 <!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
@@ -50,5 +49,5 @@
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY copyURLCmd.label "Copiar ubicación del enlace">
+<!ENTITY copyURLCmd.label "Copiar ubicación de enlace">
 <!ENTITY copyURLCmd.accesskey "a">
