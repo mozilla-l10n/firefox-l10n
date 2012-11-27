@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "回复">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "只回复发件人">
-<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyListCmd.label "回复到列表">
+<!ENTITY replyListCmd.accesskey "y">
 <!ENTITY replyNewsgroupCmd.label "回复到新闻组">
 <!ENTITY replyNewsgroupCmd.accesskey	"y">
+<!ENTITY replySenderCmd.label "只回复发件人">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "全部回复">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "只回复发件人">
 <!ENTITY contextReplySender.accesskey "O">
+<!ENTITY contextReplyList.label "回复到列表">
+<!ENTITY contextReplyList.accesskey "y">
 <!ENTITY contextReplyNewsgroup.label "回复到新闻组">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "全部回复">

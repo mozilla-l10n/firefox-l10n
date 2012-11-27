@@ -13,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label              "使用HTTP 1.1协议">
 <!ENTITY prefEnableHTTP11.accesskey          "E">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "允许保持连接">
-<!ENTITY prefEnableKeepAlive.accesskey       "K">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "A">
 <!ENTITY prefEnablePipelining.label          "允许流水线操作">
 <!ENTITY prefEnablePipelining.accesskey      "P">
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">
