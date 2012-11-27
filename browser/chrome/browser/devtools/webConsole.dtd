@@ -44,3 +44,7 @@
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY copyURLCmd.label "Copiar la ruta del enllaz">
 <!ENTITY copyURLCmd.accesskey "r">
+<!ENTITY networkPanel.statusCodeColon "Códigu d'estáu:">
+<!ENTITY networkPanel.responseCookie "Cookie recibida">
+<!ENTITY networkPanel.requestURLColon "URL solicitada:">
+<!ENTITY networkPanel.requestMethodColon "Métodu de la solicitú:">

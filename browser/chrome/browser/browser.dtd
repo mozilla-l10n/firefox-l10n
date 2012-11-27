@@ -482,3 +482,7 @@
 <!ENTITY social.toggleNotifications.accesskey "n">
 <!ENTITY social.activated.undobutton.label "Desfacer">
 <!ENTITY social.activated.undobutton.accesskey "f">
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY remoteWebConsoleCmd.label "Consola web remota">
+<!ENTITY newPrivateWindow.label "Nueva ventana privada">
+<!ENTITY newPrivateWindow.accesskey "P">
