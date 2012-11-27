@@ -55,9 +55,9 @@
 <!ENTITY close_tab "Fermer l\u0027onglet">
 <!ENTITY new_tab "Nouvel onglet">
 <!ENTITY one_tab "1 onglet">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d onglets">
+<!ENTITY num_tabs2 "&formatD; onglets">
 <!ENTITY new_tab_opened "Nouvel onglet ouvert">
 
 <!ENTITY settings "Paramètres">
@@ -155,8 +155,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 
-<!-- Localization note (history_removed) : Shown in a toast notification
-     after a page is removed from browser history. -->
 <!ENTITY history_removed "Page supprimée">
 
 <!ENTITY bookmark_edit_title "Modifier le marque-page">
@@ -236,10 +234,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importation de l\u0027historique depuis Android">
 <!ENTITY bookmarkhistory_import_wait "Veuillez patienter…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Voulez-vous activer les suggestions de recherche &#037;s ?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Voulez-vous activer les suggestions de recherche &formatS; ?">
 
 <!ENTITY webapp_generic_name "application">
 
