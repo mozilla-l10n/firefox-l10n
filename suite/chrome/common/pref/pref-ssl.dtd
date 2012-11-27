@@ -15,8 +15,6 @@
 <!ENTITY warn.description                   "&brandShortName; 能警告您关于您查看的网页的安全信息。让 &brandShortName; 显示警告或者请求权限，当: ">
 <!ENTITY warn.enteringsecure                "载入支持加密的页">
 <!ENTITY warn.enteringsecure.accesskey      "L">
-<!ENTITY warn.enteringweak                  "载入使用弱加密的页">
-<!ENTITY warn.enteringweak.accesskey        "o">
 <!ENTITY warn.insecurepost                  "从加密页发送表单信息到未加密页">
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "离开支持加密页">
