@@ -1,16 +1,16 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
-<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- entities split out from browser.dtd -->
 <!ENTITY next.label "Siguiente">
-<!ENTITY next.accesskey "n">
+<!ENTITY next.accesskey "">
 <!ENTITY next.tooltip "Encontrar la siguiente aparición de la frase">
 <!ENTITY previous.label "Anterior">
-<!ENTITY previous.accesskey "A">
-<!ENTITY previous.tooltip "Buscar la aparición anterior de la frase">
+<!ENTITY previous.accesskey "">
+<!ENTITY previous.tooltip "Encontrar la aparición anterior de la frase">
 <!ENTITY findCloseButton.tooltip "Cerrar Barra de Búsqueda">
 <!ENTITY highlight.label "Destacar todos">
-<!ENTITY highlight.accesskey "a">
+<!ENTITY highlight.accesskey "">
 <!ENTITY highlight.tooltiptext "Resaltar todas las apariciones de la frase">
-<!ENTITY caseSensitiveCheckbox.label "Coincidir mayúsculas">
-<!ENTITY caseSensitiveCheckbox.accesskey "C">
+<!ENTITY caseSensitiveCheckbox.label "Coincidir mayús./minús.">
+<!ENTITY caseSensitiveCheckbox.accesskey "">

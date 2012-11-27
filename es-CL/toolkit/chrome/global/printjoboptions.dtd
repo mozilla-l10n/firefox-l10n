@@ -1,41 +1,34 @@
-<!-- extracted from printjoboptions.xul -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY printJobOptions.title "Propiedades de la impresora">
-
 <!ENTITY paperInput.label "Tamaño del papel:">
-<!ENTITY paperInput.accesskey "T">
-
+<!ENTITY paperInput.accesskey "">
 <!ENTITY plexInput.label "Modo plex:">
-<!ENTITY plexInput.accesskey "M">
-
+<!ENTITY plexInput.accesskey "">
 <!ENTITY resolutionInput.label "Resolución/Calidad:">
-<!ENTITY resolutionInput.accesskey "e">
-
+<!ENTITY resolutionInput.accesskey "">
 <!ENTITY cmdInput.label "Comando de impresión:">
-<!ENTITY cmdInput.accesskey "o">
-
+<!ENTITY cmdInput.accesskey "">
 <!ENTITY jobTitleInput.label "Título del trabajo:">
-<!ENTITY jobTitleInput.accesskey "T">
-
+<!ENTITY jobTitleInput.accesskey "">
 <!ENTITY colorGroup.label "Color:">
 <!ENTITY grayRadio.label "Escala de grises">
-<!ENTITY grayRadio.accesskey "g">
+<!ENTITY grayRadio.accesskey "">
 <!ENTITY colorRadio.label "Color">
-<!ENTITY colorRadio.accesskey "C">
-
+<!ENTITY colorRadio.accesskey "">
 <!ENTITY colorspaceInput.label "Espacio de color:">
-<!ENTITY colorspaceInput.accesskey "s">
-
+<!ENTITY colorspaceInput.accesskey "">
 <!ENTITY fontsGroup.label "Tipografías:">
 <!ENTITY downloadFonts.label "Descargar fuentes a la impresora">
-<!ENTITY downloadFonts.accesskey "D">
-
+<!ENTITY downloadFonts.accesskey "">
 <!ENTITY edgeMarginInput.label "Espacio desde el borde del papel al margen">
 <!ENTITY topInput.label "Espacio desde el borde del papel al margen">
-<!ENTITY topInput.accesskey "E">
+<!ENTITY topInput.accesskey "">
 <!ENTITY bottomInput.label "Inferior:">
-<!ENTITY bottomInput.accesskey "I">
+<!ENTITY bottomInput.accesskey "">
 <!ENTITY leftInput.label "Izquierda:">
-<!ENTITY leftInput.accesskey "I">
+<!ENTITY leftInput.accesskey "">
 <!ENTITY rightInput.label "Derecha:">
-<!ENTITY rightInput.accesskey "D">
+<!ENTITY rightInput.accesskey "">
