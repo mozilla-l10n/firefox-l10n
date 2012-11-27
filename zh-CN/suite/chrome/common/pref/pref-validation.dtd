@@ -12,13 +12,5 @@
 <!ENTITY validation.ocsp.caption                  "OCSP">
 <!ENTITY enableOCSP.label                         "使用在线证书状态协议(OCSP)确定证书当前的有效性。">
 <!ENTITY enableOCSP.accesskey                     "U">
-<!ENTITY certOCSP2.label                          "如果指定OCSP服务器，则确认证书。">
-<!ENTITY certOCSP2.accesskey                      "V">
-<!ENTITY proxyOCSP2.label                         "使用以下OCSP服务器核实所有证书:">
-<!ENTITY proxyOCSP2.accesskey                     "a">
-<!ENTITY serviceURL.label                         "服务URL:">
-<!ENTITY serviceURL.accesskey                     "S">
-<!ENTITY signingCA.label                          "回应签署器:">
-<!ENTITY signingCA.accesskey                      "R">
 <!ENTITY validation.requireOCSP.description       "当OCSP服务器连接失败时，视此证书无效。">
 <!ENTITY validation.requireOCSP.accesskey         "W">
