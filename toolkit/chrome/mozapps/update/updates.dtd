@@ -34,7 +34,7 @@
 <!ENTITY license.accept "Acepto los términos del Acuerdo de licencia">
 <!ENTITY license.accept.accesskey "c">
 <!ENTITY license.decline "NO acepto los términos del Acuerdo de licencia">
-<!ENTITY license.decline.accesskey "t">
+<!ENTITY license.decline.accesskey "T">
 <!ENTITY incompatibleList.title "Se encontraron complementos incompatibles">
 <!ENTITY downloadPage.title "Bajando &brandShortName;">
 <!ENTITY downloading.intro "Bajando la actualización…">

@@ -10,7 +10,7 @@
 ">
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nombre">
-<!ENTITY aboutSupport.extensionEnabled "Habilitada">
+<!ENTITY aboutSupport.extensionEnabled "Habilitado">
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 <!ENTITY aboutSupport.appBasicsTitle "Detalles básicos de la aplicación">
@@ -29,8 +29,6 @@
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencias importantes modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
-<!ENTITY aboutSupport.userJSTitle "Preferencias de user.js">
-<!ENTITY aboutSupport.userJSDescription "Su perfil contiene un <a id='prefs-user-js-link'>archivo user.js</a>, que contiene preferencias que no fueron creadas por &brandShortName;.">
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incremental">

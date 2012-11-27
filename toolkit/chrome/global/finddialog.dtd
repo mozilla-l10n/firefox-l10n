@@ -4,17 +4,17 @@
 
 <!ENTITY findDialog.title "Buscar en Esta Página">
 <!ENTITY findField.label "Buscar:">
-<!ENTITY findField.accesskey "B">
-<!ENTITY caseSensitiveCheckbox.label "Coincidir mayúsculas">
-<!ENTITY caseSensitiveCheckbox.accesskey "C">
+<!ENTITY findField.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.label "Coincidir mayús./minús.">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Ajustar">
-<!ENTITY wrapCheckbox.accesskey "A">
+<!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY findButton.label "Buscar Siguiente">
-<!ENTITY findButton.accesskey "B">
+<!ENTITY findButton.accesskey "F">
 <!ENTITY cancelButton.label "Cancelar">
 <!ENTITY closeButton.label "Cerrar">
 <!ENTITY up.label "Arriba">
-<!ENTITY up.accesskey "A">
+<!ENTITY up.accesskey "U">
 <!ENTITY down.label "Abajo">
-<!ENTITY down.accesskey "A">
+<!ENTITY down.accesskey "D">
 <!ENTITY direction.label "Dirección">
