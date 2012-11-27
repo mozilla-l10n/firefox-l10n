@@ -733,3 +733,4 @@
 <!ENTITY appmenuEditMenu.label "Editar">
 <!ENTITY appmenuButton.tooltip "Amuesa'l menú d'aplicaciones">
 <!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY goChatCmd.key "I">

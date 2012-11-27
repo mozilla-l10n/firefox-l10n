@@ -248,3 +248,5 @@
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY convertRegularAttachment.label "Axuntu normal">
 <!ENTITY convertRegularAttachment.accesskey "A">
+<!ENTITY deliveryFormatMenu.label "Formatu d'entrega">
+<!ENTITY deliveryFormatMenu.accesskey "F">

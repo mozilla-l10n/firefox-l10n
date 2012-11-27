@@ -90,3 +90,5 @@
 <!ENTITY useAutoScroll.accesskey "U">
 <!ENTITY useSmoothScrolling.label "Usar desplazamientu suave">
 <!ENTITY useSmoothScrolling.accesskey "d">
+<!ENTITY checkDefaultsNow.label "Comprobar agora…">
+<!ENTITY checkDefaultsNow.accesskey "b">
