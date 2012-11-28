@@ -105,6 +105,13 @@
 <!ENTITY openRecentMenu.accesskey     "φ">
 
 
+<!ENTITY reloadAndRun.label           "Επαναφόρτωση και εκτέλεση">
+<!ENTITY reloadAndRun.accesskey       "φ">
+<!ENTITY reloadAndRun.key             "r">
+
+
+<!ENTITY revertCmd.label              "Επαναφορά…">
+<!ENTITY revertCmd.accesskey          "ρ">
 
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
