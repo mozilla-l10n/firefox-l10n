@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY serverAdvanced.label "Haladó postafiók-beállítások">
-<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-kiszolgáló könyvtár:">
 <!ENTITY serverDirectory.accesskey "k">
 <!ENTITY usingSubscription.label "Csak a feliratkozott mappák megjelenítése">
@@ -14,7 +14,7 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "A gyorsítótárazandó kiszolgáló-kapcsolatok maximális száma">
 <!ENTITY maximumConnectionsNumber.accesskey "o">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Ezek a beállítások meghatározzák a névtartományokat az IMAP-kiszolgálón">
 <!ENTITY personalNamespace.label "Személyes névtartomány:">
 <!ENTITY personalNamespace.accesskey "S">
