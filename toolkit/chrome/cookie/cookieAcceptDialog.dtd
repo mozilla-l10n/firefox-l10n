@@ -13,7 +13,7 @@
 <!ENTITY button.session.label "Permitir por esta sesión">
 <!ENTITY button.session.accesskey "s">
 <!ENTITY button.deny.label "Denegar">
-<!ENTITY button.deny.accesskey "">
+<!ENTITY button.deny.accesskey "D">
 <!ENTITY dialog.title "Confirmar la configuración de la cookie">
 <!ENTITY dialog.remember.label "Usar mi elección para todas las cookies de este sitio">
-<!ENTITY dialog.remember.accesskey "">
+<!ENTITY dialog.remember.accesskey "U">
