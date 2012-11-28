@@ -5,12 +5,12 @@
 <!ENTITY tabs.otherDevices.label "Pestañas de otros dispositivos">
 <!ENTITY tabs.searchText.label "Ingresar para buscar pestañas…">
 <!ENTITY tabs.context.openTab.label "Abrir esta pestaña">
-<!ENTITY tabs.context.openTab.accesskey "A">
+<!ENTITY tabs.context.openTab.accesskey "O">
 <!ENTITY tabs.context.openMultipleTabs.label "Abrir pestañas seleccionadas">
-<!ENTITY tabs.context.openMultipleTabs.accesskey "A">
+<!ENTITY tabs.context.openMultipleTabs.accesskey "O">
 <!ENTITY tabs.context.bookmarkSingleTab.label "Marcar esta pestaña…">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey "M">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey "B">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label "Marcar pestañas seleccionadas…">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey "M">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey "B">
 <!ENTITY tabs.context.refreshList.label "Recargar lista">
 <!ENTITY tabs.context.refreshList.accesskey "R">

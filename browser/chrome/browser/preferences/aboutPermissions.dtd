@@ -8,11 +8,11 @@
 <!ENTITY header.site.start "Permisos para">
 <!ENTITY header.site.end "">
 <!ENTITY header.defaults "Permisos predeterminados para todos los sitios">
-<!ENTITY permissions.forgetSite "Olvidar datos de este sitio">
+<!ENTITY permissions.forgetSite "Olvidarse de este sitio">
 <!ENTITY permission.alwaysAsk "Preguntar siempre">
 <!ENTITY permission.allow "Permitir">
 <!ENTITY permission.allowForSession "Permitir por esta sesión">
-<!ENTITY permission.allowFirstPartyOnly "">
+<!ENTITY permission.allowFirstPartyOnly "Permitir solo oficiales">
 <!ENTITY permission.block "Bloquear">
 <!ENTITY password.label "Guardar contraseñas">
 <!ENTITY password.manage "Administrar contraseñas…">

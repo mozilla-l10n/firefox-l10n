@@ -9,7 +9,7 @@
 <!ENTITY copy.accesskey "C">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Seleccionar todo">
-<!ENTITY selectall.accesskey "a">
+<!ENTITY selectall.accesskey "A">
 <!ENTITY closeWindow.key "w">
 <!ENTITY generalTab "General">
 <!ENTITY generalTab.accesskey "G">
@@ -37,13 +37,13 @@
 <!ENTITY mediaDimension "Tamaño:">
 <!ENTITY mediaLongdesc "Descripción larga:">
 <!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Guardar como...">
-<!ENTITY mediaSaveAs.accesskey "a">
+<!ENTITY mediaSaveAs "Guardar como…">
+<!ENTITY mediaSaveAs.accesskey "A">
 <!ENTITY mediaSaveAs2.accesskey "e">
 <!ENTITY mediaPreview "Vista previa de medios:">
 <!ENTITY feedTab "Canales">
-<!ENTITY feedTab.accesskey "C">
-<!ENTITY feedSubscribe "Suscribir">
+<!ENTITY feedTab.accesskey "F">
+<!ENTITY feedSubscribe "Suscribirse">
 <!ENTITY feedSubscribe.accesskey "u">
 <!ENTITY permTab "Permisos">
 <!ENTITY permTab.accesskey "P">
@@ -62,7 +62,7 @@
 <!ENTITY permFullscreen "Pasar a pantalla completa">
 <!ENTITY permIndexedDB "Mantener almacenamiento sin conexión">
 <!ENTITY permClearStorage "Limpiar almacenamiento">
-<!ENTITY permClearStorage.accesskey "c">
+<!ENTITY permClearStorage.accesskey "C">
 <!ENTITY securityTab "Seguridad">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Información de seguridad para esta página">
