@@ -8,29 +8,29 @@
 <!ENTITY fileCheck.label "Imprimir a archivo">
 <!ENTITY fileCheck.accesskey "I">
 <!ENTITY propertiesButton.label "Propiedades…">
-<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY propertiesButton.accesskey "">
 <!ENTITY descText.label "Descripción de la impresora:">
 <!ENTITY printer.label "Impresora">
 <!ENTITY printerInput.label "Nombre de la impresora:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.accesskey "">
 <!ENTITY printrangeGroup.label "Rango de impresión">
 <!ENTITY allpagesRadio.label "Todas las páginas">
 <!ENTITY allpagesRadio.accesskey "T">
 <!ENTITY rangeRadio.label "Páginas">
-<!ENTITY rangeRadio.accesskey "P">
+<!ENTITY rangeRadio.accesskey "">
 <!ENTITY frompageInput.label "desde">
 <!ENTITY frompageInput.accesskey "d">
 <!ENTITY topageInput.label "a">
 <!ENTITY topageInput.accesskey "a">
 <!ENTITY selectionRadio.label "Selección">
-<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY selectionRadio.accesskey "">
 <!ENTITY copies.label "Copias">
 <!ENTITY numCopies.label "Número de copias:">
-<!ENTITY numCopies.accesskey "c">
+<!ENTITY numCopies.accesskey "">
 <!ENTITY printframeGroup.label "Imprimir marcos">
 <!ENTITY aslaidoutRadio.label "Como se muestra en pantalla">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "">
 <!ENTITY selectedframeRadio.label "El marco seleccionado">
-<!ENTITY selectedframeRadio.accesskey "m">
+<!ENTITY selectedframeRadio.accesskey "">
 <!ENTITY eachframesepRadio.label "Cada marco por separado">
 <!ENTITY eachframesepRadio.accesskey "C">

@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY charsetMenu.label "Codificación de caracteres">
-<!ENTITY charsetMenu.accesskey C"">
+<!ENTITY charsetMenu.accesskey "C">
 <!ENTITY charsetMenuAutodet.label "Auto-Detección">
-<!ENTITY charsetMenuAutodet.accesskey "A">
+<!ENTITY charsetMenuAutodet.accesskey "a">
 <!ENTITY charsetMenuMore.label "Más codificaciones">
-<!ENTITY charsetMenuMore.accesskey "M">
+<!ENTITY charsetMenuMore.accesskey "m">
 <!ENTITY charsetMenuMore1.label "Europea occidental">
-<!ENTITY charsetMenuMore1.accesskey "E">
+<!ENTITY charsetMenuMore1.accesskey "w">
 <!ENTITY charsetMenuMore2.label "Europea oriental">
 <!ENTITY charsetMenuMore2.accesskey "E">
 <!ENTITY charsetMenuMore3.label "Asiático del Este">
@@ -20,5 +20,5 @@
 <!ENTITY charsetMenuMore5.accesskey "M">
 <!ENTITY charsetMenuUnicode.label "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey "U">
-<!ENTITY charsetCustomize.label "Personalizar Lista…">
-<!ENTITY charsetCustomize.accesskey "P">
+<!ENTITY charsetCustomize.label "Personalizar lista…">
+<!ENTITY charsetCustomize.accesskey "c">

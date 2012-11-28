@@ -4,7 +4,7 @@
 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.titlemodifierseparator "">
 <!ENTITY mainWindow.preface "Fuente de: ">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
@@ -12,14 +12,14 @@
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Configuración de página…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.accesskey "">
 <!ENTITY printPreviewCmd.label "Vista Previa">
 <!ENTITY printPreviewCmd.accesskey "V">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Cerrar">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "">
 <!ENTITY closeCmd.commandkey "W">
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -32,9 +32,9 @@
 <!ENTITY goToLineCmd.accesskey "I">
 <!ENTITY goToLineCmd.commandkey "l">
 <!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.accesskey "">
 <!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Ajustar Líneas Largas">
 <!ENTITY menu_wrapLongLines.accesskey "A">
@@ -47,7 +47,7 @@
 <!ENTITY menu_textReduce.label "Reducir">
 <!ENTITY menu_textReduce.accesskey "d">
 <!ENTITY menu_textReset.label "Normal">
-<!ENTITY menu_textReset.accesskey "N">
+<!ENTITY menu_textReset.accesskey "">
 <!ENTITY findOnCmd.label "Buscar en esta página…">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
