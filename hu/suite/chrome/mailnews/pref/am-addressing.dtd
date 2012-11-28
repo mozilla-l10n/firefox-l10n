@@ -43,7 +43,7 @@
 <!ENTITY includeSigOnForward.accesskey        "t">
 
 <!ENTITY globalComposingPrefs.label           "Globális HTML-szerkesztő beállítások…">
-<!ENTITY globalComposingPrefs.accesskey       "g">
+<!ENTITY globalComposingPrefs.accesskey       "G">
 
 <!ENTITY globalAddressingPrefs.label          "Globális címzés beállítások…">
 <!ENTITY globalAddressingPrefs.accesskey      "o">

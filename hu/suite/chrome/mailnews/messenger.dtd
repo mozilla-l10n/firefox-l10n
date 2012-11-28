@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Válasz">
 <!ENTITY replyMsgCmd.accesskey "V">
 <!ENTITY replyMsgCmd.key "V">
-<!ENTITY replySenderCmd.label "Válasz csak a feladónak">
-<!ENTITY replySenderCmd.accesskey "f">
+<!ENTITY replyListCmd.label "Válasz a listára">
+<!ENTITY replyListCmd.accesskey "l">
 <!ENTITY replyNewsgroupCmd.label "Válasz a hírcsoportnak">
 <!ENTITY replyNewsgroupCmd.accesskey "h">
+<!ENTITY replySenderCmd.label "Válasz csak a feladónak">
+<!ENTITY replySenderCmd.accesskey "f">
 <!ENTITY replyToAllMsgCmd.label "Válasz mindenkinek">
 <!ENTITY replyToAllMsgCmd.accesskey "m">
 <!ENTITY replyToAllMsgCmd.key "m">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "z">
 <!ENTITY contextReplySender.label "Válasz csak a feladónak">
 <!ENTITY contextReplySender.accesskey "f">
+<!ENTITY contextReplyList.label "Válasz a listára">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextReplyNewsgroup.label "Válasz a hírcsoportnak">
 <!ENTITY contextReplyNewsgroup.accesskey "h">
 <!ENTITY contextReplyAll.label "Válasz mindenkinek">
