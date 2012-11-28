@@ -72,7 +72,7 @@
 <!ENTITY pref_telemetry "Enviar datos de rendimiento">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
-<!ENTITY pref_cookies "Habilitar cookies">
+<!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Habilitadas">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excepto de terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitadas">
