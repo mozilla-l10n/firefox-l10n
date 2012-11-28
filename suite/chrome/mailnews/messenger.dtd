@@ -288,10 +288,12 @@
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "Responder sólo al remitente">
-<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyListCmd.label "Responder a lista">
+<!ENTITY replyListCmd.accesskey "i">
 <!ENTITY replyNewsgroupCmd.label "Responder al grupo de noticias">
 <!ENTITY replyNewsgroupCmd.accesskey	"g">
+<!ENTITY replySenderCmd.label "Responder sólo al remitente">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -457,6 +459,8 @@
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder sólo al remitente">
 <!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyList.label "Responder a lista">
+<!ENTITY contextReplyList.accesskey "i">
 <!ENTITY contextReplyNewsgroup.label "Responder al grupo de noticias">
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Responder a todos">
