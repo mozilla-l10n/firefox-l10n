@@ -44,3 +44,7 @@
 <!ENTITY copyURLCmd.accesskey "r">
 <!ENTITY openURL.label "Abrir nuna llingüeta nueva">
 <!ENTITY openURL.accesskey "T">
+<!ENTITY networkPanel.statusCodeColon "Códigu d'estáu:">
+<!ENTITY networkPanel.responseCookie "Cookie recibida">
+<!ENTITY networkPanel.requestURLColon "URL solicitada:">
+<!ENTITY networkPanel.requestMethodColon "Métodu de la solicitú:">
