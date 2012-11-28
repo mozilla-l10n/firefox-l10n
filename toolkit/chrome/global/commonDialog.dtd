@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "Contraseña:">
 <!ENTITY checkbox.label "chequear">
 <!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.accesskey "">
+<!ENTITY selectAllCmd.accesskey "a">

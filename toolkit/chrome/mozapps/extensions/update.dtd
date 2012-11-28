@@ -8,7 +8,7 @@
                                            disponibles para ver si sus complementos pueden ser compatibles
                                            con esta versión.">
 <!ENTITY offline.toggleOffline.label "Conectarse ahora.">
-<!ENTITY offline.toggleOffline.accesskey "">
+<!ENTITY offline.toggleOffline.accesskey "C">
 <!ENTITY mismatch.win.title "Complementos Incompatibles">
 <!ENTITY mismatch.top.label "Los siguientes complementos no son compatibles con esta versión de
                                            &brandShortName; y han sido deshabilitados:">
@@ -23,7 +23,7 @@
                                            está desactivada en este momento. Puede cambiar esta
                                            configuración debajo.">
 <!ENTITY found.enableXPInstall.label "Permitir que los sitios web instalen software">
-<!ENTITY found.enableXPInstall.accesskey "">
+<!ENTITY found.enableXPInstall.accesskey "a">
 <!ENTITY installing.wizard.title "Instalando complementos compatibles">
 <!ENTITY installing.top.label "Bajando e instalando actualizaciones de sus complementos…">
 <!ENTITY noupdates.wizard.title "No se han encontrado complementos compatibles">

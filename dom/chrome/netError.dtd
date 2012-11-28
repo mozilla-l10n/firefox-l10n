@@ -5,7 +5,7 @@
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
 <!ENTITY loadError.label "Error al cargar la página">
-<!ENTITY retry.label "Intente nuevamente">
+<!ENTITY retry.label "Reintentar">
 <!ENTITY connectionFailure.title "Fallo al conectar">
 <!ENTITY connectionFailure.longDesc "Fallo al conectar">
 <!ENTITY deniedPortAccess.title "Puerto restringido por razones de seguridad">
@@ -27,9 +27,8 @@
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<p>La página que está intentando ver no puede mostrarse porque usa una forma no válida o no admitida de compresión.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Por favor contacte a los dueños del sitio web para informales de este problema.</li>
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Por favor, contacte a los dueños del sitio web para informarles sobre este problema.</li>
 </ul>
 ">
 <!ENTITY netReset.title "Conexión Interrumpida">
@@ -46,9 +45,9 @@
 <!ENTITY redirectLoop.longDesc "<p>El navegador se ha detenido intentando recuperar el elemento solicitado. El sitio está redirigiendo la solicitud de una forma que nunca se va a completar.</p><ul><li>¿Tiene desactivadas o bloqueadas las cookies requeridas por este sitio?</li><li><em>NOTA</em>: Si aceptar las cookies del sitio no resuelve el problema, probablemente es un problema de configuración del servidor y no de su computador.</li></ul>">
 <!ENTITY unknownSocketType.title "Respuesta Incorrecta">
 <!ENTITY unknownSocketType.longDesc "<p>El sitio respondió a la solicitud de red en una forma inesperada y el navegador no puede continuar.</p>">
-<!ENTITY nssFailure2.title "Falló la conexión segura">
+<!ENTITY nssFailure2.title "La conexión segura falló">
 <!ENTITY nssFailure2.longDesc "<p>La página que intenta ver no puede mostrarse porque no se ha podido verificar la autenticidad de los datos recibidos.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
-<!ENTITY nssBadCert.title "Falló la conexión segura">
+<!ENTITY nssBadCert.title "La conexión segura falló">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Esto podría deberse a un problema con la configuración del servidor, o podría ser alguien intentando hacerse pasar por el servidor.</li>
 <li>Si ha conectado a este servidor con éxito en el pasado, el error podría ser temporal, y podrá volver a intentarlo más tarde.</li>
@@ -61,7 +60,7 @@
 ">
 <!ENTITY phishingBlocked.title "¡Sitio web sospechoso de suplantación!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Ingresar cualquier dato personal en esta págian peude resultar en un robo de identidad u otro fraude.</p>
+<p>Ingresar cualquier dato personal en esta página puede resultar en un robo de identidad u otro fraude.</p>
 <p>Este tipo de web falsas son usadas en estadas conocidas como ataques phishing, en los que páginas fraudulentas y correos son usados para imitar fuentes en que usted confía.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">

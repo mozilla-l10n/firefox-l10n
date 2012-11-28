@@ -5,11 +5,11 @@
 <!ENTITY window.title "Editor de estilo">
 <!ENTITY newButton.label "Nueva">
 <!ENTITY newButton.tooltip "Crear y adjuntar al documento una nueva hoja de estilo">
-<!ENTITY newButton.accesskey "">
+<!ENTITY newButton.accesskey "N">
 <!ENTITY newButton.commandkey "n">
 <!ENTITY importButton.label "Importar…">
 <!ENTITY importButton.tooltip "Importar y adjuntar al documento una hoja de estilo existente">
-<!ENTITY importButton.accesskey "">
+<!ENTITY importButton.accesskey "I">
 <!ENTITY importButton.commandkey "i">
 <!ENTITY visibilityToggle.tooltip "Alternar visibilidad de la hoja de estilo">
 <!ENTITY visibilityToggle.accesskey "v">

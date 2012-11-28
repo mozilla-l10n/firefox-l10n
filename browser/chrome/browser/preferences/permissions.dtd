@@ -13,11 +13,11 @@
 <!ENTITY address.label "Dirección del sitio web:">
 <!ENTITY address.accesskey "D">
 <!ENTITY block.label "Bloquear">
-<!ENTITY block.accesskey "">
+<!ENTITY block.accesskey "B">
 <!ENTITY session.label "Permitir por esta sesión">
 <!ENTITY session.accesskey "s">
 <!ENTITY allow.label "Permitir">
 <!ENTITY allow.accesskey "P">
 <!ENTITY windowClose.key "w">
 <!ENTITY button.close.label "Cerrar">
-<!ENTITY button.close.accesskey "">
+<!ENTITY button.close.accesskey "C">

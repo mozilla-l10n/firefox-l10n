@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
-<!ENTITY aboutWarningTitle.label "¡Esto podría anular tu garantía!">
-<!ENTITY aboutWarningText.label "Cambiar estas preferencias avanzadas puede ser perjudicial para la estabilidad, seguridad y rendimiento de esta aplicación. Sólo debería continuar si está seguro de lo qué está haciendo.">
+<!ENTITY aboutWarningTitle.label "¡Ojo al charqui!">
+<!ENTITY aboutWarningText.label "Cambiar estas configuraciones avanzadas pueden afectar la estabilidad, seguridad y rendimiento de esta aplicación. Sólo debería continuar si está seguro de lo que va a hacer.">
 <!ENTITY aboutWarningButton.label "¡Seré cuidadoso, lo prometo!">
 <!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 <!ENTITY searchPrefs.label "Buscar:">
-<!ENTITY searchPrefs.accesskey "">
+<!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!ENTITY prefColumn.label "Nombre de preferencia">
 <!ENTITY lockColumn.label "Estado">
@@ -18,22 +18,22 @@
 <!ENTITY columnChooser.tooltip "Presione para seleccionar las columnas a mostrar">
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
-<!ENTITY copyPref.accesskey "">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Copiar nombre">
-<!ENTITY copyName.accesskey "">
+<!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Copiar valor">
-<!ENTITY copyValue.accesskey "">
+<!ENTITY copyValue.accesskey "v">
 <!ENTITY modify.label "Modificar">
-<!ENTITY modify.accesskey "">
+<!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Modificar">
-<!ENTITY toggle.accesskey "">
+<!ENTITY toggle.accesskey "M">
 <!ENTITY reset.label "Restablecer">
-<!ENTITY reset.accesskey "">
-<!ENTITY new.label "Nueva">
-<!ENTITY new.accesskey "">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "Nuevo">
+<!ENTITY new.accesskey "N">
 <!ENTITY string.label "Cadena">
-<!ENTITY string.accesskey "">
+<!ENTITY string.accesskey "C">
 <!ENTITY integer.label "Entero">
-<!ENTITY integer.accesskey "">
+<!ENTITY integer.accesskey "E">
 <!ENTITY boolean.label "Lógico">
-<!ENTITY boolean.accesskey "">
+<!ENTITY boolean.accesskey "L">
