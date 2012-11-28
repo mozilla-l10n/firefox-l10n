@@ -13,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label              "HTTP 1.1 használata">
 <!ENTITY prefEnableHTTP11.accesskey          "P">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "Tartós kapcsolatok (keep-alive) engedélyezése">
-<!ENTITY prefEnableKeepAlive.accesskey       "T">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "a">
 <!ENTITY prefEnablePipelining.label          "Adatcsatornák (pipelining) engedélyezése">
 <!ENTITY prefEnablePipelining.accesskey      "d">
 <!ENTITY prefEnablePipeliningProxy.accesskey "d">

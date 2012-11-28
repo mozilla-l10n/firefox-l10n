@@ -28,8 +28,8 @@
 <!ENTITY myRecoveryKey.accesskey      "a">
 <!ENTITY resetSync.label              "Sync alaphelyzetbe">
 <!ENTITY resetSync.accesskey          "a">
-<!ENTITY deactivateDevice.label       "Eszköz deaktiválása">
-<!ENTITY deactivateDevice.accesskey   "d">
+<!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
+<!ENTITY unlinkDevice.accesskey       "d">
 <!ENTITY addDevice.label              "Eszköz hozzáadása">
 <!ENTITY addDevice.accesskey          "h">
 <!-- Sync Settings -->

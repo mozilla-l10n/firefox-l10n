@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "Szélesség:">
 <!ENTITY image-height.label    "Magasság:">
 <!ENTITY image-filesize.label  "Fájlméret:">
+<!ENTITY image-filesize.value  "Ismeretlen">
 <!ENTITY insdel-sec.label      "Tulajdonság beszúrása/törlése">
 <!ENTITY insdel-cite.label     "Információ:">
 <!ENTITY insdel-date.label     "Dátum:">
