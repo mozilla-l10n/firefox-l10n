@@ -6,12 +6,12 @@
 <!ENTITY props.value.label "Contenido:">
 <!ENTITY props.domain.label "Servidor:">
 <!ENTITY props.path.label "Ruta:">
-<!ENTITY props.secure.label "Enviada por:">
+<!ENTITY props.secure.label "Enviar para:">
 <!ENTITY props.expires.label "Vence:">
 <!ENTITY button.allow.label "Permitir">
-<!ENTITY button.allow.accesskey "P">
+<!ENTITY button.allow.accesskey "A">
 <!ENTITY button.session.label "Permitir por esta sesión">
-<!ENTITY button.session.accesskey "s">
+<!ENTITY button.session.accesskey "S">
 <!ENTITY button.deny.label "Denegar">
 <!ENTITY button.deny.accesskey "D">
 <!ENTITY dialog.title "Confirmar la configuración de la cookie">

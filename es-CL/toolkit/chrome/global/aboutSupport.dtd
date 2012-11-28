@@ -10,7 +10,7 @@
 ">
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nombre">
-<!ENTITY aboutSupport.extensionEnabled "Habilitada">
+<!ENTITY aboutSupport.extensionEnabled "Habilitado">
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 <!ENTITY aboutSupport.appBasicsTitle "Detalles básicos de la aplicación">
