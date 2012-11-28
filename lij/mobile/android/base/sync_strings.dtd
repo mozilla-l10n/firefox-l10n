@@ -16,7 +16,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pe ativâ o teu nêuvo aparâto, seleçiónn-a “Inpòsta &syncBrand.shortName.label;” in sciô aparâto.'>
 <!ENTITY sync.subtitle.header.label 'Métti sto còdice into teu computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Seleçiónn-a “&sync.title.pair.label;” inta seçión &syncBrand.shortName.label; de òpsioìn do teu navegatô Firefox.'>
+<!ENTITY sync.subtitle.connectlocation.label 'Seleçiónn-a “&sync.title.pair.label;” inta sesción &syncBrand.shortName.label; de òpsioìn do teu navegatô Firefox.'>
 <!ENTITY sync.subtitle.pair.label 'Pe ativâ, seleçiónn-a “Acóbia un aparâto” in sce teu âtro aparâto.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>

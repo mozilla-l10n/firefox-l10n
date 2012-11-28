@@ -12,8 +12,8 @@
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Mizuraçioìn sénplici">
 <!ENTITY aboutTelemetry.systemInfoSection "Informaçioìn de scistêma">
 <!ENTITY aboutTelemetry.addonHistogramsSection "Istogràmmi arecogéiti da conponénti azónti">
-<!ENTITY aboutTelemetry.toggleOn "Sciàcca pe védde a seçión">
-<!ENTITY aboutTelemetry.toggleOff "Sciàcca pe ascónde a seçión">
+<!ENTITY aboutTelemetry.toggleOn "Sciàcca pe védde a sesción">
+<!ENTITY aboutTelemetry.toggleOff "Sciàcca pe ascónde a sesción">
 <!ENTITY aboutTelemetry.emptySection "(nisciùn dæto arecugéito)">
 <!ENTITY aboutTelemetry.fullSqlWarning "ATENÇIÓN: o contròllo de-e istruçioìn SQL lénte o l'é atîvo. Poriéiva êse mostròu de strìnghe SQL conplête ma quéste informaçioìn no saiàn trasmìsse da-a telemetrîa.">
 <!ENTITY aboutTelemetry.fetchSymbols "Repìggia i nómmi de-e fonçioìn pe stack do blòcco">
