@@ -88,9 +88,9 @@
 <!ENTITY createCertInfo.msg2 "Pe favô aspêta…">
 
 <!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "L'é domandâ a firma do tésto">
+<!ENTITY formSigning.title "L'é domandâ a firma do tèsto">
 <!ENTITY formSigning.cert "Firmo o certificâto">
-<!ENTITY formSigning.confirmPassword "Pe confermâ che ti veu firmâ sto tésto co sto certificâto, inserisci a paròlla segrêta prinçipâ:">
+<!ENTITY formSigning.confirmPassword "Pe confermâ che ti veu firmâ sto tèsto co sto certificâto, inserisci a paròlla segrêta prinçipâ:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Aotenticaçión protétta dò-u Token">
