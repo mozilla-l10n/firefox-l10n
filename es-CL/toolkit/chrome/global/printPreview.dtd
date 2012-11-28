@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label "Imprimir…">
-<!ENTITY print.accesskey "">
+<!ENTITY print.accesskey "p">
 <!ENTITY pageSetup.label "Configuración de página…">
-<!ENTITY pageSetup.accesskey "">
+<!ENTITY pageSetup.accesskey "u">
 <!ENTITY page.label "Página:">
-<!ENTITY page.accesskey "">
+<!ENTITY page.accesskey "a">
 <!ENTITY of.label "de">
 <!ENTITY scale.label "Escala:">
-<!ENTITY scale.accesskey "">
+<!ENTITY scale.accesskey "s">
 <!ENTITY portrait.label "Vertical">
-<!ENTITY portrait.accesskey "">
+<!ENTITY portrait.accesskey "V">
 <!ENTITY landscape.label "Horizontal">
-<!ENTITY landscape.accesskey "">
+<!ENTITY landscape.accesskey "l">
 <!ENTITY close.label "Cerrar">
-<!ENTITY close.accesskey "">
+<!ENTITY close.accesskey "C">
 <!ENTITY p30.label "30&#037;">
 <!ENTITY p40.label "40&#037;">
 <!ENTITY p50.label "50&#037;">
@@ -30,7 +30,7 @@
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
 <!ENTITY Custom.label "Personalizado…">
-<!ENTITY ShrinkToFit.label "Ajustar al ancho de página">
+<!ENTITY ShrinkToFit.label "Ajustar a la página">
 <!ENTITY customPrompt.title "Escala personalizada…">
 <!ENTITY homearrow.tooltip "Primera página">
 <!ENTITY endarrow.tooltip "Última página">

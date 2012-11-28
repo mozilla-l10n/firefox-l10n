@@ -10,6 +10,6 @@
 <!ENTITY blocklist.softandhard "Los complementos con un riesgo alto de causar problemas de estabilidad o seguridad han sido bloqueados. Los demás tienen un riesgo menor, pero le recomendamos ampliamente desactivarlos y reiniciar.">
 <!ENTITY blocklist.moreinfo "Más información">
 <!ENTITY blocklist.accept.label "Reiniciar &brandShortName;">
-<!ENTITY blocklist.accept.accesskey "">
+<!ENTITY blocklist.accept.accesskey "R">
 <!ENTITY blocklist.blocked.label "Bloqueado">
-<!ENTITY blocklist.checkbox.label "Desactivar">
+<!ENTITY blocklist.checkbox.label "Deshabilitar">

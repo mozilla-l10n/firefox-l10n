@@ -20,7 +20,7 @@
 <!ENTITY engine.tabs.label "Pestañas">
 <!ENTITY engine.tabs.accesskey "t">
 <!ENTITY engine.history.label "Historial">
-<!ENTITY engine.history.accesskey "">
+<!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.passwords.label "Contraseñas">
 <!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label "Preferencias">
@@ -28,7 +28,7 @@
 <!ENTITY engine.addons.label "Complementos">
 <!ENTITY engine.addons.accesskey "o">
 <!ENTITY syncDeviceName.label "Nombre del dispositivo">
-<!ENTITY syncDeviceName.accesskey "">
+<!ENTITY syncDeviceName.accesskey "c">
 <!ENTITY unlinkDevice.label "Desvincular este dispositivo">
 <!ENTITY prefs.tosLink.label "Términos del servicio">
 <!ENTITY prefs.ppLink.label "Política de privacidad">

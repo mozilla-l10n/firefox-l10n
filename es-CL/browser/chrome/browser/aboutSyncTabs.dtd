@@ -14,3 +14,4 @@
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey "M">
 <!ENTITY tabs.context.refreshList.label "Recargar lista">
 <!ENTITY tabs.context.refreshList.accesskey "">
+<!ENTITY tabs.context.refreshList.accesskey "R">

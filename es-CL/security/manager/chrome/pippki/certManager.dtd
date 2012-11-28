@@ -16,9 +16,9 @@
 <!ENTITY certmgr.cas "Usted tiene certificados que identifican a las siguientes autoridades:">
 <!ENTITY certmgr.orphans "Tiene certificados en el archivo que no calzan en las otras categorías:">
 <!ENTITY certmgr.detail.general_tab.title "General">
-<!ENTITY certmgr.detail.general_tab.accesskey "">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalles">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 <!ENTITY certmgr.pending.label "Verificando ahora el certificado...">
 <!ENTITY certmgr.subjectinfo.label "Emitido para">
 <!ENTITY certmgr.issuerinfo.label "Emitido por">
@@ -60,45 +60,45 @@
 <!ENTITY certmgr.email "Dirección E-Mail">
 <!ENTITY certmgr.serial "Número de Serie">
 <!ENTITY certmgr.close.label "Cerrar">
-<!ENTITY certmgr.close.accesskey "">
+<!ENTITY certmgr.close.accesskey "C">
 <!ENTITY certmgr.view2.label "Ver...">
-<!ENTITY certmgr.view2.accesskey "">
+<!ENTITY certmgr.view2.accesskey "V">
 <!ENTITY certmgr.edit3.label "Editar confianza…">
-<!ENTITY certmgr.edit3.accesskey "">
+<!ENTITY certmgr.edit3.accesskey "E">
 <!ENTITY certmgr.editca.label "Modificar Confianza en CA">
-<!ENTITY certmgr.editca.accesskey "">
-<!ENTITY certmgr.add.label "Agregar">
-<!ENTITY certmgr.add.accesskey "">
+<!ENTITY certmgr.editca.accesskey "d">
+<!ENTITY certmgr.add.label "Añadir">
+<!ENTITY certmgr.add.accesskey "A">
 <!ENTITY certmgr.export.label "Exportar…">
-<!ENTITY certmgr.export.accesskey "">
+<!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "Eliminar...">
-<!ENTITY certmgr.delete2.accesskey "">
+<!ENTITY certmgr.delete2.accesskey "E">
 <!ENTITY certmgr.delete_builtin.label "Borrar o desconfiar…">
-<!ENTITY certmgr.delete_builtin.accesskey "">
+<!ENTITY certmgr.delete_builtin.accesskey "B">
 <!ENTITY certmgr.backup2.label "Hacer un Respaldo…">
-<!ENTITY certmgr.backup2.accesskey "">
+<!ENTITY certmgr.backup2.accesskey "H">
 <!ENTITY certmgr.backupall2.label "Respaldar Todo...">
-<!ENTITY certmgr.backupall2.accesskey "">
+<!ENTITY certmgr.backupall2.accesskey "R">
 <!ENTITY certmgr.restore2.label "Importar…">
-<!ENTITY certmgr.restore2.accesskey "">
+<!ENTITY certmgr.restore2.accesskey "m">
 <!ENTITY certmgr.details.label "Campos del certificado">
-<!ENTITY certmgr.details.accesskey "">
+<!ENTITY certmgr.details.accesskey "f">
 <!ENTITY certmgr.fields.label "Valor del Campo">
-<!ENTITY certmgr.fields.accesskey "">
+<!ENTITY certmgr.fields.accesskey "V">
 <!ENTITY certmgr.hierarchy.label "Jerarquía de Certificado">
-<!ENTITY certmgr.hierarchy.accesskey "">
+<!ENTITY certmgr.hierarchy.accesskey "C">
 <!ENTITY certmgr.addException.label "Añadir Excepción...">
-<!ENTITY certmgr.addException.accesskey "">
+<!ENTITY certmgr.addException.accesskey "x">
 <!ENTITY exceptionMgr.title "Agregar Excepción de Seguridad">
 <!ENTITY exceptionMgr.exceptionButton.label "Confirmar excepción de seguridad">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning "Los bancos, tiendas y otros sitios públicos legítimos no le pedirán hacer esto.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Servidor">
 <!ENTITY exceptionMgr.certlocation.url "Dirección:">
 <!ENTITY exceptionMgr.certlocation.download "Obtener Certificado">
-<!ENTITY exceptionMgr.certlocation.accesskey "">
+<!ENTITY exceptionMgr.certlocation.accesskey "G">
 <!ENTITY exceptionMgr.certstatus.caption "Estados de Certificado">
 <!ENTITY exceptionMgr.certstatus.viewCert "Ver...">
-<!ENTITY exceptionMgr.certstatus.accesskey "">
+<!ENTITY exceptionMgr.certstatus.accesskey "V">
 <!ENTITY exceptionMgr.permanent.label "Almacenar permanentemente esta excepción">
-<!ENTITY exceptionMgr.permanent.accesskey "">
+<!ENTITY exceptionMgr.permanent.accesskey "p">

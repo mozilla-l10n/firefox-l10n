@@ -10,7 +10,7 @@
 <!ENTITY syncKey.keepItSafe1.description "No pierda esta clave.">
 <!ENTITY syncKey.keepItSafe2.description " No mantenemos una copia de su clave (¡eso no sería mantenerla en secreto!) así que ">
 <!ENTITY syncKey.keepItSafe3.description "no podemos ayudarlo a recuperarla">
-<!ENTITY syncKey.keepItSafe4a.description "">
+<!ENTITY syncKey.keepItSafe4a.description " si es perdida. Usted deberá usar esta clave cada vez que conecte un dispositivo nuevo a &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label "Conozca más sobre &syncBrand.fullName.label; y su privacidad en ">
 <!ENTITY syncKey.findOutMore2.label ".">
 <!ENTITY syncKey.footer1.label "Los términos del servicio de &syncBrand.fullName.label; están disponibles en ">

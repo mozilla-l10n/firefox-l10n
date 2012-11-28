@@ -14,4 +14,4 @@
 <!ENTITY languages.customize.deleteButton.accesskey "r">
 <!ENTITY languages.customize.selectLanguage.label "Seleccione un idioma para agregar…">
 <!ENTITY languages.customize.addButton.label "Añadir">
-<!ENTITY languages.customize.addButton.accesskey "">
+<!ENTITY languages.customize.addButton.accesskey "A">

@@ -14,10 +14,10 @@
 <!ENTITY remove.label "Eliminar">
 <!ENTITY remove.accesskey "r">
 <!ENTITY edit.label "Editar palabra clave…">
-<!ENTITY edit.accesskey "">
+<!ENTITY edit.accesskey "t">
 <!ENTITY addEngine.label "Obtener más motores de búsqueda…">
 <!ENTITY addEngine.accesskey "a">
 <!ENTITY enableSuggest.label "Mostrar sugerencias de búsqueda">
 <!ENTITY enableSuggest.accesskey "s">
 <!ENTITY restoreDefaults.label "Restaurar predeterminados">
-<!ENTITY restoreDefaults.accesskey "">
+<!ENTITY restoreDefaults.accesskey "e">

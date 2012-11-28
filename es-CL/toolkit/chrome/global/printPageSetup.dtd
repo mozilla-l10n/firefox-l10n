@@ -7,29 +7,29 @@
 <!ENTITY formatGroup.label "Formato">
 <!ENTITY orientation.label "Orientación:">
 <!ENTITY portrait.label "Vertical">
-<!ENTITY portrait.accesskey "">
+<!ENTITY portrait.accesskey "V">
 <!ENTITY landscape.label "Horizontal">
-<!ENTITY landscape.accesskey "">
+<!ENTITY landscape.accesskey "l">
 <!ENTITY scale.label "Escala:">
-<!ENTITY scale.accesskey "">
+<!ENTITY scale.accesskey "E">
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Reducir hasta ajustar al ancho de la página">
-<!ENTITY shrinkToFit.accesskey "">
+<!ENTITY shrinkToFit.accesskey "R">
 <!ENTITY optionsGroup.label "Opciones">
 <!ENTITY printBG.label "Imprimir fondo (colores e imágenes)">
-<!ENTITY printBG.accesskey "">
+<!ENTITY printBG.accesskey "I">
 <!ENTITY advanced.tab "Margenes y Cabecera/Pie de página">
 <!ENTITY marginGroup.label "Margenes (#1)">
 <!ENTITY marginUnits.inches "pulgadas">
 <!ENTITY marginUnits.metric "milímetros">
-<!ENTITY marginTop.label "Espacio desde el borde del papel al margen">
-<!ENTITY marginTop.accesskey "">
+<!ENTITY marginTop.label "Superior:">
+<!ENTITY marginTop.accesskey "S">
 <!ENTITY marginBottom.label "Inferior:">
-<!ENTITY marginBottom.accesskey "">
+<!ENTITY marginBottom.accesskey "I">
 <!ENTITY marginLeft.label "Izquierda:">
-<!ENTITY marginLeft.accesskey "">
+<!ENTITY marginLeft.accesskey "I">
 <!ENTITY marginRight.label "Derecha:">
-<!ENTITY marginRight.accesskey "">
+<!ENTITY marginRight.accesskey "D">
 <!ENTITY headerFooter.label "Enzabezados y pies">
 <!ENTITY hfLeft.label "Izquierda:">
 <!ENTITY hfCenter.label "Centro:">
@@ -42,7 +42,7 @@
 <!ENTITY footerRight.tip "Pie derecho">
 <!ENTITY hfTitle "Título">
 <!ENTITY hfURL "URL">
-<!ENTITY hfDateAndTime "Fecha/hora">
+<!ENTITY hfDateAndTime "Fecha/Hora">
 <!ENTITY hfPage "Página #">
 <!ENTITY hfPageAndTotal "Página # de #">
 <!ENTITY hfBlank "--en blanco--">
