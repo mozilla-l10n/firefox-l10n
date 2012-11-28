@@ -22,6 +22,7 @@
 <!ENTITY permission.alwaysAsk            "Πάντα ερώτηση">
 <!ENTITY permission.allow                "Να επιτρέπεται">
 <!ENTITY permission.allowForSession      "Να επιτρέπεται για τη συνεδρία">
+<!ENTITY permission.allowFirstPartyOnly  "Να επιτρέπεται μόνο από First Party">
 <!ENTITY permission.block                "Φραγή">
 
 <!ENTITY password.label                  "Αποθήκευση κωδικών">

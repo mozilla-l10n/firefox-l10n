@@ -24,8 +24,10 @@
 <!ENTITY unlinkDevice.label           "Αποσύνδεση αυτής της συσκευής">
 
 <!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
-<!ENTITY syncComputerName.accesskey   "υ">
+
+<!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
+
+<!ENTITY syncDeviceName.accesskey   "υ">
 
 
 
