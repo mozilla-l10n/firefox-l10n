@@ -474,3 +474,5 @@
 <!ENTITY social.activated.undobutton.label "Annulla">
 <!ENTITY social.activated.undobutton.accesskey "A">
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Seleziona chat">
+<!ENTITY social.chatBar.accesskey "h">
