@@ -44,7 +44,7 @@
 <!ENTITY close_tab "Chiudi scheda">
 <!ENTITY new_tab "Nuova scheda">
 <!ENTITY one_tab "1 scheda">
-<!ENTITY num_tabs "&#037;d schede">
+<!ENTITY num_tabs2 "&formatD; schede">
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY settings "Impostazioni">
 <!ENTITY settings_title "Impostazioni">
@@ -168,7 +168,7 @@
 <!ENTITY bookmarkhistory_import_bookmarks "Importazione segnalibri da Android">
 <!ENTITY bookmarkhistory_import_history "Importazione cronologia da Android">
 <!ENTITY bookmarkhistory_import_wait "Attendere…">
-<!ENTITY suggestions_prompt "Attivare i suggerimenti di ricerca per &#037;s?">
+<!ENTITY suggestions_prompt2 "Attivare i suggerimenti di ricerca per &formatS;?">
 <!ENTITY webapp_generic_name "App">
 <!ENTITY searchable_description "Segnalibri e cronologia">
 <!ENTITY updater_start_title2 "Aggiornamento disponibile per &brandShortName;">
