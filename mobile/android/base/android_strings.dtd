@@ -56,9 +56,9 @@
 <!ENTITY close_tab "關閉分頁">
 <!ENTITY new_tab "開新分頁">
 <!ENTITY one_tab "一個分頁">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d 個分頁">
+<!ENTITY num_tabs2 "&formatD; 個分頁">
 <!ENTITY new_tab_opened "已開啟新分頁">
 
 <!ENTITY settings "設定">
@@ -86,7 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom2 "在螢幕上分開或捏合以重新排序文字">
+<!ENTITY pref_reflow_on_zoom2 "捏放手指後重排文字">
 <!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -156,8 +156,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "複製地址">
 <!ENTITY contextmenu_edit_bookmark "編輯">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "已移除頁面">
 
 <!ENTITY bookmark_edit_title "編輯書籤">
@@ -232,18 +230,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "無法清除某些隱私資料">
 
 <!ENTITY bookmarkhistory_button_import "匯入">
-<!ENTITY bookmarkhistory_import_both "正在自 Android 匯入
-                                      書籤與歷史紀錄">
-<!ENTITY bookmarkhistory_import_bookmarks "正在自 Android
-                                           匯入書籤">
-<!ENTITY bookmarkhistory_import_history "正在自 Android
-                                         匯入歷史紀錄">
+<!ENTITY bookmarkhistory_import_both "正在自 Android 匯入書籤與歷史紀錄">
+<!ENTITY bookmarkhistory_import_bookmarks "正在自 Android 匯入書籤">
+<!ENTITY bookmarkhistory_import_history "正在自 Android 匯入歷史紀錄">
 <!ENTITY bookmarkhistory_import_wait "請稍候…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "您想要開啟 &#037;s 的搜尋建議嗎？">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "您想要開啟 &formatS; 的搜尋建議功能嗎？">
 
 <!ENTITY webapp_generic_name "程式">
 
