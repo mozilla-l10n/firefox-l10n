@@ -68,7 +68,7 @@
 <!ENTITY  permPlugins           "Atîva i Plugin">
 
 <!ENTITY  permIndexedDB              "Tégni o sarvatàggio fêua lìnia">
-<!ENTITY  permClearStorage           "Scancélla o sarvataggio">
+<!ENTITY  permClearStorage           "Scancèlla o sarvataggio">
 <!ENTITY  permClearStorage.accesskey "c">
 
 <!ENTITY  securityTab           "Seguéssa">

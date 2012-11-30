@@ -48,8 +48,8 @@
 <!ENTITY positionMenu.below "Da bàsso">
 <!ENTITY positionMenu.window "Barcón">
 <!ENTITY filterBox.placeholder "Fìltro">
-<!ENTITY btnClear.label "Scancélla">
-<!ENTITY btnClear.tooltip "Scancélla o contegnûo da Console web">
+<!ENTITY btnClear.label "Scancèlla">
+<!ENTITY btnClear.tooltip "Scancèlla o contegnûo da Console web">
 <!ENTITY btnClose.tooltip "Særa a Console web">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">

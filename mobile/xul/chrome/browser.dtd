@@ -21,7 +21,7 @@
 <!ENTITY copylink.label        "Còpia indirìsso">
 <!ENTITY paste.label           "Incòlla">
 <!ENTITY pasteAndGo.label      "Incòlla e vànni">
-<!ENTITY delete.label          "Scancélla">
+<!ENTITY delete.label          "Scancèlla">
 <!ENTITY selectAll.label       "Seleçiónn-a tùtto">
 <!ENTITY noSuggestions.label   "(Nisciùn sugeriménto)">
 <!ENTITY addToDictionary.label "Azónzi a-o Diçiónâio">
@@ -63,15 +63,15 @@
 <!ENTITY downloadPause.label       "Pösa">
 <!ENTITY downloadResume.label      "Repìggio">
 <!ENTITY downloadRetry.label       "Repiggia">
-<!ENTITY downloadRemove.label      "Scancélla">
-<!ENTITY downloadDelete.label      "Scancélla">
+<!ENTITY downloadRemove.label      "Scancèlla">
+<!ENTITY downloadDelete.label      "Scancèlla">
 <!ENTITY downloadFailed.label      "No riescîo">
 
 <!ENTITY noResults.label           "Sénsa rizultâti">
 <!ENTITY allBookmarks.label        "Véddi tùtti i segnalìbbri">
 
 <!ENTITY bookmarkPopup.label       "Pàgina azónta a-i segnalìbbri">
-<!ENTITY bookmarkRemove.label      "Scancélla">
+<!ENTITY bookmarkRemove.label      "Scancèlla">
 <!ENTITY bookmarkEdit.label        "Càngia">
 <!ENTITY bookmarkShortcut.label    "Azónzi a-o schèrmo iniçiâle">
 
@@ -111,7 +111,7 @@
 <!ENTITY contextPauseMedia.label      "Pösa">
 <!ENTITY contextFullScreen.label      "A tùtto schermo">
 <!ENTITY contextEditBookmark.label    "Càngia">
-<!ENTITY contextRemoveBookmark.label  "Scancélla">
+<!ENTITY contextRemoveBookmark.label  "Scancèlla">
 <!ENTITY contextShortcutBookmark.label "Azónzi a-o schèrmo iniçiâle">
 
 <!ENTITY pageactions.saveas.pdf      "Sàrva cómme PDF">

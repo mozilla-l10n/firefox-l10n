@@ -94,7 +94,7 @@
 <!ENTITY cmd.disableTheme.accesskey           "L">
 <!ENTITY cmd.installAddon.label               "Instàlla">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Scancélla">
+<!ENTITY cmd.uninstallAddon.label             "Scancèlla">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Inpostaçioìn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Càngia e preferénse de sto conponénte azónto">
