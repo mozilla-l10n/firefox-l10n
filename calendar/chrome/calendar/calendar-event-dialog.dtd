@@ -155,15 +155,15 @@
 <!ENTITY event.categories.label "Kategori:">
 <!ENTITY event.categories.accesskey "K">
 <!ENTITY event.calendar.label "Kalender:">
-<!ENTITY event.calendar.accesskey "A">
+<!ENTITY event.calendar.accesskey "n">
 <!ENTITY event.attendees.label "Deltagere:">
 <!ENTITY event.attendees.accesskey "D">
 <!ENTITY event.alldayevent.label "Hele dagen">
-<!ENTITY event.alldayevent.accesskey "d">
+<!ENTITY event.alldayevent.accesskey "H">
 <!ENTITY event.from.label "Start:">
-<!ENTITY event.from.accesskey "r">
+<!ENTITY event.from.accesskey "a">
 <!ENTITY task.from.label "Start:">
-<!ENTITY task.from.accesskey "t">
+<!ENTITY task.from.accesskey "a">
 <!ENTITY event.to.label "Slut:">
 <!ENTITY event.to.accesskey "l">
 <!ENTITY task.to.label "Slut:">
@@ -175,9 +175,9 @@
 <!ENTITY event.reminder.label "Påmindelse:">
 <!ENTITY event.reminder.accesskey "P">
 <!ENTITY event.description.label "Beskrivelse:">
-<!ENTITY event.description.accesskey "B">
+<!ENTITY event.description.accesskey "e">
 <!ENTITY event.attachments.label "Vedhæftede filer:">
-<!ENTITY event.attachments.accesskey "h">
+<!ENTITY event.attachments.accesskey "æ">
 
 <!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
   but I want to land Filelink support for Lightning soon. The attach
