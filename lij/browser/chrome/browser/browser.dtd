@@ -224,7 +224,7 @@ can reach it easily. -->
 <!ENTITY inspectorHTMLCopyOuter.label       "Còpia l'HTML intèrno">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "i">
 
-<!ENTITY inspectorHTMLDelete.label          "Scancélla gróppo">
+<!ENTITY inspectorHTMLDelete.label          "Scancèlla gróppo">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
 <!ENTITY inspectCloseButton.tooltiptext "Særa l'ispetô">
@@ -275,7 +275,7 @@ can reach it easily. -->
 <!ENTITY pasteCmd.label           "Incòlla">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "I"> 
-<!ENTITY deleteCmd.label          "Scancélla">  
+<!ENTITY deleteCmd.label          "Scancèlla">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
 <!ENTITY selectAllCmd.label         "Seleçiónn-a tùtto">  
@@ -286,7 +286,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Preferense">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Scancélla a stöia ciù nêuva…">
+<!ENTITY clearRecentHistory.label               "Scancèlla a stöia ciù nêuva…">
 <!ENTITY clearRecentHistory.accesskey           "S">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->

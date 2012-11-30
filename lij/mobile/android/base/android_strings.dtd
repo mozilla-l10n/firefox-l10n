@@ -64,7 +64,7 @@
 <!ENTITY pref_char_encoding "Show character encoding">
 <!ENTITY pref_char_encoding_on "Fànni védde o menû">
 <!ENTITY pref_char_encoding_off "No fànni védde o menû">
-<!ENTITY pref_clear_private_data "Scancélla i dæti privæ">
+<!ENTITY pref_clear_private_data "Scancèlla i dæti privæ">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Abilitòu">
 <!ENTITY pref_plugins_tap_to_play "Tócca pe riprodûe">
@@ -90,7 +90,7 @@
 <!ENTITY save_as_pdf "Sàrva cómme PDF">
 
 <!ENTITY contextmenu_open_new_tab "Arvi in nêuvo féuggio">
-<!ENTITY contextmenu_remove_bookmark "Scancélla">
+<!ENTITY contextmenu_remove_bookmark "Scancèlla">
 <!ENTITY contextmenu_add_to_launcher "Azónzi a-o schèrmo iniçiâle">
 <!ENTITY contextmenu_share "Condivìddi">
 <!ENTITY contextmenu_edit_bookmark "Càngia">
@@ -130,7 +130,7 @@
 <!ENTITY filepicker_video_title "Çèrni ò regìstra \'n vìdeo">
 
 <!ENTITY close_tab "Særa féuggio">
-<!ENTITY contextmenu_remove_history "Scancélla">
+<!ENTITY contextmenu_remove_history "Scancèlla">
 <!ENTITY find_in_page "Trêuva inta pàgina">
 <!ENTITY find_text "Trêuva inta pàgina">
 <!ENTITY find_prev "Precedénte">
@@ -166,7 +166,7 @@
 <!ENTITY contextmenu_paste "Incòlla">
 <!ENTITY contextmenu_copyurl "Còpia indirìsso">
 
-<!ENTITY button_clear_data "Scancélla dæti">
+<!ENTITY button_clear_data "Scancèlla dæti">
 
 <!ENTITY private_data_success "Dæti personâle scancelæ">
 <!ENTITY private_data_fail "Inposcìbile scancelâ quàrche dæto personâle">
