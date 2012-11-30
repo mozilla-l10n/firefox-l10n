@@ -56,9 +56,9 @@
 <!ENTITY close_tab "Cerrar pestaña">
 <!ENTITY new_tab "Nueva pestaña">
 <!ENTITY one_tab "1 pestaña">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d pestañas">
+<!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 
 <!ENTITY settings "Configuración">
@@ -72,7 +72,7 @@
 <!ENTITY pref_telemetry "Enviar datos de rendimiento">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
-<!ENTITY pref_cookies "Habilitar cookies">
+<!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Habilitadas">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excepto de terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitadas">
@@ -241,10 +241,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          desde Android">
 <!ENTITY bookmarkhistory_import_wait "Esperá...">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "¿Querés habilitar las sugerencias de búsqueda de &#037;s?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt "¿Querés habilitar las sugerencias de búsqueda de &formatS;?">
 
 <!ENTITY webapp_generic_name "Aplicación">
 
