@@ -11,7 +11,7 @@
 
 <!ENTITY submitTelemetry.label "Senda upplýsingar um afkastagetu">
 <!ENTITY submitTelemetry.accesskey "p">
-<!ENTITY telemetryInfoLink.label "Meiri upplýsingar um Telemetry">
+<!ENTITY telemetryInfoLink.label "Meiri upplýsingar um fjarmælingu">
 <!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
 <!ENTITY enableGlodaSearch.accesskey "i">
 <!ENTITY scrolling.label "Skrun">
@@ -24,8 +24,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "l">
 <!ENTITY searchIntegration.label "Leyfa &searchIntegration.engineName; að leita í pósti">
 <!ENTITY searchIntegration.accesskey "s">
-<!ENTITY checkNow.label "Kanna núna…">
-<!ENTITY checkNow.accesskey "n">
+<!ENTITY checkDefaultsNow.label "Kanna núna…">
+<!ENTITY checkDefaultsNow.accesskey "n">
 <!ENTITY configEditDesc.label "Ítarlegar stillingar">
 <!ENTITY configEdit.label "Stillinga ritill…">
 <!ENTITY configEdit.accesskey "g">
