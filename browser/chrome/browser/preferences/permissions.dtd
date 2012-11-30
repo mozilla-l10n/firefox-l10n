@@ -7,17 +7,17 @@
 <!ENTITY treehead.sitename.label "Sitio">
 <!ENTITY treehead.status.label "Estado">
 <!ENTITY removepermission.label "Eliminar sitio">
-<!ENTITY removepermission.accesskey "R">
+<!ENTITY removepermission.accesskey "r">
 <!ENTITY removeallpermissions.label "Eliminar todos los sitios">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removeallpermissions.accesskey "E">
 <!ENTITY address.label "Dirección del sitio web:">
-<!ENTITY address.accesskey "d">
+<!ENTITY address.accesskey "D">
 <!ENTITY block.label "Bloquear">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Permitir por esta sesión">
-<!ENTITY session.accesskey "S">
+<!ENTITY session.accesskey "s">
 <!ENTITY allow.label "Permitir">
-<!ENTITY allow.accesskey "A">
+<!ENTITY allow.accesskey "P">
 <!ENTITY windowClose.key "w">
 <!ENTITY button.close.label "Cerrar">
 <!ENTITY button.close.accesskey "C">

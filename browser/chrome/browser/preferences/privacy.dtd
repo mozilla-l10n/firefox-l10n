@@ -8,27 +8,27 @@
 <!ENTITY history.label "Historial">
 <!ENTITY locationBar.label "Barra de direcciones">
 <!ENTITY locbar.pre.label "Cuando se utilice la barra de búsquedas, sugerir:">
-<!ENTITY locbar.pre.accessKey "u">
+<!ENTITY locbar.pre.accessKey "l">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "Historial y Marcadores">
 <!ENTITY locbar.history.label "Historial">
 <!ENTITY locbar.bookmarks.label "Marcadores">
 <!ENTITY locbar.nothing.label "Nada">
 <!ENTITY acceptCookies.label "Aceptar cookies de los sitios">
-<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "Aceptar cookies de terceras partes">
-<!ENTITY acceptThirdParty.accesskey "c">
+<!ENTITY acceptThirdParty.accesskey "p">
 <!ENTITY keepUntil.label "Mantener hasta que:">
-<!ENTITY keepUntil.accesskey "K">
+<!ENTITY keepUntil.accesskey "M">
 <!ENTITY expire.label "venzan">
 <!ENTITY close.label "cierre &brandShortName;">
 <!ENTITY askEachTime.label "pregunte cada vez">
 <!ENTITY cookieExceptions.label "Excepciones…">
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostrar Cookies...">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY showCookies.accesskey "s">
 <!ENTITY historyHeader.pre.label "&brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey "w">
+<!ENTITY historyHeader.pre.accesskey "F">
 <!ENTITY historyHeader.remember.label "Recordará el historial">
 <!ENTITY historyHeader.dontremember.label "Nunca recordará el historial">
 <!ENTITY historyHeader.custom.label "Usará configuraciones personalizadas para el historial">
@@ -50,6 +50,6 @@
 <!ENTITY rememberSearchForm.label "Recordar historial de formularios y búsquedas">
 <!ENTITY rememberSearchForm.accesskey "f">
 <!ENTITY clearOnClose.label "Limpiar historial cuando cierre &brandShortName;">
-<!ENTITY clearOnClose.accesskey "r">
+<!ENTITY clearOnClose.accesskey "L">
 <!ENTITY clearOnCloseSettings.label "Configuraciones…">
-<!ENTITY clearOnCloseSettings.accesskey "t">
+<!ENTITY clearOnCloseSettings.accesskey "C">
