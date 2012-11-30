@@ -295,7 +295,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Spjall">
 <!ENTITY goChatCmd.accesskey "S">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Stjörnumerktur póstur">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Mappa">
@@ -656,7 +656,7 @@
 <!ENTITY contextEditAsNew.label "Breyta pósti sem nýjum…">
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Skjalageymsla">
-<!ENTITY contextArchive.accesskey "n">
+<!ENTITY contextArchive.accesskey "j">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyNewsgroup2.label "Svara fréttahóp">

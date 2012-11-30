@@ -28,7 +28,7 @@
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Skjalageymsla">
 <!ENTITY keepArchives.label "Geyma skjalageymslu í:">
-<!ENTITY keepArchives.accesskey "f">
+<!ENTITY keepArchives.accesskey "k">
 <!ENTITY archiveHierarchyButton.label "Stillingar fyrir skjalageymslu…">
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "&quot;Skjalageymsla&quot; í:">

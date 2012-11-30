@@ -14,12 +14,12 @@
 <!ENTITY highPriorityCmd.label "Hátt">
 <!ENTITY highestPriorityCmd.label "Hæst">
 <!ENTITY contextDesc.label "Beita síu þegar:">
-<!ENTITY contextDesc.accesskey "B">
-<!ENTITY contextIncoming.label "Póstur er sóttur">
+<!ENTITY contextIncomingMail.label "Næ í nýjan póst:">
+<!ENTITY contextIncomingMail.accesskey "æ">
 <!ENTITY contextManual.label "Keyrt handvirkt">
-<!ENTITY contextBoth.label "Póstur er sóttur eða keyrt handvirkt">
-<!ENTITY contextPostPlugin.label "Póstur er athugaður (eftir flokkun)">
-<!ENTITY contextPostPluginBoth.label "Póstur er athugaður (eftir flokkun) eða keyrt handvirkt">
+<!ENTITY contextManual.accesskey "r">
+<!ENTITY contextBeforeCls.label "Sía fyrir ruslpóstflokkun">
+<!ENTITY contextAfterCls.label "Sía eftir ruslpóstflokkun">
 <!ENTITY filterActionDesc.label "Framkvæma þessar aðgerðir:">
 <!ENTITY filterActionDesc.accesskey "F">
 <!-- New Style Filter Rule Actions -->

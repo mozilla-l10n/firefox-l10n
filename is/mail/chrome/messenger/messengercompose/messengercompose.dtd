@@ -132,8 +132,8 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Staðfesting á móttöku">
 <!ENTITY dsnMenu.accesskey "n">
-<!ENTITY outputFormatMenu.label "Snið">
-<!ENTITY outputFormatMenu.accesskey "ð">
+<!ENTITY deliveryFormatMenu.label "Afhendingarsnið">
+<!ENTITY deliveryFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Skynja sjálfkrafa">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Aðeins ósniðinn texti">
