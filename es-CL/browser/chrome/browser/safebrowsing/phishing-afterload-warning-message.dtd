@@ -8,7 +8,7 @@
 <!ENTITY safeb.palm.p1.linkStatusText "Leer más ">
 <!ENTITY safeb.palm.message.p2.start "Estos tipos de falsificaciones web son utilizados en estafas conocidas como ataques de phishing, en las que las páginas web fraudulentas y e-mails son usados para imitar fuentes en las que usted confía. Puede saber más acerca de ">
 <!ENTITY safeb.palm.message.p2.linkText "Cómo &brandShortName; lo protege a usted">
-<!ENTITY safeb.palm.message.p2.end "de ataques de phishing.">
+<!ENTITY safeb.palm.message.p2.end " de ataques de phishing.">
 <!ENTITY safeb.palm.accept.label "¡Sácame de aquí!">
 <!ENTITY safeb.palm.accept.statustext "Dirigirse a mi página de inicio">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">

@@ -6,18 +6,18 @@
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "49em">
 <!ENTITY allowPagesToUse.label "Permitir que las páginas escojan sus propios colores en lugar de lo seleccionado arriba">
-<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY allowPagesToUse.accesskey "a">
 <!ENTITY color "Texto y fondo">
 <!ENTITY textColor.label "Texto:">
-<!ENTITY textColor.accesskey "t">
+<!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "Fondo:">
-<!ENTITY backgroundColor.accesskey "b">
+<!ENTITY backgroundColor.accesskey "F">
 <!ENTITY useSystemColors.label "Usar colores del sistema">
 <!ENTITY useSystemColors.accesskey "s">
 <!ENTITY underlineLinks.label "Enlaces subrayados">
 <!ENTITY underlineLinks.accesskey "u">
 <!ENTITY links "Colores de enlace">
 <!ENTITY linkColor.label "Enlaces no visitados:">
-<!ENTITY linkColor.accesskey "l">
+<!ENTITY linkColor.accesskey "E">
 <!ENTITY visitedLinkColor.label "Enlaces visitados:">
 <!ENTITY visitedLinkColor.accesskey "v">

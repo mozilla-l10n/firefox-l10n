@@ -6,7 +6,7 @@
 <!ENTITY sanitizeDialog2.title "Limpiar historial reciente">
 <!ENTITY clearDataSettings2.label "Cuando cierre &brandShortName;, que borre automáticamente:">
 <!ENTITY clearTimeDuration.label "Rango de tiempo para limpiar: ">
-<!ENTITY clearTimeDuration.accesskey "T">
+<!ENTITY clearTimeDuration.accesskey "t">
 <!ENTITY clearTimeDuration.lastHour "Última hora">
 <!ENTITY clearTimeDuration.last2Hours "Últimas dos horas">
 <!ENTITY clearTimeDuration.last4Hours "Últimas cuatro horas">
@@ -20,25 +20,25 @@
 <!ENTITY historySection.label "Historial">
 <!ENTITY dataSection.label "Datos">
 <!ENTITY itemHistoryAndDownloads.label "Historial de navegación y búsquedas">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "b">
 <!ENTITY itemBrowsingHistory.label "Historial de navegación">
-<!ENTITY itemBrowsingHistory.accesskey "B">
+<!ENTITY itemBrowsingHistory.accesskey "H">
 <!ENTITY itemFormSearchHistory.label "Historial de formularios y búsquedas">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemPasswords.label "Contraseñas guardadas">
-<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemPasswords.accesskey "C">
 <!ENTITY itemCookies.label "Cookies">
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemCache.label "Caché">
-<!ENTITY itemCache.accesskey "A">
+<!ENTITY itemCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Datos de sitios web sin conexión">
-<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemOfflineApps.accesskey "o">
 <!ENTITY itemDownloadHistory.label "Historial de descargas">
-<!ENTITY itemDownloadHistory.accesskey "D">
+<!ENTITY itemDownloadHistory.accesskey "d">
 <!ENTITY itemActiveLogins.label "Conexiones activas">
-<!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemActiveLogins.accesskey "C">
 <!ENTITY itemSitePreferences.label "Preferencias del sitio">
-<!ENTITY itemSitePreferences.accesskey "S">
+<!ENTITY itemSitePreferences.accesskey "s">
 <!ENTITY sanitizeEverythingUndoWarning "Esta acción no puede revertirse.">
 <!ENTITY dialog.width "32em">
 <!ENTITY column.width "14em">

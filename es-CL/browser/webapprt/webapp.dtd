@@ -6,7 +6,7 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label "Salir">
+<!ENTITY quitApplicationCmd.label "Cerrar">
 <!ENTITY quitApplicationCmd.accesskey "Q">
 <!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY hideThisAppCmdMac.key "H">

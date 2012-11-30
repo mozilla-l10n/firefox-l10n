@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY setupButton.label "Configurar &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey "S">
+<!ENTITY setupButton.accesskey "C">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; permite acceder al historial, marcadores, contraseñas y pestañas abiertas entre todos sus dispositivos.">
 <!ENTITY updatePass.label "Actualizar">
 <!ENTITY resetPass.label "Restablecer">
 <!ENTITY manageAccount.label "Administrar cuenta">
-<!ENTITY manageAccount.accesskey "n">
+<!ENTITY manageAccount.accesskey "A">
 <!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY changePassword2.label "Cambiar contraseña…">
 <!ENTITY myRecoveryKey.label "Mi clave de recuperación">
@@ -16,19 +16,19 @@
 <!ENTITY pairDevice.label "Asociar un dispositivo">
 <!ENTITY syncMy.label "Sincronizar mis">
 <!ENTITY engine.bookmarks.label "Marcadores">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label "Pestañas">
-<!ENTITY engine.tabs.accesskey "T">
+<!ENTITY engine.tabs.accesskey "t">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.passwords.label "Contraseñas">
-<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label "Preferencias">
-<!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.prefs.accesskey "s">
 <!ENTITY engine.addons.label "Complementos">
-<!ENTITY engine.addons.accesskey "A">
+<!ENTITY engine.addons.accesskey "o">
 <!ENTITY syncDeviceName.label "Nombre del dispositivo">
 <!ENTITY syncDeviceName.accesskey "c">
 <!ENTITY unlinkDevice.label "Desvincular este dispositivo">
-<!ENTITY prefs.tosLink.label "Terminos del servicio">
+<!ENTITY prefs.tosLink.label "Términos del servicio">
 <!ENTITY prefs.ppLink.label "Política de privacidad">
