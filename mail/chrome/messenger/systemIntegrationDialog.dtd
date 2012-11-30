@@ -11,6 +11,8 @@
 <!ENTITY newsgroups.label "Grupos de noticias">
 <!ENTITY feeds.label "Canales">
 
+<!ENTITY unsetDefault.tooltip "No es posible hacer que &brandShortName; deje de ser el cliente predeterminado desde dentro de &brandShortName;. Para que otra aplicación sea predeterminada, use su diáglogo 'Esteblecer como predeterminada'.">
+
 <!ENTITY checkOnStartup.label "Siempre verificar ésto al iniciar &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
 
