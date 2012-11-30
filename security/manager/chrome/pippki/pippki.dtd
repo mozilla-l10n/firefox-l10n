@@ -71,7 +71,7 @@
 <!ENTITY pkcs12.getpassword.message "Pe favô dinni a paròlla segrêta che a l'é stæta uzâ pe criptâ sta còpia de seguéssa di certificâti.">
 
 <!ENTITY chooseToken.title  "Çèrni o Token">
-<!ENTITY chooseToken.message1 "Pe favô scégli o token.">
+<!ENTITY chooseToken.message1 "Pe favô çèrni o token.">
 
 <!ENTITY escrowWarn.title "Criptaçión da ciâve de còpie">
 <!ENTITY escrowWarn.message1 "Inportànte: Sta Aotoritæ di Certicâti a l'à domandòu de fâ 'na còpia de seguéssa da teu ciâve privâ de criptaçión.">
@@ -99,5 +99,5 @@
 
 <!ENTITY certErrorDlg.title "Conesción segûa no riêscia">
 <!ENTITY certErrorDlg.info1 "Sto chi peu êse un problêma co-e inpostaçión do server ò peu ascì êse quarchedùn che o prêuva a fâ finta de êse o server.">
-<!ENTITY certErrorDlg.info2 "Se ti t'ê conésso sénsa problêmi a sto server into passòu, alôa o peu êse 'n erô tenporaneo e ti peu provâ ancón dòppo.">
+<!ENTITY certErrorDlg.info2 "Se ti t'ê conèsso sénsa problêmi a sto server into passòu, alôa o peu êse 'n erô tenporaneo e ti peu provâ ancón dòppo.">
 

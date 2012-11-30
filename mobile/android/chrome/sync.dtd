@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Scincronìzza">
-<!ENTITY sync.notconnected          "No conésso">
+<!ENTITY sync.notconnected          "No conèsso">
 <!ENTITY sync.connect               "Connétti">
-<!ENTITY sync.connected             "Conésso">
+<!ENTITY sync.connected             "Conèsso">
 <!ENTITY sync.details               "Detàlli">
 <!ENTITY sync.deviceName            "St'aparâto">
 <!ENTITY sync.disconnect            "Disconésso">
@@ -26,7 +26,7 @@
 <!ENTITY sync.setup.waiting2        "Spêtémmo l'âtro dispoxitîvo…">
 
 <!ENTITY sync.pair.title            "Acóbia 'n aparâto">
-<!ENTITY sync.pair.description      "Pe ativâ o teu nêuvo aparâto seleçiónn-a &#x0022;Inpòsta Sync&#x0022; in sciô aparâto.">
+<!ENTITY sync.pair.description      "Pe ativâ o teu nêuvo aparâto seleçiónn-a &#x0022;Inpòsta Sync&#x0022; in sce l'aparâto.">
 <!ENTITY sync.setup.close           "Særa">
 <!ENTITY sync.setup.waitingdownload "Òua i teu dæti se scàregan in segóndo ciàn. Ti peu serâ questo barcón quànde ti veu.">
 
