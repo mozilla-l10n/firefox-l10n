@@ -53,7 +53,6 @@
 <!ENTITY site_security "Sécurité du site">
 
 <!ENTITY close_tab "Fermer l\u0027onglet">
-<!ENTITY new_tab "Nouvel onglet">
 <!ENTITY one_tab "1 onglet">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -135,7 +134,10 @@ size. -->
 <!ENTITY find_in_page "Rechercher dans la page">
 <!ENTITY desktop_mode "Voir version ordinateur">
 <!ENTITY tools "Outils">
-<!ENTITY new_pb_tab "Navigation privée">
+<!ENTITY new_tab "Nouvel onglet">
+<!ENTITY new_private_tab "Navigation privée">
+<!ENTITY synced_tabs "Onglets synchronisés">
+<!ENTITY close_all_tabs "Fermer tous les onglets">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
