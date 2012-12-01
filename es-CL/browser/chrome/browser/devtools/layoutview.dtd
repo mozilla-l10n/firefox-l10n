@@ -4,5 +4,5 @@
 
 <!ENTITY margins.tooltip "margenes">
 <!ENTITY borders.tooltip "bordes">
-<!ENTITY padding.tooltip "padding">
+<!ENTITY padding.tooltip "">
 <!ENTITY content.tooltip "contenido">

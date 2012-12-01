@@ -9,7 +9,7 @@
 <!ENTITY fill.label "Llenar">
 <!ENTITY fit.label "Ajustar">
 <!ENTITY preview.label "Vista previa">
-<!ENTITY color.label "Color:">
+<!ENTITY color.label "">
 <!ENTITY setDesktopBackground.title "Poner como Fondo de escritorio">
 <!ENTITY openDesktopPrefs.label "Abrir Preferencias de escritorio">
 <!ENTITY closeWindow.key "w">

@@ -60,14 +60,14 @@
 <!ENTITY resetSyncKey.label "He perdido mi otro dispositivo.">
 <!ENTITY setup.optionsPage.title "Opciones de sincronización">
 <!ENTITY syncDeviceName.label "Nombre de dispositivo:">
-<!ENTITY syncDeviceName.accesskey "c">
+<!ENTITY syncDeviceName.accesskey "">
 <!ENTITY syncMy.label "Sincronizar mis">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label "Pestañas">
 <!ENTITY engine.tabs.accesskey "t">
 <!ENTITY engine.history.label "Historial">
-<!ENTITY engine.history.accesskey "r">
+<!ENTITY engine.history.accesskey "">
 <!ENTITY engine.passwords.label "Contraseñas">
 <!ENTITY engine.passwords.accesskey "n">
 <!ENTITY engine.prefs.label "Preferencias">

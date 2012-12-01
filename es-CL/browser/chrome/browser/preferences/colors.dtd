@@ -13,11 +13,11 @@
 <!ENTITY backgroundColor.label "Fondo:">
 <!ENTITY backgroundColor.accesskey "F">
 <!ENTITY useSystemColors.label "Usar colores del sistema">
-<!ENTITY useSystemColors.accesskey "s">
+<!ENTITY useSystemColors.accesskey "">
 <!ENTITY underlineLinks.label "Enlaces subrayados">
-<!ENTITY underlineLinks.accesskey "u">
+<!ENTITY underlineLinks.accesskey "">
 <!ENTITY links "Colores de enlace">
 <!ENTITY linkColor.label "Enlaces no visitados:">
 <!ENTITY linkColor.accesskey "E">
 <!ENTITY visitedLinkColor.label "Enlaces visitados:">
-<!ENTITY visitedLinkColor.accesskey "v">
+<!ENTITY visitedLinkColor.accesskey "">

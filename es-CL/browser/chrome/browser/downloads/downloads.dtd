@@ -3,26 +3,26 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY downloads.title "Descargas">
-<!ENTITY downloadDetails.width "50ch">
-<!ENTITY downloadsSummary.minWidth "28ch">
+<!ENTITY downloadDetails.width "">
+<!ENTITY downloadsSummary.minWidth "">
 <!ENTITY cmd.pause.label "Pausar">
-<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.pause.accesskey "">
 <!ENTITY cmd.resume.label "Continuar">
-<!ENTITY cmd.resume.accesskey "R">
+<!ENTITY cmd.resume.accesskey "">
 <!ENTITY cmd.cancel.label "Cancelar">
-<!ENTITY cmd.cancel.accesskey "C">
+<!ENTITY cmd.cancel.accesskey "">
 <!ENTITY cmd.show.label "Abrir carpeta contenedora">
-<!ENTITY cmd.show.accesskey "F">
+<!ENTITY cmd.show.accesskey "">
 <!ENTITY cmd.showMac.label "Mostrar en el Finder">
-<!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.showMac.accesskey "">
 <!ENTITY cmd.retry.label "Reintentar">
 <!ENTITY cmd.goToDownloadPage.label "Ir a la página de la descarga">
-<!ENTITY cmd.goToDownloadPage.accesskey "G">
+<!ENTITY cmd.goToDownloadPage.accesskey "">
 <!ENTITY cmd.copyDownloadLink.label "Copiar enlace de descarga">
-<!ENTITY cmd.copyDownloadLink.accesskey "L">
+<!ENTITY cmd.copyDownloadLink.accesskey "">
 <!ENTITY cmd.removeFromList.label "Remover de la lista">
-<!ENTITY cmd.removeFromList.accesskey "e">
+<!ENTITY cmd.removeFromList.accesskey "">
 <!ENTITY cmd.clearList.label "Limpiar lista">
-<!ENTITY cmd.clearList.accesskey "a">
+<!ENTITY cmd.clearList.accesskey "">
 <!ENTITY downloadsHistory.label "Mostrar todas las descargas">
-<!ENTITY downloadsHistory.accesskey "S">
+<!ENTITY downloadsHistory.accesskey "">

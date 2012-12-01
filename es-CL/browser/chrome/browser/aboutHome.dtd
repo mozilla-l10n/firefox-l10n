@@ -14,6 +14,6 @@
 <!ENTITY abouthome.historyButton.label "Historial">
 <!ENTITY abouthome.settingsButton.label "Opciones">
 <!ENTITY abouthome.addonsButton.label "Complementos">
-<!ENTITY abouthome.appsButton.label "Marketplace">
+<!ENTITY abouthome.appsButton.label "">
 <!ENTITY abouthome.downloadsButton.label "Descargas">
-<!ENTITY abouthome.syncButton.label "&syncBrand.shortName.label;">
+<!ENTITY abouthome.syncButton.label "">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY engineManager.title "Administrar lista de Motores de búsqueda">
-<!ENTITY engineManager.style "min-width: 35em;">
+<!ENTITY engineManager.style "">
 <!ENTITY engineManager.intro "Tiene instalados los siguientes motores de búsqueda:">
 <!ENTITY columnLabel.name "Nombre">
 <!ENTITY columnLabel.keyword "Palabra clave">
@@ -14,10 +14,10 @@
 <!ENTITY remove.label "Eliminar">
 <!ENTITY remove.accesskey "r">
 <!ENTITY edit.label "Editar palabra clave…">
-<!ENTITY edit.accesskey "t">
+<!ENTITY edit.accesskey "">
 <!ENTITY addEngine.label "Obtener más motores de búsqueda…">
 <!ENTITY addEngine.accesskey "a">
 <!ENTITY enableSuggest.label "Mostrar sugerencias de búsqueda">
 <!ENTITY enableSuggest.accesskey "s">
 <!ENTITY restoreDefaults.label "Restaurar predeterminados">
-<!ENTITY restoreDefaults.accesskey "e">
+<!ENTITY restoreDefaults.accesskey "">

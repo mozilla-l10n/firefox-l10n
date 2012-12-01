@@ -13,4 +13,4 @@
 <!ENTITY tabs.context.bookmarkMultipleTabs.label "Marcar pestañas seleccionadas…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey "M">
 <!ENTITY tabs.context.refreshList.label "Recargar lista">
-<!ENTITY tabs.context.refreshList.accesskey "R">
+<!ENTITY tabs.context.refreshList.accesskey "">
