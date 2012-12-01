@@ -234,10 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "U">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarToolsButton.label       "Visa/Dölj verktygslåda">
+<!ENTITY devToolbarToolsButton.label       "Visa verktygslådan">
 <!ENTITY devToolbarOtherToolsButton.label  "Fler verktyg">
 
-<!ENTITY devToolbox.accesskey              "B">
+<!ENTITY devToolbox.accesskey              "V">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hämta fler verktyg">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
