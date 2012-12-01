@@ -42,7 +42,6 @@
 <!ENTITY stop "Stop">
 <!ENTITY site_security "Sicurezza del sito">
 <!ENTITY close_tab "Chiudi scheda">
-<!ENTITY new_tab "Nuova scheda">
 <!ENTITY one_tab "1 scheda">
 <!ENTITY num_tabs2 "&formatD; schede">
 <!ENTITY new_tab_opened "Aperta nuova scheda">
@@ -106,7 +105,10 @@
 <!ENTITY find_in_page "Trova nella pagina">
 <!ENTITY desktop_mode "Modalità desktop">
 <!ENTITY tools "Strumenti">
-<!ENTITY new_pb_tab "Nuova scheda anonima">
+<!ENTITY new_tab "Nuova scheda">
+<!ENTITY new_private_tab "Nuova scheda anonima">
+<!ENTITY synced_tabs "Schede sincronizzate">
+<!ENTITY close_all_tabs "Chiudi tutte le schede">
 <!ENTITY find_text "Trova nella pagina">
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
