@@ -358,6 +358,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmd.label            "Ouvrir le lien dans une nouvelle fenêtre">
 <!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkInPrivateWindowCmd.label "Ouvrir le lien dans une nouvelle fenêtre de navigation privée">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Ouvrir le lien">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "Ouvrir le lien dans un nouvel onglet">

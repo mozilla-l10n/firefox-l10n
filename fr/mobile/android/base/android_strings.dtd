@@ -135,7 +135,7 @@ size. -->
 <!ENTITY desktop_mode "Voir version ordinateur">
 <!ENTITY tools "Outils">
 <!ENTITY new_tab "Nouvel onglet">
-<!ENTITY new_private_tab "Navigation privée">
+<!ENTITY new_private_tab "Onglet de nav. privée">
 <!ENTITY synced_tabs "Onglets synchronisés">
 <!ENTITY close_all_tabs "Fermer tous les onglets">
 
