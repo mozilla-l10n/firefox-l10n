@@ -38,11 +38,11 @@
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  Aus von Add-ons gesammelten Daten erstellte Histogramme
+  Histogramme aus Daten, die von Add-ons gesammelt wurden
 ">
 
 <!ENTITY aboutTelemetry.toggleOn "
-  Zum Erweiteren klicken
+  Zum Erweitern klicken
 ">
 
 <!ENTITY aboutTelemetry.toggleOff "
