@@ -6,12 +6,12 @@
 <!ENTITY from.label "de:">
 <!ENTITY actionQuestion.label "¿Qué debiera hacer &brandShortName; con este archivo?">
 <!ENTITY openWith.label "Abrir con">
-<!ENTITY openWith.accesskey "o">
+<!ENTITY openWith.accesskey "">
 <!ENTITY other.label "Otro…">
 <!ENTITY saveFile.label "Guardar Archivo">
 <!ENTITY saveFile.accesskey "G">
 <!ENTITY rememberChoice.label "Hacer esto para los archivos de este tipo de ahora en adelante.">
-<!ENTITY rememberChoice.accesskey "a">
+<!ENTITY rememberChoice.accesskey "">
 <!ENTITY whichIsA.label "el cual es:">
 <!ENTITY chooseHandlerMac.label "Seleccionar…">
 <!ENTITY chooseHandlerMac.accesskey "c">

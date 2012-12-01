@@ -5,7 +5,7 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findAgainCmd.commandkey2 "">
 <!ENTITY backButton.label "Atrás">
 <!ENTITY backButton.accesskey "A">
 <!ENTITY backButton.tooltip "Retrocede una página">
@@ -13,7 +13,7 @@
 <!ENTITY forwardButton.accesskey "A">
 <!ENTITY forwardButton.tooltip "Avanza una página">
 <!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY goBackCmd.commandkey "[">
@@ -26,11 +26,11 @@
 <!ENTITY search.emptytext "Buscar">
 <!ENTITY searchHeader.label "Resultados de la búsqueda">
 <!ENTITY toctab.label "Contenidos">
-<!ENTITY toctab.accesskey "C">
+<!ENTITY toctab.accesskey "">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">

@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY upgrade.style "width: 93ch; height: 448px;">
+<!ENTITY upgrade.style "">
 <!ENTITY checking.heading "Verificando sus complementos">
 <!ENTITY checking.progress.label "Verificando compatibilidad de sus complementos con esta versión de &brandShortName;.">
 <!ENTITY select.heading "Seleccionar complementos">
 <!ENTITY select.description "Haga que &brandShortName; funcione más rápido deshabilitando complementos que no utilice más. Los complementos instalados por terceros serán deshabilitados automáticamente a menos que los seleccione aquí debajo.">
 <!ENTITY select.keep "Mantener">
-<!ENTITY select.keep.style "width: 6ch;">
+<!ENTITY select.keep.style "">
 <!ENTITY select.action "Acción">
-<!ENTITY select.action.style "width: 35ch;">
+<!ENTITY select.action.style "">
 <!ENTITY select.source "Instalado por">
 <!ENTITY select.name "Nombre">
-<!ENTITY select.name.style "width: 33ch;">
+<!ENTITY select.name.style "">
 <!ENTITY confirm.heading "Seleccionar complementos">
 <!ENTITY confirm.description "Haga que &brandShortName; funcione más rápido deshabilitando complementos que no utilice más. Los complementos instalados por terceros serán deshabilitados automáticamente a menos que los seleccione aquí debajo.">
 <!ENTITY action.disable.heading "Los siguientes complementos serán deshabilitados:">

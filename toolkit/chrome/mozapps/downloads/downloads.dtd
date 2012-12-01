@@ -2,33 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width2 "485">
-<!ENTITY window.height "300">
+<!ENTITY window.width2 "">
+<!ENTITY window.height "">
 <!ENTITY starting.label "Iniciando…">
 <!ENTITY scanning.label "Revisando si hay virus…">
 <!ENTITY downloads.title "Descargas">
 <!ENTITY cmd.pause.label "Pausar">
-<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.pause.accesskey "">
 <!ENTITY cmd.resume.label "Continuar">
 <!ENTITY cmd.resume.accesskey "r">
 <!ENTITY cmd.cancel.label "Cancelar">
-<!ENTITY cmd.cancel.accesskey "C">
+<!ENTITY cmd.cancel.accesskey "">
 <!ENTITY cmd.show.label "Abrir carpeta contenedora">
 <!ENTITY cmd.show.accesskey "A">
 <!ENTITY cmd.showMac.label "Mostrar en Finder">
-<!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.showMac.accesskey "">
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.openWith.label "Abrir Con…">
 <!ENTITY cmd.openWith.accesskey "A">
 <!ENTITY cmd.retry.label "Reintentar">
-<!ENTITY cmd.retry.accesskey "R">
+<!ENTITY cmd.retry.accesskey "">
 <!ENTITY cmd.goToDownloadPage.label "Ir a la Página de Descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey "g">
 <!ENTITY cmd.copyDownloadLink.label "Copiar el Enlace de Descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey "l">
 <!ENTITY cmd.removeFromList.label "Remover de la Lista">
-<!ENTITY cmd.removeFromList.accesskey "e">
+<!ENTITY cmd.removeFromList.accesskey "">
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">

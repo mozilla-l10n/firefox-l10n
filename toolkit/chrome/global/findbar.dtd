@@ -10,7 +10,7 @@
 <!ENTITY previous.tooltip "Buscar la aparición anterior de la frase">
 <!ENTITY findCloseButton.tooltip "Cerrar Barra de Búsqueda">
 <!ENTITY highlight.label "Destacar todos">
-<!ENTITY highlight.accesskey "a">
+<!ENTITY highlight.accesskey "">
 <!ENTITY highlight.tooltiptext "Resaltar todas las apariciones de la frase">
 <!ENTITY caseSensitiveCheckbox.label "Coincidir mayús./minús.">
 <!ENTITY caseSensitiveCheckbox.accesskey "C">

@@ -7,7 +7,7 @@
 <!ENTITY textInput.label "Nombre de archivo:">
 <!ENTITY textInput.accesskey "N">
 <!ENTITY filterMenuList.label "Archivos de tipo:">
-<!ENTITY filterMenuList.accesskey "t">
+<!ENTITY filterMenuList.accesskey "">
 <!ENTITY name.label "Nombre">
 <!ENTITY size.label "Tamaño">
 <!ENTITY lastModified.label "Última modificación">

@@ -12,7 +12,7 @@
 <!ENTITY aboutSupport.extensionName "Nombre">
 <!ENTITY aboutSupport.extensionEnabled "Habilitada">
 <!ENTITY aboutSupport.extensionVersion "Versión">
-<!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.extensionId "">
 <!ENTITY aboutSupport.appBasicsTitle "Detalles básicos de la aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
@@ -32,7 +32,7 @@
 <!ENTITY aboutSupport.userJSTitle "Preferencias de user.js">
 <!ENTITY aboutSupport.userJSDescription "Su perfil contiene un <a id='prefs-user-js-link'>archivo user.js</a>, que contiene preferencias que no fueron creadas por &brandShortName;.">
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
-<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsTitle "">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
 <!ENTITY aboutSupport.a11yTitle "Accesibilidad">
 <!ENTITY aboutSupport.a11yActivated "Activado">
