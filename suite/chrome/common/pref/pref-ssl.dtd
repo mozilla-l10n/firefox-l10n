@@ -12,8 +12,6 @@
 <!ENTITY warn.description "&brandShortName; può generare degli avvisi sullo stato di sicurezza della pagina web che si sta visitando. Impostare &brandShortName; per mostrare un messaggio di avviso prima di:">
 <!ENTITY warn.enteringsecure "Caricare una pagina che gestisce la cifratura">
 <!ENTITY warn.enteringsecure.accesskey "C">
-<!ENTITY warn.enteringweak "Caricare una pagina che usa una cifratura poco efficace">
-<!ENTITY warn.enteringweak.accesskey "a">
 <!ENTITY warn.insecurepost "Inviare dati di un modulo da una pagina non sicura ad un'altra non sicura">
 <!ENTITY warn.insecurepost.accesskey "n">
 <!ENTITY warn.leavingsecure "Uscire da una pagina sicura">
