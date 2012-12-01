@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY messengerWindow.title "Posta e gruppi di discussione">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
@@ -262,10 +261,10 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Rispondi alla lista">
 <!ENTITY replyListCmd.accesskey "t">
-<!ENTITY replySenderCmd.label "Rispondi solo al mittente">
-<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "Rispondi nel gruppo di discussione">
 <!ENTITY replyNewsgroupCmd.accesskey "p">
+<!ENTITY replySenderCmd.label "Rispondi solo al mittente">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Rispondi a tutti">
 <!ENTITY replyToAllMsgCmd.accesskey "u">
 <!ENTITY replyToAllMsgCmd.key "r">

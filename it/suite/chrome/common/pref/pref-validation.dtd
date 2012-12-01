@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.validation.title "Convalida">
 <!ENTITY validation.crl.caption "CRL">
 <!ENTITY validation.crl.description "Utilizza la Gestione CRL per gestire le Liste di Revoca dei Certificati (CRL) memorizzate nel proprio archivio di certificati.">
