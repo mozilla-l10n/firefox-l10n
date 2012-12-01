@@ -154,16 +154,12 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Sviluppo web">
 <!ENTITY webDeveloperMenu.accesskey "u">
+<!ENTITY devtoolsConnect.label "Connetti…">
+<!ENTITY devtoolsConnect.accesskey "o">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY webConsoleCmd.label "Console web">
-<!ENTITY webConsoleCmd.accesskey "w">
-<!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY remoteWebConsoleCmd.label "Console web remota">
-<!ENTITY inspectMenu.label "Analisi pagina">
-<!ENTITY inspectMenu.accesskey "s">
-<!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "t">
 <!ENTITY responsiveDesignTool.label "Visualizzazione flessibile">
@@ -173,28 +169,14 @@
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Chiudi la barra laterale">
 <!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
 <!ENTITY devToolbarMenu.label "Barra sviluppatori">
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
+<!ENTITY devToolbarToolsButton.label "Attiva/disattiva casella strumenti">
 <!ENTITY devToolbarOtherToolsButton.label "Altri strumenti">
-<!ENTITY inspectorHTMLCopyInner.label "Copia HTML interno">
-<!ENTITY inspectorHTMLCopyInner.accesskey "M">
-<!ENTITY inspectorHTMLCopyOuter.label "Copia HTML esterno">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "T">
-<!ENTITY inspectorHTMLDelete.label "Elimina nodo">
-<!ENTITY inspectorHTMLDelete.accesskey "E">
-<!ENTITY inspect3DViewButton.label "Vista 3D">
-<!ENTITY inspect3DViewButton.accesskey "V">
-<!ENTITY inspectStyleButton.label "Stile">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY styleeditor.label "Editor stili">
-<!ENTITY styleeditor.accesskey "E">
-<!ENTITY styleeditor.keycode "VK_F7">
-<!ENTITY styleeditor.keytext "F7">
+<!ENTITY devToolbox.accesskey "u">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
 <!ENTITY getMoreDevtoolsCmd.accesskey "A">
 <!ENTITY fileMenu.label "File">
@@ -461,8 +443,6 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Chiudi la barra dei componenti aggiuntivi">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!ENTITY markupButton.arialabel "Codice">
-<!ENTITY markupButton.accesskey "C">
 <!ENTITY socialToolbar.title "Pulsante barra degli strumenti social">
 <!ENTITY social.notLoggedIn.label "Accesso non effettuato">
 <!ENTITY social.ok.label "OK">
