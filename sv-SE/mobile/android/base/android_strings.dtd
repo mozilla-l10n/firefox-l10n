@@ -54,7 +54,6 @@
 <!ENTITY site_security "Webbplatssäkerhet">
 
 <!ENTITY close_tab "Stäng flik">
-<!ENTITY new_tab "Ny flik">
 <!ENTITY one_tab "1 flik">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -136,7 +135,10 @@ size. -->
 <!ENTITY find_in_page "Sök på sidan">
 <!ENTITY desktop_mode "Begär datoranpassad webbplats">
 <!ENTITY tools "Verktyg">
-<!ENTITY new_pb_tab "Ny privat flik">
+<!ENTITY new_tab "Ny flik">
+<!ENTITY new_private_tab "Ny privat flik">
+<!ENTITY synced_tabs "Synkade flikar">
+<!ENTITY close_all_tabs "Stäng alla flikar">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
