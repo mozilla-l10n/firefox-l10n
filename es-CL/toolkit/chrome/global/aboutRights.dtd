@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle "about:rights">
+<!ENTITY rights.locale-direction "">
+<!ENTITY rights.pagetitle "">
 <!ENTITY rights.intro-header "Acerca de sus derechos">
 <!ENTITY rights.intro "&brandFullName; es software libre y de código abierto, creado por una comunidad de miles de personas a lo largo del mundo. Hay algunas cosas que debe saber:">
 <!ENTITY rights.intro-point1a "&brandShortName; está disponible bajo los términos de la ">
@@ -36,7 +36,7 @@
 <!ENTITY rights.locationawarebrowsing-a "Navegación basada en ubicación: ">
 <!ENTITY rights.locationawarebrowsing-b "siempre es opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta característica por completo, siga estos pasos:">
 <!ENTITY rights.locationawarebrowsing-term1a "En la barra de direcciones ingrese ">
-<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term1b "">
 <!ENTITY rights.locationawarebrowsing-term2 "Ingrese geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Haga doble clic en la preferencia geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "La navegación basada en ubicación ahora está deshabilitada">

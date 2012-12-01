@@ -10,13 +10,13 @@
 <!ENTITY exit.label "Salir">
 <!ENTITY availprofiles.label "Perfiles disponibles">
 <!ENTITY newButton.label "Crear perfil…">
-<!ENTITY newButton.accesskey "C">
+<!ENTITY newButton.accesskey "">
 <!ENTITY renameButton.label "Renombrar perfil…">
-<!ENTITY renameButton.accesskey "R">
+<!ENTITY renameButton.accesskey "">
 <!ENTITY deleteButton.label "Eliminar perfil…">
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY pmDescription.label "&brandShortName; guarda información sobre su configuración, preferencias y otros elementos en su perfil de usuario.">
 <!ENTITY offlineState.label "Trabajar sin conexión">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY offlineState.accesskey "">
 <!ENTITY autoSelect.label "No preguntar al inicio">
 <!ENTITY autoSelect.accesskey "N">

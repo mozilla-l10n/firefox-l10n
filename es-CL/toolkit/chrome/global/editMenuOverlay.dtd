@@ -12,7 +12,7 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C">
@@ -23,13 +23,13 @@
 <!ENTITY deleteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "">
 <!ENTITY findCmd.label "Buscar">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "B">
 <!ENTITY findAgainCmd.label "Buscar de nuevo">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.key2 "">
 <!ENTITY findAgainCmd.accesskey "B">
 <!ENTITY findPreviousCmd.label "Buscar anterior">
 <!ENTITY findPreviousCmd.accesskey "B">
