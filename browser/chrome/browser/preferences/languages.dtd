@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width "30em">
+<!ENTITY window.width "">
 <!ENTITY languages.customize.Header "Idiomas">
 <!ENTITY languages.customize.prefLangDescript "A veces, las páginas Web sonofrecidas en más de un idioma. Elija idiomas para mostrar esas páginas Web, según orden de preferencia.">
 <!ENTITY languages.customize.active.label "Idiomas según orden de preferencia:">
@@ -14,4 +14,4 @@
 <!ENTITY languages.customize.deleteButton.accesskey "r">
 <!ENTITY languages.customize.selectLanguage.label "Seleccione un idioma para agregar…">
 <!ENTITY languages.customize.addButton.label "Añadir">
-<!ENTITY languages.customize.addButton.accesskey "A">
+<!ENTITY languages.customize.addButton.accesskey "">

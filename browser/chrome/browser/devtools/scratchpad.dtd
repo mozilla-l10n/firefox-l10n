@@ -6,15 +6,15 @@
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newWindowCmd.label "Nueva ventana">
-<!ENTITY newWindowCmd.accesskey "N">
+<!ENTITY newWindowCmd.accesskey "">
 <!ENTITY newWindowCmd.commandkey "n">
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY openRecentMenu.label "Abrir reciente">
-<!ENTITY openRecentMenu.accesskey "R">
+<!ENTITY openRecentMenu.accesskey "">
 <!ENTITY revertCmd.label "Revertir">
-<!ENTITY revertCmd.accesskey "t">
+<!ENTITY revertCmd.accesskey "">
 <!ENTITY saveFileCmd.label "Guardar">
 <!ENTITY saveFileCmd.accesskey "G">
 <!ENTITY saveFileCmd.commandkey "s">
@@ -22,14 +22,14 @@
 <!ENTITY saveFileAsCmd.accesskey "o">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "">
 <!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "">
 <!ENTITY run.label "Ejecutar">
 <!ENTITY run.accesskey "E">
 <!ENTITY run.key "r">
 <!ENTITY inspect.label "Inspeccionar">
-<!ENTITY inspect.accesskey "I">
+<!ENTITY inspect.accesskey "">
 <!ENTITY inspect.key "i">
 <!ENTITY display.label "Mostrar">
 <!ENTITY display.accesskey "M">
@@ -37,7 +37,7 @@
 <!ENTITY environmentMenu.label "Entorno">
 <!ENTITY environmentMenu.accesskey "n">
 <!ENTITY contentContext.label "Contenido">
-<!ENTITY contentContext.accesskey "C">
+<!ENTITY contentContext.accesskey "">
 <!ENTITY browserContext.label "Navegador">
 <!ENTITY browserContext.accesskey "N">
 <!ENTITY helpMenu.label "Ayuda">
@@ -49,7 +49,7 @@
 <!ENTITY resetContext2.label "Reiniciar variables">
 <!ENTITY resetContext2.accesskey "v">
 <!ENTITY reloadAndRun.label "Recargar y ejecutar">
-<!ENTITY reloadAndRun.accesskey "E">
+<!ENTITY reloadAndRun.accesskey "">
 <!ENTITY reloadAndRun.key "r">
 <!ENTITY executeMenu.label "Ejecutar">
 <!ENTITY executeMenu.accesskey "j">

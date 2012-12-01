@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pageInfoWindow.width "600">
-<!ENTITY pageInfoWindow.height "500">
+<!ENTITY pageInfoWindow.width "">
+<!ENTITY pageInfoWindow.height "">
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Copiar">
-<!ENTITY copy.accesskey "C">
+<!ENTITY copy.accesskey "">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Seleccionar todo">
 <!ENTITY selectall.accesskey "a">
 <!ENTITY closeWindow.key "w">
-<!ENTITY generalTab "General">
-<!ENTITY generalTab.accesskey "G">
+<!ENTITY generalTab "">
+<!ENTITY generalTab.accesskey "">
 <!ENTITY generalURL "Dirección:">
 <!ENTITY generalType "Tipo:">
 <!ENTITY generalMode "Modo de renderizado:">
@@ -24,9 +24,9 @@
 <!ENTITY generalMetaName "Nombre">
 <!ENTITY generalMetaContent "Contenido">
 <!ENTITY generalSecurityDetails "Detalles">
-<!ENTITY generalSecurityDetails.accesskey "D">
+<!ENTITY generalSecurityDetails.accesskey "">
 <!ENTITY mediaTab "Medios">
-<!ENTITY mediaTab.accesskey "M">
+<!ENTITY mediaTab.accesskey "">
 <!ENTITY mediaLocation "Dirección:">
 <!ENTITY mediaText "Texto asociado:">
 <!ENTITY mediaAltHeader "Texto alternativo">
@@ -36,17 +36,17 @@
 <!ENTITY mediaCount "Cuenta">
 <!ENTITY mediaDimension "Tamaño:">
 <!ENTITY mediaLongdesc "Descripción larga:">
-<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaBlockImage.accesskey "">
 <!ENTITY mediaSaveAs "Guardar como...">
 <!ENTITY mediaSaveAs.accesskey "a">
-<!ENTITY mediaSaveAs2.accesskey "e">
+<!ENTITY mediaSaveAs2.accesskey "">
 <!ENTITY mediaPreview "Vista previa de medios:">
 <!ENTITY feedTab "Canales">
 <!ENTITY feedTab.accesskey "C">
 <!ENTITY feedSubscribe "Suscribir">
-<!ENTITY feedSubscribe.accesskey "u">
+<!ENTITY feedSubscribe.accesskey "">
 <!ENTITY permTab "Permisos">
-<!ENTITY permTab.accesskey "P">
+<!ENTITY permTab.accesskey "">
 <!ENTITY permUseDefault "Usar predeterminado">
 <!ENTITY permAskAlways "Preguntar siempre">
 <!ENTITY permAllow "Permitir">
@@ -64,10 +64,10 @@
 <!ENTITY permClearStorage "Limpiar almacenamiento">
 <!ENTITY permClearStorage.accesskey "c">
 <!ENTITY securityTab "Seguridad">
-<!ENTITY securityTab.accesskey "S">
+<!ENTITY securityTab.accesskey "">
 <!ENTITY securityHeader "Información de seguridad para esta página">
 <!ENTITY securityView.certView "Ver certificado">
-<!ENTITY securityView.accesskey "V">
+<!ENTITY securityView.accesskey "">
 <!ENTITY securityView.unknown "Desconocido">
 <!ENTITY securityView.identity.header "Desconocido">
 <!ENTITY securityView.identity.owner "Dueño: ">
@@ -77,8 +77,8 @@
 <!ENTITY securityView.privacy.history "¿He visitado este sitio web anteriormente?">
 <!ENTITY securityView.privacy.cookies "¿Está este sitio web almacenando información (cookies) en mi computador?">
 <!ENTITY securityView.privacy.viewCookies "Ver cookies">
-<!ENTITY securityView.privacy.viewCookies.accessKey "k">
+<!ENTITY securityView.privacy.viewCookies.accessKey "">
 <!ENTITY securityView.privacy.passwords "¿He almacenado contraseñas para este sitio web?">
 <!ENTITY securityView.privacy.viewPasswords "Ver contraseñas guardadas">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "">
 <!ENTITY securityView.technical.header "Detalles técnicos">

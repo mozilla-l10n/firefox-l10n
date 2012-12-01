@@ -9,9 +9,9 @@
 <!ENTITY restorepage.restoreSome "Quitar una o más pestañas que usted crea que puedan causar el problema">
 <!ENTITY restorepage.startNew "Iniciar una sesión completamente nueva">
 <!ENTITY restorepage.tryagainButton "Restaurar">
-<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.restore.access "">
 <!ENTITY restorepage.closeButton "Cerrar">
-<!ENTITY restorepage.close.access "C">
+<!ENTITY restorepage.close.access "">
 <!ENTITY restorepage.restoreHeader "Restaurar">
 <!ENTITY restorepage.listHeader "Ventanas y pestañas">
 <!ENTITY restorepage.windowLabel "Ventana #&#037;S">

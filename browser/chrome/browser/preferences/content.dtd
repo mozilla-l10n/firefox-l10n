@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY blockPopups.label "Bloquear ventanas emergentes">
-<!ENTITY blockPopups.accesskey "B">
+<!ENTITY blockPopups.accesskey "">
 <!ENTITY popupExceptions.label "Excepciones…">
-<!ENTITY popupExceptions.accesskey "E">
+<!ENTITY popupExceptions.accesskey "">
 <!ENTITY loadImages.label "Cargar imágenes automáticamente">
 <!ENTITY loadImages.accesskey "i">
 <!ENTITY exceptions.label "Excepciones…">
-<!ENTITY exceptions.accesskey "x">
+<!ENTITY exceptions.accesskey "">
 <!ENTITY enableJavaScript.label "Activar JavaScript">
-<!ENTITY enableJavaScript.accesskey "J">
+<!ENTITY enableJavaScript.accesskey "">
 <!ENTITY advancedJS.label "Avanzado…">
-<!ENTITY advancedJS.accesskey "v">
+<!ENTITY advancedJS.accesskey "">
 <!ENTITY enableJava.label "Activar Java">
 <!ENTITY enableJava.accesskey "A">
 <!ENTITY fontsAndColors.label "Fuentes &amp; Colores">
@@ -22,10 +22,10 @@
 <!ENTITY defaultSize.label "Tamaño:">
 <!ENTITY defaultSize.accesskey "T">
 <!ENTITY advancedFonts.label "Avanzado…">
-<!ENTITY advancedFonts.accesskey "A">
+<!ENTITY advancedFonts.accesskey "">
 <!ENTITY colors.label "Colores…">
-<!ENTITY colors.accesskey "C">
+<!ENTITY colors.accesskey "">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY chooseLanguage.label "Elija su idioma preferido para mostrar páginas Web.">
 <!ENTITY chooseButton.label "Seleccionar…">
-<!ENTITY chooseButton.accesskey "o">
+<!ENTITY chooseButton.accesskey "">
