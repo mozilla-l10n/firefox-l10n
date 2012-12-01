@@ -240,7 +240,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Voulez-vous activer les suggestions de recherche &formatS; ?">
 
-<!ENTITY webapp_generic_name "application">
+<!ENTITY webapp_generic_name "Application">
 
 <!ENTITY searchable_description "Marque-pages et historique">
 
