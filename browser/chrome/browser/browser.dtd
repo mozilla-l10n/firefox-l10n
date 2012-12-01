@@ -176,7 +176,7 @@
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolbarToolsButton.label "Attiva/disattiva casella strumenti">
 <!ENTITY devToolbarOtherToolsButton.label "Altri strumenti">
-<!ENTITY devToolbox.accesskey "u">
+<!ENTITY devToolbox.accesskey "m">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
 <!ENTITY getMoreDevtoolsCmd.accesskey "A">
 <!ENTITY fileMenu.label "File">
