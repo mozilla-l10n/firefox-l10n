@@ -10,24 +10,24 @@
 <!ENTITY devmgr.status.label "Estado">
 <!ENTITY devmgr.version.label "Versión">
 <!ENTITY devmgr.button.changeslotname.label "Cambiar Nombre de la Ranura">
-<!ENTITY devmgr.button.changeslotname.accesskey "">
+<!ENTITY devmgr.button.changeslotname.accesskey "C">
 <!ENTITY devmgr.button.login.label "Ingresar">
-<!ENTITY devmgr.button.login.accesskey "">
+<!ENTITY devmgr.button.login.accesskey "n">
 <!ENTITY devmgr.button.logout.label "Salir">
-<!ENTITY devmgr.button.logout.accesskey "">
-<!ENTITY devmgr.button.changepw.label "Cambiar contraseña">
-<!ENTITY devmgr.button.changepw.accesskey "">
+<!ENTITY devmgr.button.logout.accesskey "S">
+<!ENTITY devmgr.button.changepw.label "Cambiar Contraseña">
+<!ENTITY devmgr.button.changepw.accesskey "C">
 <!ENTITY devmgr.button.load.label "Cargar">
-<!ENTITY devmgr.button.load.accesskey "">
+<!ENTITY devmgr.button.load.accesskey "C">
 <!ENTITY devmgr.button.unload.label "Descargar">
-<!ENTITY devmgr.button.unload.accesskey "">
-<!ENTITY devmgr.button.fips.accesskey "">
+<!ENTITY devmgr.button.unload.accesskey "D">
+<!ENTITY devmgr.button.fips.accesskey "F">
 <!ENTITY loaddevice.info "Ingrese la información para el módulo que desea agregar.">
 <!ENTITY loaddevice.modname "Nombre de Módulo:">
-<!ENTITY loaddevice.modname.accesskey "">
+<!ENTITY loaddevice.modname.accesskey "m">
 <!ENTITY loaddevice.modname.default "Nuevo módulo PKCS#11">
 <!ENTITY loaddevice.filename "Nombre del archivo del módulo:">
-<!ENTITY loaddevice.filename.accesskey "">
+<!ENTITY loaddevice.filename.accesskey "N">
 <!ENTITY loaddevice.browse "Examinar…">
-<!ENTITY loaddevice.browse.accesskey "">
+<!ENTITY loaddevice.browse.accesskey "E">
 <!ENTITY loaddevice.title "Cargar Dispositivo PKCS#11">

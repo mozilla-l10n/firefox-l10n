@@ -9,4 +9,4 @@
 <!ENTITY printComplete "Impresión completada.">
 <!ENTITY dialogCancel.label "Cancelar">
 <!ENTITY dialogClose.label "Cerrar">
-<!ENTITY percentPrint "">
+<!ENTITY percentPrint "#1&#037;">
