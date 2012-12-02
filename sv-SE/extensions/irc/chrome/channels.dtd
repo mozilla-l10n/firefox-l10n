@@ -4,8 +4,11 @@
 
 <!ENTITY window.title  "Gå med i kanal">
 
-<!ENTITY qsearch.label     "Snabbsökning:">
-<!ENTITY qsearch.accesskey "S">
+<!ENTITY network.label     "Nätverk:">
+<!ENTITY network.accesskey "v">
+
+<!ENTITY channel.label     "Kanal:">
+<!ENTITY channel.accesskey "K">
 
 <!ENTITY topics.label     "Sök både i ämne och kanalnamn">
 <!ENTITY topics.accesskey "ö">
@@ -22,6 +25,9 @@
 <!ENTITY refresh.label     "Uppdatera nu">
 <!ENTITY refresh.accesskey "U">
 
+<!ENTITY network.hint.label "Ange ett nätverk eller ett servernamn (ev inklusive port) och en kanal att gå med i.">
+
+<!ENTITY col.network "Nätverk">
 <!ENTITY col.name  "Namn">
 <!ENTITY col.users "Användare">
 <!ENTITY col.topic "Ämne">
