@@ -30,13 +30,7 @@
 <!ENTITY saveTo.accesskey "L">
 <!ENTITY chooseFolderWin.label        "Bla gjennom …">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "Vel …">
-<!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Spør meg alltid kvar filer skal lagrast">
-<!ENTITY alwaysAsk.accesskey "ø">
-
-<!ENTITY addonsMgr.label               "Utvidingar">
-<!ENTITY manageAddonsDescWin.label     "Endre innstillingar for utvidingane">
-<!ENTITY manageAddonsDescUnix2.label   "Endre innstillingar for utvidingane">
-<!ENTITY manageAddons.label            "Behandle utvidingar …">
-<!ENTITY manageAddons.accesskey        "e">
+<!ENTITY chooseFolderMac.label        "Bla gjennom …">
+<!ENTITY chooseFolderMac.accesskey    "o">
+<!ENTITY alwaysAsk.label "Alltid spør meg kvar filer skal lagrast">
+<!ENTITY alwaysAsk.accesskey "A">

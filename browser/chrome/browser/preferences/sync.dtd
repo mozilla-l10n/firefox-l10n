@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "U">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Datamaskinnamn:">
-<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY syncDeviceName.label       "Einingsnamn:">
+<!ENTITY syncDeviceName.accesskey   "E">
 <!ENTITY unlinkDevice.label           "Fjern tilknyting til eininga">
 
 <!-- Footer stuff -->
