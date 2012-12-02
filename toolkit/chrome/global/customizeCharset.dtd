@@ -4,10 +4,10 @@
 
 <!ENTITY title.label "Personalizar la codificación de caracteres">
 <!ENTITY current.label "Codificaciones de caracteres activas:">
-<!ENTITY remove.label "RemoverEliminar">
-<!ENTITY remove.accessKey "R">
+<!ENTITY remove.label "Eliminar">
+<!ENTITY remove.accessKey "E">
 <!ENTITY additional.label "Codificaciones de caracteres disponibles:">
-<!ENTITY add.label "Agregar">
+<!ENTITY add.label "Añadir">
 <!ENTITY add.accessKey "A">
 <!ENTITY moveUp.label "Mover hacia arriba">
 <!ENTITY moveUp.accessKey "U">

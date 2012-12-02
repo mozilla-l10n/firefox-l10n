@@ -7,15 +7,15 @@
 <!ENTITY errLine.label "Linea:">
 <!ENTITY errColumn.label "Columna:">
 <!ENTITY all.label "Todo">
-<!ENTITY all.accesskey "A">
+<!ENTITY all.accesskey "T">
 <!ENTITY errors.label "Errores">
 <!ENTITY errors.accesskey "E">
 <!ENTITY warnings.label "Advertencias">
-<!ENTITY warnings.accesskey "W">
+<!ENTITY warnings.accesskey "A">
 <!ENTITY messages.label "Mensajes">
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label "Limpiar">
-<!ENTITY clear.accesskey "C">
+<!ENTITY clear.accesskey "L">
 <!ENTITY codeEval.label "Código:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label "Evaluar">
@@ -26,7 +26,7 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY copyCmd.commandkey "C">
 <!ENTITY sortFirst.label "Ordenar Primero > Último">
-<!ENTITY sortFirst.accesskey "f">
+<!ENTITY sortFirst.accesskey "O">
 <!ENTITY sortLast.label "Ordenar Último > Primero">
 <!ENTITY sortLast.accesskey "l">
 <!ENTITY closeCmd.commandkey "w">

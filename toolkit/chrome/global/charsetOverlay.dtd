@@ -21,4 +21,4 @@
 <!ENTITY charsetMenuUnicode.label "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey "U">
 <!ENTITY charsetCustomize.label "Personalizar Lista…">
-<!ENTITY charsetCustomize.accesskey "c">
+<!ENTITY charsetCustomize.accesskey "p">

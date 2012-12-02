@@ -12,4 +12,4 @@
 <!ENTITY blocklist.accept.label "Reiniciar &brandShortName;">
 <!ENTITY blocklist.accept.accesskey "R">
 <!ENTITY blocklist.blocked.label "Bloqueado">
-<!ENTITY blocklist.checkbox.label "Desactivar">
+<!ENTITY blocklist.checkbox.label "Deshabilitar">
