@@ -42,9 +42,8 @@
 <!ENTITY stop "Стоп">
 <!ENTITY site_security "Защита сайта">
 <!ENTITY close_tab "Закрыть вкладку">
-<!ENTITY new_tab "Новая вкладка">
 <!ENTITY one_tab "1 вкладка">
-<!ENTITY num_tabs "&#037;d вкладок">
+<!ENTITY num_tabs2 "&formatD; вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
@@ -106,7 +105,10 @@
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Полная версия сайта">
 <!ENTITY tools "Инструменты">
-<!ENTITY new_pb_tab "Новая приватная вкладка">
+<!ENTITY new_tab "Новая вкладка">
+<!ENTITY new_private_tab "Новая приватная вкладка">
+<!ENTITY synced_tabs "Синхронизированные вкладки">
+<!ENTITY close_all_tabs "Закрыть все вкладки">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Назад">
 <!ENTITY find_next "Далее">
@@ -168,7 +170,7 @@
 <!ENTITY bookmarkhistory_import_bookmarks "Импорт закладок из Android">
 <!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
 <!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
-<!ENTITY suggestions_prompt "Вы хотите включить поисковые предложения от &#037;s?">
+<!ENTITY suggestions_prompt2 "Вы хотите включить поисковые предложения &formatS;?">
 <!ENTITY webapp_generic_name "Приложение">
 <!ENTITY searchable_description "Закладки и история">
 <!ENTITY updater_start_title2 "Доступно обновление &brandShortName;">
