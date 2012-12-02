@@ -5,7 +5,7 @@
 <!ENTITY button-back-mac.label "Ir hacia atrás">
 <!ENTITY button-back-mac.accesskey "I">
 <!ENTITY button-next-mac.label "Continuar">
-<!ENTITY button-next-mac.accesskey "">
+<!ENTITY button-next-mac.accesskey "C">
 <!ENTITY button-finish-mac.label "Listo">
 <!ENTITY button-cancel-mac.label "Cancelar">
 <!ENTITY button-back-unix.label "Anterior">

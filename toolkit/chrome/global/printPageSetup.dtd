@@ -12,7 +12,7 @@
 <!ENTITY landscape.accesskey "l">
 <!ENTITY scale.label "Escala:">
 <!ENTITY scale.accesskey "E">
-<!ENTITY scalePercent "">
+<!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Reducir hasta ajustar al ancho de la página">
 <!ENTITY shrinkToFit.accesskey "R">
 <!ENTITY optionsGroup.label "Opciones">
@@ -41,7 +41,7 @@
 <!ENTITY footerCenter.tip "Pie central">
 <!ENTITY footerRight.tip "Pie derecho">
 <!ENTITY hfTitle "Título">
-<!ENTITY hfURL "">
+<!ENTITY hfURL "URL">
 <!ENTITY hfDateAndTime "Fecha/Hora">
 <!ENTITY hfPage "Página #">
 <!ENTITY hfPageAndTotal "Página # de #">

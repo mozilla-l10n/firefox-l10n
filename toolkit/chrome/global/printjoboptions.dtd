@@ -8,21 +8,21 @@
 <!ENTITY plexInput.label "Modo plex:">
 <!ENTITY plexInput.accesskey "M">
 <!ENTITY resolutionInput.label "Resolución/Calidad:">
-<!ENTITY resolutionInput.accesskey "">
+<!ENTITY resolutionInput.accesskey "e">
 <!ENTITY cmdInput.label "Comando de impresión:">
-<!ENTITY cmdInput.accesskey "">
+<!ENTITY cmdInput.accesskey "o">
 <!ENTITY jobTitleInput.label "Título del trabajo:">
 <!ENTITY jobTitleInput.accesskey "T">
-<!ENTITY colorGroup.label "Colores">
+<!ENTITY colorGroup.label "Color:">
 <!ENTITY grayRadio.label "Escala de grises">
 <!ENTITY grayRadio.accesskey "g">
-<!ENTITY colorRadio.label "Colores">
-<!ENTITY colorRadio.accesskey "">
+<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.accesskey "C">
 <!ENTITY colorspaceInput.label "Espacio de color:">
-<!ENTITY colorspaceInput.accesskey "">
+<!ENTITY colorspaceInput.accesskey "s">
 <!ENTITY fontsGroup.label "Tipografías:">
 <!ENTITY downloadFonts.label "Descargar fuentes a la impresora">
-<!ENTITY downloadFonts.accesskey "">
+<!ENTITY downloadFonts.accesskey "D">
 <!ENTITY edgeMarginInput.label "Espacio desde el borde del papel al margen">
 <!ENTITY topInput.label "Espacio desde el borde del papel al margen">
 <!ENTITY topInput.accesskey "E">
